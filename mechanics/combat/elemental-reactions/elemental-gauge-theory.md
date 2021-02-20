@@ -22,7 +22,7 @@ When an elemental source is used to apply an **aura**, it applies a number of el
 
 Why is 2U = 12s, but 1U isn’t 6s? This is because a 2U aura has a **higher decay rate** than a 1U aura. Larger U means a bigger elemental gauge, at the cost of an increased rate of decay.
 
-![A graph showing the decay rate of 2U \(red line\) vs 1U \(green line\)](https://github.com/Neptunya/TCL/tree/4cade00cfa0f4c3d70a217233450b9ae03fb5082/mechanics/combat/.gitbook/assets/simple_decay.png)
+![](../../../.gitbook/assets/simple_decay.png)
 
 ## Decay Rate
 
@@ -32,7 +32,7 @@ Meaning, a 2U or 4U gauge can be decaying at the rate of a 1U gauge. To do this,
 
 > Fischl's Charged Shot to applies 1U electro, the use of Beidou's Q will add 4U electro to the gauge, resulting in a 4U electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![This graph displays how each 1U, 2U, and 4U gauges decay according to each decay rate.](https://github.com/Neptunya/TCL/tree/4cade00cfa0f4c3d70a217233450b9ae03fb5082/mechanics/combat/.gitbook/assets/advanced_decay.png)
+![](../../../.gitbook/assets/advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
@@ -133,6 +133,14 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 **Unit Modifier** = A modifier that applies to the **triggers** of: Melt, Vaporize, Crystallize, and Swirl.
 
 * This modifier can increase or decrease how much of the aura is consumed in said reactions.
+
+## **External Links**
+
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
+
+**Tags:** [Elemental Reactions](./)
+
+**Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md" %}
 
