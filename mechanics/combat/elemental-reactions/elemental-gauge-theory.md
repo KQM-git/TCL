@@ -22,17 +22,17 @@ When an elemental source is used to apply an **aura**, it applies a number of el
 
 Why is 2U = 12s, but 1U isn’t 6s? This is because a 2U aura has a **higher decay rate** than a 1U aura. Larger U means a bigger elemental gauge, at the cost of an increased rate of decay.
 
-![A graph showing the decay rate of 2U \(red line\) vs 1U \(green line\)](../.gitbook/assets/simple_decay.png)
+![A graph showing the decay rate of 2U \(red line\) vs 1U \(green line\)](https://github.com/Neptunya/TCL/tree/4cade00cfa0f4c3d70a217233450b9ae03fb5082/mechanics/combat/.gitbook/assets/simple_decay.png)
 
 ## Decay Rate
 
-Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed. Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura. 
+Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed. Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura.
 
 Meaning, a 2U or 4U gauge can be decaying at the rate of a 1U gauge. To do this, apply a 1U gauge, then apply a 2U or 4U gauge of the same element.
 
 > Fischl's Charged Shot to applies 1U electro, the use of Beidou's Q will add 4U electro to the gauge, resulting in a 4U electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![This graph displays how each 1U, 2U, and 4U gauges decay according to each decay rate.](../.gitbook/assets/advanced_decay.png)
+![This graph displays how each 1U, 2U, and 4U gauges decay according to each decay rate.](https://github.com/Neptunya/TCL/tree/4cade00cfa0f4c3d70a217233450b9ae03fb5082/mechanics/combat/.gitbook/assets/advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
@@ -97,12 +97,11 @@ EC is triggered when an enemy with a hydro or electro aura has the other aura ap
 
 > When either the electro or hydro gauge completely decays, the next EC tick will prematurely occur at the moment at which the gauge completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
 
-Each tick of EC consumes 0.4U from both gauges. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions. 
+Each tick of EC consumes 0.4U from both gauges. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
 
 ## Definitions
 
-**Aura
- =** If a targettable entity is currently not affected by any element, the next elemental source will apply an aura.
+**Aura =** If a targetable entity is currently not affected by any element, the next elemental source will apply an aura.
 
 **Aura Tax** = A reduction of an Aura’s gauge shortly after it’s applied. As of now, there is no explanation as to why it occurs, but it is still important to keep in mind
 
@@ -125,12 +124,15 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources corresponding Gauge Unit Value \(measured in U\).
 
-**Internal Cooldown\(ICD\)** = A hidden timer which occurs when an **elemental source** applies an **aura** or **trigger** to an enemy. 
+**Internal Cooldown\(ICD\)** = A hidden timer which occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
 
 * During this ICD, repeated use of that specific elemental source **WILL** do elemental damage, but **WILL NOT** apply an aura/trigger 
 
-**Trigger** = If a targettable entity has an **existing aura**, the next elemental **source** will act as a **trigger** for a reaction.
+**Trigger** = If a targetable entity has an **existing aura**, the next elemental **source** will act as a **trigger** for a reaction.
 
-**Unit Modifier** = A modifier that applies to the **triggers** of: Melt, Vaporize, Crystallize, and Swirl. 
+**Unit Modifier** = A modifier that applies to the **triggers** of: Melt, Vaporize, Crystallize, and Swirl.
 
 * This modifier can increase or decrease how much of the aura is consumed in said reactions.
+
+{% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md" %}
+

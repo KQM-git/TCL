@@ -4,7 +4,7 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 # Beidou
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou 
+## ![](../../.gitbook/assets/element_electro.png) Beidou
 
 ![](../../.gitbook/assets/beidou.png)
 
@@ -49,7 +49,7 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 
 {% tab title="Tidecaller" %}
 **Press**  
- Beidou swings her blade dealing Electro DMG.
+Beidou swings her blade dealing Electro DMG.
 
 **Hold**
 
@@ -60,8 +60,8 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG           | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold           | 170.24% | 7.5s | 2U        | 2~3 \(1:9\) |  |  |
+| Base DMG | 170.24% | 7.5s | 2U | 2 |  |  |
+| Hold | 170.24% | 7.5s | 2U | 2~3 \(1:9\) |  |  |
 | DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
 | Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
 
@@ -69,7 +69,7 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.  
+Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
 **Thunderbeast's Targe**
 
@@ -112,7 +112,7 @@ Counterattacking with Tidecaller at the precise moment when the character is hit
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter           | 170.24% | 7.5s | 2U | 4 | 19 |  |
+| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -181,7 +181,7 @@ Serpent stacks still boost damage when off-field.
 
 ### The Bell
 
-Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast. 
+Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast.
 
 ### Rainslasher
 
@@ -199,9 +199,7 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
-**Evidence Vault:** 
+**Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/beidou.md" %}
-
-
 

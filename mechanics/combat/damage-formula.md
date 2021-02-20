@@ -1,6 +1,6 @@
 # Damage Formula
 
-## **General Formula for Damage**  
+## **General Formula for Damage**
 
 ![](https://lh5.googleusercontent.com/8Ed7rJvoBVEpMiZvDyLDXqTa9Vv62mcJvyjNhDsZWaQ2csbsK09m2MJHZkWTcV8wyB7KHz_ojOGRqKtCP29IVU5nTefU3DsDL-IKmWa-hsvJwREi3k6lE3iRBKRtUrQUOtyyK_A)
 
@@ -19,7 +19,7 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 | **AttackWeapon** | Weapon's base attack. |
 | **AttackBonus** | Sum of all percentage-based attack bonuses from artifacts and other sources. |
 | **FlatAttack** | Sum of all non-percentage-based attack bonuses from the feather and other sources. |
-| **DefenseCharacter**        | Charcter's base defense. |
+| **DefenseCharacter** | Charcter's base defense. |
 | **DefenseBonus** | Sum of all percentage-based defense bonuses from artifacts and other sources. |
 | **FlatDamage** | Extra damage from Zhongli's A4 passive. |
 | **DamageBonus** | Sum of all damage increases from elemental goblets, Gladiator's Finale 4-piece bonus, etc, excluding Xingqiu's constellation 4 effect Evilsoother. |
@@ -28,20 +28,18 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ![](https://lh3.googleusercontent.com/KdYsiUu9IqPYslvoex5oNL-eh4lbMKrrZxcINp45qHTUVE64OADEQoplmQqDdWMrqRBhW_bVEN5ngAw81ymm9NQx7Dz4klxY2z5BLdk2yer5JVuYZde6NFi6HMIdMr19LvoNn94)
 
-| Formula Variable             | Explanation |
+| Formula Variable | Explanation |
 | :--- | :--- |
 | **CritRate** | The total crit rate, including the 5% base crit rate and bonuses from artifacts, etc. |
-| **CritDamage**                   | The total crit damage, including the 50% base crit rate and bonuses from artifacts, etc. |
+| **CritDamage** | The total crit damage, including the 50% base crit rate and bonuses from artifacts, etc. |
 
 ## Enemy Defense
 
 ![](https://lh5.googleusercontent.com/XhXkMOeRep9gAktBxQN6VecPOQDwDcuyVL6jVRvyCvRpu5y55uG9_Wf1NLrm9rd6pAu1QEYfgdlIzHfjJRWZ1K3zL6glorl4Fojq98hLHY1YtUwdlcPBeADLqXnWGryTk_YJzNo)
 
-
-
-| Formula Variable               | Explanation |
+| Formula Variable | Explanation |
 | :--- | :--- |
-| **LvlCharacter**                 | The player character's level. |
+| **LvlCharacter** | The player character's level. |
 | **LvlEnemy** | The enemy's level. |
 | **DefReduction** | The total defense \(but not resistance\) reduction from effects such as Razor's Constellation 4, Lisa Ascension 4, and Klee Constellation 2. |
 
@@ -51,7 +49,7 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 | Formula Variable | Explanation |
 | :--- | :--- |
-| **BaseResistance**            | The enemy's base resistance to the element of the talent being used. [Check the Genshin Wikia ](https://genshin-impact.fandom.com/wiki/Damage%23Base_Enemy_Resistances%20)for a table of all enemy base elemental resisistances. |
+| **BaseResistance** | The enemy's base resistance to the element of the talent being used. [Check the Genshin Wikia ](https://genshin-impact.fandom.com/wiki/Damage%23Base_Enemy_Resistances%20)for a table of all enemy base elemental resisistances. |
 | **ResistanceReduction** | The total resistance reduction of the relevant element from effects such as Superconduct and Viridescent Venerer. |
 
 ## Amplifying Reaction Bonus
@@ -61,7 +59,7 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **EM** | The character's total Elemental Mastery. |
-| **ReactionBonus**             | Reaction damage bonuses from the Crimson Witch 4-piece set and from Mona's C1 \(for Vaporize\). |
+| **ReactionBonus** | Reaction damage bonuses from the Crimson Witch 4-piece set and from Mona's C1 \(for Vaporize\). |
 
 ## Evilsoother
 
@@ -69,7 +67,7 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 | Formula Variable | Explanation |
 | :--- | :--- |
-| **Evilsoother**                      | Xingqiu’s Constellation 4 ability and applies a 1.5 buff to his elemental skill |
+| **Evilsoother** | Xingqiu’s Constellation 4 ability and applies a 1.5 buff to his elemental skill |
 
 ## Transformative Reaction Bonus
 
