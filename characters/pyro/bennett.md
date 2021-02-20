@@ -4,9 +4,9 @@ description: >-
   unlucky.
 ---
 
-# Bennet
+# Bennett
 
-## ![](../../.gitbook/assets/element_pyro.png) Bennett
+## ![](../../.gitbook/assets/element_pyro.png) BennettEDITed
 
 ![](../../.gitbook/assets/bennett.png)
 
