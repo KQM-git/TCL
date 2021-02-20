@@ -47,68 +47,48 @@ Enemies struck by Albedo's charged attack will be launched.
 {% tab title="Abiogenesis: Solar Isotoma" %}
 Albedo creates a **Solar Isotoma**, which deals AoE Geo DMG on appearance.
 
-**Solar Isotoma:**
+**Press**  
+Places **Solar Isotoma** a small distance in front of Albedo.
 
+**Hold**  
+Allows player to designate the location of **Solar Isotoma.**
+
+**Solar Isotoma:**  
 When opponents within the **Solar Isotoma** field take DMG, the Solar Isotoma will generate **Transient Blossoms** which deal AoE Geo DMG.
 
-* DMG dealt scales off Albedo’s DEF
-* Transient Blossoms can only be generated once every 2s
+* DMG dealt by **Transient Blossoms** scale off Albedo’s DEF.
+* **Transient Blossoms** can only be generated once every 2s.
 
 When a character is located on the Solar Isotoma, the Solar Isotoma will form a crystallized platform that lifts the character up to a certain height
 
-* Only one crystallized platform can exist at a time
-* Solar Isotoma is considered a Geo construct
-  * Only one per Albedo can exist at a time
+* Only one crystallized platform can exist at a time.
+* **Solar Isotoma** is considered a Geo construct, casting other constructs above it will cause the construct to shatter.
+  * Only one per Albedo can exist at a time.
 
-Press
+| Type | Talent 6% | Cooldown | Duration | GU | Particles | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Solar Isotoma           | 182.56% | 4s | 30s |  | 0 |  |  |
+| Transient Blossom           | 184.04% DEF |  |  |     | 0~1 \(1:2\) |  | 93.52%/s |
 
-Places Solar Isotoma a small distance in front of Albedo.  
-
-
-Hold
-
-Allows player to designate the location of Solar Isotoma.  
-
-
-
-
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG           | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold           | 170.24% | 7.5s | 2U        | 2~3 \(1:9\) |  |  |
-| DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
-
-* Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
+* The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 {% endtab %}
 
 {% tab title="Rite of Progeniture: Tectonic Tide" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.  
-
-**Thunderbeast's Targe**
-
-* When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.
-* Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 lightning discharge can be triggered per second.
-* Snapshot on cast.
+Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of him.If a **Solar Isotoma** is on the field, 7 **Fatal Blossoms** will be generated in the **Solar Isotoma** field, dealing AoE Geo DMG.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Cast DMG | 170.24% |
-| Lightning | 134.4% |
-| DMG Reduction | 26% \(scaling\) |
-| Duration | 15s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Cast GU | 4U |
-| Lightning GU | 1U |
+| Burst DMG | 514.08% |
+| Fatal Blossom DMG | 100.8% each Blossom |
+| Cooldown | 12s |
+| Energy Cost | 40 |
+| Cast GU |  |
+| Fatal Blossom GU | 1U |
 | Frames |  |
 
-* Beidou's lightning discharges have 3 damage instance with 2 targets or more.
+* Tectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.
 {% endtab %}
 {% endtabs %}
-
-
 
 ## **Ascension Passives**
 

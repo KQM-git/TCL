@@ -4,9 +4,9 @@ description: >-
   unlucky.
 ---
 
-# Bennet
+# Bennett
 
-## ![](../../.gitbook/assets/element_pyro.png) Bennett 
+## ![](../../.gitbook/assets/element_pyro.png) Bennett
 
 ![](../../.gitbook/assets/bennett.png)
 
@@ -54,8 +54,8 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press     | 192.64% | 5s | 2U | 2 |  |  |
-| Level 1           | 117.6% + 128.8% | 7.5s | 2 x 1U        | 3 |  |  |
+| E Press | 192.64% | 5s | 2U | 2 |  |  |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1U | 3 |  |  |
 | Level 2 | 123.2% + 134.4% | 10s | 2 x 1U | 3 |  |  |
 | Explosion |  |  | 1U |  |  |  |
 
@@ -64,7 +64,7 @@ Bennett strikes once, dealing Pyro DMG.
 {% endtab %}
 
 {% tab title="Fantastic Voyage" %}
-Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG. 
+Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
 
 **Inspiration Field**
 
@@ -171,9 +171,7 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 **Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
-**Evidence Vault:** 
+**Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
-
-
 
