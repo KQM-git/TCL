@@ -32,7 +32,7 @@ Meaning, a 2U or 4U gauge can be decaying at the rate of a 1U gauge. To do this,
 
 > Fischl's Charged Shot to applies 1U electro, the use of Beidou's Q will add 4U electro to the gauge, resulting in a 4U electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![](../../../.gitbook/assets/advanced_decay.png)
+![This graph displays how each 1U, 2U, and 4U gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
