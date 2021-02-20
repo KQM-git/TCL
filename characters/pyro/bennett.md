@@ -4,7 +4,7 @@ description: >-
   unlucky.
 ---
 
-# Bennett
+# Bennet
 
 ## ![](../../.gitbook/assets/element_pyro.png) Bennett 
 
