@@ -134,5 +134,5 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 
 * This modifier can increase or decrease how much of the aura is consumed in said reactions.
 
-{% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md" %}
+{% page-ref page="../../../evidence/mechanics/combat/elemental-gauge-theory.md" %}
 
