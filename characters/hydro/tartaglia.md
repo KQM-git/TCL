@@ -1,18 +1,16 @@
-# Tartaglia
-
 ---
 description: >-
-  No. 11 of The Harbingers, also known as “Childe.” His name is highly feared on
-  the battlefield.
+  No. 11 of The Harbingers, also known as “Childe.” His name is highly feared
+  onthe battlefield.
 ---
 
 # Tartaglia
 
-## ![](.gitbook/assets/element_hydro.png) Tartaglia
+## ![](../../.gitbook/assets/element_hydro.png)Tartaglia
 
-![](.gitbook/assets/tartaglia.png)
+![](../../.gitbook/assets/tartaglia.png)
 
-## **Attacks**
+### **Attacks**
 
 {% tabs %}
 {% tab title="Cutting Torrent" %}
@@ -38,7 +36,7 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% |  |  | ~ |
 | Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3  |  |  | 1U |
+| Riptide Flash | 17.63% \* 3 |  |  | 1U |
 | Riptide Burst | 86.8% |  |  | 2U |
 
 **Plunge**  
@@ -73,7 +71,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Preemptive CD | 6s ~ 36s |
 | Max CD | 45s |
 
-**Normal Attack**   
+**Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
 
 | String | Talent 6% | Frames | MV/s | GU |
@@ -137,52 +135,52 @@ Performs a different attack depending on the stance in which it is cast.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+### **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
-### Master of Weaponry
+#### Master of Weaponry
 
 Increases your own party member’s Normal Attack Level by 1.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Never Ending
+#### Never Ending
 
 Extends Riptide duration by 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Sword of Torrents
+#### Sword of Torrents
 
 When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+### Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### Foul Legacy: Tide Withholder
+#### Foul Legacy: Tide Withholder
 
 Decreases the CD of Foul Legacy: Raging Tide by 20%
 {% endtab %}
 
 {% tab title="C2" %}
-### Foul Legacy: Understream
+#### Foul Legacy: Understream
 
 When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy
 {% endtab %}
 
 {% tab title="C3" %}
-### Abyssal Mayhem: Vortex of Turmoil
+#### Abyssal Mayhem: Vortex of Turmoil
 
 Increases the Level of Foul Legacy: Ragin Tide by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Abyssal Mayhem: Hydrospout**
+#### **Abyssal Mayhem: Hydrospout**
 
 If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
 
@@ -190,20 +188,20 @@ If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Sl
 {% endtab %}
 
 {% tab title="C5" %}
-### Havoc: Formless Blade
+#### Havoc: Formless Blade
 
 Increases the Level of Havoc: Obliteration by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### Havoc: Annihilation
+#### Havoc: Annihilation
 
 When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
+### **External Links**
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/tartaglia/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
@@ -212,6 +210,4 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
-
-
 
