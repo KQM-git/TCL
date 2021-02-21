@@ -39,7 +39,7 @@
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
   * [Mona](characters/hydro/mona.md)
-  * [Tartaglia](evidence/characters/hydro/tartaglia.md)
+  * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
 * [Pyro](characters/pyro/README.md)
   * [Amber](characters/pyro/amber.md)
