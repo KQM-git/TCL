@@ -34,7 +34,7 @@
   * [Traveler \(Geo\)](characters/geo/traveler-geo.md)
   * [Albedo](characters/geo/albedo.md)
   * [Ningguang](characters/geo/ningguang.md)
-  * [Noelle](characters/geo/noelle.md)
+  * [Noelle](evidence/characters/geo/noelle.md)
   * [Zhongli](characters/geo/zhongli.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
