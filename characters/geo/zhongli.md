@@ -86,7 +86,7 @@ Zhongli channels for 2 seconds causing the following effects:
 | Motion Value |  |
 {% endtab %}
 
-{% tab title="Stormbreaker" %}
+{% tab title="Planet Befall" %}
 Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemies caught in its AoE and applying **Petrification** status to them. 
 
 **Petrification**
