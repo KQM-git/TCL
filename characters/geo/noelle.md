@@ -6,9 +6,9 @@ description: >-
 
 # Noelle
 
-## ![](.gitbook/assets/element_geo.png) Noelle
+## ![](../../.gitbook/assets/element_geo.png) Noelle
 
-![](.gitbook/assets/noelle.png)
+![](../../.gitbook/assets/noelle.png)
 
 ## **Attacks**
 
