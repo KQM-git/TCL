@@ -6,11 +6,9 @@ By: Doug\#8888
 
 Added 11/12/2020
 
-Edited 1/9/2021  
+Edited 1/9/2021
 
-
-Using elements to cause reactions are a key cornerstone of Genshin Impact. To optimise your damage and teambuilding, you must understand the precise mechanics behind how elements are applied, react together, and persist. Let’s first define some key terms.  
-
+Using elements to cause reactions are a key cornerstone of Genshin Impact. To optimise your damage and teambuilding, you must understand the precise mechanics behind how elements are applied, react together, and persist. Let’s first define some key terms.
 
 ### Elemental Source
 
@@ -60,12 +58,11 @@ Added 2/4/2021
 
 ### Finding
 
-Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.   
-
+Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.
 
 ### Evidence
 
-I tested the number of frames that elements last on my character, upon being hit by attacks from these enemies: 
+I tested the number of frames that elements last on my character, upon being hit by attacks from these enemies:
 
 * Electro Cicin: 12s Electro \(2 units\) 
 * Electro Hilichurl Shooter: 12s Electro \(2 units\) 
@@ -73,19 +70,19 @@ I tested the number of frames that elements last on my character, upon being hit
 * Cryo Hilichurl Shooter: 12s Cryo \(2 units\) 
 * Hilichurl Berserker \(Pyro Club\): Single hit applied 12s \(2 units\), multi-hit dash applies 9.5s each hit \(1 unit\) 
 
-Unlike when testing on an enemy, these are exact frame values. There seems to be a slight delay on when elements appear over an enemy's head. For example, if you cause a reaction on an enemy, the reaction text will appear one or two frames before the element appears over their head. Also, at the end of an element's duration, it slowly pulses and fades out, making it difficult to find the exact frame at which it disappears. 
+Unlike when testing on an enemy, these are exact frame values. There seems to be a slight delay on when elements appear over an enemy's head. For example, if you cause a reaction on an enemy, the reaction text will appear one or two frames before the element appears over their head. Also, at the end of an element's duration, it slowly pulses and fades out, making it difficult to find the exact frame at which it disappears.
 
 On our own characters, the element does not fade out, but immediately disappears between frames. This allows us to more precisely measure elemental durations: for example, there are precisely 720 frames between the Electro appearing above my health bar when I am shot by an Electro Shooter, and the Electro disappearing from my health bar when it times out. So it lasts exactly 720 / 60 = 12s.
 
 Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
-[https://youtu.be/cUWXy\_PNO\_E](https://youtu.be/cUWXy_PNO_E) 
+[https://youtu.be/cUWXy\_PNO\_E](https://youtu.be/cUWXy_PNO_E)
 
 Enemy skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
-[https://youtu.be/qjTTqPpujiM](https://youtu.be/qjTTqPpujiM) 
+[https://youtu.be/qjTTqPpujiM](https://youtu.be/qjTTqPpujiM)
 
-In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "Aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct. 
+In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "Aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct.
 
 ### Significance
 
@@ -95,7 +92,7 @@ This allows us to more precisely measure frames on reactions due to the way frie
 
 Edited 1/9/2021
 
-Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) when reading this article 
+Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) when reading this article
 
 ### General Overview
 
@@ -210,10 +207,8 @@ THE FOLLOWING SECTIONS ARE UNDER CONSTRUCTION
 
 * All elemental sources \(except Geo/Anemo\) apply a 1U, 2U, or 4U elemental aura/gauge onto a non-debuffed enemy.
 * The U-value represents 2 attributes
-
-1. The decay rate of the gauge
-2. The number of units in the gauge
-
+* The decay rate of the gauge
+* The number of units in the gauge
 * We can use the decay rate and unit amount to calculate the gauge duration and understand how reactions \(unit reductions\) subtract from the gauge duration.
 
 ### The Concept of Gauge Units \(U\)
@@ -251,7 +246,7 @@ Some examples
 
 Anemo and Geo function differently because players can only use these elements to trigger reactions
 
-Please note that Gauge Units are not a direct conversion from elemental aura duration.  This is why you cannot simply divide the 2U duration by 2 to find 1U duration.
+Please note that Gauge Units are not a direct conversion from elemental aura duration. This is why you cannot simply divide the 2U duration by 2 to find 1U duration.
 
 ### How are Gauge Units consumed in Transformative reactions \(except Swirl and Crystallise\)?
 
@@ -351,23 +346,21 @@ In the above section, we stated that different U auras have different decay rate
 
 ## **Gauge Unit Theory - Testing and Evidence**
 
-By: BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888  
-
+By: BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888
 
 ### Theory
 
-The Weak/Strong 9.5/12s theory of auras is incorrect. There is also no Very Weak or Very Strong upgrade/downgrade system. Elemental applications instead apply 1, 2 or 4 Gauge Units \(GU\). The amount of time a GU persists for can vary, and depends on how many GU were applied by the first ability to hit that enemy. The "stronger" the ability was that started the aura/the more GU it applied, the faster the aura decays.  
-
+The Weak/Strong 9.5/12s theory of auras is incorrect. There is also no Very Weak or Very Strong upgrade/downgrade system. Elemental applications instead apply 1, 2 or 4 Gauge Units \(GU\). The amount of time a GU persists for can vary, and depends on how many GU were applied by the first ability to hit that enemy. The "stronger" the ability was that started the aura/the more GU it applied, the faster the aura decays.
 
 ### Evidence
 
-Robin provided me with info from CN, which allowed me to make this graph: [https://www.desmos.com/calculator/zjmzbsyqql](https://www.desmos.com/calculator/zjmzbsyqql) 
+Robin provided me with info from CN, which allowed me to make this graph: [https://www.desmos.com/calculator/zjmzbsyqql](https://www.desmos.com/calculator/zjmzbsyqql)
 
 This graph accurately predicts all the downgrade/upgrade, Vaporize, Melt oddities that we have so far struggled to account for. It does so by separating the elemental gauge amount from the length of time that elemental aura stays on the enemy: they are related, but separate properties.
 
 Consider the known "Weak" application of 9.5s \(applies 1 GU, green line on the graph\) and "Strong" application of 12s \(applies 2GU, red line on the graph\). On the graph, the y-axis is the GU in the gauge, the x-axis is duration.
 
-[https://imgur.com/bnTvgvh](https://imgur.com/bnTvgvh) 
+[https://imgur.com/bnTvgvh](https://imgur.com/bnTvgvh)
 
 I apply Strong Pyro then Overload with Weak Electro. That is an aura of 2GU, then a reduction of 1GU from the Weak Electro, leaving 1GU left on the Pyro aura. If 2GU is 12s, then a reduction of 1GU would be a reduction of 6s, correct?
 
@@ -377,7 +370,7 @@ In this video we see that the Pyro only lasted 4.55s, so the Electro reduced the
 
 This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.
 
-[https://imgur.com/UFttRz4](https://imgur.com/UFttRz4) 
+[https://imgur.com/UFttRz4](https://imgur.com/UFttRz4)
 
 The weak element in Vaporize or Melt reduces the gauge by half the GU it normally would. So a 2GU reduction becomes a 1GU reduction, and a 1GU reduction becomes a 0.5GU reduction. In the Strong-Strong section of this video, we apply 2GU of Pyro then 2GU of Cryo. This causes a 7.28s reduction, roughly equivalent to the 1GU reduction in the previous example. The Weak-Weak example matches a 0.5GU reduction calculated on the lower, green line of the graph.
 
@@ -409,10 +402,9 @@ Decay rate after 2GU = Red
 
 Decay rate after 4GU = Purple
 
-[https://imgur.com/jAzK9S0](https://imgur.com/jAzK9S0) 
+[https://imgur.com/jAzK9S0](https://imgur.com/jAzK9S0)
 
-For a given decay rate, you can predict the time deduction caused by a 1GU deduction using the slope formula from the graph: \(0.95 x T\)/0.8, where T is the seconds a Weak aura application lasts for at that decay rate: 9.5, 6, or 4.2  
-
+For a given decay rate, you can predict the time deduction caused by a 1GU deduction using the slope formula from the graph: \(0.95 x T\)/0.8, where T is the seconds a Weak aura application lasts for at that decay rate: 9.5, 6, or 4.2
 
 ### Significance
 
@@ -447,6 +439,5 @@ Translation link [here](https://docs.google.com/document/d/e/2PACX-1vQ_ayc9bVtUZ
 
 Translated by: iDreamz梦
 
-Reviewed/Edited by: IonFox, Doug  
-
+Reviewed/Edited by: IonFox, Doug
 

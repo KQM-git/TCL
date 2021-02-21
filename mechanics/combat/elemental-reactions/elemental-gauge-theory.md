@@ -65,7 +65,7 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 ### **Unit Modifiers to Gauge Consumption**
 
-Weak elemental triggers have a 0.5U modifier**.**
+Weak elemental triggers have a 0.5x modifier**.**
 
 | Elemental Gauge of Source | After Unit Modifier |
 | :--- | :--- |
@@ -74,7 +74,7 @@ Weak elemental triggers have a 0.5U modifier**.**
 
 > An enemy affected by Amber’s Charged Shot has 2U pyro. Using Kaeya’s E \(2U\) only removes 1U of pyro because weak melt occurs when the trigger is cryo.
 
-Strong elemental triggers have a 2.0U modifier
+Strong elemental triggers have a 2.0x modifier
 
 | Elemental Gauge of Source | After Unit Modifier |
 | :--- | :--- |
@@ -112,7 +112,7 @@ Each tick of EC consumes 0.4U from both gauges. Once a gauge is empty, the eleme
 * Via reactions
   * When you apply an elemental trigger to an existing elemental aura, a certain amount of the gauge is consumed. If an amount remains, then the aura will persist after the reaction. If the gauge is fully consumed, the aura disappears.
 
-**Elemental Gauge\(U\)** = The strength of an elemental source, which dictates:
+**Elemental Gauge \(U\)** = The strength of an elemental source, which dictates:
 
 * If the elemental source is an aura:
   * The decay rate of the element
@@ -124,7 +124,7 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources corresponding Gauge Unit Value \(measured in U\).
 
-**Internal Cooldown\(ICD\)** = A hidden timer which occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
+**Internal Cooldown \(ICD\)** = A hidden timer which occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
 
 * During this ICD, repeated use of that specific elemental source **WILL** do elemental damage, but **WILL NOT** apply an aura/trigger 
 
