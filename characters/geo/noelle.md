@@ -27,7 +27,7 @@ Perform up to 4 consecutive strikes.
 Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 
 **Charged Attack**  
-Noelle consumes 40 stamina a second to keep spinning.       **** At the end, perform a more powerful slash.
+Noelle consumes 40 stamina a second to keep spinning. _\*\*_ At the end, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -132,7 +132,7 @@ While Sweeping time and Breastplate are both in effect, the chance of Breastplat
 
 Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
-This is a additive %DMG  bonus.
+This is a additive %DMG bonus.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -181,3 +181,4 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
 **Evidence Vault:**
+
