@@ -6,8 +6,6 @@ description: >-
 
 # Jean
 
-
-
 {% tabs %}
 {% tab title="Normal Attack: Favonius Bladework" %}
 Performs up to 5 consecutive attacks.
@@ -33,17 +31,17 @@ Enemies launched by Jean's charged attack will stay in air. If Gale Blade \(E\) 
 Jean lunges, launching opponents in the direction she aims at, dealing massive Anemo DMG.
 
 **Hold**  
-At the cost of 20 stamina per second, Jean can command the whirlwind to pull surrounding opponents and objects towards her front. 
+At the cost of 20 stamina per second, Jean can command the whirlwind to pull surrounding opponents and objects towards her front.
 
 | String | Talent 6% | Frames | Motion Value | Cooldown | GU | Particles |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | E | 292% | 29 |  | 6s |  |  |
 
-Max hold duration is 5 seconds. Enemies launched by Gale Blade can incur fall damage against the ground or walls. 
+Max hold duration is 5 seconds. Enemies launched by Gale Blade can incur fall damage against the ground or walls.
 {% endtab %}
 
 {% tab title="Dandelion Breeze" %}
-Jean creates a swirling **Dandelion Field**, launching surrounding opponents and dealing Anemo DMG. At the same time, she instantly regenerates a large amount of HP for all party members. 
+Jean creates a swirling **Dandelion Field**, launching surrounding opponents and dealing Anemo DMG. At the same time, she instantly regenerates a large amount of HP for all party members.
 
 **Dandelion Field**
 

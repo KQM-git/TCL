@@ -6,8 +6,8 @@ By: lostguru\#5024
 Added on 12/6/2020
 
 **Evidence:**  
-[https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)  
-  
+[https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
+
 **Significance:**
 
 1. You lose around 30% damage output without Lightning Storm active.
@@ -37,18 +37,17 @@ Everything you need to know about Serpent Spine and Beidou
 
 Good weapon. Works as well as you'd expect.
 
-##  Beidou Plunge Attack R-Cancel
+## Beidou Plunge Attack R-Cancel
 
 By: Ja’Krampus\#2399  
-Added on 12/13/20  
-
+Added on 12/13/20
 
 **Finding:**
 
-Beidou can plunge from flat-ground by using an "R-Cancel" to help her jump higher, to execute, hit the Aim button for bow users 2x, jump and attack in quick succession, if done correctly your result will be what you see in the video below  
-  
-**Evidence:**   
-[https://youtu.be/MD6\_Tuadv\_Y](https://youtu.be/MD6_Tuadv_Y)  
+Beidou can plunge from flat-ground by using an "R-Cancel" to help her jump higher, to execute, hit the Aim button for bow users 2x, jump and attack in quick succession, if done correctly your result will be what you see in the video below
+
+**Evidence:**  
+[https://youtu.be/MD6\_Tuadv\_Y](https://youtu.be/MD6_Tuadv_Y)
 
 **Significance:**  
 With certain attack strings, cancelling into this move may provide a higher mv/s than her usual attack combos which are abysmally slow and have low multipliers. Although having a much higher skill floor, it may give Beidou more potential to do damage.
@@ -64,7 +63,7 @@ Movespeed increases jump height. Double Anemo allows for plunging attack for mos
 
 **Evidence:**
 
-[https://streamable.com/c2246r](https://streamable.com/c2246r) 
+[https://streamable.com/c2246r](https://streamable.com/c2246r)
 
 [https://streamable.com/yu6k2z](https://streamable.com/yu6k2z)
 
@@ -72,19 +71,17 @@ Movespeed increases jump height. Double Anemo allows for plunging attack for mos
 
 Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
 
-For Beidou specifically, the movespeed needed to allow for a roll after a high jump is between 11% and 20% \(Evidence below by Cola\#6861\).  
+For Beidou specifically, the movespeed needed to allow for a roll after a high jump is between 11% and 20% \(Evidence below by Cola\#6861\).
 
+[https://www.youtube.com/watch?v=guQLVVjbs6c](https://www.youtube.com/watch?v=guQLVVjbs6c)
 
-[https://www.youtube.com/watch?v=guQLVVjbs6c](https://www.youtube.com/watch?v=guQLVVjbs6c) 
-
-[https://www.youtube.com/watch?v=E96wws5MaOk](https://www.youtube.com/watch?v=E96wws5MaOk) 
+[https://www.youtube.com/watch?v=E96wws5MaOk](https://www.youtube.com/watch?v=E96wws5MaOk)
 
 ## Mistranslation of Beidou’s C4 Effect
 
 By: EternalDream\#5503  
 Added on 12/7/2020
 
-  
 **Finding:**  
 Beidou’s C4 is mistranslated:
 
@@ -93,7 +90,7 @@ Beidou’s C4 is mistranslated:
 
 **Evidence:**
 
-[https://puu.sh/GSOeX/499a6b1506.png](https://puu.sh/GSOeX/499a6b1506.png) 
+[https://puu.sh/GSOeX/499a6b1506.png](https://puu.sh/GSOeX/499a6b1506.png)
 
 [https://streamable.com/0eu6i6](https://streamable.com/0eu6i6)\*\*\*\*
 
@@ -106,7 +103,6 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 By: MemeMastodon69\#2165  
 Added on 11/5/2020
 
-  
 **Finding:**  
 Beidou perfect parry has 2 startup frames, 17 active frames +/- 1 frame
 
@@ -115,35 +111,34 @@ Beidou perfect parry has 2 startup frames, 17 active frames +/- 1 frame
 Input overlay to detect inputs, counting from 1 on the frame after the input is registered. Large slime's jump attack previously established to create an active hitbox on the frame that the "spark" effect appears as it hits the ground. All counts made between when the input overlay registers the input \(frame 0\) and the slime's first active hitbox frame. As always, results are fuzzy by +/- 1 frame due to discrepancies between game simulation and graphical rendering.
 
 2 fail:  
-[https://drive.google.com/file/d/19A-8JJeoLCxcu5dWZzJXNuge2\_PHvGWF/view?usp=sharing](https://drive.google.com/file/d/19A-8JJeoLCxcu5dWZzJXNuge2_PHvGWF/view?usp=sharing) 
+[https://drive.google.com/file/d/19A-8JJeoLCxcu5dWZzJXNuge2\_PHvGWF/view?usp=sharing](https://drive.google.com/file/d/19A-8JJeoLCxcu5dWZzJXNuge2_PHvGWF/view?usp=sharing)
 
 3 success:  
-[https://drive.google.com/file/d/1dwVDUyJ8-wTQtrnQG2du4EMfv0S4b3HC/view?usp=sharing](https://drive.google.com/file/d/1dwVDUyJ8-wTQtrnQG2du4EMfv0S4b3HC/view?usp=sharing) 
+[https://drive.google.com/file/d/1dwVDUyJ8-wTQtrnQG2du4EMfv0S4b3HC/view?usp=sharing](https://drive.google.com/file/d/1dwVDUyJ8-wTQtrnQG2du4EMfv0S4b3HC/view?usp=sharing)
 
 19 success:  
-[https://drive.google.com/file/d/1k-r3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing](https://drive.google.com/file/d/1k-r3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing) 
+[https://drive.google.com/file/d/1k-r3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing](https://drive.google.com/file/d/1k-r3PBdrcqM-fi-eZfSMp1LXularvnfM/view?usp=sharing)
 
 20 Fail:  
-[https://drive.google.com/file/d/1DQ6qV63yQ6Bsc4Mq1j9LVbn2vGRSakxF/view?usp=sharing](https://drive.google.com/file/d/1DQ6qV63yQ6Bsc4Mq1j9LVbn2vGRSakxF/view?usp=sharing)  
-  
+[https://drive.google.com/file/d/1DQ6qV63yQ6Bsc4Mq1j9LVbn2vGRSakxF/view?usp=sharing](https://drive.google.com/file/d/1DQ6qV63yQ6Bsc4Mq1j9LVbn2vGRSakxF/view?usp=sharing)
+
 **Significance:**
 
 Beidou's extremely strong potential burst damage is evidently achievable by many players, as the timing window is only marginally tougher than dodging. Serious consideration should be given to "gitting gud" and making use of Beidou burst DPS.
 
-## Does The Bell’s passive affect Beidou’s Elemental Skill DMG? 
+## Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
 
 By: Elliotto\#6694  
 Added 11/18/2020
 
 **Finding:**  
-The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).  
+The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
 
+**Evidence:** [https://www.twitch.tv/videos/807116838](https://www.twitch.tv/videos/807116838)
 
-**Evidence:** [https://www.twitch.tv/videos/807116838](https://www.twitch.tv/videos/807116838) 
+• Damage with The Bell: 111
 
-•    Damage with The Bell: 111
-
-•    Damage with a weapon of same Base ATK: 98
+• Damage with a weapon of same Base ATK: 98
 
 \(In addition, the total amount of shields does not increase the percentage of damage bonus from Bell's passive. This was tested through a similar method, using Diona, Crystalize, Noelle, and Beidou shield at the same time. The damage remained consistent\)
 
@@ -156,9 +151,8 @@ The bell will provide its damage bonus with concurrent abilities such as Beidou�
 By: ASHOKA\#5672  
 Added 11/19/2020
 
-  
 **Evidence:**  
- [https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)
+[https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)
 
 Sequence of Clips and DMG numbers:
 
@@ -190,9 +184,9 @@ Beidou's Q snapshot happens before gaining the bonus from Unforged's shield effe
 
 snapshot base
 
-https://imgur.com/q2nusx7
+[https://imgur.com/q2nusx7](https://imgur.com/q2nusx7)
 
 shield snapshot difference
 
-https://imgur.com/N4EN8xP
+[https://imgur.com/N4EN8xP](https://imgur.com/N4EN8xP)
 

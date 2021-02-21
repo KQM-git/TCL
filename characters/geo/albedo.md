@@ -4,7 +4,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 # Albedo
 
-## ![](../../.gitbook/assets/element_geo.png) Albedo 
+## ![](../../.gitbook/assets/element_geo.png) Albedo
 
 ![](../../.gitbook/assets/albedo.png)
 
@@ -67,8 +67,8 @@ When a character is located on the Solar Isotoma, the Solar Isotoma will form a 
 
 | Type | Talent 6% | Cooldown | Duration | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Solar Isotoma           | 182.56% | 4s | 30s |  | 0 |  |  |
-| Transient Blossom           | 184.04% DEF |  |  |     | 0~1 \(1:2\) |  | 93.52%/s |
+| Solar Isotoma | 182.56% | 4s | 30s |  | 0 |  |  |
+| Transient Blossom | 184.04% DEF |  |  |  | 0~1 \(1:2\) |  | 93.52%/s |
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 {% endtab %}
@@ -163,7 +163,7 @@ If active party members within the AoE are protected by a shield created by Crys
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
-**Evidence Vault:** 
+**Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/albedo.md" %}
 
