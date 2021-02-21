@@ -35,7 +35,7 @@
   * [Albedo](characters/geo/albedo.md)
   * [Ningguang](characters/geo/ningguang.md)
   * [Noelle](characters/geo/noelle.md)
-  * [Zhongli](evidence/characters/geo/zhongli.md)
+  * [Zhongli](characters/geo/zhongli.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
   * [Mona](characters/hydro/mona.md)
