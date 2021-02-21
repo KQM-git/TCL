@@ -8,7 +8,9 @@ description: The current method of explaining all game mechanics involving eleme
 
 To our knowledge, the framework of Elemental Gauge Theory can be applied to explain any elemental-related concept in Genshin. Extensive testing has been done and is viewable in the Evidence Vault under Gauge Unit Theory - Testing and Evidence.
 
-There is a Definitions section at the bottom if any of the terms used are unfamiliar.
+{% hint style="info" %}
+There is a [Definitions](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory#definitions) section at the bottom if any of the terms used are unfamiliar.
+{% endhint %}
 
 ## General Overview
 
@@ -34,7 +36,7 @@ Gauge Units are used to calculate the remaining aura on for elemental reactions.
 
 The decay notation number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the new notation \(A, B, or C\) notes the decay rate of the aura. 
 
-| Original Notation | Reaction Notation | Decay Notation | Conversion |
+| Original Notation | Reaction Notation | Decay Notation | Decay Rate Conversion |
 | :--- | :--- | :--- | :--- |
 | 1U | 1GU | 1A | 9.5s per A |
 | 2U | 2GU | 2B | 6.0s per B |
