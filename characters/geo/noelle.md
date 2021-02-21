@@ -1,7 +1,5 @@
 # Noelle
 
-normal page
-
 ## ![](.gitbook/assets/element_geo.png) Noelle
 
 ![](.gitbook/assets/noelle.png)
