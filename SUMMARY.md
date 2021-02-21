@@ -45,6 +45,7 @@
   * [Amber](characters/pyro/amber.md)
   * [Bennett](characters/pyro/bennett.md)
   * [Diluc](characters/pyro/diluc.md)
+  * [Hu Tao](characters/pyro/hu-tao.md)
   * [Klee](characters/pyro/klee.md)
   * [Xiangling](characters/pyro/xiangling.md)
   * [Xinyan](characters/pyro/xinyan.md)
