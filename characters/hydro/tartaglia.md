@@ -10,7 +10,7 @@ description: >-
 
 ![](.gitbook/assets/tartaglia.png)
 
-## **Attacks**
+## **Attaacks**
 
 {% tabs %}
 {% tab title="Cutting Torrent" %}
