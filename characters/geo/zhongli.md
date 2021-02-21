@@ -6,9 +6,9 @@ description: >-
 
 # Zhongli
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou
+## ![](../../.gitbook/assets/element_geo.png) Zhongli
 
-![](../../.gitbook/assets/beidou.png)
+![](../../.gitbook/assets/zhongli.png)
 
 ## **Attacks**
 
