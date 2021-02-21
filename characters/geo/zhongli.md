@@ -101,8 +101,6 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 | Energy Cost | 40 |
 | Cast GU |  |
 | Frames |  |
-
-* Beidou's lightning discharges have 3 damage instance with 2 targets or more.
 {% endtab %}
 {% endtabs %}
 
