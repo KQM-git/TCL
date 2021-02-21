@@ -1,7 +1,3 @@
----
-description: 'Captain of her crew, The Crux. She''s quite an unbound and forthright woman.'
----
-
 # Zhongli
 
 ## ![](../../.gitbook/assets/element_electro.png) Beidou
