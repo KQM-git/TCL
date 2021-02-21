@@ -13,83 +13,93 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Oceanborne" %}
+{% tab title="Rain of Stone" %}
 **Normal Attacks**  
-Beidou performs up to 5 consecutive attacks.
+Zhongli performs up to 6 consecutive spear strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 103.38% |  |  |
-| 2-Hit | 103% |  |  |
-| 3-Hit | 128.38% |  |  |
-| 4-Hit | 125.75% |  |  |
-| 5-Hit | 163% |  |  |
+| 1-Hit | 44.72% | 8 | 335.4 |
+| 2-Hit | 45.28% | 29 | 186.2 |
+| 3-Hit | 56.07% | 45 | 194.8 |
+| 4-Hit | 58.42% | 71 | 176.2 |
+| 5-Hit | 14.63% x 4 \(58.52%\) | 109 | 149.2 |
+| 6-Hit | 74.14% | 153 | 132.2 |
+| Recovery | 0% | 200 | 101.1 |
 
-Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
-
-* C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
+* Zhongli's string has no hit lag on the spear kick \(N5\).
+* Zhongli's attack string does not always interact with C6 Fischl on his first attack.
 
 **Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes. At the end of the 5 seconds, perform a more powerful slash.
+Zhongli consumes 20 stamina to lunge forward causing spears to fall along his path.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 81.75% |  |  |
-| Final Slash | 148% |  |  |
+| N1C | 206.1% |  |  |
 
 **Plunge**
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
-
-* Beidou can plunge from flat ground by using an R cancel to jump higher.
-  * Enter and exit aimed mode, jump and attack in rapid succession.
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 232.09% |
 {% endtab %}
 
-{% tab title="Tidecaller" %}
-**Press**  
-Beidou swings her blade dealing Electro DMG.
+{% tab title="Dominus  Lapidis" %}
+**Press:**   
+Zhongli creates a **Stone Stele** in front of him.
 
-**Hold**
+**Hold:**   
+Zhongli channels for 2 seconds causing the following effects:
 
-* Lifts her weapon up as a shield, max DMG absorbed scaled off Beidou's max HP.
-* Upon release, shield destruction, or max hold duration, Beidou will swing her blade once to deal Electro DMG.
-* Damage dealt scales with the number of times Beidou is attacked during the skill's duration. Max DMG bonus is given if she is attacked twice.
-* The shield posses 250% DMG absorption efficiency and applies Electro to Beidou upon activation.
+* If the maximum number of **Stone Stele** hasn’t been reached, creates a **Stone Stele**.
+* Creates a **Jade Shield** that absorbs damage based on Zhongli’s max HP.
+* Deals AoE Geo damage.
+* If there are nearby targets with the Geo element, it will drain a large amount of Geo element from up to 2 targets. This effect does not deal damage.
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold | 170.24% | 7.5s | 2U | 2~3 \(1:9\) |  |  |
-| DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
+**Stone Stele**
 
-* Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
+* When created, **Stone Steal** deals AoE Geo damage. 
+* Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents. 
+* **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
+* Only one **Stone Stele** created by Zhongli may exist at a time.  
+
+**Jade Shield**
+
+* Possesses 150% damage absorption against all Elemental and Physical damage. 
+* Characters protected by the **Jade Shield** will decrease the Elemental Resistance and Physical Resistance of nearby enemies within a radius by 20%. This effect can not be stacked with other instances of **Jade Shield**.  
+
+| Type | Talent 6% / Data |
+| :--- | :--- |
+| Stone Stele | 22.4% |
+| Resonance DMG | 44.8% |
+| Hold DMG | 112% |
+| Shield Base Absorption | 1951 |
+| Additional Shield Absorption | 17.92% Zhongli Max HP |
+| Shield Duration | 20s |
+| Press Cooldown | 4s |
+| Hold Cooldown | 12s |
+| Particles | 0~1 \(1:1\) |
+| GU |  |
+| Frames |  |
+| Motion Value |  |
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
+Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemies caught in its AoE and applying **Petrification** status to them. 
 
-**Thunderbeast's Targe**
+**Petrification**
 
-* When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.
-* Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 lightning discharge can be triggered per second.
-* Snapshot on cast.
+* Opponents affected by **Petrification** cannot move.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Cast DMG | 170.24% |
-| Lightning | 134.4% |
-| DMG Reduction | 26% \(scaling\) |
-| Duration | 15s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Cast GU | 4U |
-| Lightning GU | 1U |
+| Skill DMG | 639.56% |
+| Petrification Duration | 2s |
+| Cooldown | 12s |
+| Energy Cost | 40 |
+| Cast GU |  |
 | Frames |  |
 
 * Beidou's lightning discharges have 3 damage instance with 2 targets or more.
@@ -100,31 +110,25 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 
 {% tabs %}
 {% tab title="Passive" %}
-### Conqueror of Tides
+### Arcanum of Crystals: 
 
-Decreases swimming Stamina consumption for your own party members by 20%
-
-* Not stackable with Passive Talents that provide the exact same effects.
+Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Retribution
+### Resonant Waves
 
-Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
-
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
+Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears. 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Lightning Storm
+### Dominance of Earth
 
-Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+ Zhongli deals bonus DMG based on his Max HP:
 
-* DMG dealt by Normal and Charged Attacks is increased by 15%.
-* ATK SPD of Normal and Charged Attacks is increased by 15%.
-* Greatly reduced delay before unleashing charged attacks.
+* Normal Attack, Charged attack, and Plunge DMG is increased by 1.39%  Max HP.
+* Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.
+* Planet Befall’s DMG is increased by 33% Max HP. 
 {% endtab %}
 {% endtabs %}
 
@@ -132,76 +136,51 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 
 {% tabs %}
 {% tab title="C1" %}
-### Sea Beast's Scourge
+### Rock, the Backbone of Earth
 
-When Stormbreaker is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
-
-* This shield absorbs Electro DMG 250% more effectively.
+Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that may exist simultaneously to 2. 
 {% endtab %}
 
 {% tab title="C2" %}
-### Upon the Turbulent Sea, the Thunder Arises
+### Stone, the Cradle of Jade
 
-Stormbreaker’s arc lightning can jump to 2 additional targets.
+Planet Befall grants nearby characters on the field a **Jade Shield** when it descends.
 {% endtab %}
 
 {% tab title="C3" %}
-### Summoner of Storm
+### Jade, Shimmering through Darkness
 
-Increases the level of Tidecaller by 3.
+Increases the level of Dominus Lapidis by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Stunning Revenge
+### Topaz, Unbreakable and Fearless
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG.
-
-* This is an echo effect.
-* Use N2 cancels to maximize Electro DMG.
+Increases Planet Befall’s AoE by 20% and increases the duration of **Petrification** by 2 seconds. 
 {% endtab %}
 
 {% tab title="C5" %}
-### Crimson Tidewalker
+### Lazuli, Herald of the Order
 
-Increases the Level of Stormbreaker by 3.
+Increases the Level of Planet Befall by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Bane of Evil
+### Chrysos, Bounty of Dominator
 
-During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%.
+When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character. A single instance of the regeneration cannot exceed 8% of the character’s Max HP.
 {% endtab %}
 {% endtabs %}
 
-## **Weapons**
-
-### **Serpent Spine**
-
-Perfect parrying does NOT reduce your Serpent Stacks. Any shield damage will not count as "taking damage," but if your shield breaks from an attack it will count as taking damage.
-
-Serpent stacks still boost damage when off-field.
-
-### The Bell
-
-Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast.
-
-### Rainslasher
-
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller.
-
-### The Unforged
-
-Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an ATK% bonus that changes when shielded. **Thunderbeast's Targe** is snapshot _before_ gaining the bonus from The Unforged's shield ATK% bonus.
-
 ## **External Links**
 
-* \*\*\*\*[**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/beidou/)\*\*\*\*
-* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)\*\*\*\*
-* \*\*\*\*[**Beidou Mains Discord**](https://discord.gg/qrjeEyejsd)\*\*\*\*
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/beidou/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Zhongli)
+* [**Zhongli Mains Discord**](https://discord.gg/qrjeEyejsd)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/electro/beidou.md" %}
+{% page-ref page="../../evidence/characters/geo/zhongli.md" %}
 
