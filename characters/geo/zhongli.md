@@ -47,10 +47,10 @@ Zhongli consumes 20 stamina to lunge forward causing spears to fall along his pa
 {% endtab %}
 
 {% tab title="Dominus  Lapidis" %}
-**Press:**  
+**Press:**   
 Zhongli creates a **Stone Stele** in front of him.
 
-**Hold:**  
+**Hold:**   
 Zhongli channels for 2 seconds causing the following effects:
 
 * If the maximum number of **Stone Stele** hasn’t been reached, creates a **Stone Stele**.
@@ -87,7 +87,7 @@ Zhongli channels for 2 seconds causing the following effects:
 {% endtab %}
 
 {% tab title="Planet Befall" %}
-Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemies caught in its AoE and applying **Petrification** status to them.
+Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemies caught in its AoE and applying **Petrification** status to them. 
 
 **Petrification**
 
@@ -108,7 +108,7 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 
 {% tabs %}
 {% tab title="Passive" %}
-### Arcanum of Crystals:
+### Arcanum of Crystals: 
 
 Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% endtab %}
@@ -116,13 +116,13 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% tab title="Ascension 2" %}
 ### Resonant Waves
 
-Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
+Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears. 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Dominance of Earth
 
-Zhongli deals bonus DMG based on his Max HP:
+ Zhongli deals bonus DMG based on his Max HP:
 
 * Normal Attack, Charged attack, and Plunge DMG is increased by 1.39%  Max HP.
 * Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.
@@ -136,7 +136,7 @@ Zhongli deals bonus DMG based on his Max HP:
 {% tab title="C1" %}
 ### Rock, the Backbone of Earth
 
-Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that may exist simultaneously to 2.
+Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that may exist simultaneously to 2. 
 {% endtab %}
 
 {% tab title="C2" %}
@@ -154,7 +154,7 @@ Increases the level of Dominus Lapidis by 3.
 {% tab title="C4" %}
 ### Topaz, Unbreakable and Fearless
 
-Increases Planet Befall’s AoE by 20% and increases the duration of **Petrification** by 2 seconds.
+Increases Planet Befall’s AoE by 20% and increases the duration of **Petrification** by 2 seconds. 
 {% endtab %}
 
 {% tab title="C5" %}
