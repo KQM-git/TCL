@@ -1,12 +1,14 @@
 ---
-description: 'Captain of her crew, The Crux. She''s quite an unbound and forthright woman.'
+description: >-
+  A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely
+  knowledgeable in all things.
 ---
 
 # Zhongli
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou
+## ![](../../.gitbook/assets/element_geo.png) Zhongli
 
-![](../../.gitbook/assets/beidou.png)
+![](../../.gitbook/assets/zhongli.png)
 
 ## **Attacks**
 
@@ -202,3 +204,4 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/beidou.md" %}
+

@@ -18,7 +18,7 @@ When an elemental source is used to apply an **aura**, it applies a number of el
 | :--- | :--- | :--- | :--- |
 | 1U | 0.8U | 1U/9.5s | 9.5s |
 | 2U | 1.6U | 1U/6.0s | 12s |
-| 4U | 3.2U | 1U/4.2s | 16.8s |
+| 4U | 3.2U | 1U/4.2s | 17s |
 
 Why is 2U = 12s, but 1U isn’t 6s? This is because a 2U aura has a **higher decay rate** than a 1U aura. Larger U means a bigger elemental gauge, at the cost of an increased rate of decay.
 
