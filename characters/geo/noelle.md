@@ -27,7 +27,7 @@ Perform up to 4 consecutive strikes.
 Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 
 **Charged Attack**  
-Noelle consumes 40 stamina a second to keep spinning. _\*\*_ At the end, perform a more powerful slash.
+Noelle consumes 40 stamina a second to keep spinning.  At the end, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
