@@ -26,11 +26,13 @@ Why is 2U = 12s, but 1U isn’t 6s? This is because a 2U aura has a **higher dec
 
 ## Notation
 
-Units \(U\) are reported as the type of aura they apply, but elemental applications have to account for decay rate and reactions, the notation for Elemental Gauge Theory should be changed. 
+Units \(U\) are reported as the type of aura they apply, but elemental applications have to account for decay rate and reactions so the notation for Elemental Gauge Theory should be appended. 
 
 When extending auras with stronger attacks with higher U or consuming auras via elemental reactions, **the resulting auras are not simply an addition of the unit U**. Therefore, Gauge Units \(GU\) and the decay rate have to be separated from each other to make good general use of the theory.
 
-The number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the new notation \(A, B, or C\) notes the decay rate of the aura.
+Gauge Units are used to calculate the remaining aura on for elemental reactions. The decay rate of the remaining aura will be the first applied aura and should be written as stated below.
+
+The decay notation number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the new notation \(A, B, or C\) notes the decay rate of the aura. 
 
 | Original Notation | Reaction Notation | Decay Notation | Conversion |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +52,7 @@ Meaning, a 2B or 4C gauge can be decaying at the rate of a 1A gauge. To do this,
 
 > Fischl's Charged Shot to applies 1A Electro, the use of Beidou's Q will add 4C Electro to the gauge, resulting in a 4A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![This graph displays how each 1A, 2B, and 4C gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
+![This graph displays how each 1GU, 2GU, and 4GU gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
