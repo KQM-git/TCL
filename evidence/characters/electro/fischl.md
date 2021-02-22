@@ -96,16 +96,12 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 
 4TF holders who trigger reactions while not on the field will not get the 1s CDR.
 
-
-
-
-
 ## Summons are Not Dynamic and Snapshot on Cast
 
 Submitted by: Comfy Seaweed\#3841  
 Added 11/22/2020
 
-**Evidence:** https://youtu.be/-utEL05jfDg
+**Evidence:** [https://youtu.be/-utEL05jfDg](https://youtu.be/-utEL05jfDg)
 
 Oz's damage with no Bennett's Ult: 1695 \(no crit\), 2879 \(crit\)
 
@@ -115,19 +111,17 @@ We know that Bennett's ATK buff refreshes, and thus if Oz was Dynamic, Fischl wo
 
 **Significance:** All buffs are not applied to summon\(s\) if you cast the buffs AFTER the summon\(s\) is already on the field.
 
-### Re-snapshot: Resummoning Oz while he's still active re-snaphots Oz based on Fischl's buffs 
+### Re-snapshot: Resummoning Oz while he's still active re-snaphots Oz based on Fischl's buffs
 
 Submitted by: JarJarThinks\#5411
 
-**Evidence:** https://youtu.be/61GvXHVc0D8
+**Evidence:** [https://youtu.be/61GvXHVc0D8](https://youtu.be/61GvXHVc0D8)
 
 **Significance:**
 
 This means that you can potentially update Oz's snapshot to reflect any new buffs, however this also means that if you resummon Oz after losing buffs, Oz will become weaker if he was previously snapshotted with buffs.
 
-
-
-## Bow Users can use Aim Cancel  
+## Bow Users can use Aim Cancel
 
 Added 11/19/2020
 
@@ -139,13 +133,13 @@ I haven't seen anyone so far mention this outside the usual jump cancel or dash 
 
 **Evidence:**
 
-https://youtu.be/5dwCpSyuxxw?t=23
+[https://youtu.be/5dwCpSyuxxw?t=23](https://youtu.be/5dwCpSyuxxw?t=23)
 
 **Significance:**
 
 Consider using aim cancelling for your DPS bow users, this would potentially up Childe and Fischl's DPS as main carry with the bow.
 
-## Animation Cancel 
+## Animation Cancel
 
 Date of Submission: 12/28/2020  
 Submitted By: alyk99\#2776
@@ -154,9 +148,9 @@ Submitted By: alyk99\#2776
 
 AA-LMB hold outperforms AARR for Fischl
 
-**Evidence:** 
+**Evidence:**
 
-I will be using 2 videos to draw this conclusion, one per animation cancel type. For AARR, Youtuber TenTen demonstrates an AARR chain from his video on the cryo regisvine: https://youtu.be/ydl9a01bRjM?t=5 
+I will be using 2 videos to draw this conclusion, one per animation cancel type. For AARR, Youtuber TenTen demonstrates an AARR chain from his video on the cryo regisvine: [https://youtu.be/ydl9a01bRjM?t=5](https://youtu.be/ydl9a01bRjM?t=5)
 
 One important thing should be noted here: The recording starts while he is already at max attack speed, meaning that this is at least probably the 2nd attack string. I'm not sure if there is any literature that references this, but there's a "higher attack count = attack faster" mechanic in this game. I'm not sure if it's related to just the attack count, enemy stagger/composure, or a combination of both.
 
@@ -166,7 +160,7 @@ TenTen scores 7 full combos in 5.5s
 
 \(176.1%\*7\)/5.5 = 224% MV per second.
 
-In this video https://i.imgur.com/rqX2Z5M.mp4, I score 7 full combos \(with some misses\) from scratch in ~7.3s, but they include an additional aimed shot per combo.
+In this video [https://i.imgur.com/rqX2Z5M.mp4](https://i.imgur.com/rqX2Z5M.mp4), I score 7 full combos \(with some misses\) from scratch in ~7.3s, but they include an additional aimed shot per combo.
 
 \(64.1% + 68.0% + 22% \* 2+63.9\) = 240% MV per combo
 
@@ -182,7 +176,7 @@ despite the difference seemingly being around 2.5% more damage dealt, the latter
 
 Overall better animation cancel for AA fischl found.
 
-## Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite? 
+## Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?
 
 Submitted by: Cola\#6861
 
@@ -192,11 +186,9 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 **Evidence:**
 
-https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be
+[https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be](https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be)
 
 **Significance:**
 
 One more reason to get Sucrose out in the field more often, at least for this use case
-
-
 
