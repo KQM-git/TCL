@@ -32,7 +32,7 @@ The decay notation number indicates the original system of elemental units that 
 
 **Example of New Notation:**
 
-> Kaeya’s E applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 1GU cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
+> Kaeya’s E \(2B\) applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 1GU cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
 
 ## Decay Rate
 
@@ -40,11 +40,14 @@ Decay rate is determined by the **first aura** applied. This decay rate is alway
 
 ![A graph showing the decay rate of 1A\(green\) vs 2B\(red\)](../../../.gitbook/assets/image.png)
 
-Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura. Meaning, a 2B or 4C gauge can be decaying at the rate of a 1A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same element to get 2A or 4A gauges.
+* **Y-Axis** = amount of elemental gauge
+* **X-Axis** = duration in seconds
+
+Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura. Meaning, a 2B or 4C gauge elemental sources can be decaying at the rate of an A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same element to get 2A or 4A gauges.
 
 > Fischl's Charged Shot to applies 1A Electro, the use of Beidou's Q will add 4C Electro to the gauge, resulting in a 4A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![This graph displays how each 1GU, 2GU, and 4GU gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
+![This graph displays how 1GU, 2GU, and 4GU gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
@@ -120,7 +123,7 @@ Currently how Swirled Auras fit into the Elemental Gauge Theory is still up in t
 
 Swirled Auras have their own unique decay notation that only applies to them, which can be seen in this table here:
 
-| Anemo GU | Reaction Notation | Decay Notation | Decay Rate Conversion |
+| Anemo GU | **Swirled Aura GU** | Decay Notation | Decay Rate Conversion |
 | :--- | :--- | :--- | :--- |
 | 1GU | 2.25GU | 2.25S | 5.6s per S |
 | 2GU | 3.25GU | 3.25V | 4.8s per V |
@@ -143,7 +146,7 @@ Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the 
 
 **Aura =** If a targetable entity is currently not affected by any element, the next elemental source will apply an aura.
 
-**Aura Tax** = A reduction of an Aura’s gauge shortly after it’s applied. As of now, there is no explanation as to why it occurs, but it is still important to keep in mind.
+**Aura Tax** = The aura tax increases the gauge reduction from reactions by a multiplier of 1.25. This multiplier has been integrated into the unit modifier system already.
 
 **Elemental Decay** = An aura will persist a certain duration depending on the type of elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
 
@@ -154,7 +157,7 @@ Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the 
 
 **Elemental Gauge / Gauge Units \(GU\)** = The strength of an elemental source, which dictates how much of the aura is consumed when a reaction occurs.
 
-See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) to see each source’s U value
+* See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) to see each source’s U value
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
 
@@ -162,13 +165,13 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 
 * During this ICD, repeated use of that specific elemental source **WILL** do elemental damage, but **WILL NOT** apply an aura/trigger 
 
+**Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
+
 **Trigger** = If a targetable entity has an **existing aura**, the next elemental **source** will act as a **trigger** for a reaction.
 
-**Unit Modifier** = A modifier that applies to the **triggers** of: Melt, Vaporize, Crystallize, and Swirl.
+**Unit Modifier** = A system of modifiers that apply to the **triggers** of reactions.
 
 * This modifier can increase or decrease how much of the aura is consumed in said reactions.
-
-**Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
 
 ## **Credits**
 
