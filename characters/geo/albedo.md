@@ -157,9 +157,9 @@ If active party members within the AoE are protected by a shield created by Crys
 
 ## **External Links**
 
-* \*\*\*\*[**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/albedo/)\*\*\*\*
-* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Albedo)\*\*\*\*
-* \*\*\*\*[**Albedo Mains Discord**](https://discord.gg/qrjeEyejsd)\*\*\*\*
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/albedo/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Albedo)
+* [**Albedo Mains Discord**](https://discord.gg/qrjeEyejsd)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
