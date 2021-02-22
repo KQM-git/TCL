@@ -6,7 +6,7 @@ description: >-
 
 # Noelle
 
-## ![](../../.gitbook/assets/element_geo.png) Noelle
+## ![](../../.gitbook/assets/element_geo%20%281%29.png) Noelle
 
 ![](../../.gitbook/assets/noelle.png)
 

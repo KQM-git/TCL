@@ -54,13 +54,20 @@ Additional applications of the aura element will apply their own respective gaug
 
 ## Overload, Superconduct, and Freeze
 
-When an elemental trigger is applied, it subtracts the corresponding number of elemental units from the enemy’s existing gauge.
+These transformative reactions have a 1.25x modifier.
 
-> Kaeya’s E applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 1GU Cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
+| Elemental Gauge of Source | After Unit Modifier |
+| :--- | :--- |
+| 1GU | 1.25GU |
+| 2GU | 2.5GU |
+
+When an elemental trigger is applied, it subtracts the corresponding number of elemental units times 1.25 from the enemy’s existing gauge.
+
+> Kaeya’s E \(2B\) applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 0.75GU Cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
 
 If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur and the aura will be fully consumed and no element will be left behind because **gauges cannot go below zero**.
 
-> Fischl’s charged shot applies 1GU Electro aura and is triggered by Kaeya’s E, applying 2GU Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
+> Fischl’s charged shot applies 1GU Electro aura and is triggered by Kaeya’s E \(2B\), applying 2GU Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
 ## Melt and Vaporize
 
@@ -86,7 +93,7 @@ Weak amping elemental triggers have a 0.625x modifier**.**
 
 > An enemy affected by Amber’s Charged Shot has 2GU Pyro. Using Kaeya’s E \(2GU Cryo\) only removes 1GU of Pyro because weak melt occurs when the trigger is Cryo.
 
-Strong amping elemental triggers have a 2.5x modifier
+Strong amping elemental triggers have a 2.5x modifier.
 
 | Elemental Gauge of Source | After Unit Modifier |
 | :--- | :--- |
@@ -97,9 +104,15 @@ Strong amping elemental triggers have a 2.5x modifier
 
 ## Crystallize and Swirl
 
-Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.5x unit modifier.
+Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.625x modifier.
 
-> Using a 1GU Geo trigger on a 1GU Electro aura will result in Crystallize, and only subtract 0.5GU, leaving 0.5 GU of Electro aura.
+| Elemental Gauge of Source | After Unit Modifier |
+| :--- | :--- |
+| 1GU | 0.625GU |
+| 2GU | 1.25GU |
+| 4GU | 2.5GU |
+
+> Using a 1GU Geo trigger on a 1GU Electro aura will result in Crystallize, subtracting 0.625GU and leaving 0.375 GU of Electro aura.
 
 ## Swirled Auras
 
@@ -124,7 +137,7 @@ EC is triggered when an enemy with a Hydro or Electro aura has the other aura ap
 
 > When either the Electro or Hydro gauge completely decays, the next EC tick will prematurely occur at the moment at which the gauge completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
 
-Each tick of EC consumes 0.5GU from both gauges. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
+Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
 
 ## Definitions
 
@@ -162,9 +175,7 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 ### **Writers:**
 
 * Neptunya\#8291
-* Artesians
-
-  \#0002
+* Artesians\#0002
 
 ### Theorycrafters:
 
@@ -174,9 +185,7 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 * Zephan\#9493
 * Bobrokrot\#0111
 * IonFox\#8887
-* Monochrom9
-
-  \#8058
+* Monochrom9\#8058
 
 ## **External Links**
 

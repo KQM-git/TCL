@@ -44,7 +44,7 @@ Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will de
 
 {% tab title="Nightrider" %}
 **Press**  
-Fischl summons **Oz** a short distance in front of herself and deals Electro DMG in a small AoE at the summon location. 
+Fischl summons **Oz** a short distance in front of herself and deals Electro DMG in a small AoE at the summon location.
 
 * When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
 
@@ -71,7 +71,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
-Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy. 
+Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy.
 
 * Fischl may not attack, cast, or dash during the duration of this ability. 
 * Summons **Oz** when the effect ends. 
@@ -102,7 +102,7 @@ When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% tab title="Ascension 2" %}
 ### Stellar Predator
 
-When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG. 
+When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
 
 <table>
   <thead>
@@ -127,14 +127,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
-{% endtab %}
 
-{% tab title="Ascension 4" %}
-### Undone Be Thy Sinful Hex 
-
-\(previously known as **Lightning Smite**\)
-
-When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+ {% endtab %} {% tab title="Ascension 4" %} \#\#\# Undone Be Thy Sinful Hex \\(previously known as \*\*Lightning Smite\*\*\\) When your current active character triggers an Electro-related Elemental Reaction while \*\*Oz\*\* is on the field, \*\*Oz\*\* will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -157,16 +151,8 @@ When your current active character triggers an Electro-related Elemental Reactio
     </tr>
   </tbody>
 </table>
-{% endtab %}
-{% endtabs %}
 
-## Constellations
-
-{% tabs %}
-{% tab title="C1" %}
-### Gaze of the Deep
-
-When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack,  dealing 30% of Fischl ATK as Physical DMG.
+ {% endtab %} {% endtabs %} \#\# Constellations {% tabs %} {% tab title="C1" %} \#\#\# Gaze of the Deep When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>
