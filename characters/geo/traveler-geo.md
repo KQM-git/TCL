@@ -30,7 +30,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | Aether CA | 81.25%+88.25 |  |  |
 | Lumine CA | 81.25%+105% |  |  |
 
-Female and male have different values most likely due to animation differences.
+Aether and Lumine have different values most likely due to animation differences.
 
 **Plunge**
 
