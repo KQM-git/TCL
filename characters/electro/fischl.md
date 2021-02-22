@@ -54,9 +54,9 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Summon Cooldown | 25s |
 | Reposition Cooldown | 1s |
 | GU | 1U |
+{% endtab %}
 
-### Oz
-
+{% tab title="Oz" %}
 | Oz Details | Talent% / Data |
 | :--- | :--- |
 | Normal Attack | 124.32% |
@@ -240,6 +240,8 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
+
+## Turbo
 
 ## **External Links**
 
