@@ -101,7 +101,6 @@
       * [Albedo](evidence/characters/geo/albedo.md)
       * [Ningguang](evidence/characters/geo/ningguang.md)
       * [Noelle](evidence/characters/geo/noelle.md)
-      * [Zhongli](evidence/characters/geo/zhongli.md)
     * [Hydro](evidence/characters/hydro/README.md)
       * [Barbara](evidence/characters/hydro/barbara.md)
       * [Mona](evidence/characters/hydro/mona.md)
