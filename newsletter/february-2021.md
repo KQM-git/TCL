@@ -12,6 +12,7 @@ Currently, the TCL offers pages for:
 | Beidou | Complete | Complete |
 | Bennett | Complete | Complete |
 | Noelle | Complete | In Progress |
+| Ningguang | Complete | In Progress |
 | Tartaglia | Complete | In Progress |
 | Traveler \(Geo\) | Complete | Incomplete |
 | Zhongli | Complete | Complete |
