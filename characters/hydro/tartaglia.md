@@ -175,8 +175,7 @@ When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Element
 {% tab title="C3" %}
 #### Abyssal Mayhem: Vortex of Turmoil
 
-Increases the Level of Foul Legacy: Ragin Tide by 3.  
-Maximum upgrade level is 15.
+Increases the Level of Foul Legacy: Raging Tide by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -190,8 +189,7 @@ If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Sl
 {% tab title="C5" %}
 #### Havoc: Formless Blade
 
-Increases the Level of Havoc: Obliteration by 3.  
-Maximum upgrade level is 15.
+Increases the Level of Havoc: Obliteration by 3.
 {% endtab %}
 
 {% tab title="C6" %}
