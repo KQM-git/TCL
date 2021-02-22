@@ -239,6 +239,20 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 ## Turbo
 
+When Oz triggers Overload or Superconduct with his Normal Attack, he generates a particle for each enemy hit by the reaction. This is called "turbo" energy generation. By this using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts to increase overall team damage \(reducing party energy recharge requirements for more damage investment\).
+
+| Number of Enemies | C0-C5 Particles | C6 Particles |
+| :--- | :--- | :--- |
+| 1 | 40.8 | 50 |
+| 2 | 52.8 | 65 |
+| 3 | 64.8 | 80 |
+| 4 | 76.8 | 95 |
+| 5 | 88.8 | 110 |
+| 6 | 100.8 | 125 |
+| 7 | 112.8 | 140 |
+
+_Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
+
 ## **External Links**
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/fischl/)
