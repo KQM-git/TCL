@@ -105,7 +105,6 @@
     * [Hydro](evidence/characters/hydro/README.md)
       * [Barbara](evidence/characters/hydro/barbara.md)
       * [Mona](evidence/characters/hydro/mona.md)
-      * [Xingqiu](evidence/characters/hydro/xingqiu.md)
     * [Pyro](evidence/characters/pyro/README.md)
       * [Amber](evidence/characters/pyro/amber.md)
       * [Bennett](evidence/characters/pyro/bennett.md)
