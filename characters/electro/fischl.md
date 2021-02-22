@@ -54,9 +54,9 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Summon Cooldown | 25s |
 | Reposition Cooldown | 1s |
 | GU | 1U |
+{% endtab %}
 
-### Oz
-
+{% tab title="Oz" %}
 | Oz Details | Talent% / Data |
 | :--- | :--- |
 | Normal Attack | 124.32% |
@@ -127,8 +127,10 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
+{% endtab %}
 
- {% endtab %} {% tab title="Ascension 4" %} \#\#\# Undone Be Thy Sinful Hex \\(previously known as \*\*Lightning Smite\*\*\\) When your current active character triggers an Electro-related Elemental Reaction while \*\*Oz\*\* is on the field, \*\*Oz\*\* will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+{% tab title="Ascension 4" %}
+\#\#\# Undone Be Thy Sinful Hex \\(previously known as \*\*Lightning Smite\*\*\\) When your current active character triggers an Electro-related Elemental Reaction while \*\*Oz\*\* is on the field, \*\*Oz\*\* will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -151,8 +153,16 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
+{% endtab %}
+{% endtabs %}
 
- {% endtab %} {% endtabs %} \#\# Constellations {% tabs %} {% tab title="C1" %} \#\#\# Gaze of the Deep When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
+## Constellations
+
+{% tabs %}
+{% tab title="C1" %}
+### **Gaze of the Deep** 
+
+When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>
@@ -226,6 +236,22 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
+
+## Turbo
+
+When Oz triggers Overload or Superconduct with his Normal Attack, he generates a particle for each enemy hit by the reaction. This is called "turbo" energy generation. By this using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts to increase overall team damage \(reducing party energy recharge requirements for more damage investment\).
+
+| Number of Enemies | C0-C5 Particles | C6 Particles |
+| :--- | :--- | :--- |
+| 1 | 40.8 | 50 |
+| 2 | 52.8 | 65 |
+| 3 | 64.8 | 80 |
+| 4 | 76.8 | 95 |
+| 5 | 88.8 | 110 |
+| 6 | 100.8 | 125 |
+| 7 | 112.8 | 140 |
+
+_Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
 
 ## **External Links**
 
