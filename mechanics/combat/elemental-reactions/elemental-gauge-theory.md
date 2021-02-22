@@ -6,35 +6,23 @@ description: The current method of explaining all game mechanics involving eleme
 
 ## Disclaimer
 
-To our knowledge, the framework of Elemental Gauge Theory can be applied to explain any elemental-related concept in Genshin. Extensive testing has been done and is viewable in the Evidence Vault under Gauge Unit Theory - Testing and Evidence.
+To our knowledge, the framework of Elemental Gauge Theory can be applied to explain any elemental-related concept in Genshin. Extensive testing has been done and is viewable in the Evidence Vault under [Gauge Unit Theory - Testing and Evidence](../../../evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence).
 
 {% hint style="info" %}
 There is a [Definitions](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory#definitions) section at the bottom if any of the terms used are unfamiliar.
 {% endhint %}
 
-## General Overview
-
-When an elemental source is used to apply an **aura**, it applies a number of elemental units onto the enemy. The [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) should be referenced to see how many U each source applies. Below is a table that showcases the details of each gauge found in the game so far:
-
-| Gauge | Post Tax | Decay Rate | Duration |
-| :--- | :--- | :--- | :--- |
-| 1U | 0.8U | 1U/9.5s | 9.5s |
-| 2U | 1.6U | 1U/6.0s | 12s |
-| 4U | 3.2U | 1U/4.25s | 17s |
-
-Why is 2U = 12s, but 1U isn’t 6s? This is because a 2U aura has a **higher decay rate** than a 1U aura. Larger U means a bigger elemental gauge, at the cost of an increased rate of decay.
-
-![](../../../.gitbook/assets/simple_decay.png)
-
 ## Notation
 
-Units \(U\) are reported as the type of aura they apply, but elemental applications have to account for decay rate and reactions so the notation for Elemental Gauge Theory should be appended. 
+When an elemental source is used to apply an **aura**, it applies a number of elemental units onto the enemy. The [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) should be referenced to see how many U each source applies.
+
+Units \(U\) are reported as the type of aura they apply, but elemental applications have to account for both decay rate and reactions so the notation for Elemental Gauge Theory has been appended to reflect that.
 
 When extending auras with stronger attacks with higher U or consuming auras via elemental reactions, **the resulting auras are not simply an addition of the unit U**. Therefore, Gauge Units \(GU\) and the decay rate have to be separated from each other to make good general use of the theory.
 
 Gauge Units are used to calculate the remaining aura on for elemental reactions. The decay rate of the remaining aura will be the first applied aura and should be written as stated below.
 
-The decay notation number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the new notation \(A, B, or C\) notes the decay rate of the aura. 
+The decay notation number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the new notation \(A, B, or C\) notes the decay rate of the aura.
 
 | Original Notation | Reaction Notation | Decay Notation | Decay Rate Conversion |
 | :--- | :--- | :--- | :--- |
@@ -48,9 +36,11 @@ The decay notation number indicates the original system of elemental units that 
 
 ## Decay Rate
 
-Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed. Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura.
+Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed.
 
-Meaning, a 2B or 4C gauge can be decaying at the rate of a 1A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same element to get 2A or 4A gauges.
+![A graph showing the decay rate of 1A\(green\) vs 2B\(red\)](../../../.gitbook/assets/image.png)
+
+Additional applications of the aura element will apply their own respective gauges, but follow the decay rate of the original aura. Meaning, a 2B or 4C gauge can be decaying at the rate of a 1A gauge. To do this, apply a 1A gauge, then apply a 2B or 4C gauge of the same element to get 2A or 4A gauges.
 
 > Fischl's Charged Shot to applies 1A Electro, the use of Beidou's Q will add 4C Electro to the gauge, resulting in a 4A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
@@ -58,9 +48,9 @@ Meaning, a 2B or 4C gauge can be decaying at the rate of a 1A gauge. To do this,
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
-* **Purple** = 4C decay rate
-* **Red** = 2B decay rate
-* **Green** = 1A decay rate
+* **Purple** = C decay rate
+* **Red** = B decay rate
+* **Green** = A decay rate
 
 ## Overload, Superconduct, and Freeze
 
@@ -109,7 +99,22 @@ Strong amping elemental triggers have a 2.5x modifier
 
 Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.5x unit modifier.
 
-> Using a 1GU Geo trigger on a 1GU Electro aura will result in Crystallize, and only subtract 0.5GU.
+> Using a 1GU Geo trigger on a 1GU Electro aura will result in Crystallize, and only subtract 0.5GU, leaving 0.5 GU of Electro aura.
+
+## Swirled Auras
+
+Currently how Swirled Auras fit into the Elemental Gauge Theory is still up in the air, new discoveries are still being made. For now, the information below is the conclusion we have come to.
+
+Swirled Auras have their own unique decay notation that only applies to them, which can be seen in this table here:
+
+| Anemo GU | Reaction Notation | Decay Notation | Decay Rate Conversion |
+| :--- | :--- | :--- | :--- |
+| 1GU | 2.25GU | 2.25S | 5.6s per S |
+| 2GU | 3.25GU | 3.25V | 4.8s per V |
+
+The aura of the element getting swirled has no bearing on the gauge or decay rate of the swirled aura. However, you can extend the duration of a swirled aura by already having an aura of the same element on an enemy.
+
+> Barbara attacks an enemy and applies 1A Hydro. Venti's E \(2GU Anemo\) swirls a hydro abyss mage, spreading 3.25V Hydro to the enemy with 1A Hydro. Now, that enemy has 3.25A hydro, which will last a maximum of 30.875s.
 
 ## Electro-Charged
 
@@ -140,7 +145,7 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
 
-**Internal Cooldown \(ICD\)** = A hidden timer which occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
+**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
 
 * During this ICD, repeated use of that specific elemental source **WILL** do elemental damage, but **WILL NOT** apply an aura/trigger 
 
@@ -149,6 +154,25 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 **Unit Modifier** = A modifier that applies to the **triggers** of: Melt, Vaporize, Crystallize, and Swirl.
 
 * This modifier can increase or decrease how much of the aura is consumed in said reactions.
+
+**Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
+
+## **Credits**
+
+### **Writers:**
+
+* Neptunya\#8291
+* Artesians  \#0002
+
+### Theorycrafters:
+
+* Doug\#8888
+* HailCorporate\#2970
+* BowlSoldier\#3528
+* Zephan\#9493
+* Bobrokrot\#0111
+* IonFox\#8887
+* Monochrom9  \#8058
 
 ## **External Links**
 
