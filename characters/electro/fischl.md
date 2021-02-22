@@ -1,96 +1,92 @@
 ---
-description: 'Captain of her crew, The Crux. She''s quite an unbound and forthright woman.'
+description: >-
+  A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels
+  with a night raven named Oz.
 ---
 
 # Fischl
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou
+## ![](../../.gitbook/assets/element_electro.png) Fischl
 
-![](../../.gitbook/assets/beidou.png)
+![](../../.gitbook/assets/fischl.png)
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Oceanborne" %}
+{% tab title="Bolts of Downfall" %}
 **Normal Attacks**  
-Beidou performs up to 5 consecutive attacks.
+Fischl performs up to 5 shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 103.38% |  |  |
-| 2-Hit | 103% |  |  |
-| 3-Hit | 128.38% |  |  |
-| 4-Hit | 125.75% |  |  |
-| 5-Hit | 163% |  |  |
+| 1-Hit | 64.13% | 15 |  |
+| 2-Hit | 68% | 33 |  |
+| 3-Hit | 84.5% | 68 |  |
+| 4-Hit | 83.88% | 111 |  |
+| 5-Hit | 104.5% | 136 |  |
 
-Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
+**Aimed Shot**  
+Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will deal Electro DMG.
 
-* C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
-
-**Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes. At the end of the 5 seconds, perform a more powerful slash.
-
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Slash | 81.75% |  |  |
-| Final Slash | 148% |  |  |
+| String | Talent 6% | GU | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75% | 0 |  |  |
+| Fully Charged | 173.6% | 1 | 94 |  |
 
 **Plunge**
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
-
-* Beidou can plunge from flat ground by using an R cancel to jump higher.
-  * Enter and exit aimed mode, jump and attack in rapid succession.
+| Plunge Impact | 82.60% |
+| Low Plunge DMG | 165.16% |
+| High Plunge DMG | 206.3% |
 {% endtab %}
 
-{% tab title="Tidecaller" %}
+{% tab title="Nightrider" %}
 **Press**  
-Beidou swings her blade dealing Electro DMG.
+Fischl summons **Oz** a short distance in front of herself and deals Electro DMG in a small AoE at the summon location. 
 
-**Hold**
+* When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
 
-* Lifts her weapon up as a shield, max DMG absorbed scaled off Beidou's max HP.
-* Upon release, shield destruction, or max hold duration, Beidou will swing her blade once to deal Electro DMG.
-* Damage dealt scales with the number of times Beidou is attacked during the skill's duration. Max DMG bonus is given if she is attacked twice.
-* The shield posses 250% DMG absorption efficiency and applies Electro to Beidou upon activation.
+| Effect | Talent% / Data |
+| :--- | :--- |
+| Cast DMG | 161.62% |
+| Summon Cooldown | 25s |
+| Reposition Cooldown | 1s |
+| GU | 1U |
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold | 170.24% | 7.5s | 2U | 2~3 \(1:9\) |  |  |
-| DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
+### Oz
 
-* Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
+| Oz Details | Talent% / Data |
+| :--- | :--- |
+| Normal Attack | 124.32% |
+| Attack Speed | 1/s |
+| GU | 1U |
+| Particles | 0~1 \(2:3\) |
+| Damage Type | Elemental Skill |
+
+* **Oz** normal attacks a total of 10 times.
+* **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply Electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-10. Thus, against a single target, hits 1, 5, 7 apply electro to the target.
+* Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction.
 {% endtab %}
 
-{% tab title="Stormbreaker" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
+{% tab title="Midnight Phantasmagoria" %}
+Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy. 
 
-**Thunderbeast's Targe**
-
-* When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.
-* Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 lightning discharge can be triggered per second.
-* Snapshot on cast.
+* Fischl may not attack, cast, or dash during the duration of this ability. 
+* Summons **Oz** when the effect ends. 
+* If **Oz** is already on the field, this will reset his duration instead.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Cast DMG | 170.24% |
-| Lightning | 134.4% |
-| DMG Reduction | 26% \(scaling\) |
-| Duration | 15s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Cast GU | 4U |
-| Lightning GU | 1U |
-| Frames |  |
+| Cast DMG | 291.2% |
+| Duration | 134.4% |
+| Cooldown | 15s |
+| Energy Cost | 60 |
+| GU | 2U |
 
-* Beidou's lightning discharges have 3 damage instance with 2 targets or more.
+* You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
+* Midnight Phantasmagoria has no invulnerablility frames.
 {% endtab %}
 {% endtabs %}
 
@@ -98,31 +94,69 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 
 {% tabs %}
 {% tab title="Passive" %}
-### Conqueror of Tides
+### Mein Hausgarten
 
-Decreases swimming Stamina consumption for your own party members by 20%
-
-* Not stackable with Passive Talents that provide the exact same effects.
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Retribution
+### Stellar Predator
 
-Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
+When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG. 
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Talent 6%</th>
+      <th style="text-align:left">Particles</th>
+      <th style="text-align:left">GU</th>
+      <th style="text-align:left">
+        <p>Damage</p>
+        <p>Type</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Stellar Predator</td>
+      <td style="text-align:left">265.09%</td>
+      <td style="text-align:left">0</td>
+      <td style="text-align:left">2U</td>
+      <td style="text-align:left">Charged Attack</td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Lightning Storm
+### Undone Be Thy Sinful Hex 
 
-Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+\(previously known as **Lightning Smite**\)
 
-* DMG dealt by Normal and Charged Attacks is increased by 15%.
-* ATK SPD of Normal and Charged Attacks is increased by 15%.
-* Greatly reduced delay before unleashing charged attacks.
+When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Talent 6%</th>
+      <th style="text-align:left">Cooldown</th>
+      <th style="text-align:left">
+        <p>Damage</p>
+        <p>Type</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Undone Be Thy Sinful Hex</td>
+      <td style="text-align:left">80%</td>
+      <td style="text-align:left">1s</td>
+      <td style="text-align:left">Elemental Skill</td>
+    </tr>
+  </tbody>
+</table>
 {% endtab %}
 {% endtabs %}
 
@@ -130,76 +164,92 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 
 {% tabs %}
 {% tab title="C1" %}
-### Sea Beast's Scourge
+### Gaze of the Deep
 
-When Stormbreaker is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
+When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack,  dealing 30% of Fischl ATK as Physical DMG.
 
-* This shield absorbs Electro DMG 250% more effectively.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Talent 6%</th>
+      <th style="text-align:left">
+        <p>Damage</p>
+        <p>Type</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Gaze of the Deep</td>
+      <td style="text-align:left">20%</td>
+      <td style="text-align:left">Normal Attack</td>
+    </tr>
+  </tbody>
+</table>
+
+* This is an echo effect.
 {% endtab %}
 
 {% tab title="C2" %}
-### Upon the Turbulent Sea, the Thunder Arises
+### Devourer of All Sins
 
-Stormbreaker’s arc lightning can jump to 2 additional targets.
+When Nightrider is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
+
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 361.62% |
 {% endtab %}
 
 {% tab title="C3" %}
-### Summoner of Storm
+### Wings of Nightmare
 
-Increases the level of Tidecaller by 3.
+Increases the level of Nightrider by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Stunning Revenge
+### Her Pilgrimage of Bleak
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG.
+When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
 
-* This is an echo effect.
-* Use N2 cancels to maximize Electro DMG.
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 291.2% |
+| Her Pilgrimage of Bleak | 222% |
 {% endtab %}
 
 {% tab title="C5" %}
-### Crimson Tidewalker
+### Against the Fleeing Light
 
-Increases the Level of Stormbreaker by 3.
+Increases the Level of Midnight Phantasmagoria by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Bane of Evil
+### Evernight Raven
 
-During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%.
+Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
+
+| Type | Talent 6% | Attack Speed | GU | Particles | Damage Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal Attack | 124.32% | 1s | 1U | 0~1 \(2:3\) | Elemental Skill |
+| Joint Attack | 30% | No Limit | 1U | 0 | Elemental Skill |
+
+* The joint attack has an elemental application ICD of 2s.
+* **Oz** normal attacks for a total of 12 times over the duration.
+* **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-12. Thus, against a single target, hits 1, 5, 7, 11 apply electro to the target.
+* Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
 
-## **Weapons**
-
-### **Serpent Spine**
-
-Perfect parrying does NOT reduce your Serpent Stacks. Any shield damage will not count as "taking damage," but if your shield breaks from an attack it will count as taking damage.
-
-Serpent stacks still boost damage when off-field.
-
-### The Bell
-
-Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast.
-
-### Rainslasher
-
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller.
-
-### The Unforged
-
-Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an ATK% bonus that changes when shielded. **Thunderbeast's Targe** is snapshot _before_ gaining the bonus from The Unforged's shield ATK% bonus.
-
 ## **External Links**
 
-* \*\*\*\*[**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/fischl/)\*\*\*\*
-* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)\*\*\*\*
-* \*\*\*\*[**Beidou Mains Discord**](https://discord.gg/JSN9Rk2sWe)\*\*\*\*
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/fischl/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
+* [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/electro/beidou.md" %}
+{% page-ref page="../../evidence/characters/electro/fischl.md" %}
 

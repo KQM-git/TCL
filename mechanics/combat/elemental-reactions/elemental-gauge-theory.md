@@ -162,7 +162,9 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 ### **Writers:**
 
 * Neptunya\#8291
-* Artesians  \#0002
+* Artesians
+
+  \#0002
 
 ### Theorycrafters:
 
@@ -172,7 +174,9 @@ See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UK
 * Zephan\#9493
 * Bobrokrot\#0111
 * IonFox\#8887
-* Monochrom9  \#8058
+* Monochrom9
+
+  \#8058
 
 ## **External Links**
 
