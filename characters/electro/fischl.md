@@ -127,10 +127,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
-{% endtab %}
 
-{% tab title="Ascension 4" %}
-\\#\\#\\# Undone Be Thy Sinful Hex \\(previously known as \_\_Lightning Smite\_\_\\) When your current active character triggers an Electro-related Elemental Reaction while \_\_Oz\_\_ is on the field, \_\_Oz\_\_ will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+ {% endtab %} {% tab title="Ascension 4" %} \\\#\\\#\\\# Undone Be Thy Sinful Hex \\\(previously known as \\_\\_Lightning Smite\\_\\_\\\) When your current active character triggers an Electro-related Elemental Reaction while \\_\\_Oz\\_\\_ is on the field, \\_\\_Oz\\_\\_ will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -153,16 +151,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
-{% endtab %}
-{% endtabs %}
 
-## Constellations
-
-{% tabs %}
-{% tab title="C1" %}
-### Gaze of the Deep 
-
-When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
+ {% endtab %} {% endtabs %} \#\# Constellations {% tabs %} {% tab title="C1" %} \#\#\# Gaze of the Deep When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>

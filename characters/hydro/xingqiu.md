@@ -81,7 +81,7 @@ Initiate **Rainbow Bladework** and create the maximum number of **Rain Swords.**
 | GU | 1U |
 
 * Raincutter's damage calculation is **Dynamic**.
-  * The active character on field while Raincutter ****is active must be inside a field buff to receive the buffs.
+  * The active character on field while Raincutter _\*\*_is active must be inside a field buff to receive the buffs.
 * Each wave of Sword Rain Attack applies Hydro once, regardless of how many swords are in that wave.
 {% endtab %}
 {% endtabs %}
