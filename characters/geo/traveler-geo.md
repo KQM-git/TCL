@@ -10,10 +10,10 @@ description: >-
 
 ![](../../.gitbook/assets/traveler-geo-.png)
 
-### **Attacks** Perform up to 5 rapid strikes.
-
 {% tabs %}
 {% tab title="Foreign Rockblade" %}
+Attacks Perform up to 5 rapid strikes.
+
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.63% |  |  |
@@ -23,7 +23,7 @@ description: >-
 | 5-hit | 102.88% |  |  |
 
 **Charged Attack**  
-The traveller consumes 20 stamina to unleash 2 rapid sword strikes.
+The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
