@@ -1,2 +1,0 @@
-# Traveler \(Geo\)
-
