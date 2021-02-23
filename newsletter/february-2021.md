@@ -8,7 +8,7 @@ Currently, the TCL offers pages for:
 
 | Page | Main Status | Evidence Status |
 | :--- | :--- | :--- |
-| Albedo | Complete | In Progress |
+| Albedo | Complete | Complete |
 | Beidou | Complete | Complete |
 | Bennett | Complete | Complete |
 | Noelle | Complete | In Progress |
