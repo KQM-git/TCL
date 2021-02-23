@@ -76,7 +76,7 @@ When a character is located on the Solar Isotoma, the Solar Isotoma will form a 
 {% endtab %}
 
 {% tab title="Rite of Progeniture: Tectonic Tide" %}
-Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of him.If a **Solar Isotoma** is on the field, 7 **Fatal Blossoms** will be generated in the **Solar Isotoma** field, dealing AoE Geo DMG.
+Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of him. If a **Solar Isotoma** is on the field, 7 **Fatal Blossoms** will be generated in the **Solar Isotoma** field, dealing AoE Geo DMG.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -89,6 +89,7 @@ Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of
 | Frames | 96 |
 
 * Tectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.
+* The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
 {% endtab %}
 {% endtabs %}
 
