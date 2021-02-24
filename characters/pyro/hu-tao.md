@@ -183,3 +183,9 @@ increased. This effect triggers automatically when Hu Tao has 1 HP left. Can
 only occur once every 60s.
 
 {% endtab %} {% endtabs %}
+
+## **External Links**
+
+-   [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/hutao/)
+-   [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Hu_Tao)
+-   [**Hu Tao Mains Discord**](https://discord.gg/hutaomains)
