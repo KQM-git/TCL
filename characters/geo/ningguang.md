@@ -69,6 +69,8 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | Energy Cost | 40 |
 | GU | 1U |
 | Frames |  |
+
+* Ningguang's Starshatter does not snapshot on cast.
 {% endtab %}
 {% endtabs %}
 
