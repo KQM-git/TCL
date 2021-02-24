@@ -1,6 +1,6 @@
 # Barbara
 
-## **Barbara E Animation Cancel** 
+## **Barbara E Animation Cancel**
 
 By: RoaringMeow\#2437  
 Added on 12/19/2020
@@ -11,8 +11,8 @@ Reducing Barbara E animation for optimizing the "first heal"
 
 **Evidence:**
 
-Just Switch: [https://streamable.com/7yyyr1](https://streamable.com/7yyyr1)   
-Just Switch and Beyond: [https://streamable.com/3iqjyp](https://streamable.com/3iqjyp) 
+Just Switch: [https://streamable.com/7yyyr1](https://streamable.com/7yyyr1)  
+Just Switch and Beyond: [https://streamable.com/3iqjyp](https://streamable.com/3iqjyp)
 
 **Significance**
 

@@ -97,7 +97,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | :--- | :--- | :--- | :--- | :--- |
 | Bubble Duration | 8s |  |  | 1A |
 | Bubble DMG | 619.39% |  |  | 2B |
-| Omen DMG Bonus | 52% |  |  |  |
+| Omen DMG Bonus | 52% \(scaling\) |  |  |  |
 | Omen Duration | 4.5s |  |  |  |
 | CD | 15s |  |  |  |
 | Energy Cost | 60 |  |  |  |

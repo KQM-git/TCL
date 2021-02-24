@@ -11,7 +11,7 @@ Although **C2 Lunar Chain** reads that the Charged Attack will automatically fol
 
 **Evidence:**
 
-[**https://streamable.com/a4bznq**](https://streamable.com/a4bznq) ****
+[**https://streamable.com/a4bznq**](https://streamable.com/a4bznq) _\*\*_
 
 **Significance:**
 
@@ -28,8 +28,8 @@ Mona’s Bubble burst damage is determined at the time the bubble is actually tr
 
 **Evidence:**
 
-[**https://www.youtube.com/watch?v=KikCv6\_ooSI**](https://www.youtube.com/watch?v=KikCv6_ooSI)   
-****[**https://www.youtube.com/watch?v=JuqBWNX9-S8**](https://www.youtube.com/watch?v=JuqBWNX9-S8) ****
+[**https://www.youtube.com/watch?v=KikCv6\_ooSI**](https://www.youtube.com/watch?v=KikCv6_ooSI)  
+**\*\*\[**[https://www.youtube.com/watch?v=JuqBWNX9-S8\*\*\]\(https://www.youtube.com/watch?v=JuqBWNX9-S8](https://www.youtube.com/watch?v=JuqBWNX9-S8**]%28https://www.youtube.com/watch?v=JuqBWNX9-S8)\) _\*\*_
 
 **Significance:**
 
@@ -40,7 +40,7 @@ For example, in the perfect combo, the ATK buff provided by Bennett’s Elementa
 During this time, you can burst the bubble knowing that it will do more damage based on the extra ATK from Bennett's ult.  
 However, if you switch out for too long, Mona will lose the ATK buff and the bubble burst will not benefit from the ATK buff.
 
-## **How many Elemental Particles does Mona’s Elemental Skill Generate?** 
+## **How many Elemental Particles does Mona’s Elemental Skill Generate?**
 
 By: Curiously\#2324  
 Added on 5/12/2020
@@ -51,7 +51,7 @@ Mona's E gens 3 or 4 Hydro particles on explosion, seemingly weighted towards 3 
 
 **Evidence:**
 
-[**https://youtu.be/6FQ8SYuOgO4**](https://youtu.be/6FQ8SYuOgO4) ****
+[**https://youtu.be/6FQ8SYuOgO4**](https://youtu.be/6FQ8SYuOgO4) _\*\*_
 
 **Significance:**
 
@@ -70,13 +70,13 @@ Added on 27/12/2020
 
 ![](https://lh3.googleusercontent.com/XLaeeYu8-k2wEhZmAFsFsCnFwkue6Sg5DBMLFFnm2xkACbaUT3Z_bUdad8EFYT5nJ4zHdsq_NiywsS6346-h_s-rZDOnGEXa4NThL2euDGZ5nteDA3PJuLoh7lxIv4VC8ZeZcdDK)
 
-[**https://docs.google.com/spreadsheets/d/1KHsygf-NIKMB6VShIWnAu7XgvAqDSCY0PVGuSdJpGIU/edit\#gid=161777760**](https://docs.google.com/spreadsheets/d/1KHsygf-NIKMB6VShIWnAu7XgvAqDSCY0PVGuSdJpGIU/edit#gid=161777760) ****
+[**https://docs.google.com/spreadsheets/d/1KHsygf-NIKMB6VShIWnAu7XgvAqDSCY0PVGuSdJpGIU/edit\#gid=161777760**](https://docs.google.com/spreadsheets/d/1KHsygf-NIKMB6VShIWnAu7XgvAqDSCY0PVGuSdJpGIU/edit#gid=161777760) _\*\*_
 
 **Significance:**
 
 Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. Cementing that when Mona is attacking, it is ideal to try to maintain 2 AA + 1 Charged, even if you are not JCing. Note that if you run out of stamina, even 3AA + Charged is still better than 4AA JC.
 
-## **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?** 
+## **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?**
 
 By: Curiously\#2324  
 Added on 02/02/2021
@@ -93,7 +93,7 @@ Mona’s 1st Constellation does not boost her Q Burst damage.
 
 This has been confirmed due to math being done to break down how Mona's Q Burst damage works and it's been seen that C1 makes the formula wrong. However, just to triple check, there is now clear evidence that the damage difference between C0 and C1 does not change.
 
-## **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**  
+## **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**
 
 By: Gibbigobo\#9750  
 Added on 23/02/2021
