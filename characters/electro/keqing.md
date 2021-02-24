@@ -194,5 +194,5 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 **Evidence Vault:**
 
-{% page-ref page="keqing.md" %}
+{% page-ref page="../../evidence/characters/electro/keqing.md" %}
 
