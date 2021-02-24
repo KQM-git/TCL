@@ -38,7 +38,7 @@ The decay notation number indicates the original system of elemental units that 
 
 Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed.
 
-![A graph showing the decay rate of 1A\(green\) vs 2B\(red\)](../../../.gitbook/assets/image.png)
+![A graph comparing the decay rate of 1A\(green\) vs 2B\(red\) vs 4C\(purple\)](../../../.gitbook/assets/simple_decayv2.png)
 
 * **Y-Axis** = amount of elemental gauge
 * **X-Axis** = duration in seconds
@@ -47,7 +47,7 @@ Additional applications of the aura element will apply their own respective gaug
 
 > Fischl's Charged Shot to applies 1A Electro, the use of Beidou's Q will add 4C Electro to the gauge, resulting in a 4A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![This graph displays how 1GU, 2GU, and 4GU gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decay.png)
+![This graph displays how 1GU, 2GU, and 4GU gauges decay according to each decay rate.](../../../.gitbook/assets/advanced_decayv2.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds
