@@ -164,26 +164,6 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% endtab %}
 {% endtabs %}
 
-## **Weapons**
-
-### **Serpent Spine**
-
-Perfect parrying does NOT reduce your Serpent Stacks. Any shield damage will not count as "taking damage," but if your shield breaks from an attack it will count as taking damage.
-
-Serpent stacks still boost damage when off-field.
-
-### The Bell
-
-Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast.
-
-### Rainslasher
-
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller.
-
-### The Unforged
-
-Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an ATK% bonus that changes when shielded. **Thunderbeast's Targe** is snapshot _before_ gaining the bonus from The Unforged's shield ATK% bonus.
-
 ## **External Links**
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/beidou/)
