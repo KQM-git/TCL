@@ -94,7 +94,6 @@
     * [Electro](evidence/characters/electro/README.md)
       * [Beidou](evidence/characters/electro/beidou.md)
       * [Fischl](evidence/characters/electro/fischl.md)
-      * [Keqing](evidence/characters/electro/keqing.md)
       * [Lisa](evidence/characters/electro/lisa.md)
       * [Razor](evidence/characters/electro/razor.md)
     * [Geo](evidence/characters/geo/README.md)
