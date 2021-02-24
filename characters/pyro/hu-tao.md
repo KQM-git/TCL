@@ -97,3 +97,29 @@ enemy is hit, both the DMG and the HP Regeneration are increased.
 | Gauge Units               |              |        |              |
 
 {% endtab %} {% endtabs %}
+
+## **Ascension Passives**
+
+{% tabs %} {% tab title="Passive" %}
+
+### The More the Merrier
+
+When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an
+additional "Suspicious" dish of the same type.
+
+{% endtab %} {% tab title="Ascension 2" %}
+
+### Flutter By
+
+When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all
+allies in the party (excluding Hu Tao herself) will have their CRIT Rate
+increased by 12% for 8s.
+
+{% endtab %} {% tab title="Ascension 4" %}
+
+### Sanguine Rouge
+
+When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased
+by 33%.
+
+{% endtab %} {% endtabs %}
