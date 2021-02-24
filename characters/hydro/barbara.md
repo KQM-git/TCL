@@ -6,9 +6,9 @@ description: >-
 
 # Barbara
 
-## ![](.gitbook/assets/element_hydro.png) Barbara
+## ![](../../.gitbook/assets/element_hydro.png) Barbara
 
-![](.gitbook/assets/barbara.png)
+![](../../.gitbook/assets/barbara.png)
 
 ## **Attacks**
 
@@ -66,8 +66,7 @@ Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applyin
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
-Heals your own party members and nearby teammates for a large amount of HP.  
-
+Heals your own party members and nearby teammates for a large amount of HP.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -124,7 +123,7 @@ Increases the Level of Shining Miracle♪ by 3.
 {% tab title="C4" %}
 ## Attentiveness be My Power
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.   
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 {% endtab %}
 
@@ -149,7 +148,7 @@ When Barbara is in the party but not on the field, and one of your own party mem
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/barbara/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
-* [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)\*\*\*\*
+* [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 

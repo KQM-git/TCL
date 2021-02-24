@@ -7,9 +7,13 @@ description: >-
 
 # Mona
 
-## ![](.gitbook/assets/element_hydro.png) Mona
+{% hint style="info" %}
+Boesik\#3192 has a [comprehensive guide](https://docs.google.com/document/d/1pXlgCaYEpoizMIP9-QKlSkQbmRicWfrEoxb9USWD1Ro/edit) on Mona.
+{% endhint %}
 
-![](.gitbook/assets/mona.png)
+## ![](../../.gitbook/assets/element_hydro.png) Mona
+
+![](../../.gitbook/assets/mona.png)
 
 ## **Attacks**
 
@@ -164,7 +168,7 @@ Increases the Level of **Stellaris Phantasm** by 3.
 {% tab title="C4" %}
 ## **Prophecy of Oblivion**
 
-When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.  
+When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.
 {% endtab %}
 
 {% tab title="C5" %}
@@ -187,7 +191,7 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/mona/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Mona)
-* [**Mona Mains Discord**](https://discord.gg/uxVEDkTyRe)\*\*\*\*
+* [**Mona Mains Discord**](https://discord.gg/uxVEDkTyRe)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
