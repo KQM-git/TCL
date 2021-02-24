@@ -27,14 +27,14 @@ Perform up to 6 consecutive shots with a bow.
 | 6-Hit | 105.75% |  |  |
 
 **Charged Attack**  
-Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the Riptide status.
+Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the **Riptide** status.
 
 * **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
 * **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | ~ |
+| Aimed Shot | 63.75% |  |  | NA |
 | Fully Charged | 173.6% |  |  | 1U |
 | Riptide Flash | 17.63% \* 3 |  |  | 1U |
 | Riptide Burst | 86.8% |  |  | 2U |
