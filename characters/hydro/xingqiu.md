@@ -58,7 +58,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 | DMG Reduction | 25% |  |  |
 | Duration | 15s |  |  |
 | Cooldown | 21s |  |  |
-| GU | 1U |  |  |
+| GU | 1A |  |  |
 | Particles | 5 |  |  |
 
 * Each hit can be Vaporized using Amber's Q or similar skills.
@@ -78,7 +78,7 @@ Initiate **Rainbow Bladework** and create the maximum number of **Rain Swords.**
 | Duration | 15s |
 | CD | 20s |
 | Energy Cost | 80 |
-| GU | 1U |
+| GU | 1A |
 
 * Raincutter's damage calculation is **Dynamic**.
   * The active character on field while Raincutter ****is active must be inside a field buff to receive the buffs.

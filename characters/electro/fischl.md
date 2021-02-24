@@ -53,7 +53,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Cast DMG | 161.62% |
 | Summon Cooldown | 25s |
 | Reposition Cooldown | 1s |
-| GU | 1U |
+| GU | 1A |
 {% endtab %}
 
 {% tab title="Oz" %}
@@ -61,7 +61,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | :--- | :--- |
 | Normal Attack | 124.32% |
 | Attack Speed | 1/s |
-| GU | 1U |
+| GU | 1A |
 | Particles | 0~1 \(2:3\) |
 | Damage Type | Elemental Skill |
 
@@ -83,7 +83,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 | Duration | 134.4% |
 | Cooldown | 15s |
 | Energy Cost | 60 |
-| GU | 2U |
+| GU | 2B |
 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria has no invulnerablility frames.

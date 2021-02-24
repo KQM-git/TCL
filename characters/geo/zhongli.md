@@ -46,7 +46,7 @@ Zhongli consumes 20 stamina to lunge forward causing spears to fall along his pa
 | High Plunge DMG | 232.09% |
 {% endtab %}
 
-{% tab title="Dominus  Lapidis" %}
+{% tab title="Dominus Lapidis" %}
 **Press:**  
 Zhongli creates a **Stone Stele** in front of him.
 
@@ -96,10 +96,10 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | Skill DMG | 639.56% |
-| Petrification Duration | 2s |
+| Petrification Duration | 3.6s \(scaling\) |
 | Cooldown | 12s |
 | Energy Cost | 40 |
-| Cast GU |  |
+| GU |  |
 | Frames |  |
 {% endtab %}
 {% endtabs %}

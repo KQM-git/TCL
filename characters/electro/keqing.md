@@ -26,74 +26,67 @@ Keqing performs up to 5 consecutive attacks.
 | 4-Hit | 45.75% + 50% | 87 + 97 | 181.9%/s |
 | 5-Hit | 97.38% | 133 | 176.6%/s |
 
-Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
-
-* C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
-
 **Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes. At the end of the 5 seconds, perform a more powerful slash.
+Keqing consumes 25 stamina to unleash 2 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 81.75% |  |  |
-| Final Slash | 148% |  |  |
+| N1C | 296.25% | 63 | 282.14%/s |
+| N4C | 530.75% | 150 | 212.3%/s |
+
+* Keqing's N1C is her highest damage combo but is stamina hungry.
+  * N4C is a comparable damage combo that is less stamina intensive.
 
 **Plunge**
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
-
-* Beidou can plunge from flat ground by using an R cancel to jump higher.
-  * Enter and exit aimed mode, jump and attack in rapid succession.
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 232.09% |
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
 **Press**  
-Beidou swings her blade dealing Electro DMG.
+Keqing throws a **Lightning Stiletto** toward an enemy that deals Electro DMG in a small AoE and leaves a **Stiletto Mark** on field.
 
-**Hold**
+**Hold**  
+Keqing adjusts the direction that the **Lightning Stiletto** will be thrown and leaves a **Stiletto Mark** on field.
 
-* Lifts her weapon up as a shield, max DMG absorbed scaled off Beidou's max HP.
-* Upon release, shield destruction, or max hold duration, Beidou will swing her blade once to deal Electro DMG.
-* Damage dealt scales with the number of times Beidou is attacked during the skill's duration. Max DMG bonus is given if she is attacked twice.
-* The shield posses 250% DMG absorption efficiency and applies Electro to Beidou upon activation.
+* Stiletto Mark can be left suspended in the air.
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold | 170.24% | 7.5s | 2U | 2~3 \(1:9\) |  |  |
-| DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
+**Lightning Stiletto \(recast\)**  
+When Keqing uses Stellar Restoration while the **Stiletto Mark** is on field, Keqing will blink to the location of the **Mark** and unleashes one slashing attack that deals AoE Electro DMG. 
 
-* Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
+* When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
+
+When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she will do a **Thunderclap Slash** at the **Mark's** location that deals AoE Electro DMG.
+
+| Type | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| Lightning Stiletto  | 70.56% | 34 | 124.5%/s |
+| Slashing Attack | 235.2% | 84 | 219%/s |
+| Thunderclap Slash | 117.6% + 117.6% | 90 | 401.9%/s |
+| CD | 7.5s |  |  |
+| GU | 2B |  |  |
+| Particles | 2~3 \(9:1\) |  |  |
 {% endtab %}
 
 {% tab title="Starward Sword" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
-
-**Thunderbeast's Targe**
-
-* When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.
-* Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 lightning discharge can be triggered per second.
-* Snapshot on cast.
+Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of AoE Electro DMG and finally does a large slash for "massive" AoE Electro DMG.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Cast DMG | 170.24% |
-| Lightning | 134.4% |
-| DMG Reduction | 26% \(scaling\) |
-| Duration | 15s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Cast GU | 4U |
-| Lightning GU | 1U |
-| Frames |  |
+| Cast DMG | 123.2% |
+| Consecutive Slash DMG | 33.6% x 8 |
+| Last Attack | 264.21% |
+| Cooldown | 12s |
+| Energy Cost | 40 |
+| GU | 1U |
+| Frames | 125 |
+| Motion Value | 314.8%/s per enemy |
 
-* Beidou's lightning discharges have 3 damage instance with 2 targets or more.
+* Keqing exits her Starward Sword before the last slash and can swap or attack.
 {% endtab %}
 {% endtabs %}
 
@@ -101,31 +94,29 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 
 {% tabs %}
 {% tab title="Passive" %}
-### Conqueror of Tides
+### Land's Overseer
 
-Decreases swimming Stamina consumption for your own party members by 20%
-
-* Not stackable with Passive Talents that provide the exact same effects.
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Retribution
+### Thundering Penance
 
-Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
+After recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's weapon gains an Electro Infusion for 5s.
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
+| Type | GU |
+| :--- | :--- |
+| Electro Infusion | 1A |
+
+* Keqing's infusion is overridden by all other infusion effects \(Chongyun **Chonghua Field** and Bennett **Inspiration Field** C6\).
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Lightning Storm
+### Aristocratic Dignity
 
-Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
 
-* DMG dealt by Normal and Charged Attacks is increased by 15%.
-* ATK SPD of Normal and Charged Attacks is increased by 15%.
-* Greatly reduced delay before unleashing charged attacks.
+* Keqing receives these buffs the moment she casts Starward Sword.
 {% endtab %}
 {% endtabs %}
 
@@ -133,44 +124,43 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 
 {% tabs %}
 {% tab title="C1" %}
-### Sea Beast's Scourge
+### Thundering Might
 
-When Stormbreaker is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
+Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.
 
-* This shield absorbs Electro DMG 250% more effectively.
+* An enemy can be hit twice by the Thundering Might AoE if Stellar Restoration is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
 {% endtab %}
 
 {% tab title="C2" %}
-### Upon the Turbulent Sea, the Thunder Arises
+### Keen Extraction
 
-Stormbreaker’s arc lightning can jump to 2 additional targets.
+When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C3" %}
-### Summoner of Storm
+### Foreseen Reformation
 
-Increases the level of Tidecaller by 3.
+Increases the Level of Starward Sword by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Stunning Revenge
+### Attunement
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG.
-
-* This is an echo effect.
-* Use N2 cancels to maximize Electro DMG.
+For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.
 {% endtab %}
 
 {% tab title="C5" %}
-### Crimson Tidewalker
+### Beckoning Stars
 
-Increases the Level of Stormbreaker by 3.
+Increases the Level of Stellar Restoration by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Bane of Evil
+### Tenacious Star
 
-During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%.
+When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s for a maximum of 24% additional Electro DMG.
+
+* Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
 {% endtab %}
 {% endtabs %}
 
@@ -204,5 +194,5 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/electro/beidou.md" %}
+{% page-ref page="keqing.md" %}
 

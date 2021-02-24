@@ -54,10 +54,10 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2U | 2 |  |  |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1U | 3 |  |  |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1U | 3 |  |  |
-| Explosion |  |  | 1U |  |  |  |
+| E Press | 192.64% | 5s | 2B | 2 |  |  |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 |  |  |
+| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 |  |  |
+| Explosion |  |  | 1A |  |  |  |
 
 * Max hold duration is x seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
@@ -80,8 +80,8 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 | Duration | 12s |
 | Cooldown | 15s \(non-scaling\) |
 | Energy Cost | 60 |
-| GU | 2U |
-| Imbue | 1U |
+| GU | 2B |
+| Imbue | 1A |
 | Frames |  |
 
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.

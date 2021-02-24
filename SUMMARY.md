@@ -93,6 +93,7 @@
     * [Dendro](evidence/characters/dendro.md)
     * [Electro](evidence/characters/electro/README.md)
       * [Beidou](evidence/characters/electro/beidou.md)
+      * [Keqing](evidence/characters/electro/keqing.md)
       * [Fischl](evidence/characters/electro/fischl.md)
       * [Lisa](evidence/characters/electro/lisa.md)
       * [Razor](evidence/characters/electro/razor.md)

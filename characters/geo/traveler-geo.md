@@ -50,10 +50,14 @@ Summons a meteorite that deals Geo damage and launches small enemies
 * Holding allows you to aim where the meteorite appears and has a faster animation time.
 * There is a construct limit of 3 Geo constructs max on one field, after hitting the maximum the oldest construct will be destroyed whenever a new construct is created.
 
-| Type | Talent 6% | Cooldown | GU | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 347.2% | 8 sec | 1 |  |  |
-| Duration | 30s |  |  |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Base DMG | 347.2% |
+| Duration | 30s |
+| Cooldown | 8s |
+| GU | 1U |
+| Frames |  |
+| Motion Value |  |
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
@@ -67,6 +71,7 @@ Deals 5 waves of damage to enemies and knocks them back away from the caster.
 | Elemental burst DMG | 207.2% |
 | Duration | 15s |
 | Cooldown | 15s \(non-scaling\) |
+| GU | ? |
 | Energy Cost | 60 |
 | Frames |  |
 

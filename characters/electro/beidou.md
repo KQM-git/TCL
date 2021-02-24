@@ -60,10 +60,10 @@ Beidou swings her blade dealing Electro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 170.24% | 7.5s | 2U | 2 |  |  |
-| Hold | 170.24% | 7.5s | 2U | 2~3 \(1:9\) |  |  |
+| Base DMG | 170.24% | 7.5s | 2B | 2 |  |  |
+| Hold | 170.24% | 7.5s | 2B | 2~3 \(1:9\) |  |  |
 | DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1U |  |  |  |
+| Shield Scaling | 20.16% Max HP + 2195 |  | 1A |  |  |  |
 
 * Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
 {% endtab %}
@@ -81,16 +81,18 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | Cast DMG | 170.24% |
-| Lightning | 134.4% |
+| Lightning DMG | 134.4% |
+| Lightning Bounces | 2 |
 | DMG Reduction | 26% \(scaling\) |
 | Duration | 15s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
-| Cast GU | 4U |
-| Lightning GU | 1U |
+| Cast GU | 4C |
+| Lightning GU | 1A |
 | Frames |  |
 
-* Beidou's lightning discharges have 3 damage instance with 2 targets or more.
+* Beidou's lightning discharges have 3 damage instances with 2 targets or more.
+* Stormbreaker's additional arc lightning can jump back to the initial target.
 {% endtab %}
 {% endtabs %}
 

@@ -56,7 +56,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 
 | Type | Talent 6% | GU |
 | :--- | :--- | :--- |
-| Stance Change DMG | 100.8% | 2U |
+| Stance Change DMG | 100.8% | 2B |
 
 * **Melee Stance:**
   * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
@@ -74,21 +74,22 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 **Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
 
-| String | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 56.5% |  |  | 1U |
-| 2-Hit | 60.5% |  |  | 1U |
-| 3-Hit | 81.88% |  |  | 1U |
-| 4-Hit | 87.13% |  |  | 1U |
-| 5-Hit | 80.38% |  |  | 1U |
-| 6-Hit | 51.5% + 54.75% |  |  | 1U |
+| String | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 56.5% |  |  |
+| 2-Hit | 60.5% |  |  |
+| 3-Hit | 81.88% |  |  |
+| 4-Hit | 87.13% |  |  |
+| 5-Hit | 80.38% |  |  |
+| 6-Hit | 51.5% + 54.75% |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| N1C | 248.62% |  |  | 1U |
+| N1C | 248.62% |  |  | 1A |
 
 **Riptide Slash**  
 Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
@@ -97,9 +98,10 @@ Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide 
 * This DMG can only occur once every 1.5s.
 * Each proc of this effect gives 1 Hydro Particle.
 
-| Type | Talent 6% | GU |
-| :--- | :--- | :--- |
-| Riptide Slash | 86.5% | 1U |
+| Type | Talent 6% |
+| :--- | :--- |
+| Riptide Slash | 86.5% |
+| GU | 1A |
 {% endtab %}
 
 {% tab title="Havoc: Obliteration" %}
@@ -111,12 +113,15 @@ Performs a different attack depending on the stance in which it is cast.
 * Apply Riptide status to enemies hit.
 * Returns 20 Energy after use.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| DMG | 529.76% |  |  | 2U |
-| Energy Cost | 60 |  |  |  |
-| Energy Refund | 20 |  |  |  |
-| CD | 15s |  |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| DMG | 529.76% |
+| Energy Cost | 60 |
+| Energy Refund | 20 |
+| CD | 15s |
+| GU | 2B |
+| Frames |  |
+| MV/s |  |
 
 **Melee Stance: Light of Obliteration**
 
@@ -126,12 +131,14 @@ Performs a different attack depending on the stance in which it is cast.
   * Triggers a Hydro explosion that deals AoE Hydro DMG.
   * DMG Dealt is considered Elemental Burst Damage.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| DMG | 649.6% |  |  | 2U |
-| Riptide Blast | 168% |  |  | 2U |
-| Energy Cost | 60 |  |  |  |
-| CD | 15s |  |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 649.6% |
+| Riptide Blast | 168% |
+| Energy Cost | 60 |
+| CD | 15s |
+| Cast GU | 2B |
+| Riptide Blast GU | 2B |
 {% endtab %}
 {% endtabs %}
 
@@ -153,7 +160,7 @@ Extends Riptide duration by 8s.
 {% tab title="Ascension 4" %}
 #### Sword of Torrents
 
-When Tartaglia is in Foul Legacy: Ragin Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
+When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
 {% endtab %}
 {% endtabs %}
 
