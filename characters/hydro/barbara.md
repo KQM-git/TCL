@@ -154,3 +154,5 @@ When Barbara is in the party but not on the field, and one of your own party mem
 
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/hydro/barbara.md" %}
+
