@@ -123,3 +123,63 @@ When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased
 by 33%.
 
 {% endtab %} {% endtabs %}
+
+## Constellations
+
+{% tabs %} {% tab title="C1" %}
+
+### Crimson Bouquet
+
+While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu
+Tao's Charge Attacks do not consume Stamina.
+
+{% endtab %}
+
+{% tab title="C2" %}
+
+### Ominous Rainfall
+
+Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP
+at the time the effect is applied. Additionally, **Spirit Soother** will also
+apply the **Blood Blossom** effect.
+
+{% endtab %}
+
+{% tab title="C3" %}
+
+### Lingering Carmine
+
+Increases the Level of **Guide to Afterlife** by 3.
+
+{% endtab %}
+
+{% tab title="C4" %}
+
+### Garden of Eternal Rest
+
+Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied
+herself, all nearby allies in the party (excluding Hu Tao herself) will have
+their CRIT Rate increased by 12% for 15s.
+
+{% endtab %}
+
+{% tab title="C5" %}
+
+### Floral Incense
+
+Increases the Level of **Spirit Soother** by 3.
+
+{% endtab %}
+
+{% tab title="C6" %}
+
+### Butterfly's Embrace
+
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the
+next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT
+Rate is increased by 100%, and her resistance to interruption is greatly
+increased. This effect triggers automatically when Hu Tao has 1 HP left. Can
+only occur once every 60s.
+
+{% endtab %} {% endtabs %}
