@@ -1,30 +1,30 @@
 ---
-description: he
+description: >-
+  The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis'
+  unilateral approach to policymaking in Liyue — but in truth, gods admire
+  skeptics such as her quite a lot.
 ---
 
 # Keqing
 
-yahoo
+## ![](../../.gitbook/assets/element_electro.png) Keqing
 
-
-## ![](../../.gitbook/assets/element_electro.png) Beidou
-
-![](../../.gitbook/assets/beidou.png)
+![](../../.gitbook/assets/keqing.png)
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Oceanborne" %}
+{% tab title="Yunlai Swordsmanship" %}
 **Normal Attacks**  
-Beidou performs up to 5 consecutive attacks.
+Keqing performs up to 5 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 103.38% |  |  |
-| 2-Hit | 103% |  |  |
-| 3-Hit | 128.38% |  |  |
-| 4-Hit | 125.75% |  |  |
-| 5-Hit | 163% |  |  |
+| 1-Hit | 59.62% | 11 | 325.2%/s |
+| 2-Hit | 59.62% | 33 | 216.8%/s |
+| 3-Hit | 79.13% | 60 | 198.8%/s |
+| 4-Hit | 45.75% + 50% | 87 + 97 | 181.9%/s |
+| 5-Hit | 97.38% | 133 | 176.6%/s |
 
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
 
@@ -50,7 +50,7 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
   * Enter and exit aimed mode, jump and attack in rapid succession.
 {% endtab %}
 
-{% tab title="Tidecaller" %}
+{% tab title="Stellar Restoration" %}
 **Press**  
 Beidou swings her blade dealing Electro DMG.
 
@@ -71,7 +71,7 @@ Beidou swings her blade dealing Electro DMG.
 * Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
 {% endtab %}
 
-{% tab title="Stormbreaker" %}
+{% tab title="Starward Sword" %}
 Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
 **Thunderbeast's Targe**
