@@ -2,7 +2,7 @@
 description: 'If you need something defined, this is the place.'
 ---
 
-# Common Terms
+# Glossary
 
 {% hint style="info" %}
 If there are any terms you want defined/redefined, please make a submission through this [form](https://forms.gle/JeiHNSb8mfWxCAGv5), and we will get to it.
@@ -47,8 +47,7 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 For a more in-depth look at reactions, there is a whole [section](https://library.keqingmains.com/mechanics/combat/elemental-reactions) dedicated to them in the TCL.
 
-**Amplified\(Amped\)** = A category for reactions, which melt and vaporize fall into. Amped reactions multiply the trigger by a specific multiplier, for more details go to General Reaction Mechanics
-.
+**Amplified\(Amped\)** = A category for reactions, which melt and vaporize fall into. Amped reactions multiply the trigger by a specific multiplier, for more details go to General Reaction Mechanics .
 
 **Aura** = If a targetable entity is currently not affected by any element, the next elemental source will apply an aura.
 
@@ -67,8 +66,7 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
 
-**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy.
- For more details, see our page on [ICDs](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
+**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
@@ -77,6 +75,7 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 **Transformative** = A category for reactions, which: Overload, Electrocharged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
 
 * Transformative reactions deal damage based on the trigger character level and their EM, for more details go to General Reaction Mechanics
+
   .
 
 **Trigger** = If a targetable entity has an existing aura, the next elemental source will act as a trigger for a reaction.
@@ -95,7 +94,7 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 * Variants: Walk Cancel, Dash Cancel, Jump Cancel
 
-**Cleanse** = A method of cleaning auras off of characters by self-applying an element from certain skills/bursts of characters. For more information see our page on cleanses 
+**Cleanse** = A method of cleaning auras off of characters by self-applying an element from certain skills/bursts of characters. For more information see our page on cleanses
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 
@@ -150,7 +149,7 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **NO** = Noblesse Oblige
 
-**R\[\#\]** =  Refine \[1, 2, 3, 4, 5\]
+**R\[\#\]** = Refine \[1, 2, 3, 4, 5\]
 
 **SC** = Superconduct
 
@@ -161,8 +160,4 @@ Terms used to describe combos, they’re stitched together to describe the strin
 **TF** = Thundering Fury
 
 **TS** = Thundersoother
-
-
-
-
 
