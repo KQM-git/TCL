@@ -83,7 +83,10 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
-Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE. Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and the HP Regeneration are increased.
+Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE. 
+
+* Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. 
+* If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and the HP Regeneration are increased.
 
 | Type | Talent 6% |
 | :--- | :--- |
