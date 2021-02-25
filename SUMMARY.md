@@ -2,6 +2,7 @@
 
 * [Theorycrafting Library](README.md)
 * [Keqing Mains Site](https://keqingmains.com)
+* [Common Terms](common-terms.md)
 
 ## Newsletter
 
