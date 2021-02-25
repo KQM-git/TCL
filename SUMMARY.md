@@ -55,6 +55,7 @@
 * [Combat](mechanics/combat/README.md)
   * [Elemental Reactions](mechanics/combat/elemental-reactions/README.md)
     * [Elemental Gauge Theory](mechanics/combat/elemental-reactions/elemental-gauge-theory.md)
+    * [Internal Cooldown of Elemental Application](mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md)
   * [Shields](mechanics/combat/shields.md)
   * [Enemy Shields](mechanics/combat/enemy-shields.md)
   * [Field Buffs](mechanics/combat/field-buffs.md)
