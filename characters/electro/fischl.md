@@ -165,7 +165,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% tab title="C1" %}
 ### Gaze of the Deep 
 
-When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
+When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>
