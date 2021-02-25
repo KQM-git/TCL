@@ -93,6 +93,14 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 ## **Ascension Passives**
 
 {% tabs %}
+{% tab title="Ascension Stat" %}
+| Level | CRIT DMG% |
+| :--- | :--- |
+| 60 | 69.2% |
+| 70 | 78.8% |
+| 80+ | 88.4% |
+{% endtab %}
+
 {% tab title="Passive" %}
 ### Land's Overseer
 
