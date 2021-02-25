@@ -65,7 +65,8 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Particles | 0~1 \(2:3\) |
 | Damage Type | Elemental Skill |
 
-* **Oz** normal attacks a total of 10 times.
+* **Oz** has a duration of 10s.
+* **Oz** normal attacks a total of 10 times over the duration.
 * **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply Electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-10. Thus, against a single target, hits 1, 5, 7 apply electro to the target.
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction.
 {% endtab %}
@@ -130,7 +131,9 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-\\#\\#\\# Undone Be Thy Sinful Hex \\(previously known as \_\_Lightning Smite\_\_\\) When your current active character triggers an Electro-related Elemental Reaction while \_\_Oz\_\_ is on the field, \_\_Oz\_\_ will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+### Undone Be Thy Sinful Hex 
+
+\(previously known as _Lightning Smite_\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -162,7 +165,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% tab title="C1" %}
 ### Gaze of the Deep 
 
-When Oz is not on the field, and Fischl performs a Normal Attack against an enemy, Oz fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
+When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 30% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>
@@ -231,6 +234,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | Joint Attack | 30% | No Limit | 1U | 0 | Elemental Skill |
 
 * The joint attack has an elemental application ICD of 2s.
+* The joint attack is an echo effect
 * **Oz** normal attacks for a total of 12 times over the duration.
 * **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-12. Thus, against a single target, hits 1, 5, 7, 11 apply electro to the target.
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
