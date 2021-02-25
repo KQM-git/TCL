@@ -8,23 +8,27 @@ description: >-
 
 ## Introduction
 
-Currently there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.**
+Currently there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.** 
 
 ## Elemental Shields
 
 **Elemental Shields** are shields that **NEED** to be taken down in order to deal direct damage to the enemy HP bar.
 
-![](../../.gitbook/assets/zhongli_vs_mage.png)
+![Zhongli&apos;s Elemental Burst cast at a shielded Hydro Mage](../../.gitbook/assets/zhongli-vs-mage.png)
 
-To deal with Elemental Shields, you'll need to apply a different **Elemental Aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro Aura**. However, **Pyro Aura** is not the only **Aura** that can take down a **Cryo Shield.**
+To deal with Elemental Shields, you'll need to apply a different **Elemental Aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro Aura**. However, **Pyro Aura** is not the only **Aura** that can take down a **Cryo Shield.** 
 
-Due to the nature of how ICD works, it is recommended to use different character rotations as opposed to spamming a certain attack, like **Infused Normals**. That being said, **Bow Users** can spam their **Charged Attack** to apply an **aura** over and over because the assumption is that the charge time is longer than the ICD.
+Due to the nature of how ICD works, it is recommended to use different character rotations as opposed to spamming a certain attack, like **Infused Normals**. That being said, **Bow Users** can spam their **Charged Attack** to apply an **aura** over and over because the assumption is that the charge time is longer than the ICD. 
+
+Before we get into how to deal with different types of shields, some types \(**Whether its Elemental Shield or Armor\) can** be damaged through **Heavy attacks**, and **Light Attacks**. However, **Light Attacks** do insignificant damage and its advisable to avoid using **Light Attacks** to break **Shields.** 
+
+To add onto that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice. 
 
 The following is a table consisting of different types of **Elemental Shields** as well as how many **Gauge units** are required to take them down.[ ](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=162614118)[Character Gauge Units Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=162614118)
 
 {% tabs %}
 {% tab title="Pyro Abyss Mage" %}
-| Elemental Aura | Gauge Units Required |
+| Elemental Aura | Gauge Units Required  |
 | :--- | :--- |
 | Pyro | Null |
 | Hydro | 6GU |
@@ -41,18 +45,20 @@ The following is a table consisting of different types of **Elemental Shields** 
 | Hydro | Null |
 | Pyro | 6GU |
 | Electro | 12GU |
-| Anemo | 24GU |
-| Geo | 24GU |
+| Anemo  | 24GU |
+| Geo  | 24GU |
 
-**Note: Cryo Elemental Shields** are the only shields that can be damaged with Heavy attacks such as Claymore hits. It takes ~24 Claymore hits to break a **Cryo Elemental Shield.**
+**Note: Cryo Elemental Shields** are the only shields that can be damaged with Heavy attacks such as Claymore hits. It takes ~24 Claymore hits to break a **Cryo Elemental Shield.**  
 {% endtab %}
 
 {% tab title="Hydro Abyss Mage" %}
-| Elemental Aura | Gauge Units Required |
+
+
+| Elemental Aura | Gauge Units Required  |
 | :--- | :--- |
-| Hydro | Null |
+| Hydro  | Null |
 | Cryo | 12GU |
-| Electro | 12GU |
+| Electro | 15GU |
 | Anemo | 24GU |
 | Geo | 24GU |
 {% endtab %}
@@ -69,8 +75,8 @@ The following is a table consisting of different types of **Elemental Shields** 
 **Important: Geo Slimes** can lose their **Shield** through **Crystallize Reaction.** Claymore attacks vary in strength from character to other but the difference should be 1 Normal.
 {% endtab %}
 
-{% tab title="Cyro Cicin Mage" %}
-Before we get into how to take down a **Cryo Cicin Mage's Elemental Armor,** first we have to know that the amount of **Cicin** \(or flies\) matter. The less **Cicin** there are the easier it is to take down their **Armor.  
+{% tab title="Cryo Cicin Mage" %}
+Before we get into how to take down a **Cryo Cicin Mage's Elemental Shield,** first we have to know that the amount of **Cicin** \(or flies\) matter. The less **Cicin** there are, the easier it is to take down their **Shield.   
 C=Numbers of Cicin alive.**
 
 | Aura | Gauge Units Required |
@@ -86,28 +92,26 @@ C=Numbers of Cicin alive.**
 
 ## Elemental Armor
 
-**Elemental Armor** is the type of shield that protects mobs such as **Stonehide Lawachurl, Fatui, Geo Slimes, and Regisvine bosses.**
+**Elemental Armor** is the type of shield that protects mobs such as **Stonehide Lawachurl, Fatui, Geo Slimes, and Regisvine bosses.** 
 
 One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy has increased resistances while armored so your damage will be significantly lower.
 
-![](../../.gitbook/assets/zhongli_vs_fatui.png)
+![Zhongli&apos;s Elemental Burst cast after the Fatui is shielded](../../.gitbook/assets/zhongli-vs-fatui.png)
 
-The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
-
-Other types of **Elemental Armor** can be damaged by different **Elemental Auras, Heavy attacks, and Light Attacks.** However, **Light Attacks** do insignificant damage and its advisable to avoid using **Light Attacks** to break **Elemental Armor.**
+The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible. 
 
 The following is a table consisting of different types of **Elemental Armor** as well as how to take them down:
 
 {% tabs %}
 {% tab title="Fatui" %}
-| Fatui Type | Aura plus Gauge units |
+| Fatui Type  | Aura plus Gauge units |
 | :--- | :--- |
 | Cryo Fatui | 4GU Pyro |
 | Electro Fatui | 4GU Cryo |
 | Hydro Fatui | 5GU Electro |
 | Anemo Fatui | 1GU Cryo\Hydro\Pyro\Electro |
 | Pyro Gunslinger | 4GU Hydro |
-| Geochanter | 5~7 Heavy Attacks |
+| Geochanter  | 5~7 Heavy Attacks OR Crystallize Reaction |
 {% endtab %}
 
 {% tab title="Whopperflowers" %}
@@ -117,20 +121,20 @@ The following is a table consisting of different types of **Elemental Armor** as
 | 2GU Electro | 2GU Electro |
 | 4GU Anemo | 4GU Cryo |
 | 4GU Geo | 4GU Anemo |
-| Cryo\Hydo **Null** | 4GU Geo |
+| Cryo\Hydro **Null** | 4GU Geo |
 | 4 Claymore N1 |  |
 {% endtab %}
 
 {% tab title="Lawachurls" %}
 | Stonehide Lawachurl | Frostarm Lawachurl |
 | :--- | :--- |
-| 11 Claymore N1 during 24 Seconds | 15GU Pyro\` |
+| 11 Claymore N1 during 24 Seconds | 15GU Pyro |
 | ~9 Overload during 45 Seconds | 30GU Electro |
 | 5 Ningguang N1 | 60GU Anemo |
 |  | 60GU Geo |
 |  |  |
 
-Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays each second for up to 90 seconds.
+Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays each second for up to 90 seconds. 
 {% endtab %}
 
 {% tab title="Regisvine" %}
@@ -138,18 +142,17 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 | :--- | :--- |
 | 6GU Hydro | 6GU Pyro |
 | 12GU Electro | 12GU Electro |
-| 24GU Cryo | N Claymore hits |
+| 24GU Cryo | ~24 Claymore N1 |
 | 24GU Anemo | 24GU Anemo |
 | 24GU Geo | 24GU Geo |
-|  | ~24 Claymore N1 |
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **EYE**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **EYE**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.** 
 {% endtab %}
 {% endtabs %}
 
 ## Mitachurl Shields
 
-**Mitachurl Shields** are rather different than other types of shields. For one, they only protect the **Mitachurls** from **one direction only.** There aren't any special mechanics as to how they work, and dealing with them is quite simple as well.
+**Mitachurl Shields** are rather different than other types of shields. For one, they only protect the **Mitachurls** from **one direction only.** There aren't any special mechanics as to how they work, and dealing with them is quite simple as well. 
 
 {% tabs %}
 {% tab title="Wooden Mitachurl" %}
