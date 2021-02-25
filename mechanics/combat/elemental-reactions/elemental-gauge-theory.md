@@ -9,7 +9,7 @@ description: The current method of explaining all game mechanics involving eleme
 To our knowledge, the framework of Elemental Gauge Theory can be applied to explain any elemental-related concept in Genshin. Extensive testing has been done and is viewable in the Evidence Vault under [Gauge Unit Theory - Testing and Evidence](../../../evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence).
 
 {% hint style="info" %}
-There is a [Definitions](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory#definitions) section at the bottom if any of the terms used are unfamiliar.
+If any words are unfamiliar, we have a entry on [common terms](../../../common-terms.md#reaction-terms), with a specific section on terms commonly found when discussing reactions.
 {% endhint %}
 
 ## Notation
@@ -141,37 +141,6 @@ EC is triggered when an enemy with a Hydro or Electro aura has the other aura ap
 > When either the Electro or Hydro gauge completely decays, the next EC tick will prematurely occur at the moment at which the gauge completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
 
 Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
-
-## Definitions
-
-**Aura =** If a targetable entity is currently not affected by any element, the next elemental source will apply an aura.
-
-**Aura Tax** = The aura tax increases the gauge reduction from reactions by a multiplier of 1.25. This multiplier has been integrated into the unit modifier system already.
-
-**Elemental Decay** = An aura will persist a certain duration depending on the type of elemental source. Think of the duration as a gauge that can decay or be reduced in 2 ways:
-
-* Via time \(A, B, C\)
-  * The gauge will decay over time. Each letter represents a different decay rate, which can be referenced in [Notation](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory#notation). Once the gauge empties, the elemental aura disappears.
-* Via reactions \(GU\)
-  * When you apply an elemental trigger to an existing elemental aura, a certain amount of the gauge is consumed. If an amount remains, then the aura will persist after the reaction. If the gauge is fully consumed, the aura disappears.
-
-**Elemental Gauge / Gauge Units \(GU\)** = The strength of an elemental source, which dictates how much of the aura is consumed when a reaction occurs.
-
-* See [Gauge Unit Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing) to see each source’s U value
-
-**Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
-
-**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an **elemental source** applies an **aura** or **trigger** to an enemy.
-
-* During this ICD, repeated use of that specific elemental source **WILL** do elemental damage, but **WILL NOT** apply an aura/trigger 
-
-**Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
-
-**Trigger** = If a targetable entity has an **existing aura**, the next elemental **source** will act as a **trigger** for a reaction.
-
-**Unit Modifier** = A system of modifiers that apply to the **triggers** of reactions.
-
-* This modifier can increase or decrease how much of the aura is consumed in said reactions.
 
 ## **Credits**
 
