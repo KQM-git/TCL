@@ -4,7 +4,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 # Albedo
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
+## ![](../../.gitbook/assets/element_geo%20%281%29%20%281%29.png) Albedo
 
 ![](../../.gitbook/assets/albedo.png)
 
@@ -17,18 +17,18 @@ Albedo performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 53.4% | 12 | 267 |
-| 2-Hit | 53.4% | 30 | 213.6 |
-| 3-Hit | 68.98% | 59 | 178.8 |
-| 4-Hit | 72.31% | 98 | 151.9 |
-| 5-Hit | 90.22% | 152 | 133.5 |
+| 1-Hit | 53.4% | 12 | 267%/s |
+| 2-Hit | 53.4% | 30 | 213.6%/s |
+| 3-Hit | 68.98% | 59 | 178.8%/s |
+| 4-Hit | 72.31% | 98 | 151.9%/s |
+| 5-Hit | 90.22% | 152 | 133.5%/s |
 
 **Charged Attack**  
 Albedo consumes 20 stamina to unleash 2 rapid sword strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 209.65% | 54 | 232.9 |
+| N1C | 209.65% | 54 | 232.9%/s |
 
 Enemies struck by Albedo's charged attack will be launched.
 
@@ -67,10 +67,10 @@ When a character is located on the Solar Isotoma, the Solar Isotoma will form a 
 | Talent 6% | 182.56% | 184.04% DEF |
 | Cooldown | 4s |  |
 | Duration | 30s |  |
-| GU | 1A | 1U |
+| GU | 1U | 1U |
 | Particles | 0 | 0~1 \(1:2\) |
 | Frames | 32 | 0 |
-| Motion Value | 342.3 | 93.52 |
+| Motion Value | 342.3%/s | 93.52%/s |
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 {% endtab %}
@@ -86,7 +86,7 @@ Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of
 | Energy Cost | 40 |
 | Cast GU | 1U |
 | Fatal Blossom GU | 1U |
-| Frames | 96 |
+| Cast Frames | 96 |
 
 * Tectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
