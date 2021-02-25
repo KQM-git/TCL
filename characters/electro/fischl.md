@@ -181,7 +181,7 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
   <tbody>
     <tr>
       <td style="text-align:left">Gaze of the Deep</td>
-      <td style="text-align:left">20%</td>
+      <td style="text-align:left">22%</td>
       <td style="text-align:left">Normal Attack</td>
     </tr>
   </tbody>
