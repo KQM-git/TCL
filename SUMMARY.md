@@ -56,6 +56,7 @@
   * [Elemental Reactions](mechanics/combat/elemental-reactions/README.md)
     * [Elemental Gauge Theory](mechanics/combat/elemental-reactions/elemental-gauge-theory.md)
   * [Shields](mechanics/combat/shields.md)
+  * [Enemy Shields](mechanics/combat/enemy-shields.md)
   * [Field Buffs](mechanics/combat/field-buffs.md)
   * [Gameplay Mechanics](mechanics/combat/gameplay-mechanics.md)
   * [Damage Formula](mechanics/combat/damage-formula.md)
