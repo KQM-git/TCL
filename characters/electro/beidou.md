@@ -142,7 +142,7 @@ Counterattacking with Tidecaller at the precise moment when the character is hit
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
+| Full Counter | 618% | 7.5s | 2B | 4 |  |  |
 {% endtab %}
 
 {% tab title="Ascension 4" %}
