@@ -149,7 +149,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Infusion Scroll**  Triggering an Elemental reaction grants a **8/10/12/14/16**% Elemental DMG Bonus for 10s. Max 2 stacks. |
+| Passive | **Infusion Scroll**   Triggering an Elemental reaction grants a **8/10/12/14/16**% Elemental DMG Bonus for 10s. Max 2 stacks. |
 | Base ATK | 44 - 565 |
 | Secondary Stat Type | ATK% |
 | Secondary Stat | 24 - 110 |
@@ -167,7 +167,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Debut**  When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. _Recitative_: ATK is increased by **60/75/90/105/120**%. _Aria_: Increases all Elemental DMG by **48/60/72/84/96**%. _Interlude_: Elemental Mastery is increased by **240/300/360/420/480**. |
+| Passive | **Debut**   When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. _Recitative_: ATK is increased by **60/75/90/105/120**%. _Aria_: Increases all Elemental DMG by **48/60/72/84/96**%. _Interlude_: Elemental Mastery is increased by **240/300/360/420/480**. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | CRIT DMG% |
 | Secondary Stat | 12% - 55.1% |
@@ -176,7 +176,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Frost Burial**  Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
+| Passive | **Frost Burial**   Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | ATK% |
 | Secondary Stat | 9% - 41.3% |
@@ -185,7 +185,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Gilding**  Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
+| Passive | **Gilding**   Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | HP% |
 | Secondary Stat | 9% - 41.3% |
@@ -194,7 +194,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Windfall**  CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12/10.5/9/7.5/6**s. |
+| Passive | **Windfall**   CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12/10.5/9/7.5/6**s. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | ER% |
 | Secondary Stat | 10% - 45.9% |
@@ -203,7 +203,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Press the Advantage**  After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
+| Passive | **Press the Advantage**   After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | CRIT DMG% |
 | Secondary Stat | 12% - 55.1% |
@@ -212,7 +212,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Echo**  Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **240/270/300/330/360**% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **12/11/10/9/8**s. |
+| Passive | **Echo**   Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **240/270/300/330/360**% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **12/11/10/9/8**s. |
 | Base ATK | 41 - 454 |
 | Secondary Stat Type | ATK% |
 | Secondary Stat | 12% - 55.1% |
@@ -221,7 +221,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Composed**  After dealing damage to an opponent with an Elemental Skill, the skill has a **40/50/60/70/80**% chance to end its own CD. Can only occur once every **30/26/22/19/16**s. |
+| Passive | **Composed**   After dealing damage to an opponent with an Elemental Skill, the skill has a **40/50/60/70/80**% chance to end its own CD. Can only occur once every **30/26/22/19/16**s. |
 | Base ATK | 41 - 454 |
 | Secondary Stat Type | EM |
 | Secondary Stat | 48 - 221 |
@@ -232,7 +232,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Passive | **Legacy**  When switching characters, the new character taking the field has their ATK increased by **24/30/36/42/48**% for 10s. This effect can only occur once every 20s. |
+| Passive | **Legacy**   When switching characters, the new character taking the field has their ATK increased by **24/30/36/42/48**% for 10s. This effect can only occur once every 20s. |
 | Base ATK | 39 - 401 |
 | Secondary Stat Type | HP% |
 | Secondary Stat | 7.7% - 35.2% |
