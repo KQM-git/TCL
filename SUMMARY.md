@@ -123,6 +123,7 @@
     * [Combat](evidence/mechanics/combat/README.md)
       * [Elemental Reactions](evidence/mechanics/combat/elemental-reactions/README.md)
         * [Elemental Gauge Theory](evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md)
+        * [Internal Cooldown of Elemental Application](evidence/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md)
       * [Shields](evidence/mechanics/combat/shields.md)
       * [Field Buffs](evidence/mechanics/combat/field-buffs.md)
       * [Gameplay Mechanics](evidence/mechanics/combat/gameplay-mechanics.md)
