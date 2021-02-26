@@ -237,3 +237,22 @@
 | Secondary Stat Type | HP% |
 | Secondary Stat | 7.7% - 35.2% |
 
+## Catalyst Comparison
+
+![](../../../.gitbook/assets/maygi-catalyst-comparison.png)
+
+* Low Stat = 10 substat lines
+* Med Stat = 20 substat lines
+* High Stat = 30 substat lines
+
+This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](../../../evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons)
+ in the Evidence Vault
+
+## External Links
+
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/catalyst/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Catalysts)
+
+**Evidence Vault**:
+
+{% page-ref page="../../../evidence/mechanics/equipment/weapons/catalysts.md" %}
