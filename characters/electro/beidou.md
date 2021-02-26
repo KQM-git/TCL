@@ -12,6 +12,18 @@ For a comprehensive Beidou guide, check out [ZΛNTO's guide.](https://docs.googl
 
 ![](../../.gitbook/assets/beidou.png)
 
+## **Base Stats**
+|Lv |Base HP|Base ATK|Base DEF|Electro DMG%|
+|---|-------|--------|--------|------------|
+|60 |8597   |148     |427     |12          |
+|60+|9178   |158     |456     |12          |
+|70 |10081  |174     |501     |12          |
+|70+|10662  |184     |530     |18          |
+|80 |11565  |200     |575     |18          |
+|80+|12146  |210     |603     |24          |
+|90 |13050  |225     |648     |24          |
+
+
 ## **Attacks**
 
 {% tabs %}
