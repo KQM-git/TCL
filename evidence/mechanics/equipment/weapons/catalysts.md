@@ -12,7 +12,7 @@ For bolide or memory of dust purposes, Xingqiu Q/E are not shields. Beidou C1 an
 
 **Evidence**:
 
-[https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
+[https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
 
 **Significance**
 
@@ -34,7 +34,7 @@ Stacks will also continue to build outside of combat as long as the character re
 
 Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into combat with a single left click, left combat, observed stacks continuing to build up, observed a 4 stack DMG bonus that remained indefinitely \(tested 5+ minutes afk\) until I switched off.
 
-[https://youtu.be/W-ljqhTulD0](https://youtu.be/W-ljqhTulD0)
+[https://youtu.be/W-ljqhTulD0 ](https://youtu.be/W-ljqhTulD0)
 
 **Significance**:
 
@@ -50,7 +50,7 @@ Catalyst effective attack comparisons - see spreadsheet below.
 
 **Evidence**
 
-[https://imgur.com/a/TpQsJqS ](https://imgur.com/a/TpQsJqS%20)
+[https://imgur.com/a/TpQsJqS ](https://imgur.com/a/TpQsJqS%20)
 
 **Methodology**
 
@@ -61,12 +61,4 @@ The spreadsheet has three main columns - for low, medium, and high stats. Each o
 **Significance**
 
 Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
-
-
-
-
-
-
-
-
 
