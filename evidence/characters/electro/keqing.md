@@ -1,6 +1,6 @@
 # Keqing
 
-### Frame by Frame Analysis of Keqing's Attack Combos
+## Frame by Frame Analysis of Keqing's Attack Combos
 
 By: HailCorporate\#2970
 
@@ -20,35 +20,37 @@ A1C -&gt; A5 WITH Directional Input = 59 Frames before A5 Started
 
 Damage Values based on Talent Level 7 Yunlai Swordsmanship
 
-Attack    Frames    Damage\(%\)
+Attack Frames Damage\(%\)
 
-A1        13        64.9
+A1 13 64.9
 
-A2        15        64.9
+A2 15 64.9
 
-A3        26        86.1
+A3 26 86.1
 
-A4        33        104.2
+A4 33 104.2
 
-A5        63        106
+A5 63 106
 
- C        46        257
+C 46 257
 
-Combo    Frames    Damage/Frame
+Combo Frames Damage/Frame
 
-A1C       59       5.456
+A1C 59 5.456
 
-A2C       74       5.227
+A2C 74 5.227
 
-A3C      100       4.729
+A3C 100 4.729
 
-A4C      133       4.339
+A4C 133 4.339
 
- 5A      150       2.841
+5A 150 2.841
 
 Resources:
 
-    A5 [https://youtu.be/4dzdrxfiOIQ](https://youtu.be/4dzdrxfiOIQ)
+```text
+A5 [https://youtu.be/4dzdrxfiOIQ](https://youtu.be/4dzdrxfiOIQ)
+```
 
 A1C A5 [https://youtu.be/eEVagGjS4Gw](https://youtu.be/eEVagGjS4Gw)
 
@@ -135,9 +137,7 @@ Editor’s Significance
   * As you can see, even when C1 extra damage instances to Stellar Restoration Blink is accounted for, the MV/s is similar to 4N1C and actually worse if you only get 1 out of 2 instances \(this happens quite often due to bugged hitboxes\).
   * E motion values do not scale well even with C1. Leave it at level 6
 
-
-
-### Keqing C1’s Double Damage \(Inconsistent\)
+## Keqing C1’s Double Damage \(Inconsistent\)
 
 By: Cola\#6861, ZΛNTO\#4984, Ryser\#6516
 
@@ -149,7 +149,7 @@ Her C1 works by you triggering her blink skill \(pressing E a second time to act
 
 In the [video](https://www.youtube.com/watch?v=PSAN5E4_ft4&feature=youtu.be) was a demonstration on if the C1 damage can proc twice since you're blinking basically in the same spot to a close by enemy.
 
-Only three numbers popped up: from the stilleto \(E1\), the blink damage \(C1\) and the AoE slash attack \(E2\).  
+Only three numbers popped up: from the stilleto \(E1\), the blink damage \(C1\) and the AoE slash attack \(E2\).
 
 Therefore, we can conclude that her C1 can only damage an opponent once, and not twice. This wasn't explained to us in the description of the constellation and it's easy to mistake that you can deal double the damage if you blinked in the same spot.
 
@@ -167,7 +167,7 @@ Testing:
 
 Due to hitboxes, tests were conducted on both Bosses and Mobs. Delayed E2 tests were done to ensure the E1 damage was not being confused with C1 damage. Even with instant recasting of E2, 4 damage numbers are shown as expected, working on small mobs as well.
 
-Evidence: [https://imgur.com/a/4OUutUU](https://imgur.com/a/4OUutUU) 
+Evidence: [https://imgur.com/a/4OUutUU](https://imgur.com/a/4OUutUU)
 
 Significance: In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
 
@@ -175,5 +175,5 @@ Rhyser’s Findings
 
 Confirms ZANTO’s Findings
 
-[https://youtu.be/gCb-AMa5cdA](https://youtu.be/gCb-AMa5cdA) 
+[https://youtu.be/gCb-AMa5cdA](https://youtu.be/gCb-AMa5cdA)
 

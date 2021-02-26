@@ -12,16 +12,15 @@ description: >-
 
 ## **Base Stats**
 
-|Lv |Base HP|Base ATK|Base DEF|ATK% |
-|---|-------|--------|--------|-----|
-|60 |6735   |133     |499     |12   |
-|60+|7190   |142     |533     |12   |
-|70 |7897   |156     |585     |12   |
-|70+|8352   |165     |619     |18   |
-|80 |9060   |179     |671     |18   |
-|80+|9514   |188     |705     |24   |
-|90 |10222  |202     |758     |24   |
-
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6735 | 133 | 499 | 12 |
+| 60+ | 7190 | 142 | 533 | 12 |
+| 70 | 7897 | 156 | 585 | 12 |
+| 70+ | 8352 | 165 | 619 | 18 |
+| 80 | 9060 | 179 | 671 | 18 |
+| 80+ | 9514 | 188 | 705 | 24 |
+| 90 | 10222 | 202 | 758 | 24 |
 
 ## **Attacks**
 
@@ -94,7 +93,7 @@ Initiate **Rainbow Bladework** and create the maximum number of **Rain Swords.**
 | GU | 1A |
 
 * Raincutter's damage calculation is **Dynamic**.
-  * The active character on field while Raincutter ****is active must be inside a field buff to receive the buffs.
+  * The active character on field while Raincutter _\*\*_is active must be inside a field buff to receive the buffs.
 * Each wave of Sword Rain Attack applies Hydro once, regardless of how many swords are in that wave.
 {% endtab %}
 {% endtabs %}
