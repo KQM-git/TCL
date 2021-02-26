@@ -239,14 +239,13 @@
 
 ## Catalyst Comparison
 
-![](../../../.gitbook/assets/maygi-catalyst-comparison.png)
+![](../../../.gitbook/assets/maygi_catalyst_comparison.png)
 
 * Low Stat = 10 substat lines
 * Med Stat = 20 substat lines
 * High Stat = 30 substat lines
 
-This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](../../../evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons)
- in the Evidence Vault
+This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](../../../evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons) in the Evidence Vault
 
 ## External Links
 
@@ -256,3 +255,4 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons/catalysts.md" %}
+
