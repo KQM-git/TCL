@@ -8,6 +8,18 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 ![](../../.gitbook/assets/ningguang.png)
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Geo DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6448 | 140 | 378 | 12 |
+| 60+ | 6884 | 149 | 403 | 12 |
+| 70 | 7561 | 164 | 443 | 12 |
+| 70+ | 7996 | 174 | 468 | 18 |
+| 80 | 8674 | 188 | 508 | 18 |
+| 80+ | 9110 | 198 | 534 | 24 |
+| 90 | 9787 | 212 | 573 | 24 |
+
 ### **Attacks**
 
 {% tabs %}

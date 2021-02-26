@@ -6,6 +6,20 @@ description: >-
 
 # Jean
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Healing Bonus% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 9533 | 155 | 499 | 11.10 |
+| 60+ | 10230 | 166 | 535 | 11.10 |
+| 70 | 11243 | 183 | 588 | 11.10 |
+| 70+ | 11940 | 194 | 624 | 16.60 |
+| 80 | 12965 | 211 | 678 | 16.60 |
+| 80+ | 13662 | 222 | 715 | 22.20 |
+| 90 | 14695 | 239 | 769 | 22.20 |
+
+## **Attacks**
+
 {% tabs %}
 {% tab title="Normal Attack: Favonius Bladework" %}
 Performs up to 5 consecutive attacks.

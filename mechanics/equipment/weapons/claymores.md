@@ -1,6 +1,6 @@
 # Claymores
 
-##  Rainslasher
+## Rainslasher
 
 {% tabs %}
 {% tab title="Description" %}
@@ -35,7 +35,7 @@
   </tbody>
 </table>
 
-"Rainslasher is Beidou's best in slot weapon at all levels and all situations."  -ZΛNTO
+"Rainslasher is Beidou's best in slot weapon at all levels and all situations." -ZΛNTO
 {% endtab %}
 {% endtabs %}
 

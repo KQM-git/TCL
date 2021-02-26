@@ -10,6 +10,20 @@ description: >-
 
 ![](../../.gitbook/assets/traveler-geo-.png)
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 7164 | 140 | 450 | 12 |
+| 60+ | 7648 | 149 | 480 | 12 |
+| 70 | 8401 | 164 | 527 | 12 |
+| 70+ | 8885 | 174 | 558 | 18 |
+| 80 | 9638 | 188 | 605 | 18 |
+| 80+ | 10122 | 198 | 635 | 24 |
+| 90 | 10875 | 212 | 683 | 24 |
+
+## **Attacks**
+
 {% tabs %}
 {% tab title="Foreign Rockblade" %}
 Attacks Perform up to 5 rapid strikes.

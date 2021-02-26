@@ -15,6 +15,18 @@ Boesik\#3192 has a [comprehensive guide](https://docs.google.com/document/d/1pXl
 
 ![](../../.gitbook/assets/mona.png)
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6752 | 186 | 424 | 16 |
+| 60+ | 7246 | 200 | 455 | 16 |
+| 70 | 7964 | 220 | 500 | 16 |
+| 70+ | 8458 | 233 | 531 | 24 |
+| 80 | 9184 | 253 | 576 | 24 |
+| 80+ | 9677 | 267 | 607 | 32 |
+| 90 | 10409 | 287 | 653 | 32 |
+
 ## **Attacks**
 
 {% tabs %}

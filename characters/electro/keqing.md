@@ -11,6 +11,18 @@ description: >-
 
 ![](../../.gitbook/assets/keqing.png)
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8500 | 209 | 519 | 69.20 |
+| 60+ | 9121 | 225 | 556 | 69.20 |
+| 70 | 10025 | 247 | 612 | 69.20 |
+| 70+ | 10647 | 262 | 649 | 78.80 |
+| 80 | 11561 | 285 | 705 | 78.80 |
+| 80+ | 12182 | 300 | 743 | 88.40 |
+| 90 | 13103 | 323 | 799 | 88.40 |
+
 ## **Attacks**
 
 {% tabs %}
@@ -56,7 +68,7 @@ Keqing adjusts the direction that the **Lightning Stiletto** will be thrown and 
 * Stiletto Mark can be left suspended in the air.
 
 **Lightning Stiletto \(recast\)**  
-When Keqing uses Stellar Restoration while the **Stiletto Mark** is on field, Keqing will blink to the location of the **Mark** and unleashes one slashing attack that deals AoE Electro DMG. 
+When Keqing uses Stellar Restoration while the **Stiletto Mark** is on field, Keqing will blink to the location of the **Mark** and unleashes one slashing attack that deals AoE Electro DMG.
 
 * When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
 
@@ -64,7 +76,7 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 
 | Type | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Lightning Stiletto  | 70.56% | 34 | 124.5%/s |
+| Lightning Stiletto | 70.56% | 34 | 124.5%/s |
 | Slashing Attack | 235.2% | 84 | 219%/s |
 | Thunderclap Slash | 117.6% + 117.6% | 90 | 401.9%/s |
 | CD | 7.5s |  |  |

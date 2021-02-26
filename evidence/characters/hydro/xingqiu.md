@@ -46,7 +46,7 @@ By: Zeitraffer\#1074
 
 **Finding:**
 
-_\*\*_How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
+\_\*\*\_How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
 
 **Evidence:** [https://www.youtube.com/watch?v=-03MNwss9UI](https://www.youtube.com/watch?v=-03MNwss9UI)
 

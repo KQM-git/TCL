@@ -8,11 +8,23 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 10089 | 69 | 568 | 69.20 |
+| 60+ | 10826 | 74 | 610 | 69.20 |
+| 70 | 11899 | 81 | 670 | 69.20 |
+| 70+ | 12637 | 86 | 712 | 78.80 |
+| 80 | 13721 | 94 | 773 | 78.80 |
+| 80+ | 14459 | 99 | 815 | 88.40 |
+| 90 | 15552 | 106 | 876 | 88.40 |
+
 ## **Attacks**
 
 {% tabs %}
 {% tab title="Secret Spear of Wangsheng" %}
-**Normal Attacks**   
+**Normal Attacks**  
 Hu Tao performs up to 6 consecutive spear strikes.
 
 | String | Talent 6% | Frames | Motion Value |
@@ -24,7 +36,7 @@ Hu Tao performs up to 6 consecutive spear strikes.
 | 5-Hit | 45.75% + 48.40% |  |  |
 | 6-Hit | 118.19% |  |  |
 
-**Charged Attack**   
+**Charged Attack**  
 Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
 | String | Talent 6% | Frames | Motion Value |
@@ -48,7 +60,7 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
-**Press**   
+**Press**  
 Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the **Paramita Papilio** state.
 
 **Paramita Papilio**
@@ -83,7 +95,7 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
-Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE. 
+Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 * Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. 
 * If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and the HP Regeneration are increased.
