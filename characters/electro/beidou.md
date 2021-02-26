@@ -215,7 +215,7 @@ Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics
 
 ### Rainslasher
 
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller.
+The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller. Even when **Thunderbeast's Targe** is snapshot, the Rainslasher bonus damage still applies.
 
 ### The Unforged
 
