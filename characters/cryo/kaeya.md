@@ -1,18 +1,18 @@
 ---
-description: >-
-  A thinker in the Knights of Favonius with a somewhat exotic appearance.
+description: A thinker in the Knights of Favonius with a somewhat exotic appearance.
 ---
 
 # Kaeya
 
 ## ![](../../.gitbook/assets/element_cryo.png) Kaeya
 
+![](../../.gitbook/assets/kaeya.png)
+
 ## **Attacks**
 
 {% tabs %}
 {% tab title="Ceremonial Bladework" %}
-**Normal Attacks**
-Kaeya performs up to 5 rapid strikes.
+**Normal Attacks** Kaeya performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -22,8 +22,7 @@ Kaeya performs up to 5 rapid strikes.
 | 4-Hit | 103% |  |  |
 | 5-Hit | 128.25% |  |  |
 
-**Charged Attack**
-Kaeya consumes 25 stamina to unleash 2 rapid strikes.
+**Charged Attack** Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -39,8 +38,7 @@ Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 {% endtab %}
 
 {% tab title="Frostgnaw" %}
-**Press**
-Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
+**Press** Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -106,7 +104,10 @@ The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by
 ### Never-Ending Performance
 {% endtab %}
 
+{% tab %}
 Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+{% endtab %}
+
 {% tab title="C3" %}
 ### Dance of Frost
 
@@ -136,3 +137,4 @@ Increases the level of **Glacial Waltz** by 3.
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/kaeya/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Kaeya)
+

@@ -10,7 +10,19 @@ For a comprehensive Beidou guide, check out [ZΛNTO's guide.](https://docs.googl
 
 ## ![](../../.gitbook/assets/element_electro.png) Beidou
 
+{% tabs %}
+{% tab title="Portrait" %}
 ![](../../.gitbook/assets/beidou.png)
+{% endtab %}
+
+{% tab title="Wish Art" %}
+![](../../.gitbook/assets/character_beidou_wish.png)
+{% endtab %}
+
+{% tab title="Birthday" %}
+![](../../.gitbook/assets/character_beidou_birthday_2021.webp)
+{% endtab %}
+{% endtabs %}
 
 ## **Base Stats**
 
