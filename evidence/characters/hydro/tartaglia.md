@@ -1,28 +1,28 @@
 # Tartaglia
 
-## **Skyward Harp Passive on Childe** 
+## **Skyward Harp Passive on Childe**
 
 By: Cola\#4314
 
 **Finding:**
 
-**Skyward Harp Passive** does not trigger if the wielder attacks do not damage the target - testing for Childe in melee stance. If the enemy receives 0 damage from the wielder of the skyward Harp passive, in this case, Childe, the skyward harp passive is not triggered. This same behavior can be observed on his charged shots as well. 
+**Skyward Harp Passive** does not trigger if the wielder attacks do not damage the target - testing for Childe in melee stance. If the enemy receives 0 damage from the wielder of the skyward Harp passive, in this case, Childe, the skyward harp passive is not triggered. This same behavior can be observed on his charged shots as well.
 
 * **Skyward Harp Passive:** On hit, has a 50% chance to deals 125% damage to enemies in a small AoE every 4s.
 
 **Evidence:**
 
-[**https://youtu.be/0wyrtjKU6GY**](https://youtu.be/0wyrtjKU6GY) ****
+[**https://youtu.be/0wyrtjKU6GY**](https://youtu.be/0wyrtjKU6GY) _\*\*_
 
 **Significance:**
 
-Refrain from attacking slimes in your melee form.  An obvious fact, but not obvious with Skyward Harp's passive not activating at all.
+Refrain from attacking slimes in your melee form. An obvious fact, but not obvious with Skyward Harp's passive not activating at all.
 
-## **Riptide Burst \(Enemy Kill\) can be triggered by other units** 
+## **Riptide Burst \(Enemy Kill\) can be triggered by other units**
 
 By:Cola\#4314
 
-**Finding:** 
+**Finding:**
 
 **Riptide Burst** \(Enemy Kill\) can be triggered by other units.
 
@@ -38,14 +38,14 @@ We expected it to behave such that the riptide effects can only be triggered by 
 
 Childe can provide additional damage even without C4 when he's off-field.
 
-## **Aimed Shot weak-point spam MV/s** 
+## **Aimed Shot weak-point spam MV/s**
 
 By: Zenkai\#9872
 
-**Finding:** 
+**Finding:**
 
-Accounting for weak-spot hits, theoretical MV/s of aimed shot spam is more competitive with melee stance Childe for single-target scenarios than generally thought.  
-  
+Accounting for weak-spot hits, theoretical MV/s of aimed shot spam is more competitive with melee stance Childe for single-target scenarios than generally thought.
+
 **Evidence:**
 
 * **General calculations performed:**
@@ -61,11 +61,11 @@ Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at leas
 
 **Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, **A**imed shot will also lose out with grouping effects like VH/Venti.
 
-## **Childe Stance Switch From Ranged to Melee** 
+## **Childe Stance Switch From Ranged to Melee**
 
 By: Bioautomaton\#5054
 
-**Finding:** 
+**Finding:**
 
 Childe's stance switch from ranged to melee triggers shatter on frozen targets and de-freezes enemies**.**
 
@@ -77,7 +77,7 @@ Childe's stance switch from ranged to melee triggers shatter on frozen targets a
 
 Potential interference in niche party combo situations.
 
-## **Chongyun C2 E field affects Childe’s melee stance cooldown** 
+## **Chongyun C2 E field affects Childe’s melee stance cooldown**
 
 By: ibvfteh\#6658  
 Added on 12/19/2020
@@ -88,29 +88,28 @@ Childe's Melee Stance cooldown is shortened by 15% if he's standing in Chongyun 
 
 **Evidence:**
 
-[https://youtu.be/didYpfSR4CY](https://youtu.be/didYpfSR4CY)   
+[https://youtu.be/didYpfSR4CY](https://youtu.be/didYpfSR4CY)  
 Shoutout to @Andelme
 
 **Significance:**
 
 No matter where Childe is entering his Melee Stance, if he's staying inside of Chongyun's field by the end of duration \(including manual turning it off\) his Cooldown is decreased by 15% \(from 45 sec to 38 in linked video\).
 
-## **RR Jump Plunge** 
+## **RR Jump Plunge**
 
 By: pantry\#6302  
-Original findings by /u/Kinggedorah12 on Reddit  
-  
+Original findings by /u/Kinggedorah12 on Reddit
+
 **Finding:**
 
-Childe can plunge attack out of an R cancel \(key sequence R, R, Space, LMB\), this will trigger a response from any AI that detect elevation changes \(ie. Ruin Hunters\).  
-  
+Childe can plunge attack out of an R cancel \(key sequence R, R, Space, LMB\), this will trigger a response from any AI that detect elevation changes \(ie. Ruin Hunters\).
+
 **Evidence:**
 
-[https://streamable.com/uzj8u3  
-  
-****](https://streamable.com/uzj8u3)**Significance:**  
+\[[https://streamable.com/uzj8u3](https://streamable.com/uzj8u3)
+
+**\*\*\]\(**[https://streamable.com/uzj8u3](https://streamable.com/uzj8u3)**\)**Significance:\*\*  
 Could be useful to make some domains easier by triggering certain mob reactions.
 
-**Editor’s Note \(Risuke\#6743\):** Can also be performed with Hold LMB, R , Space, LMB. By canceling out of Aimed shot, it seems to forcefully put Childe into a higher than normal standing idle position, giving Childe the extra height needed to be able to perform a plunge. It can also double as a dodging mechanic when aiming with charge shots.  
-
+**Editor’s Note \(Risuke\#6743\):** Can also be performed with Hold LMB, R , Space, LMB. By canceling out of Aimed shot, it seems to forcefully put Childe into a higher than normal standing idle position, giving Childe the extra height needed to be able to perform a plunge. It can also double as a dodging mechanic when aiming with charge shots.
 

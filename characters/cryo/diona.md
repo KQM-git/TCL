@@ -6,22 +6,21 @@ description: >-
 
 # Diona
 
-## ![](.gitbook/assets/element_cryo.png) Diona
+## ![](../../.gitbook/assets/element_cryo.png) Diona
 
-![](.gitbook/assets/diona.png)
+![](../../.gitbook/assets/diona.png)
 
 ## **Base Stats**
 
-|Lv |Base HP|Base ATK|Base DEF|Cryo DMG%|
-|---|-------|--------|--------|---------|
-|60 |6305   |140     |396     |12       |
-|60+|6731   |149     |422     |12       |
-|70 |7393   |164     |464     |12       |
-|70+|7818   |174     |491     |18       |
-|80 |8481   |188     |532     |18       |
-|80+|8907   |198     |559     |24       |
-|90 |9570   |212     |601     |24       |
-
+| Lv | Base HP | Base ATK | Base DEF | Cryo DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6305 | 140 | 396 | 12 |
+| 60+ | 6731 | 149 | 422 | 12 |
+| 70 | 7393 | 164 | 464 | 12 |
+| 70+ | 7818 | 174 | 491 | 18 |
+| 80 | 8481 | 188 | 532 | 18 |
+| 80+ | 8907 | 198 | 559 | 24 |
+| 90 | 9570 | 212 | 601 | 24 |
 
 ## **Attacks**
 
@@ -171,7 +170,7 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/diona/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
-* [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)\*\*\*\*
+* [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 

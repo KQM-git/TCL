@@ -6,9 +6,9 @@ description: >-
 
 # Qiqi
 
-## ![](.gitbook/assets/element_cryo.png) Qiqi
+## ![](../../.gitbook/assets/element_cryo.png) Qiqi
 
-![](.gitbook/assets/qiqi.png)
+![](../../.gitbook/assets/qiqi.png)
 
 ## Base Stats
 
@@ -160,7 +160,7 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/qiqi/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Qiqi)
-* [**Qiqi Mains Discord**](https://discord.gg/VjsGaVbWre)\*\*\*\*
+* [**Qiqi Mains Discord**](https://discord.gg/VjsGaVbWre)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 

@@ -6,22 +6,21 @@ description: >-
 
 # Chongyun
 
-## ![](.gitbook/assets/element_cryo.png) Chongyun
+## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
-![](.gitbook/assets/chongyun.png)
+![](../../.gitbook/assets/chongyun.png)
 
 ## **Base Stats**
 
-|Lv |Base HP|Base ATK|Base DEF|ATK%|
-|---|-------|--------|--------|----|
-|60 |7236   |147     |427     |12  |
-|60+|7725   |157     |456     |12  |
-|70 |8485   |172     |501     |12  |
-|70+|8974   |182     |530     |18  |
-|80 |9734   |198     |575     |18  |
-|80+|10223  |208     |603     |24  |
-|90 |10984  |223     |648     |24  |
-
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 7236 | 147 | 427 | 12 |
+| 60+ | 7725 | 157 | 456 | 12 |
+| 70 | 8485 | 172 | 501 | 12 |
+| 70+ | 8974 | 182 | 530 | 18 |
+| 80 | 9734 | 198 | 575 | 18 |
+| 80+ | 10223 | 208 | 603 | 24 |
+| 90 | 10984 | 223 | 648 | 24 |
 
 ## **Attacks**
 
@@ -158,7 +157,7 @@ Increases the level of Chonghua’s Layered Frost by 3.
 
 * [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/chongyun/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)\*\*\*\*[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)\*\*\*\*
+* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 

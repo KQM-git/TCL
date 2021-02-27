@@ -1,6 +1,6 @@
 # Chongyun
 
-## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)** 
+## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)**
 
 By: shdwbld\#8103
 
@@ -36,23 +36,23 @@ By: shdwbld\#8103
 
 ## **Chongyun C6 DMG bonus is Additive**
 
-By: ****Artesians\#0002
+By: _\*\*_Artesians\#0002
 
 **Findings:**
 
 C6 Chongyun’s “Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP” is an additive bonus.
 
-**Evidence:** 
+**Evidence:**
 
 * Video with the enemy not having a lower percentage of his Max HP than Chongyun:
   * [https://streamable.com/u9n1r4](https://streamable.com/u9n1r4) 
 * Video with the enemy having a lower percentage of his Max HP than Chongyun:
   * [https://streamable.com/7hec30](https://streamable.com/7hec30)
 
-\(1+0.15+0.223\)/\(1+0.223\) = 320/285 math by **Robin**   
+\(1+0.15+0.223\)/\(1+0.223\) = 320/285 math by **Robin**  
 Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
 
 **Significance:**
 
- ****+15% to Cryo Damage ****+ Noblesse - the bonus gained from constellation 6 is about ~7% \(ballpark estimate by Kleeful\) for a well built Chongyun. DMG bonus being additive implies that it would deal less damage than previously expected, where it was assumed to be a multiplicative bonus.
+**+15% to Cryo Damage** + Noblesse - the bonus gained from constellation 6 is about ~7% \(ballpark estimate by Kleeful\) for a well built Chongyun. DMG bonus being additive implies that it would deal less damage than previously expected, where it was assumed to be a multiplicative bonus.
 
