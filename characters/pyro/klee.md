@@ -117,7 +117,46 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 {% endtab %}
 {% endtabs %}
 
+## Constellations
 
+{% tabs %}
+{% tab title="C1" %}
+### Chained Reactions
+
+Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
+* This is affected by elemental burst DMG % like the noblesse set.
+{% endtab %}
+
+{% tab title="C2" %}
+### Explosive Frags
+
+Being hit by Jumpy Dumpty's mines decreases opponents' DEF by 23% for 10s.
+{% endtab %}
+
+{% tab title="C3" %}
+### Exquisite Compound
+
+Increases the level of Jumpy Dumpty Overload by 3.
+{% endtab %}
+
+{% tab title="C4" %}
+### Sparkly Explosion
+
+If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.
+{% endtab %}
+
+{% tab title="C5" %}
+### Nova Burst
+
+Increases the Level of Sparks 'n' Splash by 3.
+{% endtab %}
+
+{% tab title="C6" %}
+### Blazing Delight
+
+While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy. When Sparks 'n' Splash is used, all party members will gain a 10% Pyro DMG Bonus for 25s.
+{% endtab %}
+{% endtabs %}
 
 ## **External Links**
 
