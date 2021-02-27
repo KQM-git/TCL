@@ -1,24 +1,26 @@
 ---
 description: >-
-  The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.
+  The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated
+  beast, flows within her veins.
 ---
 
 # Ganyu
+
 ## ![](../../.gitbook/assets/element_cryo.png) Ganyu
 
 ![](../../.gitbook/assets/ganyu.png)
 
 ## **Base Stats**
 
-|Lv |Base HP|Base ATK|Base DEF|CRIT DMG|
-|---|-------|--------|--------|--------|
-|60 |6355   |217     |409     |69.20   |
-|60+|6820   |233     |439     |69.20   |
-|70 |7495   |256     |482     |69.20   |
-|70+|7960   |272     |512     |78.80   |
-|80 |8643   |295     |556     |78.80   |
-|80+|9108   |311     |586     |88.40   |
-|90 |9797   |335     |630     |88.40   |
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6355 | 217 | 409 | 69.20 |
+| 60+ | 6820 | 233 | 439 | 69.20 |
+| 70 | 7495 | 256 | 482 | 69.20 |
+| 70+ | 7960 | 272 | 512 | 78.80 |
+| 80 | 8643 | 295 | 556 | 78.80 |
+| 80+ | 9108 | 311 | 586 | 88.40 |
+| 90 | 9797 | 335 | 630 | 88.40 |
 
 ## **Attacks**
 
