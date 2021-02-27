@@ -1,6 +1,7 @@
 ---
 description: >-
-  An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.
+  An explosives expert and a regular at the Knights of Favonius' confinement
+  room. Also known as Fleeing Sunlight.
 ---
 
 # Klee
@@ -27,8 +28,8 @@ description: >-
 {% tab title="Kaboom!" %}
 **Normal Attacks**  
 Klee performs up to 3 explosive attacks dealing Pyro DMG.
-* Klees's normal and charged attacks have the blunt attribute allowing them to break shields like claymores.
 
+* Klees's normal and charged attacks have the blunt attribute allowing them to break shields like claymores.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -57,39 +58,34 @@ Consumes 50 stamina to deal AoE Pyro DMG.
 {% endtab %}
 
 {% tab title="Jumpy Dumpty" %}
-  
-Klee throws an explosive that bounces three times dealing AoE Pyro DMG.
-On the last bounce it splits into 8 mines that explode on contact or after the timer expires.
+Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the last bounce it splits into 8 mines that explode on contact or after the timer expires.
+
 * Each mine have their own icd on Pyro application.
 * Jean, Sucrose and Anemo MC can gather the mines with their vaccum effects, Venti cannot do this.
 
-
 | Type | Talent 6% | Cooldown | GU |
-| :--- | :--- | :--- | :--- | 
+| :--- | :--- | :--- | :--- |
 | Bounce DMG | 133.28% | 20s | 2B |
-| Mine DMG | 45.92% |  | 1A | 
+| Mine DMG | 45.92% |  | 1A |
 | Mine Duration | 15s |  |  |
 | Particles | 20s |  |  |
 | Cooldown | 20s |  |  |
-
 {% endtab %}
 
-{% tab title="Sparks 'n' Splash" %}
+{% tab title="Sparks \'n\' Splash" %}
+Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instances per wave for a total of 20 hits.
 
-Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instances per wave for a total of 20 hits. 
 * If klee leaves the field with this active no more damage will be dealt even if there is duration left.
 * This snapshots all temporary buffs when cast.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | DMG | 59.70% |
-| Hits| 20 |
+| Hits | 20 |
 | GU | 1A |
 | Duration | 10s |
 | Cooldown | 15s |
 | Energy Cost | 60 |
-
-
 {% endtab %}
 {% endtabs %}
 
@@ -99,13 +95,13 @@ Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instance
 {% tab title="Passive" %}
 ### All Of My Treasures!
 
-Displays the location of nearby resources unique to Mondstadt on the mini-map. 
+Displays the location of nearby resources unique to Mondstadt on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
 ### Pounding Surprise
 
-When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG. 
+When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -124,6 +120,7 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 ### Chained Reactions
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
+
 * This is affected by elemental burst DMG % like the noblesse set.
 {% endtab %}
 
