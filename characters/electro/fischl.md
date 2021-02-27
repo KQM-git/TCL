@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_electro.png) Fischl
 
-![](../../.gitbook/assets/fischl.png)
+![](../../.gitbook/assets/character_fischl_wish.png)
 
 ## **Base Stats**
 
