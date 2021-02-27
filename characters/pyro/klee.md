@@ -149,6 +149,7 @@ If Klee leaves the field during the duration of Sparks 'n' Splash, her departure
 ### Nova Burst
 
 Increases the Level of Sparks 'n' Splash by 3.
+{% endtab %}
 
 {% tab title="C6" %}
 ### Blazing Delight
