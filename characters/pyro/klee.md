@@ -60,22 +60,24 @@ Consumes 50 stamina to deal AoE Pyro DMG.
 {% tab title="Jumpy Dumpty" %}
 Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the last bounce it splits into 8 mines that explode on contact or after the timer expires.
 
-* Each mine have their own icd on Pyro application.
-* Jean, Sucrose and Anemo MC can gather the mines with their vaccum effects, Venti cannot do this.
+| Type | Talent 6% |
+| :--- | :--- |
+| Bounce DMG | 133.28% |
+| Mine DMG | 45.92% |
+| Mine Duration | 15s |
+| Particles | 20s |
+| Cooldown | 20s |
+| Bounce GU | 2B |
+| Mine GU | 1A |
 
-| Type | Talent 6% | Cooldown | GU |
-| :--- | :--- | :--- | :--- |
-| Bounce DMG | 133.28% | 20s | 2B |
-| Mine DMG | 45.92% |  | 1A |
-| Mine Duration | 15s |  |  |
-| Particles | 20s |  |  |
-| Cooldown | 20s |  |  |
+* Each mine has its own ICD on Pyro application.
+* Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 {% endtab %}
 
 {% tab title="Sparks \'n\' Splash" %}
 Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instances per wave for a total of 20 hits.
 
-* If klee leaves the field with this active no more damage will be dealt even if there is duration left.
+* If Klee leaves the field with this active no more damage will be dealt even if there is duration left.
 * This snapshots all temporary buffs when cast.
 
 | Effect | Talent 6% / Data |
@@ -102,6 +104,8 @@ Displays the location of nearby resources unique to Mondstadt on the mini-map.
 ### Pounding Surprise
 
 When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
+
+* Klee can only generate an Explosive Spark every 4 seconds.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -121,7 +125,7 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
 
-* This is affected by elemental burst DMG % like the noblesse set.
+* This is effected by Elemental Burst DMG% from Noblesse Oblige.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -140,6 +144,10 @@ Increases the level of Jumpy Dumpty Overload by 3.
 ### Sparkly Explosion
 
 If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.
+
+| Type | Value |
+| :--- | :--- |
+| GU | 2B  |
 {% endtab %}
 
 {% tab title="C5" %}
