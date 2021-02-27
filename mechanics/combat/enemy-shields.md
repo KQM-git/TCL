@@ -10,6 +10,8 @@ description: >-
 
 Currently there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.**
 
+{% page-ref page="elemental-reactions/" %}
+
 ## Elemental Shields
 
 **Elemental Shields** are shields that **NEED** to be taken down in order to deal direct damage to the enemy HP bar.
