@@ -220,7 +220,6 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 
 ### **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/tartaglia/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
 * [**Childe Mains Discord**](https://discord.gg/Childe)
 

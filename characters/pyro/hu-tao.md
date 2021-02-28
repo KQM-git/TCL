@@ -8,6 +8,8 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
 
+![](../../.gitbook/assets/hu-tao.png)
+
 ## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |

@@ -165,7 +165,6 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/klee/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Klee)
 * [**Klee Mains Discord**](https://discord.gg/NwYDDrfKZU)
 

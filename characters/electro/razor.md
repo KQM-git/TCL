@@ -167,7 +167,6 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/razor/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Razor)
 * [**Razor Mains Discord**](https://discord.gg/6qGZNQkWBX)
 

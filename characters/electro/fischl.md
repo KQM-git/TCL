@@ -267,7 +267,6 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/fischl/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
 * [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
 

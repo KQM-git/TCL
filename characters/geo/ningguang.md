@@ -150,7 +150,6 @@ When Starshatter is used, Ningguang gains 7 **Star Jades**.
 
 ### **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/bennett/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ningguang)
 * [**Ningguang Mains Discord**](https://discord.gg/qrjeEyejsd)
 

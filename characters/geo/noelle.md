@@ -186,7 +186,6 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/noelle/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Noelle)
 * [**Noelle Mains Discord**](https://discord.gg/kvft4TKFet)
 

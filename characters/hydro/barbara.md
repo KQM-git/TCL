@@ -158,7 +158,6 @@ When Barbara is in the party but not on the field, and one of your own party mem
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/barbara/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
 * [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)
 

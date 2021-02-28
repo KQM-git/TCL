@@ -155,7 +155,6 @@ Increases the level of Chonghua’s Layered Frost by 3.
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/chongyun/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
 * [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
 

@@ -158,7 +158,6 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/qiqi/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Qiqi)
 * [**Qiqi Mains Discord**](https://discord.gg/VjsGaVbWre)
 

@@ -168,7 +168,6 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/diona/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
 * [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)
 

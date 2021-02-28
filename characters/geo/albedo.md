@@ -172,7 +172,6 @@ If active party members within the AoE are protected by a shield created by Crys
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/albedo/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Albedo)
 * [**Albedo Mains Discord**](https://discord.gg/JKkam3umnn)
 

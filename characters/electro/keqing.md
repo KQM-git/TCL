@@ -186,7 +186,6 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/beidou/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
 * [**Beidou Mains Discord**](https://discord.gg/qrjeEyejsd)
 

@@ -166,7 +166,6 @@ Activating 2 of Guhua Sword: Raincutter’s Sword Rain attacks greatly increases
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/xingqiu/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xingqiu)
 * [**Xingqiu Mains Discord**](https://discord.gg/5MKsJyhkQv)
 

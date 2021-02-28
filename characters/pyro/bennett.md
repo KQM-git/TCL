@@ -177,7 +177,6 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/bennett/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
 * [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
 

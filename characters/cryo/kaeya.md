@@ -135,6 +135,5 @@ Increases the level of **Glacial Waltz** by 3.
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/kaeya/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Kaeya)
 
