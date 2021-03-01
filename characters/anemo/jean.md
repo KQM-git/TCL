@@ -1,10 +1,14 @@
 ---
 description: >-
-  The righteous and rigorous Dandelion Knight, and Acting Grand Master of
-  Mondstadt's Knights of Favonius.
+  The righteous and rigorous Dandelion Knight, and Acting Grand Master of the
+  Knights of Favonius of Mondstadt.
 ---
 
 # Jean
+
+## ![](../../.gitbook/assets/element_anemo.png) Jean
+
+![](../../.gitbook/assets/jean.png)
 
 ## **Base Stats**
 
@@ -21,62 +25,153 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Normal Attack: Favonius Bladework" %}
-Performs up to 5 consecutive attacks.
+{% tab title="Favonius Bladework" %}
+**Normal Attacks**  
+Jean performs up to 5 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 70.25% |  |  |
-| 2-Hit | 66.25% |  |  |
-| 3-Hit | 82.02% |  |  |
-| 4-Hit | 89.62% |  |  |
-| 5-Hit | 107.76% |  |  |
+| 1-Hit | 70.25% | 14 | 301%/s |
+| 2-Hit | 66.25% | 37 | 221.35%/s |
+| 3-Hit | 87.63% | 66 | 203.7%/s |
+| 4-Hit | 95.75% | 124 | 154.7%/s |
+| 5-Hit | 115.13% | 159 | 164.1%/s |
 
-Consumes 20 stamina to launch an opponent using the power of wind. Launched opponents will slowly fall to the ground.
+**Charged Attack**  
+Consumes 20 stamina to strike upwards and knocks up enemies that will then fall down slowly.
+
+* If Gale Blade (E) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 305.75 |  |  |
+| CA | 235.50% | 73 | 196.2%/s |
 
-Enemies launched by Jean's charged attack will stay in air. If Gale Blade \(E\) is held while looking down on floating enemies, they can take fall damage before being launched up again for a second instance of fall damage.
+**Plunge**
+
+| Damage Type | Talent 6% |
+| :--- | :--- |
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 232.09% |
 {% endtab %}
 
 {% tab title="Gale Blade" %}
-Jean lunges, launching opponents in the direction she aims at, dealing massive Anemo DMG.
+**Press** Jean quickly thrusts forward knocking light enemies away and dealing Anemo DMG.
 
-**Hold**  
-At the cost of 20 stamina per second, Jean can command the whirlwind to pull surrounding opponents and objects towards her front.
+* Enemies launched by Gale Blade can incur fall damage against the ground or walls.
+* Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
 
-| String | Talent 6% | Frames | Motion Value | Cooldown | GU | Particles |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E | 292% | 29 |  | 6s |  |  |
+**Hold** Creates a vaccum that lifts enemies and moves them towards the blade.
 
-Max hold duration is 5 seconds. Enemies launched by Gale Blade can incur fall damage against the ground or walls.
+* Costs 20 stamina per second to hold.
+* You cannot move Jean but you can move the camera to change where you are aiming with the blade.
+* Jean needs to be at least 20 levels below the enemy to be able to lift them.
+
+| Type | Talent 6% |  |
+| :--- | :--- | :--- |
+| Skill DMG | 408.80% | 20s |
+| Max duration | 5 |  |
+| Particles | 2~3 \(1:1\) |  |
+| GU |  |  |
+| Cooldown | 6s |  |
+| Cast frames | 23 |  |
 {% endtab %}
 
 {% tab title="Dandelion Breeze" %}
-Jean creates a swirling **Dandelion Field**, launching surrounding opponents and dealing Anemo DMG. At the same time, she instantly regenerates a large amount of HP for all party members.
+Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party instantly.
 
-**Dandelion Field**
-
-* Continuously regenerates HP of characters within the AoE and continuously imbues them with Anemo every X seconds.
-* Deals Anemo DMG to opponents entering or exiting the Dandelion Field.
+* Cast also knocks away light enemies.
+* The **Dandelion field** deals Anemo damage to enemies crossing the border of the field.
+* Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Burst DMG | 292% |
-| Field Exit DMG | 109.76% |
-| Burst Healing | 351.68% ATK + 2439 |
-| Field Healing | 35.17% ATK + 244 |
-| Frames |  |
-| Motion Value |  |
-| Cooldown | 20 |
-| Energy Cost | 80 |
+| Burst DMG | 594.72% |
+| Border DMG | 109.76% |
+| Burst Healing | ATK 351.68% + 2439 |
+| Continous Healing | ATK 35.17 + 244 |
 | GU |  |
+| Duration | 10s |
+| Cooldown | 20s |
+| Energy Cost | 80 |
+| Cast frames | 88 |
 {% endtab %}
 {% endtabs %}
 
-**Need: ascension talents, constellations, weapons, artifacts, maybe a general interaction table if not inside the skill table**
+## **Ascension Passives**
 
-**Tags:** [Stagger Value](https://library.keqingmains.com/characters/anemo/jean), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/elemental-gauge-theory)
+{% tabs %}
+{% tab title="Passive" %}
+### Guiding Breeze
+
+When a Perfect Cooking is achieved on a dish with restorative effects, Jean has a 12% chance to obtain double the product.
+{% endtab %}
+
+{% tab title="Ascension 2" %}
+### Wind Companion
+
+Hits by Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
+{% endtab %}
+
+{% tab title="Ascension 4" %}
+### Let the Wind Lead
+
+Using Dandelion Breeze will regenerate 20% of its Energy.
+{% endtab %}
+{% endtabs %}
+
+## Constellations
+
+{% tabs %}
+{% tab title="C1" %}
+### Spiraling Tempest
+
+Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.
+{% endtab %}
+
+{% tab title="C2" %}
+### People's Aegis
+
+When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
+
+* This buff stacks but exact details are not currently tested.
+{% endtab %}
+
+{% tab title="C3" %}
+### When the West Wind Arises
+
+Increases the level of Dandelion Breeze by 3.
+{% endtab %}
+
+{% tab title="C4" %}
+### Lands of Dandelion
+
+Within the Field created by Dandelion Breeze, all opponents have their Anemo RES decreased by 40%.
+{% endtab %}
+
+{% tab title="C5" %}
+### Outbursting Gust
+
+Increases the Level of Gale Blade by 3.
+{% endtab %}
+
+{% tab title="C6" %}
+### Lion's Fang, Fair Protector of Mondstadt
+
+Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.
+{% endtab %}
+{% endtabs %}
+
+## **External Links**
+
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/jean/)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
+* [**Jean Mains Discord**](https://discord.gg/WPX5hTnPfM)
+
+**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), Poise
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/anemo/jean.md" %}
+
 
