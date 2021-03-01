@@ -6,7 +6,7 @@ description: >-
 
 # Xiangling
 
-##  ![](../../.gitbook/assets/element_pyro.png) Xiangling
+## ![](../../.gitbook/assets/element_pyro.png) Xiangling
 
 ![](../../.gitbook/assets/xiangling.png)
 
@@ -27,9 +27,9 @@ description: >-
 {% tabs %}
 {% tab title="Dough-Fu" %}
 **Normal Attacks**  
-Xiangling performs up to five consecutive spear strikes 
+Xiangling performs up to five consecutive spear strikes
 
-| String | Talent 6% | Frames  | Motion Value |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 61.13% |  |  |
 | 2-Hit | 61.25% |  |  |
@@ -44,7 +44,7 @@ Xiangling consumes 20 stamina to lunge forward dealing damage to enemies along t
 | :--- | :--- | :--- | :--- |
 | N1C | 238.01% |  |  |
 
-**Plunge** 
+**Plunge**
 
 | **Damage Type** | Talent 6% |
 | :--- | :--- |
@@ -54,11 +54,11 @@ Xiangling consumes 20 stamina to lunge forward dealing damage to enemies along t
 {% endtab %}
 
 {% tab title="Guoba Attack" %}
-Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, dealing AoE **Pyro** DMG. **Guoba** fires for a total of 4 times. 
+Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, dealing AoE **Pyro** DMG. **Guoba** fires for a total of 4 times.
 
 | Effect | Talent 6% |
 | :--- | :--- |
-| Skill DMG | 155.79%  |
+| Skill DMG | 155.79% |
 | CD | 12s |
 | GU | 1A |
 | Particles | Up to 4 particles |
@@ -74,23 +74,17 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 | 3-Hit Swing DMG | 153.44% |
 | Pyronado DMG | 156.8% |
 | GU | 1A |
-| Duration  | 10s |
+| Duration | 10s |
 | Cooldown | 20s |
-| Energy Cost  | 80 |
+| Energy Cost | 80 |
+
+* Moving in the opposite direction of **Pyronado's** spin will increase the number of hits.
 {% endtab %}
 {% endtabs %}
 
-## Ascension Passives 
+## Ascension Passives
 
 {% tabs %}
-{% tab title="Ascension Stat" %}
-| Level | Elemental Mastery |
-| :--- | :--- |
-| 60+ | 48 |
-| 70+ | 72 |
-| 80+ | 96 |
-{% endtab %}
-
 {% tab title="Passive" %}
 When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
 {% endtab %}
@@ -100,11 +94,11 @@ Increase the flame range of **Guoba** by 20%
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-When **Guoba's** attack ends, **Guoba** leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases attack by 10% for 10 seconds. 
+When **Guoba's** attack ends, **Guoba** leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases attack by 10% for 10 seconds.
 {% endtab %}
 {% endtabs %}
 
-## Constellations 
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
@@ -116,11 +110,11 @@ Opponents hit by **Guoba's** attacks have their **Pyro RES** reduced by 15% for 
 {% tab title="C2" %}
 **Oil Meets Fire**
 
-The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE **Pyro** DMG. 
+The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE **Pyro** DMG.
 {% endtab %}
 
 {% tab title="C3" %}
-**Deepfry** 
+**Deepfry**
 
 Increase the level of **Pyronado** by 3.
 {% endtab %}
@@ -146,6 +140,5 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG B
 
 ## External links
 
-* [Honey Hunter](https://genshin.honeyhunterworld.com/db/char/xiangling/)
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiangling)
+* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xiangling)\*\*\*\*
 

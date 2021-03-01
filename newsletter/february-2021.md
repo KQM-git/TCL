@@ -15,6 +15,7 @@ Currently, the TCL offers pages for:
 | Chongyun | Complete | Complete |
 | Diona | Complete | Complete |
 | Fischl | Complete |  |
+| Jean | Complete | Complete |
 | Kaeya | Complete |  |
 | Klee | Complete | Complete |
 | Keqing | Complete |  |
@@ -25,6 +26,7 @@ Currently, the TCL offers pages for:
 | Razor | Complete |  |
 | Tartaglia | Complete | In Progress |
 | Traveler \(Geo\) | Complete | Incomplete |
+| Xiangling | Complete |  |
 | Xingqiu | In Progress | In Progress |
 | Zhongli | Complete | Complete |
 | Field Buffs | Complete | Complete |

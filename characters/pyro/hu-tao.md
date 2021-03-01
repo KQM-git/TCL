@@ -180,7 +180,6 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/hutao/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Hu_Tao)
 * [**Hu Tao Mains Discord**](https://discord.gg/hutaomains)
 
