@@ -127,7 +127,7 @@ _Total Poise Damage = Sum of Current Poise Damage - \(Time \* Poise Regen\)_
 
 ### Endurance Model
 
-Data for this table comes from 
+Data for this table comes from
 
 | Type | Example | Poise | Poise Recover \(per second\) | Vulnerability | Duration \(second\) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -154,6 +154,4 @@ Below are examples, if you want the whole gallery, use this [link](https://imgur
 [Example 3](https://imgur.com/YE8pwS4): Electro-Charged 2 hits \(1.25+1.25\) + Diluc Skill 1st Hit \(1.25\) &gt; Cryogunner Legionnaire generating shield \(3.5\)
 
 [Example 4](https://imgur.com/WmlwZSa): Diluc Skill 1st Hit \(1.25\) + Diluc Normal Attack 1 Hit \(1\) + Diluc Skill 2nd Hit \(1.25\) = Cryogunner Legionnaire generating shield \(3.5\)
-
-
 

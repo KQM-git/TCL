@@ -113,17 +113,13 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 ## **Credits**
 
-**Writer:** Neptunya\#8291
+**Writer:** Neptunya\#8291and \[Neko\]\#3521
 
 ## External Links
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Poise)
 
-
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/mechanics/combat/poise.md" %}
-
-
 
