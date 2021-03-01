@@ -85,7 +85,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 {% endtab %}
 
 {% tab title="Signature Mix" %}
-Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
+Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**.
 
 **Drunken Mist:**
 
