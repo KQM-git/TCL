@@ -40,7 +40,7 @@ Jean performs up to 5 consecutive attacks.
 **Charged Attack**  
 Consumes 20 stamina to strike upwards and knocks up enemies that will then fall down slowly.
 
-* If Gale Blade (E) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
+* If Gale Blade \(E\) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -56,12 +56,14 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 {% endtab %}
 
 {% tab title="Gale Blade" %}
-**Press** Jean quickly thrusts forward knocking light enemies away and dealing Anemo DMG.
+**Press**   
+Jean quickly thrusts forward knocking light enemies away and dealing Anemo DMG.
 
 * Enemies launched by Gale Blade can incur fall damage against the ground or walls.
 * Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
 
-**Hold** Creates a vaccum that lifts enemies and moves them towards the blade.
+**Hold**   
+Creates a vaccum that lifts enemies and moves them towards the blade.
 
 * Costs 20 stamina per second to hold.
 * You cannot move Jean but you can move the camera to change where you are aiming with the blade.
@@ -164,14 +166,10 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/jean/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
 * [**Jean Mains Discord**](https://discord.gg/WPX5hTnPfM)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), Poise
 
 **Evidence Vault:**
-
-{% page-ref page="../../evidence/characters/anemo/jean.md" %}
-
 

@@ -165,12 +165,11 @@ Increases the level of Guhua Sword: Fatal Rainscreen by 3.
 {% tab title="C6" %}
 ### **Hence, Call Them My Own Verses**
 
-Changes the sequence of number of Sword Rains attacks created in each of Guhua Sword: Raincutter's **Sword Rain** waves to 2-3-5. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents. 
+Changes the number of Sword Rain attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
 
 Energy regeneration is not affected by Energy Recharge.
 {% endtab %}
 {% endtabs %}
-
 
 ## **External Links**
 
