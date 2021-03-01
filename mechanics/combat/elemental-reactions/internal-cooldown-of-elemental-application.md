@@ -7,7 +7,7 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
   * Catalyst Normal Attacks and Charged Attacks are on different series.
   * Aimed Mode Charged Attacks have a different timer.
 * Normal Attacks between two characters use different counters.
-* The ICD timer is not paused when opening a menu, you can use this interaction to open a Wish menu or your Adventurer's Handbook menu to proc elemental reactions faster than intended.
+* The ICD timer is not paused when opening a menu \(you can use this interaction to open a Wish menu or your Adventurer's Handbook menu\) to proc elemental reactions faster than intended.
 
 **Evidence Vault:**
 
