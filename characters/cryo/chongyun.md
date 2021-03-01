@@ -61,23 +61,30 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 
 * Within the said field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
 
-| Effect | Talent 6% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 240.86% |  |  | 2B |
-| Infusion Duration | 2.5s |  |  | 1A |
-| Field Duration | 10s |  |  |  |
-| CD | 15s |  |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 240.86% |
+| Infusion Duration | 2.5s |
+| Field Duration | 10s |
+| Cooldown | 15s |
+| Particles | 3~4 \(1:1\) |
+| Cast GU | 2B |
+| Infused Attack GU | 1A |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
 Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 199.36% \* 3 |  |  |
-| CD | 12s |  |  |
-| Energy Cost | 40 |  |  |
-| GU | 1A per hit |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 199.36% \* 3 |
+| CD | 12s |
+| Energy Cost | 40 |
+| GU | 1A per hit |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 {% endtabs %}
 

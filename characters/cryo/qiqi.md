@@ -65,15 +65,17 @@ Qiqi brings forth the **Herald of Frost**, dealing Cryo DMG to surrounding oppon
 * Healing scales based on Qiqi’s ATK
 * Follows the character around, dealing Cryo DMG to opponents in their path.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 134.4% |  |  |
-| Regen on Hit | 14.78% ATK + 107 |  |  |
-| Continuous Regen | 97.44% ATK + 713 |  |  |
-| Herald DMG | 50.4% |  |  |
-| GU | 1A |  |  |
-| Duration | 15s |  |  |
-| CD | 30s |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 134.4% |
+| Regen on Hit | 14.78% ATK + 107 |
+| Continuous Regen | 97.44% ATK + 713 |
+| Herald DMG | 50.4% |
+| GU | 1A |
+| Duration | 15s |
+| CD | 30s |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
@@ -83,14 +85,16 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 
 * When opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 398.72% |  |  |
-| GU | 2B |  |  |
-| Healing | 126% ATK + 914 |  |  |
-| Duration | 15s |  |  |
-| CD | 20s |  |  |
-| Energy Cost | 80 |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 398.72% |
+| GU | 2B |
+| Healing | 126% ATK + 914 |
+| Duration | 15s |
+| CD | 20s |
+| Energy Cost | 80 |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 {% endtabs %}
 

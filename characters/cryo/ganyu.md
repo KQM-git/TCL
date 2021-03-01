@@ -25,27 +25,38 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Kätzlein Style" %}
+{% tab title="Liutian Archery" %}
 **Normal Attack**  
-Perform up to 5 consecutive shots with a bow.
+Ganyu performs up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 52.5% |  |  |
-| 2-Hit | 48.75% |  |  |
-| 3-Hit | 66.25% |  |  |
-| 4-Hit | 62.5% |  |  |
-| 5-Hit | 78.13% |  |  |
+| 1-hit | 46.13% | 18 | 153.77% |
+| 2-Hit | 51.75% | 43 | 136.58% |
+| 3-Hit | 66.13% | 73 | 134.80% |
+| 4-Hit | 66.13% | 117 | 118.02% |
+| 5-Hit | 70.13% | 153 | 117.75% |
+| 6-Hit | 83.75% | 190 | 121.27% |
 
 **Aimed Shot**  
-Perform a precise Aimed Shot with increased DMG.  
-A fully charged shot will deal Cryo DMG.
+Perform a precise Aimed Shot with increased DMG.
+
+* Charge Level 1: Fires off an arrow that deals Cryo DMG.
+* Charge Level 2: Ganyu fires a **Frostflake Arrow** that deals Cryo DMG. The Frostflake Arrow on impact will unleash a **Frostflake Bloom,** dealing AoE Cryo DMG.
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% |  |  |
-| Fully Charged | 173.6% |  |  |
-| GU | 1A |  |  |
+| Charge Level 1 | 173.6% | 94 | 110.80% |
+| Frostflake Arrow | 179.2% | 115 |  |
+| Frostflake Bloom | 304.64% | 115 | 252.44% |
+
+* **Frostflake Bloom** will scale with Charged Attack DMG bonuses.
+* Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
+* **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
+* Ganyu's Charged Attacks snapshot on release, including the bloom.
+* **Frostflake Bloom** will damage enemies that are frozen even if they have a shield.
+* Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -57,45 +68,50 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | High Plunge DMG | 206.3% |  |  |
 {% endtab %}
 
-{% tab title="Icy Paws" %}
-Fire **Icy Paws** that deal Cryo DMG to opponents and forms a shield on hit.  
-The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration scales off the number of **Icy Paws** that hit their target.
+{% tab title="Trail of the Qilin" %}
+Ganyu dashes backward, leaving an **Ice Lotus** behind and dealing AoE Cryo DMG.
 
-**Press**
+**Ice Lotus**
 
-* Rapidly fires off 2 **Icy Paws**.
+* Continuously taunts all enemies.
+  * This taunt applies to all enemies in the game that are not considered bosses.
+* The health of **Ice Lotus** scales based on Ganyu's max HP..
+* **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
 
-**Hold**
-
-* Dashes back quickly and before firing 5 **Icy Paws**.
-* The shield created by a Hold attack will gain a 75% DMG Absorption Bonus.
-* The shield has a 250% Cryo DMG Absorption bonus.
-* Applies a 1A Cryo Aura for a short duration upon formation and swap to a different active character.
-
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| DMG per Icy Paw | 58.69% |  |  |
-| Shield Scaling | 10.08% Max HP + 1097 |  |  |
-| Duration | 2.3s per Claw |  |  |
-| Press CD | 6s |  |  |
-| Hold CD | 15s |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Inherited HP | 168% max HP |
+| Skill DMG | 184.8% |
+| Duration | 6s |
+| Cooldown | 10s |
+| Cast Particles | 2 |
+| Expiration/Destroyed Particles | 2 |
+| GU | 1A |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 
-{% tab title="Signature Mix" %}
-Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
+{% tab title="Celestial Shower" %}
+Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards**, striking opponents within an AoE and dealing Cryo DMG.
 
-* Deals continuous Cryo DMG to opponents within the AoE.
-* Continuously regenerates HP of the characters within the AoE
+**Sacred Cryo Pearl**
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 112% |  |  |
-| Field DMG | 73.7% |  |  |
-| GU | 1A |  |  |
-| HP Regen | 7.47% Max HP + 813 |  |  |
-| Duration | 12s |  |  |
-| CD | 20s |  |  |
-| Energy Cost | 80 |  |  |
+* Celestial Shower drops **Ice Shards** every 0.3 seconds.
+* The **Sacred Cryo Pearl** will drop a shard ****on a random enemy within the field that has not been targeted by a shard in the last 4 **Ice Shards**.
+* If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
+* Ganyu's icicles are subject to [internal cooldown](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
+
+  
+****
+
+| Effect | Talent 6% |
+| :--- | :--- |
+| Ice Shard DMG | 98.38% |
+| Duration | 15s |
+| Cooldown | 15s |
+| Ice Shard GU | 1A |
+| Energy Cost | 60 |
+| Frames |  |
 {% endtab %}
 {% endtabs %}
 
@@ -103,21 +119,25 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 {% tabs %}
 {% tab title="Passive" %}
-## Complimentary Bar Food
+## Preserved for the Hunt
 
-When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+Refunds 15% of the ore used when crafting Bow-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## Cat’s Tail Secret Menu
+## Undivided Heart
 
-Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
+After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Arrows** and their resulting bloom effects is increased by 20% for 5s.
+
+* Undivided Heart will not apply to the first **Frostflake Bloom**, but will apply on consecutive shots.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Drunkards’ Farce
+## Harmony between Heaven and Earth
 
-Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
+Celestial Shower grants a 20% Cryo DMG Bonus to active party members in the AoE.
+
+* Celestial Shower's Cryo DMG bonus can apply to itself and be snapshot.
 {% endtab %}
 {% endtabs %}
 
@@ -125,50 +145,62 @@ Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 
 {% tabs %}
 {% tab title="C1" %}
-## A Lingering Flavor
+## Dew-Drinker
 
-Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
+Taking DMG from a Charge Level 2 **Frostflake Arrow** or **Frostflake Arrow Bloom** decreases opponents' Cryo RES by 15% for 6s.
+
+A hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 **Frostflake Arrow**, regardless if **Frostflake Arrow** itself or its **Bloom** hit the target.
+
+* Dew-Drinker's Cryo RES down will apply to the **Bloom** if the enemy is hit by the **Frostflake Arrow**.
 {% endtab %}
 
 {% tab title="C2" %}
-## Shaken, Not Purred
+## The Auspicious
 
-Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield’s DMG Absorption for 5s.
-
-* This DMG increase is **Additive**.
+Trail of the Qilin gains 1 additional charge.
 {% endtab %}
 
 {% tab title="C3" %}
-## A-Another Round?
+## Cloud-Strider
 
-Increases the Level of Signature Mix by 3.
+Increases the Level of Celestial Shower by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## Wine Industry Slayer
+## Westward Sojourn
 
-Within the radius of **Signature Mix**, Diona’s charge time for Aimed Shots is reduced by 60%
+Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time.
+
+Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.
+
+The effect lingers for 3s after the opponent leaves the AoE.
 {% endtab %}
 
 {% tab title="C5" %}
-## Double Shot, On The Rocks
+## The Merciful
 
-Increases the Level of Icy Paws by 3.
+Increases the Level of Trail of the Qilin by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Cat’s Tail Closing Time
+## The Clement
 
-Characters within **Signature Mix**’s radius will gain the following effects:
-
-* Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
-* Elemental Mastery Increased by 200 when HP is above 50%.
+Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.
 {% endtab %}
 {% endtabs %}
 
+## Weapons
+
+### Amos' Bow
+
+Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos' Bow**. The **Frostflake Bloom** will always have a travel time of 0.3s.
+
+### The Viridescent Hunt
+
+**The Viridescent Hunt** passive, **Verdant Wind**, can be activated by either the **Frostflake Arrow** or **Frostflake Bloom**.
+
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/ganyu/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ganyu)
 * [**Ganyu Mains Discord**](https://discord.gg/uV4uaBm8aS)
 

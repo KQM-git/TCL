@@ -72,30 +72,37 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 * The shield has a 250% Cryo DMG Absorption bonus.
 * Applies a 1A Cryo Aura for a short duration upon formation and swap to a different active character.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| DMG per Icy Paw | 58.69% |  |  |
-| Shield Scaling | 10.08% Max HP + 1097 |  |  |
-| Duration | 2.3s per Claw |  |  |
-| Press CD | 6s |  |  |
-| Hold CD | 15s |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| DMG per Icy Paw | 58.69% |
+| Shield Scaling | 10.08% Max HP + 1097 |
+| Duration | 2.3s per Claw |
+| Press Cooldown | 6s |
+| Hold Cooldown | 15s |
+| Particles | 1 per **Icy Paw** hit |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 
 {% tab title="Signature Mix" %}
 Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
 
+**Drunken Mist:**
+
 * Deals continuous Cryo DMG to opponents within the AoE.
 * Continuously regenerates HP of the characters within the AoE
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 112% |  |  |
-| Field DMG | 73.7% |  |  |
-| GU | 1A |  |  |
-| HP Regen | 7.47% Max HP + 813 |  |  |
-| Duration | 12s |  |  |
-| CD | 20s |  |  |
-| Energy Cost | 80 |  |  |
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 112% |
+| Field DMG | 73.7% |
+| GU | 1A |
+| HP Regen | 7.47% Max HP + 813 |
+| Duration | 12s |
+| CD | 20s |
+| Energy Cost | 80 |
+| Frames |  |
+| MV/s |  |
 {% endtab %}
 {% endtabs %}
 
