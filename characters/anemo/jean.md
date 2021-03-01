@@ -69,14 +69,14 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 * You cannot move Jean but you can move the camera to change where you are aiming with the blade.
 * Jean needs to be at least 20 levels below the enemy to be able to lift them.
 
-| Type | Talent 6% |  |
-| :--- | :--- | :--- |
-| Skill DMG | 408.80% | 20s |
-| Max duration | 5 |  |
-| Particles | 2~3 \(1:1\) |  |
-| GU |  |  |
-| Cooldown | 6s |  |
-| Cast frames | 23 |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 408.80% |
+| Max duration | 5s |
+| Particles | 2~3 \(1:1\) |
+| GU |  |
+| Cooldown | 6s |
+| Cast frames | 23 |
 {% endtab %}
 
 {% tab title="Dandelion Breeze" %}
