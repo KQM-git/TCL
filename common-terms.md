@@ -76,8 +76,6 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 
 * Transformative reactions deal damage based on the trigger character level and their EM, for more details go to General Reaction Mechanics
 
-  .
-
 **Trigger** = If a targetable entity has an existing aura, the next elemental source will act as a trigger for a reaction.
 
 **Unit Modifier** = A system of modifiers that apply to the triggers of reactions.
@@ -98,9 +96,23 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 
-**Stagger** = An animation that plays when a character’s poise is cut to 0, which interrupts their current action and displaces them some distance
-
 **Turbo** = When Oz triggers Overload or Superconduct with his Normal Attack, a particle is generated for each enemy hit by the reaction. For more details, [click here!](https://library.keqingmains.com/characters/electro/fischl#turbo)
+
+### Poise
+
+For more information see our page on [poise](mechanics/combat/poise.md).
+
+**Force** = Determines what level stagger will occur
+
+**Poise** = All units have a hidden poise bar which decreases when receiving attacks that deal "poise damage". When the poise bar is depleted to 0, the unit becomes "vulnerable".
+
+**Stagger** = An animation that occurs when a unit is vulnerable \(poise bar is 0\) and they receive an attack that may interrupt their current action and may displace them a certain distance.
+
+* There are 5 different levels of stagger, ranging from 0 to 4, that describe what stagger animation occurs
+
+**Vulnerable** = A status that occurs when a unit's poise bar is 0. The next attack received by a vulnerable unit may stagger them depending on the level of the stagger \(0 = nothing, 1-4 = stagger\)
+
+**Vulnerability** = A modifier that affects the amount of poise damage taken from an attack
 
 ## Combo Terms
 
