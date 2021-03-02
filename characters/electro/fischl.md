@@ -169,7 +169,85 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 {% endtabs %}
 
+##Constellations
 
+{% tabs %}
+{% tab title="C1" %}
+### Gaze of the Deep When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Talent 6%</th>
+      <th style="text-align:left">
+        <p>Damage</p>
+        <p>Type</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Gaze of the Deep</td>
+      <td style="text-align:left">22%</td>
+      <td style="text-align:left">Normal Attack</td>
+    </tr>
+  </tbody>
+</table>
+
+* This is an echo effect.
+{% endtab %}
+
+{% tab title="C2" %}
+### Devourer of All Sins
+
+When Nightrider is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
+
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 361.62% |
+{% endtab %}
+
+{% tab title="C3" %}
+### Wings of Nightmare
+
+Increases the level of Nightrider by 3.
+{% endtab %}
+
+{% tab title="C4" %}
+### Her Pilgrimage of Bleak
+
+When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
+
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 291.2% |
+| Her Pilgrimage of Bleak | 222% |
+{% endtab %}
+
+{% tab title="C5" %}
+### Against the Fleeing Light
+
+Increases the Level of Midnight Phantasmagoria by 3.
+{% endtab %}
+
+{% tab title="C6" %}
+### Evernight Raven
+
+Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
+
+| Type | Talent 6% | Attack Speed | GU | Particles | Damage Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal Attack | 124.32% | 1s | 1U | 0~1 \(2:3\) | Elemental Skill |
+| Joint Attack | 30% | No Limit | 1U | 0 | Elemental Skill |
+
+* The joint attack has an elemental application ICD of 2s.
+* The joint attack is an echo effect
+* **Oz** normal attacks for a total of 12 times over the duration.
+* **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-12. Thus, against a single target, hits 1, 5, 7, 11 apply electro to the target.
+* Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
+{% endtab %}
+{% endtabs %}
 
 ## Turbo
 
