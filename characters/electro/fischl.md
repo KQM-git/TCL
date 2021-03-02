@@ -140,13 +140,38 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
     </tr>
   </tbody>
 </table>
+
+ {% endtab %} {% tab title="Ascension 4" %} \#\#\# 
+
+ {% endtab %} {% endtabs %} \#\# Constellations {% tabs %} {% tab title="C1" %} \#\#\# Gaze of the Deep When \*\*Oz\*\* is not on the field, and Fischl performs a Normal Attack against an enemy, \*\*Oz\*\* fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Talent 6%</th>
+      <th style="text-align:left">
+        <p>Damage</p>
+        <p>Type</p>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Gaze of the Deep</td>
+      <td style="text-align:left">22%</td>
+      <td style="text-align:left">Normal Attack</td>
+    </tr>
+  </tbody>
+</table>
+
+* This is an echo effect.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Undone Be Thy Sinful Hex 
 
-(previously known as _Lightning Smite_) 
-
+\(previously known as _Lightning Smite_\)   
 When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
@@ -173,14 +198,11 @@ When your current active character triggers an Electro-related Elemental Reactio
 {% endtab %}
 {% endtabs %}
 
-
-
-
 ## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### Gaze of the Deep 
+## Gaze of the Deep 
 
 When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
@@ -257,6 +279,8 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
+
+## 
 
 ## Turbo
 
