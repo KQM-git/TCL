@@ -143,7 +143,9 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Undone Be Thy Sinful Hex (previously known as _Lightning Smite_) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+### Undone Be Thy Sinful Hex (previously known as _Lightning Smite_) 
+
+When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -167,7 +169,11 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
   </tbody>
 </table>
 {% endtab %}
+
 {% endtabs %}
+
+
+
 
 ## Constellations
 
