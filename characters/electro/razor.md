@@ -165,6 +165,78 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Steel Fang" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 131.89 | 141.70 | 151.51 | 161.32 | 171.13 | 180.94 |
+| 2-Hit DMG | 113.62 | 122.07 | 130.52 | 138.97 | 147.42 | 155.87 |
+| 3-hit DMG | 142.05 | 152.62 | 163.19 | 173.75 | 184.32 | 194.88 |
+| 4-hit DMG | 187.07 | 200.98 | 214.89 | 228.81 | 242.72 | 256.64 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 90.90 | 98.90 | 106.90 | 114.90 | 123.62 | 132.35 |
+| Charged Attack Final DMG | 164.38 | 178.84 | 193.31 | 207.77 | 223.55 | 239.33 |
+
+**Maximum Duration**: 5s
+
+**Stamina Cost**: 40
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 119.25 | 129.75 | 140.24 | 150.74 | 162.19 | 173.63 |
+| Low Plunge DMG | 238.46 | 259.44 | 280.43 | 301.41 | 324.30 | 347.19 |
+| High Plunge DMG | 297.85 | 324.06 | 350.27 | 376.48 | 405.07 | 433.66 |
+{% endtab %}
+
+{% tab title="Claw and Thunder" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press Skill DMG | 278.88 | 298.80 | 318.72 | 338.64 | 358.56 | 378.48 | 398.40 | 423.30 |
+| Hold Skill DMG | 413.28 | 442.80 | 472.32 | 501.84 | 531.36 | 560.88 | 590.40 | 627.30 |
+| Energy Recharge Bonus | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 |
+| Energy Regenerated | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Electro Sigil duration | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
+| Press CD | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| CD \(hold\) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+
+**Energy Recharge Bonus**: 20% per Sigil
+
+**Energy Regenerated**: 5 per Sigil Absorbed
+
+**Electro Sigil Duration**: 18s
+
+**Press Cooldown**: 6s
+
+**Hold Cooldown**: 10s
+{% endtab %}
+
+{% tab title="Lightning Fang" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Elemental Burst DMG | 224 | 240 | 256 | 272 | 288 | 304 | 320 | 340 |
+| Soul Companion DMG | 33.6 | 36 | 38.4 | 40.8 | 43.2 | 45.6 | 48 | 51 |
+| Normal ATK SPD Bonus | 36 | 37 | 38 | 39 | 40 | 40 | 40 | 40 |
+
+**Energy Cost**: 80
+
+**Electro Resistance Bonus**: 80%
+
+**Duration**: 15s
+
+**Cooldown**: 20s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Razor)
@@ -175,4 +247,3 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/razor.md" %}
-
