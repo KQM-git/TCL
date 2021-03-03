@@ -38,7 +38,7 @@ Xiangling performs up to five consecutive spear strikes
 | 5-Hit | 103.25% |  |  |
 
 **Charged Attack**  
-Xiangling consumes 20 stamina to lunge forward dealing damage to enemies along the way
+Xiangling consumes 25 stamina to lunge forward dealing damage to enemies along the way
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
