@@ -22,7 +22,7 @@ description: >-
 | 80+ | 12182 | 280 | 757 | 28.80 |
 | 90 | 13103 | 301 | 815 | 28.80 |
 
-### **Attacks**
+## **Attacks**
 
 {% tabs %}
 {% tab title="Cutting Torrent" %}
@@ -154,7 +154,7 @@ Performs a different attack depending on the stance in which it is cast.
 {% endtab %}
 {% endtabs %}
 
-### **Ascension Passives**
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -176,7 +176,7 @@ When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, on dealing a CRI
 {% endtab %}
 {% endtabs %}
 
-### Constellations
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
