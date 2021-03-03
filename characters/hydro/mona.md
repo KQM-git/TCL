@@ -199,6 +199,60 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Ripple of Fate" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 52.64 | 56.40 | 60.16 | 63.92 | 67.68 | 71.44 |
+| 2-Hit DMG | 50.40 | 54 | 57.60 | 61.20 | 64.80 | 68.40 |
+| 3-Hit DMG | 62.72 | 67.20 | 71.68 | 76.16 | 80.64 | 85.12 |
+| 4-Hit DMG | 78.62 | 84.24 | 89.86 | 95.47 | 101.09 | 106.70 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 209.61 | 224.58 | 239.55 | 254.52 | 269.50 | 285.07 |
+
+**Stamina Cost**: 50
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+{% endtab %}
+
+{% tab title="Mirror Reflection of Doom" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DoT | 44.80 | 48 | 51.20 | 54.40 | 57.60 | 60.80 | 64 | 68 |
+| Explosion DMG | 185.92 | 199.20 | 212.48 | 225.76 | 239.04 | 252.32 | 265.60 | 282.20 |
+
+**Cooldown**: 12s
+{% endtab %}
+
+{% tab title="Stellaris Phantasm" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Illusory Bubble Explosion DMG | 619.36 | 663.60 | 707.84 | 752.08 | 796.32 | 840.56 | 884.80 | 940.10 |
+| DMG Bonus | 52 | 54 | 56 | 58 | 60 | 60 | 60 | 60 |
+| Omen Duration | 4.5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+**Energy Cost**: 60
+
+**Illusory Bubble Duration**: 8s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Mona)
@@ -209,4 +263,3 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/mona.md" %}
-
