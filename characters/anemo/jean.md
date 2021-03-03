@@ -74,7 +74,7 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 | Skill DMG | 408.80% |
 | Max duration | 5s |
 | Particles | 2~3 \(1:1\) |
-| GU |  |
+| GU | 2U |
 | Cooldown | 6s |
 | Cast frames | 23 |
 {% endtab %}
@@ -92,7 +92,7 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 | Border DMG | 109.76% |
 | Burst Healing | ATK 351.68% + 2439 |
 | Continous Healing | ATK 35.17 + 244 |
-| GU |  |
+| GU | 2U |
 | Duration | 10s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
