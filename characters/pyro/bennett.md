@@ -175,6 +175,71 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Strike of Fortune" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 64.75 | 70.45 | 76.15 | 81.84 | 88.06 | 94.28 |
+| 2-Hit DMG | 62.13 | 67.59 | 73.06 | 78.53 | 84.49 | 90.45 |
+| 3-Hit DMG | 79.38 | 86.36 | 93.35 | 100.33 | 107.95 | 115.57 |
+| 4-Hit DMG | 86.75 | 94.38 | 102.02 | 109.65 | 117.98 | 126.31 |
+| 5-Hit DMG | 104.50 | 113.70 | 122.89 | 132.09 | 142.12 | 152.15 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
+| Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Passion Overload" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 192.64 | 206.40 | 220.16 | 233.92 | 247.68 | 261.44 | 275.20 | 292.40 |
+| Charge Level 1 Hit 1 DMG | 117.60 | 126 | 134.40 | 142.80 | 151.20 | 159.60 | 168 | 178.50 |
+| Charge Level 1 Hit 2 DMG | 128.80 | 138 | 147.20 | 156.40 | 165.60 | 174.80 | 184 | 195.50 |
+| Charge Level 2 Hit 1 DMG | 123.20 | 132 | 140.80 | 149.60 | 158.40 | 167.20 | 176 | 187 |
+| Charge Level 2 Hit 2 DMG | 134.40 | 144 | 153.60 | 163.20 | 172.80 | 182.40 | 192 | 204 |
+| Explosion DMG | 184.80 | 198 | 211.20 | 224.40 | 237.60 | 250.80 | 264 | 280.50 |
+
+**Press Cooldown**: 5s
+
+**Charge Level 1 Cooldown**: 7.5s
+
+**Charge Level 2 Cooldown**: 10s
+{% endtab %}
+
+{% tab title="Fantastic Voyage" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 325.92 | 349.20 | 372.48 | 395.76 | 419.04 | 442.32 | 465.60 | 494.70 |
+| Continuous Regeneration Per Second Scaling | 8.4 | 9 | 9.6 | 10.2 | 10.8 | 11.4 | 12 | 12.75 |
+| Continuous Regeneration Per Second | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
+| ATK Bonus Ratio | 78.40 | 84 | 89.60 | 95.20 | 100.80 | 106.40 | 112 | 119 |
+
+**Energy Cost**: 60
+
+**Duration**: 12s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
@@ -185,4 +250,3 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
-
