@@ -164,6 +164,8 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 {% endtab %}
 {% endtabs %}
 
+## **Full Talent Values**
+
 {% tabs %}
 {% tab title="Favonius Bladework" %}
 ### Normal Attacks
