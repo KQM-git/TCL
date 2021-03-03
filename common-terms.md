@@ -72,7 +72,7 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
-**Reverse \[\Melt/Vaporize\]** = A vaporize or melt reaction where the trigger gets a 1.5x modifier.
+**Reverse \[Melt/Vaporize\]** = A vaporize or melt reaction where the trigger gets a 1.5x modifier.
 
 * Is also referred to as Cryo Melt, Pyro Vaporize, Weak Melt/Vaporize
 
