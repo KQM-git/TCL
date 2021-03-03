@@ -72,6 +72,10 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
+**Reverse \[\Melt/Vaporize\]** = A vaporize or melt reaction where the trigger gets a 1.5x modifier.
+
+* Is also referred to as Cryo Melt, Pyro Vaporize, Weak Melt/Vaporize
+
 **Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
 
 **Transformative** = A category for reactions, which: Overload, Electrocharged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
@@ -152,8 +156,6 @@ Terms used to describe combos, they’re stitched together to describe the strin
 **C\[\#\]** = Constellation \[1, 2, 3, 4, 5, 6\]
 
 **CC** = Crowd Control
-
-**D** = Dash
 
 **DoT** = Damage over Time
 
