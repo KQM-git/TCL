@@ -20,7 +20,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 | 80+ | 9110 | 198 | 534 | 24 |
 | 90 | 9787 | 212 | 573 | 24 |
 
-### **Attacks**
+## **Attacks**
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
@@ -86,7 +86,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 {% endtab %}
 {% endtabs %}
 
-### **Ascension Passives**
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -108,7 +108,7 @@ A character that passes through the **Jade Screen** will gain a 12% Geo DMG Bonu
 {% endtab %}
 {% endtabs %}
 
-### Constellations
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
