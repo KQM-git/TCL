@@ -153,6 +153,8 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **CC** = Crowd Control
 
+**D** = Dash
+
 **DoT** = Damage over Time
 
 **DPS** = Damage per second
