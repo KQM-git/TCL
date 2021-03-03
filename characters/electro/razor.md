@@ -203,11 +203,6 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Press Skill DMG | 278.88 | 298.80 | 318.72 | 338.64 | 358.56 | 378.48 | 398.40 | 423.30 |
 | Hold Skill DMG | 413.28 | 442.80 | 472.32 | 501.84 | 531.36 | 560.88 | 590.40 | 627.30 |
-| Energy Recharge Bonus | 20 | 20 | 20 | 20 | 20 | 20 | 20 | 20 |
-| Energy Regenerated | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
-| Electro Sigil duration | 18 | 18 | 18 | 18 | 18 | 18 | 18 | 18 |
-| Press CD | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
-| CD \(hold\) | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
 
 **Energy Recharge Bonus**: 20% per Sigil
 
