@@ -184,14 +184,69 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Yunlai Swordsmanship" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 59.62 | 64.87 | 70.12 | 75.37 | 81.09 | 86.81 |
+| 2-Hit DMG | 59.62 | 64.87 | 70.12 | 75.37 | 81.09 | 86.81 |
+| 3-Hit DMG | 79.13 | 86.09 | 93.05 | 100.01 | 107.61 | 115.21 |
+| 4-Hit 1 DMG | 45.75 | 49.78 | 53.80 | 57.83 | 62.22 | 66.61 |
+| 4-Hit 2 DMG | 50 | 54.40 | 58.80 | 63.20 | 68 | 72.80 |
+| 5-Hit DMG | 97.38 | 105.94 | 114.51 | 123.08 | 132.43 | 141.78 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 111.63 | 121.45 | 131.27 | 141.09 | 151.81 | 162.53 |
+| Charged Attack 2 DMG | 125 | 136 | 147 | 158 | 170 | 182 |
+
+**Stamina Cost**: 25
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Stellar Restoration" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lightning Stiletto DMG | 70.56 | 75.60 | 80.64 | 85.68 | 90.72 | 95.76 | 100.80 | 107.10 |
+| Slashing DMG | 235.20 | 252 | 268.80 | 285.60 | 302.40 | 319.20 | 336 | 357 |
+| Thunderclap Slash DMG \(x2\) | 117.6 | 126 | 134.4 | 142.8 | 151.2 | 159.6 | 168 | 178.5 |
+
+**Cooldown**: 7.5s
+{% endtab %}
+
+{% tab title="Starward Sword" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 123.20 | 132 | 140.80 | 149.60 | 158.40 | 167.20 | 176 | 187 |
+| Consecutive Slash DMG \(x8\) | 33.6 | 36 | 38.4 | 40.8 | 43.2 | 45.6 | 48 | 51 |
+| Last Attack DMG | 264.32 | 283.20 | 302.08 | 320.96 | 339.84 | 358.72 | 377.60 | 401.20 |
+
+**Energy Cost**: 40
+
+**Cooldown**: 12s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
-* [**Beidou Mains Discord**](https://discord.gg/qrjeEyejsd)
+* [**Keqing Mains Discord**](https://discord.gg/Keqing)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/keqing.md" %}
-
