@@ -218,6 +218,103 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Cutting Torrent" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 60 | 65.28 | 70.56 | 75.84 | 81.60 | 87.36 |
+| 2-Hit DMG | 67.25 | 73.17 | 79.09 | 85 | 91.46 | 97.92 |
+| 3-Hit DMG | 80.50 | 87.58 | 94.67 | 101.75 | 109.48 | 117.21 |
+| 4-Hit DMG | 82.88 | 90.17 | 97.46 | 104.75 | 112.71 | 120.67 |
+| 5-Hit DMG | 88.50 | 96.29 | 104.08 | 111.86 | 120.36 | 128.86 |
+| 6-Hit DMG | 105.75 | 115.06 | 124.36 | 133.67 | 143.82 | 153.97 |
+
+### Aimed Shot
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.70 | 92.82 |
+| Fully-Charged Aimed Shot | 173.60 | 186 | 198.40 | 210.80 | 223.20 | 235.60 |
+
+### Riptide
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Riptide Flash DMG \(x3\) | 17.36 | 18.6 | 19.84 | 21.08 | 22.32 | 23.56 |
+| Riptide Burst DMG | 86.80 | 93 | 99.20 | 105.40 | 111.60 | 117.80 |
+| Riptide Duration | 10 | 10 | 10 | 10 | 10 | 10 |
+
+**Riptide Duration**: 10s
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Foul Legacy: Raging Tide" %}
+### Stance Change
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stance Change DMG | 100.80 | 108 | 115.20 | 122.40 | 129.60 | 136.80 | 144 | 153 |
+
+**Maximum Duration**: 30s
+
+**Preemptive Cooldown**: 6-36s
+
+**Maximum Cooldown**: 45s
+
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 56.50 | 61.47 | 66.44 | 71.42 | 76.84 | 82.26 | 87.69 | 93.11 |
+| 2-Hit DMG | 60.50 | 65.82 | 71.15 | 76.47 | 82.28 | 88.09 | 93.90 | 99.70 |
+| 3-Hit DMG | 81.88 | 89.08 | 96.29 | 103.49 | 111.35 | 119.21 | 127.07 | 134.93 |
+| 4-Hit DMG | 87.13 | 94.79 | 102.46 | 110.13 | 118.49 | 126.85 | 135.22 | 143.58 |
+| 5-Hit DMG | 80.38 | 87.45 | 94.52 | 101.59 | 109.31 | 117.03 | 124.74 | 132.46 |
+| 6-Hit 1 DMG | 51.50 | 56.03 | 60.56 | 65.10 | 70.04 | 74.98 | 79.93 | 84.87 |
+| 6-Hit 2 DMG | 54.75 | 59.57 | 64.39 | 69.20 | 74.46 | 79.72 | 84.97 | 90.23 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 87.50 | 95.20 | 102.90 | 110.60 | 119 | 127.40 | 135.80 | 144.20 |
+| Charged Attack 2 DMG | 104.62 | 113.83 | 123.04 | 132.25 | 142.29 | 152.33 | 162.38 | 172.42 |
+
+**Stamina Cost**: 20
+
+### Riptide Slash
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Riptide Slash | 87.50 | 95.20 | 102.90 | 110.60 | 119 | 127.40 | 135.80 | 144.20 |
+{% endtab %}
+
+{% tab title="Havoc: Obliteration" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG: Melee | 649.60 | 696 | 742.40 | 788.80 | 835.20 | 881.60 | 928 | 986 |
+| Skill DMG: Ranged | 529.76 | 567.60 | 605.44 | 643.28 | 681.12 | 718.96 | 756.80 | 804.10 |
+| Riptide Blast DMG | 168 | 180 | 192 | 204 | 216 | 228 | 240 | 255 |
+
+**Energy Cost**: 60
+
+**Energy Refund \(Ranged\)**: 20
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ### **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
@@ -228,4 +325,3 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}
-
