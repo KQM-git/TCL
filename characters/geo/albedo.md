@@ -170,6 +170,61 @@ If active party members within the AoE are protected by a shield created by Crys
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Favonius Bladework - Weiss" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 53.40 | 58.10 | 62.80 | 67.50 | 72.62 | 78.50 |
+| 2-Hit DMG | 53.40 | 58.10 | 62.80 | 67.50 | 72.62 | 78.50 |
+| 3-Hit DMG | 68.98 | 75.04 | 81.11 | 87.18 | 93.81 | 101.39 |
+| 4-Hit DMG | 72.31 | 78.68 | 85.04 | 91.40 | 98.35 | 106.30 |
+| 5-Hit DMG | 90.22 | 98.16 | 106.10 | 114.04 | 122.70 | 132.63 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 68.75 | 74.80 | 80.85 | 86.90 | 93.50 | 101.06 |
+| Charged Attack 2 DMG | 87.50 | 95.20 | 102.90 | 110.60 | 119 | 128.62 |
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Abiogenesis: Solar Isotoma" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 182.56 | 195.60 | 208.64 | 221.68 | 234.72 | 247.76 | 260.80 | 277.10 |
+| Transient Blossom DMG | 187.04 | 200.4 | 213.76 | 227.12 | 240.48 | 253.84 | 267.2 | 283.9 |
+
+**Duration**: 30s
+
+**Cooldown**: 4s
+{% endtab %}
+
+{% tab title="Rite of Progeniture: Tectonic Tide" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Elemental Burst DMG | 514.08 | 550.80 | 587.52 | 624.24 | 660.96 | 697.68 | 734.40 | 780.30 |
+| Fatal Blossom DMG | 100.8 | 108 | 115.2 | 122.4 | 129.6 | 136.8 | 144 | 153 |
+
+**Energy Cost**: 40
+
+**Cooldown**: 12s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Albedo)
