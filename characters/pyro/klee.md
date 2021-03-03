@@ -226,3 +226,4 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/klee.md" %}
+

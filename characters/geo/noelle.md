@@ -233,7 +233,7 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 {% endtab %}
 
 {% tab title="Sweeping Time" %}
-| | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Burst DMG | 94.08 | 100.80 | 107.52 | 114.24 | 120.96 | 127.68 | 134.40 | 142.80 |
 | Skill DMG | 129.92 | 139.20 | 148.48 | 157.76 | 167.04 | 176.32 | 185.60 | 197.20 |
@@ -255,3 +255,4 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
 
 **Evidence Vault:**
+

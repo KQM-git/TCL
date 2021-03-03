@@ -229,3 +229,4 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+

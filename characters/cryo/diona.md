@@ -240,3 +240,4 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+

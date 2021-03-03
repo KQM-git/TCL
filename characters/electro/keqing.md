@@ -105,7 +105,6 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 ## **Ascension Passives**
 
 {% tabs %}
-
 {% tab title="Passive" %}
 ### Land's Overseer
 
@@ -243,3 +242,4 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/keqing.md" %}
+

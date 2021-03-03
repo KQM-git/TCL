@@ -242,3 +242,4 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/razor.md" %}
+

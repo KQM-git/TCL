@@ -250,3 +250,4 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
+

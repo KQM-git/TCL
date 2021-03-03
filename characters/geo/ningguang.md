@@ -208,3 +208,4 @@ When Starshatter is used, Ningguang gains 7 **Star Jades**.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/ningguang.md" %}
+
