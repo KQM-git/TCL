@@ -164,6 +164,69 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Favonius Bladework" %}
+### Normal Attacks
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|1-Hit DMG                  |70.25 |76.43 |82.61 |88.80 |95.54 |103.27|
+|2-Hit DMG                  |66.25 |72.08 |77.91 |83.74 |90.10 |97.39 |
+|3-Hit DMG                  |87.63 |95.34 |103.05|110.76|119.17|128.81|
+|4-Hit DMG                  |95.75 |104.18|112.60|121.03|130.22|140.75|
+|5-Hit DMG                  |115.13|125.26|135.39|145.52|156.57|169.23|
+
+### Charged Attack
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|Charged Attack DMG         |235.50|256.22|276.95|297.67|320.28|346.19|
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|Plunge DMG                 |92.93 |101.10|109.28|117.46|126.38|135.30|
+|Low Plunge DMG             |185.81|202.16|218.51|234.86|252.70|270.54|
+|High Plunge DMG            |232.09|252.51|272.93|293.36|315.64|337.92|
+
+{% endtab %}
+
+{% tab title="Gale Blade" %}
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|---------------------------|------|------|------|------|------|------|------|------|
+|Skill DMG                  |408.80|438   |467.20|496.40|525.60|554.80|584   |620.50|
+
+
+**Stamina Consumption per Second**: 20
+
+**Maximum Duration**: 5s
+
+**Cooldown**: 6s
+{% endtab %}
+
+{% tab title="Dandelion Breeze" %}
+
+|                                   |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|-----------------------------------|------|------|------|------|------|------|------|------|
+|Elemental Burst DMG                |594.72|637.20|679.68|722.16|764.64|807.12|849.60|902.70|
+|Field Entering/Exiting DMG         |109.76|117.60|125.44|133.28|141.12|148.96|156.80|166.60|
+|Field Activation Healing Scaling   |351.68|376.8 |401.92|427.04|452.16|477.28|502.4 |533.8 |
+|Field Activation Healing Additive  |2439  |2657  |2888  |3132  |3389  |3659  |3941  |4236  |
+|Continuous Regeneration Scaling    |35.17 |37.68 |40.19 |42.7  |45.22 |47.73 |50.24 |53.38 |
+|Continuous Regeneration Additive   |244   |266   |289   |313   |339   |366   |394   |424   |
+
+**Energy Cost**: 80
+
+**Duration**: 10s
+
+**Cooldown**: 20s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
