@@ -8,6 +8,19 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 ![](../../.gitbook/assets/kaeya.png)
 
+## **Base Stats**
+
+|Lv                  |Base HP|Base ATK|Base DEF|Energy Recharge%|
+|--------------------|-------|--------|--------|----------------|
+|60                  |7666   |147     |522     |13.30           |
+|60+                 |8184   |157     |557     |13.30           |
+|70                  |8989   |172     |612     |13.30           |
+|70+                 |9507   |182     |647     |20              |
+|80                  |10312  |198     |702     |20              |
+|80+                 |10830  |208     |737     |26.70           |
+|90                  |11636  |223     |792     |26.70           |
+
+
 ## **Attacks**
 
 {% tabs %}
@@ -64,14 +77,6 @@ Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him
 ## **Ascension Passives**
 
 {% tabs %}
-{% tab title="Ascension Stat" %}
-| Level | Energy Recharge% |
-| :--- | :--- |
-| 60+ | 13.3% |
-| 70+ | 20% |
-| 80+ | 26.7% |
-{% endtab %}
-
 {% tab title="Passive" %}
 ### Hidden Strength
 
@@ -102,9 +107,7 @@ The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by
 
 {% tab title="C2" %}
 ### Never-Ending Performance
-{% endtab %}
 
-{% tab %}
 Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
 {% endtab %}
 
@@ -130,6 +133,60 @@ Increases the level of **Glacial Waltz** by 3.
 ### Glacial Whirlwind
 
 **Glacial Waltz** will generate 1 additional icicle, and will regenerate 15 Energy when cast.
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Ceremonial Bladework" %}
+### Normal Attacks
+
+|                              |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------------|------|------|------|------|------|------|
+|1-Hit DMG                     |78.13 |85    |91.88 |98.75 |106.25|114.84|
+|2-Hit DMG                     |75.13 |81.74 |88.35 |94.96 |102.17|110.43|
+|3-Hit DMG                     |94.88 |103.22|111.57|119.92|129.03|139.47|
+|4-Hit DMG                     |103   |112.06|121.13|130.19|140.08|151.41|
+|5-Hit DMG                     |128.25|139.54|150.82|162.11|174.42|188.53|
+
+### Charged Attack
+
+|                              |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------------|------|------|------|------|------|------|
+|Charged Attack 1 DMG          |80    |87.04 |94.08 |101.12|108.80|117.60|
+|Charged Attack 2 DMG          |106.25|115.60|124.95|134.30|144.50|156.19|
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|                              |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------------|------|------|------|------|------|------|
+|Plunge DMG                    |92.93 |101.10|109.28|117.46|126.38|135.30|
+|Low Plunge DMG                |185.81|202.16|218.51|234.86|252.70|270.54|
+|High Plunge DMG               |232.09|252.51|272.93|293.36|315.64|337.92|
+
+{% endtab %}
+
+{% tab title="Frostgnaw" %}
+
+|                              |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|------------------------------|------|------|------|------|------|------|------|------|
+|Skill DMG                     |267.68|286.80|305.92|325.04|344.16|363.28|382.40|406.30|
+
+**Cooldown**: 6s
+{% endtab %}
+
+{% tab title="Glacial Waltz" %}
+
+|                              |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|------------------------------|------|------|------|------|------|------|------|------|
+|Skill DMG                     |108.64|116.40|124.16|131.92|139.68|147.44|155.20|164.90|
+
+**Energy Cost**: 60
+
+**Duration**: 8s
+
+**Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
