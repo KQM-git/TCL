@@ -147,7 +147,7 @@ If Klee leaves the field during the duration of Sparks 'n' Splash, her departure
 
 | Type | Value |
 | :--- | :--- |
-| GU | 2B  |
+| GU | 2B |
 {% endtab %}
 
 {% tab title="C5" %}
@@ -163,6 +163,59 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Kaboom!" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 101.02 | 108.24 | 115.46 | 122.67 | 129.89 | 137.39 |
+| 2-Hit DMG | 87.36 | 93.60 | 99.84 | 106.08 | 112.32 | 118.81 |
+| 3-Hit DMG | 125.89 | 134.88 | 143.87 | 152.86 | 161.86 | 171.21 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 220.30 | 236.04 | 251.78 | 267.51 | 283.25 | 299.61 |
+
+**Stamina Cost**: 50
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+{% endtab %}
+
+{% tab title="Jumpy Dumpty" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Jumpy Dumpty DMG | 133.28 | 142.80 | 152.32 | 161.84 | 171.36 | 180.88 | 190.40 | 202.30 |
+| Mine DMG | 45.92 | 49.20 | 52.48 | 55.76 | 59.04 | 62.32 | 65.60 | 69.70 |
+
+**Mine Duration**: 15s
+
+**Cooldown**: 20s
+{% endtab %}
+
+{% tab title="Sparks \'n\' Splash" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sparks 'n' Splash DMG | 59.70 | 63.96 | 68.22 | 72.49 | 76.75 | 81.02 | 85.28 | 90.61 |
+
+**Energy Cost**: 60
+
+**Duration**: 10s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Klee)
@@ -173,4 +226,3 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/klee.md" %}
-
