@@ -31,20 +31,20 @@ Perform up to 4 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 115% |  |  |
-| 2-Hit | 106.63% |  |  |
-| 3-Hit | 125.38% |  |  |
-| 4-Hit | 164.88% |  |  |
+| 1-Hit | 115% | 28 | 246%/s |
+| 2-Hit | 106.63% | 70 | 189%/s |
+| 3-Hit | 125.38% | 116 | 179%/s |
+| 4-Hit | 164.88% | 174 | 176%/s |
 
 Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 
 **Charged Attack**  
-Noelle consumes 40 stamina a second to keep spinning. _\*\*_ At the end, perform a more powerful slash.
+Noelle consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Spin | 73.75% |  |  |
-| Final hit | 131.5% |  |  |
+| Spin | 73.75% | 311 | 142%/s |
+| Final hit | 131.5% | 40 | 148%/s |
 
 Enemies struck by Noelle's charged attack will be staggered or launched.
 
@@ -69,13 +69,15 @@ Summon a shield that deals damage in a small radius around Noelle.
   * 150% DMG Absorption Efficiency against all damage.
   * Can trigger Crystallize when hitting a target with a element applied to them.
 
-| Type | Talent 6% | Cooldown | GU | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 168%Def | 24 sec |  |  |  |
-| Healing | 29.79%Def + 163 |  |  |  |  |
-| Healing chance | 55% |  |  |  |  |
-| Shield Scaling | 224%Def + 1219 |  |  |  |  |
-| Duration | 12 sec |  |  |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Base DMG | 168%Def | 24 sec |
+| Healing | 29.79%Def + 163 |
+| Healing chance | 55% |
+| Shield Scaling | 224%Def + 1219 |
+| Duration | 12 sec |
+| Cooldown | 24 sec |
+| GU | 2 |
 
 * The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
 {% endtab %}
@@ -95,7 +97,9 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 | Duration | 15s |
 | Cooldown | 15s \(non-scaling\) |
 | Energy Cost | 60 |
-| Frames |  |
+| Burst GU | 1 |
+| Infused attack GU | 1 |
+| Frames | 111 |
 
 * The bonus Def conversion from C6 is additive i.e. it takes the bonus from 56% to 106% at talent level 6.
 * The Def to Atk conversion is snapshotted when you activate burst so any changes to Def after burst is used will not increase Atk.
@@ -256,3 +260,4 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/geo/noelle.md" %}
