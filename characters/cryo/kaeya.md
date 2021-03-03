@@ -136,6 +136,8 @@ Increases the level of **Glacial Waltz** by 3.
 {% endtab %}
 {% endtabs %}
 
+## **Full Talent Values**
+
 {% tabs %}
 {% tab title="Ceremonial Bladework" %}
 ### Normal Attacks
