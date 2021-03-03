@@ -85,7 +85,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 {% endtab %}
 
 {% tab title="Signature Mix" %}
-Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**.
+Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
 
 **Drunken Mist:**
 
@@ -173,6 +173,65 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Kätzlein Style" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 52.50 | 57.12 | 61.74 | 66.36 | 71.40 | 77.18 |
+| 2-Hit DMG | 48.75 | 53.04 | 57.33 | 61.62 | 66.30 | 71.66 |
+| 3-Hit DMG | 66.25 | 72.08 | 77.91 | 83.74 | 90.10 | 97.39 |
+| 4-Hit DMG | 62.50 | 68 | 73.50 | 79 | 85 | 91.88 |
+| 5-Hit DMG | 78.13 | 85 | 91.88 | 98.75 | 106.25 | 114.84 |
+
+### Aimed Shot
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.70 | 93.71 |
+| Fully-Charged Aimed Shot | 173.60 | 186 | 198.40 | 210.80 | 223.20 | 236.10 |
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+{% endtab %}
+
+{% tab title="Icy Paws" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Icy Paw DMG \(per Paw\) | 58.69 | 62.88 | 67.07 | 71.26 | 75.46 | 79.65 | 83.84 | 89.08 |
+| Base Shield DMG Absorption Scaling | 10.08 | 10.8 | 11.52 | 12.24 | 12.96 | 13.68 | 14.4 | 15.3 |
+| Base Shield DMG Absorption Additive | 1097 | 1195 | 1299 | 1409 | 1524 | 1646 | 1773 | 1905 |
+| Duration \(per Paw\) | 2.3 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 |
+
+**Press Cooldown**: 6s
+
+**Hold Cooldown**: 15s
+{% endtab %}
+
+{% tab title="Signature Mix" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 112 | 120 | 128 | 136 | 144 | 152 | 160 | 170 |
+| Continuous Field DMG | 73.70 | 78.96 | 84.22 | 89.49 | 94.75 | 100.02 | 105.28 | 111.86 |
+| HP Regeneration Over Time Scaling | 7.47 | 8 | 8.54 | 9.07 | 9.6 | 10.14 | 10.67 | 11.34 |
+| HP Regeneration Over Time Additive | 813 | 885 | 962 | 1044 | 1129 | 1219 | 1313 | 1411 |
+
+**Energy Cost**: 80
+
+**Duration**: 12s
+
+**Cooldown**: 20s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
@@ -181,4 +240,3 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
-
