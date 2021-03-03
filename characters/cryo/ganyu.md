@@ -199,6 +199,8 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 
 **The Viridescent Hunt** passive, **Verdant Wind**, can be activated by either the **Frostflake Arrow** or **Frostflake Bloom**.
 
+## **Full Talent Values**
+
 {% tabs %}
 {% tab title="Liutian Archery" %}
 ### Normal Attacks
