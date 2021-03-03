@@ -171,6 +171,63 @@ Energy regeneration is not affected by Energy Recharge.
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Guhua Style" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 67.75 | 73.71 | 79.67 | 85.64 | 92.14 | 99.59 |
+| 2-Hit DMG | 69.25 | 75.34 | 81.44 | 87.53 | 94.18 | 101.80 |
+| 3-Hit DMG \(x2\) | 41.50 | 45.15 | 48.80 | 52.46 | 56.44 | 61.01 |
+| 4-Hit DMG | 81.38 | 88.54 | 95.70 | 102.86 | 110.67 | 119.62 |
+| 5-Hit DMG \(x2\) | 52.13 | 56.71 | 61.30 | 65.89 | 70.89 | 76.62 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 68.75 | 74.80 | 80.85 | 86.90 | 93.50 | 101.06 |
+| Charged Attack 2 DMG | 81.63 | 88.81 | 95.99 | 103.17 | 111.01 | 119.99 |
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Guhua Sword: Fatal Rainscreen" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill 1 DMG | 235.20 | 252 | 268.80 | 285.60 | 302.40 | 319.20 | 336 | 357 |
+| Skill 2 DMG | 267.68 | 286.80 | 305.92 | 325.04 | 344.16 | 363.28 | 382.40 | 406.30 |
+| Damage Reduction Ratio | 25 | 26 | 27 | 28 | 29 | 29 | 29 | 29 |
+
+**Duration**: 15s
+
+**Cooldown**: 21s
+{% endtab %}
+
+{% tab title="Guhua Sword: Raincutter" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sword Rain DMG | 75.98 | 81.41 | 86.84 | 92.26 | 97.69 | 103.12 | 108.54 | 115.33 |
+
+**Energy Cost**: 80
+
+**Duration**: 15s
+
+**Cooldown**: 20s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xingqiu)
@@ -179,4 +236,3 @@ Energy regeneration is not affected by Energy Recharge.
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
-
