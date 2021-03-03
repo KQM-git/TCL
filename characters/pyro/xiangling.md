@@ -195,4 +195,4 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG B
 
 ## External links
 
-* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xiangling)\*\*\*\*
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xiangling)
