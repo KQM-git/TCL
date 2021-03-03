@@ -72,7 +72,7 @@ Zhongli channels for 2 seconds causing the following effects:
 
 **Stone Stele**
 
-* When created, **Stone Steal** deals AoE Geo damage. 
+* When created, **Stone Stele** deals AoE Geo damage. 
 * Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents. 
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
 * Only one **Stone Stele** created by Zhongli may exist at a time.  
