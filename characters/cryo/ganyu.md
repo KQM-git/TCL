@@ -199,6 +199,64 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 
 **The Viridescent Hunt** passive, **Verdant Wind**, can be activated by either the **Frostflake Arrow** or **Frostflake Bloom**.
 
+{% tabs %}
+{% tab title="Liutian Archery" %}
+### Normal Attacks
+
+|                                   |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|-----------------------------------|------|------|------|------|------|------|
+|1-Hit DMG                          |46.13 |50.18 |54.24 |58.30 |62.73 |67.80 |
+|2-Hit DMG                          |51.75 |56.30 |60.86 |65.41 |70.38 |76.07 |
+|3-Hit DMG                          |66.13 |71.94 |77.76 |83.58 |89.93 |97.20 |
+|4-Hit DMG                          |66.13 |71.94 |77.76 |83.58 |89.93 |97.20 |
+|5-Hit DMG                          |70.13 |76.30 |82.47 |88.64 |95.37 |103.08|
+|6-Hit DMG                          |83.75 |91.12 |98.49 |105.86|113.90|123.11|
+
+### Aimed Shot
+
+|                                   |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|-----------------------------------|------|------|------|------|------|------|
+|Aimed Shot                         |63.75 |69.36 |74.97 |80.58 |86.70 |92.82 |
+|Aimed Shot Charge Level 1          |173.60|186   |198.40|210.80|223.20|235.60|
+|Frostflake Arrow DMG               |179.20|192   |204.80|217.60|230.40|243.20|
+|Frostflake Arrow Bloom DMG         |304.64|326.40|348.16|369.92|391.68|413.44|
+
+### Plunge
+
+|                                   |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|-----------------------------------|------|------|------|------|------|------|
+|Plunge DMG                         |82.60 |89.87 |97.14 |104.41|112.34|120.27|
+|Low Plunge DMG                     |165.17|179.70|194.23|208.77|224.62|240.48|
+|High Plunge DMG                    |206.30|224.45|242.61|260.76|280.57|300.37|
+
+{% endtab %}
+
+{% tab title="Trail of the Qilin" %}
+
+|                                   |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|-----------------------------------|------|------|------|------|------|------|------|------|
+|Inherited HP                       |168   |180   |192   |204   |216   |228   |240   |255   |
+|Skill DMG                          |184.80|198   |211.20|224.40|237.60|250.80|264   |280.50|
+
+**Duration**: 6s
+
+**Cooldown**: 10s
+{% endtab %}
+
+{% tab title="Celestial Shower" %}
+
+|FIELD1                             |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|-----------------------------------|------|------|------|------|------|------|------|------|
+|Ice Shard DMG                      |98.38 |105.41|112.44|119.46|126.49|133.52|140.54|149.33|
+
+**Energy Cost**: 60
+
+**Duration**: 15s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ganyu)
