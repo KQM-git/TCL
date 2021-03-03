@@ -6,9 +6,7 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 ## ![](../../.gitbook/assets/element_pyro.png)Diluc
 
-
-
-![](../../.gitbook/assets/bennett.png)
+![](../../.gitbook/assets/diluc.png)
 
 ### **Base Stats**
 
@@ -90,8 +88,6 @@ After the slash, Diluc infuses his weapon with Pyro.
 * Pyro infused autos have 1U worth of Pyro application.
 {% endtab %}
 {% endtabs %}
-
-
 
 ### **Ascension Passives**
 

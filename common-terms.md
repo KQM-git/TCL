@@ -30,7 +30,7 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 **Permafreeze** = A team centered around permanently freezing enemies to capitalize on Blizzard Strayer’s 4 set bonus.
 
-**PP(Pure Pyro)** = A team centered around maximizing pyro uptime on enemies to capitalize on 4 set lavawalker's bonus.
+**PP\(Pure Pyro\)** = A team centered around maximizing pyro uptime on enemies to capitalize on 4 set lavawalker's bonus.
 
 **Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. Preferring to deal damage through the use of swapping between characters to use elemental skills and bursts.
 
