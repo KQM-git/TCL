@@ -221,6 +221,66 @@ The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% mo
 
 Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an ATK% bonus that changes when shielded. **Thunderbeast's Targe** is snapshot _before_ gaining the bonus from The Unforged's shield ATK% bonus.
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Oceanborne" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 103.38 | 112.47 | 121.57 | 130.67 | 140.59 | 151.96 |
+| 2-Hit DMG | 103 | 112.06 | 121.13 | 130.19 | 140.08 | 151.41 |
+| 3-Hit DMG | 128.38 | 139.67 | 150.97 | 162.27 | 174.59 | 188.71 |
+| 4-Hit DMG | 125.75 | 136.82 | 147.88 | 158.95 | 171.02 | 184.85 |
+| 5-Hit DMG | 163 | 177.34 | 191.69 | 206.03 | 221.68 | 239.61 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 81.75 | 88.94 | 96.14 | 103.33 | 111.18 | 120.17 |
+| Charged Attack Final DMG | 148 | 161.02 | 174.05 | 187.07 | 201.28 | 217.56 |
+
+**Maximum Duration**: 5s
+
+**Stamina Cost**: 40
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 157.85 |
+| Low Plunge DMG | 216.78 | 235.86 | 254.93 | 274.01 | 294.82 | 315.63 |
+| High Plunge DMG | 270.77 | 294.60 | 318.42 | 342.25 | 368.25 | 394.24 |
+{% endtab %}
+
+{% tab title="Tidecaller" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Shield DMG Absorption Scaling | 20.16 | 21.6 | 23.04 | 24.48 | 25.92 | 27.36 | 28.8 | 30.6 |
+| Shield DMG Absorption | 2195 | 2392 | 2600 | 2819 | 3050 | 3293 | 3547 | 3813 |
+| Base DMG | 170.24 | 182.40 | 194.56 | 206.72 | 218.88 | 231.04 | 243.20 | 258.40 |
+| DMG Bonus on Hit Taken | 224 | 240 | 256 | 272 | 288 | 304 | 320 | 340 |
+
+**Cooldown**: 7.5s
+{% endtab %}
+
+{% tab title="Stormbreaker" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 170.24 | 182.40 | 194.56 | 206.72 | 218.88 | 231.04 | 243.20 | 258.40 |
+| Lightning DMG | 134.40 | 144 | 153.60 | 163.20 | 172.80 | 182.40 | 192 | 204 |
+| DMG Reduction | 26 | 28 | 30 | 32 | 34 | 35 | 36 | 37 |
+
+**Energy Cost**: 80
+
+**Duration**: 15s
+
+**Cooldown**: 20s
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
@@ -231,4 +291,3 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/beidou.md" %}
-
