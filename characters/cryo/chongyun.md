@@ -160,6 +160,8 @@ Increases the level of Chonghua’s Layered Frost by 3.
 {% endtab %}
 {% endtabs %}
 
+## **Full Talent Values**
+
 {% tabs %}
 {% tab title="Demonbane" %}
 ### Normal Attacks
