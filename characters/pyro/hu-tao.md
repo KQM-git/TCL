@@ -57,6 +57,10 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 * Hu Tao's Charged Attacks strings can be cancelled as soon as she blinks.
 * Hu Tao's Charged Attacks ghost through small enemies.
 
+![](../../.gitbook/assets/hutaovapemvs.jpg)
+
+From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
+
 **Plunge**
 
 | Damage Type | Talent 6% |
@@ -190,6 +194,8 @@ Increases the Level of **Spirit Soother** by 3.
 Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased. This effect triggers automatically when Hu Tao has 1 HP left. Can only occur once every 60s.
 {% endtab %}
 {% endtabs %}
+
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Secret Spear of Wangsheng" %}
