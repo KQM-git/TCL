@@ -54,7 +54,7 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 | N5C | 586.12% |  |  |
 | N6C | 704.31% |  |  |
 
-* Hu Tao's Charged Attacks strings can be cancelled as soon as she blinks.
+* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](https://library.keqingmains.com/characters/pyro/hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
 
 ![](../../.gitbook/assets/hutaovapemvs.jpg)
