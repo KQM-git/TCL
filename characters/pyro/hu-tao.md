@@ -61,6 +61,10 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 
 From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
 
+{% embed url="https://imgur.com/a/zZf8wxf" %}
+
+
+
 **Plunge**
 
 | Damage Type | Talent 6% |
