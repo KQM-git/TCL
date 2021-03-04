@@ -61,10 +61,6 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 
 From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
 
-{% embed url="https://imgur.com/a/zZf8wxf" %}
-
-
-
 **Plunge**
 
 | Damage Type | Talent 6% |
@@ -257,6 +253,20 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 **Energy Cost**: 60
 
 **Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
+## Media
+
+### Animation Cancels
+
+{% tabs %}
+{% tab title="N2C Jump Cancel" %}
+{% embed url="https://imgur.com/a/zZf8wxf" %}
+{% endtab %}
+
+{% tab title="C1 N1C Dash Cancel" %}
+{% embed url="https://imgur.com/6WV89zJ" %}
 {% endtab %}
 {% endtabs %}
 
