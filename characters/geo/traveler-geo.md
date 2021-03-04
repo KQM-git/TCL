@@ -69,7 +69,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 | Base DMG | 347.2% |
 | Duration | 30s |
 | Cooldown | 8s |
-| GU | 1U |
+| GU | 2U |
 | Frames |  |
 | Motion Value |  |
 {% endtab %}
@@ -85,7 +85,7 @@ Deals 5 waves of damage to enemies and knocks them back away from the caster.
 | Elemental burst DMG | 207.2% |
 | Duration | 15s |
 | Cooldown | 15s \(non-scaling\) |
-| GU | ? |
+| GU | 2U |
 | Energy Cost | 60 |
 | Frames |  |
 
