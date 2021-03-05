@@ -645,7 +645,6 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 
 ## External Links
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/catalyst/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Catalysts)
 
 **Evidence Vault**:
