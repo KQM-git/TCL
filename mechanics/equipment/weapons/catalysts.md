@@ -650,3 +650,4 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons/catalysts.md" %}
+
