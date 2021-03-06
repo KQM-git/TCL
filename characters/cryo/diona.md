@@ -115,7 +115,7 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Cat’s Tail Secret Menu
 
 Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
