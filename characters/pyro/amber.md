@@ -113,7 +113,7 @@ Decreases gliding Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects. 
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Every Arrow Finds Its Target 
 
 Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.
