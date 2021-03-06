@@ -111,7 +111,7 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Rekindle
 
 Decrease passion overload’s cooldown by 20%.
