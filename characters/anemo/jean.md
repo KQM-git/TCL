@@ -109,7 +109,7 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 When a Perfect Cooking is achieved on a dish with restorative effects, Jean has a 12% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Wind Companion
 
 Hits by Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
