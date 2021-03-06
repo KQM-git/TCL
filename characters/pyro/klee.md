@@ -100,7 +100,7 @@ Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instance
 Displays the location of nearby resources unique to Mondstadt on the mini-map.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Pounding Surprise
 
 When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
