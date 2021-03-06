@@ -95,7 +95,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 Displays the locations of nearby ore veins on the mini-map.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 #### Backup Plan
 
 When Ningguang is in possession of **Star Jades**, her Charged Attack does not consume Stamina.
