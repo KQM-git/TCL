@@ -107,7 +107,7 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 Displays the location of nearby resources unique to Liyue on the mini-map.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## **Life-Prolonging Methods**
 
 When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
