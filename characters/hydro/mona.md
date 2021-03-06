@@ -131,7 +131,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## **“Come ‘n’ Get me, Hag!”**
 
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**:
