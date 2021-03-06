@@ -111,7 +111,7 @@ Decreases sprinting Stamina consumption for your own party members by 20%.
 * Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Awakening
 
 Decreases Claw and Thunder's CD by 18%.  
