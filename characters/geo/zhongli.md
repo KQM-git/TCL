@@ -125,7 +125,7 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Resonant Waves
 
 Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
