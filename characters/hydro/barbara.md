@@ -97,7 +97,7 @@ Heals your own party members and nearby teammates for a large amount of HP.
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Glorious Season
 
 The Stamina Consumption of characters within Let the Show Begin♪’s **Melody Loop** is reduced by 12%**.**
