@@ -97,7 +97,7 @@ Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, de
 When dispatched on an expedition on Liyue, time consumed is reduced by 25%
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Steady Breathing
 
 Sword, Claymore or Polearm-wielding characters within the field created by **Chonghua’s Layered Frost** have their Normal ATK SPD increased by 8%.
