@@ -111,7 +111,7 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Thundering Penance
 
 After recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's weapon gains an Electro Infusion for 5s.
