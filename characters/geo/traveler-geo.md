@@ -102,7 +102,7 @@ Deals 5 waves of damage to enemies and knocks them back away from the caster.
 404 does not exist.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Shattered Darkrock
 
 Reduces Starfell Sword’s CD by 2s.
