@@ -82,7 +82,7 @@ Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him
 Decreases sprinting stamina consumption for your own party members by 20%. Not stackable with passive talents that provide the exact same effects.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Cold-Blooded Strike
 
 Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.
