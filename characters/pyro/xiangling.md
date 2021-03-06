@@ -89,7 +89,7 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 Increase the flame range of **Guoba** by 20%
 {% endtab %}
 
