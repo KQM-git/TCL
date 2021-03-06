@@ -163,6 +163,65 @@ The meteorite created by Starfell Sword lasts 10s longer.
 {% endtab %}
 {% endtabs %}
 
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Foreign Rockblade" %}
+### Normal Attacks
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|1-Hit DMG                  |64.63 |70.31 |76    |81.69 |87.89 |94.09 |
+|2-Hit DMG                  |63.13 |68.68 |74.23 |79.79 |85.85 |91.91 |
+|3-Hit DMG                  |77    |83.78 |90.55 |97.33 |104.72|112.11|
+|4-Hit DMG                  |84.75 |92.21 |99.67 |107.12|115.26|123.40|
+|5-Hit DMG                  |102.88|111.93|120.98|130.03|139.91|149.79|
+
+### Charged Attack
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|Charged Attack 1 DMG       |81.25 |88.40 |95.55 |102.70|110.50|118.30|
+|Charged Attack 2 DMG       |88.25 |96.02 |103.78|111.55|120.02|128.49|
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|---------------------------|------|------|------|------|------|------|
+|Plunge DMG                 |92.93 |101.10|109.28|117.46|126.38|135.30|
+|Low Plunge DMG             |185.81|202.16|218.51|234.86|252.70|270.54|
+|High Plunge DMG            |232.09|252.51|272.93|293.36|315.64|337.92|
+
+{% endtab %}
+
+{% tab title="Starfell Sword" %}
+
+|                           |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|---------------------------|------|------|------|------|------|------|------|------|
+|Skill DMG                  |347.20|372   |396.80|421.60|446.40|471.20|496   |527   |
+
+**Meteorite Duration**: 30s
+
+**Cooldown**: 8s
+{% endtab %}
+
+{% tab title="Wake of Earth" %}
+
+|FIELD1                     |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|---------------------------|------|------|------|------|------|------|------|------|
+|DMG Per Shockwave          |207.20|222   |236.80|251.60|266.40|281.20|296   |314.50|
+
+**Energy Cost**: 60
+
+**Stonewall Duration**: 15s
+
+**Cooldown**: 15s
+{% endtab %}
+{% endtabs %}
+
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
