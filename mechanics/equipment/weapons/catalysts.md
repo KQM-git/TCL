@@ -4,6 +4,8 @@
 
 ### Skyward Atlas
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -37,9 +39,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 423 | 24.4 |
+| 60+ | 455 | 24.4 |
+| 65 | 480 | 25.8 |
+| 70 | 506 | 27.3 |
+| 70+ | 537 | 27.3 |
+| 75 | 563 | 28.7 |
+| 80 | 590 | 30.2 |
+| 80+ | 621 | 30.2 |
+| 85 | 648 | 31.6 |
+| 90 | 674 | 33.1 |
+{% endtab %}
+{% endtabs %}
 
 ### Lost Prayer to the Sacred Winds
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -73,8 +94,29 @@
   </tbody>
 </table>
 
+* Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 382 | 24.4 |
+| 60+ | 414 | 24.4 |
+| 65 | 435 | 25.8 |
+| 70 | 457 | 27.3 |
+| 70+ | 488 | 27.3 |
+| 75 | 510 | 28.7 |
+| 80 | 532 | 30.2 |
+| 80+ | 563 | 30.2 |
+| 85 | 586 | 31.6 |
+| 90 | 608 | 33.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Memory of Dust
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -109,10 +151,31 @@
   </tbody>
 </table>
 
+* Xingqiu's Rain Swords do not count as a shield
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 382 | 36.5 |
+| 60+ | 414 | 36.5 |
+| 65 | 435 | 38.7 |
+| 70 | 457 | 40.9 |
+| 70+ | 488 | 40.9 |
+| 75 | 510 | 43.1 |
+| 80 | 532 | 45.3 |
+| 80+ | 563 | 45.3 |
+| 85 | 586 | 47.4 |
+| 90 | 608 | 49.6 |
+{% endtab %}
+{% endtabs %}
+
 ## 4 Stars
 
 ### Royal Grimoire
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -144,9 +207,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 361 | 20.3 |
+| 60+ | 387 | 20.3 |
+| 65 | 408 | 21.5 |
+| 70 | 429 | 22.7 |
+| 70+ | 455 | 22.7 |
+| 75 | 476 | 23.9 |
+| 80 | 497 | 25.1 |
+| 80+ | 523 | 25.1 |
+| 85 | 544 | 26.4 |
+| 90 | 565 | 27.6 |
+{% endtab %}
+{% endtabs %}
 
 ### **Mappa Mare**
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -178,9 +260,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 361 | 81 |
+| 60+ | 387 | 81 |
+| 65 | 408 | 86 |
+| 70 | 429 | 91 |
+| 70+ | 455 | 91 |
+| 75 | 476 | 96 |
+| 80 | 497 | 101 |
+| 80+ | 523 | 101 |
+| 85 | 544 | 105 |
+| 90 | 565 | 110 |
+{% endtab %}
+{% endtabs %}
 
 ### Solar Pearl
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -213,9 +314,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 327 | 20.3 |
+| 60+ | 353 | 20.3 |
+| 65 | 370 | 21.5 |
+| 70 | 388 | 22.7 |
+| 70+ | 414 | 22.7 |
+| 75 | 431 | 23.9 |
+| 80 | 449 | 25.1 |
+| 80+ | 475 | 25.1 |
+| 85 | 492 | 26.4 |
+| 90 | 510 | 27.6 |
+{% endtab %}
+{% endtabs %}
 
 ### Widsith
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -249,9 +369,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT DMG% |
+| :--- | :--- | :--- |
+| 60 | 327 | 40.6 |
+| 60+ | 353 | 40.6 |
+| 65 | 370 | 43 |
+| 70 | 388 | 45.4 |
+| 70+ | 414 | 45.4 |
+| 75 | 431 | 47.9 |
+| 80 | 449 | 50.3 |
+| 80+ | 475 | 50.3 |
+| 85 | 492 | 52.7 |
+| 90 | 510 | 55.1 |
+{% endtab %}
+{% endtabs %}
 
 ### Frostbearer
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -285,9 +424,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 327 | 30.4 |
+| 60+ | 353 | 30.4 |
+| 65 | 370 | 32.3 |
+| 70 | 388 | 34.1 |
+| 70+ | 414 | 34.1 |
+| 75 | 431 | 35.9 |
+| 80 | 449 | 37.7 |
+| 80+ | 475 | 37.7 |
+| 85 | 492 | 39.5 |
+| 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
 
 ### Prototype Amber
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -320,9 +478,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | HP% |
+| :--- | :--- | :--- |
+| 60 | 327 | 30.4 |
+| 60+ | 353 | 30.4 |
+| 65 | 370 | 32.3 |
+| 70 | 388 | 34.1 |
+| 70+ | 414 | 34.1 |
+| 75 | 431 | 35.9 |
+| 80 | 449 | 37.7 |
+| 80+ | 475 | 37.7 |
+| 85 | 492 | 39.5 |
+| 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
 
 ### Favonius Codex
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -355,9 +532,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 327 | 33.8 |
+| 60+ | 353 | 33.8 |
+| 65 | 370 | 35.9 |
+| 70 | 388 | 37.9 |
+| 70+ | 414 | 37.9 |
+| 75 | 431 | 39.9 |
+| 80 | 449 | 41.9 |
+| 80+ | 475 | 41.9 |
+| 85 | 492 | 43.9 |
+| 90 | 510 | 45.9 |
+{% endtab %}
+{% endtabs %}
 
 ### Blackcliff Agate
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -390,9 +586,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT DMG% |
+| :--- | :--- | :--- |
+| 60 | 327 | 40.6 |
+| 60+ | 353 | 40.6 |
+| 65 | 370 | 43 |
+| 70 | 388 | 45.4 |
+| 70+ | 414 | 45.4 |
+| 75 | 431 | 47.9 |
+| 80 | 449 | 50.3 |
+| 80+ | 475 | 50.3 |
+| 85 | 492 | 52.7 |
+| 90 | 510 | 55.1 |
+{% endtab %}
+{% endtabs %}
 
 ### Eye of Perception
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -425,9 +640,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
+{% endtab %}
+{% endtabs %}
 
 ### Sacrificial Fragments
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -460,11 +694,30 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 293 | 162 |
+| 60+ | 319 | 162 |
+| 65 | 333 | 172 |
+| 70 | 347 | 182 |
+| 70+ | 373 | 182 |
+| 75 | 387 | 191 |
+| 80 | 401 | 201 |
+| 80+ | 427 | 201 |
+| 85 | 440 | 211 |
+| 90 | 454 | 221 |
+{% endtab %}
+{% endtabs %}
 
 ## 3 Stars
 
 ### Twin Nephrite
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -496,9 +749,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 292 | 11.5 |
+| 60+ | 311 | 11.5 |
+| 65 | 327 | 12.2 |
+| 70 | 344 | 12.9 |
+| 70+ | 363 | 12.9 |
+| 75 | 380 | 13.6 |
+| 80 | 396 | 14.2 |
+| 80+ | 415 | 14.2 |
+| 85 | 432 | 14.9 |
+| 90 | 448 | 15.6 |
+{% endtab %}
+{% endtabs %}
 
 ### Emerald Orb
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -530,9 +802,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 292 | 69 |
+| 60+ | 311 | 69 |
+| 65 | 327 | 73 |
+| 70 | 344 | 77 |
+| 70+ | 363 | 77 |
+| 75 | 380 | 81 |
+| 80 | 396 | 85 |
+| 80+ | 415 | 85 |
+| 85 | 432 | 90 |
+| 90 | 448 | 94 |
+{% endtab %}
+{% endtabs %}
 
 ### Thrilling Tales of Dragon Slayers
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -565,9 +856,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | HP% |
+| :--- | :--- | :--- |
+| 60 | 263 | 25.9 |
+| 60+ | 282 | 25.9 |
+| 65 | 296 | 27.5 |
+| 70 | 309 | 29 |
+| 70+ | 329 | 29 |
+| 75 | 342 | 30.5 |
+| 80 | 355 | 32.1 |
+| 80+ | 375 | 32.1 |
+| 85 | 388 | 33.6 |
+| 90 | 401 | 35.2 |
+{% endtab %}
+{% endtabs %}
 
 ### Otherworldly Story
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -599,9 +909,28 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 263 | 28.8 |
+| 60+ | 282 | 28.8 |
+| 65 | 296 | 30.5 |
+| 70 | 309 | 32.2 |
+| 70+ | 329 | 32.2 |
+| 75 | 342 | 33.9 |
+| 80 | 355 | 35.6 |
+| 80+ | 375 | 35.6 |
+| 85 | 388 | 37.3 |
+| 90 | 401 | 39 |
+{% endtab %}
+{% endtabs %}
 
 ### Magic Guide
 
+{% tabs %}
+{% tab title="Description" %}
 <table>
   <thead>
     <tr>
@@ -632,6 +961,23 @@
     </tr>
   </tbody>
 </table>
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 234 | 138 |
+| 60+ | 253 | 138 |
+| 65 | 264 | 146 |
+| 70 | 274 | 154 |
+| 70+ | 294 | 154 |
+| 75 | 304 | 163 |
+| 80 | 314 | 171 |
+| 80+ | 334 | 171 |
+| 85 | 344 | 179 |
+| 90 | 354 | 187 |
+{% endtab %}
+{% endtabs %}
 
 ## Catalyst Comparison
 
@@ -645,9 +991,9 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 
 ## External Links
 
+* [**Honey Hunter**](https://genshin.honeyhunterworld.com/catalyst/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Catalysts)
 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons/catalysts.md" %}
-
