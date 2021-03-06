@@ -112,7 +112,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### **Hydropathic**
 
 When a **Rain Sword** is shattered or when its duration expires, it regenerates the current character’s HP based on 6% of Xingqiu’s Max HP.
