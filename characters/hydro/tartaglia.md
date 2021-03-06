@@ -163,7 +163,7 @@ Performs a different attack depending on the stance in which it is cast.
 Increases your own party member’s Normal Attack Level by 1.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 #### Never Ending
 
 Extends Riptide duration by 8s.
