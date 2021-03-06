@@ -142,7 +142,7 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional "Suspicious" dish of the same type.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Flutter By
 
 When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party \(excluding Hu Tao herself\) will have their CRIT Rate increased by 12% for 8s.
