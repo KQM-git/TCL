@@ -135,7 +135,7 @@ Decreases swimming Stamina consumption for your own party members by 20%
 * Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Retribution
 
 Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
