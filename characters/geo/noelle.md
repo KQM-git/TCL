@@ -115,7 +115,7 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 * When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Devotion
 
 When Noelle is in the party but not on field, this ability triggers automatically when you active character’s HP falls below 30%.
