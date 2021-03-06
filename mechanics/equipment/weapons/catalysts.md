@@ -1,6 +1,8 @@
 # Catalysts
 
-{% hint style="info" %} Data on catalysts will be added soon. {% endhint %}
+{% hint style="info" %}
+Data on catalysts will be added soon.
+{% endhint %}
 
 ## Catalyst Comparison
 

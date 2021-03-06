@@ -61,7 +61,7 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 | **EM** | The character's total Elemental Mastery. |
 | **ReactionBonus** | Reaction damage bonuses from the Crimson Witch 4-piece set and from Mona's C1 \(for Vaporize\). |
 
-## Evilsoother
+## Other Bonus
 
 ![](https://lh4.googleusercontent.com/jUt7AhNKkro5XfTSG3V8XfXvOTFV1_yoQpwPBbz0dkGaC8QiazdbnaHtYw6WHT-E6YfSKSspwGeL5lMK_qCe9xG6hiOI6m9fiJVS2A2zUWs_lV0KIOYoaQI4EdaIn98gOeBSiCU)
 

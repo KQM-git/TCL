@@ -71,3 +71,4 @@ Rough eyeballing based on the hp bar seems to be 20-25% damage: [https://cdn.dis
 * Pulling target to the ground using Gale Blade rather than launching them results in similar damage applied faster.
 * If choosing to launch target for cc reasons then make sure that its sent straight up so that it doesn't arc in order to maintain high damage.
 * Also first damage based on target max hp in game?
+

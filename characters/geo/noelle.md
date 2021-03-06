@@ -69,15 +69,15 @@ Summon a shield that deals damage in a small radius around Noelle.
   * 150% DMG Absorption Efficiency against all damage.
   * Can trigger Crystallize when hitting a target with a element applied to them.
 
-| Type | Talent 6% |
-| :--- | :--- |
+| Type | Talent 6% |  |
+| :--- | :--- | :--- |
 | Base DMG | 168%Def | 24 sec |
-| Healing | 29.79%Def + 163 |
-| Healing chance | 55% |
-| Shield Scaling | 224%Def + 1219 |
-| Duration | 12 sec |
-| Cooldown | 24 sec |
-| GU | 2 |
+| Healing | 29.79%Def + 163 |  |
+| Healing chance | 55% |  |
+| Shield Scaling | 224%Def + 1219 |  |
+| Duration | 12 sec |  |
+| Cooldown | 24 sec |  |
+| GU | 2 |  |
 
 * The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
 {% endtab %}
@@ -261,3 +261,4 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/noelle.md" %}
+
