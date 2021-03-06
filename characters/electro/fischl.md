@@ -112,7 +112,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Stellar Predator
 
 When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
