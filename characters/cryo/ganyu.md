@@ -121,7 +121,7 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 Refunds 15% of the ore used when crafting Bow-type weapons.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Undivided Heart
 
 After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Arrows** and their resulting bloom effects is increased by 20% for 5s.
