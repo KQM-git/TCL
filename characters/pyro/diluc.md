@@ -98,7 +98,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 Refunds 15% of the ore used when crafting Claymore-type weapons.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 #### Relentless
 
 Diluc's Charged Attack stamina cost is decreased by 50%, and its duration is increased by 3s.
