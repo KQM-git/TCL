@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_hydro.png) Barbara
 
-![](../../.gitbook/assets/barbara.png)
+![](../../.gitbook/assets/character_barbara_wish.png)
 
 ## **Base Stats**
 

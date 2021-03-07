@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_electro.png) Razor
 
-![](../../.gitbook/assets/razor.png)
+![](../../.gitbook/assets/character_razor_wish.png)
 
 ## **Base Stats**
 

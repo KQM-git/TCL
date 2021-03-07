@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
 
-![](../../.gitbook/assets/hu-tao.png)
+![](../../.gitbook/assets/character_hu_tao_wish.png)
 
 ## **Base Stats**
 

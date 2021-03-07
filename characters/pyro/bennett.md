@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Bennett
 
-![](../../.gitbook/assets/bennett.png)
+![](../../.gitbook/assets/character_bennett_wish.png)
 
 ## **Base Stats**
 

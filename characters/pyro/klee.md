@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Klee
 
-![](../../.gitbook/assets/klee.png)
+![](../../.gitbook/assets/character_klee_wish.png)
 
 ## **Base Stats**
 

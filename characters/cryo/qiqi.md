@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_cryo.png) Qiqi
 
-![](../../.gitbook/assets/qiqi.png)
+![](../../.gitbook/assets/character_qiqi_wish.png)
 
 ## Base Stats
 

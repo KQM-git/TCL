@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_pyro.png) Xiangling
 
-![](../../.gitbook/assets/xiangling.png)
+![](../../.gitbook/assets/character_xiangling_wish.png)
 
 ## Base Stats
 

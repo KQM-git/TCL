@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_cryo.png) Diona
 
-![](../../.gitbook/assets/diona.png)
+![](../../.gitbook/assets/character_diona_wish.png)
 
 ## **Base Stats**
 

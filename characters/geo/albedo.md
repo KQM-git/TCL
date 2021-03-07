@@ -6,7 +6,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
 
-![](../../.gitbook/assets/albedo.png)
+![](../../.gitbook/assets/character_albedo_wish.png)
 
 ## **Base Stats**
 

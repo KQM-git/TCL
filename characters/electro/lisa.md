@@ -7,9 +7,9 @@ description: >-
 
 # Lisa
 
-## ![](.gitbook/assets/element_electro.png)Lisa
+## ![](https://github.com/Artesians/TCL/tree/f14f7d765c79a69f037fbc431afc1016f8f6511b/characters/electro/.gitbook/assets/element_electro.png)Lisa
 
-![](.gitbook/assets/lisa.png)
+![](../../.gitbook/assets/character_lisa_wish.png)
 
 ## Base Stats
 

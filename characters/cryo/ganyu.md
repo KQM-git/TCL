@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_cryo.png) Ganyu
 
-![](../../.gitbook/assets/ganyu.png)
+![](../../.gitbook/assets/character_ganyu_wish.png)
 
 ## **Base Stats**
 

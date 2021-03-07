@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_anemo.png) Jean
 
-![](../../.gitbook/assets/jean.png)
+![](../../.gitbook/assets/character_jean_wish.png)
 
 ## **Base Stats**
 
@@ -229,8 +229,6 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
 * [**Jean Mains Discord**](https://discord.gg/WPX5hTnPfM)
-
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), Poise
 
 **Evidence Vault:**
 

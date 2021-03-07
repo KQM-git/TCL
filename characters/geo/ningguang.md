@@ -6,7 +6,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Ningguang
 
-![](../../.gitbook/assets/ningguang.png)
+![](../../.gitbook/assets/character_ningguang_wish.png)
 
 ## **Base Stats**
 

@@ -6,9 +6,9 @@ description: >-
 
 # Sucrose
 
-## ![](../../.gitbook/assets/element_anemo.png)Sucrose  
+## ![](../../.gitbook/assets/element_anemo.png)Sucrose
 
-![](../../.gitbook/assets/sucrose.png)
+![](../../.gitbook/assets/character_sucrose_wish.png)
 
 ## Base Stats
 
@@ -46,7 +46,7 @@ Consumes 50 Stamina to deal AoE **Anemo** DMG.
 | GU | 1GU |  |  |
 
 **Plunge Damage**  
-Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG. 
+Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 
 | Type | Talent 6 DMG% | GU |
 | :--- | :--- | :--- |
@@ -56,7 +56,7 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% endtab %}
 
 {% tab title="Astable Anemohypostasis Creation-6308" %}
-Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG. 
+Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
 | Effect | Talent 6 DMG% | GU |
 | :--- | :--- | :--- |
@@ -65,9 +65,9 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
-Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG. 
+Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
 
-If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use. 
+If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
 
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
@@ -85,23 +85,23 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 {% tab title="Passive" %}
 ### Astable Invention
 
-When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product. 
+When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Catalyst Conversion 
+### Catalyst Conversion
 
-When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s. 
+When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Mollis Favonius 
+### Mollis Favonius
 
-When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s 
+When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s
 {% endtab %}
 {% endtabs %}
 
-## Constellations 
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
@@ -117,13 +117,13 @@ The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Flawless Alchemistress** 
+### **Flawless Alchemistress**
 
 Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Alchemania 
+### Alchemania
 
 Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
 {% endtab %}
@@ -135,9 +135,9 @@ Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Chaotic Entropy 
+### Chaotic Entropy
 
-If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration. 
+If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
 {% endtab %}
 {% endtabs %}
 
@@ -162,7 +162,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 **Stamina Cost: 50**
 
-### Plunge 
+### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -195,6 +195,4 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 **Evidence Vault**
 
 {% page-ref page="../../evidence/characters/untitled/sucrose.md" %}
-
-
 

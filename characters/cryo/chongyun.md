@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
-![](../../.gitbook/assets/chongyun.png)
+![](../../.gitbook/assets/character_chongyun_wish.png)
 
 ## **Base Stats**
 
@@ -219,8 +219,6 @@ Increases the level of Chonghua’s Layered Frost by 3.
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
 * [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
-
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
 

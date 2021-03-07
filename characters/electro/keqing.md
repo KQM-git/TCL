@@ -9,7 +9,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_electro.png) Keqing
 
-![](../../.gitbook/assets/keqing.png)
+![](../../.gitbook/assets/character_keqing_wish.png)
 
 ## **Base Stats**
 

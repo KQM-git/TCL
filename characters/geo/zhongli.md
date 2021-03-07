@@ -8,7 +8,7 @@ description: >-
 
 ## ![](https://github.com/Artesians/TCL/tree/b3cddcb947674e2d0e460b9ec106c61887df1f3b/.gitbook/assets/element_geo.png) ![](../../.gitbook/assets/element_geo%20%281%29.png) Zhongli
 
-![](../../.gitbook/assets/zhongli.png)
+![](../../.gitbook/assets/character_zhongli_wish.png)
 
 ## **Base Stats**
 

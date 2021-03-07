@@ -6,7 +6,7 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 ## ![](../../.gitbook/assets/element_pyro.png)Diluc
 
-![](../../.gitbook/assets/diluc.png)
+![](../../.gitbook/assets/character_diluc_wish.png)
 
 ## **Base Stats**
 

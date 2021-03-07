@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Noelle
 
-![](../../.gitbook/assets/noelle.png)
+![](../../.gitbook/assets/character_noelle_wish.png)
 
 ## **Base Stats**
 

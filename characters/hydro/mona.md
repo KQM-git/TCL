@@ -13,7 +13,7 @@ Boesik\#3192 has a [comprehensive guide](https://docs.google.com/document/d/1pXl
 
 ## ![](../../.gitbook/assets/element_hydro.png) Mona
 
-![](../../.gitbook/assets/mona.png)
+![](../../.gitbook/assets/character_mona_wish.png)
 
 ## **Base Stats**
 
