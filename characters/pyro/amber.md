@@ -1,13 +1,14 @@
 ---
 description: >-
-  Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.
+  Always energetic and full of life, Amber's the best - albeit only - Outrider
+  of the Knights of Favonius.
 ---
 
 # Amber
 
 ## ![](../../.gitbook/assets/element_pyro.png) Amber
 
-![](../../.gitbook/assets/amber.png)
+![](../../.gitbook/assets/character_amber_wish.png)
 
 ## **Base Stats**
 
@@ -78,12 +79,11 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 | Inherited HP | 57.9% |
 | Duration | 8s |
 | Cooldown | 15s |
-| Particles | 3~4 (1:9) |
+| Particles | 3~4 \(1:9\) |
 | GU | 2B |
 {% endtab %}
 
 {% tab title="Fiery Rain" %}
-
 Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
 * Does 18 waves total over 2 seconds in the center of the Aoe.
@@ -99,7 +99,6 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Duration | 2s |
 | CD | 12s |
 | Energy Cost | 40 |
-
 {% endtab %}
 {% endtabs %}
 
@@ -109,12 +108,11 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 {% tab title="Passive" %}
 ## Gliding Champion
 
-Decreases gliding Stamina consumption for your own party members by 20%.
-Not stackable with Passive Talents that provide the exact same effects. 
+Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## Every Arrow Finds Its Target 
+## Every Arrow Finds Its Target
 
 Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.
 {% endtab %}
@@ -176,48 +174,44 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 {% tab title="Sharpshooter" %}
 ### Normal Attacks
 
-|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
-|------------------------|------|------|------|------|------|------|
-|1-Hit DMG               |52.50 |57.12 |61.74 |66.36 |71.40 |76.44 |
-|2-Hit DMG               |52.50 |57.12 |61.74 |66.36 |71.40 |76.44 |
-|3-Hit DMG               |67.50 |73.44 |79.38 |85.32 |91.80 |98.28 |
-|4-Hit DMG               |68.75 |74.80 |80.85 |86.90 |93.50 |100.10|
-|5-Hit DMG               |86.25 |93.84 |101.43|109.02|117.30|125.58|
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 52.50 | 57.12 | 61.74 | 66.36 | 71.40 | 76.44 |
+| 2-Hit DMG | 52.50 | 57.12 | 61.74 | 66.36 | 71.40 | 76.44 |
+| 3-Hit DMG | 67.50 | 73.44 | 79.38 | 85.32 | 91.80 | 98.28 |
+| 4-Hit DMG | 68.75 | 74.80 | 80.85 | 86.90 | 93.50 | 100.10 |
+| 5-Hit DMG | 86.25 | 93.84 | 101.43 | 109.02 | 117.30 | 125.58 |
 
 ### Aimed Shot
 
-|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
-|------------------------|------|------|------|------|------|------|
-|Aimed Shot              |63.75 |69.36 |74.97 |80.58 |86.70 |92.82 |
-|Fully-Charged Aimed Shot|173.60|186   |198.40|210.80|223.20|235.60|
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.70 | 92.82 |
+| Fully-Charged Aimed Shot | 173.60 | 186 | 198.40 | 210.80 | 223.20 | 235.60 |
 
 ### Plunge
 
-|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
-|------------------------|------|------|------|------|------|------|
-|Plunge DMG              |82.60 |89.87 |97.14 |104.41|112.34|120.27|
-|Low Plunge DMG          |165.17|179.70|194.23|208.77|224.62|240.48|
-|High Plunge DMG         |206.30|224.45|242.61|260.76|280.57|300.37|
-
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
-
-                         |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
-|------------------------|------|------|------|------|------|------|------|------|
-|Inherited HP            |57.90 |62.04 |66.18 |70.31 |74.45 |78.58 |82.72 |87.89 |
-|Explosion DMG           |172.48|184.80|197.12|209.44|221.76|234.08|246.40|261.80|
+| Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Inherited HP | 57.90 | 62.04 | 66.18 | 70.31 | 74.45 | 78.58 | 82.72 | 87.89 |
+| Explosion DMG | 172.48 | 184.80 | 197.12 | 209.44 | 221.76 | 234.08 | 246.40 | 261.80 |
 
 **Cooldown**: 15ss
-
 {% endtab %}
 
 {% tab title="Fiery Rain" %}
-
-|FIELD1                  |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
-|------------------------|------|------|------|------|------|------|------|------|
-|Fiery Rain DMG Per Wave |39.31 |42.12 |44.93 |47.74 |50.54 |53.35 |56.16 |59.67 |
-|Total Fiery Rain DMG    |707.62|758.16|808.70|859.25|909.79|960.34|1010.88|1074.06|
+| FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Fiery Rain DMG Per Wave | 39.31 | 42.12 | 44.93 | 47.74 | 50.54 | 53.35 | 56.16 | 59.67 |
+| Total Fiery Rain DMG | 707.62 | 758.16 | 808.70 | 859.25 | 909.79 | 960.34 | 1010.88 | 1074.06 |
 
 **Energy Cost**: 40
 
@@ -231,8 +225,7 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Amber)
 
-
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), [ICD](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application)
 
-
 **Evidence Vault:**
+
