@@ -258,7 +258,5 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ganyu)
 * [**Ganyu Mains Discord**](https://discord.gg/uV4uaBm8aS)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 

@@ -222,7 +222,5 @@ The meteorite created by Starfell Sword lasts 10s longer.
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
-
 **Evidence Vault:**
 

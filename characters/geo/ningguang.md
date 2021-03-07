@@ -203,8 +203,6 @@ When Starshatter is used, Ningguang gains 7 **Star Jades**.
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ningguang)
 * [**Ningguang Mains Discord**](https://discord.gg/qrjeEyejsd)
 
-**Tags:** [Field Buffs](https://library.keqingmains.com/mechanics/combat/field-buffs), [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/ningguang.md" %}

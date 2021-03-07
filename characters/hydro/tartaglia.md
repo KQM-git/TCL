@@ -320,8 +320,6 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Tartaglia)
 * [**Childe Mains Discord**](https://discord.gg/Childe)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}

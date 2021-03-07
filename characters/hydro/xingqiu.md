@@ -233,7 +233,5 @@ Energy regeneration is not affected by Energy Recharge.
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xingqiu)
 * [**Xingqiu Mains Discord**](https://discord.gg/5MKsJyhkQv)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 

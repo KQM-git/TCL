@@ -256,8 +256,6 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Noelle)
 * [**Noelle Mains Discord**](https://discord.gg/kvft4TKFet)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/noelle.md" %}

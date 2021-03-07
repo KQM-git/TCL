@@ -225,7 +225,5 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Amber)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), [ICD](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application)
-
 **Evidence Vault:**
 

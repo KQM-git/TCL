@@ -247,8 +247,6 @@ When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Zhongli)
 * [**Zhongli Mains Discord**](https://discord.gg/qrjeEyejsd)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/zhongli.md" %}

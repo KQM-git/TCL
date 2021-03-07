@@ -214,7 +214,5 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
 * [**Diluc Mains Discord**](https://discord.gg/af9MWyd)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 

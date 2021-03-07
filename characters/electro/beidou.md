@@ -274,8 +274,6 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
 * [**Beidou Mains Discord**](https://discord.gg/qrjeEyejsd)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/beidou.md" %}

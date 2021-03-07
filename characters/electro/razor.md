@@ -237,8 +237,6 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Razor)
 * [**Razor Mains Discord**](https://discord.gg/6qGZNQkWBX)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/razor.md" %}

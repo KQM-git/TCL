@@ -237,7 +237,5 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diona)
 * [**Diona Mains Discord**](https://discord.gg/JkeJWTtzGT)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 

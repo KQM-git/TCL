@@ -221,8 +221,6 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Klee)
 * [**Klee Mains Discord**](https://discord.gg/NwYDDrfKZU)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/klee.md" %}

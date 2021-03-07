@@ -322,8 +322,6 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
 * [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/fischl.md" %}

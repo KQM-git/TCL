@@ -217,8 +217,6 @@ When Barbara is in the party but not on the field, and one of your own party mem
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Barbara)
 * [**Barbara Mains Discord**](https://discord.gg/6vVQcsrAgN)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/barbara.md" %}
