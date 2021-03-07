@@ -43,7 +43,7 @@
   * [Tartaglia](characters/hydro/tartaglia.md)
   * [Xingqiu](characters/hydro/xingqiu.md)
 * [Pyro](characters/pyro/README.md)
-  * [Amber](evidence/characters/pyro/amber.md)
+  * [Amber](characters/pyro/amber.md)
   * [Bennett](characters/pyro/bennett.md)
   * [Diluc](characters/pyro/diluc.md)
   * [Hu Tao](characters/pyro/hu-tao.md)
