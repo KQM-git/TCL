@@ -232,6 +232,18 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% endtab %}
 {% endtabs %}
 
+## Media
+
+### Animation Cancels
+
+{% tabs %}
+{% tab title="TCF" %}
+**Thunder Clap Flash**
+
+{% embed url="https://imgur.com/a/cvU3lCQ" caption="ECDE" %}
+{% endtab %}
+{% endtabs %}
+
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
