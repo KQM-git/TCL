@@ -37,11 +37,11 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 **Subcarry** = Characters outside of the main carry that deal damage, usually through their skills/burst
 
 * **Burst Subcarry** = A character that deals their damage through their burst
-* **Reaction Subcarry/Enabler** = A character that applies elements, usually by deploying a skill that works even as the character is off-field, to enable reactions
+* **Reaction Subcarry/Enabler** = A character that deploys a skill that works even when the character is off-field. Usually they apply elements to "enable" reactions.
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
-* **Cleanser** = A character that has a skill/burst that applies an element onto
+* **Cleanser** = A character that has a skill/burst that applies an element onto themselves to clease off leyline disorders.
 * **Healers/Shielders** = As the name states, characters that increase the survivability of your other characters by providing healing or shields
 * **VV** = An anemo character with 4 set VV on to reduce the elemental res of the enemy
 
