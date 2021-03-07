@@ -197,35 +197,13 @@
 
 {% tabs %}
 {% tab title="Description" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attribute</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Frost Burial</td>
-      <td style="text-align:left">
-        <p><b>Frost Burial</b>
-        </p>
-        <p>Hitting an opponent with Normal and Charged Attacks has a <b>60/70/80/90/100</b>%
-          chance of forming and dropping an Everfrost Icicle above them, dealing <b>80/100/120/140/160</b>%
-          AoE ATK DMG. Opponents affected by Cryo are dealt <b>200/240/280/320/360</b>%
-          ATK DMG instead by the icicle. Can only occur once every 10s.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Base ATK</td>
-      <td style="text-align:left">42 - 510</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">ATK%</td>
-      <td style="text-align:left">9% - 41.3%</td>
-    </tr>
-  </tbody>
-</table>
+
+| Attribute | Description |
+| :--- | :--- |
+| Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
+| Base ATK | 42 - 510 |
+| ATK% | 9% - 41.3% |
+
 {% endtab %}
 
 {% tab title="Details" %}
@@ -248,34 +226,13 @@
 
 {% tabs %}
 {% tab title="Description" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Attribute</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Gilding</td>
-      <td style="text-align:left">
-        <p><b>Gilding</b>
-        </p>
-        <p>Using an Elemental Burst regenerates <b>4/4.5/5/5.5/6</b> Energy every 2s
-          for 6s. All party members will regenerate <b>4/4.5/5/5.5/6</b>% HP every
-          2s for this duration.</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Base ATK</td>
-      <td style="text-align:left">42 - 510</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">HP%</td>
-      <td style="text-align:left">9% - 41.3%</td>
-    </tr>
-  </tbody>
-</table>
+
+| Attribute | Description |
+| :--- | :--- |
+| Gilding | Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
+| Base ATK | 42 - 510 |
+| HP% | 9% - 41.3% |
+
 {% endtab %}
 
 {% tab title="Details" %}
