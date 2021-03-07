@@ -246,7 +246,7 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Keqing)
 * [**Keqing Mains Discord**](https://discord.gg/Keqing)
 
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory), Shields
