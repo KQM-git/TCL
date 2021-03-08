@@ -15,5 +15,7 @@ Any source of movement speed boost will extend the window for inputs. This inclu
 
 Please note that this tech is easiest to perform on Claymore users. It is possible to execute on 1H Sword and Polearm users, but difficult to do so.
 
-[https://youtu.be/llgoPMBGxg8](https://youtu.be/llgoPMBGxg8)
+{% embed url="https://www.youtube.com/watch?v=llgoPMBGxg8" %}
+
+
 
