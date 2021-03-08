@@ -143,6 +143,8 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **P** = Plunge
 
+\*\*\*\*[**TCF** = ThunderClap Flash \(Keqing Tech\)](https://library.keqingmains.com/characters/electro/keqing#animation-cancels)
+
 **Q** = Elemental Burst
 
 **W** = Walk
