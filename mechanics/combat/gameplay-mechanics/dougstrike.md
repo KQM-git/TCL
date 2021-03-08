@@ -1,5 +1,5 @@
 ---
-description: Tech
+description: Combo Tech
 ---
 
 # DougStrike
@@ -14,6 +14,8 @@ When successful, the DashJump will cause you to gain additional vertical clearan
 Any source of movement speed boost will extend the window for inputs. This includes Diona shield, Ameno resonance, Jean C2, and some weapon effects. Sequence of events is: Hitlag generating action &gt; Hitlag occurring &gt; \(Dash &gt; Jump\) &gt; Normal attack
 
 Please note that this tech is easiest to perform on Claymore users. It is possible to execute on 1H Sword and Polearm users, but difficult to do so.
+
+_Popularized by the name Dragon Strike, players were unfamiliar with the original form derived from the japanese pronunciation: Dougragon Strike, or DougStrike for short. - HailCorporate\#2970_
 
 {% embed url="https://www.youtube.com/watch?v=llgoPMBGxg8" %}
 
