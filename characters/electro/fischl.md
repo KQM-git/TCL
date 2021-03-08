@@ -117,83 +117,35 @@ When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 
 When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Talent 6%</th>
-      <th style="text-align:left">Particles</th>
-      <th style="text-align:left">GU</th>
-      <th style="text-align:left">
-        <p>Damage</p>
-        <p>Type</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Stellar Predator</td>
-      <td style="text-align:left">265.09%</td>
-      <td style="text-align:left">0</td>
-      <td style="text-align:left">2U</td>
-      <td style="text-align:left">Charged Attack</td>
-    </tr>
-  </tbody>
-</table>
+| Effect | Talent 6% |
+| :--- | :--- |
+| Stellar Predator | 265.09% |
+| Particles | 0 |
+| GU | 2B |
+| Damage Type | Charged Attack |
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-\#\#\# Undone Be Thy Sinful Hex \\(previously known as \_Lightning Smite\_\\) When your current active character triggers an Electro-related Elemental Reaction while \*\*Oz\*\* is on the field, \*\*Oz\*\* will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+### Undone Be Thy Sinful Hex 
+\(previously known as **Lightning Smite**\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Talent 6%</th>
-      <th style="text-align:left">Cooldown</th>
-      <th style="text-align:left">
-        <p>Damage</p>
-        <p>Type</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Undone Be Thy Sinful Hex</td>
-      <td style="text-align:left">80%</td>
-      <td style="text-align:left">1s</td>
-      <td style="text-align:left">Elemental Skill</td>
-    </tr>
-  </tbody>
-</table>
+| Type | Talent % | Cooldown | Damage Type |
+| :--- | :--- | :--- | :--- |
+| Undone Be Thy Sinful Hex | 80% | 1s | Elemental Skill |
 {% endtab %}
 {% endtabs %}
 
-\#\# Constellations
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-\#\# Gaze of the Deep When \*\*Oz\*\* is not on the field, and Fischl performs a Normal Attack against an enemy, \*\*Oz\*\* fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
+## Gaze of the Deep
+When**Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Type</th>
-      <th style="text-align:left">Talent 6%</th>
-      <th style="text-align:left">
-        <p>Damage</p>
-        <p>Type</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Gaze of the Deep</td>
-      <td style="text-align:left">22%</td>
-      <td style="text-align:left">Normal Attack</td>
-    </tr>
-  </tbody>
-</table>
+
+| Type | Talent % | Damage Type |
+| :--- | :--- | :--- |
+| Gaze of the Deep | 22% | Normal Attack |
 
 * This is an echo effect.
 {% endtab %}
