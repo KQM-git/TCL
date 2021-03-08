@@ -128,6 +128,10 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **D** = Dash
 
+**DS** = DougStrike
+
+* When a unit hits -&gt; dashes -&gt; jumps -&gt; plunges
+
 **E** = Elemental Skill
 
 **J** = Jump

@@ -40,7 +40,6 @@
 | CRIT Rate% | 7.2% - 33.1% |
 
 * Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated
-
 {% endtab %}
 
 {% tab title="Details" %}
@@ -70,7 +69,6 @@
 | ATK% | 10.8% - 49.6% |
 
 * Xingqiu's Rain Swords do not count as a shield for Memory of Dust
-
 {% endtab %}
 
 {% tab title="Details" %}
@@ -203,13 +201,11 @@
 
 {% tabs %}
 {% tab title="Description" %}
-
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-
 {% endtab %}
 
 {% tab title="Details" %}
@@ -232,13 +228,11 @@
 
 {% tabs %}
 {% tab title="Description" %}
-
 | Attribute | Description |
 | :--- | :--- |
 | Gilding | Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
 | Base ATK | 42 - 510 |
 | HP% | 9% - 41.3% |
-
 {% endtab %}
 
 {% tab title="Details" %}
@@ -520,3 +514,4 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons/catalysts.md" %}
+
