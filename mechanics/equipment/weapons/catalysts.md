@@ -38,6 +38,9 @@
 | Boundless Blessing | Increases Movement SPD by 10%. When in battle, gain an **8/10/12/14/16**% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat. |
 | Base ATK | 46 - 608 |
 | CRIT Rate% | 7.2% - 33.1% |
+
+* Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated
+
 {% endtab %}
 
 {% tab title="Details" %}
@@ -65,6 +68,9 @@
 | Golden Majesty | Increases Shield Strength by **20/25/30/35/40**%. Scoring hits on opponents increases ATK by **4/5/6/7/8**% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%. |
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
+
+* Xingqiu's Rain Swords do not count as a shield for Memory of Dust
+
 {% endtab %}
 
 {% tab title="Details" %}
