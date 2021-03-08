@@ -120,7 +120,7 @@ For more information see our page on [poise](mechanics/combat/poise.md).
 
 **Vulnerability** = A modifier that affects the amount of poise damage taken from an attack
 
-## Combo Terms
+## Combo Tech Terms
 
 Terms used to describe combos, they’re stitched together to describe the string of inputs used to execute a combo.
 
