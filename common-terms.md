@@ -128,7 +128,7 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **D** = Dash
 
-**DS** = DougStrike
+\*\*\*\*[**DS** = DougStrike](https://app.gitbook.com/@artesians/s/genshin/mechanics/combat/gameplay-mechanics/dougstrike)
 
 * When a unit hits -&gt; dashes -&gt; jumps -&gt; plunges
 
