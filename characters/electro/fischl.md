@@ -126,7 +126,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Undone Be Thy Sinful Hex 
+### Undone Be Thy Sinful Hex
+
 \(previously known as **Lightning Smite**\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 | Type | Talent % | Cooldown | Damage Type |
@@ -140,8 +141,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% tabs %}
 {% tab title="C1" %}
 ## Gaze of the Deep
-When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
+When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
 | Type | Talent % | Damage Type |
 | :--- | :--- | :--- |
@@ -218,65 +219,6 @@ When Oz triggers Overload or Superconduct with his Normal Attack, he generates a
 _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
 
 {% embed url="https://www.youtube.com/embed/9I\_NCFg-Cdw" caption="Kleeful\'s Turbo Tutorial" %}
-
-## Full Talent Values
-
-{% tabs %}
-{% tab title="Bolts of Downfall" %}
-### Normal Attacks
-
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.13 | 69.77 | 75.41 | 81.05 | 87.21 | 93.37 |
-| 2-Hit DMG | 68 | 73.98 | 79.97 | 85.95 | 92.48 | 99.01 |
-| 3-Hit DMG | 84.50 | 91.94 | 99.37 | 106.81 | 114.92 | 123.03 |
-| 4-Hit DMG | 83.88 | 91.26 | 98.64 | 106.02 | 114.07 | 122.12 |
-| 5-Hit DMG | 104.75 | 113.97 | 123.19 | 132.40 | 142.46 | 152.52 |
-
-### Aimed Shot
-
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.70 | 92.82 |
-| Fully-Charged Aimed Shot | 173.60 | 186 | 198.40 | 210.80 | 223.20 | 235.60 |
-
-### Plunge
-
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
-{% endtab %}
-
-{% tab title="Nightrider" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Oz's ATK DMG | 124.32 | 133.20 | 142.08 | 150.96 | 159.84 | 168.72 | 177.60 | 188.70 |
-| Summoning DMG | 161.62 | 173.16 | 184.70 | 196.25 | 207.79 | 219.34 | 230.88 | 245.31 |
-
-**Duration**: 10s
-
-**Cooldown**: 15s
-{% endtab %}
-
-{% tab title="Midnight Phantasmagoria" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Falling Thunder DMG | 291.20 | 312 | 332.80 | 353.60 | 374.40 | 395.20 | 416 | 442 |
-
-**Energy Cost**: 60
-
-**Cooldown**: 15s
-{% endtab %}
-{% endtabs %}
-
-## **External Links**
-
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
-* [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
-
-**Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/fischl.md" %}
 

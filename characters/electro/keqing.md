@@ -82,6 +82,8 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 | CD | 7.5s |  |  |
 | GU | 2B |  |  |
 | Particles | 2~3 \(9:1\) |  |  |
+
+* Keqing's second **Stellar Restoration** cast is buffered during her dash.
 {% endtab %}
 
 {% tab title="Starward Sword" %}
