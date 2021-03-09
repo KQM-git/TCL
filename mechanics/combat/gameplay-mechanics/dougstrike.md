@@ -21,7 +21,7 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 {% tabs %}
 {% tab title="Claymore" %}
-{% embed url="https://imgur.com/a/LZtk0Op" %}
+{% embed url="https://www.youtube.com/watch?v=llgoPMBGxg8" %}
 {% endtab %}
 
 {% tab title="Polearm" %}
