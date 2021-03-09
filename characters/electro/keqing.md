@@ -243,6 +243,8 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 **Thunder Clap Flash**
 
 {% embed url="https://imgur.com/a/cvU3lCQ" caption="E1 > N1C > D > E2" %}
+
+In order to replicate the Thunderclap Flash, you need to input a dash after Keqing's Charged Attack detonates the **Stiletto**, and recast **Stellar Restoration**. The best timing is roughly when the Charged Attack raises Keqing's sword to head level.
 {% endtab %}
 {% endtabs %}
 

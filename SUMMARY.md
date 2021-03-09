@@ -62,7 +62,7 @@
   * [Enemy Shields](mechanics/combat/enemy-shields.md)
   * [Field Buffs](mechanics/combat/field-buffs.md)
   * [Gameplay Mechanics](mechanics/combat/gameplay-mechanics/README.md)
-    * [DougStrike](mechanics/combat/gameplay-mechanics/dougstrike.md)
+    * [Dragon Strike](mechanics/combat/gameplay-mechanics/dougstrike.md)
   * [Damage Formula](mechanics/combat/damage-formula.md)
 * [Equipment](mechanics/equipment/README.md)
   * [Weapons](mechanics/equipment/weapons/README.md)
