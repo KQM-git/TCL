@@ -247,8 +247,18 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 In order to replicate the Thunderclap Flash, you need to input a dash after Keqing's Charged Attack detonates the **Stiletto**, and recast **Stellar Restoration**. The best timing is roughly when the Charged Attack raises Keqing's sword to head level.
 
 Furthermore, to actively make use of this combo, it requires Keqing to be paired with Xingqiu and use Thundering Fury \(4\) to avoid split damage issues.
+
+**TenTen's TCF Tutorial**
+
+{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" %}
+
+**Hail's Video on How to Practice TCF**
+
+{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## **External Links**
 
