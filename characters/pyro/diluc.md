@@ -211,7 +211,7 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 
 ### **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diluc)
 * [**Diluc Mains Discord**](https://discord.gg/af9MWyd)
 
 **Evidence Vault:**
