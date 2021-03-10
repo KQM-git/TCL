@@ -126,7 +126,7 @@ Swirled Auras have their own unique decay notation that only applies to them, wh
 | Anemo GU | **Swirled Aura GU** | Decay Notation | Decay Rate Conversion |
 | :--- | :--- | :--- | :--- |
 | 1GU | 2.25GU | 2.25S | 5.6s per S |
-| 2GU | 3.5GU | 3.5V | 4.5s per V |
+| 2GU | 3.25GU | 3.25V | 4.5s per V |
 
 The aura of the element getting swirled has no bearing on the gauge or decay rate of the swirled aura. However, you can extend the duration of a swirled aura by already having an aura of the same element on an enemy.
 
