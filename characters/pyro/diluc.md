@@ -34,7 +34,6 @@ Diluc performs up to 4 consecutive attacks.
 | 3-Hit | 143.63% | 115 | 209.42%/s |
 | 4-Hit | 194.75% | 181 | 197.61%/s |
 
-
 **Charged Attack**  
 Diluc consumes 40 stamina a second to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
 

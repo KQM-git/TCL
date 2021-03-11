@@ -240,7 +240,7 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 
 {% tabs %}
 {% tab title="TCF" %}
-**Thunder Clap Flash**
+**Thunder Clap Flash \(Patched as of 1.4, 3/11\)**
 
 {% embed url="https://imgur.com/a/cvU3lCQ" caption="E1 > N1C > D > E2" %}
 
