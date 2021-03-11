@@ -29,10 +29,11 @@ Diluc performs up to 4 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.38% |  |  |
-| 2-Hit | 127.38% |  |  |
-| 3-Hit | 143.63% |  |  |
-| 4-Hit | 194.75% |  |  |
+| 1-Hit | 130.38% | 24 | 252.35%/s |
+| 2-Hit | 127.38% | 77 | 200.85%/s |
+| 3-Hit | 143.63% | 115 | 209.42%/s |
+| 4-Hit | 194.75% | 181 | 197.61%/s |
+
 
 **Charged Attack**  
 Diluc consumes 40 stamina a second to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
@@ -58,9 +59,10 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) |  |  |
-| 2-Hit DMG | 136.64% |  | 1A | 1~2 \(3:1\) |  |  |
-| 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) |  |  |
+| 1-Hit DMG | 132.16% | 10s | 1A | 1~2 \(3:1\) | 45 |  |
+| 2-Hit DMG | 136.64% |  | 1A | 1~2 \(3:1\) | 52 |  |
+| 3-Hit DMG | 180.32% |  | 1A | 1~2 \(3:1\) | 81 |  |
+| N1-E-N1-E-N1-E-N1 | 970.64% |  |  |  | 257 | 226.6%/s |
 
 * The cooldown starts after the first cast.
 * Each cast is considered a unique Pyro source and they do not share an ICD.
@@ -83,7 +85,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Energy Cost | 40 |
 | GU | 1A |
 | Imbue | 1A |
-| Frames |  |
+| Frames | 145 |
 
 * Pyro infused autos have 1U worth of Pyro application.
 {% endtab %}
