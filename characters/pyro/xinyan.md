@@ -48,11 +48,11 @@ Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more
 Deal AoE Pyro Damage around Xinyan and summon a shield.
 
 * Shield strength scales with Xinyan’s current Def and how many targets were hit.
-* These numbers are with A1 in effect, it reduces the number of targets that needs to be hit by 1 and is effectively always online.
+* These numbers are with A2 in effect, it reduces the number of targets that needs to be hit by 1 and is effectively always online.
 * Hitting 0 opponents grants Shield Level 1: **Ad Lib**.
 * Hitting 1 opponents grants Shield Level 2: **Lead-In**.
 * Hitting 2 or more opponents grants Shield Level 3: **Rave**
-* **Rave** will also deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits the damage will stop if the shield breaks.
+* **Rave** will also deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
 
 | Effect | Talent 6% |
 | :--- | :--- |
