@@ -6,7 +6,7 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 ## ![](../../.gitbook/assets/element_cryo.png) Kaeya
 
-![](../../.gitbook/assets/character_kaeya_wish.png)
+![](https://github.com/Charlie-Zheng/KQM-TCL/tree/0252961644c3240eaf69c0bbf7032977e927071e/.gitbook/assets/character_kaeya_wish.png)
 
 ## **Base Stats**
 
@@ -24,7 +24,8 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 {% tabs %}
 {% tab title="Ceremonial Bladework" %}
-**Normal Attacks** Kaeya performs up to 5 rapid strikes.
+**Normal Attacks**  
+Kaeya performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -34,11 +35,12 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 | 4-Hit | 103% |  |  |
 | 5-Hit | 128.25% |  |  |
 
-**Charged Attack** Kaeya consumes 25 stamina to unleash 2 rapid strikes.
+**Charged Attack**  
+Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-|  |  |  |  |
+| N1C | 264.38% |  |  |
 
 **Plunge**
 
@@ -50,7 +52,8 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 {% endtab %}
 
 {% tab title="Frostgnaw" %}
-**Press** Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
+**Press**  
+Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -58,6 +61,11 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 | CD | 6s |
 | GU | 2B |
 | Particles | 4~5 \(1:1\) |
+| Frames | 58 |
+
+* **Frostgnaw** does not have any hitlag.
+* While casting **Frostgnaw**, Kaeya can start dashing on frame 29, and start casting **Glacial Waltz** on frame 52.
+* The cooldown of **Frostgnaw** starts on frame 28.
 {% endtab %}
 
 {% tab title="Glacial Waltz" %}
@@ -70,6 +78,11 @@ Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him
 | Duration | 8s |
 | Energy Cost | 60 |
 | GU | 1A |
+| Frames | 78 |
+
+* **Glacial Waltz** does not have any hitlag.
+* **Glacial Waltz** hits around 13 times while standing stationary.
+* The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
 {% endtab %}
 {% endtabs %}
 
@@ -91,7 +104,7 @@ Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.
 {% tab title="Ascension 4" %}
 ### Glacial Heart
 
-Opponents frozen by **Frostgnaw** will drop additional elemental particles. **Frostgnaw** may only produce a maximum of 2 additional elemental particles per use.
+Opponents frozen by **Frostgnaw** will drop additional Cryo elemental particles. **Frostgnaw** may only produce a maximum of 2 additional elemental particles per use.
 {% endtab %}
 {% endtabs %}
 
@@ -107,7 +120,7 @@ The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by
 {% tab title="C2" %}
 ### Never-Ending Performance
 
-Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+When one of your own party members defeats an opponent during **Glacial Waltz**'s duration, its duration is increased by 2.5s, up to a maximum of 15s.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -191,4 +204,3 @@ Increases the level of **Glacial Waltz** by 3.
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Kaeya)
-
