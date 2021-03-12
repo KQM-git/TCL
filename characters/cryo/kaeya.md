@@ -6,7 +6,7 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 ## ![](../../.gitbook/assets/element_cryo.png) Kaeya
 
-![](https://github.com/Charlie-Zheng/KQM-TCL/tree/0252961644c3240eaf69c0bbf7032977e927071e/.gitbook/assets/character_kaeya_wish.png)
+![](../../.gitbook/assets/character_kaeya_wish.png)
 
 ## **Base Stats**
 
