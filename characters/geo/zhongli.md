@@ -93,9 +93,10 @@ Zhongli channels for 2 seconds causing the following effects:
 | Press Cooldown | 4s |
 | Hold Cooldown | 12s |
 | Particles | 0~1 \(1:1\) |
-| GU |  |
-| Frames |  |
-| Motion Value |  |
+| Stele Summon GU | 2 |
+| GU | 1 |
+| Press Frames | 39 |
+| Hold Frames | 97 |
 {% endtab %}
 
 {% tab title="Planet Befall" %}
@@ -111,8 +112,8 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 | Petrification Duration | 3.6s \(scaling\) |
 | Cooldown | 12s |
 | Energy Cost | 40 |
-| GU |  |
-| Frames |  |
+| GU | 4 |
+| Frames | 140 |
 {% endtab %}
 {% endtabs %}
 
