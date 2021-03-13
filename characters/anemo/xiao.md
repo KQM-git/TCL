@@ -1,7 +1,7 @@
 ---
 description: >-
-  A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror of Demons"
-  or "Vigilant Yaksha."
+  A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons"
+  or "Vigilant Yaksha"
 ---
 
 # Xiao
@@ -12,70 +12,80 @@ description: >-
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Anemo DMG% |
+| Lv | Base HP | Base ATK | Base DEF | CRIT RATE % |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6090 | 112 | 463 | 12% |
-| 60+ | 6501 | 120 | 494 | 12% |
-| 70 | 7141 | 131 | 543 | 12% |
-| 70+ | 7552 | 139 | 574 | 18% |
-| 80 | 8192 | 151 | 623 | 18% |
-| 80+ | 8604 | 158 | 654 | 24% |
-| 90 | 9244 | 170 | 703 | 24% |
+| 60 | 8262 | 227 | 519 | 14.6 |
+| 60+ | 8866 | 243 | 556 | 14.6 |
+| 70 | 9744 | 267 | 612 | 14.6 |
+| 70+ | 10348 | 284 | 649 | 19.4 |
+| 80 | 11236 | 308 | 705 | 19.4 |
+| 80+ | 11840 | 325 | 743 | 24.2 |
+| 90 | 12736 | 349 | 799 | 24.2 |
 
 ## Attacks
 
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}
-**Normal Attack**  
-Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
+**Normal Attacks**  
+Xiao performs up to six consecutive spear strikes. 
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 46.85% |  |  |
-| 2-Hit | 42.86% |  |  |
-| 3-Hit | 53.83% |  |  |
-| 4-Hit | 67.08% |  |  |
-| GU | 1GU |  |  |
+| 1-Hit | 37.87% x2 \(75.74%\) |  |  |
+| 2-Hit | 78.29% |  |  |
+| 3-Hit | 94.26% |  |  |
+| 4-Hit | 51.79% x2 \(103.58%\) |  |  |
+| 5-Hit | 98.37% |  |  |
+| 6-Hit | 131.77% |  |  |
 
 **Charged Attack**  
-Consumes 50 Stamina to deal AoE **Anemo** DMG.
+Consumes 25 Stamina to perform an upward thrust. 
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 168.22% |  |  |
-| GU | 1GU |  |  |
+| Charged Attack | 166.5% |  |  |
+| N1C | 242.24% |  |  |
+| N3C | 414.79% |  |  |
 
-**Plunge Damage**  
-Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.   
+Xiao does not take DMG from performing Plunge Attacks
 
-| Type | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1GU |
-| Low Plunge DMG | 165.17% | 1GU |
-| High Plunge DMG | 206.3% | 1GU |
+| Plunge Type | Talent 6 DMG% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 118.94% |  |  |
+| Low Plunge DMG | 237.84% |  |  |
+| High Plunge DMG | 297.07% |  |  |
 {% endtab %}
 
-{% tab title="Lemniscatic Wind Cycling" %}
-Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
+{% tab title="Lemniscatic Wind Cycling " %}
+Xiao lunges forward, dealing Anemo DMG to opponents in his path.   
+Can be used mid-air.  
+Starts with 2 charges.
 
-| Effect | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Skill DMG | 295.68% | 1GU |
-| CD | 15s |  |
+| Type | Talent 6 DMG% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| Skill DMG | 353.92% |  |  |
+| CD | 10s |  |  |
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
-Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
+Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago. 
 
-If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
+**Yaksha's Mask**
 
-| Effect | Talent 6 DMG% |
+* Greatly increases Xiao's jumping ability.
+* Increases his attack AoE and attack DMG.
+* Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
+* Xiao will continuously lose HP during this state. 
+
+| Effect | Talent 6%  |
 | :--- | :--- |
-| Damage-Over-Time | 207.2% |
-| Additional Elemental DMG | 61.6% |
-| Duration | 6s |
-| CD | 20s |
-| Energy Cost | 80 |
+| Normal, Charged, and Plunge DMG bonus | 77% |
+| Life Drain | 2.5% Current HP\s |
+| Duration | 15s |
+| CD | 18s |
+| Energy Cost | 70 |
 {% endtab %}
 {% endtabs %}
 
@@ -83,21 +93,21 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 {% tabs %}
 {% tab title="Passive" %}
-### Astable Invention
+### Transcension: Gravity Defier 
 
-When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
+Decreases climbing Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects. 
 {% endtab %}
 
-{% tab title="Ascension 2" %}
-### Catalyst Conversion
+{% tab title="Ascension 1" %}
+### Conqueror of Evil: Tamer of Demons
 
-When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+While under the effects of Bane of All Evil, all DMG dealt by Xiao is increased by 5%. DMG is increased by an additional 5% for every 3s the ability persists. The maximum DMG Bonus is 25%
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Mollis Favonius
+### Dissolution Eon: Heaven Fall
 
-When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s
+Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%. This effect lasts for 7s and has a maximum of 3 stacks. Gaining a new stack refreshes the duration of this effect.
 {% endtab %}
 {% endtabs %}
 
@@ -105,92 +115,89 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 
 {% tabs %}
 {% tab title="C1" %}
-### Clustered Vaccum Field
+**Dissolution Eon: Destroyer of Worlds**
 
-**Astable Anemohypostasis Creation-6308** gains 1 additional charge.
+Increases Lemniscatic Wind Cycling's charged by 1. 
 {% endtab %}
 
 {% tab title="C2" %}
-### Beth: Unbound Form
+**Annihilation Eon: Blossom of Kaleidos** 
 
-The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
+When in the party and not on the field, Xiao's Energy Recharge is increased by 25%
 {% endtab %}
 
 {% tab title="C3" %}
-### **Flawless Alchemistress**
+**Conqueror of Evil: Wrath Deity** 
 
-Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
+Increases the level of Lemniscatic Wind Cycling by 3. 
 {% endtab %}
 
 {% tab title="C4" %}
-### Alchemania
+**Transcension: Extinction of Suffering**
 
-Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
+When Xiao's HP falls below 50%, he gains a 100% DEF Boost.
 {% endtab %}
 
 {% tab title="C5" %}
-### Caution: Standard Flask
+**Evolution Eon: Origin of Ignorance** 
 
-Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
+Increases the level of Bane of All Evil by 3. 
 {% endtab %}
 
 {% tab title="C6" %}
-### Chaotic Entropy
+**Conqueror of Evil: Guardian Yaksha** 
 
-If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
+While under the effect of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD. 
 {% endtab %}
 {% endtabs %}
 
 ## Full Talent Values
 
 {% tabs %}
-{% tab title="Wind Spirit Creation" %}
-### Normal Attacks
+{% tab title="Whirlwind Thrust" %}
+### **Normal Attacks**
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 46.85 | 50.2 | 53.54 | 56.89 | 60.24 | 63.58 |
-| 2-Hit DMG | 42.86 | 45.92 | 48.99 | 52.05 | 55.11 | 58.17 |
-| 3-Hit DMG | 53.83 | 57.67 | 61.52 | 65.36 | 69.21 | 73.05 |
-| 4-Hit DMG | 67.08 | 71.88 | 76.67 | 81.46 | 86.25 | 91.04 |
+| 1-Hit DMG \(x2\) | 37.87 | 40.69  | 43.51  | 46.32  | 49.14  | 51.96  |
+| 2- Hit DMG | 78.29 | 84.11 | 89.93 | 95.76 | 101.58 | 107.4 |
+| 3-Hit DMG | 94.26 | 101.27 | 108.28 | 115.29 | 122.3 | 129.31 |
+| 4-Hit DMG \(x2\) | 51.79 | 55.64 | 59.49 | 63.34 | 67.2 | 71.05 |
+| 5-Hit DMG | 98.37 | 105.69 | 113.01 | 120.32 | 127.64 | 134.96 |
+| 6-Hit DMG | 131.77 | 141.57 | 151.37 | 161.17 | 170.97 | 180.77 |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 168.22 | 180.24 | 192.26 | 204.27 | 216.29 | 228.3 |
+| Charged Attack DMG | 166.5 | 178.88 | 191.26 | 203.65 | 216.03 | 228.42 |
 
-**Stamina Cost: 50**
-
-### Plunge
+### Plunge Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG | 118.94 | 129.41 | 139.88 | 150.35 | 161.76 | 173.18 |
+| Low Plunge DMG | 237.84 | 258.77 | 279.7 | 300.63 | 323.46 | 346.29 |
+| High Plunge DMG | 297.07 | 323.21 | 349.36 | 375.5 | 404.24 | 432.54 |
 {% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
+{% tab title="Lemniscatic Wind Cycling" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% | 295.68 | 316.8 | 337.92 | 359.04 | 380.16 | 401.28 | 422.4 | 448.8 |
+| Skill DMG % | 353.92 | 379.2 | 404.48 | 429.76 | 455.04 | 480.32 | 505.6 | 537.2 |
 
-**Cooldown: 15s**
+**Cooldown:** 10s 
 {% endtab %}
 
-{% tab title="Forbidden Creation- Isomer 75/Type II" %}
+{% tab title="Bane of All Evil" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 207.2 | 222 | 236.8 | 251.6 | 266.4 | 281.2 | 296 | 314.5 |
-| Additional Elemental DMG | 61.6 | 66 | 70.4 | 74.8 | 79.2 | 83.6 | 88 | 93.5 |
+| Normal, Charged, Plunge Attack DMG Bonus | 77 | 81.55 | 86.1 | 90.65 | 95.2 | 99.75 | 104.3 | 108.85 |
+| Current HP% Drain per second | 2.5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+
+**Duration:** 15s  
+**Cooldown:** 18s  
+**Energy Cost:** 70
 {% endtab %}
 {% endtabs %}
-
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose#:~:text=Sucrose%20is%20a%20playable%20Anemo,of%20the%20Knights%20of%20Favonius.)
-* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
-
-**Evidence Vault**:
 
