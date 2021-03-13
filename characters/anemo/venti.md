@@ -31,28 +31,27 @@ Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
 | String | Talent 6 DMG% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 46.85% |  |  |
-| 2-Hit | 42.86% |  |  |
-| 3-Hit | 53.83% |  |  |
-| 4-Hit | 67.08% |  |  |
-| GU | 1GU |  |  |
+| 1-Hit |  |  |  |
+| 2-Hit |  |  |  |
+| 3-Hit |  |  |  |
+| 4-Hit |  |  |  |
 
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
 | String | Talent 6 DMG% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 168.22% |  |  |
-| GU | 1GU |  |  |
+| Charged Attack |  |  |  |
+| GU |  |  |  |
 
 **Plunge Damage**  
 Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 
 | Type | Talent 6 DMG% | GU |
 | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1GU |
-| Low Plunge DMG | 165.17% | 1GU |
-| High Plunge DMG | 206.3% | 1GU |
+| Plunge DMG |  |  |
+| Low Plunge DMG |  |  |
+| High Plunge DMG |  |  |
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
@@ -60,8 +59,8 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 
 | Effect | Talent 6 DMG% | GU |
 | :--- | :--- | :--- |
-| Skill DMG | 295.68% | 1GU |
-| CD | 15s |  |
+| Skill DMG |  |  |
+| CD |  |  |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
@@ -71,11 +70,11 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
-| Damage-Over-Time | 207.2% |
-| Additional Elemental DMG | 61.6% |
-| Duration | 6s |
-| CD | 20s |
-| Energy Cost | 80 |
+| Damage-Over-Time |  |
+| Additional Elemental DMG |  |
+| Duration |  |
+| CD |  |
+| Energy Cost |  |
 {% endtab %}
 {% endtabs %}
 
@@ -83,21 +82,25 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 {% tabs %}
 {% tab title="Passive" %}
-### Astable Invention
+### Windrider
 
-When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
+Decreases gliding Stamina consumption for your own party members by 20%.
+
+Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-### Catalyst Conversion
+### Embrace of Winds
 
-When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+Holding Skyward Sonnet creates an upcurrent that lasts for 20s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Mollis Favonius
+### Stormeye
 
-When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s
+Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.
+
+If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.
 {% endtab %}
 {% endtabs %}
 
@@ -105,46 +108,50 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 
 {% tabs %}
 {% tab title="C1" %}
-### Clustered Vaccum Field
+### Splitting Gales
 
-**Astable Anemohypostasis Creation-6308** gains 1 additional charge.
+Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
 {% endtab %}
 
 {% tab title="C2" %}
-### Beth: Unbound Form
+### Breeze of Reminiscence
 
-The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
+Skyward Sonnet decreases opponents' Anemo RES and Physical RES by 12% for 10s.
+
+Opponents launched by Skyward Sonnet suffer an additional 12% Anemo RES and Physical RES decrease while airborne.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Flawless Alchemistress**
+### **Ode to Thousand Winds**
 
-Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
+Increases the Level of Wind's Grand Ode by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Alchemania
+### Hurricane of Freedom
 
-Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
+When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Caution: Standard Flask
+### Concerto dal Cielo
 
-Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
+Increases the Level of Skyward Sonnet by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Chaotic Entropy
+### Storm of Defiance
 
-If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
+Targets who take DMG from **Wind's Grand Ode** have their Anemo RES decreased by 20%.
+
+If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
 {% endtab %}
 {% endtabs %}
 
 ## Full Talent Values
 
 {% tabs %}
-{% tab title="Wind Spirit Creation" %}
+{% tab title="Divine Marksmanship" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -171,7 +178,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 | High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
 {% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
+{% tab title="Skyward Sonnet" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG% | 295.68 | 316.8 | 337.92 | 359.04 | 380.16 | 401.28 | 422.4 | 448.8 |
@@ -179,7 +186,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 **Cooldown: 15s**
 {% endtab %}
 
-{% tab title="Forbidden Creation- Isomer 75/Type II" %}
+{% tab title="Wind\'s Grand Ode" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | DoT | 207.2 | 222 | 236.8 | 251.6 | 266.4 | 281.2 | 296 | 314.5 |
@@ -189,8 +196,8 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 ## External Links
 
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose#:~:text=Sucrose%20is%20a%20playable%20Anemo,of%20the%20Knights%20of%20Favonius.)
-* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Venti)\*\*\*\*
+* \*\*\*\*[**Venti Mains Discord**](https://discord.gg/dkE584QFg7)\*\*\*\*
 
 **Evidence Vault**
 

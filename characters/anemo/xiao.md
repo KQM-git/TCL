@@ -27,7 +27,7 @@ description: >-
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}
 **Normal Attacks**  
-Xiao performs up to six consecutive spear strikes. 
+Xiao performs up to six consecutive spear strikes.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ Xiao performs up to six consecutive spear strikes.
 | 6-Hit | 131.77% |  |  |
 
 **Charged Attack**  
-Consumes 25 Stamina to perform an upward thrust. 
+Consumes 25 Stamina to perform an upward thrust.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +48,7 @@ Consumes 25 Stamina to perform an upward thrust.
 | N3C | 414.79% |  |  |
 
 **Plunge**  
-Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.   
+Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
 Xiao does not take DMG from performing Plunge Attacks
 
 | Plunge Type | Talent 6 DMG% | Frames | Motion Value |
@@ -59,7 +59,7 @@ Xiao does not take DMG from performing Plunge Attacks
 {% endtab %}
 
 {% tab title="Lemniscatic Wind Cycling " %}
-Xiao lunges forward, dealing Anemo DMG to opponents in his path.   
+Xiao lunges forward, dealing Anemo DMG to opponents in his path.  
 Can be used mid-air.  
 Starts with 2 charges.
 
@@ -70,7 +70,7 @@ Starts with 2 charges.
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
-Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago. 
+Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 
 **Yaksha's Mask**
 
@@ -79,7 +79,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
 * Xiao will continuously lose HP during this state. 
 
-| Effect | Talent 6%  |
+| Effect | Talent 6% |
 | :--- | :--- |
 | Normal, Charged, and Plunge DMG bonus | 77% |
 | Life Drain | 2.5% Current HP\s |
@@ -93,9 +93,9 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 
 {% tabs %}
 {% tab title="Passive" %}
-### Transcension: Gravity Defier 
+### Transcension: Gravity Defier
 
-Decreases climbing Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects. 
+Decreases climbing Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -117,19 +117,19 @@ Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscat
 {% tab title="C1" %}
 **Dissolution Eon: Destroyer of Worlds**
 
-Increases Lemniscatic Wind Cycling's charged by 1. 
+Increases Lemniscatic Wind Cycling's charged by 1.
 {% endtab %}
 
 {% tab title="C2" %}
-**Annihilation Eon: Blossom of Kaleidos** 
+**Annihilation Eon: Blossom of Kaleidos**
 
 When in the party and not on the field, Xiao's Energy Recharge is increased by 25%
 {% endtab %}
 
 {% tab title="C3" %}
-**Conqueror of Evil: Wrath Deity** 
+**Conqueror of Evil: Wrath Deity**
 
-Increases the level of Lemniscatic Wind Cycling by 3. 
+Increases the level of Lemniscatic Wind Cycling by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -139,15 +139,15 @@ When Xiao's HP falls below 50%, he gains a 100% DEF Boost.
 {% endtab %}
 
 {% tab title="C5" %}
-**Evolution Eon: Origin of Ignorance** 
+**Evolution Eon: Origin of Ignorance**
 
-Increases the level of Bane of All Evil by 3. 
+Increases the level of Bane of All Evil by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-**Conqueror of Evil: Guardian Yaksha** 
+**Conqueror of Evil: Guardian Yaksha**
 
-While under the effect of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD. 
+While under the effect of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.
 {% endtab %}
 {% endtabs %}
 
@@ -159,7 +159,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG \(x2\) | 37.87 | 40.69  | 43.51  | 46.32  | 49.14  | 51.96  |
+| 1-Hit DMG \(x2\) | 37.87 | 40.69 | 43.51 | 46.32 | 49.14 | 51.96 |
 | 2- Hit DMG | 78.29 | 84.11 | 89.93 | 95.76 | 101.58 | 107.4 |
 | 3-Hit DMG | 94.26 | 101.27 | 108.28 | 115.29 | 122.3 | 129.31 |
 | 4-Hit DMG \(x2\) | 51.79 | 55.64 | 59.49 | 63.34 | 67.2 | 71.05 |
@@ -186,7 +186,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG % | 353.92 | 379.2 | 404.48 | 429.76 | 455.04 | 480.32 | 505.6 | 537.2 |
 
-**Cooldown:** 10s 
+**Cooldown:** 10s
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
