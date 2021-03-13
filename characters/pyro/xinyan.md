@@ -1,13 +1,14 @@
 ---
 description: >-
-  Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.
+  Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices
+  using her music and passionate singing.
 ---
 
 # Xinyan
 
 ## ![](../../.gitbook/assets/element_pyro.png) Xinyan
 
-![](../../.gitbook/assets/xinyan.png)
+![](../../.gitbook/assets/character_xinyan_wish.webp)
 
 ## **Base Stats**
 
@@ -35,7 +36,7 @@ Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more
 | Spin | 90.91% |  |  |
 | Final hit | 164.38% |  |  |
 
-**Plunge Attack**  
+**Plunge Attack**
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -64,13 +65,12 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 | L3 **Rave** | 201.6%Def + 1097 |
 | Duration | 12s |
 | Cooldown | 18s |
-| Particles | 3~4 (1:9) |
+| Particles | 3~4 \(1:9\) |
 | Intial hit GU | 1A |
 | Rave GU | 1A |
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
-
 Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflicting a Pyro DoT.
 
 * The Pyro DoT ticks 7 times over 2 seconds. 
@@ -96,7 +96,7 @@ When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chan
 {% endtab %}
 
 {% tab title="Ascension 2" %}
-## "The Show Goes On, Even Without an Audience..." 
+## "The Show Goes On, Even Without an Audience..."
 
 Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.
 
@@ -107,7 +107,7 @@ Decreases the number of opponents Sweeping Fervor must hit to trigger each level
 {% tab title="Ascension 4" %}
 ## "...Now That's Rock 'N' Roll!"
 
-Characters shielded by Sweeping Fervor deal 15% increased Physical DMG. 
+Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% endtab %}
 {% endtabs %}
 
@@ -117,13 +117,13 @@ Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% tab title="C1" %}
 ## Fatal Acceleration
 
-Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s. 
+Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C2" %}
-## Impromptu Opening 
+## Impromptu Opening
 
-Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast. 
+Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -169,12 +169,10 @@ x
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
-
 x
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
-
 x
 
 **Energy Cost**: 60
@@ -190,8 +188,7 @@ x
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xinyan)
 * [**Xinyan Mains Discord**](https://discord.gg/XQkAKTXbNQ)
 
-
-
 **Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
 
 **Evidence Vault:**
+
