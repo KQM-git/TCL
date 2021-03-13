@@ -8,7 +8,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Traveler \(Geo\)
 
-![](../../.gitbook/assets/traveler-geo-.png)
+![](../../.gitbook/assets/geo-traveler.png)
 
 ## **Base Stats**
 
