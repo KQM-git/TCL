@@ -113,7 +113,7 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 ## **Credits**
 
-**Writer:** Neptunya\#8291and \[Neko\]\#3521
+**Writer:** Neptunya\#8291 and \[Neko\]\#3521
 
 ## External Links
 
