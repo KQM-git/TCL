@@ -53,6 +53,7 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 * Hitting 1 opponents grants Shield Level 2: **Lead-In**.
 * Hitting 2 or more opponents grants Shield Level 3: **Rave**
 * **Rave** will also deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
+* A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
 
 | Effect | Talent 6% |
 | :--- | :--- |
