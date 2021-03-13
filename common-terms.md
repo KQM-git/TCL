@@ -43,7 +43,7 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 * **Cleanser** = A character that has a skill/burst that applies an element onto themselves to clease off leyline disorders.
 * **Healers/Shielders** = As the name states, characters that increase the survivability of your other characters by providing healing or shields
-* **VV** = An anemo character with 4 set VV on to reduce the elemental res of the enemy
+* **VV** = An anemo character with 4 set Viridescent Venerer on to reduce the elemental res of the enemy
 
 ## Reaction Terms
 
