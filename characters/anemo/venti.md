@@ -192,10 +192,7 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 |                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
 |------------------------|------|------|------|------|------|------|------|------|
 |Press DMG               |386.40|414   |441.60|469.20|496.80|524.40|552   |586.50|
-|Press CD                |6     |6     |6     |6     |6     |6     |6     |6     |
 |Hold DMG                |532   |570   |608   |646   |684   |722   |760   |807.50|
-|CD (hold)               |15    |15    |15    |15    |15    |15    |15    |15    |
-
 
 **Press Cooldown**: 6s
 
@@ -209,9 +206,6 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 |------------------------|------|------|------|------|------|------|------|------|
 |DoT                     |52.64 |56.40 |60.16 |63.92 |67.68 |71.44 |75.20 |79.90 |
 |Additional Elemental DMG|26.32 |28.20 |30.08 |31.96 |33.84 |35.72 |37.60 |39.95 |
-|Duration                |8     |8     |8     |8     |8     |8     |8     |8     |
-|CD                      |15    |15    |15    |15    |15    |15    |15    |15    |
-|Energy Cost             |60    |60    |60    |60    |60    |60    |60    |60    |
 
 **Energy Cost**: 60
 
