@@ -458,14 +458,12 @@ By: Poyo\#6921
 
 There is a cap range for an arrow - damage just falls off after a certain range.
 
-* [Amos Test 
-  ](https://streamable.com/pnfumf)
-* [Sacrificial Bow Test 
-  ](https://streamable.com/cq83a6)
+* [Amos Test](https://streamable.com/pnfumf)
+* [Sacrificial Bow Test](https://streamable.com/cq83a6)
 
 ## External Links
 
-* \*\*\*\*[**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bows)\*\*\*\*
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bows)
 
 **Evidence Vault:**
 
