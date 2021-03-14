@@ -25,7 +25,7 @@ By: mikan\#2834, IonFox\#8887
 
 Lion's Roar passive is still in effect and will boost damage even when equipped character is off-screen
 
-\*\*\*\*[**Evidence**](https://imgur.com/a/C3H8xEI%20)
+[**Evidence**](https://imgur.com/a/C3H8xEI%20)
 
 * C2 XingQiu with Fillet blade and 631 total attack.
   * 1st wave: 161
@@ -55,20 +55,20 @@ Can Lions Roar, 4TS,dragon's bane, ravens bow increase reaction dmg?
 
 Test 1: EC
 
-* [http://imgur.com/a/Okini6O](http://imgur.com/a/Okini6O) \(lions Roar\) 
-* [http://imgur.com/a/hZ65528](http://imgur.com/a/hZ65528) \(favonious sword\) 
+* [Lion's Roar](http://imgur.com/a/Okini6O)
+* [Favonius Sword](http://imgur.com/a/hZ65528)
 * both shown 1022 dmg, lion's roar doesn't boost EC dmg
 
 Test 2: Overload
 
-* [http://imgur.com/a/5gfDQKS](http://imgur.com/a/5gfDQKS) \(lions Roar\) 
-* [http://imgur.com/a/tJXeGyv](http://imgur.com/a/5gfDQKS) \(favonious sword\) 
+* [Lion's Roar](http://imgur.com/a/5gfDQKS)
+* [Favonius Sword](http://imgur.com/a/5gfDQKS)
 * Both shown 1296 dmg, lions Roar doesn't boost overload dmg 
 
 Test 3: Vaporize 
 
-* [http://imgur.com/a/Rwtlrkt](http://imgur.com/a/5gfDQKS) \(lions Roar\) 
-* [http://imgur.com/a/w2Or0yX](http://imgur.com/a/5gfDQKS) \(favonious sword\) 
+* [Lion's Roar](http://imgur.com/a/5gfDQKS)
+* [Favonius Sword](http://imgur.com/a/5gfDQKS)
 
 **Significance:**
 
@@ -156,7 +156,7 @@ By: Cola\#6861
 * The same was done for refinement rank 1, 3 and 5. 
 
 
-****[**Spreadsheet**](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)\*\*\*\*
+[**Spreadsheet**](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 
 ![](../../../../.gitbook/assets/royalweap1.png)
 
@@ -176,7 +176,7 @@ Pleinair\#8321’s findings
 
 Added 11/22/2020
 
-\*\*\*\*[**Evidence**](https://youtu.be/YqjY3RN-QDs)
+[**Evidence**](https://youtu.be/YqjY3RN-QDs)
 
 **Significance:**
 
@@ -240,8 +240,7 @@ Losing Serpent Spine stacks has an ICD depending on the stack count.
 * 3-2: 1.17-1.18s
 * 2-1: 1.17-1.18s
 
-\*\*\*\*[**Evidence**
-](https://youtu.be/qIDaHGeqfTY)
+[**Evidence**](https://youtu.be/qIDaHGeqfTY)
 
 **Significance:**
 
@@ -314,8 +313,7 @@ Its separate line of damage crits individually from the normal attacks.
 **More Accurate Description
 :** "Normal and Charged Attacks deal an additional 20% of Normal/Charged ATK as DMG for 12s" \(this additional damage is dealt separately\)
 
-[**Evidence**
-](https://youtu.be/nn4_xNJqsCA)\*\*\*\*
+[**Evidence**](https://youtu.be/nn4_xNJqsCA)
 
 **Significance**
 
@@ -341,7 +339,7 @@ Attacked enemies**:**
 * breastplate 
 * and the shield from bell's passive
 
-\*\*\*\*[**Evidence**](https://imgur.com/a/1fCJ6IM%20)
+[**Evidence**](https://imgur.com/a/1fCJ6IM%20)
 
 **Significance:** 
 
@@ -416,8 +414,7 @@ Attack Speed buffs do not dynamically affect Claymore Charged Attacks
 **Evidence**: 
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb 
-  ](https://streamable.com/uff6qb%20)
+* [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
 
 **Significance**: 
 
