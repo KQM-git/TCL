@@ -450,7 +450,7 @@
 
 ## External Links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Polearms)\*\*\*\*
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Polearms)
 
 **Evidence Vault:**
 
