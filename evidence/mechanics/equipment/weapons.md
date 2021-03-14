@@ -459,5 +459,4 @@ There is a cap range for an arrow - the further you go after that cap the lower 
 
 **Significance**: 
 
-Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
-.
+Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away.
