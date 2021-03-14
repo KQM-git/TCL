@@ -14,7 +14,10 @@ If there are any terms you want defined/redefined, please make a submission thro
 
 **Dynamic** = A skill that lasts over a duration, where its damage is based off of the character’s current status, regardless of their status on cast.
 
-**Motion Value\(MV\)** = Talent percentage per second
+**Motion Value\(MV/s\)** = Talent damage/percentage done by an attack or string of attacks divided by the time it takes to do them.
+
+* You can find talent percentages on the Skill Attributes tab for character talents in game.
+* For more details you can check out this [video by Artesians](https://youtu.be/YEEKqJuhq1c) on motion values
 
 **Snapshot** = A skill that lasts over a duration, where its damage is based off of the character’s status on cast.
 
