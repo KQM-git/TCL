@@ -12,15 +12,16 @@ description: >-
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Energy Recharge |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 |  |  |  |  |
-| 60+ |  |  |  |  |
-| 70 |  |  |  |  |
-| 70+ |  |  |  |  |
-| 80 |  |  |  |  |
-| 80+ |  |  |  |  |
-| 90 |  |  |  |  |
+|Lv |Base HP|Base ATK|Base DEF|Energy Recharge%|
+|---|-------|--------|--------|----------------|
+|60 |6832   |171     |434     |16              |
+|60+|7331   |183     |465     |16              |
+|70 |8058   |201     |512     |16              |
+|70+|8557   |214     |543     |24              |
+|80 |9292   |232     |590     |24              |
+|80+|9791   |245     |622     |32              |
+|90 |10531  |263     |669     |32              |
+
 
 ## Attacks
 
@@ -29,38 +30,42 @@ description: >-
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit |  |  |  |
-| 2-Hit |  |  |  |
-| 3-Hit |  |  |  |
-| 4-Hit |  |  |  |
+|1-Hit DMG (x2)          |29.63% |  |  |
+|2-Hit DMG               |64.50% |  |  |
+|3-Hit DMG               |76.13% |  |  |
+|4-Hit DMG (x2)          |37.87% |  |  |
+|5-Hit DMG               |73.63% |  |  |
+|6-Hit DMG               |103.13%|  |  |
 
-**Charged Attack**  
+
+**Aimed Shot**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
-| String | Talent 6 DMG% | Frames | MV\s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack |  |  |  |
-| GU |  |  |  |
+| String | Talent 6% | GU | Frames | MV\s |
+| :--- | :--- | :--- | :--- | :--- |
+|Aimed Shot              |63.75% |  |  |  |
+|Fully-Charged Aimed Shot|173.60%|  |  |  |
 
 **Plunge Damage**  
 Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 
-| Type | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG |  |  |
-| Low Plunge DMG |  |  |
-| High Plunge DMG |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+|Plunge DMG              |82.60% |
+|Low Plunge DMG          |165.17%|
+|High Plunge DMG         |206.30%|
+
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
-| Effect | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Skill DMG |  |  |
-| CD |  |  |
+| Effect | Talent 6% | CD | GU |
+| :--- | :--- | :--- | :--- |
+|Press               |386.40%| 6s |  | 
+|Hold                |532%   | 15s |  |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
@@ -68,13 +73,15 @@ Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While
 
 If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
 
-| Effect | Talent 6 DMG% |
+| Effect | Talent 6% |
 | :--- | :--- |
-| Damage-Over-Time |  |
-| Additional Elemental DMG |  |
-| Duration |  |
-| CD |  |
-| Energy Cost |  |
+|DoT                     |52.64% |
+|Additional Elemental DMG|26.32% |
+|Duration                |8s     |
+|CD                      |15s    |
+|Energy Cost             |60    |
+
+
 {% endtab %}
 {% endtabs %}
 
@@ -154,50 +161,71 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 {% tab title="Divine Marksmanship" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 46.85 | 50.2 | 53.54 | 56.89 | 60.24 | 63.58 |
-| 2-Hit DMG | 42.86 | 45.92 | 48.99 | 52.05 | 55.11 | 58.17 |
-| 3-Hit DMG | 53.83 | 57.67 | 61.52 | 65.36 | 69.21 | 73.05 |
-| 4-Hit DMG | 67.08 | 71.88 | 76.67 | 81.46 | 86.25 | 91.04 |
+|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------|------|------|------|------|------|------|
+|1-Hit DMG (x2)          |29.63 |32.23 |34.84 |37.45 |40.29 |43.55 |
+|2-Hit DMG               |64.50 |70.18 |75.85 |81.53 |87.72 |94.82 |
+|3-Hit DMG               |76.13 |82.82 |89.52 |96.22 |103.53|111.90|
+|4-Hit DMG (x2)          |37.87 |41.21 |44.54 |47.87 |51.51 |55.68 |
+|5-Hit DMG               |73.63 |80.10 |86.58 |93.06 |100.13|108.23|
+|6-Hit DMG               |103.13|112.20|121.28|130.35|140.25|151.59|
 
-### Charged Attack
+### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 168.22 | 180.24 | 192.26 | 204.27 | 216.29 | 228.3 |
-
-**Stamina Cost: 50**
+|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------|------|------|------|------|------|------|
+|Aimed Shot              |63.75 |69.36 |74.97 |80.58 |86.70 |93.71 |
+|Fully-Charged Aimed Shot|173.60|186   |198.40|210.80|223.20|236.10|
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |
+|------------------------|------|------|------|------|------|------|
+|Plunge DMG              |82.60 |89.87 |97.14 |104.41|112.34|120.27|
+|Low Plunge DMG          |165.17|179.70|194.23|208.77|224.62|240.48|
+|High Plunge DMG         |206.30|224.45|242.61|260.76|280.57|300.37|
+
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% | 295.68 | 316.8 | 337.92 | 359.04 | 380.16 | 401.28 | 422.4 | 448.8 |
 
-**Cooldown: 15s**
+|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|------------------------|------|------|------|------|------|------|------|------|
+|Press DMG               |386.40|414   |441.60|469.20|496.80|524.40|552   |586.50|
+|Press CD                |6     |6     |6     |6     |6     |6     |6     |6     |
+|Hold DMG                |532   |570   |608   |646   |684   |722   |760   |807.50|
+|CD (hold)               |15    |15    |15    |15    |15    |15    |15    |15    |
+
+
+**Press Cooldown**: 6s
+
+**Hold Cooldown**: 15s
+
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 207.2 | 222 | 236.8 | 251.6 | 266.4 | 281.2 | 296 | 314.5 |
-| Additional Elemental DMG | 61.6 | 66 | 70.4 | 74.8 | 79.2 | 83.6 | 88 | 93.5 |
+
+|                        |Lv6   |Lv7   |Lv8   |Lv9   |Lv10  |Lv11  |Lv12  |Lv13  |
+|------------------------|------|------|------|------|------|------|------|------|
+|DoT                     |52.64 |56.40 |60.16 |63.92 |67.68 |71.44 |75.20 |79.90 |
+|Additional Elemental DMG|26.32 |28.20 |30.08 |31.96 |33.84 |35.72 |37.60 |39.95 |
+|Duration                |8     |8     |8     |8     |8     |8     |8     |8     |
+|CD                      |15    |15    |15    |15    |15    |15    |15    |15    |
+|Energy Cost             |60    |60    |60    |60    |60    |60    |60    |60    |
+
+**Energy Cost**: 60
+
+**Duration**: 8s
+
+**Cooldown**: 15s
+
 {% endtab %}
 {% endtabs %}
 
 ## External Links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Venti)\*\*\*\*
-* \*\*\*\*[**Venti Mains Discord**](https://discord.gg/dkE584QFg7)\*\*\*\*
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Venti)
+* [**Venti Mains Discord**](https://discord.gg/dkE584QFg7)
 
 **Evidence Vault**
 
