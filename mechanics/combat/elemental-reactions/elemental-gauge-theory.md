@@ -140,7 +140,7 @@ EC is triggered when an enemy with a Hydro or Electro aura has the other aura ap
 
 > When either the Electro or Hydro gauge completely decays, the next EC tick will prematurely occur at the moment when the gauge is completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
 
-Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
+Each tick of EC **consumes 0.4GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
 
 ## **Credits**
 
@@ -162,8 +162,6 @@ Each tick of EC **consumes 0.5GU from both gauges**. Once a gauge is empty, the 
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
-
-**Tags:** [Elemental Reactions](./)
 
 **Evidence Vault:**
 
