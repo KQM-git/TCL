@@ -129,7 +129,7 @@ By: Sakuno\#7950
 
 Added: 2/4/2021
 
-Evidence:
+**Evidence:**
 
 Testing was done using Diona @ around 40% crit rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% crit rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per crit\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
 
@@ -214,52 +214,6 @@ This has many applications in combat, especially in abyss where timed trials wil
 
 ## Specific Weapon Mechanics
 
-### Serpent Spine
-
-#### Rate of Loss of Serpent Spine Stacks
-
-By: Reydriar\#8127
-
-Added 12/7/2020
-
-**Finding**
-
-Losing Serpent Spine stacks has an ICD depending on the stack count.
-
-* 5-4: 1.01-1.02s \(after you lost your 5th stack you can‘t lose the 4th stack for the named duration\)
-* 4-3: 1.01-1.02s
-* 3-2: 1.17-1.18s
-* 2-1: 1.17-1.18s
-
-[**Evidence**](https://youtu.be/qIDaHGeqfTY)
-
-**Significance:**
-
-Getting hit by multi hit attacks will still only remove one stack thus increasing your overall uptime on stacks. 1 and 2 stacks have a better protection than higher stacks due to an increased ICD.
-
-* Relevant examples in the overworld only: environmental damage
-* Relevant examples: Ruin guard missiles or the cryo gun attack from the cryo fatui \([https://youtu.be/qaxgPjY78YE](https://youtu.be/qaxgPjY78YE)\)
-
-### Memory of Dust
-
-#### Analysis of whether Xingqiu E/Q counts as a “shield” for Memory of Dust and Bolide
-
-By: ＃＃\#0123
-
-Added 12/7/2020
-
-**Theory**:
-
-For bolide or memory of dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
-
-**Evidence**:
-
-[https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
-
-**Significance**
-
-Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
-
 ### Lost Prayer to the Sacred Winds
 
 #### Lost Prayer Stack Mechanics
@@ -284,6 +238,54 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 Lost Prayer becomes... even better for a main dps while exploring? The fact that you can carry over stacks over multiple fights will help in open world scenarios.
 
+### Memory of Dust
+
+#### Analysis of whether Xingqiu E/Q counts as a “shield” for Memory of Dust and Bolide
+
+By: ＃＃\#0123
+
+Added 12/7/2020
+
+**Theory**:
+
+For bolide or memory of dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
+
+**Evidence**:
+
+[https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
+
+**Significance**
+
+Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
+
+
+
+### Serpent Spine
+
+#### Rate of Loss of Serpent Spine Stacks
+
+By: Reydriar\#8127
+
+Added 12/7/2020
+
+**Finding** 
+
+Losing Serpent Spine stacks has an ICD depending on the stack count. 
+
+* 5-4: 1.01-1.02s \(after you lost your 5th stack you can‘t lose the 4th stack for the named duration\)
+* 4-3: 1.01-1.02s
+* 3-2: 1.17-1.18s
+* 2-1: 1.17-1.18s
+
+[**Evidence**](https://youtu.be/qIDaHGeqfTY)
+
+**Significance:**
+
+Getting hit by multi hit attacks will still only remove one stack thus increasing your overall uptime on stacks. 1 and 2 stacks have a better protection than higher stacks due to an increased ICD.
+
+* Relevant examples in the overworld only: environmental damage
+* Relevant examples: Ruin guard missiles or the cryo gun attack from the cryo fatui \([https://youtu.be/qaxgPjY78YE](https://youtu.be/qaxgPjY78YE)\)
+
 ### Skyward Blade
 
 #### Skyward Blade Description Clarification
@@ -298,9 +300,9 @@ Skyward blade does not increase your damage after Elemental Burst but adds an ad
 
 Its separate line of damage crits individually from the normal attacks.
 
-**Current Description :** "Increases the DMG of Normal and Charged Attack hits by 20% for 12s."
+**Current Description:** "Increases the DMG of Normal and Charged Attack hits by 20% for 12s." 
 
-**More Accurate Description :** "Normal and Charged Attacks deal an additional 20% of Normal/Charged ATK as DMG for 12s" \(this additional damage is dealt separately\)
+**More Accurate Description:** "Normal and Charged Attacks deal an additional 20% of Normal/Charged ATK as DMG for 12s" \(this additional damage is dealt separately\)
 
 [**Evidence**](https://youtu.be/nn4_xNJqsCA)
 
@@ -315,13 +317,13 @@ Its separate line of damage crits individually from the normal attacks.
 
 By: adri\#1824
 
-**Finding:**
+**Finding:** 
 
 The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
 
-**Testing:**
+**Testing:** 
 
-Attacked enemies**:**
+Attacked enemies:
 
 * without any shield 
 * with the crystallize shield
@@ -330,7 +332,7 @@ Attacked enemies**:**
 
 [**Evidence**](https://imgur.com/a/1fCJ6IM%20)
 
-**Significance:**
+**Significance:** 
 
 Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
 
@@ -344,51 +346,11 @@ By: Crome\#2644
 
 **Evidence:**
 
-![](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/flutecrit1.png)
+![](../../../.gitbook/assets/flutecrit1.png)
 
-![](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/flutecrit2.png)
+![](../../../.gitbook/assets/flutecrit2.png)
 
 ## General Mechanics
-
-### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
-
-Added 11/9/2020
-
-**Methodology:**
-
-Comparing between ALL characters Base Atk at lv80/80 with ALL 4 Star Weapon at lv80/80.
-
-**At level 1/20:**
-
-* Weapons with Base Atk of 41 will have a \(hypothetical\) atk% of 12%
-* Weapons with Base Atk of 42 will have a \(hypothetical\) atk% of 9%
-* Weapons with Base Atk of 44 will have a \(hypothetical\) atk% of 6%
-
-**At level 80/80:**
-
-* Weapons with Base Atk of 41 will have a 401 Base Atk and \(hypothetical\) atk% of 50.3%
-* Weapons with Base Atk of 42 will have a 449 Base Atk and \(hypothetical\) atk% of 37.7%
-* Weapons with Base Atk of 44 will have a 497 Base Atk and \(hypothetical\) atk% of 25.1%
-
-Characters do not include 1.1 characters.
-
-I made a [calculator ](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy)that takes into account Artifact Stats \(Feather Atk, Flat Atk substat, and Atk%\)
-
-![Evidence at 46.6% \(From ATK% Sands\)](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/atk-compensate1.png)
-
-![Evidence at 70% \(From Artifact Substats\)](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/atk-compensate2.png)
-
-Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
-
-**Conclusion:**
-
-Since different characters have different base stats, there exist a different OPTIMUM point where a weapon is objectively better than the other.
-
-**Significance:**
-
-4 Star Characters will perform BETTER when equipped with weapons that has HIGHER Base Atk if you are running a 46.6% Atk% Timepiece Artifact.
-
-5 Star Characters have higher Base Atk, and instead performs BETTER when equipped with weapons that has MEDIUM Base Atk if you are running a 46.6% Atk% Timepiece Artifact. However, as Atk% increases \(from artifact substats\) to roughly 70%, weapons that has HIGHER Base Atk will perform BETTER.
 
 ### Attack Speed Buffs on Claymores
 
@@ -396,16 +358,17 @@ By: EternalDream\#5503
 
 Added: 2/4/2021
 
-**Finding**:
+**Finding**: 
 
-Attack Speed buffs do not dynamically affect Claymore Charged Attacks
+Attack Speed buffs do not dynamically affect Claymore Charged Attacks 
 
-**Evidence**:
+**Evidence**: 
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
+* [https://streamable.com/uff6qb 
+  ](https://streamable.com/uff6qb%20)
 
-**Significance**:
+**Significance**: 
 
 If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
 
@@ -431,22 +394,61 @@ The spreadsheet has three main columns - for low, medium, and high stats. Each o
 
 Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
 
+### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
+
+Added 11/9/2020
+
+**Methodology:**
+
+Comparing between ALL characters Base Atk at lv80/80 with ALL 4 Star Weapon at lv80/80.
+
+**At level 1/20:**
+
+* Weapons with Base Atk of 41 will have a \(hypothetical\) atk% of 12%
+* Weapons with Base Atk of 42 will have a \(hypothetical\) atk% of 9%
+* Weapons with Base Atk of 44 will have a \(hypothetical\) atk% of 6%
+
+**At level 80/80:**
+
+* Weapons with Base Atk of 41 will have a 401 Base Atk and \(hypothetical\) atk% of 50.3%
+* Weapons with Base Atk of 42 will have a 449 Base Atk and \(hypothetical\) atk% of 37.7%
+* Weapons with Base Atk of 44 will have a 497 Base Atk and \(hypothetical\) atk% of 25.1%
+
+Characters do not include 1.1 characters.
+
+I made a [calculator ](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy)that takes into account Artifact Stats \(Feather Atk, Flat Atk substat, and Atk%\)
+
+![Evidence at 46.6% \(From ATK% Sands\)](../../../.gitbook/assets/atk-compensate1.png)
+
+![Evidence at 70% \(From Artifact Substats\)](../../../.gitbook/assets/atk-compensate2.png)
+
+Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
+
+**Conclusion:**
+
+Since different characters have different base stats, there exist a different OPTIMUM point where a weapon is objectively better than the other.
+
+**Significance:**
+
+4 Star Characters will perform BETTER when equipped with weapons that has HIGHER Base Atk if you are running a 46.6% Atk% Timepiece Artifact.
+
+5 Star Characters have higher Base Atk, and instead performs BETTER when equipped with weapons that has MEDIUM Base Atk if you are running a 46.6% Atk% Timepiece Artifact. However, as Atk% increases \(from artifact substats\) to roughly 70%, weapons that has HIGHER Base Atk will perform BETTER.
+
 ### Range Cap for Arrows
 
 By: Poyo\#6921
 
 Added 2/4/2021
 
-**Finding**:
+**Finding**: 
 
 There is a cap range for an arrow - the further you go after that cap the lower damage you deal.
 
-**Evidence**:
+**Evidence**: 
 
 * [https://streamable.com/pnfumf](https://streamable.com/uff6qb%20) \(Amos test\) 
 * [https://streamable.com/cq83a6](https://streamable.com/uff6qb%20) \(Sac Bow test\) 
 
-**Significance**:
+**Significance**: 
 
-Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away.
-
+Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
