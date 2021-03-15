@@ -258,8 +258,6 @@ For bolide or memory of dust purposes, Xingqiu Q/E are not shields. Beidou C1 an
 
 Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
 
-
-
 ### Serpent Spine
 
 #### Rate of Loss of Serpent Spine Stacks
