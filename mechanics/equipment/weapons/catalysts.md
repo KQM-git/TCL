@@ -12,7 +12,7 @@
 | Base ATK | 46 - 608 |
 | CRIT Rate% | 7.2% - 33.1% |
 
-* Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated
+* Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated - [Konbo\#0004](../../../evidence/mechanics/equipment/weapons.md#lost-prayer-to-the-sacred-winds)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -41,7 +41,7 @@
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
 
-* Xingqiu's Rain Swords do not count as a shield for Memory of Dust
+* Xingqiu's Rain Swords do not count as a shield for Memory of Dust - [＃＃\#0123](../../../evidence/mechanics/equipment/weapons.md#analysis-of-whether-xingqiu-e-q-counts-as-a-shield-for-memory-of-dust-and-bolide)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -99,8 +99,8 @@
 | Base ATK | 42 - 510 |
 | CRIT DMG% | 12% - 55.1% |
 
-* Passive persists even when holder is off-field
-* Passive doesn't activate if an off-field support or coop member kills
+* Passive persists even when holder is off-field - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
+* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../../evidence/mechanics/equipment/weapons.md#blackcliff-series)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -157,7 +157,7 @@
 | Secondary Stat Type | ER% |
 | ER% | 10% - 45.9% |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Sakuno\#7950](../../../evidence/mechanics/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -267,7 +267,8 @@
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
 
-* The passive also procs even when the unit is off-field
+* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../../evidence/mechanics/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
+* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#how-royal-longswords-passive-works)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -296,7 +297,7 @@
 | Base ATK | 41 - 454 |
 | EM | 48 - 221 |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/mechanics/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -408,8 +409,9 @@
 | Base ATK | 38 - 354 |
 | EM | 41 - 187 |
 
-* Passive works, even if wielder is off-field
-* Passive applies for amplifying reactions, but not transformative reactions
+* Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
+* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -511,13 +513,13 @@
 
 ## Catalyst Comparison
 
+By: [Maygi\#4987](../../../evidence/mechanics/equipment/weapons.md#catalyst-effective-attack-comparisons)
+
 ![](../../../.gitbook/assets/maygi_catalyst_comparison.png)
 
 * Low Stat = 10 substat lines
 * Med Stat = 20 substat lines
 * High Stat = 30 substat lines
-
-This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](https://github.com/Artesians/TCL/tree/e586447f6849a65531ae5a49fae9b1f43eea7c58/evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons) in the Evidence Vault
 
 ## External Links
 
@@ -526,4 +528,3 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
-
