@@ -95,8 +95,8 @@
 | Base ATK | 42 - 510 |
 | CRIT DMG% | 12% - 55.1% |
 
-* Passive persists even when holder is off-field
-* Passive doesn't activate if an off-field support or coop member kills
+* Passive persists even when holder is off-field - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
+* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../../evidence/mechanics/equipment/weapons.md#blackcliff-series)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -125,7 +125,7 @@
 | Base ATK | 41 - 454 |
 | ER% | 13.3% - 61.3% |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Sakuno\#7950](../../../evidence/mechanics/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -208,8 +208,9 @@
 | Base ATK | 42 - 510 |
 | EM | 36 - 165 |
 
-* Passive works, even if wielder is off-field
-* Passive applies for amplifying reactions, but not transformative reactions
+* Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
+* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -238,7 +239,8 @@
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
 
-* The passive also procs even when the unit is off-field
+* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../../evidence/mechanics/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
+* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#how-royal-longswords-passive-works)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -267,7 +269,7 @@
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/mechanics/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -296,7 +298,7 @@
 | Base ATK | 42 - 510 |
 | CRIT Rate% | 6% - 27.6% |
 
-* Losing Serpent Spine stacks has an ICD depending on the stack count
+* Losing Serpent Spine stacks has an ICD depending on the stack count - [Reydriar\#8127](../../../evidence/mechanics/equipment/weapons.md#serpent-spine)
   * 5-4: 1.01-1.02s \(after you lose your 5th stack you can‘t lose the 4th stack for the duration\)
   * 4-3: 1.01-1.02s
   * 3-2: 1.17-1.18s
@@ -357,6 +359,7 @@
 | HP% | 9% - 41.3% |
 
 * The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
+   - [adri\#1824](../../../evidence/mechanics/equipment/weapons.md#the-bell)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -414,8 +417,9 @@
 | Base ATK | 38 - 354 |
 | EM | 41 - 187 |
 
-* Passive works, even if wielder is off-field
-* Passive applies for amplifying reactions, but not transformative reactions
+* Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
+* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -544,12 +548,14 @@
 
 ## Attack Speed Buffs on Claymores
 
-By: EternalDream\#5503
+By: [EternalDream\#5503
+](../../../evidence/mechanics/equipment/weapons.md#attack-speed-buffs-on-claymores)
 
 Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, the charged attack will have an attack speed increase for its entire duration when buffed, even if said buff wears off during charged attack.
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
+* [https://streamable.com/uff6qb 
+  ](https://streamable.com/uff6qb%20)
 
 ## External Links
 
@@ -558,4 +564,3 @@ Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, 
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
-
