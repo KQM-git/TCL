@@ -68,8 +68,8 @@
 | Base ATK | 44 - 565 |
 | CRIT DMG% | 8% - 36.8 |
 
-* Passive persists even when holder is off-field
-* Passive doesn't activate if an off-field support or coop member kills
+* Passive persists even when holder is off-field - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
+* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../../evidence/mechanics/equipment/weapons.md#blackcliff-series)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -125,7 +125,7 @@
 | Base ATK | 41 - 454 |
 | ER% | 13.3% - 61.3% |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Sakuno\#7950](../../../evidence/mechanics/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -181,7 +181,8 @@
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
 
-* The passive also procs even when the unit is off-field
+* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../../evidence/mechanics/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
+* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#how-royal-longswords-passive-works)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -237,7 +238,7 @@
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 
-* Passive does not proc on shielded enemies
+* Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/mechanics/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -349,8 +350,9 @@
 | Base ATK | 40 - 448 |
 | EM | 20 - 94 |
 
-* Passive works, even if wielder is off-field
-* Passive applies for amplifying reactions, but not transformative reactions
+* Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
+* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -452,9 +454,9 @@
 
 ## Range Cap for Arrows
 
-By: Poyo\#6921
+By: [Poyo\#6921](../../../evidence/mechanics/equipment/weapons.md#range-cap-for-arrows)
 
-**Finding**:
+**Finding**: 
 
 There is a cap range for an arrow - damage just falls off after a certain range.
 
@@ -468,4 +470,3 @@ There is a cap range for an arrow - damage just falls off after a certain range.
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
-
