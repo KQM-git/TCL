@@ -517,7 +517,7 @@
 * Med Stat = 20 substat lines
 * High Stat = 30 substat lines
 
-This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](../../../evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons) in the Evidence Vault
+This analysis was done by Maygi\#4987, for more details see [Catalyst Effective Attack Comparisons](https://github.com/Artesians/TCL/tree/e586447f6849a65531ae5a49fae9b1f43eea7c58/evidence/mechanics/equipment/weapons/catalysts.md#catalyst-effective-attack-comparisons) in the Evidence Vault
 
 ## External Links
 
@@ -526,3 +526,4 @@ This analysis was done by Maygi\#4987, for more details see [Catalyst Effective 
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+

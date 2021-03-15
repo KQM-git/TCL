@@ -56,7 +56,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 {% tab title="Hydro Abyss Mage" %}
 | Elemental Aura | Gauge Units Required |
 | :--- | :--- |
-| Hydro | Null |
+| Hydro | 12GU |
 | Cryo | 12GU |
 | Electro | 15GU |
 | Anemo | 24GU |

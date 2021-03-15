@@ -454,7 +454,7 @@
 
 By: Poyo\#6921
 
-**Finding**: 
+**Finding**:
 
 There is a cap range for an arrow - damage just falls off after a certain range.
 
@@ -468,3 +468,4 @@ There is a cap range for an arrow - damage just falls off after a certain range.
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+
