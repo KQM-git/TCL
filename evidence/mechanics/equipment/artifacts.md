@@ -191,11 +191,11 @@ Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 **Data:**
 
-![](../../../.gitbook/assets/image_2021-03-16_031251.png) 
+![](../../../.gitbook/assets/data.png) 
 
 **Result:**  
 
-![](../../../.gitbook/assets/image_2021-03-16_031509.png)
+![](../../../.gitbook/assets/result.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 
