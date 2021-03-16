@@ -124,6 +124,8 @@ Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attack
 ## Impromptu Opening
 
 Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+
+* The shield created can proc Sacrificial Greatsword's passive
 {% endtab %}
 
 {% tab title="C3" %}
