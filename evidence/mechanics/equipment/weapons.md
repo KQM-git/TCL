@@ -363,8 +363,7 @@ Attack Speed buffs do not dynamically affect Claymore Charged Attacks
 **Evidence**: 
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb 
-  ](https://streamable.com/uff6qb%20)
+* [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
 
 **Significance**: 
 
