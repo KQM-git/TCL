@@ -1,2 +1,450 @@
 # Artifacts
 
+## Bloodstained Chivalry 
+
+### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
+
+**By: Cenpi\#3224**
+
+No, it does not even if you have dealt &gt;80% dmg to the enemy.
+
+[https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)   
+****
+
+### **4pc Bloodstained Chivalry effect Persists through a Character Swap**
+
+**By: Cenpi\#3224**
+
+Yes, it does[https://youtu.be/3y4R64qxzOs](https://youtu.be/3y4R64qxzOs)
+
+### **4pc Bloodstained Chivalry effect doesn’t proc if an Off-Field character takes the Kill**
+
+**By: Cenpi\#3224**
+
+No, it does not.[https://youtu.be/zgyVLeUkFwU](https://youtu.be/zgyVLeUkFwU)
+
+### **4pc Bloodstained Chivalry effect doesn’t proc if Holder gets a Kill while Off-Field**
+
+**By: Cenpi\#3224**
+
+No, it does not.[https://youtu.be/zaDYictHFTc](https://youtu.be/zaDYictHFTc)
+
+### **4pc Bloodstained Chivalry effect can be Maintained by Chain Killing Enemies**
+
+**By: HailCorporate\#2970**
+
+**Finding:**
+
+Bloodstained Chivalry 4 Piece Set Effect Can be maintained by chain killing enemies.
+
+**Evidence:**
+
+t=0, time of death of first Hilichurl
+
+t=7, time of death of second Hilichurl
+
+t=10, buff is still active
+
+t=18, buff deactivates
+
+[https://youtu.be/ufe9B4JR44w](https://youtu.be/ufe9B4JR44w)
+
+**Additional Notes:**
+
+* You still require the minimum amount of stamina to perform a Charged Attack, your stamina just won't be reduced on execution.
+* Stamina regen will continue even while performing Charge Attacks provided the buff is active allowing you to save stamina for dashing.
+
+## Crimson Witch of Flames
+
+### **4pc Crimson Witch Effect Works Even When Holder is Off-Field**
+
+**By: Cenpi\#3224 and Boesik\#3192**
+
+The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persistent skill which triggers a reaction while the pyro user is not on the field, will this 40% bonus apply?  
+
+
+* For example, if Keqing applies electro &gt; Xiangling drops Guoba a distance away from the enemy &gt; Swap back to Keqing and lure the enemy into Guoba fire, will this overload reaction benefit from the 40% set bonus?
+* Yes, the overload reaction will benefit from the 40% bonus even though Xiangling is not on the field
+
+**Video evidence**
+
+* [https://youtu.be/PLlq0yDy5Bo](https://youtu.be/PLlq0yDy5Bo) - Overload dmg while CW holder inactive
+* [https://youtu.be/Lwvv\_ZaV7fU](https://youtu.be/Lwvv_ZaV7fU) - Overload dmg while CW holder active
+* Damage is the same
+
+**Significance**
+
+* Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent pyro abilities without losing the bonus damage to overload.
+* 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering element.
+
+## Maiden Beloved
+
+### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
+
+**By:RoaringMeow\#2437**
+
+**- Is healing bonus applicable to the above mentioned weapon and increase its healing further?**
+
+**Evidence:**
+
+\(\#1\)[https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png)  
+
+
+\(\#2 Healing Bonus only:\) [https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png)  
+
+
+**Significance:**
+
+- Yes it does, however the total healing output is nowhere close to 'actual healers' but for those curious here's the answer.  
+
+
+- Healing Bonus does add on to the weapon as well the difference can be noted from no healing bonus and with healing bonus.  
+
+
+**Without 4pc Maiden's = 2139** 
+
+**With healing bonus only = 2798**
+
+**With 4pc Maiden's = 2888**  
+
+
+**Notes:**
+
+Prototype Malice at R2
+
+Healing bonus of 30.8%
+
+Ningguang was used due to her low burst energy cost \(40\) 
+
+Above numbers have being subtracted from 150 \(started with that hp before healing\)  
+
+
+## **Tiara Sets**
+
+### **Tiara Status Resist 1-set Effect Applies Even if not Visually Active**
+
+**By: tankex\#4275**
+
+In this test, we see if the 1 set effect of Tiara is active even when not visually active due to have 2 other concurrent set effects enabled \(eg 2 set Instructor + 2 set Berserker + 1 set Tiara\).
+
+**Test:**
+
+For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by pyro\), and to apply the pyro debuff I used Xiangling's elemental skill with grass to create a fire surface.  
+
+
+Test 1 **-** No Tiara on, both set slots filled -  Pyro debuff lasts for aprox 10 seconds
+
+Test 2 **-** Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts for aprox 4/5 seconds
+
+Test 3 **-** Tiara on, buff showing -  Pyro debuff lasts for approx 4/5 seconds  
+****
+
+**Conclusion:**
+
+The Tiara status resist 1-set effect applies even when not visually active.  
+
+
+### **80% Status Resistance is Possible through Tiara**
+
+**By: Tankex\#4275**  
+
+
+In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).  
+
+
+**Tiara of Flame, Domain tests:**  
+
+
+Test 1 - No tiara, both set slots filled - Pyro debuff last long enough for the domain to reapply before it wears off. Pyro debuff infinite duration  
+
+
+Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts 25 seconds  
+
+
+Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds  
+
+
+Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.  
+
+
+**Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+
+**Additional testing was performed by Tankex regarding electro debuff**
+
+I decided to test if the "Affected by Element for 40% less time" bonus also work with other domains apart from fire. I did some runs with and without the tiara in "Hidden Palace of Lianshian Formula" to test the electro Debuff and I got this.  
+****
+
+Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
+
+Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.  
+****
+
+## Thundering Fury
+
+### **How 4pc Thundering Fury Interacts with Elemental Mastery**
+
+**By: Saizaku\#5569**
+
+**4-set thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that elemental mastery provides a multiplier to elemental reactions.** 
+
+**Question:** Is the 4 set thundering fury effect additive or multiplicative to the bonus from elemental mastery?
+
+**Data:**
+
+![](../../../.gitbook/assets/image_2021-03-16_031251.png) 
+
+**Result:**  
+
+![](../../../.gitbook/assets/image_2021-03-16_031509.png)
+
+**Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
+
+### 
+
+### **4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction**
+
+**By: Cenpi\#3224**
+
+**The 4TF set effect adds 40% additional damage to electro-related reactions. In addition, everytime a reaction is proccd, the E CD is reduced by 1 second \(every 0.8s\).**   
+
+
+**The question is whether or not the holder must be the one proccing the reaction as opposed to a support.** 
+
+* For example, if Keqing has 4TF, applies electro, and Xiangling Guoba triggers overload, will this overload damage be increased by 40% or no?
+* The answer is no. In order to benefit from the increased damage, Keqing must be the one triggering the reaction.
+* This also applies for the cooldown reduction effect; Keqing must be the one triggering in order to get the cooldown reduction.
+
+**Significance**
+
+* In solo PvE play, Keqing does NOT frequently trigger elemental reactions due to her high rate of application of electro. 
+* Therefore, Keqing does not significantly benefit from the 4 set thundering fury effect.
+
+
+
+### **4pc Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field**
+
+**By: Boesik\#3192, Cenpi\#3224, Lix-\#3417**
+
+In short, yes. The 4 set TF increases reaction damage even if the holder is not on the field.
+
+* **Note:** No significant EM differences. Level differences are: Xiangling lvl 60; Fischl lvl 70
+
+**The following tests were conducted on a lvl 71 ruin guard:**
+
+* Fischl proccing overload while present
+  * Overload does 2066 damage
+    * [Evidence](https://drive.google.com/file/d/1Y0JE20gtA1KaUaRxjIBLMOXIpgPkt0hL/view?usp=sharing)
+* Fischl proccing overload while not present
+  * Overload does 2066 damage
+    * See above video as well.
+* Xiangling proccing overload
+  * Overload does 1077 damage
+    * [Evidence](https://drive.google.com/file/d/1ftweCspmafDCwRJE0CcKuopivYSaxZeK/view?usp=sharing)
+* Fischl \(with no 4 set\) proccing overload both while present and not present
+  * Overload does 1476 damage regardless of whether fischl is on field or not
+    * [Evidence](https://drive.google.com/file/d/119FS4zyj0NYmpM9cHXguSrwGx6Zh6L-h/view?usp=sharing) \(for fischl on field\)
+    * [Evidence](https://drive.google.com/file/d/1wr6goz63SzM4avsUuflDxP2HcGkggI5s/view?usp=sharing) \(for fischl not on field\)
+
+**Significance**
+
+* This finding means that you can put 4TF on a support and get the bonus damage to reactions even if they are not on the field.
+
+### 
+
+### **4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction**
+
+**By: Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417**
+
+In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.
+
+We know \(just to reaffirm\) that if the 4TF holder is on the field and proccing the reaction, the 1s CD reduction applies with every reaction
+
+* **Xiangling using guoba on electro slimes shows each guoba tick reducing cd by 1 s.**
+  * [**Evidence**](https://drive.google.com/file/d/1B8s87WspSWaQshBOa6CiQrZeHowXInAf/view?usp=sharing)
+* **Xingqiu using his swords to reduce cd by 1s on electro slimes.**
+  * [**Evidence**](https://drive.google.com/file/d/1wH2Ot4um675xcFqfjgzTsLAW1-jJ4aGa/view?usp=sharing)
+
+But if the 4TF holder is not on the field but proccing the reaction, the 1s CD reduction does not go through.
+
+[**Evidence**](https://drive.google.com/file/d/17yU8Lg6W7ZZcQO2V4C6P1VOaeTQPx-cA/view?usp=sharing)
+
+* In the video you can see that at roughly 2.33s into the video guoba is summoned with 11.9s CD.
+* 2 overloads occur \(at 4s and 6s\)
+* At 8s into the video xiangling is switched back in and guoba has a 6.2s CD
+* In total, roughly 5.33s has passed and guoba has only gone down in 5.7s
+* 2s has not been reduced and the 0.37s can be equated to just human error in measuring timings.
+
+This result also confirmed by Lix-\#3417 using Barbara E and then switching to keqing, no CD reduction occurred.
+
+**Significance**
+
+* 4TF holders who trigger reactions while not on the field will not get the 1s CDR.
+
+### 
+
+### **Frame Analysis of 4pc Thundering Fury and Electro-charged Interactions**
+
+**By: Doug\#8888, ayynish\#5408**
+
+**Background**
+
+4 set Thundering Fury has 2 effects
+
+* +40% reaction damage to Superconduct, Overload, and Electro-charged
+* Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.
+
+**Theory**
+
+* In Electrocharged, the E CDR \(cooldown reduction\) functions separately from the reaction damage bonus.
+* In other words, it is possible to trigger the E CDR, without dealing reaction damage at the same instant.
+
+**Evidence**
+
+* Refer to this [video](https://www.youtube.com/watch?v=vHQI2LaQN4M) for analysis. Keqing is wearing 4TF and XQ is not.
+* At 0:02, start counting frames.
+  * Keqing is mid blink via E2 and is about to trigger an EC
+  * Hydro aura will be applied by the XQ orbital swords and the E recast damage will trigger EC
+  * Please observe the E cooldown. After E2, you will observe that frame in which it switches from E2 recast to the E cooldown, the cooldown shown is 6.8 seconds
+* We will refer to the frame in which 6.8s CD becomes visible as frame 0
+* Frame 0 
+  * 6.8 E CD becomes visible
+* Frame 3
+  * Electro-charged font becomes visible
+* Frame 4
+  * 4TF effect is triggered
+  * This is denoted by the white flash on the E circle and reduction of the cooldown to 5.8s
+  * Observe the enemy and you can see a purple-white flash appear at the same time. 
+* Frame 15
+  * 1713 \(KQ EC dmg\) visible and HP reduction visible 
+* Frame 67
+  * KQ autoattack and purple-white flash appears
+  * E CDR occurs and CD changes from 4.7s to 3.7s
+* Frame 69
+  * 1713 \(KQ EC dmg\) disappears 54 frames after becoming visible
+* Frame 70
+  * 777 \(XQ EC dmg\) visible and HP reduction visible
+  * 55 frames after initial damage \(frame 15\)
+* Frame 123
+  * 777 \(XQ EC dmg\) disappears 53 frames after becoming visible
+* Frame 129
+  * 777 \(XQ EC dmg\) visible and HP reduction visible
+  * 59 frames after previous tick \(frame 70\)
+* Frames 4, 15, 57, and 69 demonstrate that in EC, the 4TF E CDR functions separately from the reaction damage
+  * At frame 4, we obtained E CDR, but it wasn’t until frame 15 until the reaction damage actually went through.
+  * At frame 57, we observe KQ trigger the 4TF E CDR, but there is no reaction damage
+  * At frame 69, we realise that XQ triggered the next tick of EC because his orbital swords or Q swords were the last elemental source applied to the target.
+* Thus, we can conclude that KQ can trigger 4TF’s E CDR effect without actually triggering EC reaction damage. 
+
+**Significance**
+
+* There are only 2 conditions for KQ to trigger E CDR in the context of EC.
+  * 4TF must not be on CD \(0.8s ICD\)
+  * KQ must apply an electro elemental source to an enemy with existing hydro aura.
+* Therefore, 4TF is actually not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
+
+## Thundersoother
+
+### **4pc Thundersoother's effect Works for Heroes Off-Field**
+
+**By: IlidanNaga\#2163**
+
+**Evidence:**
+
+[https://youtu.be/4v-1j2LsxP4](https://youtu.be/4v-1j2LsxP4) 
+
+**Significance:**
+
+It does work for heroes off screen, can be useful for pure electro dmg parties using Fischl as extra damage source  
+
+
+## Viridescent Verener
+
+### **4pc Viridescent Venerer can Simultaneously Stack Different Element Resist Debuffs**
+
+**By: Comfy Seaweed\#3841**
+
+**Theory:** 
+
+Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different element resist together  
+
+
+**Testing:**
+
+Used barbara for hydro debuff, fischl for electro debuff. Compared the dmg before and after swirl takes place
+
+Barbara auto attack before swirl : 63
+
+Barbara auto attack after swirl : 80  
+
+
+Fischl charged attack before swirl : 637
+
+Fischl charged attack after swirl : 814  
+
+
+Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND electro resist debuff exist simultaneously.  
+****
+
+**Results:**
+
+ ****Theory was confirmed. See video for evidence.
+
+[**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)   
+****
+
+**Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP  
+
+
+### **4pc Viridescent Venerer Explained**
+
+**By: dandandin\#1486**
+
+**Theory:**
+
+I wanted to see how Viridescent Venerer would increase final Swirl damage. The important thing about 4p bonus is that Swirl damage will increase both from +60% Swirl % and also from -40% elemental resistance. Since it's damage depends on EM I made a graph for total increase as a function of EM \(attached here\).  
+
+
+**Evidence:**
+
+[https://www.youtube.com/watch?v=1v6av2DrCMM](https://www.youtube.com/watch?v=1v6av2DrCMM) 
+
+[https://www.reddit.com/r/Genshin\_Impact/comments/jovxl2/viridescent\_venerer\_4p\_swirl\_bonus\_and\_elemental/](https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/)   
+
+
+**Significance:**
+
+The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).  
+
+
+## **Artifact Substats Distribution**
+
+**By:SafconGalore\#9752**
+
+**TLDR; No, they seem to be skewed towards DEF in particular**
+
+**Theory:** 
+
+Substats on artifacts are unevenly distributed  
+
+
+**Methodology** 
+
+Collected data on 157 artifacts, Flower and Feather only to be able to account for mainstat \(mainstats can't appear as substat\). Manually adjusted results for flat HP and ATK based on representation among the artifacts.  
+****
+
+**Limitations** 
+
+n is of sufficient size. When foddering artifacts, they might not be chosen at random but may for some reason use def substats last. Ideally this would be further tested with a droprate table to be able to disregard the distortions from upgrading artifacts.  
+****
+
+**Evidence:** 
+
+**See** [**picture**](https://imgur.com/a/E7m0epM)**.** 
+
+**Complete Dataset here:** [**https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb\_B8LzZZXvxoRP\_1Md\_Fzt-8A/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb_B8LzZZXvxoRP_1Md_Fzt-8A/edit?usp=sharing)  
+****
+
+**Result** 
+
+Substats are distributed evenly except for flat Def for some reason, which is significantly overrepresented.  
+
