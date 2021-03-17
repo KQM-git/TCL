@@ -1,2 +1,0 @@
-# Crimson Witch of Flames
-

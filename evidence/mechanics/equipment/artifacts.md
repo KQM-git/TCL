@@ -1,6 +1,6 @@
 # Artifacts
 
-## Bloodstained Chivalry 
+## Bloodstained Chivalry
 
 ### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
 
@@ -8,8 +8,7 @@
 
 No, it does not even if you have dealt &gt;80% dmg to the enemy.
 
-[https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)   
-****
+[https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)
 
 ### **4pc Bloodstained Chivalry effect Persists through a Character Swap**
 
@@ -60,8 +59,7 @@ t=18, buff deactivates
 
 **By: Cenpi\#3224 and Boesik\#3192**
 
-The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persistent skill which triggers a reaction while the pyro user is not on the field, will this 40% bonus apply?  
-
+The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persistent skill which triggers a reaction while the pyro user is not on the field, will this 40% bonus apply?
 
 * For example, if Keqing applies electro &gt; Xiangling drops Guoba a distance away from the enemy &gt; Swap back to Keqing and lure the enemy into Guoba fire, will this overload reaction benefit from the 40% set bonus?
 * Yes, the overload reaction will benefit from the 40% bonus even though Xiangling is not on the field
@@ -87,26 +85,20 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 
 **Evidence:**
 
-\(\#1\)[https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png)  
+\(\#1\)[https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png)
 
-
-\(\#2 Healing Bonus only:\) [https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png)  
-
+\(\#2 Healing Bonus only:\) [https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png)
 
 **Significance:**
 
-- Yes it does, however the total healing output is nowhere close to 'actual healers' but for those curious here's the answer.  
+* Yes it does, however the total healing output is nowhere close to 'actual healers' but for those curious here's the answer.  
+* Healing Bonus does add on to the weapon as well the difference can be noted from no healing bonus and with healing bonus.  
 
-
-- Healing Bonus does add on to the weapon as well the difference can be noted from no healing bonus and with healing bonus.  
-
-
-**Without 4pc Maiden's = 2139** 
+**Without 4pc Maiden's = 2139**
 
 **With healing bonus only = 2798**
 
-**With 4pc Maiden's = 2888**  
-
+**With 4pc Maiden's = 2888**
 
 **Notes:**
 
@@ -114,10 +106,9 @@ Prototype Malice at R2
 
 Healing bonus of 30.8%
 
-Ningguang was used due to her low burst energy cost \(40\) 
+Ningguang was used due to her low burst energy cost \(40\)
 
-Above numbers have being subtracted from 150 \(started with that hp before healing\)  
-
+Above numbers have being subtracted from 150 \(started with that hp before healing\)
 
 ## **Tiara Sets**
 
@@ -129,55 +120,43 @@ In this test, we see if the 1 set effect of Tiara is active even when not visual
 
 **Test:**
 
-For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by pyro\), and to apply the pyro debuff I used Xiangling's elemental skill with grass to create a fire surface.  
+For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by pyro\), and to apply the pyro debuff I used Xiangling's elemental skill with grass to create a fire surface.
 
-
-Test 1 **-** No Tiara on, both set slots filled -  Pyro debuff lasts for aprox 10 seconds
+Test 1 **-** No Tiara on, both set slots filled - Pyro debuff lasts for aprox 10 seconds
 
 Test 2 **-** Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts for aprox 4/5 seconds
 
-Test 3 **-** Tiara on, buff showing -  Pyro debuff lasts for approx 4/5 seconds  
-****
+Test 3 **-** Tiara on, buff showing - Pyro debuff lasts for approx 4/5 seconds
 
 **Conclusion:**
 
-The Tiara status resist 1-set effect applies even when not visually active.  
-
+The Tiara status resist 1-set effect applies even when not visually active.
 
 ### **80% Status Resistance is Possible through Tiara**
 
-**By: Tankex\#4275**  
+**By: Tankex\#4275**
 
+In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).
 
-In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).  
+**Tiara of Flame, Domain tests:**
 
+Test 1 - No tiara, both set slots filled - Pyro debuff last long enough for the domain to reapply before it wears off. Pyro debuff infinite duration
 
-**Tiara of Flame, Domain tests:**  
+Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts 25 seconds
 
+Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds
 
-Test 1 - No tiara, both set slots filled - Pyro debuff last long enough for the domain to reapply before it wears off. Pyro debuff infinite duration  
-
-
-Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts 25 seconds  
-
-
-Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds  
-
-
-Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.  
-
+Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.
 
 **Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
 
 **Additional testing was performed by Tankex regarding electro debuff**
 
-I decided to test if the "Affected by Element for 40% less time" bonus also work with other domains apart from fire. I did some runs with and without the tiara in "Hidden Palace of Lianshian Formula" to test the electro Debuff and I got this.  
-****
+I decided to test if the "Affected by Element for 40% less time" bonus also work with other domains apart from fire. I did some runs with and without the tiara in "Hidden Palace of Lianshian Formula" to test the electro Debuff and I got this.
 
 Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
 
-Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.  
-****
+Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 ## Thundering Fury
 
@@ -185,30 +164,27 @@ Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 **By: Saizaku\#5569**
 
-**4-set thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that elemental mastery provides a multiplier to elemental reactions.** 
+**4-set thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that elemental mastery provides a multiplier to elemental reactions.**
 
 **Question:** Is the 4 set thundering fury effect additive or multiplicative to the bonus from elemental mastery?
 
 **Data:**
 
-![](../../../.gitbook/assets/data.png) 
+![](https://github.com/Artesians/TCL/tree/e3ee76d46395de742d3916d7ee8b2e469450690a/.gitbook/assets/data.png)
 
-**Result:**  
+**Result:**
 
-![](../../../.gitbook/assets/result.png)
+![](https://github.com/Artesians/TCL/tree/e3ee76d46395de742d3916d7ee8b2e469450690a/.gitbook/assets/result.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
-
-### 
 
 ### **4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction**
 
 **By: Cenpi\#3224**
 
-**The 4TF set effect adds 40% additional damage to electro-related reactions. In addition, everytime a reaction is proccd, the E CD is reduced by 1 second \(every 0.8s\).**   
+**The 4TF set effect adds 40% additional damage to electro-related reactions. In addition, everytime a reaction is proccd, the E CD is reduced by 1 second \(every 0.8s\).**
 
-
-**The question is whether or not the holder must be the one proccing the reaction as opposed to a support.** 
+**The question is whether or not the holder must be the one proccing the reaction as opposed to a support.**
 
 * For example, if Keqing has 4TF, applies electro, and Xiangling Guoba triggers overload, will this overload damage be increased by 40% or no?
 * The answer is no. In order to benefit from the increased damage, Keqing must be the one triggering the reaction.
@@ -218,8 +194,6 @@ Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 * In solo PvE play, Keqing does NOT frequently trigger elemental reactions due to her high rate of application of electro. 
 * Therefore, Keqing does not significantly benefit from the 4 set thundering fury effect.
-
-
 
 ### **4pc Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field**
 
@@ -249,8 +223,6 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 * This finding means that you can put 4TF on a support and get the bonus damage to reactions even if they are not on the field.
 
-### 
-
 ### **4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction**
 
 **By: Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417**
@@ -279,8 +251,6 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 **Significance**
 
 * 4TF holders who trigger reactions while not on the field will not get the 1s CDR.
-
-### 
 
 ### **Frame Analysis of 4pc Thundering Fury and Electro-charged Interactions**
 
@@ -350,12 +320,11 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 
 **Evidence:**
 
-[https://youtu.be/4v-1j2LsxP4](https://youtu.be/4v-1j2LsxP4) 
+[https://youtu.be/4v-1j2LsxP4](https://youtu.be/4v-1j2LsxP4)
 
 **Significance:**
 
-It does work for heroes off screen, can be useful for pure electro dmg parties using Fischl as extra damage source  
-
+It does work for heroes off screen, can be useful for pure electro dmg parties using Fischl as extra damage source
 
 ## Viridescent Verener
 
@@ -363,10 +332,9 @@ It does work for heroes off screen, can be useful for pure electro dmg parties u
 
 **By: Comfy Seaweed\#3841**
 
-**Theory:** 
+**Theory:**
 
-Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different element resist together  
-
+Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different element resist together
 
 **Testing:**
 
@@ -374,26 +342,21 @@ Used barbara for hydro debuff, fischl for electro debuff. Compared the dmg befor
 
 Barbara auto attack before swirl : 63
 
-Barbara auto attack after swirl : 80  
-
+Barbara auto attack after swirl : 80
 
 Fischl charged attack before swirl : 637
 
-Fischl charged attack after swirl : 814  
+Fischl charged attack after swirl : 814
 
-
-Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND electro resist debuff exist simultaneously.  
-****
+Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND electro resist debuff exist simultaneously.
 
 **Results:**
 
- ****Theory was confirmed. See video for evidence.
+_\*\*_Theory was confirmed. See video for evidence.
 
-[**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)   
-****
+[**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
 
-**Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP  
-
+**Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
 
 ### **4pc Viridescent Venerer Explained**
 
@@ -401,20 +364,17 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 **Theory:**
 
-I wanted to see how Viridescent Venerer would increase final Swirl damage. The important thing about 4p bonus is that Swirl damage will increase both from +60% Swirl % and also from -40% elemental resistance. Since it's damage depends on EM I made a graph for total increase as a function of EM \(attached here\).  
-
+I wanted to see how Viridescent Venerer would increase final Swirl damage. The important thing about 4p bonus is that Swirl damage will increase both from +60% Swirl % and also from -40% elemental resistance. Since it's damage depends on EM I made a graph for total increase as a function of EM \(attached here\).
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=1v6av2DrCMM](https://www.youtube.com/watch?v=1v6av2DrCMM) 
+[https://www.youtube.com/watch?v=1v6av2DrCMM](https://www.youtube.com/watch?v=1v6av2DrCMM)
 
-[https://www.reddit.com/r/Genshin\_Impact/comments/jovxl2/viridescent\_venerer\_4p\_swirl\_bonus\_and\_elemental/](https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/)   
-
+[https://www.reddit.com/r/Genshin\_Impact/comments/jovxl2/viridescent\_venerer\_4p\_swirl\_bonus\_and\_elemental/](https://www.reddit.com/r/Genshin_Impact/comments/jovxl2/viridescent_venerer_4p_swirl_bonus_and_elemental/)
 
 **Significance:**
 
-The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).  
-
+The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).
 
 ## **Artifact Substats Distribution**
 
@@ -422,29 +382,25 @@ The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl,
 
 **TLDR; No, they seem to be skewed towards DEF in particular**
 
-**Theory:** 
+**Theory:**
 
-Substats on artifacts are unevenly distributed  
+Substats on artifacts are unevenly distributed
 
+**Methodology**
 
-**Methodology** 
+Collected data on 157 artifacts, Flower and Feather only to be able to account for mainstat \(mainstats can't appear as substat\). Manually adjusted results for flat HP and ATK based on representation among the artifacts.
 
-Collected data on 157 artifacts, Flower and Feather only to be able to account for mainstat \(mainstats can't appear as substat\). Manually adjusted results for flat HP and ATK based on representation among the artifacts.  
-****
+**Limitations**
 
-**Limitations** 
+n is of sufficient size. When foddering artifacts, they might not be chosen at random but may for some reason use def substats last. Ideally this would be further tested with a droprate table to be able to disregard the distortions from upgrading artifacts.
 
-n is of sufficient size. When foddering artifacts, they might not be chosen at random but may for some reason use def substats last. Ideally this would be further tested with a droprate table to be able to disregard the distortions from upgrading artifacts.  
-****
+**Evidence:**
 
-**Evidence:** 
+**See** [**picture**](https://imgur.com/a/E7m0epM)**.**
 
-**See** [**picture**](https://imgur.com/a/E7m0epM)**.** 
+**Complete Dataset here:** [**https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb\_B8LzZZXvxoRP\_1Md\_Fzt-8A/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb_B8LzZZXvxoRP_1Md_Fzt-8A/edit?usp=sharing)
 
-**Complete Dataset here:** [**https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb\_B8LzZZXvxoRP\_1Md\_Fzt-8A/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1dLtUClmkfXLMaAylHhb_B8LzZZXvxoRP_1Md_Fzt-8A/edit?usp=sharing)  
-****
+**Result**
 
-**Result** 
-
-Substats are distributed evenly except for flat Def for some reason, which is significantly overrepresented.  
+Substats are distributed evenly except for flat Def for some reason, which is significantly overrepresented.
 

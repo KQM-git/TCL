@@ -70,7 +70,7 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 | Bounce GU | 2B |
 | Mine GU | 1A |
 
-* Each mine has its own ICD on Pyro application however if they explode on the same frame the pyro application will be inconsistent (max 2A per frame).
+* Each mine has its own ICD on Pyro application however if they explode on the same frame the pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 {% endtab %}
 

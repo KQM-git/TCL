@@ -359,7 +359,7 @@
 | HP% | 9% - 41.3% |
 
 * The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
-   - [adri\#1824](../../../evidence/mechanics/equipment/weapons.md#the-bell)
+  * [adri\#1824](../../../evidence/mechanics/equipment/weapons.md#the-bell)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -548,14 +548,14 @@
 
 ## Attack Speed Buffs on Claymores
 
-By: [EternalDream\#5503
-](../../../evidence/mechanics/equipment/weapons.md#attack-speed-buffs-on-claymores)
+By: [EternalDream\#5503 ](../../../evidence/mechanics/equipment/weapons.md#attack-speed-buffs-on-claymores)
 
 Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, the charged attack will have an attack speed increase for its entire duration when buffed, even if said buff wears off during charged attack.
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb 
-  ](https://streamable.com/uff6qb%20)
+* \[[https://streamable.com/uff6qb](https://streamable.com/uff6qb) 
+
+  \]\([https://streamable.com/uff6qb ](https://streamable.com/uff6qb%20)\)
 
 ## External Links
 
@@ -564,3 +564,4 @@ Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, 
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+

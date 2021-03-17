@@ -528,3 +528,4 @@ By: [Maygi\#4987](../../../evidence/mechanics/equipment/weapons.md#catalyst-effe
 **Evidence Vault**:
 
 {% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+

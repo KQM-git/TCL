@@ -266,9 +266,9 @@ By: Reydriar\#8127
 
 Added 12/7/2020
 
-**Finding** 
+**Finding**
 
-Losing Serpent Spine stacks has an ICD depending on the stack count. 
+Losing Serpent Spine stacks has an ICD depending on the stack count.
 
 * 5-4: 1.01-1.02s \(after you lost your 5th stack you can‘t lose the 4th stack for the named duration\)
 * 4-3: 1.01-1.02s
@@ -298,7 +298,7 @@ Skyward blade does not increase your damage after Elemental Burst but adds an ad
 
 Its separate line of damage crits individually from the normal attacks.
 
-**Current Description:** "Increases the DMG of Normal and Charged Attack hits by 20% for 12s." 
+**Current Description:** "Increases the DMG of Normal and Charged Attack hits by 20% for 12s."
 
 **More Accurate Description:** "Normal and Charged Attacks deal an additional 20% of Normal/Charged ATK as DMG for 12s" \(this additional damage is dealt separately\)
 
@@ -315,11 +315,11 @@ Its separate line of damage crits individually from the normal attacks.
 
 By: adri\#1824
 
-**Finding:** 
+**Finding:**
 
 The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
 
-**Testing:** 
+**Testing:**
 
 Attacked enemies:
 
@@ -330,7 +330,7 @@ Attacked enemies:
 
 [**Evidence**](https://imgur.com/a/1fCJ6IM%20)
 
-**Significance:** 
+**Significance:**
 
 Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
 
@@ -344,9 +344,9 @@ By: Crome\#2644
 
 **Evidence:**
 
-![](../../../.gitbook/assets/flutecrit1.png)
+![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit1.png)
 
-![](../../../.gitbook/assets/flutecrit2.png)
+![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit2.png)
 
 ## General Mechanics
 
@@ -356,16 +356,16 @@ By: EternalDream\#5503
 
 Added: 2/4/2021
 
-**Finding**: 
+**Finding**:
 
-Attack Speed buffs do not dynamically affect Claymore Charged Attacks 
+Attack Speed buffs do not dynamically affect Claymore Charged Attacks
 
-**Evidence**: 
+**Evidence**:
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
 * [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
 
-**Significance**: 
+**Significance**:
 
 If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
 
@@ -415,9 +415,9 @@ Characters do not include 1.1 characters.
 
 I made a [calculator ](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy)that takes into account Artifact Stats \(Feather Atk, Flat Atk substat, and Atk%\)
 
-![Evidence at 46.6% \(From ATK% Sands\)](../../../.gitbook/assets/atk-compensate1.png)
+![Evidence at 46.6% \(From ATK% Sands\)](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/atk-compensate1.png)
 
-![Evidence at 70% \(From Artifact Substats\)](../../../.gitbook/assets/atk-compensate2.png)
+![Evidence at 70% \(From Artifact Substats\)](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/atk-compensate2.png)
 
 Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 
@@ -437,15 +437,16 @@ By: Poyo\#6921
 
 Added 2/4/2021
 
-**Finding**: 
+**Finding**:
 
 There is a cap range for an arrow - the further you go after that cap the lower damage you deal.
 
-**Evidence**: 
+**Evidence**:
 
 * [https://streamable.com/pnfumf](https://streamable.com/uff6qb%20) \(Amos test\) 
 * [https://streamable.com/cq83a6](https://streamable.com/uff6qb%20) \(Sac Bow test\) 
 
-**Significance**: 
+**Significance**:
 
 Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
+
