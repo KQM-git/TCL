@@ -261,3 +261,4 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/ganyu.md" %}
+

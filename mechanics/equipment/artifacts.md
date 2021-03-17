@@ -4,7 +4,7 @@
 
 ## 5 Star Artifact Sets
 
-### Archaic Petra 
+### Archaic Petra
 
 {% tabs %}
 {% tab title="Description " %}
@@ -13,7 +13,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Blizzard Strayer 
+### Blizzard Strayer
 
 {% tabs %}
 {% tab title="Description" %}
@@ -22,7 +22,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Bloodstained Chivalry 
+### Bloodstained Chivalry
 
 {% tabs %}
 {% tab title="Description" %}
@@ -144,7 +144,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Viridescent Venerer 
+### Viridescent Venerer
 
 {% tabs %}
 {% tab title="Description" %}
@@ -157,7 +157,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Wanderer's Troupe 
+### Wanderer's Troupe
 
 {% tabs %}
 {% tab title="Description" %}
@@ -166,9 +166,9 @@
 {% endtab %}
 {% endtabs %}
 
-## 4 Star Artifact Sets 
+## 4 Star Artifact Sets
 
-### Berserker 
+### Berserker
 
 {% tabs %}
 {% tab title="Description" %}
@@ -177,7 +177,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Brave Heart 
+### Brave Heart
 
 {% tabs %}
 {% tab title="Description" %}
@@ -195,7 +195,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Gambler 
+### Gambler
 
 {% tabs %}
 {% tab title="Description" %}
@@ -204,7 +204,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Instructor 
+### Instructor
 
 {% tabs %}
 {% tab title="Description" %}
@@ -213,7 +213,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Martial Artist 
+### Martial Artist
 
 {% tabs %}
 {% tab title="Description" %}
@@ -222,7 +222,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Prayers For Destiny 
+### Prayers For Destiny
 
 {% tabs %}
 {% tab title="Description" %}
@@ -287,7 +287,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Resolution of Sojourner 
+### Resolution of Sojourner
 
 {% tabs %}
 {% tab title="Description" %}
@@ -296,7 +296,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Scholar 
+### Scholar
 
 {% tabs %}
 {% tab title="Description" %}
@@ -314,7 +314,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Tiny Miracle 
+### Tiny Miracle
 
 {% tabs %}
 {% tab title="Description" %}

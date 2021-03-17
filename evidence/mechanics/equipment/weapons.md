@@ -154,11 +154,9 @@ By: Cola\#6861
 
 [**Spreadsheet**](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 
-![](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/royalweap1.png)
+![](../../../.gitbook/assets/data.png)
 
-![](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/royalweap2.png)
-
-![](https://github.com/Artesians/TCL/tree/abad1df3e62eea3ed031b296c885af66a244177a/.gitbook/assets/royalweap3.png)
+![](../../../.gitbook/assets/result.png)
 
 **Significance**
 
