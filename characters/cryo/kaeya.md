@@ -205,3 +205,6 @@ Increases the level of **Glacial Waltz** by 3.
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Kaeya)
 
+**Evidence Vault**:
+
+{% page-ref page="../../evidence/characters/cryo/kaeya.md" %}
