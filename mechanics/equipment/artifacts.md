@@ -323,4 +323,8 @@
 {% endtab %}
 {% endtabs %}
 
+## External Links
+
+**Evidence Vault**:
+
 {% page-ref page="../../../evidence/mechanics/equipment/artifacts.md" %}
