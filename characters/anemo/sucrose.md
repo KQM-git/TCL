@@ -160,7 +160,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 168.22 | 180.24 | 192.26 | 204.27 | 216.29 | 228.3 |
 
-**Stamina Cost: 50**
+**Stamina Cost**: 50
 
 ### Plunge
 
@@ -189,10 +189,9 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 ## External Links
 
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose#:~:text=Sucrose%20is%20a%20playable%20Anemo,of%20the%20Knights%20of%20Favonius.)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose)
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
 
 **Evidence Vault**
 
 {% page-ref page="../../evidence/characters/anemo/sucrose.md" %}
-
