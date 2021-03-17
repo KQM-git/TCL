@@ -223,5 +223,6 @@ Energy Cost: 80**
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Lisa)
 * [**Lisa Mains Discord**](https://discord.gg/5SYy4MPPCt)
 
-**Evidence Vault**
+**Evidence Vault**:
 
+{% page-ref page="../../evidence/characters/electro/lisa.md" %}
