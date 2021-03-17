@@ -5,6 +5,8 @@
 By: BowlSoldier\#3528  
 Added 12/6/2020
 
+**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](../../../evidence/characters/hydro/xingqiu#xingqiu-c6-3rd-wave-applies-hydro-twice)
+
 **Finding:**
 
 Each wave of XQ's swords applies Hydro only once, regardless of how many swords are in that wave.
@@ -19,7 +21,7 @@ In both of these videos, the sword wave only clears away the existing Pyro on th
 
 There are some videos taken before 1.1 where the swords in each wave each seemed to have a separate ICD. This seems to have been fixed as part of the same patch that fixed XQ's orbital swords having a lower ICD after swapping. Let's be careful not to spread those old videos as misinformation.
 
-## Xingqiu C6 3rd wave applies hydro twice
+## Xingqiu C6 3rd Wave Applies Hydro Twice
 
 By: gacha4life\#2525
 Added 03/17/2021
