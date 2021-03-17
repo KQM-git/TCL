@@ -1,6 +1,6 @@
 # Xingqiu
 
-## **XQ Q Sword Internal Cooldown**
+## **XQ Q Sword Internal Cooldown** 
 
 By: BowlSoldier\#3528  
 Added 12/6/2020
@@ -18,6 +18,18 @@ In both of these videos, the sword wave only clears away the existing Pyro on th
 **Significance:**
 
 There are some videos taken before 1.1 where the swords in each wave each seemed to have a separate ICD. This seems to have been fixed as part of the same patch that fixed XQ's orbital swords having a lower ICD after swapping. Let's be careful not to spread those old videos as misinformation.
+
+## Xingqiu C6 3rd wave applies hydro twice
+
+By: gacha4life\#2525
+Added 03/17/2021
+
+**Evidence:**
+
+[https://www.youtube.com/watch?v=Mgbi6X0TTxM](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
+
+**Significance:** 
+For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
 
 ## **Xingqiu's Q Damage Calculation is Dynamic**
 
