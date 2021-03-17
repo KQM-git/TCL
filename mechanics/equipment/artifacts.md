@@ -323,3 +323,4 @@
 {% endtab %}
 {% endtabs %}
 
+{% page-ref page="../../../evidence/mechanics/equipment/artifacts.md" %}
