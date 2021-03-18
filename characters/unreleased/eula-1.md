@@ -16,79 +16,36 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 
 ## **Base Stats**
 
-| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7236 | 147 | 427 | 12 |
-| 60+ | 7725 | 157 | 456 | 12 |
-| 70 | 8485 | 172 | 501 | 12 |
-| 70+ | 8974 | 182 | 530 | 18 |
-| 80 | 9734 | 198 | 575 | 18 |
-| 80+ |  |  |  |  |
-| 90 |  |  |  |  |
+| 60 | 8579 | 222 | 487 | 69.20% |
+| 60+ | 9207 | 238 | 523 | 69.20% |
+| 70 | 10119 | 262 | 574 | 69.20% |
+| 70+ | 10746 | 278 | 610 | 78.80% |
+| 80 | 11669 | 302 | 662 | 78.80% |
+| 80+ | 12296 | 318 | 698 | 88.40% |
+| 90 | 13226 | 342 | 751 | 88.40% |
 
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Demonbane" %}
+{% tab title="Favonius Bladework - Edel" %}
 **Normal Attack**  
-Perform up to 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 101.75% |  |  |
-| 2-Hit | 91.75% |  |  |
-| 3-Hit | 116.75% |  |  |
-| 4-Hit | 147.13% |  |  |
 
 **Charged Attack**  
-Drains Stamina over time to perform a continuous spinning attack for up to 5s.  
-Perform a powerful slash at the end of the sequence.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spinning DMG | 81.81% |  |  |
-| Final DMG | 147.94% |  |  |
-| Stamina Cost | 40/s |  |  |
 
 **Plunge Attack**  
-Plunge from midair to strike the ground below dealing AoE DMG.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% |  |  |
-| Low Plunge DMG | 216.78% |  |  |
-| High Plunge DMG | 270.77% |  |  |
 {% endtab %}
 
-{% tab title="Chonghua’s Layered Frost" %}
-Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short delay, a **Chonghua Frost Field** will form:
+{% tab title="Icetide Vortex" %}
 
-* Within the said field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
-
-| Effect | Talent 6% |
-| :--- | :--- |
-| Skill DMG | 240.86% |
-| Infusion Duration | 2.5s |
-| Field Duration | 10s |
-| Cooldown | 15s |
-| Particles | 3~4 \(1:1\) |
-| Cast GU | 2B |
-| Infused Attack GU | 1A |
-| Frames |  |
-| MV/s |  |
 {% endtab %}
 
-{% tab title="Spirit Blade: Cloud-Parting Star" %}
-Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
+{% tab title="Glacial Illumination" %}
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| Skill DMG | 199.36% \* 3 |
-| CD | 12s |
-| Energy Cost | 40 |
-| GU | 1A per hit |
-| Frames |  |
-| MV/s |  |
 {% endtab %}
 {% endtabs %}
 
@@ -96,24 +53,15 @@ Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, de
 
 {% tabs %}
 {% tab title="Passive" %}
-## Gallant Journey
 
-When dispatched on an expedition on Liyue, time consumed is reduced by 25%
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-## Steady Breathing
 
-Sword, Claymore or Polearm-wielding characters within the field created by **Chonghua’s Layered Frost** have their Normal ATK SPD increased by 8%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Rimechaser Blade
 
-When the field created by Chonghua’s Layered Frost disappears, another **Spirit Blade** will be summoned to strike nearby opponents:
-
-* Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
-* Decreases Cryo Res of opponents hit by 10%
 {% endtab %}
 {% endtabs %}
 
@@ -121,108 +69,104 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 
 {% tabs %}
 {% tab title="C1" %}
-## Ice Unleashed
 
-The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
-
-* Each **Ice Blade** deals 50% of Chongyun’s ATK as Cryo DMG to all opponents in its path.
-* Each **Ice Blade** has a GU of 1A.
 {% endtab %}
 
 {% tab title="C2" %}
-## Atmospheric Revolution
 
-Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
 {% endtab %}
 
 {% tab title="C3" %}
-## Cloudburst
 
-Increases the level of Spirit Blade: Cloud-parting Star by 3.
+
+
 {% endtab %}
 
 {% tab title="C4" %}
-## Frozen Skies
 
-Chongyun regenerates 1 Energy every time he hits an opponent affected by Cryo.  
-This effect can only occur once every 2s.
 {% endtab %}
 
 {% tab title="C5" %}
-## The True Path
 
-Increases the level of Chonghua’s Layered Frost by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Rally of Four Blades
 
-**Spirit Blade: Cloud-parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun. This skill will also summon 1 additional **Spirit Blade**.
-
-* This DMG Bonus is **Additive**.
-* See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
 {% endtab %}
 {% endtabs %}
 
 ## **Full Talent Values**
 
 {% tabs %}
-{% tab title="Demonbane" %}
+{% tab title="Favonius Bladework - Edel" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 101.75 | 110.70 | 119.66 | 128.61 | 138.38 | 148.15 |
-| 2-Hit DMG | 91.75 | 99.82 | 107.90 | 115.97 | 124.78 | 133.59 |
-| 3-Hit DMG | 116.75 | 127.02 | 137.30 | 147.57 | 158.78 | 169.99 |
-| 4-hit DMG | 147.13 | 160.07 | 173.02 | 185.97 | 200.09 | 214.21 |
+| 1-Hit DMG | 109.63% | 119.27% | 128.92% | 138.57% | 149.09% | 161.15% |
+| 2-Hit DMG | 117.50% | 127.84% | 138.18% | 148.52% | 159.80% | 172.73% |
+| 3-Hit DMG | 66.56% + 66.56% | 72.42% + 72.42% | 78.28% + 78.28% | 84.14% + 84.14% | 90.53% + 90.53% | 97.85% + 97.85% |
+| 4-Hit DMG | 156.75% | 170.54% | 184.34% | 198.13% | 213.18% | 230.42% |
+| 5-Hit DMG | 86.06% + 86.06% | 93.64% + 93.64% | 101.21% + 101.21% | 108.78% + 108.78% | 117.05% + 117.05% | 126.51% + 126.51% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 81.81 | 89.01 | 96.21 | 103.41 | 111.26 | 119.12 |
-| Charged Attack Final DMG | 147.94 | 160.96 | 173.97 | 186.99 | 201.20 | 215.40 |
-
-**Maximum Duration**: 5s
+| Charged Attack Spinning DMG | 100% | 108.80% | 117.60% | 126.40% | 136% | 147% |
+| Charged Attack Final DMG | 180.81% | 196.72% | 212.64% | 228.55% | 245.91% | 265.79% |
 
 **Stamina Cost**: 40
+
+**Maximum Duration**: 5s
 
 ### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 157.85 |
-| Low Plunge DMG | 216.78 | 235.86 | 254.93 | 274.01 | 294.82 | 315.63 |
-| High Plunge DMG | 270.77 | 294.60 | 318.42 | 342.25 | 368.25 | 394.24 |
+| Plunge Impact | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 159.37% |
+| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
+| High Plunge DMG | 270.77% | 294.6% | 318.42% | 342.25% | 368.25% | 398.03% |
 {% endtab %}
 
-{% tab title="Chonghua’s Layered Frost" %}
+{% tab title="Icetide Vortex" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 240.86 | 258.06 | 275.26 | 292.47 | 309.67 | 326.88 | 344.08 | 365.59 |
-| Infusion Duration | 2.5 | 2.6 | 2.7 | 2.8 | 2.9 | 3 | 3 | 3 |
+| Press DMG | 204.96% | 219.60% | 234.24% | 248.88% | 263.52% | 278.16% | 292.80% | 311.10% |
+| Hold DMG | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
+| Icewhirl Brand DMG | 134.40% | 144% | 153.60% | 163.20% | 172.80% | 182.40% | 192% | 204% |
+| Phys + Cryo RES Decrease | 21% | 22% | 23% | 24% | 25% | 25% | 25% | 25% |
 
-**Field Duration**: 10s
+**DEF Bonus**: 30% per stack
 
-**Cooldown**: 15s
+**RES Decrease Duration**: 7s per stack
+
+**Grimheart Duration**: 18s
+
+**Press Cooldown**: 4s
+
+**Hold Cooldown**: 10s
 {% endtab %}
 
-{% tab title="Spirit Blade: Cloud-Parting Star" %}
+{% tab title="Glacial Illumination" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 199.36 | 213.60 | 227.84 | 242.08 | 256.32 | 270.56 | 284.80 | 302.60 |
+| Skill DMG | 287.84% | 308.40% | 328.96% | 349.52% | 370.08% | 390.64% | 411.20% | 436.90% |
+| Lightfall Sword Base DMG | 512.50% | 557.60% | 602.70% | 647.80% | 697% | 753.38% | 819.67% | 885.97% |
+| DMG Per Stack | 93.75% | 102% | 110.25% | 118.50% | 127.50% | 137.81% | 149.94% | 162.07% |
 
-**Energy Cost**: 40
+**Energy Cost**: 80
 
-**Cooldown**: 12s
+**Maximum Stacks**: 30
+
+**Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
 
+
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
+* 
 
 **Evidence Vault:**
 
