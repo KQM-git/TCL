@@ -32,19 +32,65 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% tab title="Favonius Bladework - Edel" %}
 **Normal Attack**  
 
+| String | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 109.63% |  |  |
+| 2-Hit | 117.50% |  |  |
+| 3-Hit | 66.56% x2 |  |  |
+| 4-Hit |	156.75% |  |  |
+| 5-Hit | 86.06% x2 |  |  |
 
 **Charged Attack**  
 
+| Type | Talent 6% | Frames | MV/s |
+| :--- | :--- | :--- | :--- |
+| Spinning DMG | 	100% |  |  |
+| Final DMG | 180.81%	 |  |  |
+| Stamina Cost | 40/s |  |  |
 
 **Plunge Attack**  
+
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 108.41% |
+| Low Plunge DMG | 216.78% |
+| High Plunge DMG | 270.77% |
 
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}
 
+| Effect | Talent 6% |
+| :--- | :--- |
+| Press DMG | 204.96% |
+| Hold DMG | 343.84% |
+| Icewhirl Brand DMG | 134.40% |
+| DEF Bonus | 30% per stack |
+| Phys + Cryo RES Decrease | 21% |
+| RES Decrease Duration | 7s per stack |
+| Grimheart Duration | 18s |
+| Press CD | 4s |
+| Hold CD | 10s |
+| Particles |  |
+| GU |  |
+| Frames |  |
+| MV/s |  |
+
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
+
+| Effect | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 287.84% |
+| Lightfall Sword Base DMG | 512.50% |
+| DMG per Stack | 93.75% |
+| Maximum Stacks | 30 |
+| CD | 20s |
+| Energy Cost | 80 |
+| GU |  |
+| Frames |  |
+| MV/s |  |
 
 {% endtab %}
 {% endtabs %}
