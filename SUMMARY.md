@@ -12,6 +12,10 @@
 
 ## Characters
 
+* [Unreleased Characters](characters/unreleased/README.md)
+  * [Rosaria](characters/unreleased/rosaria.md)
+  * [Yan Fei](characters/unreleased/yan-fei.md)
+  * [Eula](characters/unreleased/eula-1.md)
 * [Anemo](characters/anemo/README.md)
   * [Traveler \(Anemo\)](characters/anemo/traverler-anemo.md)
   * [Jean](characters/anemo/jean.md)

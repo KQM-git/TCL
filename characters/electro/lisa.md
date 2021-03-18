@@ -226,3 +226,4 @@ Energy Cost: 80**
 **Evidence Vault**:
 
 {% page-ref page="../../evidence/characters/electro/lisa.md" %}
+

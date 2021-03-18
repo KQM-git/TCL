@@ -327,4 +327,5 @@
 
 **Evidence Vault**:
 
-{% page-ref page="../../../evidence/mechanics/equipment/artifacts.md" %}
+{% page-ref page="../../evidence/mechanics/equipment/artifacts.md" %}
+
