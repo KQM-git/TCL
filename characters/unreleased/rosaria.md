@@ -141,3 +141,5 @@ description: >-
 {% endtabs %}
 
 ## **External Links**
+
+* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/)
