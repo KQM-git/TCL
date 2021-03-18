@@ -210,3 +210,5 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% endtabs %}
 
 ## **External Links**
+
+* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/eula/)
