@@ -89,14 +89,14 @@ While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Ra
 
 Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
 
-## Xingqiu E dash cancel animation
+## Xingqiu E Dash Cancel Animation
 
 By: Charliex3000\#9403
 Added 03/18/2021
 
 **Finding:**
 
-XQ E can be cancelled early by dashing.
+XQ E dash cancel is faster than ult cancelling.
 
 **Evidence:**
 
