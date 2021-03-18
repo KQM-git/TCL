@@ -163,10 +163,4 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% endtab %}
 {% endtabs %}
 
-
 ## **External Links**
-
-* 
-
-**Evidence Vault:**
-
