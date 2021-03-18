@@ -23,7 +23,8 @@ There are some videos taken before 1.1 where the swords in each wave each seemed
 
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
-By: gacha4life\#2525 Added 03/17/2021
+By: gacha4life\#2525 
+Added 03/17/2021
 
 **Evidence:**
 
@@ -88,3 +89,21 @@ While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Ra
 
 Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
 
+## Xingqiu E dash cancel animation
+
+By: Charliex3000\#9403
+Added 03/18/2021
+
+**Finding:**
+
+XQ E can be cancelled early by dashing.
+
+**Evidence:**
+
+[https://youtu.be/olBKG1I3JEw](https://youtu.be/olBKG1I3JEw)
+ 
+38 frames to dash cancel, 71 frames to ult cancel, 92 frames without a cancel to swap.
+
+**Significance:**
+
+Dash to swap is faster since it takes longer without a cancel to swap.
