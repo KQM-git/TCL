@@ -72,6 +72,12 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 > Fischl’s charged shot applies 1GU Electro aura and is triggered by Kaeya’s E \(2B\), applying 2GU Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
+### Frozen
+
+Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again.
+
+> Bennett uses E on a frozen enemy, applying pyro, which reacts with cryo to trigger melt and removes the frozen aura. Bennett uses E again, this time reacting with the exposed hydro aura to trigger vaporize.
+
 ## Melt and Vaporize
 
 ### Reaction Basics
