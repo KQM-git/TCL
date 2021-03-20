@@ -335,3 +335,4 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}
+

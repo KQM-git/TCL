@@ -27,7 +27,7 @@ description: >-
 {% tabs %}
 {% tab title="Spear of the Church" %}
 **Normal Attack**  
-Rosaria performs up to five consecutive spear strikes. 
+Rosaria performs up to five consecutive spear strikes.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along 
 | Charged Attack | 198.75% |  |  |
 
 **Plunge Attack**  
-Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact. 
+Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact.
 
 | Plunge Type | Talent 6 DMG% |
 | :--- | :--- |
@@ -55,7 +55,7 @@ Rosaria plunges to the ground from mid-air, damaging opponents along the way and
 {% endtab %}
 
 {% tab title="Ravaging Confession" %}
-Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo** DMG.   
+Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo** DMG.  
 This ability cannot be used to travel behind opponents of a larger build.
 
 | Type | Talent 6 Data |
@@ -70,7 +70,7 @@ This ability cannot be used to travel behind opponents of a larger build.
 
 {% tab title="Rites of Termination" %}
 Rosaria swings her weapon to slash surrounding opponents, then she summons a frigid Ice Lance that strikes the ground. Both actions deal **Cryo** DMG.  
-While active, the Ice Lance periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents. 
+While active, the Ice Lance periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents.
 
 | Effect | Talent 6 Data |
 | :--- | :--- |
@@ -89,14 +89,14 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 {% tab title="Passive" %}
 ### **Night Walk**
 
-At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.   
-Not stackable with Passive Talents that provide the exact same effect. 
+At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
+Not stackable with Passive Talents that provide the exact same effect.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Regina Probationum**  
+### **Regina Probationum**
 
-When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT RATE increases by 12% for 5s. 
+When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT RATE increases by 12% for 5s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -130,19 +130,19 @@ Increases the level of Ravaging Confession by 3.
 {% tab title="C4" %}
 ### Painful Grace
 
-Ravaging Confession's CRIT Hits regenerate 5 Energy for Rosaria. Can only be triggered once each time Ravaging Confession is cast. 
+Ravaging Confession's CRIT Hits regenerate 5 Energy for Rosaria. Can only be triggered once each time Ravaging Confession is cast.
 {% endtab %}
 
 {% tab title="C5" %}
 ### Last Rites
 
-Increases the level of Rites of Termination by 3. 
+Increases the level of Rites of Termination by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Divine Retribution 
+### Divine Retribution
 
-Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s. 
+Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% endtab %}
 {% endtabs %}
 
@@ -202,3 +202,4 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 ## **External Links**
 
 * [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/)
+

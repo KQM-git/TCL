@@ -84,8 +84,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | MV/s |  |
 
 * In specific circumstances, Diona's shield is 2U on swap.
-  * For more details see the [full entry](../../../evidence/characters/cryo/diona#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault
-
+  * For more details see the [full entry](https://github.com/Artesians/TCL/tree/b74ee3f1ec26e028c8d6bfedefb4beefa743ce80/evidence/characters/cryo/diona/README.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault
 {% endtab %}
 
 {% tab title="Signature Mix" %}
@@ -244,3 +243,4 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/diona.md" %}
+

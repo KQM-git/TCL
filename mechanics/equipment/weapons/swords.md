@@ -356,7 +356,6 @@
 {% endtab %}
 {% endtabs %}
 
-
 ### The Black Sword
 
 {% tabs %}

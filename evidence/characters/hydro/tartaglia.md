@@ -127,9 +127,9 @@ As multiple players had pointed out, Childe seems to have a fixed 3-second ICD o
 **Evidence:**
 
 \*\*\*\*[**https://www.youtube.com/watch?v=bsxSsu1njkU**](https://www.youtube.com/watch?v=sujHVSor-QY)  
-****The link above is a video of Childe doing Melee N1 cancels on a marked Ruin Guard. It shows how both Riptide ICD and Particle Gen ICD interacts with one another.
+_\*\*_The link above is a video of Childe doing Melee N1 cancels on a marked Ruin Guard. It shows how both Riptide ICD and Particle Gen ICD interacts with one another.
 
 **Significance:**
 
-Just a clarification on how his particle generation works.  
-****
+Just a clarification on how his particle generation works.
+

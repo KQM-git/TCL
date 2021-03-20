@@ -376,7 +376,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Ever-Changing |  Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate sprint by **14/16/18/20/22**% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20/25/30/35/40**% for 5s. |
+| Ever-Changing | Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate sprint by **14/16/18/20/22**% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20/25/30/35/40**% for 5s. |
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 {% endtab %}

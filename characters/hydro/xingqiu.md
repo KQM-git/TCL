@@ -237,3 +237,4 @@ Energy regeneration is not affected by Energy Recharge.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/xingqiu.md" %}
+

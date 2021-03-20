@@ -23,8 +23,7 @@ There are some videos taken before 1.1 where the swords in each wave each seemed
 
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
-By: gacha4life\#2525 
-Added 03/17/2021
+By: gacha4life\#2525 Added 03/17/2021
 
 **Evidence:**
 
@@ -91,8 +90,7 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 
 ## Xingqiu E Dash Cancel Animation
 
-By: Charliex3000\#9403
-Added 03/18/2021
+By: Charliex3000\#9403 Added 03/18/2021
 
 **Finding:**
 
@@ -101,9 +99,10 @@ XQ E dash cancel is faster than ult cancelling.
 **Evidence:**
 
 [https://youtu.be/olBKG1I3JEw](https://youtu.be/olBKG1I3JEw)
- 
+
 38 frames to dash cancel, 71 frames to ult cancel, 92 frames without a cancel to swap.
 
 **Significance:**
 
 Dash to swap is faster since it takes longer without a cancel to swap.
+

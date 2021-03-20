@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [February 2021](newsletter/february-2021.md)
+* [March 2021](newsletter/march-2021.md)
 * [Archive](newsletter/archive/README.md)
+  * [February 2021](newsletter/archive/february-2021.md)
   * [January 2021](newsletter/archive/january-2021.md)
 
 ## Characters
@@ -57,16 +58,25 @@
 
 ## Mechanics
 
+* [Gacha](mechanics/gacha.md)
+* [Gameplay Mechanics](mechanics/gameplay-mechanics/README.md)
+  * [Field Buffs](mechanics/gameplay-mechanics/field-buffs.md)
+  * [Hitlag Extension](mechanics/gameplay-mechanics/hitlag-extension.md)
+  * [Attributes](mechanics/gameplay-mechanics/attributes/README.md)
+    * [Energy Regeneration](mechanics/gameplay-mechanics/attributes/energy-regeneration.md)
+  * [Movement and Physics](mechanics/gameplay-mechanics/movement-and-physics.md)
+  * [Bugs](mechanics/gameplay-mechanics/bugs.md)
+  * [Lifeskills](mechanics/gameplay-mechanics/lifeskills.md)
 * [Combat](mechanics/combat/README.md)
   * [Elemental Reactions](mechanics/combat/elemental-reactions/README.md)
     * [Elemental Gauge Theory](mechanics/combat/elemental-reactions/elemental-gauge-theory.md)
+    * [Amping Reactions](mechanics/combat/elemental-reactions/amping-reactions.md)
+    * [Transformative Reactions](mechanics/combat/elemental-reactions/transformative-reactions.md)
     * [Internal Cooldown of Elemental Application](mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md)
   * [Shields](mechanics/combat/shields.md)
   * [Poise](mechanics/combat/poise.md)
-  * [Enemy Shields](mechanics/combat/enemy-shields.md)
-  * [Field Buffs](mechanics/combat/field-buffs.md)
-  * [Gameplay Mechanics](mechanics/combat/gameplay-mechanics/README.md)
-    * [Dragon Strike](mechanics/combat/gameplay-mechanics/dougstrike.md)
+  * [Tech](mechanics/combat/tech/README.md)
+    * [Dragon Strike](mechanics/combat/tech/dougstrike.md)
   * [Damage Formula](mechanics/combat/damage-formula.md)
 * [Equipment](mechanics/equipment/README.md)
   * [Weapons](mechanics/equipment/weapons/README.md)
@@ -77,8 +87,14 @@
     * [Swords](mechanics/equipment/weapons/swords.md)
   * [Artifacts](mechanics/equipment/artifacts.md)
   * [Food](mechanics/equipment/food.md)
-* [Enemies](mechanics/enemies.md)
-* [Gacha](mechanics/gacha.md)
+* [Enemies](mechanics/enemies/README.md)
+  * [Enemy Elemental Gauge](mechanics/enemies/enemy-elemental-gauge.md)
+  * [Enemy Shields](mechanics/enemies/enemy-shields.md)
+  * [Enemy Attributes](mechanics/enemies/enemy-attributes.md)
+
+## Fluff
+
+* [Miscellaneous Entries](fluff/miscellaneous-entries.md)
 
 ## Calculators
 
@@ -128,19 +144,30 @@
       * [Xiangling](evidence/characters/pyro/xiangling.md)
       * [Xinyan](evidence/characters/pyro/xinyan.md)
   * [Mechanics](evidence/mechanics/README.md)
+    * [Gameplay Mechanics](evidence/mechanics/gameplay-mechanics/README.md)
+      * [Field Buffs](evidence/mechanics/gameplay-mechanics/field-buffs.md)
+      * [Hitlag Extension](evidence/mechanics/gameplay-mechanics/hitlag-extension.md)
+      * [Attributes](evidence/mechanics/gameplay-mechanics/attributes.md)
+      * [Movement and Physics](evidence/mechanics/gameplay-mechanics/movement-and-physics.md)
+      * [Bugs](evidence/mechanics/gameplay-mechanics/bugs.md)
+      * [Lifeskills](evidence/mechanics/gameplay-mechanics/lifeskills.md)
     * [Combat](evidence/mechanics/combat/README.md)
       * [Elemental Reactions](evidence/mechanics/combat/elemental-reactions/README.md)
         * [Elemental Gauge Theory](evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory.md)
+        * [Amping Reactions](evidence/mechanics/combat/elemental-reactions/amping-reactions.md)
+        * [Transformative Reactions](evidence/mechanics/combat/elemental-reactions/transformative-reactions.md)
         * [Internal Cooldown of Elemental Application](evidence/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md)
       * [Shields](evidence/mechanics/combat/shields.md)
       * [Poise](evidence/mechanics/combat/poise.md)
-      * [Field Buffs](evidence/mechanics/combat/field-buffs.md)
-      * [Gameplay Mechanics](evidence/mechanics/combat/gameplay-mechanics.md)
+      * [Tech](evidence/mechanics/combat/tech.md)
       * [Damage Formula](evidence/mechanics/combat/damage-formula.md)
     * [Equipment](evidence/mechanics/equipment/README.md)
       * [Weapons](evidence/mechanics/equipment/weapons.md)
       * [Artifacts](evidence/mechanics/equipment/artifacts.md)
       * [Food](evidence/mechanics/equipment/food.md)
-    * [Enemies](evidence/mechanics/enemies.md)
+    * [Enemies](evidence/mechanics/enemies/README.md)
+      * [Enemy Elemental Gauge](evidence/mechanics/enemies/enemy-elemental-gauge.md)
+      * [Enemy Shields](evidence/mechanics/enemies/enemy-shields.md)
+      * [Enemy Attributes](evidence/mechanics/enemies/enemy-attributes.md)
     * [Gacha](evidence/mechanics/gacha.md)
 

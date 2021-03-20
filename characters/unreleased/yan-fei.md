@@ -218,3 +218,4 @@ Increases the maximum number of Scarlet Seals by 1.
 ## **External Links**
 
 * [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/feiyan/)
+
