@@ -75,7 +75,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
-Deals 5 waves of damage to enemies and knocks them back away from the caster.
+Deals 4 waves of damage to enemies and knocks them back away from the caster.
 
 * Creates 4 walls one in each cardinal direction from where the character is facing. 
 * These are considered Geo constructs but do not count towards the construct limit and cannot be climbed.
