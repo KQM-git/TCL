@@ -6,9 +6,9 @@ description: >-
 
 # Barbara
 
-## ![](../../.gitbook/assets/element_hydro.png) Barbara
+## ![](.gitbook/assets/element_hydro.png) Barbara
 
-![](../../.gitbook/assets/character_barbara_wish.png)
+![](.gitbook/assets/character_barbara_wish.png)
 
 ## **Base Stats**
 
@@ -31,19 +31,22 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 
 | **String** | **Talent 6%** | **Frames** | **MV/s** |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.98% |  |  |
-| 2-Hit | 49.73% |  |  |
-| 3-Hit | 57.46% |  |  |
-| 4-Hit | 77.28% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 52.98% | 7 | 454.1%/s |
+| 2-Hit | 49.73% | 25 | 246.5%/s |
+| 3-Hit | 57.46% | 45 | 213.6%/s |
+| 4-Hit | 77.28% | 92 | 154.9%/s |
+| With Recovery | 237.45% | 123 | 115.8%/s |
+| GU | 1A | ~ | ~ |
+
+* Frame counts are done using M1 Spams.
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro DMG.
 
 | **String** | **Talent 6%** | **Frames** | **MV/s** |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% |  |  |
-| GU | 1A |  |  |
+| Charged Attack | 232.74% | 90 | 232.74%/s |
+| GU | 1A | ~ | ~ |
 
 **Plunge Attack**  
 Plunge from mid-air to deal AoE Hydro DMG.
@@ -73,6 +76,7 @@ Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applyin
 | GU | 1A |
 | Duration | 15s |
 | Cooldown | 32s |
+| Frames | 52 |
 
 * Cast time can be reduced by performing a swap cancel.
 {% endtab %}
@@ -220,4 +224,3 @@ When Barbara is in the party but not on the field, and one of your own party mem
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/barbara.md" %}
-
