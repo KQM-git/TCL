@@ -6,9 +6,9 @@ description: >-
 
 # Xingqiu
 
-## ![](.gitbook/assets/element_hydro.png) Xingqiu
+## ![](../../.gitbook/assets/element_hydro.png) Xingqiu
 
-![](.gitbook/assets/character_xingqiu_wish.png)
+![](../../.gitbook/assets/character_xingqiu_wish.png)
 
 ## **Base Stats**
 
