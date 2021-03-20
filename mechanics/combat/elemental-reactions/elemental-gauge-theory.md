@@ -32,7 +32,7 @@ The decay notation number indicates the original system of elemental units that 
 
 **Example of New Notation:**
 
-> Kaeya’s E \(2B\) applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 1GU cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
+> Kaeya’s E applies 2B Cryo aura and is triggered by Fischl’s charged shot, applying 1A Electro. Superconduct occurs, 0.75B cryo aura remains, and the decay rate is still 6.0s per B.
 
 ## Decay Rate
 
@@ -66,17 +66,15 @@ These transformative reactions have a 1.25x modifier.
 
 When an elemental trigger is applied, it subtracts the corresponding number of elemental units times 1.25 from the enemy’s existing gauge.
 
-> Kaeya’s E \(2B\) applies 2GU Cryo aura and is triggered by Fischl’s charged shot, applying 1GU Electro. Superconduct occurs, 0.75GU Cryo aura remains, but the decay rate is still 1B\(6.0s per B\).
+> Kaeya’s E applies 2B Cryo aura and is triggered by Fischl’s charged shot, which applies 1A Electro. Superconduct occurs, 0.75B Cryo aura remains.
 
 If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur and the aura will be fully consumed and no element will be left behind because **gauges cannot go below zero**.
 
-> Fischl’s charged shot applies 1GU Electro aura and is triggered by Kaeya’s E \(2B\), applying 2GU Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
+> Fischl’s charged shot applies 1A Electro aura and is triggered by Kaeya’s E, applying 2B Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
 ### Frozen
 
-Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again.
-
-> Bennett uses E on a frozen enemy, applying pyro, which reacts with cryo to trigger melt and removes the frozen aura. Bennett uses E again, this time reacting with the exposed hydro aura to trigger vaporize.
+Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again. Even while the hydro aura is hidden under the frozen aura, hydro will continue to decay as normal.
 
 ## Melt and Vaporize
 
@@ -100,7 +98,7 @@ Weak amping elemental triggers have a 0.625x modifier**.**
 | 1GU | 0.625GU |
 | 2GU | 1.25GU |
 
-> An enemy affected by Amber’s Charged Shot has 2GU Pyro. Using Kaeya’s E \(2GU Cryo\) only removes 1GU of Pyro because weak melt occurs when the trigger is Cryo.
+> An enemy affected by Amber’s Charged Shot has 2B Pyro. Using Kaeya’s E \(2B Cryo\) only removes 1.25GU Pyro because weak melt occurs when the trigger is Cryo.
 
 Strong amping elemental triggers have a 2.5x modifier.
 
@@ -109,11 +107,11 @@ Strong amping elemental triggers have a 2.5x modifier.
 | 1GU | 2.5GU |
 | 2GU | 5GU |
 
-> An enemy affected by Kaeya’s E has 2GU Cryo. Using Diluc’s E \(1GU\) removes 2.5GU worth of Cyro aura because strong melt occurs when the trigger is Pyro. This leaves us with 0GU Cryo as gauges cannot go below zero.
+> An enemy affected by Kaeya’s E has 2B Cryo. Using Diluc’s E \(1A\) removes 2.5GU worth of Cyro aura because strong melt occurs when the trigger is Pyro. This leaves us with 0GU Cryo as gauges cannot go below zero.
 
 ## Crystallize and Swirl
 
-Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.625x modifier.
+Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.625x modifier. Because Geo and Anemo cannot be applied as auras, they do not have an associated decay rate, so Geo and Anemo sources will only be refered to in GU.
 
 | Elemental Gauge of Source | After Unit Modifier |
 | :--- | :--- |
@@ -121,15 +119,13 @@ Geo and Anemo can only be used as the trigger for crystallize and swirl reaction
 | 2GU | 1.25GU |
 | 4GU | 2.5GU |
 
-> Using a 1GU Geo trigger on a 1GU Electro aura will result in Crystallize, subtracting 0.625GU and leaving 0.375 GU of Electro aura.
+> Using a 1GU Geo trigger on a 1A Electro aura will result in Crystallize, subtracting 0.625GU and leaving 0.375A of Electro aura.
 
 ## Swirled Auras
 
-Currently how Swirled Auras fit into the Elemental Gauge Theory is still up in the air, new discoveries are still being made. For now, the information below is the conclusion we have come to.
+Swirled Auras are auras applied to an enemy through the use of swirl spreading an element. Swirled Auras have their own unique decay notation that only applies to them, which can be seen in this table here:
 
-Swirled Auras have their own unique decay notation that only applies to them, which can be seen in this table here:
-
-| Anemo GU | **Swirled Aura GU** | Decay Notation | Decay Rate Conversion |
+| Anemo GU | Swirled Aura GU | Decay Notation | Decay Rate Conversion |
 | :--- | :--- | :--- | :--- |
 | 1GU | 2.25GU | 2.25S | 5.6s per S |
 | 2GU | 3.25GU | 3.25V | 4.5s per V |
@@ -140,13 +136,13 @@ The aura of the element getting swirled has no bearing on the gauge or decay rat
 
 ## Electro-Charged
 
-Currently, how electro-charged fits into the Elemental Gauge Theory is still up in the air. This is because electro-charged \(EC\) is unique to all previously covered reactions. The current theory is that in EC, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
+Electro-charged \(EC\) is unique to all previously covered reactions. The current theory is that in EC, both Hydro and Electro simultaneously function and coexist as both the aura and trigger.
 
 EC is triggered when an enemy with a Hydro or Electro aura has the other aura applied to it. EC will tick once per second so long as enough electro and hydro gauge remain, except in the following case:
 
 > When either the Electro or Hydro gauge completely decays, the next EC tick will prematurely occur at the moment when the gauge is completely decayed. However, if one of the gauges empties within 0.5s of the last EC tick, there will not be another tick of EC.
 
-Each tick of EC **consumes 0.4GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other remaining gauge will remain available to further reactions.
+Each tick of EC **consumes 0.4GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other element will remain available to further reactions.
 
 ## **Credits**
 
