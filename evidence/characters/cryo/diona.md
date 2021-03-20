@@ -43,7 +43,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 
 By: Monochrom9/#8058
 
-**Evidence:
+**Evidence:**
 [https://www.youtube.com/watch?v=fdT1fHL9y-g](https://www.youtube.com/watch?v=fdT1fHL9y-g) (Level 3 Domain at end of video)  
 [https://imgur.com/a/rYbqJi1](https://imgur.com/a/rYbqJi1)
 [https://imgur.com/a/nDl7CiC](https://imgur.com/a/nDl7CiC) 
