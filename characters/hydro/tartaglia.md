@@ -6,9 +6,9 @@ description: >-
 
 # Tartaglia
 
-## ![](.gitbook/assets/element_hydro.png) Tartaglia
+## ![](../../.gitbook/assets/element_hydro.png) Tartaglia
 
-![](.gitbook/assets/character_tartaglia_wish.png)
+![](../../.gitbook/assets/character_tartaglia_wish.png)
 
 ## **Base Stats**
 
