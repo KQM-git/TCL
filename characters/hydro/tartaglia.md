@@ -8,7 +8,7 @@ description: >-
 
 ## ![](.gitbook/assets/element_hydro.png) Tartaglia
 
-![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/8682d1903270813922342950e16641e9b871ce79/.gitbook/assets/character_tartaglia_wish.png)
+![](.gitbook/assets/character_tartaglia_wish.png)
 
 ## **Base Stats**
 
