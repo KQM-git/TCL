@@ -6,9 +6,9 @@ description: >-
 
 # Tartaglia
 
-## ![](../../.gitbook/assets/element_hydro.png) Tartaglia
+## ![](.gitbook/assets/element_hydro.png) Tartaglia
 
-![](../../.gitbook/assets/character_tartaglia_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/8682d1903270813922342950e16641e9b871ce79/.gitbook/assets/character_tartaglia_wish.png)
 
 ## **Base Stats**
 
@@ -31,12 +31,15 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 60% |  |  |
-| 2-Hit | 67.25% |  |  |
-| 3-Hit | 80.5% |  |  |
-| 4-Hit | 82.88% |  |  |
-| 5-Hit | 88.5% |  |  |
-| 6-Hit | 105.75% |  |  |
+| 1-Hit | 60% | 17 | 211.8%/s |
+| 2-Hit | 67.25% | 30 | 254.5%/s |
+| 3-Hit | 80.5% | 64 | 194.8%/s |
+| 4-Hit | 82.88% | 101 | 172.7%/s |
+| 5-Hit | 88.5% | 123 | 184.9%/s |
+| 6-Hit | 105.75% | 162 + 53 | 179.6%/s |
+
+* Recovery of 6th Hit is 53 Frames.
+* MV/s stated is without recovery and assumes a standing combat-neutral startup. 
 
 **Charged Attack**  
 Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the **Riptide** status.
@@ -46,10 +49,13 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | NA |
-| Fully Charged | 173.6% |  |  | 1U |
-| Riptide Flash | 17.63% \* 3 |  |  | 1U |
-| Riptide Burst | 86.8% |  |  | 2U |
+| Aimed Shot | 63.75% | 27 | 141.7%/s | NA |
+| Fully Charged | 173.6% | 84 | 124%/s | 1U |
+| Riptide Flash | 17.63% \* 3 | ~ | ~ | 1U |
+| Riptide Burst | 86.8% | ~ | ~ | 2U |
+
+* Aimed Shot frame counts are done using M1 Aimed Spam.
+* Fully Charged frame counts are done using ARCC Shots.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
@@ -88,27 +94,31 @@ Perform up to 6 consecutive Hydro strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 56.5% |  |  |
-| 2-Hit | 60.5% |  |  |
-| 3-Hit | 81.88% |  |  |
-| 4-Hit | 87.13% |  |  |
-| 5-Hit | 80.38% |  |  |
-| 6-Hit | 51.5% + 54.75% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 56.5% | 7 | 484.3%/s |
+| 2-Hit | 60.5% | 20 | 351%/s |
+| 3-Hit | 81.88% | 48 | 248.6%/s |
+| 4-Hit | 87.13% | 80 | 214.5%/s |
+| 5-Hit | 80.38% | 116 | 189.5%/s |
+| 6-Hit | 51.5% + 54.75% | 165 | 171.9%/s |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| N1C | 248.62% |  |  | 1A |
+| N1C | 248.62% | 80 | 186.5%/s | 1A |
+| N2C | 309.12% | 93 | 199.4%/s | 1A |
+| N3C | 391% | 125 | 187.7%/s | 1A |
+
+* All frame counts are done against a Ruin Guard.
 
 **Riptide Slash**  
 Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash, dealing AoE Hydro DMG.
 
 * This DMG is considered as Elemental Skill DMG.
 * This DMG can only occur once every 1.5s.
-* Each proc of this effect gives 1 Hydro Particle.
+* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -132,8 +142,8 @@ Performs a different attack depending on the stance in which it is cast.
 | Energy Refund | 20 |
 | CD | 15s |
 | GU | 2B |
-| Frames |  |
-| MV/s |  |
+| Frames | 52 |
+| MV/s | 611.3%/s |
 
 **Melee Stance: Light of Obliteration**
 
@@ -151,6 +161,8 @@ Performs a different attack depending on the stance in which it is cast.
 | CD | 15s |
 | Cast GU | 2B |
 | Riptide Blast GU | 2B |
+| Frames | 97 |
+| MV/s | 505.7%/s |
 {% endtab %}
 {% endtabs %}
 
@@ -323,4 +335,3 @@ When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}
-
