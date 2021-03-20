@@ -6,9 +6,9 @@ description: >-
 
 # Xingqiu
 
-## ![](../../.gitbook/assets/element_hydro.png) Xingqiu
+## ![](.gitbook/assets/element_hydro.png) Xingqiu
 
-![](../../.gitbook/assets/character_xingqiu_wish.png)
+![](.gitbook/assets/character_xingqiu_wish.png)
 
 ## **Base Stats**
 
@@ -31,18 +31,18 @@ Perform up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 67.75% |  |  |
-| 2-Hit | 69.25% |  |  |
-| 3-Hit | 41.5% + 41.5% |  |  |
-| 4-Hit | 81.38% |  |  |
-| 5-Hit | 52.13% + 52.13% |  |  |
+| 1-Hit | 67.75% | 9 | 451.7%/s |
+| 2-Hit | 69.25% | 34 | 241.8%/s |
+| 3-Hit | 41.5% + 41.5% | 59 + 78 | 169.2%/s |
+| 4-Hit | 81.38% | 116 | 155.9%/s |
+| 5-Hit | 52.13% + 52.13% | 160 + 195 | 124.8%/s |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 218.13% |  |  |
+| N1C | 218.13% | 63 | 207.7%/s |
 
 Enemies struck by Xingqiu's charged attack will be staggered or launched.
 
@@ -73,11 +73,12 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 | Cooldown | 21s |
 | GU | 2 x 1A |
 | Particles | 4-5 \(1:1\) |
-| Frames | 92 |
+| Frames | 82 |
+| MV/s | 368%/s |
 
 * **Rain Sword's** damage reduction is a snapshot.
 * **Rain Sword's** interruption resistance can stack with other skills of similar effects.
-* While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 38, and start casting **Guhua Sword: Raincutter** on frame 71.
+* While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
@@ -98,7 +99,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 | Energy Cost | 80 |
 | GU | 1A |
 
-* **Sword Rain** damage calculation is does not snapshot.
+* **Sword Rain** damage calculation does not snapshot.
 * Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice
 {% endtab %}
 {% endtabs %}
@@ -236,4 +237,3 @@ Energy regeneration is not affected by Energy Recharge.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/hydro/xingqiu.md" %}
-
