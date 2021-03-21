@@ -31,19 +31,23 @@ Fischl performs up to 5 shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.13% | 15 |  |
-| 2-Hit | 68% | 33 |  |
-| 3-Hit | 84.5% | 68 |  |
-| 4-Hit | 83.88% | 111 |  |
-| 5-Hit | 104.5% | 136 |  |
+| 1-Hit | 64.13% | 10 | 384.8%/s |
+| 2-Hit | 68% | 28 | 283.1%/s |
+| 3-Hit | 84.5% | 61 | 213.1%/s |
+| 4-Hit | 83.88% | 102 | 176.8%/s |
+| 5-Hit | 104.5% | 131 | 185.6%/s |
+| With Recovery | 405.26% | 182 | 133.6%/s |
 
 **Aimed Shot**  
 Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will deal Electro DMG.
 
 | String | Talent 6% | GU | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 0 |  |  |
-| Fully Charged | 173.6% | 1 | 94 |  |
+| Aimed Shot | 63.75% | 0 | 26 | 63.75%/s |
+| Fully Charged | 173.6% | 1 | 95 | 109.6%/s |
+
+* Aimed Shot frame counts are done using M1 Spams.
+* Fully Charged frame counts are done using ARCC Shots.
 
 **Plunge**
 
