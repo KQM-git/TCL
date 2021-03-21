@@ -20,6 +20,12 @@
 * 2 Piece Set Bonus: Increases Cryo DMG by 15%
 * 4 Piece Set Bonus: When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.
 {% endtab %}
+
+{% tab title="Findings" %}
+
+* The 4p set bonus don't snapshot. The Crit Rate increase is dynamic, and changes your Crit Rate in real time.
+
+{% endtab %}
 {% endtabs %}
 
 ### Bloodstained Chivalry
