@@ -85,7 +85,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 Push back nearby enemies and activate **Rainbow Bladework**. While under the effect of **Rainbow Bladework**:
 
 * Active character’s Normal Attacks will trigger a wave of **Sword Rain** attacks, dealing Hydro DMG.
-  * **Sword Rain** waves can be triggered at most once a second. However, they can be buffered, i.e., by attacking slightly before 1 second has passed, the next **Sword Rain** waves will be triggered as soon as possible.
+  * **Sword Rain** waves can be triggered at most once a second. However, so long as you are in an normal attack animation, even if you attack slightly before 1 second has passed, the next **Sword Rain** wave will be triggered as soon as possible.
   * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.
 * **Rain Swords** remain at the maximum number**.**
