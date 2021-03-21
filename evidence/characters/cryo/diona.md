@@ -65,3 +65,4 @@ I'm not 100% certain it works this way, but Noelle had a similar bug that leads 
 
 Unfortunately, this comparison has some issues such as Diona shield not caring about ping and the above theory failing to explain how the first shield could apply 2U. I have no idea at this time how to construct an experiment that would prove definitively that this is how shields actually work and is honestly outside the scope of this entry, but these two bugs are suspicious in their shared timings and could be worth scrutinizing.
 
+Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depending on the aura also it does not apply 2U to diona herself until the second swap.
