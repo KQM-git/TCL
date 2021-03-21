@@ -74,6 +74,9 @@ Rough eyeballing based on the hp bar seems to be 20-25% damage: [https://cdn.dis
 
 ## Continuous Self-Swirl
 
+By: KDacus#2865
+Added: 3/21/2021
+
 **Theory/Finding/Bug**:
 
 Jean Ult repeatedly swirls every character in her Q if they have an Aura element on them. Should the same character stand on a Bennett Q it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
