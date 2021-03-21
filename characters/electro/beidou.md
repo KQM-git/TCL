@@ -33,11 +33,11 @@ Beidou performs up to 5 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 103.38% |  |  |
-| 2-Hit | 103% |  |  |
-| 3-Hit | 128.38% |  |  |
-| 4-Hit | 125.75% |  |  |
-| 5-Hit | 163% |  |  |
+| 1-Hit | 103.38% | 23 | 269.7%/s |
+| 2-Hit | 103% | 66 | 187.6%/s |
+| 3-Hit | 128.38% | 134 | 149.9%/s |
+| 4-Hit | 125.75% | 178 | 155.2%/s |
+| 5-Hit | 163% | 246 | 152.1%/s |
 
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
 
@@ -48,8 +48,11 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 81.75% |  |  |
-| Final Slash | 148% |  |  |
+| Slash | 81.75% | 35 | 140.1%/s |
+| Final Slash | 148% | 32 | 277.5%/s |
+
+* Charged Attack wind up is 71 frames long.
+* All frame counts are done against a Ruin Guard
 
 **Plunge**
 
@@ -76,10 +79,10 @@ Beidou swings her blade dealing Electro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Base DMG | 170.24% | 7.5s | 2B | 2 |  |  |
-| Hold | 170.24% | 7.5s | 2B | 2~3 \(1:9\) |  |  |
-| DMG Bonus on Hit Taken | 224% \(scaling\) |  |  | 3 |  |  |
-| Shield Scaling | 20.16% Max HP + 2195 |  | 1A |  |  |  |
+| Base DMG | 170.24% | 7.5s | 2B | 2 | 41 | 249.1%/s |
+| Hold | 170.24% | 7.5s | 2B | 2~3 \(1:9\) | ~ | ~ |
+| DMG Bonus on Hit Taken | 224% \(scaling\) | ~ | ~ | 3 | ~ | ~ |
+| Shield Scaling | 20.16% Max HP + 2195 | ~ | 1A | ~ | ~ | ~ |
 
 * Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
 {% endtab %}
@@ -105,7 +108,7 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 | Energy Cost | 80 |
 | Cast GU | 4C |
 | Lightning GU | 1A |
-| Frames |  |
+| Frames | 45 |
 
 * Beidou's lightning discharges have 3 damage instances with 2 targets or more.
 * Stormbreaker's additional arc lightning can jump back to the initial target.
