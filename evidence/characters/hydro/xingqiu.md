@@ -119,6 +119,7 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 *  First set of 2: Click-> wait 500 ms -> click -> wait 600 MS -> swap
 *  Second set of 2: Click -> wait 500 ms -> click -> wait 400 MS -> swap
 
-**Signifiance**: 
+**Significance**: 
+
 Clears up how exactly "XQ buffers."
 Additionally pending some extra tests about how long the active window for an auto to proc rain swords it
