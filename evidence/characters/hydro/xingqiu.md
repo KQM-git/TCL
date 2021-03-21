@@ -106,7 +106,7 @@ XQ E dash cancel is faster than ult cancelling.
 
 Dash to swap is faster since it takes longer without a cancel to swap.
 
-## Xingqiu Sword Rain Buffering
+## Xingqiu Sword Rain "Buffering"
 
 **Theory/Finding/Bug:**
 
