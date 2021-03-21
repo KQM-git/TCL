@@ -134,6 +134,7 @@
 * 40% additional damage to electro-related reactions is only applied if the set holder triggers the reaction. However, the set holder doesn't have to be active on-field. 
 * The 4p set holder has to be active on-field to benefit from the cooldown reduction effect.
 * Regarding how Electro-charged works with 4TF, If the 4p set bonus is not on cooldown \(0.8s\),  then the set bonus is not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
+* 4p set effect of cooldown reduction can be triggered by non-damaging elemental applications.
 {% endtab %}
 {% endtabs %}
 
