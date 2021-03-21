@@ -341,6 +341,33 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
   * KQ must apply an electro elemental source to an enemy with existing hydro aura.
 * Therefore, 4TF is actually not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
 
+### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications 
+
+By: Sayline#5959
+Added: 3/21/2021
+
+**Finding**:
+Thundering Fury 4-piece set effect (cooldown reduction) can be triggered by non-damaging Hydro application.
+
+**Evidence**:
+
+I have 2 examples where this can be observed.
+The first one uses XQ's skill, where we see 4TF triggered repeatedly even without XQ doing any damaging moves (Oz deals damage, but he is the aura, not trigger for EC).
+https://youtu.be/qSEwlawImHU
+
+The second example uses Barbara's skill. Here, Oz was the trigger majority of the time, but during his ICD, Barbara was able to trigger 4TF (at about 00:07).
+https://youtu.be/nPvpICUd7qY
+
+Here is a third example, where we don't rely on Oz as our electro crutch. Tested on Hidden Palace of Lianshan Formula I (the weapon domain in Liyue).
+https://youtu.be/4FEWaKG7xJQ
+
+**Significance**:
+
+1. Limit testing for 4TF set effect.
+2. Makes 4TF XQ carry an attractive idea to explore.
+
+**Additionally**: No, 4TF does not reduce sac sword cooldown.
+
 ## Thundersoother
 
 ### **4pc Thundersoother's effect Works for Heroes Off-Field**
