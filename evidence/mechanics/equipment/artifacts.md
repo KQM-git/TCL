@@ -1,5 +1,34 @@
 # Artifacts
 
+## Blizzard Strayer
+
+### Blizzard Strayer and Cryo Resonance don't Snapshot
+
+By: Vye#9195
+Added: 3/21/2021
+
+**Findings**: 
+
+Cryo resonance and the artefact set Blizzard Strayer never snapshot even with abilities that snapshot. They are always dynamic and will change your crit rate in real time.
+
+**Testing**:
+
+Albedo E was used to perform the tests because it doesn't remove cryo on the enemy and it snapshots according to my sources.
+
+For cryo resonance Albedo was equipped with artefacts to reach 85% crit rate without Blizzard Strayer set bonuses. Here is a video recording of using Albedo E followed by applying cryo to the enemy. Over a prolonged period I could not get a noncrit Albedo E proc against the enemy:
+
+Following that I reduced the crit rate to 80% and equipped a complete Blizzard Strayer set to Albedo. Once again I could not get noncrit Albedo E procs against the enemy when using Albedo E first followed up by applying cryo to the enemy:
+
+**Significance**:
+
+You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abilities that usually snapshot and last of a longer period of time.
+
+**Evidence**:
+
+* https://www.youtube.com/watch?v=L5L42frtjsw
+* https://www.youtube.com/watch?v=EvB8-4rAtsQ
+* https://www.youtube.com/watch?v=d_Zrx0KasDg
+
 ## Bloodstained Chivalry
 
 ### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
