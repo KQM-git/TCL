@@ -13,11 +13,11 @@ Cryo resonance and the artefact set Blizzard Strayer never snapshot even with ab
 
 **Testing**:
 
-Albedo E was used to perform the tests because it doesn't remove cryo on the enemy and it snapshots according to my sources.
+Albedo E was used to perform the tests because it doesn't remove cryo on the enemy and it snapshots.
 
-For cryo resonance Albedo was equipped with artefacts to reach 85% crit rate without Blizzard Strayer set bonuses. Here is a video recording of using Albedo E followed by applying cryo to the enemy. Over a prolonged period I could not get a noncrit Albedo E proc against the enemy:
+For cryo resonance, Albedo was equipped with artifacts to reach 85% crit rate without Blizzard Strayer set bonuses. Below is a video recording of using Albedo E followed by applying cryo to the enemy. Over a prolonged period I could not get a noncrit Albedo E proc against the enemy. 
 
-Following that I reduced the crit rate to 80% and equipped a complete Blizzard Strayer set to Albedo. Once again I could not get noncrit Albedo E procs against the enemy when using Albedo E first followed up by applying cryo to the enemy:
+Following that I reduced the crit rate to 80% and equipped a complete Blizzard Strayer set to Albedo. Once again I could not get noncrit Albedo E proc against the enemy when using Albedo E first followed up by applying cryo to the enemy.
 
 **Significance**:
 
