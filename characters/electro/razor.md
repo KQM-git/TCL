@@ -31,21 +31,21 @@ Razor performs 4 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 131.89% |  |  |
-| 2-Hit | 113.62% |  |  |
-| 3-Hit | 142.05% |  |  |
-| 4-Hit | 176.24% |  |  |
+| 1-Hit | 131.89% | 25 | 316.5%/s |
+| 2-Hit | 113.62% | 71 | 207.5%/s |
+| 3-Hit | 142.05% | 109 | 213.3%/s |
+| 4-Hit | 176.24% | 192 | 179.6%/s |
 
 * 3-hit cancel is the best DPS outside of Lighting Fang.
-* 4-hit cancel has the best has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
+* 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
 
 **Charged Attack**  
 Razor consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 90.9% |  |  |
-| Final Slash | 164.38% |  |  |
+| Slash | 90.9% | 30 | 181.8%/s |
+| Final Slash | 164.38% | 29 | 340.1%/s |
 
 **Plunge**
 
@@ -61,7 +61,7 @@ Razor consumes 40 stamina a second to keep spinning. At the end, perform a more 
 Razor lunges forward and slams down with a claw that deals AoE Electro damage in front of Razor.
 
 * When hitting an enemy generates one electro sigil, you can have three sigils at once and each sigil increases Razor's ER by 20%.
-* The duration of the sigils is 18s and is refreshed everytime you press Claw and Thunder.
+* The duration of the sigils is 18s and is refreshed every time you press Claw and Thunder.
 
 **Hold**
 
@@ -73,8 +73,8 @@ Razor slams his hand down, dealing Electro damage in a wide circle around him.
 
 | Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 278.88% | 6s | 2B | 2~3 \(1:9\) |  |  |
-| Hold DMG | 413.28% | 10s | 2B | 3~4 \(1:9\) |  |  |
+| Press DMG | 278.88% | 6s | 2B | 2~3 \(1:9\) | 74 | 226.1%/s |
+| Hold DMG | 413.28% | 10s | 2B | 3~4 \(1:9\) | 92 | 269.5%/s |
 {% endtab %}
 
 {% tab title="Lightning Fang" %}
@@ -96,7 +96,7 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 | Energy Cost | 80 |
 | Cast GU | 2B |
 | Echo U | 1A |
-| Frames |  |
+| Frames | 62 |
 {% endtab %}
 {% endtabs %}
 
