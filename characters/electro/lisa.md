@@ -32,28 +32,29 @@ Perform up to 4 lightning attacks dealing Electro DMG.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 55.44% | 22 | 151.2%/s |
+| 1-Hit | 55.44% | 25 | 133.1%/s |
 | 2-Hit | 50.29% | 46 | 137.9%/s |
-| 3-Hit | 59.92% | 68 | 146.2%/s |
-| 4-Hit | 76.94% | 113 | 128.8%/s |
-| GU | 1A |  |  |
+| 3-Hit | 59.92% | 70 | 142%/s |
+| 4-Hit | 76.94% | 114 | 127.7%/s |
+| With Recovery | 247.97% | 143 | 101.8%/s |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 247.97% | 72 | 206.64%/s |
-| GU | 1A |  |  |
+| Charged Attack | 247.97% | 95 | 156.6%/s |
+| GU | 1A | ~ | ~ |
 
 **Plunge Attack**  
 Plunge towards the ground below from mid-air to deal AoE Electro DMG.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6% |  |  |
-| Low Plunge DMG | 165.17% |  |  |
-| High Plunge DMG | 206.3% |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 82.6% |
+| Low Plunge DMG | 165.17% |
+| High Plunge DMG | 206.3% |
 {% endtab %}
 
 {% tab title="Violet Arc" %}
@@ -73,15 +74,15 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 
 | Effect | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Press DMG | 112% | 20 | 336%/s |
-| Press CD | 1s | 80 | 84%/s |
-| Hold DMG | 448% | 115 | 233.7%/s |
-| Stack 1 DMG | 515.2% | 115 | 268.8%/s |
-| Stack 2 DMG | 593.6% | 115 | 309.7%/s |
-| Stack 3 DMG | 682.06% | 115 | 355.9%/s |
-| Holding CD | 16s |  |  |
-| Press GU | 1A |  |  |
-| Hold GU | 2B |  |  |
+| Press DMG | 112% | 21 | 320%/s |
+| Press CD | 1s | 81 | 83%/s |
+| Hold DMG | 448% | 116 | 231.7%/s |
+| Stack 1 DMG | 515.2% | 116 | 264.9%/s |
+| Stack 2 DMG | 593.6% | 116 | 307%/s |
+| Stack 3 DMG | 682.06% | 116 | 352.8%/s |
+| Holding CD | 16s | ~ | ~ |
+| Press GU | 1A | ~ | ~ |
+| Hold GU | 2B | ~ | ~ |
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
@@ -92,10 +93,10 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Effect | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Discharge DMG | 51.18% | 30 | 102.4%/s |
-| Duration | 15s |  |  |
-| CD | 20s |  |  |
-| Energy Cost | 80 |  |  |
-| GU | 1A |  |  |
+| Duration | 15s | ~ | ~ |
+| CD | 20s | ~ | ~ |
+| Energy Cost | 80 | ~ | ~ |
+| GU | 1A | ~ | ~ |
 {% endtab %}
 {% endtabs %}
 
