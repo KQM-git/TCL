@@ -108,6 +108,9 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 ## Xingqiu Sword Rain "Buffering"
 
+By: Charliex3000\#9403
+Added: 03/21/2021
+
 **Theory/Finding/Bug:**
 
 XQ ult wave comes out if you are in an auto animation at the time the ICD ends. It does not actually buffer.
