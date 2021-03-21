@@ -85,6 +85,7 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 * Cast also knocks away light enemies.
 * The **Dandelion field** deals Anemo damage to enemies crossing the border of the field.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
+  * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
