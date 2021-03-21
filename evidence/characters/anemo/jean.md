@@ -72,3 +72,16 @@ Rough eyeballing based on the hp bar seems to be 20-25% damage: [https://cdn.dis
 * If choosing to launch target for cc reasons then make sure that its sent straight up so that it doesn't arc in order to maintain high damage.
 * Also first damage based on target max hp in game?
 
+## Continuous Self-Swirl
+
+**Theory/Finding/Bug**:
+
+Jean Ult repeatedly swirls every character in her Q if they have an Aura element on them. Should the same character stand on a Bennett Q it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
+
+**Evidence**:
+
+[https://youtu.be/f-fzwDOYL6I](https://youtu.be/f-fzwDOYL6I)
+
+**Significance**:
+
+Very consistent pyro aura application for possible Cryo or Hydro main carries or overload setups as well as shield breaking
