@@ -52,6 +52,8 @@ The duration of Freeze is dependent on the lowest gauge element when it is trigg
 
 The behavior of Freeze curves to give diminishing returns at higher GU values. This curve predicts a duration of about 5.7s for 2U.
 
+## Evidence Vault:
+
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md" %}
 
 
