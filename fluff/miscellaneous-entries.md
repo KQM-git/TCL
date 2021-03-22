@@ -36,3 +36,21 @@ By mastering these skills, you can climb the intimidating heights of the Frostbe
 Being at a greater height confers immense benefits. Those at a significant height over others possess a birds-eye view of the battlefield, allowing them to observe their enemies from afar. The great military strategist Sun Tzu once said, "If you know the enemy and know yourself, you need not fear the result of a hundred battles." Furthermore, the advantage of height is not merely backed by military theory. In fact, it is has been a deciding factor throughout history. For example, Obi Wan cleverly defeated Anakin by utilising this intrinsic advantage unique to the high ground. 
 
 Also, you can perform a plunging attack off of the tree.
+
+## Aether vs Lumine 
+
+By: Fluffy/#5580
+Added: 03/23/2021
+
+**Theory:** 
+The traveler twins are not equal.
+
+**Evidence:**
+Using the OpenCV Python library, I have compared official images of both Aether and Lumine (cropped to 400x700). Reading these images as a 3d array (Width x Height x RGB) and comparing the sums of RGB for the total pixels, I have discovered that Lumine is more red, green, and blue than Aether. 
+[Aether](https://imgur.com/a/Nm7xBRu)
+[Lumine](https://imgur.com/a/PKcOjzX)
+[Output](https://imgur.com/a/Y7bRGnd)
+
+**Significance:** 
+This means that Lumine is superior in all categories compared to Aether, so Lumine > Aether. In addition, I have valid evidence to conclude another point. By squaring the resulting array and looking at the comparison once again, I found that Aether beats Lumine in blue now but still loses in red and green. Therefore, I believe I now have sufficient evidence to conclude that Lumine is Santa Claus, which makes her even cooler and just that much better than Aether.
+
