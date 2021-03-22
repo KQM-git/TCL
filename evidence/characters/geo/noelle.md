@@ -51,6 +51,9 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## maidstrike vs n3d (dragonstrike)
 
+By: sakuno/#7950
+Added: 03/22/2021
+
 **Theory:**
 Noelle using N1P spam (hitlag plunge aka Dragon Strike Noelle) is higher damage per second than the N3 dash cancel.
 
