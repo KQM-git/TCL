@@ -80,10 +80,11 @@ Beidou swings her blade dealing Electro DMG.
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Base DMG | 170.24% | 7.5s | 2B | 2 | 41 | 249.1%/s |
-| Hold | 170.24% | 7.5s | 2B | 2~3 \(1:9\) | ~ | ~ |
+| Hold | 170.24% | 7.5s | 2B | 2~4 | ~ | ~ |
 | DMG Bonus on Hit Taken | 224% \(scaling\) | ~ | ~ | 3 | ~ | ~ |
 | Shield Scaling | 20.16% Max HP + 2195 | ~ | 1A | ~ | ~ | ~ |
 
+* Tidecaller will produce minimum 2 particles, if you get hit once while holding(one charge) it produces 3 particles and if you get hit two times(two charges) or perform a perfect parry it will produce 4 particles.
 * Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
 {% endtab %}
 
