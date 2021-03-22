@@ -27,19 +27,20 @@ description: >-
 {% tabs %}
 {% tab title="Divine Marksmanship" %}
 **Normal Attack**  
-Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
+Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG \(x2\) | 29.63% |  |  |
+| 1-Hit DMG | 29.63% + 29.63% |  |  |
 | 2-Hit DMG | 64.50% |  |  |
 | 3-Hit DMG | 76.13% |  |  |
-| 4-Hit DMG \(x2\) | 37.87% |  |  |
+| 4-Hit DMG | 37.87% + 37.87% |  |  |
 | 5-Hit DMG | 73.63% |  |  |
 | 6-Hit DMG | 103.13% |  |  |
 
 **Aimed Shot**  
-Consumes 50 Stamina to deal AoE **Anemo** DMG.
+Perform a precise Aimed Shot with increased DMG.  
+A fully charged shot will deal Anemo DMG.
 
 | String | Talent 6% | GU | Frames | MV\s |
 | :--- | :--- | :--- | :--- | :--- |
@@ -47,7 +48,7 @@ Consumes 50 Stamina to deal AoE **Anemo** DMG.
 | Fully-Charged Aimed Shot | 173.60% |  |  |  |
 
 **Plunge Damage**  
-Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
+Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -57,18 +58,29 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
-Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
+**Press**
+
+Summons an Wind Domain at the opponent's location, dealing AoE Anemo DMG and launching opponents into the air. 
+
+**Hold**
+
+Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and launching opponents into the air. Venti then rides the winds into the air.
+
+* Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
 | Effect | Talent 6% | CD | GU |
 | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s |  |
-| Hold | 532% | 15s |  |
+| Press | 386.40% | 6s | 2U |
+| Hold | 532% | 15s | 2U |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
-Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
+Venti fires off an arrow made of countless coalesced winds, creating a huge **Stormeye** that sucks in opponents and deals continuous Anemo DMG.
 
-If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
+**Elemental Absorption**
+
+* If the **Stormeye** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type.
+* This can only occur once per use.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -76,7 +88,14 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Additional Elemental DMG | 26.32% |
 | Duration | 8s |
 | CD | 15s |
+| GU | 2 |
 | Energy Cost | 60 |
+
+* The **Stormeye** is elevated above the ground. Some attacks are be unable to hit enemies that are lifted.
+* Venti needs to be at most 20 levels below the enemy to be able to lift them.
+* The **Stormeye** deals 20 ticks of Anemo DoT. Elemental absorption can occur after the 4th tick, for a maximum of 16 ticks of Additional Elemental DMG.
+* Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls. Every third absorbed elemental tick applies an unknown GU of the absorbed element, for a maximum of 6 applications.
+* The damage calculation snapshots.
 {% endtab %}
 {% endtabs %}
 
@@ -88,7 +107,7 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 Decreases gliding Stamina consumption for your own party members by 20%.
 
-Not stackable with Passive Talents that provide the exact same effects.
+* Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 2" %}
@@ -102,7 +121,7 @@ Holding Skyward Sonnet creates an upcurrent that lasts for 20s.
 
 Regenerates 15 Energy for Venti after the effects of Wind's Grand Ode end.
 
-If an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.
+If an Elemental Absorption occurred, this also regenerates 15 Energy for all characters of that corresponding element in the party.
 {% endtab %}
 {% endtabs %}
 
@@ -209,7 +228,8 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 ## External Links
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Venti)
-* [**Venti Mains Discord**](https://discord.gg/dkE584QFg7)
+* [**Venti Mains Discord**](https://discord.gg/ventimains)
 
 **Evidence Vault**
 
+{% page-ref page="../../evidence/characters/anemo/venti.md" %}
