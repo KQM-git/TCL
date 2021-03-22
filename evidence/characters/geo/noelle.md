@@ -49,3 +49,31 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Significance:** If you're C4, use the sacrificial reset after the shield pops, not while it's active.
 
+## maidstrike vs n3d (dragonstrike)
+
+**Theory:**
+Noelle using N1P spam (hitlag plunge aka Dragon Strike Noelle) is higher damage per second than the N3 dash cancel.
+
+To execute the hitlag plunge, attack an enemy and dash and jump at the same time as when your sword collides with the enemy. She will gain more height than normal enough to execute a low plunge. 
+
+**Evidence:**
+
+With Anemo Resonance
+N1 + plunge spam = 207.36% MV/s
+N3 Sprint cancel    = 153.09% MV/s  (credit Artesian)
+
+With Jean C2
+N1 + plunge spam = 207.36% MV/s
+N3 Sprint cancel   = 162.66% MV/s  (WITH jean C2)
+N3 + plunge is:  187.93 MV/s (also with jean C2)
+ 
+[N1P with anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
+[N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
+[N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
+
+**Summary:**
+So by using the dragon strike technique on noelle with Jean C2, you will see around a 27.4% increase in dps over just spamming N3 dash cancels (also with Jean C2). And with some more practice you could definitely shave off more frames with the increased attack speed as shown by the 89 frame N1P the lowest I was able to get. I'd say the average N1 + plunge is 96 frames. 
+
+Question: Why don't you have a version without Anemo resonance? Anemo characters are shit to run with Noelle.
+
+Me: I can't for the life of me get consistent plunges on these boomer hands without anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
