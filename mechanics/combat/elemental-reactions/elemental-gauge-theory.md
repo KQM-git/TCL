@@ -55,7 +55,7 @@ Additional applications of the aura element will apply their own respective gaug
 * **Red** = B decay rate
 * **Green** = A decay rate
 
-## Overload, Superconduct, and Freeze
+## Overload and Superconduct
 
 These transformative reactions have a 1.25x modifier.
 
@@ -72,7 +72,7 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 > Fischl’s charged shot applies 1A Electro aura and is triggered by Kaeya’s E, applying 2B Cryo. Superconduct occurs, and no aura is left behind as triggers can only remove units, they can’t add aura/gauge.
 
-### Frozen
+### Freeze
 
 Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again. Even while the hydro aura is hidden under the frozen aura, hydro will continue to decay as normal.
 
