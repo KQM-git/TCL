@@ -257,6 +257,8 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 
 {% embed url="https://www.youtube.com/watch?v=ef8McW6VD4A" caption="with anemo resonance" %}
 
+Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D. However, it's difficult to perform Noelle DS without movement speed buffs.
+
 {% endtab %} {% endtabs %}
 
 ## **External Links**
