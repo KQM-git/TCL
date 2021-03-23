@@ -45,7 +45,7 @@ A fully charged shot will deal Anemo DMG.
 | String | Talent 6% | GU | Frames | MV\s |
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% |  |  |  |
-| Fully-Charged Aimed Shot | 173.60% |  |  |  |
+| Fully-Charged Aimed Shot | 173.60% | 1U |  |  |
 
 **Plunge Damage**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -68,10 +68,10 @@ Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and laun
 
 * Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
-| Effect | Talent 6% | CD | GU |
-| :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 2U |
-| Hold | 532% | 15s | 2U |
+| Effect | Talent 6% | CD | GU | Particles |
+| :--- | :--- | :--- | :--- | :--- |
+| Press | 386.40% | 6s | 2U | 2~3 \(1:9\) |
+| Hold | 532% | 15s | 2U | 3~4 \(1:9\) |
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
@@ -88,7 +88,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 | Additional Elemental DMG | 26.32% |
 | Duration | 8s |
 | CD | 15s |
-| GU | 2 |
+| GU | 2U |
 | Energy Cost | 60 |
 
 * The **Stormeye** is elevated above the ground. Some attacks are be unable to hit enemies that are lifted.
