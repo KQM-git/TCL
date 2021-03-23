@@ -56,8 +56,7 @@ Enemies struck by Noelle's charged attack will be staggered or launched.
 | Low Plunge DMG | 216.78% |
 | High Plunge DMG | 270.77% |
 
-If performing a Jump when breastplate expires Noelle can gain enough height to use a plunge attack.
-Noelle can use the Dragon Strike tech with movement speed buffs to increase her mv/s but usually the characters that enable it does not fit into conventional Noelle teams and it is difficult to execute.
+Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
 {% endtab %}
 
 {% tab title="Breastplate" %}
@@ -159,7 +158,7 @@ Increases the level of Breastplate by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### To be cleaned
+### To Be Cleaned
 
 When Breastplate’s duration expires or it is destroyed, it will deal 400% ATK of Geo DMG to surrounding opponents.
 {% endtab %}
@@ -251,6 +250,14 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
+
+## Media
+
+{% tabs %}{% tab title="Dragonstrike" %} 
+
+{% embed url="https://www.youtube.com/watch?v=ef8McW6VD4A" caption="with anemo resonance" %}
+
+{% endtab %} {% endtabs %}
 
 ## **External Links**
 
