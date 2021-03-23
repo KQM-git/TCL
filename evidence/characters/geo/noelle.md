@@ -68,22 +68,146 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 **Evidence:**
 
-With Anemo Resonance:
+* [N1P with anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
+* [N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
+* [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
+
+{% tabs %}
+{% tab title="TLDR" %}
+
+**With Anemo Resonance**
 
 * N1 + plunge spam = 207.36% MV/s
 * N3 Sprint cancel = 153.09% MV/s  (credit to Artesians#0002)
 
-With Jean C2:
+**With Jean C2**
 
 * N1 + plunge spam = 207.36% MV/s
 * N3 Sprint cancel   = 162.66% MV/s  (WITH jean C2)
 * N3 + plunge is:  187.93 MV/s (also with jean C2)
 
-Clips: 
+{% endtab %}
+{% tab title="DS: Anemo Res Only" %}
 
-* [N1P with anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
-* [N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
-* [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
+**First String**
+
+* start of 1st N1:  0:25 (frame when sword is off her back)
+* start of 2nd N1:  2:00 (frame when sword is readying to swing behind her back)
+* start of 3rd N1:  3:40
+* start of 4th N1:  5:17
+* start of 5th N1:  6:49
+* 2-1 = 95
+* 3-2 = 100
+* 4-3 = 96
+* 5-4 = 92
+
+**Noelle T6 MVs**
+
+* T6 N1 = 115%
+* T6 plunge = 216.78%
+* N1 + plunge = 331.78
+
+**Calculating using Frame Perfect(?) 92 frame execution**: 
+
+* 331.78 / 92 = 3.60 x 60 = 216.37%
+* N1P spam = 216.37%
+* N3 Sprint cancel = 153.09% MV/s
+
+*An increase of 41.3% DPS*
+
+**Calculating using human average(?) 96 frame execution**: 
+
+* 331.78 / 96 = 3.456 x 60 = 207.36%
+* N1P spam = 207.36%
+* N3 Sprint cancel = 153.09% MV/s  (credit Artesian)
+
+*An increase of 35.4% DPS.*
+
+**Second String**
+
+* start of 1st N1:  10:42
+* start of 2nd N1:  12:17
+* start of 1st N1:  13:36
+* start of 2nd N1:  15:13
+* start of 3rd N1:  16:46
+* 2-1 = 94
+* 2-1 = 97
+* 3-2 = 93
+
+{% endtab %}
+{% tab title="N3D: Jean C2" %}
+
+**First String**
+
+* start of 1st N1:  5:27
+* start of 2nd N1:  7:43
+* start of 3rd N1:  9:53
+* start of 4th N1:  12:01
+* start of 5th N1:  14:09
+* start of 6th N1:  16:15
+* 2-1 = 136 frames
+* 3-2 = 130 frames
+* 4-3 = 128 frames
+* 5-4 = 128 frames
+* 6-5 = 126 frames
+
+**Noelle T6 MVs for N1 N2 and N3**: 
+
+* 115% + 106.63% + 125.38% = 347.01%
+* Assume N3D = 128 frame execution with Jean C2: 347.01 / 128 = 2.711 x 60 = 162.66% 
+* N3D with Jean C2 = 162.66% MV/s
+
+{% endtab %}
+{% tab title="DS: Jean C2 + Anemo Res" %}
+ 
+Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance  <--- I kind of fck'd up here, I shouldnt be using Anemo res. Thankfully the extra 10% move speed shouldn't mess up results here.
+
+**First String**
+* start of 1st N1:  5:51
+* start of 2nd N1:  7:38
+* start of 3rd N1:  9:29
+* start of 4th N1:  11:16
+* 2-1 = 107
+* 3-2 = 111
+* 4-3 = 107  <--- too slow can go faster, see second string
+
+**Second String**
+
+* start of 1st N1:  22:05
+* start of 2nd N1:  23:41
+* start of 3rd N1:  25:17
+* start of 4th N1:  26:46
+* start of 1st N1:  27:45
+* start of 2nd N1:  29:22
+* 2-1 = 96
+* 3-2 = 96
+* 4-3 = 89  <--- wow
+* 2-1 = 97
+
+**Noelle T6 MVs**
+
+* T6 N1     = 115%
+* T6 plunge = 216.78%
+* N1 + plunge = 331.78%
+
+**Calculating using Frame Perfect(?) 89 frame execution** 
+
+* 331.78 / 89 = 3.727 x 60 = 223.67%
+* N1P spam = 223.67%  (with jean C2)
+* N3 Sprint cancel = 162.66% MV/s  (WITH jean C2)
+
+*An increase in DPS of 37.5%.*
+
+**Calculating using human average(?) 96 frame execution** 
+
+* 331.78 / 96 = 3.456 x 60 = 207.36%
+* N1P spam = 207.36%  (with jean C2)
+* N3 Sprint cancel = 162.66% MV/s   (WITH jean C2)
+
+*An increase in DPS of 27.4%*
+
+{% endtab %}
+{% endtabs %}
 
 **Summary:**
 
