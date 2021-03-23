@@ -51,7 +51,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## Maidstrike vs N3D (dragonstrike)
 
-By: sakuno/#7950
+By: sakuno#7950
 Added: 03/22/2021
 
 **Theory:**
