@@ -57,6 +57,7 @@ Enemies struck by Noelle's charged attack will be staggered or launched.
 | High Plunge DMG | 270.77% |
 
 If performing a Jump when breastplate expires Noelle can gain enough height to use a plunge attack.
+Noelle can use the Dragon Strike tech with movement speed buffs to increase her mv/s but usually the characters that enable it does not fit into conventional Noelle teams and it is difficult to execute.
 {% endtab %}
 
 {% tab title="Breastplate" %}
