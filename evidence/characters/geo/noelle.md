@@ -55,6 +55,7 @@ By: sakuno/#7950
 Added: 03/22/2021
 
 **Theory:**
+
 Noelle using N1P spam (hitlag plunge aka Dragon Strike Noelle) is higher damage per second than the N3 dash cancel.
 
 To execute the hitlag plunge, attack an enemy and dash and jump at the same time as when your sword collides with the enemy. She will gain more height than normal enough to execute a low plunge. 
@@ -79,6 +80,7 @@ Clips:
 * [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
 
 **Summary:**
+
 By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increase in dps over just spamming N3 dash cancels (also with Jean C2). With some more practice you could definitely shave off more frames with the increased attack speed as shown by the 89 frame N1P, which was the lowest I was able to get. I'd say the average N1 + plunge is 96 frames. 
 
 **Question**: Why isn't there a version without Anemo resonance? Anemo characters are shit to run with Noelle.
