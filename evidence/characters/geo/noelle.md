@@ -2,8 +2,9 @@
 
 ## Noelle
 
-### How does 2NO interact with Noelle Q? \(Kibouo\#1698\)
+### How does 2NO interact with Noelle Q?
 
+By: Kibouo#1698
 Added 12/18/2020
 
 **Hypothesis:**
@@ -13,13 +14,14 @@ Added 12/18/2020
 
 **Evidence:**
 
-[https://youtu.be/IH-g6ek-wdo](https://youtu.be/IH-g6ek-wdo) - Noelle with NO
-
-[https://youtu.be/Pq8qZ7mC-JU](https://youtu.be/Pq8qZ7mC-JU) - Noelle w/o NO
+* [https://youtu.be/IH-g6ek-wdo](https://youtu.be/IH-g6ek-wdo) - Noelle with NO
+* [https://youtu.be/Pq8qZ7mC-JU](https://youtu.be/Pq8qZ7mC-JU) - Noelle w/o NO
 
 **Result:** The only swing affected by NO is the one initiated by the ult. Interestingly, the activation of the ult creates a "shockwave" which does damage \(1st damage number in attached vids\). This damage is also affected by NO. Enhanced basic attacks are not affected by NO.
 
-### How does Noelle’s Elemental burst interact with temporary defence buffs? \(Midori\#2173, JonahFarc\#7056\)
+### How does Noelle’s Elemental burst interact with temporary defence buffs?
+
+By: JonahFarc#7056 and Midori#2173
 
 **Finding:** Noelle's Elemental Burst snapshots the current defence value at the time of activation for the ATK increase.
 
@@ -31,7 +33,9 @@ Added 12/18/2020
 
 This means that users of whiteblind needs to keep the stack at max or stack it before activating burst for full value of the active effect.
 
-### Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks? \(JonahFarc\#7056\)
+### Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
+
+By: JonahFarc#7056
 
 **Finding:** It takes the ATK value when it breaks.
 
@@ -41,7 +45,9 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Significance:** Break your shield while your burst is active if possible.
 
-## How does Sacrificial Greatsword work with Noelle? \(JonahFarc\#7056\)
+## How does Sacrificial Greatsword work with Noelle?
+
+By: JonahFarc#7056
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
@@ -49,7 +55,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Significance:** If you're C4, use the sacrificial reset after the shield pops, not while it's active.
 
-## Maidstrike vs N3D (dragonstrike)
+## Maidstrike vs N3D (Dragonstrike)
 
 By: sakuno#7950
 Added: 03/22/2021
