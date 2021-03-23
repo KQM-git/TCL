@@ -71,7 +71,9 @@ With Jean C2:
 * N1 + plunge spam = 207.36% MV/s
 * N3 Sprint cancel   = 162.66% MV/s  (WITH jean C2)
 * N3 + plunge is:  187.93 MV/s (also with jean C2)
- 
+
+Clips: 
+
 * [N1P with anemo res](https://www.youtube.com/watch?v=ef8McW6VD4A)
 * [N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
 * [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
