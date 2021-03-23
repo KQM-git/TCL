@@ -1,8 +1,6 @@
 # Noelle
 
-## Noelle
-
-### How does 2NO interact with Noelle Q?
+## How does 2NO interact with Noelle Q?
 
 By: Kibouo#1698
 Added 12/18/2020
@@ -19,7 +17,7 @@ Added 12/18/2020
 
 **Result:** The only swing affected by NO is the one initiated by the ult. Interestingly, the activation of the ult creates a "shockwave" which does damage \(1st damage number in attached vids\). This damage is also affected by NO. Enhanced basic attacks are not affected by NO.
 
-### How does Noelle’s Elemental burst interact with temporary defence buffs?
+## How does Noelle’s Elemental burst interact with temporary defence buffs?
 
 By: JonahFarc#7056 and Midori#2173
 
@@ -33,7 +31,7 @@ By: JonahFarc#7056 and Midori#2173
 
 This means that users of whiteblind needs to keep the stack at max or stack it before activating burst for full value of the active effect.
 
-### Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
+## Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
 
 By: JonahFarc#7056
 
