@@ -10,6 +10,12 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
 * The ICD timer is not paused when opening a menu \(you can use this interaction to open a Wish menu or your Adventurer's Handbook menu\) to proc elemental reactions[ faster than intended](https://www.youtube.com/watch?v=Tvv3b3DIabs).
   * Book tricking can be exploited to push reaction compositions or Fischl turbo interactions further.
 
+## Media
+
+**A Video Example of the 2 Ways ICD Resets**
+
+{% embed url="https://www.youtube.com/watch?v=wGab6lW2BfI" %} {% endtab %}
+
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md" %}
