@@ -224,3 +224,4 @@ The meteorite created by Starfell Sword lasts 10s longer.
 
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/geo/traveler-geo" %}
