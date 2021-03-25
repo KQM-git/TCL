@@ -190,33 +190,25 @@ shield snapshot difference
 
 [https://imgur.com/N4EN8xP](https://imgur.com/N4EN8xP)
 
-## Beidou e particle mechanics
+## Beidou E Particle Mechanics
 
 By: Steph/#3614
 Added: 03/22/2021
 
 **Theory/Findings:**
-Beidou's Tidecaller particle production mechanic actually has no rng assigned to it at all. It produce at base 2 particle, and every charges you gain on your tidecaller increase the particle produced by 1, capping at 4 (2 charge). In addition, perfect parry will automatically provides 2 charges for particle production as well in addition to damage, and if the skill were to be held even after a perfect parry, even if you don't get hit at all, it will still be executed at max charge
+Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 (2 charge). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
 
-**Evidence/Testing:** 
-A series of 100 E cast of each following category was executed: - 
-Tapping E without getting hit at all (to simulate a no charge tidecaller)
-https://imgur.com/rtJKoAe
+**Evidence/Testing:** A series of 100 E casts of each following category was executed 
 
-Holding E for at least half a second (to make sure that it's not a perfect parry) before getting hit, then get hit only once before release the E right after (to simulate 1 charge)
-https://imgur.com/0UGRrti
+* [Tapping E without getting hit at all](https://imgur.com/rtJKoAe) (to simulate a no charge tidecaller)
+* [Holding E for at least half a second](https://imgur.com/0UGRrti) (to make sure that it's not a perfect parry) before getting hit, then get hit only once before release the E right after (to simulate 1 charge)
+* [Holding E for at least half a second](https://imgur.com/Yr8KJNr) (to make sure that it's not a perfect parry) before getting hit, then get hit at least twice before releasing the E after (to simulate 2/full charge)
+* [Tap E on enemy's attack](https://imgur.com/ppUAnWq) (to simulate perfect parry)
 
-Holding E for at least half a second (to make sure that it's not a perfect parry) before getting hit, then get hit at least twice before releasing the E after (to simulate 2/full charge)
-https://imgur.com/Yr8KJNr
+**Results:**
 
-Tap E on enemy's attack (to simulate perfect parry)
-https://imgur.com/ppUAnWq
+* 0 charge tidecaller will always produce 2 electro particles
+* 1 charge tidecaller will always produce 3 electro particles
+* 2 charge tidecaller and perfect parries will always produce 4 electro particles
 
-The following result was show and is tested to be consistent: -
-
-0 charge tidecaller will always produce 2 electro particles
-1 charge tidecaller will always produce 3 electro particles
-2 charge tidecaller and perfect parries will always produce 4 electro particles
-
-**Significance:**
-This makes beidou's particle production way easier to count.
+**Significance:** This makes Beidou's particle production way easier to count.
