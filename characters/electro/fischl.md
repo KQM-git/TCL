@@ -38,6 +38,8 @@ Fischl performs up to 5 shots with a bow.
 | 5-Hit | 104.5% | 131 | 185.6%/s |
 | With Recovery | 405.26% | 182 | 133.6%/s |
 
+* Fischl's max damage ceiling is 245.81% MV/s for a 2N LMB combo but reaching this level is not realistic.
+
 **Aimed Shot**  
 Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will deal Electro DMG.
 
@@ -127,6 +129,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Particles | 0 |
 | GU | 2B |
 | Damage Type | Charged Attack |
+
+This can be used to activate the passive on prototype crescent when it hits a weak point.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
