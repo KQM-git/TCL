@@ -4,10 +4,9 @@
 
 ### Blizzard Strayer and Cryo Resonance don't Snapshot
 
-By: Vye#9195
-Added: 3/21/2021
+By: Vye\#9195 Added: 3/21/2021
 
-**Findings**: 
+**Findings**:
 
 Cryo resonance and the artefact set Blizzard Strayer never snapshot even with abilities that snapshot. They are always dynamic and will change your crit rate in real time.
 
@@ -15,7 +14,7 @@ Cryo resonance and the artefact set Blizzard Strayer never snapshot even with ab
 
 Albedo E was used to perform the tests because it doesn't remove cryo on the enemy and it snapshots.
 
-For cryo resonance, Albedo was equipped with artifacts to reach 85% crit rate without Blizzard Strayer set bonuses. Below is a video recording of using Albedo E followed by applying cryo to the enemy. Over a prolonged period I could not get a noncrit Albedo E proc against the enemy. 
+For cryo resonance, Albedo was equipped with artifacts to reach 85% crit rate without Blizzard Strayer set bonuses. Below is a video recording of using Albedo E followed by applying cryo to the enemy. Over a prolonged period I could not get a noncrit Albedo E proc against the enemy.
 
 Following that I reduced the crit rate to 80% and equipped a complete Blizzard Strayer set to Albedo. Once again I could not get noncrit Albedo E proc against the enemy when using Albedo E first followed up by applying cryo to the enemy.
 
@@ -25,9 +24,9 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 
 **Evidence**:
 
-* https://www.youtube.com/watch?v=L5L42frtjsw
-* https://www.youtube.com/watch?v=EvB8-4rAtsQ
-* https://www.youtube.com/watch?v=d_Zrx0KasDg
+* [https://www.youtube.com/watch?v=L5L42frtjsw](https://www.youtube.com/watch?v=L5L42frtjsw)
+* [https://www.youtube.com/watch?v=EvB8-4rAtsQ](https://www.youtube.com/watch?v=EvB8-4rAtsQ)
+* [https://www.youtube.com/watch?v=d\_Zrx0KasDg](https://www.youtube.com/watch?v=d_Zrx0KasDg)
 
 ## Bloodstained Chivalry
 
@@ -341,25 +340,19 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
   * KQ must apply an electro elemental source to an enemy with existing hydro aura.
 * Therefore, 4TF is actually not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
 
-### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications 
+### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications
 
-By: Sayline#5959
-Added: 3/21/2021
+By: Sayline\#5959 Added: 3/21/2021
 
-**Finding**:
-Thundering Fury 4-piece set effect (cooldown reduction) can be triggered by non-damaging Hydro application.
+**Finding**: Thundering Fury 4-piece set effect \(cooldown reduction\) can be triggered by non-damaging Hydro application.
 
 **Evidence**:
 
-I have 2 examples where this can be observed.
-The first one uses XQ's skill, where we see 4TF triggered repeatedly even without XQ doing any damaging moves (Oz deals damage, but he is the aura, not trigger for EC).
-https://youtu.be/qSEwlawImHU
+I have 2 examples where this can be observed. The first one uses XQ's skill, where we see 4TF triggered repeatedly even without XQ doing any damaging moves \(Oz deals damage, but he is the aura, not trigger for EC\). [https://youtu.be/qSEwlawImHU](https://youtu.be/qSEwlawImHU)
 
-The second example uses Barbara's skill. Here, Oz was the trigger majority of the time, but during his ICD, Barbara was able to trigger 4TF (at about 00:07).
-https://youtu.be/nPvpICUd7qY
+The second example uses Barbara's skill. Here, Oz was the trigger majority of the time, but during his ICD, Barbara was able to trigger 4TF \(at about 00:07\). [https://youtu.be/nPvpICUd7qY](https://youtu.be/nPvpICUd7qY)
 
-Here is a third example, where we don't rely on Oz as our electro crutch. Tested on Hidden Palace of Lianshan Formula I (the weapon domain in Liyue).
-https://youtu.be/4FEWaKG7xJQ
+Here is a third example, where we don't rely on Oz as our electro crutch. Tested on Hidden Palace of Lianshan Formula I \(the weapon domain in Liyue\). [https://youtu.be/4FEWaKG7xJQ](https://youtu.be/4FEWaKG7xJQ)
 
 **Significance**:
 
@@ -408,7 +401,7 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 **Results:**
 
-_\*\*_Theory was confirmed. See video for evidence.
+\_\*\*\_Theory was confirmed. See video for evidence.
 
 [**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
 

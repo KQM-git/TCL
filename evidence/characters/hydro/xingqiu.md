@@ -108,8 +108,7 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 ## Xingqiu Sword Rain "Buffering"
 
-By: Charliex3000\#9403
-Added: 03/21/2021
+By: Charliex3000\#9403 Added: 03/21/2021
 
 **Theory/Finding/Bug:**
 
@@ -119,10 +118,10 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 
 [https://i.imgur.com/jNBiTa9.mp4](https://i.imgur.com/jNBiTa9.mp4)
 
-*  First set of 2: Click-> wait 500 ms -> click -> wait 600 MS -> swap
-*  Second set of 2: Click -> wait 500 ms -> click -> wait 400 MS -> swap
+* First set of 2: Click-&gt; wait 500 ms -&gt; click -&gt; wait 600 MS -&gt; swap
+* Second set of 2: Click -&gt; wait 500 ms -&gt; click -&gt; wait 400 MS -&gt; swap
 
-**Significance**: 
+**Significance**:
 
-Clears up how exactly "XQ buffers."
-Additionally pending some extra tests about how long the active window for an auto to proc rain swords it
+Clears up how exactly "XQ buffers." Additionally pending some extra tests about how long the active window for an auto to proc rain swords it
+

@@ -74,8 +74,7 @@ Rough eyeballing based on the hp bar seems to be 20-25% damage: [https://cdn.dis
 
 ## Continuous Self-Swirl
 
-By: KDacus#2865
-Added: 3/21/2021
+By: KDacus\#2865 Added: 3/21/2021
 
 **Theory/Finding/Bug**:
 
@@ -88,3 +87,4 @@ Jean Ult repeatedly swirls every character in her Q if they have an Aura element
 **Significance**:
 
 Very consistent pyro aura application for possible Cryo or Hydro main carries or overload setups as well as shield breaking
+

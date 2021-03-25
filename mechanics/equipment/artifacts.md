@@ -22,9 +22,7 @@
 {% endtab %}
 
 {% tab title="Findings" %}
-
 * The 4p set bonus don't snapshot. The Crit Rate increase is dynamic, and changes your Crit Rate in real time.
-
 {% endtab %}
 {% endtabs %}
 

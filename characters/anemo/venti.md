@@ -60,7 +60,7 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 {% tab title="Skyward Sonnet" %}
 **Press**
 
-Summons an Wind Domain at the opponent's location, dealing AoE Anemo DMG and launching opponents into the air. 
+Summons an Wind Domain at the opponent's location, dealing AoE Anemo DMG and launching opponents into the air.
 
 **Hold**
 
@@ -233,3 +233,4 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 **Evidence Vault**
 
 {% page-ref page="../../evidence/characters/anemo/venti.md" %}
+

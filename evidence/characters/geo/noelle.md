@@ -2,8 +2,7 @@
 
 ## How does 2NO interact with Noelle Q?
 
-By: Kibouo#1698
-Added 12/18/2020
+By: Kibouo\#1698 Added 12/18/2020
 
 **Hypothesis:**
 
@@ -19,7 +18,7 @@ Added 12/18/2020
 
 ## How does Noelle’s Elemental burst interact with temporary defence buffs?
 
-By: JonahFarc#7056 and Midori#2173
+By: JonahFarc\#7056 and Midori\#2173
 
 **Finding:** Noelle's Elemental Burst snapshots the current defence value at the time of activation for the ATK increase.
 
@@ -33,7 +32,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
 
-By: JonahFarc#7056
+By: JonahFarc\#7056
 
 **Finding:** It takes the ATK value when it breaks.
 
@@ -45,7 +44,7 @@ By: JonahFarc#7056
 
 ## How does Sacrificial Greatsword work with Noelle?
 
-By: JonahFarc#7056
+By: JonahFarc\#7056
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
@@ -53,16 +52,15 @@ By: JonahFarc#7056
 
 **Significance:** If you're C4, use the sacrificial reset after the shield pops, not while it's active.
 
-## Maidstrike vs N3D (Dragonstrike)
+## Maidstrike vs N3D \(Dragonstrike\)
 
-By: sakuno#7950
-Added: 03/22/2021
+By: sakuno\#7950 Added: 03/22/2021
 
 **Theory:**
 
-Noelle using N1P spam (hitlag plunge aka Dragon Strike Noelle) is higher damage per second than the N3 dash cancel.
+Noelle using N1P spam \(hitlag plunge aka Dragon Strike Noelle\) is higher damage per second than the N3 dash cancel.
 
-To execute the hitlag plunge, attack an enemy and dash and jump at the same time as when your sword collides with the enemy. She will gain more height than normal enough to execute a low plunge. 
+To execute the hitlag plunge, attack an enemy and dash and jump at the same time as when your sword collides with the enemy. She will gain more height than normal enough to execute a low plunge.
 
 **Evidence:**
 
@@ -72,25 +70,23 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 {% tabs %}
 {% tab title="TLDR" %}
-
 **With Anemo Resonance**
 
 * N1 + plunge spam = 207.36% MV/s
-* N3 Sprint cancel = 153.09% MV/s  (credit to Artesians#0002)
+* N3 Sprint cancel = 153.09% MV/s  \(credit to Artesians\#0002\)
 
 **With Jean C2**
 
 * N1 + plunge spam = 207.36% MV/s
-* N3 Sprint cancel   = 162.66% MV/s  (WITH jean C2)
-* N3 + plunge is:  187.93 MV/s (also with jean C2)
-
+* N3 Sprint cancel   = 162.66% MV/s  \(WITH jean C2\)
+* N3 + plunge is:  187.93 MV/s \(also with jean C2\)
 {% endtab %}
-{% tab title="DS: Anemo Res Only" %}
 
+{% tab title="DS: Anemo Res Only" %}
 **First String**
 
-* start of 1st N1:  0:25 (frame when sword is off her back)
-* start of 2nd N1:  2:00 (frame when sword is readying to swing behind her back)
+* start of 1st N1:  0:25 \(frame when sword is off her back\)
+* start of 2nd N1:  2:00 \(frame when sword is readying to swing behind her back\)
 * start of 3rd N1:  3:40
 * start of 4th N1:  5:17
 * start of 5th N1:  6:49
@@ -105,21 +101,21 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 * T6 plunge = 216.78%
 * N1 + plunge = 331.78
 
-**Calculating using Frame Perfect(?) 92 frame execution**: 
+**Calculating using Frame Perfect\(?\) 92 frame execution**:
 
 * 331.78 / 92 = 3.60 x 60 = 216.37%
 * N1P spam = 216.37%
 * N3 Sprint cancel = 153.09% MV/s
 
-*An increase of 41.3% DPS*
+_An increase of 41.3% DPS_
 
-**Calculating using human average(?) 96 frame execution**: 
+**Calculating using human average\(?\) 96 frame execution**:
 
 * 331.78 / 96 = 3.456 x 60 = 207.36%
 * N1P spam = 207.36%
-* N3 Sprint cancel = 153.09% MV/s  (credit Artesian)
+* N3 Sprint cancel = 153.09% MV/s  \(credit Artesian\)
 
-*An increase of 35.4% DPS.*
+_An increase of 35.4% DPS._
 
 **Second String**
 
@@ -131,10 +127,9 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 * 2-1 = 94
 * 2-1 = 97
 * 3-2 = 93
-
 {% endtab %}
-{% tab title="N3D: Jean C2" %}
 
+{% tab title="N3D: Jean C2" %}
 **First String**
 
 * start of 1st N1:  5:27
@@ -149,25 +144,25 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 * 5-4 = 128 frames
 * 6-5 = 126 frames
 
-**Noelle T6 MVs for N1 N2 and N3**: 
+**Noelle T6 MVs for N1 N2 and N3**:
 
 * 115% + 106.63% + 125.38% = 347.01%
 * Assume N3D = 128 frame execution with Jean C2: 347.01 / 128 = 2.711 x 60 = 162.66% 
 * N3D with Jean C2 = 162.66% MV/s
-
 {% endtab %}
+
 {% tab title="DS: Jean C2 + Anemo Res" %}
- 
-Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance  <--- I kind of fck'd up here, I shouldnt be using Anemo res. Thankfully the extra 10% move speed shouldn't mess up results here.
+Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind of fck'd up here, I shouldnt be using Anemo res. Thankfully the extra 10% move speed shouldn't mess up results here.
 
 **First String**
+
 * start of 1st N1:  5:51
 * start of 2nd N1:  7:38
 * start of 3rd N1:  9:29
 * start of 4th N1:  11:16
 * 2-1 = 107
 * 3-2 = 111
-* 4-3 = 107  <--- too slow can go faster, see second string
+* 4-3 = 107  &lt;--- too slow can go faster, see second string
 
 **Second String**
 
@@ -179,7 +174,7 @@ Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance  <--- I kind of
 * start of 2nd N1:  29:22
 * 2-1 = 96
 * 3-2 = 96
-* 4-3 = 89  <--- wow
+* 4-3 = 89  &lt;--- wow
 * 2-1 = 97
 
 **Noelle T6 MVs**
@@ -188,29 +183,29 @@ Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance  <--- I kind of
 * T6 plunge = 216.78%
 * N1 + plunge = 331.78%
 
-**Calculating using Frame Perfect(?) 89 frame execution** 
+**Calculating using Frame Perfect\(?\) 89 frame execution**
 
 * 331.78 / 89 = 3.727 x 60 = 223.67%
-* N1P spam = 223.67%  (with jean C2)
-* N3 Sprint cancel = 162.66% MV/s  (WITH jean C2)
+* N1P spam = 223.67%  \(with jean C2\)
+* N3 Sprint cancel = 162.66% MV/s  \(WITH jean C2\)
 
-*An increase in DPS of 37.5%.*
+_An increase in DPS of 37.5%._
 
-**Calculating using human average(?) 96 frame execution** 
+**Calculating using human average\(?\) 96 frame execution**
 
 * 331.78 / 96 = 3.456 x 60 = 207.36%
-* N1P spam = 207.36%  (with jean C2)
-* N3 Sprint cancel = 162.66% MV/s   (WITH jean C2)
+* N1P spam = 207.36%  \(with jean C2\)
+* N3 Sprint cancel = 162.66% MV/s   \(WITH jean C2\)
 
-*An increase in DPS of 27.4%*
-
+_An increase in DPS of 27.4%_
 {% endtab %}
 {% endtabs %}
 
 **Summary:**
 
-By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increase in dps over just spamming N3 dash cancels (also with Jean C2). With some more practice you could definitely shave off more frames with the increased attack speed as shown by the 89 frame N1P, which was the lowest I was able to get. I'd say the average N1 + plunge is 96 frames. 
+By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increase in dps over just spamming N3 dash cancels \(also with Jean C2\). With some more practice you could definitely shave off more frames with the increased attack speed as shown by the 89 frame N1P, which was the lowest I was able to get. I'd say the average N1 + plunge is 96 frames.
 
 **Question**: Why isn't there a version without Anemo resonance? Anemo characters are shit to run with Noelle.
 
 **Author**: I can't for the life of me get consistent plunges on these boomer hands without anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
+

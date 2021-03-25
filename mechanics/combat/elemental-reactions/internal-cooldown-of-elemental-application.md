@@ -14,11 +14,9 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
 
 **A Video Example of the 2 Ways ICD Resets**
 
-{% embed url="https://www.youtube.com/watch?v=wGab6lW2BfI" %} {% endtab %}
+{% embed url="https://www.youtube.com/watch?v=wGab6lW2BfI" caption="" %}
 
 **Evidence Vault:**
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md" %}
-
-
 
