@@ -229,7 +229,7 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 ## **External Links**
 
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
-* [**Jean Mains Discord**](https://discord.gg/WPX5hTnPfM)
+* [**Jean Mains Discord**](https://discord.gg/TYVy95Qp7w)
 
 **Evidence Vault:**
 
