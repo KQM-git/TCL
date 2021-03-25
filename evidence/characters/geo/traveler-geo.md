@@ -17,7 +17,7 @@ Geo MC can make the most constructs on the game (2 Meatballs which cap to 3 with
 
 ## Geo Traveller “Boulder Melt” with Albedo E 
 
-(Zakharov#5645)
+By: Zakharov#5645
 
 **Finding:**
 
