@@ -4,9 +4,9 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
-## Climbing the frostbreaing tree
+## Climbing the Frostbearing Tree
 
-By: Aevean Leeow/#1362
+By: Aevean Leeow#1362
 Added: 03/23/2021
 
 **Theory:** 
@@ -39,7 +39,7 @@ Also, you can perform a plunging attack off of the tree.
 
 ## Aether vs Lumine 
 
-By: Fluffy/#5580
+By: Fluffy#5580
 Added: 03/23/2021
 
 **Theory:** 
