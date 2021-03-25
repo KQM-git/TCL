@@ -29,7 +29,7 @@ Everything you need to know about Serpent Spine and Beidou
 
 **Evidence:**
 
-1. \*\*\*\*[https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
+1. [https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
 2. [https://streamable.com/3qsmmj](https://streamable.com/3qsmmj)  3523 crit damage on and off-field.
 3. [https://streamable.com/f6836w](https://streamable.com/f6836w)  1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks
 
