@@ -192,55 +192,46 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 One more reason to get Sucrose out in the field more often, at least for this use case.
 
-## Fischl a1 can proc prototype crescent passive
+## Fischl A1 Can Proc Prototype Crescent Passive
 
-By: Charliex3000/#9403
+By: Charliex3000#9403
 Added: 03/25/2021
 
 **Finding:** 
-Fischl A2 can proc prototype crescent passive on humanoids (hitbox with weakpoint on top)
+Fischl A1 can proc prototype crescent passive on humanoids (hitbox with weakpoint on top)
 
 **Evidence:**
-[https://youtu.be/T9UzIzXbRyc](https://youtu.be/T9UzIzXbRyc)
 
-This is a video doing Fischls A2 on ruin guard. As you can see, usually it doesn't proc Prototype Crescent, but when you hit Oz in the head, it works.
-[https://youtu.be/P_hiz3GaK20](https://youtu.be/P_hiz3GaK20)
+* [Hilichurl](https://youtu.be/T9UzIzXbRyc)
+* [Ruin Guard](https://youtu.be/P_hiz3GaK20) - usually it doesn't proc Prototype Crescent, but when you hit Oz in the head, it works.
 
-**Significance:**
-Prototype Crescent rises up in weapon choice for a A2 charged shot focused Fischl build.
-Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.
+**Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.
 
-## Fischl new mvs
+## Fischl New MVs
 
-By: ProfHugo/#6478
+By: ProfHugo#6478
 Added: 03/25/2021
 
-**Finding:**
-Fischl's MV/s ceiling is substantially higher than what was previously recorded.
+**Finding:** Fischl's MV/s ceiling is substantially higher than what was previously recorded.
 
 **Evidence:**
-[Demonstration](https://www.youtube.com/watch?v=d_H-LhIljb8)
 
-This is a recording of 10 rotations of the AA-LMB combo (no E) with near frame-perfect input.
+This is a [recording](https://www.youtube.com/watch?v=d_H-LhIljb8) of 10 rotations of the AA-LMB combo (no E) with near frame-perfect input.
 
 It took 486 frames, or 486 frames / 60fps = 8.1s to execute this rotation 10 times (or 0.81s per combo). Using the level 6 normal/charged attack talent values, Fischl's MV per AA-LMB combo is 64.1% + 68.0% + 63.8% + 22% * 2 = 239.9% at C1+ without using E.
 
-At 8.1s per 10 combos, this translates to (239.9% * 10) / 8.1s = 296.17% MV/s.
-(this breaks down to 241.85% MV/s from raw auto attacks and 54.32% MV/s from C1)
+At 8.1s per 10 combos, this translates to (239.9% * 10) / 8.1s = 296.17% MV/s. (this breaks down to 241.85% MV/s from raw auto attacks and 54.32% MV/s from C1)
 
-Note that this does not account for Fischl's E, so here are semi-rough estimations for her MV/s when Oz is summoned:
-C1-2:
-241.85% MV/s + 124% MV/s = 365.85% MV/s (66.11% PHYS, 33.89% ELECTRO)
+Note that the above does not account for Fischl's E, so here are semi-rough estimations for her MV/s when Oz is summoned:
 
-C3-5 (T9 value is used for Fischl's E from this point onward):
-241.85% MV/s + 151% MV/s = 392.85% MV/s (61.56% PHYS, 38.44% ELECTRO)
-
-C6:
-241.85% MV/s + (30% MV * 2 * 1/0.81s) + 151% MV/s = 466.92% MV/s (51.80% PHYS, 48.20% ELECTRO)
+* **C1-2**: 241.85% MV/s + 124% MV/s = 365.85% MV/s (66.11% PHYS, 33.89% ELECTRO)
+* **C3-5**:241.85% MV/s + 151% MV/s = 392.85% MV/s (61.56% PHYS, 38.44% ELECTRO, T9 values for Fischl's E)
+* **C6**: 241.85% MV/s + (30% MV * 2 * 1/0.81s) + 151% MV/s = 466.92% MV/s (51.80% PHYS, 48.20% ELECTRO, T9 values for Fischl's E)
 
 **Significance:**
-In alyk99/#2776's submission on December 28, 2020, they documented her AA-LMB personal output at 230% MV/s. This new value is substantially greater than what was previously documented and may push her over other dps options. The fact that she can output an outstanding level of MV/s consistently without the use of stamina and lower downtime may call for a re-evaluation of her status as a main dps, even without C6.
+
+In alyk99#2776's submission on December 28, 2020, they documented their AA-LMB personal output at 230% MV/s. This new value is substantially greater than what was previously documented and may push her over other dps options. The fact that she can output an outstanding level of MV/s consistently without the use of stamina and lower downtime may call for a re-evaluation of her status as a main dps, even without C6.
 
 Note that as play-styles for Fischl differs between individuals (some people only cast Q off cool down, while others do a quick E-Q chain, etc.), on cast sources of damages are not considered here as those will vary drastically depending on playstyle.
 
-Editors Note: These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios and does not invalidate the findings by alyk99/#2776.
+**Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99#2776.
