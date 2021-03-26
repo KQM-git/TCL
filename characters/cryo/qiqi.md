@@ -31,28 +31,30 @@ Perform up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 54.88% |  |  |
-| 2-Hit | 56.5% |  |  |
-| 3-Hit | 35.13% + 35.13% |  |  |
-| 4-Hit | 35.88% + 35.88% |  |  |
-| 5-Hit | 91.63% |  |  |
+| 1-Hit | 54.88% | 11 | 299.3%/s |
+| 2-Hit | 56.5% | 29 | 230.4%/s |
+| 3-Hit | 35.13% + 35.13% | 71 | 153.5%/s |
+| 4-Hit | 35.88% + 35.88% | 111 | 137.0%/s |
+| 5-Hit | 91.63% | 140 | 147.9%/s |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash 2 rapid sword strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 93.5% + 93.5% |  |  |
-| N1C | 241.88% |  |  |
+| Charged Attack | 93.5% + 93.5% | ~ | ~ |
+| N1C | 241.88% | 100 | 145.1%/s |
+
+* All frame counts are done against Ruin Guards.
 
 **Plunge Attack**  
 Plunge from mid-air to strike the ground below dealing AoE DMG.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% |  |  |
-| Low Plunge DMG | 185.81% |  |  |
-| High Plunge DMG | 232.09% |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 232.09% |
 {% endtab %}
 
 {% tab title="Adeptus Art: Herald of Frost" %}
@@ -74,8 +76,8 @@ Qiqi brings forth the **Herald of Frost**, dealing Cryo DMG to surrounding oppon
 | GU | 1A |
 | Duration | 15s |
 | CD | 30s |
-| Frames |  |
-| MV/s |  |
+| Frames | 57 |
+| MV/s | 141.5%/s |
 {% endtab %}
 
 {% tab title="Adeptus Art: Preserver of Fortune" %}
@@ -93,8 +95,8 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 | Duration | 15s |
 | CD | 20s |
 | Energy Cost | 80 |
-| Frames |  |
-| MV/s |  |
+| Frames | 112 |
+| MV/s | 213.6%/s |
 {% endtab %}
 {% endtabs %}
 
