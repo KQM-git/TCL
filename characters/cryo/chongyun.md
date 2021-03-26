@@ -6,9 +6,9 @@ description: >-
 
 # Chongyun
 
-## ![](../../.gitbook/assets/element_cryo.png) Chongyun
+## ![](.gitbook/assets/element_cryo.png) Chongyun
 
-![](../../.gitbook/assets/character_chongyun_wish.png)
+![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/2402f680c7255752d299b860679038ba715709b2/.gitbook/assets/character_chongyun_wish.png)
 
 ## **Base Stats**
 
@@ -31,10 +31,10 @@ Perform up to 4 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 101.75% |  |  |
-| 2-Hit | 91.75% |  |  |
-| 3-Hit | 116.75% |  |  |
-| 4-Hit | 147.13% |  |  |
+| 1-Hit | 101.75% | 24 | 254.4%/s |
+| 2-Hit | 91.75% | 62 | 187.3%/s |
+| 3-Hit | 116.75% | 124 | 150.1%/s |
+| 4-Hit | 147.13% | 204 | 134.5%/s |
 
 **Charged Attack**  
 Drains Stamina over time to perform a continuous spinning attack for up to 5s.  
@@ -42,18 +42,20 @@ Perform a powerful slash at the end of the sequence.
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spinning DMG | 81.81% |  |  |
-| Final DMG | 147.94% |  |  |
-| Stamina Cost | 40/s |  |  |
+| Spinning DMG | 81.81% | 30 | 163.6%/s |
+| Final DMG | 147.94% | 29 | 306.1%/s |
+| Stamina Cost | 40/s | ~ | ~ |
+
+* All frame counts are done against Ruin Guards.
 
 **Plunge Attack**  
 Plunge from midair to strike the ground below dealing AoE DMG.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% |  |  |
-| Low Plunge DMG | 216.78% |  |  |
-| High Plunge DMG | 270.77% |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 108.41% |
+| Low Plunge DMG | 216.78% |
+| High Plunge DMG | 270.77% |
 {% endtab %}
 
 {% tab title="Chonghua’s Layered Frost" %}
@@ -70,8 +72,8 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Particles | 3~4 \(1:1\) |
 | Cast GU | 2B |
 | Infused Attack GU | 1A |
-| Frames |  |
-| MV/s |  |
+| Frames | 57 |
+| MV/s | 253.5%/s |
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
@@ -83,8 +85,8 @@ Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, de
 | CD | 12s |
 | Energy Cost | 40 |
 | GU | 1A per hit |
-| Frames |  |
-| MV/s |  |
+| Frames | 135 |
+| MV/s | 265.8%/s |
 {% endtab %}
 {% endtabs %}
 
@@ -221,6 +223,3 @@ Increases the level of Chonghua’s Layered Frost by 3.
 * [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
-
-{% page-ref page="../../evidence/characters/cryo/chongyun.md" %}
-
