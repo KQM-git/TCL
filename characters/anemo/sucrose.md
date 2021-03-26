@@ -29,20 +29,21 @@ description: >-
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 46.85% |  |  |
-| 2-Hit | 42.86% |  |  |
-| 3-Hit | 53.83% |  |  |
-| 4-Hit | 67.08% |  |  |
-| GU | 1GU |  |  |
+| 1-Hit | 46.85% | 19 | 147.95%/s |
+| 2-Hit | 42.86% | 19 | 141.65%/s |
+| 3-Hit | 53.83% | 32 | 123.03%/s |
+| 4-Hit | 67.08% | 31 | 125.12%/s |
+| Recovery | N/A | 31 | 95.74%/s |
+| Gauge Units | 1GU |  |  |
 
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
-| String | Talent 6 DMG% | Frames | MV\s |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 168.22% |  |  |
+| Charged Attack | 168.22% | 53 | 190.44%/s |
 | GU | 1GU |  |  |
 
 **Plunge Damage**  
@@ -58,10 +59,11 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
-| Effect | Talent 6 DMG% | GU |
-| :--- | :--- | :--- |
-| Skill DMG | 295.68% | 1GU |
-| CD | 15s |  |
+| Effect | Talent 6 DMG% |
+| :--- | :--- |
+| Skill DMG | 295.68% |
+| Cooldown | 15s |
+| Gauge Units | 1GU |
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
@@ -74,8 +76,9 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Damage-Over-Time | 207.2% |
 | Additional Elemental DMG | 61.6% |
 | Duration | 6s |
-| CD | 20s |
+| Cooldown | 20s |
 | Energy Cost | 80 |
+| Gauge Units | 1GU |
 {% endtab %}
 {% endtabs %}
 
