@@ -31,11 +31,12 @@ Perform up to 5 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 52.5% |  |  |
-| 2-Hit | 48.75% |  |  |
-| 3-Hit | 66.25% |  |  |
-| 4-Hit | 62.5% |  |  |
-| 5-Hit | 78.13% |  |  |
+| 1-hit | 52.5% | 16 | 196.6%/s |
+| 2-Hit | 48.75% | 37 | 164.2%/s |
+| 3-Hit | 66.25% | 67 | 150.0%/s |
+| 4-Hit | 62.5% | 101 | 136.6%/s |
+| 5-Hit | 78.13% | 152 | 121.6%/s |
+| With Recovery | 308.19% | 190 | 97.3%/s |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
@@ -43,18 +44,21 @@ A fully charged shot will deal Cryo DMG.
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  |
-| Fully Charged | 173.6% |  |  |
-| GU | 1A |  |  |
+| Aimed Shot | 63.75% | 26 | 147.1%/s |
+| Fully Charged | 173.6% | 84 | 124%/s |
+| GU | 1A | ~ | ~ |
+
+* Aimed Shot frame counts are done using M1 Spams.
+* Fully Charged frame counts are done using ARCC Shots.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6% |  |  |
-| Low Plunge DMG | 165.17% |  |  |
-| High Plunge DMG | 206.3% |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 82.6% |
+| Low Plunge DMG | 165.17% |
+| High Plunge DMG | 206.3% |
 {% endtab %}
 
 {% tab title="Icy Paws" %}
@@ -80,8 +84,8 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Press Cooldown | 6s |
 | Hold Cooldown | 15s |
 | Particles | 1 per **Icy Paw** hit |
-| Frames |  |
-| MV/s |  |
+| Frames | 15 Press ~ 24 Hold |
+| MV/s | 469.5%/s Press ~ 733.6%/s Hold |
 
 * In specific circumstances, Diona's shield is 2U on swap.
   * For more details see the [full entry](https://github.com/Artesians/TCL/tree/b74ee3f1ec26e028c8d6bfedefb4beefa743ce80/evidence/characters/cryo/diona/README.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault
