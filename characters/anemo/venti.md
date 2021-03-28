@@ -31,12 +31,12 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.63% + 29.63% |  |  |
-| 2-Hit DMG | 64.50% |  |  |
-| 3-Hit DMG | 76.13% |  |  |
-| 4-Hit DMG | 37.87% + 37.87% |  |  |
-| 5-Hit DMG | 73.63% |  |  |
-| 6-Hit DMG | 103.13% |  |  |
+| 1-Hit DMG | 29.63% + 29.63% | 21 | 169.3%/s |
+| 2-Hit DMG | 64.50% | 44 | 168.8%/s |
+| 3-Hit DMG | 76.13% | 90 | 133.3%/s |
+| 4-Hit DMG | 37.87% + 37.87% | 123 | 134.5%/s |
+| 5-Hit DMG | 73.63% | 140 | 149.7%/s |
+| 6-Hit DMG | 103.13% | 191 | 142.1%/s |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
@@ -44,8 +44,8 @@ A fully charged shot will deal Anemo DMG.
 
 | String | Talent 6% | GU | Frames | MV\s |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  |  |
-| Fully-Charged Aimed Shot | 173.60% | 1U |  |  |
+| Aimed Shot | 63.75% | ~ | 26 | 147.1%/s |
+| Fully-Charged Aimed Shot | 173.60% | 1U | 86 | 121.1%/s |
 
 **Plunge Damage**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -91,7 +91,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 | GU | 2U |
 | Energy Cost | 60 |
 
-* The **Stormeye** is elevated above the ground. Some attacks are be unable to hit enemies that are lifted.
+* The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti needs to be at most 20 levels below the enemy to be able to lift them.
 * The **Stormeye** deals 20 ticks of Anemo DoT. Elemental absorption can occur after the 4th tick, for a maximum of 16 ticks of Additional Elemental DMG.
 * Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls. Every third absorbed elemental tick applies an unknown GU of the absorbed element, for a maximum of 6 applications.
