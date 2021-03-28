@@ -31,18 +31,20 @@ Xiangling performs up to five consecutive spear strikes
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 61.13% |  |  |
-| 2-Hit | 61.25% |  |  |
-| 3-Hit | 37.887% x2 \(75.774%\) |  |  |
-| 4-Hit | 20.5% x4 \(82%\) |  |  |
-| 5-Hit | 103.25% |  |  |
+| 1-Hit | 61.13% | 12 | 305.7%/s |
+| 2-Hit | 61.25% | 38 | 192.2%/s |
+| 3-Hit | 37.887% x2 \(75.774%\) | 72 | 165.1%/s |
+| 4-Hit | 20.5% x4 \(82%\) | 141 | 119.2%/s |
+| 5-Hit | 103.25% | 167 | 137.7%/s |
 
 **Charged Attack**  
 Xiangling consumes 25 stamina to lunge forward dealing damage to enemies along the way
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 238.01% |  |  |
+| N1C | 238.01% | 90 | 158.7%/s |
+
+* All frame counts are done against Ruin Guards.
 
 **Plunge**
 
