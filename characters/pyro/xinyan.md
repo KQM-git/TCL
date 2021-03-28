@@ -31,26 +31,29 @@ Perform up to 4 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 111.25% |  |  |
-| 2-Hit | 107.5% |  |  |
-| 3-Hit | 138.75% |  |  |
-| 4-Hit | 168.38% |  |  |
+| 1-hit | 111.25% | 25 | 267%/s |
+| 2-Hit | 107.5% | 69 | 190.2%/s |
+| 3-Hit | 138.75% | 139 | 154.3%/s |
+| 4-Hit | 168.38% | 204 | 154.7%/s |
 
 **Charged Attack**  
 Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spin | 90.91% |  |  |
-| Final hit | 164.38% |  |  |
+| Spin | 90.91% | 30 | 181.8%/s |
+| Final hit | 164.38% | 29 | 340.1%/s |
+
+* Charged Attack has a wind up of 89 frames.
+* All frame counts are done against Ruin Guards.
 
 **Plunge Attack**
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% |  |  |
-| Low Plunge DMG | 216.78% |  |  |
-| High Plunge DMG | 270.77% |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 108.41% |
+| Low Plunge DMG | 216.78% |
+| High Plunge DMG | 270.77% |
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
@@ -230,7 +233,6 @@ Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally,
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xinyan)
 * [**Xinyan Mains Discord**](https://discord.gg/XQkAKTXbNQ)
 
-**Tags:** [Elemental Gauge Theory](https://library.keqingmains.com/mechanics/combat/elemental-reactions/elemental-gauge-theory)
-
 **Evidence Vault:**
 
+{% page-ref page="../../evidence/characters/pyro/xinyan.md" %}
