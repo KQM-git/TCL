@@ -29,18 +29,20 @@ Kaeya performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 78.13% |  |  |
-| 2-Hit | 75.13% |  |  |
-| 3-Hit | 94.88% |  |  |
-| 4-Hit | 103% |  |  |
-| 5-Hit | 128.25% |  |  |
+| 1-Hit | 78.13% | 14 | 334.8%/s |
+| 2-Hit | 75.13% | 41 | 224.3%/s |
+| 3-Hit | 94.88% | 72 | 206.8%/s |
+| 4-Hit | 103% | 128 | 164.6%/s |
+| 5-Hit | 128.25% | 176 | 163.4%/s |
 
 **Charged Attack**  
 Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 264.38% |  |  |
+| N1C | 264.38% | 87 | 182.3%/s |
+
+* All frame counts are done against Ruin Guards.
 
 **Plunge**
 
