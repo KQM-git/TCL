@@ -31,18 +31,20 @@ Bennett performs up to 5 consecutive attacks.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.75% |  |  |
-| 2-Hit | 62.13% |  |  |
-| 3-Hit | 79.38% |  |  |
-| 4-Hit | 86.75% |  |  |
-| 5-Hit | 104.5% |  |  |
+| 1-Hit | 64.75% | 12 | 323.8%/s |
+| 2-Hit | 62.13% | 32 | 237.9%/s |
+| 3-Hit | 79.38% | 63 | 196.4%/s |
+| 4-Hit | 86.75% | 118 | 149%/s |
+| 5-Hit | 104.5% | 167 | 142.8%/s |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 234.25 |  |  |
+| N1C | 234.25 | 100 | 136.4%/s |
+
+* All frame counts are done against Ruin Guards.
 
 Enemies struck by Bennett's charged attack will be staggered or launched.
 
@@ -66,13 +68,14 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2 |  |  |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 |  |  |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 |  |  |
-| Explosion |  |  | 1A |  |  |  |
+| E Press | 192.64% | 5s | 2B | 2 | 52 | 222.3%/s |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 | 112 | 132%/s |
+| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 | 197 | 134.7%/s |
+| Explosion | 184.8% | ~ | 1A | ~ | ~ | ~ |
 
-* Max hold duration is x seconds, after which Bennett will use a Level 2 Passion Overload by default. 
+* Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
+* Frame counts are done against Ruin Guards.
 {% endtab %}
 
 {% tab title="Fantastic Voyage" %}
@@ -94,11 +97,11 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 | Energy Cost | 60 |
 | GU | 2B |
 | Imbue | 1A |
-| Frames |  |
+| Frames | 51 |
 
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
-* **Inspiration Field** will apply the ATK Bonus and **C6: Fire Ventures with Me** will also apply the Pyro DMG bonus immediately on cast.
-* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack, including buffs like Noblesse Oblige \(2\).
+* **Inspiration Field's** ATK Bonus and **C6: Fire Ventures with Me** Pyro DMG Bonus will apply on its damage calculation.
+* The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 {% endtab %}
 {% endtabs %}
 
