@@ -11,6 +11,8 @@
 | Sky-ripping Dragon Spine | Increases all DMG by **8/10/12/14/16**%. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **80/100/120/140/160**% of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades. |
 | Base ATK | 48 - 674 |
 | ER% | 8% - 36.8% |
+
+* The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy#2036](../../../evidence/mechanics/equipment/weapons.md)
 {% endtab %}
 
 {% tab title="Details" %}
