@@ -12,7 +12,7 @@
 | Base ATK | 48 - 674 |
 | ER% | 8% - 36.8% |
 
-* The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy#2036](../../../evidence/mechanics/equipment/weapons.md)
+* The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy#2036](../../../evidence/mechanics/equipment/weapons.md#skyward-pride-damage-interaction-with-4-set-gladiators)
 {% endtab %}
 
 {% tab title="Details" %}
