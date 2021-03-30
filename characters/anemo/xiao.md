@@ -31,21 +31,22 @@ Xiao performs up to six consecutive spear strikes.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 37.87% x2 \(75.74%\) |  |  |
-| 2-Hit | 78.29% |  |  |
-| 3-Hit | 94.26% |  |  |
-| 4-Hit | 51.79% x2 \(103.58%\) |  |  |
-| 5-Hit | 98.37% |  |  |
-| 6-Hit | 131.77% |  |  |
+| 1-Hit | 37.87% x2 \(75.74%\) | 16 | 284%/s |
+| 2-Hit | 78.29% | 42 | 220%/s |
+| 3-Hit | 94.26% | 68 | 219.1%/s |
+| 4-Hit | 51.79% x2 \(103.58%\) | 115 | 183.6%/s |
+| 5-Hit | 98.37% | 145 | 186.3%/s |
+| 6-Hit | 131.77% | 197 | 177.3%/s |
 
 **Charged Attack**  
 Consumes 25 Stamina to perform an upward thrust.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 166.5% |  |  |
-| N1C | 242.24% |  |  |
-| N3C | 414.79% |  |  |
+| Charged Attack | 166.5% | ~ | ~ |
+| N1C | 242.24% | 80 | 181.7%/s |
+| N3C | 414.79% | 157 | 158.5%/s |
+| N4C | 518.37% | 190 | 163.7%/s |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
@@ -53,9 +54,12 @@ Xiao does not take DMG from performing Plunge Attacks
 
 | Plunge Type | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Plunge DMG | 118.94% |  |  |
-| Low Plunge DMG | 237.84% |  |  |
-| High Plunge DMG | 297.07% |  |  |
+| Plunge DMG | 118.94% | ~ | ~ |
+| Low Plunge DMG | 237.84% | 65 | 219.5%/s |
+| High Plunge DMG | 297.07% | 75 | 237.7%/s |
+
+* All frame counts are done against Ruin Guards.
+* All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
 {% endtab %}
 
 {% tab title="Lemniscatic Wind Cycling " %}
@@ -65,8 +69,10 @@ Starts with 2 charges.
 
 | Type | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Skill DMG | 353.92% |  |  |
-| CD | 10s |  |  |
+| Skill DMG | 353.92% | 36 | 589.9%/s |
+| CD | 10s | ~ | ~ |
+
+* A Double E Cast is only 60 frames long.
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
@@ -82,13 +88,12 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 | Effect | Talent 6% |
 | :--- | :--- |
 | Normal, Charged, and Plunge DMG bonus | 77% |
-| Life Drain | 2.5% Current HP\s |
+| Life Drain | 2.5% Current HP/s |
 | Duration | 15s |
 | CD | 18s |
 | Energy Cost | 70 |
 {% endtab %}
 {% endtabs %}
-
 ## Ascension Passives
 
 {% tabs %}
