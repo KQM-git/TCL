@@ -269,12 +269,12 @@ Added 12/6/2020
 By: Chiefy#2036  
 Added: 3/30/2021
 
-**Theory:** Couldn't find this anywhere else, but Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of gladiator 4 set.
+**Theory:** Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
 
-**Evidence**: [Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces.](https://imgur.com/a/NnZmutE)
+**Evidence**: Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
-* 3 pc Glad: 2001 dmg
-* 4 pc Glad: 2026 dmg
+* 3 pc Glad: [2001 dmg](https://i.imgur.com/nsdFaA9.mp4)
+* 4 pc Glad: [2026 dmg](https://i.imgur.com/ugbvgCB.mp4)
 
 **Note:** The glad goblet had a bit of def, so the video of 4 pc Glad had a bit more atk than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
 
