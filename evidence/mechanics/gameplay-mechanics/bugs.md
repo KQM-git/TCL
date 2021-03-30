@@ -1,6 +1,6 @@
 # Bugs
 
-## Spiral abyss use same team for both floors
+## Using the Same Team for Both Abyss Halves
 
 By: Nitley#3485  
 Added: 03/25/2021
@@ -12,4 +12,4 @@ You're able to use your overworld team (regardless of character overlap with fir
 [https://youtu.be/XW_TDsyFkPA](https://youtu.be/XW_TDsyFkPA)
 
 **Significance:**
-After you clear the second half it doesn't complete, I'm unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
+After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
