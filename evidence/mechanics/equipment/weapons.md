@@ -264,6 +264,8 @@ Added 12/6/2020
 
 ### Skyward Pride
 
+### Skyward Pride Damage Interaction with 4 Set Gladiators
+
 By: Chiefy#2036  
 Added: 3/30/2021
 
