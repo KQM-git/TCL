@@ -394,7 +394,7 @@ Added: 2/4/2021
 
 **Evidence**:
 
-* [https://streamable.com/pnfumf](https://streamable.com/uff6qb%20) \(Amos test\) 
-* [https://streamable.com/cq83a6](https://streamable.com/uff6qb%20) \(Sac Bow test\) 
+* [https://streamable.com/pnfumf](https://streamable.com/pnfumf) \(Amos test\) 
+* [https://streamable.com/cq83a6](https://streamable.com/cq83a6) \(Sac Bow test\) 
 
 **Significance**: Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
