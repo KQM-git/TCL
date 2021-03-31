@@ -321,10 +321,10 @@ Added: 2/4/2021
 
 **Finding**: Attack Speed buffs do not dynamically affect Claymore Charged Attacks
 
-**Evidence**:
+**Evidence**: Side by side comparisons of a C0 vs C1 Xinyan
 
-* [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* [https://streamable.com/uff6qb](https://streamable.com/uff6qb%20)
+* [Triggered during spin](https://www.youtube.com/watch?v=lH6l4_oqJ7s)
+* [Triggered before spin](https://www.youtube.com/watch?v=Ln5VSljl3BY)
 
 **Significance**: If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
 
