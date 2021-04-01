@@ -6,7 +6,7 @@ description: >-
 
 # Chongyun
 
-## ![](.gitbook/assets/element_cryo.png) Chongyun
+## ![](https://github.com/Artesians/TCL/tree/d103ec7a8db42f175c352dbe082bf4e4b6fba851/characters/cryo/.gitbook/assets/element_cryo.png) Chongyun
 
 ![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/2402f680c7255752d299b860679038ba715709b2/.gitbook/assets/character_chongyun_wish.png)
 
@@ -223,3 +223,4 @@ Increases the level of Chonghua’s Layered Frost by 3.
 * [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
+

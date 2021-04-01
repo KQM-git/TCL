@@ -94,6 +94,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 | Energy Cost | 70 |
 {% endtab %}
 {% endtabs %}
+
 ## Ascension Passives
 
 {% tabs %}

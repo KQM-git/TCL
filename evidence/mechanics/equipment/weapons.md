@@ -4,9 +4,9 @@
 
 ### Lion's Roar Passive Applies to all forms of DMG inflicted on Electro-Debuffed Enemy
 
-By: Doug#8888
+By: Doug\#8888
 
-**Testing:** Keqing with no artifacts on and only a Lion's Roar. I autoattacked a hilichurl, cast stiletto for electro-debuff, then autoattacked again. Here are the 2 white(physical) numbers recorded.
+**Testing:** Keqing with no artifacts on and only a Lion's Roar. I autoattacked a hilichurl, cast stiletto for electro-debuff, then autoattacked again. Here are the 2 white\(physical\) numbers recorded.
 
 * 400dmg - no debuff
 * 469dmg - with electro aura
@@ -15,7 +15,7 @@ By: Doug#8888
 
 ### Lion’s Roar Passive Works while the Holder is Off-Field
 
-By: mikan#2834 and IonFox#8887
+By: mikan\#2834 and IonFox\#8887
 
 **Theory:** Lion's Roar passive is still in effect and will boost damage even when equipped character is off-screen
 
@@ -32,7 +32,7 @@ By: mikan#2834 and IonFox#8887
 
 ### Weapons with Bane of ... Passive Applies for Amplifying Reactions, but not Transformative Ones
 
-By: Lix-#3417  
+By: Lix-\#3417  
 Added: 12/7/2020
 
 **Theory/findings:** Can Lions Roar, 4TS,dragon's bane, ravens bow increase reaction dmg?
@@ -65,25 +65,25 @@ Test 3: Vaporize
 
 ### BlackCliff Sword effect Persists through a Character Swap
 
-By: Cenpi#3224
+By: Cenpi\#3224
 
 [https://youtu.be/lqB9ifbFTLI](https://youtu.be/lqB9ifbFTLI)
 
 ### BlackCliff Sword effect doesn’t activate if a Support takes the Kill
 
-By:Cenpi#3224
+By:Cenpi\#3224
 
-[https://youtu.be/drij7iIl\_Tg](https://youtu.be/drij7iIl\_Tg)
+[https://youtu.be/drij7iIl\_Tg](https://youtu.be/drij7iIl_Tg)
 
 ### BlackCliff Sword effect doesn’t activate if a CO-OP Member takes the Kill
 
 By: Cenpi\#3224
 
-[https://youtu.be/YFyRpQF\_fcY](https://youtu.be/YFyRpQF\_fcY) (refer to link above for original atk values)
+[https://youtu.be/YFyRpQF\_fcY](https://youtu.be/YFyRpQF_fcY) \(refer to link above for original atk values\)
 
 ### BlackCliff Sword Effect Persists Even if the Holder Switches Off-Field
 
-By:Lix-#3417  
+By:Lix-\#3417  
 Added: 12/7/2020
 
 **Theory/Findings:**
@@ -109,7 +109,7 @@ Added: 12/7/2020
 
 ### Favonius Weapons do not proc on Shielded Enemies
 
-By: Sakuno#7950  
+By: Sakuno\#7950  
 Added: 2/4/2021
 
 **Evidence:**
@@ -147,14 +147,14 @@ By: Cola\#6861
 
 ### How Royal LongSword’s Passive Works
 
-By: Pleinair#8321  
+By: Pleinair\#8321  
 Added: 11/22/2020
 
 **Evidence:** [https://youtu.be/YqjY3RN-QDs](https://youtu.be/YqjY3RN-QDs)
 
 **Significance:** The sword is a rare case of actually working while off field. While Sacrificial sword is one of Xingqiu BiS this weapon would be more optimized for a dps build over the Harbinger of Dawn due to the overall higher raw stats it provides
 
-By: IonFox#8887
+By: IonFox\#8887
 
 Further elaborating on @Pleinair's submission, Royal Longsword works exactly as written even when XQ is off field.
 
@@ -174,7 +174,7 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 ### Sacrificial Weapons do not proc on Shielded Enemies
 
-By: Exuma#1917  
+By: Exuma\#1917  
 Added: 2/4/2021
 
 **Evidence:** Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded pyro abyss mages and shielded geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
@@ -189,7 +189,7 @@ Added: 2/4/2021
 
 #### Lost Prayer Stack Mechanics
 
-By: Konbo#0004  
+By: Konbo\#0004  
 Added: 12/7/2020
 
 **Findings**:
@@ -209,7 +209,7 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 #### Analysis of whether Xingqiu E/Q counts as a “shield” for Memory of Dust and Bolide
 
-By: ＃＃#0123  
+By: ＃＃\#0123  
 Added: 12/7/2020
 
 **Theory**: For Bolide or Memory of Dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
@@ -222,12 +222,12 @@ Added: 12/7/2020
 
 #### Rate of Loss of Serpent Spine Stacks
 
-By: Reydriar#8127  
+By: Reydriar\#8127  
 Added: 12/7/2020
 
 **Finding**: Losing Serpent Spine stacks has an ICD depending on the stack count.
 
-* 5-4: 1.01-1.02s (after you lost your 5th stack you can‘t lose the 4th stack for the named duration)
+* 5-4: 1.01-1.02s \(after you lost your 5th stack you can‘t lose the 4th stack for the named duration\)
 * 4-3: 1.01-1.02s
 * 3-2: 1.17-1.18s
 * 2-1: 1.17-1.18s
@@ -243,7 +243,7 @@ Added: 12/7/2020
 
 #### Skyward Blade Description Clarification
 
-By: Special#1775  
+By: Special\#1775  
 Added 12/6/2020
 
 **Finding**:
@@ -255,7 +255,7 @@ Added 12/6/2020
 
 **More Accurate Description:** "Normal and Charged Attacks deal an additional 20% of Normal/Charged ATK as DMG for 12s" \(this additional damage is dealt separately\)
 
-**Evidence:** [https://youtu.be/nn4_xNJqsCA](https://youtu.be/nn4_xNJqsCA)
+**Evidence:** [https://youtu.be/nn4\_xNJqsCA](https://youtu.be/nn4_xNJqsCA)
 
 **Significance**
 
@@ -266,7 +266,7 @@ Added 12/6/2020
 
 #### Skyward Pride Damage Interaction with 4 Set Gladiators
 
-By: Chiefy#2036  
+By: Chiefy\#2036  
 Added: 3/30/2021
 
 **Theory:** Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
@@ -282,7 +282,7 @@ Added: 3/30/2021
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
 
-By: adri#1824
+By: adri\#1824
 
 **Finding:** The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
 
@@ -301,7 +301,7 @@ By: adri#1824
 
 #### The Flute’s AOE can CRIT
 
-By: Crome#2644
+By: Crome\#2644
 
 **Finding:** Yes, it can crit
 
@@ -330,7 +330,7 @@ Added: 2/4/2021
 
 ### Catalyst Effective Attack Comparisons
 
-By: Maygi#4987
+By: Maygi\#4987
 
 **Findings**
 
@@ -344,7 +344,7 @@ Catalyst effective attack comparisons - see spreadsheet below.
 
 Effective attack was calculated with a simple piecewise function that takes into account crit rate, crit damage, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
 
-The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines (maximum possible rolls is 38, but nobody will ever get such lines - right?). Royal weapon crit rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
+The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon crit rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
 
 **Significance**
 
@@ -370,7 +370,7 @@ Added: 11/9/2020
 
 Characters do not include 1.1 characters.
 
-I made a [calculator](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy) that takes into account Artifact Stats (Feather Atk, Flat Atk substat, and Atk%)
+I made a [calculator](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy) that takes into account Artifact Stats \(Feather Atk, Flat Atk substat, and Atk%\)
 
 ![Evidence at 46.6% \(From ATK% Sands\)](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/atk-compensate1.png)
 
@@ -383,11 +383,11 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 **Significance:**
 
 * 4 Star Characters will perform BETTER when equipped with weapons that has HIGHER Base Atk if you are running a 46.6% Atk% Timepiece Artifact.
-* 5 Star Characters have higher Base Atk, and instead performs BETTER when equipped with weapons that has MEDIUM Base Atk if you are running a 46.6% Atk% Timepiece Artifact. However, as ATK% increases (from artifact substats) to roughly 70%, weapons that has HIGHER Base Atk will perform BETTER.
+* 5 Star Characters have higher Base Atk, and instead performs BETTER when equipped with weapons that has MEDIUM Base Atk if you are running a 46.6% Atk% Timepiece Artifact. However, as ATK% increases \(from artifact substats\) to roughly 70%, weapons that has HIGHER Base Atk will perform BETTER.
 
 ### Range Cap for Arrows
 
-By: Poyo#6921  
+By: Poyo\#6921  
 Added: 2/4/2021
 
 **Finding**: There is a cap range for an arrow - the further you go after that cap the lower damage you deal.
@@ -398,3 +398,4 @@ Added: 2/4/2021
 * [https://streamable.com/cq83a6](https://streamable.com/cq83a6) \(Sac Bow test\) 
 
 **Significance**: Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
+

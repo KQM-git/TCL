@@ -12,7 +12,7 @@
 | Base ATK | 48 - 674 |
 | ER% | 8% - 36.8% |
 
-* The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy#2036](../../../evidence/mechanics/equipment/weapons.md#skyward-pride-damage-interaction-with-4-set-gladiators)
+* The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy\#2036](../../../evidence/mechanics/equipment/weapons.md#skyward-pride-damage-interaction-with-4-set-gladiators)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -555,7 +555,7 @@ By: [EternalDream\#5503 ](../../../evidence/mechanics/equipment/weapons.md#attac
 Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, the charged attack will have an attack speed increase for its entire duration when buffed, even if said buff wears off during charged attack.
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* \[[https://streamable.com/uff6qb](https://streamable.com/uff6qb) 
+* \[[https://streamable.com/uff6qb](https://streamable.com/uff6qb)
 
   \]\([https://streamable.com/uff6qb ](https://streamable.com/uff6qb%20)\)
 

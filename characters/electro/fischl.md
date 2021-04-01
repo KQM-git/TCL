@@ -131,7 +131,6 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Damage Type | Charged Attack |
 
 * This can be used to activate the passive on prototype crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
