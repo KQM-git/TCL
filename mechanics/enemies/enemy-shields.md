@@ -180,7 +180,7 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 
 ### Writers
 
-* 3b00d\_09\#7473
+* 3b00d\_09\#2235
 
 ### Theorycrafters
 
