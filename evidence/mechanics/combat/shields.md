@@ -2,7 +2,7 @@
 
 ## **Damage Reduction Applies Before Shields Are Calculated**
 
-**By: Faranight\#2235**
+**By: Faranight\#0001**
 
 **Finding:**
 
