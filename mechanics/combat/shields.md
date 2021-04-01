@@ -126,7 +126,6 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 ## External Links
 
 * [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
-* [Shields Evidence Vault](../../evidence/mechanics/combat/shields.md)
 
 **Evidence Vault**:
 
