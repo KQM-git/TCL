@@ -114,7 +114,7 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 
 ### Writers: 
 
-* 3b00d\_09\#2947
+* 3b00d\_09\#2235
 
 ### Theorycrafters:
 
