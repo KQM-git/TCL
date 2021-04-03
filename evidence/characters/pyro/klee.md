@@ -80,3 +80,31 @@ Added 12/22/2020 Updated 12/28/2020
 * Klee Charge Attack
 * Repeat.
 
+## Turbo Klee with C6 Fischl
+
+By: Vye\#9195
+
+**Finding:**
+
+Klee is able to provide a sufficient enough pyro aura to overtake Oz for a Fischl pyro turbo setup.
+
+Setup is as follows:
+
+* Klee is equipped with a 4 piece thundering fury to determine if she or Oz are triggering overload
+* We start on Fischl calling Oz, then switch to Klee for pyro aura.
+* Klees combo is EQ followed by 1NACA jump cancel spam or 2NACA jump cancel spam
+* after one initial thundering fury trigger Klee overtakes Oz in aura and therefore the turbo mechanic starts working
+
+**Significance:**
+
+Klee can potentially be used as the main pyro unit enabling Fisch turbo comps. However this requires a high barrier of execution due to Klees mechanical nature.
+
+**Video proof:**
+
+1NACA version
+
+[https://www.youtube.com/watch?v=GNJt-SegTCE](https://www.youtube.com/watch?v=GNJt-SegTCE)
+
+2NACA version
+
+[https://www.youtube.com/watch?v=GyYXIW485Ys](https://www.youtube.com/watch?v=GyYXIW485Ys)
