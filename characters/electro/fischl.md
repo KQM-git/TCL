@@ -264,6 +264,8 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 ## Turbo
 
+{% tabs %}
+{% tab title="Overview" %}
 When Oz triggers Overload or Superconduct with his Normal Attack, he generates a particle for each enemy hit by the reaction. This is called "turbo" energy generation. By this using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts to increase overall team damage \(reducing party energy recharge requirements for more damage investment\).
 
 | Number of Enemies | C0-C5 Particles | C6 Particles |
@@ -277,8 +279,39 @@ When Oz triggers Overload or Superconduct with his Normal Attack, he generates a
 | 7 | 112.8 | 140 |
 
 _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
+{% endtab %}
 
+{% tab title="Videos" %}
 {% embed url="https://www.youtube.com/embed/9I\_NCFg-Cdw" caption="Kleeful\'s Turbo Tutorial" %}
+
+{% embed url="https://www.youtube.com/watch?v=vbz0Q7lRvYA" caption="TenTen\'s Turbo Overview" %}
+{% endtab %}
+
+{% tab title="Team Comps" %}
+**Units in a Turbo Team**
+
+* Fischl
+* Aura Setter
+  * Cryo Unit for Superconduct Turbo
+  * Pyro Unit for Overload Turbo
+* Last two slots are flexible
+  * although for Superconduct Turbo, a secondary cryo unit may be required to maintain cryo aura
+
+**Pyro Aura**
+
+* Xiangling
+* Klee
+
+**Cryo Aura**
+
+* Kaeya + Chongyun
+* Kaeya + Diona
+
+**Flex Slot**
+
+Any unit fits here, but the units that benefit most from Turbo are energy hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running Beidou, Xiangling, and/or Xingqiu on more offense oriented stats over energy recharge.
+{% endtab %}
+{% endtabs %}
 
 {% page-ref page="../../evidence/characters/electro/fischl.md" %}
 
