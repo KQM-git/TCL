@@ -2,8 +2,7 @@
 
 ## How does 2 set Noblesse Oblige interact with C1 Klee?
 
-By: fin\#1623
-
+By: fin#1623  
 Added 12/6/2020
 
 **Theory:**
@@ -24,9 +23,8 @@ Yes they do.
 
 ## Klee’s Q is snapshotted on cast
 
-By: stellar\#7066
-
-Added 12/7/2020
+By: stellar\#7066  
+Added: 12/7/2020
 
 **Finding:**
 
@@ -42,9 +40,8 @@ You can leave bennett Q after using klee burst and you also keep other atk% buff
 
 ## Klee mine ICD
 
-By: Sakuno\#7950, Steph\#3614
-
-Added 03/16/2021
+By: Sakuno\#7950 and Steph\#3614  
+Added: 03/16/2021
 
 **Theory:** This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their pyro application \(for the purpose of breaking elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
 
@@ -64,9 +61,9 @@ Klee can break hydro abyss shields faster by abusing the fact that her mines are
 
 ## Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
 
-By: fid\#6253
-
-Added 12/22/2020 Updated 12/28/2020
+By: fid#6253  
+Added: 12/22/2020  
+Updated: 12/28/2020
 
 **Theory:** Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off-field after auto attacking or using her E.
 
@@ -82,7 +79,8 @@ Added 12/22/2020 Updated 12/28/2020
 
 ## Turbo Klee with C6 Fischl
 
-By: Vye\#9195
+By: Vye#9195  
+Added: 4/2/2021
 
 **Finding:**
 
@@ -92,8 +90,8 @@ Setup is as follows:
 
 * Klee is equipped with a 4 piece thundering fury to determine if she or Oz are triggering overload
 * We start on Fischl calling Oz, then switch to Klee for pyro aura.
-* Klees combo is EQ followed by 1NACA jump cancel spam or 2NACA jump cancel spam
-* after one initial thundering fury trigger Klee overtakes Oz in aura and therefore the turbo mechanic starts working
+* Klee's combo is EQ followed by 1NACA jump cancel spam or 2NACA jump cancel spam
+* After one initial thundering fury trigger Klee overtakes Oz in aura and therefore the turbo mechanic starts working
 
 **Significance:**
 
@@ -101,10 +99,5 @@ Klee can potentially be used as the main pyro unit enabling Fisch turbo comps. H
 
 **Video proof:**
 
-1NACA version
-
-[https://www.youtube.com/watch?v=GNJt-SegTCE](https://www.youtube.com/watch?v=GNJt-SegTCE)
-
-2NACA version
-
-[https://www.youtube.com/watch?v=GyYXIW485Ys](https://www.youtube.com/watch?v=GyYXIW485Ys)
+* [1NACA version](https://www.youtube.com/watch?v=GNJt-SegTCE)
+* [2NACA version](https://www.youtube.com/watch?v=GyYXIW485Ys)
