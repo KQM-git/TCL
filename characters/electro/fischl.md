@@ -309,9 +309,16 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 
 **Flex Slot**
 
-Any unit fits here, but the units that benefit most from Turbo are energy hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running Beidou, Xiangling, and/or Xingqiu on more offense oriented stats over energy recharge.
+Any unit fits here, but the units that benefit most from Turbo are energy hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense oriented stats over energy recharge.
 {% endtab %}
 {% endtabs %}
+
+## **External Links**
+
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
+* [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
+
+**Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/fischl.md" %}
 
