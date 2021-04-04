@@ -67,3 +67,15 @@ Energy Recharge is the multiplier that modifies how much energy is gained from t
 ## Table of Energy
 
 ![Table by Steph\#3614 ](../.gitbook/assets/EnergyTable.png)
+
+## Credits
+
+**Writer:**
+
+* Neptunya#8291
+
+**Theorycrafters:**
+
+* Steph#3614
+* c2authoritarian#5277
+* Pinupski#9999
