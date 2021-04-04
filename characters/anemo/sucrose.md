@@ -32,10 +32,10 @@ Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 46.85% | 19 | 147.95%/s |
-| 2-Hit | 42.86% | 19 | 141.65%/s |
-| 3-Hit | 53.83% | 32 | 123.03%/s |
-| 4-Hit | 67.08% | 31 | 125.12%/s |
-| Recovery | N/A | 31 | 95.74%/s |
+| 2-Hit | 42.86% | 38 | 141.65%/s |
+| 3-Hit | 53.83% | 70 | 123.03%/s |
+| 4-Hit | 67.08% | 101 | 125.12%/s |
+| Recovery | N/A | 132 | 95.74%/s |
 | Gauge Units | 1GU |  |  |
 
 **Charged Attack**  
