@@ -12,7 +12,9 @@ If an elemental skill damages an enemy, **elemental energy particles** will be g
 
 ### Auto Attacking
 
-You gain **flat energy** when you auto attack, the mechanics of this are currently unknown, feel free to take up the bounty in \#theory-hunt if you wish to investigate further.
+You gain **flat energy** when you auto attack, the mechanics of this are currently unknown, feel free to take up the bounty in \#theory-hunt on the Keqing Mains Discord if you wish to investigate further.
+
+This flat energy is only gained by the character on-field, off-field characters gain no energy from this method.
 
 ### Enemy HP Thresholds
 
