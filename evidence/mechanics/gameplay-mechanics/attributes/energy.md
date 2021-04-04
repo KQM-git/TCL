@@ -42,7 +42,7 @@ Added: 4/4/2021
 
 1. Bennett was given 300.1% ER
 2. Funneled non-pyro elemental particles to Bennett while off-field
-3. Took 33 particles, which is almost exactly what was expected
+3. [Took 33 particles](https://youtu.be/8WRgwQf-zh0), which is almost exactly what was expected
 
 ```python
 0.6 energy per particle * 3.001 ER * 33 particles = 59.420
