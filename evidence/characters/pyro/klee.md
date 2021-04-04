@@ -2,7 +2,7 @@
 
 ## How does 2 set Noblesse Oblige interact with C1 Klee?
 
-By: fin#1623  
+By: fin\#1623  
 Added 12/6/2020
 
 **Theory:**
@@ -61,7 +61,7 @@ Klee can break hydro abyss shields faster by abusing the fact that her mines are
 
 ## Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
 
-By: fid#6253  
+By: fid\#6253  
 Added: 12/22/2020  
 Updated: 12/28/2020
 
@@ -79,7 +79,7 @@ Updated: 12/28/2020
 
 ## Turbo Klee with C6 Fischl
 
-By: Vye#9195  
+By: Vye\#9195  
 Added: 4/2/2021
 
 **Finding:**
@@ -101,3 +101,4 @@ Klee can potentially be used as the main pyro unit enabling Fisch turbo comps. H
 
 * [1NACA version](https://www.youtube.com/watch?v=GNJt-SegTCE)
 * [2NACA version](https://www.youtube.com/watch?v=GyYXIW485Ys)
+

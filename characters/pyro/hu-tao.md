@@ -262,11 +262,9 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 
 {% tabs %}
 {% tab title="N2C Jump Cancel" %}
-{% embed url="https://imgur.com/a/zZf8wxf" caption="" %}
-{% endtab %}
 
 {% tab title="C1 N1C Dash Cancel" %}
-{% embed url="https://imgur.com/6WV89zJ" %}
+{% embed url="https://imgur.com/6WV89zJ" caption="" %}
 {% endtab %}
 {% endtabs %}
 

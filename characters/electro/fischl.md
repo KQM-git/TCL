@@ -312,7 +312,6 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 Any unit fits here, but the units that benefit most from Turbo are energy hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense oriented stats over energy recharge.
 
 **Important:** Always use the Aura Setter's burst before deploying Oz in your rotations, the opposite may yield electro aura and not generate energy.
-
 {% endtab %}
 {% endtabs %}
 
