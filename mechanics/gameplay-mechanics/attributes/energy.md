@@ -64,7 +64,7 @@ In a party of 4, a unit off-field gains **60%** of the energy compared to if the
 
 ### Energy Recharge%
 
-Energy Recharge is the multiplier that modifies how much energy is gained from the **incoming** energy particles/orbs. It **does not** change how much energy is outputted via elemental skills.
+Energy Recharge is the multiplier that modifies how much energy is gained from the **incoming** energy particles/orbs. It **does not** change how much energy is outputted via elemental skills. Currently, there is no known soft cap for ER%, this has been tested up to 300.1% ER.
 
 ## Table of Energy
 
