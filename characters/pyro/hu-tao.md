@@ -34,13 +34,13 @@ Hu Tao performs up to 6 consecutive spear strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.47% | 13 |  |
-| 2-Hit | 66.35% | 29 |  |
-| 3-Hit | 83.94% | 54 |  |
-| 4-Hit | 90.26% | 90 |  |
-| 5-Hit | 45.75% + 48.40% | 119 |  |
-| 6-Hit | 118.19% | 173 | 179.43 |
-| Recovery | N/A | 238 | 130.43 |
+| 1-Hit | 64.47% | 13 | 297.6%/s |
+| 2-Hit | 66.35% | 29 | 253.2%/s |
+| 3-Hit | 83.94% | 54 | 238.6%/s |
+| 4-Hit | 90.26% | 90 | 198.9%/s |
+| 5-Hit | 45.75% + 48.40% | 120+134 | 178.7%/s |
+| 6-Hit | 118.19% | 173 | 178.4%/s |
+| Recovery | N/A | 238 | 131.0%/s |
 
 **Charged Attack**  
 Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
