@@ -318,8 +318,9 @@ By: Crome\#2644
 By: Amadurim/#8925
 Added: 04/05/2021
 
-Finding: Rust DMG reduction on charge atk is additive and in the same category as dmg%.
-Evidence: Using lv50 Amber, on Lv87 Hilichurl, with +20 physical goblet
+**Finding:** Rust DMG reduction on charge atk is additive and in the same category as dmg%.
+
+**Evidence:** Using lv50 Amber, on Lv87 Hilichurl, with +20 physical goblet
 Lv90 Prototype Crescent (No passive)
 [Imgur](https://i.imgur.com/nSaRkfP.png)
 Lv90 Rust
@@ -340,7 +341,7 @@ If additive,
 
 Rounding decimals aside, the dmg number of "If additive" is the same as ingame numbers, hence the dmg reduction of Rust is additive and in dmg% category. The same result also seen in Slingshot.
 
-Significance: The dmg reduction of Rust passive is pretty negligible.
+**Significance:** The dmg reduction of Rust passive is pretty negligible.
 
 ## General Mechanics
 
