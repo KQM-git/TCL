@@ -270,3 +270,41 @@ Pyro, XL, Fischl 2nd electro with Beidou in this example:
 **Significance:**
 
 In turbo compositions using a pyro character with either innate pyro NA or infused pyro NA no Fischl A4 can be triggered. The same applies for adding an additional electro source like Beidou burst. We still cannot observe any overloads reactions triggered by the on field character through 4 TF set.
+
+## Fischl turbo superconduct exploration
+
+By using the turbo mechanic and adding a hydro unit you can create a team comp which utilizes the energy generation from turbo while also maintaining a 80% freeze uptime for your composition. 
+Due to the constant superconduct this will also enable a potential physical carry for this team comp.
+
+**Requirements:**
+
+- Hydro unit for freeze, XQ seems best in slot
+- 2 Cryo units who can out aura Oz for turbo mechanics
+- Fischl to enable turbo energy regen
+
+**Advantages:**
+
+- Both cryo users and the hydro unit can take advantage of Blizzard Strayer which is worth ten 5* tier 4 crit rate sub stats if both set effects are active
+- cryo resonance crit rate bonus against enemies frozen or affected by cryo
+- high freeze uptime means the enemy cannot fight back, which will lead to very effective dps application since you don't spend time on dodging and/or repositioning
+
+**Disadvantages:**
+
+- expensive because most of the team needs investment
+- currently we only have 2 Cryo units with Chong + Kaeya and neither can guarantee 100% cryo uptime to enable turbo fully so they need to be paired. A substitute would be cryo infused Venti or Sucrose bursts.
+- limited ceiling due to the current quality of vailable cryo units
+
+**Evidence:**
+
+[Youtube](https://www.youtube.com/watch?v=su1kRSsEyt4)
+
+[Youtube](https://www.youtube.com/watch?v=gz67t25BvTg)
+
+**Significance:**
+
+Team comps which follow the blueprint of Hydro, Cryo, Cryo, Fischl would combine very high energy generation with freeze. These teams would be very effective when dealing with enemies with annoying or inconvenient move sets provided they can be frozen. The energy generation of turbo
+would let you run very low ER values, especially on ER hungry future Cryo or Hydro units. Additionally Blizzard Strayer is an extremely good set in terms of the power it can provide to a character and can be utilized on 3 out of 4 units in these compositions.
+
+**Additional Comments:**
+
+Blizzard Strayer is applied off field on abilities like XQ Q.
