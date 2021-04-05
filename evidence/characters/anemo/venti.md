@@ -1,35 +1,34 @@
 # Venti
 
-## Venti weapon comparisons and guide
+## Venti Burst Analysis
 
-By: paimonbukeyi/#4732
+By: KleefulFrames\#6735
+
+Link [here](https://docs.google.com/spreadsheets/d/18SqSQzSyfQP4X2NGcXkubQ9NzC0BdT1Jxt0I1TL_zGs/edit#gid=2088924426).  
+
+
+## Venti Weapon Comparisons and Guide
+
+By: paimonbukeyi\#4732  
 Added: 04/05/2021
 
-**Theory/Finding:**
+**Theory/Finding:** Mostly weapon rankings + optimal substats and to look for Venti with a bit of other calcs.
 
-Mostly weapon rankings + optimal substats and to look for Venti with a bit of other calcs.
+**Evidence:** Just some simple substat optimization in my script.
 
-**Evidence:**
+* [Sheet](https://docs.google.com/spreadsheets/d/1Z5UEfzhPpEyb_0ehjGj6z9W9oiQTr_bMcNL67XNvXW0/edit?usp=sharing)
+* [Guide](https://anneta-vershinina.gitbook.io/venti/)
 
-Just some simple substat optimization in my script
+**Significance:** Better understanding of Venti.
 
-[Sheet](https://docs.google.com/spreadsheets/d/1Z5UEfzhPpEyb_0ehjGj6z9W9oiQTr_bMcNL67XNvXW0/edit?usp=sharing)
+## Venti Q Absorbed Element ICD
 
-[Guide](https://anneta-vershinina.gitbook.io/venti/)
+By: Charliex3000/\#9403  
+Added: 04/05/2021
 
-**Significance:**
+**Finding:** Venti's Burst elemental infusion application follows the standard ICD rules of elemental application every 3rd hit.
 
-Help people to have a little bit better Venti than they otherwise would have.
+**Evidence:** [Youtube](https://youtu.be/nlxEcKJUfKA)
 
-## Venti q absorbed element icd
+**Significance**: Once the GUs of Venti ult's absorbed element has been determined, this can aid us in calculating his single target elemental application rate
 
-By: Charliex3000/#9403
-Added: 05/04/2021
-
-**Finding:**
-Venti's ult's absorbed ICD is same as usual: every 3rd hit
-
-**Evidence:**
-[Youtube](https://youtu.be/nlxEcKJUfKA)
-
-Significance: Once the GUs of Venti ult's absorbed element has been determined, it can aid us in calculating his single target elemental application rate

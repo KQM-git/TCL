@@ -93,9 +93,14 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti needs to be at most 20 levels below the enemy to be able to lift them.
-* The **Stormeye** deals 20 ticks of Anemo DoT. Elemental absorption can occur after the 4th tick, for a maximum of 16 ticks of Additional Elemental DMG.
-* Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls. Every third absorbed elemental tick applies an unknown GU of the absorbed element, for a maximum of 6 applications.
-* The damage calculation snapshots.
+* Stormeye damage tick information:
+  * 20 ticks of Anemo DMG ****
+  * maximum of 16 ticks of Additional Elemental DMG
+    * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
+  * Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls
+    * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
+* Every third infused elemental tick applies an unknown GU of the absorbed element, for a maximum of 6 applications
+* Venti's burst snapshots
 {% endtab %}
 {% endtabs %}
 
