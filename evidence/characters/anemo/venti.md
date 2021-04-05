@@ -21,3 +21,15 @@ Just some simple substat optimization in my script
 
 Help people to have a little bit better Venti than they otherwise would have.
 
+## Venti q absorbed element icd
+
+By: Charliex3000/#9403
+Added: 05/04/2021
+
+**Finding:**
+Venti's ult's absorbed ICD is same as usual: every 3rd hit
+
+**Evidence:**
+[Youtube](https://youtu.be/nlxEcKJUfKA)
+
+Significance: Once the GUs of Venti ult's absorbed element has been determined, it can aid us in calculating his single target elemental application rate
