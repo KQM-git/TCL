@@ -273,6 +273,9 @@ In turbo compositions using a pyro character with either innate pyro NA or infus
 
 ## Fischl turbo superconduct exploration
 
+By: Vye/#9195
+Added: 04/05/2021
+
 By using the turbo mechanic and adding a hydro unit you can create a team comp which utilizes the energy generation from turbo while also maintaining a 80% freeze uptime for your composition. 
 Due to the constant superconduct this will also enable a potential physical carry for this team comp.
 
@@ -308,3 +311,18 @@ would let you run very low ER values, especially on ER hungry future Cryo or Hyd
 **Additional Comments:**
 
 Blizzard Strayer is applied off field on abilities like XQ Q.
+
+## Fischl E icd
+
+By: muakasan/#2792
+Added: 04/05/2021
+
+**Finding:**
+Determining Fischl's Elemental skill's ICD. Fischl's E (Oz) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer. 
+
+**Evidence:**
+[Analysis](https://docs.google.com/spreadsheets/d/1Hp2B8rFE0qwILcLkSIxELd024V9W93Wfhvz2ogzNgbk/edit#gid=2140888109)
+[Youtube](https://youtu.be/DjV9KKKSiwQ)
+
+**Significance:**
+A better understanding of ICDs.
