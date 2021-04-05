@@ -28,10 +28,10 @@ Works in every menu most notably adventure book and wish menu allowing it to be 
 By: xHelloEveryonex/#1401
 Added: 05/04/2021
 
-Bug: Unlimited respawning bushes when using hu tao infused with Pyro sets them on fire and then they respawn.
+**Bug:** Unlimited respawning bushes when using hu tao infused with Pyro sets them on fire and then they respawn.
 
-Evidence:
+**Evidence:**
 [Youtube](https://youtu.be/R5D-seBcdnU)
 
-Significance:
+**Significance:**
 Time to farm your eggs and lizards guys
