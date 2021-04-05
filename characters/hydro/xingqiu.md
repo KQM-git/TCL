@@ -64,6 +64,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
   * The initial maximum number of **Rain Swords** is 3.
   * **Rain Swords** apply Hydro to surrounding enemies once every 2.2s.
 * Using this ability applies a very brief 1U Hydro aura onto the character.
+* In melee range the orbitals will periodically apply hydro onto the enemy.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -100,7 +101,8 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 | GU | 1A |
 
 * **Sword Rain** damage calculation does not snapshot.
-* Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice
+* Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice.
+* After burst ends there is a small window where the hydro application of the orbitals can still activate.
 {% endtab %}
 {% endtabs %}
 
