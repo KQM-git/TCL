@@ -1,12 +1,12 @@
 ---
-description: 'Overload, Superconduct, Electro-Charged, Shatter, and Swirl.'
+description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Crystallize.'
 ---
 
 # Transformative Reactions
 
 ![](../../../.gitbook/assets/image.png)
 
-Transformative reactions scale based off of Elemental Mastery and character level, preventing them from scaling very well.
+Transformative reactions scale based on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content.
 
 ## **Overload**
 
@@ -16,19 +16,18 @@ Overload is an elemental reaction triggered by applying Pyro on a target already
 
 ## **Superconduct**
 
-Superconduct is an elemental reaction triggered by applying Electro on a target already afflicted by a Cryo aura or vice versa. Superconduct will reduce the physical damage resistance by 40% by 12 seconds. Triggering Superconduct in an AoE will only cause one instance of Superconduct damage.
+Superconduct is an elemental reaction triggered by applying Electro on a target already afflicted by a Cryo aura or vice versa. Superconduct **reduces an enemy's physical damage resistance by 40% by 12 seconds**. Triggering Superconduct in an AoE will only cause one instance of Superconduct damage.
 
 ## Electro-Charged
 
-Electro-Charged is a special Transformative reaction that breaks the normal rule of “1 elemental aura on an enemy at a time." When an enemy is Electro-Charged, both the Hydro and Electro aura lie underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger both Vaporize and Overload in the same damage instance. Since Electro-Charged hides the underlying Hydro and Electro auras, it continues to tick every second until there are 0.5s worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#electrocharged)
+Electro-Charged is a special Transformative reaction that breaks the normal convention of “one elemental aura on an enemy at a time." When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#electrocharged)
 
-Electro-Charged can be extended by hitlag, probably by extending the aura duration.
-
-Electro-Charged can also spread to adjacent targets if they have a Hydro aura, however, the chain lightning applies the Electro-Charged damage without applying an elemental aura.
+* Electro-Charged can be extended by hitlag, presumably by extending the aura duration.
+* Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
 
 ## Shatter
 
-Heavy attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
+Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
 
 ## Frozen
 
