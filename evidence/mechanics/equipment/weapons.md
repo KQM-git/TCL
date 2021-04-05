@@ -311,6 +311,37 @@ By: Crome\#2644
 
 ![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit2.png)
 
+### Rust
+
+#### Rust Damage decrease
+
+By: Amadurim/#8925
+Added: 04/05/2021
+
+Finding: Rust DMG reduction on charge atk is additive and in the same category as dmg%.
+Evidence: Using lv50 Amber, on Lv87 Hilichurl, with +20 physical goblet
+Lv90 Prototype Crescent (No passive)
+[Imgur](https://i.imgur.com/nSaRkfP.png)
+Lv90 Rust
+[Imgur](https://i.imgur.com/YsG8wlf.png)
+When punching Amber's stats and modifiers to calcs,
+1062 (Amber's total atk) x 1.583 (+20 physical cup) x 0.439 (Amber's Talent level 1 aim shot)
+and reduced by defense/resistance
+(50+100)/((50+87)+200) x 0.9
+=295.6472335
+
+Now considering Rust passive
+
+If multiplicative,
+295.6472335 x 0.9 = 266.0825102
+
+If additive,
+1062 x (1.583 - 0.1) x 0.439 x (50+100)/((50+87)+200) x 0.9 = 276.9708448
+
+Rounding decimals aside, the dmg number of "If additive" is the same as ingame numbers, hence the dmg reduction of Rust is additive and in dmg% category. The same result also seen in Slingshot.
+
+Significance: The dmg reduction of Rust passive is pretty negligible.
+
 ## General Mechanics
 
 ### Attack Speed Buffs on Claymores
