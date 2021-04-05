@@ -67,3 +67,19 @@ Unfortunately, this comparison has some issues such as Diona shield not caring a
 
 Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depending on the aura also it does not apply 2U to diona herself until the second swap.
 
+## Diona shield specifics
+
+By: EggsD/#9603
+Added: 04/05/2021
+
+**Finding:** 
+Detailed description and rundown of Diona's Icy Paws Shield. Includes: description/ascension stat/bow choice/artifact/DMG absorption and uptime/sacrificial bow stacking potentisl/infinity shield strategy.
+
+**Evidence:** 
+[Google doc](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
+
+**Significance:** 
+Noted especially with how diona shield works with Sacrificial Bow. 
+Understand the full mechanics about the diond shield maximum uptime and durability carry over.
+Debunk a youtuber theory about Diona's infinity shield being good.
+
