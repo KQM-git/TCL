@@ -5,11 +5,11 @@
 By: paimonbukeyi/#4732
 Added: 04/05/2021
 
-Theory/Finding:
+**Theory/Finding:**
 
 Mostly weapon rankings + optimal substats and to look for Venti with a bit of other calcs.
 
-Evidence/Testing:
+**Evidence:**
 
 Just some simple substat optimization in my script
 
@@ -17,7 +17,7 @@ Just some simple substat optimization in my script
 
 [Guide](https://anneta-vershinina.gitbook.io/venti/)
 
-Significance:
+**Significance:**
 
 Help people to have a little bit better Venti than they otherwise would have.
 
