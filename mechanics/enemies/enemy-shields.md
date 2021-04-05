@@ -8,7 +8,7 @@ description: >-
 
 ## Introduction
 
-Currently there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.**
+Currently, there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.**
 
 {% page-ref page="../combat/elemental-reactions/" %}
 
@@ -22,9 +22,11 @@ To deal with Elemental Shields, you'll need to apply a different **Elemental Aur
 
 Due to the nature of how ICD works, it is recommended to use different character rotations as opposed to spamming a certain attack, like **Infused Normals**. That being said, **Bow Users** can spam their **Charged Attack** to apply an **aura** over and over because the assumption is that the charge time is longer than the ICD.
 
-Before we get into how to deal with different types of shields, some types \(**Whether its Elemental Shield or Armor\) can** be damaged through **Heavy attacks**, and **Light Attacks**. However, **Light Attacks** do insignificant damage and its advisable to avoid using **Light Attacks** to break **Shields.**
+Before we get into how to deal with different types of shields, some types \(**whether its Elemental Shield or Armor**\) can be damaged through **Heavy Attacks** and **Light Attacks**. These types of attacks **deal bonus damage** due to their property of being Heavy or Light \(and some attacks are neither Heavy nor Light\). However, Light Attacks do insignificant damage, and it's advisable to avoid using **Light Attacks** to break **Shields**.
 
-To add onto that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice.
+Abyss mage shields, unlike other types of shields, take any damage directly. Any type of attack reduces Abyss mage shields HP by the amount of damage it deals **in addition** to bonus damage due to Elemental Aura application. However, Abyss mage shields have very large HP pools and it is not advisable to rely on direct damage compared to elemental damage.
+
+To add to that, **Geo Attacks** are considered **Heavy Attacks** and also can cause **Crystallize**. Meaning the **GU** required to break **Shields** that are susceptible to both **Geo and Heavy Attacks** is much less in practice.
 
 The following is a table consisting of different types of **Elemental Shields** as well as how many **Gauge units** are required to take them down.[ ](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=162614118)[Character Gauge Units Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=162614118)
 
@@ -58,7 +60,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 | :--- | :--- |
 | Hydro | Null |
 | Cryo | 12GU |
-| Pyro | 12GU |
+| Pyro | 24GU |
 | Electro | 15GU |
 | Anemo | 24GU |
 | Geo | 24GU |
