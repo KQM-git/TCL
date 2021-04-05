@@ -22,3 +22,13 @@ Works in every menu most notably adventure book and wish menu allowing it to be 
 **Evidence:** [Youtube](https://youtu.be/7H84lGcZf8s)
 
 **Significance:** Allows characters to quickly absorb particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
+
+## Infinite bushes
+
+Bug: Unlimited respawning bushes when using hu tao infused with Pyro sets them on fire and then they respawn.
+
+Evidence:
+[Youtube](https://youtu.be/R5D-seBcdnU)
+
+Significance:
+Time to farm your eggs and lizards guys
