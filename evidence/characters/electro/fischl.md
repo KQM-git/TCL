@@ -233,3 +233,40 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
+## Fischl A4 weapon infuse interaction
+
+By: Vye/#9195
+Added: 04/05/2021
+
+**Finding:**
+
+Innate pyro NA or infused pyro NA is unable to trigger Fischl A4 when attacking into an existing Fischl turbo reaction setup with Pyro.
+The same applies to an additional electro source like Beidou burst.
+
+**Evidence:**
+
+Setup is as follows:
+
+- Turbo setup by using XL Pyronado and Fischl Oz call
+- character Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
+- after starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
+- on Overload triggers no reduction of E skill is observed
+
+Pyro, XL, Fischl:
+
+[Youtube](https://www.youtube.com/watch?v=6GmoRvUytOY)
+
+Setup for double electro with innate pyro NA or infused pyro NA:
+
+- turbo setup by using XL pyronado, Beidou burst and Fischl Oz call
+- character Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
+- after starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
+- on Overload triggers no reduction of E skill is observed
+
+Pyro, XL, Fischl 2nd electro with Beidou in this example:
+
+[Youtube](https://www.youtube.com/watch?v=jhs9aXLO4Fc)
+
+**Significance:**
+
+In turbo compositions using a pyro character with either innate pyro NA or infused pyro NA no Fischl A4 can be triggered. The same applies for adding an additional electro source like Beidou burst. We still cannot observe any overloads reactions triggered by the on field character through 4 TF set.
