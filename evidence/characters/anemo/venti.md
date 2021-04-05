@@ -23,7 +23,7 @@ Added: 04/05/2021
 
 ## Venti Q Absorbed Element ICD
 
-By: Charliex3000/\#9403  
+By: Charliex3000\#9403  
 Added: 04/05/2021
 
 **Finding:** Venti's Burst elemental infusion application follows the standard ICD rules of elemental application every 3rd hit.
