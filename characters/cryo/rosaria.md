@@ -67,7 +67,7 @@ This ability cannot be used to travel behind opponents of a larger build.
 | Skill DMG | 81.76%+190.4% \(282.16%\) |
 | Cooldown | 6s |
 | Particles | 3 |
-| GU | 1A  |
+| GU | 1A |
 | Frames |  |
 | Motion Value |  |
 
@@ -111,6 +111,7 @@ When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria'
 
 * Either damage instance of **Ravaging Confession** can trigger this passive
 * This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by **Rites of Termination** 
+* This CRIT RATE increase doesn't apply if her skill is cast while already behind an enemy
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -220,3 +221,4 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/rosaria.md" %}
+
