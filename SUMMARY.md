@@ -28,7 +28,6 @@
   * [Ganyu](characters/cryo/ganyu.md)
   * [Kaeya](characters/cryo/kaeya.md)
   * [Qiqi](characters/cryo/qiqi.md)
-  * [Rosaria](characters/cryo/rosaria.md)
 * [Dendro](characters/dendro.md)
 * [Electro](characters/electro/README.md)
   * [Beidou](characters/electro/beidou.md)
