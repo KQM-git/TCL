@@ -6,6 +6,10 @@ description: >-
 
 # Rosaria
 
+{% hint style="info" %}
+Current numbers are from [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/) beta datamine. All notes are from Day 1 testing and are subject to change as new findings are uncovered.
+{% endhint %}
+
 ## ![](../../.gitbook/assets/element_cryo.png) Rosaria
 
 ![](../../.gitbook/assets/character_rosaria_wish.png)
@@ -62,10 +66,12 @@ This ability cannot be used to travel behind opponents of a larger build.
 | :--- | :--- |
 | Skill DMG | 81.76%+190.4% \(282.16%\) |
 | Cooldown | 6s |
-| Particles |  |
-| GU |  |
+| Particles | 3 |
+| GU | 1A  |
 | Frames |  |
 | Motion Value |  |
+
+* Both hits of **Ravaging Confession** apply cryo, and have no ICD, allowing it to double melt
 {% endtab %}
 
 {% tab title="Rites of Termination" %}
@@ -76,10 +82,15 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 | :--- | :--- |
 | Skill DMG | 145.6% + 212.8% \(358.4%\) |
 | Ice Lance DoT | 184.8% |
-| GU |  |
+| GU | 1A |
 | Duration | 8s |
 | Cooldown | 15s |
 | Energy Cost | 60 |
+
+* **Rites of Termination** snapshots buffs
+* Cryo application has no ICD
+  * 1A cryo on both damage instances on cast
+  * 1A cryo every damage tick, which occurs every 2 seconds
 {% endtab %}
 {% endtabs %}
 
@@ -97,6 +108,9 @@ Not stackable with Passive Talents that provide the exact same effect.
 ### **Regina Probationum**
 
 When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT RATE increases by 12% for 5s.
+
+* Either damage instance of **Ravaging Confession** can trigger this passive
+* This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by **Rites of Termination** 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
