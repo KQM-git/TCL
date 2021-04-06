@@ -7,7 +7,7 @@ description: >-
 # Rosaria
 
 {% hint style="info" %}
-Current numbers are from [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/) beta datamine. All notes are from Day 1 testing and are subject to change as new findings are uncovered.
+Preliminary data based on leaked data. Day 1 notes should be taken lightly.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/element_cryo.png) Rosaria
