@@ -21,4 +21,4 @@ Venti   : 51.7%
 ```
 
 * Rosaria's A1 crit bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
-
+* 
