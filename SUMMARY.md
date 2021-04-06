@@ -119,6 +119,7 @@
       * [Ganyu](evidence/characters/cryo/ganyu.md)
       * [Kaeya](evidence/characters/cryo/kaeya.md)
       * [Qiqi](evidence/characters/cryo/qiqi.md)
+      * [Rosaria](evidence/characters/cryo/rosaria.md)
     * [Dendro](evidence/characters/dendro.md)
     * [Electro](evidence/characters/electro/README.md)
       * [Beidou](evidence/characters/electro/beidou.md)

@@ -35,11 +35,11 @@ Rosaria performs up to five consecutive spear strikes.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 76.25% |  |  |
-| 2-Hit | 75% |  |  |
-| 3-Hit | 46.25% x2 \(92.5%\) |  |  |
-| 4-Hit | 101.25% |  |  |
-| 5-Hit | 60.5%+62.5% \(123%\) |  |  |
+| 1-Hit | 76.25% | 10 | 457.5%/s |
+| 2-Hit | 75% | 36 | 252.08%/s |
+| 3-Hit | 46.25% x2 \(92.5%\) | 81 | 180.56%/s |
+| 4-Hit | 101.25% | 115 | 180%/s |
+| 5-Hit | 60.5%+62.5% \(123%\) | 175 | 160.46%/s |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
@@ -216,4 +216,8 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 ## **External Links**
 
 * [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/)
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/cryo/rosaria.md" %}
 
