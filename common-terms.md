@@ -5,7 +5,7 @@ description: 'If you need something defined, this is the place.'
 # Glossary
 
 {% hint style="info" %}
-If there are any terms you want defined/redefined, please make a submission through this [form](https://forms.gle/JeiHNSb8mfWxCAGv5), and we will get to it.
+If there are any terms you want defined/redefined, go to [\#server•site•feedback](https://discord.gg/MgekR5Yufx) and make your suggestion there.
 {% endhint %}
 
 ## Character Terms
@@ -27,6 +27,8 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 **Battery** = A character that generates energy to fund another character’s burst.
 
+**Burst Support** = A character that swaps onto the field to deal large damage with their burst.
+
 **Hypercarry/Selfish Carry** = A team is focused entirely around maximizing the damage dealt by a single character\(the selfish carry\) during their period of time where they deal the most damage, but are unable to swap off.
 
 **Main Carry** = A character who spends the most time on the field, most likely the one using the most Normal/Charged attacks out of the rest of your characters.
@@ -39,8 +41,7 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 **Subcarry** = Characters outside of the main carry that deal damage, usually through their skills/burst
 
-* **Burst Subcarry** = A character that deals their damage through their burst
-* **Reaction Subcarry/Enabler** = A character that deploys a skill that works even when the character is off-field. Usually they apply elements to "enable" reactions.
+* **Reaction Subcarry/Enabler** = A character that deploys a skill or burst that works even when the character is off-field. Usually, they apply elements to "enable" reactions.
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
@@ -102,6 +103,11 @@ As the theorycrafting library is being migrated, many of these terms do not have
 * Variants: Walk Cancel, Dash Cancel, Jump Cancel
 
 **Cleanse** = A method of cleaning auras off of characters by self-applying an element from certain skills/bursts of characters. For more information see our page on cleanses
+
+**Hitlag** = Whenever a character hits a target, frames get frozen to give the player a sense of "weight" behind each attack.
+
+* The amount of hitlag depends on the target hit
+* Range characters and skills aren't affected by hitlag
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 
