@@ -143,8 +143,6 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Type | Talent % | Cooldown | Damage Type |
 | :--- | :--- | :--- | :--- |
 | Undone Be Thy Sinful Hex | 80% | 1s | Elemental Skill |
-
-* Innate pyro normals \(Klee\) or infused pyro normals are unable to trigger A4 in a pyro turbo setup
 {% endtab %}
 {% endtabs %}
 
@@ -317,6 +315,10 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 Any unit fits here, but the units that benefit most from Turbo are energy-hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense-oriented stats over energy recharge.
 
 **Important:** Always use the Aura Setter's burst before deploying Oz in your rotations, the opposite may yield electro aura and not generate turbo energy.
+
+**Additional Notes:**
+
+* When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
 {% endtab %}
 {% endtabs %}
 

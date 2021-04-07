@@ -102,7 +102,7 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Elemental Burst DMG +20%
-* Using an Elemental Burst increases all part members' ATK by 20% for 12s. This effect cannot stack.
+* Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
 {% endtab %}
 {% endtabs %}
 
@@ -214,7 +214,7 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Increases Elemental Mastery by 80.
-* 4 Piece Set Bonus: After using an Elemental Skill, increases all part members' Elemental Mastery by 120 for 8s
+* 4 Piece Set Bonus: After using an Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s
 {% endtab %}
 {% endtabs %}
 
@@ -306,7 +306,7 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Energy Recharge +20%
-* 4 Piece Set Bonus: Gaining Energy gives 3 Energy to all part members who have a Bow or a Catalyst equipped. Can only occur once every 3s.
+* 4 Piece Set Bonus: Gaining Energy gives 3 Energy to all party members who have a Bow or a Catalyst equipped. Can only occur once every 3s.
 {% endtab %}
 {% endtabs %}
 
@@ -315,7 +315,7 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Energy Recharge +20%
-* 4 Piece Set Bonus: Using an Elemental Burst regenerates 2 Energy for other part members every 2s for 6s. This effect cannot stack. 
+* 4 Piece Set Bonus: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack. 
 {% endtab %}
 {% endtabs %}
 
