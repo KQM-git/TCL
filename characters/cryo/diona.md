@@ -88,7 +88,8 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | MV/s | 469.5%/s Press ~ 733.6%/s Hold |
 
 * In specific circumstances, Diona's shield is 2U on swap.
-  * For more details see the [full entry](https://github.com/Artesians/TCL/tree/b74ee3f1ec26e028c8d6bfedefb4beefa743ce80/evidence/characters/cryo/diona/README.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault
+  * For more details see the [full entry](https://github.com/Artesians/TCL/tree/b74ee3f1ec26e028c8d6bfedefb4beefa743ce80/evidence/characters/cryo/diona/README.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
+* A deepdive into how Icy paws work can be found here: [Google doc](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 {% endtab %}
 
 {% tab title="Signature Mix" %}
