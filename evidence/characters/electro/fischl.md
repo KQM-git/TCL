@@ -233,96 +233,90 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
-## Fischl A4 weapon infuse interaction
+## Fischl A4 + Infused Weapon Interaction
 
-By: Vye/#9195
+By: Vye\#9195  
 Added: 04/05/2021
 
 **Finding:**
 
-Innate pyro NA or infused pyro NA is unable to trigger Fischl A4 when attacking into an existing Fischl turbo reaction setup with Pyro.
-The same applies to an additional electro source like Beidou burst.
+Innate pyro NA or infused pyro NA are unable to trigger Fischl A4 when attacking into an existing Fischl turbo reaction setup with Pyro. The same applies to an additional electro source like Beidou burst.
 
 **Evidence:**
 
 Setup is as follows:
 
-- Turbo setup by using XL Pyronado and Fischl Oz call
-- character Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
-- after starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
-- on Overload triggers no reduction of E skill is observed
+* Turbo setup by using XL Pyronado and Fischl Oz call
+* Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
+* After starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
+* On Overload triggers no reduction of E skill is observed
 
-Pyro, XL, Fischl:
-
-[Youtube](https://www.youtube.com/watch?v=6GmoRvUytOY)
+[Pyro, XL, Fischl](https://www.youtube.com/watch?v=6GmoRvUytOY)
 
 Setup for double electro with innate pyro NA or infused pyro NA:
 
-- turbo setup by using XL pyronado, Beidou burst and Fischl Oz call
-- character Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
-- after starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
-- on Overload triggers no reduction of E skill is observed
+* Turbo setup by using XL pyronado, Beidou burst and Fischl Oz call
+* Character Klee who has innate pyro NA is equipped with 4 set thundering fury which lowers elemental skill CD if overload is procced
+* After starting the turbo reaction Klee uses elemental skill E once and proceeds to NA cancel
+* On Overload triggers no reduction of E skill is observed
 
-Pyro, XL, Fischl 2nd electro with Beidou in this example:
-
-[Youtube](https://www.youtube.com/watch?v=jhs9aXLO4Fc)
+[Pyro, XL, Fischl, 2nd Electro \(Beidou in this example\)](https://www.youtube.com/watch?v=jhs9aXLO4Fc)
 
 **Significance:**
 
-In turbo compositions using a pyro character with either innate pyro NA or infused pyro NA no Fischl A4 can be triggered. The same applies for adding an additional electro source like Beidou burst. We still cannot observe any overloads reactions triggered by the on field character through 4 TF set.
+In turbo compositions, using a pyro character with either innate pyro NA or infused pyro NA will not trigger Fischl A4. The same applies when adding an additional electro source like Beidou burst. We still cannot observe any overload reactions triggered by the on-field character through use of 4 TF.
 
-## Fischl turbo superconduct exploration
+## Fischl Turbo Superconduct Exploration
 
-By: Vye/#9195
+By: Vye\#9195  
 Added: 04/05/2021
 
-By using the turbo mechanic and adding a hydro unit you can create a team comp which utilizes the energy generation from turbo while also maintaining a 80% freeze uptime for your composition. 
-Due to the constant superconduct this will also enable a potential physical carry for this team comp.
+By using the turbo mechanic and adding a hydro unit you can create a team comp that utilizes the energy generation from turbo while also maintaining an 80% freeze uptime for your composition. Due to the constant superconduct this will also enable a potential physical carry for this team comp.
 
 **Requirements:**
 
-- Hydro unit for freeze, XQ seems best in slot
-- 2 Cryo units who can out aura Oz for turbo mechanics
-- Fischl to enable turbo energy regen
+* Hydro unit for freeze, XQ seems best in slot
+* 2 Cryo units who can out aura Oz for turbo mechanics
+* Fischl to enable turbo energy regen
 
 **Advantages:**
 
-- Both cryo users and the hydro unit can take advantage of Blizzard Strayer which is worth ten 5* tier 4 crit rate sub stats if both set effects are active
-- cryo resonance crit rate bonus against enemies frozen or affected by cryo
-- high freeze uptime means the enemy cannot fight back, which will lead to very effective dps application since you don't spend time on dodging and/or repositioning
+* Both cryo users and the hydro unit can take advantage of Blizzard Strayer which is worth ten 5\* tier 4 crit rate sub stats if both set effects are active
+* cryo resonance crit rate bonus against enemies frozen or affected by cryo
+* high freeze uptime means the enemy cannot fight back, which will lead to very effective dps application since you don't spend time dodging and/or repositioning
 
 **Disadvantages:**
 
-- expensive because most of the team needs investment
-- currently we only have 2 Cryo units with Chong + Kaeya and neither can guarantee 100% cryo uptime to enable turbo fully so they need to be paired. A substitute would be cryo infused Venti or Sucrose bursts.
-- limited ceiling due to the current quality of vailable cryo units
+* expensive because most of the team needs investment
+* currently we only have 2 Cryo units with Chong + Kaeya and neither can guarantee 100% cryo uptime to enable turbo fully so they need to be paired. A substitute would be cryo infused Venti or Sucrose bursts.
+* limited ceiling due to the current quality of available cryo units
 
 **Evidence:**
 
-[Youtube](https://www.youtube.com/watch?v=su1kRSsEyt4)
-
-[Youtube](https://www.youtube.com/watch?v=gz67t25BvTg)
+* [https://www.youtube.com/watch?v=su1kRSsEyt4](https://www.youtube.com/watch?v=su1kRSsEyt4)
+* [https://www.youtube.com/watch?v=gz67t25BvTg](https://www.youtube.com/watch?v=gz67t25BvTg)
 
 **Significance:**
 
-Team comps which follow the blueprint of Hydro, Cryo, Cryo, Fischl would combine very high energy generation with freeze. These teams would be very effective when dealing with enemies with annoying or inconvenient move sets provided they can be frozen. The energy generation of turbo
-would let you run very low ER values, especially on ER hungry future Cryo or Hydro units. Additionally Blizzard Strayer is an extremely good set in terms of the power it can provide to a character and can be utilized on 3 out of 4 units in these compositions.
+Team comps that follow the blueprint of Hydro, Cryo, Cryo, Fischl would combine very high energy generation with freeze. These teams would be very effective when dealing with enemies with annoying or inconvenient move sets provided they can be frozen. The energy generation of turbo would let you run very low ER values, especially on ER hungry future Cryo or Hydro units. Additionally, Blizzard Strayer is an extremely good set in terms of the power it can provide to a character and can be utilized on 3 out of 4 units in these compositions.
 
 **Additional Comments:**
 
-Blizzard Strayer is applied off field on abilities like XQ Q.
+Blizzard Strayer is applied off-field on abilities like XQ Q.
 
-## Fischl E icd
+## Fischl E ICD
 
-By: muakasan/#2792
+By: muakasan\#2792  
 Added: 04/05/2021
 
-**Finding:**
-Determining Fischl's Elemental skill's ICD. Fischl's E (Oz) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer. 
+**Finding:** 
+
+Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer.
 
 **Evidence:**
-[Analysis](https://docs.google.com/spreadsheets/d/1Hp2B8rFE0qwILcLkSIxELd024V9W93Wfhvz2ogzNgbk/edit#gid=2140888109)
-[Youtube](https://youtu.be/DjV9KKKSiwQ)
 
-**Significance:**
-A better understanding of ICDs.
+* [Analysis](https://docs.google.com/spreadsheets/d/1Hp2B8rFE0qwILcLkSIxELd024V9W93Wfhvz2ogzNgbk/edit#gid=2140888109) 
+* [Video](https://www.youtube.com/watch?v=DjV9KKKSiwQ)
+
+**Significance:** A better understanding of ICDs.
+

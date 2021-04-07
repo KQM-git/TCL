@@ -83,10 +83,12 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Particles | 0~1 \(2:3\) |
 | Damage Type | Elemental Skill |
 
-* **Oz** has a duration of 10s.
+* **Oz** has a duration of 10s at C0
 * **Oz** normal attacks a total of 10 times over the duration.
-* **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply Electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-10. Thus, against a single target, hits 1, 5, 7 apply electro to the target.
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction.
+* Oz ICD Details: Oz will apply electro...
+  * once every 4 hits
+  * or when the ICD timer reaches 5 seconds
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
@@ -141,6 +143,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Type | Talent % | Cooldown | Damage Type |
 | :--- | :--- | :--- | :--- |
 | Undone Be Thy Sinful Hex | 80% | 1s | Elemental Skill |
+
+* Innate pyro normals \(Klee\) or infused pyro normals are unable to trigger A4 in a pyro turbo setup
 {% endtab %}
 {% endtabs %}
 
@@ -306,12 +310,13 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 
 * Kaeya + Chongyun
 * Kaeya + Diona
+* Kaeya + Rosaria
 
 **Flex Slot**
 
-Any unit fits here, but the units that benefit most from Turbo are energy hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense oriented stats over energy recharge.
+Any unit fits here, but the units that benefit most from Turbo are energy-hungry units. Since turbo allows team compositions to capitalize on turbo's obscene energy generation by running **Beidou**, **Xiangling**, and/or **Xingqiu** on more offense-oriented stats over energy recharge.
 
-**Important:** Always use the Aura Setter's burst before deploying Oz in your rotations, the opposite may yield electro aura and not generate energy.
+**Important:** Always use the Aura Setter's burst before deploying Oz in your rotations, the opposite may yield electro aura and not generate turbo energy.
 {% endtab %}
 {% endtabs %}
 
