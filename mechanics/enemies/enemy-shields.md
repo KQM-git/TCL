@@ -180,8 +180,7 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 
 ## Childe
 
-During the fight with childe he can nto a shielded state where he takes no damage and this shield is only affected by Poise damage and not normal damage.
-Attacks like **Claymore Attacks, Blunt Attribute attacks and Overload** will be the most effective at breaking the shield.
+During the fight with childe he can nto a shielded state where he takes no damage and this shield is only affected by Poise damage and not normal damage. Attacks like **Claymore Attacks, Blunt Attribute attacks and Overload** will be the most effective at breaking the shield.
 
 ## Credits
 

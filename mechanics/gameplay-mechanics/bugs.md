@@ -6,7 +6,7 @@ You can use your overworld team in the second half of abyss even if the same mem
 
 ## Overworld
 
-[Bushes respawn infinitely](https://youtu.be/R5D-seBcdnU) when Hu Tao infused with pyro sets the bushes on fire.
+[Bushes respawn infinitely](https://youtu.be/R5D-seBcdnU) when Hu Tao infused with pyro sets them on fire.
 
 ## Miscellaneous
 
