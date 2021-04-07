@@ -11,27 +11,25 @@ Added: 03/25/2021
 
 **Significance:** After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
 
-## Particles move during pause menu
+## Particles Move While Paused
 
-By: Anmol43/#1917
+By: Anmol43\#1917 and paimonbukeyi\#4732  
 Added: 04/05/2021
 
-**Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. 
-Works in every menu most notably adventure book and wish menu allowing it to be used in abyss (paimonbukeyi/#4732).
+**Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
 **Evidence:** [Youtube](https://youtu.be/7H84lGcZf8s)
 
 **Significance:** Allows characters to quickly absorb particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
 
-## Infinite bushes
+## Infinite Bushes
 
-By: xHelloEveryonex/#1401
-Added: 05/04/2021
+By: xHelloEveryonex\#1401   
+Added: 04/05/2021
 
-**Bug:** Unlimited respawning bushes when using hu tao infused with Pyro sets them on fire and then they respawn.
+**Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
-**Evidence:**
-[Youtube](https://youtu.be/R5D-seBcdnU)
+**Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
 
-**Significance:**
-Time to farm your eggs and lizards guys
+**Significance:** Time to farm your eggs and lizards guys
+
