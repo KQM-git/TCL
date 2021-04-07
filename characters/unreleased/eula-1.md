@@ -12,7 +12,7 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 
 ## ![](../../.gitbook/assets/element_cryo.png) Eula
 
-![Credits to @dimbreathjr](../../.gitbook/assets/dimbreath_temp.jpg)
+![Credits to @dimbreathjr](../../.gitbook/assets/character_eula_wish.png.png)
 
 ## **Attacks**
 
