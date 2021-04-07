@@ -180,7 +180,7 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 
 ## Childe
 
-During the fight with childe he can nto a shielded state where he takes no damage and this shield is only affected by Poise damage and not normal damage. Attacks like **Claymore Attacks, Blunt Attribute attacks and Overload** will be the most effective at breaking the shield.
+During the Childe ****boss fight, he can into a shielded state where he takes no damage. This shield is only affected by poise damage and not normal damage. Attacks like **Claymore Attacks, Blunt Attribute attacks, and Overload** will be the most effective at breaking said shield.
 
 ## Credits
 
@@ -197,4 +197,10 @@ During the fight with childe he can nto a shielded state where he takes no damag
 * [Bobrokrot's Shield Infographic](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit#gid=0) 
 * [ICD Database](https://docs.google.com/spreadsheets/d/1O9SeEyS2uOnjYLEJ0d5E6TUxabp7fgyc6MGlSMJBsw0/edit#gid=0)
 * [GU Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=0) 
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/mechanics/enemies/enemy-shields.md" %}
+
+
 
