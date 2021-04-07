@@ -86,7 +86,11 @@ Added: 04/05/2021
 **Evidence:** 
 
 * [Google Doc](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
-* [Video](https://www.youtube.com/watch?v=gLZYAy3GBLc)
+* [Video](https://youtu.be/gLZYAy3GBLc)
 
-**Significance:** Noted especially with how Diona shield works with Sacrificial Bow. Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. Debunk a youtuber theory about Diona's infinity shield being good.
+**Significance:** 
+
+* Noted especially with how Diona shield works with Sacrificial Bow. 
+* Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
+* Debunks a youtuber theory about Diona's infinity shield being good.
 
