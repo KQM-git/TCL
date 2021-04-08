@@ -6,10 +6,6 @@ description: >-
 
 # Rosaria
 
-{% hint style="info" %}
-Preliminary data based on leaked data. Day 1 notes should be taken lightly.
-{% endhint %}
-
 ## ![](../../.gitbook/assets/element_cryo.png) Rosaria
 
 ![](../../.gitbook/assets/character_rosaria_wish.png)
@@ -174,7 +170,7 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1-Hit DMG | 76.25% | 82.96% | 89.67% | 96.38% | 103.70% | 111.02% |
 | 2-Hit DMG | 75% | 81.60% | 88.20% | 94.80% | 102% | 109.20% |
-| 3-Hit DMG | 46.25%×2 | 50.32%×2 | 54.39%×2 | 58.46%×2 | 62.9%×2 | 67.34%×2 |
+| 3-Hit DMG | 46.25% ×2 | 50.32% ×2 | 54.39% ×2 | 58.46% ×2 | 62.9% ×2 | 67.34% ×2 |
 | 4-Hit DMG | 101.25% | 110.16% | 119.07% | 127.98% | 137.70% | 147.42% |
 | 5-Hit DMG | 60.5% + 62.5% | 65.82% + 68% | 71.15% + 73.5% | 76.47% + 79% | 82.28% + 85% | 88.09% + 91% |
 
@@ -198,7 +194,8 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Ravaging Confession" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 81.76% + 190.4% | 87.6% + 204% | 93.44% + 217.6% | 99.28% + 231.2% | 105.12% + 244.8% | 110.96% + 258.4% | 116.8% + 272% | 124.1% + 289% |
+| Skill 1 DMG | 81.76% | 87.6% | 93.44%  | 99.28% | 105.12% | 110.96%  | 116.8%  | 124.1% |
+| Skill 2 DMG | 190.4% | 204% | 217.6% | 231.2% | 244.8% | 258.4% | 272% | 289% |
 
 **Cooldown**: 6s
 {% endtab %}
@@ -206,7 +203,8 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Rites of Termination" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 145.6% + 212.8% | 156% + 228% | 166.4% + 243.2% | 176.8% + 258.4% | 187.2% + 273.6% | 197.6% + 288.8% | 208% + 304% | 221% + 323% |
+| Skill 1 DMG | 145.6% | 156%  | 166.4% | 176.8% | 187.2% | 197.6%  | 208% | 221% |
+| Skill 2 DMG | 212.8% | 228% | 243.2% | 258.4% | 273.6% | 288.8% | 304% | 323% |
 | Ice Lance DoT | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 
 **Energy Cost**: 60
