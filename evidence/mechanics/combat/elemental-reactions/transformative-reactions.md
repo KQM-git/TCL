@@ -505,7 +505,8 @@ Evidence that this is practicable in the overworld
 4. EC application expires
 5. Xiao's Q expires and loses HH potential
 6. Ruin guard is no longer stun locked and resumes attacking
-7. The weak point hit at 0:20 was accidental and does not contribute to EC/HH stunning.
+
+The weak point hit at 0:20 was accidental and does not contribute to EC/HH stunning.
 
 Second clip 0:41-2:04   
 Evidence that this is practicable in the abyss. Timestamps are of heavy hit instances.
