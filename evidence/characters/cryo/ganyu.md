@@ -927,16 +927,15 @@ Added: 04/05/2021
 
 The culmination of all Ganyu macro-related testing and iteration since release. Now compiled into one mostly comprehensible document.
 
+* [Google Doc](https://docs.google.com/document/d/e/2PACX-1vSMDSJ_Jbb0tzTtWsZWkfxVBTLOPwOv66EmzOV_J30Ppi7lh9OsgpiWmRvMM_Y-7C6Ym25V0uzJQIXl/pub)
+* [Unlimited Ganyu Works: The Movie](https://youtu.be/vYTy9lNnVEw)
+
 **Finding:** Most optimal/reliable timings for Ganyu rotations tested and verified via macro.
-
-**Significance:** Mostly so close in timings that there's not a huge difference for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable.
-
-**Finding:** 
 
 * Example tech macros for C6 E FFA Instacast, Quickshot and Aimcast variants. 
 * Example tech for standalone Quickshot.
-* [Google Doc](https://docs.google.com/document/d/e/2PACX-1vSMDSJ_Jbb0tzTtWsZWkfxVBTLOPwOv66EmzOV_J30Ppi7lh9OsgpiWmRvMM_Y-7C6Ym25V0uzJQIXl/pub)
-* [Unlimited Ganyu Works: The Movie](https://youtu.be/vYTy9lNnVEw)
+
+**Significance:** Mostly so close in timings that there's not a huge difference for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable.
 
 **Significance:** QoL and DPS increase to fluidly execute all as one motion.
 
