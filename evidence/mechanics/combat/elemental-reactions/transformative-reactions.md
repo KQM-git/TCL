@@ -523,5 +523,5 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 * Ruin guards can be more easily CC'd in close-quarters
 * AOE DMG can be more easily consolidated
 * Incoming DMG can be mitigated
-* Abyss teams can forgo the need to an archer to disable ruin guards
+* Abyss teams can forgo the need for an archer to disable ruin guards
 
