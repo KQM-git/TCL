@@ -23,7 +23,8 @@ There are some videos taken before 1.1 where the swords in each wave each seemed
 
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
-By: gacha4life\#2525 Added 03/17/2021
+By: gacha4life\#2525   
+Added 03/17/2021
 
 **Evidence:**
 
@@ -90,7 +91,7 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 
 ## Xingqiu E Dash Cancel Animation
 
-By: Charliex3000\#9403 
+By: Charliex3000\#9403   
 Added 03/18/2021
 
 **Finding:**
@@ -109,7 +110,8 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 ## Xingqiu Sword Rain "Buffering"
 
-By: Charliex3000\#9403 Added: 03/21/2021
+By: Charliex3000\#9403   
+Added: 03/21/2021
 
 **Theory/Finding/Bug:**
 
@@ -126,27 +128,19 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 
 Clears up how exactly "XQ buffers." Additionally pending some extra tests about how long the active window for an auto to proc rain swords it.
 
-## Xingqiu hydro aura persistence
+## Xingqiu Hydro Aura Persistence
 
-By: Sayline/#5959
+By: Sayline\#5959  
 Added: 04/05/2021
 
-**Finding:**
-After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time (about 47 frames from the moment the swords blink before exploding, until the last bits of hydro particles disappeared).
+**Finding:** After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of hydro particles disappear\).
 
-**Evidence:**
-Vid 1: I used XQ's burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura (it is 1A).
-[Youtube](https://youtu.be/3UBplhXNPdc)
+**Evidence:** 
 
-Vid 2: I used XQ's skill here. Same "invisible" hydro aura is observed as with his burst.
-[Youtube](https://youtu.be/sxnnMq8ljKE)
+* [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura \(it is 1A\).
+* [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's skill here. Same "invisible" hydro aura is observed as with his burst.
+* [GIF 1](https://imgur.com/8EDEVxu): Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for hydro particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues hydro on the ruin guard.
+* [GIF 2](https://imgur.com/cmsVCV9): Slowed down version of GIF 1. Here, the hydro particles are easier to observe.
 
-GIF 1: Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for hydro particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues hydro on the ruin guard.
-[Youtube](https://imgur.com/8EDEVxu)
-
-GIF 2: Slowed down version of GIF 1. Here, the hydro particles are easier to observe.
-[Youtube](https://imgur.com/cmsVCV9)
-
-**Significance:**
-Limit testing of XQ.
+**Significance:** Limit testing of XQ.
 
