@@ -222,6 +222,8 @@
 | Rapid Firing | Increases Normal Attack DMG by **40/50/60/70/80**% but decreases Charged Attack DMG by 10%. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
+
+* Rust damage reduction is additive and is considered DMG% in calculations
 {% endtab %}
 
 {% tab title="Details" %}

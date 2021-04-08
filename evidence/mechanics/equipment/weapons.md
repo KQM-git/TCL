@@ -218,6 +218,46 @@ Added: 12/7/2020
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
 
+### Rust
+
+#### Rust Damage Decrease
+
+By: Amadurim\#8925  
+Added: 04/05/2021
+
+**Finding:** Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
+
+**Evidence:** Using level 50 Amber on Lv87 Hilichurl, with +20 physical goblet 
+
+* [Level 90 Prototype Crescent](https://imgur.com/nSaRkfP) \(No passive\)
+* [Level 90 Rust](https://imgur.com/YsG8wlf)
+
+**Calculations:**
+
+```python
+1062 = Amber total attack
+1.583 = +20 physical dmg bonus cup
+0.439 = Amber T1 aimed shot
+
+===
+
+1062 * 1.583 * 0.439 = 738.023
+DEF + RES mod: (50+100)/((50+87)+200) * 0.9 = 0.400
+
+Amber Damage w/Prototype Crescent = 738.023 * 0.400 = 295.209
+
+===
+
+Rust Passive:
+
+If multiplicative: 295.209 * 0.9 = 265.688
+If additive: 1062 * (1.583 - 0.1) * 0.439 * 0.400 = 276.560
+```
+
+Truncating decimals aside, the dmg number of "If additive" is the same as in-game numbers, hence the dmg reduction of Rust is additive and falls under dmg% in calculations. The same result is also seen in Slingshot.
+
+**Significance:** The dmg reduction of Rust passive is pretty negligible.
+
 ### Serpent Spine
 
 #### Rate of Loss of Serpent Spine Stacks
@@ -311,37 +351,7 @@ By: Crome\#2644
 
 ![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit2.png)
 
-### Rust
-
-#### Rust Damage decrease
-
-By: Amadurim/#8925
-Added: 04/05/2021
-
-**Finding:** Rust DMG reduction on charge atk is additive and in the same category as dmg%.
-
-**Evidence:** Using lv50 Amber, on Lv87 Hilichurl, with +20 physical goblet
-Lv90 Prototype Crescent (No passive)
-[Imgur](https://i.imgur.com/nSaRkfP.png)
-Lv90 Rust
-[Imgur](https://i.imgur.com/YsG8wlf.png)
-When punching Amber's stats and modifiers to calcs,
-1062 (Amber's total atk) x 1.583 (+20 physical cup) x 0.439 (Amber's Talent level 1 aim shot)
-and reduced by defense/resistance
-(50+100)/((50+87)+200) x 0.9
-=295.6472335
-
-Now considering Rust passive
-
-If multiplicative,
-295.6472335 x 0.9 = 266.0825102
-
-If additive,
-1062 x (1.583 - 0.1) x 0.439 x (50+100)/((50+87)+200) x 0.9 = 276.9708448
-
-Rounding decimals aside, the dmg number of "If additive" is the same as ingame numbers, hence the dmg reduction of Rust is additive and in dmg% category. The same result also seen in Slingshot.
-
-**Significance:** The dmg reduction of Rust passive is pretty negligible.
+### 
 
 ## General Mechanics
 
