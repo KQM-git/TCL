@@ -39,14 +39,14 @@ Rosaria performs up to five consecutive spear strikes.
 | 2-Hit | 75% | 36 | 252.08%/s |
 | 3-Hit | 46.25% x2 \(92.5%\) | 81 | 180.56%/s |
 | 4-Hit | 101.25% | 115 | 180%/s |
-| 5-Hit | 60.5%+62.5% \(123%\) | 175 | 160.46%/s |
+| 5-Hit | 60.5% + 62.5% \(123%\) | 175 | 160.46%/s |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 198.75% |  |  |
+| N1C | 275% | 89 | 185.39%/s |
 
 **Plunge Attack**  
 Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact.
@@ -64,12 +64,12 @@ This ability cannot be used to travel behind opponents of a larger build.
 
 | Type | Talent 6 Data |
 | :--- | :--- |
-| Skill DMG | 81.76%+190.4% \(282.16%\) |
+| Skill DMG | 81.76% + 190.4% \(272.16%\) |
 | Cooldown | 6s |
 | Particles | 3 |
 | GU | 1A |
-| Frames |  |
-| Motion Value |  |
+| Frames | 65 |
+| Motion Value | 251.22%/s |
 
 * Both hits of **Ravaging Confession** apply cryo, and have no ICD, allowing it to double melt
 {% endtab %}
@@ -86,6 +86,8 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 | Duration | 8s |
 | Cooldown | 15s |
 | Energy Cost | 60 |
+| Frames | 74 |
+| Motion Value | 290.59%/s |
 
 * **Rites of Termination** snapshots buffs
 * Cryo application has no ICD
