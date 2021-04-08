@@ -207,7 +207,9 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * The joint attack has an elemental application ICD of 2s.
 * The joint attack is an echo effect
 * **Oz** normal attacks for a total of 12 times over the duration.
-* **Oz** has an elemental application ICD of 3-4s, so every 4th hit will apply electro. Additionally hits 1-6 are considered a separate elemental source from hits 7-12. Thus, against a single target, hits 1, 5, 7, 11 apply electro to the target.
+* Oz ICD Details: Oz will apply electro...
+  * once every 4 hits
+  * or when the ICD timer reaches 5 seconds
 * Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
