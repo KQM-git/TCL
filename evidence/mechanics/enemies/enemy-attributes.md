@@ -1,6 +1,6 @@
 # Enemy Attributes
 
-## In-depth Look at Monster Skill Effects in Domains\Abyss
+## In-Depth Look at Monster Skill Effects in Domains/Abyss
 
 By: Steno\#6940  
 Added:
