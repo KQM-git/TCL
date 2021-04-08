@@ -24,6 +24,9 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 
 * Electro-Charged can be extended by hitlag, presumably by extending the aura duration.
 * Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
+* Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
+  * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
+  * For more details on poise, we have a [page dedicated to it](../poise.md)
 
 ## Shatter
 
