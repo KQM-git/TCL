@@ -58,7 +58,7 @@ By: Zeitraffer\#1074
 
 **Finding:**
 
-\_\*\*\_How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
+How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
 
 **Evidence:** [https://www.youtube.com/watch?v=-03MNwss9UI](https://www.youtube.com/watch?v=-03MNwss9UI)
 
@@ -90,7 +90,8 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 
 ## Xingqiu E Dash Cancel Animation
 
-By: Charliex3000\#9403 Added 03/18/2021
+By: Charliex3000\#9403 
+Added 03/18/2021
 
 **Finding:**
 
@@ -123,5 +124,29 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 
 **Significance**:
 
-Clears up how exactly "XQ buffers." Additionally pending some extra tests about how long the active window for an auto to proc rain swords it
+Clears up how exactly "XQ buffers." Additionally pending some extra tests about how long the active window for an auto to proc rain swords it.
+
+## Xingqiu hydro aura persistence
+
+By: Sayline/#5959
+Added: 04/05/2021
+
+**Finding:**
+After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time (about 47 frames from the moment the swords blink before exploding, until the last bits of hydro particles disappeared).
+
+**Evidence:**
+Vid 1: I used XQ's burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura (it is 1A).
+[Youtube](https://youtu.be/3UBplhXNPdc)
+
+Vid 2: I used XQ's skill here. Same "invisible" hydro aura is observed as with his burst.
+[Youtube](https://youtu.be/sxnnMq8ljKE)
+
+GIF 1: Portion of Vid 2 where XQ orbitals break, magnified. Using this clip, I counted 47 frames for hydro particle persistence, starting from the moment the swords blink prior to shattering, and ending at the few frames when XQ imbues hydro on the ruin guard.
+[Youtube](https://imgur.com/8EDEVxu)
+
+GIF 2: Slowed down version of GIF 1. Here, the hydro particles are easier to observe.
+[Youtube](https://imgur.com/cmsVCV9)
+
+**Significance:**
+Limit testing of XQ.
 
