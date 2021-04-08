@@ -603,11 +603,11 @@ Abyss buffs: +8% crit, +15% crit damage cards:
 
 1 card
 
-\(1+\(\(.748+.08\)_\(1.809+.15\)\)\)/\(1+\(.748_1.809\)\) = 1.114 =&gt; 11.4% multiplicative increase
+\(1+\(\(.748+.08\)\_\(1.809+.15\)\)\)/\(1+\(.748\_1.809\)\) = 1.114 =&gt; 11.4% multiplicative increase
 
 2 cards:
 
-\(1+\(\(.748+.16\)_\(1.809+.3\)\)\)/\(1+\(.748_1.809\)\) = 1.239 =&gt; 23.9% multiplicative increase +40% Atk, -15% def chamber card:
+\(1+\(\(.748+.16\)\_\(1.809+.3\)\)\)/\(1+\(.748\_1.809\)\) = 1.239 =&gt; 23.9% multiplicative increase +40% Atk, -15% def chamber card:
 
 Ganyu base atk: 335+510 = 845, 40% Atk boost =&gt; 845\*.4 = 338 Atk increase
 
@@ -922,21 +922,21 @@ Ganyu is a decent character when attempting to travel across water as her Frostf
 
 ### Unlimited Ganyu Works
 
-By: Pinupski/#9999
+By: Pinupski\#9999   
 Added: 04/05/2021
 
-The culmination of all Ganyu macro related testing and iteration since release. Now compiled into one mostly comprehensible document. 
+The culmination of all Ganyu macro-related testing and iteration since release. Now compiled into one mostly comprehensible document.
 
 **Finding:** Most optimal/reliable timings for Ganyu rotations tested and verified via macro.
 
-**Significance:** Mostly so close in timings that there's not a huge different for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable. 
+**Significance:** Mostly so close in timings that there's not a huge difference for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable.
 
+**Finding:** 
 
-**Finding:** Example tech macros for C6 E FFA Instacast, Quickshot and Aimcast variants. Example tech for standalone Quickshot.
+* Example tech macros for C6 E FFA Instacast, Quickshot and Aimcast variants. 
+* Example tech for standalone Quickshot.
+* [Google Doc](https://docs.google.com/document/d/e/2PACX-1vSMDSJ_Jbb0tzTtWsZWkfxVBTLOPwOv66EmzOV_J30Ppi7lh9OsgpiWmRvMM_Y-7C6Ym25V0uzJQIXl/pub)
+* [Unlimited Ganyu Works: The Movie](https://youtu.be/vYTy9lNnVEw)
 
-**Significance:** QoL and DPS increase to fluidly execute all as one motion. 
+**Significance:** QoL and DPS increase to fluidly execute all as one motion.
 
-[Google doc](https://docs.google.com/document/d/e/2PACX-1vSMDSJ_Jbb0tzTtWsZWkfxVBTLOPwOv66EmzOV_J30Ppi7lh9OsgpiWmRvMM_Y-7C6Ym25V0uzJQIXl/pub)
-
-Unlimited Ganyu Works: The Movie
-[Youtube](https://youtu.be/vYTy9lNnVEw)
