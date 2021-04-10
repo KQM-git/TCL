@@ -117,6 +117,9 @@ When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria'
 ### **Shadow Samaritan**
 
 Casting Rites of Termination increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%
+
+* The CRIT RATE shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
+  * Examples: Hu Tao A1 and Geo MC C1
 {% endtab %}
 {% endtabs %}
 

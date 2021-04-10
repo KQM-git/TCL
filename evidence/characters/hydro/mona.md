@@ -118,3 +118,21 @@ In the first screenshot below. If I were to remove Omen from the calculations, t
 
 In the second screenshot below, If I were add back the Omen damage bonus to the calculations, we now see accurate numbers that matches up with the actual ingame testing results.
 
+## Rosaria's Passive Affects Mona's Alternate Sprint
+
+By: Aetherpon\#5730  
+Added: 04/09/2021
+
+**Finding:** Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
+
+**Evidence:** 
+
+* [Control test of just Mona sprinting w/o buffs](https://youtu.be/9fQuHfu2QWA)
+* [Mona + Rosaria](https://youtu.be/HZV5pSEIvm0)
+* [Mona + Anemo Resonance](https://youtu.be/JNmyRs8oDr8)
+* [Mona + Rosaria + Anemo Resonance](https://youtu.be/EgIj2mU-d8I)
+
+It's actually a smaller buff than one would think, but there is a slight difference in distance travelled. 
+
+**Significance:** Despite alternate sprints not benefiting from regular sprint passives \(Razor/Kaeya\), they do gain buffs from general movement speed buffs \(like Rosaria's passive\).
+

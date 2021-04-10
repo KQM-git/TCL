@@ -36,3 +36,35 @@ Added: 04/05/2021
 
 **Significance:** Time to farm your eggs and lizards guys
 
+## Xiangling's Burst can Stack in Contending Tides Event
+
+By: Ayzel\#7399  
+Added: 04/09/2021
+
+**Bug:** Xiangling's burst can stack in the Contending Tides event.
+
+![](../../../.gitbook/assets/xlburststack.png)
+
+**Significance:** Very fast clears on contending tides, and potentially similar events in the future. This can also be abused in overworld, as Contending Tides is only required for the set up, not the execution.
+
+**Evidence:**
+
+* [Example with Setup](https://youtu.be/OVFeSfE8pSQ)
+* [Rip Cryo Regisvine](https://youtu.be/V9_AoUDVKaY)
+
+**Process:**
+
+1. **I**n the contending tides event, cast Xiangling's burst.
+2. After casting Xiangling's burst, immediately press M to enter the map, and then press P to abandon challenge.
+3. Teleport to a statue of the seven, wait a couple seconds, and then teleport back to the contending tides arena.
+4. Start a contending tides challenge, and any stacked bursts will appear. If you're on the first cycle, only one pyronado will appear.
+5. Quickly charge Xiangling's burst \(I used 4 pyro characters + around 250% ER to do this\) and cast Xiangling's burst.
+6. After casting Xiangling's burst, press M to enter map and press P to abandon challenge.
+7. Repeat until you have many bursts stacked.
+
+**Additional Notes:**
+
+* This causes Xiangling's burst to last for a REALLY long time \(about 45-ish seconds\)
+* These stacks can be maintained in the open world, so if you want to do something like kill the cryo regisvine in 4 seconds you can do that
+* You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
+

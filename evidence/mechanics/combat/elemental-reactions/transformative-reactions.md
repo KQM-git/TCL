@@ -525,3 +525,14 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 * Incoming DMG can be mitigated
 * Abyss teams can forgo the need for an archer to disable ruin guards
 
+## Blunt Attacks have no ICD
+
+By: jstern25\#1399  
+Added: 04/09/2021
+
+**Theory:** Blunt attacks have no ICD, meaning they will always trigger shatter. This makes it suboptimal to run freeze with any character whose attacks have the "blunt" attribute.
+
+**Evidence:** [https://youtu.be/3rAbh9Gp2jw](https://youtu.be/3rAbh9Gp2jw)
+
+**Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
+

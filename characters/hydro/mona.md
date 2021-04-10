@@ -100,6 +100,10 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 | Activation Stamina Cost | 10 |
 | Stamina Drain | 15/s |
 | Hydro Application GU | 1A |
+
+* **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
+* Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
+  * the same goes for Anemo Resonance
 {% endtab %}
 
 {% tab title="Stellaris Phantasm" %}
