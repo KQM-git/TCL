@@ -4,10 +4,6 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 # Beidou
 
-{% hint style="info" %}
-For a comprehensive Beidou guide, check out [ZΛNTO's guide.](https://docs.google.com/document/d/1LyhpgeCGv4GQ7MXuslgwb5lJgQ2GOrPMhIDSv2qARQo/edit?usp=sharing)
-{% endhint %}
-
 ## ![](../../.gitbook/assets/element_electro.png) Beidou
 
 ![](../../.gitbook/assets/character_beidou_wish.png)
@@ -275,8 +271,9 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Beidou)
-* [**Beidou Mains Discord**](https://discord.gg/rgS2f9dBxb)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Beidou)
+* [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
+* [Beidou Guide: Tales from the Sea](https://keqingmains.com/beidou/)
 
 **Evidence Vault:**
 

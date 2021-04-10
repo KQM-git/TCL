@@ -265,8 +265,9 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ganyu)
-* [**Ganyu Mains Discord**](https://discord.gg/uV4uaBm8aS)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Ganyu)
+* [Ganyu Mains Discord](https://discord.gg/uV4uaBm8aS)
+* [Ganyu Guide](https://keqingmains.com/ganyu/)
 
 **Evidence Vault:**
 

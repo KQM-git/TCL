@@ -234,8 +234,9 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Razor)
-* [**Razor Mains Discord**](https://discord.gg/6qGZNQkWBX)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Razor)
+* [Razor Mains Discord](https://discord.gg/6qGZNQkWBX)
+* [Razor Guide](https://keqingmains.com/razor/)
 
 **Evidence Vault:**
 

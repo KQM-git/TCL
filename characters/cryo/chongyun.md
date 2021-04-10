@@ -6,9 +6,9 @@ description: >-
 
 # Chongyun
 
-## ![](https://github.com/Artesians/TCL/tree/d103ec7a8db42f175c352dbe082bf4e4b6fba851/characters/cryo/.gitbook/assets/element_cryo.png) Chongyun
+## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
-![](https://github.com/SeanOrtigosa/Testing-Stuff/tree/2402f680c7255752d299b860679038ba715709b2/.gitbook/assets/character_chongyun_wish.png)
+![](../../.gitbook/assets/character_chongyun_wish.png)
 
 ## **Base Stats**
 

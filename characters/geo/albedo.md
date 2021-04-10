@@ -227,8 +227,9 @@ If active party members within the AoE are protected by a shield created by Crys
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Albedo)
-* [**Albedo Mains Discord**](https://discord.gg/JKkam3umnn)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Albedo)
+* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
+* [Albedo Guide](https://keqingmains.com/albedo/)
 
 **Evidence Vault:**
 

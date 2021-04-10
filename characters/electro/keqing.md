@@ -262,8 +262,9 @@ Furthermore, to actively make use of this combo, it requires Keqing to be paired
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Keqing)
-* [**Keqing Mains Discord**](https://discord.gg/Keqing)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Keqing)
+* [Keqing Mains Discord](https://discord.gg/Keqing)
+* [Keqing Guide](https://keqingmains.com/keqing/)
 
 **Evidence Vault:**
 

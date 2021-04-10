@@ -345,13 +345,7 @@ By: Crome\#2644
 
 **Finding:** Yes, it can crit
 
-**Evidence:**
-
-![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit1.png)
-
-![](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/flutecrit2.png)
-
-### 
+**Evidence:** [https://imgur.com/a/kWhXThT](https://imgur.com/a/kWhXThT)
 
 ## General Mechanics
 
