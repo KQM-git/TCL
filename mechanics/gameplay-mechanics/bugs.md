@@ -16,7 +16,7 @@ You can use your overworld team in the second half of abyss even if the same mem
 
 [Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
-[Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-stack-in-contending-tides-event) in the Contending Tides event.
+[Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event.
 
 ## Fixed Bugs
 
