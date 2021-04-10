@@ -24,6 +24,7 @@ description: >-
 
 ## **Attacks**
 
+{% tabs %}
 {% tab title="Foreign Rockblade Lumine" %}
 Attacks Perform up to 5 rapid strikes.
 
