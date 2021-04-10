@@ -31,10 +31,10 @@ Short distance: [Youtube](https://youtu.be/oJH8cS1SnRY)
 
 Long distance: [Youtube](https://youtu.be/ySDRLkYP8sk)
 
-Significance**
+**Significance**
 The fastest movement technique for short distance is to chain dashes together with equal spacing between them with an adult male as they have biggest strides. This will ensure your dash has more up time then simply dash spamming.
 For long distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from there on.
 
-Demonstration: https://youtu.be/H950uTOSTQs
+Demonstration: [Youtube](https://youtu.be/H950uTOSTQs)
 
 A 10% movement speed buff does not cause b-hopping with other model types to be faster then a teen male with the same buff. However I am still yet to test 20%/20% effects although not expected to change either.
