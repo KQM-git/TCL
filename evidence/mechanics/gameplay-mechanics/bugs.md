@@ -11,6 +11,19 @@ Added: 03/25/2021
 
 **Significance:** After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
 
+## Elemental skills and bursts do not reset when using retry in abyss
+
+By: Emear/#2956
+Added: 04/10/2021
+
+**Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
+
+**Evidence:** In the first 5 seconds of the clip, I start the Abyss floor and immediately switch to Xingqiu, a character with long CDs, in order to activate vaporize with Diluc. Xingqiu is equipped with an R1 Sacrificial Sword. In order to achieve the "perfect run", I restart the floor to try to activate Sacrificial Sword's passive. Upon restarting the floor, both Xingqiu's E and Q are off cooldown, causing me to restart the floor again.
+
+[Youtube](https://youtu.be/3_QlBz5P5B8)
+
+**Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's (when using Sacrificial Sword) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
+
 ## Particles Move While Game is Paused
 
 By: Anmol43\#1917 and paimonbukeyi\#4732  
@@ -38,7 +51,7 @@ Added: 04/05/2021
 
 ## Xiangling's Burst can Stack in Contending Tides Event
 
-By: Ayzel\#7399  
+By: Ayzel\#7399  
 Added: 04/09/2021
 
 **Bug:** Xiangling's burst can stack in the Contending Tides event.
