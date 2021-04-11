@@ -40,7 +40,9 @@ Out of 1,174 Bushes:
 
 It seems like the drop is chosen randomly. Testing was done during the day, because at night, fireflies are added to the pool. They do not replace anything in the loot table, because at night all four itesm were dropped. There has never been an instance of getting more than one drop out of a bush.
 
-**Evidence:** I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results. [Google docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
+**Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
+
+I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results. 
 
 **Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
 
