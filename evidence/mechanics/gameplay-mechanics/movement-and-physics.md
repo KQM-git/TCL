@@ -16,7 +16,7 @@ Addded: 04/05/2021
 
 ## Movement Techniques and Player Model Comparisons
 
-By: Nitley\#3485  
+By: Nitley\#3485 and Kourinn\#6001  
 Added: 04/10/2021
 
 **Theory:** What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
