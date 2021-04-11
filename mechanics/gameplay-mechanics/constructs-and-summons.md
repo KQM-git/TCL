@@ -8,7 +8,7 @@ Constructs take damage when hit by enemies just like characters, unless it is sp
 
 All temporary buffs are snapshotted when cast and will affect the construct for the entire duration.
 
-### List of Constructs and characteristics
+### List of Constructs and Characteristics
 
 | Character | Move | Defensive Stats | Extra |
 | :--- | :--- | :--- | :--- |
