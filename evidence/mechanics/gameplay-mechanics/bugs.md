@@ -1,6 +1,8 @@
 # Bugs
 
-## Using the Same Team for Both Abyss Halves
+## Abyss
+
+### Using the Same Team for Both Abyss Halves
 
 By: Nitley\#3485  
 Added: 03/25/2021
@@ -11,9 +13,10 @@ Added: 03/25/2021
 
 **Significance:** After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
 
-## Elemental skills and bursts do not reset when using retry in abyss
+### Elemental Skills and Bursts Don't Reset When Using Retry in Abyss
 
-By: Emear/\#2956 Added: 04/10/2021
+By: Emear\#2956  
+Added: 04/10/2021
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
@@ -23,7 +26,22 @@ By: Emear/\#2956 Added: 04/10/2021
 
 **Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
 
-## Particles Move While Game is Paused
+## Overworld
+
+### Infinite Bushes
+
+By: xHelloEveryonex\#1401  
+Added: 04/05/2021
+
+**Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
+
+**Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
+
+**Significance:** Time to farm your eggs and lizards guys
+
+## Miscellaneous
+
+### Particles Move While Game is Paused
 
 By: Anmol43\#1917 and paimonbukeyi\#4732  
 Added: 04/05/2021
@@ -37,18 +55,7 @@ Added: 04/05/2021
 
 **Significance:** Allows characters to quickly absorb particles, reducing the time they are on-screen doing nothing, also reducing the chance they get hit.
 
-## Infinite Bushes
-
-By: xHelloEveryonex\#1401  
-Added: 04/05/2021
-
-**Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
-
-**Evidence:** [Youtube](https://youtu.be/R5D-seBcdnU)
-
-**Significance:** Time to farm your eggs and lizards guys
-
-## Xiangling's Burst can Stack in Contending Tides Event
+### Xiangling's Burst can Stack in Contending Tides Event
 
 By: Ayzel\#7399  
 Added: 04/09/2021

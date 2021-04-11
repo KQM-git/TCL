@@ -8,7 +8,7 @@ This page is for bugs, meaning they could get fixed by Mihoyo at any time. If yo
 
 You can use your overworld team in the second half of abyss even if the same members are in the first half of the chamber by [selecting retry at the same time as you kill the last enemy.](../../evidence/mechanics/gameplay-mechanics/bugs.md#using-the-same-team-for-both-abyss-halves)
 
-When using the retry button in abyss your \[elemental skill and burst will not reset its cooldown\]\(\(../../evidence/mechanics/gameplay-mechanics/bugs.md\#elemental-skills-and-bursts-do-not-reset-when-using-retry-in-abyss\) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
+When using the retry button in abyss your [elemental skill and burst will not reset its cooldown](../../evidence/mechanics/gameplay-mechanics/bugs.md#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
 
 ## Overworld
 
@@ -16,7 +16,7 @@ When using the retry button in abyss your \[elemental skill and burst will not r
 
 ## Miscellaneous
 
-[Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
+[Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
 [Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event.
 
