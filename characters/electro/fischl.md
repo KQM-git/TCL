@@ -270,7 +270,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 {% tabs %}
 {% tab title="Overview" %}
-When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By this using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the energy recharge investment for units, which allows for more investment into damage.
+When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the energy recharge investment for units, which allows for more investment into damage.
 
 | Number of Enemies | C0-C5 Particles | C6 Particles |
 | :--- | :--- | :--- |
