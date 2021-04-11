@@ -170,6 +170,17 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 **EDIT**: XQ's rain sword orbitals do not count as a hit when they apply hydro, not crit boost there.
 
+### Royal series dynamic stacking on snapshot dot skills
+
+By: sunnyd/#5916
+Added: 04/10/2021
+
+**Finding:** Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
+
+**Evidence:** [Youtube](https://youtu.be/rrrW7iYdU_I)
+
+**Significance:** You can snapshot a low-impact, quick-hitting ability before getting stacks to maintain higher stacks than usual with Royal Weapons. This can lead to your high impact, slow-hitting abilities having more crit rate than would otherwise be achievable.
+
 ## Sacrificial Series
 
 ### Sacrificial Weapons do not proc on Shielded Enemies
