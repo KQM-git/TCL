@@ -172,7 +172,8 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 ### Royal Series Dynamic Stacking on Snapshot DoT Skills
 
-By: sunnyd/\#5916 Added: 04/10/2021
+By: sunnyd\#5916   
+Added: 04/10/2021
 
 **Finding:** Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
 
