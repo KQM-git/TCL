@@ -1,6 +1,6 @@
 # Traveler \(Geo\)
 
-## Multiple E Skill Resonance can hit 1 target
+## Multiple E Skill Resonance Can Hit 1 Target
 
 By: The CEO of GEO\#7227
 
@@ -9,8 +9,6 @@ By: The CEO of GEO\#7227
 **Evidence:** [https://clips.twitch.tv/AdventurousAstuteWolfTriHard](https://clips.twitch.tv/AdventurousAstuteWolfTriHard)
 
 **Significance:** Geo MC can make the most constructs on the game \(2 Meatballs which cap to 3 with Zhong Pillar, and 4 from Ult which don't count towards cap. This can turn small arenas into multi-hitting funzones.
-
-**Note:**This entry is in Zhongli's evidence page as well.
 
 ## Geo Traveller “Boulder Melt” with Albedo E
 
@@ -28,9 +26,9 @@ In this video, the boulder placed atop the E explodes immediately and does 2681 
 
 With a total of 844% talent scaling at level 9 and a 6 second cooldown \(taking into account the free constellations on MC\) this makes it a very significant damage source available to anyone with Albedo.
 
-**Note:** This entry is in Albedo's evidence page as well.
+**Note:** This entry is in [Albedo's evidence page](albedo.md#geo-traveller-boulder-melt-with-albedo-e) as well.
 
-## Twins CA MV's comparison
+## Twins CA MVs Comparison
 
 By: Fluffy\#5580   
 Added: 04/10/2021
