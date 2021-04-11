@@ -170,7 +170,7 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 **EDIT**: XQ's rain sword orbitals do not count as a hit when they apply hydro, not crit boost there.
 
-### Royal series dynamic stacking on snapshot dot skills
+### Royal Series Dynamic Stacking on Snapshot DoT Skills
 
 By: sunnyd/\#5916 Added: 04/10/2021
 
@@ -178,7 +178,7 @@ By: sunnyd/\#5916 Added: 04/10/2021
 
 **Evidence:** [Youtube](https://youtu.be/rrrW7iYdU_I)
 
-**Significance:** You can snapshot a low-impact, quick-hitting ability before getting stacks to maintain higher stacks than usual with Royal Weapons. This can lead to your high impact, slow-hitting abilities having more crit rate than would otherwise be achievable.
+**Significance:** The passive of royal weapons continues to stack even when a snapshotting skill deals damage over time. First, cast the skill at low crit, and have the character gain crit from royal weapon's passive while the skill maintains its low crit rate because it snapshots. This allows stacks to be gained without an increased chance of losing them. Which means, the increased crit rate can then be capitalized on by casting high damage abilities during that window of increased crit rate.
 
 ## Sacrificial Series
 

@@ -297,7 +297,7 @@
 
 * Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../../evidence/mechanics/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
 * The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#how-royal-longswords-passive-works)
-* You can snapshot a low-impact, quick-hitting ability before getting stacks to maintain higher stacks than usual with Royal Weapons - [sunnyd/\#5916](../../../evidence/mechanics/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
+* Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../../evidence/mechanics/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 {% endtab %}
 
 {% tab title="Details" %}
