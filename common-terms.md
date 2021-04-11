@@ -31,7 +31,7 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 **Hypercarry/Selfish Carry** = A team is focused entirely around maximizing the damage dealt by a single character\(the selfish carry\) during their period of time where they deal the most damage, but are unable to swap off.
 
-**Main Carry** = A character who spends the most time on the field, most likely the one using the most Normal/Charged attacks out of the rest of your characters.
+**Main Carry** = The character who spends the most time on the field, usually spending more time on-field than all the other characters combined.
 
 **Permafreeze** = A team centered around permanently freezing enemies to capitalize on Blizzard Strayer’s 4 set bonus.
 

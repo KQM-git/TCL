@@ -172,8 +172,7 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 ### Royal series dynamic stacking on snapshot dot skills
 
-By: sunnyd/#5916
-Added: 04/10/2021
+By: sunnyd/\#5916 Added: 04/10/2021
 
 **Finding:** Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
 
@@ -238,7 +237,7 @@ Added: 04/05/2021
 
 **Finding:** Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
 
-**Evidence:** Using level 50 Amber on Lv87 Hilichurl, with +20 physical goblet 
+**Evidence:** Using level 50 Amber on Lv87 Hilichurl, with +20 physical goblet
 
 * [Level 90 Prototype Crescent](https://imgur.com/nSaRkfP) \(No passive\)
 * [Level 90 Rust](https://imgur.com/YsG8wlf)
