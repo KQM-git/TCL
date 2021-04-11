@@ -36,6 +36,20 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 Certain material items can be destroyed, but they don't give anything when destroyed, the same goes for apples and sunsettias too. However, not all material items can be destroyed, as of now, there is no consistent reason as to why.
 
+## Bush Droprates
+
+By: [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
+Added: 4/11/2021
+
+Bushes have a 8% chance to drop loot, they will drop:
+
+* Lizards
+* Eggs
+* Masutakes
+* Fireflies \(nightime only\)
+
+This information can be used together with the[ infinite spawning bushes bug](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) to farm these materials.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
