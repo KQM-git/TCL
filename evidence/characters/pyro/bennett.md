@@ -5,7 +5,7 @@
 By: Comfy Seaweed\#3841  
 Added on 11/22/2020
 
-### Theory: Bennett's Ult \(ATK buff\) refreshes every tick \(estimate around 1 second\). This means that the ATK buff may persist for awhile after swapping the character out, but will not stay throughout the duration.
+**Theory:** Bennett's Ult \(ATK buff\) refreshes every tick \(estimate around 1 second\). This means that the ATK buff may persist for awhile after swapping the character out, but will not stay throughout the duration.
 
 **Evidence:** [https://youtu.be/BFjMCysZBng](https://youtu.be/BFjMCysZBng)
 
@@ -25,7 +25,7 @@ Although probably not too significant, you may want to use Bennett's Ult before 
 By: sacstanxiang\#7439 and Novaa\#1006  
 Added on 12/1/2020
 
-### **Theory:** Active shields and Xingqiu’s Orbital Swords prevent Bennett Charged E knockback.
+**Theory:** Active shields and Xingqiu’s Orbital Swords prevent Bennett Charged E knockback.
 
 **Evidence:**
 
@@ -77,8 +77,8 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusio
 
 By: Cenpi\#3224
 
-**Theory:  
-Can 2pc Noblesse Oblige Boost the Party ATK Buff from Bennett Q**
+**Theory:**
+Can 2pc Noblesse Oblige Boost the Party ATK Buff from Bennett Q
 
 **Finding:**
 
@@ -92,22 +92,22 @@ Evidence
 
 ## Bennett Q and C6 Buff Self Application
 
-### **Bennett Q buff and C6 Pyro DMG Bonus applies on its own damage calculation**
+**Bennett Q buff and C6 Pyro DMG Bonus applies on its own damage calculation**
 
 By: Zeitraffer\#1074 and Charliex3000\#9403  
 Added on 2/19/2021
 
-\*\*Theory:  
+**Theory:**  
 Bennett’s Q Buff and C6 Pyro DMG Bonus should apply on its own damage calculation.
 
-Evidence:\*\*  
+**Evidence:**  
 Using a damage calculator, we estimate the damage dealt by Bennett's Q if the Q buff and Pyro DMG bonus from C6 is applied. We see that the value estimated is within the permissible error margins of this test and proves that his buffs do apply.
 
-Calculations: [https://imgur.com/vqoYUBH    
-](https://imgur.com/vqoYUBH)Stats Page: [https://imgur.com/oIDUuZS    
-](https://imgur.com/oIDUuZS)Talent Page: [https://imgur.com/WECL3SY    
-](https://imgur.com/WECL3SY)Constellation: [https://imgur.com/riOzrVX    
-](https://imgur.com/riOzrVX)Floor 7 Test: [https://imgur.com/Bm5VXpo](https://imgur.com/Bm5VXpo)
+Calculations: [https://imgur.com/vqoYUBH](https://imgur.com/vqoYUBH)
+Stats Page: [https://imgur.com/oIDUuZS](https://imgur.com/oIDUuZS)
+Talent Page: [https://imgur.com/WECL3SY](https://imgur.com/WECL3SY)
+Constellation: [https://imgur.com/riOzrVX](https://imgur.com/riOzrVX)
+Floor 7 Test: [https://imgur.com/Bm5VXpo](https://imgur.com/Bm5VXpo)
 
 **Significance:**  
 For Bennett Main DPS, Bennett himself will buff his own Q.
