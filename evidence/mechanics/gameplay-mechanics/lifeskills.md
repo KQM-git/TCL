@@ -25,3 +25,14 @@ By destroying artifacts, you either can get XP or Mora, it is the same for each.
 
 Destroying weapons is not efficient and causes you to lose weapon XP. Destroying artifacts although has no "real downside," the rewards given are lackluster and are better used as fodder. There is no reason to destroy items that give no rewards. Those items are better used for the Parametric Transformer if they need to be disposed of. The only upside is to mass clear inventory space, but due to the size of the inventory and the loss of XP, it does not warrant using the feature.
 
+## Bush droprates
+
+By: gideleon1/#2188
+Added: 04/11/2021
+
+**Finding:** Out of 1,174 broken bushes, I got 30 lizards, 32 matsutakes, and 32 eggs, which puts the rate of getting something from any one broken bush at about 8%. It seems like the drop is chosen randomly. My testing was done during the day, because at night, fireflies are added to the pool. I know they do not replace anything, because at night I was able to get all four unique drops. I have never gotten more than one drop out of a bush.
+
+**Evidence:** I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results.
+[Google docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
+
+**Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness. 
