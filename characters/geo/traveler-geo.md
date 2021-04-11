@@ -25,26 +25,62 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Foreign Rockblade" %}
+{% tab title="Foreign Rockblade Lumine" %}
 Attacks Perform up to 5 rapid strikes.
+
+* Lumine is the female traveler.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% |  |  |
-| 2-Hit | 63.13% |  |  |
-| 3-Hit | 77% |  |  |
-| 4-Hit | 84.73% |  |  |
-| 5-hit | 102.88% |  |  |
+| 1-Hit | 64.63% | 14 | 276.8%/s |
+| 2-Hit | 63.13% | 43 | 178.1%/s |
+| 3-Hit | 77% | 80 | 153.5%/s |
+| 4-Hit | 84.75% | 116 | 149.7%/s |
+| 5-hit | 102.88% | 148 | 159.1%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Aether CA | 81.25%+88.25 |  |  |
-| Lumine CA | 81.25%+105% |  |  |
+| N1C | 81.25%+105% | 62 | 242.8%/s |
+| N2C | 81.25%+105% | 84 | 224%/s |
+| N3C | 81.25%+105% | 115 | 204%/s |
+| N4C | 81.25%+105% | 160 | 178.4%/s |
 
-Aether and Lumine have different values most likely due to animation differences.
+**Plunge**
+
+| Damage Type | Talent 6% |
+| :--- | :--- |
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 230.09% |
+
+If performing a Jump and coming into contact with certain enemies Aether can gain enough height to use a plunge attack.
+{% endtab %}
+
+{% tab title="Foreign Rockblade Aether" %}
+Attacks Perform up to 5 rapid strikes.
+
+* Aether is the male traveler.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 64.63% | 13 | 276.8%/s |
+| 2-Hit | 63.13% | 38 | 178.1%/s |
+| 3-Hit | 77% | 71 | 153.5%/s |
+| 4-Hit | 84.75% | 123 | 149.7%/s |
+| 5-hit | 102.88% | 163 | 159.1%/s |
+
+**Charged Attack**  
+The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| N1C | 81.25%+88.25% | 54 | 260.1%/s |
+| N2C | 81.25%+88.25% | 90 | 198.1%/s |
+| N3C | 81.25%+88.25% | 115 | 195.2%/s |
+| N4C | 81.25%+88.25% | 160 | 172.1%/s |
 
 **Plunge**
 
