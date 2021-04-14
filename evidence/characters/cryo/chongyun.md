@@ -56,3 +56,48 @@ Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
 
 **+15% to Cryo Damage** + Noblesse - the bonus gained from constellation 6 is about ~7% \(ballpark estimate by Kleeful\) for a well built Chongyun. DMG bonus being additive implies that it would deal less damage than previously expected, where it was assumed to be a multiplicative bonus.
 
+## C2 Reduces CD Based on Original CD
+
+By: Sparko53557\#7010 and LazyGeniusMan\#6252  
+Added: 4/13/2021
+
+**Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
+
+**Evidence:** [https://youtu.be/mlaGmZoQw7k](https://youtu.be/mlaGmZoQw7k)
+
+C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your skill’s CD duration by 100%. 
+
+**Significance**: Chongyun is largely ineffective at decreasing the debuff from slowing waters in a meaningful fashion.
+
+### **Addendum with LazyGeniusMan\#6252’s Help** 
+
+**Finding:** When used with any cooldown reduction\(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the CDR from the active character and Slowing Waters.
+
+```python
+Chongyun's C2 in Slowing Waters
+
+let x = (E-cooldown) * (CDR from own character)
+let y = (E-cooldown) * (CDR from own character) * (Chongyun c2’s CDR)
+(E-cooldown) * (CDR from own character) * (Slowing Water Debuff) – (x - y) = E Cooldown
+```
+
+ **For example:**
+
+```python
+Bennett’s E’s CD : 5 s 
+w/ A1            : 4 s   [5 * .8 = 4]
+w/ A1, A4        : 2 s   [5 * .8 * .5 = 2]
+w/ A1, A4, CY C2 : 1.7 s [5 * .8 *.5 *.85 = 1.7]
+2 – 1.7 = .3 seconds 
+
+Bennett’s E CD w/ A1, A4, and Slowing Waters: 4 seconds 
+5 * .8 * .5 * 2 = 4 seconds. 
+
+Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds 
+4 - .3 = 3.7 seconds
+```
+
+**Evidence:** [https://imgur.com/a/I8TM0uV](https://imgur.com/a/I8TM0uV) 
+
+**Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.
+
