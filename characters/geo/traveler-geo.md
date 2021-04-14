@@ -26,7 +26,8 @@ description: >-
 
 {% tabs %}
 {% tab title="Foreign Rockblade Lumine" %}
-Lumine performs up to 5 rapid strikes.
+**Normal Attacks**  
+Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
@@ -60,7 +61,8 @@ If performing a Jump and coming into contact with certain enemies Aether can gai
 {% endtab %}
 
 {% tab title="Foreign Rockblade Aether" %}
-Aether performs up to 5 rapid strikes.
+**Normal Attacks**  
+Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
