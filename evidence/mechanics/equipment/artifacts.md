@@ -138,54 +138,6 @@ Ningguang was used due to her low burst energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that hp before healing\)
 
-## **Tiara Sets**
-
-### **Tiara Status Resist 1-set Effect Applies Even if not Visually Active**
-
-**By: tankex\#4275**
-
-In this test, we see if the 1 set effect of Tiara is active even when not visually active due to have 2 other concurrent set effects enabled \(eg 2 set Instructor + 2 set Berserker + 1 set Tiara\).
-
-**Test:**
-
-For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by pyro\), and to apply the pyro debuff I used Xiangling's elemental skill with grass to create a fire surface.
-
-Test 1 **-** No Tiara on, both set slots filled - Pyro debuff lasts for aprox 10 seconds
-
-Test 2 **-** Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts for aprox 4/5 seconds
-
-Test 3 **-** Tiara on, buff showing - Pyro debuff lasts for approx 4/5 seconds
-
-**Conclusion:**
-
-The Tiara status resist 1-set effect applies even when not visually active.
-
-### **80% Status Resistance is Possible through Tiara**
-
-**By: Tankex\#4275**
-
-In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).
-
-**Tiara of Flame, Domain tests:**
-
-Test 1 - No tiara, both set slots filled - Pyro debuff last long enough for the domain to reapply before it wears off. Pyro debuff infinite duration
-
-Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts 25 seconds
-
-Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds
-
-Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.
-
-**Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
-
-**Additional testing was performed by Tankex regarding electro debuff**
-
-I decided to test if the "Affected by Element for 40% less time" bonus also work with other domains apart from fire. I did some runs with and without the tiara in "Hidden Palace of Lianshian Formula" to test the electro Debuff and I got this.
-
-Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
-
-Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
-
 ## Thundering Fury
 
 ### **How 4pc Thundering Fury Interacts with Elemental Mastery**
@@ -374,6 +326,69 @@ Here is a third example, where we don't rely on Oz as our electro crutch. Tested
 **Significance:**
 
 It does work for heroes off screen, can be useful for pure electro dmg parties using Fischl as extra damage source
+
+## **Tiara Sets**
+
+### **Tiara Status Resist 1-set Effect Applies Even if not Visually Active**
+
+**By: tankex\#4275**
+
+In this test, we see if the 1 set effect of Tiara is active even when not visually active due to have 2 other concurrent set effects enabled \(eg 2 set Instructor + 2 set Berserker + 1 set Tiara\).
+
+**Test:**
+
+For the test I used Venti Lvl. 40 with and without Tiara of Flame \(40% less time affected by pyro\), and to apply the pyro debuff I used Xiangling's elemental skill with grass to create a fire surface.
+
+Test 1 **-** No Tiara on, both set slots filled - Pyro debuff lasts for aprox 10 seconds
+
+Test 2 **-** Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts for aprox 4/5 seconds
+
+Test 3 **-** Tiara on, buff showing - Pyro debuff lasts for approx 4/5 seconds
+
+**Conclusion:**
+
+The Tiara status resist 1-set effect applies even when not visually active.
+
+### **80% Status Resistance is Possible through Tiara**
+
+**By: Tankex\#4275**
+
+In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).
+
+**Tiara of Flame, Domain tests:**
+
+Test 1 - No tiara, both set slots filled - Pyro debuff last long enough for the domain to reapply before it wears off. Pyro debuff infinite duration
+
+Test 2 - Tiara on, both set slots filled, tiara buff not showing - Pyro debuff lasts 25 seconds
+
+Test 3 - Tiara on, buff showing - Pyro debuff lasts 25 seconds
+
+Test 4 - Tiara on, buff showing, hydro resonance up - Pyro debuff lasts for only 8 seconds.
+
+**Conclusion:** the Tiara works with Leyline disorders and is additive with elemental resonances, so you are able to get up to 80% debuff resistance.
+
+**Additional testing was performed by Tankex regarding electro debuff**
+
+I decided to test if the "Affected by Element for 40% less time" bonus also work with other domains apart from fire. I did some runs with and without the tiara in "Hidden Palace of Lianshian Formula" to test the electro Debuff and I got this.
+
+Test 1 - No tiara nor Elemental resonance - Duration of the Debuff 20 seconds.
+
+Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
+
+## Tiny Miracle
+
+### **4pc Tiny Miracle doesn't proc on damage dealt to shields**
+
+**By:** Aevean Leeow\#1362
+
+**Finding:** 4p Tiny Miracle doesn't proc on damage dealt to shields
+
+**Evidence:**
+https://youtu.be/q8dE3UzBHVA  
+Tiny Miracle is equipped and you don't get RES% buff until after shield is broken, shown in video
+
+**Significance:**
+Very important for Tiny Miracle users. Min max your shield by getting hit before the shield is up.
 
 ## Viridescent Verener
 

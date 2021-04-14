@@ -11,6 +11,10 @@
 * 2 Piece Set: Gain a 15% Geo DMG bonus. 
 * 4 Piece Set: Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
 {% endtab %}
+
+{% tab title="Findings" %}
+* The 4p set bonus requires you to pick up the shard with the set holder. 
+{% endtab %}
 {% endtabs %}
 
 ### Blizzard Strayer
@@ -31,7 +35,7 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set: Physical DMG +25%
-* 4 Piece Set: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces Stamina cost to 0 for 10s. 
+* 4 Piece Set: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. 
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -81,6 +85,10 @@
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Increase Pyro RES by 40%
 * 4 Piece Set Bonus: Increases DMG against enemies that are Burning or affected by Pyro by 35%
+{% endtab %}
+
+{% tab title="Findings" %}
+* The 4p set holder does not have to be on-field to receive the 35% damage bonus.
 {% endtab %}
 {% endtabs %}
 
@@ -325,6 +333,10 @@
 {% tab title="Description" %}
 * 2 Piece Set Bonus: All Elemental RES increased by 20% 
 * 4 Piece Set Bonus: Incoming Elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.
+{% endtab %}
+  
+{% tab title="Findings" %}
+* The 4p set bonus does not apply to damage dealt to shields.
 {% endtab %}
 {% endtabs %}
 
