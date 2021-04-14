@@ -3,8 +3,9 @@
 When applying an element with an attack, there is an internal cooldown \(ICD\) on sequential applications with the same type of attack. Attack strings are counted in series of 3, of which only the first hit in the series will normally apply an element. Additionally, the moment you start an attack series, a 2.5s timer starts running, and regardless of where you are in a series, the next attack after the 2.5s timer expires will be an elemental application. The timer will reset the progress of the attack series.
 
 * Attack types: **Normal Attacks**, **Charged Attacks**, **Plunge Attacks**, **Elemental Skills**, and **Elemental Bursts** have different counters for most cases. There are known exceptions however: 
-  * Melee characters' ICD series are shared between Normal Attacks and Charged Attacks.
-  * Catalyst Normal Attacks and Charged Attacks are on different series.
+  * Sword and Claymore characters' ICD series are shared between Normal Attacks and Charged Attacks.
+  * Catalyst and Polearm Normal Attacks and Charged Attacks are on different series.
+    * with the exception of Xiao whose ICDs are shared
   * Aimed Mode Charged Attacks have a different timer.
 * Normal Attacks between two characters use different counters.
 * The ICD timer is not paused when opening a menu \(you can use this interaction to open a Wish menu or your Adventurer's Handbook menu\) to proc elemental reactions[ faster than intended](https://www.youtube.com/watch?v=Tvv3b3DIabs).

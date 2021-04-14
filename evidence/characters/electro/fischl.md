@@ -233,7 +233,7 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
-## Fischl A4 + Infused Weapon Interaction
+## Fischl C6 + Innate Elemental Attacks in Turbo
 
 By: Vye\#9195  
 Added: 04/05/2021
