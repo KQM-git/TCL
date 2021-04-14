@@ -223,8 +223,10 @@ Increases the level of Chonghua’s Layered Frost by 3.
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [**Chongyun**](https://discord.gg/FT4ZFmgf8T)[ **Mains Discord**](https://discord.gg/FT4ZFmgf8T)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Chongyun)
+* [Chongyun](https://discord.gg/FT4ZFmgf8T)[ Mains Discord](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/cryo/chongyun.md" %}
 
