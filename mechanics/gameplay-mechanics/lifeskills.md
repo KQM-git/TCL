@@ -1,5 +1,19 @@
 # Lifeskills
 
+## Bush Droprates
+
+By: [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
+Added: 4/11/2021
+
+Bushes have a 8% chance to drop loot, they will drop:
+
+* Lizards
+* Eggs
+* Masutakes
+* Fireflies \(nightime only\)
+
+This information can be used together with the[ infinite spawning bushes bug](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) to farm these materials.
+
 ## Destroy Mechanics
 
 By: [xf3\#3123](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#destroy-function-mechanics)
@@ -36,19 +50,17 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 Certain material items can be destroyed, but they don't give anything when destroyed, the same goes for apples and sunsettias too. However, not all material items can be destroyed, as of now, there is no consistent reason as to why.
 
-## Bush Droprates
+## Paimon's Bargins
 
-By: [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
-Added: 4/11/2021
+### Resin to Stardust Exchange Comparison
 
-Bushes have a 8% chance to drop loot, they will drop:
+By: [Mateng\#4507](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
 
-* Lizards
-* Eggs
-* Masutakes
-* Fireflies \(nightime only\)
+Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. 
 
-This information can be used together with the[ infinite spawning bushes bug](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) to farm these materials.
+* Exp Leyline: 65.33 Stardust/Resin
+* Mora Leyline: 60 Stardust/Resin
+* Magic Crystal Ore: 60 Stardust/Resin
 
 ## Evidence Vault
 
