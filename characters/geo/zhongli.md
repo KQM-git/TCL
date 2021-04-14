@@ -129,7 +129,8 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% tab title="Ascension 1" %}
 ### Resonant Waves
 
-Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
+When the Jade Shield takes DMG it will Fortify:
+* Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -137,7 +138,7 @@ Fortified characters have 5% increased Shield Strength, stacking up to 5 times a
 
 Zhongli deals bonus DMG based on his Max HP:
 
-* Normal Attack, Charged attack, and Plunge DMG is increased by 1.39%  Max HP.
+* Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.
 * Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.
 * Planet Befall’s DMG is increased by 33% Max HP. 
 {% endtab %}
@@ -161,7 +162,7 @@ Planet Befall grants nearby characters on the field a **Jade Shield** when it de
 {% tab title="C3" %}
 ### Jade, Shimmering through Darkness
 
-Increases the level of Dominus Lapidis by 3.
+Increases the Level of Dominus Lapidis by 3.
 {% endtab %}
 
 {% tab title="C4" %}
