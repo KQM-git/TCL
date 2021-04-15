@@ -32,6 +32,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 
 {% tabs %}
 {% tab title="Pyro Abyss Mage" %}
+
 | Elemental Aura | Gauge Units Required |
 | :--- | :--- |
 | Pyro | Null |
@@ -43,6 +44,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 {% endtab %}
 
 {% tab title="Cryo Abyss Mage" %}
+
 | Elemental Aura | Gauge Units Required |
 | :--- | :--- |
 | Cryo | Null |
@@ -56,6 +58,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 {% endtab %}
 
 {% tab title="Hydro Abyss Mage" %}
+
 | Elemental Aura | Gauge Units Required |
 | :--- | :--- |
 | Hydro | Null |
@@ -67,13 +70,14 @@ The following is a table consisting of different types of **Elemental Shields** 
 {% endtab %}
 
 {% tab title="Slimes" %}
-| Cryo Slime | Geo Slimes |
-| :--- | :--- |
-| 4GU Pyro | 6 Claymore N1 |
-| 8GU Electro | 6~7 Ningguang N1 |
-| 16GU Anemo | 6~7 Overload Reactions |
-| 16GU Geo |  |
-| 14 Claymore N1 |  |
+
+| Cryo Slime | Cryo Slime GU Required | Geo Slimes |
+| :--- | :--- |:--- |
+| Pyro | 4GU |6 Claymore N1 |
+| Electro | 8GU |6~7 Ningguang N1 |
+| Anemo | 16GU |6~7 Overload Reactions |
+| Geo | 16GU | |
+| Claymore N1 | 14 Hits | |
 
 **Important: Geo Slimes** can lose their **Shield** through **Crystallize Reaction.** Claymore attacks vary in strength from character to other but the difference should be 1 Normal.
 {% endtab %}
@@ -84,10 +88,10 @@ C=Numbers of Cicin alive.**
 
 | Aura | Gauge Units Required |
 | :--- | :--- |
-| Pyro | 2GU\*C |
-| Electro | 4GU\*C |
-| Anemo | 8GU\*C |
-| Geo | 8GU\*C |
+| Pyro | 2GU × C |
+| Electro | 4GU × C |
+| Anemo | 8GU × C |
+| Geo | 8GU × C |
 {% endtab %}
 {% endtabs %}
 
@@ -107,6 +111,7 @@ The following is a table consisting of different types of **Elemental Armor** as
 
 {% tabs %}
 {% tab title="Fatui" %}
+
 | Fatui Type | Aura plus Gauge units |
 | :--- | :--- |
 | Cryo Fatui | 4GU Pyro |
@@ -118,38 +123,41 @@ The following is a table consisting of different types of **Elemental Armor** as
 {% endtab %}
 
 {% tab title="Whopperflowers" %}
-| Cryo Whopperflower | Pyro Whopperflower |
-| :--- | :--- |
-| 1GU Pyro | 1GU Hydro |
-| 2GU Electro | 2GU Electro |
-| 4GU Anemo | 4GU Cryo |
-| 4GU Geo | 4GU Anemo |
-| Cryo\Hydro **Null** | 4GU Geo |
-| 4 Claymore N1 |  |
+
+| Cryo Whopperflower | Cryo GU | Pyro Whopperflower | Pyro GU |
+| :--- | :--- | :--- | :--- |
+| Pyro|1GU | Hydro | 1GU  |
+| Electro|2GU |Electro | 2GU |
+| Anemo|4GU | Cryo| 4GU |
+| Geo |4GU | Anemo| 4GU |
+| Cryo |**Null** | Geo |4GU |
+| Hydro |**Null** | |
+| Claymore N1 | 4 |
 {% endtab %}
 
 {% tab title="Lawachurls" %}
+
 | Stonehide Lawachurl | Frostarm Lawachurl |
 | :--- | :--- |
 | 11 Claymore N1 during 24 Seconds | 15GU Pyro |
 | ~9 Overload during 45 Seconds | 30GU Electro |
 | 5 Ningguang N1 | 60GU Anemo |
 |  | 60GU Geo |
-|  |  |
 
-Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays each second for up to 90 seconds.
+Note that both **Stonehide Lawachurl** and **Frostarm Lawachurl** armor decays each second for up to 90 seconds.
 {% endtab %}
 
 {% tab title="Regisvine" %}
-| Pyro Regisvine \(Core\) | Cryo Regisvine \(Core\) |
-| :--- | :--- |
-| 6GU Hydro | 6GU Pyro |
-| 12GU Electro | 12GU Electro |
-| 24GU Cryo | ~24 Claymore N1 |
-| 24GU Anemo | 24GU Anemo |
-| 24GU Geo | 24GU Geo |
 
-**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **EYE**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
+| Pyro Regisvine \(Core\) | Pyro Regisvine GU | Cryo Regisvine \(Core\) | Cryo Regisvine GU|
+| :--- | :--- | :--- | :--- |
+| Hydro   | 6GU  | Pyro        | 6GU  |
+| Electro | 12GU | Electro     | 12GU |
+| Cryo    | 24GU | Claymore N1 | ~24  |
+| Anemo   | 24GU | Anemo       | 24GU |
+| Geo     | 24GU | Geo         | 24GU |
+
+**IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 {% endtab %}
 {% endtabs %}
 
@@ -159,7 +167,11 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 
 {% tabs %}
 {% tab title="Wooden Mitachurl" %}
-* **Wooden Mitachurl's** shields can be taken down by applying **Pyro Aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. There are two ways to deal with that:  A\) Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard. B\) Apply another **Pyro Aura** as soon as he extinguishes the first one and the shield will burn. 
+
+**Wooden Mitachurl's** shields can be taken down by applying **Pyro Aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. 
+There are two ways to deal with that:  
+  A\) Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard.  
+  B\) Apply another **Pyro Aura** as soon as he extinguishes the first one and the shield will burn. 
 {% endtab %}
 
 {% tab title="Rockshield Mitachurl" %}
@@ -180,7 +192,7 @@ Note that both **Stonehide Lawachrul** and **Frostarm Lawachurl** armor decays e
 
 ## Childe
 
-During the Childe ****boss fight, he can into a shielded state where he takes no damage. This shield is only affected by poise damage and not normal damage. Attacks like **Claymore Attacks, Blunt Attribute attacks, and Overload** will be the most effective at breaking said shield.
+During the Childe boss fight, he can enter into a shielded state where he takes no damage. This shield is only affected by poise damage and not normal damage. Attacks like **Claymore Attacks, Blunt Attribute attacks, and Overload** will be the most effective at breaking said shield.
 
 ## Credits
 
