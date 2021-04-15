@@ -78,7 +78,7 @@ The behavior of Freeze curves to give diminishing returns at higher GU values. T
 
 ## Crystallize
 
-Crystallize is an elemental reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given element. Picking up the shard grants a shield of the shard's element. 
+Crystallize is an elemental reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given element. Picking up the shard grants a shield of the shard's element.
 
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 

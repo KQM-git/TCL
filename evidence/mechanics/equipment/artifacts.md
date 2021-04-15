@@ -377,18 +377,16 @@ Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 ## Tiny Miracle
 
-### **4pc Tiny Miracle doesn't proc on damage dealt to shields**
+### **4pc Tiny Miracle Doesn't Proc on Damage Dealt to Shields**
 
 **By:** Aevean Leeow\#1362
 
 **Finding:** 4p Tiny Miracle doesn't proc on damage dealt to shields
 
-**Evidence:**
-https://youtu.be/q8dE3UzBHVA  
+**Evidence:** [https://youtu.be/q8dE3UzBHVA](https://youtu.be/q8dE3UzBHVA)  
 Tiny Miracle is equipped and you don't get RES% buff until after shield is broken, shown in video
 
-**Significance:**
-Very important for Tiny Miracle users. Min max your shield by getting hit before the shield is up.
+**Significance:** Very important for Tiny Miracle users. Min max your shield by getting hit before the shield is up.
 
 ## Viridescent Verener
 

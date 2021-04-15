@@ -1,6 +1,5 @@
 ---
-description: >-
-  An explanation as to how damage is calculated.
+description: An explanation as to how damage is calculated.
 ---
 
 # Damage Formula
@@ -14,6 +13,7 @@ Damage = BaseDamage \times  (1 + DamageBonus) \times Crit\\
 \times AmplifyingReaction\times OtherBonus+TransformativeReaction+Proc
 \end{multline*}
 $$
+
 ## **Base Damage**
 
 $$
@@ -57,6 +57,7 @@ $$
 $$
 AverageCrit = 1 + min\{CritRate,100\%\} \times CritDamage
 $$
+
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **CritRate** | The total crit rate, including the 5% base crit rate and bonuses from artifacts, etc. |
@@ -67,6 +68,7 @@ $$
 $$
 EnemyDefenseMultiplier = \frac{LvlCharacter + 100}{(LvlCharacter + 100) + (LvlEnemy + 100) \times (1-DefReduction)}
 $$
+
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **LvlCharacter** | The player character's level. |
@@ -163,3 +165,4 @@ $$
 | **Proc** | The damage dealt by weapon and ability procs when they trigger, such as Prototype Archaic or Xiangling's constellation 2. To calculate this damage, substitute the proc percentage \(e.g. 240% for Prototype Archaic R1\) for Talent in the damage formula. Note that weapon proc effects always deal physical damage, and are therefore affected by physical damage bonuses and physical resistance, even if an elemental attack is used to trigger them. |
 
 By Zakharov\#5645 and \[Neko\]\#3521
+

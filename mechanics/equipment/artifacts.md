@@ -334,7 +334,7 @@
 * 2 Piece Set Bonus: All Elemental RES increased by 20% 
 * 4 Piece Set Bonus: Incoming Elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.
 {% endtab %}
-  
+
 {% tab title="Findings" %}
 * The 4p set bonus does not apply to damage dealt to shields.
 {% endtab %}

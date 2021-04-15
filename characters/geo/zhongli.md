@@ -130,6 +130,7 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 ### Resonant Waves
 
 When the Jade Shield takes DMG it will Fortify:
+
 * Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
 {% endtab %}
 
