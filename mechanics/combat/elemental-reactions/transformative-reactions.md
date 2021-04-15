@@ -4,17 +4,39 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
-![](../../../.gitbook/assets/image.png)
+$$
+\begin{align}
+TransformativeReaction = &
+\begin{cases}
+4 & \text{if, } triggering\ Overloaded\\
+3 & \text{if, } triggering\ Shatter\\
+2.4 \times ECTriggers & \text{if, } triggering\ ElectroCharged\\
+1.2 & \text{if, } triggering\ Swirl\\
+1 & \text{if, } triggering\ Superconduct\\
+0 & \text{otherwise}
+\end{cases}
+\\
+& \times \biggl( 1 + \frac{6.66 \times EM}{1400 + EM} + ReactionBonus \biggr)\\
+& \times LevelMultiplier \times EnemyResistanceMultiplier
+\end{align}
+$$
+
+$$
+\begin{align}
+LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times LvlCharacter^{2} \\
+& - 0.2523 \times LvlCharacter + 14.74
+\end{align}
+$$
 
 Transformative reactions scale based on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content.
 
-## Overload
+## **Overload**
 
 Overload is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
 
 * You can trigger Overload on electrocuted bodies of water.
 
-## Superconduct
+## **Superconduct**
 
 Superconduct is an elemental reaction triggered by applying Electro on a target already afflicted by a Cryo aura or vice versa. Superconduct **reduces an enemy's physical damage resistance by 40% by 12 seconds**. Triggering Superconduct in an AoE will only cause one instance of Superconduct damage.
 
@@ -23,14 +45,8 @@ Superconduct is an elemental reaction triggered by applying Electro on a target 
 Electro-Charged is a special Transformative reaction that breaks the normal convention of “one elemental aura on an enemy at a time." When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#electrocharged)
 
 * Electro-Charged can be extended by hitlag, presumably by extending the aura duration.
-* Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger
-
-  Electro-Charged damage without applying an elemental aura.
-
-* Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their
-
-  weakpoint.
-
+* Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
+* Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
   * For more details on poise, we have a [page dedicated to it](../poise.md)
 
