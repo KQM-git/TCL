@@ -466,7 +466,9 @@ Preliminary findings on Shatter GU values of claymore attacks.
 
 2.4\) Razor N4 has ~1U Shatter: 5x0.67 + 4x0.75 + 4x0.55 + 3x1 plus sliver = 11.533 plus sliver: [https://youtu.be/w-zaE5O9-3E](https://youtu.be/w-zaE5O9-3E)
 
-3.1\) Beidou N1 has 0.5U Shatter: [https://youtu.be/OEYOMLn4f9w](https://youtu.be/OEYOMLn4f9w) 3.2\) Beidou N2 has 0.49U\(???\) Shatter \(idk what is going on, it;s 12N1, 11N2 plus sliver\): [https://youtu.be/XR4TGkBFAD4](https://youtu.be/XR4TGkBFAD4)
+3.1\) Beidou N1 has 0.5U Shatter: [https://youtu.be/OEYOMLn4f9w](https://youtu.be/OEYOMLn4f9w) 
+
+3.2\) Beidou N2 has 0.49U\(???\) Shatter \(idk what is going on, it;s 12N1, 11N2 plus sliver\): [https://youtu.be/XR4TGkBFAD4](https://youtu.be/XR4TGkBFAD4)
 
 4.1\) Noelle N1 probably has 0.65U Shatter \(my Noelle is lvl 70 thus shatter damage might be relevant though\): [https://youtu.be/EXaXEo9s0eU](https://youtu.be/EXaXEo9s0eU)
 
@@ -474,7 +476,8 @@ Preliminary findings on Shatter GU values of claymore attacks.
 
 4.3\) Noelle N3 has 075U Shatter: 6x\(0.65 + 0.55 + 0.75\) plus sliver = 11.7: [https://youtu.be/MEIbwHi6d6w](https://youtu.be/MEIbwHi6d6w)
 
-4.4\) Noelle N4 has 1U Shatter: 12x0.65 + 2x0.55 + 2x0.75 + Beidou's 1x0.5 + N4 plus sliver = 10.9 + N4 + sliver: [https://youtu.be/hlpnQkNc-DQ](https://youtu.be/hlpnQkNc-DQ) bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17iITal8Y) [https://youtu.be/xZRQhEZaO1A](https://youtu.be/xZRQhEZaO1A)
+4.4\) Noelle N4 has 1U Shatter: 12x0.65 + 2x0.55 + 2x0.75 + Beidou's 1x0.5 + N4 plus sliver = 10.9 + N4 + sliver: [https://youtu.be/hlpnQkNc-DQ](https://youtu.be/hlpnQkNc-DQ)   
+bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17iITal8Y) [https://youtu.be/xZRQhEZaO1A](https://youtu.be/xZRQhEZaO1A)
 
 **Significance:**   
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
@@ -483,8 +486,8 @@ It might help us figure out how to optimize shield breaking as claymore users. A
 
 ## EC + Heavy Hits Stagger Lock
 
-By: Valeturi\#5963  
-Added: 04/05/2021
+**By:** Valeturi\#5963  
+**Added:** 04/05/2021
 
 **Finding:** Electro-charged + heavy hit instances can stagger lock.
 
@@ -527,8 +530,8 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ## Blunt Attacks have no ICD
 
-By: jstern25\#1399  
-Added: 04/09/2021
+**By:** jstern25\#1399  
+**Added:** 04/09/2021
 
 **Theory:** Blunt attacks have no ICD, meaning they will always trigger shatter. This makes it suboptimal to run freeze with any character whose attacks have the "blunt" attribute.
 
@@ -536,3 +539,17 @@ Added: 04/09/2021
 
 **Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
 
+## Crystallize
+
+**By:** Jonahfarc\#7056  
+**Added:** 04/14/2021
+
+**Finding:**
+Crystallizing an Electro-Charged enemy always results in an Electro crystal.
+
+**Evidence:**
+https://youtu.be/Z9zOXsy_qUY
+I electro charged in different orders with different application strengths. The result was always Electro.
+
+**Significance:**
+Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
