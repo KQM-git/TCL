@@ -2,8 +2,8 @@
 
 ## Analysing Beidou’s Normal Attack Rotations Including Hitlag
 
-By: lostguru\#5024  
-Added on 12/6/2020
+**By:** lostguru\#5024  
+**Added:** 12/6/2020
 
 **Evidence:**  
 [https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
@@ -16,8 +16,8 @@ Added on 12/6/2020
 
 ## Serpent Spine Interactions with Beidou
 
-By: ZΛNTO\#4984  
-Added on 12/13/20
+**By:** ZΛNTO\#4984  
+**Added:** 12/13/20
 
 **Finding:**
 
@@ -39,8 +39,8 @@ Good weapon. Works as well as you'd expect.
 
 ## Beidou Plunge Attack R-Cancel
 
-By: Ja’Krampus\#2399  
-Added on 12/13/20
+**By:** Ja’Krampus\#2399  
+**Added:** 12/13/20
 
 **Finding:**
 
@@ -54,8 +54,8 @@ With certain attack strings, cancelling into this move may provide a higher mv/s
 
 ## Movespeed Increases Jump Height
 
-By: Risuke\#6743  
-Added on 12/14/20
+**By:** Risuke\#6743  
+**Added:** 12/14/20
 
 **Finding:**
 
@@ -79,8 +79,8 @@ For Beidou specifically, the movespeed needed to allow for a roll after a high j
 
 ## Mistranslation of Beidou’s C4 Effect
 
-By: EternalDream\#5503  
-Added on 12/7/2020
+**By:** EternalDream\#5503  
+**Added:** 12/7/2020
 
 **Finding:**  
 Beidou’s C4 is mistranslated:
@@ -100,8 +100,8 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 
 ## Frame Analysis of Beidou’s Parry
 
-By: MemeMastodon69\#2165  
-Added on 11/5/2020
+**By:** MemeMastodon69\#2165  
+**Added:** 11/5/2020
 
 **Finding:**  
 Beidou perfect parry has 2 startup frames, 17 active frames +/- 1 frame
@@ -128,8 +128,8 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 
 ## Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
 
-By: Elliotto\#6694  
-Added 11/18/2020
+**By:** Elliotto\#6694  
+**Added:** 11/18/2020
 
 **Finding:**  
 The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
@@ -148,8 +148,8 @@ The bell will provide its damage bonus with concurrent abilities such as Beidou�
 
 ## Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
 
-By: ASHOKA\#5672  
-Added 11/19/2020
+**By:** ASHOKA\#5672  
+**Added:** 11/19/2020
 
 **Evidence:**  
 [https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)
@@ -192,7 +192,8 @@ shield snapshot difference
 
 ## Beidou E Particle Mechanics
 
-By: Steph/\#3614 Added: 03/22/2021
+**By:** Steph/\#3614  
+**Added:** 03/22/2021
 
 **Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
 

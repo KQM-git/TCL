@@ -526,7 +526,7 @@
 
 ## Catalyst Comparison
 
-By: [Maygi\#4987](../../../evidence/mechanics/equipment/weapons.md#catalyst-effective-attack-comparisons)
+**By:** [Maygi\#4987](../../../evidence/mechanics/equipment/weapons.md#catalyst-effective-attack-comparisons)
 
 ![](../../../.gitbook/assets/maygi_catalyst_comparison.png)
 

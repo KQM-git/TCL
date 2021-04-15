@@ -2,8 +2,8 @@
 
 ## **XQ Q Sword Internal Cooldown**
 
-By: BowlSoldier\#3528  
-Added 12/6/2020
+**By:** BowlSoldier\#3528  
+**Added:** 12/6/2020
 
 **Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](https://github.com/Artesians/TCL/tree/51a02d196d5ac231e4fed8d69b93d3d8111f9891/evidence/characters/hydro/xingqiu/README.md#xingqiu-c6-3rd-wave-applies-hydro-twice)
 
@@ -23,8 +23,8 @@ There are some videos taken before 1.1 where the swords in each wave each seemed
 
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
-By: gacha4life\#2525   
-Added 03/17/2021
+**By:** gacha4life\#2525   
+**Added:** 03/17/2021
 
 **Evidence:**
 
@@ -34,7 +34,7 @@ Added 03/17/2021
 
 ## **Xingqiu's Q Damage Calculation is Dynamic**
 
-By: IonFox\#8887
+**By:** IonFox\#8887
 
 **Theory:**
 
@@ -55,7 +55,7 @@ XQ ult is dynamic and not a snapshot, buffs/value changes received after casting
 
 ## **Xingqiu E Double Vaporize**
 
-By: Zeitraffer\#1074
+**By:** Zeitraffer\#1074
 
 **Finding:**
 
@@ -71,7 +71,7 @@ For one-shot \(or two-shot\) compilations, although I’m not sure if this team 
 
 ## **Xingqiu’s Rain Sword Damage Reduction does Snapshot**
 
-By: wiremash\#0433
+**By:** wiremash\#0433
 
 **Finding:**
 
@@ -91,8 +91,8 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 
 ## Xingqiu E Dash Cancel Animation
 
-By: Charliex3000\#9403   
-Added 03/18/2021
+**By:** Charliex3000\#9403   
+**Added:** 03/18/2021
 
 **Finding:**
 
@@ -110,8 +110,8 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 ## Xingqiu Sword Rain "Buffering"
 
-By: Charliex3000\#9403   
-Added: 03/21/2021
+**By:** Charliex3000\#9403   
+**Added:** 03/21/2021
 
 **Theory/Finding/Bug:**
 
@@ -130,8 +130,8 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 ## Xingqiu Hydro Aura Persistence
 
-By: Sayline\#5959  
-Added: 04/05/2021
+**By:** Sayline\#5959  
+**Added:** 04/05/2021
 
 **Finding:** After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of hydro particles disappear\).
 

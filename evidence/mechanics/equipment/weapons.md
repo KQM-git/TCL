@@ -4,7 +4,7 @@
 
 ### Lion's Roar Passive Applies to all forms of DMG inflicted on Electro-Debuffed Enemy
 
-By: Doug\#8888
+**By:** Doug\#8888
 
 **Testing:** Keqing with no artifacts on and only a Lion's Roar. I autoattacked a hilichurl, cast stiletto for electro-debuff, then autoattacked again. Here are the 2 white\(physical\) numbers recorded.
 
@@ -15,7 +15,7 @@ By: Doug\#8888
 
 ### Lion’s Roar Passive Works while the Holder is Off-Field
 
-By: mikan\#2834 and IonFox\#8887
+**By:** mikan\#2834 and IonFox\#8887
 
 **Theory:** Lion's Roar passive is still in effect and will boost damage even when equipped character is off-screen
 
@@ -32,8 +32,8 @@ By: mikan\#2834 and IonFox\#8887
 
 ### Weapons with Bane of ... Passive Applies for Amplifying Reactions, but not Transformative Ones
 
-By: Lix-\#3417  
-Added: 12/7/2020
+**By:** Lix-\#3417  
+**Added:** 12/7/2020
 
 **Theory/findings:** Can Lions Roar, 4TS,dragon's bane, ravens bow increase reaction dmg?
 
@@ -65,26 +65,26 @@ Test 3: Vaporize
 
 ### BlackCliff Sword effect Persists through a Character Swap
 
-By: Cenpi\#3224
+**By:** Cenpi\#3224
 
 [https://youtu.be/lqB9ifbFTLI](https://youtu.be/lqB9ifbFTLI)
 
 ### BlackCliff Sword effect doesn’t activate if a Support takes the Kill
 
-By:Cenpi\#3224
+**By:** Cenpi\#3224
 
 [https://youtu.be/drij7iIl\_Tg](https://youtu.be/drij7iIl_Tg)
 
 ### BlackCliff Sword effect doesn’t activate if a CO-OP Member takes the Kill
 
-By: Cenpi\#3224
+**By:** Cenpi\#3224
 
 [https://youtu.be/YFyRpQF\_fcY](https://youtu.be/YFyRpQF_fcY) \(refer to link above for original atk values\)
 
 ### BlackCliff Sword Effect Persists Even if the Holder Switches Off-Field
 
-By:Lix-\#3417  
-Added: 12/7/2020
+**By:** Lix-\#3417  
+**Added:** 12/7/2020
 
 **Theory/Findings:**
 
@@ -109,8 +109,8 @@ Added: 12/7/2020
 
 ### Favonius Weapons do not proc on Shielded Enemies
 
-By: Sakuno\#7950  
-Added: 2/4/2021
+**By:** Sakuno\#7950  
+**Added:** 2/4/2021
 
 **Evidence:**
 
@@ -126,7 +126,7 @@ Favonius weapons suffer the same drawback as sacrificial and does not provide it
 
 ### The Effective Crit Rate of Royal Weapons
 
-By: Cola\#6861
+**By:** Cola\#6861
 
 **Evidence:** [Spreadsheet](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 
@@ -147,14 +147,14 @@ By: Cola\#6861
 
 ### How Royal LongSword’s Passive Works
 
-By: Pleinair\#8321  
-Added: 11/22/2020
+**By:** Pleinair\#8321  
+**Added:** 11/22/2020
 
 **Evidence:** [https://youtu.be/YqjY3RN-QDs](https://youtu.be/YqjY3RN-QDs)
 
 **Significance:** The sword is a rare case of actually working while off field. While Sacrificial sword is one of Xingqiu BiS this weapon would be more optimized for a dps build over the Harbinger of Dawn due to the overall higher raw stats it provides
 
-By: IonFox\#8887
+**By:** IonFox\#8887
 
 Further elaborating on @Pleinair's submission, Royal Longsword works exactly as written even when XQ is off field.
 
@@ -172,8 +172,8 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 ### Royal Series Dynamic Stacking on Snapshot DoT Skills
 
-By: sunnyd\#5916   
-Added: 04/10/2021
+**By:** sunnyd\#5916   
+**Added:** 04/10/2021
 
 **Finding:** Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
 
@@ -185,8 +185,8 @@ Added: 04/10/2021
 
 ### Sacrificial Weapons do not proc on Shielded Enemies
 
-By: Exuma\#1917  
-Added: 2/4/2021
+**By:** Exuma\#1917  
+**Added:** 2/4/2021
 
 **Evidence:** Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded pyro abyss mages and shielded geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
 
@@ -200,8 +200,8 @@ Added: 2/4/2021
 
 #### Lost Prayer Stack Mechanics
 
-By: Konbo\#0004  
-Added: 12/7/2020
+**By:** Konbo\#0004  
+**Added:** 12/7/2020
 
 **Findings**:
 
@@ -220,8 +220,8 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 #### Analysis of whether Xingqiu E/Q counts as a “shield” for Memory of Dust and Bolide
 
-By: ＃＃\#0123  
-Added: 12/7/2020
+**By:** ＃＃\#0123  
+**Added:** 12/7/2020
 
 **Theory**: For Bolide or Memory of Dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
 
@@ -233,8 +233,8 @@ Added: 12/7/2020
 
 #### Rust Damage Decrease
 
-By: Amadurim\#8925  
-Added: 04/05/2021
+**By:** Amadurim\#8925  
+**Added:** 04/05/2021
 
 **Finding:** Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
 
@@ -273,8 +273,8 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 
 #### Rate of Loss of Serpent Spine Stacks
 
-By: Reydriar\#8127  
-Added: 12/7/2020
+**By:** Reydriar\#8127  
+**Added:** 12/7/2020
 
 **Finding**: Losing Serpent Spine stacks has an ICD depending on the stack count.
 
@@ -294,8 +294,8 @@ Added: 12/7/2020
 
 #### Skyward Blade Description Clarification
 
-By: Special\#1775  
-Added 12/6/2020
+**By:** Special\#1775  
+**Added:** 12/6/2020
 
 **Finding**:
 
@@ -317,8 +317,8 @@ Added 12/6/2020
 
 #### Skyward Pride Damage Interaction with 4 Set Gladiators
 
-By: Chiefy\#2036  
-Added: 3/30/2021
+**By:** Chiefy\#2036  
+**Added:** 3/30/2021
 
 **Theory:** Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
 
@@ -333,7 +333,7 @@ Added: 3/30/2021
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
 
-By: adri\#1824
+**By:** adri\#1824
 
 **Finding:** The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
 
@@ -352,7 +352,7 @@ By: adri\#1824
 
 #### The Flute’s AOE can CRIT
 
-By: Crome\#2644
+**By:** Crome\#2644
 
 **Finding:** Yes, it can crit
 
@@ -362,9 +362,9 @@ By: Crome\#2644
 
 ### Attack Speed Buffs on Claymores
 
-By: EternalDream\#5503
+**By:** EternalDream\#5503
 
-Added: 2/4/2021
+**Added:** 2/4/2021
 
 **Finding**: Attack Speed buffs do not dynamically affect Claymore Charged Attacks
 
@@ -377,7 +377,7 @@ Added: 2/4/2021
 
 ### Catalyst Effective Attack Comparisons
 
-By: Maygi\#4987
+**By:** Maygi\#4987
 
 **Findings**
 
@@ -399,7 +399,7 @@ Memory of dust can actually be strong, even without a shield doubling its effect
 
 ### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
 
-Added: 11/9/2020
+**Added:** 11/9/2020
 
 **Methodology:** Comparing between ALL characters Base Atk at lv80/80 with ALL 4 Star Weapon at lv80/80.
 
@@ -434,8 +434,8 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 
 ### Range Cap for Arrows
 
-By: Poyo\#6921  
-Added: 2/4/2021
+**By:** Poyo\#6921  
+**Added:** 2/4/2021
 
 **Finding**: There is a cap range for an arrow - the further you go after that cap the lower damage you deal.
 

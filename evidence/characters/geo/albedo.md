@@ -2,7 +2,7 @@
 
 ## Dimensions of Albedo’s Elemental Skill AoE
 
-Date Added: 12/28/2020  
+**Added:** 12/28/2020  
 Submission By: HailCorporate\#2970
 
 **Finding:**  

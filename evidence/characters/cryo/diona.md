@@ -2,8 +2,8 @@
 
 ## **Diona Elemental Skill ICD analysis**
 
-By: Tractor\#9418  
-Added on 11/18/2020
+**By:** Tractor\#9418  
+**Added:** 11/18/2020
 
 **Finding:**
 
@@ -26,8 +26,8 @@ Bennet E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura 
 
 ## **Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves**
 
-By: EternalDream\#5503  
-Added 11/19/2020
+**By:** EternalDream\#5503  
+**Added:** 11/19/2020
 
 **Evidence:**
 
@@ -41,7 +41,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 
 ## Bug:  Diona's shield is 2U under specific circumstances that are guaranteed on swap
 
-By: Monochrom9\#8058 and Help Me with Honours\#1678
+**By:** Monochrom9\#8058 and Help Me with Honours\#1678
 
 **Evidence:**
 
@@ -69,8 +69,8 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 
 ## Diona's Shield Deep-Dive
 
-By: EggsD\#9603   
-Added: 04/05/2021
+**By:** EggsD\#9603   
+**Added:** 04/05/2021
 
 **Finding:** Detailed description and rundown of Diona's Icy Paws Shield. Which includes...
 

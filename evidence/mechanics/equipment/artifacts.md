@@ -4,7 +4,8 @@
 
 ### Blizzard Strayer and Cryo Resonance don't Snapshot
 
-By: Vye\#9195 Added: 3/21/2021
+**By:** Vye\#9195  
+**Added:** 3/21/2021
 
 **Findings**:
 
@@ -294,7 +295,8 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 
 ### 4TF Passive Triggered can be Triggered on Non-Damaging Elemental Applications
 
-By: Sayline\#5959 Added: 3/21/2021
+**By:** Sayline\#5959  
+**Added:** 3/21/2021
 
 **Finding**: Thundering Fury 4-piece set effect \(cooldown reduction\) can be triggered by non-damaging Hydro application.
 
@@ -468,7 +470,8 @@ Substats are distributed evenly except for flat Def for some reason, which is si
 
 ## Uneven substats distribution
 
-By: Tsym/\#2586 Added: 05/04/2021
+**By:** Tsym/\#2586  
+**Added:** 05/04/2021
 
 **Theory:** Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
 

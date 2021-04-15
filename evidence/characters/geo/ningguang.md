@@ -2,8 +2,8 @@
 
 ## Ningguang Burst Does Not Snapshot
 
-By: Bobrokrot\#0111  
-Added: 2/23/2021
+**By:** Bobrokrot\#0111  
+**Added:** 2/23/2021
 
 **Finding:** Ninguang ult does not snapshot
 

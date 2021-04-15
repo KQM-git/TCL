@@ -204,7 +204,7 @@ Consider the following Electro-charged concepts:
 
 ## Interaction of Other Elements with Electrocharged Targets
 
-By: EternalDream\#5503
+**By:** EternalDream\#5503
 
 When Electro-Charged is applied to a target and both Hydro and Electro aura remain, any further reactions from either Pyro or Cryo will trigger both the relevant reactions, not just one of them.
 

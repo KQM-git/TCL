@@ -2,7 +2,7 @@
 
 ## How does 2NO interact with Noelle Q?
 
-By: Kibouo\#1698 Added 12/18/2020
+**By:** Kibouo\#1698 Added 12/18/2020
 
 **Hypothesis:**
 
@@ -18,7 +18,7 @@ By: Kibouo\#1698 Added 12/18/2020
 
 ## How does Noelle’s Elemental burst interact with temporary defence buffs?
 
-By: JonahFarc\#7056 and Midori\#2173
+**By:** JonahFarc\#7056 and Midori\#2173
 
 **Finding:** Noelle's Elemental Burst snapshots the current defence value at the time of activation for the ATK increase.
 
@@ -32,7 +32,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** It takes the ATK value when it breaks.
 
@@ -44,7 +44,7 @@ By: JonahFarc\#7056
 
 ## How does Sacrificial Greatsword work with Noelle?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
@@ -54,7 +54,8 @@ By: JonahFarc\#7056
 
 ## Maidstrike vs N3D \(Dragonstrike\)
 
-By: sakuno\#7950 Added: 03/22/2021
+**By:** sakuno\#7950  
+**Added:** 03/22/2021
 
 **Theory:**
 
