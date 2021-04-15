@@ -50,8 +50,7 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 ### Resin to Stardust Exchange Comparison
 
-**By:** Mateng
-\#4507  
+**By:** Mateng\#4507  
 **Added:** 4/14/2021
 
 **Findings**: Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. They are 65.33 Stardust/Resin, while Gold leylines and Magic Crystal Ore conversion from the Blacksmiths are both 60 Stardust/Resin.

@@ -120,8 +120,7 @@ In the second screenshot below, If I were add back the Omen damage bonus to the 
 
 ## Rosaria's Passive Affects Mona's Alternate Sprint
 
-**By:** Aetherpon
-\#5730  
+**By:** Aetherpon\#5730  
 **Added:** 04/09/2021
 
 **Finding:** Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.

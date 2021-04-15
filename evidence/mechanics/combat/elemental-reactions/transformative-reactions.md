@@ -272,7 +272,7 @@ In addition, like other debuffs/buffs as has been recently discovered, it is aff
 ## Gauge Decay Rates of Hydro and Electro Auras
 
 **By:** Bobrokrot\#0111  
-**Added** 2/4/2021
+**Added:** 2/4/2021
 
 **Theory:**  
 Gauge decay rates are separate for auras of different elements.

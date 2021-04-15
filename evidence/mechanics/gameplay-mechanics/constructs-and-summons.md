@@ -4,9 +4,7 @@
 
 ### Construct Defensive Scaling
 
-**By:** Greyhound
-\#7836 and Aevean Leeow
-\#1362  
+**By:** Greyhound\#7836 and Aevean Leeow\#1362  
 **Added:** 4/11/2021
 
 **Finding:** Confirming construct defensive stats\(HP/DEF/DR/RES\); All stats are taken at a 1:1 ratio \(except skills that state otherwise in description\) and snapshot on cast.

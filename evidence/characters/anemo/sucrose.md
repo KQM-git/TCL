@@ -32,9 +32,9 @@ One more reason to get Sucrose out in the field more often, at least for this us
 
 ## **Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously**
 
-**By Faranight\#0001**
+**By:** Faranight\#0001
 
-**Added 01/26/2021**
+**Added:** 01/26/2021
 
 **Evidence:** [**https://i.imgur.com/jBugRq2.gifv**](https://i.imgur.com/jBugRq2.gifv)
 
@@ -46,9 +46,8 @@ If running these together you should avoid triggering both while holding a spare
 
 ## **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
 
-**By ioannesfifth\#1236**
-
-**Added 01/26/2021**
+**By:** ioannesfifth\#1236
+**Added:** 01/26/2021
 
 **Evidence:**
 
@@ -78,7 +77,7 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 
 ## **Diona's Burst at Constellation 6 Stacks with Sucrose's Passive.**
 
-**By EggsD\#9603 and AngaFundarge\#4044**
+**By:** EggsD\#9603 and AngaFundarge\#4044
 
 **Evidence:**
 

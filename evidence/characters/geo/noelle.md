@@ -2,7 +2,8 @@
 
 ## How does 2NO interact with Noelle Q?
 
-**By:** Kibouo\#1698 Added 12/18/2020
+**By:** Kibouo\#1698  
+**Added:** 12/18/2020
 
 **Hypothesis:**
 

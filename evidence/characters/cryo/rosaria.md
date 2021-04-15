@@ -2,8 +2,7 @@
 
 ## A4 Stacks with External Sources of CRIT
 
-**By:** The Immersive Fish
-\#9373  
+**By:** The Immersive Fish\#9373  
 **Added:** 04/09/2021
 
 **Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.

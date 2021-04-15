@@ -33,7 +33,7 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 
 ### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
 
-**By: Cenpi\#3224**
+**By:** Cenpi\#3224
 
 No, it does not even if you have dealt &gt;80% dmg to the enemy.
 
@@ -41,25 +41,25 @@ No, it does not even if you have dealt &gt;80% dmg to the enemy.
 
 ### **4pc Bloodstained Chivalry effect Persists through a Character Swap**
 
-**By: Cenpi\#3224**
+**By:** Cenpi\#3224
 
 Yes, it does[https://youtu.be/3y4R64qxzOs](https://youtu.be/3y4R64qxzOs)
 
 ### **4pc Bloodstained Chivalry effect doesn’t proc if an Off-Field character takes the Kill**
 
-**By: Cenpi\#3224**
+**By:** Cenpi\#3224
 
 No, it does not.[https://youtu.be/zgyVLeUkFwU](https://youtu.be/zgyVLeUkFwU)
 
 ### **4pc Bloodstained Chivalry effect doesn’t proc if Holder gets a Kill while Off-Field**
 
-**By: Cenpi\#3224**
+**By:** Cenpi\#3224
 
 No, it does not.[https://youtu.be/zaDYictHFTc](https://youtu.be/zaDYictHFTc)
 
 ### **4pc Bloodstained Chivalry effect can be Maintained by Chain Killing Enemies**
 
-**By: HailCorporate\#2970**
+**By:** HailCorporate\#2970
 
 **Finding:**
 
@@ -86,7 +86,7 @@ t=18, buff deactivates
 
 ### **4pc Crimson Witch Effect Works Even When Holder is Off-Field**
 
-**By: Cenpi\#3224 and Boesik\#3192**
+**By:** Cenpi\#3224 and Boesik\#3192
 
 The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persistent skill which triggers a reaction while the pyro user is not on the field, will this 40% bonus apply?
 
@@ -108,7 +108,7 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 
 ### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
 
-**By:RoaringMeow\#2437**
+**By:** RoaringMeow\#2437
 
 **- Is healing bonus applicable to the above mentioned weapon and increase its healing further?**
 
@@ -143,7 +143,7 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 ### **How 4pc Thundering Fury Interacts with Elemental Mastery**
 
-**By: Saizaku\#5569**
+**By:** Saizaku\#5569
 
 **4-set thundering fury gives +40% to damage caused by Overloaded, Electro-Charged, and Superconduct. We know that elemental mastery provides a multiplier to elemental reactions.**
 
@@ -161,7 +161,7 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 ### **4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction**
 
-**By: Cenpi\#3224**
+**By:** Cenpi\#3224
 
 **The 4TF set effect adds 40% additional damage to electro-related reactions. In addition, everytime a reaction is proccd, the E CD is reduced by 1 second \(every 0.8s\).**
 
@@ -178,7 +178,7 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 ### **4pc Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field**
 
-**By: Boesik\#3192, Cenpi\#3224, Lix-\#3417**
+**By:** Boesik\#3192, Cenpi\#3224, Lix-\#3417
 
 In short, yes. The 4 set TF increases reaction damage even if the holder is not on the field.
 
@@ -206,7 +206,7 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 ### **4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction**
 
-**By: Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417**
+**By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
 In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.
 
@@ -235,7 +235,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 
 ### **Frame Analysis of 4pc Thundering Fury and Electro-charged Interactions**
 
-**By: Doug\#8888, ayynish\#5408**
+**By:** Doug\#8888, ayynish\#5408
 
 **Background**
 
@@ -319,7 +319,7 @@ Here is a third example, where we don't rely on Oz as our electro crutch. Tested
 
 ### **4pc Thundersoother's effect Works for Heroes Off-Field**
 
-**By: IlidanNaga\#2163**
+**By:** IlidanNaga\#2163
 
 **Evidence:**
 
@@ -333,7 +333,7 @@ It does work for heroes off screen, can be useful for pure electro dmg parties u
 
 ### **Tiara Status Resist 1-set Effect Applies Even if not Visually Active**
 
-**By: tankex\#4275**
+**By:** tankex\#4275
 
 In this test, we see if the 1 set effect of Tiara is active even when not visually active due to have 2 other concurrent set effects enabled \(eg 2 set Instructor + 2 set Berserker + 1 set Tiara\).
 
@@ -353,7 +353,7 @@ The Tiara status resist 1-set effect applies even when not visually active.
 
 ### **80% Status Resistance is Possible through Tiara**
 
-**By: Tankex\#4275**
+**By:** Tankex\#4275
 
 In this test, we see if the 1 set effect of the Tiara is active in Domains and if its stackable with elemental resonances \(Hydro resonance for this particular test\).
 
@@ -394,7 +394,7 @@ Tiny Miracle is equipped and you don't get RES% buff until after shield is broke
 
 ### **4pc Viridescent Venerer can Simultaneously Stack Different Element Resist Debuffs**
 
-**By: Comfy Seaweed\#3841**
+**By:** Comfy Seaweed\#3841
 
 **Theory:**
 
@@ -424,7 +424,7 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 ### **4pc Viridescent Venerer Explained**
 
-**By: dandandin\#1486**
+**By:** dandandin\#1486
 
 **Theory:**
 
