@@ -229,6 +229,17 @@ Added: 12/7/2020
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
 
+### Primordial Jade-Winged Spear
+**By:** Vye\#9195  
+**Added:** 04/15/2021
+
+**Finding:** PJWS passive can be stacked from elemental skill and burst skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
+
+**Evidence:** [Skill Stacking](https://www.youtube.com/watch?v=TJZL7fOpCFo), 
+[Burst Stacking](https://www.youtube.com/watch?v=W9Pq9CsDg_Q), [Off field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
+
+**Significance:** Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
+
 ### Rust
 
 #### Rust Damage Decrease
