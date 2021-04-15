@@ -69,15 +69,15 @@ Summon a shield that deals damage in a small radius around Noelle.
   * 150% DMG Absorption Efficiency against all damage.
   * Can trigger Crystallize when hitting a target with a element applied to them.
 
-| Type | Talent 6% |  |
-| :--- | :--- | :--- |
-| Base DMG | 168%Def | 24 sec |
-| Healing | 29.79%Def + 163 |  |
-| Healing chance | 55% |  |
-| Shield Scaling | 224%Def + 1219 |  |
-| Duration | 12 sec |  |
-| Cooldown | 24 sec |  |
-| GU | 2 |  |
+| Type | Talent 6% | 
+| :--- | :--- | 
+| Base DMG | 168% DEF | 
+| Healing | 29.79% DEF + 163 |
+| Healing chance | 55% | 
+| Shield Scaling | 224% DEF + 1219 | 
+| Duration | 12 sec | 
+| Cooldown | 24 sec | 
+| GU | 2 | 
 
 * The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
 {% endtab %}
@@ -85,7 +85,7 @@ Summon a shield that deals damage in a small radius around Noelle.
 {% tab title="Sweeping Time" %}
 Noelle infuses her sword with Geo energy greatly increasing the range of her normal attacks.
 
-* Converts her normal attacks from Physical to Geo, this infusion cannot be overridden by other sources.
+* Converts her Normal Attacks from Physical to Geo, this infusion cannot be overridden by other sources.
 * Converts Noelle’s current total Def into Atk at a rate decided by talent level.
 * The skill and burst damage values apply to the first two hits in the animation when activating burst.
 
@@ -102,7 +102,8 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 | Frames | 111 |
 
 * The bonus Def conversion from C6 is additive i.e. it takes the bonus from 56% to 106% at talent level 6.
-* The Def to Atk conversion is snapshotted when you activate burst so any changes to Def after burst is used will not increase Atk.
+* The Def to Atk conversion is snapshotted when you activate burst so any changes to Def after burst is used will not affect Atk.
+* The two activation damage instances can proc the healing effect from Breastplate.
 {% endtab %}
 {% endtabs %}
 
@@ -118,17 +119,17 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 {% tab title="Ascension 1" %}
 ### Devotion
 
-When Noelle is in the party but not on field, this ability triggers automatically when you active character’s HP falls below 30%.
+When Noelle is in the party but not on field, this ability triggers automatically when your active character’s HP falls below 30%.
 
-* Creates a shield for you active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.
-* This shield  has a 150% DMG absorption effectiveness against all damage.
+* Creates a shield for your active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.
+* This shield has a 150% DMG absorption effectiveness against all damage.
 * This effect can only occur once every 60s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Nice and clean
 
-Every 4 normal attack or Charged Attack hits will decrease the CD of Breastplate by 1s.
+Every 4 Normal Attack or Charged Attack hits will decrease the CD of Breastplate by 1s.
 
 * Hitting multiple opponents with a single attack is only counted as one hit.
 {% endtab %}
@@ -148,11 +149,11 @@ While Sweeping time and Breastplate are both in effect, the chance of Breastplat
 
 Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
-This is a additive %DMG bonus.
+This is an additive %DMG bonus.
 {% endtab %}
 
 {% tab title="C3" %}
-### Invunerable Maid
+### Invulnerable Maid
 
 Increases the level of Breastplate by 3.
 {% endtab %}
@@ -164,9 +165,9 @@ When Breastplate’s duration expires or it is destroyed, it will deal 400% ATK 
 {% endtab %}
 
 {% tab title="C5" %}
-### True Explorer
+### Favonius Sweeper Master
 
-Increases the Level of Sweeing Time by 3.
+Increases the Level of Sweeping Time by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -257,7 +258,7 @@ Due to Sweeping time snapshotting, the full bonus from Def will not be gained un
 {% tab title="Dragonstrike" %}
 {% embed url="https://www.youtube.com/watch?v=ef8McW6VD4A" caption="with anemo resonance" %}
 
-Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D. However, it's difficult to perform Noelle DS without movement speed buffs.
+Performing Dragonstrike on Noelle via N1 + plunge nets an average of a 27% increase in DPS compared to N3D. However, it's difficult to perform Noelle DS without movement speed buffs.
 {% endtab %}
 {% endtabs %}
 
