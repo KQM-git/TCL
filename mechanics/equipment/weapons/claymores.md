@@ -556,9 +556,7 @@ By: [EternalDream\#5503 ](../../../evidence/mechanics/equipment/weapons.md#attac
 Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, the charged attack will have an attack speed increase for its entire duration when buffed, even if said buff wears off during charged attack.
 
 * [https://streamable.com/i6m53s](https://streamable.com/i6m53s)
-* \[[https://streamable.com/uff6qb](https://streamable.com/uff6qb)
-
-  \]\([https://streamable.com/uff6qb ](https://streamable.com/uff6qb%20)\)
+* [https://streamable.com/uff6qb](https://streamable.com/uff6qb)
 
 ## External Links
 
