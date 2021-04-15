@@ -2,8 +2,8 @@
 
 ## A4 Stacks with External Sources of CRIT
 
-By: The Immersive Fish\#9373  
-Added: 04/09/2021
+**By:** The Immersive Fish\#9373  
+**Added:** 04/09/2021
 
 **Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.
 
@@ -11,13 +11,17 @@ This has been tested to work with Hu Tao's A1 and Geo MC's C1.
 
 **Evidence:** [https://youtu.be/TmSbqoUg0k0](https://youtu.be/TmSbqoUg0k0)
 
-```python
-Diona      : 29.9%
+{% tabs %}
+{% tab title="Stats" %}
+
+Diona      : 29.9%  
 Rosaria A4 : + 8.8%
 
-Diona w/Rosaria A4 : 38.7%
-Diona w/Hu Tao A1  : 41.9%
-```
+Diona w/ Rosaria A4 : 38.7%  
+Diona w/ Hu Tao A1  : 41.9%
+
+{% endtab %}
+{% endtabs %}
 
 While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao. 
 
