@@ -230,26 +230,32 @@ Popping shield before burst guarantees two heal instances while invulnerable.
 
 {% tabs %}
 {% tab title="Calculations" %}
-Expected damage before C2 using SS: ((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 = 450.29
 
-Damage if 15% is additive: ((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31, matches with 502 with slight error
+Expected damage before C2 using SS:  
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 = 450.29
 
-Damage if 15% is multiplicative: ((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82, doesn't match
+Damage if 15% is additive:  
+((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31, matches with 502 with slight error
 
-Damage if 15% is added to talent mv: ((191 + 510) + (490)) × (1.15) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 = 517.82, doesn't match. Value being equal to multiplicative is a coincidence
+Damage if 15% is multiplicative:  
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82, doesn't match
+
+Damage if 15% is added to talent mv:  
+((191 + 510) + (490)) × (1.15) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 = 517.82, doesn't match. Value being equal to multiplicative is a coincidence
 {% endtab %}
 {% tab title="Stats" %}
-Noelle stats:
-Level 90
-191 base atk, 510 weapon atk, 490 arti atk
-C6, lv10 AA (100% mv on spin)
-SS r2 5 stacks (+35%)
-83.4% CD, 100% CR = crit multiplier of 1.834
+
+Noelle stats:  
+* Level 90  
+* 191 base atk, 510 weapon atk, 490 arti atk  
+* C6, lv10 AA (100% mv on spin)  
+* SS r2 5 stacks (+35%)  
+* 83.4% CD, 100% CR = crit multiplier of 1.834
 
 Enemy stats:
-Level 83
-70% physical res
-(90 + 100) / (90 + 83 + 200) = 0.509 defense multiplier
+* Level 83
+* 70% physical res
+* (90 + 100) / (90 + 83 + 200) = 0.509 defense multiplier
 {% endtab %}
 {% endtabs %}
 
