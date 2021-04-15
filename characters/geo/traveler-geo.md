@@ -26,7 +26,8 @@ description: >-
 
 {% tabs %}
 {% tab title="Foreign Rockblade Lumine" %}
-Attacks Perform up to 5 rapid strikes.
+**Normal Attacks**  
+Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
@@ -60,7 +61,8 @@ If performing a Jump and coming into contact with certain enemies Aether can gai
 {% endtab %}
 
 {% tab title="Foreign Rockblade Aether" %}
-Attacks Perform up to 5 rapid strikes.
+**Normal Attacks**  
+Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
@@ -166,7 +168,6 @@ Party members within the radius of Wake of Earth have their Crit Rate increased 
 When the meteorite created by Starfell Sword is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.
 
 * If a meteorite is destroyed immediately after summoning this will not activate.
-* Summoning on a flower from Albedo will allow this to activate contrary to the above rule.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -218,7 +219,8 @@ The meteorite created by Starfell Sword lasts 10s longer.
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
-| Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
+| Lumine Charged Attack 2 DMG | 105 | 114.24 | 123.48 | 132.72 | 142.80 | 152.88 |
+| Aether Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
 
 **Stamina Cost**: 20
 
