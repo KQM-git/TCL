@@ -89,9 +89,10 @@
   * [Artifacts](mechanics/equipment/artifacts.md)
   * [Food](mechanics/equipment/food.md)
 * [Enemies](mechanics/enemies/README.md)
-  * [Enemy Elemental Gauge](mechanics/enemies/enemy-elemental-gauge.md)
-  * [Enemy Shields](mechanics/enemies/enemy-shields.md)
   * [Enemy Attributes](mechanics/enemies/enemy-attributes.md)
+  * [Enemy Elemental Gauge](mechanics/enemies/enemy-elemental-gauge.md)
+  * [Enemy Resistances](mechanics/enemies/enemy-resistances.md)
+  * [Enemy Shields](mechanics/enemies/enemy-shields.md)
 
 ## Fluff
 
