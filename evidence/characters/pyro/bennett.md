@@ -107,3 +107,14 @@ Calculations: [https://imgur.com/vqoYUBH](https://imgur.com/vqoYUBH) Stats Page:
 **Significance:**  
 For Bennett Main DPS, Bennett himself will buff his own Q.
 
+## Bennett Burst Coop Mechanics
+
+**By**: Crow \| WL8\#1761  
+**Added**: 4/15/2021
+
+**Finding:** Bennett's attack buff prioritizes the burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+
+**Evidence:** [https://youtu.be/ooYtsZhYUxc](https://youtu.be/ooYtsZhYUxc)
+
+**Significance:** In the case of coop with multiple Bennetts, be sure to time your bursts so that the Bennett that applies the highest attack buff places their field first.
+
