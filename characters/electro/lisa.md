@@ -83,6 +83,9 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Holding CD | 16s | ~ | ~ |
 | Press GU | 1A | ~ | ~ |
 | Hold GU | 2B | ~ | ~ |
+
+* The Lightning orb bounces to nearby targets with the small AoE spreading stacks each bounce
+* This means in tight enough groups, it can apply all 3 stacks in a single Press E
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
