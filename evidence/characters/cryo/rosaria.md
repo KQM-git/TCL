@@ -2,7 +2,8 @@
 
 ## A4 Stacks with External Sources of CRIT
 
-By: The Immersive Fish\#9373  
+By: The Immersive Fish
+\#9373  
 Added: 04/09/2021
 
 **Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.
@@ -30,3 +31,13 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 * Rosaria's crit bonus from her A1 is included in her [A4 crit sharing](https://imgur.com/Gvmc6pN)
 * Rosaria's A1 crit bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
 
+## Rosaria's C6 Debuff Refreshes on hit
+
+**By:** Zendaju\#3064  
+**Added:** 04/15/2021
+
+**Finding:** Rosaria's Ultimate Debuff lasts more than 10 sec.
+
+**Evidence:** [Video](https://cdn.discordapp.com/attachments/831212714416144434/831214571913347112/Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
+
+**Significance:** The physical debuff that Rosaria provides last until the last tick of her ultimate, making it more than 10 seg on the debuff.
