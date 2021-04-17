@@ -1,10 +1,10 @@
 ---
 description: >-
-  An explanation as to how different type of Enemy Shields function as well as
-  the most efficient way to deal with them.
+  An explanation as to how different type of Enemy Shields and Armor function as
+  well as the most efficient way to deal with them.
 ---
 
-# Enemy Shields
+# Enemy Shields and Armor
 
 ## Introduction
 
@@ -97,7 +97,7 @@ C=Numbers of Cicin alive.**
 
 **Elemental Armor** is the type of shield that protects mobs such as **Stonehide Lawachurl, Fatui, Geo Slimes, and Regisvine bosses.**
 
-One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy has increased resistances while armored so your damage will be significantly lower.
+One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy has 95% universal damage resistance while armored so your damage will be significantly lower.
 
 ![](../../.gitbook/assets/zhongli_vs_fatui.png)
 
