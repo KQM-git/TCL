@@ -8,7 +8,7 @@ Energy is the resource that allows you to cast elemental bursts.
 
 ### Elemental Skills
 
-If an elemental skill damages an enemy, **elemental energy particles** will be generated. For details on how much energy specific skills generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
+If an elemental skill hits an enemy, **elemental energy particles** will be generated. For details on how much energy specific skills/characters generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
 
 ### Auto Attacking
 
@@ -18,17 +18,17 @@ This flat energy is only gained by the character on-field, off-field characters 
 
 ### Enemy HP Thresholds
 
-Every enemy has specific HP thresholds where once they lose enough HP, they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table ](https://docs.google.com/spreadsheets/d/1kNDfwtTLuGUMtFoScvKOQbOIoYISfBEWbref_XQVd7U/edit?usp=sharing)has both the estimated thresholds and a built in enemy HP calculator.
+Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1kNDfwtTLuGUMtFoScvKOQbOIoYISfBEWbref_XQVd7U/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
 
 ### Weapons
 
 #### Favonius Series
 
-A **clear energy orb** is created when the passive procs. Refines only change the frequency of orbs produced.
+**3 clear energy particles** are created when the passive procs. Refinements only change the frequency of orbs produced.
 
 #### Prototype Amber
 
-**Flat energy** based on the refine rank is given **only to the wielder** of Prototype Amber when the passive is activated.
+**Flat energy** based on the refinement rank is given **only to the wielder** of Prototype Amber when the passive is activated.
 
 ### Artifacts
 
@@ -44,9 +44,9 @@ Energy that goes straight into a character's burst meter, this energy is **not a
 
 ![](../../../.gitbook/assets/geoparticle.png) Geo Elemental Energy Particle **VS** ![](../../../.gitbook/assets/geoorb.png) Geo Elemental Energy Orb
 
-Energy Particles can be gained from elemental skills or hitting certain enemy HP thresholds. Energy Orbs are only dropped whenever a specific enemy HP threshold is reached.
+Energy Particles can be gained from elemental skills or hitting certain enemy HP thresholds. Energy Orbs are only dropped from reaching specific enemy HP thresholds.
 
-Orbs give **three times** the amount of energy as particles do. At base, a particle is equivalent to 1 energy.
+Orbs give **three times** the amount of energy as particles do. At base, a particle is equivalent to 1 energy. 
 
 ### Elemental vs Clear
 
@@ -54,9 +54,9 @@ Orbs give **three times** the amount of energy as particles do. At base, a parti
 
 Both energy particles and orbs have elemental variants for all available elements in the game and a clear variant. While elemental particles/orbs are gained through both skills and HP thresholds, clear particles/orbs can't be gained from elemental skills.
 
-If a unit receives an elemental particle/orb that is the same element as them, they will gain **three times** the amount of energy compared to if they received elemental energy of a different element.
+If a unit receives an elemental particle/orb of their element, they will gain **three times** more energy than that of a different element.
 
-Clear particles/orbs give **two times** the amount of energy compared to gaining elemental energy of a different element from themselves.
+Clear particles/orbs give **two times** more energy than that of a different element than the unit's element.
 
 ### Off-field vs On-field
 
