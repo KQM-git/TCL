@@ -114,13 +114,13 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 {% tab title="Ascension 1" %}
 ### Roiling Rime
 
-If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Lightfall Sword Remnant will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination.
+If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword** Remnant will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Wellspring of War-Lust
 
-When Eula's Normal Attacks score CRIT Hits, Icetide Vortex's CD will be decreased by 0.3s. This effect can only occur once every 10s.
+When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart.**
 {% endtab %}
 {% endtabs %}
 
@@ -128,11 +128,15 @@ When Eula's Normal Attacks score CRIT Hits, Icetide Vortex's CD will be decrease
 
 {% tabs %}
 {% tab title="C1" %}
+### Tidal Illusion
 
+Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
 {% endtab %}
 
 {% tab title="C2" %}
+### Lady of Seafoam
 
+Decreases the CD of **Icetide Vortex**'s Hold Variant, rendering it identical to its Press CD.
 {% endtab %}
 
 {% tab title="C3" %}
