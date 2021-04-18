@@ -5,7 +5,7 @@
 **By:** BowlSoldier\#3528  
 **Added:** 12/6/2020
 
-**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](https://github.com/Artesians/TCL/tree/51a02d196d5ac231e4fed8d69b93d3d8111f9891/evidence/characters/hydro/xingqiu/README.md#xingqiu-c6-3rd-wave-applies-hydro-twice)
+**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](#xingqiu-c6-3rd-wave-applies-hydro-twice)
 
 **Finding:**
 
