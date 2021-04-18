@@ -109,6 +109,8 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 | Ice Shard GU | 1A |
 | Energy Cost | 60 |
 | Frames |  |
+
+* If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
 {% endtab %}
 {% endtabs %}
 

@@ -3,7 +3,7 @@
 ## **Xiao Mastersheet V2.0**
 
 Xiao Mastersheet V2.0  
-By: Pichu\#0002 & shdwbld\#8103
+**By:** Pichu\#0002 & shdwbld\#8103
 
 **Guide**
 
@@ -13,7 +13,7 @@ By: Pichu\#0002 & shdwbld\#8103
 
 ## **N1JCP Low/High Plunge Threshold**
 
-By: Artesian\#0002  
+**By:** Artesian\#0002  
 **Finding:**
 
 \_\*\*\_The difference between initiating a low plunge from the jet combo \(N1CJP\) is literally 1 frame of input. At 8 frames between your jump and your plunge input, you do a low plunge, but if you wait 9 frames, you will do a high plunge.
@@ -28,7 +28,7 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 
 ## **Venti’s Ult and Plunges**
 
-By: RIBCAGED\#7071  
+**By:** RIBCAGED\#7071  
 **Findings:**
 
 Xiao’s plunge does not hit enemies within venti’s ult. When it does it’s when the enemies hit the floor.[ ](https://imgur.com/a/QpaSIns)
@@ -43,8 +43,8 @@ Players should try to time Xiao’s ult to when an enemy hits the floor so the e
 
 ## **Weapons Ranking**
 
-**By: cola\#6861  
-Finding:**
+**By:** cola\#6861  
+**Finding:**
 
 Xiao DPS Weapons Ranking using Artifact Drop Data / Weighted Substat Distribution
 
@@ -58,8 +58,8 @@ In this comparison, PJWS &gt; Homa, and Deathmatch roughly = Royal Spear. Blackc
 
 ## **Xiao Talent Priority**
 
-**By: Fluffy\#5580  
-Finding:**
+**By:** Fluffy\#5580  
+**Finding:**
 
 For C0-5 Xiao, the optimal talent priority for both the N1CJP and HP spam combos is AA&gt;Q&gt;E.
 
@@ -73,8 +73,8 @@ Based on the table produced, we can see the optimal general order for talent lev
 
 ## **DPS increase with Talents/Levels**
 
-**By: shdwbld\#8103 & HailCorporate\#2970  
-Findings:**
+**By:** shdwbld\#8103 & HailCorporate\#2970  
+**Finding:**
 
 DMG increase for going up 10 levels from 70, 80. 90
 

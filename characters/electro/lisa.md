@@ -83,6 +83,9 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Holding CD | 16s | ~ | ~ |
 | Press GU | 1A | ~ | ~ |
 | Hold GU | 2B | ~ | ~ |
+
+* The Lightning orb bounces to nearby targets with the small AoE spreading stacks each bounce
+  * This means in tight enough groups, it can apply all 3 stacks in a single Press E
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
@@ -129,6 +132,9 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 ## Infinite Circuit
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
+
+* This applies to both the Hold E and Press E variants
+* This summons a single particle that only provides energy if Lisa is on field 
 {% endtab %}
 
 {% tab title="C2" %}

@@ -2,7 +2,8 @@
 
 ## How does 2NO interact with Noelle Q?
 
-By: Kibouo\#1698 Added 12/18/2020
+**By:** Kibouo\#1698  
+**Added:** 12/18/2020
 
 **Hypothesis:**
 
@@ -18,7 +19,7 @@ By: Kibouo\#1698 Added 12/18/2020
 
 ## How does Noelle’s Elemental burst interact with temporary defence buffs?
 
-By: JonahFarc\#7056 and Midori\#2173
+**By:** JonahFarc\#7056 and Midori\#2173
 
 **Finding:** Noelle's Elemental Burst snapshots the current defence value at the time of activation for the ATK increase.
 
@@ -32,7 +33,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** It takes the ATK value when it breaks.
 
@@ -44,7 +45,7 @@ By: JonahFarc\#7056
 
 ## How does Sacrificial Greatsword work with Noelle?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
@@ -54,7 +55,8 @@ By: JonahFarc\#7056
 
 ## Maidstrike vs N3D \(Dragonstrike\)
 
-By: sakuno\#7950 Added: 03/22/2021
+**By:** sakuno\#7950  
+**Added:** 03/22/2021
 
 **Theory:**
 
@@ -221,7 +223,7 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 ## Noelle's Spin Damage on C2 is Additive
 
-**By**: pikachusurprised\#6934  
+**By**: pikachusurprised \#6934  
 **Added**: 4/16/2021
 
 **Finding:** The 15% spin damage bonus on C2 behaves like most other dmg% sources, meaning it is additive and goes into the formula as \(1 + dmg%\).
@@ -239,13 +241,13 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 **Damage if 15% is additive:** matches with 502 with a slight error
 
 ```python
-((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31 
+((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31
 ```
 
 **Damage if 15% is multiplicative:** doesn't match
 
 ```python
-((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82 
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82
 ```
 
 **Damage if 15% is added to talent MV:** doesn't match. Value being equal to multiplicative is a coincidence

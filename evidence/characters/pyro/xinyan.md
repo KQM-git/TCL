@@ -2,7 +2,7 @@
 
 ## Xinyan's Burst Procs Sac GS with C2
 
-By: Neptunya\#8291
+**By:** Neptunya\#8291
 
 **Finding:** The shield C2 Xinyan creates on burst can proc Sac GS's passive.
 

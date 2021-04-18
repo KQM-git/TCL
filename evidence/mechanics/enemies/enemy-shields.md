@@ -2,8 +2,8 @@
 
 ## Breaking Childe's Shield with Stagger
 
-By: Iron IV\#3832 and exyeboy69\#3215   
-Added: 04/05/2021
+**By:** Iron IV\#3832 and exyeboy69\#3215  
+**Added:** 04/05/2021
 
 **Theory:** Childe's shield is broken through poise damage rather than raw damage.
 

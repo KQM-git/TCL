@@ -160,6 +160,8 @@ Increases the level of Rites of Termination by 3.
 ### Divine Retribution
 
 Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
+
+* This effect can also be triggered by the lance DoT
 {% endtab %}
 {% endtabs %}
 

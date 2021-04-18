@@ -2,7 +2,7 @@
 
 ## Multiple E Skill Resonance Can Hit 1 Target
 
-By: The CEO of GEO\#7227
+**By:** The CEO of GEO\#7227
 
 **Findings:** Resonating Geo Constructs with overlapping AoEs will multi-hit enemies
 
@@ -12,8 +12,8 @@ By: The CEO of GEO\#7227
 
 ## Twins CA MVs Comparison
 
-By: Fluffy\#5580   
-Added: 04/10/2021
+**By:** Fluffy\#5580  
+**Added:** 04/10/2021
 
 **Theory:** Lumine is better than Aether because her CA 2nd hit multiplier is higher.
 
