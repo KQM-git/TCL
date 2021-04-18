@@ -84,8 +84,16 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Press GU | 1A | ~ | ~ |
 | Hold GU | 2B | ~ | ~ |
 
-* The Lightning orb bounces to nearby targets with the small AoE spreading stacks each bounce
+* The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E
+* The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
+  * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage.
+  * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
+  * Its hitbox can clip through the terrain, allowing it to connect with enemies that are out of Lisa's direct Line of Sight.
+* Lisa can Utilize Pyro/Cryo with her Press E variant of **Violet Arc** to Stack Conductive Stacks
+  * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack
+  * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 Conductive stacks and will radiate 2 stacks to nearby opponents. 
+  * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
 {% endtab %}
 
 {% tab title="Lightning Rose" %}

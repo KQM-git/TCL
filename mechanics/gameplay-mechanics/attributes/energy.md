@@ -46,7 +46,7 @@ Energy that goes straight into a character's burst meter, this energy is **not a
 
 Energy Particles can be gained from elemental skills or hitting certain enemy HP thresholds. Energy Orbs are only dropped from reaching specific enemy HP thresholds.
 
-Orbs give **three times** the amount of energy as particles do. At base, a particle is equivalent to 1 energy. 
+Orbs give **three times** the amount of energy as particles do. At base, a particle is equivalent to 1 energy.
 
 ### Elemental vs Clear
 
@@ -87,6 +87,4 @@ Energy Recharge is the multiplier that modifies how much energy is gained from t
 * Pinupski\#9999
 
 {% page-ref page="../../../evidence/mechanics/gameplay-mechanics/attributes/energy.md" %}
-
-
 
