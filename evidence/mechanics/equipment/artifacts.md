@@ -151,11 +151,11 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 **Data:**
 
-![](https://github.com/Artesians/TCL/tree/e3ee76d46395de742d3916d7ee8b2e469450690a/.gitbook/assets/data.png)
+![](../../../.gitbook/assets/data.png)
 
 **Result:**
 
-![](https://github.com/Artesians/TCL/tree/e3ee76d46395de742d3916d7ee8b2e469450690a/.gitbook/assets/result.png)
+![](../../../.gitbook/assets/result.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 

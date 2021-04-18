@@ -633,12 +633,6 @@ User Yicc collected footage of Ganyu weaving auto attacks in between frost flake
 
 [\[video\] M1 CA spam animation cancel](https://youtu.be/mJgnJWLrCJg)
 
-&gt;&gt;&gt;&gt;&gt; gd2md-html alert: inline image link here \(to images/image2.png\). Store image on your image server and adjust path/filename/extension if necessary.  
-\([Back to top](ganyu.md)\)\([Next alert](ganyu.md#gdcalert3)\)  
-&gt;&gt;&gt;&gt;&gt;
-
-![image\_tooltip](https://github.com/Artesians/TCL/tree/976d8c2cfad18ec62a798e54eb6afae981f54713/evidence/characters/cryo/images/image2.png)
-
 **Significance:**
 
 With this in mind we now know that Xingqiu is a very viable hydro applicator for Ganyu freeze comp due to the ability to weave auto attacks in between regular frost flake arrows with minimal DPS loss. Although the DPS loss is there overall for players who do not own a Mona, Xingqiu shows to be a very viable alternative.
