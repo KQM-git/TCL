@@ -20,6 +20,9 @@ In the 'Mass' clip, one of the five Hilichurls only gained 1 Stack due to it ali
 
 ## Lisa C1 Explanation
 
+**By:** ArchedNosi\#1484  
+**Added:** 04/15/2021
+
 **Finding:** Lisa's C1 Miscommunication
 
 Lisa's C1 has a false and misleading description. "Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time."
