@@ -499,7 +499,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 
 **Finding:** Ganyu's ultimate cannot be duplicated or have 2 on the field at the same time
 
-**Evidence:**
+**Evidence:** [Youtube](https://youtu.be/DhojXoaJfLU)
 
 1. Slap on massive CDR via Chong's C2, Anemo Resonance, and a -20% CDR abyss card
 2. Ult repeatedly off cooldown
@@ -507,8 +507,6 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 * Test whether casting inside her ultimate allows it to coexist
 * Test whether casting outside of her ultimate field, but have the 2nd one overlap the ultimate, allows it to coexist
 * Test whether casting completely outside her ultimate field allows it to coexist
-
-[Youtube](https://www.youtube.com/watch?v=DhojXoaJfLU&feature=youtu.be)
 
 **Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her burst again.
 
