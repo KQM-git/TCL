@@ -2,7 +2,7 @@
 
 ## Jean's C4 verticality
 
-**By:** Special\#1775  
+**By:** Special\#1775
 <br/>**Added:** 11/24/2020
 
 **Findings:**
@@ -37,7 +37,7 @@ Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 
 
 ## Fall Damage Basis from Gale Blade
 
-**By:** Wrax\#7777  
+**By:** Wrax\#7777
 <br/>**Added:** 12/1/2020
 
 **Theory:**
@@ -72,7 +72,7 @@ I believe that the large gap in damage is sufficient evidence to claim that the 
 
 ## Continuous Self-Swirl and Cleanse
 
-**By:** KDacus\#2865  
+**By:** KDacus\#2865
 <br/>**Added:** 3/21/2021
 
 **Findings:**
