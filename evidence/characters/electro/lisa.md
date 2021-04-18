@@ -1,6 +1,6 @@
 # Lisa
 
-## Lisa's Press E bounces
+## Lisa's Press E Bounces
 
 **By:** ArchedNosi\#1484  
 **Added:** 04/15/2021
