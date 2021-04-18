@@ -2,7 +2,7 @@
 
 ## Bush Droprates
 
-**By:** gideleon1\#2188   
+**By:** gideleon1\#2188  
 **Added:** 04/11/2021
 
 **Finding:** There is an 8% chance to get something from a broken bush.
@@ -17,7 +17,7 @@ It seems like the drop is chosen randomly. Testing was done during the day, beca
 
 **Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
 
-I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results. 
+I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results.
 
 **Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
 

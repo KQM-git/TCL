@@ -223,7 +223,7 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 ## Noelle's Spin Damage on C2 is Additive
 
-**By**: pikachusurprised\#6934  
+**By**: pikachusurprised \#6934  
 **Added**: 4/16/2021
 
 **Finding:** The 15% spin damage bonus on C2 behaves like most other dmg% sources, meaning it is additive and goes into the formula as \(1 + dmg%\).
@@ -241,13 +241,13 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 **Damage if 15% is additive:** matches with 502 with a slight error
 
 ```python
-((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31 
+((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31
 ```
 
 **Damage if 15% is multiplicative:** doesn't match
 
 ```python
-((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82 
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82
 ```
 
 **Damage if 15% is added to talent MV:** doesn't match. Value being equal to multiplicative is a coincidence

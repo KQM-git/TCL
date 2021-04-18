@@ -56,7 +56,7 @@ Certain material items can be destroyed, but they don't give anything when destr
 
 **By:** [Mateng\#4507](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
 
-Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. 
+Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 
 * Exp Leyline: 65.33 Stardust/Resin
 * Mora Leyline: 60 Stardust/Resin
@@ -65,6 +65,4 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
-
-
 

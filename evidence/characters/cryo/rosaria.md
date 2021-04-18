@@ -19,7 +19,7 @@ Diona w/Rosaria A4 : 38.7%
 Diona w/Hu Tao A1  : 41.9%
 ```
 
-While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao. 
+While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao.
 
 **Significance:** This confirms that anything which influences a characters crit stats found in the details tab will influence the Crit Sharing which Rosaria offers
 

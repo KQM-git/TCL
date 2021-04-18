@@ -46,8 +46,7 @@ If running these together you should avoid triggering both while holding a spare
 
 ## **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
 
-**By:** ioannesfifth\#1236
-**Added:** 01/26/2021
+**By:** ioannesfifth\#1236 **Added:** 01/26/2021
 
 **Evidence:**
 

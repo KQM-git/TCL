@@ -5,7 +5,7 @@
 **By:** BowlSoldier\#3528  
 **Added:** 12/6/2020
 
-**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](#xingqiu-c6-3rd-wave-applies-hydro-twice)
+**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](xingqiu.md#xingqiu-c6-3rd-wave-applies-hydro-twice)
 
 **Finding:**
 
@@ -23,7 +23,7 @@ There are some videos taken before 1.1 where the swords in each wave each seemed
 
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
-**By:** gacha4life\#2525   
+**By:** gacha4life\#2525  
 **Added:** 03/17/2021
 
 **Evidence:**
@@ -91,7 +91,7 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 
 ## Xingqiu E Dash Cancel Animation
 
-**By:** Charliex3000\#9403   
+**By:** Charliex3000\#9403  
 **Added:** 03/18/2021
 
 **Finding:**
@@ -110,7 +110,7 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 ## Xingqiu Sword Rain "Buffering"
 
-**By:** Charliex3000\#9403   
+**By:** Charliex3000\#9403  
 **Added:** 03/21/2021
 
 **Theory/Finding/Bug:**
@@ -135,7 +135,7 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Finding:** After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of hydro particles disappear\).
 
-**Evidence:** 
+**Evidence:**
 
 * [Vid 1](https://youtu.be/3UBplhXNPdc): I used XQ's burst here. Video was left to play a bit longer to show elemental aura gauge unit for "invisible" hydro aura \(it is 1A\).
 * [Vid 2](https://youtu.be/sxnnMq8ljKE): I used XQ's skill here. Same "invisible" hydro aura is observed as with his burst.

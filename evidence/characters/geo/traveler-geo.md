@@ -12,7 +12,7 @@
 
 ## Twins CA MVs Comparison
 
-**By:** Fluffy\#5580   
+**By:** Fluffy\#5580  
 **Added:** 04/10/2021
 
 **Theory:** Lumine is better than Aether because her CA 2nd hit multiplier is higher.

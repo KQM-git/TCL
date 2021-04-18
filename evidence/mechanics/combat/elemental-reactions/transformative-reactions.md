@@ -528,7 +528,7 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **Finding:** Crystallizing an Electro-Charged enemy always results in an Electro crystal.
 
-**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY) 
+**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY)
 
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 

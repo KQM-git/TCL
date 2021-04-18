@@ -69,7 +69,7 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 
 ## Diona's Shield Deep-Dive
 
-**By:** EggsD\#9603   
+**By:** EggsD\#9603  
 **Added:** 04/05/2021
 
 **Finding:** Detailed description and rundown of Diona's Icy Paws Shield. Which includes...
@@ -83,12 +83,12 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 * sacrificial bow stacking potential
 * infinity shield strategy
 
-**Evidence:** 
+**Evidence:**
 
 * [Google Doc](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 * [Video](https://youtu.be/gLZYAy3GBLc)
 
-**Significance:** 
+**Significance:**
 
 * Noted especially with how Diona shield works with Sacrificial Bow. 
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 

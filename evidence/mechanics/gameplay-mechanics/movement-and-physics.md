@@ -30,7 +30,7 @@ Addded: 04/05/2021
 * [Short Distance](https://youtu.be/oJH8cS1SnRY)
 * [Long Distance](https://youtu.be/ySDRLkYP8sk)
 
-**Significance:** 
+**Significance:**
 
 The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming. For long-distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from thereon.
 

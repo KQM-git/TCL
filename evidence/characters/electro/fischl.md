@@ -311,7 +311,7 @@ Blizzard Strayer is applied off-field on abilities like XQ Q.
 **By:** muakasan\#2792  
 **Added:** 04/05/2021
 
-**Finding:** 
+**Finding:**
 
 Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer.
 

@@ -788,8 +788,7 @@ When building teams it is important to understand the viability/potential use of
 
 ### **Ganyu’s Constellation 1 cryo shred stacks with Zhongli’s shred post-1.3**
 
-**By:** \(Kaihaoken\#0001\)
-**Added:** 02/10/2021
+**By:** \(Kaihaoken\#0001\) **Added:** 02/10/2021
 
 **Finding:**
 
@@ -850,8 +849,7 @@ In practice when using the Prototype Crescent it is very possible to accidentall
 
 ### **Ganyu’s ascension 4 passive does not stack in multiplayer**
 
-**By:** \(Moonrobin\#2608\) \(PlzBemaiPenguin\#0923\)
-**Added:** 01/31/2021
+**By:** \(Moonrobin\#2608\) \(PlzBemaiPenguin\#0923\) **Added:** 01/31/2021
 
 **Finding:**
 
@@ -886,7 +884,7 @@ Ganyu is a decent character when attempting to travel across water as her Frostf
 
 ### Unlimited Ganyu Works
 
-**By:** Pinupski\#9999   
+**By:** Pinupski\#9999  
 **Added:** 04/05/2021
 
 The culmination of all Ganyu macro-related testing and iteration since release. Now compiled into one mostly comprehensible document.

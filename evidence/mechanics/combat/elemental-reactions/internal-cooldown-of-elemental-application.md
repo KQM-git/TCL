@@ -1,6 +1,6 @@
 # Internal Cooldown of Elemental Application
 
-## **Frame Data of Strings for ICD** 
+## **Frame Data of Strings for ICD**
 
 **By:** Artesians  
 Submitted: 2/26/2021
@@ -11,11 +11,7 @@ Submitted: 2/26/2021
 
 **By:** LACola, Boesik
 
-{% embed url="https://www.youtube.com/watch?v=Tvv3b3DIabs" %}
+{% embed url="https://www.youtube.com/watch?v=Tvv3b3DIabs" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=77vQGb5CQjA" %}
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=77vQGb5CQjA" caption="" %}
 

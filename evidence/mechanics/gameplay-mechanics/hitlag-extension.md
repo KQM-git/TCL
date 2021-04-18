@@ -1,6 +1,6 @@
 # Hitlag Extension
 
-#### Hitlag Extends Elemental Aura Duration  <a id="docs-internal-guid-116d1688-7fff-1539-a82f-c218e3de996c"></a>
+## Hitlag Extends Elemental Aura Duration <a id="docs-internal-guid-116d1688-7fff-1539-a82f-c218e3de996c"></a>
 
 **By:** BowlSoldier\#3528
 
@@ -9,7 +9,7 @@ Elemental Aura durations are affected by hitlag, much like any other enemy debuf
 
 **Evidence:**
 
-[https://youtu.be/KaqUOpoGiSk](https://youtu.be/KaqUOpoGiSk) 
+[https://youtu.be/KaqUOpoGiSk](https://youtu.be/KaqUOpoGiSk)
 
 In the first example in the video, there is no hitlag. The Electro aura lasts for 566 frames, or 9.43 seconds.
 
