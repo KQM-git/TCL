@@ -11,6 +11,9 @@
 | Eagle Spear of Justice | On hit, increases ATK by **3.2/3.9/4.6/5.3/6**% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12/15/18/21/24**%. |
 | Base ATK | 48 - 674 |
 | Crit Rate% | 4.8% - 22.1% |
+
+* PJWS passive can be stacked from elemental skill and burst skill hits on an enemy.  - [Vye\#9195](../../../evidence/mechanics/equipment/weapons.md#pjws-on-hit-definision)
+  * The "on hit" portion of the passive does not refer to normal attack hits alone.
 {% endtab %}
 
 {% tab title="Details" %}
