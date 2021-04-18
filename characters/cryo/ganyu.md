@@ -100,7 +100,6 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 * The **Sacred Cryo Pearl** will drop a shard **on a random enemy within the field that has not been targeted by a shard in the last 4** **Ice Shards**.
 * If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
 * Ganyu's icicles are subject to [internal cooldown](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
-* If under the effect of cooldown reduction this skill will remove the existing field when casting the new one if cast before the duration of the existing field ends.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -110,6 +109,8 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 | Ice Shard GU | 1A |
 | Energy Cost | 60 |
 | Frames |  |
+
+* If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
 {% endtab %}
 {% endtabs %}
 

@@ -492,6 +492,26 @@ User Neptunya tested Ganyu’s elemental burst by casting it along with a bennet
 
 By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental burst interacts with Ganyu’s abilities, which in particular is very important to know for melt comp, and even to an extent can be decently important for a Ganyu freeze comp if they decide to run bennet for the extra damage.
 
+### Ganyu Burst does not Overlap
+
+**By:** EdisonsMathsClub\#6469   
+**Added:** 04/17/2021
+
+**Finding:** Ganyu's ultimate cannot be duplicated or have 2 on the field at the same time
+
+**Evidence:**
+
+1. Slap on massive CDR via Chong's C2, Anemo Resonance, and a -20% CDR abyss card
+2. Ult repeatedly off cooldown
+
+* Test whether casting inside her ultimate allows it to coexist
+* Test whether casting outside of her ultimate field, but have the 2nd one overlap the ultimate, allows it to coexist
+* Test whether casting completely outside her ultimate field allows it to coexist
+
+[Youtube](https://www.youtube.com/watch?v=DhojXoaJfLU&feature=youtu.be)
+
+**Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her burst again.
+
 ## **Constellation Mechanics:**
 
 ### **ARCC Shot Tech is doable only with Ganyu’s Constellation 6**
