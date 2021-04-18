@@ -19,6 +19,16 @@ to the primary camera if collisions are detected.
 
 ## Media
 
-{% tabs %} {% tab title="Wall" %} {% embed url="https://imgur.com/a/uZepFyj" %} {% endtab %}
-{% tab title="Geo MC Construct" %} {% embed url="https://imgur.com/a/NbmNQgt" %} {% endtab %}
-{% tab title="Geo MC Wall" %} {% embed url="https://imgur.com/a/bbpU1Dp" %} {% endtab %} {% endtabs %}
+{% tabs %} 
+{% tab title="Wall" %} 
+{% embed url="https://imgur.com/a/uZepFyj" %} 
+{% endtab %}
+
+{% tab title="Geo MC Construct" %} 
+{% embed url="https://imgur.com/a/NbmNQgt" %} 
+{% endtab %}
+
+{% tab title="Geo MC Wall" %} 
+{% embed url="https://imgur.com/a/bbpU1Dp" %} 
+{% endtab %}
+{% endtabs %}
