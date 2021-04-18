@@ -78,6 +78,7 @@
   * [Poise](mechanics/combat/poise.md)
   * [Tech](mechanics/combat/tech/README.md)
     * [Dragon Strike](mechanics/combat/tech/dougstrike.md)
+    * [Zoom Cancel](mechanics/combat/tech/zoom-cancel.md)
   * [Damage Formula](mechanics/combat/damage-formula.md)
 * [Equipment](mechanics/equipment/README.md)
   * [Weapons](mechanics/equipment/weapons/README.md)
