@@ -132,6 +132,9 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 ## Infinite Circuit
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
+
+* This applies to both the Hold E and Press E variants
+* This summons a single particle that only provides energy if Lisa is on field 
 {% endtab %}
 
 {% tab title="C2" %}
