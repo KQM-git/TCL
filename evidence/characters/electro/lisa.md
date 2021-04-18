@@ -52,7 +52,7 @@ Additionally, other mechanics with regards to the generated energy from this con
 
 In knowing how C1 actually works, Lisa, when she is on-field, can effectively run much less Energy Recharge on her artifacts and still recharge her Elemental Burst off cooldown given enough enemies and how they are grouped.
 
-## Violent Arc's Hold Variant has a Cylindrical Hitbox
+## Violet Arc's Hold Variant has a Cylindrical Hitbox
 
 **By:** ArchedNosi\#1484   
 **Added**: 4/18/2021
