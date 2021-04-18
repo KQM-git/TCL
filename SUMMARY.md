@@ -75,7 +75,7 @@
     * [Amping Reactions](mechanics/combat/elemental-reactions/amping-reactions.md)
     * [Transformative Reactions](mechanics/combat/elemental-reactions/transformative-reactions.md)
     * [Internal Cooldown of Elemental Application](mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application.md)
-  * [Fall Damage](evidence/mechanics/combat/fall-damage.md)
+  * [Fall Damage](mechanics/combat/fall-damage.md)
   * [Poise](mechanics/combat/poise.md)
   * [Tech](mechanics/combat/tech/README.md)
     * [Dragon Strike](mechanics/combat/tech/dougstrike.md)
