@@ -13,13 +13,11 @@ This has been tested to work with Hu Tao's A1 and Geo MC's C1.
 
 {% tabs %}
 {% tab title="Stats" %}
-
-Diona      : 29.9%  
+Diona : 29.9%  
 Rosaria A4 : + 8.8%
 
 Diona w/ Rosaria A4 : 38.7%  
 Diona w/ Hu Tao A1  : 41.9%
-
 {% endtab %}
 {% endtabs %}
 
