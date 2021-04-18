@@ -2,7 +2,7 @@
 
 ## Monster Skill Effects
 
-By: Steno\#6940  
+**By:** Steno\#6940  
 See [Evidence Vault](../../evidence/mechanics/enemies/enemy-attributes.md#in-depth-look-at-monster-skill-effects-in-domains-abyss) for Videos
 
 These are the damaging effects that are tied to specific enemies within domains/abyss. Currently, there are 6 of these effects, tied to each playable element in the game. Below is a table from the [Genshin Wiki](https://genshin-impact.fandom.com/wiki/Elements#Damage_Abilities_2) that details the effects:

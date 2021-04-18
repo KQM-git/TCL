@@ -2,8 +2,8 @@
 
 ## Bush Droprates
 
-By: gideleon1\#2188   
-Added: 04/11/2021
+**By:** gideleon1\#2188   
+**Added:** 04/11/2021
 
 **Finding:** There is an 8% chance to get something from a broken bush.
 
@@ -23,8 +23,8 @@ I didn't assume anyone would want a two hour video of me just breaking bushes, s
 
 ## Destroy Function Mechanics
 
-By: xf3\#3123  
-Added: 04/08/2021
+**By:** xf3\#3123  
+**Added:** 04/08/2021
 
 **Finding:**
 
@@ -50,8 +50,8 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 ### Resin to Stardust Exchange Comparison
 
-By: Mateng\#4507  
-Added: 4/14/2021
+**By:** Mateng\#4507  
+**Added:** 4/14/2021
 
 **Findings**: Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. They are 65.33 Stardust/Resin, while Gold leylines and Magic Crystal Ore conversion from the Blacksmiths are both 60 Stardust/Resin.
 

@@ -2,15 +2,15 @@
 
 ## Venti Burst Analysis
 
-By: KleefulFrames\#6735
+**By:** KleefulFrames\#6735
 
 Link [here](https://docs.google.com/spreadsheets/d/18SqSQzSyfQP4X2NGcXkubQ9NzC0BdT1Jxt0I1TL_zGs/edit#gid=2088924426).  
 
 
 ## Venti Weapon Comparisons and Guide
 
-By: paimonbukeyi\#4732  
-Added: 04/05/2021
+**By:** paimonbukeyi\#4732  
+**Added:** 04/05/2021
 
 **Theory/Finding:** Mostly weapon rankings + optimal substats and to look for Venti with a bit of other calcs.
 
@@ -23,8 +23,8 @@ Added: 04/05/2021
 
 ## Venti Q Absorbed Element ICD
 
-By: Charliex3000\#9403  
-Added: 04/05/2021
+**By:** Charliex3000\#9403  
+**Added:** 04/05/2021
 
 **Finding:** Venti's Burst elemental infusion application follows the standard ICD rules of elemental application every 3rd hit.
 

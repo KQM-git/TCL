@@ -2,7 +2,7 @@
 
 ## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)**
 
-By: shdwbld\#8103
+**By:** shdwbld\#8103
 
 **Findings:**
 
@@ -36,7 +36,7 @@ By: shdwbld\#8103
 
 ## **Chongyun C6 DMG bonus is Additive**
 
-By: _\*\*_Artesians\#0002
+**By:** _\*\*_Artesians\#0002
 
 **Findings:**
 
@@ -58,8 +58,8 @@ Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
 
 ## C2 CDR Based on Original Cooldown
 
-By: Sparko53557\#7010 and LazyGeniusMan\#6252  
-Added: 4/13/2021
+**By:** Sparko53557\#7010 and LazyGeniusMan\#6252  
+**Added:** 4/13/2021
 
 **Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
 
@@ -71,7 +71,7 @@ C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so wh
 
 ### **Addendum**
 
-By: LazyGeniusMan\#6252
+**By:** LazyGeniusMan\#6252
 
 **Finding:** When used with any cooldown reduction\(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the CDR from the active character and Slowing Waters.
 

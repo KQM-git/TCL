@@ -2,7 +2,7 @@
 
 ## **Skyward Harp Passive on Childe**
 
-By: Cola\#4314
+**By:** Cola\#4314
 
 **Finding:**
 
@@ -20,7 +20,7 @@ Refrain from attacking slimes in your melee form. An obvious fact, but not obvio
 
 ## **Riptide Burst \(Enemy Kill\) can be triggered by other units**
 
-By:Cola\#4314
+**By:** Cola\#4314
 
 **Finding:**
 
@@ -40,7 +40,7 @@ Childe can provide additional damage even without C4 when he's off-field.
 
 ## **Aimed Shot weak-point spam MV/s**
 
-By: Zenkai\#9872
+**By:** Zenkai\#9872
 
 **Finding:**
 
@@ -63,7 +63,7 @@ Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at leas
 
 ## **Childe Stance Switch From Ranged to Melee**
 
-By: Bioautomaton\#5054
+**By:** Bioautomaton\#5054
 
 **Finding:**
 
@@ -79,8 +79,8 @@ Potential interference in niche party combo situations.
 
 ## **Chongyun C2 E field affects Childe’s melee stance cooldown**
 
-By: ibvfteh\#6658  
-Added on 12/19/2020
+**By:** ibvfteh\#6658  
+**Added:** 12/19/2020
 
 **Finding:**
 
@@ -97,7 +97,7 @@ No matter where Childe is entering his Melee Stance, if he's staying inside of C
 
 ## **RR Jump Plunge**
 
-By: pantry\#6302  
+**By:** pantry\#6302  
 Original findings by /u/Kinggedorah12 on Reddit
 
 **Finding:**
@@ -117,8 +117,8 @@ Could be useful to make some domains easier by triggering certain mob reactions.
 
 ## Riptide Slash Particle Gen ICD
 
-By: Zeitraffer\#1074  
-Added on 03/19/2021
+**By:** Zeitraffer\#1074  
+**Added:** 03/19/2021
 
 **Finding:**
 

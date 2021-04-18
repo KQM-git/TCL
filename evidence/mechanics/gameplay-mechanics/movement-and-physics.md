@@ -2,7 +2,7 @@
 
 ## Climbing without Climbing
 
-By: Nitley\#3485  
+**By:** Nitley\#3485  
 Addded: 04/05/2021
 
 **Finding:** After familiarizing myself with the technique of b-hopping in the first week of Genshin's official release for the purpose of re-roll AR7 speedruns, this would quickly become my exclusive means of travel. This led me to discover an alternative faster method of scaling near-vertical walls \(without climbing or consuming stamina at all\).
@@ -16,8 +16,8 @@ Addded: 04/05/2021
 
 ## Movement Techniques and Player Model Comparisons
 
-By: Nitley\#3485 and Kourinn\#6001  
-Added: 04/10/2021
+**By:** Nitley\#3485 and Kourinn\#6001  
+**Added:** 04/10/2021
 
 **Theory:** What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
 

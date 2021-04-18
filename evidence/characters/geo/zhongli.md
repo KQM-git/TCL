@@ -2,8 +2,8 @@
 
 ## Fischl C6 does not always Proc on Zhongli's first Normal Attack
 
-By: muakasan\#2792  
-Added 01/07/2021
+**By:** muakasan\#2792  
+**Added:** 01/07/2021
 
 **Bug/Finding:**
 

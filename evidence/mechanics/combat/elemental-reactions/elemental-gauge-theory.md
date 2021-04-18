@@ -2,9 +2,9 @@
 
 ## **Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions**
 
-By: Doug\#8888
+**By:** Doug\#8888
 
-Added 11/12/2020
+**Added:** 11/12/2020
 
 Edited 1/9/2021
 
@@ -53,8 +53,8 @@ Using elements to cause reactions are a key cornerstone of Genshin Impact. To op
 
 ## **Elemental Aura Application and Gauge Values of Enemies**
 
-By: BowlSoldier\#3528  
-Added 2/4/2021
+**By:** BowlSoldier\#3528  
+**Added:** 2/4/2021
 
 ### Finding
 
@@ -346,7 +346,7 @@ In the above section, we stated that different U auras have different decay rate
 
 ## **Gauge Unit Theory - Testing and Evidence**
 
-By: BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888
+**By:** BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888
 
 ### Theory
 
@@ -425,13 +425,13 @@ Link [here](https://docs.google.com/spreadsheets/d/1O9SeEyS2uOnjYLEJ0d5E6TUxabp7
 
 ## **All Characters Elemental Gauge Unit Database**
 
-By: IonFox\#8887
+**By:** IonFox\#8887
 
 Link [here](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing).
 
 ## **The Truth Behind Elemental Reaction/Application Cooldowns \(Translation\)**
 
-Added 11/9/2020
+**Added:** 11/9/2020
 
 Source: [https://www.bilibili.com/video/BV1aK4y177Rd](https://www.bilibili.com/video/BV1aK4y177Rd) \(Dated Oct 29, 2020\)
 

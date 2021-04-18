@@ -2,8 +2,8 @@
 
 ## **Barbara E Animation Cancel**
 
-By: RoaringMeow\#2437  
-Added on 12/19/2020
+**By:** RoaringMeow\#2437  
+**Added:** 12/19/2020
 
 **Finding:**
 

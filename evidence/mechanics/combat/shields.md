@@ -2,7 +2,7 @@
 
 ## **Damage Reduction Applies Before Shields Are Calculated**
 
-**By: Faranight\#0001**
+**By:** Faranight\#0001
 
 **Finding:**
 
@@ -18,7 +18,7 @@ Damage reduction applies before shields are calculated.
 
 ## **How Elemental Shields having 250% Absorption Bonus to said element Work**
 
-**By: Türin\#8565**
+**By:** Türin\#8565
 
 **E/N: Submission demonstrates the above mentioned effect using the example of Diona but this also holds true for other similar character-generated shields.**
 

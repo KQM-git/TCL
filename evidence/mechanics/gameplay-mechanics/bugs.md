@@ -4,8 +4,8 @@
 
 ### Using the Same Team for Both Abyss Halves
 
-By: Nitley\#3485  
-Added: 03/25/2021
+**By:** Nitley\#3485  
+**Added:** 03/25/2021
 
 **Bug/Exploit:** You're able to use your overworld team \(regardless of character overlap with first half team\) for the second half of Spiral Abyss by selecting retry at the same time as killing the last mob.
 
@@ -15,8 +15,8 @@ Added: 03/25/2021
 
 ### Elemental Skills and Bursts Don't Reset When Using Retry in Abyss
 
-By: Emear\#2956  
-Added: 04/10/2021
+**By:** Emear\#2956  
+**Added:** 04/10/2021
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
@@ -30,8 +30,8 @@ Added: 04/10/2021
 
 ### Infinite Bushes
 
-By: xHelloEveryonex\#1401  
-Added: 04/05/2021
+**By:** xHelloEveryonex\#1401  
+**Added:** 04/05/2021
 
 **Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
@@ -43,8 +43,8 @@ Added: 04/05/2021
 
 ### Particles Move While Game is Paused
 
-By: Anmol43\#1917 and paimonbukeyi\#4732  
-Added: 04/05/2021
+**By:** Anmol43\#1917 and paimonbukeyi\#4732  
+**Added:** 04/05/2021
 
 **Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
@@ -57,8 +57,8 @@ Added: 04/05/2021
 
 ### Xiangling's Burst can Stack in Contending Tides Event
 
-By: Ayzel\#7399  
-Added: 04/09/2021
+**By:** Ayzel\#7399  
+**Added:** 04/09/2021
 
 **Bug:** Xiangling's burst can stack in the Contending Tides event.
 
