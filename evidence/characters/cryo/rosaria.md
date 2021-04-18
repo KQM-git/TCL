@@ -30,7 +30,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 * Rosaria's crit bonus from her A1 is included in her [A4 crit sharing](https://imgur.com/Gvmc6pN)
 * Rosaria's A1 crit bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
 
-## Rosaria's C6 Debuff Refreshes on hit
+## Rosaria's C6 Debuff Refreshes on Hit
 
 **By:** Zendaju\#3064  
 **Added:** 04/15/2021
@@ -40,3 +40,4 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 **Evidence:** [Video](https://cdn.discordapp.com/attachments/831212714416144434/831214571913347112/Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
 
 **Significance:** The description is misleading, and you can actually maintain 100% uptime on this physical resistance shred.
+
