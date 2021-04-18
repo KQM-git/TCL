@@ -64,6 +64,8 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | CD | 12s |
 | GU | 1A |
 | Particles | Up to 4 particles |
+
+* With high enough CDR, multiple Guobas can be summoned at a time
 {% endtab %}
 
 {% tab title="Pyronado" %}
