@@ -2,8 +2,8 @@
 
 ## Character Field Tick Rate
 
-By: Monochrom9\#8058  
-Added on 2/12/2021
+**By:** Monochrom9\#8058  
+**Added:** 2/12/2021
 
 ### Theory: Field buffs such as Chongyun's E and Bennett's Q apply ALL of their effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of their skills such that they tick on EXACTLY XX.0 for every second of the field duration.
 

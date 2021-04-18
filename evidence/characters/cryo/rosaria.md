@@ -2,9 +2,8 @@
 
 ## A4 Stacks with External Sources of CRIT
 
-By: The Immersive Fish
-\#9373  
-Added: 04/09/2021
+**By:** The Immersive Fish\#9373  
+**Added:** 04/09/2021
 
 **Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.
 
@@ -20,7 +19,7 @@ Diona w/Rosaria A4 : 38.7%
 Diona w/Hu Tao A1  : 41.9%
 ```
 
-While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao. 
+While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **52.5%** meaning that Rosaria's A4 is giving Diona **10.6%** CR. This is an **additional 1.8% CR** when compared to the crit sharing uninfluenced by Hu Tao.
 
 **Significance:** This confirms that anything which influences a characters crit stats found in the details tab will influence the Crit Sharing which Rosaria offers
 
@@ -36,8 +35,8 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 **By:** Zendaju\#3064  
 **Added:** 04/15/2021
 
-**Finding:** Rosaria's Ultimate Debuff lasts more than 10 sec.
+**Finding:** Rosaria's C6 debuff is also triggered by the DoT on her burst.
 
 **Evidence:** [Video](https://cdn.discordapp.com/attachments/831212714416144434/831214571913347112/Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
 
-**Significance:** The physical debuff that Rosaria provides last until the last tick of her ultimate, making it more than 10 seg on the debuff.
+**Significance:** The description is misleading, and you can actually maintain 100% uptime on this physical resistance shred.

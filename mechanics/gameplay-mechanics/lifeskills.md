@@ -2,8 +2,8 @@
 
 ## Bush Droprates
 
-By: [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
-Added: 4/11/2021
+**By:** [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
+**Added:** 4/11/2021
 
 Bushes have a 8% chance to drop loot, they will drop:
 
@@ -16,7 +16,7 @@ This information can be used together with the[ infinite spawning bushes bug](..
 
 ## Destroy Mechanics
 
-By: [xf3\#3123](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#destroy-function-mechanics)
+**By:** [xf3\#3123](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#destroy-function-mechanics)
 
 The destroy function in your inventory is the only way to mass delete/destroy items in the game other than the Parametric Transformer. However, the function itself is limited and the resources gained from destroying items are not worth compared to using them as fodder.
 
@@ -54,9 +54,9 @@ Certain material items can be destroyed, but they don't give anything when destr
 
 ### Resin to Stardust Exchange Comparison
 
-By: [Mateng\#4507](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
+**By:** [Mateng\#4507](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
 
-Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. 
+Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 
 * Exp Leyline: 65.33 Stardust/Resin
 * Mora Leyline: 60 Stardust/Resin
@@ -65,6 +65,4 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
-
-
 

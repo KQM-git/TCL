@@ -204,7 +204,7 @@ Consider the following Electro-charged concepts:
 
 ## Interaction of Other Elements with Electrocharged Targets
 
-By: EternalDream\#5503
+**By:** EternalDream\#5503
 
 When Electro-Charged is applied to a target and both Hydro and Electro aura remain, any further reactions from either Pyro or Cryo will trigger both the relevant reactions, not just one of them.
 
@@ -272,7 +272,7 @@ In addition, like other debuffs/buffs as has been recently discovered, it is aff
 ## Gauge Decay Rates of Hydro and Electro Auras
 
 **By:** Bobrokrot\#0111  
-**Added** 2/4/2021
+**Added:** 2/4/2021
 
 **Theory:**  
 Gauge decay rates are separate for auras of different elements.
@@ -528,7 +528,7 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **Finding:** Crystallizing an Electro-Charged enemy always results in an Electro crystal.
 
-**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY) 
+**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY)
 
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 

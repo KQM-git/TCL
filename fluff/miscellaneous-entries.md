@@ -6,7 +6,8 @@ description: For entries that have little practical use.
 
 ## Climbing the Frostbearing Tree
 
-By: Aevean Leeow\#1362 Added: 03/23/2021
+**By:** Aevean Leeow\#1362  
+**Added:** 03/23/2021
 
 **Theory:** Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
@@ -30,7 +31,8 @@ Also, you can perform a plunging attack off of the tree.
 
 ## Aether vs Lumine
 
-By: Fluffy\#5580 Added: 03/23/2021
+**By:** Fluffy\#5580  
+**Added:** 03/23/2021
 
 **Theory:** The traveler twins are not equal.
 

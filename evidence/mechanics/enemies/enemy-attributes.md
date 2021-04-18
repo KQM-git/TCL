@@ -2,8 +2,8 @@
 
 ## In-Depth Look at Monster Skill Effects in Domains/Abyss
 
-By: Steno\#6940  
-Added:
+**By:** Steno\#6940  
+**Added:**
 
 **Finding:** In-depth look at monster skill effects in abyss/domains \(Ice Cage, Pursuing Fireball, etc.\)
 

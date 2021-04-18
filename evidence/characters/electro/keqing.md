@@ -2,7 +2,7 @@
 
 ## Frame by Frame Analysis of Keqing's Attack Combos
 
-By: HailCorporate\#2970
+**By:** HailCorporate\#2970
 
 Methodology:
 
@@ -68,7 +68,7 @@ It can be noted that weaving in the Charged Attack later in the string does resu
 
 Regardless of where the Charged Attack is used 46 Frame Execution appeared consistent so it doesn't seem possible to buffer the charged attack during parts of the string that might have longer durations. This will need to be confirmed through testing on another character likely one with slower frames.
 
-Significance:
+**Significance:**
 
 To provide Frame Data for others to use for whatever their reasons.
 
@@ -90,7 +90,7 @@ A4C : Near enough infinite, you lose stamina over time but it's so slow there's 
 
 User Submission Update \(12/15/2020\)
 
-Finding:
+**Finding:**
 
 「Starward Sword」is always a DPS gain for Electro Keqing as it matches her strongest string \(N1C\). For Physical Keqing however, versus a single target it may depend, however versus multiple it's definitely worth doing.
 
@@ -139,7 +139,7 @@ Editor’s Significance
 
 ## Keqing C1’s Double Damage \(Inconsistent\)
 
-By: Cola\#6861, ZΛNTO\#4984, Ryser\#6516
+**By:** Cola\#6861, ZΛNTO\#4984, Ryser\#6516
 
 Editor’s note: We are having inconsistent findings of whether or not the C1 damage applies twice if cast at point-blank range. This inconsistency could be due to varying mob sizes. See the evidence below.
 
@@ -159,7 +159,7 @@ Conclusions
 
 ZANTO’s Findings
 
-Finding:
+**Finding:**
 
 Keqing's C1 damage CAN be applied twice to the same enemy, provided that the Blink and Stiletto location of E2 are relatively the same. C1 does have a small hitbox, but will generally get 2 hits against a point blank target that your Stiletto is on top of.
 
@@ -167,9 +167,9 @@ Testing:
 
 Due to hitboxes, tests were conducted on both Bosses and Mobs. Delayed E2 tests were done to ensure the E1 damage was not being confused with C1 damage. Even with instant recasting of E2, 4 damage numbers are shown as expected, working on small mobs as well.
 
-Evidence: [https://imgur.com/a/4OUutUU](https://imgur.com/a/4OUutUU)
+**Evidence:** [https://imgur.com/a/4OUutUU](https://imgur.com/a/4OUutUU)
 
-Significance: In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
+**Significance:** In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
 
 Rhyser’s Findings
 

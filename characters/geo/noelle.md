@@ -149,7 +149,7 @@ While Sweeping time and Breastplate are both in effect, the chance of Breastplat
 
 Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
-This is an additive %DMG bonus.
+* This is an additive DMG% bonus.
 {% endtab %}
 
 {% tab title="C3" %}

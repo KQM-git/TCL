@@ -2,7 +2,8 @@
 
 ## How does 2NO interact with Noelle Q?
 
-By: Kibouo\#1698 Added 12/18/2020
+**By:** Kibouo\#1698  
+**Added:** 12/18/2020
 
 **Hypothesis:**
 
@@ -18,7 +19,7 @@ By: Kibouo\#1698 Added 12/18/2020
 
 ## How does Noelle’s Elemental burst interact with temporary defence buffs?
 
-By: JonahFarc\#7056 and Midori\#2173
+**By:** JonahFarc\#7056 and Midori\#2173
 
 **Finding:** Noelle's Elemental Burst snapshots the current defence value at the time of activation for the ATK increase.
 
@@ -32,7 +33,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 ## Does Noelle's C4 snapshot attack when Breastplate is cast or when the shield breaks?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** It takes the ATK value when it breaks.
 
@@ -44,7 +45,7 @@ By: JonahFarc\#7056
 
 ## How does Sacrificial Greatsword work with Noelle?
 
-By: JonahFarc\#7056
+**By:** JonahFarc\#7056
 
 **Finding:** Sacrificial can proc on either activation or the pop from C4. If reactivated while shield is already active, the first shield is replaced and you do not get the C4 pop.
 
@@ -54,7 +55,8 @@ By: JonahFarc\#7056
 
 ## Maidstrike vs N3D \(Dragonstrike\)
 
-By: sakuno\#7950 Added: 03/22/2021
+**By:** sakuno\#7950  
+**Added:** 03/22/2021
 
 **Theory:**
 
@@ -208,4 +210,73 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 **Question**: Why isn't there a version without Anemo resonance? Anemo characters are shit to run with Noelle.
 
 **Author**: I can't for the life of me get consistent plunges on these boomer hands without anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
+
+## Noelle's Burst procs Breastplate
+
+**By:** JonahFarc\#7056
+
+**Finding:** Noelle's burst can proc the heal from Breastplate.
+
+**Evidence:** [https://youtu.be/U7jmLCUeTqw](https://youtu.be/U7jmLCUeTqw)
+
+**Significance:** Popping shield before burst guarantees two heal instances while invulnerable.
+
+## Noelle's Spin Damage on C2 is Additive
+
+**By**: pikachusurprised \#6934  
+**Added**: 4/16/2021
+
+**Finding:** The 15% spin damage bonus on C2 behaves like most other dmg% sources, meaning it is additive and goes into the formula as \(1 + dmg%\).
+
+**Evidence:** [https://youtu.be/GvIoAdmNJUg](https://youtu.be/GvIoAdmNJUg) \(credits to JonahFarc\#7056\)
+
+{% tabs %}
+{% tab title="Calculations" %}
+**Expected damage before C2 using SS:**
+
+```python
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 = 450.29
+```
+
+**Damage if 15% is additive:** matches with 502 with a slight error
+
+```python
+((191 + 510) + (490)) × (1.0) × (1 + 0.35 + 0.15) × 0.509 × (1 - 0.7) × 1.834 = 500.31
+```
+
+**Damage if 15% is multiplicative:** doesn't match
+
+```python
+((191 + 510) + (490)) × (1.0) × (1 + 0.35) × 0.509 × (1 - 0.7) × 1.834 × 1.15 = 517.82
+```
+
+**Damage if 15% is added to talent MV:** doesn't match. Value being equal to multiplicative is a coincidence
+
+```python
+((191 + 510) + (490)) × (1.15) × (1 + 0.35× 0.509 × (1 - 0.7) × 1.834 = 517.82
+```
+{% endtab %}
+
+{% tab title="Stats" %}
+**Noelle stats:**
+
+* Level 90  
+* 191 base atk, 510 weapon atk, 490 arti atk  
+* C6, lv10 AA \(100% mv on spin\)  
+* SS r2 5 stacks \(+35%\)  
+* 83.4% CD, 100% CR = crit multiplier of 1.834
+
+**Enemy stats:**
+
+* Level 83
+* 70% physical res
+* \(90 + 100\) / \(90 + 83 + 200\) = 0.509 defense multiplier
+{% endtab %}
+{% endtabs %}
+
+**Significance:** With SS and no other dmg% sources, C2 increases spin damage by 11.11%. With other dmg% sources, this value will only get lower. At AA lv10, this means a full spin with dash cancel does \(190.67 × 1.111\) = 211.83 mv/s, and a full spin jump cancel, at \(183.26 × 1.111\) = 203.61 mv/s. [Frame data was taken from Artesians doc](https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit#gid=52721192).
+
+Meanwhile, N3 dash sits at 208.24, and N4 dash at 215.26. This means that even a full spin into dash is only barely better than N3 dash, and a full spin into jump \(the more realistic option due to stamina management\) is slightly worse than N3 dash.
+
+This confirms what was already common knowledge: only use spin if you need to heal or lower Breastplate CD more quickly.
 

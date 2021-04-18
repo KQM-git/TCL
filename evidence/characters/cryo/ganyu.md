@@ -14,15 +14,14 @@ air\#1905
 
 ### **Blackcliff Warbow and Prototype Crescent Comparison**
 
-\(air\#1905\)
+**By:** \(air\#1905\)  
+**Added:** 01/17/2021
 
-Added 01/17/2021
-
-Finding:
+**Finding:**
 
 If you can obtain R3+ Blackcliff and only have access to R1 Crescent, Blackcliff will be a better choice IF you can maintain 3 stacks - If you cannot get R3+ Blackcliff, it is not worth it over Crescent - With Blackcliff and Crescent at similar refinement levels, Crescent is overall better than Blackcliff.
 
-Evidence:
+**Evidence:**
 
 Below are screenshots of: weapon/status rankings based on average Ganyu stats, the screenshots of the average Ganyu stats used for these rankings, and the spreadsheet that contains Non-Interactive Rankings Based on Average Stats, Statistical Key Points and Analysis, Objective Reasoning, Interactive Calculator, and an Overall Conclusion.
 
@@ -34,27 +33,26 @@ Spreadsheet:
 
 [Click to open the spreadsheet](https://docs.google.com/spreadsheets/d/1tFA12-Hr6CSlkXv-RBO1ipyzeHk1q1vINViUAnd2zqU/edit#gid=0)
 
-Significance:
+**Significance:**
 
 Prototype Crescent performs better overall, and we can recommend it over Blackcliff based on what the player can/is willing to invest as well as the content they care about.
 
 ### **Analysis of C1 Amos Ganyu vs C0 Crescent**
 
-\(JinJinx \(Mathalos Main\)\#5874\)
+**By:** \(JinJinx \(Mathalos Main\)\#5874\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 In practice, when in the abyss the usage of amos bow and C1 Ganyu are incredibly significant due to the advantages in both damage, and energy regen that they provide.
 
-Evidence:
+**Evidence:**
 
 User JinJinx witnessed Aerylle’s original hyper invest ganyu post and attempted it with his own setup \(with C0 and prototype crescent\) and found that he could not get anywhere near the values that Aerylle was getting. With that in mind, he then subsequently wrote this document showing his findings as to why this was the case.
 
 [\[Document\] In reference to Aerylle’s Hyper-invested Ganyu run](https://docs.google.com/document/d/1eYt0Bsa3bbnsqNkw5B6hoTIZkEWB7lSebD9NwWv94cg/edit?usp=sharing)
 
-Significance:
+**Significance:**
 
 With this analysis in mind it shows that the both constellation 1, and especially the Amos bow are unbelievably powerful boosts to Ganyu’s overall kit and damage, and that while not mandatory, are definitely worth picking up for users who want major power boosts to Ganyu.
 
@@ -62,57 +60,54 @@ With this analysis in mind it shows that the both constellation 1, and especiall
 
 ### **Bloom’s innate travel time for Amos’ Bow**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 Bloom has an innate travel time of 0.3s with Amos’ bow. Currently no record of Amos’ bow’s passive dropping below 3 stacks for FFB.
 
 With Ganyu’s C1, the 15% cryo shred is applied to the FFB of the first shot so long as FFA hits.
 
-Evidence:
+**Evidence:**
 
 Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 dmg with 2090 bloom in the first video. After the initial charged shot, the resulting bloom dmg did not change at close range meaning that the cryo shred was applied to the first bloom. by running maths, we found out that the bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
 
 [Video 1](https://youtu.be/j1wfYTOYkDQ);[ Video 2](https://youtu.be/JdyEOE2zECI)
 
-Significance:
+**Significance:**
 
 Ganyu synergises well with Amos’ Bow. C1 is slightly better due to the finding.
 
 ### **Viridescent Hunt’s passive can activate off of bloom**
 
-\(Kidz\#8667\)
+**By:** \(Kidz\#8667\)  
+**Added:** 01/25/2021
 
-Added 01/25/2021
-
-Finding:
+**Finding:**
 
 Regardless of whether both the initial and the bloom of Ganyu’s charge attack hit the enemy, Viridescent Hunt’s passive has been found to be activatable by both instances. Additionally, because both the arrow and the charge attack can trigger Viridescent Hunt’s passive, the 50% chance of activation is rolled twice if both the arrow and the bloom hit the enemy.
 
-Evidence:
+**Evidence:**
 
 User \(Kidz\#8557\) tested for Viridescent Hunt triggers by purposefully missing the initial shot during testing in order to only hit the enemies with the bloom, and sure enough despite the initial arrow completely missing, Ganyu’s bloom still triggered Viridescent Hunt’s passive
 
 [\[video\] Viridescent hunt passive bloom test](https://youtu.be/rZfloO3kVx4)
 
-Significance:
+**Significance:**
 
 Due to the fact that Viridescent Hunt can trigger on both the bloom or the arrow this means that on average Viridescent Hunt’s passive has a 75% chance at triggering with refinement 1 when users hit a target with both the bloom and the arrow, meaning that Viridescent Hunt is theoretically more consistent on Ganyu than other characters.
 
 ### **Specific distances required for each stack of Amos’ buff**
 
-\(Shinku\#8903\)
+**By:** \(Shinku\#8903\)  
+**Added:** 01/26/2021
 
-Added 01/26/2021
-
-Finding:
+**Finding:**
 
 The distance required in order to get an individual stack of the Amos’ passive buff of 8% dmg bonus per 0.1 seconds of travel time is approximately 5 in game meters per stack with the first stack applying at a distance of 3 in game meters. For reference, to get maximum stacks with the Amos bow, the distance is approximately half of Ganyu’s elemental burst in length.
 
-Evidence:
+**Evidence:**
 
 User Shinku used the training dummy daily commission along with a world quest as a marker for distance, \(starting at 544m away from said marker at point blank range\), and subsequently tested the distance required for each stack by measuring his total distance away from the marker, and then tracking how many meters he had to travel before the next stack of Amos proc’d. He in turn found the following values.
 
@@ -132,27 +127,26 @@ User Shinku used the training dummy daily commission along with a world quest as
 
 580 damage falloff gives 2161 \(36m\)
 
-Significance:
+**Significance:**
 
 These distance calculations will allow for players to have a better understanding of how much distance is required to get maximum stacks of Amos’ Bow’s passive, instead of having to just guess how far they need to be from their target.
 
 ### **Skyward Harp’s passive has the ability to crit**
 
-\(Cola\#6861\)
+**By:** \(Cola\#6861\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 When shooting with the Skyward Harp, it is possible to achieve a critical hit on the passive ability.
 
-Evidence:
+**Evidence:**
 
 User Cola Sen was discussing in theory crafting about the Skyward Harp when its ability to crit came into the conversation. Afterwards they decided to test out their hypothesis and reported on their findings:
 
 [\[video\] Skyward Harp passive critting](https://www.youtube.com/watch?v=0ZGKgwEZ0Ww)
 
-Significance:
+**Significance:**
 
 When using the Skyward Harp, it is now apparent that it is slightly better then we originally thought as its own passive gains benefits from the crit rate and crit damage that the Harp provides.
 
@@ -160,71 +154,67 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 
 ### **Bloom Damage Scales with Charged Atk Dmg Bonus**
 
-\(That’s so Poyo\#6921\)
+**By:** \(That’s so Poyo\#6921\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 The bloom damage from Ganyu’s frost flake arrow is considered to be a charge attack along with the initial arrow itself, meaning that both the bloom and the arrow are affected by charge attack multipliers such as the ones received from 4pc Wanderers Troupe, Bolide, and Heart of Depth.
 
-Evidence:
+**Evidence:**
 
 User Poyo tested Ganyu’s frost flake arrow with the 4p Wanderers Troupe set, then swapped out a piece of the set with similar sub stats to test if there would be a significant damage difference in bloom damage between having the 35% charge attack bonus, and not. The following findings show that there is indeed a significant damage difference when equipping the 4p Wanderer’s Troupe set, implying that the bloom is considered a charge attack, and is in turn affected by charge attack multipliers.
 
 [\[video\] Wanderer Troupe Bloom damage test](https://youtu.be/b2F6swCa4pI)
 
-Significance:
+**Significance:**
 
 This finding means that set bonuses that improve charge attacks such as Wanderers Troupe, Bolide, and Heart of Depth, will have a significant boost to Ganyu’s bloom damage, implying that Ganyu will have significantly more potential options for viable sets then we initially thought.
 
 ### **Ganyu cannot perform the ARCC tech that all other bow users can perform with her frost flake arrow \(with the exception of C6\)**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 Ganyu is unable to perform the ARCC tech with her Frostflake Arrow meaning that she cannot benefit from the frame advantages that a majority of the bow users gain when using their respective charged shots.
 
-Evidence:
+**Evidence:**
 
 User SavageCabbage tested out trying to perform the ARCC tech with Ganyu’s Frostflake Arrow, which resulted in the arrow reverting back to a non-elemental aimed shot, meaning that it is not possible to perform the ARCC tech with Ganyu’s charged shot.
 
 [\[video\] ARCC tech test](https://youtu.be/0QUL-yOl_CY)
 
-Significance:
+**Significance:**
 
 With this knowledge we now know that there is no potential frame advantage from attempting to perform the ARCC tech with Ganyu’s charged attack, meaning that there is significantly less room for improvement for individual players in terms of animation cancels that they would need to learn.
 
 ### **Ganyu’s A1 passive does not apply to the initial bloom, only on consecutive charged shots**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s A1 passive does not apply to itself. Meaning the bloom from the first frostflake arrow shown within 5 seconds will not have an increased critical rate
 
-Evidence:
+**Evidence:**
 
 Tests were run by user SavageCabbage with Ganyu at 80% critical rate on their artifacts. Due to this, if Ganyu’s A1 passive applies to itself they would never experience a non-critical bloom during testing, which was not the case.
 
 [\[video\] Ascension 1 passive test](https://youtu.be/FHx_KToeyWU)
 
-Significance:
+**Significance:**
 
 This knowledge allows for a clearer understanding of her talents, and implies that for shorter fights Ganyu will be marginally weaker at the start of the fight due to her first shot not having the A1 passive.
 
 ### **Ganyu’s A1 passive persists after swap**
 
-\(Nello\#1928\)
+**By:** \(Nello\#1928\)  
+**Added:** 01/25/2021
 
-Added 01/25/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s A1 passive persists after swapping characters, meaning that it is possible to maintain the 20% crit rate from A1 while swapping to supports to activate their abilities and elemental bursts as long as the swap time is within the 5 second period. \(Note: the crit rate increase does not apply to others\).
 
@@ -232,7 +222,7 @@ Additionally, Buffs applied to the character after an arrow has been released ar
 
 With these two things in mind, as long as the FrostFlakeArrow is fired within 5 seconds of the previous arrow regardless of what you do during this timeframe the 20% additional crit buff is maintained.
 
-Evidence:
+**Evidence:**
 
 The activation of the A1 passive is visible after ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
 
@@ -242,83 +232,79 @@ After shooting an arrow, moving inside/outside bennet’s burst does not change 
 
 [\[video\] Arrow snapshot test](https://youtu.be/moPAMaH9LMo)
 
-Significance:
+**Significance:**
 
 This proves that it is possible to use other character’s elemental bursts and/or skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
 
 ### **Ganyu’s Skills are all 1U Cryo**
 
-\(TiagoESC\#6773\)
+**By:** \(TiagoESC\#6773\)  
+**Added:** 01/25/2021
 
-Added 01/25/2021
-
-Finding:
+**Finding:**
 
 All of Ganyu’s Abilities including her charged shot and bloom has 1U cryo application. For more information about Gauge Units, there is an in depth explanation in the KeqingMains Theorycrafting library Found under:
 
 [A List of Links to other Character Theorycrafting Libraries](https://docs.google.com/document/u/2/d/e/2PACX-1vS7VWaif9V2rRfwmwCR0JsQE7fib_vuJDuZl9TTznv8kKCgHkPv6C0A41az69t-snaYUs7rnJ-ryLI9/pub#h.mi3gdetfpnuy)
 
-Evidence:
+**Evidence:**
 
 Demonstrated by doing a double melt on an enemy with 1U pyro.
 
 [\[video\] Double melt testing](https://youtu.be/exboHL63UpQ)
 
-Significance:
+**Significance:**
 
 Knowing that Ganyu’s abilities are 1U will allow for easier melt setups as you can double melt on XiangLing’s Guoba.
 
 ### **Ganyu’s Bloom can hit enemies with shields if the FFA freezes them**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/26/2021
 
-Added 01/26/2021
-
-Finding:
+**Finding:**
 
 If you freeze a shielded enemy with the FFA, the FFB can hit through the enemy's shield and damage them.
 
-Evidence:
+**Evidence:**
 
 Tested against a shielded hilichurl in water.
 
 [\[video\] Shielded enemy freeze interaction](https://youtu.be/TsJpEwcseC0)
 
-Significance:
+**Significance:**
 
 Freeze 1 : Melt 0.
 
 ### **Ganyu freeze shield interactions**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/27/2021
 
-Added 01/27/2021
-
-Finding:
+**Finding:**
 
 When hitting the shield of a target who has hydro already applied to them, whether that be via environment or via elemental aura, even if the arrow deals no damage to the target it will still cause the freeze reaction to the enemy.
 
-Evidence:
+**Evidence:**
 
 User SavageCabbage tested this theory by deliberately aiming for hilichurl shields while they were standing in water in order to have a constant hydro application. By directly aiming for the shields, he ensured that there would be no damage directly inflicted on the target. In turn, he revealed that even if the frost flake arrow does not directly hit the shielded target, it will still cause the freeze reaction as the enemy will have cryo applied to them from the shot.
 
 [\[video\] Freeze vs Shields](https://youtu.be/TsJpEwcseC0)
 
-Significance:
+**Significance:**
 
 Due to the fact that freeze can still be applied to shielded units without directly damaging them means that freeze comp is an incredibly valuable asset against shielded enemies, especially for the current\* \(as of 01/27/2021\) spiral abyss where there are multiple shielded Mitachurls on floor 12-3.
 
 ### **Frostflake Bloom hitbox range**
 
-\(Kidz\#8667\) \(SavageCabbage\#1445\) \(Pinupski\#9999\)
+**By:** \(Kidz\#8667\) \(SavageCabbage\#1445\) \(Pinupski\#9999\)  
+**Added:** 01/14/2021
 
-Added 01/14/2021
-
-Finding:
+**Finding:**
 
 Damage from FFB is applied in a cylinder relative to the impact point of the FFA. Regardless of vertical distance from the impact point of the FFA the damage is applied to all units inside the AoE on the same frame. Relative to the animation, the AoE cylinder extends further down than the animation suggests and also slightly above the apex of the FFB animation.
 
-Evidence:
+**Evidence:**
 
 Same frame damage regardless of vertical, same frame can be deduced from the opaqueness and size of the damage numbers:[ Image 1](https://imgur.com/aZOSvw1);
 
@@ -330,23 +316,22 @@ Lower Limit of AoE shown by bottom hilichurl:[ Image 4](https://imgur.com/m4nPtq
 
 FFB Radius shown by hilichurl behind the 5:[ Image 5](https://imgur.com/19rl8xK).
 
-Significance:
+**Significance:**
 
 Plots out the AoE of the FFB and show that the FFB damage is being applied to all mobs in the AoE at the same frame.
 
 ### **Charged Shot arrow deviation when the aiming near objects**
 
-\(@qwertyasdf007\#9101\)
+**By:** \(@qwertyasdf007\#9101\)  
+**Added:** 02/08/2021
 
-Added 02/08/2021
+**Finding:**
 
-Finding:
-
-Theory: Charged Shot originates at the bow and targets the frontmost object in the reticle line of sight.
+**Theory:** Charged Shot originates at the bow and targets the frontmost object in the reticle line of sight.
 
 Subtheory: Collision detection hitboxes are wonky for some objects seen in the video \(e.g. thorns\).
 
-Evidence:
+**Evidence:**
 
 * First clip supports the fact that the charge shot originates at the bow.
 * Second and third clip support the fact that the charge shot is aimed toward some object in the reticle line of sight.
@@ -356,7 +341,7 @@ Evidence:
 
 Given that if the theory is correct, then the subtheory is supported by the fact that in clips 2-4 the charge shot is targeting something in front of the "first" object in the reticle line of sight. This seems to imply that the "aim shot" hitbox is different from the actual hitbox for collision detection.
 
-Significance:
+**Significance:**
 
 Some objects provide strange interactions when aiming charge shots. As the bow character is to the left of the reticle, the released charge shot will be:
 
@@ -371,35 +356,33 @@ Special thanks to SavageCabbage\#1445 for founding this theory and discussing it
 
 ### **Icicle drop frequency of Ganyu’s Q**
 
-\(TiagoESC\#6773\)
+**By:** \(TiagoESC\#6773\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s Q creates 50 icicles in 15 seconds, or 1 every 0.3 seconds.
 
-Evidence:
+**Evidence:**
 
 Shard hit the ground in a 18 frame interval \(at 60 fps\) or 9 frames in 30 fps.
 
 [\[video\] Icicle drop counting](https://youtu.be/RRHQGWOG-jg)
 
-Significance:
+**Significance:**
 
 Knowing the number of icicles during Ganyu’s Q will help with other findings like Icicle ICD.
 
 ### **Icicle Internal Cooldown in Ganyu’s Burst**
 
-\(Artesians\#0002\)
+**By:** \(Artesians\#0002\)  
+**Added:** 01/12/2021
 
-Added 01/12/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s Q, Celestial Shower, drops an icicle on a random enemy that has not been targeted by an icicle in the last 4 icicle drops. The icicles drop randomly among "legal" targets, which are defined as enemies that have not been targeted by the last 4 icicle drops. If there are no legal targets, they will drop on the ground, where the AoE can still strike a target.
 
-Evidence:
+**Evidence:**
 
 User Artesians\#0002 walked into F12 and up to the hypostasis, used Ganyu’s Q, and counted the frames it took for an icicle to spawn above an enemy:
 
@@ -421,21 +404,20 @@ Difficult to count the icicles initially, but 4 icicles are dropped on the groun
 
 [\[video\] Ganyu's Q against 1 enemy](https://i.imgur.com/Sg3kqs8.mp4)
 
-Significance:
+**Significance:**
 
 Ganyu's Q is really bad against single target enemies for cryo application. Her cryo application really shines when you can abuse the fact that the icicles have separate cryo applications on enemies that are grouped.
 
 ### **Ganyu’s ascension 4 talent will not apply to the first Elemental Burst cast**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/24/2021
 
-Added 01/24/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s elemental burst will not apply the 20% bonus cryo damage from its initial cast to itself, regardless of if the user stands inside or outside of the elemental burst post casting, implying that Ganyu’s elemental burst is snapcast in nature.
 
-Evidence:
+**Evidence:**
 
 User SavageCabbage tested out using Ganyu’s elemental burst on a group of enemies and recorded the damage values he received. After this, he took said recorded values and inputted them into the damage formula to determine if the values he observed matched the values he would theoretically be receiving with the 20% damage buff.
 
@@ -443,61 +425,58 @@ User SavageCabbage tested out using Ganyu’s elemental burst on a group of enem
 
 [Image](https://imgur.com/a/qsPadc6)
 
-Significance:
+**Significance:**
 
 These findings are important for Ganyu players to know as their elemental bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus cryo damage will apply if you burst off of cooldown further incentivises players to do so.
 
 ### **Ganyu’s ascension 4 and constellation 4 effects carry over on consecutive casts of Ganyu’s elemental burst**
 
-\(SavageCabbage\#1445\) \(TiagoESC\#6773\)
+**By:** \(SavageCabbage\#1445\) \(TiagoESC\#6773\)  
+**Added:** 01/25/2021
 
-Added 01/25/2021
-
-Finding:
+**Finding:**
 
 On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \(immediately after the cooldown generally\), Ganyu’s ascension 4 will actually trigger for the elemental burst unlike in the initial cast, and furthermore; Ganyu’s constellation 4 debuff will carry over to any enemy that is currently in the elemental bursts aura.
 
-Evidence:
+**Evidence:**
 
 Users SavageCabbage and Tiago did some testing of Ganyu’s elemental burst by casting the burst in succession against a cryo regislive, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
 
 [Video 1](https://youtu.be/_QN_X8ptbTw);[ Video 2](https://youtu.be/ao8XpqoNGx8);[ Video 3](https://youtu.be/qxrIiqGlRI4)
 
-Significance:
+**Significance:**
 
 This finding implies that Ganyu’s overall elemental burst damage spikes significantly if done off-cooldown due to A4 being able to go into effect if the elemental burst is cast in quick succession. This in turn greatly improves the value of constellation 1, minorly improves the value of constellation 4, and makes Ganyu’s ascension 4 talent even better than it already is.
 
 ### **Ganyu’s Trail of Qilin can taunt every enemy in the game that is not considered a boss monster**
 
-\(TiagoESC\#6773\)
+**By:** \(TiagoESC\#6773\)  
+**Added:** 01/13/2021
 
-Added 01/13/2021
-
-Finding:
+**Finding:**
 
 Against just about every single normal enemy in the game, Ganyu’s Trail of Qilin \(E\) has been shown to properly taunt the various enemies. The enemies that were included in testing are: Abyss mage, Slime, Boar King, Cryo Cicin Mage, Electro Cicin Mage, Geovishap Hatchling, Ruin Guard, Ruin Hunter, Hili/Samachurl, Lawachurl, Mitachurl, Pyro Agent, Electro/Hydro Skirmishers, Pyro Skirmisher and \(Cryo\)Whooperflower.
 
-Evidence:
+**Evidence:**
 
 User Tiago thoroughly tested Ganyu’s Trail of Qilin by going to each individual enemy in the game \(except for eye of the storm and bosses\) and activating Ganyu’s E ability to see if the taunt would work against said enemy. The result showed that against every single enemy that was tested against, Ganyu’s Trail of Qilin was able to taunt the enemy as intended.
 
 [\[Video\] Ganyu taunt test](https://www.youtube.com/watch?v=yf6G876K_s4)
 
-Significance:
+**Significance:**
 
 As Ganyu’s Trail of Qilin is capable of properly taunting just about every single enemy in the game it will prove to be a highly valuable asset in crowd control for Ganyu players, especially in melt comps due to it attracting enemies near Xiangling’s Guoba, along with being a major asset for abyss 11-2.
 
 ### **Ganyu elemental burst and charge shots snapshot**
 
-\(Karzak\#7126\) \(Nello\#1928\) \(Neptunya\#8291\)
+**By:** \(Karzak\#7126\) \(Nello\#1928\) \(Neptunya\#8291\)  
+**Added:** 01/28/2021
 
-Added 01/28/2021
-
-Finding:
+**Finding:**
 
 Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s elemental burst \(on initial cast\) are snapshot in nature, meaning that any buffs or effects applied to the character will only affect them if they are on Ganyu during the initial release, and cast respectively
 
-Evidence:
+**Evidence:**
 
 User Neptunya tested Ganyu’s elemental burst by casting it along with a bennet ult, varying between being inside the bennet ult during cast, walking into the bennet ult after cast, and not being in the bennet ult whatsoever in order to determine if ganyu’s elemental burst was snapshot in nature, which he found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a bennet ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
 
@@ -509,7 +488,7 @@ User Neptunya tested Ganyu’s elemental burst by casting it along with a bennet
 
 [\[video\] Ganyu burst inside of bennet buff](https://youtu.be/ryO1Umsa6po)
 
-Significance:
+**Significance:**
 
 By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental burst interacts with Ganyu’s abilities, which in particular is very important to know for melt comp, and even to an extent can be decently important for a Ganyu freeze comp if they decide to run bennet for the extra damage.
 
@@ -517,57 +496,54 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 
 ### **ARCC Shot Tech is doable only with Ganyu’s Constellation 6**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 01/26/2021
 
-Added 01/26/2021
-
-Finding:
+**Finding:**
 
 You can perform an ARCC shot with Ganyu only if you have Ganyu’s constellation 6 and have an instant charged shot primed.
 
-Evidence:
+**Evidence:**
 
 [\[Video\] ARCC shot test with C6](https://youtu.be/0WybWgbd4UQ)
 
-Significance:
+**Significance:**
 
 Allows for quick execution of charged shot -&gt; e -&gt; charged shot -&gt; e -&gt; charged shot combo.
 
 ### **Constellation 1’s cryo resistance shred will apply to the first shot’s bloom**
 
-\(Karzak\#7126\)
+**By:** \(Karzak\#7126\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 When shooting your first Frostflake Arrow at an enemy if you hit the enemy directly with the arrow, the initial bloom of the shot will get the bonus 15% cryo resistance shred
 
-Evidence:
+**Evidence:**
 
 User Karzak tested this interaction by intentionally missing the first arrow and only hitting the enemy with a bloom, and compared that damage to when they shot the enemy with both the arrow and the bloom, finding that the Bloom's damage increased slightly when the enemy was hit with the initial arrow first. ALong with this, they also noticed that the debuff arrows that surround the enemy started appearing after the initial hit, rather than from the Bloom hit.
 
-Significance:
+**Significance:**
 
 The 15% cryo resistance shredding from Ganyu’s constellation 1 is slightly better during short encounters as the enemy will get the resistance shred applied to the first bloom.
 
 ### **Ganyu’s Constellation 1 generates energy without dealing damage**
 
-\(Pinupski\#9999\)
+**By:** \(Pinupski\#9999\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 Ganyu can regenerate energy through her C1 passive ability even when shooting immune enemies.
 
-Evidence:
+**Evidence:**
 
 Slimes are immune to cryo and therefore take no damage. Despite taking no damage, it can be seen in the video below that C1’s passive is functioning:
 
 [Video](https://youtu.be/8uAy2OJtZEw)
 
-Significance:
+**Significance:**
 
 It can be useful to know that even in the event of immunity or resistance you can still generate energy from a FFA/B.
 
@@ -575,15 +551,14 @@ It can be useful to know that even in the event of immunity or resistance you ca
 
 ### **Hyper invested Ganyu**
 
-\(Aerylle\#1254\)
+**By:** \(Aerylle\#1254\)  
+**Added:** 01/18/2021
 
-Added 01/18/2021
-
-Finding:
+**Finding:**
 
 With only f2p supports, and a +20 blizzard strayer set on ganyu with suboptimal crit rolls, it is entirely possible to clear abyss 12-3 with the time required for a 3 star clear without taking a single abyss card, making freeze Ganyu by far the easiest and cheapest 3 star abyss clear of 12-3 that is currently in the game. This has been done with both an amos bow and C1, as well as a prototype crescent, where the user purposefully avoided bursting off cooldown in order to circumvent C1 to the best of their abilities.
 
-Evidence:
+**Evidence:**
 
 User Aerylle initially tested this composition using a C1 ganyu and amos bow, where they found that they could easily clear abyss 12-3 in 77 seconds using a lvl 90 c1 Ganyu, lvl 90 amos bow, 8/6/8 for her talent levels, and a +20 blizzard strayer set with bad substats, and completely f2p supports with +0 artifacts.
 
@@ -617,21 +592,20 @@ On a good day, potential buffs =&gt; 1.239\*1.151= 1.426 = up to 42.6% multiplic
 
 In comparison, here are the damage advantages of C1’s cryo res shred: With VV, the C1 -15% res buff is a 1.225/1.15 = 1.065 =&gt; 6.5% multiplicative increase in damage. Even at max potential WITHOUT VV on any target, it’s a 1.025/.9 = 1.139 =&gt; 13.9% multiplicative increase \(not actually true for the run, as I shred every target on Anemo traveler, and on treasure hoarders they're actually -60% raw shredded by C6\)”
 
-Significance:
+**Significance:**
 
 With the following in mind, there is clear evidence that a player with a hyper invested Ganyu can more than easily get the time required for a 3 star clear of abyss 12-3 with c0 and a prototype crescent once you take into account that the average player will pick good cards rather than going out of their way to not pick any cards, and will likely have more than +0 sets on all of their supports. Along with this, an interesting finding that Aerylle found due to these calculations was that it would theoretically be possible to have a 0 crit substat run abyss clear of 12-3 that would be fast enough for a 3 star clear if the player were to take good abyss cards during the run.
 
 ### **Xingqiu auto attack cancels**
 
-\(Karzak\#7126\) \(Yicc\#7775\)
+**By:** \(Karzak\#7126\) \(Yicc\#7775\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 It is possible to weave an auto attack in between frost flake arrows with Ganyu in order to have Xingqiu’s rain swords apply hydro for effectively a 100% uptime of the hydro effect. Beyond this, the DPS loss is very minimal, \(about 11%\) and allows for xingqiu to be a very viable option as a hydro support for Ganyu
 
-Evidence:
+**Evidence:**
 
 User Yicc collected footage of Ganyu weaving auto attacks in between frost flake arrows with Xingqiu’s elemental burst active, and found that along with it being entirely feasible to keep constant hydro application, after comparing it with doing plain CA animation cancels the DPS loss was approximately 11%.
 
@@ -647,17 +621,16 @@ User Yicc collected footage of Ganyu weaving auto attacks in between frost flake
 
 ![image\_tooltip](https://github.com/Artesians/TCL/tree/976d8c2cfad18ec62a798e54eb6afae981f54713/evidence/characters/cryo/images/image2.png)
 
-Significance:
+**Significance:**
 
 With this in mind we now know that Xingqiu is a very viable hydro applicator for Ganyu freeze comp due to the ability to weave auto attacks in between regular frost flake arrows with minimal DPS loss. Although the DPS loss is there overall for players who do not own a Mona, Xingqiu shows to be a very viable alternative.
 
 ### **Mona’s Omen extension technique**
 
-\(Karzak\#7126\) \(Nello\#1928\)
+**By:** \(Karzak\#7126\) \(Nello\#1928\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 When using Mona’s elemental burst, if the target is frozen OR freeze is applied by her burst itself, the bubble will stay applied to the target regardless of the damage they receive until the freeze ends, allowing for the extension of the damage buff applied by her burst.
 
@@ -680,7 +653,7 @@ This technique can be performed by Ganyu and further improved by using other sup
 
 Ganyu's Q &gt; Anemo Attack infusing cryo \(VV\) &gt; Mona's E &gt; Q &gt; Ganyu's Attacks.
 
-Evidence:
+**Evidence:**
 
 1\) Can be seen at the start of the video.
 
@@ -700,7 +673,7 @@ That's why 4\) The easiest and most consistent Mona+Ganyu+Anemo combo in practic
 
 [\[video\] Ganyu and Mona - Extending Omen with freeze](https://youtu.be/vhBbfgkMMdI)
 
-Significance:
+**Significance:**
 
 Proves that Mona+Ganyu is a powerful combination and can be easily performed without any anemo support. Also, tries to explain why using anemo characters can cause some inconsistencies, e.g. the combo sometimes extends the bubble, but sometimes it pops too soon.
 
@@ -708,15 +681,14 @@ While melt will still give better theoretical numbers, Omen’s extension allows
 
 ### **Ganyu’s combo E &gt; FFA &gt; FFB can triple melt**
 
-\(Poyo\#6921\)
+**By:** \(Poyo\#6921\)  
+**Added:** 01/21/2021
 
-Added 01/21/2021
-
-Finding:
+**Finding:**
 
 It is possible for Ganyu’s combo E &gt; FFA &gt; FFB to triple melt a 2U pyro application.
 
-Evidence:
+**Evidence:**
 
 Since Ganyu’s cryo application is 1U for all her skills, if E &gt; FFA &gt; FFB is performed fast enough she can triple melt a 2U pyro application \(each cryo melt consumes 0.5 pyro GU\). Videos below show the damage difference between the same combo with and without melt proving that all attacks melted.
 
@@ -724,41 +696,39 @@ Since Ganyu’s cryo application is 1U for all her skills, if E &gt; FFA &gt; FF
 
 [\[video\] Ganyu's combo E &gt; FFA &gt; FFB with melt](https://youtu.be/dgpzWtASCC0)
 
-Significance:
+**Significance:**
 
 It’s useful information for Ganyu owners since they can use melt comps more efficiently. It also might affect Ganyu’s power level in the future if we get reliable strong pyro appliers.
 
 ### **Cryo Resonance’s Critical Rate bonus is applied to FFB if FFA Freezes or inflicts cryo on the target.**
 
-\(SavageCabbage\#1445\)
+**By:** \(SavageCabbage\#1445\)  
+**Added:** 06/02/2021
 
-Added 06/02/2021
-
-Finding:
+**Finding:**
 
 Cryo Resonance applies to the bloom of the first shot.
 
-Evidence:
+**Evidence:**
 
 Video shows 155 shots, 29 of which crit, which is significantly higher than the 5% we would have expected if cryo resonance did not apply to the first bloom.
 
 [\[video\] 155 Ganyu Shots](https://youtu.be/3XtcjcR2fEA)
 
-Significance:
+**Significance:**
 
 Cryo Resonance is better than expected. BS and Cryo Resonance together makes the first bloom hit with 15 + 40% crit rate on frozen enemies.
 
 ### **Blizzard Strayer’s set bonuses apply to FFB when FFA freezes or inflicts cryo to the target.**
 
-\(SavageCabbage\#1445\) \(Tempus\#3251\)
+**By:** \(SavageCabbage\#1445\) \(Tempus\#3251\)  
+**Added:** 01/14/2021
 
-Added 01/14/2021
-
-Finding:
+**Finding:**
 
 When using 4-set BS, if you shoot an enemy afflicted by hydro, you will cause a freeze effect with the FFA, allowing the bloom to gain a 40% increase in critical rate.
 
-Evidence:
+**Evidence:**
 
 A significant amount of shots with a critical rate of 60 &lt; x &lt; 70, all of which yielded crits. As well as many shots with only 5% crit whilst using 4p BS and cryo resonance yielding a significantly higher amount of critical hits than expected: roughly 65% This is close to the expected with 5% \(base\) + 40% \(BS bonus\) + 15% \(resonance\), significantly higher than 20%, proving that the set bonus is activating.
 
@@ -766,17 +736,16 @@ A significant amount of shots with a critical rate of 60 &lt; x &lt; 70, all of 
 
 [FFB affected by BS set from initial arrow](https://youtu.be/5rkN6B9Tgnk)
 
-Significance:
+**Significance:**
 
 BS set is now much more viable for freeze comps since its set bonuses apply to FFB even when shooting an enemy without an elemental aura or afflicted by hydro, which means FFB will crit much more consistently. Also makes rain perfect for ganyu freeze comps.
 
 ### **Xinqiu, Mona, Childe and Barbara are viable hydro supports for Ganyu freeze teams**
 
-\(Nello\#1928\)
+**By:** \(Nello\#1928\)  
+**Added:** 01/15/2021
 
-Added 01/15/2021
-
-Finding:
+**Finding:**
 
 Xinqiu, Mona, Childe and Barbara are viable hydro supports for freeze comps, albeit C0 Childe is situational and Barbara has a long effective CD \(can't apply for a long period before her E's CD reset\).
 
@@ -785,7 +754,7 @@ Xinqiu, Mona, Childe and Barbara are viable hydro supports for freeze comps, alb
 * Childe \(C0\): It is a powerful option, however the most situational. Only works against multiple enemies. Riptide keeps reapplying AoE hydro every time enemies are defeated, therefore sometimes swapping is not even necessary. Might require 0 investment since his only job is to apply riptide \(may not even need his A4 passive, check out Aerylle\#1254 video below\).
 * Barbara: Can apply hydro as long as you keep close to enemies while her E is active and has decent healing capacity. Her downsides are the need to remain near enemies and the long effective CD \(17 s, but further reduced by A4 and C2 to 7.2 s\). However, she is a free unit available to all and is viable if there are no other options.
 
-Evidence:
+**Evidence:**
 
 Below are some examples of these characters being used in freeze comps.
 
@@ -813,21 +782,19 @@ Barbara:
 
 Credits: A very special thanks to Aerylle\#1254, Kidz\#8667 and Yicc\#7775 for kindly sharing their videos.
 
-Significance:
+**Significance:**
 
 When building teams it is important to understand the viability/potential use of different units to apply hydro for freeze comps, especially considering required investment and unit accessibility, as some units are harder to obtain than others and/or require more resources to be useful.
 
 ### **Ganyu’s Constellation 1 cryo shred stacks with Zhongli’s shred post-1.3**
 
-\(Kaihaoken\#0001\)
+**By:** \(Kaihaoken\#0001\) **Added:** 02/10/2021
 
-Added 02/10/2021
-
-Finding:
+**Finding:**
 
 The 15% cryo resistance shred from Ganyu's Constellation 1 stacks with the 20% omnishred from Zhongli's Jade Shield \(post 1.3 buff\).
 
-Evidence:
+**Evidence:**
 
 For consistency's sake, in the video below all shots are taken at point blank range with Amos' Bow. First, Frostflake Bloom from Ganyu hits for 39,300. The next Frostflake Bloom with Zhongli's shield applied hits for 43,134. As resistance shred gets diminishing returns beyond 0% resistance, we see a damage gain of roughly 9.75% which falls in line with the strength of Zhongli’s Jade Shield resistance shred of 20%.
 
@@ -836,7 +803,7 @@ For consistency's sake, in the video below all shots are taken at point blank ra
 
 [\[video\] Ganyu's C1 stacking with ZL's shred](https://youtu.be/yEJHbiY8wvc)
 
-Significance:
+**Significance:**
 
 Zhongli provides an ample dps gain along with protection when playing in shotganyu range for any build. Additionally, this shows that Zhongli's resistance shred can stack with other forms of resistance decreasing abilities, such as Chongyun \(A4\), Geo resonance, etc.
 
@@ -844,86 +811,81 @@ Zhongli provides an ample dps gain along with protection when playing in shotgan
 
 ### **Ganyu’s E can trigger small pressure plates**
 
-\(TiagoESC\#6773\)
+**By:** \(TiagoESC\#6773\)  
+**Added:** 01/14/2021
 
-Added 01/14/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s Trail of Qilin is classified as a construct similar to Amber’s bunny, and all of the geo character’s constructs. As such, her Trail of Qilin can function as a trigger for smaller pressure plates which can help in exploration
 
-Evidence:
+**Evidence:**
 
 User Taigo tested by placing Ganyu’s Trail of Qilin on a large pressure plate where it was shown to be able to trigger half of the plate, implying that the construct’s weight is equal to that of Ambers bunny and can trigger either a small pressure plate, or half of a large one.
 
 [\[video\] Ganyu E pressure plate test](https://www.youtube.com/watch?v=YOpFt1R2OWY)
 
-Significance:
+**Significance:**
 
 With this in mind, Ganyu is potentially a better character to use for exploration as she can fill the niche of a pressure plate activator, especially if the player has access to constellation 2 giving them a second charge of Trail of Qilin.
 
 ### **Ganyu’s Bloom from Frostflake Arrow is considered a projectile and can theoretically headshot**
 
-\(Karzak\#7126\) \(SavageCabbage\#1445\)
+**By:** \(Karzak\#7126\) \(SavageCabbage\#1445\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 The Frostflake arrow’s bloom although at first glance would appear to be a separate ability unable to headshot or trigger weak points, after further investigation proved that in certain scenarios it is actually possible to trigger weak points with the bloom, in turn activating Prototype Crescents buff.
 
-Evidence:
+**Evidence:**
 
 User SavageCabbage noticed that they at one point accidentally managed to trigger the prototype crescent’s boost without hitting the enemy with their initial arrow. After discussing this finding with user Karzak, after further testing they discovered that the bloom indeed was considered a projectile, and had the capability \(although very unrealistic in practice\) to headshot.
 
 [\[video\] Ganyu bloom weak point hit](https://youtu.be/W8iWHv0tcp4)
 
-Significance:
+**Significance:**
 
 In practice when using the Prototype Crescent it is very possible to accidentally get a passive proc from the bow.
 
 ### **Ganyu’s ascension 4 passive does not stack in multiplayer**
 
-\(Moonrobin\#2608\) \(PlzBemaiPenguin\#0923\)
+**By:** \(Moonrobin\#2608\) \(PlzBemaiPenguin\#0923\) **Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 When in co-op with multiple Ganyu’s regardless of how many Ganyu ultimates you stack, the 20% bonus cryo damage from ascension 4 will only apply for a single one of the elemental bursts.
 
-Evidence:
+**Evidence:**
 
 User BemaiPenguin tested with Moonrobin in a co-op lobby by testing their E damage with no Ganyu burst, a single Ganyu burst, and two Ganyu bursts. After testing, they found that the E dealt 302, 362, and 362 respectively, showing that additional Ganyu bursts do not apply extra bonus cryo damage
 
-Significance:
+**Significance:**
 
 When playing multiplayer in an open world with multiple Ganyus, we now know that stacking Ganyu ults does not provide multiple A4 stacks to one another.
 
 ### **Ganyu can provide an ice bridge via her charged shots**
 
-\(Cola\#6861\)
+**By:** \(Cola\#6861\)  
+**Added:** 01/31/2021
 
-Added 01/31/2021
-
-Finding:
+**Finding:**
 
 Ganyu’s Frostflake arrow when shot on water applies the ice effect for long enough to allow for a 2nd charge shot to be used, in turn allowing for Ganyu to make an icebridge.
 
-Evidence:
+**Evidence:**
 
 User ColaSen tested shooting frostflake arrows repeatedly to try and travel across water and found that there was just enough time to be able to build a constant bridge if you are fast enough with your Frostflake arrows.
 
 [\[video\] Ice bridge building](https://youtu.be/UOwOaSW7bt4)
 
-Significance:
+**Significance:**
 
 Ganyu is a decent character when attempting to travel across water as her Frostflake Arrows has no cooldown unlike abilities which will theoretically allow for faster overall travel across water.
 
 ### Unlimited Ganyu Works
 
-By: Pinupski\#9999   
-Added: 04/05/2021
+**By:** Pinupski\#9999  
+**Added:** 04/05/2021
 
 The culmination of all Ganyu macro-related testing and iteration since release. Now compiled into one mostly comprehensible document.
 

@@ -2,8 +2,8 @@
 
 ## Bush Droprates
 
-By: gideleon1\#2188   
-Added: 04/11/2021
+**By:** gideleon1\#2188  
+**Added:** 04/11/2021
 
 **Finding:** There is an 8% chance to get something from a broken bush.
 
@@ -17,14 +17,14 @@ It seems like the drop is chosen randomly. Testing was done during the day, beca
 
 **Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
 
-I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results. 
+I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results.
 
 **Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
 
 ## Destroy Function Mechanics
 
-By: xf3\#3123  
-Added: 04/08/2021
+**By:** xf3\#3123  
+**Added:** 04/08/2021
 
 **Finding:**
 
@@ -50,8 +50,8 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 ### Resin to Stardust Exchange Comparison
 
-By: Mateng\#4507  
-Added: 4/14/2021
+**By:** Mateng\#4507  
+**Added:** 4/14/2021
 
 **Findings**: Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. They are 65.33 Stardust/Resin, while Gold leylines and Magic Crystal Ore conversion from the Blacksmiths are both 60 Stardust/Resin.
 

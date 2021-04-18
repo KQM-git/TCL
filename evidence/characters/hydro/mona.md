@@ -2,8 +2,8 @@
 
 ## **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
 
-By: Kimmu\#0007  
-Added on 5/12/2020
+**By:** Kimmu\#0007  
+**Added:** 5/12/2020
 
 **Finding:**
 
@@ -19,8 +19,8 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 
 ## **Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?**
 
-By: Chidoge\#3163  
-Added on 5/12/2020
+**By:** Chidoge\#3163  
+**Added:** 5/12/2020
 
 **Finding:**
 
@@ -42,8 +42,8 @@ However, if you switch out for too long, Mona will lose the ATK buff and the bub
 
 ## **How many Elemental Particles does Mona’s Elemental Skill Generate?**
 
-By: Curiously\#2324  
-Added on 5/12/2020
+**By:** Curiously\#2324  
+**Added:** 5/12/2020
 
 **Finding:**
 
@@ -59,8 +59,8 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 
 ## **What Attack String Combo Outputs the Highest DPS for Mona?**
 
-By: Baezal\#0868  
-Added on 27/12/2020
+**By:** Baezal\#0868  
+**Added:** 27/12/2020
 
 **Finding:**
 
@@ -78,8 +78,8 @@ Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. 
 
 ## **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?**
 
-By: Curiously\#2324  
-Added on 02/02/2021
+**By:** Curiously\#2324  
+**Added:** 02/02/2021
 
 **Finding:**
 
@@ -95,8 +95,8 @@ This has been confirmed due to math being done to break down how Mona's Q Burst 
 
 ## **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**
 
-By: Gibbigobo\#9750  
-Added on 23/02/2021
+**By:** Gibbigobo\#9750  
+**Added:** 23/02/2021
 
 **Finding:**
 
@@ -120,19 +120,19 @@ In the second screenshot below, If I were add back the Omen damage bonus to the 
 
 ## Rosaria's Passive Affects Mona's Alternate Sprint
 
-By: Aetherpon\#5730  
-Added: 04/09/2021
+**By:** Aetherpon\#5730  
+**Added:** 04/09/2021
 
 **Finding:** Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
 
-**Evidence:** 
+**Evidence:**
 
 * [Control test of just Mona sprinting w/o buffs](https://youtu.be/9fQuHfu2QWA)
 * [Mona + Rosaria](https://youtu.be/HZV5pSEIvm0)
 * [Mona + Anemo Resonance](https://youtu.be/JNmyRs8oDr8)
 * [Mona + Rosaria + Anemo Resonance](https://youtu.be/EgIj2mU-d8I)
 
-It's actually a smaller buff than one would think, but there is a slight difference in distance travelled. 
+It's actually a smaller buff than one would think, but there is a slight difference in distance travelled.
 
 **Significance:** Despite alternate sprints not benefiting from regular sprint passives \(Razor/Kaeya\), they do gain buffs from general movement speed buffs \(like Rosaria's passive\).
 

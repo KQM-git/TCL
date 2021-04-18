@@ -481,7 +481,7 @@
 
 ## Range Cap for Arrows
 
-By: [Poyo\#6921](../../../evidence/mechanics/equipment/weapons.md#range-cap-for-arrows)
+**By:** [Poyo\#6921](../../../evidence/mechanics/equipment/weapons.md#range-cap-for-arrows)
 
 **Finding**:
 

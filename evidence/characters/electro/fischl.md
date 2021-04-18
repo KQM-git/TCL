@@ -2,7 +2,7 @@
 
 ## 4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction
 
-By: Cenpi\#3224
+**By:** Cenpi\#3224
 
 The 4TF set effect adds 40% additional damage to electro-related reactions. In addition, everytime a reaction is proccd, the E CD is reduced by 1 second \(every 0.8s\).
 
@@ -22,7 +22,7 @@ Therefore, Keqing does not significantly benefit from the 4 set thundering fury 
 
 ## 4pc Thundering Fury’s 40% Reaction DMG Increase Works When Wearer is Off-Field
 
-By: Boesik\#3192, Cenpi\#3224, Lix-\#3417
+**By:** Boesik\#3192, Cenpi\#3224, Lix-\#3417
 
 In short, yes. The 4 set TF increases reaction damage even if the holder is not on the field.
 
@@ -62,7 +62,7 @@ This finding means that you can put 4TF on a support and get the bonus damage to
 
 ## 4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction
 
-By: Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
+**By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
 In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.
 
@@ -99,7 +99,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to k
 ## Summons are Not Dynamic and Snapshot on Cast
 
 Submitted by: Comfy Seaweed\#3841  
-Added 11/22/2020
+**Added:** 11/22/2020
 
 **Evidence:** [https://youtu.be/-utEL05jfDg](https://youtu.be/-utEL05jfDg)
 
@@ -123,7 +123,7 @@ This means that you can potentially update Oz's snapshot to reflect any new buff
 
 ## Bow Users can use Aim Cancel
 
-Added 11/19/2020
+**Added:** 11/19/2020
 
 To perform an aim cancel, after performing a normal attack string, double tap "R" or your aimed shot button.
 
@@ -194,7 +194,8 @@ One more reason to get Sucrose out in the field more often, at least for this us
 
 ## Fischl A1 Can Proc Prototype Crescent Passive
 
-By: Charliex3000\#9403 Added: 03/25/2021
+**By:** Charliex3000\#9403  
+**Added:** 03/25/2021
 
 **Finding:** Fischl A1 can proc prototype crescent passive on humanoids \(hitbox with weakpoint on top\)
 
@@ -207,7 +208,8 @@ By: Charliex3000\#9403 Added: 03/25/2021
 
 ## Fischl New MVs
 
-By: ProfHugo\#6478 Added: 03/25/2021
+**By:** ProfHugo\#6478  
+**Added:** 03/25/2021
 
 **Finding:** Fischl's MV/s ceiling is substantially higher than what was previously recorded.
 
@@ -235,8 +237,8 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 ## Fischl C6 + Innate Elemental Attacks in Turbo
 
-By: Vye\#9195  
-Added: 04/05/2021
+**By:** Vye\#9195  
+**Added:** 04/05/2021
 
 **Finding:**
 
@@ -268,8 +270,8 @@ In turbo compositions, using a pyro character with either innate pyro NA or infu
 
 ## Fischl Turbo Superconduct Exploration
 
-By: Vye\#9195  
-Added: 04/05/2021
+**By:** Vye\#9195  
+**Added:** 04/05/2021
 
 By using the turbo mechanic and adding a hydro unit you can create a team comp that utilizes the energy generation from turbo while also maintaining an 80% freeze uptime for your composition. Due to the constant superconduct this will also enable a potential physical carry for this team comp.
 
@@ -306,10 +308,10 @@ Blizzard Strayer is applied off-field on abilities like XQ Q.
 
 ## Fischl E ICD
 
-By: muakasan\#2792  
-Added: 04/05/2021
+**By:** muakasan\#2792  
+**Added:** 04/05/2021
 
-**Finding:** 
+**Finding:**
 
 Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro every 4 hits or when a timer reaches 5 seconds after the first electro application. When the 5 second timer reaches zero, the oz's next hit will apply electro regardless of the hit counter. When the timer reaches 0 the hit counter will be reset and a new 5 sec timer will begin. This is very similar to auto attack ICDs, except instead of 3 auto attacks it is 4 oz hits, and instead of a 2.5 sec timer, it is a 5 sec timer.
 

@@ -24,11 +24,11 @@ Eula performs up to 5 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 109.63% |  |  |
-| 2-Hit | 117.50% |  |  |
-| 3-Hit | 66.56% x2 |  |  |
-| 4-Hit | 156.75% |  |  |
-| 5-Hit | 86.06% x2 |  |  |
+| 1-Hit | 130.43% |  |  |
+| 2-Hit | 135.98% |  |  |
+| 3-Hit | 82.56% x2 |  |  |
+| 4-Hit | 163.73% |  |  |
+| 5-Hit | 104.41% x2 |  |  |
 
 **Charged Attack**
 
@@ -38,8 +38,8 @@ Eula drains Stamina over time to perform continuous slashes. At the end of the s
 | :--- | :--- | :--- | :--- |
 | Spinning DMG | 100% |  |  |
 | Final DMG | 180.81% |  |  |
-| Stamina Cost | 40/s |  |  |
-| Max Duration | 5s |  |  |
+| Stamina Cost | 40/s | ~ | ~ |
+| Max Duration | 5s | ~ | ~ |
 
 **Plunge Attack**  
 Eula plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE damage upon impact.
@@ -90,9 +90,9 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 
 | Effect | Talent 6% |
 | :--- | :--- |
-| Skill DMG | 287.84% |
-| Lightfall Sword Base DMG | 512.50% |
-| DMG per Stack | 93.75% |
+| Skill DMG | 343.84% |
+| Lightfall Sword Base DMG | 533.50% |
+| DMG per Stack | 109% |
 | Maximum Stacks | 30 |
 | CD | 20s |
 | Energy Cost | 80 |
@@ -114,13 +114,13 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 {% tab title="Ascension 1" %}
 ### Roiling Rime
 
-If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Lightfall Sword Remnant will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination.
+If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword** Remnant will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Wellspring of War-Lust
 
-When Eula's Normal Attacks score CRIT Hits, Icetide Vortex's CD will be decreased by 0.3s. This effect can only occur once every 10s.
+When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart.**
 {% endtab %}
 {% endtabs %}
 
@@ -128,11 +128,15 @@ When Eula's Normal Attacks score CRIT Hits, Icetide Vortex's CD will be decrease
 
 {% tabs %}
 {% tab title="C1" %}
+### Tidal Illusion
 
+Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
 {% endtab %}
 
 {% tab title="C2" %}
+### Lady of Seafoam
 
+Decreases the CD of **Icetide Vortex**'s Hold Variant, rendering it identical to its Press CD.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -168,18 +172,18 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 109.63% | 119.27% | 128.92% | 138.57% | 149.09% | 161.15% |
-| 2-Hit DMG | 117.50% | 127.84% | 138.18% | 148.52% | 159.80% | 172.73% |
-| 3-Hit DMG | 66.56% + 66.56% | 72.42% + 72.42% | 78.28% + 78.28% | 84.14% + 84.14% | 90.53% + 90.53% | 97.85% + 97.85% |
-| 4-Hit DMG | 156.75% | 170.54% | 184.34% | 198.13% | 213.18% | 230.42% |
-| 5-Hit DMG | 86.06% + 86.06% | 93.64% + 93.64% | 101.21% + 101.21% | 108.78% + 108.78% | 117.05% + 117.05% | 126.51% + 126.51% |
+| 1-Hit DMG | 130.43% | 141.90% | 153.38% | 164.86% | 177.38% | 191.72% |
+| 2-Hit DMG | 135.98% | 147.94% | 159.91% | 171.87% | 184.93% | 199.88% |
+| 3-Hit DMG | 82.56% x2 | 89.82% x2 | 97.09% x2 | 104.35% x2 | 112.28% x2 | 121.36% x2 |
+| 4-Hit DMG | 163.73% | 178.13% | 192.54% | 206.95% | 222.67% | 240.68% |
+| 5-Hit DMG | 104.41% x2 | 113.6% x2 | 122.79% x2 | 131.97% x2 | 142% x2 | 153.48% x2 |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 100% | 108.80% | 117.60% | 126.40% | 136% | 147% |
-| Charged Attack Final DMG | 180.81% | 196.72% | 212.64% | 228.55% | 245.91% | 265.79% |
+| Spinning DMG | 100% | 108.80% | 117.60% | 126.40% | 136% | 147% |
+| Final DMG | 180.81% | 196.72% | 212.64% | 228.55% | 245.91% | 265.79% |
 
 **Stamina Cost**: 40
 
@@ -216,9 +220,9 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 {% tab title="Glacial Illumination" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 287.84% | 308.40% | 328.96% | 349.52% | 370.08% | 390.64% | 411.20% | 436.90% |
-| Lightfall Sword Base DMG | 512.50% | 557.60% | 602.70% | 647.80% | 697% | 753.38% | 819.67% | 885.97% |
-| DMG Per Stack | 93.75% | 102% | 110.25% | 118.50% | 127.50% | 137.81% | 149.94% | 162.07% |
+| Skill DMG | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
+| Lightfall Sword Base DMG | 533.50% | 580.45% | 627.40% | 674.34% | 725.56% | 784.25% | 853.26% | 922.27% |
+| DMG Per Stack | 109% | 118.59% | 128.18% | 137.78% | 148.24% | 160.23% | 174.33% | 188.43% |
 
 **Energy Cost**: 80
 

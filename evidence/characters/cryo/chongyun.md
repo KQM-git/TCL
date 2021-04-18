@@ -2,7 +2,7 @@
 
 ## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)**
 
-By: shdwbld\#8103
+**By:** shdwbld\#8103
 
 **Findings:**
 
@@ -36,7 +36,7 @@ By: shdwbld\#8103
 
 ## **Chongyun C6 DMG bonus is Additive**
 
-By: _\*\*_Artesians\#0002
+**By:** \_\*\*\_Artesians\#0002
 
 **Findings:**
 
@@ -58,20 +58,20 @@ Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
 
 ## C2 CDR Based on Original Cooldown
 
-By: Sparko53557\#7010 and LazyGeniusMan\#6252  
-Added: 4/13/2021
+**By:** Sparko53557\#7010 and LazyGeniusMan\#6252  
+**Added:** 4/13/2021
 
-**Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
+**Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters.
 
 **Evidence:** [https://youtu.be/mlaGmZoQw7k](https://youtu.be/mlaGmZoQw7k)
 
-C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your skill’s CD duration by 100%. 
+C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so while in Cecilia Garden 2 which increases your skill’s CD duration by 100%.
 
 **Significance**: Chongyun is largely ineffective at decreasing the debuff from slowing waters in a meaningful fashion.
 
 ### **Addendum**
 
-By: LazyGeniusMan\#6252
+**By:** LazyGeniusMan\#6252
 
 **Finding:** When used with any cooldown reduction\(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the CDR from the active character and Slowing Waters.
 
@@ -83,7 +83,7 @@ let y = (E-cooldown) * (CDR from own character) * (Chongyun C2’s CDR)
 (E-cooldown) * (CDR from own character) * (Slowing Water Debuff) – (x - y) = E Cooldown
 ```
 
- **For example:**
+**For example:**
 
 ```python
 Bennett’s E’s CD : 5 s 
@@ -99,7 +99,7 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 4 - .3 = 3.7 seconds
 ```
 
-**Evidence:** [https://imgur.com/a/I8TM0uV](https://imgur.com/a/I8TM0uV) 
+**Evidence:** [https://imgur.com/a/I8TM0uV](https://imgur.com/a/I8TM0uV)
 
 **Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.
 
