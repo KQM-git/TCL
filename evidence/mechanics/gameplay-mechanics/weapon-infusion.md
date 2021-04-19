@@ -1,6 +1,6 @@
 # Weapon Infusion
 
-## Infusion Element Ordering
+## Elemental Infusion Priority
 
 **By:** xf3\#3123  
 **Added:** 04/18/2021
