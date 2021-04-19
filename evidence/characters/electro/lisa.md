@@ -2,13 +2,13 @@
 
 ## Violet Arc's Press variant AoE is passed to all affected targets
 
-By: ArchedNosi\#1484   
- Added: 4/18/2021
+By: ArchedNosi\#1484  
+Added: 4/18/2021
 
 **Findings:**
 
-The description of Violet Arc clearly states that _opponents in a small AoE_ are additionally stacked with Conductive, and this is true. But it does not mention that enemies affected also will have their own radius, thus chaining more stacks of Conductive.   
- Mobs hit via the initial small radius outputted by her Press E also output their own radius, and those in its radius can also get affectede by Conductive, including the initial target.
+The description of Violet Arc clearly states that _opponents in a small AoE_ are additionally stacked with Conductive, and this is true. But it does not mention that enemies affected also will have their own radius, thus chaining more stacks of Conductive.  
+Mobs hit via the initial small radius outputted by her Press E also output their own radius, and those in its radius can also get affectede by Conductive, including the initial target.
 
 Can work in conjunction to the effect described in a below entry: **Violet Arc's Conductive status can be passed with Overload and Superconduct**
 
@@ -24,14 +24,14 @@ Lisa can easily abuse this knowledge in tightly packed groups to quickly and eff
 
 ## The Mechanics of Lisa's C1
 
-By: ArchedNosi\#1484   
- Added: 4/18/2021
+By: ArchedNosi\#1484  
+Added: 4/18/2021
 
 **Findings:**
 
-The current description for Lisa's first constellation is currently limited, it states that:   
-_"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_   
- However, upon investigation, the generation of energy from Violet Arc is not limited to its Held variant, but can also work with the press variant.
+The current description for Lisa's first constellation is currently limited, it states that:  
+_"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_  
+However, upon investigation, the generation of energy from Violet Arc is not limited to its Held variant, but can also work with the press variant.
 
 Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
 
@@ -54,7 +54,7 @@ In knowing how C1 actually works, Lisa, when she is on-field, can effectively ru
 
 ## Violet Arc's Hold Variant has a Cylindrical Hitbox
 
-**By:** ArchedNosi\#1484   
+**By:** ArchedNosi\#1484  
 **Added**: 4/18/2021
 
 **Findings:**
@@ -77,14 +77,14 @@ No obvious and major significance in Spiral Abyss, but its extreme capabilities 
 
 ## Violet Arc's Conductive status can be passed with Overload and Superconduct
 
-**By:** ArchedNosi\#1484   
+**By:** ArchedNosi\#1484  
 **Added:** 4/18/2021
 
 **Findings:**
 
-When Lisa's Press variant of Violet Arc strikes an opponent affected by Pyro or Cryo, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack, effectively radiating it. 
+When Lisa's Press variant of Violet Arc strikes an opponent affected by Pyro or Cryo, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack, effectively radiating it.
 
-If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct mob will obtain 3 Conductive stacks and it will radiate 2 stacks to nearby opponents. 
+If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct mob will obtain 3 Conductive stacks and it will radiate 2 stacks to nearby opponents.
 
 If 2 opponents are nearby and only one is afflicted with a status, Violet Arc, if it directly hits the afflicted mob, will add 3 stacks of Conductive to both enemies.
 
