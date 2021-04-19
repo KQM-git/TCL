@@ -1,4 +1,4 @@
-# Enemy Shields
+# Enemy Shields and Armor
 
 ## Breaking Childe's Shield with Stagger
 
