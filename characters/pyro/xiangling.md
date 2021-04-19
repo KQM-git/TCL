@@ -65,7 +65,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | GU | 1A |
 | Particles | Up to 4 particles |
 
-* Multiple Guobas exist on-field at a time if Xiangling has enough Cooldown Reduction
+* Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
 {% endtab %}
 
 {% tab title="Pyronado" %}
@@ -199,5 +199,7 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG B
 
 ## External links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xiangling)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiangling)
+
+{% page-ref page="../../evidence/characters/pyro/xiangling.md" %}
 
