@@ -2,7 +2,7 @@
 description: Elemental infusions
 ---
 
-# Infusion
+# Weapon Infusion
 
 Infusion is a mechanic that converts a character's attacks to a specific element. This affects all Normal Attacks,
 Charged Attacks, and Plunge Attacks. Infusions can be overridden unless explicitly stated otherwise.Infusions have an
