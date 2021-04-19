@@ -2,8 +2,8 @@
 
 ## Jean's C4 verticality
 
-**By:** Special\#1775
-<br/>**Added:** 11/24/2020
+**By:** Special\#1775  
+**Added:** 11/24/2020
 
 **Findings:**
 
@@ -37,8 +37,8 @@ Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 
 
 ## Fall Damage Basis from Gale Blade
 
-**By:** Wrax\#7777
-<br/>**Added:** 12/1/2020
+**By:** Wrax\#7777  
+**Added:** 12/1/2020
 
 **Theory:**
 
@@ -86,4 +86,3 @@ Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in t
 **Significance:**
 
 Very consistent aura application. Can be used for Cryo or Hydro main carries or Overload setups in conjunction with Bennett.
-
