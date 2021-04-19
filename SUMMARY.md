@@ -58,7 +58,6 @@
 
 ## Mechanics
 
-* [Gacha](mechanics/gacha.md)
 * [Gameplay Mechanics](mechanics/gameplay-mechanics/README.md)
   * [Attributes](mechanics/gameplay-mechanics/attributes/README.md)
     * [Cooldowns](mechanics/gameplay-mechanics/attributes/cooldowns.md)
