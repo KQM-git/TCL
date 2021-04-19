@@ -61,9 +61,9 @@
 * [Gacha](mechanics/gacha.md)
 * [Gameplay Mechanics](mechanics/gameplay-mechanics/README.md)
   * [Attributes](mechanics/gameplay-mechanics/attributes/README.md)
+    * [Cooldowns](mechanics/gameplay-mechanics/attributes/cooldowns.md)
     * [Energy](mechanics/gameplay-mechanics/attributes/energy.md)
   * [Bugs](mechanics/gameplay-mechanics/bugs.md)
-  * [Cooldowns](mechanics/gameplay-mechanics/cooldowns.md)
   * [Constructs and Summons](mechanics/gameplay-mechanics/constructs-and-summons.md)
   * [Field Buffs](mechanics/gameplay-mechanics/field-buffs.md)
   * [Hitlag Extension](mechanics/gameplay-mechanics/hitlag-extension.md)
@@ -97,6 +97,11 @@
   * [Enemy Elemental Gauge](mechanics/enemies/enemy-elemental-gauge.md)
   * [Enemy Resistances](mechanics/enemies/enemy-resistances.md)
   * [Enemy Shields and Armor](mechanics/enemies/enemy-shields-armor.md)
+* [Spiral Abyss](mechanics/spiral/README.md)
+  * [Cards](mechanics/spiral/cards.md)
+  * [Tech](mechanics/spiral/tech/README.md)
+    * [Plunge](mechanics/spiral/tech/plunge.md)
+  
 
 ## Fluff
 
@@ -154,9 +159,9 @@
   * [Mechanics](evidence/mechanics/README.md)
     * [Gameplay Mechanics](evidence/mechanics/gameplay-mechanics/README.md)
       * [Attributes](evidence/mechanics/gameplay-mechanics/attributes/README.md)
+        * [Cooldowns](evidence/mechanics/gameplay-mechanics/attributes/cooldowns.md)
         * [Energy](evidence/mechanics/gameplay-mechanics/attributes/energy.md)
       * [Bugs](evidence/mechanics/gameplay-mechanics/bugs.md)
-      * [Cooldowns](evidence/mechanics/gameplay-mechanics/cooldowns.md)
       * [Constructs and Summons](evidence/mechanics/gameplay-mechanics/constructs-and-summons.md)
       * [Field Buffs](evidence/mechanics/gameplay-mechanics/field-buffs.md)
       * [Hitlag Extension](evidence/mechanics/gameplay-mechanics/hitlag-extension.md)
@@ -183,5 +188,9 @@
       * [Enemy Attributes](evidence/mechanics/enemies/enemy-attributes.md)
       * [Enemy Elemental Gauge](evidence/mechanics/enemies/enemy-elemental-gauge.md)
       * [Enemy Shields and Armor](evidence/mechanics/enemies/enemy-shields.md)
+    * [Spiral Abyss](evidence/mechanics/spiral/README.md)
+      * [Cards](evidence/mechanics/spiral/cards.md)
+      * [Tech](evidence/mechanics/spiral/tech/README.md)
+        * [Plunge](evidence/mechanics/spiral/tech/plunge.md)
     * [Gacha](evidence/mechanics/gacha.md)
 
