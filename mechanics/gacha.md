@@ -32,10 +32,10 @@ Estimated number of 5\* pulls to get desired character:
 
 | Item | Pulls |
 | :--- | :--- |
-| c0 character (with pity) | 1 |
-| c0 character (no pity) | 1.5 |
-| c6 character (starting with pity) | 10 |
-| c6 character (not starting with pity) | 10.5 |
+| C0 character (with pity) | 1 |
+| C0 character (no pity) | 1.5 |
+| C6 character (starting with pity) | 10 |
+| C6 character (not starting with pity) | 10.5 |
 
 ### Featured Weapon Banner
 
