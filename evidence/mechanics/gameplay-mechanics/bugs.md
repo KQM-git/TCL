@@ -90,7 +90,8 @@
 ## Lag and Snapshot Interactions
 
 **By:** Soup420\#1634  
-**Added:** 04/19/2021
+**Added:** 04/19/2021  
+****[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
 
 **Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
