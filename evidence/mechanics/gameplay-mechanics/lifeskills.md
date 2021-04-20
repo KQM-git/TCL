@@ -1,5 +1,27 @@
 # Lifeskills
 
+## Food Costs
+
+**By:** Anmol43\#1917
+**Added:** 4/20/2021
+
+**Finding:** Documenting the cost, in mora, of all food items in Genshin Impact.
+
+**Evidence:** https://docs.google.com/spreadsheets/d/1Vc7ioD_IH--9b7ZDbj4nPdByS6jTFyHx7jphxXNioz4/edit#gid=421796366
+
+Methodology: the cost of an ingredient is determined by the lowest cost of that ingredient in an NPC shop if the ingredient is sold. If the ingredient is not sold but is available on expeditions, then the ingredient is assigned a cost of 250, since a 20 hour expedition gives 5000 mora or an average of 20 ingredients (average of 10 ingredients collected per expedition for each ingredient), so the tradeoff for each ingredient is 250 Mora. If the ingredient is neither sold nor available on expeditions, the ingredient is assigned a cost of 0. Calculations are also made with reputation discount costs, which are gained for each region at Reputation Level 4. Character special foods are not considered.
+
+Notable Findings:
+ 
+* Cheapest 3\* instant heal (assuming 20k HP): Mondstadt Hashbrowns, 8.57 Health/Mora
+* Most Mora-efficient heal (assuming 20k HP): Grilled Tiger Fish, 11.23 Health/Mora
+* Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
+* Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
+
+As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
+
+**Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
+
 ## Bush Droprates
 
 **By:** gideleon1\#2188  
