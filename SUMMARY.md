@@ -107,7 +107,7 @@
 * [Damage Calculators](calculators/damage-calculator/README.md)
   * [Weapon Kequlator](calculators/damage-calculator/weapon-kequlator.md)
   * [Keqing Damage Calculator](calculators/damage-calculator/keqing-damage-calculator.md)
-  * [Untitled](calculators/damage-calculator/untitled.md)
+  * [Simple Damage Calculator](calculators/damage-calculator/untitled.md)
 
 ---
 
