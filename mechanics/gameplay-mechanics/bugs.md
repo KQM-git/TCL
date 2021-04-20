@@ -15,14 +15,14 @@ When using the retry button in abyss your [elemental skill and burst will not re
 [Bushes respawn infinitely](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
 
 ## Lag
-[There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-interactions) With unstable internet connection. Character stats are snapshotted client side with enemy stats calculated server side.
-This can lead to things like Bennett's burst healing past 70%, while Albedo's A2 will not benefit from enemies falling below 50% HP.
+
+[There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-interactions) With unstable internet connection. Character stats are snapshotted client-side with enemy stats calculated server-side. This can lead to things like Bennett's burst healing past 70%, or Albedo's A1 not benefitting from enemies falling below 50% HP.
 
 ## Miscellaneous
 
 [Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
-[Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event.
+[Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
 
 ## Fixed Bugs
 

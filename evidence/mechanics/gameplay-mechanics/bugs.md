@@ -88,15 +88,16 @@
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
 
 ## Lag Interactions
+
 **By:** Soup420\#1634  
 **Added:** 04/19/2021
 
-**Finding:**
-Basically the finding is that skills that snapshot character stats like attack and hp are probably snapshot client side and sent to server to be confirmed. Same applies with skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection.
-However hp can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
+**Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
-Skills that are dependent on enemy hp values like Diluc c1 or Albedo A2 are applied server side, and from my findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done are calculated by the server, but using the stats sent from the player client.
+Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
 
-**Evidence:**
-[Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)  
-[Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
+**Evidence:** 
+
+* [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
+* [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
+

@@ -112,7 +112,7 @@ The Pyro Infusion granted by Dawn lasts 4s longer. Additionally, Diluc gains 20%
 {% endtab %}
 {% endtabs %}
 
-### Constellations
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
@@ -210,10 +210,8 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 {% endtab %}
 {% endtabs %}
 
-### **External Links**
+## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Diluc)
-* [**Diluc Mains Discord**](https://discord.gg/af9MWyd)
-
-**Evidence Vault:**
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Diluc)
+* [Diluc Mains Discord](https://discord.gg/af9MWyd)
 
