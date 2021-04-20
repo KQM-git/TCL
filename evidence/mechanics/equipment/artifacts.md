@@ -398,7 +398,7 @@ Tiny Miracle is equipped and you don't get RES% buff until after shield is broke
 
 **Theory:**
 
-Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different element resist together
+Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different elemental resistances together.
 
 **Testing:**
 
@@ -421,6 +421,25 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 [**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
 
 **Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
+
+### **4pc Viridescent Venerer can Proc Two Debuffs in One Swirl**
+
+**By:** Faranight\#0001
+
+**Added:** 4/20/2021
+
+**Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single swirl against Electro-Charged or Frozen targets.
+
+**Evidence:** 
+https://youtu.be/-6VU-qdN8Uw 
+
+In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean swirls the target with a single E, Barbara's normals deal 44 damage and Beidou's burst deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single swirl.
+
+https://youtu.be/bQmPheaLGXE
+
+In this video, Jean does 98 Cryo damage (infused by Chongyun) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single swirl reaction. 
+
+**Signifiance:** Improves rotations; anemo characters don't need to be swapped in for each individual elemental debuff.
 
 ### **4pc Viridescent Venerer Explained**
 
