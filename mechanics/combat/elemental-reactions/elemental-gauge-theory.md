@@ -144,6 +144,12 @@ EC is triggered when an enemy with a Hydro or Electro aura has the other aura ap
 
 Each tick of EC **consumes 0.4GU from both gauges**. Once a gauge is empty, the element will disappear from the enemy’s status, but the other element will remain available to further reactions.
 
+## Self Aura
+Self Auras are elements applied to the player character. This can be from things such as leylines, taking elemental damage from an enemy, or having an ability that imbues the character with an element.
+These all have the ability to react with a slightly different ruleset. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura aura transitions directly to the other element.
+
+Further, Self Auras have a particular interaction with Elemental Absorptions where it absorbs the Self Aura element and applies that element. This allows for using elements that are not present within the player's team.
+
 ## **Credits**
 
 ### **Writers:**

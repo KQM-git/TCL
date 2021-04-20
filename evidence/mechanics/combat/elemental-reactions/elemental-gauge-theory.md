@@ -441,3 +441,35 @@ Translated by: iDreamz梦
 
 Reviewed/Edited by: IonFox, Doug
 
+## Self Gauge theory
+**By:** Monochrom9\#8058  
+**Added:** 04/19/2021
+
+**Theory:**  Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U
+value greater than the remaining aura
+
+**Evidence:** https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb
+
+**Significance:** Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies
+and this works regardless of where the aura came from. In the future larger self applying gauges could allow for other
+builds such as hail's self-overloading razor that takes advantage of aura oscillation with repeated self gauge
+application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an
+aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
+
+## Self Aura Infusion
+**By:** Monochrom9\#8058  
+**Added:** 04/19/2021
+
+**Finding:** It has been known that you can use self auras to infuse anemo ults (Venti/Sucrose) with elements instead of
+enemy auras. This happens to include the aura applied by leylines so it allows for elements not present AT ALL otherwise
+to be practically included in a team.
+
+**Evidence:** 
+* https://imgur.com/a/cTN4R7K
+* https://imgur.com/a/qgT2usb
+
+**Significance:**  With this technique you can infuse elements that are otherwise not present AT ALL within your team or the
+enemies, allowing for compositions to cheat the matching element into their team at little cost. A current powerful
+application of this is using this to deal with Hydro Fatui gunner's shield in lieu of bringing an actual electro unit,
+decreasing the number of constraints on floor 11 team construction if you can't simply kill the Fatui before they put up
+the shield.
