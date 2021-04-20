@@ -87,7 +87,7 @@
 * These stacks can be maintained in the open world, so if you want to do something like kill the cryo regisvine in 4 seconds you can do that
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
 
-## Lag Interactions
+## Lag and Snapshot Interactions
 
 **By:** Soup420\#1634  
 **Added:** 04/19/2021
