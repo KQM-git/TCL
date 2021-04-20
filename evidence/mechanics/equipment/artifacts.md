@@ -431,6 +431,7 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 **Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single swirl against Electro-Charged or Frozen targets.
 
 **Evidence:** 
+
 https://youtu.be/-6VU-qdN8Uw 
 
 In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean swirls the target with a single E, Barbara's normals deal 44 damage and Beidou's burst deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single swirl.
