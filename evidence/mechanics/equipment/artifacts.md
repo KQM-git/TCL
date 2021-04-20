@@ -428,17 +428,17 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 **Added:** 4/20/2021
 
-**Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single swirl against Electro-Charged or Frozen targets.
+**Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single anemo attack against Electro-Charged or Frozen targets.
 
 **Evidence:** 
 
 https://youtu.be/-6VU-qdN8Uw 
 
-In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean swirls the target with a single E, Barbara's normals deal 44 damage and Beidou's burst deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single swirl.
+In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean attacks the target with a single use of Gale Blade, Barbara's normals deal 44 damage and Beidou's burst deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single anemo attack.
 
 https://youtu.be/bQmPheaLGXE
 
-In this video, Jean does 98 Cryo damage (infused by Chongyun) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single swirl reaction. 
+In this video, Jean does 98 Cryo damage (infused by Chongyun) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single anemo attack. 
 
 **Signifiance:** Improves rotations; anemo characters don't need to be swapped in for each individual elemental debuff.
 
