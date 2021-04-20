@@ -459,7 +459,7 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 
 **Significance**: Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
 
-### Refinement costs
+### Refinement Costs
 **By:** JonahFarc\#7056  
 **Added:** 04/18/2021
 
