@@ -85,7 +85,7 @@ Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him
 * **Glacial Waltz** does not have any hitlag.
 * **Glacial Waltz** hits around 13 times while standing stationary.
 * The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
-* Each Icicle has a ~1 second ICD.
+* Each Icicle has a ~1 sec. [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy
 {% endtab %}
 {% endtabs %}
 
@@ -108,6 +108,7 @@ Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.
 ### Glacial Heart
 
 Opponents frozen by **Frostgnaw** will drop additional Cryo elemental particles. **Frostgnaw** may only produce a maximum of 2 additional elemental particles per use.
+
 * This applies even if the target is already frozen
 {% endtab %}
 {% endtabs %}
