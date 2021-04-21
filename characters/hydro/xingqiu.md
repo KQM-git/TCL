@@ -236,7 +236,7 @@ Energy regeneration is not affected by Energy Recharge.
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xingqiu)
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)
-* [Xingqiu Handbook](https://docs.google.com/document/u/1/d/e/2PACX-1vQh8k62r8m0YwyRkhfI7qi4-iSLj5hnB3EQ3OnYD5oF4HPBq1iuMzuWHDqld3rkPWMeDoo-kdP0ln_G/pub)
+* [Xingqiu Handbook](https://keqingmains.com/xingqiu/)
 
 **Evidence Vault:**
 

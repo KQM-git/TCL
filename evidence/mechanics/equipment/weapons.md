@@ -467,7 +467,7 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 
 **Finding:** Refinement costs scales with the refinement rank of the current weapon
 
-**Evidence:** 
+**Evidence:**
 
 * [Refining a Rank 1 Weapon with a Rank 2 Weapon costs 1k mora](https://i.imgur.com/CuCPX85.jpeg) 
 * [Refining a Rank 2 Weapon with a Rank 1 Weapon costs 2k mora](https://i.imgur.com/6ffhDkp.jpeg) 
