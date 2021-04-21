@@ -188,8 +188,8 @@
       * [Lifeskills](evidence/mechanics/gameplay-mechanics/lifeskills.md)
       * [Movement and Physics](evidence/mechanics/gameplay-mechanics/movement-and-physics.md)
       * [Weapon Infusion](evidence/mechanics/gameplay-mechanics/weapon-infusion.md)
-      * [Spiral Abyss](evidence/mechanics/spiral/README.md)
-        * [Cards](evidence/mechanics/spiral/cards.md)
-        * [Tech](evidence/mechanics/spiral/tech/README.md)
-          * [Plunge](evidence/mechanics/spiral/tech/plunge.md)
+      * [Spiral Abyss](evidence/mechanics/gameplay-mechanics/spiral/README.md)
+        * [Cards](evidence/mechanics/gameplay-mechanics/spiral/cards.md)
+        * [Tech](evidence/mechanics/gameplay-mechanics/spiral/tech/README.md)
+          * [Plunge](evidence/mechanics/gameplay-mechanics/spiral/tech/plunge.md)
 
