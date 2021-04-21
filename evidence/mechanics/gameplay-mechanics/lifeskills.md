@@ -1,7 +1,5 @@
 # Lifeskills
 
-## 
-
 ## Bush Droprates
 
 **By:** gideleon1\#2188  
