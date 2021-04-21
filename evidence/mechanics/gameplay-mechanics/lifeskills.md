@@ -51,7 +51,8 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 ## Food Costs
 
 **By:** Anmol43\#1917   
-**Added:** 4/20/2021
+**Added:** 4/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833731587279028254/834272842425171978/transcript-all-food-cost-calcs.html)
 
 **Finding:** Documenting the cost, in mora, of all food items in Genshin Impact.
 
