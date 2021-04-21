@@ -519,9 +519,24 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
 
+## Swirl
+
+### Elemental Infusion on Electro-Charged Enemy
+**By:** Ayzel\#7399  
+**Added:** 04/20/2021
+
+**Finding:** When Venti and Sucrose's bursts make contact with a mob which is affected by Electro-charged, the burst will infuse Hydro.
+
+**Evidence:** (provided by Terrapin)  
+[EC Absorption Test Sucrose - Hydro applied first](https://www.youtube.com/watch?v=tmv_IU2PqBQ)  
+[EC Absorption Test Sucrose- Electro applied first](https://www.youtube.com/watch?v=TyPnCWmd-08)  
+[EC Absorption Test - Venti Burst](https://www.youtube.com/watch?v=q-Ep7_JsNfs)
+
+**Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
+
 ## Crystallize
 
-### **Crystallize on an Electro-charged Enemy**
+### **Crystallize on an Electro-Charged Enemy**
 
 **By:** Jonahfarc\#7056  
 **Added:** 04/14/2021
