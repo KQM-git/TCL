@@ -522,13 +522,14 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 ## Swirl
 
 ### Elemental Infusion on Electro-Charged Enemy
+
 **By:** Ayzel\#7399  
 **Added:** 04/20/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833831469373718568/834244407888314438/transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
 
 **Finding:** When Venti and Sucrose's bursts make contact with a mob which is affected by Electro-charged, the burst will infuse Hydro.
 
-**Evidence:** (provided by Terrapin)  
+**Evidence:** \(provided by Terrapin\)  
 [EC Absorption Test Sucrose - Hydro applied first](https://www.youtube.com/watch?v=tmv_IU2PqBQ)  
 [EC Absorption Test Sucrose- Electro applied first](https://www.youtube.com/watch?v=TyPnCWmd-08)  
 [EC Absorption Test - Venti Burst](https://www.youtube.com/watch?v=q-Ep7_JsNfs)

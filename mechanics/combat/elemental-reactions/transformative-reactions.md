@@ -78,10 +78,8 @@ The behavior of Freeze curves to give diminishing returns at higher GU values. T
 
 ## Swirl
 
-Swirl is an elemental reaction triggered by applying Anemo on a target afflicted by Pyro/Hydro/Cryo/Electro. This reaction
-spreads the aura of the target onto nearby targets hit by the AoE effect of the Swirl. This can cause reactions to occur for mobs with other elements on it.
-It is unaffected by defense and cannot critically strike. Certain abilities allow Anemo to become infused with the given element. 
-This is known as Elemental Absorption.
+Swirl is an elemental reaction triggered by applying Anemo on a target afflicted by Pyro/Hydro/Cryo/Electro. This reaction spreads the aura of the target onto nearby targets hit by the AoE effect of the Swirl. This can cause reactions to occur for mobs with other elements on it. It is unaffected by defense and cannot critically strike. Certain abilities allow Anemo to become infused with the given element. This is known as Elemental Absorption.
+
 * Using Swirl on an Electro-Charged target swirls both Hydro and Electro.
 * For Elemental Absorption, it will infuse Hydro.
 

@@ -50,6 +50,17 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 Certain material items can be destroyed, but they don't give anything when destroyed, the same goes for apples and sunsettias too. However, not all material items can be destroyed, as of now, there is no consistent reason as to why.
 
+## Food Costs
+
+**By:** [Anmol43\#1917](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#food-costs)
+
+* Cheapest 3\* instant heal \(assuming 20k HP\): Mondstadt Hashbrowns, 8.57 Health/Mora
+* Most Mora-efficient heal \(assuming 20k HP\): Grilled Tiger Fish, 11.23 Health/Mora
+* Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant
+* Most Mora-efficient sprinting stamina reduction: Lotus Seed and Bird Egg Soup, 850 Mora
+
+As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is generally advised to use the best possible food in those categories rather than using the most mora-efficient food. However, the cost calculations are included in the spreadsheet.
+
 ## Paimon's Bargins
 
 ### Resin to Stardust Exchange Comparison
