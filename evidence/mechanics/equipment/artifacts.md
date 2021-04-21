@@ -488,9 +488,9 @@ I'm mostly submitting this since the entry in the current TCL \(under the Artifa
 
 **Methodology:** [Google Sheets](https://docs.google.com/spreadsheets/d/1d9nC3x5Ho2lOfmUUMdgKq5h2cZ69VZ_m58OzKlh_muo/)
 
-I pulled out data for 4 substat and 3 substat artifacts to analyze separately since those are the least biased, then ran a simulation after plugging in some guesses for the main stat and substat probabilities, and compared those simulated figures to the actual distributions. I settled on a rough proportion after getting something that seemed close enough to the sample. See the below spreadsheet
+I pulled out data for 4 substat and 3 substat artifacts to analyze separately since those are the least biased, then ran a simulation after plugging in some guesses for the main stat and substat probabilities, and compared those simulated figures to the actual distributions. I settled on a rough proportion after getting something that seemed close enough to the sample.
 
-More data would be needed to reach stronger conclusions. As of right now there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
+More data would be needed to reach stronger conclusions. As of right now, there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
 
