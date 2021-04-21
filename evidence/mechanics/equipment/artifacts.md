@@ -480,7 +480,7 @@ Substats are distributed evenly except for flat Def for some reason, which is si
 
 Image summarizing this data is here: [Imgur](https://imgur.com/k2d3S3J)
 
-The datamined figures are not exactly consistent with what we would expect from the actual data, but it is fairly close, and we might see better agreement with more data. See this picture [Imgur](https://imgur.com/6VVaPt1) for the guesses that most closely aligns with the data. Flat substats definitely have a higher probability of being included than non-flat substats \(by maybe ~1.7x\), and crit is likely to be weighted lower.
+The datamined figures are not exactly consistent with what we would expect from the actual data, but it is fairly close, and we might see better agreement with more data. See this [picture ](https://imgur.com/6VVaPt1)for the guesses that most closely aligns with the data. Flat substats definitely have a higher probability of being included than non-flat substats \(by maybe ~1.7x\), and crit is likely to be weighted lower.
 
 I'm mostly submitting this since the entry in the current TCL \(under the Artifact Substat Distribution header\) uses a small sample size and the conclusions reached there are likely incorrect now that we have more/better data.
 
