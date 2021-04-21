@@ -167,6 +167,7 @@
 
 {% tab title="Findings" %}
 * Anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time.
+* A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances
 {% endtab %}
 {% endtabs %}
 
