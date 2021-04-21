@@ -424,9 +424,9 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 ### **4pc Viridescent Venerer can Proc Two Debuffs in One Swirl**
 
-**By:** Faranight\#0001
-
-**Added:** 4/20/2021
+**By:** Faranight#0001  
+**Added:** 4/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834024269108477952/834325299373801492/transcript-vv-on-ec-and-frozen.html)
 
 **Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single anemo attack against Electro-Charged or Frozen targets.
 
