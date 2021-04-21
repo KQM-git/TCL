@@ -462,7 +462,8 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 ### Refinement Costs
 
 **By:** JonahFarc\#7056  
-**Added:** 04/18/2021
+**Added:** 04/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832715654204358696/834224529680105522/transcript-refinement-costs.html)
 
 **Finding:** Refinement costs scales with the refinement rank of the current weapon
 
