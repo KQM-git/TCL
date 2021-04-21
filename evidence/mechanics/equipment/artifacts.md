@@ -468,14 +468,15 @@ n is of sufficient size. When foddering artifacts, they might not be chosen at r
 
 Substats are distributed evenly except for flat Def for some reason, which is significantly overrepresented.
 
-## Uneven substats distribution
+## Uneven Substats Distribution
 
-**By:** Tsym/\#2586  
-**Added:** 05/04/2021
+**By:** Tsym\#2586  
+**Added:** 04/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804854174910382120/834295144437645322/transcript-uneven-subs-distribution.html)
 
 **Theory:** Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
 
-**Evidence:** TL;DR - We have the datamined substat probabilities from this link: [Dimbreaths datamine](https://github.com/Dimbreath/GenshinData/blob/main/Excel/ReliquaryAffixExcelConfigData.json)
+**Evidence:** TL;DR - We have the datamined substat probabilities from this link: [Dimbreath's datamine](https://github.com/Dimbreath/GenshinData/blob/main/Excel/ReliquaryAffixExcelConfigData.json)
 
 Image summarizing this data is here: [Imgur](https://imgur.com/k2d3S3J)
 
@@ -483,9 +484,11 @@ The datamined figures are not exactly consistent with what we would expect from 
 
 I'm mostly submitting this since the entry in the current TCL \(under the Artifact Substat Distribution header\) uses a small sample size and the conclusions reached there are likely incorrect now that we have more/better data.
 
-Data: I pulled artifact data from /u/Acheron-X's table here: [Google sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdCZN4lM23LNfSU36-zEKXC7sXBzeywSGhT1JW9SlqytYXHHFNVXos1yI0UPMqSyTU7KOe36mtjK9d/pubhtml#). The tables and charts in there shouldn't be used directly because it pools artifacts with different \#s of substats together, which leads to a slightly biased picture because you can't have repeating substats and they can't be the same as the main stat, so in artifacts with 3 substats for example, the "missing" fourth slot in the data is determined by which other substats \(and main stat\) have already shown up in that artifact.
+**Data:** I pulled artifact data from [/u/Acheron-X's table](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdCZN4lM23LNfSU36-zEKXC7sXBzeywSGhT1JW9SlqytYXHHFNVXos1yI0UPMqSyTU7KOe36mtjK9d/pubhtml#). The tables and charts in there shouldn't be used directly because it pools artifacts with different \#s of substats together, which leads to a slightly biased picture because you can't have repeating substats and they can't be the same as the main stat, so in artifacts with 3 substats for example, the "missing" fourth slot in the data is determined by which other substats \(and main stat\) have already shown up in that artifact.
 
-**Methodology:** I pulled out data for 4 substat and 3 substat artifacts to analyze separately since those are the least biased, then ran a simulation after plugging in some guesses for the main stat and substat probabilities, and compared those simulated figures to the actual distributions. I settled on a rough proportion after getting something that seemed close enough to the sample. See the below spreadsheet: [Google Sheets](https://docs.google.com/spreadsheets/d/1d9nC3x5Ho2lOfmUUMdgKq5h2cZ69VZ_m58OzKlh_muo/)
+**Methodology:** [Google Sheets](https://docs.google.com/spreadsheets/d/1d9nC3x5Ho2lOfmUUMdgKq5h2cZ69VZ_m58OzKlh_muo/)
+
+I pulled out data for 4 substat and 3 substat artifacts to analyze separately since those are the least biased, then ran a simulation after plugging in some guesses for the main stat and substat probabilities, and compared those simulated figures to the actual distributions. I settled on a rough proportion after getting something that seemed close enough to the sample. See the below spreadsheet
 
 More data would be needed to reach stronger conclusions. As of right now there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
