@@ -322,6 +322,18 @@ Any unit fits here, but the units that benefit most from Turbo are energy-hungry
 
 * When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
 {% endtab %}
+
+{% tab title="Hotpot" %}
+**Hotpot**  
+Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,
+
+[A guide to cooking hotpot](https://docs.google.com/document/d/e/2PACX-1vSFPlp9i6rz4t5SyMrq2vBOOf1cGlWvFzcPZvdXS0VKkAji8pb1YrpMYgJKWsyOWmuNLNvYk9qdiHtC/pub) by Sayline\#5959
+
+Sample recipes:
+
+* [The HT pot](https://youtu.be/xQtULxQm6tQ)
+* [Hotpot with Premium Bennett](https://youtu.be/SATlLhgvgiA)
+{% endtab %}
 {% endtabs %}
 
 ## **External Links**

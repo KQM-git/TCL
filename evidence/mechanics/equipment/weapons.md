@@ -459,3 +459,19 @@ Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
 
 **Significance**: Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
 
+### Refinement Costs
+
+**By:** JonahFarc\#7056  
+**Added:** 04/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832715654204358696/834224529680105522/transcript-refinement-costs.html)
+
+**Finding:** Refinement costs scales with the refinement rank of the current weapon
+
+**Evidence:**
+
+* [Refining a Rank 1 Weapon with a Rank 2 Weapon costs 1k mora](https://i.imgur.com/CuCPX85.jpeg) 
+* [Refining a Rank 2 Weapon with a Rank 1 Weapon costs 2k mora](https://i.imgur.com/6ffhDkp.jpeg) 
+* [Both result in Refinement Rank 3](https://youtu.be/hvGuXDmStKE)
+
+**Significance:** If refining a weapon from R1 to R5, it's cheaper to constantly use the R1 weapon to refine. Also, if you're refining your levelled weapon multiple times, make the other refines first \(EX: For an R3 weapon, combine others to R2 before refining with the R3\)
+
