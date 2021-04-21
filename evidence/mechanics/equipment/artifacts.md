@@ -434,7 +434,7 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 [https://youtu.be/-6VU-qdN8Uw](https://youtu.be/-6VU-qdN8Uw)
 
-In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean attacks the target with a single use of Gale Blade, Barbara's normals deal 44 damage and Beidou's burst deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single anemo attack.
+In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean attacks the target with a single use of Gale Blade, Barbara's normals deal 44 damage and Beidou's skill deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single anemo attack.
 
 [https://youtu.be/bQmPheaLGXE](https://youtu.be/bQmPheaLGXE)
 
