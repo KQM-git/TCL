@@ -97,10 +97,6 @@
   * [Lifeskills](mechanics/gameplay-mechanics/lifeskills.md)
   * [Movement and Physics](mechanics/gameplay-mechanics/movement-and-physics.md)
   * [Weapon Infusion](mechanics/gameplay-mechanics/weapon-infusion.md)
-* [Spiral Abyss](mechanics/spiral/README.md)
-  * [Cards](mechanics/spiral/cards.md)
-  * [Tech](mechanics/spiral/tech/README.md)
-    * [Plunge](mechanics/spiral/tech/plunge.md)
 
 ## Fluff
 
@@ -188,8 +184,4 @@
       * [Lifeskills](evidence/mechanics/gameplay-mechanics/lifeskills.md)
       * [Movement and Physics](evidence/mechanics/gameplay-mechanics/movement-and-physics.md)
       * [Weapon Infusion](evidence/mechanics/gameplay-mechanics/weapon-infusion.md)
-      * [Spiral Abyss](evidence/mechanics/spiral/README.md)
-        * [Cards](evidence/mechanics/spiral/cards.md)
-        * [Tech](evidence/mechanics/spiral/tech/README.md)
-          * [Plunge](evidence/mechanics/spiral/tech/plunge.md)
 
