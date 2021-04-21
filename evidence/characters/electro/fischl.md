@@ -235,7 +235,7 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
-## Fischl C6 + Innate Elemental Attacks in Turbo
+## Fischl C6 + Innate Elemental Attacks in Turbo (Turbo fixed in 1.5)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
@@ -268,7 +268,7 @@ Setup for double electro with innate pyro NA or infused pyro NA:
 
 In turbo compositions, using a pyro character with either innate pyro NA or infused pyro NA will not trigger Fischl A4. The same applies when adding an additional electro source like Beidou burst. We still cannot observe any overload reactions triggered by the on-field character through use of 4 TF.
 
-## Fischl Turbo Superconduct Exploration
+## Fischl Turbo Superconduct Exploration (Turbo fixed in 1.5)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
