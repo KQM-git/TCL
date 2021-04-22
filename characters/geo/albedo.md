@@ -67,6 +67,7 @@ When opponents within the **Solar Isotoma** field take DMG, the Solar Isotoma wi
 
 * DMG dealt by **Transient Blossoms** scale off Albedo’s DEF.
 * **Transient Blossoms** can only be generated once every 2s.
+* The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
 
 When a character is located on the Solar Isotoma, the Solar Isotoma will form a crystallized platform that lifts the character up to a certain height
 
