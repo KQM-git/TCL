@@ -82,6 +82,8 @@ Mona dashes backwards before placing a Phantom of Fate down.
 | DoT | 44.8% | 60 | 44.8%/s | 1A |
 | Explosion DMG | 185.92% | ~ | ~ | 1A |
 | CD | 12s | ~ | ~ | ~ |
+
+* Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
 {% endtab %}
 
 {% tab title="Illusory Torrent" %}
@@ -98,6 +100,7 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 | Hydro Application GU | 1A |
 
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
+* **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 {% endtab %}

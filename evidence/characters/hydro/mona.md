@@ -136,3 +136,14 @@ It's actually a smaller buff than one would think, but there is a slight differe
 
 **Significance:** Despite alternate sprints not benefiting from regular sprint passives \(Razor/Kaeya\), they do gain buffs from general movement speed buffs \(like Rosaria's passive\).
 
+## Mona's Sprint Takes Priority over Skill
+
+**By:** Keqing\#1111  
+**Added:** 4/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832524741473599519/834659643292254238/transcript-mona-elemental-skill-cancel.html)
+
+**Finding:** If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
+
+**Evidence:** https://youtu.be/gDEZhioyCxs
+
+**Signifiance:** Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
