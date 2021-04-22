@@ -144,6 +144,7 @@ It's actually a smaller buff than one would think, but there is a slight differe
 
 **Finding:** If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
 
-**Evidence:** https://youtu.be/gDEZhioyCxs
+**Evidence:** [https://youtu.be/gDEZhioyCxs](https://youtu.be/gDEZhioyCxs)
 
 **Signifiance:** Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
+
