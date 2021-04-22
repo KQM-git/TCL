@@ -21,7 +21,8 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 ## Zhongli C2 Mechanics
 **By:** Midori\#2173  
-**Added:** 04/21/2021
+**Added:** 04/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834400006948782090/834658055391150150/transcript-zhongli-c2-mechanics.html)
 
 **Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
 
