@@ -82,6 +82,8 @@ Mona dashes backwards before placing a Phantom of Fate down.
 | DoT | 44.8% | 60 | 44.8%/s | 1A |
 | Explosion DMG | 185.92% | ~ | ~ | 1A |
 | CD | 12s | ~ | ~ | ~ |
+
+* Mona can dash before her skill finishes casting, which leads to no **Phantom** being created.
 {% endtab %}
 
 {% tab title="Illusory Torrent" %}
