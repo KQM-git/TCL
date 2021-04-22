@@ -85,6 +85,7 @@ When a character is located on the Solar Isotoma, the Solar Isotoma will form a 
 | Motion Value | 342.3%/s | 93.52%/s |
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
+* The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
 {% endtab %}
 
 {% tab title="Rite of Progeniture: Tectonic Tide" %}

@@ -158,6 +158,8 @@ Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that 
 ### Stone, the Cradle of Jade
 
 Planet Befall grants nearby characters on the field a **Jade Shield** when it descends.
+
+* The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
 {% endtab %}
 
 {% tab title="C3" %}

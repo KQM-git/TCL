@@ -19,3 +19,22 @@ Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3
 
 Allows for more accurate DPS calculations when using Zhongli and c6 fischl together.
 
+## Zhongli C2 Mechanics
+
+**By:** Midori\#2173  
+**Added:** 04/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834400006948782090/834658055391150150/transcript-zhongli-c2-mechanics.html)
+
+**Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
+
+**Evidence:** [This video shows the damage of his burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
+
+* Burst with shield already applied: 48k
+* Burst with no shield: 48k
+* Burst with Geo resonance and no shield: 52k
+* Burst with Geo resonance and shield: 52k
+* Burst with Geo resonance shield and res down: 57k
+* The shield is formed at the end of the burst animation.
+
+**Significance:** For the highest damage apply the Geo res down before pressing Burst.
+
