@@ -98,6 +98,7 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 | Hydro Application GU | 1A |
 
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
+* **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 {% endtab %}
