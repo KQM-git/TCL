@@ -3,7 +3,8 @@
 ### Talisman Healing Conditions
 
 **By:** Ayzel\#7399  
-**Added:** 04/23/2021
+**Added:** 04/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832474168297259028/835378635598594058/transcript-qiqi-talisman-healing-conditions.html)
 
 **Finding:**
 
