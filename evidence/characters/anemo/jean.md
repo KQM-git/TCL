@@ -83,6 +83,7 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 ## Jean Hold E Fall Damage Inconsistent
 **By:** xf3\#3123  
 **Added:** 04/23/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/830897860743921664/835374730487398460/transcript-gale-blade-fall-dmg-inconsistency.html)
 
 **Findings:**  
 Jean's Held Gale Blade produces inconsistent fall damage numbers when compared to Tap Gale Blade. Fall Damage on enemies is inconsistent while fall damage on objects is not.
