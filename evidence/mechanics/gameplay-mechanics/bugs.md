@@ -104,7 +104,8 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 
 ## Venti Q Late Absorption Bug
 **By:** soup420\#1634  
-**Added:** 04/23/2021
+**Added:** 04/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/829479729299193877/835390049503543336/transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
 Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
