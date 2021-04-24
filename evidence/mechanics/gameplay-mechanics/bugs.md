@@ -102,3 +102,19 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 * [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
 * [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
 
+## Venti Q Late Absorption Bug
+**By:** soup420\#1634  
+**Added:** 04/23/2021
+
+**Finding:**  
+Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=Jpxf7bD47ZY)
+
+Clips 1 and 2 show that even when absorption happens late, the elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
+
+Clip 3 (0:30) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 (0:45) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
+
+**Significance:**  
+When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
