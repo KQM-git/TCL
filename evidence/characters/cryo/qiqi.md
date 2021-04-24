@@ -2,8 +2,7 @@
 
 ### Talisman Healing Conditions
 
-**By:** \(Ayzel\#7399\)
-
+**By:** \(Ayzel\#7399\)  
 **Added:** 04/23/2021
 
 **Finding:**
