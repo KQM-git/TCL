@@ -88,7 +88,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 | Additional Elemental DMG | 26.32% |
 | Duration | 8s |
 | CD | 15s |
-| GU | 2U |
+| GU | 1U |
 | Energy Cost | 60 |
 
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
