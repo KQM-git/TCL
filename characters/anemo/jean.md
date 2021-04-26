@@ -68,6 +68,7 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 * Costs 20 stamina per second to hold.
 * You cannot move Jean but you can move the camera to change where you are aiming with the blade.
 * Jean needs to be at most 20 levels below the enemy to be able to lift them.
+* Fall damage for the hold variant can vary somewhat arbitrarily. 
 
 | Type | Talent 6% |
 | :--- | :--- |

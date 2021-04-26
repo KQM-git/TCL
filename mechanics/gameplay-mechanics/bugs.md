@@ -24,6 +24,8 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
 
+Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
+
 ## Fixed Bugs
 
 This is empty for now, but once Mihoyo gets their code unspaghettified, expect this to be one massive graveyard. Although, that's only **if** Mihoyo can fix their spaghetti code.
