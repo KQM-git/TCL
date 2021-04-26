@@ -24,7 +24,7 @@ Every enemy has specific HP thresholds at which they will drop energy particles 
 
 #### Favonius Series
 
-**3 clear energy particles** are created when the passive procs. Refinements only change the frequency of orbs produced.
+**3 clear energy particles** are created when the passive procs, because particles are generated, the energy gained from this method is affected by Energy Recharge%. Refinements only change the frequency of orbs produced.
 
 #### Prototype Amber
 
