@@ -408,13 +408,13 @@ Shatter reaction has different U values depending on the attack triggering it. P
 **Evidence:**  
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
 
-1\) 12 Ninguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [https://youtu.be/jcTpDb2HNjg](https://youtu.be/jcTpDb2HNjg)
+1\) 12 Ningguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [https://youtu.be/jcTpDb2HNjg](https://youtu.be/jcTpDb2HNjg)
 
-2\) 16 Ninguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [https://youtu.be/XYo\_22pvtkY](https://youtu.be/XYo_22pvtkY)
+2\) 16 Ningguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [https://youtu.be/XYo\_22pvtkY](https://youtu.be/XYo_22pvtkY)
 
 3\) 7 Geo MC Es to break a Cryo Abyss mage shield \[1U per attack + 0.75U Shatter value\]\*7 =12.25U total [https://youtu.be/yhFv5ehwoog](https://youtu.be/yhFv5ehwoog)
 
-4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ninguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [https://youtu.be/xG9kDTl9O8g](https://youtu.be/xG9kDTl9O8g)
+4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ningguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [https://youtu.be/xG9kDTl9O8g](https://youtu.be/xG9kDTl9O8g)
 
 5\) less than 5 Beidou's Es to break a Cryo Abyss mage shield \[2U Electro + 0.75U Shatter\]4 = 11U [https://youtu.be/F2P0DcCls34](https://youtu.be/F2P0DcCls34)
 

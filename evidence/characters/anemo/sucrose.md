@@ -84,10 +84,10 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 
 [**https://imgur.com/gallery/aLVqfnT**](https://imgur.com/gallery/aLVqfnT) **\(Only A4\)**
 
-[**https://imgur.com/a/2ljFQHq**](https://imgur.com/a/2ljFQHq) **\(A1+A4 while in Diona's Burst, sucrose on field\)**
+[**https://imgur.com/a/2ljFQHq**](https://imgur.com/a/2ljFQHq) **\(A1+A4 while in Diona's Burst, Sucrose on field\)**
 
-**Significance:** This means if you pair Diona into your team, you can either stack even more Elemental Mastery towards your team as Sub-DPS, or you can allocate your Sucrose stats to DPS while not losing too much EM into the team. This only works inside diona's burst range, get out of it and the buff is gone. Also the other characters can get the additional 200EM increase if you switch on top of the stack buff.  
-So in essence, diona's em stacks twice. Same theorem works for Albedo's burst as well and adding both of them altogether works too but as above, use albedo first.  
+**Significance:** This means if you pair Diona into your team, you can either stack even more Elemental Mastery towards your team as Sub-DPS, or you can allocate your Sucrose stats to DPS while not losing too much EM into the team. This only works inside Diona's burst range, get out of it and the buff is gone. Also the other characters can get the additional 200EM increase if you switch on top of the stack buff.  
+So in essence, Diona's em stacks twice. Same theorem works for Albedo's burst as well and adding both of them altogether works too but as above, use Albedo first.  
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
 50 + \[\(&lt;sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
