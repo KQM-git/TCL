@@ -143,6 +143,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Type | Talent % | Cooldown | Damage Type |
 | :--- | :--- | :--- | :--- |
 | Undone Be Thy Sinful Hex | 80% | 1s | Elemental Skill |
+
+* At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 {% endtab %}
 {% endtabs %}
 
@@ -327,7 +329,7 @@ Any unit fits here, but the units that benefit most from Turbo are energy-hungry
 **Hotpot**  
 Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,
 
-[A guide to cooking hotpot](https://docs.google.com/document/d/e/2PACX-1vSFPlp9i6rz4t5SyMrq2vBOOf1cGlWvFzcPZvdXS0VKkAji8pb1YrpMYgJKWsyOWmuNLNvYk9qdiHtC/pub) by Sayline\#5959
+[A guide to cooking hotpot](https://docs.google.com/document/d/e/2PACX-1vSFPlp9i6rz4t5SyMrq2vBOOf1cGlWvFzcPZvdXS0VKkAji8pb1YrpMYgJKWsyOWmuNLNvYk9qdiHtC/pub) by Sayline\#5959
 
 Sample recipes:
 

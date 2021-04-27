@@ -322,3 +322,19 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 **Significance:** A better understanding of ICDs.
 
+## Fischl A4 Range tests
+[tags]: <> (Fischl, A4, Bug)
+**By:** Aluminum\#5462  
+**Added:** 04/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834234321971183616/836410164386988092/transcript-possible-oz-issues-with-hutao.html)  
+
+**Theory:**  
+Fischl's A4 has a range centered around the triggering character, which is generally greater for characters with ranged attacks. When an attack at the edge of the range triggers an electro-related reaction Fischl's A4 can fail to trigger. Deployables are factored in to the range as well, such as Beidou Q or Oz himself.
+
+**Evidence:**   
+This was tested with Hu Tao's charge attack, the end of Noelle's greatsword swings under burst, and the end of Xiangling's Charge attack infused by Chongyun. A demonstration of how the range is variable by character is shown using Diluc's burst. 
+
+[Playlist of all videos](https://youtube.com/playlist?list=PLPByPR2TubV5rcNbhKBrWyk9hChRWV9cn)
+
+**Significance:**  
+An understanding of the underlying mechanics of Fischl's A4 passive and possibly future similar effects
