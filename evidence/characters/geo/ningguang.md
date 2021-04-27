@@ -2,8 +2,8 @@
 
 ## Ningguang C2 and Sacrificial Passive Interaction
 
-**By:** Terrapin\#8603
-**Added:** 4/26/2021
+**By:** Terrapin\#8603  
+**Added:** 4/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
 
 **Finding:** 
