@@ -1,5 +1,20 @@
 # Zhongli
 
+## Zhongli A1 Has No/Negligible ICD
+
+**By:** JonahFarc#7056
+**Added:** 4/26/2021
+
+**Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
+
+**Evidence:** 
+
+[\[Video\] Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed](https://youtu.be/nrML_xrMJPc)
+
+**Significance:**
+
+Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
+
 ## Fischl C6 does not always Proc on Zhongli's first Normal Attack
 
 **By:** muakasan\#2792  
