@@ -4,6 +4,7 @@
 
 **By:** JonahFarc#7056
 **Added:** 4/26/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836279063760732201/836642776217026620/transcript-zhongli-a1-no-icd.html)
 
 **Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
 
