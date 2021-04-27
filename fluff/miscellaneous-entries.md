@@ -6,6 +6,10 @@ description: For entries that have little practical use.
 
 ## Electro Tanking
 
+**By:** Aevean Leeow\#1362
+
+**Added:** 4/27/2021
+
 **Theory:** In patch 1.2, Razor and Beidou are the two best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources.
 
 **Evidence:**
