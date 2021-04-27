@@ -18,6 +18,10 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-interactions) With unstable internet connection. Character stats are snapshotted client-side with enemy stats calculated server-side. This can lead to things like Bennett's burst healing past 70%, or Albedo's A1 not benefitting from enemies falling below 50% HP.
 
+## Artifacts
+
+The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a result of their casting
+
 ## Miscellaneous
 
 [Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
