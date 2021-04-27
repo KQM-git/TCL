@@ -546,19 +546,19 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 **Evidence:**
 https://www.youtube.com/watch?v=0JMdHidAFEk
 From this video, using a level 89 Sucrose with 0 Elemental Mastery, we can see that Swirl chain amplifying reactions work in the same way as normal - scaling off the respective reaction multiplier.
-A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5x ( 632 -> 949 )
-A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2x ( 632 -> 1265 )
+A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5x (632\*1.5≈949)
+A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2x (632\*2≈1265)
 A Hydro Swirl AoE that makes contact with an enemy with a Pyro aura causes the Wet application to Vaporise, doing no damage.
-A Pyro Swirl AoE that makes contact with an enemy with a Hydro aura causes the Pyro damage to reverse Vaporise, becoming amplified by 1.5x ( 632 -> 949 )
+A Pyro Swirl AoE that makes contact with an enemy with a Hydro aura causes the Pyro damage to reverse Vaporise, becoming amplified by 1.5x (632\*≈949)
 
 https://www.youtube.com/watch?v=sexFAXpYlcM
 In this video, we can see that Elemental Mastery affects amplifying reactions as normal.  Here, Sucrose has 692 Elemental Mastery, which should give her a 92% bonus to Melt.
-A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2 x 1.92 = 3.84x ( 2027 -> 7783 )
-A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.92 = 2.88x ( 2027 -> 5837 )
+A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2 x 1.92 = 3.84x (2027\*3.84≈7783)
+A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.92 = 2.88x (2027\*2.88≈5837)
 
 https://www.youtube.com/watch?v=MmRm0zO1C6Q
 In this video, Sucrose has over 100% crit rate, but the swirl chain reaction she causes does not score critical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot crit. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
-A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.339 = 2.0085x ( 1146 -> 2303 )
+A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.339 = 2.0085x (1146\*2.0085≈2303)
 The 2.0085x multiplier seen in the video comes solely from the Melt reaction, which proves that swirl chain reactions that cause amplifying reactions can't crit.
 
 https://www.youtube.com/watch?v=m8yAPFLmMxA
