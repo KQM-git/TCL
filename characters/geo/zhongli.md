@@ -132,6 +132,7 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 When the Jade Shield takes DMG it will Fortify:
 
 * Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
+* There is no observable ICD on obtaining Shield Strength stacks.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
