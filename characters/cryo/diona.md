@@ -74,7 +74,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 * Dashes back quickly and before firing 5 **Icy Paws**.
 * The shield created by a Hold attack will gain a 75% DMG Absorption Bonus.
 * The shield has a 250% Cryo DMG Absorption bonus.
-* Applies a 1A Cryo Aura for a short duration upon formation and swap to a different active character.
+* Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -87,7 +87,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Frames | 15 Press ~ 24 Hold |
 | MV/s | 469.5%/s Press ~ 733.6%/s Hold |
 
-* In specific circumstances, Diona's shield is 2U on swap.
+* In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
 * A deep-dive into how Icy paws work can be found [here](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 {% endtab %}
@@ -98,7 +98,7 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 **Drunken Mist:**
 
 * Deals continuous Cryo DMG to opponents within the AoE.
-* Continuously regenerates HP of the characters within the AoE
+* Continuously regenerates HP of the characters within the AoE.
 
 | Effect | Talent 6% |
 | :--- | :--- |
