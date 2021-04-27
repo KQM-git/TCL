@@ -4,6 +4,7 @@
 
 **By:** Terrapin\#8603
 **Added:** 4/26/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
 
 **Finding:** 
 
@@ -30,11 +31,11 @@ General knowledge on how these mechanics work, in reference to current or future
 
 **Finding:** 
 
-Ninguang ult does not snapshot
+Ningguang ult does not snapshot
 
 **Evidence:** 
 
-Barbara with TTDS swaps to Ninguang, then she waits ~9 secs and pops ult. As you can see the first few shards deal more dmg due to TTDS attack buff, the last few deal less damage due to buff being expired.
+Barbara with TTDS swaps to Ningguang, then she waits ~9 secs and pops ult. As you can see the first few shards deal more dmg due to TTDS attack buff, the last few deal less damage due to buff being expired.
 
 [https://youtu.be/09o3XwJWXY0](https://youtu.be/09o3XwJWXY0)
 
