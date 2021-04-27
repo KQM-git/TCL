@@ -4,6 +4,34 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
+## Electro Tanking
+
+**Theory:** In patch 1.2, Razor and Beidou are the two best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources.
+
+**Evidence:**
+
+Razor has 80% Electro RES and was originally considered to be the best Electro Tank. However, enemy level infinity calcs for each enemy revealed that Beidou was superior at level infinity. The main reason is that there is no good transferrable shield for Electro dmg, as well as the fact that RES caps at 140%. The best Electro shield is Beidou counter, and the best transferrable Electro shield is C1 Beidou, which is around half the size of Beidou counter. 
+
+Building Beidou as the tank/shielder in one allows for a much larger shield the more investments there are into HP, though she has less base DEF than razor. Thus, Beidou scales better with HP and Razor scales better with DEF. But due to the nature of the DEF formula, where the benefit of defense decreases with enemy level increases, HP outscales DEF, and thus Beidou should and does outscale Razor. 
+
+In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing (available here: https://pastebin.com/9ZHEnyCU) was used.
+
+*Results:*
+
+For an arbitrary range of levels (1-100), assuming optimized builds without damage reduction (DR) against Electro damage in the overworld, Razor during his burst is tankier than Beidou holding counter. 
+
+For this terribly impractical range of levels, 1 to 100, Razor's best weapon would be whiteblind, a c1 max HP build Beidou for his shield, and an A2 Zhongli to boost his shield%. He would take Thundersoother and Bolide, with 3 DEF% mainstats, 15 HP substats, and 10 DEF substats, prioritizing %HP/DEF substat choice over flat HP/DEF.
+
+In a less optimized setting, Razor benefits more than Beidou as his strongest point is the Electro RES%, which does not need to be built for. Beidou needs HP% to scale both herself and her shield. Thus, even if you totally failed artifact grinding and got a terrible mainstats for Razor like Atk%/Phys%/CR%/CDMG%, with little HP or DEF substats and instead unluckily rolled into Crit Rate or Crit Damage -- *definitely a really bad build in general* -- Razor would still be tankier than Beidou. However, if the damage is spread out over time in smaller bursts, Beidou can mitigate the damage entirely with her counter more easily than Razor, though if Razor also has a shield he can do the same. If so, in this theoretical scenarios, healing from a support would be incredibly helpful. This is because in general, as long as your HP does not reach 0, regaining HP via healing will tend to make you live longer. 
+
+If DR is not banned, Beidou also has a large amount of DR, which scales very well with other sources of DR. In this case, stacking DR via Beidou/Xingqiu/Jean with C6 will eclipse traditional methods of tanking damage, as damage reduction can be stacked to 100%.
+ 
+Note that these conclusions are accurate only to 1.2. In 1.3, Zhongli's new shield will be stronger than Beidou's C1 shield for Electro damage. In fact, Razor's EHP at enemy level infinity will be greater than Beidou's EHP at enemy level infinity, or vs reaction type or monster skill effect damage. Thus, it is predicted that in 1.3, Razor will be the BiS tank at all enemy levels from 1 to infinity. These predictions are indeed true as of 1.3. Note that at some point in 1.3, the 140% RES cap was removed, and Razor becomes even better. 
+
+Nevertheless, everyone in the game gets *absolutely smacked* by C6 Hu Tao's 200% Elemental Resistance, which makes all of this math pointless.
+
+**Signifiance:** The electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
+
 ## Climbing the Frostbearing Tree
 
 **By:** Aevean Leeow\#1362  
