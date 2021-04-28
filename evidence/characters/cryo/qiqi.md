@@ -1,6 +1,6 @@
 # Qiqi
 
-### Talisman Healing Conditions
+## Talisman Healing Conditions
 
 **By:** Ayzel\#7399  
 **Added:** 04/23/2021  
@@ -18,8 +18,9 @@ Qiqi's Talisman will heal characters attacking the target to which the talisman 
 
 [\[Video\] Off-field characters don't heal if they do damage](https://www.youtube.com/watch?v=bRuZ88GPx7Q&ab_channel=Ayzel)
 
-[\[Video\] On-field character (Jean) healing with Aquila Favonia passive](https://www.youtube.com/watch?v=2jHs8gmwYsY&ab_channel=Ayzel)
+[\[Video\] On-field character \(Jean\) healing with Aquila Favonia passive](https://www.youtube.com/watch?v=2jHs8gmwYsY&ab_channel=Ayzel)
 
 **Significance:**
 
 Shows how Qiqi's talisman interacts with sources of damage.
+

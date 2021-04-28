@@ -5,10 +5,9 @@
 **By:** Tsym\#2586  
 **Added:** 11/22/2020
 
-**Editor's Note:** This same behavior can be observed for Venti. Venti was tested comprehensively by the theorycrafting community; pending submission. 
+**Editor's Note:** This same behavior can be observed for Venti. Venti was tested comprehensively by the theorycrafting community; pending submission.
 
-**Evidence:** [https://youtu.be/rBDMuzkVb54 
-](https://youtu.be/rBDMuzkVb54%20)
+**Evidence:** [https://youtu.be/rBDMuzkVb54 ](https://youtu.be/rBDMuzkVb54%20)
 
 See the video. In the two clips I didn't change anything other than leveling up the character. I also tried putting more attack on her instead when she was level 71 with no effect.
 
@@ -21,11 +20,11 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 **By:** Orodalf\#9570  
 **Added:** 2/12/2021
 
-**Finding:** Anemo Traveller C6 lasts 10 seconds. 
+**Finding:** Anemo Traveller C6 lasts 10 seconds.
 
+**Evidence:** [https://i.imgur.com/H7zQc6Y](https://github.com/Artesians/TCL/tree/bf22a8ef907e2e909fc029e0331273f8082a54b3/H7zQc6Y/README.md)
 
-**Evidence:** [https://i.imgur.com/H7zQc6Y](%20https://i.imgur.com/H7zQc6Y) 
-
-Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds: 
+Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
 
 **Significance:** I didn't see this written down anywhere else, so.
+
