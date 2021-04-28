@@ -6,9 +6,9 @@ description: For entries that have little practical use.
 
 ## Electro Tanking
 
-**By:** Aevean Leeow\#1362
-
-**Added:** 4/27/2021
+**By:** Aevean Leeow#1362  
+**Added:** 4/27/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/805911524051779615/837034685497606194/transcript-razorbeidouelectrotank.html)
 
 **Theory:** In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
 
@@ -20,7 +20,7 @@ Building Beidou as the tank/shielder in one allows for a much larger shield the 
 
 In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing (available here: https://pastebin.com/9ZHEnyCU) was used.
 
-*Results:*
+**Results:**
 
 For an arbitrary range of levels (1-100), assuming optimized builds without damage reduction (DR) against Electro damage in the overworld, Razor during his burst is tankier than Beidou holding counter. 
 
