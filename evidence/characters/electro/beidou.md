@@ -42,6 +42,8 @@ Good weapon. Works as well as you'd expect.
 **By:** Ja’Krampus\#2399  
 **Added:** 12/13/20
 
+**Editor's Note:** This has been patched out and is not able to be performed anymore.
+
 **Finding:**
 
 Beidou can plunge from flat-ground by using an "R-Cancel" to help her jump higher, to execute, hit the Aim button for bow users 2x, jump and attack in quick succession, if done correctly your result will be what you see in the video below
