@@ -451,7 +451,7 @@ Reviewed/Edited by: IonFox, Doug
 
 **Evidence:** [https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK\_6cZqvb](https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb)
 
-**Significance:** Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies and this works regardless of where the aura came from. In the future, larger self applying gauges could allow for other builds such as @HailCorporate\#2970's self-overloading razor that takes advantage of aura oscillation with repeated self gauge application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
+**Significance:** Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies and this works regardless of where the aura came from. In the future, larger self applying gauges could allow for other builds such as @HailCorporate\#2970's self-overloading Razor that takes advantage of aura oscillation with repeated self gauge application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
 
 ## Self Aura Infusion
 

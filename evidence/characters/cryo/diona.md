@@ -13,16 +13,16 @@ The first 2 \(tap\) and last 3 \(hold\) projectiles of Diona's Elemental skill h
 
 [https://youtu.be/MrN0FWlHcCo](https://youtu.be/MrN0FWlHcCo)
 
-After applying a strong fire aura \(Bennet E\), I applied a Cryo trigger from Diona's E.  
-I also tested waiting between Bennet's E and Diona's E to downgrade the fire element strength.
+After applying a strong fire aura \(Bennett E\), I applied a Cryo trigger from Diona's E.  
+I also tested waiting between Bennett's E and Diona's E to downgrade the fire element strength.
 
-Bennet E + \(no wait\) + Diona E \(tap\) = 1 melt reaction + weak pyro aura remaining on enemy.
+Bennett E + \(no wait\) + Diona E \(tap\) = 1 melt reaction + weak pyro aura remaining on enemy.
 
-Bennet E + \(no wait\) + Diona E \(hold\) = 2 melt reactions + no element remaining on the enemy.
+Bennett E + \(no wait\) + Diona E \(hold\) = 2 melt reactions + no element remaining on the enemy.
 
-Bennet E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 melt reaction + no element remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 melt reaction + no element remaining on the enemy.
 
-Bennet E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura remaining on the enemy.
+Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura remaining on the enemy.
 
 ## **Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves**
 
@@ -65,7 +65,7 @@ I'm not 100% certain it works this way, but Noelle had a similar bug that leads 
 
 Unfortunately, this comparison has some issues such as Diona shield not caring about ping and the above theory failing to explain how the first shield could apply 2U. I have no idea at this time how to construct an experiment that would prove definitively that this is how shields actually work and is honestly outside the scope of this entry, but these two bugs are suspicious in their shared timings and could be worth scrutinizing.
 
-Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depending on the aura also it does not apply 2U to diona herself until the second swap.
+Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depending on the aura also it does not apply 2U to Diona herself until the second swap.
 
 ## Diona's Shield Deep-Dive
 

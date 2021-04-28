@@ -1,25 +1,5 @@
 # Fischl
 
-## Fischl A4 Proc Rate
-
-**By:** Terrapin#8603  
-**Added:** 4/26/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835441879801004042/836654942710267944/transcript-fischl-a4-proc-rate.html)
-
-**Finding:**
-
-Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 0.5s.
-
-**Evidence:**
-
-[\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) (0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation)
-
-[[\Video\] Using swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQutilizing) (judging from the first frame of the lightning bolt animation)
-
-**Significance:**
-
-Team building around enabling Fischl's damage output
-
 ## 4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction
 
 **By:** Cenpi\#3224
@@ -70,11 +50,11 @@ Overload does 1077 damage
 
 Fischl \(with no 4 set\) proccing overload both while present and not present
 
-Overload does 1476 damage regardless of whether fischl is on field or not
+Overload does 1476 damage regardless of whether Fischl is on field or not
 
-Evidence \(for fischl on field\)
+Evidence \(for Fischl on field\)
 
-Evidence \(for fischl not on field\)
+Evidence \(for Fischl not on field\)
 
 **Significance**
 
@@ -104,13 +84,13 @@ In the video you can see that at roughly 2.33s into the video guoba is summoned 
 
 2 overloads occur \(at 4s and 6s\)
 
-At 8s into the video xiangling is switched back in and guoba has a 6.2s CD
+At 8s into the video Xiangling is switched back in and guoba has a 6.2s CD
 
 In total, roughly 5.33s has passed and guoba has only gone down in 5.7s
 
 2s has not been reduced and the 0.37s can be equated to just human error in measuring timings.
 
-This result also confirmed by Lix-\#3417 using Barbara E and then switching to keqing, no CD reduction occurred.
+This result also confirmed by Lix-\#3417 using Barbara E and then switching to Keqing, no CD reduction occurred.
 
 **Significance**
 
@@ -194,7 +174,7 @@ despite the difference seemingly being around 2.5% more damage dealt, the latter
 
 **Significance:**
 
-Overall better animation cancel for AA fischl found.
+Overall better animation cancel for AA Fischl found.
 
 ## Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?
 
@@ -342,6 +322,26 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 **Significance:** A better understanding of ICDs.
 
+## Fischl A4 Proc Rate
+
+**By:** Terrapin#8603  
+**Added:** 4/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835441879801004042/836654942710267944/transcript-fischl-a4-proc-rate.html)
+
+**Finding:**
+
+Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 0.5s.
+
+**Evidence:**
+
+[\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) (0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation)
+
+[[\Video\] Using swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQutilizing) (judging from the first frame of the lightning bolt animation)
+
+**Significance:**
+
+Team building around enabling Fischl's damage output
+
 ## Fischl A4 Range tests
 
 **By:** Aluminum\#5462  
@@ -358,4 +358,3 @@ This was tested with Hu Tao's charge attack, the end of Noelle's greatsword swin
 
 **Significance:**  
 An understanding of the underlying mechanics of Fischl's A4 passive and possibly future similar effects
-

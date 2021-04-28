@@ -204,7 +204,7 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 * This finding means that you can put 4TF on a support and get the bonus damage to reactions even if they are not on the field.
 
-### **4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction**
+### **4pc Thundering Fury Holder, if not on-field, cannot benefit from the CD Reduction**
 
 **By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
@@ -223,11 +223,11 @@ But if the 4TF holder is not on the field but proccing the reaction, the 1s CD r
 
 * In the video you can see that at roughly 2.33s into the video guoba is summoned with 11.9s CD.
 * 2 overloads occur \(at 4s and 6s\)
-* At 8s into the video xiangling is switched back in and guoba has a 6.2s CD
+* At 8s into the video Xiangling is switched back in and guoba has a 6.2s CD
 * In total, roughly 5.33s has passed and guoba has only gone down in 5.7s
 * 2s has not been reduced and the 0.37s can be equated to just human error in measuring timings.
 
-This result also confirmed by Lix-\#3417 using Barbara E and then switching to keqing, no CD reduction occurred.
+This result also confirmed by Lix-\#3417 using Barbara E and then switching to Keqing, no CD reduction occurred.
 
 **Significance**
 
@@ -402,7 +402,7 @@ Viridescent Venerer 4set effect can trigger multiple times for different element
 
 **Testing:**
 
-Used barbara for hydro debuff, fischl for electro debuff. Compared the dmg before and after swirl takes place
+Used Barbara for hydro debuff, Fischl for electro debuff. Compared the dmg before and after swirl takes place
 
 Barbara auto attack before swirl : 63
 
