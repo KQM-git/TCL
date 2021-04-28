@@ -538,12 +538,14 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ### Swirl Chain Reactions
 
-**By:** Terrapin\#8603
-**Added:** 4/26/2021
+**By:** Terrapin\#8603  
+**Added:** 4/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836234307764092988/836771613537206322/transcript-swirl-chain-reactions.html)
 
 **Finding:** When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage (if applicable). The subsequent reactions work in the same way that normal reactions do. 
 
 **Evidence:**
+
 https://www.youtube.com/watch?v=0JMdHidAFEk
 From this video, using a level 89 Sucrose with 0 Elemental Mastery, we can see that Swirl chain amplifying reactions work in the same way as normal - scaling off the respective reaction multiplier.
 * A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5x (632\*1.5≈949)
