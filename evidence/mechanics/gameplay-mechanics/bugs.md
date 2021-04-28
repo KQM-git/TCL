@@ -91,18 +91,19 @@
 
 **By:** Soup420\#1634  
 **Added:** 04/19/2021  
-****[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
+_\*\*_[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
 
 **Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
 Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are applied server-side, and from the findings lag doesn't cause any unexpected damage numbers. This probably implies all damage done is calculated by the server, but using the stats sent from the player client.
 
-**Evidence:** 
+**Evidence:**
 
 * [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
 * [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
 
 ## Venti Q Late Absorption Bug
+
 **By:** soup420\#1634  
 **Added:** 04/23/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/829479729299193877/835390049503543336/transcript-venti-burst-absorption-bug.html)
@@ -115,7 +116,8 @@ Venti burst's elemental absorption creates an independent and invisible aoe fiel
 
 Clips 1 and 2 show that even when absorption happens late, the elemental infusion damage continues to tick even after Venti's Q ended. I counted 14 ticks in first clip and 15 ticks in second clip, which should be around the max total ticks of early infusion, but I'm not sure why the second clip showed 1 more tick.
 
-Clip 3 (0:30) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 (0:45) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
+Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infusion happened, they stop taking the infusion damage. Clip 4 \(0:45\) shows that if an enemy moves into the area where the infusion happened, they'll take tick damage for the remaining duration of the infusion. This shows that the elemental infusion creates an invisible aoe field that does a set number of ticks before disappearing.
 
 **Significance:**  
 When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
+

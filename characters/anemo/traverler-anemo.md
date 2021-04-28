@@ -6,7 +6,7 @@ description: >-
 
 # Traveler \(Anemo\)
 
-## ![](../../.gitbook/assets/element_anemo%20%281%29.png) Traveler \(Anemo\)
+## ![](https://github.com/Artesians/TCL/tree/bf22a8ef907e2e909fc029e0331273f8082a54b3/.gitbook/assets/element_anemo%20%281%29.png) Traveler \(Anemo\)
 
 ![](../../.gitbook/assets/anemo-traveler.png)
 
@@ -261,3 +261,4 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/anemo/traveler-anemo.md" %}
+

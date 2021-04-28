@@ -94,7 +94,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti needs to be at most 20 levels below the enemy to be able to lift them.
 * Stormeye damage tick information:
-  * 20 ticks of Anemo DMG ****
+  * 20 ticks of Anemo DMG _\*\*_
   * maximum of 16 ticks of Additional Elemental DMG
     * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
     * This number of ticks will always be reached in the original burst area, no matter the time of infusion.
