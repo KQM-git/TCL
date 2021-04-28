@@ -387,7 +387,7 @@ Rankings (patch 1.4, subject to change):
 | 11 | Rust | 100.0% | 44,945 |
 | 12 | Prototype Crescent | 100.0% | 44,945 |
 | 13 | Sacrificial Bow | 92.9% | 41,738 |
-| 13 | Favonius Warbow | 84.0% | 37,882 |
+| 14 | Favonius Warbow | 84.0% | 37,882 |
 
 Recommended Artifact Mainstats:
 
