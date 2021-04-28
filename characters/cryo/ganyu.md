@@ -136,7 +136,7 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 
 Celestial Shower grants a 20% Cryo DMG Bonus to active party members in the AoE.
 
-* Celestial Shower's Cryo DMG bonus can apply to itself and be snapshot.
+* **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior burst. This buff can be snapshotted.
 {% endtab %}
 {% endtabs %}
 
