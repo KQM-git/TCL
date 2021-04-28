@@ -123,6 +123,8 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 ### Xiezhi's Eye
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+
+* **Xiezhi's Eye** applies pyro and has no noticeable ICD to trigger or pyro application.
 {% endtab %}
 {% endtabs %}
 
