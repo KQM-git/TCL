@@ -31,7 +31,7 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 **By:** RIBCAGED\#7071  
 **Findings:**
 
-Xiao’s plunge does not hit enemies within venti’s ult. When it does it’s when the enemies hit the floor.[ ](https://imgur.com/a/QpaSIns)
+Xiao’s plunge does not hit enemies within Venti’s ult. When it does it’s when the enemies hit the floor.[ ](https://imgur.com/a/QpaSIns)
 
 **Evidence:**
 
@@ -39,7 +39,7 @@ Xiao’s plunge does not hit enemies within venti’s ult. When it does it’s w
 
 **Significance:**
 
-Players should try to time Xiao’s ult to when an enemy hits the floor so the enemy may receive dmg from it. Random plunge ATKs most likely will NOT hit the enemies. Also players can save their primogems if they were planning to roll for venti for plans of CC for Xiao. If you are running both Venti and Xiao then alternate ults as you go. When Xiao's Q is up then Venti's isn't and vice versa.
+Players should try to time Xiao’s ult to when an enemy hits the floor so the enemy may receive dmg from it. Random plunge ATKs most likely will NOT hit the enemies. Also players can save their primogems if they were planning to roll for Venti for plans of CC for Xiao. If you are running both Venti and Xiao then alternate ults as you go. When Xiao's Q is up then Venti's isn't and vice versa.
 
 ## **Weapons Ranking**
 

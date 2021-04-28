@@ -79,7 +79,6 @@
 | Urban Guerrilla | While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2/2.5/3/3.5/4**% every second up to a max of **20/25/30/35/40**%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4/5/6/7/8**% per second until it reaches 0%. |
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
-
 {% endtab %}
 
 {% tab title="Details" %}

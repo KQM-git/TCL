@@ -13,9 +13,6 @@
 
 ## Characters
 
-* [Unreleased Characters](characters/unreleased/README.md)
-  * [Yan Fei](characters/unreleased/yan-fei.md)
-  * [Eula](characters/unreleased/eula-1.md)
 * [Anemo](characters/anemo/README.md)
   * [Traveler \(Anemo\)](characters/anemo/traverler-anemo.md)
   * [Jean](characters/anemo/jean.md)
@@ -55,6 +52,7 @@
   * [Klee](characters/pyro/klee.md)
   * [Xiangling](characters/pyro/xiangling.md)
   * [Xinyan](characters/pyro/xinyan.md)
+  * [Yanfei](characters/pyro/yanfei.md)
 
 ## Mechanics
 
@@ -155,6 +153,7 @@
       * [Klee](evidence/characters/pyro/klee.md)
       * [Xiangling](evidence/characters/pyro/xiangling.md)
       * [Xinyan](evidence/characters/pyro/xinyan.md)
+      * [Yanfei](evidence/characters/pyro/yanfei.md)
   * [Mechanics](evidence/mechanics/README.md)
     * [Combat](evidence/mechanics/combat/README.md)
       * [Damage Formula](evidence/mechanics/combat/damage-formula.md)

@@ -95,7 +95,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Stormeye damage tick information:
   * 20 ticks of Anemo DMG
-  * maximum of 16 ticks of Additional Elemental DMG
+  * Maximum of 16 ticks of Additional Elemental DMG
     * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
     * This number of ticks will always be reached in the original burst area, no matter the time of infusion.
   * Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls.

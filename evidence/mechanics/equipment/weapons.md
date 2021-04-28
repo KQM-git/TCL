@@ -227,7 +227,7 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Evidence**: [https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
 
-**Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your klee/xingqiu team.
+**Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
 
 ### Primordial Jade-Winged Spear
 

@@ -28,7 +28,7 @@ Razor Q duration is affected by Hitlag. The more hitlag, the longer the duration
 
 **Significance:**
 
-You can essentially have 100% ult uptime if it were not for no particles during Q. You can have your Q CD done \(20 seconds\) by the time your Q duration is done if hitlag is high enough. Hitlag can also extend the duration of both buffs and debuffs, like Superconduct and razor C1 and C4.
+You can essentially have 100% ult uptime if it were not for no particles during Q. You can have your Q CD done \(20 seconds\) by the time your Q duration is done if hitlag is high enough. Hitlag can also extend the duration of both buffs and debuffs, like Superconduct and Razor C1 and C4.
 
 ## Cryo attacks trigger AoE Superconduct during Q
 
