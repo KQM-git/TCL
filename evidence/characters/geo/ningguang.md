@@ -36,3 +36,4 @@ General knowledge on how these mechanics work, in reference to current or future
 [https://youtu.be/09o3XwJWXY0](https://youtu.be/09o3XwJWXY0)
 
 **Significance:** You can not snapshot, most importantly, Royal Grimoire crit stacks.
+

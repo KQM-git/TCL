@@ -235,7 +235,7 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
-## Fischl C6 + Innate Elemental Attacks in Turbo
+## Fischl C6 + Innate Elemental Attacks in Turbo (Turbo fixed in 1.5)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
@@ -268,7 +268,7 @@ Setup for double electro with innate pyro NA or infused pyro NA:
 
 In turbo compositions, using a pyro character with either innate pyro NA or infused pyro NA will not trigger Fischl A4. The same applies when adding an additional electro source like Beidou burst. We still cannot observe any overload reactions triggered by the on-field character through use of 4 TF.
 
-## Fischl Turbo Superconduct Exploration
+## Fischl Turbo Superconduct Exploration (Turbo fixed in 1.5)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
@@ -324,7 +324,7 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 ## Fischl A4 Proc Rate
 
-**By:** Terrapin#8603  
+**By:** Terrapin\#8603  
 **Added:** 4/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835441879801004042/836654942710267944/transcript-fischl-a4-proc-rate.html)
 
@@ -334,9 +334,9 @@ Fischl's a4 proc rate appears to be less than 1 second, and instead seems to be 
 
 **Evidence:**
 
-[\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) (0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation)
+[\[Video\] Appears to be about 0.5s-0.6s cooldown](https://www.youtube.com/watch?v=48Dg_i8PcYY) \(0.5s if judging from the first frame of each damage number appearing, 0.6s if judging from the first frame of the lightning bolt animation\)
 
-[[\Video\] Using swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQutilizing) (judging from the first frame of the lightning bolt animation)
+[\[\Video\] Using swirl + electro-charged to proc Fischl's A4, there appears to be a 0.5s cooldown](https://www.youtube.com/watch?v=bbUtQICnEkQutilizing) \(judging from the first frame of the lightning bolt animation\)
 
 **Significance:**
 
@@ -361,18 +361,14 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 
 ## Fischl Support Weapon Rankings
 
-**By:** itsjaeYOU\#2868
-**Added:** 4/27/2021
-
+**By:** itsjaeYOU\#2868  
+**Added:** 4/27/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/807360498034802758/836785156605870120/transcript-fischl-weps-ozsupport.html)
 
-**Theory:** 
-
+**Theory:**  
 Fischl's weapons rankings for Oz-only bot support. (Fischl only ever goes on field to summon Oz, then switches off.)
 
-**Evidence:**
-
-https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit#gid=0
+**Evidence:** [Google Sheets](https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit#gid=0)
 
 Rankings (patch 1.4, subject to change):
 
@@ -395,10 +391,9 @@ Rankings (patch 1.4, subject to change):
 
 Recommended Artifact Mainstats:
 
-Sands: ATK%
-Goblet: Electro%
-Circlet: Crit Rate/Crit Damage
+* Sands: ATK%
+* Goblet: Electro%
+* Circlet: Crit Rate/Crit Damage
 
-**Significance:** 
-
+**Significance:**  
 Better weapon selection for support Fischl.

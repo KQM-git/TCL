@@ -37,18 +37,20 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 * Yan Fei may possess a maximum of three **Scarlet Seals**
   * Each time this effect is triggered the duration of currently-possessed Scarlet Seals will refresh.
 * Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
+  * This stamina consumption reduction applies to all actions
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 81.68% |  |  |
 | 2-Hit | 72.98% |  |  |
 | 3-Hit | 106.42% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
+* Yanfei's charged attack shatters frozen targets.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -57,7 +59,7 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | 2 Scarlet Seals | 175.08% |  |  |
 | 3 Scarlet Seals | 197.91% |  |  |
 | 4 Scarlet Seals | 220.75% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Plunge**
 
@@ -71,11 +73,14 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 {% tab title="Signed Edict" %}
 Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
 
+* **Signed Edict** shatters frozen targets.
+
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
 | Skill DMG | 237.44% |
 | Cooldown | 9s |
-| Gauge Units |  |
+| Particles | 3 \(-\) |
+| Gauge Units | 1A |
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -95,7 +100,7 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 | Duration | 15s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
-| Gauge Units |  |
+| Gauge Units | 2B |
 {% endtab %}
 {% endtabs %}
 
@@ -112,12 +117,17 @@ Displays the location of nearby resources unique to Liyue on the mini-map
 ### Proviso
 
 When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
+
+* The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Xiezhi's Eye
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+
+* **Xiezhi's Eye** applies 1A pyro and has no noticeable ICD to trigger or pyro application.
+  * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
 
@@ -228,3 +238,4 @@ Increases the maximum number of Scarlet Seals by 1.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
+

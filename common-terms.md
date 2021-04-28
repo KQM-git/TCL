@@ -111,8 +111,6 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 
-**Turbo** = When Oz triggers Overload or Superconduct with his Normal Attack, a particle is generated for each enemy hit by the reaction. For more details, [click here!](https://library.keqingmains.com/characters/electro/fischl#turbo)
-
 ### Poise
 
 For more information see our page on [poise](mechanics/combat/poise.md).
