@@ -145,6 +145,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Undone Be Thy Sinful Hex | 80% | 1s | Elemental Skill |
 
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
+* There is a 0.5s ICD between A4 procs.
 {% endtab %}
 {% endtabs %}
 
