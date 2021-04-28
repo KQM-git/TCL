@@ -58,8 +58,6 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 | Low Plunge DMG | 216.78% |
 | High Plunge DMG | 270.77% |
 
-* Beidou can plunge from flat ground by using an R cancel to jump higher.
-  * Enter and exit aimed mode, jump and attack in rapid succession.
 {% endtab %}
 
 {% tab title="Tidecaller" %}
