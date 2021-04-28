@@ -44,7 +44,7 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 | 1-Hit | 81.68% |  |  |
 | 2-Hit | 72.98% |  |  |
 | 3-Hit | 106.42% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
@@ -59,7 +59,7 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | 2 Scarlet Seals | 175.08% |  |  |
 | 3 Scarlet Seals | 197.91% |  |  |
 | 4 Scarlet Seals | 220.75% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Plunge**
 
@@ -79,7 +79,7 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 | :--- | :--- |
 | Skill DMG | 237.44% |
 | Cooldown | 9s |
-| Particles | 2~3 \(3 more likely, ratio needs more testing\) |
+| Particles | 3 \(-\) |
 | Gauge Units | 1A |
 {% endtab %}
 
@@ -124,7 +124,8 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
-* **Xiezhi's Eye** applies pyro and has no noticeable ICD to trigger or pyro application.
+* **Xiezhi's Eye** applies 1A pyro and has no noticeable ICD to trigger or pyro application.
+  * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
 
