@@ -50,7 +50,7 @@ Consumes 25 Stamina to perform an upward thrust.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
-Xiao does not take DMG from performing Plunge Attacks
+Xiao does not take DMG from performing Plunge Attacks.
 
 | Plunge Type | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |

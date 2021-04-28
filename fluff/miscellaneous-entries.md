@@ -40,3 +40,36 @@ Also, you can perform a plunging attack off of the tree.
 
 **Significance:** This means that Lumine is superior in all categories compared to Aether, so Lumine &gt; Aether. In addition, I have valid evidence to conclude another point. By squaring the resulting array and looking at the comparison once again, I found that Aether beats Lumine in blue now but still loses in red and green. Therefore, I believe I now have sufficient evidence to conclude that Lumine is Santa Claus, which makes her even cooler and just that much better than Aether.
 
+## Electro Crystals have levels
+
+**By:** Greyhound\#7836  
+**Added:** 04/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832412514858958878/835397401812533268/transcript-electro-crystals-have-levels.html)
+
+**Finding:**  
+Electro crystals have different damage values on the same world level, the recorded ones after defense are: 325, 267, 247, 279, 273, 297, 292, 303, 287, 283, the Lisa used for the test had 159 defense, meaning 15% damage reduction, further testing shows that there is no level differencial taken into the formula for crystal attacks, but they do have levels as indicated by reactions, the pre defense damage dealt by them is: 373, 307, 284, 320, 313, 341, 335, 348, 320, 325 repsectively to the values stated above, with the end results as:
+
+| Electro Damage | Electro-Charged Damage | Calculated Crystal Level |
+| :--- | :--- | :--- |
+| 325 | 1443 | 90 |
+| 267 | 1135 | 80 |
+| 247 | 1053 | 77 |
+| 279 | 1189 | 82 |
+| 273 | 1189 | 82 |
+| 297 | 1307 | 86 |
+| 292 | 1279 | 85 |
+| 303 | 1337 | 87 |
+| 287 | 1243 | 84 |
+| 283 | 1216 | 83 |
+
+The curious part is how 2 different crystal damages share the same level.
+
+**Evidence:**
+
+* [I went and got hit by every single electro crystal on the map with no stat change or effects to affect the damage taken](https://www.youtube.com/watch?v=R738dkn2A4Q)  
+* [the last 3 are in a different video that might as well be excluded as it provides nothing new](https://www.youtube.com/watch?v=plkvuafVyKo)
+* [Electro-charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
+
+**Significance:**  
+Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is made
+

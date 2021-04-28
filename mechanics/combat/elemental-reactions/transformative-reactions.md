@@ -28,7 +28,7 @@ LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times Lv
 \end{align}
 $$
 
-Transformative reactions scale based on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content.
+Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
 
 ## **Overload**
 
@@ -78,16 +78,24 @@ The behavior of Freeze curves to give diminishing returns at higher GU values. T
 
 ## Swirl
 
-Swirl is an elemental reaction triggered by applying Anemo on a target afflicted by Pyro/Hydro/Cryo/Electro. This reaction spreads the aura of the target onto nearby targets hit by the AoE effect of the Swirl. This can cause reactions to occur for mobs with other elements on it. It is unaffected by defense and cannot critically strike. Certain abilities allow Anemo to become infused with the given element. This is known as Elemental Absorption.
+Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE will cause up to two instances of _Swirl_ damage per target. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is very possible to have more than two total instances of damage per target.
 
-* Using Swirl on an Electro-Charged target swirls both Hydro and Electro.
-* For Elemental Absorption, it will infuse Hydro.
+* In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of hydro will not harm enemies.
+* It is possible to simultaneously trigger two swirls on one target from the same Anemo hit if the target has two swirl-applicable auras, such as an Electro-Charged enemy or a Frozen enemy with an underlying Hydro aura. Doing so will trigger on-Swirl effects for both elements.
+* All reactions caused by swirling auras together use the stats of the character that triggered the swirl in their damage calculation.
+* Environmental element sources \(such as campfires and burning grass\) can be swirled.
+* Swirl is an separate effect from Elemental Absorption.
+
+When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
+
+For a more detailed guide on Swirl, refer to the [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ\#4782 in the Evidence Vault.
 
 ## Crystallize
 
-Crystallize is an elemental reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given element. Picking up the shard grants a shield of the shard's element.
+Crystallize is an elemental reaction triggered by applying Geo on a target afflicted by Pyro/Hydro/Cryo/Electro that creates a shard of the given element. Picking up the shard grants a shield of the shard's element. Crystallize deals no damage, and instead the base health of the shield generated scales on Elemental Mastery and character level of the character that triggered the Crystallize reaction.
 
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
+* Picking up multiple crystals refreshes the duration of the shield and its element type.
 
 ## Evidence Vault:
 

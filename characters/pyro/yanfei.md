@@ -1,20 +1,18 @@
 ---
 description: >-
-  A well-known legal adviser active in Liyue Harbor. A brilliant young lady in
-  whose veins runs the mixed blood of an illuminated beast.
+  A well-known legal adviser active in Liyue Harbor. A briliant young lady in
+  whose veins runs the blood of an illuminated beast.
 ---
 
-# Yan Fei
+# Yanfei
 
 {% hint style="danger" %}
-Leaked character from CBT5, all numbers subject to change and data poisoning. Credit to Honey and AeEntropy.
+Preliminary data. Day 1 notes should be taken lightly.
 {% endhint %}
 
 ## ![](../../.gitbook/assets/element_pyro.png) Yan Fei
 
 ![](../../.gitbook/assets/character_yanfei_wish.png)
-
-\*\*\*\*
 
 ## **Base Stats**
 
@@ -33,22 +31,26 @@ Leaked character from CBT5, all numbers subject to change and data poisoning. Cr
 {% tabs %}
 {% tab title="Seal of Approval" %}
 **Normal Attacks**  
-Yan Fei shoots fireballs that deal up to three counts of Pyro DMG.
+Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 
-* When Yan Fei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yan Fei may possess a maximum of three Scarlet Seals, and each time this effect is triggered the duration of currently-possessed Scarlet Seals will refresh.
-* Each Scarlet Seal will decrease Yan Fei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
+* When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal.
+* Yan Fei may possess a maximum of three **Scarlet Seals**
+  * Each time this effect is triggered the duration of currently-possessed Scarlet Seals will refresh.
+* Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
+  * This stamina consumption reduction applies to all actions
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 81.68% |  |  |
 | 2-Hit | 72.98% |  |  |
 | 3-Hit | 106.42% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Charged Attack**  
-Consumes stamina and all Scarlet Seals before dealing AoE Pyro DMG.
+Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 
-* This Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed
+* This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
+* Yanfei's charged attack shatters frozen targets.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -57,7 +59,7 @@ Consumes stamina and all Scarlet Seals before dealing AoE Pyro DMG.
 | 2 Scarlet Seals | 175.08% |  |  |
 | 3 Scarlet Seals | 197.91% |  |  |
 | 4 Scarlet Seals | 220.75% |  |  |
-| GU |  |  |  |
+| GU | 1A |  |  |
 
 **Plunge**
 
@@ -69,30 +71,36 @@ Consumes stamina and all Scarlet Seals before dealing AoE Pyro DMG.
 {% endtab %}
 
 {% tab title="Signed Edict" %}
-Yan Fei summons blistering flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Yan Fei the maximum number of Scarlet Seals.
+Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
+
+* **Signed Edict** shatters frozen targets.
 
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
 | Skill DMG | 237.44% |
 | Cooldown | 9s |
-| Gauge Units |  |
+| Particles | 3 \(-\) |
+| Gauge Units | 1A |
 {% endtab %}
 
 {% tab title="Done Deal" %}
-Yan Fei triggers a spray of intense flames that rush at nearby opponents dealing AoE Pyro DMG, granting her the maximum number of Scarlet Seals, and applying Brilliance to her.
+Yanfei triggers a spray of intense flames that rush at nearby opponents dealing AoE Pyro DMG, granting her the maximum number of Scarlet Seals, and applying **Brilliance** to her.
 
 **Brilliance:**  
 The following effects of Brilliance last until Yan Fei leaves the field or falls in battle.
 
-* Grants Yan Fei a Scarlet Seal at fixed intervals
+* Grants Yanfei a Scarlet Seal at fixed intervals
 * Increases the DMG dealt by her Charged Attacks
 
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
 | Skill DMG | 255.36% |
-| Cooldown | 9s |
-| Energy Cost |  |
-| Gauge Units |  |
+| Charged Attack DMG Bonus | 44% |
+| Scarlet Seal Grant Interval | 1s |
+| Duration | 15s |
+| Cooldown | 20s |
+| Energy Cost | 80 |
+| Gauge Units | 2B |
 {% endtab %}
 {% endtabs %}
 
@@ -109,12 +117,17 @@ Displays the location of nearby resources unique to Liyue on the mini-map
 ### Proviso
 
 When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
+
+* The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Xiezhi's Eye
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+
+* **Xiezhi's Eye** applies 1A pyro and has no noticeable ICD to trigger or pyro application.
+  * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
 
@@ -183,10 +196,8 @@ Increases the maximum number of Scarlet Seals by 1.
 | 3 Seals | 197.91% | 209.61% | 221.3% | 233% | 244.69% | 256.39% |
 | 4 Seals | 220.75% | 233.79% | 246.84% | 259.88% | 272.92% | 285.97% |
 
-**Scarlet Seal Duration**: 10s
-
-**Scarlet Seal Stamina Consumption Decrease**: 15% per Seal
-
+**Scarlet Seal Duration**: 10s  
+**Scarlet Seal Stamina Consumption Decrease**: 15% per Seal  
 **Stamina Cost**: 50
 
 ### Plunge
@@ -207,15 +218,24 @@ Increases the maximum number of Scarlet Seals by 1.
 {% endtab %}
 
 {% tab title="Done Deal" %}
-| FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 255.36% | 273.60% | 291.84% | 310.08% | 328.32% | 346.56% | 364.80% | 387.60% |
+| Charged ATK DMG Bonus | 44% | 46.6% | 49.2% | 51.8% | 54.4% | 57% | 59.6% | 62.2% |
 
-**Energy Cost**: ?
+**Sacred Seal Grant Interval:** 1s  
+**Energy Cost**: 80  
+**Duration:** 15s  
+**CD:** 20s
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
 * [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/feiyan/)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yanfei)
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
 

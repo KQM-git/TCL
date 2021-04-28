@@ -61,7 +61,7 @@ Plunge from midair to strike the ground below dealing AoE DMG.
 {% tab title="Chonghua’s Layered Frost" %}
 Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short delay, a **Chonghua Frost Field** will form:
 
-* Within the said field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
+* Within this field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -133,8 +133,8 @@ The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
 
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
-* When used with any cooldown reduction\(CDR\) from the active character, Chongyun’s C2 reduces your CDR after the reduction from the active character and Slowing Waters.
-  * For example: Bennett A1 and A4 CDR applies before Chongyun C2 CDR
+* When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
+  * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
 {% endtab %}
 
 {% tab title="C3" %}

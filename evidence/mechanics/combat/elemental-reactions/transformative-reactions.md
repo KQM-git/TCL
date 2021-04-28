@@ -408,13 +408,13 @@ Shatter reaction has different U values depending on the attack triggering it. P
 **Evidence:**  
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
 
-1\) 12 Ninguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [https://youtu.be/jcTpDb2HNjg](https://youtu.be/jcTpDb2HNjg)
+1\) 12 Ningguang basic attacks to break a Cryo Abyss mage shield with 2 shards hitting the enemy \[0.5U per attack + 0.5U total Shatter value\] \*12 = 12U total\) [https://youtu.be/jcTpDb2HNjg](https://youtu.be/jcTpDb2HNjg)
 
-2\) 16 Ninguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [https://youtu.be/XYo\_22pvtkY](https://youtu.be/XYo_22pvtkY)
+2\) 16 Ningguang basic attacks to break a Cryo Abyss mage shield with only 1 shards hitting the enemy \(the other is blocked by a tree\) \[0.5U per attack + 0.25U Shatter value\] \* 16 = 12U total [https://youtu.be/XYo\_22pvtkY](https://youtu.be/XYo_22pvtkY)
 
 3\) 7 Geo MC Es to break a Cryo Abyss mage shield \[1U per attack + 0.75U Shatter value\]\*7 =12.25U total [https://youtu.be/yhFv5ehwoog](https://youtu.be/yhFv5ehwoog)
 
-4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ninguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [https://youtu.be/xG9kDTl9O8g](https://youtu.be/xG9kDTl9O8g)
+4\) slightly less than 16 Chongyun Es to break a Cryo Abyss mage shield \(yes, despite Chongyun being Cryo character\) 0.75U Shatter \* 15 = 11.25U. Now here is where I am not sure because after 15 attacks there is a sliver of health left of the shield. 15 Shatters of a lvl 20 character deal 1785 damage which is not enough according to my previous submissions. But Ningguang Shatters are 0.25U. Maybe Chongyun's 0.75U deals 3 instances of 0.25U Shatter? \(specifically to Cryo Abyss shield since it never actually breaks; need further testing\) [https://youtu.be/xG9kDTl9O8g](https://youtu.be/xG9kDTl9O8g)
 
 5\) less than 5 Beidou's Es to break a Cryo Abyss mage shield \[2U Electro + 0.75U Shatter\]4 = 11U [https://youtu.be/F2P0DcCls34](https://youtu.be/F2P0DcCls34)
 
@@ -535,6 +535,37 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 [EC Absorption Test - Venti Burst](https://www.youtube.com/watch?v=q-Ep7_JsNfs)
 
 **Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
+
+### Swirl Chain Reactions
+
+**By:** Terrapin\#8603  
+**Added:** 4/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836234307764092988/836771613537206322/transcript-swirl-chain-reactions.html)
+
+**Finding:** When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
+
+**Evidence:**
+
+[https://www.youtube.com/watch?v=0JMdHidAFEk](https://www.youtube.com/watch?v=0JMdHidAFEk) From this video, using a level 89 Sucrose with 0 Elemental Mastery, we can see that Swirl chain amplifying reactions work in the same way as normal - scaling off the respective reaction multiplier.
+
+* A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5x \(632\*1.5≈949\)
+* A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2x \(632\*2≈1265\)
+* A Hydro Swirl AoE that makes contact with an enemy with a Pyro aura causes the Wet application to Vaporise, doing no damage.
+* A Pyro Swirl AoE that makes contact with an enemy with a Hydro aura causes the Pyro damage to reverse Vaporise, becoming amplified by 1.5x \(632\*≈949\)
+
+[https://www.youtube.com/watch?v=sexFAXpYlcM](https://www.youtube.com/watch?v=sexFAXpYlcM) In this video, we can see that Elemental Mastery affects amplifying reactions as normal. Here, Sucrose has 692 Elemental Mastery, which should give her a 92% bonus to Melt.
+
+* A Pyro Swirl AoE that makes contact with an enemy with a Cryo aura causes the Pyro damage to forward Melt, becoming amplified by 2 x 1.92 = 3.84x \(2027\*3.84≈7783\)
+* A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.92 = 2.88x \(2027\*2.88≈5837\)
+
+[https://www.youtube.com/watch?v=MmRm0zO1C6Q](https://www.youtube.com/watch?v=MmRm0zO1C6Q) In this video, Sucrose has over 100% crit rate, but the swirl chain reaction she causes does not score critical hits against the enemy, which proves that the chain amplifying reactions caused by Swirl cannot crit. In the video, Sucrose has 194 Elemental Mastery, giving her a 33.9% damage bonus to Melt.
+
+* A Cryo Swirl AoE that makes contact with an enemy with a Pyro aura causes the Cryo damage to reverse Melt, becoming amplified by 1.5 x 1.339 = 2.0085x \(1146\*2.0085≈2303\)
+* The 2.0085x multiplier seen in the video comes solely from the Melt reaction, which proves that swirl chain reactions that cause amplifying reactions can't crit.
+
+[https://www.youtube.com/watch?v=m8yAPFLmMxA](https://www.youtube.com/watch?v=m8yAPFLmMxA) In this video, Sucrose triggers swirl to cause transformative chain reactions, which are also calculated with Sucrose's Elemental Mastery and Level.
+
+**Significance:** Allows for better team-building and rotations, along with more understanding of how swirl works.
 
 ## Crystallize
 

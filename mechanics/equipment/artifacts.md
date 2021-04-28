@@ -114,6 +114,15 @@
 {% endtab %}
 {% endtabs %}
 
+### Pale Flame
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: Physical DMG +25%
+* 4 Piece Set Bonus: When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.
+{% endtab %}
+{% endtabs %}
+
 ### Retracting Bolide
 
 {% tabs %}
@@ -124,6 +133,15 @@
 
 {% tab title="Findings" %}
 * The 4p set has to be equipped to the character you want to buff, in most cases, your DPS character, not the character casting the shield.
+{% endtab %}
+{% endtabs %}
+
+### Tenacity of the Millelith
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: HP +20%
+* 4 Piece Set Bonus: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
 {% endtab %}
 {% endtabs %}
 
@@ -167,6 +185,7 @@
 
 {% tab title="Findings" %}
 * Anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time.
+* A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances
 {% endtab %}
 {% endtabs %}
 

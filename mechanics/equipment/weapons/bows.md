@@ -70,6 +70,33 @@
 
 ## 4 Stars
 
+### Alley Hunter
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Urban Guerrilla | While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2/2.5/3/3.5/4**% every second up to a max of **20/25/30/35/40**%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4/5/6/7/8**% per second until it reaches 0%. |
+| Base ATK | 44 - 565 |
+| ATK% | 6% - 27.6% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 361 | 20.3 |
+| 60+ | 387 | 20.3 |
+| 65 | 408 | 21.5 |
+| 70 | 429 | 22.7 |
+| 70+ | 455 | 22.7 |
+| 75 | 476 | 23.9 |
+| 80 | 497 | 25.1 |
+| 80+ | 523 | 25.1 |
+| 85 | 544 | 26.4 |
+| 90 | 565 | 27.6 |
+{% endtab %}
+{% endtabs %}
+
 ### Blackcliff Warbow
 
 {% tabs %}
@@ -78,7 +105,7 @@
 | :--- | :--- |
 | Press the Advantage | After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
 | Base ATK | 44 - 565 |
-| CRIT DMG% | 8% - 36.8 |
+| CRIT DMG% | 8% - 36.8% |
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../../evidence/mechanics/equipment/weapons.md#blackcliff-series)

@@ -1,7 +1,6 @@
 # Cards
 
-At each chamber of a floor, 3 cards are offered. You may select one. These cards offer some form of a buff which
-take effect immediately [[1]](../../evidence/mechanics/spiral/cards.md#cards-activate-immediately-after-selection).
+At each chamber of a floor, 3 cards are offered. You may select one. These cards offer some form of a buff which take effect immediately [\[1\]](../../evidence/mechanics/gameplay-mechanics/spiral/cards.md#cards-activate-immediately-after-selection).
 
 ## List of cards
 
@@ -38,11 +37,17 @@ take effect immediately [[1]](../../evidence/mechanics/spiral/cards.md#cards-act
 | Defeating an opponent gives a 50% chance to end current Elemental Skill CD. Can only occur once every 20s. | Chamber |
 | Defeating an opponent instantly restores 8% HP for the current character | Chamber |
 | Increases Character DMG dealt to opponents' weak points by 30%. | Floor |
-| Instantly restores 25% HP to all party members | Immediate
+| Instantly restores 25% HP to all party members | Immediate |
 | When Character HP is greater than 50%, ATK +30% | Chamber |
 | When Character HP is greater than 50%, DEF +40% | Chamber |
 | When Character HP is less than 50%, ATK +60% | Chamber |
-| When Character HP is less than 50%, DEF +80% | Chamber | 
+| When Character HP is less than 50%, DEF +80% | Chamber |
 
 ## Notes
-* If a player presses retry and reselects the Max HP +25% card, they will be missing some HP - [Chameleon\#9008](../../evidence/mechanics/spiral/cards.md#hp-loss-on-retry)
+
+* If a player presses retry and reselects the Max HP +25% card, they will be missing some HP - [Chameleon\#9008](../../evidence/mechanics/gameplay-mechanics/spiral/cards.md#hp-loss-on-retry)
+
+## Evidence Vault
+
+{% page-ref page="../../evidence/mechanics/gameplay-mechanics/spiral/cards.md" %}
+

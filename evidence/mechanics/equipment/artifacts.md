@@ -204,7 +204,7 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 * This finding means that you can put 4TF on a support and get the bonus damage to reactions even if they are not on the field.
 
-### **4pc Thundering Fury Holder, if not on-field cannot Benefit from the CD Reduction**
+### **4pc Thundering Fury Holder, if not on-field, cannot benefit from the CD Reduction**
 
 **By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
@@ -223,11 +223,11 @@ But if the 4TF holder is not on the field but proccing the reaction, the 1s CD r
 
 * In the video you can see that at roughly 2.33s into the video guoba is summoned with 11.9s CD.
 * 2 overloads occur \(at 4s and 6s\)
-* At 8s into the video xiangling is switched back in and guoba has a 6.2s CD
+* At 8s into the video Xiangling is switched back in and guoba has a 6.2s CD
 * In total, roughly 5.33s has passed and guoba has only gone down in 5.7s
 * 2s has not been reduced and the 0.37s can be equated to just human error in measuring timings.
 
-This result also confirmed by Lix-\#3417 using Barbara E and then switching to keqing, no CD reduction occurred.
+This result also confirmed by Lix-\#3417 using Barbara E and then switching to Keqing, no CD reduction occurred.
 
 **Significance**
 
@@ -398,11 +398,11 @@ Tiny Miracle is equipped and you don't get RES% buff until after shield is broke
 
 **Theory:**
 
-Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different element resist together
+Viridescent Venerer 4set effect can trigger multiple times for different element, allowing you to stack different elemental resistances together.
 
 **Testing:**
 
-Used barbara for hydro debuff, fischl for electro debuff. Compared the dmg before and after swirl takes place
+Used Barbara for hydro debuff, Fischl for electro debuff. Compared the dmg before and after swirl takes place
 
 Barbara auto attack before swirl : 63
 
@@ -421,6 +421,26 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 [**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
 
 **Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
+
+### **4pc Viridescent Venerer can Proc Two Debuffs in One Swirl**
+
+**By:** Faranight\#0001  
+**Added:** 4/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834024269108477952/834325299373801492/transcript-vv-on-ec-and-frozen.html)
+
+**Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single anemo attack against Electro-Charged or Frozen targets.
+
+**Evidence:**
+
+[https://youtu.be/-6VU-qdN8Uw](https://youtu.be/-6VU-qdN8Uw)
+
+In this video, Barbara's normals deal 34 damage when buffed by her C2 but not buffed by VV, and Beidou's burst deals 960 damage. After Jean attacks the target with a single use of Gale Blade, Barbara's normals deal 44 damage and Beidou's skill deals 1227 damage. Both Barbara's hydro attacks and Beidou's electro burst were buffed by a single anemo attack.
+
+[https://youtu.be/bQmPheaLGXE](https://youtu.be/bQmPheaLGXE)
+
+In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals with the VV buff, and Barbara does 41 damage with her normals with both VV and Xingqiu's C2 buff. When a frozen target is swirled, Jean does 98 damage and Barbara does 41 damage to the target, meaning that the target received both a Hydro resistance down and Cryo resistance down debuff from a single anemo attack.
+
+**Signifiance:** Improves rotations; anemo characters don't need to be swapped in for each individual elemental debuff.
 
 ### **4pc Viridescent Venerer Explained**
 

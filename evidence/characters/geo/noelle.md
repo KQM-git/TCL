@@ -80,8 +80,8 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 **With Jean C2**
 
 * N1 + plunge spam = 207.36% MV/s
-* N3 Sprint cancel   = 162.66% MV/s  \(WITH jean C2\)
-* N3 + plunge is:  187.93 MV/s \(also with jean C2\)
+* N3 Sprint cancel   = 162.66% MV/s  \(WITH Jean C2\)
+* N3 + plunge is:  187.93 MV/s \(also with Jean C2\)
 {% endtab %}
 
 {% tab title="DS: Anemo Res Only" %}
@@ -188,16 +188,16 @@ Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind 
 **Calculating using Frame Perfect\(?\) 89 frame execution**
 
 * 331.78 / 89 = 3.727 x 60 = 223.67%
-* N1P spam = 223.67%  \(with jean C2\)
-* N3 Sprint cancel = 162.66% MV/s  \(WITH jean C2\)
+* N1P spam = 223.67%  \(with Jean C2\)
+* N3 Sprint cancel = 162.66% MV/s  \(WITH Jean C2\)
 
 _An increase in DPS of 37.5%._
 
 **Calculating using human average\(?\) 96 frame execution**
 
 * 331.78 / 96 = 3.456 x 60 = 207.36%
-* N1P spam = 207.36%  \(with jean C2\)
-* N3 Sprint cancel = 162.66% MV/s   \(WITH jean C2\)
+* N1P spam = 207.36%  \(with Jean C2\)
+* N3 Sprint cancel = 162.66% MV/s   \(WITH Jean C2\)
 
 _An increase in DPS of 27.4%_
 {% endtab %}

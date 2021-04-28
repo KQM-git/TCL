@@ -18,11 +18,17 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-interactions) With unstable internet connection. Character stats are snapshotted client-side with enemy stats calculated server-side. This can lead to things like Bennett's burst healing past 70%, or Albedo's A1 not benefitting from enemies falling below 50% HP.
 
+## Artifacts
+
+The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a result of their casting
+
 ## Miscellaneous
 
 [Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
 [Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
+
+Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
 ## Fixed Bugs
 

@@ -132,6 +132,7 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 When the Jade Shield takes DMG it will Fortify:
 
 * Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
+* There is no observable ICD on obtaining Shield Strength stacks.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -158,6 +159,8 @@ Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that 
 ### Stone, the Cradle of Jade
 
 Planet Befall grants nearby characters on the field a **Jade Shield** when it descends.
+
+* The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
 {% endtab %}
 
 {% tab title="C3" %}

@@ -67,7 +67,7 @@ This ability cannot be used to travel behind opponents of a larger build.
 | Frames | 65 |
 | Motion Value | 251.22%/s |
 
-* Both hits of **Ravaging Confession** apply cryo, and have no ICD, allowing it to double melt
+* Both hits of **Ravaging Confession** apply cryo and have no ICD, allowing both hits of **Ravaging Confession** to be melted.
 {% endtab %}
 
 {% tab title="Rites of Termination" %}
@@ -85,10 +85,10 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 | Frames | 74 |
 | Motion Value | 290.59%/s |
 
-* **Rites of Termination** snapshots buffs
-* Cryo application has no ICD
-  * 1A cryo on both damage instances on cast
-  * 1A cryo every damage tick, which occurs every 2 seconds
+* **Rites of Termination** snapshots buffs.
+* The Cryo application of **Rites of Termination** has no ICD
+  * **Rites of Termination** will apply 1A cryo on both damage instances on cast
+  * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
 {% endtab %}
 {% endtabs %}
 
@@ -107,19 +107,19 @@ Not stackable with Passive Talents that provide the exact same effect.
 
 When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT RATE increases by 12% for 5s.
 
-* Either damage instance of **Ravaging Confession** can trigger this passive
-* This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the crit sharing
-* Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy
-  * meaning, if Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus
+* Either damage instance of **Ravaging Confession** can trigger this passive.
+* This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the crit sharing.
+* Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy.
+  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Shadow Samaritan**
 
-Casting Rites of Termination increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%
+Casting Rites of Termination increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%.
 
 * The CRIT RATE shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
-  * Examples: Hu Tao A1 and Geo MC C1
+  * For example, the CRIT RATE shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
 {% endtab %}
 {% endtabs %}
 
@@ -161,7 +161,7 @@ Increases the level of Rites of Termination by 3.
 
 Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 
-* This effect can also be triggered by the lance DoT
+* This effect can also be triggered by the lance DoT.
 {% endtab %}
 {% endtabs %}
 
@@ -199,7 +199,7 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Ravaging Confession" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill 1 DMG | 81.76% | 87.6% | 93.44%  | 99.28% | 105.12% | 110.96%  | 116.8%  | 124.1% |
+| Skill 1 DMG | 81.76% | 87.6% | 93.44% | 99.28% | 105.12% | 110.96% | 116.8% | 124.1% |
 | Skill 2 DMG | 190.4% | 204% | 217.6% | 231.2% | 244.8% | 258.4% | 272% | 289% |
 
 **Cooldown**: 6s
@@ -208,7 +208,7 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Rites of Termination" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill 1 DMG | 145.6% | 156%  | 166.4% | 176.8% | 187.2% | 197.6%  | 208% | 221% |
+| Skill 1 DMG | 145.6% | 156% | 166.4% | 176.8% | 187.2% | 197.6% | 208% | 221% |
 | Skill 2 DMG | 212.8% | 228% | 243.2% | 258.4% | 273.6% | 288.8% | 304% | 323% |
 | Ice Lance DoT | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 

@@ -2,7 +2,7 @@
 
 ## **Credits**
 
-Special thanks to the hardworkers from [GanyuMains ](https://discord.gg/ganyumains)that have kept this resource up to date.
+Special thanks to the hardworkers from [GanyuMains](https://discord.gg/ganyumains) that have kept this resource up to date.
 
 Karzak\#7126  
 SavageCabbage\#1445  
@@ -27,7 +27,7 @@ Below are screenshots of: weapon/status rankings based on average Ganyu stats, t
 
 Screenshots:
 
-[Image 1](https://i.imgur.com/Ed73Siq.png);[ Image 2](https://i.imgur.com/wWngWrnh.jpg)
+[Image 1](https://i.imgur.com/Ed73Siq.png); [Image 2](https://i.imgur.com/wWngWrnh.jpg)
 
 Spreadsheet:
 
@@ -48,7 +48,7 @@ In practice, when in the abyss the usage of amos bow and C1 Ganyu are incredibly
 
 **Evidence:**
 
-User JinJinx witnessed Aerylle’s original hyper invest ganyu post and attempted it with his own setup \(with C0 and prototype crescent\) and found that he could not get anywhere near the values that Aerylle was getting. With that in mind, he then subsequently wrote this document showing his findings as to why this was the case.
+User JinJinx witnessed Aerylle’s original hyper invest Ganyu post and attempted it with his own setup \(with C0 and prototype crescent\) and found that he could not get anywhere near the values that Aerylle was getting. With that in mind, he then subsequently wrote this document showing his findings as to why this was the case.
 
 [\[Document\] In reference to Aerylle’s Hyper-invested Ganyu run](https://docs.google.com/document/d/1eYt0Bsa3bbnsqNkw5B6hoTIZkEWB7lSebD9NwWv94cg/edit?usp=sharing)
 
@@ -73,7 +73,7 @@ With Ganyu’s C1, the 15% cryo shred is applied to the FFB of the first shot so
 
 Tested with Ganyu, no artifact, R1 Amos, c6 and level 8 talent. consistent 889 dmg with 2090 bloom in the first video. After the initial charged shot, the resulting bloom dmg did not change at close range meaning that the cryo shred was applied to the first bloom. by running maths, we found out that the bloom has 0.3 travel time. \(204.8% x 1.12 x 0.9\)/\(348.16% x \(1.12 + 0.24\) x 1.025\) = 889/2090.
 
-[Video 1](https://youtu.be/j1wfYTOYkDQ);[ Video 2](https://youtu.be/JdyEOE2zECI)
+[Video 1](https://youtu.be/j1wfYTOYkDQ); [Video 2](https://youtu.be/JdyEOE2zECI)
 
 **Significance:**
 
@@ -224,11 +224,11 @@ With these two things in mind, as long as the FrostFlakeArrow is fired within 5 
 
 **Evidence:**
 
-The activation of the A1 passive is visible after ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
+The activation of the A1 passive is visible after Ganyu shoots a frost flake arrow \(as can be seen from the yellow visual effect around Ganyu\) and the effect persists after swap:
 
 [\[video\] A1 passive swap test](https://youtu.be/G_4Jn1xxwG0)
 
-After shooting an arrow, moving inside/outside bennet’s burst does not change the damage dealt by arrows previously released, therefore arrows do not dynamically update buffs, they keep the same state after being fired:
+After shooting an arrow, moving inside/outside Bennett’s burst does not change the damage dealt by arrows previously released, therefore arrows do not dynamically update buffs, they keep the same state after being fired:
 
 [\[video\] Arrow snapshot test](https://youtu.be/moPAMaH9LMo)
 
@@ -442,7 +442,7 @@ On subsequent casts of Ganyu’s Celestial Shower, if done in quick succession \
 
 Users SavageCabbage and Tiago did some testing of Ganyu’s elemental burst by casting the burst in succession against a cryo regislive, and a group of slimes respectively in order to test for both C4 and non C4 interactions. The result of which showed that after initial casting, both ascension 4 and constellation 4 were able to carry over providing additional damage for Ganyu.
 
-[Video 1](https://youtu.be/_QN_X8ptbTw);[ Video 2](https://youtu.be/ao8XpqoNGx8);[ Video 3](https://youtu.be/qxrIiqGlRI4)
+[Video 1](https://youtu.be/_QN_X8ptbTw); [Video 2](https://youtu.be/ao8XpqoNGx8); [Video 3](https://youtu.be/qxrIiqGlRI4)
 
 **Significance:**
 
@@ -478,19 +478,19 @@ Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s elemental b
 
 **Evidence:**
 
-User Neptunya tested Ganyu’s elemental burst by casting it along with a bennet ult, varying between being inside the bennet ult during cast, walking into the bennet ult after cast, and not being in the bennet ult whatsoever in order to determine if ganyu’s elemental burst was snapshot in nature, which he found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a bennet ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
+User Neptunya tested Ganyu’s elemental burst by casting it along with a Bennett ult, varying between being inside the Bennett ult during cast, walking into the Bennett ult after cast, and not being in the Bennett ult whatsoever in order to determine if Ganyu’s elemental burst was snapshot in nature, which he found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a Bennett ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
 
 [\[video\] Ganyu charge shot snapshotting](https://youtu.be/moPAMaH9LMo)
 
 [\[video\] Ganyu burst alone](https://youtu.be/1xaxk0roVIc)
 
-[\[video\] Ganyu burst outside of bennet buff](https://youtu.be/XHrFKkFXjAc)
+[\[video\] Ganyu burst outside of Bennett buff](https://youtu.be/XHrFKkFXjAc)
 
-[\[video\] Ganyu burst inside of bennet buff](https://youtu.be/ryO1Umsa6po)
+[\[video\] Ganyu burst inside of Bennett buff](https://youtu.be/ryO1Umsa6po)
 
 **Significance:**
 
-By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental burst interacts with Ganyu’s abilities, which in particular is very important to know for melt comp, and even to an extent can be decently important for a Ganyu freeze comp if they decide to run bennet for the extra damage.
+By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, we now have a better understanding of how Bennet’s elemental burst interacts with Ganyu’s abilities, which in particular is very important to know for melt comp, and even to an extent can be decently important for a Ganyu freeze comp if they decide to run Bennett for the extra damage.
 
 ### Ganyu Burst does not Overlap
 
@@ -573,17 +573,17 @@ It can be useful to know that even in the event of immunity or resistance you ca
 
 **Finding:**
 
-With only f2p supports, and a +20 blizzard strayer set on ganyu with suboptimal crit rolls, it is entirely possible to clear abyss 12-3 with the time required for a 3 star clear without taking a single abyss card, making freeze Ganyu by far the easiest and cheapest 3 star abyss clear of 12-3 that is currently in the game. This has been done with both an amos bow and C1, as well as a prototype crescent, where the user purposefully avoided bursting off cooldown in order to circumvent C1 to the best of their abilities.
+With only f2p supports, and a +20 blizzard strayer set on Ganyu with suboptimal crit rolls, it is entirely possible to clear abyss 12-3 with the time required for a 3 star clear without taking a single abyss card, making freeze Ganyu by far the easiest and cheapest 3 star abyss clear of 12-3 that is currently in the game. This has been done with both an amos bow and C1, as well as a prototype crescent, where the user purposefully avoided bursting off cooldown in order to circumvent C1 to the best of their abilities.
 
 **Evidence:**
 
-User Aerylle initially tested this composition using a C1 ganyu and amos bow, where they found that they could easily clear abyss 12-3 in 77 seconds using a lvl 90 c1 Ganyu, lvl 90 amos bow, 8/6/8 for her talent levels, and a +20 blizzard strayer set with bad substats, and completely f2p supports with +0 artifacts.
+User Aerylle initially tested this composition using a C1 Ganyu and amos bow, where they found that they could easily clear abyss 12-3 in 77 seconds using a lvl 90 c1 Ganyu, lvl 90 amos bow, 8/6/8 for her talent levels, and a +20 blizzard strayer set with bad substats, and completely f2p supports with +0 artifacts.
 
-Following the monumental run, Jinjinx attempted to recreate the run with similar conditions but no amos bow nor C1. Noticing that he could not get anywhere near as close to what Aerylle initial video showed he submitted a document of his calculations and explanation for why C1 ganyu and Amos bow make a significant impact on why the run was possible, document linked below:
+Following the monumental run, Jinjinx attempted to recreate the run with similar conditions but no amos bow nor C1. Noticing that he could not get anywhere near as close to what Aerylle initial video showed he submitted a document of his calculations and explanation for why C1 Ganyu and Amos bow make a significant impact on why the run was possible, document linked below:
 
 [\[Document\] In reference to Aerylle’s Hyperinvested Ganyu run](https://docs.google.com/document/d/1eYt0Bsa3bbnsqNkw5B6hoTIZkEWB7lSebD9NwWv94cg/edit?usp=sharing)
 
-In response to this Aerylle created an updated version of the run where he swapped his amos for a prototype crescent R1, took zero abyss cards in order to account for C1’s cryo resistance shred, and purposefully wasted time on his +0 kaeya in order to mimic what a c0 player would likely have to do in order to gain energy for Ganyu’s elemental burst. After taking this into account Aerylle wrote the following in order to prove that not taking abyss cards more than made up for him ditching C1 along with posting this updated run.
+In response to this Aerylle created an updated version of the run where he swapped his amos for a prototype crescent R1, took zero abyss cards in order to account for C1’s cryo resistance shred, and purposefully wasted time on his +0 Kaeya in order to mimic what a c0 player would likely have to do in order to gain energy for Ganyu’s elemental burst. After taking this into account Aerylle wrote the following in order to prove that not taking abyss cards more than made up for him ditching C1 along with posting this updated run.
 
 [\[video\] Hyperstack comp 12-3 clear V2](https://www.youtube.com/watch?v=ut86yhY-_KI)
 
@@ -620,7 +620,7 @@ With the following in mind, there is clear evidence that a player with a hyper i
 
 **Finding:**
 
-It is possible to weave an auto attack in between frost flake arrows with Ganyu in order to have Xingqiu’s rain swords apply hydro for effectively a 100% uptime of the hydro effect. Beyond this, the DPS loss is very minimal, \(about 11%\) and allows for xingqiu to be a very viable option as a hydro support for Ganyu
+It is possible to weave an auto attack in between frost flake arrows with Ganyu in order to have Xingqiu’s rain swords apply hydro for effectively a 100% uptime of the hydro effect. Beyond this, the DPS loss is very minimal, \(about 11%\) and allows for Xingqiu to be a very viable option as a hydro support for Ganyu
 
 **Evidence:**
 
@@ -749,18 +749,18 @@ A significant amount of shots with a critical rate of 60 &lt; x &lt; 70, all of 
 
 **Significance:**
 
-BS set is now much more viable for freeze comps since its set bonuses apply to FFB even when shooting an enemy without an elemental aura or afflicted by hydro, which means FFB will crit much more consistently. Also makes rain perfect for ganyu freeze comps.
+BS set is now much more viable for freeze comps since its set bonuses apply to FFB even when shooting an enemy without an elemental aura or afflicted by hydro, which means FFB will crit much more consistently. Also makes rain perfect for Ganyu freeze comps.
 
-### **Xinqiu, Mona, Childe and Barbara are viable hydro supports for Ganyu freeze teams**
+### **Xingqiu, Mona, Childe and Barbara are viable hydro supports for Ganyu freeze teams**
 
 **By:** \(Nello\#1928\)  
 **Added:** 01/15/2021
 
 **Finding:**
 
-Xinqiu, Mona, Childe and Barbara are viable hydro supports for freeze comps, albeit C0 Childe is situational and Barbara has a long effective CD \(can't apply for a long period before her E's CD reset\).
+Xingqiu, Mona, Childe and Barbara are viable hydro supports for freeze comps, albeit C0 Childe is situational and Barbara has a long effective CD \(can't apply for a long period before her E's CD reset\).
 
-* Xinqiu: Excels in freeze uptime and control. You're able to apply hydro whenever you want by using normal attacks while his burst is active. Can even work against multiple targets, but less consistently than Mona. His downsides are the investment requirements - since he depends on decent ER values to be viable - and his less consistent hydro application against multiple targets.
+* Xingqiu: Excels in freeze uptime and control. You're able to apply hydro whenever you want by using normal attacks while his burst is active. Can even work against multiple targets, but less consistently than Mona. His downsides are the investment requirements - since he depends on decent ER values to be viable - and his less consistent hydro application against multiple targets.
 * Mona \(C0\): Excels in AoE hydro application. It is probably the most powerful option due to the Omen debuff \(see[ Mona’s Omen extension technique](https://docs.google.com/document/u/2/d/e/2PACX-1vS7VWaif9V2rRfwmwCR0JsQE7fib_vuJDuZl9TTznv8kKCgHkPv6C0A41az69t-snaYUs7rnJ-ryLI9/pub#h.9cxty78i5ez6)\). Can apply hydro easily on large areas and taunt enemies at the same time, which has good synergy with Ganyu's taunt. Does not require investment since you apply hydro via her Elemental Skill. Her downsides are freeze uptime and constant swapping. You cannot keep freeze up as often as XQ due to her effective CD \(~6 s\).
 * Childe \(C0\): It is a powerful option, however the most situational. Only works against multiple enemies. Riptide keeps reapplying AoE hydro every time enemies are defeated, therefore sometimes swapping is not even necessary. Might require 0 investment since his only job is to apply riptide \(may not even need his A4 passive, check out Aerylle\#1254 video below\).
 * Barbara: Can apply hydro as long as you keep close to enemies while her E is active and has decent healing capacity. Her downsides are the need to remain near enemies and the long effective CD \(17 s, but further reduced by A4 and C2 to 7.2 s\). However, she is a free unit available to all and is viable if there are no other options.
@@ -816,7 +816,7 @@ For consistency's sake, in the video below all shots are taken at point blank ra
 
 **Significance:**
 
-Zhongli provides an ample dps gain along with protection when playing in shotganyu range for any build. Additionally, this shows that Zhongli's resistance shred can stack with other forms of resistance decreasing abilities, such as Chongyun \(A4\), Geo resonance, etc.
+Zhongli provides an ample dps gain along with protection when playing in shotGanyu range for any build. Additionally, this shows that Zhongli's resistance shred can stack with other forms of resistance decreasing abilities, such as Chongyun \(A4\), Geo resonance, etc.
 
 ## **Miscellaneous information:**
 

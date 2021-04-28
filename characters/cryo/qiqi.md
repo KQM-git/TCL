@@ -97,6 +97,10 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 | Energy Cost | 80 |
 | Frames | 112 |
 | MV/s | 213.6%/s |
+
+* Qiqi's Talisman will heal characters attacking the target to which the talisman is applied as long as the damage dealt to the target is **BOTH**
+  * based on the attacking character's stats
+  * dealt by a character which is currently on-field
 {% endtab %}
 {% endtabs %}
 
