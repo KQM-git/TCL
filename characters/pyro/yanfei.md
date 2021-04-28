@@ -117,6 +117,8 @@ Displays the location of nearby resources unique to Liyue on the mini-map
 ### Proviso
 
 When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
+
+* The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 {% endtab %}
 
 {% tab title="Ascension 4" %}

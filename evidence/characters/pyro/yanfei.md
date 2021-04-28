@@ -9,4 +9,6 @@
 * Yanfei's A4 is on a separate ICD from her charged attack. - [Sitri\#9504](https://imgur.com/a/0hlcbRa)
 * Yanfei's A4 applies 1A pyro and has no noticeable ICD to trigger or apply pryo. - [Aetherpon\#5730](https://cdn.discordapp.com/attachments/835739595387699200/836814060074172416/YanfeiA4ApplyPyro.mp4)
 * Yanfei's E generates 3 particles - [Steph\#3614 and Neptunya\#8291](https://youtu.be/_-hD5iHi594)
+* Yanfei's A1 applies the pyro bonus before charged attack damage is calculated. - [Bobrokrot\#0111](https://cdn.discordapp.com/attachments/835739595387699200/836874610191499264/2021-04-28_10-50-56.mp4)
+  * [Calculations](https://media.discordapp.net/attachments/835739595387699200/836874595118219293/unknown.png)
 
