@@ -37,6 +37,7 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 * Yan Fei may possess a maximum of three **Scarlet Seals**
   * Each time this effect is triggered the duration of currently-possessed Scarlet Seals will refresh.
 * Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
+  * This stamina consumption reduction applies to all actions
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -49,6 +50,7 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
+* Yanfei's charged attack shatters frozen targets.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
@@ -71,11 +73,14 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 {% tab title="Signed Edict" %}
 Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
 
+* **Signed Edict** shatters frozen targets.
+
 | Effect | Talent 6 DMG% |
 | :--- | :--- |
 | Skill DMG | 237.44% |
 | Cooldown | 9s |
-| Gauge Units |  |
+| Particles | 2~3 \(3 more likely, ratio needs more testing\) |
+| Gauge Units | 1A |
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -228,3 +233,4 @@ Increases the maximum number of Scarlet Seals by 1.
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
+

@@ -86,7 +86,7 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 * Environmental element sources \(such as campfires and burning grass\) can be swirled.
 * Swirl is an separate effect from Elemental Absorption.
 
-When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage (if applicable). The subsequent reactions work in the same way that normal reactions do. 
+When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
 For a more detailed guide on Swirl, refer to the [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ\#4782 in the Evidence Vault.
 

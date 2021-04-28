@@ -40,7 +40,9 @@
 **Significance:** Time to farm your eggs and lizards guys
 
 ## Artifacts
+
 ### Noblesse Oblige 4pc bonus not applying to some bursts
+
 **By:** Bobrokrot\#0111  
 **Added:** 04/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
@@ -55,7 +57,6 @@ For now these are the only three ults that have this issue. The following ults a
 
 [\[Spreadsheet\] The calcs to confirm the numbers in the video:](https://docs.google.com/spreadsheets/d/1qwMllRjonYsyd6JFcmlLfqdd8fEe5lro_CchnkQISew/edit?usp=sharing)
 
-
 [In this video Ningguang ults first without 4NO, then reenters the Abyss-7 with 4NO](https://youtu.be/xDRgQuTTRMA). The damage numbers didn't change.  
 Note that this video was made yesterday before the patch by one of my subscribers. I did test myself after the update with the same result.
 
@@ -64,9 +65,9 @@ My Ning test after the patch, the calcs are in the above spreadsheet. [4NO buff 
 [4NO doesn't work on Ganyu](https://youtu.be/BmHfmKQr6r4)
 
 Some other tests:  
-[Jean (4NO works)](https://youtu.be/LqaC2WnHBgE)  
-[Kaeya (4NO works)](https://youtu.be/9MrgeJX0iOw)  
-[Amber (4NO works)](https://youtu.be/jNcaVB10Jow)
+[Jean \(4NO works\)](https://youtu.be/LqaC2WnHBgE)  
+[Kaeya \(4NO works\)](https://youtu.be/9MrgeJX0iOw)  
+[Amber \(4NO works\)](https://youtu.be/jNcaVB10Jow)
 
 **Significance:**  
 Until patched, Ganyu, Ning, and Beidou should not hold 4NO buffs as they cannot utilize the buff themselves. It is better suited on other characters until patched.

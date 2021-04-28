@@ -199,7 +199,7 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Ravaging Confession" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill 1 DMG | 81.76% | 87.6% | 93.44%  | 99.28% | 105.12% | 110.96%  | 116.8%  | 124.1% |
+| Skill 1 DMG | 81.76% | 87.6% | 93.44% | 99.28% | 105.12% | 110.96% | 116.8% | 124.1% |
 | Skill 2 DMG | 190.4% | 204% | 217.6% | 231.2% | 244.8% | 258.4% | 272% | 289% |
 
 **Cooldown**: 6s
@@ -208,7 +208,7 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 {% tab title="Rites of Termination" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill 1 DMG | 145.6% | 156%  | 166.4% | 176.8% | 187.2% | 197.6%  | 208% | 221% |
+| Skill 1 DMG | 145.6% | 156% | 166.4% | 176.8% | 187.2% | 197.6% | 208% | 221% |
 | Skill 2 DMG | 212.8% | 228% | 243.2% | 258.4% | 273.6% | 288.8% | 304% | 323% |
 | Ice Lance DoT | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 
