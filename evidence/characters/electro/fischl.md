@@ -3,7 +3,8 @@
 ## Fischl A4 Proc Rate
 
 **By:** Terrapin#8603  
-**Added:** 4/26/2021
+**Added:** 4/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835441879801004042/836654942710267944/transcript-fischl-a4-proc-rate.html)
 
 **Finding:**
 
