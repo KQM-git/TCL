@@ -100,7 +100,7 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 | Duration | 15s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
-| Gauge Units | 1A |
+| Gauge Units | 2B |
 {% endtab %}
 {% endtabs %}
 
