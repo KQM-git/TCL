@@ -358,3 +358,47 @@ This was tested with Hu Tao's charge attack, the end of Noelle's greatsword swin
 
 **Significance:**  
 An understanding of the underlying mechanics of Fischl's A4 passive and possibly future similar effects
+
+## Fischl Support Weapon Rankings
+
+**By:** itsjaeYOU\#2868
+**Added:** 4/27/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/807360498034802758/836785156605870120/transcript-fischl-weps-ozsupport.html)
+
+**Theory:** 
+
+Fischl's weapons rankings for Oz-only bot support. (Fischl only ever goes on field to summon Oz, then switches off.)
+
+**Evidence:**
+
+https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit#gid=0
+
+Rankings (patch 1.4, subject to change):
+
+| Rank  | Weapon | %Difference | Damage |
+| ----- | ------ | ----------- | ------ |
+| 1 | Alley Hunter R5 | 123.5% | 55,486 |
+| 2 | Skyward Harp R1 | 123.0% | 55,280 |
+| 3 | Stringless R5 | 118.3% | 53,178 |
+| 4 | Alley Hunter R1 | 112.3% | 50,463 |
+| 5 | Amos\' Bow | 112.2% | 50,440 |
+| 6 | Elegy for the End | 107.9% | 48,484 |
+| 7 | Stringless R1 | 106.8% | 47,995 |
+| 8 | Windblue Ode R5 | 103.1% | 46,334 |
+| 9 | Blackcliff Bow R1 (0 stacks) | 102.0% | 45,864 |
+| 10 | Viridescent Hunt | 102.0% | 45,839 |
+| 11 | Rust | 100.0% | 44,945 |
+| 12 | Prototype Crescent | 100.0% | 44,945 |
+| 13 | Sacrificial Bow | 92.9% | 41,738 |
+| 13 | Favonius Warbow | 84.0% | 37,882 |
+
+Recommended Artifact Mainstats:
+
+Sands: ATK%
+Goblet: Electro%
+Circlet: Crit Rate/Crit Damage
+
+**Significance:** 
+
+Better weapon selection for support Fischl.
