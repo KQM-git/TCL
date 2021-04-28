@@ -26,7 +26,7 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 ## Fixed Bugs
 
-## Turbo
+### Turbo
 
 {% tabs %}
 {% tab title="Overview" %}
