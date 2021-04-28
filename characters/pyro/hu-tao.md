@@ -273,6 +273,6 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Hu_Tao)
-* [Hu Tao Mains Discord](https://discord.gg/hutaomains)
+* [Hu Tao Mains Discord](discord.gg/hutaoscorner)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 
