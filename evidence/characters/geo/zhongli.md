@@ -14,13 +14,17 @@ Credits to JonahFarc\#7056 for helping me figure out how this works.
 
 **Evidence:** If we take a Zhongli with Talent 8 Dominus Lapidis, and 16201 MAX HP, we get a Jade Shield that has 8443.45 Absorption.
 
+*Scenario 1:*
+
 A level 85 Ruin Guard with my Zhongli's DEF deals 1409 Damage per Rocket hit.
 
 If the +5% buff applies after the damage calculation, then the Jade Shield should fully absorb 6 rockets, and only sustain 302 damage.
  
 If the +5% buff applies during damage calculation, then Jade Shield should fully absorb 7 rockets, with ~885 remaining Shield HP.
 
-*Calculations:* https://cdn.discordapp.com/attachments/837172595202719794/837178466234663002/unknown.png
+Calculations: https://cdn.discordapp.com/attachments/837172595202719794/837178466234663002/unknown.png
+
+*Scenario 2:*
 
 https://www.youtube.com/watch?v=Lf14taQz1QE 
 
@@ -32,7 +36,9 @@ If the +5% Shield Bonus is applied after damage calculation, then Jade Shield sh
 
 If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining.
 
-*Calculations:* https://cdn.discordapp.com/attachments/837172595202719794/837178650636845076/unknown.png
+Calculations: https://cdn.discordapp.com/attachments/837172595202719794/837178650636845076/unknown.png
+
+*Scenario 3:*
 
 https://www.youtube.com/watch?v=zE9G3cymFqQ
 
@@ -40,9 +46,9 @@ We can see that Zhongli's Jade Shield was able to fully absorb 2 swings, with th
 
 In case you cant tell how many swings *actually* hit Zhongli, *if* the shield fully absorbed 3 hits, then in the case where the +5% Fortification is applied during damage step, Zhongli should sustain  ~3k direct damage from the instance the shield breaks, no matter what hit it was. Clearly, he took 143 direct damage from the hit that broke Jade Screen.
 
-On a side note, recasting Jade Screen before it breaks will reset the Fortification bonus back to 0.
+Calculations: https://cdn.discordapp.com/attachments/837172595202719794/837178529971044372/unknown.png
 
-*Calculations:* https://cdn.discordapp.com/attachments/837172595202719794/837178529971044372/unknown.png
+On a side note, recasting Jade Screen before it breaks will reset the Fortification bonus back to 0.
 
 **Significance:**  This allows for more accurate Zhongli shield calculations, as well as any future characters with a similar mechanic.
 
