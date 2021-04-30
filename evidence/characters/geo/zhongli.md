@@ -18,16 +18,18 @@ Credits to JonahFarc\#7056 for helping me figure out how this works.
 * If the +5% buff applies after the damage calculation, then the Jade Shield should fully absorb 6 rockets, and only sustain 302 damage.  
 * If the +5% buff applies during damage calculation, then Jade Shield should fully absorb 7 rockets, with ~885 remaining Shield HP.
 
-*Scenario 2:* [Video](https://www.youtube.com/watch?v=Lf14taQz1QE) and [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178650636845076/unknown.png)
+[Video](https://www.youtube.com/watch?v=Lf14taQz1QE) and [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178650636845076/unknown.png)
 
 As we can see in this video, Zhongli was able to fully absorb 6 rockets, losing his shield at the 7th rocket and sustaining direct damage.  
+
+*Scenario 2:* [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178529971044372/unknown.png)
 
 Further Evidence: Lets take another example, Zhongli this time has 9570 Base Shield Absorption. A single swing from a level 85 Ruin Guard will hit for 3388 Damage.  
 
 * If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage.  
 * If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining. 
 
-*Scenario 3:* [Video](https://www.youtube.com/watch?v=zE9G3cymFqQ) and [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178529971044372/unknown.png)
+[Video](https://www.youtube.com/watch?v=zE9G3cymFqQ)
 
 We can see that Zhongli's Jade Shield was able to fully absorb 2 swings, with the third swing breaking his shield and dealing 143 damage to him.  
 
