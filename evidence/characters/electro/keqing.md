@@ -177,3 +177,13 @@ Confirms ZANTO’s Findings
 
 [https://youtu.be/gCb-AMa5cdA](https://youtu.be/gCb-AMa5cdA)
 
+## Keqing Pale Flame Set Bonus
+
+**By:** Ayzel\#7399
+**Added:** 05/01/2021
+
+**Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
+
+**Evidence:** [Youtube](https://youtu.be/Nlp4amqkOSM)
+
+**Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead.
