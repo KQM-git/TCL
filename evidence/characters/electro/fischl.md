@@ -378,7 +378,7 @@ Rankings (patch 1.4, subject to change):
 | 2 | Skyward Harp R1 | 123.0% | 55,280 |
 | 3 | Stringless R5 | 118.3% | 53,178 |
 | 4 | Alley Hunter R1 | 112.3% | 50,463 |
-| 5 | Amos\' Bow | 112.2% | 50,440 |
+| 5 | Amos' Bow | 112.2% | 50,440 |
 | 6 | Elegy for the End | 107.9% | 48,484 |
 | 7 | Stringless R1 | 106.8% | 47,995 |
 | 8 | Windblue Ode R5 | 103.1% | 46,334 |
