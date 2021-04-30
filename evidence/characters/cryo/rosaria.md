@@ -36,6 +36,19 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 
 **Significance:** The description is misleading, and you can actually maintain 100% uptime on this physical resistance shred.
 
+## Pale Flame on Rosaria
+
+**By:** Monado/#9922
+**Added:** 05/01/2021
+
+**Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's skill despite the skill being 2 hits (probably because the 2 hits are within 0.3s), and requires back to back usage to achieve the full 4 piece effect.
+
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=GPQqnZv0qLk)
+Also hitlag on Mitachurl shields [wooden](wooden:https://www.youtube.com/watch?v=8Jd4QWFFavY) and [geo](https://www.youtube.com/watch?v=klxD_F9Widg) still only grants you one stack per skill use.
+
+**Significance:** This likely makes 4 piece Pale Flame too cumbersome to use for carry Rosaria, so may be a better idea to use 2 piece Pale Flame and 2 piece Bloodstained instead.
+
+
 ## Day 1 Findings
 
 * Rosaria's E is 1A cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
