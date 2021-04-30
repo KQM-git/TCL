@@ -14,7 +14,7 @@
 ## Characters
 
 * [Anemo](characters/anemo/README.md)
-  * [Traveler \(Anemo\)](characters/anemo/traverler-anemo.md)
+  * [Traveler \(Anemo\)](characters/anemo/traveler-anemo.md)
   * [Jean](characters/anemo/jean.md)
   * [Sucrose](characters/anemo/sucrose.md)
   * [Venti](characters/anemo/venti.md)

@@ -57,7 +57,6 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 | Plunge Impact | 108.41% |
 | Low Plunge DMG | 216.78% |
 | High Plunge DMG | 270.77% |
-
 {% endtab %}
 
 {% tab title="Tidecaller" %}

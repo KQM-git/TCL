@@ -35,7 +35,7 @@ Venti's burst will deal its full elemental absorption damage [even if it is infu
 ### Turbo
 
 {% tabs %}
-{% tab title="Overview" %}
+
 When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the energy recharge investment for units, which allows for more investment into damage.
 
 | Number of Enemies | C0-C5 Particles | C6 Particles |
@@ -49,23 +49,21 @@ When Oz triggers Overload or Superconduct with his **Normal Attack**, he generat
 | 7 | 112.8 | 140 |
 
 _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
-{% endtab %}
 
-{% tab title="Videos" %}
 {% embed url="https://www.youtube.com/embed/9I\_NCFg-Cdw" caption="Kleeful\'s Turbo Tutorial" %}
 
 {% embed url="https://www.youtube.com/watch?v=vbz0Q7lRvYA" caption="TenTen\'s Turbo Overview" %}
-{% endtab %}
 
-{% tab title="Team Comps" %}
+
+
 **Units in a Turbo Team**
 
 * Fischl
 * Aura Setter
-    * Cryo Unit for Superconduct Turbo
-    * Pyro Unit for Overload Turbo
+  * Cryo Unit for Superconduct Turbo
+  * Pyro Unit for Overload Turbo
 * Last two slots are flexible
-    * Although for Superconduct Turbo, a secondary cryo unit may be required to maintain cryo aura
+  * Although for Superconduct Turbo, a secondary cryo unit may be required to maintain cryo aura
 
 **Pyro Aura**
 
@@ -87,22 +85,19 @@ Any unit fits here, but the units that benefit most from Turbo are energy-hungry
 **Additional Notes:**
 
 * When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
-  {% endtab %}
 
-{% tab title="Hotpot" %}
+
+
 **Hotpot**  
 Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,
 
-[A guide to cooking hotpot](https://docs.google.com/document/d/e/2PACX-1vSFPlp9i6rz4t5SyMrq2vBOOf1cGlWvFzcPZvdXS0VKkAji8pb1YrpMYgJKWsyOWmuNLNvYk9qdiHtC/pub) by Sayline
-\#5959
+[A guide to cooking hotpot](https://docs.google.com/document/d/e/2PACX-1vSFPlp9i6rz4t5SyMrq2vBOOf1cGlWvFzcPZvdXS0VKkAji8pb1YrpMYgJKWsyOWmuNLNvYk9qdiHtC/pub) by Sayline \#5959
 
 Sample recipes:
 
 * [The HT pot](https://youtu.be/xQtULxQm6tQ)
 * [Hotpot with Premium Bennett](https://youtu.be/SATlLhgvgiA)
-  {% endtab %}
-  {% endtabs %}
-  
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/bugs.md" %}

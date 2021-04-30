@@ -235,7 +235,7 @@ Note that as play-styles for Fischl differs between individuals \(some people on
 
 **Editors Note:** These MV/s are not replicable by a normal player thus will not be accounted for in real world scenarios, but they do not invalidate the findings by alyk99\#2776.
 
-## Fischl C6 + Innate Elemental Attacks in Turbo (Turbo fixed in 1.5)
+## Fischl C6 + Innate Elemental Attacks in Turbo \(Turbo fixed in 1.5\)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
@@ -268,7 +268,7 @@ Setup for double electro with innate pyro NA or infused pyro NA:
 
 In turbo compositions, using a pyro character with either innate pyro NA or infused pyro NA will not trigger Fischl A4. The same applies when adding an additional electro source like Beidou burst. We still cannot observe any overload reactions triggered by the on-field character through use of 4 TF.
 
-## Fischl Turbo Superconduct Exploration (Turbo fixed in 1.5)
+## Fischl Turbo Superconduct Exploration \(Turbo fixed in 1.5\)
 
 **By:** Vye\#9195  
 **Added:** 04/05/2021
@@ -366,14 +366,14 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/807360498034802758/836785156605870120/transcript-fischl-weps-ozsupport.html)
 
 **Theory:**  
-Fischl's weapons rankings for Oz-only bot support. (Fischl only ever goes on field to summon Oz, then switches off.)
+Fischl's weapons rankings for Oz-only bot support. \(Fischl only ever goes on field to summon Oz, then switches off.\)
 
 **Evidence:** [Google Sheets](https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit#gid=0)
 
-Rankings (patch 1.4, subject to change):
+Rankings \(patch 1.4, subject to change\):
 
-| Rank  | Weapon | %Difference | Damage |
-| ----- | ------ | ----------- | ------ |
+| Rank | Weapon | %Difference | Damage |
+| :--- | :--- | :--- | :--- |
 | 1 | Alley Hunter R5 | 123.5% | 55,486 |
 | 2 | Skyward Harp R1 | 123.0% | 55,280 |
 | 3 | Stringless R5 | 118.3% | 53,178 |
@@ -382,7 +382,7 @@ Rankings (patch 1.4, subject to change):
 | 6 | Elegy for the End | 107.9% | 48,484 |
 | 7 | Stringless R1 | 106.8% | 47,995 |
 | 8 | Windblue Ode R5 | 103.1% | 46,334 |
-| 9 | Blackcliff Bow R1 (0 stacks) | 102.0% | 45,864 |
+| 9 | Blackcliff Bow R1 \(0 stacks\) | 102.0% | 45,864 |
 | 10 | Viridescent Hunt | 102.0% | 45,839 |
 | 11 | Rust | 100.0% | 44,945 |
 | 12 | Prototype Crescent | 100.0% | 44,945 |
@@ -397,3 +397,4 @@ Recommended Artifact Mainstats:
 
 **Significance:**  
 Better weapon selection for support Fischl.
+

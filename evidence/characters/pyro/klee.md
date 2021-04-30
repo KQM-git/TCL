@@ -77,7 +77,7 @@ Updated: 12/28/2020
 * Klee Charge Attack
 * Repeat.
 
-## Turbo Klee with C6 Fischl (Turbo Fixed in 1.5)
+## Turbo Klee with C6 Fischl \(Turbo Fixed in 1.5\)
 
 **By:** Vye\#9195  
 **Added:** 4/2/2021
