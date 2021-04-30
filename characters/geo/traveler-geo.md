@@ -68,11 +68,11 @@ Performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 13 | 276.8%/s |
-| 2-Hit | 63.13% | 38 | 178.1%/s |
-| 3-Hit | 77% | 71 | 153.5%/s |
-| 4-Hit | 84.75% | 123 | 149.7%/s |
-| 5-hit | 102.88% | 163 | 159.1%/s |
+| 1-Hit | 64.63% | 13 | 298.15%/s |
+| 2-Hit | 63.13% | 38 | 201.63%/s |
+| 3-Hit | 77% | 71 | 172.99%/s |
+| 4-Hit | 84.75% | 123 | 141.22%/s |
+| 5-hit | 102.88% | 163 | 144.48%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
