@@ -80,6 +80,7 @@ Summon a shield that deals damage in a small radius around Noelle.
 | GU | 2 |
 
 * The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
+* When the shield breaks it creates enough hitlag that you can perform a Plunge attack if you jump at the correct time, however unless you purposefully break the shield it can be hard to time correctly.
 {% endtab %}
 
 {% tab title="Sweeping Time" %}
