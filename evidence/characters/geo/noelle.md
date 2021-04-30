@@ -211,6 +211,27 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 **Author**: I can't for the life of me get consistent plunges on these boomer hands without anemo res. I whiff more than I succeed, and if it's not consistent for me, then it's not realistic to me. If you can do it without move speed then, by all means. You can also use anything that gives you move speed. Doesn't have to be anemo res. Personally i just dont believe its worth doing atm, until we hav a good move speed buffer that doesn't gimp the comp. Tested with macros, even with macros I couldn't get consistent plunges without some form of move speed buff.
 
+## Noelle C4 DS
+
+**By:** Tarcc\#7510
+**Added:** 05/01/2021
+
+**Finding:** 
+What I have found is that you need to have either frame perfect DS timing, or you need a 10%+ speed bonus from either Diona ascension, Jean C2, or 2 player anemo unit synergy to reach consistent DS. I have also found that the instance of a shield break from C4 Noelle can also elongate the amount of time you have to do a proper DS. This is exceptionally difficult to pull off.
+
+Standard Dragon Strike: [Youtube](https://youtu.be/3Xi0SwmyrO8)
+
+What this shows is how DS is able to be consistent with a speed bonus. In my case I happened to use my C2 jean to DS. But this is not needed for DS.
+
+**Evidence:**
+Outside of this however, I found that it is not necessarily movement speed. While it allows for much easier and consistent DS performance, and considering this interaction I also realized something further.
+
+Weird Dragon Strike: [Youtube](https://youtu.be/uJs2IgQzv_k)
+
+What I had found is that the hitstun of the shield breaking(noelle c4) can allow something that would normally be frame perfect to perform a DS(without a speed bonus of any kind), Even when it is not frame perfect. The timing for this was from finding that when you E on Noelle she gets a shield on a 24 seconds CD. I waited for her to reach roughly 15.8 to 15.4 on the CD when I start the combo(end on the 4th hit with a jump DS). This is incredibly specific and hard to pull off consistently. (varies between users)
+
+**Significance:** This is significant because this could potentially apply to any shields that break and deal damage on break, but further than that, any timed breaks or timed damage instances could change how the game is played. This is an unexplored avenue and could be interesting.
+
 ## Noelle's Burst procs Breastplate
 
 **By:** JonahFarc\#7056
