@@ -84,6 +84,7 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 | Particles | 2~3 \(9:1\) |  |  |
 
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
+* Keqing can activate the full 4pc bonus of the Pale Flame artifact set in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
 {% endtab %}
 
 {% tab title="Starward Sword" %}
