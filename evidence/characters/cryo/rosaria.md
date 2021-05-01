@@ -38,7 +38,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 
 ## Pale Flame on Rosaria
 
-**By:** Monado/#9922
+**By:** Monado\#9922
 **Added:** 05/01/2021
 
 **Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's skill despite the skill being 2 hits (probably because the 2 hits are within 0.3s), and requires back to back usage to achieve the full 4 piece effect.
