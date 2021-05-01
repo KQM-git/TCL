@@ -567,6 +567,17 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **Significance:** Allows for better team-building and rotations, along with more understanding of how swirl works.
 
+### Swirl AOE Limit
+
+**By:** Terrapin\#8603
+**Added:** 4/30/2021
+
+**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
+
+**Evidence:** (from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)): https://imgur.com/a/sFnA4YH
+
+**Significance:** better understanding of swirl, assisting in teambuilding
+
 ## Crystallize
 
 ### **Crystallize on an Electro-Charged Enemy**
