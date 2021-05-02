@@ -50,3 +50,16 @@ Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infu
 **Significance:**  
 When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
 
+## Venti Burst Infusion Elemental Gauge Units
+
+**By:** Ayzel\#7399
+**Added:** 5/2/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837853360023011378/838536559040790608/transcript-venti-burst-1u-infusion.html)
+
+**Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
+
+**Evidence:** https://youtu.be/HcfgBlMjlLA
+
+The last tick of the hydro damage caused by Venti's burst elemental infusion is at about 18 seconds. The hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
+
+**Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
