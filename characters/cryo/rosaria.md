@@ -68,6 +68,7 @@ This ability cannot be used to travel behind opponents of a larger build.
 | Motion Value | 251.22%/s |
 
 * Both hits of **Ravaging Confession** apply cryo and have no ICD, allowing both hits of **Ravaging Confession** to be melted.
+* Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
 {% endtab %}
 
 {% tab title="Rites of Termination" %}
