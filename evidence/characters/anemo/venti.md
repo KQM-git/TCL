@@ -52,22 +52,24 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 ## C6 Venti Resistance Down Duration
 
-**By:** Hishammm ♡\#0001
-**Added:** 05/01/2021
+**By:** Hishammm ♡\#0001  
+**Added:** 05/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837587957828419594/838584790323298355/transcript-c6-venti-res-down-duration.html)
 
-**Finding:** The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.
-
+**Finding:**  
+The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.  
 Venti's late infusion bug still exists in 1.5.
 
-**Evidence:** Anemo Res Reduction: [Youtube](https://www.youtube.com/watch?v=KvEPod0i_P0)
+**Evidence:** 
 
+Anemo Res Reduction: [Youtube](https://www.youtube.com/watch?v=KvEPod0i_P0)  
 Res reduction lasts 10s from last anemo dmg tick.
 * Sucrose without res reduction deals: 91, 83, 104, 130
 * Sucrose with res reduction deals: 106, 97, 122, 152
 * Last tick of anemo dmg at 0:18
 * Sucrose stopped dealing increased damage at 0:28.
 
-Elemental Res Reduction (ft. Venti late infusion bug): [Youtube](https://www.youtube.com/watch?v=JAVanCKpxIo)
+Elemental Res Reduction (ft. Venti late infusion bug): [Youtube](https://www.youtube.com/watch?v=JAVanCKpxIo)  
 Res reduction lasts 10s from last hydro DOT tick.
 * Barbara without res reduction deals: 76, 71, 83, 111
 * Barbara with res reduction deals: 89, 83, 97, 130
@@ -75,7 +77,7 @@ Res reduction lasts 10s from last hydro DOT tick.
 * Last tick of hydro DOT at 0:14
 * Barbara stopped dealing increased damage at 0:24.
 
-Anemo Res Reduction (ft. Venti late infusion bug): [Youtube](https://www.youtube.com/watch?v=Ix85zbuwves/)
+Anemo Res Reduction (ft. Venti late infusion bug): [Youtube](https://www.youtube.com/watch?v=Ix85zbuwves/)  
 Anemo res reduction lasts 10s from last anemo dmg tick, not influenced by infusion ticks.
 * Sucrose without res reduction deals: 25, 23, 29, 36
 * Sucrose with res reduction deals: 42, 38, 48, 60
