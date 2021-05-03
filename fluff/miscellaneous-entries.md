@@ -2,9 +2,7 @@
 description: For entries that have little practical use.
 ---
 
-# Miscellaneous Entries
-
-### Grass
+# Grass
 
 ## Grass Fires in Friends' Teapots
 
@@ -28,7 +26,7 @@ In this video, filmed in my own teapot, Klee is unable to light grass on fire wi
 
 **Significance:** Could be a bug, or could also signify that Elemental Gauges work differently in co-op.
 
-### Misc.
+# Miscellaneous Entries
 
 ## Electro Tanking
 
