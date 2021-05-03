@@ -52,21 +52,13 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's charged attack shatters frozen targets.
 
-| String | Frames |
-| :--- | :--- |
-| Charged Attack | 72 |
-| N1C | 98 |
-| N2C | 107 |
-| N3C | 168 |
-| GU | 1A |
-
-| Scarlet Seals | Talent 6% |
-| :--- | :--- |
-| 0 | 129.40% |
-| 1 | 152.24% |
-| 2 | 175.08% |
-| 3 | 197.91% |
-| 4 | 220.75% |
+| String | Talent 6% | Frames |
+| :--- | :--- | :--- |
+| Charged Attack | 129.40% + 22.84%/Seal | 72 |
+| N1C | 211.08% + 22.84%/Seal | 98 |
+| N2C | 284.06% + 22.84%/Seal | 107 |
+| N3C | 390.48% + 22.84%/Seal | 168 |
+| GU | 1A | ~ |
 
 **Plunge**
 
