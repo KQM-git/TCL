@@ -4,6 +4,30 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
+### Grass
+
+## Grass Fires in Friends' Teapots
+
+**By:** Ayzel\#7399
+**Added:** 5/3/2021
+[Discussion](
+
+**Finding:** lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
+
+**Evidence:**
+
+https://www.youtube.com/watch?v=6hIZghh6a-w&ab_channel=Ayzel
+
+In this video, Klee, who applies 1U of pyro with her normal and charged attacks, is able to light grass on fire in my friend's teapot with only one normal or charged attack.
+
+https://www.youtube.com/watch?v=YxlzUaaLVUw&ab_channel=Ayzel
+
+In this video, filmed in my own teapot, Klee is unable to light grass on fire with a single 1U application of pyro through her normal or charged attacks.
+
+**Significance:** Could be a bug, or could also signify that Elemental Gauges work differently in co-op.
+
+### Misc.
+
 ## Electro Tanking
 
 **By:** Aevean Leeow\#1362  
