@@ -41,10 +41,10 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 81.68% |  |  |
-| 2-Hit | 72.98% |  |  |
-| 3-Hit | 106.42% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 81.68% | 13 | 376.98%/s |
+| 2-Hit | 72.98% | 41 | 226.33%/s |
+| 3-Hit | 106.42% | 90 | 174.05%/s |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
@@ -52,14 +52,21 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's charged attack shatters frozen targets.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 129.40% |  |  |
-| 1 Scarlet Seal | 152.24% |  |  |
-| 2 Scarlet Seals | 175.08% |  |  |
-| 3 Scarlet Seals | 197.91% |  |  |
-| 4 Scarlet Seals | 220.75% |  |  |
-| GU | 1A |  |  |
+| String | Frames |
+| :--- | :--- |
+| Charged Attack | 72 |
+| N1C | 98 |
+| N2C | 107 |
+| N3C | 168 |
+| GU | 1A |
+
+| Scarlet Seals | Talent 6% |
+| :--- | :--- |
+| 0 | 129.40% |
+| 1 | 152.24% |
+| 2 | 175.08% |
+| 3 | 197.91% |
+| 4 | 220.75% |
 
 **Plunge**
 
@@ -81,6 +88,8 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 | Cooldown | 9s |
 | Particles | 3 \(-\) |
 | Gauge Units | 1A |
+| Frames | 46 |
+| Motion Vaule | 309.70%/s |
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -101,6 +110,8 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Gauge Units | 2B |
+| Frames | 65 |
+| Motion Value | 235.72%/s |
 {% endtab %}
 {% endtabs %}
 
@@ -126,7 +137,11 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
-* **Xiezhi's Eye** applies 1A pyro and has no noticeable ICD to trigger or pyro application.
+| Type | Talent % | GU | Damage Type |
+| :--- | :--- | :--- | :--- |
+| Xiezhi's Eye | 80% | 1A | Charged Attack |
+
+* **Xiezhi's Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
