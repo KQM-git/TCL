@@ -569,8 +569,9 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ### Swirl AOE Limit
 
-**By:** Terrapin\#8603
-**Added:** 4/30/2021
+**By:** Terrapin\#8603  
+**Added:** 4/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834419900104835122/837844958001758218/transcript-swirl-guide.html)
 
 **Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
 
