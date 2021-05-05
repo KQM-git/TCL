@@ -6,7 +6,7 @@
 
 [Enemy HP Thresholds for Energy](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit#gid=672398441)
 
-[Elemental Gauge Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
+[Character Elemental Gauge Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
 
 ## Miscellaneous
 
