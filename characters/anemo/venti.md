@@ -100,7 +100,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
     * This number of ticks will always be reached in the original burst area, no matter the time of infusion.
   * Every third Anemo DoT tick applies 2U Anemo, for a maximum of 7 swirls.
     * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
-* Every third infused elemental tick applies an unknown GU of the absorbed element, for a maximum of 6 applications.
+* Every third infused elemental tick applies 1U of the absorbed element, for a maximum of 6 applications.
 * Venti's burst snapshots.
 {% endtab %}
 {% endtabs %}
