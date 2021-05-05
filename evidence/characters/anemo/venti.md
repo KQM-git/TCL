@@ -94,8 +94,8 @@ Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com
 
 ## Venti Burst Infusion Elemental Gauge Units
 
-**By:** Ayzel\#7399
-**Added:** 5/2/2021
+**By:** Ayzel\#7399  
+**Added:** 5/2/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837853360023011378/838536559040790608/transcript-venti-burst-1u-infusion.html)
 
 **Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
