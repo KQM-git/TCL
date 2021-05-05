@@ -104,12 +104,10 @@
 
 * [Miscellaneous Entries](fluff/miscellaneous-entries.md)
 
-## Calculators
+## Resources
 
-* [Damage Calculators](calculators/damage-calculator/README.md)
-  * [Weapon Kequlator](calculators/damage-calculator/weapon-kequlator.md)
-  * [Keqing Damage Calculator](calculators/damage-calculator/keqing-damage-calculator.md)
-  * [Simple Damage Calculator](calculators/damage-calculator/simple-damage-calculator.md)
+* [Calculators](resources/calculators.md)
+* [Links](resources/links.md)
 
 ---
 

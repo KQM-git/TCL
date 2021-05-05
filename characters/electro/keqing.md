@@ -251,15 +251,13 @@ Furthermore, to actively make use of this combo, it requires Keqing to be paired
 
 **TenTen's TCF Tutorial**
 
-{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" %}
+{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" caption="" %}
 
 **Hail's Video on How to Practice TCF**
 
-{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" %}
+{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" caption="" %}
 {% endtab %}
 {% endtabs %}
-
-
 
 ## **External Links**
 

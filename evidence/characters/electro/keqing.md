@@ -188,3 +188,4 @@ Confirms ZANTO’s Findings
 **Evidence:** [Youtube](https://youtu.be/Nlp4amqkOSM)
 
 **Significance:** Pale Flame BiS for phys Keqing, 2BSC 2Glad dead. Also, pale flame stacks are gained when elemental skill damage is dealt.
+

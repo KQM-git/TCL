@@ -56,7 +56,6 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | N2C | 284.06% + 22.84%/Seal | 107 |
 | N3C | 390.48% + 22.84%/Seal | 168 |
 
-
 **Plunge**
 
 | Damage Type | Talent 6% |

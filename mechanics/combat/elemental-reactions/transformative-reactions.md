@@ -89,8 +89,9 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
 More detailed guides on Swirl:
-* [Swirl Guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing) by Terrapin#8603 (added 4/30/2021)
-* [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ#4782 (added 10/27/2020)
+
+* [Swirl Guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing) by Terrapin\#8603 \(added 4/30/2021\)
+* [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ\#4782 \(added 10/27/2020\)
 
 ## Crystallize
 
