@@ -78,7 +78,7 @@ The behavior of Freeze curves to give diminishing returns at higher GU values. T
 
 ## Swirl
 
-Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE will cause up to two instances of _Swirl_ damage per target. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is very possible to have more than two total instances of damage per target.
+Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE will cause up to two instances of _Swirl_ damage per element. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is very possible to have more than two total instances of damage per target.
 
 * In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of hydro will not harm enemies.
 * It is possible to simultaneously trigger two swirls on one target from the same Anemo hit if the target has two swirl-applicable auras, such as an Electro-Charged enemy or a Frozen enemy with an underlying Hydro aura. Doing so will trigger on-Swirl effects for both elements.
@@ -88,7 +88,10 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 
 When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
-For a more detailed guide on Swirl, refer to the [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ\#4782 in the Evidence Vault.
+More detailed guides on Swirl:
+
+* [Swirl Guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing) by Terrapin\#8603 \(added 4/30/2021\)
+* [Swirl/Infusion Breakdown](https://docs.google.com/document/u/2/d/e/2PACX-1vTmyp3qURxKBmWLSmpCZxDZkVqOd8NGkN3Qpozw_CkDVK0_N9I6bH5rNbDu5Bc62FLi3Ur6WrlWl37L/pub) translated by GRZ\#4782 \(added 10/27/2020\)
 
 ## Crystallize
 

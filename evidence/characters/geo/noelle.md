@@ -228,7 +228,7 @@ Outside of this however, I found that it is not necessarily movement speed. Whil
 
 Weird Dragon Strike: [Youtube](https://youtu.be/uJs2IgQzv_k)
 
-What I had found is that the hitstun of the shield breaking (Noelle c4) can allow something that would normally be frame perfect to perform a DS(without a speed bonus of any kind), Even when it is not frame perfect. The timing for this was from finding that when you E on Noelle she gets a shield on a 24 seconds CD. I waited for her to reach roughly 15.8 to 15.4 on the CD when I start the combo (end on the 4th hit with a jump DS). This is incredibly specific and hard to pull off consistently. (varies between users)
+What I had found is that the hitstun of the shield breaking \(Noelle c4\) can allow something that would normally be frame perfect to perform a DS\(without a speed bonus of any kind\), Even when it is not frame perfect. The timing for this was from finding that when you E on Noelle she gets a shield on a 24 seconds CD. I waited for her to reach roughly 15.8 to 15.4 on the CD when I start the combo \(end on the 4th hit with a jump DS\). This is incredibly specific and hard to pull off consistently. \(varies between users\)
 
 **Significance:** This is significant because this could potentially apply to any shields that break and deal damage on break, but further than that, any timed breaks or timed damage instances could change how the game is played. This is an unexplored avenue and could be interesting.
 

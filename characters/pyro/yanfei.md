@@ -6,10 +6,6 @@ description: >-
 
 # Yanfei
 
-{% hint style="danger" %}
-Preliminary data. Day 1 notes should be taken lightly.
-{% endhint %}
-
 ## ![](../../.gitbook/assets/element_pyro.png) Yan Fei
 
 ![](../../.gitbook/assets/character_yanfei_wish.png)
@@ -41,10 +37,10 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 81.68% |  |  |
-| 2-Hit | 72.98% |  |  |
-| 3-Hit | 106.42% |  |  |
-| GU | 1A |  |  |
+| 1-Hit | 81.68% | 13 | 376.98%/s |
+| 2-Hit | 72.98% | 41 | 226.33%/s |
+| 3-Hit | 106.42% | 90 | 174.05%/s |
+| GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
@@ -52,14 +48,13 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's charged attack shatters frozen targets.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 129.40% |  |  |
-| 1 Scarlet Seal | 152.24% |  |  |
-| 2 Scarlet Seals | 175.08% |  |  |
-| 3 Scarlet Seals | 197.91% |  |  |
-| 4 Scarlet Seals | 220.75% |  |  |
-| GU | 1A |  |  |
+| String | Talent 6% | Frames |
+| :--- | :--- | :--- |
+| Charged Attack | 129.40% + 22.84%/Seal | 72 |
+| GU | 1A | ~ |
+| N1C | 211.08% + 22.84%/Seal | 98 |
+| N2C | 284.06% + 22.84%/Seal | 107 |
+| N3C | 390.48% + 22.84%/Seal | 168 |
 
 **Plunge**
 
@@ -81,6 +76,8 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 | Cooldown | 9s |
 | Particles | 3 \(-\) |
 | Gauge Units | 1A |
+| Frames | 46 |
+| Motion Vaule | 309.70%/s |
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -101,6 +98,8 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Gauge Units | 2B |
+| Frames | 65 |
+| Motion Value | 235.72%/s |
 {% endtab %}
 {% endtabs %}
 
@@ -122,11 +121,15 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Xiezhi's Eye
+### Blazing Eye
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
-* **Xiezhi's Eye** applies 1A pyro and has no noticeable ICD to trigger or pyro application.
+| Type | Talent % | GU | Damage Type |
+| :--- | :--- | :--- | :--- |
+| Xiezhi's Eye | 80% | 1A | Charged Attack |
+
+* **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
@@ -157,12 +160,12 @@ Increases the Level of Signed Edict by 3.
 
 When Done Deal is used:
 
-* Creates a shield that absorbs up to 75% of Yan Fei's Max HP for 15s
+* Creates a shield that absorbs up to 45% of Yan Fei's Max HP for 15s
 * This shield absorbs Pyro DMG 250% more effectively
 {% endtab %}
 
 {% tab title="C5" %}
-### Legal Cheat Sheet
+### Abiding Affidavit
 
 Increases the Level of Done Deal by 3.
 {% endtab %}

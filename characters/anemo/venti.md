@@ -172,6 +172,8 @@ Increases the Level of Skyward Sonnet by 3.
 Targets who take DMG from **Wind's Grand Ode** have their Anemo RES decreased by 20%.
 
 If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
+
+* The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.
 {% endtab %}
 {% endtabs %}
 

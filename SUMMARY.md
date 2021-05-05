@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [March 2021](newsletter/march-2021.md)
+* [Patch 1.5a](newsletter/patch-1.5a.md)
 * [Archive](newsletter/archive/README.md)
+  * [March 2021](newsletter/archive/march-2021.md)
   * [February 2021](newsletter/archive/february-2021.md)
   * [January 2021](newsletter/archive/january-2021.md)
 
@@ -104,12 +105,10 @@
 
 * [Miscellaneous Entries](fluff/miscellaneous-entries.md)
 
-## Calculators
+## Resources
 
-* [Damage Calculators](calculators/damage-calculator/README.md)
-  * [Weapon Kequlator](calculators/damage-calculator/weapon-kequlator.md)
-  * [Keqing Damage Calculator](calculators/damage-calculator/keqing-damage-calculator.md)
-  * [Simple Damage Calculator](calculators/damage-calculator/simple-damage-calculator.md)
+* [Calculators](resources/calculators.md)
+* [Links](resources/links.md)
 
 ---
 
