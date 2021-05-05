@@ -6,10 +6,6 @@ description: >-
 
 # Yanfei
 
-{% hint style="danger" %}
-Preliminary data. Day 1 notes should be taken lightly.
-{% endhint %}
-
 ## ![](../../.gitbook/assets/element_pyro.png) Yan Fei
 
 ![](../../.gitbook/assets/character_yanfei_wish.png)
@@ -55,10 +51,11 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | String | Talent 6% | Frames |
 | :--- | :--- | :--- |
 | Charged Attack | 129.40% + 22.84%/Seal | 72 |
+| GU | 1A | ~ |
 | N1C | 211.08% + 22.84%/Seal | 98 |
 | N2C | 284.06% + 22.84%/Seal | 107 |
 | N3C | 390.48% + 22.84%/Seal | 168 |
-| GU | 1A | ~ |
+
 
 **Plunge**
 
@@ -125,7 +122,7 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Xiezhi's Eye
+### Blazing Eye
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
@@ -133,7 +130,7 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 | :--- | :--- | :--- | :--- |
 | Xiezhi's Eye | 80% | 1A | Charged Attack |
 
-* **Xiezhi's Eye** no noticeable ICD to trigger or pyro application.
+* **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
 {% endtab %}
 {% endtabs %}
@@ -164,12 +161,12 @@ Increases the Level of Signed Edict by 3.
 
 When Done Deal is used:
 
-* Creates a shield that absorbs up to 75% of Yan Fei's Max HP for 15s
+* Creates a shield that absorbs up to 45% of Yan Fei's Max HP for 15s
 * This shield absorbs Pyro DMG 250% more effectively
 {% endtab %}
 
 {% tab title="C5" %}
-### Legal Cheat Sheet
+### Abiding Affidavit
 
 Increases the Level of Done Deal by 3.
 {% endtab %}
