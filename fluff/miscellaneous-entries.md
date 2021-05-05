@@ -39,7 +39,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 ## Spawn Aura Tanking
 
 **By:** Aevean Leeow\#1362  
-**Added:** 05/01/2021
+**Added:** 05/01/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804174551801921536/839374739973210122/transcript-spawn-aura-tanking.html)
 
 **Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type. 
@@ -50,8 +50,7 @@ Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%,  multiplying effe
 
 Razor has +80% RES but his BiS Shield C1 Beidou is small, and RES caps at 140%. Thus Beidou is BiS Electro Tank/Shield.
 
-Each viable combination of artis/comp/etc is compared to find these conclusions in this spreadsheet.
-[Google docs](https://docs.google.com/spreadsheets/d/1KZicv_Ww7VQKyhl1uvtxJTT0x3Gb-WPOYAxjD3yaUMY/edit#gid=477783156)
+Each viable combination of artis/comp/etc is compared to find these conclusions in this [spreadsheet](https://docs.google.com/spreadsheets/d/1KZicv_Ww7VQKyhl1uvtxJTT0x3Gb-WPOYAxjD3yaUMY/edit#gid=477783156).
 
 **Significance:** Why of course, this is incredibly significant and changes everything. In terms of things to build, Diona is a BiS char on every comp. Electro is the cheapest, as Beidou is both Tank and Shield, but is the most specialized. In general, Jean/Summit Shaper is used in 7/8 comps, while Zhong is used in 5/8 comps.
 
