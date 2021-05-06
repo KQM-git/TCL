@@ -252,7 +252,7 @@ When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for 
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Zhongli)
-* [Zhongli Mains Discord](https://discord.gg/3h5uepPXKr)
+* [Zhongli Mains Discord](discord.gg/Zhongli)
 * [Zhongli Guide](https://keqingmains.com/zhong-li/)
 
 **Evidence Vault:**
