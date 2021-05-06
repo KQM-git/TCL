@@ -398,3 +398,14 @@ Recommended Artifact Mainstats:
 **Significance:**  
 Better weapon selection for support Fischl.
 
+## Fischl Ult Has I-Frames
+**By:** !K#3689 
+
+**Added:** 5/6/2021
+
+**Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
+
+**Evidence:** https://youtu.be/7RPfSWwUOLM 
+Didn't lose any hp when the ruin guard landed
+
+**Significance:** Fischl has I-Frames on her ult, which was preivously thought to not have any in the TCL.
