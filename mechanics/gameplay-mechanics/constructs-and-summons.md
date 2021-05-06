@@ -14,16 +14,16 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 
 | Character | Move | Defensive Stats | Extra |
 | :--- | :--- | :--- | :--- |
-| Albedo | E. Skill | 1:1 | Geo |
-| Amber | E. Skill | Scaling | Taunt, Light |
-| Ganyu | E. Skill | Scaling | Taunt |
-| Klee | E. Skill | Invulnerable | Light |
-| Ningguang | E. Skill | Scaling | Geo |
-| Mona | E. Skill | Invulnerable | Taunt |
-| Traveler \(Geo\) | E. Skill | 1:1 | Geo, Climbable |
-| Traveler \(Geo\) | Q. Burst | Invulnerable | Geo \(Special\) |
-| Xiangling | E. Skill | Invulnerable | Light |
-| Zhongli | E. Skill | 1:1 | Geo, Climbable |
+| Albedo | Skill | 1:1 | Geo |
+| Amber | Skill | Scaling | Taunt, Light |
+| Ganyu | Skill | Scaling | Taunt |
+| Klee | Skill | Invulnerable | Light |
+| Ningguang | Skill | Scaling | Geo |
+| Mona | Skill | Invulnerable | Taunt |
+| Traveler \(Geo\) | Skill | 1:1 | Geo, Climbable |
+| Traveler \(Geo\) | Burst | Invulnerable | Geo \(Special\) |
+| Xiangling | Skill | Invulnerable | Light |
+| Zhongli | Skill | 1:1 | Geo, Climbable |
 
 ## Evidence Vault
 
