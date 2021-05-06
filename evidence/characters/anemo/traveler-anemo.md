@@ -22,7 +22,7 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 **Finding:** Anemo Traveller C6 lasts 10 seconds.
 
-**Evidence:** [https://i.imgur.com/H7zQc6Y](https://github.com/Artesians/TCL/tree/bf22a8ef907e2e909fc029e0331273f8082a54b3/H7zQc6Y/README.md)
+**Evidence:** [https://i.imgur.com/H7zQc6Y](https://imgur.com/H7zQc6Y)
 
 Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
 
