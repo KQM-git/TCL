@@ -107,7 +107,6 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 | GU | 2B |
 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
-* Midnight Phantasmagoria has no invulnerablility frames.
 {% endtab %}
 {% endtabs %}
 
