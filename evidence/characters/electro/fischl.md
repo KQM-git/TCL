@@ -403,6 +403,8 @@ Better weapon selection for support Fischl.
 
 **Added:** 5/6/2021
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839862552401674240/839936289129365625/transcript-fischl-ult-can-iframe.html)
+
 **Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
 
 **Evidence:** https://youtu.be/7RPfSWwUOLM 
