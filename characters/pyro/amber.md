@@ -232,3 +232,4 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/amber.md" %}
+

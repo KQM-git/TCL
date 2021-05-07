@@ -13,3 +13,4 @@ Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. In th
 
 **Significance:**  
 Baron Bunny may be used as an entity to hold certain auras.
+

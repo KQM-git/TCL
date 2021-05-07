@@ -399,7 +399,8 @@ Recommended Artifact Mainstats:
 Better weapon selection for support Fischl.
 
 ## Fischl Ult Has I-Frames
-**By:** !K#3689  
+
+**By:** !K\#3689  
 **Added:** 5/6/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839862552401674240/839936289129365625/transcript-fischl-ult-can-iframe.html)
 
@@ -408,3 +409,4 @@ Better weapon selection for support Fischl.
 **Evidence:** [Video showing no HP loss when ruin guard lands](https://youtu.be/7RPfSWwUOLM0)
 
 **Significance:** Fischl has I-Frames on her ult, contrary to the TCL's previous claim that there were none.
+

@@ -85,8 +85,8 @@ Energy Recharge is the multiplier that modifies how much energy is gained from t
 * JinJinx \(Mathalos Main\)\#5874
 * c2authoritarian\#5277
 * Pinupski\#9999
-* xf3#3123
-* Zeitraffer#1074
+* xf3\#3123
+* Zeitraffer\#1074
 
 {% page-ref page="../../../evidence/mechanics/gameplay-mechanics/attributes/energy.md" %}
 

@@ -100,8 +100,9 @@ Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com
 
 **Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
 
-**Evidence:** https://youtu.be/HcfgBlMjlLA
+**Evidence:** [https://youtu.be/HcfgBlMjlLA](https://youtu.be/HcfgBlMjlLA)
 
 The last tick of the hydro damage caused by Venti's burst elemental infusion is at about 18 seconds. The hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
 
 **Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
+

@@ -327,6 +327,7 @@
 | ER% | 13.3% - 61.3% |
 
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../../evidence/mechanics/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
+* When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../../evidence/mechanics/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 {% endtab %}
 
 {% tab title="Details" %}

@@ -2,9 +2,11 @@
 description: For entries that have little practical use.
 ---
 
-# Grass
+# Miscellaneous Entries
 
-## Grass Fires in Friends' Teapots
+## Grass
+
+### Grass Fires in Friends' Teapots
 
 **By:** Ayzel\#7399  
 **Added:** 5/3/2021  
@@ -20,9 +22,9 @@ In this [video](https://www.youtube.com/watch?v=YxlzUaaLVUw&ab_channel=Ayzel), f
 
 **Significance:** Could be a bug, or could also signify that Elemental Gauges work differently in co-op.
 
-# Miscellaneous Entries
+## Miscellaneous Entries
 
-## Electro Tanking
+### Electro Tanking
 
 **By:** Aevean Leeow\#1362  
 **Added:** 4/27/2021  
@@ -54,17 +56,17 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 **Signifiance:** The electro slimes will overtake us soon, and it's necessary to know how best to defend against them.
 
-## Spawn Aura Tanking
+### Spawn Aura Tanking
 
 **By:** Aevean Leeow\#1362  
 **Added:** 05/01/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804174551801921536/839374739973210122/transcript-spawn-aura-tanking.html)
 
-**Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type. 
+**Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
 
-**Evidence:** Damage reduction from DEF is DEF/(DEF + 5 * enemyLevel + 500). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs (eg Miracle is 4* and thus trades HP for RES). Shield characters simply max shield scaling stats. 
+**Evidence:** Damage reduction from DEF is DEF/\(DEF + 5  _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
 
-Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%,  multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited (dendro). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
+Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
 
 Razor has +80% RES but his BiS Shield C1 Beidou is small, and RES caps at 140%. Thus Beidou is BiS Electro Tank/Shield.
 
@@ -72,19 +74,17 @@ Each viable combination of artis/comp/etc is compared to find these conclusions 
 
 **Significance:** Why of course, this is incredibly significant and changes everything. In terms of things to build, Diona is a BiS char on every comp. Electro is the cheapest, as Beidou is both Tank and Shield, but is the most specialized. In general, Jean/Summit Shaper is used in 7/8 comps, while Zhong is used in 5/8 comps.
 
-More Significance to these already earth-shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, atk% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference. 
+More Significance to these already earth-shattering, mind-bending calculations, due to the discovery of spawning aura mechanics. Essentially, they ignore Damage Reduction and DEF, which is identical in execution to the previously hypothesized enemies that ignore DR and have a level of infinity, rendering DEF useless. For this reason, atk% debuffs on enemies will also be ignored in calculations. This introduces slightly more practicality to these calculations, though the practicality of this work has already approached infinity so it makes little difference.
 
 Thus, the question posed is no longer how much damage can you tank from a lv infinity enemy without DR. It is, how much damage can you tank from a spawning aura in one hit?
 
-In the first half of the 1.3 update, the Geo rework meant that geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self.
-In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
+In the first half of the 1.3 update, the Geo rework meant that geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
 
-Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield (Xinyan), and so does Cryo, with a bigger shield (Diona) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set.
-Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
+Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
 
-If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro > Cryo > Electro > Geo = Hydro = Anemo > Dendro > Physical.
+If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro &gt; Cryo &gt; Electro &gt; Geo = Hydro = Anemo &gt; Dendro &gt; Physical.
 
-## Climbing the Frostbearing Tree
+### Climbing the Frostbearing Tree
 
 **By:** Aevean Leeow\#1362  
 **Added:** 03/23/2021
@@ -109,7 +109,7 @@ Being at a greater height confers immense benefits. Those at a significant heigh
 
 Also, you can perform a plunging attack off of the tree.
 
-## Aether vs Lumine
+### Aether vs Lumine
 
 **By:** Fluffy\#5580  
 **Added:** 03/23/2021
@@ -120,7 +120,7 @@ Also, you can perform a plunging attack off of the tree.
 
 **Significance:** This means that Lumine is superior in all categories compared to Aether, so Lumine &gt; Aether. In addition, I have valid evidence to conclude another point. By squaring the resulting array and looking at the comparison once again, I found that Aether beats Lumine in blue now but still loses in red and green. Therefore, I believe I now have sufficient evidence to conclude that Lumine is Santa Claus, which makes her even cooler and just that much better than Aether.
 
-## Electro Crystals have levels
+### Electro Crystals have levels
 
 **By:** Greyhound\#7836  
 **Added:** 04/23/2021  

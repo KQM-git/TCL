@@ -144,7 +144,7 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Significance:** Limit testing of XQ.
 
-## Xingqiu Rain Sword ICD 
+## Xingqiu Rain Sword ICD
 
 **By:** Ayzel\#7399  
 **Added:** 5/6/2021  
@@ -158,3 +158,4 @@ The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds
 
 **Significance:**  
 Better knowledge for teambuilding and rotations.
+
