@@ -1,6 +1,6 @@
 # Xingqiu
 
-## **XQ Q Sword Internal Cooldown**
+## **XQ Q Sword Has an Internal Cooldown**
 
 **By:** BowlSoldier\#3528  
 **Added:** 12/6/2020
@@ -144,3 +144,17 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Significance:** Limit testing of XQ.
 
+## Xingqiu Rain Sword ICD 
+
+**By:** Ayzel\#7399  
+**Added:** 5/6/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838993375709364224/840057546563256340/transcript-xingqiu-rain-sword-icd.html)
+
+**Finding:**  
+The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds.
+
+**Evidence:**  
+[Rain sword triggers swirl](https://youtu.be/k2f2aAR4AS4) at 5:11, 7:41, 10:10 and also at 58:03, 1\:00\:32, 1\:03:01, and 1\:05:30
+
+**Significance:**  
+Better knowledge for teambuilding and rotations.
