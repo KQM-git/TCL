@@ -194,6 +194,23 @@ This also raises the question of other royal weapon use cases with off screen DP
 
 **Significance:** This has many applications in combat, especially in abyss where timed trials will be affected by proc frequency and subsequently burst uptime. Sacrificial weapons are among the best support options so understanding their mechanics are necessary.
 
+### Sacrificial Passive With Multiple E Stacks
+
+**By:** mol\#3280  
+**Added:** 5/6/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
+
+**Finding:**  
+When a character with multiple charges of their elemental skill has both charges down, a sacrificial proc will reset the elemental skill cooldown shown on the timer.
+
+**Evidence:**  
+[I cast one Sucrose E](https://imgur.com/a/AKgnNoq), waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to anemo resonance in video). So,  whatever timer is currently showing is the one which will be reset.
+
+The same occurs for [Ganyu C2](https://cdn.discordapp.com/attachments/837514129479827490/837875906907209728/2021-04-30_22-17-45_Trim.mp4) and [Klee](https://www.youtube.com/watch?v=tLdhyD7hBHo&start=133).
+
+**Significance:**  
+Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset (not the longer, still waiting cooldowns), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible. 
+
 ## Specific Weapon Mechanics
 
 ### Lost Prayer to the Sacred Winds
