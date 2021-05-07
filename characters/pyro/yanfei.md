@@ -174,6 +174,8 @@ Increases the Level of Done Deal by 3.
 ### Extra Clause
 
 Increases the maximum number of Scarlet Seals by 1.
+
+* At 4 seals, Yanfei's charged attack will consume 0 stamina.
 {% endtab %}
 {% endtabs %}
 
