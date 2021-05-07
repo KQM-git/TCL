@@ -35,3 +35,4 @@ As shown in the video, a Wake of Earth wall inbetween the Geovishap and the play
 
 **Significance:**  
 Enemy movement manipulation when using Geo Traveler in a team comp.
+
