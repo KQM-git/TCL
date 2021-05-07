@@ -25,13 +25,12 @@
 
 **By:** Terrapin\#8603  
 **Added:** 5/6/2021  
-[\[Discussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839244723133612072/840066389728821268/transcript-wake-of-earth-blocks-geovishap-jump.html)
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839244723133612072/840066389728821268/transcript-wake-of-earth-blocks-geovishap-jump.html)
 
 **Finding:**  
 The Geo Traveler's Elemental Burst walls block a Geovishap from being able to jump over it.
 
-**Evidence:**  
-[\[Video\]](https://www.youtube.com/watch?v=ipBK9T1Thz8)  
+**Evidence:** [Video](https://www.youtube.com/watch?v=ipBK9T1Thz8)  
 As shown in the video, a Wake of Earth wall inbetween the Geovishap and the player completely prevent them from being able to jump over it, stopping their jump at the wall's edge.
 
 **Significance:**  
