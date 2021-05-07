@@ -50,3 +50,19 @@ Updated: 4/3/2021
 
 **Significance:** Helpful when figuring out how much energy recharge is needed to build on a character in a specific team.
 
+## Auto Attack Energy Mechanics
+
+**By:** xf3\#3123 and Zeitraffer\#1074  
+**Added:** 5/6/2021  
+[\[Discussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839361536900595732/840061797561139211/transcript-auto-attack-energy-mechanics.html)
+
+**Finding:**  
+Normal attacks have a chance on hit to give the on field character about 1 energy. It can be seen when the on field character's vision flashes. It is not effected by ER% and can work with charged attacks. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user can get particles or not, such as in Xiao's Bane of All Evil. 
+
+**Evidence:**  
+[\[Google sheets link\]](https://docs.google.com/spreadsheets/d/1A72e6GlV8tuzHlOUygokWtQYSc3hB7qsyKOqPUhyjj8/edit?usp=sharing)  
+Spreadsheet includes videos of ER% testing, multi-hit attack testing, on hit testing, and Xiao's Bane of All Evil Testing. It also includes graphs illustrating the data spread of the tests. From the graphs and averages, multi-hit/projectile attacks on average proc the effect more often (N Spam KQ vs N1C KQ and N Spam Diona vs N Spam Amber C1)
+
+**Significance:**  
+Attacking enemies with normal/charged attacks can give extra energy. Although in small amounts, being able to cast a burst because of the mechanic may make or break an abyss run. Ideally, this would be done when waiting for particles, waiting for cooldowns, and/or when outside of rotations.
+
