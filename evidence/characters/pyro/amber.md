@@ -2,9 +2,9 @@
 
 ## Baron Bunny's aura
 
-**By:** Aluminum#5462  
+**By:** Aluminum\#5462  
 **Added:** 5/6/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839475466792599573/840049309344464967/transcript-baron-bunny-aura.html)
+[\[Discussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839475466792599573/840049309344464967/transcript-baron-bunny-aura.html)
 
 **Finding:** 
 
@@ -12,7 +12,7 @@ Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. In th
 
 **Evidence:** 
 
-[Video](https://youtube.com/playlist?list=PLPByPR2TubV5LHQ9Oab6k1bthvfrHkiSu)
+[\[Video\]](https://youtube.com/playlist?list=PLPByPR2TubV5LHQ9Oab6k1bthvfrHkiSu)
 
 **Significance:**
 
