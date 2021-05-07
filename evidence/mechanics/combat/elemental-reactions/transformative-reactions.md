@@ -579,6 +579,34 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **Significance:** better understanding of swirl, assisting in teambuilding
 
+### How to get Double Swirls
+
+**By:** Ayzel\#7399  
+**Added:** 5/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834597054301863965/839387910255280128/transcript-how-to-get-double-swirls.html)
+
+**Finding:**  
+On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura (where both the Frozen icon and a Hydro icon show up above the target's head), it is possible to get a "double swirl," where both elements (Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge (in the case of EC) or the Hydro gauge (in Frozen/Hydro). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro (for EC) or Hydro (for Freeze/Hydro).
+
+**Evidence:**  
+*Gauge reduction caused by Anemo must be greater than the hydro gauge (in the case where there is both a Hydro and Freeze aura present) or the Electro aura (in the case of electro-charged) in for a double swirl to occur*
+
+* [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) (double swirl)
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) (single swirl)
+* [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) (single swirl)
+* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) (double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur)
+* [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) (single swirl)
+
+A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the anemo reduction must be greater than the hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
+
+*If the anemo gauge reduction isn't greater, the swirl will be Electro(EC)/Hydro(Freeze)*
+
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) (hydro swirl)
+* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) (electro swirl)
+
+**Significance:**  
+More knowledge about how swirl works, better rotations and team-building
+
 ## Crystallize
 
 ### **Crystallize on an Electro-Charged Enemy**
