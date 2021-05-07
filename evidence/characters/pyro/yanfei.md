@@ -12,3 +12,17 @@
 * Yanfei's A1 applies the pyro bonus before charged attack damage is calculated. - [Bobrokrot\#0111](https://cdn.discordapp.com/attachments/835739595387699200/836874610191499264/2021-04-28_10-50-56.mp4)
   * [Calculations](https://media.discordapp.net/attachments/835739595387699200/836874595118219293/unknown.png)
 
+## C6 Yanfei Stamina Consumed Reduction
+
+**By:** bbwalrus\#8456  
+**Added:** 5/6/2021  
+[\[Discussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839654617628540988/840063885612548107/transcript-c6-yanfei-stamina-consumption-reduction.html)
+
+**Finding:**  
+Yanfei's charged attack stamina consumption is reduced by 15% per seal. Yanfei's C1 makes each of her seal reduce stamina cost of her charged attacks by and additional 10%. Her C6 allows her to have an extra 1 seal for a max of 4. 4 seals, each giving 25% stamina reduction each results in her charged attacks not costing stamina. Video proof attached, first charge attack with 0 seals consumes stamina and causes bar to appear, second charge attack with full seals after gaining them through Yanfei's e does not. 
+
+**Evidence:**  
+[\[Video\]](https://youtu.be/S3SkDNAuwzc)
+
+**Significance:**  
+With a play style heavily centered around charge attacks, Yanfei's C6 allowing her to have 0 stamina cost per charged makes her C6 pretty important.
