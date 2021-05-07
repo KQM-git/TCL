@@ -62,9 +62,8 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
   * When a character takes DMG, a **Rain Sword** will shatter, reducing the amount of DMG Taken. 20% of his Hydro DMG will be converted to additional DMG Reduction, maximum additional DMG Reduction gained cannot exceed 24%.
   * Increases active character’s resistance to interruption.
   * The initial maximum number of **Rain Swords** is 3.
-  * **Rain Swords** apply Hydro to surrounding enemies once every 2.2s.
+  * **Rain Sword** orbitals apply Hydro to surrounding enemies once every 2.5s.
 * Using this ability applies a very brief 1U Hydro aura onto the character.
-* In melee range, the orbitals will periodically apply hydro onto the enemy.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -80,9 +79,8 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * **Rain Sword's** damage reduction is a snapshot.
 * **Rain Sword's** interruption resistance can stack with other skills of similar effects.
 * While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
-* **Rain Sword** orbitals apply hydro every 2.5s
-  * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
-    * this occurs with the orbitals created by both Xingqiu's Skill and Burst
+* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
+  * this occurs with the orbitals created by both Xingqiu's Skill and Burst
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
