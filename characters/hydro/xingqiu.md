@@ -80,8 +80,9 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * **Rain Sword's** damage reduction is a snapshot.
 * **Rain Sword's** interruption resistance can stack with other skills of similar effects.
 * While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
-* After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
-  * this occurs with the orbitals created by both Xingqiu's Skill and Burst
+* **Rain Sword** orbitals apply hydro every 2.5s
+  * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
+    * this occurs with the orbitals created by both Xingqiu's Skill and Burst
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
@@ -91,7 +92,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
   * **Sword Rain** waves can be triggered at most once a second. However, so long as you are in an normal attack animation, even if you attack slightly before 1 second has passed, the next **Sword Rain** wave will be triggered as soon as possible.
   * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.
-* **Rain Swords** remain at the maximum number**.**
+* **Rain Swords** remain at the maximum number.
 * **Rain Swords** will not shatter.
 
 | Type | Talent 6% |
