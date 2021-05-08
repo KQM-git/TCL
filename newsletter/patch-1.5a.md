@@ -4,6 +4,16 @@ description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 
 # Patch 1.5a
 
+## Entries on New Content
+
+| Entry | Author\(s\) | Date |
+| :--- | :--- | :--- |
+| [Keqing Pale Flame Set Bonus](../evidence/characters/electro/keqing.md#keqing-pale-flame-set-bonus) | Ayzel\#7399 | 5/2 |
+| [Pale Flame on Rosaria](../evidence/characters/cryo/rosaria.md#pale-flame-on-rosaria) | Monado\#9922 | 5/2 |
+| [Day 1 Yanfei Findings](../evidence/characters/pyro/yanfei.md#day-1-yanfei-findings) | KQM Theorycrafters | 4/28 |
+
+## All Entries
+
 | Entry | Author\(s\) | Date |
 | :--- | :--- | :--- |
 | [Wake of Earth Blocks Geovishap Jump](../evidence/characters/geo/traveler-geo.md#wake-of-earth-blocks-geovishap-jump) | Terrapin\#8603 | 5/7 |
