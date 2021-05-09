@@ -39,9 +39,13 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **Evidence:** https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab_channel=EricBanker
 
 Timestamps:
+
 00:08:53 - E Press
+
 00:09:28 - E CD starts
+
 00:10:15 - normal attacks; hitlag occurs on all normal attacks
+
 00:19:32 - field goes away; Chongyun's cooldown on his skill hits 4.9s
 
 Total hitlag time: 1.5 seconds
