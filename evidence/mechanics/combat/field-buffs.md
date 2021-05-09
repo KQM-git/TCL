@@ -5,9 +5,10 @@
 **By:** Monochrom9\#8058  
 **Added:** 2/12/2021
 
-### Theory: Field buffs such as Chongyun's E and Bennett's Q apply ALL of their effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of their skills such that they tick on EXACTLY XX.0 for every second of the field duration.
+**Theory:** Field buffs such as Chongyun's E and Bennett's Q apply ALL of their effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of their skills such that they tick on EXACTLY XX.0 for every second of the field duration.
 
-**Evidence:**[ _\*\*_](https://youtu.be/Psxr86Qov4M)  
+**Evidence:**
+
 [https://youtu.be/Psxr86Qov4M](https://youtu.be/Psxr86Qov4M)  
 In this example pause the video at 14.0 and 13.0 CD. You’ll see that on these EXACT seconds, I got healed, and I also got the buffs indicated by arrows simultaneously with the first tick. Indicating the pattern.[ ](https://youtu.be/xrhWmvv4wbY)
 
