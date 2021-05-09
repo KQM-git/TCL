@@ -141,6 +141,8 @@ Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
 ### Chaotic Entropy
 
 If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
+* This buff lasts for 10 seconds.
+
 {% endtab %}
 {% endtabs %}
 
