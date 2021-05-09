@@ -26,3 +26,26 @@ Of course since Chongyun’s E adheres to this rule this also means you can weav
 **Significance:**  
 If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving a Bennett or Chongyun you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the skill, they will get the buff on the next tenth of a second, while if you swap to a new character whenXX.9 seconds remains they will be stranded without the buffs for almost a full second potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
 
+## Infusion-based Field Buff Hitlag Extension
+
+**By:** Kourinn\#6001
+
+**Added:** 5/9/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)
+
+**Finding:** Infusion-based field buffs are not extended by hitlag extension.
+
+**Evidence:** https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab_channel=EricBanker
+
+Timestamps:
+00:08:53 - E Press
+00:09:28 - E CD starts
+00:10:15 - normal attacks; hitlag occurs on all normal attacks
+00:19:32 - field goes away; Chongyun's cooldown on his skill hits 4.9s
+
+Total hitlag time: 1.5 seconds
+
+Total length of E field: ~10 seconds
+
+**Significance:** Hitlag extension should be ignored when considering Bennett/Chongyun's infusion field uptime.
