@@ -622,3 +622,20 @@ I electro charged in different orders with different application strengths. The 
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
 
+### Crystallize Shields don't Stack
+
+**By:** Terrapin\#8603
+
+**Added:** 5/9/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840107089925505025/840819697393729546/transcript-crystallize-does-not-stack.html)
+
+**Finding:** Shields created from a crystallize reaction do not stack.
+
+**Evidence:** https://www.youtube.com/watch?v=JBIWuMTYQQk
+
+The first test in the video shows Noelle picking up a Cryo Crystallize shield and then a Pyro Crystallize shield. She then takes several hits of Cryo damage which breaks the Pyro Crystallize shield. There is no remaining Cryo Crystallize shield.
+
+The second test in the video shows Noelle picking up a Cryo Crystallize shield, and taking many hits of Cryo damage where the shield does not break. If the shields stacked, in the original test the Cryo Crystallize shield should have persisted after the Pyro Crystallize shield was broken.
+
+**Significance:** The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
