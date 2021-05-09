@@ -34,7 +34,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)
 
-**Finding:** Infusion-based field buffs are not extended by hitlag extension.
+**Finding:** The duration of infusion-based field buffs are not extended by hitlag extension.
 
 **Evidence:** https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab_channel=EricBanker
 
@@ -46,6 +46,6 @@ Timestamps:
 
 Total hitlag time: 1.5 seconds
 
-Total length of E field: ~10 seconds
+Total length of E field: ~10 seconds (which matches with the duration of Chongyun's Field)
 
 **Significance:** Hitlag extension should be ignored when considering Bennett/Chongyun's infusion field uptime.
