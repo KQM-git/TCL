@@ -150,6 +150,6 @@ Durations:
 
 As shown, in the case of Xiangling, while her hitlag (on the second melee hit; the skill's cooldown starts *after* the first hit, so its hitlag has no benefit) delays the spawn, effectively reducing the cooldown by 6 or 7 frames (0.100s - 0.117s), this effect is negligible. 
 
-The third melee hit does not matter, since the Pyronado entity has spawned, and hitlag does not extend its duration.
+The third melee hit does not matter, since the Pyronado entity has spawned by the third hit, and hitlag does not extend its duration.
 
 **Significance:** Hitlag extension should be ignored when theorycrafting deployables' and Bennett's/Chongyun's buff/infusion uptime.
