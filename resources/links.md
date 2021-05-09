@@ -18,3 +18,5 @@ This page is still WIP, so these links will eventually be categorized and more l
 
 [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/)
 
+[Zakharov's Spreadsheets](https://docs.google.com/spreadsheets/d/1p50zzAuF5omLpPvs2jH8Nd3erW-Fh50GO_BOlLgeKNo/edit?usp=sharing)
+
