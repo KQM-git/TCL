@@ -631,7 +631,7 @@ I electro charged in different orders with different application strengths. The 
 **Finding:**  
 Shields created from a crystallize reaction do not stack.
 
-**Evidence:** https://www.youtube.com/watch?v=JBIWuMTYQQk
+**Evidence:** [https://www.youtube.com/watch?v=JBIWuMTYQQk](https://www.youtube.com/watch?v=JBIWuMTYQQk)
 
 The first test in the video shows Noelle picking up a Cryo Crystallize shield and then a Pyro Crystallize shield. She then takes several hits of Cryo damage which breaks the Pyro Crystallize shield. There is no remaining Cryo Crystallize shield.
 
@@ -639,3 +639,4 @@ The second test in the video shows Noelle picking up a Cryo Crystallize shield, 
 
 **Significance:**  
 The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
+

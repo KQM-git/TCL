@@ -35,7 +35,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **Finding:** The duration of infusion-based field buffs are not extended by hitlag extension.
 
-**Evidence:** https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab_channel=EricBanker
+**Evidence:** [https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab\_channel=EricBanker](https://www.youtube.com/watch?v=5gx9ReKNVZ0&ab_channel=EricBanker)
 
 Timestamps:
 
@@ -45,6 +45,7 @@ Timestamps:
 * 00:19:32 - field goes away; Chongyun's cooldown on his skill hits 4.9s
 
 Total hitlag time: 1.5 seconds  
-Total length of E field: ~10 seconds (which matches with the duration of Chongyun's Field)
+Total length of E field: ~10 seconds \(which matches with the duration of Chongyun's Field\)
 
 **Significance:** Hitlag extension should be ignored when considering Bennett/Chongyun's infusion field uptime.
+

@@ -12,21 +12,23 @@ CDR and effects that increase the linger duration have no effect on the schedule
 
 {% tabs %}
 {% tab title="Jean" %}
-**[Dandelion Field](../../characters/anemo/jean.md#attacks)**
+[**Dandelion Field**](../../characters/anemo/jean.md#attacks)
 {% endtab %}
 
 {% tab title="Bennett" %}
-**[Inspiration Field](../../characters/pyro/bennett.md#attacks)**  
+[**Inspiration Field**](../../characters/pyro/bennett.md#attacks)
 
 An additional tick that grants only the attack boosting effect is granted such that Bennett gets the extra attack use on the damage portion of his Q.
 {% endtab %}
 
 {% tab title="Chongyun" %}
-**[Chonghua Frost Field](../../characters/cryo/chongyun.md#attacks)**  
+[**Chonghua Frost Field**](../../characters/cryo/chongyun.md#attacks)
 
 Chongyun’s field works identically to most other fields in regards to leaving and reentering. However, here swapping between characters will apply his infusion to the new unit instantly in addition to the normally scheduled ticks.
 {% endtab %}
 {% endtabs %}
 
-**Evidence Vault:** 
-{% page-ref page="../../evidence/mechanics/gameplay-mechanics/field-buffs" %}
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/mechanics/gameplay-mechanics/field-buffs.md" %}
+
