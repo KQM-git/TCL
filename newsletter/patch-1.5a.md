@@ -16,6 +16,15 @@ description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 
 | Entry | Author\(s\) | Date |
 | :--- | :--- | :--- |
+| [Childe Melee Charged Attack Misses Stunned Ruin Guard](../evidence/characters/hydro/tartaglia.md#childe-melee-charged-attack-misses-stunned-ruin-guard) | EdisonsMathsClub\#6469 | 5/11 |
+| [Hitlag Extension Caveats](../evidence/mechanics/gameplay-mechanics/hitlag-extension.md#hitlag-extension-caveats) | Kourinn\#6001 | 5/11 |
+| [Normal Attack Hitlag can Extend Skill/Burst Duration](../evidence/mechanics/gameplay-mechanics/hitlag-extension.md#normal-attack-hitlag-can-extend-skill-burst-duration) | Kourinn\#6001 | 5/11 |
+| [Infusion-based Field Buff Hitlag Extension](../evidence/mechanics/gameplay-mechanics/field-buffs.md#infusion-based-field-buff-hitlag-extension) | Kourinn\#6001 | 5/10 |
+| [Sucrose C6 Buff Timer](../evidence/characters/anemo/sucrose.md#sucrose-c6-buff-timer) | Terrapin\#8603 | 5/10 |
+| [Crystallize Shields don't Stack](../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#crystallize-shields-dont-stack) | Terrapin\#8603 | 5/10 |
+| [Ruin Guard Jump Blocking](../evidence/mechanics/enemies/enemy-interactions.md#ruin-guard-jump-blocking) | Terrapin\#8603 | 5/10 |
+| [Oz Summoned From Ult Snapshots Fischl's Stats When Swapped Out](../evidence/characters/electro/fischl.md#oz-summoned-from-ult-snapshots-fischls-stats-when-swapped-out) | Trosalio\#0420 | 5/10 |
+| [Polearm Charge Attacks Don't Register On Stunned Ruin Guards](../evidence/mechanics/enemies/enemy-interactions.md#polearm-charge-attacks-dont-register-on-stunned-ruin-guards) | itskhoi\#0013 | 5/10 |
 | [Wake of Earth Blocks Geovishap Jump](../evidence/characters/geo/traveler-geo.md#wake-of-earth-blocks-geovishap-jump) | Terrapin\#8603 | 5/7 |
 | [C6 Yanfei Stamina Consumed Reduction](../evidence/characters/pyro/yanfei.md#c6-yanfei-stamina-consumed-reduction) | bbwalrus\#8456 | 5/7 |
 | [Sacrificial Passive With Multiple E Stacks](../evidence/mechanics/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) | mol\#3280 | 5/7 |

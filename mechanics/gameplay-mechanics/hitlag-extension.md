@@ -16,5 +16,3 @@ There are some skills, namely deployables, unable to be extended by hitlag, know
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/hitlag-extension.md" %}
 
-
-
