@@ -624,13 +624,12 @@ I electro charged in different orders with different application strengths. The 
 
 ### Crystallize Shields don't Stack
 
-**By:** Terrapin\#8603
-
-**Added:** 5/9/2021
-
+**By:** Terrapin\#8603  
+**Added:** 5/9/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840107089925505025/840819697393729546/transcript-crystallize-does-not-stack.html)
 
-**Finding:** Shields created from a crystallize reaction do not stack.
+**Finding:**  
+Shields created from a crystallize reaction do not stack.
 
 **Evidence:** https://www.youtube.com/watch?v=JBIWuMTYQQk
 
