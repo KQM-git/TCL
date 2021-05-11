@@ -29,4 +29,4 @@ Chongyun’s field works identically to most other fields in regards to leaving 
 {% endtabs %}
 
 **Evidence Vault:** 
-{% page-ref page="../../evidence-vault/mechanics/combat/field-buffs.md" %}
+{% page-ref page="../../evidence/mechanics/combat/field-buffs.md" %}
