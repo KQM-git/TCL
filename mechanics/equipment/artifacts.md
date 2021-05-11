@@ -193,7 +193,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Cryo DMG Bonus by 15%
+* 2 Piece Set Bonus: Increases Elemental Mastery by 80.
 * 4 Piece Set Bonus: Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.
 {% endtab %}
 {% endtabs %}
