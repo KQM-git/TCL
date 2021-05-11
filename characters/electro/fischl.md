@@ -108,6 +108,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
+* After summoning Oz with Midnight Phantasmagoria and swapping out of Fischl, Oz will take a snapshot of Fischl's stats right before she leaves the field.
 {% endtab %}
 {% endtabs %}
 
