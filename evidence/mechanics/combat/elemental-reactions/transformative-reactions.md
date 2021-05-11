@@ -637,4 +637,5 @@ The first test in the video shows Noelle picking up a Cryo Crystallize shield an
 
 The second test in the video shows Noelle picking up a Cryo Crystallize shield, and taking many hits of Cryo damage where the shield does not break. If the shields stacked, in the original test the Cryo Crystallize shield should have persisted after the Pyro Crystallize shield was broken.
 
-**Significance:** The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
+**Significance:**  
+The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
