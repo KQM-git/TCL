@@ -16,7 +16,7 @@ CDR and effects that increase the linger duration have no effect on the schedule
 {% endtab %}
 
 {% tab title="Bennett" %}
-**[Inspiration Field](../../characters/pryo/bennett.md#attacks)**  
+**[Inspiration Field](../../characters/pyro/bennett.md#attacks)**  
 
 An additional tick that grants only the attack boosting effect is granted such that Bennett gets the extra attack use on the damage portion of his Q.
 {% endtab %}
@@ -29,4 +29,4 @@ Chongyun’s field works identically to most other fields in regards to leaving 
 {% endtabs %}
 
 **Evidence Vault:** 
-{% page-ref page="../../evidence/mechanics/combat/field-buffs.md" %}
+{% page-ref page="../../evidence/mechanics/gameplay-mechanics/field-buffs" %}
