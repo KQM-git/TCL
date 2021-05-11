@@ -22,10 +22,8 @@ Unfortunately this means a lot of our frame counts of elemental durations will b
 
 ## Normal Attack Hitlag can Extend Skill/Burst Duration
 
-**By:** Kourinn\#6001
-
-**Added:** 5/9/2021
-
+**By:** Kourinn\#6001  
+**Added:** 5/9/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)
 
 **Finding:** Normal Attack hitlag can extend the duration of some skills/bursts, such as Xiao's burst.
@@ -40,110 +38,75 @@ The duration of Xiao's burst appears to be calculated from the frame the CD star
 
 ## Hitlag Extension Caveats
 
-**By:** Kourinn\#6001
-
-**Added:** 5/9/2021
-
+**By:** Kourinn\#6001  
+**Added:** 5/9/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)
 
 **Findings:**
-* Deployables (skills and constructs that stay on the field for a set amount of time) do NOT have duration extended by normal attack hitlag. The duration is only affected by their own activation hitlag (i.e. Xiangling's melee hits on her burst) and single-player world pauses (menu, character death, etc).
+* Deployables (skills and constructs that stay on the field for a set amount of time) do NOT have duration extended by normal attack hitlag.
+  * The duration is only affected by their own activation hitlag (i.e. Xiangling's melee hits on her burst) and single-player world pauses (menu, character death, etc).
 * The buffs caused by deployables, such as Chongyun's Cryo infusion, do have their durations extended by normal attack hitlag.
 
 **Evidence:**
 
-***Bennett Field Buff:***
+***[Bennett Field Buff](https://youtu.be/ie34i2e9A8o)***
 
-Video: https://youtu.be/ie34i2e9A8o
-
-Timestamps: 
-
-00:01:11 - Q press
-
-00:01:46 - CD start
-
-* NA spam (should add ~1s via hitlag)
-
-00:13:41 - last heal
-
-00:14:01 - AOE fully faded
+* 00:01:11 - Q press
+* 00:01:46 - CD start  
+* NA spam (should add ~1s via hitlag)  
+* 00:13:41 - last heal
+* 00:14:01 - AOE fully faded
 
 Q circle lasted 12s
 
-***Chongyun Field Buff:***
+***[Chongyun Field Buff](https://youtu.be/5gx9ReKNVZ0)***
 
-Video: https://youtu.be/5gx9ReKNVZ0
-
-Timestamps:
-
-00:08:53 - E press
-
-00:09:28 - E CD Start
-
+* 00:08:53 - E press
+* 00:09:28 - E CD Start
 * NA Spam (should add ~1.5s hitlag)
-
-00:19:32 - CD on skill hits 4.9 seconds
-
-00:19:39 - AOE fully faded
-
-00:21:43 - CD on Chongyun's Skill hits 2.7s (when the infusion effect *should* end)
-
-00:21:59 - Infused Weapon effect ends
+* 00:19:32 - CD on skill hits 4.9 seconds
+* 00:19:39 - AOE fully faded
+* 00:21:43 - CD on Chongyun's Skill hits 2.7s (when the infusion effect *should* end)
+* 00:21:59 - Infused Weapon effect ends
 
 E circle lasted ~10s; cryo infusion lasted 0.16 seconds longer than expected
 
 ***Xiangling Hitlag Extension***
 
-*With Hitlag on Startup*
-
-Video: https://youtu.be/fxvisWyC5lk
+*[With Hitlag on Startup](https://youtu.be/fxvisWyC5lk)*
 
 Timestamps:
 
-00:26:28 - Q press
-
-00:26:47 - Q CD Start, Q hitlag start
-
-00:26:54 - Q hitlag end (7 frames)
-
-00:27:06 - Q hitlag start
-
-00:27:13 - Q hitlag end (7 frames)
-
-00:27:27 - Pyronado Entity spawns
-
-00:27:35 - Q hitlag start
-
-00:27:42 - Q hitlag end (7 frames)
-
+* 00:26:28 - Q press
+* 00:26:47 - Q CD Start, Q hitlag start
+* 00:26:54 - Q hitlag end (7 frames)
+* 00:27:06 - Q hitlag start
+* 00:27:13 - Q hitlag end (7 frames)
+* 00:27:27 - Pyronado Entity spawns
+* 00:27:35 - Q hitlag start
+* 00:27:42 - Q hitlag end (7 frames)
 * some NA spam (should extend Pyronado by ~2s due to hitlag if hitlag were to actually extend pyronado)
-
-00:41:10 - Pyronado Entity disappears, 5.6s CD left
-
-00:41:15 - 5.5s cd
+* 00:41:10 - Pyronado Entity disappears, 5.6s CD left
+* 00:41:15 - 5.5s cd
 
 Durations:
+
 * from Q press: 14:42
 * from CD start: 14:23
 * from entity spawn: 13:43
 
-*Without Hitlag on Startup*
-
-Video: https://youtu.be/e_hR5BT6Ock
+*[Without Hitlag on Startup](https://youtu.be/e_hR5BT6Ock)*
 
 Timestamps:
 
-00:15 - Q pressed
-
-00:34 - CD started
-
-01:02 - Pyronado entity spawned
-
-14:45 - Pyronado entity disappears at 5.8s CD left 
-
-14:46 - Explosion animation starts
+* 00:15 - Q pressed
+* 00:34 - CD started
+* 01:02 - Pyronado entity spawned
+* 14:45 - Pyronado entity disappears at 5.8s CD left 
+* 14:46 - Explosion animation starts
 
 Durations:
+
 * from Q press: 14:30
 * from CD start: 14:16
 * from entity spawn: 13:44
