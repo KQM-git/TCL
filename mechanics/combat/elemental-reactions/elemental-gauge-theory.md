@@ -169,6 +169,12 @@ Furthermore, Self Auras have a particular interaction with Elemental Absorptions
 * IonFox\#8887
 * Monochrom9\#8058
 
+## Media
+
+### [AoShenCraft](https://www.youtube.com/channel/UCJgiYNvX6zHP1pChMZhqURA)
+
+{% embed url="https://www.youtube.com/watch?v=iSft0tCOdHY" caption="AoShenCraft's EGT Simplified \[With Visuals\]" %}
+
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
