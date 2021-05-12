@@ -148,3 +148,22 @@ It's actually a smaller buff than one would think, but there is a slight differe
 
 **Signifiance:** Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
 
+## Mona Omen and C1 Buff Mechanics
+
+**By:**  Kgbeast\#6738  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840003957183086662/841870834430902352/transcript-mona-omen-and-c1-mechanics.html)
+
+**Finding:**  
+Omen damage % bonus is additive with other damage % bonuses and the C1 bonus is additive with EM reaction bonuses
+
+**Evidence:**  
+Using the damage formula the expected damage of attacks under certain conditions was calculated for both scenarios, if Omen DMG% was multiplicative or additive: [Google sheets](https://docs.google.com/spreadsheets/d/1FqKRAeS7TJbLSwYAXGGuKSlJ2pc2GWJ-uX2QOWR22dU/edit#gid=420155067)  
+These values were tested in game versus a ruin guard with and without omen to prove the formula was correctly used. All damage numbers found were in line with the omen DMG% being additive and not multiplicative. [Video](https://www.youtube.com/watch?v=oucLYZk31m4&ab_channel=SteveBob)  
+Similarly, the value of vaporize reactions were calculated assuming the reaction bonus from Mona C1 is additive with EM reaction bonuses and tested with and without C1 active and EM to show C1 is additive with EM reaction bonuses  
+[Video](https://www.youtube.com/watch?v=9k3kdQy7Lb8&ab_channel=SteveBob) Testing with C1  
+[Video](https://www.youtube.com/watch?v=xfs7ik9GnXg&ab_channel=SteveBob) Testing without C1 active 
+
+**Significance:**  
+Proper understanding of how Omen and C1 affect damage and reactions
+
