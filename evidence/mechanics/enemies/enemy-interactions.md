@@ -1,5 +1,23 @@
 # Enemy Interactions
 
+## Boss Enemies
+
+### Freeze Interaction on Boss Enemies
+
+**By:** Yukarix\#6534  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840784074842046504/841877418103799808/transcript-freeze-interaction-on-boss-entities.html)
+
+**Finding:**  
+Triggering a freeze reaction on a boss entity does not create a frozen aura on the entity, but consumes the hydro and cryo auras typically used to produce a frozen aura.
+
+**Evidence:**  
+The freeze reaction displays 'Freeze' text but only results in both cryo and hydro auras used to typically produce the freee reaction being consumed. [Video](https://youtu.be/sXhesCCEKyY)  
+Ability to apply a pyro aura immediately after means that there is no invisible cryo/hydro aura. [Video](https://www.youtube.com/watch?v=yreJwJtDpDQ&feature=youtu.be)
+
+**Significance:**  
+Freeze teams and melt/vape teams that function off the freeze aura will perform significantly worse in boss scenarios. Considering that freeze teams typically run Blizzard Strayer set, triggering a freeze on a boss not only does not produce a freeze aura, but also consumes cryo aura. The end result is that freeze only functions to remove cryo aura from bosses, making the Blizzard Strayer 4PC effect useless if you are triggering freeze often. For melt/vape teams, they will be unable to trigger melts off the frozen aura (since it cannot exist on bosses). This also results in the inability to take advantage of underlying hydro aura after a melt reaction on a frozen entity. 
+
 ## Ruin Guards
 
 ### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
