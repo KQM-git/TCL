@@ -388,6 +388,23 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 
 **Evidence:** [https://imgur.com/a/kWhXThT](https://imgur.com/a/kWhXThT)
 
+### Wolf's Gravestone
+
+#### Wolf's Gravestone Procs Don't Stack
+
+**By:** JonahFarc\#7056  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837816774124109884/841875652197220352/transcript-multiple-wgs-interaction.html)
+
+**Finding:**  
+WGS procs do not stack and the most recent proc overwrites the existing proc, even if it has duration left over
+
+**Evidence:**  
+https://youtu.be/ZXYUcnA-80A
+
+**Significance:**  
+Multiple WGS can kinda suck if they're not equal refine
+
 ## General Mechanics
 
 ### Attack Speed Buffs on Claymores
