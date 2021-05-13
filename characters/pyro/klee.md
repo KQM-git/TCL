@@ -125,6 +125,10 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
 
+| **Type**          | **GU** | Damage Type     |
+| ----------------- | ------ | --------------- |
+| Chained Reactions | 1A     | Elemental Burst |
+
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
 {% endtab %}
 
@@ -145,9 +149,9 @@ Increases the level of Jumpy Dumpty Overload by 3.
 
 If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.
 
-| Type | Value |
+| Type | GU |
 | :--- | :--- |
-| GU | 2B |
+| Sparkly Explosion | 2B |
 {% endtab %}
 
 {% tab title="C5" %}
