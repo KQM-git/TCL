@@ -50,9 +50,9 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% | 27 | 141.7%/s | NA |
-| Fully Charged | 173.6% | 84 | 124%/s | 1U |
-| Riptide Flash | 17.63% \* 3 | ~ | ~ | 1U |
-| Riptide Burst | 86.8% | ~ | ~ | 2U |
+| Fully Charged | 173.6% | 84 | 124%/s | 1A |
+| Riptide Flash | 17.63% \* 3 | ~ | ~ | 1A |
+| Riptide Burst | 86.8% | ~ | ~ | 2B |
 
 * Aimed Shot frame counts are done using M1 Aimed Spam.
 * Fully Charged frame counts are done using ARCC Shots.
