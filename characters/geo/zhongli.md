@@ -74,6 +74,7 @@ Zhongli channels for 2 seconds causing the following effects:
 
 * When created, **Stone Stele** deals AoE Geo damage. 
 * Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents. 
+* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
 * Only one **Stone Stele** created by Zhongli may exist at a time.  
 

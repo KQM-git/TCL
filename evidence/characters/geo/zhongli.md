@@ -93,3 +93,20 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 **Significance:** For the highest damage apply the Geo res down before pressing Burst.
 
+## 4 TOM Passive on Zhongli Procs With Other Geo Constructs
+
+**By:** Lowy\#7647  
+**Added:** 5/6/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839089619743539230/840068304864280586/transcript-4pc-tom-zhongli-interaction.html)
+
+**Finding:**  
+4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
+
+**Evidence:**  
+[\[Video\] Test with Geo MC](https://www.youtube.com/watch?v=N8yJ_4LHQxY)  
+[\[Video\] Test with Albedo](https://www.youtube.com/watch?v=R56dA5SOpyk)  
+[\[Video\] Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
+
+**Significance:**  
+This make triggering the 4pc ToM passive easier with Zhongli when playing with other geo characters
+
