@@ -1,5 +1,9 @@
 # Enemy Interactions
 
+## Bosses
+
+Triggering a freeze reaction on a boss entity does not create a frozen aura on the entity, but rather consumes the hydro and cryo auras, leaving no aura behind.
+
 ## Ruin Guards
 
 * Polearm charge attacks, with the exception of Xiao, don't register on stunned Ruin Guards because of the "leaping forward" animation that occurs.
