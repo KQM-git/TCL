@@ -118,10 +118,15 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837549621936652309/841878915156279306/transcript-sucrose-c4-mechanics.html)
 
 **Findings:**  
-Remember that Sucrose C4 creates a 7 hit counter, where after 7 hits your E CD is reduced by 1-7s. Sucrose C4 creates a 7 hit counter when the first normal/charged attack connects an enemy (hitting the air does not create, nor further the counter). However, this counter starts whether your E is on cooldown or not. If you do 5 normal attacks, then E and put your E on cooldown, you only need to do 3 more to hit the counter and get your cooldown reduced.  
+Remember that Sucrose C4 creates a 7 hit counter, where after 7 hits your E CD is reduced by 1-7s. 
+
+Sucrose C4 creates a 7 hit counter when the first normal/charged attack connects an enemy (hitting the air does not create, nor further the counter). However, this counter starts whether your E is on cooldown or not. If you do 5 normal attacks, then E and put your E on cooldown, you only need to do 3 more to hit the counter and get your cooldown reduced.  
+
 Switching characters does not delete this counter either, and it exists for a very long time, tested up to 30s, so guesstimate is 30s plus. Death also does not delete the counter.  
+
 The cooldown reduction hard caps at each charge's cooldown. If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown.  
 Example: E is on 3s CD, you get a 5s CD reduction, you instantly gain E charge and timer start at 15s for the remaining charge.  
+
 Sucrose C4 CD reduction probability distribution:  
 [Google Sheets](https://docs.google.com/spreadsheets/d/1jMODclkPguPHpTsLmGafbvQKIcXk1ddc9NWYPjhqqsc/edit?usp=sharing)  
 [Image \(Graph\)](https://cdn.discordapp.com/attachments/837549621936652309/837957383111049216/unknown.png)  
