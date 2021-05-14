@@ -97,7 +97,7 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 **By:** Lowy\#7647  
 **Added:** 5/6/2021  
-[\[Discussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839089619743539230/840068304864280586/transcript-4pc-tom-zhongli-interaction.html)
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839089619743539230/840068304864280586/transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  
 4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
