@@ -68,7 +68,7 @@
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
 
-* WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet.
+* WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet - [JonahFarc\#7056](../../../evidence/mechanics/equipment/weapons.md#wolfs-gravestone-procs-dont-stack)
 {% endtab %}
 
 {% tab title="Details" %}
