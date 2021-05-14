@@ -124,10 +124,8 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | Energy Cost | 60 | ~ |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
-* **C1's Reaction DMG Bonus** is not applied to the damage calculation.
-* **Omen** DMG Bonus is applied to the damage calculation.
-* **Omen** DMG Bonus is classified as **DamageBonus**.
-* See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
+* **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
+  * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
 {% endtab %}
 {% endtabs %}
 
@@ -168,7 +166,7 @@ When any of your own party members hit an opponent affected by an **Omen**, Hydr
 * Hydro Swirl DMG increases by 15%
 * Frozen duration is extended by 15%
 
-This bonus effect is classified as **ReactionBonus.**  
+This bonus effect is additive and classified as **ReactionBonus.**  
 See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#amplifying-reaction-bonus)
 {% endtab %}
 
