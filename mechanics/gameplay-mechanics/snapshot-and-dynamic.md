@@ -6,6 +6,13 @@ Summons that **snapshot** use the character's stats when cast, and will continue
 
 **Dynamic** summons continuously update based on the character's stats in real time. 
 
+## Dynamic Transformative Reactions
+
+[Transformative Reactions](../../mechanics/combat/elemental-reactions/transformative-reactions.md) do not snapshot EM as of patch 1.4. Even if a skill snapshots, their EM will update real time.  
+Transformative reactions include: overload, superconduct, electro-charged, shatter, swirl, and crystallize. 
+
+> Fischl summons Oz outside of Bennett's burst. Oz deals 920 electro damage and 1870 on overloads. Sucrose shares EM with Fischl and Fischl steps into Bennett's burst. Oz **still** deals 920 electro damage, but **overload damage has been increased** to 1900.
+
 ## Dynamic Summons
 
 * Chongyun's [Spirit Blade: Cloud-Parting Star](../../characters/cryo/chongyun.md#attacks) 
