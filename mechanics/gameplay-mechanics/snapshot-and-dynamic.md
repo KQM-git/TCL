@@ -9,6 +9,7 @@ Summons that **snapshot** use the character's stats when cast, and will continue
 ## Dynamic Summons
 
 * Chongyun's [Spirit Blade: Cloud-Parting Star](../../characters/cryo/chongyun.md#attacks) 
+* Hu Tao's [Blood Blossom](../../characters/pyro/hu-tao.md#attacks)
 * Keqing's [Starward Sword](../../characters/electro/keqing.md#attacks)
 * Ningguang's [Starshatter ](../../characters/geo/ningguang.md#attacks)
 * Xingqiu's [Guhua Sword: Raincutter](../../characters/hydro/xingqiu.md#attacks)
