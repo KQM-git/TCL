@@ -2,7 +2,7 @@
 
 ## Summons are Not Dynamic and Snapshot on Cast 
 
-**By:** Comfy Seaweed#3841, Pleinair#8321
+**By:** Comfy Seaweed#3841, Pleinair#8321  
 **Added:** 11/22/2020
 
 **Comfy’s Findings** (Comfy Seaweed#3841)
