@@ -208,18 +208,13 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 **By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
-In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.
-
+In short, no. The 4TF holder must be on the field to gain the benefit of the 1s CD reduction.  
 We know \(just to reaffirm\) that if the 4TF holder is on the field and proccing the reaction, the 1s CD reduction applies with every reaction
 
-* **Xiangling using guoba on electro slimes shows each guoba tick reducing cd by 1 s.**
-  * [**Evidence**](https://drive.google.com/file/d/1B8s87WspSWaQshBOa6CiQrZeHowXInAf/view?usp=sharing)
-* **Xingqiu using his swords to reduce cd by 1s on electro slimes.**
-  * [**Evidence**](https://drive.google.com/file/d/1wH2Ot4um675xcFqfjgzTsLAW1-jJ4aGa/view?usp=sharing)
+* [Xiangling using guoba on electro slimes shows each guoba tick reducing cd by 1 s.](https://drive.google.com/file/d/1B8s87WspSWaQshBOa6CiQrZeHowXInAf/view?usp=sharing)
+* [Xingqiu using his swords to reduce cd by 1s on electro slimes.](https://drive.google.com/file/d/1wH2Ot4um675xcFqfjgzTsLAW1-jJ4aGa/view?usp=sharing)
 
-But if the 4TF holder is not on the field but proccing the reaction, the 1s CD reduction does not go through.
-
-[**Evidence**](https://drive.google.com/file/d/17yU8Lg6W7ZZcQO2V4C6P1VOaeTQPx-cA/view?usp=sharing)
+But if the 4TF holder is not on the field but proccing the reaction, the 1s CD reduction [does not go through](https://drive.google.com/file/d/17yU8Lg6W7ZZcQO2V4C6P1VOaeTQPx-cA/view?usp=sharing).
 
 * In the video you can see that at roughly 2.33s into the video guoba is summoned with 11.9s CD.
 * 2 overloads occur \(at 4s and 6s\)
