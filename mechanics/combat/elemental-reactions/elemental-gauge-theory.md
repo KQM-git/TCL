@@ -171,6 +171,10 @@ Furthermore, Self Auras have a particular interaction with Elemental Absorptions
 
 ## Media
 
+### [TenTen](https://www.youtube.com/user/tatecheng1010)
+
+{% embed url="https://youtu.be/ac0cshUwyrM" caption="Tenten\'s Genshin SCIENCE! EGT" %}
+
 ### [AoShenCraft](https://www.youtube.com/channel/UCJgiYNvX6zHP1pChMZhqURA)
 
 {% embed url="https://www.youtube.com/watch?v=iSft0tCOdHY" caption="AoShenCraft\'s EGT Simplified \[With Visuals\]" %}
