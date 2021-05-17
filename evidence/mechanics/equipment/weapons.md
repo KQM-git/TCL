@@ -400,7 +400,7 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 WGS procs do not stack and the most recent proc overwrites the existing proc, even if it has duration left over
 
 **Evidence:**  
-https://youtu.be/ZXYUcnA-80A
+[https://youtu.be/ZXYUcnA-80A](https://youtu.be/ZXYUcnA-80A)
 
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine

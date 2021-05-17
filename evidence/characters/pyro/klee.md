@@ -66,7 +66,7 @@ Updated: 12/28/2020
 Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off-field after auto attacking or using her E.
 
 **Evidence:**  
-Tested for a few minutes on a world boss, but here's just a short clip. 
+Tested for a few minutes on a world boss, but here's just a short clip.
 
 * [https://youtu.be/0DEbRVl1pXE](https://youtu.be/0DEbRVl1pXE) 
 * [https://youtu.be/SGMMKs5lpkI](https://youtu.be/SGMMKs5lpkI) 
@@ -103,3 +103,4 @@ Klee can potentially be used as the main pyro unit enabling Fisch turbo comps. H
 
 * [1NACA version](https://www.youtube.com/watch?v=GNJt-SegTCE)
 * [2NACA version](https://www.youtube.com/watch?v=GyYXIW485Ys)
+

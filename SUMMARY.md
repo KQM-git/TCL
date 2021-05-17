@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [Patch 1.5a](newsletter/patch-1.5a.md)
+* [Patch 1.5b](newsletter/patch-1.5b.md)
 * [Archive](newsletter/archive/README.md)
+  * [Patch 1.5a](newsletter/archive/patch-1.5a.md)
   * [March 2021](newsletter/archive/march-2021.md)
   * [February 2021](newsletter/archive/february-2021.md)
   * [January 2021](newsletter/archive/january-2021.md)
