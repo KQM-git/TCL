@@ -12,5 +12,6 @@
 * Charged attacks don't grant lightfall stacks. - [Some Missionary#8340](https://youtu.be/r3PActt3bqc)
 * E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD. - [denmax#9293](https://cdn.discordapp.com/attachments/843239715515269160/844176624702455818/genshinimpact.exe_2021.05.18_-_19.30.31.17.mp4)
 * Energy Gen - Steph#3614
-  * Hold E: 1~2 (1:1)
+  * Tap E: 1~2 (1:1)
+  * Hold E: 2~3 (1:1)
 
