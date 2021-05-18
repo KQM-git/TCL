@@ -7,7 +7,7 @@ description: >-
 # Eula
 
 {% hint style="danger" %}
-“Preliminary details and numbers based on leaked data. Day 1 notes should be taken lightly”
+Preliminary details and numbers based on leaked data. Day 1 notes should be taken lightly
 {% endhint %}
 
 ## ![](../../.gitbook/assets/element_cryo.png) Eula
@@ -64,10 +64,12 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 | Talent 6% | 204.96% | 343.84%  |
 | Icewhirl Brand DMG | ~ | 134.40% |
 | Cooldown | 4s | 10s |
-| GU |  |  |
-| Particles |  |  |
+| GU | 1A | 1A |
+| Particles | 1-2(?:?) | 2-3(?:?) |
 | Frames |  |  |
 | MV/s |  |  |
+
+* E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD.
 
 **Grimheart:**  
 Increases Eula's resistance to interruption and her DEF.
@@ -78,6 +80,8 @@ Increases Eula's resistance to interruption and her DEF.
 | Phys + Cryo RES Decrease | 21% |
 | RES Decrease Duration | 7s per stack |
 | Grimheart Duration | 18s |
+
+* **Grimheart** stacks persist on switch.
 
 {% endtab %}
 
@@ -98,9 +102,12 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 | Maximum Stacks | 30 |
 | CD | 20s |
 | Energy Cost | 80 |
-| GU |  |
+| GU | 2B |
 | Frames |  |
 | MV/s |  |
+* **Glacial Illumination** does not snapshot.
+* Lightfall stacks are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
+
 {% endtab %}
 {% endtabs %}
 

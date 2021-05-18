@@ -16,6 +16,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 ## Dynamic Summons
 
 * Chongyun's [Spirit Blade: Cloud-Parting Star](../../characters/cryo/chongyun.md#attacks) 
+* Eula's [Glacial Illumination](../../characters/cryo/eula.md#attacks)
 * Hu Tao's [Blood Blossom](../../characters/pyro/hu-tao.md#attacks)
 * Keqing's [Starward Sword](../../characters/electro/keqing.md#attacks)
 * Ningguang's [Starshatter ](../../characters/geo/ningguang.md#attacks)
