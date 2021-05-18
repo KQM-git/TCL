@@ -127,7 +127,7 @@
     * [Cryo](evidence/characters/cryo/README.md)
       * [Chongyun](evidence/characters/cryo/chongyun.md)
       * [Diona](evidence/characters/cryo/diona.md)
-      * [Eula](characters/cryo/eula.md)
+      * [Eula](evidence/characters/cryo/eula.md)
       * [Ganyu](evidence/characters/cryo/ganyu.md)
       * [Kaeya](evidence/characters/cryo/kaeya.md)
       * [Qiqi](evidence/characters/cryo/qiqi.md)
