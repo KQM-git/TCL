@@ -171,18 +171,59 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
 ### Normal Attacks
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 130.43 | 141.9 | 153.38 | 164.86 | 177.38 | 191.72 |
+| 2-Hit DMG | 135.98 | 147.94 | 159.91 | 171.87 | 184.93 | 199.88 |
+| 3-Hit DMG | 82.56% x2 | 89.82% x2 | 97.09% x2 | 104.35% x2 | 112.28% x2 | 121.36% x2 |
+| 4-Hit DMG | 163.73 | 178.13 | 192.54 | 206.95 | 222.67 | 240.68 |
+| 5-Hit DMG | 104.41% x2 | 113.6% x2 | 122.79% x2 | 131.97% x2 | 142% x2 | 153.48% x2 |
 
 ### Charged Attack
 
-### Plunge
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 100 | 108.8 | 117.6 | 126.4 | 136 | 147 |
+| Charged Attack Final DMG | 180.81 | 196.72 | 212.64 | 228.55 | 245.91 | 265.79 |
+
+### Plunge 
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 159.37 |
+| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
+| High Plunge DMG | 270.77% | 294.6% | 318.42% | 342.25% | 368.25% | 398.03% |
 
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}
 
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 204.96% | 219.6% | 234.24% | 248.88% | 263.52% | 278.16% | 292.8% | 311.1% |
+| Hold DMG | 343.84% | 368.4% | 392.96% | 417.52% | 442.08% | 466.64% | 491.2% | 521.9% |
+| Icewhirl Brand DMG | 134.4% | 144% | 153.6% | 163.2% | 172.8% | 182.4% | 192% | 204% |
+| Physical + Cryo RES Decrease | 21% | 22% | 23% | 24% | 25% | 25% | 25% | 25% |
+
+**DEF Bonus**: 30% per stack  
+**RES Decrease Duration**: 7s per stack  
+**Grimheart Duration**: 18s  
+**Press Cooldown**: 4s  
+**Hold Cooldown**: 10s
+
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 343.84% | 368.4% | 392.96% | 417.52% | 442.08% | 466.64% | 491.2% | 521.9% |
+| Lightfall Sword Base DMG | 533.5% | 580.45% | 627.4% | 674.34% | 725.56% | 784.25% | 853.26% | 922.27% |
+| DMG Per Stack | 109% | 118.59% | 128.18% | 137.78% | 148.24% | 160.23% | 174.33% | 188.43% |
+
+**Maximum Stacks**: 30  
+**Energy Cost**: 80  
+**Cooldown:** 20s
 
 {% endtab %}
 {% endtabs %}
