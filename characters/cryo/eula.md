@@ -65,7 +65,7 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 | Icewhirl Brand DMG | ~ | 134.40% |
 | Cooldown | 4s | 10s |
 | GU | 1A | 1A |
-| Particles | 1~2 (1:1) | 2~3 (?:?) |
+| Particles | 1~2 (1:1) | 2~3 (1:1) |
 | Frames |  |  |
 | MV/s |  |  |
 
