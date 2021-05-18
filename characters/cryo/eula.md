@@ -123,7 +123,8 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 * **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO.
 * Eula's burst meter is only depleted after her burst cast is complete.
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
-* Eula’s Lightfall sword damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
+* Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
+* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 **Lightfall Stack**.
 
 {% endtab %}
 {% endtabs %}
