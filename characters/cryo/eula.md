@@ -14,6 +14,18 @@ Preliminary details and numbers based on leaked data. Day 1 notes should be take
 
 ![](../../.gitbook/assets/character_eula_wish.png.png)
 
+## **Base Stats**
+
+|Lv |Base HP|Base ATK|Base DEF|CRIT DMG%|
+|---|-------|--------|--------|---------|
+|60 |8579   |222     |487     |69.20%   |
+|60+|9207   |238     |523     |69.20%   |
+|70 |10119  |262     |574     |69.20%   |
+|70+|10746  |278     |610     |78.80%   |
+|80 |11669  |302     |662     |78.80%   |
+|80+|12296  |318     |698     |88.40%   |
+|90 |13226  |342     |751     |88.40%   |
+
 ## **Attacks**
 
 {% tabs %}
@@ -108,6 +120,10 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 * **Glacial Illumination** does not snapshot.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
+* **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO.
+* Eula's burst meter is only depleted after her burst cast is complete.
+* The duration of **Glacial Illumination** cannot be increased by hitlag.
+* Eula’s Lightfall sword damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
 
 {% endtab %}
 {% endtabs %}
@@ -125,6 +141,10 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 ### Roiling Rime
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword** Remnant will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
+
+* The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
+* This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
