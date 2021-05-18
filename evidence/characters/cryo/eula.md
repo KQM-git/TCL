@@ -14,4 +14,7 @@
 * Energy Gen - Steph#3614
   * Tap E: 1~2 (1:1)
   * Hold E: 2~3 (1:1)
+* The initial hit of Eula's Q does not grant a lightfall stack. - ColaSenami#6861
+  * [Eula Q in front of Geovishap](https://www.youtube.com/watch?v=RoQ6NOXlmY4) - hit initial dmg & force lightfall burst early
+  * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall burst early
 
