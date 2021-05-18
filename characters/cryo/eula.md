@@ -24,22 +24,23 @@ Eula performs up to 5 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.43% |  |  |
-| 2-Hit | 135.98% |  |  |
-| 3-Hit | 82.56% x2 |  |  |
-| 4-Hit | 163.73% |  |  |
-| 5-Hit | 104.41% x2 |  |  |
+| 1-Hit | 130.43% | 29 | 269.86 |
+| 2-Hit | 135.98% | 58 | 275.60 |
+| 3-Hit | 82.56% x2 | 124 | 208.80 |
+| 4-Hit | 163.73% | 161 | 221.84 |
+| 5-Hit | 104.41% x2 | 254 | 189.94 |
+| With Recovery | ~ | 304 | 158.70 |
 
 **Charged Attack**
 
 Eula drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
 
-| Type | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spinning DMG | 100% |  |  |
-| Final DMG | 180.81% |  |  |
-| Stamina Cost | 40/s | ~ | ~ |
-| Max Duration | 5s | ~ | ~ |
+| Type | Talent 6% |
+| :--- | :--- |
+| Spinning DMG | 100% |
+| Final DMG | 180.81% |
+| Stamina Cost | 40/s |
+| Max Duration | 5s |
 
 **Plunge Attack**  
 Eula plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE damage upon impact.
@@ -66,8 +67,8 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 | Cooldown | 4s | 10s |
 | GU | 1A | 1A |
 | Particles | 1~2 (1:1) | 2~3 (1:1) |
-| Frames |  |  |
-| MV/s |  |  |
+| Frames | 53 | 61 |
+| MV/s | 232.03%/s | 338.20%/s (w/o Icewhirls) |
 
 * E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD.
 
@@ -103,10 +104,10 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 | CD | 20s |
 | Energy Cost | 80 |
 | GU | 2B |
-| Frames |  |
-| MV/s |  |
+| Frames | 108 |
 * **Glacial Illumination** does not snapshot.
-* Lightfall stacks are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
+* **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
+* The initial hit of Eula's Q does not grant a **Lightfall Stack**.
 
 {% endtab %}
 {% endtabs %}
