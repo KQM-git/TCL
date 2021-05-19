@@ -83,6 +83,7 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 | MV/s | 189.19%/s | 231.80%/s \(w/o Icewhirls\) |
 
 * E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD.
+* Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not
 
 **Grimheart:**  
 Increases Eula's resistance to interruption and her DEF.
@@ -98,13 +99,13 @@ Increases Eula's resistance to interruption and her DEF.
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
-Brandishes her greatsword, dealing **Cryo** DMG to nearby opponents and creates a Lightfall Sword that follows her around for a certain duration.
+Brandishes her greatsword, dealing **Cryo** DMG to nearby opponents and creates a **Lightfall Sword** that follows her around for a certain duration.
 
-When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.
+When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.
 
-Once its duration ends, the Lightfall Sword will explode violently, dealing **Physical** DMG to nearby opponents. This DMG scales on the number of energy stacks the Lightfall Sword has accumulated.
+Once its duration ends, the **Lightfall Sword** will explode violently, dealing **Physical** DMG to nearby opponents. This DMG scales on the number of energy stacks the **Lightfall Sword** has accumulated.
 
-If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
+If Eula dies or leaves the field, the **Lightfall Sword** will immediately explode.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -118,11 +119,12 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 | Frames | 125 |
 
 * **Glacial Illumination** does not snapshot.
+* **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO and similar buffs
+* **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
+* **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
+* The duration of **Glacial Illumination** cannot be increased by hitlag.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
-* **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO.
-* Eula's burst meter is only depleted after her burst cast is complete.
-* The duration of **Glacial Illumination** cannot be increased by hitlag.
 * Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
 * NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 **Lightfall Stack**.
 {% endtab %}
@@ -140,11 +142,12 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 {% tab title="Ascension 1" %}
 ### Roiling Rime
 
-If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword** Remnant will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
+If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword Remnant** will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 
 * The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
-{% endtab %}
+* 
+  {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Wellspring of War-Lust
@@ -193,10 +196,17 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 {% endtab %}
 {% endtabs %}
 
+## Weapons
+
+### Song of Broken Pines
+
+Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, between R1-R5 will only give you **ONE EXTRA STACK**, which is about +1.5% DPS, not accounting for set up time.
+
 ## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
+
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |

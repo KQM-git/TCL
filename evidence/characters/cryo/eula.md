@@ -9,6 +9,9 @@
 * Energy Gen - Steph\#3614
   * Tap E: 1~2 \(1:1\)
   * Hold E: 2~3 \(1:1\)
+* Eula Shatter Test - [Bobrokrot#0111](https://youtu.be/21EyQ4Onj0A)
+  * Blunt Attacks: E tap, E hold, A1, Q activate, Lightfall Sword
+  * Not Blunt: Icewhirl Brand
 * Skill Mechanics:
   * Grimheart stacks persist on switch. - [Your Ally\#6976](https://youtu.be/bvc_pqn8suU)
   * E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD. - [denmax\#9293](https://cdn.discordapp.com/attachments/843239715515269160/844176624702455818/genshinimpact.exe_2021.05.18_-_19.30.31.17.mp4)
@@ -21,7 +24,9 @@
     * 2 Noblesse Oblige affects the Lightfall Sword damage of Glacial Illumination - denmax\#9293
       * [With NO](https://www.youtube.com/watch?v=Rb-Wx-RoUww)  
       * [Without NO](https://www.youtube.com/watch?v=rvT1xzI_nDI)
-    * Eula's burst meter is only depleted after her burst cast is complete. - [Artesians\#0002](https://clips.twitch.tv/SmoggyConcernedBibimbapTBTacoRight-c88YbIbyjUHozu7a)
+    * Eula's Q CD and energy resets at the Burst's hitmark.
+      * [Artesians\#0002](https://clips.twitch.tv/SmoggyConcernedBibimbapTBTacoRight-c88YbIbyjUHozu7a)
+      * [Zeitraffer#1074](https://cdn.discordapp.com/attachments/843239715515269160/844511791622127616/Eula_Ult_Timings.mp4)
     * The duration of Glacial Illumination is not effected by hitlag. - [Artesians\#0002](https://cdn.discordapp.com/attachments/798969666881323018/844275942045515830/lightfallsword.mp4)
     * Eula’s Lightfall sword damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields. - Jalapeno\#0004
 * Lightfall Stack Mechanics:
@@ -49,4 +54,9 @@
 * Ascension Mechanics:
   * Eula A1 scales with Q talent level. - [Greyhound\#7836](https://www.youtube.com/watch?v=Jes9lCeSnqE)
   * Eula A1 is considered Elemental Burst damage and is buffed by 2NO. - [Greyhound\#7836](https://www.youtube.com/watch?v=wtCOq6VCV4M)
+* Broken Pines:
+  * Broken Pines attack speed increase between R1-R5 will only give you **ONE EXTRA STACK**, which is about +1.5% DPS, not accounting for set up time for Millenial Movement. - Artesians#0002 and Sitri#9504
+    * Test was done with an [Attack speed increase abyss card](https://imgur.com/a/g6uRIzo
+      ) 
+    * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
 
