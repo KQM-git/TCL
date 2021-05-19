@@ -16,15 +16,15 @@ Preliminary details and numbers based on leaked data. Day 1 notes should be take
 
 ## **Base Stats**
 
-|Lv |Base HP|Base ATK|Base DEF|CRIT DMG%|
-|---|-------|--------|--------|---------|
-|60 |8579   |222     |487     |69.20%   |
-|60+|9207   |238     |523     |69.20%   |
-|70 |10119  |262     |574     |69.20%   |
-|70+|10746  |278     |610     |78.80%   |
-|80 |11669  |302     |662     |78.80%   |
-|80+|12296  |318     |698     |88.40%   |
-|90 |13226  |342     |751     |88.40%   |
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8579 | 222 | 487 | 69.20% |
+| 60+ | 9207 | 238 | 523 | 69.20% |
+| 70 | 10119 | 262 | 574 | 69.20% |
+| 70+ | 10746 | 278 | 610 | 78.80% |
+| 80 | 11669 | 302 | 662 | 78.80% |
+| 80+ | 12296 | 318 | 698 | 88.40% |
+| 90 | 13226 | 342 | 751 | 88.40% |
 
 ## **Attacks**
 
@@ -74,13 +74,13 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 
 | Effect | Press | Hold |
 | :--- | :--- | :--- |
-| Talent 6% | 204.96% | 343.84%  |
+| Talent 6% | 204.96% | 343.84% |
 | Icewhirl Brand DMG | ~ | 134.40% |
 | Cooldown | 4s | 10s |
 | GU | 1A | 1A |
-| Particles | 1~2 (1:1) | 2~3 (1:1) |
-| Frames | 53 | 61 |
-| MV/s | 232.03%/s | 338.20%/s (w/o Icewhirls) |
+| Particles | 1~2 \(1:1\) | 2~3 \(1:1\) |
+| Frames | 65 | 89 |
+| MV/s | 189.19%/s | 231.80%/s \(w/o Icewhirls\) |
 
 * E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD.
 
@@ -95,7 +95,6 @@ Increases Eula's resistance to interruption and her DEF.
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
-
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
@@ -116,7 +115,8 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 | CD | 20s |
 | Energy Cost | 80 |
 | GU | 2B |
-| Frames | 108 |
+| Frames | 125 |
+
 * **Glacial Illumination** does not snapshot.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
@@ -125,7 +125,6 @@ If Eula dies or leaves the field, the Lightfall Sword will immediately explode.
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
 * Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
 * NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 **Lightfall Stack**.
-
 {% endtab %}
 {% endtabs %}
 
@@ -145,7 +144,6 @@ If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **
 
 * The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -200,6 +198,7 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
 ### Normal Attacks
+
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1-Hit DMG | 130.43 | 141.9 | 153.38 | 164.86 | 177.38 | 191.72 |
@@ -215,18 +214,16 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 | Charged Attack Spinning DMG | 100 | 108.8 | 117.6 | 126.4 | 136 | 147 |
 | Charged Attack Final DMG | 180.81 | 196.72 | 212.64 | 228.55 | 245.91 | 265.79 |
 
-### Plunge 
+### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 159.37 |
 | Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
 | High Plunge DMG | 270.77% | 294.6% | 318.42% | 342.25% | 368.25% | 398.03% |
-
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}
-
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Press DMG | 204.96% | 219.6% | 234.24% | 248.88% | 263.52% | 278.16% | 292.8% | 311.1% |
@@ -239,11 +236,9 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 **Grimheart Duration**: 18s  
 **Press Cooldown**: 4s  
 **Hold Cooldown**: 10s
-
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
-
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 343.84% | 368.4% | 392.96% | 417.52% | 442.08% | 466.64% | 491.2% | 521.9% |
@@ -253,7 +248,6 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 **Maximum Stacks**: 30  
 **Energy Cost**: 80  
 **Cooldown:** 20s
-
 {% endtab %}
 {% endtabs %}
 
@@ -264,3 +258,4 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/eula.md" %}
+
