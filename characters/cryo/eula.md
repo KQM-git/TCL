@@ -134,25 +134,27 @@ If Eula dies or leaves the field, the **Lightfall Sword** will immediately explo
 
 {% tabs %}
 {% tab title="Passive" %}
+
 ### Aristocratic Introspection
 
 When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.
-{% endtab %}
 
+{% endtab %}
 {% tab title="Ascension 1" %}
+
 ### Roiling Rime
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword Remnant** will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 
 * The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
-* 
-  {% endtab %}
 
+{% endtab %}
 {% tab title="Ascension 4" %}
 ### Wellspring of War-Lust
 
 When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart.**
+
 {% endtab %}
 {% endtabs %}
 
