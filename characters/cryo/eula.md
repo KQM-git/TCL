@@ -6,8 +6,8 @@ description: >-
 
 # Eula
 
-{% hint style="danger" %}
-Preliminary details and numbers based on leaked data. Day 1 notes should be taken lightly
+{% hint style="warning" %}
+Day 1 notes should be taken lightly
 {% endhint %}
 
 ## ![](../../.gitbook/assets/element_cryo.png) Eula
@@ -134,27 +134,24 @@ If Eula dies or leaves the field, the **Lightfall Sword** will immediately explo
 
 {% tabs %}
 {% tab title="Passive" %}
-
 ### Aristocratic Introspection
 
 When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.
-
 {% endtab %}
-{% tab title="Ascension 1" %}
 
+{% tab title="Ascension 1" %}
 ### Roiling Rime
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword Remnant** will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 
 * The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
-
 {% endtab %}
+
 {% tab title="Ascension 4" %}
 ### Wellspring of War-Lust
 
 When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart.**
-
 {% endtab %}
 {% endtabs %}
 
@@ -208,7 +205,6 @@ Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, 
 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
-
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
