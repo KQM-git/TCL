@@ -126,7 +126,7 @@ If Eula dies or leaves the field, the **Lightfall Sword** will immediately explo
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
 * Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
-* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 **Lightfall Stack**.
+* NA multihits, Hold E Icewhirls, and A1 sword remnant add 1 **Lightfall Stack** for each damage instance.
 {% endtab %}
 {% endtabs %}
 
