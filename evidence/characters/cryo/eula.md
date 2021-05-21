@@ -72,8 +72,7 @@
 
 ### Broken Pines Synergy
 
-* Broken Pines attack speed increase between R1-R5 will only give you **ONE EXTRA STACK**, which is about +1.5% DPS, not accounting for set up time for Millenial Movement. - Artesians\#0002 and Sitri\#9504
-  * Test was done with an \[Attack speed increase abyss card\]\([https://imgur.com/a/g6uRIzo](https://imgur.com/a/g6uRIzo)) 
-
+* Broken Pines attack speed increase between R1-R5 does not increase your stack count with optimal combos. However, it does make your combo timings a lot less strict and comfier. - Artesians\#0002 and Sitri\#9504
+  * Test was done with an [Attack speed increase abyss card]()
   * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
 
