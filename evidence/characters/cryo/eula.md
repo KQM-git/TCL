@@ -49,8 +49,8 @@
   * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall burst early
 * Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/r3PActt3bqc)
 * Confirmation that lightfall stacks cannot be gained when hitting [abyss mage](https://youtu.be/RwXRC9ayx9I), [wooden](https://youtu.be/xyfB2P00tUA), and [geo](https://youtu.be/4gbZ9v2OlCQ) shields, because stacks are only gained on damage. - nat#4502 
-* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. - [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE) 
-  * [Table of full values](https://gyazo.com/7831cdd292a0c0a3fb9777ae30f15afe), below is summary of image
+* NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. Every damage instance adds one Lightfall stack. This means that Eula's third normal attack, which hits twice, will add two stacks, as will her fifth. Eula's held elemental skill, when it triggers base damage, two icewhirls, and an A4 trigger, will add four Lightfall stacks.- [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE) 
+  * [Table of full values](https://gyazo.com/7831cdd292a0c0a3fb9777ae30f15afe), below is summary of the linked image
 
 | Combo | Stacks |
 | :--- | :--- |
