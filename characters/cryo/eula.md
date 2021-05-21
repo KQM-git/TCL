@@ -205,7 +205,7 @@ Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. 
 
 ### Song of Broken Pines
 
-Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, between R1-R5 will only give you **ONE EXTRA STACK**, which is about +1.5% DPS, not accounting for set up time.
+Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, between R1-R5 **does not** increase your stack count with optimal combos. However, it does make your combo timings a lot less strict and comfier.
 
 ## **Full Talent Values**
 
