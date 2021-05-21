@@ -96,16 +96,17 @@ Increases Eula's resistance to interruption and her DEF.
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
+
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
 Brandishes her greatsword, dealing **Cryo** DMG to nearby opponents and creates a **Lightfall Sword** that follows her around for a certain duration.
 
-When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.
+When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst **deal DMG** to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.
 
 Once its duration ends, the **Lightfall Sword** will explode violently, dealing **Physical** DMG to nearby opponents. This DMG scales on the number of energy stacks the **Lightfall Sword** has accumulated.
 
-If Eula dies or leaves the field, the **Lightfall Sword** will immediately explode.
+If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -119,6 +120,7 @@ If Eula dies or leaves the field, the **Lightfall Sword** will immediately explo
 | Frames | 125 |
 
 * **Glacial Illumination** does not snapshot.
+  * It's still updating live stats when the Lightfall Sword lights up and is about to explode.
 * **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO and similar buffs
 * **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
@@ -127,6 +129,10 @@ If Eula dies or leaves the field, the **Lightfall Sword** will immediately explo
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
 * Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
 * NA multihits, Hold E Icewhirls, and A1 sword remnant add 1 **Lightfall Stack** for each damage instance.
+* Ranges (1 abyss tile is ~2.55m)
+  * **Glacial Illumination**'s cast range is around 8 meters
+  * **Lightfall Sword** explosion range is around 7 meters
+
 {% endtab %}
 {% endtabs %}
 
