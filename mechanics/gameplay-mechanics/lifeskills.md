@@ -73,6 +73,12 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 * Mora Leyline: 60 Stardust/Resin
 * Magic Crystal Ore: 60 Stardust/Resin
 
+## Crafting refund vs increase passives
+
+**By:** [jdeeyu\#9927](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crafting-refund-vs-increase-passives)
+
+Eula and albedo's passive has a 10% chance to give more materials while Xingqiu and Mona has a 25% chance to refund a part of the materials used. By simulating a very large number of crafts we found that Eula/Albedo's passive is actually 10% better than than Xingqiu/Mona. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
