@@ -14,6 +14,12 @@ Bushes have a 8% chance to drop loot, they will drop:
 
 This information can be used together with the[ infinite spawning bushes bug](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) to farm these materials.
 
+## Crafting refund vs increase passives
+
+**By:** [jdeeyu\#9927](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crafting-refund-vs-increase-passives)
+
+Eula and albedo's passive has a 10% chance to give more materials while Xingqiu and Mona has a 25% chance to refund a part of the materials used. By simulating a very large number of crafts we found that Eula/Albedo's passive is actually 10% better than than Xingqiu/Mona. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
+
 ## Destroy Mechanics
 
 **By:** [xf3\#3123](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#destroy-function-mechanics)

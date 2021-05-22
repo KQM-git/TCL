@@ -41,7 +41,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 
 ## Bug:  Diona's shield is 2U under specific circumstances that are guaranteed on swap
 
-**By:** Monochrom9\#8058 and Help Me with Honours\#1678
+**By:** Monochrom9\#8058, Help Me with Honours\#1678, Zeitraffer\#1074
 
 **Evidence:**
 
