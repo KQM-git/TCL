@@ -487,7 +487,7 @@ Offield so 4p vv doesnt proc: [Youtube](https://www.youtube.com/watch?v=SUP434om
  
 Onfield so 4p vv procs: [Youtube](https://www.youtube.com/watch?v=rMrRLdu6DsY&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=7)
 
-Succrose(Q):
+Sucrose(Q):
 
 Normal 4p vv proc dmg : [Youtube](https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16)
 
