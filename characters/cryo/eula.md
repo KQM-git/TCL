@@ -120,7 +120,7 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 | Frames | 125 |
 
 * **Glacial Illumination** does not snapshot.
-  * It's still updating live stats when the Lightfall Sword lights up and is about to explode.
+  * When the Lightfall Sword lights up and is about to explode, it's still updating live stats.
 * **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO and similar buffs
 * **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
