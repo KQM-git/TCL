@@ -143,6 +143,10 @@
 * 2 Piece Set Bonus: HP +20%
 * 4 Piece Set Bonus: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
 {% endtab %}
+
+{% tab title="Findings" %}
+* The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.
+{% endtab %}
 {% endtabs %}
 
 ### Thundering Fury
