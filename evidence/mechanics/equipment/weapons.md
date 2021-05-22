@@ -122,6 +122,29 @@ Testing was done using Diona @ around 40% crit rate spamming normal attacks with
 
 Favonius weapons suffer the same drawback as sacrificial and does not provide itself as an alternative weapon choice against shielded enemies. This leaves favonius where it was before, the inferior option against sacrificial unless you have no better.
 
+## Millennial Movement Series
+
+### Millenial Movement stack mechanics
+
+**By:** rakka\#0099
+**Added:** 5/22/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844496410950631444/845499320081055744/transcript-millenial-movement-stack.html)
+
+**Theory/Finding/Bug:** Millennial Effect Overlap Behavior
+
+**Evidence: **
+Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. IE Elegy at R5 produces a 40% ATK bonus and a 200 EM bonus for the team however an R2 Song of Broken Pines produces a 25% ATK bonus and a 15% normal ATK speed bonus. If Elegy procs first and Pines second, the EM bonus from Elegy will stay applied however the 25% ATK bonus will override the 40% attack bonus and lower the overall effect of the shared buffs takes the most recent proc even if it takes the lower value.  
+[No Buffs active](https://imgur.com/1clo8t2)
+
+[R5 Elegy active](https://imgur.com/ZeVAslN) (40% ATK and 200EM bonus)
+
+[R2 Broken Pines active on top of Elegy](https://imgur.com/XhmEod6) (25% ATK from Pines overrides 40% from Elegy, however 200 EM from Elegy remains)
+
+**Significance:**
+Millennial Movement passives can stack, however if a buff type overlaps (ATK, movement speed, EM, etc....) then the last effects will override the previous effects while leaving the non-overlap effects alone
+
+This means that mismatched refinements with overlapping effects can affect the complexity of when Millennial buffs need to proc, so either an Elegy and Pines on the same team should both be R1, R2, etc or it means that the player has to be aware of the order of operations for their swap comps.
+
 ## Royal Weapon Series
 
 ### The Effective Crit Rate of Royal Weapons
