@@ -84,7 +84,7 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** These findings identify that the most efficient use of Stardust \(outside of buying the 10 Fates, if the Traveler wishes to pay for them\) is to clear the limited amount of Mora, then the Magic Crystal Ores, then the Adventurer's Experience. Additionally, it is more Resin-efficient to be farming more Blue leylines than Gold ones.
 
-## New Albedo/Eula crafting passive efficiency vs Mona/Xingqiu
+## Talent book crafting refund vs increase passives
 
 **By:** jdeeyu\#9927  
 **Added:** 5/22/2021
