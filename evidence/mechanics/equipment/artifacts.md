@@ -139,6 +139,22 @@ Ningguang was used due to her low burst energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that hp before healing\)
 
+## Tenacity of the Millelith
+
+### 4pc ToM procs against shielded enemies
+
+**By:** Silvershine2\#5439
+**Added:** 5/22/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842423144845541446/845513030804832296/transcript-4pc-tom-procs-against-shielded-enemies.html)
+
+**Theory:** The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage 
+
+**Evidence:**
+[VS elemental shields](https://youtu.be/w57ROmhHYnQ)  
+[Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)  
+
+**Significance:** 4P Millelith can have 100% uptime even against enemies that block all incoming damage.
+
 ## Thundering Fury
 
 ### **How 4pc Thundering Fury Interacts with Elemental Mastery**
