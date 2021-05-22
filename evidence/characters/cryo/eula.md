@@ -27,8 +27,6 @@
   * ColaSenami\#6861
     * [Control Test](https://www.youtube.com/watch?v=RoQ6NOXlmY4)
     * [Eula Q cast inside Bennett Burst and then allowed the buffs to expire on Eula](https://www.youtube.com/watch?v=1PVpcn5ZqIU)
-  * When the Lightfall Sword lights up and is about to explode, it's still updating live stats - [Greyhound#7836](https://www.youtube.com/watch?v=yMUqkC1ruGs)
-    * Stacks can still be gained during this period of time as well - [Eko#6090](https://youtu.be/wFd7LJdKrn4)
 * 2 Noblesse Oblige affects the Lightfall Sword damage of Glacial Illumination - denmax\#9293
   * [With NO](https://www.youtube.com/watch?v=Rb-Wx-RoUww)  
   * [Without NO](https://www.youtube.com/watch?v=rvT1xzI_nDI)
