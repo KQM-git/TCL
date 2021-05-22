@@ -45,7 +45,7 @@ Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of 
 | Base ATK | 49 - 741 |
 | Phys DMG Bonus | 4.5% - 20.7% |
 
-* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other.
+* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other.  - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics)
 {% endtab %}
 
 {% tab title="Details" %}
