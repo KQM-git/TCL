@@ -87,12 +87,12 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 ## Crafting refund vs increase passives
 
 **By:** jdeeyu\#9927  
-**Added:** 5/22/2021
+**Added:** 5/22/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)  
 
 **Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive (as stated in KQM guide) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
 
-**Evidence:** Through simulating a large number of crafting trials, I will post a screenshot of my code below.
+**Evidence:** Through simulating a large number of crafting trials, I will post a screenshot of my code below.  
 [Imgur](https://imgur.com/Fqkpwc2)
 
 **Significance:** Albedo/Eula passive isn't as good as it initially seems when compared to Xingqiu/Mona
