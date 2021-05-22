@@ -15,6 +15,7 @@
 
 **By:** Ayzel\#7399  
 **Added:** 22/05/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845440342446571550/845488049831542784/transcript-kaeya-e-energy-trials.html)
 
 **Finding:** Kaeya generates particles between 2-3 (4-5 if accounting for ascension talent) at a 1:2 ratio, not a 1:1 ratio.
 
