@@ -4,7 +4,7 @@
 
 **By:** Creonalia\#2818  
 **Added:** 5/21/2021  
-[Discussion]https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842601710391787551/845506814519148574/transcript-2k-wood-daily-cap.html
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842601710391787551/845506814519148574/transcript-2k-wood-daily-cap.html)
 
 **Finding:** You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 
