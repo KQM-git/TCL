@@ -143,17 +143,17 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 ### 4pc ToM procs against shielded enemies
 
-**By:** Silvershine2\#5439
-**Added:** 5/22/2021
+**By:** Silvershine2\#5439  
+**Added:** 5/22/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842423144845541446/845513030804832296/transcript-4pc-tom-procs-against-shielded-enemies.html)
 
 **Theory:** The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage 
 
-**Evidence:**
-[VS elemental shields](https://youtu.be/w57ROmhHYnQ)  
-[Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)  
+**Evidence:**  
+* [VS elemental shields](https://youtu.be/w57ROmhHYnQ)  
+* [Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)  
 
-**Significance:** 4P Millelith can have 100% uptime even against enemies that block all incoming damage.
+**Significance:** 4pc Millelith can have 100% uptime even against enemies that block all incoming damage.
 
 ## Thundering Fury
 
@@ -470,78 +470,6 @@ I wanted to see how Viridescent Venerer would increase final Swirl damage. The i
 **Significance:**
 
 The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl, this set will improve it in a way that sometimes it can be compared to 1 Electro-charged hit \(depending on char EM\).
-
-### 4pc VV Mechanics
-
-**By:** sigurd\#3854
-**Added:** 5/22/2021
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840514985667199006/845531794307547186/transcript-4pc-vv-mechanics.html)
-
-Finding: 4 piece Viridescent Venerer (vv) only shreds if the wearer is onfield during a swirl that they trigger.
-
-Evidence
-(Test 1)Anemo wearers that trigger the swirl but whether the character is  onfield or offield is variable : 
-Tests showed that vv didnt shred when the character is offield when their Q triggers a swirl. 
-It shredded when the character was onfield during a swirl.
-
-List of tests:
-
-AMC(Q):
- normal 4p vv proc :https://www.youtube.com/watch?v=-etSCIUmf9E&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=1
-
-offield so 4p vv doesnt proc :https://www.youtube.com/watch?v=D7T0P8XTJyg&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=2
-
- onfield so 4p vv procs:https://www.youtube.com/watch?v=QdaWU4A955I&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=3
-
-offield DURING a swirl so 4p vv doesnt proc:https://www.youtube.com/watch?v=0_q_DZMG-KA&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=4
-
-Jean(Q):
-
-normal 4p vv proc:https://www.youtube.com/watch?v=Hi4x1IMPFl4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=5
-
-offield so 4p vv doesnt proc: https://www.youtube.com/watch?v=SUP434omYzI&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=6
- 
- onfield so 4p vv procs: https://www.youtube.com/watch?v=rMrRLdu6DsY&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=7
-
-Succrose(Q):
-
-normal 4p vv proc dmg : https://www.youtube.com/watch?v=Kxh8kD6JFp8&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=16
-
-offield when swirl happens so 4p vv doesnt proc: https://www.youtube.com/watch?v=-QwzOzdUO20&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=14
-
-onfield so 4p vv procs: https://www.youtube.com/watch?v=E4WG0wjG8Ig&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=15 
-
-)Anemo and non-Anemo wearers that dont trigger the swirl but is onfield during a swirl:
-Tests showed 4p vv not shredding at all.
-
-List of tests:
-
- Stat page for testing if non-anemo characters that have 4p vv and are onfield during a swirl can shred:
-https://www.youtube.com/watch?v=2aVvXneoUdo&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=8
-non-anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred:
-https://www.youtube.com/watch?v=w4GP55tOPX4&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=9
-Stat page for testing if anemo characters that have 4p vv and are onfield during a swirl can shred:
-https://www.youtube.com/watch?v=ro1E3-FvydM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=10
-Anemo characters that have 4p vv and are onfield during a swirl they dont trigger CANNOT shred:
-https://www.youtube.com/watch?v=6cGhQPbbdns&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=11 
-
-non-Anemo wearers that are onfield and  trigger the swirl:
-Tests showed that they can shred with 4p vv as long as they trigger the swirl with any element which is not geo/anemo  (which is only possible against enemies with an innate Anemo aura like the Anemo hypostasis)
-
-List of tests:
-
- Stat page for "Pyro as trigger element for swirl with 4p vv, WILL IT SHRED  ":
-https://www.youtube.com/watch?v=IXaYPqGqzOw&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=12
-
-With Pyro as Trigger for swirl, 4p vv procs the shred( vs anemo hypo):
-https://www.youtube.com/watch?v=OOjnH_y59dM&list=PLz6QN9PtrDi2ljLiXeHD3uNY6tLTaM4rB&index=13 
-
-Conclusion:  
-4p vv wearers can only shred if they fulfil the 2 requirements of being the trigger of the swirl and being onfield during the swirl. 
-Other elements like pyro/cryo can also shred with 4p vv with the same 2 requirements.
-
-**Significance:**
-Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
 ## **Artifact Substats Distribution**
 
