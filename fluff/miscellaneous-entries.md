@@ -153,3 +153,44 @@ The curious part is how 2 different crystal damages share the same level.
 **Significance:**  
 Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is made
 
+### Jean Running BPM
+
+**By:** Ayzel\#7399
+
+**Added:** 5/21/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843349537313259520/845508612532600842/transcript-jean-running-bpm.html)
+
+**Finding:** Jean runs at 180 BPM. 
+
+**Evidence:** https://youtu.be/_oWr_7KEl-c
+
+**Significance:** allows players to pick the optimal music to listen to when playing with Jean
+
+### Chair Cancelling
+
+**By:** Ayzel\#7399
+
+**Added:** 5/21/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
+
+**Finding:** For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+
+**Evidence:** https://youtu.be/6nwbxIwk3Q8
+
+**Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW (like Hu Tao and Xiangling).
+
+### No Raining in Mondstadt
+
+**By:** Ayzel\#7399
+
+**Added:** 5/21/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840649811383418960/845511822404616212/transcript-cant-rain-in-mondstadt.html)
+
+**Finding:** If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
+
+**Evidence:** https://youtu.be/yJ-3I3xGDgs
+
+**Significance:** Can't do hydro tests on dandelions near Mondstadt
