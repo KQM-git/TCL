@@ -73,6 +73,12 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 * Mora Leyline: 60 Stardust/Resin
 * Magic Crystal Ore: 60 Stardust/Resin
 
+## Wood Daily Drop Limit
+
+**By:** [Creonalia\#2818 ](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#wood-daily-drop-limit)
+
+You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
