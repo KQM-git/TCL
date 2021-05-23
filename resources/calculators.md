@@ -69,6 +69,17 @@ Simple gear comparison tool incorporating individual artifact stat inputs.
 
 [Link](https://docs.google.com/spreadsheets/d/1nY7xTVqnJx-9I9ES6q69nN9BidDkBwmaRIh2awpbfPY/edit#gid=0%20)
 
+### Endgame Artifact Drop Simulator 
+
+**By:** Ghostpaw\#2345  
+**Added:** 5/23/2021
+[Discussion](https://discord.com/channels/763583452762734592/804212994002780160/845820070525665300)
+{% endtab %}
+
+A tool that allows you to see how long it will take and how much resin it costs on average to get certain piece in a artifact set.  
+
+[Link](https://docs.google.com/spreadsheets/d/1c109wjvN3WalIJ560qEQCcvi5Wvytm_uwzHDw0XRAB0/edit?usp=sharing)
+
 ## Miscellaneous Calculators
 
 ### Royal Weapon Crit Simulator 
