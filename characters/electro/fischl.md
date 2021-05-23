@@ -85,7 +85,6 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 
 * **Oz** has a duration of 10s at C0
 * **Oz** normal attacks a total of 10 times over the duration.
-* Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction.
 * Oz ICD Details: Oz will apply electro...
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
