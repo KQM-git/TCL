@@ -117,21 +117,3 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 **Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
 
 **Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
-
-## Venti E hold visual error
-
-**By:** Santoryu\#4495  
-**Added:** 05/23/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841955537322246174/845828367931670579/transcript-venti-e-hold-visual-error.html)
-
-**Bug:** Venti's Hold Elemental Skill will always lift you vertically up
-
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=N-4qXvyX75A)
-
-Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
-Step 2. Repeat but have Venti on an incline  
-Step 3. Repeat but have Venti on the very edge of the box
-
-This may be considered a bug due to the visual indication being tilted, but the actual windstream being vertical.
-
-**Significance:** When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
