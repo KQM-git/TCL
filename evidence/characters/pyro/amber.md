@@ -14,3 +14,17 @@ Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. In th
 **Significance:**  
 Baron Bunny may be used as an entity to hold certain auras.
 
+## Amber Burst Overload consistency
+
+**By:** Bobrokrot#0111
+**Added:** 5/23/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842092523408850944/845889022290296842/transcript-amber-ult-overload-inconsistency.html)
+
+**Finding/Bug:** Amber ult with full EM gear vs Electro Hypostasis can sometimes deal 3 large chunks of damage due to Overload reaction and sometimes 4.
+
+**Evidence:**
+
+Amber 3 overloads https://youtu.be/e1YCTAdjJ2A
+Amber 4 overloads https://youtu.be/vXttP0fBsM0
+
+**Significance:** Even inside her burst where the waves hit can be random.
