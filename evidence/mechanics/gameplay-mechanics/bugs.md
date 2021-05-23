@@ -154,3 +154,21 @@ Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infu
 **Significance:**  
 When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
 
+## Venti E hold visual error
+
+**By:** Santoryu\#4495  
+**Added:** 05/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841955537322246174/845828367931670579/transcript-venti-e-hold-visual-error.html)
+
+**Bug:** Venti's Hold Elemental Skill will always lift you vertically up
+
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=N-4qXvyX75A)
+
+Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
+Step 2. Repeat but have Venti on an incline  
+Step 3. Repeat but have Venti on the very edge of the box
+
+This may be considered a bug due to the visual indication being tilted, but the actual windstream being vertical.
+
+**Significance:** When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
+
