@@ -188,3 +188,26 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 **Evidence:** https://youtu.be/yJ-3I3xGDgs
 
 **Significance:** Can't do hydro tests on dandelions near Mondstadt
+
+### Push Pull effects
+
+**By:** Saltyfart\#8946  
+**Added:** 5/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843282047161729034/845886074508804096/transcript-push-pull-effects.html)
+
+**Finding:** push/pull effects are dynamic across team members
+**Evidence:**  
+[Gif](https://imgur.com/a/vGKRUwy)
+[Gif](https://imgur.com/a/YUJMRtO)
+[Gif](https://imgur.com/a/t5jKYrh)
+
+Across these 3 videos, there is a consistent interaction of a push effect being generated on Venti, which is then completely nullified when Venti is switched off-field. The timing of the character switch is varied between the clips, but the result is the same.
+
+Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the anemo samachurls and Boreas during his 2nd phase cutscene.
+
+In this clip, character swap ended up making the pull effect reapply for each character swapped in rather then nullifying it. Character swapping inside the little whirlwind made the pull stronger rather than weaker lmao.
+[Gif](https://imgur.com/a/1q4unpo)
+We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
+
+**Significance:** Maybe when mihoyo adds an enemy that does a single instance of a push vs the player (which would probably never happen)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
+
