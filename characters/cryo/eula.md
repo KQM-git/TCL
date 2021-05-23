@@ -121,6 +121,7 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 
 * **Glacial Illumination** does not snapshot.
   * When the Lightfall Sword lights up and is about to explode, it's still updating live stats.
+    * However, Lightfall stacks cannot be gained once the Lightfall sword lights up right before exploding.
 * **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO and similar buffs
 * **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
@@ -168,6 +169,10 @@ When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and
 ### Tidal Illusion
 
 Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
+
+* Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
+  * So one stack is 12s and two is 18s
+
 {% endtab %}
 
 {% tab title="C2" %}

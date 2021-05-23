@@ -27,6 +27,7 @@
   * ColaSenami\#6861
     * [Control Test](https://www.youtube.com/watch?v=RoQ6NOXlmY4)
     * [Eula Q cast inside Bennett Burst and then allowed the buffs to expire on Eula](https://www.youtube.com/watch?v=1PVpcn5ZqIU)
+  * When the lightsword from Q lights up and is about to explode, it's still updating live stats. - [Greyhound#7836](https://www.youtube.com/watch?v=7JY83ExfS8c)
 * 2 Noblesse Oblige affects the Lightfall Sword damage of Glacial Illumination - denmax\#9293
   * [With NO](https://www.youtube.com/watch?v=Rb-Wx-RoUww)  
   * [Without NO](https://www.youtube.com/watch?v=rvT1xzI_nDI)
@@ -47,6 +48,10 @@
   * [Eula Q away from Geovishap](https://www.youtube.com/watch?v=Ug5RHliBnBg) - initial dmg not hitting the geovishap & force lightfall burst early
 * Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/r3PActt3bqc)
 * Confirmation that lightfall stacks cannot be gained when hitting [abyss mage](https://youtu.be/RwXRC9ayx9I), [wooden](https://youtu.be/xyfB2P00tUA), and [geo](https://youtu.be/4gbZ9v2OlCQ) shields, because stacks are only gained on damage. - nat#4502 
+* Lightfall stacks are not gained when the Lightfall Sword lights up and is about to explode. - Eko#6090
+  * [Base Damage Check](https://cdn.discordapp.com/attachments/844317292208848937/845032011386060820/Genshin_Impact_2021.05.20_-_15.56.24.02.DVR.mp4)
+  * [Hits during the animation](https://cdn.discordapp.com/attachments/844317292208848937/845032486214959164/Genshin_Impact_2021.05.20_-_15.59.20.05.DVR.mp4)
+  * [Hits right before](https://cdn.discordapp.com/attachments/844317292208848937/845032641145339964/Genshin_Impact_2021.05.20_-_15.58.21.04.DVR.mp4)
 * NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. Every damage instance adds one Lightfall stack. This means that Eula's third normal attack, which hits twice, will add two stacks, as will her fifth. Eula's held elemental skill, when it triggers base damage, two icewhirls, and an A4 trigger, will add four Lightfall stacks.- [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE) 
   * [Table of full values](https://gyazo.com/7831cdd292a0c0a3fb9777ae30f15afe), below is summary of the linked image
 
@@ -67,6 +72,13 @@
 
 * Eula A1 scales with Q talent level. - [Greyhound\#7836](https://www.youtube.com/watch?v=Jes9lCeSnqE)
 * Eula A1 is considered Elemental Burst damage and is buffed by 2NO. - [Greyhound\#7836](https://www.youtube.com/watch?v=wtCOq6VCV4M)
+
+### Constellation Mechanics
+
+#### C1
+
+* Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, Eula's Physical DMG is increased by 30% for a base of 6 seconds + 6 per Grimheart stack. - [Sonickid15#1738](https://www.youtube.com/watch?v=SFaejhz3Rik)
+  * So 1 stack is 12 seconds and 2 is 18 seconds
 
 ### Broken Pines Synergy
 
