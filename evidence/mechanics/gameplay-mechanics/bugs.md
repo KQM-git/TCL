@@ -164,8 +164,8 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **Evidence:** [Youtube](https://www.youtube.com/watch?v=N-4qXvyX75A)
 
-Step 1. Use Venti's Hold E on a flat surface, see what direction you go
-Step 2. Repeat but have Venti on an incline
+Step 1. Use Venti's Hold E on a flat surface, see what direction you go  
+Step 2. Repeat but have Venti on an incline  
 Step 3. Repeat but have Venti on the very edge of the box
 
 This may be considered a bug due to the visual indication being tilted, but the actual windstream being vertical.
