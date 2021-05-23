@@ -74,7 +74,6 @@ Simple gear comparison tool incorporating individual artifact stat inputs.
 **By:** Ghostpaw\#2345  
 **Added:** 5/23/2021
 [Discussion](https://discord.com/channels/763583452762734592/804212994002780160/845820070525665300)
-{% endtab %}
 
 A tool that allows you to see how long it will take and how much resin it costs on average to get certain piece in a artifact set.  
 
