@@ -30,6 +30,8 @@ The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a re
 
 Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
+Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-e-hold-visual-error).
+
 ## Fixed Bugs
 
 ### Turbo
