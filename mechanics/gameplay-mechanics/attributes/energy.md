@@ -18,7 +18,7 @@ This flat energy is only gained by the character on-field, off-field characters 
 
 ### Enemy HP Thresholds
 
-Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1kNDfwtTLuGUMtFoScvKOQbOIoYISfBEWbref_XQVd7U/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
+Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
 
 ### Weapons
 
