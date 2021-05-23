@@ -149,10 +149,8 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 **Findings:** Sucrose's burst normally pulls smaller enemies towards the center, and knocks back all enemies with each pulse. Freeze and petrify prevents the knockback but does not prevent the SUCC on smaller enemies.
 
 **Evidence:**
-Example on smaller enemies: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639647784927252/Genshin_Impact_2021.05.06_-_00.56.09.05.mp4)  
-
-Example on larger enemy: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639679774883840/Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
-
-Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
+* Example on smaller enemies: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639647784927252/Genshin_Impact_2021.05.06_-_00.56.09.05.mp4)  
+* Example on larger enemy: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639679774883840/Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
+* Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
