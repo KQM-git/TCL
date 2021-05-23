@@ -41,6 +41,22 @@
 
 * Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics)
 {% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 382 | 40.6 |
+| 60+ | 414 | 40.6 |
+| 65 | 435 | 43 |
+| 70 | 457 | 45.4 |
+| 70+ | 488 | 45.4 |
+| 75 | 510 | 47.9 |
+| 80 | 532 | 50.3 |
+| 80+ | 563 | 50.3 |
+| 85 | 586 | 52.7 |
+| 90 | 608 | 55.1 |
+{% endtab %}
+
 {% endtabs %}
 
 ### Skyward Harp
