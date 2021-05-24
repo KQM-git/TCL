@@ -106,3 +106,14 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
 
+## Venti autoattack after elemental skill faster switching
+
+**By:** sexyeboy69\#3215  
+**Added:** 05/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834085780611137607/845831330662187028/transcript-venti-autoattack-after-skill-faster-switching.html)
+
+**Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
+
+**Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
+
+**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
