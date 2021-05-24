@@ -93,6 +93,7 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 * Does 18 waves total over 2 seconds in the center of the Aoe.
 * 12 of the waves cover approximately a circle half the size of the marker.
 * 4 waves cover the entire marker.
+* The exact loctions of the smaller waves is randomly dispersed. 
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
 
 | Effect | Talent 6% |
