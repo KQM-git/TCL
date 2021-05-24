@@ -93,7 +93,7 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 * Does 18 waves total over 2 seconds in the center of the Aoe.
 * 12 of the waves cover approximately a circle half the size of the marker.
 * 4 waves cover the entire marker.
-* The exact loctions of the smaller waves is randomly dispersed. 
+* The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent. 
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
 
 | Effect | Talent 6% |
@@ -204,7 +204,7 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
-| Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |  |
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Inherited HP | 57.90 | 62.04 | 66.18 | 70.31 | 74.45 | 78.58 | 82.72 | 87.89 |
 | Explosion DMG | 172.48 | 184.80 | 197.12 | 209.44 | 221.76 | 234.08 | 246.40 | 261.80 |
@@ -213,7 +213,7 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 {% endtab %}
 
 {% tab title="Fiery Rain" %}
-| FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Fiery Rain DMG Per Wave | 39.31 | 42.12 | 44.93 | 47.74 | 50.54 | 53.35 | 56.16 | 59.67 |
 | Total Fiery Rain DMG | 707.62 | 758.16 | 808.70 | 859.25 | 909.79 | 960.34 | 1010.88 | 1074.06 |
@@ -228,7 +228,8 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Amber)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Amber)
+* [Full Amber Guide](https://keqingmains.com/amber/)
 
 **Evidence Vault:**
 
