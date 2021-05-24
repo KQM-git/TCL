@@ -18,5 +18,12 @@ For long-distance you will do the same, dash chaining with maximum dash uptime o
 
 **Note:** This does not account for special dashes such as Mona.
 
+## Push/Pull Effects
+
+Push/pull effects are dynamic across team members
+
+* [Instant Swap](https://imgur.com/a/YUJMRtO)
+* [Delayed Swap](https://imgur.com/a/vGKRUwy)
+
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
 
