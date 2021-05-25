@@ -69,15 +69,44 @@ Simple gear comparison tool incorporating individual artifact stat inputs.
 
 [Link](https://docs.google.com/spreadsheets/d/1nY7xTVqnJx-9I9ES6q69nN9BidDkBwmaRIh2awpbfPY/edit#gid=0%20)
 
-### Endgame Artifact Drop Simulator 
+### Endgame Artifact Drop Prediction Tool 
 
-**By:** Ghostpaw\#2345  
+**By:** Ghostpaw\#2345 and Theotherhiveking\#0212  
 **Added:** 5/23/2021  
 [Discussion](https://discord.com/channels/763583452762734592/804212994002780160/845820070525665300)
 
-A tool that allows you to see how long it will take and how much resin it costs on average to get certain piece in a artifact set.  
+{% tabs %}
+{% tab title="Overview" %}
+A [tool](https://docs.google.com/spreadsheets/d/1c109wjvN3WalIJ560qEQCcvi5Wvytm_uwzHDw0XRAB0/edit?usp=sharing) that allows you to see how long it will take and how much resin it costs on average to get certain piece in a artifact set.
 
-[Link](https://docs.google.com/spreadsheets/d/1c109wjvN3WalIJ560qEQCcvi5Wvytm_uwzHDw0XRAB0/edit?usp=sharing)
+Can accurately predict both the number of runs and resin needed to get a desired piece of gear, pertaining to all of the below:
+* The right Set
+* The right Artifact Slot
+* The right Main Stat
+{% endtab %}
+
+{% tab title="Assumptions" %}
+* Each SET is equally weighted to drop
+* Each SLOT is equally weighted to drop
+* Each MAINSTAT is NOT equally weighted to drop, and has a specific probability
+  * Mainstat probability distributions updated at the beginning of each month (Data from Artifact Analysis Database)
+* Each Domain Run is done at AR45+ where a minimum of one 5-Star Piece is guaranteed (Data from Drop Rates Database)
+* Each Domain Run is 20 Resin. If Condensed Resin is used, the probability corresponds to half the runs/ days in their respective cells
+* Each World Boss Run is done at AR55+, where a minimum of one 5-Star Piece is guaranteed (Data from Drop Rates Database)
+* Each World Boss Run is 40 Resin
+* Each Day Needed accounts for 160 Resin
+* The Desired Piece Probability is for AT LEAST 1 of the Desired Pieces to drop, meaning it accounts for getting multiple copies of that exact Desired Piece over the Runs
+* A Desired Piece is an Artifact that has ALL of the requirements met, which are currently:
+  * The right Set
+  * The right Slot
+  * The right Main Stat
+{% endtab %}
+
+{% tab title="Limitations" %}
+* We do not know if there is any sort of hidden drop pity/ soft pity is at play
+* Only accounting for time/ odds of exact specific piece, not multiple different desired pieces
+{% endtab %}
+{% endtabs %}
 
 ## Miscellaneous Calculators
 
