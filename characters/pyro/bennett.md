@@ -75,6 +75,7 @@ Bennett strikes once, dealing Pyro DMG.
 
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
+* When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
 * Frame counts are done against Ruin Guards.
 {% endtab %}
 
