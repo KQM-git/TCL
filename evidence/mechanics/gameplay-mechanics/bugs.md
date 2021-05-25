@@ -174,7 +174,7 @@ This may be considered a bug due to the visual indication being tilted, but the 
 
 ### Mona Elemental skill bug
 
-**By:** Childe C6 is overrated-Toro/#1035  
+**By:** Childe C6 is overrated-Toro\#1035  
 **Added:** 05/25/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
 
