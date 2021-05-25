@@ -34,6 +34,8 @@ Venti's Hold Elemental Skill will always lift you vertically up [even if the ani
 
 [There is a small chance](../../evidence/mechanics/mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
 
+When using Bennetts elemental skill fully charged [it will destroy] one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
+
 ## Fixed Bugs
 
 ### Turbo
