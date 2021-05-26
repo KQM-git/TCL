@@ -82,33 +82,41 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 
 ## Shield Sources
 
-### Noelle
+### Beidou
 
-[Elemental Skill: **Breastplate**](../../characters/geo/noelle.md#attacks)  
-[Ascension Talent: **Devotion**](../../characters/geo/noelle.md#ascension-passives)
-
-### Zhongli
-
-[Elemental Skill: **Dominus Lapidus**    
-](../../characters/geo/zhongli.md#attacks)[Constellation 2: **Stone, the Cradle of Jade**](../../characters/geo/zhongli.md#constellations)
+[Elemental Skill: **Tidecaller**](../../characters/electro/beidou.md#attacks)  
+[Constellation 1: **Sea Beast's Scourge**](../../characters/electro/beidou.md#constellations)
 
 ### Diona
 
 [Elemental Skill: **Icy Paws**](../../characters/cryo/diona.md#attacks)
 
-### Beidou
+### Kaeya
 
-[Elemental Skill: **Tidecaller**](../../characters/electro/beidou.md#attacks)  
-[Constellation 1: **Sea Beast's Scourge**](../../characters/electro/beidou.md#constellations)
+[Constellation 4: **Frozen Kiss**](../../characters/cryo/kaeya.md#constellations)
+
+### Noelle
+
+[Elemental Skill: **Breastplate**](../../characters/geo/noelle.md#attacks)  
+[Ascension Talent: **Devotion**](../../characters/geo/noelle.md#ascension-passives)
+
+### The Bell
+
+[Weapon Passive: **Rebellious Guardian**](../../mechanics/equipment/weapons/claymores.md#the-bell)
 
 ### Xinyan
 
 [Elemental Skill: **Sweeping Fervor**](../../characters/pyro/xinyan.md#attacks)  
 [Constellation 2: **Impromptu Opening**](../../characters/pyro/xinyan.md#constellations)
 
-### Kaeya
+### Yanfei
 
-[Constellation 4: **Frozen Kiss**](../../characters/cryo/kaeya.md#constellations)
+[Constellation 4: **Supreme Amnesty**](../../characters/pyro/yanfei.md#constellations)
+
+### Zhongli
+
+[Elemental Skill: **Dominus Lapidus**](../../characters/geo/zhongli.md#attacks)  
+[Constellation 2: **Stone, the Cradle of Jade**](../../characters/geo/zhongli.md#constellations)
 
 ## Credits
 
