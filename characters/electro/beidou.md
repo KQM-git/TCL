@@ -78,7 +78,7 @@ Beidou swings her blade dealing Electro DMG.
 | Shield Scaling | 20.16% Max HP + 2195 | ~ | 1A | ~ | ~ | ~ |
 
 * Tidecaller will produce minimum 2 particles, if you get hit once while holding\(one charge\) it produces 3 particles and if you get hit two times\(two charges\) or perform a perfect parry it will produce 4 particles.
-* Perfect parry information is tabulated in her [Ascension Passives](https://library.keqingmains.com/characters/electro/beidout#ascension-passives) table.
+* Perfect parry information is tabulated in her [Ascension Passives](../../characters/electro/beidou.md#ascension-passives) table.
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
@@ -196,7 +196,7 @@ Serpent stacks still boost damage when off-field.
 
 ### The Bell
 
-Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics/equipment/weapons/the-bell) 12% increased DMG on every cast.
+Tidecaller is effected by [The Bell's](../../mechanics/equipment/weapons/claymores.md#the-bell) 12% increased DMG on every cast.
 
 ### Rainslasher
 
