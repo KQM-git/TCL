@@ -6,10 +6,6 @@ description: >-
 
 # Eula
 
-{% hint style="warning" %}
-Day 1 notes should be taken lightly
-{% endhint %}
-
 ## ![](../../.gitbook/assets/element_cryo.png) Eula
 
 ![](../../.gitbook/assets/character_eula_wish.png.png)
