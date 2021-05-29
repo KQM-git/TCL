@@ -155,3 +155,20 @@ From what @itskhoi\#0013 found for spear users who have the "dive" CA, Childe su
 **Significance:**  
 When using Childe's melee CA against stunned ruin guards, go to the side to reliably hit them. In addition, this could mean that the spear "dive" hitbox is actually far behind them, which is why both Childe's 2nd melee CA and spear users with "dive" CA cannot hit ruin guards.
 
+## Childe Can Proc Prototype Crescent's Passive in Melee Form
+
+**By:** SaosKreator\#2700  
+**Added:** 5/29/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847145221426642985/848318293931589662/transcript-childe-melee-proc-prototype-crescent.html)
+
+**Finding:**  
+Childe's elemental skill, Foul Legacy: Raging Tides' Charge attacks can proc prototype crescent's passive on Geovishap's weakspots.
+
+**Evidence:**  
+Prototype Crescent's passive, Unreturning, will activate when a charged attack hits enemies' weakpoints. Since the descriptions never specify it must be a bow charge attack, any charged attacks theoretically can trigger the passive as long as it hits the weakspot of the enemy. Since Geovishaps doesn't get knocked back like other smaller enemies, and their head is luckily, ground level unlike Lectors and Heralds, it is possible to hit the Vishap's head and trigger the passive with Childe's melee cross slash. Evidence and testing is shown on the video below.   
+[Video 1](https://youtu.be/oOfeu5pW0oE)  
+[Video 2](https://youtu.be/nUIqqcqjOcI)
+
+**Significance:**  
+Hopefully, by knowing this, people can start twiddling around this and find much more unique interactions between Crescent's passive and its user, specifically Childe, but that's only because he is the only hybrid unit between melee and range so far. If there is a direct Crescent counterpart in the future(swords, polearms, claymores) and there's a unit that is also a hybrid like Childe, we can be sure that said unit's elemental skill can proc said weapon's passive with their 'special' charged attack. This can also makes running Childe with prototype Crescent a lot more comfortable on abyss that consists of Vishaps, such as Floor 12-1, or Pale Flames Domain.
+
