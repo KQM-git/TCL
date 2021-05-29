@@ -154,6 +154,7 @@
       * [Amber](evidence/characters/pyro/amber.md)
       * [Bennett](evidence/characters/pyro/bennett.md)
       * [Diluc](evidence/characters/pyro/diluc.md)
+      * [Hu Tao](evidence/characters/pyro/hu-tao.md)
       * [Klee](evidence/characters/pyro/klee.md)
       * [Xiangling](evidence/characters/pyro/xiangling.md)
       * [Xinyan](evidence/characters/pyro/xinyan.md)
