@@ -273,3 +273,7 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 * [Hu Tao Mains Discord](https://github.com/Artesians/TCL/tree/e89e061a34e9f5a67f035c9a7c8e5672b87e227d/characters/pyro/discord.gg/hutaoscorner/README.md)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 
+### Evidence Vault:
+
+{% page-ref page="../../evidence/characters/pyro/hu-tao.md" %}
+
