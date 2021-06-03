@@ -85,6 +85,10 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 
 You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 
+## Statue of the Seven Healing
+
+**By:** Asaki\#9139
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}

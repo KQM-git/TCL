@@ -119,3 +119,15 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Conclusion:** From the results of my simulation \(feel free to scrutinize my code, I have double checked it 3-4x myself\), it seems that Eula/Albedo is passive is actually 10% better than than Xingqiu/Mona instead of the initial 20%. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
 
+## Statue of Seven Healing
+
+**By:** Asaki\#9139  
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847359141626118154/849897436956590110/transcript-statue-of-seven-inactive-member-healing.html)
+
+**Finding:** A Statue of Seven will heal \(and revive to full if dead\) without any restraint, provided that the character/party that you want to heal is not in the active \(on-field\) party.
+
+**Evidence:** [Discord Video Link](https://cdn.discordapp.com/attachments/847359141626118154/847360325702909962/video0.mov)
+
+**Significance:** External source of infinite healing other than event domains \(until mHY patches the So7 again\).
+
