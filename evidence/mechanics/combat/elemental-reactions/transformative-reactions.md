@@ -659,7 +659,8 @@ The third test shows Noelle's Crystallize on Noelle take a single hit, and then 
 ## Shatter Damage ICD
 
 **By:** Monochrom9\#8058  
-**Added** 6/3/2021
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
 
 **Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
 

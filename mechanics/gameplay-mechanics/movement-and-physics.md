@@ -25,5 +25,17 @@ Push/pull effects are dynamic across team members
 * [Instant Swap](https://imgur.com/a/YUJMRtO)
 * [Delayed Swap](https://imgur.com/a/vGKRUwy)
 
+## Cliff Dash Displacement
+
+The position at which you land after dashing off a cliff is dependent on the current velocity of the dash animation when you go over the cliff. The ranking for dash initial velocity of character models is as follows:
+
+1. Adult Male
+2. Adolescent Male
+3. Baby Female
+4. Adult Female
+5. Adolescent Female
+
+
+
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
 

@@ -107,3 +107,34 @@ We can also see here that the boreas wolf push also applies multiple instances o
 
 **Significance:** Maybe when Mihoyo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
 
+## Cliff Dash Displacement
+
+**By:** Mcpie\#8672  
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/831242042801389568/849905930174595072/transcript-dashing-off-a-cliff-speed-comparison.html)
+
+**Methodology/Evidence:**
+
+ Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.   
+  
+****Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)   
+Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)   
+Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)   
+Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)   
+  
+Results depending on position:
+
+```text
+1: Diluc -> Bennett -> Ningguang -> Qiqi -> Sucrose
+2: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
+3: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
+4: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+5: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+6: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+7: Diluc -> Bennett -> Ningguang | Qiqi -> Sucrose
+8: Diluc -> Qiqi -> Ningguang -> Bennett -> Sucrose
+9: Diluc -> Ningguang -> Sucrose -> Bennett -> Qiqi
+```
+
+ **Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can. 
+
