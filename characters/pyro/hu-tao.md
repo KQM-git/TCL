@@ -111,6 +111,7 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
   * There is a 5-second ICD between instances of particle production
   * Meaning, ideally Hu Tao will generate particles twice while infused
 * Paramita Papilio can be extended with hitlag.
+* When entering Paramita Papilio the knockback will cause the Illusory Bubble from Mona's Stellaris Phantasm to be removed and the Omen debuff applied even though no damage was done.
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
