@@ -141,3 +141,4 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 
 **Evidence Vault**:
 
+{% page-ref page="../../evidence/mechanics/combat/shields.md" %}

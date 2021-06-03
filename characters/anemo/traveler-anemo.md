@@ -6,7 +6,7 @@ description: >-
 
 # Traveler \(Anemo\)
 
-## ![](https://github.com/Artesians/TCL/tree/bf22a8ef907e2e909fc029e0331273f8082a54b3/.gitbook/assets/element_anemo%20%281%29.png) Traveler \(Anemo\)
+## ![](../../.gitbook/assets/element_anemo.png) Traveler \(Anemo\)
 
 ![](../../.gitbook/assets/anemo-traveler.png)
 
@@ -256,7 +256,8 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 
 **Evidence Vault:**
 

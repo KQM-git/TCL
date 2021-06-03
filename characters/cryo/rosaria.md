@@ -90,8 +90,8 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 * The Cryo application of **Rites of Termination** has no ICD
   * **Rites of Termination** will apply 1A cryo on both damage instances on cast
   * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
-{% endtab %}
-{% endtabs %}
+  {% endtab %}
+  {% endtabs %}
 
 ## **Ascension Passives**
 
@@ -112,7 +112,7 @@ When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria'
 * This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the crit sharing.
 * Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy.
   * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.
-{% endtab %}
+  {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Shadow Samaritan**
@@ -121,8 +121,8 @@ Casting Rites of Termination increases CRIT RATE of all nearby party members, ex
 
 * The CRIT RATE shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
   * For example, the CRIT RATE shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
-{% endtab %}
-{% endtabs %}
+  {% endtab %}
+  {% endtabs %}
 
 ## Constellations
 
@@ -223,7 +223,8 @@ Rites of Termination's attack decreases opponent's Physical RES by 20% for 10s.
 
 ## **External Links**
 
-* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/rosaria/)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Rosaria)
+* [Full Rosaria Guide](https://keqingmains.com/rosaria/)
 
 **Evidence Vault:**
 

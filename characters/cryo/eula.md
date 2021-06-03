@@ -128,8 +128,8 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 * Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
-{% endtab %}
-{% endtabs %}
+  {% endtab %}
+  {% endtabs %}
 
 ## **Ascension Passives**
 
@@ -166,7 +166,7 @@ Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical D
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C2" %}
 ### Lady of Seafoam
@@ -265,7 +265,9 @@ Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, 
 
 ## **External Links**
 
-* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/eula/)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Eula)
+* [Eula Mains Discord](https://discord.gg/EulaMains)
+* [Basic Eula Guide](https://keqingmains.com/eula/)
 
 **Evidence Vault:**
 

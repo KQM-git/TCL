@@ -248,8 +248,9 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
-* [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bennett)
+* [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
+* [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
 
 **Evidence Vault:**
 
