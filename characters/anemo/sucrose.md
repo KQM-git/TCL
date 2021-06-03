@@ -79,6 +79,7 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Gauge Units | 1GU |
+
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.
 {% endtab %}
 {% endtabs %}

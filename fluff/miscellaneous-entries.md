@@ -64,7 +64,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 **Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
 
-**Evidence:** Damage reduction from DEF is DEF/\(DEF + 5  _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
+**Evidence:** Damage reduction from DEF is DEF/\(DEF + 5 _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
 
 Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
 
@@ -159,9 +159,9 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 **Added:** 5/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843349537313259520/845508612532600842/transcript-jean-running-bpm.html)
 
-**Finding:** Jean runs at 180 BPM. 
+**Finding:** Jean runs at 180 BPM.
 
-**Evidence:** https://youtu.be/_oWr_7KEl-c
+**Evidence:** [https://youtu.be/\_oWr\_7KEl-c](https://youtu.be/_oWr_7KEl-c)
 
 **Significance:** allows players to pick the optimal music to listen to when playing with Jean
 
@@ -171,11 +171,11 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 **Added:** 5/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
 
-**Finding:** For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+**Finding:** For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
 
-**Evidence:** https://youtu.be/6nwbxIwk3Q8
+**Evidence:** [https://youtu.be/6nwbxIwk3Q8](https://youtu.be/6nwbxIwk3Q8)
 
-**Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW (like Hu Tao and Xiangling).
+**Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).
 
 ### No Raining in Mondstadt
 
@@ -185,6 +185,7 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 
 **Finding:** If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
 
-**Evidence:** https://youtu.be/yJ-3I3xGDgs
+**Evidence:** [https://youtu.be/yJ-3I3xGDgs](https://youtu.be/yJ-3I3xGDgs)
 
 **Significance:** Can't do hydro tests on dandelions near Mondstadt
+

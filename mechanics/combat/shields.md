@@ -102,7 +102,7 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 
 ### The Bell
 
-[Weapon Passive: **Rebellious Guardian**](../../mechanics/equipment/weapons/claymores.md#the-bell)
+[Weapon Passive: **Rebellious Guardian**](../equipment/weapons/claymores.md#the-bell)
 
 ### Xinyan
 

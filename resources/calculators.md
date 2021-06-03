@@ -47,16 +47,16 @@ Link [here](https://docs.google.com/spreadsheets/d/1QcVNogethh7w1wfhFww2vGiZ2qvV
 
 Link [here](https://docs.google.com/spreadsheets/d/1ZZ3wHknS9evXWZj7DZ-rpIBCsV9sr7lj2HWCFvfqhPo/edit?usp=sharing).
 
-This calculator is highly accurate, but 100% cannot be achieved due to artifact stats having hidden decimals. Read the changelog inside it. 
+This calculator is highly accurate, but 100% cannot be achieved due to artifact stats having hidden decimals. Read the changelog inside it.
 
 ## Artifact Calculators
 
-### Circlet Optimizer 
+### Circlet Optimizer
 
 **By:** Maygi\#4987  
 Updated 12/19/2020 with weapon data
 
-For calculating effective attack values, can be used for stat optimization as well 
+For calculating effective attack values, can be used for stat optimization as well
 
 [Link](https://docs.google.com/spreadsheets/d/128LD8nh1--4BwDm5hoDX1KzKi569d04R24AWEI15HJA/edit#gid=192421506)
 
@@ -65,11 +65,11 @@ For calculating effective attack values, can be used for stat optimization as we
 By: GRZ\#4782  
 WIP, available for public use.
 
-Simple gear comparison tool incorporating individual artifact stat inputs. 
+Simple gear comparison tool incorporating individual artifact stat inputs.
 
 [Link](https://docs.google.com/spreadsheets/d/1nY7xTVqnJx-9I9ES6q69nN9BidDkBwmaRIh2awpbfPY/edit#gid=0%20)
 
-### Endgame Artifact Drop Prediction Tool 
+### Endgame Artifact Drop Prediction Tool
 
 **By:** Ghostpaw\#2345 and Theotherhiveking\#0212  
 **Added:** 5/23/2021  
@@ -80,6 +80,7 @@ Simple gear comparison tool incorporating individual artifact stat inputs.
 A [tool](https://docs.google.com/spreadsheets/d/1c109wjvN3WalIJ560qEQCcvi5Wvytm_uwzHDw0XRAB0/edit?usp=sharing) that allows you to see how long it will take and how much resin it costs on average to get certain piece in a artifact set.
 
 Can accurately predict both the number of runs and resin needed to get a desired piece of gear, pertaining to all of the below:
+
 * The right Set
 * The right Artifact Slot
 * The right Main Stat
@@ -89,10 +90,10 @@ Can accurately predict both the number of runs and resin needed to get a desired
 * Each SET is equally weighted to drop
 * Each SLOT is equally weighted to drop
 * Each MAINSTAT is NOT equally weighted to drop, and has a specific probability
-  * Mainstat probability distributions updated at the beginning of each month (Data from Artifact Analysis Database)
-* Each Domain Run is done at AR45+ where a minimum of one 5-Star Piece is guaranteed (Data from Drop Rates Database)
+  * Mainstat probability distributions updated at the beginning of each month \(Data from Artifact Analysis Database\)
+* Each Domain Run is done at AR45+ where a minimum of one 5-Star Piece is guaranteed \(Data from Drop Rates Database\)
 * Each Domain Run is 20 Resin. If Condensed Resin is used, the probability corresponds to half the runs/ days in their respective cells
-* Each World Boss Run is done at AR55+, where a minimum of one 5-Star Piece is guaranteed (Data from Drop Rates Database)
+* Each World Boss Run is done at AR55+, where a minimum of one 5-Star Piece is guaranteed \(Data from Drop Rates Database\)
 * Each World Boss Run is 40 Resin
 * Each Day Needed accounts for 160 Resin
 * The Desired Piece Probability is for AT LEAST 1 of the Desired Pieces to drop, meaning it accounts for getting multiple copies of that exact Desired Piece over the Runs
@@ -110,7 +111,7 @@ Can accurately predict both the number of runs and resin needed to get a desired
 
 ## Miscellaneous Calculators
 
-### Royal Weapon Crit Simulator 
+### Royal Weapon Crit Simulator
 
 By: Cola\#6861
 
@@ -128,7 +129,7 @@ This is the tool I used to run simulations for Royal weapon line crits.
 {% endtab %}
 {% endtabs %}
 
-### Character Pulls Calculator 
+### Character Pulls Calculator
 
 **By:** Venatic\#3993
 
@@ -136,7 +137,7 @@ This is the tool I used to run simulations for Royal weapon line crits.
 {% tab title="Link" %}
 This can help you figure out how many primos to save.
 
-Tbh, if there was a pull sim out there it would probably provide an easier way to do the calcs for more scenarios. I haven't seen any though, so I am just sharing this here. 
+Tbh, if there was a pull sim out there it would probably provide an easier way to do the calcs for more scenarios. I haven't seen any though, so I am just sharing this here.
 
 You can edit this google sheets to figure out the expected number of pulls you will use to achieve different copies of characters. Make a copy because it is view-only.
 
@@ -150,14 +151,14 @@ Slightly modified the math from The Double Dixie Cup Problem by Newman & Shepp. 
 {% tab title="Limitations" %}
 1. It treats pity as simply raising the base odds \(e.g. 1.6% per pull for a 5\*\).
 2. Doesn't allow you to specify scenarios like "any C6 4 star", you have to specify the one you are interested in
-3.  There's currently no way to use it to answer "with X pulls, how lucky must I get to achieve my goals?"
+3. There's currently no way to use it to answer "with X pulls, how lucky must I get to achieve my goals?"
 4. There's also no calcs for achieving a 5star + a 4star goal together right now. E.g. "1 C2 Albedo and 1 C6 Fischl". The expected values will be given separately
 
 Seems like a simulation would answer all limitations, I just wanted to approach this problem with google sheets and without simulating. Currently working on limitation 2, but the math seems beyond me.
 {% endtab %}
 {% endtabs %}
 
-### Adventure Rank EXP Calculator 
+### Adventure Rank EXP Calculator
 
 **By:** able16\#6618  
 **Added:** 1/7/2021
