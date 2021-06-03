@@ -18,7 +18,7 @@ CDR and effects that increase the linger duration have no effect on the schedule
 {% tab title="Bennett" %}
 [**Inspiration Field**](../../characters/pyro/bennett.md#attacks)
 
-An additional tick that grants only the attack boosting effect is granted such that Bennett gets the extra attack use on the damage portion of his Q.
+An additional tick of attack gives Bennett the attack bonus before the Inspiration Field is fully cast.
 {% endtab %}
 
 {% tab title="Chongyun" %}
@@ -26,7 +26,15 @@ An additional tick that grants only the attack boosting effect is granted such t
 
 Chongyun’s field works identically to most other fields in regards to leaving and reentering. However, here swapping between characters will apply his infusion to the new unit instantly in addition to the normally scheduled ticks.
 {% endtab %}
+
+{% tab title="Diona" %}
+\*\*\*\*[**Drunken Mist**](https://library.keqingmains.com/characters/cryo/diona#attacks)\*\*\*\*
+
+Diona's **Drunken Mist** will leave a field that grants its Elemental Mastery bonus or any Healing bonuses from artifacts immediately upon swapping, separate from the healing tick.
+{% endtab %}
 {% endtabs %}
+
+
 
 **Evidence Vault:**
 
