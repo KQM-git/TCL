@@ -2,10 +2,8 @@
 
 ## Soft Pity on Banners
 
-**By:** vibe checker\#5502
-
-**Added:** 6/3/2021
-
+**By:** vibe checker\#5502  
+**Added:** 6/3/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843094700441206844/849939262229315644/transcript-char-and-weapon-banner-pities.html)
 
 **Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
