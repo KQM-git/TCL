@@ -202,7 +202,7 @@ Consider the following Electro-charged concepts:
 * 62f: disappearance of EC dmg value
 * 68f: appearance of 2nd EC dmg value and hp reduction in hp bar
 
-## Interaction of Other Elements with Electrocharged Targets
+### Interaction of Other Elements with Electrocharged Targets
 
 **By:** EternalDream\#5503
 
@@ -220,7 +220,7 @@ It is also notably not the Electro-related reaction that triggers the second one
 
 For teams that rely on Superconduct uptime, a Hydro unit does not interfere with the ability to cause Superconduct with a Cryo ability, as regardless of which element remains after an Electro-Charged reaction \(only Electro remaining, only Hydro remaining, or both remaining for further Electro-Charged ticks\), you will always be able to trigger Superconduct, at worst with an Electro attack into Frozen.
 
-## How Hitlag affects EC
+### How Hitlag affects EC
 
 **By:** BowlSoldier\#3528  
 **Added:** 2/4/2021
@@ -655,4 +655,15 @@ The second test shows that Zhongli's Crystallize on Noelle can only take 2 hits 
 The third test shows Noelle's Crystallize on Noelle take a single hit, and then is reset by Zhongli's Crystallize which then takes 2 hits before breaking on the third hit, taking 1139 damage.
 
 **Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
+
+## Shatter Damage ICD
+
+**By:** Monochrom9\#8058  
+**Added** 6/3/2021
+
+**Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
+
+**Evidence:** [Imgur GIF](%20https://imgur.com/a/NUt2o6H) 
+
+**Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
 

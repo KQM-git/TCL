@@ -87,7 +87,9 @@ You can only collect 2,000 of any specific wood per day. This limit resets at se
 
 ## Statue of the Seven Healing
 
-**By:** Asaki\#9139
+**By:** [Asaki\#9139](https://library.keqingmains.com/evidence/mechanics/gameplay-mechanics/lifeskills#statue-of-seven-healing)
+
+If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
 ## Evidence Vault
 

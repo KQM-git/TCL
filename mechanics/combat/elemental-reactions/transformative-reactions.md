@@ -30,6 +30,8 @@ $$
 
 Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
 
+Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds.
+
 ## **Overload**
 
 Overload is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
@@ -52,7 +54,7 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 
 ## Shatter
 
-Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Blunt attacks also have no ICD, meaning shatter will always be triggered on a frozen enemy. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
+Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing. Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot.
 
 ## Frozen
 
@@ -101,7 +103,7 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
 
-## Evidence Vault:
+## Evidence Vault
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md" %}
 
