@@ -37,6 +37,16 @@ Active Shield: [https://streamable.com/st9wwi](https://streamable.com/st9wwi) \(
 
 Prevent knockback and maximise DPS
 
+## Bennett hold e counts as self damage
+
+**By:** Sir_pick_the_prick\#2209  
+**Added:** 5/25/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
+
+**Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
+**Evidence:** [Video](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4)
+**Significance:** Dont hold e for its full duration under xq shields, or you burst a shield. 
+
 ## Gauge Units of C6 Infusion
 
 **By:** Sayline\#5959
