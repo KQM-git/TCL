@@ -74,7 +74,7 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 | :--- | :--- |
 | Skill DMG | 408.80% |
 | Max duration | 5s |
-| Particles | 2~3 \(1:1\) |
+| Particles | 2~3 (1:2) |
 | GU | 2U |
 | Cooldown | 6s |
 | Cast frames | 23 |

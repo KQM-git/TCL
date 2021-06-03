@@ -79,13 +79,13 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 | Inherited HP | 57.9% |
 | Duration | 8s |
 | Cooldown | 15s |
-| Particles | 3~4 \(1:9\) |
+| Particles | 4 (-) |
 | GU | 2B |
 
 * Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. 
   * Only environmental effects may apply the hydro aura. 
   * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
-{% endtab %}
+  {% endtab %}
 
 {% tab title="Fiery Rain" %}
 Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.

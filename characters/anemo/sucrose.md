@@ -63,7 +63,8 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | :--- | :--- |
 | Skill DMG | 295.68% |
 | Cooldown | 15s |
-| Gauge Units | 1GU |
+| GUs | 1GU |
+| Particles | 4 (-) |
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
@@ -137,7 +138,7 @@ Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anem
   * This counter lasts for over 30s, the exact time cap is still unknown
 * The cooldown reduction hard caps at each charge's cooldown. 
   * If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown.
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C5" %}
 ### Caution: Standard Flask

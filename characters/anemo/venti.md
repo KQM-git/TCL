@@ -70,8 +70,8 @@ Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and laun
 
 | Effect | Talent 6% | CD | GU | Particles |
 | :--- | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 2U | 2~3 \(1:9\) |
-| Hold | 532% | 15s | 2U | 3~4 \(1:9\) |
+| Press | 386.40% | 6s | 2U | 3 (-) |
+| Hold | 532% | 15s | 2U | 4 (-) |
 
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
 {% endtab %}

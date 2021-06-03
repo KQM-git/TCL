@@ -81,7 +81,7 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 | Thunderclap Slash | 117.6% + 117.6% | 90 | 401.9%/s |
 | CD | 7.5s |  |  |
 | GU | 2B |  |  |
-| Particles | 2~3 \(9:1\) |  |  |
+| Particles | 2~3 (1:1) |  |  |
 
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
