@@ -94,3 +94,20 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
 * Debunks a youtuber theory about Diona's infinity shield being good.
 
+
+
+## Diona Field Characteristics
+
+**By:** Monochrom9\#8058  
+**Added:** 06/02/2021
+
+**Finding:** The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.
+
+**Evidence:**
+
+* \*\*\*\*[**GIF**](%20https://imgur.com/a/egHUnjV)\*\*\*\*
+
+**Significance:**
+
+* The healing pulse is separate from the buffs granted by Diona Burst.
+
