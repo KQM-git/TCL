@@ -430,7 +430,7 @@ Not only do you need to be careful about Bennett's atk buff tick interval, but a
 
 **By:** Aluminum\#5462  
 **Added:** 5/29/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846597421751861288/848319509987196928/transcript-fischl-a4-targets-closest-enemy.html)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846597421751861288/848319509987196928/transcript-fischl-a4-targets-closest-enemy.html)
 
 **Theory:**  
 Fischl's A4 Talent targets the closest enemy to the character, not necessarily the enemy on whom a reaction was triggered
@@ -440,5 +440,4 @@ Fischl's A4 Talent targets the closest enemy to the character, not necessarily t
 
 **Significance:**  
 This is something to keep in mind while managing enemy aura
-
 

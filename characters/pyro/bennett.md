@@ -157,7 +157,7 @@ Increases the level of Passion Overload by 3.
 {% tab title="C4" %}
 ### Unexpected Odyssey
 
-Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG.
+Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
 | Attack | Talent 6% | Talent 9% | Motion Value |
 | :--- | :--- | :--- | :--- |

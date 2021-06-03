@@ -32,7 +32,7 @@ Venti's burst will deal its full elemental absorption damage [even if it is infu
 
 Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-e-hold-visual-error).
 
-[There is a small chance](../../evidence/mechanics/mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+[There is a small chance](https://github.com/Artesians/TCL/tree/14d0edebfb20fa9816c82c2409020f8361f52c5a/evidence/mechanics/mona-elemental-skill-bug/README.md) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
 
 ## Fixed Bugs
 

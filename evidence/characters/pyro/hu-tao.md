@@ -31,69 +31,48 @@ Also, if you reset BB right before your PP duration end, you can have a maximum 
 
 ## Hu tao vape melt consistency
 
-**By:** jamie\#9248
-**Added:** 5/25/2021
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835296118795534388/846695458117124096/transcript-hu-tao-vape-melt-consistency.html)
+**By:** jamie\#9248 **Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835296118795534388/846695458117124096/transcript-hu-tao-vape-melt-consistency.html)
 
-**Finding:** Tested out the freeze underlying aura and how it pertains to how hu tao + dragon's bane. Ran the standard freeze team hu tao/xingqiu/diona/kaeya and tested different combos (n1c, n1cd, n1cj, n2cj), in order to see if there's a difference which would keep a hydro aura under the enemy as much as possible in order to proc dragon's bane on melt as much as possible. Both n1cd and n1cj were found to produce more than 2x the amount of procs.
+**Finding:** Tested out the freeze underlying aura and how it pertains to how hu tao + dragon's bane. Ran the standard freeze team hu tao/xingqiu/diona/kaeya and tested different combos \(n1c, n1cd, n1cj, n2cj\), in order to see if there's a difference which would keep a hydro aura under the enemy as much as possible in order to proc dragon's bane on melt as much as possible. Both n1cd and n1cj were found to produce more than 2x the amount of procs.
 
-Whilst testing I also attempted to confirm vape% and melt% with the team as there seemed to be no exact answer in the community and if different combos (n1c, n1cd, n1cj,n2cj), would also produce different %s. General reaction uptime was confirmed to be around 80%, but melt% were much higher than the 1/3 expected, the 3 main combos were found to be around 40-50% melt and 33% vape, n1c,n1cd,n1cj. However, n2cj had an additional pyro attack and therefore suffers at 25% melt and 57% vape uptime.
+Whilst testing I also attempted to confirm vape% and melt% with the team as there seemed to be no exact answer in the community and if different combos \(n1c, n1cd, n1cj,n2cj\), would also produce different %s. General reaction uptime was confirmed to be around 80%, but melt% were much higher than the 1/3 expected, the 3 main combos were found to be around 40-50% melt and 33% vape, n1c,n1cd,n1cj. However, n2cj had an additional pyro attack and therefore suffers at 25% melt and 57% vape uptime.
 
 notes about n2cj
-- sometimes players are forced to run this combo in longer fights to conserve stamina appropriately
-- tests show this has much different results than the other combos, as there is an extra pyro hit
-- charge attack melt% plummets down (25%), vape% goes up (57% approx, could be summerised as either 1/2 or 1/3), no reaction% is pretty much the same as the others at 20%
-- overall despite strong talent% multipliers (m/v), it actually looks pretty scuffed for freeze melt
-**Evidence:** google sheet with runs, 10+ runs of each combo, and video links of the recordings in the sheet too  [Google sheets](https://docs.google.com/spreadsheets/d/1W3hYC1tQTwslTZ4YA-1EIHkanCjAve4FqaE1Zuprf-w/edit?usp=sharing)
 
-tldr; 
+* sometimes players are forced to run this combo in longer fights to conserve stamina appropriately
+* tests show this has much different results than the other combos, as there is an extra pyro hit
+* charge attack melt% plummets down \(25%\), vape% goes up \(57% approx, could be summerised as either 1/2 or 1/3\), no reaction% is pretty much the same as the others at 20%
+* overall despite strong talent% multipliers \(m/v\), it actually looks pretty scuffed for freeze melt
 
-n1cd charge attacks
-vape%        33%
-melt%        45%
-no reaction%    22%
-on melt DB proc%    37%
+  **Evidence:** google sheet with runs, 10+ runs of each combo, and video links of the recordings in the sheet too  [Google sheets](https://docs.google.com/spreadsheets/d/1W3hYC1tQTwslTZ4YA-1EIHkanCjAve4FqaE1Zuprf-w/edit?usp=sharing)
 
-n1cj charge attacks
-vape%        29%
-melt%        51%
-no reaction%    20%
-on melt DB proc%    33%
+tldr;
 
-n1c charge attacks
-vape%        36%
-melt%        42%
-no reaction%    21%
-on melt DB proc%   14%
+n1cd charge attacks vape% 33% melt% 45% no reaction% 22% on melt DB proc% 37%
 
-n2cj charge attacks
-vape%    57%
-melt%    25%
-no reaction%    17%
-on melt DB proc%    19%
+n1cj charge attacks vape% 29% melt% 51% no reaction% 20% on melt DB proc% 33%
 
-all combos n1 
-no reaction% consistently 60-66% (n2cj n1 I got actually got lower at 56%, but that could be down to sample size variance) 
-melt% and vape% inconsistent but melt% generally higher at 20-30%, vape% under that
-on melt DB proc% inconsistent and rare, but clearly possible
+n1c charge attacks vape% 36% melt% 42% no reaction% 21% on melt DB proc% 14%
 
-n2cj combo n2 results
-similar melt% as n1 with around 30%, but vape% approximately halves compared to n1, with its share of the % going to more no reactions, which are around 66%)
+n2cj charge attacks vape% 57% melt% 25% no reaction% 17% on melt DB proc% 19%
 
-**Significance:** Dragon's bane (potentially confirmed?) to have much more power than initially thought. Not everyone has a staff of homa, and many thought it would only work in vape teams. Potentially her best 4 star weapon, would be interesting if someone could compare dps vs deathmatch in melt comps. Also interesting that this melt team is also 3x 4 star supports, and kaeya is f2p with both diona and xingqiu available free from events (as of 1.5). If this is all accepted by an editor then these findings would be good to promote to f2p/low spenders.
+all combos n1 no reaction% consistently 60-66% \(n2cj n1 I got actually got lower at 56%, but that could be down to sample size variance\) melt% and vape% inconsistent but melt% generally higher at 20-30%, vape% under that on melt DB proc% inconsistent and rare, but clearly possible
+
+n2cj combo n2 results similar melt% as n1 with around 30%, but vape% approximately halves compared to n1, with its share of the % going to more no reactions, which are around 66%\)
+
+**Significance:** Dragon's bane \(potentially confirmed?\) to have much more power than initially thought. Not everyone has a staff of homa, and many thought it would only work in vape teams. Potentially her best 4 star weapon, would be interesting if someone could compare dps vs deathmatch in melt comps. Also interesting that this melt team is also 3x 4 star supports, and kaeya is f2p with both diona and xingqiu available free from events \(as of 1.5\). If this is all accepted by an editor then these findings would be good to promote to f2p/low spenders.
 
 Also melt comps might have an even higher ceiling than expected, as afaik melt% uptime isn't expected to be around 50%.
 
 ## Mona Q bubble pops with Hu tao E
 
-**By:** Tryhardosaurus\#0007
-**Added:** 5/25/2021
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841629546008018955/846705904598777886/transcript-mona-q-bubble-pops-with-hutao-e-cast.html)
+**By:** Tryhardosaurus\#0007 **Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841629546008018955/846705904598777886/transcript-mona-q-bubble-pops-with-hutao-e-cast.html)
 
-**Finding:** Mona Q can be popped by Hutao E cast animation even if this doesn’t deal any damage 
+**Finding:** Mona Q can be popped by Hutao E cast animation even if this doesn’t deal any damage
 
-**Evidence:** See vid below, Hutao E have a knockback upon cast this might be the reason for the bubble pop. [Youtube](https://youtu.be/tbSi0AzP0ew) 
+**Evidence:** See vid below, Hutao E have a knockback upon cast this might be the reason for the bubble pop. [Youtube](https://youtu.be/tbSi0AzP0ew)
 
-**Significance:** if you're using a Vape comp with Mona + Hutao, you can squeeze more Omen debuff duration if you can try to not pop the Omen with Hutao E cast assuming you'll use Q after E since Q duration takes 130 frames = 2.1 sec = ~40%-50% Omen duratio. 
+**Significance:** if you're using a Vape comp with Mona + Hutao, you can squeeze more Omen debuff duration if you can try to not pop the Omen with Hutao E cast assuming you'll use Q after E since Q duration takes 130 frames = 2.1 sec = ~40%-50% Omen duratio.
 
-This also might disapprove Mona Q description that says when an opponent affected by Illusory Bubble sustains DMG. 
+This also might disapprove Mona Q description that says when an opponent affected by Illusory Bubble sustains DMG.
+

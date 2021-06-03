@@ -531,7 +531,7 @@ List of tests:
 
 **By:** Raf\#7220  
 **Added:** 5/29/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html) 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html)
 
 **Finding:**  
 Geovishap Hatching shields don't activate the 4 Petra bonus
