@@ -2,7 +2,7 @@
 
 ## Featured Character Banner
 
-Before 75 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Estimated number of 5\* pulls to get desired character:
 
 ## Featured Weapon Banner
 
-Before 65 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ Estimated number of 5\* pulls to get desired weapon:
 
 ## Standard Banner
 
-Before 65 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
