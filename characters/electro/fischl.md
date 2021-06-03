@@ -88,7 +88,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 * Oz ICD Details: Oz will apply electro...
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
-{% endtab %}
+  {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
 Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy.
@@ -146,8 +146,10 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * There is a 0.5s ICD between A4 procs.
-{% endtab %}
-{% endtabs %}
+* 
+  The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
+  {% endtab %}
+  {% endtabs %}
 
 ## Constellations
 

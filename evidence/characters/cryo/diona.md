@@ -103,11 +103,7 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 
 **Finding:** The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.
 
-**Evidence:**
+**Evidence:** [**GIF**](%20https://imgur.com/a/egHUnjV)
 
-* \*\*\*\*[**GIF**](%20https://imgur.com/a/egHUnjV)\*\*\*\*
-
-**Significance:**
-
-* The healing pulse is separate from the buffs granted by Diona Burst.
+**Significance:** The healing pulse is separate from the buffs granted by Diona Burst.
 

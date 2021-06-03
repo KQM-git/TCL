@@ -86,6 +86,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Imbue | 1A |
 | Frames | 145 |
 
+* The ICD for **Searing Onslaught** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.
 * Pyro infused autos have 1U worth of Pyro application.
 {% endtab %}
 {% endtabs %}
@@ -215,3 +216,6 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Diluc)
 * [Diluc Mains Discord](https://discord.gg/af9MWyd)
 
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/pyro/diluc.md" %}
