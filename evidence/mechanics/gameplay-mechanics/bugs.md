@@ -172,3 +172,30 @@ This may be considered a bug due to the visual indication being tilted, but the 
 
 **Significance:** When exploring, Venti's Hold Elemental Skill will always lift you up, so positioning or angle of Venti does not matter.
 
+### Mona Elemental skill bug
+
+**By:** Childe C6 is overrated-Toro\#1035  
+**Added:** 05/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+
+**Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and particle generation also happens during cast
+
+**Evidence:** 
+[Gif](https://imgur.com/OUu1msK)
+[Gif](https://imgur.com/LsbvMJE)
+[Gif](https://imgur.com/6LG5Weq)
+[Gif](https://imgur.com/bssKdg2)
+[Gif](https://imgur.com/xjG8lzt)
+[Gif](https://imgur.com/1qsjnyV)
+[Gif](https://imgur.com/05vmozO)
+[Gif](https://imgur.com/3U1WAbi)
+As we can see in all the videos, when Mona used Press E, it did damage to the enemy and also generated particles (the same amount of damage and particles as the Phantom explosion).
+
+It can happen against any enemy, and it seems to be a random occurrence. 
+It doesn't seems to follow any pattern (in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins).
+It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping.
+It doesn't happens if you use Hold E, only on Press E.
+Don't know if this bug happened in previous patches.
+Thanks to @Aluminum | Harbinger of Jank for one of the clips.
+
+**Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
