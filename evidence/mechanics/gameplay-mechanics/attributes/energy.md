@@ -67,8 +67,8 @@ Attacking enemies with normal/charged attacks can give extra energy. Although in
 
 ## Energy Generation Update
 
-**By:** Steph#3614, wiremash#0433, Zebin#1678, Greyhound#7836, mol#3280
-**Added:** 6/3/2021
+**By:** Steph#3614, wiremash#0433, Zebin#1678, Greyhound#7836, mol#3280  
+**Added:** 6/3/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845560562221056001/850107809877196870/transcript-energy-gen-numbers.html)
 
 **Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet. 
