@@ -167,9 +167,8 @@ Increases the level of Tidecaller by 3.
 {% tab title="C4" %}
 ### Stunning Revenge
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG.
+Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG echo that applies 1A Electro.
 
-* This is an echo effect.
 * Use N2 cancels to maximize Electro DMG.
 {% endtab %}
 
