@@ -138,3 +138,25 @@ Results depending on position:
 
  **Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can. 
 
+## Waypoint Teleport Variance
+
+**By:** Mcpie\#8672  
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846494202334412901/849908480075628574/transcript-waypoint-teleportation-inconsistency.html)
+
+**Finding:** Two possible findings:   
+- Teleporting to a waypoint does not always teleport you to the same coordinates   
+- Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch. 
+
+**Evidence:** Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
+
+Image 1: Consistent landing location \(&gt;20 attempts, almost always in this spot\)[![](https://media.discordapp.net/attachments/846494202334412901/846495239493779466/2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg?width=360&height=202)](https://cdn.discordapp.com/attachments/846494202334412901/846495239493779466/2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg)
+
+Image 2: Location that is a bit further than the landing spot from image 1[![](https://media.discordapp.net/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg?width=360&height=202)](https://cdn.discordapp.com/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
+
+[Video proof for images](https://cdn.discordapp.com/attachments/846494202334412901/846495546289291304/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm) 
+
+Additional video showing 4 adult male models, landing location very rarely differs: [https://youtu.be/QPR38O5yM7M](https://youtu.be/QPR38O5yM7M)
+
+**Significance:** Might skew the results from Cliff Dash Displacement.
+

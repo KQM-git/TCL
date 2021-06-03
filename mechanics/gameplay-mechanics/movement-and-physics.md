@@ -35,7 +35,11 @@ The position at which you land after dashing off a cliff is dependent on the cur
 4. Adult Female
 5. Adolescent Female
 
+This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can. 
 
+## Waypoint Teleportation Variance
+
+Teleporting to a waypoint does not always teleport you to the same coordinates or dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch.
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
 
