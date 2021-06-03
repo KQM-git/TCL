@@ -90,7 +90,7 @@ Elemental particle production sheet here: https://docs.google.com/spreadsheets/d
 * Chongyun: 3~4 (1:1) -> 4 (-)
 * Diona: 1 per paw -> 0~1 (1:4) check per paw (5 -> 4 particle average per hold, 2 -> 1.6 particle average per tap) 
 * Jean: 2\~3 (1:1) -> 2~3 (1:2)
-* Kaeya: 2\~3 (1:1)/4~5 (1:1) -> 2~3 (1:2)/4~5 (1:2)
+* Kaeya: 2\~3 (1:1)/4\~5 (1:1) -> 2\~3 (1:2)/4\~5 (1:2)
 * Keqing: 2\~3 (9:1) -> 2~3 (1:1), included extra note "Produce particle on leap connect or Thunderclap Slash connect. Both produce same amount of particle."
 * Klee: 3~4 (1:9) -> 4 (-)
 * Lisa: 3~5 (1:1:1) -> 5 (-)
