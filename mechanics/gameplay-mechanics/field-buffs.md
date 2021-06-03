@@ -28,7 +28,7 @@ Chongyun’s field works identically to most other fields in regards to leaving 
 {% endtab %}
 
 {% tab title="Diona" %}
-\*\*\*\*[**Drunken Mist**](https://library.keqingmains.com/characters/cryo/diona#attacks)\*\*\*\*
+[**Drunken Mist**](https://library.keqingmains.com/characters/cryo/diona#attacks)
 
 Diona's **Drunken Mist** will leave a field that grants its Elemental Mastery bonus or any Healing bonuses from artifacts immediately upon swapping, separate from the healing tick.
 {% endtab %}

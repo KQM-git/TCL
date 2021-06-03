@@ -131,8 +131,8 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
-{% endtab %}
-{% endtabs %}
+  {% endtab %}
+  {% endtabs %}
 
 ## Constellations
 
@@ -237,7 +237,6 @@ Increases the maximum number of Scarlet Seals by 1.
 
 ## **External Links**
 
-* [Honey Hunters](https://genshin.honeyhunterworld.com/db/char/feiyan/)
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yanfei)
 
 **Evidence Vault:**

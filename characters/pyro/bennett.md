@@ -105,8 +105,8 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
-{% endtab %}
-{% endtabs %}
+  {% endtab %}
+  {% endtabs %}
 
 ## **Ascension Passives**
 
@@ -159,9 +159,9 @@ Increases the level of Passion Overload by 3.
 
 Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
-| Attack | Talent 6% | Talent 9% | Motion Value |
+| Attack | Talent 6% | Talent 9% | GUs |
 | :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% |  |
+| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% | 3 * 1A |
 {% endtab %}
 
 {% tab title="C5" %}
@@ -248,10 +248,10 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Bennett)
-* [**Bennett Mains Discord**](https://discord.gg/qrjeEyejsd)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bennett)
+* [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
+* [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
 
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
-

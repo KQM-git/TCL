@@ -258,7 +258,8 @@ The meteorite created by Starfell Sword lasts 10s longer.
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
+* [Full Geo Traveler Guide](https://keqingmains.com/geo-traveler/)
 
 **Evidence Vault:**
 
