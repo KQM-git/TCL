@@ -1,5 +1,19 @@
 # Gacha
 
+## Soft Pity on Banners
+
+**By:** vibe checker\#5502  
+**Added:** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843094700441206844/849939262229315644/transcript-char-and-weapon-banner-pities.html)
+
+**Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
+
+**Evidence:** https://paimon.moe/wish/tally, https://paimon.moe/wish/tally/300012 and https://paimon.moe/wish/tally/400011
+
+The second link shows that the probability of rolling a 5 star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on teh 63rd roll, not the 65th.
+
+**Significance:** fixing misconceptions that soft pity is 75/65, allowing players to save their primogems more effectively
+
 ## Estimated 5 star pulls for weapons/characters
 
 **By:** KBphan\#0001  

@@ -2,7 +2,7 @@
 
 ## Featured Character Banner
 
-Before 75 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Estimated number of 5\* pulls to get desired character:
 
 ## Featured Weapon Banner
 
-Before 65 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ Estimated number of 5\* pulls to get desired weapon:
 
 ## Standard Banner
 
-Before 65 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
+Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
 
 | Item | Probability | Pity Guarantee |
 | :--- | :--- | :--- |
@@ -88,7 +88,7 @@ The rates before pity weighting are as follows:
 | Specific 4\* | 0.15% |
 | Specific 3\* | 7.17% |
 
-There are additional wish mechanics within the Standard Banner that complicate these probabilities. The Standard Banner has an underlying mechanic that ensures players do not roll weapons and characters multiple times consecutively. For 4\* characters and weapons, you must receive atleast one of each within 30 wishes. For 5\* characters and weapons, you must receive atleast one of each within 270 wishes.
+There are additional wish mechanics within the Standard Banner that complicate these probabilities. The Standard Banner has an underlying mechanic that ensures players do not roll weapons and characters multiple times consecutively. For 4\* characters and weapons, you must receive atleast one of each within 30 wishes. For 5\* characters and weapons, you must receive at least one of each within 270 wishes.
 
 ## Evidence Vault
 
