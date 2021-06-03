@@ -525,6 +525,23 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
+## Archaic Petra
+
+### Geovishap Hatchling Shields with 4 Petra
+
+**By:** Raf\#7220  
+**Added:** 5/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html) 
+
+**Finding:**  
+Geovishap Hatching shields don't activate the 4 Petra bonus
+
+**Evidence:**  
+[Video](https://youtu.be/Bc49zIE_30E)
+
+**Significance:**  
+Even though they're mechanically similar to crystallize shields, hatchling shields don't activate Petra, yet another reason the 4set is trash
+
 ## **Artifact Substats Distribution**
 
 **By:SafconGalore\#9752**
