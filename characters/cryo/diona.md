@@ -178,6 +178,8 @@ Characters within **Signature Mix**’s radius will gain the following effects:
 
 * Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
 * Elemental Mastery Increased by 200 when HP is above 50%.
+
+The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
 {% endtab %}
 {% endtabs %}
 

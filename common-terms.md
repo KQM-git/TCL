@@ -150,8 +150,6 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **P** = Plunge
 
-\*\*\*\*[**TCF** = ThunderClap Flash \(Keqing Tech\)](https://library.keqingmains.com/characters/electro/keqing#animation-cancels)
-
 **Q** = Elemental Burst
 
 **W** = Walk
@@ -186,7 +184,7 @@ Terms used to describe combos, they’re stitched together to describe the strin
 
 **T\[\#\]** = Talent Level \[1, 2, 3… 10, 11, 12\]
 
-**TC** = Theorycrafter
+**TC** = Theorycrafting
 
 **TF** = Thundering Fury
 

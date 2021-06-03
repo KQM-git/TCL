@@ -88,6 +88,8 @@ The rates before pity weighting are as follows:
 | Specific 4\* | 0.15% |
 | Specific 3\* | 7.17% |
 
+There are additional wish mechanics within the Standard Banner that complicate these probabilities. The Standard Banner has an underlying mechanic that ensures players do not roll weapons and characters multiple times consecutively. For 4\* characters and weapons, you must receive atleast one of each within 30 wishes. For 5\* characters and weapons, you must receive atleast one of each within 270 wishes.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/mechanics/gacha.md" %}

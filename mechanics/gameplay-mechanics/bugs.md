@@ -56,8 +56,6 @@ _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 at
 
 {% embed url="https://www.youtube.com/watch?v=vbz0Q7lRvYA" caption="TenTen\'s Turbo Overview" %}
 
-
-
 **Units in a Turbo Team**
 
 * Fischl
@@ -87,8 +85,6 @@ Any unit fits here, but the units that benefit most from Turbo are energy-hungry
 **Additional Notes:**
 
 * When using a character with the same element as the current aura you will not be able to utilize Fischl's A4 since the on-field character will not be the trigger.
-
-
 
 **Hotpot**  
 Hotpot is a team comp revolving around the concept of using 4 different elements \(Pyro/Hydro/Electro/Cryo\) and turboing,

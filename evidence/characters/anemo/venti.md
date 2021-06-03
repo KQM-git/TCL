@@ -117,3 +117,4 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 **Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
 
 **Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
+

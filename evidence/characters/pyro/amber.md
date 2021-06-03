@@ -16,7 +16,7 @@ Baron Bunny may be used as an entity to hold certain auras.
 
 ## Amber Burst Overload Consistency
 
-**By:** Bobrokrot#0111  
+**By:** Bobrokrot\#0111  
 **Added:** 5/23/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842092523408850944/845889022290296842/transcript-amber-ult-overload-inconsistency.html)
 
@@ -24,7 +24,8 @@ Baron Bunny may be used as an entity to hold certain auras.
 
 **Evidence:**
 
-* Amber 3 overloads: https://youtu.be/e1YCTAdjJ2A
-* Amber 4 overloads: https://youtu.be/vXttP0fBsM0
+* Amber 3 overloads: [https://youtu.be/e1YCTAdjJ2A](https://youtu.be/e1YCTAdjJ2A)
+* Amber 4 overloads: [https://youtu.be/vXttP0fBsM0](https://youtu.be/vXttP0fBsM0)
 
 **Significance:** The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
+

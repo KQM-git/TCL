@@ -8,16 +8,17 @@
 
 **Finding:** You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 
-**Evidence:**  
-* Inventory before and after farming wood over 3 days: https://imgur.com/a/tNZP68q
-* Evidence that player cannot collect more bamboo, but can collect other wood: https://youtu.be/f_eQfp1FWLM 
-* Same for pine wood: https://youtu.be/yh4PodfeX7c
-* Hitting cap and testing teleport and logout/login (and showing that neither reset the cap): https://youtu.be/pE-vHLpum6Q
-* Collecting pine wood after server reset (marked by new daily commission quest at 0:12): https://youtu.be/9WrYqapBFkU 
+**Evidence:**
+
+* Inventory before and after farming wood over 3 days: [https://imgur.com/a/tNZP68q](https://imgur.com/a/tNZP68q)
+* Evidence that player cannot collect more bamboo, but can collect other wood: [https://youtu.be/f\_eQfp1FWLM](https://youtu.be/f_eQfp1FWLM) 
+* Same for pine wood: [https://youtu.be/yh4PodfeX7c](https://youtu.be/yh4PodfeX7c)
+* Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [https://youtu.be/pE-vHLpum6Q](https://youtu.be/pE-vHLpum6Q)
+* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [https://youtu.be/9WrYqapBFkU](https://youtu.be/9WrYqapBFkU) 
 
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 
-**Significance:** Useful for players to know if they're farming a massive amount of wood. 
+**Significance:** Useful for players to know if they're farming a massive amount of wood.
 
 ## Bush Droprates
 
@@ -67,7 +68,7 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 ## Food Costs
 
-**By:** Anmol43\#1917   
+**By:** Anmol43\#1917  
 **Added:** 4/20/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833731587279028254/834272842425171978/transcript-all-food-cost-calcs.html)
 
@@ -107,13 +108,14 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **By:** jdeeyu\#9927  
 **Added:** 5/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
 
-**Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive (as stated in KQM guide) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
+**Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive \(as stated in KQM guide\) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
 
 **Evidence:** Through simulating a large number of crafting trials, I will post a screenshot of my code below.  
 [Imgur](https://imgur.com/Fqkpwc2)
 
 **Significance:** Albedo/Eula passive isn't as good as it initially seems when compared to Xingqiu/Mona
 
-**Conclusion:** From the results of my simulation (feel free to scrutinize my code, I have double checked it 3-4x myself), it seems that Eula/Albedo is passive is actually 10% better than than Xingqiu/Mona instead of the initial 20%. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
+**Conclusion:** From the results of my simulation \(feel free to scrutinize my code, I have double checked it 3-4x myself\), it seems that Eula/Albedo is passive is actually 10% better than than Xingqiu/Mona instead of the initial 20%. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
+

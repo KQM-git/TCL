@@ -92,7 +92,6 @@ Increases Eula's resistance to interruption and her DEF.
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
-
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
@@ -126,10 +125,9 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
 * Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
 * NA multihits, Hold E Icewhirls, and A1 sword remnant add 1 **Lightfall Stack** for each damage instance.
-* Ranges (1 abyss tile is ~2.55m)
+* Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
-
 {% endtab %}
 {% endtabs %}
 
@@ -168,7 +166,6 @@ Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical D
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-
 {% endtab %}
 
 {% tab title="C2" %}

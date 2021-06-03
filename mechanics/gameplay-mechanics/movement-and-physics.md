@@ -12,7 +12,7 @@ Bunny hopping can let you scale walls without using stamina and it also allows y
 **Short Distance** = The distance you're able to sprint with 1 full bar of stamina \(assuming 240 max\).  
 **Long Distance** = The distance traveled by sprinting with a full bar of stamina and continued travel until complete stamina regen.
 
-The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming. 
+The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming.
 
 For long-distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from thereon.
 
