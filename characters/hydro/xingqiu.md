@@ -72,7 +72,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 | Duration | 15s |
 | Cooldown | 21s |
 | GU | 2 x 1A |
-| Particles | 4-5 \(1:1\) |
+| Particles | 5 (-) |
 | Frames | 82 |
 | MV/s | 368%/s |
 
@@ -81,7 +81,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * this occurs with the orbitals created by both Xingqiu's Skill and Burst
-{% endtab %}
+  {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
 Push back nearby enemies and activate **Rainbow Bladework**. While under the effect of **Rainbow Bladework**:
@@ -157,7 +157,7 @@ Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword
 
 * This effect is multiplicative. 
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#evilsoother)
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C5" %}
 ### Embrace of Rain

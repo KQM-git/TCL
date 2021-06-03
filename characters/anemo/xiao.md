@@ -67,10 +67,10 @@ Xiao lunges forward, dealing Anemo DMG to opponents in his path.
 Can be used mid-air.  
 Starts with 2 charges.
 
-| Type | Talent 6 DMG% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 353.92% | 36 | 589.9%/s |
-| CD | 10s | ~ | ~ |
+| Type | Talent 6 DMG% | Frames | Motion Value | Particles |
+| :--- | :--- | :--- | :--- | ---- |
+| Skill DMG | 353.92% | 36 | 589.9%/s | 3 (-) |
+| CD | 10s | ~ | ~ | ~ |
 
 * A Double E Cast is only 60 frames long.
 {% endtab %}
