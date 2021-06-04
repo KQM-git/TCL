@@ -106,7 +106,6 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 ## **Ascension Passives**
 
 {% tabs %}
-
 {% tab title="Passive" %}
 
 ### Encyclopedic Expertise
@@ -138,8 +137,8 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
 
-  {% endtab %}
-  {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Constellations
 
