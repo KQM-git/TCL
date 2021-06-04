@@ -58,34 +58,50 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
-Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or being destroyed dealing AoE Pyro DMG.
 
+{% tab %}
+Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or being destroyed dealing AoE Pyro DMG.
+{% endtab %}
+
+{% tab %}
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
 * **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
 * A percentage of Amber's HP is used to determine how much damage **Baron Bunny** can take before exploding.
+{% endtab %}
 
+{% tab %}
 **Press**
+{% endtab %}
 
+{% tab %}
 * Throws **Baron Bunny** infront of Amber.
+{% endtab %}
 
+{% tab %}
 **Hold**
+{% endtab %}
 
+{% tab %}
 * Will let you aim and choose where to throw **Baron Bunny**.
+{% endtab %}
 
+{% tab %}
 | Effect | Talent 6% |
 | :--- | :--- |
 | Explosion DMG | 172.48% |
 | Inherited HP | 57.9% |
 | Duration | 8s |
 | Cooldown | 15s |
-| Particles | 4 (-) |
+| Particles | 4 \(-\) |
 | GU | 2B |
+{% endtab %}
 
+{% tab %}
 * Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. 
   * Only environmental effects may apply the hydro aura. 
   * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
-  {% endtab %}
+{% endtab %}
 
 {% tab title="Fiery Rain" %}
 Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.

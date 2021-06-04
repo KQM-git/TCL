@@ -58,20 +58,34 @@ Plunge towards the ground below from mid-air to deal AoE Electro DMG.
 {% endtab %}
 
 {% tab title="Violet Arc" %}
-Channels the power of lightning to sweep bothersome matters away.
 
+{% tab %}
+Channels the power of lightning to sweep bothersome matters away.
+{% endtab %}
+
+{% tab %}
 **Press**  
 Releases a homing **Lightning Orb**.
+{% endtab %}
 
+{% tab %}
 * On hit, it deals Electro DMG, and applies a stack of the **Conductive** status \(Max 3 stacks\) to opponents in a small AoE.
+{% endtab %}
 
+{% tab %}
 **Hold**
+{% endtab %}
 
+{% tab %}
 After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.
+{% endtab %}
 
+{% tab %}
 * Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
 * Clears **Conductive** status on hit.
+{% endtab %}
 
+{% tab %}
 | Effect | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Press DMG | 112% | 21 | 320%/s |
@@ -83,8 +97,10 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Holding CD | 16s | ~ | ~ |
 | Press GU | 1A | ~ | ~ |
 | Hold GU | 2B | ~ | ~ |
-| Hold Particles | 5 (-) | ~ | ~ |
+| Hold Particles | 5 \(-\) | ~ | ~ |
+{% endtab %}
 
+{% tab %}
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E
 * The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
@@ -95,7 +111,7 @@ After an extended casting time, calls down lightning from the heavens, dealing m
   * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack
   * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 Conductive stacks and will radiate 2 stacks to nearby opponents. 
   * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
-  {% endtab %}
+{% endtab %}
 
 {% tab title="Lightning Rose" %}
 Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
