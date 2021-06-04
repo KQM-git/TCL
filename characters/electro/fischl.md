@@ -83,14 +83,17 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | GU | 1A |
 | Particles | 0~1 \(2:3\) |
 | Damage Type | Elemental Skill |
+
 * **Oz** has a duration of 10s at C0
 * **Oz** normal attacks a total of 10 times over the duration.
 * Oz ICD Details: Oz will apply electro...
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
-  {% endtab %}
+
+{% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
+
 Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy.
 
 * Fischl may not attack, cast, or dash during the duration of this ability. 
@@ -108,13 +111,13 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
 * After summoning Oz with Midnight Phantasmagoria and swapping out of Fischl, Oz will take a snapshot of Fischl's stats right before she leaves the field.
+
 {% endtab %}
 {% endtabs %}
 
 ## **Ascension Passives**
 
 {% tabs %}
-
 {% tab title="Passive" %}
 
 ### Mein Hausgarten
@@ -154,8 +157,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 * There is a 0.5s ICD between A4 procs.
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
 
-  {% endtab %}
-  {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Constellations
 
