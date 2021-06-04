@@ -2,8 +2,8 @@
 
 ## Analysing Beidou’s Normal Attack Rotations Including Hitlag
 
-By: lostguru\#5024  
-Added on 12/6/2020
+**By:** lostguru\#5024  
+**Added:** 12/6/2020
 
 **Evidence:**  
 [https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
@@ -16,8 +16,8 @@ Added on 12/6/2020
 
 ## Serpent Spine Interactions with Beidou
 
-By: ZΛNTO\#4984  
-Added on 12/13/20
+**By:** ZΛNTO\#4984  
+**Added:** 12/13/20
 
 **Finding:**
 
@@ -29,7 +29,7 @@ Everything you need to know about Serpent Spine and Beidou
 
 **Evidence:**
 
-1. \*\*\*\*[https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
+1. [https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
 2. [https://streamable.com/3qsmmj](https://streamable.com/3qsmmj)  3523 crit damage on and off-field.
 3. [https://streamable.com/f6836w](https://streamable.com/f6836w)  1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks
 
@@ -39,8 +39,10 @@ Good weapon. Works as well as you'd expect.
 
 ## Beidou Plunge Attack R-Cancel
 
-By: Ja’Krampus\#2399  
-Added on 12/13/20
+**By:** Ja’Krampus\#2399  
+**Added:** 12/13/20
+
+**Editor's Note:** This has been patched out and is not able to be performed anymore.
 
 **Finding:**
 
@@ -54,8 +56,8 @@ With certain attack strings, cancelling into this move may provide a higher mv/s
 
 ## Movespeed Increases Jump Height
 
-By: Risuke\#6743  
-Added on 12/14/20
+**By:** Risuke\#6743  
+**Added:** 12/14/20
 
 **Finding:**
 
@@ -79,8 +81,8 @@ For Beidou specifically, the movespeed needed to allow for a roll after a high j
 
 ## Mistranslation of Beidou’s C4 Effect
 
-By: EternalDream\#5503  
-Added on 12/7/2020
+**By:** EternalDream\#5503  
+**Added:** 12/7/2020
 
 **Finding:**  
 Beidou’s C4 is mistranslated:
@@ -100,8 +102,8 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 
 ## Frame Analysis of Beidou’s Parry
 
-By: MemeMastodon69\#2165  
-Added on 11/5/2020
+**By:** MemeMastodon69\#2165  
+**Added:** 11/5/2020
 
 **Finding:**  
 Beidou perfect parry has 2 startup frames, 17 active frames +/- 1 frame
@@ -128,8 +130,8 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 
 ## Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
 
-By: Elliotto\#6694  
-Added 11/18/2020
+**By:** Elliotto\#6694  
+**Added:** 11/18/2020
 
 **Finding:**  
 The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
@@ -148,8 +150,8 @@ The bell will provide its damage bonus with concurrent abilities such as Beidou�
 
 ## Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
 
-By: ASHOKA\#5672  
-Added 11/19/2020
+**By:** ASHOKA\#5672  
+**Added:** 11/19/2020
 
 **Evidence:**  
 [https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)
@@ -189,4 +191,36 @@ snapshot base
 shield snapshot difference
 
 [https://imgur.com/N4EN8xP](https://imgur.com/N4EN8xP)
+
+## Beidou E Particle Mechanics
+
+**By:** Steph/\#3614  
+**Added:** 03/22/2021
+
+**Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
+
+**Evidence/Testing:** A series of 100 E casts of each following category was executed
+
+* [Tapping E without getting hit at all](https://imgur.com/rtJKoAe) \(to simulate a no charge tidecaller\)
+* [Holding E for at least half a second](https://imgur.com/0UGRrti) \(to make sure that it's not a perfect parry\) before getting hit, then get hit only once before release the E right after \(to simulate 1 charge\)
+* [Holding E for at least half a second](https://imgur.com/Yr8KJNr) \(to make sure that it's not a perfect parry\) before getting hit, then get hit at least twice before releasing the E after \(to simulate 2/full charge\)
+* [Tap E on enemy's attack](https://imgur.com/ppUAnWq) \(to simulate perfect parry\)
+
+**Results:**
+
+* 0 charge tidecaller will always produce 2 electro particles
+* 1 charge tidecaller will always produce 3 electro particles
+* 2 charge tidecaller and perfect parries will always produce 4 electro particles
+
+**Significance:** This makes Beidou's particle production way easier to count.
+
+## Beidou C4 Gauge
+
+**By:** Bobrokrot\#0111  
+**Added** 6/3/2021  
+[**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)\*\*\*\*
+
+**Finding:** Beidou's C4 applies 1A of Electro.
+
+ **Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I) 
 

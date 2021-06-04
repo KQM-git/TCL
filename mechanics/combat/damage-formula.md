@@ -1,16 +1,36 @@
+---
+description: An explanation as to how damage is calculated.
+---
+
 # Damage Formula
 
 ## **General Formula for Damage**
 
-![](https://lh5.googleusercontent.com/8Ed7rJvoBVEpMiZvDyLDXqTa9Vv62mcJvyjNhDsZWaQ2csbsK09m2MJHZkWTcV8wyB7KHz_ojOGRqKtCP29IVU5nTefU3DsDL-IKmWa-hsvJwREi3k6lE3iRBKRtUrQUOtyyK_A)
-
-_Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_ × enemyResistanceModifier × _AmplifyingReactionBonus_ × _OtherBonus_ + _TransformativeReaction_ + _Proc_
+$$
+\begin{multline*}
+Damage = BaseDamage \times  (1 + DamageBonus) \times Crit\\
+\times EnemyDefenseMultiplier\times EnemyResistanceMultiplier\\
+\times AmplifyingReaction\times OtherBonus+TransformativeReaction+Proc
+\end{multline*}
+$$
 
 ## **Base Damage**
 
-![](https://lh6.googleusercontent.com/gL57Up4n-_Goq-u73Vw_aPLfbUP8HPmd24USjLqwuIGBvS9K4xluF9lxd09IIfuYoTHW7nu0c26c9hMxo0wpCtmR2YSl3pN1ROL_5SSZWm1UfWPJ45b8G7cHaW6ZAkOULP61u_o)
+$$
+BaseDamage =
+\begin{cases}
+Talent \times Attack + FlatDamage & \text{if, } talent\ scales\ with\ Attack\\
+Talent \times Defense + FlatDamage & \text{if, } talent \ scales\ with\ Defense
+\end{cases}
+$$
 
-![](https://lh6.googleusercontent.com/MBFx_di71LW2IkWP_G6kOD0913IZP4eekhmJnUiY693_mNI3aiap6eWQfrTYdgn24GjLexbLw5Spo3xsfxBuFee_RzUHxaAkGCDrilznVSOl_8IslywfGE74YsO8WJx99E19efw)
+$$
+Attack = (AttackCharacter + AttackWeapon) \times (1 + AttackBonus) + FlatAttack
+$$
+
+$$
+Defense = DefenseCharacter \times (1 + DefenseBonus) + FlatDefense
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -26,7 +46,17 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ## Critical Hits
 
-![](https://lh3.googleusercontent.com/KdYsiUu9IqPYslvoex5oNL-eh4lbMKrrZxcINp45qHTUVE64OADEQoplmQqDdWMrqRBhW_bVEN5ngAw81ymm9NQx7Dz4klxY2z5BLdk2yer5JVuYZde6NFi6HMIdMr19LvoNn94)
+$$
+Crit=
+\begin{cases}
+1 + CritDamage & \text{with } min\{100\%,CritRate\}\ probability\\
+1 & \text{otherwise }
+\end{cases}
+$$
+
+$$
+AverageCrit = 1 + min\{CritRate,100\%\} \times CritDamage
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -35,7 +65,9 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ## Enemy Defense
 
-![](https://lh5.googleusercontent.com/XhXkMOeRep9gAktBxQN6VecPOQDwDcuyVL6jVRvyCvRpu5y55uG9_Wf1NLrm9rd6pAu1QEYfgdlIzHfjJRWZ1K3zL6glorl4Fojq98hLHY1YtUwdlcPBeADLqXnWGryTk_YJzNo)
+$$
+EnemyDefenseMultiplier = \frac{LvlCharacter + 100}{(LvlCharacter + 100) + (LvlEnemy + 100) \times (1-DefReduction)}
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -45,7 +77,18 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ## Enemy Resistance
 
-![](https://lh5.googleusercontent.com/cxfHRkejG6vheJgQcYtEMkFRvhR_HyX7joH_aoPl5YxzKl-CIZ2TVsP2ojrnKINLbALXwQBdETrmh-7GmK6QxDljuUNypffw00cI_nOgLGfTuiI9imzWdD941Lr-OIBdYJZl-kk)
+$$
+EnemyResistanceMultiplier =
+\begin{cases}
+1 - \frac{Resistance}{2} & \text{if, } Resistance \lt 0\\
+1 - Resistance & \text{if, } 0 \le Resistance \lt 0.75\\
+\frac{1}{4 \times Resistance + 1} & \text{if, } Resistance \ge 0.75
+\end{cases}
+$$
+
+$$
+Resistance = BaseResistance - ResistanceReduction
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -54,16 +97,33 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ## Amplifying Reaction Bonus
 
-![](https://lh3.googleusercontent.com/LMm6WiuCxkvvcwACW9wr2lcTy7wFSQeD6wjbCQ6SqNTw1fAwNU4kwfkqeNt7w35k6C4qw_mrU5ryVsu5auxpFz9_tBqBwVa15XinuAfPiI-lCXnfg4s4mt6I67lAemA2Gg0gtNA)
+$$
+AmplifyingReaction =
+\begin{cases}
+2 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\ 
+                                                                & Vaporize\ with\ Hydro\ or\\ 
+                                                                & Melt\ with\ Pyro\\
+1.5 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\
+                                                                &Vaporize\ with\ Pyro\ or\\
+                                                                & Melt\ with\ Cryo\\
+1 & \text{otherwise}
+\end{cases}
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **EM** | The character's total Elemental Mastery. |
 | **ReactionBonus** | Reaction damage bonuses from the Crimson Witch 4-piece set and from Mona's C1 \(for Vaporize\). |
 
-## Evilsoother
+## Other Bonus
 
-![](https://lh4.googleusercontent.com/jUt7AhNKkro5XfTSG3V8XfXvOTFV1_yoQpwPBbz0dkGaC8QiazdbnaHtYw6WHT-E6YfSKSspwGeL5lMK_qCe9xG6hiOI6m9fiJVS2A2zUWs_lV0KIOYoaQI4EdaIn98gOeBSiCU)
+$$
+OtherBonus =
+\begin{cases}
+1.5  & \text{if, } Evilsoother\ triggered\\
+1 & \text{otherwise}
+\end{cases}
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -71,15 +131,37 @@ _Damage = BaseDamage_ × _\(1+DamageBonus\)_ × _Crit_ × _EnemyDefenseModifier_
 
 ## Transformative Reaction Bonus
 
-![](https://lh5.googleusercontent.com/RIjoNwqG5NP-KTKkIhVPzdhlhPC5K1DeE1WKZSPXjbc5aJ_BUc67ZznDRR8OL03lSLkCVRXrfWozd9yx3qPRYXhG8AxU-PZT4FL5oWKjvM8E_LuQX1UcUc1uG8IHPlwjxsroUJo)
+$$
+\begin{align}
+TransformativeReaction = &
+\begin{cases}
+4 & \text{if, } triggering\ Overloaded\\
+3 & \text{if, } triggering\ Shatter\\
+2.4 \times ECTriggers & \text{if, } triggering\ ElectroCharged\\
+1.2 & \text{if, } triggering\ Swirl\\
+1 & \text{if, } triggering\ Superconduct\\
+0 & \text{otherwise}
+\end{cases}
+\\
+& \times \biggl( 1 + \frac{6.66 \times EM}{1400 + EM} + ReactionBonus \biggr)\\
+& \times LevelMultiplier \times EnemyResistanceMultiplier
+\end{align}
+$$
+
+$$
+\begin{align}
+LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times LvlCharacter^{2} \\
+& - 0.2523 \times LvlCharacter + 14.74
+\end{align}
+$$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
-| **ElectroCharged Triggers** | The number of times Electro-Charged triggers, and depends on the elemental gauge strength of the hydro and electro elements applied to the enemy. |
+| **ECTriggers** | The number of times Electro-Charged triggers, and depends on the elemental gauge strength of the hydro and electro elements applied to the enemy. |
 | **EM** | The character's total Elemental Mastery. |
 | **ReactionBonus** | Includes reaction damage bonuses from the Thundering Fury and Viridescent Venerer 4-piece sets and from Mona's Constellation 1. |
 | **LevelMultiplier** | Check the [Genshin Wikia](https://genshin-impact.fandom.com/wiki/Damage#Transformative_Reaction_Damage). |
-| **EnemyResistance Multiplier** | Uses the formula above, but for the element of the transformative reaction \(pyro for overloaded, physical for shattered, electro for electro-charged, cryo for superconduct, and the element being swirled for swirl\). |
+| **EnemyResistanceMultiplier** | Uses the formula above, but for the element of the transformative reaction \(pyro for overloaded, physical for shattered, electro for electro-charged, cryo for superconduct, and the element being swirled for swirl\). |
 | **Proc** | The damage dealt by weapon and ability procs when they trigger, such as Prototype Archaic or Xiangling's constellation 2. To calculate this damage, substitute the proc percentage \(e.g. 240% for Prototype Archaic R1\) for Talent in the damage formula. Note that weapon proc effects always deal physical damage, and are therefore affected by physical damage bonuses and physical resistance, even if an elemental attack is used to trigger them. |
 
 By Zakharov\#5645 and \[Neko\]\#3521

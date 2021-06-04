@@ -14,5 +14,5 @@ The new format of the TCL is under heavy construction as we work to move over 18
 
 ## Newsletter
 
-The newsletter is a way for you to catchup on the latest submissions to the theorycrafting library \(TCL\) quickly without needing to hop between servers and channels to see them. They will be updated every _insert timeframe here_ and archived in a section underneath.
+The newsletter is a way for you to catchup on the latest submissions to the Theorycrafting Library \(TCL\) quickly without needing to hop between servers and channels to see them. They will be updated every 3 weeks and archived in a section underneath.
 
