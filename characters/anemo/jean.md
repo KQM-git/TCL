@@ -77,7 +77,7 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 | Particles | 2~3 \(1:2\) |
 | GU | 2U |
 | Cooldown | 6s |
-| Cast frames | 23 |
+| Cast frames | 46 |
 {% endtab %}
 
 {% tab title="Dandelion Breeze" %}
