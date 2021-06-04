@@ -107,9 +107,15 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 
 {% tabs %}
 
+{% tab title="Passive" %}
+
 ### Encyclopedic Expertise
 
 Displays the location of nearby resources unique to Liyue on the mini-map
+
+{% endtab %}
+
+{% tab title="Ascension 1" %}
 
 ### Proviso
 
@@ -117,7 +123,9 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 
 * The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 
+{% endtab %}
 
+{% tab title="Ascension 4" %}
 
 ### Blazing Eye
 
@@ -125,10 +133,13 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 
 | Type | Talent % | GU | Damage Type |
 | :--- | :--- | :--- | :--- |
-| Xiezhi's Eye | 80% | 1A | Charged Attack |
+| Blazing Eye | 80% | 1A | Charged Attack |
 
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
+
+  {% endtab %}
+  {% endtabs %}
 
 ## Constellations
 
