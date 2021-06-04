@@ -151,7 +151,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
   {% endtab %}
   {% endtabs %}
 
-## Constellations
+\#\# Constellations
 
 {% tabs %}
 {% tab title="C1" %}
