@@ -165,7 +165,8 @@ Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword
 
 * This effect is multiplicative. 
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#evilsoother)
-  {% endtab %}
+
+{% endtab %}
 
 {% tab title="C5" %}
 ### Embrace of Rain
