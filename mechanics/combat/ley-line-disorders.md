@@ -43,3 +43,7 @@ Other auras applied to your characters beforehand are removed entirely and do no
 * Asaki#9139
 * Pitty Pat#0286
 * Kimaen#3382
+
+## Evidence Vault
+
+{% page-ref page="../../evidence/mechanics/combat/ley-line-disorders.md" %}
