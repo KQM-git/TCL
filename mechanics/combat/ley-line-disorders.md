@@ -1,6 +1,6 @@
-# Leylines
+# Ley Line Disorders
 
-Leylines disorders operate by setting your party's gauge to the following characteristics:
+Ley Line Disorders operate by setting your party's gauge to the following characteristics:
 
 ### Hydro: Slowing Waters
 
