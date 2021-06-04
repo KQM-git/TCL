@@ -34,8 +34,6 @@ Diona's **Drunken Mist** will leave a field that grants its Elemental Mastery bo
 {% endtab %}
 {% endtabs %}
 
-
-
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/field-buffs.md" %}

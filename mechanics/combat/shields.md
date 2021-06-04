@@ -61,7 +61,7 @@ The answer is **No,** Shields **Don't** stack. For Example, Casting a Shield tha
 
 ## Shields and I-frames
 
-If the on-field character gains I-frames through dashing and possesses a shield, their shield will also take no damage. However, if a character gains I-frames through using their burst, their shield *will* take damage, while the character will not.
+If the on-field character gains I-frames through dashing and possesses a shield, their shield will also take no damage. However, if a character gains I-frames through using their burst, their shield _will_ take damage, while the character will not.
 
 ## Special Cases
 
@@ -142,3 +142,4 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 **Evidence Vault**:
 
 {% page-ref page="../../evidence/mechanics/combat/shields.md" %}
+

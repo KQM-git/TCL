@@ -219,3 +219,4 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/diluc.md" %}
+

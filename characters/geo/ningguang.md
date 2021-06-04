@@ -67,7 +67,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 | HP | 66% |
 | Cooldown | 12s |
 | GU | 1U |
-| Particles | 3~4 (3:2) |
+| Particles | 3~4 \(3:2\) |
 | Frames |  |
 | Motion Value |  |
 {% endtab %}
@@ -118,13 +118,19 @@ When a Normal Attack hits, it deals AoE Geo DMG.
 {% endtab %}
 
 {% tab title="C2" %}
+
+{% tab %}
 #### Shock Effect
+{% endtab %}
 
+{% tab %}
 When **Jade Screen** is shattered, its CD will reset. This effect can occur once every 6s.
+{% endtab %}
 
+{% tab %}
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
-  {% endtab %}
+{% endtab %}
 
 {% tab title="C3" %}
 #### **Majesty be the Array of Stars**

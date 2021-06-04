@@ -69,7 +69,7 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Infusion Duration | 2.5s |
 | Field Duration | 10s |
 | Cooldown | 15s |
-| Particles | 4 (-) |
+| Particles | 4 \(-\) |
 | Cast GU | 2B |
 | Infused Attack GU | 1A |
 | Frames | 57 |
@@ -128,14 +128,20 @@ The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 {% endtab %}
 
 {% tab title="C2" %}
+
+{% tab %}
 ## Atmospheric Revolution
+{% endtab %}
 
+{% tab %}
 Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
+{% endtab %}
 
+{% tab %}
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
-  {% endtab %}
+{% endtab %}
 
 {% tab title="C3" %}
 ## Cloudburst

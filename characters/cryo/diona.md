@@ -83,7 +83,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Duration | 2.3s per Claw |
 | Press Cooldown | 6s |
 | Hold Cooldown | 15s |
-| Particles | 0~1 (1:4) check per paw |
+| Particles | 0~1 \(1:4\) check per paw |
 | Frames | 15 Press ~ 24 Hold |
 | MV/s | 469.5%/s Press ~ 733.6%/s Hold |
 

@@ -76,7 +76,7 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 | L3 **Rave** | 201.6%Def + 1097 |
 | Duration | 12s |
 | Cooldown | 18s |
-| Particles | 4 (-) |
+| Particles | 4 \(-\) |
 | Intial hit GU | 1A |
 | Rave GU | 1A |
 {% endtab %}

@@ -68,8 +68,8 @@ Can be used mid-air.
 Starts with 2 charges.
 
 | Type | Talent 6 DMG% | Frames | Motion Value | Particles |
-| :--- | :--- | :--- | :--- | ---- |
-| Skill DMG | 353.92% | 36 | 589.9%/s | 3 (-) |
+| :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 353.92% | 36 | 589.9%/s | 3 \(-\) |
 | CD | 10s | ~ | ~ | ~ |
 
 * A Double E Cast is only 60 frames long.
