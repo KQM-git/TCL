@@ -25,7 +25,6 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-
 {% tab title="Strike of Fortune" %}
 
 **Normal Attacks**  
@@ -112,8 +111,8 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
 
-  {% endtab %}
-  {% endtabs %}
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
