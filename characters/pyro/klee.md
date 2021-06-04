@@ -65,7 +65,7 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 | Bounce DMG | 133.28% |
 | Mine DMG | 45.92% |
 | Mine Duration | 15s |
-| Particles | 20s |
+| Particles | 4 \(-\) |
 | Cooldown | 20s |
 | Bounce GU | 2B |
 | Mine GU | 1A |

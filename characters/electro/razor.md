@@ -73,8 +73,8 @@ Razor slams his hand down, dealing Electro damage in a wide circle around him.
 
 | Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 278.88% | 6s | 2B | 2~3 \(1:9\) | 74 | 226.1%/s |
-| Hold DMG | 413.28% | 10s | 2B | 3~4 \(1:9\) | 92 | 269.5%/s |
+| Press DMG | 278.88% | 6s | 2B | 3 \(-\) | 74 | 226.1%/s |
+| Hold DMG | 413.28% | 10s | 2B | 4 \(-\) | 92 | 269.5%/s |
 {% endtab %}
 
 {% tab title="Lightning Fang" %}

@@ -108,6 +108,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 | Duration | 30s |
 | Cooldown | 8s |
 | GU | 2U |
+| Particles | 3~4 \(2:1\) |
 | Frames |  |
 | Motion Value |  |
 {% endtab %}

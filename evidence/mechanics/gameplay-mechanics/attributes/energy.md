@@ -65,3 +65,42 @@ Spreadsheet includes videos of ER% testing, multi-hit attack testing, on hit tes
 **Significance:**  
 Attacking enemies with normal/charged attacks can give extra energy. Although in small amounts, being able to cast a burst because of the mechanic may make or break an abyss run. Ideally, this would be done when waiting for particles, waiting for cooldowns, and/or when outside of rotations.
 
+## Energy Generation Update
+
+**By:** Steph\#3614, wiremash\#0433, Zebin\#1678, Greyhound\#7836, mol\#3280  
+**Added:** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845560562221056001/850107809877196870/transcript-energy-gen-numbers.html)
+
+**Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.
+
+**Evidence:** With help from datamine data, test on various character were recorded to ensure that the data were right.
+
+Elemental skills that has a fixed production value will be cast for at least 50 times, while elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
+
+In addition, several new conditions to trigger particle generation had been added to specific character notes.
+
+Datamine data here: [https://github.com/Dimbreath/GenshinData/tree/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be](https://github.com/Dimbreath/GenshinData/tree/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be) Elemental particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
+
+**Conclusion:** Changes made to the sheet were as follow
+
+* Amber: 3~4 \(1:9\) -&gt; 4 \(-\)
+* Anemo MC Hold E: 2~4 \(1:9:1\) -&gt; 3~4 \(2:1\)
+* Geo MC: 2~4 \(1:2:1\) -&gt; 3~4 \(2:1\)
+* Chongyun: 3~4 \(1:1\) -&gt; 4 \(-\)
+* Diona: 1 per paw -&gt; 0~1 \(1:4\) check per paw \(5 -&gt; 4 particle average per hold, 2 -&gt; 1.6 particle average per tap\) 
+* Jean: 2~3 \(1:1\) -&gt; 2~3 \(1:2\)
+* Kaeya: 2~3 \(1:1\)/4~5 \(1:1\) -&gt; 2~3 \(1:2\)/4~5 \(1:2\)
+* Keqing: 2~3 \(9:1\) -&gt; 2~3 \(1:1\), included extra note "Produce particle on leap connect or Thunderclap Slash connect. Both produce same amount of particle."
+* Klee: 3~4 \(1:9\) -&gt; 4 \(-\)
+* Lisa: 3~5 \(1:1:1\) -&gt; 5 \(-\)
+* Mona: 3~4 \(1:1\) -&gt; 3~4 \(2:1\), included extra note "only produce particle when final explosion connects"
+* Ningguang: 3~4 \(1:9\) -&gt; 3~4 \(3:2\) 
+* Razor Tap E: 2~3 \(1:9\) -&gt; 3 \(-\)
+* Razor Hold E: 3~4 \(1:9\) -&gt; 4 \(-\)
+* Sucrose: 3~4 \(1:1\) -&gt; 4 \(-\)
+* Venti Tap E: 2~3 \(1:9\) -&gt; 3 \(-\)
+* Venti Hold E: 3~4 \(1:9\) -&gt; 4 \(-\)
+* Xingqiu: 4~5 \(1:1\) -&gt; 5 \(-\)
+* Xinyan: 3~4 \(1:9\) -&gt; 4 \(-\)
+* Xiao: 2~3 \(1:9\) -&gt; 3 \(-\)
+

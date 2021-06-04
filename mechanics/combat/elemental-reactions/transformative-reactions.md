@@ -30,7 +30,7 @@ $$
 
 Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
 
-Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds.
+Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only occur once every 0.5 seconds.
 
 ## **Overload**
 

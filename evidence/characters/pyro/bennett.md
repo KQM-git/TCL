@@ -40,12 +40,11 @@ Prevent knockback and maximise DPS
 ## Bennett Hold E Counts as Self Damage
 
 **By:** Sir\_pick\_the\_prick\#2209  
-**Added:** 5/25/2021 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
+**Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
 
-**Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword. 
+**Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
 
-**Evidence:** [Video](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4) 
+**Evidence:** [Video](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4)
 
 **Significance:** Dont hold E for its full duration under Xingqiu's rainsword, or you'll lose a rainsword instance.
 

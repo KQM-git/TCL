@@ -75,6 +75,8 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 {% endtab %}
 
 {% tab title="Oz" %}
+
+{% tab %}
 | Oz Details | Talent% / Data |
 | :--- | :--- |
 | Normal Attack | 124.32% |
@@ -82,13 +84,15 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | GU | 1A |
 | Particles | 0~1 \(2:3\) |
 | Damage Type | Elemental Skill |
+{% endtab %}
 
+{% tab %}
 * **Oz** has a duration of 10s at C0
 * **Oz** normal attacks a total of 10 times over the duration.
 * Oz ICD Details: Oz will apply electro...
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
-  {% endtab %}
+{% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
 Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy.
@@ -114,13 +118,11 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 ## **Ascension Passives**
 
 {% tabs %}
-{% tab title="Passive" %}
+
 ### Mein Hausgarten
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
 ### Stellar Predator
 
 When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
@@ -133,9 +135,9 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Damage Type | Charged Attack |
 
 * This can be used to activate the passive on prototype crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+
+
 ### Undone Be Thy Sinful Hex
 
 \(previously known as **Lightning Smite**\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
@@ -146,10 +148,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * There is a 0.5s ICD between A4 procs.
-* 
-  The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
-  {% endtab %}
-  {% endtabs %}
+* The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
 
 \#\# Constellations
 

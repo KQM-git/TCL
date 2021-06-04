@@ -70,8 +70,8 @@ Summons a larger Wind Domain at Venti's location, dealing AoE Anemo DMG and laun
 
 | Effect | Talent 6% | CD | GU | Particles |
 | :--- | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 2U | 2~3 \(1:9\) |
-| Hold | 532% | 15s | 2U | 3~4 \(1:9\) |
+| Press | 386.40% | 6s | 2U | 3 \(-\) |
+| Hold | 532% | 15s | 2U | 4 \(-\) |
 
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
 {% endtab %}
@@ -104,6 +104,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
     * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
 * Every third infused elemental tick applies 1U of the absorbed element, for a maximum of 6 applications.
 * Venti's burst snapshots.
+* Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.
 {% endtab %}
 {% endtabs %}
 

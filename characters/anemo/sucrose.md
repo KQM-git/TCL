@@ -63,7 +63,8 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | :--- | :--- |
 | Skill DMG | 295.68% |
 | Cooldown | 15s |
-| Gauge Units | 1GU |
+| GUs | 1GU |
+| Particles | 4 \(-\) |
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
@@ -128,10 +129,16 @@ Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
+
+{% tab %}
 ### Alchemania
+{% endtab %}
 
+{% tab %}
 Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
+{% endtab %}
 
+{% tab %}
 * This counter starts even when E isn't on CD
   * Swapping characters and/or death do not reset the counter
   * This counter lasts for over 30s, the exact time cap is still unknown

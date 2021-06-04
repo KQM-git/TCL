@@ -25,7 +25,7 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Favonius Bladework - Edel" %}
+
 **Normal Attack**
 
 Eula performs up to 5 consecutive strikes.
@@ -58,9 +58,7 @@ Eula plunges from mid-air to strike the ground, damaging opponents along the pat
 | Plunge DMG | 108.41% |
 | Low Plunge DMG | 216.78% |
 | High Plunge DMG | 270.77% |
-{% endtab %}
 
-{% tab title="Icetide Vortex" %}
 **Press:**  
 Slashes swiftly, dealing **Cryo** DMG. When it hits an opponent, Eula gains a stack of **Grimheart** that stacks up to 2 times. These stacks can only be gained once every 0.3 seconds.
 
@@ -92,9 +90,9 @@ Increases Eula's resistance to interruption and her DEF.
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
-{% endtab %}
 
-{% tab title="Glacial Illumination" %}
+
+
 Brandishes her greatsword, dealing **Cryo** DMG to nearby opponents and creates a **Lightfall Sword** that follows her around for a certain duration.
 
 When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst **deal DMG** to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.
@@ -128,8 +126,6 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 * Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
-  {% endtab %}
-  {% endtabs %}
 
 ## **Ascension Passives**
 
@@ -160,13 +156,19 @@ When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and
 
 {% tabs %}
 {% tab title="C1" %}
+
+{% tab %}
 ### Tidal Illusion
+{% endtab %}
 
+{% tab %}
 Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
+{% endtab %}
 
+{% tab %}
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-  {% endtab %}
+{% endtab %}
 
 {% tab title="C2" %}
 ### Lady of Seafoam

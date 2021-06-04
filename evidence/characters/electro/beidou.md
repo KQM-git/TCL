@@ -222,5 +222,5 @@ shield snapshot difference
 
 **Finding:** Beidou's C4 applies 1A of Electro.
 
- **Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I) 
+**Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
 

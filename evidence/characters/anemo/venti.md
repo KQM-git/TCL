@@ -118,3 +118,18 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
 
+## Venti Burst On Top of Zhongli Pillar
+
+**By:** EdisonsMathsClub\#6469  
+**Added:** 6/3/2021
+
+**Finding:** Venti's Vortex can be fired on top of Zhongli's Pillar
+
+**Evidence:** [https://www.youtube.com/watch?v=veVNQh7wtKs](https://www.youtube.com/watch?v=veVNQh7wtKs)
+
+1. Stand 3 square tiles from your desired Venti firing location.  
+2. Place Zhongli's pillar, it should be 4 tiles away from the Venti firing location.  
+3. Walk to desired Venti firing location and fire Vortex, it should land ontop of it.  
+
+**Significance:** This allows for Venti to pull in targets whilst keeping them just low enough for melee units to hit such as Childe, despite being within the 20 levels to pull them in. However due to unknown reasons \(at the time, see &lt;\#846381351012007967&gt; \), the enemies will float \(perhaps due to poise\) after some time.
+

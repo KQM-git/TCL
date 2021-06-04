@@ -36,3 +36,13 @@ As shown in the video, a Wake of Earth wall inbetween the Geovishap and the play
 **Significance:**  
 Enemy movement manipulation when using Geo Traveler in a team comp.
 
+## Aether Analysis
+
+**By:** Liunel\#2555  
+**Added:** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/820951727720497162/850178239632900111/transcript-aether-weapons-and-builds.html)
+
+Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.
+
+[https://docs.google.com/spreadsheets/d/1\_\_g4Q5c4uD5sG2gWzS3IwAkQEU\_sO9-ivNALB9\_sQmI/edit?skip\_itp2\_check=true\#gid=1062073362](https://docs.google.com/spreadsheets/d/1__g4Q5c4uD5sG2gWzS3IwAkQEU_sO9-ivNALB9_sQmI/edit?skip_itp2_check=true#gid=1062073362)
+

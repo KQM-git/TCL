@@ -62,7 +62,7 @@ Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 | Skill DMG | 267.68% |
 | CD | 6s |
 | GU | 2B |
-| Particles | 2~3 \(1:2\) |
+| Particles | 2~3 \(1:2\) / 4~5 \(1:2\) with A4 |
 | Frames | 58 |
 
 * **Frostgnaw** does not have any hitlag.

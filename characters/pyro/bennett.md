@@ -25,7 +25,7 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Strike of Fortune" %}
+
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
@@ -55,9 +55,7 @@ Enemies struck by Bennett's charged attack will be staggered or launched.
 | Plunge Impact | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
-{% endtab %}
 
-{% tab title="Passion Overload" %}
 **Press**  
 Bennett strikes once, dealing Pyro DMG.
 
@@ -68,18 +66,18 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2 | 52 | 222.3%/s |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 | 112 | 132%/s |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 | 197 | 134.7%/s |
+| E Press | 192.64% | 5s | 2B | 2 \(-\) | 52 | 222.3%/s |
+| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 \(-\) | 112 | 132%/s |
+| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 \(-\) | 197 | 134.7%/s |
 | Explosion | 184.8% | ~ | 1A | ~ | ~ | ~ |
 
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
 * When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
 * Frame counts are done against Ruin Guards.
-{% endtab %}
 
-{% tab title="Fantastic Voyage" %}
+
+
 Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
 
 **Inspiration Field**
@@ -105,8 +103,6 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
-  {% endtab %}
-  {% endtabs %}
 
 ## **Ascension Passives**
 
@@ -161,7 +157,7 @@ Using a Normal Attack when executing the second attack of Passion Overload’s C
 
 | Attack | Talent 6% | Talent 9% | GUs |
 | :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% | 3 * 1A |
+| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% | 3 \* 1A |
 {% endtab %}
 
 {% tab title="C5" %}
@@ -255,3 +251,4 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
+

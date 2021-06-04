@@ -110,7 +110,7 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Initial Storm DMG | 246% | 1GU | ~ |
 | Max Storm DMG | 269% | 1GU | ~ |
 | Base Cooldown | 5s | ~ | 2 |
-| Max Charge Cooldown | 8s | ~ | 2~4 \(1:9:1\) |
+| Max Charge Cooldown | 8s | ~ | 3~4 \(2:1\) |
 {% endtab %}
 
 {% tab title="Gust Surge" %}
