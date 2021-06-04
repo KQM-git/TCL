@@ -40,7 +40,8 @@ Prevent knockback and maximise DPS
 ## Bennett Hold E Counts as Self Damage
 
 **By:** Sir\_pick\_the\_prick\#2209  
-**Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
+**Added:** 5/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
 

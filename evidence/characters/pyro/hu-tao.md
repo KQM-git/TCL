@@ -31,7 +31,9 @@ Also, if you reset BB right before your PP duration end, you can have a maximum 
 
 ## Hu tao Vape Melt Consistency
 
-**By:** jamie\#9248 **Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835296118795534388/846695458117124096/transcript-hu-tao-vape-melt-consistency.html)
+**By:** jamie\#9248  
+**Added:** 5/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835296118795534388/846695458117124096/transcript-hu-tao-vape-melt-consistency.html)
 
 **Finding:** Tested out the freeze underlying aura and how it pertains to how hu tao + dragon's bane. Ran the standard freeze team hu tao/xingqiu/diona/kaeya and tested different combos \(n1c, n1cd, n1cj, n2cj\), in order to see if there's a difference which would keep a hydro aura under the enemy as much as possible in order to proc dragon's bane on melt as much as possible. Both n1cd and n1cj were found to produce more than 2x the amount of procs.
 
@@ -65,7 +67,9 @@ Also melt comps might have an even higher ceiling than expected, as afaik melt% 
 
 ## Mona Q bubble pops with Hu tao E
 
-**By:** Tryhardosaurus\#0007 **Added:** 5/25/2021 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841629546008018955/846705904598777886/transcript-mona-q-bubble-pops-with-hutao-e-cast.html)
+**By:** Tryhardosaurus\#0007  
+**Added:** 5/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841629546008018955/846705904598777886/transcript-mona-q-bubble-pops-with-hutao-e-cast.html)
 
 **Finding:** Mona Q can be popped by Hutao E cast animation even if this doesn’t deal any damage
 

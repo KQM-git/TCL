@@ -26,6 +26,8 @@ description: >-
 
 {% tabs %}
 
+{% tab title="Strike of Fortune" %}
+
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
@@ -56,6 +58,10 @@ Enemies struck by Bennett's charged attack will be staggered or launched.
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
 
+{% endtab %}
+
+{% tab title="Passion Overload" %}
+
 **Press**  
 Bennett strikes once, dealing Pyro DMG.
 
@@ -76,7 +82,9 @@ Bennett strikes once, dealing Pyro DMG.
 * When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
 * Frame counts are done against Ruin Guards.
 
+{% endtab %}
 
+{% tab title="Fantastic Voyage" %}
 
 Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
 
@@ -103,6 +111,9 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
+
+  {% endtab %}
+  {% endtabs %}
 
 ## **Ascension Passives**
 

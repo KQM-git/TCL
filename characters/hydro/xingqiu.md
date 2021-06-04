@@ -26,6 +26,8 @@ description: >-
 
 {% tabs %}
 
+{% tab title="Guhua Style" %}
+
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
@@ -54,7 +56,9 @@ Enemies struck by Xingqiu's charged attack will be staggered or launched.
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
 
+{% endtab %}
 
+{% tab title="Guhua Sword: Fatal Rainscreen" %}
 
 Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of **Rain Swords**, which will orbit your active character.
 
@@ -82,6 +86,10 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * this occurs with the orbitals created by both Xingqiu's Skill and Burst
 
+{% endtab %}
+
+{% tab title="Guhua Sword: Raincutter" %}
+
 Push back nearby enemies and activate **Rainbow Bladework**. While under the effect of **Rainbow Bladework**:
 
 * Active character’s Normal Attacks will trigger a wave of **Sword Rain** attacks, dealing Hydro DMG.
@@ -101,6 +109,10 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 
 * **Sword Rain** damage calculation does not snapshot.
 * Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice.
+
+{% endtab %}
+
+{% endtabs %}
 
 ## **Ascension Passives**
 
@@ -148,18 +160,12 @@ Increases the Level of Guhua Sword: Raincutter by 3.
 
 {% tab title="C4" %}
 
-{% tab %}
 ### **Evilsoother**
-{% endtab %}
-
-{% tab %}
 Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.
-{% endtab %}
 
-{% tab %}
 * This effect is multiplicative. 
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#evilsoother)
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C5" %}
 ### Embrace of Rain

@@ -51,7 +51,8 @@ Total length of E field: ~10 seconds \(which matches with the duration of Chongy
 
 ## Diona Field Characteristics
 
-**By:** Monochrom9\#8058 **Added:** 06/02/2021
+**By:** Monochrom9\#8058  
+**Added:** 06/02/2021
 
 **Finding:** The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.
 
