@@ -110,7 +110,7 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 
-  {% endtab %}
+{% endtab %}
 
 {% tab title="Stellaris Phantasm" %}
 
