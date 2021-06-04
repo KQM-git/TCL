@@ -27,6 +27,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Lightning Touch" %}
+
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 
@@ -72,7 +73,6 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 
 * Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
 * Clears **Conductive** status on hit.
-{% endtab %}
 
 | Effect | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
