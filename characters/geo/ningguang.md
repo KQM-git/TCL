@@ -125,7 +125,8 @@ When **Jade Screen** is shattered, its CD will reset. This effect can occur once
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
-  {% endtab %}
+
+{% endtab %}
 
 {% tab title="C3" %}
 #### **Majesty be the Array of Stars**
@@ -149,6 +150,7 @@ Increases the Level of Jade Screen by 3.
 #### **Grandeur be the Seven Stars**
 
 When Starshatter is used, Ningguang gains 7 **Star Jades**.
+
 {% endtab %}
 {% endtabs %}
 
