@@ -110,8 +110,6 @@ The following is a table consisting of different types of **Elemental Shields** 
 | Geo | 16GU |
 | Claymore N1 | 14 Hits |
 
-**Important: Geo Slimes** can lose their **Shield** through **Crystallize Reaction.** Claymore attacks vary in strength from character to other but the difference should be 1 Normal.
-
 {% endtab %}
 
 {% tab title="Geo Slime" %}
@@ -121,6 +119,8 @@ The following is a table consisting of different types of **Elemental Shields** 
 | Claymore N1   | 6             |
 | Ningguang N1  | 6~7           |
 | Overload      | 6~7           |
+
+**Important: Geo Slimes** can lose their **Shield** through **Crystallize Reaction.** Claymore attacks vary in strength from character to other but the difference should be 1 Normal.
 
 {% endtab %}
 {% endtabs %}
