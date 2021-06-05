@@ -69,7 +69,9 @@ See the two below screenshots and comments. We already know that Swirl can only 
 **Significance:**  
 This strongly caps the potential AoE damage from both reactions, making Superconduct always strictly worse than Swirl and Overload in terms of damage.
 
-## Overload on Electrocuted Water Bodies
+## Overload
+
+### Overload on Electrocuted Water Bodies
 
 **By:** GrygrFlzr\#6290  
 **Added:** 11/18/2020
@@ -93,6 +95,58 @@ Credits to @Way for the initial finding.
 * Potential shenanigans vs. Oceanid?
 * Alternative mining method \(terrible, but hey\)
 * Order of operations - does this mean overload overrides vaporize? **\(We now know you can trigger both reactions at once\).**
+
+### Overload Reaction ICD
+
+**By:** Sir_pick_the_prick#2209, Terrapin#8603, Isu#6867, and Aluminum#5462   
+Added: 6/4/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840502239248252928/850596327720484885/transcript-transformative-reaction-icd-parameters.html)
+
+**Finding:**  
+Overload, and so far overload alone, seems to have a reaction specific icd of 0.5 sec (15 frames in 30 fps and 30 frames in 60 fps) where enemies overloaded or hit by the aoe caused by an overload procced by one character is then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
+
+**Evidence:**
+
+* [clip 1:](https://cdn.discordapp.com/attachments/840502239248252928/840520178403901450/OL_gauge_comparison.mp4) after gaining 2u electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
+* [clip 2:](https://cdn.discordapp.com/attachments/840502239248252928/840529070801682432/OverloadLimit7.mp4) the second treasure hoarder hit is hit by 2 overloads, 1 originating from himself and the other from an ally hit by overload. However, despite being in a cluster of 3 enemies hit in the second overload as evidenced by hit double knockback, only 2 numbers appear, showing his invulnerability to the overload the second time.
+* [clip 3 and 4:](https://youtu.be/wqxnXhkMuNg) in both cases, the enemy is first hit by 4u from beidou. 
+  * Then, in clip 3, guoba is summoned, who then attacks within 3 frames of klee who autoattacks. 2 overload numbers appear.
+  * In clip 4, guoba is not summoned, and klee just n1cs. 1 overload number.
+* [clip 5:](https://cdn.discordapp.com/attachments/840502239248252928/840515478086483968/OverloadLimit6.mp4) bennett applies gauge 3 times from level 2 e, but only causes 2 overloads. the last hit is past the 0.5sec timer.
+* [clip 6:](https://cdn.discordapp.com/attachments/840502239248252928/840538987420188701/OL_different_targets_2.mp4) Klee n1cs 2 different enemies, and overloads twice.
+* [clip 7:](https://cdn.discordapp.com/attachments/840502239248252928/840513374496489492/Rosaria_E_Superconduct.mp4) Rosaria double scs, proving sc does not follow the same rules.
+* [clip 8:](https://youtu.be/_HM5Y3aru88)  This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the fatui would have died.
+* [clip 9:](https://cdn.discordapp.com/attachments/840502239248252928/840743262305779712/OverloadLimit9.mp4) original vid
+  * Overloads occur at: 0.5, 2.0, 2.5, 3.0, 3.5, 4.1, 5.0
+  * As evidence of every enemy getting hit with overload. Lisa ult is just above the icd, and proves that the icd is at least <0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
+  * [Screenshot of 5 overloads](https://cdn.discordapp.com/attachments/840502239248252928/840743912473624576/unknown.png)
+* [clip 10:](https://youtu.be/uuj8-ITWzmw) extra vid proving lisa is on the edge of the ICD.
+
+**Significance:**   
+Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more pyro off-field enablers.
+
+## Superconduct
+
+### The 12 Second Duration of Superconduct
+
+**By:** EternalDream\#5503  
+**Added:** 12/19/2020
+
+**Finding:**
+
+Or well, more like extra verification since this isn't actually in the library yet and I know people throw around "8 seconds" a lot, but Superconduct actually lasts for 12 seconds. This is not \(noticably\) affected by anything like EM or skill level or GU etc, seems to be static.
+
+**Evidence:**
+
+[https://youtu.be/f9V\_58xISMg](https://youtu.be/f9V_58xISMg)
+
+[https://youtu.be/PY1eCxfoYKo](https://youtu.be/PY1eCxfoYKo)
+
+**Significance:**
+
+Diona is perfectly viable for SC uptime even without Sacrificial Bow when using only Hold E, leaving only 3 seconds to cover if she was the one to trigger SC in the first place \(and it will usually be your Electro character instead, further closing the downtime\)
+
+In addition, like other debuffs/buffs as has been recently discovered, it is affected by hitlag extending the duration, further closing the gap for her Hold E cooldown.
 
 ## Electrocharged
 
@@ -248,28 +302,7 @@ EDIT: My current belief is that doing this order of 1u Electro -&gt; 2u Razor/Be
 
 Hitlag may be throwing off a lot of our testing, definitely in EC and possibly in other elements. Hopefully this is some sort of bug.
 
-## The 12 Second Duration of Superconduct
-
-**By:** EternalDream\#5503  
-**Added:** 12/19/2020
-
-**Finding:**
-
-Or well, more like extra verification since this isn't actually in the library yet and I know people throw around "8 seconds" a lot, but Superconduct actually lasts for 12 seconds. This is not \(noticably\) affected by anything like EM or skill level or GU etc, seems to be static.
-
-**Evidence:**
-
-[https://youtu.be/f9V\_58xISMg](https://youtu.be/f9V_58xISMg)
-
-[https://youtu.be/PY1eCxfoYKo](https://youtu.be/PY1eCxfoYKo)
-
-**Significance:**
-
-Diona is perfectly viable for SC uptime even without Sacrificial Bow when using only Hold E, leaving only 3 seconds to cover if she was the one to trigger SC in the first place \(and it will usually be your Electro character instead, further closing the downtime\)
-
-In addition, like other debuffs/buffs as has been recently discovered, it is affected by hitlag extending the duration, further closing the gap for her Hold E cooldown.
-
-## Gauge Decay Rates of Hydro and Electro Auras
+### Gauge Decay Rates of Hydro and Electro Auras
 
 **By:** Bobrokrot\#0111  
 **Added:** 2/4/2021
@@ -297,7 +330,53 @@ EDIT: this clip contradicts my explanation:[ https://streamable.com/exkn57](http
 
 One step closer to understanding EC I guess.
 
-## Reaction Priority in Comparison to Shatter
+### EC + Heavy Hits Stagger Lock
+
+**By:** Valeturi\#5963  
+**Added:** 04/05/2021
+
+**Finding:** Electro-charged + heavy hit instances can stagger lock.
+
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=LsBwNPbN6lk)
+
+1. Apply electro-charged and deal heavy hits to target
+2. Stagger resistance will be reduced
+3. A threshold will be met and allows electro-charged heavy hits to stun lock ruin guard
+
+Applying electro-charged \(EC\) and dealing heavy hits \(HH\) on ruin guards appears to reduce the ruin guard's stun resistance. This will eventually allow the ruin guard to be stun locked without weak point hits. Stun will continue until EC and HH application expires.
+
+First clip 0:00-0:40  
+Evidence that this is practicable in the overworld
+
+1. Xingqiu's Q + Beidou's Q = electro-charged normal attacks
+2. Xiao's Q empowers normal attacks and plunges to be HH capable
+3. Using electro-charged N1CJP for a duration will put the ruin guard into a pseudo stun state
+4. EC application expires
+5. Xiao's Q expires and loses HH potential
+6. Ruin guard is no longer stun locked and resumes attacking
+
+The weak point hit at 0:20 was accidental and does not contribute to EC/HH stunning.
+
+Second clip 0:41-2:04  
+Evidence that this is practicable in the abyss. Timestamps are of heavy hit instances.
+
+* 01:10 - Xiao's N1CP stuns 
+* 01:20 - Xingqiu's Q stun 
+* 01:28 - Beidou's perfect E stun 
+* 01:30 - Beidou's Q stun 
+* 01:37 - Xiao's N1CP stun resumes
+
+**Significance:**
+
+* Ruin guards can be disabled without weak point hits
+* Ruin guards can be more easily CC'd in close-quarters
+* AOE DMG can be more easily consolidated
+* Incoming DMG can be mitigated
+* Abyss teams can forgo the need for an archer to disable ruin guards
+
+## Frozen + Shatter
+
+### Reaction Priority in Comparison to Shatter
 
 **By:** EternalDream\#5503
 
@@ -318,7 +397,7 @@ This is especially relevant for Razor, who cannot Superconduct Frozen targets wi
 
 This also allows Chongyun to chain Shatter back to back every ICD of his cryo-converted normal attacks, as long as Hydro element is re-applied immediately after Shatter.
 
-## Freeze Aura Mechanics
+### Freeze Aura Mechanics
 
 **By:** BowlSoldier\#3528  
 **Added:** 12/22/2020
@@ -359,7 +438,7 @@ Geo immediately Shatters with the Freeze aura before Crystallize can happen, the
 **Significance:**  
 This improves our knowledge of Freeze and how to sequence reactions.
 
-## **Duration** of Freeze Aura
+### **Duration** of Freeze Aura
 
 **By:** BowlSoldier\#3528  
 **Added:** 12/22/2020
@@ -398,7 +477,7 @@ Here is the full graph:[ https://www.desmos.com/calculator/jwzecgzmld](https://w
 
 Only the smallest U matters in a Freeze reaction. We can apply 1U and 2U triggers to try to figure out the "strength" U of Freeze.
 
-## Various GU Values of Shatter based on Different Types of Attacks
+### Various GU Values of Shatter based on Different Types of Attacks
 
 **By:** Bobrokrot\#0111
 
@@ -464,51 +543,7 @@ bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17i
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
-## EC + Heavy Hits Stagger Lock
-
-**By:** Valeturi\#5963  
-**Added:** 04/05/2021
-
-**Finding:** Electro-charged + heavy hit instances can stagger lock.
-
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=LsBwNPbN6lk)
-
-1. Apply electro-charged and deal heavy hits to target
-2. Stagger resistance will be reduced
-3. A threshold will be met and allows electro-charged heavy hits to stun lock ruin guard
-
-Applying electro-charged \(EC\) and dealing heavy hits \(HH\) on ruin guards appears to reduce the ruin guard's stun resistance. This will eventually allow the ruin guard to be stun locked without weak point hits. Stun will continue until EC and HH application expires.
-
-First clip 0:00-0:40  
-Evidence that this is practicable in the overworld
-
-1. Xingqiu's Q + Beidou's Q = electro-charged normal attacks
-2. Xiao's Q empowers normal attacks and plunges to be HH capable
-3. Using electro-charged N1CJP for a duration will put the ruin guard into a pseudo stun state
-4. EC application expires
-5. Xiao's Q expires and loses HH potential
-6. Ruin guard is no longer stun locked and resumes attacking
-
-The weak point hit at 0:20 was accidental and does not contribute to EC/HH stunning.
-
-Second clip 0:41-2:04  
-Evidence that this is practicable in the abyss. Timestamps are of heavy hit instances.
-
-* 01:10 - Xiao's N1CP stuns 
-* 01:20 - Xingqiu's Q stun 
-* 01:28 - Beidou's perfect E stun 
-* 01:30 - Beidou's Q stun 
-* 01:37 - Xiao's N1CP stun resumes
-
-**Significance:**
-
-* Ruin guards can be disabled without weak point hits
-* Ruin guards can be more easily CC'd in close-quarters
-* AOE DMG can be more easily consolidated
-* Incoming DMG can be mitigated
-* Abyss teams can forgo the need for an archer to disable ruin guards
-
-## Blunt Attacks have no ICD
+### Blunt Attacks have no ICD
 
 **By:** jstern25\#1399  
 **Added:** 04/09/2021
@@ -518,6 +553,18 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 **Evidence:** [https://youtu.be/3rAbh9Gp2jw](https://youtu.be/3rAbh9Gp2jw)
 
 **Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
+
+### Shatter Damage ICD
+
+**By:** Monochrom9\#8058  
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
+
+**Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
+
+**Evidence:** [Imgur GIF](%20https://imgur.com/a/NUt2o6H) 
+
+**Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
 
 ## Swirl
 
@@ -655,16 +702,4 @@ The second test shows that Zhongli's Crystallize on Noelle can only take 2 hits 
 The third test shows Noelle's Crystallize on Noelle take a single hit, and then is reset by Zhongli's Crystallize which then takes 2 hits before breaking on the third hit, taking 1139 damage.
 
 **Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
-
-## Shatter Damage ICD
-
-**By:** Monochrom9\#8058  
-**Added** 6/3/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
-
-**Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
-
-**Evidence:** [Imgur GIF](%20https://imgur.com/a/NUt2o6H) 
-
-**Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
 
