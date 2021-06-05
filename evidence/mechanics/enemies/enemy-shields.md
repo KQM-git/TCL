@@ -124,7 +124,7 @@ The detailed explanation with calculations can be found here: https://docs.googl
 
 ## Breaking Childe's Shield with Stagger
 
-**By:** Iron IV\#3832 and exyeboy69\#3215  
+**By:** Iron IV\#3832 and sexyeboy69\#3215  
 **Added:** 04/05/2021
 
 **Theory:** Childe's shield is broken through poise damage rather than raw damage.
@@ -137,3 +137,37 @@ The detailed explanation with calculations can be found here: https://docs.googl
 
 **Significance:** Prioritize stagger over damage when hitting Childe's shield.
 
+## Abyss Lector Shield Gauges
+
+**By:** Yukarix#6534, Ayzel#7399, Bobrokrot#0111, srl#2712
+**Added:** 6/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838292328292024330/850595853152550922/transcript-abyss-lector-shield-pyro-vs-cryo.html)
+
+**Finding:**  
+Pyro and cryo appear to be equally effective in terms of efficiency at depleting the shield of an Abyss Lector. This finding does not account for whether there are more pyro or cryo units that have the ability to apply their respective elements at a fast rate. It only accounts for the fact that 1GU of cryo deals the same damage to the Abyss Lector as 1GU of pyro. 
+
+Damage dealt (artifact/weapon quality) does not seem to matter with an exception of Ganyu. For Ganyu, it seems like with no artifacts & level 1 weapon, she takes the same amount of hits as Bennett, but starts to take less hits with a leveled weapon and artifacts. Units used to test pyro were Bennett & Xiangling. Units used to test cryo were Kaeya & Ganyu & Rosaria.
+
+**Significance:**  
+If you have pyro or cryo units that have fast elemental application, using one over another will not matter. Both should produce the same results given the same speed of elemental application.
+
+**Evidence:**
+
+* [Bennett with level 1 weapon:](https://youtu.be/OGZjtKcRIJg) took 17 hits with sliver of shield health remaining removed by 18th hit
+* [Bennett with level 90 aquila:](https://youtu.be/qkWolamA3wQ) took 17 hits with sliver of shield health remaining removed by 18th hit
+* [Bennett with level 90 aquila and high quality artifacts:](https://youtu.be/UgkRoeB20XY) still took 17 hits with sliver of shield health remaining removed by 18th hit
+* [Ganyu lvl 1 weapon:](https://youtu.be/jZvvOUV2IM8) took 17 charged shot w/ blooms + last sliver removed by 18th hit
+* [Ganyu level 1 weapon and very good artifacts:](https://youtu.be/EndJEp6jQgg) took 16 charged shot w/ bloom + last sliver removed by 17th hit
+* [Ganyu level 90 weapon and very good artifacts:](https://youtu.be/ou_saE7gpBM) took 13 charged shot w/ bloom + last sliver removed by 14th hit
+
+## An Extensive Look into Shield Damage
+
+By: vibe checker#5502  
+Added: 6/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839522017602568202/850623736780423209/transcript-an-extensive-look-into-shield-damage.html)
+
+**Finding:**  
+Damage to enemy shields is affected by three main formulas, which are summed for final damage: Reaction Cost, Damage Cost and Poise Damage Cost. All info was accumulated from the wiki and individual testing
+
+**Evidence:**  
+There are pages on the wiki that already detail this information, however I created a [google document](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) which aims to compile it all into one source which is easy to digest. All references are included in the document. 
