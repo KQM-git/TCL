@@ -96,6 +96,35 @@ Credits to @Way for the initial finding.
 * Alternative mining method \(terrible, but hey\)
 * Order of operations - does this mean overload overrides vaporize? **\(We now know you can trigger both reactions at once\).**
 
+### Overload Reaction ICD
+
+**By:** Sir_pick_the_prick#2209, Terrapin#8603, Isu#6867, and Aluminum#5462   
+Added: 6/4/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840502239248252928/850596327720484885/transcript-transformative-reaction-icd-parameters.html)
+
+**Finding:**  
+Overload, and so far overload alone, seems to have a reaction specific icd of 0.5 sec (15 frames in 30 fps and 30 frames in 60 fps) where enemies overloaded or hit by the aoe caused by an overload procced by one character is then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
+
+**Evidence:**
+
+* [clip 1:](https://cdn.discordapp.com/attachments/840502239248252928/840520178403901450/OL_gauge_comparison.mp4) after gaining 2u electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
+* [clip 2:](https://cdn.discordapp.com/attachments/840502239248252928/840529070801682432/OverloadLimit7.mp4) the second treasure hoarder hit is hit by 2 overloads, 1 originating from himself and the other from an ally hit by overload. However, despite being in a cluster of 3 enemies hit in the second overload as evidenced by hit double knockback, only 2 numbers appear, showing his invulnerability to the overload the second time.
+* [clip 3 and 4:](https://youtu.be/wqxnXhkMuNg) in both cases, the enemy is first hit by 4u from beidou. 
+  * Then, in clip 3, guoba is summoned, who then attacks within 3 frames of klee who autoattacks. 2 overload numbers appear.
+  * In clip 4, guoba is not summoned, and klee just n1cs. 1 overload number.
+* [clip 5:](https://cdn.discordapp.com/attachments/840502239248252928/840515478086483968/OverloadLimit6.mp4) bennett applies gauge 3 times from level 2 e, but only causes 2 overloads. the last hit is past the 0.5sec timer.
+* [clip 6:](https://cdn.discordapp.com/attachments/840502239248252928/840538987420188701/OL_different_targets_2.mp4) Klee n1cs 2 different enemies, and overloads twice.
+* [clip 7:](https://cdn.discordapp.com/attachments/840502239248252928/840513374496489492/Rosaria_E_Superconduct.mp4) Rosaria double scs, proving sc does not follow the same rules.
+* [clip 8:](https://youtu.be/_HM5Y3aru88)  This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the fatui would have died.
+* [clip 9:](https://cdn.discordapp.com/attachments/840502239248252928/840743262305779712/OverloadLimit9.mp4) original vid
+  * Overloads occur at: 0.5, 2.0, 2.5, 3.0, 3.5, 4.1, 5.0
+  * As evidence of every enemy getting hit with overload. Lisa ult is just above the icd, and proves that the icd is at least <0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
+  * [Screenshot of 5 overloads](https://cdn.discordapp.com/attachments/840502239248252928/840743912473624576/unknown.png)
+* [clip 10:](https://youtu.be/uuj8-ITWzmw) extra vid proving lisa is on the edge of the ICD.
+
+**Significance:**   
+Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more pyro off-field enablers.
+
 ## Superconduct
 
 ### The 12 Second Duration of Superconduct
