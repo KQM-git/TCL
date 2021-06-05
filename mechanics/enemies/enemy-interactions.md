@@ -4,8 +4,8 @@
 
 The Abyss Herald's cooldown increase debuff is triggered when you are hit by these two attacks:
 
-1. A cross hydro beam.  
-2. Flurry of slashes before firing hydro beams in all directions, only happens in phase 2 (after he shields up)
+1. [A cross hydro beam.](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)  
+2. [Flurry of slashes before firing hydro beams in all directions](https://www.youtube.com/watch?v=E06M0AiW5gM&t=186s), only happens in phase 2 (after he shields up)
 
 The cooldown debuff increases all current elemental skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is **additive** and independent of how long the original cooldown of the skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat (unlike Slowing Waters).
 
