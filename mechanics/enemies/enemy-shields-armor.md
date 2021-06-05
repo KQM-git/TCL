@@ -90,7 +90,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 | Electro          | Null                 |
 | Cryo             | 36GU                 |
 | Pyro             | 36GU                 |
-| Hydro            | ?                    |
+| Hydro            | 45GU                 |
 | Anemo            | 72GU                 |
 | Geo              | 72GU                 |
 
