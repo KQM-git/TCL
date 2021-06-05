@@ -233,6 +233,7 @@ Note that both **Stonehide Lawachurl** and **Frostarm Lawachurl** armor decays e
 
 **IMPORTANT:** These values are for **Aura** applied to the **Core** of the **Regisvine.** It takes **HALF** the **GU** of each element to break the shield protecting the **COROLLA**. So for example, it only takes **6GU Electro** to break the eye of either **Regisvine.**
 
+{% tabs %}
 {% tab title="Pyro Regisvine" %}
 
 | Elemental Source | Gauge Units Required |
