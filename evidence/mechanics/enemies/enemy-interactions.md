@@ -1,5 +1,48 @@
 # Enemy Interactions
 
+## Abyss Heralds
+
+### Abyss Herald Cooldown Mechanics
+
+**By:** Monado#9922  
+**Added:** 6/4/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836294244434968646/850588687544614992/transcript-abyss-herald-cooldown-mechanic.html)
+
+**Finding:**  
+The Abyss Herald's cooldown increase debuff is triggered when you are hit by these two attacks:
+
+1. A cross hydro beam.  
+2. Flurry of slashes before firing hydro beams in all directions, only happens in phase 2 (after he shields up)
+
+The cooldown debuff increases all current elemental skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat (unlike Slowing Waters).
+
+The cooldown debuff can be avoided by shield and elemental burst iframes. 
+
+**Evidence:** 
+
+* [Cross hydro beam increases skill cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)
+* [Cross hydro beam increases burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=110s)
+* [Cross beam increasing both skill and burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=175s)
+* [Flurry to beams increases cooldown by 6](https://www.youtube.com/watch?v=E06M0AiW5gM&t=186s)
+* [Cooldown increase affects everyone in the party, not just the character who got hit](https://www.youtube.com/watch?v=E06M0AiW5gM&t=344s)
+* [Using your burst after getting hit is ok](https://www.youtube.com/watch?v=MR86Qt4o3gc&t=165s), so debuff only affect abilities already on cooldown.
+* [Debuff doesn’t affect CD reduction stat](https://www.youtube.com/watch?v=E06M0AiW5gM&t=257s)
+* [Shields block the cooldown debuff](https://www.youtube.com/watch?v=E06M0AiW5gM&t=66s)
+* Burst iframes block the cooldown debuff
+  * [https://www.youtube.com/watch?v=MR86Qt4o3gc&t=3s](https://www.youtube.com/watch?v=MR86Qt4o3gc&t=3s)
+  * [https://www.youtube.com/watch?v=MR86Qt4o3gc&t=61s](https://www.youtube.com/watch?v=MR86Qt4o3gc&t=61s)
+
+Showing other attacks don't have the cooldown debuff:
+
+* [Phase 1 combo doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=6s)
+* [Beyblade attack doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=14s)
+* [Regular hydro beam doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=19s)
+* [Phase transition explosion doesn’t affect cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=179s)
+* [Phase 2 combo doesn’t increase cooldown](https://www.youtube.com/watch?v=E06M0AiW5gM&t=375s)
+
+**Significance:**  
+Better understanding of Abyss Herald mechanics, and which attacks in particular to dodge in order to avoid the cooldown debuff.
+
 ## Boss Enemies
 
 ### Freeze Interaction on Boss Enemies
