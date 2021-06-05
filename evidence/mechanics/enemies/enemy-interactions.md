@@ -4,6 +4,10 @@
 
 ### Abyss Herald Cooldown Mechanics
 
+**By:** Monado#9922  
+**Added:** 6/4/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836294244434968646/850588687544614992/transcript-abyss-herald-cooldown-mechanic.html)
+
 **Finding:**  
 The Abyss Herald's cooldown increase debuff is triggered when you are hit by these two attacks:
 
