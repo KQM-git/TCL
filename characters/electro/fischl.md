@@ -211,20 +211,14 @@ Increases the Level of Midnight Phantasmagoria by 3.
 {% tab title="C6" %}
 ### Evernight Raven
 
-Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
+Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs **joint attack**s with your active character, dealing 30% of Fischl ATK as Electro DMG.
 
-| Type | Talent 6% | Attack Speed | GU | Particles | Damage Type |
+| Type | Talent% | Attack Speed | GU | Particles | Damage Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 124.32% | 1s | 1U | 0~1 \(2:3\) | Elemental Skill |
-| Joint Attack | 30% | No Limit | 1U | 0 | Elemental Skill |
+| Joint Attack | 30% of Fischl's ATK | No Limit | 1A | 0 | Elemental Skill |
 
 * The joint attack has an elemental application ICD of 2s.
 * The joint attack is an echo effect
-* **Oz** normal attacks for a total of 12 times over the duration.
-* Oz ICD Details: Oz will apply electro...
-  * once every 4 hits
-  * or when the ICD timer reaches 5 seconds
-* Additionally, when **Oz’s** normal attack triggers an Overload or Superconduct reaction, it generates 1 particle per enemy hit by the reaction
 {% endtab %}
 {% endtabs %}
 
