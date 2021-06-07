@@ -139,7 +139,7 @@ The detailed explanation with calculations can be found here: https://docs.googl
 
 ## Abyss Lector Shield Gauges
 
-**By:** Yukarix#6534, Ayzel#7399, Bobrokrot#0111, srl#2712
+**By:** Yukarix#6534, Ayzel#7399, Bobrokrot#0111, srl#2712  
 **Added:** 6/5/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838292328292024330/850595853152550922/transcript-abyss-lector-shield-pyro-vs-cryo.html)
 
