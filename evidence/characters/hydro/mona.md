@@ -169,8 +169,8 @@ Proper understanding of how Omen and C1 affect damage and reactions
 
 ## C2 Mona Aura for Xiangling
 
-**By:** Raf#7220
-**Added:** 6/7/2021
+**By:** Raf#7220  
+**Added:** 6/7/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844650193613094912/851360892595732510/transcript-mona-c2-aura-for-xl.html)
 
 **Finding:**  
