@@ -56,6 +56,44 @@ Only a maximum of 2U worth of shield dmg possible in one frame? \(inconclusive\)
 
 Klee can break hydro abyss shields faster by abusing the fact that her mines are on separate ICD's so long as you have a way to gather them. However anemo MC's burst is not the best way for this because the bombs detonate on the mage at the same time, wasting U's. \(you waste 3 to 4 mines worth of dmg\). You are better off holding E as steph suggests. Same with Jean don't tap E, hold E so that the mines gather onto the mage \(also credit Steph\).
 
+### Klee Mines ICD Update
+
+**By:** Steph\#3614  
+**Added:** 6/7/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843884968681668648/851377033031581726/transcript-klee-mines-icd-update.html)
+
+**Editor's Note:** The findings below expands on the findings above, this finding does not invalidate the above entry, but rather investigates a similarly related mechanic.
+
+**Findings:**  
+Klee's jumpty dumpty's split mines shares an ICD on pyro application with her normal attacks.
+
+**Evidence:** 
+Frame counting was done on 2 separate conditions
+
+[Condition 1](https://imgur.com/cFw1iqd): Throw klee's jumpty dumpty down, lure cryo abyss mage in, then use Jean's E to gather all 8 bombs into the shield 
+
+[Condition 2](https://imgur.com/1cxyfmv): Throw klee's jumpty dumpty down, lure cryo abyss mage in, having 1 split mine to blow off onto the shield, then do a n1 onto the shield.
+
+On both conditions, the very first frame is the frame where the first melt reaction occurs with Klee's split mine 
+
+In condition 1, the following data were collected
+
+* Mine 1: frame 1, reaction occurs
+* Mine 2: frame 59, no reaction occurs
+* Mine 3: frame 71, no reaction occurs
+* Mine 4: frame 80, reaction occurs
+* Mine 5: frame 86, no reaction occurs
+* Mine 6: frame 94, no reaction occurs
+* Mine 7: frame 98, reaction occurs
+* Mine 8: frame 128, no reaction occurs
+
+In condition 2, the n1 attack connects 72 frames after the first split mine connect and no reaction occurs. 
+
+Both of these conditions lines up with the current ICD theory. 
+
+**Significance:**  
+Klee's jumpty dumpty's split mine might steal some reactions away from Klee's normal string by activating the timer and hit count before normal string lands, or it might also allow Klee to do more reaction using her normal strings by advancing the counter number.
+
 ## Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
 
 **By:** fid\#6253  

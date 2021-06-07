@@ -167,7 +167,7 @@ Similarly, the value of vaporize reactions were calculated assuming the reaction
 **Significance:**  
 Proper understanding of how Omen and C1 affect damage and reactions
 
-## Mona C2 Aura for Xiangling
+## C2 Mona Aura for Xiangling
 
 **By:** Raf#7220
 **Added:** 6/7/2021
