@@ -181,3 +181,22 @@ https://youtu.be/UbqCR6t4fow
 
 **Significance**:  
 Xiangling Q applies too much pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.
+
+## Omen Extension on Certain Enemies in Certain States
+
+**By:** Aetherpon#5730  
+**Added:** 6/7/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840973333771059241/851387589285511198/transcript-omen-extension-on-certain-enemies-in-certain-states.html)
+
+**Finding:**  
+Illusory Bubble can be extended to its maximum duration in specific scenarios with certain enemies without using Freeze. The enemies that work are Shielded Lawachurl, leaping Geovishap, Shielded Pyrogunner, and Shielded Geochanter
+
+**Evidence:** 
+
+* [Shielded Lawachurl](https://www.youtube.com/watch?v=5vS9vzILT1s)
+* [Leaping Geovishap](https://www.youtube.com/watch?v=7BQljr9qh5Q)
+* [Shielded Pyrogunner](https://www.youtube.com/watch?v=3mxZWIKSfHY)
+* [Shielded Geochanter](https://www.youtube.com/watch?v=zfj2fvJQtho)
+
+**Significance:**  
+Allows for longer use of Omen's buff to said enemies in team comps outside of freeze.
