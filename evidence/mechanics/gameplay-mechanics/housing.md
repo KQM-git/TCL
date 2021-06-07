@@ -119,4 +119,9 @@ Attacks are not equal in terms player-environment interaction. Most skills can n
 
 [Link to Tierlist](https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSjRINZJonFe1kiDwz1dEbpcZiNk/edit#gid=937070148)
 
-![Summary](../../.gitbook/assets/LumberjackTLDR.png)
+Summary of Results, most efficient units for tree chopping:
+
+* Xingqiu (only if you manually time their attack string, spam clicking won't work)
+* Keqing
+* Rosaria
+* Xiao
