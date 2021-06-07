@@ -167,3 +167,17 @@ Similarly, the value of vaporize reactions were calculated assuming the reaction
 **Significance:**  
 Proper understanding of how Omen and C1 affect damage and reactions
 
+## Mona C2 Aura for Xiangling
+
+**By:** Raf#7220
+**Added:** 6/7/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844650193613094912/851360892595732510/transcript-mona-c2-aura-for-xl.html)
+
+**Finding:**  
+A C2 Mona using N2C applies enough hydro to overtake the pyro application of Xiangling's Pyronado, even if pyro starts out as the aura.
+
+**Evidence:**  
+https://youtu.be/UbqCR6t4fow
+
+**Significance**:  
+Xiangling Q applies too much pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.
