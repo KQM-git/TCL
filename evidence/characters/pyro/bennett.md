@@ -140,3 +140,21 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 
 **Evidence:** [https://www.youtube.com/watch?v=wKNDpnU\_ZGg](https://www.youtube.com/watch?v=wKNDpnU_ZGg)
 
+## Bennett Field Linger
+
+**By:** Asaki#9139  
+**Added:** 6/7/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844783206262636545/851385838486945812/transcript-benny-field-linger.html)
+
+**Finding:**  
+Bennett's attack buff lingers for a bit after the visual of the circle fades away.
+
+**Evidence:** 
+
+* [Clip 1](https://cdn.discordapp.com/attachments/844783206262636545/844784370476646440/video0.mov): The Burst visual has disappeared, Xingqiu runs over and he still has Pyro status applied to himself. DMG is 32k
+* For reference, [Clip 2](https://cdn.discordapp.com/attachments/844783206262636545/844784610411151390/video0.mov) has Xingqiu in the same setting without Bennett buff, who deals 20k in this instance
+* [Link to Full Video](https://youtu.be/rtVZS5PjAS0)
+
+**Significance:**  
+Better understanding of Bennett Burst mechanics
+
