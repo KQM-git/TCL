@@ -142,8 +142,8 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 
 ## Bennett Field Linger
 
-**By:** Asaki#9139
-**Added:** 6/7/2021
+**By:** Asaki#9139  
+**Added:** 6/7/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844783206262636545/851385838486945812/transcript-benny-field-linger.html)
 
 **Finding:**  

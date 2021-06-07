@@ -72,7 +72,7 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
-* Klee's jumpty dumpty's split mines shares an ICD on pyro application with her normal attacks.
+* Klee's **Jumpty Dumpty**'s split mines shares an ICD on pyro application with her normal attacks.
 
 {% endtab %}
 

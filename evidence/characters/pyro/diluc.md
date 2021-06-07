@@ -17,7 +17,7 @@ The vape damage potential of Diluc's burst is lower than one might expect based 
 
 ## Searing Onslaught Extension via Freeze
 
-**By:** xf3#3123
+**By:** xf3#3123  
 **Added:** 6/7/2021
 
 **Finding:**  
