@@ -189,3 +189,22 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 
 **Significance:** Can't do hydro tests on dandelions near Mondstadt
 
+### Ded Bird
+
+**By:** Aluminum#5462, Mcpie#8672, mol#3280, JenjenJL#6582, Kgbeast#6738, wiremash#0433  
+**Added:** 6/8/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846170693783912448/851728679427244042/transcript-ded-bird.html)
+
+**Finding:**  
+Bird go poof.
+
+At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive.
+
+**Evidence:**
+
+* [Youtube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T) 
+* [Best Example](https://cdn.discordapp.com/attachments/846170693783912448/850855100107718746/2021-06-05_22-53-14.mp4)
+
+**Significance:**   
+Free fowl. Also whoever is coding the animals is probably trolling.
+

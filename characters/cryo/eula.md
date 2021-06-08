@@ -195,6 +195,9 @@ Increases the level of Glacial Illumination by 3.
 ### The Obstinacy of One's Inferiors
 
 Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.
+
+* This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** (Burst) and the Lightfall Remnants from **Roiling Rime **(A1).
+
 {% endtab %}
 
 {% tab title="C5" %}

@@ -41,5 +41,13 @@ This explains why, despite visually having similar character heights, teen femal
 
 Teleporting to a waypoint does not always teleport you to the same coordinates or dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch.
 
+## Movement Speed
+
+Increased movement speed increases the horizontal velocity of dashing. This also impacts the distance traveled when dashing off a cliff.
+
+## Character Hitboxes
+
+Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
+
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
 
