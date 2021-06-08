@@ -82,7 +82,7 @@
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, Eula's Physical DMG is increased by 30% for a base of 6 seconds + 6 per Grimheart stack. - [Sonickid15\#1738](https://www.youtube.com/watch?v=SFaejhz3Rik)
   * So 1 stack is 12 seconds and 2 is 18 seconds
 
-### C4
+#### C4
 
 * Eula's C4 is an additive damage bonus and applies to both [A1](https://www.youtube.com/watch?v=LvCnRGgXtng) and [Burst](https://www.youtube.com/watch?v=xOPo02MP6gU). - Striss#0557
 
