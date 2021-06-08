@@ -35,7 +35,7 @@ The position at which you land after dashing off a cliff is dependent on the cur
 4. Adult Female
 5. Adolescent Female
 
-This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can. 
+This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can.
 
 ## Waypoint Teleportation Variance
 

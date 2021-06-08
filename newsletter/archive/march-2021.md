@@ -6,5 +6,3 @@ description: 'New interns, new tech, the life and death of Keqing.'
 
 Turbo, Dragonstrike, Thunderclap Flash, Super Vaporize. Keqing Mains has been running the gauntlet for new mechanics, bugs and discoveries.
 
-
-

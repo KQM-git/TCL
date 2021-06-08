@@ -1,19 +1,18 @@
 # Housing
 
-##  Realm Currency Exchange Rate
+## Realm Currency Exchange Rate
 
-The most Resin-efficient purchase order at the Realm Depot is to claim the Magic Enhancement Ores every week, then the Wits, and then the Mora (assuming that the Traveler has already claimed the Transient Resin if they wish to).
+The most Resin-efficient purchase order at the Realm Depot is to claim the Magic Enhancement Ores every week, then the Wits, and then the Mora \(assuming that the Traveler has already claimed the Transient Resin if they wish to\).
 
-For Travelers who wish to maximize Stardust and minimize Realm Currency: target Magic Enhancement Ores -> EXP -> Mora at Paimon's Bargains in the Shop. 
-Inverse this priority (Mora -> EXP -> Magic Enhancement Ores) if Travelers wish to maximize Realm Currency and minimize Stardust.
+For Travelers who wish to maximize Stardust and minimize Realm Currency: target Magic Enhancement Ores -&gt; EXP -&gt; Mora at Paimon's Bargains in the Shop. Inverse this priority \(Mora -&gt; EXP -&gt; Magic Enhancement Ores\) if Travelers wish to maximize Realm Currency and minimize Stardust.
 
 ## Tree Mechanics
 
 ### Lumberjack Tierlist
 
-The most efficient units for tree chopping: 
+The most efficient units for tree chopping:
 
-* Xingqiu (only if you **manually time** their attack string, spam clicking won't work)
+* Xingqiu \(only if you **manually time** their attack string, spam clicking won't work\)
 * Keqing
 * Rosaria
 * Xiao
@@ -27,10 +26,11 @@ The game can only remember the 10 most recently-struck trees at a time. After th
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills (Jean's E, Kaeya's Q) can shake/mark
+* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload. 
 
-## **Evidence Vault: **
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/housing.md" %}
+

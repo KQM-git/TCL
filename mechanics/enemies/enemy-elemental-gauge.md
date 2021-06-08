@@ -36,9 +36,5 @@ Enemies apply Elemental Auras that use the same system as Elemental Gauge Theory
   </tbody>
 </table>
 
-
-
 {% page-ref page="../../evidence/mechanics/enemies/enemy-elemental-gauge.md" %}
-
-
 

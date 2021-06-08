@@ -98,12 +98,12 @@ Credits to @Way for the initial finding.
 
 ### Overload Reaction ICD
 
-**By:** Sir_pick_the_prick#2209, Terrapin#8603, Isu#6867, and Aluminum#5462   
+**By:** Sir\_pick\_the\_prick\#2209, Terrapin\#8603, Isu\#6867, and Aluminum\#5462  
 Added: 6/4/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840502239248252928/850596327720484885/transcript-transformative-reaction-icd-parameters.html)
 
 **Finding:**  
-Overload, and so far overload alone, seems to have a reaction specific icd of 0.5 sec (15 frames in 30 fps and 30 frames in 60 fps) where enemies overloaded or hit by the aoe caused by an overload procced by one character is then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
+Overload, and so far overload alone, seems to have a reaction specific icd of 0.5 sec \(15 frames in 30 fps and 30 frames in 60 fps\) where enemies overloaded or hit by the aoe caused by an overload procced by one character is then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
 
 **Evidence:**
 
@@ -118,11 +118,11 @@ Overload, and so far overload alone, seems to have a reaction specific icd of 0.
 * [clip 8:](https://youtu.be/_HM5Y3aru88)  This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the fatui would have died.
 * [clip 9:](https://cdn.discordapp.com/attachments/840502239248252928/840743262305779712/OverloadLimit9.mp4) original vid
   * Overloads occur at: 0.5, 2.0, 2.5, 3.0, 3.5, 4.1, 5.0
-  * As evidence of every enemy getting hit with overload. Lisa ult is just above the icd, and proves that the icd is at least <0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
+  * As evidence of every enemy getting hit with overload. Lisa ult is just above the icd, and proves that the icd is at least &lt;0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
   * [Screenshot of 5 overloads](https://cdn.discordapp.com/attachments/840502239248252928/840743912473624576/unknown.png)
 * [clip 10:](https://youtu.be/uuj8-ITWzmw) extra vid proving lisa is on the edge of the ICD.
 
-**Significance:**   
+**Significance:**  
 Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more pyro off-field enablers.
 
 ## Superconduct
@@ -562,7 +562,7 @@ It might help us figure out how to optimize shield breaking as claymore users. A
 
 **Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
 
-**Evidence:** [Imgur GIF](%20https://imgur.com/a/NUt2o6H) 
+**Evidence:** [Imgur GIF](https://github.com/Neptunya/TCL/tree/ac437ffe7921b9cce9f43689f1f4334815988929/a/NUt2o6H/README.md)
 
 **Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
 

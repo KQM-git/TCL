@@ -68,7 +68,6 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
 * Getting frozen in the middle of **Searing Onslaught**'s second attack's animation allows for the skill to be briefly recasted when unfrozen.
-
 {% endtab %}
 
 {% tab title="Dawn" %}
@@ -87,8 +86,8 @@ After the slash, Diluc infuses his weapon with Pyro.
 | GU | 1A |
 | Imbue | 1A |
 | Frames | 145 |
-| Total Talent Value \(3 DoT procs\) | 824%                                      |
-| Motion Value  | 341%/s                              |
+| Total Talent Value \(3 DoT procs\) | 824% |
+| Motion Value | 341%/s |
 
 * The ICD for **Dawn** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.
 * Pyro infused autos have 1U worth of Pyro application.

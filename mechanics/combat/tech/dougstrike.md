@@ -9,7 +9,7 @@ description: Combo Tech
 * DashJump \(Dash must be at least 1ms before Jump, though to most people this will feel like it's at the same time, but dash MUST be first\)
 * Plunge attack 
 
-When successful, the DashJump will cause you to gain additional vertical clearance which is a requirement for the plunge attack. Only Claymore users can reliably perform this because of their excessive hitlag. Any unit that generates sufficient hitlag can perform a Dragon Strike, but the window for inputs will be tighter. 
+When successful, the DashJump will cause you to gain additional vertical clearance which is a requirement for the plunge attack. Only Claymore users can reliably perform this because of their excessive hitlag. Any unit that generates sufficient hitlag can perform a Dragon Strike, but the window for inputs will be tighter.
 
 Any source of movement speed boost will extend the window for inputs. This includes Diona shield, Anemo resonance, Jean C2, and some weapon effects. To replicate it, the sequence of events is: Hitlag generating action &gt; Hitlag occurring &gt; \(Dash &gt; Jump\) &gt; Plunge.
 
@@ -21,23 +21,13 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 {% tabs %}
 {% tab title="Claymore" %}
-{% embed url="https://www.youtube.com/watch?v=llgoPMBGxg8" %}
-
-{% embed url="https://imgur.com/a/LZtk0Op" %}
-{% endtab %}
 
 {% tab title="Polearm" %}
-{% embed url="https://imgur.com/HCwTECw" %}
-{% endtab %}
 
 {% tab title="Sword" %}
-{% embed url="https://imgur.com/oK34Ikb" %}
-{% endtab %}
 
 {% tab title="Diluc Searing Onslaught" %}
-{% embed url="https://imgur.com/a/t3hNR2V" %}
+{% embed url="https://imgur.com/a/t3hNR2V" caption="" %}
 {% endtab %}
 {% endtabs %}
-
-
 

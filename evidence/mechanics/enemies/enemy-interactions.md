@@ -4,7 +4,7 @@
 
 ### Abyss Herald Cooldown Mechanics
 
-**By:** Monado#9922  
+**By:** Monado\#9922  
 **Added:** 6/4/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836294244434968646/850588687544614992/transcript-abyss-herald-cooldown-mechanic.html)
 
@@ -12,13 +12,13 @@
 The Abyss Herald's cooldown increase debuff is triggered when you are hit by these two attacks:
 
 1. A cross hydro beam.  
-2. Flurry of slashes before firing hydro beams in all directions, only happens in phase 2 (after he shields up)
+2. Flurry of slashes before firing hydro beams in all directions, only happens in phase 2 \(after he shields up\)
 
-The cooldown debuff increases all current elemental skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat (unlike Slowing Waters).
+The cooldown debuff increases all current elemental skill/burst cooldowns by **6 seconds** to all members of your party, not just the character who got hit. The cooldown increase is an additive 6 seconds and independent of how long the original cooldown of the skill/burst is. The cooldown debuff also only affect elemental skills/bursts that are already on cooldown, so skills/bursts that were not on cooldown when you are inflicted with the cooldown debuff do not have increased cooldowns when you activate them. The cooldown debuff also has no effect on the CD reduction stat \(unlike Slowing Waters\).
 
-The cooldown debuff can be avoided by shield and elemental burst iframes. 
+The cooldown debuff can be avoided by shield and elemental burst iframes.
 
-**Evidence:** 
+**Evidence:**
 
 * [Cross hydro beam increases skill cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=26s)
 * [Cross hydro beam increases burst cooldown by 6s](https://www.youtube.com/watch?v=E06M0AiW5gM&t=110s)

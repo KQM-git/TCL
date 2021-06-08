@@ -118,14 +118,12 @@ When a Normal Attack hits, it deals AoE Geo DMG.
 {% endtab %}
 
 {% tab title="C2" %}
-
 #### Shock Effect
 
 When **Jade Screen** is shattered, its CD will reset. This effect can occur once every 6s.
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
-
 {% endtab %}
 
 {% tab title="C3" %}
@@ -150,7 +148,6 @@ Increases the Level of Jade Screen by 3.
 #### **Grandeur be the Seven Stars**
 
 When Starshatter is used, Ningguang gains 7 **Star Jades**.
-
 {% endtab %}
 {% endtabs %}
 
