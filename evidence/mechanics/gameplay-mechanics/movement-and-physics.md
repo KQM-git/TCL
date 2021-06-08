@@ -166,6 +166,10 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 
 ## Movement Speed affects Dashing Horizontal Velocity
 
+**By:** Mcpie#8672  
+**Added:** 6/8/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846504230898237480/851744572958310401/transcript-movement-speed-affects-dashing-horizontal-velocity.html)
+
 **Finding:**  
 Movement speed affects dashing-off a cliff horizontal velocity
 
@@ -177,18 +181,18 @@ Movement speed affects dashing-off a cliff horizontal velocity
 3. Click "dash" and wait for Kaeya to land
 
 Tested movements speeds:
-1. [0%](https://cdn.discordapp.com/attachments/846504230898237480/846505725978738738/2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)
-2. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505796468604928/2021-05-24_23-18-01-00.51.433-01.06.633-audio.webm) - Anemo Resonance
-3. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505886448353310/2021-05-24_23-18-01-02.12.733-02.29.000-audio.webm) - Rosaria passive
-4. [10% + 10% = 20%](https://cdn.discordapp.com/attachments/846504230898237480/846505946787479573/2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive
-5. [10% + 10% + 24% = 44%](https://cdn.discordapp.com/attachments/846504230898237480/846506066237718528/2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword
+1. [0%](https://cdn.discordapp.com/attachments/846504230898237480/846505725978738738/2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)  
+2. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505796468604928/2021-05-24_23-18-01-00.51.433-01.06.633-audio.webm) - Anemo Resonance  
+3. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505886448353310/2021-05-24_23-18-01-02.12.733-02.29.000-audio.webm) - Rosaria passive  
+4. [10% + 10% = 20%](https://cdn.discordapp.com/attachments/846504230898237480/846505946787479573/2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive  
+5. [10% + 10% + 24% = 44%](https://cdn.discordapp.com/attachments/846504230898237480/846506066237718528/2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword  
 
 Raw video evidence (no timestamps): https://www.youtube.com/watch?v=C69T4AwkJGE
 
 ## Character Hitboxes
 
 **By:** HK#0001  
-**Added:** 6/8/2021
+**Added:** 6/8/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/848227425379942411/851738303363547146/transcript-character-hitboxes.html)
 
 **Finding:**   
