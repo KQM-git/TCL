@@ -4,7 +4,7 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
-{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes based off of Day 1 data collection and calculations. {% endhint %}
+{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes and works for units level 60 and above.{% endhint %}
 
 $$
 \begin{align}
