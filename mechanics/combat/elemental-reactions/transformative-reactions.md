@@ -30,7 +30,7 @@ LevelMultiplier \approx &\ 0.00194 \times LvlCharacter^{3} - 0.319 \times LvlCha
 \end{align}
 $$
 
-Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
+Transformative reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by elemental resistance to the type of damage the reaction deals.
 
 Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 
