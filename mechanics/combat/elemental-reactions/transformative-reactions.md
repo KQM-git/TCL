@@ -4,6 +4,8 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
+{% hint style="danger" %} The formula below is **outdated.** Testing is still being done by KQM Theorycrafters at the [KQM Discord](discord.gg/keqing) to update this page based on the 1.6 EM changes. {% endhint %}
+
 $$
 \begin{align}
 TransformativeReaction = &
