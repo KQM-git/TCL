@@ -200,6 +200,33 @@
 {% endtab %}
 {% endtabs %}
 
+### Mitternachts Waltz
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Evernight Duet | Normal Attack hits on opponents increase Elemental Skill DMG by **20/25/30/35/40**% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20/25/30/35/40**% for 5s. |
+| Base ATK | 42 - 510 |
+| Phys DMG Bonus | 11.3% - 51.7% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 327 | 38.1 |
+| 60+ | 353 | 38.1 |
+| 65 | 370 | 40.4 |
+| 70 | 388 | 42.6 |
+| 70+ | 414 | 42.6 |
+| 75 | 431 | 44.9 |
+| 80 | 449 | 47.2 |
+| 80+ | 475 | 47.2 |
+| 85 | 492 | 49.5 |
+| 90 | 510 | 51.7 |
+{% endtab %}
+{% endtabs %}
+
 ### Prototype Crescent
 
 {% tabs %}
