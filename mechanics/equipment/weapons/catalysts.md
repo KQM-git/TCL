@@ -119,6 +119,33 @@
 {% endtab %}
 {% endtabs %}
 
+### Dodoco Tales
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Dodoventure! | Normal Attack hits on opponents increase Charged Attack DMG by **16/20/24/28/32**% for 6s. Charged Attack hits on opponents increase ATK by **8/10/12/14/16**% for 6s. |
+| Base ATK | 41 - 454 |
+| ATK% | 12% - 55.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Eye of Perception
 
 {% tabs %}
