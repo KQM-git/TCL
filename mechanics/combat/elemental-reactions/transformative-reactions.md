@@ -4,6 +4,8 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
+{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes and works for units level 60 and above.{% endhint %}
+
 $$
 \begin{align}
 TransformativeReaction = &
@@ -16,19 +18,19 @@ TransformativeReaction = &
 0 & \text{otherwise}
 \end{cases}
 \\
-& \times \biggl( 1 + \frac{6.66 \times EM}{1400 + EM} + ReactionBonus \biggr)\\
+& \times \biggl( 1 + \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\
 & \times LevelMultiplier \times EnemyResistanceMultiplier
 \end{align}
 $$
 
 $$
 \begin{align}
-LevelMultiplier \approx &\ 0.0002325 \times LvlCharacter^{3} + 0.05547 \times LvlCharacter^{2} \\
-& - 0.2523 \times LvlCharacter + 14.74
+LevelMultiplier \approx &\ 0.00194 \times LvlCharacter^{3} - 0.319 \times LvlCharacter^{2} \\
+& + 30.7 \times LvlCharacter - 868
 \end{align}
 $$
 
-Transformative reactions cannot crit and scale only on Elemental Mastery and character level, meaning they don't scale very well compared to amping reactions \(melt/vaporize\) in current late-game content. They are effected by elemental resistance to the type of damage the reaction deals.
+Transformative reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by elemental resistance to the type of damage the reaction deals.
 
 Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 

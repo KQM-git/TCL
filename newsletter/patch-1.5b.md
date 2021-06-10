@@ -19,6 +19,8 @@ description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 | [4pc ToM Procs Against Shielded Enemies](../evidence/mechanics/equipment/artifacts.md#4pc-tom-procs-against-shielded-enemies) | Silvershine2\#5439 |
 | [Wood Daily Drop Limit](../evidence/mechanics/gameplay-mechanics/lifeskills.md#wood-daily-drop-limit) | Creonalia\#2818 |
 | [Millennial Movement Stack Mechanics](../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics) | rakka\#0099 |
+| [New Eula Page!](../characters/cryo/eula.md) | ~ |
+
 
 ## All Entries
 
@@ -78,4 +80,3 @@ description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 |  | [Crafting Refund vs Increase Passives](../evidence/mechanics/gameplay-mechanics/lifeskills.md#crafting-refund-vs-increase-passives) | jdeeyu\#9927 |
 |  | [Kaeya E Energy Trials](../evidence/characters/cryo/kaeya.md#kaeya-e-energy-trials) | Ayzel\#7399 |
 | May 18 | [Basic Eula Mechanics Investigation](../evidence/characters/cryo/eula.md#basic-eula-mechanics) | KQM and Eula Mains Theorycrafters |
-
