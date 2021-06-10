@@ -10,5 +10,3 @@ The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interrup
 
 The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interruption_Resistance/Theoretical_Data) has tables on extrapolated values based off of the current running theory on poise. Actual gameplay may differ from the values there, as the theory is still evolving.
 
-## 
-

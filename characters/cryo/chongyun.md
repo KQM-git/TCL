@@ -128,7 +128,6 @@ The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 {% endtab %}
 
 {% tab title="C2" %}
-
 ## Atmospheric Revolution
 
 Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
@@ -136,7 +135,6 @@ Elemental Skills and Elemental Bursts cast within the **Frost Field** created by
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
-
 {% endtab %}
 
 {% tab title="C3" %}

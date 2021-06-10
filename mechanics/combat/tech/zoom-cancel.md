@@ -10,11 +10,11 @@ More technically, many characters have a primary camera that normally tracks the
 
 ## Media
 
-{% embed url="https://imgur.com/a/uZepFyj" %}
+{% embed url="https://imgur.com/a/uZepFyj" caption="" %}
 
-{% embed url="https://imgur.com/a/NbmNQgt" %}
+{% embed url="https://imgur.com/a/NbmNQgt" caption="" %}
 
-{% embed url="https://imgur.com/a/bbpU1Dp" %}
+{% embed url="https://imgur.com/a/bbpU1Dp" caption="" %}
 
 ## Evidence Vault
 

@@ -4,7 +4,7 @@ description: Elemental infusions
 
 # Weapon Infusion
 
-Infusion is a mechanic that converts a character's attacks to a specific element. This affects all Normal Attacks, Charged Attacks, and Plunge Attacks. Infusions can be overridden unless explicitly stated otherwise. 
+Infusion is a mechanic that converts a character's attacks to a specific element. This affects all Normal Attacks, Charged Attacks, and Plunge Attacks. Infusions can be overridden unless explicitly stated otherwise.
 
 Infusions have an order of priority of Pyro &gt; Cryo &gt; Electro \[[1](../../evidence/mechanics/gameplay-mechanics/weapon-infusion.md#infusion-element-ordering)\]. The other elements are as of yet unknown.
 

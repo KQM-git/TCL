@@ -443,15 +443,16 @@ This is something to keep in mind while managing enemy aura
 
 ## Fischl's C6 Procs 4pc Millelith
 
-**By:** jdeeyu#9927  
+**By:** jdeeyu\#9927  
 **Added:** 6/8/2021
 
 **Finding:**  
 Fischl's C6 counts as a proc for 4ToM's effect
 
-**Evidence:** https://www.youtube.com/watch?v=RDHcZD_8Dog&ab_channel=jdeeyu
+**Evidence:** [https://www.youtube.com/watch?v=RDHcZD\_8Dog&ab\_channel=jdeeyu](https://www.youtube.com/watch?v=RDHcZD_8Dog&ab_channel=jdeeyu)
 
-In the video it shows Fischl's stats and equipment before proccing 4ToM, Oz is then summoned outside of his normal E range and doesn't do damage therefore not proccing 4ToM and C6 is used. As can be seen C6 does count as a proc for 4ToM. Oz is resummoned near the Ruin guard at the end to show that the damage that came from the first one was indeed from C6 and not from Oz's E shot (~2k damage on E, ~350 damage on C6 proc)
+In the video it shows Fischl's stats and equipment before proccing 4ToM, Oz is then summoned outside of his normal E range and doesn't do damage therefore not proccing 4ToM and C6 is used. As can be seen C6 does count as a proc for 4ToM. Oz is resummoned near the Ruin guard at the end to show that the damage that came from the first one was indeed from C6 and not from Oz's E shot \(~2k damage on E, ~350 damage on C6 proc\)
 
 **Significance:**  
-Normally not useful since Oz even without C6 should be enough to have 100% uptime on 4ToM while he's out. But there could be cases where Oz misses from some reason (maybe an obstacle) then C6 can cover for that and make 4ToM a bit more consistent. C6's Range is also larger than Oz's E shots so there could be fringe cases where Oz is out of range but you can still proc 4ToM using her C6.
+Normally not useful since Oz even without C6 should be enough to have 100% uptime on 4ToM while he's out. But there could be cases where Oz misses from some reason \(maybe an obstacle\) then C6 can cover for that and make 4ToM a bit more consistent. C6's Range is also larger than Oz's E shots so there could be fringe cases where Oz is out of range but you can still proc 4ToM using her C6.
+

@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../mechanics/gameplay-mechanics/movement-and-physics.md" %}
+{% page-ref page="movement-and-physics.md" %}
 
 ## Climbing without Climbing
 
@@ -119,12 +119,12 @@ We can also see here that the boreas wolf push also applies multiple instances o
 
 **Methodology/Evidence:**
 
- Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.   
+Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.
 
-****Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)   
-Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)   
-Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)   
-Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)   
+_\*\*_Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)  
+Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)  
+Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)  
+Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)
 
 Results depending on position:
 
@@ -140,7 +140,7 @@ Results depending on position:
 9: Diluc -> Ningguang -> Sucrose -> Bennett -> Qiqi
 ```
 
- **Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can. 
+**Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can.
 
 ## Waypoint Teleport Variance
 
@@ -148,9 +148,10 @@ Results depending on position:
 **Added** 6/3/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846494202334412901/849908480075628574/transcript-waypoint-teleportation-inconsistency.html)
 
-**Finding:** Two possible findings:   
-- Teleporting to a waypoint does not always teleport you to the same coordinates   
-- Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch. 
+**Finding:** Two possible findings:
+
+* Teleporting to a waypoint does not always teleport you to the same coordinates   
+* Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch. 
 
 **Evidence:** Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
 
@@ -158,7 +159,7 @@ Image 1: Consistent landing location \(&gt;20 attempts, almost always in this sp
 
 Image 2: Location that is a bit further than the landing spot from image 1[![](https://media.discordapp.net/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg?width=360&height=202)](https://cdn.discordapp.com/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
 
-[Video proof for images](https://cdn.discordapp.com/attachments/846494202334412901/846495546289291304/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm) 
+[Video proof for images](https://cdn.discordapp.com/attachments/846494202334412901/846495546289291304/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
 
 Additional video showing 4 adult male models, landing location very rarely differs: [https://youtu.be/QPR38O5yM7M](https://youtu.be/QPR38O5yM7M)
 
@@ -166,7 +167,7 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 
 ## Movement Speed affects Dashing Horizontal Velocity
 
-**By:** Mcpie#8672  
+**By:** Mcpie\#8672  
 **Added:** 6/8/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846504230898237480/851744572958310401/transcript-movement-speed-affects-dashing-horizontal-velocity.html)
 
@@ -180,22 +181,21 @@ Movement speed affects dashing-off a cliff horizontal velocity
 2. Once there, teleport to the waypoint again
 3. Click "dash" and wait for Kaeya to land
 
-Tested movements speeds:
-1. [0%](https://cdn.discordapp.com/attachments/846504230898237480/846505725978738738/2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)  
+Tested movements speeds: 1. [0%](https://cdn.discordapp.com/attachments/846504230898237480/846505725978738738/2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)  
 2. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505796468604928/2021-05-24_23-18-01-00.51.433-01.06.633-audio.webm) - Anemo Resonance  
 3. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505886448353310/2021-05-24_23-18-01-02.12.733-02.29.000-audio.webm) - Rosaria passive  
 4. [10% + 10% = 20%](https://cdn.discordapp.com/attachments/846504230898237480/846505946787479573/2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive  
-5. [10% + 10% + 24% = 44%](https://cdn.discordapp.com/attachments/846504230898237480/846506066237718528/2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword  
+5. [10% + 10% + 24% = 44%](https://cdn.discordapp.com/attachments/846504230898237480/846506066237718528/2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword
 
-Raw video evidence (no timestamps): https://www.youtube.com/watch?v=C69T4AwkJGE
+Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJGE](https://www.youtube.com/watch?v=C69T4AwkJGE)
 
 ## Character Hitboxes
 
-**By:** HK#0001  
+**By:** HK\#0001  
 **Added:** 6/8/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/848227425379942411/851738303363547146/transcript-character-hitboxes.html)
 
-**Finding:**   
+**Finding:**  
 Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
 
 **Evidence:**  

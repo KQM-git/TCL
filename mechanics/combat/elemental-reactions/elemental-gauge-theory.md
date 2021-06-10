@@ -38,7 +38,7 @@ The decay notation number indicates the original system of elemental units that 
 
 Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed.
 
-![](../../../.gitbook/assets/simple_decay%20%281%29.png)
+![](../../../.gitbook/assets/simple_decayv2%20%281%29.png)
 
 * **Y-Axis** = amount of elemental gauge
 * **X-Axis** = duration in seconds

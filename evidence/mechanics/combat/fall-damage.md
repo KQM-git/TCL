@@ -2,7 +2,7 @@
 
 ## SC and Phys Bonus Don't Affect Fall Damage
 
-**By:** Ayzel\#7399  
+**By:** Ayzel \#7399  
 **Added:** 04/18/2021
 
 **Findings:** Neither superconduct nor phys% DMG bonuses affect fall damage for enemies

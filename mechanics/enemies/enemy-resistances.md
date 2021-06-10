@@ -22,9 +22,9 @@ $$
 
 All enemies have some innate base level of resistance. Resistance is elemental based and reduces damage from a certain type of element. Each enemy has individual resistances against each different type of element. The most common base amount of resistance is 10%. A list of enemy base resistances can be found [here](https://genshin-impact.fandom.com/wiki/Damage#Base_Enemy_Resistances).
 
-Resistance can be increased by the monster themselves from many sources such as Fatui Skirmisher armors providing +100% All RES. Similarly, monsters can also have their own resistances reduces such as when Whopperflower armors are broken. 
+Resistance can be increased by the monster themselves from many sources such as Fatui Skirmisher armors providing +100% All RES. Similarly, monsters can also have their own resistances reduces such as when Whopperflower armors are broken.
 
-Players can shred monster resistances via means such as: 
+Players can shred monster resistances via means such as:
 
 * 4pc Viridescent Venerer \(-40% to any swirled element\)
 * Zhongli's Jade Shield \(-20% All elements\)
@@ -37,9 +37,9 @@ $$
 EnemyDefenseMultiplier = \frac{LvlCharacter + 100}{(LvlCharacter + 100) + (LvlEnemy + 100) \times (1-DefReduction)}
 $$
 
-Enemies have an innate level of defense scaling. This defense calculation is vastly different from player defense, which scales off of artifacts and such. Instead, enemy defense is dependent solely on the attacking character's level and the enemy's level. This is another layer of mitigation and is separate from resistance. 
+Enemies have an innate level of defense scaling. This defense calculation is vastly different from player defense, which scales off of artifacts and such. Instead, enemy defense is dependent solely on the attacking character's level and the enemy's level. This is another layer of mitigation and is separate from resistance.
 
-There are only currently 3 sources of defense shred in the game: 
+There are only currently 3 sources of defense shred in the game:
 
 * Lisa A4 \(-15% DEF\)
 * Razor C4 \(-15% DEF\)

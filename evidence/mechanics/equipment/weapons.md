@@ -1,6 +1,6 @@
 # Weapons
 
-## Bane of ... Series
+## nBane of ... Series
 
 ### Lion's Roar Passive Applies to all forms of DMG inflicted on Electro-Debuffed Enemy
 
@@ -124,7 +124,7 @@ Favonius weapons suffer the same drawback as sacrificial and does not provide it
 
 ## Millennial Movement Series
 
-### Millenial Movement stack mechanics
+### Millennial Movement stack mechanics
 
 **By:** rakka\#0099  
 **Added:** 5/22/2021  

@@ -26,7 +26,6 @@ description: >-
 
 {% tabs %}
 {% tab title="Spear of the Church" %}
-
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 
@@ -53,11 +52,9 @@ Rosaria plunges to the ground from mid-air, damaging opponents along the way and
 | Plunge Attack | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
-
 {% endtab %}
 
 {% tab title="Ravaging Confession" %}
-
 Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo** DMG.  
 This ability cannot be used to travel behind opponents of a larger build.
 
@@ -72,11 +69,9 @@ This ability cannot be used to travel behind opponents of a larger build.
 
 * Both hits of **Ravaging Confession** apply cryo and have no ICD, allowing both hits of **Ravaging Confession** to be melted.
 * Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
-
 {% endtab %}
 
 {% tab title="Rites of Termination" %}
-
 Rosaria swings her weapon to slash surrounding opponents, then she summons a frigid Ice Lance that strikes the ground. Both actions deal **Cryo** DMG.  
 While active, the Ice Lance periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents.
 
@@ -95,26 +90,20 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 * The Cryo application of **Rites of Termination** has no ICD
   * **Rites of Termination** will apply 1A cryo on both damage instances on cast
   * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
-
 {% endtab %}
-
 {% endtabs %}
 
 ## **Ascension Passives**
 
-
 {% tabs %}
 {% tab title="Passive" %}
-
 ### **Night Walk**
 
 At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
 Not stackable with Passive Talents that provide the exact same effect.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-
 ### **Regina Probationum**
 
 When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria's CRIT RATE increases by 12% for 5s.
@@ -123,20 +112,16 @@ When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria'
 * This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the crit sharing.
 * Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy.
   * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-
 ### **Shadow Samaritan**
 
 Casting Rites of Termination increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%.
 
 * The CRIT RATE shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
   * For example, the CRIT RATE shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
-
 {% endtab %}
-
 {% endtabs %}
 
 ## Constellations

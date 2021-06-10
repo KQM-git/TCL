@@ -85,7 +85,7 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 ## Jean Hold E Fall Damage Inconsistent
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
-**Added:** 04/23/2021   
+**Added:** 04/23/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/830897860743921664/835374730487398460/transcript-gale-blade-fall-dmg-inconsistency.html)
 
 **Findings:**  
