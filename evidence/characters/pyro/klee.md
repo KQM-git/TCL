@@ -6,6 +6,8 @@
 
 **Added:** 6/11/2021
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851923227819114496/852776649149513748/transcript-klee-burst-mechanics.html)
+
 **Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
 **Evidence:**
