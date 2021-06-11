@@ -26,7 +26,7 @@ In this [video](https://www.youtube.com/watch?v=YxlzUaaLVUw&ab_channel=Ayzel), f
 
 ### Bush Lighting
 
-**By:** Ayzel/#7399
+**By:** Ayzel\#7399
 
 **Added:** 6/11/2021
 
