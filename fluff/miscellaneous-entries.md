@@ -24,6 +24,20 @@ In this [video](https://www.youtube.com/watch?v=YxlzUaaLVUw&ab_channel=Ayzel), f
 
 ## Miscellaneous Entries
 
+### Bush Lighting
+
+**By:** Ayzel/#7399
+
+**Added:** 6/11/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851228691656736798/852776633731645470/transcript-bushes-take-1u-of-pyro-to-light.html)
+
+**Finding:** Bushes take one unit of pyro elemental application to light on fire.
+
+**Evidence:** https://youtu.be/TTcHouqT-Qg
+
+**Significance:** don't go around lighting bush fires, kids
+
 ### Electro Tanking
 
 **By:** Aevean Leeow\#1362  
