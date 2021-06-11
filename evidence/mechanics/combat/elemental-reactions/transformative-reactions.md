@@ -376,6 +376,22 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ## Frozen + Shatter
 
+### Simultaneous Hydro/Frozen Application
+
+**By:** Ayzel\#7399
+
+**Added:** 6/11/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843689180998402048/852779789747355688/transcript-simultaneous-hydro-on-freeze.html)
+
+**Finding:** Finding: Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
+
+**Evidence:** https://youtu.be/wTNjwEvPrEk
+
+In the above video, in the first situation I apply 1U Cryo with Ganyu, then 2U Hydro with Childe, and the enemy is only affected by Frozen, as displayed by Diluc only shattering when hitting the enemy with a heavy pyro attack. However, in the second situation, I apply 2U Hydro with Childe, then 1U Cryo with Ganyu, and the enemy is affected by Frozen and Hydro, as displayed by Diluc vaporizing with a heavy pyro attack.
+
+**Significance:** More knowledge about how frozen interacts with underlying auras, possibly better rotations
+
 ### Reaction Priority in Comparison to Shatter
 
 **By:** EternalDream\#5503
