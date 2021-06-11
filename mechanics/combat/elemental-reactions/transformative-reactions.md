@@ -28,9 +28,9 @@ $$
 LevelMultiplier \approx &
 \begin{cases}
 0.0002325 &\times CharLvl^{3} + 0.05547 \times CharLvl^{2} & \\
-&- 0.2523 \times CharLvl - 868 & \text{if, } CharLvl < 60 \\
+&- 0.2523 \times CharLvl + 14.47  & \text{if, } CharLvl < 60 \\
 0.00194 &\times CharLvl^{3} - 0.319 \times CharLvl^{2} & \\
-&+ 30.7 \times CharLvl + 14.47 & \text{if, } CharLvl \geq 60\\
+&+ 30.7 \times CharLvl - 868 & \text{if, } CharLvl \geq 60\\
 \end{cases}
 \end{align}
 $$
