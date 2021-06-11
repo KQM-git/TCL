@@ -1,5 +1,23 @@
 # Klee
 
+## Klee Burst Mechanics
+
+**By:** Ayzel\#7399
+
+**Added:** 6/11/2021
+
+**Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
+
+**Evidence:**
+
+1] youtube video of 6 waves occurring: https://youtu.be/ObwKAFrc548
+
+2] datamine evidence, showing that 3 hits have a 100% chance, one wave has a 50% chance, and another wave has a 30% chance: https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320
+
+3] some data collected that about matches the expected distribution of 35%, 50%, 15%: https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing
+
+**Significance:** Explanining how Klee's burst works
+
 ## How does 2 set Noblesse Oblige interact with C1 Klee?
 
 **By:** fin\#1623  
