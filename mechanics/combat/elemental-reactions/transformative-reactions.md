@@ -30,7 +30,7 @@ LevelMultiplier \approx &
 0.0002325 \times LvlCharacter^{3} & + 0.05547 \times LvlCharacter^{2}\\
 & - 0.2523 \times LvlCharacter - 868 & \text{if, } LvlCharacter < 60\\
 0.00194 \times LvlCharacter^{3} & - 0.319 \times LvlCharacter^{2}\\
-& + 30.7 & \times LvlCharacter + 14.47 & \text{if, } LvlCharacter \geq 60\\
+& + 30.7 \times LvlCharacter + 14.47 & \text{if, } LvlCharacter \geq 60\\
 \end{cases}
 \end{align}
 $$
