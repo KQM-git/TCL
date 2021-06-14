@@ -100,6 +100,8 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 | Energy Cost | 80 |
 | Cast frames | 88 |
 {% endtab %}
+
+* When playing Sunfire Jean with Bennett, Anemo can be the aura, rather than the trigger. 
 {% endtabs %}
 
 ## **Ascension Passives**
