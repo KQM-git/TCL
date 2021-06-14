@@ -184,7 +184,9 @@ Extends Riptide duration by 8s.
 {% tab title="Ascension 4" %}
 #### Sword of Torrents
 
-When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.
+When Tartaglia is in Foul Legacy: Raging Tide’s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents. 
+
+Riptide can be applied to shielded targets, assisting in destroying shields faster.
 {% endtab %}
 {% endtabs %}
 
