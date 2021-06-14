@@ -343,10 +343,8 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ### Simultaneous Hydro/Frozen Application
 
-**By:** Ayzel\#7399
-
-**Added:** 6/11/2021
-
+**By:** Ayzel\#7399  
+**Added:** 6/11/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843689180998402048/852779789747355688/transcript-simultaneous-hydro-on-freeze.html)
 
 **Finding:** Finding: Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
