@@ -115,6 +115,7 @@ When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain a
 When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental Energy.
 
 * This energy is not affected by ER.
+* This energy can proc vs enemy shields
 {% endtab %}
 {% endtabs %}
 
