@@ -76,7 +76,7 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 {% endtab %}
 
 {% tab title="Sparks \'n\' Splash" %}
-Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instances per wave for a total of 20 hits.
+Klee summons Sparks 'n' Splash, which deals damage in 6 waves over 10 seconds. On each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
 * If Klee leaves the field with this active no more damage will be dealt even if there is duration left.
 * This snapshots all temporary buffs when cast.
@@ -84,7 +84,7 @@ Klee summons Sparks 'n' Splash in 5 waves over 10 seconds with 4 damage instance
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | DMG | 59.70% |
-| Hits | 20 |
+| Hits | 22.8 (average) |
 | GU | 1A |
 | Duration | 10s |
 | Cooldown | 15s |
