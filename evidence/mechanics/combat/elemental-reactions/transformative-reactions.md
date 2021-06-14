@@ -1,43 +1,8 @@
 # Transformative Reactions
 
-## Formulae for Transformative Reactions
+## General Reaction Mechanics
 
-**By:** dandandin\#1486  
-**Added:** 11/7/2020
-
-**Editor’s note:**  
-You may also consider using the reaction damage calculator in the “calculator” section of this document
-
-**Theory:**  
-Since reaction damage is one of the most important mechanics in this game \(imo\), I decided to dig reaction damage calculation. Several posts can be found on reddit where autors aknowledge that "Transformative" reactions final damage is based on base damage for each type of reaction \(except for Melt/Vaporize\).
-
-Recently I've updated the post with RAW true base damage, considering the elemental resistance on data. So if you're going to use this new raw base damage, it's important to decrease final damage using given enemy elemental resistance.
-
-Edit: The post also brings EM% equations \(polynomial or exponential\). This is more straightforward.
-
-**Evidence:**
-
-[https://imgur.com/a/KM9nibk](https://imgur.com/a/KM9nibk)  
-[https://www.reddit.com/r/Genshin\_Impact/comments/j580by/elemental\_mastery\_damage\_increase/](https://www.reddit.com/r/Genshin_Impact/comments/j580by/elemental_mastery_damage_increase/)
-
-## Raw Data for Transformative Reaction \(Translation\)
-
-**By:** ExcelioN\#0152  
-**Added:** 11/15/2020
-
-**Editor’s Note:**  
-The numbers below haven’t been tested/checked by another theorycrafting kitten, this is purely translation work.
-
-**Source:**  
-[https://bbs.mihoyo.com/ys/article/2215872](https://bbs.mihoyo.com/ys/article/2215872)
-
-**Evidence:**  
-[https://docs.google.com/spreadsheets/d/19khY8CCwtuwtxKe0h89SufBJM9OnijDveqGcPm\_vR7Q/edit\#gid=0](https://docs.google.com/spreadsheets/d/19khY8CCwtuwtxKe0h89SufBJM9OnijDveqGcPm_vR7Q/edit#gid=0)
-
-**Significance:**  
-Just a more accurate database than using data calculated from formula.
-
-## Limitations of adjacent AoE Overload and Superconduct Damage
+### Limitations of adjacent AoE Overload and Superconduct Damage
 
 **By:** Tsym\#2586  
 **Added:** 11/24/2020
@@ -71,31 +36,6 @@ This strongly caps the potential AoE damage from both reactions, making Supercon
 
 ## Overload
 
-### Overload on Electrocuted Water Bodies
-
-**By:** GrygrFlzr\#6290  
-**Added:** 11/18/2020
-
-**Finding:**  
-You can trigger overload on electrocuted bodies of water.
-
-**Evidence:**
-
-1. Find an ore near a body of water
-2. Apply Electro to body of water \(e.g. Lisa charged attack\)
-3. Apply Pyro to body of water \(e.g. Bennett E\)
-4. Observe overloaded sound effect and nearby ores breaking
-
-[https://youtu.be/27ynZ-Rkjuo](https://youtu.be/27ynZ-Rkjuo)
-
-Credits to @Way for the initial finding.
-
-**Significance:**
-
-* Potential shenanigans vs. Oceanid?
-* Alternative mining method \(terrible, but hey\)
-* Order of operations - does this mean overload overrides vaporize? **\(We now know you can trigger both reactions at once\).**
-
 ### Overload Reaction ICD
 
 **By:** Sir\_pick\_the\_prick\#2209, Terrapin\#8603, Isu\#6867, and Aluminum\#5462  
@@ -124,6 +64,31 @@ Overload, and so far overload alone, seems to have a reaction specific icd of 0.
 
 **Significance:**  
 Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more pyro off-field enablers.
+
+### Overload on Electrocuted Water Bodies
+
+**By:** GrygrFlzr\#6290  
+**Added:** 11/18/2020
+
+**Finding:**  
+You can trigger overload on electrocuted bodies of water.
+
+**Evidence:**
+
+1. Find an ore near a body of water
+2. Apply Electro to body of water \(e.g. Lisa charged attack\)
+3. Apply Pyro to body of water \(e.g. Bennett E\)
+4. Observe overloaded sound effect and nearby ores breaking
+
+[https://youtu.be/27ynZ-Rkjuo](https://youtu.be/27ynZ-Rkjuo)
+
+Credits to @Way for the initial finding.
+
+**Significance:**
+
+* Potential shenanigans vs. Oceanid?
+* Alternative mining method \(terrible, but hey\)
+* Order of operations - does this mean overload overrides vaporize? **\(We now know you can trigger both reactions at once\).**
 
 ## Superconduct
 
@@ -376,6 +341,44 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 ## Frozen + Shatter
 
+### Simultaneous Hydro/Frozen Application
+
+**By:** Ayzel\#7399  
+**Added:** 6/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843689180998402048/852779789747355688/transcript-simultaneous-hydro-on-freeze.html)
+
+**Finding:** Finding: Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
+
+**Evidence:** https://youtu.be/wTNjwEvPrEk
+
+In the above video, in the first situation I apply 1U Cryo with Ganyu, then 2U Hydro with Childe, and the enemy is only affected by Frozen, as displayed by Diluc only shattering when hitting the enemy with a heavy pyro attack. However, in the second situation, I apply 2U Hydro with Childe, then 1U Cryo with Ganyu, and the enemy is affected by Frozen and Hydro, as displayed by Diluc vaporizing with a heavy pyro attack.
+
+**Significance:** More knowledge about how frozen interacts with underlying auras, possibly better rotations
+
+### Blunt Attacks have no ICD
+
+**By:** jstern25\#1399  
+**Added:** 04/09/2021
+
+**Theory:** Blunt attacks have no ICD, meaning they will always trigger shatter. This makes it suboptimal to run freeze with any character whose attacks have the "blunt" attribute.
+
+**Evidence:** [https://youtu.be/3rAbh9Gp2jw](https://youtu.be/3rAbh9Gp2jw)
+
+**Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
+
+### Shatter Damage ICD
+
+**By:** Monochrom9\#8058  
+**Added** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
+
+**Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
+
+**Evidence:** [Imgur GIF](https://github.com/Neptunya/TCL/tree/ac437ffe7921b9cce9f43689f1f4334815988929/a/NUt2o6H/README.md)
+
+**Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
+
+
 ### Reaction Priority in Comparison to Shatter
 
 **By:** EternalDream\#5503
@@ -543,45 +546,47 @@ bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17i
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
-### Blunt Attacks have no ICD
-
-**By:** jstern25\#1399  
-**Added:** 04/09/2021
-
-**Theory:** Blunt attacks have no ICD, meaning they will always trigger shatter. This makes it suboptimal to run freeze with any character whose attacks have the "blunt" attribute.
-
-**Evidence:** [https://youtu.be/3rAbh9Gp2jw](https://youtu.be/3rAbh9Gp2jw)
-
-**Significance:** Characters with blunt attribute attacks benefit significantly less from the 4 piece Blizzard Strayer's passive.
-
-### Shatter Damage ICD
-
-**By:** Monochrom9\#8058  
-**Added** 6/3/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
-
-**Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
-
-**Evidence:** [Imgur GIF](https://github.com/Neptunya/TCL/tree/ac437ffe7921b9cce9f43689f1f4334815988929/a/NUt2o6H/README.md)
-
-**Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
-
 ## Swirl
 
-### Elemental Infusion on Electro-Charged Enemy
+### How to get Double Swirls
 
 **By:** Ayzel\#7399  
-**Added:** 04/20/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833831469373718568/834244407888314438/transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
+**Added:** 5/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834597054301863965/839387910255280128/transcript-how-to-get-double-swirls.html)
 
-**Finding:** When Venti and Sucrose's bursts make contact with a mob which is affected by Electro-charged, the burst will infuse Hydro.
+**Finding:**  
+On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
 
-**Evidence:** \(provided by Terrapin\)  
-[EC Absorption Test Sucrose - Hydro applied first](https://www.youtube.com/watch?v=tmv_IU2PqBQ)  
-[EC Absorption Test Sucrose- Electro applied first](https://www.youtube.com/watch?v=TyPnCWmd-08)  
-[EC Absorption Test - Venti Burst](https://www.youtube.com/watch?v=q-Ep7_JsNfs)
+**Evidence:**  
+_Gauge reduction caused by Anemo must be greater than the hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of electro-charged\) in for a double swirl to occur_
 
-**Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
+* [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) \(double swirl\)
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(single swirl\)
+* [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) \(single swirl\)
+* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) \(double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur\)
+* [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) \(single swirl\)
+
+A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the anemo reduction must be greater than the hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
+
+_If the anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hydro\(Freeze\)_
+
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(hydro swirl\)
+* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) \(electro swirl\)
+
+**Significance:**  
+More knowledge about how swirl works, better rotations and team-building
+
+### Swirl AOE Limit
+
+**By:** Terrapin\#8603  
+**Added:** 4/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834419900104835122/837844958001758218/transcript-swirl-guide.html)
+
+**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
+
+**Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [https://imgur.com/a/sFnA4YH](https://imgur.com/a/sFnA4YH)
+
+**Significance:** better understanding of swirl, assisting in teambuilding
 
 ### Swirl Chain Reactions
 
@@ -614,60 +619,38 @@ It might help us figure out how to optimize shield breaking as claymore users. A
 
 **Significance:** Allows for better team-building and rotations, along with more understanding of how swirl works.
 
-### Swirl AOE Limit
-
-**By:** Terrapin\#8603  
-**Added:** 4/30/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834419900104835122/837844958001758218/transcript-swirl-guide.html)
-
-**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
-
-**Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [https://imgur.com/a/sFnA4YH](https://imgur.com/a/sFnA4YH)
-
-**Significance:** better understanding of swirl, assisting in teambuilding
-
-### How to get Double Swirls
+### Elemental Infusion on Electro-Charged Enemy
 
 **By:** Ayzel\#7399  
-**Added:** 5/5/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834597054301863965/839387910255280128/transcript-how-to-get-double-swirls.html)
+**Added:** 04/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833831469373718568/834244407888314438/transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
 
-**Finding:**  
-On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
+**Finding:** When Venti and Sucrose's bursts make contact with a mob which is affected by Electro-charged, the burst will infuse Hydro.
 
-**Evidence:**  
-_Gauge reduction caused by Anemo must be greater than the hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of electro-charged\) in for a double swirl to occur_
+**Evidence:** \(provided by Terrapin\)  
+[EC Absorption Test Sucrose - Hydro applied first](https://www.youtube.com/watch?v=tmv_IU2PqBQ)  
+[EC Absorption Test Sucrose- Electro applied first](https://www.youtube.com/watch?v=TyPnCWmd-08)  
+[EC Absorption Test - Venti Burst](https://www.youtube.com/watch?v=q-Ep7_JsNfs)
 
-* [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) \(double swirl\)
-* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(single swirl\)
-* [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) \(single swirl\)
-* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) \(double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur\)
-* [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) \(single swirl\)
-
-A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the anemo reduction must be greater than the hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
-
-_If the anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hydro\(Freeze\)_
-
-* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(hydro swirl\)
-* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) \(electro swirl\)
-
-**Significance:**  
-More knowledge about how swirl works, better rotations and team-building
+**Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
 
 ## Crystallize
 
-### **Crystallize on an Electro-Charged Enemy**
+### Crystallize refresh
 
-**By:** Jonahfarc\#7056  
-**Added:** 04/14/2021
+**By:** Terrapin\#8603  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840102649700286524/845515459915022356/transcript-crystallize-refresh.html)
 
-**Finding:** Crystallizing an Electro-Charged enemy always results in an Electro crystal.
+**Theory:** Crystallize resets when a new one is picked up, and the shield value is based on the character that produced the Crystallize, even if a previous Crystallize generated by a different character is currently on the active character.
 
-**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY)
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=sUppncItiSU)
 
-I electro charged in different orders with different application strengths. The result was always an Electro crystal.
+The first test in the video shows that Noelle's Crystallize on Noelle can take at least 4 hits from attacks that do the same damage without breaking.  
+The second test shows that Zhongli's Crystallize on Noelle can only take 2 hits before breaking on the third hit, taking 1139 damage.  
+The third test shows Noelle's Crystallize on Noelle take a single hit, and then is reset by Zhongli's Crystallize which then takes 2 hits before breaking on the third hit, taking 1139 damage.
 
-**Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
+**Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
 
 ### Crystallize Shields don't Stack
 
@@ -687,19 +670,15 @@ The second test in the video shows Noelle picking up a Cryo Crystallize shield, 
 **Significance:**  
 The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
 
-### Crystallize refresh
+### **Crystallize on an Electro-Charged Enemy**
 
-**By:** Terrapin\#8603  
-**Added:** 5/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840102649700286524/845515459915022356/transcript-crystallize-refresh.html)
+**By:** Jonahfarc\#7056  
+**Added:** 04/14/2021
 
-**Theory:** Crystallize resets when a new one is picked up, and the shield value is based on the character that produced the Crystallize, even if a previous Crystallize generated by a different character is currently on the active character.
+**Finding:** Crystallizing an Electro-Charged enemy always results in an Electro crystal.
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=sUppncItiSU)
+**Evidence:** [https://youtu.be/Z9zOXsy\_qUY](https://youtu.be/Z9zOXsy_qUY)
 
-The first test in the video shows that Noelle's Crystallize on Noelle can take at least 4 hits from attacks that do the same damage without breaking.  
-The second test shows that Zhongli's Crystallize on Noelle can only take 2 hits before breaking on the third hit, taking 1139 damage.  
-The third test shows Noelle's Crystallize on Noelle take a single hit, and then is reset by Zhongli's Crystallize which then takes 2 hits before breaking on the third hit, taking 1139 damage.
+I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
-**Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
-
+**Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
