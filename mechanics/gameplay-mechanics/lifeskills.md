@@ -32,6 +32,7 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 | Rarity | Artifact XP | Mora from Destroying |
 | :--- | :--- | :--- |
+| 4 Star | 2520 | 2520 |
 | 3 Star | 1260 | 1260 |
 | 2 Star | 840 | 840 |
 | 1 Star | 420 | 420 |
@@ -46,7 +47,8 @@ Destroying Artifacts will give mora equal to the amount of artifact XP. While de
 
 #### Can't be Destroyed:
 
-* 5\* or 4\* artifacts and weapons 
+* 5\* artifacts
+* 5\* or 4\* Weapons
 * Refined 3\* weapons
 * Character Development Materials
 * Food \(except apples and sunsettia\)
