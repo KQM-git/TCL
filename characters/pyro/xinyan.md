@@ -128,7 +128,7 @@ Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% tab title="C1" %}
 ## Fatal Acceleration
 
-Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s.
+Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s. (can trigger vs shielded enemies)
 {% endtab %}
 
 {% tab title="C2" %}
