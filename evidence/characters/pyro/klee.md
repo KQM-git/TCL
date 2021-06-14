@@ -1,37 +1,24 @@
 # Klee
 
-## How does 2 set Noblesse Oblige interact with C1 Klee?
+## Klee Burst Waves Mechanics
 
-**By:** fin\#1623  
-**Added:** 12/6/2020
+**By:** Ayzel\#7399  
+**Added:** 6/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851923227819114496/852776649149513748/transcript-klee-burst-mechanics.html)
 
-**Theory:**  
-Does Noblesse affect Klee's c1 procs.
+**Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
-**Finding:**  
-Yes they do.
+**Evidence:**
 
-**Evidence:**  
-[https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
+1] youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
 
-**Significance:**  
-2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
+2] datamine evidence, showing that 3 hits have a 100% chance, one wave has a 50% chance, and another wave has a 30% chance: [https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320)
 
-## Klee’s Q is snapshotted on cast
+3] some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
 
-**By:** stellar\#7066  
-**Added:** 12/7/2020
+**Significance:** Explanining how Klee's burst works
 
-**Finding:**  
-Klee's burst \(Q\) is snapshotted.
-
-**Evidence:**  
-[https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
-
-**Significance:**  
-You can leave Bennett Q after using Klee burst and you also keep other atk% buffs that were enabled before Klee burst.
-
-## Klee mine ICD
+## Klee Mine ICD
 
 **By:** Sakuno\#7950 and Steph\#3614  
 **Added:** 03/16/2021
@@ -118,26 +105,34 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 * Klee Charge Attack
 * Repeat.
 
-## Turbo Klee with C6 Fischl \(Turbo Fixed in 1.5\)
+## Klee’s Q is snapshotted on Cast
 
-**By:** Vye\#9195  
-**Added:** 4/2/2021
+**By:** stellar\#7066  
+**Added:** 12/7/2020
 
 **Finding:**  
-Klee is able to provide a sufficient enough pyro aura to overtake Oz for a Fischl pyro turbo setup.
+Klee's burst \(Q\) is snapshotted.
 
-Setup is as follows:
-
-* Klee is equipped with a 4 piece thundering fury to determine if she or Oz are triggering overload
-* We start on Fischl calling Oz, then switch to Klee for pyro aura.
-* Klee's combo is EQ followed by 1NACA jump cancel spam or 2NACA jump cancel spam
-* After one initial thundering fury trigger Klee overtakes Oz in aura and therefore the turbo mechanic starts working
+**Evidence:**  
+[https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
 
 **Significance:**  
-Klee can potentially be used as the main pyro unit enabling Fisch turbo comps. However this requires a high barrier of execution due to Klees mechanical nature.
+You can leave Bennett Q after using Klee burst and you also keep other atk% buffs that were enabled before Klee burst.
 
-**Video proof:**
 
-* [1NACA version](https://www.youtube.com/watch?v=GNJt-SegTCE)
-* [2NACA version](https://www.youtube.com/watch?v=GyYXIW485Ys)
+## How does 2 set Noblesse Oblige interact with C1 Klee?
 
+**By:** fin\#1623  
+**Added:** 12/6/2020
+
+**Theory:**  
+Does Noblesse affect Klee's c1 procs.
+
+**Finding:**  
+Yes they do.
+
+**Evidence:**  
+[https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
+
+**Significance:**  
+2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
