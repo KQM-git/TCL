@@ -128,6 +128,7 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
 * Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
+* Eula's burst does not snapshot even after she is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
 {% endtab %}
 {% endtabs %}
 
