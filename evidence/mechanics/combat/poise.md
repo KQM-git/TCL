@@ -12,50 +12,34 @@ The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interrup
 
 
 
-## Character base poise is based on weapon type
+## Character Base Poise is Based on Weapon Type
 
-**By:** Hu taoist#2140 
-
-**Added:** 6/14/2021
-
+**By:** Hu taoist#2140  
+**Added:** 6/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845919037967171604/854009128891973692/transcript-character-poise-is-based-on-weapon.html)
 
-**Finding:**
-
+**Finding:**  
 Character base poise or stagger res is base on the character's weapon type (melee and range)
 
-**Evidence:**
-
+**Evidence:**  
 For range units using Fischl and Yanfei vs a basic hilli mob
 
-[Fischl Poise](https://youtu.be/cM_BoweqidU)
-
-[Yanfei Poise](https://youtu.be/us6Am196hoE)
+* [Fischl Poise](https://youtu.be/cM_BoweqidU)
+* [Yanfei Poise](https://youtu.be/us6Am196hoE)
 
 For melee units: using Beidou, XQ and XL vs a basic hilli mob
 
-[Beidou Poise 1](https://youtu.be/11nEMUdwmhI)
+* [Beidou Poise 1](https://youtu.be/11nEMUdwmhI)
+* [Beidou Poise 2](https://youtu.be/NzQetJnmgoc)
+* [Xingqiu Poise 1](https://youtu.be/RvF74VWLab8)
+* [Xingqiu Poise 2](https://youtu.be/yPV3C4xuomk)
+* [Xiangling Poise 1](https://youtu.be/q5Fib_VG-Xc)
+* [Xiangling Poise 2](https://youtu.be/QXML2v3dvDs)
 
-[Beidou Poise 2](https://youtu.be/NzQetJnmgoc)
+[Childe Poise Ranged + Melee Mode](https://www.youtube.com/watch?v=MhA-uOrUdFU)
 
-[Xingqiu Poise 1](https://youtu.be/RvF74VWLab8)
+**Significance:**  
 
-[Xingqiu Poise 2](https://youtu.be/yPV3C4xuomk)
-
-[Xiangling Poise 1](https://youtu.be/q5Fib_VG-Xc)
-
-[Xiangling Poise 2](https://youtu.be/QXML2v3dvDs)
-
-**Significance:** 
-
-claymore, sword, and Polearm units has the same base poise.
-
-Catalyst and bow has the same base poise.
-
-Melee units has higher base poise compared to range units.
-
-**Note:** 
-
-I have not tested the outlier unit being Childe due to not having him. So idk if he changes his base poise between modes.
-
-
+* Claymore, sword, and Polearm units have the same base poise. 
+* Catalyst and bow units have the same base poise.
+* Melee units has higher base poise compared to range units.
