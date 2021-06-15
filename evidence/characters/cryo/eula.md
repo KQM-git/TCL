@@ -92,26 +92,21 @@
   * Test was done with an [Attack speed increase abyss card](eula.md)
   * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
 
-### Eula Swap Buff
+## Eula Swap Buff
 
-**By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836
-
-**Added:** 6/14/2021
-
+**By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836  
+**Added:** 6/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845173856271597578/854016900095016960/transcript-eula-swap-buff.html)
 
-**Finding:**
-
+**Finding:**  
 Eulas burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4no, rosarias crit buff and certain users of 4tom
 
 **Evidence:** 
 
-<https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4pc Noblesse Oblige proof
+* <https://youtu.be/oWJQOgDSJDk> and <https://youtu.be/6ThAiLjeSfA> for 4pc Noblesse Oblige proof
+* <https://youtu.be/1tor1JeT-Hg> for Rosaria crit share buff
+* <https://youtu.be/p_cr_tGKXV8> for Diona swap buff
+* <https://youtu.be/Efp8593Wrmk> for Xinyan buff
 
-<https://youtu.be/1tor1JeT-Hg> and <https://youtu.be/B222XSqPN4c> for 4pc Tenacity of the Millelith Xiao. 
-
-<https://youtu.be/p_cr_tGKXV8> for Diona swap buff
-
-<https://youtu.be/Efp8593Wrmk> for Xinyan buff
-
-**Signficance** Allows for better burst cycles. 
+**Signficance:**  
+Allows for better burst cycles. 
