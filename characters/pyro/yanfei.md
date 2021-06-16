@@ -131,6 +131,7 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
+* **Blazing Eye** can trigger vs enemy shields.
 {% endtab %}
 {% endtabs %}
 
