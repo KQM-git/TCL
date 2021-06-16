@@ -1,5 +1,9 @@
 # Jean
 
+**Main Page:**
+
+{% page-ref page="../../characters/anemo/jean.md" %}
+
 ## Jean's C4 verticality
 
 **By:** Special\#1775  
@@ -109,29 +113,22 @@ Illustrates that Jean's Held Gale Blade produces inconsistent numbers compared t
 _Additional Notes:_  
 Further proves that fall damage is based on velocity, not height \(however greater height causes more acceleration\). Also proves that objects \(such as Baron Bunny\) have different hitboxes than enemies when calculating fall damage. Also, some instances of fall damage are drastically lower. This is likely due to a bug.
 
-
 ## Anemo Aura
 
-**By:** ProfHugo#6478
-
-**Added:** 6/14/2021
-
+**By:** ProfHugo#6478  
+**Added:** 6/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853336250898579476/854032596726972456/transcript-anemo-aura.html)
 
-**Finding:**
-
+**Finding:**  
 Anemo can be the aura for swirl during Bennett-Jean Sunfire under very specific circumstances
 
-**Evidence** 
-
-<https://youtu.be/ZEQdmWjMBNM?t=16> 
+**Evidence:** <https://youtu.be/ZEQdmWjMBNM?t=16>   
 
 At 0:16-0:17, Bennett's Q applied pyro shortly after Jean Q applied anemo on the active character (Kaeya). This caused Bennett to become the trigger for swirl, causing a sunfire pulse which was vaporized for 2244 pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger. 
 
 Though there isn't currently a known method for reliably reproducing this phenomenon, it is near certain that the conditions required to replicate this involves swapping characters while under both Bennett Q and Jean Q such that Jean's Q applies anemo right before Bennett's Q applies pyro on the active character. 
 
-**Significance** 
-
+**Significance:**  
 This is the second known scenario where anemo is not the trigger of a swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of anemo aura
 
 Lastly, it debunks the common belief that anemo cannot be the aura for a swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
