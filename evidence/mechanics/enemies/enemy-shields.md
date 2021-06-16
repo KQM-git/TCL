@@ -170,3 +170,56 @@ Damage to enemy shields is affected by three main formulas, which are summed for
 **Evidence:**  
 There are pages on the wiki that already detail this information, however I created a [google document](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) which aims to compile it all into one source which is easy to digest. All references are included in the document.
 
+
+## Critial-hit triggered abilities interactions with shields 
+
+**By:** Silvershine2#5439  
+**Added:** 6/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846051562517168218/854022298591821844/transcript-blocked-crit-hit-procs.html)
+
+**Finding:**  
+Attacks blocked by enemy shields are still counted at scoring a critical hit and therefore activate abilities with a crit hit as condition
+
+**Evidence:**
+
+Xinayn C1 Attack Speed increase 
+
+* [vs Elemental Shields](https://youtu.be/4Y17gQ7awUw)
+* [vs Stone Shields](https://youtu.be/SZLRK5i9UfM)
+
+Klee A4 team energy recharge by Raf#7220 (110% Crit Rate Klee)
+
+* [vs Pyro Shield](https://youtu.be/2P3QqMiDChg)
+* [vs Cryo Shield](https://youtu.be/3Pr0sAC0ANE)
+* [vs Gep Shield](https://youtu.be/4rRM7oEsB9E)
+
+Rosaria C1 Attack speed and normal attack dmg increase
+
+* [vs Elemental Shield](https://youtu.be/jUg-hVDomds)
+* [vs Stone Shield](https://youtu.be/OkZz5x-HoGY)
+
+Yanfei A4 damage instance proc
+
+* [vs Elemental Shield](https://youtu.be/h-PZBu-c7j8)
+* [vs Immune Elemental Shield](https://youtu.be/5ckArmXa-q0)
+* [vs Stone Shield](https://youtu.be/uwWYhDIlvkk)
+
+Favonius Sword
+
+* [vs Elemental Shield](https://youtu.be/Np-mnMZoMYc)
+* [vs Stone Shield](https://youtu.be/o_8OeT1iGkY)
+
+**Significance:**  
+Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring critical hits vs shields
+
+**Yanfei:** Getting A4 procs is highly useful especially vs elemental shields to apply more U pyro, which makes quicker work of these shields. Abyss Lectors are the most important, but also double pyro application and the charged attack being heavy can become useful for dealing with stone shields and proccing overload more often
+
+**Xinyan:** Can maybe make a difference in destroying stone shields a little bit faster, but this is imo not a significant find
+
+**Klee:** Free energy even if enemies block ore negate damage is always a good thing
+
+**Tartaglia:** Applying riptide through shields is highly usefull. Aids in destroying elemental shields faster and applying electrocharged AoE with riptide helps with poise damaging multiple shield enemies at once
+
+**Rosaria:** Not very significant imo , similar to Xinyan
+
+**Favonius Weapons:** Its a shame because not getting the fav proc due to getting blocked can mess up rotations and players utilizing fav weapons should be aware of this issue
