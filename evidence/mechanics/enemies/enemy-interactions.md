@@ -1,5 +1,9 @@
 # Enemy Interactions
 
+**Main Page:**
+
+{% page-ref page="../../mechanics/enemies/enemy-interactions.md" %}
+
 ## Abyss Heralds
 
 ### Abyss Herald Cooldown Mechanics
@@ -97,24 +101,21 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 **Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC
 
-## Interrupting enemies causes phantom attacks
+## General Enemy Interactions
 
-**By:** Iron IV#3832
+### Interrupting Enemies Causes Phantom Attacks
 
-**Added:** 6/14/2021
-
+**By:** Iron IV#3832  
+**Added:** 6/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849182058525229056/854018708397752332/transcript-interrupting-enemies-causes-phantom-attacks.html)
 
-**Bug:**
-
-Interrupting enemies during an attack can cause them to produce phantom attacks. They sometimes still deal damage.
+**Bug:**  
+Interrupting enemies during an attack can cause them to produce phantom attacks, which can sometimes still deal damage.
 
 **Evidence:**
 
-<https://youtu.be/SVo7ZOlVnEw>
+* <https://youtu.be/SVo7ZOlVnEw>
+* <https://youtu.be/O_ciBM2wgZE>
 
-<https://youtu.be/O_ciBM2wgZE>
-
-**Signifiance:**
-
+**Significance:**  
 Watch out for enemy attacks if they were interrupted.
