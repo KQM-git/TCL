@@ -130,7 +130,7 @@ Casting Rites of Termination increases CRIT RATE of all nearby party members, ex
 {% tab title="C1" %}
 ### Unholy Revelation
 
-When Rosaria deals a CRIT Hit, her ATK Speed increase by 10% and her Normal Attack DMG increases by 10% for 4s
+When Rosaria deals a CRIT Hit, her ATK Speed increase by 10% and her Normal Attack DMG increases by 10% for 4s (can trigger vs shielded enemies)
 {% endtab %}
 
 {% tab title="C2" %}
