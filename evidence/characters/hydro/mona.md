@@ -1,5 +1,9 @@
 # Mona
 
+**Main Page:**
+
+{% page-ref page="../../characters/hydro/mona.md" %}
+
 ## **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
 
 **By:** Kimmu\#0007  
@@ -60,7 +64,7 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 ## **What Attack String Combo Outputs the Highest DPS for Mona?**
 
 **By:** Baezal\#0868  
-**Added:** 27/12/2020
+**Added:** 12/27/2020
 
 **Finding:**
 
@@ -203,20 +207,19 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 
 ## C1 Co-op Clarification
 
-**By:** Terrapin\#8603 and sleepy\#0042
-
+**By:** Terrapin\#8603 and sleepy\#0042  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846175551470829578/854997178450444318/transcript-mona-c1-coop.html)
 
-**Finding:** Mona's C1 buff only applies to your own party members in coop, and not other players.
+**Finding:**  
+Mona's C1 buff only applies to your own party members in coop, and not other players.
 
 **Evidence:** 
 
-[Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)
-
+[Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)  
 As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-charged damage is not changed, but Mona's 1172 Electro-charged damage increases to 1326.
 
-[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY) 
-
+[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY)   
 Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
 
-**Significance:** Mona's C1 does not work party-wide in co-op.
+**Significance:**  
+Mona's C1 does not work party-wide in co-op.
