@@ -205,6 +205,8 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 
 **By:** Terrapin\#8603 and sleepy\#0042
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846175551470829578/854997178450444318/transcript-mona-c1-coop.html)
+
 **Finding:** Mona's C1 buff only applies to your own party members in coop, and not other players.
 
 **Evidence:** 
