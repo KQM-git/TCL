@@ -468,3 +468,13 @@ Reviewed/Edited by: IonFox, Doug
 
 **Significance:** With this technique you can infuse elements that are otherwise not present AT ALL within your team or the enemies, allowing for compositions to cheat the matching element into their team at little cost. A current powerful application of this is using this to deal with Hydro Fatui gunner's shield in lieu of bringing an actual electro unit, decreasing the number of constraints on floor 11 team construction if you can't simply kill the Fatui before they put up the shield.
 
+## Reapplying Hydro on Freeze
+
+**By:** Some Proselytizer\#8340 and Aetherpon\#5730  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845683620832084008/855002512116416512/transcript-freeze-test-hunt.html)
+
+**Finding:** Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
+
+**Evidence:** [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing), [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing), [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing), [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing), [Frame Counts in Excel Sheet](https://cdn.discordapp.com/attachments/845683620832084008/845690939275739207/FreezeCounts.xlsx)
+
+**Significance:** Better understanding of Freeze.

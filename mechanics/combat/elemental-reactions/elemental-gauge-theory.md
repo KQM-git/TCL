@@ -76,6 +76,8 @@ If the Trigger Gauge is greater than the Aura Gauge, a reaction will still occur
 
 Once freeze is triggered, an enemy will be afflicted by a **frozen aura**. This aura hides the hydro aura, and any elements applied to a frozen enemy will react with cryo. Removing the frozen aura, either through melt or shatter, will also remove cryo and expose the hydro aura, allowing any elemental sources to react with hydro again. Even while the hydro aura is hidden under the frozen aura, hydro will continue to decay as normal.
 
+Freeze is not extended when reapplying Hydro on a Frozen target.
+
 ## Melt and Vaporize
 
 ### Reaction Basics
@@ -168,6 +170,8 @@ Furthermore, Self Auras have a particular interaction with Elemental Absorptions
 * Bobrokrot\#0111
 * IonFox\#8887
 * Monochrom9\#8058
+* Some Proselytizer\#8340
+* Aetherpon\#5730
 
 ## Media
 
