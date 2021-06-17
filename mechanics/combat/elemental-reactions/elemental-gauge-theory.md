@@ -170,6 +170,8 @@ Furthermore, Self Auras have a particular interaction with Elemental Absorptions
 * Bobrokrot\#0111
 * IonFox\#8887
 * Monochrom9\#8058
+* Some Proselytizer\#8340
+* Aetherpon\#5730
 
 ## Media
 
