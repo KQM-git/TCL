@@ -84,6 +84,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 * Increases his attack AoE and attack DMG.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
 * Xiao will continuously lose HP during this state. 
+* Xiao's attacks will be infused with 1GU Anemo.
 
 | Effect | Talent 6% |
 | :--- | :--- |
