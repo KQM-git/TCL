@@ -470,8 +470,7 @@ Reviewed/Edited by: IonFox, Doug
 
 ## Reapplying Hydro on Freeze
 
-**By:** Some Proselytizer\#8340 and Aetherpon\#5730
-
+**By:** Some Proselytizer\#8340 and Aetherpon\#5730  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845683620832084008/855002512116416512/transcript-freeze-test-hunt.html)
 
 **Finding:** Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
