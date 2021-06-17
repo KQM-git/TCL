@@ -29,3 +29,18 @@ Baron Bunny may be used as an entity to hold certain auras.
 
 **Significance:** The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
 
+## C0 Amber: 2 Simultaneous Baron Bunnies
+
+**By:** Exuma\#1917 
+
+**Added:** 6/17/2021 
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846678238796316683/854985101988593694/transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
+
+**Finding:** Two Baron Bunnies can exist simultaneously on C0 Amber
+
+**Evidence:** [Video](https://youtu.be/a3_6u2jdFsE) 
+
+Test was done on Floor 1 of the Abyss with a 4-piece Gambler set. 
+
+**Significance:** It is possible to spawn multiple Baron Bunnies at once without C4 Amber. 
