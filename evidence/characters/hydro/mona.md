@@ -201,3 +201,20 @@ Illusory Bubble can be extended to its maximum duration in specific scenarios wi
 **Significance:**  
 Allows for longer use of Omen's buff to said enemies in team comps outside of freeze.
 
+## C1 Co-op Clarification
+
+**By:** Terrapin\#8603 and sleepy\#0042
+
+**Finding:** Mona's C1 buff only applies to your own party members in coop, and not other players.
+
+**Evidence:** 
+
+[Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)
+
+As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-charged damage is not changed, but Mona's 1172 Electro-charged damage increases to 1326.
+
+[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY) 
+
+Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
+
+**Significance:** Mona's C1 does not work party-wide in co-op.
