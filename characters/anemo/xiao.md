@@ -40,6 +40,7 @@ Xiao performs up to six consecutive spear strikes.
 
 **Charged Attack**  
 Consumes 25 Stamina to perform an upward thrust.
+* Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 
 | String | Talent 6 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
