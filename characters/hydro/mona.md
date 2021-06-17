@@ -170,6 +170,8 @@ When any of your own party members hit an opponent affected by an **Omen**, Hydr
 
 This bonus effect is additive and classified as **ReactionBonus.**  
 See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#amplifying-reaction-bonus)
+
+Teammates in Co-op are not counted as "your own party members" and will not obtain the effects of **Prophecy of Submersion.**
 {% endtab %}
 
 {% tab title="C2" %}
