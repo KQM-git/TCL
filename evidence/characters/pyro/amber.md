@@ -37,7 +37,7 @@ Baron Bunny may be used as an entity to hold certain auras.
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846678238796316683/854985101988593694/transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
 
-**Finding:** Two Baron Bunnies can exist simultaneously on C0 Amber
+**Finding:** Two Baron Bunnies can exist simultaneously on C0 Amber.
 
 **Evidence:** [Video](https://youtu.be/a3_6u2jdFsE) 
 
