@@ -77,6 +77,7 @@ Ganyu dashes backward, leaving an **Ice Lotus** behind and dealing AoE Cryo DMG.
   * This taunt applies to all enemies in the game that are not considered bosses.
 * The health of **Ice Lotus** scales based on Ganyu's max HP..
 * **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
+* Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
 
 | Effect | Talent 6% |
 | :--- | :--- |
