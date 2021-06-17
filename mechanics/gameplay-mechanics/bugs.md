@@ -18,6 +18,23 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-interactions) With unstable internet connection. Character stats are snapshotted client-side with enemy stats calculated server-side. This can lead to things like Bennett's burst healing past 70%, or Albedo's A1 not benefitting from enemies falling below 50% HP.
 
+### Netlimited Blade Works
+
+**By:** Ayzel\#7399
+
+**Added:** 6/16/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838967062184984636/854582115995877397/transcript-high-ping-multiple-orbital-application.html)
+
+**Finding:** Xingqiu's orbital rain swords can apply hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply hydro.
+
+**Evidence:** 
+
+High Ping Test: https://youtu.be/k2f2aAR4AS4
+Low Ping Test: https://www.youtube.com/watch?v=KJTw7EnDtNU&ab_channel=Ayzel
+
+**Significance:** Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xingqiu teams where pyro units would typically apply too much pyro to consistently vape pyro hits.
+
 ## Artifacts
 
 The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a result of their casting
