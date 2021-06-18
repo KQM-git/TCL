@@ -137,7 +137,7 @@ C = Numbers of Cicin alive.**
 
 **Elemental Armor** is the type of shield that protects mobs such as **Stonehide Lawachurl, Fatui, Geo Slimes, and Regisvine bosses.**
 
-One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy has 95% universal damage resistance while armored so your damage will be significantly lower.
+One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy gains +100% RES to Elemental attacks and Physical attacks while armored, which comes out to a total of 110% Elemental RES and 80% Physical RES.
 
 ![](../../.gitbook/assets/zhongli_vs_fatui.png)
 
