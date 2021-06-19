@@ -1,6 +1,6 @@
 # Weapons
 
-## nBane of ... Series
+## Bane of ... Series
 
 ### Lion's Roar Passive Applies to all forms of DMG inflicted on Electro-Debuffed Enemy
 
