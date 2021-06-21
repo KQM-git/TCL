@@ -132,3 +132,19 @@ Though there isn't currently a known method for reliably reproducing this phenom
 This is the second known scenario where anemo is not the trigger of a swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of anemo aura
 
 Lastly, it debunks the common belief that anemo cannot be the aura for a swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
+
+## Fall Damage Is Influenced By Poise
+
+**By:** ColaSenami#5312    
+**Added:** 6/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
+
+**Finding:**  
+The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
+
+**Evidence:**  
+Original clip is from xf3, then made to edit to make it side by side. In the video below it shows an abyss mage with 0 poise (stunned/staggered) vs an abyss mage with 2.25 poise. mage at 0 poise was launched at higher velocity than the mage who is dancing. This is easily reproducible.  
+[Video](https://www.youtube.com/watch?v=eVPetqEeJU4)
+
+**Significance:**  
+Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall dmg hit higher numbers.
