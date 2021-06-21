@@ -14,6 +14,8 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [Bushes respawn infinitely](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
 
+[Throwing a Harpastum while entering aim mode](../../evidence/mechanics/gameplay-mechanics/bugs.md#aiming-harpastum) can force a third-person perspective while still aiming your bow.
+
 ## Lag
 
 [There are a lot of strange interactions with lag.](../../evidence/mechanics/gameplay-mechanics/bugs.md#lag-and-snapshot-interactions) With unstable internet connection. Character stats are snapshotted client-side with enemy stats calculated server-side. This can lead to things like Bennett's burst healing past 70%, or Albedo's A1 not benefitting from enemies falling below 50% HP. This can also cause [Xingqiu's orbital rainswords to apply hydro multiple times](../../evidence/mechanics/gameplay-mechanics/bugs.md#netlimited-blade-works), the higher the ping, the more hydro applications.

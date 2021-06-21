@@ -161,6 +161,7 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 ### Invincible Stonewall
 
 Party members within the radius of Wake of Earth have their Crit Rate increased by 10% and have increased resistance against interruption.
+- Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior Wake of Earth 
 {% endtab %}
 
 {% tab title="C2" %}

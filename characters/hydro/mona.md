@@ -146,6 +146,7 @@ When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a po
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**:
 
 * A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**.
+* Damage dealt by this **Phantom** is considered elemental skill damage, and can thus trigger related artifact effects.
 {% endtab %}
 
 {% tab title="Ascension 4" %}

@@ -1,5 +1,9 @@
 # Traveler \(Geo\)
 
+**Main Page:**
+
+{% page-ref page="../../characters/geo/traveler-geo.md" %}
+
 ## Multiple E Skill Resonance Can Hit 1 Target
 
 **By:** The CEO of GEO\#7227
@@ -46,3 +50,20 @@ Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether
 
 [https://docs.google.com/spreadsheets/d/1\_\_g4Q5c4uD5sG2gWzS3IwAkQEU\_sO9-ivNALB9\_sQmI/edit?skip\_itp2\_check=true\#gid=1062073362](https://docs.google.com/spreadsheets/d/1__g4Q5c4uD5sG2gWzS3IwAkQEU_sO9-ivNALB9_sQmI/edit?skip_itp2_check=true#gid=1062073362)
 
+## Geo MC C1 activation after Cast
+
+**By:** Vherax\#5321  
+**Added:** 6/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845028522325573702/856407372993527828/transcript-geo-mc-c1-does-not-apply-to-burst.html)
+
+**Finding:**
+Geo MC C1 10% Crit rate buff becomes active after stone wall is created and does not affect the burst itself upon activation
+
+**Evidence:**
+[https://youtu.be/DBMJEKuABes]
+Video shows geo MC with c6 and >90% crit rate not critting on 3rd hit of his Q.
+If the crit bonus applied to burst damage, it would be impossible to not crit.
+
+**Significance**
+- Geo MC's burst does not apply C1 buff to its own damage (unless a ring from previous burst still exists)
+- With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.
