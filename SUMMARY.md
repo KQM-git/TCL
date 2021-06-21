@@ -110,6 +110,7 @@
 ## Fluff
 
 * [Miscellaneous Entries](fluff/miscellaneous-entries.md)
+* [Overworld](fluff/overworld.md)
 
 ## Resources
 
@@ -202,4 +203,6 @@
         * [Cards](evidence/mechanics/gameplay-mechanics/spiral/cards.md)
         * [Tech](evidence/mechanics/gameplay-mechanics/spiral/tech/README.md)
           * [Plunge](evidence/mechanics/gameplay-mechanics/spiral/tech/plunge.md)
+    * [Fluff](evidence/fluff/README.md)
+      * [Overworld](evidence/fluff/overworld.md)
 
