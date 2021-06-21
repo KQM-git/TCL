@@ -43,6 +43,18 @@
 
 **Significance:** Time to farm your eggs and lizards guys
 
+### Aiming Harpastum
+
+**By:** Iron IV#3832  
+**Added:** 06/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+
+**Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
+
+**Evidence:** (https://youtu.be/eO-l1h-f2p4)
+
+**Significance:** You can view aimed mode shots in third person without any friends
+
 ## Lag
 
 ### Netlimited Blade Works
@@ -207,15 +219,3 @@ This may be considered a bug due to the visual indication being tilted, but the 
 It can happen against any enemy, and it seems to be a random occurrence. It doesn't seems to follow any pattern \(in some tests it would happen 1 time in 10 mins, in others it would happen 2 times in 2 mins\). It doesn't seems to be related to Mona's Cons, Weapons, Artifacts, neither to mechanical input or ping. It doesn't happens if you use Hold E, only on Press E. Don't know if this bug happened in previous patches. Thanks to @Aluminum \| Harbinger of Jank for one of the clips.
 
 **Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
-
-### Aiming Harpastum
-
-**By:** Iron IV#3832  
-**Added:** 06/20/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
-
-**Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
-
-**Evidence:** (https://youtu.be/eO-l1h-f2p4)
-
-**Significance:** You can view aimed mode shots in third person without any friends
