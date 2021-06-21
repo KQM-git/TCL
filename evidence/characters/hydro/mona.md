@@ -223,3 +223,19 @@ Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
 
 **Significance:**  
 Mona's C1 does not work party-wide in co-op.
+
+## A1 damage type
+
+**By:** Drazatis\#9999  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855354855525580800/856384260121034752/transcript-4-tom-mona-a1-edition.html)
+
+**Finding:**  
+Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Trials of the Millelith, thus is considered elemental skill damage.
+
+**Evidence:** 
+
+[https://youtu.be/8ArWy-739TQ]
+
+**Significance:**  
+While I sincerely doubt that 4 ToM Mona will become a viable build path for her, knowing that her A1 can help proc skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
+
