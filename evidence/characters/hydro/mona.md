@@ -230,7 +230,7 @@ Mona's C1 does not work party-wide in co-op.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855354855525580800/856384260121034752/transcript-4-tom-mona-a1-edition.html)
 
 **Finding:**  
-Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Trials of the Millelith, thus is considered elemental skill damage.
+Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered elemental skill damage.
 
 **Evidence:** 
 
