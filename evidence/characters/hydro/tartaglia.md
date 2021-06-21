@@ -172,3 +172,17 @@ Prototype Crescent's passive, Unreturning, will activate when a charged attack h
 **Significance:**  
 Hopefully, by knowing this, people can start twiddling around this and find much more unique interactions between Crescent's passive and its user, specifically Childe, but that's only because he is the only hybrid unit between melee and range so far. If there is a direct Crescent counterpart in the future\(swords, polearms, claymores\) and there's a unit that is also a hybrid like Childe, we can be sure that said unit's elemental skill can proc said weapon's passive with their 'special' charged attack. This can also makes running Childe with prototype Crescent a lot more comfortable on abyss that consists of Vishaps, such as Floor 12-1, or Pale Flames Domain.
 
+## Childe's Riptide Procs 4 Pale Flame 
+
+**By:** tenten#1010  
+**Added:** 6/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846872744032469012/856371265799716864/transcript-childe-4pf.html)
+
+**Finding:**  
+Childe can trigger 4 the 4-piece Pale Flame passive with his riptide in melee form he and keeps buff when he switches back to ranged form since riptide is counted as elemental skill.
+
+**Evidence:**  
+[Video](https://www.bilibili.com/video/BV1Ry4y1g7Xv?p=1&share_medium=android&share_plat=android&share_source=COPY&share_tag=s_i&timestamp=1621945518&unique_k=seCHWV)
+
+**Signficance:**  
+Childe can stack the 4-piece Pale Flame passive in his melee form with riptides.
