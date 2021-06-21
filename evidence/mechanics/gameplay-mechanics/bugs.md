@@ -204,3 +204,14 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 
 **Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
 
+### Aiming Harpastum
+
+**By:** Iron IV#3832  
+**Added:** 06/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+
+**Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
+
+**Evidence:** (https://youtu.be/eO-l1h-f2p4)
+
+**Significance:** You can view aimed mode shots in third person without any friends
