@@ -32,3 +32,11 @@ Credit to Risuke\#6743 for suggesting the idea.
 
 **Significance:** It is possible to significantly boost the total damage of Xiangling's ultimate \(&gt;25%\) by moving in specific patterns and utilizing enemy hitboxes to get more hits in per ult.
 
+## Pyronado Only Applies 1U To Cryo Regisvine
+
+**By:** Mcpie#8672  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855560609491320843/856671767506190356/transcript-pyronado-is-unable-to-destroy-cryo-regisvine-shield-with-a-single-cast.html)
+
+
+
