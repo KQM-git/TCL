@@ -10,7 +10,7 @@
 
 **Evidence:** [https://paimon.moe/wish/tally](https://paimon.moe/wish/tally), [https://paimon.moe/wish/tally/300012](https://paimon.moe/wish/tally/300012) and [https://paimon.moe/wish/tally/400011](https://paimon.moe/wish/tally/400011)
 
-The second link shows that the probability of rolling a 5 star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on teh 63rd roll, not the 65th.
+The second link shows that the probability of rolling a 5 star massively increased on the 74th roll, as opposed to the 75th, and the third link shows that the probability for rolling a featured weapon on the weapon banner massively increased on the 63rd roll, not the 65th.
 
 **Significance:** fixing misconceptions that soft pity is 75/65, allowing players to save their primogems more effectively
 
