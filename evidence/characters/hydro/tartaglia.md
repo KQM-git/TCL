@@ -186,3 +186,24 @@ Childe can trigger 4 the 4-piece Pale Flame passive with his riptide in melee fo
 
 **Signficance:**  
 Childe can stack the 4-piece Pale Flame passive in his melee form with riptides.
+
+## Childe Consistent Normal Attack Forward Vape
+
+**By:** Rainfury#8343  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845700747176837171/856663221296168960/transcript-childe-aa-vape.html)
+
+**Finding:**  
+Childe can vape his normal attacks consistently if there are no riptide procs and he doesn't use charged attacks (haven't fully tested his CA yet)  
+
+Steps:  
+1) Remove all Crit rate from Childe
+2) Apply pyro on enemy. XL can reapply pyro fast enough for Childe to vape consistently if he never crits and proc riptide
+3) Normal attack with childe and hope it doesn't crit and apply riptide
+
+**Evidence:**   
+[Video](https://youtu.be/1Z85uLvJn4A) (thx to Silvershine for helping me record it)  
+
+**Significance:**   
+Just a fun little finding. Can be made into meme builds for a full atk% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
+
