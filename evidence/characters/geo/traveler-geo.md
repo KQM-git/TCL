@@ -1,5 +1,9 @@
 # Traveler \(Geo\)
 
+**Main Page:**
+
+{% page-ref page="../../characters/geo/traveler-geo.md" %}
+
 ## Multiple E Skill Resonance Can Hit 1 Target
 
 **By:** The CEO of GEO\#7227
@@ -62,4 +66,4 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 
 **Significance**
 - Geo MC's burst does not apply C1 buff to its own damage (unless a ring from previous burst still exists)
-- With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.(edited)
+- With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.
