@@ -546,6 +546,57 @@ bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17i
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
+## Reactions On Frozen Targets With Dual Aura
+
+**By:** Ayzel#7399  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844007973328125952/856670255643492402/transcript-dual-frozen-reaction-guide.html)
+
+**Finding:**  
+The order of elemental application and the gauge units determines the second reaction that occurs (and whether it occurs) when the attack that reacts with freeze can cause both shatter and a different reaction. 
+
+Examples (since that sentence is kinda hard to understand):
+
+Geo examples:  
+2U Cryo - 2U Hydro - 1U Geo: Shatter only  
+2U Hydro - 2U Cryo - 1U Geo: Shatter only  
+1U Hydro - 2U Cryo - 1U Geo: Shatter only  
+1U Cryo - 2U Hydro - 1U Geo: Shatter only  
+2U Cryo - 1U Hydro - 1U Geo: Cryo Crystallize and Shatter  
+2U Hydro - 1U Cryo - 1U Geo: Hydro Crystallize and Shatter  
+2U Cryo - 2U Hydro - 1U Cryo - 1U Geo: Cryo Crystallize and Shatter  
+2U Hydro - 2U Cryo - 1U Hydro - 1U Geo: Hydro Crystallize and Shatter  
+
+Melt Examples:  
+1U Hydro - 1U Cryo - 1U Pyro Heavy: Shatter only  
+1U Hydro - 2U Cryo - 1U Pyro Heavy: Shatter only  
+1U Cryo - 2U Hydro - 1U Pyro Heavy: Shatter only  
+2U Hydro - 1U Cryo - 1U Pyro Heavy: Vaporize and Shatter  
+2U Cryo - 1U Hydro - 1U Pyro Heavy: Melt and Shatter  
+
+Electro Examples:  
+2U Hydro - 2U Cryo - 2U Electro: Shatter only  
+2U Hydro - 1U Cryo - 2U Electro: Electrocharged  
+2U Cryo - 1U Hydro - 2U Electro: Superconduct  
+
+Essentially, in order for two reactions to occur when using a heavy elemental hit, either:  
+a] the first aura applied to the enemy in the freeze reaction must be stronger than the second; the heavy hit will then cause whatever reaction should occur if the enemy were to only have the first aura applied and shatter (i.e. if you apply 2U Hydro, 1U Cryo, then 1U Pyro Heavy, then Vaporize will occur, since attacking a 2U Hydro enemy with pyro would normally cause vaporize).  
+b] an additional aura is applied on top of the enemy after frozen occurs. For example, normally, using a pyro heavy hit against an enemy who had been attacked with 2U Cryo, then 2U Hydro, would only cause shatter. However, if 1U Cryo is applied to that same enemy after being frozen, cryo reactions (such as melt or superconduct) can occur.
+
+**Evidence:**  
+
+[Video](https://youtu.be/micADbaWhnA)  
+2U Hydro - 2U Cryo - 2U Electro: Shatter only  
+2U Hydro - 1U Cryo - 2U Electro: Electrocharged  
+2U Cryo - 1U Hydro - 2U Electro: Superconduct  
+
+[Video](https://youtu.be/Co6Wf7z2h4E)  
+2U Cryo - 2U Hydro - 1U Cryo - 2U Electro: Superconduct  
+2U Cryo - 2U Hydro - 1U Hydro - 2U Electro: Electrocharged  
+
+**Significance:**  
+Better understanding about getting specific reactions against frozen enemies
+
 ## Swirl
 
 ### How to get Double Swirls
