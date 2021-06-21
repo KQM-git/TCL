@@ -14,7 +14,7 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [Bushes respawn infinitely](../../evidence/mechanics/gameplay-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
 
-Throwing a Harpastum while entering aim mode can force a third-person perspective while still aiming your bow.
+[Throwing a Harpastum while entering aim mode](../../evidence/mechanics/gameplay-mechanics/bugs.md#aiming-harpastum) can force a third-person perspective while still aiming your bow.
 
 ## Lag
 
