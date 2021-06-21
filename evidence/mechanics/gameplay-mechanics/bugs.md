@@ -1,5 +1,9 @@
 # Bugs
 
+**Main Page:**
+
+{% page-ref page="../../mechanics/gameplay-mechanics/bugs.md" %}
+
 ## Abyss
 
 ### Using the Same Team for Both Abyss Halves
