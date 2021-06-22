@@ -93,6 +93,7 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 
 * In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of hydro will not harm enemies.
 * All reactions caused by swirling auras together use the stats of the character that triggered the swirl in their damage calculation.
+  * If an amp reaction is triggered in this manner, the damage will snapshot EM.
 * Environmental element sources \(such as campfires and burning grass\) can be swirled.
 * Swirl is an separate effect from Elemental Absorption.
 
