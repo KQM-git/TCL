@@ -634,6 +634,59 @@ More knowledge about how swirl works, better rotations and team-building
 
 **Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
 
+## Amplifying Reactions From Swirls Will Snapshot
+
+**By:** LarryTheCableGuy#7387  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856103483316633610/856665866779623444/transcript-amped-swirl-snapshot.html)
+
+**Finding:**  
+Amplifying reactions derived from a swirl from pyro/cryo/hydro are not dynamic and WILL snapshot.
+
+**Evidence:**  
+
+[Video 1](https://youtu.be/rsrHUwDuvhs) (instructor applied after snapshot) (101k)  
+[Video 2](https://youtu.be/pONUwWz_zuc) (instructor applied before snapshot) (106k)
+
+Maths:  
+EM: [Image](https://cdn.discordapp.com/attachments/798464926187913230/854712517561679892/unknown.png)  
+Swirl before instructor=23892  
+Swirl after instructor=25828  
+EM before instructor=755 (97.4%)  
+EM after instructor=875(106.9%) 
+
+Swirl induced amp = swirl * reaction mult * amp_em  
+For video 1 of a 101k swirl melt proc, where instructor was applied after snapshot.  
+Vap=76465  
+Melt=101953  
+
+For video 2 of a 106k swirl melt proc, where instructor was applied before snapshot.  
+Vap=80157  
+Melt=106876
+
+Since swirl is dynamic, a swirl value of 25828 is taken.
+
+If snapshot on amp_em, for vap,  
+Swirl induced amp=25828\*1.5\*(1+0.974) = 76476.708  
+Which matches with observed 76465 value.
+
+If no snapshot on amp_em, for vap,  
+Swirl induced amp=25828\*1.5\*(1+1.069) = 80157.198  
+Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 80157.  
+
+If snapshot on amp_em, for melt,  
+Swirl induced amp=258282(1+0.974) = 101968.944  
+Which matches with observed 101953 value.
+
+If no snapshot on amp_em, for vap,  
+Swirl induced amp=25828*2*(1+1.069) = 106876.264  
+Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 106876.
+
+Thus it can be concluded that amp_em of the swirl induced amp reaction is snapshotted and the rest are dynamic.
+
+**Significance:**  
+Vape/Melt triggered by swirls are still considered as amp reactions and are snapshotted, not dynamic.
+
 ## Crystallize
 
 ### Crystallize refresh
@@ -682,3 +735,5 @@ The player should only pick up correct-element crystallize crystals when fightin
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
+
+
