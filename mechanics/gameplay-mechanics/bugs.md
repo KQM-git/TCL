@@ -16,7 +16,7 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 [Throwing a Harpastum while entering aim mode](../../evidence/mechanics/gameplay-mechanics/bugs.md#aiming-harpastum) can force a third-person perspective while still aiming your bow.
 
-[4TF and 4CW set bonuses do not apply to reactions on environmental objects](../../evidence/fluff/overworld.md#4-piece set bonuses on environment reactions)
+[4TF and 4CW set bonuses do not apply to reactions on environmental objects](../../evidence/fluff/overworld.md#4-piece-set-bonuses-on-environment-reactions)
 
 ## Lag
 
