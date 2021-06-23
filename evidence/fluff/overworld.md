@@ -29,3 +29,21 @@
 **Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
+
+## Genshin has 2D Water
+
+**By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851944273712644116/857341175685054504/transcript-genshin-has-2d-water.html)
+
+**Finding:**  
+Genshin's water exists only in horizontal, 2 dimensional sheets. Additionally, true water is not graphically represented at all times, while graphically represented water is only an approximation.
+
+**Evidence:**  
+[Album](https://imgur.com/a/j0b5Y5a)  
+1 shows Jean standing in waterfall without getting wet.  
+2 shows venti climbing into waterfall below the 2d plane of "true water" without getting wet, but getting wet when he climbs into it at a slightly higher angle. When Venti then falls through the waterfall, he remains dry the entire time before impacting the second 2D plane of water.  
+Greyhound's videos demonstrate that such planes appear to have water properties from below (Clip 3), and that its edges in some cases look to be perfectly square (Clip  4). Razor illustrates the trouble with this in Clip 5 by electrocharging the "true water" hidden below a dry floor and hurting himself with the resulting electrocharge AoE.
+
+**Significance:**  
+Electro is awful for the overworld because you can electrocharge water which resides in a flat sheet invisibly below the ground with AoE attacks. By doing this, you take continuous damage while standing on a dry surface. Also, you can stand in waterfalls without getting wet.
