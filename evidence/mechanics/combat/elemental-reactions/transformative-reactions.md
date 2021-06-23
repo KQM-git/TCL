@@ -546,7 +546,7 @@ bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17i
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
-## Reactions On Frozen Targets With Dual Aura
+### Reactions On Frozen Targets With Dual Aura
 
 **By:** Ayzel#7399  
 **Added:** 6/21/2021  
@@ -685,7 +685,7 @@ More knowledge about how swirl works, better rotations and team-building
 
 **Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
 
-## Amplifying Reactions From Swirls Will Snapshot
+### Amplifying Reactions From Swirls Will Snapshot
 
 **By:** LarryTheCableGuy#7387  
 **Added:** 6/21/2021  
