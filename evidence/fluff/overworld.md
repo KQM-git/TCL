@@ -18,19 +18,25 @@
 
 **Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld
 
-## 4-piece set bonuses on environment reactions
+### Genshin has 2D Water
 
-**By:** Aluminum#5462  
-**Added:** 6/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
+**By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851944273712644116/857341175685054504/transcript-genshin-has-2d-water.html)
 
-**Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
+**Finding:**  
+Genshin's water exists only in horizontal, 2 dimensional sheets. Additionally, true water is not graphically represented at all times, while graphically represented water is only an approximation.
 
-**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
+**Evidence:**  
+[Album](https://imgur.com/a/j0b5Y5a)  
+1 shows Jean standing in waterfall without getting wet.  
+2 shows venti climbing into waterfall below the 2d plane of "true water" without getting wet, but getting wet when he climbs into it at a slightly higher angle. When Venti then falls through the waterfall, he remains dry the entire time before impacting the second 2D plane of water.  
+Greyhound's videos demonstrate that such planes appear to have water properties from below (Clip 3), and that its edges in some cases look to be perfectly square (Clip  4). Razor illustrates the trouble with this in Clip 5 by electrocharging the "true water" hidden below a dry floor and hurting himself with the resulting electrocharge AoE.
 
-**Significance:** This explains some strange damage numbers when fighting enemies in the overworld
+**Significance:**  
+Electro is awful for the overworld because you can electrocharge water which resides in a flat sheet invisibly below the ground with AoE attacks. By doing this, you take continuous damage while standing on a dry surface. Also, you can stand in waterfalls without getting wet.
 
-## Environment Reactions Base
+### Environment Reactions Base
 
 **By:** Greyhound#7836  
 **Added:** 6/23/2021  
@@ -45,3 +51,16 @@ The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)
 
 **Significance:**  
 We're getting ever so closer to figuring out the cursed world of teyvat's code
+
+## 4-piece set bonuses on environment reactions
+
+**By:** Aluminum#5462  
+**Added:** 6/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
+
+**Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
+
+**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
+
+**Significance:** This explains some strange damage numbers when fighting enemies in the overworld
+

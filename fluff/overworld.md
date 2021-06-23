@@ -2,7 +2,12 @@
 
 ## Artifacts
 
-- 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.  
+- 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.
+
+## Water
+
+- Water in Genshin exists only in horizontal, 2-dimensional sheets
+- True water, water that can be reacted with, is not graphically represented at all times, additionally, graphically represented water is only an approximation.
 
 
 ## Cursed Terrain 
