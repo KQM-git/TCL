@@ -1,5 +1,22 @@
 # Artifacts
 
+## Archaic Petra
+
+### Geovishap Hatchling Shields with 4 Petra
+
+**By:** Raf\#7220  
+**Added:** 5/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html)
+
+**Finding:**  
+Geovishap Hatching shields don't activate the 4 Petra bonus
+
+**Evidence:**  
+[Video](https://youtu.be/Bc49zIE_30E)
+
+**Significance:**  
+Even though they're mechanically similar to crystallize shields, hatchling shields don't activate Petra, yet another reason the 4set is trash
+
 ## Blizzard Strayer
 
 ### Blizzard Strayer and Cryo Resonance don't Snapshot
@@ -138,6 +155,22 @@ Healing bonus of 30.8%
 Ningguang was used due to her low burst energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that hp before healing\)
+
+## Pale Flame
+
+### 4pc Pale Flame Duration Refresh
+
+**By:** Zozer#1782
+
+**Added:** 6/22/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854261942448554004/856798949322784788/transcript-4pc-pale-flame-duration-refresh.html)
+
+**Finding:** Duration of 1st 4pc Pale Flame stack will reset upon receiving 2nd stack if the 1st stack hasn't expired yet.
+
+**Evidence:** [Video](https://youtu.be/MeFPHEGQ554)
+
+**Significance:** All character with elemental skill cooldown + animation time < 7s can maintain Pale Flame 2 stack buff indefinitely.
 
 ## Tenacity of the Millelith
 
@@ -525,23 +558,6 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
-## Archaic Petra
-
-### Geovishap Hatchling Shields with 4 Petra
-
-**By:** Raf\#7220  
-**Added:** 5/29/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html)
-
-**Finding:**  
-Geovishap Hatching shields don't activate the 4 Petra bonus
-
-**Evidence:**  
-[Video](https://youtu.be/Bc49zIE_30E)
-
-**Significance:**  
-Even though they're mechanically similar to crystallize shields, hatchling shields don't activate Petra, yet another reason the 4set is trash
-
 ## **Artifact Substats Distribution**
 
 **By:SafconGalore\#9752**
@@ -595,4 +611,3 @@ I pulled out data for 4 substat and 3 substat artifacts to analyze separately si
 More data would be needed to reach stronger conclusions. As of right now, there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
-

@@ -546,6 +546,57 @@ bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17i
 **Significance:**  
 It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
+### Reactions On Frozen Targets With Dual Aura
+
+**By:** Ayzel#7399  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844007973328125952/856670255643492402/transcript-dual-frozen-reaction-guide.html)
+
+**Finding:**  
+The order of elemental application and the gauge units determines the second reaction that occurs (and whether it occurs) when the attack that reacts with freeze can cause both shatter and a different reaction. 
+
+Examples (since that sentence is kinda hard to understand):
+
+Geo examples:  
+2U Cryo - 2U Hydro - 1U Geo: Shatter only  
+2U Hydro - 2U Cryo - 1U Geo: Shatter only  
+1U Hydro - 2U Cryo - 1U Geo: Shatter only  
+1U Cryo - 2U Hydro - 1U Geo: Shatter only  
+2U Cryo - 1U Hydro - 1U Geo: Cryo Crystallize and Shatter  
+2U Hydro - 1U Cryo - 1U Geo: Hydro Crystallize and Shatter  
+2U Cryo - 2U Hydro - 1U Cryo - 1U Geo: Cryo Crystallize and Shatter  
+2U Hydro - 2U Cryo - 1U Hydro - 1U Geo: Hydro Crystallize and Shatter  
+
+Melt Examples:  
+1U Hydro - 1U Cryo - 1U Pyro Heavy: Shatter only  
+1U Hydro - 2U Cryo - 1U Pyro Heavy: Shatter only  
+1U Cryo - 2U Hydro - 1U Pyro Heavy: Shatter only  
+2U Hydro - 1U Cryo - 1U Pyro Heavy: Vaporize and Shatter  
+2U Cryo - 1U Hydro - 1U Pyro Heavy: Melt and Shatter  
+
+Electro Examples:  
+2U Hydro - 2U Cryo - 2U Electro: Shatter only  
+2U Hydro - 1U Cryo - 2U Electro: Electrocharged  
+2U Cryo - 1U Hydro - 2U Electro: Superconduct  
+
+Essentially, in order for two reactions to occur when using a heavy elemental hit, either:  
+a] the first aura applied to the enemy in the freeze reaction must be stronger than the second; the heavy hit will then cause whatever reaction should occur if the enemy were to only have the first aura applied and shatter (i.e. if you apply 2U Hydro, 1U Cryo, then 1U Pyro Heavy, then Vaporize will occur, since attacking a 2U Hydro enemy with pyro would normally cause vaporize).  
+b] an additional aura is applied on top of the enemy after frozen occurs. For example, normally, using a pyro heavy hit against an enemy who had been attacked with 2U Cryo, then 2U Hydro, would only cause shatter. However, if 1U Cryo is applied to that same enemy after being frozen, cryo reactions (such as melt or superconduct) can occur.
+
+**Evidence:**  
+
+[Video](https://youtu.be/micADbaWhnA)  
+2U Hydro - 2U Cryo - 2U Electro: Shatter only  
+2U Hydro - 1U Cryo - 2U Electro: Electrocharged  
+2U Cryo - 1U Hydro - 2U Electro: Superconduct  
+
+[Video](https://youtu.be/Co6Wf7z2h4E)  
+2U Cryo - 2U Hydro - 1U Cryo - 2U Electro: Superconduct  
+2U Cryo - 2U Hydro - 1U Hydro - 2U Electro: Electrocharged  
+
+**Significance:**  
+Better understanding about getting specific reactions against frozen enemies
+
 ## Swirl
 
 ### How to get Double Swirls
@@ -634,6 +685,59 @@ More knowledge about how swirl works, better rotations and team-building
 
 **Significance:** good knowledge for teambuilding purposes; shows that EC teams which run Sucrose or Venti will see more Hydro elemental application due to infusion.
 
+### Amplifying Reactions From Swirls Will Snapshot
+
+**By:** LarryTheCableGuy#7387  
+**Added:** 6/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856103483316633610/856665866779623444/transcript-amped-swirl-snapshot.html)
+
+**Finding:**  
+Amplifying reactions derived from a swirl from pyro/cryo/hydro are not dynamic and WILL snapshot.
+
+**Evidence:**  
+
+[Video 1](https://youtu.be/rsrHUwDuvhs) (instructor applied after snapshot) (101k)  
+[Video 2](https://youtu.be/pONUwWz_zuc) (instructor applied before snapshot) (106k)
+
+Maths:  
+EM: [Image](https://cdn.discordapp.com/attachments/798464926187913230/854712517561679892/unknown.png)  
+Swirl before instructor=23892  
+Swirl after instructor=25828  
+EM before instructor=755 (97.4%)  
+EM after instructor=875(106.9%) 
+
+Swirl induced amp = swirl * reaction mult * amp_em  
+For video 1 of a 101k swirl melt proc, where instructor was applied after snapshot.  
+Vap=76465  
+Melt=101953  
+
+For video 2 of a 106k swirl melt proc, where instructor was applied before snapshot.  
+Vap=80157  
+Melt=106876
+
+Since swirl is dynamic, a swirl value of 25828 is taken.
+
+If snapshot on amp_em, for vap,  
+Swirl induced amp=25828\*1.5\*(1+0.974) = 76476.708  
+Which matches with observed 76465 value.
+
+If no snapshot on amp_em, for vap,  
+Swirl induced amp=25828\*1.5\*(1+1.069) = 80157.198  
+Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 80157.  
+
+If snapshot on amp_em, for melt,  
+Swirl induced amp=258282(1+0.974) = 101968.944  
+Which matches with observed 101953 value.
+
+If no snapshot on amp_em, for vap,  
+Swirl induced amp=25828*2*(1+1.069) = 106876.264  
+Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 106876.
+
+Thus it can be concluded that amp_em of the swirl induced amp reaction is snapshotted and the rest are dynamic.
+
+**Significance:**  
+Vape/Melt triggered by swirls are still considered as amp reactions and are snapshotted, not dynamic.
+
 ## Crystallize
 
 ### Crystallize refresh
@@ -682,3 +786,5 @@ The player should only pick up correct-element crystallize crystals when fightin
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
+
+

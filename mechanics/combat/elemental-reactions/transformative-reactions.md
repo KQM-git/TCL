@@ -71,7 +71,9 @@ Frozen is an elemental reaction triggered by applying Cryo on a target already a
 
 Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
 
-Additionally, one reaction occurs at a time, if you apply Pyro to a Freeze aura that has an underlying Hydro aura, only the Melt occurs. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura. Some reactions effect both, others only effect one.
+Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura that has an underlying Hydro aura, only the Melt occurs. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura. Some reactions effect both, others only effect one.
+
+* The order of elements applied and the gauge strength determines if a second reaction occurs and what reaction it is, whenever a blunt elemental attack is used against a frozen target.
 
 | Reaction | Freeze Aura | Underlying Cryo | Underlying Hydro |
 | :--- | :---: | :---: | :---: |
@@ -93,6 +95,7 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 
 * In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of hydro will not harm enemies.
 * All reactions caused by swirling auras together use the stats of the character that triggered the swirl in their damage calculation.
+  * If an amp reaction is triggered in this manner, the damage will snapshot EM.
 * Environmental element sources \(such as campfires and burning grass\) can be swirled.
 * Swirl is an separate effect from Elemental Absorption.
 
