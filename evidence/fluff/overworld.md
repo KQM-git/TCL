@@ -30,9 +30,7 @@
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
 
-## Other
-
-### Environment Reactions Base
+## Environment Reactions Base
 
 **By:** Greyhound#7836  
 **Added:** 6/23/2021  
