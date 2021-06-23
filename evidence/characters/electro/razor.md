@@ -142,3 +142,19 @@ The animation is different and slightly slower during burst. It is not affected 
 
 [https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit\#gid=0](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
 
+## Razor Dragonstrike MV/s
+
+**By:** SwiftySwoo#0930  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845553745148116992/857386232937578506/transcript-razor-ds-combo.html)
+
+**Finding:**  
+Razor DS combos and E rotations have substantial mv/s increase from standard attack strings outside of Q.
+
+**Evidence:**  
+All data and video evidence found in this [spreadsheet](https://docs.google.com/spreadsheets/d/1_UxetY_-Zz-4kh59CfxkNhKgmJbiEsBrfgsttDVGKTg/edit?usp=sharing)
+
+**Significance:**  
+Assuming no ICD based sub-dps are used, DS combos show a range from roughly 35-49 percent mv/s increase. (More elaboration on spreadsheet)
+
+
