@@ -29,3 +29,19 @@
 **Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
+
+## Environment Reactions Base
+
+**By:** Greyhound#7836  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/852322096528228372/857338163654557716/transcript-environment-reaction-base.html)
+
+**Theory:**  
+Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the electro crystals using the old, unchanged base.
+
+**Evidence:**  
+The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)  
+[Video](https://www.youtube.com/watch?v=ClyLEKYV6uI)  
+
+**Significance:**  
+We're getting ever so closer to figuring out the cursed world of teyvat's code
