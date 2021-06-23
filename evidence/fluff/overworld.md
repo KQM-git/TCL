@@ -36,21 +36,22 @@ Genshin's water is coded in a way where the visual water and actual layer are se
 **Significance:**  
 Understanding the cursed overworld of Teyvat
 
-### Electro Crystals Near Water
+### Overworld Entities Have Levels
 
-**By:** Greyhound#7836  
+**By:** Greyhound\#7836,  mol\#3280  
 **Added:** 06/23/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)
 
 **Finding:**  
-Electro crystals near a beach/water seem to have a special electric field, that does not fall under their damage, nor any reaction damage, nor applies electric aura, ignores damage reduction and defense, but is affected by elemental resistance(????), further logic to be researched
+Overworld has levels for every "body", including water and grass and sand, trees, rocks, and other things that we can't prove in any other way other than the game's code which shows this, thus varying stats which is proven by their damage.
 
 **Evidence:**  
-[Video 1](https://www.youtube.com/watch?v=Mg_qEdGfCbA)  
-[Video 2](https://www.youtube.com/watch?v=Gug1NRJQCak)
+Flower stamens (cryo & pyro have the same scaling but different element): [Video](https://www.youtube.com/watch?v=_gCbmYT5gPk)  
+Water (using electrified): [Video](https://www.youtube.com/watch?v=oSepgh_2M_M)  
+Grass (using burning): [Video](https://www.youtube.com/watch?v=k8Xffbwx7b0)  
 
-**Significance:**   
-To be found
+**Signifiance:**  
+Almost cracking the code for overworld
 
 ### Genshin has 2D Water
 
