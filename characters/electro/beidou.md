@@ -38,6 +38,7 @@ Beidou performs up to 5 consecutive attacks.
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
 
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
+* Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
 
 **Charged Attack**  
 Beidou consumes 40 stamina a second to perform continuous slashes. At the end of the 5 seconds, perform a more powerful slash.
