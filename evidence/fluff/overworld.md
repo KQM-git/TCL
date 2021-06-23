@@ -18,6 +18,24 @@
 
 **Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld
 
+### Invisible Water Layer
+
+**By:** Greyhound\#7836  
+**Added:** 06/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854436805537169488/857347792947380294/transcript-cursed-terrain-invisible-water-layer.html)
+
+**Theory:**  
+Genshin's water is coded in a way where the visual water and actual layer are separate, thus there is an invisible field of water that does not apply wet in random places of the world, but can be infused
+
+**Evidence:**  
+1. Invisible water being infused by Anemo MC: [Video](https://www.youtube.com/watch?v=oR1zJjhqASI)  
+   Invisible water being infused by Sucrose: [Video](https://www.youtube.com/watch?v=kAXeOFUDlic) credits to @ishnu  
+2. Invisible water infused by electro: [Video](https://www.youtube.com/watch?v=7tpGWZ4hnfo)
+3. Water hitbox & reactions from UNDER the water, UNDER the ocean: [Video](https://www.youtube.com/watch?v=sWmhqgGfLaM)
+
+**Significance:**  
+Understanding the cursed overworld of Teyvat
+
 ### Electro Crystals Near Water
 
 **By:** Greyhound#7836  
