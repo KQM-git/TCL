@@ -18,19 +18,7 @@
 
 **Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld
 
-## 4-piece set bonuses on environment reactions
-
-**By:** Aluminum#5462  
-**Added:** 6/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
-
-**Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
-
-**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
-
-**Significance:** This explains some strange damage numbers when fighting enemies in the overworld
-
-## Genshin has 2D Water
+### Genshin has 2D Water
 
 **By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
 **Added:** 6/23/2021  
@@ -47,3 +35,32 @@ Greyhound's videos demonstrate that such planes appear to have water properties 
 
 **Significance:**  
 Electro is awful for the overworld because you can electrocharge water which resides in a flat sheet invisibly below the ground with AoE attacks. By doing this, you take continuous damage while standing on a dry surface. Also, you can stand in waterfalls without getting wet.
+
+### Environment Reactions Base
+
+**By:** Greyhound#7836  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/852322096528228372/857338163654557716/transcript-environment-reaction-base.html)
+
+**Theory:**  
+Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the electro crystals using the old, unchanged base.
+
+**Evidence:**  
+The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)  
+[Video](https://www.youtube.com/watch?v=ClyLEKYV6uI)  
+
+**Significance:**  
+We're getting ever so closer to figuring out the cursed world of teyvat's code
+
+## 4-piece set bonuses on environment reactions
+
+**By:** Aluminum#5462  
+**Added:** 6/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
+
+**Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
+
+**Evidence:** [https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh](https://youtube.com/playlist?list=PLPByPR2TubV4zjXSKhIhhWEww2Oo7Tmwh)
+
+**Significance:** This explains some strange damage numbers when fighting enemies in the overworld
+
