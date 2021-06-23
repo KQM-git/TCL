@@ -197,8 +197,8 @@ Childe can stack the 4-piece Pale Flame passive in his melee form with riptides.
 Childe can vape his normal attacks consistently if there are no riptide procs and he doesn't use charged attacks (haven't fully tested his CA yet)  
 
 Steps:  
-1) Remove all Crit rate from Childe
-2) Apply pyro on enemy. XL can reapply pyro fast enough for Childe to vape consistently if he never crits and proc riptide
+1) Remove all Crit rate from Childe  
+2) Apply pyro on enemy. XL can reapply pyro fast enough for Childe to vape consistently if he never crits and proc riptide  
 3) Normal attack with childe and hope it doesn't crit and apply riptide
 
 **Evidence:**   
