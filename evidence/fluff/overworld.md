@@ -18,6 +18,22 @@
 
 **Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld
 
+### Electro Crystals Near Water
+
+**By:** Greyhound#7836  
+**Added:** 06/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)
+
+**Finding:**  
+Electro crystals near a beach/water seem to have a special electric field, that does not fall under their damage, nor any reaction damage, nor applies electric aura, ignores damage reduction and defense, but is affected by elemental resistance(????), further logic to be researched
+
+**Evidence:**  
+[Video 1](https://www.youtube.com/watch?v=Mg_qEdGfCbA)  
+[Video 2](https://www.youtube.com/watch?v=Gug1NRJQCak)
+
+**Significance:**   
+To be found
+
 ### Genshin has 2D Water
 
 **By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
