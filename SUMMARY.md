@@ -326,5 +326,6 @@
         * [Tech](evidence/mechanics/gameplay-mechanics/spiral/tech/README.md)
           * [Plunge](evidence/mechanics/gameplay-mechanics/spiral/tech/plunge.md)
     * [Fluff](evidence/fluff/README.md)
+      * [Miscellaneous Entries](evidence/fluff/miscellaneous-entries.md)
       * [Overworld](evidence/fluff/overworld.md)
 
