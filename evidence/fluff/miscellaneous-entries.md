@@ -234,3 +234,18 @@ Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachmen
 
 **Significance:**  
 New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
+
+## Swimming Methods
+
+**By:** Fuzzy#5432  
+**Added:** 6/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856824799057018880/857668248568332319/transcript-swimming-methods.html)
+
+**Finding:**  
+Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift. (Project inspired by u/lightmgl on Reddit)
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=wOdFDxYUcJA&ab_channel=Fuzzy)
+
+**Significance:**  
+Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
