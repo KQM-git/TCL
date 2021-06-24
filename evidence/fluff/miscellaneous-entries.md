@@ -215,3 +215,22 @@ Also, you can perform a plunging attack off of the tree.
 **Evidence:** Using the OpenCV Python library, I have compared official images of both Aether and Lumine \(cropped to 400x700\). Reading these images as a 3d array \(Width x Height x RGB\) and comparing the sums of RGB for the total pixels, I have discovered that Lumine is more red, green, and blue than Aether. [Aether](https://imgur.com/a/Nm7xBRu) [Lumine](https://imgur.com/a/PKcOjzX) [Output](https://imgur.com/a/Y7bRGnd)
 
 **Significance:** This means that Lumine is superior in all categories compared to Aether, so Lumine &gt; Aether. In addition, I have valid evidence to conclude another point. By squaring the resulting array and looking at the comparison once again, I found that Aether beats Lumine in blue now but still loses in red and green. Therefore, I believe I now have sufficient evidence to conclude that Lumine is Santa Claus, which makes her even cooler and just that much better than Aether.
+
+## Cancelling Abilities
+Note: This is a merge of 2 tickets
+
+**By:** Ayzel\#7399, sexyeboy69\#4338, Aluminum\#5462  
+**Added:** 6/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842094899204587580/857414437437964348/transcript-all-the-cancelling.html)
+
+**Finding:**  
+For some characters, if they use an elemental skill or burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill or burst as if it activated, which causes effects like Crimson Witch 4-piece to stack or can trigger effects like 4-piece Noblesse Oblige.
+
+**Evidence:**  
+Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)   
+Talking to NPC cancel by sexyeboy69: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842095318639181834/Genshin_Impact_2021-05-12_13-43-52.mp4)  
+Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842106461378969640/Poggers_poster_cancel.mp4)
+
+**Significance:**  
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.

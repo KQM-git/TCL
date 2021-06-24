@@ -8,9 +8,13 @@ description: For entries that have little practical use.
   * You can use this to get free fowl. 
   * Whoever is coding the animals is probably trolling.
 * Jean runs at 180 BPM.
-* For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
 * Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The traveler twins are not equal. I have discovered that Lumine is more red, green, and blue than Aether.
+
+## Cancelling
+
+* For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+  * This can also be performed by interacting with an NPC or a poster instead of a chair.
 
 ## Environment
 
