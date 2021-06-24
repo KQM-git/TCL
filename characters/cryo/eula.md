@@ -32,12 +32,12 @@ Eula performs up to 5 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.43% | 29 | 269.86 |
+| 1-Hit | 130.43% | 30 | 260.86 |
 | 2-Hit | 135.98% | 58 | 275.60 |
-| 3-Hit | 82.56% x2 | 124 | 208.80 |
+| 3-Hit | 82.56% x2 | 126 | 205.49 |
 | 4-Hit | 163.73% | 161 | 221.84 |
-| 5-Hit | 104.41% x2 | 254 | 189.94 |
-| With Recovery | ~ | 304 | 158.70 |
+| 5-Hit | 104.41% x2 | 250 | 192.98 |
+| With Recovery | ~ | 305 | 158.17 |
 
 **Charged Attack**
 
