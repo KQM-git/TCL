@@ -10,6 +10,7 @@ description: For entries that have little practical use.
 * Jean runs at 180 BPM.
 * Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The traveler twins are not equal. I have discovered that Lumine is more red, green, and blue than Aether.
+* Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift.
 
 ## Cancelling
 
