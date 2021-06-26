@@ -47,3 +47,33 @@ Xiangling's pyronado applies only 1U to Cryo Regisvine's shield over it's durati
 **Significance:**  
 Don't rely on pyronado alone to destroy Cryo Regisvine's shield
 
+## Hutao and Xiangling Vape
+
+**By:** Ayzel#7399 & friends  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845723930978418758/858187557295620126/transcript-hu-tao-xiangling-vape.html)
+
+**Finding:**  
+With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vaporize their attacks, Xiangling will trigger reverse vaporize on 60% of her pyronado hits, while Hu Tao will trigger reverse vaporize on 23.5% of her N1 attacks, 49% of her charged attacks, and 59% of her Blood Blossom Hits.
+
+**Evidence:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1VFR322mzCJSZssFdwu_2QxtgRT0ImcAFcOavEy7aIr4/edit?usp=sharing) (By Isu)  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1XvIuPWXsp5f_mJa8lbteBCq6-d-btYxkLBxGMS7YYTE/edit?usp=sharing) (By yuna)
+
+**Significance:**  
+Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy compared to other teams.
+
+## Guoba Self Applies Pyro
+
+**By:** Terrapin#8603  
+**Added:** 6/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857660346865418271/858142156248973312/transcript-guoba-self-apply-pyro.html)
+
+**Theory:**  
+In line with previous evidence that was non-conclusive, it appears that Guoba actually does apply Pyro to himself whenever he attacks.  If you time an AoE Anemo ability with his flame attack, it will cause a Pyro Swirl off of Guoba.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=6_-UsmXAdbU)
+
+**Significance:**  
+More information about how Guoba mechanics work, and a more precise explanation of why Guoba can cause Pyro Absorption in Anemo Bursts.

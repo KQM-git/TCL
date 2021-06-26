@@ -23,6 +23,10 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 * Ruin Guards can jump over Geo Traveller's Wake of Earth walls, but cannot jump over Geo MC's Starfell Sword meteorites.
   * While Wake of Earth's walls cannot block the Ruin Guard, they can sometimes interfere with its jump, making it land farther away from the player than it normally would.
 
+## Primo Geovishap
+* The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
+  * For more details see the [Shield Reflection Mechanic](../../evidence/mechanics/enemies/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
+
 ### Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/enemies/enemy-interactions.md" %}
