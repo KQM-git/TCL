@@ -101,6 +101,30 @@ t=18, buff deactivates
 
 ## Crimson Witch of Flames
 
+### Gaining stacks refreshes the duration of old stacks
+
+**By:** Greyhound\#7836
+**Added:** 6/26/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** Gaining a stack with the Crimson Witch set will refresh the duration of all previous stacks
+
+**Evidence:** https://www.youtube.com/watch?v=mTyWdVPjgUU
+
+**Significance:** Explanation of how Crimson Witch stacks work
+
+### Crimson Witch Stacks remain after swapping characters
+
+**By:** Greyhound\#7836
+**Added:** 6/26/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** Crimson Witch stacks remain after swapping characters.
+
+**Evidence:** https://www.youtube.com/watch?v=mTyWdVPjgUU
+
+**Significance:** Allows players to swap off crimson witch users while maintaining stacks
+
 ### **4pc Crimson Witch Effect Works Even When Holder is Off-Field**
 
 **By:** Cenpi\#3224 and Boesik\#3192
