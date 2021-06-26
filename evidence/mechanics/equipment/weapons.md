@@ -1,6 +1,6 @@
 # Weapons
 
-## Royal mechanics
+## Royal Weapon Series Mechanics
 
 **By:** Bobrokrot\#0111  
 **Added:** 6/25/2021
@@ -17,15 +17,19 @@ In the above tests, not a single event of non-crit has been observed which allow
 One particular charcter that could take advantage of this that comes to mind is Yanfei since her typical attack pattern consists of 2-3 single target attacks followed by an AoE attack (which coincidentally cares about critting).
 
 **Finding:** Mechanics of Royal weapon stacks:
-— After gaining a stack you cannot gain another one for a small period of time (cooldown).
-— For an AoE ability, damage instances dealt by the ability, including damage dealt by reactions Overload, Swirl and Superconduct caused by the ability, are put in a list. Then the game applies the following logic to all elements of the list one by one:
-if no_crit then
-  add crit_stack
-  add crit_stack_CD
-if no_crit and crit_stack_CD=true then
-  do nothing
-else remove crit_stack
-— Stacks can be gained when the character equipped with the Royal weapon is off-field.
+
+After gaining a stack you cannot gain another one for a small period of time (cooldown).
+
+For an AoE ability, damage instances dealt by the ability, including damage dealt by reactions Overload, Swirl and Superconduct caused by the ability, are put in a list. Then the game applies the following logic to all elements of the list one by one:
+
+* if no_crit then
+ * add crit_stack
+ * add crit_stack_CD
+* if no_crit and crit_stack_CD=true then
+* do nothing
+* else remove crit_stack
+
+Stacks can be gained when the character equipped with the Royal weapon is off-field. 
 
 **Evidence:** 
 1) Sucrose's quick N1-N2 gaining 1 stack instead of 2 and multiple evidence of an AoE ability gaining no more than 1 stack when it non-crits multiple times.
