@@ -51,3 +51,8 @@ Character hitboxes extend beyond their model until the weapon floating behind th
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
 
+## Swimming
+
+Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift.
+
+
