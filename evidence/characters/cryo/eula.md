@@ -110,3 +110,22 @@ Eulas burst does not snapshot even after she is swapped offield, allowing for th
 
 **Signficance:**  
 Allows for better burst cycles. 
+
+## Eula Burst Buffs Catalog
+
+**By:** Artesians#0002  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845526724984963072/858445059292266536/transcript-eula-buff-catalog.html)
+
+**Theory:**   
+Some buffs for Eula need to be tested to ensure that they work within her Alt-Swap + LFS timer. TTDS, Rosaria A4, and Bennett are some of the biggest buffs that needed to be tested. Similar to #deleted-channel, but the buff goes  before Glacial Illumination Cast.
+
+**Evidence:**  
+Rosaria A4: [Video](https://imgur.com/z49kY0s)  
+Bennett Q: [Video](https://imgur.com/dRIU23W)  
+TTDS: [Video](https://imgur.com/2q5ZJn7)  
+Bennett Q + Lisa A4 + 4NO: [Video](https://imgur.com/LTE5X0v)  
+Eula one-shot rotation (Bennett, Zhongli, and Lisa): [Video](https://imgur.com/b4OQH9x)
+
+**Significance:**  
+Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
