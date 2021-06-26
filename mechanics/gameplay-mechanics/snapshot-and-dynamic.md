@@ -20,7 +20,6 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Hu Tao's [Blood Blossom](../../characters/pyro/hu-tao.md#attacks)
 * Keqing's [Starward Sword](../../characters/electro/keqing.md#attacks)
 * Mona's [Stellaris Phantasm](../../characters/hydro/mona.md#attacks)
-* Ningguang's [Starshatter](../../characters/geo/ningguang.md#attacks)
 * Xingqiu's [Guhua Sword: Raincutter](../../characters/hydro/xingqiu.md#attacks)
 
 ## Evidence Vault
