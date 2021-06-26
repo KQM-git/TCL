@@ -8,6 +8,7 @@
 
 - The 1.6 EM buffs didn't increase the reaction damage caused by environmental sources, such as electro crystals.
 - Overworld entities like grass, water, flowers, and crystals have levels, and do damage depending on those levels.
+- Genshin's overworld works under a different set of reaction rules than the players.
 
 ### Electro Crystals
 
