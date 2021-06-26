@@ -196,8 +196,8 @@
 * Anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time.
 * A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances.
 * 4 piece Viridescent Venerer only shreds if the wearer is onfield during a swirl that they trigger.
-{% endtab %}
-{% endtabs %}
+* 4 piece Viridescent Venerer’s RES shred passive only buffs Swirl DMG against an enemy with a pre-existing aura.
+* 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE. {% endtab %} {% endtabs %}
 
 ### Wanderer's Troupe
 
