@@ -62,3 +62,18 @@ With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vap
 
 **Significance:**  
 Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy compared to other teams.
+
+## Guoba Self Applies Pyro
+
+**By:** Terrapin#8603  
+**Added:** 6/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857660346865418271/858142156248973312/transcript-guoba-self-apply-pyro.html)
+
+**Theory:**  
+In line with previous evidence that was non-conclusive, it appears that Guoba actually does apply Pyro to himself whenever he attacks.  If you time an AoE Anemo ability with his flame attack, it will cause a Pyro Swirl off of Guoba.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=6_-UsmXAdbU)
+
+**Significance:**  
+More information about how Guoba mechanics work, and a more precise explanation of why Guoba can cause Pyro Absorption in Anemo Bursts.
