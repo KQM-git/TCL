@@ -82,7 +82,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | GU | 1U |
 | Frames |  |
 
-* Ningguang's Starshatter does not snapshot on cast.
+* Ningguang's Starshatter does snapshot on cast.
 {% endtab %}
 {% endtabs %}
 
