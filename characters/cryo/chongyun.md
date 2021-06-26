@@ -112,6 +112,7 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 
 * Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
 * Decreases Cryo Res of opponents hit by 10%
+* The **Spirit Blade** is considered as elemental skill damage.
 {% endtab %}
 {% endtabs %}
 
