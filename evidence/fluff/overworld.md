@@ -6,7 +6,7 @@
 
 ## Cursed Terrain
 
-## Electrified Environment Reaction
+### Electrified Environment Reaction
 
 **By:** Greyhound\#7836  
 **Added:** 06/25/2021  
