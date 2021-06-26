@@ -107,6 +107,8 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 
 **By:** DeFault\#1802
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856905392633151528/858349517241450536/transcript-chongyun-e-and-a4-interactions.html)
+
 **Findings:**
 
 The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:
