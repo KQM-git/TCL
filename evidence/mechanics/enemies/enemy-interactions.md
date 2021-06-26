@@ -105,6 +105,10 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 ### Shield Reflection Mechanic
 
+**By:** Mcpie#8672  
+**Added:** 6/25/2021   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846126762165272666/858192389344854067/transcript-shield-reflection-damage.html)
+
 **Finding:**  
 Shields from different elements/characters/weapons provide different damage during Primo Geovishap shield reflect mechanic.  
 Let's call damage dealt by this attack "Reflect".
