@@ -26,6 +26,10 @@ General knowledge on how these mechanics work, in reference to current or future
 
 ## Ningguang Burst Does Snapshot
 
+**By:** elijam#7142, Isu#6867, Ai#7362, Bobrokrot#0111  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857491520109543444/858198283566186516/transcript-ningguang-e-q-snapshot.html)
+
 **Finding:**  
 Ningguang’s E screen snapshots her stats on cast, and with Q use her personal gems will snapshot on Q cast while her screen’s gems will use her screen’s earlier snapshotted stats. This finding corrects the previous TCL finding that Ningguang’s Q does not snapshot, since the evidence for that finding did not account for the gems from her screen not receiving the buff they were using to test for snapshotting. 
 
