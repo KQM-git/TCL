@@ -66,6 +66,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | Particles | Up to 4 particles |
 
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
+* Guoba self applies pyro aura when he attacks. This aura can be swirled.
 {% endtab %}
 
 {% tab title="Pyronado" %}

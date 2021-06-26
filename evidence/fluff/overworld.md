@@ -6,6 +6,21 @@
 
 ## Cursed Terrain
 
+### Electrified Environment Reaction
+
+**By:** Greyhound\#7836  
+**Added:** 06/25/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854439111430635560/858186241102446602/transcript-cursed-terrain-electrified-environment-reaction.html)
+
+**Theory:**  
+Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/fluff/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying electro to water, it does not produce electro-charged, instead it infuses the water with electro for a few seconds, which does not apply electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
+
+**Evidence:**  
+Electrified water evidence, including 4TF attempts, enemy taking damage, as well as water never being a trigger to any reaction, only aura, as it's friendly to both parties: [Video](https://www.youtube.com/watch?v=zuS2G0SUkHc)
+
+**Significance:**  
+There might be more reactions unknown to the player coded into the game's files for various reason, potentially to be used in the future or simply scrapped ideas that have not been remove
+
 ### Electro Crystal Range
 
 **By:** Greyhound\#7836  

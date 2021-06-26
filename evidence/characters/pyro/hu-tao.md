@@ -79,3 +79,18 @@ Also melt comps might have an even higher ceiling than expected, as afaik melt% 
 
 This also might disapprove Mona Q description that says when an opponent affected by Illusory Bubble sustains DMG.
 
+## Hutao and Xiangling Vape
+
+**By:** Ayzel#7399 & friends  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845723930978418758/858187557295620126/transcript-hu-tao-xiangling-vape.html)
+
+**Finding:**  
+With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vaporize their attacks, Xiangling will trigger reverse vaporize on 60% of her pyronado hits, while Hu Tao will trigger reverse vaporize on 23.5% of her N1 attacks, 49% of her charged attacks, and 59% of her Blood Blossom Hits.
+
+**Evidence:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1VFR322mzCJSZssFdwu_2QxtgRT0ImcAFcOavEy7aIr4/edit?usp=sharing) (By Isu)  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1XvIuPWXsp5f_mJa8lbteBCq6-d-btYxkLBxGMS7YYTE/edit?usp=sharing) (By yuna)
+
+**Significance:**  
+Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy compared to other teams.
