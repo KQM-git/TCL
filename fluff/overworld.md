@@ -8,7 +8,6 @@
 
 - The 1.6 EM buffs didn't increase the reaction damage caused by environmental sources, such as electro crystals.
 - Overworld entities like grass, water, flowers, and crystals have levels, and do damage depending on those levels.
-- Genshin's overworld works under a different set of reaction rules than the players.
 
 ### Electro Crystals
 
@@ -20,6 +19,7 @@
 - Water in Genshin exists only in horizontal, 2-dimensional sheets.
 - True water, water that can be reacted with, is not graphically represented at all times, additionally, graphically represented water is only an approximation.
 - Genshin's water is coded in a way where the visual water and actual layer are separate, thus there is an invisible field of water that does not apply wet in random places of the world, but can be infused.
+- Applying electro to water does not produce electro-charged, instead it infuses the water with electro for a few seconds.
 
 ## Evidence Vault
 
