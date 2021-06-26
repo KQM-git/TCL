@@ -523,6 +523,29 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 
 **Significance:** In a scenario where Ganyu has lots of cooldown reduction to the point where you can cast her ultimate before it ends, it is advised to wait until it has ended to cast her burst again.
 
+### Ganyu Burst Frequency
+
+**By:** Yukarix#6534, Greyhound#7836  
+**Added:** 06/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845508390595592202/857719631568961536/transcript-ganyu-ult-frequency-enemy-size.html)
+
+**Finding:**  
+Ganyu's rng ult icycles are more likely to hit a target(beyond the base 10) if they are larger in size (who'd have thought :keqewide: ) up to all 50 for enemies large enough such as Azhdaha
+
+**Evidence:**  
+Azhdaha 50 hits: [Video](https://www.bilibili.com/video/BV13N411Z7JM#reply4609628931)  
+Hilichurl 13/11/16/11/16/14 hits: [Video](https://www.youtube.com/watch?v=Q9o8kJpU-5Q)  
+Humanoid 11/12/10/13/10 hits: [Video](https://www.youtube.com/watch?v=OsArJAXUBsI)  
+Fat fatui 14/12/12/11/15/14 hits: [Video](https://www.youtube.com/watch?v=sCqHL1BjkBU)  
+Geo Vishap 20/19/23/25/22/18 hits: [Video](https://www.youtube.com/watch?v=TOjnzXt-Thg)  
+Primo Vishap 25/24/23/24/19/26/22/23/21 hits: [Video](https://www.youtube.com/watch?v=CLAbZ-wppuE)    
+Geo Lawachurl 14(ran outside)/17/18/16/17 hits: [Video](https://www.youtube.com/watch?v=k6aLvC-MKKM)  
+Mitachurl 12(ran outside)/18/17/14/15/19 hits: [Video](https://www.youtube.com/watch?v=GvOIpAR70wE)  
+Ruin guard 18/19/21/21/23/28 hits: [Video](https://youtu.be/SLCT8oQaDX4)  
+
+**Significance:**  
+Ganyu's ult is better than expected
+
 ## **Constellation Mechanics:**
 
 ### **ARCC Shot Tech is doable only with Ganyu’s Constellation 6**

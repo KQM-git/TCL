@@ -101,6 +101,7 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 * The **Sacred Cryo Pearl** will drop a shard **on a random enemy within the field that has not been targeted by a shard in the last 4** **Ice Shards**.
 * If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
 * Ganyu's icicles are subject to [internal cooldown](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
+* Ganyu's icicles are more likely to hit targets that are larger in size.
 
 | Effect | Talent 6% |
 | :--- | :--- |
