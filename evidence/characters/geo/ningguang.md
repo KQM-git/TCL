@@ -24,16 +24,33 @@ In the third example, Ningguang's Elemental Skill is cast without any proc. Then
 
 General knowledge on how these mechanics work, in reference to current or future abilities.
 
-## Ningguang Burst Does Not Snapshot
+## Ningguang Burst Does Snapshot
 
-**By:** Bobrokrot\#0111  
-**Added:** 2/23/2021
+**By:** elijam#7142, Isu#6867, Ai#7362, Bobrokrot#0111  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857491520109543444/858198283566186516/transcript-ningguang-e-q-snapshot.html)
 
-**Finding:** Ningguang ult does not snapshot
+**Finding:**  
+Ningguang’s E screen snapshots her stats on cast, and with Q use her personal gems will snapshot on Q cast while her screen’s gems will use her screen’s earlier snapshotted stats. This finding corrects the previous TCL finding that Ningguang’s Q does not snapshot, since the evidence for that finding did not account for the gems from her screen not receiving the buff they were using to test for snapshotting. 
 
-**Evidence:** Barbara with TTDS swaps to Ningguang, then she waits ~9 secs and pops ult. As you can see the first few shards deal more dmg due to TTDS attack buff, the last few deal less damage due to buff being expired.
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=L7c4zvk6wXs) from elijam#7142  
+Initial gems directly from Ningguang deal 774 damage, while gems from her E screen deal only 231 damage, due to Ningguang receiving Bennett's buff after E cast and snapshot.
 
-[https://youtu.be/09o3XwJWXY0](https://youtu.be/09o3XwJWXY0)
+[Video](https://www.youtube.com/watch?v=ocjfZ22VcHk) from Isu#6867  
+Ningguang’s gems deal 129 on non crit, 203 on crit in an initial unbuffed reference cast. Ningguang receives Bennett buff, and then casts Q, losing Bennett buff after Q cast but while gems travel to target. Ningguang’s gems deal 861 on non crit, 1346 on crit despite losing Bennett buff before the gems connect. 
 
-**Significance:** You can not snapshot, most importantly, Royal Grimoire crit stacks.
+[Video](https://www.youtube.com/watch?v=-xph9HrOD5U) and [Video](https://www.youtube.com/watch?v=nowih1jXLpw) from Ai#7362  
+First video shows Ningguang’s gems deal 441 on non crit, 1076 on crit in an initial unbuffed reference cast. Ningguang casts Q, then player pauses and eats an ATK boosting food while gems are still travelling to target. Ningguang’s gems deal 441 on non crit, 1076 on crit despite the ATK boost gained before gems connect. Second video shows Ningguang’s gems deal 492 on non crit, 1202 on crit with food buff. 
+
+[Video](https://www.youtube.com/watch?v=ROCJxmSsovM) from Ai#7362  
+First run shows Ningguang cast E at one Lost Prayers stack, and Q at two. Personal gems deal 1545 on non crit, 3771 on crit. Gems from screen deal 1481 on non crit, 3616 on crit. Second run can be skipped. Third run shows Ningguang cast E (gem damage from screen difficult to see in this run, so not used as evidence for E screen snapshotting) and then cast Q while at two Lost Prayers stacks. Ningguang gains a third Lost Prayers stack while gems are still travelling to target, but gems still deal 1545 on non crit, 3771 on crit despite the Lost Prayers stack gained before gems connect. 
+
+[Video](https://www.youtube.com/watch?v=pUenM2hrNLI) and [Video](https://www.youtube.com/watch?v=GRDh0k7wF6U) from Bobrokrot#0111  
+Both videos show Ningguang with a 100% crit rate from a fully stacked Royal Grimoire. All gems from both her screen and herself crit, despite her losing the 100% crit rate after the first crit gem connects due to how the Royal weapons series passive operates. 
+
+**Significance:**  
+Better rotation and team building for Ningguang surrounding setting up buffs for her E and her Q to snapshot.
+
+
 
