@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/eula.md" %}
+{% page-ref page="../../characters/cryo/eula.md" %}
 
 ## Basic Eula Mechanics
 
@@ -122,7 +122,7 @@ Allows for better burst cycles.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845526724984963072/858445059292266536/transcript-eula-buff-catalog.html)
 
 **Theory:**   
-Some buffs for Eula need to be tested to ensure that they work within her Alt-Swap + LFS timer. TTDS, Rosaria A4, and Bennett are some of the biggest buffs that needed to be tested. Similar to [Eula Swap Buff](../../../evidence/characters/cryo/eula.md#eula-swap-buff), but the buff goes before Glacial Illumination Cast.
+Some buffs for Eula need to be tested to ensure that they work within her Alt-Swap + LFS timer. TTDS, Rosaria A4, and Bennett are some of the biggest buffs that needed to be tested. Similar to [Eula Swap Buff](../../evidence/characters/cryo/eula.md#eula-swap-buff), but the buff goes before Glacial Illumination Cast.
 
 **Evidence:**  
 Rosaria A4: [Video](https://imgur.com/z49kY0s)  
