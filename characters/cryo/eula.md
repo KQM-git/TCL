@@ -129,6 +129,7 @@ If Eula leaves the field, the **Lightfall Sword** will immediately explode.
   * **Glacial Illumination**'s cast range is around 8 meters
   * **Lightfall Sword** explosion range is around 7 meters
 * Eula's burst does not snapshot even after she is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
+* Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, TTDS, and Zhongli shred
 {% endtab %}
 {% endtabs %}
 

@@ -223,3 +223,35 @@ Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the 
 **Rosaria:** Not very significant imo , similar to Xinyan
 
 **Favonius Weapons:** Its a shame because not getting the fav proc due to getting blocked can mess up rotations and players utilizing fav weapons should be aware of this issue
+
+## Transformative Reaction Damage on Shields
+
+**By:** vibe checker#5502  
+**Added:** 6/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853125058965012500/857665782640803840/transcript-transformative-damage-on-shields.html)
+
+**Finding:**  
+Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
+
+**Evidence:**  
+A borderline geo slime shield destruction was observed on a 0 EM 70/70 fischl's overloads onto a large geo slime's shield, with the shield almost being destroyed after 6 overloads. Increasing fischl's EM to 688 resulted in the shield not only breaking after 6 overloads, but almost breaking after 5. Relevant calculations and related videos  show that these numbers make sense.  
+
+Fischl with 0EM, 1378 overloads, leaving the shield at minimal health after 6 hits: [Video Download](https://cdn.discordapp.com/attachments/853125058965012500/855729083510161418/Genshin_Impact_2021-06-19_16-39-21.mp4)  
+Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5 hits: [Video Download](https://cdn.discordapp.com/attachments/853125058965012500/855733343954010122/fischl_overload_EM.mp4)
+
+Large Slimes have 4x cicin hp and 8GU geo force shields.  
+12466 (cicin at level 91) * 4 = 49864 (slime hp)  
+Large Geo Slimes have 10% RES across the board excluding their element (immune), meaning a 0.9x damage multiplier to overload.
+
+For 0EM:  
+\[\(0.2 * (1378 * 0.9) * 8) / 49864] + 1.26 = damage per shot against geo slime = 1.2998 GU per shot  
+1.2998 * 6 = 7.799 GU total damage
+
+For 688EM:  
+\[(0.2 * (7019 * 0.9) * 8) / 49864] + 1.26 = damage per shot against geo slime = 1.4627 GU per shot  
+1.4627 * 5 = 7.3135 GU total damage
+
+Note: Character damage was not a factor in the shield breaking as the overloads were procced from burning grass. There may have been fluctuations based on weird mechanics with character or grass being the overload's trigger, but destruction of the geo shield at 6 and 7 shots respectively was always consistent.
+
+**Significance:**  
+It ensures that for shields where damage cost is a factor, we can assume that transformative reaction damages are also a factor, and interact in the way that one would expect from intuition (increasing damage with increasing EM).

@@ -59,6 +59,8 @@
 
 {% tab title="Findings" %}
 * Bonus Reaction damage is still applied even if the set holder is off-field. However, the set holder does need to trigger the Reaction. 
+* Gaining a stack refreshes the duration of previous stacks.
+* Stacks are maintained after swapping characters.
 {% endtab %}
 {% endtabs %}
 
@@ -125,6 +127,7 @@
 
 {% tab title="Findings" %}
 * 4p set bonus can be maintained indefinitely as long as the character's cooldown and cast time are less than 7 seconds.
+* 4p set bonus persists after swap.
 {% endtab %}
 {% endtabs %}
 
@@ -138,6 +141,7 @@
 
 {% tab title="Findings" %}
 * The 4p set has to be equipped to the character you want to buff, in most cases, your DPS character, not the character casting the shield.
+* The 2-piece shield strength effect only applies to the character equipping the artifact set, not the character creating the shield.
 {% endtab %}
 {% endtabs %}
 
@@ -196,6 +200,8 @@
 * Anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time.
 * A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances.
 * 4 piece Viridescent Venerer only shreds if the wearer is onfield during a swirl that they trigger.
+* 4 piece Viridescent Venerer’s RES shred passive only buffs Swirl DMG against an enemy with a pre-existing aura.
+* 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE. 
 {% endtab %}
 {% endtabs %}
 

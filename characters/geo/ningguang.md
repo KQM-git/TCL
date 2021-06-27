@@ -60,6 +60,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 * **Jade Screen** can block opponents' projectiles scaling off of Ningguang’s Max HP. 
 * **Jade Screen** is considered a Geo Constructs and can be used to block certain attacks. However, it cannot be climbed.
 * Only one **Jade Screen** may exist at a time. 
+* **Jade Screen** snapshots on cast.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -82,7 +83,8 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | GU | 1U |
 | Frames |  |
 
-* Ningguang's Starshatter does not snapshot on cast.
+* Ningguang's **Starshatter** does snapshot on cast.
+* When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
 {% endtab %}
 {% endtabs %}
 

@@ -101,6 +101,73 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 **Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC
 
+## Primo Geovishap
+
+### Shield Reflection Mechanic
+
+**By:** Mcpie#8672  
+**Added:** 6/25/2021   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846126762165272666/858192389344854067/transcript-shield-reflection-damage.html)
+
+**Finding:**  
+Shields from different elements/characters/weapons provide different damage during Primo Geovishap shield reflect mechanic.  
+Let's call damage dealt by this attack "Reflect".
+
+Reflect values are (exactly!):  
+- Geo Shield (Noelle E) -> 15%
+- Same element shield -> 15%
+- Different element shield -> 5%
+- Crystallized shield -> 5% or 15% - depending on element
+- The Bell claymore -> 5%
+- Noelle A2 passive -> 15%
+
+When does reflect happen:
+- Shield does not break -> reflect
+- Shield pops on taking damage without death (like a2 noelle passive) -> reflect + knockback from getting hit (character)
+- Shield pops on taking damage with death -> no reflect, shield sustains
+- Shield breaks -> no reflect and you take the excessive damage
+- Character too far away -> no reflect
+
+Factors that do not affect the result (assuming shield will sustain)
+- enemy resistances (VV shred)
+- character level
+- character defense
+- character shield strength
+- DEF% reduction applied to the enemy (c2 klee, c4 razor, a4 lisa) - tested c4 razor
+- World Level, it's always 15% or 5% hp no matter the enemy level
+- Co-Op (single player) affects the damage but only because of HP scaling - the damage is still 15% or 5% hp
+
+Additionally, in coop, if all characters have the same type of shield (C2 Diona, 4x Noelle with E up), the damage reflected is still the same. However, should there be more than one type of shields during reflect then the damage is summed. For example using Beidou E + Zhongli E on hydro Primo Geovishap reflect will result with 20% reflected damage.
+
+**Evidence:**  
+Based on datamined files, for level 93 primo geovishap, it has:
+`(407.5199890136719 * 1930.0469970703125) = 786532.731042` HP
+Therefore, 15% is `117979.909656` and 5% is `39326.6365521`.
+
+Video showing 1 HP primo geovishap getting slain by Barbara  - [Video](https://www.youtube.com/watch?v=rMmFso3YXkU)  
+Sequence:  
+`5% -> 5% -> 15% -> 15% -> 5% -> 15% -> 15% -> 5% -> 15% -> 5% -> 191` from Barbara  
+`5*5% + 5*15% = 25% + 75% = 100%`, due to floating precision error, a single `1` hp damage would kill it
+
+Hydro Primo Geovishap vs Xinyan - 5% - [Video](https://www.youtube.com/watch?v=TwwpkLOsRTc)  
+Hydro Primo Geovishap vs Noelle - 15% - [Video](https://www.youtube.com/watch?v=u-2c25xjgAk)  
+The Bell autoshield mechanic - 5% - [Video](https://www.youtube.com/watch?v=fTRW0ksjtSs)  
+VV does not affect the damage - [Video](https://www.youtube.com/watch?v=zeffceIjJ1I)  
+DEF reduction does not affect the damage - [Video](https://www.youtube.com/watch?v=oQ6DxAZWAJ8)  
+Reflect has a range - [Video](https://www.youtube.com/watch?v=LbaRkNlxky4)  
+WL does not matter - [Video](https://youtu.be/47jIZOXjka4)  
+C4 Kaeya shield on-dmg taken - no dmg reflected due to shield being too weak - [Video](https://www.youtube.com/watch?v=-IZwV5swjns)  
+Coop: 2x Zhongli, each with their own shield - 15% - [Video](https://www.youtube.com/watch?v=2thu72alIcQ)  
+Coop: Beidou + Zhongli dealt 5% + 15% percent - [Video](https://www.youtube.com/watch?v=d7q0MREFfhk)  
+Xinyan lvl 60, no artis/weapons - not enough shield hp for reflect - [Video](https://www.youtube.com/watch?v=9IJMSL-hM8c)
+
+Legend of the Vagabond Sword:  
+Noelle vs reduced backlash + 175% hp - [Video](https://www.youtube.com/watch?v=MTvQ_AbdXag)
+Noelle vs +175%hp - [Video](https://www.youtube.com/watch?v=74ZkkfTy_tw)
+
+**Significance:**  
+Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.
+
 ## General Enemy Interactions
 
 ### Interrupting Enemies Causes Phantom Attacks
