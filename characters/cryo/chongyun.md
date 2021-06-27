@@ -62,6 +62,7 @@ Plunge from midair to strike the ground below dealing AoE DMG.
 Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short delay, a **Chonghua Frost Field** will form:
 
 * Within this field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
+* The field works as a cylinder with a large height.  
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -111,7 +112,9 @@ Sword, Claymore or Polearm-wielding characters within the field created by **Cho
 When the field created by Chonghua’s Layered Frost disappears, another **Spirit Blade** will be summoned to strike nearby opponents:
 
 * Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
-* Decreases Cryo Res of opponents hit by 10%
+* Decreases Cryo Res of opponents hit by 10%  
+* The **Spirit Blade** is considered as elemental skill damage.  
+* The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
 {% endtab %}
 {% endtabs %}
 

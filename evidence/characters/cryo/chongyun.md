@@ -103,3 +103,28 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 
 **Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.
 
+## **Chongyun E and A4 interactions**  
+
+**By:** DeFault\#1802  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856905392633151528/858349517241450536/transcript-chongyun-e-and-a4-interactions.html)  
+
+**Findings:**  
+The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:  
+
+1. Chongyun’s A4 blade is considered as elemental skill damage and as such can proc the effects of ToM 4-pc bonus and Sacrificial Greatsword.  
+2. Chongyun’s A4 blade snapshots the buffs received by the E skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.  
+3. Chongyun’s E area is not a field but instead a cylinder of unknown (But large) height and depth. Chongyun’s A4 can target any enemy within this large cylindrical area.  
+
+**Evidence:**  
+
+1. Chongyun’s A4 is considered E Skill damage. As show in the video, 4 ToM effect and Sacrificial Greatsword work with A4 Spirit Blade: [Video](https://www.youtube.com/watch?v=Y-AVX--FWlo)  
+2. Chongyun’s A4 snapshots any buffs received by E skill: [Video](https://www.youtube.com/watch?v=HZuIDiry-Zs)  
+3. Chongyun’s E field has a large cylindrical area and his A4 blade can target any enemy within it: [Video](https://www.youtube.com/watch?v=ezrIL3uUl3Y)  
+
+**Significance:**  
+
+1. Because Chongyun’s A4 is considered skill damage and can proc ToM, this can open up new builds for teams that can snapshot the buff before it runs out, furthermore Chongyun might be able to equip new artifact sets in the future that revolve around skill damage.  
+2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.  
+3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.  
+
