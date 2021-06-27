@@ -21,6 +21,22 @@ Electrified water evidence, including 4TF attempts, enemy taking damage, as well
 **Significance:**  
 There might be more reactions unknown to the player coded into the game's files for various reason, potentially to be used in the future or simply scrapped ideas that have not been remove
 
+### Electrified Water Properties
+
+**By:** RazorClaws\#4343  
+**Added:** 06/27/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858433829143445615/858455416635392040/transcript-electrified-water-properties.html)  
+
+**Finding:**  
+The duration of the environmental elemental reaction Electrified Water has varying duration based on the gauge strength of electro applied. There are approximately 2 seconds between each tick. IA of electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
+The damage dealt by Electrified water is affected by Electro Resistance. For example, a character with 15% Electro Resistance will take 85% of the Electrified Water damage.  
+
+**Evidence:**  
+Video contains Fischl and Lisa getting 3 ticks after applying 1A electro with charge attacks. Razor hold E and Beidou E get 5 ticks, and Beidou Q initial proc gets 10 ticks. The video also shows damage being reduced according to electro resistance obtained by the Protective Canopy Elemental Resonance. Finally, there is also footage of the monolith taking 248 damage from Electrified Water. The nearby slime (10% electro res) takes 223 damage from the same tick. Each tick reduces the monolith's health by about 1%. The monolith on Floor 2 of the Spiral Abyss will take damage from Electrified Water. Using Electrified Water, the monolith is found to have 0% electro resistance and approximately 24,800 HP: [Video](https://www.youtube.com/watch?v=aevZ6FPmcl4)  
+
+**Significance:**  
+Learning more about how environmental reactions are programmed/calculated. Also, don't bring electro units if you're trying to get the achievement for Floor 2-2 of the Spiral Abyss.  
+
 ### Electro Crystal Range
 
 **By:** Greyhound\#7836  
