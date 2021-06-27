@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [Patch 1.5b](newsletter/patch-1.5b.md)
+* [Patch 1.6a](newsletter/patch-1.6a.md)
 * [Archive](newsletter/archive/README.md)
+  * [Patch 1.5b](newsletter/archive/patch-1.5b.md)
   * [Patch 1.5a](newsletter/archive/patch-1.5a.md)
   * [March 2021](newsletter/archive/march-2021.md)
   * [February 2021](newsletter/archive/february-2021.md)
@@ -106,6 +107,17 @@
   * [Cards](mechanics/spiral/cards.md)
   * [Tech](mechanics/spiral/tech/README.md)
     * [Plunge](mechanics/spiral/tech/plunge.md)
+
+## Resources
+
+* [Calculators](resources/calculators.md)
+* [Links](resources/links.md)
+
+## Fluff
+
+* [Miscellaneous Entries](fluff/miscellaneous-entries.md)
+* [Overworld](fluff/overworld.md)
+
 
 ## Enemy Data
 
@@ -228,16 +240,6 @@
   * [Whopperflowers](enemy-data/other/whopperflowers/README.md)
     * [Cryo Whopperflower](enemy-data/other/whopperflowers/cryo-whopperflower.md)
     * [Pyro Whopperflower](enemy-data/other/whopperflowers/pyro-whopperflower.md)
-
-## Fluff
-
-* [Miscellaneous Entries](fluff/miscellaneous-entries.md)
-* [Overworld](fluff/overworld.md)
-
-## Resources
-
-* [Calculators](resources/calculators.md)
-* [Links](resources/links.md)
 
 ---
 
