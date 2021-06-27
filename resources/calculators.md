@@ -167,3 +167,13 @@ This is a tool that can calculate remaining AR EXP and time left before you can 
 
 [Link ](https://docs.google.com/spreadsheets/d/1kBbbh6bIUjVeUmG_ZAXtAkG7uFnlfJSYh3wJ11qPlU4/edit?usp=sharing)
 
+### Resin Calculator
+
+**By:** Zakharov#5645  
+**Added:** 6/26/2021
+
+A calculator that determines the average amount of resin needed to upgrade characters, weapons, artifacts, etc. It includes the average cost of finding artifacts with the correct stats.
+
+[Link](https://docs.google.com/spreadsheets/d/1QZhdx6-L7jAJDqV9OfPYhl0Q0R8DYpwJz2KIyjHE2Ow/edit#gid=1421390734)
+
+

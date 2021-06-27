@@ -234,3 +234,21 @@ Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachmen
 
 **Significance:**  
 New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
+
+## Harpastum Cancel
+
+**By:** Episodde#8962  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853961397059059722/858414283258855464/transcript-harpastum-cancel.html)
+
+**Finding:**  
+Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental skill is not usable, such as while performing a charge attack.
+
+**Evidence:**  
+Harpastum cancel demo: [Video](https://imgur.com/g4VzQqE)  
+Harpastum cancel frame counts: [Google Sheets](https://docs.google.com/spreadsheets/d/18m1YqErwXnFxVE6NlGp20yYHKt6byt9gT_OVK6gKsEc/edit)  
+Unable to use harpastum cancel during charge attack: [Video](https://imgur.com/1hYi0s0)
+
+**Significance:**  
+Because you can use the gadget in combat, holding the skill button while having the Harpastum equipped act as a quick skill animation cancels, that are are quicker than jump cancels, and does not cost stamina like dash cancels. This can potentially help melee character that prefer to not finish their attack combo due to long animation, such as Razor in the open world.
+

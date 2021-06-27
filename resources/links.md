@@ -26,3 +26,4 @@ This page is still WIP, so these links will eventually be categorized and more l
 
 [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/)
 
+[Optimization with 3 variables solution](https://imgur.com/a/xjJ08Tz) by paimonbukyi\#8800
