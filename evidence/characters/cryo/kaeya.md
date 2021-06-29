@@ -1,5 +1,9 @@
 # Kaeya
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/kaeya.md" %}
+
 ## Kaeya A4 procs on frozen targets
 
 **By:** JonahFarc\#7056  
