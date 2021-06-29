@@ -1,5 +1,9 @@
 # Diona
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/diona.md" %}
+
 ## **Diona Elemental Skill ICD analysis**
 
 **By:** Tractor\#9418  
