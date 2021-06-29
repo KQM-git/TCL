@@ -1,5 +1,9 @@
 # Rosaria
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/rosaria.md" %}
+
 ## A4 Stacks with External Sources of CRIT
 
 **By:** The Immersive Fish\#9373  
