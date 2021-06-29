@@ -1,5 +1,9 @@
 # Ganyu
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/ganyu.md" %}
+
 ## **Credits**
 
 Special thanks to the hardworkers from [GanyuMains](https://discord.gg/ganyumains) that have kept this resource up to date.
