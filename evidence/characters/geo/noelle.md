@@ -1,5 +1,9 @@
 # Noelle
 
+**Main Page:**
+
+{% page-ref page="../../../characters/geo/noelle.md" %}
+
 ## How does 2NO interact with Noelle Q?
 
 **By:** Kibouo\#1698  

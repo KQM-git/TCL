@@ -2,6 +2,10 @@
 
 **Main Page:**
 
+{% page-ref page="../../../characters/geo/traveler-geo.md" %}
+
+**Main Page:**
+
 {% page-ref page="../../characters/geo/traveler-geo.md" %}
 
 ## Multiple E Skill Resonance Can Hit 1 Target

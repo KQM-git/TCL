@@ -1,5 +1,9 @@
 # Albedo
 
+**Main Page:**
+
+{% page-ref page="../../../characters/geo/albedo.md" %}
+
 ## Dimensions of Albedo’s Elemental Skill AoE
 
 **Added:** 12/28/2020  

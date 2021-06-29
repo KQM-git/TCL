@@ -1,5 +1,9 @@
 # Ningguang
 
+**Main Page:**
+
+{% page-ref page="../../../characters/geo/ningguang.md" %}
+
 ## Ningguang C2 and Sacrificial Passive Interaction
 
 **By:** Terrapin\#8603  

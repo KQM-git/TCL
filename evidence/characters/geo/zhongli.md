@@ -1,5 +1,9 @@
 # Zhongli
 
+**Main Page:**
+
+{% page-ref page="../../../characters/geo/zhongli.md" %}
+
 ## Zhongli's Ascension 1 broken down
 
 **By:** 3b00d\_09\#2235  
