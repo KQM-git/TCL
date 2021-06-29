@@ -91,13 +91,13 @@ The behavior of Freeze curves to give diminishing returns at higher GU values. T
 
 ## Swirl
 
-Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE will cause up to two instances of _Swirl_ damage per element. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is very possible to have more than two total instances of damage per target.
+Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE can cause up to two instances of _Swirl_ damage per element for each enemy in the AoE. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is possible to have more than eight total damage instances per target.
 
 * In the special case of Hydro, only the target afflicted with the Hydro initially will take damage as the dispersion of hydro will not harm enemies.
 * All reactions caused by swirling auras together use the stats of the character that triggered the swirl in their damage calculation.
-  * If an amp reaction is triggered in this manner, the damage will snapshot EM.
+  * If an amp reaction is triggered in this manner, the damage will snapshot EM and the Base Hit will be the Swirl damage number.
 * Environmental element sources \(such as campfires and burning grass\) can be swirled.
-* Swirl is an separate effect from Elemental Absorption.
+* Swirl is an separate effect from [Elemental Absorption](https://library.keqingmains.com/evidence/mechanics/gameplay-mechanics/elemental-absorption).
 
 When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
