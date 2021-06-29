@@ -213,3 +213,7 @@ After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains an Anemo Infusio
 | Energy Cost | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60 |
 {% endtab %}
 {% endtabs %}
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/anemo/kazuha.md" %}
