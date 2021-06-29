@@ -1,5 +1,9 @@
 # Qiqi
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/qiqi.md" %}
+
 ## Talisman Healing Conditions
 
 **By:** Ayzel\#7399  
