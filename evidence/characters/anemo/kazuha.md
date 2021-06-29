@@ -13,11 +13,11 @@
   * Q: [2GU]()
 
 ### Normal Attack Mechanics
-* Kazuha's normal attacks cannot strike enemies lifted by Venti's Elemental Burst. -[RayXD\#7790](https://imgur.com/a/mHxRQjF)
+* Kazuha's normal attacks cannot strike enemies lifted by Venti's Elemental Burst. - [RayXD\#7790](https://imgur.com/a/mHxRQjF)
 
 ### Skill Mechanics
-* Tap E particle count is fixed [3 anemo orbs](https://i.imgur.com/KDeL4wp.png). Hold E particle count is fixed [4 anemo orbs](https://i.imgur.com/0oulfFW.png).- Steph#\3614
-  * Chihayaburu will only generate particles when the initial vacuum hits enemies. Video confirmation. -[EdisonsMathsClub\#6469](https://www.youtube.com/watch?v=FdyWE2T66VE)
+* Tap E particle count is fixed [3 anemo orbs](https://i.imgur.com/KDeL4wp.png). Hold E particle count is fixed [4 anemo orbs](https://i.imgur.com/0oulfFW.png). -  Steph#\3614
+  * Chihayaburu will only generate particles when the initial vacuum hits enemies. Video confirmation. - [EdisonsMathsClub\#6469](https://www.youtube.com/watch?v=FdyWE2T66VE)
 
 ### Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
