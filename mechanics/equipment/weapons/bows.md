@@ -405,7 +405,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| ? | After using an Elemental Skill, receive a boon from the ancient wish of Windblume, increasing ATK by **16/?/?/?/?**% for 6s |
+| ? | After using an Elemental Skill, receive a boon from the ancient wish of Windblume, increasing ATK by **16/20/24/28/32**% for 6s |
 | Base ATK | 42 - 510 |
 | EM | 36 - 165 |
 {% endtab %}

@@ -63,25 +63,25 @@ Test 3: Vaporize
 
 ## Blackcliff Series
 
-### BlackCliff Sword effect Persists through a Character Swap
+### Blackcliff Sword effect Persists through a Character Swap
 
 **By:** Cenpi\#3224
 
 [https://youtu.be/lqB9ifbFTLI](https://youtu.be/lqB9ifbFTLI)
 
-### BlackCliff Sword effect doesn’t activate if a Support takes the Kill
+### Blackcliff Sword effect doesn’t activate if a Support takes the Kill
 
 **By:** Cenpi\#3224
 
 [https://youtu.be/drij7iIl\_Tg](https://youtu.be/drij7iIl_Tg)
 
-### BlackCliff Sword effect doesn’t activate if a CO-OP Member takes the Kill
+### Blackcliff Sword effect doesn’t activate if a CO-OP Member takes the Kill
 
 **By:** Cenpi\#3224
 
 [https://youtu.be/YFyRpQF\_fcY](https://youtu.be/YFyRpQF_fcY) \(refer to link above for original atk values\)
 
-### BlackCliff Sword Effect Persists Even if the Holder Switches Off-Field
+### Blackcliff Sword Effect Persists Even if the Holder Switches Off-Field
 
 **By:** Lix-\#3417  
 **Added:** 12/7/2020
@@ -382,6 +382,20 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 * Relevant examples in the overworld only: environmental damage
 * Relevant examples: Ruin guard missiles or the cryo gun attack from the cryo fatui \([https://youtu.be/qaxgPjY78YE](https://youtu.be/qaxgPjY78YE)\)
 
+#### Serpent Spine Damage Taken affects Shields
+
+**By:** Greyhound\#7836  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** the damage taken increase from Serpent Spine's passive does affect the damage shields take.
+
+**Evidence:** https://www.youtube.com/watch?v=EjYpIBPmNSQ
+
+Explanation: The crystalize shield is created by a level 50 character with 0 EM, thus creating a ~786 health shield which has 2.5x effectiveness against its own element, meaning that it will block ~1965 pyro damage. Both flower stamens are dealing the same damage, and give the same results, with Beidou equipped with SS (with 5 stacks) taking 1045 damage per tick, and with fav sword taking 908 damage per tick. Beidou with SS 5 stack's shield lasted for 2 ticks allowed Beidou to take 123 damage additional damage, while the shield with favonius greatsword equipped lasted for 3 ticks and allowed Beidou to take 759 additional damage.
+
+**Significance:** Explanation of how shields interaction with negative damage reduction
+
 ### Skyward Blade
 
 #### Skyward Blade Description Clarification
@@ -421,6 +435,32 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 
 **Note:** The glad goblet had a bit of def, so the video of 4 pc Glad had a bit more atk than the bottom from Noelle C6 Q, resulting in 25 more vacuum blade damage.
 
+#### Vacuum Blades can crit
+
+**By:** Phana\#0420  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** Skyward Pride's vacuum blades can crit.
+
+**Evidence:** https://www.youtube.com/watch?v=S7EN0Kl3l9A
+
+**Significance:** Calculations should account for the crit possibility of skyward pride's blades.
+
+### Skyward Atlas
+
+#### Skyward Atlas effect can crit
+
+**By:** Phana\#0420  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** Skyward Atlas' weapon proc can crit.
+
+**Evidence:** https://www.youtube.com/watch?v=PcVPrTAAdu0&ab_channel=Arco
+
+**Significance:** calculations should account for the crit possibility of weapon procs.
+
 ### The Bell
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
@@ -449,6 +489,24 @@ Truncating decimals aside, the dmg number of "If additive" is the same as in-gam
 **Finding:** Yes, it can crit
 
 **Evidence:** [https://imgur.com/a/kWhXThT](https://imgur.com/a/kWhXThT)
+
+### The Alley Flash
+
+#### Alley Flash's Disable Timer can be Reset by Damage
+
+**By:** kol\#1593  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+
+**Finding:** Taking damage while The Alley Flash's DMG% increase passive is disabled will reset the disable timer.
+
+**Evidence:** https://youtu.be/9qbp8g0zJsY
+
+Bennett takes hit 1 at 124 frames (2.083 seconds)
+Bennett takes hit 2 at 261 frames (4.35 seconds)
+The Alley Flash's passive symbol fully materializes at 561 frames (9.35 seconds)
+
+**Significance:** Every time you take damage with Alley Flash equipped, you reset the timer and thus extend the downtime of the passive.
 
 ### Wolf's Gravestone
 

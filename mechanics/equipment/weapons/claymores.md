@@ -13,6 +13,7 @@
 | ER% | 8% - 36.8% |
 
 * The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy\#2036](../../../evidence/mechanics/equipment/weapons.md#skyward-pride-damage-interaction-with-4-set-gladiators)
+* Vacuum Blades can crit.
 {% endtab %}
 
 {% tab title="Details" %}
@@ -336,6 +337,7 @@
   * 4-3: 1.01-1.02s
   * 3-2: 1.17-1.18s
   * 2-1: 1.17-1.18s
+* Serpent Spine's damage taken increase affects shields.
 {% endtab %}
 
 {% tab title="Details" %}

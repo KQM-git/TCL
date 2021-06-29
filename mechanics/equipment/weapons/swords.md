@@ -356,6 +356,8 @@
 | Itinerant Hero | Increases DMG dealt by the character equipping this weapon by **12/15/18/21/24**%. Taking DMG disables this effect for 5s.. |
 | Base ATK | 45 - 620 |
 | EM | 12 - 55 |
+
+* taking damage while the passive is disabled will reset the disable timer.
 {% endtab %}
 {% endtabs %}
 
