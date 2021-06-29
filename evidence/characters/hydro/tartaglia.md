@@ -1,5 +1,9 @@
 # Tartaglia
 
+**Main Page:**
+
+{% page-ref page="../../../characters/hydro/tartaglia.md" %}
+
 ## **Skyward Harp Passive on Childe**
 
 **By:** Cola\#4314

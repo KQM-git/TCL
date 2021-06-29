@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../characters/hydro/mona.md" %}
+{% page-ref page="../../../characters/hydro/mona.md" %}
 
 ## **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
 

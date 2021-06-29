@@ -1,5 +1,9 @@
 # Xingqiu
 
+**Main Page:**
+
+{% page-ref page="../../../characters/hydro/xingqiu.md" %}
+
 ## **XQ Q Sword Has an Internal Cooldown**
 
 **By:** BowlSoldier\#3528  

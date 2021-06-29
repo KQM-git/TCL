@@ -1,5 +1,9 @@
 # Barbara
 
+**Main Page:**
+
+{% page-ref page="../../../characters/hydro/barbara.md" %}
+
 ## **Barbara E Animation Cancel**
 
 **By:** RoaringMeow\#2437  
