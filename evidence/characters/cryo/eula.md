@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../characters/cryo/eula.md" %}
+{% page-ref page="../../../characters/cryo/eula.md" %}
 
 ## Basic Eula Mechanics
 

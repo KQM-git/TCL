@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../characters/anemo/kazuha.md" %}
+{% page-ref page="../../../characters/anemo/kazuha.md" %}
 
 ## Basic Kazuha Mechanics
 
