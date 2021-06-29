@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="housing.md" %}
+{% page-ref page="../../../mechanics/gameplay-mechanics/housing.md" %}
 
 ## Realm Currency Exchange Rate Analysis
 
