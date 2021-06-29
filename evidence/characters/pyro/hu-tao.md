@@ -1,5 +1,9 @@
 # Hu Tao
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/hu-tao.md" %}
+
 ## Blood Blossom \(BB\) Duration on Charge Attack Reapplication
 
 **By:** itskhoi\#0013  

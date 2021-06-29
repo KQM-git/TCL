@@ -1,5 +1,9 @@
 # Diluc
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/diluc.md" %}
+
 ## Diluc Burst ICD
 
 **By:** Isu\#6867  

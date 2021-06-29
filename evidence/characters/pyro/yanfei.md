@@ -1,5 +1,9 @@
 # Yanfei
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/yanfei.md" %}
+
 ## Day 1 Yanfei Findings
 
 * Stamina consumption decrease from seals affects all actions - [Aluminum\#5462](https://youtu.be/0EqhvYyKA64)

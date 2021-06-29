@@ -1,5 +1,9 @@
 # Amber
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/amber.md" %}
+
 ## C0 Amber: 2 Simultaneous Baron Bunnies
 
 **By:** Exuma\#1917  

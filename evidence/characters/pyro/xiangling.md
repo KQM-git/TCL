@@ -1,5 +1,9 @@
 # Xiangling
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/xiangling.md" %}
+
 ## Guoba CDR Interaction
 
 **By:** miliana\#9407  

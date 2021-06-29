@@ -1,5 +1,9 @@
 # Bennett
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/bennett.md" %}
+
 ## Inspiration Field Buff Duration
 
 **By:** Comfy Seaweed\#3841  

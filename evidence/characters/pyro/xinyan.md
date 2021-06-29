@@ -1,5 +1,9 @@
 # Xinyan
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/xinyan.md" %}
+
 ## Xinyan's Burst Procs Sac GS with C2
 
 **By:** Neptunya\#8291

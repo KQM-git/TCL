@@ -1,5 +1,9 @@
 # Klee
 
+**Main Page:**
+
+{% page-ref page="../../../characters/pyro/klee.md" %}
+
 ## Klee Burst Waves Mechanics
 
 **By:** Ayzel\#7399  
