@@ -30,18 +30,22 @@ Perform up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 65.38% | -- | -- |
-| 2-Hit DMG | 65.75% | -- | -- |
-| 3-Hit DMG | 37.5% + 45% | -- | -- |
-| 4-Hit DMG | 88.25% | -- | -- |
-| 5-Hit DMG | 36.88% x3 (110.64%) | -- | -- |
+| 1-Hit DMG | 65.38% | 14 | 760.20% |
+| 2-Hit DMG | 65.75% | 34 | 314.70% |
+| 3-Hit DMG | 37.5% + 45% | 60 + 70 | 249.03% |
+| 4-Hit DMG | 88.25% | 97 | 253.95% |
+| 5-Hit DMG | 36.88% x3 (110.64%) | 140 | 240.43% |
+| Recovery (Total MV) | 150.45% | 200 | 247.28% |
+
+* Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 62.5% + 108.5% | -- | -- |
+| Charged Attack DMG | 62.5% + 108.5% | 14 + 44 | -- |
+| Recovery (Total MV) | 62.5% + 108.5% | 78 | 247.28% |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan. Plunging Attack: Midare Ranzan When a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to Anemo DMG and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
@@ -50,6 +54,9 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | :--- | :--- |
 | Plunge DMG | 118.94% |
 | Low/High Plunge DMG | 237.84% / 297.07% |
+| Plunging Attack: Midare Ranzan | 237.84% / 297.07% |
+
+* Midare Ranzan applies 2U gauge.
 {% endtab %}
 
 {% tab title="Chihayaburu" %}
@@ -57,10 +64,11 @@ Unleashes a secret technique as fierce as the rushing wind that pulls objects an
 
 | Type | Talent 6% | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press Skill DMG | 268.8% | -- | -- | --| -- |
+| Press Skill DMG | 268.8% | 1U | 3 | 36 | -- |
 | Press CD | 6s | -- | -- | --| -- |
-| Hold Skill DMG | 365.12% | -- | -- | --| -- |
+| Hold Skill DMG | 365.12% | 2U | 4 | 69 | -- |
 | CD (hold) | 9s | -- | -- | --| -- |
+* Plunging Attack: Midare Ranzan will add 55 frames on Press: Chihayaburu, and add 63 frames on Hold: Chihayaburu.
 {% endtab %}
 
 {% tab title="Kazuha Slash" %}
@@ -74,6 +82,7 @@ The signature technique of Kazuha's self-styled bladework — a single slash tha
 | Duration | 8s |
 | CD | 15s |
 | Energy Cost | 60 |
+| U | 2U |
 {% endtab %}
 {% endtabs %}
 
@@ -97,6 +106,7 @@ If Chihayaburu comes into contact with Hydro/Pyro/Cryo/Electro when cast, Chihay
 ### Poetics of Fuubutsu
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% Elemental DMG Bonus to their corresponding Element for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
+* Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 {% endtab %}
 {% endtabs %}
 
@@ -144,6 +154,7 @@ Increases the Level of Kazuha Slash by 3. Maximum upgrade level is 15.
 ### Crimson Momiji
 
 After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains an Anemo Infusion for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%.
+* The Anemo infusion can be overriden by other infusion effects such as Bennett's C6 Inspiration Field.
 {% endtab %}
 {% endtabs %}
 
