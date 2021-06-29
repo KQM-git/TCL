@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../characters/anemo/jean.md" %}
+{% page-ref page="../../../characters/anemo/jean.md" %}
 
 ## Jean's C4 verticality
 
