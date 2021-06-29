@@ -1,5 +1,9 @@
 # Chongyun
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/chongyun.md" %}
+
 ## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)**
 
 **By:** shdwbld\#8103
