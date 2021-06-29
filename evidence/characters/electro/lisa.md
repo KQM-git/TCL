@@ -1,5 +1,9 @@
 # Lisa
 
+**Main Page:**
+
+{% page-ref page="../../../characters/electro/lisa.md" %}
+
 ## Violet Arc's Press variant AoE is passed to all affected targets
 
 By: ArchedNosi\#1484  

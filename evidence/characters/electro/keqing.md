@@ -1,5 +1,9 @@
 # Keqing
 
+**Main Page:**
+
+{% page-ref page="../../../characters/electro/keqing.md" %}
+
 ## Frame by Frame Analysis of Keqing's Attack Combos
 
 **By:** HailCorporate\#2970

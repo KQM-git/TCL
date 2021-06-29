@@ -1,5 +1,9 @@
 # Beidou
 
+**Main Page:**
+
+{% page-ref page="../../../characters/electro/beidou.md" %}
+
 ## Analysing Beidou’s Normal Attack Rotations Including Hitlag
 
 **By:** lostguru\#5024  

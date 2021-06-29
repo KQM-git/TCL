@@ -1,5 +1,9 @@
 # Razor
 
+**Main Page:**
+
+{% page-ref page="../../../characters/electro/razor.md" %}
+
 ## Does Razor retain his Electro aura from his Q after swapping off and back on?
 
 **By:** EternalDream\#5503

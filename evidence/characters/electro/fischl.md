@@ -1,5 +1,9 @@
 # Fischl
 
+**Main Page:**
+
+{% page-ref page="../../../characters/electro/fischl.md" %}
+
 ## 4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction
 
 **By:** Cenpi\#3224
