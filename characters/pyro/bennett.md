@@ -68,7 +68,7 @@ Bennett strikes once, dealing Pyro DMG.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2 \(-\) | 52 | 222.3%/s |
+| E Press | 192.64% | 5s | 2B | 2~3 \(3:1) | 52 | 222.3%/s |
 | Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 \(-\) | 112 | 132%/s |
 | Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 \(-\) | 197 | 134.7%/s |
 | Explosion | 184.8% | ~ | 1A | ~ | ~ | ~ |
