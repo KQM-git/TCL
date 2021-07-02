@@ -1,5 +1,9 @@
 # Xiao
 
+**Main Page:**
+
+{% page-ref page="../../../characters/anemo/xiao.md" %}
+
 ## **Xiao Mastersheet V2.0**
 
 Xiao Mastersheet V2.0  

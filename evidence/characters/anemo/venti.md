@@ -1,5 +1,9 @@
 # Venti
 
+**Main Page:**
+
+{% page-ref page="../../../characters/anemo/venti.md" %}
+
 ## Venti Burst Analysis
 
 **By:** KleefulFrames\#6735

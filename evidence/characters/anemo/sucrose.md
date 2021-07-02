@@ -1,5 +1,9 @@
 # Sucrose
 
+**Main Page:**
+
+{% page-ref page="../../../characters/anemo/surcrose.md" %}
+
 ## **Sucrose's N1 Attack can, in some Situations, Cease to Exist**
 
 **By:** Mikman\#1149

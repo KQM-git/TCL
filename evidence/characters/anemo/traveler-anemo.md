@@ -1,5 +1,9 @@
 # Traveler \(Anemo\)
 
+**Main Page:**
+
+{% page-ref page="../../../characters/anemo/traveler-anemo.md" %}
+
 ## Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 
 **By:** Tsym\#2586  
