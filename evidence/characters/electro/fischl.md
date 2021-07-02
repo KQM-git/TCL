@@ -460,3 +460,17 @@ In the video it shows Fischl's stats and equipment before proccing 4ToM, Oz is t
 **Significance:**  
 Normally not useful since Oz even without C6 should be enough to have 100% uptime on 4ToM while he's out. But there could be cases where Oz misses from some reason \(maybe an obstacle\) then C6 can cover for that and make 4ToM a bit more consistent. C6's Range is also larger than Oz's E shots so there could be fringe cases where Oz is out of range but you can still proc 4ToM using her C6.
 
+## Oz and Baron Bunny
+
+**By:** Ramen\#5124, Riverta\#5461  
+**Added:** 7/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860012125870751744/860235782622150676/transcript-oz-and-baron-bunny.html)
+
+**Finding/Bug:** Oz is able to target Baron Bunny if Fischl’s Ascension 1 passive, Stellar Predator is triggered, despite having no enemies nearby. The passive may or may not deliver a Thundering Retribution onto the Baron Bunny as shown in the two videos below.
+
+**Evidence:**
+
+* Without Thundering Retribution: [https://www.youtube.com/watch?v=VHP1rXX78WA](https://www.youtube.com/watch?v=VHP1rXX78WA)
+* With Thundering Retribution: [https://www.youtube.com/watch?v=oGereCKfSuU](https://www.youtube.com/watch?v=oGereCKfSuU)
+
+**Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
