@@ -110,7 +110,8 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Initial Storm DMG | 246% | 1GU | ~ |
 | Max Storm DMG | 269% | 1GU | ~ |
 | Base Cooldown | 5s | ~ | 2 |
-| Max Charge Cooldown | 8s | ~ | 3~4 \(2:1\) |
+| Max Charge Cooldown | 8s | ~ | 3~4 \(2:1\) |  
+* Infusion priority: Cryo > Pyro > Hydro > Electro  
 {% endtab %}
 
 {% tab title="Gust Surge" %}
@@ -127,7 +128,8 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | Duration | 6s |
 | Cooldown | 15s |
 | GU | 1GU |
-| Energy Cost | 60 |
+| Energy Cost | 60 |  
+* Infusion priority: Cryo > Pyro > Hydro > Electro  
 {% endtab %}
 {% endtabs %}
 

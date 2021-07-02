@@ -104,7 +104,8 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
     * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
 * Every third infused elemental tick applies 1U of the absorbed element, for a maximum of 6 applications.
 * Venti's burst snapshots.
-* Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.
+* Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
+* Infusion priority: Pyro > Hydro > Electro > Cryo  
 {% endtab %}
 {% endtabs %}
 

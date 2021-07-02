@@ -81,7 +81,8 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Energy Cost | 80 |
 | Gauge Units | 1GU |
 
-* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.
+* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
+* Infusion priority: Pyro > Hydro > Electro > Cryo  
 {% endtab %}
 {% endtabs %}
 
