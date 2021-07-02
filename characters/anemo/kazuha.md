@@ -141,7 +141,8 @@ Increases the Level of Chihayaburu by 3. Maximum upgrade level is 15.
 
 When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects: 
 * Tapping or Holding Chihayaburu regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
-* When gliding, Kaedehara Kazuha regenerates 2 Energy per second.
+* When gliding, Kaedehara Kazuha regenerates 2 Energy per second.  
+  * The energy gained while gliding is not affected by energy recharge.  
 {% endtab %}
 
 {% tab title="C5" %}
