@@ -130,3 +130,15 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
 
+## Location remembered between map tabs  
+
+**By:** Creonalia\#2818  
+**Added:** 06/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/803833656182702099/859538316431720478/transcript-location-remembered-between-map-tabs.html)  
+
+**Theory:** Genshin remembers your location and world state(such as bosses) in different map tabs separately.  
+
+**Evidence:** Anemo hypostasis and other world bosses normally respawn after 3 minutes and teleporting away&back (as shown at the end), but doesn't respawn after going to the Archipelago, additionally teapot shows that it remembers your ogriginal location in Teyvat upon leaving: [Video](https://youtu.be/oeCJF5fXqqMkqm)  
+
+**Significance:** It'll be relevant whenever more overworld mechanics are added which refresh when tping in/out or if we get more map tabs.  
+

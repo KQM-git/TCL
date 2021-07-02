@@ -28,6 +28,9 @@
 - Electrified is a harmful reaction against both player and enemy.  
 - Electrified's damage is classified as transformative, but it works off of environment bases.  
 
+### Other world maps  
+- The current world state & character position is saved between different world maps.  
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}
