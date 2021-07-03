@@ -474,3 +474,15 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 * With Thundering Retribution: [https://www.youtube.com/watch?v=oGereCKfSuU](https://www.youtube.com/watch?v=oGereCKfSuU)
 
 **Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
+
+## Fischl C4 Damage is Burst Damage
+
+**By:** Sed#0013  
+**Added:** 07/03/2021  
+[Discussion]()
+
+**Finding/Bug:** Fischl's Constellation 4 damage is considered burst damage.
+
+**Evidence:** [https://www.youtube.com/watch?v=UCmGvNioiZU](https://www.youtube.com/watch?v=UCmGvNioiZU)
+
+**Significance:** Fischl C4 can benefit from Burst Damage multipliers
