@@ -479,7 +479,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **By:** Sed#0013  
 **Added:** 07/03/2021  
-[Discussion]()
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/803833656182702099/860780048758734888/transcript-fischl-c4-is-elemental-burst-damage.html)
 
 **Finding/Bug:** Fischl's Constellation 4 damage is considered burst damage.
 
