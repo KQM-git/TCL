@@ -29,7 +29,7 @@ Shoots gems that deal Geo DMG. Upon hit, grants Ningguang 1 **Star Jade**.
 
 | String | Talent 6% | GU | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 39.2% | 1U |  |  |
+| Normal Attack | 39.2% | 1U | 25 | 94.08/s |
 
 * Ningguang's Normal Attacks can be cancelled as soon as the jades appear by her side by jumping or dashing.
 
@@ -38,8 +38,8 @@ Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 243.71% |  |  |
-| DMG per Star Jade | 69.44% |  |  |
+| Charged Attack DMG | 243.71% | 50 | 292.4%/s |
+| DMG per Star Jade | 69.44% | ~ | 83.3% |
 
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames. 
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
@@ -69,8 +69,8 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 | Cooldown | 12s |
 | GU | 1U |
 | Particles | 3~4 \(3:2\) |
-| Frames |  |
-| Motion Value |  |
+| Frames | 34 |
+| Motion Value | 586.8%/s |
 {% endtab %}
 
 {% tab title="Starshatter" %}
@@ -80,8 +80,8 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | :--- | :--- |
 | DMG per Gem | 121.74% |
 | Energy Cost | 40 |
-| GU | 1U |
-| Frames |  |
+| GU | 2U |
+| Frames | 101 |
 
 * Ningguang's **Starshatter** does snapshot on cast.
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
