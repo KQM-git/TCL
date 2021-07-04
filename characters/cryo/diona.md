@@ -76,16 +76,15 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 * The shield has a 250% Cryo DMG Absorption bonus.
 * Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| DMG per Icy Paw | 58.69% |
-| Shield Scaling | 10.08% Max HP + 1097 |
-| Duration | 2.3s per Claw |
-| Press Cooldown | 6s |
-| Hold Cooldown | 15s |
-| Particles | 0~1 \(1:4\) check per paw |
-| Frames | 15 Press ~ 24 Hold |
-| MV/s | 469.5%/s Press ~ 733.6%/s Hold |
+| Effect | Talent 6% | GU | Frames | MV/s |
+| :--- | :--- | :--- | :--- | :--- |
+| Shield Scaling | 10.08% Max HP + 1097 | ~ | ~ | ~ |
+| Duration | 2.3s per Claw | ~ | ~ | ~ |
+| Press | 58.69% x 2 | 1A | 15 | 469.5%/s |
+| Hold | 58.69% x 5 | 1A x 2 | 24 | 733.6%/s |
+| Press Cooldown | 6s | ~ | ~ | ~ |
+| Hold Cooldown | 15s | ~ | ~ | ~ |
+| Particles | 0~1 \(1:4\) check per paw |  
 
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
@@ -109,8 +108,7 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | Duration | 12s |
 | CD | 20s |
 | Energy Cost | 80 |
-| Frames |  |
-| MV/s |  |
+| Frames | 49 |
 {% endtab %}
 {% endtabs %}
 
