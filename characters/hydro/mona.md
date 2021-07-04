@@ -79,6 +79,7 @@ Mona dashes backwards before placing a Phantom of Fate down.
 
 | **Type** | **Talent 6%** | Frames | MV/s | **GU** | Particles |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cast | ~ | 42 | ~ | 1A | ~ |
 | DoT | 44.8% | 60 | 44.8%/s | 1A | ~ |
 | Explosion DMG | 185.92% | ~ | ~ | 1A | 3~4 \(2:1\) |
 | CD | 12s | ~ | ~ | ~ | ~ |
@@ -122,6 +123,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 | Omen Duration | 4.5s | ~ |
 | CD | 15s | ~ |
 | Energy Cost | 60 | ~ |
+| Frames | 125 | ~ |
 
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
 * **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
