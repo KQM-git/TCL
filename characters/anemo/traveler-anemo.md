@@ -103,14 +103,14 @@ The **Vortex** explodes when the skill duration ends, dealing more Anemo DMG ove
 
 If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. This only occurs once per use.
 
-| Type | Talent 6% | GU | Particles |
-| :--- | :--- | :--- | :--- |
-| Initial Cutting DMG \(x2\) | 16.8% | 1GU | ~ |
-| Max Cutting DMG \(x4\) | 23.5% | 1GU | ~ |
-| Initial Storm DMG | 246% | 1GU | ~ |
-| Max Storm DMG | 269% | 1GU | ~ |
-| Base Cooldown | 5s | ~ | 2 |
-| Max Charge Cooldown | 8s | ~ | 3~4 \(2:1\) |  
+| Type | Talent 6% | Frames | GU | Particles |
+| :--- | :--- | :--- | :--- | :--- |
+| Initial Cutting DMG \(x2\) | 16.8% | ~ | 1GU | ~ |
+| Max Cutting DMG \(x4\) | 23.5% | ~ | 1GU | ~ |
+| Initial Storm DMG | 246% | ~ | 1GU | ~ |
+| Max Storm DMG | 269% | ~ | 1GU | ~ |
+| Base Cooldown | 5s | 27 | ~ | 2 |
+| Max Charge Cooldown | 8s | 61 | ~ | 3~4 \(2:1\) |  
 * Infusion priority: Cryo > Pyro > Hydro > Electro  
 {% endtab %}
 
@@ -129,6 +129,7 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | Cooldown | 15s |
 | GU | 1GU |
 | Energy Cost | 60 |  
+| Frames | 41 |  
 * Infusion priority: Cryo > Pyro > Hydro > Electro  
 {% endtab %}
 {% endtabs %}
