@@ -94,6 +94,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 | Duration | 15s |
 | CD | 18s |
 | Energy Cost | 70 |
+| Frames | 58 |  
 {% endtab %}
 {% endtabs %}
 
