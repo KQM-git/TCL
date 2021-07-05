@@ -474,3 +474,45 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 * With Thundering Retribution: [https://www.youtube.com/watch?v=oGereCKfSuU](https://www.youtube.com/watch?v=oGereCKfSuU)
 
 **Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
+
+## How avarious aspects of Fischl's damage are calculated
+
+**By:** itsjaeYOU#2868  
+**Added:** 07/05/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861090088024932382/861407595611947008/transcript-fischl-damage-formula-mechanics.html)
+
+**Finding/Bug:**
+
+* C1 "22%" is calculated as a Talent Skill % (MV)
+* C1 is physical damage
+* C1 does not benefit from stringless
+* C1 can crit
+
+* C2 "200%" is added to your skill (E) talent% (MV)
+* The Stringless benefits E and Oz' normals
+* The Stringless passive is added to DMG% in damage formula
+* Alley Hunter benefits E and Oz' normals
+* Alley Hunter passive is added to DMG% in damage formula
+
+* A4 is calculated as a MV
+* A4 benefits from stringless passive
+* A4 can crit
+
+* C4 is calculated as a separate instance of damage
+* C4 "222%" is calculated as MV
+* C4 benefits from stringless
+* C4 can crit
+* C4 and Q have separate crit rolls
+* C4 damage occurs before Q (higher priority)
+
+* C6 is calculated as MV
+* C6 benefits from stringless
+* C6 can crit
+
+**Evidence:**
+
+* Documentation: [https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y](https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y)
+* Videos: [https://www.youtube.com/playlist?list=PL4o3wWS22uTwI8vNN0VKcQ9SjNo5IHuJW](https://www.youtube.com/playlist?list=PL4o3wWS22uTwI8vNN0VKcQ9SjNo5IHuJW)
+
+**Significance:** Better understanding of how Fischl's Ascensions and Constellations are calculated.
+
