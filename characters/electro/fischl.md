@@ -148,6 +148,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * There is a 0.5s ICD between A4 procs.
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
+* A4 benefits from The Stringless' passive
+* A4 can crit
 {% endtab %}
 {% endtabs %}
 
@@ -164,6 +166,8 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 | Gaze of the Deep | 22% | Normal Attack |
 
 * This is an echo effect.
+* C1 does not benefit from The Stringless
+* C1 can also crit
 {% endtab %}
 
 {% tab title="C2" %}
@@ -171,9 +175,11 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 
 When Nightrider is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
 
-| Type | Talent 6% |
-| :--- | :--- |
-| Cast DMG | 361.62% |
+| Type | Talent 6% | Damage Type |
+| :--- | :--- | :--- |
+| Cast DMG | 361.62% | Elemental Skill |
+
+* C2 is added to your Elemental Skill damage.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -191,6 +197,12 @@ When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surr
 | :--- | :--- |
 | Cast DMG | 291.2% |
 | Her Pilgrimage of Bleak | 222% |
+
+* C4 is calculated as a separate, second instance of Elemantal Burst damage.
+* C4 can benefit from The Stringless
+* C4 can crit
+* C4 and Q have separate crit rolls
+* C4 damage occurs before Q (higher priority)
 {% endtab %}
 
 {% tab title="C5" %}
@@ -210,6 +222,8 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 * The joint attack has an elemental application ICD of 2s.
 * The joint attack is an echo effect
+* C6 benefits from The Stringless
+* C6 can crit
 {% endtab %}
 {% endtabs %}
 
