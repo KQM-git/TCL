@@ -481,7 +481,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 **Added:** 07/05/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861090088024932382/861407595611947008/transcript-fischl-damage-formula-mechanics.html)
 
-**Finding/Bug:**
+**Finding:**
 
 * C1 "22%" is calculated as a Talent Skill % (MV)
 * C1 is physical damage
@@ -511,7 +511,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **Evidence:**
 
-* Documentation: [https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y](https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y)
+* Document: [https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y](https://docs.google.com/spreadsheets/d/1npOYibIo4zpmEVXghiimfGWI7tQ4fl4JVpXjFtEL81Y)
 * Videos: [https://www.youtube.com/playlist?list=PL4o3wWS22uTwI8vNN0VKcQ9SjNo5IHuJW](https://www.youtube.com/playlist?list=PL4o3wWS22uTwI8vNN0VKcQ9SjNo5IHuJW)
 
 **Significance:** Better understanding of how Fischl's Ascensions and Constellations are calculated.
