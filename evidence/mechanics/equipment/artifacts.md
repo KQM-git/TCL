@@ -723,3 +723,23 @@ I pulled out data for 4 substat and 3 substat artifacts to analyze separately si
 More data would be needed to reach stronger conclusions. As of right now, there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
+
+## Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
+
+**By:** ProfHugo#6478  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856901008667443211/858418320973365258/transcript-breakpoints-for-2inst2wt-vs-4tfcw.html)
+
+**Finding:**  
+For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
+
+**Evidence:** 
+- 4TF/CW provides a flat, additive bonus to the total % increase in the formula.
+- The bonus provided 80/160 EM follows a hyperbolic decay as total EM increases.
+- At 0 <= EM without set bonus <= 490 EM, 80 additional EM provides >=40% increase to the damage of a transformative reaction.
+- At 0 <= EM without set bonus <= 1498 EM, 160 additional EM provides >=40% increase to the damage of a transformative reaction.  
+
+Desmos sheet for visualization/calculations: [Desmos Link](https://www.desmos.com/calculator/7igtgtirot)
+
+**Significance:**  
+For characters building around triggering transformative reactions, if they do not utilize any other parts of the 4p set bonus provided by 4CW (vape/melt boost, pyro% increase) or 4TF (cool down reduction, elec% increase), then 2p Instructor and/or 2p WT may provide a larger boost to damage than the former two.

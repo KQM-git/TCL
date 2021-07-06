@@ -131,3 +131,37 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** External source of infinite healing other than event domains \(until mHY patches the So7 again\).
 
+## Artifact EXP from Vendors Vs Domains
+
+**By:** ceeeleste#3568  
+**Added:** 6/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856083274458857493/858443928244322334/transcript-2-star-artifact-value.html)
+
+**Finding:**  
+Buying 2* artifacts from vendors is more worth than running a domain for artifact exp (Once a week)
+
+**Evidence:**  
+There are 3 artifact vendors, each selling five 2* artifacts for 2k mora each. Shop refreshes once a week. [Wiki Link.](https://genshin-impact.fandom.com/wiki/Shops#Artifacts)
+
+Artifact vendors:  
+Mora/Resin cost: 15 * 2k =  30k mora (10 resin)  
+Total artifact exp: 15 * 840 = 12600 exp  
+Resin worth: 12600/10 = 1260 exp/resin  
+
+Domain Run (20 resin):  
+Drop rates: [Wiki Link](https://genshin-impact.fandom.com/wiki/Loot_System/Artifact_Drop_Distribution)  
+Average artifact exp: (1.068 * 3780) + (2.486 * 2520) + (3.546 * 1260) = 14769.72 exp  
+Best case artifact exp: (2 * 3780) + (3 * 2520) + (4 * 1260) = 20160 exp  
+2525 Mora: 2525/60000 = ~0.0421 resin   
+Average resin worth: 14769.72/20.0421 = ~736.9 exp/resin  
+Best case resin worth: 20160/20.0421 = ~1005.9 exp/resin
+
+Vendor vs Domain:  
+Average: 1260/736.9 = ~1.7099 (vendor 70.99% more worth)  
+Best case: 1260/1005.9 = ~1.2526 (vendor 25.26% more worth)
+
+**Significance:**  
+Buying out the 3 artifact vendors once a week is more worth than running a domain for artifact exp.
+Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a best case domain run scenario.
+
+

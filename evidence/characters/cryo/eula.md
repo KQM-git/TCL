@@ -133,3 +133,20 @@ Eula one-shot rotation (Bennett, Zhongli, and Lisa): [Video](https://imgur.com/b
 
 **Significance:**  
 Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
+  
+## Eula 15 stack bug  
+
+**By:** GOKU\#8808  
+**Added:** 07/05/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851120552323055636/861598862111932416/transcript-15-stacks-on-c0-eula.html)  
+  
+**Bug:**  
+At high ping Eula's elemental burst does not properly lock stacks in on time, allowing for 15 stacks to be possible at C0.  
+  
+**Evidence:**  
+[Video 1 15 stacks](https://www.youtube.com/watch?v=bJGGQLNIuGA) 15 stack [Math](https://imgur.com/a/aeDNvXZ)  
+[Video 2 15 stacks](https://www.youtube.com/watch?v=jRaD3fljWC8)  
+[Video Attempt Compilation](https://www.youtube.com/watch?v=2P2tBYTDpP0)  
+  
+**Significance:**  
+Eula is stronger under high ping.  

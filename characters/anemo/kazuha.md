@@ -83,7 +83,8 @@ The signature technique of Kazuha's self-styled bladework — a single slash tha
 | Duration | 8s |
 | CD | 15s |
 | Energy Cost | 60 |
-| U | 2U |  
+| Initial Slash |2U | 
+| Additional Elemental |1U | 
 * Infusion priority: Pyro > Hydro > Electro > Cryo  
 {% endtab %}
 {% endtabs %}
@@ -102,6 +103,7 @@ Decreases sprinting Stamina consumption for your own party members by 20%. Not s
 ### Soumon Swordsmanship
 
 If Chihayaburu comes into contact with Hydro/Pyro/Cryo/Electro when cast, Chihayaburu will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG. Elemental Absorption may only occur once per use of Chihayaburu.
+* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl.  
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -109,6 +111,7 @@ If Chihayaburu comes into contact with Hydro/Pyro/Cryo/Electro when cast, Chihay
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% Elemental DMG Bonus to their corresponding Element for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
+* Kazuha's 4th ascension passive overrides previous instances on every swirl.
 {% endtab %}
 {% endtabs %}
 
