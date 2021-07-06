@@ -1,1 +1,1 @@
-# Other
+# Mystical Beasts
