@@ -231,7 +231,7 @@
     * [Pugilist](enemy-data/humans/treasure-hoarders/treasure-hoarder-pugilist.md)
     * [Scout](enemy-data/humans/treasure-hoarders/treasure-hoarder-scout.md)
     * [Smasher](enemy-data/humans/treasure-hoarders/treasure-hoarder-smasher.md)
-* [Other](enemy-data/other/README.md)
+* [Mystical Beasts](enemy-data/mystical-beasts/README.md)
   * [Cicins](enemy-data/other/cicins/README.md)
     * [Cryo Cicin](enemy-data/other/cicins/cryo-cicin.md)
     * [Electo Cicin](enemy-data/other/cicins/electro-cicin.md)
