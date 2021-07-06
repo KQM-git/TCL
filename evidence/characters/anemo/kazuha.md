@@ -56,3 +56,19 @@
 * C4: Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki#4893](https://imgur.com/EFeCgB2)  
 * C6: Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)  
 * C6: The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)  
+  
+  
+## EM vs ADC Kazuha  
+
+**By:** Zakharov\#5645  
+**Added:** 07/04/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861165727390367764/861345878035398656/transcript-em-vs-adc-kazuha.html)  
+  
+**Finding:**  
+EM builds are comparable to damage/crit builds on Kazuha in personal damage output. With Kazuha's EM-based team buff, this makes EM builds stronger overall.  
+  
+**Evidence:**  
+[Sheet](https://docs.google.com/spreadsheets/d/1a6-onb86Aphedf-dL5dq4frc2F3IrivggFuhp53D3vw/edit#gid=146292907)  
+  
+**Signifiance:**  
+Em is overall the better build choice for Kazuha in almost every situation.
