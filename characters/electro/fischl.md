@@ -187,10 +187,11 @@ Increases the level of Nightrider by 3.
 
 When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
 
-| Type | Talent 6% | Damage Type |
-| :--- | :--- | :--- |
-| Cast DMG | 291.2% | Elemental Burst |
-| Her Pilgrimage of Bleak | 222% | Elemental Burst |
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 291.2% |
+| Her Pilgrimage of Bleak | 222% |
+* C4 is considered Elemental Burst damage.
 {% endtab %}
 
 {% tab title="C5" %}
