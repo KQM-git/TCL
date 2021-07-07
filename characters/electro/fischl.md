@@ -175,11 +175,11 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 
 When Nightrider is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
 
-| Type | Talent 6% | Damage Type |
-| :--- | :--- | :--- |
-| Cast DMG | 361.62% | Elemental Skill |
+| Type | Talent 6% |
+| :--- | :--- |
+| Cast DMG | 361.62% |
 
-* C2 is added to your Elemental Skill damage.
+* C2 stacks additively with Elemental Skill damage.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -198,10 +198,7 @@ When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surr
 | Cast DMG | 291.2% |
 | Her Pilgrimage of Bleak | 222% |
 
-* C4 is calculated as a separate, second instance of Elemantal Burst damage.
-* C4 can benefit from The Stringless
-* C4 can crit
-* C4 and Q have separate crit rolls
+* C4 can crit and has separate crit rolls from Q.
 * C4 damage occurs before Q (higher priority)
 {% endtab %}
 
