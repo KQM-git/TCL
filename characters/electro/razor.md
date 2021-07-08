@@ -84,7 +84,8 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 * Any active sigils will be absorbed by Razor granting him 5 energy for each sigil.
 * Increases attack speed by a % decided by talent level.
 * Razor also gains 80% Electro RES bonus, immunity against Electro-Charged, and resistance to interruption.
-* Razor’s hold E does not cause a minor self-knockback unlike outside of Lighning Fang.
+* Razor’s hold E does not cause a minor self-knockback unlike outside of Lighning Fang.  
+* While the effects of Elemental Burst: Ligthning Fang are active, the energy particle generation of Elemental Skill: Claw and Thunder is disabled.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -96,9 +97,7 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 | Energy Cost | 80 |
 | Cast GU | 2B |
 | Echo U | 1A |
-| Frames | 62 |  
-
-While the effects of Elemental Burst: Ligthning Fang are active, the energy particle generation of Elemental Skill: Claw and Thunder is disabled.  
+| Frames | 62 |
 {% endtab %}
 {% endtabs %}
 
