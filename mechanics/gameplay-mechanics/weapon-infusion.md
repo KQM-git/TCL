@@ -20,6 +20,22 @@ Infusions apply a 1WU (Weapon gauge Unit) every refresh timing if overrideable\[
 | Noelle | Elemental Burst | Geo | Self | No | N/A |
 | Xiao | Elemental Burst | Anemo | Self | No | N/A |
 
+# Arrow Infusion  
+
+Arrows are continuously self infused with the same elemental gauge of the attack.
+
+## List of Arrow Infusions by element  
+
+| Element | Infused Arrow |
+| :--- | :--- |
+| Cryo | No infused element |
+| Pyro | Yes |
+| Hydro | Yes |
+| Electro | Yes |
+| Anemo | Yes |
+| Geo | - |
+| Dendro | - |
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/weapon-infusion.md" %}
