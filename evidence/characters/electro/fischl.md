@@ -474,3 +474,19 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 * With Thundering Retribution: [https://www.youtube.com/watch?v=oGereCKfSuU](https://www.youtube.com/watch?v=oGereCKfSuU)
 
 **Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
+
+
+## Fischl Build Comparison  
+  
+**By:** Paraszczak\#0148  
+**Added:** 07/09/2021  
+[Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832305727699025951/857401673755656222/transcript-fischl-main-build-weap-comparison.html) [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851486903832543272/862779662097973318/transcript-fischl-waltz-update.html)  
+  
+**Finding:**  
+In-depth weapon/builds comparison for main carry Fischl.  
+
+**Evidence:**  
+[Sheet](https://bit.ly/3xOMZyh)  
+
+**Significance:**  
+While this document is intended primarily for players who are interested in minmaxing main carry Fischl, the conclusions drawn from it will certainly be useful also for newer and less experienced players.
