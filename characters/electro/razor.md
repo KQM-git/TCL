@@ -96,7 +96,9 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 | Energy Cost | 80 |
 | Cast GU | 2B |
 | Echo U | 1A |
-| Frames | 62 |
+| Frames | 62 |  
+
+While the effects of Elemental Burst: Ligthning Fang are active, the energy particle generation of Elemental Skill: Claw and Thunder is disabled.  
 {% endtab %}
 {% endtabs %}
 
