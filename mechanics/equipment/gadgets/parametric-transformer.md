@@ -1,0 +1,22 @@
+# Parametric Transformer
+
+## Internal Cooldown
+
+Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 elemental hits to fill it from 0% to 100%.
+
+It cannot receive any elemental source dmg for at least 0.4 seconds in order to reach another step, therefore adding more dmg sources most of the time will not make it progress further, but will delay it.
+
+That's why:
+* Venti Q -> won't work because it's interval is 0.4 seconds
+* Sucrose N1 -> N2 -> won't work because the chain is too fast unless it's timed correctly
+* Mona Sprint, Lisa Q, Electro Crystal -> 0.5 seconds interval, will always fill it
+
+The best time you can achieve without manual timing is 18*0.5s = 9s.
+The best theoretical time you can achieve is 18*0.401s = 7.218s.
+
+You could "speedrun" the Parametric Transformer with Mona's dash
+Video guide: [https://youtu.be/7ed8Xd8HX24](https://www.youtube.com/watch?v=7ed8Xd8HX24)
+
+## Evidence Vault
+
+{% page-ref page="../../../evidence/mechanics/equipment/gadgets/parametric-transformer.md" %}
