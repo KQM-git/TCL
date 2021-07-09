@@ -191,6 +191,7 @@ When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surr
 | :--- | :--- |
 | Cast DMG | 291.2% |
 | Her Pilgrimage of Bleak | 222% |
+* C4 is considered Elemental Burst damage.
 {% endtab %}
 
 {% tab title="C5" %}
