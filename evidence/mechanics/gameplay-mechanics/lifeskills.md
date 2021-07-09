@@ -163,5 +163,22 @@ Best case: 1260/1005.9 = ~1.2526 (vendor 25.26% more worth)
 **Significance:**  
 Buying out the 3 artifact vendors once a week is more worth than running a domain for artifact exp.
 Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a best case domain run scenario.
+  
+## Vendor Artifacts vs Housing Sanctifying Essence  
+  
+**By:** K \឵឵#4000  
+**Added:** 07/07/2021  
+  [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855808417447804938/858443909838929940/transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)  
+**Finding:**  
+NPC artifact shops are a better deal than the sanctifying essence in terms of artifact experience.  
+  
+**Evidence:**  
+12600=360  
+10000=360  
+For 360 realm currency you can get 10k artifact exp. However, the 2 star artifact experience you get from all three NPC shops is actually equals to more than 10k artifact EXP while costing the same amount of realm currency. The total mora cost for the npc shops is 30k mora for 15 2 star artifacts. 1 two star artifact gives 840 exp and they sell 5 which means 5x840=4200 and 4200x3(amount of NPC artifact shops)=12600.  
 
-
+**Signifiance:**  
+It's better to buy 3 10k mora with 360 realm currency than to buy 1 sanctifying essence for 360 realm currency because you get 2600 more artifact exp from the 30k mora when you buy artis from the npcs.  
+360 Realm Currency can be converted to 10K artifact EXP.  
+NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
+The mora cost of buying out the NPC shop is equal to 360 realm currency.  

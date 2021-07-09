@@ -75,6 +75,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Type | Talent 6% | GU |
 | :--- | :--- | :--- |
 | Stance Change DMG | 100.8% | 2B |
+| Frames | 28 | ~ |
 
 * **Melee Stance:**
   * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.

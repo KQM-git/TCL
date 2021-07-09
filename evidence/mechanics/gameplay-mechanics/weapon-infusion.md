@@ -19,3 +19,21 @@ interacting with each other in specific ways that yield the appearance of a hier
 weapon once on double casting E and Diluc infuses his weapon every 0.5 seconds if it isn't imbued with Pyro. 
 The duration of these gauges differs between characters. Reactions on weapons follow the known reaction modifier rules 
 from other types of elemental application, and similar to Self-auras, can oscillate directly between elements without shifting to physical.
+  
+# Arrow Infusion  
+
+## Arrows are self applied aura entities  
+
+**By:** OAKUM\#0832  
+**Added:** 07/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860818239135547413/862658895611953162/transcript-arrows-are-self-applied-aura-entities.html)  
+
+**Finding:** Arrows are self-applied aura entities.  
+
+**Evidence:**  
+Venti’s arrows are swirled in the rain and Amber’s arrows are vaporized in the rain, showing that arrows are self-applied aura entities. 
+[Venti swirling twice in the rain](https://youtu.be/5hX2UeGsLXc)  
+[Amber vaporizing in the rain](https://youtu.be/qXwODL_xtuk)  
+[Rain swirl damage](https://youtu.be/yT7cYnd8wHo)  
+
+**Conclusion:** Arrows are entities that are infused with the same aura they apply.  

@@ -211,3 +211,21 @@ Steps:
 **Significance:**   
 Just a fun little finding. Can be made into meme builds for a full atk% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
 
+## Childe Double Forward Vape
+
+**By:** Daybreak\#0584  
+**Added:** 07/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859464550046367764/862447773059252224/transcript-childe-double-forward-vape.html)
+
+**Finding:**  
+Childe can forward vaporize both his melee burst, and Riptide Blast given enough pyro support. This pyro support can come in the form of as little as Xiangling burst + Gouba, although due to Gouba’s lack of range, lack of braincells and ability to be knocked away, another pyro support is recommended (such as pyro-infused Sucrose).
+
+**Evidence:**   
+[Childe Double Forward Vape](https://youtu.be/ppJPhrbm4vg)  
+[Childe DFV Sucrose](https://youtu.be/6klCUARhrSU)  
+[Childe DFV Venti](https://youtu.be/43dd9Cqiu_c)  
+[Childe DFV XL only](https://youtu.be/bDTOttJq0k8)
+
+**Significance:**   
+Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadratically with the number of targets in range. Being able to achieve this double vaporize could increase his damage dramatically.
+

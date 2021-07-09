@@ -475,7 +475,6 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
 
-
 ## Fischl Build Comparison  
   
 **By:** Paraszczak\#0148  
@@ -490,3 +489,15 @@ In-depth weapon/builds comparison for main carry Fischl.
 
 **Significance:**  
 While this document is intended primarily for players who are interested in minmaxing main carry Fischl, the conclusions drawn from it will certainly be useful also for newer and less experienced players.
+
+## Fischl C4 Damage is Burst Damage
+
+**By:** Sed#0013  
+**Added:** 07/03/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/803833656182702099/860780048758734888/transcript-fischl-c4-is-elemental-burst-damage.html)
+
+**Finding/Bug:** Fischl's Constellation 4 damage is considered burst damage.
+
+**Evidence:** [https://www.youtube.com/watch?v=UCmGvNioiZU](https://www.youtube.com/watch?v=UCmGvNioiZU)
+
+**Significance:** Fischl C4 can benefit from Burst Damage multipliers
