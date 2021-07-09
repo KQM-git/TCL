@@ -95,7 +95,10 @@ If you place a character in a party that is not at full HP or fainted and swap t
 
 ## Artifact EXP Efficiency
 
-* 2-star artifact vendors are, on average, 70.99% more EXP per resin than farming artifact domains for artifact EXP.
+* 2-star artifact vendors are, on average, 70.99% more EXP per resin than farming artifact domains for artifact EXP.  
+* NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
+* The mora cost of buying out the NPC shops is equal to 360 realm currency.  
+* NPC shop artifacts are more worth to buy than sanctifying essence.
 
 ## Evidence Vault
 
