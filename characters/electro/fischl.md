@@ -72,6 +72,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Summon Cooldown | 25s |
 | Reposition Cooldown | 1s |
 | GU | 1A |
+| Frames | 18 |
 {% endtab %}
 
 {% tab title="Oz" %}
@@ -105,6 +106,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 | Cooldown | 15s |
 | Energy Cost | 60 |
 | GU | 2B |
+| Frames | 20 |
 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
