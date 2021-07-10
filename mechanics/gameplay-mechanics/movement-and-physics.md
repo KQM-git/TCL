@@ -62,6 +62,10 @@ Double dashing with a pause inbetween to regain stamina can allow for a faster w
 
 Dashing off of cliffs can speed up fall speed.  
 
+## Jump extension  
+
+Getting hit while jumping adds extra velocity if not staggered.  
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/movement-and-physics.md" %}
