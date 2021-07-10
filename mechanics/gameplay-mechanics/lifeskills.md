@@ -93,6 +93,13 @@ You can only collect 2,000 of any specific wood per day. This limit resets at se
 
 If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
+## Artifact EXP Efficiency
+
+* 2-star artifact vendors are, on average, 70.99% more EXP per resin than farming artifact domains for artifact EXP.  
+* NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
+* The mora cost of buying out the NPC shops is equal to 360 realm currency.  
+* NPC shop artifacts are more worth to buy than sanctifying essence.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}

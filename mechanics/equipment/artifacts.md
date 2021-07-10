@@ -385,6 +385,9 @@ Substats for artifacts are unevenly distributed, with flat substats weighted hig
 
 * Artifact data from [/u/Acheron-X](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdCZN4lM23LNfSU36-zEKXC7sXBzeywSGhT1JW9SlqytYXHHFNVXos1yI0UPMqSyTU7KOe36mtjK9d/pubhtml#)
 
+## Other Findings
+* For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
+
 ## External Links
 
 **Evidence Vault**:

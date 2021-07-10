@@ -85,7 +85,9 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 * Increases his attack AoE and attack DMG.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
 * Xiao will continuously lose HP during this state. 
-* Xiao's attacks will be infused with 1GU Anemo.
+* Xiao's attacks will be infused with 1GU Anemo.  
+* While the effects of Elemental Burst: Bane of All Evil are active, the energy particle generation of Elemental Skill: Lemniscatic Wind Cycling
+ is disabled.  
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -94,6 +96,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 | Duration | 15s |
 | CD | 18s |
 | Energy Cost | 70 |
+| Frames | 58 |  
 {% endtab %}
 {% endtabs %}
 
