@@ -219,7 +219,27 @@ Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep stay
 [Phase Skip HP Cut-off.](https://youtu.be/uSLJV8eeCg0)  The left clip showcases a successful run, while the right one was unsuccessful (I trimmed it short but you can see Andrius starts to dash right away in the right clip), note that the starting HP before I did my Mona Q burst was different (Andrius in right clip had more HP than left clip, probably ~30k HP). Andrius HP at the end of the 2 clips were really close, and if you look closely, an easier visual cue is around the big "," after top Andrius and small "r" in bottom Andrius.  
 
 **Significance:**  
-If you dread Andrius phase 2 and you have the ability to skip it, now you can do so!
+If you dread Andrius phase 2 and you have the ability to skip it, now you can do so!  
+
+## Slimes  
+
+### Dendro Slime Plucking  
+
+**By:** Way\#0001  
+**Added:** 11/19/2020  
+
+**Finding:**  
+Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
+
+**Evidence:**  
+[Video](https://youtu.be/dpXMCBiyAt0) shows:  
+1. Venti elemental burst   
+2. Sucrose elemental burst  
+3. Jean elemental skill  (Thanks fin\#1623)  
+4. Anemo MC skill & burst (Both unsuccessful)  
+
+**Significance:**  
+Provides an alternative method for eliminating annoying mini-dendro slimes.  
 
 ## General Enemy Interactions
 
