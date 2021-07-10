@@ -162,3 +162,18 @@ Bennett's attack buff lingers for a bit after the visual of the circle fades awa
 **Significance:**  
 Better understanding of Bennett Burst mechanics
 
+## C6 Bennett pyro dmg bonus in coop  
+
+**By:** Neptunya\#8291  
+**Added:** 07/10/2021  
+
+**Finding:**  
+The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.  
+
+**Evidence:**  
+[Video](https://youtu.be/VOUNrvU_1ak)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863515307363532850/863517152987185162/transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
+
+**Conclusion:**  
+Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.  
+
