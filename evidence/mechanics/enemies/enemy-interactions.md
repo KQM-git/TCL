@@ -203,6 +203,24 @@ https://youtu.be/zELJKKnMyqA
 **Signifiance:**  
 Ai manipulation.  
 
+## Andrius, Wolf of the North.  
+
+### How to skip Phase 2 transformation
+
+**By:** Baezal\#0868  
+**Added:** 12/22/2020  
+
+**Finding:**  
+Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to burst him down below 30%.  
+
+**Evidence:**  
+[Spreadsheet of tests](https://docs.google.com/spreadsheets/d/1xsRWRktJn-VlYKwSE4zhJO5KIg4HeYPnrLh00eLUuf8/edit?usp=sharing)  
+[Andrius Phase 2 HP Cut-off.](https://youtu.be/Aq5OVkIjuxQ) An easier visual cue for the cut-off when Andrius starts to dash is when his HP bar is around the big "r" in top Dominator and small "o" in bottom "of'' (from now on, I'll call the top row as big "letter" and the bottom row as small "letter")  
+[Phase Skip HP Cut-off.](https://youtu.be/uSLJV8eeCg0)  The left clip showcases a successful run, while the right one was unsuccessful (I trimmed it short but you can see Andrius starts to dash right away in the right clip), note that the starting HP before I did my Mona Q burst was different (Andrius in right clip had more HP than left clip, probably ~30k HP). Andrius HP at the end of the 2 clips were really close, and if you look closely, an easier visual cue is around the big "," after top Andrius and small "r" in bottom Andrius.  
+
+**Significance:**  
+If you dread Andrius phase 2 and you have the ability to skip it, now you can do so!
+
 ## General Enemy Interactions
 
 ### Interrupting Enemies Causes Phantom Attacks
