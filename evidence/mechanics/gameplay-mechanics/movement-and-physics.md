@@ -221,3 +221,17 @@ Tapping shift while swimming has a stamina cost that is only a little higher tha
 **Significance:**  
 Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
 
+## Infinite Dashing and Catapulting off cliffs(Translation)
+
+**By:** KluEvo\#8507  
+**Added:** 08/20/2020  
+
+**Finding:**  
+Double dashing with pauses can allow for infinite running. Dashing off of clifs can allow for faster fall.  
+
+**Evidence:**  
+[Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
+
+**Significance:**  
+Faster Travel.
+
