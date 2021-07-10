@@ -235,3 +235,17 @@ Double dashing with pauses can allow for infinite running. Dashing off of clifs 
 **Significance:**  
 Faster Travel.
 
+## Extra velocity gained when hit  
+
+**By:** Hatsuharufag\#4291  
+**Added:** 01/18/2021  
+
+**Finding:**  
+You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.  
+
+**Evidence:**  
+[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks.  [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)  
+
+**Significance:**  
+Yet another way to initiate plunge attacks on even ground.
+
