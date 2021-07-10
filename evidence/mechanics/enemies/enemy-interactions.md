@@ -166,7 +166,23 @@ Noelle vs reduced backlash + 175% hp - [Video](https://www.youtube.com/watch?v=M
 Noelle vs +175%hp - [Video](https://www.youtube.com/watch?v=74ZkkfTy_tw)
 
 **Significance:**  
-Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.
+Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.  
+
+## Mitachurl
+
+### Standing on Geo MC E skill Restricts Mitachurls to Slime-Throwing Attacks Only  
+
+**By:** maxtrouble\#3719  
+**Added:** 12/19/2020  
+
+**Finding:**  
+Standing on top of a construct restricts Mitachurls to slime throwing attack only.  
+
+**Evidence:**  
+https://youtu.be/zELJKKnMyqA  
+
+**Signifiance:**  
+Ai manipulation.  
 
 ## General Enemy Interactions
 
