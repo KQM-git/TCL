@@ -47,6 +47,8 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 * **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
 * **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
+***Riptide and its related effects do not snapshot***
+
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% | 27 | 141.7%/s | NA |
