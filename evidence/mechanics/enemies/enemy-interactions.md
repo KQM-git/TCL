@@ -99,7 +99,26 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 **Evidence:** [https://www.youtube.com/watch?v=n9YoN7Q\_Ouc](https://www.youtube.com/watch?v=n9YoN7Q_Ouc)
 
-**Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC
+**Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC  
+
+## Ruin Hunter  
+
+### Ruin Hunter Weakspot&Artillery mode Analysis   
+
+**By:** RoaringMeow\#2437  
+**Added:** 7/12/2020  
+
+**Finding:** Ruin Hunter's Weak spots; How to trigger Ruin Hunter's artillery mode.  
+Context: The Ruin Hunter does not reveal a weak spot until it enters artillery mode.  
+
+**Evidence:**  
+[With Geo MC stand on E rock in front of him](https://youtu.be/FljlyQmXSS0)  
+[With Venti hold E Hover above him until he switches into artillery mode](https://youtu.be/oLILKnnFSbs)  
+[With Keqing (E cast on air)](https://youtu.be/PgrvHsDhg10)  
+[With Zhongli's pillar](https://youtu.be/CigM9h4-D9Q)  
+
+**Significance:**  
+God forbid, a ruin hunter in the abyss but with this mechanic learned he's the easiest mob to beat since there's no delay after he recovers, just spam and take him down.  
 
 ## Primo Geovishap
 
