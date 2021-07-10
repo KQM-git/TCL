@@ -56,6 +56,7 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 
 * Aimed Shot frame counts are done using M1 Aimed Spam.
 * Fully Charged frame counts are done using ARCC Shots.
+* Both Riptide Flash and Riptide Burst do not snapshot.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
@@ -120,6 +121,7 @@ Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide 
 * This DMG is considered as Elemental Skill DMG.
 * This DMG can only occur once every 1.5s.
 * Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
+* Riptide Slash does not snapshot
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -153,6 +155,7 @@ Performs a different attack depending on the stance in which it is cast.
   * Clears Riptide status.
   * Triggers a Hydro explosion that deals AoE Hydro DMG.
   * DMG Dealt is considered Elemental Burst Damage.
+  * Riptide Blast does not snapshot
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -218,6 +221,7 @@ Increases the Level of Foul Legacy: Raging Tide by 3.
 If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
 
 * This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
+* All of Riptide effects triggered by C4 do not snapshot
 {% endtab %}
 
 {% tab title="C5" %}
