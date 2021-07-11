@@ -197,3 +197,17 @@ Characters with extra dish cooking bonus can double their special dishes.
 **Significance:**  
 Just something to keep in mind.
 
+## Item Pickup Speed  
+
+**By:** Chaos_Filler\#0746  
+**Added:** 01/31/2021  
+
+**Finding:**  
+Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
+
+**Evidence:**  
+Frame counting the YouTube: top-down took between 26±2 frames to collect the item while scrolling to the bottom of the list and picking up took 14±2 frames. Uncertainty could have been caused by inconsistent button-mashing. [Video](https://youtu.be/-dRnr-KFTbw)  
+
+**Significance:**  
+Spend less time on gathering loot and more time killing things.  
+
