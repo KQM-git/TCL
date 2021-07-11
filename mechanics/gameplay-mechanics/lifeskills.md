@@ -3,7 +3,6 @@
 ## Bush Droprates
 
 **By:** [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
-**Added:** 4/11/2021
 
 Bushes have a 8% chance to drop loot, they will drop:
 
@@ -100,19 +99,10 @@ If you place a character in a party that is not at full HP or fainted and swap t
 * The mora cost of buying out the NPC shops is equal to 360 realm currency.  
 * NPC shop artifacts are more worth to buy than sanctifying essence.  
 
-## Item Pickup Speed  
+## Special Dish Duplication  
 
-**By:** Chaos_Filler\#0746  
-**Added:** 01/31/2021  
-
-**Finding:**  
-Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
-
-**Evidence:**  
-Frame counting the YouTube: top-down took between 26±2 frames to collect the item while scrolling to the bottom of the list and picking up took 14±2 frames. Uncertainty could have been caused by inconsistent button-mashing. [Video](https://youtu.be/-dRnr-KFTbw)  
-
-**Significance:**  
-Spend less time on gathering loot and more time killing things.  
+Character with extra dish passive can duplicate their specialties while cooking.  
+**By:** [denmax\#9293](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#duplicate-special-dish)  
 
 ## Evidence Vault
 
