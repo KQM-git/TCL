@@ -10,6 +10,7 @@
 * Gauges - Faranight\#0001
   * E Tap: [1GU](https://youtu.be/SoCI_E1eDXE), Tap E Aura duration is 12s.
   * E Hold: [2GU](https://www.youtube.com/watch?v=7j8-P-dLrt4), Held E Aura duration is 15s.
+  * Enhanced Plunge&A1: [1U](https://www.youtube.com/watch?v=DcoAQXhCkz4)  
   * Q: Initial hit: [2GU]()  
    * Additional ticks: [1GU](https://www.youtube.com/watch?v=3QzC22lg67c) - Quenton\#1124  
 * Range radius - [Greyhound\#7836](https://www.youtube.com/watch?v=0rnQRpGp8dM)  
@@ -39,6 +40,7 @@
 * Kazuha's E jump does not have iframes. - [jstern25\#1399](https://imgur.com/a/4X56XWS)  
 * Kazuha's E vertical reach is strangely long. - [Phana\#0420](https://imgur.com/1Sio3TA)  
 * Chihayaburu's infused element can be seen as a small circle around kazuha. - [Mcpie\#8672](https://youtu.be/rHSRe-IRrv8)  
+* Kazuha can perform a 180 very quickly mid air. - [Mcpie\#8672](https://youtu.be/kfneyG6r4yA)  
 
 ### Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
@@ -52,10 +54,12 @@
 
 ### Constellation Mechanics  
 * C2: Effects stack with Diona's C6. - [jd baby\#6541](https://imgur.com/a/F1qGWD4)  
+* C2: [Affects Kazuha on initial cast](https://imgur.com/HmiW7nT), [but is lost upon leaving the field or skill range](https://imgur.com/HmiW7nT). - xTuki\#4893
 * C4: The energy gained from C4 while gliding is not affected by energy recharge, it takes 23 ticks to cap after using a burst. - [Jilanow\#9252](https://youtu.be/V0o_-DF0DiA)  
-* C4: Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki#4893](https://imgur.com/EFeCgB2)  
+* C4: Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki\#4893](https://imgur.com/EFeCgB2)  
 * C6: Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)  
 * C6: The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)  
+* C6: Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)  
   
   
 ## EM vs ADC Kazuha  
