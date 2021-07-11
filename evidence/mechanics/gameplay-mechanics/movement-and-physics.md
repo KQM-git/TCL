@@ -221,6 +221,17 @@ Tapping shift while swimming has a stamina cost that is only a little higher tha
 **Significance:**  
 Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
 
+## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks  
+
+**By:** Risuke\#6743  
+**Added:** 12/14/2020  
+
+**Evidence:**  
+[Video 1](https://youtu.be/OB6QP67zjNg) [Video 2](https://youtu.be/hfRYtOJB42w)  
+
+**Significance:**  
+Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
+
 ## Infinite Dashing and Catapulting off cliffs(Translation)
 
 **By:** KluEvo\#8507  
@@ -248,4 +259,3 @@ You gain extra velocity from enemy hits when you jump. This velocity can be used
 
 **Significance:**  
 Yet another way to initiate plunge attacks on even ground.
-
