@@ -104,6 +104,9 @@ If you place a character in a party that is not at full HP or fainted and swap t
 Character with extra dish passive can duplicate their specialties while cooking.  
 **By:** [denmax\#9293](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#duplicate-special-dish)  
 
+## Item Pickup Speed  
+Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
