@@ -252,3 +252,19 @@ Unable to use harpastum cancel during charge attack: [Video](https://imgur.com/1
 **Significance:**  
 Because you can use the gadget in combat, holding the skill button while having the Harpastum equipped act as a quick skill animation cancels, that are are quicker than jump cancels, and does not cost stamina like dash cancels. This can potentially help melee character that prefer to not finish their attack combo due to long animation, such as Razor in the open world.
 
+## Hilichurls sleep  
+
+**By:** HailCorporate\#2970  
+**Added:** 01/18/2021  
+
+**Finding:**  
+Hilichurls sleep.  
+
+**Evidence:**  
+[Video of two Hilichurls laying on the ground under a Sunsettia Tree in the outskirts of Mondstadt.](https://www.youtube.com/watch?v=BnZqCBX9iLM)  
+All other Audio has been reduced leaving only SFX, which has been increased during editing (Sound Warning: the Hilichurls wake up at the end).  
+You can clearly hear both Hilicurls snoring as they enjoy their afternoon nap.  
+
+**Significance:**  
+Even the Hilichurls are taking it easy, don't forget to take a break from the game now and then.  
+

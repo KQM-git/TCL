@@ -232,3 +232,30 @@ Get around Teyvat faster! Though not holding shift while swimming is the most st
 **Significance:**  
 Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
 
+## Infinite Dashing and Catapulting off cliffs(Translation)
+
+**By:** KluEvo\#8507  
+**Added:** 08/20/2020  
+
+**Finding:**  
+Double dashing with pauses can allow for infinite running. Dashing off of clifs can allow for faster fall.  
+
+**Evidence:**  
+[Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
+
+**Significance:**  
+Faster Travel.
+
+## Extra velocity gained when hit  
+
+**By:** Hatsuharufag\#4291  
+**Added:** 01/18/2021  
+
+**Finding:**  
+You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.  
+
+**Evidence:**  
+[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks.  [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)  
+
+**Significance:**  
+Yet another way to initiate plunge attacks on even ground.
