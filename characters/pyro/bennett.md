@@ -178,7 +178,8 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 
 * Pyro Infusion lasts 2 seconds upon leaving **Inspiration Field**.
 * The Pyro DMG bonus will apply to the Fantastic Voyage damage.
-* Pyro infused autos have 1U worth of Pyro applcation.
+* Pyro infused autos have 1U worth of Pyro applcation.  
+* The buff does not stack in coop.  
 {% endtab %}
 {% endtabs %}
 
