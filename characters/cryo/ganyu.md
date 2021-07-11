@@ -88,8 +88,8 @@ Ganyu dashes backward, leaving an **Ice Lotus** behind and dealing AoE Cryo DMG.
 | Cast Particles | 2 |
 | Expiration/Destroyed Particles | 2 |
 | GU | 1A |
-| Frames |  |
-| MV/s |  |
+| Frames | 34 |
+| MV/s | 326.1%/s |
 {% endtab %}
 
 {% tab title="Celestial Shower" %}
@@ -110,7 +110,7 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 | Cooldown | 15s |
 | Ice Shard GU | 1A |
 | Energy Cost | 60 |
-| Frames |  |
+| Frames | 102 |
 
 * If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
 {% endtab %}

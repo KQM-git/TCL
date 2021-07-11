@@ -33,9 +33,9 @@ Klee performs up to 3 explosive attacks dealing Pyro DMG.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 101.02% |  |  |
-| 2-Hit | 87.36% |  |  |
-| 3-Hit | 125.89% |  |  |
+| 1-Hit | 101.02% | 32 | 189.4%/s |
+| 2-Hit | 87.36% | 76 | 148.7%/s |
+| 3-Hit | 125.89% | 151 | 124.8%/s |
 | GU | 1A |  |  |
 
 **Charged Attack**  
@@ -43,7 +43,7 @@ Consumes 50 stamina to deal AoE Pyro DMG.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 220.30% |  |  |
+| CA | 220.30% | 50 | 264.36%/s |
 | GU | 1A |  |  |
 
 * Enemies struck by Klee's charged attack will be staggered or launched.
@@ -69,6 +69,7 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 | Cooldown | 20s |
 | Bounce GU | 2B |
 | Mine GU | 1A |
+| Frames | 67 |
 
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
@@ -89,6 +90,7 @@ Klee summons Sparks 'n' Splash, which deals damage in 6 waves over 10 seconds. O
 | Duration | 10s |
 | Cooldown | 15s |
 | Energy Cost | 60 |
+| Frames | 100 |
 {% endtab %}
 {% endtabs %}
 

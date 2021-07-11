@@ -65,6 +65,7 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | Cooldown | 15s |
 | GUs | 1GU |
 | Particles | 4 \(-\) |
+| Frames | 10 |
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
@@ -80,6 +81,7 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Gauge Units | 1GU |
+| Frames | 67 |
 
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 * Infusion priority: Pyro > Hydro > Electro > Cryo  

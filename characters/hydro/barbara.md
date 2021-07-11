@@ -43,10 +43,9 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro DMG.
 
-| **String** | **Talent 6%** | **Frames** | **MV/s** |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% | 90 | 232.74%/s |
-| GU | 1A | ~ | ~ |
+| **String** | **Talent 6%** | **Frames** | **MV/s** | **GU** |
+| :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 232.74% | 90 | 232.74%/s | 1A |
 
 **Plunge Attack**  
 Plunge from mid-air to deal AoE Hydro DMG.
@@ -89,6 +88,7 @@ Heals your own party members and nearby teammates for a large amount of HP.
 | HP Regen | 24.64% Max HP + 2683 |
 | Cooldown | 20s |
 | Energy Cost | 80 |
+| Frames | 110 |
 {% endtab %}
 {% endtabs %}
 

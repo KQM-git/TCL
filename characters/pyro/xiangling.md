@@ -64,6 +64,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | CD | 12s |
 | GU | 1A |
 | Particles | Up to 4 particles |
+| Frames | 18 |
 
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
 * Guoba self applies pyro aura when he attacks. This aura can be swirled.
@@ -82,6 +83,7 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 | Duration | 10s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
+| Frames | 99 |
 
 * Moving in the opposite direction of **Pyronado's** spin will increase the number of hits.
 {% endtab %}

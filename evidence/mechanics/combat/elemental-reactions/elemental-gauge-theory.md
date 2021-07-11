@@ -368,7 +368,7 @@ I apply Strong Pyro then Overload with Weak Electro. That is an aura of 2GU, the
 
 In this video we see that the Pyro only lasted 4.55s, so the Electro reduced the timer by about 7.45s, not 6s as expected.
 
-This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.
+This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). ~~You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.~~ This has been debunked by Aluminum#5462, check [Tax Evasion](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory#tax-evasion) for more.
 
 [https://imgur.com/UFttRz4](https://imgur.com/UFttRz4)
 
@@ -478,3 +478,18 @@ Reviewed/Edited by: IonFox, Doug
 **Evidence:** [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing), [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing), [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing), [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing), [Frame Counts in Excel Sheet](https://cdn.discordapp.com/attachments/845683620832084008/845690939275739207/FreezeCounts.xlsx)
 
 **Significance:** Better understanding of Freeze.
+
+## Tax Evasion
+
+**By:** Aluminum#5462  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851683689174925352/861402567899873320/transcript-tax-evasion.html)
+
+**Finding:** Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/elemental-gauge-theory#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
+
+**Evidence:** Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
+
+According to Hypothesis 1, the aura should last 4 * 9.5 * 0.05 + 0.2 / 3.2 * 4 * 9.5 * 0.95 = 4.15625s after initial application
+whereas according to Hypothesis 2, the aura should last only 0.2 / 3.2 * 38 = 2.375s after initial application.
+Taking into account hitlag extension for elemental auras, the aura duration observed in the video matches Hypothesis 2, not Hypothesis 1.
+
+**Significance:** Sadly for the setup I wanted to test when I started this ticket, tax cannot be evaded since the aura starts at the taxed gauge. For the front page of Elemental gauge theory, this doesn't mean much since it explains things using tax on reaction, which is consistent with Hypothesis 2. However, since the original evidence is linked on the front page, it should be mentioned somewhere that Hypothesis 1 is inaccurate.

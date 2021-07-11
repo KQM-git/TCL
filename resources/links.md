@@ -6,7 +6,9 @@
 
 [Elemental Skill Particle Production Rate](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing)
 
-[Character Elemental Gauge Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
+[Character Elemental Gauge Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)  
+
+[Character Stat per Level Scaling](https://drive.google.com/file/d/17NFePVPY13xQaFizXgIM852yB0GLD02b/view)  
 
 ### Enemies
 
