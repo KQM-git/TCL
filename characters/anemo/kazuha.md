@@ -84,7 +84,8 @@ The signature technique of Kazuha's self-styled bladework — a single slash tha
 | CD | 15s |
 | Energy Cost | 60 |
 | Initial Slash |2U | 
-| Additional Elemental |1U | 
+| Additional Elemental |1U |  
+| Frames | 93 |
 * Infusion priority: Pyro > Hydro > Electro > Cryo  
 {% endtab %}
 {% endtabs %}
