@@ -18,7 +18,9 @@ Cooldown reduction is available in the form of either flat amounts or percentage
 | Bennett A4 | Passion Overload | 50% | Inside Fantastic Voyage |
 | Chongyun C2 | All Skills and Bursts | 15% | Inside Chongyun Field |
 | Eula A4 | Icetide Vortex | Reset | Using Glacial Illumination |
-| Eula C2 | Icetide Vortex, Hold Variant | 6 sec. | N/A |
+| Eula C2 | Icetide Vortex, Hold Variant | 6 sec. | N/A | 
+| Kazuha C1 | Chihayaburu | 10% | N/A |
+| Kazuha C1 | Chihayaburu | Reset | Using Kazuha Slash | 
 | Noelle A4 | Breastplate | 1 sec. | 4 Normal/Charged Attack hits |
 | Ningguang C2 | Jade Screen | Reset | Jade Screen Shatter |
 | Razor A1 | Claw and Thunder | 18% | N/A |
