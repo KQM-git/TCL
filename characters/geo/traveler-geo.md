@@ -151,6 +151,8 @@ Reduces Starfell Sword’s CD by 2s.
 ### Frenzied Rockslide
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
+
+Unlike its counterpart - Anemo Traveler's A1, this bonus damage is not considered Normal Attack Damage.
 {% endtab %}
 {% endtabs %}
 
