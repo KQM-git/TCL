@@ -147,6 +147,8 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 ### Slitting Wind
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.
+
+This damage bonus is also considered Normal Attack Damage.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
