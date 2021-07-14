@@ -81,6 +81,7 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 | Cooldown | 15s |
 | Particles | 4 \(-\) |
 | GU | 2B |
+| Frames | 35 |
 
 * Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. 
   * Only environmental effects may apply the hydro aura. 
@@ -105,6 +106,7 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Duration | 2s |
 | CD | 12s |
 | Energy Cost | 40 |
+| Frames | 135 |
 {% endtab %}
 {% endtabs %}
 

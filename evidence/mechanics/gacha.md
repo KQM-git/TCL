@@ -38,3 +38,24 @@ Average 5 stars pulled for rate up 5 star character
 
 **Significance:** This information can be useful for whales to figure out around how many pulls they will need to get a specific R5 on average.
 
+
+## Resin Efficiency of Acquaint Fates from Character Levelling  
+
+**By:** Moonrobin\#2608  
+**Added:** 12/19/2020  
+
+**Finding:**  
+Level all characters to 20/40 for the Fate.  
+From that point, getting them to 50/60 takes around 2 days of F2P resin budget.  
+This is worth overall, as there are no other ways to convert Resin to rolls. I would treat the 70/80 Fate as a bonus rather than the goal. It costs 5 days worth of resin, which is probably not worth the expected rewards from a single roll.  
+
+**Evidence:**  
+[With the introduction of acquaint fates from character leveling in 1.2, it is now possible to convert resin to rolls.](https://imgur.com/a/hmxfzb8)  
+A question that many will have is how much does that Acquaint fate actually cost, in terms of resin investment. To answer this, I aggregated character leveling and ascension costs to hit the Fate thresholds.  
+Note that this is for WL7 drop rates, and only includes permanent sources of materials (i.e. Event rates are not considered).  
+
+**Significance:**  
+20/40 is a no brainer for the Fate, do it now to get it out of the way.  
+20/40 to 50/60 is actually an investment of ~427.2 resin for the fate.  
+50/60 to 70/80 is 5 days worth of F2P resin budget. Consider if you have no other uses for resin.  
+

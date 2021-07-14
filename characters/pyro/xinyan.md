@@ -79,6 +79,7 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 | Particles | 4 \(-\) |
 | Intial hit GU | 1A |
 | Rave GU | 1A |
+| Frames | 65 |
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
@@ -94,6 +95,7 @@ Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflict
 | CD | 15s |
 | Energy Cost | 60 |
 | GU | 1A |
+| Frames | 98 |
 {% endtab %}
 {% endtabs %}
 

@@ -109,8 +109,8 @@ Summons a meteorite that deals Geo damage and launches small enemies
 | Cooldown | 8s |
 | GU | 2U |
 | Particles | 3~4 \(2:1\) |
-| Frames |  |
-| Motion Value |  |
+| Frames | 25 |
+| Motion Value | 833%/s |
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
@@ -126,7 +126,7 @@ Deals 4 waves of damage to enemies and knocks them back away from the caster.
 | Cooldown | 15s \(non-scaling\) |
 | GU | 2U |
 | Energy Cost | 60 |
-| Frames |  |
+| Frames | 39 |
 
 * Due to the fact the walls do not count towards the construct limit they greatly improve Zhongli's resonance.
 {% endtab %}
@@ -151,6 +151,8 @@ Reduces Starfell Sword’s CD by 2s.
 ### Frenzied Rockslide
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
+
+Unlike its counterpart - Anemo Traveler's A1, this bonus damage is not considered Normal Attack Damage.
 {% endtab %}
 {% endtabs %}
 

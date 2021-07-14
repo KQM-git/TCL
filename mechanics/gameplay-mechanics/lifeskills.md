@@ -3,7 +3,6 @@
 ## Bush Droprates
 
 **By:** [gideleon1\#2188](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#bush-droprates)  
-**Added:** 4/11/2021
 
 Bushes have a 8% chance to drop loot, they will drop:
 
@@ -93,6 +92,7 @@ You can only collect 2,000 of any specific wood per day. This limit resets at se
 
 If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
+
 ## Overworld Farming Statistics
 
 ### Artifact Drop Spots
@@ -107,6 +107,22 @@ There are two types of artifact spots:
 - Iron, White and Crystal chunk are all possible drops. 
 
 *Check the Evidence Vault for more statistics data*
+
+## Artifact EXP Efficiency
+
+* 2-star artifact vendors are, on average, 70.99% more EXP per resin than farming artifact domains for artifact EXP.  
+* NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
+* The mora cost of buying out the NPC shops is equal to 360 realm currency.  
+* NPC shop artifacts are more worth to buy than sanctifying essence.  
+
+## Special Dish Duplication  
+
+Character with extra dish passive can duplicate their specialties while cooking.  
+**By:** [denmax\#9293](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#duplicate-special-dish)  
+
+## Item Pickup Speed  
+Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
+
 
 ## Evidence Vault
 

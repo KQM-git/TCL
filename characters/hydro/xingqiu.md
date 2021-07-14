@@ -100,6 +100,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 | CD | 20s |
 | Energy Cost | 80 |
 | GU | 1A |
+| Frames | 29 |
 
 * **Sword Rain** damage calculation does not snapshot.
 * Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice.

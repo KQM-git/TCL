@@ -211,3 +211,49 @@ Steps:
 **Significance:**   
 Just a fun little finding. Can be made into meme builds for a full atk% childe (since shatter Childe is already becoming a meme build, so why not consistent vape Childe too)
 
+## Riptide does not snapshot
+
+**By:** Daybreak#0584  
+**Added:** 7/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/862748539826339860/863314591437029416/transcript-riptide-does-not-snapshot.html)
+
+**Finding:**  
+Riptide and its related effects do not snapshot, similar to Hu Tao Blood Blossom. This is specifically relevant to Riptide Blast, Riptide Burst, and Childe’s constellation 4: Hydrospout.
+
+**Evidence:**   
+Riptide Flash, while in Benny Q and without: 573 in field, 314 without  
+[Video](https://youtu.be/kIBoMYBQduE)
+
+Riptide Slash, while in Benny Q and without: 2066 in field, 1296 without  
+[Video](https://youtu.be/oFV_jANdngU)
+
+Riptide Burst, while in Benny Q and off-field: Burst does 7595 in field, 5085 without  
+[Video](https://youtu.be/EIyA2AfHkCE)
+
+Riptide Blast, while in Benny Q and without: Blast does 6212 in field, 3400 without  
+[Video](https://youtu.be/ZH8bmdCW2K8)
+
+Childe C4, while in Benny Q and off-field: 323 in field, 119 off field  
+[Video](https://youtu.be/N7vn9Dbp8uU) 
+
+**Significance:**   
+Many of Childe’s comps revolve around using Bennet as a healer. Being aware of whether his riptide effects snapshot or not can affect how you play him. It also keeps the consistent theory that all “mark” abilities do not snapshot.
+
+## Childe Double Forward Vape
+
+**By:** Daybreak\#0584  
+**Added:** 07/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859464550046367764/862447773059252224/transcript-childe-double-forward-vape.html)
+
+**Finding:**  
+Childe can forward vaporize both his melee burst, and Riptide Blast given enough pyro support. This pyro support can come in the form of as little as Xiangling burst + Gouba, although due to Gouba’s lack of range, lack of braincells and ability to be knocked away, another pyro support is recommended (such as pyro-infused Sucrose).
+
+**Evidence:**   
+[Childe Double Forward Vape](https://youtu.be/ppJPhrbm4vg)  
+[Childe DFV Sucrose](https://youtu.be/6klCUARhrSU)  
+[Childe DFV Venti](https://youtu.be/43dd9Cqiu_c)  
+[Childe DFV XL only](https://youtu.be/bDTOttJq0k8)
+
+**Significance:**   
+Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadratically with the number of targets in range. Being able to achieve this double vaporize could increase his damage dramatically.
+

@@ -99,7 +99,26 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 **Evidence:** [https://www.youtube.com/watch?v=n9YoN7Q\_Ouc](https://www.youtube.com/watch?v=n9YoN7Q_Ouc)
 
-**Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC
+**Significance:** Better knowledge of Ruin Guard combat through enemy movement manipulation with Geo MC  
+
+## Ruin Hunter  
+
+### Ruin Hunter Weakspot&Artillery mode Analysis   
+
+**By:** RoaringMeow\#2437  
+**Added:** 7/12/2020  
+
+**Finding:** Ruin Hunter's Weak spots; How to trigger Ruin Hunter's artillery mode.  
+Context: The Ruin Hunter does not reveal a weak spot until it enters artillery mode.  
+
+**Evidence:**  
+[With Geo MC stand on E rock in front of him](https://youtu.be/FljlyQmXSS0)  
+[With Venti hold E Hover above him until he switches into artillery mode](https://youtu.be/oLILKnnFSbs)  
+[With Keqing (E cast on air)](https://youtu.be/PgrvHsDhg10)  
+[With Zhongli's pillar](https://youtu.be/CigM9h4-D9Q)  
+
+**Significance:**  
+God forbid, a ruin hunter in the abyss but with this mechanic learned he's the easiest mob to beat since there's no delay after he recovers, just spam and take him down.  
 
 ## Primo Geovishap
 
@@ -166,7 +185,61 @@ Noelle vs reduced backlash + 175% hp - [Video](https://www.youtube.com/watch?v=M
 Noelle vs +175%hp - [Video](https://www.youtube.com/watch?v=74ZkkfTy_tw)
 
 **Significance:**  
-Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.
+Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.  
+
+## Mitachurl
+
+### Standing on Geo MC E skill Restricts Mitachurls to Slime-Throwing Attacks Only  
+
+**By:** maxtrouble\#3719  
+**Added:** 12/19/2020  
+
+**Finding:**  
+Standing on top of a construct restricts Mitachurls to slime throwing attack only.  
+
+**Evidence:**  
+https://youtu.be/zELJKKnMyqA  
+
+**Signifiance:**  
+Ai manipulation.  
+
+## Andrius, Wolf of the North.  
+
+### How to skip Phase 2 transformation
+
+**By:** Baezal\#0868  
+**Added:** 12/22/2020  
+
+**Finding:**  
+Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to burst him down below 30%.  
+
+**Evidence:**  
+[Spreadsheet of tests](https://docs.google.com/spreadsheets/d/1xsRWRktJn-VlYKwSE4zhJO5KIg4HeYPnrLh00eLUuf8/edit?usp=sharing)  
+[Andrius Phase 2 HP Cut-off.](https://youtu.be/Aq5OVkIjuxQ) An easier visual cue for the cut-off when Andrius starts to dash is when his HP bar is around the big "r" in top Dominator and small "o" in bottom "of'' (from now on, I'll call the top row as big "letter" and the bottom row as small "letter")  
+[Phase Skip HP Cut-off.](https://youtu.be/uSLJV8eeCg0)  The left clip showcases a successful run, while the right one was unsuccessful (I trimmed it short but you can see Andrius starts to dash right away in the right clip), note that the starting HP before I did my Mona Q burst was different (Andrius in right clip had more HP than left clip, probably ~30k HP). Andrius HP at the end of the 2 clips were really close, and if you look closely, an easier visual cue is around the big "," after top Andrius and small "r" in bottom Andrius.  
+
+**Significance:**  
+If you dread Andrius phase 2 and you have the ability to skip it, now you can do so!  
+
+## Slimes  
+
+### Dendro Slime Plucking  
+
+**By:** Way\#0001  
+**Added:** 11/19/2020  
+
+**Finding:**  
+Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
+
+**Evidence:**  
+[Video](https://youtu.be/dpXMCBiyAt0) shows:  
+1. Venti elemental burst   
+2. Sucrose elemental burst  
+3. Jean elemental skill  (Thanks fin\#1623)  
+4. Anemo MC skill & burst (Both unsuccessful)  
+
+**Significance:**  
+Provides an alternative method for eliminating annoying mini-dendro slimes.  
 
 ## General Enemy Interactions
 

@@ -101,7 +101,7 @@ Swirl is an elemental reaction triggered by applying Anemo to a target already a
 
 When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
-It is possible to simultaneously trigger two swirls on one target from the same Anemo hit if the target has two swirl-applicable auras, such as an Electro-Charged enemy or a Frozen enemy with an underlying Hydro aura. Doing so will trigger on-Swirl effects for both elements. This can only occur when the gauge reduction from the Anemo hit is greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
+It is possible to simultaneously trigger two swirls on one target from the same Anemo hit if the target has two swirl-applicable auras, such as an Electro-Charged enemy or a Frozen enemy with an underlying Hydro aura. This double swirl can only occur when the gauge reduction from the Anemo hit is greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If this condition is not met, the anemo attack will only swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
 
 More detailed guides on Swirl:
 
