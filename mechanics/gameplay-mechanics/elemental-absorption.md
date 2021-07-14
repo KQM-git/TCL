@@ -24,6 +24,7 @@ When there are multiple elements in range of the Anemo ability it will absorb ac
 2. Pyro &gt; Hydro &gt; Electro &gt; Cryo
    * Venti burst
    * Sucrose burst
+   * Kazuha burst
 
 ## Evidence Vault
 
