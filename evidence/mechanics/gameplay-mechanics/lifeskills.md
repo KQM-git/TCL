@@ -131,6 +131,28 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** External source of infinite healing other than event domains \(until mHY patches the So7 again\).
 
+
+## Overworld Farming Statistics
+
+**By:** Bobrokrot#0111  
+**Added** 07/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851577795868098600/864446326178447370/transcript-overworld-farming-statistics.html)
+
+**Finding:**
+
+***Artifact Drop Spots***  
+There are two types of artifact spots:  
+- "No mora" class - Spots from this class never drop Mora and always drop a single piece of artifact with 65% chance it being white artifact and 35% chance for green.
+- "Has mora" class - Spots from this class always drop some amount of mora (200 on average), also the always drop white artifacts (1.5 on average) and never drop green artifacts.
+
+***Ore Farming***  
+- 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
+- Iron, White and Crystal chunk are all possible drops. 
+
+**Evidence:** [Stats Sheet](https://docs.google.com/spreadsheets/d/1Y4iE0NnktqMY-ahVIa6TDCl3bSepkQOfib4Ns_On-oM/edit#gid=0)
+
+**Significance:** Statistics for farming purposes 
+
 ## Artifact EXP from Vendors Vs Domains
 
 **By:** ceeeleste#3568  

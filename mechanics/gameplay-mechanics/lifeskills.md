@@ -92,6 +92,22 @@ You can only collect 2,000 of any specific wood per day. This limit resets at se
 
 If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
+
+## Overworld Farming Statistics
+
+### Artifact Drop Spots
+
+There are two types of artifact spots:  
+- "No mora" class - Spots from this class never drop Mora and always drop a single piece of artifact with 65% chance it being white artifact and 35% chance for green.
+- "Has mora" class - Spots from this class always drop some amount of mora (200 on average), also the always drop white artifacts (1.5 on average) and never drop green artifacts.
+
+### Ore Farming
+
+- 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
+- Iron, White and Crystal chunk are all possible drops. 
+
+*Check the Evidence Vault for more statistics data*
+
 ## Artifact EXP Efficiency
 
 * 2-star artifact vendors are, on average, 70.99% more EXP per resin than farming artifact domains for artifact EXP.  
@@ -106,6 +122,7 @@ Character with extra dish passive can duplicate their specialties while cooking.
 
 ## Item Pickup Speed  
 Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
+
 
 ## Evidence Vault
 
