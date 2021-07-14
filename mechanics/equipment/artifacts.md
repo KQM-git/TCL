@@ -257,7 +257,11 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Increases Elemental Mastery by 80.
-* 4 Piece Set Bonus: After using an Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s
+* 4 Piece Set Bonus: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+{% endtab %}
+
+{% tab title="Findings" %}
+* The 4pc set bonus requires its user to be on the field when the Elemental Reaction is triggered.
 {% endtab %}
 {% endtabs %}
 
