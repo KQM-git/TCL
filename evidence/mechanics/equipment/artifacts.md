@@ -670,6 +670,30 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
+## Instructor
+
+### 4pc Instructor only procs on field
+
+**By:** NZPIEFACE#8439  
+**Added:** 07/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
+
+**Finding:**  
+Instructor user needs to be on the field to trigger the 4-set bonus
+
+**Evidence:**  
+[Video playlist](https://www.youtube.com/playlist?list=PLubNP2Z7jM8o0QU9GEpLLkhEgNKaMt-Ge)  
+Units that were tested:
+* Fischl - C6/E
+* Albedo - E
+* Sucrose - Q
+* Amber - E
+* Hu Tao - E flowers
+
+
+**Significance:**  
+Make sure to land the reaction before swapping off the Instructor user.
+
 ## **Artifact Substats Distribution**
 
 **By:SafconGalore\#9752**
