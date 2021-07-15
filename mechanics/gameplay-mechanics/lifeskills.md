@@ -123,6 +123,16 @@ Character with extra dish passive can duplicate their specialties while cooking.
 ## Item Pickup Speed  
 Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
 
+## Campfires
+
+Lit campfires essentially have a 1U aura of pyro  that don't decay over time.
+
+Consuming the campfire aura requires one of the following:
+* Two 1U applications of Cryo, Anemo, or Geo
+* One 2U application of Cryo, Anemo, or Geo
+
+The aura on the campfire is 1U, regardless of the Pyro aura applied.  
+For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire that behaves the exact same as one lit with 1U of pyro.
 
 ## Evidence Vault
 
