@@ -391,6 +391,7 @@ Substats for artifacts are unevenly distributed, with flat substats weighted hig
 
 ## Other Findings
 * For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
+* Below 842 EM, 2WT+2Ins set bonus brings more value than 4VV for swirl damage before accounting for resistance.
 
 ## External Links
 
