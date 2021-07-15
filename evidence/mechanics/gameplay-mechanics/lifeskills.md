@@ -237,6 +237,7 @@ Spend less time on gathering loot and more time killing things.
 
 **By:** RazorClaws#4343  
 **Added:** 07/15/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864369706249355324/865083435184947200/transcript-campfires-act-like-1u-of-pyro-aura.html)
 
 **Finding:**  
 Lit campfires essentially have a 1U aura of pyro  that don't decay over time.
