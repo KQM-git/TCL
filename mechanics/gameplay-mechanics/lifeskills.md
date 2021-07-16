@@ -127,7 +127,7 @@ Picking up items from the bottom of the list is about 85% faster than from the t
 
 Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
 
-**By:** [Mcpie#8672](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crabs-respawn)  
+**By:** [Mcpie#8672](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crabs-respawn)
 
 ## Evidence Vault
 
