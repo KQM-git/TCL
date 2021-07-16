@@ -176,4 +176,13 @@ A calculator that determines the average amount of resin needed to upgrade chara
 
 [Link](https://docs.google.com/spreadsheets/d/1QZhdx6-L7jAJDqV9OfPYhl0Q0R8DYpwJz2KIyjHE2Ow/edit#gid=1421390734)
 
+### Energy Recharge Calculator
+
+**By:** Zakharov#5645  
+**Added:** 07/17/2021
+
+A way to calculate the amount of Energy Recharge needed for each member of a team.
+
+[Link](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/edit#gid=1841979497)
+
 
