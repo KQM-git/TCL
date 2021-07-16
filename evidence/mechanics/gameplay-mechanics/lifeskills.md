@@ -233,3 +233,18 @@ Frame counting the YouTube: top-down took between 26±2 frames to collect the it
 **Significance:**  
 Spend less time on gathering loot and more time killing things.  
 
+
+## Crabs Respawn  
+
+**By:** Mcpie#8672  
+**Added:** 07/17/2021  
+
+**Finding:**  
+Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
+
+**Evidence:**  
+[https://youtu.be/Z0VjSrFASLw](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
+[https://youtu.be/Zx2MKX8Nv8E](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)  
+
+**Significance:**  
+[Video](https://youtu.be/LDU_Txk06tM?t=75)
