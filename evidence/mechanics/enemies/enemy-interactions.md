@@ -51,7 +51,7 @@ Better understanding of Abyss Herald mechanics, and which attacks in particular 
 
 ### Hydro Abyss Mage bubble persists on swap
 
-**By:** snorting salt#3888 
+**By:** snorting salt#3888  
 **Added:** 07/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
 
