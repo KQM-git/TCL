@@ -47,6 +47,26 @@ Showing other attacks don't have the cooldown debuff:
 **Significance:**  
 Better understanding of Abyss Herald mechanics, and which attacks in particular to dodge in order to avoid the cooldown debuff.
 
+## Abyss Mage
+
+### Hydro Abyss Mage bubble persists on swap
+
+**By:** snorting salt#3888 
+**Added:** 07/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
+
+**Finding:**  
+The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds
+
+**Evidence:**  
+[Imgur](https://imgur.com/3gLxkSv)  
+[Imgur](https://imgur.com/sVll8pV)  
+[Imgur](https://imgur.com/oJ38eFv)  
+[Imgur](https://imgur.com/J2UXMr4)
+
+**Significance:**  
+Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
+
 ## Boss Enemies
 
 ### Freeze Interaction on Boss Enemies
