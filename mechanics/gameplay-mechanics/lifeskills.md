@@ -123,6 +123,13 @@ Character with extra dish passive can duplicate their specialties while cooking.
 ## Item Pickup Speed  
 Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
 
+
+## Crabs Respawn  
+
+**By:** [Mcpie#8672](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#crabs-respawn)
+
+Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
+
 ## Campfires
 
 Lit campfires essentially have a 1U aura of pyro  that don't decay over time.
