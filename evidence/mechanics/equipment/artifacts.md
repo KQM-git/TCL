@@ -670,6 +670,30 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
+## Instructor
+
+### 4pc Instructor only procs on field
+
+**By:** NZPIEFACE#8439  
+**Added:** 07/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
+
+**Finding:**  
+Instructor user needs to be on the field to trigger the 4-set bonus
+
+**Evidence:**  
+[Video playlist](https://www.youtube.com/playlist?list=PLubNP2Z7jM8o0QU9GEpLLkhEgNKaMt-Ge)  
+Units that were tested:
+* Fischl - C6/E
+* Albedo - E
+* Sucrose - Q
+* Amber - E
+* Hu Tao - E flowers
+
+
+**Significance:**  
+Make sure to land the reaction before swapping off the Instructor user.
+
 ## **Artifact Substats Distribution**
 
 **By:SafconGalore\#9752**
@@ -743,3 +767,21 @@ Desmos sheet for visualization/calculations: [Desmos Link](https://www.desmos.co
 
 **Significance:**  
 For characters building around triggering transformative reactions, if they do not utilize any other parts of the 4p set bonus provided by 4CW (vape/melt boost, pyro% increase) or 4TF (cool down reduction, elec% increase), then 2p Instructor and/or 2p WT may provide a larger boost to damage than the former two.
+
+## Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
+
+**By:** elijam#7142  
+**Added:** 07/15/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860290744102158356/865148427524636672/transcript-breakpoints-for-2wt2ins-vs-4vv.html)
+
+**Finding:**  
+4VV swirl damage set bonus is more valuable than 104 EM at 304 initial EM from artifact main stats, artifact subs, weapon secondary stats and passives, and ascension; 160EM at 842 initial EM; and 200EM at 1168 initial EM; when only swirl damage is taken into account.  
+These numbers were chosen to represent the value of 2WT2Ins, 4Ins with 4pc bonus active, and 4Ins with 4pc bonus active but set bonus discounted by 96EM to account for the loss of EM from downgrading two 5* main stat artifacts to 4* artifacts.
+
+**Evidence:** 
+Desmos chart for calculations: [Desmos Link](https://www.desmos.com/calculator/yeeskwsw42)
+
+Charts by Zakharov#5645: [Imgur](https://imgur.com/9LoeHW1)
+
+**Significance:**  
+Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance

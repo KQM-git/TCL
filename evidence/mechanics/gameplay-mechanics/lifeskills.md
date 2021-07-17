@@ -233,7 +233,6 @@ Frame counting the YouTube: top-down took between 26±2 frames to collect the it
 **Significance:**  
 Spend less time on gathering loot and more time killing things.  
 
-
 ## Crabs Respawn  
 
 **By:** Mcpie#8672  
@@ -248,3 +247,26 @@ Crabs that you approach and fail to pick up will respawn after leaving their ren
 
 **Significance:**  
 [Video](https://youtu.be/LDU_Txk06tM?t=75)
+
+## Campfires act like 1U of Pyro Aura  
+
+**By:** RazorClaws#4343  
+**Added:** 07/15/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864369706249355324/865083435184947200/transcript-campfires-act-like-1u-of-pyro-aura.html)
+
+**Finding:**  
+Lit campfires essentially have a 1U aura of pyro  that don't decay over time.
+
+Consuming the campfire aura requires one of the following:
+* One 1U application of Hydro or Electro
+* Two 1U applications of Cryo, Anemo, or Geo
+* One 2U (or higher) application of Cryo, Anemo, or Geo
+
+The aura on the campfire is 1U, regardless of the Pyro aura applied.  
+For example, Bennett's tap E, which applies 2U of Pyro, still creates a campfire that behaves the exact same as one lit with 1U of pyro.  
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=NpqqWAltzyo)  
+
+**Significance:**  
+Putting out campfires with utmost efficiency

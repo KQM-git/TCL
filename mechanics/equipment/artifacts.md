@@ -257,7 +257,11 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Increases Elemental Mastery by 80.
-* 4 Piece Set Bonus: After using an Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s
+* 4 Piece Set Bonus: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+{% endtab %}
+
+{% tab title="Findings" %}
+* The 4pc set bonus requires its user to be on the field when the Elemental Reaction is triggered.
 {% endtab %}
 {% endtabs %}
 
@@ -387,6 +391,7 @@ Substats for artifacts are unevenly distributed, with flat substats weighted hig
 
 ## Other Findings
 * For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
+* Below 842 EM, 2WT+2Ins set bonus brings more value than 4VV for swirl damage before accounting for resistance.
 
 ## External Links
 
