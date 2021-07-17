@@ -27,10 +27,6 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 * The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
   * For more details see the [Shield Reflection Mechanic](../../evidence/mechanics/enemies/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
 
-## Hydro Abyss Mage
-
-The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
-
 ### Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/enemies/enemy-interactions.md" %}
