@@ -543,3 +543,29 @@ While this document is intended primarily for players who are interested in minm
 
 **Significance:** Fischl C4 can benefit from Burst Damage multipliers
 
+## Resummoning Oz while he's still active counts as using an elemental skill
+
+**By:** Peekays\#2722  
+**Added:** 07/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865717842816532491/865808993149255710/transcript-fischl-c1-and-hod.html)
+
+**Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an elemental skill.
+For example, they both trigger the 4pc heart of depth effect.
+
+**Evidence:**  
+[https://youtu.be/s0937Qm8VFs](https://youtu.be/s0937Qm8VFs)  
+[https://youtu.be/_QoQaOxVzp0](https://youtu.be/_QoQaOxVzp0)  
+
+Unbuffed:  
+566 + 142  
+
+After e:  
+735  
+
+After e refreshed, oz now expired:  
+735 + 185  
+
+After HoD buff is gone:  
+566 + 142  
+
+**Significance:**  Potentially relevant data for Fischl main dps calcs.

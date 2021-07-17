@@ -90,6 +90,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
 * Oz is able to target Baron Bunny if Fischl’s Ascension 1 passive, Stellar Predator is triggered, despite having no enemies nearby. The passive may or may not deliver a Thundering Retribution onto the Baron Bunny.
+* When Oz is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
