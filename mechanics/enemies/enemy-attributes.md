@@ -24,6 +24,10 @@ However, damage from monster skill effects is affected by character resistance a
 
 Monster skill effects can be taunted. In general, these skill effects target the same thing that the corresponding monster is also targeting. In some cases the target will "snapshot" \(i.e. if the monster changes its target during the effect, the effect will not update\) and in other cases it will not. This mechanic will require further testing, it seems to be inconsistent as of now.
 
+## Mist Bubble
+
+The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble IFrame](../../evidence/mechanics/enemies/enemy-attributes.md#mist-bubble-iframe)
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/enemies/enemy-attributes.md" %}
