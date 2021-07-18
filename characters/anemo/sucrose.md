@@ -108,7 +108,8 @@ When Sucrose triggers a **Swirl** reaction, all characters in the part with the 
 
 When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
 
-A4 also snapshots Sucrose's **Elemental Mastery**.
+* A4 snapshots Sucrose's **Elemental Mastery**.
+* A4 also always activates *after* **Instructor** 4pc set bonus within the same proc.
 {% endtab %}
 {% endtabs %}
 
