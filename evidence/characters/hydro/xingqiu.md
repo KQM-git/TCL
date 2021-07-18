@@ -163,3 +163,19 @@ The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds
 **Significance:**  
 Better knowledge for teambuilding and rotations.
 
+## Xingqiu Rain Sword DMG Reduction is a conferrable attribute
+
+**By:** elijam#7142  
+**Added:** 07/18/2021  
+[Discussion](hhttps://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
+
+**Finding:**  
+Xingqiu Rain Sword DMG does not take the Hydro DMG% bonus gained from Kazuha's A4 into account. Because it's an attribute sharing effect which scale based on a character's own attributes, therefore would not factor in to calculations of further similarly scaling attribute sharing effects.
+
+**Evidence:**  
+[Rain Swords Unbuffed](https://youtu.be/bb0ftQK8nzg)  
+[Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)  
+
+
+**Significance:**  
+A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
