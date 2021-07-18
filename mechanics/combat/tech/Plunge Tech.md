@@ -1,5 +1,5 @@
 ---
-description: Combo Tech
+description: Plunge Combo Tech
 ---
 
 # Dragon Strike
@@ -31,3 +31,12 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 {% endtab %}
 {% endtabs %}
 
+
+# Stepstool  
+
+It's possible to use hitbox collision off of enemies to push yourself higher which allows average and tall height characters to perform a plunge attack.  
+
+
+## Evidence Vault:  
+
+{% page-ref page="../../../evidence/mechanics/combat/tech/Plunge.md" %}  
