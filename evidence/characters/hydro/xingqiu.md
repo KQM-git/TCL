@@ -176,6 +176,5 @@ Xingqiu Rain Sword DMG does not take the Hydro DMG% bonus gained from Kazuha's A
 [Rain Swords Unbuffed](https://youtu.be/bb0ftQK8nzg)  
 [Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)  
 
-
 **Significance:**  
 A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
