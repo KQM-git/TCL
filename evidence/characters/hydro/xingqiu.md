@@ -167,7 +167,7 @@ Better knowledge for teambuilding and rotations.
 
 **By:** elijam#7142  
 **Added:** 07/18/2021  
-[Discussion](hhttps://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
 
 **Finding:**  
 Xingqiu Rain Sword DMG does not take the Hydro DMG% bonus gained from Kazuha's A4 into account. Because it's an attribute sharing effect which scale based on a character's own attributes, therefore would not factor in to calculations of further similarly scaling attribute sharing effects.
