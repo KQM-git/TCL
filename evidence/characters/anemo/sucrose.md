@@ -160,3 +160,44 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
 
+## Sucrose A4 snapshots EM value
+
+**By:** NZPIEFACE#8439  
+**Added:** 07/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864528623578251314/866111168929857537/transcript-sucrose-a4-snapshots-em-value.html)
+
+**Findings:** Sucrose A4 snapshots EM value.
+
+**Evidence:**  
+[Albedo snapshot](https://www.youtube.com/watch?v=5n60s5c9e0M)
+* First half, using Sucrose A4 before EM buff from Albedo A4, grants 0 EM to everyone. Albedo Q increases party EM by 125. Higher value is expected if A4 did not snapshot.
+* Second half, using Sucrose A4 a few seconds before the EM buff from Albedo ends. Grants 25 (20% of 125) EM to other party members. After albedo buff expires, party members still have 25 EM buff, instead of 0 if A4 did not snapshot
+
+[Instructor buff post](https://www.youtube.com/watch?v=msWr5X0Rrvw)
+* Using Sucrose A4 gives 16 EM to other party members. This is expected.
+* Causing a swirl reaction further gives party members 170 EM (120 from instructor, 50 from A2) and 120 to Sucrose.
+* If A4 did not snapshot, total EM on party members would be 210 instead of 186.
+
+[Instructor buff pre](https://www.youtube.com/watch?v=xXH_wWKpZg4)
+* A4 without buff -> 16 EM to other party members.
+* Swirl without A4 buff -> 170 EM to other party members, 120 to sucrose (200 total in sucrose).
+* After instructors and A1 expires -> 40 EM on party members instead of 16.
+
+[Widsith post](https://www.youtube.com/watch?v=F5gj8iyodUs)
+* A4 -> 0 EM to other party members.
+* After widsith -> 0 EM to other party members, 480 on Sucrose.
+* Without snapshot, expected 96 EM to party.
+
+[Widsith pre](https://www.youtube.com/watch?v=mkYHGvOsIOY)
+* Vid starts with showing widsith buff.
+* A4 -> 96 EM to other party members.
+* After buff decays -> 96 EM to other party members.
+* Without snapshot expected to be 0 EM.
+
+[Instructor EM buff procs before A4](https://www.youtube.com/watch?v=3CvAb1XWgUE)  
+* Sucrose gives 210 EM (50 + 120 + 20% * 200) to other party members despite not getting Instructor buff beforehand.
+
+**Significance:**
+* Use buffs in the right order: Buff sucrose first (this only means albedo) to maximize EM share to rest of party.
+* Time your buffs. its possible to switch back to sucrose before these buffs end to extend the effective duration of A4.
+* Quickswap with Instructors set doesn't need proc the buff with a normal attack first before E.
