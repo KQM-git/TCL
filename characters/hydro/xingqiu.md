@@ -60,6 +60,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 
 * **The Rain Swords have the following properties:**
   * When a character takes DMG, a **Rain Sword** will shatter, reducing the amount of DMG Taken. 20% of his Hydro DMG will be converted to additional DMG Reduction, maximum additional DMG Reduction gained cannot exceed 24%.
+  * The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
   * Increases active character’s resistance to interruption.
   * The initial maximum number of **Rain Swords** is 3.
   * **Rain Sword** orbitals apply Hydro to surrounding enemies once every 2.5s.
