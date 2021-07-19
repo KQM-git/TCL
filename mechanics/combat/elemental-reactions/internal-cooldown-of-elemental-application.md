@@ -9,6 +9,13 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
   * Aimed Mode Charged Attacks have a different timer.
 * Normal Attacks between two characters use different counters.
 
+## Internal Cooldown Table
+**By:** Zakharov#5645
+
+ICD table that was based on [Advanced Gauge Unit Theory](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory/Advanced_Theory) on Genshin Impact Wiki, with a few corrections from examining the data files.
+
+[Link](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)
+
 ## Media
 
 **A Video Example of the 2 Ways ICD Resets**
