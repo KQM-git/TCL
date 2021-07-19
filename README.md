@@ -1,6 +1,6 @@
 # Theorycrafting Library
 
-The Theorycrafting Library(TCL) a collection of community submitted knowledge and information about Genshin Impact. The information and content found on the TCL has been vetted and checked by KQM's Theorycrafting Editors before being published.
+The Theorycrafting Library (TCL) is a collection of community submitted knowledge and information about Genshin Impact. The information and content found on the TCL has been vetted and checked by KQM's Theorycrafting Editors before being published.
 
 The TCL is organized so that each page has a corresponding Evidence Vault. The Evidence Vault houses every submission in full that has been made to the TCL. While the main pages are where basic information and summaries of submitted findings can be found.
 
