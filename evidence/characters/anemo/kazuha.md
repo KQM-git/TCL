@@ -64,7 +64,7 @@
   
 ## EM vs ADC Kazuha  
 
-**By:** Zakharov\#5645  
+**By:** Zakharov#5645  
 **Added:** 07/04/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861165727390367764/861345878035398656/transcript-em-vs-adc-kazuha.html)  
   
@@ -75,4 +75,26 @@ EM builds are comparable to damage/crit builds on Kazuha in personal damage outp
 [Sheet](https://docs.google.com/spreadsheets/d/1a6-onb86Aphedf-dL5dq4frc2F3IrivggFuhp53D3vw/edit#gid=146292907)  
   
 **Signifiance:**  
-Em is overall the better build choice for Kazuha in almost every situation.
+EM is overall the better build choice for Kazuha in almost every situation.
+
+## EM vs ADC Kazuha Team DMG Calculation
+
+**By:** Ayzel#7399  
+**Added:** 07/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865056192140017695/866477834708713503/transcript-kazuha-adc-vs-em-team-damage.html)  
+  
+**Finding:**  
+For Childe/Xiangling reverse vape teams in single-target situations, Kazuha's EM build will outdamage (in terms of team damage) Kazuha's attack build.  
+
+**Evidence:**  
+[Imgur](https://imgur.com/dPkWJZt)
+
+Direct download link for calculating sheet files:  
+[Master Calculator v1](https://cdn.discordapp.com/attachments/865056192140017695/865056812226707466/Genshin_Master_Calculator.xlsx)  
+[Master Calculator v2](https://cdn.discordapp.com/attachments/865056192140017695/865056807634468914/Genshin_Master_Calculator_-_2.xlsx)  
+[Master Calculator v3](https://cdn.discordapp.com/attachments/865056192140017695/865056811764416512/Genshin_Master_Calculator_-_3.xlsx)  
+[Master Calculator v4](https://cdn.discordapp.com/attachments/865056192140017695/865056812042551296/Genshin_Master_Calculator_-_4.xlsx)  
+[Rotation Assembler](https://cdn.discordapp.com/attachments/865056192140017695/865056808388132944/Rotation_Assembler.xlsx)
+
+**Signifiance:**  
+Even with high investment Kazuha (Bennett Buff, Jade Cutter, 25 substats) it is more beneficial to team damage to run an EM/EM/EM build over an ATK/Anemo/Crit build in teams where Kazuha plays a supporting role.
