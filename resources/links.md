@@ -10,6 +10,9 @@
 
 [Character Stat per Level Scaling](https://drive.google.com/file/d/17NFePVPY13xQaFizXgIM852yB0GLD02b/view)  
 
+[Character Internal Cooldown Table](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)  
+
+
 ### Enemies
 
 [Enemy HP Thresholds for Energy](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit#gid=672398441)
