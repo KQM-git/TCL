@@ -10,7 +10,7 @@
 
 [Character Stat per Level Scaling](https://drive.google.com/file/d/17NFePVPY13xQaFizXgIM852yB0GLD02b/view)  
 
-[Character Internal Cooldown Table](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)  
+[Character Internal Cooldown Table](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)
 
 
 ### Enemies
