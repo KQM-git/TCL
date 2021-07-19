@@ -5,7 +5,7 @@ description: 'If you need something defined, this is the place.'
 # Glossary
 
 {% hint style="info" %}
-If there are any terms you want defined/redefined, go to [\#server-site-feedback](https://discord.gg/MgekR5Yufx) and make your suggestion there.
+The Glossary is currently going through a revamp, so more recent terms/definitions may not be on here yet.
 {% endhint %}
 
 ## Character Terms
