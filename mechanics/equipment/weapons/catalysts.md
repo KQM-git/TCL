@@ -232,7 +232,34 @@
 {% endtab %}
 {% endtabs %}
 
-### **Mappa Mare**
+### Hakushin Ring
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Sakura Saiguu | After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **10/12.5/15/17.5/20**% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked. |
+| Base ATK | 44 - 565 |
+| ER% | 6.7 - 30.6% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 361 | 22.6 |
+| 60+ | 387 | 22.6 |
+| 65 | 408 | 23.9 |
+| 70 | 429 | 25.2 |
+| 70+ | 455 | 25.2 |
+| 75 | 476 | 26.6 |
+| 80 | 497 | 27.9 |
+| 80+ | 523 | 27.9 |
+| 85 | 544 | 29.3 |
+| 90 | 565 | 30.6 |
+{% endtab %}
+{% endtabs %}
+
+### Mappa Mare
 
 {% tabs %}
 {% tab title="Description" %}

@@ -64,6 +64,15 @@
 {% endtab %}
 {% endtabs %}
 
+### Emblem of Severed Fate
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: Energy Recharge +20%
+* 4 Piece Set Bonus: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+{% endtab %}
+{% endtabs %}
+
 ### Gladiator's Finale
 
 {% tabs %}
@@ -142,6 +151,15 @@
 {% tab title="Findings" %}
 * The 4p set has to be equipped to the character you want to buff, in most cases, your DPS character, not the character casting the shield.
 * The 2-piece shield strength effect only applies to the character equipping the artifact set, not the character creating the shield.
+{% endtab %}
+{% endtabs %}
+
+### Shimenawa's Reminiscence
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: ATK +18%
+* 4 Piece Set Bonus: When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/ Plunging Attack DMG is increased by 50% for 10s.
 {% endtab %}
 {% endtabs %}
 

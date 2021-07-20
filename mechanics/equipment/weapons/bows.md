@@ -85,6 +85,33 @@
 {% endtab %}
 {% endtabs %}
 
+### Thundering Pulse
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Rule By Thunder | Increases ATK by **20/25/30/35/40**% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **(12/24/40)/(15/30/50)/(18/36/60)/(21/42/70)/(24/48/80)**%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently. | 
+| Base ATK | 46 - 608 |
+| CRIT DMG% | 14.4% - 66.2% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | CRIT DMG% |
+| :--- | :--- | :--- |
+| 60 | 382 | 48.7 |
+| 60+ | 414 | 48.7 |
+| 65 | 435 | 51.6 |
+| 70 | 457 | 54.5 |
+| 70+ | 488 | 54.5 |
+| 75 | 510 | 57.4 |
+| 80 | 532 | 60.3 |
+| 80+ | 563 | 60.3 |
+| 85 | 586 | 63.2 |
+| 90 | 608 | 66.2 |
+{% endtab %}
+{% endtabs %}
+
 ## 4 Stars
 
 ### Alley Hunter
@@ -197,6 +224,33 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
+{% endtab %}
+{% endtabs %}
+
+### Hamayumi
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Full Draw | Increases Normal Attack DMG by **16/20/24/28/32**% and Charged Attack DMG by **12/15/18/21/24**%. When the equipping character's Energy reaches 100%, this efect is increased by 100%. |
+| Base ATK | 41 - 454 |
+| ATK% | 12% - 55.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
 {% endtab %}
 {% endtabs %}
 
