@@ -239,6 +239,8 @@ It is also notably not the Electro-related reaction that triggers the second one
 
 For teams that rely on Superconduct uptime, a Hydro unit does not interfere with the ability to cause Superconduct with a Cryo ability, as regardless of which element remains after an Electro-Charged reaction \(only Electro remaining, only Hydro remaining, or both remaining for further Electro-Charged ticks\), you will always be able to trigger Superconduct, at worst with an Electro attack into Frozen.
 
+***Note:*** This ticket is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
+
 ### How Hitlag affects EC
 
 **By:** BowlSoldier\#3528  
@@ -428,6 +430,8 @@ Some reactions affect only the Freeze aura. Some reactions affect both, and so w
 
 ![](https://lh3.googleusercontent.com/3pWlNALQ1yV6d8KZ2pDQPfAkuBWqR4d0tx_ClVefe7po-dcViU3QRrQzqUbqJDpgGuklhw9x-B1yUrJPG-qTBRq9DBsUdwTNX4QHZKbxYvfHGZo5Bo9Mo6krhqrtrUoswZQlx1OQ)
 
+***Note:*** The freeze table is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
+
 Only one reaction seems to be able to happen at a time. So if you apply Pyro to a Freeze with an underlying Hydro aura, only a Melt happens. Hydro cannot Melt, so the Hydro is not affected, only the Freeze. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura.
 
 Shatter only affects the Freeze aura, as a normal Cryo aura cannot Shatter.
@@ -596,6 +600,41 @@ b] an additional aura is applied on top of the enemy after frozen occurs. For ex
 
 **Significance:**  
 Better understanding about getting specific reactions against frozen enemies
+
+### EC Frozen Double Reactions
+
+**By:** Faranight#0001  
+**Added:** 07/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856734863130099722/867166763661656084/transcript-ec-frozen-double-reactions.html)
+
+**Theory:** EC and Frozen with hidden hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the element priority list. The exceptions are Geo Crystalize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden hydro as it has to overcome the hydro aura rather than the (higher priority) frozen:  
+(https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#how-to-get-double-swirls)
+
+Experimental element priority order:  
+Electro > Pyro > Cryo > Freeze > Hydro
+
+**Evidence:**  
+*For EC:*  
+Overload but no Vape: [Video](https://www.youtube.com/watch?v=idsHY8NW5VE)  
+OL and Vape: [Video](https://www.youtube.com/watch?v=NAmOAB1S3wc)  
+SC but no Freeze: [Video](https://youtu.be/u-OVAtdpwDk)  
+SC and Freeze: [Video](https://youtu.be/k-O51oX3JpI)  
+Electro crystalize but no hydro: [Video](https://youtu.be/Z9zOXsy_qUY)  
+Cannot produce two crystals with one geo trigger: https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#crystallize-on-an-electro-charged-enemy
+
+*For Frozen with Hidden Hydro:*  
+SC but no EC: [Video](https://youtu.be/PPjaMA9svmg)  
+SC and EC: No documented cases likely due to frozen aura being very high gauge and short duration  
+Melt but no Vape: [Video](https://youtu.be/Jtof5kfq8XI)  
+Melt and Vape: No documented cases likely due to frozen aura being very high gauge and short duration  
+Crystalize cannot be tested on hidden hydro due to shattering.
+
+The elemental priority array from data can be found in the global combat config.  
+Datamined element priority order:  
+Electro > Pyro > Anemo > Cryo > Freeze > Hydro > Dendro > Geo  
+Evidence for Anemo triggers defying this array is already provided in the ticket linked in the theory section. Additional testing is required on hidden hydro due to its strange behavior and the relatively unstudied gauge strength of frozen.  
+
+**Significance:** Allows for better (but still incomplete) understanding of when double reactions can be utilized and how to set them up. Additionally, both the previous [freeze table](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#freeze-aura-mechanics) and the [EC interactions with other elements ticket](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#interaction-of-other-elements-with-electrocharged-targets) are found to be inaccurate.
 
 ## Swirl
 
