@@ -4,8 +4,6 @@ description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Cryst
 
 # Transformative Reactions
 
-{% hint style="info" %} The formula below has been updated for the new 1.6 EM changes.{% endhint %}
-
 $$
 \begin{align}
 TransformativeReaction = &
