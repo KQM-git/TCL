@@ -89,6 +89,8 @@ The duration of Freeze is dependent on the lowest gauge element when it is trigg
 
 The behavior of Freeze curves to give diminishing returns at higher GU values. This curve predicts a duration of about 5.7s for 2U.
 
+**Note:** The freeze table is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
+
 ## Swirl
 
 Swirl is an elemental reaction triggered by applying Anemo to a target already affected by Hydro, Pyro, Cryo, or Electro. Swirl will cause AoE elemental damage of the same type as the original aura, spreading that element to affected targets which can trigger additional reactions. Triggering Swirl in an AoE can cause up to two instances of _Swirl_ damage per element for each enemy in the AoE. Note that this constraint does not include the Anemo hit or any damage dealt by reactions caused from the swirls, so it is possible to have more than eight total damage instances per target.
