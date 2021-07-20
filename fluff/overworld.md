@@ -28,8 +28,12 @@
 - Electrified is a harmful reaction against both player and enemy.  
 - Electrified's damage is classified as transformative, but it works off of environment bases.  
 
-### Other world maps  
+## Other world maps  
 - The current world state & character position is saved between different world maps.  
+
+## Coordinates translation methods  
+
+Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 
 ## Evidence Vault
 
