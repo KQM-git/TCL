@@ -4,7 +4,16 @@ description: 'Kazuha Banner ft. Rosaria, Razor, and Bennett'
 
 # Patch 1.6b
 
-## All Submissions
+## New Guides
+
+- [Kazuha: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
+- [Diluc: The Dark Side of Dawn](https://keqingmains.com/diluc/)
+- [Full Ganyu Guide](https://keqingmains.com/ganyu/) (major rewrite + update)
+- [Xiao: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
+- [Jean Mains Guide](https://keqingmains.com/jean/)
+- [Full Ningguang Guide: Geo Goddess](https://keqingmains.com/ningguang/)
+
+## Theorycrafting Library Submissions
 
 | Date | Entry | Author\(s\) |
 | :--- | :--- | :--- |
