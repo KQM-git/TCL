@@ -286,6 +286,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Kitain Cross Spear
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Samurai Conduct | Increases Elemental Skill DMG by **6/7.6/9/10.5/12**% After Elemental Skill hits an opponent, the
+character loses 3 Energy but regenerates **3/3.5/4/4.5/5** Energy every 2s for the next 6s. This effect can occur once
+every 10s. Can be triggered even when the character is not on the field. |
+| Base ATK | 44 - 565 |
+| EM | 24 - 110 |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 361 | 81 |
+| 60+ | 387 | 81 |
+| 65 | 408 | 86 |
+| 70 | 429 | 91 |
+| 70+ | 455 | 91 |
+| 75 | 476 | 96 |
+| 80 | 497 | 101 |
+| 80+ | 523 | 101 |
+| 85 | 544 | 105 |
+| 90 | 565 | 110 |
+{% endtab %}
+{% endtabs %}
+
 ### Lithic Spear
 
 {% tabs %}

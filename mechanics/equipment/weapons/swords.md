@@ -29,6 +29,37 @@
 {% endtab %}
 {% endtabs %}
 
+### Mistsplitter Reforged
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Mistsplitter's Edge | Gain a **12/15/18/21/24**% Elemental DMG Bonus for all element and receive the might of the Mistsplitter's Emblem.
+At stack levels 1/2/3, the Mistsplitter's Emblem provides a **(8/16/28)/(10/20/35)/(12/24/42)/(14/28/49)/(16/32/56)**% Elemental DMG Bonus for the character's Elemental
+Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals
+Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears
+when Energy is full). Each stack's duration is calculated independently. |
+| Base ATK | 48 - 674 |
+| CRIT DMG% | 9.6% - 44.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Crit DMG |
+| :--- | :--- | :--- |
+| 60 | 423 | 32.5 |
+| 60+ | 455 | 32.5 |
+| 65 | 480 | 34.4 |
+| 70 | 506 | 36.3 |
+| 70+ | 537 | 36.3 |
+| 75 | 563 | 38.3 |
+| 80 | 590 | 40.2 |
+| 80+ | 621 | 40.2 |
+| 85 | 648 | 42.2 |
+| 90 | 674 | 44.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Primordial Jade Cutter
 
 {% tabs %}
@@ -114,6 +145,36 @@
 
 ## 4 Stars
 
+### Amenoma Kageuchi
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Iwakura Succession | After casting an Elemental Skill, gain 1 Succession Seed. This effect can be
+triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After
+using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6/7.5/9/10.5/12**
+Energy for each seed consumed. |
+| Base ATK | 42 - 510 |
+| ATK% | 12% - 55.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Blackcliff Longsword
 
 {% tabs %}
@@ -180,7 +241,7 @@
 | Attribute | Description |
 | :--- | :--- |
 | Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
-| Base ATK | 42 - 510 |
+| Base ATK | 41 - 454 |
 | ER% | 10% - 45.9% |
 {% endtab %}
 

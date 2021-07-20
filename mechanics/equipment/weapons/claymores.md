@@ -175,6 +175,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Katsuragikiri Nagamasa
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Samurai Conduct | Increases Elemental Skill DMG by **6/7.6/9/10.5/12**% After Elemental Skill hits an opponent, the
+character loses 3 Energy but regenerates **3/3.5/4/4.5/5** Energy every 2s for the next 6s. This effect can occur once
+every 10s. Can be triggered even when the character is not on the field. |
+| Base ATK | 42 - 510 |
+| ER% | 10% - 45.9% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 327 | 33.8 |
+| 60+ | 353 | 33.8 |
+| 65 | 370 | 35.9 |
+| 70 | 388 | 37.9 |
+| 70+ | 414 | 37.9 |
+| 75 | 431 | 39.9 |
+| 80 | 449 | 41.9 |
+| 80+ | 475 | 41.9 |
+| 85 | 492 | 43.9 |
+| 90 | 510 | 45.9 |
+{% endtab %}
+{% endtabs %}
+
 ### Lithic Blade
 
 {% tabs %}
