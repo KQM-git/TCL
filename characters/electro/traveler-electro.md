@@ -24,36 +24,83 @@ description: >-
 ## **Attacks**
 
 {% tabs %}
-{% tab title="Foreign Thundershock" %}
+{% tab title="Foreign Thundershock Lumine" %}
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.63% | -- | -- |
-| 2-Hit DMG | 63.13% | -- | -- |
-| 3-Hit DMG | 77% | -- | -- |
-| 4-Hit DMG | 84.75% | -- | -- |
-| 5-Hit DMG | 102.88% | -- | -- |
-
-**Charged Attacks**  
-Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
+* Lumine is the female traveler.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 81.25% + 105% | -- | -- |
+| 1-Hit | 64.63% | 14 | 276.8%/s |
+| 2-Hit | 63.13% | 43 | 178.1%/s |
+| 3-Hit | 77% | 80 | 153.5%/s |
+| 4-Hit | 84.75% | 116 | 149.7%/s |
+| 5-hit | 102.88% | 148 | 159.1%/s |
 
-**Plunge Attacks**  
-Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+**Charged Attack**  
+The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% |" + "
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| N1C | 81.25%+105% | 62 | 242.8%/s |
+| N2C | 81.25%+105% | 84 | 224%/s |
+| N3C | 81.25%+105% | 115 | 204%/s |
+| N4C | 81.25%+105% | 160 | 178.4%/s |
+
+**Plunge**
+
+| Damage Type | Talent 6% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low/High Plunge DMG | 185.81% / 232.09% |
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 230.09% |
+
+If performing a Jump and coming into contact with certain enemies Aether can gain enough height to use a plunge attack.
+{% endtab %}
+
+{% tab title="Foreign Thundershock Aether" %}
+**Normal Attacks**  
+Performs up to 5 rapid strikes.
+
+* Aether is the male traveler.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 64.63% | 13 | 298.15%/s |
+| 2-Hit | 63.13% | 38 | 201.63%/s |
+| 3-Hit | 77% | 71 | 172.99%/s |
+| 4-Hit | 84.75% | 123 | 141.22%/s |
+| 5-hit | 102.88% | 163 | 144.48%/s |
+
+**Charged Attack**  
+The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| N1C | 81.25%+88.25% | 54 | 260.1%/s |
+| N2C | 81.25%+88.25% | 90 | 198.1%/s |
+| N3C | 81.25%+88.25% | 115 | 195.2%/s |
+| N4C | 81.25%+88.25% | 160 | 172.1%/s |
+
+**Plunge**
+
+| Damage Type | Talent 6% |
+| :--- | :--- |
+| Plunge Impact | 92.93% |
+| Low Plunge DMG | 185.81% |
+| High Plunge DMG | 230.09% |
+
+If performing a Jump and coming into contact with certain enemies Aether can gain enough height to use a plunge attack.
 {% endtab %}
 
 {% tab title="Lightning Blade" %}
-Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent. 2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated. Abundance Amulets When a character is near an Abundance Amulet, they will absorb it and obtain the following effects: • Restores Elemental Energy • Increases Energy Recharge during the Abundance Amulet's duration.
+Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent. 2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated. 
+
+**Abundance Amulets**  
+When a character is near an Abundance Amulet, they will absorb it and obtain the following effects: 
+* Restores Elemental Energy 
+* Increases Energy Recharge during the Abundance Amulet's duration
 
 | Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -66,7 +113,10 @@ Unleashes three swift thunder shadows that deal Electro DMG to opponents and lea
 {% endtab %}
 
 {% tab title="Bellowing Thunder" %}
-You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them. Lightning Shroud When your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG. When Falling Thunder hits opponents, it will regenerate Energy for that character. One instance of Falling Thunder can be generated every 0.5s.
+You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.
+
+**Lightning Shroud**  
+When your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG. When Falling Thunder hits opponents, it will regenerate Energy for that character. One instance of Falling Thunder can be generated every 0.5s.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -144,7 +194,8 @@ Every 2 Falling Thunder attacks triggered by Bellowing Thunder will increase the
 
 ## Full Talent Values
 
-{% tabs %}{% tab title="Foreign Thundershock" %}
+{% tabs %}
+{% tab title="Foreign Thundershock" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -152,23 +203,26 @@ Every 2 Falling Thunder attacks triggered by Bellowing Thunder will increase the
 | 1-Hit DMG | 64.63 | 70.31 | 76 | 81.69 | 87.89 | 94.09 |
 | 2-Hit DMG | 63.13 | 68.68 | 74.23 | 79.79 | 85.85 | 91.91 |
 | 3-Hit DMG | 77 | 83.78 | 90.55 | 97.33 | 104.72 | 112.11 |
-| 4-Hit DMG | 84.75 | 92.21 | 99.67 | 107.12 | 115.26 | 123.4 |
+| 4-Hit DMG | 84.75 | 92.21 | 99.67 | 107.12 | 115.26 | 123.40 |
 | 5-Hit DMG | 102.88 | 111.93 | 120.98 | 130.03 | 139.91 | 149.79 |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 81.25% + 105 | 88.4% + 114.24 | 95.55% + 123.48 | 102.7% + 132.72 | 110.5% + 142.8 | 118.3% + 152.88 |
+| Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
+| Lumine Charged Attack 2 DMG | 105 | 114.24 | 123.48 | 132.72 | 142.80 | 152.88 |
+| Aether Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
 
-**Stamina Cost:** 20
+**Stamina Cost**: 20
 
-### Plunge 
+### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.1 | 109.28 | 117.46 | 126.38 | 135.3 |
-| Low/High Plunge DMG | 185.81% / 232.09 | 202.16% / 252.51 | 218.51% / 272.93 | 234.86% / 293.36 | 252.7% / 315.64 | 270.54% / 337.92 |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
 {% endtab %}
 
 {% tab title="Lightning Blade" %}
@@ -181,6 +235,11 @@ Every 2 Falling Thunder attacks triggered by Bellowing Thunder will increase the
 | Duration | 6s | 6s | 6s | 6s | 6s | 6s | 6s | 6s |
 | Abundance Amulet Duration | 15 | 15 | 15 | 15 | 15 | 15 | 15 | 15 |
 | CD | 13.5s | 13.5s | 13.5s | 13.5s | 13.5s | 13.5s | 13.5s | 13.5s |
+
+**Cooldown:** 13.5s  
+**Duration:** 6s  
+**Abundance Amulet Duration:** 15s  
+**Energy Recharge Increase:** 20%
 {% endtab %}
 
 {% tab title="Bellowing Thunder" %}
@@ -190,9 +249,10 @@ Every 2 Falling Thunder attacks triggered by Bellowing Thunder will increase the
 | Skill DMG | 160.16% | 171.6% | 183.04% | 194.48% | 205.92% | 217.36% | 228.8% | 243.1% |
 | Falling Thunder DMG | 45.92% | 49.2% | 52.48% | 55.76% | 59.04% | 62.32% | 65.6% | 69.7% |
 | Energy Regeneration | 0.9 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Duration | 12s | 12s | 12s | 12s | 12s | 12s | 12s | 12s |
-| CD | 20s | 20s | 20s | 20s | 20s | 20s | 20s | 20s |
-| Energy Cost | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 |
+
+**Energy Cost:** 80  
+**Duration:** 12s  
+**Cooldown:** 20s
 {% endtab %}
 {% endtabs %}
 

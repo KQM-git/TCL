@@ -112,7 +112,9 @@ After using Kamisato Art: Hyouka, Kamisato Ayaka's Normal and Charged Attacks de
 {% tab title="Ascension 4" %}
 ### Kanten Senmyou Blessing
 
-When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects: • Restores 10 Stamina • Gains 18% Cryo DMG Bonus for 10s.
+When the Cryo application at the end of Kamisato Art: Senho hits an opponent, Kamisato Ayaka gains the following effects: 
+* Restores 10 Stamina 
+* Gains 18% Cryo DMG Bonus for 10s.
 {% endtab %}
 {% endtabs %}
 
@@ -182,7 +184,8 @@ Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Plunge DMG | 92.93 | 101.1 | 109.28 | 117.46 | 126.38 | 135.3 |
-| Low/High Plunge DMG | 185.81% / 232.09 | 202.16% / 252.51 | 218.51% / 272.93 | 234.86% / 293.36 | 252.7% / 315.64 | 270.54% / 337.92 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.7 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
 {% endtab %}
 
 {% tab title="Kamisato Art: Hyouka" %}
@@ -190,7 +193,8 @@ Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 334.88% | 358.8% | 382.72% | 406.64% | 430.56% | 454.48% | 478.4% | 508.3% |
-| CD | 10s | 10s | 10s | 10s | 10s | 10s | 10s | 10s |
+
+**Cooldown:** 10s
 {% endtab %}
 
 {% tab title="Kamisato Art: Soumetsu" %}
@@ -199,9 +203,10 @@ Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG 
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Cutting DMG | 157.22% | 168.45% | 179.68% | 190.91% | 202.14% | 213.37% | 224.6% | 238.64% |
 | Bloom DMG | 235.83% | 252.68% | 269.52% | 286.36% | 303.21% | 320.05% | 336.9% | 357.96% |
-| Duration | 5s | 5s | 5s | 5s | 5s | 5s | 5s | 5s |
-| CD | 20s | 20s | 20s | 20s | 20s | 20s | 20s | 20s |
-| Energy Cost | 80 | 80 | 80 | 80 | 80 | 80 | 80 | 80 |
+
+**Energy Cost:**  80  
+**Duration:** 5s  
+**Cooldown:** 12s
 {% endtab %}
 {% endtabs %}
 
