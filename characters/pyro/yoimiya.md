@@ -31,11 +31,11 @@ Performs up to 5 consecutive shots with a bow.
 **Aimed Shot**  
 Performs a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack. Has different effects based on how long the energy has been charged: • Charge Level 1: Fires off a flaming arrow that deals Pyro DMG. • Charge Level 2: Generates a maximum of 3 Kindling Arrows based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | -- | -- |
-| Fully-Charged Aimed Shot | 173.6% | -- | -- |
-| Kindling Arrow DMG | 22.96% | -- | -- |
+| String | Talent 6% | GUs | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75% | -- | -- | -- |
+| Fully-Charged Aimed Shot | 173.6% | 1A | -- | -- |
+| Kindling Arrow DMG | 22.96% | 1A | -- | -- |
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
@@ -52,19 +52,21 @@ Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. Niwabi 
 
 | Type | Talent 6% | Duration | Cooldown | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Blazing Arrow DMG | ? | 10s | 18s | -- | --| -- | -- |
+| Blazing Arrow DMG | ? | 10s | 18s | 1A | --| -- | -- |
 {% endtab %}
 
 {% tab title="Ryuukin Saxifrage" %}
 Yoimiya leaps into the air along with her original creation, the "Ryuukin Saxifrage," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with Aurous Blaze. Aurous Blaze All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by Aurous Blaze will trigger an explosion, dealing AoE Pyro DMG. When an opponent affected by Aurous Blaze is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration. One Aurous Blaze explosion can be triggered every 2s. When Yoimiya is down, Aurous Blaze effects created through her skills will be deactivated.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Skill DMG | 178.08% |
-| Aurous Blaze Explosion DMG | 170.8% |
-| Duration | 10s |
-| CD | 15s |
-| Energy Cost | 60 |
+| Effect | Talent 6% / Data | GUs |
+| :--- | :--- | ---- |
+| Skill DMG | 178.08% | 2B |
+| Aurous Blaze Explosion DMG | 170.8% | 1A |
+| Duration | 10s | -- |
+| CD | 15s | -- |
+| Energy Cost | 60 | -- |
+* **Ryuukin Saxifrage** doesn't snapshot.
+
 {% endtab %}
 {% endtabs %}
 
