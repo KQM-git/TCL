@@ -4,6 +4,7 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
 
 * Attack types: **Normal Attacks**, **Charged Attacks**, **Plunge Attacks**, **Elemental Skills**, and **Elemental Bursts** have different counters for most cases. There are known exceptions however: 
   * Sword and Claymore characters' ICD series are shared between Normal Attacks and Charged Attacks.
+    * with the exception of Ayaka whose ICDs are separate
   * Catalyst and Polearm Normal Attacks and Charged Attacks are on different series.
     * with the exception of Xiao whose ICDs are shared
   * Aimed Mode Charged Attacks have a different timer.
