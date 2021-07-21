@@ -30,18 +30,20 @@ Performs up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 66.46% | -- | -- |
-| 2-Hit DMG | 70.76% | -- | -- |
-| 3-Hit DMG | 91.02% | -- | -- |
-| 4-Hit DMG | 32.92% ×3 (98.76%) | -- | -- |
-| 5-Hit DMG | 113.64% | -- | -- |
+| 1-Hit DMG | 66.46% | 8 | 498.45%/s |
+| 2-Hit DMG | 70.76% | 28 | 294.04%/s |
+| 3-Hit DMG | 91.02% | 56 | 244.54%/s |
+| 4-Hit DMG | 32.92% ×3 (98.76%) | 98 | 198.18%/s |
+| 5-Hit DMG | 113.64% | 136 | 194.40%/s |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to unleash a flurry of sword ki.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 80.13% ×3 (240.39%) | -- | -- |
+| Charged Attack DMG | 80.13%×3 (240.39%) | -- | -- |
+| N1C | 66.46% + 80.13%×3 | 53 | 347.37%/s |
+| N1CJ | 66.46% + 80.13%×3 | 96 | 191.78%/s |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
@@ -55,10 +57,9 @@ Plunges from mid-air to strike the ground below, damaging enemies along the path
 {% tab title="Kamisato Art: Hyouka" %}
 Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 
-| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 334.88% | -- | -- | -- | --| -- |
-| CD | 10s | -- | -- | -- | --| -- |
+| Type | Talent 6% | Cooldown | U | Particles | Frames |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 334.88% | 10s | 2B | 4~5 (1:1) | 56 |
 {% endtab %}
 
 {% tab title="Kamisato Art: Senho" %}
@@ -66,7 +67,9 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water. 
 When she reappears, the following effects occur: 
 * Ayaka unleashes frigid energy to apply Cryo on nearby opponents.
+  * 1A Cryo is applied when Ayaka exits from her sprint.
 * Coldness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.
+  * This infusion causes Ayaka's attacks to apply 1A Cryo
 
 | Effect | Values |
 | :--- | :--- |
@@ -83,13 +86,16 @@ Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no T
 * A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.
 * The snowstorm explodes after its duration ends, dealing AoE Cryo DMG.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Cutting DMG | 157.22% |
-| Bloom DMG | 235.83% |
-| Duration | 5s |
-| CD | 20s |
-| Energy Cost | 80 |
+| Effect | Talent 6% / Data | GUs |
+| :--- | :--- | ---- |
+| Cutting DMG | 157.22% | 1A |
+| Bloom DMG | 235.83% | -- |
+| Cast Frames | 95 | -- |
+| Duration | 5s | -- |
+| CD | 20s | -- |
+| Energy Cost | 80 | -- |
+* **Kamisato Art: Soumetsu** snapshots
+
 {% endtab %}
 {% endtabs %}
 
@@ -131,6 +137,9 @@ When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it h
 ### Blizzard Blade Seki no To
 
 When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.
+
+* All three Frostflake Seki no To (one from burst and the two from C2) can hit the same target.
+
 {% endtab %}
 
 {% tab title="C3" %}
