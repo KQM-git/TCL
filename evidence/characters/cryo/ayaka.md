@@ -1,5 +1,9 @@
 # Ayaka
 
+**Main Page:**
+
+{% page-ref page="../../../characters/cryo/ayaka.md" %}
+
 ## Basic Ayaka Mechanics
 
 ### Basic Attributes
