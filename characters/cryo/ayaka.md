@@ -42,8 +42,10 @@ Consumes a certain amount of Stamina to unleash a flurry of sword ki.
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 80.13%×3 (240.39%) | -- | -- |
-| N1C | 66.46% + 80.13%×3 | 53 | 347.37%/s |
-| N1CJ | 66.46% + 80.13%×3 | 96 | 191.78%/s |
+| N1C | 66.46% + 80.13%×3 (306.85%) | 53 | 347.37%/s |
+| N1CJ | 66.46% + 80.13%×3 (306.85%) | 96 | 191.78%/s |
+
+* Ayaka's charged attack ICDs are separate from her normal attack.
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
@@ -95,6 +97,7 @@ Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no T
 | CD | 20s | -- |
 | Energy Cost | 80 | -- |
 * **Kamisato Art: Soumetsu** snapshots
+* The whirl generated will stay in place for large enemies and frozen enemies
 
 {% endtab %}
 {% endtabs %}

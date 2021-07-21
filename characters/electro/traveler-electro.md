@@ -95,37 +95,46 @@ If performing a Jump and coming into contact with certain enemies Aether can gai
 {% endtab %}
 
 {% tab title="Lightning Blade" %}
-Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an Abundance Amulet behind after hitting an opponent. 2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated. 
+Unleashes three swift thunder shadows that deal Electro DMG to opponents and leave an **Abundance Amulet** behind after hitting an opponent. 2 **Abundance Amulets** can be created initially. Using this skill will reset any **Abundance Amulets** that were generated. 
 
 **Abundance Amulets**  
 When a character is near an Abundance Amulet, they will absorb it and obtain the following effects: 
-* Restores Elemental Energy 
+
+* Restores Flat Elemental Energy
 * Increases Energy Recharge during the Abundance Amulet's duration
 
-| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 110.13% | -- | -- | -- | --| -- |
-| Energy Regeneration | 3.5 | -- | -- | -- | --| -- |
-| Energy Recharge Increase | 20% | -- | -- | -- | --| -- |
-| Duration | 6s | -- | -- | -- | --| -- |
-| Abundance Amulet Duration | 15 | -- | -- | -- | --| -- |
-| CD | 13.5s | -- | -- | -- | --| -- |
+| Type | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| Skill DMG | 110.13% | --| -- |
+| GU | 1A | -- | -- |
+| Particles | 1 (-) | -- | -- |
+| Energy Regeneration | 3.5 | --| -- |
+| Energy Recharge Increase | 20% | --| -- |
+| Duration | 6s | --| -- |
+| Abundance Amulet Duration | 15s | --| -- |
+| CD | 13.5s | --| -- |
+* Different units can each pick up one **Abundance Amulet** generated from one **Lightning Blade** cast to gain its effects.
+* The Energy Recharge gained from **Abundance Amulets** does not affect the 4-piece bonus from Emblem of Severed Fate.
+
 {% endtab %}
 
 {% tab title="Bellowing Thunder" %}
 You call upon the protection of lightning, knocking nearby opponents back and dealing Electro DMG to them.
 
 **Lightning Shroud**  
-When your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing Electro DMG. When Falling Thunder hits opponents, it will regenerate Energy for that character. One instance of Falling Thunder can be generated every 0.5s.
+When your active character's Normal or Charged Attacks hit opponents, they will call **Falling Thunder** forth, dealing Electro DMG. When **Falling Thunder** hits opponents, it will regenerate Energy for that character. One instance of **Falling Thunder** can be generated every 0.5s.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Skill DMG | 160.16% |
-| Falling Thunder DMG | 45.92% |
-| Energy Regeneration | 0.9 |
-| Duration | 12s |
-| CD | 20s |
-| Energy Cost | 80 |
+| Effect | Talent 6% / Data | GUs |
+| :--- | :--- | ---- |
+| Skill DMG | 160.16% | 1A |
+| Falling Thunder DMG | 45.92% | 1A |
+| Energy Regeneration | 0.9 | -- |
+| Duration | 12s | -- |
+| CD | 20s | -- |
+| Energy Cost | 80 | -- |
+* The energy regenerated from **Falling Thunder** is classified as flat energy.
+* **Falling Thunder** DMG is snapshot on **Bellowing Thunder** cast.
+
 {% endtab %}
 {% endtabs %}
 
@@ -134,19 +143,28 @@ When your active character's Normal or Charged Attacks hit opponents, they will 
 
 {% tabs %}
 {% tab title="Passive" %}
-### Thunderflash
 
-When another nearby character in the party obtains an Abundance Amulet created by Lightning Blade, Lightning Blade's CD is decreased by 1.5s.
+### N/A
+
+404 does not exist.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Resounding Roar
 
-Increases the Energy Recharge effect granted by Lightning Blade's Abundance Amulet by 10% of the Traveler's Energy Recharge.
+### Thunderflash
+
+When another nearby character in the party obtains an Abundance Amulet created by Lightning Blade, Lightning Blade's CD is decreased by 1.5s.
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### 
+
+### Resounding Roar
+
+Increases the Energy Recharge effect granted by Lightning Blade's Abundance Amulet by 10% of the Traveler's Energy Recharge.
+
+This effect only takes into account the Traveler's original Energy Recharge. Picking up an Amulet to increase the Traveler's ER will not impact the amount of ER shared by **Resounding Roar** for other Amulet pickups.
 
 
 {% endtab %}
