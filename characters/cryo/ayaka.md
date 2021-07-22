@@ -43,7 +43,7 @@ Consumes a certain amount of Stamina to unleash a flurry of sword ki.
 | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 80.13%×3 (240.39%) | -- | -- |
 | N1C | 66.46% + 80.13%×3 (306.85%) | 53 | 347.37%/s |
-| N1CJ | 66.46% + 80.13%×3 (306.85%) | 96 | 191.78%/s |
+| N1C Spam | 66.46% + 80.13%×3 (306.85%) | 97 | 189.80%/s |
 
 * Ayaka's charged attack ICDs are separate from her normal attack.
 
@@ -98,6 +98,8 @@ Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no T
 | Energy Cost | 80 | -- |
 * **Kamisato Art: Soumetsu** snapshots
 * The whirl generated will stay in place for large enemies and frozen enemies
+* **Kamisato Art: Soumetsu** deals 20 ticks of damage
+  * 19 ticks of **Cutting DMG** and 1 final tick of **Bloom DMG**
 
 {% endtab %}
 {% endtabs %}
@@ -139,9 +141,10 @@ When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it h
 {% tab title="C2" %}
 ### Blizzard Blade Seki no To
 
-When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.
+When casting Kamisato Art: Soumetsu, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
 
-* All three Frostflake Seki no To (one from burst and the two from C2) can hit the same target.
+* All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
+* The additional **Frostflake Seki no To** have their own separate ICD that follows standard ICD rules.
 
 {% endtab %}
 
@@ -167,6 +170,9 @@ Increases the Level of Kamisato Art: Hyouka by 3. Maximum upgrade level is 15.
 ### Dance of Suigetsu
 
 Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.
+
+* This effect is additive with other sources of DMG%.
+
 {% endtab %}
 {% endtabs %}
 
