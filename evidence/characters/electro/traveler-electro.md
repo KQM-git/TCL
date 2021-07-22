@@ -16,6 +16,12 @@
 * The energy gained from amulets is classified as flat energy. - [ceeeleste#3568](https://imgur.com/a/s1NMEN7)
 * Different characters can each pick up an amulet generated from one cast. - [ceeeleste#3568](https://imgur.com/uvqLztm)
 * The ER granted does not affect 4p Emblem of Severed Fate. - [ye olde dong slot#4986](https://www.youtube.com/watch?v=_ny12y2rL0w)
+* Characters don't have to be on top of an Amulet to pick it up. - [Vivy#5802](https://imgur.com/gallery/bG4poKB)
+* Amulets still generate even if skill hits a shield. - [Vivy#5802](https://imgur.com/gallery/dJTvXaI)
+* The number of Amulets generated depends on the number of Lightning Blades AND the number of enemies hit.
+  * [1 Blade Hit = 1 Amulet](https://imgur.com/ZMaCnWK)
+  * 1 Blade Hit vs 2 Enemies = 2 Amulets - [ye olde dong slot#4986](https://www.youtube.com/watch?v=qaBPV3JdC0c)
+  * 2 Blades Hit = 2 Amulets - [ceeeleste#3568](https://imgur.com/gallery/dJTvXaI)
 
 ### Burst Mechanics
 
