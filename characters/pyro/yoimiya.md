@@ -48,7 +48,7 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Niwabi Fire-Dance" %}
-Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. Niwabi Enshou During this time, arrows fired by Yoimiya's Normal Attack will be Blazing Arrows, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
+Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. Niwabi Enshou During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arrows**, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
 
 | Type | Talent 6% | Duration | Cooldown | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -56,7 +56,11 @@ Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. Niwabi 
 {% endtab %}
 
 {% tab title="Ryuukin Saxifrage" %}
-Yoimiya leaps into the air along with her original creation, the "Ryuukin Saxifrage," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with Aurous Blaze. Aurous Blaze All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by Aurous Blaze will trigger an explosion, dealing AoE Pyro DMG. When an opponent affected by Aurous Blaze is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration. One Aurous Blaze explosion can be triggered every 2s. When Yoimiya is down, Aurous Blaze effects created through her skills will be deactivated.
+Yoimiya leaps into the air along with her original creation, the "**Ryuukin Saxifrage**," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with **Aurous Blaze**. 
+
+
+**Aurous Blaze**
+All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by **Aurous Blaze** will trigger an explosion, dealing AoE Pyro DMG. When an opponent affected by **Aurous Blaze** is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration. One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, **Aurous Blaze** effects created through her skills will be deactivated.
 
 | Effect | Talent 6% / Data | GUs |
 | :--- | :--- | ---- |
