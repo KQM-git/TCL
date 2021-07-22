@@ -374,7 +374,7 @@ In the above video, in the first situation I apply 1U Cryo with Ganyu, then 2U H
 
 **Finding:** Shatter reactions can deal damage only twice within the span of 0.5 seconds.
 
-**Evidence:** [Imgur GIF](https://github.com/Neptunya/TCL/tree/ac437ffe7921b9cce9f43689f1f4334815988929/a/NUt2o6H/README.md)
+**Evidence:** [Imgur GIF](https://imgur.com/a/NUt2o6H)
 
 **Significance:** Shatter damage is constrained in the same way that SC and Swirl is.
 
