@@ -241,6 +241,23 @@ Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
 **Significance:**  
 Provides an alternative method for eliminating annoying mini-dendro slimes.  
 
+### Anemo Slimes get one shot in the air
+
+**By:** Daybreak#0584  
+**Added:** 07/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/867117609450340392/868287985743970314/transcript-anemo-slime-one-shot-in-air.html)
+
+**Finding:**  
+Anemo slimes at any level will instantly die if they take any damage druing their airborne attacks.
+
+**Evidence:** When it jumps into the air for its “bombardment” attack it was killed by an artifact-less lvl 15 amber with a lvl 1, 1* weapon. Notably the slime did not die when hit by Sucrose’s attacks, as anemo slimes are immune to anemo.  
+
+Large Anemo Slime test: [Video](https://youtu.be/kFiRHG2WZ9s)  
+Amall Anemo Slimes test: [Video](https://youtu.be/T3v7y7-NqTE)  
+
+**Significance:**  
+If anemo slimes are ever introduced to the abyss, this information could be useful.
+
 ## General Enemy Interactions
 
 ### Interrupting Enemies Causes Phantom Attacks
