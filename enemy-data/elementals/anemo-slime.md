@@ -10,7 +10,7 @@ It is able to float in the air to a certain degree due to the power of Anemo.
 
 ## Weakspot Details
 
-Anemo Slimes at any level will instanly die if they take any damage during their airborne attacks.  
+Anemo Slimes at any level will instantly die if they take any damage during their airborne attacks.  
 
 ## Resistance Table
 
