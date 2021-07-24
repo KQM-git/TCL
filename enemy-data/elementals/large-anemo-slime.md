@@ -10,7 +10,7 @@ Owing to being comprised of a greater concentration of Anemo, their flotation ab
 
 ## Weakspot Details
 
-Large Anemo Slimes at any level will instanly die if they take any damage during their airborne attacks.  
+Large Anemo Slimes at any level will instantly die if they take any damage during their airborne attacks.  
 
 ## Resistance Table
 
