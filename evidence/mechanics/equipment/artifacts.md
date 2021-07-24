@@ -748,6 +748,28 @@ More data would be needed to reach stronger conclusions. As of right now, there'
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
 
+## Shimenawa's Reminiscence  
+
+### The buff gained and energy drain can not reoccur if effect has been activated.  
+
+**By:** Kourinn\#6001  
+
+Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
+
+## Emblem of Severed Fate  
+
+### 4ESF takes into account both base ER and ER from ascension  
+
+**By:** elijam\#7142
+
+Tested using an A5 Bennett's burst. 
+Damage with 3ESF: 947 non-crit  
+Damage with 4ESF, added piece has DEF and HP stats only: 1257 non-crit  
+Expected ratio: (1+.07)/(1+.07+.25* 1.40)= .75  
+Actual ratio: 947/1257=.75  
+[Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
+[Video for 4ESF](https://youtu.be/xRviv6IJeB0)
+
 ## Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
 
 **By:** ProfHugo#6478  
