@@ -10,7 +10,7 @@ Owing to being comprised of a greater concentration of Anemo, their flotation ab
 
 ## Weakspot Details
 
-> todo
+Large Anemo Slimes at any level will instantly die if they take any damage during their airborne attacks.  
 
 ## Resistance Table
 
@@ -21,7 +21,7 @@ Owing to being comprised of a greater concentration of Anemo, their flotation ab
 | Dendro | 10% |
 | Hydro | 10% |
 | Electro | 10% |
-| Anemo | 10% |
+| Anemo | 100% |
 | Cryo | 10% |
 | Geo | 10% |
 

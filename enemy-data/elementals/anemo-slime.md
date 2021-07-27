@@ -10,7 +10,7 @@ It is able to float in the air to a certain degree due to the power of Anemo.
 
 ## Weakspot Details
 
-> todo
+Anemo Slimes at any level will instantly die if they take any damage during their airborne attacks.  
 
 ## Resistance Table
 
@@ -21,7 +21,7 @@ It is able to float in the air to a certain degree due to the power of Anemo.
 | Dendro | 10% |
 | Hydro | 10% |
 | Electro | 10% |
-| Anemo | 10% |
+| Anemo | 100% |
 | Cryo | 10% |
 | Geo | 10% |
 
