@@ -564,6 +564,56 @@ The spreadsheet has three main columns - for low, medium, and high stats. Each o
 
 Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
 
+### Mistsplitter's Revenge  
+
+#### Mistsplitter's stacks upon burst usage:  
+##### Bennett gains only 1 stack - youyou6093\#6345  
+Evidence:  
+Mistsplitter's passive where using a burst and having less than 100% energy only give Bennett burst 1 stack in total.  
+[Video](https://youtu.be/QpkDTsA8Mjs)  
+Calculation:  
+Atk: 828+303 * 1.26(lv11 burst) = 1209.78  
+Multiplier:  lv11 burst 4.42  
+Dmg bonus multiplier: 1+0.616 (pyro cup + 2cw)+0.2(2noblesse)+(0.24 Mist base bonus)+(0.16 Mist 1 stack) = 2.216  
+Crit dmg muliplier: 1+1.13=2.13  
+Enemy lv multiplier: 0.493 (lv85 ruin guards + lv80 bennett)  
+Enemy pyro res: 0.9  
+Total damage = 1210 * 4.42 * 2.216 * 2.13 * 0.493 * 0.9=11200 matches the damage in the video.  
+
+##### Ayaka gains 2 stacks. - KDK\#1322  
+Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https://www.youtube.com/watch?v=xl6quVmlFZo) [Calculation](https://docs.google.com/spreadsheets/d/1BDMkwKpxeiqRSDaF0z_wu8NB2B-abiwCbRD1ZrrqZNQ/edit#gid=0)  
+
+#### Infused plunge attacks do not gain a stack.
+
+**By** MkO\#1192  
+
+[Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
+[Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)  
+
+### Hakushin Ring  
+
+#### Crystalize, Swirl and Swirl chain reactions work for the effect.  
+
+**By:** ProfHugo\#6478  
+
+[Crystalize](https://www.youtube.com/watch?v=DS-osJvOAV0)  
+[Swirl and chain reactions](https://www.youtube.com/watch?v=PbjH7evrlg4)  
+
+#### Gaining a new buff does not refresh duration.
+
+**By:** ProfHugo\#6478  
+
+[Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
+
+### Kitain Cross Spear  
+
+#### Kitain passive will proc even if carrier has 0 energy.
+
+**By:** ItzSomebody\#0029  
+
+Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)
+
+
 ### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
 
 **Added:** 11/9/2020

@@ -240,7 +240,9 @@
 | :--- | :--- |
 | Sakura Saiguu | After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **10/12.5/15/17.5/20**% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked. |
 | Base ATK | 44 - 565 |
-| ER% | 6.7 - 30.6% |
+| ER% | 6.7 - 30.6% |  
+* Crytallize, Swirl and Swirl chain reactions work for the effect.  
+* Buff does not get refreshed.  
 {% endtab %}
 
 {% tab title="Details" %}
