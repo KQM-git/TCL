@@ -61,7 +61,7 @@ $$
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **CritRate** | The total crit rate, including the 5% base crit rate and bonuses from artifacts, etc. |
-| **CritDamage** | The total crit damage, including the 50% base crit rate and bonuses from artifacts, etc. |
+| **CritDamage** | The total crit damage, including the 50% base crit damage and bonuses from artifacts, etc. |
 
 ## Enemy Defense
 
