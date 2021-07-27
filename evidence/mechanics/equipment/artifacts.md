@@ -145,6 +145,59 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 * Pyro supports can hold 4 set crimson witch and be quickly swapped in and out to drop their persistent pyro abilities without losing the bonus damage to overload.
 * 4CW set effect applies even if the holder is not the active character. However, the holder must provide the triggering element.
 
+## Emblem of Severed Fate  
+
+### 4ESF takes into account both base ER and ER from ascension  
+
+**By:** elijam\#7142
+
+Tested using an A5 Bennett's burst. 
+Damage with 3ESF: 947 non-crit  
+Damage with 4ESF, added piece has DEF and HP stats only: 1257 non-crit  
+Expected ratio: (1+.07)/(1+.07+.25* 1.40)= .75  
+Actual ratio: 947/1257=.75  
+[Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
+[Video for 4ESF](https://youtu.be/xRviv6IJeB0)
+
+## Instructor
+
+### 4pc Instructor only procs on field
+
+**By:** NZPIEFACE#8439  
+**Added:** 07/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
+
+**Finding:**  
+Instructor user needs to be on the field to trigger the 4-set bonus
+
+**Evidence:**  
+[Video playlist](https://www.youtube.com/playlist?list=PLubNP2Z7jM8o0QU9GEpLLkhEgNKaMt-Ge)  
+Units that were tested:
+
+* Fischl - C6/E
+* Albedo - E
+* Sucrose - Q
+* Amber - E
+* Hu Tao - E flowers
+
+**Significance:**  
+Make sure to land the reaction before swapping off the Instructor user.
+
+### Instructor duration extend
+
+**By:** ItzSomebody#0029  
+**Added:** 07/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866197006732754945/867165516417335296/transcript-instructor-duration-extend.html)
+
+**Finding:**  
+Triggering another reaction during 4pc instructor buff extends duration of buff
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=4f67sG0tfqk)
+
+**Significance:**  
+The buff time can be extended by swapping back into the carrier and triggering a reaction.
+
 ## Maiden Beloved
 
 ### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
@@ -238,6 +291,14 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 * [Vs wood tower shields](https://youtu.be/Gfcc__WOHRw)  
 
 **Significance:** 4pc Millelith can have 100% uptime even against enemies that block all incoming damage.
+
+## Shimenawa's Reminiscence  
+
+### The buff gained and energy drain can not reoccur if effect has been activated.  
+
+**By:** Kourinn\#6001  
+
+Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 
 ## Thundering Fury
 
@@ -670,30 +731,6 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
-## Instructor
-
-### 4pc Instructor only procs on field
-
-**By:** NZPIEFACE#8439  
-**Added:** 07/14/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
-
-**Finding:**  
-Instructor user needs to be on the field to trigger the 4-set bonus
-
-**Evidence:**  
-[Video playlist](https://www.youtube.com/playlist?list=PLubNP2Z7jM8o0QU9GEpLLkhEgNKaMt-Ge)  
-Units that were tested:
-* Fischl - C6/E
-* Albedo - E
-* Sucrose - Q
-* Amber - E
-* Hu Tao - E flowers
-
-
-**Significance:**  
-Make sure to land the reaction before swapping off the Instructor user.
-
 ## **Artifact Substats Distribution**
 
 **By:SafconGalore\#9752**
@@ -748,28 +785,6 @@ More data would be needed to reach stronger conclusions. As of right now, there'
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
 
-## Shimenawa's Reminiscence  
-
-### The buff gained and energy drain can not reoccur if effect has been activated.  
-
-**By:** Kourinn\#6001  
-
-Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
-
-## Emblem of Severed Fate  
-
-### 4ESF takes into account both base ER and ER from ascension  
-
-**By:** elijam\#7142
-
-Tested using an A5 Bennett's burst. 
-Damage with 3ESF: 947 non-crit  
-Damage with 4ESF, added piece has DEF and HP stats only: 1257 non-crit  
-Expected ratio: (1+.07)/(1+.07+.25* 1.40)= .75  
-Actual ratio: 947/1257=.75  
-[Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
-[Video for 4ESF](https://youtu.be/xRviv6IJeB0)
-
 ## Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
 
 **By:** ProfHugo#6478  
@@ -807,18 +822,3 @@ Charts by Zakharov#5645: [Imgur](https://imgur.com/9LoeHW1)
 
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance
-
-## Instructor duration extend
-
-**By:** ItzSomebody#0029  
-**Added:** 07/21/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866197006732754945/867165516417335296/transcript-instructor-duration-extend.html)
-
-**Finding:**  
-Triggering another reaction during 4pc instructor buff extends duration of buff
-
-**Evidence:**  
-[Video](https://www.youtube.com/watch?v=4f67sG0tfqk)
-
-**Significance:**  
-The buff time can be extended by swapping back into the carrier and triggering a reaction.
