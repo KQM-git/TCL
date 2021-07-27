@@ -142,3 +142,93 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **Significance:** It'll be relevant whenever more overworld mechanics are added which refresh when tping in/out or if we get more map tabs.  
 
+## Coordinates translation methods  
+
+**By:** Mcpie#8672  
+**Added:** 07/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345502047764490/867159298671640616/transcript-coordinates-translation-methods.html)  
+
+**Theory:** Coordinates translation methods from in-game coordinates into official teyvat map and vice versa.  
+[Official Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)  
+
+Translation snippet:  
+If you open feedback url and paste the snippet below into the console, it will give you your current coordinates as you would see them on center parameter url in interactive map.  
+```javascript
+coords = JSON.parse(decodeURIComponent((new URLSearchParams(window.location.search)).get('ext'))).loc;
+f1 = ((x, y, z) => [-x + 2329.9357585906982, -z - 749.9086303710938]);
+f1(coords.x, coords.y, coords.z);
+```
+
+Here is the reversal snippet, which assumes that you're on the interactive map and you want to get the coordinates in game of your current visible center:  
+```javascript
+coords = String(window.location).split('&').find(e => e.match(/^center=(.*)$/)).split('=')[1].split(',').map(e => +e);
+f2 = ((x, y) => [-x + 2329.9357585906982, 200, -y - 749.9086303710938]);
+f2(...coords);
+```
+
+NOTE: (calculations were done in patch 1.6)
+
+**Evidence:** Official map url (query parameters) contain two variables: `center` and `zoom`. `zoom` does not matter at all in calculations because the translation function applies a vector, therefore there is no scaling and everything is 1-1 with a manipulated OX and OY axises directions.  
+
+**IMPORTANT:**  
+The format from `center`, which is `center=x,y` is reversed in the database, so if you were to look into requests and something seems off - that's because each coordinate is stored in the system with attributes `x_pos` and `y_pos`. If we had to translate it directly into the url, it would be `center=${y_pos},${x_pos}`.  
+From now on, I am assuming a format `center=x,y` is a correct one, because it's easier to manipulate for common folks.  
+
+Method used to get translation vector:  
+1. Find `(0,0)` in game - use feedback url and go north/east/west/south and compare it against previous coordinates.  
+2. Once `(0,0)` is found, create a new pin here.  
+3. Go to Official Teyvat Map and synchronize your in-game pins. You might need to wait few minutes/hours before it's properly synced - try refreshing the page.  
+4. While still on the page, open the console and start tracking network requests. You're looking for `https://api-os-takumi.mihoyo.com/common/map_user/ys_obc/v1/map/spot/get_map_spots_by_kinds`  
+5. Toggle visible pins from the same category as the one you placed in game. Request should respond with a list of pins. Each pin has x_pos and y_pos attribute.  
+Example pin: `{ x_pos: 585.788330078125, y_pos: -362.876220703125 }`  
+However, as stated above - this is reversed in center parameter in the url for unknown to me reason. Keep that in mind.  
+6. If you managed to find the pin you created, it should have values `{ x_pos: 749.9086303710938), y_pos: 2329.9357585906982 }` - this represents the translation vector.  
+
+**Images:**  
+Map center pin: [https://i.imgur.com/D43fqoJ.jpg](https://i.imgur.com/D43fqoJ.jpg)  
+Screenshot from this pin: [https://i.imgur.com/ym4TOvB.png](https://i.imgur.com/ym4TOvB.png)
+
+Method used to figure out directions:  
+1. Note coordinates  
+2. Go strictly east and note coordinates again. Only one of them should change.  
+3. Go strictly north this time and note coordinates again. Only one of them should change compared to the ones from step 2.  
+4. Perform the same action but for interactive map. Now play around with coordinates and decide whether you need to multiply scalar by (-1) or not in translation function.  
+5. In our case, in-game -> interactive map requires (-1) on both scalars.  
+Image representing coordinate axises (assumes `center=x,y` format):  
+[https://i.imgur.com/rEy06Mq.png](https://i.imgur.com/rEy06Mq.png)
+
+Method used to get in-game -> interactive map scale:  
+1. Place 2 pins rather far away from each other (in order to reduce the error).  
+2. Go to first pin -> feedback url and extract the coordinates.  
+3. Repeat for second pin.  
+4. Now do the same, but by extracting direct coordinates from network tracking on interactive map.  
+The differences on respective axises should be the same. Remember that coordinates from the database are reversed.  
+Now that we figured out the translation vector, scale and direction of target, we can create a translation from in-game coordinate system to interactive map coordinates system.  
+
+If you open feedback url and paste this snippet into the console, it will give you your current coordinates as you would see them on center parameter in interactive map.  
+```javascript
+coords = JSON.parse(decodeURIComponent((new URLSearchParams(window.location.search)).get('ext'))).loc;
+f1 = ((x, y, z) => [-x + 2329.9357585906982, -z - 749.9086303710938]);
+f1(coords.x, coords.y, coords.z);
+```
+
+Since `1: R^3 -> R^2` then one variable (altitude) is completely lost, hence the reversal is impossible with altitude variable restored.
+
+Here is the reversal snippet, which assumes that you're on the interactive map and you want to get the coordinates in game of your current visible center:  
+```javascript
+coords = String(window.location).split('&').find(e => e.match(/^center=(.*)$/)).split('=')[1].split(',').map(e => +e);
+f2 = ((x, y) => [-x + 2329.9357585906982, 200, -y - 749.9086303710938]);
+f2(...coords);
+```
+
+As a confirmation, you can run this snippet on any coordinate you would like.  
+```javascript
+coords = [100, 200, 300]
+f1 = ((x, y, z) => [-x + 2329.9357585906982, -z - 749.9086303710938]);
+f2 = ((x, y) => [-x + 2329.9357585906982, 200, -y - 749.9086303710938]);
+result = f2(...f1(...coords))
+```
+
+due to IEEE 754, the result will be off at epsilon level.
+
+**Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
