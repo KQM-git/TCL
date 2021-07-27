@@ -280,6 +280,7 @@
 
 {% tab title="Findings" %}
 * The 4pc set bonus requires its user to be on the field when the Elemental Reaction is triggered.
+* Triggering another reaction during 4pc set buff extends its duration.
 {% endtab %}
 {% endtabs %}
 

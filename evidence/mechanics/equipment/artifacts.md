@@ -778,10 +778,25 @@ For characters building around triggering transformative reactions, if they do n
 4VV swirl damage set bonus is more valuable than 104 EM at 304 initial EM from artifact main stats, artifact subs, weapon secondary stats and passives, and ascension; 160EM at 842 initial EM; and 200EM at 1168 initial EM; when only swirl damage is taken into account.  
 These numbers were chosen to represent the value of 2WT2Ins, 4Ins with 4pc bonus active, and 4Ins with 4pc bonus active but set bonus discounted by 96EM to account for the loss of EM from downgrading two 5* main stat artifacts to 4* artifacts.
 
-**Evidence:** 
+**Evidence:**  
 Desmos chart for calculations: [Desmos Link](https://www.desmos.com/calculator/yeeskwsw42)
 
 Charts by Zakharov#5645: [Imgur](https://imgur.com/9LoeHW1)
 
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance
+
+## Instructor duration extend
+
+**By:** ItzSomebody#0029  
+**Added:** 07/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866197006732754945/867165516417335296/transcript-instructor-duration-extend.html)
+
+**Finding:**  
+Triggering another reaction during 4pc instructor buff extends duration of buff
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=4f67sG0tfqk)
+
+**Significance:**  
+The buff time can be extended by swapping back into the carrier and triggering a reaction.
