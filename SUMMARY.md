@@ -61,6 +61,7 @@
   * [Xiangling](characters/pyro/xiangling.md)
   * [Xinyan](characters/pyro/xinyan.md)
   * [Yanfei](characters/pyro/yanfei.md)
+  * [Yoimiya](characters/pyro/yoimiya.md)
 
 ## Mechanics
 
@@ -297,6 +298,7 @@
       * [Xiangling](evidence/characters/pyro/xiangling.md)
       * [Xinyan](evidence/characters/pyro/xinyan.md)
       * [Yanfei](evidence/characters/pyro/yanfei.md)
+      * [Yoimiya](evidence/characters/pyro/yoimiya.md)
   * [Mechanics](evidence/mechanics/README.md)
     * [Combat](evidence/mechanics/combat/README.md)
       * [Damage Formula](evidence/mechanics/combat/damage-formula.md)
