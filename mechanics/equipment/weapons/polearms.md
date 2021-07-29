@@ -350,6 +350,7 @@
 | Magic Affinity | After using an Elemental Skill, increases Normal and Charged Attack DMG by **8/10/12/14/16**% for 12s. Max 2 stacks. |
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
+* Each stack gained will refresh the duration of existing stacks.  
 {% endtab %}
 
 {% tab title="Details" %}

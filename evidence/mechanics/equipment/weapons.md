@@ -525,6 +525,24 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine
 
+### Prototype Starglitter
+
+#### Prototype Starglitter Stacks Duration Refresh
+
+**By:** elijam#7142  
+**Added:** 07/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869121335903813682/870107482016579624/transcript-starglitter-stack-refresh.html)
+
+**Finding:**  
+Gaining Prototype Starglitter stacks refreshes the duration of existing stacks
+
+**Evidence:**  
+CA damage on non crit before any skill uses is 181. First skill use at 30s, CA damage after first skill use with one stack on Prototype Starglitter is 196. Second skill use at 37s, CA damage after first skill use with two stacks is 210. CA damage is 210 again at 48s, after first stack would have expired if stacks were independent, and 181 again at 53s, after both stacks would have expired if gaining stacks refreshes the duration of existing stacks.  
+[https://www.youtube.com/watch?v=eL06QKuVaUU](https://www.youtube.com/watch?v=eL06QKuVaUU)
+
+**Significance:**  
+Affects stack uptime considerations for polearm users with skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
+
 ## General Mechanics
 
 ### Attack Speed Buffs on Claymores
