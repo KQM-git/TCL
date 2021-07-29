@@ -165,6 +165,7 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
+* The duration of all seeds is refreshed upon gaining a new seed.
 {% endtab %}
 {% endtabs %}
 

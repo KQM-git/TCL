@@ -13,11 +13,11 @@
 * Ayaka Frames - [Sitri#9504](https://docs.google.com/spreadsheets/d/1Q72fXo7XAF2dhMphwTDmsT2Kag8aVPOYhWwXo8I0l9w/edit?usp=sharing)
 * Ayaka's CA does not share ICD with her NA. - [Steph#3614](https://imgur.com/0sNof3m)
 * Ranges - Greyhound#7836
-  * CA: [5m by 5m square](https://www.youtube.com/watch?v=K4YIPsyX4-8) 
+  * CA: WIP/TBD.
   * E: [3.5m radius circle](https://www.youtube.com/watch?v=KijBkD0w00I) 
   * Q: [Slashes 3.5 meter radius circle & Final explosion 4 meter radius circle](https://www.youtube.com/watch?v=Sri2O3_cPbo) 
-  * [Ayaka CA range visualisation](https://imgur.com/a/32rxdYo)
-* Ayaka + Venti Interactions - [Shooleam#4887](https://youtu.be/B0yb74D6LrY)
+* Ayaka + Venti Interactions - [Shooleam#4887](https://youtu.be/B0yb74D6LrY)  
+* Ayaka's infusion is only applied once on cast - [2ri\#0945](https://imgur.com/2SQMtbU)
 
 ### Skill Mechanics
 
