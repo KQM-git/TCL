@@ -222,7 +222,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | Joint Attack | 30% of Fischl's ATK | No Limit | 1A | 0 | Elemental Skill |
 
 * The joint attack has an elemental application ICD of 2s.
-* The joint attack is an echo effect
+* The joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like Xingqiu's rainswords.
 * C6 benefits from The Stringless
 * C6 can crit
 {% endtab %}
