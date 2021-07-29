@@ -275,7 +275,45 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 
 ## Specific Weapon Mechanics
 
+### Amenoma Kageuchi  
+
+#### Seed duration  
+
+**By:** MkO\#1192  
+
+[Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)  
+
+#### Flat energy confirmation  
+
+**By:** Sylfae\#1210  
+
+[100% ER](https://imgur.com/5qW7jew) [232% ER](https://imgur.com/6yVUgt7)
+
+
+### Hakushin Ring  
+
+#### Crystalize, Swirl and Swirl chain reactions work for the effect.  
+
+**By:** ProfHugo\#6478  
+
+[Crystalize](https://www.youtube.com/watch?v=DS-osJvOAV0)  
+[Swirl and chain reactions](https://www.youtube.com/watch?v=PbjH7evrlg4)  
+
+#### Gaining a new buff does not refresh duration.
+
+**By:** ProfHugo\#6478  
+
+[Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
+
 ### Lost Prayer to the Sacred Winds
+
+### Kitain Cross Spear  
+
+#### Kitain passive will proc even if carrier has 0 energy.
+
+**By:** ItzSomebody\#0029  
+
+Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
 
 #### Lost Prayer Stack Mechanics
 
@@ -308,6 +346,33 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
 
+### Mistsplitter's Revenge  
+
+#### Mistsplitter's stacks upon burst usage:  
+
+##### Bennett gains only 1 stack - youyou6093\#6345  
+Evidence:  
+Mistsplitter's passive where using a burst and having less than 100% energy only give Bennett burst 1 stack in total.  
+[Video](https://youtu.be/QpkDTsA8Mjs)  
+Calculation:  
+Atk: 828+303 * 1.26(lv11 burst) = 1209.78  
+Multiplier:  lv11 burst 4.42  
+Dmg bonus multiplier: 1+0.616 (pyro cup + 2cw)+0.2(2noblesse)+(0.24 Mist base bonus)+(0.16 Mist 1 stack) = 2.216  
+Crit dmg muliplier: 1+1.13=2.13  
+Enemy lv multiplier: 0.493 (lv85 ruin guards + lv80 bennett)  
+Enemy pyro res: 0.9  
+Total damage = 1210 * 4.42 * 2.216 * 2.13 * 0.493 * 0.9=11200 matches the damage in the video.  
+
+##### Ayaka gains 2 stacks. - KDK\#1322  
+Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https://www.youtube.com/watch?v=xl6quVmlFZo) [Calculation](https://docs.google.com/spreadsheets/d/1BDMkwKpxeiqRSDaF0z_wu8NB2B-abiwCbRD1ZrrqZNQ/edit#gid=0)  
+
+#### Infused plunge attacks do not gain a stack.
+
+**By** MkO\#1192  
+
+[Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
+[Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)  
+
 ### Primordial Jade-Winged Spear
 
 #### **PJWS On Hit Definision**
@@ -320,6 +385,24 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 **Evidence:** [Skill Stacking](https://www.youtube.com/watch?v=TJZL7fOpCFo), [Burst Stacking](https://www.youtube.com/watch?v=W9Pq9CsDg_Q), [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
 
 **Significance:** Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
+
+### Prototype Starglitter
+
+#### Prototype Starglitter Stacks Duration Refresh
+
+**By:** elijam#7142  
+**Added:** 07/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869121335903813682/870107482016579624/transcript-starglitter-stack-refresh.html)
+
+**Finding:**  
+Gaining Prototype Starglitter stacks refreshes the duration of existing stacks
+
+**Evidence:**  
+CA damage on non crit before any skill uses is 181. First skill use at 30s, CA damage after first skill use with one stack on Prototype Starglitter is 196. Second skill use at 37s, CA damage after first skill use with two stacks is 210. CA damage is 210 again at 48s, after first stack would have expired if stacks were independent, and 181 again at 53s, after both stacks would have expired if gaining stacks refreshes the duration of existing stacks.  
+[https://www.youtube.com/watch?v=eL06QKuVaUU](https://www.youtube.com/watch?v=eL06QKuVaUU)
+
+**Significance:**  
+Affects stack uptime considerations for polearm users with skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
 
 ### Rust
 
@@ -523,70 +606,7 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 [https://youtu.be/ZXYUcnA-80A](https://youtu.be/ZXYUcnA-80A)
 
 **Significance:**  
-Multiple WGS can kinda suck if they're not equal refine  
-
-### Mistsplitter's Revenge  
-
-#### Mistsplitter's stacks upon burst usage:  
-##### Bennett gains only 1 stack - youyou6093\#6345  
-Evidence:  
-Mistsplitter's passive where using a burst and having less than 100% energy only give Bennett burst 1 stack in total.  
-[Video](https://youtu.be/QpkDTsA8Mjs)  
-Calculation:  
-Atk: 828+303 * 1.26(lv11 burst) = 1209.78  
-Multiplier:  lv11 burst 4.42  
-Dmg bonus multiplier: 1+0.616 (pyro cup + 2cw)+0.2(2noblesse)+(0.24 Mist base bonus)+(0.16 Mist 1 stack) = 2.216  
-Crit dmg muliplier: 1+1.13=2.13  
-Enemy lv multiplier: 0.493 (lv85 ruin guards + lv80 bennett)  
-Enemy pyro res: 0.9  
-Total damage = 1210 * 4.42 * 2.216 * 2.13 * 0.493 * 0.9=11200 matches the damage in the video.  
-
-##### Ayaka gains 2 stacks. - KDK\#1322  
-Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https://www.youtube.com/watch?v=xl6quVmlFZo) [Calculation](https://docs.google.com/spreadsheets/d/1BDMkwKpxeiqRSDaF0z_wu8NB2B-abiwCbRD1ZrrqZNQ/edit#gid=0)  
-
-#### Infused plunge attacks do not gain a stack.
-
-**By** MkO\#1192  
-
-[Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
-[Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)  
-
-### Hakushin Ring  
-
-#### Crystalize, Swirl and Swirl chain reactions work for the effect.  
-
-**By:** ProfHugo\#6478  
-
-[Crystalize](https://www.youtube.com/watch?v=DS-osJvOAV0)  
-[Swirl and chain reactions](https://www.youtube.com/watch?v=PbjH7evrlg4)  
-
-#### Gaining a new buff does not refresh duration.
-
-**By:** ProfHugo\#6478  
-
-[Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
-
-### Kitain Cross Spear  
-
-#### Kitain passive will proc even if carrier has 0 energy.
-
-**By:** ItzSomebody\#0029  
-
-Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
-
-### Amenoma Kageuchi  
-
-#### Seed duration  
-
-**By:** MkO\#1192  
-
-[Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)  
-
-#### Flat energy confirmation  
-
-**By:** Sylfae\#1210  
-
-[100% ER](https://imgur.com/5qW7jew) [232% ER](https://imgur.com/6yVUgt7)
+Multiple WGS can kinda suck if they're not equal refine
 
 ## General Mechanics
 
