@@ -569,3 +569,16 @@ After HoD buff is gone:
 566 + 142  
 
 **Significance:**  Potentially relevant data for Fischl main dps calcs.
+
+## C6 Fischl Multi-Hit
+
+**By:** Aluminum#5462  
+**Added:** 07/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865067427287924806/870110282918293584/transcript-c6-fischl-multihitgaming.html)
+
+**Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ rainswords.
+
+**Evidence:**  
+[https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)  
+
+**Significance:**  Fairly important to calcs involving C6 Fischl
