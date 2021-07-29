@@ -523,46 +523,7 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 [https://youtu.be/ZXYUcnA-80A](https://youtu.be/ZXYUcnA-80A)
 
 **Significance:**  
-Multiple WGS can kinda suck if they're not equal refine
-
-## General Mechanics
-
-### Attack Speed Buffs on Claymores
-
-**By:** EternalDream\#5503
-
-**Added:** 2/4/2021
-
-**Finding**: Attack Speed buffs do not dynamically affect Claymore Charged Attacks
-
-**Evidence**: Side by side comparisons of a C0 vs C1 Xinyan
-
-* [Triggered during spin](https://www.youtube.com/watch?v=lH6l4_oqJ7s)
-* [Triggered before spin](https://www.youtube.com/watch?v=Ln5VSljl3BY)
-
-**Significance**: If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
-
-### Catalyst Effective Attack Comparisons
-
-**By:** Maygi\#4987
-
-**Findings**
-
-Catalyst effective attack comparisons - see spreadsheet below.
-
-**Evidence**
-
-[https://imgur.com/a/TpQsJqS ](https://imgur.com/a/TpQsJqS%20)
-
-**Methodology**
-
-Effective attack was calculated with a simple piecewise function that takes into account crit rate, crit damage, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
-
-The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon crit rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
-
-**Significance**
-
-Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
+Multiple WGS can kinda suck if they're not equal refine  
 
 ### Mistsplitter's Revenge  
 
@@ -611,8 +572,60 @@ Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https
 
 **By:** ItzSomebody\#0029  
 
-Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)
+Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
 
+### Amenoma Kageuchi  
+
+#### Seed duration  
+
+**By:** MkO\#1192  
+
+[Gaining a new seed will refresh the duration of previously gained seeds.](https://www.youtube.com/watch?v=JCYVDeqXUr8)  
+
+#### Flat energy confirmation  
+
+**By:** Sylfae\#1210  
+
+[100% ER](https://imgur.com/5qW7jew) [232% ER](https://imgur.com/6yVUgt7)
+
+## General Mechanics
+
+### Attack Speed Buffs on Claymores
+
+**By:** EternalDream\#5503
+
+**Added:** 2/4/2021
+
+**Finding**: Attack Speed buffs do not dynamically affect Claymore Charged Attacks
+
+**Evidence**: Side by side comparisons of a C0 vs C1 Xinyan
+
+* [Triggered during spin](https://www.youtube.com/watch?v=lH6l4_oqJ7s)
+* [Triggered before spin](https://www.youtube.com/watch?v=Ln5VSljl3BY)
+
+**Significance**: If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
+
+### Catalyst Effective Attack Comparisons
+
+**By:** Maygi\#4987
+
+**Findings**
+
+Catalyst effective attack comparisons - see spreadsheet below.
+
+**Evidence**
+
+[https://imgur.com/a/TpQsJqS ](https://imgur.com/a/TpQsJqS%20)
+
+**Methodology**
+
+Effective attack was calculated with a simple piecewise function that takes into account crit rate, crit damage, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.
+
+The spreadsheet has three main columns - for low, medium, and high stats. Each one simulates the every possible substat combination with a total of 10, 20, or 30 offensive lines \(maximum possible rolls is 38, but nobody will ever get such lines - right?\). Royal weapon crit rate is simulated on each possible combination of stats. The base stats used were that of a level 90 Klee using 2 piece Gladiator and 2 piece Witch set.
+
+**Significance**
+
+Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
 
 ### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
 
