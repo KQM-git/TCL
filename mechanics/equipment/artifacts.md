@@ -67,13 +67,14 @@
 ### Emblem of Severed Fate
 
 {% tabs %}
-{% tab title="Description" %}
+{% tab title="Description" %}  
 * 2 Piece Set Bonus: Energy Recharge +20%
 * 4 Piece Set Bonus: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
 {% endtab %}  
 
 {% tab title="Findings" %}  
 * The base 100% ER and character ascesion ER is counted towards the bonus.  
+{% endtab %}  
 {% endtabs %}
 
 ### Gladiator's Finale
@@ -168,6 +169,7 @@
 {% tab title="Findings" %}  
 * The effect cannot be refreshed.  
 * Energy will not be drained by using elemental skill while the effect is active.  
+{% endtab %}
 {% endtabs %}
 
 ### Tenacity of the Millelith
