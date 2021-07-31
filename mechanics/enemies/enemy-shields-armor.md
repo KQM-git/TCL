@@ -229,6 +229,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 | Anemo | 32GU |
 | Geo | 32GU |
 {% endtab %}
+
 {% endtabs %}
 
 ### Regisvines
