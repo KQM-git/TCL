@@ -98,3 +98,20 @@ With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vap
 
 **Significance:**  
 Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy compared to other teams.
+
+
+## Longer PP with one simple trick  
+
+**By:** Aluminum\#5462 & Isu\#6867  
+**Added:** 08/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870511694156267581/871411510004559902/transcript-longer-pp-with-one-simple-trick.html)  
+
+**Finding:**  
+If you do not dash or jump cancel Hu Tao's charged attack, the Paramita Papilio state will not end during a queued burst.  
+
+**Evidence:**  
+[Video 1](https://youtu.be/q-B5W7Tw4VA) [Video 2](https://www.youtube.com/watch?v=AQdeKmZ2vuY)  
+
+**Significance:**  
+When ending Hu Tao combos with a burst, it may be advisable to not cancel the final attack.  
+
