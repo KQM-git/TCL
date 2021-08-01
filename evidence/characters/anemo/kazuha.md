@@ -110,7 +110,7 @@ Even with high investment Kazuha (Bennett Buff, Jade Cutter, 25 substats) it is 
 Due to infusion priority mechanics, Kazuha can swirl cryo with his burst while infusing with pyro, which allows him to buff Cryo DMG% and shred cryo resistance while infusing his burst with pyro.  
 
 **Evidence:**  
-https://www.youtube.com/watch?v=-US58DgMhzw&ab_channel=KeqingMains  
+[Video](https://www.youtube.com/watch?v=-US58DgMhzw&ab_channel=KeqingMains)  
 
 **Significance:**  
 New Ganyu melt team
