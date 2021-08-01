@@ -98,3 +98,19 @@ Direct download link for calculating sheet files:
 
 **Signifiance:**  
 Even with high investment Kazuha (Bennett Buff, Jade Cutter, 25 substats) it is more beneficial to team damage to run an EM/EM/EM build over an ATK/Anemo/Crit build in teams where Kazuha plays a supporting role.
+
+
+## Kazooka  
+
+**By:** Ayzel/#7399  
+**Added:** 01/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859722735756509226/871419109328420914/transcript-kazooka.html)
+
+**Finding:**  
+Due to infusion priority mechanics, Kazuha can swirl cryo with his burst while infusing with pyro, which allows him to buff Cryo DMG% and shred cryo resistance while infusing his burst with pyro.  
+
+**Evidence:**  
+https://www.youtube.com/watch?v=-US58DgMhzw&ab_channel=KeqingMains  
+
+**Significance:**  
+New Ganyu melt team
