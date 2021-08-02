@@ -17,7 +17,8 @@
   * E: [3.5m radius circle](https://www.youtube.com/watch?v=KijBkD0w00I) 
   * Q: [Slashes 3.5 meter radius circle & Final explosion 4 meter radius circle](https://www.youtube.com/watch?v=Sri2O3_cPbo) 
 * Ayaka + Venti Interactions - [Shooleam#4887](https://youtu.be/B0yb74D6LrY)  
-* Ayaka's infusion is only applied once on cast - [2ri\#0945](https://imgur.com/2SQMtbU)
+* Ayaka's infusion is only applied once on cast - [2ri\#0945](https://imgur.com/2SQMtbU)  
+* Ayaka's Dash follows the standard 3-hit, 2.5s ICD rule. - [Ayzel/#7399](https://www.youtube.com/watch?v=grYqUp_JJRM&ab_channel=TenTen)  
 
 ### Skill Mechanics
 

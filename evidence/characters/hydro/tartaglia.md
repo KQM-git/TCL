@@ -257,3 +257,18 @@ Childe can forward vaporize both his melee burst, and Riptide Blast given enough
 **Significance:**   
 Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadratically with the number of targets in range. Being able to achieve this double vaporize could increase his damage dramatically.
 
+
+## Childe E can reset on revive  
+
+**By:** yourmom\#9901  
+**Added:** 08/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870347001961799680/871413502487691354/transcript-childe-e-cooldown-resets-upon-death.html)  
+
+**Finding:**  
+ Childe skill CD reset upon death.  
+ 
+ **Evidence:**  
+ In the [video](https://www.youtube.com/watch?v=ZadmS_K-h9c), Childe goes into melee stance, jumps off a cliff and dies. I wait a little at the beginning to make sure that Childe doesn't automatically revert back to ranged stance. When Childe revives, he can reenter melee stance without a cooldown. 3 extra test subjects to show that it's Childe specific: [1](https://www.youtube.com/watch?v=lBgYFEKhQVc) [2](https://www.youtube.com/watch?v=Ngde38rIITY) [3](https://www.youtube.com/watch?v=lSwEidnwimU).  
+ [And one more to show that its only skill, not burst.](https://www.youtube.com/watch?v=qr2DRNzU2-o)  
+ 
+ **Significance:** You could die, and extend melee duration. probably not that useful tho.  
