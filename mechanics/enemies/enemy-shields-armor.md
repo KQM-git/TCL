@@ -219,7 +219,6 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 | Anemo | 60GU |
 | Geo | 60GU |
 {% endtab %}
-{% endtabs %}
 
 {% tab title="Thunderhelm Lawachurl" %}
 | Elemental Source | Gauge Units Required |
@@ -231,6 +230,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 | Geo | 32GU |
 {% endtab %}
 
+{% endtabs %}
 
 ### Regisvines
 
