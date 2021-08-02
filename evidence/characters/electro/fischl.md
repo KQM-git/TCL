@@ -582,3 +582,16 @@ After HoD buff is gone:
 [https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)  
 
 **Significance:**  Fairly important to calcs involving C6 Fischl
+
+## Fischl A1 Amos Interaction
+
+**By:** jstern25#1399  
+**Added:** 08/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/862426871736434708/871559616348184607/transcript-fischl-a1-multiplicative-amos-interaction.html)
+
+**Finding:** Fischl A1 Amos buff is based on the distance between Oz and enemy, not fischl and Oz.
+
+**Evidence:**  
+[https://www.youtube.com/watch?v=lWoIZjSL6rc](https://www.youtube.com/watch?v=lWoIZjSL6rc)  
+
+**Significance:**  Social distancing
