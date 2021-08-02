@@ -83,6 +83,8 @@ Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura 
 
 The duration of Freeze is dependent on the lowest gauge element when it is triggered, regardless of their order. It scales non-linearly with the aura strength of Hydro and Cryo.
 
+***Note:*** The freeze table is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
+
 ![Full Graph: https://www.desmos.com/calculator/jwzecgzmld](https://lh6.googleusercontent.com/tLWq_98umk5Rn-YU_WLdlweAiXhhtW8GoNnHBDkwYOlGcBYUNEbZ9APjau0DTIQO3rknFiMpm0alaWnFWaXZHxdoA0uNNkcz19YaFV4PeWZAhTWxBk9srGKQKdHyenyUwlPrtk8l)
 
 The behavior of Freeze curves to give diminishing returns at higher GU values. This curve predicts a duration of about 5.7s for 2U.
