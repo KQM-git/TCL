@@ -221,26 +221,6 @@ Consider the following Electro-charged concepts:
 * 62f: disappearance of EC dmg value
 * 68f: appearance of 2nd EC dmg value and hp reduction in hp bar
 
-### Interaction of Other Elements with Electrocharged Targets
-
-**By:** EternalDream\#5503
-
-When Electro-Charged is applied to a target and both Hydro and Electro aura remain, any further reactions from either Pyro or Cryo will trigger both the relevant reactions, not just one of them.
-
-It is also notably not the Electro-related reaction that triggers the second one, as demonstrated by the Pyro reaction correctly Vaporizing the attack talent damage, and not the Overload damage. Both occur simultaneously.
-
-**Evidence:**
-
-[https://youtu.be/UPm5WwZyGFA](https://youtu.be/UPm5WwZyGFA)
-
-[https://youtu.be/iUSVzfPiq-E](https://youtu.be/iUSVzfPiq-E)
-
-**Significance:**
-
-For teams that rely on Superconduct uptime, a Hydro unit does not interfere with the ability to cause Superconduct with a Cryo ability, as regardless of which element remains after an Electro-Charged reaction \(only Electro remaining, only Hydro remaining, or both remaining for further Electro-Charged ticks\), you will always be able to trigger Superconduct, at worst with an Electro attack into Frozen.
-
-***Note:*** This ticket is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
-
 ### How Hitlag affects EC
 
 **By:** BowlSoldier\#3528  
@@ -290,8 +270,6 @@ The green graph indicate the usual 2U at 1U decay with the initial 20% gauge dro
 EDIT: there is no gauge left at all and no electro aura persists.
 
 The red graph does not contain aura tax \(which implies that it happened when the 1U Electro aura applied and that the second slower decay rate persists after the aura was refreshed with the 2U Electro\). As we can see, after 4EC ticks there is 0.53 seconds of Electro aura left which is exactly what happens in the clip.
-
-EDIT: this clip contradicts my explanation:[ https://streamable.com/exkn57](https://streamable.com/exkn57) Here we have 1U into 4U electro that lasts 38 seconds which suggests there was an aura tax on 4U \(otherwise it would've lasted 9 seconds longer\).
 
 **Significance:**
 
