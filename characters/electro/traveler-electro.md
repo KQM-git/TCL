@@ -105,7 +105,7 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 
 | Type | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Skill DMG | 110.13% | --| -- |
+| Skill DMG | 110.13% | 55 | 120.1% |
 | GU | 1A | -- | -- |
 | Particles | 1 (-) | -- | -- |
 | Energy Regeneration | 3.5 | --| -- |
@@ -134,6 +134,7 @@ When your active character's Normal or Charged Attacks hit opponents, they will 
 | Duration | 12s | -- |
 | CD | 20s | -- |
 | Energy Cost | 80 | -- |
+| Frames | 60 | -- |
 * The energy regenerated from **Falling Thunder** is classified as flat energy.
 * **Falling Thunder** DMG is snapshot on **Bellowing Thunder** cast.
 
