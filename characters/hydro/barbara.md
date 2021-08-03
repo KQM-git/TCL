@@ -45,7 +45,7 @@ Consume 50 Stamina to deal AoE Hydro DMG.
 
 | **String** | **Talent 6%** | **Frames** | **MV/s** | **GU** |
 | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% | 90 | 232.74%/s | 1A |
+| Charged Attack | 232.74% | 90 | 155.16%/s | 1A |
 
 **Plunge Attack**  
 Plunge from mid-air to deal AoE Hydro DMG.
