@@ -23,7 +23,7 @@ The Glossary is currently going through a revamp, so more recent terms/definitio
 
 ## Team Composition Terms
 
-For a more in-depth look at team compositions + roles, take a look at this [guide ](https://guides.keqingmains.com/team-building/team-building-guide)written by Zakharov\#5645 and edited \[Neko\]\#3521
+For a more in-depth look at team compositions + roles, take a look at this [guide ](https://guides.keqingmains.com/team-building/team-building-guide)written by Zakharov\#5645 and edited by \[Neko\]\#3521
 
 **Battery** = A character that generates energy to fund another character’s burst.
 
