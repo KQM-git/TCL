@@ -305,3 +305,18 @@ Meanwhile, N3 dash sits at 208.24, and N4 dash at 215.26. This means that even a
 
 This confirms what was already common knowledge: only use spin if you need to heal or lower Breastplate CD more quickly.
 
+## Noelle's C4 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+
+**Finding:**  
+Noelle’s C4 damage instance is considered skill damage. 
+
+**Evidence:**  
+Testing done by DeFault#1802 and Isu#6867
+Damage procs Sacrificial Greatsword passive - [Video](https://www.youtube.com/watch?v=YoJ5HMRWUSU)
+Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=IYlyft2Nmj0)
+
+**Significance:**  
+Damage calculations for Noelle.
