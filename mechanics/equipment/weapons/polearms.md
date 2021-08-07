@@ -8,7 +8,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Eagle Spear of Justice | On hit, increases ATK by **3.2/3.9/4.6/5.3/6**% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12/15/18/21/24**%. |
+| Eagle Spear of Justice | On hit, increases ATK by **3.2/3.9/4.6/5.3/6**% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12/15/18/21/24**%. Can not stack off-field |
 | Base ATK | 48 - 674 |
 | Crit Rate% | 4.8% - 22.1% |
 
