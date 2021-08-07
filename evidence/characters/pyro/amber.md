@@ -48,17 +48,22 @@ Baron Bunny may be used as an entity to hold certain auras.
 
 **Significance:** The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
 
-## Amber C1 damage
+## Amber C1 & C2 damage
 
 **By:** elijam#7142  
 **Added:** 08/07/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding/Bug:**  
-Amber’s C1 damage instance is considered CA damage. 
+* Amber’s C1 damage instance is considered CA damage.  
+* Amber’s C2 damage instance is considered skill damage.  
+/ Baron Bunny snapshots.
 
 **Evidence:**  
-Testing done by Peekays#2722 and minah#0853
+Testing done by Peekays#2722 and minah#0853  
 Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U) and [Video](https://www.youtube.com/watch?v=QPVvaP6QUV4)  
+
+Testing done by minah#0853  
+Damage increases with 2gambler bonus, and does not increase when 4NO buff is activated after skill cast but before detonation - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U)
 
 **Significance:** Damage calculations and rotation considerations for Amber
