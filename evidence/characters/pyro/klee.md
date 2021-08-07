@@ -144,8 +144,9 @@ Yes they do.
 ## Klee C4 damage
 
 **By:** elijam#7142  
-**Added:** 08/07/2021
-
+**Added:** 08/07/2021  
+ [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+ 
 **Finding:**  
 Klee’s C4 damage instance has no ability type scaling tags. 
 
