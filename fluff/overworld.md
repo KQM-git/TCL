@@ -35,7 +35,7 @@
 
 Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 
-## Burning damage scales off of the player's EM and LEVEL 
+## Burning damage scales off of the player's EM and Level
 
 If the player character got burnt, the DMG will scale off of that character's EM and Level.
 
