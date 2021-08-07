@@ -81,3 +81,20 @@ In line with previous evidence that was non-conclusive, it appears that Guoba ac
 
 **Significance:**  
 More information about how Guoba mechanics work, and a more precise explanation of why Guoba can cause Pyro Absorption in Anemo Bursts.
+
+## Xiangling C2 damage
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Theory:**  
+Xiangling’s C2 damage instance has no ability type scaling tags. 
+
+**Evidence:**  
+Testing done by Peekays#2722
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=B3NEUfa40tg)
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=9FpVplwcxFg)
+Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=Gl-u-8xOfPs)
+
+**Significance:**  
+Damage calculations for Xiangling.
