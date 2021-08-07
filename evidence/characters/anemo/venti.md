@@ -146,7 +146,7 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 Venti’s C1 damage instance is considered CA damage.
 
 **Evidence:**  
-Testing done by Peekays#2722
+Testing done by Peekays#2722  
 Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=zvq7kmHLpmU)
 
 
