@@ -161,4 +161,20 @@ All data and video evidence found in this [spreadsheet](https://docs.google.com/
 **Significance:**  
 Assuming no ICD based sub-dps are used, DS combos show a range from roughly 35-49 percent mv/s increase. (More elaboration on spreadsheet)
 
+## Razor’s C6 damage
 
+**By:** elijam#7142  
+**Added:** 07/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding:**  
+Razor’s C6 damage instance has no ability type scaling tags.
+
+**Evidence:**  
+Testing done by Peekays#2722  
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=devW07AbLM0)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=M_nh1IvnrxY)  
+Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=0h6EC1ZR2nY)  
+
+**Significance:**  
+Damage calculations for Razor
