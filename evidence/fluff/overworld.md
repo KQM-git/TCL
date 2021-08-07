@@ -232,3 +232,22 @@ result = f2(...f1(...coords))
 due to IEEE 754, the result will be off at epsilon level.
 
 **Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
+
+## Burning DMG scales off of active character's EM
+
+**By:** ceeeleste#3568  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869136453517574195/873554878943862784/transcript-burning-scales-off-of-active-char-em.html)
+
+**Finding:**  
+Burning DMG scales off of the player character's EM and LEVEL
+
+**Evidence:**  
+Abyss floor 10 WL tick DMG - 236: [Imgur](https://imgur.com/TVtnOvw)  
+Burning does not snapshot EM: [Imgur](https://imgur.com/mOSWwij)  
+WL 8 DMG - 272  
+115 EM - 504 Burning DMG  
+65 EM - 405 Burning DMG  
+
+**Significance:**  
+Don't get burnt.
