@@ -137,3 +137,18 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **Significance:** This allows for Venti to pull in targets whilst keeping them just low enough for melee units to hit such as Childe, despite being within the 20 levels to pull them in. However due to unknown reasons \(at the time, see &lt;\#846381351012007967&gt; \), the enemies will float \(perhaps due to poise\) after some time.
 
+## Venti C1 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021
+
+**Finding:**  
+Venti’s C1 damage instance is considered CA damage.
+
+**Evidence:**  
+Testing done by Peekays#2722
+Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=zvq7kmHLpmU)
+
+
+**Significance:**  
+Damage calculations for Venti.
