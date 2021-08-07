@@ -309,6 +309,7 @@ This confirms what was already common knowledge: only use spin if you need to he
 
 **By:** elijam#7142  
 **Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
 
 **Finding:**  
 Noelle’s C4 damage instance is considered skill damage. 
