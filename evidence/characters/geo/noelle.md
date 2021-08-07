@@ -314,9 +314,9 @@ This confirms what was already common knowledge: only use spin if you need to he
 Noelle’s C4 damage instance is considered skill damage. 
 
 **Evidence:**  
-Testing done by DeFault#1802 and Isu#6867
-Damage procs Sacrificial Greatsword passive - [Video](https://www.youtube.com/watch?v=YoJ5HMRWUSU)
-Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=IYlyft2Nmj0)
+Testing done by DeFault#1802 and Isu#6867  
+Damage procs Sacrificial Greatsword passive - [Video](https://www.youtube.com/watch?v=YoJ5HMRWUSU)  
+Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=IYlyft2Nmj0)  
 
 **Significance:**  
 Damage calculations for Noelle.
