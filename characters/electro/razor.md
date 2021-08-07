@@ -163,6 +163,8 @@ Increases the Level of Claw and Thunder by 3.
 ### Lupus Fulguris
 
 Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG. When Razor is not under the effect of Lightning Fang, a lightning strike on an opponent will grant Razor an Electro Sigil.
+
+* C6 damage instance has no ability type scaling tags.
 {% endtab %}
 {% endtabs %}
 
