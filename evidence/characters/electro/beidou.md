@@ -238,9 +238,9 @@ shield snapshot difference
 Beidou’s C4 damage instance has no ability type scaling tags.
 
 **Evidence:**  
-Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=h519mCwngYU)
-Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw)
-Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=h519mCwngYU)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw)  
+Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)  
 
 **Significance:**  
 Damage calculations for Beidou.
