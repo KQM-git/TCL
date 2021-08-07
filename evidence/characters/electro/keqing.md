@@ -195,7 +195,7 @@ Confirms ZANTO’s Findings
 
 ## Keqing C1 damage
 
-**By:** elijam#7142    
+**By:** elijam#7142  
 **Added:** 08/07/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
@@ -203,7 +203,7 @@ Confirms ZANTO’s Findings
 Keqing’s C1 damage instance has no ability type scaling tags. 
 
 **Evidence:**  
-Testing done by DeFault#1802
+Testing done by DeFault#1802  
 Damage is consistent with and without 4HoD, 2gambler, and 2NO bonuses - [Video](https://www.youtube.com/watch?v=CapB3E7FmOs)
 
 **Significance:**  
