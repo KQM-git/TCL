@@ -47,3 +47,18 @@ Baron Bunny may be used as an entity to hold certain auras.
 * Amber 4 overloads: [https://youtu.be/vXttP0fBsM0](https://youtu.be/vXttP0fBsM0)
 
 **Significance:** The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
+
+## Amber C1 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding/Bug:**  
+Amber’s C1 damage instance is considered CA damage. 
+
+**Evidence:**  
+Testing done by Peekays#2722 and minah#0853
+Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=ErKHwO8wz0U) and [Video](https://www.youtube.com/watch?v=QPVvaP6QUV4)  
+
+**Significance:** Damage calculations and rotation considerations for Amber
