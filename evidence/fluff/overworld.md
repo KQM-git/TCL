@@ -71,7 +71,7 @@ Understanding the cursed overworld of Teyvat
 
 **By:** Greyhound\#7836, mol\#3280, deaf#0246  
 **Added:** 06/23/2021  
-**Updated:** 07/08/2021
+**Updated:** 07/08/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873033114723696660/873532969355210752/transcript-overworld-entity-levels-revisited.html)
 
