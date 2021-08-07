@@ -144,6 +144,7 @@ When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Ene
 Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.
 
 * An enemy can be hit twice by the Thundering Might AoE if Stellar Restoration is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
+* C1 damage instance has no ability type scaling tags.
 {% endtab %}
 
 {% tab title="C2" %}
