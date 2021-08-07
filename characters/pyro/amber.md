@@ -140,7 +140,8 @@ Aimed Shot hits on weak spots increase ATK by 15% for 10s.
 
 Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.
 
-The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+* The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+* C1 damage instance is considered CA damage.
 {% endtab %}
 
 {% tab title="C2" %}
