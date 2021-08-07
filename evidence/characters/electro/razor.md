@@ -177,4 +177,4 @@ Damage is consistent with and without 2gambler bonus - [Video](https://www.youtu
 Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=0h6EC1ZR2nY)  
 
 **Significance:**  
-Damage calculations for Razor
+Damage calculations for Razor.
