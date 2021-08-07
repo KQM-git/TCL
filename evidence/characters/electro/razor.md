@@ -164,7 +164,7 @@ Assuming no ICD based sub-dps are used, DS combos show a range from roughly 35-4
 ## Razor’s C6 damage
 
 **By:** elijam#7142  
-**Added:** 07/08/2021  
+**Added:** 08/07/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
