@@ -157,6 +157,8 @@ If Klee leaves the field during the duration of Sparks 'n' Splash, her departure
 | Type | GU |
 | :--- | :--- |
 | Sparkly Explosion | 2B |
+
+* Klee’s C4 damage instance has no ability type scaling tags. 
 {% endtab %}
 
 {% tab title="C5" %}
