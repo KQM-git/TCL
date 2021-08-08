@@ -25,7 +25,7 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 
 ## Primo Geovishap
 * The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
-  * For more details see the [Shield Reflection Mechanic](../../evidence/mechanics/enemies/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
+  * For more details see the [Shield Reflection Mechanic](../../evidence/enemy-data/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
 
 ## Hydro Abyss Mage
 
@@ -33,5 +33,5 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 
 ### Evidence Vault
 
-{% page-ref page="../../evidence/mechanics/enemies/enemy-interactions.md" %}
+{% page-ref page="../../evidence/enemy-data/enemy-interactions.md" %}
 

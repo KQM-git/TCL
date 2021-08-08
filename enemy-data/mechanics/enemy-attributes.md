@@ -3,7 +3,7 @@
 ## Monster Skill Effects
 
 **By:** Steno\#6940  
-See [Evidence Vault](../../evidence/mechanics/enemies/enemy-attributes.md#in-depth-look-at-monster-skill-effects-in-domains-abyss) for Videos
+See [Evidence Vault](../../evidence/enemy-data/enemy-attributes.md#in-depth-look-at-monster-skill-effects-in-domains-abyss) for Videos
 
 These are the damaging effects that are tied to specific enemies within domains/abyss. Currently, there are 6 of these effects, tied to each playable element in the game. Below is a table from the [Genshin Wiki](https://genshin-impact.fandom.com/wiki/Elements#Damage_Abilities_2) that details the effects:
 
@@ -26,9 +26,9 @@ Monster skill effects can be taunted. In general, these skill effects target the
 
 ## Mist Bubble
 
-The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble IFrame](../../evidence/mechanics/enemies/enemy-attributes.md#mist-bubble-iframe)
+The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble IFrame](../../evidence/enemy-data/enemy-attributes.md#mist-bubble-iframe)
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/mechanics/enemies/enemy-attributes.md" %}
+{% page-ref page="../../evidence/enemy-data/enemy-attributes.md" %}
 
