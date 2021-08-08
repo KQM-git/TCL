@@ -60,3 +60,29 @@ Also hitlag on Mitachurl shields [wooden](https://www.youtube.com/watch?v=8Jd4QW
 * Rosaria's crit bonus from her A1 is included in her [A4 crit sharing](https://imgur.com/Gvmc6pN)
 * Rosaria's A1 crit bonus doesn't apply if you use her E while already [behind an enemy](https://imgur.com/Ye5ro0C)
 
+## Rosaria's A1 passive vs. Perpetual Mechanical Array & the Hypostases
+
+**By:** Nass008#8577  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872888935590797352/873788560237531136/transcript-rosarias-a1-passive-works-against-hypostases-and-perpetual-mechanical-array.html)
+
+**Finding:**  
+Although Hypostases and Perpetual Mechanical Array don’t have obvious distinction between front and back in terms of visual, Rosaria can still activate her A1 passive (12% crit rate buff) by hitting them from certain angles.
+
+**Evidence:**  
+* [Video](https://youtu.be/dig5i2_D3K0)  
+In this clip I cast Rosaria E twice against Cryo Hypostasis in the same DPS window. The first E failed to activate A1 while the second E cast from opposite direction was able to activate it. 
+
+* [Video](https://youtu.be/zOOQLVVu7D4)  
+This clip contains two separate attempts of hitting Cryo Hypostasis after they performed the rolling attacks. In the first attempt, I hit them from “behind” and successfully activated the passive. In the second attempt I hit them from opposite direction and couldn’t get the buff. 
+
+* Clips of Rosaria getting A1 buff against other bosses:  
+Anemo Hypostasis - [Video](https://youtu.be/BWp5TEI-orQ)  
+Electro Hypostasis - [Video](https://youtu.be/rRiCoKKL8h8)  
+Geo Hypostasis - [Video](https://youtu.be/gF8e_XSGxH0)  
+Pyro Hypostasis - [Video](https://youtu.be/wFwCQRupHXs)  
+Perpetual Mechanical Array - [Video](https://youtu.be/WI1RgjQoGNE)
+
+
+**Significance:**  
+Rosaria can take advantage of her A1 passive against the aforementioned bosses by the correct positioning. Which can be useful especially when these enemies appear in harder contents such as Spiral Abyss/Event Domains.
