@@ -93,7 +93,7 @@ According to analyses, the jumping of Electro Slimes reflects the electric poten
 
 ## Mutant Electro Slime
 
-![](../../../.gitbook/assets/Enemy_Large_Mutant_Electro_Slime_Icon.webp)
+![](../../../.gitbook/assets/Enemy_Mutant_Electro_Slime_Icon.webp)
 
 Electro Slimes can undergo mutations to become bright yellow. Due to the abundant Electro within its form, it will deliver an electric shock to its surroundings from time to time, and it can even cause nearby Electro Slimes to release electric arcs. This arc lightning will not bounce between purple Electro Slimes, which shows that Electro Slimes have two different polarities. One wonders if some great new science could emerge from the study of such phenomena...
 
