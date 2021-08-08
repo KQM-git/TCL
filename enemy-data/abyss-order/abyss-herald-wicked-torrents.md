@@ -12,6 +12,17 @@ These silent figures are the vanguard of the Abyss, brandishing Tidal Blades tha
 
 > todo
 
+## Shield 
+
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Hydro | Immune |
+| Cryo | 36GU |
+| Electro | 45GU |
+| Pyro | 72GU |
+| Anemo | 72GU |
+| Geo | 72GU |
+
 ## Resistance Table
 
 | Damage Type | Resistance |

@@ -40,7 +40,17 @@ Though they dabble with great power and can even create icicles by condensing an
 
 ## Weakspot Details
 
-Anemo Slimes at any level will instantly die if they take any damage during their airborne attacks.
+> todo
+
+## Shields
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Cryo | Immune |
+| Hydro | Immune |
+| Pyro | 6GU |
+| Electro | 12GU |
+| Anemo | 24GU |
+| Geo | 24GU |
 
 ## Attacks
 
@@ -58,6 +68,16 @@ While studying at the Academia, researcher Alva Nicolai once conducted a systema
 
 > todo
 
+## Shield
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Electro | Immune |
+| Cryo | 8GU |
+| Hydro | 8GU |
+| Pyro | 8GU |
+| Anemo | 16GU |
+| Geo | 16GU |
+
 ## Attacks
 
 > todo
@@ -74,6 +94,16 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 
 > todo
 
+## Shield
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Hydro | Immune |
+| Cryo | 12GU |
+| Electro | 15GU |
+| Pyro | 24GU |
+| Anemo | 24GU |
+| Geo | 24GU |
+
 ## Attacks
 
 > todo
@@ -84,15 +114,24 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 
 ![](../../../.gitbook/assets/enemy/abyss/Enemy_Pyro_Abyss_Mage_Icon.webp)
 
-For unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say that Abyss Mages utter a long-forgotten language from which they draw magical power.
+For unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say that Abyss Mages utter a long-forgotten language from which they draw magical power. They say that Abyss Mages utter a long-forgotten language from which they draw magical power.
 
 ## Weakspot Details
 
 > todo
+
+## Shield
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Pyro | Immune |
+| Hydro | 6GU |
+| Electro | 12GU |
+| Cryo | 24GU |
+| Anemo | 24GU |
+| Geo | 24GU |
 
 ## Attacks
 
 > todo
 {% endtab %}
 {% endtabs %}
-
