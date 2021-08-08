@@ -175,6 +175,7 @@ Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20%
 | Stunning Revenge | 1A |
 
 * Use N2 cancels to maximize Electro DMG.
+* Beidou’s C4 damage instance is considered skill damage. 
 {% endtab %}
 
 {% tab title="C5" %}

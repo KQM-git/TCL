@@ -163,6 +163,8 @@ Increases the level of Breastplate by 3.
 ### To Be Cleaned
 
 When Breastplate’s duration expires or it is destroyed, it will deal 400% ATK of Geo DMG to surrounding opponents.
+
+* C4 damage instance is considered skill damage. 
 {% endtab %}
 
 {% tab title="C5" %}

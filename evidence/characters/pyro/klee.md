@@ -140,3 +140,20 @@ Yes they do.
 
 **Significance:**  
 2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
+
+## Klee C4 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+ [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+ 
+**Finding:**  
+Klee’s C4 damage instance has no ability type scaling tags. 
+
+**Evidence:**  
+Testing done by bloodreign616#4766  
+Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=lfrtwB9mZTc)  
+No further tests were done given that it is highly unlikely that Klee’s C4 damage is considered NA/CA or skill damage and given that Monochrom9#8058 could find no ability type scaling tags for it in Klee’s ability configs. 
+
+**Significance:**  
+Damage calculations for Klee.

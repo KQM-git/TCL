@@ -140,7 +140,8 @@ Aimed Shot hits on weak spots increase ATK by 15% for 10s.
 
 Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.
 
-The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+* The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
+* C1 damage instance is considered CA damage.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -148,7 +149,9 @@ The second arrow is fired 10 degrees vertically below actual aiming, has separat
 
 Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
 
-* Explosion via manual detonation deals 200% additional DMG. 
+* Explosion via manual detonation deals 200% additional DMG.  
+* C2 damage instance is considered skill damage  
+* Baron Bunny snapshots.  
 {% endtab %}
 
 {% tab title="C3" %}
