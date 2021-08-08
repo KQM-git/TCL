@@ -111,7 +111,8 @@ When Rosaria strikes an opponent from behind using Ravaging Confession, Rosaria'
 * Either damage instance of **Ravaging Confession** can trigger this passive.
 * This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the crit sharing.
 * Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy.
-  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.
+  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.  
+  * For enemies who don’t have visual distinction between front and behind, Rosaria can still activate her A1 by hitting them from certain angles.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
