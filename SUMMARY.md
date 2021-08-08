@@ -144,7 +144,7 @@
   * [Ruin Scout](enemy-data/automatons/ruin-scout.md)
 * [Bosses](enemy-data/bosses/README.md)
   * [Overworld Bosses](enemy-data/bosses/overworld-bosses/README.md)
-    * [Hypostases](enemy-data/bosses/overworld-bosses/hypostases.md)
+    * [Hypostases](enemy-data/bosses/overworld-bosses/hypostases/hypostases.md)
     * [Oceanid](enemy-data/bosses/overworld-bosses/oceanid/README.md)
       * [Oceanid](enemy-data/bosses/overworld-bosses/oceanid/oceanid.md)
       * [Boar Hydro Mimic](enemy-data/bosses/overworld-bosses/oceanid/oceanid-boar.md)
