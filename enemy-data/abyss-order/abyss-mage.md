@@ -114,7 +114,7 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 
 ![](../../../.gitbook/assets/enemy/abyss/Enemy_Pyro_Abyss_Mage_Icon.webp)
 
-For unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say that Abyss Mages utter a long-forgotten language from which they draw magical power. They say that Abyss Mages utter a long-forgotten language from which they draw magical power.
+For unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say that Abyss Mages utter a long-forgotten language from which they draw magical power. 
 
 ## Weakspot Details
 
