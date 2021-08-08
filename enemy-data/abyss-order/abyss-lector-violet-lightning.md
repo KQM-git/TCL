@@ -12,6 +12,17 @@ These are the evangelists and the scholars of the Abyss. Their violent lightning
 
 > todo
 
+## Shield
+
+| Elemental Source | Gauge Units Required |
+| :--- | :--- |
+| Electro | Immune |
+| Cryo | 36GU |
+| Pyro | 36GU |
+| Hydro | 45GU |
+| Anemo | 72GU |
+| Geo | 72GU |
+
 ## Resistance Table
 
 | Damage Type | Resistance |
