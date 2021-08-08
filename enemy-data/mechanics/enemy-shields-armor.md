@@ -327,5 +327,5 @@ Additional notes on shield damage:
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/mechanics/enemies/enemy-shields.md" %}
+{% page-ref page="../../evidence/enemy-data/enemy-shields.md" %}
 
