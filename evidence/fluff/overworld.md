@@ -69,20 +69,21 @@ Understanding the cursed overworld of Teyvat
 
 ### Overworld Entities Have Levels
 
-**By:** Greyhound\#7836,  mol\#3280  
+**By:** Greyhound\#7836, mol\#3280, deaf#0246  
 **Added:** 06/23/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)
+**Updated:** 07/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873033114723696660/873532969355210752/transcript-overworld-entity-levels-revisited.html)
 
 **Finding:**  
 Overworld has levels for every "body", including water and grass and sand, trees, rocks, and other things that we can't prove in any other way other than the game's code which shows this, thus varying stats which is proven by their damage.
 
 **Evidence:**  
-Flower stamens (cryo & pyro have the same scaling but different element): [Video](https://www.youtube.com/watch?v=_gCbmYT5gPk)  
+Flower stamens deal damage based on a static, pre-determined level assigned to them. While levels for grass are dynamic and change under currently unknown circumstances: [Video](https://www.youtube.com/watch?v=7NlTEDO2oFk)  
 Water (using electrified): [Video](https://www.youtube.com/watch?v=oSepgh_2M_M)  
-Grass (using burning): [Video](https://www.youtube.com/watch?v=k8Xffbwx7b0)  
 
 **Signifiance:**  
-Almost cracking the code for overworld
+Almost cracking the code for overworld. Now getting a bit closer.
 
 ### Genshin has 2D Water
 
