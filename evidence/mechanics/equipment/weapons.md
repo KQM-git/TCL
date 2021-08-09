@@ -386,6 +386,20 @@ Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https
 
 **Significance:** Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
 
+#### PJWS New Stacks Extend Duration
+
+**By:** hawtlava#2461    
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874131997897932840/874176647992074240/transcript-pjws-new-stacks-extend-duration.html)
+
+**Finding:**
+New gained stacks on PJWS will extend the duration of existing stacks, beyond the 6 seconds stipulated.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=z7c06AGCjsI)
+
+**Significance:** XBDIT can stack PJWS for her second pyronado.
+
 ### Prototype Starglitter
 
 #### Prototype Starglitter Stacks Duration Refresh
