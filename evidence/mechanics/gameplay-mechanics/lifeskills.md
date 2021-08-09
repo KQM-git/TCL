@@ -9,10 +9,10 @@
 **Finding:** Theory: Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
 
 **Evidence:**
-2021-07-21 18:42:25 - https://youtu.be/RWUUFzwP2f0 - first video
-2021-07-23 11:38:29 - https://youtu.be/QQDcTR_G04w - second video (1 day 17h diff)
-2021-07-24 05:52:53 - https://youtu.be/1WHudr-4wZ8 - third video  (~19h diff)
-2021-07-24 17:21:04 - https://youtu.be/PghdzG1TlLc - fourth video (~11h30min diff)
+* 2021-07-21 18:42:25 - <https://youtu.be/RWUUFzwP2f0> - first video
+* 2021-07-23 11:38:29 - <https://youtu.be/QQDcTR_G04w> - second video (1 day 17h diff)
+* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video  (~19h diff)
+* 2021-07-24 17:21:04 - <https://youtu.be/PghdzG1TlLc> - fourth video (~11h30min diff)
 
 **Significance:** Some of them respawn artifacts so it might be a reliable way of getting more artifact fodder everyday.
 
