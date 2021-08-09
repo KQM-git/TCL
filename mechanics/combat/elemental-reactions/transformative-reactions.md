@@ -82,6 +82,8 @@ Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura 
 | Crystallize | Shatter | ✔️ | ✔️ |
 
 The duration of Freeze is as shown in the following formulas:  
+
+$$
 \begin{align*}
 &\mbox{Cryo Gauge when frozen}=(0.8*\mbox{Cryo Gauge})*(1-\frac{\mbox{Time between Cryo and Hydro application}}{2.5*\mbox{Cryo Gauge}+7})\\\\
 &\mbox{Frozen Aura Gauge}=2*Min\mbox{(Cryo Gauge when frozen, Hydro Gauge)}\\\\
@@ -89,6 +91,7 @@ The duration of Freeze is as shown in the following formulas:
 &\mbox{Time is in seconds}\\\\
 &\mbox{Gauge has to be 1A, 2B, or 4C}
 \end{align*}
+$$
 
 
 ## Swirl

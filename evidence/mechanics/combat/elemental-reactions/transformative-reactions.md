@@ -430,6 +430,8 @@ This improves our knowledge of Freeze and how to sequence reactions.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858306167686823956/874079173520527360/transcript-freeze-duration-formula-theory-hunt.html)
 
 **Finding:** Freeze duration formula:  
+
+$$
 \begin{align*}
 &\mbox{Cryo Gauge when frozen}=(0.8*\mbox{Cryo Gauge})*(1-\frac{\mbox{Time between Cryo and Hydro application}}{2.5*\mbox{Cryo Gauge}+7})\\\\
 &\mbox{Frozen Aura Gauge}=2*Min\mbox{(Cryo Gauge when frozen, Hydro Gauge)}\\\\
@@ -437,6 +439,7 @@ This improves our knowledge of Freeze and how to sequence reactions.
 &\mbox{Time is in seconds}\\\\
 &\mbox{Gauge has to be 1A, 2B, or 4C}
 \end{align*}
+$$
 
 **Evidence:**  
 [Sheet](https://docs.google.com/spreadsheets/d/1N-4XyoVhiX0h2s07Ylrh1jBjAx3dhl7qPbyGDU2IOmQ/edit?usp=sharing) & [Videos](https://drive.google.com/drive/folders/1613wQOEuqRVqg6BFS8ExO_SJjE-ZhZE9?usp=sharing)
