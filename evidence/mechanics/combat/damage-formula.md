@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../mechanics/combat/damage-formula.md" %}
+{% page-ref page="../../../mechanics/combat/damage-formula.md" %}
 
 ## Outcoming and incoming healing bonuses are additive  
 
