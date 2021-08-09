@@ -172,3 +172,6 @@ $$
 
 By Zakharov\#5645 and \[Neko\]\#3521
 
+## Evidence Vault
+
+{% page-ref page="../../evidence/mechanics/combat/damage-formula.md" %}
