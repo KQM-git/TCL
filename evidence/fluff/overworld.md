@@ -143,7 +143,9 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **Significance:** It'll be relevant whenever more overworld mechanics are added which refresh when tping in/out or if we get more map tabs.  
 
-## Coordinates translation methods  
+## Coordinates
+
+### Coordinates translation methods  
 
 **By:** Mcpie#8672  
 **Added:** 07/21/2021  
@@ -233,8 +235,6 @@ result = f2(...f1(...coords))
 due to IEEE 754, the result will be off at epsilon level.
 
 **Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
-
-## Coordinates
 
 ### Coordinates Units Descriptions  
 
