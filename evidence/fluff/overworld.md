@@ -234,7 +234,9 @@ due to IEEE 754, the result will be off at epsilon level.
 
 **Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
 
-## Coordinates Units Descriptions  
+## Coordinates
+
+### Coordinates Units Descriptions  
 
 **By:** Mcpie#8672  
 **Added:** 08/09/2021  
@@ -366,7 +368,7 @@ So this would mean that 1 px is equal to around ~0.424 in-game units assuming 19
 **Significance:**  
 Estimating distance between points is now easier due to known values in different systems.
 
-## Extracting coordinates while in game
+### Extracting coordinates while in game
 
 **By:** Mcpie#8672  
 **Added:** 08/09/2021  
@@ -396,7 +398,7 @@ Object { x: 713.8189697265625, y: 120.84298706054688, z: 275.4739074707031 }
 **Significance:**  
 This provides an easy way to calculate the distance between two points in game.
 
-## Coordinates axises descriptions
+### Coordinates axises descriptions
 
 **By:** Mcpie#8672  
 **Added:** 08/09/2021  
@@ -429,7 +431,7 @@ Method used to figure out directions:
 **Significance:**  
 If someone is going to rely on in-game coordinates from feedback url, they might get lost thinking they're going in wrong direction while navigating through interactive map.
 
-## Coordinates change when idle
+### Coordinates change when idle
 
 **By:** Mcpie#8672  
 **Added:** 08/09/2021  
@@ -461,3 +463,27 @@ Which upon closer inspection, differ at 3rd decimal value in x and z axis. Lower
 
 **Significance:**  
 Fluff. This could also explain the fact that when you switch from child to adult male, your camera "target" goes up because the head is higher by ~0.4m.
+
+## Burning damage scaling  
+
+**By:** ceeeleste#3568  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869136453517574195/874164618136797184/transcript-burning-scales-off-of-active-char-em.html)  
+
+**Theory:**  
+- Burning DMG scales with the affected target's EM and Level.  
+It's also not affected by HP or DEF.
+
+- Burning DMG does not snapshot EM
+
+- Both Burning and WL dmg are reduced by Pyro RES
+
+**Evidence:**  
+Abyss floor 10 WL tick dmg - 236  
+[Imgur](https://imgur.com/TVtnOvw)
+
+Burning does not snapshot EM  
+[Imgur](https://imgur.com/mOSWwij)
+
+**Significance:**  
+Just don't get burnt.

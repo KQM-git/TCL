@@ -12,9 +12,10 @@
 | Base ATK | 48 - 674 |
 | Crit Rate% | 4.8% - 22.1% |
 
-* PJWS passive can be stacked from elemental skill and burst skill hits on an enemy.  - [Vye\#9195](../../../evidence/mechanics/equipment/weapons.md#pjws-on-hit-definision)
+* PJWS passive can be stacked from elemental skill and burst skill hits on an enemy.
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
+* New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
 {% endtab %}
 
 {% tab title="Details" %}

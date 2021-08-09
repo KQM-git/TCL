@@ -131,7 +131,8 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 * **Illusory Bubble**'s duration can be extended on specific enemies while they are performing specific actions.
   * The enemies that this works on are: Shielded Lawachurl, leaping Geovishap, Shielded Pyrogunner, and Shielded Geochanter
   * It's impossible to pop the bubble on enemies that are completely stagger-resistant.
-  * Certain skill/burst cannot trigger the bubble (Klee Q, Zhongli E).
+  * For this to work, the enemy cannot be more than 20 levels above Mona.
+  * Certain skill/bursts cannot trigger the bubble (Klee Q, Zhongli E).
 {% endtab %}
 {% endtabs %}
 
