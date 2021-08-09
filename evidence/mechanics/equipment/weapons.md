@@ -346,7 +346,7 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
 
-### Mistsplitter's Revenge  
+### Mistsplitter Reforged  
 
 #### Mistsplitter's stacks upon burst usage:  
 
