@@ -233,3 +233,231 @@ result = f2(...f1(...coords))
 due to IEEE 754, the result will be off at epsilon level.
 
 **Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
+
+## Coordinates Units Descriptions  
+
+**By:** Mcpie#8672  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345650060689480/874179525771165706/transcript-coordinates-units-descriptions.html)  
+
+**Finding:**  
+In-game (x,y,z) and Official Teyvat Map (x,y) coordinates system description:
+`1 = 1m` - visible for example when you're navigating towards commission.  
+`1.68 = 1px` - at max zoom out and 1920x1080 resolution.  
+`0.42 = 1px` - at max zoom in and 1920x1080 resolution.  
+[Official map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)
+
+**Evidence:**  
+1. 1 unit represents 1 meter in-game  
+Three coordinates, extracted through feedback url.  
+
+![alt text](https://i.imgur.com/woXSkC3.jpg)
+
+Calculations:  
+```javascript
+1: Object { x: 608.6038208007812, y: 228.3050537109375, z: 1754.6199951171875 }, distance: 3172m
+2: Object { x: 2189.55419921875, y: 207.5247802734375, z: -1075.6280517578125 }, distance: 84m
+3: Object { x: 2040.2203369140625, y: 215.52943420410156, z: -1077.7127685546875 }, distance: 83m
+```
+
+Let's try to find `(x,y,z)` meeting the criteria.  
+```javascript
+((x-608.6038208007812)^2 + (y-228.3050537109375)^2 + (z-1754.6199951171875)^2= 3172^2) and
+((x-2189.55419921875)^2 + (y-207.5247802734375)^2 + (z+1075.6280517578125)^2= 84^2) and
+((x-2040.2203369140625)^2 + (y-215.52943420410156)^2 + (z+1077.7127685546875)^2= 83^2)
+```
+
+After solving, Noelle is at around `{ x: 2113, y: 210.71, z: -1037.51 }`  
+Distance between 1st coordinate and Noelle:  
+`((608.6038208007812 - 2113)**2 + (228.3050537109375 - 210.71)**2 + (1754.6199951171875 - (-1037.51))**2)**(1/2) = 3171.6726438170454`  
+Due to possible error in displaying meters in-game (rounding up), this seems accurate.
+
+Let's compare the real coordinates. We're taking first coordinate with distance of 3172m  
+Noelle estimated coordinates from in-game (hard to get without ~1m error):  
+`{ x: 2113.30712890625, y: 206.05450439453125, z: -1038.918212890625 }`
+
+Coordinates difference:  
+```javascript
+[608.6038208007812 - 2113.30712890625, 228.3050537109375 - 206.05450439453125, 1754.6199951171875 - (-1038.918212890625)]
+[ -1504.7033081054688, 22.25054931640625, 2793.5382080078125 ]
+```
+
+After measuring the vector length:  
+```javascript
+(1504.7033081054688**2 + 22.25054931640625**2 + 2793.5382080078125**2)**(1/2) = 3173.0872745589463
+```
+
+So our own calculations yielded `3172m`, while estimated real distance was `3173m`.  
+Therefore, 1 unit in-game represents 1 meter in game.
+
+2. 1px represents 1.68 units at max zoom out and 1920x1080 resolution.  
+Since we know that translation from in-game coordinates to interactive map system does not use scaling, we can use interactive map coordinates system.  
+We assume format `center=x,y` and we're using interactive map system. Remember that error of <30 is possible for each coordinate.  
+
+![alt text](https://i.imgur.com/QWv8PSL.png)  
+```javascript
+pos1 = (-580, 877)
+pos2 = (256, -713)
+|pos1_x - pos2_x| = |-580 -    256| =  836
+|pos1_y - pos2_y| = | 877 - (-713)| = 1590
+```
+
+Since we know that x represents vertical axis and y is horizontal axis, the difference is 1590 units in width and 836 units in height.
+
+I'm taking a picture from pos1 to pos2 at max zoom out using 1920x1080 resolution on PC.
+width: 937, height: 498  
+In order to verify that ratio is saved, we'll compare coord ratio vs image size ratio.  
+```javascript
+coord_ratio = 1590.0 / 836.0
+> 1.9019138755980862
+image_ratio = 937.0 / 498.0
+> 1.8815261044176708
+```
+
+ratio is within acceptable error, let's compare the scale by dividing coordinates both width and height difference by image width and height  
+```javascript
+1590.0 / 937.0
+> 1.696905016008538
+836.0 / 498
+> 1.678714859437751
+```
+
+So this would mean that 1 px is equal to around ~1.68 in-game units assuming 1920x1080 and max zoom out.
+
+1504px in height and 2792px in width.
+
+However, I'm playing on 1920x1080 and I can clearly see it on the screen, so the theory that 1px = 1m might hold true, but not for all resolutions or it might be dependant on zoom level.  
+
+3. 1px represents 0.42 units at max zoom in and 1920x1080 resolution.  
+How much is 1 pixel equal to at 1080p and max zoom in?  
+Same process as with max zoom out.  
+
+![alt text](https://i.imgur.com/K9Md0pu.png)  
+```javascript
+pos1 = (-580, 877)
+pos3 = (-363, 586)
+|pos1_x - pos3_x| = |-580 - (-363)| = 217
+|pos1_y - pos3_y| = | 877 -    586| = 291
+```
+
+That's 291 units in width and 217 units in height.  
+Let's take a screenshot at max zoom in using 1920x1080 resolution.  
+Dimensions are:  
+width: 685  
+height: 512  
+Let's compare the ratios to be sure  
+```javascript
+coord_ratio = 291.0 / 217.0
+> 1.3410138248847927
+image_ratio = 685.0 / 512.0
+> 1.337890625
+```
+
+ratio is within acceptable error, let's compare the scale by dividing coordinates both width and height difference by image width and height  
+```javascript
+291.0 / 685.0
+> 0.4248175182481752
+217.0 / 512.0
+> 0.423828125
+```
+
+So this would mean that 1 px is equal to around ~0.424 in-game units assuming 1920x1080 and max zoom in.
+
+**Significance:**  
+Estimating distance between points is now easier due to known values in different systems.
+
+## Extracting coordinates while in game
+
+**By:** Mcpie#8672  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861913559231102996/874183553099903016/transcript-extracting-coords-while-in-game.html)  
+
+**Theory:**  
+It's possible to extract your current coordinates through feedback url.
+
+**Evidence:**  
+Go to Paimon Menu -> Feedback. They're stored in the generated url. Under query value called `ext`.  
+```javascript
+ext=%7b%22loc%22%3a%7b%22x%22%3a713.8189697265625%2c%22y%22%3a120.84298706054688%2c%22z%22%3a275.4739074707031%7d%2c%22platform%22%3a%22WinST%22%7d
+```  
+Running `decodeURIComponent` on this value will yield a valid JSON.  
+See attached image on how to decode it in vanillaJS.
+
+VanillaJS snippet that will extract this value in console:  
+```javascript
+JSON.parse(decodeURIComponent((new URLSearchParams(window.location.search)).get('ext'))).loc
+```
+
+The result for example case will look like this:  
+```javascript
+Object { x: 713.8189697265625, y: 120.84298706054688, z: 275.4739074707031 }
+```
+
+**Significance:**  
+This provides an easy way to calculate the distance between two points in game.
+
+## Coordinates axises descriptions
+
+**By:** Mcpie#8672  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345828439719966/874184378148855809/transcript-coordinates-axises-descriptions.html)  
+
+**Theory:**  
+Description of each coordinate in in-game coordinate system and interactive teyvat map coordinates system.  
+It's possible to find in-game coordinates through feedback url, or from `center=x,y` value from the url from official teyvat map.  
+[Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)
+
+In-game coordinates  
+x - vertical axis  
+y - altitude  
+z - horizontal axis  
+
+Teyvat Interactive Map, assuming center=x,y format  
+x - vertical axis  
+y - horizontal axis  
+
+![alt text](https://i.imgur.com/rEy06Mq.png)  
+
+**Evidence:**  
+Method used to figure out directions:  
+1. Note coordinates  
+2. Go strictly east and note coordinates again. Only one of them should change.  
+3. Go strictly north this time and note coordinates again. Only one of them should change compared to the ones from step 2.  
+4. Perform the same action but for interactive map. Now play around with coordinates and decide whether you need to multiply scalar by (-1) or not in translation function.  
+5. In our case, in-game -> interactive map requires (-1) on both scalars.  
+
+**Significance:**  
+If someone is going to rely on in-game coordinates from feedback url, they might get lost thinking they're going in wrong direction while navigating through interactive map.
+
+## Coordinates change when idle
+
+**By:** Mcpie#8672  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861913032152842250/874185169110704198/transcript-coordinates-change-when-idle.html)  
+
+**Finding:**  
+Character coordinates change whenever game state is not frozen (unpaused single player).
+
+**Evidence:**  
+Steps to reproduce:  
+1. Extract coordinates  
+2. Go back to Genshin Impact  
+3. Unpause and pause the game (do not move)  
+4. Extract coordinates  
+
+The coordinates will be different.
+
+In my case, `ext` query values were:  
+```javascript
+first="%7b%22loc%22%3a%7b%22x%22%3a713.8158569335938%2c%22y%22%3a120.84288787841797%2c%22z%22%3a275.4771728515625%7d%2c%22platform%22%3a%22WinST%22%7d"
+second="%7b%22loc%22%3a%7b%22x%22%3a713.8189697265625%2c%22y%22%3a120.84298706054688%2c%22z%22%3a275.4739074707031%7d%2c%22platform%22%3a%22WinST%22%7d"
+```
+Running `decodeURIComponent` on both of them yields:  
+```javascript
+"{\"loc\":{\"x\":713.8158569335938,\"y\":120.84288787841797,\"z\":275.4771728515625},\"platform\":\"WinST\"}"
+"{\"loc\":{\"x\":713.8189697265625,\"y\":120.84298706054688,\"z\":275.4739074707031},\"platform\":\"WinST\"}"
+```
+Which upon closer inspection, differ at 3rd decimal value in x and z axis. Lower difference on y means that y coordinate is responsible for height.
+
+**Significance:**  
+Fluff. This could also explain the fact that when you switch from child to adult male, your camera "target" goes up because the head is higher by ~0.4m.
