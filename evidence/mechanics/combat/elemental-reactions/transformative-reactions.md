@@ -319,6 +319,23 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 * Incoming DMG can be mitigated
 * Abyss teams can forgo the need for an archer to disable ruin guards
 
+### Quadruple Electro-Charged with 1 Electro and multiple Hydro
+
+**By:** GottaGoFast#7876  
+**Added:** 08/09/2021
+
+**Finding:**  
+With an excessive amount of hydro application and a lot of hitlag, 4 electro charged procs is possible with only one application of electro.
+
+**Evidence:**  
+[Video](https://youtu.be/1BV1AljxWqQ)  
+[Video](https://youtu.be/KUrxX_QeW-s)  
+[Video](https://youtu.be/nh0MAQY2kIo)  
+
+**Significance:**  
+This is not expected by the current Elemental Gauge Theory. EGT currently states that: "*Each tick of EC consumes 0.4GU from both Hydro and Electro gauges.*"  
+The amount of Electro gauge should therefore not be enough to support 4 ticks of EC. Thus, this is either a bug, or EC has additional mechanics that we are unaware of. This finding is similar to [How Hitlag affects EC](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#how-hitlag-affects-ec). Though, it notably shows that the bug may be based both on hitlag as well as another factor, as one of the triple EC ticks (still strange) is done without hitlag (Lisa and orbitals and melody loop).
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
