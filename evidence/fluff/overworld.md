@@ -233,3 +233,27 @@ result = f2(...f1(...coords))
 due to IEEE 754, the result will be off at epsilon level.
 
 **Significance:** Easier navigation at finding in-game and official teyvat map coordinates.
+
+## Burning damage scaling  
+
+**By:** ceeeleste#3568  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869136453517574195/874164618136797184/transcript-burning-scales-off-of-active-char-em.html)  
+
+**Theory:**  
+- Burning DMG scales with the affected target's EM and Level.  
+It's also not affected by HP or DEF.
+
+- Burning DMG does not snapshot EM
+
+- Both Burning and WL dmg are reduced by Pyro RES
+
+**Evidence:**  
+Abyss floor 10 WL tick dmg - 236  
+[Imgur](https://imgur.com/TVtnOvw)
+
+Burning does not snapshot EM  
+[Imgur](https://imgur.com/mOSWwij)
+
+**Significance:**  
+Just don't get burnt.

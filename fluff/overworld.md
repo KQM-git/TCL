@@ -37,6 +37,10 @@
 
 Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 
+## Burning damage scaling  
+
+- Burning damage scales with the affected target's EM and Level
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}
