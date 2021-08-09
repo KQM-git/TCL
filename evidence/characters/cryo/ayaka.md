@@ -55,7 +55,7 @@
 
 **By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Gryhound\#7836  
 **Added:** 08/09/2021  
-[Discussion]()  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870326929893515314/874088594778771476/transcript-ayaka-hitscan-ca.html)  
 
 **Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:  
 * First: The gadget will stick to the target, following them even if running outside her range.
