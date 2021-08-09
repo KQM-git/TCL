@@ -21,7 +21,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Keqing's [Starward Sword](../../characters/electro/keqing.md#attacks)
 * Mona's [Stellaris Phantasm](../../characters/hydro/mona.md#attacks)
 * Xingqiu's [Guhua Sword: Raincutter](../../characters/hydro/xingqiu.md#attacks)
-* Childe's [Riptide](../../characters/hydro/childe.md#attacks)
+* Childe's [Riptide](../../characters/hydro/tartaglia.md#attacks)
 
 ## Evidence Vault
 
