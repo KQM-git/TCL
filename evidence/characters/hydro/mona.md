@@ -239,3 +239,38 @@ Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piec
 **Significance:**  
 While I sincerely doubt that 4 ToM Mona will become a viable build path for her, knowing that her A1 can help proc skill based effects is potentially very useful information for future weapons or artifact sets; while also being just funny for memey setups with 4ToM.
 
+## Mona Q cannot pop on hyper armor
+
+**By:** Mcpie#8672  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863845897770237953/874171057685274624/transcript-new-mona-q-cannot-pop-on-super-armor.html)
+
+**Finding:**  
+* It's impossible to pop Mona's Q bubble on enemies that are completely stagger resistant (aka gained hyper armor).
+
+* Certain skill/burst cannot trigger the bubble. (Klee Q, Zhongli E).
+
+* Additionally, enemies that are "lift-able" by Jean's elemental skill by default, then it will also get trapped in Mona's Q stasis. But your Mona needs to be no more than 20-level lower than your enemy for this to work.
+
+* Stagger immunity spreadsheet by Myuwi#0001 from Mona Mains:  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1AENU1fu_pChwc8b0nDPmsCo2qvfi4MXycme4JqjmstA)
+
+**Evidence:**  
+* Electro Cicin Mage is summoning cicins. Benny's Q does not trigger the bubble because summoning animation was not finished.  
+Mona level 70 vs. Electro Cicin Mage level 91 (21 levels different).  
+Mona Q did not trap Electro Cicin Mage in stasis due to level difference, however Benny's Q did not trigger the bubble either, because the summoning animation was not finished.  
+[Video](https://youtu.be/wEaN78VpcFo)
+
+* Mona level 70 vs. Pyro Fatui Agent level 90 (20 levels different).  
+Mona Q traps Pyro Fatui agent inside stasis due to level difference of 20.  
+[Video](https://youtu.be/kSdq2-X493g)
+
+* Mona level 70 vs. Pyro Fatui Agent level 91 (21 levels different).  
+Mona Q doesn't trap the enemy, however benny's E does not trigger the bubble due to gained hyper armor.  
+[Video](https://youtu.be/ugzFT0vE8so)
+
+* Video from LACola Genshin Impact - bubble does not pop under constant barrage from Klee's Q  
+[Video](https://www.youtube.com/watch?v=au5KIJsij1A)
+
+**Significance:**  
+Better understanding and utilizing of Mona burst.
