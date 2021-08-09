@@ -305,8 +305,6 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 
 [Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
 
-### Lost Prayer to the Sacred Winds
-
 ### Kitain Cross Spear  
 
 #### Kitain passive will proc even if carrier has 0 energy.
@@ -314,6 +312,8 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 **By:** ItzSomebody\#0029  
 
 Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
+
+### Lost Prayer to the Sacred Winds
 
 #### Lost Prayer Stack Mechanics
 
