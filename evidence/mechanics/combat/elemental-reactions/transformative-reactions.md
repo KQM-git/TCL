@@ -322,7 +322,8 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 ### Quadruple Electro-Charged with 1 Electro and multiple Hydro
 
 **By:** GottaGoFast#7876  
-**Added:** 08/09/2021
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851661909840494622/874167434276405248/transcript-quadruple-electro-charged-with-1-electro-and-multiple-hydro.html)
 
 **Finding:**  
 With an excessive amount of hydro application and a lot of hitlag, 4 electro charged procs is possible with only one application of electro.
