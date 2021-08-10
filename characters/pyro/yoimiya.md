@@ -30,11 +30,12 @@ Performs up to 5 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 49.01%×2 | -- | -- |
-| 2-Hit DMG | 94.02% | -- | -- |
-| 3-Hit DMG | 122.22% | -- | -- |
-| 4-Hit DMG | 63.83%×2 | -- | -- |
-| 5-Hit DMG | 145.56% | -- | -- |
+| 1-Hit DMG | 49.01% ×2 (98.02%) | 27 | 217.82%/s |
+| 2-Hit DMG | 94.02% | 51 | 225.93%/s |
+| 3-Hit DMG | 122.22% | 88 | 214.27%/s |
+| 4-Hit DMG | 63.83%×2 | 128 | 207.15%/s |
+| 5-Hit DMG | 145.56% | 164 | 214.93%/s |
+| With Recovery | 145.56% | 200 | 176.24%/s |
 
 **Aimed Shot**  
 Performs a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  
@@ -64,9 +65,9 @@ Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.
 **Niwabi Enshou**  
 During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arrows**, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
 
-| Type | Talent 6% | Duration | Cooldown | U | Particles | Frames | Motion Value |
+| Type | Talent 6% | Duration | Cooldown | U | Particles | Cast Frames |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1A | --| -- | -- |
+| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1A | -- | 23 |
 {% endtab %}
 
 {% tab title="Ryuukin Saxifrage" %}
@@ -79,6 +80,7 @@ All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by a
 | :--- | :--- | ---- |
 | Skill DMG | 178.08% | 2B |
 | Aurous Blaze Explosion DMG | 170.8% | 1A |
+| Cast Frames | 115 | -- |
 | Duration | 10s | -- |
 | CD | 15s | -- |
 | Energy Cost | 60 | -- |
