@@ -83,6 +83,7 @@ Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura 
 | Crystallize | Shatter | ✔️ | ✔️ |
 
 The duration of Freeze is as shown in the following formulas:  
+(! the formula does not work for innate aura enemies)
 
 $$
 \begin{align*}
