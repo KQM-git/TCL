@@ -169,8 +169,8 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 | Gaze of the Deep | 22% | Normal Attack |
 
 * This is an echo effect.
-* C1 does not benefit from The Stringless
-* C1 can also crit
+* C1 is considered Normal Attack DMG.
+* C1 can also crit.
 {% endtab %}
 
 {% tab title="C2" %}

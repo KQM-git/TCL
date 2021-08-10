@@ -132,3 +132,20 @@ The various interactions between Chongyun’s A4 and E have been looked at and t
 2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.  
 3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.  
 
+## **Chongyun C1 damage**  
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+
+**Findings:**  
+Chongyun’s C1 damage instance has no ability type scaling tags. 
+
+**Evidence:**  
+Testing done by cartercr#4207  
+Damage is consistent with and without 4bolide bonus - [Video](https://www.youtube.com/watch?v=htbi0XPPSC4)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=HJP9Mc_0V_0)  
+Damage is consistent with and without 2NO bonus- [Video](https://www.youtube.com/watch?v=GIIEy7ieY8A)  
+
+**Significance:**  
+Damage calculations for Chongyun

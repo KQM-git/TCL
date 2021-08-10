@@ -228,3 +228,19 @@ shield snapshot difference
 
 **Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
 
+## Beidou C4 damage
+
+**By:** elijam#7142  
+**Added** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding:**  
+Beidou’s C4 damage instance has no ability type scaling tags.
+
+**Evidence:**  
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=h519mCwngYU)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw)  
+Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)  
+
+**Significance:**  
+Damage calculations for Beidou.

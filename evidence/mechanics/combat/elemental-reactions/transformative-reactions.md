@@ -319,6 +319,24 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 * Incoming DMG can be mitigated
 * Abyss teams can forgo the need for an archer to disable ruin guards
 
+### Quadruple Electro-Charged with 1 Electro and multiple Hydro
+
+**By:** GottaGoFast#7876  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851661909840494622/874167434276405248/transcript-quadruple-electro-charged-with-1-electro-and-multiple-hydro.html)
+
+**Finding:**  
+With an excessive amount of hydro application and a lot of hitlag, 4 electro charged procs is possible with only one application of electro.
+
+**Evidence:**  
+[Video](https://youtu.be/1BV1AljxWqQ)  
+[Video](https://youtu.be/KUrxX_QeW-s)  
+[Video](https://youtu.be/nh0MAQY2kIo)  
+
+**Significance:**  
+This is not expected by the current Elemental Gauge Theory. EGT currently states that: "*Each tick of EC consumes 0.4GU from both Hydro and Electro gauges.*"  
+The amount of Electro gauge should therefore not be enough to support 4 ticks of EC. Thus, this is either a bug, or EC has additional mechanics that we are unaware of. This finding is similar to [How Hitlag affects EC](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#how-hitlag-affects-ec). Though, it notably shows that the bug may be based both on hitlag as well as another factor, as one of the triple EC ticks (still strange) is done without hitlag (Lisa and orbitals and melody loop).
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
@@ -425,42 +443,28 @@ This improves our knowledge of Freeze and how to sequence reactions.
 
 ### **Duration** of Freeze Aura
 
-**By:** BowlSoldier\#3528  
-**Added:** 12/22/2020
+**By:** Sigurd\#3854 & SRL\#2712  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858306167686823956/874079173520527360/transcript-freeze-duration-formula-theory-hunt.html)
 
-**Finding:**
+**Finding:** Freeze duration formula:  
 
-Freeze duration is based off the current minimum of the Cryo and Hydro elements, regardless of their order. It scales non-linearly with the Units involved.
+$$
+\begin{align*}
+&\mbox{Cryo Gauge when frozen}=(0.8*\mbox{Cryo Gauge})*(1-\frac{\mbox{Time between Cryo and Hydro application}}{2.5*\mbox{Cryo Gauge}+7})\\\\
+&\mbox{Frozen Aura Gauge}=2*Min\mbox{(Cryo Gauge when frozen, Hydro Gauge)}\\\\
+&\mbox{Freeze Duration}=2*\sqrt{5*\mbox{Frozen aura gauge}+4}-4\\\\
+&\mbox{Time is in seconds}\\\\
+&\mbox{Gauge has to be 1A, 2B, or 4C}
+\end{align*}
+$$
 
-**Evidence:** Full spreadsheet of tests:[ https://docs.google.com/spreadsheets/d/1i9GdQiO9PeWeoyagcqiBfz02Mk6JzDn3W\_4xmDx6Xug/edit\#gid=370189053](https://docs.google.com/spreadsheets/d/1i9GdQiO9PeWeoyagcqiBfz02Mk6JzDn3W_4xmDx6Xug/edit#gid=370189053)
-
-I tested Freeze with varied timings, to see how the decay of the original Aura affects the final Freeze timing.[ ](https://imgur.com/54hzPCo)
-
-![](https://lh4.googleusercontent.com/Q864kfmZMajXjMXz7xKrfUUqqFyE4yWLrmU6l-SvXHzzpWppOKq3V3Pe1iENwiPXvQnpDvWaX3MPOsvmj6NIiuT8yxKUThwc52pdfNYlhm2w_Ob9nIyMYJLBaV-gr9CoYhgWEneq)
-
-In this image, the blue dots show how long Freeze lasts when you apply a 2U aura, let it decay to a smaller aura strength, then apply a 2U trigger. Eg. if you wait until there is only 1U aura left, then apply 2U trigger, the Freeze lasts about 3.5s.[ ](https://imgur.com/W1LwKQb)
-
-![](https://lh4.googleusercontent.com/QMWk7tQnRDtsfqlyL13QPnumRAvDFTuGc8VWmmWWcgF4rzYoL966CDcCcI_yCMod2orFaoE4excgczHr5EoTBRUAjpw5_Zzz0pT3HjxbUFH0G_GNs-v-o1q-KyB4vEpInyOE11pZ)
-
-The purple dots represent the same test, but with a 1U trigger. Above 1U of the Aura remaining, the Freeze duration always remains the same. You are limited by the 1U Trigger.
-
-1U -&gt; 2U and 2U -&gt; 1U Freeze for the same duration. 3.45-3.5s. Order does not matter, only the minimum U amount between the two elements.
-
-I excluded the cases where I was limited by the trigger, and attempted to fit a linear graph to my findings that passes through 0, since 0U = 0 Freeze timing.[ ](https://imgur.com/Y09waAj)
-
-![](https://lh4.googleusercontent.com/Fp2NPcnOK3iI0FLKjChu7akwJK19fMX-XRRNPFeUIBxtHF85hf1A8DcP1tz-iQIK9siPvmwt9S4MWJ5bqBq0xDzUaGPeTcP-VgjF-I-BTKkA8ojXYwFA4omkGChB4MLNiijO20PV)
-
-This does not fit the data well. Also we know from testing on Hydro shields and Slimes that 1U = 3.5s, which matches our data, and 2U = 5.8s. If the graph was linear, we would expect 2U to be twice that of the 1U application, so 7s.[ ](https://imgur.com/xkjo8Fq)
-
-![](https://lh6.googleusercontent.com/tLWq_98umk5Rn-YU_WLdlweAiXhhtW8GoNnHBDkwYOlGcBYUNEbZ9APjau0DTIQO3rknFiMpm0alaWnFWaXZHxdoA0uNNkcz19YaFV4PeWZAhTWxBk9srGKQKdHyenyUwlPrtk8l)
-
-The actual behavior is likely closer to this red line, that curves to give diminishing returns at higher U values. This curve predicts a duration of about 5.7s for 2U, which matches our slime findings.
-
-Here is the full graph:[ https://www.desmos.com/calculator/jwzecgzmld](https://www.desmos.com/calculator/jwzecgzmld)
+**Evidence:**  
+[Sheet](https://docs.google.com/spreadsheets/d/1N-4XyoVhiX0h2s07Ylrh1jBjAx3dhl7qPbyGDU2IOmQ/edit?usp=sharing) & [Videos](https://drive.google.com/drive/folders/1613wQOEuqRVqg6BFS8ExO_SJjE-ZhZE9?usp=sharing)
 
 **Significance:**
+The formula to find freeze duration is accurate to 0.1s or 6 frames in 60 fps for both cryo/hydro and both swirled auras. However it seems freeze duration is also affected by hitlag. Additionally ,It is unknown how Mona's c1 affects freeze duration for now.  
 
-Only the smallest U matters in a Freeze reaction. We can apply 1U and 2U triggers to try to figure out the "strength" U of Freeze.
 
 ### Various GU Values of Shatter based on Different Types of Attacks
 

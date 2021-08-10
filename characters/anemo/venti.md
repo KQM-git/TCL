@@ -143,6 +143,8 @@ If an Elemental Absorption occurred, this also regenerates 15 Energy for all cha
 ### Splitting Gales
 
 Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
+
+* Venti’s C1 damage instance is considered CA damage.
 {% endtab %}
 
 {% tab title="C2" %}

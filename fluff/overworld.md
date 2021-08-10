@@ -8,6 +8,8 @@
 
 - The 1.6 EM buffs didn't increase the reaction damage caused by environmental sources, such as electro crystals.
 - Overworld entities like grass, water, flowers, and crystals have levels, and do damage depending on those levels.
+  - Flower stamens deal damage based on a static, pre-determined level assigned to them.
+  - Grass levels are dynamic and change under currently unknown circumstances.
 
 ### Electro Crystals
 
@@ -31,9 +33,14 @@
 ## Other world maps  
 - The current world state & character position is saved between different world maps.  
 
-## Coordinates translation methods  
+## Coordinates
 
-Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
+* Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
+* Character coordinates change whenever the game state is not frozen (unpaused single player).
+
+## Burning damage scaling  
+
+- Burning damage scales with the affected target's EM and Level
 
 ## Evidence Vault
 
