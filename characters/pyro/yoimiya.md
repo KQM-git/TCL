@@ -41,13 +41,15 @@ Performs up to 5 consecutive shots with a bow.
 Performs a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  
 
 * Charge Level 1: Fires off a flaming arrow that deals Pyro DMG. 
-* Charge Level 2: Generates a maximum of 3 Kindling Arrows based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
+* Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
 | String | Talent 6% | GUs | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% | -- | -- | -- |
 | Fully-Charged Aimed Shot | 173.6% | 1A | -- | -- |
 | Kindling Arrow DMG | 22.96% | 1A | -- | -- |
+
+* **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
@@ -68,6 +70,14 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 | Type | Talent 6% | Duration | Cooldown | U | Particles | Cast Frames |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1A | -- | 23 |
+
+* The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
+* Yoimiya's particle generation triggers on infused arrow hit and has an ICD on particle generation.
+  * Particle generation ICD requires further testing to fully confirm
+* Charged Shots during the duration of **Niwabi Fire-Dance** do not generate particles.
+* Yoimiya can still produce energy even after **Niwabi Fire-Dance** expires as long as the icd is off CD and the infused normal attack string arrow lands.
+* The infused arrows from **Niwabi Fire-Dance** follow standard ICD (3-hit/2.5s).
+
 {% endtab %}
 
 {% tab title="Ryuukin Saxifrage" %}
@@ -84,7 +94,8 @@ All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by a
 | Duration | 10s | -- |
 | CD | 15s | -- |
 | Energy Cost | 60 | -- |
-* **Ryuukin Saxifrage** doesn't snapshot.
+* **Ryuukin Saxifrage** does not snapshot.
+* **Aurous Blaze Explosions** from **Ryuukin Saxifrage** follow standard ICD (3-hit/2.5s).
 
 {% endtab %}
 {% endtabs %}
