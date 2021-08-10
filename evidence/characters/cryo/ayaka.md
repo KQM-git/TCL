@@ -53,7 +53,7 @@
 
 ## Ayaka CA Hitscan  
 
-**By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Gryhound\#7836  
+**By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Greyhound\#7836  
 **Added:** 08/09/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870326929893515314/874088594778771476/transcript-ayaka-hitscan-ca.html)  
 
