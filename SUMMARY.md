@@ -81,12 +81,6 @@
   * [Tech](mechanics/combat/tech/README.md)
     * [Plunge](mechanics/combat/tech/plunge-tech.md)
     * [Zoom Cancel](mechanics/combat/tech/zoom-cancel.md)
-* [Enemies](mechanics/enemies/README.md)
-  * [Enemy Attributes](mechanics/enemies/enemy-attributes.md)
-  * [Enemy Elemental Gauge](mechanics/enemies/enemy-elemental-gauge.md)
-  * [Enemy Interactions](mechanics/enemies/enemy-interactions.md)
-  * [Enemy Resistances](mechanics/enemies/enemy-resistances.md)
-  * [Enemy Shields and Armor](mechanics/enemies/enemy-shields-armor.md)
 * [Equipment](mechanics/equipment/README.md)
   * [Artifacts](mechanics/equipment/artifacts.md)
   * [Food](mechanics/equipment/food.md)
@@ -132,6 +126,12 @@
 
 ## Enemy Data
 
+* [Enemy Mechanics](enemy-data/mechanics/README.md)
+  * [Enemy Attributes](enemy-data/mechanics/enemy-attributes.md)
+  * [Enemy Elemental Gauge](enemy-data/mechanics/enemy-elemental-gauge.md)
+  * [Enemy Interactions](enemy-data/mechanics/enemy-interactions.md)
+  * [Enemy Resistances](enemy-data/mechanics/enemy-resistances.md)
+  * [Enemy Shields and Armor](enemy-data/mechanics/enemy-shields-armor.md)
 * [Abyss Order](enemy-data/abyss-order/README.md)
   * [Abyss Herald](enemy-data/abyss-order/abyss-herald-wicked-torrents.md)
   * [Abyss Lector](enemy-data/abyss-order/abyss-lector-violet-lightning.md)
