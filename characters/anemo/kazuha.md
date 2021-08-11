@@ -203,22 +203,28 @@ After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains an Anemo Infusio
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press Skill DMG | 268.8% | 288% | 307.2% | 326.4% | 345.6% | 364.8% | 384% | 408% |
-| Press CD | 6s | 6s | 6s | 6s | 6s | 6s | 6s | 6s |
-| Hold Skill DMG | 365.12% | 391.2% | 417.28% | 443.36% | 469.44% | 495.52% | 521.6% | 554.2% |
-| CD (hold) | 9s | 9s | 9s | 9s | 9s | 9s | 9s | 9s |
+| Press Skill DMG | 268.8 | 288 | 307.2 | 326.4 | 345.6 | 364.8 | 384 | 408 |
+| Hold Skill DMG | 365.12 | 391.2 | 417.28 | 443.36 | 469.44 | 495.52 | 521.6 | 554.2 |
+
+**Press Cooldown:** 6s
+
+**Hold Cooldown:** 15s
+
 {% endtab %}
 
 {% tab title="Kazuha Slash" %}
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Slashing DMG | 367.36% | 393.6% | 419.84% | 446.08% | 472.32% | 498.56% | 524.8% | 557.6% |
-| DoT | 168% | 180% | 192% | 204% | 216% | 228% | 240% | 255% |
-| Additional Elemental DMG | 50.4% | 54% | 57.6% | 61.2% | 64.8% | 68.4% | 72% | 76.5% |
-| Duration | 8s | 8s | 8s | 8s | 8s | 8s | 8s | 8s |
-| CD | 15s | 15s | 15s | 15s | 15s | 15s | 15s | 15s |
-| Energy Cost | 60 | 60 | 60 | 60 | 60 | 60 | 60 | 60 |
+| Slashing DMG | 367.36 | 393.6 | 419.84 | 446.08 | 472.32 | 498.56 | 524.8 | 557.6 |
+| DoT | 168 | 180 | 192 | 204 | 216 | 228 | 240 | 255 |
+| Additional Elemental DMG | 50.4 | 54 | 57.6 | 61.2 | 64.8 | 68.4 | 72 | 76.5 |
+
+**Energy Cost**: 60
+
+**Duration**: 8s
+
+**Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
