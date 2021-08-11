@@ -35,7 +35,7 @@ Performs up to 5 consecutive shots with a bow.
 | 3-Hit DMG | 122.22% | 88 | 214.27%/s |
 | 4-Hit DMG | 63.83%×2 | 128 | 207.15%/s |
 | 5-Hit DMG | 145.56% | 164 | 214.93%/s |
-| With Recovery | 145.56% | 200 | 176.24%/s |
+| With Recovery | -- | 200 | 176.24%/s |
 
 **Aimed Shot**  
 Performs a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  

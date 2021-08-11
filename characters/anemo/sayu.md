@@ -30,10 +30,11 @@ Performs up to 4 consecutive strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 105% | -- | -- |
-| 2-Hit DMG | 103.75% | -- | -- |
-| 3-Hit DMG | 63.13% + 63.13% | -- | -- |
-| 4-Hit DMG | 142.63% | -- | -- |
+| 1-Hit DMG | 105% | 23 | 273.91%/s |
+| 2-Hit DMG | 103.75% | 70 | 178.92%/s |
+| 3-Hit DMG | 63.13% + 63.13% (126.26%) | 109 | 184.41%/s |
+| 4-Hit DMG | 142.63% | 187 | 153.25%/s |
+| With Recovery | -- | 227 | 126.24%/s |
 
 **Charged Attacks**  
 Drains Stamina over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash. 
@@ -66,19 +67,30 @@ Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resist
 
 | Type | Talent 6% | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fuufuu Windwheel DMG | 50.4% | -- | -- | --| -- |
-| PressFuufuu Whirlwind Kick DMG | 221.76% | -- | -- | -- | --|
+| Fuufuu Windwheel DMG | 50.4% | 1GU | -- | --| -- |
+| Press Fuufuu Whirlwind Kick DMG | 221.76% | -- | 2 | -- | --|
 | Fuufuu Whirlwind Kick Hold DMG | 304.64% | -- | -- | -- | --|
 | Fuufuu Windwheel Elemental DMG | 23.52% | -- | -- | -- | --|
 | Fuufuu Whirlwind Kick Elemental DMG | 106.62% | -- | -- | -- | --|
 | Max Duration (Hold) | 10 s | -- | -- | -- | --|
 | CD | 6 to 11 s | -- | -- | -- | --|
+
+* **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
+* **Windwheel Roll**'s Absorption Priority: Pyro > Hydro > Electro > Cryo.
+* **Windwheel Roll** follows standard ICD (3-hit/2.5s)b
+* **Whirlwind Kick** and **Windwheel Roll** have separate ICDs.
+* Sacrificial does not proc on **Windwheel Roll** hits, it can only proc on **Whirlwind Kick** hit
+* If Sayu gets frozen while rolling, she will still deal **Windwheel Roll** damage
+* Sayu is capable of ice bridging if her **Windwheel Roll** is infused with cryo.
+* **Windwheel Roll** is affected by movement speed buffs.
+* Hold E **Windwheel Roll** can be used at 0 stamina, and does not consume nor gain any stamina during the roll.
+
 {% endtab %}
 
 {% tab title="Yoohoo Art: Mujina Flurry" %}
-The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu. Deals Anemo DMG to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a Muji-Muji Daruma. Muji-Muji Daruma 
+The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu. Deals Anemo DMG to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a **Muji-Muji Daruma**.
 
-At specific intervals, the Daruma will take one of several actions based on the situation around it: 
+At specific intervals, the **Daruma** will take one of several actions based on the situation around it: 
 * If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing Anemo DMG. 
 * If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.
 
@@ -88,12 +100,15 @@ At specific intervals, the Daruma will take one of several actions based on the 
 | Skill Activation Healing | 129.02% ATK+ 914 |
 | Muji-Muji Daruma DMG | 72.8% |
 | Muji-Muji Daruma Healing | 111.82% ATK+ 792 |
-| Duration | 12 s |
-| CD | 20 s |
+| Duration | 12s |
+| CD | 20s |
 | Energy Cost | 80 |
+
+* The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
+* **Yoohoo Art: Mujina Flurry** snapshots and can reach Venti's ult and hit consistently
+
 {% endtab %}
 {% endtabs %}
-
 
 ## **Ascension Passives**
 
