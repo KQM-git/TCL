@@ -100,7 +100,8 @@ While active, the Ice Lance periodically releases a blast of cold air, dealing *
 ### **Night Walk**
 
 At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
-Not stackable with Passive Talents that provide the exact same effect.
+Not stackable with Passive Talents that provide the exact same effect.  
+* The passive also doesn't work in the Serenitea Pot.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
