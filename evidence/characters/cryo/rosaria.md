@@ -86,3 +86,19 @@ Perpetual Mechanical Array - [Video](https://youtu.be/WI1RgjQoGNE)
 
 **Significance:**  
 Rosaria can take advantage of her A1 passive against the aforementioned bosses by the correct positioning. Which can be useful especially when these enemies appear in harder contents such as Spiral Abyss/Event Domains.
+
+## Rosaria's passive doesn't work in the Serenitea Pot
+
+**By:** Mcpie#8672  
+**Added:** 08/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875008784857190450/875040266573201498/transcript-rosaria-passive-does-not-work-in-serenitea-pot.html)
+
+**Finding:**  
+Rosaria's passive does not work in serenitea pot (even after manual time switch to night time).
+
+**Evidence:**  
+Overworld: Clearly faster - [Imgur](https://i.imgur.com/ih1R1EC.mp4)
+Serenitea Pot - [Imgur](https://i.imgur.com/MS4UUSn.mp4)
+
+**Significance:**  
+Another evidence that the Serenitea Pot behaves similarly to Domains in game.
