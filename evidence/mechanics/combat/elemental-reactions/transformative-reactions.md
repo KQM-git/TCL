@@ -448,6 +448,7 @@ This improves our knowledge of Freeze and how to sequence reactions.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858306167686823956/874079173520527360/transcript-freeze-duration-formula-theory-hunt.html)
 
 **Finding:** Freeze duration formula:  
+(!does not work the same for innate aura enemies)  
 
 $$
 \begin{align*}
