@@ -39,3 +39,25 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 
 **Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his skill after getting buffed.
 
+## Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
+
+**By:** gtrain#9987  
+**Added:** 08/13/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875475337687990272/875585791869468722/transcript-albedo-fatal-blossom-snapshot.html)
+
+**Finding:**  
+Albedo's Fatal Blossom damage is based on stats snapshotted when his E is cast, not at the time of Q cast
+
+**Evidence:**  
+E without snapshotting Bennett Q: [Imgur](https://imgur.com/a/nU2rHRm)  
+Fatal blossom damage (noncrit): 88  
+E with snapshotting Bennett Q: [Imgur](https://imgur.com/a/cEimR22)  
+Fatal blossom damage (noncrit): 503  
+
+Stats remain constant in each scenario. Only difference is order of bennett Q and albedo E. Fatal blossoms in first clip deal 88 damage, while in the second they are 503.  
+Specific Attack Calcs: [Google Sheet](https://docs.google.com/spreadsheets/d/1k_BUIffVbN781YZ5eL9OT4IqIZjS6rTpg-Ejr2f7-DI/edit?usp=sharing)  
+
+This is similar to Ningguang's Q, where the gems from the screen have their stats taken from the E's Screen.  
+
+**Signifiance:**  
+To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise the fatal blossoms will not gain damage. Also shows why in my testing, fatal blossoms do not gain mistsplitter stacks.
