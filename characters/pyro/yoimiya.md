@@ -72,7 +72,7 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 
 | Type | Talent 6% | Duration | Cooldown | Particles | U | Cast Frames |
 | --- | --- | --- | --- | --- | --- | --- |
-| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1 per proc | 1A |  23 |
+| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1 (-) per proc | 1A |  23 |
 
 * The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
 * Yoimiya's particle generation triggers on infused arrow hit and has an ICD of 2s on particle generation.
