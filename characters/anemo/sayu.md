@@ -67,15 +67,16 @@ Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resist
 
 | Type | Talent 6% | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fuufuu Windwheel DMG | 50.4% | 1GU | -- | --| -- |
-| Press Fuufuu Whirlwind Kick DMG | 221.76% | -- | 2 | -- | --|
-| Fuufuu Whirlwind Kick Hold DMG | 304.64% | -- | -- | -- | --|
+| Fuufuu Windwheel DMG | 50.4% | 1GU | 1 (-) per proc | --| -- |
+| Press Fuufuu Whirlwind Kick DMG | 221.76% | -- | 2 (-) | -- | --|
+| Fuufuu Whirlwind Kick Hold DMG | 304.64% | -- | 2 (-) | -- | --|
 | Fuufuu Windwheel Elemental DMG | 23.52% | -- | -- | -- | --|
 | Fuufuu Whirlwind Kick Elemental DMG | 106.62% | -- | -- | -- | --|
 | Max Duration (Hold) | 10 s | -- | -- | -- | --|
 | CD | 6 to 11 s | -- | -- | -- | --|
 
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
+* **Windwheel Roll** has a 3s ICD for energy generation.
 * **Windwheel Roll**'s Absorption Priority: Pyro > Hydro > Electro > Cryo.
 * **Windwheel Roll** follows standard ICD (3-hit/2.5s)b
 * **Whirlwind Kick** and **Windwheel Roll** have separate ICDs.
@@ -105,7 +106,9 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 | Energy Cost | 80 |
 
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
-* **Yoohoo Art: Mujina Flurry** snapshots and can reach Venti's ult and hit consistently
+* **Yoohoo Art: Mujina Flurry** snapshots
+* **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and the **Daruma** Damage ticks.
+* The **Daruma** Damage ticks follow standard ICD.
 
 {% endtab %}
 {% endtabs %}
@@ -117,6 +120,12 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 ### Yoohoo Art: Silencer's Secret
 
 When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.
+
+* Passive works even if Sayu is off-field.
+* If entities are connected (like crystalflies), then picking them up will always scare the others.
+* If entities do not care about the state of other beings, then picking it up next to another one won't startle them.
+* Sayu's passive does not affect coop members - works only for your own party.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}
