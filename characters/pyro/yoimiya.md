@@ -37,6 +37,8 @@ Performs up to 5 consecutive shots with a bow.
 | 5-Hit DMG | 145.56% | 164 | 214.93%/s |
 | With Recovery | -- | 200 | 176.24%/s |
 
+* The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
+
 **Aimed Shot**  
 Performs a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  
 
@@ -50,6 +52,7 @@ Performs a more precise Aimed Shot with increased DMG. While aiming, flames will
 | Kindling Arrow DMG | 22.96% | 1A | -- | -- |
 
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
+* Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
@@ -114,6 +117,11 @@ When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she ha
 ### Tricks of the Trouble-Maker
 
 During Niwabi Fire-Dance, shots from Yoimiya's Normal Attack will increase her Pyro DMG Bonus by 2% on hit. This effect lasts for 3s and can have a maximum of 10 stacks.
+
+* Stacks gained from **Tricks of the Trouble-Maker** do not have independent durations, each Normal Attack hit will refresh the duration of all stacks to 3s.
+* The Pyro DMG Bonus from **Tricks of the Trouble-Maker** can last up to 3s after **Niwabi Fire-Dance** ends.
+* Gaining stacks will cause the orbitting sparks from **Niwabi Fire-Dance** to increase in brightness.
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
