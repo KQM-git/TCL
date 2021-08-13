@@ -70,15 +70,15 @@ Yoimiya waves a sparkler and causes a ring of saltpeter to surround her.
 **Niwabi Enshou**  
 During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arrows**, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
 
-| Type | Talent 6% | Duration | Cooldown | U | Particles | Cast Frames |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1A | -- | 23 |
+| Type | Talent 6% | Duration | Cooldown | Particles | U | Cast Frames |
+| --- | --- | --- | --- | --- | --- | --- |
+| Blazing Arrow DMG | 149.94% Normal Attack DMG | 10s | 18s | 1 per proc | 1A |  23 |
 
 * The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
-* Yoimiya's particle generation triggers on infused arrow hit and has an ICD on particle generation.
-  * Particle generation ICD requires further testing to fully confirm
+* Yoimiya's particle generation triggers on infused arrow hit and has an ICD of 2s on particle generation.
+  * Yoimiya's particle generation procs cannot be buffered, so Yoimiya will ideally generate 4 particles over the duration of **Niwabi Fire-Dance**
 * Charged Shots during the duration of **Niwabi Fire-Dance** do not generate particles.
-* Yoimiya can still produce energy even after **Niwabi Fire-Dance** expires as long as the icd is off CD and the infused normal attack string arrow lands.
+* Yoimiya can still produce energy even after **Niwabi Fire-Dance** expires as long as the ICD is off CD and the infused normal attack string arrow lands.
 * The infused arrows from **Niwabi Fire-Dance** follow standard ICD (3-hit/2.5s).
 
 {% endtab %}
