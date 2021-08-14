@@ -65,15 +65,15 @@ Enters the Fuufuu Windwheel state, rolling forward a short distance before using
 **Hold**  
 Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state. During this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick. The Hold version of this skill can trigger Elemental Absorption. This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD. Elemental Absorption If Sayu comes into contact with Hydro/Pyro/Cryo/Electro while in her Windwheel state, she will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use of this skill.
 
-| Type | Talent 6% | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Fuufuu Windwheel DMG | 50.4% | 1GU | 1 (-) per proc | --| -- |
-| Press Fuufuu Whirlwind Kick DMG | 221.76% | -- | 2 (-) | -- | --|
-| Fuufuu Whirlwind Kick Hold DMG | 304.64% | -- | 2 (-) | -- | --|
-| Fuufuu Windwheel Elemental DMG | 23.52% | -- | -- | -- | --|
-| Fuufuu Whirlwind Kick Elemental DMG | 106.62% | -- | -- | -- | --|
-| Max Duration (Hold) | 10 s | -- | -- | -- | --|
-| CD | 6 to 11 s | -- | -- | -- | --|
+| Type | Talent 6% | U | Particles | Frames |
+| :--- | :--- | :--- | :--- | :--- |
+| Fuufuu Windwheel DMG | 50.4% | 1GU | 1 (-) per proc | 15 |
+| Press Fuufuu Whirlwind Kick DMG | 221.76% | -- | 2 (-) | 35 |
+| Fuufuu Whirlwind Kick Hold DMG | 304.64% | -- | 2 (-) | 35 |
+| Fuufuu Windwheel Elemental DMG | 23.52% | -- | -- | -- |
+| Fuufuu Whirlwind Kick Elemental DMG | 106.62% | -- | -- | -- |
+| Max Duration (Hold) | 10 s | -- | -- | -- |
+| CD | 6 to 11 s | -- | -- | -- |
 
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
 * **Windwheel Roll** has a 3s ICD for energy generation.
