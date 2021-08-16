@@ -296,3 +296,39 @@ Interrupting enemies during an attack can cause them to produce phantom attacks,
 
 **Significance:**  
 Watch out for enemy attacks if they were interrupted.
+
+## Mirror Maiden
+
+### Mirror Maiden Mechanics
+
+**By:** Hatsuharufag#4291  
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872854146838061086/874259494719324210/transcript-mirror-maiden-mechanics.html)
+
+**Finding:**  
+Mirror Maiden has two states she can be in. 
+
+First state — can be CC'ed, staggered, yeet'ed by Jean. Teleport can be prevented by T2 and above stagger. I'll call it "Weak" state for simplicity.
+Second state — can not be CC'ed, staggered, yeet'ed. She has exactly the same immunities Fatui Skirmishers have with energy armour up. Expect you can't drain MM's energy armour in any way, it is permanent. Has 5 attacks. Teleport can no be prevented. I'll call it "Strong" state. Official name is "Polarized" or something like that.
+
+In "Weak" state she has only 3 basic attacks. First attack will summon 3 mirrors in triangular pattern, with at least one mirror's hitbox always reaching active character. Mirrors explode after short delay. Second attack is 1 to 3 waterballs that travel in a straight line. Third one is special, as it triggers automatically when MM is hit in melee. She can be staggered and it will still be cast. This attack summons only one mirror directly underneath her that will explode after very short delay. 
+
+If any of mirror explosion attacks hit active character, he becomes marked. After marking a character, the next thing MM will do is enter "Strong" state. Waterballs hit do not mark the character, only mirror explosions do. After marking a character, MM's aggro is permanently set on him. She will not switch to taunts like Baron Bunny and will keep targeting the active character.
+
+Shields do not prevent getting marked. Jean/Bennet can't cleanse "marked" state. 
+
+When MM uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This is true for both states. Enviroment can displace her slightly to the sides.
+
+**Evidence:**  
+[Video](https://youtu.be/G-YTYWHaays) - Jean can not cleanse "marked" state, even though she can cleanse Childe and Azhada's marks. This is because MM's mark is not tied to elemental aura being applied to you. It's just a permanent trigger.
+
+[Video](https://youtu.be/HfaAvuxg6q0) - Animation of Mirror Maiden entering "Strong" state. Note the 4-leaf thingamajig on Jean. it symbolizes the "marked" state on a character.
+
+[Video](https://youtu.be/FaTd0dojIxM) - Mirror Maiden in "weak" state being yeet'ed by Jean.
+
+[Video](https://youtu.be/IjLV6MIUoQQ) - Mirror Maiden in "weak" state being ragdoll'ed by overload.
+
+[Video](https://youtu.be/aZqpqjSGkWU) - MM's third attack in "weak" state where she auto-summons a mirror to punish greedy apes.
+
+**Significance:**  
+Don't be an ape. Don't get hit by attacks with clear visual indication and clear 'tells'. Don't be greedy. MM in "weak" state deals significantly less damage and is much easier to control.

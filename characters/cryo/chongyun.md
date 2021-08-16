@@ -128,6 +128,7 @@ The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 
 * Each **Ice Blade** deals 50% of Chongyun’s ATK as Cryo DMG to all opponents in its path.
 * Each **Ice Blade** has a GU of 1A.
+* C1 damage instance has no ability type scaling tags.
 {% endtab %}
 
 {% tab title="C2" %}

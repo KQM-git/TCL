@@ -73,7 +73,8 @@ $$
 | :--- | :--- |
 | **LvlCharacter** | The player character's level. |
 | **LvlEnemy** | The enemy's level. |
-| **DefReduction** | The total defense \(but not resistance\) reduction from effects such as Razor's Constellation 4, Lisa Ascension 4, and Klee Constellation 2. |
+| **DefReduction** | The total defense \(but not resistance\) reduction from effects such as Razor's Constellation 4, Lisa Ascension 4, Ayaka Constellation 4, and Klee Constellation 2. |
+* Defense shred is hard capped at 90%
 
 ## Enemy Resistance
 
@@ -171,3 +172,6 @@ $$
 
 By Zakharov\#5645 and \[Neko\]\#3521
 
+## Evidence Vault
+
+{% page-ref page="../../evidence/mechanics/combat/damage-formula.md" %}

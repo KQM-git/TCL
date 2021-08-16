@@ -19,12 +19,13 @@ This means that it is insufficient to simply attack the Anemo ability with an el
 When there are multiple elements in range of the Anemo ability it will absorb according to elemental priority only. This priority is different between abilities and is either one of two orders:
 
 1. Cryo &gt; Pyro &gt; Hydro &gt; Electro
-   * Anemo Traveler skill
-   * Anemo Traveler burst
+   * Anemo Traveler Skill
+   * Anemo Traveler Burst
 2. Pyro &gt; Hydro &gt; Electro &gt; Cryo
-   * Venti burst
-   * Sucrose burst
-   * Kazuha burst
+   * Venti Burst
+   * Sucrose Burst
+   * Kazuha Burst
+   * Sayu Skill
 
 ## Evidence Vault
 

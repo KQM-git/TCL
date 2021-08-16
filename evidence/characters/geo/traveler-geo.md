@@ -90,3 +90,20 @@ Geo Traveler A4: [Imgur](https://imgur.com/p0sIC7a)
 
 **Significance**
 Although a minor damage source, Anemo Traveler's A1 Passive damage is increased by DMG bonuses towards Normal Attacks, while the same does not apply to Geo Traveler's A4 passive.
+
+## Geo Traveler C2 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding:**  
+Geo traveler’s C2 damage instance is considered skill damage.
+
+**Evidence:**  
+Testing done by cartercr#4207  
+Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=RxQwnPeyXZ0)
+
+
+**Significance**  
+Damage calculations for Geo Traveler

@@ -34,7 +34,7 @@ description: Life forms which have completely abandoned their former appearance 
 {% tab title="Anemo" %}
 ## Anemo Hypostasis - Beth
 
-![](../../../.gitbook/assets/enemy/bosses/Enemy_Anemo_Hypostasis_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Anemo_Hypostasis_Icon.webp)
 
 Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms which have completely abandoned their former appearance and biological structure, making them able to reach the highest level of elemental purity.Research into hypostases is mainly led by scholars of Sumeru Academia, but due to the level of danger that they pose, little of substance is known about hypostases beyond their scientific name and code name.
 
@@ -50,7 +50,7 @@ Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms 
 {% tab title="Cryo" %}
 ## Cryo Hypostasis - Daleth
 
-![](../../../.gitbook/assets/enemy/bosses/Enemy_Cryo_Hypostasis_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Cryo_Hypostasis_Icon.webp)
 
 Code name: Daleth. A high-purity Cryo entity.Research suggests that there are subtle differences between elemental hypostases and other elemental life forms in terms of their physical composition. Perhaps these differences can account for their high level of homeostasis and their almost mechanical movements.
 
@@ -66,7 +66,7 @@ Code name: Daleth. A high-purity Cryo entity.Research suggests that there are su
 {% tab title="Electro" %}
 ## Electro Hypostasis - Aleph
 
-![](../../../.gitbook/assets/enemy/bosses/Enemy_Electro_Hypostasis_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Electro_Hypostasis_Icon.webp)
 
 Code name: Aleph. A high-purity Electro entity.Elemental hypostases are the highest forms of elemental structures, usually formed either at a location bursting with elemental energy or at a clogged ley line.Elemental hypostases have developed various attacks based on their elemental attributes.
 ## Weakspot Details
@@ -81,7 +81,7 @@ Code name: Aleph. A high-purity Electro entity.Elemental hypostases are the high
 {% tab title="Geo" %}
 ## Geo Hypostasis - Gimel
 
-![](../../../.gitbook/assets/enemy/bosses/Enemy_Geo_Hypostasis_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Geo_Hypostasis_Icon.webp)
 
 Code name: Gimel. A high-purity Geo entity.Elemental hypostases are ultra-compact structures with a high mass.Concentrated elemental energy forms a solid shell around the core of the hypostasis, leaving only the core reactive to elemental stimuli.
 
@@ -97,7 +97,7 @@ Code name: Gimel. A high-purity Geo entity.Elemental hypostases are ultra-compac
 {% tab title="Pyro" %}
 ## Pyro Hypostasis - Ayin
 
-![](../../../.gitbook/assets/enemy/bosses/Enemy_Pyro_Hypostasis_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Pyro_Hypostasis_Icon.webp)
 
 Code Name: Ayin. A high-purity Pyro entity. Elemental hypostases have the ability to often enter a sort of "emergency restart" phase when they are about to be destroyed and can revive themselves in this way. Such rapid regeneration is not possessed even by most creatures for whom survival is the top priority.
 

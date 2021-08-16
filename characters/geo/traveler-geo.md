@@ -172,6 +172,7 @@ Party members within the radius of Wake of Earth have their Crit Rate increased 
 When the meteorite created by Starfell Sword is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.
 
 * If a meteorite is destroyed immediately after summoning this will not activate.
+* C2 damage instance is considered skill damage.
 {% endtab %}
 
 {% tab title="C3" %}

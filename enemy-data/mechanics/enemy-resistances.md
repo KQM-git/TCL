@@ -38,10 +38,11 @@ EnemyDefenseMultiplier = \frac{LvlCharacter + 100}{(LvlCharacter + 100) + (LvlEn
 $$
 
 Enemies have an innate level of defense scaling. This defense calculation is vastly different from player defense, which scales off of artifacts and such. Instead, enemy defense is dependent solely on the attacking character's level and the enemy's level. This is another layer of mitigation and is separate from resistance.
+* Defense reduction has a hard cap of 90%.  
 
-There are only currently 3 sources of defense shred in the game:
+There are only currently 4 sources of defense shred in the game:
 
 * Lisa A4 \(-15% DEF\)
 * Razor C4 \(-15% DEF\)
 * Klee C2 \(-23% DEF\)
-
+* Ayaka C4 \(-30% DEF\)

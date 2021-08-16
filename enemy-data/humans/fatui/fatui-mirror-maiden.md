@@ -10,7 +10,8 @@ Can gracefully manipulate the Hydro Mirror, luring those enchanted by her to wil
 
 ## Weakspot Details
 
-> todo
+* Mirror Maiden can be CCed, staggered, and yeeted by Jean during her "weak" state. Her teleportation can also be prevented during this tate.
+* However, once the player got "marked" with the Refraction status, Mirror Maiden will enter the Polarization state, granting her new abilities as well as complete immunity to CC, stagger, and yeet by Jean.
 
 ## Resistance Table
 
@@ -41,3 +42,4 @@ Can gracefully manipulate the Hydro Mirror, luring those enchanted by her to wil
 
 ## Attacks
 
+* When Mirror Maiden uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This applies for both "weak" state as well as Polarization.

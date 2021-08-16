@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [Patch 1.6b](newsletter/patch-1.6b.md)
+* [Patch 2.0a](newsletter/patch-2.0a.md)
 * [Archive](newsletter/archive/README.md)
+  * [Patch 1.6b](newsletter/patch-1.6b.md)
   * [Patch 1.6a](newsletter/patch-1.6a.md)
   * [Patch 1.5b](newsletter/archive/patch-1.5b.md)
   * [Patch 1.5a](newsletter/archive/patch-1.5a.md)
@@ -245,6 +246,7 @@
   * [Characters](evidence/characters/README.md)
     * [Anemo](evidence/characters/anemo/README.md)
       * [Jean](evidence/characters/anemo/jean.md)
+      * [Sayu](evidence/characters/anemo/sayu.md)
       * [Kazuha](evidence/characters/anemo/kazuha.md)
       * [Sucrose](evidence/characters/anemo/sucrose.md)
       * [Traveler \(Anemo\)](evidence/characters/anemo/traveler-anemo.md)
@@ -338,4 +340,3 @@
     * [Fluff](evidence/fluff/README.md)
       * [Miscellaneous Entries](evidence/fluff/miscellaneous-entries.md)
       * [Overworld](evidence/fluff/overworld.md)
-

@@ -305,8 +305,6 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 
 [Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
 
-### Lost Prayer to the Sacred Winds
-
 ### Kitain Cross Spear  
 
 #### Kitain passive will proc even if carrier has 0 energy.
@@ -314,6 +312,8 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 **By:** ItzSomebody\#0029  
 
 Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
+
+### Lost Prayer to the Sacred Winds
 
 #### Lost Prayer Stack Mechanics
 
@@ -346,7 +346,7 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
 
-### Mistsplitter's Revenge  
+### Mistsplitter Reforged  
 
 #### Mistsplitter's stacks upon burst usage:  
 
@@ -385,6 +385,20 @@ Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https
 **Evidence:** [Skill Stacking](https://www.youtube.com/watch?v=TJZL7fOpCFo), [Burst Stacking](https://www.youtube.com/watch?v=W9Pq9CsDg_Q), [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
 
 **Significance:** Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
+
+#### PJWS New Stacks Extend Duration
+
+**By:** hawtlava#2461    
+**Added:** 08/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874131997897932840/874176647992074240/transcript-pjws-new-stacks-extend-duration.html)
+
+**Finding:**
+New gained stacks on PJWS will extend the duration of existing stacks, beyond the 6 seconds stipulated.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=z7c06AGCjsI)
+
+**Significance:** XBDIT can stack PJWS for her second pyronado.
 
 ### Prototype Starglitter
 

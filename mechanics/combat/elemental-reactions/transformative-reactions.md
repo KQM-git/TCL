@@ -54,6 +54,7 @@ Superconduct is an elemental reaction triggered by applying Electro on a target 
 Electro-Charged is a special Transformative reaction that breaks the normal convention of “one elemental aura on an enemy at a time." When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#electrocharged)
 
 * Electro-Charged can be extended by hitlag, presumably by extending the aura duration.
+  * With an excessive amount of Hydro application and a lot of hitlag, 4 Electro-Charged procs are possible with only one application of Electro.
 * Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
 * Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
@@ -69,7 +70,7 @@ Frozen is an elemental reaction triggered by applying Cryo on a target already a
 
 Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
 
-Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura that has an underlying Hydro aura, only the Melt occurs. If the underlying aura is Cryo, Cryo can Melt, so the Melt will reduce both the Freeze and the original Cryo aura. Some reactions effect both, others only effect one.
+Additionally, for some reactions, only one reaction can occur at a time. For example, if you apply non-heavy Pyro to a Frozen aura that has an underlying Hydro aura, only melt occurs. If the underlying aura is Cryo (which can be melted), melt will occur and reduce both the Freeze and the original Cryo aura. It is possible for a reaction to affect both auras, while some reactions only affect one aura. For example, a sufficiently strong anemo aura application can cause a double swirl where both the underlying hydro aura and the frozen aura are swirled. This also occurs with heavy attacks, which can cause both shatter and a reaction based on the underlying aura. For example, if an enemy who is both frozen and affected by underlying hydro is hit with a heavy pyro attack while frozen, both shatter and vaporize will occur. If the same enemy was affected by underlying cryo instead, melt would occur. Both scenarios require an underlying aura to be applied to an enemy; without an underlying aura, only shatter will occur. This effect applies to all heavy elemental attacks.
 
 * The order of elements applied and the gauge strength determines if a second reaction occurs and what reaction it is, whenever a blunt elemental attack is used against a frozen target.
 
@@ -81,13 +82,19 @@ Additionally, one reaction occurs at a time, if you apply Pyro to a Frozen aura 
 | Swirl | ✔️ | ✔️ | ✔️ |
 | Crystallize | Shatter | ✔️ | ✔️ |
 
-The duration of Freeze is dependent on the lowest gauge element when it is triggered, regardless of their order. It scales non-linearly with the aura strength of Hydro and Cryo.
+The duration of Freeze is as shown in the following formulas:  
+(! the formula does not work for innate aura enemies)
 
-***Note:*** The freeze table is now found to be inaccurate. Refer to the [Evidence Vault](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#ec-frozen-double-reactions) for more infomation.
+$$
+\begin{align*}
+&\mbox{Cryo Gauge when frozen}=(0.8*\mbox{Cryo Gauge})*(1-\frac{\mbox{Time between Cryo and Hydro application}}{2.5*\mbox{Cryo Gauge}+7})\\\\
+&\mbox{Frozen Aura Gauge}=2*Min\mbox{(Cryo Gauge when frozen, Hydro Gauge)}\\\\
+&\mbox{Freeze Duration}=2*\sqrt{5*\mbox{Frozen aura gauge}+4}-4\\\\
+&\mbox{Time is in seconds}\\\\
+&\mbox{Gauge has to be 1A, 2B, or 4C}
+\end{align*}
+$$
 
-![Full Graph: https://www.desmos.com/calculator/jwzecgzmld](https://lh6.googleusercontent.com/tLWq_98umk5Rn-YU_WLdlweAiXhhtW8GoNnHBDkwYOlGcBYUNEbZ9APjau0DTIQO3rknFiMpm0alaWnFWaXZHxdoA0uNNkcz19YaFV4PeWZAhTWxBk9srGKQKdHyenyUwlPrtk8l)
-
-The behavior of Freeze curves to give diminishing returns at higher GU values. This curve predicts a duration of about 5.7s for 2U.
 
 ## Swirl
 
