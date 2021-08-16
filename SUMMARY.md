@@ -20,6 +20,7 @@
 * [Anemo](characters/anemo/README.md)
   * [Jean](characters/anemo/jean.md)
   * [Kazuha](characters/anemo/kazuha.md)
+  * [Sayu](characters/anemo/sayu.md)
   * [Sucrose](characters/anemo/sucrose.md)
   * [Traveler \(Anemo\)](characters/anemo/traveler-anemo.md)
   * [Venti](characters/anemo/venti.md)
