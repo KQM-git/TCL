@@ -24,7 +24,7 @@ description: Whopperflowers that have fed for a long time without interruption, 
 {% tab title="Cryo" %}
 ## Cryo Regisvine
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Cryo_Regisvine_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Cryo_Regisvine_Icon.webp)
 
 A monster formed from a vine that was imbued with the essence of biting frost within the Ley Lines.
 
@@ -57,7 +57,7 @@ In certain circumstances, certain plants will turn into creatures of monstrous s
 {% tab title="Pyro" %}
 ## Pyro Regisvine
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Pyro_Regisvine_Icon.webp)
+![](../../../../.gitbook/assets/enemy/bosses/Enemy_Pyro_Regisvine_Icon.webp)
 
 A giant vine that has absorbed the ancient flame that rages within the Ley Lines. It is restless, as if filled with an endless fury.
 
