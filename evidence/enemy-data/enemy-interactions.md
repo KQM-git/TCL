@@ -362,7 +362,7 @@ Both the C1 and C6 animation do occur as normal, with every auto attack. It is j
 
 ***Ruin Destroyers: C1:***  
 **C1:** Consistent procing of C1 regardless if stunned or not. There were a few points where it did not seem to proc C1 during normal attacking. Similar to the Scouts, this may be do to a slight delay in the hit procing. Proced every time when attacking slowly.  
-**C6:* Ruin Destroyers seem to get hit every time, similar to C1. 
+**C6:** Ruin Destroyers seem to get hit every time, similar to C1. 
 
 **Result:**  
 Based on the current data and the limitations of how we test this type of issue, I think we can safely conclude this behavior is not expected and is easily reproduceable. Without access to logs or similar, isolating the exact nature of the issue will likely require an unrealistic amount of video analysis across many tests. As such, I conclude that this is a bug but am unable to isolate the issue further at this time.
