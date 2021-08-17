@@ -29,3 +29,12 @@ description: For entries that have little practical use.
 
 * In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
 * To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
+
+## Animals Interaction
+
+* Sacrificial Weapons' passives and the 4pc Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
+
+
+## Evidence Vault
+
+{% page-ref page="../evidence/fluff/miscellaneous-entries.md" %}
