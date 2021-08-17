@@ -31,6 +31,10 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 
 The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
 
+## Ruin Sentinels
+
+* The Ruin Sentinels do not consistently proc Fischl's C1 effect. The type of Sentinel seems to affect how often C1 is proced.
+
 ### Evidence Vault
 
 {% page-ref page="../../evidence/enemy-data/enemy-interactions.md" %}
