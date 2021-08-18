@@ -159,6 +159,26 @@ Actual ratio: 947/1257=.75
 [Video for 3ESF](https://youtu.be/eSz3Cabe6Vs)
 [Video for 4ESF](https://youtu.be/xRviv6IJeB0)
 
+## Gambler
+
+### 4p Gambler procs without Skill on CD  
+
+**By:** Mcpie#8672  
+**Added:** 08/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876370102969327646/877095662821449748/transcript-4p-gambler-procs-without-skill-on-cd.html)
+
+**Finding:**  
+Cooldown of 4p gambler effect starts on any dmg output from elemental skill.  
+For example, Sayu's roll does not trigger Sacrificial Greatsword effect - it does not reset the cooldown while using 4p gambler as well, however it does proc the effect since 4p gambler starts 15s cooldown timer.  
+Another example could be Fischl's Oz, however it's harder to test.  
+
+**Evidence:**  
+Killing 2 geo slimes [Imgur](https://i.imgur.com/ZeCFqc2.mp4)  
+Killing 2 foxes [Imgur](https://i.imgur.com/bxSVtzA.mp4)
+
+**Significance:**  
+Knowledge.
+
 ## Instructor
 
 ### 4pc Instructor only procs on field
@@ -770,26 +790,6 @@ Charts by Zakharov#5645: [Imgur](https://imgur.com/9LoeHW1)
 
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance
-
-# Gambler
-
-## 4p Gambler procs without Skill on CD  
-
-**By:** Mcpie#8672  
-**Added:** 08/17/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876370102969327646/877095662821449748/transcript-4p-gambler-procs-without-skill-on-cd.html)
-
-**Finding:**  
-Cooldown of 4p gambler effect starts on any dmg output from elemental skill.  
-For example, Sayu's roll does not trigger Sacrificial Greatsword effect - it does not reset the cooldown while using 4p gambler as well, however it does proc the effect since 4p gambler starts 15s cooldown timer.  
-Another example could be Fischl's Oz, however it's harder to test.  
-
-**Evidence:**  
-Killing 2 geo slimes [Imgur](https://i.imgur.com/ZeCFqc2.mp4)  
-Killing 2 foxes [Imgur](https://i.imgur.com/bxSVtzA.mp4)
-
-**Significance:**  
-Knowledge.
 
 ## **Artifact Substats Distribution**
 
