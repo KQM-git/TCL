@@ -4,6 +4,10 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
+**Main Page:**
+
+{% page-ref page="../../fluff/overworld.md" %}
+
 ## Bush Lighting
 
 **By:** Ayzel\#7399  
@@ -268,3 +272,28 @@ You can clearly hear both Hilicurls snoring as they enjoy their afternoon nap.
 **Significance:**  
 Even the Hilichurls are taking it easy, don't forget to take a break from the game now and then.  
 
+
+## 4pc Gambler and Sacrificial Weapons Wildlife Interaction  
+
+**By:** Mcpie#8672  
+**Added:** 08/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876373145655869460/877095617246167050/transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
+
+**Finding:**  
+Sacrificial weapons passives and Gambler 4p effect triggers on fowl and raw meat sources, but does not trigger on critters (entire "Other" category from the archive).
+
+**Evidence:**  
+Triggers on (fowl/raw meat sources):  
+- Foxes: [Imgur](https://i.imgur.com/ryawqXu.mp4) (displays only 4p gambler)  
+- Boars: [Imgur](https://i.imgur.com/3k3R1B1.mp4) (sac sword trigger), [Imgur](https://i.imgur.com/xBzadvR.mp4) (gambler trigger)  
+- Birds: [Imgur](https://i.imgur.com/iKMO4MP.mp4) (gambler trigger)  
+- Squirrels: [Imgur](https://i.imgur.com/V9ItTY3.mp4) (sac sword trigger)  
+
+Does not trigger on (probably entire "Other" category)  
+- Crabs: [Imgur](https://i.imgur.com/S4K0smH.mp4)  
+- Lizards: [Imgur](https://i.imgur.com/VikTmNG.mp4)  
+- Crystalflies [Imgur](https://i.imgur.com/Uur4EOw.mp4)  
+- Fireflies: [Imgur](https://i.imgur.com/VikTmNG.mp4) (very end of video)  
+
+**Significance:**  
+Wildlife that act as an interactable item pick-up (material sources) behave differently from  wildlife that drop items (birds and beasts).
