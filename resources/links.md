@@ -8,7 +8,7 @@
 
 [Character Elemental Gauge Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)  
 
-[Character Stat per Level Scaling](https://drive.google.com/file/d/17NFePVPY13xQaFizXgIM852yB0GLD02b/view)  
+[Character Stat per Level Scaling](https://docs.google.com/spreadsheets/d/1eC_RczCU03mv6wzsU9p_-YeUKWMFlYbW/edit#gid=1411188054)  
 
 [Character Internal Cooldown Table](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)
 
