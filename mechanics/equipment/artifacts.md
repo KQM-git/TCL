@@ -276,7 +276,10 @@
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Elemental Skill DMG increased by 20%
 * 4 Piece Set Bonus: Defeating an enemy has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.
-* The CD of the 4 Piece Set Bonus will start upon any DMG output from an Elemental Skill.
+{% endtab %}
+
+{% tab title="Findings" %}
+* The 15s CD of the 4 Piece Set Bonus will start upon any DMG output from an Elemental Skill, even if the Elemental Skill is not on cooldown. 
 {% endtab %}
 {% endtabs %}
 
