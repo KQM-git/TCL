@@ -169,6 +169,7 @@ Increases the Level of Ryuukin Saxifrage by 3. Maximum upgrade level is 15.
 
 During Niwabi Fire-Dance, Yoimiya's Normal Attacks have a 50% chance of firing an extra Kindling Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
 {% endtab %}
+ * Kindling Arrow shares ICD with Yoimiya's infused normal attacks.
 {% endtabs %}
 
 ## Full Talent Values
