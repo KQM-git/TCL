@@ -100,7 +100,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 
 * The meteorite is considered a Geo construct and can be climbed or use to block attacks
 * Holding allows you to aim where the meteorite appears and has a faster animation time.
-* There is a construct limit of 3 Geo constructs max on one field, after hitting the maximum the oldest construct will be destroyed whenever a new construct is created.
+* Starfell Sword can be manually detonated by over-capping the Geo construct limit (3 constructs).
 
 | Type | Talent 6% |
 | :--- | :--- |

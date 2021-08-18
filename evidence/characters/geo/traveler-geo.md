@@ -104,6 +104,21 @@ Geo traveler’s C2 damage instance is considered skill damage.
 Testing done by cartercr#4207  
 Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=RxQwnPeyXZ0)
 
-
 **Significance**  
 Damage calculations for Geo Traveler
+
+## Geo Traveler E can be manually detonated
+
+**By:** Sorry#6046  
+**Added:** 08/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876140744275005540/877470462693756928/transcript-geo-mc-boulder-can-be-manually-exploded.html)
+
+**Finding:**  
+Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo construct.
+
+**Evidence:**  
+Evidence 1: [Imgur](https://imgur.com/a/mACZf89)  
+Evidence 2: [Imgur](https://imgur.com/a/uimbAgh)  
+
+**Significance**  
+Geo supremacy.
