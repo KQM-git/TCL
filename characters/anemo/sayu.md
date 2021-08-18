@@ -104,6 +104,7 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 | Duration | 12s |
 | CD | 20s |
 | Energy Cost | 80 |
+| Cast Frames | 65 |  
 
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
 * **Yoohoo Art: Mujina Flurry** snapshots
