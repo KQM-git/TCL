@@ -2,8 +2,8 @@
 
 ## Bake-Danuki Respawn
 
-**By:** Mcpie\#8672
-**Added:** 8/8/2021
+**By:** Mcpie\#8672  
+**Added:** 8/8/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868107312617889803/874106706328690778/transcript-inazuma-bake-danuki-respawn.html)
 
 **Finding:** Theory: Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
@@ -286,3 +286,62 @@ For example, Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 
 **Significance:**  
 Putting out campfires with utmost efficiency
+
+## Investigation Mechanics
+
+### Daily Investigation Limit  
+
+**By:** Mcpie#8672  
+**Added:** 08/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868135553764311051/876092967356629032/transcript-investigation-daily-limit.html)  
+
+**Theory:**  
+There exists an investigation daily limit of 100. It is possible to go beyond this number by not leaving the rendered zone after reaching 100. Bake-danukis that give investigation spots count towards this limit as well.
+
+**Evidence:**  
+Video shows me logging into genshin (Welkin, daily commissions displaying due to first login, 160 resin so I crafted condensated resin) and running through 100 investigation spots to showcase that if you investigate 100th spot then rerendering the zone WILL NOT display previously accessible investigation spots.  
+[Video](https://youtu.be/vW7O4U4MoJQ)  
+Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investiogation spot in the video and I increased the counter after each one of them.  
+
+Video showcasing that it is possible to go beyond the cap. There's on-screen counter present showing how many investigation spots I have already gathered. I managed to get a total of 174 investigation spots.  
+[Video](https://youtu.be/Uzs8yu6H1BI)
+
+**Significance:**  
+Since patch 2.0, if you're going to do artifact routes then you don't want to investigate every single spot there is due to this limit and the fact that there are over 100 investigation spots containing artifacts as of now.  
+Additionally, because it's possible to go beyond 100 by not leaving the zone on 100th spot, it's advised to leave places with high amount of investigation spots for last.
+
+### Daily Investigation Limit Reset  
+
+**By:** Mcpie#8672  
+**Added:** 08/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869052058752385034/876092976483418132/transcript-daily-investigation-limit-resets-at-daily-reset.html)  
+
+**Theory:**  
+Daily investigation limit resets at daily reset.
+
+**Evidence:**  
+[Video](https://youtu.be/JWCW9NjTL8A)  
+Video shows my character in 2 artifact spots that I have not picked on the previous day. Once I was in the Liyue cellar spot, daily reset happened - after teleporting far away and back, I was able to pick up investigation spots.  
+
+**Significance:**  
+Allows for early artifact route run if you still have uninvestigated spots.
+
+### Daily Investigation Spots Post Daily Cap  
+
+**By:** Mcpie#8672  
+**Added:** 08/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875747620621004800/876093025124761600/transcript-investigation-spots-post-daily-cap.html)  
+
+**Theory:**  
+We already know that the daily investigation cap is 100 and it's possible to go beyond that number by picking already rendered investigation spots.  
+If you're about to hit the daily cap and go too far from the place you are at right now without teleporting/relogging and then go back, the rendered investigation spot is lost. This would mean that all investigation spots are stored in your memory and they are strictly connected to your render distance.  
+
+**Evidence:**  
+Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=1778) - gathered 99th spot, going north to get 100th which is the cap. There are 2 spots visible here to gather.  
+Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=2780) - gathered 174 spots, no investigation spots present even though there was no teleport/relog happening.  
+Area covered by black thick border shows the vicinity of where I was past 100th spot, while the dot displays timestamped above locations.
+
+**Significance:**  
+A test whether already rendered investigation spots get removed from your memory if you go too far or not - if it was allowed then it would be possible to walk through the entire inazuma (if you're some freaking absolute minmaxer), render all investigation spots at least once and then pick all of them up because everything is stored in your memory.
+
+The above video displays that investigation spots are stored in your memory, and if you go too far then they are removed as it should be, because memory leaks are a horrible thing.
