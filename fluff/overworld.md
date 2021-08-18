@@ -42,6 +42,13 @@
 
 - Burning damage scales with the affected target's EM and Level
 
+## Investigation Mechanics  
+
+### Daily Investigation Limit  
+
+* There exists an investigation daily limit of 100. After that, you cannot "investigate" to pick up items anymore. This limit resets at daily reset.
+  * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}
