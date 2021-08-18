@@ -103,6 +103,7 @@ Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of
 
 * Tectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
+* **Fatal Blossoms** DMG snapshots when his **Solar Isotoma** is cast, not when **Tectonic Tide** is cast.  
 {% endtab %}
 {% endtabs %}
 
