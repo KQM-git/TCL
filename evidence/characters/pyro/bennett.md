@@ -181,6 +181,7 @@ Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shat
 
 **By:** bloodreign616#4766  
 **Added:** 08/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877622028209889291/877811754002968576/transcript-bennett-c6-affects-ranged.html)
 
 **Finding:**  
 Bennett C6 Pyro Damage Bonus affects Catalyst and Bow-wielders
