@@ -30,12 +30,12 @@ Perform up to 5 rapid strikes.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 65.38% | 14 | 760.20% |
-| 2-Hit DMG | 65.75% | 34 | 314.70% |
-| 3-Hit DMG | 37.5% + 45% | 60 + 70 | 249.03% |
-| 4-Hit DMG | 88.25% | 97 | 253.95% |
-| 5-Hit DMG | 36.88% x3 (110.64%) | 140 | 240.43% |
-| Recovery (Total MV) | 150.45% | 200 | 247.28% |
+| 1-Hit DMG | 65.38% | 14 | 280.2% |
+| 2-Hit DMG | 65.75% | 34 | 231.40% |
+| 3-Hit DMG | 37.5% + 45% | 60 + 70 | 183.11% |
+| 4-Hit DMG | 88.25% | 97 | 186.73% |
+| 5-Hit DMG | 36.88% x3 (110.64%) | 140 | 176.79% |
+| Recovery (Total MV) | -- | 200 | 123.76% |
 
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 
@@ -45,7 +45,8 @@ Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 62.5% + 108.5% | 14 + 44 | -- |
-| Recovery (Total MV) | 62.5% + 108.5% | 78 | 247.28% |
+| N1C | 65.38% + 62.5% + 108.5% | 58 | 244.53% |
+| N1C w/Recovery | 62.5% + 108.5% | 78 | 181.83% |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan. Plunging Attack: Midare Ranzan When a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to Anemo DMG and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
