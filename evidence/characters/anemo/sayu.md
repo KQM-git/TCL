@@ -6,6 +6,8 @@
 
 ## Basic Sayu Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873816131952070666/878384038103097364/transcript-sayu-basic-mechanics.html)
+
 ### Attack Attributes
 
 * Gauges
