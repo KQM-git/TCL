@@ -6,6 +6,8 @@
 
 ## Basic Yoimiya Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/867272710715736064/878384023569825852/transcript-yoimiya-basic-mechanics.html)
+
 ### Attack Attributes
 
 * Gauges - [xf3#3123](https://imgur.com/a/cmgaCZm)
