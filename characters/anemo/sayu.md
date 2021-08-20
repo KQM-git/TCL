@@ -76,6 +76,7 @@ Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resist
 | CD | 6 to 11 s | -- | -- | -- |
 
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
+* **Windwheel Roll** and **Whirlwind Kick Damage** snapshot.  
 * **Windwheel Roll** has a 3s ICD for energy generation.
 * **Windwheel Roll**'s Absorption Priority: Pyro > Hydro > Electro > Cryo.
 * **Windwheel Roll** follows standard ICD (3-hit/2.5s)b

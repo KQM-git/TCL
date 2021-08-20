@@ -24,7 +24,8 @@
 
 ### Skill Mechanics
 
-* Sayu's roll is affected by movement speed buffs. - [Hikaru#8338](https://youtu.be/zlPtLamzvVg)
+* Sayu's roll is affected by movement speed buffs. - [Hikaru#8338](https://youtu.be/zlPtLamzvVg)  
+* Sayu's roll snapshots [1](https://youtu.be/fM_7247lDqk) [2](https://youtu.be/XrN4D5es3-g) - chae#0720  
 * Sacrificial does not proc on hold E Windwheel hits, it can only proc on Fuufuu Whirlwind Kick - [Steph#3614](https://www.youtube.com/watch?v=A_QoytoKyZw)
 * Sayu's Elemental Skill can be used at 0 stamina, and does not consume nor gain any stamina during the roll. - [EdisonsMathsClub#6469](https://www.youtube.com/watch?v=EboCmsXMfIo&feature=youtu.be)
 * Absorption Priority is: Pyro > Hydro > Electro > Cryo - [채z#0007](https://youtu.be/E8hTyByWYF0)
@@ -35,7 +36,11 @@
 * Sayu Hold E can be cancelled out of by...
   * Dash Cancelling - [RazorClaws#4343](https://www.youtube.com/watch?v=vwKnua1AOCI)
   * Jump Cancelling - [RazorClaws#4343](https://www.youtube.com/watch?v=NWDobcF8vpg)
-  * Swapping Characters - [Mcpie#8672](https://i.imgur.com/SUEmTnj.mp4)
+  * Swapping Characters - [Mcpie#8672](https://i.imgur.com/SUEmTnj.mp4)  
+* Sayu's E roll keeps on rolling if you want to answer or write a message. Finally a way to perform "autowalk". Works in coop as well. - [Mcpie#8672](https://i.imgur.com/bbliYsk.mp4)  
+* Sayu's roll E kick performs autotarget during unroll. - [Mcpie#8672](https://i.imgur.com/AmJdNSP.mp4)  
+* Sayu's roll continues during cinematics. - [Mcpie#8672](https://i.imgur.com/GH6nirt.mp4)  
+* Sayu's kick onto a crystal ore will make it require only 3 more hits rather than 4. - [Mcpie#8672](https://i.imgur.com/1OqLOWP.mp4)  
 
 ### Burst Mechanics
 
