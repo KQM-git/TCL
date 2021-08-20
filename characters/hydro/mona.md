@@ -40,6 +40,7 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 | GU | 1A | ~ | ~ |
 
 * Frame counts are done using M1 Spams.
+* Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
