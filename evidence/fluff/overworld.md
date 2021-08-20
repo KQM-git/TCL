@@ -498,11 +498,9 @@ Just don't get burnt.
 Burning grass has standard ICD - 3 hits/2.5 seconds
 
 **Evidence:**  
-Virgin running into a lake evidence by Greyhound#7836  
-[Video](https://www.youtube.com/watch?v=ZMhy74oH1AI)  
+Virgin running into a lake evidence by Greyhound#7836: [Video](https://www.youtube.com/watch?v=ZMhy74oH1AI)  
 
-Chad perma wet evidence by Aluminum#5462  
-[Video](https://youtu.be/ffisrID76r0)
+Chad perma wet evidence by Aluminum#5462: [Video](https://youtu.be/ffisrID76r0)
 
 **Significance:**  
 Vault update.
