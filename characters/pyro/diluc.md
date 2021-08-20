@@ -89,8 +89,9 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Total Talent Value \(3 DoT procs\) | 824% |
 | Motion Value | 341%/s |
 
-* The ICD for **Dawn** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.
-* Pyro infused autos have 1U worth of Pyro application.
+* The ICD for **Dawn** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.  
+* The initial hit of **Dawn** has 2U Pyro application.  
+* Pyro infused autos have 1U worth of Pyro application.  
 {% endtab %}
 {% endtabs %}
 
