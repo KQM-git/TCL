@@ -182,7 +182,7 @@
 
 {% tab title="Findings" %}
 * The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.  
-* The 4 piece effect does not stack and its duration can be reset 
+* The 4 piece effect does not stack but its duration can be reset if there are multiple 4ToM wielders
 {% endtab %}
 {% endtabs %}
 
