@@ -274,3 +274,38 @@ Mona Q doesn't trap the enemy, however benny's E does not trigger the bubble due
 
 **Significance:**  
 Better understanding and utilizing of Mona burst.
+
+## Mona 3rd AA has Two Different Animations
+
+**By:** Ravantier#4984  
+**Added:** 08/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876768975940370472/878186098935861258/transcript-mona-3rd-aa-has-two-different-animations.html)
+
+**Finding:**  
+Mona's 3rd AA has Two Different Animations
+
+When executing N3 or further, Mona's 3rd AA will either jump backwards or jump forward depending on the distance her target is relative to her position.
+
+The exact distance threshold is about the size of Abyss' outer circle's diameter. In the case the distance is smaller than this diameter, then Mona's 3rd AA will cause Mona to jump backwards away from her target. Vice versa, if the distance is greater or equal to this diameter, then Mona's 3rd AA will cause her to jump forward towards her target.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/cdjpoqP)  
+As part of the Evidence, I've included a timer in the case that this affected Mona's MV calculations, but the differences seem insignificant. 
+
+Mona Forward AA3  
+[Imgur](https://imgur.com/a/Jf0Rtny)  
+
+Mona Backward AA3  
+[Imgur](https://imgur.com/a/lkOYrRx)
+
+**Odd No-Target Behavior:**  
+When attempting to do this with no targets in the Overworld, Mona has moments when she jumps forward and backwards interchangeably. However, this is likely due to how finicky targeting can be in non-combative Overworld scenarios. When attempting her N3 in an empty domain, Mona always jumps backwards except when near the area where we collect rewards. This inclines me to believe that Mona jumps backwards as the default for her 3rd AA as she likely targets something at the end of the domain arena causing her to jump forward and backward interchangeably only in that portion of the domain.
+
+Mona Empty Domain (Middle):  
+[Imgur](https://imgur.com/a/feUa89W)
+
+Mona Empty Domain (End):  
+[Imgur](https://imgur.com/a/Q9uFZob)
+
+**Significance:**  
+Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in the case of low-stamina scenarios, sequences that utilize her 3rd AA may be used. In these moments, how Mona jumps after her attack may provide positional advantages/disadvantages. Additionally, Mona is the only character that has two differing animations in her AA-sequence.
