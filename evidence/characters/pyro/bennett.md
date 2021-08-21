@@ -177,3 +177,19 @@ The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multipl
 **Conclusion:**  
 Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.  
 
+## C6 Bennett Pyro Damage Bonus affects Catalyst and Bow-wielders
+
+**By:** bloodreign616#4766  
+**Added:** 08/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877622028209889291/877811754002968576/transcript-bennett-c6-affects-ranged.html)
+
+**Finding:**  
+Bennett C6 Pyro Damage Bonus affects Catalyst and Bow-wielders
+
+**Evidence:**  
+[Video](https://youtu.be/nSqAESuEegY)  
+[Video](https://youtu.be/UnX4IGZ2Ihw)  
+Both Amber and Lisa stat details display 15% Pyro DMG Bonus after entering the field of Passion Overload, and display 0% after exiting. 
+
+**Significance:**  
+Bennett's 6th Constellation would appear to be a mistranslation, or otherwise not work as stated, and increases not only Sword, Claymore, and Polearm-wielding characters' Pyro DMG Bonus by 15%, but Catalyst and Bow-wielding characters' as well.

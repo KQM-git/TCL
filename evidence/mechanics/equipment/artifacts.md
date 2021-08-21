@@ -312,6 +312,25 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 **Significance:** 4pc Millelith can have 100% uptime even against enemies that block all incoming damage.
 
+### 4pc ToM does not stack and resets duration
+
+**By:** WinJ#9420  
+**Added:** 08/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877837766946357279/878174472325169173/transcript-multiple-tom-wielder-interactions.html)
+
+**Theory:**  
+The 4pc effect of Tenacity of the Millelith does not stack and its duration can be reset.
+
+**Evidence:**  
+4ToM Does Not Stack: [Imgur](https://imgur.com/a/9MlQkqG)  
+Zhongli ATK stays the same despite having "2" 4ToM applied via Zhongli E + Diona E.
+
+4ToM Resetting Duration: [Imgur](https://imgur.com/ZNSvsLi)  
+Buff activates at 11s ish (18s left in the vid), I open menu between 12s - 17s and buff is "reset" by Zhongli E at 18s ish and lasts until 21s ish.
+
+**Significance:**  
+Stacking 4 ToM on 2 characters on the same team has consequences.
+
 ## Shimenawa's Reminiscence  
 
 ### The buff gained and energy drain can not reoccur if effect has been activated.  

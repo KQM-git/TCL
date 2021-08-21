@@ -6,6 +6,8 @@
 
 ## Basic Yoimiya Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/867272710715736064/878384023569825852/transcript-yoimiya-basic-mechanics.html)
+
 ### Attack Attributes
 
 * Gauges - [xf3#3123](https://imgur.com/a/cmgaCZm)
@@ -29,7 +31,10 @@
 * Yoimiya can consistently trigger fall damage utilizing overload reactions. - [Bobrokrot#0111](https://youtu.be/T4niW6uCsC0)
   * You have to trigger all 3 overloads across her NA string to do this, otherwise she can miss the target. Results may vary for other electro applicators.
 * Yoimiya's auto-aim range for her normals is around 6 tiles (~15.3 meters) - [nat#4502](https://youtu.be/jUOaFM4R9AQ)
-
+* Kindling arrows can home in on different targets. - [Mcpie#8672](https://i.imgur.com/sbQgjv8.mp4)  
+* Kindling arrows have a limited range. - [Mcpie#8672](https://i.imgur.com/3bgYXfR.mp4)  
+* Kindling Arrow tracking is curved making it possible to orbit around targets. - [Ravantier#4984](https://imgur.com/mtpNOud)  
+  
 ### Skill Mechanics
 
 * Her infused arrows follow standard ICD - [Artesians#0002](https://imgur.com/lebjy1p)
@@ -49,7 +54,8 @@
 
 * Burst doesn't snapshot - [xf3#3123](https://i.imgur.com/gQwo7gs.mp4)
 * Burst follows standard ICD (3-hit/2.5s) - [ProfHugo#6478](https://www.youtube.com/watch?v=XcWfDIDdyEE)
-* The initial hit of Yoimiya's Burst is an arrow, and can miss. - [Aluminum#5462](https://youtu.be/mBOPnKHIHtg)
+* The initial hit of Yoimiya's Burst is an arrow, and can miss. - [Aluminum#5462](https://youtu.be/mBOPnKHIHtg)  
+* Yoimiya's burst elevates her character position. - [Ori#5463](https://youtu.be/-QKEeCRe2Vw)  
 
 ### Ascension Mechanics
 

@@ -172,7 +172,7 @@ Increases the Level of Fantastic Voyage by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Fire Ventures with Me**
+### Fire Ventures with Me
 
 Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
 
@@ -180,6 +180,7 @@ Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radi
 * The Pyro DMG bonus will apply to the Fantastic Voyage damage.
 * Pyro infused autos have 1U worth of Pyro applcation.  
 * The buff does not stack in coop.  
+* The description of **Fire Ventures with Me** has a mistranslation. The 15% Pyro DMG Bonus applies to every character within its area of effect, regardless of weapon type.  
 {% endtab %}
 {% endtabs %}
 

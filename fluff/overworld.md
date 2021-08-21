@@ -30,6 +30,10 @@
 - Electrified is a harmful reaction against both player and enemy.  
 - Electrified's damage is classified as transformative, but it works off of environment bases.  
 
+### Burning Grass
+
+Burning grass has standard ICD - 3 hits/2.5 seconds
+
 ## Other world maps  
 - The current world state & character position is saved between different world maps.  
 
@@ -38,7 +42,7 @@
 * Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
 
-## Burning damage scaling  
+## Burning damage Scaling  
 
 - Burning damage scales with the affected target's EM and Level
 
