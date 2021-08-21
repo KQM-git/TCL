@@ -487,3 +487,20 @@ Burning does not snapshot EM
 
 **Significance:**  
 Just don't get burnt.
+
+## Burning grass has standard ICD  
+
+**By:** Greyhound#7836  
+**Added:** 08/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877914693396758528/878182609329463306/transcript-burning-grass-icd.html)  
+
+**Theory:**  
+Burning grass has standard ICD - 3 hits/2.5 seconds
+
+**Evidence:**  
+Virgin running into a lake evidence by Greyhound#7836: [Video](https://www.youtube.com/watch?v=ZMhy74oH1AI)  
+
+Chad perma wet evidence by Aluminum#5462: [Video](https://youtu.be/ffisrID76r0)
+
+**Significance:**  
+Vault update.
