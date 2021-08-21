@@ -75,22 +75,20 @@ Diluc slashes in front of himself and releases a Phoenix, dealing Pyro DMG. The 
 
 After the slash, Diluc infuses his weapon with Pyro.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Slashing DMG | 286.6% |
-| DoT DMG | 84.0% |
-| Explosion DMG | 285.6% |
-| Infusion Duration | 8s |
-| Cooldown | 12s |
-| Energy Cost | 40 |
-| GU | 1A |
-| Imbue | 1A |
-| Frames | 145 |
-| Total Talent Value \(3 DoT procs\) | 824% |
-| Motion Value | 341%/s |
+| Effect | Talent 6% / Data | GU |
+| :--- | :--- | :--- |
+| Slashing DMG | 286.6% | 2B |
+| DoT DMG | 84.0% | 1A |
+| Explosion DMG | 285.6% | -- |
+| Infusion Duration | 8s | 1A |
+| Cooldown | 12s | -- |
+| Energy Cost | 40 | -- |
+| Frames | 145 | -- |
+| Total Talent Value \(3 DoT procs\) | 824% | -- |
+| Motion Value | 341%/s | -- |
 
-* The ICD for **Dawn** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.
-* Pyro infused autos have 1U worth of Pyro application.
+* The ICD for **Dawn** follows a 5-hit rule on elemental application rather than the standard 3-hit rule.   
+* Pyro infused autos have 1U worth of Pyro application.  
 {% endtab %}
 {% endtabs %}
 
