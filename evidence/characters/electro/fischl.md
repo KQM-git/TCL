@@ -595,3 +595,19 @@ After HoD buff is gone:
 [https://www.youtube.com/watch?v=lWoIZjSL6rc](https://www.youtube.com/watch?v=lWoIZjSL6rc)  
 
 **Significance:**  Social distancing
+
+## C6 Fischl doesn't fire with C6 Yoi
+
+**By:** EdisonsMathsClub\#6469  
+**Added:** 08/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878979789267025971/879056905895567461/transcript-c6-fischl-doesnt-fire-with-c6-yoi.html)
+
+**Finding:** C6 Fischl's joint attacks will not fire a joint attack with C6 Yoimiya's extra kindling arrows
+
+**Evidence:**  
+[https://www.youtube.com/watch?v=m0q9pbKT8x0](https://www.youtube.com/watch?v=m0q9pbKT8x0) and [https://i.imgur.com/1EH5R4A.png](https://i.imgur.com/1EH5R4A.png) to help break it down (credits to Xethrion to help provide footage of C6 Yoimiya and C6 Fischl)
+
+Step 1. Fire Yoimiya's N1, see how many Fischl's C6 numbers appears  
+Step 2. Fire Yoimiya's N1 but ensure C6 activates, see how many Fischl's C6 numbers appears
+
+**Significance:**  C6 Yoimiya does not turn Oz into a true mini gun, and the rate of C6 Fischl's joint attacks is limited by Yoimiya's innate Normal string combo.
