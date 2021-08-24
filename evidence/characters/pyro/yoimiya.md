@@ -20,7 +20,7 @@
   * Aurous Blaze Explosion: 1A
 * Energy Generation
   * Charged shot during E does not produce particles - [Steph#3614](https://imgur.com/yml32cI)
-  * Yoimiya's particle generation triggers on-hit (ICD estimate is ~2s, but further testing needs to be done) - [Steph#3614](https://imgur.com/zUi3Gxq)
+  * Yoimiya's particle generation triggers on-hit (ICD estimate is ~2s) - [Steph#3614](https://imgur.com/zUi3Gxq)
   * Yoimiya can still produce energy even after infusion expiry **as long as the icd is off CD and the infused normal attack string arrow lands** - [Steph#3614](https://imgur.com/L7RiFfc)
 * Kindling Arrows
   * Yoimiya's Kindling arrows last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range. - [xf3#3123](https://imgur.com/a/l8wot7Y)
