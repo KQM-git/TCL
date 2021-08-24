@@ -43,7 +43,6 @@ Other auras applied to your characters beforehand are removed entirely and do no
 * Asaki\#9139
 * Pitty Pat\#0286
 * Kimaen\#3382
-* Yurina Maekawa#6585
 
 ## Evidence Vault
 
