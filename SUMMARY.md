@@ -8,13 +8,10 @@
 
 * [Patch 2.0a](newsletter/patch-2.0a.md)
 * [Archive](newsletter/archive/README.md)
-  * [Patch 1.6b](newsletter/patch-1.6b.md)
-  * [Patch 1.6a](newsletter/patch-1.6a.md)
-  * [Patch 1.5b](newsletter/patch-1.5b.md)
+  * [Patch 1.6b](newsletter/archive/patch-1.6b.md)
+  * [Patch 1.6a](newsletter/archive/patch-1.6a.md)
+  * [Patch 1.5b](newsletter/archive/patch-1.5b.md)
   * [Patch 1.5a](newsletter/archive/patch-1.5a.md)
-  * [March 2021](newsletter/archive/march-2021.md)
-  * [February 2021](newsletter/archive/february-2021.md)
-  * [January 2021](newsletter/archive/january-2021.md)
 
 ## Characters
 
