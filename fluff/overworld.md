@@ -32,7 +32,14 @@
 
 ### Burning Grass
 
-Burning grass has standard ICD - 3 hits/2.5 seconds
+Burning grass has standard ICD - 3 hits/2.5 seconds.  
+
+### Zone Levels:
+
+The overworld map is split into multiple zones that affect enemy level and environmental reactions:  
+[Mondstadt](https://i.imgur.com/E0oN0B6.jpg)  
+Liyue(TBD)  
+Inazumuma(TBD)  
 
 ## Other world maps  
 - The current world state & character position is saved between different world maps.  
