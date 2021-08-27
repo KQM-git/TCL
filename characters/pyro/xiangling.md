@@ -144,6 +144,7 @@ Increase the Level of **Guoba Attack** by 3
 **Condensed Pyro**
 
 For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG Bonus.
+* Pyronado itself does not benefit from C6, but the third hit of her initial swings can receive the 15% **Pyro** DMG Bonus.
 {% endtab %}
 {% endtabs %}
 
