@@ -123,7 +123,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **By:** deaf#0246  
 **Added** 08/26/2021  
-[Discussion]()  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872856833835036723/878915593116454932/transcript-zone-levels.html)  
 
 **Finding:**  
 The overworld in Genshin is split into multiple zones which can be distinguished by how much damage overworld reactions deal.  
