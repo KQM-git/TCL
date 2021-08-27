@@ -140,6 +140,21 @@ Context: The Ruin Hunter does not reveal a weak spot until it enters artillery m
 **Significance:**  
 God forbid, a ruin hunter in the abyss but with this mechanic learned he's the easiest mob to beat since there's no delay after he recovers, just spam and take him down.  
 
+### Ruin Hunter Weakspot abuse   
+
+**By:** deRykcihC#0621  
+**Added:** 08/28/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878715141431115796/880934050624327800/transcript-abyss-map-time-delay-bug.html)
+
+**Finding:**  
+Mobs internal countdown can be used to activate weak spot on Ruin Hunter (same theory as Vegabond Event) in Spiral Abyss.
+
+**Evidence:**  
+[Youtube](https://youtu.be/Q3yzdJpC9S8): Mobs internal countdown will trigger time gated effects like Ruin Hunter: Bombardment mode and Primo Geovishap: Primordial Shower (works from Vegabond event). Such effect can be triggered if you have a long fight (ex. Ruin Hunter) in overworld.
+
+**Significance:**  
+Might be useful for people who can't follow up Ruin Hunter agile attack pattern in Spiral Abyss.
+
 ## Primo Geovishap
 
 ### Shield Reflection Mechanic
