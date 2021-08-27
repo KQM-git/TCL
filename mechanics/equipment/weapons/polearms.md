@@ -42,7 +42,7 @@
 | :--- | :--- |
 | Blackwing | Increases CRIT Rate by **8/10/12/14/16**% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vaccuum blade that deals **40/55/70/85/100**% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s. |
 | Base ATK | 48 - 674 |
-| ER% | 7.2% - 33.1% |
+| ER% | 8% - 36.8% |
 {% endtab %}
 
 {% tab title="Details" %}

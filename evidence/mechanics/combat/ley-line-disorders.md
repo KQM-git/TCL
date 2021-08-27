@@ -29,4 +29,3 @@ Leylines auras and duration documentation have been compiled in the video demos 
 
 **Significance:**  
 Understanding the strength and duration of leylines for the purposes of cleansing them with self-applied gauges
-
