@@ -184,6 +184,8 @@
 | Samurai Conduct | Increases Elemental Skill DMG by **6/7.6/9/10.5/12**% After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3/3.5/4/4.5/5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field. |
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
+
+* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
 {% endtab %}
 
 {% tab title="Details" %}
