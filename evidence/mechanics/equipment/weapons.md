@@ -322,11 +322,51 @@ Helpful for character building, documents which characters are able to proc sacr
 
 ### Kitain Cross Spear  
 
+#### Kitain Spear energy drain delay
+
+**By:** Episodde#8962  
+**Added:** 08/28/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
+
+**Finding:**  
+Kitain Spear energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
+
+**Evidence**:  
+Frame count: [Youtube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
+
+Rosaria able to perform E->Q with Kitain Spear equipped.  
+[Imgur](https://imgur.com/a/tI2pbMO)
+
+**Significance:**  
+Some characters actually do not need to change their rotation, because as long as you can cast your burst within about 23 frames after the elemental skill hit an opponent, your character will still be able to use elemental burst to spend all your energy before getting drained by the weapon passive.  
+Rosaria can hit enemy with her E to get her A1 crit rate buff and still be able to cast burst with Q afterward to share the crit before the energy is drained.
+
 #### Kitain passive will proc even if carrier has 0 energy.
 
 **By:** ItzSomebody\#0029  
 
 Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/3PLTSq6aALc)  
+
+### Katsuragikiri Nagamasa
+
+#### Katsuragikiri Nagamasa energy drain delay
+
+**By:** Episodde#8962  
+**Added:** 08/28/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
+
+**Finding:**  
+Katsuragikiri Nagamasa energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
+
+**Evidence**:  
+Frame count: [Youtube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
+
+Beidou using dash cancel to perform E -> Q with Nagamasa equipped. Still able to funnel energy.  
+[Imgur](https://imgur.com/a/1sEAzoa)
+
+**Significance:**  
+Some characters actually do not need to change their rotation, because as long as you can cast your burst within about 23 frames after the elemental skill hit an opponent, your character will still be able to use elemental burst to spend all your energy before getting drained by the weapon passive.  
+Beidou can still do E into Q to funnel energy, as long as you dash cancel the E and then Q immediately.
 
 ### Lost Prayer to the Sacred Winds
 
