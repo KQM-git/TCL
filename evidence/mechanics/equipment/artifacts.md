@@ -770,6 +770,22 @@ List of tests:
 
 **Significance:** Rotations to include 4p vv users is more strict and 4p vv can shred those with an innate Anemo aura with other elements as the trigger.
 
+### VV Duration Extended by Hitlag
+
+**By:** Greyhound#7836  
+**Added:** 08/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878612062195036220/878613567186825266/transcript-vv-extended-by-hitlag.html)
+
+**Theory:**  
+The 4pc set effect's duration can be extended by hitlag.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=U82ec4qQrxw): Chongyun extending VV duration via hitlag  
+[Imgur](https://imgur.com/a/k0yDLwc): Jean applies VV at ~1565, chongyun's VV-ed attacks deal N1 = 148, N2 = 134, N3 =170, until frame 2315 where the N3 deals 143 damage as the VV shred wears off, resulting in ~12 seconds of VV shred, 2 seconds of hitlag past the intended 10s duration.
+
+**Significance:**
+VV use optimization.
+
 # Wanderer's Troupe
 
 ## Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
