@@ -169,6 +169,7 @@
 {% tab title="Findings" %}  
 * The effect cannot be refreshed.  
 * Energy will not be drained by using elemental skill while the effect is active.  
+* The Energy drain effect has a 7-frame delay from when Elemental Skill is cast to when you actually lose energy.  
 {% endtab %}
 {% endtabs %}
 
