@@ -144,7 +144,7 @@ Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anem
   * This counter lasts for over 30s, the exact time cap is still unknown
 * The cooldown reduction hard caps at each charge's cooldown. 
   * If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C5" %}
 ### Caution: Standard Flask
@@ -211,7 +211,8 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose)
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
-* [Sucrose Guide](https://keqingmains.com/full-sucrose-guide/)
+* [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
+* [Sucrose Youtube Quick Guide](https://youtu.be/paUqUTmcf-Y)
 
 **Evidence Vault**
 

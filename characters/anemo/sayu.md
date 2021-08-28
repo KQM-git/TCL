@@ -255,7 +255,7 @@ The Muji-Muji Daruma created by Sayu's Yoohoo Art: Mujina Flurry will now also b
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Sayu)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sayu)
 
 **Evidence Vault:**
 

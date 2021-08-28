@@ -227,6 +227,12 @@ After using Chihayaburu or Kazuha Slash, Kaedehara Kazuha gains an Anemo Infusio
 {% endtab %}
 {% endtabs %}
 
+## External Links
+
+* [Kazuha Mains Discord](https://discord.gg/kazuhamains)
+* [Kazuha Written Guide](https://keqingmains.com/kazuha/)
+* [Kazuha Youtube Quick Guide](https://youtu.be/QpaxtAxTJuA)
+
 **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/anemo/kazuha.md" %}
