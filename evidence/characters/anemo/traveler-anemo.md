@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/anemo/traveler-anemo.md" %}
 
-## Anemo MC's Q ability to "pick up" enemies is dependent on level difference
+## Burst Mechanics
+
+### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 
 **By:** Tsym\#2586  
 **Added:** 11/22/2020
@@ -19,7 +21,9 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 **Significance:** Anemo MC needs to be of a sufficiently high level relative to the enemy in order to be at all useful in combat at high enough levels.
 
-## C6 Effect Duration
+## Constellation Mechanics
+
+### C6 Effect Duration
 
 **By:** Orodalf\#9570  
 **Added:** 2/12/2021

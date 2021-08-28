@@ -4,23 +4,14 @@
 
 {% page-ref page="../../../characters/anemo/xiao.md" %}
 
-## **Xiao Mastersheet V2.0**
+## Attack Mechanics
 
-Xiao Mastersheet V2.0  
-**By:** Pichu\#0002 & shdwbld\#8103
-
-**Guide**
-
-[https://youtu.be/ZOwBJkbIug0 ](https://youtu.be/ZOwBJkbIug0)
-
-**Sheet Link** [https://docs.google.com/spreadsheets/d/1fcLLZPIaDM0fNWjqjCKBu6VcDxI1rz3QJgwCtVvEomM/edit?usp=sharing ](https://docs.google.com/spreadsheets/d/1fcLLZPIaDM0fNWjqjCKBu6VcDxI1rz3QJgwCtVvEomM/edit?usp=sharing)
-
-## **N1JCP Low/High Plunge Threshold**
+### **N1JCP Low/High Plunge Threshold**
 
 **By:** Artesian\#0002  
 **Finding:**
 
-\_\*\*\_The difference between initiating a low plunge from the jet combo \(N1CJP\) is literally 1 frame of input. At 8 frames between your jump and your plunge input, you do a low plunge, but if you wait 9 frames, you will do a high plunge.
+The difference between initiating a low plunge from the jet combo \(N1CJP\) is literally 1 frame of input. At 8 frames between your jump and your plunge input, you do a low plunge, but if you wait 9 frames, you will do a high plunge.
 
 **Evidence:**
 
@@ -30,7 +21,9 @@ Xiao Mastersheet V2.0
 
 Xiao's vertical displacement is super quick. If you want to do the jet combo, you need to get to the point where you get a high plunge, so the video is a good reference to know when you fail/do it correctly. It is also better to be late and high plunge than it is to be early and low plunge.
 
-## **Venti’s Ult and Plunges**
+## Synergies/Interactions
+
+### **Venti’s Ult and Plunges**
 
 **By:** RIBCAGED\#7071  
 **Findings:**
@@ -45,7 +38,20 @@ Xiao’s plunge does not hit enemies within Venti’s ult. When it does it’s w
 
 Players should try to time Xiao’s ult to when an enemy hits the floor so the enemy may receive dmg from it. Random plunge ATKs most likely will NOT hit the enemies. Also players can save their primogems if they were planning to roll for Venti for plans of CC for Xiao. If you are running both Venti and Xiao then alternate ults as you go. When Xiao's Q is up then Venti's isn't and vice versa.
 
-## **Weapons Ranking**
+## Calculations/Resources
+
+### **Xiao Mastersheet V2.0**
+
+Xiao Mastersheet V2.0  
+**By:** Pichu\#0002 & shdwbld\#8103
+
+**Guide**
+
+[https://youtu.be/ZOwBJkbIug0 ](https://youtu.be/ZOwBJkbIug0)
+
+**Sheet Link** [https://docs.google.com/spreadsheets/d/1fcLLZPIaDM0fNWjqjCKBu6VcDxI1rz3QJgwCtVvEomM/edit?usp=sharing ](https://docs.google.com/spreadsheets/d/1fcLLZPIaDM0fNWjqjCKBu6VcDxI1rz3QJgwCtVvEomM/edit?usp=sharing)
+
+### **Weapons Ranking**
 
 **By:** cola\#6861  
 **Finding:**
@@ -60,7 +66,7 @@ Using artifact drop data compiled by Acheron X and Data Gathering Server, I was 
 
 In this comparison, PJWS &gt; Homa, and Deathmatch roughly = Royal Spear. Blackcliff has a significantly lower floor when missing stacks.
 
-## **Xiao Talent Priority**
+### **Xiao Talent Priority**
 
 **By:** Fluffy\#5580  
 **Finding:**
@@ -75,7 +81,7 @@ I have run the numbers on every combination of AA/E/Q levels from 1-10 finding a
 
 Based on the table produced, we can see the optimal general order for talent leveling is AA&gt;Q&gt;E for any Xiao C0-5. The table can also be used as a tool to cross reference combo multipliers for any given AA/E/Q level combination and can be used to preview what talent is worth leveling up next to get the best multiplier.
 
-## **DPS increase with Talents/Levels**
+### **DPS increase with Talents/Levels**
 
 **By:** shdwbld\#8103 & HailCorporate\#2970  
 **Finding:**

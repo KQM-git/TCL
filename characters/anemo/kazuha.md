@@ -76,17 +76,15 @@ Unleashes a secret technique as fierce as the rushing wind that pulls objects an
 {% tab title="Kazuha Slash" %}
 The signature technique of Kazuha's self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing AoE Anemo DMG. The blade's passage will leave behind a field named "Autumn Whirlwind" that periodically deals AoE Anemo DMG to opponents within its range. Elemental Absorption If Autumn Whirlwind comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Slashing DMG | 367.36% |
-| DoT | 168% |
-| Additional Elemental DMG | 50.4% |
-| Duration | 8s |
-| CD | 15s |
-| Energy Cost | 60 |
-| Initial Slash |2U | 
-| Additional Elemental |1U |  
-| Frames | 93 |
+| Effect | Talent 6% / Data | GUs |
+| :--- | :--- | ---- |
+| Slashing DMG | 367.36% | 2GU |
+| DoT | 168% | 1GU |
+| Additional Elemental DMG | 50.4% | 1GU |
+| Duration | 8s | -- |
+| CD | 15s | -- |
+| Energy Cost | 60 | -- |
+| Frames | 93 | -- |
 * Infusion priority: Pyro > Hydro > Electro > Cryo  
 {% endtab %}
 {% endtabs %}
@@ -151,7 +149,7 @@ When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effect
 * Tapping or Holding Chihayaburu regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
 * When gliding, Kaedehara Kazuha regenerates 2 Energy per second.  
   * The energy gained while gliding is not affected by energy recharge.  
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C5" %}
 ### Wisdom of Bansei

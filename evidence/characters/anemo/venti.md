@@ -4,27 +4,29 @@
 
 {% page-ref page="../../../characters/anemo/venti.md" %}
 
-## Venti Burst Analysis
+## Skill Mechanics
+
+### Venti autoattack after elemental skill faster switching
+
+**By:** sexyeboy69\#3215  
+**Added:** 05/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834085780611137607/845831330662187028/transcript-venti-autoattack-after-skill-faster-switching.html)
+
+**Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
+
+**Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
+
+**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
+
+## Burst Mechanics
+
+### Venti Burst Analysis
 
 **By:** KleefulFrames\#6735
 
 Link [here](https://docs.google.com/spreadsheets/d/18SqSQzSyfQP4X2NGcXkubQ9NzC0BdT1Jxt0I1TL_zGs/edit#gid=2088924426).
 
-## Venti Weapon Comparisons and Guide
-
-**By:** paimonbukeyi\#4732  
-**Added:** 04/05/2021
-
-**Theory/Finding:** Mostly weapon rankings + optimal substats and to look for Venti with a bit of other calcs.
-
-**Evidence:** Just some simple substat optimization in my script.
-
-* [Sheet](https://docs.google.com/spreadsheets/d/1Z5UEfzhPpEyb_0ehjGj6z9W9oiQTr_bMcNL67XNvXW0/edit?usp=sharing)
-* [Guide](https://anneta-vershinina.gitbook.io/venti/)
-
-**Significance:** Better understanding of Venti.
-
-## Venti Q Absorbed Element ICD
+### Venti Q Absorbed Element ICD
 
 **By:** Charliex3000\#9403  
 **Added:** 04/05/2021
@@ -35,7 +37,7 @@ Link [here](https://docs.google.com/spreadsheets/d/18SqSQzSyfQP4X2NGcXkubQ9NzC0B
 
 **Significance**: Once the GUs of Venti ult's absorbed element has been determined, this can aid us in calculating his single target elemental application rate
 
-## Venti Q Late Absorption Bug
+### Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  
 **Added:** 04/23/2021  
@@ -54,7 +56,43 @@ Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infu
 **Significance:**  
 When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
 
-## C6 Venti Resistance Down Duration
+### Venti Burst Infusion Elemental Gauge Units
+
+**By:** Ayzel\#7399  
+**Added:** 5/2/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837853360023011378/838536559040790608/transcript-venti-burst-1u-infusion.html)
+
+**Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
+
+**Evidence:** [https://youtu.be/HcfgBlMjlLA](https://youtu.be/HcfgBlMjlLA)
+
+The last tick of the hydro damage caused by Venti's burst elemental infusion is at about 18 seconds. The hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
+
+**Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
+
+## Constellation Mechanics
+
+### C1: Splitting Gales
+
+#### Venti C1 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+ [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+
+**Finding:**  
+Venti’s C1 damage instance is considered CA damage.
+
+**Evidence:**  
+Testing done by Peekays#2722  
+Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=zvq7kmHLpmU)
+
+**Significance:**  
+Damage calculations for Venti.
+
+### C6: Storm of Defiance
+
+#### C6 Venti Resistance Down Duration
 
 **By:** Hishammm ♡\#0001  
 **Added:** 05/01/2021  
@@ -96,33 +134,9 @@ Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com
 
 **Significance:** Here is how long C6 venti debuff lasts since mihoyo didn't bother to list it.
 
-## Venti Burst Infusion Elemental Gauge Units
+## Synergies/Interactions
 
-**By:** Ayzel\#7399  
-**Added:** 5/2/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837853360023011378/838536559040790608/transcript-venti-burst-1u-infusion.html)
-
-**Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
-
-**Evidence:** [https://youtu.be/HcfgBlMjlLA](https://youtu.be/HcfgBlMjlLA)
-
-The last tick of the hydro damage caused by Venti's burst elemental infusion is at about 18 seconds. The hydro aura fully disappears at about 27 seconds, which means that the damage caused is 1U.
-
-**Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
-
-## Venti autoattack after elemental skill faster switching
-
-**By:** sexyeboy69\#3215  
-**Added:** 05/23/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834085780611137607/845831330662187028/transcript-venti-autoattack-after-skill-faster-switching.html)
-
-**Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
-
-**Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
-
-**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
-
-## Venti Burst On Top of Zhongli Pillar
+### Venti Burst On Top of Zhongli Pillar
 
 **By:** EdisonsMathsClub\#6469  
 **Added:** 6/3/2021
@@ -135,21 +149,5 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 2. Place Zhongli's pillar, it should be 4 tiles away from the Venti firing location.  
 3. Walk to desired Venti firing location and fire Vortex, it should land ontop of it.  
 
-**Significance:** This allows for Venti to pull in targets whilst keeping them just low enough for melee units to hit such as Childe, despite being within the 20 levels to pull them in. However due to unknown reasons \(at the time, see &lt;\#846381351012007967&gt; \), the enemies will float \(perhaps due to poise\) after some time.
+**Significance:** This allows for Venti to pull in targets whilst keeping them just low enough for melee units to hit such as Childe, despite being within the 20 levels to pull them in. However due to unknown reasons, the enemies will float \(perhaps due to poise, further investigation is needed\) after some time.
 
-## Venti C1 damage
-
-**By:** elijam#7142  
-**Added:** 08/07/2021  
- [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
- 
-**Finding:**  
-Venti’s C1 damage instance is considered CA damage.
-
-**Evidence:**  
-Testing done by Peekays#2722  
-Damage increases with 4WT bonus - [Video](https://www.youtube.com/watch?v=zvq7kmHLpmU)
-
-
-**Significance:**  
-Damage calculations for Venti.
