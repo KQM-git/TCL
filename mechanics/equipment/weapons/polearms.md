@@ -298,6 +298,7 @@
 | Base ATK | 44 - 565 |
 | EM | 24 - 110 |  
 * Effect can be activated at 0 energy without going into the negative.  
+* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
 {% endtab %}
 
 {% tab title="Details" %}
