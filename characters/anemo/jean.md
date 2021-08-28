@@ -100,8 +100,8 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Cast frames | 88 |
-|{% endtab %}||
-|{% endtabs %}||
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
