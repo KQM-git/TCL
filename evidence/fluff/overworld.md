@@ -119,6 +119,24 @@ The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)
 **Significance:**  
 We're getting ever so closer to figuring out the cursed world of teyvat's code
 
+### Zone levels: Mondstadt  
+
+**By:** deaf#0246  
+**Added** 08/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872856833835036723/878915593116454932/transcript-zone-levels.html)  
+
+**Finding:**  
+The overworld in Genshin is split into multiple zones which can be distinguished by how much damage overworld reactions deal.  
+
+**Evidence:**  
+[Zones](https://i.imgur.com/E0oN0B6.jpg)  
+A lot of painful testing was done via monitoring: enemy levels, Burning grass and Electrified, all of which can be found in the image above.  
+
+**Significance:**  
+Fluff, and a deeper understanding of how the overworld is programmed
+with that, I consider this completed. 
+I have nothing but regrets.
+
 ## 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
