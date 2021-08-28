@@ -13,7 +13,6 @@
   * E Tap: [1GU](https://youtu.be/SoCI_E1eDXE), Tap E Aura duration is 12s.
   * E Hold: [2GU](https://www.youtube.com/watch?v=7j8-P-dLrt4), Held E Aura duration is 15s.
   * Enhanced Plunge & A1: [1GU](https://www.youtube.com/watch?v=DcoAQXhCkz4)  
-  * Q: Initial hit: 2GU  
    * Burst Elemental DMG ticks: [1GU](https://www.youtube.com/watch?v=3QzC22lg67c) - Quenton\#1124  
 * Range radius - [Greyhound\#7836](https://www.youtube.com/watch?v=0rnQRpGp8dM)  
   * E tap: 5 meters  
