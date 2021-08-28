@@ -93,15 +93,15 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 | :--- | :--- |
 | Burst DMG | 594.72% |
 | Border DMG | 109.76% |
-| Burst Healing | ATK 351.68% + 2439 |
-| Continous Healing | ATK 35.17 + 244 |
+| Burst Healing | 351.68% ATK + 2439 |
+| Continous Healing | 35.17% ATK + 244 |
 | GU | 2U |
 | Duration | 10s |
 | Cooldown | 20s |
 | Energy Cost | 80 |
 | Cast frames | 88 |
-{% endtab %}
-{% endtabs %}
+|{% endtab %}||
+|{% endtabs %}||
 
 ## **Ascension Passives**
 
@@ -230,8 +230,9 @@ Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. U
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Jean)
-* [**Jean Mains Discord**](https://discord.gg/fSw9xXSyTe)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Jean)
+* [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
+* [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
 
 **Evidence Vault:**
 

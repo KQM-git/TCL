@@ -216,7 +216,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiao)
 * [Xiao Mains Discord](https://discord.gg/Xiao)
-* [Full Xiao Guide](https://keqingmains.com/xiao/)
+* [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
 
 **Evidence Vault:**
 

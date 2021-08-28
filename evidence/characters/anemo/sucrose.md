@@ -2,9 +2,11 @@
 
 **Main Page:**
 
-{% page-ref page="../../../characters/anemo/surcrose.md" %}
+{% page-ref page="../../../characters/anemo/sucrose.md" %}
 
-## **Sucrose's N1 Attack can, in some Situations, Cease to Exist**
+## Attack Mechanics
+
+### **Sucrose's N1 Attack can, in some Situations, Cease to Exist**
 
 **By:** Mikman\#1149
 
@@ -20,7 +22,9 @@ There's a video linked showing the issue occurring at 0:02 and 0:19 [**https://d
 
 From what I can tell \(complaints about it on Hoyolab\), this has been in the game since launch. Attacking quickly with Sucrose will, in many instances, lose a significant portion of damage \(and more importantly Swirl potential\) because this bug is still in the game.
 
-## **Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite? \(Cola\#6861\)**
+### **Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?**
+
+By: Cola\#6861
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are anemo which will swirl the electro debuff on the enemy.
 
@@ -28,13 +32,123 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 **Evidence:**
 
-[**https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be**](https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be)
+[https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be](https://www.youtube.com/watch?v=oyykxzJySIk&feature=youtu.be)
 
 **Significance:**
 
 One more reason to get Sucrose out in the field more often, at least for this use case
 
-## **Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously**
+## Ascension Mechanics
+
+### A4: Mollis Favonius
+
+#### Sucrose A4 snapshots EM value
+
+**By:** NZPIEFACE#8439  
+**Added:** 07/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864528623578251314/866111168929857537/transcript-sucrose-a4-snapshots-em-value.html)
+
+**Findings:** Sucrose A4 snapshots EM value.
+
+**Evidence:**  
+[Albedo snapshot](https://www.youtube.com/watch?v=5n60s5c9e0M)
+
+* First half, using Sucrose A4 before EM buff from Albedo A4, grants 0 EM to everyone. Albedo Q increases party EM by 125. Higher value is expected if A4 did not snapshot.
+* Second half, using Sucrose A4 a few seconds before the EM buff from Albedo ends. Grants 25 (20% of 125) EM to other party members. After albedo buff expires, party members still have 25 EM buff, instead of 0 if A4 did not snapshot
+
+[Instructor buff post](https://www.youtube.com/watch?v=msWr5X0Rrvw)
+
+* Using Sucrose A4 gives 16 EM to other party members. This is expected.
+* Causing a swirl reaction further gives party members 170 EM (120 from instructor, 50 from A2) and 120 to Sucrose.
+* If A4 did not snapshot, total EM on party members would be 210 instead of 186.
+
+[Instructor buff pre](https://www.youtube.com/watch?v=xXH_wWKpZg4)
+
+* A4 without buff -> 16 EM to other party members.
+* Swirl without A4 buff -> 170 EM to other party members, 120 to sucrose (200 total in sucrose).
+* After instructors and A1 expires -> 40 EM on party members instead of 16.
+
+[Widsith post](https://www.youtube.com/watch?v=F5gj8iyodUs)
+
+* A4 -> 0 EM to other party members.
+* After widsith -> 0 EM to other party members, 480 on Sucrose.
+* Without snapshot, expected 96 EM to party.
+
+[Widsith pre](https://www.youtube.com/watch?v=mkYHGvOsIOY)
+
+* Vid starts with showing widsith buff.
+* A4 -> 96 EM to other party members.
+* After buff decays -> 96 EM to other party members.
+* Without snapshot expected to be 0 EM.
+
+[Instructor EM buff procs before A4](https://www.youtube.com/watch?v=3CvAb1XWgUE)  
+
+* Sucrose gives 210 EM (50 + 120 + 20% * 200) to other party members despite not getting Instructor buff beforehand.
+
+**Significance:**
+
+* Use buffs in the right order: Buff sucrose first (this only means albedo) to maximize EM share to rest of party.
+* Time your buffs. its possible to switch back to sucrose before these buffs end to extend the effective duration of A4.
+* Quickswap with Instructors set doesn't need proc the buff with a normal attack first before E.
+
+## Constellation Mechanics
+
+### C4: Alchemania
+
+#### Sucrose C4 Mechanics
+
+**By:** Sitri\#9504  
+**Added:** 5/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837549621936652309/841878915156279306/transcript-sucrose-c4-mechanics.html)
+
+**Findings:**  
+Remember that Sucrose C4 creates a 7 hit counter, where after 7 hits your E CD is reduced by 1-7s.
+
+Sucrose C4 creates a 7 hit counter when the first normal/charged attack connects an enemy \(hitting the air does not create, nor further the counter\). However, this counter starts whether your E is on cooldown or not. If you do 5 normal attacks, then E and put your E on cooldown, you only need to do 3 more to hit the counter and get your cooldown reduced.
+
+Switching characters does not delete this counter either, and it exists for a very long time, tested up to 30s, so guesstimate is 30s plus. Death also does not delete the counter.
+
+The cooldown reduction hard caps at each charge's cooldown. If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown.  
+Example: E is on 3s CD, you get a 5s CD reduction, you instantly gain E charge and timer start at 15s for the remaining charge.
+
+Sucrose C4 CD reduction probability distribution:  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1jMODclkPguPHpTsLmGafbvQKIcXk1ddc9NWYPjhqqsc/edit?usp=sharing)  
+[Image \(Graph\)](https://cdn.discordapp.com/attachments/837549621936652309/837957383111049216/unknown.png)  
+Although the distribution does not fit nicely into the Gaussian curve, mean ~ 4s suggests there is no overly skewed cooldown reduction to either lower or higher bound, at large N.
+
+**Evidence:**  
+Switching character does not reset Sucrose counter: [Video](https://www.youtube.com/watch?v=Q32IuH-Eu9g)  
+Counter starts whether your E is on CD or not: [Video](https://youtu.be/Q2zyolyA8r0)  
+Counter exists for 30s+: [Video](https://youtu.be/qTboBW3A7Qw)
+
+**Significance:**  
+This very slightly makes on field enabler Sucrose comps better, as swapping on Sucrose is very lenient + better understanding of Sucrose C4 RNG.
+
+### C6: Chaotic Entropy
+
+#### Sucrose C6 Buff Timer
+
+**By:** Terrapin\#8603  
+**Added:** 5/9/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840099295344197632/840821871901540362/transcript-sucrose-c6-buff-timer.html)
+
+**Finding:**  
+The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which element is absorbed by Sucrose's burst\) lasts for 10 seconds.
+
+**Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
+
+The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her burst absorbing Pyro from Guoba.
+
+The second test shows that, as soon as Sucrose's Elemental Burst absorbs Pyro, Sucrose gets buffed, which lasts for 10 seconds.
+
+The third test shows that even a late absorption of Pyro still results in a 10 second buff.
+
+**Significance:**  
+Teams with C6 Sucrose can plan their absorption time around when they want to utilize her 10 second buff window, either for snapshotting or for general team rotations.
+
+## Synergies/Interactions
+
+### **Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously**
 
 **By:** Faranight\#0001
 
@@ -48,7 +162,7 @@ If running these together you should avoid triggering both while holding a spare
 
 \[Also applies to other characters with charges\]
 
-## **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
+### **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
 
 **By:** ioannesfifth\#1236 **Added:** 01/26/2021
 
@@ -78,7 +192,7 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 
 25 EM is lost if Sucrose triggers first which may be important in making rotations when min-maxing reaction damage.
 
-## **Diona's Burst at Constellation 6 Stacks with Sucrose's Passive.**
+### **Diona's Burst at Constellation 6 Stacks with Sucrose's Passive.**
 
 **By:** EggsD\#9603 and AngaFundarge\#4044
 
@@ -95,56 +209,7 @@ So in essence, Diona's em stacks twice. Same theorem works for Albedo's burst as
 The above suggests the formula for final EM for a buffed party member after Sucrose’s A1 and A4 is  
 50 + \[\(&lt;sucrose em&gt; + &lt;additional party em buffs&gt;\)×0.2\] + &lt;additional em buffs&gt;.
 
-## Sucrose C6 Buff Timer
-
-**By:** Terrapin\#8603  
-**Added:** 5/9/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840099295344197632/840821871901540362/transcript-sucrose-c6-buff-timer.html)
-
-**Finding:**  
-The buff provided by Sucrose's Constellation 6 \(granting party members a 20% Elemental DMG Bonus based on which element is absorbed by Sucrose's burst\) lasts for 10 seconds.
-
-**Evidence:** [https://www.youtube.com/watch?v=VNVnsEdh29c](https://www.youtube.com/watch?v=VNVnsEdh29c)
-
-The first test in the video establishes that the Sucrose in question has her Constellation 6 active, and that the buff arrows on Sucrose correspond to a 20% Pyro DMG Bonus from her burst absorbing Pyro from Guoba.
-
-The second test shows that, as soon as Sucrose's Elemental Burst absorbs Pyro, Sucrose gets buffed, which lasts for 10 seconds.
-
-The third test shows that even a late absorption of Pyro still results in a 10 second buff.
-
-**Significance:**  
-Teams with C6 Sucrose can plan their absorption time around when they want to utilize her 10 second buff window, either for snapshotting or for general team rotations.
-
-## Sucrose C4 Mechanics
-
-**By:** Sitri\#9504  
-**Added:** 5/11/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837549621936652309/841878915156279306/transcript-sucrose-c4-mechanics.html)
-
-**Findings:**  
-Remember that Sucrose C4 creates a 7 hit counter, where after 7 hits your E CD is reduced by 1-7s.
-
-Sucrose C4 creates a 7 hit counter when the first normal/charged attack connects an enemy \(hitting the air does not create, nor further the counter\). However, this counter starts whether your E is on cooldown or not. If you do 5 normal attacks, then E and put your E on cooldown, you only need to do 3 more to hit the counter and get your cooldown reduced.
-
-Switching characters does not delete this counter either, and it exists for a very long time, tested up to 30s, so guesstimate is 30s plus. Death also does not delete the counter.
-
-The cooldown reduction hard caps at each charge's cooldown. If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown.  
-Example: E is on 3s CD, you get a 5s CD reduction, you instantly gain E charge and timer start at 15s for the remaining charge.
-
-Sucrose C4 CD reduction probability distribution:  
-[Google Sheets](https://docs.google.com/spreadsheets/d/1jMODclkPguPHpTsLmGafbvQKIcXk1ddc9NWYPjhqqsc/edit?usp=sharing)  
-[Image \(Graph\)](https://cdn.discordapp.com/attachments/837549621936652309/837957383111049216/unknown.png)  
-Although the distribution does not fit nicely into the Gaussian curve, mean ~ 4s suggests there is no overly skewed cooldown reduction to either lower or higher bound, at large N.
-
-**Evidence:**  
-Switching character does not reset Sucrose counter: [Video](https://www.youtube.com/watch?v=Q32IuH-Eu9g)  
-Counter starts whether your E is on CD or not: [Video](https://youtu.be/Q2zyolyA8r0)  
-Counter exists for 30s+: [Video](https://youtu.be/qTboBW3A7Qw)
-
-**Significance:**  
-This very slightly makes on field enabler Sucrose comps better, as swapping on Sucrose is very lenient + better understanding of Sucrose C4 RNG.
-
-## Sucrose freeze and petrify burst interaction
+### Sucrose freeze and petrify burst interaction
 
 **By:** hz\#4084  
 **Added:** 5/23/2021  
@@ -159,45 +224,3 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 * Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
-
-## Sucrose A4 snapshots EM value
-
-**By:** NZPIEFACE#8439  
-**Added:** 07/18/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864528623578251314/866111168929857537/transcript-sucrose-a4-snapshots-em-value.html)
-
-**Findings:** Sucrose A4 snapshots EM value.
-
-**Evidence:**  
-[Albedo snapshot](https://www.youtube.com/watch?v=5n60s5c9e0M)
-* First half, using Sucrose A4 before EM buff from Albedo A4, grants 0 EM to everyone. Albedo Q increases party EM by 125. Higher value is expected if A4 did not snapshot.
-* Second half, using Sucrose A4 a few seconds before the EM buff from Albedo ends. Grants 25 (20% of 125) EM to other party members. After albedo buff expires, party members still have 25 EM buff, instead of 0 if A4 did not snapshot
-
-[Instructor buff post](https://www.youtube.com/watch?v=msWr5X0Rrvw)
-* Using Sucrose A4 gives 16 EM to other party members. This is expected.
-* Causing a swirl reaction further gives party members 170 EM (120 from instructor, 50 from A2) and 120 to Sucrose.
-* If A4 did not snapshot, total EM on party members would be 210 instead of 186.
-
-[Instructor buff pre](https://www.youtube.com/watch?v=xXH_wWKpZg4)
-* A4 without buff -> 16 EM to other party members.
-* Swirl without A4 buff -> 170 EM to other party members, 120 to sucrose (200 total in sucrose).
-* After instructors and A1 expires -> 40 EM on party members instead of 16.
-
-[Widsith post](https://www.youtube.com/watch?v=F5gj8iyodUs)
-* A4 -> 0 EM to other party members.
-* After widsith -> 0 EM to other party members, 480 on Sucrose.
-* Without snapshot, expected 96 EM to party.
-
-[Widsith pre](https://www.youtube.com/watch?v=mkYHGvOsIOY)
-* Vid starts with showing widsith buff.
-* A4 -> 96 EM to other party members.
-* After buff decays -> 96 EM to other party members.
-* Without snapshot expected to be 0 EM.
-
-[Instructor EM buff procs before A4](https://www.youtube.com/watch?v=3CvAb1XWgUE)  
-* Sucrose gives 210 EM (50 + 120 + 20% * 200) to other party members despite not getting Instructor buff beforehand.
-
-**Significance:**
-* Use buffs in the right order: Buff sucrose first (this only means albedo) to maximize EM share to rest of party.
-* Time your buffs. its possible to switch back to sucrose before these buffs end to extend the effective duration of A4.
-* Quickswap with Instructors set doesn't need proc the buff with a normal attack first before E.

@@ -262,7 +262,7 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
-* [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
+* [Full Anemo Traveler Written Guide](https://keqingmains.com/anemo-traveler/)
 
 **Evidence Vault:**
 

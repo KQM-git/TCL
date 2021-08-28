@@ -6,13 +6,14 @@
 
 ## Basic Kazuha Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858232806450397196/863915215232958474/transcript-kazuha-basic-mechanics-findings.html)
+
 ### Attack Attributes
 * Gauges - Faranight\#0001
   * E Tap: [1GU](https://youtu.be/SoCI_E1eDXE), Tap E Aura duration is 12s.
   * E Hold: [2GU](https://www.youtube.com/watch?v=7j8-P-dLrt4), Held E Aura duration is 15s.
-  * Enhanced Plunge&A1: [1U](https://www.youtube.com/watch?v=DcoAQXhCkz4)  
-  * Q: Initial hit: [2GU]()  
-   * Additional ticks: [1GU](https://www.youtube.com/watch?v=3QzC22lg67c) - Quenton\#1124  
+  * Enhanced Plunge & A1: [1GU](https://www.youtube.com/watch?v=DcoAQXhCkz4)  
+   * Burst Elemental DMG ticks: [1GU](https://www.youtube.com/watch?v=3QzC22lg67c) - Quenton\#1124  
 * Range radius - [Greyhound\#7836](https://www.youtube.com/watch?v=0rnQRpGp8dM)  
   * E tap: 5 meters  
   * E hold: 8 meters  
@@ -54,35 +55,71 @@
 
 ### Constellation Mechanics  
 * C2: Effects stack with Diona's C6. - [jd baby\#6541](https://imgur.com/a/F1qGWD4)  
-* C2: [Affects Kazuha on initial cast](https://imgur.com/HmiW7nT), [but is lost upon leaving the field or skill range](https://imgur.com/HmiW7nT). - xTuki\#4893
+* C2: Affects Kazuha on initial cast, but is lost upon leaving the field or skill range. - [xTuki\#4893](https://imgur.com/HmiW7nT)
 * C4: The energy gained from C4 while gliding is not affected by energy recharge, it takes 23 ticks to cap after using a burst. - [Jilanow\#9252](https://youtu.be/V0o_-DF0DiA)  
 * C4: Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki\#4893](https://imgur.com/EFeCgB2)  
 * C6: Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)  
 * C6: The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)  
 * C6: Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)  
   
-  
-## EM vs ADC Kazuha  
+
+## Burst Mechanics
+
+### Kazooka  
+
+**By:** Ayzel/#7399  
+**Added:** 01/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859722735756509226/871419109328420914/transcript-kazooka.html)
+
+**Finding:**  
+Due to infusion priority mechanics, Kazuha can swirl cryo with his burst while infusing with pyro, which allows him to buff Cryo DMG% and shred cryo resistance while infusing his burst with pyro.  
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=-US58DgMhzw&ab_channel=KeqingMains)  
+
+**Significance:**  
+New Ganyu melt team
+
+## Synergies/Interactions
+
+### Kazuha Rotations  
+
+**By:** A multitude of contributors!  
+**Added:** 08/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859847076065181717/871415551388426280/transcript-kazoo-rotations.html)
+
+**Finding:** Rotations to properly swirl&infuse desired elements.  
+
+**Rotations:**  
+[Ganyu/Bennett/Kazuha](https://imgur.com/a/p9A5ZdI)  
+[Bennett/Hutao/Kazuha/Xingqiu](https://imgur.com/AwtoxMV)  
+[Amber/Hutao/Kazuha/Xingqiu](https://imgur.com/a/iGmFe4W)  
+[Hutao/Xinyan/Kazuha/Xingqiu](https://www.youtube.com/watch?v=k_aLssZLUwA)  
+[Ganyu/Xinyan/Kazuha](https://www.youtube.com/watch?v=ePjLzl1U75Q)  
+
+## Calculations/Resources
+
+### EM vs ADC Kazuha  
 
 **By:** Zakharov#5645  
 **Added:** 07/04/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861165727390367764/861345878035398656/transcript-em-vs-adc-kazuha.html)  
-  
+
 **Finding:**  
 EM builds are comparable to damage/crit builds on Kazuha in personal damage output. With Kazuha's EM-based team buff, this makes EM builds stronger overall.  
-  
+
 **Evidence:**  
 [Sheet](https://docs.google.com/spreadsheets/d/1a6-onb86Aphedf-dL5dq4frc2F3IrivggFuhp53D3vw/edit#gid=146292907)  
-  
+
 **Signifiance:**  
 EM is overall the better build choice for Kazuha in almost every situation.
 
-## EM vs ADC Kazuha Team DMG Calculation
+### EM vs ADC Kazuha Team DMG Calculation
 
 **By:** Ayzel#7399  
 **Added:** 07/19/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865056192140017695/866477834708713503/transcript-kazuha-adc-vs-em-team-damage.html)  
-  
+
 **Finding:**  
 For Childe/Xiangling reverse vape teams in single-target situations, Kazuha's EM build will outdamage (in terms of team damage) Kazuha's attack build.  
 
@@ -99,32 +136,5 @@ Direct download link for calculating sheet files:
 **Signifiance:**  
 Even with high investment Kazuha (Bennett Buff, Jade Cutter, 25 substats) it is more beneficial to team damage to run an EM/EM/EM build over an ATK/Anemo/Crit build in teams where Kazuha plays a supporting role.
 
-## Kazooka  
 
-**By:** Ayzel/#7399  
-**Added:** 01/08/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859722735756509226/871419109328420914/transcript-kazooka.html)
 
-**Finding:**  
-Due to infusion priority mechanics, Kazuha can swirl cryo with his burst while infusing with pyro, which allows him to buff Cryo DMG% and shred cryo resistance while infusing his burst with pyro.  
-
-**Evidence:**  
-[Video](https://www.youtube.com/watch?v=-US58DgMhzw&ab_channel=KeqingMains)  
-
-**Significance:**  
-New Ganyu melt team
-
-## Kazuha rotations  
-
-**By:** A multitude of contributors!  
-**Added:** 08/01/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859847076065181717/871415551388426280/transcript-kazoo-rotations.html)
-
-**Finding:** Rotations to properly swirl&infuse desired elements.  
-
-**Rotations:**  
-[Ganyu/Bennett/Kazuha](https://imgur.com/a/p9A5ZdI)  
-[Bennett/Hutao/Kazuha/Xingqiu](https://imgur.com/AwtoxMV)  
-[Amber/Hutao/Kazuha/Xingqiu](https://imgur.com/a/iGmFe4W)  
-[Hutao/Xinyan/Kazuha/Xingqiu](https://www.youtube.com/watch?v=k_aLssZLUwA)  
-[Ganyu/Xinyan/Kazuha](https://www.youtube.com/watch?v=ePjLzl1U75Q)  

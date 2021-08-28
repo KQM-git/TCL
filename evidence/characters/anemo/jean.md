@@ -4,23 +4,9 @@
 
 {% page-ref page="../../../characters/anemo/jean.md" %}
 
-## Jean's C4 verticality
+## Skill Mechanics
 
-**By:** Special\#1775  
-**Added:** 11/24/2020
-
-**Findings:**  
-Jean's fourth constellation has the following effect:  
-_"Within the Field created by Dandelion Breeze, all opponents have their Anemo RES decreased by 40%."_  
-The Anemo Resistance reduction component of this constellation still applies vertically even if her Elemental Burst misses enemies on Venti's Elemental Burst
-
-**Evidence:**  
-[https://youtu.be/3deF3geFYdE](https://youtu.be/3deF3geFYdE)
-
-**Significance:**  
-The reach of Dandelion Breeze's damage component has a vertical limit but the effects of it can reach much further. Thus, has potential combination for Xiao midair strikes.
-
-## Gale Blade's Pull effect's Dependence on Level Difference
+### Gale Blade's Pull effect's Dependence on Level Difference
 
 **By:** Michael/mSoo\#1561
 
@@ -35,7 +21,7 @@ Tested this with Jean level by level. For Gale Blade to continually be able to p
 **Significance:**  
 Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 100 enemies on Floor 12 of Spiral Abyss
 
-## Fall Damage Basis from Gale Blade
+### Fall Damage Basis from Gale Blade
 
 **By:** Wrax\#7777  
 **Added:** 12/1/2020
@@ -65,28 +51,12 @@ I believe that the large gap in damage is sufficient evidence to claim that the 
   * Damage of 57k in the beginning when target had full hp 
   * Damage of 53k at the end when target had only a sliver of health
 
-~[Rough eyeballing based on the hp bar seems to be 20 to 25% damage](https://cdn.discordapp.com/attachments/550599335524564993/781347956174487582/max_hp_eyeball.png)~
-
 **Significance:**
 
 * Pulling the target to the ground using Gale Blade rather than launching them results in similar damage applied faster.
 * If choosing to launch target for crowd-control reasons, then make sure that the target is sent straight up in order to inflict the most damage.
 
-## Continuous Self-Swirl and Cleanse
-
-**By:** KDacus\#2865  
-**Added:** 3/21/2021
-
-**Findings:**  
-Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
-
-**Evidence:**  
-[https://youtu.be/f-fzwDOYL6I](https://youtu.be/f-fzwDOYL6I)
-
-**Significance:**  
-Very consistent aura application. Can be used for Cryo or Hydro main carries or Overload setups in conjunction with Bennett.
-
-## Jean Hold E Fall Damage Inconsistent
+### Jean Hold E Fall Damage Inconsistent
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
 **Added:** 04/23/2021  
@@ -113,7 +83,39 @@ Illustrates that Jean's Held Gale Blade produces inconsistent numbers compared t
 _Additional Notes:_  
 Further proves that fall damage is based on velocity, not height \(however greater height causes more acceleration\). Also proves that objects \(such as Baron Bunny\) have different hitboxes than enemies when calculating fall damage. Also, some instances of fall damage are drastically lower. This is likely due to a bug.
 
-## Anemo Aura
+### Fall Damage Is Influenced By Poise
+
+**By:** ColaSenami#5312    
+**Added:** 6/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
+
+**Finding:**  
+The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
+
+**Evidence:**  
+Original clip is from xf3, then made to edit to make it side by side. In the video below it shows an abyss mage with 0 poise (stunned/staggered) vs an abyss mage with 2.25 poise. mage at 0 poise was launched at higher velocity than the mage who is dancing. This is easily reproducible.  
+[Video](https://www.youtube.com/watch?v=eVPetqEeJU4)
+
+**Significance:**  
+Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall dmg hit higher numbers.
+
+## Burst Mechanics
+
+### Continuous Self-Swirl and Cleanse
+
+**By:** KDacus\#2865  
+**Added:** 3/21/2021
+
+**Findings:**  
+Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
+
+**Evidence:**  
+[https://youtu.be/f-fzwDOYL6I](https://youtu.be/f-fzwDOYL6I)
+
+**Significance:**  
+Very consistent aura application. Can be used for Cryo or Hydro main carries or Overload setups in conjunction with Bennett.
+
+### Anemo Aura
 
 **By:** ProfHugo#6478  
 **Added:** 6/14/2021  
@@ -133,18 +135,20 @@ This is the second known scenario where anemo is not the trigger of a swirl reac
 
 Lastly, it debunks the common belief that anemo cannot be the aura for a swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
 
-## Fall Damage Is Influenced By Poise
+## Constellation Mechanics
 
-**By:** ColaSenami#5312    
-**Added:** 6/20/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
+### Jean's C4 Verticality
 
-**Finding:**  
-The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
+**By:** Special\#1775  
+**Added:** 11/24/2020
+
+**Findings:**  
+Jean's fourth constellation has the following effect:  
+_"Within the Field created by Dandelion Breeze, all opponents have their Anemo RES decreased by 40%."_  
+The Anemo Resistance reduction component of this constellation still applies vertically even if her Elemental Burst misses enemies on Venti's Elemental Burst
 
 **Evidence:**  
-Original clip is from xf3, then made to edit to make it side by side. In the video below it shows an abyss mage with 0 poise (stunned/staggered) vs an abyss mage with 2.25 poise. mage at 0 poise was launched at higher velocity than the mage who is dancing. This is easily reproducible.  
-[Video](https://www.youtube.com/watch?v=eVPetqEeJU4)
+[https://youtu.be/3deF3geFYdE](https://youtu.be/3deF3geFYdE)
 
 **Significance:**  
-Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall dmg hit higher numbers.
+The reach of Dandelion Breeze's damage component has a vertical limit but the effects of it can reach much further. Thus, has potential combination for Xiao midair strikes.
