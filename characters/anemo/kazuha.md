@@ -149,7 +149,8 @@ When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effect
 * Tapping or Holding Chihayaburu regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
 * When gliding, Kaedehara Kazuha regenerates 2 Energy per second.  
   * The energy gained while gliding is not affected by energy recharge.  
-  {% endtab %}
+  
+{% endtab %}
 
 {% tab title="C5" %}
 ### Wisdom of Bansei
