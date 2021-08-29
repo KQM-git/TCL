@@ -162,7 +162,7 @@ Using a Normal Attack when executing the second attack of Passion Overload’s C
 
 | Attack | Talent 6% | Talent 9% | GUs |
 | :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 149.6% + 163.2% + 220.3% | 3 \* 1A |
+| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 142.8% + 156.4% + 211.14% | 3 \* 1A |
 {% endtab %}
 
 {% tab title="C5" %}
