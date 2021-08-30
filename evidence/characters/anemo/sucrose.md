@@ -40,6 +40,20 @@ One more reason to get Sucrose out in the field more often, at least for this us
 
 ## Ascension Mechanics
 
+### Sucrose passives off-field triggering
+
+**By:** Sayline#5959  
+**Added:** 08/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879730262802575390/881737206165823498/transcript-off-field-sucrose-triggers-passives.html)
+
+**Findings:**  
+Sucrose's A1 passive, A4 passive, and C6 effect can be triggered even when she is off-field.
+
+**Evidence:** [Youtube](https://youtu.be/Fl3j9rp0N90)
+
+**Significance:**  
+More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.
+
 ### A4: Mollis Favonius
 
 #### Sucrose A4 snapshots EM value
@@ -224,17 +238,3 @@ The above suggests the formula for final EM for a buffed party member after Sucr
 * Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
-
-### Sucrose passive off-field triggering
-
-**By:** Sayline#5959  
-**Added:** 08/30/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879730262802575390/881737206165823498/transcript-off-field-sucrose-triggers-passives.html)
-
-**Findings:**  
-Sucrose's A1 passive, A4 passive, and C6 effect can be triggered even when she is off-field.
-
-**Evidence:** [Youtube](https://youtu.be/Fl3j9rp0N90)
-
-**Significance:**  
-More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.
