@@ -101,6 +101,7 @@ When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% ch
 ### Catalyst Conversion
 
 When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+* This effect can be triggered even when Sucrose is not on the field.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -110,6 +111,7 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 
 * A4 snapshots Sucrose's **Elemental Mastery**.
 * A4 also always activates *after* **Instructor** 4pc set bonus within the same proc.
+* A4 effect can be triggered even when Sucrose is not on the field.
 {% endtab %}
 {% endtabs %}
 
@@ -159,6 +161,7 @@ Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
 If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
 
 * This buff lasts for 10 seconds.
+* C6 effect can be triggered even when Sucrose is not on the field.
 {% endtab %}
 {% endtabs %}
 
