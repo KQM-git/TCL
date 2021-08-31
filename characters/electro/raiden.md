@@ -7,7 +7,7 @@ description: >-
 
 ## ![](../../.gitbook/assets/element_electro.png) Raiden
 
-![](../../.gitbook/assets/character_Shougun_wish.png)
+![](../../.gitbook/assets/character_raiden_wish.png)
 
 ## **Base Stats**
 
