@@ -293,6 +293,26 @@ Amall Anemo Slimes test: [Video](https://youtu.be/T3v7y7-NqTE)
 **Significance:**  
 If anemo slimes are ever introduced to the abyss, this information could be useful.
 
+### Slime Balloon  
+
+**By:** ariose#3891  
+**Added:** 08/31/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881262532914974720/882077997841133618/transcript-slime-balloon-mechanics.html)
+
+**Finding:**  
+Slime Balloons from commissions can only receive a cryo aura similar to Amber’s Baron Bunny. Cryo swirl, superconduct, freeze, forward melt, shatter, and crystallize reactions can be triggered on them. However, superconduct does not reduce physical resistance, cryo swirl with 4pc VV does not reduce cryo resistance, and freeze does not actually stop the Slime Balloon from moving. 
+
+**Evidence:**  
+[Youtube](https://youtu.be/ohQrwzEiTUE) - Kazuha’s skill cannot infuse pyro, hydro, or electro off of the Slime Balloon:
+
+Reactions: [Youtube](https://youtu.be/2W-3D2muB9c), [Youtube](https://youtu.be/Yj0XMOYfNCI)
+
+Kaeya’s skill (noncrit) does 1339 damage both before and after cryo is swirled with Kazuha. His N1 does not deal increased damage after superconduct is triggered: [Youtube](https://youtu.be/fbWZhi2WRLE).  
+Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya's skill): [Youtube](https://youtu.be/8p57ILh8YVg)
+
+**Significance:**  
+With this knowledge you can finish your commissions 2 seconds faster.
+
 ## General Enemy Interactions
 
 ### Interrupting Enemies Causes Phantom Attacks
