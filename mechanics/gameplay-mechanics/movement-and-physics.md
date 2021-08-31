@@ -45,6 +45,10 @@ Teleporting to a waypoint does not always teleport you to the same coordinates o
 
 Increased movement speed increases the horizontal velocity of dashing. This also impacts the distance traveled when dashing off a cliff.
 
+## Enemy Movement Speed
+
+There is a limit to how much movement speed decreases one can do onto an enemy. The limit seems to be an approximate of 80~85% decrease.
+
 ## Character Hitboxes
 
 Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
