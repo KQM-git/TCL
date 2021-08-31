@@ -41,6 +41,12 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 
 * The Bombardment mode's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
 
+## Slime Balloon
+
+* Slime Balloons from Daily Commissions can only receive a Cryo aura, similar to Amber’s Baron Bunny.
+* Cryo Swirl, Superconduct, Freeze, Forward Melt, Shatter, and Crystallize reactions can be triggered on them.
+* However, Superconduct does not reduce Physical Resistance, Cryo Swirl with 4pc Viridescent Venerer does not reduce Cryo Resistance, and Freeze does not actually freeze the Slime Balloon. 
+
 ### Evidence Vault
 
 {% page-ref page="../../evidence/enemy-data/enemy-interactions.md" %}
