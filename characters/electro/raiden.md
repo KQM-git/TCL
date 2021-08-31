@@ -261,4 +261,4 @@ While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raid
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/characters/electro/Raiden.md" %}
+{% page-ref page="../../evidence/characters/electro/raiden.md" %}
