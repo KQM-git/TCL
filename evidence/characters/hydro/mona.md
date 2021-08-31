@@ -309,3 +309,18 @@ Mona Empty Domain (End):
 
 **Significance:**  
 Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in the case of low-stamina scenarios, sequences that utilize her 3rd AA may be used. In these moments, how Mona jumps after her attack may provide positional advantages/disadvantages. Additionally, Mona is the only character that has two differing animations in her AA-sequence.
+
+## Mona A4 passive only shows when she's active
+
+**By:** 2ri#0945  
+**Added:** 08/31/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880394893699211274/882076120403574784/transcript-mona-a4-passive-only-shows-when-shes-active.html)
+
+**Finding:**  
+Mona's A4 Passive is not shown on the stats page when she's inactive.
+
+**Evidence:**  
+[Youtube](https://youtu.be/8pLM8X_-kYI) - Removing Mona from the team removes her A4 passive on the stats page.
+
+**Significance:**  
+Don't freak out if checking out Mona's stats when she isn't in your party

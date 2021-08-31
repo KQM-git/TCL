@@ -159,6 +159,8 @@ After she has used **Illusory Torrent** for 2s, if there are any opponents nearb
 ## Waterborne Destiny
 
 Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.
+
+* The Hydro DMG Bonus increase only shows when Mona is in an active party.
 {% endtab %}
 {% endtabs %}
 
