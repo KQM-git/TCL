@@ -259,3 +259,42 @@ You gain extra velocity from enemy hits when you jump. This velocity can be used
 
 **Significance:**  
 Yet another way to initiate plunge attacks on even ground.
+
+## Max enemy mvsp decrease 
+
+**By:** Recovent#9620  
+**Added:** 08/31/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876024675489169438/882072456154722304/transcript-max-enemy-mvsp-decrease.html)
+
+**Finding:**  
+There is a limit to how much movement speed decreases one can do onto a mob. The limit seems to be an approximate of 80~85% decrease.
+
+* Adding up the different movement speeds, you would get a decrease of 150% speed with the usage of the Charity tower, Glacial bloom, and Banishment tower. However, this is not the case here. It seems that after a certain point the mob will not have their speed decreased. (This note was assuming additive decrease)
+
+* Although the enemy's movement animations are slowed, and can be seen as though they are going through a slowed time; their knock back effects and being attacked animation's speeds are not changed (can be seen in the first two video links) 
+
+* Descriptions of speed decrease don't always match what they actually do
+
+* Different sources of movement speed can conflict with each other differently than a similar type
+
+* The slowness follows a log curve when following the highest movement speed stacking as a base, however, follows (loosely) an exponential decrease when simply following descriptive movement speed decrease.
+
+* The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff. 
+
+* Speed increasing skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
+
+* Frame = .033ms for my video editor, thus the frames counted may be within +-.17ms off (unless otherwise stated) 
+
+**Evidence:**  
+The first 5 are mainly visuals with numbers made through previous attempts to make a formula:  
+[Youtube](https://www.youtube.com/watch?v=cvrF9JW4mlE) - (Two Tower; “90%” reduction)  
+[Youtube](https://www.youtube.com/watch?v=z4Nw2NBjpiY) - (Three Tower: “150%” reduction)  
+[Youtube](https://www.youtube.com/watch?v=FcT9RVHOnas) - (Combinations tested)  
+[Youtube](https://www.youtube.com/watch?v=Spa1vVxpqpI) - (Comparison of 70% and 90%)  
+[Youtube](https://www.youtube.com/watch?v=XBRMR6vwT-8) - (Most likely multiplicative when multiple mov. decrease are stacked with each other)  
+[Youtube](https://www.youtube.com/watch?v=eFHZTdne2UQ) - (Frame counted and placed as SPM (Steps Per Minute.) The sheets below shows the overall data.)
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/12B-EM7xgonfF5xRLMpZCMW1s6jI3rPJXhd1hOjZGeZ8/edit?usp=sharing) - Sheets with contradictions for any specific formula for movement speed decrease on mobs and slightly conflicting information for certain movement speed decrease towers. Also contains graphs of best fit.
+
+**Significance:**  
+If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
