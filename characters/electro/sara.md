@@ -57,12 +57,12 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% tab title="Tengu Stormcall" %}
 Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location. Crowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK. The ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.
 
-| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
+| Type | Talent 6% | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Ambush DMG | 176.06% | -- | -- | -- | --| -- |
-| ATK Bonus Ratio | 60.14% | -- | -- | -- | --| -- |
-| ATK Bonus Duration | 6 s | -- | -- | -- | --| -- |
-| CD | 10 s | -- | -- | -- | --| -- |
+| Tengu Juurai: Ambush DMG | 176.06% | -- | -- | -- | -- |
+| ATK Bonus Ratio | 60.14% | -- | -- | -- | -- |
+| ATK Bonus Duration | 6 s | -- | -- | -- | -- |
+| CD | 10 s | -- | -- | -- | -- |
 {% endtab %}
 
 {% tab title="Subjugation: Koukou Sendou" %}
