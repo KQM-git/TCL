@@ -42,7 +42,7 @@
 | Base ATK | 49 - 741 |
 | Phys DMG Bonus | 4.5% - 20.7% |
 
-* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other.  - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics)
+* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other.  - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millennial-movement-stack-mechanics)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -231,6 +231,33 @@
 {% endtab %}
 {% endtabs %}
 
+### Luxurious Sea-Lord
+
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Oceanic Victory | Increases Elemental Burst DMG by **12/15/18/21/24**%. When Elemental Burst hits opponents, there is a 100% chance of summoning a titanic tuna that charges and deals **100/125/150/175/200**% ATK as AoE DMG. This effect an occur once every 15s. |
+| Base ATK | 41 - 454 |
+| ATK% | 12% - 55.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Prototype Archaic
 
 {% tabs %}
@@ -270,7 +297,7 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -483,7 +510,7 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}

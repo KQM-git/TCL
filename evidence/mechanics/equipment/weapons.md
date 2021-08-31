@@ -30,7 +30,7 @@
 
 **Significance:** Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that deal damage even when off screen is a viable choice to increase damage output. For example, XingQiu in an electro \(Keqing\) or pyro \(Diluc\) focused team.
 
-### Weapons with Bane of ... Passive Applies for Amplifying Reactions, but not Transformative Ones
+### Weapons with Bane Passive Applies to Amplifying Reactions, but not Transformative Ones
 
 **By:** Lix-\#3417  
 **Added:** 12/7/2020
