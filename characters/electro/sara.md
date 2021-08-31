@@ -5,7 +5,7 @@ description: >-
 
 # Kujou Sara
 
-## ![](../../.gitbook/assets/element_electro.png) 
+## ![](../../.gitbook/assets/element_electro.png) Sara
 
 ![](../../.gitbook/assets/character_sara_wish.png)
 
