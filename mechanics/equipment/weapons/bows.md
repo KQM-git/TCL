@@ -39,7 +39,7 @@
 | Base ATK | 46 - 608 |
 | ER% | 12% - 55.1% |
 
-* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millenial-movement-stack-mechanics)
+* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../../evidence/mechanics/equipment/weapons.md#millennial-movement-stack-mechanics)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -281,6 +281,34 @@
 {% endtab %}
 {% endtabs %}
 
+### Predator
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Strong Strike | Effective only on the following platform: "PlayStation Network"<br>Dealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66. |
+| Base ATK | 42 - 510 |
+| ATK% | 9% - 41.3% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 327 | 30.4 |
+| 60+ | 353 | 30.4 |
+| 65 | 370 | 32.3 |
+| 70 | 388 | 34.1 |
+| 70+ | 414 | 34.1 |
+| 75 | 431 | 35.9 |
+| 80 | 449 | 37.7 |
+| 80+ | 475 | 37.7 |
+| 85 | 492 | 39.5 |
+| 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
+
 ### Prototype Crescent
 
 {% tabs %}
@@ -506,7 +534,7 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
