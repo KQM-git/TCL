@@ -8,6 +8,7 @@ description: 'Yoimiya Banner ft. Diona, Xinyan, and Sayu'
 
 * [Venti Guide](https://keqingmains.com/venti/)
 * [Xiangling Guide](https://keqingmains.com/xiangling/)
+* [Dazzling Light of Summer: Yoimiya](https://keqingmains.com/yoimiya/)
 
 ## Theorycrafting Library Submissions
 
@@ -37,3 +38,6 @@ description: 'Yoimiya Banner ft. Diona, Xinyan, and Sayu'
 |  | [Energy Drain Delay - Katsuragikiri Nagamasa](../evidence/mechanics/equipment/weapons.md#katsuragikiri-nagamasa-energy-drain-delay) | Episodde\#8962 |
 |  | [Enemy Skill Behavior ICD Bypass](../evidence/enemy-data/enemy-interactions.md#ruin-hunter-weakspot-abuse) | deRykcihC\#0621 |
 | August 30 | [Sucrose Passives Off-field](../evidence/characters/anemo/sucrose.md#sucrose-passives-off-field-triggering) | Sayline\#5959 |
+| August 31 | [Max Enemy Movement Speed Decrease](../evidence/mechanics/gameplay-mechanics/movement-and-physics.md#max-enemy-mvsp-decrease) | Recovent\#9620 |
+|  | [Mona A4 Only Shows When in Active Party](../evidence/characters/hydro/mona.md#mona-a4-passive-only-shows-when-shes-active) | 2ri\#0945 |
+|  | [Slime Balloon Mechanics](../evidence/enemy-data/enemy-interactions.md#slime-balloon) | ariose\#3891 |
