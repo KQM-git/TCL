@@ -62,17 +62,17 @@ Aloy throws a Freeze Bomb in the targeted direction that explodes on impact, dea
 
 While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects will be cleared 30s after Aloy leaves the field.
 
-| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Freeze Bomb DMG | 248.64% | -- | -- | -- | --| -- |
-| Chillwater Bomblets | 56% | -- | -- | -- | --| -- |
-| ATK Decrease | 13% | -- | -- | -- | --| -- |
-| ATK Decrease Duration | 6 s | -- | -- | -- | --| -- |
-| Coil Normal Attack DMG Bonus | 7.7% / 15.4% / 23.1% | -- | -- | -- | --| -- |
-| Rushing Ice Normal Attack DMG Bonus | 38.5% | -- | -- | -- | --| -- |
-| Rushing Ice Duration | 10 s | -- | -- | -- | --| -- |
+| Type | Talent 6% | U | Particles | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Freeze Bomb DMG | 248.64% | -- | -- | -- | -- |
+| Chillwater Bomblets | 56% | -- | -- | -- | -- |
+| ATK Decrease | 13% | -- | -- | -- | -- |
+| ATK Decrease Duration | 6 s | -- | -- | -- | -- |
+| Coil Normal Attack DMG Bonus | 7.7% / 15.4% / 23.1% | -- | -- | -- | -- |
+| Rushing Ice Normal Attack DMG Bonus | 38.5% | -- | -- | -- | -- |
+| Rushing Ice Duration | 10 s | -- | -- | -- | -- |
 | CD | 20 s | -- | -- | -- | --| -- |
-| Normal Attack DMG Bonus Level 4 | 1000% | -- | -- | -- | --| -- |
+| Normal Attack DMG Bonus Level 4 | 1000% | -- | -- | -- | -- |
 {% endtab %}
 
 {% tab title="Prophecies of Dawn" %}
@@ -81,6 +81,8 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | Skill DMG | 502.88% |
+| GU | -- |
+| Frames | -- |
 | CD | 12 s |
 | Energy Cost | 40 |
 {% endtab %}
