@@ -3,9 +3,9 @@ description: >-
   A general of the Tenryou Commission. Bold, decisive, and skilled in battle.
 ---
 
-# Kujou Sara
+# Sara
 
-## ![](../../.gitbook/assets/element_electro.png) Sara
+## ![](../../.gitbook/assets/element_electro.png) Kujou Sara
 
 ![](../../.gitbook/assets/character_sara_wish.png)
 
