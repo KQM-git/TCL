@@ -5,7 +5,7 @@ description: >-
 
 # Aloy
 
-## ![](../../.gitbook/assets/element_cryo.png) 
+## ![](../../.gitbook/assets/element_cryo.png) Aloy
 
 ![](../../.gitbook/assets/character_aloy_wish.png)
 
@@ -95,9 +95,9 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Frames | -- |
 | CD | 12 s |
 | Energy Cost | 40 |
-|{% endtab %}||
-|{% endtabs %}||
 
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
@@ -179,15 +179,15 @@ The time has not yet come for this person's corner of the night sky to light up.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 502.88 | 538.8 | 574.72 | 610.64 | 646.56 | 682.48 | 718.4 | 763.3 |
 
-**Cooldown:**  12 s
-
+**Cooldown:**  12s  
 **Energy Cost:**  40
+
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/)
 
 **Evidence Vault:**
 
