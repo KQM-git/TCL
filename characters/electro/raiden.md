@@ -28,7 +28,7 @@ description: >-
 **Normal Attacks**  
 Performs up to 5 consecutive spear strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit DMG | 57.63% | 14 | 335.87% |
 | 2-Hit DMG | 57.75% | 31 | 303.70% |
@@ -40,7 +40,7 @@ Performs up to 5 consecutive spear strikes.
 **Charged Attacks**  
 Consumes a certain amount of Stamina to perform an upward slash.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 144.75% | 44 | 196.86% |
 
@@ -105,7 +105,7 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 | Cast Frames | 115 |
 | Energy Cost | 90 |
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit DMG | 61.51% | 12 | 726.6% |
 | 2-Hit DMG | 60.44% | 32 | 542.33% |
