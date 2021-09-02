@@ -127,7 +127,7 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 
 {% tabs %}
 
-{% tab title="Ascension 4" %}
+{% tab title="Passive" %}
 
 ### All-Preserver
 
