@@ -54,6 +54,7 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Plunge DMG | 82.6% |
 | Low Plunge DMG | 165.17% |
 | High Plunge DMG | 206.3% |
+
 {% endtab %}
 
 {% tab title="Tengu Stormcall" %}
@@ -86,10 +87,11 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 | Cast Frames | -- | -- |
 | CD | 20 s | -- |
 | Energy Cost | 80 | -- |
-|{% endtab %}|||
-|{% endtabs %}|||
 
 * Titanbreaker and Stormcluster do not share ICDs.
+
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
@@ -194,9 +196,10 @@ The Electro DMG of characters who have had their ATK increased by Tengu Juurai h
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Tengu Juurai: Ambush DMG | 176.06 | 188.64 | 201.22 | 213.79 | 226.37 | 238.94 | 251.52 | 267.24 |
 | ATK Bonus Ratio | 60.14 | 64.44 | 68.74 | 73.03 | 77.33 | 81.62 | 85.92 | 91.29 |
-| ATK Bonus Duration | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s |
 
+**ATK Bonus Duration:** 6s  
 **Cooldown:** 10 s
+
 {% endtab %}
 
 {% tab title="Subjugation: Koukou Sendou" %}
@@ -205,9 +208,9 @@ The Electro DMG of characters who have had their ATK increased by Tengu Juurai h
 | Tengu Juurai: Titanbreaker DMG | 573.44 | 614.4 | 655.36 | 696.32 | 737.28 | 778.24 | 819.2 | 870.4 |
 | Tengu Juurai: Stormcluster DMG | 47.77 | 51.18 | 54.59 | 58 | 61.42 | 64.83 | 68.24 | 72.51 |
 
-**Cooldown:** 20s
-
+**Cooldown:** 20s  
 **Energy Cost:** 80
+
 {% endtab %}
 {% endtabs %}
 
