@@ -180,7 +180,7 @@ Increases the Level of Transcendence: Baleful Omen by 3. Maximum upgrade level i
 {% tab title="C6" %}
 ### Wishbearer
 
-While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raiden Shogun's Normal, Charged, and Plunging Attacks will decrease all nearby party members' (but not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents. This effect can trigger once every 1s, and can trigger a total of 5 times during the state's duration.
+While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.
 {% endtab %}
 {% endtabs %}
 
