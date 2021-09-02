@@ -43,6 +43,8 @@ Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost
 | Aimed Shot | 63.75% | -- | -- |
 | Fully-Charged Aimed Shot | 173.6% | -- | -- |
 
+* A Fully-Charged Aimed Shot applies 1A Cryo.
+
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
@@ -54,25 +56,33 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Frozen Wilds" %}
-Aloy throws a Freeze Bomb in the targeted direction that explodes on impact, dealing Cryo DMG. After it explodes, the Freeze Bomb will split up into many Chillwater Bomblets that explode on contact with opponents or after a short delay, dealing Cryo DMG. When a Freeze Bomb or Chillwater Bomblet hits an opponent, the opponent's ATK is decreased and Aloy receives 1 Coil stack. Aloy can gain up to 1 Coil stack every 0.1s. 
+Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact, dealing Cryo DMG. After it explodes, the **Freeze Bomb** will split up into many **Chillwater Bomblets** that explode on contact with opponents or after a short delay, dealing Cryo DMG. When a **Freeze Bomb** or **Chillwater Bomblet** hits an opponent, the opponent's ATK is decreased and Aloy receives 1 **Coil stack**. Aloy can gain up to 1 **Coil stack** every 0.1s. 
 
 **Coil**  
 * Each stack increases Aloy's Normal Attack DMG. 
-* When Aloy has 4 Coil stacks, all stacks of Coil are cleared. She then enters the Rushing Ice state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
+* When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
 
 While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects will be cleared 30s after Aloy leaves the field.
 
 | Type | Talent 6% | U | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Freeze Bomb DMG | 248.64% | -- | -- | -- | -- |
-| Chillwater Bomblets | 56% | -- | -- | -- | -- |
-| ATK Decrease | 13% | -- | -- | -- | -- |
-| ATK Decrease Duration | 6 s | -- | -- | -- | -- |
-| Coil Normal Attack DMG Bonus | 7.7% / 15.4% / 23.1% | -- | -- | -- | -- |
-| Rushing Ice Normal Attack DMG Bonus | 38.5% | -- | -- | -- | -- |
-| Rushing Ice Duration | 10 s | -- | -- | -- | -- |
-| CD | 20 s | -- | -- | -- | --| -- |
-| Normal Attack DMG Bonus Level 4 | 1000% | -- | -- | -- | -- |
+| Freeze Bomb DMG | 248.64% | 1A | 5 | -- | -- |
+| Chillwater Bomblets | 56% | 1A | -- | -- | -- |
+
+| Type                                | Talent 6 Data        |
+| ----------------------------------- | -------------------- |
+| ATK Decrease                        | 13%                  |
+| ATK Decrease Duration               | 6s                   |
+| Coil Normal Attack DMG Bonus        | 7.7% / 15.4% / 23.1% |
+| Rushing Ice Normal Attack DMG Bonus | 38.5%                |
+| Rushing Ice Duration                | 10s                  |
+| CD                                  | 20s                  |
+
+* Aloy's attacks while in the **Rushing Ice** state follow standard ICD (3 hits/2.5s)
+* Chillwater Bomblets share ICD and follow standard ICD.
+* Aloy can gain **Coil Stacks** while off-field.
+* **Chillwater Bomblets** snapshot on **Frozen Wilds** cast.
+
 {% endtab %}
 
 {% tab title="Prophecies of Dawn" %}
@@ -81,12 +91,12 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Effect | Talent 6% / Data |
 | :--- | :--- |
 | Skill DMG | 502.88% |
-| GU | -- |
+| GU | 2B |
 | Frames | -- |
 | CD | 12 s |
 | Energy Cost | 40 |
-{% endtab %}
-{% endtabs %}
+|{% endtab %}||
+|{% endtabs %}||
 
 
 ## **Ascension Passives**

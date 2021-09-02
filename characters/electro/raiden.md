@@ -5,7 +5,7 @@ description: >-
 
 # Raiden
 
-## ![](../../.gitbook/assets/element_electro.png) Raiden
+## ![](../../.gitbook/assets/element_electro.png) Raiden Shogun
 
 ![](../../.gitbook/assets/character_raiden_wish.png)
 
@@ -126,13 +126,24 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 ## **Ascension Passives**
 
 {% tabs %}
-{% tab title="Passive" %}
+
+{% tab title="Ascension 4" %}
+
+### All-Preserver
+
+Mora expended when ascending Swords and Polearms is decreased by 50%.
+
+
+{% endtab %}
+
+{% tab title="Ascension 1" %}
+
 ### Wishes Unnumbered
 
 When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks. This effect can occur once every 3s.
 {% endtab %}
 
-{% tab title="Ascension 1" %}
+{% tab title="Ascension 4" %}
 ### Enlightened One
 
 Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her: 
@@ -140,11 +151,7 @@ Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
 * 0.4% Electro DMG Bonus
 {% endtab %}
 
-{% tab title="Ascension 4" %}
-### 
 
-
-{% endtab %}
 {% endtabs %}
 
 ## **Constellations**
