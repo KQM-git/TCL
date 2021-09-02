@@ -165,14 +165,13 @@ The time has not yet come for this person's corner of the night sky to light up.
 | Freeze Bomb DMG | 248.64 | 266.4 | 284.16 | 301.92 | 319.68 | 337.44 | 355.2 | 377.4 |
 | Chillwater Bomblets | 56 | 60 | 64 | 68 | 72 | 76 | 80 | 85 |
 | ATK Decrease | 13 | 14 | 14 | 14 | 15 | 15 | 15 | 15 |
-| ATK Decrease Duration | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s | 6 s |
 | Coil Normal Attack DMG Bonus | 7.7 / 15.4 / 23.1 | 8.16 / 16.31 / 24.47 | 8.61 / 17.22 / 25.83 | 9.07 / 18.13 / 27.2 | 9.52 / 19.04 / 28.56 | 9.98 / 19.95 / 29.93 | 10.43 / 20.86 / 31.29 | 10.89 / 21.77 / 32.66 |
 | Rushing Ice Normal Attack DMG Bonus | 38.5 | 40.78 | 43.05 | 45.33 | 47.6 | 49.88 | 52.15 | 54.43 |
-| Rushing Ice Duration | 10 s | 10 s | 10 s | 10 s | 10 s | 10 s | 10 s | 10 s |
 
-**Cooldown:**  20 s
+**ATK Decrease Duration:** 6s  
+**Rushing Ice Duration:** 10s  
+**Cooldown:**  20s
 
-**Normal Attack DMG Bonus Level 4:** 1000 
 {% endtab %}
 
 {% tab title="Prophecies of Dawn" %}
