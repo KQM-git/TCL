@@ -283,10 +283,10 @@ Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadra
 Beidou Q: Stormbreaker, will proc on Childe's riptide flash, and riptide burst as those are counted as instances of "normal attack" damage.  
 
  **Evidence:**  
-In this clip here, we can see instances of chain lightning proccing when c4 is activated every 4 seconds. In the second clip here, chain lightning is also proccing on enemy death, due to how riptide burst is counted as an instance of normal attack damage as well.
-
+In this clip here, we can see instances of chain lightning proccing when c4 is activated every 4 seconds.  
 [Youtube](https://youtu.be/3LJruKBFLuM)
 
+In the second clip here, chain lightning is also proccing on enemy death, due to how riptide burst is counted as an instance of normal attack damage as well.  
 [Youtube](https://youtu.be/CZnZV9Blov4)
 
  
