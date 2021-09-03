@@ -119,7 +119,8 @@ Opponents hit by **Guoba's** attacks have their **Pyro RES** reduced by 15% for 
 
 The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as AoE **Pyro** DMG.
 
-* C2 damage instance has no ability type scaling tags. 
+* C2 DMG instance has no ability type scaling tags.  
+* C2 DMG also does not snapshot.
 {% endtab %}
 
 {% tab title="C3" %}
