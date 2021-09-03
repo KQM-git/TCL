@@ -221,7 +221,8 @@ Increases the Level of Foul Legacy: Raging Tide by 3.
 If Tartaglia is in Foul Legacy Raging Tide’s Melee Stance: Triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.
 
 * This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
-* All of Riptide effects triggered by C4 do not snapshot
+* All of Riptide effects triggered by C4 do not snapshot.
+* All of Riptide effects triggered by C4 are considered Normal Attack DMG.
 {% endtab %}
 
 {% tab title="C5" %}
