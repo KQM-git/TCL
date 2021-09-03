@@ -118,3 +118,19 @@ Looking at in-game numbers however, we see that Pyronado ticks deal the same amo
 
 **Significance:**  
 Guoba > Pyronado
+
+## Xiangling C2 does not snapshot
+
+**By:** yeow#5090  
+**Added:** 09/03/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881815299911991327/883372595184037918/transcript-xiangling-c2-no-snapshot.html)
+
+**Theory:**  
+Xianglings c2 does not snapshot
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=C1pjlzS56eI)
+
+
+**Significance:**  
+DMG calculation.
