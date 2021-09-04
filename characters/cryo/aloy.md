@@ -106,6 +106,10 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 ### Easy Does It
 
 When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
+
+* Animals still get startled if you get too close to them.
+* Animals still get startled if you kill one of them in a group.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}

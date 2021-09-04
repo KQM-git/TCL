@@ -27,6 +27,7 @@
 ### Skill Mechanics
 
 * Aloy can gain Coil Stacks while off-field - [anonpuffs#2537](https://youtu.be/3Cfa3apPBgM)
+* Aloy's skill generates 5 particles on Freeze Bomb hit. - [Nass008#8577](https://youtu.be/SaZyf_svcis)
 * Interaction between Aloy Chillwater Bomblets and Anemo Characters - Nass008#8577
   * [Chillwater Bomblets can be moved by](https://youtu.be/KgzF-ullDno):
     * Jean: Tap E, Hold E
@@ -42,3 +43,10 @@
 ### Burst Mechanics
 
 * Aloy Burst snapshots before or during Burst Animation - [Nass008#8577](https://imgur.com/qS6vdtR)
+
+### Passive Mechanics
+
+#### Passive: Easy Does It
+
+* Unlike Sayu's passive animals still get startled if you get too close to them. - [Nass008#8577](https://imgur.com/BGo264W)
+  * Animals still get startled if you kill one of them in a group.
