@@ -272,3 +272,24 @@ Riptide Blast accounts for roughly ¼ of Childe’s burst damage, scaling quadra
  [And one more to show that its only skill, not burst.](https://www.youtube.com/watch?v=qr2DRNzU2-o)  
  
  **Significance:** You could die, and extend melee duration. probably not that useful tho.  
+ 
+ ## Childe C4 can proc Beidou Q  
+
+**By:** Daybreak#0584  
+**Added:** 09/04/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883202269938610226/883489841524924456/transcript-beidou-q-on-childe-riptides.html)  
+
+**Finding:**  
+Beidou Q: Stormbreaker, will proc on Childe's riptide flash, and riptide burst as those are counted as instances of "normal attack" damage.  
+
+ **Evidence:**  
+In this clip here, we can see instances of chain lightning proccing when c4 is activated every 4 seconds.  
+[Youtube](https://youtu.be/3LJruKBFLuM)
+
+In the second clip here, chain lightning is also proccing on enemy death, due to how riptide burst is counted as an instance of normal attack damage as well.  
+[Youtube](https://youtu.be/CZnZV9Blov4)
+
+ 
+ **Significance:**  
+Further cements the fact that Childe is one of the, if not the best partners to pair with Beidou to get the maximum amount of lightning procs off Beidou Q.
+
