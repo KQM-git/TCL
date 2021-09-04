@@ -74,6 +74,8 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 * Triggering **Tengu Juurai: Ambush** doesn't require hitting an enemy, just a fully-charged aimed shot.
 * **Tengu Juurai: Ambush** DMG is snapshot upon **Tengu Stormcall** cast.
 * Sara does not lose the effects of **Crowfeather Cover** if swapped off.
+* **Crowfeather** does not stick to walls; it sticks to the closest walkable surface from the point of collision.
+* **Crowfeather** triggers **Tengu Juurai: Ambush** 1.5s after landing.
 
 {% endtab %}
 
@@ -88,7 +90,11 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 | CD | 20 s | -- |
 | Energy Cost | 80 | -- |
 
-* Titanbreaker and Stormcluster do not share ICDs.
+* **Titanbreaker** and **Stormcluster** do not share ICDs.
+* Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
+* For Sara's ATK bonus to apply, a character has to be in a radius of the initial **Titanbreaker** hit equal to the range of the **Stormcluster** hits.
+* **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast.
+*  **Subjugation: Koukou Sendou** does not benefit from its own attack bonus.
 
 {% endtab %}
 {% endtabs %}
@@ -112,6 +118,9 @@ While in the Crowfeather Cover state provided by Tengu Stormcall, Aimed Shot cha
 ### Decorum
 
 When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
+
+* The weaker Crowfeather from C2 can also trigger this effect.
+
 {% endtab %}
 {% endtabs %}
 
@@ -131,6 +140,7 @@ Unleashing Tengu Stormcall will leave a weaker Crowfeather at Kujou Sara's origi
 
 * The weaker Crowfeather applies 1A Electro and has separate ICD from **Tengu Stormcall**.
 * Weaker Crowfeather snapshots upon **Tengu Stormcall** cast.
+* The weaker Crowfeather formed can trigger the effects of Sara's A4.
 
 {% endtab %}
 
