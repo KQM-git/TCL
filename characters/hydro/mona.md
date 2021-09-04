@@ -129,11 +129,10 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
 * **Omen** DMG Bonus is additive to the damage calculation and is classified as **DamageBonus**
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#base-damage)
-* **Illusory Bubble**'s duration can be extended on specific enemies while they are performing specific actions.
-  * The enemies that this works on are: Shielded Lawachurl, leaping Geovishap, Shielded Pyrogunner, and Shielded Geochanter
-  * It's impossible to pop the bubble on enemies that are completely stagger-resistant.
-  * For this to work, the enemy cannot be more than 20 levels above Mona.
-  * Certain skill/bursts cannot trigger the bubble (Klee Q, Zhongli E).
+* **Illusory Bubble**'s duration can be extended under specific circumstances:
+  * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
+  * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor,...
+* Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 {% endtab %}
 {% endtabs %}
 
