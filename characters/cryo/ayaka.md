@@ -46,6 +46,12 @@ Consumes a certain amount of Stamina to unleash a flurry of sword ki.
 | N1C Spam | 66.46% + 80.13%×3 (306.85%) | 97 | 189.80%/s |
 
 * Ayaka's charged attack ICDs are separate from her normal attack.
+* Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
+  * First: A hitscan occurs for enemies in a radius around her after the NA is over.  
+  * Second: After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.  
+  * Third: After a brief period, this gadget will stop following the enemy and do an additional 3 hitscans, one for each hit.  
+  * Fourth: A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.  
+
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
