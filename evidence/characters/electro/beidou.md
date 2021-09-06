@@ -244,3 +244,18 @@ Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.co
 
 **Significance:**  
 Damage calculations for Beidou.
+
+## Beidou C4 interaction with Sara
+
+**By:** Bobrokrot#0111  
+**Added** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883625161058844702/884468275151511612/transcript-sara-beidou-c4-interaction.html)
+
+**Finding:**  
+Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.
+
+**Evidence:**  
+[Video](https://youtu.be/oYDHcC2prLY): In this video you can see that Beidou's weapon is normal and after she gets hit by Tengou Juurai: Ambush her weapon starts sparking with electro, indicating that C4 has been activated. 
+
+**Significance:**  
+Neat interaction for Beidou
