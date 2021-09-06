@@ -134,3 +134,18 @@ Xianglings c2 does not snapshot
 
 **Significance:**  
 DMG calculation.
+
+## Xiangling C2 does not snapshot
+
+**By:** yeow#5090  
+**Added:** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882129372109234196/884479728491298876/transcript-gooba-gets-his-own-4cw.html)
+
+**Theory:**  
+Guoba snapshots the CW stack on cast
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=emvJpSTU7ZU)
+
+**Significance:**  
+DMG calculation.
