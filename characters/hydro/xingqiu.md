@@ -82,6 +82,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * this occurs with the orbitals created by both Xingqiu's Skill and Burst
+* Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s. 
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}

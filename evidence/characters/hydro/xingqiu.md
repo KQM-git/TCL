@@ -4,27 +4,6 @@
 
 {% page-ref page="../../../characters/hydro/xingqiu.md" %}
 
-## **XQ Q Sword Has an Internal Cooldown**
-
-**By:** BowlSoldier\#3528  
-**Added:** 12/6/2020
-
-**Note**: This entry is outdated after further testing and new information about Internal Cooldowns was uncovered. For the most up to date conclusions on Xingqiu's ICDs, see [Xingqiu C6 3rd Wave Applies Hydro Twice](xingqiu.md#xingqiu-c6-3rd-wave-applies-hydro-twice)
-
-**Finding:**
-
-Each wave of XQ's swords applies Hydro only once, regardless of how many swords are in that wave.
-
-**Evidence:**  
-[https://streamable.com/1zf2lo](https://streamable.com/1zf2lo)  
-[https://streamable.com/h3wn34](https://streamable.com/h3wn34)
-
-In both of these videos, the sword wave only clears away the existing Pyro on the enemy. If each sword in the wave had a separate ICD, we would expect to see the 1st sword in the wave clear the Pyro, and the second sword would re-apply Hydro so the enemy should have a Hydro aura.
-
-**Significance:**
-
-There are some videos taken before 1.1 where the swords in each wave each seemed to have a separate ICD. This seems to have been fixed as part of the same patch that fixed XQ's orbital swords having a lower ICD after swapping. Let's be careful not to spread those old videos as misinformation.
-
 ## Xingqiu C6 3rd Wave Applies Hydro Twice
 
 **By:** gacha4life\#2525  
@@ -178,3 +157,18 @@ Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from K
 
 **Significance:**  
 A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
+
+## XQ rain sword shattering cooldown
+
+**By:** Lee Roy Leoncio#3769  
+**Added:** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881769328247177246/884456576075825162/transcript-xq-rain-sword-shattering-cooldown.html)
+
+**Finding:**  
+The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of 1.5 seconds before another rain sword can be shattered.
+
+**Evidence:**  
+[Youtube](https://youtu.be/R2MxrChRovk)
+
+**Significance:**  
+The 4 swords cannot shatter simultaneously, so you can have a very small window of safety after one sword is shattered.
