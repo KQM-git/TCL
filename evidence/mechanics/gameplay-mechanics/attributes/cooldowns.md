@@ -30,3 +30,17 @@ The same occurs for [Ganyu C2](https://cdn.discordapp.com/attachments/8375141294
 **Significance:**  
 Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset \(not the longer, still waiting cooldowns\), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.
 
+## CD reduction double bursts
+
+**By:** gengar#8426  
+**Added:** 09/06/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877833812992725043/884454377094537227/transcript-cd-reduction-double-burst.html)
+
+**Finding:**  
+With sufficient CD reduction (Chongyun's ice field, anemo resonance, and 20% elemental burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.
+
+**Evidence:**  
+Video evidence and additional comments consolidated [here](https://docs.google.com/spreadsheets/d/1wNcQ_nnxpG7fD3uTlUcQw8fEWnptp_TE1MGsJDKHzKw/edit?usp=sharing) (unsuccessful characters not included)
+
+**Significance:**  
+Documents which current characters are able to have a double burst on field. Extra testing after Baal's release (in consideration of the CD reduction provided by C6) also confirms that the burst talent configurations for these characters remain unchanged.
