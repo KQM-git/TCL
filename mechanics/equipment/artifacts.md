@@ -27,7 +27,8 @@
 {% endtab %}
 
 {% tab title="Findings" %}
-* The 4p set bonus don't snapshot. The Crit Rate increase is dynamic, and changes your Crit Rate in real time.
+* The 4p set bonus does not snapshot. The Crit Rate increase is Dynamic, and changes your Crit Rate in real time.
+* The 4p set bonus does not apply on the hit that applies Frozen.
 {% endtab %}
 {% endtabs %}
 
