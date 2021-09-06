@@ -149,6 +149,11 @@ For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 * There exists an investigation daily limit of 100. After that, you cannot "investigate" to pick up items anymore. This limit resets at daily reset.
   * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.
 
+## Ice Bridge
+
+* You can cross the water by applying cryo on water surface.
+  * Ayaka can infinitely sprint across large bodies of water using her Dash and infused Normal Attacks to freeze the water for herself. She has time for about four basic attacks before you should dash again to avoid falling into the water.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
