@@ -53,6 +53,10 @@ Inazumuma(TBD)
 
 - Burning damage scales with the affected target's EM and Level
 
+## Bush Elemental Interactions
+
+* Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}
