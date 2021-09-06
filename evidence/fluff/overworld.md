@@ -137,6 +137,27 @@ Fluff, and a deeper understanding of how the overworld is programmed
 with that, I consider this completed. 
 I have nothing but regrets.
 
+### Bush Elemental Interaction
+
+**By:** deaf#0246  
+**Added:** 09/06/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880603421873418362/884484706299686942/transcript-elemental-interactions-with-bushes.html)
+
+**Theory:**  
+Elemental applications can be used to destroy and damage bushes, however not all elements are equal in this regard. Additionally, there are several other abilities such as Jean's E, the cast of Kaeya's burst, Albedo's burst, etc... which can be used to both damage and destroy bushes.
+
+**Evidence:**  
+Hydro: [Video](https://www.youtube.com/watch?v=6H6xNgeF3Gg)  
+Cryo: [Video](https://www.youtube.com/watch?v=ovouxX4fj3o)  
+Pyro: [Video](https://www.youtube.com/watch?v=HERln1tRCsg)  
+Anemo: [Video](https://www.youtube.com/watch?v=5DQUZUvzHmk)  
+Electro + Geo: [Video](https://www.youtube.com/watch?v=ZU1ANOdkjG8)
+
+Burst knock back: [Video](https://www.youtube.com/watch?v=Lf-34SS5b-8)
+
+**Significance:**  
+Optimizing your bush harvesting game.
+
 ## 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
