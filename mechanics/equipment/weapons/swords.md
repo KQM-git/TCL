@@ -38,6 +38,8 @@
 | Mistsplitter's Edge | Gain a **12/15/18/21/24**% Elemental DMG Bonus for all element and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **(8/16/28)/(10/20/35)/(12/24/42)/(14/28/49)/(16/32/56)**% Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently. |
 | Base ATK | 48 - 674 |
 | CRIT DMG% | 9.6% - 44.1% |
+
+* The number of Mistsplitter's Emblems gained from characters' Elemental Burst is character dependent, for more details, check the Vault Entry linked - [gtrain#9987](../../../evidence/mechanics/equipment/weapons.md#mistsplitter-reforged)
 {% endtab %}
 
 {% tab title="Details" %}

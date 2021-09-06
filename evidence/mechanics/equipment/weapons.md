@@ -405,21 +405,32 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 #### Mistsplitter's stacks upon burst usage:  
 
-##### Bennett gains only 1 stack - youyou6093\#6345  
-Evidence:  
-Mistsplitter's passive where using a burst and having less than 100% energy only give Bennett burst 1 stack in total.  
-[Video](https://youtu.be/QpkDTsA8Mjs)  
-Calculation:  
-Atk: 828+303 * 1.26(lv11 burst) = 1209.78  
-Multiplier:  lv11 burst 4.42  
-Dmg bonus multiplier: 1+0.616 (pyro cup + 2cw)+0.2(2noblesse)+(0.24 Mist base bonus)+(0.16 Mist 1 stack) = 2.216  
-Crit dmg muliplier: 1+1.13=2.13  
-Enemy lv multiplier: 0.493 (lv85 ruin guards + lv80 bennett)  
-Enemy pyro res: 0.9  
-Total damage = 1210 * 4.42 * 2.216 * 2.13 * 0.493 * 0.9=11200 matches the damage in the video.  
+**By:** gtrain#9987  
+**Added:** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875440257619877908/884459387270332446/transcript-mistsplitter-burst-interactions.html)
 
-##### Ayaka gains 2 stacks. - KDK\#1322  
-Evidence: [3 stack](https://www.youtube.com/watch?v=gC_EQ5HJaxc) [2 stack](https://www.youtube.com/watch?v=xl6quVmlFZo) [Calculation](https://docs.google.com/spreadsheets/d/1BDMkwKpxeiqRSDaF0z_wu8NB2B-abiwCbRD1ZrrqZNQ/edit#gid=0)  
+**Finding:**  
+Number of mistsplitter stacks gained on Q is character dependent, and for some characters is inconsistent. 
+
+The usual number of stacks gained is as follows:  
+0 stacks: AMC  
+1 stack: Bennett, Electro MC (usually), Geo MC, Kaeya, Xingqiu (rain sword damage reduction)  
+2 stacks: Ayaka, Jean, Kazuha, Keqing (initial hit, usually), Qiqi  
+
+Non-snapshotted bursts like keqing are important to document, as we must know whether the stacks apply on the initial hit.
+
+Inconsistencies are as follows:  
+MC in general, but AMC in particular: does very weird things once swapping elements; it may be possible to manipulate this into getting an extra stack on Q, but requires more testing (see here: [Youtube](https://youtu.be/cvwreqXZvPs))  
+Keqing: occasionally gains only 1 stack on the Q initial hit, even more rarely gains only 1 on the entire burst  
+Xingqiu gets 1 stack on his DR swords. Casting Q resnaps dmg bonus on swords first made by E. Casting E during Q does not resnapshot dmg%. 
+
+The ult stack seems to obey the same rules as the 4no effect, as the only character that usually only gains 0 mistsplitter stacks also generally does not obtain self-4no on their burst (AMC), though this is very inconsistent, and may also be manipulated by changing elements.
+
+**Evidence:**  
+[Speadsheet](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)
+
+**Significance:**  
+Damage calculation
 
 #### Infused plunge attacks do not gain a stack.
 
