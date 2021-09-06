@@ -12,9 +12,11 @@ If an elemental skill hits an enemy, **elemental energy particles** will be gene
 
 ### Auto Attacking
 
-Normal, Charged and Plunge attacks have a chance on hit to give the on field character about 1 **flat energy**. This can be seen when the on field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user is unable get particles from their elemental skill, such as in Xiao's Bane of All Evil.
+* Normal and Charged Attacks have a chance on hit to give the on-field character **1 flat energy**. This can be seen when the on-field character's Vision flashes. Plunge Attack never generates any energy this way.
 
-This flat energy is only gained by the character on-field, off-field characters gain no energy from this method.
+* Each weapon type user has a starting chance to generate AA Energy, and the chance will increase if AA Energy does not activates yet.
+
+* This flat energy is only gained by the character on-field, off-field characters gain no energy from this method.
 
 ### Enemy HP Thresholds
 
