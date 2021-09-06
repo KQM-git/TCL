@@ -76,3 +76,35 @@ Clips showing the gadget being stuck to the initial target as they get pulled by
 **Significance:**  
 Significance: Knowing how Ayaka's Charge Attack works can help players come up with strats for specific situtaions to maximize damage output.  
 For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA.  However, if the Geovishaps are frozen while clipped inside one another they can both be hit.  
+
+## Ayaka CA conclusion  
+
+**By:** wiremash#0433  
+**Added:** 09/05/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883962129919655976/884148507999604746/transcript-ayaka-ca.html)  
+
+**Finding:**  
+Ayaka's charged attacks do not necessarily do full damage. After a short delay, all enemies (no known exceptions so far) within (still unknown) range get hit. The enemy detection occurs 3 separate times for each of her 3 slices i.e. it scans for enemies to hit 3 separate times.
+
+**Evidence:**  
+[Video](https://youtu.be/jR38Uo03eZU)  
+1. Enemies are not guaranteed to take full damage.  
+2. Enemies can exit the AOE prematurely and take less damage.  
+3. Enemies can enter the AOE late and still take some damage.  
+4. The gadget is "dropped" the moment the damage starts, meaning it does not stick to the marked enemy for the entire duration (only sticks till enemies start getting hit) and stays at the position it was last at.  
+
+**Conclusion:**  
+Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
+ * First: A hitscan occurs for enemies in a radius around her after the NA is over.  
+ * Second: After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.  
+ * Third: After a brief period, this gadget will stop following the enemy and do an additional 3 hitscans, one for each hit.  
+ * Fourth: A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.  
+
+Knowing how Ayaka's Charged Attack works can help players come up with strategies for specific situations to maximize damage output.
+For example, the gadget is smaller than the Geovishap's large collision box which means that even if they're standing side by side, they cannot both be hit by Ayaka's CA. However, if the Geovishaps are frozen while clipped inside one another they can both be hit.
+
+Because the gadget stops following the enemy when it begins its hitscans, it may also be worth waiting for enemies to finish being pulled in by characters such as Venti before using her charged attack. This helps to prevent damage loss by ensuring the hitscans start inside the vortex and not on an enemy that's still being pulled in.
+
+In addition, because enemies can exit the hitscan area early, using her charged attack right as an enemy is about to jump, dash or teleport away can also result in potential damage loss.
+
+
