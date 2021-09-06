@@ -135,7 +135,7 @@ Xianglings c2 does not snapshot
 **Significance:**  
 DMG calculation.
 
-## Xiangling C2 does not snapshot
+## Gouba Snapshots CW Stack
 
 **By:** yeow#5090  
 **Added:** 09/06/2021  
