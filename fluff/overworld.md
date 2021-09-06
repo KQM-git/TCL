@@ -43,10 +43,11 @@ Inazumuma(TBD)
 
 ### Bush Elemental Interactions
 
-* Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
+Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
 
 ## Other world maps  
-- The current world state & character position is saved between different world maps.  
+
+The current world state & character position is saved between different world maps.  
 
 ## Coordinates
 
@@ -55,7 +56,7 @@ Inazumuma(TBD)
 
 ## Burning damage Scaling  
 
-- Burning damage scales with the affected target's EM and Level
+Burning damage scales with the affected target's EM and Level
 
 ## Evidence Vault
 
