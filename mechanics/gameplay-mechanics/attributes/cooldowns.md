@@ -6,7 +6,7 @@ Cooldowns are the time between being able to cast skills. This is calculated at 
 
 Cooldown reduction is available in the form of either flat amounts or percentage reduction.
 
-* With sufficient Cooldown Reduction (Chongyun's Spirit Blade, Anemo Resonance, and 20% Elemental Burst Cooldown reduction from a Spiral Abyss card), some characters with deployable Elemental Bursts may have two Bursts on the field simultaneously.
+* With sufficient Cooldown Reduction (Chongyun's Frost Field, Anemo Resonance, and 20% Elemental Burst Cooldown reduction from a Spiral Abyss card), some characters with deployable Elemental Bursts may have two Bursts on the field simultaneously.
 
 ## List of Cooldown Reduction Sources
 
