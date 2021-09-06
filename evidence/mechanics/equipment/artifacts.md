@@ -46,6 +46,27 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 * [https://www.youtube.com/watch?v=EvB8-4rAtsQ](https://www.youtube.com/watch?v=EvB8-4rAtsQ)
 * [https://www.youtube.com/watch?v=d\_Zrx0KasDg](https://www.youtube.com/watch?v=d_Zrx0KasDg)
 
+### Blizzard Strayer does not work on 1st Cryo hit
+
+**By:** Threvax#0078  
+**Added:** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879956675686187019/884464348364419082/transcript-does-blizzard-strayer-4-piece-set-bonus-work-on-first-cryo-application.html)
+
+**Findings**:  
+4 piece Blizzard Strayer is not active on the hit that applies Frozen
+
+
+**Evidence**:  
+Freeze: [Video](https://youtu.be/Sxd89gKj26I)
+
+Cryo: [Video](https://youtu.be/hIcBg6aBnkg)  
+
+Crit counts: [Spreadsheet](https://docs.google.com/spreadsheets/d/1TjE6Po4mKUUlvWgG82wTmlNMoAQsF75zcsjTsM_yzgo/edit?usp=sharing)  
+Only 3 out of 46 hits crit, which is statistically improbable with a theoretical 30% critical chance. Although by no means conclusive, it strongly hints that 4BS does not work on the hit that applies Cryo.
+
+**Significance**:  
+Blizzard Strayer litterally abbreviates to BS.
+
 ## Bloodstained Chivalry
 
 ### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
