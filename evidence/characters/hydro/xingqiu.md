@@ -161,7 +161,7 @@ A team consists of Kazuha and Xingqiu may have marginally less survivability tha
 ## XQ rain sword shattering cooldown
 
 **By:** Lee Roy Leoncio#3769  
-**Added:** 09/06/2021
+**Added:** 09/06/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881769328247177246/884456576075825162/transcript-xq-rain-sword-shattering-cooldown.html)
 
 **Finding:**  
