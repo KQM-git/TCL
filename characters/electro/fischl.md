@@ -221,7 +221,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Joint Attack | 30% of Fischl's ATK | No Limit | 1A | 0 | Elemental Skill |
 
-* The joint attack has an elemental application ICD of 2s.
+* The joint attack shares ICD with Oz's attacks.
 * The joint attack only procs once on multi-hit attacks.
 * C6 benefits from The Stringless
 * C6 can crit
