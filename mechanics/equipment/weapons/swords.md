@@ -39,7 +39,7 @@
 | Base ATK | 48 - 674 |
 | CRIT DMG% | 9.6% - 44.1% |
 
-* The umber of Mistsplitter's Emblems gained from characters' Elemental Burst are inconsistent - [gtrain#9987](../../../evidence/mechanics/equipment/weapons.md#mistsplitter-reforged)
+* The number of Mistsplitter's Emblems gained from characters' Elemental Burst is character dependent, for more details, check the Vault Entry linked - [gtrain#9987](../../../evidence/mechanics/equipment/weapons.md#mistsplitter-reforged)
 {% endtab %}
 
 {% tab title="Details" %}
