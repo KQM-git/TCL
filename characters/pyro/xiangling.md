@@ -68,6 +68,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
 * Guoba self applies pyro aura when he attacks. This aura can be swirled.
+* Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
 {% endtab %}
 
 {% tab title="Pyronado" %}
