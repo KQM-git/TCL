@@ -105,17 +105,17 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 | Cast Frames | 115 |
 | Energy Cost | 90 |
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 61.51% | 12 | 726.6% |
-| 2-Hit DMG | 60.44% | 32 | 542.33% |
-| 3-Hit DMG | 74% | 54 | 500.84% |
-| 4-Hit DMG | 42.47% + 42.59% | 95 | 437.13% |
-| 5-Hit DMG | 101.67% | 139 | 383.98% |
-| Recovery | -- | 215 | -- |
-| Charged Attack DMG | 84.7% + 102.25% | 50 | 224.34% |
-| Plunge DMG | 92.93% | -- | -- |
-| Low/High Plunge DMG | 185.81% / 232.09% | -- | -- |
+| String | Talent 6% | Frames | 60 resolve MV | MV/s |
+| :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 61.51% | 12 | 326.4% | 726.6% |
+| 2-Hit DMG | 60.44% | 32 | 326.4% | 542.33% |
+| 3-Hit DMG | 74% | 54 | 326.4% | 500.84% |
+| 4-Hit DMG | 42.47% + 42.59% | 95 | 652.8% | 437.13% |
+| 5-Hit DMG | 101.67% | 139 | 326.4% | 383.98% |
+| Recovery | -- | 215 | -- | -- |
+| Charged Attack DMG | 84.7% + 102.25% | 50 | 652.8% | 224.34% |
+| Plunge DMG | 92.93% | -- | -- | -- |
+| Low/High Plunge DMG | 185.81% / 232.09% | -- | -- | -- |
 
 * Charged Attack Stamina Cost: 20
 
