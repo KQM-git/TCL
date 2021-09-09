@@ -52,7 +52,4 @@
 * Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
 * Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)  
 * Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)  
-* 
 
-### Constellation Mechanics
-None.
