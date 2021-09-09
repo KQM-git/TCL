@@ -105,17 +105,17 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 | Cast Frames | 115 |
 | Energy Cost | 90 |
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 61.51% | 12 | 726.6% |
-| 2-Hit DMG | 60.44% | 32 | 542.33% |
-| 3-Hit DMG | 74% | 54 | 500.84% |
-| 4-Hit DMG | 42.47% + 42.59% | 95 | 437.13% |
-| 5-Hit DMG | 101.67% | 139 | 383.98% |
-| Recovery | -- | 215 | -- |
-| Charged Attack DMG | 84.7% + 102.25% | 50 | 224.34% |
-| Plunge DMG | 92.93% | -- | -- |
-| Low/High Plunge DMG | 185.81% / 232.09% | -- | -- |
+| String | Talent 6% | Frames | 60 resolve MV | MV/s |
+| :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 61.51% | 12 | 61.2% | 613.5% |
+| 2-Hit DMG | 60.44% | 32 | 61.2% | 458.1% |
+| 3-Hit DMG | 74% | 54 | 61.2% | 421.7% |
+| 4-Hit DMG | 42.47% + 42.59% | 95 | 61.2% + 61.2% | 370.7% |
+| 5-Hit DMG | 101.67% | 139 | 61.2% | 323.6% |
+| Recovery | -- | 215 | -- | -- |
+| Charged Attack DMG | 84.7% + 102.25% | 50 | 61.2% + 61.2% | 371.22% |
+| Plunge DMG | 92.93% | -- | -- | -- |
+| Low/High Plunge DMG | 185.81% / 232.09% | -- | -- | -- |
 
 * Charged Attack Stamina Cost: 20
 
@@ -166,7 +166,8 @@ Chakra Desiderata will gather Resolve even faster. When Electro characters use t
 {% tab title="C2" %}
 ### Steelbreaker
 
-Secret Art: Musou Shinsetsu's Musou no Hitotachi and Musou Isshin attacks will ignore 60% of opponents' DEF.
+While using Musou no Hitotachi and in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
+* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.
 {% endtab %}
 
 {% tab title="C3" %}

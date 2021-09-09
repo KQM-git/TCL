@@ -4,11 +4,15 @@
 
 {% page-ref page="../../../characters/electro/raiden.md" %}  
 
-## Baisc Mechanic Findings  
+## Basic Mechanic Findings  
 
 ### Basic Attributes
- * The Raiden Shogun is unnable to cook. - [2ri#0945](https://imgur.com/a/OSfIIXH)  
- * Raiden's A4 passive bonuses only show on stat page if she's in an active party. -[2ri#0945](https://imgur.com/a/iVYesXI)
+ * The Raiden Shogun is unable to cook. - [2ri#0945](https://imgur.com/a/OSfIIXH)  
+ * Raiden's A4 passive bonuses only show on stat page if she's in an active party. -[2ri#0945](https://imgur.com/a/iVYesXI)  
+ * Raiden can dragonstrike without movement speed buffs on her single hit attacks, both in normal and burst state, though this might be dependent on the hitlag: - BowTae#0141
+    * [Normal state single-hit attacks](https://imgur.com/rsgjW8t)
+    * [Burst state single-hit attacks](https://imgur.com/dB6r4Ny)
+    * [Burst CA DS with Diona shield and movement speed abyss card](https://imgur.com/9gg4tZ5)
 
 * Gauges:
   * [E](https://www.youtube.com/watch?v=LCa_MauVjYI) [1A](https://youtu.be/YVdFQI9LUXE) - CC#5588
@@ -18,12 +22,24 @@
 * ICDs:  
   * Raiden's polearm charge attacks have an ICD independent of normals, and its ICD is short enough that N1C spam causes a reacted charge attack consistently. - [Phana#0420](https://i.imgur.com/fevoAd5.mp4)
   * Raiden's E cast has separate ICD from it's following triggers. - [Monochrom9#8058](https://imgur.com/a/A0KvnRX)  
+  * Raiden's attacks during Elemental Burst use standard 3 hit/2.5s ICD. - [Nass008#8577](https://imgur.com/5u6gEPV)  
+  * Raiden's normal attacks and chaged attacks during Elemental Burst share ICD. - [Nass008#8577](https://imgur.com/V7isJR3)  
+  * Raiden's initial Elemental Burst slash does not share ICD with her following attacks. - [Nass008#8577](https://imgur.com/V7isJR3)  
 
 
 ### Skill Mechanics  
 * Raiden's Elemental Skill does not activate on non damaging hits (ex. against shielded targets). - [CC\#5588](https://youtu.be/YVLOA4FfV4M)  
 * Raiden's Elemental Skill buff affects herself. - [CC\#5588](https://youtu.be/8-xxU5jRaI0)  
 * Raiden's Elemental Skill buff works on off field characters. - [CC\#5588](https://youtu.be/DbXfGVQvY-M)  
+* Raiden's Elemental Skill does not appear to have a range limt. - [Veggie#0581](https://www.youtube.com/watch?v=JOTmm5v3ZVg)  
+* Raiden's Elemental Skill is dynamic/does not snapshot. - [elijam#7142](https://youtu.be/yfULaSuyqOs)  
+* Raiden's Elemental Skill can be triggered by:
+   * Superconduct - [Nass008#8577](https://imgur.com/l8HTpLS)  
+   * Overload - [Nass008#8577](https://imgur.com/BFp3mF7)
+   * Pyro Swirl - [Nass008#8577](https://imgur.com/HooDf8l)
+* Raiden's Elemental Skill cannot be triggered by:
+   * Electro-charged
+   * Cryo/Hydro swirls
 
 ### Burst Mechanics  
 * Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)  
@@ -32,6 +48,11 @@
 * Raiden's attacks during Elemental Burst can't trigger EMC's Q. - [Sylenwolf#5802](Sylenwolf#5802)
 * Raiden's attacks during Elemental Burst can't trigger Beidou's Q. - [Peekays#2722](https://youtu.be/J-52Fr4WA3A)
 * Raiden's Elemental Burst does not snapshot. - [CC#5588](https://www.youtube.com/watch?v=2YKNl5OAPJE)  
+* Raiden's CA during Elemental Burst work as a hitscan similar to Ayaka's. - [LittleFox#0906](https://youtu.be/yVQKrJq1VNI)  
+* Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
+* Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)  
+* Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)  
+* 
 
 ### Constellation Mechanics
 None.
