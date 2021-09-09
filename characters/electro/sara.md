@@ -28,23 +28,22 @@ description: >-
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 53.63% | -- | -- |
-| 2-Hit DMG | 56.25% | -- | -- |
-| 3-Hit DMG | 70.5% | -- | -- |
-| 4-Hit DMG | 73.25% | -- | -- |
-| 5-Hit DMG | 84.38% | -- | -- |
+| 1-Hit DMG | 53.63% | 19 | 169.36%/s |
+| 2-Hit DMG | 56.25% | 44 | 149.84%/s |
+| 3-Hit DMG | 70.5% | 82 | 131.99%/s |
+| 4-Hit DMG | 73.25% | 123 | 123.72%/s |
+| 5-Hit DMG | 84.38% | 181 | 112.05%/s |
+| Recovery | -- | 195 | 104.00%/s |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | GU |
 | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | -- | -- |
-| Fully-Charged Aimed Shot | 173.6% | -- | -- |
-
-* A Fully-Charged Aimed Shot applies 1A Electro
+| Aimed Shot | 63.75% | 38 | -- |
+| Fully-Charged Aimed Shot | 173.6% | 78 | 1A |
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
@@ -62,13 +61,13 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 
 | Type | Talent 6% | GU | Particles | Cast Frames |
 | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Ambush DMG | 176.06% | 1A | 3 | -- |
+| Tengu Juurai: Ambush DMG | 176.06% | 1A | 3 | 50 |
 
 | Type               | Talent  6% |
 | ------------------ | ---------- |
 | ATK Bonus Ratio    | 60.14%     |
-| ATK Bonus Duration | 6 s        |
-| CD                 | 10 s       |
+| ATK Bonus Duration | 6s         |
+| CD                 | 10s        |
 
 * **Tengu Stormcall** only buffs the on-field characters upon Crowfeather Explosion, this also applies to coop members.
 * Triggering **Tengu Juurai: Ambush** doesn't require hitting an enemy, just a fully-charged aimed shot.
@@ -76,6 +75,9 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 * Sara does not lose the effects of **Crowfeather Cover** if swapped off.
 * **Crowfeather** does not stick to walls; it sticks to the closest walkable surface from the point of collision.
 * **Crowfeather** triggers **Tengu Juurai: Ambush** 1.5s after landing.
+* **Crowfeather** has a "semi-taunt" mechanic, where it can draw enemy attention even while not in combat mode.
+* The hitbox to gain an ATK buff from **Tengu Juurai: Ambush** is massive vertically.
+* The damage hitbox of **Tengu Juurai: Ambush** is different from the hitbox to gain an ATK Buff.
 
 {% endtab %}
 
@@ -86,10 +88,11 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 | :--- | :--- | ---- |
 | Tengu Juurai: Titanbreaker DMG | 573.44% | 1A |
 | Tengu Juurai: Stormcluster DMG | 47.77% | 1A |
-| Cast Frames | -- | -- |
-| CD | 20 s | -- |
+| Cast Frames | 80 | -- |
+| CD | 20s | -- |
 | Energy Cost | 80 | -- |
 
+* The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
 * For Sara's ATK bonus to apply, a character has to be in a radius of the initial **Titanbreaker** hit equal to the range of the **Stormcluster** hits.

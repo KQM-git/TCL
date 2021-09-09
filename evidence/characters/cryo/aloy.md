@@ -6,6 +6,8 @@
 
 ## Basic Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300511838584882/885320475805368401/transcript-aloy-basic-mechanics.html)
+
 ### Attributes
 
 * Gauges
@@ -33,16 +35,26 @@
     * Jean: Tap E, Hold E
     * Kazuha: E
     * Sucrose: E, Q
+    * Anemo MC: [E](https://imgur.com/LIWv5MW) | [Q](https://imgur.com/vgsnOfW)
   * [Can't be moved by following abilities](https://youtu.be/Z1Zf9C26hGs):
     * Venti: E, Q
 * Chillwater Bomblets snapshot on Frozen Wilds cast - [Nass008#8577](https://imgur.com/oo2npIc)
 * Sacrificial bow interactions - [Vherax#5321](https://imgur.com/1NGlqTp)
   * Chillwater Bomblets are able to trigger Sacrificial Bow's elemental skill cooldown reset.
   * Recasting Frozen Wilds will make the remaining Chillwater Bomblets from the previous Frozen Wilds cast disappear.
+* Walls do not block Chillwater Bomblets - BowTae#0141
+  * [Imgur](https://imgur.com/Rtkxko2): it's possible to push them through walls
+  * [Imgur](https://imgur.com/CfQRY9d): they may also spawn inside the wall upon skill cast
+* Chillwater Bomblets do not float. - [BowTae#0141](https://imgur.com/qZngNjM)
+* Aloy skill cast can also be effected by Anemo abilities
+  * [Anemo MC](https://imgur.com/KsHMsWD): bomb goes to center of tornado then drops straight down and explodes.
 
 ### Burst Mechanics
 
 * Aloy Burst snapshots before or during Burst Animation - [Nass008#8577](https://imgur.com/qS6vdtR)
+* Aloy can't self buff her Burst with 4NO equipped. - Theotherhiveking#0212
+  * [With 4NO](https://youtu.be/dMuZpkXRqmA)
+  * [Without 4NO](https://youtu.be/KFMkBwFAj_s)
 
 ### Passive Mechanics
 

@@ -28,12 +28,13 @@ description: >-
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.04% + 32.67% | -- | -- |
-| 2-Hit DMG | 59.29% | -- | -- |
-| 3-Hit DMG | 72.6% | -- | -- |
-| 4-Hit DMG | 90.27% | -- | -- |
+| 1-Hit DMG | 29.04% + 32.67% | 18 + 12 | 169.36%/s |
+| 2-Hit DMG | 59.29% | 48 | 149.84%/s |
+| 3-Hit DMG | 72.6% | 85 | 131.99%/s |
+| 4-Hit DMG | 90.27% | 128 | 123.72%/s |
+| Recovery | -- | -- | -- |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
@@ -64,10 +65,10 @@ Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact,
 
 While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects will be cleared 30s after Aloy leaves the field.
 
-| Type | Talent 6% | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Freeze Bomb DMG | 248.64% | 1A | 5 | -- | -- |
-| Chillwater Bomblets | 56% | 1A | -- | -- | -- |
+| Type | Talent 6% | U | Particles | Frames |
+| :--- | :--- | :--- | :--- | :--- |
+| Freeze Bomb DMG | 248.64% | 1A | 5 | 67 |
+| Chillwater Bomblets | 56% | 1A | -- | -- |
 
 | Type                                | Talent 6 Data        |
 | ----------------------------------- | -------------------- |
@@ -92,7 +93,7 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | :--- | :--- |
 | Skill DMG | 502.88% |
 | GU | 2B |
-| Frames | -- |
+| Frames | 118 |
 | CD | 12 s |
 | Energy Cost | 40 |
 
