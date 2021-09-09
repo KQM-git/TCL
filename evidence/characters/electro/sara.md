@@ -6,6 +6,8 @@
 
 ## Basic Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300042495983667/885319887386460230/transcript-sara-basic-mechanics.html)
+
 ### Attack Attributes
 
 * Gauges

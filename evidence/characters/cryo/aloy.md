@@ -6,6 +6,8 @@
 
 ## Basic Mechanics
 
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300511838584882/885320475805368401/transcript-aloy-basic-mechanics.html)
+
 ### Attributes
 
 * Gauges
