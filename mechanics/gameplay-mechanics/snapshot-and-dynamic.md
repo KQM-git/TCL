@@ -23,6 +23,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Tartaglia's [Riptide](../../characters/hydro/tartaglia.md#attacks)
 * Xingqiu's [Guhua Sword: Raincutter](../../characters/hydro/xingqiu.md#attacks)
 * Yoimiya's [Ryuukin Saxifrag](../../characters/pyro/yoimiya.md#attacks)
+* Raidens' [Transcendence: Baleful Omen](../../characters/electro/raiden.md#attacks)
 
 ## Evidence Vault
 
