@@ -308,7 +308,7 @@ Mona Empty Domain (End):
 [Imgur](https://imgur.com/a/Q9uFZob)
 
 **Significance:**  
-Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in the case of low-stamina scenarios, sequences that utilize her 3rd AA may be used. In these moments, how Mona jumps after her attack may provide positional advantages/disadvantages. Additionally, Mona is the only character that has two differing animations in her AA-sequence.
+Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in the case of low-stamina scenarios, sequences that utilize her 3rd AA may be used. In these moments, how Mona jumps after her attack may provide positional advantages/disadvantages.
 
 ## Mona A4 passive only shows when she's active
 
