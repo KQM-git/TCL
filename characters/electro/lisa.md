@@ -39,6 +39,8 @@ Perform up to 4 lightning attacks dealing Electro DMG.
 | With Recovery | 247.97% | 143 | 101.8%/s |
 | GU | 1A | ~ | ~ |
 
+* Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
+
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
