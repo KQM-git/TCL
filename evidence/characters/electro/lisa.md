@@ -113,3 +113,17 @@ Can also work in conjunction with the effect described in a previous entry: [Vio
 
 Lisa can easily abuse this tech to quickly and efficiently stack Conductive. This allows for smoother and more rapid gameplay and very much opens up a Burst Carry archetype.
 
+## Lisa final AA has two different animations
+
+**By:** Sayline#5959  
+**Added**: 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882407170161922088/885681198775550042/transcript-lisa-aa-like-mona-aa.html)  
+
+**Findings:**  
+Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
+
+**Evidence:**  
+[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+
+**Significance:**  
+Combat positioning for Lisa
