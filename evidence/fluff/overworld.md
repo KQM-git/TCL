@@ -420,7 +420,7 @@ It's possible to extract your current coordinates through feedback url.
 Go to Paimon Menu -> Feedback. They're stored in the generated url. Under query value called `ext`.  
 ```javascript
 ext=%7b%22loc%22%3a%7b%22x%22%3a713.8189697265625%2c%22y%22%3a120.84298706054688%2c%22z%22%3a275.4739074707031%7d%2c%22platform%22%3a%22WinST%22%7d
-```  
+```
 Running `decodeURIComponent` on this value will yield a valid JSON.  
 See attached image on how to decode it in vanillaJS.
 
@@ -502,30 +502,6 @@ Which upon closer inspection, differ at 3rd decimal value in x and z axis. Lower
 
 **Significance:**  
 Fluff. This could also explain the fact that when you switch from child to adult male, your camera "target" goes up because the head is higher by ~0.4m.
-
-## Burning damage scaling  
-
-**By:** ceeeleste#3568  
-**Added:** 08/09/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869136453517574195/874164618136797184/transcript-burning-scales-off-of-active-char-em.html)  
-
-**Theory:**  
-- Burning DMG scales with the affected target's EM and Level.  
-It's also not affected by HP or DEF.
-
-- Burning DMG does not snapshot EM
-
-- Both Burning and WL dmg are reduced by Pyro RES
-
-**Evidence:**  
-Abyss floor 10 WL tick dmg - 236  
-[Imgur](https://imgur.com/TVtnOvw)
-
-Burning does not snapshot EM  
-[Imgur](https://imgur.com/mOSWwij)
-
-**Significance:**  
-Just don't get burnt.
 
 ## Burning grass has standard ICD  
 

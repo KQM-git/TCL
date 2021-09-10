@@ -68,29 +68,6 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 - Geo MC's burst does not apply C1 buff to its own damage (unless a ring from previous burst still exists)
 - With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.
 
-## Geo Traveler A4 does not count as Normal Attack
-
-**By:** Blank#4561  
-**Added:** 07/13/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
-
-**Finding:**
-Geo Traveler A4 does not count as Normal Attack while its counterpart - Anemo Traveler A1 does.
-
-**Evidence:**
-Anemo Traveler's A1 Passive Slitting Wind is increased by Normal Attack DMG bonus  
-[https://youtu.be/e6hCib9ZM2Q](https://youtu.be/e6hCib9ZM2Q)
-
-Geo Traveler's A4 Passive Frenzied Rockslide is NOT increased by Normal Attack DMG bonus  
-[https://youtu.be/Y-XRQKblmfw](https://youtu.be/Y-XRQKblmfw)
-
-Datamine also further proves this. Anemo Traveler A1 has *attackTag* as *NormalAttack* while Geo Traveler A4 does not.  
-Anemo Traveler A1: [Imgur](https://imgur.com/h4MbsMD)  
-Geo Traveler A4: [Imgur](https://imgur.com/p0sIC7a)
-
-**Significance**
-Although a minor damage source, Anemo Traveler's A1 Passive damage is increased by DMG bonuses towards Normal Attacks, while the same does not apply to Geo Traveler's A4 passive.
-
 ## Geo Traveler C2 damage
 
 **By:** elijam#7142  
@@ -122,3 +99,32 @@ Evidence 2: [Imgur](https://imgur.com/a/uimbAgh)
 
 **Significance**  
 Geo supremacy.
+
+## Geo Traveler triggers Mistsplitter NA Stack
+
+**By:** amaryillis#4774  
+**Added:** 9/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
+
+**Finding:**  
+Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide.
+
+**Evidence:**  
+[Youtube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
+
+## Geo Traveler A4 counts as Normal Attack
+
+**By:** Blank#4561  
+**Added:** 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
+
+**Finding:**  
+Anemo Traveler A4 counts as Normal Attack Damage.
+
+**Evidence:**  
+
+* [Youtube](https://youtu.be/JH6KsDqdsN8)
+* ` .6 * 752 * (1 + .35) * .9 * ((100 + 80)/(100 + 85 + 100 + 80)) = 270.35`
+
+**Significance:**  
+Although a minor damage source, Geo Traveler's A4 Passive damage is increased by DMG bonuses towards Normal Attacks.

@@ -96,7 +96,7 @@ After an extended casting time, calls down lightning from the heavens, dealing m
   * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack
   * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 Conductive stacks and will radiate 2 stacks to nearby opponents. 
   * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
-{% endtab %}
+  {% endtab %}
 
 {% tab title="Lightning Rose" %}
 Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
@@ -143,8 +143,8 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
 
-* This applies to both the Hold E and Press E variants
-* This summons a single particle that only provides energy if Lisa is on field 
+* This only applies to the Hold E variant.
+* This summons a single particle that only provides energy if Lisa is on field. 
 {% endtab %}
 
 {% tab title="C2" %}

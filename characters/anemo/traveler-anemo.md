@@ -149,7 +149,7 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.
 
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
-* A4 wind blade makes Anemo Traveler the only sword-wielding character without an innate Elemental infusion that can activate full 3 stacks of Mistsplitter Reforged.
+* This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 {% endtab %}
 
 {% tab title="Ascension 4" %}

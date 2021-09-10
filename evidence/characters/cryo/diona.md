@@ -96,7 +96,6 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 
 * Noted especially with how Diona shield works with Sacrificial Bow. 
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
-* Debunks a youtuber theory about Diona's infinity shield being good.
 
 ## Diona Field Characteristics
 

@@ -54,10 +54,6 @@ The current world state & character position is saved between different world ma
 * Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
 
-## Burning damage Scaling  
-
-Burning damage scales with the affected target's EM and Level
-
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}

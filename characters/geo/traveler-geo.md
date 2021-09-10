@@ -152,7 +152,9 @@ Reduces Starfell Sword’s CD by 2s.
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
 
-Unlike its counterpart - Anemo Traveler's A1, this bonus damage is not considered Normal Attack Damage.
+* This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
+* This allows Geo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
+
 {% endtab %}
 {% endtabs %}
 
