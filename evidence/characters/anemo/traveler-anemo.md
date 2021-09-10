@@ -21,22 +21,11 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 **Significance:** Anemo MC needs to be of a sufficiently high level relative to the enemy in order to be at all useful in combat at high enough levels.
 
-## Constellation Mechanics
+## Ascension Passive Mechanics
 
-### C6 Effect Duration
+### A1: Slitting Wind
 
-**By:** Orodalf\#9570  
-**Added:** 2/12/2021
-
-**Finding:** Anemo Traveller C6 lasts 10 seconds.
-
-**Evidence:** [https://i.imgur.com/H7zQc6Y](https://imgur.com/H7zQc6Y)
-
-Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
-
-**Significance:** I didn't see this written down anywhere else, so.
-
-### Anemo Traveler triggers Mistsplitter NA Stack
+#### Anemo Traveler triggers Mistsplitter NA Stack
 
 **By:** amaryillis#4774  
 **Added:** 2/12/2021  
@@ -50,3 +39,22 @@ Anemo Traveler can trigger Mistsplitter NA Stack with Slitting Wind.
 
 **Significance:**  
 AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them able to utilize it for an anemo damage boost in cases of teams where they are a dps with their E.
+
+
+## Constellation Mechanics
+
+### C6: Intertwined Winds
+
+#### C6 Effect Duration
+
+**By:** Orodalf\#9570  
+**Added:** 2/12/2021
+
+**Finding:** Anemo Traveller C6 lasts 10 seconds.
+
+**Evidence:** [https://i.imgur.com/H7zQc6Y](https://imgur.com/H7zQc6Y)
+
+Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
+
+**Significance:** I didn't see this written down anywhere else, so.
+
