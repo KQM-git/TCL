@@ -36,3 +36,17 @@ Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 
 
 **Significance:** I didn't see this written down anywhere else, so.
 
+### Anemo Traveler triggers Mistsplitter NA Stack
+
+**By:** amaryillis#4774  
+**Added:** 2/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
+
+**Finding:**  
+Anemo Traveler can trigger Mistsplitter NA Stack with Slitting Wind.
+
+**Evidence:**  
+[Youtube](https://youtu.be/6LpsILZWm9E): Mistsplitter Reforged is seen with zero stacks (no glow) at the beginning, with full burst. After anemo windblade hits, a glow is seen, showing that a stack of Mistsplitter has been produced.
+
+**Significance:**  
+AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them able to utilize it for an anemo damage boost in cases of teams where they are a dps with their E.
