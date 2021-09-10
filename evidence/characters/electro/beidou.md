@@ -259,3 +259,20 @@ Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.
 
 **Significance:**  
 Neat interaction for Beidou
+
+## Beidou C4 is on hit not damage
+
+**By:** Bobrokrot#0111  
+**Added** 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884807649869324348/885685498985738240/transcript-beidou-c4-is-on-hit-not-damage.html)
+
+**Finding:**  
+Beidou's C4 is actually on hit, not damage. It does activate when you get hit but don't take damage (if you are shielded).
+
+**Evidence:**  
+[Youtube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
+
+[Youtube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
+
+**Significance:**  
+C4 pretty good

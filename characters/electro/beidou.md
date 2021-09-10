@@ -177,6 +177,7 @@ Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20%
 * Use N2 cancels to maximize Electro DMG.
 * Beidou’s C4 damage instance is considered skill damage. 
 * C4 can be activated by certain teammate's hit, i.e., Kujou Sara's Tengou Juurai.
+* C4 is activated on hit, regardless taking damage or not. So it can be activated through shields, either her own or allies'.
 {% endtab %}
 
 {% tab title="C5" %}
