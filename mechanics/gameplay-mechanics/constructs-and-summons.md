@@ -21,7 +21,7 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 | Ningguang | Skill | Scaling | Geo |
 | Mona | Skill | Invulnerable | Taunt |
 | Traveler \(Geo\) | Skill | 1:1 | Geo, Climbable |
-| Traveler \(Geo\) | Burst | Invulnerable | Geo \(Special\) |
+| Traveler \(Geo\) | Burst | ? | Geo |
 | Xiangling | Skill | Invulnerable | Light |
 | Zhongli | Skill | 1:1 | Geo, Climbable |
 
