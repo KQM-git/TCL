@@ -71,7 +71,10 @@ The Eye can initiate one coordinated attack every 0.9s per party. Coordinated at
 | Coordinated ATK DMG | 58.8% | 1A | 0~1(1:1) | -- |
 | Duration | 25 s | -- | -- | -- |
 | Elemental Burst DMG Bonus | 0.27% Per Energy | -- | -- | -- |
-| CD | 10 s | -- | -- | -- |
+| CD | 10 s | -- | -- | -- |  
+* The Eye does not snapshot/is dynamic.  
+* The coorinated attack can only occur on damaging strikes against enemies.  
+* The eye's elemental burst dmg bonus does affect The Raiden Shogun.
 {% endtab %}
 
 {% tab title="Secret Art: Musou Shinsetsu" %} 
@@ -117,7 +120,9 @@ stacks is 60. The Resolve gained by Chakra Desiderata will be cleared 300s after
 | Plunge DMG | 92.93% | -- | -- | -- |
 | Low/High Plunge DMG | 185.81% / 232.09% | -- | -- | -- |
 
-* Charged Attack Stamina Cost: 20
+* Charged Attack Stamina Cost: 20  
+* Resolve stacks act as bonus MV, which is given to each split of a string in the case of multi-hits.  
+* Raiden's interruption resistance under the effects of Musou Isshin makes her immune to being staggered.  
 
 {% endtab %}
 {% endtabs %}
