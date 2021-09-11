@@ -362,3 +362,20 @@ Ayaka can infinitely sprint across large bodies of water using her dash and infu
 
 **Significance:**  
 Exploration.
+
+## Wait for mora before TP
+
+**By** ZyronX#0001  
+**Added:** 09/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885894005987115060/886300876791218216/transcript-wait-for-mora-before-tp.html)  
+
+**Finding:**  
+If you teleport before the mora going into the character's body, you will not gain any mora.  
+
+**Evidence:**  
+[Artifact spots example](https://youtu.be/dkvXti9LRns)  
+[Elite example](https://youtu.be/XlanpPrNCNw)  
+
+**Significance:**  
+When you're speedrunning artifact route or elite route, you should wait for the mora to go into your character's body then teleport.  
+
