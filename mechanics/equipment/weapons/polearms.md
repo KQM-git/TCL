@@ -11,6 +11,9 @@
 | Timeless Dream: Eternal Stove | ATK increased by **28/35/42/49/55**% of Energy Recharge over the base 100%. You can gain a maximum bonus of **80/90/100/110/120**% ATK. Gain **30/35/40/45/50**% Energy Recharge for 12s after using an Elemental Burst. |
 | Base ATK | 46 - 608 |
 | ER% | 12% - 55.1% |
+
+* The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
+
 {% endtab %}
 
 {% tab title="Details" %}
@@ -26,7 +29,6 @@
 | 80+ | 563 | 50.3 |
 | 85 | 586 | 52.7 |
 | 90 | 608 | 55.1 |
-* The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
 {% endtab %}
 {% endtabs %}
 
