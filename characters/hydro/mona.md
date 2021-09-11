@@ -87,6 +87,7 @@ Mona dashes backwards before placing a Phantom of Fate down.
 
 * Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
 {% endtab %}
+* **Mirror Reflection of Doom** will cause five instances of damage. It will tick 4 times, dealing DoT damage, then explode to deal Explosion DMG.
 
 {% tab title="Illusory Torrent" %}
 **Alternate Sprint**  
