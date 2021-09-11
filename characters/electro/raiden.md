@@ -161,7 +161,8 @@ Chakra Desiderata will gather Resolve even faster. When Electro characters use t
 ### Steelbreaker
 
 While using Musou no Hitotachi and in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
-* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.
+* The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.  
+* The defense ignore is multiplicative with defense shred.
 {% endtab %}
 
 {% tab title="C3" %}
