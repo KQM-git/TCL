@@ -61,11 +61,11 @@
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882822147012198440/886299222633250816/transcript-raiden-c2-stacking.html)  
 
 **Finding:**  
-Raiden's DEF ignore effect does not stack additively with other sources of DEF shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or (1-60%) * (1-23%), or 0.4 * 0.77 = 0.308 > 69.2% DEF Shred, not 83% DEF Shred.  
+Raiden's DEF ignore effect does not stack additively with other sources of DEF shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or `(1-60%) * (1-23%)`, or `0.4 * 0.77 = 0.308` for 69.2% DEF Shred, not 83% DEF Shred.  
 
 **Evidence:**  
 [Video](https://imgur.com/5mfhG33). Raiden 0 Resolve plus C2, deals 24070 on a crit, about matching up with the calculated value of 24086 (Genshin has rounding that cause damage diffs from calcs)  
-[Video](https://imgur.com/a/KKcAHJb). Raiden 2 Resolve stacks (from Klee) deals 10320 damage on a non-crit. If the two sources stacked additively, we would expect her to deal 1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.17)) * 5.01 = 11475 damage, which doesn't occur. However, multiplying the two sources of DEF shred, we would get 1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.308)) * (5.01+0.0486 * 2) = 10315 damage, which about matches up with the in-game value.
+[Video](https://imgur.com/a/KKcAHJb). Raiden 2 Resolve stacks (from Klee) deals 10320 damage on a non-crit. If the two sources stacked additively, we would expect her to deal `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.17)) * 5.01 = 11475 damage`, which doesn't occur. However, multiplying the two sources of DEF shred, we would get `1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.308)) * (5.01+0.0486 * 2) = 10315 damage`, which about matches up with the in-game value.
 
 **Significance:**  
 Better understanding of Raiden C2, less gain from stacking defense shred.  
