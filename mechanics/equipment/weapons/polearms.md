@@ -2,7 +2,7 @@
 
 ## 5 Stars
 
-### Grasscutter's Light
+### Engulfing Lightning
 
 {% tabs %}
 {% tab title="Description" %}
