@@ -53,3 +53,20 @@
 * Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)  
 * Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)  
 
+
+## C2 defense ignore is multiplicative
+
+**Added:** 09/11/2021  
+**By:** Javier#1000  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882822147012198440/886299222633250816/transcript-raiden-c2-stacking.html)  
+
+**Finding:**  
+Raiden's DEF ignore effect does not stack additively with other sources of DEF shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or (1-60%) * (1-23%), or 0.4 * 0.77 = 0.308 > 69.2% DEF Shred, not 83% DEF Shred.  
+
+**Evidence:**  
+[Video](https://imgur.com/5mfhG33). Raiden 0 Resolve plus C2, deals 24070 on a crit, about matching up with the calculated value of 24086 (Genshin has rounding that cause damage diffs from calcs)  
+[Video](https://imgur.com/a/KKcAHJb). Raiden 2 Resolve stacks (from Klee) deals 10320 damage on a non-crit. If the two sources stacked additively, we would expect her to deal 1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.17)) * 5.01 = 11475 damage, which doesn't occur. However, multiplying the two sources of DEF shred, we would get 1886.3 * (1+0.616) * (0.9) * ((100+59)/((100+59)+(100+85) * 0.308)) * (5.01+0.0486 * 2) = 10315 damage, which about matches up with the in-game value.
+
+**Significance:**  
+Better understanding of Raiden C2, less gain from stacking defense shred.  
+
