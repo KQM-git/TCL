@@ -401,6 +401,24 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
 
+### Engulfing Lightning
+
+#### 4 ESF Interractions
+
+**By:** Vye#9195  
+**Added:** 09/11/2021  
+[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html) [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
+
+**Finding:**  
+4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.  
+
+**Evidence:**  
+[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) Vye's stats, shown in video, are calculated for burst damage here assuming that the ER passive from Grasscutter does affect the 4-piece ESF set: (804+899) * (1+1.098) * (1+0.466+0.582) * (0.9) * ((100+70)/((100+70)+(100+85))) * 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
+[No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) In the video, Engulfing Lightning is being used. The ending hits of Xiangling's burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on burst cast has worn off. 
+
+**Significance:**  
+Grasscutter + 4ESF have better synergy.  
+
 ### Mistsplitter Reforged  
 
 #### Mistsplitter's stacks upon burst usage:  
