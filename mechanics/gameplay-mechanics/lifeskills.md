@@ -154,6 +154,10 @@ For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 * You can cross the water by applying cryo on water surface.
   * Ayaka can infinitely sprint across large bodies of water using her Dash and infused Normal Attacks to freeze the water for herself. She has time for about four basic attacks before you should dash again to avoid falling into the water.
 
+## Wait for mora before teleporting
+
+In overworld, you need to wait for flying mora to be absorbed by your character's body, if teleporting before it, the mora in mid-air will be lost forever.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/lifeskills.md" %}
