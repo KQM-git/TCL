@@ -26,6 +26,7 @@
 | 80+ | 563 | 50.3 |
 | 85 | 586 | 52.7 |
 | 90 | 608 | 55.1 |
+* The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
 {% endtab %}
 {% endtabs %}
 
