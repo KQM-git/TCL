@@ -57,6 +57,7 @@ Plunge towards the ground below from mid-air to deal AoE Electro DMG.
 | Plunge DMG | 82.6% |
 | Low Plunge DMG | 165.17% |
 | High Plunge DMG | 206.3% |
+
 {% endtab %}
 
 {% tab title="Violet Arc" %}
@@ -96,7 +97,8 @@ After an extended casting time, calls down lightning from the heavens, dealing m
   * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack
   * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 Conductive stacks and will radiate 2 stacks to nearby opponents. 
   * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
-  {% endtab %}
+ 
+{% endtab %}
 
 {% tab title="Lightning Rose" %}
 Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
@@ -110,6 +112,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | CD | 20s | ~ | ~ |
 | Energy Cost | 80 | ~ | ~ |
 | GU | 1A | ~ | ~ |
+
 {% endtab %}
 {% endtabs %}
 
@@ -122,7 +125,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## Induced Aftershock
 
 Hit by Charged Attacks apply **Violet Arc’s** **Conductive** status to opponents.
