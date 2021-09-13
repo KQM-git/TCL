@@ -379,3 +379,19 @@ If you teleport before the mora going into the character's body, you will not ga
 **Significance:**  
 When you're speedrunning artifact route or elite route, you should wait for the mora to go into your character's body then teleport.  
 
+## Bait & Switch
+
+**By** wiremash#0433  
+**Added:** 09/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884979127260680212/887102831771922482/transcript-bait-and-switch.html)  
+
+**Finding:**  
+You can switch fishing baits in mid-air.
+
+Note that bait cannot be switched once the bobber enters the water.
+
+**Evidence:**  
+[Youtube](https://youtu.be/S5MWl6yO5V8): Skip to 1:50 for a somewhat practical demonstration
+
+**Significance:**  
+Unnecessarily advanced fishing technique for those trying to catch multiple species of fish.
