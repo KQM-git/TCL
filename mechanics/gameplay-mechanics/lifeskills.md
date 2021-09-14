@@ -41,6 +41,12 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 Character with extra dish passive can duplicate their specialties while cooking.  
 **By:** [denmax\#9293](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#duplicate-special-dish)
 
+### Battle Pass Resin Value
+
+The $10 BP gives rewards worth approximately 1800 Resins = 45 Condensed Resin = 30 Fragile Resins in the form of EXP books, Mora, and talent books.  
+* This does not include the Weapon Enhancement Ores, Fates, Primogems, and BP exclusive Weapons.
+
+
 ## Exploration
 
 ### Bush Droprates
