@@ -121,7 +121,7 @@ Numerous interactions/findings that happen with high ping, listed below.
  * Freeze and Shatter: [Video](https://youtu.be/4gaCtylCSo4)
  * Crystallize: [Video](https://youtu.be/iDmUZz6fmeU) 
  * Superconduct: [Video](https://youtu.be/Y9GIvuNkPog) (Works on high latency)  
- 
+
 Conclusion: Elemental reactions are updated on client, and superconduct shred still works in high latency.
 
 **HP**  
@@ -238,19 +238,14 @@ Bad ping breaks some mechanics in game on the server side and it could be used f
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
 
 **Bug:**  
-4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ningguang burst and Ganyu's burst.
+4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ganyu's burst.
 
-For now these are the only three ults that have this issue. The following ults are confirmed to behave as expected: Chongyun, Amber, Kaeya, Jean, XL.
+For now these are the only two ults that have this issue. The following ults are confirmed to behave as expected: Chongyun, Amber, Kaeya, Jean, XL.
 
 **Evidence:**  
 [In this video Beidou with 4NO activates burst two times in Abyss-7 without exiting the floor](https://youtu.be/3B1KQC7rM-A). The first burst didn't snapshot the +20% atk bonus from 4NO, while 2nd burst did.
 
 [\[Spreadsheet\] The calcs to confirm the numbers in the video:](https://docs.google.com/spreadsheets/d/1qwMllRjonYsyd6JFcmlLfqdd8fEe5lro_CchnkQISew/edit?usp=sharing)
-
-[In this video Ningguang ults first without 4NO, then reenters the Abyss-7 with 4NO](https://youtu.be/xDRgQuTTRMA). The damage numbers didn't change.  
-Note that this video was made yesterday before the patch by one of my subscribers. I did test myself after the update with the same result.
-
-My Ning test after the patch, the calcs are in the above spreadsheet. [4NO buff didn't apply.](https://youtu.be/lONvaIOOAco)
 
 [4NO doesn't work on Ganyu](https://youtu.be/BmHfmKQr6r4)
 
@@ -260,7 +255,7 @@ Some other tests:
 [Amber \(4NO works\)](https://youtu.be/jNcaVB10Jow)
 
 **Significance:**  
-Until patched, Ganyu, Ning, and Beidou should not hold 4NO buffs as they cannot utilize the buff themselves. It is better suited on other characters until patched.
+Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize the buff themselves. It is better suited on other characters until patched.
 
 ## Miscellaneous
 

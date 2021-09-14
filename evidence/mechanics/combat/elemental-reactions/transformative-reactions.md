@@ -282,7 +282,7 @@ One step closer to understanding EC I guess.
 
 **Finding:** Electro-charged + heavy hit instances can stagger lock.
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=LsBwNPbN6lk)
+**Evidence:** *Youtube video lost to the sands of time*
 
 1. Apply electro-charged and deal heavy hits to target
 2. Stagger resistance will be reduced

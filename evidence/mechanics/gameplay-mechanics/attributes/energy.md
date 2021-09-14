@@ -4,16 +4,7 @@
 
 **Added:** 12/6/2020
 
-[Full Database](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
-
-**Contributors**
-
-* Base information came from this [post](https://twitter.com/_aomu/status/1317287212858433537)
-* Steph\#3614
-* Aerylle\#1254 
-* JarJarThinks
-* ＃＃\#0123
-* JinJinx \(Mathalos Main\)\#5874
+[Full Database](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0) maintained by Steph\#3614
 
 ## Only On-Field Characters Gain Energy By Auto Attacks
 

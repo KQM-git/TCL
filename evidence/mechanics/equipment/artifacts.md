@@ -908,7 +908,7 @@ Substats are distributed evenly except for flat Def for some reason, which is si
 
 **Theory:** Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
 
-**Evidence:** TL;DR - We have the datamined substat probabilities from this link: [Dimbreath's datamine](https://github.com/Dimbreath/GenshinData/blob/main/Excel/ReliquaryAffixExcelConfigData.json)
+**Evidence:** TL;DR - We have the datamined substat probabilities from this link: *Link lost to the sands of time*
 
 Image summarizing this data is here: [Imgur](https://imgur.com/k2d3S3J)
 
