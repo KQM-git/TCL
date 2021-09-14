@@ -488,8 +488,8 @@ Reviewed/Edited by: IonFox, Doug
 
 **Evidence:** Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
 
-According to Hypothesis 1, the aura should last 4 * 9.5 * 0.05 + 0.2 / 3.2 * 4 * 9.5 * 0.95 = 4.15625s after initial application
-whereas according to Hypothesis 2, the aura should last only 0.2 / 3.2 * 38 = 2.375s after initial application.
+According to Hypothesis 1, the aura should last `4 * 9.5 * 0.05 + 0.2 / 3.2 * 4 * 9.5 * 0.95 = 4.15625s` after initial application
+whereas according to Hypothesis 2, the aura should last only `0.2 / 3.2 * 38 = 2.375s` after initial application.
 Taking into account hitlag extension for elemental auras, the aura duration observed in the video matches Hypothesis 2, not Hypothesis 1.
 
 **Significance:** Sadly for the setup I wanted to test when I started this ticket, tax cannot be evaded since the aura starts at the taxed gauge. For the front page of Elemental gauge theory, this doesn't mean much since it explains things using tax on reaction, which is consistent with Hypothesis 2. However, since the original evidence is linked on the front page, it should be mentioned somewhere that Hypothesis 1 is inaccurate.
