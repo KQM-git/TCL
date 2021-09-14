@@ -4,6 +4,8 @@ description: Instant Gliding Cancel
 
 # Glide Cancel
 
+Also called Wave Dashing.
+
 While in a wind current (either Overword's natural current, or Venti holding Elemental Skill), you can jump, glide, and land instantly.
 
 This is done by jumping, then pressing jump again exactly 4 frames later at 60 fps, or 2 frames later at 30 fps.
