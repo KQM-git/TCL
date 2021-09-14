@@ -67,6 +67,40 @@ Only 3 out of 46 hits crit, which is statistically improbable with a theoretical
 **Significance**:  
 Blizzard Strayer litterally abbreviates to BS.
 
+### 4pc Blizzard Strayer on frozen aura
+
+**By:** Nass008#8577  
+**Added:** 09/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884444524951273523/887180645799960586/transcript-4pc-bs-on-frozen-aura.html)
+
+**Findings**:  
+Blizzard Strayer does not gain full crit rate bonus against frozen aura
+
+**Evidence**:  
+**Preface:**  
+* It is known that some enemies in the game can have innate “frozen” auras.
+* This can be observed in both data-mined files and in-game UI.
+
+1. Data-mined files for Frostarm Lawachurl and Cryo Hypostasis (test subjects for this ticket). Their element type is defined as “Frozen”.  
+[Github](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/MonsterAbilities/ConfigAbility_Monster_Brute_Ice.json#L926)  
+[Github](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/MonsterAbilities/ConfigAbility_Monster_Effigy_Ice.json#L351)  
+2. Element symbols shown in-game. The two enemies both have same symbol as frozen enemies instead of cryo element symbol.  
+[Imgur](https://imgur.com/iWVdbrC)
+
+**Testing:**  
+Frostarm Lawachurl : [Youtube](https://youtu.be/8wz8pq8T2hc)  
+Cryo Hypostasis : [Youtube](https://youtu.be/6zyHjbnft4Y)
+
+Against both target:  
+* 60% crit rate + 4pc BS resulted in some non-crit hits, meaning ganyu didn’t get full 40% bonus from 4pc BS set.  
+* 80% crit rate + 4pc BS resulted in all attacks being crit hits, suggesting 20% crit rate bonus on cryo aura being active.
+
+**Conclusion:**  
+Enemies with the “Frozen” aura do not count as “being frozen” for Blizzard Strayer set bonus. Instead, it’s treated like cryo aura and you get only 20% crit rate.
+
+**Significance**:  
+Clarification of interaction between frozen aura and Blizzard Strayer set bonus. Also, Blizzard Strayer still pretty much is bs.
+
 ## Bloodstained Chivalry
 
 ### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
