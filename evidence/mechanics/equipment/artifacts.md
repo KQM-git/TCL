@@ -719,9 +719,9 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 **Results:**
 
-\_\*\*\_Theory was confirmed. See video for evidence.
+Theory was confirmed. See video for evidence.
 
-[**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
+[https://youtu.be/FUnEjxmgJx4](https://youtu.be/FUnEjxmgJx4)
 
 **Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
 

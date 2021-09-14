@@ -49,7 +49,7 @@ Out of 1,174 Bushes:
 * 32 Matsutakes
 * 32 Eggs
 
-It seems like the drop is chosen randomly. Testing was done during the day, because at night, fireflies are added to the pool. They do not replace anything in the loot table, because at night all four itesm were dropped. There has never been an instance of getting more than one drop out of a bush.
+It seems like the drop is chosen randomly. Testing was done during the day, because at night, fireflies are added to the pool. They do not replace anything in the loot table, because at night all four items were dropped. There has never been an instance of getting more than one drop out of a bush.
 
 **Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
 
