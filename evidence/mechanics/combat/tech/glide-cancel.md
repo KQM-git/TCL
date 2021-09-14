@@ -1,4 +1,4 @@
-# Wave Dashing
+## Wave Dashing
 
 **By:** BowTae#0141  
 **Added:** 09/14/2021  
