@@ -63,6 +63,7 @@ Plunge from mid-air to the ground, dealing AoE Hydro DMG.
 | Plunge DMG | 82.6% | 1A |
 | Low Plunge DMG | 165.1% | 1A |
 | High Plunge DMG | 206.3% | 1A |
+
 {% endtab %}
 
 {% tab title="Mirror Reflection of Doom" %}
@@ -86,8 +87,9 @@ Mona dashes backwards before placing a Phantom of Fate down.
 | CD | 12s | ~ | ~ | ~ | ~ |
 
 * Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
-{% endtab %}
 * **Mirror Reflection of Doom** will cause five instances of damage. It will tick 4 times, dealing DoT damage, then explode to deal Explosion DMG.
+
+{% endtab %}
 
 {% tab title="Illusory Torrent" %}
 **Alternate Sprint**  
@@ -106,6 +108,7 @@ Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly
 * **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
+
 {% endtab %}
 
 {% tab title="Stellaris Phantasm" %}
@@ -134,6 +137,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
   * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
   * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor,...
 * Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
+
 {% endtab %}
 {% endtabs %}
 
