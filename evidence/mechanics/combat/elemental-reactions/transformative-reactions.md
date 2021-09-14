@@ -282,7 +282,7 @@ One step closer to understanding EC I guess.
 
 **Finding:** Electro-charged + heavy hit instances can stagger lock.
 
-**Evidence:** [Youtube](https://www.youtube.com/watch?v=LsBwNPbN6lk)
+**Evidence:** *Youtube video lost to the sands of time*
 
 1. Apply electro-charged and deal heavy hits to target
 2. Stagger resistance will be reduced
@@ -728,34 +728,34 @@ Swirl after instructor=25828
 EM before instructor=755 (97.4%)  
 EM after instructor=875(106.9%) 
 
-Swirl induced amp = swirl * reaction mult * amp_em  
+`Swirl induced amp = swirl * reaction mult * amp_em`  
 For video 1 of a 101k swirl melt proc, where instructor was applied after snapshot.  
-Vap=76465  
-Melt=101953  
+Vape = 76465  
+Melt = 101953  
 
 For video 2 of a 106k swirl melt proc, where instructor was applied before snapshot.  
-Vap=80157  
-Melt=106876
+Vape = 80157  
+Melt = 106876
 
 Since swirl is dynamic, a swirl value of 25828 is taken.
 
-If snapshot on amp_em, for vap,  
-Swirl induced amp=25828\*1.5\*(1+0.974) = 76476.708  
+If snapshot on amp_em, for vape,  
+`Swirl induced amp = 25828 * 1.5 * (1 + 0.974) = 76476.708`  
 Which matches with observed 76465 value.
 
-If no snapshot on amp_em, for vap,  
-Swirl induced amp=25828\*1.5\*(1+1.069) = 80157.198  
+If no snapshot on amp_em, for vape,  
+`Swirl induced amp = 25828 * 1.5 * (1 + 1.069) = 80157.198`  
 Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 80157.  
 
 If snapshot on amp_em, for melt,  
-Swirl induced amp=258282(1+0.974) = 101968.944  
+`Swirl induced amp = 258282 * (1+0.974) = 101968.944`  
 Which matches with observed 101953 value.
 
 If no snapshot on amp_em, for vap,  
-Swirl induced amp=25828*2*(1+1.069) = 106876.264  
+`Swirl induced amp = 25828 * 2 * (1+1.069) = 106876.264`  
 Which does not match with video 1, but it matches with video 2 where instructor is snapshotted at 106876.
 
-Thus it can be concluded that amp_em of the swirl induced amp reaction is snapshotted and the rest are dynamic.
+Thus it can be concluded that `amp_em` of the swirl induced amp reaction is snapshotted and the rest are dynamic.
 
 **Significance:**  
 Vape/Melt triggered by swirls are still considered as amp reactions and are snapshotted, not dynamic.
@@ -808,5 +808,4 @@ The player should only pick up correct-element crystallize crystals when fightin
 I electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
-
 

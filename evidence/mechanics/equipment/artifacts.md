@@ -719,9 +719,9 @@ Proc hydro swirl, and then electro swirl. Check if both hydro resist debuff AND 
 
 **Results:**
 
-\_\*\*\_Theory was confirmed. See video for evidence.
+Theory was confirmed. See video for evidence.
 
-[**https://youtu.be/FUnEjxmgJx4**](https://youtu.be/FUnEjxmgJx4)
+[https://youtu.be/FUnEjxmgJx4](https://youtu.be/FUnEjxmgJx4)
 
 **Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
 
@@ -862,7 +862,7 @@ For characters building around triggering transformative reactions, if they do n
 
 **Finding:**  
 4VV swirl damage set bonus is more valuable than 104 EM at 304 initial EM from artifact main stats, artifact subs, weapon secondary stats and passives, and ascension; 160EM at 842 initial EM; and 200EM at 1168 initial EM; when only swirl damage is taken into account.  
-These numbers were chosen to represent the value of 2WT2Ins, 4Ins with 4pc bonus active, and 4Ins with 4pc bonus active but set bonus discounted by 96EM to account for the loss of EM from downgrading two 5* main stat artifacts to 4* artifacts.
+These numbers were chosen to represent the value of 2WT2Ins, 4Ins with 4pc bonus active, and 4Ins with 4pc bonus active but set bonus discounted by 96EM to account for the loss of EM from downgrading two 5-star main stat artifacts to 4-star artifacts.
 
 **Evidence:**  
 Desmos chart for calculations: [Desmos Link](https://www.desmos.com/calculator/yeeskwsw42)
@@ -908,7 +908,7 @@ Substats are distributed evenly except for flat Def for some reason, which is si
 
 **Theory:** Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
 
-**Evidence:** TL;DR - We have the datamined substat probabilities from this link: [Dimbreath's datamine](https://github.com/Dimbreath/GenshinData/blob/main/Excel/ReliquaryAffixExcelConfigData.json)
+**Evidence:** TL;DR - We have the datamined substat probabilities from this link: *Link lost to the sands of time*
 
 Image summarizing this data is here: [Imgur](https://imgur.com/k2d3S3J)
 
@@ -925,6 +925,3 @@ I pulled out data for 4 substat and 3 substat artifacts to analyze separately si
 More data would be needed to reach stronger conclusions. As of right now, there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
-
-
-

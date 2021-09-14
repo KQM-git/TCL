@@ -240,15 +240,15 @@ Fischl with 0EM, 1378 overloads, leaving the shield at minimal health after 6 hi
 Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5 hits: [Video Download](https://cdn.discordapp.com/attachments/853125058965012500/855733343954010122/fischl_overload_EM.mp4)
 
 Large Slimes have 4x cicin hp and 8GU geo force shields.  
-12466 (cicin at level 91) * 4 = 49864 (slime hp)  
+`12466 (cicin at level 91) * 4 = 49864 (slime hp)`  
 Large Geo Slimes have 10% RES across the board excluding their element (immune), meaning a 0.9x damage multiplier to overload.
 
 For 0EM:  
-\[\(0.2 * (1378 * 0.9) * 8) / 49864] + 1.26 = damage per shot against geo slime = 1.2998 GU per shot  
+`[(0.2 * (1378 * 0.9) * 8) / 49864] + 1.26` = damage per shot against geo slime = 1.2998 GU per shot  
 1.2998 * 6 = 7.799 GU total damage
 
 For 688EM:  
-\[(0.2 * (7019 * 0.9) * 8) / 49864] + 1.26 = damage per shot against geo slime = 1.4627 GU per shot  
+`[(0.2 * (7019 * 0.9) * 8) / 49864] + 1.26` = damage per shot against geo slime = 1.4627 GU per shot  
 1.4627 * 5 = 7.3135 GU total damage
 
 Note: Character damage was not a factor in the shield breaking as the overloads were procced from burning grass. There may have been fluctuations based on weird mechanics with character or grass being the overload's trigger, but destruction of the geo shield at 6 and 7 shots respectively was always consistent.

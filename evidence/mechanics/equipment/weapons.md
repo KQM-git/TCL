@@ -116,7 +116,7 @@ Test 3: Vaporize
 
 Testing was done using Diona @ around 40% crit rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% crit rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per crit\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
 
-**Short demonstration**: [https://streamable.com/l87jqj](https://streamable.com/l87jqj)
+**Short demonstration**: *Streamable link lost to the sands of time*
 
 **Significance**:
 
@@ -252,7 +252,7 @@ https://youtu.be/PrXV4em0ssc
 
 **Evidence:** Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded pyro abyss mages and shielded geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
 
-**Short Demonstration:** [https://streamable.com/nm57p6](https://streamable.com/nm57p6)
+**Short Demonstration:** *Streamable video lost to the sands of time*
 
 **Significance:** This has many applications in combat, especially in abyss where timed trials will be affected by proc frequency and subsequently burst uptime. Sacrificial weapons are among the best support options so understanding their mechanics are necessary.
 
@@ -304,6 +304,23 @@ Helpful for character building, documents which characters are able to proc sacr
 
 [100% ER](https://imgur.com/5qW7jew) [232% ER](https://imgur.com/6yVUgt7)
 
+### Engulfing Lightning
+
+#### 4 ESF Interractions
+
+**By:** Vye#9195  
+**Added:** 09/11/2021  
+[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html) [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
+
+**Finding:**  
+4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.  
+
+**Evidence:**  
+[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) Vye's stats, shown in video, are calculated for burst damage here assuming that the ER passive from Grasscutter does affect the 4-piece ESF set: (804+899) * (1+1.098) * (1+0.466+0.582) * (0.9) * ((100+70)/((100+70)+(100+85))) * 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
+[No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) In the video, Engulfing Lightning is being used. The ending hits of Xiangling's burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on burst cast has worn off. 
+
+**Significance:**  
+Grasscutter + 4ESF have better synergy.  
 
 ### Hakushin Ring  
 
@@ -400,24 +417,6 @@ Switched to a character with Lost Prayer, observed 0% DMG Bonus. Went into comba
 **Evidence**: [https://youtu.be/Gpalhvn1f6Q ](https://youtu.be/Gpalhvn1f6Q%20)
 
 **Significance**: Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
-
-### Engulfing Lightning
-
-#### 4 ESF Interractions
-
-**By:** Vye#9195  
-**Added:** 09/11/2021  
-[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html) [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
-
-**Finding:**  
-4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.  
-
-**Evidence:**  
-[Buff Evidence](https://www.youtube.com/watch?v=esmABsiaOjY) Vye's stats, shown in video, are calculated for burst damage here assuming that the ER passive from Grasscutter does affect the 4-piece ESF set: (804+899) * (1+1.098) * (1+0.466+0.582) * (0.9) * ((100+70)/((100+70)+(100+85))) * 2.508 = 7909 Which about matches up with the damage number of 7906 in the video.  
-[No snapshot evidence](https://www.youtube.com/watch?v=asYD3tzpvC0) In the video, Engulfing Lightning is being used. The ending hits of Xiangling's burst are lower damage, indicating that the Burst DMG% from Engulfing Lightning's additional ER bonus on burst cast has worn off. 
-
-**Significance:**  
-Grasscutter + 4ESF have better synergy.  
 
 ### Mistsplitter Reforged  
 
@@ -744,55 +743,6 @@ The spreadsheet has three main columns - for low, medium, and high stats. Each o
 **Significance**
 
 Memory of dust can actually be strong, even without a shield doubling its effect. Widsith is around ~20% weaker than 5\* catalysts in general outside its burst window, and ~10% stronger during the burst window at R1 and ~30% stronger at R5.
-
-### Does a Weapon’s ATK% Substat Compensate for a Lower Base ATK
-
-**Added:** 11/9/2020
-
-**Methodology:** Comparing between ALL characters Base Atk at lv80/80 with ALL 4 Star Weapon at lv80/80.
-
-**At level 1/20:**
-
-* Weapons with Base Atk of 41 will have a \(hypothetical\) atk% of 12%
-* Weapons with Base Atk of 42 will have a \(hypothetical\) atk% of 9%
-* Weapons with Base Atk of 44 will have a \(hypothetical\) atk% of 6%
-
-**At level 80/80:**
-
-* Weapons with Base Atk of 41 will have a 401 Base Atk and \(hypothetical\) atk% of 50.3%
-* Weapons with Base Atk of 42 will have a 449 Base Atk and \(hypothetical\) atk% of 37.7%
-* Weapons with Base Atk of 44 will have a 497 Base Atk and \(hypothetical\) atk% of 25.1%
-
-Characters do not include 1.1 characters.
-
-I made a [calculator](https://docs.google.com/spreadsheets/d/1OoxHIZ1rOxvIke2DI8GVCHP1qSDTuzXQgZKB1zslqCE/copy) that takes into account Artifact Stats \(Feather Atk, Flat Atk substat, and Atk%\)
-
-![Evidence at 46.6% \(From ATK% Sands\)](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/atk-compensate1.png)
-
-![Evidence at 70% \(From Artifact Substats\)](https://github.com/Artesians/TCL/tree/f8b25754c0edfaad6bd1708c2f5a2d2d346d63d6/.gitbook/assets/atk-compensate2.png)
-
-Editor’s Note: Jiangling = Xiangling, Explosion = Klee, Zinc Chew = Xingqiu
-
-**Conclusion:** Since different characters have different base stats, there exist a different OPTIMUM point where a weapon is objectively better than the other.
-
-**Significance:**
-
-* 4 Star Characters will perform BETTER when equipped with weapons that has HIGHER Base Atk if you are running a 46.6% Atk% Timepiece Artifact.
-* 5 Star Characters have higher Base Atk, and instead performs BETTER when equipped with weapons that has MEDIUM Base Atk if you are running a 46.6% Atk% Timepiece Artifact. However, as ATK% increases \(from artifact substats\) to roughly 70%, weapons that has HIGHER Base Atk will perform BETTER.
-
-### Range Cap for Arrows
-
-**By:** Poyo\#6921  
-**Added:** 2/4/2021
-
-**Finding**: There is a cap range for an arrow - the further you go after that cap the lower damage you deal.
-
-**Evidence**:
-
-* [https://streamable.com/pnfumf](https://streamable.com/pnfumf) \(Amos test\) 
-* [https://streamable.com/cq83a6](https://streamable.com/cq83a6) \(Sac Bow test\) 
-
-**Significance**: Damage just falls off after a certain range, and it got lower the further I went, so you don't have to try to snipe stuff so far away
 
 ### Refinement Costs
 
