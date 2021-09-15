@@ -181,7 +181,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12/10.5/9/7.5/6**s. |
+| Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Clear Particles. Can only occur once every **12/10.5/9/7.5/6**s. |
 | Base ATK | 42 - 510 |
 | Secondary Stat Type | ER% |
 | ER% | 10% - 45.9% |
