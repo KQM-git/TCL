@@ -207,7 +207,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate 1 Elemental Orb, which will regenerate 6 Energy for the character. Can only occur once every **12/10.5/9/7.5/6**s. |
+| Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Clear Particles. Can only occur once every **12/10.5/8/7.5/6** |
 | Base ATK | 41 - 454 |
 | ER% | 13.3% - 61.3% |
 
