@@ -1,5 +1,5 @@
 ---
-description: Instant Gliding Cancel
+description: Wave Dashing
 ---
 
 # Glide Cancel
