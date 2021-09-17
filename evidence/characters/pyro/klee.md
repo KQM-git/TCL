@@ -157,3 +157,18 @@ No further tests were done given that it is highly unlikely that Klee’s C4 dam
 
 **Significance:**  
 Damage calculations for Klee.
+
+## Klee 4CW 3 stacks
+
+**By:** solo#3333  
+**Added:** 09/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887521548049715200/888239532028354630/transcript-klee-4cw-3-stacks.html)  
+ 
+**Finding:**  
+Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one charge of Jumpty Dumpty. Therefore using the second charge within 10s will bring the total CW stacks to 3.
+
+**Evidence:**  
+[Imgur](https://imgur.com/RsnPT4c)
+
+**Significance:**  
+4CW is better than expected for Klee.
