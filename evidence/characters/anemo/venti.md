@@ -70,6 +70,26 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **Significance:** Can help calculate the elemental application rate of Venti's burst, along with determining how reactions should work against enemies caught in an infused Venti burst.
 
+### Venti Burst Anemo Gauge Units
+
+**By:** Charliex3000#9403  
+**Added:** 09/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887526029508354099/888246550936043610/transcript-venti-ult-anemo-gauge.html)
+
+**Finding:**  
+Venti ult anemo gauge is 1U.
+
+**Evidence:**  
+[Youtube](https://youtu.be/Arq_x6nFs6s)
+
+[Imgur](https://imgur.com/a/QK1y6oa): From this screenshot, we see that the shield has taken about 10 or 11 pixels of damage, out of a total 111 pixel shield.  
+Lector shields have need 72 anemo units worth of guage to break.  
+So we conclude that around 7 anemo units were applied from the 7 swirls/applications from Venti's ult.  
+Thus each application is 1U.
+
+**Significance:**  
+Venti ult anemo gauge is 1U.
+
 ## Constellation Mechanics
 
 ### C1: Splitting Gales
