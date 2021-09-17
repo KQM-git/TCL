@@ -73,7 +73,8 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 {% tab title="Kamisato Art: Senho" %}
 **Alternate Sprint**  
 Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.  
-Her alternate sprint has the same iframe as other characters' normal sprint.
+* Her alternate sprint has the same iframes as other characters' normal sprint.
+
 When she reappears, the following effects occur: 
 * Ayaka unleashes frigid energy to apply Cryo on nearby opponents.
   * 1A Cryo is applied when Ayaka exits from her sprint.
