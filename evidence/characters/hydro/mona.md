@@ -363,7 +363,10 @@ An Estimated 29% of all enemies in 2.0 have at least one of these states. The ma
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics
 
 **Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
+
+* [Youtube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
+* See 0:00 to 0:09 of this [Youtube Video](https://youtu.be/DeBpnKDYUQo) for the methodology.
+
 
 **Significance:**  
 Alt and typical sprint i-frame mechanics are extremely similar, many people likely thought that alt dash i-frames were shorter than before due to alt dash animation changes in 2.0
