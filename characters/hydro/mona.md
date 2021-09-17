@@ -94,7 +94,7 @@ Mona dashes backwards before placing a Phantom of Fate down.
 {% tab title="Illusory Torrent" %}
 **Alternate Sprint**  
 Mona cloaks herself within the water’s flow, consuming Stamina to move rapidly.  
-Her alternate sprint has the same iframe as other characters' normal sprint.
+* Her alternate sprint has the same iframes as other characters' normal sprint.
 
 * When under the effect of **Illusory Torrent**, Mona can sprint on water.
 * Applies Hydro aura to nearby opponents when she reappears.
