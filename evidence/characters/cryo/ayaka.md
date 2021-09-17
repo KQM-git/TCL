@@ -107,4 +107,17 @@ Because the gadget stops following the enemy when it begins its hitscans, it may
 
 In addition, because enemies can exit the hitscan area early, using her charged attack right as an enemy is about to jump, dash or teleport away can also result in potential damage loss.
 
+## Ayaka dash iframe  
 
+**By:** aui#3690  
+**Added:** 09/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)  
+
+**Finding:**  
+Alternative dash and typical dash have very similar if not exact same i-frame mechanics.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=DeBpnKDYUQo)  
+
+**Significance:**  
+Alt and typical sprint i-frame mechanics are extremely similar, many people likely thought that alt dash i-frames were shorter than before due to alt dash animation changes in 2.0
