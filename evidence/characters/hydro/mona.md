@@ -352,3 +352,21 @@ Some enemies can possess more than one state. For example. Abyss Lector and Hera
 
 **Significance:**  
 An Estimated 29% of all enemies in 2.0 have at least one of these states. The majority of these enemies are either Elite enemies or bosses. Understanding these states can help players to utilize the Omen extension more effectively.
+
+## Mona dash iframe
+
+**By:** aui#3690  
+**Added:** 09/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)
+
+**Finding:**  
+Alternative dash and typical dash have very similar if not exact same i-frame mechanics
+
+**Evidence:**  
+
+* [Youtube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
+* See 0:00 to 0:09 of this [Youtube Video](https://youtu.be/DeBpnKDYUQo) for the methodology.
+
+
+**Significance:**  
+Alt and typical sprint i-frame mechanics are extremely similar, many people likely thought that alt dash i-frames were shorter than before due to alt dash animation changes in 2.0
