@@ -413,3 +413,20 @@ Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Sp
 
 **Significance:**  
 Buy the BP if you have the money.
+
+## The Walking Dead Impact
+
+**By** Mcpie#8672  
+**Added:** 09/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887034163725746226/888244472746487818/transcript-autowalk-with-dead-chars.html)  
+
+**Finding:**  
+It's possible to perform autowalk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.  
+You cannot do sprint with this, it automatically converts to "W".
+
+**Evidence:**  
+[Imgur](https://i.imgur.com/6uyJrUN.mp4)  
+[Imgur](https://i.imgur.com/LSdr8yo.mp4)
+
+**Significance:**  
+You can go to the toilet while traversing through Teyvat using your new autowalk skills.
