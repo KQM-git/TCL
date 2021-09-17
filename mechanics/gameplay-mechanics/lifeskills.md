@@ -129,6 +129,11 @@ You can switch fishing baits when the bobber is in mid-air.
 
 * Note that bait cannot be switched once the bobber touches the water surface.
 
+### Auto Walking
+
+It's possible to perform auto walk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.
+* You, however, cannot sprint with this method.
+
 ## Equipment
 
 ### Destroy Mechanics
