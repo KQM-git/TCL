@@ -90,8 +90,9 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 * The Cryo application of **Rites of Termination** has no ICD
   * **Rites of Termination** will apply 1A cryo on both damage instances on cast
   * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
-  {% endtab %}
-  {% endtabs %}
+  
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
@@ -123,8 +124,9 @@ Casting **Rites of Termination** increases CRIT RATE of all nearby party members
 
 * The CRIT RATE shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
   * For example, the CRIT RATE shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
-  {% endtab %}
-  {% endtabs %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Constellations
 
