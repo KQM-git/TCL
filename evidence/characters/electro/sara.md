@@ -87,23 +87,11 @@
 
 * Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)
 
-## Double Snapshot with Sara's Burst
+## Constellation Mechanics
 
-**By:** Wishiwashi#2548  
-**Added:** 9/7/2021  
-Discussion in Basic Mechanics
+### C2: Dark Wings
 
-**Finding:**  
-It's possible to have two different characters snapshot Sara’s burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
-
-**Evidence:** [Imgur](https://imgur.com/a/DIYQPrQ)
-
-**Significance:**  
-This technique is too difficult to pull off consistently to be recommended for normal gameplay purposes. Also, this only worked because I used Fischl/Beidou, who have short animation times here. This is more of an exercise in pushing Sara’s limits.
-
-It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotation like Sara ECA > Swap to Fischl > Wait for Ambush buff > Fischl E > Burst-Quickswap Sara Q > Swap to Beidou > Wait for Stormcluster buff > Beidou Q
-
-## Double Buff with Sara C2
+#### Double Buff with Sara C2
 
 **By:** NZPIEFACE#8439 and BowTae#0141
 **Added:** 9/7/2021  
@@ -120,3 +108,22 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 
 **Significance:**  
 This is possible to perform without cancels but the timing is extremely difficult.
+
+## Synergies/Interactions
+
+### Double Snapshot with Sara's Burst
+
+**By:** Wishiwashi#2548  
+**Added:** 9/7/2021  
+Discussion in Basic Mechanics
+
+**Finding:**  
+It's possible to have two different characters snapshot Sara’s burst ATK buff by following Stormcluster with precise positioning/timing. See evidence below for video of 3 attempts.
+
+**Evidence:** [Imgur](https://imgur.com/a/DIYQPrQ)
+
+**Significance:**  
+This technique is too difficult to pull off consistently to be recommended for normal gameplay purposes. Also, this only worked because I used Fischl/Beidou, who have short animation times here. This is more of an exercise in pushing Sara’s limits.
+
+It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotation like Sara ECA > Swap to Fischl > Wait for Ambush buff > Fischl E > Burst-Quickswap Sara Q > Swap to Beidou > Wait for Stormcluster buff > Beidou Q
+

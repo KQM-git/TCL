@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/electro/beidou.md" %}
 
-## Analysing Beidou’s Normal Attack Rotations Including Hitlag
+## Attack Mechanics
+
+### Analysing Beidou’s Normal Attack Rotations Including Hitlag
 
 **By:** lostguru\#5024  
 **Added:** 12/6/2020
@@ -18,93 +20,9 @@
 2. C0-C3 Beidous looking to maximize damage output will want to use 4-hit run cancels and full combo dash cancels.
 3. C4-C6 Beidous can consider using 2-hit run cancel rotations when they want to prioritize Electro damage output.
 
-## Serpent Spine Interactions with Beidou
+## Skill Mechanics
 
-**By:** ZΛNTO\#4984  
-**Added:** 12/13/20
-
-**Finding:**
-
-Everything you need to know about Serpent Spine and Beidou
-
-1. Perfect parrying does NOT reduce your Serpent Stacks. Any shield damage will not count as "taking damage," but if your shield breaks from an attack it WILL count as taking damage.
-2. Serpent stacks still boost damage when off-field
-3. Stormbreaker is SNAPSHOTTED, meaning casting it will "lock" your stats. Losing or gaining any stacks will NOT change your current Burst damage.
-
-**Evidence:**
-
-1. [https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
-2. [https://streamable.com/3qsmmj](https://streamable.com/3qsmmj)  3523 crit damage on and off-field.
-3. [https://streamable.com/f6836w](https://streamable.com/f6836w)  1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks
-
-**Significance:**
-
-Good weapon. Works as well as you'd expect.
-
-## Beidou Plunge Attack R-Cancel
-
-**By:** Ja’Krampus\#2399  
-**Added:** 12/13/20
-
-**Editor's Note:** This has been patched out and is not able to be performed anymore.
-
-**Finding:**
-
-Beidou can plunge from flat-ground by using an "R-Cancel" to help her jump higher, to execute, hit the Aim button for bow users 2x, jump and attack in quick succession, if done correctly your result will be what you see in the video below
-
-**Evidence:**  
-[https://youtu.be/MD6\_Tuadv\_Y](https://youtu.be/MD6_Tuadv_Y)
-
-**Significance:**  
-With certain attack strings, cancelling into this move may provide a higher mv/s than her usual attack combos which are abysmally slow and have low multipliers. Although having a much higher skill floor, it may give Beidou more potential to do damage.
-
-## Movespeed Increases Jump Height
-
-**By:** Risuke\#6743  
-**Added:** 12/14/20
-
-**Finding:**
-
-Movespeed increases jump height. Double Anemo allows for plunging attack for most characters \(untested for small characters since I only own Diona and all bow characters can perform plunge\). Increasing movement speed allows easier execution of plunging attack.
-
-**Evidence:**
-
-[https://streamable.com/c2246r](https://streamable.com/c2246r)
-
-[https://streamable.com/yu6k2z](https://streamable.com/yu6k2z)
-
-**Significance:**
-
-Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
-
-For Beidou specifically, the movespeed needed to allow for a roll after a high jump is between 11% and 20% \(Evidence below by Cola\#6861\).
-
-[https://www.youtube.com/watch?v=guQLVVjbs6c](https://www.youtube.com/watch?v=guQLVVjbs6c)
-
-[https://www.youtube.com/watch?v=E96wws5MaOk](https://www.youtube.com/watch?v=E96wws5MaOk)
-
-## Mistranslation of Beidou’s C4 Effect
-
-**By:** EternalDream\#5503  
-**Added:** 12/7/2020
-
-**Finding:**  
-Beidou’s C4 is mistranslated:
-
-* Current description, Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.
-* Correct description, Within 10s of taking DMG, Beidou's Normal Attacks AND CHARGED ATTACKS gain 20% additional Electro DMG.
-
-**Evidence:**
-
-[https://puu.sh/GSOeX/499a6b1506.png](https://puu.sh/GSOeX/499a6b1506.png)
-
-[https://streamable.com/0eu6i6](https://streamable.com/0eu6i6)\*\*\*\*
-
-**Significance:**
-
-C4 is not anti-synergistic with all her charged attack bonuses, as one would assume from the description.
-
-## Frame Analysis of Beidou’s Parry
+### Frame Analysis of Beidou’s Parry
 
 **By:** MemeMastodon69\#2165  
 **Added:** 11/5/2020
@@ -132,7 +50,138 @@ Input overlay to detect inputs, counting from 1 on the frame after the input is 
 
 Beidou's extremely strong potential burst damage is evidently achievable by many players, as the timing window is only marginally tougher than dodging. Serious consideration should be given to "gitting gud" and making use of Beidou burst DPS.
 
-## Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
+### Beidou E Particle Mechanics
+
+**By:** Steph/\#3614  
+**Added:** 03/22/2021
+
+**Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
+
+**Evidence/Testing:** A series of 100 E casts of each following category was executed
+
+* [Tapping E without getting hit at all](https://imgur.com/rtJKoAe) \(to simulate a no charge tidecaller\)
+* [Holding E for at least half a second](https://imgur.com/0UGRrti) \(to make sure that it's not a perfect parry\) before getting hit, then get hit only once before release the E right after \(to simulate 1 charge\)
+* [Holding E for at least half a second](https://imgur.com/Yr8KJNr) \(to make sure that it's not a perfect parry\) before getting hit, then get hit at least twice before releasing the E after \(to simulate 2/full charge\)
+* [Tap E on enemy's attack](https://imgur.com/ppUAnWq) \(to simulate perfect parry\)
+
+**Results:**
+
+* 0 charge tidecaller will always produce 2 electro particles
+* 1 charge tidecaller will always produce 3 electro particles
+* 2 charge tidecaller and perfect parries will always produce 4 electro particles
+
+**Significance:** This makes Beidou's particle production way easier to count.
+
+## Constellation Mechanics
+
+### C4: Stunning Revenge
+
+#### Mistranslation of Beidou’s C4 Effect
+
+**By:** EternalDream\#5503  
+**Added:** 12/7/2020
+
+**Finding:**  
+Beidou’s C4 is mistranslated:
+
+* Current description, Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.
+* Correct description, Within 10s of taking DMG, Beidou's Normal Attacks AND CHARGED ATTACKS gain 20% additional Electro DMG.
+
+**Evidence:**
+
+* [C4 Effects](https://puu.sh/GSOeX/499a6b1506.png)
+
+* [Youtube](https://youtu.be/0LfX9j2nAd8)
+
+**Significance:**
+
+C4 is not anti-synergistic with all her charged attack bonuses, as one would assume from the description.
+
+### Beidou C4 Gauge
+
+**By:** Bobrokrot\#0111  
+**Added** 6/3/2021  
+[**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)
+
+**Finding:** Beidou's C4 applies 1A of Electro.
+
+**Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
+
+### Beidou C4 damage
+
+**By:** elijam#7142  
+**Added** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding:**  
+Beidou’s C4 damage instance has no ability type scaling tags.
+
+**Evidence:**  
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=h519mCwngYU)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw)  
+Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)  
+
+**Significance:**  
+Damage calculations for Beidou.
+
+### Beidou C4 is on hit not damage
+
+**By:** Bobrokrot#0111  
+**Added** 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884807649869324348/885685498985738240/transcript-beidou-c4-is-on-hit-not-damage.html)
+
+**Finding:**  
+Beidou's C4 is actually on hit, not damage. It does activate when you get hit but don't take damage (if you are shielded).
+
+**Evidence:**  
+[Youtube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
+
+[Youtube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
+
+**Significance:**  
+C4 pretty good
+
+## Interactions/Synergies
+
+### Serpent Spine Interactions with Beidou
+
+**By:** ZΛNTO\#4984  
+**Added:** 12/13/20
+
+**Finding:**
+
+Everything you need to know about Serpent Spine and Beidou
+
+1. Perfect parrying does NOT reduce your Serpent Stacks. Any shield damage will not count as "taking damage," but if your shield breaks from an attack it WILL count as taking damage.
+2. Serpent stacks still boost damage when off-field
+3. Stormbreaker is SNAPSHOTTED, meaning casting it will "lock" your stats. Losing or gaining any stacks will NOT change your current Burst damage.
+
+**Evidence:**
+
+1. [https://streamable.com/aq33mj](https://streamable.com/aq33mj)  Notice how I start and end the parry with 5 stacks.
+2. [https://streamable.com/3qsmmj](https://streamable.com/3qsmmj)  3523 crit damage on and off-field.
+3. [https://streamable.com/f6836w](https://streamable.com/f6836w)  1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks
+
+**Significance:**
+
+Good weapon. Works as well as you'd expect.
+
+### Beidou C4 interaction with Sara
+
+**By:** Bobrokrot#0111  
+**Added** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883625161058844702/884468275151511612/transcript-sara-beidou-c4-interaction.html)
+
+**Finding:**  
+Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.
+
+**Evidence:**  
+[Video](https://youtu.be/oYDHcC2prLY): In this video you can see that Beidou's weapon is normal and after she gets hit by Tengou Juurai: Ambush her weapon starts sparking with electro, indicating that C4 has been activated. 
+
+**Significance:**  
+Neat interaction for Beidou
+
+### Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
 
 **By:** Elliotto\#6694  
 **Added:** 11/18/2020
@@ -140,11 +189,10 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 **Finding:**  
 The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
 
-**Evidence:** [https://www.twitch.tv/videos/807116838](https://www.twitch.tv/videos/807116838)
+**Evidence:** *Twitch Clip lost to the sands of time*
 
-• Damage with The Bell: 111
-
-• Damage with a weapon of same Base ATK: 98
+* Damage with The Bell: 111
+* Damage with a weapon of same Base ATK: 98
 
 \(In addition, the total amount of shields does not increase the percentage of damage bonus from Bell's passive. This was tested through a similar method, using Diona, Crystalize, Noelle, and Beidou shield at the same time. The damage remained consistent\)
 
@@ -152,7 +200,7 @@ The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E 
 
 The bell will provide its damage bonus with concurrent abilities such as Beidou’s Tidecaller.
 
-## Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
+### Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
 
 **By:** ASHOKA\#5672  
 **Added:** 11/19/2020
@@ -175,7 +223,7 @@ Sequence of Clips and DMG numbers:
 2. Rainslasher can however give 8% more DMG than The Bell if the enemy has a Hydro/Electro aura.
 3. The passive cooldown of The Bell does not matter for Beidou and her E hold shield can directly benefit from it.
 
-## Beidou The Unforged Q snapshot interaction
+### Beidou The Unforged Q snapshot interaction
 
 **Theory/Finding/Bug:**
 
@@ -188,91 +236,7 @@ Beidou's Q snapshot happens before gaining the bonus from Unforged's shield effe
 
 **Evidence**:
 
-snapshot base
+* [snapshot base](https://imgur.com/q2nusx7)
 
-[https://imgur.com/q2nusx7](https://imgur.com/q2nusx7)
+* [shield snapshot difference](https://imgur.com/N4EN8xP)
 
-shield snapshot difference
-
-[https://imgur.com/N4EN8xP](https://imgur.com/N4EN8xP)
-
-## Beidou E Particle Mechanics
-
-**By:** Steph/\#3614  
-**Added:** 03/22/2021
-
-**Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
-
-**Evidence/Testing:** A series of 100 E casts of each following category was executed
-
-* [Tapping E without getting hit at all](https://imgur.com/rtJKoAe) \(to simulate a no charge tidecaller\)
-* [Holding E for at least half a second](https://imgur.com/0UGRrti) \(to make sure that it's not a perfect parry\) before getting hit, then get hit only once before release the E right after \(to simulate 1 charge\)
-* [Holding E for at least half a second](https://imgur.com/Yr8KJNr) \(to make sure that it's not a perfect parry\) before getting hit, then get hit at least twice before releasing the E after \(to simulate 2/full charge\)
-* [Tap E on enemy's attack](https://imgur.com/ppUAnWq) \(to simulate perfect parry\)
-
-**Results:**
-
-* 0 charge tidecaller will always produce 2 electro particles
-* 1 charge tidecaller will always produce 3 electro particles
-* 2 charge tidecaller and perfect parries will always produce 4 electro particles
-
-**Significance:** This makes Beidou's particle production way easier to count.
-
-## Beidou C4 Gauge
-
-**By:** Bobrokrot\#0111  
-**Added** 6/3/2021  
-[**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)
-
-**Finding:** Beidou's C4 applies 1A of Electro.
-
-**Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
-
-## Beidou C4 damage
-
-**By:** elijam#7142  
-**Added** 08/07/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
-
-**Finding:**  
-Beidou’s C4 damage instance has no ability type scaling tags.
-
-**Evidence:**  
-Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=h519mCwngYU)  
-Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw)  
-Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)  
-
-**Significance:**  
-Damage calculations for Beidou.
-
-## Beidou C4 interaction with Sara
-
-**By:** Bobrokrot#0111  
-**Added** 09/06/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883625161058844702/884468275151511612/transcript-sara-beidou-c4-interaction.html)
-
-**Finding:**  
-Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.
-
-**Evidence:**  
-[Video](https://youtu.be/oYDHcC2prLY): In this video you can see that Beidou's weapon is normal and after she gets hit by Tengou Juurai: Ambush her weapon starts sparking with electro, indicating that C4 has been activated. 
-
-**Significance:**  
-Neat interaction for Beidou
-
-## Beidou C4 is on hit not damage
-
-**By:** Bobrokrot#0111  
-**Added** 09/10/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884807649869324348/885685498985738240/transcript-beidou-c4-is-on-hit-not-damage.html)
-
-**Finding:**  
-Beidou's C4 is actually on hit, not damage. It does activate when you get hit but don't take damage (if you are shielded).
-
-**Evidence:**  
-[Youtube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
-
-[Youtube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
-
-**Significance:**  
-C4 pretty good

@@ -4,7 +4,26 @@
 
 {% page-ref page="../../../characters/electro/lisa.md" %}
 
-## Violet Arc's Press variant AoE is passed to all affected targets
+## Attack Mechanics
+
+### Lisa final AA has two different animations
+
+**By:** Sayline#5959  
+**Added**: 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882407170161922088/885681198775550042/transcript-lisa-aa-like-mona-aa.html)  
+
+**Findings:**  
+Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
+
+**Evidence:**  
+[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+
+**Significance:**  
+Combat positioning for Lisa
+
+## Skill Mechanics
+
+### Violet Arc's Press variant AoE is passed to all affected targets
 
 By: ArchedNosi\#1484  
 Added: 4/18/2021
@@ -26,38 +45,7 @@ Can work in conjunction to the effect described in a below entry: **Violet Arc's
 
 Lisa can easily abuse this knowledge in tightly packed groups to quickly and efficiently stack her Conductive Stacks. This allows for smoother and more rapid gameplay. Also, with the inclusion of C1, Lisa can efficient recharge her Elemental Burst given a group of enemies whenever she is on-field.
 
-## The Mechanics of Lisa's C1
-
-**By:** ArchedNosi\#1484  
-**Added:** 4/18/2021  
-**Updated:** 9/10/2021
-
-**Findings:**
-
-The current description for Lisa's first constellation is currently limited, it states that:  
-_"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_  
-
-Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
-
-* Energy is provided directly to Lisa in a delay after an opponent is hit with Violet Arc
-* If Lisa is not present in the field before Energy is to be provided to Lisa, it will have no effect
-* Energy gained this way is unaffected by Lisa's Energy Recharge stat
-
-**Evidence:**
-
-**UPDATE:** As of 2.1, [Lisa's C1 no longer works with her Tap E](https://youtu.be/HsD2_HZdVNU).  
-While the videos below demonstrate C1's mechanics with Lisa's Tap E pre-2.1, Hold E functions the same way.
-
-* [Example of Lisa gaining Energy in a delay](https://youtu.be/afcHsZ9wUM0)
-  * Clip has Lisa at 78/80 Energy
-* [Example of Energy not being provided to Lisa or her allies due to being swapped out before the delay](https://youtu.be/JTEGQ0Scz3k)
-  * Clip has Lisa at 78/80 Energy
-
-**Significance:**
-
-In knowing how C1 actually works, Lisa, when she is on-field, can effectively run much less Energy Recharge on her artifacts and still recharge her Elemental Burst off cooldown given enough enemies and how they are grouped.
-
-## Violet Arc's Hold Variant has a Cylindrical Hitbox
+### Violet Arc's Hold Variant has a Cylindrical Hitbox
 
 **By:** ArchedNosi\#1484  
 **Added**: 4/18/2021
@@ -80,7 +68,7 @@ The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attribut
 
 No obvious and major significance in Spiral Abyss, but its extreme capabilities are nice to know and can potentially be of use in later content if verticality is ever a factor. Also debunks the common perception that Lisa's Hold E is a Sphere/Circle/Cylinder that has respect to only the visual radius.
 
-## Violet Arc's Conductive status can be passed with Overload and Superconduct
+### Violet Arc's Conductive status can be passed with Overload and Superconduct
 
 **By:** ArchedNosi\#1484  
 **Added:** 4/18/2021
@@ -114,17 +102,37 @@ Can also work in conjunction with the effect described in a previous entry: [Vio
 
 Lisa can easily abuse this tech to quickly and efficiently stack Conductive. This allows for smoother and more rapid gameplay and very much opens up a Burst Carry archetype.
 
-## Lisa final AA has two different animations
+## Constellation Mechanics
 
-**By:** Sayline#5959  
-**Added**: 09/10/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882407170161922088/885681198775550042/transcript-lisa-aa-like-mona-aa.html)  
+### C1: Infinite Circuit
 
-**Findings:**  
-Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
+#### The Mechanics of Lisa's C1
 
-**Evidence:**  
-[Youtube](https://youtu.be/swYPk57M3R8): First normal string has Lisa teleporting forward to the ruin guard, second normal string has her teleporting backward.
+**By:** ArchedNosi\#1484  
+**Added:** 4/18/2021  
+**Updated:** 9/10/2021
 
-**Significance:**  
-Combat positioning for Lisa
+**Findings:**
+
+The current description for Lisa's first constellation is currently limited, it states that:  
+_"Lisa recovers 2 Energy for every opponent hit while holding Violet Arc. A maximum of 10 Energy can be regenerated in this manner at any one time"_  
+
+Additionally, other mechanics with regards to the generated energy from this constellation are as follows:
+
+* Energy is provided directly to Lisa in a delay after an opponent is hit with Violet Arc
+* If Lisa is not present in the field before Energy is to be provided to Lisa, it will have no effect
+* Energy gained this way is unaffected by Lisa's Energy Recharge stat
+
+**Evidence:**
+
+**UPDATE:** As of 2.1, [Lisa's C1 no longer works with her Tap E](https://youtu.be/HsD2_HZdVNU).  
+While the videos below demonstrate C1's mechanics with Lisa's Tap E pre-2.1, Hold E functions the same way.
+
+* [Example of Lisa gaining Energy in a delay](https://youtu.be/afcHsZ9wUM0)
+  * Clip has Lisa at 78/80 Energy
+* [Example of Energy not being provided to Lisa or her allies due to being swapped out before the delay](https://youtu.be/JTEGQ0Scz3k)
+  * Clip has Lisa at 78/80 Energy
+
+**Significance:**
+
+In knowing how C1 actually works, Lisa, when she is on-field, can effectively run much less Energy Recharge on her artifacts and still recharge her Elemental Burst off cooldown given enough enemies and how they are grouped.
