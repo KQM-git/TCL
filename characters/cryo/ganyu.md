@@ -100,7 +100,7 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 * Celestial Shower drops **Ice Shards** every 0.3 seconds.
 * The **Sacred Cryo Pearl** will drop a shard **on a random enemy within the field that has not been targeted by a shard in the last 4** **Ice Shards**.
 * If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
-* Ganyu's icicles are subject to [internal cooldown](https://library.keqingmains.com/mechanics/combat/elemental-reactions/internal-cooldown-of-elemental-application).
+* Ganyu's icicles follow standard ICD (3-hit/2.5s).
 * Ganyu's icicles are more likely to hit targets that are larger in size.
 
 | Effect | Talent 6% |
@@ -136,10 +136,12 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 {% tab title="Ascension 4" %}
 ## Harmony between Heaven and Earth
 
-Celestial Shower grants a 20% Cryo DMG Bonus to active party members in the AoE.
+**Celestial Shower** grants a 20% Cryo DMG Bonus to active party members in the AoE.
 
 * **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior burst. This buff can be snapshotted.
+
 {% endtab %}
+
 {% endtabs %}
 
 ## Constellations
@@ -158,19 +160,19 @@ A hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge
 {% tab title="C2" %}
 ## The Auspicious
 
-Trail of the Qilin gains 1 additional charge.
+**Trail of the Qilin** gains 1 additional charge.
 {% endtab %}
 
 {% tab title="C3" %}
 ## Cloud-Strider
 
-Increases the Level of Celestial Shower by 3.
+Increases the Level of **Celestial Shower** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ## Westward Sojourn
 
-Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time.
+Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.
 
 Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.
 
@@ -180,13 +182,13 @@ The effect lingers for 3s after the opponent leaves the AoE.
 {% tab title="C5" %}
 ## The Merciful
 
-Increases the Level of Trail of the Qilin by 3.
+Increases the Level of **Trail of the Qilin** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ## The Clement
 
-Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging.
+Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30s to not require charging.
 {% endtab %}
 {% endtabs %}
 
@@ -271,7 +273,7 @@ Ganyu's **Frostflake Bloom** is subject to the Charged Attack bonus from **Amos'
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Ganyu)
 * [Ganyu Mains Discord](https://discord.gg/uV4uaBm8aS)
-* [Ganyu Guide](https://keqingmains.com/ganyu/)
+* [Full Ganyu Written Guide](https://keqingmains.com/ganyu/)
 
 **Evidence Vault:**
 

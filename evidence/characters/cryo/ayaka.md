@@ -50,8 +50,9 @@
 
 * C6 is additive - [ClawofBeta#4125](https://cdn.discordapp.com/attachments/866109693101211648/867518314337927239/unknown.png)
 
+## Attack Mechanics
 
-## Ayaka CA Hitscan  
+### Ayaka CA Hitscan  
 
 **By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Greyhound\#7836  
 **Added:** 08/09/2021  
@@ -64,20 +65,21 @@
 * Fourth: The gadget will only be created if an enemy is within range/ triggers it, meaning Ayaka's CA range without an enemy to tag is much shorter than previously assumed, as only an initial cut is created without the gadget.
 
 **Evidence:**  
-[Clip showing Ayaka's 1 singular frame at the start of CA](https://gyazo.com/5ae155cde0664ccb6755dd5531a3950b)  
-[Frame by frame image comparison](https://imgur.com/a/KWHSEIq)  
-Clips showing the Gadget following enemy: [1](https://imgur.com/FW4FleU) [2](https://imgur.com/LzjML5V)  
-[Clip showing the gadget being spawned at the top of Venti's Burst](https://youtu.be/uc9awg5vnD8)  
-Clips showing the gadget being stuck to the initial target as they get pulled by Venti's Burst: [1](https://youtu.be/9MeUjPq5Cvo) [2](https://youtu.be/_yBeitqBw5E)  
-[Clips showing Ayaka's CA range being "extended" due to the gadget](https://youtu.be/ffXYcwRrccc)  
-[Clip showing Ayaka's CA hight having a limit](https://www.youtube.com/watch?v=Yw9Wi4-QVY0)  
-[Clips showing Ayaka's CA having a hitbox without gadget](https://www.youtube.com/watch?v=D08yx7p1iHo)  
+
+* [Clip showing Ayaka's 1 singular frame at the start of CA](https://gyazo.com/5ae155cde0664ccb6755dd5531a3950b)
+* [Frame by frame image comparison](https://imgur.com/a/KWHSEIq)
+* Clips showing the Gadget following enemy: [1](https://imgur.com/FW4FleU) [2](https://imgur.com/LzjML5V)
+* [Clip showing the gadget being spawned at the top of Venti's Burst](https://youtu.be/uc9awg5vnD8)
+* Clips showing the gadget being stuck to the initial target as they get pulled by Venti's Burst: [1](https://youtu.be/9MeUjPq5Cvo) [2](https://youtu.be/_yBeitqBw5E) 
+* Clips showing Ayaka's CA range being "extended" due to the gadget (*Video lost to the sands of time*)  
+* [Clip showing Ayaka's CA height having a limit](https://www.youtube.com/watch?v=Yw9Wi4-QVY0)
+* [Clips showing Ayaka's CA having a hitbox without gadget](https://www.youtube.com/watch?v=D08yx7p1iHo)  
 
 **Significance:**  
 Significance: Knowing how Ayaka's Charge Attack works can help players come up with strats for specific situtaions to maximize damage output.  
 For example, the gadget is smaller than Geovishap's large collision box which means that even though they're standing side by side, they cannot both be hit by Ayaka's CA.  However, if the Geovishaps are frozen while clipped inside one another they can both be hit.  
 
-## Ayaka CA conclusion  
+### Ayaka CA Conclusion  
 
 **By:** wiremash#0433  
 **Added:** 09/05/2021  
@@ -107,7 +109,9 @@ Because the gadget stops following the enemy when it begins its hitscans, it may
 
 In addition, because enemies can exit the hitscan area early, using her charged attack right as an enemy is about to jump, dash or teleport away can also result in potential damage loss.
 
-## Ayaka dash iframe  
+## Dash Mechanics
+
+### Ayaka Dash Iframe  
 
 **By:** aui#3690  
 **Added:** 09/17/2021  

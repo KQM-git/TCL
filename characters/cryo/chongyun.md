@@ -139,12 +139,12 @@ Elemental Skills and Elemental Bursts cast within the **Frost Field** created by
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C3" %}
 ## Cloudburst
 
-Increases the level of Spirit Blade: Cloud-parting Star by 3.
+Increases the level of **Spirit Blade: Cloud-parting Star** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -157,7 +157,7 @@ This effect can only occur once every 2s.
 {% tab title="C5" %}
 ## The True Path
 
-Increases the level of Chonghua’s Layered Frost by 3.
+Increases the level of **Chonghua’s Layered Frost** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -228,7 +228,7 @@ Increases the level of Chonghua’s Layered Frost by 3.
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Chongyun)
-* [Chongyun](https://discord.gg/FT4ZFmgf8T)[ Mains Discord](https://discord.gg/FT4ZFmgf8T)
+* [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 
 **Evidence Vault:**
 

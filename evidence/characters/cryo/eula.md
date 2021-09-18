@@ -4,7 +4,7 @@
 
 {% page-ref page="../../../characters/cryo/eula.md" %}
 
-## Basic Eula Mechanics
+## Basic Mechanics
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843239715515269160/851726463068536872/transcript-eula-basic-mechanics-findings.html)
 
@@ -81,22 +81,24 @@
 
 ### Constellation Mechanics
 
-#### C1
+#### C1: Tidal Illusion
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, Eula's Physical DMG is increased by 30% for a base of 6 seconds + 6 per Grimheart stack. - [Sonickid15\#1738](https://www.youtube.com/watch?v=SFaejhz3Rik)
   * So 1 stack is 12 seconds and 2 is 18 seconds
 
-### C4
+#### C4: The Obstinacy of One's Inferiors
 
 * Eula's C4 is an additive damage bonus and applies to both [A1](https://www.youtube.com/watch?v=LvCnRGgXtng) and [Burst](https://www.youtube.com/watch?v=xOPo02MP6gU). - Striss\#0557
 
 ### Broken Pines Synergy
 
 * Broken Pines attack speed increase between R1-R5 does not increase your stack count with optimal combos. However, it does make your combo timings a lot less strict and comfier. - Artesians\#0002 and Sitri\#9504
-  * Test was done with an [Attack speed increase abyss card](eula.md)
+  * Test was done with an Attack speed increase abyss card (*Video lost to the sands of time*)
   * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
 
-## Eula Swap Buff
+## Burst Mechanics
+
+### Eula Swap Buff
 
 **By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836  
 **Added:** 6/14/2021  
@@ -115,7 +117,7 @@ Eulas burst does not snapshot even after she is swapped offield, allowing for th
 **Signficance:**  
 Allows for better burst cycles. 
 
-## Eula Burst Buffs Catalog
+### Eula Burst Buffs Catalog
 
 **By:** Artesians#0002  
 **Added:** 6/26/2021  
@@ -133,20 +135,20 @@ Eula one-shot rotation (Bennett, Zhongli, and Lisa): [Video](https://imgur.com/b
 
 **Significance:**  
 Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
-  
-## Eula 15 stack bug  
+
+### Eula 15 stack bug  
 
 **By:** GOKU\#8808  
 **Added:** 07/05/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851120552323055636/861598862111932416/transcript-15-stacks-on-c0-eula.html)  
-  
+
 **Bug:**  
 At high ping Eula's elemental burst does not properly lock stacks in on time, allowing for 15 stacks to be possible at C0.  
-  
+
 **Evidence:**  
 [Video 1 15 stacks](https://www.youtube.com/watch?v=bJGGQLNIuGA) 15 stack [Math](https://imgur.com/a/aeDNvXZ)  
 [Video 2 15 stacks](https://www.youtube.com/watch?v=jRaD3fljWC8)  
 [Video Attempt Compilation](https://www.youtube.com/watch?v=2P2tBYTDpP0)  
-  
+
 **Significance:**  
 Eula is stronger under high ping.  

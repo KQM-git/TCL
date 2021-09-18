@@ -63,7 +63,7 @@ Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact,
 * Each stack increases Aloy's Normal Attack DMG. 
 * When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
 
-While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects will be cleared 30s after Aloy leaves the field.
+While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Coil** effects will be cleared 30s after Aloy leaves the field.
 
 | Type | Talent 6% | U | Particles | Frames |
 | :--- | :--- | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ While in the Rushing Ice state, Aloy cannot obtain new Coil stacks. Coil effects
 | CD                                  | 20s                  |
 
 * Aloy's attacks while in the **Rushing Ice** state follow standard ICD (3 hits/2.5s)
-* Chillwater Bomblets share ICD and follow standard ICD.
+* **Chillwater Bomblets** share ICD and follow standard ICD.
 * Aloy can gain **Coil Stacks** while off-field.
 * **Chillwater Bomblets** snapshot on **Frozen Wilds** cast.
 
@@ -116,13 +116,13 @@ When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat w
 {% tab title="Ascension 1" %}
 ### Combat Override
 
-When Aloy receives the Coil effect from Frozen Wilds, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
+When Aloy receives the **Coil** effect from **Frozen Wilds**, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Strong Strike
 
-When Aloy is in the Rushing Ice state conferred by Frozen Wilds, her Cryo DMG Bonus increases by 3.5% every 1s. A maximum Cryo DMG Bonus increase of 35% can be gained in this way.
+When Aloy is in the **Rushing Ice** state conferred by **Frozen Wilds**, her Cryo DMG Bonus increases by 3.5% every 1s. A maximum Cryo DMG Bonus increase of 35% can be gained in this way.
 {% endtab %}
 {% endtabs %}
 

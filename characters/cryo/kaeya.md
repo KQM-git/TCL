@@ -71,7 +71,7 @@ Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 {% endtab %}
 
 {% tab title="Glacial Waltz" %}
-Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.These icicles will follow the character around and deal Cryo DMG to opponents in their path for the ability's duration.
+Coalescing the frost in the air, Kaeya summons 3 **icicles** that revolve around him.These **icicles** will follow the character around and deal Cryo DMG to opponents in their path for the ability's duration.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -85,7 +85,7 @@ Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him
 * **Glacial Waltz** does not have any hitlag.
 * **Glacial Waltz** hits around 13 times while standing stationary.
 * The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
-* Each Icicle has a ~1 sec. [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy
+* Each **Icicle** has a ~1 sec. [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy
 {% endtab %}
 {% endtabs %}
 
@@ -149,7 +149,7 @@ Increases the level of **Glacial Waltz** by 3.
 {% tab title="C6" %}
 ### Glacial Whirlwind
 
-**Glacial Waltz** will generate 1 additional icicle, and will regenerate 15 Energy when cast.
+**Glacial Waltz** will generate 1 additional **icicle**, and will regenerate 15 Energy when cast.
 {% endtab %}
 {% endtabs %}
 
@@ -208,7 +208,8 @@ Increases the level of **Glacial Waltz** by 3.
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Kaeya)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Kaeya)
+* [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
 
 **Evidence Vault**:
 

@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/cryo/chongyun.md" %}
 
-## **3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)**
+## Attack Mechanics
+
+### 3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)
 
 **By:** shdwbld\#8103
 
@@ -38,29 +40,58 @@
 
 5 shattered - \( E shattered\) Since initial slam to the ground of E has it's own ICD, you can have 2 shattered reactions on the 1st rotation. This will just make it so that you get 1 more reaction and by the end of the 3 rotations, end with a shattered reaction instead of an ICD.
 
-## **Chongyun C6 DMG bonus is Additive**
+## Skill Mechanics
 
-**By:** \_\*\*\_Artesians\#0002
+### **Chongyun E and A4 interactions**  
 
-**Findings:**
+**By:** DeFault\#1802  
+**Added:** 6/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856905392633151528/858349517241450536/transcript-chongyun-e-and-a4-interactions.html)  
 
-C6 Chongyun’s “Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP” is an additive bonus.
+**Findings:**  
+The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:  
 
-**Evidence:**
+1. Chongyun’s A4 blade is considered as elemental skill damage and as such can proc the effects of ToM 4-pc bonus and Sacrificial Greatsword.  
+2. Chongyun’s A4 blade snapshots the buffs received by the E skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.  
+3. Chongyun’s E area is not a field but instead a cylinder of unknown (But large) height and depth. Chongyun’s A4 can target any enemy within this large cylindrical area.  
 
-* Video with the enemy not having a lower percentage of his Max HP than Chongyun:
-  * [https://streamable.com/u9n1r4](https://streamable.com/u9n1r4) 
-* Video with the enemy having a lower percentage of his Max HP than Chongyun:
-  * [https://streamable.com/7hec30](https://streamable.com/7hec30)
+**Evidence:**  
 
-\(1+0.15+0.223\)/\(1+0.223\) = 320/285 math by **Robin**  
-Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
+1. Chongyun’s A4 is considered E Skill damage. As show in the video, 4 ToM effect and Sacrificial Greatsword work with A4 Spirit Blade: [Video](https://www.youtube.com/watch?v=Y-AVX--FWlo)  
+2. Chongyun’s A4 snapshots any buffs received by E skill: [Video](https://www.youtube.com/watch?v=HZuIDiry-Zs)  
+3. Chongyun’s E field has a large cylindrical area and his A4 blade can target any enemy within it: [Video](https://www.youtube.com/watch?v=ezrIL3uUl3Y)  
 
-**Significance:**
+**Significance:**  
 
-**+15% to Cryo Damage** + Noblesse - the bonus gained from constellation 6 is about ~7% \(ballpark estimate by Kleeful\) for a well built Chongyun. DMG bonus being additive implies that it would deal less damage than previously expected, where it was assumed to be a multiplicative bonus.
+1. Because Chongyun’s A4 is considered skill damage and can proc ToM, this can open up new builds for teams that can snapshot the buff before it runs out, furthermore Chongyun might be able to equip new artifact sets in the future that revolve around skill damage.  
+2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.  
+3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.
 
-## C2 CDR Based on Original Cooldown
+## Constellation Mechanics
+
+### C1: Ice Unleashed
+
+#### **Chongyun C1 damage**  
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+
+**Findings:**  
+Chongyun’s C1 damage instance has no ability type scaling tags. 
+
+**Evidence:**  
+Testing done by cartercr#4207  
+Damage is consistent with and without 4bolide bonus - [Video](https://www.youtube.com/watch?v=htbi0XPPSC4)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=HJP9Mc_0V_0)  
+Damage is consistent with and without 2NO bonus- [Video](https://www.youtube.com/watch?v=GIIEy7ieY8A)  
+
+**Significance:**  
+Damage calculations for Chongyun
+
+### C2: Atmospheric Revolution
+
+#### C2 CDR Based on Original Cooldown
 
 **By:** Sparko53557\#7010 and LazyGeniusMan\#6252  
 **Added:** 4/13/2021
@@ -73,7 +104,7 @@ C2 Chongyun reduces Qiqi’s E cooldown by 4.5 seconds. It continues to do so wh
 
 **Significance**: Chongyun is largely ineffective at decreasing the debuff from slowing waters in a meaningful fashion.
 
-### **Addendum**
+**Addendum**
 
 **By:** LazyGeniusMan\#6252
 
@@ -105,47 +136,29 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 
 **Evidence:** [https://imgur.com/a/I8TM0uV](https://imgur.com/a/I8TM0uV)
 
-**Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.
+**Significance:** This suggests that when another character grants a different character CDR it is treated as a separate buff that is applied without taking debuffs in account.  
 
-## **Chongyun E and A4 interactions**  
+### C6: Rally of Four Blades
 
-**By:** DeFault\#1802  
-**Added:** 6/26/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856905392633151528/858349517241450536/transcript-chongyun-e-and-a4-interactions.html)  
+#### **Chongyun C6 DMG bonus is Additive**
 
-**Findings:**  
-The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:  
+**By:** Artesians\#0002
 
-1. Chongyun’s A4 blade is considered as elemental skill damage and as such can proc the effects of ToM 4-pc bonus and Sacrificial Greatsword.  
-2. Chongyun’s A4 blade snapshots the buffs received by the E skill on cast and buffs received after do not take effect. This suggests that Chong’s E and A4 work similarly to Geo traveler’s E and C2 snapshot interaction.  
-3. Chongyun’s E area is not a field but instead a cylinder of unknown (But large) height and depth. Chongyun’s A4 can target any enemy within this large cylindrical area.  
+**Findings:**
 
-**Evidence:**  
+C6 Chongyun’s “Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP” is an additive bonus.
 
-1. Chongyun’s A4 is considered E Skill damage. As show in the video, 4 ToM effect and Sacrificial Greatsword work with A4 Spirit Blade: [Video](https://www.youtube.com/watch?v=Y-AVX--FWlo)  
-2. Chongyun’s A4 snapshots any buffs received by E skill: [Video](https://www.youtube.com/watch?v=HZuIDiry-Zs)  
-3. Chongyun’s E field has a large cylindrical area and his A4 blade can target any enemy within it: [Video](https://www.youtube.com/watch?v=ezrIL3uUl3Y)  
+**Evidence:**
 
-**Significance:**  
+* Video with the enemy not having a lower percentage of his Max HP than Chongyun:
+  * [https://streamable.com/u9n1r4](https://streamable.com/u9n1r4) 
+* Video with the enemy having a lower percentage of his Max HP than Chongyun:
+  * [https://streamable.com/7hec30](https://streamable.com/7hec30)
 
-1. Because Chongyun’s A4 is considered skill damage and can proc ToM, this can open up new builds for teams that can snapshot the buff before it runs out, furthermore Chongyun might be able to equip new artifact sets in the future that revolve around skill damage.  
-2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.  
-3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.  
+\(1+0.15+0.223\)/\(1+0.223\) = 320/285 math by **Robin**  
+Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.
 
-## **Chongyun C1 damage**  
+**Significance:**
 
-**By:** elijam#7142  
-**Added:** 08/07/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+**+15% to Cryo Damage** + Noblesse - the bonus gained from constellation 6 is about ~7% \(ballpark estimate by Kleeful\) for a well built Chongyun. DMG bonus being additive implies that it would deal less damage than previously expected, where it was assumed to be a multiplicative bonus.
 
-**Findings:**  
-Chongyun’s C1 damage instance has no ability type scaling tags. 
-
-**Evidence:**  
-Testing done by cartercr#4207  
-Damage is consistent with and without 4bolide bonus - [Video](https://www.youtube.com/watch?v=htbi0XPPSC4)  
-Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=HJP9Mc_0V_0)  
-Damage is consistent with and without 2NO bonus- [Video](https://www.youtube.com/watch?v=GIIEy7ieY8A)  
-
-**Significance:**  
-Damage calculations for Chongyun

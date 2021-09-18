@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/cryo/qiqi.md" %}
 
-## Talisman Healing Conditions
+## Burst Mechanics
+
+### Talisman Healing Conditions
 
 **By:** Ayzel\#7399  
 **Added:** 04/23/2021  
@@ -28,7 +30,9 @@ Qiqi's Talisman will heal characters attacking the target to which the talisman 
 
 Shows how Qiqi's talisman interacts with sources of damage.
 
-## Qiqi driver frame counting
+## Calculations/Resources
+
+### Qiqi driver frame counting
 
 **By:** Sir_pick_the_prick#2209, Nass008#8577, denmax#9293, Creepah#9480  
 **Added:** 09/06/2021  

@@ -57,13 +57,13 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 {% endtab %}
 
 {% tab title="Yoohoo Art: Fuuin Dash" %}
-The special technique of the Yoohoo Ninja Arts! Sayu curls up into a rolling Fuufuu Windwheel and smashes into opponents at high speed, dealing Anemo DMG. When the duration ends, she unleashes a Fuufuu Whirlwind Kick, dealing AoE Anemo DMG. 
+The special technique of the Yoohoo Ninja Arts! Sayu curls up into a rolling **Fuufuu Windwheel** and smashes into opponents at high speed, dealing Anemo DMG. When the duration ends, she unleashes a **Fuufuu Whirlwind Kick**, dealing AoE Anemo DMG. 
 
 **Press**  
-Enters the Fuufuu Windwheel state, rolling forward a short distance before using the Fuufuu Whirlwind Kick. 
+Enters the **Fuufuu Windwheel** state, rolling forward a short distance before using the **Fuufuu Whirlwind Kick**. 
 
 **Hold**  
-Rolls about continuously in the Fuufuu Windwheel state, increasing Sayu's resistance to interruption while within that state. During this time, Sayu can control the direction of her roll, and can use the skill again to end her Windwheel state early and unleash a stronger version of the Fuufuu Whirlwind Kick. The Hold version of this skill can trigger Elemental Absorption. This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her Windwheel state, the longer the CD. Elemental Absorption If Sayu comes into contact with Hydro/Pyro/Cryo/Electro while in her Windwheel state, she will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use of this skill.
+Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's resistance to interruption while within that state. During this time, Sayu can control the direction of her roll, and can use the skill again to end her **Windwheel** state early and unleash a stronger version of the **Fuufuu Whirlwind** Kick. The Hold version of this skill can trigger Elemental Absorption. This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her **Windwheel** state, the longer the CD. Elemental Absorption If Sayu comes into contact with Hydro/Pyro/Cryo/Electro while in her **Windwheel** state, she will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use of this skill.
 
 | Type | Talent 6% | U | Particles | Frames |
 | :--- | :--- | :--- | :--- | :--- |
@@ -140,7 +140,7 @@ When Sayu triggers a Swirl reaction while active, she heals all your characters 
 {% tab title="Ascension 4" %}
 ### No Work Today!
 
-The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry gains the following effects: 
+The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** gains the following effects: 
 * When healing a character, it will also heal characters near that healed character for 20% the amount of HP. 
 * Increases the AoE of its attack against opponents.
 {% endtab %}
@@ -152,21 +152,22 @@ The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry gains the following ef
 {% tab title="C1" %}
 ### Multi-Task no Jutsu
 
-The Muji-Muji Daruma created by Yoohoo Art: Mujina Flurry will ignore HP limits and can simultaneously attack nearby opponents and heal characters.
+The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** will ignore HP limits and can simultaneously attack nearby opponents and heal characters.
 {% endtab %}
 
 {% tab title="C2" %}
 ### Egress Prep
 
-Yoohoo Art: Fuuin Dash gains the following effects: 
-* DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%. 
-* Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.
+**Yoohoo Art: Fuuin Dash** gains the following effects: 
+
+* DMG of **Fuufuu Whirlwind Kick** in Press Mode increased by 3.3%. 
+* Every 0.5s in the **Fuufuu Windwheel** state will increase the DMG of this **Fuufuu Whirlwind Kick** by 3.3%. The maximum DMG increase possible through this method is 66%.
 {% endtab %}
 
 {% tab title="C3" %}
 ### Eh, the Bunshin Can Handle It
 
-Increases the Level of Yoohoo Art: Mujina Flurry by 3. Maximum upgrade level is 15.
+Increases the Level of **Yoohoo Art: Mujina Flurry** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -178,13 +179,13 @@ Sayu recovers 1.2 Energy when she triggers a Swirl reaction. This effect occurs 
 {% tab title="C5" %}
 ### Speed Comes First
 
-Increases the Level of Yoohoo Art: Fuuin Dash by 3. Maximum upgrade level is 15.
+Increases the Level of **Yoohoo Art: Fuuin Dash** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Sleep O'Clock
 
-The Muji-Muji Daruma created by Sayu's Yoohoo Art: Mujina Flurry will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects: 
+The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects: 
 * Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method. 
 * Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.
 {% endtab %}

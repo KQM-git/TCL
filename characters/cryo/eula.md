@@ -78,8 +78,8 @@ Multiple hits will not cause this effect to stack, but will extend the effect's 
 | Frames | 65 | 89 |
 | MV/s | 189.19%/s | 231.80%/s \(w/o Icewhirls\) |
 
-* E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD.
-* Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not
+* E Hold and **Icewhirl Brands** don't share ICDs, but multiple **Icewhirl Brands** do share the same ICD.
+* Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
 
 **Grimheart:**  
 Increases Eula's resistance to interruption and her DEF.
@@ -168,7 +168,7 @@ Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical D
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-{% endtab %}
+  {% endtab %}
 
 {% tab title="C2" %}
 ### Lady of Seafoam
@@ -179,13 +179,13 @@ Decreases the CD of **Icetide Vortex**'s Hold Variant, rendering it identical to
 {% tab title="C3" %}
 ### Lawrence Pedigree
 
-Increases the level of Glacial Illumination by 3.
+Increases the level of **Glacial Illumination** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### The Obstinacy of One's Inferiors
 
-Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.
+**Lightfall Swords** deal 25% increased DMG against opponents with less than 50% HP.
 
 * This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** \(Burst\) and the Lightfall Remnants from **Roiling Rime** \(A1\).
 {% endtab %}
@@ -193,13 +193,13 @@ Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.
 {% tab title="C5" %}
 ### Chivalric Quality
 
-Increases the level of Icetide Vortex by 3.
+Increases the level of **Icetide Vortex** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Noble Obligation
 
-Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy.
+**Lightfall Swords** created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the **Lightfall Sword** an additional stack of energy.
 {% endtab %}
 {% endtabs %}
 
@@ -272,6 +272,7 @@ Broken Pines attack speed increase from its passive, **Rebel’s Banner Hymn**, 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Eula)
 * [Eula Mains Discord](https://discord.gg/EulaMains)
 * [Basic Eula Guide](https://keqingmains.com/eula/)
+* [Eula Youtube Quick Guide](https://youtu.be/4pm1CQ7ftws)
 
 **Evidence Vault:**
 

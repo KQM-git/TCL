@@ -4,7 +4,24 @@
 
 {% page-ref page="../../../characters/cryo/diona.md" %}
 
-## **Diona Elemental Skill ICD analysis**
+## Attack Mechanics
+
+### **Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves**
+
+**By:** EternalDream\#5503  
+**Added:** 11/19/2020
+
+**Evidence:**
+
+[**https://youtu.be/3NxsXnfKIT8**](https://youtu.be/3NxsXnfKIT8)
+
+**Significance:**
+
+For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
+
+## Skill Mechanics
+
+### **Diona Elemental Skill ICD analysis**
 
 **By:** Tractor\#9418  
 **Added:** 11/18/2020
@@ -28,22 +45,9 @@ Bennett E + \(wait 5+ seconds\) + Diona E \(tap\) = 1 melt reaction + no element
 
 Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura remaining on the enemy.
 
-## **Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves**
 
-**By:** EternalDream\#5503  
-**Added:** 11/19/2020
 
-**Evidence:**
-
-[**https://youtu.be/3NxsXnfKIT8**](https://youtu.be/3NxsXnfKIT8)
-
-**Significance:**
-
-For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
-
-**Editor’s Note:** The editor tested this with their own Diona unit, as well as Childe and Fischl. The editor can recreate it 100% with Diona, while Childe and Fischl are NOT affected by this issue. **The editor agrees with the author that it is possibly a bug and should be submitted to Mihoyo for investigation.**
-
-## Bug:  Diona's shield is 2U under specific circumstances that are guaranteed on swap
+### Bug:  Diona's shield is 2U under specific circumstances that are guaranteed on swap
 
 **By:** Monochrom9\#8058, Help Me with Honours\#1678, Zeitraffer\#1074
 
@@ -71,7 +75,7 @@ Unfortunately, this comparison has some issues such as Diona shield not caring a
 
 Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depending on the aura also it does not apply 2U to Diona herself until the second swap.
 
-## Diona's Shield Deep-Dive
+### Diona's Shield Deep-Dive
 
 **By:** EggsD\#9603  
 **Added:** 04/05/2021
@@ -97,7 +101,9 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 * Noted especially with how Diona shield works with Sacrificial Bow. 
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
 
-## Diona Field Characteristics
+## Burst Mechanics
+
+### Diona Field Characteristics
 
 **By:** Monochrom9\#8058  
 **Added:** 06/02/2021
