@@ -91,6 +91,7 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
   * **Rites of Termination** will apply 1A cryo on both damage instances on cast
   * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
   
+
 {% endtab %}
 {% endtabs %}
 
@@ -230,7 +231,7 @@ Increases the level of **Rites of Termination** by 3.
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Rosaria)
 * [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)
-* [Rosaria Youtube Quick Guide](https://youtu.be/JQ01_OKxdbs)
+* [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
 
 **Evidence Vault:**
 
