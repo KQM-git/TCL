@@ -241,7 +241,7 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Ayaka)
 * [Ayaka Written Guide](https://keqingmains.com/ayaka/)
-* [Ayaka Youtube Quick Guide](https://youtu.be/G_gQ0P9s6BU)
+* [7 Minute Quick Guide to Ayaka](https://youtu.be/G_gQ0P9s6BU)
 
 **Evidence Vault:**
 

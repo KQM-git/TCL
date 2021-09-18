@@ -93,11 +93,11 @@ After an extended casting time, calls down lightning from the heavens, dealing m
   * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage.
   * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
   * Its hitbox can clip through the terrain, allowing it to connect with enemies that are out of Lisa's direct Line of Sight.
-* Lisa can Utilize Pyro/Cryo with her Press E variant of **Violet Arc** to Stack Conductive Stacks
-  * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack
-  * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 Conductive stacks and will radiate 2 stacks to nearby opponents. 
+* Lisa can Utilize Pyro/Cryo with her Press E variant of **Violet Arc** to Stack **Conductive** Stacks
+  * When an opponent affected by Pyro or Cryo is struck, the mob directly hit will immediately gain 2 **Conductive** Stacks, and others in the resulting Overload or Superconduct radius will gain 1 **Conductive** Stack
+  * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 **Conductive** stacks and will radiate 2 stacks to nearby opponents. 
   * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
- 
+
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
@@ -147,7 +147,8 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
 
 * This only applies to the Hold E variant.
-* This summons a single particle that only provides energy if Lisa is on field. 
+* This summons a single special particle that only provides energy if Lisa is on field. 
+
 {% endtab %}
 
 {% tab title="C2" %}
@@ -157,12 +158,13 @@ Holding **Violet Arc** has the following effects:
 
 * Increases DEF by 25%.
 * Increases Lisa’s resistance to interruption.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ## Resonant Thunder
 
-Increases the Level of Lightning Rose by 3.
+Increases the Level of **Lightning Rose** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -174,7 +176,7 @@ Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 {% tab title="C5" %}
 ## Electrocute
 
-Increases the Level of Violet Arc by 3.
+Increases the Level of **Violet Arc** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -242,7 +244,7 @@ Energy Cost: 80**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Lisa)
 * [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
-* [Lisa Guide](https://keqingmains.com/lisa/)
+* [Full Lisa Written Guide](https://keqingmains.com/lisa/)
 
 **Evidence Vault**:
 

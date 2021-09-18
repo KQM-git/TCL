@@ -245,7 +245,7 @@ The Elemental Mastery bonus will apply immediately on swap and linger for 2 seco
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Diona)
 * [Diona Mains Discord](https://discord.gg/JkeJWTtzGT)
 * [Full Diona Guide](https://keqingmains.com/diona/)
-* [Diona Youtube Quick Guide](https://youtu.be/IWoSkeAFY4o)
+* [4 Minute Quick Guide to Diona](https://youtu.be/IWoSkeAFY4o)
 * [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 
 **Evidence Vault:**

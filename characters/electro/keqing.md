@@ -85,6 +85,7 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
+
 {% endtab %}
 
 {% tab title="Starward Sword" %}
@@ -102,6 +103,7 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 | Motion Value | 314.8%/s per enemy |
 
 * Keqing exits her Starward Sword before the last slash and can swap or attack.
+
 {% endtab %}
 {% endtabs %}
 
@@ -117,21 +119,23 @@ When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
 {% tab title="Ascension 1" %}
 ### Thundering Penance
 
-After recasting Stellar Restoration while a Lightning Stiletto is present, Keqing's weapon gains an Electro Infusion for 5s.
+After recasting **Stellar Restoration** while a **Lightning Stiletto** is present, Keqing's weapon gains an **Electro Infusion** for 5s.
 
 | Type | GU |
 | :--- | :--- |
 | Electro Infusion | 1A |
 
-* Keqing's infusion is overridden by all other infusion effects \(Chongyun **Chonghua Field** and Bennett **Inspiration Field** C6\).
+* Keqing's **Electro Infusion** can be overwritten other infusion effects \(Chongyun **Chonghua Field** and Bennett **Inspiration Field** C6\).
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Aristocratic Dignity
 
-When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
+When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
 
-* Keqing receives these buffs the moment she casts Starward Sword.
+* Keqing receives these buffs the moment she casts **Starward Sword**.
+
 {% endtab %}
 {% endtabs %}
 
@@ -141,22 +145,24 @@ When casting Starward Sword, Keqing's CRIT Rate is increased by 15%, and her Ene
 {% tab title="C1" %}
 ### Thundering Might
 
-Recasting Stellar Restoration while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.
+Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.
 
-* An enemy can be hit twice by the Thundering Might AoE if Stellar Restoration is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
+* An enemy can be hit twice by the **Thundering Might** AoE if **Stellar Restoration** is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
 * C1 damage instance has no ability type scaling tags.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### Keen Extraction
 
 When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### Foreseen Reformation
 
-Increases the Level of Starward Sword by 3.
+Increases the Level of **Starward Sword** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -168,7 +174,7 @@ For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is 
 {% tab title="C5" %}
 ### Beckoning Stars
 
-Increases the Level of Stellar Restoration by 3.
+Increases the Level of **Stellar Restoration** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -177,6 +183,7 @@ Increases the Level of Stellar Restoration by 3.
 When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s for a maximum of 24% additional Electro DMG.
 
 * Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
+
 {% endtab %}
 {% endtabs %}
 
@@ -236,36 +243,13 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% endtab %}
 {% endtabs %}
 
-## Media
-
-### Animation Cancels
-
-{% tabs %}
-{% tab title="TCF" %}
-**Thunder Clap Flash \(Patched as of 1.4, 3/11\)**
-
-{% embed url="https://imgur.com/a/cvU3lCQ" caption="E1 > N1C > D > E2" %}
-
-In order to replicate the Thunderclap Flash, you need to input a dash after Keqing's Charged Attack detonates the **Stiletto**, and recast **Stellar Restoration**. The best timing is roughly when the Charged Attack raises Keqing's sword to head level.
-
-Furthermore, to actively make use of this combo, it requires Keqing to be paired with Xingqiu and use Thundering Fury \(4\) to avoid split damage issues.
-
-**TenTen's TCF Tutorial**
-
-{% embed url="https://www.youtube.com/watch?v=s7-QSN7IgFo" caption="" %}
-
-**Hail's Video on How to Practice TCF**
-
-{% embed url="https://www.youtube.com/watch?v=yKutkM0wZJc" caption="" %}
-{% endtab %}
-{% endtabs %}
-
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Keqing)
 * [Keqing Mains Discord](https://discord.gg/Keqing)
-* [Full Keqing Guide](https://keqingmains.com/keqing/)
-* [8 Minute Video Guide to Keqing](https://youtu.be/A9_k6p52N1o)
+* [Full Keqing Written Guide](https://keqingmains.com/keqing/)
+* [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
+* [Frame by Frame Analysis of Keqing's Attack Combos](https://library.keqingmains.com/evidence/characters/electro/keqing#frame-by-frame-analysis-of-keqings-attack-combos) by HailCorporate#2970
 
 **Evidence Vault:**
 

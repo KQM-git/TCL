@@ -217,7 +217,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose)
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
-* [Sucrose Youtube Quick Guide](https://youtu.be/paUqUTmcf-Y)
+* [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
 **Evidence Vault**
 

@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/electro/razor.md" %}
 
-## Does Razor retain his Electro aura from his Q after swapping off and back on?
+## Burst Mechanics
+
+### Does Razor retain his Electro aura from his Q after swapping off and back on?
 
 **By:** EternalDream\#5503
 
@@ -18,7 +20,7 @@ Razor retains his Electro aura from his Burst for a short time when switched off
 
 Just something to keep in mind when switching off Razor before his burst fully ends, and back to him in a short timeframe when fighting in aura-applying areas that react with Electro, as switching back to Razor too quickly may apply overload/electro-charged/superconduct to him outside of his burst.
 
-## How does Hitlag affect Razor’s Q?
+### How does Hitlag affect Razor’s Q?
 
 **By:** shdwbld\#8103
 
@@ -34,7 +36,31 @@ Razor Q duration is affected by Hitlag. The more hitlag, the longer the duration
 
 You can essentially have 100% ult uptime if it were not for no particles during Q. You can have your Q CD done \(20 seconds\) by the time your Q duration is done if hitlag is high enough. Hitlag can also extend the duration of both buffs and debuffs, like Superconduct and Razor C1 and C4.
 
-## Cryo attacks trigger AoE Superconduct during Q
+## Constellation Mechanics
+
+### C6: Lupus Fulguris
+
+#### Razor’s C6 damage
+
+**By:** elijam#7142  
+**Added:** 08/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+
+**Finding:**  
+Razor’s C6 damage instance has no ability type scaling tags.
+
+**Evidence:**  
+Testing done by Peekays#2722  
+Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=devW07AbLM0)  
+Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=M_nh1IvnrxY)  
+Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=0h6EC1ZR2nY)  
+
+**Significance:**  
+Damage calculations for Razor.
+
+## Interactions/Synergies
+
+### Cryo attacks trigger AoE Superconduct during Q
 
 **By:** Araetha\#9163
 
@@ -50,7 +76,7 @@ Superconduct triggered by enemy Cryo attacks while Razor's Lightning Fang is act
 
 This provides more uptime for Superconduct in floor 12 and, if utilized, gives a possibility to have Superconduct for the entire duration of Lightning Fang
 
-## Pyro abilities \(e.g. Bennett Q\) trigger AoE Overload during Q
+### Pyro abilities \(e.g. Bennett Q\) trigger AoE Overload during Q
 
 **By:** Shifu02\#7738
 
@@ -64,7 +90,9 @@ Bennett’s ult cleanse can react with Razor’s ult cleanse to proc overload on
 
 For those people who want to bring Bennett in the same team as Razor, this is one thing to consider in situations like overworld. The overload can knock back enemies out of Bennett’s ult, but it can also work as a little of extra damage to mobs that can’t be knocked back.
 
-## Tap E vs. Hold E against single enemy?
+## Calculations/Resources
+
+### Tap E vs. Hold E against single enemy?
 
 **By:** Tetragram\#6983
 
@@ -85,7 +113,7 @@ All my research and calculations: [https://docs.google.com/spreadsheets/d/1b7U7Q
 
 I found that press would deal 4.33% more damage to hold on Razor's E against a single enemy if you input a second command to the enemy the instant the animation finishes. Since there is a 0.3 animation difference between press and hold, if you input a second command within 0.3 seconds you would still deal more damage.
 
-## 3 hit combo or 4 hit combo?
+### 3 hit combo or 4 hit combo?
 
 **By:** Tetragram\#6983 and Shifu02\#7738
 
@@ -108,7 +136,7 @@ Since the animation ratio is greater than the damage ratio this tells us that th
 
 NOTE: this finding has been amended due to recent tests: 4 hit is now generally better in Q due to reduced animation time between the 3rd and 4th hit. See the Razormains Comprehensive guide for more details here: [https://bit.ly/37H9SZ1](https://bit.ly/37H9SZ1).
 
-## 3 hit + E or 4 hit?
+### 3 hit + E or 4 hit?
 
 **By:** Fozbos\#3469
 
@@ -124,7 +152,7 @@ Conclusion:
 
 3 hit + E is better than 4 hit. An ideal combo would be to use E + 3 hits + 3 hits + E.
 
-## How many frames in E normal attack vs E burst attack?
+### How many frames in E normal attack vs E burst attack?
 
 **By:** Avs\#5138
 
@@ -142,11 +170,11 @@ Conclusion:
 
 The animation is different and slightly slower during burst. It is not affected by the 40%+ normal ATK SPD bonus \(or else it would be faster, or if it was, the different animation would be longer and then reduced to 78.25 frame average\).
 
-## Razor frame data
+### Razor frame data
 
 [https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit\#gid=0](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
 
-## Razor Dragonstrike MV/s
+### Razor Dragonstrike MV/s
 
 **By:** SwiftySwoo#0930  
 **Added:** 6/23/2021  
@@ -161,20 +189,3 @@ All data and video evidence found in this [spreadsheet](https://docs.google.com/
 **Significance:**  
 Assuming no ICD based sub-dps are used, DS combos show a range from roughly 35-49 percent mv/s increase. (More elaboration on spreadsheet)
 
-## Razor’s C6 damage
-
-**By:** elijam#7142  
-**Added:** 08/07/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
-
-**Finding:**  
-Razor’s C6 damage instance has no ability type scaling tags.
-
-**Evidence:**  
-Testing done by Peekays#2722  
-Damage is consistent with and without 4HoD bonus - [Video](https://www.youtube.com/watch?v=devW07AbLM0)  
-Damage is consistent with and without 2gambler bonus - [Video](https://www.youtube.com/watch?v=M_nh1IvnrxY)  
-Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=0h6EC1ZR2nY)  
-
-**Significance:**  
-Damage calculations for Razor.
