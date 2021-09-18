@@ -264,7 +264,8 @@ While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, attacks 
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Raiden_Shogun)
-* [ETERNITY: The Ultimate Raiden Shogun Guide](https://keqingmains.com/raiden/)
+* [ETERNITY: The Ultimate Raiden Shogun Written Guide](https://keqingmains.com/raiden/)
+* [5 Minute Quick Guide to Raiden](https://youtu.be/m1JysEqPbOs)
 
 **Evidence Vault:**
 

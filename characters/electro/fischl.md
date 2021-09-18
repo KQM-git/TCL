@@ -282,8 +282,9 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Fischl)
-* [**Fischl Mains Discord**](https://discord.gg/JSN9Rk2sWe)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Fischl)
+* [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
+* [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
 
 **Evidence Vault:**
 

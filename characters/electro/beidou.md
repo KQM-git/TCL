@@ -277,8 +277,8 @@ Beidou's **Thunderbeast's Targe** is snapshot on-cast, but The Unforged has an A
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Beidou)
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
-* [Beidou Guide: Tales from the Sea](https://keqingmains.com/beidou/)
-* [6 Minute Video Guide to Beidou](https://www.youtube.com/watch?v=AWlLidtFiDw)
+* [Full Beidou Written Guide: Tales from the Sea](https://keqingmains.com/beidou/)
+* [6 Minute Quick Guide to Beidou](https://youtu.be/AWlLidtFiDw)
 
 **Evidence Vault:**
 
