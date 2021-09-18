@@ -57,7 +57,6 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 230.09% |
 
-If performing a Jump and coming into contact with certain enemies Aether can gain enough height to use a plunge attack.
 {% endtab %}
 
 {% tab title="Foreign Ironwind Aether" %}
@@ -92,7 +91,6 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 230.09% |
 
-If performing a Jump and coming into contact with certain enemies Aether can gain enough height to use a plunge attack.
 {% endtab %}
 
 {% tab title="Palm Vortex" %}
