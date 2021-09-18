@@ -168,7 +168,8 @@ Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical D
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-  {% endtab %}
+  
+{% endtab %}
 
 {% tab title="C2" %}
 ### Lady of Seafoam
