@@ -40,8 +40,6 @@ Jean performs up to 5 consecutive attacks.
 **Charged Attack**  
 Consumes 20 stamina to strike upwards and knocks up enemies that will then fall down slowly.
 
-* If Gale Blade \(E\) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
-
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | CA | 235.50% | 73 | 196.2%/s |
@@ -59,7 +57,7 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 **Press**  
 Jean quickly thrusts forward knocking light enemies away and dealing Anemo DMG.
 
-* Enemies launched by Gale Blade can incur fall damage against the ground or walls.
+* Enemies launched by **Gale Blade** can incur fall damage against the ground or walls.
 * Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
 
 **Hold**  
@@ -69,6 +67,7 @@ Creates a vaccum that lifts enemies and moves them towards the blade.
 * You cannot move Jean but you can move the camera to change where you are aiming with the blade.
 * To be able to lift an enemy, Jean's level cannot be more than 20 levels below the enemy's level.
 * Fall damage for the hold variant can vary somewhat arbitrarily, as enemies held in **Gale Blade** will not be held completely still. 
+* If **Gale Blade** \(E\) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -121,7 +120,7 @@ Hits by Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of
 {% tab title="Ascension 4" %}
 ### Let the Wind Lead
 
-Using Dandelion Breeze will regenerate 20% of its Energy.
+Using **Dandelion Breeze** will regenerate 20% of its Energy.
 {% endtab %}
 {% endtabs %}
 
@@ -131,7 +130,7 @@ Using Dandelion Breeze will regenerate 20% of its Energy.
 {% tab title="C1" %}
 ### Spiraling Tempest
 
-Increases the pulling speed of Gale Blade after holding for more than 1s, and increases the DMG dealt by 40%.
+Increases the pulling speed of **Gale Blade** after holding for more than 1s, and increases the DMG dealt by 40%.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -145,25 +144,25 @@ When Jean picks up an Elemental Orb/Particle, all party members have their Movem
 {% tab title="C3" %}
 ### When the West Wind Arises
 
-Increases the level of Dandelion Breeze by 3.
+Increases the level of **Dandelion Breeze** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Lands of Dandelion
 
-Within the Field created by Dandelion Breeze, all opponents have their Anemo RES decreased by 40%.
+Within the **Field** created by **Dandelion Breeze**, all opponents have their Anemo RES decreased by 40%.
 {% endtab %}
 
 {% tab title="C5" %}
 ### Outbursting Gust
 
-Increases the Level of Gale Blade by 3.
+Increases the Level of **Gale Blade** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Lion's Fang, Fair Protector of Mondstadt
 
-Incoming DMG is decreased by 35% within the Field created by Dandelion Breeze. Upon leaving the Dandelion Field, this effect lasts for 3 attacks or 10s.
+Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze**. Upon leaving the **Dandelion Field**, this effect lasts for 3 attacks or 10s.
 {% endtab %}
 {% endtabs %}
 

@@ -496,7 +496,7 @@ Both Ganyu’s frost flake arrow \(on release\) as well as Ganyu’s elemental b
 
 **Evidence:**
 
-User Neptunya tested Ganyu’s elemental burst by casting it along with a Bennett ult, varying between being inside the Bennett ult during cast, walking into the Bennett ult after cast, and not being in the Bennett ult whatsoever in order to determine if Ganyu’s elemental burst was snapshot in nature, which he found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a Bennett ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
+User Neptunya tested Ganyu’s elemental burst by casting it along with a Bennett ult, varying between being inside the Bennett ult during cast, walking into the Bennett ult after cast, and not being in the Bennett ult whatsoever in order to determine if Ganyu’s elemental burst was snapshot in nature, which she found to be true. Similarly, user Nello tested Ganyu’s charge shot by shooting a hilichurl at extreme distances in order to give them enough time to walk in and outside of a Bennett ult mid shot. Through this they similarly discovered that Ganyu’s Frost Flake arrow is also snapshot in nature.
 
 [\[video\] Ganyu charge shot snapshotting](https://youtu.be/moPAMaH9LMo)
 
@@ -963,7 +963,7 @@ The culmination of all Ganyu macro-related testing and iteration since release. 
 When C1 Sucrose has both stacks of E down, a sacrificial fragments proc will reset the cooldown showed by the timer on E.
 
 **Evidence:**  
-[\[Video\]](https://streamable.com/1qfvf7)  
+*Streamable Video lost to the sands of time*  
 I cast one Sucrose E, waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to anemo resonance in video). So,  whatever timer is currently showing is the one which will be reset. 
 
 **Significance:**  

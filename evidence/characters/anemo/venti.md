@@ -20,12 +20,6 @@
 
 ## Burst Mechanics
 
-### Venti Burst Analysis
-
-**By:** KleefulFrames\#6735
-
-Link [here](https://docs.google.com/spreadsheets/d/18SqSQzSyfQP4X2NGcXkubQ9NzC0BdT1Jxt0I1TL_zGs/edit#gid=2088924426).
-
 ### Venti Q Absorbed Element ICD
 
 **By:** Charliex3000\#9403  

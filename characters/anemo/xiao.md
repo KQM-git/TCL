@@ -77,7 +77,7 @@ Starts with 2 charges.
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
-Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
+Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago.
 
 **Yaksha's Mask**
 
@@ -86,8 +86,7 @@ Xiao dons the Yaksha Mask that set gods and demons trembling a millennia ago.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
 * Xiao will continuously lose HP during this state. 
 * Xiao's attacks will be infused with 1GU Anemo.  
-* While the effects of Elemental Burst: Bane of All Evil are active, the energy particle generation of Elemental Skill: Lemniscatic Wind Cycling
- is disabled.  
+* While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
 
 | Effect | Talent 6% |
 | :--- | :--- |
@@ -112,13 +111,13 @@ Decreases climbing Stamina consumption for your own party members by 20%. Not st
 {% tab title="Ascension 1" %}
 ### Conqueror of Evil: Tamer of Demons
 
-While under the effects of Bane of All Evil, all DMG dealt by Xiao is increased by 5%. DMG is increased by an additional 5% for every 3s the ability persists. The maximum DMG Bonus is 25%
+While under the effects of **Bane of All Evil**, all DMG dealt by Xiao is increased by 5%. DMG is increased by an additional 5% for every 3s the ability persists. The maximum DMG Bonus is 25%
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Dissolution Eon: Heaven Fall
 
-Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%. This effect lasts for 7s and has a maximum of 3 stacks. Gaining a new stack refreshes the duration of this effect.
+Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lemniscatic Wind Cycling** by 15%. This effect lasts for 7s and has a maximum of 3 stacks. Gaining a new stack refreshes the duration of this effect.
 {% endtab %}
 {% endtabs %}
 
@@ -128,7 +127,7 @@ Using Lemniscatic Wind Cycling increases the DMG of subsequent uses of Lemniscat
 {% tab title="C1" %}
 **Dissolution Eon: Destroyer of Worlds**
 
-Increases Lemniscatic Wind Cycling's charged by 1.
+Increases **Lemniscatic Wind Cycling**'s charges by 1.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -140,7 +139,7 @@ When in the party and not on the field, Xiao's Energy Recharge is increased by 2
 {% tab title="C3" %}
 **Conqueror of Evil: Wrath Deity**
 
-Increases the level of Lemniscatic Wind Cycling by 3.
+Increases the level of **Lemniscatic Wind Cycling** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -152,13 +151,13 @@ When Xiao's HP falls below 50%, he gains a 100% DEF Boost.
 {% tab title="C5" %}
 **Evolution Eon: Origin of Ignorance**
 
-Increases the level of Bane of All Evil by 3.
+Increases the level of **Bane of All Evil** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 **Conqueror of Evil: Guardian Yaksha**
 
-While under the effect of Bane of All Evil, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of Lemniscatic Wind Cycling, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.
+While under the effect of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use **Lemniscatic Wind Cycling** while ignoring its CD.
 {% endtab %}
 {% endtabs %}
 
@@ -209,6 +208,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 **Duration:** 15s  
 **Cooldown:** 18s  
 **Energy Cost:** 70
+
 {% endtab %}
 {% endtabs %}
 
@@ -217,6 +217,7 @@ While under the effect of Bane of All Evil, hitting at least 2 opponents with Xi
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiao)
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
+* [Xiao Mastersheet V2.0](https://library.keqingmains.com/evidence/characters/anemo/xiao#xiao-mastersheet-v-2-0) by Pichu#0002 & shdwbld#8103
 
 **Evidence Vault:**
 

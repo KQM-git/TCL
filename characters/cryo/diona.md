@@ -154,7 +154,7 @@ Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorptio
 {% tab title="C3" %}
 ## A-Another Round?
 
-Increases the Level of Signature Mix by 3.
+Increases the Level of **Signature Mix** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -166,7 +166,7 @@ Within the radius of **Signature Mix**, Diona’s charge time for Aimed Shots is
 {% tab title="C5" %}
 ## Double Shot, On The Rocks
 
-Increases the Level of Icy Paws by 3.
+Increases the Level of **Icy Paws** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -245,6 +245,8 @@ The Elemental Mastery bonus will apply immediately on swap and linger for 2 seco
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Diona)
 * [Diona Mains Discord](https://discord.gg/JkeJWTtzGT)
 * [Full Diona Guide](https://keqingmains.com/diona/)
+* [Diona Youtube Quick Guide](https://youtu.be/IWoSkeAFY4o)
+* [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 
 **Evidence Vault:**
 
