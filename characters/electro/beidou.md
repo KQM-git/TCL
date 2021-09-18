@@ -78,8 +78,9 @@ Beidou swings her blade dealing Electro DMG.
 | DMG Bonus on Hit Taken | 224% \(scaling\) | ~ | ~ | 3 | ~ | ~ |
 | Shield Scaling | 20.16% Max HP + 2195 | ~ | 1A | ~ | ~ | ~ |
 
-* Tidecaller will produce minimum 2 particles, if you get hit once while holding\(one charge\) it produces 3 particles and if you get hit two times\(two charges\) or perform a perfect parry it will produce 4 particles.
-* Perfect parry information is tabulated in her [Ascension Passives](beidou.md#ascension-passives) table.
+* **Tidecaller** will produce minimum 2 particles, if you get hit once while holding\(one charge\) it produces 3 particles and if you get hit two times\(two charges\) or perform a **perfect parry** it will produce 4 particles.
+* **Perfect parry** information is tabulated in her [Ascension Passives](beidou.md#ascension-passives) table.
+
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
@@ -87,9 +88,9 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 
 **Thunderbeast's Targe**
 
-* When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.
+* When Normal and Charged Attacks hit, they create a lightning **discharge** that can jump between opponents, dealing Electro DMG.
 * Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 lightning discharge can be triggered per second.
+* A maximum of 1 lightning **discharge** can be triggered per second.
 * Snapshot on cast.
 
 | Effect | Talent 6% / Data |
@@ -105,8 +106,9 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 | Lightning GU | 1A |
 | Frames | 45 |
 
-* Beidou's lightning discharges have 3 damage instances with 2 targets or more.
-* Stormbreaker's additional arc lightning can jump back to the initial target.
+* Beidou's **lightning discharges** have 3 damage instances with 2 targets or more.
+* **Stormbreaker**'s additional arc lightning can jump back to the initial target.
+
 {% endtab %}
 {% endtabs %}
 
@@ -119,12 +121,13 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 Decreases swimming Stamina consumption for your own party members by 20%
 
 * Not stackable with Passive Talents that provide the exact same effects.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### Retribution
 
-Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus.
+Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -134,11 +137,12 @@ Counterattacking with Tidecaller at the precise moment when the character is hit
 {% tab title="Ascension 4" %}
 ### Lightning Storm
 
-Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus:
 
 * DMG dealt by Normal and Charged Attacks is increased by 15%.
 * ATK SPD of Normal and Charged Attacks is increased by 15%.
 * Greatly reduced delay before unleashing charged attacks.
+
 {% endtab %}
 {% endtabs %}
 
@@ -148,21 +152,22 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 {% tab title="C1" %}
 ### Sea Beast's Scourge
 
-When Stormbreaker is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
+When **Stormbreaker** is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
 
 * This shield absorbs Electro DMG 250% more effectively.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### Upon the Turbulent Sea, the Thunder Arises
 
-Stormbreaker’s arc lightning can jump to 2 additional targets.
+**Stormbreaker**’s arc **lightning discharges** can jump to 2 additional targets.
 {% endtab %}
 
 {% tab title="C3" %}
 ### Summoner of Storm
 
-Increases the level of Tidecaller by 3.
+Increases the level of **Tidecaller** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -178,18 +183,19 @@ Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20%
 * Beidou’s C4 damage instance is considered skill damage. 
 * C4 can be activated by certain teammate's hit, i.e., Kujou Sara's Tengou Juurai.
 * C4 is activated on hit, regardless taking damage or not. So it can be activated through shields, either her own or allies'.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### Crimson Tidewalker
 
-Increases the Level of Stormbreaker by 3.
+Increases the Level of **Stormbreaker** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Bane of Evil
 
-During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%.
+During the duration of **Stormbreaker**, the Electro RES of surrounding opponents is decreased by 15%.
 {% endtab %}
 {% endtabs %}
 
@@ -207,7 +213,7 @@ Tidecaller is affected by [The Bell's](../../mechanics/equipment/weapons/claymor
 
 ### Rainslasher
 
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller. Even when **Thunderbeast's Targe** is snapshot, the Rainslasher bonus damage still applies.
+The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using **Tidecaller**. Even when **Thunderbeast's Targe** is snapshot, the Rainslasher bonus damage still applies.
 
 ### The Unforged
 

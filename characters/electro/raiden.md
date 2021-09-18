@@ -75,6 +75,7 @@ The Eye can initiate one coordinated attack every 0.9s per party. Coordinated at
 * The Eye does not snapshot/is dynamic.  
 * The coorinated attack can only occur on damaging strikes against enemies.  
 * The eye's elemental burst dmg bonus does affect The Raiden Shogun.
+
 {% endtab %}
 
 {% tab title="Secret Art: Musou Shinsetsu" %} 
@@ -110,8 +111,8 @@ When nearby party members (excluding the Raiden Shogun herself) use their Elemen
 | Low/High Plunge DMG | 185.81% / 232.09% | -- | -- | -- |
 
 * Charged Attack Stamina Cost: 20  
-* Resolve stacks act as bonus MV, which is given to each split of a string in the case of multi-hits.  
-* Raiden's interruption resistance under the effects of Musou Isshin makes her immune to being staggered.
+* **Resolve Stacks** act as bonus MV, which is given to each split of a string in the case of multi-hits.  
+* Raiden's interruption resistance under the effects of **Musou Isshin** makes her immune to being staggered.
 * **Musou Isshin** duration timer begins after the cast animation of **Secret Art: Musou Shinsetsu** has ended.
 
 {% endtab %}
@@ -134,14 +135,14 @@ Mora expended when ascending Swords and Polearms is decreased by 50%.
 
 ### Wishes Unnumbered
 
-When nearby party members gain Elemental Orbs or Particles, Chakra Desiderata gains 2 Resolve stacks. This effect can occur once every 3s.
+When nearby party members gain Elemental Orbs or Particles, **Chakra Desiderata** gains 2 **Resolve Stacks**. This effect can occur once every 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Enlightened One
 
 Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her: 
-* 0.6% greater Energy restoration from Musou Isshin 
+* 0.6% greater Energy restoration from **Musou Isshin** 
 * 0.4% Electro DMG Bonus
 {% endtab %}
 
@@ -154,13 +155,13 @@ Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
 {% tab title="C1" %}
 ### Ominous Inscription
 
-Chakra Desiderata will gather Resolve even faster. When Electro characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.
+**Chakra Desiderata** will gather **Resolve** even faster. When Electro characters use their Elemental Bursts, the **Resolve** gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the **Resolve** gained is increased by 20%.
 {% endtab %}
 
 {% tab title="C2" %}
 ### Steelbreaker
 
-While using Musou no Hitotachi and in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
+While using **Musou no Hitotachi** and in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
 * The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.  
 * The defense ignore is multiplicative with defense shred.
 {% endtab %}
@@ -168,25 +169,25 @@ While using Musou no Hitotachi and in the Musou Isshin state applied by Secret A
 {% tab title="C3" %}
 ### Shinkage Bygones
 
-Increases the Level of Secret Art: Musou Shinsetsu by 3. Maximum upgrade level is 15.
+Increases the Level of **Secret Art: Musou Shinsetsu** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Pledge of Propriety
 
-When the Musou Isshin state applied by Secret Art: Musou Shinsetsu expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
+When the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu** expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
 {% endtab %}
 
 {% tab title="C5" %}
 ### Shogun's Descent
 
-Increases the Level of Transcendence: Baleful Omen by 3. Maximum upgrade level is 15.
+Increases the Level of **Transcendence: Baleful Omen** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Wishbearer
 
-While in the Musou Isshin state applied by Secret Art: Musou Shinsetsu, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.
+While in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.
 {% endtab %}
 {% endtabs %}
 

@@ -86,11 +86,12 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 
 * **Oz** has a duration of 10s at C0
 * **Oz** normal attacks a total of 10 times over the duration.
-* Oz ICD Details: Oz will apply electro...
+* **Oz** ICD Details: **Oz** will apply electro...
   * once every 4 hits
   * or when the ICD timer reaches 5 seconds
-* Oz is able to target Baron Bunny if Fischl’s Ascension 1 passive, Stellar Predator is triggered, despite having no enemies nearby. The passive may or may not deliver a Thundering Retribution onto the Baron Bunny.
-* When Oz is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
+* **Oz** is able to target Baron Bunny if Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
+* When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
+
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
@@ -112,6 +113,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 * You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
 * Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
 * After summoning Oz with Midnight Phantasmagoria and swapping out of Fischl, Oz will take a snapshot of Fischl's stats right before she leaves the field.
+
 {% endtab %}
 {% endtabs %}
 
@@ -122,6 +124,7 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 ### Mein Hausgarten
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -136,7 +139,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | GU | 2B |
 | Damage Type | Charged Attack |
 
-* This can be used to activate the passive on prototype crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
+* This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -153,6 +157,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
 * A4 benefits from The Stringless' passive
 * A4 can crit
+
 {% endtab %}
 {% endtabs %}
 
@@ -171,30 +176,32 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 * This is an echo effect.
 * C1 is considered Normal Attack DMG.
 * C1 can also crit.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### Devourer of All Sins
 
-When Nightrider is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
+When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
 
 | Type | Talent 6% |
 | :--- | :--- |
 | Cast DMG | 361.62% |
 
 * C2 stacks additively with Elemental Skill damage.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### Wings of Nightmare
 
-Increases the level of Nightrider by 3.
+Increases the level of **Nightrider** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Her Pilgrimage of Bleak
 
-When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
+When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -204,12 +211,13 @@ When Midnight Phantasmagoria is used, it deals 222% of ATK as Elecro DMG to surr
 * C4 can crit and has separate crit rolls from Q.
 * C4 damage occurs before Q (higher priority)
 * C4 is considered Elemental Burst damage.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### Against the Fleeing Light
 
-Increases the Level of Midnight Phantasmagoria by 3.
+Increases the Level of **Midnight Phantasmagoria** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -225,6 +233,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * The joint attack only procs once on multi-hit attacks.
 * C6 benefits from The Stringless
 * C6 can crit
+
 {% endtab %}
 {% endtabs %}
 
@@ -285,6 +294,8 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Fischl)
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
+* [Fischl Support Weapon Rankings](https://library.keqingmains.com/evidence/characters/electro/fischl#fischl-support-weapon-rankings) by itsjaeYOU#2868
+* [Fischl Build Comparison](https://library.keqingmains.com/evidence/characters/electro/fischl#fischl-build-comparison) by Paraszczak#0148
 
 **Evidence Vault:**
 
