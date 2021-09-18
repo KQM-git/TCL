@@ -26,6 +26,7 @@ description: >-
 
 {% tabs %}
 {% tab title="Ancient Sword Art" %}
+
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
@@ -55,6 +56,7 @@ Plunge from mid-air to strike the ground below dealing AoE DMG.
 | Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
+
 {% endtab %}
 
 {% tab title="Adeptus Art: Herald of Frost" %}
@@ -78,6 +80,7 @@ Qiqi brings forth the **Herald of Frost**, dealing Cryo DMG to surrounding oppon
 | CD | 30s |
 | Frames | 57 |
 | MV/s | 141.5%/s |
+
 {% endtab %}
 
 {% tab title="Adeptus Art: Preserver of Fortune" %}
@@ -101,8 +104,9 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 * Qiqi's **Talisman** will heal characters attacking the target to which the talisman is applied as long as the damage dealt to the target is **BOTH**
   * based on the attacking character's stats
   * dealt by a character which is currently on-field
-  {% endtab %}
-  {% endtabs %}
+  
+{% endtab %}
+{% endtabs %}
 
 ## **Ascension Passives**
 
