@@ -57,14 +57,15 @@ Enemies struck by Noelle's charged attack will be staggered or launched.
 | High Plunge DMG | 270.77% |
 
 Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
+
 {% endtab %}
 
 {% tab title="Breastplate" %}
 Summon a shield that deals damage in a small radius around Noelle.
 
-* Shield strength scales with Noelle’s current Def.
+* Shield strength scales with Noelle’s current DEF.
 * When hitting an enemy there is a chance to heal all characters in the party. 
-* The amount healed scales with Noelle’s current Def.
+* The amount healed scales with Noelle’s current DEF.
 * The Shield possesses the following properties:
   * 150% DMG Absorption Efficiency against all damage.
   * Can trigger Crystallize when hitting a target with a element applied to them.
@@ -81,13 +82,14 @@ Summon a shield that deals damage in a small radius around Noelle.
 
 * The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
 * When the shield breaks it creates enough hitlag that you can perform a Plunge attack if you jump at the correct time, however unless you purposefully break the shield it can be hard to time correctly.
+
 {% endtab %}
 
 {% tab title="Sweeping Time" %}
 Noelle infuses her sword with Geo energy greatly increasing the range of her normal attacks.
 
 * Converts her Normal Attacks from Physical to Geo, this infusion cannot be overridden by other sources.
-* Converts Noelle’s current total Def into Atk at a rate decided by talent level.
+* Converts Noelle’s current total DEF into ATK at a rate decided by talent level.
 * The skill and burst damage values apply to the first two hits in the animation when activating burst.
 
 | Effect | Talent 6% / Data |
@@ -102,9 +104,10 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 | Infused attack GU | 1 |
 | Frames | 111 |
 
-* The bonus Def conversion from C6 is additive i.e. it takes the bonus from 56% to 106% at talent level 6.
-* The Def to Atk conversion is snapshotted when you activate burst so any changes to Def after burst is used will not affect Atk.
-* The two activation damage instances can proc the healing effect from Breastplate.
+* The bonus DEF conversion from C6 is additive i.e. it takes the bonus from 56% to 106% at talent level 6.
+* The DEF to ATK conversion is snapshotted when you activate burst so any changes to DEF after burst is used will not affect ATK.
+* The two activation damage instances can proc the healing effect from **Breastplate**.
+
 {% endtab %}
 {% endtabs %}
 
@@ -114,7 +117,7 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 {% tab title="Passive" %}
 ### Maid’s Knighthood
 
-* When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
+When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -125,14 +128,16 @@ When Noelle is in the party but not on field, this ability triggers automaticall
 * Creates a shield for your active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.
 * This shield has a 150% DMG absorption effectiveness against all damage.
 * This effect can only occur once every 60s.
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Nice and clean
 
-Every 4 Normal Attack or Charged Attack hits will decrease the CD of Breastplate by 1s.
+Every 4 Normal Attack or Charged Attack hits will decrease the CD of **Breastplate** by 1s.
 
 * Hitting multiple opponents with a single attack is only counted as one hit.
+
 {% endtab %}
 {% endtabs %}
 
@@ -142,7 +147,7 @@ Every 4 Normal Attack or Charged Attack hits will decrease the CD of Breastplate
 {% tab title="C1" %}
 ### I Got Your Back
 
-While Sweeping time and Breastplate are both in effect, the chance of Breastplate’s healing effects activating are increased to 100%.
+While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate’s healing effects activating are increased to 100%.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -151,34 +156,38 @@ While Sweeping time and Breastplate are both in effect, the chance of Breastplat
 Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
 * This is an additive DMG% bonus.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### Invulnerable Maid
 
-Increases the level of Breastplate by 3.
+Increases the level of **Breastplate** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### To Be Cleaned
 
-When Breastplate’s duration expires or it is destroyed, it will deal 400% ATK of Geo DMG to surrounding opponents.
+When **Breastplate**’s duration expires or it is destroyed, it will deal 400% ATK of Geo DMG to surrounding opponents.
 
 * C4 damage instance is considered skill damage. 
+* The shield damage from C4 is calculated using Noelle’s current attack at the moment the shield breaks.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### Favonius Sweeper Master
 
-Increases the Level of Sweeping Time by 3.
+Increases the Level of **Sweeping Time** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Must Be Spotless
 
-Sweeping Time increases Noelle’s ATK by an additional 50% of her DEF.
+**Sweeping Time** increases Noelle’s ATK by an additional 50% of her DEF.
 
 * Every opponent defeated during the skill’s duration adds 1s to the duration, up to 10s
+
 {% endtab %}
 {% endtabs %}
 
@@ -190,7 +199,7 @@ Stacks will not be lost while under protection from a shield.
 
 ### Whiteblind
 
-Due to Sweeping time snapshotting, the full bonus from Def will not be gained unless you have all stacks active when activating burst.
+Due to **Sweeping Time**'s DEF conversion snapshotting, the full bonus from DEF will not be gained unless you have all stacks active when activating burst.
 
 ## Full Talent Values
 
@@ -267,8 +276,8 @@ Performing Dragonstrike on Noelle via N1 + plunge nets an average of a 27% incre
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Noelle)
-* [**Noelle Mains Discord**](https://discord.gg/kvft4TKFet)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Noelle)
+* [Noelle Mains Discord](https://discord.gg/kvft4TKFet)
 
 **Evidence Vault:**
 

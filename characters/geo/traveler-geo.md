@@ -94,11 +94,11 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 {% endtab %}
 
 {% tab title="Starfell Sword" %}
-Summons a meteorite that deals Geo damage and launches small enemies
+Summons a **meteorite** that deals Geo damage and launches small enemies
 
-* The meteorite is considered a Geo construct and can be climbed or use to block attacks
-* Holding allows you to aim where the meteorite appears and has a faster animation time.
-* Starfell Sword can be manually detonated by over-capping the Geo construct limit (3 constructs).
+* The **meteorite** is considered a **Geo Construct** and can be climbed or use to block attacks
+* Holding allows you to aim where the **meteorite** appears and has a faster animation time.
+* **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -115,7 +115,7 @@ Summons a meteorite that deals Geo damage and launches small enemies
 Deals 4 waves of damage to enemies and knocks them back away from the caster.
 
 * Creates 4 walls one in each cardinal direction from where the character is facing. 
-* These are considered Geo constructs but do not count towards the construct limit and cannot be climbed.
+* These are considered **Geo Construct**s but do not count towards the construct limit and cannot be climbed.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -127,6 +127,7 @@ Deals 4 waves of damage to enemies and knocks them back away from the caster.
 | Frames | 39 |
 
 * Due to the fact the walls do not count towards the construct limit they greatly improve Zhongli's resonance.
+
 {% endtab %}
 {% endtabs %}
 
@@ -142,7 +143,7 @@ Deals 4 waves of damage to enemies and knocks them back away from the caster.
 {% tab title="Ascension 1" %}
 ### Shattered Darkrock
 
-Reduces Starfell Sword’s CD by 2s.
+Reduces **Starfell Sword**’s CD by 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -162,46 +163,49 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 {% tab title="C1" %}
 ### Invincible Stonewall
 
-Party members within the radius of Wake of Earth have their Crit Rate increased by 10% and have increased resistance against interruption.
-- Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior Wake of Earth 
+Party members within the radius of **Wake of Earth** have their Crit Rate increased by 10% and have increased resistance against interruption.
+- Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### Rockcore Meltdown
 
-When the meteorite created by Starfell Sword is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by Starfell Sword.
+When the meteorite created by **Starfell Sword** is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by **Starfell Sword**.
 
-* If a meteorite is destroyed immediately after summoning this will not activate.
+* If a **meteorite** is destroyed immediately after summoning this will not activate.
 * C2 damage instance is considered skill damage.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### Will of the Rock
 
-Increases the level of Wake of Earth by 3.
+Increases the level of **Wake of Earth** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Reaction Force
 
-The shockwave triggered by Wake of Earth regenerates 5 Energy for every enemy hit.
+The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every enemy hit.
 
 * A maximum of 25 Energy can be recovered in this manner.
 * Only applies to the Traveler.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### Meteroite Impact
 
-Increases the Level of Starfell Sword by 3.
+Increases the Level of **Starfell Sword** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Everlasting Boulder
 
-The barrier created by Wake of Earth lasts 5s longer.
+The barrier created by **Wake of Earth** lasts 5s longer.
 
-The meteorite created by Starfell Sword lasts 10s longer.
+The meteorite created by **Starfell Sword** lasts 10s longer.
 {% endtab %}
 {% endtabs %}
 
@@ -264,7 +268,8 @@ The meteorite created by Starfell Sword lasts 10s longer.
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
-* [Full Geo Traveler Guide](https://keqingmains.com/geo-traveler/)
+* [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)
+* [Aether Analysis](https://library.keqingmains.com/evidence/characters/geo/traveler-geo#aether-analysis) by Liunel#2555 (weapon comparisons for Main DPS Aether and Burst Support Aether)
 
 **Evidence Vault:**
 

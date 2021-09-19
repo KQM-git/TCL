@@ -31,7 +31,7 @@ Shoots gems that deal Geo DMG. Upon hit, grants Ningguang 1 **Star Jade**.
 | :--- | :--- | :--- | :--- | :--- |
 | Normal Attack | 39.2% | 1U | 25 | 94.08/s |
 
-* Ningguang's Normal Attacks can be cancelled as soon as the jades appear by her side by jumping or dashing.
+* Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 
 **Charged Attack**  
 Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
@@ -74,7 +74,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 {% endtab %}
 
 {% tab title="Starshatter" %}
-Gathering a great number of gems, Ningguang scatters them all at once, sending six homing projectiles at her opponents that deal massive Geo DMG. If Starshatter is casted when a **Jade Screen** is nearby, the **Jade Screen** will fire an additional six gem projectiles at the same time.
+Gathering a great number of gems, Ningguang scatters them all at once, sending six homing projectiles at her opponents that deal massive Geo DMG. If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen** will fire an additional six gem projectiles at the same time.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
@@ -83,8 +83,9 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | GU | 2U |
 | Frames | 101 |
 
-* Ningguang's **Starshatter** does snapshot on cast.
+* Ningguang's **Starshatter** snapshots on cast.
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
+
 {% endtab %}
 {% endtabs %}
 
@@ -126,12 +127,13 @@ When **Jade Screen** is shattered, its CD will reset. This effect can occur once
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
+
 {% endtab %}
 
 {% tab title="C3" %}
 #### **Majesty be the Array of Stars**
 
-Increases the level of Starshatter by 3.
+Increases the level of **Starshatter** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -143,13 +145,13 @@ Increases the level of Starshatter by 3.
 {% tab title="C5" %}
 **Invincible be the Jade Screen**
 
-Increases the Level of Jade Screen by 3.
+Increases the Level of **Jade Screen** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 #### **Grandeur be the Seven Stars**
 
-When Starshatter is used, Ningguang gains 7 **Star Jades**.
+When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
 {% endtabs %}
 
@@ -205,8 +207,10 @@ When Starshatter is used, Ningguang gains 7 **Star Jades**.
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ningguang)
-* [**Ningguang Mains Discord**](https://discord.gg/ENcBMd86nD)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Ningguang)
+* [Ningguang Mains Discord](https://discord.gg/ENcBMd86nD)
+* [Full Ningguang Written Guide: Geo Goddess](https://keqingmains.com/ningguang/)
+* [6 Minute Quick Guide to Ningguang](https://youtu.be/aecxJRSn2d4)
 
 **Evidence Vault:**
 
