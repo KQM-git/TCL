@@ -1,0 +1,221 @@
+---
+description: >-
+  The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.
+---
+
+# Sangonomiya Kokomi
+
+## ![](../../.gitbook/assets/element_hydro.png) Sangonomiya Kokomi
+
+![](../../.gitbook/assets/character_kokomi_wish.png)
+
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Hydro DMG Bonus |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8738 | 152 | 426 | 14.4% |
+| 60+ | 9377 | 163 | 457 | 14.4% |
+| 70 | 10306 | 179 | 503 | 14.4% |
+| 70+ | 10945 | 190 | 534 | 21.6% |
+| 80 | 11885 | 207 | 580 | 21.6% |
+| 80+ | 12524 | 218 | 611 | 28.8% |
+| 90 | 13471 | 234 | 657 | 28.8% |
+
+## **Attacks**
+
+{% tabs %}
+{% tab title="The Shape of Water" %}
+**Normal Attacks**  
+Performs up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 95.73% | -- | -- |
+| 2-Hit DMG | 86.15% | -- | -- |
+| 3-Hit DMG | 132.03% | -- | -- |
+
+**Charged Attacks**  
+Consumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.
+
+| String | Talent 6% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 207.65% | -- | -- |
+
+* Stamina Cost:  50
+
+**Plunge Attacks**  
+Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
+
+| String | Talent 6% |
+| :--- | :--- |
+| Plunge DMG | 82.6% |
+| Low Plunge DMG | 165.17% |
+| High Plunge DMG | 206.3% |
+{% endtab %}
+
+{% tab title="Kurage's Oath" %}
+Summons a "bake-kurage" created from water that can heal her allies. Using this skill will apply the Wet status to Sangonomiya Kokomi. 
+
+**Bake-Kurage**  
+Deals Hydro DMG to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.
+
+
+| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Regeneration | 6.16% Max HP+ 671 | -- | -- | -- | --| -- |
+| Ripple DMG | 152.87% | -- | -- | -- | --| -- |
+| Duration | 12 s | -- | -- | -- | --| -- |
+| CD | 20 s | -- | -- | -- | --| -- |
+{% endtab %}
+
+{% tab title="Nereid's Ascension" %}
+The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya. 
+
+**Ceremonial Garment**  
+* Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP. 
+* When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP. 
+* Increases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.
+
+These effects will be cleared once Sangonomiya Kokomi leaves the field.
+
+| Effect | Talent 6% / Data |
+| :--- | :--- |
+| Skill DMG | 14.58% Max HP |
+| Normal Attack DMG Bonus | 6.78% Max HP |
+| Charged Attack DMG Bonus | 9.49% Max HP |
+| Bake-Kurage DMG Bonus | 9.93% Max HP |
+| HP Regeneration Per Hit | 1.13% Max HP+ 122 |
+| Duration | 10 s |
+| CD | 18 s |
+| Energy Cost | 70 |
+{% endtab %}
+{% endtabs %}
+
+
+## **Ascension Passives**
+
+{% tabs %}
+{% tab title="Passive" %}
+### Tamanooya's Casket
+
+If Sangonomiya Kokomi's own Bake-Kurage are on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed.
+{% endtab %}
+
+{% tab title="Ascension 1" %}
+### Song of Pearls
+
+While donning the Ceremonial Garment created by Nereid's Ascension, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.
+{% endtab %}
+
+{% tab title="Ascension 4" %}
+### Princess of Watatsumi
+
+Decreases swimming Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+{% endtab %}
+{% endtabs %}
+
+## **Constellations**
+
+{% tabs %}
+{% tab title="C1" %}
+### At Water's Edge
+
+While donning the Ceremonial Garment created by Nereid's Ascension, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as Hydro DMG. This DMG is not considered Normal Attack DMG.
+{% endtab %}
+
+{% tab title="C2" %}
+### The Clouds Like Waves Rippling
+
+Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods: • Kurage's Oath Bake-Kurage: 4.5% of Kokomi's Max HP. • Nereid's Ascension Normal and Charged Attacks: 0.6% of Kokomi's Max HP.
+{% endtab %}
+
+{% tab title="C3" %}
+### The Moon, A Ship O'er the Seas
+
+Increases the Level of Nereid's Ascension by 3. Maximum upgrade level is 15.
+{% endtab %}
+
+{% tab title="C4" %}
+### The Moon Overlooks the Waters
+
+While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her. This effect can occur once every 0.2s.
+{% endtab %}
+
+{% tab title="C5" %}
+### All Streams Flow to the Sea
+
+Increases the Level of Kurage's Oath by 3. Maximum upgrade level is 15.
+{% endtab %}
+
+{% tab title="C6" %}
+### Sango Isshin
+
+While donning the Ceremonial Garment created by Nereid's Ascension, Sangonomiya Kokomi gains a 40% Hydro DMG Bonus for 4s after her Normal and Charged Attacks heal a character with 80% or more HP.
+{% endtab %}
+{% endtabs %}
+
+## Full Talent Values
+
+{% tabs %}{% tab title="The Shape of Water" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 95.73 | 102.56 | 109.4 | 116.24 | 123.08 | 129.91 |
+| 2-Hit DMG | 86.15 | 92.31 | 98.46 | 104.62 | 110.77 | 116.92 |
+| 3-Hit DMG | 132.03 | 141.46 | 150.89 | 160.32 | 169.75 | 179.18 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 207.65 | 222.48 | 237.31 | 252.14 | 266.98 | 281.81 |
+
+**Stamina Cost:**  50
+
+### Plunge 
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+{% endtab %}
+
+{% tab title="Kurage's Oath" %}
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Regeneration | 6.16 Max HP+ 671 | 6.6 Max HP+ 731 | 7.04 Max HP+ 795 | 7.48 Max HP+ 862 | 7.92 Max HP+ 932 | 8.36 Max HP+ 1006 | 8.8 Max HP+ 1084 | 9.35 Max HP+ 1165 |
+| Ripple DMG | 152.87 | 163.79 | 174.7 | 185.62 | 196.54 | 207.46 | 218.38 | 232.03 |
+
+**Duration:**  12 s
+
+**Cooldown:**  20 s
+{% endtab %}
+
+{% tab title="Nereid's Ascension" %}
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 14.58 Max HP | 15.62 Max HP | 16.67 Max HP | 17.71 Max HP | 18.75 Max HP | 19.79 Max HP | 20.83 Max HP | 22.13 Max HP |
+| Normal Attack DMG Bonus | 6.78 Max HP | 7.26 Max HP | 7.74 Max HP | 8.23 Max HP | 8.71 Max HP | 9.2 Max HP | 9.68 Max HP | 10.29 Max HP |
+| Charged Attack DMG Bonus | 9.49 Max HP | 10.16 Max HP | 10.84 Max HP | 11.52 Max HP | 12.2 Max HP | 12.87 Max HP | 13.55 Max HP | 14.4 Max HP |
+| Bake-Kurage DMG Bonus | 9.93 Max HP | 10.64 Max HP | 11.35 Max HP | 12.06 Max HP | 12.77 Max HP | 13.48 Max HP | 14.19 Max HP | 15.08 Max HP |
+| HP Regeneration Per Hit | 1.13 Max HP+ 122 | 1.21 Max HP+ 133 | 1.29 Max HP+ 144 | 1.37 Max HP+ 157 | 1.45 Max HP+ 169 | 1.54 Max HP+ 183 | 1.62 Max HP+ 197 | 1.72 Max HP+ 212 |
+
+**Duration:**  10 s
+
+**Cooldown:**  18 s
+
+**Energy Cost:**  70
+{% endtab %}
+{% endtabs %}
+
+## **External Links**
+
+* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Sangonomiya_Kokomi)
+
+**Evidence Vault:**
+
+{% page-ref page="../../evidence/characters/hydro/kokomi.md" %}

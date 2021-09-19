@@ -6,6 +6,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Falcon's Defiance | ATK is increased by **20/25/30/35/40**%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to **100/115/130/145/160**% of ATK and dealing **200/230/260/290/320**% of ATK as DMG to surrounding opponents. This effect can only occur once every 15s. |
@@ -14,6 +15,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 423 | 30.4 |
@@ -33,6 +35,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Mistsplitter's Edge | Gain a **12/15/18/21/24**% Elemental DMG Bonus for all element and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **(8/16/28)/(10/20/35)/(12/24/42)/(14/28/49)/(16/32/56)**% Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently. |
@@ -43,6 +46,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Crit DMG |
 | :--- | :--- | :--- |
 | 60 | 423 | 32.5 |
@@ -62,6 +66,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Protector's Virtue | HP increased by **20/25/30/35/40**%. Additionally, provides an ATK Bonus based on **1.2/1.5/1.8/2.1/2.4**% of the wielder's Max HP. |
@@ -70,6 +75,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 341 | 32.5 |
@@ -89,6 +95,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Sky-Piercing Fang | Crit Rate increased by **4/5/6/7/8**%. Gains Skypiercing Might upon using Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, Normal and Charged Attacks deal an additional **20/25/30/35/40**% of Normal/Charged ATK as DMG for 12s**.** |
@@ -99,6 +106,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 382 | 40.6 |
@@ -118,6 +126,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Golden Majesty | Increases Shield Strength by **20/25/30/35/40**%. Scoring hits on opponents increases ATK by **4/5/6/7/8**% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%. |
@@ -126,6 +135,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
@@ -147,6 +157,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Iwakura Succession | After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6/7.5/9/10.5/12** Energy for each seed consumed. |
@@ -155,6 +166,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
@@ -175,6 +187,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Press the Advantage | After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
@@ -186,6 +199,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 27.1 |
@@ -205,6 +219,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Clear Particles. Can only occur once every **12/10.5/8/7.5/6** |
@@ -215,6 +230,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
@@ -234,6 +250,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
@@ -242,6 +259,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
@@ -261,6 +279,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Stinger | Dealing Elemental DMG increases all DMG by **6/7.5/9/10.5/12**% for 6s. Max 2 stacks. Can only occur once every 1s. |
@@ -269,6 +288,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 327 | 122 |
@@ -288,6 +308,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Bane of Fire and Thunder | Increases DMG against enemies affected by Pyro or Electro by **20/24/28/32/36**%. |
@@ -296,10 +317,11 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
@@ -319,6 +341,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Smashed Stone | On hit, Normal or Charged Attacks increase ATK and DEF by **4/5/6/7/8**% for 6s. Max 4 stacks. Can only occur once every 0.3s. |
@@ -327,6 +350,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 25.4 |
@@ -346,6 +370,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Focus | Upon dealing damage to an opponent, increases CRIT Rate by **8/10/12/14/16**%. Max 5 stacks. A CRIT hit removes all existing stacks. |
@@ -359,6 +384,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
@@ -378,6 +404,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Composed | After dealing damage to an opponent with an Elemental Skill, the skill has a **40**~**80**% chance to end its own CD. Can only occur once every **30**~**16**s. |
@@ -389,6 +416,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
@@ -408,6 +436,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Itinerant Hero | Increases DMG dealt by the character equipping this weapon by **12/15/18/21/24**%. Taking DMG disables this effect for 5s.. |
@@ -422,6 +451,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Justice | Increases DMG dealt by Normal and Charged Attacks by **20/25/30/35/40**%. Additionally, regenerates **60/70/80/90/100**% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s. |
@@ -430,6 +460,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
@@ -449,6 +480,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Chord | Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **100/125/150/175/200**% ATK DMG to surrounding enemies. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s. |
@@ -459,6 +491,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
@@ -480,6 +513,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Bane of Water and Ice | Increases DMG against opponents affected by Hydro or Cryo by **12/15/18/21/24**%. |
@@ -488,10 +522,11 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
@@ -511,6 +546,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Gash | On hit, has 50% chance to deal **240/280/320/360/400**% ATK DMG to a single enemy. Can only occur once every **15/14/13/12/11**s. |
@@ -519,6 +555,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
@@ -538,6 +575,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Vigorous | When HP is above 90%, increases CRIT Rate by **14/17.5/21/24.5/28**%. |
@@ -546,6 +584,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 263 | 34.5 |
@@ -565,6 +604,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Determination | Using an Elemental Burst grants a **12/15/19/21/24**% increase in ATK and Movement SPD for 15s. |
@@ -573,6 +613,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 234 | 38.3 |
@@ -592,6 +633,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Journey | Each Elemental Orb or Particle collected restores **1/1.25/1.5/1.75/2**% HP. |
@@ -600,6 +642,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | DEF% |
 | :--- | :--- | :--- |
 | 60 | 292 | 21.6 |
