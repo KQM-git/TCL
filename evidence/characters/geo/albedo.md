@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/geo/albedo.md" %}
 
-## Dimensions of Albedo’s Elemental Skill AoE
+## Skill Mechanics
+
+### Dimensions of Albedo’s Elemental Skill AoE
 
 **Added:** 12/28/2020  
 Submission By: HailCorporate\#2970
@@ -25,7 +27,7 @@ It is possible to place Albedo's flower in an elevated position to avoid it gett
 **Further Testing:**  
 I've experienced placing Albedo's flower on top of Electro Hypostasis' summons during its death phase and it remained suspended after the summon was destroyed. This may be replicated in Albedo + Zhong teams with Zhong's pillar however I cannot test this as I do not own Zhong.
 
-## Albedo's Elemental Skill Snapshots
+### Albedo's Elemental Skill Snapshots
 
 **By:** Steno\#6940  
 **Added:** 4/21/2021  
@@ -39,7 +41,9 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 
 **Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his skill after getting buffed.
 
-## Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
+## Burst Mechanics
+
+### Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
 
 **By:** gtrain#9987  
 **Added:** 08/13/2021  
