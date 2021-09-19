@@ -83,6 +83,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * this occurs with the orbitals created by both Xingqiu's Skill and Burst
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s. 
+
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
@@ -106,6 +107,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 
 * **Sword Rain** damage calculation does not snapshot.
 * Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice.
+
 {% endtab %}
 {% endtabs %}
 
@@ -113,6 +115,7 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 
 {% tabs %}
 {% tab title="Passive" %}
+
 ### **Flash of Genius**
 
 When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
@@ -143,35 +146,36 @@ Increases the maximum number of **Rain Swords** by 1.
 {% tab title="C2" %}
 ### Rainbow Upon the Azure Sky
 
-Extends the duration of Guhua Sword: Raincutter by 3s.  
-Decreases the Hydro RES of opponents hit by Sword Rain attack by 15% for 4s.
+Extends the duration of **Guhua Sword: Raincutter** by 3s.  
+Decreases the Hydro RES of opponents hit by **Sword Rain** attack by 15% for 4s.
 {% endtab %}
 
 {% tab title="C3" %}
 ### Weaver of Verses
 
-Increases the Level of Guhua Sword: Raincutter by 3.
+Increases the Level of **Guhua Sword: Raincutter** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Evilsoother**
 
-Throughout the duration of Guhua Sword: Raincutter, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.
+Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.
 
 * This effect is multiplicative. 
   * See: [Damage Formula](https://library.keqingmains.com/mechanics/combat/damage-formula#evilsoother)
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### Embrace of Rain
 
-Increases the level of Guhua Sword: Fatal Rainscreen by 3.
+Increases the level of **Guhua Sword: Fatal Rainscreen** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Hence, Call Them My Own Verses**
 
-Changes the number of Sword Rain attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
+Changes the number of **Sword Rain** attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
 
 Energy regeneration is not affected by Energy Recharge.
 {% endtab %}
@@ -216,8 +220,7 @@ Energy regeneration is not affected by Energy Recharge.
 | Skill 2 DMG | 267.68 | 286.80 | 305.92 | 325.04 | 344.16 | 363.28 | 382.40 | 406.30 |
 | Damage Reduction Ratio | 25 | 26 | 27 | 28 | 29 | 29 | 29 | 29 |
 
-**Duration**: 15s
-
+**Duration**: 15s  
 **Cooldown**: 21s
 {% endtab %}
 
@@ -226,10 +229,8 @@ Energy regeneration is not affected by Energy Recharge.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sword Rain DMG | 75.98 | 81.41 | 86.84 | 92.26 | 97.69 | 103.12 | 108.54 | 115.33 |
 
-**Energy Cost**: 80
-
-**Duration**: 15s
-
+**Energy Cost**: 80  
+**Duration**: 15s  
 **Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
@@ -238,7 +239,8 @@ Energy regeneration is not affected by Energy Recharge.
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xingqiu)
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)
-* [Xingqiu Handbook](https://keqingmains.com/xingqiu/)
+* [Written Guide: Xingqiu Handbook](https://keqingmains.com/xingqiu/)
+* [5 Minute Quick Guide to Xingqiu](https://youtu.be/EiOP60N4p58)
 
 **Evidence Vault:**
 

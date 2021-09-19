@@ -4,18 +4,112 @@
 
 {% page-ref page="../../../characters/hydro/xingqiu.md" %}
 
-## Xingqiu C6 3rd Wave Applies Hydro Twice
+## Skill Mechanics
 
-**By:** gacha4life\#2525  
-**Added:** 03/17/2021
+### **Xingqiu E Double Vaporize**
+
+**By:** Zeitraffer\#1074
+
+**Finding:**
+
+How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
+
+**Evidence:** [https://www.youtube.com/watch?v=-03MNwss9UI](https://www.youtube.com/watch?v=-03MNwss9UI)
+
+There are 2 methods of doing it. You can use Xiangling’s E and time it on Gouba’s attack. The easier method is by using Amber’s ult, you only need to cast E to do it.
+
+**Significance:**
+
+For one-shot \(or two-shot\) compilations, although I’m not sure if this team comp is better since you will lose Barbara’s E buff.
+
+### Xingqiu Rain Sword ICD
+
+**By:** Ayzel\#7399  
+**Added:** 5/6/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838993375709364224/840057546563256340/transcript-xingqiu-rain-sword-icd.html)
+
+**Finding:**  
+The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds.
+
+**Evidence:**  
+[Rain sword triggers swirl](https://youtu.be/k2f2aAR4AS4) at 5:11, 7:41, 10:10 and also at 58:03, 1:00:32, 1:03:01, and 1:05:30
+
+**Significance:**  
+Better knowledge for teambuilding and rotations.
+
+### Xingqiu Rain Sword DMG Reduction is a conferrable attribute
+
+**By:** elijam#7142  
+**Added:** 07/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
+
+**Finding:**  
+Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from Kazuha's A4 into account. Because it's an attribute sharing effect which scale based on a character's own attributes, therefore would not factor in to calculations of further similarly scaling attribute sharing effects.
+
+**Evidence:**  
+[Rain Swords Unbuffed](https://youtu.be/bb0ftQK8nzg)  
+[Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)  
+
+**Significance:**  
+A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
+
+### XQ rain sword shattering cooldown
+
+**By:** Lee Roy Leoncio#3769  
+**Added:** 09/06/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881769328247177246/884456576075825162/transcript-xq-rain-sword-shattering-cooldown.html)
+
+**Finding:**  
+The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of 1.5 seconds before another rain sword can be shattered.
+
+**Evidence:**  
+[Youtube](https://youtu.be/R2MxrChRovk)
+
+**Significance:**  
+The 4 swords cannot shatter simultaneously, so you can have a very small window of safety after one sword is shattered.
+
+### **Xingqiu’s Rain Sword Damage Reduction does Snapshot**
+
+**By:** wiremash\#0433
+
+**Finding:**
+
+Xingqiu's Rain Swords Do Snapshot
+
+**Evidence:** [https://youtu.be/WJUepUXbVmo](https://www.youtube.com/watch?v=WJUepUXbVmo&feature=youtu.be)
+
+Tested with C2 Barbara and compared the received damage with and without the Hydro buff.
+
+**Significance:**
+
+While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Rain Swords is snapshot \(both E and Q\).
+
+**Editor’s Note:**
+
+Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
+
+### Xingqiu E Dash Cancel Animation
+
+**By:** Charliex3000\#9403  
+**Added:** 03/18/2021
+
+**Finding:**
+
+XQ E dash cancel is faster than ult cancelling.
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=Mgbi6X0TTxM](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
+[https://youtu.be/olBKG1I3JEw](https://youtu.be/olBKG1I3JEw)
 
-**Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
+38 frames to dash cancel, 71 frames to ult cancel, 92 frames without a cancel to swap.
 
-## **Xingqiu's Q Damage Calculation is Dynamic**
+**Significance:**
+
+Dash to swap is faster since it takes longer without a cancel to swap.
+
+## Burst Mechanics 
+
+### **Xingqiu's Q Damage Calculation is Dynamic**
 
 **By:** IonFox\#8887
 
@@ -36,62 +130,7 @@ Note: Crystal is picked up after the 2nd wave of swords so hydro res shred from 
 
 XQ ult is dynamic and not a snapshot, buffs/value changes received after casting still affect damage. Previous interaction with dragonslayers is likely a result of the dragonslayers bug currently floating around.
 
-## **Xingqiu E Double Vaporize**
-
-**By:** Zeitraffer\#1074
-
-**Finding:**
-
-How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
-
-**Evidence:** [https://www.youtube.com/watch?v=-03MNwss9UI](https://www.youtube.com/watch?v=-03MNwss9UI)
-
-There are 2 methods of doing it. You can use Xiangling’s E and time it on Gouba’s attack. The easier method is by using Amber’s ult, you only need to cast E to do it.
-
-**Significance:**
-
-For one-shot \(or two-shot\) compilations, although I’m not sure if this team comp is better since you will lose Barbara’s E buff.
-
-## **Xingqiu’s Rain Sword Damage Reduction does Snapshot**
-
-**By:** wiremash\#0433
-
-**Finding:**
-
-Xingqiu's Rain Swords Do Snapshot
-
-**Evidence:** [https://youtu.be/WJUepUXbVmo](https://www.youtube.com/watch?v=WJUepUXbVmo&feature=youtu.be)
-
-Tested with C2 Barbara and compared the received damage with and without the Hydro buff.
-
-**Significance:**
-
-While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Rain Swords is snapshot \(both E and Q\).
-
-**Editor’s Note:**
-
-Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
-
-## Xingqiu E Dash Cancel Animation
-
-**By:** Charliex3000\#9403  
-**Added:** 03/18/2021
-
-**Finding:**
-
-XQ E dash cancel is faster than ult cancelling.
-
-**Evidence:**
-
-[https://youtu.be/olBKG1I3JEw](https://youtu.be/olBKG1I3JEw)
-
-38 frames to dash cancel, 71 frames to ult cancel, 92 frames without a cancel to swap.
-
-**Significance:**
-
-Dash to swap is faster since it takes longer without a cancel to swap.
-
-## Xingqiu Sword Rain "Buffering"
+### Xingqiu Sword Rain "Buffering"
 
 **By:** Charliex3000\#9403  
 **Added:** 03/21/2021
@@ -111,7 +150,7 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 
 Clears up how exactly "XQ buffers." Additionally pending some extra tests about how long the active window for an auto to proc rain swords it.
 
-## Xingqiu Hydro Aura Persistence
+### Xingqiu Hydro Aura Persistence
 
 **By:** Sayline\#5959  
 **Added:** 04/05/2021
@@ -127,48 +166,24 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Significance:** Limit testing of XQ.
 
-## Xingqiu Rain Sword ICD
+## Constellation Mechanics
 
-**By:** Ayzel\#7399  
-**Added:** 5/6/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838993375709364224/840057546563256340/transcript-xingqiu-rain-sword-icd.html)
+### C6: Hence, Call Them My Own Verses
 
-**Finding:**  
-The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds.
+#### Xingqiu C6 3rd Wave Applies Hydro Twice
 
-**Evidence:**  
-[Rain sword triggers swirl](https://youtu.be/k2f2aAR4AS4) at 5:11, 7:41, 10:10 and also at 58:03, 1:00:32, 1:03:01, and 1:05:30
+**By:** gacha4life\#2525  
+**Added:** 03/17/2021
 
-**Significance:**  
-Better knowledge for teambuilding and rotations.
+**Evidence:**
 
-## Xingqiu Rain Sword DMG Reduction is a conferrable attribute
+[https://www.youtube.com/watch?v=Mgbi6X0TTxM](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
 
-**By:** elijam#7142  
-**Added:** 07/18/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
+**Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
 
-**Finding:**  
-Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from Kazuha's A4 into account. Because it's an attribute sharing effect which scale based on a character's own attributes, therefore would not factor in to calculations of further similarly scaling attribute sharing effects.
 
-**Evidence:**  
-[Rain Swords Unbuffed](https://youtu.be/bb0ftQK8nzg)  
-[Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)  
 
-**Significance:**  
-A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
 
-## XQ rain sword shattering cooldown
 
-**By:** Lee Roy Leoncio#3769  
-**Added:** 09/06/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881769328247177246/884456576075825162/transcript-xq-rain-sword-shattering-cooldown.html)
 
-**Finding:**  
-The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of 1.5 seconds before another rain sword can be shattered.
 
-**Evidence:**  
-[Youtube](https://youtu.be/R2MxrChRovk)
-
-**Significance:**  
-The 4 swords cannot shatter simultaneously, so you can have a very small window of safety after one sword is shattered.
