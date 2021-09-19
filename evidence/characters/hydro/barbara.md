@@ -4,7 +4,9 @@
 
 {% page-ref page="../../../characters/hydro/barbara.md" %}
 
-## **Barbara E Animation Cancel**
+## Skill Mechanics
+
+### **Barbara E Animation Cancel**
 
 **By:** RoaringMeow\#2437  
 **Added:** 12/19/2020
@@ -15,8 +17,8 @@ Reducing Barbara E animation for optimizing the "first heal"
 
 **Evidence:**
 
-Just Switch: [https://streamable.com/7yyyr1](https://streamable.com/7yyyr1)  
-Just Switch and Beyond: [https://streamable.com/3iqjyp](https://streamable.com/3iqjyp)
+* Just Switch: [https://youtu.be/8d4SAxy2yrM](https://youtu.be/8d4SAxy2yrM)  
+* Just Switch and Beyond: [https://youtu.be/yBNpbQNPVgg](https://youtu.be/yBNpbQNPVgg)
 
 **Significance**
 
