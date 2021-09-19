@@ -4,17 +4,9 @@
 
 {% page-ref page="../../../characters/geo/traveler-geo.md" %}
 
-## Multiple E Skill Resonance Can Hit 1 Target
+## Attack Mechanics
 
-**By:** The CEO of GEO\#7227
-
-**Findings:** Resonating Geo Constructs with overlapping AoEs will multi-hit enemies
-
-**Evidence:** [https://clips.twitch.tv/AdventurousAstuteWolfTriHard](https://clips.twitch.tv/AdventurousAstuteWolfTriHard)
-
-**Significance:** Geo MC can make the most constructs on the game \(2 Meatballs which cap to 3 with Zhong Pillar, and 4 from Ult which don't count towards cap. This can turn small arenas into multi-hitting funzones.
-
-## Twins CA MVs Comparison
+### Twins CA MVs Comparison
 
 **By:** Fluffy\#5580  
 **Added:** 04/10/2021
@@ -25,7 +17,29 @@
 
 **Significance:** Although, I wouldn't recommend using AA for either MC, Aether comes out on top with shorter AA combos which would be more preferred combos anyway. This means that while Lumine has on multiplier higher than Aether's, her AA is still worse than that of Aether. It really shouldn't matter unless you play main DPS though, so play who you want.
 
-## Wake of Earth Blocks Geovishap Jump
+## Skill Mechanics
+
+
+
+### Geo Traveler E can be manually detonated
+
+**By:** Sorry#6046  
+**Added:** 08/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876140744275005540/877470462693756928/transcript-geo-mc-boulder-can-be-manually-exploded.html)
+
+**Finding:**  
+Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo construct.
+
+**Evidence:**  
+Evidence 1: [Imgur](https://imgur.com/a/mACZf89)  
+Evidence 2: [Imgur](https://imgur.com/a/uimbAgh)  
+
+**Significance**  
+Geo supremacy.
+
+## Burst Mechanics
+
+### Wake of Earth Blocks Geovishap Jump
 
 **By:** Terrapin\#8603  
 **Added:** 5/6/2021  
@@ -40,17 +54,32 @@ As shown in the video, a Wake of Earth wall inbetween the Geovishap and the play
 **Significance:**  
 Enemy movement manipulation when using Geo Traveler in a team comp.
 
-## Aether Analysis
+## Passives Mechanics
 
-**By:** Liunel\#2555  
-**Added:** 6/3/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/820951727720497162/850178239632900111/transcript-aether-weapons-and-builds.html)
+### A4: Frenzied Rockslide
 
-Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.
+#### Geo Traveler A4 counts as Normal Attack
 
-[https://docs.google.com/spreadsheets/d/1\_\_g4Q5c4uD5sG2gWzS3IwAkQEU\_sO9-ivNALB9\_sQmI/edit?skip\_itp2\_check=true\#gid=1062073362](https://docs.google.com/spreadsheets/d/1__g4Q5c4uD5sG2gWzS3IwAkQEU_sO9-ivNALB9_sQmI/edit?skip_itp2_check=true#gid=1062073362)
+**By:** Blank#4561  
+**Added:** 09/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
 
-## Geo MC C1 activation after Cast
+**Finding:**  
+Anemo Traveler A4 counts as Normal Attack Damage.
+
+**Evidence:**  
+
+* [Youtube](https://youtu.be/JH6KsDqdsN8)
+* ` .6 * 752 * (1 + .35) * .9 * ((100 + 80)/(100 + 85 + 100 + 80)) = 270.35`
+
+**Significance:**  
+Although a minor damage source, Geo Traveler's A4 Passive damage is increased by DMG bonuses towards Normal Attacks.
+
+## Constellation Mechanics
+
+### C1: Invincible Stonewall
+
+#### Geo MC C1 activation after Cast
 
 **By:** Vherax\#5321  
 **Added:** 6/20/2021  
@@ -68,7 +97,9 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 - Geo MC's burst does not apply C1 buff to its own damage (unless a ring from previous burst still exists)
 - With C6 the duration of ring is 20s (with 15s cooldown), so it should be possible to maintain the buff on subsequent burst activations. However, as proven, the first elemental burst used will remain unaffected by C1 crit rate buff.
 
-## Geo Traveler C2 damage
+### C2: Rockcore Meltdown
+
+#### Geo Traveler C2 damage
 
 **By:** elijam#7142  
 **Added:** 08/07/2021  
@@ -84,47 +115,39 @@ Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=R
 **Significance**  
 Damage calculations for Geo Traveler
 
-## Geo Traveler E can be manually detonated
+## Interactions/Synergies
 
-**By:** Sorry#6046  
-**Added:** 08/18/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876140744275005540/877470462693756928/transcript-geo-mc-boulder-can-be-manually-exploded.html)
+### Multiple E Skill Resonance Can Hit 1 Target
 
-**Finding:**  
-Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo construct.
+**By:** The CEO of GEO\#7227
 
-**Evidence:**  
-Evidence 1: [Imgur](https://imgur.com/a/mACZf89)  
-Evidence 2: [Imgur](https://imgur.com/a/uimbAgh)  
+**Findings:** Resonating Geo Constructs with overlapping AoEs will multi-hit enemies
 
-**Significance**  
-Geo supremacy.
+**Evidence:** *Twitch Clip lost to the sands of time*
 
-## Geo Traveler triggers Mistsplitter NA Stack
+**Significance:** Geo MC can make the most constructs on the game \(2 Meatballs which cap to 3 with Zhong Pillar, and 4 from Ult which don't count towards cap. This can turn small arenas into multi-hitting funzones.
+
+### Geo Traveler triggers Mistsplitter NA Stack
 
 **By:** amaryillis#4774  
 **Added:** 9/10/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
-Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide.
+Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 
 **Evidence:**  
 [Youtube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
 
-## Geo Traveler A4 counts as Normal Attack
+## Calculations/Resources
 
-**By:** Blank#4561  
-**Added:** 09/10/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
+### Aether Analysis
 
-**Finding:**  
-Anemo Traveler A4 counts as Normal Attack Damage.
+**By:** Liunel\#2555  
+**Added:** 6/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/820951727720497162/850178239632900111/transcript-aether-weapons-and-builds.html)
 
-**Evidence:**  
+Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.
 
-* [Youtube](https://youtu.be/JH6KsDqdsN8)
-* ` .6 * 752 * (1 + .35) * .9 * ((100 + 80)/(100 + 85 + 100 + 80)) = 270.35`
+[https://docs.google.com/spreadsheets/d/1\_\_g4Q5c4uD5sG2gWzS3IwAkQEU\_sO9-ivNALB9\_sQmI/edit?skip\_itp2\_check=true\#gid=1062073362](https://docs.google.com/spreadsheets/d/1__g4Q5c4uD5sG2gWzS3IwAkQEU_sO9-ivNALB9_sQmI/edit?skip_itp2_check=true#gid=1062073362)
 
-**Significance:**  
-Although a minor damage source, Geo Traveler's A4 Passive damage is increased by DMG bonuses towards Normal Attacks.

@@ -68,7 +68,7 @@ When opponents within the **Solar Isotoma** field take DMG, the Solar Isotoma wi
 * DMG dealt by **Transient Blossoms** scale off Albedo’s DEF.
 * **Transient Blossoms** can only be generated once every 2s.
 
-When a character is located on the Solar Isotoma, the Solar Isotoma will form a crystallized platform that lifts the character up to a certain height
+When a character is located on the **Solar Isotoma**, the **Solar Isotoma** will form a crystallized platform that lifts the character up to a certain height
 
 * Only one crystallized platform can exist at a time.
 * **Solar Isotoma** is considered a Geo construct, casting other constructs above it will cause the construct to shatter.
@@ -86,6 +86,7 @@ When a character is located on the Solar Isotoma, the Solar Isotoma will form a 
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 * The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
+
 {% endtab %}
 
 {% tab title="Rite of Progeniture: Tectonic Tide" %}
@@ -101,9 +102,10 @@ Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of
 | Fatal Blossom GU | 1U |
 | Cast Frames | 96 |
 
-* Tectonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms.
+* **Tectonic Tide** DMG and **Fatal Blossom** DMG will not generate **Transient Blossoms**.
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
-* **Fatal Blossoms** DMG snapshots when his **Solar Isotoma** is cast, not when **Tectonic Tide** is cast.  
+* **Fatal Blossoms** DMG snapshot on **Solar Isotoma** cast.  
+
 {% endtab %}
 {% endtabs %}
 
@@ -145,12 +147,13 @@ Using Rite of Progeniture: Tectonic Tide increases the EM of nearby party member
 
 * Unleashing Rite of Progeniture: Tectonic Tide consumes all stacks of **Fatal Reckoning**. Each stack of **Fatal Reckoning** consumed increases DMG dealt by **Fatal Blossoms** and Rite of Progeniture: Tectonic Tide's burst DMG by 30% of Albedo's DEF.
 * The effect stacks up to 4 times.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### Grace of Helios
 
-Increases the level of Abiogenesis: Solar Isotoma by 3.
+Increases the level of **Abiogenesis: Solar Isotoma** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -162,7 +165,7 @@ Increases the level of Abiogenesis: Solar Isotoma by 3.
 {% tab title="C5" %}
 ### **Tide of Hadaen**
 
-Increases the level of Rite of Progeniture: Tectonic Tide by 3.
+Increases the level of **Rite of Progeniture: Tectonic Tide** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -210,8 +213,7 @@ If active party members within the AoE are protected by a shield created by Crys
 | Skill DMG | 182.56 | 195.60 | 208.64 | 221.68 | 234.72 | 247.76 | 260.80 | 277.10 |
 | Transient Blossom DMG | 187.04 | 200.4 | 213.76 | 227.12 | 240.48 | 253.84 | 267.2 | 283.9 |
 
-**Duration**: 30s
-
+**Duration**: 30s  
 **Cooldown**: 4s
 {% endtab %}
 
@@ -231,7 +233,7 @@ If active party members within the AoE are protected by a shield created by Crys
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Albedo)
 * [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
-* [Albedo Guide](https://keqingmains.com/albedo/)
+* [Albedo Written Guide](https://keqingmains.com/albedo/)
 
 **Evidence Vault:**
 

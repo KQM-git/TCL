@@ -4,7 +4,11 @@
 
 {% page-ref page="../../../characters/geo/zhongli.md" %}
 
-## Zhongli's Ascension 1 broken down
+## Ascension Mechanics
+
+### A1: Resonant Waves
+
+#### Zhongli's Ascension 1 broken down
 
 **By:** 3b00d\_09\#2235  
 **Added:** 4/28/2021  
@@ -43,7 +47,7 @@ On a side note, recasting Jade Screen before it breaks will reset the Fortificat
 
 **Significance:** This allows for more accurate Zhongli shield calculations, as well as any future characters with a similar mechanic.
 
-## Zhongli A1 Has No/Negligible ICD
+#### Zhongli A1 Has No/Negligible ICD
 
 **By:** JonahFarc\#7056  
 **Added:** 4/26/2021  
@@ -53,32 +57,17 @@ On a side note, recasting Jade Screen before it breaks will reset the Fortificat
 
 **Evidence:**
 
-[\[Video\] Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed](https://youtu.be/nrML_xrMJPc)
+[Video:](https://youtu.be/nrML_xrMJPc) Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed
 
 **Significance:**
 
 Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
 
-## Fischl C6 does not always Proc on Zhongli's first Normal Attack
+## Constellation Mechanics
 
-**By:** muakasan\#2792  
-**Added:** 01/07/2021
+### C2: Stone, the Cradle of Jade
 
-**Bug/Finding:**
-
-Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the c6 does not proc on the first normal of the subsequent sequences.
-
-**Evidence:**
-
-[https://youtu.be/\_hEXbDqPtfo](https://youtu.be/_hEXbDqPtfo), as we can see Zhongli's first normal attack in the second and third attack sequence does not proc a fischl c6 proc
-
-Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3a94XPBI)\), and dash canceling after the sequence \([https://youtu.be/JBQUbJp0hks](https://youtu.be/JBQUbJp0hks)\) seems to avoid the problem and the c6 proc occurs as normal.
-
-**Significance:**
-
-Allows for more accurate DPS calculations when using Zhongli and c6 fischl together.
-
-## Zhongli C2 Mechanics
+#### Zhongli C2 Mechanics
 
 **By:** Midori\#2173  
 **Added:** 04/21/2021  
@@ -97,7 +86,28 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 **Significance:** For the highest damage apply the Geo res down before pressing Burst.
 
-## 4 TOM Passive on Zhongli Procs With Other Geo Constructs
+## Interactions/Synergies
+
+### Fischl C6 does not always Proc on Zhongli's first Normal Attack
+
+**By:** muakasan\#2792  
+**Added:** 01/07/2021
+
+**Bug/Finding:**
+
+Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the c6 does not proc on the first normal of the subsequent sequences.
+
+**Evidence:**
+
+[https://youtu.be/\_hEXbDqPtfo](https://youtu.be/_hEXbDqPtfo), as we can see Zhongli's first normal attack in the second and third attack sequence does not proc a fischl c6 proc
+
+Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3a94XPBI)\), and dash canceling after the sequence \([https://youtu.be/JBQUbJp0hks](https://youtu.be/JBQUbJp0hks)\) seems to avoid the problem and the c6 proc occurs as normal.
+
+**Significance:**
+
+Allows for more accurate DPS calculations when using Zhongli and c6 fischl together.
+
+### 4 TOM Passive on Zhongli Procs With Other Geo Constructs
 
 **By:** Lowy\#7647  
 **Added:** 5/6/2021  
@@ -107,9 +117,10 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
 
 **Evidence:**  
-[\[Video\] Test with Geo MC](https://www.youtube.com/watch?v=N8yJ_4LHQxY)  
-[\[Video\] Test with Albedo](https://www.youtube.com/watch?v=R56dA5SOpyk)  
-[\[Video\] Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
+
+* [Test with Geo MC](https://www.youtube.com/watch?v=N8yJ_4LHQxY)  
+* [Test with Albedo](https://www.youtube.com/watch?v=R56dA5SOpyk)  
+* [Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
 
 **Significance:**  
 This make triggering the 4pc ToM passive easier with Zhongli when playing with other geo characters

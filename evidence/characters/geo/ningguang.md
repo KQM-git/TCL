@@ -4,31 +4,9 @@
 
 {% page-ref page="../../../characters/geo/ningguang.md" %}
 
-## Ningguang C2 and Sacrificial Passive Interaction
+## Burst Mechanics
 
-**By:** Terrapin\#8603  
-**Added:** 4/26/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
-
-**Finding:**
-
-Ningguang's Elemental Skill with her c2 activated has its effect put into cooldown when her E is used and the Sacrificial passive is procced, if the conditions were met to also proc her c2 effect \( Jade Shield present and broken by casting E \)
-
-**Evidence:**
-
-[\[Video\]](https://www.youtube.com/watch?v=xyRlbb1E4Ew)
-
-In the first example in the video, Ningguang's Elemental Skill is cast on an enemy, which procs the Sacrifical passive, resetting the cooldown. Then, it is cast again which destroys the original Jade Shield and procs her c2 effect resetting the cooldown.
-
-In the second example, Ningguang's Elemental Skill is cast without any proc. Then, it is cast again \( with the previous Jade Shield present - destroying it \) proccing the Sacrificial passive, resetting the cooldown. Another cast of the Elemental Skill \( destroying the Jade Shield \) shows that the c2 effect has been put into cooldown, as it does not activate.
-
-In the third example, Ningguang's Elemental Skill is cast without any proc. Then, it is cast again \( with the previous Jade Shield present - destroying it \) proccing the c2 effect and resetting the cooldown. It is cast a third time, which now procs the Sacrificial passive resetting the cooldown again.
-
-**Significance:**
-
-General knowledge on how these mechanics work, in reference to current or future abilities.
-
-## Ningguang Burst Does Snapshot
+### Ningguang Burst Does Snapshot
 
 **By:** elijam#7142, Isu#6867, Ai#7362, Bobrokrot#0111  
 **Added:** 6/26/2021  
@@ -56,5 +34,31 @@ Both videos show Ningguang with a 100% crit rate from a fully stacked Royal Grim
 **Significance:**  
 Better rotation and team building for Ningguang surrounding setting up buffs for her E and her Q to snapshot.
 
+## Constellation Mechanics
 
+### C2: Shock Effect
+
+#### Ningguang C2 and Sacrificial Passive Interaction
+
+**By:** Terrapin\#8603  
+**Added:** 4/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
+
+**Finding:**
+
+Ningguang's Elemental Skill with her c2 activated has its effect put into cooldown when her E is used and the Sacrificial passive is procced, if the conditions were met to also proc her c2 effect \( Jade Shield present and broken by casting E \)
+
+**Evidence:**
+
+[\[Video\]](https://www.youtube.com/watch?v=xyRlbb1E4Ew)
+
+In the first example in the video, Ningguang's Elemental Skill is cast on an enemy, which procs the Sacrifical passive, resetting the cooldown. Then, it is cast again which destroys the original Jade Shield and procs her c2 effect resetting the cooldown.
+
+In the second example, Ningguang's Elemental Skill is cast without any proc. Then, it is cast again \( with the previous Jade Shield present - destroying it \) proccing the Sacrificial passive, resetting the cooldown. Another cast of the Elemental Skill \( destroying the Jade Shield \) shows that the c2 effect has been put into cooldown, as it does not activate.
+
+In the third example, Ningguang's Elemental Skill is cast without any proc. Then, it is cast again \( with the previous Jade Shield present - destroying it \) proccing the c2 effect and resetting the cooldown. It is cast a third time, which now procs the Sacrificial passive resetting the cooldown again.
+
+**Significance:**
+
+General knowledge on how these mechanics work, in reference to current or future abilities.
 
