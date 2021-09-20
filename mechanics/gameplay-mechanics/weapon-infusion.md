@@ -20,9 +20,9 @@ Infusions apply a 1WU (Weapon gauge Unit) every refresh timing if overrideable. 
 | Kazuha | Elemental Burst / Skill (With C6) | Anemo | Self | Yes | Only on cast |
 | Keqing | Elemental Skill \(With A1 Passive\) | Electro | Self | Yes | Only on cast |
 | Noelle | Elemental Burst | Geo | Self | No | N/A |
+| Raiden | Elemental Burst | Electro | Self | No | N/A |
 | Xiao | Elemental Burst | Anemo | Self | No | N/A |
-
-[comment]: <> (| Yoimiya | Elemental Skill | Pyro | Self | Unknown | Unknown |)
+| Yoimiya | Elemental Skill | Pyro | Self | No | N/A |
 
 # Arrow Infusion  
 
