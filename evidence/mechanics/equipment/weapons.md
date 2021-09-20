@@ -458,7 +458,7 @@ Damage calculation
 
 ### Primordial Jade-Winged Spear
 
-#### **PJWS On Hit Definision**
+#### **PJWS On Hit Definition**
 
 **By:** Vye\#9195  
 **Added:** 04/15/2021
