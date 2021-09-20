@@ -57,8 +57,7 @@ Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, da
 Summons a **"bake-kurage"** created from water that can heal her allies. Using this skill will apply the Wet status to Sangonomiya Kokomi. 
 
 **Bake-Kurage**  
-Deals Hydro DMG to surrounding opponents and heal nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.
-
+Deals Hydro DMG to surrounding opponents and heal nearby active characters once every 2s. This healing is based on Kokomi's Max HP.
 
 | Type | Talent 6% | GU | Particles | Cast Frames |
 | :--- | :--- | :--- | :--- | :--- |
