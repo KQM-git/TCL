@@ -127,17 +127,13 @@ For more information see our page on [poise](mechanics/combat/poise.md).
 
 **Vulnerability** = A modifier that affects the amount of poise damage taken from an attack
 
-## Combo Tech Terms
+## Attack String Notation
 
 Terms used to describe combos, they’re stitched together to describe the string of inputs used to execute a combo.
 
 **C** = Charged Attack
 
 **D** = Dash
-
-\*\*\*\*[**DS** = DougStrike](https://app.gitbook.com/@artesians/s/genshin/mechanics/combat/gameplay-mechanics/dougstrike)
-
-* When a unit hits -&gt; dashes -&gt; jumps -&gt; plunges
 
 **E** = Elemental Skill
 
