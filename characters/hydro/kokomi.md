@@ -97,10 +97,17 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 ## **Ascension Passives**
 
 {% tabs %}
-{% tab title="Passive" %}
+{% tab title="Passive 1" %}
 ### Princess of Watatsumi
 
 Decreases swimming Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
+
+{% endtab %}
+
+{% tab title="Passive 2" %}
+### Flawless Stategy
+
+Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
 
 {% endtab %}
 
