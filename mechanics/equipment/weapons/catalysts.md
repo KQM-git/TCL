@@ -2,10 +2,41 @@
 
 ## 5 Stars
 
+### Everlasting Moonglow
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Byakuya Kougetsu | Healing Bonus increased by **10/12.5/15/17.5/20**%. SNormal Attack DMG is increased by **1/1.5/2/2.5/3**% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s. |
+| Base ATK | 46 - 608 |
+| ATK% | 10.8% - 49.6% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | HP% |
+| :--- | :--- | :--- |
+| 60 | 382 | 36.5 |
+| 60+ | 414 | 36.5 |
+| 65 | 435 | 38.7 |
+| 70 | 457 | 40.9 |
+| 70+ | 488 | 40.9 |
+| 75 | 510 | 43.1 |
+| 80 | 532 | 45.3 |
+| 80+ | 563 | 45.3 |
+| 85 | 586 | 47.4 |
+| 90 | 608 | 49.6 |
+{% endtab %}
+{% endtabs %}
+
 ### Lost Prayer to the Sacred Winds
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Boundless Blessing | Increases Movement SPD by 10%. When in battle, gain an **8/10/12/14/16**% Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat. |
@@ -16,6 +47,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 382 | 24.4 |
@@ -35,6 +67,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Golden Majesty | Increases Shield Strength by **20/25/30/35/40**%. Scoring hits on opponents increases ATK by **4/5/6/7/8**% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%. |
@@ -45,6 +78,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
@@ -64,6 +98,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Wandering Clouds | Increases Elemental DMG Bonus by **12/15/18/21/24**%. Normal Attack hits have a 50% chance to earn the favor of the clouds. which actively seek out nearby opponents to attack for 15s, dealing **160/200/240/280/320**% ATK DMG. Can only occur once every 30s. |
@@ -74,6 +109,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 423 | 24.4 |
@@ -95,6 +131,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Press the Advantage | After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
@@ -106,6 +143,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
@@ -125,6 +163,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Dodoventure! | Normal Attack hits on opponents increase Charged Attack DMG by **16/20/24/28/32**% for 6s. Charged Attack hits on opponents increase ATK by **8/10/12/14/16**% for 6s. |
@@ -133,6 +172,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
@@ -152,6 +192,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Echo | Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **240/270/300/330/360**% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **12/11/10/9/8**s. |
@@ -160,6 +201,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
@@ -179,6 +221,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Clear Particles. Can only occur once every **12/10.5/9/7.5/6**s. |
@@ -190,6 +233,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
@@ -209,6 +253,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
@@ -217,6 +262,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
@@ -236,6 +282,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Sakura Saiguu | After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **10/12.5/15/17.5/20**% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked. |
@@ -246,6 +293,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
@@ -265,6 +313,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Scroll | Triggering an Elemental reaction grants a **8/10/12/14/16**% Elemental DMG Bonus for 10s. Max 2 stacks. |
@@ -273,6 +322,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 361 | 81 |
@@ -292,6 +342,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Gilding | Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
@@ -300,6 +351,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | HP% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
@@ -319,6 +371,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Focus | Upon dealing damage to an opponent, increases CRIT Rate by **8/10/12/14/16**%. Max 5 stacks. A CRIT hit removes all existing stacks. |
@@ -332,6 +385,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
@@ -351,6 +405,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Composed | After dealing damage to an opponent with an Elemental Skill, the skill has a **40/50/60/70/80**% chance to end its own CD. Can only occur once every **30/26/22/19/16**s. |
@@ -362,6 +417,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 293 | 162 |
@@ -381,6 +437,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Solar Shine | Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **20/25/30/35/40%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **20/25/30/35/40%** for 6s. |
@@ -389,6 +446,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
@@ -408,6 +466,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Debut | When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. _Recitative_: ATK is increased by **60/75/90/105/120**%. _Aria_: Increases all Elemental DMG by **48/60/72/84/96**%. _Interlude_: Elemental Mastery is increased by **240/300/360/420/480**. |
@@ -416,6 +475,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
@@ -435,11 +495,28 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Ever-Changing | Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate sprint by **14/16/18/20/22**% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20/25/30/35/40**% for 5s. |
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | ER% |
+| :--- | :--- | :--- |
+| 60 | 361 | 22.6 |
+| 60+ | 387 | 22.6 |
+| 65 | 408 | 23.9 |
+| 70 | 429 | 25.2 |
+| 70+ | 455 | 25.2 |
+| 75 | 476 | 26.6 |
+| 80 | 497 | 27.9 |
+| 80+ | 523 | 27.9 |
+| 85 | 544 | 29.3 |
+| 90 | 565 | 30.6 |
 {% endtab %}
 {% endtabs %}
 
@@ -449,6 +526,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Rapids | Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by **20/25/30/35/40**% for 12s. |
@@ -457,6 +535,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 292 | 69 |
@@ -476,6 +555,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Bane of Storm and Tide | Increases DMG against opponents affected by Hydro or Electro by **12/15/18/21/24**%. |
@@ -484,10 +564,11 @@
 
 * Passive applies to all incoming damage - [Doug\#8888](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../../evidence/mechanics/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-of-passive-applies-for-amplifying-reactions-but-not-transformative-ones)
+* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../../evidence/mechanics/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 234 | 138 |
@@ -507,6 +588,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Energy Shower | Each Elemental Orb or Particle collected restores **1/1.25/1.5/1.75/2**% HP. |
@@ -515,6 +597,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 263 | 28.8 |
@@ -534,6 +617,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Legacy | When switching characters, the new character taking the field has their ATK increased by **24/30/36/42/48**% for 10s. This effect can only occur once every 20s. |
@@ -542,6 +626,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | HP% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
@@ -561,6 +646,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Guerilla Tactic | Defeating an opponent increases Movement SPD and ATK by **12/14/16/18/20**% for 15s. |
@@ -569,6 +655,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 292 | 11.5 |

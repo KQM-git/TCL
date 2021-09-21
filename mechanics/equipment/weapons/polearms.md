@@ -6,6 +6,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Timeless Dream: Eternal Stove | ATK increased by **28/35/42/49/55**% of Energy Recharge over the base 100%. You can gain a maximum bonus of **80/90/100/110/120**% ATK. Gain **30/35/40/45/50**% Energy Recharge for 12s after using an Elemental Burst. |
@@ -17,6 +18,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ER% |
 | :--- | :--- | :--- |
 | 60 | 382 | 40.6 |
@@ -36,6 +38,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Eagle Spear of Justice | On hit, increases ATK by **3.2/3.9/4.6/5.3/6**% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12/15/18/21/24**%.|
@@ -49,6 +52,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 423 | 16.2 |
@@ -68,6 +72,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Blackwing | Increases CRIT Rate by **8/10/12/14/16**% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vaccuum blade that deals **40/55/70/85/100**% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s. |
@@ -76,6 +81,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 423 | 27.1 |
@@ -95,6 +101,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Reckless Cinnabar | HP increased by **20/25/30/35/40**%. Additionally, provides an ATK Bonus based on **0.8/1/1.2/1.4/1.6**% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK bonus is increased by an additional **1/1.2/1.4/1.6/1.8**% of Max HP. |
@@ -103,6 +110,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 382 | 48.7 |
@@ -122,6 +130,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Golden Majesty | Increases Shield Strength by **20/25/30/35/40**%. Scoring hits on opponents increases ATK by **4/5/6/7/8**% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%. |
@@ -130,6 +139,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
@@ -151,6 +161,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Press the Advantage | After defeating an opponent, ATK is increased by **12/15/18/21/24**% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others. |
@@ -162,6 +173,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
@@ -181,6 +193,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Needle | After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional **20/25/30/35/40**% ATK as DMG for 5s |
@@ -189,6 +202,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 25.4 |
@@ -208,6 +222,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Gladiator | If there are at least 2 opponents nearby, ATK is increased by **16/20/24/28/32**% and DEF is increased by **16/20/24/28/32**%. If there are less than 2 opponents nearby, ATK is increased by **24/30/36/42/48**%. |
@@ -216,6 +231,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 293 | 27.1 |
@@ -235,6 +251,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Bane of Flame and Water | Increases DMG against opponents affected by Hydro or Pyro by **20/24/28/32/26%.** |
@@ -247,6 +264,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 293 | 162 |
@@ -266,6 +284,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/95/110/125/140**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
@@ -274,6 +293,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 293 | 50.8 |
@@ -293,6 +313,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Windfall | CRIT hits have a **60/70/80/90/100**% chance to generate a small amount of Clear Particles. Can only occur once every **12/10.5/8/7.5/6**s |
@@ -303,6 +324,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
@@ -322,6 +344,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Samurai Conduct | Increases Elemental Skill DMG by **6/7.6/9/10.5/12**% After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3/3.5/4/4.5/5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field. |
@@ -332,6 +355,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 361 | 81 |
@@ -351,6 +375,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Lithic Axiom - Unity | For every characters who hails from Liyue, the characters who equips this weapon gains **7/8/9/10/11**% ATK increase and a **3/4/5/6/7**% CRIT Rate increase. This effect stacks up to 4 times. |
@@ -359,6 +384,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
@@ -378,6 +404,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Magic Affinity | After using an Elemental Skill, increases Normal and Charged Attack DMG by **8/10/12/14/16**% for 12s. Max 2 stacks. |
@@ -387,6 +414,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
@@ -406,6 +434,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Focus | Upon dealing damage to an opponent, increases CRIT Rate by **8/10/12/14/16**%. Max 5 stacks. A CRIT hit removes all existing stacks. |
@@ -419,6 +448,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
@@ -438,6 +468,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Shanty | Increases Elemental Burst DMG by **16/20/24/28/32**% and Elemental Burst CRIT Rate by **6/7.5/9/10.5/12**%. |
@@ -446,6 +477,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
@@ -467,6 +499,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Bane of the Soft | Increases DMG against slimes by **40/50/60/70/80**%. |
@@ -475,6 +508,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | HP% |
 | :--- | :--- | :--- |
 | 60 | 234 | 34.6 |
@@ -494,6 +528,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Heavy | Normal Attacks deal an additional **160/200/240/280/320**% DMG. Can only occur once every 10s. |
@@ -502,6 +537,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | ATK% |
 | :--- | :--- | :--- |
 | 60 | 292 | 17.3 |
@@ -521,6 +557,7 @@
 
 {% tabs %}
 {% tab title="Description" %}
+
 | Attribute | Description |
 | :--- | :--- |
 | Sharp | Increases Normal Attack DMG by **24/30/36/42/48**%. |
@@ -529,6 +566,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
+
 | Level | Base Atk | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 263 | 17.3 |
