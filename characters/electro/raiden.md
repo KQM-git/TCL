@@ -30,19 +30,21 @@ Performs up to 5 consecutive spear strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 57.63% | 14 | 246.99% |
-| 2-Hit DMG | 57.75% | 31 | 223.32% |
-| 3-Hit DMG | 72.5% | 56 | 201.3% |
-| 4-Hit DMG | 42.13% + 42.13% | 102 | 160.08% |
-| 5-Hit DMG | 95.13% | 151 | 145.94% |
-| Recovery | -- | 172 | -- |
+| 1-Hit DMG | 57.63% | 14 | 246.99%/s |
+| 2-Hit DMG | 57.75% | 31 | 223.32%/s |
+| 3-Hit DMG | 72.5% | 56 | 201.3%/s |
+| 4-Hit DMG | 42.13% + 42.13% | 102 | 160.08%/s |
+| 5-Hit DMG | 95.13% | 151 | 145.94%/s |
+| Recovery | -- | 172 | 128.12%/s |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to perform an upward slash.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 144.75% | 44 | 197.39% |
+| Charged Attack DMG | 144.75% | 44 | -- |
+| N1C | 57.63% + 144.75% | 58 | 209.35%/s |
+| N1C w/Recovery | 57.63% + 144.75% | 75 | 161.9%/s |
 
 * Stamina Cost: 25
 
