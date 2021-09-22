@@ -30,11 +30,11 @@ Performs up to 5 consecutive spear strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 57.63% | 14 | 335.87% |
-| 2-Hit DMG | 57.75% | 31 | 303.70% |
-| 3-Hit DMG | 72.5% | 56 | 273.76% |
-| 4-Hit DMG | 42.13% + 42.13% | 102 | 217.7% |
-| 5-Hit DMG | 95.13% | 151 | 198% |
+| 1-Hit DMG | 57.63% | 14 | 246.99% |
+| 2-Hit DMG | 57.75% | 31 | 223.32% |
+| 3-Hit DMG | 72.5% | 56 | 201.3% |
+| 4-Hit DMG | 42.13% + 42.13% | 102 | 160.08% |
+| 5-Hit DMG | 95.13% | 151 | 145.94% |
 | Recovery | -- | 172 | -- |
 
 **Charged Attacks**  
@@ -42,7 +42,7 @@ Consumes a certain amount of Stamina to perform an upward slash.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 144.75% | 44 | 196.86% |
+| Charged Attack DMG | 144.75% | 44 | 197.39% |
 
 * Stamina Cost: 25
 
@@ -98,7 +98,7 @@ When nearby party members (excluding the Raiden Shogun herself) use their Elemen
 | Cast Frames | 115 |
 | Energy Cost | 90 |
 
-| String | Talent 6% | Frames | 60 resolve MV | MV/s |
+| String | Talent 6% | Frames | 60 resolve MV | MV/s (60 resolve) |
 | :--- | :--- | :--- | :--- | :--- |
 | 1-Hit DMG | 61.51% | 12 | 61.2% | 613.5% |
 | 2-Hit DMG | 60.44% | 32 | 61.2% | 458.1% |
