@@ -30,18 +30,25 @@ Performs up to 3 consecutive attacks that take the form of swimming fish, dealin
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 95.73% | -- | -- |
-| 2-Hit DMG | 86.15% | -- | -- |
-| 3-Hit DMG | 132.03% | -- | -- |
+| 1-Hit DMG | 95.73% | 10 | 574.38%/s |
+| 2-Hit DMG | 86.15% | 36 | 303.13%/s |
+| 3-Hit DMG | 132.03% | 82 | 229.69%/s |
+| Recovery | -- | 122 | 154.38%/s |
+
+* Kokomi's Normal Attacks...
+  * Apply 1A hydro and follow standard ICD (3-hits/2.5s).
+  * Have a range of ~6 tiles before it stops auto-targetting.
+  * Hit in a small AoE.
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 207.65% | -- | -- |
+| Charged Attack DMG | 207.65% | 45 | 276.87% |
 
 * Stamina Cost:  50
+* Kokomis Charged Attack applies 1A hydro and have no ICD.
 
 **Plunge Attacks**  
 Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
@@ -61,19 +68,29 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 
 | Type | Talent 6% | GU | Particles | Cast Frames |
 | :--- | :--- | :--- | :--- | :--- |
-| Ripple DMG | 152.87% | -- | -- | -- | 
+| Ripple DMG | 152.87% | 1A | 0~1 (1:2) | 66 (51 with Dash Cancel) |
 
 | Type | Talent 6% |
 | :--- | :--- |
-| Regeneration | 6.16% Max HP+ 671 |
-| Duration | 12 s |
-| CD | 20 s |
+| Regeneration | 6.16% Max HP + 671 |
+| Duration | 12s |
+| CD | 20s |
+
+* Does a 0~1 (1:2) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field.
+  * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
+* **Bake-Kurage** has no ICD.
+* **Bake-Kurage**'s range has a radius of ~2.5 tiles.
+* Kokomi is limited to one **Bake-Kurage** on-field at a time.
+* **Bake-Kurage** snapshots on **Kurage's Oath** cast and gets resnapshot upon **Nereid's Ascension** procing the duration refresh effect from her Ascension 1.
+* The damage bonus from **Ceremonial Garment** is a dynamic stat and thus does not get snapshot by **Bake-Kurage**.
+
 {% endtab %}
 
 {% tab title="Nereid's Ascension" %}
 The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a **Ceremonial Garment** made from the flowing waters of Sangonomiya. 
 
 **Ceremonial Garment**  
+
 * Sangonomiya Kokomi's Normal Attack, Charged Attack and **Bake-Kurage** DMG are increased based on her Max HP. 
 * When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP. 
 * Increases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.
@@ -86,13 +103,18 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | Normal Attack DMG Bonus | 6.78% Max HP |
 | Charged Attack DMG Bonus | 9.49% Max HP |
 | Bake-Kurage DMG Bonus | 9.93% Max HP |
-| HP Regeneration Per Hit | 1.13% Max HP+ 122 |
-| Duration | 10 s |
-| CD | 18 s |
+| HP Regeneration Per Hit | 1.13% Max HP + 122 |
+| GU | 2B |
+| Cast Frames | 75 |
+| Duration | 10s |
+| CD | 18s |
 | Energy Cost | 70 |
+
+* The DMG Bonus from **Ceremonial Garment** can be extended if an attack is buffered right before her **Nereid's Ascension** duration ends.
+* Kokomi cannot absorb pre-fed particles during her Elemental Burst animation.
+
 {% endtab %}
 {% endtabs %}
-
 
 ## **Ascension Passives**
 
@@ -116,12 +138,16 @@ Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
 
 If Sangonomiya Kokomi's own **Bake-Kurage** are on the field when she uses **Nereid's Ascension**, the **Bake-Kurage**'s duration will be refreshed.
 
+* The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill"
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Song of Pearls
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.
+
+* The effects of **Song of Pearls** cannot get extended by buffering an attack right before her Burst duration ends.
 
 {% endtab %}
 {% endtabs %}
@@ -132,7 +158,10 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the 
 {% tab title="C1" %}
 ### At Water's Edge
 
-While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as Hydro DMG. This DMG is not considered Normal Attack DMG.
+While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a **Swimming Fish** to deal 30% of her Max HP as Hydro DMG. This DMG is not considered Normal Attack DMG.
+
+* The **Swimming Fish** from **At Water's Edge** shares ICD with her NA string.
+
 {% endtab %}
 
 {% tab title="C2" %}
