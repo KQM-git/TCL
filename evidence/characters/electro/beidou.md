@@ -72,6 +72,31 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 
 **Significance:** This makes Beidou's particle production way easier to count.
 
+## Burst Mechanics
+
+### Beidou's Q snapshot timing
+
+**By:** EdisonsMathsClub#6469  
+**Added:** 09/22/2020  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888775921845280788/890112499628777532/transcript-beidou-q-snapshot-timing.html)
+
+**Finding:**  
+Beidou's Elemental Burst, Skill DMG and Lightning DMG, snapshot at different timings.
+
+**Evidence:**  
+Test timings of Beidou's Burst inside Bennett ultimate, both intentionally waiting for the Bennett ATK Buff and casting Burst, and intentionally quick swapping to not snapshot the Bennett ATK Buff and casting burst.
+
+[Youtube](https://www.youtube.com/watch?v=g14YmgMUzv0): Snapshot, Skill DMG 16921, Lightning DMG 13359
+
+[Youtube](https://www.youtube.com/watch?v=2DPqbdoxX8I): No snapshot, Skill DMG 16444, Lightning DMG 8906  
+(The difference of the Skill DMG is due to losing 1 stack of Serpent Spine.)
+
+In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has the Bennett ATK Buff. However in the no snapshot clip, as Beidou's Lightning DMG snapshots instantly on cast, and thus, the no snapshot clip has less Lightning DMG.  
+
+**Significance:**  
+In the dire circumstance that you cast Beidou's Elemental Burst too fast to snapshot the Lightning DMG, you still salvage some damage as the Skill DMG snapshots later. It is still best to wait for the buffs to appear, to buff both Skill and Lighting DMG.
+
+
 ## Constellation Mechanics
 
 ### C4: Stunning Revenge
@@ -97,7 +122,7 @@ Beidou’s C4 is mistranslated:
 
 C4 is not anti-synergistic with all her charged attack bonuses, as one would assume from the description.
 
-### Beidou C4 Gauge
+#### Beidou C4 Gauge
 
 **By:** Bobrokrot\#0111  
 **Added** 6/3/2021  
@@ -107,7 +132,7 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 
 **Evidence:** [https://youtu.be/nBGPVp0160I](https://youtu.be/nBGPVp0160I)
 
-### Beidou C4 damage
+#### Beidou C4 damage
 
 **By:** elijam#7142  
 **Added** 08/07/2021  
@@ -124,7 +149,7 @@ Damage is consistent with and without 2NO bonus - [VIdeo](https://www.youtube.co
 **Significance:**  
 Damage calculations for Beidou.
 
-### Beidou C4 is on hit not damage
+#### Beidou C4 is on hit not damage
 
 **By:** Bobrokrot#0111  
 **Added** 09/10/2021  
@@ -237,27 +262,4 @@ Beidou's Q snapshot happens before gaining the bonus from Unforged's shield effe
 **Evidence**:
 
 * [snapshot base](https://imgur.com/q2nusx7)
-
 * [shield snapshot difference](https://imgur.com/N4EN8xP)
-
-### Beidou's Q snapshot timing
-
-**By:** EdisonsMathsClub#6469  
-**Added:** 09/22/2020  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888775921845280788/890112499628777532/transcript-beidou-q-snapshot-timing.html)
-
-**Finding:**  
-Beidou's Elemental Burst, Skill DMG and Lightning DMG, snapshot at different timings.
-
-**Evidence:**  
-Test timings of Beidou's Burst inside Bennett ultimate, both intentionally waiting for the Bennett ATK Buff and casting Burst, and intentionally quick swapping to not snapshot the Bennett ATK Buff and casting burst.
-
-[Youtube](https://www.youtube.com/watch?v=g14YmgMUzv0): Snapshot, Skill DMG 16921, Lightning DMG 13359
-
-[Youtube](https://www.youtube.com/watch?v=2DPqbdoxX8I): No snapshot, Skill DMG 16444, Lightning DMG 8906  
-(The difference of the Skill DMG is due to losing 1 stack of Serpent Spine.)
-
-In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has the Bennett ATK Buff. However in the no snapshot clip, as Beidou's Lightning DMG snapshots instantly on cast, and thus, the no snapshot clip has less Lightning DMG.  
-
-**Significance:**  
-In the dire circumstance that you cast Beidou's Elemental Burst too fast to snapshot the Lightning DMG, you still salvage some damage as the Skill DMG snapshots later. It is still best to wait for the buffs to appear, to buff both Skill and Lighting DMG.
