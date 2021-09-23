@@ -337,6 +337,48 @@ With an excessive amount of hydro application and a lot of hitlag, 4 electro cha
 This is not expected by the current Elemental Gauge Theory. EGT currently states that: "*Each tick of EC consumes 0.4GU from both Hydro and Electro gauges.*"  
 The amount of Electro gauge should therefore not be enough to support 4 ticks of EC. Thus, this is either a bug, or EC has additional mechanics that we are unaware of. This finding is similar to [How Hitlag affects EC](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#how-hitlag-affects-ec). Though, it notably shows that the bug may be based both on hitlag as well as another factor, as one of the triple EC ticks (still strange) is done without hitlag (Lisa and orbitals and melody loop).
 
+### Electro-Charged ticks are not affected by hitlag
+
+**By:** BowlSoldier#3528  
+**Added:** 09/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887433546665447454/890108328393465876/transcript-electrocharged-ticks-ignore-hitlag.html)
+
+**Finding:**  
+Electrocharged ticks are not affected by hitlag, and happen every 60 frames. The actual Electro and Hydro auras' decay rates, however, are affected by hitlag. Therefore causing lots of hitlag during Electrocharged effectively reduces the decay rate of the elements.
+
+**Evidence:**  
+[Video](https://youtu.be/CCTZ21dpV_E): 2B Duration with no hitlag: 728 frames
+
+[Video](https://youtu.be/uDmnx3mGaH0): 2B Duration with 3 Beidou Normal's hitlag: 749 frames  
+Hitlag extension: 21 frames
+
+[Video](https://youtu.be/Zj_dfxLKnB4): EC Tick timing with no hitlag  
+1288 (1st tick's damage text is always late to appear)  
+1343  
+1404  
+1465
+
+[Video](https://youtu.be/qaJuHyAUZcU): EC Tick timing with 3 Beidou Normal's hitlag  
+1518  
+1572  
+1633  
+1695
+
+[Video](https://youtu.be/dgexv45RicM): EC Tick timing with Xiangling hitlag, for maximum hitlag  
+1152  
+1209  
+1269  
+1329  
+1389
+
+All EC ticks, in cases with and without hitlag, were either exactly 60 frames apart, or 1 or 2 frames late at most. While the Aura duration with a similar amount of hitlag in the Beidou case was a whole 21 frames late. The Xiangling case should have had even more hitlag.
+
+This seems like an extension of the TCL finding that Deployables' attack speed, duration etc are not affected by hitlag. EC is not caused directly by your character, it's almost like a deployable damage source attached to the enemy, so it appears to follow similar rules.
+
+**Significance:**  
+You can extend the duration of auras involved in EC by using hitlag. This also technically improves the DPS of EC comps very slightly, as even if your character's DPS slows down slightly due to hitlag, EC continues to damage the enemy at the same rate.  
+However keep in mind the limiting factor for EC is usually the reduction per-tick, not the duration of the involved auras. Also, most EC teams apply more Electro and Hydro than they need to maintain Electrocharged, and so never require the additional tick.
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
