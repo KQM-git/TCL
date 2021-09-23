@@ -92,6 +92,21 @@ XQ E dash cancel is faster than ult cancelling.
 
 Dash to swap is faster since it takes longer without a cancel to swap.
 
+### Xingqiu actual Rain Sword ICD
+
+**By:** Tsym#2586  
+**Added:** 09/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885155355020120134/890115391370698782/transcript-xingqiu-orbital-icd.html)
+
+**Finding:**  
+Xingqiu Orbital ICD is 2.25 Seconds
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/jRSkvwh): Swirl goes off at 00:56, 03:11, and 05:27
+
+**Significance:**  
+Better knowledge for teambuilding and rotations.
+
 ## Burst Mechanics 
 
 ### **Xingqiu's Q Damage Calculation is Dynamic**
@@ -165,18 +180,3 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 [https://www.youtube.com/watch?v=Mgbi6X0TTxM](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
 
 **Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
-
-### Xingqiu actual Rain Sword ICD
-
-**By:** Tsym#2586  
-**Added:** 09/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885155355020120134/890115391370698782/transcript-xingqiu-orbital-icd.html)
-
-**Finding:**  
-Xingqiu Orbital ICD is 2.25 Seconds
-
-**Evidence:**  
-[Imgur](https://imgur.com/a/jRSkvwh): Swirl goes off at 00:56, 03:11, and 05:27
-
-**Significance:**  
-Better knowledge for teambuilding and rotations.
