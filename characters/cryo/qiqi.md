@@ -101,9 +101,9 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 | Frames | 112 |
 | MV/s | 213.6%/s |
 
-* Qiqi's **Talisman** will heal characters attacking the target to which the talisman is applied as long as the damage dealt to the target is **BOTH**
-  * based on the attacking character's stats
-  * dealt by a character which is currently on-field
+* **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.
+  * The healing scales off Qiqi's ATK, not the active character's ATK.
+  * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
   
 {% endtab %}
 {% endtabs %}

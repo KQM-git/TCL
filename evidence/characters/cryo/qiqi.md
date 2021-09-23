@@ -30,6 +30,26 @@ Qiqi's Talisman will heal characters attacking the target to which the talisman 
 
 Shows how Qiqi's talisman interacts with sources of damage.
 
+### Talisman Does Not Snapshot
+
+**By:** Dooners#6709  
+**Added:** 09/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889381442432409630/890102971847815228/transcript-qiqi-talisman-healing-doesnt-snapshot.html)
+
+**Finding:**  
+Qiqi healing from applying talisman is dynamically based on current atk, and cannot snapshot atk buffs
+
+**Evidence:**  
+Qiqi baseline healing: [Youtube](https://www.youtube.com/watch?v=gIx8FpS2BIM)  
+Qiqi buffed healing amount (Sara feather): [Youtube](https://www.youtube.com/watch?v=dzanV9B5Xjs)
+
+Unbuffed: 2598 hp healed  
+Buffed by Sara: 3365 hp healed  
+Buffed and wait for bonus to wear off: 2598 hp healed
+
+**Significance:**  
+The timing of applying the talisman does not matter at all, all that matters is how much atk your character has when hitting the enemy
+
 ## Calculations/Resources
 
 ### Qiqi driver frame counting
