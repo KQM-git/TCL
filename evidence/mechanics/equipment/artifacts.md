@@ -1,5 +1,9 @@
 # Artifacts
 
+**Main Page:**
+
+{% page-ref page="../../../mechanics/equipment/artifacts.md" %}
+
 ## Archaic Petra
 
 ### Geovishap Hatchling Shields with 4 Petra
@@ -307,6 +311,29 @@ Healing bonus of 30.8%
 Ningguang was used due to her low burst energy cost \(40\)
 
 Above numbers have being subtracted from 150 \(started with that hp before healing\)
+
+## Noblesse Oblige
+
+### Self 4NO Interactions
+
+**By:** gtrain#9987  
+**Added:** 09/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876190240774172692/890105896015912960/transcript-self-4no-interactions.html)
+
+**Finding:**  
+Documentation for all units on whether their own 4no set affects their burst.
+
+* Previously known inconsistencies: Beidou, Ningguang
+* Newly documented as inconsistent: AMC, Sayu, Aloy
+* Does not receive 4NO: Ganyu
+
+Non snapshot units are still tested to see if the buff applies in time for the first instance of damage from their burst (like Eula, Keq), since there are other on-burst effects, like MSR, that do not consistently apply in time.
+
+**Evidence:**  
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1jhIP3C6B16nL1unX9DL_-LhSNaOy_wwhdr29pzikpcg/edit#gid=0)
+
+**Significance:**  
+Whether you should run 4NO.
 
 ## Pale Flame
 
