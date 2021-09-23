@@ -92,6 +92,7 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 * Increases active character’s resistance to interruption and decreases DMG taken.
 * A maximum of 1 lightning **discharge** can be triggered per second.
 * Snapshot on cast.
+  * However, if you swap to Beidou and cast her Burst too quick (Left Alt + Switch Character), her Lightning DMG might fail to snapshot certain buffs.
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
