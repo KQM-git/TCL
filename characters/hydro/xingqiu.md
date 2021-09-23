@@ -63,7 +63,7 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
   * The DMG Reduction does not take the Hydro DMG% bonus gained from Kazuha's A4 into account.
   * Increases active character’s resistance to interruption.
   * The initial maximum number of **Rain Swords** is 3.
-  * **Rain Sword** orbitals apply Hydro to surrounding enemies once every 2.5s.
+  * **Rain Sword** orbitals apply Hydro to surrounding enemies once every 2.25s.
 * Using this ability applies a very brief 1U Hydro aura onto the character.
 
 | Type | Talent 6% |

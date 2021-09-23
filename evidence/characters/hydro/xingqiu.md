@@ -22,21 +22,6 @@ There are 2 methods of doing it. You can use Xiangling’s E and time it on Goub
 
 For one-shot \(or two-shot\) compilations, although I’m not sure if this team comp is better since you will lose Barbara’s E buff.
 
-### Xingqiu Rain Sword ICD
-
-**By:** Ayzel\#7399  
-**Added:** 5/6/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838993375709364224/840057546563256340/transcript-xingqiu-rain-sword-icd.html)
-
-**Finding:**  
-The hydro application of Xingqiu's orbital rain swords has an ICD of 2.5 seconds.
-
-**Evidence:**  
-[Rain sword triggers swirl](https://youtu.be/k2f2aAR4AS4) at 5:11, 7:41, 10:10 and also at 58:03, 1:00:32, 1:03:01, and 1:05:30
-
-**Significance:**  
-Better knowledge for teambuilding and rotations.
-
 ### Xingqiu Rain Sword DMG Reduction is a conferrable attribute
 
 **By:** elijam#7142  
@@ -181,9 +166,17 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
 
+### Xingqiu actual Rain Sword ICD
 
+**By:** Tsym#2586  
+**Added:** 09/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885155355020120134/890115391370698782/transcript-xingqiu-orbital-icd.html)
 
+**Finding:**  
+Xingqiu Orbital ICD is 2.25 Seconds
 
+**Evidence:**  
+[Imgur](https://imgur.com/a/jRSkvwh): Swirl goes off at 00:56, 03:11, and 05:27
 
-
-
+**Significance:**  
+Better knowledge for teambuilding and rotations.
