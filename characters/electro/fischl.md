@@ -201,7 +201,7 @@ Increases the level of **Nightrider** by 3.
 {% tab title="C4" %}
 ### Her Pilgrimage of Bleak
 
-When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Elecro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
+When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
 
 | Type | Talent 6% |
 | :--- | :--- |
