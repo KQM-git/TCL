@@ -297,3 +297,18 @@ Does not trigger on (probably entire "Other" category)
 
 **Significance:**  
 Wildlife that act as an interactable item pick-up (material sources) behave differently from  wildlife that drop items (birds and beasts).
+
+## Use any expressions you want in Photo Mode  
+
+**By:** ZyronX#2720  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888535890190811136/891152940641951785/transcript-use-different-expressions-in-photo-mode.html)
+
+**Finding:**  
+In high ping environment, switching character take some amount of time. Assuming you switch from A to B. If you use switching duration to enter photo mode, you can use expressions from character A on character B.
+
+**Evidence:**  
+[Video](https://youtu.be/Vrq68dozj3k)
+
+**Significance:**  
+Smiling Ei UwU

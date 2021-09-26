@@ -34,6 +34,9 @@ description: For entries that have little practical use.
 
 * Sacrificial Weapons' passives and the 4pc Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
 
+## Photo Mode
+
+* If you switch from character A to character B in a high-ping environment, then immediately enter Photo Mode, you can use expressions from character A on character B.
 
 ## Evidence Vault
 
