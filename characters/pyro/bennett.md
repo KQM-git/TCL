@@ -121,16 +121,18 @@ When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
 {% tab title="Ascension 1" %}
 ### Rekindle
 
-Decrease passion overload’s cooldown by 20%.
+Decrease **Passion Overload**’s cooldown by 20%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Fearnaught
 
-Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes the following effects:
+Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Overload** takes the following effects:
 
 * CD is reduced by 50%
-* Bennett will not be launched by the explosion of Passion Overload: Charge Level 2.
+* Bennett will not be launched by the explosion of **Passion Overload**: Charge Level 2.
+* This effect is tied to Bennett's Attack Bonus, not the field itself.  
+
 {% endtab %}
 {% endtabs %}
 
@@ -140,7 +142,7 @@ Within the Inspiration Field created by Fantastic Voyage, Passion Overload takes
 {% tab title="C1" %}
 ### Grand Expectation
 
-Fantastic Voyage’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
+**Fantastic Voyage**’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -152,29 +154,30 @@ When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.
 {% tab title="C3" %}
 ### Unstoppable Fervor
 
-Increases the level of Passion Overload by 3.
+Increases the level of **Passion Overload** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Unexpected Odyssey
 
-Using a Normal Attack when executing the second attack of Passion Overload’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
+Using a Normal Attack when executing the second attack of **Passion Overload**’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
 | Attack | Talent 6% | Talent 9% | GUs |
 | :--- | :--- | :--- | :--- |
 | Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 142.8% + 156.4% + 211.14% | 3 \* 1A |
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### True Explorer
 
-Increases the Level of Fantastic Voyage by 3.
+Increases the Level of **Fantastic Voyage** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Fire Ventures with Me
 
-Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
+Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
 
 * Pyro Infusion lasts 2 seconds upon leaving **Inspiration Field**.
 * The Pyro DMG bonus will apply to the Fantastic Voyage damage.
