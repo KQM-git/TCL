@@ -78,6 +78,7 @@ Creates an illusory **Phantom of Fate** with the following special properties:
 Mona dashes backwards before placing a **Phantom of Fate** down.
 
 * Only one **Phantom** created by **Mirror Reflection of Doom** can exist at any time.
+* Mona's Holding version of **Mirror Reflection of Doom** has invincibility frames that can be utilized for dodging.
 
 | **Type** | **Talent 6%** | Frames | MV/s | **GU** | Particles |
 | :--- | :--- | :--- | :--- | :--- | :--- |

@@ -72,6 +72,25 @@ Mona's E gens 3 or 4 Hydro particles on explosion, seemingly weighted towards 3 
 
 The fact that Mona's particle gen is seemingly random means there's an RNG aspect to getting her ult up consistently too. May warrant further testing on other characters to see if other fluctuations in particle gen exists. May need to test whether the particle generation is truly random or if there is a pattern.
 
+### Mona Hold E has iframes
+
+**By:** Mcpie#8672  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890797348635156531/891163963356758086/transcript-mona-hold-e-iframe.html)
+
+**Finding:**  
+Mona hold E has iframes.
+
+**Evidence:**  
+[Imgur](https://i.imgur.com/3oln5zw.mp4)
+
+***Extra findings by BowTae#0141:***  
+Oddly enough, dodging with mona hold E will still have auras applied to her: [Imgur](https://imgur.com/QZ9laRu)  
+Also strangely, you can sometimes take knockback but no damage: [Imgur](https://imgur.com/pIFiaBt)
+
+**Significance:**  
+Utilizing for dodging.
+
 ## Burst Mechanics
 
 ### **Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?**
