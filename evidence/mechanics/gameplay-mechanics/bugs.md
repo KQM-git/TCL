@@ -305,6 +305,21 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 * These stacks can be maintained in the open world, so if you want to do something like kill the cryo regisvine in 4 seconds you can do that
 * You have to press M and then P in quick succession, because you can't abandon challenge in the map so you have to buffer it by pushing M and then P quickly[ ](https://youtu.be/V9_AoUDVKaY)
 
+### Artifact Inventory size affects Wishing
+
+**By:** George#0766  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890023724240216064/891163055684223016/transcript-artifact-inventory-size.html)
+
+**Finding:**  
+If your artifact inventory is near full (993/1000 in this case) you get an "No space left in inventory" when trying to 10-pull
+
+**Evidence:**  
+[Video](https://youtu.be/toy57DZwUhA): Skip to 1:40 after the beginning to see that 10-pulls are allowed after clearing up space
+
+**Significance:**  
+This check already exists if you try to collect artifacts with a near full inventory, wishes may operate similarly or this could just be a bug.
+
 ## Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  

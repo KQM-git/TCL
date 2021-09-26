@@ -58,19 +58,21 @@ High ping interactions include:
 
 ## Artifacts
 
-The 4pc 4NO Bonus will not apply to Beidou, Ningguang, and Ganyu's burst as a result of their casting
+There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not.
 
 ## Miscellaneous
 
-[Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
+* [Energy Particles don't stop moving even when you open a pause menu](../../evidence/mechanics/gameplay-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
-[Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
+* [Xiangling's Burst can stack](../../evidence/mechanics/gameplay-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
 
-Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
+* Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
-Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-e-hold-visual-error).
+* Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../../evidence/mechanics/gameplay-mechanics/bugs.md#venti-e-hold-visual-error).
 
-[There is a small chance](https://github.com/Artesians/TCL/tree/14d0edebfb20fa9816c82c2409020f8361f52c5a/evidence/mechanics/mona-elemental-skill-bug/README.md) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+* [There is a small chance](https://github.com/Artesians/TCL/tree/14d0edebfb20fa9816c82c2409020f8361f52c5a/evidence/mechanics/mona-elemental-skill-bug/README.md) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+
+* If your Artifact Inventory is near full (from 990/1000), you'll get an "No space left in Inventory" when trying to do a Wish X10.
 
 ## Fixed Bugs
 
