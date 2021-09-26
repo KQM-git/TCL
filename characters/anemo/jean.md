@@ -138,7 +138,7 @@ Increases the pulling speed of **Gale Blade** after holding for more than 1s, an
 
 When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
 
-* This buff stacks but exact details are not currently tested.
+* This buff does not stack with itself.
 {% endtab %}
 
 {% tab title="C3" %}
