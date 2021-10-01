@@ -4,25 +4,9 @@
 
 {% page-ref page="../../../characters/pyro/klee.md" %}
 
-## Klee Burst Waves Mechanics
+## Skill Mechanics
 
-**By:** Ayzel\#7399  
-**Added:** 6/11/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851923227819114496/852776649149513748/transcript-klee-burst-mechanics.html)
-
-**Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
-
-**Evidence:**
-
-1] youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
-
-2] datamine evidence, showing that 3 hits have a 100% chance, one wave has a 50% chance, and another wave has a 30% chance: [https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320)
-
-3] some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
-
-**Significance:** Explanining how Klee's burst works
-
-## Klee Mine ICD
+### Klee Mine ICD
 
 **By:** Sakuno\#7950 and Steph\#3614  
 **Added:** 03/16/2021
@@ -84,7 +68,43 @@ Both of these conditions lines up with the current ICD theory.
 **Significance:**  
 Klee's jumpty dumpty's split mine might steal some reactions away from Klee's normal string by activating the timer and hit count before normal string lands, or it might also allow Klee to do more reaction using her normal strings by advancing the counter number.
 
-## Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
+## Burst Mechanics
+
+### Klee’s Q is snapshotted on Cast
+
+**By:** stellar\#7066  
+**Added:** 12/7/2020
+
+**Finding:**  
+Klee's burst \(Q\) is snapshotted.
+
+**Evidence:**  
+[https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
+
+**Significance:**  
+You can leave Bennett Q after using Klee burst and you also keep other atk% buffs that were enabled before Klee burst.
+
+### Klee Burst Waves Mechanics
+
+**By:** Ayzel\#7399  
+**Added:** 6/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851923227819114496/852776649149513748/transcript-klee-burst-mechanics.html)
+
+**Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
+
+**Evidence:**
+
+1] youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
+
+2] datamine evidence, showing that 3 hits have a 100% chance, one wave has a 50% chance, and another wave has a 30% chance: [https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Klee.json#L2320)
+
+3] some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
+
+**Significance:** Explanining how Klee's burst works
+
+## Ascension Mechanics
+
+### Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
 
 **By:** fid\#6253  
 **Added:** 12/22/2020  
@@ -109,39 +129,9 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 * Klee Charge Attack
 * Repeat.
 
-## Klee’s Q is snapshotted on Cast
+## Constellation Mechanics
 
-**By:** stellar\#7066  
-**Added:** 12/7/2020
-
-**Finding:**  
-Klee's burst \(Q\) is snapshotted.
-
-**Evidence:**  
-[https://imgur.com/a/8TQUkYU](https://imgur.com/a/8TQUkYU)
-
-**Significance:**  
-You can leave Bennett Q after using Klee burst and you also keep other atk% buffs that were enabled before Klee burst.
-
-
-## How does 2 set Noblesse Oblige interact with C1 Klee?
-
-**By:** fin\#1623  
-**Added:** 12/6/2020
-
-**Theory:**  
-Does Noblesse affect Klee's c1 procs.
-
-**Finding:**  
-Yes they do.
-
-**Evidence:**  
-[https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
-
-**Significance:**  
-2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
-
-## Klee C4 damage
+### Klee C4 damage
 
 **By:** elijam#7142  
 **Added:** 08/07/2021  
@@ -158,7 +148,53 @@ No further tests were done given that it is highly unlikely that Klee’s C4 dam
 **Significance:**  
 Damage calculations for Klee.
 
-## Klee 4CW 3 stacks
+### Klee C6 mechanics
+
+**By:** solo#3333  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887165577691529226/891209626396266516/transcript-klee-c6-mechanics.html)  
+ 
+**Finding:**  
+- Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).  
+- Klee C6 does snapshot to her own burst, unlike Xiangling.
+
+**Evidence:**  
+No stack: [Imgur](https://imgur.com/i7yYGwi)  
+Damage calc for burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set bonus 2pc proof: [Imgur](https://imgur.com/Xn6WOqq))  
+(damage screenshot 1277 - [Imgur](https://imgur.com/MqMJuFV)
+
+869 * 1.588 * 0.5 * 0.9 * 2.681 * .768 = 1278.61 (rounding error in game?)  
+869 = attack  
+1.588 = damage bonus (ascension + c6 active + noblesse 2pc)  
+0.5 = enemy defense multiplier  
+0.9 = enemy resist multiplier  
+2.681 = crit  
+.768 = burst lvl 10
+
+**Significance:**  
+No value in chain casting burst shenanigans, and Klee C6 does apply to her own burst despite some people saying otherwise. 
+
+
+## Synergies/Interactions
+
+### How does 2 set Noblesse Oblige interact with C1 Klee?
+
+**By:** fin\#1623  
+**Added:** 12/6/2020
+
+**Theory:**  
+Does Noblesse affect Klee's c1 procs.
+
+**Finding:**  
+Yes they do.
+
+**Evidence:**  
+[https://youtu.be/VM6uiOfE8z4](https://youtu.be/VM6uiOfE8z4)
+
+**Significance:**  
+2NO + 2 witch might be a viable set for an at least C1 Klee and makes animation cancelling more worth it as it triggers \(Klee’s C1\) by AAing and skills.
+
+### Klee 4CW 3 stacks
 
 **By:** solo#3333  
 **Added:** 09/17/2021  

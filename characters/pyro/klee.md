@@ -172,6 +172,9 @@ Increases the Level of Sparks 'n' Splash by 3.
 ### Blazing Delight
 
 While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy. When Sparks 'n' Splash is used, all party members will gain a 10% Pyro DMG Bonus for 25s.
+
+* Blazing Delight does not stack with itself.
+* Blazing Deligh can snapshot Klee's own Elemental Burst. 
 {% endtab %}
 {% endtabs %}
 
