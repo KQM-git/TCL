@@ -66,3 +66,36 @@
 * If entities are connected (like crystalflies), then picking them up will always scare the others - [Mcpie#8672](https://i.imgur.com/wjFjETt.mp4)
 * If entities do not care about the state of other beings, then picking it up next to another one won't startle them - [Mcpie#8672](https://i.imgur.com/xUpatkg.mp4)
 * Sayu's passive does not affect coop members - works only for your own party - [Mcpie#8672](https://i.imgur.com/i41t4tD.mp4)
+
+### Constellation Mechanics
+
+#### Sayu C2 infused kick
+
+**By:** drunkamphy#7487  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881438570236235786/891207395609554995/transcript-sayu-ball-c2-infused-kick.html)
+
+**Finding:**  
+The stated DMG increase of Fuufuu Whirlwind Kick from Sayu's C2 increases both Anemo Kick Hold DMG and Absorbed Element Kick DMG, by 3.3% every .5s tick
+
+**Evidence:**  
+Using a Sayu with 80/80 r1 Sac GS, no artifacts (713 atk, 72 em), talent level 1 skill
+
+In the first video, Sayu rolls at 24s, kicks at 26s, and the resulting ~2s roll deals 752 anemo and 263 pyro.  
+In the second video, Sayu rolls at 8s, kicks at 18s, and the resulting ~max length roll deals 1137 anemo and 398 pyro.
+
+Rough napkin maths:  
+base anemo hold kick dmg: 716  
+base absorbed element kick dmg: 251
+
+2 roll ticks anemo hold kick dmg: 716 * (1 + 2 * 0.033) = 763  
+2 roll ticks abs elem kick dmg: 251 * (1 + 2 * 0.033) = 267
+
+20 roll ticks anemo hold kick dmg: 716 * (1 + 20 * 0.033) = 1188  
+20 roll ticks abs elem kick dmg: 251 * (1 + 20 * 0.033) = 416
+
+[Video](https://www.youtube.com/watch?v=EeB9czD78KQ)  
+[Video](https://www.youtube.com/watch?v=-nyGLWR1pA0)
+
+**Significance:**  
+Wording clarification.

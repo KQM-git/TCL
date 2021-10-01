@@ -159,9 +159,10 @@ The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** will ignore HP
 ### Egress Prep
 
 **Yoohoo Art: Fuuin Dash** gains the following effects: 
-
 * DMG of **Fuufuu Whirlwind Kick** in Press Mode increased by 3.3%. 
 * Every 0.5s in the **Fuufuu Windwheel** state will increase the DMG of this **Fuufuu Whirlwind Kick** by 3.3%. The maximum DMG increase possible through this method is 66%.
+
+* The DMG increase of **Fuufuu Whirlwind Kick** from **Egress Prep** increases both **Fuufuu Whirlwind Kick Hold DMG** and **Fuufuu Whirlwind Kick Elemental DMG**.
 {% endtab %}
 
 {% tab title="C3" %}
