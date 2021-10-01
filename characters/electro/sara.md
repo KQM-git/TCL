@@ -80,6 +80,7 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 * **Crowfeather** has a "semi-taunt" mechanic, where it can draw enemy attention even while not in combat mode.
 * The hitbox to gain an ATK buff from **Tengu Juurai: Ambush** is massive vertically.
 * The damage hitbox of **Tengu Juurai: Ambush** is different from the hitbox to gain an ATK Buff.
+* **Tengu Juurai: Ambush** is a unique "friendly fire" attack and can trigger several other characters's perks that require getting hit.
 
 {% endtab %}
 

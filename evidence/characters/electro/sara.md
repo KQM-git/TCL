@@ -46,6 +46,34 @@
   * [Imgur](https://imgur.com/a/VLtVaOd): does not trigger enemy aggro/combat mode if sara's initial charged shot does not hit an opponent
   * [Imgur](https://imgur.com/a/x227kWK): the range from which you can trigger enemy aggro (and enter combat mode) with crowfeather is different from a regular charged shot
 
+### Crow feather interactions
+
+**By:** George#0766  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884708643151446026/891204580174610442/transcript-sara-feather-interaction-with-on-damage-effects.html)
+
+**Finding:**  
+Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what skills care about being hit versus what skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
+
+**Evidence:**  
+Does trigger:  
+- Diluc C2 and Beidou C4  even with shield on. Diluc vids: [Youtube](https://youtu.be/Xgh6EvQGX_k), Beidou vids: [Imgur](https://imgur.com/a/VwD3jNS)  
+- Zhongli A1 talent: [Imgur](https://imgur.com/a/VwD3jNS)
+
+Doesn't trigger:  
+- Serpent Spine: [Imgur](https://imgur.com/YVFJnqI)  
+- Beidou parry: [Imgur](https://imgur.com/Fsh9oii)  
+- Aquila: [Imgur](https://imgur.com/yAJWPC2)  
+- The Bell: [Imgur](https://imgur.com/JtILNvC)  
+- XQ rainswords: [Imgur](https://imgur.com/a/I64v06w)  
+- Noelle A1: [Youtube](https://youtu.be/BgT_gpg288o)
+
+Unknown:  
+Alley flash
+
+**Significance:**  
+Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what skills are actually on hit vs. taking damage.
+
 ### Burst Mechanics
 
 * For Sara's ATK buff to apply on burst, a character has to be in a radius of the initial hit equal to the range of the Stormcluster hits. - Bobrokrot#0111
