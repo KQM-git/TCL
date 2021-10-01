@@ -98,6 +98,9 @@ Zhongli channels for 2 seconds causing the following effects:
 | GU | 1 |
 | Press Frames | 39 |
 | Hold Frames | 97 |
+
+* Resonation can overlap to deal multiple instances of damage
+* Steles resonate independently and do not resonate with each other
 {% endtab %}
 
 {% tab title="Planet Befall" %}
@@ -155,6 +158,8 @@ Zhongli deals bonus DMG based on his Max HP:
 ### Rock, the Backbone of Earth
 
 Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that may exist simultaneously to 2.
+
+* Steles resonate independently and do not resonate with each other
 {% endtab %}
 
 {% tab title="C2" %}

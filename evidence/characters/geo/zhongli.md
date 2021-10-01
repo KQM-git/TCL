@@ -4,6 +4,34 @@
 
 {% page-ref page="../../../characters/geo/zhongli.md" %}
 
+## Skill Mechanics
+
+### Construct Resonance Mechanics
+
+**By:** TunaPotato\#9114  
+**Added:** 9/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891048091225038888/891127648288383026/transcript-zhongli-pillar-mechanics.html)
+
+**Finding 1:**  
+Construct resonance hits as many times as there are constructs
+
+**Evidence:**  
+[Video:](https://youtu.be/6mUqRTjVgBE) With 1 Stele and 2 geo constructs, there are 3 instances of geo damage on the ruin guard per pulse
+
+**Significance:**  
+The greater the number of geo constructs on the field the more damage resonance will deal (of course counting on the fact that each resonance hits the target)
+
+**Finding 2:**  
+The resonance produced by each Stele is independant of each other
+
+**Evidence**  
+This was tested using two steles and one geo construct. As can be seen clearly from the [targetless example](https://youtu.be/5tU76Qn7V_U), the geo construct pulses twice in 2s - once for each steele.
+This is further shown in the [example with a target](https://youtu.be/naC-dy0jECw). There are two Steles present, A and B as well as one geo construct C. As shown, the pulses AC and BC hit separately in a 2s window, each doing two instances of damage for a total of 4 instances of damage in 2s.
+
+**Significance:**  
+This shows that with c1 Zhongli or during co-op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one seele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
+In other words having two pillars from c1 will double the damage from resonance
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
@@ -124,4 +152,3 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 **Significance:**  
 This make triggering the 4pc ToM passive easier with Zhongli when playing with other geo characters
-
