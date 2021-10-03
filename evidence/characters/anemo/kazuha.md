@@ -61,6 +61,32 @@
 * C6: The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)  
 * C6: Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)  
   
+## Skill Mechanics
+
+### Kazuha Hold E can cause fall DMG  
+
+**By:** CQLQRS#7853  
+**Added:** 09/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885544421637120030/891166004669984848/transcript-kazuha-e-causes-fall-damage.html)
+
+**Finding:**  
+Kazuha's e skill causes certain types of enemies to take fall damage.
+
+The skill only works on enemies that can be lifted by kazuha's skill, specifically enemies of weight ranges of anything lighter than and up to 80 arbitrary units used by the game.  However, with that being said, some enemies suffer kazuha's fall damage easier than others. 
+
+As per testing, fall damage has been proven to be caused to fatui cicin mages, the fatui agents and light treasure hoarders including the marksman rather consistently, with the type of floor not being a variable as it can be caused in both domains and the overworld.
+
+The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
+
+It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable.
+
+**Evidence:**  
+[Imgur](http://imgur.com/a/bNoe7Gq)  
+[Imgur](https://imgur.com/a/GcUlN9M)  
+[Imgur](https://imgur.com/tPsC2kf)
+
+**Significance:**  
+This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
 
 ## Burst Mechanics
 

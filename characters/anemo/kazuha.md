@@ -72,6 +72,7 @@ Unleashes a secret technique as fierce as the rushing wind that pulls objects an
 * **Press:** Can be used in mid-air.
 
 * **Hold:** Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode. 
+  * Kazuha's Hold **Chihayaburu** can cause certain enemies to take Fall DMG.
 
 **Plunging Attack: Midare Ranzan**  
 When a Plunging Attack is performed using the effects of the Elemental Skill **Chihayaburu**, Plunging Attack DMG is converted to Anemo DMG. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents. **Midare Ranzan**'s DMG is considered Plunging Attack DMG.
