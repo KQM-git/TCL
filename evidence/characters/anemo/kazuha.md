@@ -55,7 +55,6 @@
 
 ### Constellation Mechanics  
 * C2: Effects stack with Diona's C6. - [jd baby\#6541](https://imgur.com/a/F1qGWD4)  
-* C2: Affects Kazuha on initial cast, but is lost upon leaving the field or skill range. - [xTuki\#4893](https://imgur.com/HmiW7nT)
 * C4: The energy gained from C4 while gliding is not affected by energy recharge, it takes 23 ticks to cap after using a burst. - [Jilanow\#9252](https://youtu.be/V0o_-DF0DiA)  
 * C4: Kazuha can gain his energy back through gliding before abyss chamber. - [xTuki\#4893](https://imgur.com/EFeCgB2)  
 * C6: Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)  
