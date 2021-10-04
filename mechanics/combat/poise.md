@@ -32,10 +32,14 @@ $$
 > A Fatui Cryogunner has more poise, vulnerability, and poise regeneration than a normal Hilichurl.  
 > A melee character has more poise, vulnerability, and poise regeneration than a ranged character.
 
-#### Some attacks or abilities can change vulnerability.
+#### Some attacks or abilities can change vulnerability
 
 > The vulnerability when a Cryogunner is generating their shield is less than when the Cryogunner is spraying.  
 > "Increasing resistance to interruption" skills take effect via decreasing vulnerability. The same goes for shields.
+
+#### Different sources of interrupt resistance can stack
+
+You can stack Poisce and allow your characters to further avoid being staggered.
 
 #### The number of teammates in co-op mode will increase poise or decrease vulnerability.
 

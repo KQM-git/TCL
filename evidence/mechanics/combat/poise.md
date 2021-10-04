@@ -60,3 +60,22 @@ Original clip is from xf3, then made to edit to make it side by side. In the vid
 
 **Significance:**  
 Before launching an opponent with Jean E, reduce its poise to 0 and stagger them first, then watch your fall dmg hit higher numbers.
+
+## Poise stack
+
+**By:** cucunter#5971  
+**Added:** 10/03/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893523719295750194/894208146581618688/transcript-interrupt-resistance-stacking.html)
+
+**Finding:**  
+Different sources of interrupt resistance can stack.
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=dF7szUj3AWo)  
+No interrupt resistance: Staggered on hit 1  
+Guide to Afterlife: Staggered on hit 3  
+Raincutter: Staggered on hit 4  
+Guide to Afterlife + Raincutter: Staggered on hit 8  
+
+**Significance:**  
+Stacking interrupt resistance allows characters to further avoid being staggered.
