@@ -75,3 +75,25 @@ Raiden's DEF ignore effect does not stack additively with other sources of DEF s
 **Significance:**  
 Better understanding of Raiden C2, less gain from stacking defense shred.  
 
+## Energy findings:
+
+### Raiden self energy recharge formula  
+
+**Added:** 09/28/2021  
+**By:** Sir_pick_the_prick#2209  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883997943387029504/892422852458983474/transcript-raiden-minimum-er-formula.html)  
+
+**Finding:**  
+Formula that describes minimum ER% for Raiden to use elemental burst off cooldown.  
+
+**Evidence:**  
+Y = Raiden's total ER%  
+Z = Flat energy gained (NOT INCLUDING RAIDEN'S Q ENERGY)  
+W = talent level (THE NUMBER NOT VALUE, ex. 1-13)  
+X = energy gained (before ER calculations)  
+Formula:  
+Y = (87-0.2W-Z)/(X+4.5+0.3W)  
+
+**Significance:**  
+Calculating Raiden's self energy requirements.  
+
