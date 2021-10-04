@@ -39,7 +39,28 @@
    * Pyro Swirl - [Nass008#8577](https://imgur.com/HooDf8l)
 * Raiden's Elemental Skill cannot be triggered by:
    * Electro-charged
-   * Cryo/Hydro swirls
+   * Hydro swirls
+   
+#### Raiden E transformative interactions  
+
+**Added:** 09/28/2021  
+**By:** Tech#6257  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885440525438685204/891171141287297095/transcript-raiden-e-transformative-interaction.html)  
+
+**Finding:**  
+Raiden's elemental skill will trigger on transformative reactions if 2 condition are met:  
+1. Inflicting damage to an enemy.  
+2. The damaging reaction has AOE.  
+This means that only superconduct, overload, and all AOE swirls except for hydro will activate it, while electro-charged, shatter, single target and hydro swirl won't.
+
+**Evidence:**  
+Working:  
+[superconduct](https://imgur.com/l8HTpLS), [overload](https://imgur.com/BFp3mF7), [pyro swirl](https://imgur.com/HooDf8l), [cyro swirl](https://imgur.com/3KwFiLr), [electro swirl](https://imgur.com/ElVwEd6), [multi-target swirls](https://imgur.com/ocEzBjq)  
+Not Working:  
+[hydro swirl](https://imgur.com/Bqk9QQB), [single target swirl](https://imgur.com/IIXvCca), [aoe hydro swirl](https://imgur.com/Fa9YZgL), [shatter](https://imgur.com/vExbdig), [electro-charged](https://imgur.com/qnuieNX)  
+
+**Significance:**  
+Better understanding of Raiden's elemental skill.  
 
 ### Burst Mechanics  
 * Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)  

@@ -75,7 +75,7 @@ The Eye can initiate one coordinated attack every 0.9s per party. Coordinated at
 | Elemental Burst DMG Bonus | 0.27% Per Energy | -- | -- | -- |
 | CD | 10 s | -- | -- | -- |  
 * The Eye does not snapshot/is dynamic.  
-* The coorinated attack can only occur on damaging strikes against enemies.  
+* The coorinated attack can only occur on a damaging strike, against enemies, that is capable of inflicting AOE damage.  
 * The eye's elemental burst dmg bonus does affect The Raiden Shogun.
 
 {% endtab %}
