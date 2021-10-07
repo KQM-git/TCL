@@ -98,7 +98,7 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Catalyst Conversion
 
 When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.

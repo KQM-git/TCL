@@ -108,7 +108,7 @@ Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflict
 When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ## "The Show Goes On, Even Without an Audience..."
 
 Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.

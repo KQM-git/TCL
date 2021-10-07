@@ -123,7 +123,7 @@ Decreases gliding Stamina consumption for your own party members by 20%.
 * Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
-{% tab title="Ascension 2" %}
+{% tab title="Ascension 1" %}
 ### Embrace of Winds
 
 Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.
