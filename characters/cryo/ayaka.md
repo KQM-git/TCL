@@ -153,7 +153,7 @@ When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it h
 When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
 
 * All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
-* The additional **Frostflake Seki no To** have their own separate ICD that follows standard ICD rules.
+* The additional **Frostflake Seki no To** share ICD with the main storm.
 
 {% endtab %}
 

@@ -44,7 +44,7 @@
 #### C2: Blizzard Blade Seki no To
 
 * The two additional Frostflake Seki no To formed can hit the same target. - [HailCorporate#2970](https://imgur.com/a/nlOHZBU)
-* The additional whirls have their own separate ICD that follows standard ICD rules. - [Phana#0420](https://imgur.com/a/NPQFhPn)
+* The additional whirls share ICD with the main one. - [Phana#0420](https://imgur.com/a/NPQFhPn)
 
 #### C6: Dance of Suigetsu
 
