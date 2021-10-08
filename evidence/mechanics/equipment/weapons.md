@@ -660,6 +660,31 @@ Explanation: The crystalize shield is created by a level 50 character with 0 EM,
 
 **Significance:** Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
 
+### Luxurious Sea-Lord
+
+#### Luxurious Sea-Lord interactions
+
+**By:** CQLQRS#7853  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892193182488621126/896129073586241586/transcript-fish-claymore-interactions.html)
+
+**Finding:**  
+Fishmore aka Luxurious Sea Lord has a passive that summons a titanic tuna to deal damage once every 15 seconds when the character's burst hits a target. Like other similar passives such as the ones in Prototype Archaic and Star Tombed Starsilver, it only procs when the wielder is on field.
+
+**Evidence:**  
+CBeidou on field part 1: [Imgur](http://imgur.com/a/UwKuXS5)  
+Beidou on field part 2: [Imgur](http://imgur.com/a/wF9gBqe)  
+Beidou off field: [Imgur](http://imgur.com/a/vTsp1nk)  
+Eula A4 (by ZyronX#2720): [Imgur](https://imgur.com/NGaENqc)  
+Eula off field (by ZyronX#2720): [Imgur](https://imgur.com/o9pwCEU)  
+Sayu on field (by ZyronX#2720): [Imgur](https://imgur.com/eWbY6Oo)  
+Sayu off field (by ZyronX#2720): [Imgur](https://imgur.com/wSb0g3M)  
+AOE finding part 1: [Youtube](https://youtu.be/oNb9mnl2aXA)  
+AOE finding part 2: [Youtube](https://youtu.be/GH2EAS-rcus)
+
+**Significance:**  
+The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an anemo cc such as venti burst was used.
+
 ### The Flute
 
 #### The Flute’s AOE can CRIT
