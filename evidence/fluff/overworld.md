@@ -158,6 +158,28 @@ Burst knock back: [Video](https://www.youtube.com/watch?v=Lf-34SS5b-8)
 **Significance:**  
 Optimizing your bush harvesting game.
 
+### Structures aren't enemies
+
+**By:** anonpuffs#2537  
+**Added:** 10/09/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885127802570039336/896138078912135228/transcript-structures-are-not-enemies.html)
+
+**Finding:**  
+Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental skill.
+
+**Evidence:**  
+[Youtube](https://youtu.be/kY2MB81k8-0)  
+[Youtube](https://youtu.be/z4S7hEPybgE)  
+[Youtube](https://youtu.be/Rs-p5UjMyiw)  
+[Youtube](https://youtu.be/uzF9sClcVsI)  
+[Youtube](https://youtu.be/31fuYtRuDGA)  
+[Youtube](https://youtu.be/Jfcp1ZtGqOY)  
+[Youtube](https://youtu.be/nDO8nhYBrUw)  
+[Youtube](https://youtu.be/Sq3OgfBptTE)
+
+**Significance:**  
+Overwolrd is hard.
+
 ## 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
