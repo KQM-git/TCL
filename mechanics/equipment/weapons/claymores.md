@@ -124,6 +124,35 @@
 
 ## 4 Stars
 
+### Akuoumaru
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Watatsumi Wavewalker | For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12/0.15/0.18/0.21/0.24**%. A maximum of **40/50/60/70/80**% increased Elemental Burst DMG can be achieved this way. |
+| Base ATK | 42 - 510 |
+| ATK% | 9% - 41.3% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 327 | 30.4 |
+| 60+ | 353 | 30.4 |
+| 65 | 370 | 32.3 |
+| 70 | 388 | 34.1 |
+| 70+ | 414 | 34.1 |
+| 75 | 431 | 35.9 |
+| 80 | 449 | 37.7 |
+| 80+ | 475 | 37.7 |
+| 85 | 492 | 39.5 |
+| 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
+
 ### Blackcliff Slasher
 
 {% tabs %}

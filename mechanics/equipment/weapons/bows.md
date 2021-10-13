@@ -62,6 +62,36 @@
 {% endtab %}
 {% endtabs %}
 
+### Polar Star
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Daylight's Augury | Elemental Skill and Elemental Burst DMG increased by **12/15/18/21/24**%. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **(10/20/30/48)/(12.5/25/37.5/60)/(15/30/45/72)/(17.5/35/52.5/84)/(20/40/60/96)**%. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others. |
+| Base ATK | 46 - 608 |
+| CR% | 7.2% - 3.1% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 382 | 24.4 |
+| 60+ | 414 | 24.4 |
+| 65 | 435 | 25.8 |
+| 70 | 457 | 27.3 |
+| 70+ | 488 | 27.3 |
+| 75 | 510 | 28.7 |
+| 80 | 532 | 30.2 |
+| 80+ | 563 | 30.2 |
+| 85 | 586 | 31.6 |
+| 90 | 608 | 33.1 |
+{% endtab %}
+{% endtabs %}
+
 ### Skyward Harp
 
 {% tabs %}
