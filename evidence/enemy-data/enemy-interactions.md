@@ -368,6 +368,41 @@ When MM uses her teleport move, she will randomly teleport in front of the activ
 **Significance:**  
 Don't be an ape. Don't get hit by attacks with clear visual indication and clear 'tells'. Don't be greedy. MM in "weak" state deals significantly less damage and is much easier to control.
 
+### Escape Mirror Maiden trap
+
+**By:** gengar#8426  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888324080648982558/896137220493299802/transcript-escape-mirror-maiden-trap.html)
+
+**Finding:**  
+Some characters and abilities can escape the Fatui mirror maiden's trap.
+
+- Albedo (elevator up, elevator despawn)
+- Ayaka (N5, alternate sprint)
+- Bennett (skill at charge level 2)
+- Fischl (burst)
+- Geo MC (climb pre-placed meteorite, meteorite despawn)
+- Hu Tao (charged attack, unique sprint)
+- Kaeya (N5)
+- Kazuha (skill)
+- Keqing (N5, skill recast)
+- Lisa (N3/N4 teleport)
+- Mona (N3, hold skill, alternate sprint)
+- Rosaria (charged attack, skill)
+- Sara (skill)
+- Sayu (hold skill)
+- Venti (hold skill)
+- Xiangling (charged attack)
+- Xiao (skill, enhanced jump during burst)
+- Zhongli (charged attack, climb pre-placed pillar, pillar despawn)
+- Overworld (climb object, get knocked out by enemy)
+
+**Evidence:**  
+All evidence uploaded to Imgur and listed here: [Spreadsheet](https://docs.google.com/spreadsheets/d/1HB2M6yAFfSy3IdP-qtsNmb5Gd5dTHWnXk-dfDa-PC90/edit?usp=sharing)
+
+**Significance:**  
+Helpful for Spiral Abyss floor 12
+
 ## Azdaha
 
 ### Azhdaha in his Tail Form has Two Independent Hitboxes
