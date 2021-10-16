@@ -367,3 +367,21 @@ When MM uses her teleport move, she will randomly teleport in front of the activ
 
 **Significance:**  
 Don't be an ape. Don't get hit by attacks with clear visual indication and clear 'tells'. Don't be greedy. MM in "weak" state deals significantly less damage and is much easier to control.
+
+## Azdaha
+
+### Azhdaha in his Tail Form has Two Independent Hitboxes
+
+**By:** ArchedNosi#1484  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891904835862020127/896133877683351662/transcript-azhdaha-has-two-independent-hitboxes.html)
+
+**Finding:**  
+Azhdaha's Tail Form has Two Independent Hitboxes
+
+**Evidence:**  
+[Youtube](https://youtu.be/6_NpOfDYfIo)  
+C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
+
+**Significance:**  
+Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
