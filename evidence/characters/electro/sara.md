@@ -45,6 +45,7 @@
   * [Imgur](https://imgur.com/a/LCoyZGB): opponents are facing away from Crowfeather, but immediately walk towards it when it lands (even before entering combat mode)
   * [Imgur](https://imgur.com/a/VLtVaOd): does not trigger enemy aggro/combat mode if sara's initial charged shot does not hit an opponent
   * [Imgur](https://imgur.com/a/x227kWK): the range from which you can trigger enemy aggro (and enter combat mode) with crowfeather is different from a regular charged shot
+* [Youtube](https://youtu.be/YjWPpL-4TKw): Tengu Stormcall only buffs the on-field characters the frame before the Crowfeather Explosiononly buffs the on-field characters the frame before the Crowfeather Explosion. [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893285828858630164/899026156769124392/transcript-sara-e-buff-targetting.html)
 
 ### Crow feather interactions
 
