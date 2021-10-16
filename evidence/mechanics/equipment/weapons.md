@@ -707,6 +707,24 @@ Multiple WGS can kinda suck if they're not equal refine
 
 ## General Mechanics
 
+### Event Weapons Cannot be Foddered
+
+**By:** CQLQRS\#7853  
+**Added:** 16/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894750392875876352/898918637547696128/transcript-event-weapons-cannot-be-foddered.html) 
+
+**Finding:**  
+Event weapons, locked or not, will not appear in the enhance menu of other weapons.  
+
+**Evidence:**  
+* [Dodoco Tales](https://imgur.com/a/Oh1ICPz)
+* [Luxurious Sea Lord](https://imgur.com/a/jIEmG1f)
+* [Windblume Ode](https://imgur.com/a/bfCBVJd)
+* [Festering Desire](https://imgur.com/FI743Gq)
+
+**Significance:**  
+Prevents accidental foddering of once in a lifetime event weapons.
+
 ### Attack Speed Buffs on Claymores
 
 **By:** EternalDream\#5503
