@@ -10,7 +10,7 @@ In an age that has all but faded from memory, he stood shoulder to shoulder with
 
 ## Weakspot Details
 
-> todo
+* Azhdaha's **Moonlit Tree** phase (submerging underground while leaving his tail on the surface) has two independent hitboxes that can be exploited with a large AoE attack (essentially double the DMG dealt)
 
 ## Resistance Table
 
@@ -40,4 +40,3 @@ In an age that has all but faded from memory, he stood shoulder to shoulder with
 | 100 | 1323544 |
 
 ## Attacks
-

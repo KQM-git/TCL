@@ -29,3 +29,29 @@ Amber examples as an amber main: [Imgur](https://imgur.com/6XJeJzU)
 
 **Significance:**  
 Could be used in teams with Venti to do extremely fast cancels without using stamina. Possibly consistent at 30 fps, but usability at 60fps is very questionable.
+
+## Geo construct Wave Dashing
+
+**By:** BowTae#0141  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890716522190880828/896135115158192168/transcript-geo-construct-wavedash.html)
+
+**Theory/Finding:**  
+With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and geo constructs (Geo MC, Albedo, and Zhongli skill). 
+
+There are two ways to do this, the method used depends on the attack and the construct used.  
+1. After attack, hold the direction toward the construct, and press jump twice very quickly (like a normal wavedash).  
+- Examples: Xiangling CA with Zhongli pillar, Keqing CA with Albedo flower  
+2. After attack, press jump with no movement, then hold the direction toward the construct and press jump again while holding direction.  
+- Examples: Xiangling CA with Albedo flower, Keqing N1 on building edge.
+
+**Evidence:**  
+No attack wavedash: [Imgur](https://imgur.com/YUxsqct)  
+Geo MC boulder wavedash, typically requires standing on the slope of the boulder: [Imgur](https://imgur.com/A5QN2b7)  
+Zhongli pillar wavedash: [Imgur](https://imgur.com/gDKc6Of)  
+Albedo flower wavedash: [Imgur](https://imgur.com/ZtFoW0a)  
+building wavedash: [Imgur](https://imgur.com/nYu0w8l)  
+Method 2 wavedash: [Imgur](https://imgur.com/wfqHnGO)
+
+**Significance:**  
+Requires precise positioning, only a limited number of attacks gain any frame advantage, and requires climbing and standing on a geo construct, which greatly limits what enemies this can even work on. Nonetheless, it's a Venti-less way to wavedash (though a bit slower), and could potentially find niche uses for certain content.
