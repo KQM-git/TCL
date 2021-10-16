@@ -101,6 +101,25 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 * Noted especially with how Diona shield works with Sacrificial Bow. 
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
 
+### Icy Paws must hit something to get a shield
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898145871026348062/898800608826490900/transcript-dionas-skill-icy-paws-may-not-form-a-shield.html)
+
+**By:** D.....K#9002  
+**Added:** 10/15/2021  
+
+**Finding:** Diona's Skill Icy Paws do not form a shield if all Icy Paws despawn before hitting something. 
+
+**Evidence:**  
+1 Icy Paw hit generates 2.4s shield: [YouTube](https://www.youtube.com/watch?app=desktop&v=63kzH_8eiw0&feature=youtu.be)  
+0 Icy Paws hit generate no shield: [YouTube](https://www.youtube.com/watch?app=desktop&v=Bi4qdo4tTQs&feature=youtu.be)  
+Icy Paws revolve around a non-activated Ruin Guard until they eventually despawn and no shield is formed: [YouTube](https://www.youtube.com/watch?app=desktop&v=65KWXBu_TvY&feature=youtu.be)  
+
+**Significance:**  
+At least 1 Icy Paw must hit something for a shield to form. Situations where Icy Paws might despawn before hitting something include:
+1. Standing on a cliff with no ground below
+2. Targetting an enemy without ever hitting it, including non-activated Ruin Guards
+
 ## Burst Mechanics
 
 ### Diona Field Characteristics
