@@ -45,11 +45,15 @@ Inazumuma(TBD)
 
 Elemental applications can be used to destroy or/and damage bushes. However not all elements are equal in this regard.
 
+### Structures Aren't Considered Enemies
+
+Structures do not count as "opponents" for the purposes of triggering abilities like Albedo's Elemental Skill.
+
+## Coordinates
+
 ## Other world maps  
 
 The current world state & character position is saved between different world maps.  
-
-## Coordinates
 
 * Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
