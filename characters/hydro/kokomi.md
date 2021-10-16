@@ -160,7 +160,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the 
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a **Swimming Fish** to deal 30% of her Max HP as Hydro DMG. This DMG is not considered Normal Attack DMG.
 
-* The **Swimming Fish** from **At Water's Edge** shares ICD with her NA string.
+* The **Swimming Fish** from **At Water's Edge** does not have ICD and isn't shared with her Normal Attack string.
 
 {% endtab %}
 
