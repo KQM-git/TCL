@@ -101,7 +101,7 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 * Noted especially with how Diona shield works with Sacrificial Bow. 
 * Understand the full mechanics about the Diona's shield maximum uptime and durability carry over. 
 
-### Icy Paws must hit something to get a shield
+### Icy Paws despawn after a certain amount of time if they do not hit a target
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898145871026348062/898800608826490900/transcript-dionas-skill-icy-paws-may-not-form-a-shield.html)
 
