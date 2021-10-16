@@ -732,6 +732,27 @@ Multiple WGS can kinda suck if they're not equal refine
 
 ## General Mechanics
 
+### Weapon Stats for Inactive Characters
+
+**By:** Reens\#9389
+
+**Added:** 16/10/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896218177569194004/898767346217398282/transcript-weapon-stats-for-inactive-characters.html)
+
+**Finding**: Certain weapon passives do not apply their effect on character stat pages for out-of-party characters. This only applies to weapons that either: 1) have a conditional stat buff or 2) provide one stat in relation to another. 
+
+**Evidence**:
+* [Deathmatch (conditional ATK%)](https://imgur.com/gOIr6g4)
+* [Harbinger of Dawn (conditional crit rate)](https://imgur.com/CfL8jtd)
+* [Lithic Series:  Spear & Blade (conditional ATK% and Crit %)](https://imgur.com/a/g7XHSXo)
+* [Sword of Descension (conditional ATK)](https://imgur.com/0LnBMth)
+* [Engulfing Lightning (ER to ATK %)](https://imgur.com/JReI6Ii)
+* [Jade Cutter (HP to ATK)](https://imgur.com/Nf5F426)
+* [Staff of Homa  (HP to ATK)](https://youtu.be/WhlTPu7A59o)
+
+**Significance**: Characters using these weapons must be in your active party when their stats are viewed to get active numbers.
+
 ### Attack Speed Buffs on Claymores
 
 **By:** EternalDream\#5503
