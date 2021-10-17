@@ -158,6 +158,29 @@ Burst knock back: [Video](https://www.youtube.com/watch?v=Lf-34SS5b-8)
 **Significance:**  
 Optimizing your bush harvesting game.
 
+### Structures aren't enemies
+
+**By:** anonpuffs#2537  
+**Added:** 10/09/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885127802570039336/896138078912135228/transcript-structures-are-not-enemies.html)
+
+**Finding:**  
+Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental skill.
+
+**Evidence:**  
+Hilichurl Tower: [Youtube](https://youtu.be/kY2MB81k8-0)  
+Geo Hypostasis's Rock Pillars: [Youtube](https://youtu.be/z4S7hEPybgE)  
+Slime Balloon: [Youtube](https://youtu.be/Sq3OgfBptTE)  
+Other random structures:  
+[Youtube](https://youtu.be/Rs-p5UjMyiw)  
+[Youtube](https://youtu.be/uzF9sClcVsI)  
+[Youtube](https://youtu.be/31fuYtRuDGA)  
+[Youtube](https://youtu.be/Jfcp1ZtGqOY)  
+[Youtube](https://youtu.be/nDO8nhYBrUw)  
+
+**Significance:**  
+Overworld is hard.
+
 ## 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
@@ -559,3 +582,24 @@ To start, Bennett had 281/10,987 HP (2.56%) and Fischl had 190/8,144 HP (2.33%).
 
 **Significance:**  
 Documentation and better understanding of how the game handles health and death.
+
+## Not all 2U pyro attacks ignite grass
+
+**By:** Nass008\#8577  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898420442753277962/899020738458177608/transcript-2u-pyro-on-grass.html)  
+
+**Finding:**  
+Not all 2U pyro attack ignite grass.
+We already know applying 2U pyro on grass can light them on fire with single hit,
+but for unknown reason some 2U pyro attacks do not apply pyro on grass.
+
+**Evidence:**  
+Bennett Q: [https://imgur.com/Aym0APh](https://imgur.com/Aym0APh)
+Thoma Q initial hit: [https://imgur.com/6fskHIx](https://imgur.com/6fskHIx) (tested as 2U in thoma-basic-mechanics, not verified yet as of October 15, 2021 10:36 AM)
+Yoimiya Q initial hit: [https://imgur.com/sPySW8G](https://imgur.com/sPySW8G) (Credit to BowTae#0141) 
+
+
+**Significance:**  
+Applying pyro on grass is not a foolproof method for testing elemental gauge since not all attacks apply element to environment.
+Keep this in mind.

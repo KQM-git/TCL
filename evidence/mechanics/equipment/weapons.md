@@ -660,6 +660,31 @@ Explanation: The crystalize shield is created by a level 50 character with 0 EM,
 
 **Significance:** Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
 
+### Luxurious Sea-Lord
+
+#### Luxurious Sea-Lord interactions
+
+**By:** CQLQRS#7853  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892193182488621126/896129073586241586/transcript-fish-claymore-interactions.html)
+
+**Finding:**  
+Fishmore aka Luxurious Sea Lord has a passive that summons a titanic tuna to deal damage once every 15 seconds when the character's burst hits a target. Like other similar passives such as the ones in Prototype Archaic and Star Tombed Starsilver, it only procs when the wielder is on field.
+
+**Evidence:**  
+CBeidou on field part 1: [Imgur](http://imgur.com/a/UwKuXS5)  
+Beidou on field part 2: [Imgur](http://imgur.com/a/wF9gBqe)  
+Beidou off field: [Imgur](http://imgur.com/a/vTsp1nk)  
+Eula A4 (by ZyronX#2720): [Imgur](https://imgur.com/NGaENqc)  
+Eula off field (by ZyronX#2720): [Imgur](https://imgur.com/o9pwCEU)  
+Sayu on field (by ZyronX#2720): [Imgur](https://imgur.com/eWbY6Oo)  
+Sayu off field (by ZyronX#2720): [Imgur](https://imgur.com/wSb0g3M)  
+AOE finding part 1: [Youtube](https://youtu.be/oNb9mnl2aXA)  
+AOE finding part 2: [Youtube](https://youtu.be/GH2EAS-rcus)
+
+**Significance:**  
+The passive procs as intended similar to the other mentioned previously. However, ZyronX has confirmed that the passive has an aoe that can affect multiple targets with a single proc. It should be easier to do this if an anemo cc such as venti burst was used.
+
 ### The Flute
 
 #### The Flute’s AOE can CRIT
@@ -706,6 +731,45 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 Multiple WGS can kinda suck if they're not equal refine
 
 ## General Mechanics
+
+### Event Weapons Cannot be Foddered
+
+**By:** CQLQRS\#7853  
+**Added:** 16/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894750392875876352/898918637547696128/transcript-event-weapons-cannot-be-foddered.html) 
+
+**Finding:**  
+Event weapons, locked or not, will not appear in the enhance menu of other weapons.  
+
+**Evidence:**  
+* [Dodoco Tales](https://imgur.com/a/Oh1ICPz)
+* [Luxurious Sea Lord](https://imgur.com/a/jIEmG1f)
+* [Windblume Ode](https://imgur.com/a/bfCBVJd)
+* [Festering Desire](https://imgur.com/FI743Gq)
+
+**Significance:**  
+Prevents accidental foddering of once in a lifetime event weapons.
+
+### Weapon Stats for Inactive Characters
+
+**By:** Reens\#9389
+
+**Added:** 16/10/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896218177569194004/898767346217398282/transcript-weapon-stats-for-inactive-characters.html)
+
+**Finding**: Certain weapon passives do not apply their effect on character stat pages for out-of-party characters. This only applies to weapons that either: 1) have a conditional stat buff or 2) provide one stat in relation to another. 
+
+**Evidence**:
+* [Deathmatch (conditional ATK%)](https://imgur.com/gOIr6g4)
+* [Harbinger of Dawn (conditional crit rate)](https://imgur.com/CfL8jtd)
+* [Lithic Series:  Spear & Blade (conditional ATK% and Crit %)](https://imgur.com/a/g7XHSXo)
+* [Sword of Descension (conditional ATK)](https://imgur.com/0LnBMth)
+* [Engulfing Lightning (ER to ATK %)](https://imgur.com/JReI6Ii)
+* [Jade Cutter (HP to ATK)](https://imgur.com/Nf5F426)
+* [Staff of Homa  (HP to ATK)](https://youtu.be/WhlTPu7A59o)
+
+**Significance**: Characters using these weapons must be in your active party when their stats are viewed to get active numbers.
 
 ### Attack Speed Buffs on Claymores
 

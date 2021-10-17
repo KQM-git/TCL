@@ -91,6 +91,31 @@ On a side note, recasting Jade Screen before it breaks will reset the Fortificat
 
 Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
 
+#### Zhongli A1 Persists on Swap
+
+**By:** Latiwings\#3308  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893176410301141012/899029975208964147/transcript-zhongli-shield-tech.html)
+
+**Finding:**
+Zhongli's shield tech  
+1. Shield Strength from gained from A4 persist upon swap  
+
+2. However, it does not persist upon refresh.  
+2b. Above also applies if it's refresh from C2.
+
+**Evidence:**
+
+Shield Strength from gained from A4 persist upon swap [Imgur](https://imgur.com/LBixuhT)
+
+Shield Strength doesn't persist upon refresh [Imgur](https://imgur.com/AtSNAE3)
+
+Shield Strength doesn't persist upon C2 refresh [Imgur](https://imgur.com/m8tRdZY)
+
+**Significance:**
+
+Shield management.
+
 ## Constellation Mechanics
 
 ### C2: Stone, the Cradle of Jade

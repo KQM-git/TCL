@@ -367,3 +367,56 @@ When MM uses her teleport move, she will randomly teleport in front of the activ
 
 **Significance:**  
 Don't be an ape. Don't get hit by attacks with clear visual indication and clear 'tells'. Don't be greedy. MM in "weak" state deals significantly less damage and is much easier to control.
+
+### Escape Mirror Maiden trap
+
+**By:** gengar#8426  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888324080648982558/896137220493299802/transcript-escape-mirror-maiden-trap.html)
+
+**Finding:**  
+Some characters and abilities can escape the Fatui mirror maiden's trap.
+
+- Albedo (elevator up, elevator despawn)
+- Ayaka (N5, alternate sprint)
+- Bennett (skill at charge level 2)
+- Fischl (burst)
+- Geo MC (climb pre-placed meteorite, meteorite despawn)
+- Hu Tao (charged attack, unique sprint)
+- Kaeya (N5)
+- Kazuha (skill)
+- Keqing (N5, skill recast)
+- Lisa (N3/N4 teleport)
+- Mona (N3, hold skill, alternate sprint)
+- Rosaria (charged attack, skill)
+- Sara (skill)
+- Sayu (hold skill)
+- Venti (hold skill)
+- Xiangling (charged attack)
+- Xiao (skill, enhanced jump during burst)
+- Zhongli (charged attack, climb pre-placed pillar, pillar despawn)
+- Overworld (climb object, get knocked out by enemy)
+
+**Evidence:**  
+All evidence uploaded to Imgur and listed here: [Spreadsheet](https://docs.google.com/spreadsheets/d/1HB2M6yAFfSy3IdP-qtsNmb5Gd5dTHWnXk-dfDa-PC90/edit?usp=sharing)
+
+**Significance:**  
+Helpful for Spiral Abyss floor 12
+
+## Azdaha
+
+### Azhdaha in his Tail Form has Two Independent Hitboxes
+
+**By:** ArchedNosi#1484  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891904835862020127/896133877683351662/transcript-azhdaha-has-two-independent-hitboxes.html)
+
+**Finding:**  
+Azhdaha's Tail Form has Two Independent Hitboxes
+
+**Evidence:**  
+[Youtube](https://youtu.be/6_NpOfDYfIo)  
+C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
+
+**Significance:**  
+Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
