@@ -113,7 +113,41 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 
 ### Fluff
 
-* Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)
+* Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)  
+
+## Ascension Mechanics
+
+### A4: Decorum
+
+#### Decorum Energy Regen
+
+**By:** Laurent#2608  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894240156104659045/899148824566722580/transcript-sara-a4-passive-energy-gen.html)  
+
+**Finding:**  
+Decorum restores 0.012 flat Energy per 1% of Energy Recharge.
+
+**Evidence:**  
+* Sara at 116% ER. Zhongli starts with 0 Energy, the Energy he gains from Sara is unnoticeable. There is little to no change in the Burst gauge: [YouTube](https://youtu.be/QhVRCLq0hqM)  
+* Sara at 184% ER. Zhongli starts with 0 Energy, The Energy he gains from Sara is slightly more.. There is a noticeable spike in the Burst gauge: [YouTube](https://youtu.be/6GQI9p5JwcA)  
+
+**Math Evidence:**  
+Number of A4 procs (from Sara E with C2) it would take to completely fill Burst on its own:  
+* 180% ER Sara:  
+  * 40 Energy: 40 / (0.012 x 180) = 18.5 E procs  
+  * 60 Energy: 60 / (0.012 x 180) = 27.7 E procs  
+  * 80 Energy: 80 / (0.012 x 180) = 37 E procs  
+* 150% ER Sara:  
+  * 40 Energy: 40 / (0.012 x 150) = 22.2 E procs  
+  * 60 Energy: 60 / (0.012 x 150) = 33.3 E procs  
+  * 80 Energy: 80 / (0.012 x 150) = 44.4 E procs  
+ 
+265.3% ER Sara filling Zhongli's Burst in 13 procs: [YouTube vid by Zasshu.#4509](https://youtu.be/wQWrC6JLDJY)
+* 40 / (0.012 x 265.3) = 12.6 E procs, so the video confirms the math.
+
+**Significance:**  
+Decorum's wording implies that you need to hit 100% ER increments to restore more Energy, but this is not true. Sara restores Energy directly based on her ER, so for every 1% of ER, you generate 0.012 flat Energy from Decorum.
 
 ## Constellation Mechanics
 
