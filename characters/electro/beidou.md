@@ -91,6 +91,7 @@ Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to
 * When Normal and Charged Attacks hit, they create a lightning **discharge** that can jump between opponents, dealing Electro DMG.
 * Increases active character’s resistance to interruption and decreases DMG taken.
 * A maximum of 1 lightning **discharge** can be triggered per second.
+* Lightning discharge can bounce off Mitachurl Shields but will deal no damage.
 * Snapshot on cast.
   * However, if you swap to Beidou and cast her Burst too quick (Left Alt + Switch Character), her Lightning DMG might fail to snapshot certain buffs.
 
