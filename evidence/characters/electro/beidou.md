@@ -72,7 +72,24 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 
 **Significance:** This makes Beidou's particle production way easier to count.
 
-## Burst Mechanics
+## Burst Mechanics  
+
+### Beidou's Q and Mitachurl Shield Interactions  
+
+**By:** Sayline\#5959  
+**Added:** 17/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898905169763393556/899126939850276904/transcript-beidou-burst-and-mitachurl-shields.html)  
+
+**Finding:**  
+Lightning discharge during Beidou's Q can be procced on mitachurl shields, causing it to bounce between 2 or more enemies. However, this does not deal damage.  
+
+**Evidence:**  
+* [Melee Driver](https://youtu.be/cAxZ7Hoe8sw)
+* [Hydro Catalyst Driver](https://youtu.be/UYO017c3BMQ) 
+* [Anemo Catalyst Driver](https://youtu.be/-ToYldGMleE) 
+
+**Significance:**  
+Provides a clear understanding of Beidou's burst mechanics.
 
 ### Beidou's Q snapshot timing
 
