@@ -138,6 +138,7 @@ When the **Jade Shield** takes DMG it will Fortify:
 * Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
   * This Shield Strength increase occurs after damage is calculated.
 * There is no observable ICD on obtaining Shield Strength stacks.
+* Persists upon swap but not upon refresh.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
