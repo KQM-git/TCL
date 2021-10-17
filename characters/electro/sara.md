@@ -71,7 +71,7 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 | ATK Bonus Duration | 6s         |
 | CD                 | 10s        |
 
-* **Tengu Stormcall** only buffs the on-field characters upon Crowfeather Explosion, this also applies to coop members.
+* **Tengu Stormcall** only buffs the on-field characters the frame before the Crowfeather Explosion, this also applies to coop members.
 * Triggering **Tengu Juurai: Ambush** doesn't require hitting an enemy, just a fully-charged aimed shot.
 * **Tengu Juurai: Ambush** DMG is snapshot upon **Tengu Stormcall** cast.
 * Sara does not lose the effects of **Crowfeather Cover** if swapped off.

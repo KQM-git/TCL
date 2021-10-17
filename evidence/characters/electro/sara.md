@@ -155,3 +155,15 @@ This technique is too difficult to pull off consistently to be recommended for n
 
 It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotation like Sara ECA > Swap to Fischl > Wait for Ambush buff > Fischl E > Burst-Quickswap Sara Q > Swap to Beidou > Wait for Stormcluster buff > Beidou Q
 
+### Exact Crowfeather Buff Timing  
+**By:** NZPIEFACE\#8439  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893285828858630164/899026156769124392/transcript-sara-e-buff-targetting.html)
+
+**Finding:**  
+Tengu Stormcall only buffs the on-field characters the frame before the Crowfeather Explosion.
+
+**Evidence:** [Youtube](https://youtu.be/YjWPpL-4TKw)
+
+**Significance:**  
+Exact timing of the Crowfeather buff.
