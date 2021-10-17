@@ -89,6 +89,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
 * A deep-dive into how Icy paws work can be found [here](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
+* Icy Paws despawn after a certain amount of time if they do not hit something.
 {% endtab %}
 
 {% tab title="Signature Mix" %}
