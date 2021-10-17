@@ -298,7 +298,7 @@ Result: The damage is the same for both CAs in both tests.
 **Significance:**  
 Damage calculation
 
-### Instructor Doesn't Apply On Enviromental Or Self Target
+### Instructor Ignores Environmental Target And Your Characters
 
 **By:** elijam#7142  
 **Added:** 10/17/2021  
