@@ -47,6 +47,10 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 * Cryo Swirl, Superconduct, Freeze, Forward Melt, Shatter, and Crystallize reactions can be triggered on them.
 * However, Superconduct does not reduce Physical Resistance, Cryo Swirl with 4pc Viridescent Venerer does not reduce Cryo Resistance, and Freeze does not actually freeze the Slime Balloon. 
 
+## Corrosion Damage
+
+* Corrosion damage stacks are independent of each other, lasts for 10 seconds, deals 10 total ticks of damage, and are linearly dependent on your character's max HP.
+
 ### Evidence Vault
 
 {% page-ref page="../../evidence/enemy-data/enemy-interactions.md" %}

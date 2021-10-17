@@ -420,3 +420,61 @@ C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during 
 
 **Significance:**  
 Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
+
+## Corrosion
+
+### Corrosion damage mechanics
+
+**By:** Dooners#6709  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898253461924249600/899178914545532958/transcript-corrosion-damage-mechanics.html)
+
+**Finding:**  
+Corrosion damage stacks are independent of each other, lasts for 10 seconds, deals 10 total ticks of damage, and are linearly dependent on your unit's max HP
+
+**Evidence:**  
+**Evidence 1:** Tests were done with the exact same units being inflicted with 1, 2, and 3 stacks of corrosion and the difference in health were recorded. Not all data points were recorded to reduce testing time, but the data points we do have shows that:  
+1) each tick damage is constant for each character as long as no additional stacks are acquired when stacks already exist  
+2) characters with higher HP take more tick damage  
+3) tick damage is unrelated to current HP unless off-field and below the HP threshold in corrosion description  
+4) proportionally, characters with lower max hp lose more % of their max hp per second  
+5) tick damage is additive based on stacks, for example the tick damage from 3 stacks is 3 times the amount of the damage from 1 stack  
+
+Raw data is attached as an excel file and videos are included below:  
+[Imgur](https://imgur.com/Z5calgE)  
+[Imgur](https://imgur.com/2I54yBP)  
+[Imgur](https://imgur.com/DFchs8Z)  
+[Imgur](https://imgur.com/HOOT8a0)  
+[Imgur](https://imgur.com/GSObOxQ)  
+[Imgur](https://imgur.com/GSObOxQ)  
+
+Corrosion DMG Calc: [Spreadsheet](https://docs.google.com/spreadsheets/d/1MwTJoMBaK2zowbJtAkoFFYo-i2S4J43ItY30AF6Qk58)
+
+**Evidence 2:** Since tick damage has been established as constant, I've included data from @Lindon and transcribed max hp vs tick damage into a table (attached). These values were used in a linear regression using the following R code:
+```require(dplyr)
+require(ggplot2)
+```
+
+```data = read.table(file = "tick_damage.tsv", header = TRUE)
+summary(lm(tick_damage ~ max_hp, data = data))
+ggplot(data, aes(x = max_hp, y = tick_damage)) + geom_point() + theme_bw()
+```
+
+This produces a linear equation of `tick_damage = 75.09 + 0.004993 * max_hp`
+
+Decimal points here are likely due to rounding issues, since there can be a variation of 1 HP in the corrosion ticks. Rounded to a reasonable number, the equation will instead be `tick_damage = 75 + 0.005 * max_hp` or 75 + 0.5% max hp
+
+Tick DMG: [Spreadsheet](https://docs.google.com/spreadsheets/d/1jsALb7bEzAqzaZ_AZ2S3ZdLjlVCeo-e1009kmZWn7V8)
+
+**Significance:**  
+Proves that max HP is the only variable that determines the amount of damage you take from each tick of corrosion, and that tick damage from corrosion stacks is completely independent of each other. Characters with higher HP will take more damage overall, while characters with lower max HP take lower tick damage but loses a higher proportion of their health.
+
+Bonus: Predicted HP loss per stack based on character max hp using the equation above  
+1k HP -> 800hp/stack  
+5k HP -> 1000hp/stack  
+10k HP -> 1250hp/stack  
+20k HP -> 1750hp/stack  
+30k HP -> 2250hp/stack  
+50k HP -> 3250hp/stack  
+
+These values are total loss per stack, for damage per tick simply divide each number by 10. 
