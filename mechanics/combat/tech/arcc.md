@@ -28,9 +28,9 @@ The sequence to perform this tech is:
 
 ## Media
 
-{% embed url="https://imgur.com/BvuqB5g" caption="Basic ARCC demonstration" %}
+{% embed url="https://i.imgur.com/BvuqB5g.mp4" caption="Basic ARCC demonstration" %}
 
-{% embed url="https://imgur.com/itkCyVm" caption="Hold M1 Double Shot" %}
+{% embed url="https://i.imgur.com/itkCyVm.mp4" caption="Hold M1 Double Shot" %}
 
 ## Evidence Vault
 

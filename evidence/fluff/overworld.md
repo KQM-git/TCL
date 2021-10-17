@@ -578,7 +578,8 @@ Other environmental deaths:
 * [Imgur Album](https://imgur.com/a/r6fPD71)
 
 Health is dynamic:  
-To start, Bennett had 281/10,987 HP (2.56%) and Fischl had 190/8,144 HP (2.33%). Bennett had 10,987 HP at the moment of death. After he died, flowers were equipped on both characters, raising Bennett's Max HP to 15,767 and Fischl's to 12,924. After equipping the flower, Fischl's HP changed from 190/8,144 to 301/12,924, staying at 2.33% of her max HP. Fischl dies with 12,924 Max HP. The revive screen comes up, and they are both respawned and healed. Bennett is revived with 5,518/15,767 HP, which is 35% of his new max HP. Fischl is revived with 4,523/12,924 HP, at 35%. After unequipping both flowers, Bennett's HP changed to 3,845/10,987, which is still 35% of his max HP while Fischl's HP changed to 2,850/8144, staying at 35% of her max HP. [Video](https://youtu.be/HKMwzlkXBvg)  
+To start, Bennett had 281/10,987 HP (2.56%) and Fischl had 190/8,144 HP (2.33%). Bennett had 10,987 HP at the moment of death. After he died, flowers were equipped on both characters, raising Bennett's Max HP to 15,767 and Fischl's to 12,924. After equipping the flower, Fischl's HP changed from 190/8,144 to 301/12,924, staying at 2.33% of her max HP. Fischl dies with 12,924 Max HP. The revive screen comes up, and they are both respawned and healed. Bennett is revived with 5,518/15,767 HP, which is 35% of his new max HP. Fischl is revived with 4,523/12,924 HP, at 35%. After unequipping both flowers, Bennett's HP changed to 3,845/10,987, which is still 35% of his max HP while Fischl's HP changed to 2,850/8144, staying at 35% of her max HP.  
+[Video](https://youtu.be/HKMwzlkXBvg)  
 
 **Significance:**  
 Documentation and better understanding of how the game handles health and death.
@@ -595,9 +596,9 @@ Not all 2U pyro attack ignite grass.
 We already know applying 2U pyro on grass can light them on fire with single hit, but for unknown reason some 2U pyro attacks do not apply pyro on grass.
 
 **Evidence:**  
-Bennett Q: [https://imgur.com/Aym0APh](https://imgur.com/Aym0APh)  
-Thoma Q initial hit: [https://imgur.com/6fskHIx](https://imgur.com/6fskHIx) (tested as 2U in thoma-basic-mechanics, not verified yet as of October 15, 2021 10:36 AM)  
-Yoimiya Q initial hit: [https://imgur.com/sPySW8G](https://imgur.com/sPySW8G) (Credit to BowTae#0141)  
+[Bennett Q](https://imgur.com/Aym0APh)  
+[Thoma Q initial hit](https://imgur.com/6fskHIx) (tested as 2U in thoma-basic-mechanics, not verified yet as of October 15, 2021 10:36 AM)  
+[Yoimiya Q initial hit](https://imgur.com/sPySW8G) (Credit to BowTae#0141)  
 
 
 **Significance:**  

@@ -434,28 +434,27 @@ Corrosion damage stacks are independent of each other, lasts for 10 seconds, dea
 
 **Evidence:**  
 **Evidence 1:** Tests were done with the exact same units being inflicted with 1, 2, and 3 stacks of corrosion and the difference in health were recorded. Not all data points were recorded to reduce testing time, but the data points we do have shows that:  
-1) each tick damage is constant for each character as long as no additional stacks are acquired when stacks already exist  
-2) characters with higher HP take more tick damage  
-3) tick damage is unrelated to current HP unless off-field and below the HP threshold in corrosion description  
-4) proportionally, characters with lower max hp lose more % of their max hp per second  
-5) tick damage is additive based on stacks, for example the tick damage from 3 stacks is 3 times the amount of the damage from 1 stack  
+1. Each tick damage is constant for each character as long as no additional stacks are acquired when stacks already exist  
+2. Characters with higher HP take more tick damage  
+3. Tick damage is unrelated to current HP unless off-field and below the HP threshold in corrosion description  
+4. Proportionally, characters with lower max hp lose more % of their max hp per second  
+5. Tick damage is additive based on stacks, for example the tick damage from 3 stacks is 3 times the amount of the damage from 1 stack  
 
 Raw data is attached as an excel file and videos are included below:  
-[Imgur](https://imgur.com/Z5calgE)  
-[Imgur](https://imgur.com/2I54yBP)  
-[Imgur](https://imgur.com/DFchs8Z)  
-[Imgur](https://imgur.com/HOOT8a0)  
-[Imgur](https://imgur.com/GSObOxQ)  
-[Imgur](https://imgur.com/GSObOxQ)  
+[Imgur](https://i.imgur.com/Z5calgE.gifv)  
+[Imgur](https://i.imgur.com/2I54yBP.gifv)  
+[Imgur](https://i.imgur.com/DFchs8Z.gifv)  
+[Imgur](https://i.imgur.com/HOOT8a0.gifv)  
+[Imgur](https://i.imgur.com/GSObOxQ.gifv)  
 
 Corrosion DMG Calc: [Spreadsheet](https://docs.google.com/spreadsheets/d/1MwTJoMBaK2zowbJtAkoFFYo-i2S4J43ItY30AF6Qk58)
 
 **Evidence 2:** Since tick damage has been established as constant, I've included data from @Lindon and transcribed max hp vs tick damage into a table (attached). These values were used in a linear regression using the following R code:
-```require(dplyr)
+```R
+require(dplyr)
 require(ggplot2)
-```
 
-```data = read.table(file = "tick_damage.tsv", header = TRUE)
+data = read.table(file = "tick_damage.tsv", header = TRUE)
 summary(lm(tick_damage ~ max_hp, data = data))
 ggplot(data, aes(x = max_hp, y = tick_damage)) + geom_point() + theme_bw()
 ```

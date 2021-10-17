@@ -74,7 +74,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 * If your Artifact Inventory is near full (from 990/1000), you'll get an "No space left in Inventory" when trying to do a Wish X10.
 
-* There is a bug that cause the character to stop moving while sprinting. But stamina will continue to be drained, as long as the direction key is still held. Check the [Evidence Vault](../../evidence/mechanics/gameplay-mechanics/bugs.md#sprinting-bug) for more details.
+* There is a bug that causes your character to [stop moving while sprinting](../../evidence/mechanics/gameplay-mechanics/bugs.md#sprinting-bug), while still consuming stamina.
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
 
 ## Fixed Bugs

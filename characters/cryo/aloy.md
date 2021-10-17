@@ -83,6 +83,7 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Co
 * **Chillwater Bomblets** share ICD and follow standard ICD.
 * Aloy can gain **Coil Stacks** while off-field.
 * **Chillwater Bomblets** snapshot on **Frozen Wilds** cast.
+* Recasting **Frozen Wilds** will cause existing **Chillwater Bomblets** to explode.
 
 {% endtab %}
 
