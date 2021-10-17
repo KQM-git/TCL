@@ -312,3 +312,30 @@ In high ping environment, switching character take some amount of time. Assuming
 
 **Significance:**  
 Smiling Ei UwU
+
+## Use any expressions you want in Photo Mode  
+
+**By:** Kgbeast#6738  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893668250263633980/896141552135569438/transcript-capped-enhancement-ore.html)
+
+**Findings/Evidences**  
+Consequences of having capped (9999) Mystic Enhancement Ore:
+
+- Abyss rewards are sent to the mail and cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap  
+[Video](https://www.youtube.com/watch?v=q9W_R6sYpEQ&ab_channel=SteveBob)
+
+- Mystic enhancement ore from the Battle Pass cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap
+
+- Completing a random event will not yield any ore rewards but will still give companionship EXP and mora  
+[Video](https://www.youtube.com/watch?v=o6ms2FVQs68&ab_channel=SteveBob)  
+[Video](https://www.youtube.com/watch?v=pTFZUEjhBtc&ab_channel=SteveBob)
+
+- Mystic enhancement ore cannot be crafted at the blacksmith with either amethyst chunks or crystal ore  
+[Video](https://www.youtube.com/watch?v=9Z4XW4mvTuY&ab_channel=SteveBob)
+
+- Completing a daily commission CAN and will give mystic enhancement ore, exceeding the 9999 cap (previous methods still do not work past 9999)  
+[Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
+
+**Significance:**  
+This will never happen to you though.
