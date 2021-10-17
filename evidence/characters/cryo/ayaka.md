@@ -39,6 +39,25 @@
     * Hilichurl - [2ri#0945](https://imgur.com/WB4b1ej)
 * The vertical hitbox is tall enough to hit Oceanid Birds - [Lowy#0119](https://imgur.com/a/gw47yBc)
 
+### Ayaka Q Pushes Away Enemies  
+
+**By:** Tsym#2586  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890817514794266664/899133874968354866/transcript-ayaka-q-pushing-away-enemies-of-different-weights.html)  
+
+**Finding:**  
+Upon cast, Ayaka Q pushes away all nearby enemies. It appears through several tests (see video), that the extent to which enemies are pushed away are dependent upon their weight and/or their size. Light/small enemies are pushed away the most, and heavy/big enemies are pushed away the least (relative to the size of their overall hitbox). There also appear to be some instances where enemies are not pushed away at all (see the last clip), which I believe can occur when enemies are stuck within an animation.
+
+Two additional notes about the pushing effect:  
+1) The distance of the pushing effect appears to be lessened if the enemies are pushed against the wall (see the first clip), so you can stand a little ways away from the wall so small enemies aren't pushed as far.  
+2) The pushing effect occurs equally in all directions away from Ayaka's character model, so you really don't want to stand in the middle of a pack of enemies while casting her Q. Repositioning to one side is generally a better idea.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=oFTAa9vMehw)  
+
+**Significance:**  
+Better understanding of Ayaka Q's mechanics to land more hits from her burst. 
+
 ### Constellation Mechanics
 
 #### C2: Blizzard Blade Seki no To
