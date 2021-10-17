@@ -277,6 +277,27 @@ Triggering another reaction during 4pc instructor buff extends duration of buff
 **Significance:**  
 The buff time can be extended by swapping back into the carrier and triggering a reaction.
 
+### Instructor Doesn't Apply To Triggering hit
+
+**By:** NZPIEFACE#8439  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894835774149779546/899112347862433822/transcript-4in-doesnt-apply-to-triggering-hit.html)
+
+**Finding:**  
+4pc Instructor set doesn't apply to the hit/reaction that causes it.
+
+**Evidence:**  
+Non-4pc Instructor on Amber: [Video](https://youtu.be/v9gwgpX45_0)  
+4pc Instructor on Amber: [Video](https://youtu.be/Tav18kHMF3g)
+
+Non-4pc Instructor on Sara: [Video](https://youtu.be/PvuF_mMG0jo)  
+4pc Instructor on Sara: [Video](https://youtu.be/TZll51tVIyM)
+
+Result: The damage is the same for both CAs in both tests.
+
+**Significance:**  
+Damage calculation
+
 ## Maiden Beloved
 
 ### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
