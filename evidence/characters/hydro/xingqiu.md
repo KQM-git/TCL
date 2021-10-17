@@ -166,6 +166,32 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 
 **Significance:** Limit testing of XQ.
 
+### Xingqiu Q's Rain Sword Damage Reduction Overrides E's
+
+**By:** Charliex3000#9403  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890793989232529439/899126244615028867/transcript-xq-qe-dmg-reduction-interactions.html)
+
+**Finding:**  
+Xingqiu's Q/E damage reduction snapshots. But with Q always overriding E before swapping.  
+After swapping, the Damage Reduction uses the more recently cast Q/E.
+
+**Evidence:**  
+Always takes Q prior to swapping:  
+[Video](https://youtu.be/4fYbNmxn_gs)  
+[Video](https://youtu.be/gT-OIrVN6h4)
+
+Takes more recently cast Q:  
+[Video](https://youtu.be/b5N8sxAC0fQ)
+
+Takes more recently cast E:  
+[Video](https://youtu.be/ljK2MnIXeI0)  
+[Video](https://youtu.be/XKWFORRneDA)  
+[Video](https://youtu.be/xtoRKU7Dkh4)
+
+**Significance:**  
+We understand more about how XQ's damage reduction works. Additionally, this means that doing Q-N1-E with Mistsplitter XQ gives better damage reduction than E-Q-N1, especially if using C6 Bennett or Chongyun.
+
 ## Constellation Mechanics
 
 ### C6: Hence, Call Them My Own Verses
