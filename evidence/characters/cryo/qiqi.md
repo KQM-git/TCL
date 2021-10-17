@@ -50,6 +50,29 @@ Buffed and wait for bonus to wear off: 2598 hp healed
 **Significance:**  
 The timing of applying the talisman does not matter at all, all that matters is how much atk your character has when hitting the enemy
 
+### Talisman Heals Regardless Dealing DMG Or Not
+
+**By:** Nass008#8577  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895729399729623060/899174324060192798/transcript-qiqi-talisman-0-damage-healing.html)
+
+**Finding:**  
+Even moves that deal 0 damage (therefore no scaling with stats) can still trigger Qiqi’s talisman healing
+
+This behavior is different compared to Albedo E and Raiden E (both of them have similarly worded conditions for in-game tooltips)
+
+**Evidence:**  
+1. Mona/Ayaka alternate sprints: [Imgur](https://imgur.com/WuUAXcA)  
+2. Xingqiu/Barbara E hydro application: [Imgur](https://imgur.com/NWOh0qL)  
+3. Jean Q self hydro swirls: [Imgur](https://imgur.com/vS8ueTt)  
+4. Mona Q cast: [Imgur](https://imgur.com/3Qzy2My)  
+5. Xingqiu Q activation: [Imgur](https://imgur.com/6FlHxOk)  
+6. Hutao E activation: [Youtube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)  
+7. Yoimiya E activation: [Youtube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029) 
+
+**Significance:**
+Additional insight on how game consider to be "taking damage" (which is not consistent between characters)
+
 ## Calculations/Resources
 
 ### Qiqi driver frame counting
