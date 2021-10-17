@@ -421,6 +421,24 @@ C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during 
 **Significance:**  
 Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
 
+## Geo Hypostasis  
+
+### Geo Traveler's E can break Geo Hypostasis Pillar  
+
+**By:** TarZ\#6365  
+**Added:** 17/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897646550963093554/898812202541281320/transcript-geo-mc-boulder-can-break-pillar-and-cause-hammer-attack-to-occur-with-geo-hypostasis.html)  
+
+**Finding:**  
+Placing a boulder underneath the geo hypostasis at the start of the battle will cause the middle pillar to break. This then has a chance to cause the hypostasis to do a hammer attack on the player.  
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=DJdk_zOrl-Q&ab_channel=TarZBlammo)  
+
+**Significance:**  
+This speeds up the fight by making the Geo Hypostasis vulnerable, without having to spend extra effort to break the pillars. Keep in mind though that the vulnerability windows derived from using this method is shorter.
+
+
 ## Corrosion
 
 ### Corrosion damage mechanics

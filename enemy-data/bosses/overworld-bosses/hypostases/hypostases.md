@@ -85,7 +85,7 @@ Code name: Aleph. A high-purity Electro entity.Elemental hypostases are the high
 
 Code name: Gimel. A high-purity Geo entity.Elemental hypostases are ultra-compact structures with a high mass.Concentrated elemental energy forms a solid shell around the core of the hypostasis, leaving only the core reactive to elemental stimuli.
 
-## Weakspot Details
+## Weakspot Details  
 
 > todo
 
