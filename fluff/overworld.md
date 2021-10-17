@@ -59,6 +59,12 @@ The current world state & character position is saved between different world ma
 * Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
 
+## Revive Mechanics  
+
+* The game will revives the player's party at 35% Max HP when all party members die.
+* The revival happens at the closest Teleport Waypoint, Domain, or Statue of The Seven relative to where the last member died.
+* Drowning or falling into the void only removes 10% of Max HP during revival.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/overworld.md" %}

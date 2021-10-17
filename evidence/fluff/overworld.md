@@ -543,6 +543,46 @@ Chad perma wet evidence by Aluminum#5462: [Video](https://youtu.be/ffisrID76r0)
 **Significance:**  
 Vault update.
 
+## Health And Revive Mechanics
+
+**By:** kxmndz\#4700  
+**Added:** 16/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893415165796712468/898820933857456168/transcript-health-and-revive-mechanics.html)  
+
+**Findings:**  
+A) When all party members' health reaches 0, the revive screen comes up and 2 things happen:  
+* You are respawned at the nearest Teleport Waypoint, Statue of the Seven or Domain, relative to where the last member died.
+* All party members are healed to 35% of their max HP (rounded off to the nearest whole number).  
+
+B) There are 2 kinds of environmental deaths:  
+* Drowning and falling into the void takes away a set 10% of all party members' max HP.
+* Other environmental deaths tie in with Finding A
+
+C) Health is "dynamic" and restored as "% of max HP" instead of a flat amount.
+
+**Evidence:**  
+Teleported to the Nearest Waypoint:  
+* [Nearest Domain](https://youtu.be/Kktd971hhGA)
+* [Nearest Statue of the Seven](https://youtu.be/sn0KKSx1D84)
+* [Nearest Teleport Waypoint](https://youtu.be/sjVzLED1lmM)  
+
+Revived at 35% of Max HP:  
+* [Video](https://youtu.be/bpcZO5AaPs0)
+* [Video](https://youtu.be/CAl_ooMAMrs)
+
+Data from falling into the void and drowning:  
+* [Spreadsheet](https://docs.google.com/spreadsheets/d/1jj1q1i7Yrpn51pbPVKYOzSc6nDllSiYNu1l7eBRiuJw/edit?usp=sharing)
+* [Imgur Album](https://imgur.com/a/GyCTwye)
+
+Other environmental deaths:  
+* [Imgur Album](https://imgur.com/a/r6fPD71)
+
+Health is dynamic:  
+To start, Bennett had 281/10,987 HP (2.56%) and Fischl had 190/8,144 HP (2.33%). Bennett had 10,987 HP at the moment of death. After he died, flowers were equipped on both characters, raising Bennett's Max HP to 15,767 and Fischl's to 12,924. After equipping the flower, Fischl's HP changed from 190/8,144 to 301/12,924, staying at 2.33% of her max HP. Fischl dies with 12,924 Max HP. The revive screen comes up, and they are both respawned and healed. Bennett is revived with 5,518/15,767 HP, which is 35% of his new max HP. Fischl is revived with 4,523/12,924 HP, at 35%. After unequipping both flowers, Bennett's HP changed to 3,845/10,987, which is still 35% of his max HP while Fischl's HP changed to 2,850/8144, staying at 35% of her max HP. [Video](https://youtu.be/HKMwzlkXBvg)  
+
+**Significance:**  
+Documentation and better understanding of how the game handles health and death.
+
 ## Not all 2U pyro attacks ignite grass
 
 **By:** Nass008\#8577  
