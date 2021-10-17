@@ -169,7 +169,6 @@ Structures do not count as "opponents" for the purposes of triggering abilities 
 
 **Evidence:**  
 Hilichurl Tower: [Youtube](https://youtu.be/kY2MB81k8-0)  
-Geo Hypostasis's Rock Pillars: [Youtube](https://youtu.be/z4S7hEPybgE)  
 Slime Balloon: [Youtube](https://youtu.be/Sq3OgfBptTE)  
 Other random structures:  
 [Youtube](https://youtu.be/Rs-p5UjMyiw)  
