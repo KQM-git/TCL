@@ -313,7 +313,7 @@ In high ping environment, switching character take some amount of time. Assuming
 **Significance:**  
 Smiling Ei UwU
 
-## Use any expressions you want in Photo Mode  
+## Capped Enhancement Ores  
 
 **By:** Kgbeast#6738  
 **Added:** 10/09/2021  
