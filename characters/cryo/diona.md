@@ -50,6 +50,7 @@ A fully charged shot will deal Cryo DMG.
 
 * Aimed Shot frame counts are done using M1 Spams.
 * Fully Charged frame counts are done using ARCC Shots.
+* Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
