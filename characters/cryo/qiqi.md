@@ -104,6 +104,7 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 * **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.
   * The healing scales off Qiqi's ATK, not the active character's ATK.
   * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
+  * The healing has an ICD of approximately 1 second
   
 {% endtab %}
 {% endtabs %}
