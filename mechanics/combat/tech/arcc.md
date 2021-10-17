@@ -16,9 +16,21 @@ ARCC shots have some quirks that are different from normal Charged Attacks:
 * Non-C6 Ganyu, Yoimiya, and Aloy CANNOT fire a fully-charged ARCC shot. They will always get a physical charged shot, regardless of charge level before release.
 * C6 Ganyu can fire a fully-charged ARCC after using her skill.
 
+# Hold M1 Double Shot
+
+Some characters are able to fire a second Charged Attack after doing hold M1 CA shot. This second shot has the same properties as ARCC shots.
+
+The sequence to perform this tech is:
+* Hold M1
+* Release M1 (fires the first CA)
+* Hold M1 again before the camera zooms out
+* Release M1 at the exact same time the camera begins to zoom out (fires the second CA)
+
 ## Media
 
 {% embed url="https://imgur.com/BvuqB5g" caption="Basic ARCC demonstration" %}
+
+{% embed url="https://imgur.com/itkCyVm" caption="Hold M1 Double Shot" %}
 
 ## Evidence Vault
 
