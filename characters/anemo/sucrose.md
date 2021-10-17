@@ -113,6 +113,7 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 * A4 snapshots Sucrose's **Elemental Mastery**.
 * A4 also always activates *after* **Instructor** 4pc set bonus within the same proc.
 * A4 effect can be triggered even when Sucrose is not on the field.
+* A4 effect is dynamic in multiswirl situations.
 {% endtab %}
 {% endtabs %}
 
