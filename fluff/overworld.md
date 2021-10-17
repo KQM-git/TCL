@@ -32,7 +32,8 @@
 
 ### Burning Grass
 
-Burning grass has standard ICD - 3 hits/2.5 seconds.  
+Overworld grass generally takes 2 units of pyro to ignite. However, some abilities do not interact with grass.\
+Burning grass has standard ICD - 3 hits/2.5 seconds. 
 
 ### Zone Levels:
 
