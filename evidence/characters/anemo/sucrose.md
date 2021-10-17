@@ -38,7 +38,23 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 One more reason to get Sucrose out in the field more often, at least for this use case
 
-## Ascension Mechanics
+## Ascension Mechanics  
+
+### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  
+
+**By:** Katsune\#4691  
+**Added:** 17/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898471465438027806/898489236662132756/transcript-sucrose-a1-doesnt-proc-on-swirling-guobaenvironmental-objects.html)  
+
+**Findings:**  
+Sucrose's A1 talent, Catalyst Conversion, does not proc on Swirling Guoba or environmental objects.  
+
+**Evidence:**  
+* [Swirling off Guoba](https://youtu.be/D-ifIdU1Z6c)  
+* [Swirling off Cooking Pot](https://youtu.be/RWBMCpfH47E)  
+
+**Significance:**  
+For double swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennett/XL/Childe), Sucrose's A1 talent will not benefit Xiangling unless you swirl pyro off of the enemy.
 
 ### Sucrose's EM share on multiswirl is dynamic  
 
