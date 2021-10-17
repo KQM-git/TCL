@@ -298,6 +298,25 @@ Result: The damage is the same for both CAs in both tests.
 **Significance:**  
 Damage calculation
 
+### Instructor Doesn't Apply On Enviromental Or Self Target
+
+**By:** elijam#7142  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898398553783799848/899200243520917524/transcript-4ins-doesnt-proc-on-environmental-or-self-rxns.html)
+
+**Finding:**  
+The 4pc Instructors set bonus will not be activated by reactions with non enemies triggered by the holder, including reactions triggered on characters.
+
+**Evidence:**  
+[Video](https://youtu.be/WBJCFpqSP1s): Sara has 97 EM before and after triggering overload on a stove fire.  
+[Video](https://youtu.be/Sv_sMy5EM1g): Chongyun has 110 EM before and after triggering freeze on a river.  
+[Video](https://youtu.be/wecoNW3Y8RQ): Barbara has 141 EM before and after triggering vaporize on a stove fire.  
+[Video](https://youtu.be/mkcNgkjgpAA): Bennett and Razor (both wearing 4ins bc I cba figuring out who triggers) have the same EM before and after triggering overload on themselves.  
+[Video](https://youtu.be/_BehqMrC0jw): Bennett and Razor (both wearing 4ins) have the same EM before and after triggering overload on themselves with an enemy within range to take damage. 
+
+**Significance:**  
+Can't use environmental reactions to set up screenshots. Can't use self reactions to trigger 4ins for sunfire/Razor-Bennett self OL/other self reaction cheese teams. 
+
 ## Maiden Beloved
 
 ### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
