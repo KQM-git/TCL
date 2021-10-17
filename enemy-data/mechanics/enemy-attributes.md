@@ -26,7 +26,7 @@ Monster skill effects can be taunted. In general, these skill effects target the
 
 ## Mist Bubble
 
-The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble IFrame](../../evidence/enemy-data/enemy-attributes.md#mist-bubble-iframe)
+The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble iFrame](../../evidence/enemy-data/enemy-attributes.md#mist-bubble-iframe)
 
 ## Evidence Vault
 
