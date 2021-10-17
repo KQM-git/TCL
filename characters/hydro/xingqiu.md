@@ -95,6 +95,9 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 * The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.
 * **Rain Swords** remain at the maximum number.
 * **Rain Swords** will not shatter.
+* **Rain Swords** DMG Reduction created by **Guhua Sword: Raincutter** also snapshots.
+  * **Guhua Sword: Raincutter**'s Rain Swords will always override **Guhua Sword: Fatal Rainscreen**'s before swapping.
+  * After swapping, the DMG Reduction will base on the most recently cast Rain Swords.
 
 | Type | Talent 6% |
 | :--- | :--- |
