@@ -73,6 +73,35 @@ This behavior is different compared to Albedo E and Raiden E (both of them have 
 **Significance:**
 Additional insight on how game consider to be "taking damage" (which is not consistent between characters)
 
+### Qiqi Talisman ICD
+
+**By:** Nass008\#8577, NZPIEFACE\#8439  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895389894145355836/899122969400475648/transcript-qiqi-talisman-healing-icd.html)  
+
+**Finding:**  
+Healing from Fortune-Preserving Talisman (Qiqi Q) has cooldown (approximately 1 second).
+In-game tooltip only mention the target taking damage as condition. However the talisman has cooldown on how fast it can heal.
+
+The healing from talisman only occurs every ~1 seconds and healing ticks will not increase against multiple targets (suggesting cooldown is shared between targets).
+
+To add to this, the healing cooldown appears to be shared across the team.
+
+**Evidence:**  
+
+[Single target](https://youtu.be/ryLga9DRUD0)
+
+[Single target frame count](https://imgur.com/grbH8Qz)
+
+[Multi target](https://youtu.be/X4P8ay0Cv14) 
+
+[Multi target frame count](https://imgur.com/FrqMFZe) 
+
+[Across team members](https://www.youtube.com/watch?v=OWTu6zEjH5A)
+
+**Significance:**  
+Clarification on Qiqi's healing mechanics
+
 ## Calculations/Resources
 
 ### Qiqi driver frame counting

@@ -49,3 +49,35 @@ Unable to headshot Lawachurl, you can see the shot go to his left leg: [Imgur](h
 
 **Significance:**  
 When within autoattacking range of an enemy, where you aim does not matter for ARCC. This is both good and bad. Good is that you don't have to aim in certain scenarios. Bad is that you are unable to headshot certain enemies with ARCC due to autotargeting.
+
+## Hold M1 Double Shot
+
+**By:** BowTae#0141  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892681715745710100/899116235403460638/transcript-hold-m1-double-shot.html)
+
+**Theory/Finding:**  
+Some characters are able to fire a second CA after doing hold M1 CA shot. This second shot has the same properties as ARCC shots.
+
+Confirmed to work on Venti, Diona, Tartaglia, and Yoimiya. No theorycrafters were able to get it to work on other bow characters, yet.
+
+The sequence to perform this tech is:
+* Hold M1 -> 
+* release M1 (fires first CA) -> 
+* hold M1 again before the camera zooms out -> 
+* release M1 at the same exact time the camera begins to zoom out (fires second CA)
+
+Consistently possible at 30fps, very difficult at 60fps.
+
+**Evidence:**  
+Diona at 60 fps: [Imgur](https://imgur.com/itkCyVm)  
+Venti (credit to GottaGoFast#7876): [Imgur](https://imgur.com/a/DCdea1n)  
+Tartaglia (credit to Sayline#5959): [Youtube](https://youtu.be/Z6WmXS8mo_o)  
+Yoimiya: [Youtube](https://youtu.be/0Q4jsgySdqU)
+
+Proof that second shot is ARCC:  
+Has same targetting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
+Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)  
+
+**Significance:**  
+Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it is one of the characters that can do this), as the extra shot theoretically does not add any more frames to the attack string.

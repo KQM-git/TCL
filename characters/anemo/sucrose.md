@@ -102,7 +102,8 @@ When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% ch
 ### Catalyst Conversion
 
 When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
-* This effect can be triggered even when Sucrose is not on the field.
+* This effect can be triggered even when Sucrose is not on the field.  
+* This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 {% endtab %}
 
 {% tab title="Ascension 4" %}

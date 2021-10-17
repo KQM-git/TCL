@@ -105,7 +105,7 @@ As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is 
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
-## Paimon's Bargins
+## Paimon's Bargains
 
 ### Resin to Stardust Exchange Comparison
 
@@ -430,3 +430,18 @@ You cannot do sprint with this, it automatically converts to "W".
 
 **Significance:**  
 You can go to the toilet while traversing through Teyvat using your new autowalk skills.
+
+## Boat Stamina And Food
+
+**By** Ayzel#7399  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897673998811398194/899171326827331624/transcript-boat-stamina-and-food.html)  
+
+**Finding:**  
+Eating stamina restoration food doesn't work for the Waverider.
+
+**Evidence:**  
+[Video](https://youtu.be/pzxVJj-6z4c)
+
+**Significance:**  
+Don't waste food

@@ -320,6 +320,29 @@ If your artifact inventory is near full (993/1000 in this case) you get an "No s
 **Significance:**  
 This check already exists if you try to collect artifacts with a near full inventory, wishes may operate similarly or this could just be a bug.
 
+### Sprinting Bug
+
+**By:** BowTae#0141  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893769893525200908/899132398682402936/transcript-drain-stamina-while-standing.html)
+
+**Finding:**  
+Characters can enter sprint by pressing dash while standing and then pressing and holding a direction during the dash animation. If a direction is pressed and held on the frame when the character begins to stand up, they will stop moving, but continue to drain stamina as long as a direction is held.
+
+Performing any action such as jump, attacks, dash, aim, swap, and entering a menu will cause the character to break free, presumably because these actions normally will end sprint.
+
+**Evidence:**  
+[Imgur](https://imgur.com/tMgbyfv)
+
+Breaking free compilation: [Youtube](https://youtu.be/mtybszRN0gk)
+
+Gadgets that can be used while sprinting will not cause the character to break free: [Imgur](https://imgur.com/Gup9gEv)  
+Spinning while in this state will cause the character to sink into the ground: [Imgur](https://imgur.com/Urf2h2T)  
+A character's feet will spaz out when spinning: [Imgur](https://imgur.com/GqKetLB)
+
+**Significance:**  
+Fluff, annoying bug when you do it by accident.
+
 ## Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  

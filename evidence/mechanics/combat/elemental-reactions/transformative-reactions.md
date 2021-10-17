@@ -661,6 +661,30 @@ Evidence for Anemo triggers defying this array is already provided in the ticket
 
 **Significance:** Allows for better (but still incomplete) understanding of when double reactions can be utilized and how to set them up. Additionally, both the previous [freeze table](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#freeze-aura-mechanics) and the [EC interactions with other elements ticket](https://library.keqingmains.com/evidence/mechanics/combat/elemental-reactions/transformative-reactions#interaction-of-other-elements-with-electrocharged-targets) are found to be inaccurate.
 
+### Multi Shatter
+
+**By:** BowlSoldier#3528  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887402348580859964/899169099240833064/transcript-shatter-bug.html)
+
+**Finding:**  
+In some situations, Shattering a Frozen enemy removes less than the normal 8GU. This allows multiple Shatters to occur on a single Freeze, or Shatter + Melt at the same time. This also allows Claymore characters such as Chongyun or Eula to benefit from 4 Blizzard Strayer's extra crit on Frozen enemies.
+
+**How does this happen?**  
+This appears to be a bug, as it's not a consistent change. It is triggered by entering any domain, including the Spiral Abyss. However only on PC. Mobile and console players cannot trigger this. Once you have entered a Domain, the bug will remain active even in the overworld until you restart your game.
+
+**How much Frozen aura is removed by a Shatter?**  
+This has not yet been tested. It's theorized that it works the same way as Frozen shields on enemies; the reduction in Frozen gauge is proportional to the poise damage done by the attack. However this has not been confirmed.
+
+**Evidence:**  
+Multi Shatter Evidence: [Video](https://youtu.be/Dt1kNwlLF9M)  
+Shatter + Melt Evidence: [Video](https://youtu.be/yxTISikxnf4)
+
+**Significance:**  
+Bug discovering
+
+### **Crystallize on an Electro-Charged Enemy**
+
 ## Swirl
 
 ### How to get Double Swirls

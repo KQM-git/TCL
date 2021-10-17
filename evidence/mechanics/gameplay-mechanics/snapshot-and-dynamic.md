@@ -32,3 +32,40 @@ To add to Seaweed I tested this with Xiangling Pyronado along with c6 Diona Q. W
 
 **Significance:** This means that you can potentially update Oz's snapshot to reflect any new buffs, however this also means that if you resummon Oz after losing buffs, Oz will become weaker if he was previously snapshotted with buffs.
 
+
+## Stats not in details stat page are not snapshot
+
+**By:** Kidz\#8667, Charliex3000\#9403  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872757681826435132/899103401432989736/transcript-stats-not-in-details-stat-page-are-not-snapshot.html)  
+
+**Finding:**  
+In general, stats that are not in a Character's "Details" pane do not snapshot. However, the exception is that "Increases All DMG" effects do snapshot, except for the exceptions to this exception: Alley Hunter and Geo Resonance don't snapshot their "Increases All DMG".
+
+Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow generated when A1 is active is a completely different internal object than the Frostflake Arrow generated when A1 is inactive. (Additionally, it's not just CA Crit Rate, because her uncharged CAs don't get the 20% CR buff).
+
+**Evidence:**  
+The following stats snapshot:  
+[Character Level](https://youtu.be/XLRbNlErGCA)  
+[Talent Level](https://youtu.be/aJGU1syC_cs)  
+[ATK](https://library.keqingmains.com/evidence/mechanics/gameplay-mechanicssnapshot-and-dynamic#summons-are-not-dynamic-and-snapshot-on-cast)  
+CRIT Rate: [From GeoMC C1 evidence](https://youtu.be/DBMJEKuABes)  
+[CRIT DMG](https://youtu.be/A__SJDUmfhY)  
+Elemental DMG%: [See Mistsplitter stacks evidence](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)  
+DMG%: [Alley Flash](https://youtu.be/PR5ZxqHsLOo), [Serpent Spine](https://youtu.be/5FG_OEG8iYA) , [PJWS](https://www.youtube.com/watch?v=muUSsL8gxwU)  
+Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](https://library.keqingmains.com/evidence/mechanics/gameplay-mechanics/snapshot-and-dynamic#summons-are-not-dynamic-and-snapshot-on-cast)  
+
+The following stats were tested/known to not snapshot:
+
+OL/EC/SC/Swirl%: From [4CWF](https://imgur.com/a/bYtzhH9) \(assumed to be the same for 4TF\), From [EM](https://youtu.be/YkdpSYT9ut0)
+Burst DMG%: From [4EoSF](https://library.keqingmains.com/mechanics/equipment/weapons/polearms#engulfing-lightning), From [2NO](https://youtu.be/b0qlPkzjqX0), another [2NO](https://youtu.be/kZ6yBFfnO5M), [Raiden E](https://youtu.be/gNfQm_RQO84), [Solar Pearl](https://youtu.be/5yfQaDVafT8), and [Stringless](https://youtu.be/eG-zOxwdzHw)  
+Burst CRIT Rate: From [The Catch](https://youtu.be/e5TM7PlOeDw)  
+Skill DMG%: From [Solar Pearl](https://youtu.be/5yfQaDVafT8), and [Stringless](https://youtu.be/vhm1OAFgGA4)  
+Skill CRIT Rate: From [Festering Desire](https://youtu.be/0U32uJludm8)  
+CA CRIT Rate: [4 Sojourners](https://youtu.be/bwIxrzUnhPE)  
+CA DMG%: From [4SR](https://youtu.be/fc8pdCPxTRU), [4WT](https://youtu.be/G0F9SThwDrk), [Amos](https://youtu.be/jWxUvehP47I)  
+DMG%: (usually snaps but these two do not) [Alley Hunter](https://youtu.be/GMZtnuvn3X0), [Geo Resonance](https://youtu.be/TpBFUvREWGo)  
+Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=r4ENm19DOPY)  
+
+**Signifiance:**  
+More extensive knowledge on what does and does not snapshot.

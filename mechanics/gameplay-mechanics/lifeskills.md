@@ -134,6 +134,10 @@ You can switch fishing baits when the bobber is in mid-air.
 It's possible to perform auto walk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.
 * You, however, cannot sprint with this method.
 
+### Waverider
+
+* Stamina restoration food doesn't restore stamina for the Waverider.
+
 ## Equipment
 
 ### Destroy Mechanics
