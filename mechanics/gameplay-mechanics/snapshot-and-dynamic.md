@@ -5,6 +5,8 @@ Snapshot and Dynamic are properties assigned to skills and bursts that last over
 Summons that **snapshot** use the character's stats when cast, and will continue to use those stats regardless of buffs gained or lost in that timeframe. However there are certain buffs that that do not get snapshotted and thus can still effect the damage output after a snapshotting skill/burst is cast, such as 4pc [Blizzard Strayer](../equipment/artifacts.md#blizzard-strayer) passive.  
 In general, stats that are **not** in a Character's "Details" page **do not snapshot**.
 
+Healing effects also snapshot based on the user's stats at the time of activation.
+
 **Dynamic** summons continuously update based on the character's stats in real time.
 
 ## Dynamic Transformative Reactions
