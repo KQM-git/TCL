@@ -379,6 +379,94 @@ This seems like an extension of the TCL finding that Deployables' attack speed, 
 You can extend the duration of auras involved in EC by using hitlag. This also technically improves the DPS of EC comps very slightly, as even if your character's DPS slows down slightly due to hitlag, EC continues to damage the enemy at the same rate.  
 However keep in mind the limiting factor for EC is usually the reduction per-tick, not the duration of the involved auras. Also, most EC teams apply more Electro and Hydro than they need to maintain Electrocharged, and so never require the additional tick.
 
+### Electro-Charged Snapshots EM Until Reapplying
+
+**By:** NZPIEFACE#8439  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896132765072900146/899187533542481971/transcript-ec-snapshots-em-until-re-apply.html)
+
+**Abstract:**  
+Electro-charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying electro and hydro with changing elemental mastery.
+
+**Summary:**  
+Electro-charge deals damage over time and its snapshot interactions with changing elemental mastery hasn't been noted in the library.
+This method used was C2 Sara with 4-piece Instructors to apply elemental electro twice alongside Barbara hydro reactions to the Ruin Guard at Yaoguang Shaol.
+The electro-charge reaction snapshots the elemental mastery value at the time of reaction, but the value is updated when aura is re-applied by any character to that of the applying character's.
+
+**Introduction:**  
+Electro-charged (EC) is one of the most popular reactions, being a key component behind many teams, such as the teams in the taser archetype. As it is a transformative reaction, its damage mainly scales with the elemental mastery (EM) stat. While it's known to some that the reaction snapshots the EM stat of whoever reacted, it's not listed anywhere in the library (specifically the Transformative Reactions page, the Elemental Gauge Theory page, and the egt-rewrite draft). This ticket aims to remedy that and investigate its interactions deeper.
+
+**Hypothesis:** 
+Electro-charged snapshots the EM value of the character that caused the reaction or re-applied aura.
+
+**Method:**  
+To investigate this there are four tests that need to be completed.  
+1) EC damage when EM changes. No re-applying from characters.  
+2) EC damage when EM changes. Same source re-applying.  
+3) EC damage when a different source re-applies an element.  
+4) EC damage when a source re-applies then changes EM without re-applying.  
+
+While the above tests don't specify an element, and they should be done with both elements for both reaction and re-applying, that would quadruple the number of tests. The current elements are used for brevity and ease of testing (written in the format of reacting and re-application):  
+1) Electro.  
+2) Electro, electro.  
+3) Electro, hydro.  
+4) Electro, hydro.  
+
+A fifth test was also considered:  
+5) EC damage when a source re-applies then changes EM then re-applies.  
+This is a follow-on from 4 by adding 2.  
+
+For test 4, the original character causing the reaction doesn't need have their EM change, so the Instructor set on Sara can be removed to reduce any changes. This is not a concern for test 3, where changing EM values for the second applier is not an issue. While this test should logically follow that the EM value of the second applier will be snapshotted, this is a game from Mihoyo and we cannot be sure of anything.
+
+The enemy chosen to do these tests on is the ruin guard at Yaoguang Shaol, as it is usually already wet from the water around it. This water is not a concern as it only acts as a source of hydro to get the reaction started, and cannot cause the electro-charged reaction itself.
+
+Sara was chosen to apply electro, as she has an easy source of two electro applications with her E at C2 and her CA. The explosion of the feather from her CA will be a third application of electro, but that doesn't factor.
+
+Barbara was chosen to re-apply hydro. This is because she can apply it off-field consistently, and she can also use Widsith to increase her own EM simply by switching in.
+
+What causes EM changes will be 4-piece Instructors and Widsith. Instructors triggers on a reaction allowing for easy testing, and Widsith triggers on switching in (a third of the time).
+
+If test 5 is to be done, Razor will be applying electro with his E as Sara's electro application is only 1A for all her attacks.
+
+**Result:**  
+1) [Youtube](https://youtu.be/TZll51tVIyM) (from the finding of 4pc Instructor not apply to the triggering hit)  
+2) [Youtube](https://youtu.be/Zr2sEeo1F3c)  
+3) [Youtube](https://youtu.be/owNlEaHSyc8)  
+4) [Youtube](https://youtu.be/wjUuGLOiyoE) (forgot stat screen, but 5 basically has the first half of this but with different equipment)  
+5) [Youtube](https://youtu.be/bni5cI1P-Cg)
+
+From 1, we can see that the damage was constant despite the EM of Sara being increased from 4-pc In.
+
+Comparing 2 to 1, we see that re-applying the element from the same source increases the damage as EM increased.
+
+From 3, we see that the damage increased when a difference source applied an aura, even if the words "electro-charged" didn't appear.
+
+While the stat screen of 4 isn't shown, the damage doesn't change even after Barbara gets an increase in EM from Widsith. Even though that may not seem clear at a first viewing, going through the video frame-by-frame will show that the first 3352 EC ticks appears when Beidou is on the field.
+
+Test 5 aligns with the results of 4 and 2. When Barbara re-applies hydro, it updates to the new (and higher) EM value that she has.
+
+**Interpretation:**  
+The current interpretation is that the electro-charged reaction snapshots the elemental mastery value of whoever last applied an element to the enemy when they applied it.
+
+**Conclusion:**  
+This ticket has thoroughly explored how electro-charged interacts with changing EM values, for both on- and off-field characters. The main finding is that it snapshots the EM of whoever last applied an element for the reaction. This information can be used to more effectively build and play team comps that revolve around electro-charged, and this can be added to the library.
+
+**Limitations:**  
+A major concern would be that the water messes with reactions. While water cannot cause the electro-charged reaction, it still applies hydro to the Ruin Guard. This can be fixed by testing on different enemies.
+
+An example would be the ruin guard by the teleport marker at Luhua Pool. However, this runs into the issue of keeping hydro gauge filled consistently with few applications is difficult. Childe or Mona would be ideal, as Childe can apply 2B from entering his melee stance and Mona applies 2B on the pop of her Q's bubble.
+
+A hydro slime can be used for purposes of always having hydro, but that encounters similar issues as using water. 
+
+**Further Investigations:**  
+Swirls:  
+What happens if we have a hydro slime with electro-charged on it, with a ruin guard with hydro a bit away from it, then use Sucrose to swirl the hydro onto the electro-charged slime.
+Does that re-apply hydro and update the EM values? Before this is even tested, I'll say it's probably "yes".
+
+**Other Findings (by Dooners#6709):**  
+Barbara (and likely other characters with similar abilities) can apply hydro to hydro slimes, even if they're immune to hydro damage. The relevancy here is that characters can up-date the EM snapshot of EC as long as they apply the element.  
+Evidence: [Imgur](https://imgur.com/ZNKpRnt)
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application

@@ -60,6 +60,7 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 * Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
   * For more details on poise, we have a [page dedicated to it](../poise.md)
+* Electro-Charged snapshots the Elemental Mastery of whoever last applied an element for the reaction.
 
 ## Shatter
 
