@@ -19,6 +19,38 @@
 
 For Diona, who's charged shot ICD is higher than the time it takes to fire a second charged shot, this prevents elemental reactions or aura application from occuring on a fully charged shot if you fire a normal aimed shot by accident before it, if the ICD was not active yet.
 
+### Diona Dash Aim Cancel
+
+**By:** BowTae#0141  
+**Added:** 11/17/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895937565956378625/899199225462657064/transcript-diona-dash-aim-cancel.html)
+
+**Finding:**  
+Diona can cancel her dash early with Aim Toggle (R on PC, L2 on controller).
+
+**Evidence:**  
+[Imgur](imgur.com/JcCDf1U)
+
+With C4: [Imgur](https://imgur.com/i4PC2pN)  
+
+Diona can dash aim cancel after doing one of the following actions after switching in:
+* Enter Aim Mode
+* Normal or Charged Attack (can cancel it before the attack comes out)
+* Hold Skill (Tap Skill does not work)
+* Burst
+* Plunge Attack  
+
+[Imgur](https://imgur.com/TEapcWE)  
+[Imgur](https://imgur.com/SuK5IyM)
+
+Diona can then dash aim cancel all of her dashes, until she switches out, does Tap Skill, or does ARCC, after which she must do one of the above actions again to do dash aim cancel: 
+[Imgur](https://imgur.com/mGQK7Vk)  
+[Imgur](https://imgur.com/eTH5LG1)  
+[Imgur](https://imgur.com/0Q4fAir)
+
+**Significance:**  
+Very fast way to shoot CAs with Diona while still retaining the ability to aim (since ARCC cannot be aimed) 
+
 ## Skill Mechanics
 
 ### **Diona Elemental Skill ICD analysis**
