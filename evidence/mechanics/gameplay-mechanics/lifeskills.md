@@ -379,7 +379,9 @@ If you teleport before the mora going into the character's body, you will not ga
 **Significance:**  
 When you're speedrunning artifact route or elite route, you should wait for the mora to go into your character's body then teleport.  
 
-## Bait & Switch
+## Fishing
+
+### Bait & Switch
 
 **By** wiremash#0433  
 **Added:** 09/14/2021  
@@ -395,6 +397,61 @@ Note that bait cannot be switched once the bobber enters the water.
 
 **Significance:**  
 Unnecessarily advanced fishing technique for those trying to catch multiple species of fish.
+
+### Fishing Rods Comparison
+
+**By** OCM#0619  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887968373005230100/899175829236482048/transcript-fishing-rod-comparison.html)  
+
+**Finding:**  
+**Moonstringer (Event Rod)**
+- Moonstringer is faster than Regional Rods (in their respective region) as long as you are able to stay in the tension zone for a minimum of 2 seconds
+- The acceleration rate of the moonstringer is about an increase of 0.2 x catch rate per second maxing out at 1.4 x the base rate at about the 2 second mark. Acceleration= 0.2 rate/sec^2
+- Acceleration rate maxes out at 1.4 x faster as seen with how 25%-50% donut , 50%-75% and 75%-100% has about the same amount of frames needed. Only 0 to 25% have a different amount of frames and is more than the rest showing that there is an acceleration at the first few seconds
+- The event rod can go from 16% to 25% faster compared to a normal fishing rod as long as it stays in the tension zone instantly after the bait is caught
+
+
+**Regional Rods**
+- The Regional Rods stay at a around 16% increase in speed no matter the type of fish when fishing perfect tension from the start 
+- The regional rod's base catch rate is 1.2 x faster than the normal rod.
+- They do not have acceleration system like moonstringer
+- Regional Rods do only work in their own region  
+
+**Evidence:**  
+[Youtube](https://youtu.be/3tolOoUnucg): Liyue fishing  
+[Youtube](https://youtu.be/fK7lkgrhuME): Inazuma fishing  
+[Youtube](https://youtu.be/69O5BJGHmXU): Pufferfish fishing  
+[Imgur](https://imgur.com/a/9Xca0HA): Calculations  
+[Imgur](https://imgur.com/a/oceZzZi): Calculations 2
+
+Spreadsheet for finding acceleration and record of raw data when fishing:  
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1_1t1UfuuljuYovVjNOFR2CbARUiLF0dZESbHylU8UCU/edit?usp=sharing)
+
+Spreadsheet with pixel counts for rod comparison:  
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1Rf8Kj1I-mmT0dh1N5bQCe_at-mR87AituKnBOjB9vmg/edit?usp=sharing)
+
+Pixel count plots:  
+[Imgur](https://imgur.com/jmABZUC)  
+[Imgur](https://imgur.com/KVKCNym)  
+[Imgur](https://imgur.com/UUJezZU)  
+[Imgur](https://imgur.com/CYEC22c)
+
+**HQ Videos and Frames**  
+HQ Videos:  
+Pufferfish with different rods (render res 1.0, AA off, OBS lossless, reencoded for youtube):  
+Wilderness: [Youtube](https://youtu.be/cgnRslB3kXQ)  
+Regional: [Youtube](https://youtu.be/5VDzmitRINU)  
+Event: [Youtube](https://youtu.be/n3uCYM33SU0)
+
+Frames used:
+wilderness: [Video](https://drive.google.com/file/d/10TwxUKf5YRbUQL_Tgmf_MSNRUO77UDez/view?usp=sharing)  
+short-event: [Video](https://mega.nz/file/E01SXKDL#KSVhVn2WLKt-LL-Hp_6HS1xdErFzs80gMWWw9KgavSw)  
+short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJFtoG3mAfJWj6py81LE)
+
+**Significance:**  
+- Gameplay wise, if you already have moonstringer from event then you dont need to get the regional rods in most circumstances as the speed of the fishing rod already equals at 1 second and surpasses at 2 seconds.
+- When the fish just bit into the bait and the fishing starts, theres about a 1.6 second delay before the bar starts moving
 
 ## BP Resin Value
 
