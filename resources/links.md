@@ -12,6 +12,8 @@
 
 [Character Internal Cooldown Table](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)
 
+[Character Talent Multiplier Database](https://docs.google.com/spreadsheets/d/1ScfmvLVTS5X8VCU81M5Vtg3XYyodQK5O)
+
 ### Enemies
 
 [Enemy HP Thresholds for Energy](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit#gid=672398441)
