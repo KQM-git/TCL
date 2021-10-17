@@ -62,3 +62,21 @@
 
 * Unlike Sayu's passive animals still get startled if you get too close to them. - [Nass008#8577](https://imgur.com/BGo264W)
   * Animals still get startled if you kill one of them in a group.
+
+### Additional Skill Mechanics
+
+#### Aloy and Sac bow interaction
+
+**By:** Raven\#9205  
+**Added:** 10/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896016732412596244/899099498595364894/transcript-aloy-and-sac-bow.html)  
+
+**Finding:**  
+The wording in the Aloy Section of the Theorycrafting Library was incorrect, if Frozen Wilds is recasted after Sacrificial Bow has activated while there are bombs still on the field, the last round of bombs will explode rather than disappear.
+
+**Evidence:**  
+1) Original evidence from the 'Sacrificial bow Interactions' section by Vherax\#5321 [Imgur](https://imgur.com/1NGlqTp)
+2) The author's own testing to corroborate Vherax's original footage [Youtube](https://youtu.be/G8GhOOIwIXQ)
+
+**Significance:**  
+The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon skill recast.
