@@ -602,3 +602,68 @@ Yoimiya Q initial hit: [https://imgur.com/sPySW8G](https://imgur.com/sPySW8G) (C
 
 **Significance:**  
 Applying pyro on grass is not a foolproof method for testing elemental gauge since not all attacks apply element to environment.
+
+## Chests
+
+### Treasure Compass Chest Rendering
+
+**By:** Tibo#4309  
+**Added:** 10/17/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894036451740766218/899191434735943730/transcript-treasure-compass-range-chest-rendering.html)  
+
+**Finding:**  
+* Treasure Compass detection depends on chest rendering, chest rendering suffers from an It Depends™.
+* Chest rendering seems to be square, off-set from chest, 360m x 360m for some while 180m x 180m for others.
+
+**Evidence:**  
+Testing:  
+- To reduce variance in coordinates, the same character (Kazuha) is being used when checking coordinates. Smaller characters have lower coordinates.  
+Repeat the following until some samples in each cardinal direction/some in same cardinal direction on different ends
+- If chest in view: find border where chest becomes invisible, take screenshot before the chest becomes visible and open feedback menu. Move closer until it does, repeat screenshot/feedback menu.
+- If chest not in view: while slowly moving inwards, repeatedly screenshot/feedback until you find the border - use last two feedback tabs/screenshots for last out/in coordinates.
+
+Tested chests:  
+- Chest 1 (Common): [Imgur](https://i.imgur.com/vlH5Ka3.png) (chest unlocks after defeating monsters)  
+- Chest 2 (Luxurious): [Imgur](https://i.imgur.com/sjfQMuA.png) (chest appears after lighting electro structures)  
+- Chest 3 (Common): [Imgur](https://i.imgur.com/kpmvMrE.png) (chest appears after completing time trial)  
+- Chest 4 (Precious): [Imgur](https://i.imgur.com/P31H4JI.png) (chest unlocks after defeating monsters)  
+
+Chest 1:  
+- Range doesn't seem to be square centered around chest
+- Not circular: seen from two testing points on the north side
+- Seems to be in range at around (+- a couple meters) 166m north, 191m east, 193m south and 172m west
+
+Chest 2 (only south range tested):  
+- Chest is on top of some Hilichurl structure and disappears with said structure after 97m south
+
+Chest 3 (only north range tested):  
+- Disappears after ~90.5m north
+
+Chest 4 (unable to easily test south):  
+- Chest is visible around 178m north, 195m east and ~165m west
+
+Since 1 & 4's north+south and east+west add up to ~360, it seems that it's a square but not centered around the chest itself
+
+In some screenshots, the compass points towards another chest when the tested chest is out of range, but will still point towards the tested chest in range. This is due to the compass picking the closest chest in euclidean distance while rendering isn't a circle/sphere, but a square
+
+Maps:  
+(1 pixel = 1 meter, some pixels have both in and out dot)  
+- Range doesn't seem to be square centered around chest: [Imgur](https://i.imgur.com/Q4AoCfz.png)  
+- Chest 1 map: [Imgur](https://i.imgur.com/iTNewGF.png)  
+- Chest 2 map: [Imgur](https://i.imgur.com/AeWa0Lv.png)  
+- Chest 4 map using chest 1 rectangle: [Imgur](https://i.imgur.com/ZBffFHV.png)
+
+Data/generating of images:  
+- Screenshots/coordinates in-game: [Spreadsheet](https://docs.google.com/spreadsheets/d/1bJ5MbfOs3EeI_4RFYEMak-7hdsL9wFU0Q1vKMkFrv-s/edit?usp=sharing)
+- Map make stuff: [Git](https://gist.github.com/Tibowl/0529a89f9f9a2b35235a37fc36687a8a)
+
+Summary:  
+- Treasure Compass detection depends on chest rendering
+- Chest rendering is square, but not centered around chest
+- Chests that unlock render for ~180m (360x360 square)
+- Chests that appear render for ~90m (180x180 square) (assumed to be similar with just lower range to other chests)
+- Rarity doesn't affect range
+- Compass points towards closest chest in euclidean distance
+
+**Significance:**  
+Using the Treasure Compass to play ChestColle
