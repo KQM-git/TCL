@@ -127,7 +127,8 @@ While in the **Crowfeather Cover** state provided by **Tengu Stormcall**, Aimed 
 
 When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
 
-* The weaker Crowfeather from C2 can also trigger this effect.
+* The weaker Crowfeather from C2 can also trigger this effect.  
+* The amount of Energy Sara restores with Decorum scales directly with her Energy Recharge. You do not need to hit 100% Energy Recharge increments to restore more Energy.
 
 {% endtab %}
 {% endtabs %}
