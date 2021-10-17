@@ -38,6 +38,19 @@ description: For entries that have little practical use.
 
 * If you switch from character A to character B in a high-ping environment, then immediately enter Photo Mode, you can use expressions from character A on character B.
 
+## Capped Enhancement Ores  
+These are the consequences of having capped (9999) Mystic Enhancement Ores:
+
+* Abyss rewards are sent to the mail and cannot be collected.
+
+* Mystic Enhancement Ore from the Battle Pass cannot be collected.
+
+* Completing a random event will not yield any Ore rewards but will still give companionship EXP and Mora.
+
+* Mystic Enhancement Ore cannot be crafted at the blacksmith.
+
+* Completing a daily commission, however, CAN and WILL give Mystic Enhancement Ore, even exceeding the 9999 cap.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/miscellaneous-entries.md" %}
