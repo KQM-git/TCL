@@ -51,6 +51,9 @@ These are the consequences of having capped (9999) Mystic Enhancement Ores:
 
 * Completing a daily commission, however, CAN and WILL give Mystic Enhancement Ore, even exceeding the 9999 cap.
 
+## Maximum Original Resin  
+Original Resin can go past the cap of 160, up to a cap of around 2000 Resin.  
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/fluff/miscellaneous-entries.md" %}
