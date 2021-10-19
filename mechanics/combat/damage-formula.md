@@ -41,7 +41,7 @@ $$
 | **FlatAttack** | Sum of all non-percentage-based attack bonuses from the feather and other sources. |
 | **DefenseCharacter** | Charcter's base defense. |
 | **DefenseBonus** | Sum of all percentage-based defense bonuses from artifacts and other sources. |
-| **FlatDamage** | Extra damage from Zhongli's A4 passive. |
+| **FlatDamage** | Extra damage from sources such as Zhongli's A4 passive or Kokomi's Elemental Burst. |
 | **DamageBonus** | Sum of all damage increases from elemental goblets, Gladiator's Finale 4-piece bonus, etc, excluding Xingqiu's constellation 4 effect Evilsoother. |
 
 ## Critical Hits
