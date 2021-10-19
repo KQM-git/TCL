@@ -314,6 +314,22 @@ Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=I
 **Significance:**  
 Damage calculations for Noelle.
 
+### Noelle C6 Burst Extension
+
+**By:** JonahFarc\#7056  
+**Added:** 10/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895691894825312256/899778880544587776/transcript-noelle-burst-extension.html)
+
+**Finding:**  
+Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
+
+**Evidence:**  
+Video by manome: [Youtube](https://youtu.be/-Ueq1Wcf7w8)  
+Further video evidence by the author: [Youtube](https://youtu.be/ysQiAfYYa34)
+
+**Significance:**  
+Noelle can maximize her burst duration without getting a kill, reducing her battery needs and allowing her to maximize burst with significantly less effort.
+
 ## Interactions/Synergies
 
 ### How does Sacrificial Greatsword work with Noelle?

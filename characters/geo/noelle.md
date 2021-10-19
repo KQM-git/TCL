@@ -187,6 +187,7 @@ Increases the Level of **Sweeping Time** by 3.
 **Sweeping Time** increases Noelle’s ATK by an additional 50% of her DEF.
 
 * Every opponent defeated during the skill’s duration adds 1s to the duration, up to 10s
+* Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
 
 {% endtab %}
 {% endtabs %}
