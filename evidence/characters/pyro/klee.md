@@ -68,6 +68,23 @@ Both of these conditions lines up with the current ICD theory.
 **Significance:**  
 Klee's jumpty dumpty's split mine might steal some reactions away from Klee's normal string by activating the timer and hit count before normal string lands, or it might also allow Klee to do more reaction using her normal strings by advancing the counter number.
 
+### Klee Skill Gauge
+
+**By:** jamie\#9248, Scavenger\#6510  
+**Added:** 10/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895409296140013619/900158764689272842/transcript-klee-e-gauge.html)
+
+**Finding:** Tcl entry for klee's jumpty dumpty might have the wrong bounce gu entry, which is currently in at 2b. Bounces are not all the same.  
+1st bounce = 1u 2nd bounce = 1u 3rd bounce = 2u
+
+**Evidence:**
+
+1. first bounce test = chongyun only melts 2 swords [Youtube](https://www.youtube.com/watch?v=wY-0DKfV3sw)  
+2. second bounce test = chongyun only melts 2 swords [Youtube](https://youtu.be/ielZ3K7EiDQ)  
+3. final bounce = grass sets on fire [Youtube](https://www.youtube.com/watch?v=iulXOvubb4A)  
+
+**Significance:** Updated tcl
+
 ## Burst Mechanics
 
 ### Klee’s Q is snapshotted on Cast
