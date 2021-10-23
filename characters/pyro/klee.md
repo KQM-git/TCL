@@ -136,6 +136,11 @@ Attacks and Skills have a certain chance to summon sparks that bombard opponents
 | Chained Reactions | 1A | Elemental Burst |
 
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
+* Has a very small AOE
+* Has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs.
+* Has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q.
+*  When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires.
+* Klee's C1 appears to have a standard ICD for elemental application, and is shared with her burst.
 {% endtab %}
 
 {% tab title="C2" %}
