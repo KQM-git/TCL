@@ -73,7 +73,6 @@
 **Added:** 10/24/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890763855679082536/902020447338643456/transcript-kokomi-n2-delay-bug.html)  
 
-
 **Finding:**  
 Kokomi N2 sometimes gets a delay when doing N2 walk cancels.  
 
