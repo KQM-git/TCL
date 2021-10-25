@@ -356,3 +356,21 @@ Original Resin can go past the cap of 160, capped at ~2000.
 
 **Significance:**  
 Better understanding of the Resin system.  
+
+## Crafted Food Items Limit  
+
+**By:** It3mUs3r#4778 and Creonalia#2818  
+**Added:** 10/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/899016596054495253/902068304749944852/transcript-crafted-food-item-limit.html)  
+
+**Finding:**  
+Crafted items limit is 2000 per unique item. Both automatic cooking and manual cooking yield this result. Which character is cooking also does not change this limit.  
+
+**Evidence:**  
+2000 of each kind of Fragrant Mashed Potatoes: [Imgur](https://imgur.com/ioIoAhw)  
+Unable to craft more Suspicious Fragrant Mashed Potatoes: [Imgur](https://imgur.com/xPdT6NG)  
+Unable to craft more Fragrant Mashed Potatoes: [Imgur](https://imgur.com/NMhB8L9)  
+Unable to craft more Delicious Fragrant Mashed Potatoes: [Imgur](https://imgur.com/DynpQAn)  
+
+**Significance:**  
+Food is not infinite.  
