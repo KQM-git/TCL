@@ -16,7 +16,20 @@
 
 **Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
 
-**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
+**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.  
+
+### Venti 10 Frame Elemental Skill
+
+**By:** Charliex3000#9403  
+**Added:** 10/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894423798416310304/899832505866289192/transcript-10-frame-venti-e.html)
+
+**Finding:** Venti Elemental Skill can consistently be cancelled at 10 frames.
+
+**Evidence:** [YouTube](https://youtu.be/PWJ7Z-Gb-KE)  
+The inputs are: Hold E for 9 frames. Release E. Press Q.  
+
+**Significance:** Saves around 10 frames on E-Q combo (20 frames E -> 10 frames E).  
 
 ## Burst Mechanics
 

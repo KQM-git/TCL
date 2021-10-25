@@ -338,4 +338,21 @@ Consequences of having capped (9999) Mystic Enhancement Ore:
 [Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
 
 **Significance:**  
-This will never happen to you though.
+This will never happen to you though.  
+
+## Maximum Original Resin  
+
+**By:** CQLQRS#7853  
+**Added:** 10/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896356040747122698/899839089124179968/transcript-maximum-original-resin.html)  
+
+**Finding:**  
+Original Resin can go past the cap of 160, capped at ~2000.  
+
+**Evidence:**  
+* Unable to go past 1993 Resin: [kimchihotpot#8630](https://imgur.com/a/gka5rSj)  
+* Unable to use 11 Fragile Resin (660 Resin) when at 1360 Resin, which would result in 2020 Resin: [Tibo#4309](https://i.imgur.com/kKl8sBo.png)  
+* Unable to use 1 Fragile Resin when at 2000 Resin: [Tibo#4309](https://i.imgur.com/Jl8wK1R.png)  
+
+**Significance:**  
+Better understanding of the Resin system.  
