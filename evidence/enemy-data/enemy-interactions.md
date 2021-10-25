@@ -313,6 +313,7 @@ Zhongli's universal res shred also has no effect (tested Barbara's N1 and Kaeya'
 **Significance:**  
 With this knowledge you can finish your commissions 2 seconds faster.
 
+
 ### Hydro Slimes Apply Wet to Surroundings  
 
 **By:** Rainfury#8343  
