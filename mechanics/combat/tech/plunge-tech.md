@@ -46,4 +46,4 @@ On certain moves where hitlag occurs, you can quickly press jump which will give
 
 ## Evidence Vault:  
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/Plunge.md" %}  
+{% page-ref page="../../../evidence/mechanics/combat/tech/plunge.md" %}  
