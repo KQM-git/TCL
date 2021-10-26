@@ -65,6 +65,24 @@
 
 * Kokomi's C1 has no ICD and isn't shared with her Normal Attacks - [Carrier5by5#8394](https://youtu.be/E9e3pPEuI1Q) and [Aetherpon#5730](https://www.youtube.com/watch?v=mHwAE58CZc8)  
 
+## Attack Mechanics  
+
+### Kokomi N2 Delay Bug  
+
+**By:** Some Proselytizer#8340  
+**Added:** 10/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890763855679082536/902020447338643456/transcript-kokomi-n2-delay-bug.html)  
+
+**Finding:**  
+Kokomi N2 sometimes gets a delay when doing N2 walk cancels.  
+
+**Evidence:**  
+[Youtube](https://youtu.be/CBZYh9Grsl4)  
+Frame counts: [Google Doc](https://docs.google.com/spreadsheets/d/1JLYelWNm7y7rjnzbsNdQ-NaGG7mbZ9qWEocMGaiSqI4/edit#gid=0)  
+
+**Significance:**  
+Could be detrimental to her role as a Beidou driver and make her lose procs. Dash cancels and jump cancels seem to mitigate this problem. There is no consistent pattern on when this delay will happen, it is essentially random.
+
 ## Skill Mechanics
 
 ### Snapshot Burst DMG Bonus onto Bake-Kurage by switching
