@@ -223,6 +223,27 @@ Some enemies can possess more than one state. For example. Abyss Lector and Hera
 **Significance:**  
 An Estimated 29% of all enemies in 2.0 have at least one of these states. The majority of these enemies are either Elite enemies or bosses. Understanding these states can help players to utilize the Omen extension more effectively.
 
+### Petrify Omen Extension
+
+**By:** Monochrom9\#8058  
+**Added:** 10/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898482560210980905/901965314378584084/transcript-petrify-omen-extension.html)
+
+**Finding:**  
+Petrify cannot extend the duration of omen by preventing the bubble from popping by itself, contrary to some other observations.  
+The confusion comes from the fact that you *can* use petrify to lock an enemy into a state where they have stagger resistance to begin with, extending the duration of *that* state and therefore the omen.  
+Petrify *by itself* cannot extend - petrify on a resistant target *can*.
+
+**Evidence:**  
+The first video demonstrates a petrify during the Fatui agents attack that gives them stagger resistance and does not pop in response to XQ's attacks.  
+While in the second video the petrify occurs with the hoarder in a state where they *do not* have stagger resistance and the extension fails.
+
+* [Success](https://youtu.be/WhDH0G3XUgY)
+* [Pop](https://youtu.be/oBKtbQUt_1w)
+
+**Significance:**  
+ZL's ability to extend omen with petrify is more conditional than previously thought.
+
 ## Dash Mechanics
 
 ### Rosaria's Passive Affects Mona's Alternate Sprint
