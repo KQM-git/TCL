@@ -137,10 +137,6 @@ Legend has it that some people would use Hydro Slimes as an emergency water sour
 ## Attacks
 
 > todo
-* Hydro Slimes will apply Hydro to both Enemies and Allies in their surroundings:
-  * When they land after the bouncing attack.
-  * When they are hit by an attack, including attacks that they are immune to.
-  * When they are unfrozen.
 {% endtab %}
 
 {% tab title="Pyro" %}
