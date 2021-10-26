@@ -64,6 +64,28 @@ Damage is consistent with and without 4HoD, 2gambler, and 2NO bonuses - [Video](
 **Significance:**  
 Damage calculations for Keqing.
 
+### C2: Keen Extraction  
+
+### Keqing C2 Procs Inconsistently  
+
+**By:** Sayline#5959  
+**Added:** 10/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880450784465129492/902064461525975080/transcript-c2-keqing-proc-consistency.html)  
+
+**Finding:**  
+Keqing's C2 procs inconsistently.  
+
+**Evidence:**  
+20 trials of Keqing hitting Ruin Guard: [YouTube](https://youtu.be/Yut7TBCd_GU)  
+Sample video of how hit counting was done: [YouTube](https://youtu.be/LQuXtesnT-8)  
+Table showing when C2 procs were observed: [Imgur](https://imgur.com/a/paATz9q)  
+
+Hypothesis on how C2 currently works by Isu#6867:  
+* Even when Keqing's C2 has generated a particle within the last 5 seconds, any subsequent NA/CA hit on an electro-aura enemy has a 50% chance to reset the cooldown back to 5 seconds by reapplying the same modifier that was used to generate the particle.  
+
+**Significance:**  
+Calculating Keqing energy needs with C2 in mind is hard to do with its inconsistent nature.  
+
 ## Interactions/Synergies
 
 ### Keqing Pale Flame Set Bonus
