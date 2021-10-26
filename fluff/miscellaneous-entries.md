@@ -38,7 +38,9 @@ description: For entries that have little practical use.
 
 * If you switch from character A to character B in a high-ping environment, then immediately enter Photo Mode, you can use expressions from character A on character B.
 
-## Capped Enhancement Ores  
+## Resources
+
+### Capped Enhancement Ores  
 These are the consequences of having capped (9999) Mystic Enhancement Ores:
 
 * Abyss rewards are sent to the mail and cannot be collected.
@@ -51,8 +53,11 @@ These are the consequences of having capped (9999) Mystic Enhancement Ores:
 
 * Completing a daily commission, however, CAN and WILL give Mystic Enhancement Ore, even exceeding the 9999 cap.
 
-## Maximum Original Resin  
+### Maximum Original Resin  
 Original Resin can go past the cap of 160, up to a cap of around 2000 Resin.  
+
+### Crafted Food Item Limit  
+Crafted food items have a limit of 2000 per unique item.  
 
 ## Evidence Vault
 
