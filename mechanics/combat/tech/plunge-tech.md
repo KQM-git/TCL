@@ -36,6 +36,13 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 It's possible to use hitbox collision off of enemies to push yourself higher which allows average and tall height characters to perform a plunge attack.  
 
+# No Dash Dragon Strike
+
+On certain moves where hitlag occurs, you can quickly press jump which will give your character just enough height to do Plunge Attack.
+* This is similar to Dragonstrike, but does not require dashing first.
+* It is frame rate dependent and not very consistent on some characters.
+
+
 
 ## Evidence Vault:  
 
