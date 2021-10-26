@@ -293,10 +293,29 @@ Amall Anemo Slimes test: [Video](https://youtu.be/T3v7y7-NqTE)
 **Significance:**  
 If anemo slimes are ever introduced to the abyss, this information could be useful.
 
+### Hydro Slimes Apply Wet to Surroundings  
+
+**By:** Rainfury#8343  
+**Added:** 10/25/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883264842931257425/902081518808203324/transcript-hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
+
+**Finding:**  
+Hydro slimes will apply hydro to both enemies and allies in their surroundings when they land from bouncing (after three hops for small slimes, every hop for large slimes), when they are hit by an attack, including attacks which they are immune to, and when they are unfrozen or shatter removes them from a frozen state. Hydro slimes will not apply hydro if they are frozen. This elemental application will not trigger damaging reactions. 
+
+**Evidence:**  
+Hydro application from bounces: [Youtube](https://youtu.be/nckb-u6WBu8), [Youtube](https://youtu.be/1JNVta6C2GY)  
+Hydro application upon hit: [Imgur](https://imgur.com/a/1kkpMhr), [Imgur](https://imgur.com/a/0VciMcu), [Youtube](https://youtu.be/q-avodAKeEs), [Youtube](https://youtu.be/LpnIyFNejBw)  
+Hydro application upon unfreeze: [Youtube](https://youtu.be/nRTK21ZQSSU), [Youtube](https://youtu.be/iOYamVjMRhU)  
+No hydro application when frozen: [Imgur](https://imgur.com/a/YDww90R)  
+No trigger on damaging reactions: [Imgur](https://imgur.com/a/Isc993K)
+
+**Significance**  
+Better understanding of enemy and character aura management in combat with hydro slimes. 
+
 ### Slime Balloon  
 
 **By:** ariose#3891  
-**Added:** 08/31/2020  
+**Added:** 08/31/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881262532914974720/882077997841133618/transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
