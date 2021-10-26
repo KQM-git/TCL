@@ -208,6 +208,7 @@ Increases the Level of **Lightning Blade** by 3. Maximum upgrade level is 15.
 ### World-Shaker
 
 Every 2 **Falling Thunder** attacks triggered by **Bellowing Thunder** will increase the DMG dealt by the next **Falling Thunder** by 100%, and will restore an additional 1 Energy to the current character.
+* The damage increase is multiplicative.
 {% endtab %}
 {% endtabs %}
 
