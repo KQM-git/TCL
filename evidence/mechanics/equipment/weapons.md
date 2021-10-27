@@ -783,6 +783,30 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine
 
+### Aquila Favonia
+
+#### Aquila Favonia Proc And Shield Interaction
+
+**By:** gvo#4200  
+**Added:** 10/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884586464292261949/902500308381495326/transcript-aquila-proc-and-shield-interaction.html)
+
+**Finding:**  
+There is some inconsistency with shielded sword characters and aquila favonia procs.
+
+**Evidence:**  
+[YouTube](https://youtu.be/mEgcnveyTrg): Bennett with Diona's shield
+
+[YouTube](https://youtu.be/ZSd-3ke6YmQ): Xingqiu with Diona's shield
+
+The videos show:  
+1/ How aquila does not proc when protected by a shield  
+2/ How aquila can proc while in burst iframes, without a shield  
+3/ How aquila can proc while in burst iframes, while protected by a shield
+
+**Significance:**  
+This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
+
 ## General Mechanics
 
 ### Event Weapons Cannot be Foddered
