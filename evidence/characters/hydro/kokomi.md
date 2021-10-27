@@ -108,7 +108,7 @@ This can potentially change Kokomi's Burst rotations due to the ability to snaps
 
 **By:** Tibo#4309    
 **Added:** 10/26/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890281986105696266/902014281841799168/transcript-kokomis-jellyfish-is-uninterruptible.html)  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890281986105696266/902798398757928970/transcript-kokomis-jellyfish-is-uninterruptible.html)  
 
 **Finding:**  
 Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
