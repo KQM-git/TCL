@@ -127,4 +127,4 @@ Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Rem
 * After casting E and getting interrupted, Kokomi has 22.5% Pyro DMG Bonus.
 
 **Significance:**  
-Permanent 4p HoD uptime at cost of getting interrupted and not summoning Bake-Kurage.  
+Can have higher Artifact set effect uptime and stacks, but at the cost of getting interrupted and not summoning Bake-Kurage.  
