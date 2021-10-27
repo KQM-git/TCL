@@ -104,18 +104,27 @@ Kokomi Skill at end of Burst mode vs. a single enemy (snapshot successful): [Img
 **Significance:**  
 This can potentially change Kokomi's Burst rotations due to the ability to snapshot and keep the Bake-Kurage DMG Bonus even after her Burst duration ends.  
 
-### Kokomi Skill triggers 4pc HoD effect even when interrupted
+### Kokomi Skill triggers artifact effects even when interrupted
 
 **By:** Tibo#4309    
-**Added:** 10/24/2021  
+**Added:** 10/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890281986105696266/902014281841799168/transcript-kokomis-jellyfish-is-uninterruptible.html)  
 
 **Finding:**  
-Kokomi can trigger the 4-piece Heart of Depth effect when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
+Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
 
 **Evidence:**  
-Unbuffed N1 damage is 1120: [Imgur](https://imgur.com/tBed7gZ)  
-After casting E and getting interrupted, N1 does 1297, indicating that HoD triggered. You can also see the buff arrows: [Imgur](https://imgur.com/3cZWdQQ)  
+4pc Heart of Depth  
+* Unbuffed N1 damage is 1120: [Imgur](https://imgur.com/tBed7gZ)  
+* After casting E and getting interrupted, buff arrows appear, and N1 does 1297: [Imgur](https://imgur.com/3cZWdQQ)  
+
+4pc Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)  
+* Unbuffed N1 damage is 243.  
+* After casting E and getting interrupted, buff arrows appear, energy is consumed, and N1 does 312. 
+
+4pc Crimson Witch of Flames: [Imgur](https://imgur.com/IJW2aBQ)
+* Kokomi has 15% Pyro DMG Bonus before cast.
+* After casting E and getting interrupted, Kokomi has 22.5% Pyro DMG Bonus.
 
 **Significance:**  
 Permanent 4p HoD uptime at cost of getting interrupted and not summoning Bake-Kurage.  
