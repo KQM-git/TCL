@@ -122,6 +122,33 @@ Testing was done using Diona @ around 40% crit rate spamming normal attacks with
 
 Favonius weapons suffer the same drawback as sacrificial and does not provide itself as an alternative weapon choice against shielded enemies. This leaves favonius where it was before, the inferior option against sacrificial unless you have no better.
 
+### Favonius Weapons Procs On Multiple Enemies
+
+**By:** Nass008#8577  
+**Added:** 10/26/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885554549983678475/890088612354478150/transcript-sac-and-fav-weapons-against-multi-targets.html)
+
+**Finding:**  
+Favonius weapons passive proc per enemy against multiple targets
+
+**Evidence:**  
+Tested with R2 Favonius Sword (70% proc chance) and 100% crit rate  
+Using Xinyan E (duration 12s) to time passive cooldown  
+
+Expected proc chance if the passive proc per enemy : 91%  
+1 - 0.3^2 = 0.91
+
+Result : 134 attempts, 123 proc, 11 non-proc  
+91.8% proc chance
+
+[Video 1](https://youtu.be/ZimedXXk07w) (21 attempts)  
+[Video 2](https://youtu.be/zanvJ9V9K0U) (48 attempts)  
+[Video 3](https://youtu.be/UyUWYnMFCCE) (65 attempts)
+
+
+**Significance:**  
+Favonius Weapons are more effective on character with large AOE abilities/against multiple targets 
+
 ## Millennial Movement Series
 
 ### Millennial Movement stack mechanics
@@ -287,6 +314,32 @@ I documented every Sacrificial Weapons' interactions with characters that have E
 
 **Significance:**  
 Helpful for character building, documents which characters are able to proc sacrificial weapons with multi-hit skills
+
+### Sacrificial Weapons Procs On Multiple Enemies
+
+**By:** Nass008#8577  
+**Added:** 10/26/2021  
+[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885554549983678475/890088612354478150/transcript-sac-and-fav-weapons-against-multi-targets.html)
+
+**Finding:**  
+Sacrificial weapons passive proc per enemy against multiple targets
+
+**Evidence:**  
+Tested with R3 Sacrificial Sword (60% chance to proc) against two targets  
+Using Noelle E (cooldown 24s) to time passive cooldown  
+
+Expected proc chance if the passive proc per enemy : 84%  
+1 - 0.4^2 = 0.84　
+
+Result : 137 attempts, 114 proc, 23 non-proc  
+83.2% proc chance
+
+[Video 1](https://youtu.be/vHiuD6Sw0os) (32 attempts)  
+[Video 2](https://youtu.be/q2rRpkOizWo) (49 attempts)  
+[Video 3](https://youtu.be/K7lhvmV2-ZM) (56 attempts)  
+
+**Significance:**  
+Sacrificial Weapons are more effective on character with large AOE skills/against multiple targets
 
 ## Specific Weapon Mechanics
 
@@ -729,6 +782,30 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine
+
+### Aquila Favonia
+
+#### Aquila Favonia Proc And Shield Interaction
+
+**By:** gvo#4200  
+**Added:** 10/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884586464292261949/902500308381495326/transcript-aquila-proc-and-shield-interaction.html)
+
+**Finding:**  
+There is some inconsistency with shielded sword characters and aquila favonia procs.
+
+**Evidence:**  
+[YouTube](https://youtu.be/mEgcnveyTrg): Bennett with Diona's shield
+
+[YouTube](https://youtu.be/ZSd-3ke6YmQ): Xingqiu with Diona's shield
+
+The videos show:  
+1/ How aquila does not proc when protected by a shield  
+2/ How aquila can proc while in burst iframes, without a shield  
+3/ How aquila can proc while in burst iframes, while protected by a shield
+
+**Significance:**  
+This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
 
 ## General Mechanics
 

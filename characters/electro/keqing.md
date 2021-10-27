@@ -157,6 +157,9 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 
 When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
 
+* The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
+  * For more details, see the [full entry](../../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) in Keqing's Evidence Vault.
+
 {% endtab %}
 
 {% tab title="C3" %}

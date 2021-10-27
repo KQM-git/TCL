@@ -37,3 +37,9 @@
 #### A4: Resounding Roar
 
 * A4 only takes into account the Traveler's original ER, picking up an amulet to increase ER, won't change the ER shared by A4. - [Vivy#5802](https://imgur.com/gallery/GmSaZyL)
+
+### Constellation mechanics
+
+#### C6: World-Shaker
+
+* Electro traveller's C6 is a multiplicative buff - [Kgbeast#6738](https://www.youtube.com/watch?v=nAViwIGqCOU)

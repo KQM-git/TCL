@@ -36,7 +36,21 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 It's possible to use hitbox collision off of enemies to push yourself higher which allows average and tall height characters to perform a plunge attack.  
 
+# No Dash Dragon Strike
+
+On certain moves where hitlag occurs, you can quickly press jump which will give your character just enough height to do Plunge Attack.
+* This is similar to Dragonstrike, but does not require dashing first.
+* It is frame rate dependent and not very consistent on some characters.
+
+# Standing Plunge
+
+Tall characters are able to jump high enough on flat ground to plunge or glide. This can be done with all current tall characters (patch 2.1) and does not require any movement speed buffs. Works while in landing, idle, and jogging animation, with no specific frames that guarantee a plunge.
+
+# Switch Plunge
+
+It is possible to jump in the window that occurs before a character switches. Depending on the ping, this window is large enough to gain enough height for the entering character to then jump again and plunge.
+* It is also doable at 28ms to 130ms ping, but should be possible at higher pings too. Works on PC, Console, and Mobile.
 
 ## Evidence Vault:  
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/Plunge.md" %}  
+{% page-ref page="../../../evidence/mechanics/combat/tech/plunge.md" %}  

@@ -138,6 +138,7 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 * **Illusory Bubble**'s duration can be extended under specific circumstances:
   * Enemies that were applied Cryo beforehand, thus got Frozen after receiving the **Illusory Bubble** status.
   * Enemies that are in a stagger-resistant state, i.e., performing an attack animation, having an elemental shield/armor, etc.
+  * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
 * Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 
 {% endtab %}

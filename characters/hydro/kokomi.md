@@ -39,6 +39,7 @@ Performs up to 3 consecutive attacks that take the form of swimming fish, dealin
   * Apply 1A hydro and follow standard ICD (3-hits/2.5s).
   * Have a range of ~6 tiles before it stops auto-targetting.
   * Hit in a small AoE.
+* Kokomi's 2nd Normal Attack sometimes has a delay before it comes out. This delay is inconsistent, but can usually be mitigated by performing Dash or Jump cancel.
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to deal AoE Hydro DMG after a short casting time.

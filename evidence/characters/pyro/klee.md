@@ -68,6 +68,23 @@ Both of these conditions lines up with the current ICD theory.
 **Significance:**  
 Klee's jumpty dumpty's split mine might steal some reactions away from Klee's normal string by activating the timer and hit count before normal string lands, or it might also allow Klee to do more reaction using her normal strings by advancing the counter number.
 
+### Klee Skill Gauge
+
+**By:** jamie\#9248, Scavenger\#6510  
+**Added:** 10/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895409296140013619/900158764689272842/transcript-klee-e-gauge.html)
+
+**Finding:** Tcl entry for klee's jumpty dumpty might have the wrong bounce gu entry, which is currently in at 2b. Bounces are not all the same.  
+1st bounce = 1u 2nd bounce = 1u 3rd bounce = 2u
+
+**Evidence:**
+
+1. first bounce test = chongyun only melts 2 swords [Youtube](https://www.youtube.com/watch?v=wY-0DKfV3sw)  
+2. second bounce test = chongyun only melts 2 swords [Youtube](https://youtu.be/ielZ3K7EiDQ)  
+3. final bounce = grass sets on fire [Youtube](https://www.youtube.com/watch?v=iulXOvubb4A)  
+
+**Significance:** Updated tcl
+
 ## Burst Mechanics
 
 ### Klee’s Q is snapshotted on Cast
@@ -173,6 +190,31 @@ Damage calc for burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set b
 
 **Significance:**  
 No value in chain casting burst shenanigans, and Klee C6 does apply to her own burst despite some people saying otherwise. 
+
+### Klee C1 mechanics
+
+**By:** solo\#3333  
+**Added:** 10/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887125796379050076/901561241552695326/transcript-klee-c1-mechanics.html)  
+ 
+**Finding:**  
+- Klee's C1, like her burst, has a (very) small aoe.  
+- Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.  
+- Klee's C1 has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q. Self explanatory, but perhaps the only unusual trigger is pressing Q.  
+- When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires. It seems happens consecutively: once a trigger misfires, the next trigger is likely to despawn.  
+- Klee's C1 appears to have a standard icd for its aura, and is shared with her burst.  
+
+**Evidence:**  
+Aoe - [Imgur](https://imgur.com/mfLfo5n)  
+Proc math & data - [Google docs](https://docs.google.com/spreadsheets/d/1zixb0exCxBaSDXcxWcNw-Kl6qKUaiQuN/edit?usp=sharing)  
+Misfire example 1 - [Imgur](https://imgur.com/n7RfhaQ)  
+Misfire example 2 - [Imgur](https://imgur.com/p4ploRl)  
+C1 proc chance: *Has been lost to the sands of time*  
+Pressing Q can proc C1 (and ICD is shared with burst)- [Imgur](https://imgur.com/QB3McRB)  
+C1 standard icd - [Imgur](https://imgur.com/sUa4xwQ), swirl damage = 911
+
+**Significance:**  
+Better understanding of Klee's C1.
 
 
 ## Synergies/Interactions
