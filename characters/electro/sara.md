@@ -81,6 +81,8 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 * The hitbox to gain an ATK buff from **Tengu Juurai: Ambush** is massive vertically.
 * The damage hitbox of **Tengu Juurai: Ambush** is different from the hitbox to gain an ATK Buff.
 * **Tengu Juurai: Ambush** is a unique "friendly fire" attack and can trigger several other characters's perks that require getting hit.
+* When Sara is near an enemy, **Tengu Stormcall** will teleport her away from them. 
+* When Sara is not near any enemies, **Tengu Stormcall** will teleport her backwards. The player can also choose to control the teleport by inputting a direction before the teleport occurs.  
 
 {% endtab %}
 
