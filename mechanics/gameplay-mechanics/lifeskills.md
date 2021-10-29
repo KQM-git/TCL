@@ -135,6 +135,14 @@ You can switch fishing baits when the bobber is in mid-air.
 
 * Moonstringer can go from 16% to 25% faster compared to a normal fishing rod as long as it stays in the tension zone instantly after the bait is caught.
 
+#### Co-Op Trolling
+
+There are several ways to grief other people trying to fish in co-op:  
+* Use collision to move others far enough from their original fishing position to cancel their fishing.
+* Use Albedo's Elemental Skill to raise others off the ground and cancel their fishing.
+* Draw enemy aggro to other players and use enemy collision to move them away from their original fishing position and cancel their fishing.
+* Scare off fish by moving into the water or attacking the fish.
+
 ### Auto Walking
 
 It's possible to perform auto walk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.
