@@ -347,7 +347,9 @@
 | :--- | :--- |
 | Gilding | Using an Elemental Burst regenerates **4/4.5/5/5.5/6** Energy every 2s for 6s. All party members will regenerate **4/4.5/5/5.5/6**% HP every 2s for this duration. |
 | Base ATK | 42 - 510 |
-| HP% | 9% - 41.3% |
+| HP% | 9% - 41.3% |  
+
+* HP regeneration is based off the Max HP of the character being healed, not the max HP of the character equipped with **Prototype Amber** - [Reens#9389](https://library.keqingmains.com/evidence/mechanics/equipment/weapons#prototype-amber-healing-clarification)
 {% endtab %}
 
 {% tab title="Details" %}

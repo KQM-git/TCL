@@ -536,6 +536,28 @@ New gained stacks on PJWS will extend the duration of existing stacks, beyond th
 
 **Significance:** XBDIT can stack PJWS for her second pyronado.
 
+### Prototype Amber  
+
+#### Prototype Amber Healing Clarification  
+
+**By:** Reens#9389  
+**Added:** 10/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902702182086868993/902796682113204314/transcript-prototype-amber-healing-clarification.html)  
+
+**Finding:**  
+Prototype Amber's heal (4% rounded down) is based off the Max HP of the character being healed, not the max HP of the character equipped with the catalyst.  
+
+**Evidence:**  
+[Imgur](https://imgur.com/hof4TQg)  
+Sucrose equipped with R1 Prototype Amber - max HP 15082 (4% rounded down is 603 hp):  
+* Tartaglia Max HP 21466, Healed 858  
+* Beidou Max HP 20162, Healed 806  
+* Bennett Max HP 16163 Healed 646  
+
+**Significance:**  
+Stacking HP on a Prototype Amber wielder will not increase its healing.
+
+
 ### Prototype Starglitter
 
 #### Prototype Starglitter Stacks Duration Refresh
