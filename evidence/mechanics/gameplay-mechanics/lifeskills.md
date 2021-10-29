@@ -455,7 +455,7 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 
 ### Co-Op Fish Trolling
 
-**By** Aevean Leeow\#1362  
+**By** Aevean Leeow\#1362 and Scavenger\#6510  
 **Added:** 10/28/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883181763143286884/903518750903504926/transcript-fish-trolling.html)  
 
