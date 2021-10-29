@@ -6,7 +6,7 @@ description: For entries that have little practical use.
 
 **Main Page:**
 
-{% page-ref page="../../fluff/overworld.md" %}
+{% page-ref page="../../fluff/miscellaneous-entries.md" %}
 
 ## Bush Lighting
 

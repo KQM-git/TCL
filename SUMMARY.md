@@ -351,6 +351,6 @@
       * [Enemy Elemental Gauge](evidence/enemy-data/enemy-elemental-gauge.md)
       * [Enemy Interactions](evidence/enemy-data/enemy-interactions.md)
       * [Enemy Shields and Armor](evidence/enemy-data/enemy-shields.md)
-    * [Fluff](evidence/fluff/README.md)
+  * [Fluff](evidence/fluff/README.md)
       * [Miscellaneous Entries](evidence/fluff/miscellaneous-entries.md)
       * [Overworld](evidence/fluff/overworld.md)
