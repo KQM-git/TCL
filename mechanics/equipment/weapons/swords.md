@@ -33,6 +33,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Freedom-Sworn
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Revolutionary Chorale | A part of the “Millennial Movement” that wanders amidst the winds. Increases DMG by **10/12.5/15/17.5/20**%. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain “Millennial Movement: Song of Resistance” for 12s. “Millennial Movement: Song of Resistance” increased Normal, Charged and Plunging Attack DMG by **16/20/24/28/32**% and increases ATK by **20/25/30/35/40**%. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the “Millennial Movement,” buffs of the same type will not stack.|
+| Base ATK | 46 - 608 |
+| Elemental Mastery | 43 - 198 |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 382 | 146 |
+| 60+ | 414 | 146 |
+| 65 | 435 | 155 |
+| 70 | 457 | 164 |
+| 70+ | 488 | 164 |
+| 75 | 510 | 172 |
+| 80 | 532 | 181 |
+| 80+ | 563 | 181 |
+| 85 | 586 | 190 |
+| 90 | 608 | 198 |
+{% endtab %}
+{% endtabs %}
+
 ### Mistsplitter Reforged
 
 {% tabs %}
