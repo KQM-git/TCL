@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../mechanics/enemies/enemy-interactions.md" %}
+{% page-ref page="../../enemy-data/mechanics/enemy-interactions.md" %}
 
 ## Abyss Heralds
 
