@@ -86,3 +86,26 @@ Credit is given to Carrier5by5\#8394 for bringing forth the data-side evidence o
 
 **Significance:**  
 Understanding how elemental infusion operates allows for more extensive use of the mechanic for setting up reactions and breaking shields. It is now known that we can rely on the game data to determine the priority of new absorption abilities rather than test each one.
+
+## Absorption Aura Check Inflicts Self Damage
+
+**By:** Nass008\#8577, CQLQRS\#7853, Sayline\#5959
+**Added:** 10/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902503398396538891/903470600062902332/transcript-absorption-aura-check-count-as-self-dmg.html)
+
+**Finding:** When anemo abilities with elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive that activate on hit. However, they will stop hitting allies after absorbing any element.
+
+**Evidence:**  
+Venti Q triggering Beidou C4: [Video](https://imgur.com/ScuOXnH)  
+Sucrose Q triggering Beidou C4: [Video](https://imgur.com/LX5CLXE)  
+Kazuha Q triggering Beidou C4: [Video](https://imgur.com/RM5AJXD)  
+
+Sucrose Q triggering Zhongli A1: [Video](https://imgur.com/a/vlYJ8dW)  
+Sucrose Q triggering Diluc C2: [Video](https://youtu.be/m8WGg3DfXSo)  
+
+Kazuha Q *not* triggering Beidou C4 after Absorption: [Video](https://youtu.be/EgYM8ZftuOY)  
+Venti and Sucrose *not* triggering Beidou C4 after Absorption: [Video](https://youtu.be/nQR8nxX7ckU)  
+
+**Significance:**  
+Some characters with passives that trigger on-hit have potential to take advantage of this interaction.  
+This may be used to further investigate the properties of elemental absorption (e.g., finding the tick rate of the aura check).  

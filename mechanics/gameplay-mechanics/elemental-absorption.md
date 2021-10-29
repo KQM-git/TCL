@@ -12,7 +12,7 @@ So far it is understood that Anemo abilities with Absorption will always absorb 
 * Environmental effects that inflict the above elements
 * Hydro, Pyro, and Electro but not Cryo charged arrows
 
-This means that it is insufficient to simply attack the Anemo ability with an elemental skill or infused weapon. If the skill has the capability to infuse the character with an absorbable element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier.
+This means that it is insufficient to simply attack the Anemo ability with an elemental skill or infused weapon. If the skill has the capability to infuse the character with an absorbable element, then the character can then touch the ability to trigger absorption, or alternatively an enemy can be used as a carrier. The character touching the ability prior to Absorption can also trigger some on-hit-taken effects.
 
 ## Absorption Priority
 
