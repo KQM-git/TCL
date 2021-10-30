@@ -85,6 +85,29 @@ Ability to apply a pyro aura immediately after means that there is no invisible 
 **Significance:**  
 Freeze teams and melt/vape teams that function off the freeze aura will perform significantly worse in boss scenarios. Considering that freeze teams typically run Blizzard Strayer set, triggering a freeze on a boss not only does not produce a freeze aura, but also consumes cryo aura. The end result is that freeze only functions to remove cryo aura from bosses, making the Blizzard Strayer 4PC effect useless if you are triggering freeze often. For melt/vape teams, they will be unable to trigger melts off the frozen aura \(since it cannot exist on bosses\). This also results in the inability to take advantage of underlying hydro aura after a melt reaction on a frozen entity.
 
+### Cryo Regisvine  
+
+#### Pyronado and Cryo Regisvine Hurtbox Interaction  
+
+**By:** CQLQRS\#7853  
+**Added:** 10/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902502466942287892/903460815556984862/transcript-xl-cryo-regisvine-pepega.html)  
+
+**Finding:**  
+Cryo Regisvine possibly has 2 hurtboxes/1 extended hurtbox for its main body and 1 more SEPARATE hurtbox for the core that Xiangling's Pyronado cannot reach.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/MzxuBXG): Pyronado hits twice per rotation, including at times where it makes no contact with the Regisvine.  
+* Upon casting Pyronado, there were instances where Pyronado was far enough from the Regisvine such that no contact was being made and yet, damage was being dealt. This leads me to believe that there is either 1 extended hurtbox, or 2 hurtboxes when the Regisvine is in the vulnerable state.  
+
+[Imgur - Mcpie\#8672](https://imgur.com/a/nbOZFdN): XL does 1U to core HP
+* In Mcpie\#8672's video, upon casting Pyronado, only the 1st initial swing applied Pyro, whereas Pyronado does not. This is firstly due to the first 3 swings having standard ICD and hence only 1 applies pyro. Secondly, it also shows that Pyronado is unable to reach the hurtbox of the core, supporting the theory.  
+
+**Significance:**  
+This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../evidence/characters/pyro/xiangling#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
+You cannot rely solely on Pyronado to break Cryo Regisvine's core.  
+Genshin spaghetti at its finest.  
+
 ## Ruin Guards
 
 ### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
