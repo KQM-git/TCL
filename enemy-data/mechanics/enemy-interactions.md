@@ -15,6 +15,10 @@ The cooldown debuff can be avoided by shield and elemental burst iframes.
 
 Triggering a freeze reaction on a boss entity does not create a frozen aura on the entity, but rather consumes the hydro and cryo auras, leaving no aura behind.
 
+### Cryo Regisvine
+
+* Xiangling's Pyronado will only apply Pyro once to the Cryo Regisvine's core during the initial swing, and will not hit the core again during the rest of its duration.
+
 ## Ruin Guards
 
 * Polearm charge attacks, with the exception of Xiao, don't register on stunned Ruin Guards because of the "leaping forward" animation that occurs.
