@@ -162,9 +162,11 @@ Increases the Level of Riff Revolution by 3.
 {% tab title="C6" %}
 ## Rockin' in a Flaming World
 
-Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.
-{% endtab %}
-{% endtabs %}
+Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.  
+* Her C6 is added into the stats page as flat attack.
+{% endtab %}  
+{% endtabs %}  
+
 
 ## Full Talent Values
 
