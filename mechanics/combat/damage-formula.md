@@ -172,6 +172,13 @@ $$
 
 By Zakharov\#5645 and \[Neko\]\#3521
 
+## Additional Notes
+
+Any effect that scales off of a certain stat will not count any buffs that also scale themselves off of someone else's stat in their calculation.  
+" In order to avoid infinite stacking of in-game bonuses, when an effect confers one attribute as a certain percentage of another attribute, this effect will not then factor into calculations of other similar percentage-based effects. " - [Mihoyo](https://www.hoyolab.com/article/503042)  
+
+Examples of such buffs: Sucrose's Ascension 4:Mollis Favonius EM share; Kaedehara Kazuha's Ascension 4:Poetics of Fuubutsu DMG% buff, Electro Main Character's Ascension 4:Resounding Roar Energy Recharge buff; etc.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/combat/damage-formula.md" %}
