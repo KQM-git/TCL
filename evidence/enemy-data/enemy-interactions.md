@@ -438,7 +438,27 @@ Azhdaha's Tail Form has Two Independent Hitboxes
 C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
 
 **Significance:**  
-Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
+Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.  
+
+## Perpetual Mechanical Array  
+
+### PMA and Polearm CA interactions  
+
+**By:** CQLQRS\#7853 and Akarin\#8270  
+**Added:** 31/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897314204451762206/903464868055756850/transcript-perpetual-polearm-ca-hitbox.html)  
+
+**Finding:**  
+Polearm users with Charged Attacks that have bullet-like animations (including Zhongli), cannot hit Perpetual Mechanical Array (PMA) in its Energy Cannon Mode consistently.  
+
+**Evidence:**  
+* [Youtube](https://youtu.be/QDjHgd9vwBU)
+* [Youtube](https://youtu.be/NZNyHO8G0Oc)  
+
+This is likely due to collision which pushes the character below the hitbox, thus missing the attack. This can be seen as there are visual indicators of the camera shifting down in the videos.  
+
+**Significance:**  
+If your main DPS relies on Charged Attacks for damage and has the bullet-like animation mentioned, it might be better to avoid using Charged Attacks until the PMA changes states to prevent a DPS loss. 
 
 ## Geo Hypostasis  
 
