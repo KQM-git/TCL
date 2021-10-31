@@ -453,6 +453,26 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 - Gameplay wise, if you already have moonstringer from event then you dont need to get the regional rods in most circumstances as the speed of the fishing rod already equals at 1 second and surpasses at 2 seconds.
 - When the fish just bit into the bait and the fishing starts, theres about a 1.6 second delay before the bar starts moving
 
+### Fish Replacement
+
+**By:** Kenneth (Ellaevans)\#6329  
+**Added:** 10/31/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889051986312458290/904212306135748659/transcript-fishing-replacement-confirmed.html)  
+
+**Findings:**  
+All fishes from both night/day cycles are replaced after 48-72 hours.  
+
+**Evidence:**  
+4 screenshots below showing their timestamps and night/day cycles.
+- [Day, 9/16/2021 23:29](https://imgur.com/auPXTpc)
+- [Day, 9/19/2021 15:28](https://imgur.com/JziLcwm)
+- [Night, 9/16/2021 23:29](https://imgur.com/37xhvr1)
+- [Night, 9/19/2021 15:28](https://imgur.com/kkkKZaA)
+
+**Significance:**
+You do not need to fish until the spot is empty to respawn the fish that you require. Example you could fish all the pufferfish and wait 48-72 hours for the spot to replace the fishes. 
+
+
 ## BP Resin Value
 
 **By** Peekays#2722  
