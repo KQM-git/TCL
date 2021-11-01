@@ -43,7 +43,8 @@ Teleporting to a waypoint does not always teleport you to the same coordinates o
 
 ## Movement Speed
 
-Increased movement speed increases the horizontal velocity of dashing. This also impacts the distance traveled when dashing off a cliff.
+Increased movement speed increases the horizontal velocity of dashing. This also impacts the distance traveled when dashing off a cliff.  
+All movement speed buffs stack additively.
 
 ## Enemy Movement Speed
 

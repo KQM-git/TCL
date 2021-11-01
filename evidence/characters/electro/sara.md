@@ -115,6 +115,60 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 
 * Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)  
 
+## Skill Mechanics  
+
+### Sara Skill Patch 2.2 Update  
+
+**By:** NZPIEFACE#8439 and Dooners#6709  
+**Added:** 10/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897677391546163210/903468029562732565/transcript-sara-e.html)  
+
+**Finding:**  
+After the v2.2 update, Sara's Elemental Skill is much more consistent and predictable in its behaviour now:  
+* The skill will move her almost 3m away from the point of origin.  
+  * Without nearby enemies, it will teleport her backwards. This direction can be controlled with inputs.  
+  * If an enemy is within 15m, she will teleport away from them. She teleports away from the closest enemy.  
+* The movement can generally be predicted by "if it can be walked onto/over, she can teleport onto/over it". There are still a few rare issues with geometry, but that shouldn't be an issue in Abyss.  
+* A functional change from how it worked in v2.1 is that her C2 now places the Crowfeather in the direction of the teleport. This will be placed behind her regardless if Sara actually moved or not.  
+  * The Crowfeather will be placed 1m behind her.  
+  * The Crowfeather will be placed on top of any geometry. It will hang in mid-air if the height of where Sara is and the closest ground is too large.  
+* The AoE of Sara E's buff is a bit over 6m.  
+* The buff from her Crowfeather can also be extended by hitlag.  
+* C1 works off-field.  
+
+**Evidence:**  
+* Elevation changes are ok unless very drastic, generally if she can walk up a ledge she can teleport over it:
+  * Slight incline: [Imgur](https://imgur.com/SpPXRsk)  
+  * Steeper incline: [Imgur](https://imgur.com/6Kp1FiU)  
+  * Stairs: [Imgur](https://imgur.com/9ofurI0)  
+  * Ledge: [Imgur](https://imgur.com/wHnyw1y)  
+  * Ledge again: [Imgur](https://imgur.com/plRd8po)  
+  * Ledge again, but failed: [Imgur](https://imgur.com/uHxfTVp)  
+* For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall: [Imgur](https://imgur.com/Q4nsiXM)  
+* Direction of skill can be controlled right after skill cast: [Imgur](https://imgur.com/nCyOemw)  
+* Direction cannot be controlled with nearby enemies:  
+  * Nearby enemies, in combat: [YouTube](https://youtu.be/Cxr58A4gLk8)  
+  * Nearby enemies, no combat: [Imgur](https://imgur.com/PT1BEHa)  
+  * Enemies out of range: [YouTube](https://youtu.be/Zb8cPYHIHP4)  
+* Teleport distance is (1.14 tiles) 2.9m: [Youtube](https://youtu.be/amuRix98c_k)  
+* Teleporting away from nearest enemy: [YouTube](https://youtu.be/EcKOqG_nnO4)  
+* Weird geometry:
+  * Tents: [YouTube](https://youtu.be/z1KRGOWs7GY)  
+  * C2 1m: [YouTube](https://youtu.be/ITKvuRdElHU)
+  * Onto air: [YouTube](https://youtu.be/36iJ6mA8Aak)
+* Crowfeather buff range:  
+  * Crowfeather no buff (~2.4 tiles): [YouTube](https://youtu.be/Oi-jHRFw18E)  
+  * Crowfeather buffs (~2.35 tiles): [YouTube](https://youtu.be/o2RzwMrok8Y)  
+* Hitlag Extension:
+  * Without hitlag: [YouTube](https://youtu.be/g45pC3ZeIP8)  
+  * With hitlag (around 7s): [YouTube](https://youtu.be/Mu61tiopAlY)  
+* Cooldown without C1: [YouTube](https://youtu.be/GQxJAkVRGpY)  
+* Cooldown with C1: [YouTube](https://youtu.be/wadJvqicW9w)
+* Fluff: It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming: [Youtube](https://youtu.be/JrfYaCUFKwY)  
+
+**Significance:**  
+We can actually predict what pressing E will do now.  
+
 ## Ascension Mechanics
 
 ### A4: Decorum

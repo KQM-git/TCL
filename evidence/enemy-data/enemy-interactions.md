@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../mechanics/enemies/enemy-interactions.md" %}
+{% page-ref page="../../enemy-data/mechanics/enemy-interactions.md" %}
 
 ## Abyss Heralds
 
@@ -84,6 +84,29 @@ Ability to apply a pyro aura immediately after means that there is no invisible 
 
 **Significance:**  
 Freeze teams and melt/vape teams that function off the freeze aura will perform significantly worse in boss scenarios. Considering that freeze teams typically run Blizzard Strayer set, triggering a freeze on a boss not only does not produce a freeze aura, but also consumes cryo aura. The end result is that freeze only functions to remove cryo aura from bosses, making the Blizzard Strayer 4PC effect useless if you are triggering freeze often. For melt/vape teams, they will be unable to trigger melts off the frozen aura \(since it cannot exist on bosses\). This also results in the inability to take advantage of underlying hydro aura after a melt reaction on a frozen entity.
+
+### Cryo Regisvine  
+
+#### Pyronado and Cryo Regisvine Hurtbox Interaction  
+
+**By:** CQLQRS\#7853  
+**Added:** 10/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902502466942287892/903460815556984862/transcript-xl-cryo-regisvine-pepega.html)  
+
+**Finding:**  
+Cryo Regisvine possibly has 2 hurtboxes/1 extended hurtbox for its main body and 1 more SEPARATE hurtbox for the core that Xiangling's Pyronado cannot reach.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/MzxuBXG): Pyronado hits twice per rotation, including at times where it makes no contact with the Regisvine.  
+* Upon casting Pyronado, there were instances where Pyronado was far enough from the Regisvine such that no contact was being made and yet, damage was being dealt. This leads me to believe that there is either 1 extended hurtbox, or 2 hurtboxes when the Regisvine is in the vulnerable state.  
+
+[Imgur - Mcpie\#8672](https://imgur.com/a/nbOZFdN): XL does 1U to core HP
+* In Mcpie\#8672's video, upon casting Pyronado, only the 1st initial swing applied Pyro, whereas Pyronado does not. This is firstly due to the first 3 swings having standard ICD and hence only 1 applies pyro. Secondly, it also shows that Pyronado is unable to reach the hurtbox of the core, supporting the theory.  
+
+**Significance:**  
+This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../evidence/characters/pyro/xiangling.md#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
+You cannot rely solely on Pyronado to break Cryo Regisvine's core.  
+Genshin spaghetti at its finest.  
 
 ## Ruin Guards
 
@@ -438,7 +461,27 @@ Azhdaha's Tail Form has Two Independent Hitboxes
 C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during his Tail Phase, the Tail and, presumably, his Body underground, causing multiple damage values due to Lisa C4 allowing multiple entities to be tagged.
 
 **Significance:**  
-Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.
+Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.  
+
+## Perpetual Mechanical Array  
+
+### PMA and Polearm CA interactions  
+
+**By:** CQLQRS\#7853 and Akarin\#8270  
+**Added:** 31/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897314204451762206/903464868055756850/transcript-perpetual-polearm-ca-hitbox.html)  
+
+**Finding:**  
+Polearm users with Charged Attacks that have bullet-like animations (including Zhongli), cannot hit Perpetual Mechanical Array (PMA) in its Energy Cannon Mode consistently.  
+
+**Evidence:**  
+* [Youtube](https://youtu.be/QDjHgd9vwBU)
+* [Youtube](https://youtu.be/NZNyHO8G0Oc)  
+
+This is likely due to collision which pushes the character below the hitbox, thus missing the attack. This can be seen as there are visual indicators of the camera shifting down in the videos.  
+
+**Significance:**  
+If your main DPS relies on Charged Attacks for damage and has the bullet-like animation mentioned, it might be better to avoid using Charged Attacks until the PMA changes states to prevent a DPS loss. 
 
 ## Geo Hypostasis  
 

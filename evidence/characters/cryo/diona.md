@@ -22,7 +22,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 ### Diona Dash Aim Cancel
 
 **By:** BowTae#0141  
-**Added:** 11/17/2021
+**Added:** 10/17/2021
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895937565956378625/899199225462657064/transcript-diona-dash-aim-cancel.html)
 
 **Finding:**  
@@ -165,3 +165,22 @@ At least 1 Icy Paw must hit something for a shield to form. Situations where Icy
 
 **Significance:** The healing pulse is separate from the buffs granted by Diona Burst.
 
+### Diona Has Finite Vertical Range for Burst Healing
+
+**By:** Mehhh-yowww\#8236, Kourinn\#6001  
+**Added:** 10/30/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903967252397834272/904154341714309141/transcript-diona-finite-vertical-range-for-burst-healing.html)
+
+**Finding:** Diona's Elemental Burst has a finite vertical range of healing, in contrast to known fields that have infinite vertical range (e.g., Bennett).
+
+**Evidence:**  
+Diona's Burst not healing compared to Bennett's Burst that will heal (in coop): [YouTube](https://youtu.be/3f1BOY5sd9s)  
+Diona's Burst does not heal when the Burst AoE is far below the character: [YouTube](https://youtu.be/P16N8sC6_iY)  
+Diona's Burst does not heal when Burst AoE is above the character, unlike Bennett's Burst: [YouTube](https://youtu.be/EZzy92RlDKQ)  
+Diona's Burst does heal above its visual AoE within a vertical range slightly shorter than the height of the Shrines of Depths: [YouTube](https://youtu.be/CcBbVWLWMXA)  
+Diona's Burst does heal below its visual AoE within a small vertical range: [YouTube](https://youtu.be/czZ_QRqK4O4)  
+Diona's Burst may not heal Xiao in his Burst because his jumping height is higher than Diona's Burst vertical range: [Imgur](https://imgur.com/Fkow2LI)
+
+**Significance:**  
+Diona's Burst healing has a limited range in contrast to all other known healing fields that have infinite vertical range.  
+This has implications against Xiao (or for Xiao with Staff of Homa) because the height limit is lower than Xiao's jump height.

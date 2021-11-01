@@ -139,6 +139,7 @@ Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attack
 Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
 
 * The shield created can proc Sacrificial Greatsword's passive
+* The shield created may trigger extra pulses of Pyro DMG to nearby opponents. The number of extra pulses depends on the client's frame rate.
 {% endtab %}
 
 {% tab title="C3" %}
@@ -162,9 +163,11 @@ Increases the Level of Riff Revolution by 3.
 {% tab title="C6" %}
 ## Rockin' in a Flaming World
 
-Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.
-{% endtab %}
-{% endtabs %}
+Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.  
+* Her C6 is added into the stats page as flat ATK.
+{% endtab %}  
+{% endtabs %}  
+
 
 ## Full Talent Values
 

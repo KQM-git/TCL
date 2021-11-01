@@ -486,6 +486,25 @@ Note that enemy attacks do not seem to be able to scare away fish, which otherwi
 **Significance:**  
 I hate fishing, and if you hate fishing too, you should commit acts of terrorism.  
 
+### Fish Replacement
+
+**By:** Kenneth (Ellaevans)\#6329  
+**Added:** 10/31/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889051986312458290/904212306135748659/transcript-fishing-replacement-confirmed.html)  
+
+**Findings:**  
+All fishes from both night/day cycles are replaced after 48-72 hours.  
+
+**Evidence:**  
+4 screenshots below showing their timestamps and night/day cycles.
+- [Day, 9/16/2021 23:29](https://imgur.com/auPXTpc)
+- [Day, 9/19/2021 15:28](https://imgur.com/JziLcwm)
+- [Night, 9/16/2021 23:29](https://imgur.com/37xhvr1)
+- [Night, 9/19/2021 15:28](https://imgur.com/kkkKZaA)
+
+**Significance:**
+You do not need to fish until the spot is empty to respawn the fish that you require. Example you could fish all the pufferfish and wait 48-72 hours for the spot to replace the fishes. 
+
 ## BP Resin Value
 
 **By** Peekays#2722  
@@ -521,7 +540,9 @@ You cannot do sprint with this, it automatically converts to "W".
 **Significance:**  
 You can go to the toilet while traversing through Teyvat using your new autowalk skills.
 
-## Boat Stamina And Food
+## Waverider
+
+### Boat Stamina And Food
 
 **By** Ayzel#7399  
 **Added:** 10/17/2021  
@@ -535,3 +556,35 @@ Eating stamina restoration food doesn't work for the Waverider.
 
 **Significance:**  
 Don't waste food
+
+### Waverider Buff Effects
+
+**By** Goden#2155  
+**Added:** 10/29/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902597789102518323/903669906694864936/transcript-boat-buff-effects.html)
+
+**Finding:**  
+The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction. In comparison, buffs that affect enemies and not the Waverider itself, such as phys shred, DEF shred, and Mona's Omen do work.  
+
+**Evidence:**  
+Buffs to the Waverider:  
+- Unbuffed: NA = 2203 DMG / E = 4407 DMG  
+- With ATK buff active: NA = 2203 / E = 4407: Source - Bennett Burst (C1 Active)  
+- Movement Speed: Unaffected: Source - Anemo Resonance
+- Stamina Reduction: Unaffected: Source - Barbara A2
+
+Enemy Debuffs:  
+- With phys shred applied: NA = 2570 / E = 5141: Source - Rosaria Burst (C6 Active)
+- With DEF shred applied: NA = 2381 / E = 4762: Source - Lisa A4
+- Mona's Omen applied: NA = 3525 / E = 7051: Source - Mona Omen, Talent Lv. 10
+
+Media:  
+- Unbuffed + DEF shred clip/images: [YouTube](https://youtu.be/LXr0si5Dhc0) + [Imgur](https://imgur.com/a/3fynwFD)
+- ATK buff clip/images: [YouTube](https://youtu.be/3CVkCwtMdcc) + [Imgur](https://imgur.com/a/StIOKhx)
+- Phys shred clip/images: [YouTube](https://youtu.be/VZTHG3k7Paw) + [Imgur](https://imgur.com/a/IA3UjSu)
+- Mona omen clip/images: [YouTube](https://youtu.be/MIIDYot_XL0) + [Imgur](https://imgur.com/a/yBXSkEQ)
+- Movement speed + stamina reduction testing: [YouTube](https://youtu.be/y6QyiRNNaEg)
+
+**Significance:**  
+Shows that the Waverider doesn't function like characters do, and cannot be buffed by any direct stat buffs to the Waverider.
+The Waverider however does benefit from debuffs to enemies, as they don't affect the Waverider itself.

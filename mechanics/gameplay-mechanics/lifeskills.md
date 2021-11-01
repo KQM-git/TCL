@@ -150,7 +150,20 @@ It's possible to perform auto walk if you have dead character in party. Simply c
 
 ### Waverider
 
-* Stamina restoration food doesn't restore stamina for the Waverider.
+#### Stamina Restoration Food
+
+Stamina restoration food doesn't restore stamina for the Waverider.
+
+#### Buff Effects on Waverider  
+
+* The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction.  
+* Buffs and debuffs that affect enemies and not the Waverider itself, such as RES shred, DEF shred, and Mona's Omen, do work on the Waverider's attacks.  
+
+### Fish Respawn  
+
+**By:** [Kenneth (Ellaevans)#6329](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#fish-replacement)  
+
+* All of the fishes respawn after 48-72 hours, even if the Fishing Points weren't cleared.  
 
 ## Equipment
 
