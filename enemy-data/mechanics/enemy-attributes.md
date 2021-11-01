@@ -30,8 +30,6 @@ The bubbles spawned can be effectively iframed by swapping characters at the pre
 
 ## Targeting Ignores Enemy Hitbox Location
 
-**By:** Kourinn\#6001  
-
 The targeting point for targeted skills is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy, per animation. This can make some attacks whiff during certain enemy states. For more details see: [Targeting Ignores Enemy Hitbox Location](../../evidence/enemy-data/enemy-attributes.md#targeting-ignores-enemy-hitbox-location)
 
 
