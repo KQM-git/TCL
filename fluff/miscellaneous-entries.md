@@ -10,7 +10,7 @@ description: For entries that have little practical use.
 * Jean runs at 180 BPM.
 * Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The traveler twins are not equal. I have discovered that Lumine is more red, green, and blue than Aether.  
-* Kamuijima Cannons in Inazuma can be used to nuke oneself as well as other players in co-op.
+* The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
 
 ## Cancelling
 
