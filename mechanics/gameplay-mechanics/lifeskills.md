@@ -144,11 +144,11 @@ It's possible to perform auto walk if you have dead character in party. Simply c
 
 * Stamina restoration food doesn't restore stamina for the Waverider.
 
-### Fish Replacement  
+### Fish Respawn  
 
 **By:** [Kenneth (Ellaevans)#6329](../../evidence/mechanics/gameplay-mechanics/lifeskills.md#fish-replacement)  
 
-* All fishes from both day/night pools are replaced after 48-72 hours, even if they weren't previously empty.  
+* All of the fishes respawn after 48-72 hours, even if the Fishing Points weren't cleared.  
 
 ## Equipment
 
