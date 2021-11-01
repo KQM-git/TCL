@@ -104,7 +104,7 @@ Cryo Regisvine possibly has 2 hurtboxes/1 extended hurtbox for its main body and
 * In Mcpie\#8672's video, upon casting Pyronado, only the 1st initial swing applied Pyro, whereas Pyronado does not. This is firstly due to the first 3 swings having standard ICD and hence only 1 applies pyro. Secondly, it also shows that Pyronado is unable to reach the hurtbox of the core, supporting the theory.  
 
 **Significance:**  
-This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../evidence/characters/pyro/xiangling#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
+This ticket is derivative of Mcpie\#8672's original ticket linked here: [Link](../../evidence/characters/pyro/xiangling.md#pyronado-only-applies-1u-to-cryo-regisvine-shield)  
 You cannot rely solely on Pyronado to break Cryo Regisvine's core.  
 Genshin spaghetti at its finest.  
 
