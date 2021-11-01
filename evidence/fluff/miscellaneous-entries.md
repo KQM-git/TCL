@@ -8,6 +8,23 @@ description: For entries that have little practical use.
 
 {% page-ref page="../../fluff/miscellaneous-entries.md" %}
 
+## Kamuijima Cannon Friendly Fire  
+
+**By:** Goden\#2155  
+**Added:** 30/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903075574233313330/903212491281158165/transcript-cannon-coop-griefing.html)  
+
+**Finding:** The large Electro cannons in Inazuma, known as Kamuijima Cannons, that were used for a story quest, can be used to deal massive amounts of damage to you and co-op members, via friendly fire.  
+
+**Evidence:** 
+* [Single Target](https://imgur.com/HidKbYQ)  
+* [Multi Targets](https://imgur.com/aDuIT5r)  
+
+Using Zhongli's pillar to act as a target can cause the cannon shell to explode upon impact, damaging the person who fired the cannon. This can also be done with Geo MC's rocks which were not showcased.  
+
+**Significance:** The sheer damage from the blast will leave extremely few characters alive even when they are at full health, making this a fun, albeit niche way to nuke coop members.
+
+
 ## Bush Lighting
 
 **By:** Ayzel\#7399  
