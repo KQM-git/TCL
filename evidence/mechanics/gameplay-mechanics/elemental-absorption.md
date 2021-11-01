@@ -93,7 +93,7 @@ Understanding how elemental infusion operates allows for more extensive use of t
 **Added:** 10/28/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902503398396538891/903470600062902332/transcript-absorption-aura-check-count-as-self-dmg.html)
 
-**Finding:** When anemo abilities with elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive that activate on hit. However, they will stop hitting allies after absorbing any element.
+**Finding:** When anemo abilities with elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive talents that activate on hit. However, they will stop hitting allies after absorbing any element.
 
 **Evidence:**  
 Venti Q triggering Beidou C4: [Video](https://imgur.com/ScuOXnH)  

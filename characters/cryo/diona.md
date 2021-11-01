@@ -111,6 +111,9 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | CD | 20s |
 | Energy Cost | 80 |
 | Frames | 49 |
+
+* The Drunken Mist AoE has a finite vertical range. Characters above or below this vertical range will not receive healing.
+
 {% endtab %}
 {% endtabs %}
 
