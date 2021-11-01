@@ -77,3 +77,21 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 
 **Significance:**  
 Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
+
+## Targeting Ignores Enemy Hitbox Location
+
+**By:** #Kourinn\#6001  
+**Added:** 10/31/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897826161055379466/904520062487126027/transcript-targeting-ignores-hitbox.html)
+
+**Finding/Theory:**  
+The targeting point for targeted skills (which is everything except bow aim shot as far as I am aware) is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy per animation.  
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/hShlJ7r)  
+* The larger of the two new enemies for patch 2.2 can display some highly inaccurate targeting boxes, especially when frozen. This also shows the targeting point and hitbox are separate.  
+* The Rifthound initiates a jump back and follow-up charge, but gets frozen as soon as the follow up charge starts. However, Ayaka cannot damage it with her charge attack because the targeting point is too far away from the enemy hitbox.
+* I think MiHoYo tried to fake bow normal target tracking for Rifthounds by making the targeting point in front of the enemy hitbox, instead of inside it. Unfortunately, this hack affects everything else too, and makes Ayaka whiff half her kit. R.I.P.  
+
+**Significance:**  
+Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge Attacks can potentially whiff on frozen enemies, resulting in a significant DPS loss. 
