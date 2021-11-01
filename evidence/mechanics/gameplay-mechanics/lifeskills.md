@@ -453,6 +453,39 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 - Gameplay wise, if you already have moonstringer from event then you dont need to get the regional rods in most circumstances as the speed of the fishing rod already equals at 1 second and surpasses at 2 seconds.
 - When the fish just bit into the bait and the fishing starts, theres about a 1.6 second delay before the bar starts moving
 
+### Co-Op Fish Trolling
+
+**By** Aevean Leeow\#1362 and Scavenger\#6510  
+**Added:** 10/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883181763143286884/903518750903504926/transcript-fish-trolling.html)  
+
+**Finding:**  
+You can grief people trying to fish in co-op with multiple methods. You can either interrupt the fisher, or scare the fish away. 
+1. There is always collision in co-op, but fishers are prone to movement from this collision. Moving them far enough from their original fishing position will cancel their fishing. 
+2. Using Albedo, you can plant an elevator under their feet to cancel their fishing, as long as the albedo elevator is able to rise unimpeded. As of 2.2, other geo constructs do not seem to interrupt fishing as they do not force player movement. 
+3. Drawing enemy aggro: Fishers are intangible to enemy projectiles and attacks and immune to environmental damage, but aggro'ed mobs can physically collide and move the traveler to cancel fishing. Enemies that charge at the player, such as Mitachurls, are optimal for doing so. This is a more "innocent" method of trolling -- you may be able to pass of aggroing the mobs to push the fisher as a mistake. Also, you cannot start fishing while in combat, so if you can get them aggro'ed onto the fisher before fishing can even begin, they have to kill the mobs first. This is probably more reliable than getting a mob to push them away. 
+4. Scare the fish off by just moving into the water (swimming, using Waverider, etc), or attacking the fish (Aimed Shots, Klee bombs, etc). Do not do this early because there will be no fish left for your co-op partner to fish for, meaning the grief will be final for the fishing spot until the fish come back. Use previous methods to their full griefing potential before employing this technique. 
+
+Note that enemy attacks do not seem to be able to scare away fish, which otherwise would have been a difficult but covert way of scaring fish away.  
+
+**Evidence:**  
+1. Pushing Others:  
+    * [YouTube](https://www.youtube.com/watch?v=Mf88_HLx-gs): As shown, fishing Travelers are very easy to push around. Pushing them too far from the original fishing spot results in the fishing being cancelled. 
+2. Albedo Skill:  
+    * [YouTube](https://www.youtube.com/watch?v=_uU1ThChF4o): As shown, Albedo E easily interrupts fishing. The only counterplay would be to fish in a spot where an Albedo Flower is incapable of elevating, such as on very jagged ground. 
+3. Enemy Aggro:  
+    * [Try\#0007 - Imgur](https://imgur.com/a/WeXIo6M): As shown, the traveler is immune to environmental damage. 
+    * [YouTube](https://youtu.be/XWQhegpap50): In this video, a Mitachurl charge interrupts fishing yet doesn't apply any knockback or damage. 
+    * [YouTube](https://youtu.be/9JIWKrqDmDI): In this video, a Hilichurl arrow passes through the Traveler with no interaction, but a Mitachurl simply walking at the traveler cancels fishing. 
+4. Scaring Fish Away:  
+    * [YouTube](https://youtu.be/1p_B28M8BhQ): An Aimed Shot from Fischl at a fish scares the fish away. 
+    * [YouTube](https://youtu.be/nN0vNWtO8Y4?t=68): A video from YouTube Channel ON Game. They use the Waverider to scare fish away.
+    * [YouTube](https://youtu.be/FiWjSp8BqbY?t=27): A video from YouTube Channel Shirosame. They jump into the water to scare fish away.
+    * [Scavenger\#6510 - YouTube](https://youtu.be/gU92iYUkvXQ): Enemies do not seem to be able to make the fish disappear.
+
+**Significance:**  
+I hate fishing, and if you hate fishing too, you should commit acts of terrorism.  
+
 ### Fish Replacement
 
 **By:** Kenneth (Ellaevans)\#6329  
@@ -471,7 +504,6 @@ All fishes from both night/day cycles are replaced after 48-72 hours.
 
 **Significance:**
 You do not need to fish until the spot is empty to respawn the fish that you require. Example you could fish all the pufferfish and wait 48-72 hours for the spot to replace the fishes. 
-
 
 ## BP Resin Value
 
