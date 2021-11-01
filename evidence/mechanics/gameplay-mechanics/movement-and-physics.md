@@ -189,6 +189,97 @@ Tested movements speeds: 1. [0%](https://cdn.discordapp.com/attachments/84650423
 
 Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJGE](https://www.youtube.com/watch?v=C69T4AwkJGE)
 
+## Movement Speed Stacks Additively
+
+**By:** Mcpie#8672  
+**Added:** 11/1/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902943515452010516/904567719486169099/transcript-mvmnt-speed-stacks-additively.html)  
+
+**Finding:**  
+Movement speed stacks additively.  
+
+**Evidence:**  
+Code contains coordinate points at the bridge in Stormterror's Lair. Videos are listed below.  
+
+Methodology:  
+1. Teleport to a portable waypoint.  
+2. Sayu hold E once you get the speed boosts.  
+3. Note the coordinates at the end.  
+4. Calculate the difference between start and finish.  
+
+Code to get the results  
+```js
+f = (a,b) => Math.sqrt((a.x - b.x)**2 + (a.z - b.z)**2)
+
+sp = { x: 2556.41943359375, y: 226.09994506835938, z: 99.05547332763672 }
+// no bonus end
+ap = { x: 2447.570068359375, y: 226.08108520507812, z: 59.62977981567383 }
+// anemo end
+bp = { x: 2438.5205078125, y: 226.08163452148438, z: 56.352020263671875 }
+// c6 amber
+cp = { x: 2433.970947265625, y: 226.0803680419922, z: 54.70412063598633 }
+// anemo + c2 jean
+dp = { x: 2422.114013671875, y: 226.08883666992188, z: 50.40952682495117 }
+// anemo + rosaria + c2 jean
+ep = { x: 2411.67822265625, y: 226.0984649658203, z: 46.56678771972656 }
+// anemo + rosaria + c6 amber
+fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 }
+// anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
+gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 }
+// anemo + rosaria
+hp = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 }
+
+qd = f(sp,ap)
+wd = f(sp,bp)
+ed = f(sp,cp)
+rd = f(sp,dp)
+td = f(sp,ep)
+yd = f(sp,fp)
+ud = f(sp,gp)
+id = f(sp,hp)
+
+console.log(wd/qd, `Expected 1.10 - error: ${(1.1  - wd/qd).toFixed(4)} - Anemo resonance`)
+console.log(ed/qd, `Expected 1.15 - error: ${(1.15 - ed/qd).toFixed(4)} - C6 Amber`)
+console.log(id/qd, `Expected 1.20 - error: ${(1.20 - id/qd).toFixed(4)} - Anemo resonance + Rosaria`)
+console.log(rd/qd, `Expected 1.25 - error: ${(1.25 - rd/qd).toFixed(4)} - Anemo resonance + C2 Jean`)
+console.log(td/qd, `Expected 1.35 - error: ${(1.35 - td/qd).toFixed(4)} - Anemo resonance + C2 Jean + Rosaria`)
+console.log(yd/qd, `Expected 1.35 - error: ${(1.35 - yd/qd).toFixed(4)} - Anemo resonance + C6 Amber + Rosaria`)
+console.log(ud/qd, `Expected 1.50 - error: ${(1.5  - ud/qd).toFixed(4)} - Anemo resonance + C2 Jean + Rosaria + C6 Amber`)
+```
+
+Output:  
+```
+1.0831383008038595 Expected 1.10 - error: 0.0169 - Anemo resonance
+1.124935238192009  Expected 1.15 - error: 0.0251 - C6 Amber
+1.1828354702848394 Expected 1.20 - error: 0.0172 - Anemo resonance + Rosaria
+1.2338648745201064 Expected 1.25 - error: 0.0161 - Anemo resonance + C2 Jean
+1.3299235580294233 Expected 1.35 - error: 0.0201 - Anemo resonance + C2 Jean + Rosaria
+1.3174113764030009 Expected 1.35 - error: 0.0326 - Anemo resonance + C6 Amber + Rosaria
+1.3703779558697553 Expected 1.50 - error: 0.1296 - Anemo resonance + C2 Jean + Rosaria + C6 Amber
+```  
+
+Videos:  
+1. Sayu roll without bonuses  
+https://i.imgur.com/t77NGtg.mp4  
+2. Sayu roll with Anemo resonance  
+https://i.imgur.com/JUCriOO.mp4  
+3. Sayu roll with C6 Amber  
+https://i.imgur.com/YkvmsR5.mp4  
+4. Sayu roll with Anemo resonance + Rosaria  
+https://i.imgur.com/W3QARkF.mp4  
+5. Sayu roll with Anemo Resonance + Rosaria + C6 Amber  
+https://i.imgur.com/xV4ZfwC.mp4  
+6. Sayu roll with Anemo Resonance + Rosaria + C6 Amber + C2 Jean  
+https://i.imgur.com/MlRFUM0.mp4  
+Unfortunately missing videos for other sections with C2 Jean and C6 amber  
+
+Explanation on higher errors when using C6 Amber:  
+Sayu E roll lasts 10 seconds, while the bonus from C6 Amber lasts 10s. This requires precise timing and because of it, the error increases.  
+The error for just C6 Amber is `0.0251` which is rather acceptable.  
+The error for Anemo Resonance + Rosaria + C6 Amber is `0.0326`, which is once again, rather acceptable due to mistiming.  
+However getting `Anemo Resonance + Rosaria + C6 Amber + C2 Jean` to work takes a lot of effort - incorrect timing have caused a huge error (`0.1296`!), but I'm submitting this anyway.  
+Other tests yielded an error of `<~0.02`, which is acceptable due to start/end velocities change on Sayu roll + uneven terrain.  
+
 ## Character Hitboxes
 
 **By:** HK\#0001  
