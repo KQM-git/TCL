@@ -138,33 +138,33 @@ After the v2.2 update, Sara's Elemental Skill is much more consistent and predic
 
 **Evidence:**  
 * Elevation changes are ok unless very drastic, generally if she can walk up a ledge she can teleport over it:
-  * Slight incline: [Imgur](https://imgur.com/SpPXRsk)  
-  * Steeper incline: [Imgur](https://imgur.com/6Kp1FiU)  
-  * Stairs: [Imgur](https://imgur.com/9ofurI0)  
-  * Ledge: [Imgur](https://imgur.com/wHnyw1y)  
-  * Ledge again: [Imgur](https://imgur.com/plRd8po)  
-  * Ledge again, but failed: [Imgur](https://imgur.com/uHxfTVp)  
-* For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall: [Imgur](https://imgur.com/Q4nsiXM)  
-* Direction of skill can be controlled right after skill cast: [Imgur](https://imgur.com/nCyOemw)  
+  * [Slight incline](https://imgur.com/SpPXRsk)  
+  * [Steeper incline](https://imgur.com/6Kp1FiU)  
+  * [Stairs](https://imgur.com/9ofurI0)  
+  * [Ledge](https://imgur.com/wHnyw1y)  
+  * [Ledge again](https://imgur.com/plRd8po)  
+  * [Ledge again, but failed](https://imgur.com/uHxfTVp)  
+* [For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall](https://imgur.com/Q4nsiXM)  
+* [Direction of skill can be controlled right after skill cast](https://imgur.com/nCyOemw)  
 * Direction cannot be controlled with nearby enemies:  
-  * Nearby enemies, in combat: [YouTube](https://youtu.be/Cxr58A4gLk8)  
-  * Nearby enemies, no combat: [Imgur](https://imgur.com/PT1BEHa)  
-  * Enemies out of range: [YouTube](https://youtu.be/Zb8cPYHIHP4)  
-* Teleport distance is (1.14 tiles) 2.9m: [Youtube](https://youtu.be/amuRix98c_k)  
-* Teleporting away from nearest enemy: [YouTube](https://youtu.be/EcKOqG_nnO4)  
+  * [Nearby enemies, in combat](https://youtu.be/Cxr58A4gLk8)  
+  * [Nearby enemies, no combat](https://imgur.com/PT1BEHa)  
+  * [Enemies out of range](https://youtu.be/Zb8cPYHIHP4)  
+* [Teleport distance is (1.14 tiles) 2.9m](https://youtu.be/amuRix98c_k)  
+* [Teleporting away from nearest enemy](https://youtu.be/EcKOqG_nnO4)  
 * Weird geometry:
-  * Tents: [YouTube](https://youtu.be/z1KRGOWs7GY)  
-  * C2 1m: [YouTube](https://youtu.be/ITKvuRdElHU)
-  * Onto air: [YouTube](https://youtu.be/36iJ6mA8Aak)
+  * [Tents](https://youtu.be/z1KRGOWs7GY)  
+  * [C2 1m](https://youtu.be/ITKvuRdElHU)
+  * [Onto air](https://youtu.be/36iJ6mA8Aak)
 * Crowfeather buff range:  
-  * Crowfeather no buff (~2.4 tiles): [YouTube](https://youtu.be/Oi-jHRFw18E)  
-  * Crowfeather buffs (~2.35 tiles): [YouTube](https://youtu.be/o2RzwMrok8Y)  
+  * [Crowfeather no buff (~2.4 tiles)](https://youtu.be/Oi-jHRFw18E)  
+  * [Crowfeather buffs (~2.35 tiles)](https://youtu.be/o2RzwMrok8Y)  
 * Hitlag Extension:
-  * Without hitlag: [YouTube](https://youtu.be/g45pC3ZeIP8)  
-  * With hitlag (around 7s): [YouTube](https://youtu.be/Mu61tiopAlY)  
-* Cooldown without C1: [YouTube](https://youtu.be/GQxJAkVRGpY)  
-* Cooldown with C1: [YouTube](https://youtu.be/wadJvqicW9w)
-* Fluff: It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming: [Youtube](https://youtu.be/JrfYaCUFKwY)  
+  * [Without hitlag](https://youtu.be/g45pC3ZeIP8)  
+  * [With hitlag (around 7s)](https://youtu.be/Mu61tiopAlY)  
+* [Cooldown without C1](https://youtu.be/GQxJAkVRGpY)  
+* [Cooldown with C1](https://youtu.be/wadJvqicW9w)
+* [Fluff](https://youtu.be/JrfYaCUFKwY): It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming.
 
 **Significance:**  
 We can actually predict what pressing E will do now.  
@@ -255,3 +255,26 @@ Tengu Stormcall only buffs the on-field characters the frame before the Crowfeat
 
 **Significance:**  
 Exact timing of the Crowfeather buff.
+
+### Pre-A4 EMC Skill ER Buff with Sara A4
+
+**By:** WellWell#2868 and Nass008#8577  
+**Added:** 11/1/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903958677164294204/904776894841507850/transcript-emc-er-buff-interaction-with-saras-a4.html)  
+
+**Finding:**  
+Pre-A4 EMC’s E’s skill ER buff does not affect Sara’s A4 passive.  
+
+**Evidence:**   
+2 trials were conducted with Keqing, Sara, and pre-A4 EMC. Keqing starts at 0 energy and always stays off-field. Both trials have Sara E + EMC E done 13 times:  
+- [Trial 1](https://youtu.be/-KujlEHy24I): Sara takes EMC’s E amulets every time before doing Sara’s E.  
+- [Trial 2](https://youtu.be/Bn3tlTtNtIE): Sara does not take any amulets at all.  
+
+Testing:  
+After 12 procs, the off-field Keqing should have 39.6 energy. If EMC’s ER buff actually affects Sara’s A4, one of the Keqings with EMC buffed Sara should have 20% * 1.2 * 12 (procs) = 2.88 more extra energy compared to the non-buffed Sara, and therefore should have her burst up after 12 procs.  
+
+Results:  
+Both Keqings got their burst after 13 procs, regardless of if Sara was buffed by EMC ER buff or not. This would not happen if the interaction actually worked.  
+
+**Significance:**  
+Pre-A4 EMC Skill’s ER buff doesn’t make Sara’s A4 passive generate more energy.  
