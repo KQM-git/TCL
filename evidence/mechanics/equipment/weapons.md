@@ -270,6 +270,33 @@ https://youtu.be/PrXV4em0ssc
 
 **Significance:** Royal weapons have an increased efficiency in situations when the holder triggers Overload, Swirl or Superconduct due to the fact that they can potentially always have at least 1 stack.
 
+### Mathematical Analysis of Royal Weapon Effective Crit Rate
+
+**By:** NZPIEFACE\#8439  
+**Added:** 10/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896590252930633728/903505119679750204/transcript-royal-weapons-have-extremely-diminishing-returns.html)  
+
+**Finding:**  
+A mathematical formula to find the effective crit rate of Royal weapons is not yet in the library, there is only a table and a simulation.
+
+Use the following equation to analytically calculate for the final Crit Rate after using Royal Weapons:  
+```
+a = 1 - base_cr
+b = 1 - base_cr - cr_from_royal
+c = 1 - base_cr - cr_from_royal * 2
+d = 1 - base_cr - cr_from_royal * 3
+e = 1 - base_cr - cr_from_royal * 4
+f = 1 - base_cr - cr_from_royal * 5
+effective_cr = 1/(1 + a + a*b + a*b*c + a*b*c*d + a*b*c*d*e/(1-f))
+```
+
+**Evidence:**  
+Math and explanation in here: [Google Doc](https://docs.google.com/document/d/1m1SLYcYBJVwCH_CpEgJgvnQOMB39iLAJZ9iNyT9EeLQ/)  
+There is a python function in the doc to calculate effective crit rate from character crit rate and weapon refinement level. It's a useful tool if anyone ever wants to get this to work with fringe snapshot builds.
+
+**Significance:**  
+It was found that the crit rate that the weapons’ passive had decreased the higher the crit rate of the character was. The passive of the weapons performs poorly in comparison to other crit value stat sticks (Blackcliff series that is also from the shop, Harbinger of Dawn, etc.), and is only really comparable at extremely low values of investment into crit rate. While there is an argument that these would have value in the hands of new players who cannot invest into crit rate that much, it would also be a terrible long term investment for them as the weapon would naturally become worse and worse as they play.  
+
 ## Sacrificial Series
 
 ### Sacrificial Weapons do not proc on Shielded Enemies
