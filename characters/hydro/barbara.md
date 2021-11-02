@@ -158,6 +158,7 @@ When Barbara is in the party but not on the field, and one of your own party mem
 * Automatically revives the fallen character.
 * Fully restores the revived character’s HP to 100%
 * This effect can only occur once every 15 mins.
+* This effect will not occur if the character's fallen animation is canceled by switching to another character. For more details, see: [C6 Revive Can Be Canceled by Switching](../../evidence/characters/hydro/barbara.md#c6-revive-can-be-canceled-by-switching)
 {% endtab %}
 {% endtabs %}
 
