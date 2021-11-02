@@ -494,6 +494,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Wavebreaker's Fin
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Watatsumi Wavewalker | For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12/0.15/0.18/0.21/0.24**%. A maximum of **40/50/60/70/80**% increased Elemental Burst DMG can be achieved this way. |
+| Base ATK | 45 - 620 |
+| ATK% | 3% - 13.8% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 361 | 10.1 |
+| 60+ | 387 | 10.1 |
+| 65 | 408 | 10.8 |
+| 70 | 429 | 11.4 |
+| 70+ | 455 | 11.4 |
+| 75 | 476 | 12 |
+| 80 | 497 | 12.6 |
+| 80+ | 523 | 12.6 |
+| 85 | 544 | 13.2 |
+| 90 | 565 | 13.8 |
+{% endtab %}
+{% endtabs %}
+
 ## 3 Stars
 
 ### Black Tassel
