@@ -1,6 +1,6 @@
 ---
 description: >-
-The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
+  The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 ---
 
 # Thoma
@@ -55,42 +55,49 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 {% endtab %}
 
 {% tab title="Blazing Blessing" %}
-Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a defensive Blazing Barrier.
+Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a defensive **Blazing Barrier**.
 At the moment of casting, Thoma's Elemental Skill applies Pyro to himself.  
-The DMG Absorption of the Blazing Barrier scales off Thoma's Max HP.  
+The DMG Absorption of the **Blazing Barrier** scales off Thoma's Max HP.  
+
 The Blazing Barrier has the following traits:
 * Absorbs Pyro DMG 250% more effectively.
-* When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+* When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
 
-The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.
+The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain percentage of Thoma's Max HP.
 
+| Type | Talent 6% | U | Particles | Frames | Motion Value |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 204.96% | -- | -- | -- | -- |
 
-| Type | Talent 6% | Cooldown | U | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 204.96% | -- | -- | -- | --| -- |
-| Shield DMG Absorption | 10.08% Max HP + 1098 | -- | -- | -- | --| -- |
-| Max Shield DMG Absorption | 27.44% Max HP + 2989 | -- | -- | -- | --| -- |
-| Shield Duration | 8 s | -- | -- | -- | --| -- |
-| CD | 15 s | -- | -- | -- | --| -- |
+| Type | Talent 6% |
+| :--- | :--- |
+| Shield DMG Absorption | 10.08% Max HP + 1098 |
+| Max Shield DMG Absorption | 27.44% Max HP + 2989 |
+| Shield Duration | 8 s |
+| Cooldown | 15s |
 {% endtab %}
 
 {% tab title="Crimson Ooyoroi" %}
-Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a Scorching Ooyoroi.
+Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a **Scorching Ooyoroi**.
 
 **Scorching Ooyoroi**  
-While Scorching Ooyoroi is in effect, the active character's Normal Attacks will trigger Fiery Collapse, dealing AoE Pyro DMG and summoning a Blazing Barrier.  
-Fiery Collapse can be triggered once every 1s.  
-Except for the amount of DMG they can absorb, the Blazing Barriers created in this way are identical to those created by Thoma's Elemental Skill, Blazing Blessing:
-* Absorbs Pyro DMG 250% more effectively.
-* When a new Blazing Barrier is obtained, the remaining DMG Absorption of an existing Blazing Barrier will stack and its duration will be refreshed.
+While **Scorching Ooyoroi** is in effect, the active character's Normal Attacks will trigger **Fiery Collapse**, dealing AoE Pyro DMG and summoning a **Blazing Barrier**.  
+**Fiery Collapse** can be triggered once every 1s.  
 
-The maximum DMG Absorption of the Blazing Barrier will not exceed a certain percentage of Thoma's Max HP.  
+Except for the amount of DMG they can absorb, the **Blazing Barriers** created in this way are identical to those created by Thoma's Elemental Skill, **Blazing Blessing**:
+* Absorbs Pyro DMG 250% more effectively.
+* When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
+
+The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain percentage of Thoma's Max HP.  
 If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
+
+| Effect | Talent 6% / Data | GU |
+| :--- | :--- | :--- |
+| Skill DMG | 123.2% | -- |
+| Fiery Collapse DMG | 81.2% | -- |
 
 | Effect | Talent 6% / Data |
 | :--- | :--- |
-| Skill DMG | 123.2% |
-| Fiery Collapse DMG | 81.2% |
 | Shield DMG Absorption | 1.6% Max HP + 174 |
 | Shield Duration | 8 s |
 | Scorching Ooyoroi Duration | 15 s |
@@ -112,13 +119,13 @@ When you fish successfully in Inazuma, Thoma's help grants a 20% chance of scori
 {% tab title="Ascension 1" %}
 ### Imbricated Armor
 
-When your current active character obtains or refreshes a Blazing Barrier, this character's Shield Strength will increase by 5% for 6s. This effect can be triggered once every 0.3s seconds. Max 5 stacks.
+When your current active character obtains or refreshes a **Blazing Barrier**, this character's Shield Strength will increase by 5% for 6s. This effect can be triggered once every 0.3s seconds. Max 5 stacks.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### Flaming Assault
 
-DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Max HP.
+DMG dealt by **Crimson Ooyoroi**'s **Fiery Collapse** is increased by 2.2% of Thoma's Max HP.
 {% endtab %}
 {% endtabs %}
 
@@ -128,37 +135,37 @@ DMG dealt by Crimson Ooyoroi's Fiery Collapse is increased by 2.2% of Thoma's Ma
 {% tab title="C1" %}
 ### A Comrade's Duty
 
-When a character protected by Thoma's own Blazing Barrier (Thoma excluded) is attacked, Thoma's own Blazing Blessing CD is decreased by 3s, while his own Crimson Ooyoroi's CD is decreased by 3s. This effect can be triggered once every 20s.
+When a character protected by Thoma's own **Blazing Barrier** (Thoma excluded) is attacked, Thoma's own **Blazing Blessing** CD is decreased by 3s, while his own **Crimson Ooyoroi**'s CD is decreased by 3s. This effect can be triggered once every 20s.
 {% endtab %}
 
 {% tab title="C2" %}
 ### A Subordinate's Skills
 
-Crimson Ooyoroi's duration is increased by 3s.
+**Crimson Ooyoroi**'s duration is increased by 3s.
 {% endtab %}
 
 {% tab title="C3" %}
 ### Fortified Resolve
 
-Increases the Level of Blazing Blessing by 3. Maximum upgrade level is 15.
+Increases the Level of **Blazing Blessing** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### Long-Term Planning
 
-After using Crimson Ooyoroi, 15 Energy will be restored to Thoma.
+After using **Crimson Ooyoroi**, 15 Energy will be restored to Thoma.
 {% endtab %}
 
 {% tab title="C5" %}
 ### Raging Wildfire
 
-Increases the Level of Crimson Ooyoroi by 3. Maximum upgrade level is 15.
+Increases the Level of **Crimson Ooyoroi** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### Burning Heart
 
-When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.
+When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.
 {% endtab %}
 {% endtabs %}
 
@@ -200,9 +207,9 @@ When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party memb
 | Shield DMG Absorption | 10.08 Max HP+ 1098 | 10.8 Max HP+ 1196 | 11.52 Max HP+ 1300 | 12.24 Max HP+ 1410 | 12.96 Max HP+ 1525 | 13.68 Max HP+ 1647 | 14.4 Max HP+ 1774 | 15.3 Max HP+ 1907 |
 | Max Shield DMG Absorption | 27.44 Max HP+ 2989 | 29.4 Max HP+ 3256 | 31.36 Max HP+ 3539 | 33.32 Max HP+ 3838 | 35.28 Max HP+ 4153 | 37.24 Max HP+ 4483 | 39.2 Max HP+ 4829 | 41.65 Max HP+ 5191 |
 
-**Shield Duration:** 8s
-
+**Shield Duration:** 8s  
 **Cooldown:**  15 s
+
 {% endtab %}
 
 {% tab title="Crimson Ooyoroi" %}
@@ -213,17 +220,16 @@ When a Blazing Barrier is obtained or refreshed, the DMG dealt by all party memb
 | Shield DMG Absorption | 1.6 Max HP+ 174 | 1.72 Max HP+ 190 | 1.83 Max HP+ 206 | 1.94 Max HP+ 224 | 2.06 Max HP+ 242 | 2.17 Max HP+ 261 | 2.29 Max HP+ 282 | 2.43 Max HP+ 303 |
 | Scorching Ooyoroi Duration | 15 s | 15 s | 15 s | 15 s | 15 s | 15 s | 15 s | 15 s |
 
-**Shield Duration:** 8s
-
-**Cooldown:**  20 s
-
+**Shield Duration:** 8s  
+**Cooldown:**  20 s  
 **Energy Cost:**  80
+
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Thoma)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Thoma)
 
 **Evidence Vault:**
 
