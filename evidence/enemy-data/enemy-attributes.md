@@ -78,6 +78,41 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 **Significance:**  
 Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
 
+## Black Aura Data
+
+**By:** Yurina Maekawa#6585  
+**Added:** 08/20/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874182515840155648/878190059038335056/transcript-black-aura-data.html)
+
+**Findings:**  
+This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random element (although, just like with Geovishaps, this element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
+
+Research made in-game proved that these black auras has the following properties:
+
+Cooldown: 15s  
+Gauge Units it inflicts: 2  
+Multiplier: 400%  
+Element: Depends (usually matches the element of the black aura's holder)
+
+These properties are shared across the 3 black auras.
+
+Furthermore, a compilation of the damage dealt by auras can be seen in this [Sheet](https://docs.google.com/spreadsheets/d/1UyyuBOzdM3yJiJaSIlkz6SD148gg5tjOaXQYTkZ_PWs/edit?usp=sharing).  
+
+Where black numbers are values that were seen in-game (if they have a "?", it's because there is a possibility it might be a bit off), and red ones are just speculative based on the multipliers we got. This doc shows how the level of the enemy matters when it comes to the aura's power.
+
+Note: Inazuma bounties seem to be an exception, as both Tier 2 and Tier 3 bounties have lvl 88 auras, while the enemies are lvl 91 and 96 respectively.
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=ioADUvIrhUM)  
+
+How was all of this tested?  
+After seeing several factors that could affect the result, such as the Protective Canopy's 15% Elemental RES, all values in the doc were compiled by visiting all domains in Teyvat and taking damage several times with different characters and anemo resonance, all of this while avoiding elemental reactions.  
+Cooldown and Gauge Units are easy to test, as you only need a timer, and avoid getting another element on you.  
+The 400% multiplier was somewhat easy to get, as the black aura damage always matches the one dealt by the cryo one, and since the cryo aura has a multiplier of 400%, then black auras should too.
+
+**Significance:**  
+Early understanding about this strange **Black Aura**, now known officially as "**Discharge**"
+
 ## Targeting Ignores Enemy Hitbox Location
 
 **By:** #Kourinn\#6001  
