@@ -18,6 +18,10 @@ When you have a full party, you will receive bonus effects, known as Elemental R
 
 All Trial Characters in Story Quests and Hangouts do not contribute to or benefit from the party's Elemental Resonances.
 
+## Swirl Chain Reactions Can Trigger Electro Resonance  
+
+Swirling Hydro, Pyro, or Cryo onto an enemy affected by Electro or vice versa will trigger **High Voltage**. This shares the particle generation cooldown with when you trigger it normally.  
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/mechanics/gameplay-mechanics/elemental-resonance.md" %}

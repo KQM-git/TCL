@@ -24,3 +24,20 @@ Pyro Resonance not being applied is also effective in damage calculation. Having
 **Significance:**  
 All Trial Characters in Story Quests and Hangouts (including untested characters) are expected neither to be affected by Elemental Resonances, nor to contribute to any Elemental Resonances (including untested Resonance bonuses).
 When testing and verifying damage calculations with Trial Characters, this interaction with Elemental Resonances should be considered.  
+
+## Swirl Chain Reactions Can Trigger Electro Resonance  
+
+**By:** vinsette#0293  
+**Added:** 11/1/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904061168828702751/904585059061862430/transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)  
+
+**Finding:**  
+Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance. 
+
+**Evidence:**  
+https://imgur.com/a/P97pcLa - Electro-charged  
+https://imgur.com/a/YRjVcgd - Overload  
+https://imgur.com/a/mjmdhhA - Superconduct  
+
+**Significance:**  
+Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.  
