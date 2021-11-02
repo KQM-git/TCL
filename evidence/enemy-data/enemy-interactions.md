@@ -505,7 +505,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 
 ### Corrosion damage mechanics
 
-**By:** Dooners#6709  
+**By:** Dooners\#6709  
 **Added:** 10/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898253461924249600/899178914545532958/transcript-corrosion-damage-mechanics.html)
 
@@ -557,3 +557,22 @@ Bonus: Predicted HP loss per stack based on character max hp using the equation 
 50k HP -> 3250hp/stack  
 
 These values are total loss per stack, for damage per tick simply divide each number by 10. 
+
+### Corrosion damage mechanics update
+
+**By:** Dooners\#6709  
+**Added:** 11/01/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904216944394256414/904866160300933151/transcript-corrosion-update.html)
+
+**Finding:**  
+Each corrosion stack from Rifthounds does 0.5% max hp damage, once per second for 10 total ticks, dealing 5% of max hp in total.  
+Corrosion from big and small Rifthounds deal the same damage.  
+Stacks are additive and independent.
+
+**Evidence:**  
+Does 0.5% max hp damage to Zhongli, and off-field party, through his shield: [imgur](https://imgur.com/v36CSSF)  
+Big and small Rifthounds deal the same damage: [imgur](https://imgur.com/BIg8Lki)  
+Multiple stacks deal damage with independent durations and independent damage tick intervals: [imgur](https://imgur.com/JcgR54Z)  
+
+**Significance:**  
+Better understanding of Corrosion status.
