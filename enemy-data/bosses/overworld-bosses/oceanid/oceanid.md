@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None. On certain event versions, it's face.
+
+## Energy drops
+
+None.
 
 ## Resistance Table
 
@@ -41,3 +45,16 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* The boss cannot be attacked or receive damage outside of event versions.
+* Summons various different water animals, named Hydro Mimics, that must be fought and defeated in order to harm the boss.
+  * There are 8 different types of mimics in total that can be spawned by Oceanid. 
+  * Each type has a decreased resistance to certain element, apart from Hydro, which they are completely immune to. 
+  * As with all other Hydro wildlife, they can hover on water.
+  * The animals are split into 3 different categories based on the number that is summoned of them at once; Trio Mimics(Cranes&Raptors), Duo Mimic(Mallard&Crab, Boar&Ferrett) and Solo Mimics(Frog&Finch)
+* After clearing two waves of Hydro Mimics, the Oceanid will select two random tiles in the 3×3 grid of the arena and sink them. 
+  * The central arena tile will never be selected and is therefore a safe spot for players to stand on during this ability.
+  * The sinking tiles may deal damage to the player if sinking along.
+* The Oceanid submerges for a period of time, before resurfacing again.
+* If the Hydro Mimics are not defeated in a certain amount of time, the Oceanid creates a whirlpool below the player that follows them, deals DoT damage, and explodes after a while, dealing massive damage.
+* Talks continuously, taunting the player with its' non-stop chatting and stalling the fight.
+  * Muting audio is ineffective against this attack.

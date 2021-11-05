@@ -10,7 +10,14 @@ These hilichurls wield flaming clubs and charge with reckless abandon to chase i
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 60% HP | 1 particle |  common |
+| Death | 1 particle | common | 
 
 ## Resistance Table
 
@@ -41,3 +48,6 @@ These hilichurls wield flaming clubs and charge with reckless abandon to chase i
 
 ## Attacks
 
+* Attempts to light up its' torch, infusing it with pyro. If failing to light it up (for reasons such as raining) it will continue attempting to.
+* Slowly closes in on the player, once in range, it will take a jab with its' torch.
+* Enters berserk rage, continously charing in the direction of the player while furiously swining his torch.

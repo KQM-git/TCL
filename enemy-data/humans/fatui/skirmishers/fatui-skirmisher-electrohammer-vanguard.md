@@ -10,10 +10,19 @@ As a Fatui soldier, one has access to munificent resources: salaries, armaments,
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 2 particles | electro    
+| 33% HP | 2 particles | electro   
+| Death | 2 particles | electro  
 
 ## Resistance Table
 
+All resistances +100% additive increase while armored.
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | -20% |
@@ -41,3 +50,10 @@ As a Fatui soldier, one has access to munificent resources: salaries, armaments,
 
 ## Attacks
 
+* Infues itself with an electro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to cryo elemental application.
+* Charges up for a medium interval, then smashes its' hammer into the ground.
+  * While armored: the smash creates a shock in a medium radius around it.
+* Upwards swings its' hammer, into a follow up attack of smashing it in the ground, and after a short delay a wide swing.
+  * While armored: the swings are significantly faster and infused with electro.
+* Charges rapidly towards the player, and upon reaching its' destionation, smashes the hammer into the ground.
+  * Charges faster and the smash creates a shock in a medium radius around it.

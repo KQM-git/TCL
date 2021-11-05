@@ -10,10 +10,19 @@ Skirmisher weapons can control the elements to a certain extent, and their comba
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 2 particles | pyro    
+| 33% HP | 2 particles | pyro   
+| Death | 2 particles | pyro
 
 ## Resistance Table
 
+All resistances +100% additive increase while armored.
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | -20% |
@@ -41,3 +50,8 @@ Skirmisher weapons can control the elements to a certain extent, and their comba
 
 ## Attacks
 
+* Infues itself with a pyro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to electro elemental application.
+* Takes aim then starts charging up a pyro bullet at the player's location. The bullet will be shot at the location that was locked on at the start of the charge-up, not the current player location.
+  * While armored: shoots 2 additional bullets after the first one.
+* Leaps backwards to gain distance from the player.
+  * While armored: takes a quick shot at the player after the leap.

@@ -10,7 +10,14 @@ Ill-tempered warriors for their tribes, they are simple-minded believers in the 
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 60% HP | 1 particle |  common |
+| Death | 1 particle | common | 
 
 ## Resistance Table
 
@@ -40,4 +47,7 @@ Ill-tempered warriors for their tribes, they are simple-minded believers in the 
 | 100 | 36765 |
 
 ## Attacks
-
+* Slowly closes in on the player, once in range, it will take a jab with its' club.
+* Jumps up, then plunges with its' club at the player.
+* Enrages, charging towards the player with successive swings of the club.
+  * If coming into contact with pyro, the club may ignite, becoming infused with pyro.

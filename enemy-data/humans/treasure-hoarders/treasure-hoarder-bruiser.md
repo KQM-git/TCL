@@ -10,7 +10,11 @@ These members do physical work and are lower on the pecking order. They are ofte
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -41,3 +45,4 @@ These members do physical work and are lower on the pecking order. They are ofte
 
 ## Attacks
 
+Unknown.

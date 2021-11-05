@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -19,7 +23,7 @@ description: A life-form created from condensed Hydro elements of incredible pur
 | Physical | 0% |
 | Pyro | 15% |
 | Dendro | 15% |
-| Hydro | 15% |
+| Hydro | Immune |
 | Electro | 15% |
 | Anemo | 15% |
 | Cryo | -40% |
@@ -41,3 +45,5 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* Walks sideways while spitting a stream of water bubbles at the player.
+  * They will occasionally stop moving to rest.

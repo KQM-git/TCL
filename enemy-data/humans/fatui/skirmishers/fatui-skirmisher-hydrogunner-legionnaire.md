@@ -10,10 +10,19 @@ Armed with equipment that can control the elements to a certain extent, their gu
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 2 particles | hydro    
+| 33% HP | 2 particles | hydro   
+| Death | 2 particles | hydro
 
 ## Resistance Table
 
+All resistances +100% additive increase while armored.
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | -20% |
@@ -41,3 +50,8 @@ Armed with equipment that can control the elements to a certain extent, their gu
 
 ## Attacks
 
+* Infues itself with a hydro armor, gaining great resistance and empowering certain attacks. The armor will have its' resistance against most elements increased, but has a great weakness to electro elemental application.
+* Charges up for a brief moment, then shoots a single bubble bullet at the player.
+  * While armored: the bubble bullet is much faster.
+* Throws a hydro bubble at its' ally, healing it.
+  * While armored: heals for more.

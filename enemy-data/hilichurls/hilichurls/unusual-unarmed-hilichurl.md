@@ -10,7 +10,14 @@ description: "Homu, homu, mimi domu!".
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 60% HP | 1 particle |  common |
+| Death | 1 particle | common | 
 
 ## Resistance Table
 
@@ -41,3 +48,6 @@ description: "Homu, homu, mimi domu!".
 
 ## Attacks
 
+* Swings at the player using either its' claws or suitcase.
+* Rummages through its' suitcase, then throws projectiles at the player that look like primogems and cabbage.
+* Rummages through its' suitcase, then throws a doll at the player that will explode on impact into confetti, dealing AOE damage.

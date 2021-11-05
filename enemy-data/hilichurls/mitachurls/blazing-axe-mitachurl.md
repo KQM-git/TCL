@@ -10,7 +10,16 @@ Attacks with large strikes, and will use Pyro Slimes to infuse their axes with P
 
 ## Weakspot Details
 
-> todo
+Face.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 75% HP | 1 particle | common   
+| 50% HP | 1 particle | common   
+| 25% HP | 1 particle | common  
+| Death | 1 orb | common
 
 ## Resistance Table
 
@@ -41,3 +50,7 @@ Attacks with large strikes, and will use Pyro Slimes to infuse their axes with P
 
 ## Attacks
 
+* Slowly charges up a swing of its' axe, followed up by a second slowly charged swing.
+* If the player can't be reached by other attacks, digs in the ground for a pyro slime to throw at the player.
+* Spins with the axe wildly, dealing rapid damage.
+* Jumps up then slams the ground with its' axe, dealing AoE DMG. When the axe is ignited, it will emit multiple fiery blasts around it.

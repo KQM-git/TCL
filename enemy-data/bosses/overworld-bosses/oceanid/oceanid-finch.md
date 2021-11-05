@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -19,7 +23,7 @@ description: A life-form created from condensed Hydro elements of incredible pur
 | Physical | 0% |
 | Pyro | 15% |
 | Dendro | 15% |
-| Hydro | 15% |
+| Hydro | Immune |
 | Electro | 15% |
 | Anemo | 15% |
 | Cryo | 15% |
@@ -41,3 +45,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* Pounce from close range.
+* Can do small leaps or big leaps that deal heavy splash damage on hit. 
+* Upon death, the finch creates a water bomb that explodes in a massive AoE on its' height level.

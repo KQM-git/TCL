@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -19,7 +23,7 @@ description: A life-form created from condensed Hydro elements of incredible pur
 | Physical | 0% |
 | Pyro | 15% |
 | Dendro | 15% |
-| Hydro | 15% |
+| Hydro | Immune |
 | Electro | -40% |
 | Anemo | 15% |
 | Cryo | 15% |
@@ -41,3 +45,5 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* Is an airborne enemy that swoops at players from above, capable of dealing great knockback or poise damage.
+  * As it flies, it's out of reach of most melee characters, but they can be hit by ranged characters. Abilities that have large (vertical) AoE or that increase one's vertical height can also help hit the raptors.

@@ -10,7 +10,15 @@ Legend has it that they were war machines left behind by a nation that had been 
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 particle | Common | 
+| 33% HP | 1 particle | Common |
+| Death | 1 particle | Common |
 
 ## Resistance Table
 
@@ -41,3 +49,14 @@ Legend has it that they were war machines left behind by a nation that had been 
 
 ## Attacks
 
+* Raising itself on its' hind legs, the Defender stabs with its' two front legs. Its core is protected during this attack.
+
+* Projects a shield from its' front legs that blocks all damage that comes from the front and cannot be broken by any means. Its' core is protected during this move.
+
+* If the player is within melee range of the shield they will be bashed back. This attack deals Damage in an AoE in front of itself. The core is protected during this attack.
+
+* Leaps high in the air, then lands on its target, dealing Damage in an AoE around its' landing zone. The core is protected during this attack
+
+* The Defender charges up energy at its' core before firing it. Its' core is exposed during this attack.
+
+* After hitting its' exposed core twice the Defender slumps down and becomes deactivated for a short time. During this time it will not attack.

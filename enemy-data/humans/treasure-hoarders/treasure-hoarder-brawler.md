@@ -10,7 +10,11 @@ Passionate about battle and muscles, they are quite picky about food and will of
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -41,3 +45,4 @@ Passionate about battle and muscles, they are quite picky about food and will of
 
 ## Attacks
 
+Unknown.

@@ -10,7 +10,15 @@ Theirs is the legwork and the tailing of targets. They usually wind up in crimin
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 particle | common   
+| 33% HP | 1 particle | common   
+| Death | 1 particle | common
 
 ## Resistance Table
 
@@ -41,3 +49,5 @@ Theirs is the legwork and the tailing of targets. They usually wind up in crimin
 
 ## Attacks
 
+* Throws a dagger at the player.
+* If the player gets too close, it will perform a roundhouse kick.

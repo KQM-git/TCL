@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -19,7 +23,7 @@ description: A life-form created from condensed Hydro elements of incredible pur
 | Physical | 0% |
 | Pyro | 15% |
 | Dendro | 15% |
-| Hydro | 15% |
+| Hydro | Immune |
 | Electro | -40% |
 | Anemo | 15% |
 | Cryo | 15% |
@@ -41,3 +45,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* Shoots a long-range torrential waves straight at the player.
+  * The cooldown period between each wave is substantial, but each wave deals massive damage. 
+* If the player gets too close to the crane, they may back off.

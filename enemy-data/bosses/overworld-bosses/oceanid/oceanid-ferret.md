@@ -10,7 +10,11 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Weakspot Details
 
-> todo
+None.
+
+## Energy drops
+
+Unknown.
 
 ## Resistance Table
 
@@ -19,7 +23,7 @@ description: A life-form created from condensed Hydro elements of incredible pur
 | Physical | 0% |
 | Pyro | -40% |
 | Dendro | 15% |
-| Hydro | 15% |
+| Hydro | Immune |
 | Electro | 15% |
 | Anemo | 15% |
 | Cryo | 15% |
@@ -41,3 +45,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 ## Attacks
 
+* Attacks the player from close range. 
+* Can quickly heal. 
+* If the player continuously walks closely around them in a circle, they would turn to face the player and not attack.

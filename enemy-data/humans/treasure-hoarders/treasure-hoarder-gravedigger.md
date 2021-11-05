@@ -10,7 +10,16 @@ That means digging up the accumulated wealth of our forebears, taking them with 
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 75% HP | 1 particle | common   
+| 50% HP | 1 particle | common   
+| 25% HP | 1 particle | common  
+| Death | 2 particles | common
 
 ## Resistance Table
 
@@ -41,3 +50,5 @@ That means digging up the accumulated wealth of our forebears, taking them with 
 
 ## Attacks
 
+* Does a short charge-up before swinging its' shovel at the player.
+* Digs up some dirt, then throws it at the player. If the dirt hits the player, it will restrict the player's vision for a short while.

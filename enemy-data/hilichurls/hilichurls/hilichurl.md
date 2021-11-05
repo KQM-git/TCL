@@ -10,7 +10,14 @@ They look very similar to humanity but seem to have lost both their intellect an
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 60% HP | 1 particle |  common |
+| Death | 1 particle | common | 
 
 ## Resistance Table
 
@@ -41,3 +48,5 @@ They look very similar to humanity but seem to have lost both their intellect an
 
 ## Attacks
 
+* Does not wield a weapon. Will attack the player with a basic jump attack using its' claws.
+* Occasionally, it will pick up a rock and throw it at its' target.

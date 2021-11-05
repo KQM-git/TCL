@@ -10,7 +10,15 @@ description: A member of the decentralized criminal organization that has footpr
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 particle | common   
+| 33% HP | 1 particle | common   
+| Death | 1 particle | common
 
 ## Resistance Table
 
@@ -41,3 +49,5 @@ description: A member of the decentralized criminal organization that has footpr
 
 ## Attacks
 
+* Swings its' oar over head at the player.
+* Starts charging forward, rapidly swinging its' oar.

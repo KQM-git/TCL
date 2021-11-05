@@ -10,7 +10,15 @@ Their origins and what they look like under that mask are both mysteries. Reason
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 orb | common  
+| 33% HP | 1 orb | common   
+| Death | 1 orb | common
 
 ## Resistance Table
 
@@ -41,3 +49,13 @@ Their origins and what they look like under that mask are both mysteries. Reason
 
 ## Attacks
 
+* Summons three Cryo Cicins.
+  * Summoned Cicins will despawn when the Cryo Cicin Mage is defeated.
+  * The mage will only use this ability when no Cicins are summoned.
+* Commands summoned Cicins to quickly surround the target and simultaneously release a burst of AoE Cryo DMG after a brief delay. After the attack, the Cicins become immobilized briefly.
+* Teleports summoned Cicins somewhere around the target, then commands them to sequentially charge to the target and release a burst of AoE Cryo DMG after a brief delay.
+  * While charging, Cicins deal Cryo DMG on contact.
+* Swaps positions with summoned Cicin(s).
+* Conjures or completely replenishes a Cryo Shield with energy from summoned Cryo Cicin(s).
+  * The Shield disappears when all Cryo Cicins are defeated.
+* Channels Cryo energy to disgorge ice shards from the ground in a small AoE.

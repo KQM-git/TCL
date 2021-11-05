@@ -10,7 +10,15 @@ Though they are called "marksmen," this name has an undercurrent of mockery to i
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 particle | common   
+| 33% HP | 1 particle | common   
+| Death | 1 particle | common  
 
 ## Resistance Table
 
@@ -41,3 +49,4 @@ Though they are called "marksmen," this name has an undercurrent of mockery to i
 
 ## Attacks
 
+* Shoots an arrow at the player.

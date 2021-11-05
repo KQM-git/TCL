@@ -10,10 +10,19 @@ Unlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser indi
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 2 particles | geo    
+| 33% HP | 2 particles | geo   
+| Death | 2 particles | geo
 
 ## Resistance Table
 
+All resistances +100% additive increase while armored.
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | -20% |
@@ -41,3 +50,8 @@ Unlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser indi
 
 ## Attacks
 
+* Infues itself with a geo armor, gaining great resistance and gaining new attacks. The armor will have its' resistance against most elements increased, but has a great weakness to blunt attacks and geo elemental application.
+* Shoots a projectile at the player
+  * While armored: Shoots 2 additional projectiles in a wide angle to the left and right of the main one.
+* Only while armored: Kneels down, sticking its' staff into the ground, summoning a great forcefield that will stop all projectiles from outside to strike itself and allies inside.
+* Only while armored: Teleports a short distance away from the player.

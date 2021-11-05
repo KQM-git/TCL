@@ -10,7 +10,16 @@ Passionate about battle and muscles, they are quite picky about food and will of
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 75% HP | 1 particle | common   
+| 50% HP | 1 particle | common   
+| 25% HP | 1 particle | common  
+| Death | 2 particles | common
 
 ## Resistance Table
 
@@ -41,3 +50,5 @@ Passionate about battle and muscles, they are quite picky about food and will of
 
 ## Attacks
 
+* Leans forward, charging up a left hand upward punch. Sometimes it will follow up with a second one right after, into a finishing right handed knockout punch.
+* Leans forward, charging up a right hand downward punch.

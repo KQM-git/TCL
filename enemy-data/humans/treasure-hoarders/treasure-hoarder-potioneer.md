@@ -10,7 +10,15 @@ Risk-takers who utilize their knowledge of chemistry to mix volatile and flammab
 
 ## Weakspot Details
 
-> todo
+Head.
+
+## Energy drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 particle | common   
+| 33% HP | 1 particle | common   
+| Death | 2 particles | common
 
 ## Resistance Table
 
@@ -41,3 +49,5 @@ Risk-takers who utilize their knowledge of chemistry to mix volatile and flammab
 
 ## Attacks
 
+* If the player gets too close, it will perform a roundhouse kick.
+* Throws a potion at the player that will act similar to a molotov of various elements.
