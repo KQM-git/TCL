@@ -1,5 +1,5 @@
 ---
-description: "Homu, homu, mimi domu!".
+description: Homu, homu, mimi domu!
 ---
 
 # Hilichurls
