@@ -933,9 +933,9 @@ The 4pc set effect's duration can be extended by hitlag.
 **Significance:**
 VV use optimization.
 
-# Wanderer's Troupe
+## Wanderer's Troupe
 
-## Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
+### Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
 
 **By:** ProfHugo#6478  
 **Added:** 6/26/2021  
@@ -955,7 +955,7 @@ Desmos sheet for visualization/calculations: [Desmos Link](https://www.desmos.co
 **Significance:**  
 For characters building around triggering transformative reactions, if they do not utilize any other parts of the 4p set bonus provided by 4CW (vape/melt boost, pyro% increase) or 4TF (cool down reduction, elec% increase), then 2p Instructor and/or 2p WT may provide a larger boost to damage than the former two.
 
-## Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
+### Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
 
 **By:** elijam#7142  
 **Added:** 07/15/2021  
@@ -1026,3 +1026,26 @@ I pulled out data for 4 substat and 3 substat artifacts to analyze separately si
 More data would be needed to reach stronger conclusions. As of right now, there's only enough data to get a sense of the right substat probabilities, but the ones assumed below are highly subject to change.
 
 **Significance:** The artifact grind is real and artifacts with good substats are rarer than you'd naively expect since you'll see ones with flat substats much more often.
+
+## Artifact Effects on Cast Interruption
+
+**By:** Tibo#4309  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905591237363507230/906363383505379348/transcript-interruption-can-cause-artifact-stacks.html)  
+
+**Finding:**  
+You can gain artifact stacks or trigger artifact set effects that occur on Elemental Skill cast, even while getting interrupted during the cast.  
+Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames were tested.  
+
+**Evidence:**  
+* [Kokomi with 4p HoD/SR/CW](https://library.keqingmains.com/evidence/characters/hydro/kokomi#kokomi-skill-triggers-artifact-effects-even-when-interrupted)
+* [4p CW set + Guoba](https://imgur.com/kZ8LXW5)
+  * Getting interrupted while casting Guoba still increases Pyro dmg%. Casting it for without getting interrupted later causes another stack of CW.
+* [4p CW + Hu Tao](https://imgur.com/T7NUI4U)
+* [4p CW + Yoimiya](https://imgur.com/Fy9zUJq)
+* [4p CW + Fischl](https://imgur.com/Pa4jUoP)
+  * Not as useful for Fischl since repositioning Oz also counts for stacks
+
+**Significance:**  
+It is possible during combat to gain multiple Crimson Witch stacks on characters that usually can't get more than 1 stack.
+This is an update to [this entry](https://library.keqingmains.com/evidence/characters/hydro/kokomi#kokomi-skill-triggers-artifact-effects-even-when-interrupted) to show that this is not unique to Kokomi.
