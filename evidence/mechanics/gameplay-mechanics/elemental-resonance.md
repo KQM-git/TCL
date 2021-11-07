@@ -35,9 +35,9 @@ When testing and verifying damage calculations with Trial Characters, this inter
 Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance. 
 
 **Evidence:**  
-https://imgur.com/a/P97pcLa - Electro-charged  
-https://imgur.com/a/YRjVcgd - Overload  
-https://imgur.com/a/mjmdhhA - Superconduct  
-
+ - [Electro-charged](https://imgur.com/a/P97pcLa)  
+ - [Overload](https://imgur.com/a/YRjVcgd)  
+ - [Superconduct](https://imgur.com/a/mjmdhhA)  
+ 
 **Significance:**  
 Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.  

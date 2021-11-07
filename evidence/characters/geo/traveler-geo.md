@@ -89,7 +89,7 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 Geo MC C1 10% Crit rate buff becomes active after stone wall is created and does not affect the burst itself upon activation
 
 **Evidence:**
-[https://youtu.be/DBMJEKuABes]
+[https://youtu.be/DBMJEKuABes](https://youtu.be/DBMJEKuABes)  
 Video shows geo MC with c6 and >90% crit rate not critting on 3rd hit of his Q.
 If the crit bonus applied to burst damage, it would be impossible to not crit.
 
