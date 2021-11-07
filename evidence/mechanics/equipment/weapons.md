@@ -950,3 +950,23 @@ Memory of dust can actually be strong, even without a shield doubling its effect
 
 **Significance:** If refining a weapon from R1 to R5, it's cheaper to constantly use the R1 weapon to refine. Also, if you're refining your levelled weapon multiple times, make the other refines first \(EX: For an R3 weapon, combine others to R2 before refining with the R3\)
 
+### Weapon Stacks On Hit
+
+**By:** CQLQRS\#7853 and Dunia\#2481  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898239421558685757/906327045561258084/transcript-gaining-stacks-on-hit.html)  
+
+**Finding:**  
+Weapon passives with the description "on hit" or "scoring hits on opponents" can trigger on Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst.
+
+**Evidence:**  
+* [Wolf's Gravestone - Rzctx#9737](https://youtu.be/1PBHhkYv3D8)  
+* [Primordial Jade Winged-Spear](https://imgur.com/a/aq6Fg53)  
+* [Vortex Vanquisher](https://www.youtube.com/watch?v=heKzSDurFPc)  
+* [Memory of Dust](https://youtu.be/DoDRg3OCY14)  
+* [The Unforged - pai#3602](https://youtu.be/90FgVKrFyFI)  
+
+The evidence for Summit Shaper is missing, but it should behave the same way as the other weapons in the same series.  
+
+**Significance:**  
+Documentation of how the ambiguous description of such weapon passives work.
