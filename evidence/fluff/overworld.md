@@ -180,6 +180,44 @@ Other random structures:
 **Significance:**  
 Overworld is hard.
 
+### Overworld Hydro Gauge and ICD  
+
+**By:** BowlSoldier#3528 and p.pineapple#1129  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879642528046002176/903470522577326110/transcript-overworld-hydro-gauge-and-icd.html)  
+
+**Finding:**  
+Overworld Hydro can be split into 2 types:  
+* Water (eg. seas, rivers, lakes, etc)  
+  * ICD = 0.25s
+  * Strength = 10 durability per tick, stacks up to a max of 50
+  * Duration = 8s, regardless of durability  
+* Rain (unknown whether normal rain and thunderstorm rain work the same)  
+  * ICD = 0.5s
+  * Strength = 10 durability per tick, stacks up to a max of 30
+  * Duration = Unknown, could not manage to test 
+
+**Evidence:**  
+[Water ICD and per-tick strength](https://youtu.be/x2yf3COJR0M): Ticks happened every 0.25s. Number of ticks indicates that each tick was 10 durability.  
+
+[Water Duration](https://youtu.be/f2j6qEDQSl8): Hydro aura disappears 8 seconds after leaving the water.  
+
+[Water Max Strength, and Stacking](https://youtu.be/r7W9h75ct2U):  
+* The duration the Hillichurl was frozen for indicates they had 48-50 durability
+* They were re-frozen 43 frames after falling into the water. Since water ticks every 15 frames, they should have had 3 ticks applied to them for 30 durability. * Their frozen duration matches 28-30 durability
+
+Rain Max Strength:  
+* Tested by freezing with both 25 and 50 Cryo, then comparing the duration to the Freeze duration formula
+* Freeze duration formula: t = 24 * ( 5^0.5 * ((x) + 20)^0.5 - 10 )
+* Where t is the freeze duration in frames, and x is the freeze aura durability, which is 2x the minimum of the Cryo and Hydro gauges.
+  * [25 Cryo test](https://youtu.be/xnmioJca29g): Lasted 210 frames. This is the number for min(25, Hydro) = 25, so Hydro durability is at least 25
+  * [50 Cryo test](https://youtu.be/Lw2wvGbpY-0): Lasted 240 frames. This is the number for min(50, Hydro) = 30, so Hydro durability is 30
+
+[Rain ICD and Per-tick Strength](https://youtu.be/Kjx3EFqfdrE): The reductions in the Pyro shield happened every 30 frames, or 0.5s. The number of ticks it took to remove the Pyro shield indicates 10 durability per tick. The first reduction was 30 durability's worth, since the mage already had fully stacked rain on them when they applied their shield.  
+
+**Significance:**  
+Better understanding of how overworld hydro works for aura and reaction testing.
+
 ## 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  

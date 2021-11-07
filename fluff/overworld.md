@@ -22,6 +22,12 @@
 - True water, water that can be reacted with, is not graphically represented at all times, additionally, graphically represented water is only an approximation.
 - Genshin's water is coded in a way where the visual water and actual layer are separate, thus there is an invisible field of water that does not apply wet in random places of the world, but can be infused.
 - Applying electro to water does not produce electro-charged, instead it creates an instance of Electrified.  
+- Overworld water applies hydro with an ICD of 0.25 seconds, a strength of 10 durability per tick, up to a max of 50, and a duration of 8 seconds, regardless of durability.
+
+### Rain  
+
+- Overworld rain applies hydro with an ICD of 0.5 seconds, and a strength of 10 durability per tick, up to a max of 50. The duration of hydro aura applied by rain is currently unknown.  
+- It is unknown if normal rain and thunderstorm rain have the same properties.  
 
 ### Electrified  
 
