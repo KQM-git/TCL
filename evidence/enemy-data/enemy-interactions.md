@@ -576,3 +576,49 @@ Multiple stacks deal damage with independent durations and independent damage ti
 
 **Significance:**  
 Better understanding of Corrosion status.
+
+## Specters
+
+### Specter Defeat Interaction
+
+**By:** Rathalos#2875  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905809922913079327/906340038013493248/transcript-specter-defeat-interactions.html)  
+
+**Finding:**  
+Defeating a specter does not proc any of the kill-based effects in the game. 
+
+**Evidence:**  
+[Blackcliff Longsword on Specter Kill](https://youtu.be/hVhX6ctKUdY):
+* Passive: After defeating an opponent, ATK is increased by 12–24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.  
+  * ATK before kills: 1563
+  * ATK after kills: 1563
+  * No buff indicator for Blackcliff procs.
+
+[Twin Nephrite on Specter Kill](https://youtu.be/Q3VWundiukU):
+* Passive: Defeating an opponent increases Movement SPD and ATK by 20% for 15s.
+  * ATK before kill: 675
+  * ATK after kill: 675
+  * No buff indicator for Nephrite's Movement SPD buff. Buff indicator for Ningguang's A4 Talent present.
+
+[White Iron Greatsword on Specter Kill](https://youtu.be/XlN0H9jWjn0):
+* Passive: Defeating an opponent restores 16% HP.
+  * HP before kill: 7102
+  * HP after kill: 7102 - 1389x2+1737 (hydro dmg) = 2585
+  * No heals obtained from kill, no healing indicator. 
+
+[AMC's Second Wind (A4) on Specter Kill - Credit to CellistiaCat#1700 for noting this](https://youtu.be/_KeAfcKTKAE):
+* Palm Vortex kills regenerate 2% HP for 5s. This effect can only occur once every 5s.
+  * HP before kill: 512
+  * HP after kill: 512
+  * No healing indicator.
+
+[Kaeya's Never-Ending Performance (C2) against Specters](https://youtu.be/iHmrtF2uitg):
+* Every time Glacial Waltz defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+  * Regular Q duration: 8s
+  * Expected Q duration after 2 kills: 8s (+5) = 13s
+  * Observed Q duration: Lasts from 0:11 to 0:19, ~8s
+  * Blackcliff indicator also absent. 
+
+**Significance:**  
+This implies that specters aren't actually killed by the player. Weapons, particularly the Blackcliff series, are less effective in floors that contain Specters. Current characters interactions that require kills (notably Kaeya C2) may be affected, as well as future characters with a similar kill-requirement.  
