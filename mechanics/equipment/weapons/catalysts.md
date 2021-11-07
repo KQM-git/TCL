@@ -75,6 +75,7 @@
 | ATK% | 10.8% - 49.6% |
 
 * Xingqiu's Rain Swords do not count as a shield for Memory of Dust - [＃＃\#0123](../../../evidence/mechanics/equipment/weapons.md#analysis-of-whether-xingqiu-e-q-counts-as-a-shield-for-memory-of-dust-and-bolide)
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../../evidence/mechanics/equipment/weapons.md#weapon-stacks-on-hit)  
 {% endtab %}
 
 {% tab title="Details" %}

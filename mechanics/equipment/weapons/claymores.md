@@ -72,6 +72,8 @@
 | Golden Majesty | Increases Shield Strength by **20/25/30/35/40**%. Scoring hits on opponents increases ATK by **4/5/6/7/8**% for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%. |
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
+
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../../evidence/mechanics/equipment/weapons.md#weapon-stacks-on-hit)  
 {% endtab %}
 
 {% tab title="Details" %}
@@ -103,6 +105,7 @@
 | ATK% | 10.8% - 49.6% |
 
 * WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet - [JonahFarc\#7056](../../../evidence/mechanics/equipment/weapons.md#wolfs-gravestone-procs-dont-stack)
+* Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../../evidence/mechanics/equipment/weapons.md#weapon-stacks-on-hit)  
 {% endtab %}
 
 {% tab title="Details" %}
