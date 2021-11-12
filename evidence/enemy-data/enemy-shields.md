@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Enemy Shields and Armor
 
 ## Reaction Efficiency at Breaking Elemental Shields \(Translation\)

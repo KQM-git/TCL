@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Shields
 
 ## Shield and I-frame Interactions.

@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Cooldowns
 
 ## Multi Charge Skills Snapshot CDR

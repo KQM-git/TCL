@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Poise
 
 ## A Deep Dive into Genshin's Stagger Mechanics

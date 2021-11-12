@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Snapshot and Dynamic
 
 ## Summons are Not Dynamic and Snapshot on Cast

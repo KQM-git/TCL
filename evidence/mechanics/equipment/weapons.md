@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Weapons
 
 ## Bane of ... Series

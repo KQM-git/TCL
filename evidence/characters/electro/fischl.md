@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Fischl
 
 **Main Page:**

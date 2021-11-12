@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Weapon Infusion
 
 ## Weapon Gauges

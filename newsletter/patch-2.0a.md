@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
 ---
 

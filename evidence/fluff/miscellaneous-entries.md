@@ -1,4 +1,5 @@
 ---
+search: false
 description: For entries that have little practical use.
 ---
 

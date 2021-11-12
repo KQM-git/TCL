@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Noelle
 
 **Main Page:**

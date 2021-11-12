@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Movement and Physics
 
 **Main Page:**

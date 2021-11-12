@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Xinyan
 
 **Main Page:**

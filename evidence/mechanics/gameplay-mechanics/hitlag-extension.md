@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Hitlag Extension
 
 ## Hitlag Extends Elemental Aura Duration <a id="docs-internal-guid-116d1688-7fff-1539-a82f-c218e3de996c"></a>

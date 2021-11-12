@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Kokomi Banner ft. Beidou, Xingqiu, and Rosaria'
 ---
 

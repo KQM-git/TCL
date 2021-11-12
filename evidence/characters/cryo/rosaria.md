@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Rosaria
 
 **Main Page:**

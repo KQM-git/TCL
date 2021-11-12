@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Yoimiya Banner ft. Diona, Xinyan, and Sayu'
 ---
 

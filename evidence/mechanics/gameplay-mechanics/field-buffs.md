@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Field Buffs
 
 ## Character Field Tick Rate

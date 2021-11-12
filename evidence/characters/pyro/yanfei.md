@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Yanfei
 
 **Main Page:**

@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Beidou
 
 **Main Page:**

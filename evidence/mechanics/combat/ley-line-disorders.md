@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Ley Line Disorders
 
 ## Ley Line Aura Duration

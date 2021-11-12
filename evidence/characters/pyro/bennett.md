@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Bennett
 
 **Main Page:**

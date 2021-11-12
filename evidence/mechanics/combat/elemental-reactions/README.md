@@ -1,2 +1,6 @@
+---
+search: false
+---
+
 # Elemental Reactions
 

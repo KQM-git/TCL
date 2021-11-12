@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Kaeya
 
 **Main Page:**

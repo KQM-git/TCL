@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Keqing
 
 **Main Page:**

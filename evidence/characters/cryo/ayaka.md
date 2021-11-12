@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Ayaka
 
 **Main Page:**

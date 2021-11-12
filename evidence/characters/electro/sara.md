@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Kujou Sara
 
 **Main Page:**

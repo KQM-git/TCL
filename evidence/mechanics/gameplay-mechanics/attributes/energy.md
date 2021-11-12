@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Energy
 
 ## Elemental Skill Particle Production Database

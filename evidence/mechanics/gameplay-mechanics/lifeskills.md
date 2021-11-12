@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Lifeskills
 
 ## Bake-Danuki Respawn

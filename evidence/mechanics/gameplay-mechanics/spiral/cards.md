@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Cards
 
 ## HP Loss on Retry

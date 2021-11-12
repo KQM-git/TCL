@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Fall Damage
 
 ## SC and Phys Bonus Don't Affect Fall Damage

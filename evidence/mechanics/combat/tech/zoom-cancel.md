@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Zoom Cancel
 
 **By:** randomspades \#0956  

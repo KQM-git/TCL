@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Internal Cooldown of Elemental Application
 
 ## **Frame Data of Strings for ICD**

@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Zhongli
 
 **Main Page:**

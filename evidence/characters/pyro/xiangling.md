@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Xiangling
 
 **Main Page:**

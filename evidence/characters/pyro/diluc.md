@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Diluc
 
 **Main Page:**

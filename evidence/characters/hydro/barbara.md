@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Barbara
 
 **Main Page:**

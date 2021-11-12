@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Bugs
 
 **Main Page:**

@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Kazuha Banner ft. Rosaria, Razor, and Bennett'
 ---
 

@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Raiden
 
 **Main Page:**

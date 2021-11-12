@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Gacha
 
 ## Soft Pity on Banners

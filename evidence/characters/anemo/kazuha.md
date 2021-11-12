@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Kazuha
 
 **Main Page:**

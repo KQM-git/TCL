@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Ningguang
 
 **Main Page:**

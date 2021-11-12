@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Enemy Elemental Gauge
 
 ## Elemental Aura Application and Gauge Values of Enemies

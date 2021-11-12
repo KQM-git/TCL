@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Klee Banner ft. Sucrose, Fischl, Barbara, and ANEMO IMPACT'
 ---
 

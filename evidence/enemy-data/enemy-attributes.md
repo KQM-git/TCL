@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Enemy Attributes
 
 ## In-Depth Look at Monster Skill Effects in Domains/Abyss

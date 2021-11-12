@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Klee
 
 **Main Page:**

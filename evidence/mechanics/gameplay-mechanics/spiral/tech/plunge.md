@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Plunge
 
 ## Plunge on Stairs in Floor 12

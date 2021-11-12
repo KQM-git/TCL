@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Raiden Banner ft. Xiangling, Sucrose, and Sara'
 ---
 

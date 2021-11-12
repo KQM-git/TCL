@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Mona
 
 **Main Page:**

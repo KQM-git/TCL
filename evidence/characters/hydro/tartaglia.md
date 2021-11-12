@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Tartaglia
 
 **Main Page:**

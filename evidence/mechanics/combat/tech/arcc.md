@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # ARCC
 
 ## How to ARCC

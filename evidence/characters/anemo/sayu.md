@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Sayu
 
 **Main Page:**

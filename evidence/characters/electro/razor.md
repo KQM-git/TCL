@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Razor
 
 **Main Page:**

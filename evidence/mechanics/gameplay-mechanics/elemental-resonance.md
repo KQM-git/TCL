@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Elemental Resonance  
 
 ## Trial Character Resonances

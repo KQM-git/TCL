@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Diona
 
 **Main Page:**

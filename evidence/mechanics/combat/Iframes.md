@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Iframes  
 
 ## Preliminary Analysis of How Invincibility Frames Work  

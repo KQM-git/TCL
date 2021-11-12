@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Traveler \(Anemo\)
 
 **Main Page:**

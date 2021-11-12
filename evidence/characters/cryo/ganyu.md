@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Ganyu
 
 **Main Page:**

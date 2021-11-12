@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Scaling
 
 **Main Page:**

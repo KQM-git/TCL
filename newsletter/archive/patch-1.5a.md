@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Zhongli Banner ft. Yanfei, Diona, and Noelle'
 ---
 

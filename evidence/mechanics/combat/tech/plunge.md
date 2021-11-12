@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Plunge tech
 
 ## Dash-Jump-Plunge  

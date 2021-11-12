@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Glide Cancel
 
 ## Wave Dashing

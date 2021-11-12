@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 ---
 

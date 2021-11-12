@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Elemental Absorption
 
 ## Charged Arrow Absorption Mechanics

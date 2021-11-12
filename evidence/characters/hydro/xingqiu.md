@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Xingqiu
 
 **Main Page:**

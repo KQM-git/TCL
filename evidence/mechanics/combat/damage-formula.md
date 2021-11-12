@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Damage Formula
 
 **Main Page:**

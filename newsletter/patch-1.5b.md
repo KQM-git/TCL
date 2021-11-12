@@ -1,4 +1,5 @@
 ---
+search: false
 description: 'Eula Banner ft. Beidou, Xingqiu, and Xinyan'
 ---
 

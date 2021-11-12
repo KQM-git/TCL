@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Venti
 
 **Main Page:**

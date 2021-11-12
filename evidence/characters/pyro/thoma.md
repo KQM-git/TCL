@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Thoma
 
 **Main Page:**

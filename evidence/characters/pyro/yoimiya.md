@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Yoimiya
 
 **Main Page:**

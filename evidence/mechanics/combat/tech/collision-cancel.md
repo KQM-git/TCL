@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Collision Cancel
 
 **By:** BowTae#0141  

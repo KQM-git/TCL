@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Hu Tao
 
 **Main Page:**

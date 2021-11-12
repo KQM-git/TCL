@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # February 2021
 
 February 2021 marks the beginning of the moving of the TCL to a better platform. For now, Gitbook will be a stepping stone as we move pure text from the Google Docs into markdown.

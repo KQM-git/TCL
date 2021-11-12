@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Elemental Gauge Theory
 
 ## **Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions**
