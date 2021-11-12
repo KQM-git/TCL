@@ -46,7 +46,7 @@ Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of 
 
 After the soft pity, the probability of the 5\* increases by a currently unknown value, making it significantly more probable to receive a 5\*.
 
-The featured characters also have increased rates of pulling. The next 5\* is guaranteed to be a featured weapon if you roll a 5\* that is not featured. Similarly, for the 4\* weapons, a featured 4\* is guaranteed if a 4\* is rolled that is not featured. There is no guarantee to get a specific 5\* weapon, only to get ONE of the featured 5\* weapons.
+The featured characters also have increased rates of pulling. The next 5\* is guaranteed to be a featured weapon if you roll a 5\* that is not featured. Similarly, for the 4\* weapons, a featured 4\* is guaranteed if a 4\* is rolled that is not featured. This guarantee will carry over across banner changes. With Epitomized Path, a selected specific featured 5\* weapon is guaranteed only on the 3rd 5\* pull following 2 other 5\* pulls which were not the selected 5\* weapon. Epitomized Path progress does **not** carry over across banner changes (resetting every 3 weeks).
 
 Thus, the rates before pity weighting are as follows:
 
@@ -59,14 +59,20 @@ Thus, the rates before pity weighting are as follows:
 | Arbitrary 3\* | 94.3% |
 | Specific 3\* | 7.17% |
 
-Estimated number of 5\* pulls to get desired weapon:
+Estimated number of 5\* pulls to get desired weapon, with and without Epitomized Path or featured weapon pity (from a previous not-featured pull):
 
 | Item | Pulls |
 | :--- | :--- |
-| R1 weapon \(with pity\) | 2.25 |
+| **With Eptomized Path:** | |
+| R1 weapon \(no pity\) | 1.984375 |
+| R1 weapon \(with pity\) | 1.8125 |
+| R5 weapon \(no pity\) | 9.921875 |
+| R5 weapon \(with pity\) | 9.75 |
+| **Without Epitomized Path:** | |
 | R1 weapon \(no pity\) | 2.5 |
-| R5 weapon \(starting with pity\) | 12.25 |
-| R5 weapon \(not starting with pity\) | 12.5 |
+| R1 weapon \(with pity\) | 2.25 |
+| R5 weapon \(no pity\) | 12.5 |
+| R5 weapon \(with pity\) | 12.25 |
 
 ## Standard Banner
 

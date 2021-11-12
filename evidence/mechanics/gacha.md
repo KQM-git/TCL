@@ -59,3 +59,27 @@ Note that this is for WL7 drop rates, and only includes permanent sources of mat
 20/40 to 50/60 is actually an investment of ~427.2 resin for the fate.  
 50/60 to 70/80 is 5 days worth of F2P resin budget. Consider if you have no other uses for resin.  
 
+## Weapon banner Gacha Rates with Epitomized Path
+
+**By:** Tim\#5259, Mcpie\#8672  
+**Added:** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884585841270329415/908323794622492742/transcript-weapon-banner-gacha-rates-with-epitomized-path.html)
+
+**Finding:**  
+Weapon banner gacha rates with Epitomized Path.
+
+**Evidence:**  
+Analytic solution, no pity: 1.984375 5\* weapon rolls: [Discord image](https://cdn.discordapp.com/attachments/884585841270329415/885243449782177832/unknown.png)  
+Analytic solution, pity: 1.8125 5\* weapon rolls: [Discord image](https://cdn.discordapp.com/attachments/884585841270329415/885243674206814268/unknown.png)  
+Monte-carlo verification: [Pastebin](https://pastebin.com/d9Mg1i4n)
+
+**Significance:**  
+Expected 5\* weapon rolls to desired 5\* using epi path without pity at start: 1.984375  
+Expected 5\* weapon rolls to desired 5\* using epi path with pity at start: 1.8125  
+r5, epi path, no pity to start; expected num of weapons: 9.921875  
+r5, epi path, pity to start; expected num of weapons: 9.75  
+
+r1, no epi path, no pity: 2.5  
+r1, no epi path, pity: 2.25  
+r5, no epi path, no pity: 12.5  
+r5, no epi path, pity: 12.25  
