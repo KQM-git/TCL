@@ -221,7 +221,7 @@ Factors that do not affect the result (assuming shield will sustain)
 Additionally, in coop, if all characters have the same type of shield (C2 Diona, 4x Noelle with E up), the damage reflected is still the same. However, should there be more than one type of shields during reflect then the damage is summed. For example using Beidou E + Zhongli E on hydro Primo Geovishap reflect will result with 20% reflected damage.
 
 **Evidence:**  
-Based on datamined files, for level 93 primo geovishap, it has:
+Level 93 primo geovishap, it has:
 `(407.5199890136719 * 1930.0469970703125) = 786532.731042` HP
 Therefore, 15% is `117979.909656` and 5% is `39326.6365521`.
 

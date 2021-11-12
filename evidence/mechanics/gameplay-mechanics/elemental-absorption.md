@@ -49,11 +49,7 @@ These will be followed regardless of gauge strength, proximity (as long as they 
 
 **Evidence:**  
 The two above priority orders are given in data for each respective ability:  
-Venti Q: https://github.com/Dimbreath/GenshinData/blob/72c9112a7c5e8e5014f61009a1a2764e266aeab7/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Venti.json#L2937  
-Sucrose Q: https://github.com/Dimbreath/GenshinData/blob/72c9112a7c5e8e5014f61009a1a2764e266aeab7/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Sucrose.json#L1569  
-AMC E: https://github.com/Dimbreath/GenshinData/blob/72c9112a7c5e8e5014f61009a1a2764e266aeab7/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Player_Wind.json#L2276  
-AMC Q: https://github.com/Dimbreath/GenshinData/blob/72c9112a7c5e8e5014f61009a1a2764e266aeab7/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Player_Wind.json#L3337  
-
+*Has been lost to the sands of time*  
 Experimental verification:  
 
 Existing theory (in TCL) has element type acting as a tie breaker and gauge strength acting as the dominant factor in determining absorption.  
@@ -85,7 +81,7 @@ https://www.youtube.com/watch?v=c76r0Y16r_Y
 Hydro > Electro:  
 https://www.youtube.com/watch?v=vDGWRzrt_gM  
 Ayzel's [submission](https://discord.com/channels/763583452762734592/765191980115689542/834245628874981426) regarding absorption always prioritizing Hydro in EC situations can be explained by this model as Hydro is higher in priority than Electro for both orders.  
-Credit is given to Carrier5by5\#8394 for bringing forth the data-side evidence of absorption priority and helping me understand it, and Clouded\#0427 for enabling the Co-op tests.  
+Credit is given to Carrier5by5\#8394 for bringing forth the evidence of absorption priority and helping me understand it, and Clouded\#0427 for enabling the Co-op tests.  
 
 
 **Significance:**  

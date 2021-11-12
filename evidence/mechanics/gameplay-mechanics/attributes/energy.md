@@ -68,13 +68,13 @@ Attacking enemies with normal/charged attacks can give extra energy. Although in
 
 **Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.
 
-**Evidence:** With help from datamine data, test on various character were recorded to ensure that the data were right.
+**Evidence:** Tests on various character were recorded to ensure that the data were right.
 
 Elemental skills that has a fixed production value will be cast for at least 50 times, while elemental skills that has a chance based production value will be cast for at least 200 times until the average stabilize to double confirm the ratio.
 
 In addition, several new conditions to trigger particle generation had been added to specific character notes.
 
-Datamine data here: [https://github.com/Dimbreath/GenshinData/tree/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be](https://github.com/Dimbreath/GenshinData/tree/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be) Elemental particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
+Elemental particle production sheet here: [https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit\#gid=0](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0)
 
 **Conclusion:** Changes made to the sheet were as follow
 

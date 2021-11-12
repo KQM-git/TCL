@@ -746,8 +746,7 @@ Melt but no Vape: [Video](https://youtu.be/Jtof5kfq8XI)
 Melt and Vape: No documented cases likely due to frozen aura being very high gauge and short duration  
 Crystalize cannot be tested on hidden hydro due to shattering.
 
-The elemental priority array from data can be found in the global combat config.  
-Datamined element priority order:  
+Element priority order:  
 Electro > Pyro > Anemo > Cryo > Freeze > Hydro > Dendro > Geo  
 Evidence for Anemo triggers defying this array is already provided in the ticket linked in the theory section. Additional testing is required on hidden hydro due to its strange behavior and the relatively unstudied gauge strength of frozen.  
 

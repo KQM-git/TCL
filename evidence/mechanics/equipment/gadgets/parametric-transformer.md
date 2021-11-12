@@ -29,13 +29,13 @@ The best theoretical time you can achieve is 18 x 0.401s = 7.218s
 **Evidence:**  
 [Mona dash speedrun](https://youtu.be/7ed8Xd8HX24)
 
-[Parametric ICD - 0.4s](https://github.com/Dimbreath/GenshinData/blob/034e03bb49dcd656c2b06b634aca3d398dd1aa58/BinOutput/Ability/Temp/GadgetAbilities/ConfigAbility_Scene_Toys.json#L1584) (in-game file datamined by Dimbreath)
+Parametric ICD - 0.4s
 
-[Venti Q - 0.4s](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Venti.json#L2604) (in-game file datamined by Dimbreath)
+Venti Q - 0.4s
 
-[Lisa Q - 0.5s](https://github.com/Dimbreath/GenshinData/blob/d633c8cfe5f1f383413a1f65f44d9bd018e5f9be/BinOutput/Ability/Temp/AvatarAbilities/ConfigAbility_Avatar_Lisa.json#L3322) (in-game file datamined by Dimbreath)
+Lisa Q - 0.5s
 
-Mona dash - Can't find in gamefiles, assumed 0.517s from video after frame analysis: [https://youtu.be/QqpqITYB5Fc](https://www.youtube.com/watch?v=QqpqITYB5Fc)  
+Mona dash - Assumed 0.517s from video after frame analysis: [https://youtu.be/QqpqITYB5Fc](https://www.youtube.com/watch?v=QqpqITYB5Fc)  
 That's only 1 frame difference.
 
 Electro Crystal - 0.5s after frame analysis: [https://youtu.be/69BUuqOBhRo](https://www.youtube.com/watch?v=69BUuqOBhRo)

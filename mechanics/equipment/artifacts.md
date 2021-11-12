@@ -430,16 +430,6 @@
 {% endtab %}
 {% endtabs %}
 
-## Substats Distribution
-
-Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
-
-[Datamined substat probabilities from Dimbreath summarized](https://imgur.com/k2d3S3J)
-
-[Results of simulation](https://docs.google.com/spreadsheets/d/1d9nC3x5Ho2lOfmUUMdgKq5h2cZ69VZ_m58OzKlh_muo/) after plugging in some guesses for the main stat and substat probabilities, and comparing those simulated figures to the actual distributions.
-
-* Artifact data from [/u/Acheron-X](https://docs.google.com/spreadsheets/d/e/2PACX-1vQdCZN4lM23LNfSU36-zEKXC7sXBzeywSGhT1JW9SlqytYXHHFNVXos1yI0UPMqSyTU7KOe36mtjK9d/pubhtml#)
-
 ## Other Findings
 * For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
 * Below 842 EM, 2WT+2Ins set bonus brings more value than 4VV for swirl damage before accounting for resistance.
