@@ -45,8 +45,8 @@ Burning grass has standard ICD - 3 hits/2.5 seconds.
 
 The overworld map is split into multiple zones that affect enemy level and environmental reactions:  
 [Mondstadt](https://i.imgur.com/E0oN0B6.jpg)  
-Liyue(TBD)  
-Inazumuma(TBD)  
+[Liyue](https://imgur.com/a/8KAMXuE)  
+[Inazuma](https://imgur.com/a/Qmhh5Po)  
 
 ### Bush Elemental Interactions
 

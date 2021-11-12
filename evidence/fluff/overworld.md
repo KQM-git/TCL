@@ -119,23 +119,61 @@ The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)
 **Significance:**  
 We're getting ever so closer to figuring out the cursed world of teyvat's code
 
-### Zone levels: Mondstadt  
+### Zone Levels
 
-**By:** deaf#0246  
+#### Mondstadt
+
+**By:** deaf\#0246  
 **Added** 08/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872856833835036723/878915593116454932/transcript-zone-levels.html)  
 
 **Finding:**  
-The overworld in Genshin is split into multiple zones which can be distinguished by how much damage overworld reactions deal.  
+The overworld in Genshin is split into multiple zones which can be distinguished by how much damage overworld reactions deal. These are the zones for Mondstadt.  
 
 **Evidence:**  
 [Zones](https://i.imgur.com/E0oN0B6.jpg)  
 A lot of painful testing was done via monitoring: enemy levels, Burning grass and Electrified, all of which can be found in the image above.  
 
 **Significance:**  
-Fluff, and a deeper understanding of how the overworld is programmed
-with that, I consider this completed. 
-I have nothing but regrets.
+Fluff, and a deeper understanding of how the overworld is programmed.  
+With that, I consider this completed.  
+I have nothing but regrets.  
+
+#### Liyue
+
+**By:** Vladone ツ\#9281  
+**Added** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905965525027414056/908513612430184458/transcript-zone-levels-liyue.html)  
+
+**Finding:**  
+The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Liyue.  
+
+**Evidence:**  
+[Imgur Map](https://imgur.com/a/8KAMXuE)  
+[Full Resolution Map](https://photos.app.goo.gl/rcB9Tt3avWNwJALN6)  
+Video representation of how I test/search borders: [YouTube](https://www.youtube.com/watch?v=V1rD-cR8aCA)  
+Zone levels are usually very intuitive, Liyue has very messed up borders and a lot of bugs. Because of this, the borders are really weird and in some areas, the representation might not be very accurate.  
+[Bug Example](https://www.youtube.com/watch?v=6c57An_PDCw)  
+
+**Significance:**  
+Fluff and overworld documentation.  
+
+#### Inazuma
+
+**By:** deaf\#0246  
+**Added** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905984755986726972/908513380455809084/transcript-zone-levels-inazuma.html)  
+
+**Finding:**  
+The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Inazuma.  
+
+**Evidence:**  
+[Map](https://imgur.com/a/Qmhh5Po)  
+My methodology for the borders in the water can be seen in [this video](https://www.youtube.com/watch?v=5pZlI0e7J1w).  
+Also, I think we can all agree that trying to document anything in the ocean between Inazuma and Liyue is unreasonable, so the northern borders are completely made up.  
+
+**Significance:**  
+Fluff, and overworld documentation I guess.  
 
 ### Bush Elemental Interaction
 
