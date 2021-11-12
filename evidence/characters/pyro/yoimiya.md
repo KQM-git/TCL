@@ -34,6 +34,20 @@
 * Kindling arrows can home in on different targets. - [Mcpie#8672](https://i.imgur.com/sbQgjv8.mp4)  
 * Kindling arrows have a limited range. - [Mcpie#8672](https://i.imgur.com/3bgYXfR.mp4)  
 * Kindling Arrow tracking is curved making it possible to orbit around targets. - [Ravantier#4984](https://imgur.com/mtpNOud)  
+
+#### Kindling Arrows Interaction with Amos' Bow
+**By:** Ayzel\#7399  
+**Added:** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908499139703214080/908507642199150652/transcript-yoi-kindling-arrows-and-amos.html)
+
+**Findings:**  
+ Kindling arrows are affected by Amos' Bow's passive, and it is very easy for Kindling arrows to gain all 5 stacks because of how slowly they move.
+ 
+**Evidence:**  
+[Kindling Arrow affected by Amos' Bow's passive at various ranges](https://www.youtube.com/watch?v=-OAt8g15qkM&ab_channel=Ayzel)
+
+**Significance:**  
+Increases Amos' Bow value with a CA-oriented Yoimiya playstyle.
   
 ### Skill Mechanics
 

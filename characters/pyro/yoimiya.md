@@ -53,6 +53,7 @@ Performs a more precise Aimed Shot with increased DMG. While aiming, flames will
 
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
+* **Kindling Arrows** are affected by Amos' Bow's passive and reach max stacks at low range.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
