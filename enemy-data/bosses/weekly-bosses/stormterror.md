@@ -58,3 +58,7 @@ None.
 * Dives down and appears to the other end of the arena, then begins charging an attack. He then unleashes a gigantic pulse bomb towards the platform.
 * Periodically, there will be circular indicators on the ground showing where the energy pulse will strike. He swirls around in the air for a period of time and causes a permanent condition on every part of the arena.
   * Dvalin uses this attack if the player takes too long to kill him. This attack persists for the rest of the fight.
+
+## Interactions  
+
+* The damage from cracked platforms is normal Anemo damage and is not based on the active character's HP.
