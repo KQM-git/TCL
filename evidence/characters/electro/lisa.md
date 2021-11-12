@@ -108,6 +108,30 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 
 ## Burst Mechanics
 
+### Lightning Rose's initial summon damage does not apply Electro Aura
+
+**By:** ArchedNosi\#1484  
+**Added:** 11/08/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462490110607400/907389926981644348/transcript-lisa-summon-lightning-rose-no-aura.html)
+
+**Finding:**
+
+In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply an Electro Aura, despite dealing Electro Damage.
+
+**Evidence:**
+
+* [Casting Lightning Rose](https://youtu.be/ZDknULX1M7o)
+  * At 0:06, the Initial Summon Damage is dealt, yet did not apply any Electro Aura, shortly after, Lightning Rose's attack applied an Electro Aura. Indicating that the Initial Summon DMG does not apply an Electro Aura.
+* [Freeze-frames of those moments above](https://imgur.com/gallery/xCeLEn2)
+  * No Overload proccing
+* [Casting Lightning Rose following into a Tap E to Multi-Stack Conductive Stacks](https://youtu.be/RrZDimfHHT8)
+  * Lightning Rose's Initial Summon Damage did not apply Electro, thus not proccing Overloaded allowing Lisa to Tap E in order to Multi-Stack Conductive Stacks.
+
+**Significance:** 
+
+Demonstrates that the Initial Summon DMG of Lightning Rose does not apply an Electro Aura. 
+For Lisa specifically, knowing this is more useful than not as she would be able to not proc Overloaded/Superconduct from casting Lightning Rose and be able to quickly cast a Tap E after to proc the reaction instead, causing Multiple Conductive Stacks to occur due to her Multi-Stacking.
+
 
 ### Lisa's Lightning Rose is Random when Targeting Entities + Total Count
 
@@ -165,7 +189,6 @@ Hypothetical N Entities (assuming all are condensed enough to be tagged by all D
 
 **Significance:**  
 Proves that Lisa's Lightning Rose can have AoE properties as well as very limited Quadratic potential. In turn, one may be able to condense a group of mobs close enough to accentuate Lightning Rose's total damage output.  
-
 
 ## Constellation Mechanics
 
