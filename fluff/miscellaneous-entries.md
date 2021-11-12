@@ -18,13 +18,13 @@ description: For entries that have little practical use.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.
 * Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
 
-
 ## Environment
 
 * Bushes take one unit of pyro elemental application to light on fire.
 * If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
 * Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
 * Electro Crystals have levels
+* You can light torches and melt Ice Flowers with 0 gauge pyro hits, such as Overload, Hu Tao's Skill cast, and Yoimiya's Skill cast.
 
 ## Tanking
 

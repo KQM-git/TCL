@@ -8,6 +8,35 @@ description: For entries that have little practical use.
 
 {% page-ref page="../../fluff/miscellaneous-entries.md" %}
 
+## Torch Lighting with Zero Gauge Pyro Hits
+
+**By:** kxmndz\#4700  
+**Added:** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904069344764526692/908536409021906954/transcript-torches-take-0-gauge-to-light.html)  
+
+**Finding:**  
+Some overworld objects (torches, mist flowers) interact with 0 gauge pyro hits (hits that don't apply pyro aura to enemies).  
+
+**Evidence:**  
+Overload and Torches:  
+- [Overload lighting a torch but not applying pyro to hilichurl](https://youtu.be/tyuLDjja0cQ)  
+- [Overload continuously reacting to pyro from a torch and lighting a nearby torch](https://youtu.be/5ihT0Zp05OQ)  
+- [Overload not lighting Dendro barrels on fire (confirmed in range by triggering explosive barrel)](https://imgur.com/JH76aSW)  
+
+Ice Flowers:  
+- [Ice flower being melted by Hu Tao E cast](https://imgur.com/g7fJe1L)  
+- [Dendro crate not being lit on fire by Hu Tao E cast](https://imgur.com/ieGHPpT)  
+
+Zero Gauge Pyro Skills:  
+- ItzSomebody\#0029: [Hu Tao E cast and NAs that are on ICD](https://youtu.be/mNnipUJvMJk)  
+- [Yoimiya E cast](https://imgur.com/pdWIOT2)  
+- [Yoimiya NAs that are on ICD](https://imgur.com/tvkIneu)  
+
+Couldn't get a proper Diluc clip because his infusion window is short and the Phoenix's Pyro app makes the timing not line up with Mona E, but feel free to test it.  
+
+**Significance:**  
+Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff.  
+
 ## Kamuijima Cannon Friendly Fire  
 
 **By:** Goden\#2155  
