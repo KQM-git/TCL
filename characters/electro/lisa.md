@@ -113,6 +113,8 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Energy Cost | 80 | ~ | ~ |
 | GU | 1A | ~ | ~ |
 
+* Discharges from **Lightning Rose** have a small AoE on impact. In tight enemy groups, a lightning bolt can deal damage to multiple enemies at once.
+
 {% endtab %}
 {% endtabs %}
 
@@ -171,6 +173,9 @@ Increases the Level of **Lightning Rose** by 3.
 ## Plasma Eruption
 
 Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
+
+* In tight enemy groups, **Plasma Eruption** can quadratically increase the damage of **Lightning Rose** due to the AoE of each lightning bolt released.
+
 {% endtab %}
 
 {% tab title="C5" %}

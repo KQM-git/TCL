@@ -106,6 +106,41 @@ Can also work in conjunction with the effect described in a previous entry: [Vio
 
 Lisa can easily abuse this tech to quickly and efficiently stack Conductive. This allows for smoother and more rapid gameplay and very much opens up a Burst Carry archetype.
 
+## Burst Mechanics
+
+### Lightning Rose has Limited Quadratic Properties and Impact AoE
+
+**By:** ArchedNosi\#1484  
+**Added:** 11/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462271125995530/907915774545526834/transcript-lisa-aoe-properties-lightning-rose.html)  
+
+**Finding:**  
+Lisa's Lightning Rose connections have an impact AoE.  
+Somewhat like other abilities with the potential to Quadratically Scale in output, C4 Lightning Rose is also able to as well, varying on the Entity count, the count of Discharges released at a time, and the proximity of Entities. However, as the scaling is dependent with how C4 works, her Quadratic Scaling is capped and limited at 3 Discharges/Entities, and will return to Linear Multiplicative Scaling in higher Entity Counts or lower Discharge Counts.  
+
+**Evidence:**  
+* [1 Entity](https://youtu.be/ZDknULX1M7o)  
+  * 1 Damage Value occured in each Arc containing 1 Discharge \(1 Entity × 1 Discharge\) \[technically Quad\]
+* [2 Entities](https://youtu.be/d8vx7AsubU0)
+  * When 1 Discharge occured, there were 2 resulting Damage Values \(2 Entities × 1 Discharge\) 
+  * When 2 Discharges occured, there were 4 resulting Damage Values \(2 Entities × 2 Discharges\) \[Quad\]
+* [3 Entities](https://youtu.be/ewk7a9NdDkw)
+  * When 1 Discharge occured, there were 3 resulting Damage Values \(3 Entities × 1 Discharge\)
+  * When 2 Discharges occured, there were 6 resulting Damage Values \(3 Entities × 2 Discharges\)
+  * When 3 Discharges occured, there were 9 resulting Damage Values \(3 Entities × 3 Discharges\) \[Quad\]
+* [4 Entities](https://youtu.be/kql4C6_Wq90)
+  * When 1 Discharge occured, there were 4 resulting Damage Values \(4 Entities × 1 Discharge\)
+  * When 2 Discharges occured, there were 8 resulting Damage Values \(4 Entities × 2 Discharges\)
+  * When 3 Discharges occured, there were 12 resulting Damage Values \(4 Entities × 3 Discharges\) 
+
+Hypothetical N Entities (assuming all are condensed enough to be tagged by all Discharges):  
+* If 1 Discharge occurs, there will be \(N × 1\) resulting Damage Value(s) 
+* If 2 Discharges occur, there will be \(N × 2\) resulting Damage Values
+* If 3 Discharges occur, there will be \(N × 3\) resulting Damage Values
+
+**Significance:**  
+Proves that Lisa's Lightning Rose can have AoE properties as well as very limited Quadratic potential. In turn, one may be able to condense a group of mobs close enough to accentuate Lightning Rose's total damage output.  
+
 ## Constellation Mechanics
 
 ### C1: Infinite Circuit
