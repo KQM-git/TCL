@@ -420,3 +420,34 @@ Unable to craft more Delicious Fragrant Mashed Potatoes: [Imgur](https://imgur.c
 
 **Significance:**  
 Food is not infinite.  
+
+## Narukami Shrine Fortune Slip Probabilities
+
+**By:** mmjacobs\#9588  
+**Added:** 11/11/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896487806543724604/908520683506630697/transcript-narukami-shrine-fortune-slip-probabilities.html)  
+
+**Finding:**  
+There are 16 possible fortune slip results, each with a unique lucky item. The probability of each fortune slip result (and therefore each lucky item) is equal. This means that for the 16 possible slip results, each one has a 1/16 chance to be received, or a 6.25% probability.  
+
+Not all fortune slips share the same fortune type however. For example, there is only one fortune slip that is a great misfortune, but there are four fortune slips that are a great fortune. This means that the odds of getting a great fortune is 4 times as likely. The likelihood of each fortune type is the following:
+* Great Misfortune = 1/16 = 6.25%
+* Misfortune = 2/16 = 12.5%
+* Rising Fortune = 2/16 = 12.5%
+* Modest Fortune = 4/16 = 25%
+* Good Fortune = 3/16 = 18.75%
+* Great Fortune = 4/16 = 25%
+
+**Evidence:**  
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSctTPheCZ15hBw09qQ5yFAuLuVdGXomDwNGLrE1V1C6ROgTmg/viewform)  
+[Data Results](https://docs.google.com/spreadsheets/d/1ghne6fus5oOpFukS33K6hd_XCWIbSzgw9fTglfNChJ8/edit#gid=870834050)  
+
+645 fortune slip results were collected over 1 month, and a histogram of the counts per lucky item was created. When graphed from great misfortune up to great fortune, the counts are roughly even showing no clear trend (see red trendline): [Imgur](https://imgur.com/mAkrj53)    
+
+The lowest occurring item was the Curly Lizard Tail (Great Misfortune) at 5.1%. The highest occurring item was the Fallen Pinecone (Modest Fortune) at 7.8%. Variability in the data is attributed to the natural randomness in the slips: [Imgur](https://imgur.com/DMz5T6D)  
+
+When graphed by fortune type, the modest and great fortunes are the most likely, and the great misfortune is the least likely: [Imgur](https://imgur.com/aQqkUVM)  
+
+**Significance:**  
+Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "Just My Luck..." achievement. There is a 25% chance to get the Great Fortune, which means that 50% of people will get the "Paimon's Lucky Day!" by their 3rd slip. There is only a 6.25% chance of getting the Great Misfortune, which means that 50% of people will get the "Just My Luck..." by their 11th slip. This means that most people will be able to get both achievements within two weeks.  
+
