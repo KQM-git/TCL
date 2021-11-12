@@ -8,6 +8,26 @@ search: false
 
 {% page-ref page="../../../characters/electro/keqing.md" %}
 
+## Ascension Mechanics
+
+### A4: Aristocratic Dignity
+
+#### A4 Crit Rate and ER Buff Duration
+
+**By:** r.rei\#2844  
+**Added:** 11/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/907135831649685504/907902798795014194/transcript-keqing-crit-buff-duration.html)  
+
+**Finding:**  
+Keqing's Crit Rate and ER buff duration from A4 includes burst animation time.  
+
+**Evidence:**  
+[Stats page on Burst cast, and 8 seconds after cast](https://youtu.be/5nZrQLy9QDk)  
+* Buff duration ends around 5 seconds after Burst animation.
+
+**Significance:**  
+Keqing's A4 is often misunderstood because the buff duration starts at the beginning of her burst animation, and therefore only lasts 5 seconds after as her burst animation is 3 seconds long.  
+
 ## Constellation Mechanics
 
 ### C1: Thundering Might

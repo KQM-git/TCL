@@ -135,6 +135,7 @@ After recasting **Stellar Restoration** while a **Lightning Stiletto** is presen
 When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
 
 * Keqing receives these buffs the moment she casts **Starward Sword**.
+  * The timer for the duration of these buffs also begins on **Starward Sword** cast.
 
 {% endtab %}
 {% endtabs %}
