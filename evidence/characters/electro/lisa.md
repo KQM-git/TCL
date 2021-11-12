@@ -108,6 +108,31 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 
 ## Burst Mechanics
 
+
+### Lisa's Lightning Rose is Random when Targeting Entities + Total Count
+
+**By:** ArchedNosi\#1484  
+**Added:** 11/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461792132284426/907623932083970088/transcript-lisa-lightning-rose-targeting-and-total-count.html)
+
+**Findings:**
+
+Lisa's Lightning Rose shoots out Arcs 29 times in total, every 0.5s after the Initial Summon Blast.  
+Unlike some other static AoE field deployables, namely Albedo's Tectonic Tide's Fatal Blossoms and Ganyu's Celestial Shower's Ice Shards, Lisa's Lightning Rose does not have any guaranteed properties like those mentioned do. Instead, the method by which Lightning Rose targets opponents is seemly fully randomized between all opponents.
+
+**Evidence:**
+
+60 Lightning Rose Trials among 3 Opponents: [Google Sheets](https://docs.google.com/spreadsheets/d/1r7H3Tbqhz2fViV5qHuycP-Hmy3GSI8Wi1PdIxtvWSDc/edit?usp=sharing) | [YouTube](https://youtube.com/playlist?list=PLYUuVozQgGzFcprW_Xa6IzQfrPg6Xrgpb)
+
+Within the sheet, 60 Trials were conducted and recorded consecutively on a set of 3 Hilichurls, each being marked as 1, 2, or 3, respectively. Discharge connections were recorded along the way and no patterns and near equal targeting occurances were present, indicating there is randomness and no guaranteed sequencing. Similarly, outliers of varying frequencies were present as well due to the nature of randomness.
+
+All trials also revealed there are 29 total Arcs and each had 0.5s intervals beginning after the Initial Summon Blast.
+
+**Significance:**
+
+Confirms how Lightning Rose shoots a total of 29 times for every 0.5s after the Initial Summon Blast.  
+Also acts as a better understanding of how Lightning Rose functions, which is more random than some sequences like Celestial Shower's Ice Shards or Tectonic Tide's Fatal Blossoms.
+
 ### Lightning Rose has Limited Quadratic Properties and Impact AoE
 
 **By:** ArchedNosi\#1484  
@@ -140,6 +165,7 @@ Hypothetical N Entities (assuming all are condensed enough to be tagged by all D
 
 **Significance:**  
 Proves that Lisa's Lightning Rose can have AoE properties as well as very limited Quadratic potential. In turn, one may be able to condense a group of mobs close enough to accentuate Lightning Rose's total damage output.  
+
 
 ## Constellation Mechanics
 
