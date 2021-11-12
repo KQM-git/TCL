@@ -128,6 +128,14 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
 
+## Burning
+
+Burning is an elemental reaction triggered by applying Dendro on a target already afflicted by a Pyro aura or vice versa. Burning deals Pyro damage every 0.25s. This damage does not stagger. 
+
+The Burning damage will apply 2U Pyro in a small AoE around the Burning object or person. The small AoE of the Burning reaction can apply Pyro to nearby objects or characters afflicted with Dendro, spreading the Burning reaction. Unlike Swirl, the AoE Pyro application of Burning also includes the object or person being Burnt, and refreshes the Pyro aura on them. This effectively means that Burning is self sustaining as long as enough Dendro aura is supplied. 
+
+Additionally, the decay rate of the Dendro aura while Burning is the sum of the natural decay rate of the Pyro aura and Dendro aura. 
+
 ## Evidence Vault
 
 {% page-ref page="../../../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md" %}

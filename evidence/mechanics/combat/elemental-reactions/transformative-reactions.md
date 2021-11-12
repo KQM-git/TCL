@@ -967,3 +967,201 @@ I electro charged in different orders with different application strengths. The 
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
 
+## Burning
+
+**By:** Scavenger\#6510
+
+**Added:** 11/04/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888639666788655174/905948128526598184/transcript-current-dendro-mechanics-and-interactions.html)
+
+**Finding:**  
+Current Burning Mechanics: Applies 2U Pyro in a small AoE, which replenish the Pyro for Burning. Decay rate of Dendro in Burning is the sum of natural decay rate of the Pyro aura and the natural decay rate of the Dendro aura.
+
+**Evidence:**  
+*Burning deals damage every 0.25 sec. Burning does not stun.*
+
+[Evidence (120 FPS)](https://youtu.be/p8uba11ZGus)
+
+|Tick \#|Frame \#|
+|-------|-----|
+| 1st:  | 5   |
+| 2nd:  | 45  |
+| 3rd:  | 80  |
+| 4th:  | 100 |
+| 5th:  | 140 |
+| 6th:  | 180 |
+| 7th:  | 210 |
+| 8th:  | 245 |
+| 9th:  | 270 |
+| 10th: | 305 |
+| 11th: | 340 |
+| 12th: | 370 |
+| 13th: | 405 |
+| 14th: | 440 |
+| 15th: | 475 |
+| 16th: | 500 |
+| 17th: | 535 |
+| 18th: | 570 |
+| 19th: | 595 |
+| 20th: | 630 |
+| 21th: | 665 |
+| 22th: | 690 |
+---
+*Burning is contagious. Applies Pyro in AOE around burning person/object*
+
+Can light the fire of a dendro state subject if lay it near dendro burning subject ( Perfect for trolling… and more)
+
+[Evidence](https://youtu.be/3lRUAASRuTY)
+
+---
+*Burning can be maintained for an infinite amount of time, as long as there is a supply of Dendro. (Does not consume Pyro)*
+
+[Evidence](https://youtu.be/eEcWMDQYFNM)
+
+This makes the task of maintaining burning-state full-time so much easier.
+
+---
+*Dendro state object coated with hydro can be used as a medium for electro-charge/mist freeze because dendro hydro and electro can all exist at the same time, the same with dendro hydro cryo.*
+
+[Evidence](https://youtu.be/56ahHrt0rX8)
+
+You can see in this video that the super-conduct appears after we apply both cryo and electro. 
+
+At the end of this video, there's something about the layer of reaction. When 3 elements exist at the same time( In this case Electro/Dendro/Hydro) interact with Pyro, we can only see Evaporate and Overload, no burning reaction was sighted.
+
+[Evidence](https://www.youtube.com/watch?v=gzKLXN9RIrw)
+
+Notice the moment when the pyro flower trap activated when the vine is infused with cryo mist, it causes some reaction looks just like shatter, or melt. 
+
+---
+* Constant Hydro apply to prolong the duration of dendro (double the duration)*
+
+Normal dendro duration: [Evidence](https://youtu.be/IUUGKHKzIBo)
+
+Hydro dendro duration: [Evidence](https://youtu.be/uyvo_tj4hKE)
+
+Comparison: [Evidence](https://youtu.be/flraVyag7Rw)
+
+```
+Normal 543 out                  1286 => duration 743
+Raining heavily 476 out         1846 => duration 1370
+Raining heavily   504 out       1988 => duration 1484
+Raining heavily   367 out       1854 => duration 1487
+```
+
+Comparison: [Evidence](https://youtu.be/0JLT9C-UAdc)
+```
+Dendro applied: 456
+662 wet
+2111 dendro end
+Dendro duration: 13.79s
+3446 dendro applied
+3659 wet
+4803 hydro and dendro end
+Hydro duration: 1144~ 9.5s
+Dendro duration: 1357 ~ 11.3s
+```
+
+```
+6157 dendro applied
+7026 dendro end
+Duration : 869 ~ 7.2 s
+```
+---
+*Gauge of Pyro after burning*
+
+1. Apply 1A
+    
+    [Evidence](https://youtu.be/VoGbzR3AdjE)
+    ```
+    702 pyro only
+    2981 pyro end 
+    2279 pyro duration   >> 19 sec
+    ```
+    [Evidence](https://youtu.be/T_nI2hIzM_c)
+    ```
+    413 pyro only
+    2742 pyro end >> 19,408 sec ( this video bring up the subject that even though Klee apply 2U pyro at the last hit, the change is insignificant.
+    The duration of pyro after burning doesn’t depend on the unit gauge apply)
+    ```
+    [Evidence](https://youtu.be/eOJ2tc4KNwU)
+    ```
+    692 pyro only
+    2981 pyro end
+    2289 duration >> 19.075s 
+    ```
+ 
+2. Apply 2B
+    
+    [Evidence](https://youtu.be/hvj5X4_3LT0)
+    ```
+    First part 2B test
+    2B pyro apply
+    440 pyro only
+    1931 pyro end
+    1491 duration >> 12.425s
+    
+    Second part 2B test
+    2B pyro apply
+    4953 pyro only
+    6416 pyro end
+    1463 duration >> 12.2 s
+    
+    Third part 2B test
+    This test is testing with 2B pyro with dendro applied twice
+    10720 pyro only
+    12145 pyro end
+    1425 duration >> 11.875s >> the change is insignificant >>
+    the pyro unit gauge was somehow maintained even if there’s an interruption of dendro supply in the middle,
+    and the duration won’t change even if we apply pyro first
+    ```
+These times are consistent with 1.6A and 1.6B decay times. So Burning "boosts" the aura strength to 1.6U
+
+---
+*Decay rate of dendro while burning is the sum of the natural decay rates of Dendro and Pyro auras*
+
+Through the first part, we have more clues to try to solve this, the data below using the same videos.
+
+```
+Section A: Apply 1A
+141 burning start-570 burning end >> duration 429 
+277 burning start- 691 burning end >> duration 414
+231 burning start -701 burning end >> duration 470
+Avg: 437.67 ~ 3.64725s
+
+Section B: Apply 2B
+90 start burning – 439 burning end  >> duration 349
+2149 start burning – 2512 burning end >> duration 363
+6961 start burning – 7380 burning end >> duration 319
+Avg duration: 343.67~ 2.864s
+
+Some calculations: 
+Dx = decay rate number of/in case of x ( U/frame, frame count in 120fps)
+0: of dendro
+1: A        11.875 * 120= 1425 frame
+2: B         7.5 * 120 =900 frame
+D0= U /869 ( using new frame data)
+D1= U/437.67
+D2=U/343,67
+
+Hypothesis: Every 0.2 seconds, the dendro will reapply the pyro unit that has gone to its original state at 1.6U using its own unit gauge.
+That is the same as saying that only the dendro unit gauge will decline, the pyro unit gauge will be maintained at 1.6U the whole duration of the reaction.
+Dx= D0 + 1/ either the frame of A or B
+
+Proof: 
+>> D1 = D0 + 1/ 1425;    D2= D0+ 1/900
+>> U/437.67= U /869 + 1/ 1425 and U/343,67= U /869+ 1/900
+>>U~ 0.62 and U ~0.63 ( We don’t care about actual Unit gauge of dendro samachurl yet because we need more accurate numbers, but it is close enough)
+The result is close enough (0.62 and 0.63) to be deemed insignificant. Proved. 
+```
+---
+*All the pyro hilichurls are immune to dendro burning*
+
+[Evidence](https://www.youtube.com/watch?v=7_9180fqy7s)
+
+Notice the hilichurl takes no burning dmg but still burns any grass it stepped on. The icon on his head is a burning aura (very much like a freezing aura of freeze reaction). (This video is my experiment about the impact of EM on burning dmg, but it unexpected turn out like that). Only this kind of hilichurl have this odd ability was sighted so far.
+
+---
+
+**Significance:**  
+Better understanding for the mechanics of burning. Dendro shields are be burnt down faster by 2B Pyro and 1A Pyro.
