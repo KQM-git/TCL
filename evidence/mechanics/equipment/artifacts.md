@@ -395,7 +395,7 @@ Whether you should run 4NO.
 
 ### 4pc Pale Flame Duration Refresh
 
-**By:** Zozer#1782
+**By:** Zozer\#1782
 
 **Added:** 6/22/2021
 
@@ -406,6 +406,28 @@ Whether you should run 4NO.
 **Evidence:** [Video](https://youtu.be/MeFPHEGQ554)
 
 **Significance:** All character with elemental skill cooldown + animation time < 7s can maintain Pale Flame 2 stack buff indefinitely.
+
+### 4pc Pale Flame Buff Activation Timing  
+
+**By:** Adra | Beats by Ei\#0024 and Agent_Eon\#8245  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903457737843806259/906417456615153694/transcript-4-pf-dmg-window.html)  
+
+**Finding:**  
+4pc PF buff does NOT buff the hit that triggered it, nor any hits following the trigger within a small window. The timing for when the buff begins is ping dependent.
+
+**Evidence:**  
+[60 fps, ~170 ping](https://youtu.be/UsAGiDnSfDo): 1st Icewhirl does 4495 damage, 2nd does 4653  
+[60 fps, ~190 ping](https://youtu.be/lXum52FjDGM): 1st Icewhirl does 4495 damage, 2nd does 4495  
+
+Rotation: (prestack 2 Grimheart), with 0 PF stacks to start (let it expire before Hold E),  Hold E (no buff), 1st Ice (no buff), 2nd Ice (9% atk), A1 (Full buff) at ping from 0 to ~185. Above 185 ping, both Icewhirls are unbuffed.  
+
+Starting Hold E at 0 PF results in different Icewhirl damage at low ping, but it also affects the standard rotation since you go into Hold E with 1 PF stack. Thus, the first Icewhirl gets 1 stack of PF and the 2nd one gets 2 stacks.  
+
+Values were tested and compared with sheet calcs at multiple ping levels, but I also got lucky enough to have 2 clips where every single hit was a crit, but the 2nd Icewhirl on the lower ping did more damage.  
+
+**Significance:**  
+4pc PF works differently than most think, it's a slightly delayed buff.  
 
 ## Retracing Bolide
 

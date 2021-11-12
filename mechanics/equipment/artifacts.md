@@ -152,6 +152,7 @@
 {% tab title="Findings" %}
 * 4p set bonus can be maintained indefinitely as long as the character's cooldown and cast time are less than 7 seconds.
 * 4p set bonus persists after swap.
+* 4p set bonus does not buff the hit that triggers it. The timing for when this buff begins is ping dependent, with higher ping resulting in a longer delay before the buff is applied.
 {% endtab %}
 {% endtabs %}
 
