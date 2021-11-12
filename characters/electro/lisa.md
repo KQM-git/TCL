@@ -113,6 +113,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Energy Cost | 80 | ~ | ~ |
 | GU | 1A | ~ | ~ |
 
+* Surrounding opponents are only launched if made airborne while their poise is broken. Poise-broken grounded enemies are frequently staggered instead.
 * The initial summon damage of **Lightning Rose** does not apply an Electro Aura.
 * The Lightning Rose shoots lightning 29 times in total, every 0.5s after the initial summon blast.
 * Enemy targeting seems fully randomized between all opponents in-range.

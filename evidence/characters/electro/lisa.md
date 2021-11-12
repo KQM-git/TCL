@@ -32,21 +32,18 @@ Combat positioning for Lisa
 By: ArchedNosi\#1484  
 Added: 4/18/2021
 
-**Findings:**
-
+**Findings:**  
 The description of Violet Arc clearly states that _opponents in a small AoE_ are additionally stacked with Conductive, and this is true. But it does not mention that enemies affected also will have their own radius, thus chaining more stacks of Conductive.  
 Mobs hit via the initial small radius outputted by her Press E also output their own radius, and those in its radius can also get affectede by Conductive, including the initial target.
 
 Can work in conjunction to the effect described in a below entry: **Violet Arc's Conductive status can be passed with Overload and Superconduct**
 
-**Evidence:**
-
+**Evidence:**  
 * [Showcase of the bounce being conducted once between 2 enemies](https://youtu.be/10QqWDgefpU)
 * [Showcase of the bounce being conducted in a mass of enemies](https://youtu.be/t8SdGCkJ1lM)
   * One of the five Hilichurls only gained 1 Stack due to it aligning with only 1 radius, while the others had aligned in multiple radii, resulting in them gaining multiple stacks.
 
-**Significance:**
-
+**Significance:**  
 Lisa can easily abuse this knowledge in tightly packed groups to quickly and efficiently stack her Conductive Stacks. This allows for smoother and more rapid gameplay. Also, with the inclusion of C1, Lisa can efficient recharge her Elemental Burst given a group of enemies whenever she is on-field.
 
 ### Violet Arc's Hold Variant has a Cylindrical Hitbox
@@ -54,22 +51,19 @@ Lisa can easily abuse this knowledge in tightly packed groups to quickly and eff
 **By:** ArchedNosi\#1484  
 **Added**: 4/18/2021
 
-**Findings:**
-
+**Findings:**  
 The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
 
 * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage.
 * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
 * Its hitbox can clip through the terrain, allowing it to connect with enemies that are out of Lisa's direct Line of Sight.
 
-**Evidence:**
-
+**Evidence:**  
 * [Example of connecting Hold E against a mob that is clearly above Lisa](https://youtu.be/jkwgfrs-ahE)
 * [Example of connecting Hold E against a mob that is clearly below Lisa](https://youtu.be/g_wgpsWe7mM)
 * [Example of connecting Hold E against a mob that is clearly out of Lisa's direct Line of Sight](https://youtu.be/vnarA4Nmqns)
 
-**Significance:**
-
+**Significance:**  
 No obvious and major significance in Spiral Abyss, but its extreme capabilities are nice to know and can potentially be of use in later content if verticality is ever a factor. Also debunks the common perception that Lisa's Hold E is a Sphere/Circle/Cylinder that has respect to only the visual radius.
 
 ### Violet Arc's Conductive status can be passed with Overload and Superconduct
@@ -77,8 +71,7 @@ No obvious and major significance in Spiral Abyss, but its extreme capabilities 
 **By:** ArchedNosi\#1484  
 **Added:** 4/18/2021
 
-**Findings:**
-
+**Findings:**  
 When Lisa's Press variant of Violet Arc strikes an opponent affected by Pyro or Cryo, the mob directly hit will immediately gain 2 Conductive Stacks, and others in the resulting Overload or Superconduct radius will gain 1 Conductive Stack, effectively radiating it.
 
 If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct mob will obtain 3 Conductive stacks and it will radiate 2 stacks to nearby opponents.
@@ -87,8 +80,7 @@ If 2 opponents are nearby and only one is afflicted with a status, Violet Arc, i
 
 Can also work in conjunction with the effect described in a previous entry: [Violet Arc's Press variant AoE is passed to all affected targets](lisa.md#violet-arcs-press-variant-aoe-is-passed-to-all-affected-targets)
 
-**Evidence:**
-
+**Evidence:**  
 * [Press E on 2 Pyro-Inflicted Mobs](https://youtu.be/bLgOMM6GiP8)
   * Both at 3 stacks. The same outcome would apply if both are close by each other and only one of them is afflicted with Pyro/Cryo
 * [Press E on 2 Cryo-Inflicted Mobs](https://youtu.be/bUrYn08k5jE)
@@ -102,11 +94,40 @@ Can also work in conjunction with the effect described in a previous entry: [Vio
 * [Press E on a Cryo-inflicted mob in a Cryo-environment](https://imgur.com/gallery/4ho7SB3) 
   * Target afflicted by 3 stacks. Had there been other nearby opponents, it would have been afflicted by 2 stacks
 
-**Significance:**
-
+**Significance:**  
 Lisa can easily abuse this tech to quickly and efficiently stack Conductive. This allows for smoother and more rapid gameplay and very much opens up a Burst Carry archetype.
 
 ## Burst Mechanics
+
+### Lisa's Lightning Rose Stagger/Knockback Mechanics
+
+By: ArchedNosi\#1484  
+Added: 11/07/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461616621641728/907097696148520990/transcript-lisa-stagger-knockback-mechanics-lightning-rose.html)
+
+**Findings:**  
+Unlike as Lightning Rose's description implies, Lightning Rose does not always induce a knockback. Discharges sent from the Arcs of Lightning Rose only induce knockback if the opponent is caused to be come airborne or staggered while airborne. Otherwise, Discharge connections on grounded or stable opponents act as stagger effects.
+
+**Evidence:**  
+Grounded Discharges Staggering, not inducing Knockback: [YouTube](https://youtu.be/1S3l65iVU5Y?t=20)  
+Taking advantage of the Staggering effect to attack from behind Shields: [YouTube](https://youtu.be/xRG9hSiuS9E?t=10)  
+
+Below are common sources of Airborne Causation into Lightning Rose knocking back:  
+* Breaking Poise via Lifting Effects: [YouTube](https://youtu.be/Dg8PPKxu4ZU?t=10)
+* Breaking Poise via Lifting Effects (Larger Enemy): [YouTube](https://youtu.be/ZUaonpt8opg?t=6)
+* Breaking Poise via Overloaded: [YouTube](https://youtu.be/aZnTDTrBDWg)
+* Breaking Poise via Attacks: [YouTube](https://youtu.be/e2xrifyqGO0)
+
+Below are some "airborne" enemies, notice how they only become knocked back when weakened, despite them being "airborne" innately:  
+* Spectre(s) not being knocked back when stable: [YouTube](https://youtu.be/hcg7nKZZ-Pc)
+* Spectre(s) being knocked back when their Poise has broken: [YouTube](https://youtu.be/8utyTb6Eftk)
+* Rifthound Whelp not being knocked back when stable: [YouTube](https://youtu.be/T8Sx6vhRfqo)
+* Rifthound Whelp being knocked back when their Poise has broken: [YouTube](https://youtu.be/mMjK-JBWy0M)
+* Rifthound not being knocked back when stable: [YouTube](https://youtu.be/9AizjcmhftA)
+* Rifthound being knocked back when their Poise has broken: [YouTube](https://youtu.be/N9S7RKqOkfE)
+
+**Significance:**  
+Acts as clarification on the Knockback/Stagger Mechanics on Lightning Rose as well as how it can be controlled, avoided, and/or utilized in-game.
 
 ### Lightning Rose's initial summon damage does not apply Electro Aura
 
@@ -114,12 +135,10 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 **Added:** 11/08/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462490110607400/907389926981644348/transcript-lisa-summon-lightning-rose-no-aura.html)
 
-**Finding:**
-
+**Finding:**  
 In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply an Electro Aura, despite dealing Electro Damage.
 
-**Evidence:**
-
+**Evidence:**  
 * [Casting Lightning Rose](https://youtu.be/ZDknULX1M7o)
   * At 0:06, the Initial Summon Damage is dealt, yet did not apply any Electro Aura, shortly after, Lightning Rose's attack applied an Electro Aura. Indicating that the Initial Summon DMG does not apply an Electro Aura.
 * [Freeze-frames of those moments above](https://imgur.com/gallery/xCeLEn2)
@@ -127,8 +146,7 @@ In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply
 * [Casting Lightning Rose following into a Tap E to Multi-Stack Conductive Stacks](https://youtu.be/RrZDimfHHT8)
   * Lightning Rose's Initial Summon Damage did not apply Electro, thus not proccing Overloaded allowing Lisa to Tap E in order to Multi-Stack Conductive Stacks.
 
-**Significance:** 
-
+**Significance:**  
 Demonstrates that the Initial Summon DMG of Lightning Rose does not apply an Electro Aura. 
 For Lisa specifically, knowing this is more useful than not as she would be able to not proc Overloaded/Superconduct from casting Lightning Rose and be able to quickly cast a Tap E after to proc the reaction instead, causing Multiple Conductive Stacks to occur due to her Multi-Stacking.
 
