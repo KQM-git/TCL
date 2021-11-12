@@ -244,6 +244,7 @@
 * 4 piece Viridescent Venerer’s RES shred passive only buffs Swirl DMG against an enemy with a pre-existing aura.
 * 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE. 
 * The 4 piece set effect's duration can be extended by hitlag.
+* The attack that triggered the Swirl does not benefit from 4 piece Viridescent Venerer's RES shred passive.
 {% endtab %}
 {% endtabs %}
 

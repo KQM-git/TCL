@@ -56,7 +56,7 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 
 ### Blizzard Strayer does not work on 1st Cryo hit
 
-**By:** Threvax#0078  
+**By:** Threvax\#0078  
 **Added:** 09/06/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879956675686187019/884464348364419082/transcript-does-blizzard-strayer-4-piece-set-bonus-work-on-first-cryo-application.html)
 
@@ -77,7 +77,7 @@ Blizzard Strayer litterally abbreviates to BS.
 
 ### 4pc Blizzard Strayer on frozen aura
 
-**By:** Nass008#8577  
+**By:** Nass008\#8577  
 **Added:** 09/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884444524951273523/887180645799960586/transcript-4pc-bs-on-frozen-aura.html)
 
@@ -226,7 +226,7 @@ Actual ratio: 947/1257=.75
 
 ### 4p Gambler procs without Skill on CD  
 
-**By:** Mcpie#8672  
+**By:** Mcpie\#8672  
 **Added:** 08/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876370102969327646/877095662821449748/transcript-4p-gambler-procs-without-skill-on-cd.html)
 
@@ -246,7 +246,7 @@ Knowledge.
 
 ### 4pc Instructor only procs on field
 
-**By:** NZPIEFACE#8439  
+**By:** NZPIEFACE\#8439  
 **Added:** 07/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
 
@@ -268,7 +268,7 @@ Make sure to land the reaction before swapping off the Instructor user.
 
 ### Instructor duration extend
 
-**By:** ItzSomebody#0029  
+**By:** ItzSomebody\#0029  
 **Added:** 07/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866197006732754945/867165516417335296/transcript-instructor-duration-extend.html)
 
@@ -283,7 +283,7 @@ The buff time can be extended by swapping back into the carrier and triggering a
 
 ### Instructor Doesn't Apply To Triggering hit
 
-**By:** NZPIEFACE#8439  
+**By:** NZPIEFACE\#8439  
 **Added:** 10/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894835774149779546/899112347862433822/transcript-4in-doesnt-apply-to-triggering-hit.html)
 
@@ -304,7 +304,7 @@ Damage calculation
 
 ### Instructor Ignores Environmental Target And Your Characters
 
-**By:** elijam#7142  
+**By:** elijam\#7142  
 **Added:** 10/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898398553783799848/899200243520917524/transcript-4ins-doesnt-proc-on-environmental-or-self-rxns.html)
 
@@ -360,7 +360,7 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 ### Self 4NO Interactions
 
-**By:** gtrain#9987  
+**By:** gtrain\#9987  
 **Added:** 09/22/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876190240774172692/890105896015912960/transcript-self-4no-interactions.html)
 
@@ -440,7 +440,7 @@ Whether you should run 4NO.
 
 ### 4pc ToM does not stack and resets duration
 
-**By:** WinJ#9420  
+**By:** WinJ\#9420  
 **Added:** 08/20/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877837766946357279/878174472325169173/transcript-multiple-tom-wielder-interactions.html)
 
@@ -467,7 +467,7 @@ Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 
 ### Shimenawa energy drain delay  
 
-**By:** Episodde#8962  
+**By:** Episodde\#8962  
 **Added:** 08/28/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
 
@@ -923,7 +923,7 @@ List of tests:
 
 ### VV Duration Extended by Hitlag
 
-**By:** Greyhound#7836  
+**By:** Greyhound\#7836  
 **Added:** 08/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878612062195036220/878613567186825266/transcript-vv-extended-by-hitlag.html)
 
@@ -937,11 +937,57 @@ The 4pc set effect's duration can be extended by hitlag.
 **Significance:**
 VV use optimization.
 
+### VV RES Shred Applies after Talent Damage
+
+**By:** NZPIEFACE\#8439
+**Added:** 11/08/2021
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903474489038348329/907446935747715102/transcript-talent-damage-and-vv-debuff-pepega-stuff.html)
+
+**Theory:**  
+VV RES Shred Applies after Talent Damage
+
+Recommended reading: [Simultaneous Reaction Priority](https://docs.google.com/document/d/1nz2SNxzzeujDnWQdrKEvJbECHASmwZk53On84BOymTQ/)
+
+**Evidence:**
+
+[3vv on Anemo Hypostasis](https://youtu.be/ZxfHWL-W-7s)
+
+[4vv on Anemo Hypostasis](https://youtu.be/qilUEhPL0xQ)
+
+First vid shows Barbara's normals without res shred.
+Second vid shows that res shred happens for the second attack. (The slight increase in N1 was from a slight increase in ATK.)
+
+[4vv on raining Anemo Hypostasis](https://youtu.be/4k8CpitDLQw)
+
+Calculations by ItzSomebody#0029
+
+![With VV shred](https://i.imgur.com/6DLqdet.png)
+
+![Without VV shred](https://i.imgur.com/4esRviv.png)
+
+N1 vaped. Did not get VV shred.
+
+CA vaped. Did get VV shred.
+
+[Kazuha absorbed Q with 4vv](https://youtu.be/eFwXOyAPLgk)
+First two absorbed hits don't get VV shred. Third does.
+
+[Sucrose absorbed Q with 4vv](https://youtu.be/jOa4eTDXm5k)
+First hit doesn't get VV shred. Second hit does.
+
+**Significance:**
+
+For the first two examples with Barbara and Hu Tao, we see talent damage, both non-reacting and amp-reactions are calculated before VV debuff, thus before reaction damage.
+
+For Kazuha, this is more or less expected since we know his talent damage is simultaneous.
+
+For Sucrose, all this tells us there is some other stuff about, since we still don't know if her talent damage is sequential or simultaneous.
+
 ## Wanderer's Troupe
 
 ### Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
 
-**By:** ProfHugo#6478  
+**By:** ProfHugo\#6478  
 **Added:** 6/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856901008667443211/858418320973365258/transcript-breakpoints-for-2inst2wt-vs-4tfcw.html)
 
@@ -961,7 +1007,7 @@ For characters building around triggering transformative reactions, if they do n
 
 ### Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
 
-**By:** elijam#7142  
+**By:** elijam\#7142  
 **Added:** 07/15/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860290744102158356/865148427524636672/transcript-breakpoints-for-2wt2ins-vs-4vv.html)
 
@@ -972,7 +1018,7 @@ These numbers were chosen to represent the value of 2WT2Ins, 4Ins with 4pc bonus
 **Evidence:**  
 Desmos chart for calculations: [Desmos Link](https://www.desmos.com/calculator/yeeskwsw42)
 
-Charts by Zakharov#5645: [Imgur](https://imgur.com/9LoeHW1)
+Charts by Zakharov\#5645: [Imgur](https://imgur.com/9LoeHW1)
 
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance
@@ -1033,7 +1079,7 @@ More data would be needed to reach stronger conclusions. As of right now, there'
 
 ## Artifact Effects on Cast Interruption
 
-**By:** Tibo#4309  
+**By:** Tibo\#4309  
 **Added:** 11/5/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905591237363507230/906363383505379348/transcript-interruption-can-cause-artifact-stacks.html)  
 
