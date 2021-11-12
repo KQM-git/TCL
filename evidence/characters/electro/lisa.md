@@ -175,3 +175,42 @@ While the videos below demonstrate C1's mechanics with Lisa's Tap E pre-2.1, Hol
 **Significance:**
 
 In knowing how C1 actually works, Lisa, when she is on-field, can effectively run much less Energy Recharge on her artifacts and still recharge her Elemental Burst off cooldown given enough enemies and how they are grouped.
+
+### C4: Plasma Eruption
+
+#### C4 Description and Actual Effects are Miscommunicated
+
+**By:** ArchedNosi\#1484  
+**Added:** 11/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461937536217088/907909745048944700/transcript-lisa-c4-actual-effects-miscommunicated.html)  
+
+**Finding:**  
+The current description for Lisa's fourth constellation is currently falsely misleading, it states that it:  
+* Increases the number of lightning bolts released by Lightning Rose by 1-3.
+By this description, the assumed effect is that Arcs may release a potential of 2-4 Bolts/Discharges.  
+However, Lisa's C4 affects Lightning Rose by making it release 1-3 Discharges, not add 1-3 Discharges.  
+
+Additionally, the frequency at which how many Discharges are released per Arc also alters on enemy/entity count and has its own quirks:  
+* If there is only 1 Enemy/Entity within the field, Lightning Rose will only release 1 Discharge with and without C4. (100% Rate)
+* If there are 2 Enemies/Entities within the field, Lightning Rose will release 1 or 2 Discharges with C4.
+  * Each Arc has a ~17.5% chance of releasing 1 Discharge and a ~82.5% chance of releasing 2 Discharges.
+* If there are 3 or more Enemies/Entities within the field, Lightning Rose will release 1, 2, or 3 Discharges with C4.
+  * Interestingly, this scenario carries two sets of randomizations:
+    * One that randomizes between shooting 1 or 2 Discharges, following a 50% and 50% occurance rate, and the other randomizing between 1, 2, and 3 Discharges, following a 25%, 50%, and 25% occurance rate, respective to the number of Discharges.
+    * The first Arc released from a Lightning Rose will never release 3 Discharges, rather it will either release 1 or 2 Discharges, with a 50:50 rate.
+    * After the first Arc, following Arcs will follow either releasing 1 (25%), 2 (50%), or 3 Discharges (25%). 
+    * However, if an Arc ever releases 3 Discharges, the subsequent Arc will release 1 or 2 Discharges, with the 50:50 ratio as described prior.
+    * Overall, the average distribution between all occurances within 3 or 3+ Entities is around 30% of Arcs releasing 1 Discharge, 50% releasing 2 Discharges, and 20% releasing 3 Discharges.
+
+**Evidence:**  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1k9m3ZWt0MdExphNuuc0OBTwSKwBXUDFGzxzljjyERGc/edit?usp=sharing) containing 241 total documented and recorded Trials between 1 Entity, 2 Entity, 3 Entity, and 3+ Entity situations.  
+* [Video](https://youtu.be/QwSxT6SyCbM) of the 1 Entity Trial.  
+* [Video A](https://youtu.be/GriXfqKfWLQ) and [Video B](https://youtu.be/WP02MEn8Qn4) of all 120 2 Entity Trials.  
+* [Video](https://youtu.be/1liVFrHDfX8) of all 60 3 Entity Trials.  
+* [Video](https://youtu.be/7WQgnKWCmj8) of all 60 3+ Entity Trials.  
+
+120 Trials were done for 2 Entities as to provide a possibly more accurate ratio (17.5% for 1, and 82.5% for 2).  
+Throughout all 3 and 3+ Entity Trials, all have showcased how the First Arc and Arcs following a 3 Discharge Arc occur in realeasing either 1 or 2 Discharges (50:50) and never in 3 Discharges.  
+
+**Significance:**  
+Clears up what the actual effects are of Lisa's C4 and the frequencies of each occurance within 1, 2, and 3+ entity scenarios. Also, if one is attempting to calculate how much C4 impacts Lightning Rose, on average and without taking account for possible AoE hits, in 1 Entity scenarios, there is no effect, in 2 Entity scenarios, it is around an 82.5% effectiveness increase, and in 3 or 3+ Entity scenarios, it is around a 90% effectiveness increase `(0.30*1 + 0.50*2 + 0.20*3)`.  
