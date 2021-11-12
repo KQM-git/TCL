@@ -107,9 +107,14 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Max Cutting DMG \(x4\) | 23.5% | ~ | 1GU | ~ |
 | Initial Storm DMG | 246% | ~ | 1GU | ~ |
 | Max Storm DMG | 269% | ~ | 1GU | ~ |
+| Initial Cutting Elemental DMG \(x2\) | 4.2% | ~ | 1GU(?) | ~ |
+| Max Cutting Elemental DMG \(x4\) | 5.88% | ~ | 1GU(?) | ~ |
+| Initial Storm Elemental DMG | 61.5% | ~ | 1GU(?) | ~ |
+| Max Storm Elemental DMG | 67.25% | ~ | 1GU | ~ |
 | Base Cooldown | 5s | 27 | ~ | 2 |
 | Max Charge Cooldown | 8s | 61 | ~ | 3~4 \(2:1\) |  
 * Infusion priority: Cryo > Pyro > Hydro > Electro  
+* The additional elemental damage dealt upon contact with Hydro/Pyro/Cryo/Electro is 0.25x the anemo damage dealt.
 {% endtab %}
 
 {% tab title="Gust Surge" %}
@@ -243,6 +248,10 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 | Max Cutting DMG | 23.52 | 25.20 | 26.88 | 28.56 | 30.24 | 31.92 | 33.60 | 35.70 |
 | Initial Storm DMG | 246.40 | 264 | 281.60 | 299.20 | 316.80 | 334.40 | 352 | 374 |
 | Max Storm DMG | 268.80 | 288 | 307.20 | 326.40 | 345.60 | 364.80 | 384 | 408 |
+| Initial Cutting Elemental DMG | 4.20 | 4.50 | 4.80 | 5.10 | 5.40 | 5.70 | 6 | 6.38 |
+| Max Cutting Elemental DMG | 5.88 | 6.30 | 6.72 | 7.14 | 7.56 | 7.98 | 8.40 | 8.93 |
+| Initial Storm Elemental DMG | 61.60 | 66 | 70.40 | 74.80 | 79.20 | 83.60 | 88 | 93.50 |
+| Max Storm Elemental DMG | 67.20 | 72 | 76.80 | 81.60 | 86.40 | 91.20 | 96 | 102 |
 
 **Cooldown**: 5s  
 **Max Charge Cooldown**: 8s

@@ -8,6 +8,24 @@ search: false
 
 {% page-ref page="../../../characters/anemo/traveler-anemo.md" %}
 
+## Skill Mechanics
+
+### AMC E Additional Elemental Damage
+
+**By:** Neptunya\#8291, phaZ\#6461, and Bobrokrot\#0111  
+**Added:** 11/5/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883277582366277652/906334012480561162/transcript-amc-e-additional-elemental-dmg.html)  
+
+**Finding:**  
+Anemo MC's skill is missing talent values for the additional elemental damage that happens when elemental absorption occurs.  
+The additional elemental damage dealt is 0.25x that of the anemo damage dealt.  
+
+**Evidence:**  
+[Google Doc showing the additional elemental damage dealt](https://docs.google.com/spreadsheets/d/1uTBPUMtR4bQ_T7QeQc6_JRXQvcYxz1muZXiiSEF-Ze8/edit#gid=0)
+
+**Significance:**  
+There will always be those who dare to brave Anemo MC's blender of numbers.  
+
 ## Burst Mechanics
 
 ### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
