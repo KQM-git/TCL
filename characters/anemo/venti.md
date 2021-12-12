@@ -1,16 +1,19 @@
 ---
-description: >-
-  One of the many bards of Mondstadt, who freely wanders the city's streets and
-  alleys.
+description: One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.
 ---
 
 # Venti
+
+## **Resources**
+* [Venti Guide](https://keqingmains.com/venti/)
+* [Venti Mains Discord](https://discord.gg/ventimains)
+
 
 ## ![](../../.gitbook/assets/element_anemo.png)Venti
 
 ![](../../.gitbook/assets/character_venti_wish.webp)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,7 +25,7 @@ description: >-
 | 80+ | 9791 | 245 | 622 | 32 |
 | 90 | 10531 | 263 | 669 | 32 |
 
-## Attacks
+## **Attacks**
 
 {% tabs %}
 {% tab title="Divine Marksmanship" %}
@@ -31,10 +34,10 @@ Perform up to 6 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.63% + 29.63% | 21 | 169.3%/s |
+| 1-Hit DMG | 29.63% x 2 | 21 | 169.3%/s |
 | 2-Hit DMG | 64.50% | 44 | 168.8%/s |
 | 3-Hit DMG | 76.13% | 90 | 133.3%/s |
-| 4-Hit DMG | 37.87% + 37.87% | 123 | 134.5%/s |
+| 4-Hit DMG | 37.87% x 2 | 123 | 134.5%/s |
 | 5-Hit DMG | 73.63% | 140 | 149.7%/s |
 | 6-Hit DMG | 103.13% | 191 | 142.1%/s |
 
@@ -42,12 +45,12 @@ Perform up to 6 consecutive shots with a bow.
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Anemo DMG.
 
-| String | Talent 6% | GU | Frames | MV\s |
+| Type | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | ~ | 26 | 147.1%/s |
-| Fully-Charged Aimed Shot | 173.60% | 1U | 86 | 121.1%/s |
+| Aimed Shot | 63.75% | 26 | 147.1%/s | ~ |
+| Fully Charged | 173.60% | 86 | 121.1%/s | 1U |
 
-**Plunge Damage**  
+**Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
 | Type | Talent 6% |
@@ -68,10 +71,17 @@ Summons a larger **Wind Domain** at Venti's location, dealing AoE Anemo DMG and 
 
 * Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
-| Effect | Talent 6% | CD | Frames | GU | Particles |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Press | 386.40% | 6s | 20 | 2U | 3 \(-\) |
-| Hold | 532% | 15s | 70 | 2U | 4 \(-\) |
+| Attribute | Tap | Hold |
+| :--- | :--- | :--- |
+| Skill DMG (T6%) | 386.40% | 532% |
+| Particles | 3 \(-\) | 4 \(-\) |
+| Frames | 20 | 70 |
+| GU | 2U | 2U | 
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
+| Snapshot | - | - |
+| Damage Element | Anemo | Anemo | 
+| Damage Type | Skill | Skill |
+| Cooldown | 6s | 15s |
 
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
 * Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the hold version into a press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
@@ -86,34 +96,32 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 * If the **Stormeye** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type.
 * This can only occur once per use.
 
-| Effect | Talent 6% |
-| :--- | :--- |
-| DoT | 52.64% |
-| Additional Elemental DMG | 26.32% |
-| Duration | 8s |
-| CD | 15s |
-| GU | 1U |
-| Energy Cost | 60 |  
-| Frames | 94 |  
+| Attribute | Burst DoT | Burst Additional Elemental DMG |
+| :--- | :--- | :--- |
+| Skill DMG (T6%) | 52.64% | 26.32% |
+| Frames | 94 | - |
+| GU | 1U | 1A |
+| ICD | 3 hits / 2.5s | 3 hits / 2.5s |
+| Duration | 8s | 6.4s |
+| Total Ticks | 20 | 16 |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Anemo | Absorbed Element | 
+| Damage Type | Burst | Burst |
+| CD | 15s | - |
+| Energy Cost | 60 | - |
 
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti cannot lift enemies that are more than 20 levels above his level.
-* Stormeye damage tick information:
-  * 20 ticks of Anemo DMG
-  * Maximum of 16 ticks of Additional Elemental DMG
-    * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
-    * This number of ticks will always be reached in the original burst area, no matter the time of infusion.
-  * Every third Anemo DoT tick applies 1U Anemo, for a maximum of 7 swirls.
-    * this number can be increased to 14 swirls per enemy if there's more than one enemy in Venti's Burst
-* Every third infused elemental tick applies 1U of the absorbed element, for a maximum of 6 applications.
-* Venti's burst snapshots.
+* Elemental absorption can occur at soonest, **after the 4th Anemo tick**
+    * The additional elemental DMG will always deal 16 ticks of damage in the original burst area, no matter the time of absorption.
+    * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
-* Infusion priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo  
 
 {% endtab %}
 {% endtabs %}
 
-## Ascension Passives
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -139,7 +147,7 @@ If an **Elemental Absorption** occurred, this also regenerates 15 Energy for all
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -188,7 +196,7 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Divine Marksmanship" %}
@@ -196,61 +204,52 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG \(x2\) | 29.63 | 32.23 | 34.84 | 37.45 | 40.29 | 43.55 |
-| 2-Hit DMG | 64.50 | 70.18 | 75.85 | 81.53 | 87.72 | 94.82 |
-| 3-Hit DMG | 76.13 | 82.82 | 89.52 | 96.22 | 103.53 | 111.90 |
-| 4-Hit DMG \(x2\) | 37.87 | 41.21 | 44.54 | 47.87 | 51.51 | 55.68 |
-| 5-Hit DMG | 73.63 | 80.10 | 86.58 | 93.06 | 100.13 | 108.23 |
-| 6-Hit DMG | 103.13 | 112.20 | 121.28 | 130.35 | 140.25 | 151.59 |
+| 1-Hit DMG \(x2\) | 29.63% | 32.23% | 34.84% | 37.45% | 40.29% | 43.55% |
+| 2-Hit DMG | 64.50% | 70.18% | 75.85% | 81.53% | 87.72% | 94.82% |
+| 3-Hit DMG | 76.13% | 82.82% | 89.52% | 96.22% | 103.53% | 111.90% |
+| 4-Hit DMG \(x2\) | 37.87% | 41.21% | 44.54% | 47.87% | 51.51% | 55.68% |
+| 5-Hit DMG | 73.63% | 80.10% | 86.58% | 93.06% | 100.13% | 108.23% |
+| 6-Hit DMG | 103.13% | 112.20% | 121.28% | 130.35% | 140.25% | 151.59% |
 
 ### Aimed Shot
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.70 | 93.71 |
-| Fully-Charged Aimed Shot | 173.60 | 186 | 198.40 | 210.80 | 223.20 | 236.10 |
+| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
+| Fully-Charged Aimed Shot | 173.60% | 186% | 198.40% | 210.80% | 223.20% | 236.10% |
 
 ### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 386.40 | 414 | 441.60 | 469.20 | 496.80 | 524.40 | 552 | 586.50 |
-| Hold DMG | 532 | 570 | 608 | 646 | 684 | 722 | 760 | 807.50 |
+| Press DMG | 386.40% | 414% | 441.60% | 469.20% | 496.80% | 524.40% | 552% | 586.50% |
+| Hold DMG | 532% | 570% | 608% | 646% | 684% | 722% | 760% | 807.50% |
 
-**Press Cooldown**: 6s
-
+**Press Cooldown**: 6s  
 **Hold Cooldown**: 15s
 {% endtab %}
 
 {% tab title="Wind\'s Grand Ode" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 52.64 | 56.40 | 60.16 | 63.92 | 67.68 | 71.44 | 75.20 | 79.90 |
-| Additional Elemental DMG | 26.32 | 28.20 | 30.08 | 31.96 | 33.84 | 35.72 | 37.60 | 39.95 |
+| DoT | 52.64% | 56.40% | 60.16% | 63.92% | 67.68% | 71.44% | 75.20% | 79.90% |
+| Additional Elemental DMG | 26.32% | 28.20% | 30.08% | 31.96% | 33.84% | 35.72% | 37.60% | 39.95% |
 
-**Energy Cost**: 60
-
-**Duration**: 8s
-
+**Energy Cost**: 60  
+**Duration**: 8s  
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Venti)
-* [Venti Mains Discord](https://discord.gg/ventimains)
-* [Venti Written Guide](https://keqingmains.com/venti/)
-
-**Evidence Vault**
+## **Evidence Vault**
 
 {% page-ref page="../../evidence/characters/anemo/venti.md" %}
 

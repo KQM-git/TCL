@@ -30,37 +30,37 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#amenoma-kageuchi">Amenoma Kageuchi Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#amenoma-kageuchi">Amenoma Kageuchi Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#hakushin-ring">Hakushin Ring Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#hakushin-ring">Hakushin Ring Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#kitain-cross-spear">Kitain Cross Spear Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#kitain-cross-spear">Kitain Cross Spear Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#mistsplitter-reforged">Mistsplitter Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#mistsplitter-reforged">Mistsplitter Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#emblem-of-severed-fate">Emblem of Severed Fate Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#emblem-of-severed-fate">Emblem of Severed Fate Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#shimenawas-reminiscence">Shimenawa&apos;s Reminiscence Mechanics</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#shimenawas-reminiscence">Shimenawa&apos;s Reminiscence Mechanics</a>
       </td>
       <td style="text-align:left">KQM TC</td>
     </tr>
@@ -72,13 +72,13 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/artifacts.md#instructor-duration-extend">Instructor Duration Extension</a>
+      <td style="text-align:left"><a href="../evidence/equipment/artifacts.md#instructor-duration-extend">Instructor Duration Extension</a>
       </td>
       <td style="text-align:left">ItzSomebody#0029</td>
     </tr>
     <tr>
       <td style="text-align:left">August 1</td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#prototype-starglitter-stacks-duration-refresh">Prototype Starglitter Stacks Duration</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#prototype-starglitter-stacks-duration-refresh">Prototype Starglitter Stacks Duration</a>
       </td>
       <td style="text-align:left">elijam#7142</td>
     </tr>
@@ -90,7 +90,7 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#ec-frozen-double-reactions">EC Frozen Double Reactions</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#ec-frozen-double-reactions">EC Frozen Double Reactions</a>
       </td>
       <td style="text-align:left">Faranight#0001</td>
     </tr>
@@ -134,14 +134,14 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left">August 8</td>
-      <td style="text-align:left"><a href="../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#duration-of-freeze-aura">Duration of Freeze Aura</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#duration-of-freeze-aura">Duration of Freeze Aura</a>
       </td>
       <td style="text-align:left">Sigurd#3854
         <br />SRL#2712</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/combat/damage-formula.md#defense-shred-is-hard-capped-at-90">Defense Reduction Hardcap</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/damage/damage-formula.md#defense-shred-is-hard-capped-at-90">Defense Reduction Hardcap</a>
       </td>
       <td style="text-align:left">Phana#0420
         <br />Mcpie#8672
@@ -160,19 +160,19 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/combat/damage-formula.md#outcoming-and-incoming-healing-bonuses-are-additive">Healing Bonus Properties</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/damage/damage-formula.md#outcoming-and-incoming-healing-bonuses-are-additive">Healing Bonus Properties</a>
       </td>
       <td style="text-align:left">ItzSomebody#0029</td>
     </tr>
     <tr>
       <td style="text-align:left">August 9</td>
-      <td style="text-align:left"><a href="../evidence/enemy-data/overworld.md#burning-damage-scaling">Burning Damage Scaling</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/enemy-mechanics/overworld.md#burning-damage-scaling">Burning Damage Scaling</a>
       </td>
       <td style="text-align:left">ceeeleste#3568</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/combat/elemental-reactions/transformative-reactions.md#quadruple-electro-charged-with-1-electro-and-multiple-hydro">Quadruple Electrocharged</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#quadruple-electro-charged-with-1-electro-and-multiple-hydro">Quadruple Electrocharged</a>
       </td>
       <td style="text-align:left">GottaGoFast#7876</td>
     </tr>
@@ -184,31 +184,31 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/mechanics/equipment/weapons.md#pjws-new-stacks-extend-duration">PJWS New Stacks Extend Duration</a>
+      <td style="text-align:left"><a href="../evidence/equipment/weapons.md#pjws-new-stacks-extend-duration">PJWS New Stacks Extend Duration</a>
       </td>
       <td style="text-align:left">hawtlava#2461</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/enemy-data/overworld.md#coordinates-units-descriptions">Coordinates Units Descriptions</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/enemy-mechanics/overworld.md#coordinates-units-descriptions">Coordinates Units Descriptions</a>
       </td>
       <td style="text-align:left">Mcpie#8672</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/enemy-data/overworld.md#extracting-coordinates-while-in-game">Extracting Coordinates While In-Game</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/enemy-mechanics/overworld.md#extracting-coordinates-while-in-game">Extracting Coordinates While In-Game</a>
       </td>
       <td style="text-align:left">Mcpie#8672</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/enemy-data/overworld.md#coordinates-axises-descriptions">Coordinates Axis Descriptions</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/enemy-mechanics/overworld.md#coordinates-axises-descriptions">Coordinates Axis Descriptions</a>
       </td>
       <td style="text-align:left">Mcpie#8672</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left"><a href="../evidence/enemy-data/overworld.md#coordinates-change-when-idle">Coordinates Change When Idle</a>
+      <td style="text-align:left"><a href="../evidence/combat-mechanics/enemy-mechanics/overworld.md#coordinates-change-when-idle">Coordinates Change When Idle</a>
       </td>
       <td style="text-align:left">Mcpie#8672</td>
     </tr>

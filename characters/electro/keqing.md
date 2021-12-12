@@ -1,11 +1,13 @@
 ---
-description: >-
-  The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis'
-  unilateral approach to policymaking in Liyue — but in truth, gods admire
-  skeptics such as her quite a lot.
+description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.
 ---
 
 # Keqing
+
+## **Resources**
+* [Keqing Mains Discord](https://discord.gg/Keqing)  
+* [Full Keqing Written Guide](https://keqingmains.com/keqing/)  
+* [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
 
 ## ![](../../.gitbook/assets/element_electro.png) Keqing
 
@@ -15,13 +17,13 @@ description: >-
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 8500 | 209 | 519 | 69.20 |
-| 60+ | 9121 | 225 | 556 | 69.20 |
-| 70 | 10025 | 247 | 612 | 69.20 |
-| 70+ | 10647 | 262 | 649 | 78.80 |
-| 80 | 11561 | 285 | 705 | 78.80 |
-| 80+ | 12182 | 300 | 743 | 88.40 |
-| 90 | 13103 | 323 | 799 | 88.40 |
+| 60 | 8500 | 209 | 519 | 69.20% |
+| 60+ | 9121 | 225 | 556 | 69.20% |
+| 70 | 10025 | 247 | 612 | 69.20% |
+| 70+ | 10647 | 262 | 649 | 78.80% |
+| 80 | 11561 | 285 | 705 | 78.80% |
+| 80+ | 12182 | 300 | 743 | 88.40% |
+| 90 | 13103 | 323 | 799 | 88.40% |
 
 ## **Attacks**
 
@@ -30,30 +32,34 @@ description: >-
 **Normal Attacks**  
 Keqing performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 59.62% | 11 | 325.2%/s |
 | 2-Hit | 59.62% | 33 | 216.8%/s |
 | 3-Hit | 79.13% | 60 | 198.8%/s |
-| 4-Hit | 45.75% + 50% | 87 + 97 | 181.9%/s |
+| 4-Hit | 45.75% + 50% | 87 / 97 | 181.9%/s |
 | 5-Hit | 97.38% | 133 | 176.6%/s |
 
 **Charged Attack**  
 Keqing consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| N1C | 296.25% | 63 | 282.14%/s |
-| N4C | 530.75% | 150 | 212.3%/s |
+| String | Talent 6% |
+| :--- | :--- |
+| Charged Attack | 111.63% + 125% |
+
+| String | Frames | MV/s (Talent 6%) |
+| :--- | :--- | :--- |
+| N1C | 63 | 282.14%/s |
+| N4C | 150 | 212.3%/s |
 
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
 
 **Plunge**
 
-| Damage Type | Talent 6% |
+| Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
+| Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
 {% endtab %}
@@ -74,14 +80,20 @@ When Keqing uses Stellar Restoration while the **Stiletto Mark** is on field, Ke
 
 When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she will do a **Thunderclap Slash** at the **Mark's** location that deals AoE Electro DMG.
 
-| Type | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Lightning Stiletto | 70.56% | 34 | 124.5%/s |
-| Slashing Attack | 235.2% | 84 | 219%/s |
-| Thunderclap Slash | 117.6% + 117.6% | 90 | 401.9%/s |
-| CD | 7.5s |  |  |
-| GU | 2B |  |  |
-| Particles | 2~3 \(1:1\) |  |  |
+| Attribute | Lightning Stiletto | Thunderclap Slash |
+| :--- | :--- | :--- |
+| Lightning Stiletto \(T6%\) | 70.56% | - |
+| Stiletto Mark Secondary \(T6%\) | 235.2% | 117.6% x 2 |
+| Particles | 2~3 \(1:1\) | - |
+| Frames | 34 | - |
+| Frames Secondary | 84 | 90 |
+| GU | 2B | - |
+| ICD | None | - |
+| ICD Secondary | 3 hit / 2.5s | - |
+| Snapshot | Snapshot | - |
+| Damage Element | Electro | - |
+| Damage Type |  Skill | - |
+| CD | 7.5s | - |
 
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
@@ -91,16 +103,19 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 {% tab title="Starward Sword" %}
 Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of AoE Electro DMG and finally does a large slash for "massive" AoE Electro DMG.
 
-| Effect | Talent 6% / Data |
+| Attribute | Burst |
 | :--- | :--- |
-| Cast DMG | 123.2% |
-| Consecutive Slash DMG | 33.6% x 8 |
-| Last Attack | 264.21% |
-| Cooldown | 12s |
-| Energy Cost | 40 |
-| GU | 1U |
+| Cast DMG \(T6%\) | 123.2% |
+| Consecutive Slash DMG \(T6%\) | 33.6% x 8 |
+| Last Attack \(T6%\) | 264.21% |
 | Frames | 125 |
-| Motion Value | 314.8%/s per enemy |
+| GU | 1U |
+| ICD | 3 hit / 2.5s |
+| Snapshot | Snapshot |
+| Damage Element | Electro |
+| Damage Type | Burst |
+| Energy Cost | 40 |
+| CD | 12s |
 
 * Keqing exits her Starward Sword before the last slash and can swap or attack.
 
@@ -140,7 +155,7 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -191,7 +206,7 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Yunlai Swordsmanship" %}
@@ -199,19 +214,19 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 59.62 | 64.87 | 70.12 | 75.37 | 81.09 | 86.81 |
-| 2-Hit DMG | 59.62 | 64.87 | 70.12 | 75.37 | 81.09 | 86.81 |
-| 3-Hit DMG | 79.13 | 86.09 | 93.05 | 100.01 | 107.61 | 115.21 |
-| 4-Hit 1 DMG | 45.75 | 49.78 | 53.80 | 57.83 | 62.22 | 66.61 |
-| 4-Hit 2 DMG | 50 | 54.40 | 58.80 | 63.20 | 68 | 72.80 |
-| 5-Hit DMG | 97.38 | 105.94 | 114.51 | 123.08 | 132.43 | 141.78 |
+| 1-Hit DMG | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
+| 2-Hit DMG | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
+| 3-Hit DMG | 79.13% | 86.09% | 93.05% | 100.01% | 107.61% | 115.21% |
+| 4-Hit 1 DMG | 45.75% | 49.78% | 53.80% | 57.83% | 62.22% | 66.61% |
+| 4-Hit 2 DMG | 50% | 54.40% | 58.80% | 63.20% | 68% | 72.80% |
+| 5-Hit DMG | 97.38% | 105.94% | 114.51% | 123.08% | 132.43% | 141.78% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 111.63 | 121.45 | 131.27 | 141.09 | 151.81 | 162.53 |
-| Charged Attack 2 DMG | 125 | 136 | 147 | 158 | 170 | 182 |
+| Charged Attack 1 DMG | 111.63% | 121.45% | 131.27% | 141.09% | 151.81% | 162.53% |
+| Charged Attack 2 DMG | 125% | 136% | 147% | 158% | 170% | 182% |
 
 **Stamina Cost**: 25
 
@@ -219,17 +234,17 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
-| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
-| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lightning Stiletto DMG | 70.56 | 75.60 | 80.64 | 85.68 | 90.72 | 95.76 | 100.80 | 107.10 |
-| Slashing DMG | 235.20 | 252 | 268.80 | 285.60 | 302.40 | 319.20 | 336 | 357 |
-| Thunderclap Slash DMG \(x2\) | 117.6 | 126 | 134.4 | 142.8 | 151.2 | 159.6 | 168 | 178.5 |
+| Lightning Stiletto DMG | 70.56% | 75.60% | 80.64% | 85.68% | 90.72% | 95.76% | 100.80% | 107.10% |
+| Slashing DMG | 235.20% | 252% | 268.80% | 285.60% | 302.40% | 319.20% | 336% | 357% |
+| Thunderclap Slash DMG | 117.6% x 2 | 126% x 2 | 134.4% x 2 | 142.8% x 2 | 151.2% x 2 | 159.6% x 2 | 168% x 2 | 178.5% x 2 |
 
 **Cooldown**: 7.5s
 {% endtab %}
@@ -237,25 +252,16 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% tab title="Starward Sword" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 123.20 | 132 | 140.80 | 149.60 | 158.40 | 167.20 | 176 | 187 |
-| Consecutive Slash DMG \(x8\) | 33.6 | 36 | 38.4 | 40.8 | 43.2 | 45.6 | 48 | 51 |
-| Last Attack DMG | 264.32 | 283.20 | 302.08 | 320.96 | 339.84 | 358.72 | 377.60 | 401.20 |
+| Skill DMG | 123.20% | 132% | 140.80% | 149.60% | 158.40% | 167.20% | 176% | 187% |
+| Consecutive Slash DMG | 33.6% x 8 | 36% x 8 | 38.4% x 8 | 40.8% x 8 | 43.2% x 8 | 45.6% x 8 | 48% x 8 | 51% x 8 |
+| Last Attack DMG | 264.32% | 283.20% | 302.08% | 320.96% | 339.84% | 358.72% | 377.60% | 401.20% |
 
-**Energy Cost**: 40
-
+**Energy Cost**: 40  
 **Cooldown**: 12s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Keqing)
-* [Keqing Mains Discord](https://discord.gg/Keqing)
-* [Full Keqing Written Guide](https://keqingmains.com/keqing/)
-* [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
-* [Frame by Frame Analysis of Keqing's Attack Combos](https://library.keqingmains.com/evidence/characters/electro/keqing#frame-by-frame-analysis-of-keqings-attack-combos) by HailCorporate#2970
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/keqing.md" %}
 

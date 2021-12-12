@@ -1,16 +1,20 @@
 ---
-description: >-
-  An alchemist filled with curiosity about all things. She researches
-  bio-alchemy.
+description: An alchemist filled with curiosity about all things. She researches bio-alchemy.
 ---
 
 # Sucrose
+
+## **Resources**
+
+* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
+* [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
+* [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
 ## ![](../../.gitbook/assets/element_anemo.png)Sucrose
 
 ![](../../.gitbook/assets/character_sucrose_wish.png)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | Anemo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,29 +26,28 @@ description: >-
 | 80+ | 8604 | 158 | 654 | 24% |
 | 90 | 9244 | 170 | 703 | 24% |
 
-## Attacks
+## **Attacks**
 
 {% tabs %}
 {% tab title="Wind Spirit Creation" %}
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 46.85% | 19 | 147.95%/s |
 | 2-Hit | 42.86% | 38 | 141.65%/s |
 | 3-Hit | 53.83% | 70 | 123.03%/s |
 | 4-Hit | 67.08% | 101 | 125.12%/s |
 | Recovery | N/A | 132 | 95.74%/s |
-| Gauge Units | 1GU |  |  |
+| GU | 1GU | - | - |
 
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 168.22% | 53 | 190.44%/s |
-| GU | 1GU |  |  |
+| String | Talent 6% | Frames | MV/s | GU | 
+| :--- | :--- | :--- | :--- | :--
+| Charged Attack | 168.22% | 53 | 190.44%/s | 1GU |
 
 **Plunge Damage**  
 Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
@@ -59,13 +62,17 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
-| Effect | Talent 6 DMG% |
+| Attribute | Skill |
 | :--- | :--- |
-| Skill DMG | 295.68% |
-| Cooldown | 15s |
-| GUs | 1GU |
+| Skill DMG \(T6%\) | 295.68% |
 | Particles | 4 \(-\) |
 | Frames | 10 |
+| GU | 1A |
+| ICD | None |
+| DMG Element | Anemo |
+| DMG Type | Skill |
+| CD | 15s |
+
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
@@ -73,15 +80,18 @@ Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While
 
 If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
 
-| Effect | Talent 6 DMG% |
-| :--- | :--- |
-| Damage-Over-Time | 207.2% |
-| Additional Elemental DMG | 61.6% |
-| Duration | 6s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Gauge Units | 1GU |
-| Frames | 67 |
+| Attribute | DoT | Additional Elemental DMG |
+| :--- | :--- | :--- | 
+| Skill DMG \(T6%\) | 207.2% | 61.6% |
+| Frames | 67 | - |
+| GU | 1U | 1A |
+| ICD | None | None |
+| Snapshot? | Snapshot | Snapshot |
+| DMG Element | Anemo | Infused Element |
+| DMG Type | Burst | Burst |
+| Energy Cost | 80 | - |
+| Duration | 6s | - |
+| Cooldown | 20s | - |
 
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 * Infusion priority: Pyro > Hydro > Electro > Cryo  
@@ -89,7 +99,7 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 {% endtab %}
 {% endtabs %}
 
-## Ascension Passives
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -118,7 +128,7 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -168,7 +178,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Wind Spirit Creation" %}
@@ -176,16 +186,16 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 46.85 | 50.2 | 53.54 | 56.89 | 60.24 | 63.58 |
-| 2-Hit DMG | 42.86 | 45.92 | 48.99 | 52.05 | 55.11 | 58.17 |
-| 3-Hit DMG | 53.83 | 57.67 | 61.52 | 65.36 | 69.21 | 73.05 |
-| 4-Hit DMG | 67.08 | 71.88 | 76.67 | 81.46 | 86.25 | 91.04 |
+| 1-Hit DMG | 46.85% | 50.2% | 53.54% | 56.89% | 60.24% | 63.58% |
+| 2-Hit DMG | 42.86% | 45.92% | 48.99% | 52.05% | 55.11% | 58.17% |
+| 3-Hit DMG | 53.83% | 57.67% | 61.52% | 65.36% | 69.21% | 73.05% |
+| 4-Hit DMG | 67.08% | 71.88% | 76.67% | 81.46% | 86.25% | 91.04% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 168.22 | 180.24 | 192.26 | 204.27 | 216.29 | 228.3 |
+| Charged Attack DMG | 168.22% | 180.24% | 192.26% | 204.27% | 216.29% | 228.3% |
 
 **Stamina Cost**: 50
 
@@ -193,15 +203,15 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% | 295.68 | 316.8 | 337.92 | 359.04 | 380.16 | 401.28 | 422.4 | 448.8 |
+| Skill DMG% | 295.68% | 316.8% | 337.92% | 359.04% | 380.16% | 401.28% | 422.4% | 448.8% |
 
 **Cooldown: 15s**
 {% endtab %}
@@ -209,19 +219,12 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 {% tab title="Forbidden Creation- Isomer 75/Type II" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 207.2 | 222 | 236.8 | 251.6 | 266.4 | 281.2 | 296 | 314.5 |
-| Additional Elemental DMG | 61.6 | 66 | 70.4 | 74.8 | 79.2 | 83.6 | 88 | 93.5 |
+| DoT | 207.2% | 222% | 236.8% | 251.6% | 266.4% | 281.2% | 296% | 314.5% |
+| Additional Elemental DMG | 61.6% | 66% | 70.4% | 74.8% | 79.2% | 83.6% | 88% | 93.5% |
 {% endtab %}
 {% endtabs %}
 
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Sucrose)
-* [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
-* [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
-* [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
-
-**Evidence Vault**
+## **Evidence Vault**
 
 {% page-ref page="../../evidence/characters/anemo/sucrose.md" %}
 

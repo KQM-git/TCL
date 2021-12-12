@@ -1,9 +1,11 @@
 ---
-description: >-
-  A general of the Tenryou Commission. Bold, decisive, and skilled in battle.
+description: A general of the Tenryou Commission. Bold, decisive, and skilled in battle.
 ---
 
 # Sara
+
+## **External Links**
+[Short Sara Guide](https://keqingmains.com/sara/)
 
 ## ![](../../.gitbook/assets/element_electro.png) Kujou Sara
 
@@ -40,10 +42,10 @@ Perform up to 5 consecutive shots with a bow.
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
-| String | Talent 6% | Frames | GU |
-| :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 38 | -- |
-| Fully-Charged Aimed Shot | 173.6% | 78 | 1A |
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 63.75% | 38 | 100.65%/s | -- |
+| Fully-Charged Aimed Shot | 173.6% | 78 | 137.05%/s | 1A |
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
@@ -61,15 +63,20 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 
 **Crowfeathers** will trigger **Tengu Juurai: Ambush** after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK. The ATK Bonuses from different **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
-| Type | Talent 6% | GU | Particles | Cast Frames |
-| :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Ambush DMG | 176.06% | 1A | 3 | 50 |
-
-| Type               | Talent  6% |
-| ------------------ | ---------- |
-| ATK Bonus Ratio    | 60.14%     |
-| ATK Bonus Duration | 6s         |
-| CD                 | 10s        |
+| Attribute | Skill |
+| :--- | :--- |
+| Skill DMG \(T6%\) | 176.06% |
+| ATK Bonus Ratio \(T6%\) | 60.14% |
+| ATK Bonus Duration | 6s |
+| Particles | 3 |
+| Frames | 50 |
+| GU | 1A |
+| ICD (hits/timer) | None |
+| Snapshot | Snapshot |
+| Damage Element | Electro |
+| Damage Type | Skill |
+| Duration | 18s |
+| CD | 10s |
 
 * **Tengu Stormcall** only buffs the on-field characters the frame before the Crowfeather Explosion, this also applies to coop members.
 * Triggering **Tengu Juurai: Ambush** doesn't require hitting an enemy, just a fully-charged aimed shot.
@@ -91,13 +98,18 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 
 **Tengu Juurai: Titanbreaker** and **Tengu Juurai: Stormcluster** can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, **Tengu Stormcall**. The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
-| Effect | Talent 6% / Data | GU |
-| :--- | :--- | ---- |
-| Tengu Juurai: Titanbreaker DMG | 573.44% | 1A |
-| Tengu Juurai: Stormcluster DMG | 47.77% | 1A |
-| Cast Frames | 80 | -- |
-| CD | 20s | -- |
-| Energy Cost | 80 | -- |
+| Attribute | Burst |
+| :--- | :--- |
+| Titanbreaker DMG \(T6%\) | 573.44% | 1A |
+| Stormcluster DMG \(T6%\) | 47.77% (each) | 1A |
+| Frames | 80 (60 with swap) |
+| GU | 1A |
+| ICD (hits/timer) | 3 hit/2.5s |
+| Snapshot | Snapshot |
+| Damage Element | Electro |
+| Damage Type | Burst |
+| Energy Cost | 80 |
+| CD | 20s |
 
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
@@ -148,6 +160,11 @@ When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Teng
 ### Dark Wings
 
 Unleashing Tengu Stormcall will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
+| Type | Talent 6% |
+| :--- | :--- |
+| DMG | 176.06% * 0.3 |
+| GU | 1A |
+| Damage Type | Elemental Skill |
 
 * The **Weaker Crowfeather** applies 1A Electro and has separate ICD from **Tengu Stormcall**.
 * **Weaker Crowfeather** snapshots upon **Tengu Stormcall** cast.
@@ -183,40 +200,40 @@ The Electro DMG of characters who have had their ATK increased by **Tengu Juurai
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}{% tab title="Tengu Bowmanship" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 53.63 | 58.34 | 63.06 | 67.78 | 72.93 | 78.08 |
-| 2-Hit DMG | 56.25 | 61.2 | 66.15 | 71.1 | 76.5 | 81.9 |
-| 3-Hit DMG | 70.5 | 76.7 | 82.91 | 89.11 | 95.88 | 102.65 |
-| 4-Hit DMG | 73.25 | 79.7 | 86.14 | 92.59 | 99.62 | 106.65 |
-| 5-Hit DMG | 84.38 | 91.8 | 99.23 | 106.65 | 114.75 | 122.85 |
+| 1-Hit DMG | 53.63% | 58.34% | 63.06% | 67.78% | 72.93% | 78.08% |
+| 2-Hit DMG | 56.25% | 61.2% | 66.15% | 71.1% | 76.5% | 81.9% |
+| 3-Hit DMG | 70.5% | 76.7% | 82.91% | 89.11% | 95.88% | 102.65% |
+| 4-Hit DMG | 73.25% | 79.7% | 86.14% | 92.59% | 99.62% | 106.65% |
+| 5-Hit DMG | 84.38% | 91.8% | 99.23% | 106.65% | 114.75% | 122.85% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.7 | 92.82 |
-| Fully-Charged Aimed Shot | 173.6 | 186 | 198.4 | 210.8 | 223.2 | 235.6 |
+| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.7% | 92.82% |
+| Fully-Charged Aimed Shot | 173.6% | 186% | 198.4% | 210.8% | 223.2% | 235.6% |
 
 ### Plunge 
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
 {% tab title="Tengu Stormcall" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Ambush DMG | 176.06 | 188.64 | 201.22 | 213.79 | 226.37 | 238.94 | 251.52 | 267.24 |
-| ATK Bonus Ratio | 60.14 | 64.44 | 68.74 | 73.03 | 77.33 | 81.62 | 85.92 | 91.29 |
+| Tengu Juurai: Ambush DMG | 176.06% | 188.64% | 201.22% | 213.79% | 226.37% | 238.94% | 251.52% | 267.24% |
+| ATK Bonus Ratio | 60.14% | 64.44% | 68.74% | 73.03% | 77.33% | 81.62% | 85.92% | 91.29% |
 
 **ATK Bonus Duration:** 6s  
 **Cooldown:** 10 s
@@ -226,8 +243,8 @@ The Electro DMG of characters who have had their ATK increased by **Tengu Juurai
 {% tab title="Subjugation: Koukou Sendou" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Titanbreaker DMG | 573.44 | 614.4 | 655.36 | 696.32 | 737.28 | 778.24 | 819.2 | 870.4 |
-| Tengu Juurai: Stormcluster DMG | 47.77 | 51.18 | 54.59 | 58 | 61.42 | 64.83 | 68.24 | 72.51 |
+| Tengu Juurai: Titanbreaker DMG | 573.44% | 614.4% | 655.36% | 696.32% | 737.28% | 778.24% | 819.2% | 870.4% |
+| Tengu Juurai: Stormcluster DMG | 47.77% | 51.18% | 54.59% | 58% | 61.42% | 64.83% | 68.24% | 72.51% |
 
 **Cooldown:** 20s  
 **Energy Cost:** 80
@@ -235,10 +252,6 @@ The Electro DMG of characters who have had their ATK increased by **Tengu Juurai
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/electro/sara.md" %}

@@ -1,8 +1,11 @@
 ---
-description: >-
-  A good-natured adventurer from Mondstadt who's unfortunately extremely
-  unlucky.
+description: A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.
 ---
+
+## **Resources**
+
+* [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
+* [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
 
 # Bennett
 
@@ -29,7 +32,7 @@ description: >-
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 64.75% | 12 | 323.8%/s |
 | 2-Hit | 62.13% | 32 | 237.9%/s |
@@ -40,13 +43,12 @@ Bennett performs up to 5 consecutive attacks.
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s|
 | :--- | :--- | :--- | :--- |
 | N1C | 234.25 | 100 | 136.4%/s |
 
 * All frame counts are done against Ruin Guards.
-
-Enemies struck by Bennett's charged attack will be staggered or launched.
+* Enemies struck by Bennett's charged attack will be staggered or launched.
 
 **Plunge**
 
@@ -59,19 +61,26 @@ Enemies struck by Bennett's charged attack will be staggered or launched.
 
 {% tab title="Passion Overload" %}
 **Press**  
-Bennett strikes once, dealing Pyro DMG.
+* Bennett strikes once, dealing Pyro DMG.
 
 **Hold \(Short\)**
 
 * Level 1: Charges up to strike twice dealing Pyro DMG and launching enemies.
 * Level 2: Charges up to strike two times dealing Pyro DMG, with the last attack triggering an explosion that knocks away Bennett and the enemy.
 
-| Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E Press | 192.64% | 5s | 2B | 2~3 \(3:1) | 52 | 222.3%/s |
-| Level 1 | 117.6% + 128.8% | 7.5s | 2 x 1A | 3 \(-\) | 112 | 132%/s |
-| Level 2 | 123.2% + 134.4% | 10s | 2 x 1A | 3 \(-\) | 197 | 134.7%/s |
-| Explosion | 184.8% | ~ | 1A | ~ | ~ | ~ |
+| Attribute | Skill Press | Skill Hold \(Level 1\) | Skill Hold \(Level 2\) |
+| :--- | :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 192.64% | 117.6% + 128.8% | 123.2% + 134.4% + 184.8% |
+| MV/s \(T6%\) | 222.3%/s | 132%/s | 134.7%/s |
+| Particles | 2~3 \(3:1\) | 3 \(-\) | 3 \(-\)  |
+| Frames | 52 | 112 | 197 |
+| GU | 2B | 2x 1A | 3x 1A |
+| ICD | None | None | None |
+| Snapshot | Dynamic | Dynamic | Dynamic |
+| Damage Element | Pyro | Pyro | Pyro |
+| Damage Type | Skill | Skill | Skill |
+| CD | 5s | 7.5s | 10s |
+
 
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
@@ -88,21 +97,28 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 * However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.
 * Continuously imbues characters within the AoE with Pyro.
 
-| Effect | Talent 6% / Data |
+| Attribute | Burst |
 | :--- | :--- |
-| DMG | 325.92% |
-| HP Regeneration | 8.4% Bennett Max HP + 914 |
-| ATK Bonus Ratio | 78.4% Bennett **Base ATK** |
-| Duration | 12s |
-| Cooldown | 15s \(non-scaling\) |
-| Energy Cost | 60 |
-| GU | 2B |
-| Imbue | 1A |
+| Skill DMG \(T6%\) | 325.92% |
 | Frames | 51 |
+| GU | 2B |
+| ICD | None |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Burst |
+| Energy Cost | 60 |
+| CD | 15s |
+
+| Attribute | Field \(Talent 6%\) |
+| :--- | :--- |
+| HP Regeneration | 8.4% Max HP + 914 |
+| ATK Bonus Ratio | 78.4% **Base ATK** |
+| Imbue | 1A |
+| Duration | 12s |
 
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
   * Additionally, **Inspiration Field**'s buff lingers for a bit after the visual of the circle fades away.
-* **Inspiration Field's** ATK Bonus and **C6: Fire Ventures with Me** Pyro DMG Bonus will apply on its damage calculation.
+* **Inspiration Field's** ATK Bonus and **C6: Fire Ventures with Me** Pyro DMG Bonus will apply on its own damage calculation.
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
@@ -136,7 +152,7 @@ Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Over
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -162,9 +178,16 @@ Increases the level of **Passion Overload** by 3.
 
 Using a Normal Attack when executing the second attack of **Passion Overload**’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
-| Attack | Talent 6% | Talent 9% | GUs |
-| :--- | :--- | :--- | :--- |
-| Passion Overload Level 1 + Normal Attack | 117.6% + 128.8% + 173.88% | 142.8% + 156.4% + 211.14% | 3 \* 1A |
+| Attribute | Skill Hold \(Level 1\) + Normal Attack |
+| :--- | :--- |
+| Skill DMG \(T6%\) | 117.6% + 128.8% + 173.88% |
+| Particles | 3 \(-\) | 
+| GU | 3x 1A |
+| ICD | 3 hits/2.5s |
+| Snapshot | Dynamic | 
+| Damage Element | Pyro |
+| Damage Type | Skill |
+| CD | 7.5s | 
 
 {% endtab %}
 
@@ -187,7 +210,7 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s 
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Strike of Fortune" %}
@@ -229,10 +252,8 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s 
 | Charge Level 2 Hit 2 DMG | 134.40% | 144% | 153.60% | 163.20% | 172.80% | 182.40% | 192% | 204% |
 | Explosion DMG | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 
-**Press Cooldown**: 5s
-
-**Charge Level 1 Cooldown**: 7.5s
-
+**Press Cooldown**: 5s  
+**Charge Level 1 Cooldown**: 7.5s  
 **Charge Level 2 Cooldown**: 10s
 {% endtab %}
 
@@ -244,21 +265,13 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s 
 | Continuous Regeneration Per Second | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
 | ATK Bonus Ratio | 78.40% | 84% | 89.60% | 95.20% | 100.80% | 106.40% | 112% | 119% |
 
-**Energy Cost**: 60
-
-**Duration**: 12s
-
+**Energy Cost**: 60  
+**Duration**: 12s  
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Bennett)
-* [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
-* [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
 

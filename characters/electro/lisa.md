@@ -1,17 +1,19 @@
 ---
-description: >-
-  The languid but knowledgeable Librarian of the Knights of Favonius, deemed by
-  Sumeru Academia to be their most distinguished graduate in the past two
-  centuries.
+description: The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries.
 ---
 
 # Lisa
+
+## **Resources**
+
+* [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
+* [Full Lisa Written Guide](https://keqingmains.com/lisa/)
 
 ## ![](../../.gitbook/assets/element_electro.png) Lisa
 
 ![](../../.gitbook/assets/character_lisa_wish.png)
 
-## Base Stats
+## **Base Stats**
 
 | Lvl | Base HP | Base ATK | Base DEF | EM |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,31 +25,30 @@ description: >-
 | 80+ | 8907 | 215 | 534 | 96 |
 | 90 | 9570 | 232 | 573 | 96 |
 
-## Attacks
+## **Attacks**
 
 {% tabs %}
 {% tab title="Lightning Touch" %}
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 55.44% | 25 | 133.1%/s |
-| 2-Hit | 50.29% | 46 | 137.9%/s |
-| 3-Hit | 59.92% | 70 | 142%/s |
-| 4-Hit | 76.94% | 114 | 127.7%/s |
-| With Recovery | 247.97% | 143 | 101.8%/s |
-| GU | 1A | ~ | ~ |
+| String | Talent 6% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 55.44% | 25 | 133.1%/s | 1A |
+| 2-Hit | 50.29% | 46 | 137.9%/s | 1A |
+| 3-Hit | 59.92% | 70 | 142%/s | 1A |
+| 4-Hit | 76.94% | 114 | 127.7%/s | 1A |
+| With Recovery | 247.97% | 143 | 101.8%/s | 1A |
 
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
+* 3 hits / 2.5s ICD, shared with tap elemental skill.
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
-| String | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 247.97% | 95 | 156.6%/s |
-| GU | 1A | ~ | ~ |
+| String | Talent 6% | Frames | MV/s | GU | ICD |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 247.97% | 95 | 156.6%/s | 1A | 0.5s |
 
 **Plunge Attack**  
 Plunge towards the ground below from mid-air to deal AoE Electro DMG.
@@ -74,18 +75,18 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 * Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
 * Clears **Conductive** status on hit.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Press DMG | 112% | 21 | 320%/s |
-| Press CD | 1s | 81 | 83%/s |
-| Hold DMG | 448% | 116 | 231.7%/s |
-| Stack 1 DMG | 515.2% | 116 | 264.9%/s |
-| Stack 2 DMG | 593.6% | 116 | 307%/s |
-| Stack 3 DMG | 682.06% | 116 | 352.8%/s |
-| Holding CD | 16s | ~ | ~ |
-| Press GU | 1A | ~ | ~ |
-| Hold GU | 2B | ~ | ~ |
-| Hold Particles | 5 \(-\) | ~ | ~ |
+| Attribute | Tap  | Hold |
+| :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 112% | 448% / 515.2% / 593.6% / 682.06% |
+| Frames | 21 | 116 |
+| MV/s \(T6%\) | 320%/s | 231.7%/s / 264.9%/s / 307%/s / 352.8%/s ||
+| GU | 1A | 2B |
+| ICD | 3 hits / 2.5s, shared with normal attacks | None |
+| Particles | ~ | 5 \(-\) |
+| Damage Element | Electro | Electro |
+| Damage Type | Skill | Skill |
+| CD | 1s | 16s 
+
 
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E
@@ -105,13 +106,18 @@ Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching 
 
 The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
 
-| Effect | Talent 6% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Discharge DMG | 51.18% | 30 | 102.4%/s |
-| Duration | 15s | ~ | ~ |
-| CD | 20s | ~ | ~ |
-| Energy Cost | 80 | ~ | ~ |
-| GU | 1A | ~ | ~ |
+| Attribute | Burst |
+| :--- | :--- |
+| Skill DMG \(T6%\) | 51.18% |
+| Frames | 30 |
+| MV/s | 102.4%/s |
+| GU | 1A |
+| ICD | 3 hits / 2.5s |
+| Damage Element | Electro | 
+| Damage Type | Burst |
+| Energy Cost | 80 |
+| Duration | 15s |
+| CD | 20s |
 
 * Surrounding opponents are only launched if made airborne while their poise is broken. Poise-broken grounded enemies are frequently staggered instead.
 * The initial summon damage of **Lightning Rose** does not apply an Electro Aura.
@@ -122,33 +128,33 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 {% endtab %}
 {% endtabs %}
 
-## Ascension Passives
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
-## General Pharmaceutics
+### General Pharmaceutics
 
 When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-## Induced Aftershock
+### Induced Aftershock
 
 Hit by Charged Attacks apply **Violet Arc’s** **Conductive** status to opponents.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Static Electricity Field
+### Static Electricity Field
 
 Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-## Infinite Circuit
+### Infinite Circuit
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
 
@@ -158,7 +164,7 @@ Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A
 {% endtab %}
 
 {% tab title="C2" %}
-## Electromagnetic Field
+### Electromagnetic Field
 
 Holding **Violet Arc** has the following effects:
 
@@ -168,14 +174,13 @@ Holding **Violet Arc** has the following effects:
 {% endtab %}
 
 {% tab title="C3" %}
-## Resonant Thunder
+### Resonant Thunder
 
 Increases the Level of **Lightning Rose** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## Plasma Eruption
-
+### Plasma Eruption
 
 Increases the number of lightning bolts released by **Lightning Rose** by 1-3.  
 
@@ -185,19 +190,19 @@ Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 {% endtab %}
 
 {% tab title="C5" %}
-## Electrocute
+### Electrocute
 
 Increases the Level of **Violet Arc** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## **Pulsating Witch**
+### Pulsating Witch
 
 When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive** status onto nearby opponents. This effect can only occur once every 5s.
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Lightning Touch" %}
@@ -236,8 +241,8 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 | Stack 2 | 593.6% | 636% | 678.4% | 720.8% | 763.2% | 805.6% | 848% | 901% |
 | Stack 3 | 682.08% | 730.8% | 779.52% | 828.24% | 876.96% | 925.68% | 974.4% | 1035.3% |
 
-**Press Cooldown: 1s  
-Hold Cooldown: 16s**
+**Press Cooldown:** 1s  
+**Hold Cooldown:** 16s
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
@@ -245,19 +250,13 @@ Hold Cooldown: 16s**
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | DoT | 51.18% | 54.84% | 58.5% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
 
-**Duration: 15s  
-Cooldown: 20s  
-Energy Cost: 80**
+**Duration:** 15s  
+**Cooldown:** 20s  
+**Energy Cost:** 80
 {% endtab %}
 {% endtabs %}
 
-## External Links
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Lisa)
-* [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
-* [Full Lisa Written Guide](https://keqingmains.com/lisa/)
-
-**Evidence Vault**:
+## **Evidence Vault**:
 
 {% page-ref page="../../evidence/characters/electro/lisa.md" %}
 

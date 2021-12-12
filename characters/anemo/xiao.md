@@ -1,16 +1,19 @@
 ---
-description: >-
-  A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons"
-  or "Vigilant Yaksha"
+description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons" or "Vigilant Yaksha"
 ---
 
 # Xiao
+
+## **Resources**
+
+* [Xiao Mains Discord](https://discord.gg/Xiao)
+* [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
 
 ## ![](../../.gitbook/assets/element_anemo.png)Xiao
 
 ![](../../.gitbook/assets/character_xiao_wish.webp)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT RATE % |
 | :--- | :--- | :--- | :--- | :--- |
@@ -22,14 +25,14 @@ description: >-
 | 80+ | 11840 | 325 | 743 | 24.2 |
 | 90 | 12736 | 349 | 799 | 24.2 |
 
-## Attacks
+## **Attacks**
 
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}
 **Normal Attacks**  
 Xiao performs up to six consecutive spear strikes.
 
-| String | Talent 6 DMG% | Frames | Motion Value |
+| String | Talent 6 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 37.87% x2 \(75.74%\) | 16 | 284%/s |
 | 2-Hit | 78.29% | 42 | 220%/s |
@@ -42,9 +45,9 @@ Xiao performs up to six consecutive spear strikes.
 Consumes 25 Stamina to perform an upward thrust.
 * Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 
-| String | Talent 6 DMG% | Frames | Motion Value |
+| String | Talent 6 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 166.5% | ~ | ~ |
+| Charged Attack | 166.5% | - | - |
 | N1C | 242.24% | 80 | 181.7%/s |
 | N3C | 414.79% | 157 | 158.5%/s |
 | N4C | 518.37% | 190 | 163.7%/s |
@@ -53,9 +56,9 @@ Consumes 25 Stamina to perform an upward thrust.
 Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
 Xiao does not take DMG from performing Plunge Attacks.
 
-| Plunge Type | Talent 6 DMG% | Frames | Motion Value |
+| Plunge Type | Talent 6 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Plunge DMG | 118.94% | ~ | ~ |
+| Plunge DMG | 118.94% | - | - |
 | Low Plunge DMG | 237.84% | 65 | 219.5%/s |
 | High Plunge DMG | 297.07% | 75 | 237.7%/s |
 
@@ -68,12 +71,19 @@ Xiao lunges forward, dealing Anemo DMG to opponents in his path.
 Can be used mid-air.  
 Starts with 2 charges.
 
-| Type | Talent 6 DMG% | Frames | Motion Value | Particles |
-| :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 353.92% | 36 | 589.9%/s | 3 \(-\) |
-| CD | 10s | ~ | ~ | ~ |
+| Attribute | Skill |
+| :--- | :--- |
+| Skill DMG \(T6%\) | 353.92% | 36 |
+| Particles | 3 |
+| Frames | 36 | 
+| GU | 2B |
+| ICD | 7 hit / 0.1s |
+| Snapshot | Snapshot |
+| Damage Element | Anemo |
+| Damage Type | Skill |
+| CD | 10s |
 
-* A Double E Cast is only 60 frames long.
+* A double E Cast is only 60 frames long.
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
@@ -88,18 +98,19 @@ Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago
 * Xiao's attacks will be infused with 1GU Anemo.  
 * While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
 
-| Effect | Talent 6% |
+| Attribute | Burst  |
 | :--- | :--- |
-| Normal, Charged, and Plunge DMG bonus | 77% |
-| Life Drain | 2.5% Current HP/s |
+| Normal, Charged, Plunge DMG bonus \(T6%\) | 77% |
+| Life Drain \(T6%\) | 2.5% Current HP/s |
+| Frames | 58 |  
+| Energy Cost | 70 |
 | Duration | 15s |
 | CD | 18s |
-| Energy Cost | 70 |
-| Frames | 58 |  
+
 {% endtab %}
 {% endtabs %}
 
-## Ascension Passives
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -121,47 +132,47 @@ Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lem
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-**Dissolution Eon: Destroyer of Worlds**
+### Dissolution Eon: Destroyer of Worlds
 
 Increases **Lemniscatic Wind Cycling**'s charges by 1.
 {% endtab %}
 
 {% tab title="C2" %}
-**Annihilation Eon: Blossom of Kaleidos**
+### Annihilation Eon: Blossom of Kaleidos
 
 When in the party and not on the field, Xiao's Energy Recharge is increased by 25%
 {% endtab %}
 
 {% tab title="C3" %}
-**Conqueror of Evil: Wrath Deity**
+### Conqueror of Evil: Wrath Deity
 
 Increases the level of **Lemniscatic Wind Cycling** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-**Transcension: Extinction of Suffering**
+### Transcension: Extinction of Suffering
 
 When Xiao's HP falls below 50%, he gains a 100% DEF Boost.
 {% endtab %}
 
 {% tab title="C5" %}
-**Evolution Eon: Origin of Ignorance**
+### Evolution Eon: Origin of Ignorance
 
 Increases the level of **Bane of All Evil** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-**Conqueror of Evil: Guardian Yaksha**
+### Conqueror of Evil: Guardian Yaksha
 
 While under the effect of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use **Lemniscatic Wind Cycling** while ignoring its CD.
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}
@@ -169,32 +180,32 @@ While under the effect of **Bane of All Evil**, hitting at least 2 opponents wit
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG \(x2\) | 37.87 | 40.69 | 43.51 | 46.32 | 49.14 | 51.96 |
-| 2- Hit DMG | 78.29 | 84.11 | 89.93 | 95.76 | 101.58 | 107.4 |
-| 3-Hit DMG | 94.26 | 101.27 | 108.28 | 115.29 | 122.3 | 129.31 |
-| 4-Hit DMG \(x2\) | 51.79 | 55.64 | 59.49 | 63.34 | 67.2 | 71.05 |
-| 5-Hit DMG | 98.37 | 105.69 | 113.01 | 120.32 | 127.64 | 134.96 |
-| 6-Hit DMG | 131.77 | 141.57 | 151.37 | 161.17 | 170.97 | 180.77 |
+| 1-Hit DMG \(x2\) | 37.87% | 40.69% | 43.51% | 46.32% | 49.14% | 51.96% |
+| 2- Hit DMG | 78.29% | 84.11% | 89.93% | 95.76% | 101.58% | 107.4% |
+| 3-Hit DMG | 94.26% | 101.27% | 108.28% | 115.29% | 122.3% | 129.31% |
+| 4-Hit DMG \(x2\) | 51.79% | 55.64% | 59.49% | 63.34% | 67.2% | 71.05% |
+| 5-Hit DMG | 98.37% | 105.69% | 113.01% | 120.32% | 127.64% | 134.96% |
+| 6-Hit DMG | 131.77% | 141.57% | 151.37% | 161.17% | 170.97% | 180.77% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 166.5 | 178.88 | 191.26 | 203.65 | 216.03 | 228.42 |
+| Charged Attack DMG | 166.5% | 178.88% | 191.26% | 203.65% | 216.03% | 228.42% |
 
 ### Plunge Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 118.94 | 129.41 | 139.88 | 150.35 | 161.76 | 173.18 |
-| Low Plunge DMG | 237.84 | 258.77 | 279.7 | 300.63 | 323.46 | 346.29 |
-| High Plunge DMG | 297.07 | 323.21 | 349.36 | 375.5 | 404.24 | 432.54 |
+| Plunge DMG | 118.94% | 129.41% | 139.88% | 150.35% | 161.76% | 173.18% |
+| Low Plunge DMG | 237.84% | 258.77% | 279.7% | 300.63% | 323.46% | 346.29% |
+| High Plunge DMG | 297.07% | 323.21% | 349.36% | 375.5% | 404.24% | 432.54% |
 {% endtab %}
 
 {% tab title="Lemniscatic Wind Cycling" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG % | 353.92 | 379.2 | 404.48 | 429.76 | 455.04 | 480.32 | 505.6 | 537.2 |
+| Skill DMG % | 353.92% | 379.2% | 404.48% | 429.76% | 455.04% | 480.32% | 505.6% | 537.2% |
 
 **Cooldown:** 10s
 {% endtab %}
@@ -202,8 +213,8 @@ While under the effect of **Bane of All Evil**, hitting at least 2 opponents wit
 {% tab title="Bane of All Evil" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Normal, Charged, Plunge Attack DMG Bonus | 77 | 81.55 | 86.1 | 90.65 | 95.2 | 99.75 | 104.3 | 108.85 |
-| Current HP% Drain per second | 2.5 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| Normal, Charged, Plunge Attack DMG Bonus | 77% | 81.55% | 86.1% | 90.65% | 95.2% | 99.75% | 104.3% | 108.85% |
+| Current HP% Drain per second | 2.5% | 2% | 2% | 2% | 2% | 2% | 2% | 2% |
 
 **Duration:** 15s  
 **Cooldown:** 18s  
@@ -212,14 +223,7 @@ While under the effect of **Bane of All Evil**, hitting at least 2 opponents wit
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Xiao)
-* [Xiao Mains Discord](https://discord.gg/Xiao)
-* [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
-* [Xiao Mastersheet V2.0](https://library.keqingmains.com/evidence/characters/anemo/xiao#xiao-mastersheet-v-2-0) by Pichu#0002 & shdwbld#8103
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/anemo/xiao.md" %}
 

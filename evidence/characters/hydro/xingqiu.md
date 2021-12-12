@@ -18,7 +18,7 @@ search: false
 
 How to vaporize both of Xingqiu’s E slashes with either Gouba or Amber
 
-**Evidence:** [https://www.youtube.com/watch?v=-03MNwss9UI](https://www.youtube.com/watch?v=-03MNwss9UI)
+**Evidence:** [Video](https://www.youtube.com/watch?v=-03MNwss9UI)
 
 There are 2 methods of doing it. You can use Xiangling’s E and time it on Gouba’s attack. The easier method is by using Amber’s ult, you only need to cast E to do it.
 
@@ -88,7 +88,7 @@ XQ E dash cancel is faster than ult cancelling.
 
 **Evidence:**
 
-[https://youtu.be/olBKG1I3JEw](https://youtu.be/olBKG1I3JEw)
+[Video](https://youtu.be/olBKG1I3JEw)
 
 38 frames to dash cancel, 71 frames to ult cancel, 92 frames without a cancel to swap.
 
@@ -121,7 +121,7 @@ Better knowledge for teambuilding and rotations.
 
 XQ ult is dynamic and not a snapshot.
 
-**Evidence:** [https://youtu.be/NEnRlMsQRVA](https://youtu.be/NEnRlMsQRVA) \(source : @Ashen Cenpi\)
+**Evidence:** [Video](https://youtu.be/NEnRlMsQRVA) \(source : @Ashen Cenpi\)
 
 XQ ult is cast and used against an enemy to determine a baseline.
 
@@ -145,7 +145,7 @@ XQ ult wave comes out if you are in an auto animation at the time the ICD ends. 
 
 **Evidence**:
 
-[https://i.imgur.com/jNBiTa9.mp4](https://i.imgur.com/jNBiTa9.mp4)
+[Video](https://i.imgur.com/jNBiTa9.mp4)
 
 * First set of 2: Click-&gt; wait 500 ms -&gt; click -&gt; wait 600 MS -&gt; swap
 * Second set of 2: Click -&gt; wait 500 ms -&gt; click -&gt; wait 400 MS -&gt; swap
@@ -207,6 +207,6 @@ We understand more about how XQ's damage reduction works. Additionally, this mea
 
 **Evidence:**
 
-[https://www.youtube.com/watch?v=Mgbi6X0TTxM](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
+[Video](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
 
 **Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.

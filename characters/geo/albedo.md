@@ -4,6 +4,11 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 # Albedo
 
+## **Resources**
+
+* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
+* [Albedo Written Guide](https://keqingmains.com/albedo/)
+
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
 
 ![](../../.gitbook/assets/character_albedo_wish.png)
@@ -27,7 +32,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 **Normal Attacks**  
 Albedo performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 53.4% | 12 | 267%/s |
 | 2-Hit | 53.4% | 30 | 213.6%/s |
@@ -38,7 +43,7 @@ Albedo performs up to 5 rapid strikes.
 **Charged Attack**  
 Albedo consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | N1C | 209.65% | 54 | 232.9%/s |
 
@@ -74,15 +79,18 @@ When a character is located on the **Solar Isotoma**, the **Solar Isotoma** will
 * **Solar Isotoma** is considered a Geo construct, casting other constructs above it will cause the construct to shatter.
   * Only one per Albedo can exist at a time.
 
-|  | Solar Isotoma | Transient Blossom |
+| Attribute | Solar Isotoma | Transient Blossom |
 | :--- | :--- | :--- |
-| Talent 6% | 182.56% | 184.04% DEF |
-| Cooldown | 4s |  |
-| Duration | 30s |  |
-| GU | 1U | 1U |
+| Talent \(T6%\) | 182.56% | 184.04% DEF |
 | Particles | 0 | 0~1 \(1:2\) |
-| Frames | 32 | 0 |
-| Motion Value | 342.3%/s | 93.52%/s |
+| Frames | 32 | - |
+| GU | 1U | 1U |
+| ICD | None | 3 hit / 2.5s |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Geo | Geo |
+| Damage Type | Skill | Skill |
+| Duration | 30s | - |
+| CD | 4s | - |
 
 * The area of **Solar Isotoma** that can generate **Transient Blossoms** is cylindrical and has a maximum height just above the elevator's maximum lift. 
 * The DMG dealt by **Transient Blossoms** is snapshotted, so any buffs gained/lost after casting **Abiogenesis: Solar Isotoma** will not affect its damage.
@@ -92,15 +100,17 @@ When a character is located on the **Solar Isotoma**, the **Solar Isotoma** will
 {% tab title="Rite of Progeniture: Tectonic Tide" %}
 Albedo commands a wave of Geo crystals to burst, dealing AoE Geo DMG in front of him. If a **Solar Isotoma** is on the field, 7 **Fatal Blossoms** will be generated in the **Solar Isotoma** field, dealing AoE Geo DMG.
 
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Burst DMG | 514.08% |
-| Fatal Blossom DMG | 100.8% each Blossom |
-| Cooldown | 12s |
-| Energy Cost | 40 |
-| Cast GU | 1U |
-| Fatal Blossom GU | 1U |
-| Cast Frames | 96 |
+| Attribute | Burst Cast | Fatal Blossom |
+| :--- | :--- | :--- |
+| Talent \(T6%\) | 514.08% | 100.8% per Blossom
+| Frames | 96 | - |
+| GU | 1U | 1U |
+| ICD | None | 3 hit / 2.5s |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Geo | Geo |
+| Damage Type | Burst | Burst |
+| Energy Cost | 40 | - |
+| Cooldown | 12s | - |
 
 * **Tectonic Tide** DMG and **Fatal Blossom** DMG will not generate **Transient Blossoms**.
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 
@@ -131,7 +141,7 @@ Using Rite of Progeniture: Tectonic Tide increases the EM of nearby party member
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -175,7 +185,7 @@ If active party members within the AoE are protected by a shield created by Crys
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Favonius Bladework - Weiss" %}
@@ -183,18 +193,18 @@ If active party members within the AoE are protected by a shield created by Crys
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 53.40 | 58.10 | 62.80 | 67.50 | 72.62 | 78.50 |
-| 2-Hit DMG | 53.40 | 58.10 | 62.80 | 67.50 | 72.62 | 78.50 |
-| 3-Hit DMG | 68.98 | 75.04 | 81.11 | 87.18 | 93.81 | 101.39 |
-| 4-Hit DMG | 72.31 | 78.68 | 85.04 | 91.40 | 98.35 | 106.30 |
-| 5-Hit DMG | 90.22 | 98.16 | 106.10 | 114.04 | 122.70 | 132.63 |
+| 1-Hit DMG | 53.40% | 58.10% | 62.80% | 67.50% | 72.62% | 78.50% |
+| 2-Hit DMG | 53.40% | 58.10% | 62.80% | 67.50% | 72.62% | 78.50% |
+| 3-Hit DMG | 68.98% | 75.04% | 81.11% | 87.18% | 93.81% | 101.39% |
+| 4-Hit DMG | 72.31% | 78.68% | 85.04% | 91.40% | 98.35% | 106.30% |
+| 5-Hit DMG | 90.22% | 98.16% | 106.10% | 114.04% | 122.70% | 132.63% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 68.75 | 74.80 | 80.85 | 86.90 | 93.50 | 101.06 |
-| Charged Attack 2 DMG | 87.50 | 95.20 | 102.90 | 110.60 | 119 | 128.62 |
+| Charged Attack 1 DMG | 68.75% | 74.80% | 80.85% | 86.90% | 93.50% | 101.06% |
+| Charged Attack 2 DMG | 87.50% | 95.20% | 102.90% | 110.60% | 119% | 128.62% |
 
 **Stamina Cost**: 20
 
@@ -202,16 +212,16 @@ If active party members within the AoE are protected by a shield created by Crys
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
-| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
-| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 {% endtab %}
 
 {% tab title="Abiogenesis: Solar Isotoma" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 182.56 | 195.60 | 208.64 | 221.68 | 234.72 | 247.76 | 260.80 | 277.10 |
-| Transient Blossom DMG | 187.04 | 200.4 | 213.76 | 227.12 | 240.48 | 253.84 | 267.2 | 283.9 |
+| Skill DMG | 182.56% | 195.60% | 208.64% | 221.68% | 234.72% | 247.76% | 260.80% | 277.10% |
+| Transient Blossom DMG | 187.04% | 200.4% | 213.76% | 227.12% | 240.48% | 253.84% | 267.2% | 283.9% |
 
 **Duration**: 30s  
 **Cooldown**: 4s
@@ -220,22 +230,15 @@ If active party members within the AoE are protected by a shield created by Crys
 {% tab title="Rite of Progeniture: Tectonic Tide" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Elemental Burst DMG | 514.08 | 550.80 | 587.52 | 624.24 | 660.96 | 697.68 | 734.40 | 780.30 |
-| Fatal Blossom DMG | 100.8 | 108 | 115.2 | 122.4 | 129.6 | 136.8 | 144 | 153 |
+| Elemental Burst DMG | 514.08% | 550.80% | 587.52% | 624.24% | 660.96% | 697.68% | 734.40% | 780.30% |
+| Fatal Blossom DMG | 100.8% | 108% | 115.2% | 122.4% | 129.6% | 136.8% | 144% | 153% |
 
-**Energy Cost**: 40
-
+**Energy Cost**: 40  
 **Cooldown**: 12s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Albedo)
-* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
-* [Albedo Written Guide](https://keqingmains.com/albedo/)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/geo/albedo.md" %}
 

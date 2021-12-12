@@ -1,6 +1,5 @@
 ---
-description: >-
-  Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.
+description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.
 ---
 
 # Aloy
@@ -39,7 +38,7 @@ Perform up to 4 consecutive shots with a bow.
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Aimed Shot | 63.75% | -- | -- |
 | Fully-Charged Aimed Shot | 173.6% | -- | -- |
@@ -65,12 +64,19 @@ Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact,
 
 While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Coil** effects will be cleared 30s after Aloy leaves the field.
 
-| Type | Talent 6% | U | Particles | Frames |
-| :--- | :--- | :--- | :--- | :--- |
-| Freeze Bomb DMG | 248.64% | 1A | 5 | 67 |
-| Chillwater Bomblets | 56% | 1A | -- | -- |
+| Attribute | Freeze Bomb | Chillwater Bomblets |
+| :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 248.64% | 56% |
+| Particles | 5 \(-\) | - | 
+| Frames | 67 | - |
+| GU | 1A | 1A |
+| ICD | - | 3 hits / 2.5s |
+| Snapshot | Snapshot | Snapshot |
+| Damage Element | Cryo | Cryo |
+| Damage Type | Skill | Skill |
+| CD | 20s | - | 
 
-| Type                                | Talent 6 Data        |
+| Attribute                           | Talent 6 Data        |
 | ----------------------------------- | -------------------- |
 | ATK Decrease                        | 13%                  |
 | ATK Decrease Duration               | 6s                   |
@@ -90,13 +96,17 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Co
 {% tab title="Prophecies of Dawn" %}
 Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing AoE Cryo DMG.
 
-| Effect | Talent 6% / Data |
+| Attribute | Burst |
 | :--- | :--- |
-| Skill DMG | 502.88% |
-| GU | 2B |
+| Skill DMG \(T6%\) | 502.88% |
 | Frames | 118 |
-| CD | 12 s |
+| GU | 2B |
+| ICD | - |
+| Snapshot | Snapshot |
+| Damage Element | Cryo |
+| Damage Type | Burst |
 | Energy Cost | 40 |
+| CD | 12 s |
 
 {% endtab %}
 {% endtabs %}
@@ -137,53 +147,53 @@ The time has not yet come for this person's corner of the night sky to light up.
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}{% tab title="Rapid Fire" %}
 ### Normal Attacks
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.04 + 32.67 | 31.2 + 35.1 | 33.36 + 37.53 | 35.52 + 39.96 | 37.68 + 42.39 | 39.84 + 44.82 |
-| 2-Hit DMG | 59.29 | 63.7 | 68.11 | 72.52 | 76.93 | 81.34 |
-| 3-Hit DMG | 72.6 | 78 | 83.4 | 88.8 | 94.2 | 99.6 |
-| 4-Hit DMG | 90.27 | 96.98 | 103.69 | 110.41 | 117.12 | 123.84 |
+| 1-Hit DMG | 29.04% + 32.67% | 31.2% + 35.1% | 33.36% + 37.53% | 35.52% + 39.96% | 37.68% + 42.39% | 39.84% + 44.82% |
+| 2-Hit DMG | 59.29% | 63.7% | 68.11% | 72.52% | 76.93% | 81.34% |
+| 3-Hit DMG | 72.6% | 78% | 83.4% | 88.8% | 94.2% | 99.6% |
+| 4-Hit DMG | 90.27% | 96.98% | 103.69% | 110.41% | 117.12% | 123.84% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75 | 69.36 | 74.97 | 80.58 | 86.7 | 92.82 |
-| Fully-Charged Aimed Shot | 173.6 | 186 | 198.4 | 210.8 | 223.2 | 235.6 |
+| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.7% | 92.82% |
+| Fully-Charged Aimed Shot | 173.6% | 186% | 198.4% | 210.8% | 223.2% | 235.6% |
 
 ### Plunge 
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
-| Low Plunge DMG | 165.17 | 179.7 | 194.23 | 208.77 | 224.62 | 240.48 |
-| High Plunge DMG | 206.3 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
 {% tab title="Frozen Wilds" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Freeze Bomb DMG | 248.64 | 266.4 | 284.16 | 301.92 | 319.68 | 337.44 | 355.2 | 377.4 |
-| Chillwater Bomblets | 56 | 60 | 64 | 68 | 72 | 76 | 80 | 85 |
-| ATK Decrease | 13 | 14 | 14 | 14 | 15 | 15 | 15 | 15 |
-| Coil Normal Attack DMG Bonus | 7.7 / 15.4 / 23.1 | 8.16 / 16.31 / 24.47 | 8.61 / 17.22 / 25.83 | 9.07 / 18.13 / 27.2 | 9.52 / 19.04 / 28.56 | 9.98 / 19.95 / 29.93 | 10.43 / 20.86 / 31.29 | 10.89 / 21.77 / 32.66 |
+| Freeze Bomb DMG | 248.64% | 266.4% | 284.16% | 301.92% | 319.68% | 337.44% | 355.2% | 377.4% |
+| Chillwater Bomblets | 56% | 60% | 64% | 68% | 72% | 76% | 80% | 85% |
+| ATK Decrease | 13% | 14% | 14% | 14% | 15% | 15% | 15% | 15% |
+| Coil Normal Attack DMG Bonus | 7.7% / 15.4% / 23.1% | 8.16% / 16.31% / 24.47% | 8.61% / 17.22% / 25.83% | 9.07% / 18.13% / 27.2% | 9.52% / 19.04% / 28.56% | 9.98% / 19.95% / 29.93% | 10.43% / 20.86% / 31.29% | 10.89% / 21.77% / 32.66% |
 | Rushing Ice Normal Attack DMG Bonus | 38.5 | 40.78 | 43.05 | 45.33 | 47.6 | 49.88 | 52.15 | 54.43 |
 
 **ATK Decrease Duration:** 6s  
 **Rushing Ice Duration:** 10s  
-**Cooldown:**  20s
+**Cooldown:** 20s
 
 {% endtab %}
 
 {% tab title="Prophecies of Dawn" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 502.88 | 538.8 | 574.72 | 610.64 | 646.56 | 682.48 | 718.4 | 763.3 |
+| Skill DMG | 502.88% | 538.8% | 574.72% | 610.64% | 646.56% | 682.48% | 718.4% | 763.3% |
 
 **Cooldown:**  12s  
 **Energy Cost:**  40
@@ -191,10 +201,6 @@ The time has not yet come for this person's corner of the night sky to light up.
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/aloy.md" %}

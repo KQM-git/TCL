@@ -1,12 +1,14 @@
 ---
-description: >-
-  A well-known legal adviser active in Liyue Harbor. A briliant young lady in
-  whose veins runs the blood of an illuminated beast.
+description: A well-known legal adviser active in Liyue Harbor. A briliant young lady in whose veins runs the blood of an illuminated beast.
 ---
 
 # Yanfei
 
-## ![](../../.gitbook/assets/element_pyro.png) Yan Fei
+## **Resources**
+
+* [Yanfei Full Guide](https://keqingmains.com/yanfei/)
+
+## ![](../../.gitbook/assets/element_pyro.png) Yanfei
 
 ![](../../.gitbook/assets/character_yanfei_wish.png)
 
@@ -35,7 +37,7 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 * Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
   * This stamina consumption reduction applies to all actions
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 81.68% | 13 | 376.98%/s |
 | 2-Hit | 72.98% | 41 | 226.33%/s |
@@ -70,14 +72,18 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 
 * **Signed Edict** shatters frozen targets.
 
-| Effect | Talent 6 DMG% |
+| Effect | Skill |
 | :--- | :--- |
-| Skill DMG | 237.44% |
-| Cooldown | 9s |
+| Skill DMG \(T6%\) | 237.44% |
 | Particles | 3 \(-\) |
-| Gauge Units | 1A |
 | Frames | 46 |
-| Motion Value | 309.70%/s |
+| GU | 1A |
+| ICD | None |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Skill |
+| CD | 9s |
+
 {% endtab %}
 
 {% tab title="Done Deal" %}
@@ -89,17 +95,21 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 * Grants Yanfei a Scarlet Seal at fixed intervals
 * Increases the DMG dealt by her Charged Attacks
 
-| Effect | Talent 6 DMG% |
+| Effect | Burst |
 | :--- | :--- |
-| Skill DMG | 255.36% |
+| Skill DMG \(T6%\) | 255.36% |
 | Charged Attack DMG Bonus | 44% |
 | Scarlet Seal Grant Interval | 1s |
-| Duration | 15s |
-| Cooldown | 20s |
-| Energy Cost | 80 |
-| Gauge Units | 2B |
 | Frames | 65 |
-| Motion Value | 235.72%/s |
+| GU | 2B |
+| ICD | 3 hit / 2.5s |
+| Snapshot | Snapshot |
+| Damage Element | Pyro |
+| Damage Type | Burst |
+| Energy Cost | 80 |
+| Duration | 15s |
+| CD | 20s |
+
 {% endtab %}
 {% endtabs %}
 
@@ -135,7 +145,7 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -236,11 +246,7 @@ Increases the maximum number of Scarlet Seals by 1.
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Yanfei)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
 

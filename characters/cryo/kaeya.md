@@ -4,6 +4,9 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 # Kaeya
 
+## **Resources**
+* [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
+
 ## ![](../../.gitbook/assets/element_cryo.png) Kaeya
 
 ![](../../.gitbook/assets/character_kaeya_wish.png)
@@ -12,13 +15,13 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7666 | 147 | 522 | 13.30 |
-| 60+ | 8184 | 157 | 557 | 13.30 |
-| 70 | 8989 | 172 | 612 | 13.30 |
-| 70+ | 9507 | 182 | 647 | 20 |
-| 80 | 10312 | 198 | 702 | 20 |
-| 80+ | 10830 | 208 | 737 | 26.70 |
-| 90 | 11636 | 223 | 792 | 26.70 |
+| 60 | 7666 | 147 | 522 | 13.30% |
+| 60+ | 8184 | 157 | 557 | 13.30% |
+| 70 | 8989 | 172 | 612 | 13.30% |
+| 70+ | 9507 | 182 | 647 | 20% |
+| 80 | 10312 | 198 | 702 | 20% |
+| 80+ | 10830 | 208 | 737 | 26.70% |
+| 90 | 11636 | 223 | 792 | 26.70% |
 
 ## **Attacks**
 
@@ -27,7 +30,7 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 **Normal Attacks**  
 Kaeya performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 78.13% | 14 | 334.8%/s |
 | 2-Hit | 75.13% | 41 | 224.3%/s |
@@ -38,17 +41,21 @@ Kaeya performs up to 5 rapid strikes.
 **Charged Attack**  
 Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| N1C | 264.38% | 87 | 182.3%/s |
+| String | Talent 6% |
+| :--- | :--- |
+| Charged Attack | 80% + 106.25% |
+
+| Combo | Frames | MV/s (Talent 6%) |
+| :--- | :--- | :--- |
+| N1C | 87 | 182.3%/s |
 
 * All frame counts are done against Ruin Guards.
 
 **Plunge**
 
-| Damage Type | Talent 6% |
+| Type | Talent 6% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
+| Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
 {% endtab %}
@@ -57,13 +64,17 @@ Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 **Press**  
 Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 
-| Effect | Talent 6% / Data |
+| Attribute | Skill |
 | :--- | :--- |
-| Skill DMG | 267.68% |
-| CD | 6s |
-| GU | 2B |
-| Particles | 2~3 \(1:2\) / 4~5 \(1:2\) with A4 |
+| Skill DMG \(T6%\) | 267.68% |
+| Particles | 2~3 \(1:2\) |
 | Frames | 58 |
+| GU | 2B |
+| ICD | None |
+| Snapshot | Snapshot |
+| Damage Element | Cryo |
+| Damage Type | Skill |
+| Cooldown | 6s |
 
 * **Frostgnaw** does not have any hitlag.
 * While casting **Frostgnaw**, Kaeya can start dashing on frame 29, and start casting **Glacial Waltz** on frame 52.
@@ -73,14 +84,18 @@ Kaeya unleashes a frigid blast, dealing Cryo DMG to opponents in front of him.
 {% tab title="Glacial Waltz" %}
 Coalescing the frost in the air, Kaeya summons 3 **icicles** that revolve around him.These **icicles** will follow the character around and deal Cryo DMG to opponents in their path for the ability's duration.
 
-| Effect | Talent 6% / Data |
+| Attribute | Burst |
 | :--- | :--- |
-| Skill DMG | 108.64% |
-| CD | 15s |
-| Duration | 8s |
-| Energy Cost | 60 |
-| GU | 1A |
+| Skill DMG \(T6%\) | 108.64% |
 | Frames | 78 |
+| GU | 1A |
+| ICD | 3 hit / 2.5s |
+| Snapshot | Snapshot |
+| Damage Element | Cryo |
+| Damage Type | Burst |
+| Energy Cost | 60 |
+| Duration | 8s |
+| Cooldown | 15s |
 
 * **Glacial Waltz** does not have any hitlag.
 * **Glacial Waltz** hits around 13 times while standing stationary.
@@ -113,7 +128,7 @@ Opponents frozen by **Frostgnaw** will drop additional Cryo elemental particles.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -161,18 +176,18 @@ Increases the level of **Glacial Waltz** by 3.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 78.13 | 85 | 91.88 | 98.75 | 106.25 | 114.84 |
-| 2-Hit DMG | 75.13 | 81.74 | 88.35 | 94.96 | 102.17 | 110.43 |
-| 3-Hit DMG | 94.88 | 103.22 | 111.57 | 119.92 | 129.03 | 139.47 |
-| 4-Hit DMG | 103 | 112.06 | 121.13 | 130.19 | 140.08 | 151.41 |
-| 5-Hit DMG | 128.25 | 139.54 | 150.82 | 162.11 | 174.42 | 188.53 |
+| 1-Hit DMG | 78.13% | 85% | 91.88% | 98.75% | 106.25% | 114.84% |
+| 2-Hit DMG | 75.13% | 81.74% | 88.35% | 94.96% | 102.17% | 110.43% |
+| 3-Hit DMG | 94.88% | 103.22% | 111.57% | 119.92% | 129.03% | 139.47% |
+| 4-Hit DMG | 103% | 112.06% | 121.13% | 130.19% | 140.08% | 151.41% |
+| 5-Hit DMG | 128.25% | 139.54% | 150.82% | 162.11% | 174.42% | 188.53% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 80 | 87.04 | 94.08 | 101.12 | 108.80 | 117.60 |
-| Charged Attack 2 DMG | 106.25 | 115.60 | 124.95 | 134.30 | 144.50 | 156.19 |
+| Charged Attack 1 DMG | 80% | 87.04% | 94.08% | 101.12% | 108.80% | 117.60% |
+| Charged Attack 2 DMG | 106.25% | 115.60% | 124.95% | 134.30% | 144.50% | 156.19% |
 
 **Stamina Cost**: 20
 
@@ -180,15 +195,15 @@ Increases the level of **Glacial Waltz** by 3.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
-| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
-| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 {% endtab %}
 
 {% tab title="Frostgnaw" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 267.68 | 286.80 | 305.92 | 325.04 | 344.16 | 363.28 | 382.40 | 406.30 |
+| Skill DMG | 267.68% | 286.80% | 305.92% | 325.04% | 344.16% | 363.28% | 382.40% | 406.30% |
 
 **Cooldown**: 6s
 {% endtab %}
@@ -196,22 +211,15 @@ Increases the level of **Glacial Waltz** by 3.
 {% tab title="Glacial Waltz" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 108.64 | 116.40 | 124.16 | 131.92 | 139.68 | 147.44 | 155.20 | 164.90 |
+| Skill DMG | 108.64% | 116.40% | 124.16% | 131.92% | 139.68% | 147.44% | 155.20% | 164.90% |
 
-**Energy Cost**: 60
-
-**Duration**: 8s
-
+**Energy Cost**: 60  
+**Duration**: 8s  
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Kaeya)
-* [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
-
-**Evidence Vault**:
+## **Evidence Vault**:
 
 {% page-ref page="../../evidence/characters/cryo/kaeya.md" %}
 

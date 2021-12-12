@@ -1,10 +1,12 @@
 ---
-description: >-
-  A sister of the church, though you wouldn't know it if it weren't for her
-  attire. Known for her sharp, cold words and manner, she often works alone.
+description: A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.
 ---
 
 # Rosaria
+
+## **Resources**
+* [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)  
+* [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
 
 ## ![](../../.gitbook/assets/element_cryo.png) Rosaria
 
@@ -29,13 +31,13 @@ description: >-
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 
-| String | Talent 6 DMG% | Frames | Motion Value |
+| String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 76.25% | 10 | 457.5%/s |
 | 2-Hit | 75% | 36 | 252.08%/s |
-| 3-Hit | 46.25% x2 \(92.5%\) | 81 | 180.56%/s |
+| 3-Hit | 46.25% x 2 | 81 | 180.56%/s |
 | 4-Hit | 101.25% | 115 | 180%/s |
-| 5-Hit | 60.5% + 62.5% \(123%\) | 175 | 160.46%/s |
+| 5-Hit | 60.5% + 62.5% | 175 | 160.46%/s |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
@@ -47,9 +49,9 @@ Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along 
 **Plunge Attack**  
 Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact.
 
-| Plunge Type | Talent 6 DMG% |
+| Type | Talent 6% |
 | :--- | :--- |
-| Plunge Attack | 92.93% |
+| Plunge DMG | 92.93% |
 | Low Plunge DMG | 185.81% |
 | High Plunge DMG | 232.09% |
 {% endtab %}
@@ -58,16 +60,18 @@ Rosaria plunges to the ground from mid-air, damaging opponents along the way and
 Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo** DMG.  
 This ability cannot be used to travel behind opponents of a larger build.
 
-| Type | Talent 6 Data |
+| Type | Skill |
 | :--- | :--- |
-| Skill DMG | 81.76% + 190.4% \(272.16%\) |
-| Cooldown | 6s |
+| Skill DMG \(T6%\) | 81.76% + 190.4% |
 | Particles | 3 |
-| GU | 1A |
 | Frames | 65 |
-| Motion Value | 251.22%/s |
+| GU | 1A |
+| ICD | None |
+| Snapshot | Snapshot |
+| Damage Element | Cryo |
+| Damage Type | Skill |
+| CD | 6s |
 
-* Both hits of **Ravaging Confession** apply cryo and have no ICD, allowing both hits of **Ravaging Confession** to be melted.
 * Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
 {% endtab %}
 
@@ -75,22 +79,20 @@ This ability cannot be used to travel behind opponents of a larger build.
 Rosaria swings her weapon to slash surrounding opponents, then she summons a frigid **Ice Lance** that strikes the ground. Both actions deal **Cryo** DMG.  
 While active, the **Ice Lance** periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents.
 
-| Effect | Talent 6 Data |
+| Effect | Burst |
 | :--- | :--- |
-| Skill DMG | 145.6% + 212.8% \(358.4%\) |
-| Ice Lance DoT | 184.8% |
-| GU | 1A |
-| Duration | 8s |
-| Cooldown | 15s |
-| Energy Cost | 60 |
+| Skill DMG \(T6%\) | 145.6% + 212.8% |
+| Ice Lance DoT \(T6%\) | 184.8% |
 | Frames | 74 |
-| Motion Value | 290.59%/s |
-
-* **Rites of Termination** snapshots buffs.
-* The Cryo application of **Rites of Termination** has no ICD
-  * **Rites of Termination** will apply 1A cryo on both damage instances on cast
-  * **Rites of Termination** will apply 1A cryo on every damage tick, which occur every 2 seconds
-  
+| GU | 1A |
+| ICD | None |
+| Snapshot | Snapshot |
+| Damage Element | Cryo |
+| Damage Type |  Burst |
+| Energy Cost | 60 |
+| Duration | 8s |
+| Tick Rate | 2s |
+| Cooldown | 15s |
 
 {% endtab %}
 {% endtabs %}
@@ -99,7 +101,7 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Night Walk**
+### Night Walk
 
 At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
 Not stackable with Passive Talents that provide the exact same effect.  
@@ -107,7 +109,7 @@ Not stackable with Passive Talents that provide the exact same effect.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Regina Probationum**
+### Regina Probationum
 
 When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT RATE increases by 12% for 5s.
 
@@ -120,7 +122,7 @@ When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosa
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Shadow Samaritan**
+### Shadow Samaritan
 
 Casting **Rites of Termination** increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%.
 
@@ -130,7 +132,7 @@ Casting **Rites of Termination** increases CRIT RATE of all nearby party members
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -219,21 +221,13 @@ Increases the level of **Rites of Termination** by 3.
 | Skill 2 DMG | 212.8% | 228% | 243.2% | 258.4% | 273.6% | 288.8% | 304% | 323% |
 | Ice Lance DoT | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 
-**Energy Cost**: 60
-
-**Duration**: 8s
-
+**Energy Cost**: 60  
+**Duration**: 8s  
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Rosaria)
-* [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)
-* [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/cryo/rosaria.md" %}
 

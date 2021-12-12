@@ -36,41 +36,20 @@ Keqing's A4 is often misunderstood because the buff duration starts at the begin
 
 **By:** Cola\#6861, ZΛNTO\#4984, Ryser\#6516
 
-Editor’s note: We are having inconsistent findings of whether or not the C1 damage applies twice if cast at point-blank range. This inconsistency could be due to varying mob sizes. See the evidence below.
+**Finding:**  
+We are having inconsistent findings of whether or not the C1 damage applies twice if cast at point-blank range. This inconsistency could be due to varying mob sizes. See the evidence below.
 
-#### Cola’s Findings
+**Evidence:**  
+Cola’s Findings: Against Treasure Hoarders, only 3 damage numbers occur: from the stilleto \(E1\), the blink damage \(C1\) and the AoE slash attack \(E2\). Thus C1 only damaged the enemy once. [YouTube](https://www.youtube.com/watch?v=PSAN5E4_ft4&feature=youtu.be)
 
-Her C1 works by you triggering her blink skill \(pressing E a second time to activate the blink\). When you do this, you deal electro damage in your starting position equal to 50% of your attack and another 50% at the location of your blink.
+ZANTO's Findings: Due to hitboxes, tests were conducted on both Bosses and Mobs. Delayed E2 tests were done to ensure the E1 damage was not being confused with C1 damage. Even with instant recasting of E2, 4 damage numbers are shown as expected, working on small mobs as well. [imgur](https://imgur.com/a/4OUutUU)
 
-In the [video](https://www.youtube.com/watch?v=PSAN5E4_ft4&feature=youtu.be) was a demonstration on if the C1 damage can proc twice since you're blinking basically in the same spot to a close by enemy.
+Rhyser’s Findings: Confirmed ZANTO’s Findings. [YouTube](https://youtu.be/gCb-AMa5cdA)
 
-Only three numbers popped up: from the stilleto \(E1\), the blink damage \(C1\) and the AoE slash attack \(E2\).
-
-Therefore, we can conclude that her C1 can only damage an opponent once, and not twice. This wasn't explained to us in the description of the constellation and it's easy to mistake that you can deal double the damage if you blinked in the same spot.
-
-Conclusions
-
-* No, Constellation 1, Thundering Might, can only deal damage to a nearby enemy once.
-
-#### ZANTO’s Findings
-
-**Finding:**
-
+**Significance:**  
 Keqing's C1 damage CAN be applied twice to the same enemy, provided that the Blink and Stiletto location of E2 are relatively the same. C1 does have a small hitbox, but will generally get 2 hits against a point blank target that your Stiletto is on top of.
 
-Testing:
-
-Due to hitboxes, tests were conducted on both Bosses and Mobs. Delayed E2 tests were done to ensure the E1 damage was not being confused with C1 damage. Even with instant recasting of E2, 4 damage numbers are shown as expected, working on small mobs as well.
-
-**Evidence:** [https://imgur.com/a/4OUutUU](https://imgur.com/a/4OUutUU)
-
-**Significance:** In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
-
-#### Rhyser’s Findings
-
-Confirms ZANTO’s Findings
-
-[https://youtu.be/gCb-AMa5cdA](https://youtu.be/gCb-AMa5cdA)
+In perfect conditions, C1 essentially adds 100% damage to her E2, which can be beneficial for Electro Builds.
 
 ### Keqing C1 damage
 
@@ -194,7 +173,7 @@ PS:
 * N3C : 15 Rotations
 * N4C : Near enough infinite, you lose stamina over time but it's so slow there's really no point finding out how many you'll get because whatever you're fighting should be dead.
 
-User Submission Update \(12/15/2020\)
+### User Submission Update \(12/15/2020\)
 
 **Finding:**
 
@@ -202,7 +181,7 @@ User Submission Update \(12/15/2020\)
 
 Blinking with 「Stellar Restoration」does less damage than doing an E-&gt;N1C, so the only time you might consider it for Physical Keqing is as a gap closer however the DPS loss of no longer getting Phys bonuses may not be worth it. For Electro Keqing as it enables Normal and Charge attacks to be converted to Electro this is a no brainer.
 
-Evidence and Methodology.
+**Evidence and Methodology:**
 
 By use of the graying of the character bench, elemental skill, and elemental burst as keyframes, total frames and MV/s are calculated.
 
@@ -233,7 +212,7 @@ All Talent % Taken at T6
   * 401.9 MV/s
   * [https://youtu.be/DuFRto4rY\_Q](https://youtu.be/DuFRto4rY_Q)
 
-Editor’s Significance
+**Significance:**
 
 * When comparing 4N1C to Q, 4N1C has superior DPS against a singular opponent, whereas Q has superior DPS against multiple opponents. The reason why these 2 combos are compared is because they take up nearly the same number of frames.
 * Therefore, AutoKeq should level Q and autoattacks \(Yunlai Swordsmanship\) together and leave E at level 6.

@@ -269,7 +269,7 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Traveler)
 * [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)
-* [Aether Analysis](https://library.keqingmains.com/evidence/characters/geo/traveler-geo#aether-analysis) by Liunel#2555 (weapon comparisons for Main DPS Aether and Burst Support Aether)
+* [Aether Analysis](../../evidence/characters/geo/traveler-geo.md#aether-analysis) by Liunel#2555 (weapon comparisons for Main DPS Aether and Burst Support Aether)
 
 **Evidence Vault:**
 

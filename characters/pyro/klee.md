@@ -1,10 +1,12 @@
 ---
-description: >-
-  An explosives expert and a regular at the Knights of Favonius' confinement
-  room. Also known as Fleeing Sunlight.
+description: An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.
 ---
 
 # Klee
+
+## **Resources**
+
+* [**Klee Mains Discord**](https://discord.gg/NwYDDrfKZU)
 
 ## ![](../../.gitbook/assets/element_pyro.png) Klee
 
@@ -29,22 +31,21 @@ description: >-
 **Normal Attacks**  
 Klee performs up to 3 explosive attacks dealing Pyro DMG.
 
-* Klees's normal and charged attacks have the blunt attribute allowing them to break shields like claymores.
+| String | Talent 6% | Frames | Motion Value | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 101.02% | 32 | 189.4%/s | 1A |
+| 2-Hit | 87.36% | 76 | 148.7%/s | 1A |
+| 3-Hit | 125.89% | 151 | 124.8%/s | 1A |
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 101.02% | 32 | 189.4%/s |
-| 2-Hit | 87.36% | 76 | 148.7%/s |
-| 3-Hit | 125.89% | 151 | 124.8%/s |
-| GU | 1A |  |  |
+* Klees's normal and charged attacks have the blunt attribute allowing them to break shields like claymores.
+* 3 hits / 2.5s ICD, shared with elemental skill
 
 **Charged Attack**  
 Consumes 50 stamina to deal AoE Pyro DMG.
 
-| String | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| CA | 220.30% | 50 | 264.36%/s |
-| GU | 1A |  |  |
+| String | Talent 6% | Frames | Motion Value | GU | ICD |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 220.30% | 50 | 264.36%/s | 1A | 0.5s |
 
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
@@ -60,18 +61,19 @@ Consumes 50 stamina to deal AoE Pyro DMG.
 {% tab title="Jumpy Dumpty" %}
 Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the last bounce it splits into 8 mines that explode on contact or after the timer expires.
 
-| Type | Talent 6% |
-| :--- | :--- |
-| Bounce DMG | 133.28% |
-| Mine DMG | 45.92% |
-| Mine Duration | 15s |
-| Particles | 4 \(-\) |
-| Cooldown | 20s |
-| 1st and 2nd Bounce GU | 1A |
-| 3rd Bounce GU | 2B |
-| Mine GU | 1A |
-| Frames | 67 |
+| Attribute | Bounce DMG | Mine DMG |
+| :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 133.28% | 45.92% |
+| Particles | 4 \(-\) | - |
+| Frames | 67 | - |
+| GU | 1A \(1st & 2nd\)<br />2B \(3rd\) | 1A | 
+| ICD | 3 hits / 2.5s | Note |
+| Snapshot | Snapshots | Snapshots 
+| Damage Element | Pyro | Pyro |
+| Damage Type | Skill | Skill |
+| CD | 20s | - |
 
+* Bounce ICD is shared with normals
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
@@ -81,18 +83,23 @@ Klee throws an explosive that bounces three times dealing AoE Pyro DMG. On the l
 {% tab title="Sparks \'n\' Splash" %}
 Klee summons Sparks 'n' Splash, which deals damage in 6 waves over 10 seconds. On each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
+| Attribute | Burst |
+| :--- | :--- |
+| Skill DMG \(T6%\) | 59.70% |
+| Hits | 22.8 (average) |
+| Frames | 100 |
+| GU | 1A |
+| ICD | 3 hits / 2.5s |
+| Snapshot | Snapshots |
+| Damage Element | Pyro |
+| Damage Type | Burst |
+| Energy Cost | 60 |
+| Duration | 10s |
+| CD | 15s |
+
+* ICD is shared with C1.
 * If Klee leaves the field with this active no more damage will be dealt even if there is duration left.
 * This snapshots all temporary buffs when cast.
-
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| DMG | 59.70% |
-| Hits | 22.8 (average) |
-| GU | 1A |
-| Duration | 10s |
-| Cooldown | 15s |
-| Energy Cost | 60 |
-| Frames | 100 |
 {% endtab %}
 {% endtabs %}
 
@@ -124,7 +131,7 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
@@ -132,9 +139,9 @@ When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG.
 
-| **Type** | **GU** | Damage Type |
-| :--- | :--- | :--- |
-| Chained Reactions | 1A | Elemental Burst |
+| **Type** | **GU** | ICD | Damage Type |
+| :--- | :--- | :--- | :--- |
+| Chained Reactions | 1A | 3 hits / 2.5s, shared with burst | Elemental Burst |
 
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
 * Has a very small AOE
@@ -161,9 +168,9 @@ Increases the level of Jumpy Dumpty Overload by 3.
 
 If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG.
 
-| Type | GU |
-| :--- | :--- |
-| Sparkly Explosion | 2B |
+| Type | GU | ICD |
+| :--- | :--- | :--- |
+| Sparkly Explosion | 2B | None |
 
 * Klee’s C4 damage instance has no ability type scaling tags. 
 {% endtab %}
@@ -180,11 +187,11 @@ Increases the Level of Sparks 'n' Splash by 3.
 While under the effects of Sparks 'n' Splash, other members of the party will continuously regenerate Energy. When Sparks 'n' Splash is used, all party members will gain a 10% Pyro DMG Bonus for 25s.
 
 * Blazing Delight does not stack with itself.
-* Blazing Deligh can snapshot Klee's own Elemental Burst. 
+* Blazing Delight can snapshot Klee's own Elemental Burst. 
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Kaboom!" %}
@@ -219,8 +226,7 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 | Jumpy Dumpty DMG | 133.28% | 142.80% | 152.32% | 161.84% | 171.36% | 180.88% | 190.40% | 202.30% |
 | Mine DMG | 45.92% | 49.20% | 52.48% | 55.76% | 59.04% | 62.32% | 65.60% | 69.70% |
 
-**Mine Duration**: 15s
-
+**Mine Duration**: 15s  
 **Cooldown**: 20s
 {% endtab %}
 
@@ -229,20 +235,13 @@ While under the effects of Sparks 'n' Splash, other members of the party will co
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sparks 'n' Splash DMG | 59.70% | 63.96% | 68.22% | 72.49% | 76.75% | 81.02% | 85.28% | 90.61% |
 
-**Energy Cost**: 60
-
-**Duration**: 10s
-
+**Energy Cost**: 60  
+**Duration**: 10s  
 **Cooldown**: 15s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Klee)
-* [**Klee Mains Discord**](https://discord.gg/NwYDDrfKZU)
-
-**Evidence Vault:**
+## **Evidence Vault:**
 
 {% page-ref page="../../evidence/characters/pyro/klee.md" %}
 
