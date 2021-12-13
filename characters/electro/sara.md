@@ -83,6 +83,7 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 * **Tengu Juurai: Ambush** DMG is snapshot upon **Tengu Stormcall** cast.
 * Sara does not lose the effects of **Crowfeather Cover** if swapped off.
 * **Crowfeather** does not stick to walls; it sticks to the closest walkable surface from the point of collision.
+* A fully-charged aimed shot fired with **Crowfeather Cover** will disappear after 2 seconds in flight.
 * **Crowfeather** triggers **Tengu Juurai: Ambush** 1.5s after landing.
 * **Crowfeather** has a "semi-taunt" mechanic, where it can draw enemy attention even while not in combat mode.
 * The hitbox to gain an ATK buff from **Tengu Juurai: Ambush** is massive vertically.

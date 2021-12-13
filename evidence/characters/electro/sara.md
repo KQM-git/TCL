@@ -39,6 +39,7 @@ search: false
   * Ledge interaction - [NZPIEFACE#8439](https://youtu.be/OCs8Uf90g2o)
   * vs flying Ruin Hunter (feather falls down) - [BowTae#0141](https://imgur.com/qWpvMyw)
   * vs Eagle (feather stays at point of impact) - [BowTae#0141](https://imgur.com/nnqFwi6)
+* A fully-charged aim shot fired with Crowfeather Cover will disappear after 2 seconds - [NZPIEFACE\#8439](https://youtu.be/sUh6UEWiIU4)
 * Crowfeather explodes 1.5s after landing. - NZPIEFACE#8439
   * [Crowfeather deployed far away](https://www.youtube.com/watch?v=P3d1b3BEC8Q) 
   * [Crowfeather deployed close by](https://www.youtube.com/watch?v=beYnlB88Jek)
