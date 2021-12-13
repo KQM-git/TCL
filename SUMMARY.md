@@ -132,6 +132,7 @@
 * [Movement and Physics](general-mechanics/movement-and-physics.md)
 * [Miscellaneous Entries](general-mechanics/miscellaneous-entries.md)
 * [Overworld](general-mechanics/overworld.md)
+* [Resources & Efficiency](general-mechanics/resources-and-efficiency.md)
 
 ## Resources
 
@@ -354,3 +355,4 @@
     * [Movement and Physics](evidence/general-mechanics/movement-and-physics.md)
       * [Miscellaneous Entries](evidence/general-mechanics/miscellaneous-entries.md)
       * [Overworld](evidence/general-mechanics/overworld.md)
+      * [Resources & Efficiency](evidence/general-mechanics/resources-and-efficiency.md)
