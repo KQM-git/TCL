@@ -87,14 +87,14 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | GU | 1U | 1A |
 | ICD | None | None |
 | Snapshot? | Snapshot | Snapshot |
-| DMG Element | Anemo | Infused Element |
+| DMG Element | Anemo | Absorbed Element |
 | DMG Type | Burst | Burst |
 | Energy Cost | 80 | - |
 | Duration | 6s | - |
 | Cooldown | 20s | - |
 
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
-* Infusion priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo  
 
 {% endtab %}
 {% endtabs %}

@@ -98,7 +98,7 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 | Damage Element | Anemo |
 | Damage Type | Plunge |
 
-* Infusion priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo  
 
 {% endtab %}
 
@@ -115,13 +115,13 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 | GU | 2U | 1U | 1A |
 | ICD | None | None | None |
 | Snapshot | Snapshot | Snapshot | Snapshot |
-| Damage Element | Anemo | Anemo | Infused Element |
+| Damage Element | Anemo | Anemo | Absorbed Element |
 | Damage Type | Burst | Burst | Burst |
 | Energy Cost | 60 | - | - |
 | Duration | 8s | - | - |
 | CD | 15s | - | - |
 
-* Infusion priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo  
 
 {% endtab %}
 {% endtabs %}
@@ -144,11 +144,11 @@ If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **
 | :--- | :--- |
 | Skill DMG | 200% |
 | GU | 1A |
-| Damage Element | Infused Element |
+| Damage Element | Absorbed Element |
 | Damage Type | Plunge |
 
 * The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl. 
-* Infusion priority: Pyro > Hydro > Electro > Cryo   
+* Absorption priority: Pyro > Hydro > Electro > Cryo   
 {% endtab %}
 
 {% tab title="Ascension 4" %}

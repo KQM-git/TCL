@@ -34,7 +34,7 @@ The overworld map is split into multiple zones that affect enemy level and envir
 
 ### Rain  
 
-- Overworld rain applies hydro with an ICD of 0.5 seconds, and a strength of 10 durability per tick, up to a max of 50. The duration of hydro aura applied by rain is currently unknown.  
+- Overworld rain applies hydro with an ICD of 0.5 seconds, and a strength of 10 durability per tick, up to a max of 30. The duration of hydro aura applied by rain is currently unknown.  
 - It is unknown if normal rain and thunderstorm rain have the same properties.  
 
 ### Electrified  
@@ -97,4 +97,4 @@ The current world state & character position is saved between different world ma
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/fluff/overworld.md" %}
+{% page-ref page="../evidence/general-mechanics/overworld.md" %}

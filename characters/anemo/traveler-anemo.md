@@ -117,10 +117,10 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |
 | Damage Element | Anemo | Anemo |
-| Absorption Element | ~ | Infused Element |
+| Absorption Element | ~ | Absorbed Element |
 | Damage Type | Skill | Skill |
 | CD | 5s | 5s / 8s |
-* Infusion priority: Cryo > Pyro > Hydro > Electro
+* Absorption priority: Cryo > Pyro > Hydro > Electro
 * When held beyond the first two Cutting DMG hits, the skill's damage, particle generation, and cooldown are all increased.
 {% endtab %}
 
@@ -138,12 +138,12 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | GU | 1U | 2B | 
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |
-| Damage Element | Anemo | Infused Element |
+| Damage Element | Anemo | Absorbed Element |
 | Damage Type | Burst | Burst |
 | Energy Cost | 60 | - |
 | Duration | 6s | - |
 | Cooldown | 15s | - |
-* Infusion priority: Cryo > Pyro > Hydro > Electro  
+* Absorption priority: Cryo > Pyro > Hydro > Electro  
 
 {% endtab %}
 {% endtabs %}

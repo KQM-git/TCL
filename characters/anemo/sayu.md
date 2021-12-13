@@ -76,7 +76,7 @@ Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's re
 | ICD | 3 hit / 2.5s | - |
 | Snapshot | Snapshot |
 | Damage Element | Anemo | - |
-| Damage Absorption | - | Infused Element |
+| Damage Absorption | - | Absorbed Element |
 | Damage Type | Skill | Skill |
 | Max Duration | - | 10s |
 | CD | 6s | 6s~11s |
