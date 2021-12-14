@@ -471,6 +471,24 @@ Summary post with multiple videos here [https://imgur.com/a/RnevAeW](https://img
 **Significance:**  
 Attacks are not equal in terms player-environment interaction. Most skills can never harvest nor shake tress; some can shake trees, others can harvest directly, while others can harvest indirectly via Overloading burning grass. Most importantly for combat, damage sources appear to be treated differently depending on the character, attack, and reaction source. Overloading via E to harvest a marked tree works for Razor and Beidou, but not Xiangling or Fischl's elemental arrow. Overload seems to work on burning grass but not self-overloads. Dealing phys damage with Xinyan harvests using a Normal Attack, but only shakes during her Burst. More broadly, the game appears to be conserving resources by limiting the player's kit unless certain enabling actions are taken. After enabling these attacks, the game shuts them down after a short window. Enemies appear to be permanently enabled for all attacks, but the player must fight enemies within a specific area, otherwise they will teleport back and reset.
 
+### Missed Attacks Still Mark Trees For Unholy Harvesting
+
+**By:** Aluminum\#5462  
+**Added:** 12/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903482500876210186/919141033718202388/transcript-trees-are-pepega.html)  
+
+**Finding:**  
+Missed attacks on trees due to a [bug](https://imgur.com/AiGbPmU) still mark the tree for unholy harvesting methods.  
+
+**Evidence:**  
+Xingqiu N1 \(miss\) into Xingqiu Skill: [YouTube](https://youtu.be/LInYdyJllms)  
+Qiqi N1 \(miss\) into Tartaglia Skill and Attacks: [YouTube](https://youtu.be/wf9qAnnBaFg)  
+Version 2.3 Bennett N1 \(whiff\) into Tartaglia Skill and Attacks: [Imgur](https://imgur.com/eKKGUnu)  
+* In Version 2.3, Mihoyo issued a supposed fix for the whiffed attacks on trees, as noted in their [patch notes](https://genshin.mihoyo.com/en/news/detail/17278). However, this issue can still sometimes occur post-patch, enabling this trick.  
+
+**Significance:**  
+I am the Lorax. I speak for the trees.  
+
 ### Lumberjack Tier List
 
 **Contributors:** Aluminum\#5462, Green sabre\#0540, Kourinn\#6001, mol\#3280, Steph\#3614, JenjenJL\#6582, Greyhound\#7836  

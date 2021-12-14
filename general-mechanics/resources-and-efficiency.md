@@ -147,11 +147,10 @@ The game can only remember the 10 most recently-struck trees at a time. After th
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
 
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
-* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
-* Marks last a very short time
+* All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark.
+* Marks last a very short time.
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload. 
-
-
+* Melee normal attacks can sometimes whiff on a tree. This still marks the tree and enables harvesting via Elemental Skill.
 
 ## **Evidence Vault:**
 
