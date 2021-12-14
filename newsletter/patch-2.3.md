@@ -24,14 +24,14 @@ description: 'Eula & Albedo Banners ft. Bennett, Noelle and Rosaria'
 *Now include an improved format with comprehensive frame, gauge and ICD data on all skills.*
 * Enemy Database (by Greyhound\#7836)  
 *Our new enemy database contains detailed information for each enemy type, including HP energy drop thresholds, shield strengths, resistances, and attack descriptions.*
-  * [Abyss Order](../enemy-data/abyss-order.md)
-  * [Automatons](../enemy-data/automatons.md)
-  * [Bosses](../enemy-data/bosses.md)
-  * [Elementals](../enemy-data/elementals.md)
-  * [Hilichurls](../enemy-data/hilichurls.md)
-  * [Humans](../enemy-data/humans.md)
-  * [Mystical Beasts](../enemy-data/mystical-beasts.md)
-* [Compendiums](../resources/compendiums.md)  
+  * [Abyss Order](../enemy-data/abyss-order)
+  * [Automatons](../enemy-data/automatons)
+  * [Bosses](../enemy-data/bosses)
+  * [Elementals](../enemy-data/elementals)
+  * [Hilichurls](../enemy-data/hilichurls)
+  * [Humans](../enemy-data/humans)
+  * [Mystical Beasts](../enemy-data/mystical-beasts)
+* [Compendiums](../resources/compendiums)  
 *Updated existing database resources and are now hosted on the TCL.*
   * [Elemental Skill Particles](../resources/compendiums/elemental-skill-particles.md)
   * [Elemental Gauge Database](../resources/compendiums/elemental-gauges.md)
