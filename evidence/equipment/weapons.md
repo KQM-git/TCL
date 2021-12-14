@@ -522,6 +522,21 @@ Grasscutter + 4ESF have better synergy.
 
 [Video](https://www.youtube.com/watch?v=bTZT57tyBp4)  
 
+#### Hakushin Ring Doesn't Trigger Off Field
+
+**By:** Greyhound\#7836 and Terrapin\#8603
+**Added:** 12/13/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/910093336277299200/919278115103076412/transcript-hakushin-ring-bad-keep-mask.html)  
+
+**Finding:**  
+Hakushin Ring doesn't trigger off field.  
+
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=FN2mHelcLX0)  
+
+**Significance:**  
+Bad uptime.  
+
 ### Kitain Cross Spear  
 
 #### Kitain Spear energy drain delay

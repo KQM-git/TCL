@@ -289,8 +289,9 @@
 | Sakura Saiguu | After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **10/12.5/15/17.5/20**% Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked. |
 | Base ATK | 44 - 565 |
 | ER% | 6.7 - 30.6% |  
-* Crytallize, Swirl and Swirl chain reactions work for the effect.  
-* Buff does not get refreshed.  
+* Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
+* Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#gaining-a-new-buff-does-not-refresh-duration)
+* Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md\#hakushin-ring-doesnt-trigger-off-field)
 {% endtab %}
 
 {% tab title="Details" %}
