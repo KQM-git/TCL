@@ -28,6 +28,26 @@ There will always be those who dare to brave Anemo MC's blender of numbers.
 
 ## Burst Mechanics
 
+### Anemo MC's Burst Absorption is 2B
+
+**By:** Kourinn\#6001
+
+**Added:** 13/12/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912926771412869150/919900426554454083/transcript-anemo-traveler-q-2b.html)
+
+**Finding:** Anemo MC's Burst is 1U Anemo, but the absorption is 2B.
+
+**Evidence:** 
+* With delayed absorption, the last absorption element application matches expected aura duration for 2B absorption with 1U anemo:
+  * [2B Absorption](https://youtu.be/yh4dH0WbA6A)
+* With 1A type decay transfer and immediate absorption, the last absorption element application matches expected aura duration for 2U absorption: 
+  * [2B Absorption with 1A Decay](https://youtu.be/2MtlaOVx904)
+
+**Significance:** The increased absorption gauge may be useful for:
+* Shield breaking when able to absorb a counter element.
+* Increased freeze duration otherwise unavailable due to the rarity of 2B hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
+
 ### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 
 **By:** Tsym\#2586  
