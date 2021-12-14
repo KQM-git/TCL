@@ -44,6 +44,31 @@ search: false
 
 ### Constellation mechanics
 
+#### C4: Fickle Cloudstrike
+
+##### Electro MC's C4 Mechanics
+
+**By** pai\#3602
+
+**Added** 12/13/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917962903783612428/919799543904751666/transcript-emc-c4.html)
+
+**Findings:** If an Amulet made by EMC's Elemental Skill is absorbed while the active character is below 35% Burst Charge, EMC's C4 (which doubles the flat energy given by an Amulet) will apply regardless of if the final energy gained exceeds said threshold.
+* Assuming a T7 Elemental Skill which gives 4 flat energy at base:
+  * For 40-cost Bursts: 40 * 0.35/8=1.75 which rounds up to 2 Amulets, meaning two out of three Amulets is absorbed before the 35% threshold, resulting in 20 energy restored.
+  * For 60-cost Bursts: 60 * 0.35/8=2.625 which rounds up to 3 Amulets, so all three Amulets are absorbed before the 35% threshold, resulting in 24 energy restored.
+
+**Evidence:** The white box marks the edges of the Burst Icon, the scale (shown in purple) was made by catching 4 non-matching Elemental Particles, each line recording how much energy was gained. The blue line marks the 35% threshold of the Burst.
+
+The final amount of energy the characters have is from 3 Amulets and 1 off-field non-matching Elemental Particle in a 2 character team. It shows the 40-cost Burst has between 20 and 24 Energy (20 from Amulets and 0.8 from the additional particle) and the 60-cost Burst has between 24 and 28 energy (24+0.8=24.8), which proves the theory to be correct.
+
+ * [Video that has all the frames used](https://youtu.be/YQvcag6h2og)
+ * [40-cost Burst](https://imgur.com/a/fWT0tNl)
+ * [60-cost Burst](https://imgur.com/a/Va2TFyf)
+
+**Significance:** To better understand how energy works in EMC's kit, which is essential for energy calcs.
+
 #### C6: World-Shaker
 
 * Electro traveller's C6 is a multiplicative buff - [Kgbeast#6738](https://www.youtube.com/watch?v=nAViwIGqCOU)
