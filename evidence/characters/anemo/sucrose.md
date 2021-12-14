@@ -42,6 +42,23 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 One more reason to get Sucrose out in the field more often, at least for this use case
 
+## Elemental Skill Mechanics
+
+### Sucrose's Particles spawn on the direction she's facing
+
+**By:** Bobrokrot\#0111
+
+**Added:** 13/12/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918183951598759957/919808593459560488/transcript-sucrose-particle-tech.html)
+
+**Findings:** Particles of Sucrose's Elemental Skill are created where Sucrose is facing (instead of the enemy location) if you dash cancel her E animation.
+
+**Evidence:** https://youtu.be/b7m-RKf2C3I
+
+**Significance:** This makes it possible/easier to pre-funnel Xiao with a sequence of Sucrose's E followed by Xiao's two Es. 
+* [Example](https://youtu.be/nDoUaa5ksME)
+
 ## Ascension Mechanics  
 
 ### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  

@@ -62,6 +62,8 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
+* When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
+
 | Attribute | Skill |
 | :--- | :--- |
 | Skill DMG \(T6%\) | 295.68% |
