@@ -128,6 +128,29 @@ Childe C4, while in Benny Q and off-field: 323 in field, 119 off field
 **Significance:**   
 Many of Childe’s comps revolve around using Bennet as a healer. Being aware of whether his riptide effects snapshot or not can affect how you play him. It also keeps the consistent theory that all “mark” abilities do not snapshot.
 
+### Aimed Shot Riptide Slash
+
+**By:** MidnightMax.Thai\#7849, GottaGoFast\#7876, and BowTae\#0141  
+**Added:** 12/13/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/916458832723574835/920135102216958032/transcript-childe-phys-shot-riptide-mark.html)
+
+**Finding:**  
+Tartaglia can apply Riptide and trigger Riptide Slash with his Aimed Shot (AS), both Physical and Hydro, by firing an AS and switching to melee stance before the arrow hits an enemy.  
+
+**Evidence:**  
+* [Initial discovery](https://youtu.be/wdSSGM_H4wQ)
+* Works for both [standing Skill](https://imgur.com/goOZ58a) and [moving Skill](https://imgur.com/amzhvQU) activation.
+  * Also note that Riptide Slash counts as Skill damage and can trigger Sacrificial Bow effect.
+* Works using Hydro AS, as you can see Riptide Slash damage: [Imgur](https://imgur.com/b6X1BQs)
+* Using Hydro AS E on an enemy already affected by Riptide will trigger both Slash and Flash: [Imgur](https://imgur.com/1NP2oX8)
+* This tech can be done at close range using animation cancel techniques: [Imgur](https://imgur.com/Vrf2HYm)
+* If you switch from melee stance back to bow stance before the arrow hits, this tech does not occur.
+  * [Hydro AS E at long range](https://imgur.com/k3Z94mT) - Riptide Slash triggers
+  * [Hydro AS E E at long range](https://imgur.com/C9Mb1hO) - Riptide Slash does not trigger
+
+**Significance:**  
+Can be used to apply Riptide and Hydro onto to ranged enemies very quickly, which has uses in speedrunning.
+
 ## Interactions/Synergies
 
 ### **Chongyun C2 E field affects Childe’s melee stance cooldown**
