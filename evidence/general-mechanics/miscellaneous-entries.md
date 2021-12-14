@@ -9,6 +9,20 @@ description: For entries that have little practical use.
 
 {% page-ref page="../../general-mechanics/miscellaneous-entries.md" %}
 
+## Fruit can stick to ground when left unattended
+
+**By:** vinsette\#0293
+
+**Added:** 12/13/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918035789865156618/919908365172363385/transcript-fruit-changes-on-hitting-ground.html)
+
+**Finding:** Fruit can be affected by Anemo suction as long as it doesn't stay on the ground for too long. Once they have been on the ground for a certain amount of time, nothing will affect it anymore. You can also indefinitely keep fruit in the air with enough Anemo skills, and **even import Mondstadt fruit into Liyue**.
+
+**Evidences:** [Fruit juggle](https://imgur.com/a/FKJoulw)
+
+**Significance:** Don't let your food touch the ground. Also allows for entertainment via juggling when out of content.
+
 ## Ded Bird
 
 **By:** Aluminum\#5462, Mcpie\#8672, mol\#3280, JenjenJL\#6582, Kgbeast\#6738, wiremash\#0433  
