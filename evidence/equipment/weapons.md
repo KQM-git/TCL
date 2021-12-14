@@ -641,6 +641,38 @@ Damage calculation
 [Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
 [Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)  
 
+### Polar Star
+
+#### Polar Star has ICD Across Independent Stacks
+
+**By:** Cenpi\#3224 and Kyarumi\#0002  
+**Added:** 12/13/2021   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/915808783383556117/919058132649525278/transcript-polar-star-icd.html)  
+
+**Finding:**  
+Polar Star has an ICD across independent stacks.  
+
+**Evidence:**  
+In trying to do Childe nukes with an R5 Polar Star, I've come across a situation in which trying to stack Polar Star too quickly will result in decreased damage from what should normally be the case.  
+
+[PS 3 Stacks \(Successful\)](https://youtu.be/ZmXHyNbn9B0)  
+* The video above shows what happens if polar star stacks are spaced apart from each other, resulting in a 967k nuke.
+
+[PS 3 Stacks \(Unsuccessful, only 2 stacks\)](https://youtu.be/R3lTNnsC4aY)  
+* The video above shows what happens when the NA and CA stacks are too close together, resulting in a 925k burst which is accurate with the loss of 20% atk which is 1 stack of Polar Star.
+
+[PS 3 Stacks \(Unsuccessful, only 2 stacks\) Pt. 2](https://youtu.be/7VLIAtIqdgk)  
+* This video shows what happens when CA and E stacks are too close together, again resulting in a 925k burst.
+
+[PS 2 Stacks \(Control Test\)](https://youtu.be/w88pdGH6dr4)  
+* This video shows only 2 stacks (NA and E, no CA) which results in 925k burst
+
+[PS 3 Stacks \(Successful\) Pt. 2](https://youtu.be/9EKrLLnvaD0)  
+* Additional evidence of spacing apart polar star giving the maximum amount of damage.
+
+**Significance:**  
+When using Polar Star, attacks unfortunately need to be spaced in order to properly obtain stacks and gain the ATK% bonuses.  
+
 ### Primordial Jade-Winged Spear
 
 #### **PJWS On Hit Definition**

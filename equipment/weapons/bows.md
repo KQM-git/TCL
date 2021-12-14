@@ -73,6 +73,7 @@
 | Base ATK | 46 - 608 |
 | CR% | 7.2% - 3.1% |
 
+* **Polar Star** has an ICD for gaining independent stacks - [Cenpi\#3224 and Kyarumi\#0002](../../evidence/equipment/weapons.md\#polar-star-has-icd-across-independent-stacks)
 {% endtab %}
 
 {% tab title="Details" %}
