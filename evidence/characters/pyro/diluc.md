@@ -6,6 +6,8 @@ search: false
 
 **Main Page:**
 
+{% page-ref page="../../../characters/pyro/diluc.md" %}
+
 ## **Skill Mechanics**
 ### Searing Onslaught Extension via Freeze
 
@@ -72,3 +74,25 @@ Their combo instead has them start the NA animation then cancel it with E, so it
 
 **Significance:**  
 Better Diluc rotation.
+
+## Ascension Mechanics
+
+### A4: Blessing of the Phoenix
+
+#### Diluc Burst Damage Benefits from A4
+
+**By:** elijam\#7142  
+**Added:** 12/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917975114987999382/919073580216643584/transcript-diluc-burst-benefits-from-a4.html)  
+
+**Finding:**  
+Diluc's Burst damage will benefit from his A4 talent, Blessing of the Phoenix, which grants Pyro DMG% for the duration of the Pyro infusion granted by his Burst.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/kgvoO5fdECw)
+* Diluc has 443 Attack, Level 8 Dawn has 326.40% Slashing Damage
+* `326.40 * 443 * (1 + .5) * (1 + .2) * .9 * (81 + 100)/(85 + 100 + 81 + 100) = 1158`
+* Damage in game = 1159, which is within rounding error.
+
+**Significance:**  
+More damage for Diloog.  

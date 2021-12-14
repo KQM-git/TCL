@@ -128,6 +128,7 @@ Diluc's Charged Attack stamina cost is decreased by 50%, and its duration is inc
 #### Blessing of the Phoenix
 
 The Pyro Infusion granted by Dawn lasts 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus for duration of the effect.
+* The Pyro DMG Bonus is also applied to **Dawn**'s Slashing, DoT, and Explosion DMG.
 {% endtab %}
 {% endtabs %}
 
