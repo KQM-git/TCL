@@ -62,7 +62,7 @@ description: 'Eula & Albedo Banners ft. Bennett, Noelle and Rosaria'
 | | [Narukami Shrine Fortune Slip Probabilities](../evidence/general-mechanics/miscellaneous-entries.md#narukami-shrine-fortune-slip-probabilities) | mmjacobs\#9588 |
 | | [Liyue Zone Levels](../evidence/general-mechanics/overworld.md#liyue) | Vladone ツ\#9281 |
 | | [Inazuma Zone Levels](../evidence/general-mechanics/overworld.md#inazuma) | deaf\#0246 |
-| | [Kindling Arrows Interaction with Amos' Bow](../evidence/characters/yoimiya.md#kindling-arrows-interaction-with-amos-bow) | Ayzel\#7399 |
+| | [Kindling Arrows Interaction with Amos' Bow](../evidence/characters/pyro/yoimiya.md#kindling-arrows-interaction-with-amos-bow) | Ayzel\#7399 |
 | | [Weapon Banner Gacha Rates with Epitomized Path](../evidence/general-mechanics/gacha.md#weapon-banner-gacha-rates-with-epitomized-path) | Tim\#5259, Mcpie\#8672 |
 | November 12 | [Fountain Water Cannot Cause Electrified](../evidence/general-mechanics/overworld.md#fountain-water-cannot-cause-electrified) | Sayline\#5959 |
 | | [Keqing A4 Buff Duration](../evidence/characters/electro/keqing.md#a4-crit-rate-and-er-buff-duration) | r.rei\#2844 |
