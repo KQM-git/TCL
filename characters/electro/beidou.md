@@ -219,6 +219,8 @@ Increases the Level of **Stormbreaker** by 3.
 ### Bane of Evil
 
 During the duration of **Stormbreaker**, the Electro RES of surrounding opponents is decreased by 15%.
+
+* The range of this effect is extremely short at just over 1 abyss tile of range.
 {% endtab %}
 {% endtabs %}
 

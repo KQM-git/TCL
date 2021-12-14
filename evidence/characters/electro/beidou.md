@@ -173,6 +173,23 @@ Beidou's C4 is actually on hit, not damage. It does activate when you get hit bu
 **Significance:**  
 C4 pretty good
 
+### C6: Bane of Evil
+
+#### Beidou's C6 range is extremely short
+
+**By:** Steno\#0119
+
+**Added:** 13/12/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918004028200321025/919814190762455050/transcript-beidou-c6-range.html)
+
+**Findings:** Beidou's C6 range is extremely short, shredding the Electro RES of enemies within just over 1 abyss tile of range.
+
+**Evidence:** The damage dealt without the C6 RES shred is 272, and the damage dealt with RES shred is 310.
+* [Beidou C6 Shred by Steno#0119](https://www.youtube.com/watch?v=p5jddxq8lc4)
+
+**Significance:** Beidou's C6 is not as powerful as it seems.
+
 ## Interactions/Synergies
 
 ### Serpent Spine Interactions with Beidou
