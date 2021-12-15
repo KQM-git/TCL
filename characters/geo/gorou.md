@@ -93,17 +93,17 @@ If a **General's War Banner** created by Gorou currently exists on the field whe
 If Gorou falls, the effects of **General's Glory** will be cleared.
 
 | Attribute | Burst | Crystal Collapse | 
-| :--- | :--- |
+| :--- | :--- | :--- |
 | Skill DMG \(T6%\) | 137.5% DEF | 85.82% DEF | 
-| Frames | - |
-| GU | - |
-| ICD | - | 
-| Snapshot | - | 
-| Damage Element | Geo | 
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| Duration | 9s |
-| CD | 20s |
+| Frames | - | - |
+| GU | - | - |
+| ICD | - | - | 
+| Snapshot | - | - | 
+| Damage Element | Geo | - | 
+| Damage Type | Burst | - |
+| Energy Cost | 80 | - |
+| Duration | 9s | - |
+| CD | 20s | - |
 
 {% endtab %}
 {% endtabs %}

@@ -86,7 +86,7 @@ Mona dashes backwards before placing a **Phantom of Fate** down.
 * Mona's Holding version of **Mirror Reflection of Doom** has invincibility frames that can be utilized for dodging.
 
 | Attribute | DoT | Explosion |
-| :--- | :--- |
+| :--- | :--- | :--- 
 | Skill DMG \(T6%\) | 44.8% | 185.92% |
 | Tick Rate | 1/s | - |
 | Particles | - |  3~4 \(2:1\) |
