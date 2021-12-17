@@ -95,7 +95,9 @@ As there was only a single reaction, unlike the expected two Swirls if Sucrose's
 
 ## Ascension Mechanics  
 
-### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  
+### A1: Catalyst Conversion
+
+#### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  
 
 **By:** Katsune\#4691  
 **Added:** 17/10/2021  
@@ -111,7 +113,7 @@ Sucrose's A1 talent, Catalyst Conversion, does not proc on Swirling Guoba or env
 **Significance:**  
 For double swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennett/XL/Childe), Sucrose's A1 talent will not benefit Xiangling unless you swirl pyro off of the enemy.
 
-### Sucrose's EM share on multiswirl is dynamic  
+#### Sucrose's EM share on multiswirl is dynamic  
 
 **By:** Rainfury\#8343  
 **Added:** 16/10/2021  
@@ -128,7 +130,7 @@ In the video, Yanfei has 0 EM while Sucrose has 525 EM. If Sucrose's EM share is
 **Significance:**  
 More flexible rotations and Sucrose does not need to be buffed before using her Q.
 
-### Sucrose passives off-field triggering
+#### Sucrose passives off-field triggering
 
 **By:** Sayline#5959  
 **Added:** 08/30/2021  
@@ -140,7 +142,57 @@ Sucrose's A1 passive, A4 passive, and C6 effect can be triggered even when she i
 **Evidence:** [Youtube](https://youtu.be/Fl3j9rp0N90)
 
 **Significance:**  
-More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.
+More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*element you want to buff*] -> N1 Sucrose without fear of losing her A1, A4 and C6 buffs, while allowing you to squeeze in a VV shred. For non-VV support Sucrose, this lessens her field time even further, since you can EQ Sucrose -> [*element you want to buff*] and continue with the rest of your rotations without having to imbue element first before Sucrose moves.  
+
+#### A1 Triggers on Chain Reaction Swirls
+
+**By:** NZPIEFACE\#8439  
+**Added:** 12/16/2021   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917957994048782336/919114773902290964/transcript-sucrose-a1-trigger-mechanics.html)  
+
+**Finding:**  
+Sucrose A1 triggers on chain reaction Swirls.  
+
+**Evidence:**  
+Sucrose has 915 EM with VV. Optimiser gave me 916.  
+Xiangling has 96 EM from ascension. She has lvl 9 Guoba and lvl 1 1* polearm.  
+* Calculated damages using Genshin Optimizer: [Google Doc](https://docs.google.com/spreadsheets/d/1MG6BYWBDJLZB5gxhiTa6fCs8AbQO-WEZIfu7F9dipmY/edit?usp=sharing)  
+
+Reference videos for damage:
+* [Guoba attack on Anemo Cube](https://youtu.be/gkxR9K5sLJE)
+* [Sucrose A4, Guoba attack on Anemo Cube](https://youtu.be/YbAdoc8jTsg)
+
+[Sucrose Guoba Swirl on Anemo Cube](https://youtu.be/3KYJfKK-Puw)  
+Mapping the damage numbers in this video to the calculated numbers:
+* First Sucrose E: PUT THIS IN CODE BLOCK FOR ACTUAL PR, i don't feel like typing \`\`\` here
+  * 5174 - Sucrose Swirl
+  * 6612 - Sucrose Swirl with VV
+  * 244 - Guoba with VV
+  * 1552 - Xiangling Swirl from Guoba with Sucrose A1 and VV
+* Second Sucrose E:
+  * 7043 - Sucrose Swirl with Xiangling C1 and VV
+  * 2582 - Xiangling Swirl from Guoba with Sucrose A1 A4, Xiangling C1, and VV
+  * 260 - Guoba with Xiangling C1 and VV
+
+This shows that A1 was triggered from the second Swirl from Sucrose (where the Guoba Swirl applied Pyro to the Anemo Hypostasis, causing another Swirl reaction). This is a chain reaction. This also shows that A4 is delayed for some reason. Probably ping.  
+ 
+**Significance:**  
+Sucrose can utilize her A1 buff even when Swirling off of objects, as long as there is an enemy with an Anemo aura nearby.  
+
+#### Swirls Caused By Absorbed Element in Burst Can Trigger A1
+
+**By:** NZPIEFACE\#8439  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917957994048782336/919114773902290964/transcript-sucrose-a1-trigger-mechanics.html)  
+
+**Finding:**  
+Swirls caused by the absorbed element in Sucrose's Burst can trigger her A1.  
+
+**Evidence:**  
+Infusing Sucrose Burst with Beidou hold Skill vs Anemo Cube: [YouTube](https://youtu.be/iwmDccAyoVA)  
+
+**Significance:**  
+When will we get more Anemo auras on enemies...  
 
 ### A4: Mollis Favonius
 
