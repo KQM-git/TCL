@@ -4,7 +4,9 @@ search: false
 
 # Poise
 
-{% page-ref page="../../evidence/combat-mechanics/poise.md" %}
+**Main Page:**  
+
+{% page-ref page="../../combat-mechanics/poise.md" %}  
 
 ## A Deep Dive into Genshin's Stagger Mechanics
 

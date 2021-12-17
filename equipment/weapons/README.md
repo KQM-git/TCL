@@ -18,5 +18,5 @@ Weapons can be refined by combining a weapon with one of the same type. This inc
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+{% page-ref page="../../evidence/equipment/weapons.md" %}
 

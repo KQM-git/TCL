@@ -4,7 +4,9 @@ search: false
 
 # Snapshot and Dynamic
 
-{% page-ref page="../../evidence/combat-mechanics/snapshot-and-dynamic.md" %}
+**Main Page:**  
+
+{% page-ref page="../../combat-mechanics/snapshot-and-dynamic.md" %}  
 
 ## Summons are Not Dynamic and Snapshot on Cast
 

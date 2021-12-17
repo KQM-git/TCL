@@ -21,4 +21,4 @@ You could check the evidence vault regarding Parametric Transformer for more det
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/equipment/gadgets/parametric-transformer.md" %}
+{% page-ref page="../../evidence/equipment/gadgets/parametric-transformer.md" %}

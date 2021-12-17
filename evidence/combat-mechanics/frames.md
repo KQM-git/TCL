@@ -4,7 +4,9 @@ search: false
 
 # Frames
 
-{% page-ref page="../../evidence/combat-mechanics/frames.md" %}
+**Main Page:**  
+
+{% page-ref page="../../combat-mechanics/frames.md" %}  
 
 ## Hitlag Extension
 

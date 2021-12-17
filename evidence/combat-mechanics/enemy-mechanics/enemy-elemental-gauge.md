@@ -4,7 +4,9 @@ search: false
 
 # Enemy Elemental Gauge
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md" %}
+**Main Page:**
+
+{% page-ref page="../../../combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md" %}
 
 ## Elemental Aura Application and Gauge Values of Enemies
 

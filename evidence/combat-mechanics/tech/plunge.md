@@ -4,6 +4,10 @@ search: false
 
 # Plunge tech
 
+**Main Page:**  
+
+{% page-ref page="../../../combat-mechanics/tech/plunge-tech.md" %}
+
 ## Dash-Jump-Plunge  
 
 **By:** Hatsuharufag#4291  

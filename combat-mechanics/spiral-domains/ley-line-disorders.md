@@ -46,5 +46,5 @@ Other auras applied to your characters beforehand are removed entirely and do no
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/mechanics/combat/ley-line-disorders.md" %}
+{% page-ref page="../../evidence/combat-mechanics/spiral-domains/ley-line-disorders.md" %}
 

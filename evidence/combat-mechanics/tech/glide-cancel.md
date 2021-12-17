@@ -4,7 +4,11 @@ search: false
 
 # Glide Cancel
 
-## Wave Dashing
+**Main Page:**  
+
+{% page-ref page="../../../combat-mechanics/tech/glide-cancel.md" %}
+
+## Wavedashing
 
 **By:** BowTae#0141  
 **Added:** 09/14/2021  
@@ -14,6 +18,7 @@ search: false
 While in a wind current (such as Venti hold skill), you can jump, glide, and land instantly.  
 This is done by jumping, then pressing jump again exactly 4 frames later at 60 fps, or 2 frames later at 30 fps (not sure but I tried counting how many frames the jump took).  
 Has worked with every character I've tried so far, but there may be examples where this doesn't work.
+Can be known as glide cancel, wave dash, or wavedash.
 
 **Evidence:**  
 I found this technique through this video: [Bilibili Video](https://www.bilibili.com/video/BV1Cb4y1d7Kr?from=search&seid=9267604745435991278)
@@ -34,7 +39,7 @@ Amber examples as an amber main: [Imgur](https://imgur.com/6XJeJzU)
 **Significance:**  
 Could be used in teams with Venti to do extremely fast cancels without using stamina. Possibly consistent at 30 fps, but usability at 60fps is very questionable.
 
-## Geo construct Wave Dashing
+## Geo construct Wavedashing
 
 **By:** BowTae#0141  
 **Added:** 10/09/2021  

@@ -53,4 +53,4 @@ It is possible to jump in the window that occurs before a character switches. De
 
 ## Evidence Vault:  
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/plunge.md" %}  
+{% page-ref page="../../evidence/combat-mechanics/tech/plunge.md" %}  

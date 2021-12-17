@@ -4,7 +4,7 @@ search: false
 
 # Elemental Gauge Theory
 
-{% page-ref page="../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
+{% page-ref page="../combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
 
 ## **Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions**
 
@@ -374,7 +374,7 @@ I apply Strong Pyro then Overload with Weak Electro. That is an aura of 2GU, the
 
 In this video we see that the Pyro only lasted 4.55s, so the Electro reduced the timer by about 7.45s, not 6s as expected.
 
-This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). ~~You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.~~ This has been debunked by Aluminum#5462, check [Tax Evasion](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#tax-evasion) for more.
+This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). ~~You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.~~ This has been debunked by Aluminum#5462, check [Tax Evasion](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md#tax-evasion) for more.
 
 [https://imgur.com/UFttRz4](https://imgur.com/UFttRz4)
 
@@ -490,7 +490,7 @@ Reviewed/Edited by: IonFox, Doug
 **By:** Aluminum#5462  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851683689174925352/861402567899873320/transcript-tax-evasion.html)
 
-**Finding:** Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
+**Finding:** Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
 
 **Evidence:** Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
 

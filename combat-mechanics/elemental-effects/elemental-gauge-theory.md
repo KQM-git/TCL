@@ -219,7 +219,7 @@ These all have the ability to react with a slightly different ruleset from stand
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
 
-**Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
 

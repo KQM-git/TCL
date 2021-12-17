@@ -728,9 +728,9 @@ Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, 
 
 ## External Links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Claymores)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Claymores)
 
-**Evidence Vault:**
+## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+{% page-ref page="../../evidence/equipment/weapons.md" %}
 

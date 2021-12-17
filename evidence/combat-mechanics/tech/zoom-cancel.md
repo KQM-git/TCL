@@ -4,6 +4,8 @@ search: false
 
 # Zoom Cancel
 
+{% page-ref page="../../../combat-mechanics/tech/zoom-cancel.md" %}
+
 **By:** randomspades \#0956  
 **Added:** 04/18/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/815411615322341406/833576716701138984/transcript-elemental-burst-zoom-cancel.html)

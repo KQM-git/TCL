@@ -4,6 +4,10 @@ search: false
 
 # ARCC
 
+**Main Page:**  
+
+{% page-ref page="../../../combat-mechanics/tech/arcc.md" %}
+
 ## How to ARCC
 
 **By:** BowTae#0141  

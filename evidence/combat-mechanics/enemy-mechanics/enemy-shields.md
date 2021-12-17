@@ -4,7 +4,7 @@ search: false
 
 # Enemy Shields and Armor
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md" %}
+{% page-ref page="../../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md" %}
 
 ## Reaction Efficiency at Breaking Elemental Shields \(Translation\)
 

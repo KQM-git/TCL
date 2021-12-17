@@ -617,9 +617,9 @@
 
 ## External Links
 
-* [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Polearms)
+* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Polearms)
 
-**Evidence Vault:**
+## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/equipment/weapons.md" %}
+{% page-ref page="../../evidence/equipment/weapons.md" %}
 
