@@ -8,6 +8,44 @@ search: false
 
 {% page-ref page="../../general-mechanics/overworld.md" %}
 
+## Inazuma Artifact Spots
+
+**By:** Mcpie#8672  
+**Added:** 16/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868098829361229834/920808595594043402/transcript-inazuma-artifact-spots.html)
+
+**Finding:** There are currently 214 (+1 or +2) respawnable investigation spots that drop artifacts. 
+
+Pre 2.0:
+* Liyue (pre 2.0) - 48 spots.
+* Dragonspine - 7 spots.  
+
+2.0:
+* Liyue (added in 2.0) - 6 spots.
+* Inazuma non-Tatarasuna - 24 spots.
+* Tatarasuna - 24 spots.
+* Bake-danukis - 11 spots.
+* Cannons - 5 spots.
+* Conch spots on the beach - either 1 or 2 spots - rng based.  
+
+Patch 2.1 introduced 2 more islands. Each island has:
+* Seirai island: 44 spots.
+* Watatsumi island: 24 spots.
+* Bake-danukis - 6 spots.    
+
+Patch 2.2 introduced Tsurumi Island:
+* Moshiri Kara: 1 spot (north of Tsurumi Island).
+* Tsurumi Island: 14 spots.  
+
+Maps:
+* [Liyue + Dragonspine](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
+* [Inazuma + Bake-danukis](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
+* [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg) (by Miin from Hoyolab).  
+
+**Evidence:**
+Transcript of this entire ticket + spreadsheet displaying each spot with a screenshot and video for each spot: [Spreadsheet](https://docs.google.com/spreadsheets/d/1zDMPfY8SKR7mb-tASNedWmj62wJOnDbSsVVR17ykg6I)  
+Unfortunately we're unable to tell if we managed to cover all of the spots, but based on our research (from the transcript) we managed to gather 144 (+1/+2) investigation spots that drop artifacts.
+
 ## Cursed Terrain
 
 ### Electro Crystals have levels
@@ -109,8 +147,8 @@ Understanding the cursed overworld of Teyvat
 **By:** Greyhound\#7836, mol\#3280, deaf#0246  
 **Added:** 06/23/2021  
 **Updated:** 07/08/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873033114723696660/873532969355210752/transcript-overworld-entity-levels-revisited.html)
+[Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)  
+[Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873033114723696660/873532969355210752/transcript-overworld-entity-levels-revisited.html)
 
 **Finding:**  
 Overworld has levels for every "body", including water and grass and sand, trees, rocks, and other things that we can't prove in any other way other than the game's code which shows this, thus varying stats which is proven by their damage.
