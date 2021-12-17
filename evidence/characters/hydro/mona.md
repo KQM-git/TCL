@@ -337,6 +337,47 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 
 ### C1: Prophecy of Submersion
 
+#### **Mona C1 Snapshot for Vape**
+
+**By.** Tibo\#4309  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897587228799287327/912236506880557076/transcript-mona-c1-snapshot.html)
+
+**Finding:** Mona C1's snapshotting vape/swirl/EC (Theoryhunt).
+
+**Evidence:**
+
+Vape Evidence: (Xiangling Ult)
+* [Video](https://youtu.be/zJPZ2ZnuFQA?t=37) - Stats at start of video.
+* Still doing 1509 non crit vapes at end of ult (at 58.1s, C1 animation ended at around 55.8s).
+* [Calc](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1r0202aenemyLevel295dvaporize_dmg_21566801K0018TheCatchsJ0) -
+For reference, later in video tested without mona ult - 1333 vapes which matches calcs.
+
+Swirl Evidence: (Kazuha Slash)
+* [Video 1](https://youtu.be/bfC4LfiMSeQ) - Swapping with Kazuha
+* While Kazuha is onfield, swirl deals 1176 - while he's offield 1088.
+* Swapping back causes it to deal 1176 again, swapping back, again 1088.
+
+Staying on Kazuha
+* [Video 2](https://youtu.be/A3V0Vp3Jt08) - Doesn't snapshot, damage buff disappears (at 25s).
+* [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1y00231a1t142115hydro51c1y5sheet6talent1q2115hydro1aswirl_dmg_2157880aM001gSacrificialSwordzO0)
+
+EC Evidence: (Fischl's Oz)
+* [Video](https://youtu.be/WvJBUaJzBKg)
+* Summon Oz at 11s, does 1338 EC damage, Mona C1 disappears at 17s. Does 1163 EC at 20s.
+* Repeated test with Q Oz - same 1338 during C1/1163 after.
+* At 1 minute mark, switching on/off Fischl shows 1338 while on-field, 1163 while off-field.
+* [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1810006960aQ001eFavoniusWarbow9Ra)
+
+Frozen
+* Mona's C1 passive does not seem to work for freeze reactions. - [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=762498999&range=B111:S112)
+* All videos are linked in the sheet. An overview of the results is in another sheet tab here: [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=747486603&range=B10:S33)
+
+**Significance:** 
+* Mona C1's "Vaporize DMG Bonus" gets snapshotted on Xiangling's ult
+* Kazuha and Oz don't snapshot hydroswirl/EC, also requires to be onfield
+* Frozen doesn't seem to even work
+
 #### **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?**
 
 **By:** Curiously\#2324  
