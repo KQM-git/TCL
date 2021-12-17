@@ -59,6 +59,40 @@ One more reason to get Sucrose out in the field more often, at least for this us
 **Significance:** This makes it possible/easier to pre-funnel Xiao with a sequence of Sucrose's E followed by Xiao's two Es. 
 * [Example](https://youtu.be/nDoUaa5ksME)
 
+## Elemental Burst Mechanics
+
+### Sucrose Absorbed Dmg is simultaneous
+
+**By:** kxmndz\#4700  
+**Added:** 16/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904089904416436264/920907095434473512/transcript-sucrose-absorbed-damage-simultaneous-or-sequential.html)
+
+**Finding:** The damage from Anemo and the absorbed element in Sucrose's Burst ticks happen simultaneously. 
+
+**Evidence:**   
+VV/Swirl testing: [Video](https://youtu.be/88FnnTmL2Hg),
+[Stats](https://imgur.com/a/UXunncL)   
+An enemy was applied Pyro. Sucrose Burst was set up so it would absorb Pyro before its first tick.
+* The first tick of the Burst Swirled the enemy with the Pyro aura and dealth Anemo and Pyro damage to both.
+* The enemy with a Pyro aura was dealt 108 Pyro, 1031 Anemo, with 2262 Pyro Swirl.
+* The other enemy was dealth 241 Pyro (crit), 1031 Anemo, with 1770 Pyro Swirl. The non-crit damage would be 84 Pyro damage.  
+This shows that the VV shred from the Swirl damage of Swirl reactions was applied after all the talent damage from the Burst. The VV shred from the Swirl reaction itself is still applied to the single target before the talent damage.  
+
+This was inconclusive, and there were two theories:
+* Anemo and the absorbed element are simultaneous, and AoE Swirl damage comes after the rest of damage is dealt.(Meaning it is also after when debuffs from reactions are applied).
+* Anemo and the absorbed element are sequential instances of damage, but AoE Swirls creates new instances of damage that are calculated after all instances of talent damage are finished calculating(and reacting).  
+
+Raining Anemo Hypostasis Testing  
+* Sucrose can cause a Swirl reaction by applying Anemo to the Anemo Hypostasis while it is raining. [Some Proselytizer\#8340](https://youtu.be/L_dGJsQknwg) 
+* Barbara can cause a Swirl reaction by applying Hydro to the Anemo Hypostasis while it is raining. 
+[NZPIEFACE\#8439](https://youtu.be/81DIGtneP3c)
+* Sucrose's Burst that has absorbed Hydro causes a single Swirl reaction on the Anemo Hypostasis while it is raining. 
+[Some Proselytizer\#8340](https://youtu.be/AGLqrDXaD0A)
+
+As there was only a single reaction, unlike the expected two Swirls if Sucrose's Burst was sequential, there is a strong argument to say that the damage from the Anemo and the absorbed element in her Burst are simultaneous.
+
+**Significance:** We better understand Sucrose's kit and how attacks in general work.
+
 ## Ascension Mechanics  
 
 ### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  
