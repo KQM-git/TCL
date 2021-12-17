@@ -8,10 +8,11 @@ description: An disciplined mechanical swordsman.
 
 Doesn't seem to have the ability nor will to speak, but instead only seeks to communicate with crossed swords.
 It is said that this machine was made using the memories of the first-generation master of a certain sword school. However, it malfunctioned, lost control, and was ultimately discarded.
-Some sing that the machine's spirit still lingers in the place where its fate was ended. They also say that the vicious mask that serves as its guard was inspired by a famous oni from that era.
+Some sing that the machine's spirit still lingers in the place where its fate was ended. They also say that the vicious mask that serves as its guard was inspired by a famous oni from that era.  
+
 ## Weakspot Details
 
-None.
+Face.
 
 ## Energy drops
 
@@ -69,3 +70,7 @@ None.
   * Phantom: Teleports a short distance away, leaving a phantom in its original place. Both the Maguu Kenki and phantom attack consecutively.
   * Phantom: Enters a stance and charges, slashing rapidly around itself and dragging the player into its area of effect. The phantom appears close to the Maguu Kenki and slashes a larger area of effect. It may perform Dash in the process, making the phantom stay in place.
   * Phantom: Slashes three times, following the player's current location, while the summoned phantom follows closely after. The main body deals Anemo damage, the phantom deals currently Infused Elemental damage.
+
+## Interactions
+
+* Hitlag can desync some of Maguu Kenki's attacks from their audio cues and phantom attacks, making it harder to properly dodge.
