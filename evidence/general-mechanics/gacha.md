@@ -89,3 +89,22 @@ r1, no epi path, no pity: 2.5
 r1, no epi path, pity: 2.25  
 r5, no epi path, no pity: 12.5  
 r5, no epi path, pity: 12.25  
+
+## Number of Wishes on Weapon Banner to Fully Level a 5 Star Weapon
+
+**By:** hanpw\#5824  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906138978208604210/919065570257813514/transcript-weapon-as-fodder-wish-count.html)  
+
+**Finding:**  
+How many wishes on the weapon banner does it take to fully level a 5 star weapon to Level 90?  
+
+**Evidence:**  
+[Weapon Fodder EXP](https://genshin-impact.fandom.com/wiki/Weapon_EXP)  
+[Weapon Banner Wish Counts and Rates](https://genshin-wishes.com/global-stats/weapon-event)  
+[Calculations](https://docs.google.com/spreadsheets/d/1lqc6MtGGkczyUM-eri09ok0LtdxDe_oWELtNf5k35Gw/edit#gid=0)  
+* Using data from Genshin Wishes to get the 3 star, 4 star, and 5 star weapon rates, we can calculate that the average weapon EXP per wish is 10,597.30.
+* 5 star weapons need 9,064,450 total EXP to get to level 90, so the average number of wishes needed is 855.35.  
+
+**Significance:**  
+Average number of wishes needed on weapon banner to level a 5 star weapon to 90 is 855 wishes.  
