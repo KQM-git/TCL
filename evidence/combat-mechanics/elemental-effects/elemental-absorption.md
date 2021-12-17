@@ -111,3 +111,81 @@ Venti and Sucrose *not* triggering Beidou C4 after Absorption: [Video](https://y
 **Significance:**  
 Some characters with passives that trigger on-hit have potential to take advantage of this interaction.  
 This may be used to further investigate the properties of elemental absorption (e.g., finding the tick rate of the aura check).  
+
+## Aura Check Properties
+
+**By:** vinsette\#0293, Goden\#2155, D.....K\#9002, frzyc\#3029, xf3\#3123, and BowTae\#0141  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902956060493623306/920148578146590790/transcript-aura-check-zero-dmg-properties.html)  
+
+**Finding:**  
+Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.  
+Aura-checks have different verticalities to their original attack, have set frequencies which differ per skill/burst and explains how the Venti bug functions.  
+This ticket explores the interesting properties that aura-checks have.  
+ 
+**Evidence:**  
+* 1: Aura-checks will only happen if the attack has the ability to absorb elements, with the exception of the Anemo Traveler's Tap Elemental Skill, which triggers two aura-checks right after the final blast happens, despite not having Elemental Absorption. This is thought to be due to its transition into the Hold version of the skill, which does have Elemental Absorption. 
+  * [Stats before final blast, 0% Shield Strength](https://imgur.com/a/kmWdCHz)
+  * [Stats after final blast, 10% Shield Strength](https://imgur.com/a/wmuQ9iT)
+* 1A: Anemo Traveler's Elemental Skill \(Tap\) will only trigger one aura-check instead of two if an element is encountered. However, it will not deal absorbed elemental damage regardless.
+  * [Stats after final blast, 5% Shield Strength](https://imgur.com/a/zNtigOD)
+* 1B: If the Elemental Skill is missing an ascension talent which allows it to absorb elements, as in the case of Kazuha's Elemental Skill, Chihayaburu, it will fail to trigger any aura-checks. 
+  * [Level 1 Kazuha, has 0% Shield Strength after Skill and Plunge](https://youtu.be/fyRjAe1vKpo)
+
+* 2: Aura-checks will trigger intermittently at a rapid rate for DoT Elemental Skills/Bursts with Elemental Absorption properties.
+  * [Sucrose's Elemental Burst](https://imgur.com/a/fDU4KIc)
+  * [Anemo Traveler's Elemental Skill](https://imgur.com/a/BOh8sBS)
+  * [Anemo Traveler's Elemental Burst](https://imgur.com/a/Vnpz9Ne)
+  * [Venti's Elemental Burst](https://imgur.com/a/YITG67G)
+  * [Sayu's Elemental Skill\(Hold\)](https://imgur.com/a/3TLLspt)
+  * [Kazuha's Elemental Burst](https://imgur.com/a/tr6wtt4)
+* 2A: Aura-checks trigger at a constant rate for all DoT Elemental Absorption Skills/Bursts at once per 0.3 seconds\(18 frames\), with two exceptions being Anemo Traveler's and Sayu's Elemental Skills\(Hold\), which triggers at a rate of once per 0.2 seconds\(12 frames\).
+  * [Sucrose Burst](https://imgur.com/Le6UoNa)
+  * [Venti Burst](https://imgur.com/a/3x3HUvr)
+  * [Anemo Traveler Hold Skill](https://imgur.com/a/nycRLzY)
+  * [Framecounting](https://youtu.be/948xDebQw7I)
+* 2B: Aura-checks will always trigger/hit once regardless of if the user has an Aura to immediately absorb. 
+  * [Kazuha's Elemental Burst](https://imgur.com/a/ChwdjIY)
+  * [Anemo Traveler's Elemental Skill\(Tap\)](https://imgur.com/a/zNtigOD)
+  * [Anemo Traveler's Elemental Skill\(Hold\)](https://imgur.com/a/kDkwoyN)
+  * [Anemo Traveler's Elemental Burst](https://imgur.com/a/nbuGIkx)
+  * [Venti's Elemental Burst](https://imgur.com/a/CmxFza9)
+  * [Sayu's Elemental Skill\(Tap version does not aura-check\)](https://imgur.com/a/U6ZzOa8)
+  * [Sucrose's Elemental Burst](https://imgur.com/a/DPTKQRA)
+
+* 3: Aura-checks appear to ignore immunity frames.
+  * [Zhongli Shield, Venti Burst, and Bennett Burst](https://imgur.com/a/dDJyAFX)
+
+* 4: Aura-checks can also hit trees. When they hit Cuihua trees, they can make one more fruit drop in addition to the normal amount. 
+  * [Anemo Traveler's Elemental Skill\(Tap\) with an element on a tree without the blast hitting the tree by itself](https://imgur.com/3tMbTrF)
+  * [Anemo Traveler's Elemental Skill\(Tap\) without any elements](https://imgur.com/a/vUo4JWo)
+  * [Kazuha's Elemental Skill\(Tap\) with A1](https://imgur.com/a/GgqW5Bz)
+  * [Kazuha's Elemental Skill\(Hold\) with A1](https://imgur.com/a/kJdk4bp)
+  * [Kazuha's Elemental Skill\(Tap\) without A1](https://imgur.com/a/LGuAaFW)
+  * [Kazuha's Elemental Skill\(Hold\) without A1](https://imgur.com/a/eRnzlKu)
+
+* 5: Despite Venti's Elemental Burst always performing Elemental Absorption later than expected, it actually starts aura-checking right at the start.
+  * [Venti's Elemental Burst](https://imgur.com/a/gQ5B32x)
+* 5A: Those early aura-checks are non-functional. 
+  * [Venti Burst does not absorb Cryo from Diona at the start of the Burst](https://imgur.com/a/RheF8HB)
+* 5B: Venti's Elemental Burst aura-checks for several seconds after it has visually ended, due to what appears to be a bug.
+  * [Venti Burst and Ningguang Skill](https://imgur.com/lxOexDY)
+  * [Bug entry in TCL](../../../evidence/characters/anemo/venti.md#venti-q-late-absorption-bug)
+
+**Significance:**  
+Further insight into the mechanics of Elemental Absorption via Aura-checks, how they work, their effects on certain objects and mechanics, the irregularities among Elemental Absorption Skills/Bursts, and some insight into the workings of Venti's late absorption bug.  
+
+## Aura-Checks Can Hit Cats
+
+**By:** vinsette\#0293  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918033771759026176/921245481756143626/transcript-aura-checks-and-cats-interaction.html)  
+
+**Finding:**  
+Aura-checks can hit cats.  
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/NiJL0WT)  
+
+**Significance:**  
+Haha funni flying cat. Fluff.  
