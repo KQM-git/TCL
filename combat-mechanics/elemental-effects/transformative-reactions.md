@@ -57,10 +57,14 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
   * With an excessive amount of Hydro application and a lot of hitlag, 4 Electro-Charged procs are possible with only one application of Electro.
 * Electro-Charged ticks, however, are not affected by hitlag, and happen exactly every 60 frames.
 * Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
+  * Electro-Charged ticks that spread to other enemies affect by Electro-Charged will take over Electro-Charged ownership on those enemies. 
 * Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
   * For more details on poise, we have a [page dedicated to it](../poise.md)
 * Electro-Charged snapshots the Elemental Mastery of whoever last applied an element for the reaction.
+* Electro-Charged has a cooldown. An enemy can only take one instance of Electro-Charged damage in ~0.5s.
+  * Electro-Charged ticks count as Electro-Charged damage, thus a tick will start the cooldown and deal no damage if it lands when the cooldown is active.
+  * The ticks reset damage cooldown and restart 1s timer for the next Electro-Charged tick.
 
 ## Shatter
 

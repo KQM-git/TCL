@@ -473,6 +473,45 @@ Does that re-apply hydro and update the EM values? Before this is even tested, I
 Barbara (and likely other characters with similar abilities) can apply hydro to hydro slimes, even if they're immune to hydro damage. The relevancy here is that characters can up-date the EM snapshot of EC as long as they apply the element.  
 Evidence: [Imgur](https://imgur.com/ZNKpRnt)
 
+### Electro-Charged ICD
+
+**By:** NZPIEFACE\#8439  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918000788373123172/919129870959783996/transcript-ec-icd.html)  
+
+**Finding:**  
+* EC has a cooldown. An enemy can only take one instance of EC damage in ~0.5s.
+* EC AoE ticks count as EC damage, thus a tick will start EC icd and deal no damage if it lands when the cooldown is active.
+* EC AoE ticks reset damage cooldown and restart 1s timer for the next EC tick (as long as auras don't run out).
+  * These two together will cause a cascading effect of syncing up EC ticks.
+
+**Evidence:**  
+* [EC ICD](https://youtu.be/rW16nK1-UhI)
+* [EC icd not here, around 0.5s](https://youtu.be/6ElYkAYvf9E)
+* [Secondary tick needs EC to be off cooldown](https://youtu.be/1gDCTUK6naY)
+* [Primary tick needs EC to be off cooldown](https://youtu.be/LQKGc1smD8M)
+* [Ticks will sync up](https://youtu.be/1t4xmyx178k)
+
+**Significance:**  
+Time your ECs, or not.  
+
+### EC AoE Changes Ownership on Other EC'd Enemies
+
+**By:** NZPIEFACE\#8439  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917973191782187049/919138790193393664/transcript-ec-aoe-changes-ownership-of-other-ec-enemies.html)  
+
+**Finding:**  
+EC AoE ticks change ownership on other EC'd enemies.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/JZtjCINNnw8)  
+Sara's EC (2215 dmg ticks) on the left Slime arcs to the right Slime and takes ownership of EC from Lisa, as shown by the subsequent 2215 dmg tick on the right Slime.  
+
+**Significance:**  
+This can either increase or decrease your damage.  
+This also has a cascading effect as the changed ownership can also spread to more enemies with subsequent AoE ticks.  
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
@@ -775,8 +814,6 @@ Shatter + Melt Evidence: [Video](https://youtu.be/yxTISikxnf4)
 
 **Significance:**  
 Bug discovering
-
-### **Crystallize on an Electro-Charged Enemy**
 
 ## Swirl
 
