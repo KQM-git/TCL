@@ -111,8 +111,9 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | CD | 12s |
 
 * Does 18 waves total over 2 seconds in the center of the Aoe.
-* 12 of the waves cover approximately a circle half the size of the marker.
-* 4 waves cover the entire marker.
+* 8 of the waves cover approximately the outer half the size of the marker.
+* 10 waves cover the inner half of the marker.  
+* Anything in the outer half is expected to get hit a random number of times, with closer to the edge being lower in the number of hits.
 * The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent. 
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
 {% endtab %}

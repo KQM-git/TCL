@@ -8,6 +8,41 @@ search: false
 
 {% page-ref page="../../../characters/pyro/amber.md" %}
 
+
+
+## Amber Ult Targeting
+
+**By:** CM#0970  
+**Added:** 16/12/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883204858050662440/920980949834035200/transcript-amber-ult-targeting.html)
+
+**Finding:** Amber's Q likely does not land randomly in certain pre-determined areas.  
+From datamine, it is suspected that any enemies standing in the outer zone of Amber's Q are hit a random number of times (not fixed).
+
+The exact datamined mechanic is guessed to be as follows:
+
+* 8 arrows with damage radius of 2.6 will fall randomly along a circle 2.6 units away from the center of the Q
+* 10 arrows with damage radius of 2.6 will fall randomly in a circular area between 0 to 2.6 units away from the center of the Q
+
+As such, anything outside of 2.6 units from the center (so approx. half way) is expected to get hit a random number of times, with closer to the edge being lower in the number of hits
+
+**Evidence:** 
+
+Youtube Playlist:
+https://www.youtube.com/playlist?list=PL9PTktXgK_B9Rb_4JWwXgQ-EBeR26QFpe
+
+Spreadsheet Data:
+https://docs.google.com/spreadsheets/d/18JB0rZ8TA4nFt-vpwcmFbNFitqpM2XyLgo7WGGvrNmE/edit#gid=0
+
+G-Drive with full clips:
+https://drive.google.com/drive/folders/1z9HYWda7DiBQngmjjxRronPbccrdkybe?usp=sharing
+
+Specifically in the f1 video:
+* The slime at the very edge is barely touching amber's Q, and is hit 6 times. The outer edge AoE system as described by the theory hunt can be thought of as circle AoEs entirely enclosed within the circle of Amber's Q, and fixed to center exactly 2.6 units away from the middle of Amber's Q, as Amber's Q was described to have a radius of approximately 2.6 x 2, and each of her outer-edge AoEs land in a circle of 2.6 radius from the center of her Q.  
+* The odds of this slime being hit randomly by entirely enclosed AoEs within Amber's ult 6 times out of 18, especially considering that 10 of the arrows have the entire inner circle of 2.6 to land in that would miss this outer slime, is close to 0.  
+
+There is another example of this happening in 4c, when one of the slimes jumps in halfway through ambers ult, and with barely any of its hitbox entering her AoE, is struck 3 times 
+
 ## C0 Amber: 2 Simultaneous Baron Bunnies
 
 **By:** Exuma\#1917  
