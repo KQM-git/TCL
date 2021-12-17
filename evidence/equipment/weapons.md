@@ -919,6 +919,21 @@ WGS procs do not stack and the most recent proc overwrites the existing proc, ev
 **Significance:**  
 Multiple WGS can kinda suck if they're not equal refine
 
+#### Wolf's Gravestone Passive Does Not Affect the Attack That Procs It
+
+**By:** Goden\#2155  
+**Added:** 12/16/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920102145787838494/921149901344227348/transcript-wgs-proc-hit-is-unbuffed.html)
+
+**Finding:**  
+The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff.
+
+**Evidence:**  
+Beidou's N1 is shown to crit prior to the buff for 1859. On the hit that procs WGS' buff, she also deals 1859 damage. One final hit is done in the clip to confirm the buff is active for subsequent hits. [YouTube](https://youtu.be/euCV5ZGRVnw)
+
+**Significance:**  
+Setup your WGS buff before a big nuke or you lose out on potential damage.
+
 ### Aquila Favonia
 
 #### Aquila Favonia Proc And Shield Interaction

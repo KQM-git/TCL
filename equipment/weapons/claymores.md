@@ -106,6 +106,7 @@
 
 * WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet - [JonahFarc\#7056](../../evidence/equipment/weapons.md#wolfs-gravestone-procs-dont-stack)
 * Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff. - [Goden\#2155](../../evidence/equipment/weapons.md#wolfs-gravestone-passive-does-not-affect-the-attack-that-procs-it)  
 {% endtab %}
 
 {% tab title="Details" %}
