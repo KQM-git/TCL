@@ -221,6 +221,7 @@ Increases the Level of **Stormbreaker** by 3.
 During the duration of **Stormbreaker**, the Electro RES of surrounding opponents is decreased by 15%.
 
 * The range of this effect is extremely short at just over 1 abyss tile of range.
+* The initial cast of Beidou's Burst doesn't benefit from her C6.
 {% endtab %}
 {% endtabs %}
 

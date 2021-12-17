@@ -175,6 +175,22 @@ C4 pretty good
 
 ### C6: Bane of Evil
 
+#### Beidou C6 doesn't apply on initial cast
+
+**By:** Xreejan#1180 
+
+**Added:** 15/12/2021
+
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917969727698141224/920672810911805490/transcript-beidou-c6-doesnt-apply-on-initial-cast.html)
+
+**Finding:** The initial cast of Beidou's Burst doesn't benefit from her C6.
+
+**Evidence:** Testing done with c5 and c6 Beidou with identical stats on the same enemy.
+* C5 Beidou does 1411 damage on her burst cast: https://www.youtube.com/watch?v=J-uSoXBnq4g
+* C6 Beidou does 1411 damage on her burst cast: https://www.youtube.com/watch?v=SPVbT0n9wMg
+
+**Significance:** Accurate damage calculations.
+
 #### Beidou's C6 range is extremely short
 
 **By:** Steno\#0119
