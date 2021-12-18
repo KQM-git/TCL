@@ -89,7 +89,6 @@
 ## Combat Mechanics
 * [Damage](combat-mechanics/damage/README.md)
   * [Outgoing Damage Formula](combat-mechanics/damage/damage-formula.md)
-  * [Incoming Damage Formula](combat-mechanics/damage/incoming-damage-formula.md)
   * [Shields](combat-mechanics/damage/shields.md)
   * [Other](combat-mechanics/damage/other/README.md)
     * [Fall Damage](combat-mechanics/damage/other/fall-damage.md)

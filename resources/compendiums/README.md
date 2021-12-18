@@ -17,3 +17,7 @@ description: Compendium of useful databases.
 ### [Enemy HP Thresholds for Energy](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/) \(Google Sheets\)
 ### [Enemy Resistances](enemy-resistances.md)
 ### [Enemy Weakspot and Bow Passive Proc Compendium](https://docs.google.com/spreadsheets/d/15NsYXElFYFNXjnYGfp5seVkud3ASqgI0KXnAcWSPN0g/) \(Google Sheets\)
+
+## Misc
+
+### [Parametric Transformer Material Groups](https://docs.google.com/spreadsheets/d/1M2EpQp0_i34Mb7dpjsczK0wSC8QHj3w4nBhC4vIfDXM/) \(Google Sheets\)

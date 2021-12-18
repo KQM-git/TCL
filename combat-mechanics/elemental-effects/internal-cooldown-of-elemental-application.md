@@ -11,11 +11,10 @@ When applying an element with an attack, there is an internal cooldown \(ICD\) o
 * Normal Attacks between two characters use different counters.
 
 ## Internal Cooldown Table
-**By:** Zakharov#5645
 
 ICD table that was based on [Advanced Gauge Unit Theory](https://genshin-impact.fandom.com/wiki/Gauge_Unit_Theory/Advanced_Theory) on Genshin Impact Wiki, with a few corrections from examining the data files.
 
-[Link](https://docs.google.com/spreadsheets/d/1KEWb4e8YxTvg-lKMFGDHqthI7u6hq3M7bFVlGKSJmAo/edit#gid=885202810)
+[ICD Table](https://docs.google.com/spreadsheets/d/1dE8mTmRVlR1izKynvSD4Jk5igvWFMlVMENzUsel-n-0/)
 
 ## Media
 

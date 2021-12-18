@@ -45,7 +45,7 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 
 | String | Talent 6% | Frames | MV/s|
 | :--- | :--- | :--- | :--- |
-| N1C | 234.25 | 100 | 136.4%/s |
+| N1C | 234.25% | 100 | 136.4%/s |
 
 * All frame counts are done against Ruin Guards.
 * Enemies struck by Bennett's charged attack will be staggered or launched.

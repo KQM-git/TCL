@@ -29,10 +29,10 @@ Performs up to four consecutive spear strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.53% | 11 | -- |
-| 2-Hit DMG | 63.41% | 49 | -- |
-| 3-Hit DMG | 38.94% ×2 | 165 \(76+89\) | -- |
-| 4-Hit DMG | 97.9% | 114 | -- |
+| 1-Hit DMG | 64.53% | 11 | 351.98% |
+| 2-Hit DMG | 63.41% | 49 | 155.66% |
+| 3-Hit DMG | 38.94% ×2 | \(76+89\) | 138.76% |
+| 4-Hit DMG | 97.9% | 114 | 159.85% |
 | Recovery | - | 155 | -- |
 
 **Charged Attacks**  
@@ -40,7 +40,7 @@ Consumes a certain amount of Stamina to lunge forward, dealing damage to opponen
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 163.88% | 70 \(14+56\) | -- |
+| Charged Attack DMG | 163.88% | \(14+56\) | -- |
 
 * Stamina Cost:  25
 

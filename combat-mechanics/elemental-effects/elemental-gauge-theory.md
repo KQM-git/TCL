@@ -9,7 +9,7 @@ description: The current method of explaining all game mechanics involving eleme
 To our knowledge, the framework of Elemental Gauge Theory can be applied to explain any elemental-related concept in Genshin. Extensive testing has been done and is viewable in the Evidence Vault under [Gauge Unit Theory - Testing and Evidence](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence).
 
 {% hint style="info" %}
-If any words are unfamiliar, we have a entry on [common terms](../../common-terms.md#reaction-terms), with a specific section on terms commonly found when discussing reactions.
+If any words are unfamiliar, we have a entry on [common terms](../../theorycrafting.md#reaction-terms), with a specific section on terms commonly found when discussing reactions.
 {% endhint %}
 
 ## Notation

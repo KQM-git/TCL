@@ -5,7 +5,7 @@ description: An explanation of the Poise system in Genshin and how stagger works
 # Poise
 
 {% hint style="info" %}
-If you come across any unknown terms, there is a section in the [glossary](../common-terms.md#poise) dedicated to terms used for poise mechanics.
+If you come across any unknown terms, there is a section in the [glossary](../theorycrafting.md#poise) dedicated to terms used for poise mechanics.
 {% endhint %}
 
 ## How to Stagger an Enemy
@@ -123,7 +123,7 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Poise)
 
-**Evidence Vault:**
+## Evidence Vault:
 
 {% page-ref page="../evidence/combat-mechanics/poise.md" %}
 
