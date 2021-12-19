@@ -13,4 +13,4 @@ After the challenge begins, when the active character's Elemental Energy is grea
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/mechanics/combat/blessings.md" %}
+{% page-ref page="../../evidence/combat-mechanics/spiral-domains/blessings.md" %}
