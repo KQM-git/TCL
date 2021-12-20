@@ -7,7 +7,7 @@ description: A database of enemy resistances.
 *Updated for Patch 2.3.*
 
 | Enemy | Pyro | Electro | Cryo| Hydro | Anemo | Geo | Physical | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
+| ---- | - | - | - | - | - | - | - | -------- | 
 | Slime \(All Variants\) | 10% | 10% | 10% | 10% | 10% | 10% | 10% | Immune to the same element |
 | Hilichurl \(All Variants\) | 10% | 10% | 10% | 10% | 10% | 10% | 10% |  |
 | Mitachurl \(All Variants\) | 10% | 10% | 10% | 10% | 10% | 10% | 30% |  |
@@ -24,8 +24,7 @@ description: A database of enemy resistances.
 | Ruin Scout | 10% | 10% | 10% | 10% | 10% | 10% | 50% |  | 
 | Perpetual Mechanical Array | 10% | 10% | 10% | 10% | 10% | 10% | 70% | All resistance decreased by 50% when stunned | 
 | Ruin Cruiser | 10% | 10% | 10% | 10% | 10% | 10% | 30% |  | 
-| Whopperflower \(All Variants\) | 35% | 35% | 35% | 35% | 35% | 35% | 35% | Additional 40% elemental RES to corresponding element. 
-  All resistance decreased by 25% when stunned | 
+| Whopperflower \(All Variants\) | 35% | 35% | 35% | 35% | 35% | 35% | 35% | Additional 40% elemental RES to corresponding element.<br />All resistance decreased by 25% when stunned | 
 | Fatui Skirmisher \(All Variants\) | 10% | 10% | 10% | 10% | 10% | 10% | -20% | All resistance increased by 100% when shielded | 
 | Pyro Fatui Agent | 50% | 10% | 10% | 10% | 10% | 10% | -20% |  | 
 | Fatui Cicin Mage \[Electro/Cryo\] | 10% | 10% | 10% | 10% | 10% | 10% | -20% | Additional 40% elemental RES to same element | 
@@ -64,6 +63,7 @@ description: A database of enemy resistances.
 | Abyss Herald | 10% | 10% | 10% | 10% | 10% | 10% | 10% |  | 
 | Abyss Lector | 10% | 10% | 10% | 10% | 10% | 10% | 10% |  | 
 | Maguu Kenki | 10% | 10% | 10% | 10% | 10% | 10% | 10% | Maguu Kenki Wind Bunshin has 30% total anemo RES. Maguu Kenki Ice Bunshin has 30% total cryo RES. | 
+| Golden Wolflord | 25% | 25% | 25% | 25% | 25% | 25% | 25% | All RES increased by 200% when starting battle. Geo RES decreased by 45% when fallen |
 | The Rock | 0% | 0% | 0% | 0% | 0% | 0% | 0% |  | 
 
 ## Resources
