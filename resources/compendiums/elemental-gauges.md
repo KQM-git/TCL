@@ -24,7 +24,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Barbara   | 1A | 1A | 1A | - | - | - |
 | Kokomi    | 1A | 1A | 1A | - | Initial Cast: 2B | - |
 | Mona      | 1A | 1A | DoT: 1A <br />Explosion: 1A | - | On Cast: 1A<br />On Pop: 2B | Dash: 1A |
-| Tartaglia <br />\(Childe\) | Riptide Flash: 1A<br />Riptide Burst: 2B | 1A | Entering Melee Stance: 2B<br />Basic Attack: 1A<br />Riptide Slash: 1A</td> | Havoc: 2B<br />Obliteration: 2B <br /> Riptide Blast: 2B | - | 
+| Tartaglia <br />\(Childe\) | Riptide Flash: 1A<br />Riptide Burst: 2B | 1A | Entering Melee Stance: 2B<br />Basic Attack: 1A<br />Riptide Slash: 1A | - | Havoc: 2B<br />Obliteration: 2B <br /> Riptide Blast: 2B | - | 
 | Xingqiu   | - | - | Skill Damage: 1A<br />Rain Sword orbitals: 1A | - | 1A | - |
 
 {% endtab %}
@@ -91,6 +91,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
 | Albedo    | - | - | On Cast: 1U <br />Transient Blossom: 1U | - | On Cast: 1U <br />Fatal Blossom: 1U | - |
 | Gorou     | - | 1U | 1U | - | Initial Hit: 1U <br />Crystal Collapse: 1U | - |
+| Itto      | Infused Attack: 1U | Infused Combo Slash: 1U <br />Infused Final Slash: 1U | 1U | - | - | - |
 | Ningguang | 1U | 1U | 1U | - | 1U | - |
 | Noelle    | - | - | 2U | - | On Cast: 1U <br />Infused Attacks: 1U | - |
 | Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | - |
