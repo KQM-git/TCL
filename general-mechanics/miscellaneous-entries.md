@@ -11,6 +11,7 @@ description: For entries that have little practical use.
 * The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
 * Reactions (and auras) are done client-side, while Damage and hit requires servers for them to work.  
 This applies to their respective triggers too.
+* Average party level warning/zone level/enemy level color warning is a lie, only highest level character is accounted for. 
 
 ## Cancelling
 

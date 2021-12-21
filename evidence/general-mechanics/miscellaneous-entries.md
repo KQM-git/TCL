@@ -282,3 +282,21 @@ Client-side:
 Server-side:
 * [Sucrose A4](https://youtu.be/rN1zelj3zBw)
 * [Raiden E](https://youtu.be/9i_WGm8aUpQ)
+
+## Enemy level vs. average party level
+
+**By:** r.rei\#2844  
+**Added:** 12/19/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920224953935216670/921938746549608480/transcript-enemy-level-vs-average-party-level.html)  
+
+**Findings:**   
+* Enemy level colour is based on your highest owned character level, and current team level is irrelevant.
+* Enemy defense is based on the difference of level to the character attacking, the colour of enemy level does not affect that. 
+* Average party level warning/zone level warning is a lie, only highest level character is accounted for.  
+
+**Evidence:** [Imgur](https://imgur.com/a/0wWvY56)  
+First recording Thoma E damage aligns with 2nd damage calculation, proves that enemy level colour indicator has nothing to do with enemy defense calculation: [Imgur](https://imgur.com/a/biAv7pk)
+
+**Significance:**  
+* To get rid of "Dangerous Zone" warning, you only need to level one character.
+* Enemy level colour is an unreliable indicator.
