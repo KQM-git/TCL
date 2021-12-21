@@ -765,7 +765,7 @@
 There is a cap range for an arrow - damage just falls off after a certain range.
 
 * [Amos Test](https://streamable.com/pnfumf)
-* [Sacrificial Bow Test](https://streamable.com/cq83a6)
+* Sacrificial Bow Test: *Streamable link lost to the sands of time*
 
 ## External Links
 
