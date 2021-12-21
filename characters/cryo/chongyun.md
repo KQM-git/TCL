@@ -7,6 +7,7 @@ description: A young exorcist from a family of exorcists. He does everything he 
 ## **Resources**
 
 * [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
+* [Swordfall: A Chongyun Guide](https://keqingmains.com/chongyun/)
 
 ## ![](../../.gitbook/assets/element_cryo.png) Chongyun
 
@@ -16,13 +17,13 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7236 | 147 | 427 | 12 |
-| 60+ | 7725 | 157 | 456 | 12 |
-| 70 | 8485 | 172 | 501 | 12 |
-| 70+ | 8974 | 182 | 530 | 18 |
-| 80 | 9734 | 198 | 575 | 18 |
-| 80+ | 10223 | 208 | 603 | 24 |
-| 90 | 10984 | 223 | 648 | 24 |
+| 60 | 7236 | 147 | 427 | 12% |
+| 60+ | 7725 | 157 | 456 | 12% |
+| 70 | 8485 | 172 | 501 | 12% |
+| 70+ | 8974 | 182 | 530 | 18% |
+| 80 | 9734 | 198 | 575 | 18% |
+| 80+ | 10223 | 208 | 603 | 24% |
+| 90 | 10984 | 223 | 648 | 24% |
 
 ## **Attacks**
 
@@ -242,7 +243,7 @@ Increases the level of **Chonghua’s Layered Frost** by 3.
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/cryo/chongyun.md" %}
 
