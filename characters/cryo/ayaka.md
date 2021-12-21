@@ -57,6 +57,7 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 | N4C | 327% + 80.13%×3 (567.39%) | 171 | 199.08%/s |
 
 * Ayaka's charged attack ICDs are separate from her normal attack.
+* Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s Charged Attacks can also reach enemies below her ground level.
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
