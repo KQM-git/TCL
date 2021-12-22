@@ -102,6 +102,21 @@
 {% endtab %}  
 {% endtabs %}
 
+### Husk of Opulent Dreams
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: DEF +30%
+* 4 Piece Set Bonus: A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
+{% endtab %}
+
+{% tab title="Findings" %}  
+* The 4p set bonus generates stack off-field passively even if the character does not deal Geo damage.
+* The 4p set bonus only loses stacks while the equipped character is on field.
+* Stacks from the 4p set bonus are gained when hitting an opponent with a Geo attack even when no damage is dealt (vs. Shielded or Immune targets).
+{% endtab %}  
+{% endtabs %}
+
 ### Lavawalker
 
 {% tabs %}
@@ -133,11 +148,40 @@
 {% tabs %}
 {% tab title="Description" %}
 * 2 Piece Set Bonus: Elemental Burst DMG +20%
-* Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+* 4 Piece Set Bonus: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
 {% endtab %}
 
 {% tab title="Findings" %}
 * There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not. Check the Evidence Vault for more details.
+{% endtab %}
+{% endtabs %}
+
+### Ocean-Hued Clam
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: Healing Bonus +15%.
+* 4 Piece Set Bonus: When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).
+At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing.
+(This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses).
+Only one Sea-Dyed Foam can be produced every 3.5 seconds.
+Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing).
+There can be no more than one Sea-Dyed Foam active at any given time.
+This effect can still be triggered even when the character who is using this artifact set is not on the field.
+{% endtab %}
+
+{% tab title="Findings" %}
+* The 4p set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).
+* The 4p set bonus Bubble Damage is independent of enemy defense.
+* All healing from the 4p set holder gets calculated for the Bubble Damage including overflow heals.
+  * The 4p set bonus counts initial heal as part of the Sea-Dyed Foam bubble damage.
+  * Revives such as Barbara C6 and Qiqi C6 count for Sea-Dyed Foam bubble healing.
+  * Heals (and overheals) from Black Sword will activate Ocean-Hued Clam.
+* The 4p set bonus has a 1 bubble limit on field for single-player mode, shared by all 4p set holders.
+  * The 3.5s bubble formation ICD is not shared by all 4p set holders.
+* The 4p set bonus only counts healing from the 4p set holder. This is also the case with multiple Ocean Hued sets on the same team.
+* The AOE range of the 4p set bonus Sea-Dyed Foam bubble is 5.5m radius and it can hit multiple target at once.
+* Bennett's elemental burst does not proc the 4p set bonus after the on-field character HP reaches 70%.
 {% endtab %}
 {% endtabs %}
 
