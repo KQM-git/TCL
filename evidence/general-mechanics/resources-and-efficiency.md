@@ -197,6 +197,22 @@ There are two types of artifact spots:
 
 **Significance:** Statistics for farming purposes 
 
+### Random Event Cap
+
+**By:** derek\#9488  
+**Added** 12/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922577467930202173/923407105925468190/transcript-random-event-cap.html)
+
+**Finding:**  
+There is a random event cap which is 10 random events a day. After that you get nothing more when you do random events that day.
+
+**Evidence:**  
+Doing a random event 11 times, the 11th time there is no reward: [YouTube](https://www.youtube.com/watch?v=IHNuDr2m2O8&t=9s)  
+After the above, other random events also give no reward: [YouTube](https://www.youtube.com/watch?v=bNUoxy9Gouk)
+
+**Significance:**  
+You can do 10 random events for mora, companionship exp, and enhancement ores everyday and its roughly about 15000-16000 mora a day and guaranteed 150 companionship exp a day. The easiest way to do this Is by repeating the warden of konda quest over and over again in that same spot as in the first video, scaring away the pigeons to do it quickly.
+
 ## Food Costs
 
 **By:** Anmol43\#1917  
