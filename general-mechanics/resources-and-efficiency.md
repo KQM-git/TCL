@@ -133,10 +133,12 @@ Crafted food items have a limit of 2000 per unique item.
 
 The most efficient units for tree chopping:
 
-* Xingqiu \(only if you **manually time** their attack string, spam clicking won't work\)
+* Thoma
 * Keqing
 * Rosaria
-* Xiao
+* Xiao  
+
+Details: [Google Doc](https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSjRINZJonFe1kiDwz1dEbpcZiNk/edit#gid=937070148)
 
 ### Tree Chopping Memory Mechanics
 
