@@ -4,7 +4,7 @@ search: false
 
 # Elemental Gauge Theory
 
-{% page-ref page="../combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
+{% page-ref page="../../../combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
 
 ## **Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions**
 

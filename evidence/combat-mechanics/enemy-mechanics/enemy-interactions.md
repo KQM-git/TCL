@@ -27,6 +27,95 @@ Interrupting enemies during an attack can cause them to produce phantom attacks,
 **Significance:**  
 Watch out for enemy attacks if they were interrupted.
 
+### Enemies Actually Burrow
+
+**By:** Asaki\#9139, ShampooBrain\#9583, and MeCrush14\#2271  
+**Added:** 12/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920541455452340284/923102157065056346/transcript-enemies-actually-burrow.html)  
+
+**Finding:**  
+Characters’ marks \(Riptide, Talisman, Blood Blossom, etc.\) show that some enemies that burrow actually dive subsurface, before teleporting to the other side to emerge \(disapparating\). The evidence list also includes instances of burrowing enemies beyond this specific interaction \(e.g. not all actually dives\).  
+
+**Evidence:**  
+* Childe’s Riptide:
+  * [Geovishap Hatchling](https://youtu.be/opr2xHGNlvE)
+  * [Ruin Destroyer](https://youtu.be/Q8gFZoScgXQ)
+  * [Ruin Destroyer dives 2 times](https://youtu.be/YO-P72TcE5Q)
+  * [Pyro Hypostasis](https://youtu.be/AzNZoXvWVQA)
+  * [Azhdaha](https://www.youtube.com/watch?v=-DUt8uqvw5U)
+  * [Primo Geovishap](https://www.youtube.com/watch?v=y0woi2QoGek)
+  * [Cryo Whopperflower](https://www.youtube.com/watch?v=KHccxA7A4n4)
+  * [Pyro Whopperflower](https://www.youtube.com/watch?v=NqUY7iV8B0M)
+  * [Electro Whopperflower](https://www.youtube.com/watch?v=LBEMei_8urE)
+  * [Dendro Slime](https://www.youtube.com/watch?v=vBsTJZMCb1o)
+  * [Large Dendro Slime](https://www.youtube.com/watch?v=k9NnvN8yiiM)
+  * [Oceanid](https://youtu.be/_IlNov2mzdA)
+    * There’s also a brief moment after resurfacing that the Oceanid has no hitbox indicated by the mark \(around 0:07\), [screenshot here](https://imgur.com/a/lcymYnc)
+  * [Hydro Hypostasis](https://imgur.com/a/wOga8G8)
+ 
+* Qiqi's Talisman
+  * [Geovishap Hatchling](https://www.youtube.com/watch?v=XiRFBkjKmj8)
+  * [Ruin Destroyer](https://www.youtube.com/watch?v=-zwcP5rPmB8)
+  * [Pyro Cube](https://www.youtube.com/watch?v=yvBWb-BBU_k)
+  * [Primo Geovishap](https://imgur.com/a/YmH85JE)
+  * [Azhdaha](https://imgur.com/a/QuXm6Gz)
+  * [Cryo Whopperflower](https://imgur.com/a/ljPrZFD)
+  * [Pyro Whopperflower](https://imgur.com/a/Hba0Wzv)
+  * [Electro Whopperflower](https://imgur.com/a/bc52sxf)
+  * [Dendro Slimes \(both miniature and large\)](https://imgur.com/a/v3V7XTQ)
+  * [Oceanid](https://imgur.com/a/qdOU78T)
+  * [Hydro Hypostasis](https://imgur.com/a/D34i0J2)
+
+* Hu Tao’s Blood Blossom
+  * [Pyro Whopperflower](https://imgur.com/a/V9qNGBG)
+  * [Cryo Whopperflower](https://imgur.com/a/tHwOmhz)
+  * [Hydro Hypostasis Dolphin](https://imgur.com/a/W9VQ1WR)
+  * [Hydro Hypostasis Concentrated Drop](https://imgur.com/a/pwofIJc)
+    * It’s worth noting here that as soon as the hitbox disappears, a new collision box immediately spawns on the other side, pushing Hu Tao slightly, before a new hitbox is spawned and the mark is visible again.
+  
+* Honorable Mention
+  * [La Signora](https://imgur.com/a/DNiBkR6) – special sprint but it’s actually apparition
+    * [Another interesting one](https://imgur.com/a/ZQAJMJ4), they managed to proc riptide while she was teleporting.
+    * [YouTube](https://youtu.be/GZy7KCad8jk?t=2m12s) - courtesy of 変な親爺 Henna-Oyajii. 
+      * The C4 Childe 8-9s later also interestingly shows that she’s technically there but the hitbox is not there, double-confirming that as long as the mark is visible, the hitbox exists.
+
+  
+**Significance:**  
+1. Better understanding over their burrowing/diving animations. It’s interesting nonetheless that one dives further down, the other just kinda stays near surface, and another barely dives.
+* Actual Divers
+  * Group 0 – they exhibit expected behaviors of a dive: none
+  * Group 1 – to purgatory and back: 
+    * Geovishap Hatchlings \(do note that hatchings do eventually disapparate\)
+  * Group 2 – dives decently far down \(sorted by decreasing levels of depth \[from eyeballing\]\) but do not technically disapparate: 
+    * Azhdaha
+    * Primo Geovishap \(initial dive\) – worth noting that the mark do disapparate and is not always subterranean. Gr.1 shows that the hitbox can travel very far down before disapparating.
+  * Group 3 – stays/dives barely subterranean: 
+    * Dendro Slimes
+    * Primo Geovishaps \(the scuba dive\) – basically you can see them do their stuff and the mark is visible 
+
+* Special Consideration
+  * Group 4 – they stay barely subterranean but also have 2 hitboxes: 
+  * Azhdaha in tail form, please refer to [this Vault entry](../enemy-mechanics/enemy-interactions.md\#azhdaha-in-his-tail-form-has-two-independent-hitboxes).
+
+* Hogwarts Graduates
+  * Group 5 – they should be \(barely\) subsurface but the mark says otherwise: 
+    * Pyro Hypostasis \(animal shifting\)
+    * Hydro Hypostasis \(Dolphin dive/jump\)
+  * Group 6 – they technically burrow/plunge and remains subsurface briefly, then they disapparates: 
+    * Ruin Destroyers
+    * Whopperflowers
+  * Group 7 – they do plunge or dive subsurface, but it’s straight-up apparition \(technically there’s a split second when the mark is underground, but for most of the dives, the mark just disapparates instead\): 
+    * Pyro Hypostasis \(dive after Bull charge\)
+    * Hydro Hypostasis \(fist dive\)
+    * Oceanid
+  * Note: The difference between group 6 and 7 is only the distance and/or time spent underground. Technically, all of them disapparate.
+  
+2. Fluff since you can’t actually do anything during the whole process anyway. Other than Azhdaha in the tail form \(which attacks have been shown to be able to register on the subterranean hitbox\), whether they can be hit or have an actual hitbox for attacks to register, especially by Ayaka’s CA is out of the scope of this ticket.
+
+3. La Signora’s special sprints \(butterfly sprint, tornado sprint, etc.\) does not have a hitbox, but rather a moving collision box \(or something, not sure, C4 Childe shows she’s there but mark doesn’t show\), as evidenced above.  The same can be posited/hypothesized for other bosses as well, despite only 1 video being able to showcase it clearly \(the Hu Tao vs Hydro Hypostasis\).
+
+4. Geovishap Hatchlings are confirmed to be enemies from hell or purgatory or something. 
+
 ## General Boss Interactions
 
 ### Freeze Interaction on Boss Enemies
