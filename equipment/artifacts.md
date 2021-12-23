@@ -290,6 +290,7 @@ This effect can still be triggered even when the character who is using this art
 * 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE. 
 * The 4 piece set effect's duration can be extended by hitlag.
 * The attack that triggered the Swirl does not benefit from 4 piece Viridescent Venerer's RES shred passive.
+* Single target 4 piece Viridescent Venerer’s RES shred applies instantly and is unaffected by ping. AoE RES shred applies on damage, which is ping dependent.
 {% endtab %}
 {% endtabs %}
 

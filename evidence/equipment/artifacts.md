@@ -1104,6 +1104,29 @@ For Kazuha, this is more or less expected since we know his talent damage is sim
 
 For Sucrose, all this tells us there is some other stuff about, since we still don't know if her talent damage is sequential or simultaneous.
 
+### 4pc VV AoE Application Ping Dependency
+
+**By:** NZPIEFACE\#8439  
+**Added:** 12/21/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917958422505345075/923108796522455050/transcript-4vv-application-ping-dependency.html)  
+
+**Finding:**  
+4VV has two mechanics of applying it's debuff. One is applied on reaction to the primary target, while the other is applied in AoE via the secondary Swirl hitting enemies.
+* The primary target mechanism is not affected by ping as it happens on the client.
+* The secondary \(AoE\) mechanism is affected by ping as it requires attack hits to be registered by the server.
+* Glossary:
+  * Primary Target - Where the Swirl originated from.
+  * Secondary Targets - Targets that are damaged in an AoE that weren't the single-target Swirl.
+
+**Evidence:**  
+[YouTube](https://youtu.be/uKWKTOMptPU)  
+* The map is when my internet was disconnected/reconnected.
+* The secondary enemy is dealt the same damage twice. If the AoE debuff applied regardless of ping, the second instance should deal more damage than the first, equivalent to the damage on the primary target.
+
+**Significance:**  
+In high ping circumstances, the debuff may apply late to enemies in an AoE and be a loss of damage if there were more attacks that occurred in that period of time.
+* Note: While I say attack and hit, I don't specifically mean damage. Hydro Swirls still apply VV in AoE.
+
 ## Wanderer's Troupe
 
 ### Breakpoints for 2 WT Set Bonus vs +40% Reaction Damage From 4TF/CW Set Bonus
