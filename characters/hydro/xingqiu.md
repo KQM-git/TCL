@@ -6,7 +6,8 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 ## **Resources**
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)  
-* [Written Guide: Xingqiu Handbook](https://keqingmains.com/xingqiu/)  
+* [A Revised Xingqiu Handbook](https://keqingmains.com/xingqiu-short/)  
+* [Extended Xingqiu Guide: Prospector of Precipitation](https://keqingmains.com/xingqiu-extended/)  
 * [5 Minute Quick Guide to Xingqiu](https://youtu.be/EiOP60N4p58)  
 
 ## ![](../../.gitbook/assets/element_hydro.png) Xingqiu
@@ -21,7 +22,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 | 60+ | 7190 | 142 | 533 | 12% |
 | 70 | 7897 | 156 | 585 | 12% |
 | 70+ | 8352 | 165 | 619 | 18% |
-| 80 | 9060 | 179 | 671 | 185 |
+| 80 | 9060 | 179 | 671 | 18% |
 | 80+ | 9514 | 188 | 705 | 24% |
 | 90 | 10222 | 202 | 758 | 24% |
 
@@ -249,7 +250,6 @@ Energy regeneration is not affected by Energy Recharge.
 **Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
-
 
 ## Evidence Vault
 

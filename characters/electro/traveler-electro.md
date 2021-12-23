@@ -8,7 +8,7 @@ description: A traveler from another world who had their only kin taken away, fo
 
 ![](../../.gitbook/assets/electro-traveler.png)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | ATK |
 | :--- | :--- | :--- | :--- | :--- |
@@ -156,18 +156,17 @@ When your active character's Normal or Charged Attacks hit opponents, they will 
 | CD | 20s |
 
 * The energy regenerated from **Falling Thunder** is classified as flat energy.
-* **Falling Thunder** DMG is snapshot on **Bellowing Thunder** cast.
+* **Falling Thunder** DMG snapshots on **Bellowing Thunder** cast.
 
 {% endtab %}
 {% endtabs %}
 
-## 8*
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
-### N/A
 
-404 does not exist.
+The Traveller has no passive talent.
 
 {% endtab %}
 
@@ -293,6 +292,6 @@ Every 2 **Falling Thunder** attacks triggered by **Bellowing Thunder** will incr
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/electro/traveler-electro.md" %}

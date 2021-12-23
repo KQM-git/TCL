@@ -18,6 +18,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 
 ## Dynamic Summons
 
+[Google Sheets](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit#gid=192559720)  
 * Chongyun's [Spirit Blade: Cloud-Parting Star](../characters/cryo/chongyun.md#attacks) 
 * Eula's [Glacial Illumination](../characters/cryo/eula.md#attacks)
 * Hu Tao's [Blood Blossom](../characters/pyro/hu-tao.md#attacks)
@@ -27,7 +28,8 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Xingqiu's [Guhua Sword: Raincutter](../characters/hydro/xingqiu.md#attacks)
 * Yoimiya's [Ryuukin Saxifrag](../characters/pyro/yoimiya.md#attacks)
 * Qiqi's [Adeptus Art: Preserver of Fortune](../characters/cryo/qiqi.md#attacks) Healing
-* Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)
+* Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)  
+* Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
 
 ## Evidence Vault
 
