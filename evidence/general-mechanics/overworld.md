@@ -8,6 +8,23 @@ search: false
 
 {% page-ref page="../../general-mechanics/overworld.md" %}
 
+## Serenitea Pot
+
+### Teapot Dog Abuse  
+**By:** Asaki\#9139  
+**Added:** 12/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923064128225026118/923456084302241872/transcript-teapot-dog-abuse.html)  
+
+**Finding:**  
+0-poise attacks also register on Kageroumaru.  
+
+**Evidence:**  
+[Imgur](https://i.imgur.com/c8IpYrX.mp4) (notice the double hits)  
+
+**Significance:**  
+* Kageroumaru take hits like a chad.
+* Helps to map out how XQ’s orbitals work. 
+
 ## Explosive Barrel Properties
 
 **By:** kxmndz\#4700  
@@ -136,6 +153,7 @@ Maps:
 **Evidence:**
 Transcript of this entire ticket + spreadsheet displaying each spot with a screenshot and video for each spot: [Spreadsheet](https://docs.google.com/spreadsheets/d/1zDMPfY8SKR7mb-tASNedWmj62wJOnDbSsVVR17ykg6I)  
 Unfortunately we're unable to tell if we managed to cover all of the spots, but based on our research (from the transcript) we managed to gather 144 (+1/+2) investigation spots that drop artifacts.
+
 
 ## Cursed Terrain
 

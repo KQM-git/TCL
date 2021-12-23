@@ -1,5 +1,10 @@
 # Overworld
 
+## Serenitea Pot
+
+### Teapot Dog Abuse
+
+0-poise attacks also register on Kageroumaru.
 
 ## Explosive Barrel properties
 
