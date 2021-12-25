@@ -74,7 +74,7 @@ Adjust the location of the skill.
 | DEF Increase \(T6%\) | 289 |
 | Geo DMG Bonus | 15% |
 | Particles | 2 \(-\) | 
-| Frames | - |
+| Frames | 46 \(Press\)<br />62-649 \(Hold\) |
 | GU | 1U |
 | ICD | - | 
 | Snapshot | - | 
@@ -103,7 +103,7 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 | Attribute | Burst | Crystal Collapse | 
 | :--- | :--- | :--- |
 | Skill DMG \(T6%\) | 137.5% DEF | 85.82% DEF | 
-| Frames | - | - |
+| Frames | 56 | - |
 | GU | 1U | 1U |
 | ICD | - | 3 hit / 2.5s | 
 | Snapshot | - | Dynamic | 
