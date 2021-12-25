@@ -216,7 +216,7 @@ This effect cannot stack and will take reference from the last instance of the e
 | Skill DMG | 150.08% | 160.80% | 171.52% | 182.24% | 192.96% | 203.68% | 214.40% | 227.80% |
 | DEF Increase | 289 | 309 | 330 | 350 | 371 | 392 | 412 | 438 |
 
-**Geo Damage Bonus**: 10%  
+**Geo Damage Bonus**: 15%  
 **Duration**: 10s  
 **Cooldown**: 10s
 {% endtab %}
