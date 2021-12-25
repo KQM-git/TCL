@@ -6,21 +6,20 @@ This page is for bugs, meaning they could get fixed by Mihoyo at any time. If yo
 
 ## Abyss
 
-You can use your overworld team in the second half of abyss even if the same members are in the first half of the chamber by [selecting retry at the same time as you kill the last enemy.](../evidence/general-mechanics/bugs.md#using-the-same-team-for-both-abyss-halves)
+You can use your overworld team in the second half of abyss even if the same members are in the first half of the chamber by [selecting retry at the same time as you kill the last enemy.](../evidence/general-mechanics/bugs.md\#using-the-same-team-for-both-abyss-halves)
 
-When using the retry button in abyss your [elemental skill and burst will not reset its cooldown](../evidence/general-mechanics/bugs.md#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
+When using the retry button in abyss your [elemental skill and burst will not reset its cooldown](../evidence/general-mechanics/bugs.md\#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
 
 ## Overworld
 
-[Bushes respawn infinitely](../evidence/general-mechanics/bugs.md#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
-
-[Throwing a Harpastum while entering aim mode](../evidence/general-mechanics/bugs.md#aiming-harpastum) can force a third-person perspective while still aiming your bow.
-
-[4TF and 4CW set bonuses do not apply to reactions on environmental objects](../evidence/general-mechanics/overworld.md#4-piece-set-bonuses-on-environment-reactions)
+* [Bushes respawn infinitely](../evidence/general-mechanics/bugs.md\#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
+* [Throwing a Harpastum while entering aim mode](../evidence/general-mechanics/bugs.md\#aiming-harpastum) can force a third-person perspective while still aiming your bow.
+* [4TF and 4CW set bonuses do not apply to reactions on environmental objects](../evidence/general-mechanics/overworld.md\#4-piece-set-bonuses-on-environment-reactions).
+* [You can jump higher than normal and travel long distances](../evidence/general-mechanics/bugs.md\#cooking-pot-super-jump) by repeatedly entering and exiting the cooking menu during an action that moves the character upwards, such as jump, Kazuha E, and Bennett Hold E. 
 
 ## Lag
 
-[There are a lot of strange interactions with lag.](../evidence/general-mechanics/bugs.md#high-ping-interactions). From these, we can deduce if certain stats are updated client or server side. The complete list of high ping interactions is documented below.
+[There are a lot of strange interactions with lag.](../evidence/general-mechanics/bugs.md\#high-ping-interactions). From these, we can deduce if certain stats are updated client or server side. The complete list of high ping interactions is documented below.
 
 Updated server side:
 * HP of characters and enemies
@@ -47,7 +46,7 @@ High ping interactions include:
 * Character stat buffs still update normally, unless they are related to other stats that are updated server side, such has Hutao's passive from being below 50% HP.
 * Resistance shred works.
 * Fall damage is dealt.
-* ICD behaves normally aside from a few exceptions, so far only the [rainswords from XQ E](../evidence/general-mechanics/bugs.md#netlimited-blade-works) have a different application rate than usual.
+* ICD behaves normally aside from a few exceptions, so far only the [rainswords from XQ E](../evidence/general-mechanics/bugs.md\#netlimited-blade-works) have a different application rate than usual.
 * Healing is inaccessible during high latency. When returned to low latency, the healing will be applied, and healing like Bennett's Q will ignore the HP thresholds.
 * Character shields work normally under high latency
 * Stamina is not consumed under high ping, nor will it regenerate.
@@ -62,19 +61,19 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ## Miscellaneous
 
-* [Energy Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
+* [Energy Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md\#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
 
-* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
+* [Xiangling's Burst can stack](../evidence/general-mechanics/bugs.md\#xianglings-burst-can-stack-in-contending-tides-event) in the Contending Tides event or when using a portable teleporter. This bug increases the duration of Xiangling's Pyronado and similar orbital bursts.
 
-* Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../evidence/general-mechanics/bugs.md#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
+* Venti's burst will deal its full elemental absorption damage [even if it is infused later in the burst](../evidence/general-mechanics/bugs.md\#venti-q-late-absorption-bug). This allows for extra damage for any enemies remaining in the zone.
 
-* Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md#venti-e-hold-visual-error).
+* Venti's Hold Elemental Skill will always lift you vertically up [even if the animation is tilted](../evidence/general-mechanics/bugs.md\#venti-e-hold-visual-error).
 
-* [There is a small chance](https://github.com/Artesians/TCL/tree/14d0edebfb20fa9816c82c2409020f8361f52c5a/evidence/mechanics/mona-elemental-skill-bug/README.md) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
+* [There is a small chance](../evidence/general-mechanics/bugs.md\#mona-elemental-skill-bug) that when you use Mona's Press E, the explosion damage and particle generation also happens when cast. Normally this only happens when her skill construct expires, it doesn't happen if you use Hold E and only on Press E.
 
 * If your Artifact Inventory is near full (from 990/1000), you'll get an "No space left in Inventory" when trying to do a Wish X10.
 
-* There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md#sprinting-bug), while still consuming stamina.
+* There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md\#sprinting-bug), while still consuming stamina.
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
 
 ## Fixed Bugs

@@ -71,6 +71,37 @@ search: false
 
 **Significance:** This explains some strange damage numbers when fighting enemies in the overworld
 
+### Cooking Pot Super Jump
+
+**By:** Nass008\#8577  
+**Added:** 12/23/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921775232707100692/923676486106509382/transcript-cooking-pot-super-jump.html)  
+
+**Finding:**  
+You can yeet yourself high by cooking mid air.  
+1. Perform actions that accelerate your player character near the cooking pot \(both overworld one and mobile cooking pot works\).
+2. Press “Cook” button right when you gain momentum to enter cooking menu.
+3. Choose any recipe, and the game will briefly unpause and move your character.
+4. By repeatedly choosing and canceling cooking, you can propel yourself to the extent that normally impossible.
+
+**Evidence:**  
+* Pot can enable higher jumps than usual. This also works with Xiao’s enhanced jump during Q and Kazuha E:
+  * [Jump](https://youtu.be/DyHXLhdSWco)
+  * [Kazuha E](https://youtu.be/Zx6ow-LTQQI)
+  * [Xiao’s jump during Q](https://youtu.be/6cCxxtD0GTI) - courtesy of Yukie\#7916
+  * [Yoimiya Q cast animation](https://youtu.be/IkVe9U38ZjA) - courtesy of Yukie\#7916
+* By using this trick with Anemo Ring, Electrograna, or Bennett hold E level 2 charge, you can jump/fly exceedingly long distances:
+  * [Anemo Ring](https://youtu.be/KtipLnICoJo)  
+  * [Electrograna](https://youtu.be/e2z-_uxxPvc)  
+  * [Bennett hold E level 2 charge](https://youtu.be/f7zBLu69CuM)  
+* This trick does not work with wind current alone (including one from Venti Hold E). You stop rising at a certain height like you normally do, and it does not appear to be higher than usual:
+  * [Wind current](https://youtu.be/m9Bjm3T3drY)  
+  * [Venti hold E](https://youtu.be/5rcLFKCO69I)  
+
+**Significance:**  
+Can be used to reach places normally inaccessible, especially by utilizing Bennett and the portable cooking stove.  
+
+
 ## Lag
 
 ### Netlimited Blade Works
@@ -347,7 +378,7 @@ A character's feet will spaz out when spinning: [Imgur](https://imgur.com/GqKetL
 **Significance:**  
 Fluff, annoying bug when you do it by accident.
 
-## Venti Q Late Absorption Bug
+### Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  
 **Added:** 04/23/2021  
@@ -366,7 +397,7 @@ Clip 3 \(0:30\) shows that when an enemy moves away from the area where the infu
 **Significance:**  
 When elemental absorption happens late into a Venti Q, the damage from elemental infusion ticks aren't lost as long as enemies stay inside the aoe. However you would still lose out on swirl damage if there's no element to be swirled.
 
-## Venti E hold visual error
+### Venti E hold visual error
 
 **By:** Santoryu\#4495  
 **Added:** 05/23/2021  
