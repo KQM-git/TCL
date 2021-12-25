@@ -164,15 +164,19 @@ Reference videos for damage:
 
 [Sucrose Guoba Swirl on Anemo Cube](https://youtu.be/3KYJfKK-Puw)  
 Mapping the damage numbers in this video to the calculated numbers:
-* First Sucrose E: PUT THIS IN CODE BLOCK FOR ACTUAL PR, i don't feel like typing \`\`\` here
-  * 5174 - Sucrose Swirl
-  * 6612 - Sucrose Swirl with VV
-  * 244 - Guoba with VV
-  * 1552 - Xiangling Swirl from Guoba with Sucrose A1 and VV
+* First Sucrose E:
+  ```  
+  5174 - Sucrose Swirl  
+  6612 - Sucrose Swirl with VV  
+  244 - Guoba with VV  
+  1552 - Xiangling Swirl from Guoba with Sucrose A1 and VV  
+  ```  
 * Second Sucrose E:
-  * 7043 - Sucrose Swirl with Xiangling C1 and VV
-  * 2582 - Xiangling Swirl from Guoba with Sucrose A1 A4, Xiangling C1, and VV
-  * 260 - Guoba with Xiangling C1 and VV
+  ```  
+  7043 - Sucrose Swirl with Xiangling C1 and VV  
+  2582 - Xiangling Swirl from Guoba with Sucrose A1 A4, Xiangling C1, and VV  
+  260 - Guoba with Xiangling C1 and VV  
+  ```  
 
 This shows that A1 was triggered from the second Swirl from Sucrose (where the Guoba Swirl applied Pyro to the Anemo Hypostasis, causing another Swirl reaction). This is a chain reaction. This also shows that A4 is delayed for some reason. Probably ping.  
  
