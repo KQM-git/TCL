@@ -18,13 +18,13 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 | Lv | Base HP | Base ATK | Base DEF | Hydro DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 8500 | 195 | 528 | 14.40 |
-| 60+ | 9121 | 210 | 567 | 14.40 |
-| 70 | 10025 | 231 | 623 | 14.40 |
-| 70+ | 10647 | 245 | 662 | 21.60 |
-| 80 | 11561 | 266 | 719 | 21.60 |
-| 80+ | 12182 | 280 | 757 | 28.80 |
-| 90 | 13103 | 301 | 815 | 28.80 |
+| 60 | 8500 | 195 | 528 | 14.40% |
+| 60+ | 9121 | 210 | 567 | 14.40% |
+| 70 | 10025 | 231 | 623 | 14.40% |
+| 70+ | 10647 | 245 | 662 | 21.60% |
+| 80 | 11561 | 266 | 719 | 21.60% |
+| 80+ | 12182 | 280 | 757 | 28.80% |
+| 90 | 13103 | 301 | 815 | 28.80% |
 
 ## **Attacks**
 
@@ -215,19 +215,19 @@ A chart of Tartgalia's different Riptide effects
 
 {% tabs %}
 {% tab title="Passive" %}
-### Master of Weaponry
+### **Master of Weaponry**
 
 Increases your own party member’s Normal Attack Level by 1.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Never Ending
+### **Never Ending**
 
 Extends **Riptide** duration by 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Sword of Torrents
+### **Sword of Torrents**
 
 When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents. 
 
@@ -239,25 +239,25 @@ When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, on dealing a
 
 {% tabs %}
 {% tab title="C1" %}
-### Foul Legacy: Tide Withholder
+### **Foul Legacy: Tide Withholder**
 
 Decreases the CD of **Foul Legacy: Raging Tide** by 20%
 {% endtab %}
 
 {% tab title="C2" %}
-### Foul Legacy: Understream
+### **Foul Legacy: Understream**
 
 When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Elemental Energy
 {% endtab %}
 
 {% tab title="C3" %}
-### Abyssal Mayhem: Vortex of Turmoil
+### **Abyssal Mayhem: Vortex of Turmoil**
 
 Increases the Level of **Foul Legacy: Raging Tide** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Abyssal Mayhem: Hydrospout
+### **Abyssal Mayhem: Hydrospout**
 
 If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
 
@@ -268,13 +268,13 @@ If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Ript
 {% endtab %}
 
 {% tab title="C5" %}
-### Havoc: Formless Blade
+### **Havoc: Formless Blade**
 
 Increases the Level of **Havoc: Obliteration** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Havoc: Annihilation
+### **Havoc: Annihilation**
 
 When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% endtab %}
@@ -373,7 +373,7 @@ When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: R
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}
 

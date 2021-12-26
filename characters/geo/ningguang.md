@@ -115,45 +115,44 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 
 {% tabs %}
 {% tab title="Passive" %}
-### Trove of Marvelous Treasures
+### **Trove of Marvelous Treasures**
 
 Displays the locations of nearby ore veins on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Backup Plan
+### **Backup Plan**
 
 When Ningguang is in possession of **Star Jades**, her Charged Attack does not consume Stamina.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Strategic Reserve
+### **Strategic Reserve**
 
 A character that passes through the **Jade Screen** will gain a 12% Geo DMG Bonus for 10s.
 {% endtab %}
 {% endtabs %}
 
-## *Constellations*
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-### Piercing Fragments
+### *Piercing Fragments*
 
 When a Normal Attack hits, it deals AoE Geo DMG.
 {% endtab %}
 
 {% tab title="C2" %}
-### Shock Effect
+### **Shock Effect**
 
 When **Jade Screen** is shattered, its CD will reset. This effect can occur once every 6s.
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
-
 {% endtab %}
 
 {% tab title="C3" %}
-### Majesty be the Array of Stars
+### **Majesty be the Array of Stars**
 
 Increases the level of **Starshatter** by 3.
 {% endtab %}
@@ -171,7 +170,7 @@ Increases the Level of **Jade Screen** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Grandeur be the Seven Stars
+### **Grandeur be the Seven Stars**
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
@@ -224,7 +223,7 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/geo/ningguang.md" %}
 

@@ -1,10 +1,12 @@
 ---
-description: >-
-  A maid who faithfully serves the Knights of Favonius. She dreams of joining
-  their ranks someday.
+description: A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.
 ---
 
 # Noelle
+
+## **Resources**
+
+* [Noelle Mains Discord](https://discord.gg/kvft4TKFet)
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Noelle
 
@@ -14,13 +16,13 @@ description: >-
 
 | Lv | Base HP | Base ATK | Base DEF | DEF% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7953 | 126 | 526 | 15 |
-| 60+ | 8490 | 134 | 562 | 15 |
-| 70 | 9325 | 148 | 617 | 15 |
-| 70+ | 9862 | 156 | 652 | 22.50 |
-| 80 | 10698 | 169 | 708 | 22.50 |
-| 80+ | 11235 | 178 | 743 | 30 |
-| 90 | 12071 | 191 | 799 | 30 |
+| 60 | 7953 | 126 | 526 | 15% |
+| 60+ | 8490 | 134 | 562 | 15% |
+| 70 | 9325 | 148 | 617 | 15% |
+| 70+ | 9862 | 156 | 652 | 22.50% |
+| 80 | 10698 | 169 | 708 | 22.50% |
+| 80+ | 11235 | 178 | 743 | 30% |
+| 90 | 12071 | 191 | 799 | 30% |
 
 ## **Attacks**
 
@@ -115,43 +117,41 @@ Noelle infuses her sword with Geo energy greatly increasing the range of her nor
 
 {% tabs %}
 {% tab title="Passive" %}
-### Maid’s Knighthood
+### **Maid’s Knighthood**
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Devotion
+### **Devotion**
 
 When Noelle is in the party but not on field, this ability triggers automatically when your active character’s HP falls below 30%.
 
 * Creates a shield for your active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.
 * This shield has a 150% DMG absorption effectiveness against all damage.
 * This effect can only occur once every 60s.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Nice and clean
+### **Nice and clean**
 
 Every 4 Normal Attack or Charged Attack hits will decrease the CD of **Breastplate** by 1s.
 
 * Hitting multiple opponents with a single attack is only counted as one hit.
-
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-### I Got Your Back
+### **I Got Your Back**
 
 While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate’s healing effects activating are increased to 100%.
 {% endtab %}
 
 {% tab title="C2" %}
-### Combat Maid
+### **Combat Maid**
 
 Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
@@ -160,13 +160,13 @@ Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and incre
 {% endtab %}
 
 {% tab title="C3" %}
-### Invulnerable Maid
+### **Invulnerable Maid**
 
 Increases the level of **Breastplate** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### To Be Cleaned
+### **To Be Cleaned**
 
 When **Breastplate**’s duration expires or it is destroyed, it will deal 400% ATK of Geo DMG to surrounding opponents.
 
@@ -176,13 +176,13 @@ When **Breastplate**’s duration expires or it is destroyed, it will deal 400% 
 {% endtab %}
 
 {% tab title="C5" %}
-### Favonius Sweeper Master
+### **Favonius Sweeper Master**
 
 Increases the Level of **Sweeping Time** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Must Be Spotless
+### **Must Be Spotless**
 
 **Sweeping Time** increases Noelle’s ATK by an additional 50% of her DEF.
 
@@ -192,17 +192,7 @@ Increases the Level of **Sweeping Time** by 3.
 {% endtab %}
 {% endtabs %}
 
-## Weapons
-
-### Serpent Spine
-
-Stacks will not be lost while under protection from a shield.
-
-### Whiteblind
-
-Due to **Sweeping Time**'s DEF conversion snapshotting, the full bonus from DEF will not be gained unless you have all stacks active when activating burst.
-
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Favonious Bladework - Maid" %}
@@ -265,22 +255,7 @@ Due to **Sweeping Time**'s DEF conversion snapshotting, the full bonus from DEF 
 {% endtab %}
 {% endtabs %}
 
-## Media
-
-{% tabs %}
-{% tab title="Dragonstrike" %}
-{% embed url="https://www.youtube.com/watch?v=ef8McW6VD4A" caption="with anemo resonance" %}
-
-Performing Dragonstrike on Noelle via N1 + plunge nets an average of a 27% increase in DPS compared to N3D. However, it's difficult to perform Noelle DS without movement speed buffs.
-{% endtab %}
-{% endtabs %}
-
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Noelle)
-* [Noelle Mains Discord](https://discord.gg/kvft4TKFet)
-
-**Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/geo/noelle.md" %}
 

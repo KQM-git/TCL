@@ -141,13 +141,13 @@ The Traveller has no passive talent.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Shattered Darkrock
+### **Shattered Darkrock**
 
 Reduces **Starfell Sword**’s CD by 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Frenzied Rockslide
+### **Frenzied Rockslide**
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
 
@@ -161,7 +161,7 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 
 {% tabs %}
 {% tab title="C1" %}
-### Invincible Stonewall
+### **Invincible Stonewall**
 
 Party members within the radius of **Wake of Earth** have their Crit Rate increased by 10% and have increased resistance against interruption.
 - Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
@@ -169,7 +169,7 @@ Party members within the radius of **Wake of Earth** have their Crit Rate increa
 {% endtab %}
 
 {% tab title="C2" %}
-### Rockcore Meltdown
+### **Rockcore Meltdown**
 
 When the meteorite created by **Starfell Sword** is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by **Starfell Sword**.
 
@@ -179,13 +179,13 @@ When the meteorite created by **Starfell Sword** is destroyed it will also explo
 {% endtab %}
 
 {% tab title="C3" %}
-### Will of the Rock
+### **Will of the Rock**
 
 Increases the level of **Wake of Earth** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Reaction Force
+### **Reaction Force**
 
 The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every enemy hit.
 
@@ -195,13 +195,13 @@ The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every enem
 {% endtab %}
 
 {% tab title="C5" %}
-### Meteroite Impact
+### **Meteroite Impact**
 
 Increases the Level of **Starfell Sword** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Everlasting Boulder
+### **Everlasting Boulder**
 
 The barrier created by **Wake of Earth** lasts 5s longer.
 

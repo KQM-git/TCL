@@ -108,19 +108,19 @@ Coalescing the frost in the air, Kaeya summons 3 **icicles** that revolve around
 
 {% tabs %}
 {% tab title="Passive" %}
-### Hidden Strength
+### **Hidden Strength**
 
 Decreases sprinting stamina consumption for your own party members by 20%. Not stackable with passive talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Cold-Blooded Strike
+### **Cold-Blooded Strike**
 
 Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Glacial Heart
+### **Glacial Heart**
 
 Opponents frozen by **Frostgnaw** will drop additional Cryo elemental particles. **Frostgnaw** may only produce a maximum of 2 additional elemental particles per use.
 
@@ -132,37 +132,37 @@ Opponents frozen by **Frostgnaw** will drop additional Cryo elemental particles.
 
 {% tabs %}
 {% tab title="C1" %}
-### Excellent Blood
+### **Excellent Blood**
 
 The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by Cryo is increased by 15%.
 {% endtab %}
 
 {% tab title="C2" %}
-### Never-Ending Performance
+### **Never-Ending Performance**
 
 When one of your own party members defeats an opponent during **Glacial Waltz**'s duration, its duration is increased by 2.5s, up to a maximum of 15s.
 {% endtab %}
 
 {% tab title="C3" %}
-### Dance of Frost
+### **Dance of Frost**
 
 Increases the Level of **Frostgnaw** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Frozen Kiss
+### **Frozen Kiss**
 
 Triggers automatically when Kaeya's HP falls below 20%: Creates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s. This shield absorbs Cryo DMG with 250% effiicency. Can only occur once every 60s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Frostbiting Embrace
+### **Frostbiting Embrace**
 
 Increases the level of **Glacial Waltz** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Glacial Whirlwind
+### **Glacial Whirlwind**
 
 **Glacial Waltz** will generate 1 additional **icicle**, and will regenerate 15 Energy when cast.
 {% endtab %}
@@ -219,7 +219,7 @@ Increases the level of **Glacial Waltz** by 3.
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault**:
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/cryo/kaeya.md" %}
 

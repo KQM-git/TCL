@@ -113,13 +113,13 @@ Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflict
 
 {% tabs %}
 {% tab title="Passive" %}
-### A Rad Recipe
+### **A Rad Recipe**
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### "The Show Goes On, Even Without an Audience..."
+### **"The Show Goes On, Even Without an Audience..."**
 
 Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.
 
@@ -128,7 +128,7 @@ Decreases the number of opponents Sweeping Fervor must hit to trigger each level
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### "...Now That's Rock 'N' Roll!"
+### **"...Now That's Rock 'N' Roll!"**
 
 Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% endtab %}
@@ -138,13 +138,13 @@ Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 
 {% tabs %}
 {% tab title="C1" %}
-### Fatal Acceleration
+### **Fatal Acceleration**
 
 Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s. (can trigger vs shielded enemies)
 {% endtab %}
 
 {% tab title="C2" %}
-### Impromptu Opening
+### **Impromptu Opening**
 
 Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
 
@@ -153,25 +153,25 @@ Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form 
 {% endtab %}
 
 {% tab title="C3" %}
-### Double-Stop
+### **Double-Stop**
 
 Increases the Level of Sweeping Fervor by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Wildfire Rhythm
+### **Wildfire Rhythm**
 
 Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Screamin' for an Encore
+### **Screamin' for an Encore**
 
 Increases the Level of Riff Revolution by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Rockin' in a Flaming World
+### **Rockin' in a Flaming World**
 
 Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.  
 * Her C6 is added into the stats page as flat ATK.
@@ -238,7 +238,7 @@ Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally,
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/xinyan.md" %}
 

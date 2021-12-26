@@ -157,7 +157,7 @@ The Traveller has no passive talent.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Slitting Wind
+### **Slitting Wind**
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.
 
@@ -167,7 +167,7 @@ The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Second Wind
+### **Second Wind**
 
 **Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s.
 {% endtab %}
@@ -177,37 +177,37 @@ The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK
 
 {% tabs %}
 {% tab title="C1" %}
-### Raging Vortex
+### **Raging Vortex**
 
 **Palm Vortex** pulls in enemies within a 5m radius.
 {% endtab %}
 
 {% tab title="C2" %}
-### Uprising Whirlwind
+### **Uprising Whirlwind**
 
 Increases Energy Recharge by 16%.
 {% endtab %}
 
 {% tab title="C3" %}
-### Sweeping Gust
+### **Sweeping Gust**
 
 Increases the level of **Gust Surge** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Cherishing Breezes
+### **Cherishing Breezes**
 
 Reduces DMG taken while casting **Palm Vortex** by 10%.
 {% endtab %}
 
 {% tab title="C5" %}
-### Vortex Stellaris
+### **Vortex Stellaris**
 
 Increases the level of **Palm Vortex** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Intertwined Winds
+### **Intertwined Winds**
 
 Targets who take DMG from **Gust Surge** have their Anemo RES decreased by 20%.
 

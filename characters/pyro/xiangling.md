@@ -102,14 +102,20 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 
 {% tabs %}
 {% tab title="Passive" %}
+**Chef de Cuisine**
+
 When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
+**Crossfire**
+
 Increase the flame range of **Guoba** by 20%
 {% endtab %}
 
 {% tab title="Ascension 4" %}
+**Beware, It's Super Hot!**
+
 When **Guoba's** attack ends, **Guoba** leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases attack by 10% for 10 seconds.
 {% endtab %}
 {% endtabs %}
@@ -211,6 +217,6 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro** DMG B
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 {% page-ref page="../../evidence/characters/pyro/xiangling.md" %}
 

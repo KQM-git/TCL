@@ -1,10 +1,13 @@
 ---
-description: >-
-  The righteous and rigorous Dandelion Knight, and Acting Grand Master of the
-  Knights of Favonius of Mondstadt.
+description: The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius of Mondstadt.
 ---
 
 # Jean
+
+## **Resources**
+
+* [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
+* [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
 
 ## ![](../../.gitbook/assets/element_anemo.png) Jean
 
@@ -14,13 +17,13 @@ description: >-
 
 | Lv | Base HP | Base ATK | Base DEF | Healing Bonus% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 9533 | 155 | 499 | 11.10 |
-| 60+ | 10230 | 166 | 535 | 11.10 |
-| 70 | 11243 | 183 | 588 | 11.10 |
-| 70+ | 11940 | 194 | 624 | 16.60 |
-| 80 | 12965 | 211 | 678 | 16.60 |
-| 80+ | 13662 | 222 | 715 | 22.20 |
-| 90 | 14695 | 239 | 769 | 22.20 |
+| 60 | 9533 | 155 | 499 | 11.10% |
+| 60+ | 10230 | 166 | 535 | 11.10% |
+| 70 | 11243 | 183 | 588 | 11.10% |
+| 70+ | 11940 | 194 | 624 | 16.60% |
+| 80 | 12965 | 211 | 678 | 16.60% |
+| 80+ | 13662 | 222 | 715 | 22.20% |
+| 90 | 14695 | 239 | 769 | 22.20% |
 
 ## **Attacks**
 
@@ -29,7 +32,7 @@ description: >-
 **Normal Attacks**  
 Jean performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 70.25% | 14 | 301%/s |
 | 2-Hit | 66.25% | 37 | 221.35%/s |
@@ -40,7 +43,7 @@ Jean performs up to 5 consecutive attacks.
 **Charged Attack**  
 Consumes 20 stamina to strike upwards and knocks up enemies that will then fall down slowly.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | CA | 235.50% | 73 | 196.2%/s |
 
@@ -106,35 +109,35 @@ Jean creates **Dandelion field** dealing AoE Anemo DMG and heals the party insta
 
 {% tabs %}
 {% tab title="Passive" %}
-### Guiding Breeze
+### **Guiding Breeze**
 
 When a Perfect Cooking is achieved on a dish with restorative effects, Jean has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Wind Companion
+### **Wind Companion**
 
 Hits by Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Let the Wind Lead
+### **Let the Wind Lead**
 
 Using **Dandelion Breeze** will regenerate 20% of its Energy.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-### Spiraling Tempest
+### **Spiraling Tempest**
 
 Increases the pulling speed of **Gale Blade** after holding for more than 1s, and increases the DMG dealt by 40%.
 {% endtab %}
 
 {% tab title="C2" %}
-### People's Aegis
+### **People's Aegis**
 
 When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
 
@@ -142,25 +145,25 @@ When Jean picks up an Elemental Orb/Particle, all party members have their Movem
 {% endtab %}
 
 {% tab title="C3" %}
-### When the West Wind Arises
+### **When the West Wind Arises**
 
 Increases the level of **Dandelion Breeze** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Lands of Dandelion
+### **Lands of Dandelion**
 
 Within the **Field** created by **Dandelion Breeze**, all opponents have their Anemo RES decreased by 40%.
 {% endtab %}
 
 {% tab title="C5" %}
-### Outbursting Gust
+### **Outbursting Gust**
 
 Increases the Level of **Gale Blade** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Lion's Fang, Fair Protector of Mondstadt
+### **Lion's Fang, Fair Protector of Mondstadt**
 
 Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze**. Upon leaving the **Dandelion Field**, this effect lasts for 3 attacks or 10s.
 {% endtab %}
@@ -202,10 +205,8 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 408.80 | 438 | 467.20 | 496.40 | 525.60 | 554.80 | 584 | 620.50 |
 
-**Stamina Consumption per Second**: 20
-
-**Maximum Duration**: 5s
-
+**Stamina Consumption per Second**: 20  
+**Maximum Duration**: 5s  
 **Cooldown**: 6s
 {% endtab %}
 
@@ -219,21 +220,13 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 | Continuous Regeneration Scaling | 35.17 | 37.68 | 40.19 | 42.7 | 45.22 | 47.73 | 50.24 | 53.38 |
 | Continuous Regeneration Additive | 244 | 266 | 289 | 313 | 339 | 366 | 394 | 424 |
 
-**Energy Cost**: 80
-
-**Duration**: 10s
-
+**Energy Cost**: 80  
+**Duration**: 10s  
 **Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Jean)
-* [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
-* [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
-
-**Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/jean.md" %}
 

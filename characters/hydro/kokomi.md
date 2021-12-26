@@ -136,19 +136,19 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 
 {% tabs %}
 {% tab title="Passive 1" %}
-### Princess of Watatsumi
+### **Princess of Watatsumi**
 
 Decreases swimming Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 
 {% endtab %}
 {% tab title="Passive 2" %}
-### Flawless Stategy
+### **Flawless Stategy**
 
 Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
 
 {% endtab %}
 {% tab title="Ascension 1" %}
-### Tamanooya's Casket
+### **Tamanooya's Casket**
 
 If Sangonomiya Kokomi's own **Bake-Kurage** is on the field when she uses **Nereid's Ascension**, the **Bake-Kurage**'s duration will be refreshed.
 
@@ -156,7 +156,7 @@ If Sangonomiya Kokomi's own **Bake-Kurage** is on the field when she uses **Nere
 
 {% endtab %}
 {% tab title="Ascension 4" %}
-### Song of Pearls
+### **Song of Pearls**
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.
 
@@ -169,7 +169,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the 
 
 {% tabs %}
 {% tab title="C1" %}
-### At Water's Edge
+### **At Water's Edge**
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a **Swimming Fish** to deal 30% of her Max HP as Hydro DMG. This DMG is not considered Normal Attack DMG.
 
@@ -178,7 +178,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the 
 {% endtab %}
 
 {% tab title="C2" %}
-### The Clouds Like Waves Rippling
+### **The Clouds Like Waves Rippling**
 
 Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods: 
 * **Kurage's Oath Bake-Kurage**: 4.5% of Kokomi's Max HP.
@@ -187,25 +187,25 @@ Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters
 {% endtab %}
 
 {% tab title="C3" %}
-### The Moon, A Ship O'er the Seas
+### **The Moon, A Ship O'er the Seas**
 
 Increases the Level of **Nereid's Ascension** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### The Moon Overlooks the Waters
+### **The Moon Overlooks the Waters**
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her. This effect can occur once every 0.2s.
 {% endtab %}
 
 {% tab title="C5" %}
-### All Streams Flow to the Sea
+### **All Streams Flow to the Sea**
 
 Increases the Level of **Kurage's Oath** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### Sango Isshin
+### **Sango Isshin**
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sangonomiya Kokomi gains a 40% Hydro DMG Bonus for 4s after her Normal and Charged Attacks heal a character with 80% or more HP.
 {% endtab %}
@@ -267,6 +267,6 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/hydro/kokomi.md" %}

@@ -117,13 +117,13 @@ The following effects of Brilliance last until Yan Fei leaves the field or falls
 
 {% tabs %}
 {% tab title="Passive" %}
-### Encyclopedic Expertise
+### **Encyclopedic Expertise**
 
 Displays the location of nearby resources unique to Liyue on the mini-map
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Proviso
+### **Proviso**
 
 When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
 
@@ -131,7 +131,7 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Blazing Eye
+### **Blazing Eye**
 
 When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
@@ -149,25 +149,25 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 
 {% tabs %}
 {% tab title="C1" %}
-### The Law Knows No Kindness
+### **The Law Knows No Kindness**
 
 When Yan Fei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
 {% endtab %}
 
 {% tab title="C2" %}
-### Right of Final Interpretation
+### **Right of Final Interpretation**
 
 Increases Yan Fei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
 {% endtab %}
 
 {% tab title="C3" %}
-### Samadhi Fire-Forged
+### **Samadhi Fire-Forged**
 
 Increases the Level of Signed Edict by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Supreme Amnesty
+### **Supreme Amnesty**
 
 When Done Deal is used:
 
@@ -176,13 +176,13 @@ When Done Deal is used:
 {% endtab %}
 
 {% tab title="C5" %}
-### Abiding Affidavit
+### **Abiding Affidavit**
 
 Increases the Level of Done Deal by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Extra Clause
+### **Extra Clause**
 
 Increases the maximum number of Scarlet Seals by 1.
 
@@ -246,7 +246,7 @@ Increases the maximum number of Scarlet Seals by 1.
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault:
 
 {% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
 

@@ -128,13 +128,13 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 
 {% tabs %}
 {% tab title="Passive" %}
-### Cloud Strider
+### **Cloud Strider**
 
 Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Soumon Swordsmanship
+### **Soumon Swordsmanship**
 
 If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **Chihayaburu** will absorb that element and if **Plunging Attack: Midare Ranzan** is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG. Elemental Absorption may only occur once per use of Chihayaburu.
 
@@ -150,7 +150,7 @@ If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Poetics of Fuubutsu
+### **Poetics of Fuubutsu**
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% Elemental DMG Bonus to their corresponding Element for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
@@ -163,13 +163,13 @@ Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% 
 {% tabs %}
 
 {% tab title="C1" %}
-### Scarlet Hills
+### **Scarlet Hills**
 
 Decreases **Chihayaburu**'s CD by 10%. Using Kazuha Slash resets the CD of **Chihayaburu**.
 {% endtab %}
 
 {% tab title="C2" %}
-### Yamaarashi Tailwind
+### **Yamaarashi Tailwind**
 
 The **Autumn Whirlwind** field created by **Kazuha Slash** has the following effects:  
 * Increases Kaedehara Kazuha's own Elemental Mastery by 200.
@@ -179,30 +179,29 @@ The Elemental Mastery-increasing effects of this Constellation do not stack.
 {% endtab %}
 
 {% tab title="C3" %}
-### Maple Monogatari
+### **Maple Monogatari**
 
 Increases the Level of **Chihayaburu** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### Oozora Genpou
+### **Oozora Genpou**
 
 When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects: 
 * Tapping or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
 * When gliding, Kaedehara Kazuha regenerates 2 Energy per second.  
   * The energy gained while gliding is not affected by energy recharge.  
   
-
 {% endtab %}
 
 {% tab title="C5" %}
-### Wisdom of Bansei
+### **Wisdom of Bansei**
 
 Increases the Level of **Kazuha Slash** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### Crimson Momiji
+### **Crimson Momiji**
 
 After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an Anemo Infusion for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%.
 * The Anemo infusion can be overriden by other infusion effects such as Bennett's C6 Inspiration Field.
@@ -268,6 +267,6 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an Anemo
 {% endtab %}
 {% endtabs %}
 
-## Evidence Vault:
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/kazuha.md" %}

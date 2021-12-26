@@ -126,19 +126,19 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 
 {% tabs %}
 {% tab title="Passive" %}
-### Land Survey
+### **Land Survey**
 
 When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Immovable Will
+### **Immovable Will**
 
 While in the **Crowfeather Cover** state provided by **Tengu Stormcall**, Aimed Shot charge times are decreased by 60%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Decorum
+### **Decorum**
 
 When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
 
@@ -152,13 +152,13 @@ When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy
 
 {% tabs %}
 {% tab title="C1" %}
-### Crow's Eye
+### **Crow's Eye**
 
 When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s. This effect can be triggered once every 3s.
 {% endtab %}
 
 {% tab title="C2" %}
-### Dark Wings
+### **Dark Wings**
 
 Unleashing Tengu Stormcall will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
 | Type | Talent 6% |
@@ -170,34 +170,32 @@ Unleashing Tengu Stormcall will leave a **Weaker Crowfeather** at Kujou Sara's o
 * The **Weaker Crowfeather** applies 1A Electro and has separate ICD from **Tengu Stormcall**.
 * **Weaker Crowfeather** snapshots upon **Tengu Stormcall** cast.
 * The **Weaker Crowfeather** formed can trigger the effects of Sara's A4.
-
 {% endtab %}
 
 {% tab title="C3" %}
-### The War Within
+### **The War Within**
 
 Increases the Level of **Subjugation: Koukou Sendou** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### Conclusive Proof
+### **Conclusive Proof**
 
 The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou Sendou** is increased to 6.
 {% endtab %}
 
 {% tab title="C5" %}
-### Spellsinger
+### **Spellsinger**
 
 Increases the Level of **Tengu Stormcall** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### Sin of Pride
+### **Sin of Pride**
 
 The Electro DMG of characters who have had their ATK increased by **Tengu Juurai** has its Crit DMG increased by 60%.
 
 * The effects of **Sin of Pride** do not get snapshot.
-
 {% endtab %}
 {% endtabs %}
 
@@ -253,6 +251,6 @@ The Electro DMG of characters who have had their ATK increased by **Tengu Juurai
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/electro/sara.md" %}

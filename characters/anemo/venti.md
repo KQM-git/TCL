@@ -9,7 +9,7 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 * [Venti Mains Discord](https://discord.gg/ventimains)
 
 
-## ![](../../.gitbook/assets/element_anemo.png)Venti
+## ![](../../.gitbook/assets/element_anemo.png) Venti
 
 ![](../../.gitbook/assets/character_venti_wish.webp)
 
@@ -17,13 +17,13 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6832 | 171 | 434 | 16 |
-| 60+ | 7331 | 183 | 465 | 16 |
-| 70 | 8058 | 201 | 512 | 16 |
-| 70+ | 8557 | 214 | 543 | 24 |
-| 80 | 9292 | 232 | 590 | 24 |
-| 80+ | 9791 | 245 | 622 | 32 |
-| 90 | 10531 | 263 | 669 | 32 |
+| 60 | 6832 | 171 | 434 | 16% |
+| 60+ | 7331 | 183 | 465 | 16% |
+| 70 | 8058 | 201 | 512 | 16% |
+| 70+ | 8557 | 214 | 543 | 24% |
+| 80 | 9292 | 232 | 590 | 24% |
+| 80+ | 9791 | 245 | 622 | 32% |
+| 90 | 10531 | 263 | 669 | 32% |
 
 ## **Attacks**
 
@@ -125,7 +125,7 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 
 {% tabs %}
 {% tab title="Passive" %}
-### Windrider
+### **Windrider**
 
 Decreases gliding Stamina consumption for your own party members by 20%.
 
@@ -133,13 +133,13 @@ Decreases gliding Stamina consumption for your own party members by 20%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Embrace of Winds
+### **Embrace of Winds**
 
 Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Stormeye
+### **Stormeye**
 
 Regenerates 15 Energy for Venti after the effects of **Wind's Grand Ode** end.
 
@@ -151,7 +151,7 @@ If an **Elemental Absorption** occurred, this also regenerates 15 Energy for all
 
 {% tabs %}
 {% tab title="C1" %}
-### Splitting Gales
+### **Splitting Gales**
 
 Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
 
@@ -159,7 +159,7 @@ Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow
 {% endtab %}
 
 {% tab title="C2" %}
-### Breeze of Reminiscence
+### **Breeze of Reminiscence**
 
 **Skyward Sonnet** decreases opponents' Anemo RES and Physical RES by 12% for 10s.
 
@@ -173,19 +173,19 @@ Increases the Level of **Wind's Grand Ode** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Hurricane of Freedom
+### **Hurricane of Freedom**
 
 When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Concerto dal Cielo
+### **Concerto dal Cielo**
 
 Increases the Level of **Skyward Sonnet** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Storm of Defiance
+### **Storm of Defiance**
 
 Targets who take DMG from **Wind's Grand Ode** have their Anemo RES decreased by 20%.
 
@@ -249,7 +249,7 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/venti.md" %}
 

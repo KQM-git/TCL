@@ -7,8 +7,8 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 ## Resources
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
-* [Fischl Support Weapon Rankings](../../evidence/characters/electro/fischl.md#fischl-support-weapon-rankings) by itsjaeYOU#2868
-* [Fischl Build Comparison](../../evidence/characters/electro/fischl.md#fischl-build-comparison) by Paraszczak#0148
+* [Fischl Support Weapon Rankings](../../evidence/characters/electro/fischl.md#fischl-support-weapon-rankings) *by itsjaeYOU\#2868*
+* [Fischl Build Comparison](../../evidence/characters/electro/fischl.md#fischl-build-comparison) *by Paraszczak\#0148*
 
 ## ![](../../.gitbook/assets/element_electro.png) Fischl
 
@@ -18,13 +18,13 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6054 | 161 | 391 | 12 |
-| 60+ | 6463 | 172 | 418 | 12 |
-| 70 | 7099 | 189 | 459 | 12 |
-| 70+ | 7508 | 200 | 485 | 18 |
-| 80 | 8144 | 216 | 526 | 18 |
-| 80+ | 8553 | 227 | 553 | 24 |
-| 90 | 9189 | 244 | 594 | 24 |
+| 60 | 6054 | 161 | 391 | 12% |
+| 60+ | 6463 | 172 | 418 | 12% |
+| 70 | 7099 | 189 | 459 | 12% |
+| 70+ | 7508 | 200 | 485 | 18% |
+| 80 | 8144 | 216 | 526 | 18% |
+| 80+ | 8553 | 227 | 553 | 24% |
+| 90 | 9189 | 244 | 594 | 24% |
 
 ## **Attacks**
 
@@ -134,14 +134,14 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 
 {% tabs %}
 {% tab title="Passive" %}
-### Mein Hausgarten
+### **Mein Hausgarten**
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Stellar Predator
+### **Stellar Predator**
 
 When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
 
@@ -157,7 +157,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Undone Be Thy Sinful Hex
+### **Undone Be Thy Sinful Hex**
 
 \(previously known as **Lightning Smite**\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
@@ -180,7 +180,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 
 {% tabs %}
 {% tab title="C1" %}
-### Gaze of the Deep
+### **Gaze of the Deep**
 
 When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
@@ -195,7 +195,7 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 {% endtab %}
 
 {% tab title="C2" %}
-### Devourer of All Sins
+### **Devourer of All Sins**
 
 When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
 
@@ -207,13 +207,13 @@ When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and
 {% endtab %}
 
 {% tab title="C3" %}
-### Wings of Nightmare
+### **Wings of Nightmare**
 
 Increases the level of **Nightrider** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Her Pilgrimage of Bleak
+### **Her Pilgrimage of Bleak**
 
 When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
 
@@ -229,13 +229,13 @@ When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to
 {% endtab %}
 
 {% tab title="C5" %}
-### Against the Fleeing Light
+### **Against the Fleeing Light**
 
 Increases the Level of **Midnight Phantasmagoria** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Evernight Raven
+### **Evernight Raven**
 
 Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
 
@@ -308,7 +308,7 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/electro/fischl.md" %}
 

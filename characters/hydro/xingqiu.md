@@ -131,19 +131,19 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 {% tabs %}
 {% tab title="Passive" %}
 
-### Flash of Genius
+### **Flash of Genius**
 
 When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Hydropathic
+### **Hydropathic**
 
 When a **Rain Sword** is shattered or when its duration expires, it regenerates the current character’s HP based on 6% of Xingqiu’s Max HP.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Blades Amidst Raindrops
+### **Blades Amidst Raindrops**
 
 Xingqiu gains a 20% Hydro DMG Bonus.
 {% endtab %}
@@ -153,26 +153,26 @@ Xingqiu gains a 20% Hydro DMG Bonus.
 
 {% tabs %}
 {% tab title="C1" %}
-### The Scent Remained
+### **The Scent Remained**
 
 Increases the maximum number of **Rain Swords** by 1.
 {% endtab %}
 
 {% tab title="C2" %}
-### Rainbow Upon the Azure Sky
+### **Rainbow Upon the Azure Sky**
 
 Extends the duration of **Guhua Sword: Raincutter** by 3s.  
 Decreases the Hydro RES of opponents hit by **Sword Rain** attack by 15% for 4s.
 {% endtab %}
 
 {% tab title="C3" %}
-### Weaver of Verses
+### **Weaver of Verses**
 
 Increases the Level of **Guhua Sword: Raincutter** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Evilsoother
+### **Evilsoother**
 
 Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by Guhua Sword: Fatal Rainscreen is increased by 50%.
 
@@ -182,13 +182,13 @@ Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by Guhua S
 {% endtab %}
 
 {% tab title="C5" %}
-### Embrace of Rain
+### **Embrace of Rain**
 
 Increases the level of **Guhua Sword: Fatal Rainscreen** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Hence, Call Them My Own Verses
+### **Hence, Call Them My Own Verses**
 
 Changes the number of **Sword Rain** attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
 

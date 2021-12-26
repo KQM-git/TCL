@@ -8,7 +8,7 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 
 ![](../../.gitbook/assets/character_sayu_wish.png)
 
-## Base Stats
+## **Base Stats**
 
 | Lv | Base HP | Base ATK | Base DEF | Elemental Mastery |
 | :--- | :--- | :--- | :--- | :--- |
@@ -137,7 +137,7 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 
 {% tabs %}
 {% tab title="Passive" %}
-### Yoohoo Art: Silencer's Secret
+### **Yoohoo Art: Silencer's Secret**
 
 When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.
 
@@ -149,13 +149,13 @@ When Sayu is in the party, your characters will not startle Crystalflies and cer
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Someone More Capable
+### **Someone More Capable**
 
 When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has. This effect can be triggered once every 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### No Work Today!
+### **No Work Today!**
 
 The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** gains the following effects: 
 * When healing a character, it will also heal characters near that healed character for 20% the amount of HP. 
@@ -167,13 +167,13 @@ The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** gains the foll
 
 {% tabs %}
 {% tab title="C1" %}
-### Multi-Task no Jutsu
+### **Multi-Task no Jutsu**
 
 The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** will ignore HP limits and can simultaneously attack nearby opponents and heal characters.
 {% endtab %}
 
 {% tab title="C2" %}
-### Egress Prep
+### **Egress Prep**
 
 **Yoohoo Art: Fuuin Dash** gains the following effects: 
 * DMG of **Fuufuu Whirlwind Kick** in Press Mode increased by 3.3%. 
@@ -183,25 +183,25 @@ The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** will ignore HP
 {% endtab %}
 
 {% tab title="C3" %}
-### Eh, the Bunshin Can Handle It
+### **Eh, the Bunshin Can Handle It**
 
 Increases the Level of **Yoohoo Art: Mujina Flurry** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### Skiving: New and Improved
+### **Skiving: New and Improved**
 
 Sayu recovers 1.2 Energy when she triggers a Swirl reaction. This effect occurs once every 2s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Speed Comes First
+### **Speed Comes First**
 
 Increases the Level of **Yoohoo Art: Fuuin Dash** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### Sleep O'Clock
+### **Sleep O'Clock**
 
 The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects: 
 * Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method. 
@@ -269,6 +269,6 @@ The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will no
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/sayu.md" %}

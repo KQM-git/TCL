@@ -10,7 +10,7 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 # Diluc
 
-## ![](../../.gitbook/assets/element_pyro.png)Diluc
+## ![](../../.gitbook/assets/element_pyro.png) Diluc
 
 ![](../../.gitbook/assets/character_diluc_wish.png)
 
@@ -113,19 +113,19 @@ After the slash, Diluc infuses his weapon with Pyro.
 
 {% tabs %}
 {% tab title="Passive" %}
-#### Tradition of the Dawn Knight
+#### **Tradition of the Dawn Knight**
 
 Refunds 15% of the ore used when crafting Claymore-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-#### Relentless
+#### **Relentless**
 
 Diluc's Charged Attack stamina cost is decreased by 50%, and its duration is increased by 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-#### Blessing of the Phoenix
+#### **Blessing of the Phoenix**
 
 The Pyro Infusion granted by Dawn lasts 4s longer. Additionally, Diluc gains 20% Pyro DMG Bonus for duration of the effect.
 * The Pyro DMG Bonus is also applied to **Dawn**'s Slashing, DoT, and Explosion DMG.
@@ -136,31 +136,31 @@ The Pyro Infusion granted by Dawn lasts 4s longer. Additionally, Diluc gains 20%
 
 {% tabs %}
 {% tab title="C1" %}
-#### Conviction
+#### **Conviction**
 
 Diluc deals 15% increased DMG to opponents whose HP is above 50%.
 {% endtab %}
 
 {% tab title="C2" %}
-#### Searing Ember
+#### **Searing Ember**
 
 When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s. This effect can stack up to 3 times and can only occur once every 1.5s.
 {% endtab %}
 
 {% tab title="C3" %}
-#### Fire and Steel
+#### **Fire and Steel**
 
 Increases the level of Searing Onslaught by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-#### Flowing Flame
+#### **Flowing Flame**
 
 If Searing Onslaught is recast more than 2s after the previous cast, it deals 40% additional DMG.
 {% endtab %}
 
 {% tab title="C5" %}
-#### Phoenix, Harbinger of Dawn
+#### **Phoenix, Harbinger of Dawn**
 
 Increases the Level of Dawn by 3.
 {% endtab %}
@@ -228,7 +228,7 @@ After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s wi
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/diluc.md" %}
 

@@ -8,8 +8,8 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 
 * [Mona Mains Discord](https://discord.gg/uxVEDkTyRe)
 * [Full Mona Written Guide: The Astrological Guide to Mona Megistus](https://keqingmains.com/mona/)
-* [Optimal Mona Attack String](../../evidence/characters/hydro/mona.md#what-attack-string-combo-outputs-the-highest-dps-for-mona) by Baezal\#0868
-* [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) by Gibbigobo\#9750(aka LACola)
+* [Optimal Mona Attack String](../../evidence/characters/hydro/mona.md#what-attack-string-combo-outputs-the-highest-dps-for-mona) *by Baezal\#0868*
+* [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) *by Gibbigobo\#9750(aka LACola)*
 
 
 ## ![](../../.gitbook/assets/element_hydro.png) Mona
@@ -166,13 +166,13 @@ Traps opponents inside a pocket of destiny and also makes them Wet. Renders weak
 
 {% tabs %}
 {% tab title="Passive" %}
-### Principium of Astrology
+### **Principium of Astrology**
 
 When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### “Come ‘n’ Get me, Hag!”
+### **“Come ‘n’ Get me, Hag!”**
 
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**:
 
@@ -183,7 +183,7 @@ After she has used **Illusory Torrent** for 2s, if there are any opponents nearb
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Waterborne Destiny
+### **Waterborne Destiny**
 
 Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.
 
@@ -196,7 +196,7 @@ Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy R
 
 {% tabs %}
 {% tab title="C1" %}
-### Prophecy of Submersion
+### **Prophecy of Submersion**
 
 When any of your own party members hit an opponent affected by an **Omen**, Hydro-related Elemental Reactions are enhanced for 8s:
 
@@ -215,7 +215,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 {% endtab %}
 
 {% tab title="C2" %}
-### Lunar Chain
+### **Lunar Chain**
 
 When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**. This effect can only occur once every 5s.
 
@@ -224,25 +224,25 @@ When a **Normal Attack** hits, there is a 20% chance that it will be automatical
 {% endtab %}
 
 {% tab title="C3" %}
-### Restless Revolution
+### **Restless Revolution**
 
 Increases the Level of **Stellaris Phantasm** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Prophecy of Oblivion
+### **Prophecy of Oblivion**
 
 When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.
 {% endtab %}
 
 {% tab title="C5" %}
-### Mockery of Fortuna
+### **Mockery of Fortuna**
 
 Increases the Level of **Mirror Reflection of Doom** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Rhetorics of Calamitas
+### **Rhetorics of Calamitas**
 
 Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next **Charged Attack** per second of movement.
 
@@ -303,7 +303,7 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/hydro/mona.md" %}
 

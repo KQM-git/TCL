@@ -17,13 +17,13 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 | Lv | Base HP | Base ATK | Base DEF | Cryo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6305 | 140 | 396 | 12 |
-| 60+ | 6731 | 149 | 422 | 12 |
-| 70 | 7393 | 164 | 464 | 12 |
-| 70+ | 7818 | 174 | 491 | 18 |
-| 80 | 8481 | 188 | 532 | 18 |
-| 80+ | 8907 | 198 | 559 | 24 |
-| 90 | 9570 | 212 | 601 | 24 |
+| 60 | 6305 | 140 | 396 | 12% |
+| 60+ | 6731 | 149 | 422 | 12% |
+| 70 | 7393 | 164 | 464 | 12% |
+| 70+ | 7818 | 174 | 491 | 18% |
+| 80 | 8481 | 188 | 532 | 18% |
+| 80+ | 8907 | 198 | 559 | 24% |
+| 90 | 9570 | 212 | 601 | 24% |
 
 ## **Attacks**
 
@@ -98,7 +98,6 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Elemental Type | Cryo | 
 | Duration | 2.3s per paw |
 
-
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
 * Icy Paws will not generate a shield if they do not hit something. They will also despawn after a certain amount of time.
@@ -142,19 +141,19 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 {% tabs %}
 {% tab title="Passive" %}
-### Complimentary Bar Food
+### **Complimentary Bar Food**
 
 When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Cat’s Tail Secret Menu
+### **Cat’s Tail Secret Menu**
 
 Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Drunkards’ Farce
+### **Drunkards’ Farce**
 
 Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 {% endtab %}
@@ -164,39 +163,39 @@ Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 
 {% tabs %}
 {% tab title="C1" %}
-### A Lingering Flavor
+### **A Lingering Flavor**
 
 Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
 {% endtab %}
 
 {% tab title="C2" %}
-### Shaken, Not Purred
+### **Shaken, Not Purred**
 
 Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield’s DMG Absorption for 5s.
 
 * This DMG increase is **Additive**.
-  {% endtab %}
+{% endtab %}
 
 {% tab title="C3" %}
-### A-Another Round?
+### **A-Another Round?**
 
 Increases the Level of **Signature Mix** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Wine Industry Slayer
+### **Wine Industry Slayer**
 
 Within the radius of **Signature Mix**, Diona’s charge time for Aimed Shots is reduced by 60%
 {% endtab %}
 
 {% tab title="C5" %}
-### Double Shot, On The Rocks
+### **Double Shot, On The Rocks**
 
 Increases the Level of **Icy Paws** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Cat’s Tail Closing Time
+### **Cat’s Tail Closing Time**
 
 Characters within **Signature Mix**’s radius will gain the following effects:
 
@@ -263,7 +262,7 @@ The Elemental Mastery bonus will apply immediately on swap and linger for 2 seco
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/cryo/diona.md" %}
 

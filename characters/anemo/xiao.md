@@ -9,7 +9,7 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
 
-## ![](../../.gitbook/assets/element_anemo.png)Xiao
+## ![](../../.gitbook/assets/element_anemo.png) Xiao
 
 ![](../../.gitbook/assets/character_xiao_wish.webp)
 
@@ -17,13 +17,13 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT RATE % |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 8262 | 227 | 519 | 14.6 |
-| 60+ | 8866 | 243 | 556 | 14.6 |
-| 70 | 9744 | 267 | 612 | 14.6 |
-| 70+ | 10348 | 284 | 649 | 19.4 |
-| 80 | 11236 | 308 | 705 | 19.4 |
-| 80+ | 11840 | 325 | 743 | 24.2 |
-| 90 | 12736 | 349 | 799 | 24.2 |
+| 60 | 8262 | 227 | 519 | 14.6% |
+| 60+ | 8866 | 243 | 556 | 14.6% |
+| 70 | 9744 | 267 | 612 | 14.6% |
+| 70+ | 10348 | 284 | 649 | 19.4% |
+| 80 | 11236 | 308 | 705 | 19.4% |
+| 80+ | 11840 | 325 | 743 | 24.2% |
+| 90 | 12736 | 349 | 799 | 24.2% |
 
 ## **Attacks**
 
@@ -98,7 +98,7 @@ Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago
 * Xiao's attacks will be infused with 1GU Anemo.  
 * While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
 
-| Attribute | Burst  |
+| Attribute | Burst |
 | :--- | :--- |
 | Normal, Charged, Plunge DMG bonus \(T6%\) | 77% |
 | Life Drain \(T6%\) | 2.5% Current HP/s |
@@ -114,19 +114,19 @@ Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago
 
 {% tabs %}
 {% tab title="Passive" %}
-### Transcension: Gravity Defier
+### **Transcension: Gravity Defier**
 
 Decreases climbing Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Conqueror of Evil: Tamer of Demons
+### **Conqueror of Evil: Tamer of Demons**
 
 While under the effects of **Bane of All Evil**, all DMG dealt by Xiao is increased by 5%. DMG is increased by an additional 5% for every 3s the ability persists. The maximum DMG Bonus is 25%
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Dissolution Eon: Heaven Fall
+### **Dissolution Eon: Heaven Fall**
 
 Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lemniscatic Wind Cycling** by 15%. This effect lasts for 7s and has a maximum of 3 stacks. Gaining a new stack refreshes the duration of this effect.
 {% endtab %}
@@ -136,37 +136,37 @@ Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lem
 
 {% tabs %}
 {% tab title="C1" %}
-### Dissolution Eon: Destroyer of Worlds
+### **Dissolution Eon: Destroyer of Worlds**
 
 Increases **Lemniscatic Wind Cycling**'s charges by 1.
 {% endtab %}
 
 {% tab title="C2" %}
-### Annihilation Eon: Blossom of Kaleidos
+### **Annihilation Eon: Blossom of Kaleidos**
 
 When in the party and not on the field, Xiao's Energy Recharge is increased by 25%
 {% endtab %}
 
 {% tab title="C3" %}
-### Conqueror of Evil: Wrath Deity
+### **Conqueror of Evil: Wrath Deity**
 
 Increases the level of **Lemniscatic Wind Cycling** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Transcension: Extinction of Suffering
+### **Transcension: Extinction of Suffering**
 
 When Xiao's HP falls below 50%, he gains a 100% DEF Boost.
 {% endtab %}
 
 {% tab title="C5" %}
-### Evolution Eon: Origin of Ignorance
+### **Evolution Eon: Origin of Ignorance**
 
 Increases the level of **Bane of All Evil** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Conqueror of Evil: Guardian Yaksha
+### **Conqueror of Evil: Guardian Yaksha**
 
 While under the effect of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunge Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use **Lemniscatic Wind Cycling** while ignoring its CD.
 {% endtab %}
@@ -223,7 +223,7 @@ While under the effect of **Bane of All Evil**, hitting at least 2 opponents wit
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/xiao.md" %}
 

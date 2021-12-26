@@ -17,13 +17,13 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 | Lv | Base HP | Base ATK | Base DEF | Phys DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7881 | 154 | 495 | 15 |
-| 60+ | 8413 | 164 | 528 | 15 |
-| 70 | 9241 | 180 | 580 | 15 |
-| 70+ | 9773 | 191 | 613 | 22.50 |
-| 80 | 10602 | 207 | 665 | 22.50 |
-| 80+ | 11134 | 217 | 699 | 30 |
-| 90 | 11962 | 234 | 751 | 30 |
+| 60 | 7881 | 154 | 495 | 15% |
+| 60+ | 8413 | 164 | 528 | 15% |
+| 70 | 9241 | 180 | 580 | 15% |
+| 70+ | 9773 | 191 | 613 | 22.50% |
+| 80 | 10602 | 207 | 665 | 22.50% |
+| 80+ | 11134 | 217 | 699 | 30% |
+| 90 | 11962 | 234 | 751 | 30% |
 
 ## **Attacks**
 
@@ -126,7 +126,7 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 
 {% tabs %}
 {% tab title="Passive" %}
-### Wolvensprint
+### **Wolvensprint**
 
 Decreases sprinting Stamina consumption for your own party members by 20%.
 
@@ -135,7 +135,7 @@ Decreases sprinting Stamina consumption for your own party members by 20%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Awakening
+### **Awakening**
 
 Decreases **Claw and Thunder**'s CD by 18%.  
 Using **Lightning Fang** resets the CD of **Claw and Thunder**.
@@ -143,7 +143,7 @@ Using **Lightning Fang** resets the CD of **Claw and Thunder**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Hunger
+### **Hunger**
 
 When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 {% endtab %}
@@ -153,37 +153,37 @@ When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 
 {% tabs %}
 {% tab title="C1" %}
-### Wolf's Instinct
+### **Wolf's Instinct**
 
 Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
 {% endtab %}
 
 {% tab title="C2" %}
-### Suppression
+### **Suppression**
 
 Increases CRIT Rate against opponents with less than 30% HP by 10%.
 {% endtab %}
 
 {% tab title="C3" %}
-### Soul Companion
+### **Soul Companion**
 
 Increases the level of **Lightning Fang** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Bite
+### **Bite**
 
 When casting **Claw and Thunder** \(Press\), opponents hit will have their DEF decreased by 15% for 7s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Sharpened Claws
+### **Sharpened Claws**
 
 Increases the Level of **Claw and Thunder** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Lupus Fulguris
+### **Lupus Fulguris**
 
 Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG. When Razor is not under the effect of **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil**.
 
@@ -251,7 +251,7 @@ Every 10s, Razor's sword charges up, causing the next Normal Attack to release l
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/electro/razor.md" %}
 

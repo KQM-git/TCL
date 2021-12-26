@@ -18,13 +18,13 @@ description: The 77th Director of the Wangsheng Funeral Parlor. She took over th
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 10089 | 69 | 568 | 69.20 |
-| 60+ | 10826 | 74 | 610 | 69.20 |
-| 70 | 11899 | 81 | 670 | 69.20 |
-| 70+ | 12637 | 86 | 712 | 78.80 |
-| 80 | 13721 | 94 | 773 | 78.80 |
-| 80+ | 14459 | 99 | 815 | 88.40 |
-| 90 | 15552 | 106 | 876 | 88.40 |
+| 60 | 10089 | 69 | 568 | 69.20% |
+| 60+ | 10826 | 74 | 610 | 69.20% |
+| 70 | 11899 | 81 | 670 | 69.20% |
+| 70+ | 12637 | 86 | 712 | 78.80% |
+| 80 | 13721 | 94 | 773 | 78.80% |
+| 80+ | 14459 | 99 | 815 | 88.40% |
+| 90 | 15552 | 106 | 876 | 88.40% |
 
 ## **Attacks**
 
@@ -145,59 +145,59 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 {% tabs %}
 {% tab title="Passive" %}
-### The More the Merrier
+### **The More the Merrier**
 
 When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional "Suspicious" dish of the same type.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Flutter By
+### **Flutter By**
 
 When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party \(excluding Hu Tao herself\) will have their CRIT Rate increased by 12% for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Sanguine Rouge
+### **Sanguine Rouge**
 
 When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased by 33%.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-### Crimson Bouquet
+### **Crimson Bouquet**
 
 While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Tao's Charge Attacks do not consume Stamina.
 {% endtab %}
 
 {% tab title="C2" %}
-### Ominous Rainfall
+### **Ominous Rainfall**
 
 Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied. Additionally, **Spirit Soother** will also apply the **Blood Blossom** effect.
 {% endtab %}
 
 {% tab title="C3" %}
-### Lingering Carmine
+### **Lingering Carmine**
 
 Increases the Level of **Guide to Afterlife** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Garden of Eternal Rest
+### **Garden of Eternal Rest**
 
 Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied herself, all nearby allies in the party \(excluding Hu Tao herself\) will have their CRIT Rate increased by 12% for 15s.
 {% endtab %}
 
 {% tab title="C5" %}
-### Floral Incense
+### **Floral Incense**
 
 Increases the Level of **Spirit Soother** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Butterfly's Embrace
+### **Butterfly's Embrace**
 
 Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased. This effect triggers automatically when Hu Tao has 1 HP left. Can only occur once every 60s.
 {% endtab %}
@@ -270,7 +270,7 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike: 
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault**:
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/hu-tao.md" %}
 

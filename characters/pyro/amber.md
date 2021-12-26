@@ -14,7 +14,7 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 ## **Base Stats**
 
-| Lv | Base HP | Base ATK | Base DEF | Atk% |
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
 | 60 | 6233 | 147 | 396 | 12% |
 | 60+ | 6654 | 157 | 422 | 12% |
@@ -123,19 +123,19 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
 {% tabs %}
 {% tab title="Passive" %}
-## Gliding Champion
+## **Gliding Champion**
 
 Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-## Every Arrow Finds Its Target
+## **Every Arrow Finds Its Target**
 
 Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## Precise Shot
+## **Precise Shot**
 
 Aimed Shot hits on weak spots increase ATK by 15% for 10s.
 {% endtab %}
@@ -145,7 +145,7 @@ Aimed Shot hits on weak spots increase ATK by 15% for 10s.
 
 {% tabs %}
 {% tab title="C1" %}
-## One Arrow to Rule Them All
+## **One Arrow to Rule Them All**
 
 Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG.
 
@@ -155,7 +155,7 @@ Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's D
 {% endtab %}
 
 {% tab title="C2" %}
-## Bunny Triggered
+## **Bunny Triggered**
 
 Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
 
@@ -165,25 +165,25 @@ Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged A
 {% endtab %}
 
 {% tab title="C3" %}
-## It Burns!
+## **It Burns!**
 
 Increases the Level of Fiery Rain by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## It's Not Just Any Doll...
+## **It's Not Just Any Doll...**
 
 Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge.
 {% endtab %}
 
 {% tab title="C5" %}
-## It's Baron Bunny!
+## **It's Baron Bunny!**
 
 Increases the Level of Explosive Puppet by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Wildfire
+## **Wildfire**
 
 Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 10s.
 {% endtab %}
@@ -240,7 +240,7 @@ Fiery Rain increases the entire party's Movement SPD by 15% and ATK by 15% for 1
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/amber.md" %}
 

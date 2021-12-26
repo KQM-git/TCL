@@ -1,7 +1,5 @@
 ---
-description: >-
-  An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white
-  complexion, she seldom has much in the way of words or emotion.
+description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.
 ---
 
 # Qiqi
@@ -10,7 +8,7 @@ description: >-
 
 ![](../../.gitbook/assets/character_qiqi_wish.png)
 
-## Base Stats
+## **Base Stats**
 
 | **Lv** | **Base HP** | **Base ATK** | **Base DEF** | **Healing Bonus** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -113,7 +111,7 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 
 {% tabs %}
 {% tab title="Passive" %}
-## Former Life Memories
+## **Former Life Memories**
 
 Displays the location of nearby resources unique to Liyue on the mini-map.
 {% endtab %}
@@ -125,53 +123,53 @@ When a character under the effects of **Adeptus Art: Herald of Frost** triggers 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## A Glimpse into Arcanum
+## **A Glimpse into Arcanum**
 
 When Qiqi hits opponents with hey Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisma**n to them for 6s. This effect can only occur once every 30s.
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+## **Constellations**
 
 {% tabs %}
 {% tab title="C1" %}
-## Ascetics of Frost
+## **Ascetics of Frost**
 
 When the **Herald of Frost** hits an opponent marked by a **Fortune-Preserving Talisman**, Qiqi regenerates 2 Energy.
 {% endtab %}
 
 {% tab title="C2" %}
-## Frozen to the Bone
+## **Frozen to the Bone**
 
 Qiqi’s Normal and Charge Attack DMG against opponents affected by Cryo is increased by 15%.
 {% endtab %}
 
 {% tab title="C3" %}
-## Ascendant Praise
+## **Ascendant Praise**
 
 Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-## Divine Suppression
+## **Divine Suppression**
 
 Targets marked by the **Fortune-Preserving Talisman** have their ATK decreased by 20%.
 {% endtab %}
 
 {% tab title="C5" %}
-## Crimson Lotus Bloom
+## **Crimson Lotus Bloom**
 
 Increases the Level of **Adeptus Art: Herald of Frost** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-## Rite of Resurrection
+## **Rite of Resurrection**
 
 Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP. This effect can only occur once every 15 mins.
 {% endtab %}
 {% endtabs %}
 
-## Full Talent Values
+## **Full Talent Values**
 
 {% tabs %}
 {% tab title="Ancient Sword Art" %}
@@ -212,8 +210,7 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 | Continuous Regeneration | 713 | 777 | 845 | 916 | 991 | 1070 | 1153 | 1239 |
 | Herald of Frost DMG | 50.40 | 54 | 57.60 | 61.20 | 64.80 | 68.40 | 72 | 76.50 |
 
-**Duration**: 15s
-
+**Duration**: 15s  
 **Cooldown**: 30s
 {% endtab %}
 
@@ -224,19 +221,13 @@ Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nea
 | Healing Scaling | 126 | 135 | 144 | 153 | 162 | 171 | 180 | 191.25 |
 | Healing | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
 
-**Energy Cost**: 80
-
-**Duration**: 15s
-
+**Energy Cost**: 80  
+**Duration**: 15s  
 **Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
 
-## **External Links**
-
-* [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Qiqi)
-
-**Evidence Vault:**
+# Evidence Vault
 
 {% page-ref page="../../evidence/characters/cryo/qiqi.md" %}
 

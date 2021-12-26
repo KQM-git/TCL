@@ -15,13 +15,13 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 
 | Lv | Base HP | Base ATK | Base DEF | HP% |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 6448 | 105 | 441 | 12 |
-| 60+ | 6884 | 112 | 470 | 12 |
-| 70 | 7561 | 123 | 517 | 12 |
-| 70+ | 7996 | 130 | 546 | 18 |
-| 80 | 8674 | 141 | 593 | 18 |
-| 80+ | 9110 | 148 | 623 | 24 |
-| 90 | 9787 | 159 | 669 | 24 |
+| 60 | 6448 | 105 | 441 | 12% |
+| 60+ | 6884 | 112 | 470 | 12% |
+| 70 | 7561 | 123 | 517 | 12% |
+| 70+ | 7996 | 130 | 546 | 18% |
+| 80 | 8674 | 141 | 593 | 18% |
+| 80+ | 9110 | 148 | 623 | 24% |
+| 90 | 9787 | 159 | 669 | 24% |
 
 ## **Attacks**
 
@@ -98,19 +98,19 @@ Heals your own party members and nearby teammates for a large amount of HP.
 
 {% tabs %}
 {% tab title="Passive" %}
-### With My Whole Heart♪
+### **With My Whole Heart♪**
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Glorious Season
+### **Glorious Season**
 
 The Stamina Consumption of characters within **Let the Show Begin♪**’s **Melody Loop** is reduced by 12%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Encore
+### **Encore**
 
 When your active character gains an Elemental Orb/Particle, the duration of **Melody Loop** is extended by 1s. The maximum extension is 5s.
 {% endtab %}
@@ -120,39 +120,39 @@ When your active character gains an Elemental Orb/Particle, the duration of **Me
 
 {% tabs %}
 {% tab title="C1" %}
-### Gleeful Songs
+### **Gleeful Songs**
 
 Barbara regenerates 1 Energy every 10s.
 {% endtab %}
 
 {% tab title="C2" %}
-### Vitality Burst
+### **Vitality Burst**
 
 Decreases the CD of **Let the Show Begin♪** by 15%.  
 During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
 {% endtab %}
 
 {% tab title="C3" %}
-### Star of Tomorrow
+### **Star of Tomorrow**
 
 Increases the Level of **Shining Miracle♪** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Attentiveness be My Power
+### **Attentiveness be My Power**
 
 Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 {% endtab %}
 
 {% tab title="C5" %}
-### The Purest Companionship
+### **The Purest Companionship**
 
 Increases the Level of **Let the Show Begin♪** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Dedicating Everything to You
+### **Dedicating Everything to You**
 
 When Barbara is in the party but not on the field, and one of your own party members falls:
 
@@ -218,7 +218,7 @@ When Barbara is in the party but not on the field, and one of your own party mem
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/hydro/barbara.md" %}
 

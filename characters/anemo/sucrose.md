@@ -10,7 +10,7 @@ description: An alchemist filled with curiosity about all things. She researches
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
 * [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
-## ![](../../.gitbook/assets/element_anemo.png)Sucrose
+## ![](../../.gitbook/assets/element_anemo.png) Sucrose
 
 ![](../../.gitbook/assets/character_sucrose_wish.png)
 
@@ -106,13 +106,13 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 {% tabs %}
 {% tab title="Passive" %}
-### Astable Invention
+### **Astable Invention**
 
 When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Catalyst Conversion
+### **Catalyst Conversion**
 
 When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
 * This effect can be triggered even when Sucrose is not on the field.  
@@ -122,7 +122,7 @@ When Sucrose triggers a **Swirl** reaction, all characters in the part with the 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Mollis Favonius
+### **Mollis Favonius**
 
 When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
 
@@ -137,13 +137,13 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 
 {% tabs %}
 {% tab title="C1" %}
-### Clustered Vaccum Field
+### **Clustered Vaccum Field**
 
 **Astable Anemohypostasis Creation-6308** gains 1 additional charge.
 {% endtab %}
 
 {% tab title="C2" %}
-### Beth: Unbound Form
+### **Beth: Unbound Form**
 
 The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
 {% endtab %}
@@ -155,7 +155,7 @@ Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Alchemania
+### **Alchemania**
 
 Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
 
@@ -168,13 +168,13 @@ Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anem
 {% endtab %}
 
 {% tab title="C5" %}
-### Caution: Standard Flask
+### **Caution: Standard Flask**
 
 Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Chaotic Entropy
+### **Chaotic Entropy**
 
 If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
 
@@ -229,7 +229,7 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/sucrose.md" %}
 

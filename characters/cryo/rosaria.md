@@ -101,7 +101,7 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 
 {% tabs %}
 {% tab title="Passive" %}
-### Night Walk
+### **Night Walk**
 
 At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
 Not stackable with Passive Talents that provide the exact same effect.  
@@ -109,7 +109,7 @@ Not stackable with Passive Talents that provide the exact same effect.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Regina Probationum
+### **Regina Probationum**
 
 When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT RATE increases by 12% for 5s.
 
@@ -122,7 +122,7 @@ When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosa
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Shadow Samaritan
+### **Shadow Samaritan**
 
 Casting **Rites of Termination** increases CRIT RATE of all nearby party members, excluding Rosaria herself, by 15% of Rosaria's CRIT RATE for 10s. CRIT RATE bonus gained this way cannot exceed 15%.
 
@@ -136,37 +136,37 @@ Casting **Rites of Termination** increases CRIT RATE of all nearby party members
 
 {% tabs %}
 {% tab title="C1" %}
-### Unholy Revelation
+### **Unholy Revelation**
 
 When Rosaria deals a CRIT Hit, her ATK Speed increase by 10% and her Normal Attack DMG increases by 10% for 4s (can trigger vs shielded enemies)
 {% endtab %}
 
 {% tab title="C2" %}
-### Land Without Promise
+### **Land Without Promise**
 
 The duration of the **Ice Lance** created by Rites of Termination is increased by 4s.
 {% endtab %}
 
 {% tab title="C3" %}
-### The Wages of Sin
+### **The Wages of Sin**
 
 Increases the level of **Ravaging Confession** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Painful Grace
+### **Painful Grace**
 
 **Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria. Can only be triggered once each time **Ravaging Confession** is cast.
 {% endtab %}
 
 {% tab title="C5" %}
-### Last Rites
+### **Last Rites**
 
 Increases the level of **Rites of Termination** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Divine Retribution
+### **Divine Retribution**
 
 **Rites of Termination**'s attack decreases opponent's Physical RES by 20% for 10s.
 
@@ -227,7 +227,7 @@ Increases the level of **Rites of Termination** by 3.
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/cryo/rosaria.md" %}
 

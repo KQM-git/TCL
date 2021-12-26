@@ -129,19 +129,19 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 
 {% tabs %}
 {% tab title="Passive" %}
-### It should be safe...
+### **It should be safe...**
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### Rekindle
+### **Rekindle**
 
 Decrease **Passion Overload**’s cooldown by 20%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Fearnaught
+### **Fearnaught**
 
 Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Overload** takes the following effects:
 
@@ -156,25 +156,25 @@ Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Over
 
 {% tabs %}
 {% tab title="C1" %}
-### Grand Expectation
+### **Grand Expectation**
 
 **Fantastic Voyage**’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
 {% endtab %}
 
 {% tab title="C2" %}
-### Impasse Conqueror
+### **Impasse Conqueror**
 
 When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.
 {% endtab %}
 
 {% tab title="C3" %}
-### Unstoppable Fervor
+### **Unstoppable Fervor**
 
 Increases the level of **Passion Overload** by 3.
 {% endtab %}
 
 {% tab title="C4" %}
-### Unexpected Odyssey
+### **Unexpected Odyssey**
 
 Using a Normal Attack when executing the second attack of **Passion Overload**’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
 
@@ -192,13 +192,13 @@ Using a Normal Attack when executing the second attack of **Passion Overload**�
 {% endtab %}
 
 {% tab title="C5" %}
-### True Explorer
+### **True Explorer**
 
 Increases the Level of **Fantastic Voyage** by 3.
 {% endtab %}
 
 {% tab title="C6" %}
-### Fire Ventures with Me
+### **Fire Ventures with Me**
 
 Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
 
@@ -271,7 +271,7 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s 
 {% endtab %}
 {% endtabs %}
 
-## **Evidence Vault:**
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/bennett.md" %}
 
