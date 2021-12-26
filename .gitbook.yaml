@@ -1,0 +1,54 @@
+root: ./
+
+structure:
+  readme: README.md  
+  summary: SUMMARY.md
+
+redirects:
+  jean: ./characters/anemo/jean.md
+  kazuha: ./characters/anemo/kazuha.md
+  sayu: ./characters/anemo/sayu.md
+  sucrose: ./characters/anemo/sucrose.md
+  traveler-anemo: ./characters/anemo/traveler-anemo.md
+  venti: ./characters/anemo/venti.md
+  xiao: ./characters/anemo/xiao.md
+  aloy: ./characters/cryo/aloy.md
+  ayaka: ./characters/cryo/ayaka.md
+  chongyun: ./characters/cryo/chongyun.md
+  diona: ./characters/cryo/diona.md
+  eula: ./characters/cryo/eula.md
+  ganyu: ./characters/cryo/ganyu.md
+  qiqi: ./characters/cryo/qiqi.md
+  rosaria: ./characters/cryo/rosaria.md
+  beidou: ./characters/electro/beidou.md
+  fischl: ./characters/electro/fischl.md
+  keqing: ./characters/electro/keqing.md
+  lisa: ./characters/electro/lisa.md
+  raiden: ./characters/electro/raiden.md
+  razor: ./characters/electro/razor.md
+  sara: ./characters/electro/sara.nd
+  traveler-electro: ./characters/electro/traveler-electro.md
+  albedo: ./characters/geo/albedo.md
+  gorou: ./characters/geo/gorou.md
+  itto: ./characters/geo/itto.md
+  ningguang: ./characters/geo/ningguang.md
+  noelle: ./characters/geo/noelle.md
+  traveler-geo: ./characters/geo/traveler-geo.md
+  zhongli: ./characters/geo/zhongli.md
+  barbara: ./characters/hydro/barbara.md
+  kokomi: ./characters/hydro/kokomi.md
+  mona: ./characters/hydro/mona.md
+  tartaglia: ./characters/hydro/tartaglia.md
+  childe: ./characters/hydro/tartaglia.md
+  xingqiu: ./characters/hydro/xingqiu.md
+  amber: ./characters/pyro/amber.md
+  bennett: ./characters/pyro/bennett.md
+  hu-tao: ./characters/pyro/hu-tao.md
+  hutao: ./characters/pyro/hu-tao.md
+  klee: ./characters/pyro/klee.md
+  thoma: ./characters/pyro/thoma.md
+  xiangling: ./characters/pyro/xiangling.md
+  xinyan: ./characters/pyro/xinyan.md
+  yanfei: ./characters/pyro/yanfei.md
+  yoimiya: ./characters/pyro/yoimiya.md
+  
