@@ -7,6 +7,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 ## **Resources**
 
 * [Klee Mains Discord](https://discord.gg/NwYDDrfKZU)
+* [In Depth Klee Guide](https://keqingmains.com/klee/)
 
 ## ![](../../.gitbook/assets/element_pyro.png) Klee
 
