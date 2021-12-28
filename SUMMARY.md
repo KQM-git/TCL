@@ -307,7 +307,7 @@
       * [Xiangling](evidence/characters/pyro/xiangling.md)
       * [Xinyan](evidence/characters/pyro/xinyan.md)
       * [Yanfei](evidence/characters/pyro/yanfei.md)
-    * [Yoimiya](evidence/characters/pyro/yoimiya.md)
+      * [Yoimiya](evidence/characters/pyro/yoimiya.md)
   * [Equipment](evidence/equipment/README.md)
     * [Artifacts](evidence/equipment/artifacts.md)
     * [Food](evidence/equipment/food.md)
