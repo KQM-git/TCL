@@ -64,7 +64,7 @@ search: false
 ## Constellation Mechanics
 
 ### C1: Rushing Hound: Swift as the Wind
-* Gorou's CD CD eventually desyncs from his E CD, meaning you cannot proc it on every E cast. [Steno\#0119](https://imgur.com/a/yXHcZnm)
+* Gorou's C1 CD eventually desyncs from his E CD, meaning you cannot proc it on every E cast. [Steno\#0119](https://imgur.com/a/yXHcZnm)
 * Gorou's C1 can snapshot/Gorou's E and Q zone buff is delayed like Bennett's Q buff. To trigger C1 the character must deal geo damage while in the field, for characters with off-field abilities it just means they need to enter the zone and use the ability before going off-field.
 In the second half of the video Albedo/Zhongli's E were used before they received the buff, meaning they weren't considered to be in gorou's E at the time of casting. - [Frost--Flame\#2563](https://youtu.be/O-HGSNkj478)
 
