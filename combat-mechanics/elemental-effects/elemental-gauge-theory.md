@@ -164,7 +164,7 @@ We have dropped the usage of unique letter notation to represent the decay rate 
 
 Like all other applied auras, you can extend the duration of a swirled aura by already having an aura of the same element on an enemy.
 
-Barbara attacks an enemy and applies 1A Hydro. Venti's E (2GU Anemo) swirls a hydro abyss mage, spreading 3.45GU Hydro to the enemy with 1A Hydro. Now, after that enemy has 2.76A hydro, which will last a maximum of 32.775s.
+Barbara attacks (1A) an enemy and applies 0.8A Hydro. Venti's E (2GU Anemo) swirls a hydro abyss mage, which has 2U Hydro aura, spreading 3.45GU Hydro to the enemy with 0.8A Hydro. Now, after that enemy has 2.76A hydro, which will last a maximum of 32.775s.
 
 ## Electro-Charged
 
