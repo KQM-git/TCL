@@ -101,6 +101,7 @@
   * [Internal Cooldown of Elemental Application](combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md)
   * [Elemental Resonance](combat-mechanics/elemental-effects/elemental-resonance.md)
   * [Weapon infusion](combat-mechanics/elemental-effects/weapon-infusion.md)
+  * [Simultaneous Reaction Priority](combat-mechanics/elemental-effects/simultaneous-reaction-priority.md)
 * [Cooldowns](combat-mechanics/cooldowns.md)
 * [Energy](combat-mechanics/energy.md)
 * [Frames](combat-mechanics/frames.md)

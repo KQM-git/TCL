@@ -51,4 +51,5 @@ redirects:
   xinyan: ./characters/pyro/xinyan.md
   yanfei: ./characters/pyro/yanfei.md
   yoimiya: ./characters/pyro/yoimiya.md
+  srp: ./combat-mechanics/elemental-effects/simultaneous-reaction-priority.md
   
