@@ -103,7 +103,7 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 
 **Finding:**
 Zhongli's shield tech  
-1. Shield Strength from gained from A4 persist upon swap  
+1. Shield Strength gained from A4 persist upon swap  
 
 2. However, it does not persist upon refresh.  
 2b. Above also applies if it's refresh from C2.
