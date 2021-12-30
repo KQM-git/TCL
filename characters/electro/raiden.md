@@ -85,6 +85,7 @@ The Eye can initiate one coordinated attack every 0.9s per party. Coordinated at
 
 * The coorinated attack can only occur on a damaging strike, against enemies, that is capable of inflicting AOE damage.  
 * The eye's elemental burst dmg bonus does affect The Raiden Shogun.
+* Raiden's E coordinated attack CD starts with the triggering move's damage, not with the coordinated attack's.
 
 {% endtab %}
 

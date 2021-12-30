@@ -66,6 +66,29 @@ Not Working:
 **Significance:**  
 Better understanding of Raiden's elemental skill.  
 
+#### Raiden Coordinated Attack Cooldown
+
+**By:** TWICE\#9958  
+**Added:** 12/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923751322178715709/924638774284124200/transcript-raiden-coordinated-attack-cd.html)   
+
+**Finding:**  
+Raiden's E coordinated attack CD starts with the triggering move's damage, *not* with the coordinated attack's.
+
+**Evidence:**  
+[Youtube](https://youtu.be/CfIZRJLvjNc)  
+Frames tracked using kdenlive, recorded in 60 fps with game setting at 60 fps.  
+* Initial setup: Raiden E beforehand, Zhongli shield to avoid staggers and such.  
+  * Frame 827: Raiden E's damage appears, triggers coordinated attack from the Raiden E in the setup.  
+  * Frame 838: First coordinated attack's damage appears.  
+  * Frame 886: Raiden N3's damage appears, triggers coordinated attack.  
+  * Frame 897: Second coordinated attack's damage appears.    
+
+There are only 48 frames between the damage of the first Raiden coordinated attack and the next triggering move's damage, and 59 frames between the damage of the two triggering moves. If the cooldown started with the coordinated attack's damage, the next triggering move would have to do damage at earliest frame 838+54=892, which is a fair bit after the damage of the N3.  
+
+**Significance:**  
+This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks starts with the triggering move's damage, not the coordinated attack's. When making team calcs/simulations based on frame counts, the cooldown should begin with the triggering move's damage. Raiden's coordinated attacks could trigger several more times per rotation than if the CD was assumed from coordinated attack's damage, adding extra damage and applying electro at different timings.   
+
 ### Burst Mechanics  
 * Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)  
 * Raiden's attacks during Elemental Burst can trigger XQ's rainswords. - [KDK#1322](https://www.youtube.com/watch?v=b7ER4BwAzHY)  
