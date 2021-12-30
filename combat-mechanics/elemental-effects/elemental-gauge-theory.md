@@ -47,6 +47,10 @@ Aura application has a 0.8x modifier. This is also referred to as **Aura Tax**.
 In addition, neither Anemo nor Geo may be applied as an aura.  
 Hereinafter, all aura applications will be referred to with this unit modifier already applied.
 
+## Character Elemental Gauge Application
+
+Each character has a set amount of elemental gauge applied by each individual attack or skill. A full list of character skills and their corresponding elemental gauges can be found below:  
+{% page-ref page="../../resources/compendiums/elemental-gauges.md" %}
 
 ## Decay Rate
 
@@ -218,6 +222,7 @@ These all have the ability to react with a slightly different ruleset from stand
 ## **External Links**
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
+* [Elemental Gauge Application Sheet for All Characters](https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--YvbgAJFV4LVRj9Dx-UhzIfT5YbPrYkFUZiwqeBsSQAtNyY8rkRn___knQflvi7UdJKByEXxtRk/pubhtml)
 
 ## Evidence Vault
 
