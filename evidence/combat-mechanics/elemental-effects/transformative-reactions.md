@@ -396,7 +396,7 @@ Electro-charged is one of the most popular reactions, and due to its nature of d
 
 **Summary:**  
 Electro-charge deals damage over time and its snapshot interactions with changing elemental mastery hasn't been noted in the library.
-This method used was C2 Sara with 4-piece Instructors to apply elemental electro twice alongside Barbara hydro reactions to the Ruin Guard at Yaoguang Shaol.
+This method used was C2 Sara with 4-piece Instructors to apply Electro twice alongside Barbara hydro reactions to the Ruin Guard at Yaoguang Shoal.
 The electro-charge reaction snapshots the elemental mastery value at the time of reaction, but the value is updated when aura is re-applied by any character to that of the applying character's.
 
 **Introduction:**  
