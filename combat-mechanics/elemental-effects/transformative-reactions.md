@@ -65,6 +65,8 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 * Electro-Charged has a cooldown. An enemy can only take one instance of Electro-Charged damage in ~0.5s.
   * Electro-Charged ticks count as Electro-Charged damage, thus a tick will start the cooldown and deal no damage if it lands when the cooldown is active.
   * The ticks reset damage cooldown and restart 1s timer for the next Electro-Charged tick.
+* The ticks of the Electro-Charged reaction count as neither hitting an enemy nor as triggering a reaction.
+
 
 ## Shatter
 
