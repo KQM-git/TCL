@@ -130,7 +130,8 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 * Different units can each pick up one **Abundance Amulet** generated from one **Lightning Blade** cast to gain its effects.
 * The Energy Recharge gained from **Abundance Amulets** does not affect the 4-piece bonus from Emblem of Severed Fate.
 * The number of **Abundance Amulets** generated depends on the number of Lightning Blades hit AND number of enemies hit.
-  * Hitting a shield will stil generate **Abundance Amulets**
+* Hitting a shield will stil generate **Abundance Amulets**  
+* There is a delay before the **Abundance Amulets** can be picked up, on average 1.79s.
 
 {% endtab %}
 

@@ -25,7 +25,20 @@ search: false
 * The number of Amulets generated depends on the number of Lightning Blades AND the number of enemies hit.
   * [1 Blade Hit = 1 Amulet](https://imgur.com/ZMaCnWK)
   * 1 Blade Hit vs 2 Enemies = 2 Amulets - [ye olde dong slot#4986](https://www.youtube.com/watch?v=qaBPV3JdC0c)
-  * 2 Blades Hit = 2 Amulets - [ceeeleste#3568](https://imgur.com/gallery/dJTvXaI)
+  * 2 Blades Hit = 2 Amulets - [ceeeleste#3568](https://imgur.com/gallery/dJTvXaI)  
+
+#### Amulets Delay  
+**By:** pai#3602  
+**Added:** 12/26/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923279142970085396/924645809935507487/transcript-emc-emulet-delay.html)  
+
+**Finding:** The Amulets created from EMC E can't be picked up right away but can be picked up before they are fully formed on the ground. Counting from the frame E is pressed, it takes an average of 1.79 seconds for a character to be able to pick one up. Amulets can't be picked up simultaneously but if they are close enough, all 3 can be picked up within 5 frames at 60 FPS.  
+
+**Evidence:**   
+* EMC picking up Amulets: [Youtube](https://youtu.be/3p7X-gxnEXM)  
+* A different character picking up Amulets: [Youtube](https://youtu.be/UxEWK_2MYO0)  
+
+**Significance:** Knowing that there is some range to picking up Amulets, this makes it easier for EMC to be a battery, since there is no need to actively avoid the Amulets after using E. You can walk towards the Amulets (and enemies) while switching to another character and not worry about EMC picking them up.  
 
 ### Burst Mechanics
 
