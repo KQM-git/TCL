@@ -250,6 +250,8 @@
     * [Hatchling](enemy-data/mystical-beasts/geovishaps/geovishap-hatchling.md)
     * [Adult Geovishap](enemy-data/mystical-beasts/geovishaps/geovishap.md)
   * [Whopperflowers](enemy-data/mystical-beasts/whopperflowers.md)
+* [Miscellaneous](enemy-data/miscellaneous/README.md)
+  * [The Rock](enemy-data/miscellaneous/the-rock.md)
 
 ---
 

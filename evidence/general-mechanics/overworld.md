@@ -8,6 +8,64 @@ search: false
 
 {% page-ref page="../../general-mechanics/overworld.md" %}
 
+## The Rock
+
+**By:** Aevean Leeow\#1362, Mcpie\#8672, BowTae\#0141, KQM Stream Meme Team, and KQM Friends  
+**Added:** 12/24/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905507145762631690/924148014212333608/transcript-the-rock.html)
+
+**Finding:**
+There are a few small rocks in the overworld with interesting properties. They can be damaged and destroyed, and they can also deal Geo damage when dropped.
+
+The current known locations for these rocks:
+* North of the Dragonspine Adventurer's Guild Camp (1 Rock): [Imgur](https://imgur.com/i7qX6Uq)
+* Cape Oath (2 groups of 4 Rocks each): [Map](https://imgur.com/EDNub8V) - [View of Rocks](https://imgur.com/YuxAlNR)  
+
+**Evidence:**  
+*Basic Mechanics:*  
+* Rock does not respawn
+  * Initial rock was found and destroyed on November 3, 2021: [Imgur](https://imgur.com/dIXY8xN)
+    * The rock at this location has not reappeared as of December 5, 2021.
+* Rock has around 8000HP at WL8: [Youtube](https://youtu.be/3b5GtygZxnw)
+* Rock does not light up with Elemental Sight: [Youtube](https://imgur.com/CnzrqRP)
+* Rock has 0 DEF and 0 RES: [Imgur](https://imgur.com/bVH9zer)
+  * Amber and Sara both have 85 ATK and 124% CA modifier. 1.24 * 85 = 105.4. The damage number was 105.
+* Rock is targettable (Guoba and Oz will target the rock, for example): [Imgur](https://imgur.com/qTsGcVK)
+* Rock can hold Cryo aura: 
+  * [Swirl and Crystallize](https://youtu.be/xK8FCPxjHv4) 
+  * [Melt](https://youtu.be/zKyXIUhqTio)
+  * [Freeze Shatter](https://youtu.be/uafxmx-UmZ0)
+  * [Superconduct](https://youtu.be/KcrGM4hRmN4)
+    * No phys RES shred is applied to the Rock 
+
+*Attack Mechanics:*
+* Rock can do Geo damage when it falls and takes fall damage: [TheFirstRapher#9207](https://imgur.com/a/wQf0D19)
+* This attack can hit other rocks and players: [Youtube](https://youtu.be/NAx5VxLysgY)
+  * Rock level is estimated to be Level 75
+  * The damage is affected by DEF, most likely Geo RES too but unconfirmed
+* The Geo damage has a gauge, and will Crystallize when hitting a player with an aura: [ASnowOwI#7234](https://youtu.be/ORXq8OsVFlg)
+Interactions:
+* Jean Skill can yeet the Rock: [pai#3602](https://youtu.be/dRTnQhpjxMM)
+* Venti Burst can suck in the Rock: [Raven#9205](https://imgur.com/KpnrbxK)
+* AMC Burst can move the Rock: [Imgur](https://imgur.com/uy5W4Lh)
+* GMC Boulders move the Rock: [Imgur](https://imgur.com/pQRvUG5)
+* Overload can move the Dragonspine Rock, but didn't seem to move the Cape Oath Rocks: [Dragonspine](https://imgur.com/YzM7rsR) [Cape Oath](https://imgur.com/vuOZnlc)
+* Ayaka A4 does not proc on the Rock: [Reens#9389](https://imgur.com/6lCKFdP)
+* Kazuha A4 does not proc on the Rock: [ShampooBrain#9583](https://imgur.com/a/hpfXL5o)
+* Mona Burst does not apply Omen to the Rock: [ShampooBrain#9583](https://imgur.com/a/4pElThX)
+* Rock is not affected by Zhongli RES shred or Lisa DEF shred: [Chameleon#9008](https://youtu.be/K71cGeGSQWM) 
+
+*Glitches/Weird Stuff:*
+* Spawning the teapot on top of the Rock makes it disappear: [Reens#9389](https://imgur.com/awZKod0)
+* Rock behaves weird on ledges: [Imgur](https://imgur.com/9rJt9pa)
+* Sometimes fall damage does not trigger on landing, and the rock will just disappear: [twentythree#3787](https://imgur.com/OC35oS1)
+
+*Further Research:*
+* It is currently not known if World Level affects rock HP or damage. This may change in the future.
+
+**Significance:**  
+The Rock (Igneous Pebblus) is a federally endangered species which is currently known to live in various regions of Mondstadt. The range of the Rock historically included the northern part of Dragonspine and various clusters in Cape Oath. Exploitative research and tree farming have driven this species to near extinction. It is unknown if there are surviving habitats of Rocks in other parts of Teyvat. 
+
 ## Serenitea Pot
 
 ### Teapot Dog Abuse  
