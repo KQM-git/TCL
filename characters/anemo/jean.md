@@ -46,6 +46,7 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | CA | 235.50% | 73 | 196.2%/s |
+* The Charged Attack visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
 **Plunge**
 

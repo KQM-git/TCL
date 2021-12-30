@@ -8,6 +8,24 @@ search: false
 
 {% page-ref page="../../../characters/anemo/jean.md" %}
 
+## Attack Mechanics
+
+### Jean CA Visual Effect
+**By:** ASnowOwI\#7234  
+**Added:** 12/30/2021  
+
+**Finding:** Jean's CA visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
+
+**Evidence:** 
+* Torch: [Youtube](https://youtu.be/URAVSQvPUCs)
+* Ruin Guard: [Youtube](https://youtu.be/ZzQ-FhWjO3w)
+* Haybales and Cooking Pot: [Youtube](https://youtu.be/KHEDUlbdGvQ)
+* Parametric Transformer (activated and not activated):  
+  * [Youtube](https://youtu.be/nK5wto4WbVA)  
+  * [Youtube](https://youtu.be/pknsfrRqW_o)  
+
+**Significance:** Fluff.
+
 ## Skill Mechanics
 
 ### Gale Blade's Pull effect's Dependence on Level Difference
