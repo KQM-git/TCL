@@ -111,7 +111,7 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 | Frames | 125 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
+| Snapshot | Dynamic |
 | Damage Element | Electro |
 | Damage Type | Burst |
 | Energy Cost | 40 |
