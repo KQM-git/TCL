@@ -627,6 +627,31 @@ Ai manipulation.
 
 ## Ruin Guard
 
+### Melee Can Stun Ruin Guards 
+**By:** CQLQRS\#7853  
+**Addded:** 1/1/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922442421604843542/926773041697013830/transcript-melee-can-stun-ruin-guards.html)
+
+**Finding:** Some attacks other than fully-charged bow CAs can stun ruin guards. This includes various skills, bursts and melee attacks.
+
+**Evidence:**  
+1\. Melee CAs:  
+* Itto: [Imgur](https://imgur.com/a/uVmiOHL)
+* Raiden: [Imgur](https://imgur.com/a/rrHZ1hx)
+* Bullet-like CAs: [Imgur](https://imgur.com/a/HWd1rrd)
+
+2\. Elemental Skills:  
+* EMC: [Youtube](https://youtu.be/4X6tBV3Z34Q) (Bobrokrot\#0111)
+
+3\. Elemental Bursts:  
+* Yoimiya: [Youtube](https://youtu.be/2KfdFoQu8bQ) (BowTae\#0141)
+* Bennett: [Imgur](https://imgur.com/a/nCKGHus) (ShampooBrain\#9583)
+* Diluc: [Imgur](https://imgur.com/a/IQpZkSa) (ShampooBrain\#9583)
+
+This list is not exhaustive and any attack can theoretically stun the ruin guard if its core is low enough for the attack to reach it.
+
+**Significance:** Limited practical usage, mostly fluff.
+
 ### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
 
 **By:** itskhoi\#0013  
