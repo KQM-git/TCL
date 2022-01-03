@@ -63,76 +63,85 @@ Eula plunges from mid-air to strike the ground, damaging opponents along the pat
 | High Plunge DMG | 270.77% |
 {% endtab %}
 
-{% tab title="Icetide Vortex" %}
-**Press:**  
-Slashes swiftly, dealing **Cryo** DMG. When it hits an opponent, Eula gains a stack of **Grimheart** that stacks up to 2 times. These stacks can only be gained once every 0.3 seconds.
+{% tab title="Icetide Vortex" %}  
+**Press**  
+Slashes swiftly, dealing **Cryo** DMG.  
+When it hits an opponent, Eula gains a stack of **Grimheart** that stacks up to 2 times. These stacks can only be gained once every 0.3 seconds.
 
-**Hold:**  
-Wielding her sword, Eula slashes forward, dealing AoE **Cryo** DMG to opponents in front of her, consuming all the stacks of **Grimheart** she possess. Each stack of **Grimheart** will be converted into an **Icewhirl** Brand that deals **Cryo** DMG to nearby opponents, decreasing their **Physical** RES and **Cryo** RES.  
-Multiple hits will not cause this effect to stack, but will extend the effect's duration.
+**Grimheart**  
+Increases Eula's resistance to interruption and DEF.
 
-| Effect | Press | Hold |
-| :--- | :--- | :--- |
-| Talent 6% | 204.96% | 343.84% |
-| Icewhirl Brand DMG | ~ | 134.40% |
-| Cooldown | 4s | 10s |
-| GU | 1A | 1A |
-| Particles | 1~2 \(1:1\) | 2~3 \(1:1\) |
-| Frames | 65 | 89 |
-| MV/s | 189.19%/s | 231.80%/s \(w/o Icewhirls\) |
+**Hold**  
+Wielding her sword, Eula consumes all the stacks of **Grimheart** and lashes forward, dealing AoE Cryo DMG to opponents in front of her.  
+If **Grimheart** stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.  
+Each consumed stack of **Grimheart** will be converted into an **Icewhirl Brand** that deals Cryo DMG to nearby opponents.
 
-* E Hold and **Icewhirl Brands** don't share ICDs, but multiple **Icewhirl Brands** do share the same ICD.
+| Attribute | Press | Hold | Icewhirl Brand | 
+| :--- | :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 204.96% | 343.84% | 134.4% | 
+| Particles | 1~2 \(1:1\) | 2~3 \(1:1\) | - |
+| Frames | 65 | 89 | - |
+| GU | 1A | 1A | 1A | 
+| ICD | None | None | 3 hits / 2.5s |
+| Snapshot | - | - | - | 
+| Damage Element | Cryo | Cryo | Cryo | 
+| Damage Type | Skill | Skill | Skill | 
+| CD | 4s | 10s | - |
+
 * Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
 
-**Grimheart:**  
+**Grimheart**  
 Increases Eula's resistance to interruption and her DEF.
 
 | Attribute | Value |
 | :--- | :--- |
 | DEF Bonus | 30% per stack |
-| Phys + Cryo RES Decrease | 21% |
+| Phys RES Decrease \(T6%\) | 21% |
+| Cryo Res Decrease \(T6%\) | 21% | 
 | RES Decrease Duration | 7s per stack |
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
 {% endtab %}
 
-{% tab title="Glacial Illumination" %}
-Brandishes her greatsword, dealing **Cryo** DMG to nearby opponents and creates a **Lightfall Sword** that follows her around for a certain duration.
+{% tab title="Glacial Illumination" %}  
+Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a **Lightfall Sword** that follows her around for a duration of up to 7s.  
+While present, the **Lightfall Sword** increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.  
+Once its duration ends, the **Lightfall Sword** will descend and explode violently, dealing Physical DMG to nearby opponents.  
+This DMG scales on the number of energy stacks the **Lightfall Sword** has accumulated.  
+If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 
-When Eula's own Normal Attacks, Elemental Skill, and Elemental Burst **deal DMG** to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.
-
-Once its duration ends, the **Lightfall Sword** will explode violently, dealing **Physical** DMG to nearby opponents. This DMG scales on the number of energy stacks the **Lightfall Sword** has accumulated.
-
-If Eula leaves the field, the **Lightfall Sword** will immediately explode.
-
-| Effect | Talent 6% |
-| :--- | :--- |
-| Skill DMG | 343.84% |
-| Lightfall Sword Base DMG | 533.50% |
-| DMG per Stack | 109% |
-| Maximum Stacks | 30 |
-| CD | 20s |
-| Energy Cost | 80 |
-| GU | 2B |
-| Frames | 125 |
+| Attribute | Skill | Lightfall Sword |
+| :--- | :--- | :--- | 
+| Skill DMG \(T6%\) | 343.84% | - |
+| Lightfall Sword Base DMG \(T6%\) | - | 533.50% |
+| DMG Per Stack \(T6%\) | - | 109% |
+| Frames | 125 | - |
+| GU | 2B | None |
+| ICD | None | None |
+| Snapshot | Dynamic | Dynamic |
+| Damage Element | Cryo | Physical | 
+| Damage Type | Burst | Burst |
+| Energy Cost | 80 | - | 
+| Duration | - | 7s | 
+| CD | 20s | - | 
 
 * **Glacial Illumination** does not snapshot.
-  * When the Lightfall Sword lights up and is about to explode, it's still updating live stats.
-    * However, Lightfall stacks cannot be gained once the Lightfall sword lights up right before exploding.
-* **Lightfall Sword** damage is considered Elemental Burst damage, meaning it can be increased by the effects of 2pc NO and similar buffs
+  * **Lightfall Sword** is still updating live stats when it lights up and is about to explode.
+  * Lightfall stacks cannot be gained once **Lightfall Sword** lights up right before exploding.
+  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
+    * Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, TTDS, and Zhongli shred
 * **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
 * The initial hit of Eula's Q does not grant a **Lightfall Stack**.
-* Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields.
+* Eula’s **Lightfall Sword** damage can be blocked by both [wooden](https://imgur.com/a/bL0UttC) and [Geo](https://imgur.com/a/PU9gkvv) Mitachurl shields.
 * NA multihits, Hold E Icewhirls, and A1 sword remnant add 1 **Lightfall Stack** for each damage instance.
 * Ranges \(1 abyss tile is ~2.55m\)
-  * **Glacial Illumination**'s cast range is around 8 meters
-  * **Lightfall Sword** explosion range is around 7 meters
-* Eula's burst does not snapshot even after she is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
-* Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, TTDS, and Zhongli shred
+  * **Glacial Illumination**'s cast range: ~8 meters
+  * **Lightfall Sword** explosion range: ~7 meters
+
 {% endtab %}
 {% endtabs %}
 
@@ -167,7 +176,8 @@ When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and
 {% tab title="C1" %}
 ### **Tidal Illusion**
 
-Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
+Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.  
+Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
 
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
@@ -214,24 +224,24 @@ Increases the level of **Icetide Vortex** by 3.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 130.43 | 141.9 | 153.38 | 164.86 | 177.38 | 191.72 |
-| 2-Hit DMG | 135.98 | 147.94 | 159.91 | 171.87 | 184.93 | 199.88 |
+| 1-Hit DMG | 130.43% | 141.95% | 153.38% | 164.86% | 177.38% | 191.72% |
+| 2-Hit DMG | 135.98% | 147.94% | 159.91% | 171.87% | 184.93% | 199.88% |
 | 3-Hit DMG | 82.56% x2 | 89.82% x2 | 97.09% x2 | 104.35% x2 | 112.28% x2 | 121.36% x2 |
-| 4-Hit DMG | 163.73 | 178.13 | 192.54 | 206.95 | 222.67 | 240.68 |
+| 4-Hit DMG | 163.73% | 178.13% | 192.54% | 206.95% | 222.67% | 240.68% |
 | 5-Hit DMG | 104.41% x2 | 113.6% x2 | 122.79% x2 | 131.97% x2 | 142% x2 | 153.48% x2 |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 100 | 108.8 | 117.6 | 126.4 | 136 | 147 |
-| Charged Attack Final DMG | 180.81 | 196.72 | 212.64 | 228.55 | 245.91 | 265.79 |
+| Charged Attack Spinning DMG | 100% | 108.8% | 117.6% | 126.4% | 136% | 147% |
+| Charged Attack Final DMG | 180.81% | 196.72% | 212.64% | 228.55% | 245.91% | 265.79% |
 
 ### Plunge
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41 | 117.95 | 127.49 | 137.03 | 147.44 | 159.37 |
+| Plunge DMG | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 159.37% |
 | Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
 | High Plunge DMG | 270.77% | 294.6% | 318.42% | 342.25% | 368.25% | 398.03% |
 {% endtab %}

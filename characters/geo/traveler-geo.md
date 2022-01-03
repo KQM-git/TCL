@@ -96,39 +96,53 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 {% endtab %}
 
 {% tab title="Starfell Sword" %}
-Summons a **meteorite** that deals Geo damage and launches small enemies
+You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG.  
+The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.
+
+**Hold**  
+This skill's positioning may be adjusted.
+
+| Attribute | Skill | 
+| :--- | :--- |
+| Skill DMG \(T6%\) | 347.2%  |
+| Particles | 3~4 \(2:1\) | 
+| Frames | 25 |
+| GU | 2U |
+| ICD | Standard | 
+| Snapshot | Snapshot | 
+| Damage Element | Geo | 
+| Damage Type | Skill |
+| Duration | 30s |
+| CD | 8s | 
 
 * The **meteorite** is considered a **Geo Construct** and can be climbed or use to block attacks
 * Holding allows you to aim where the **meteorite** appears and has a faster animation time.
 * **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
 
-| Type | Talent 6% |
-| :--- | :--- |
-| Base DMG | 347.2% |
-| Duration | 30s |
-| Cooldown | 8s |
-| GU | 2U |
-| Particles | 3~4 \(2:1\) |
-| Frames | 25 |
-| Motion Value | 833%/s |
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
-Deals 4 waves of damage to enemies and knocks them back away from the caster.
+Energizing the Geo deep underground, you set off expanding shockwaves.  
+Launches surrounding opponents back and deals AoE Geo DMG.  
+A stone wall is erected at the edges of the shockwave.  
+The stone wall is considered a Geo Construct, and may be used to block attacks.  
+
+| Attribute | Burst | 
+| :--- | :--- |
+| Shockwave DMG \(T6%\) | 207.2% |
+| Frames | 39 |
+| GU | 2U |
+| ICD | Standard | 
+| Snapshot | Snapshots | 
+| Damage Element | Geo | 
+| Damage Type | Burst |
+| Energy Cost | 60s | 
+| Duration | 15s |
+| CD | 15s | 
 
 * Creates 4 walls one in each cardinal direction from where the character is facing. 
 * These are considered **Geo Construct**s but do not count towards the construct limit and cannot be climbed.
-
-| Effect | Talent 6% / Data |
-| :--- | :--- |
-| Elemental burst DMG | 207.2% |
-| Duration | 15s |
-| Cooldown | 15s \(non-scaling\) |
-| GU | 2U |
-| Energy Cost | 60 |
-| Frames | 39 |
-
-* Due to the fact the walls do not count towards the construct limit they greatly improve Zhongli's resonance.
+* These walls do not count towards the construct limit. They greatly improve Zhongli's resonance.
 
 {% endtab %}
 {% endtabs %}
@@ -164,7 +178,8 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 ### **Invincible Stonewall**
 
 Party members within the radius of **Wake of Earth** have their Crit Rate increased by 10% and have increased resistance against interruption.
-- Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
+
+* Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
 
 {% endtab %}
 
@@ -174,7 +189,7 @@ Party members within the radius of **Wake of Earth** have their Crit Rate increa
 When the meteorite created by **Starfell Sword** is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by **Starfell Sword**.
 
 * If a **meteorite** is destroyed immediately after summoning this will not activate.
-* C2 damage instance is considered skill damage.
+* **Rockcore Meltdown** damage is considered Elemental Skill damage.
 
 {% endtab %}
 
@@ -203,8 +218,7 @@ Increases the Level of **Starfell Sword** by 3.
 {% tab title="C6" %}
 ### **Everlasting Boulder**
 
-The barrier created by **Wake of Earth** lasts 5s longer.
-
+The barrier created by **Wake of Earth** lasts 5s longer.  
 The meteorite created by **Starfell Sword** lasts 10s longer.
 {% endtab %}
 {% endtabs %}
@@ -217,19 +231,19 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.63 | 70.31 | 76 | 81.69 | 87.89 | 94.09 |
-| 2-Hit DMG | 63.13 | 68.68 | 74.23 | 79.79 | 85.85 | 91.91 |
-| 3-Hit DMG | 77 | 83.78 | 90.55 | 97.33 | 104.72 | 112.11 |
-| 4-Hit DMG | 84.75 | 92.21 | 99.67 | 107.12 | 115.26 | 123.40 |
-| 5-Hit DMG | 102.88 | 111.93 | 120.98 | 130.03 | 139.91 | 149.79 |
+| 1-Hit DMG | 64.63% | 70.31% | 76% | 81.69% | 87.89% | 94.09% |
+| 2-Hit DMG | 63.13% | 68.68% | 74.23% | 79.79% | 85.85% | 91.91% |
+| 3-Hit DMG | 77% | 83.78% | 90.55% | 97.33% | 104.72% | 112.11% |
+| 4-Hit DMG | 84.75% | 92.21% | 99.67% | 107.12% | 115.26% | 123.40% |
+| 5-Hit DMG | 102.88% | 111.93% | 120.98% | 130.03% | 139.91% | 149.79% |
 
 ### Charged Attack
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 81.25 | 88.40 | 95.55 | 102.70 | 110.50 | 118.30 |
-| Lumine Charged Attack 2 DMG | 105 | 114.24 | 123.48 | 132.72 | 142.80 | 152.88 |
-| Aether Charged Attack 2 DMG | 88.25 | 96.02 | 103.78 | 111.55 | 120.02 | 128.49 |
+| Charged Attack 1 DMG | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
+| Lumine Charged Attack 2 DMG | 105% | 114.24% | 123.48% | 132.72% | 142.80% | 152.88% |
+| Aether Charged Attack 2 DMG | 88.25% | 96.02% | 103.78% | 111.55% | 120.02% | 128.49% |
 
 **Stamina Cost**: 20
 
@@ -237,25 +251,24 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
-| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
-| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 {% endtab %}
 
 {% tab title="Starfell Sword" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 347.20 | 372 | 396.80 | 421.60 | 446.40 | 471.20 | 496 | 527 |
+| Skill DMG | 347.20% | 372% | 396.80% | 421.60% | 446.40% | 471.20% | 496% | 527% |
 
-**Meteorite Duration**: 30s
-
+**Meteorite Duration**: 30s  
 **Cooldown**: 8s
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
 | FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DMG Per Shockwave | 207.20 | 222 | 236.80 | 251.60 | 266.40 | 281.20 | 296 | 314.50 |
+| DMG Per Shockwave | 207.20% | 222% | 236.80% | 251.60% | 266.40% | 281.20% | 296% | 314.50% |
 
 **Energy Cost**: 60  
 **Stonewall Duration**: 15s  
