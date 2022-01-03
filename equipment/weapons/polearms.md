@@ -257,7 +257,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Bane of Flame and Water | Increases DMG against opponents affected by Hydro or Pyro by **20/24/28/32/26%.** |
+| Bane of Flame and Water | Increases DMG against opponents affected by Hydro or Pyro by **20/24/28/32/36%.** |
 | Base ATK | 41 - 454 |
 | EM | 48 - 221 |
 
