@@ -458,6 +458,8 @@
   * 3-2: 1.17-1.18s
   * 2-1: 1.17-1.18s
 * Serpent Spine's damage taken increase affects shields.
+* The buff timer starts ticking and continues ticking whether the holder is on the field or not. However the character only gains a stack every 4 seconds if that character is on field.
+* The buff timer resets when you take damage that would cause you to lose a stack. 
 {% endtab %}
 
 {% tab title="Details" %}

@@ -1120,3 +1120,31 @@ The evidence for Summit Shaper is missing, but it should behave the same way as 
 
 **Significance:**  
 Documentation of how the ambiguous description of such weapon passives work.
+
+### Lost Prayer and Serpent Spine Stacks
+**By:** Xardas\#2531  
+**Added:** 1/3/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/919691832986845225/927713631595028490/transcript-lost-prayer-and-serpent-spine-stacks.html)
+
+**Findings:**  
+Unpausing the game after equipping a character with **Lost Prayer to the Sacred Winds** (LP) or **Serpent Spine** (SS) starts a timer. This timer starts ticking and continues ticking whether the character equipping LP or SS is on the field or not, and every 4 seconds, it checks if that character is on the field. If they are, the game gives them a stack of their weapon's passive.  
+
+The timer:
+1. Pauses while your inventory, wish screen or characters screen are open (during single player)
+2. Resets to 0 when you enter any domain, or Spiral Abyss chamber
+3. Runs as normal when you reach 4 stacks of LP or SS, but will no longer grant stacks
+4. **(For SS only)** Resets to 0 when you lose (or would lose, if already at zero stacks) a stack of SS
+
+**Evidence:**  
+Timer starts when you unpause, even if the character with LP or SS is currently not on the field: [YouTube](https://www.youtube.com/watch?v=X3Xqdx3Khkw)
+* [YouTube](https://www.youtube.com/watch?v=gc8dSTQxe20)
+* [YouTube](https://www.youtube.com/watch?v=ZGArIrwVIlQ)
+* [YouTube](https://www.youtube.com/watch?v=zTGY39UIcA4)
+* [YouTube](https://www.youtube.com/watch?v=n6Z7OnGkELs)  
+NOTE: I could not test the exact times on this, but the timer still resets when you take damage, I just don't know how often the timer can reset itself if you take multiple instances of damage in a short amount of time
+
+**Significance:**  
+* With this knowledge, Claymore and Catalyst users no longer need to stay on field for 4 or more seconds to gain their stacks of SS and their first stack of LP respectively. 
+* With proper rotation timing your favourite Catalyst users can always start their DPS windows with one stack of LP right away, adding 8-16 ElementalDMG% depending on LP refinements. 
+* After taking damage, your Serpent Spine users can easily regain their lost stack by being on the field exactly 4 seconds after they took damage and lost their stack.
+* For casual play, this means the first LP stack is gained, on average, after 2 seconds of being on the field, and not 4.
