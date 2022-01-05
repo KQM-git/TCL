@@ -84,6 +84,9 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 | Elemental Type | Geo |
 | Duration | Hold Duration |
 
+**Notes**
+* Yunjin can perfect counter shots from the Inazuma Kamuijima Cannons.
+
 {% endtab %}
 
 {% tab title="Cliffbreaker\'s Banner" %}

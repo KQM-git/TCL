@@ -97,7 +97,9 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 | Elemental Type | Electro |
 | Duration | Hold Duration |
 
+**Notes**
 * **Tidecaller** will produce minimum 2 particles, if you get hit once while holding \(one charge\) it produces 3 particles and if you get hit two times \(two charges\) or perform a **perfect parry** it will produce 4 particles.
+* Beidou can perfect counter shots from the Inazuma Kamuijima Cannons.
 * **Tidecaller** counter scaling information is tabulated in the table below.
 
 | Tidecaller DMG Bonus | Talent 6%  | Particles | 
