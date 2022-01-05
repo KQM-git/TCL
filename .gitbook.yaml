@@ -20,6 +20,7 @@ redirects:
   ganyu: ./characters/cryo/ganyu.md
   qiqi: ./characters/cryo/qiqi.md
   rosaria: ./characters/cryo/rosaria.md
+  shenhe: ./characters/cryo/shenhe.md
   beidou: ./characters/electro/beidou.md
   fischl: ./characters/electro/fischl.md
   keqing: ./characters/electro/keqing.md
@@ -34,6 +35,7 @@ redirects:
   ningguang: ./characters/geo/ningguang.md
   noelle: ./characters/geo/noelle.md
   traveler-geo: ./characters/geo/traveler-geo.md
+  yunjin: ./characters/geo/yunjin.md
   zhongli: ./characters/geo/zhongli.md
   barbara: ./characters/hydro/barbara.md
   kokomi: ./characters/hydro/kokomi.md
