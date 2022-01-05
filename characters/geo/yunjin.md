@@ -86,7 +86,7 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 
 {% endtab %}
 
-{% tab title="Cliffbreaker's Banner" %}
+{% tab title="Cliffbreaker\'s Banner" %}
 Deals AoE Geo DMG and grants all nearby party members a **Flying Cloud Flag Formation**.
 
 **Flying Cloud Flag Formation**  
@@ -221,7 +221,7 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 **Cooldown**: 9s
 {% endtab %}
 
-{% tab title="Cliffbreaker's Banner" %}
+{% tab title="Cliffbreaker\'s Banner" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 341.60% | 366% | 390.40% | 414.80% | 439.20% | 463.60% | 488% | 518.50% |
