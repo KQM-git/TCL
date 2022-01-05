@@ -19,7 +19,7 @@ description: A database of enemy resistances.
 | Ruin Guard | 10% | 10% | 10% | 10% | 10% | 10% | 70% |  | 
 | Ruin Grader | 10% | 10% | 10% | 10% | 10% | 10% | 70% |  | 
 | Ruin Hunter | 10% | 10% | 10% | 10% | 10% | 10% | 50% |  | 
-| Ruin Destroyer | 10% | 10% | 10% | 10% | 10% | 10% | 20% |  | 
+| Ruin Destroyer | 10% | 10% | 10% | 10% | 10% | 10% | 30% |  | 
 | Ruin Defender | 10% | 10% | 10% | 10% | 10% | 10% | 50% |  | 
 | Ruin Scout | 10% | 10% | 10% | 10% | 10% | 10% | 50% |  | 
 | Perpetual Mechanical Array | 10% | 10% | 10% | 10% | 10% | 10% | 70% | All resistance decreased by 50% when stunned | 
