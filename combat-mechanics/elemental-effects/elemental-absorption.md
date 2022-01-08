@@ -25,6 +25,7 @@ When there are multiple elements in range of the Anemo ability it will absorb ac
    * Venti Burst
    * Sucrose Burst
    * Kazuha Burst
+   * Kazuha Skill
    * Sayu Skill
 
 ## Aura Checks
