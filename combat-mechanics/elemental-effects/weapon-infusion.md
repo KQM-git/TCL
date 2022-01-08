@@ -1,5 +1,5 @@
 ---
-description: Elemental infusions
+description: Elemental Infusions
 ---
 
 # Weapon Infusion
@@ -12,17 +12,18 @@ Infusions apply a 1WU (Weapon gauge Unit) every refresh timing if overrideable. 
 
 | Character | Infusion Ability | Element | Target | Can be overridden? | Refresh Timing |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ayaka | Alternate Sprint | Cryo | Self | Yes | Only on cast | 
-| Bennett | Elemental Burst \(With C6\) | Pyro | Field (Melee) | Yes | 1s |
-| Chongyun | Elemental Skill | Cryo | Field (Melee) | Yes | 1s |
-| Diluc | Elemental Burst | Pyro | Self | Yes | 0.5s if not Pyro |
-| Hu Tao | Elemental Skill | Pyro | Self | No | N/A |
-| Kazuha | Elemental Burst / Skill (With C6) | Anemo | Self | Yes | Only on cast |
-| Keqing | Elemental Skill \(With A1 Passive\) | Electro | Self | Yes | Only on cast |
-| Noelle | Elemental Burst | Geo | Self | No | N/A |
-| Raiden | Elemental Burst | Electro | Self | No | N/A |
-| Xiao | Elemental Burst | Anemo | Self | No | N/A |
-| Yoimiya | Elemental Skill | Pyro | Self | No | N/A |
+| [Ayaka](../../characters/cryo/ayaka.md) | Alternate Sprint | Cryo | Self | Yes | Only on cast | 
+| [Bennett](../../characters/pyro/bennett.md) | Elemental Burst \(With C6\) | Pyro | Field \(Melee\) | Yes | 1s |
+| [Chongyun](../../characters/cryo/chongyun.md) | Elemental Skill | Cryo | Field (Melee) | Yes | 1s |
+| [Diluc](../../characters/pyro/diluc.md) | Elemental Burst | Pyro | Self | Yes | 0.5s if not Pyro |
+| [Hu Tao](../../characters/pyro/hu-tao.md) | Elemental Skill | Pyro | Self | No | N/A |
+| [Itto](../../characters/geo/itto.md) | Elemental Burst | Geo | Self | No | N/A |
+| [Kazuha](../../characters/anemo/kazuha.md) | Elemental Burst / Skill \(With C6\) | Anemo | Self | Yes | Only on cast |
+| [Keqing](../../characters/electro/keqing.md) | Elemental Skill \(With A1 Passive\) | Electro | Self | Yes | Only on cast |
+| [Noelle](../../characters/geo/noelle.md) | Elemental Burst | Geo | Self | No | N/A |
+| [Raiden](../../characters/electro/raiden.md) | Elemental Burst | Electro | Self | No | N/A |
+| [Xiao](../../characters/anemo/xiao.md) | Elemental Burst | Anemo | Self | No | N/A |
+| [Yoimiya](../../characters/pyro/yoimiya.md) | Elemental Skill | Pyro | Self | No | N/A |
 
 # Arrow Infusion  
 
@@ -32,12 +33,12 @@ Arrows are continuously self infused with the same elemental gauge of the attack
 
 | Element | Infused Arrow |
 | :--- | :--- |
-| Cryo | No infused element |
+| Cryo | Yes |
 | Pyro | Yes |
 | Hydro | Yes |
 | Electro | Yes |
 | Anemo | Yes |
-| Geo | - |
+| Geo | Yes |
 | Dendro | - |
 
 ## Evidence Vault
