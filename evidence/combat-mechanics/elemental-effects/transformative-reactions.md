@@ -562,6 +562,21 @@ Electro-Charged ticks only remove gauge when they deal damage. Both gauges will 
 **Significance:**  
 Better understanding of how EC works.  
 
+### Zero Gauge Attacks Don't Change EC Ownership
+**By:** NZPIEFACE\#8439  
+**Added:** 1/8/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923420389915381770/929316314999320576/transcript-zero-gauge-attacks-dont-change-ec-ownership.html)
+
+**Finding:**  
+0 gauge Electro attacks don't change Electro-Charged ownership.
+
+**Evidence:** [Youtube](https://www.youtube.com/watch?v=y6bqn174YHY)
+
+**Significance:**  
+Nothing, considering the only 0 gauge attacks are Lisa's Q's initial damage and her plunge collision for Electro, and the three Hydro catalyst user's plunge collisions for Hydro.  
+That said, this emphasises that the AoE portion of EC changes ownership through a different mechanism than just dealing Electro damage.
+
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
