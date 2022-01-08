@@ -98,7 +98,7 @@ Zhongli channels for 2 seconds causing the following effects:
 | Snapshot | Snapshot | Snapshot | Snapshot |
 | Damage Element | Geo | Geo | Geo |
 | Damage Type | Skill | Skill | Skill |
-| Duration | 20s | - | 20s |
+| Duration | 30s | - | 20s |
 | CD | 4s | - | 12s |
 
 | Attribute | Shield |
