@@ -12,7 +12,7 @@ description: A traveler from another world who had their only kin taken away, fo
 
 | Lv | Base HP | Base ATK | Base DEF | ATK |
 | :--- | :--- | :--- | :--- | :--- |
-| 60 | 7164 | 140 | 450 | 12% |
+| 60 | 7164 | 140 | 450 | 12% | 
 | 60+ | 7648 | 149 | 480 | 12% |
 | 70 | 8401 | 164 | 527 | 12% |
 | 70+ | 8885 | 174 | 558 | 18% |
@@ -128,7 +128,7 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 | Field Duration | 15s |
 
 * Different units can each pick up one **Abundance Amulet** generated from one **Lightning Blade** cast to gain its effects.
-* The Energy Recharge gained from **Abundance Amulets** does not affect the 4-piece bonus from Emblem of Severed Fate.
+* The Energy Recharge gained from **Abundance Amulets** does not affect Raiden's A4 passive, Mona's A4 passive and the 4-piece bonus from Emblem of Severed Fate.
 * The number of **Abundance Amulets** generated depends on the number of Lightning Blades hit AND number of enemies hit.
 * Hitting a shield will stil generate **Abundance Amulets**  
 * There is a delay before the **Abundance Amulets** can be picked up, on average 1.79s.

@@ -40,6 +40,19 @@ search: false
 
 **Significance:** Knowing that there is some range to picking up Amulets, this makes it easier for EMC to be a battery, since there is no need to actively avoid the Amulets after using E. You can walk towards the Amulets (and enemies) while switching to another character and not worry about EMC picking them up.  
 
+#### ER Increase From EMC Amulets Doesn't Affect Passives
+**By:** D.....K#9002  
+**Added:** 1/8/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927939323976888361/929309417965494323/transcript-er-increase-from-emc-amulets-doesnt-affect-passives.html)  
+
+**Finding:** The ER increase from EMC's Amulets isn't factored in for Raiden or Mona A4, meaning they don't get the corresponding Elemental DMG bonus.  
+
+**Evidence:** 
+* Raiden [Youtube](https://youtu.be/gdrs4idpkes)
+* Mona: [Youtube](https://youtu.be/V_1qeKfhLAs)
+
+**Significance:** Should be taken into consideration while doing calcs.
+
 ### Burst Mechanics
 
 * The energy gained from burst is classified as flat energy. - [ceeeleste#3568](https://imgur.com/BFu0hT2)
