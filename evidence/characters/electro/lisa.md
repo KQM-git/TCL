@@ -99,6 +99,24 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 
 ## Burst Mechanics
 
+### Lightning Rose Vertical Range
+**By:** ArchedNosi#1484  
+**Added:** 1/2/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926631413606912070/927179857354428446/transcript-lisa-lightning-rose-vertical-range.html)
+
+**Finding:** Lisa's Lightning Rose being a Cylindrical Tubular Hitbox  
+The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:  
+* Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage. Misleadingly, the actual area is not the flowered decal, but the soft tinted circle of purple.
+* Its Height/Depth is either unlimited or absurdly large. \[This is difficult to properly quantize.\]
+* Its hitbox can clip through terrain (allowing it to connect with enemies that are out of Lisa's direct Line of Sight); see Azhdaha.
+
+**Evidence:** 
+* Example of Lightning Rose connecting against a mob that is clearly above Lisa: [Youtube](https://youtu.be/PGObWVhwaWE)
+* Example of Lightning Rose connecting against a mob that is clearly below Lisa: [Youtube](https://youtu.be/_WG-Pc-9K2k)
+* Example of Lightning Rose connecting against a mob that is clearly out of Lisa's direct Line of Sight: [Youtube](https://youtu.be/-Mj_hx2sjOk)
+
+**Significance:** No obvious and major significance in Spiral Abyss, but its extreme capabilities are nice to know.
+
 ### Lisa's Lightning Rose Stagger/Knockback Mechanics
 
 By: ArchedNosi\#1484  

@@ -119,6 +119,10 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Duration | 15s |
 | CD | 20s |
 
+* The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:
+  * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage. Misleadingly, the actual area is not the flowered decal, but the soft tinted circle of purple.
+  * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
+  * Its hitbox can clip through terrain (allowing it to connect with enemies that are out of Lisa's direct Line of Sight); see Azhdaha.
 * Surrounding opponents are only launched if made airborne while their poise is broken. Poise-broken grounded enemies are frequently staggered instead.
 * The initial summon damage of **Lightning Rose** does not apply an Electro Aura.
 * The Lightning Rose shoots lightning 29 times in total, every 0.5s after the initial summon blast.
