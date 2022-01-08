@@ -89,7 +89,7 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 
 {% endtab %}
 
-{% tab title="Cliffbreaker\'s Banner" %}
+{% tab title="Cliffbreaker&apos;s Banner" %}
 Deals AoE Geo DMG and grants all nearby party members a **Flying Cloud Flag Formation**.
 
 **Flying Cloud Flag Formation**  
