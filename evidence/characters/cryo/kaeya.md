@@ -24,6 +24,25 @@ search: false
 
 **Significance:** Kaeya gens more energy than in TCL, which probably changes ER requirements for quite a lot of teams \(including Eula\).
 
+## Burst Mechanics
+
+### Glacial Waltz Proc Frames and Interactions
+
+**By:** Visc\#5095, Raf\#7220, CQLQRS\#7853, and phaZ\#6461  
+**Added:** 1/5/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906802193846398977/923113252932710420/transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)  
+
+**Finding:**  
+Kaeya’s Glacial Waltz (non-c6) has an enemy-independent lock that lasts at least 75f or 1.2s. I constantly observe the icicles proccing about 75-100f since their last proc. This is true regardless if the hitboxes come from the same enemy (B-1) or different (B-2). This means that the locks are specific to icicles and independent of enemy. The timing is more variable than Xiangling’s Pyrnado, but this could be due to funky Glacial Waltz hitboxes, which is beyond the scope of what I’m trying to do.  
+
+**Evidence:**  
+* [Kaeya Glacial Waltz procs standing surrounded by Cryo Regisvine](https://m.youtube.com/watch?v=QpaoDEwA1NE)
+* [Kaeya Glacial Waltz procs surrounded by Ruin Guards](https://m.youtube.com/watch?v=zdbfwWboedA)
+* [Google Sheet containing all the frame counts mentioned](https://docs.google.com/spreadsheets/d/14FzSNVsEFG6wg1oDt49b8vPr_zjmKzRJsAQ2VC71OIc/edit).
+
+**Significance:**  
+These data sheds light onto Glacial Waltz mechanics and how to maximize their burst damage. It also explains how moving around an enemy in the opposite direction of the rotation can increase damage of both bursts. However, you should not move too fast or else the enemy hit box loses contact with your burst before the lock expires.  
+
 ## Ascension Mechanics
 
 ### A4: Glacial Heart

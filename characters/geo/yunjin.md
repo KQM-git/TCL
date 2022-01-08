@@ -102,7 +102,7 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 | :--- | :--- |
 | Skill DMG \(T6%\) | 341.6% | 
 | Damage Increase \(T6%\) | 45.02% DEF |
-| Trigger Quota | 60 |
+| Trigger Quota | 30 |
 | Frames | - |
 | GU | - |
 | ICD | - | 

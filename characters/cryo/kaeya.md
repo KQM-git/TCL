@@ -100,7 +100,7 @@ Coalescing the frost in the air, Kaeya summons 3 **icicles** that revolve around
 * **Glacial Waltz** does not have any hitlag.
 * **Glacial Waltz** hits around 13 times while standing stationary.
 * The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
-* Each **Icicle** has a ~1 sec. [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy
+* Each **Icicle** has a ~75 frame [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy.
 {% endtab %}
 {% endtabs %}
 

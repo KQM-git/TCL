@@ -95,6 +95,7 @@ Xiangling sends a **Pyronado** whirling around her that moves with your characte
 | CD | 20s | - | - | - |
 
 * Moving in the opposite direction of **Pyronado's** spin will increase the number of hits.
+* **Pyronado** has a ~36 frame lockout before it can deal damage to the same enemy again.
 {% endtab %}
 {% endtabs %}
 

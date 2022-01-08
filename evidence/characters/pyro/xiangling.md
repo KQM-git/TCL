@@ -59,6 +59,26 @@ The hitbox of Xiangling's ultimate can hit more than once per rotation by manipu
 **Significance:**  
 It is possible to significantly boost the total damage of Xiangling's ultimate \(&gt;25%\) by moving in specific patterns and utilizing enemy hitboxes to get more hits in per ult.  
 
+### Pyronado Proc Frames and Interactions
+
+**By:** Visc\#5095, Raf\#7220, CQLQRS\#7853, and phaZ\#6461  
+**Added:** 1/5/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906802193846398977/923113252932710420/transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)  
+
+**Finding:**  
+Xiangling Pyronado has an enemy specific lock that lasts about 36f or 0.6s or 180 degrees. It is observed to constantly deal damage in 36f intervals which correspond to half a rotation.  
+
+**Evidence:**  
+* [Xiangling Pyronado procs standing next to Cryo Regisvine](https://m.youtube.com/watch?v=ZGhlg6dY0EE)
+* [Xiangling Pyronado procs standing inside Cryo Regisvine](https://m.youtube.com/watch?v=96dM8S5Dehk)
+* [Xiangling Pyronado procs standing next to Azhadha](https://m.youtube.com/watch?v=x5AhnjKuMkE)
+* [Xiangling pyronado procs standing next to Andrius](https://m.youtube.com/watch?v=WT734JeV77E)
+* [Xiangling pyronado procs surrounded by Ruin Grader](https://m.youtube.com/watch?v=uQ7c91y_qMA)
+* [Google Sheet containing all the frame counts mentioned](https://docs.google.com/spreadsheets/d/14FzSNVsEFG6wg1oDt49b8vPr_zjmKzRJsAQ2VC71OIc/edit).
+
+**Significance:**  
+These data sheds light onto Pyronado mechanics and how to maximize their burst damage. It also explains how moving around an enemy in the opposite direction of the rotation can increase damage of both bursts. However, you should not move too fast or else the enemy hit box loses contact with your burst before the lock expires.  
+
 ## Constellation Mechanics
 
 ### C2: Oil Meets Fire
