@@ -1112,3 +1112,24 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 **Evidence:** [https://youtu.be/yJ-3I3xGDgs](https://youtu.be/yJ-3I3xGDgs)
 
 **Significance:** Can't do hydro tests on dandelions near Mondstadt
+
+## Electro Fog
+**By:** pai\#3602  
+**Added:** 1/4/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922637382807846942/927770423368749116/transcript-electro-fog.html)
+
+**Finding:**  
+Interactions with the Thunder Fog in The Thundering Wilds daily commission.  
+1. Sucrose's N1, N2, and N3 don't work on their own.
+2. Sucrose's N1 and N2 work when there is something next to it that she can target, so it's assumed that N3 is the same way, but no one has been able to actually do it yet.
+3. Every other Anemo ability works on its own.
+4. The attacks from Anemo Slimes don't work, some examples of things that Sucrose can't target (and can't disperse the fog with) are the Portable Waypoint, Serenitea Pot, and Windblume Festival Commemorative Balloon.
+
+**Evidence:**   
+1. Sucrose N1 and N2 not working: [Youtube](https://youtu.be/B5jLUybrFtM)
+2. Sucrose N1 and N2 working with an enemy/gadget, and N4 working on its own: [Youtube](https://youtu.be/OBMRc6u7bng)
+    * Not included in the video: [Youtube](https://youtu.be/o5UDnI27YF0)
+4. All other Anemo abilities that work: [Youtube](https://youtu.be/1KYeH8ZwUZE)
+5. Anemo Slimes not being able to disperse it and Sucrose not being able to target some gadgets: [Youtube](https://youtu.be/qgavZ5FShY4)
+
+**Significance:** Fluff.

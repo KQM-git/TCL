@@ -148,6 +148,13 @@ The current world state & character position is saved between different world ma
 ## No Raining in Mondstadt
 * If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
 
+## Electro Fog
+Interactions with the Thunder Fog in The Thundering Wilds daily commission.  
+* Sucrose's N1, N2, and N3 don't work on their own.
+* Sucrose's N1 and N2 work when there is something next to it that she can target, so it's assumed that N3 is the same way, but no one has been able to actually do it yet.
+* Every other Anemo ability works on its own.
+* The attacks from Anemo Slimes don't work, some examples of things that Sucrose can't target (and can't disperse the fog with) are the Portable Waypoint, Serenitea Pot, and Windblume Festival Commemorative Balloon.
+
 
 ## Evidence Vault
 
