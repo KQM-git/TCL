@@ -88,7 +88,7 @@ Summons a larger **Wind Domain** at Venti's location, dealing AoE Anemo DMG and 
 
 {% endtab %}
 
-{% tab title="Wind\'s Grand Ode" %}
+{% tab title="Wind&apos;s Grand Ode" %}
 Venti fires off an arrow made of countless coalesced winds, creating a huge **Stormeye** that sucks in opponents and deals continuous Anemo DMG.
 
 **Elemental Absorption**
@@ -98,10 +98,10 @@ Venti fires off an arrow made of countless coalesced winds, creating a huge **St
 
 | Attribute | Burst DoT | Burst Additional Elemental DMG |
 | :--- | :--- | :--- |
-| Skill DMG (T6%) | 52.64% | 26.32% |
+| Skill DMG (T6%) | 52.64% * 20| 26.32% * 16|
 | Frames | 94 | - |
 | GU | 1U | 1A |
-| ICD | 3 hits / 2.5s | 3 hits / 2.5s |
+| ICD | 3 hits | 3 hits |
 | Duration | 8s | 6.4s |
 | Total Ticks | 20 | 16 |
 | Snapshot | Snapshot | Snapshot |
