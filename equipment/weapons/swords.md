@@ -248,6 +248,47 @@
 {% endtab %}
 {% endtabs %}
 
+## Cinnabar Spindle
+{% tabs %}
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Spotless Heart | Elemental Skill DMG is increased by 40% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
+| Base ATK | 41 - 454 | 
+| DEF | 15% - 61.3% | 
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base Atk | DEF  |
+|-------|----------|------|
+| 1     | 41       | 15   |
+| 5     | 54       | 17.4 |
+| 10    | 69       | 20.5 |
+| 15    | 84       | 23.5 |
+| 20    | 99       | 26.5 |
+| 20+   | 125      | 26.5 |
+| 25    | 140      | 29.6 |
+| 30    | 155      | 32.6 |
+| 35    | 169      | 35.6 |
+| 40    | 184      | 38.7 |
+| 40+   | 210      | 38.7 |
+| 45    | 224      | 41.7 |
+| 50    | 238      | 44.7 |
+| 50+   | 264      | 44.7 |
+| 55    | 278      | 47.8 |
+| 60    | 293      | 50.8 |
+| 60+   | 319      | 50.8 |
+| 65    | 333      | 53.8 |
+| 70    | 347      | 56.8 |
+| 70+   | 373      | 56.8 |
+| 75    | 387      | 59.9 |
+| 80    | 401      | 62.9 |
+| 80+   | 427      | 62.9 |
+| 85    | 440      | 65.9 |
+| 90    | 454      | 69   |
+{% endtab %}
+{% endtabs %}
+
 ### Favonius Sword
 
 {% tabs %}
