@@ -65,7 +65,7 @@ Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, da
 * Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
 
 {% endtab %}
-{% tab title="Kurage's Oath" %}
+{% tab title="Kurage&apos;s Oath" %}
 Summons a **"bake-kurage"** created from water that can heal her allies. Using this skill will apply the Wet status to Sangonomiya Kokomi. 
 
 **Bake-Kurage**  
@@ -95,7 +95,7 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 * Casting **Kurage's Oath**, even when interrupted, will still trigger Artifact set effects that trigger on Elemental Skill cast.
 
 {% endtab %}
-{% tab title="Nereid's Ascension" %}
+{% tab title="Nereid&apos;s Ascension" %}
 The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a **Ceremonial Garment** made from the flowing waters of Sangonomiya. 
 
 **Ceremonial Garment**  
