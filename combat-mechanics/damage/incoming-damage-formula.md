@@ -7,11 +7,7 @@ description: An explanation as to how incoming damage is calculated.
 ## **General Formula for Damage**
 
 $$
-\begin{multline*}
-Damage = BaseDamage \times  (1 + DamageBonus) \times Crit\\
-\times EnemyDefenseMultiplier\times EnemyResistanceMultiplier\\
-\times AmplifyingReaction\times OtherBonus+TransformativeReaction+Proc
-\end{multline*}
+Incoming\ Damage = Outgoing\ Damage \times DefenseMultiplier \times ResistanceMultiplier \times (1 - DMG\ Reduction \%)
 $$
 
 ## **Base Damage**
