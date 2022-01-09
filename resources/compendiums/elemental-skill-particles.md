@@ -26,7 +26,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 {% tab title="Anemo" %}
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Venti     |  | 6 | 3 \(-\) | 3.00 | 30.0 |
 | Venti     | Skill Hold | 15 | 4 \(-\) | 4.00 | 16.0 |
 | Kazuha    | C1 (**Scarlet Hills**) | 5.4 | 3 \(-\) | 3.00 | 33.3 |
@@ -46,20 +46,23 @@ Production ratio shows the rate of the amount of particle that will be produced 
 {% tab title="Geo" %}  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Ningguang	| C2 \(**Shock Effect**\), proc off cooldown | 6 | 3~4 \(3:2\) | 3.40 | 34.0 |
 | Ningguang |  | 12 | 3~4 \(3:2\) | 3.40 | 17.0 |
 | Traveler <br />\(Geo\) | A2 \(**Shattered Darkrock**\) | 6 | 3~4 \(2:1\) | 3.33 | 33.3 |
-| Traveler <br />\(Geo\) |  |	8 | 3~4 \(2:1\) | 3.33 | 25.0 | 
+| Traveler <br />\(Geo\) |  | 8 | 3~4 \(2:1\) | 3.33 | 25.0 | 
+| Itto | | 10 | 3~4 \(1:1\) | 3.50 | 21.0 |
 | Albedo    | **Solar Isotoma** connect does not produce particle. **Transient Blossom** proc on CD \(2s\). Doesn't have to stay on field, 100% uptime | 2 | 0~1 \(1:2\) | 0.67 | 20.1 |
 | Zhongli   | Skill Hold produces no particle, 50% chance to produce particle on hit and pulse. 100% uptime | 2 | 0~1 \(1:1\) | 0.50 | 15.0 |
+| Gorou     | C1 \(**Rushing Hound: Swift as the Wind**\), proc off cooldown | 8 | 2 \(-\) | 2.00 | 15.0 |
+| Gorou     | | 10 | 2 \(-\) | 2.00 | 12.0 |
 | Noelle    | Skill produces no particle | 24 | 0 \(-\) | 0.00 | 0.0 |
 
 {% endtab %}
 {% tab title="Pyro" %}  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Bennett   | A4 \(**Fearnaught**\), Burst off CD \(80% uptime\), always on-field, particle/min assumes 6 E cast per burst cycle | 2 | 2~3 \(3:1\) | 2.25 | 54.0 |
 | Bennett   | A2 \(**Rekindle**\) | 4 | 2~3 \(3:1\) | 2.25 | 33.8 |
 | Bennett   |  | 5 | 2~3 \(3:1\) | 2.25 | 27.0 |
@@ -82,7 +85,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 {% tab title="Electro" %}  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Raiden    | Skill  itself produces no particles, every type of damage \(including reaction triggered by skill\) triggers coordinated attack, which produce particle \(0~1 \(1:1\) check, 0.9s icd, does not buffer\), doesn't have to stay on field | 0.9 | 0~1 \(1:1\) | 0.50 | 35.0 |
 | Fischl    | C6 \(**Evernight Raven**\) Oz, Oz duration doubled with well timed burst | 25 | 0~11 \(-\) | 7.20 | 35.0 |
 | Fischl    | Off-field \(Oz\) \(Oz duration doubled with well timed burst\) | 25 | 0~9 \(-\) | 6.00 | 28.8 |
@@ -100,7 +103,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 {% tab title="Cryo" %}
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Kaeya     | A4 \(**Heart of the Abyss**\), 1 extra particle per enemy, max 2 | 6 | 4~5 \(1:2\) | 4.67 | 46.7 |
 | Kaeya	    |  | 6 | 2~3 \(1:2\) | 2.67 | 26.7 |
 | Rosaria   | Only produce particle if you connect the 2nd hit | 6 | 3 \(-\) | 3.00 | 30.0 |
@@ -119,7 +122,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 {% tab title="Hydro" %}  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
-| :---      | :--- | :--- | :--- | :--- | :--- | 
+| --------- | :--- | :--- | :--- | :--- | :--- | 
 | Tartaglia | C6 \(**Havoc: Annihilation**\), melee full uptime, procs riptide off CD \(riptide icd 1.5s, particle icd 3s\) | 3 | 1 \(-\) | 1.00 | 20.0 | 
 | Kokomi    | Does a 0~1 \(1:2\) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field, 2s icd within same **Bake-Kurage**, 100% uptime through Tamaooya's Casket talent extension, does not have to stay on field | 20 | 0~1 \(1:2\) | 0.66 | 19.8 |
 | Mona      | Doesn't have to stay on field \(**Phantom**\), only produce particle when final explosion connects, does not have to stay on field | 12 | 3~4 \(2:1\) | 3.33 | 16.7 |
