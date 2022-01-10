@@ -8,9 +8,9 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Gokadaiou Otogibanashi | DEF is increased by 28%. Normal and Charged Attack DMG is increased by 40% of DEF. |
-| Base ATK | 
-| CRIT DMG | 
+| Gokadaiou Otogibanashi | DEF is increased by **28/35/42/49/56**%. Normal and Charged Attack DMG is increased by **40/50/60/70/80**% of DEF. |
+| Base ATK | 44 - 542 | 
+| CRIT DMG | 19.2% - 88.2% |
 
 {% endtab %}
 
