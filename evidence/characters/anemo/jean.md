@@ -107,7 +107,7 @@ Further proves that fall damage is based on velocity, not height \(however great
 
 ### Fall Damage Is Influenced By Poise
 
-**By:** ColaSenami#5312    
+**By:** ColaSenami\#5312    
 **Added:** 6/20/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
@@ -132,21 +132,22 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
 
 **Evidence:**  
-[https://youtu.be/f-fzwDOYL6I](https://youtu.be/f-fzwDOYL6I)
+[YouTube](https://youtu.be/f-fzwDOYL6I)
 
 **Significance:**  
 Very consistent aura application. Can be used for Cryo or Hydro main carries or Overload setups in conjunction with Bennett.
 
 ### Anemo Aura
 
-**By:** ProfHugo#6478  
+**By:** ProfHugo\#6478  
 **Added:** 6/14/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853336250898579476/854032596726972456/transcript-anemo-aura.html)
 
 **Finding:**  
 Anemo can be the aura for swirl during Bennett-Jean Sunfire under very specific circumstances
 
-**Evidence:** <https://youtu.be/ZEQdmWjMBNM?t=16>   
+**Evidence:**  
+[YouTube](https://youtu.be/ZEQdmWjMBNM?t=16)
 
 At 0:16-0:17, Bennett's Q applied pyro shortly after Jean Q applied anemo on the active character (Kaeya). This caused Bennett to become the trigger for swirl, causing a sunfire pulse which was vaporized for 2244 pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger. 
 
@@ -156,6 +157,24 @@ Though there isn't currently a known method for reliably reproducing this phenom
 This is the second known scenario where anemo is not the trigger of a swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of anemo aura
 
 Lastly, it debunks the common belief that anemo cannot be the aura for a swirl reaction (though the behavior of the Anemo Hypostasis already serves as limited proof)
+
+### Jean Burst Border Damage on Initial Cast and Duration End
+
+**By:** Maes\#6425  
+**Added:** 1/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926758212236087337/929999851922538526/transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
+
+**Finding:**  
+Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial burst cast can cause 2 swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
+
+**Evidence:**  
+* [Border DMG on initial cast and end + Border DMG upon late entry](https://youtu.be/dPsG4YhLqIQ)
+* [Border DMG upon premature exit](https://youtu.be/7SoQ6IHyM70)
+* [2 swirls on initial cast](https://youtu.be/du8J0Rj2GRQ)
+  * [w/ Fischl & Raiden](https://youtu.be/33JEdrSlgYI)
+
+**Significance:**  
+Finding is somewhat significant for team damage calculations. This gives Jean slightly higher damage contribution through 2 guaranteed instances of Border DMG and additional swirl instances \(where applicable\). Additionally, team rotations with Jean that depend on certain auras on enemies for setups should also consider these additional damage instances as they can potentially deplete auras.
 
 ## Constellation Mechanics
 
@@ -170,7 +189,7 @@ _"Within the Field created by Dandelion Breeze, all opponents have their Anemo R
 The Anemo Resistance reduction component of this constellation still applies vertically even if her Elemental Burst misses enemies on Venti's Elemental Burst
 
 **Evidence:**  
-[https://youtu.be/3deF3geFYdE](https://youtu.be/3deF3geFYdE)
+[YouTube](https://youtu.be/3deF3geFYdE)
 
 **Significance:**  
 The reach of Dandelion Breeze's damage component has a vertical limit but the effects of it can reach much further. Thus, has potential combination for Xiao midair strikes.

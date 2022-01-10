@@ -102,7 +102,7 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 | Attribute | Burst |
 | :--- | :--- |
 | Burst DMG \(T6%\) | 594.72% | 
-| Enter/Exit DMG \(T6%\) | 109.76% | 
+| Field Enter/Exit DMG \(T6%\) | 109.76% | 
 | Burst Healing \(T6%\) | 351.68% ATK + 2439 |
 | Continuous Healing \(T6%\) | 35.17% ATK + 244 |
 | Frames | 88 |
@@ -115,11 +115,13 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 | Duration | 10s |
 | CD | 20s | 
 
+**Notes**
 * Cast also knocks away light enemies.
-* The **Dandelion field** deals Anemo damage to enemies crossing the border of the field.
+* The **Dandelion Field** deals Anemo damage to enemies crossing the border of the field.
+* **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AOE on initial cast and when the duration of the **Dandelion Field** ends.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
   * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element.
-    * With precise timing, Anemo can be the aura for self-swirls occasionally. 
+ * With precise timing, Anemo can be the aura for self-swirls occasionally. 
 
 {% endtab %}
 {% endtabs %}
