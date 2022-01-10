@@ -156,3 +156,27 @@ At high ping Eula's elemental burst does not properly lock stacks in on time, al
 
 **Significance:**  
 Eula is stronger under high ping.  
+
+## Synergies/Interactions
+
+### Rosaria A4 Eula Burst Inconsistency
+
+**By:** TWICE\#9958  
+**Added:** 1/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/925652715894358046/930016341086335027/transcript-rosaria-a4-eula-burst-inconsistencies.html)
+
+**Finding:**  
+The duration of Rosaria's A4 buff does not consistently last to the end of Eula's burst \(Lightfall explosion\). 
+
+**Evidence:**  
+* [Tree](https://youtu.be/gW9VMLKl1n8)
+* [Ruin Guard](https://youtu.be/pz_a7xnjB2w)
+* [Ruin Guard (TCL)](https://imgur.com/z49kY0s)
+* [Ruin Guard (Pines)](https://youtu.be/CCyULYIrCHc)
+
+Game setting at 60 fps, recorded in 60 fps.
+
+In each of the videos, the rotation is Rosaria Q > Eula Q N4 hold E N4 (pop). Alt-swap is used for Eula's burst. In the first two videos, we see that Rosaria's A4 burst does not last through Eula's Lightfall sword popping while using Rainslasher. However in the TCL, there is evidence that Rosaria's A4 burst can last through the pop. Both the currently-submitted videos and TCL video have a stable ping of roughly 50 ms. When tested using R1 Song of Broken Pines (which has an attack speed buff), A4 lasted through the pop.
+
+**Significance:**  
+Rosaria's A4 on Eula's burst is inconsistent at best, and should generally **not** be assumed to apply when calculating team rotations. This changes with attack speed buffs (e.g. Song of Broken Pines, Jean C2), as Eula also has ample time to swap "early" after the second N4 to trigger the explosion while the A4 buff is still active
