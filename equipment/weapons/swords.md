@@ -248,7 +248,7 @@
 {% endtab %}
 {% endtabs %}
 
-## Cinnabar Spindle
+### Cinnabar Spindle
 {% tabs %}
 {% tab title="Description" %}
 | Attribute | Description |
