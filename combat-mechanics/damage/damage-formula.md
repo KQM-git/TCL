@@ -9,10 +9,12 @@ description: An explanation as to how outgoing damage is calculated.
 $$
 \begin{multline*}
 Damage = ((BaseDamage \times SpecialMultiplier) + FlatDamage) \times  (1 + DamageBonus) \times Crit\\
-\times EnemyDefenseMultiplier\times EnemyResistanceMultiplier\\
+\times EnemyDefMult\times EnemyResMult\\
 \times AmplifyingReaction + TransformativeReaction + Proc
 \end{multline*}
 $$
+
+See the sections below for the breakdown of each individual part of the formula.
 
 ## **Base Damage**
 
@@ -82,8 +84,7 @@ $$
 
 $$
 \begin{multline*}
-EnemyDefenseMultiplier = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level_{Enemy} + 100)}\\
- \times \frac{1}{(1-DefReduction) \times (1-DefIgnore)}
+EnemyDefMult = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level_{Enemy} + 100) \times (1-DefReduction) \times (1-DefIgnore)}
 \end{multline*}
 $$
 
@@ -105,7 +106,7 @@ $$
 ## Enemy Resistance
 
 $$
-EnemyResistanceMultiplier =
+EnemyResMult =
 \begin{cases}
 1 - \frac{Resistance}{2} & \text{if, } Resistance \lt 0\\
 1 - Resistance & \text{if, } 0 \le Resistance \lt 0.75\\
@@ -164,7 +165,7 @@ $$
 
 $$
 \begin{multline*}
-TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 /times EM}{2000 + EM} + ReactionBonus \biggr)\\
+TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\
 \times LevelMultiplier \times EnemyResistanceMultiplier
 \end{multline*}
 $$
