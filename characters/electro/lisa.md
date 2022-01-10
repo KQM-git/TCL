@@ -87,7 +87,7 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 | Damage Type | Skill | Skill |
 | CD | 1s | 16s 
 
-
+**Notes**
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
   * This means in tight enough groups, it can apply all 3 stacks in a single Press E
 * The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
@@ -108,7 +108,9 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 51.18% |
+| Summon DMG | 10% |
+| Skill DMG \(T6%\) | 51.18% * 29 |
+| Tick Rate | 0.5s | 
 | Frames | 30 |
 | MV/s | 102.4%/s |
 | GU | 1A |
@@ -119,15 +121,18 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Duration | 15s |
 | CD | 20s |
 
+**Notes**
+* **Lightning Rose** has an unlisted instance of damage on initial summon
+  * Summon damage is 10% at all talent levels.
+  * Summon damage does not apply an Electro Aura.
+  * Summon damage does not apply the DEF shred from **Static Electricity Field** \(A4\).
+* Enemy targeting seems fully randomized between all opponents in-range.
+* Discharges from **Lightning Rose** have a small AoE on impact. In tight enemy groups, a lightning bolt can deal damage to multiple enemies at once.
 * The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:
   * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage. Misleadingly, the actual area is not the flowered decal, but the soft tinted circle of purple.
   * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
   * Its hitbox can clip through terrain (allowing it to connect with enemies that are out of Lisa's direct Line of Sight); see Azhdaha.
 * Surrounding opponents are only launched if made airborne while their poise is broken. Poise-broken grounded enemies are frequently staggered instead.
-* The initial summon damage of **Lightning Rose** does not apply an Electro Aura.
-* The Lightning Rose shoots lightning 29 times in total, every 0.5s after the initial summon blast.
-* Enemy targeting seems fully randomized between all opponents in-range.
-* Discharges from **Lightning Rose** have a small AoE on impact. In tight enemy groups, a lightning bolt can deal damage to multiple enemies at once.
 
 {% endtab %}
 {% endtabs %}
@@ -252,6 +257,7 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 {% tab title="Lightning Rose" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Summon DMG | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 
 | DoT | 51.18% | 54.84% | 58.5% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
 
 **Duration:** 15s  

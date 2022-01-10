@@ -111,7 +111,7 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 ## Burst Mechanics
 
 ### Lightning Rose Vertical Range
-**By:** ArchedNosi#1484  
+**By:** ArchedNosi\#1484  
 **Added:** 1/2/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926631413606912070/927179857354428446/transcript-lisa-lightning-rose-vertical-range.html)
 
@@ -236,6 +236,33 @@ Hypothetical N Entities (assuming all are condensed enough to be tagged by all D
 
 **Significance:**  
 Proves that Lisa's Lightning Rose can have AoE properties as well as very limited Quadratic potential. In turn, one may be able to condense a group of mobs close enough to accentuate Lightning Rose's total damage output.  
+
+### Lisa's Initial Summon DMG Numerical/Formula Data
+
+**By:** ArchedNosi\#1484  
+**Added:** 1/10/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632036872102009/930022973472112670/transcript-lisa-lightning-rose-summon-dmg-numerical.html)
+
+**Findings:**  
+As previously known, Lisa's Lightning Rose also deals an additional source of damage (Summon/Casting DMG) that is not stated within the in-game's talent description. As such, this attack's Talent%s are unknown as well, but can be reverse-calculated to a fairly accurate margin of error.
+Additionally, its attributes are also observed upon.
+
+About the Summon DMG itself:
+- The Summon DMG is calculated as Burst DMG and Electro DMG.
+- The Summon DMG has a numerical value of 10% MV, or Talent%. However, it is a static value that does not change if the Talent Level of Lightning Rose is increased, in other words, leveling Lightning Rose amounts to zero gain to the damage of the Summon DMG.
+- If Lisa holds 4NO, all of her Burst is affected by the ATK%, including the Summon DMG.
+- The Summon DMG does not apply Lisa's DEF Shred, rather, only the discharges do.
+
+**Evidence:**  
+[Sheet containing all collected and processed data](https://docs.google.com/spreadsheets/d/1qLZvgu_Ygk04r55S5LloxY3O0lBZqyvXQwep93AV9eo/edit?usp=sharing)  
+Within the sheet are various artifact sets and videos equipped with either, or both, 2NO (+Burst DMG%) and 2TF (+Electro DMG%) which do increase the damage of the Summon DMG.
+Tested from Talent Levels 1-14 Lightning Rose, the Summon DMG has always been reverse-calculated to 10% MV.
+Within the sheet contains the methodology and proof of all of these statements as well as sufficient video evidence (of 139 videos).
+
+**Significant:**  
+Provides more information to the elusive Summon DMG of Lisa's Lightning Rose, that being it is calculated as Burst DMG, Electro DMG, does not induce Lisa's DEF Shred, reads 4NO's buff (if held), and, most significantly, has a static MV of 10% that does not change to the Talent Level of Lightning Rose.
+
+By definition, this discovery technically invalidates/corrects all previous, present, and potential future Lisa Calculations in any calculator or simulator (albeit barely) that does not have this damage source implemented. With this information, calculations that may include Lisa will be more "accurate". However, this change is minor, for this Summon DMG is a miniscule amount of damage relative to her Elemental Burst, much less her kit.
 
 ## Constellation Mechanics
 

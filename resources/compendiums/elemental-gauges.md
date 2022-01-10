@@ -66,7 +66,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Beidou    | - | - | 2B | 2B | On Cast: 4C <br />Lightning Discharge:1A | - |
 | Fischl    | - | 1A | Initial AoE: 1A<br />On-Hit \(Normal & C6\): 1A <br /> A1: 2B / A4: 1A | - | 2B | - | 
 | Keqing    | Electro Infusion: 1A | Electro Infusion: 1A | Initial E Cast: 1A <br />E+CA: 2B / E+E: 2B | - | 1A | - |
-| Lisa      | 1A | 1A | 1A | 2B | 1A | - |
+| Lisa      | 1A | 1A | 1A | 2B | Summon DMG: None<br />DoT: 1A | - |
 | Razor     | - | - | 2B | 2B | On Cast: 2B <br />Additional On-Hit: 1A | - |
 | Raiden    | - | - | Initial Cast: 1A <br />Proc: 1A | - | Initial Hit: 2B <br />Infused Attacks: 1A | - 
 | Sara      | - | 1A | Skill Damage: 1A <br /> C2: 1A | - | 1A | - |
