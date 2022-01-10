@@ -253,7 +253,7 @@
 {% tab title="Description" %}
 | Attribute | Description |
 | :--- | :--- |
-| Spotless Heart | Elemental Skill DMG is increased by 40% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
+| Spotless Heart | Elemental Skill DMG is increased by **40/50/60/70/80**% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
 | Base ATK | 41 - 454 | 
 | DEF | 15% - 61.3% | 
 {% endtab %}
