@@ -77,7 +77,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jean      | - | - | 2U | 2U | On Cast: 2U <br />On Enter/Exit: 1U | - |
+| Jean      | - | - | 2U | 2U | On Cast: 2U <br />On Enter/Exit: 2U | - |
 | Kazuha    | C6 Infusion: 1U | Midare Ranzen \(Plunge\): 1U | 1U | 2U | On Cast: 2U <br /> DoT Field: 1U |
 | Sayu      | - | - | Whirlwind Kick: 1U | Whirlwind Kick Hold: 1U <br /> Windwheel Roll: 1U <br />Windwheel Elemental DMG: 1A <br />Whirwind Kick Elemental DMG: 1A | On Cast: 1U <br />Muji-Muji Daruma DMG: 1U | - |
 | Sucrose   | 1U | 1U | 1U | - | 1U | - |

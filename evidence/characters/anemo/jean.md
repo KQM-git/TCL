@@ -123,6 +123,11 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 
 ## Burst Mechanics
 
+* Dandelion Field & Border Entering/Exiting DMG gauge is 2U - Luci\#4980
+  * [Burst Field is 2U](https://youtu.be/huQYjQoqFnI)
+  * [Burst Border is 2U](https://youtu.be/ivneYMlnblE)
+  * [Jean burst clearing 1A Aloy charged shot](https://youtu.be/vN9gsLFd9MA)
+
 ### Continuous Self-Swirl and Cleanse
 
 **By:** KDacus\#2865  
