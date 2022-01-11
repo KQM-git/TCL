@@ -74,7 +74,7 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 | :--- | :--- | :--- |
 | Skill DMG \(T6%\) | 194.88% | 264.32% |
 | DMG Bonus | 63.92% ATK | 63.92% ATK |
-| Trigger Quote | 5 | 7 |
+| Trigger Quota | 5 | 7 |
 | Particles | - | - |
 | Frames | - | - |
 | GU | - | - |
