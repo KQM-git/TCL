@@ -100,7 +100,7 @@ $$
 ### **Defense Reduction Effects**
 * Razor's **[Bite](../../characters/electro/razor.md#constellations)** (C4): 15%
 * Lisa's **[Static Electricity Field](../../characters/electro/lisa.md#ascension-passives)** (A4): 15%
-* Ayaka's **[Ebb and Flow](../../characters/cryo/ayaka.md#constellations)** (C4): 15%
+* Ayaka's **[Ebb and Flow](../../characters/cryo/ayaka.md#constellations)** (C4): 30%
 * Klee's **[Explosive Frags](../../characters/pyro/klee.md#constellations)** (C2): 23%
 
 ## Enemy Resistance
