@@ -7,8 +7,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 ## Resources
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
-* [Fischl Support Weapon Rankings](../../evidence/characters/electro/fischl.md#fischl-support-weapon-rankings) *by itsjaeYOU\#2868*
-* [Fischl Build Comparison](../../evidence/characters/electro/fischl.md#fischl-build-comparison) *by Paraszczak\#0148*
+* [Fischl Support Weapon Rankings](https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit?usp=sharing) *by itsjaeYOU\#2868*
 
 ## ![](../../.gitbook/assets/element_electro.png) Fischl
 
