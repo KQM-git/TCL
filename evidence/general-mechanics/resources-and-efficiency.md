@@ -539,3 +539,25 @@ Summary of Results, most efficient units for tree chopping:
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 
 **Significance:** Useful for players to know if they're farming a massive amount of wood.
+
+## Weekly BP Cap During Launch Week
+**By:** Mcpie#8672  
+**Added:** 1/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928504588498272296/930045464001257522/transcript-weekly-bp-cap-during-launch-week.html)
+
+**Finding:** Reaching BP Weekly EXP limit during launch week requires sacrifices.  
+Possible sacrifices are:  
+* Spend a total of 500,000 Mora.
+  * It's easy to spend it if you're planning to level anything.
+* Purchase 2 items from the Teapot Traveling Salesman in another player's Serenitea Pot.
+  * Requires sacrificing possible resin gains from purchasing Mora/fodder/EXP for Realm Currency - it's 80 Realm Currency in order to reach it.
+* Use a total of 1200 Original Resin.
+  * Only NA is capable of doing this and not even by a huge margin - you can use up to 1237 resin assuming perfect server maintenance end and x2 Transient Resin.
+  * If you're not a hardcore player, you need to either make a refill with Primogems or utilize Fragile Resins.
+
+**Evidence:** 
+Sheet including options and calcs per server region: [Google Doc](https://docs.google.com/spreadsheets/d/1w3AzHkRcJPFLyonoEVQGJmNX4KCqfIewEH_1LQ55y4c)
+
+Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Salesman** have same value (450), which is the reason as to why there is no extra sheet for salesman / salesman + resin as same values are included in **500,000 Mora** sheets.
+
+**Significance:** People who wanted to reach BP Weekly EXP limit during launch week have to make additional sacrifices in order to do so.  
