@@ -28,7 +28,7 @@ redirects:
   lisa: ./characters/electro/lisa.md
   raiden: ./characters/electro/raiden.md
   razor: ./characters/electro/razor.md
-  sara: ./characters/electro/sara.nd
+  sara: ./characters/electro/sara.md
   traveler-electro: ./characters/electro/traveler-electro.md
   albedo: ./characters/geo/albedo.md
   gorou: ./characters/geo/gorou.md
@@ -54,5 +54,7 @@ redirects:
   xinyan: ./characters/pyro/xinyan.md
   yanfei: ./characters/pyro/yanfei.md
   yoimiya: ./characters/pyro/yoimiya.md
+  damage: ./combat-mechanics/damage/damage-formula.md
+  egt: ./combat-mechanics/elemental-effects/elemental-gauge-theory.md
   srp: ./combat-mechanics/elemental-effects/simultaneous-reaction-priority.md
   
