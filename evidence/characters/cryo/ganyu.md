@@ -242,6 +242,21 @@ Two Ice Lotuses can exist simultaneously on C0 Ganyu.
 **Significance:**  
 It is possible to spawn multiple Ice Lotuses without C2 Ganyu.
 
+### Ganyu Elemental Skill has no ICD
+
+**By:** TWICE\#9958  
+**Added:** 1/10/2022   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929894901469032499/930085706393600060/transcript-ganyu-e-icd.html) 
+
+**Finding:**  
+Ganyu E does not have ICD.
+
+**Evidence:**  
+[YouTube](https://youtu.be/NTwGHl6XA8I) - Ganyu equipped with Sacrificial Bow. Applied 2U of pyro to the Fatui Agent using Bennett's skill. Used Ganyu skill twice using Sac Bow passive, both hits melted. First damage instance appears at frame 455, second at frame 530 => 1.25 seconds between damage, which is less than the standard 2.5 seconds.
+
+**Significance:**  
+Provides evidence for "ICD: None" on TCL for Ganyu's skill.
+
 ### **Icicle drop frequency of Ganyu’s Q**
 
 **By:** TiagoESC\#6773  
