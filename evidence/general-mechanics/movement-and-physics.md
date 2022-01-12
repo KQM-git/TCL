@@ -393,3 +393,26 @@ The first 5 are mainly visuals with numbers made through previous attempts to ma
 
 **Significance:**  
 If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
+
+## Speed Comparsion Between Walk Jump And Continuous Walk  
+**By:** Mcpie#8672  
+**Added:** 1/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185303288217600/930052462809849876/transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
+
+**Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
+
+The ranking from fastest to slowest is:  
+1. JW Adult Female  
+2. JW Teen Male  
+3. JW Adult Male   
+4. CW Adult Male   
+5. CW Adult Female  
+6. JW Teen Female  
+7. CW Teen Male  
+8. CW Teen Female  
+9. JW Child Female  
+10. CW Child Female  
+
+**Evidence:** Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
+
+**Significance:** Allows players to pick up best way to move while regenerating stamina.

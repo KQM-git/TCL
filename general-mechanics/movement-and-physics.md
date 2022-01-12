@@ -18,6 +18,21 @@ For long-distance you will do the same, dash chaining with maximum dash uptime o
 
 **Note:** This does not account for special dashes such as Mona.
 
+When not using dashes, or while regenerating stamina, it is faster to spam jump constantly instead of walking.  
+Let JW be Jump Walking and Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps.  
+
+The ranking from fastest to slowest is:  
+1. JW Adult Female  
+2. JW Teen Male  
+3. JW Adult Male  
+4. CW Adult Male  
+5. CW Adult Female  
+6. JW Teen Female  
+7. CW Teen Male  
+8. CW Teen Female  
+9. JW Child Female  
+10. CW Child Female  
+ 
 ## Push/Pull Effects
 
 Push/pull effects are dynamic across team members
