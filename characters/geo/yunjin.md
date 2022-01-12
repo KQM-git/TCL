@@ -28,19 +28,20 @@ Performs up to five consecutive spear strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 58.88% | - | - |
-| 2-Hit DMG | 58.5% | - | - |
-| 3-Hit DMG | 33.38% + 40% | - | - |
-| 4-Hit DMG | 34.88% + 41.88% | - | - |
-| 5-Hit DMG | 97.88% | - | - | 
-| Recovery | - | - | - |
+| 1-Hit DMG | 58.88% | 15 | 235.52% |
+| 2-Hit DMG | 58.5% | 38 | 185.33% |
+| 3-Hit DMG | 33.38% + 40% | 61 + 75 | 152.61% |
+| 4-Hit DMG | 34.88% + 41.88% | 101 + 113 | 142.05% |
+| 5-Hit DMG | 97.88% | 157 | 139.64% | 
+| Recovery | - | 214 | - |
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| CA | 176.88% | - | - | 
+| N1CA | 235.76% | 13 + 57 | 248.17% | 
+| Recovery | - | 89 | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
@@ -63,20 +64,18 @@ Takes up the Opening Flourish stance and charges up, forming a shield. DMG Absor
 When the skill is released, when its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing Geo DMG.  
 Based on the time spent charging, it will either unleash an attack at Charge Level 1 or Level 2.
 
- Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 208.77% DEF | 208.77% DEF |
-| Charge Level 1 DMG \(T6%\) | - | 365.34% DEF |
-| Charge Level 2 DMG \(T6%\) | - | 521.92% DEF |
-| Particles | - | - | 
-| Frames | - | - |
-| GU | - | - |
-| ICD | - | - | 
-| Snapshot | - | - | 
-| Damage Element | Geo | Geo | 
-| Damage Type | Skill | Skill |
-| Duration | - | - |
-| CD | 9s | 9s |
+ Attribute | Tap | Charge Level 1 | Charge Level 2 |
+| :--- | :--- | :--- | :--- |
+| Skill DMG \(T6%\) | 208.77% DEF | 365.34% DEF | 521.92% DEF |
+| Particles | 2 \(-\) | 2~3 \(3:2\) | 3 \(-\) 
+| Frames | 59 | 109 | 147 |
+| GU | 2U | 2U | 4U | 
+| ICD | - | - | - |
+| Snapshot | - | - | - |
+| Damage Element | Geo | Geo | Geo |
+| Damage Type | Skill | Skill | Skill |
+| Duration | - | - | - |
+| CD | 9s | 9s | 9s |
 
 | Attribute | Shield |
 | :--- | :--- |
@@ -85,6 +84,8 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 | Duration | Hold Duration |
 
 **Notes**
+* Yunjin is considered shielded for the duration of her **Opening Flourish** stance.
+  * This can be used to apply Geo Resonanace Geo Res Shred. 
 * Yunjin can perfect counter shots from the Inazuma Kamuijima Cannons.
 
 {% endtab %}
@@ -103,15 +104,24 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 | Skill DMG \(T6%\) | 341.6% | 
 | Damage Increase \(T6%\) | 45.02% DEF |
 | Trigger Quota | 30 |
-| Frames | - |
-| GU | - |
+| Frames | 55 |
+| GU | 2U |
 | ICD | - | 
-| Snapshot | - | 
+| Snapshot | Dynamic | 
 | Damage Element | Geo | 
 | Damage Type | Burst |
 | Energy Cost | 60 |
 | Duration | 12s |
 | CD | 15s | 
+
+**Notes**
+* The bonus damage from **Flying Cloud Flag Formation** gets increased by DMG % bonuses. See [Damage Formula](../../combat-mechanics/damage/damage-formula.md) for more details.
+* **Flying Cloud Flag Formation** can be extended by hitlag, including from hits by other characters.
+* **Flying Cloud Flag Formation** increases damage of all hits in multi-hit attacks.
+* **Flying Cloud Flag Formation** only affects affects attacks, passives and effects with the Normal Attack tag. NO EXCEPTIONS.
+
+**Interactions**
+* Yoimiya's **Niwabi Fire-Dance's Blazing Arrow** DMG increase does not increase Yun Jin's **Cliffbreaker's Banner** bonus.
 
 {% endtab %}
 {% endtabs %}
@@ -130,6 +140,8 @@ When Perfect Cooking is achieved on Food with Adventure-related effects, there i
 ### **True to Oneself**
 
 Using **Opening Flourish** at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.
+
+* Burning grass can trigger **True to Oneself**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -165,6 +177,8 @@ Maximum upgrade level is 15.
 ### **Flower and a Fighter**
 
 When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s.
+
+* The DEF % increase does not apply to the hit that triggers the Crystallize.
 {% endtab %}
 
 {% tab title="C5" %}

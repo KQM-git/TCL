@@ -86,12 +86,15 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 | Duration | 10s |
 | CD | 18s |
 
+**Notes**
 * The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
 * Yoimiya's particle generation triggers on infused arrow hit and has an ICD of 2s on particle generation.
   * Yoimiya's particle generation procs cannot be buffered, so Yoimiya will ideally generate 4 particles over the duration of **Niwabi Fire-Dance**
 * Charged Shots during the duration of **Niwabi Fire-Dance** do not generate particles.
 * Yoimiya can still produce energy even after **Niwabi Fire-Dance** expires as long as the ICD is off CD and the infused normal attack string arrow lands.
 
+**Interactions**
+* Yoimiya's **Niwabi Fire-Dance's Blazing Arrow** DMG increase does not increase Yun Jin's **Cliffbreaker's Banner** bonus.
 {% endtab %}
 
 {% tab title="Ryuukin Saxifrage" %}
