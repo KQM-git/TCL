@@ -28,12 +28,12 @@ Performs up to five consecutive spear strikes.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 62.88% | - | - |
-| 2-Hit | 58.5% | - | - |
-| 3-Hit | 77.5% | - | - |
-| 4-Hit | 38.25% + 38.25% | - | - |
-| 5-Hit | 95.38% | - | - |
-| Recovery | - | - | - |
+| 1-Hit | 62.88% | 13 | 290.22% |
+| 2-Hit | 58.5% | 44 | 165.52% |
+| 3-Hit | 77.5% | 68 | 175.48% |
+| 4-Hit | 38.25% + 38.25% | 97 + 103 | 160.42% |
+| 5-Hit | 95.38% | 135 | 164.78% |
+| Recovery | - | 167 | - |
 
 
 **Charged Attack**  
@@ -42,6 +42,7 @@ Consumes a certain amount of Stamina to lunge forward, dealing damage to opponen
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | CA | 160.86% | - | - |
+| N1C | 223.74% | 20 + 54 | 248.60% |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
@@ -75,15 +76,31 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 | Skill DMG \(T6%\) | 194.88% | 264.32% |
 | DMG Bonus | 63.92% ATK | 63.92% ATK |
 | Trigger Quota | 5 | 7 |
-| Particles | - | - |
-| Frames | - | - |
-| GU | - | - |
+| Particles | 3 \(-\) | 4 \(-\) |
+| Frames | 29 | 44 |
+| GU | 1U | 2U |
 | ICD | - | - |
 | Snapshot | - | - | 
 | Damage Element | Cryo | Cryo | 
 | Damage Type | Skill | Skill |
 | Duration | 10s | 15s |
 | CD | 10s | 15s |
+
+**Notes**
+* **Icy Quill** damage increase is calculated as additive flat damage.
+* Initial damage on Press factors in **Spirit Communion Seal** \(A4\).
+* **Spring Spirit Summoning** itself consumes an **Icy Quill** stack
+* Multiple usages of **Spring Spirit Summoning** only refresh **Icy Quill** stacks and the respective version of **Spirit Communion Seal**'s \(A4\) buff duration.
+* **Icy Quill** are Dynamic.
+* **Icy Quill** stacks can get dynamically added onto ongoing/existing snapshotted abilities.
+* Anemo Abilities with Cryo absorbed consume **Icy Quill** stacks.
+  * Additionally, Cryo Swirls don't consume **Icy Quill** stacks
+* Triggering **Icy Quill** on a snapshot ability uses the snapshotted stats.
+* **Spring Spirit Summoning** \(Press\) does not have hitlag .
+***Spring Spirit Summoning** \(Press\) is capable of escaping Mirror Maiden's cage. **Spring Spirit Summoning** \(Hold\) however, is not.
+* **Icy Quill** stacks are used up even if no damage is dealt to an enemy (when they have a shield).
+* **Icy Quill** stacks increase the damage dealt to shields \(excluding cryo\) by ~15 to 20% .
+* **Spring Spirit Summoning** \(Hold\) makes Shenhe immune to all staggers and knockbacks for its animation duration.
 
 {% endtab %}
 
@@ -92,19 +109,29 @@ Unleashes the power of the Talisman Spirit, allowing it to roam free in this pla
 
 The Talisman Spirit then creates a field that decreases the Cryo RES and Physical RES of opponents within it. It also deals periodic Cryo DMG to opponents within the field. 
 
-| Attribute | Burst | 
-| :--- | :--- |
-| Skill DMG \(T6%\) | 141.12% |
-| RES Decrease \(T6%\) | 11% |
-| Frames | - |
-| GU | - |
-| ICD | - | 
-| Snapshot | - | 
-| Damage Element | Cryo | 
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| Duration | 12s |
-| CD | 20s | 
+| Attribute | Initial Hit | DoT | 
+| :--- | :--- | :--- | 
+| Skill DMG \(T6%\) | 141.12% | 141.12% * 12 |
+| RES Decrease \(T6%\) | 11% | - |
+| Tick Rate | - | 2s |
+| Frames | 75 | - | 
+| GU | 1U | 1U |
+| ICD | - | Standard |
+| Snapshot | Dynamic | Snapshot |
+| Damage Element | Cryo | Cryo |
+| Damage Type | Burst | Burst |
+| Energy Cost | 80 | - |
+| Duration | 12s | - | 
+| CD | 20s | - |
+
+**Notes**
+* Damage ticks twice every 2 seconds
+* Cooldown Starts on press.
+* Duration timer starts after the animation.
+* Energy Consumption is on press.
+* DoT snapshots ATK Buffs and 2pc Noblesse but not Shenhe's **Deific Embrace** \(A1\).
+* RES Shred persists 2 seconds after **Divine Maiden's Deliverance** ends.
+* **Divine Maiden's Deliverance** does not have enough iframes for explosive barrel immunity.
 
 {% endtab %}
 {% endtabs %}
@@ -123,6 +150,8 @@ Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.
 ### **Deific Embrace**
 
 An active character within the field created by **Divine Maiden's Deliverance** gains 15% Cryo DMG Bonus.
+
+* **Deific Embrace** is dynamic and changes as the character enters and exits the **Divine Maiden's Deliverance** field.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -131,6 +160,8 @@ An active character within the field created by **Divine Maiden's Deliverance** 
 After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party members the following effects:  
 • Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.  
 • Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.
+
+* Buff durations for **Spring Spirit Summoning** \(Press\) and **Spring Spirit Summoning** \(Hold\) are independent.
 {% endtab %}
 {% endtabs %}
 
@@ -141,12 +172,16 @@ After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party m
 ### **Clarity of Heart**
 
 **Spring Spirit Summoning** can be used 1 more time.
+
+* The charges refreshes **Icy Quill** stacks based on the latest type of **Spring Spirit Summoning** cast \(Press/Hold\). 
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Centered Spirit**
 
 **Divine Maiden's Deliverance** lasts for 6 seconds longer. Active characters within the skill's field deals 15% increased Cryo CRIT DMG.
+
+* The CRIT DMG buff shortly lingers after **Divine Maiden's Deliverance** ends.
 {% endtab %}
 
 {% tab title="C3" %}

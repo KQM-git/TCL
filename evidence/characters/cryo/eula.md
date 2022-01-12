@@ -159,6 +159,8 @@ Eula is stronger under high ping.
 
 ## Synergies/Interactions
 
+* Shenhe E applies A4 buff fast enough to buff Eula's Lightfall explosion via the "swap trick". - [Video](https://youtu.be/SiiOtS8mtMc) - TWICE\#9958
+
 ### Rosaria A4 Eula Burst Inconsistency
 
 **By:** TWICE\#9958  
