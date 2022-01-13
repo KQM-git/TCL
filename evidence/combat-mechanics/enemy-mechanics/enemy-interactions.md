@@ -206,6 +206,22 @@ C4 Lisa Ult, which has a large verticality, tags Two Hitboxes of Azhdaha during 
 **Significance:**  
 Abilities that have large verticality and the property of being able to tag multiple entities, notably Lisa C4 Lightning Rose, can expedite Azhdaha killtimes.  
 
+### Azhdaha's Element Is The Same For All Regions
+**By:** xSil3nt\#0961  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/924709157163122729/931057558175748157/transcript-azhdaha-elements-same-for-all-regions.html)
+
+**Finding:**  
+Azhdaha's elements are the same across servers/regions and change weekly on mondays.
+
+**Evidence:**  
+Data was collected using google forms, all submissions were checked with the screenshot attached with the form. All submissions had the same elements selected on each week, submissions were from multiple regions as seen in the pie chart.  
+[Imgur](https://i.imgur.com/bYYrTD8.jpg)  
+[Google Doc](https://docs.google.com/spreadsheets/d/1o4A8OwyqFwq57pEQ1NTIpNJxGx7A-t809LkmzXotGXI/edit#gid=1836241029)
+
+**Significance:**  
+Co-op cannot be used to have a more favorable/easier elemental matchup against azhdaha as the his infused elements in a given week are the same for all players.
+
 ### Stormterror  
 
 #### Stormterror DoT Damage Cap
@@ -340,8 +356,8 @@ If your main DPS relies on Charged Attacks for damage and has the bullet-like an
 
 #### Shield Reflection Mechanic
 
-**By:** Mcpie#8672  
-**Added:** 6/25/2021   
+**By:** Mcpie\#8672  
+**Added:** 6/25/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846126762165272666/858192389344854067/transcript-shield-reflection-damage.html)
 
 **Finding:**  
@@ -450,7 +466,7 @@ Better understanding of Abyss Herald mechanics, and which attacks in particular 
 
 ### Hydro Abyss Mage bubble persists on swap
 
-**By:** snorting salt#3888  
+**By:** snorting salt\#3888  
 **Added:** 07/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
 

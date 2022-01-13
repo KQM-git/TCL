@@ -18,6 +18,10 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 ### Anemo Hypostasis  
 * Adequately getting rid of overworld Hydro Aura on the Anemo Hypostasis results in it continuously swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U cyro application. Non-sufficent Cryo application does not result in this occcuring.
 
+### Azhdaha 
+
+* Azhdaha's elements are the same across servers/regions and change weekly on mondays.
+
 ### Cryo Regisvine
 
 * Xiangling's Pyronado will only apply Pyro once to the Cryo Regisvine's core during the initial swing, and will not hit the core again during the rest of its duration.

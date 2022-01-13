@@ -12,6 +12,12 @@ In an age that has all but faded from memory, he stood shoulder to shoulder with
 
 * Azhdaha's **Moonlit Tree** phase (submerging underground while leaving his tail on the surface) has two independent hitboxes that can be exploited with a large AoE attack (essentially double the DMG dealt)
 
+## Element
+
+* The two elements Azhdaha infuses himself with can be seen on the entrance to his domain.
+  * Example: [Imgur](https://imgur.com/a/Li7HHM4)  
+* These two elements are the same across all regions.
+
 ## Energy drops
 
 None.
