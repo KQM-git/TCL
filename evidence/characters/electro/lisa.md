@@ -130,8 +130,8 @@ The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/
 
 ### Lisa's Lightning Rose Stagger/Knockback Mechanics
 
-By: ArchedNosi\#1484  
-Added: 11/07/2021  
+**By:** ArchedNosi\#1484  
+**Added:** 11/07/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461616621641728/907097696148520990/transcript-lisa-stagger-knockback-mechanics-lightning-rose.html)
 
 **Findings:**  
@@ -179,6 +179,30 @@ In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply
 Demonstrates that the Initial Summon DMG of Lightning Rose does not apply an Electro Aura. 
 For Lisa specifically, knowing this is more useful than not as she would be able to not proc Overloaded/Superconduct from casting Lightning Rose and be able to quickly cast a Tap E after to proc the reaction instead, causing Multiple Conductive Stacks to occur due to her Multi-Stacking.
 
+### Lightning Rose Summon DMG Range
+**By:** ArchedNosi#1484  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632362715017237/931066545940070470/transcript-lisa-lightning-rose-summon-dmg-range.html)
+
+**Finding:** Lisa's Initial Summon DMG Range/Area.  
+* The initial Summon DMG dealt by Lisa's Lightning Rose is dealt once within a specific area.
+* This area is defined as either a flat circular plane or a small cylinder which shares the radius of Lightning Rose (7m).
+* The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which Lightning Rose was casted on, which is deceptive given its visual appears to give verticality.
+
+**Evidence:** (Youtube)
+* [The VFX in Question](https://youtu.be/vc9sATF99JY)
+
+* Horizontal Range:
+  * [Edge of Lightning Rose: Hit](https://youtu.be/6uNEm_rL3Dw)
+  * [Outside of Lightning Rose: Miss](https://youtu.be/50ayndzvidM)
+* Vertical Range:
+  * [Contact with Plane: Hit](https://youtu.be/M9z0Rd7up5k)
+  * [Below: Miss](https://youtu.be/W-EJYdvpPwc)
+  * [Above: Miss](https://youtu.be/PVNq5oPB__w)
+  * [Barely Above (1): Miss](https://youtu.be/D30TY8eQ5CU)
+  * [Barely Above (2): Miss](https://youtu.be/ledGuqd3BUg)
+* Miscellaneous:
+  * [Hit](https://youtu.be/iQX_rkZu0QI)
 
 ### Lisa's Lightning Rose is Random when Targeting Entities + Total Count
 
