@@ -300,3 +300,30 @@ First recording Thoma E damage aligns with 2nd damage calculation, proves that e
 **Significance:**  
 * To get rid of "Dangerous Zone" warning, you only need to level one character.
 * Enemy level colour is an unreliable indicator.
+
+## All Models Can Roll In Place  
+**By:** Mcpie\#8672  
+**Added:** 1/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185933952159755/930084965645967420/transcript-all-models-can-roll-in-place.html)
+
+**Finding:**  
+Every character model is capable of rolling in place.  
+In order to perform it, you need enough movement speed and then proceed to jump from being idle -> hold W while falling.  
+
+Depending on character model, you need up to:  
+* Child female - 10%  
+* Adult female - 10%  
+* Adult male - 25%  
+* Teen male - 35%  
+* Teen female - 35%  
+movement speed in order to roll. These are upper bounds and it might be possible to roll with lower values but way harder to execute.
+
+**Evidence:**  
+* [Adult male](https://youtu.be/5i_AFRe35ck)
+* [Adult female](https://youtu.be/nq3rgd3czz8)
+* [Teen male](https://youtu.be/enmeL7TYBGY)
+* [Teen female](https://youtu.be/nq3rgd3czz8)
+* [Child female](https://youtu.be/0kSxjTp96LM)
+
+**Significance:**  
+Fluff, but might somehow help out with model differences in the future.
