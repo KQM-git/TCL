@@ -21,6 +21,7 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 ### Azhdaha 
 
 * Azhdaha's elements are the same across servers/regions and change weekly on mondays.
+* Azhdaha's Moonlit Tree phase (submerging underground while leaving his tail on the surface) has two independent hitboxes that can be exploited with a large AoE attack (essentially double the DMG dealt)
 
 ### Cryo Regisvine
 
