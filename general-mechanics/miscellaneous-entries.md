@@ -26,6 +26,9 @@ This applies to their respective triggers too.
 * For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it had activated, which causes effects like Crimson Witch 4-piece to stack.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.
 * Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, this doesn't work for charge attacks.
+* Kamera Gadget can cancel knockback.
+  * Both the Kamera gadget as well as the Special Kamera gadget can be used to "cancel" knockback (instead of flying through the air, the character slides backwards). It can also be used to cancel a dash off of a ledge or the bounce of Bennetts charge level 2 (which seems to behave identical to receiving knockback).
+  * To do this, you have to take a picture at the moment where you get hit/leap off a ledge. The method used is to take photos in rapid succession, by pressing "esc" and "y" quickly after one another. This makes timing the photo easier.
 
 ## Tanking
 
