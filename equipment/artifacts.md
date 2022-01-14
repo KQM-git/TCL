@@ -30,6 +30,7 @@
 * The 4p set bonus does not snapshot. The Crit Rate increase is Dynamic, and changes your Crit Rate in real time.
 * The 4p set bonus does not apply on the hit that applies Frozen.
 * Enemies with the “Frozen” aura do not count as “being frozen” for the 4p set bonus. They need to be literally frozen. Otherwise, it will be treated as just a cryo aura, and you get only 20% crit rate.
+* Blizzard Strayer gives crit rate buff to reactions that would remove the cryo/frozen from the enemy.
 {% endtab %}
 {% endtabs %}
 

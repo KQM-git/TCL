@@ -73,7 +73,7 @@ Crit counts: [Spreadsheet](https://docs.google.com/spreadsheets/d/1TjE6Po4mKUUlv
 Only 3 out of 46 hits crit, which is statistically improbable with a theoretical 30% critical chance. Although by no means conclusive, it strongly hints that 4BS does not work on the hit that applies Cryo.
 
 **Significance**:  
-Blizzard Strayer litterally abbreviates to BS.
+Blizzard Strayer literally abbreviates to BS.
 
 ### 4pc Blizzard Strayer on frozen aura
 
@@ -108,6 +108,61 @@ Enemies with the “Frozen” aura do not count as “being frozen” for Blizza
 
 **Significance**:  
 Clarification of interaction between frozen aura and Blizzard Strayer set bonus. Also, Blizzard Strayer still pretty much is bs.
+
+### Blizzard Strayer Applies Crit Rate Before Reactions
+**By:** CrazyWeke123\#9720  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929795759807795220/931148101698322453/transcript-blizzard-strayer-applies-crate-before-reactions.html)
+
+**Finding:**  
+Blizzard Strayer gives crit rate buff to reactions that would remove the cryo/frozen from the enemy.
+
+**Evidence:**  
+* [BS on Melt](https://youtu.be/lMVjdLf81ss)
+* [BS on Shatter](ttps://youtu.be/vLkLicZf-vg)  
+* [BS on Swirl](https://youtu.be/HtzFBDGmku4)
+* [BS on Superconduct](https://youtu.be/7x_Ev3nfTEE)
+* [BS on Crystallize](https://youtu.be/6WUTJPxWQTQ)
+
+* For the melt test:
+  * 61.5% crit rate before BS
+  * 0.615 ^ 23 = 0.00001393 aka .001% chance if BS wasn't activating
+  * 23 melts 23/23 crit
+  * Crit = 4095 
+  * non crit = 2118
+
+* For the shatter test:
+  * 61.5% crit rate before BS
+  * 25 shatters = 25/25 crit
+  * 0.615 ^ 25 = 0.00000527 aka .0005% chance if BS wasn't activating
+  * C1 crit = 405
+  * C1 noncrit = 203
+  * No c1 crit = 352
+  * No c1 noncrit = 177 (some of the diluc hits didnt create the shatter reaction so it wasn't counted those, they still crit but assuming the target just had cryo and 81% crit was hit)
+
+* For sc test:
+  * 61.5% crit rate before BS
+  * 11  sc hits = 11/11 crit
+  * 0.615 ^ 11 = 0.004 aka .4% chance if BS wasn't activating
+  * Crit = 177
+  * Non crit = 81
+
+* For swirl test:
+  * 61.5% crit rate before BS
+  * 12 swirl hits = 12/12 crit
+  * 0.615 ^ 12 = 0.002 aka .2% chance if BS wasn't activating
+  * Crit = 550
+  * Non crit = 252
+
+* For crystallize test:
+  * 81.8% crit before BS
+  * 21 crystallizes = 21/21 crit
+  * 0.818 ^ 21 = 0.014 aka 1.4% chance if BS wasn't activating
+  * Crit = 2882
+  * Non crit = 1324
+
+**Significance:**  
+Better understanding of Blizzard Strayer for reaction comps.
 
 ## Bloodstained Chivalry
 
