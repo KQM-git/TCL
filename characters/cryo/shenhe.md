@@ -96,8 +96,8 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 * Anemo Abilities with Cryo absorbed consume **Icy Quill** stacks.
   * Additionally, Cryo Swirls don't consume **Icy Quill** stacks
 * Triggering **Icy Quill** on a snapshot ability uses the snapshotted stats.
-* **Spring Spirit Summoning** \(Press\) does not have hitlag .
-***Spring Spirit Summoning** \(Press\) is capable of escaping Mirror Maiden's cage. **Spring Spirit Summoning** \(Hold\) however, is not.
+* **Spring Spirit Summoning** \(Press\) does not have hitlag.
+* **Spring Spirit Summoning** \(Press\) is capable of escaping Mirror Maiden's cage. **Spring Spirit Summoning** \(Hold\) however, is not.
 * **Icy Quill** stacks are used up even if no damage is dealt to an enemy (when they have a shield).
 * **Icy Quill** stacks increase the damage dealt to shields \(excluding cryo\) by ~15 to 20% .
 * **Spring Spirit Summoning** \(Hold\) makes Shenhe immune to all staggers and knockbacks for its animation duration.
