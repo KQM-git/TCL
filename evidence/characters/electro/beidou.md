@@ -69,10 +69,41 @@ This makes Beidou's particle production way easier to count.
 
 ## Burst Mechanics  
 
+### Beidou Lightning Proc ICD
+**By:** Steno\#0119  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/924074085271633920/931135564336496710/transcript-beidou-proc-cd.html)
+
+**Finding:**  
+Beidou's Q discharge cooldown is stated to be 1s or 60 frames. The counter for these 60 frames does not start on when Beidou's lightning discharge hits, but when the normal attack hits.  
+However, since the trigger for a discharge is on a normal attack damage instance and damage instances are determined server-side, the discharge CD can be randomly and inconsistently affected by ping spikes and is not consistently 60 frames.  
+The closer to 60 frames between each attack, the more likely ping inconsistencies will cause you to miss a Q discharge.
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=sd66g9D_s6k)  
+In this video, there are two cases analyzed.
+* First case: 00:30
+  * NA proc - frame 0
+  * Beidou Q - frame 4
+  * NA proc - frame 62
+  * no Beidou Q proc  
+
+There are 62 frames between the first and second NA. However, a second Beidou Q discharge does not proc.
+* Second case: 00:50
+  * NA proc - frame 440
+  * Beidou Q - frame 446
+  * NA proc - frame 501
+  * Beidou Q proc - 507  
+
+There are 61 frames between the first and second NA. In this case, two Beidou Q discharges proc within 61 frames of each other.
+
+**Significance:**  
+Ping variance can cause some inconsistencies with Beidou.
+
 ### Beidou's Q and Mitachurl Shield Interactions  
 
 **By:** Sayline\#5959  
-**Added:** 17/10/2021  
+**Added:** 10/17/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898905169763393556/899126939850276904/transcript-beidou-burst-and-mitachurl-shields.html)  
 
 **Finding:**  
