@@ -50,8 +50,14 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Ningguang	| C2 \(**Shock Effect**\), proc off cooldown | 6 | 3~4 \(3:2\) | 3.40 | 34.0 |
 | Ningguang |  | 12 | 3~4 \(3:2\) | 3.40 | 17.0 |
 | Traveler <br />\(Geo\) | A2 \(**Shattered Darkrock**\) | 6 | 3~4 \(2:1\) | 3.33 | 33.3 |
-| Traveler <br />\(Geo\) |  | 8 | 3~4 \(2:1\) | 3.33 | 25.0 | 
-| Itto | | 10 | 3~4 \(1:1\) | 3.50 | 21.0 |
+| Traveler <br />\(Geo\) |  | 8 | 3~4 \(2:1\) | 3.33 | 25.0 |
+| Yunjin    | Skill Hold Level 2, C1 \(**Thespian Gallop**\) | 7.38 | 3 \(-\) | 3.00 | 24.4 |
+| Yunjin    | Skill Hold Level 2 | 9 | 3 \(-\) | 3.00 | 20.0 |
+| Yunjin    | Skill Hold Level 1, C1 \(**Thespian Gallop**\) | 7.38 | 2~3 \(3:2\) | 2.40 | 19.5 |
+| Yunjin    | Skill Tap, C1 \(**Thespian Gallop**\) | 7.38 | 2 \(-\) | 2.00 | 16.3 |
+| Yunjin    | Skill Hold Level 1 | 9 | 2~3 \(3:2\) | 2.40 | 16.0 |
+| Yunjin    | Skill Tap | 9 | 2 \(-\) | 2.00 | 13.3 |
+| Itto      | | 10 | 3~4 \(1:1\) | 3.50 | 21.0 |
 | Albedo    | **Solar Isotoma** connect does not produce particle. **Transient Blossom** proc on CD \(2s\). Doesn't have to stay on field, 100% uptime | 2 | 0~1 \(1:2\) | 0.67 | 20.1 |
 | Zhongli   | Skill Hold produces no particle, 50% chance to produce particle on hit and pulse. 100% uptime | 2 | 0~1 \(1:1\) | 0.50 | 15.0 |
 | Gorou     | C1 \(**Rushing Hound: Swift as the Wind**\), proc off cooldown | 8 | 2 \(-\) | 2.00 | 15.0 |
@@ -109,13 +115,15 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Rosaria   | Only produce particle if you connect the 2nd hit | 6 | 3 \(-\) | 3.00 | 30.0 |
 | Ayaka	    |  | 10 | 4~5 \(1:1\) | 4.50 | 27.0 |
 | Ganyu     | Skill produce 2 particles on connect, 2 on expiry explosion connect | 10 | 4 \(-\) | 4.00 | 24.0 |
-| Eula      | Skill Hold, C2 \(*Lady of Seafoam*\) | 4 | 2~3 \(1:1\) | 2.50 | 37.5 |
+| Eula      | Skill Hold, C2 \(**Lady of Seafoam**\) | 4 | 2~3 \(1:1\) | 2.50 | 37.5 |
 | Eula      | Skill Tap | 4 | 1~2 \(1:1\) | 1.50 | 22.5 | 
 | Eula      | Skill Hold | 10 | 2~3 \(1:1\) | 2.50 | 15.0 | 
+| Shenhe    | Skill Tap | 10 | 3 \(-\) | 3.00 | 18.0 |
+| Shenhe    | Skill Hold | 15 | 4 \(-\) | 4.00 | 16.0 |
 | Diona     | Skill Hold, assuming all paws hit, each paw does a 0~1 \(1:4\) check | 15 | 0~5 \(-\) | 4.00 | 16.0 |
 | Diona     | Assuming all paw hit, each paw does a 0~1 \(1:4\) check | 6 | 0~2 \(-\) | 1.60 | 16.0 |
 | Chongyun  |  | 15 | 4 \(-\) | 4.00 | 16.0 |
-| Aloy      | *Chillwater Bomblets* produce no particles | 20 | 5 \(-\) | 5.00 | 15.0 |
+| Aloy      | **Chillwater Bomblets** produce no particles | 20 | 5 \(-\) | 5.00 | 15.0 |
 | Qiqi      | Skill produces no particles | 30 | 0 \(-\) | 0.00 | 0.0 | 
 
 {% endtab %}

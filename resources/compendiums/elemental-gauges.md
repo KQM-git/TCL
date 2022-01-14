@@ -57,6 +57,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Kaeya     | - | - | 2B | - | 1A | - |
 | Qiqi      | - | - | Initial Skill: 1A<br />Herald Orbital: 1A | - | 2B | - |
 | Rosaria   | - | - | 1A | - | On Cast: 1A<br />AoE Pulse: 1A | - |
+| Shenhe    | - | - | 1A | 2A | Initial Hit: 1A<br />DoT: 1A | - | 
 
 {% endtab %}
 {% tab title="Electro" %}
@@ -96,6 +97,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Ningguang | 1U | 1U | 1U | - | 1U | - |
 | Noelle    | - | - | 2U | - | On Cast: 1U <br />Infused Attacks: 1U | - |
 | Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | - |
+| Yunjin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
 | Zhongli | - | - | On Cast: 2U <br />Pulse: 1U | 1U | 4U | - |
 
 {% endtab %}
