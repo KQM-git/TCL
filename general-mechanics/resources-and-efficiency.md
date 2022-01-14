@@ -1,5 +1,5 @@
---- 
-description: For entries related to resources or resource efficiency
+---
+description: For entries related to resources or resource efficiency.
 ---
 
 # Resources and Efficiency
@@ -48,7 +48,7 @@ Possible sacrifices are:
   * Only NA is capable of doing this and not even by a huge margin - you can use up to 1237 resin assuming perfect server maintenance end and x2 Transient Resin.
   * If you're not a hardcore player, you need to either make a refill with Primogems or utilize Fragile Resins.
 
-### Food 
+## Food 
 * Cheapest 3\* instant heal \(assuming 20k HP\): Mondstadt Hashbrowns, 8.57 Health/Mora
 * Most Mora-efficient heal \(assuming 20k HP\): Grilled Tiger Fish, 11.23 Health/Mora
 * Cheapest Revive: Teyvat Fried Egg, 180 Mora if bought from restaurant

@@ -153,7 +153,7 @@
 {% endtab %}
 
 {% tab title="Findings" %}
-* There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not. Check the Evidence Vault for more details.
+* There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not. Check the [Evidence Vault](../evidence/equipment/artifacts.md#self-4no-interactions) for more details.
 {% endtab %}
 {% endtabs %}
 

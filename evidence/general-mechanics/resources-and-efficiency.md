@@ -1,4 +1,4 @@
---- 
+---
 description: For entries related to resources or resource efficiency
 ---
 

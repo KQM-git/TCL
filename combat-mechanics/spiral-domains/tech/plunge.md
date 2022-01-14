@@ -8,5 +8,4 @@ At the stairs near the front and back of Floor 12, there is an elevated terrain 
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/general-mechanics/spiral-domains/tech/plunge.md" %}
-
+{% page-ref page="../../../evidence/combat-mechanics/spiral-domains/tech/plunge.md" %}
