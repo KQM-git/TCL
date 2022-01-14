@@ -87,6 +87,7 @@ Zhongli channels for 2 seconds causing the following effects:
 
 * Possesses 150% damage absorption against all Elemental and Physical damage. 
 * Characters protected by the **Jade Shield** will decrease the Elemental Resistance and Physical Resistance of nearby enemies within a radius by 20%. This effect can not be stacked with other instances of **Jade Shield**.  
+  * The Resistance shred lingers for a bit after it breaks/ends.  
 
 | Attribute | Stone Stele | Resonance DMG | Hold DMG |
 | :--- | :--- | :--- | :--- |

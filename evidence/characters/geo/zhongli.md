@@ -34,7 +34,21 @@ This is further shown in the [example with a target](https://youtu.be/naC-dy0jEC
 
 **Significance:**  
 This shows that with c1 Zhongli or during co-op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one seele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
-In other words having two pillars from c1 will double the damage from resonance
+In other words having two pillars from c1 will double the damage from resonance.
+
+### Zhongli Shred Lingers
+**By:** clrE\#6290  
+**Added:** 1/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928609238002053131/931322938953728050/transcript-zhongli-shred-linger.html)
+
+**Finding:**  
+Zhongli's shield RES shred lingers for a bit after it breaks/ends.
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=FwohwAKylSo) (credits: Kolibri\#7675)
+
+**Significance:**  
+Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early
 
 ## Ascension Mechanics
 
@@ -48,9 +62,11 @@ In other words having two pillars from c1 will double the damage from resonance
 
 Credits to JonahFarc\#7056 for helping me figure out how this works.
 
-**Finding:** Zhonglis' A1, Resonant Waves, buffs up Jade Shield by 5% _after_ damage calculation occurs.
+**Finding:**  
+Zhonglis' A1, Resonant Waves, buffs up Jade Shield by 5% _after_ damage calculation occurs.
 
-**Evidence:** If we take a Zhongli with Talent 8 Dominus Lapidis, and 16201 MAX HP, we get a Jade Shield that has 8443.45 Absorption.
+**Evidence:**  
+If we take a Zhongli with Talent 8 Dominus Lapidis, and 16201 MAX HP, we get a Jade Shield that has 8443.45 Absorption.
 
 _Scenario 1:_ [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178466234663002/unknown.png)
 
@@ -77,7 +93,8 @@ In case you cant tell how many swings _actually_ hit Zhongli, _if_ the shield fu
 
 On a side note, recasting Jade Screen before it breaks will reset the Fortification bonus back to 0.
 
-**Significance:** This allows for more accurate Zhongli shield calculations, as well as any future characters with a similar mechanic.
+**Significance:**  
+This allows for more accurate Zhongli shield calculations, as well as any future characters with a similar mechanic.
 
 #### Zhongli A1 Has No/Negligible ICD
 
@@ -87,12 +104,10 @@ On a side note, recasting Jade Screen before it breaks will reset the Fortificat
 
 **Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
 
-**Evidence:**
-
+**Evidence:**  
 [Video:](https://youtu.be/nrML_xrMJPc) Walked into dendro samachurl burn and immediately checked character window to see shield strength maxed
 
-**Significance:**
-
+**Significance:**  
 Zhongli's shield is ridiculously effective against DoT as it stacks immediately to maximum.
 
 #### Zhongli A1 Persists on Swap
@@ -101,23 +116,21 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 **Added:** 10/16/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893176410301141012/899029975208964147/transcript-zhongli-shield-tech.html)
 
-**Finding:**
+**Finding:**  
 Zhongli's shield tech  
 1. Shield Strength gained from A4 persist upon swap  
 
 2. However, it does not persist upon refresh.  
 2b. Above also applies if it's refresh from C2.
 
-**Evidence:**
-
+**Evidence:**  
 Shield Strength from gained from A4 persist upon swap [Imgur](https://imgur.com/LBixuhT)
 
 Shield Strength doesn't persist upon refresh [Imgur](https://imgur.com/AtSNAE3)
 
 Shield Strength doesn't persist upon C2 refresh [Imgur](https://imgur.com/m8tRdZY)
 
-**Significance:**
-
+**Significance:**  
 Shield management.
 
 ## Constellation Mechanics
@@ -132,7 +145,8 @@ Shield management.
 
 **Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
 
-**Evidence:** [This video shows the damage of his burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
+**Evidence:**  
+[This video shows the damage of his burst in specific circumstances](https://www.youtube.com/watch?v=Uv9ZNUz5vHE)
 
 * Burst with shield already applied: 48k
 * Burst with no shield: 48k
@@ -141,7 +155,8 @@ Shield management.
 * Burst with Geo resonance shield and res down: 57k
 * The shield is formed at the end of the burst animation.
 
-**Significance:** For the highest damage apply the Geo res down before pressing Burst.
+**Significance:**  
+For the highest damage apply the Geo res down before pressing Burst.
 
 ## Interactions/Synergies
 
@@ -150,18 +165,15 @@ Shield management.
 **By:** muakasan\#2792  
 **Added:** 01/07/2021
 
-**Bug/Finding:**
-
+**Bug/Finding:**  
 Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the c6 does not proc on the first normal of the subsequent sequences.
 
-**Evidence:**
-
+**Evidence:**  
 [https://youtu.be/\_hEXbDqPtfo](https://youtu.be/_hEXbDqPtfo), as we can see Zhongli's first normal attack in the second and third attack sequence does not proc a fischl c6 proc
 
 Pausing between sequences \([https://youtu.be/QmN3a94XPBI](https://youtu.be/QmN3a94XPBI)\), and dash canceling after the sequence \([https://youtu.be/JBQUbJp0hks](https://youtu.be/JBQUbJp0hks)\) seems to avoid the problem and the c6 proc occurs as normal.
 
-**Significance:**
-
+**Significance:**  
 Allows for more accurate DPS calculations when using Zhongli and c6 fischl together.
 
 ### 4 TOM Passive on Zhongli Procs With Other Geo Constructs
