@@ -678,35 +678,23 @@ Damage calculation
 
 ### Polar Star
 
-#### Polar Star has ICD Across Independent Stacks
-
-**By:** Cenpi\#3224 and Kyarumi\#0002  
-**Added:** 12/13/2021   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/915808783383556117/919058132649525278/transcript-polar-star-icd.html)  
+#### Polar Star ICD 
+**By:** Latiwings\#3308, GottaGoFast\#7876, Cenpi\#3224, NZPIEFACE\#8439, Xreejan\#1180  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926918612894248981/931125536460247080/transcript-polar-star-icd-round-two.html)   
+(Debunked entry: [Polar Star has ICD across independent stacks](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/915808783383556117/919058132649525278/transcript-polar-star-icd.html))
 
 **Finding:**  
-Polar Star has an ICD across independent stacks.  
+Polar Star has no ICD for gaining independent stacks.
 
 **Evidence:**  
-In trying to do Childe nukes with an R5 Polar Star, I've come across a situation in which trying to stack Polar Star too quickly will result in decreased damage from what should normally be the case.  
+* [Youtube](https://www.youtube.com/watch?v=R3lTNnsC4aY&ab_channel=Cenpi) - This was the evidence to prove that Polar Star won't acquire stacks if the NA and CAs are too close together resulting in a loss of 20% ATK which is 1 stack of Polar Star. However on closer inspection it can be observed at 0:02 \[[Imgur](https://imgur.com/a/uV8YYzZ)\] that Childe did NOT receive the buff from Bennett's Noblesse Oblige, which is also exactly 20% ATK.
+* [Youtube](https://www.youtube.com/watch?v=ZmXHyNbn9B0&ab_channel=Cenpi) - In this video evidence, contrary to the above, Childe did receive the Noblesse Oblige buff, as seen at 0:05 \[[Imgur](https://imgur.com/a/qv0hgJg)\].  
 
-[PS 3 Stacks \(Successful\)](https://youtu.be/ZmXHyNbn9B0)  
-* The video above shows what happens if polar star stacks are spaced apart from each other, resulting in a 967k nuke.
-
-[PS 3 Stacks \(Unsuccessful, only 2 stacks\)](https://youtu.be/R3lTNnsC4aY)  
-* The video above shows what happens when the NA and CA stacks are too close together, resulting in a 925k burst which is accurate with the loss of 20% atk which is 1 stack of Polar Star.
-
-[PS 3 Stacks \(Unsuccessful, only 2 stacks\) Pt. 2](https://youtu.be/7VLIAtIqdgk)  
-* This video shows what happens when CA and E stacks are too close together, again resulting in a 925k burst.
-
-[PS 2 Stacks \(Control Test\)](https://youtu.be/w88pdGH6dr4)  
-* This video shows only 2 stacks (NA and E, no CA) which results in 925k burst
-
-[PS 3 Stacks \(Successful\) Pt. 2](https://youtu.be/9EKrLLnvaD0)  
-* Additional evidence of spacing apart polar star giving the maximum amount of damage.
+In other words, in both video evidences Polar Star had acquired max stacks regardless of attack spacing.
 
 **Significance:**  
-When using Polar Star, attacks unfortunately need to be spaced in order to properly obtain stacks and gain the ATK% bonuses.  
+Bring justice to Polar Star's name, in that it had no ICD all along.
 
 ---
 
