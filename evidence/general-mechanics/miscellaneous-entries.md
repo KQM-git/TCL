@@ -339,7 +339,7 @@ Both the Kamera gadget as well as the Special Kamera gadget can be used to "canc
 To do this, you have to take a picture at the moment where you get hit/leap off a ledge. The method used is to take photos in rapid succession, by pressing "esc" and "y" quickly after one another. This makes timing the photo easier.
 
 **Evidence:** 
-* Ledge dash cancel: [Youtube](ttps://www.youtube.com/watch?v=aLx8utxbcrk)
+* Ledge dash cancel: [Youtube](https://www.youtube.com/watch?v=aLx8utxbcrk)
 * Knockback cancel: [Youtube](https://www.youtube.com/watch?v=-2l4DQ1DyJ4)
 * Bennett charge level 2 cancel: [Youtube](https://www.youtube.com/watch?v=pR-DhOPOqhk)
 
