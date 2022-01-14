@@ -315,6 +315,22 @@ Placing a boulder underneath the geo hypostasis at the start of the battle will 
 **Significance:**  
 This speeds up the fight by making the Geo Hypostasis vulnerable, without having to spend extra effort to break the pillars. Keep in mind though that the vulnerability windows derived from using this method is shorter.
 
+### Golden Wolflord
+
+#### Rifthound Skulls Charging
+**By:** EtoPashka\#0690  
+**Added:** 1/13/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908382648710348840/931069122559766528/transcript-resistances-and-elem-obj-durability-table.html)
+
+**Finding:**  
+Rifthounds skulls need 3 Geo GU to be charged. They also can be charged with other elements, but it requires 38 attacks to be charged and does not depend on GU at all. Physical dmg is useless.
+
+**Evidence:**  
+38 sucrose attacks: [Youtube](https://youtu.be/Fq0zpru1Ej4)
+
+**Significance:**  
+For those that enjoy suffering.
+
 ### Maguu Kenki
 
 #### Maguu Kenki Hitlag Audio Desync
