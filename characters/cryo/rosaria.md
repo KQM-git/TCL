@@ -35,9 +35,9 @@ Rosaria performs up to five consecutive spear strikes.
 | :--- | :--- | :--- | :--- |
 | 1-Hit | 76.25% | 10 | 457.5%/s |
 | 2-Hit | 75% | 36 | 252.08%/s |
-| 3-Hit | 46.25% x 2 | 81 | 180.56%/s |
+| 3-Hit | 46.25% x 2 | 71 + 81 | 180.56%/s |
 | 4-Hit | 101.25% | 115 | 180%/s |
-| 5-Hit | 60.5% + 62.5% | 175 | 160.46%/s |
+| 5-Hit | 60.5% + 62.5% | 159 + 175 | 160.46%/s |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.

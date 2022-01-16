@@ -39,7 +39,7 @@ Perform up to 5 rapid strikes.
 | 2-Hit DMG | 65.75% | 34 | 231.40%/s |
 | 3-Hit DMG | 37.5% + 45% | 60 + 70 | 183.11%/s |
 | 4-Hit DMG | 88.25% | 97 | 186.73%/s |
-| 5-Hit DMG | 36.88% x3 (110.64%) | 140 | 176.79%/s |
+| 5-Hit DMG | 36.88% x3 (110.64%) | 126 + 138 + 140 | 176.79%/s |
 | Recovery (Total MV) | -- | 200 | 123.76%/s |
 
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.

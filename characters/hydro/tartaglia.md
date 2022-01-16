@@ -111,7 +111,7 @@ Perform up to 6 consecutive Hydro strikes.
 | 3-Hit | 81.88% | 48 | 248.6%/s |
 | 4-Hit | 87.13% | 80 | 214.5%/s |
 | 5-Hit | 80.38% | 116 | 189.5%/s |
-| 6-Hit | 51.5% + 54.75% | 165 | 171.9%/s |
+| 6-Hit | 51.5% + 54.75% | 143 + 165 | 171.9%/s |
 | GU | 1A | ~ | ~ |
 
 **Charged Attack**  

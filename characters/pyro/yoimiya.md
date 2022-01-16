@@ -33,10 +33,10 @@ Performs up to 5 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 49.01% ×2 (98.02%) | 27 | 217.82%/s |
+| 1-Hit DMG | 49.01% ×2 (98.02%) | 18 + 27 | 217.82%/s |
 | 2-Hit DMG | 94.02% | 51 | 225.93%/s |
 | 3-Hit DMG | 122.22% | 88 | 214.27%/s |
-| 4-Hit DMG | 63.83%×2 | 128 | 207.15%/s |
+| 4-Hit DMG | 63.83%×2 | 113 + 128 | 207.15%/s |
 | 5-Hit DMG | 145.56% | 164 | 214.93%/s |
 | With Recovery | -- | 200 | 176.24%/s |
 
