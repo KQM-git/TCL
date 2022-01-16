@@ -119,7 +119,7 @@ Blizzard Strayer gives crit rate buff to reactions that would remove the cryo/fr
 
 **Evidence:**  
 * [BS on Melt](https://youtu.be/lMVjdLf81ss)
-* [BS on Shatter](ttps://youtu.be/vLkLicZf-vg)  
+* [BS on Shatter](https://youtu.be/vLkLicZf-vg)  
 * [BS on Swirl](https://youtu.be/HtzFBDGmku4)
 * [BS on Superconduct](https://youtu.be/7x_Ev3nfTEE)
 * [BS on Crystallize](https://youtu.be/6WUTJPxWQTQ)
