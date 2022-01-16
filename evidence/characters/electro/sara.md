@@ -49,7 +49,59 @@ search: false
 * Sara's Crowfeather has a "semi-taunt" mechanic, where it draws enemy attention - gengar#8426
   * [Imgur](https://imgur.com/a/LCoyZGB): opponents are facing away from Crowfeather, but immediately walk towards it when it lands (even before entering combat mode)
   * [Imgur](https://imgur.com/a/VLtVaOd): does not trigger enemy aggro/combat mode if sara's initial charged shot does not hit an opponent
-  * [Imgur](https://imgur.com/a/x227kWK): the range from which you can trigger enemy aggro (and enter combat mode) with crowfeather is different from a regular charged shot
+  * [Imgur](https://imgur.com/a/x227kWK): the range from which you can trigger enemy aggro (and enter combat mode) with crowfeather is different from a regular charged shot.
+
+### Sara Skill Patch 2.2 Update  
+
+**By:** NZPIEFACE#8439 and Dooners#6709  
+**Added:** 10/28/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897677391546163210/903468029562732565/transcript-sara-e.html)  
+
+**Finding:**  
+After the v2.2 update, Sara's Elemental Skill is much more consistent and predictable in its behaviour now:  
+* The skill will move her almost 3m away from the point of origin.  
+  * Without nearby enemies, it will teleport her backwards. This direction can be controlled with inputs.  
+  * If an enemy is within 15m, she will teleport away from them. She teleports away from the closest enemy.  
+* The movement can generally be predicted by "if it can be walked onto/over, she can teleport onto/over it". There are still a few rare issues with geometry, but that shouldn't be an issue in Abyss.  
+* A functional change from how it worked in v2.1 is that her C2 now places the Crowfeather in the direction of the teleport. This will be placed behind her regardless if Sara actually moved or not.  
+  * The Crowfeather will be placed 1m behind her.  
+  * The Crowfeather will be placed on top of any geometry. It will hang in mid-air if the height of where Sara is and the closest ground is too large.  
+* The AoE of Sara E's buff is a radius of a bit over 6m.  
+* The buff from her Crowfeather can also be extended by hitlag.  
+* C1 works off-field.  
+
+**Evidence:**  
+* Elevation changes are ok unless very drastic, generally if she can walk up a ledge she can teleport over it:
+  * [Slight incline](https://imgur.com/SpPXRsk)  
+  * [Steeper incline](https://imgur.com/6Kp1FiU)  
+  * [Stairs](https://imgur.com/9ofurI0)  
+  * [Ledge](https://imgur.com/wHnyw1y)  
+  * [Ledge again](https://imgur.com/plRd8po)  
+  * [Ledge again, but failed](https://imgur.com/uHxfTVp)  
+* [For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall](https://imgur.com/Q4nsiXM)  
+* [Direction of skill can be controlled right after skill cast](https://imgur.com/nCyOemw)  
+* Direction cannot be controlled with nearby enemies:  
+  * [Nearby enemies, in combat](https://youtu.be/Cxr58A4gLk8)  
+  * [Nearby enemies, no combat](https://imgur.com/PT1BEHa)  
+  * [Enemies out of range](https://youtu.be/Zb8cPYHIHP4)  
+* [Teleport distance is (1.14 tiles) 2.9m](https://youtu.be/amuRix98c_k)  
+* [Teleporting away from nearest enemy](https://youtu.be/EcKOqG_nnO4)  
+* Weird geometry:
+  * [Tents](https://youtu.be/z1KRGOWs7GY)  
+  * [C2 1m](https://youtu.be/ITKvuRdElHU)
+  * [Onto air](https://youtu.be/36iJ6mA8Aak)
+* Crowfeather buff range:  
+  * [Crowfeather no buff (~2.4 tiles)](https://youtu.be/Oi-jHRFw18E)  
+  * [Crowfeather buffs (~2.35 tiles)](https://youtu.be/o2RzwMrok8Y)  
+* Hitlag Extension:
+  * [Without hitlag](https://youtu.be/g45pC3ZeIP8)  
+  * [With hitlag (around 7s)](https://youtu.be/Mu61tiopAlY)  
+* [Cooldown without C1](https://youtu.be/GQxJAkVRGpY)  
+* [Cooldown with C1](https://youtu.be/wadJvqicW9w)
+* [Fluff](https://youtu.be/JrfYaCUFKwY): It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming.
+
+**Significance:**  
+We can actually predict what pressing E will do now.  
 
 ### Crow feather interactions
 
@@ -99,85 +151,6 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 
 * The weaker Crowfeather from C2 can also trigger this effect. - [Bobrokrot#0111](https://youtu.be/8bRe0SvGUk8)
 
-### Constellation Mechanics
-
-#### C2: Dark Wings
-
-* The weaker Crowfeather created from C2 can also proc Sacrificial Bow's passive. - [Monochrom9#8058](https://imgur.com/a/eAJPXf9)
-* Weaker Crowfeather snapshots upon Tengu Stormcall cast. - [Nass008#8577](https://imgur.com/lCvoNe6)
-* The weaker Crowfeather formed can trigger the effects of Sara's A4. - [Bobrokrot#0111](https://youtu.be/8bRe0SvGUk8)
-
-#### C6: Sin of Pride
-
-* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=r4ENm19DOPY)
-
-### Tech
-
-* Sara turns to face nearby enemies after casting her skill. - [Wishiwashi#2548](https://imgur.com/a/DJJiGi0)
-  * PC and Controller players can take advantage of this to quickly turn the camera (e.g., with middle mouse button, PS4 R3 button) and CA to place the crowfeather towards the enemy.
-
-### Fluff
-
-* Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)  
-
-## Skill Mechanics  
-
-### Sara Skill Patch 2.2 Update  
-
-**By:** NZPIEFACE#8439 and Dooners#6709  
-**Added:** 10/28/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897677391546163210/903468029562732565/transcript-sara-e.html)  
-
-**Finding:**  
-After the v2.2 update, Sara's Elemental Skill is much more consistent and predictable in its behaviour now:  
-* The skill will move her almost 3m away from the point of origin.  
-  * Without nearby enemies, it will teleport her backwards. This direction can be controlled with inputs.  
-  * If an enemy is within 15m, she will teleport away from them. She teleports away from the closest enemy.  
-* The movement can generally be predicted by "if it can be walked onto/over, she can teleport onto/over it". There are still a few rare issues with geometry, but that shouldn't be an issue in Abyss.  
-* A functional change from how it worked in v2.1 is that her C2 now places the Crowfeather in the direction of the teleport. This will be placed behind her regardless if Sara actually moved or not.  
-  * The Crowfeather will be placed 1m behind her.  
-  * The Crowfeather will be placed on top of any geometry. It will hang in mid-air if the height of where Sara is and the closest ground is too large.  
-* The AoE of Sara E's buff is a bit over 6m.  
-* The buff from her Crowfeather can also be extended by hitlag.  
-* C1 works off-field.  
-
-**Evidence:**  
-* Elevation changes are ok unless very drastic, generally if she can walk up a ledge she can teleport over it:
-  * [Slight incline](https://imgur.com/SpPXRsk)  
-  * [Steeper incline](https://imgur.com/6Kp1FiU)  
-  * [Stairs](https://imgur.com/9ofurI0)  
-  * [Ledge](https://imgur.com/wHnyw1y)  
-  * [Ledge again](https://imgur.com/plRd8po)  
-  * [Ledge again, but failed](https://imgur.com/uHxfTVp)  
-* [For walls that she can walk along diagonally, she will also teleport in that direction parallel to the wall](https://imgur.com/Q4nsiXM)  
-* [Direction of skill can be controlled right after skill cast](https://imgur.com/nCyOemw)  
-* Direction cannot be controlled with nearby enemies:  
-  * [Nearby enemies, in combat](https://youtu.be/Cxr58A4gLk8)  
-  * [Nearby enemies, no combat](https://imgur.com/PT1BEHa)  
-  * [Enemies out of range](https://youtu.be/Zb8cPYHIHP4)  
-* [Teleport distance is (1.14 tiles) 2.9m](https://youtu.be/amuRix98c_k)  
-* [Teleporting away from nearest enemy](https://youtu.be/EcKOqG_nnO4)  
-* Weird geometry:
-  * [Tents](https://youtu.be/z1KRGOWs7GY)  
-  * [C2 1m](https://youtu.be/ITKvuRdElHU)
-  * [Onto air](https://youtu.be/36iJ6mA8Aak)
-* Crowfeather buff range:  
-  * [Crowfeather no buff (~2.4 tiles)](https://youtu.be/Oi-jHRFw18E)  
-  * [Crowfeather buffs (~2.35 tiles)](https://youtu.be/o2RzwMrok8Y)  
-* Hitlag Extension:
-  * [Without hitlag](https://youtu.be/g45pC3ZeIP8)  
-  * [With hitlag (around 7s)](https://youtu.be/Mu61tiopAlY)  
-* [Cooldown without C1](https://youtu.be/GQxJAkVRGpY)  
-* [Cooldown with C1](https://youtu.be/wadJvqicW9w)
-* [Fluff](https://youtu.be/JrfYaCUFKwY): It is possible to use her skill in water, even at a depth that she would normally be swimming in. This is because the recovery animation from her skill stops stops her from swimming. Sadly, this cannot be used to go beneath water. Switching to another character will only cause them to start swimming.
-
-**Significance:**  
-We can actually predict what pressing E will do now.  
-
-## Ascension Mechanics
-
-### A4: Decorum
-
 #### Decorum Energy Regen
 
 **By:** Laurent#2608  
@@ -208,9 +181,13 @@ Number of A4 procs (from Sara E with C2) it would take to completely fill Burst 
 **Significance:**  
 Decorum's wording implies that you need to hit 100% ER increments to restore more Energy, but this is not true. Sara restores Energy directly based on her ER, so for every 1% of ER, you generate 0.012 flat Energy from Decorum.
 
-## Constellation Mechanics
+### Constellation Mechanics
 
-### C2: Dark Wings
+#### C2: Dark Wings
+
+* The weaker Crowfeather created from C2 can also proc Sacrificial Bow's passive. - [Monochrom9#8058](https://imgur.com/a/eAJPXf9)
+* Weaker Crowfeather snapshots upon Tengu Stormcall cast. - [Nass008#8577](https://imgur.com/lCvoNe6)
+* The weaker Crowfeather formed can trigger the effects of Sara's A4. - [Bobrokrot#0111](https://youtu.be/8bRe0SvGUk8)
 
 #### Double Buff with Sara C2
 
@@ -229,6 +206,19 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 
 **Significance:**  
 This is possible to perform without cancels but the timing is extremely difficult.
+
+#### C6: Sin of Pride
+
+* The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=r4ENm19DOPY)
+
+### Tech
+
+* Sara turns to face nearby enemies after casting her skill. - [Wishiwashi#2548](https://imgur.com/a/DJJiGi0)
+  * PC and Controller players can take advantage of this to quickly turn the camera (e.g., with middle mouse button, PS4 R3 button) and CA to place the crowfeather towards the enemy.
+
+### Fluff
+
+* Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)  
 
 ## Synergies/Interactions
 
