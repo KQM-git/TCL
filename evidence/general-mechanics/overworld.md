@@ -1156,3 +1156,63 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 5. Anemo Slimes not being able to disperse it and Sucrose not being able to target some gadgets: [Youtube](https://youtu.be/qgavZ5FShY4)
 
 **Significance:** Fluff.
+
+## Boat Mechanics Addendum
+**By:** ElliMiku\#5071  
+**Added:** 1/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921392473757069312/931429201175793674/transcript-boat-mechanics-addendum.html)
+
+**Findings:**  
+General:  
+* Waverider level is determined by world level.
+* The Waverider has 0 def and 0 elemental resistances.
+* Waverider heals 0.65% when the player is outside of it, and 5% when inside and not in combat. Percentages are in terms of waverider max HP.
+
+Waverider-Terrain interactions:
+* When the waverider is in water that is too shallow for it, it slowly drifts towards deeper water.
+* When you try to go over a waterfall, you either get stuck if the water is too shallow... or the boat deconstructs.
+
+Waverider vs environment:
+* Waverider can be hit by lightning (possibly only in shallow water)
+* Waverider takes EC damage if player is in the boat.
+* Waverider takes damage from the environment, such as electro crystals and cryo mistflowers. The player needs to be in the boat.
+* Waverider is not affected by balethunder or "spicy water".
+
+Waverider vs player:
+* Waverider cannot be CC'd with Anemo attacks such as Jean's or Venti's E.
+* Waverider can be slightly shifted with Geo MC's E.
+* You cannot raise the boat with Albedo E.
+* You cannot place Zhongli Steles near the boat.
+* There's a zone around the waverider where the water can't be frozen.
+* If you use the waverider TP to summon the waverider when the "destination" is frozen, it deconstructs
+
+Misc:
+* Waverider is not affected by Corrosion. If a character is affected by corrosion and enters the boat, HP does not continue to decay, but the duration of the corrosion effect still ticks.
+
+**Evidence:**  
+* [WR level](https://youtu.be/nwD3IjBDTBE)
+* [WR def + Hydro res + Cryo res](https://youtu.be/8hbYNa4jc3I) 
+  * [Calcs](https://imgur.com/HGiT2wq)
+* [WR Pyro + Geo + Phys + Anemo res](https://youtu.be/vq_U8dALl9w) 
+  * [Calcs](https://docs.google.com/spreadsheets/d/1KWE7gCTxYZgcQXzIUn5BHLBHqJSNakOdHskCFcyWEBQ/edit#gid=0)
+* [WR Electro res](https://youtu.be/yu4Gqv6CsKk?t=106)
+* [WR heals](https://youtu.be/BPGqP7eBnTA?t=102) 
+  * [Calcs](https://imgur.com/RYKM9aF)
+* [WR in shallow water](https://youtu.be/0wot3Rqb104)  
+  [Vid #2](https://youtu.be/UR-ZiH19Buw)
+* [WR vs Waterfall](https://youtu.be/_mHRR9tUX4k)
+* [WR vs Lightning](https://youtu.be/AJ78uUyrBEY)
+* [WR vs EC](https://youtu.be/yu4Gqv6CsKk)
+* [WR vs environmental Dmg](https://youtu.be/BPGqP7eBnTA)
+* [WR vs inazuma environment](https://youtu.be/JF7jxCg1V9U)
+* [WR vs CC](https://imgur.com/OY3ipql)
+* [WR vs Albedo, Zhongli and Geo MC](https://youtu.be/eeEl5b7J_lc)   
+  [Vid #2](https://youtu.be/xiLEJvtM31w)   
+  [Vid #3](https://youtu.be/wI4VMJ2R0pk)   
+  [Vid #4](https://youtu.be/W_K50Cn23AI)  
+* [WR vs Freeze](https://youtu.be/rGmfu89lEOM)
+* [WR vs TP troll](https://youtu.be/QrGC_8CH3CE)
+* [WR vs corrosion](https://youtu.be/hYqMCXUMGTI)
+
+**Significance:**  
+Fluff, exploration, overworld survivability.

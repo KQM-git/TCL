@@ -15,6 +15,34 @@
 
 0-poise attacks also register on Kageroumaru.
 
+## Waverider Mechanics
+
+### General
+* Waverider level is determined by World Level.
+* The Waverider has 0 DEF and 0 Elemental Resistances.
+* Waverider heals 0.65% when the player is outside of it, and 5% when inside and not in combat. Percentages are in terms of Waverider max HP.
+
+### Waverider-Terrain interactions
+* When the Waverider is in water that is too shallow for it, it slowly drifts towards deeper water.
+* When you try to go over a waterfall, you either get stuck if the water is too shallow... or the boat deconstructs.
+
+### Waverider vs environment
+* Waverider can be hit by lightning (possibly only in shallow water)
+* Waverider takes Electro-charged damage if player is in the boat.
+* Waverider takes damage from the environment, such as electro crystals and cryo mistflowers. The player needs to be in the boat.
+* Waverider is not affected by Balethunder or "spicy water".
+
+### Waverider vs player
+* Waverider cannot be CC'd with Anemo attacks such as Jean's or Venti's elemental skill.
+* Waverider can be slightly shifted with Geo Traveler's elemental skill.
+* You cannot raise the boat with Albedo's elemental skill.
+* You cannot place Zhongli's Steles near the boat.
+* There is a zone around the Waverider where the water can't be frozen.
+* If you use the Waverider TP to summon the Waverider when the "destination" is frozen, it deconstructs.
+
+### Misc
+* Waverider is not affected by corrosion. If a character is affected by corrosion and enters the boat, HP does not continue to decay, but the duration of the corrosion effect still ticks.
+
 ## Explosive Barrel properties
 
 * Barrel damage is affected by the unit's defense, following the damage formula here: https://genshin-impact.fandom.com/wiki/Defense. Attributes such as level, ascension, max hp have no effect on the amount of damage inflicted by barrel explosions.
@@ -158,7 +186,6 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 * Sucrose's N1 and N2 work when there is something next to it that she can target, so it's assumed that N3 is the same way, but no one has been able to actually do it yet.
 * Every other Anemo ability works on its own.
 * The attacks from Anemo Slimes don't work, some examples of things that Sucrose can't target (and can't disperse the fog with) are the Portable Waypoint, Serenitea Pot, and Windblume Festival Commemorative Balloon.
-
 
 ## Evidence Vault
 
