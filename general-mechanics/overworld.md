@@ -76,6 +76,9 @@ The overworld map is split into multiple zones that affect enemy level and envir
 
 - The area in which an electro crystal can zap a player is [rectangular, with the crystal positioned off-center](./overworld.md#electro-crystal-range).
 - Electro crystals near a beach/water seem to have a special electric field with many irregular properties.
+- An electric crystal can have its aura removed, but it will be reapplied.
+- When it's raining, you can apply Hydro aura using 2B Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2B, 1A won’t work.
+- So far the crystal can hold Cryo, Hydro, and Electro. 
 
 ### Water
 
@@ -90,6 +93,7 @@ The overworld map is split into multiple zones that affect enemy level and envir
 
 - Overworld rain applies hydro with an ICD of 0.5 seconds, and a strength of 10 durability per tick, up to a max of 30. The duration of hydro aura applied by rain is currently unknown.  
 - It is unknown if normal rain and thunderstorm rain have the same properties.  
+- Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
 
 ### Electrified  
 

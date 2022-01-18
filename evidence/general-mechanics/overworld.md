@@ -289,7 +289,30 @@ Learning more about how environmental reactions are programmed/calculated. Also,
 
 **Evidence:** [https://www.youtube.com/watch?v=f8QfbYvuR6Q](https://www.youtube.com/watch?v=f8QfbYvuR6Q)
 
-**Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld
+**Significance:** electro crystals work in a similar way to cryo&pyro stamen flowers, for a better understanding of the overworld.
+
+### Parametric Crystal Electric Bungaloo 
+**By:** Ultimate Noob\#2955  
+**Added:** 1/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922988435889856562/931419824964374588/transcript-parametric-crystal-electric-bungaloo.html)
+
+**Findings:**  
+* An electric crystal can have its aura removed, but it will be reapplied.
+* When it's raining, you can apply Hydro aura using 2B Cryo (Kaeya) then end rain (by time skipping) and the crystal will not apply Electro to itself again. It has to be 2B, 1A won’t work.
+* So far the crystal can hold Cryo, Hydro, and Electro. 
+* Rain water Hydro is different from regular Hydro, and the game doesn’t recognize it as the same as Hydro from different sources (Such as player Hydro and Hydro from bodies of water). This is proved as the crystal doesn’t update and reapply Electro onto itself as it thinks no element was applied onto it, removing the Electro. Game does not recognize rain Hydro, as other sources of Hydro.
+
+**Evidence:**  
+* [Youtube](https://youtu.be/55cd-38Ja-Y) credit to NZPIEFACE\#8439   
+* [Youtube](https://youtu.be/XDRjNDAV_qY/) (On single crystal to prove not applied by another) credit to CrazyWeke123\#9720
+* [Youtube](https://www.youtube.com/watch?v=NZUnm_2BYzQ) credit to ShampooBrain\#9583 
+* [Imgur](https://imgur.com/4zgrr89) Hydro on crystal
+* [Youtube](https://youtu.be/z3Ia8jqzyKs) credit to CrazyWeke123\#9720 
+* [Youtube](https://youtu.be/cx-5sboMgwQ) credit to Puffin\#9920 
+* [Youtube](https://youtu.be/UuevVMvQfsg) credit to CrazyWeke123\#9720 (Proof works in 2.4)
+
+**Significance:**  
+Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t have infinite aura, it just constantly reapplies Electro aura, it’s more then 1A, but less then 2B.
 
 ### Invisible Water Layer
 
