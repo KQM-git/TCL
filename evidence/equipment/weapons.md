@@ -1136,3 +1136,42 @@ NOTE: I could not test the exact times on this, but the timer still resets when 
 * With proper rotation timing your favourite Catalyst users can always start their DPS windows with one stack of LP right away, adding 8-16 ElementalDMG% depending on LP refinements. 
 * After taking damage, your Serpent Spine users can easily regain their lost stack by being on the field exactly 4 seconds after they took damage and lost their stack.
 * For casual play, this means the first LP stack is gained, on average, after 2 seconds of being on the field, and not 4.
+
+### Weapon Stacking And Ping
+**By:** NZPIEFACE\#8439  
+**Added:** 1/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917958648221806632/931437394002075678/transcript-weapon-stacking-and-ping.html)
+
+**Finding:**  
+Weapons that gain stacks on hit are affected by ping. You will only gain stacks when the hit registers on the server, and the server will process hits at the same time, without caring about when the client actually made the hits.
+
+Freedom Sworn, which gains its buffs from reactions happen, has normal behaviour.
+ 
+Polar Star behaves differently as it has individual stacks for each type, and will gain all the stacks at the same time when the hit is registered.
+
+**Evidence:**  
+* [Unforged](https://youtu.be/D2KBEtawfjM)
+
+Evidence from Kolibri\#7675:   
+* [MoD](https://youtu.be/JcrT5ZrA8O8)
+* [Elegy](https://youtu.be/fmdNtakdVpY)
+* [Pines](https://youtu.be/XQSgLpAuBTs)
+* [Mist](https://youtu.be/hg2OZp32mbY)
+
+Only one stack was gained despite the trigger condition being met multiple times.  
+
+Also from Kolibri\#7675:
+* [FS](https://youtu.be/T8_sCUahJRM) (Not affected by ping.)
+
+It gained stacks as normal.
+
+Evidence from Latiwings\#3308:  
+* [Imgur](https://imgur.com/7dBOqVl)  
+* [Imgur](https://imgur.com/0SOj69h)   
+* [Imgur](https://imgur.com/LyzNKnG)  
+
+It gained all the stacks once connection to the server was restored, meaning that while gaining stacks is affected by ping, the number of stacks gained is not.
+
+**Significance:**  
+This isn't an issue for anyone with a stable connection, if someone's connection to the servers are rather spotty, this can cause them to lose stacks they would otherwise have.  
+Freedom Sworn doesn't change behaviour.
