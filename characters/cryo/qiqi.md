@@ -79,7 +79,7 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 | Damage Element | Cryo | 
 | Damage Type | Skill |
 | Duration | 15s |
-| CD | 20s |
+| CD | 30s |
 
 {% endtab %}
 
