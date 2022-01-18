@@ -22,6 +22,10 @@ All Trial Characters in Story Quests and Hangouts do not contribute to or benefi
 
 Swirling Hydro, Pyro, or Cryo onto an enemy affected by Electro or vice versa will trigger **High Voltage**. This shares the particle generation cooldown with when you trigger it normally.  
 
+## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
+
+Cryo resonance determines if an enemy has Cryo for its buff before reactions remove auras.
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/combat-mechanics/elemental-effects/elemental-resonance.md" %}

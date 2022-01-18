@@ -47,3 +47,15 @@ Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Sw
  
 **Significance:**  
 Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.  
+
+## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
+**By:** NZPIEFACE#8439  
+**Added:** 1/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929770373271158816/931416249232146452/transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
+
+**Finding:** Cryo resonance determines if an enemy has Cryo for its crit rate buff before reactions remove auras.
+
+**Evidence:** 
+* Transformative: [Youtube](https://youtu.be/k5iV9gdLQ04)
+* Amp: [Youtube](https://youtu.be/wcBAN3d9Vb8)
+
