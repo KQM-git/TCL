@@ -67,10 +67,11 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 
 Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Kazuha's current position before launching opponents within the AoE, dealing Anemo DMG and lifting Kazuha into the air on a rushing gust of wind. Within 10s of remaining airborne after casting **Chihayaburu**, Kazuha can unleash a powerful Plunging Attack known as **Midare Ranzan**. 
 
-* **Press:** Can be used in mid-air.
+**Press**  
+Can be used in mid-air.
 
-* **Hold:** Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode. 
-  * Kazuha's Hold **Chihayaburu** can cause certain enemies to take Fall DMG.
+**Hold:**  
+Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode. 
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -83,8 +84,11 @@ Unleashes a secret technique as fierce as the rushing wind that pulls objects an
 | Damage Type | Skill | Skill | 
 | CD | 6s | 9s | 
 
+**Notes**
+* Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
+
 **Plunging Attack: Midare Ranzan**  
-When a Plunging Attack is performed using the effects of the Elemental Skill **Chihayaburu**, Plunging Attack DMG is converted to Anemo DMG. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
+When a Plunging Attack is performed using the effects of the Elemental Skill **Chihayaburu**, Plunging Attack DMG is converted to **Anemo** DMG. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
 
 | Attribute | Midare Ranzan |
 | :--- | :--- |
@@ -101,7 +105,8 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 {% endtab %}
 
 {% tab title="Kazuha Slash" %}
-The signature technique of Kazuha's self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing AoE Anemo DMG. The blade's passage will leave behind a field named "**Autumn Whirlwind**" that periodically deals AoE Anemo DMG to opponents within its range. 
+The signature technique of Kazuha's self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing AoE Anemo DMG.  
+The blade's passage will leave behind a field named "**Autumn Whirlwind**" that periodically deals AoE Anemo DMG to opponents within its range. 
 
 **Elemental Absorption**  
 If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. Elemental Absorption may only occur once per use.
@@ -145,6 +150,7 @@ If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **
 | Damage Element | Absorbed Element |
 | Damage Type | Plunge |
 
+**Notes**
 * The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl. 
 * Absorption priority: Pyro > Hydro > Electro > Cryo   
 {% endtab %}
@@ -153,6 +159,8 @@ If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **
 ### **Poetics of Fuubutsu**
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% Elemental DMG Bonus to their corresponding Element for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
+
+**Notes**
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive overrides previous instances on every swirl.
 {% endtab %}
@@ -173,7 +181,7 @@ Decreases **Chihayaburu**'s CD by 10%. Using Kazuha Slash resets the CD of **Chi
 
 The **Autumn Whirlwind** field created by **Kazuha Slash** has the following effects:  
 * Increases Kaedehara Kazuha's own Elemental Mastery by 200.
-* Increases the Elemental Mastery of characters within the field by 200. 
+* Increases the Elemental Mastery of characters within the field by 200.
 
 The Elemental Mastery-increasing effects of this Constellation do not stack.
 {% endtab %}
@@ -188,9 +196,11 @@ Increases the Level of **Chihayaburu** by 3. Maximum upgrade level is 15.
 ### **Oozora Genpou**
 
 When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects: 
-* Tapping or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
-* When gliding, Kaedehara Kazuha regenerates 2 Energy per second.  
-  * The energy gained while gliding is not affected by energy recharge.  
+* Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively. 
+* When gliding, Kaedehara Kazuha regenerates 2 Energy per second.
+
+**Notes**
+* The energy gained while gliding is not affected by energy recharge.  
   
 {% endtab %}
 

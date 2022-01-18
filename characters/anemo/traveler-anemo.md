@@ -98,12 +98,15 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 {% endtab %}
 
 {% tab title="Palm Vortex" %}
-A **Vortex** is formed, dealing continuous Anemo DMG to nearby opponents.  
-The **Vortex** explodes when the skill duration ends, dealing more Anemo DMG over a larger area.
+Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous **Anemo** DMG to opponents in front of you.  
+The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.
 
-**Hold:** DMG and AoE will gradually increase
+**Hold**  
+DMG and AoE will gradually increase.
 
-If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type. This only occurs once per use.
+**Elemental Absorption**  
+If the vortex comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type.
+Elemental Absorption may only occur once per use.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -121,20 +124,24 @@ If the **Vortex** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal 
 | Absorption Element | ~ | Absorbed Element |
 | Damage Type | Skill | Skill |
 | CD | 5s | 5s / 8s |
+
+**Notes**
 * Absorption priority: Cryo > Pyro > Hydro > Electro
 * When held beyond the first two Cutting DMG hits, the skill's damage, particle generation, and cooldown are all increased.
 {% endtab %}
 
 {% tab title="Gust Surge" %}
-A forward-moving **tornado** is summoned and pulls objects and opponents towards itself.
+Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous Anemo DMG.
 
-* Deals Anemo DMG 9 times at 0.5 second intervals
+**Elemental Absorption**  
+If the tornado comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type.  
+Elemental Absorption may only occur once per use.
 
-If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal a percentage of additional elemental DMG of that type. Elemental Absorption may only occur once per use.
 
 | Attribute | Tornado | Absorption DMG |
 | :--- | :--- | :--- |
-| Tornado DMG \(T6%\) | 113% | 34.7% |
+| Tornado DMG \(T6%\) | 113% * 9 | 34.7% * 9 |
+| Tick Rate | 0.5s | 0.5s | 
 | Frames | 41 | - |
 | GU | 1U | 2B | 
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
@@ -144,7 +151,10 @@ If the **tornado** comes into contact with Hydro/Pyro/Cryo/Electro, it will deal
 | Energy Cost | 60 | - |
 | Duration | 6s | - |
 | Cooldown | 15s | - |
-* Absorption priority: Cryo > Pyro > Hydro > Electro  
+
+**Notes**
+* Absorption priority: Cryo > Pyro > Hydro > Electro
+* Deals Anemo DMG 9 times at 0.5 second intervals
 
 {% endtab %}
 {% endtabs %}
@@ -161,6 +171,7 @@ The Traveller has no passive talent.
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as Anemo DMG to all opponents in its path.
 
+**Notes**
 * Applies 1U Anemo
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.

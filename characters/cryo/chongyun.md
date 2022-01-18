@@ -65,9 +65,8 @@ Plunge from midair to strike the ground below dealing AoE DMG.
 {% endtab %}
 
 {% tab title="Chonghua’s Layered Frost" %}
-Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short delay, a **Chonghua Frost Field** will form:
-
-* Within this field, all Sword, Claymore and Polearm-wielding character’s Normal and Charged Attacks will be infused with Cryo.
+Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals Cryo DMG.  
+After a short delay, the cold air created by the Cryo explosion will coalesce into a **Chonghua Frost Field**, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with Cryo.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -85,11 +84,13 @@ Chongyun strikes the ground in front of him dealing AoE Cryo DMG. After a short 
 | Field Duration | 10s |
 | CD | 15s |
 
+**Notes**
 * The field works as a cylinder with a large height.  
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
-Summon 3 giant **Spirit Blades** to fall down one by one after a short delay, dealing AoE Cryo DMG and launch opponents.
+Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.  
+When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -127,9 +128,10 @@ Sword, Claymore or Polearm-wielding characters within the field created by **Cho
 
 When the field created by Chonghua’s Layered Frost disappears, another **Spirit Blade** will be summoned to strike nearby opponents:
 
+**Notes**
 * Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
-* Decreases Cryo Res of opponents hit by 10%  
-* The **Spirit Blade** is considered as elemental skill damage.  
+* Decreases Cryo RES of opponents hit by 10%  
+* The **Spirit Blade** is considered Elemental Skill damage.  
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
 * No ICD on elemental application
 {% endtab %}
@@ -141,14 +143,15 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 {% tab title="C1" %}
 ### **Ice Unleashed**
 
-The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
+The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all opponents in its path.
 
 | Effect | Talent% |
 | :--- | :--- |
-| DMG | 50% \* 3 |
+| Skill DMG | 50% \* 3 |
+| Damage Element | Cryo |
+| Damage Type | None |
 | GU | 1A |
 
-* C1 damage instance has no ability type scaling tags.
 {% endtab %}
 
 {% tab title="C2" %}
@@ -156,6 +159,7 @@ The last attack of Chongyun’s Normal Attack combo releases 3 **Ice Blades.**
 
 Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
 
+**Notes**
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
@@ -186,6 +190,7 @@ Increases the level of **Chonghua’s Layered Frost** by 3.
 
 **Spirit Blade: Cloud-parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun. This skill will also summon 1 additional **Spirit Blade**.
 
+**Notes**
 * This DMG Bonus is **Additive**.
 * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 {% endtab %}

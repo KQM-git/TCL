@@ -84,11 +84,10 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 {% endtab %}
 
 {% tab title="Adeptus Art: Preserver of Fortune" %}
-Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DMG.
+Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a **Fortune-Preserving Talisman** that deals **Cryo** DMG.
 
-**Fortune-Preserving Talisman**
-
-* When opponents affected by this **Talisman** take DMG, the character that dealt this DMG regenerates HP.
+**Fortune-Preserving Talisman**  
+When opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -104,6 +103,7 @@ Marks nearby opponents with a **Fortune-Preserving Talisman** that deals Cryo DM
 | Duration | 15s |
 | CD | 20s |
 
+**Notes**
 * **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.
   * The healing scales off Qiqi's ATK, not the active character's ATK.
   * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
@@ -130,7 +130,7 @@ When a character under the effects of **Adeptus Art: Herald of Frost** triggers 
 {% tab title="Ascension 4" %}
 ## **A Glimpse into Arcanum**
 
-When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisma**n to them for 6s. This effect can only occur once every 30s.
+When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisman** to them for 6s. This effect can only occur once every 30s.
 {% endtab %}
 {% endtabs %}
 

@@ -61,9 +61,6 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 **Press**  
 Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching opponents in the direction she aims at, dealing massive Anemo DMG.
 
-* Enemies launched by **Gale Blade** can incur fall damage against the ground or walls.
-* Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
-
 **Hold**  
 At the cost of continued stamina consumption, Jean can command the whirlwind to pull surrounding opponents and objects towards her front.  
 Direction can be adjusted.  
@@ -84,6 +81,8 @@ Character is immobile during skill duration.
 
 **Notes**
 * Costs 20 stamina per second to hold.
+* Enemies launched by **Gale Blade** can incur fall damage against the ground or walls.
+  * Fall damage is based on a percentage of enemy health making it very useful against enemies with high health and low interruption resistance.
 * While Jean cannot move you can move the camera to change where you are aiming with the blade.
 * To be able to lift an enemy, Jean's level must be no more than 20 levels below the enemy's level.
 * Fall damage for the hold variant can vary somewhat arbitrarily, as enemies held in **Gale Blade** will not be held completely still. 

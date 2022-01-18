@@ -50,7 +50,7 @@ Consumes 50 Stamina to deal AoE **Anemo** DMG.
 | Charged Attack | 168.22% | 53 | 190.44%/s | 1GU |
 
 **Plunge Damage**  
-Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
+ Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE **Anemo** DMG upon impact with the ground.
 
 | Type | Talent 6 DMG% | GU |
 | :--- | :--- | :--- |
@@ -61,9 +61,6 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 
 {% tab title="Astable Anemohypostasis Creation-6308" %}
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
-
-* When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
-* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -76,11 +73,16 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | DMG Type | Skill |
 | CD | 15s |
 
+**Notes**
+* When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
+* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
+
 {% endtab %}
 
 {% tab title="Forbidden Creation-Isomer 75/Type II" %}
 Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
 
+**Elemental Absorption**  
 If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
 
 | Attribute | DoT | Additional Elemental DMG |
@@ -96,9 +98,10 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Duration | 6s | - |
 | Cooldown | 20s | - |
 
-* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
+**Notes**
 * Absorption priority: Pyro > Hydro > Electro > Cryo 
 * Absorption Damage is simultaneous 
+* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
 {% endtab %}
 {% endtabs %}
@@ -116,6 +119,8 @@ When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% ch
 ### **Catalyst Conversion**
 
 When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+
+**Notes**
 * This effect can be triggered even when Sucrose is not on the field.  
 * This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.

@@ -72,11 +72,12 @@ This ability cannot be used to travel behind opponents of a larger build.
 | Damage Type | Skill |
 | CD | 6s |
 
+**Notes**
 * Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
 {% endtab %}
 
 {% tab title="Rites of Termination" %}
-Rosaria swings her weapon to slash surrounding opponents, then she summons a frigid **Ice Lance** that strikes the ground. Both actions deal **Cryo** DMG.  
+Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid **Ice Lance** that strikes the ground. Both actions deal Cryo DMG.  
 While active, the **Ice Lance** periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents.
 
 | Effect | Burst |
@@ -103,21 +104,21 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 {% tab title="Passive" %}
 ### **Night Walk**
 
-At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%. Does not take effect in Domains, Trounce Domains, or Spiral Abyss.  
-Not stackable with Passive Talents that provide the exact same effect.  
-* The passive also doesn't work in the Serenitea Pot.
+At night \(18:00-6:00\), increases the Movement Speed of your own party members by 10%.  
+Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effect.  
+* The passive does not work in the Serenitea Pot.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Regina Probationum**
 
-When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT RATE increases by 12% for 5s.
+When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT Rate increases by 12% for 5s.
 
 **Notes**
 * Either damage instance of **Ravaging Confession** can trigger this passive.
-* This CRIT RATE increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the CRIT RATE sharing.
-* Rosaria doesn't gain the CRIT RATE bonus unless the use of **Ravaging Confession** lands her behind the enemy.
-  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT RATE bonus.  
+* This CRIT Rate increase shows up in her stat screen, meaning it can be snapshotted by her A4, **Shadow Samaritan**, and included in the CRIT RATE sharing.
+* Rosaria doesn't gain the CRIT Rate bonus unless the use of **Ravaging Confession** lands her behind the enemy.
+  * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT Rate bonus.  
   * For enemies who don’t have visual distinction between front and behind, Rosaria can still activate her A1 by hitting them from certain angles.
 
 {% endtab %}

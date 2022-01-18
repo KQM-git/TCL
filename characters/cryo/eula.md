@@ -64,6 +64,8 @@ Eula plunges from mid-air to strike the ground, damaging opponents along the pat
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}  
+Sharp frost, swift blade.
+
 **Press**  
 Slashes swiftly, dealing **Cryo** DMG.  
 When it hits an opponent, Eula gains a stack of **Grimheart** that stacks up to 2 times. These stacks can only be gained once every 0.3 seconds.
@@ -161,6 +163,7 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword Remnant** will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
 
+**Notes**
 * The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
 {% endtab %}
@@ -181,6 +184,7 @@ When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and
 Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.  
 Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
 
+**Notes**
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
 {% endtab %}

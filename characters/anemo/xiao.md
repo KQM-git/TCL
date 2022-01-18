@@ -83,20 +83,20 @@ Starts with 2 charges.
 | Damage Type | Skill |
 | CD | 10s |
 
+**Notes**
 * A double E Cast is only 60 frames long.
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
 Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago.
 
-**Yaksha's Mask**
-
+**Yaksha's Mask**  
 * Greatly increases Xiao's jumping ability.
 * Increases his attack AoE and attack DMG.
 * Converts attack DMG into Anemo DMG, which cannot be overridden by any other elemental infusion. 
-* Xiao will continuously lose HP during this state. 
-* Xiao's attacks will be infused with 1GU Anemo.  
-* While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
+In this state, Xiao will continuously lose HP.  
+The effects of this skill end when Xiao leaves the field.
+
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -106,6 +106,10 @@ Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago
 | Energy Cost | 70 |
 | Duration | 15s |
 | CD | 18s |
+
+**Notes**
+* Xiao's attacks will be infused with 1GU Anemo.  
+* While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
 
 {% endtab %}
 {% endtabs %}

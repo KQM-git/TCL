@@ -52,6 +52,7 @@ Perform a precise Aimed Shot with increased DMG.
 | Frostflake Arrow | 179.2% | 115 | 93.49% | 1A |
 | Frostflake Bloom | 304.64% | 115 | 158.94% | 1A |
 
+**Notes**
 * **Frostflake Bloom** is considered a Charged Attack.
 * Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
@@ -69,14 +70,12 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 {% endtab %}
 
 {% tab title="Trail of the Qilin" %}
-Ganyu dashes backward, leaving an **Ice Lotus** behind and dealing AoE Cryo DMG.
+Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.
 
-**Ice Lotus**
-
-* Continuously taunts all enemies.
-  * This taunt applies to all enemies in the game that are not considered bosses.
-* The health of **Ice Lotus** scales based on Ganyu's max HP..
-* **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
+**Ice Lotus**  
+• Continuously taunts surrounding opponents, attracting them to attack it.
+• Endurance scales based on Ganyu's Max HP.
+• Blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -93,24 +92,21 @@ Ganyu dashes backward, leaving an **Ice Lotus** behind and dealing AoE Cryo DMG.
 | Duration | 6s |
 | CD | 10s |
 
+**Notes**
+* The taunt applies to all enemies in the game that are not considered bosses.
+* **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
 * Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
 {% endtab %}
 
 {% tab title="Celestial Shower" %}
-Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards**, striking opponents within an AoE and dealing Cryo DMG.
-
-**Sacred Cryo Pearl**
-
-* Celestial Shower drops **Ice Shards** every 0.3 seconds.
-* The **Sacred Cryo Pearl** will drop a shard **on a random enemy within the field that has not been targeted by a shard in the last 4** **Ice Shards**.
-* If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
-* Ganyu's icicles follow standard ICD (3-hit/2.5s).
+Coalesces atmospheric frost and snow to summon a **Sacred Cryo Pearl** that exorcises evil.
+During its ability duration, the **Sacred Cryo Pearl** will continuously rain down shards of ice, striking opponents within an AoE and dealing **Cryo** DMG.
 
 | Attribute | Ice Shard |
 | :--- | :--- |
 | Skill DMG \(T6%\) | 98.38% * 50 |
 | Frames | 102 |
-| Ice Shard GU | 1A |
+| GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
 | Damage Element | Cryo |
@@ -119,6 +115,11 @@ Ganyu summons a **Sacred Cryo Pearl** that continuously rains down **Ice Shards*
 | Duration | 15s |
 | CD | 15s |
 
+**Notes**
+* Celestial Shower drops **Ice Shards** every 0.3 seconds.
+* The **Sacred Cryo Pearl** will drop a shard **on a random enemy within the field that has not been targeted by a shard in the last 4** **Ice Shards**.
+* If there are no enemies that have not been targeted by the last 4 shards, they will randomly drop within the field where the shard AoE can still strike a target.
+* Ganyu's icicles follow standard ICD (3-hit/2.5s).
 * Ganyu's icicles are more likely to hit targets that are larger in size.
 * If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
 {% endtab %}
@@ -157,10 +158,10 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 {% tab title="C1" %}
 ### **Dew-Drinker**
 
-Taking DMG from a Charge Level 2 **Frostflake Arrow** or **Frostflake Arrow Bloom** decreases opponents' Cryo RES by 15% for 6s.
+Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' Cryo RES by 15% for 6s upon hit.  
+A hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.
 
-A hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 **Frostflake Arrow**, regardless if **Frostflake Arrow** itself or its **Bloom** hit the target.
-
+**Notes**
 * Dew-Drinker's Cryo RES down will apply to the **Bloom** if the enemy is hit by the **Frostflake Arrow**.
 {% endtab %}
 
@@ -179,10 +180,8 @@ Increases the Level of **Celestial Shower** by 3.
 {% tab title="C4" %}
 ### **Westward Sojourn**
 
-Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.
-
-Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.
-
+Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.  
+Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.  
 The effect lingers for 3s after the opponent leaves the AoE.
 {% endtab %}
 

@@ -42,11 +42,6 @@ Performs up to 5 rapid strikes.
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
-* Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
-  * First: A hitscan occurs for enemies in a radius around her after the NA is over.  
-  * Second: After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.  
-  * Third: After a brief period, this gadget will stop following the enemy and do an additional 3 hitscans, one for each hit.  
-  * Fourth: A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.  
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -56,6 +51,12 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 | N3C | 228.24% + 80.13%×3 (468.63%) | 140 | 200.84%/s |
 | N4C | 327% + 80.13%×3 (567.39%) | 171 | 199.08%/s |
 
+**Notes**
+* Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
+  1. A hitscan occurs for enemies in a radius around her after the NA is over.  
+  2. After selecting an enemy (closest target or random?), Ayaka will spawn a gadget that locks onto that enemy and follows them regardless of her normal range.  
+  3. After a brief period, this gadget will stop following the enemy and do an additional 3 hitscans, one for each hit.  
+  4.  A cut with a hitbox will be spawned for each enemy in range of the hitscans. This cut has a hitbox that can hit multiple enemies, but there is an ICD between each cut doing damage to the same enemy. If an enemy leaves the gadget's range while it is still performing the hitscans, the enemy will not be affected by the remaining hitscans. Conversely, the remaining hitscans will affect any enemy that enters the gadget's range even after it has started.  
 * Ayaka's charged attack ICDs are separate from her normal attack.
 * Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s Charged Attacks can also reach enemies below her ground level.
 
@@ -87,19 +88,22 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 {% tab title="Kamisato Art: Senho" %}
 **Alternate Sprint**  
 Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.  
-* Her alternate sprint has the same iframes as other characters' normal sprint.
 
 When she reappears, the following effects occur: 
 * Ayaka unleashes frigid energy to apply Cryo on nearby opponents.
-  * 1A Cryo is applied when Ayaka exits from her sprint.
 * Coldness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.
-  * This infusion causes Ayaka's attacks to apply 1A Cryo
+
 
 | Attribute | Values |
 | :--- | :--- |
 | Activation Stamina Consumption | 10 |
 | Stamina Drain | 15/s |
 | Infusion Duration | 5s |
+
+**Notes**
+* 1A Cryo is applied when Ayaka exits from her sprint.
+* This infusion causes Ayaka's attacks to apply 1A Cryo
+* Her Alternate Sprint has the same iframes as other characters' normal sprint.
 {% endtab %}
 
 {% tab title="Kamisato Art: Soumetsu" %}
@@ -125,6 +129,7 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 | Duration | 5s | 
 | CD | 20s |
 
+**Notes**
 * The whirl generated will stay in place for large enemies and frozen enemies
 * **Frostflake Seki no To** pushes away all nearby enemies. The extent to which enemies are pushed away depends on their weights & size.
 * **Kamisato Art: Soumetsu** deals 20 ticks of damage

@@ -56,13 +56,16 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Frozen Wilds" %}
-Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact, dealing Cryo DMG. After it explodes, the **Freeze Bomb** will split up into many **Chillwater Bomblets** that explode on contact with opponents or after a short delay, dealing Cryo DMG. When a **Freeze Bomb** or **Chillwater Bomblet** hits an opponent, the opponent's ATK is decreased and Aloy receives 1 **Coil stack**. Aloy can gain up to 1 **Coil stack** every 0.1s. 
+Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact, dealing Cryo DMG. After it explodes, the **Freeze Bomb** will split up into many **Chillwater Bomblets** that explode on contact with opponents or after a short delay, dealing Cryo DMG.  
+When a **Freeze Bomb** or **Chillwater Bomblet** hits an opponent, the opponent's ATK is decreased and Aloy receives 1 **Coil stack**.  
+Aloy can gain up to 1 **Coil stack** every 0.1s. 
 
 **Coil**  
-* Each stack increases Aloy's Normal Attack DMG. 
-* When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
+• Each stack increases Aloy's Normal Attack DMG.  
+• When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
 
-While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Coil** effects will be cleared 30s after Aloy leaves the field.
+While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.  
+**Coil** effects will be cleared 30s after Aloy leaves the field.
 
 | Attribute | Freeze Bomb | Chillwater Bomblets |
 | :--- | :--- | :--- |
@@ -85,6 +88,7 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks. **Co
 | Rushing Ice Duration                | 10s                  |
 | CD                                  | 20s                  |
 
+**Notes**
 * Aloy's attacks while in the **Rushing Ice** state follow standard ICD (3 hits/2.5s)
 * **Chillwater Bomblets** share ICD and follow standard ICD.
 * Aloy can gain **Coil Stacks** while off-field.
