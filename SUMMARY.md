@@ -87,6 +87,7 @@
 * [Artifacts](equipment/artifacts.md)
 * [Consumables](equipment/food.md)
 * [Gadgets](equipment/gadgets/README.md)
+  * [Omni-Ubiquity Net](equipment/gadgets/omni-ubiquity-net.md)
   * [Parametric Transformer](equipment/gadgets/parametric-transformer.md)
 
 ## Combat Mechanics
@@ -320,6 +321,7 @@
     * [Artifacts](evidence/equipment/artifacts.md)
     * [Food](evidence/equipment/food.md)
     * [Gadgets](evidence/equipment/gadgets/README.md)
+      * [Omni-Ubiquity Net](evidence/equipment/gadgets/omni-ubiquity-net.md)
       * [Parametric Transformer](evidence/equipment/gadgets/parametric-transformer.md)
     * [Weapons](evidence/equipment/weapons.md)
   * [Combat Mechanics](evidence/combat-mechanics/README.md)
