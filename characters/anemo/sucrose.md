@@ -63,6 +63,7 @@ Sucrose plunges from mid-air to the ground, dealing AoE **Anemo** DMG.
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
 * When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
+* Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
 | Attribute | Skill |
 | :--- | :--- |

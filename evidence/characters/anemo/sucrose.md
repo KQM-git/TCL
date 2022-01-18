@@ -59,6 +59,39 @@ One more reason to get Sucrose out in the field more often, at least for this us
 **Significance:** This makes it possible/easier to pre-funnel Xiao with a sequence of Sucrose's E followed by Xiao's two Es. 
 * [Example](https://youtu.be/nDoUaa5ksME)
 
+### Sucrose Skill And Freeze-Petrify-Omen Interaction  
+**By:** Charisma\#5567  
+**Added:** 1/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930539967854305331/932074343796715571/transcript-sucrose-skill-and-freeze-petrify-omen-interaction.html)
+
+**Finding:**  
+Sucrose Elemental Skill, *Astable Anemohypostasis Creation - 6308*, does not knock up Frozen and Petrified enemies. Light Suction will occur instead, much like how her Burst currently works with Frozen and Petrified Enemies.  
+
+**Evidence:**  
+Control Cases: Enemies have no Frozen/Petrify Status
+
+* [Sucrose E vs Light Enemies \(UNFROZEN\)](https://youtu.be/cN5TVdnnXOg)
+* [Sucrose E vs Heavier Enemy \(UNFROZEN\)](https://youtu.be/S9ss_zFlYzg)
+* Sucrose E vs Light/Heavy Enemies (UNFROZEN AND UNPETRIFIED) will break Mona's Omen - ShampooBrain\#9583  
+  * [Youtube](https://www.youtube.com/watch?v=9YvY2nHvsmU)  
+  * [Youtube](https://www.youtube.com/watch?v=sa40LaiWpBM)  
+
+As one can see from the above clips, Sucrose knocks up all the enemies that she can.
+
+Comparison Cases: Enemies are Frozen/Petrified
+* [Sucrose E vs Light Enemies \(FROZEN\)](https://youtu.be/B_2EHRz5hY8)
+* [Sucrose E vs Heavier Enemy \(FROZEN\)](https://youtu.be/nyl3cxWFXVQ)
+* Sucrose E vs Light/Heavy Enemies (PETRIFIED) - ShampooBrain\#9583  
+  * [Youtube](https://www.youtube.com/watch?v=osfBvPTESbE)  
+  * [Youtube](https://www.youtube.com/watch?v=zKCiUsM6J9o)  
+* [Sucrose E vs Enemies in Mona's Omen \(FROZEN\)](https://imgur.com/zZffQyq) - EatYourVeggies\#7493  
+*Note: Notice how the first Skill Usage did not knock up, but the 2nd one did.*  
+* [Sucrose E vs Enemies in Mona's Omen \(PETRIFIED\)](https://youtu.be/kla0exFH-6I)  
+*Note: Unachievable in single player unless one has Zhongli C4.*  
+
+**Significance:**   
+Sucrose skill can be used with freeze/petrify and the enemies will not be knocked up or away. Sucrose skill can also possibly be used in conjunction with effects that rely on enemy's poise not being broken, namely Mona's Omen-- provided that the enemy remains frozen/petrified.
+
 ## Elemental Burst Mechanics
 
 ### Sucrose Absorbed Dmg is simultaneous
