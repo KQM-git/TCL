@@ -60,8 +60,10 @@ Ms. Yun may just be acting out fights on stage, but her skills with the spear ar
 Flourishes her polearm in a cloud-grasping stance, dealing Geo DMG.
 
 **Hold**  
-Takes up the Opening Flourish stance and charges up, forming a shield. DMG Absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill.  
+Takes up the **Opening Flourish** stance and charges up, forming a shield. DMG Absorption is based on Yun Jin's Max HP and has 150% effectiveness against all Elemental DMG and Physical DMG. The shield lasts until she finishes unleashing her Elemental Skill.  
+
 When the skill is released, when its duration ends, or when the shield breaks, Yun Jin will unleash the charged energy as an attack, dealing Geo DMG.  
+
 Based on the time spent charging, it will either unleash an attack at Charge Level 1 or Level 2.
 
  Attribute | Tap | Charge Level 1 | Charge Level 2 |
@@ -238,7 +240,7 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 **Cooldown**: 9s
 {% endtab %}
 
-{% tab title="Cliffbreaker\'s Banner" %}
+{% tab title="Cliffbreaker&apos;s Banner" %}
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG | 341.60% | 366% | 390.40% | 414.80% | 439.20% | 463.60% | 488% | 518.50% |

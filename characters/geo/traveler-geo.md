@@ -51,7 +51,8 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | N3C | 81.25%+105% | 115 | 204%/s |
 | N4C | 81.25%+105% | 160 | 178.4%/s |
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -86,6 +87,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | N4C | 81.25%+88.25% | 160 | 172.1%/s |
 
 **Plunge**
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -115,6 +117,7 @@ This skill's positioning may be adjusted.
 | Duration | 30s |
 | CD | 8s | 
 
+**Notes**
 * The **meteorite** is considered a **Geo Construct** and can be climbed or use to block attacks
 * Holding allows you to aim where the **meteorite** appears and has a faster animation time.
 * **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
@@ -140,6 +143,7 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 | Duration | 15s |
 | CD | 15s | 
 
+**Notes**
 * Creates 4 walls one in each cardinal direction from where the character is facing. 
 * These are considered **Geo Construct**s but do not count towards the construct limit and cannot be climbed.
 * These walls do not count towards the construct limit. They greatly improve Zhongli's resonance.

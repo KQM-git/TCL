@@ -46,13 +46,14 @@ Zhongli performs up to 6 consecutive spear strikes.
 * Zhongli's attack string does not always interact with C6 Fischl on his first attack.
 
 **Charged Attack**  
-Zhongli consumes 20 stamina to lunge forward causing spears to fall along his path.
+Consumes 20 stamina to to lunge forward, causing stone spears to fall along his path.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | N1C | 206.1% | - | - |
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -61,33 +62,29 @@ Zhongli consumes 20 stamina to lunge forward causing spears to fall along his pa
 | High Plunge DMG | 232.09% |
 {% endtab %}
 
-{% tab title="Dominus Lapidis" %}
-**Press:**  
-Zhongli creates a **Stone Stele** in front of him.
+{% tab title="Dominus Lapidis" %}Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
 
-**Hold:**  
-Zhongli channels for 2 seconds causing the following effects:
+**Press**\
+Commands the power of earth to create a **Stone Stele**.
 
-* If the maximum number of **Stone Stele** hasn’t been reached, creates a **Stone Stele**.
-* Creates a **Jade Shield** that absorbs damage based on Zhongli’s max HP.
-* Deals AoE Geo damage.
-* If there are nearby targets with the Geo element, it will drain a large amount of Geo element from up to 2 targets. This effect does not deal damage.
+**Hold**\
+Causes nearby Geo energy to explode, causing the following effects:\
+• If their maximum number hasn't been reached, creates a **Stone Stele**.\
+• Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.\
+• Deals AoE Geo DMG.\
+• If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.
 
 **Stone Stele**
 
-* When created, **Stone Stele** deals AoE Geo damage. 
-* Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents. 
-* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
-* **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
-* Only one **Stone Stele** created by Zhongli may exist at a time.
-* Resonation can overlap to deal multiple instances of damage.
-* Steles resonate independently and do not resonate with each other.
+When created, **Stone Stele** deals AoE Geo damage.  
+Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents.  
+The Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.  
+Only one Stele created by Zhongli himself may initially exist at any one time.
 
 **Jade Shield**
 
-* Possesses 150% damage absorption against all Elemental and Physical damage. 
-* Characters protected by the **Jade Shield** will decrease the Elemental Resistance and Physical Resistance of nearby enemies within a radius by 20%. This effect can not be stacked with other instances of **Jade Shield**.  
-  * The Resistance shred lingers for a bit after it breaks/ends.  
+Possesses 150% damage absorption against all Elemental and Physical damage.  
+Characters protected by the **Jade Shield** will decrease the Elemental Resistance and Physical Resistance of nearby enemies within a radius by 20%. This effect can not be stacked with other instances of **Jade Shield**.  
 
 | Attribute | Stone Stele | Resonance DMG | Hold DMG |
 | :--- | :--- | :--- | :--- |
@@ -102,20 +99,28 @@ Zhongli channels for 2 seconds causing the following effects:
 | Duration | 30s | - | 20s |
 | CD | 4s | - | 12s |
 
+**Notes**
+* Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
+* **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
+* Resonation can overlap to deal multiple instances of damage.
+* Steles resonate independently and do not resonate with each other.
+
 | Attribute | Shield |
 | :--- | :--- |
 | Base Absorption \(T6%\)| 1951 |
 | Additional Absorption \(T6%\) | 17.92% Max HP |
 | Element | Geo |
 | Duration | 20s |
+
+**Notes**
+* The Resistance shred lingers for a bit after it breaks/ends.  
 {% endtab %}
 
 {% tab title="Planet Befall" %}
-Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemies caught in its AoE and applying **Petrification** status to them.
+Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the **Petrification** status to them.
 
-**Petrification**
-
-* Opponents affected by **Petrification** cannot move.
+**Petrification**  
+Opponents affected by **Petrification** cannot move.
 
 | Attribute | Burst  |
 | :--- | :--- |
@@ -129,6 +134,8 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
+
+**Notes**
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
 
 {% endtab %}
@@ -146,10 +153,12 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% tab title="Ascension 1" %}
 ### **Resonant Waves**
 
-When the **Jade Shield** takes DMG it will Fortify:
+When the Jade Shield takes DMG, it will Fortify:\
+• Fortified characters have 5% increased Shield Strength.\
+Can stack up to 5 times, and lasts until the Jade Shield disappears.
 
-* Fortified characters have 5% increased Shield Strength, stacking up to 5 times and lasts until the Jade Shield disappears.
-  * This Shield Strength increase occurs after damage is calculated.
+**Notes**
+* This Shield Strength increase occurs after damage is calculated.
 * There is no observable ICD on obtaining Shield Strength stacks.
 * Persists upon swap but not upon refresh.
 {% endtab %}
@@ -157,11 +166,10 @@ When the **Jade Shield** takes DMG it will Fortify:
 {% tab title="Ascension 4" %}
 ### **Dominance of Earth**
 
-Zhongli deals bonus DMG based on his Max HP:
-
-* Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.
-* Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.
-* Planet Befall’s DMG is increased by 33% Max HP. 
+Zhongli deals bonus DMG based on his Max HP:\
+• Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.\
+• Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.\
+• Planet Befall’s DMG is increased by 33% Max HP. 
 {% endtab %}
 {% endtabs %}
 
@@ -187,7 +195,8 @@ Planet Befall grants nearby characters on the field a **Jade Shield** when it de
 {% tab title="C3" %}
 ### **Jade, Shimmering through Darkness**
 
-Increases the Level of **Dominus Lapidis** by 3.
+Increases the Level of Dominus Lapidis by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -199,13 +208,15 @@ Increases **Planet Befall**’s AoE by 20% and increases the duration of **Petri
 {% tab title="C5" %}
 ### **Lazuli, Herald of the Order**
 
-Increases the Level of **Planet Befall** by 3.
+Increases the Level of Planet Befall by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Chrysos, Bounty of Dominator**
 
-When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character. A single instance of the regeneration cannot exceed 8% of the character’s Max HP.
+When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character.\
+A single instance of the regeneration cannot exceed 8% of the character’s Max HP.
 {% endtab %}
 {% endtabs %}
 

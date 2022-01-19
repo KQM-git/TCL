@@ -51,7 +51,8 @@ Noelle consumes 40 stamina a second to keep spinning. At the end, perform a more
 
 Enemies struck by Noelle's charged attack will be staggered or launched.
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -65,10 +66,10 @@ Noelle is able to perform dragonstrike, but because of her model, it's difficult
 
 {% tab title="Breastplate" %}
 Summons protective stone armor, dealing Geo DMG to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.
-The shield has the following properties:
 
-* When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.
-* Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.
+The shield has the following properties:\
+• When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.\
+• Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.
 
 The amount of HP healed when regeneration is triggered scales based on Noelle's DEF. 
 
@@ -92,6 +93,7 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 | Elemental Type | Geo | 
 | Duration | 12s |
 
+**Notes**
 * **Breastplate**'s damage shares standard ICD with **To Be Cleaned** \(C4\). 
 * The damage from **To Be Cleaned** \(C4\) is calculated using Noelle’s current attack at the moment the shield breaks.
 * When the shield breaks it creates enough hitlag that you can perform a Plunge attack if you jump at the correct time, however unless you purposefully break the shield it can be hard to time correctly.
@@ -99,12 +101,12 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 {% endtab %}
 
 {% tab title="Sweeping Time" %}
-Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing Geo DMG.  
-Afterwards, Noelle gains the following effects:
+Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing Geo DMG. 
 
-* Larger attack AoE.
-* Converts attack DMG to Geo DMG that cannot be overridden by any other elemental infusion.
-* Increased ATK that scales based on her DEF.
+Afterwards, Noelle gains the following effects:\
+• Larger attack AoE.\
+• Converts attack DMG to Geo DMG that cannot be overridden by any other elemental infusion.\
+• Increased ATK that scales based on her DEF.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -120,6 +122,7 @@ Afterwards, Noelle gains the following effects:
 | Duration | 15s |
 | CD | 15s |
 
+**Notes**
 * Noelle's infused Normal and Charged Attacks apply 1GU and have standard 3 hit / 2.5s ICD.
 * The DEF to ATK conversion is snapshotted when you activate burst so any changes to DEF after burst is used will not affect ATK.
 * The two activation damage instances can proc the healing effect from **Breastplate**.
@@ -139,11 +142,10 @@ When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chan
 {% tab title="Ascension 1" %}
 ### **Devotion**
 
-When Noelle is in the party but not on field, this ability triggers automatically when your active character’s HP falls below 30%.
-
-* Creates a shield for your active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.
-* This shield has a 150% DMG absorption effectiveness against all damage.
-* This effect can only occur once every 60s.
+When Noelle is in the party but not on field, this ability triggers automatically when your active character’s HP falls below 30%:\
+Creates a shield for your active character that lasts 20s and absorbs DMG equal to 400% of Noelle’s DEF.\
+This shield has a 150% DMG absorption effectiveness against all damage.\
+This effect can only occur once every 60s.
 
 | Attribute | Shield | 
 | :--- | :--- |
@@ -184,7 +186,8 @@ Decreases the Stamina Consumption of Noelle’s Charged Attacks by 20% and incre
 {% tab title="C3" %}
 ### **Invulnerable Maid**
 
-Increases the level of **Breastplate** by 3.
+Increases the Level of **Breastplate** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -209,16 +212,17 @@ When **Breastplate**’s duration expires or it is destroyed, it will deal 400% 
 {% tab title="C5" %}
 ### **Favonius Sweeper Master**
 
-Increases the Level of **Sweeping Time** by 3.
+Increases the Level of **Sweeping Time** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Must Be Spotless**
 
-**Sweeping Time** increases Noelle’s ATK by an additional 50% of her DEF.
-
+**Sweeping Time** increases Noelle’s ATK by an additional 50% of her DEF.\
 Additionally, every opponent defeated during the skill’s duration adds 1s to the duration, up to 10s.
 
+**Notes**
 * Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
 * The bonus DEF conversion from **Must Be Spotless** is additive (i.e. it takes the bonus from 56% DEF to 106% DEF at talent level 6).
 

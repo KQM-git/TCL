@@ -28,30 +28,35 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
-**Normal Attacks**  
-Shoots gems that deal Geo DMG. Upon hit, grants Ningguang 1 **Star Jade**.
+**Normal Attack**  
+Shoots gems that deal Geo DMG.\
+Upon hit, grants Ningguang 1 **Star Jade**.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
 | Normal Attack | 39.2% x 2 | 25 | 188.16%/s | 1U |
 
+**Notes**
 * Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 
 **Charged Attack**  
-Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
+Consumes 50 stamina to fire off a giant gem that deals Geo DMG.\
+If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 243.71% | 50 | 292.4%/s | 1U |
 | DMG per Star Jade | 69.44% | 50 | 83.3%/s | 1U |
 
+**Notes**
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames. 
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 
-**Plunge**
+**Plunge**  
+ Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Geo DMG upon impact with the ground.
 
 | Type | Talent 6% | GU |
 | :--- | :--- | :--- |
@@ -64,11 +69,13 @@ Consumes 50 stamina to fire off a giant gem that deals Geo DMG. If Ningguang has
 {% endtab %}
 
 {% tab title="Jade Screen" %}
-Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the following properties:
+Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence, dealing AoE Geo DMG.
 
-* **Jade Screen** can block opponents' projectiles scaling off of Ningguang’s Max HP. 
-* **Jade Screen** is considered a Geo Constructs and can be used to block certain attacks. However, it cannot be climbed.
-* Only one **Jade Screen** may exist at a time. 
+**Jade Screen**\
+• Blocks opponents' projectiles.\
+• Endurance scales based on Ningguang's Max HP.
+
+**Jade Screen** is considered a Geo Construct and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -82,6 +89,7 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 | Damage Type | Skill |
 | CD | 12s |
 
+**Notes**
 * **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
 * **Jade Screen** has no ICD for the detection of aura-checks.
 
@@ -93,7 +101,9 @@ Ningguang creates a **Jade Screen** that deals AoE Geo DMG and possess the follo
 {% endtab %}
 
 {% tab title="Starshatter" %}
-Gathering a great number of gems, Ningguang scatters them all at once, sending six homing projectiles at her opponents that deal massive Geo DMG. If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen** will fire an additional six gem projectiles at the same time.
+Gathering a great number of gems, Ningguang scatters them all at once, sending six homing projectiles at her opponents that deal massive Geo DMG.
+
+If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen** will fire an additional six gem projectiles at the same time.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -107,6 +117,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 | Energy Cost | 40 |
 | CD | 12s |
 
+**Notes**
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
 
 {% endtab %}
@@ -146,7 +157,8 @@ When a Normal Attack hits, it deals AoE Geo DMG.
 {% tab title="C2" %}
 ### **Shock Effect**
 
-When **Jade Screen** is shattered, its CD will reset. This effect can occur once every 6s.
+When **Jade Screen** is shattered, its CD will reset.\
+This effect can occur once every 6s.
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
@@ -155,7 +167,8 @@ When **Jade Screen** is shattered, its CD will reset. This effect can occur once
 {% tab title="C3" %}
 ### **Majesty be the Array of Stars**
 
-Increases the level of **Starshatter** by 3.
+Increases the Level of **Starshatter** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -167,7 +180,8 @@ Increases the level of **Starshatter** by 3.
 {% tab title="C5" %}
 **Invincible be the Jade Screen**
 
-Increases the Level of **Jade Screen** by 3.
+Increases the Level of **Jade Screen** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
