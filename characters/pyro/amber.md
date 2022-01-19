@@ -61,13 +61,13 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 {% tab title="Explosive Puppet" %}
 The ever-reliable Baron Bunny takes the stage.
 
-**Baron Bunny**\
-• Continuously taunts the enemy, drawing their fire.\
-• **Baron Bunny**'s HP scales with Amber's Max HP.\
+**Baron Bunny**  
+• Continuously taunts the enemy, drawing their fire.  
+• **Baron Bunny**'s HP scales with Amber's Max HP.  
 • When destroyed or when its timer expires, **Baron Bunny** explodes, dealing AoE Pyro DMG.
 
-**Hold**\
-Adjusts the throwing direction of Baron Bunny.\
+**Hold**  
+Adjusts the throwing direction of Baron Bunny.  
 The longer the button is held, the further the throw.
 
 | Effect | Skill |

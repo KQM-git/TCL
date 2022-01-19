@@ -63,12 +63,12 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 {% tab title="Guhua Sword: Fatal Rainscreen" %}
 Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of **Rain Swords**, which will orbit your active character.
 
-The Rain Swords have the following properties:\
-• When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\
+The Rain Swords have the following properties:  
+• When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.  
 • Increases the character's resistance to interruption.
 
-20% of Xingqiu's Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.\
-The maximum amount of additional DMG Reduction that can be gained this way is 24%.\
+20% of Xingqiu's Hydro DMG Bonus will be converted to additional DMG Reduction for the Rain Swords.  
+The maximum amount of additional DMG Reduction that can be gained this way is 24%.  
 The initial maximum number of Rain Swords is 3.
 
 Using this ability applies the Wet status onto the character.
@@ -106,8 +106,8 @@ Using this ability applies the Wet status onto the character.
 {% tab title="Guhua Sword: Raincutter" %}
 Initiate **Rainbow Bladework** and fight using an illusory sword rain, while creating the maximum number of Rain Swords.
 
-**Rainbow Bladework**\
-• Your active character's Normal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.\
+**Rainbow Bladework**  
+• Your active character's Normal Attacks will trigger consecutive sword rain attacks, dealing Hydro DMG.  
 • Rain Swords will remain at the maximum number throughout the ability's duration.
 
 | Attribute | Burst |
@@ -177,7 +177,7 @@ Decreases the Hydro RES of opponents hit by **Sword Rain** attack by 15% for 4s.
 {% tab title="C3" %}
 ### **Weaver of Verses**
 
-Increases the Level of **Guhua Sword: Raincutter** by 3.\
+Increases the Level of **Guhua Sword: Raincutter** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -194,7 +194,7 @@ Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by Guhua S
 {% tab title="C5" %}
 ### **Embrace of Rain**
 
-Increases the level of **Guhua Sword: Fatal Rainscreen** by 3.\
+Increases the level of **Guhua Sword: Fatal Rainscreen** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

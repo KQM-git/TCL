@@ -72,17 +72,17 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
-Only an unwavering flame can cleanse the impurities of this world.\
+Only an unwavering flame can cleanse the impurities of this world.  
 Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
 
-**Paramita Papilio**\
-• Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\
-• Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.\
+**Paramita Papilio**  
+• Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.  
+• Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.  
 • Charged Attacks apply the **Blood Blossom** effect to the enemies hit.
 • Increases Hu Tao's resistance to interruption.
 
 **Blood Blossom**  
-Enemies affected by **Blood Blossom** will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.\
+Enemies affected by **Blood Blossom** will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.  
 Each enemy can be affected by only one **Blood Blossom** effect at a time, and its duration may only be refreshed by Hu Tao herself.
 
 **Paramita Papilio** ends when its duration is over, or Hu Tao has left the battlefield or fallen.
@@ -176,14 +176,14 @@ While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Ta
 {% tab title="C2" %}
 ### **Ominous Rainfall**
 
-Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.\
+Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.  
 Additionally, **Spirit Soother** will also apply the **Blood Blossom** effect.
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Lingering Carmine**
 
-Increases the Level of **Guide to Afterlife** by 3.\
+Increases the Level of **Guide to Afterlife** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -196,16 +196,16 @@ Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied hers
 {% tab title="C5" %}
 ### **Floral Incense**
 
-Increases the Level of **Spirit Soother** by 3.\
+Increases the Level of **Spirit Soother** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Butterfly's Embrace**
 
-Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:\
-Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.\
-This effect triggers automatically when Hu Tao has 1 HP left.\
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:  
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.  
+This effect triggers automatically when Hu Tao has 1 HP left.  
 Can only occur once every 60s.
 {% endtab %}
 {% endtabs %}

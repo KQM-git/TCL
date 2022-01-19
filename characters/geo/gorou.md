@@ -35,7 +35,7 @@ Perform up to 4 consecutive shots with a bow.
 | Recovery | - | 162 | 98.10%/s | 
 
 **Charged Attack**  
-Perform a more precise Aimed Shot with increased DMG.\
+Perform a more precise Aimed Shot with increased DMG.  
 While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
 
 | String | Talent 6% | Frames | MV/s | GU | 
@@ -59,9 +59,9 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 Deals AoE Geo DMG and sets up a **General's War Banner**.  
 
 **General's War Banner**  
-Provides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:\
-• 1 Geo character: Adds "**Standing Firm**" - DEF Bonus.\
-• 2 Geo characters: Adds "**Impregnable**" - Increased resistance to interruption.\
+Provides up to 3 buffs to active characters within the skill's AoE based on the number of Geo characters in the party at the time of casting:  
+• 1 Geo character: Adds "**Standing Firm**" - DEF Bonus.  
+• 2 Geo characters: Adds "**Impregnable**" - Increased resistance to interruption.  
 • 3 Geo characters: Adds "**Crunch**" - Geo DMG Bonus.
 
 Gorou can deploy only 1 **General's War Banner** on the field at any one time. Characters can only benefit from 1 **General's War Banner** at a time. When a party member leaves the field, the active buff will last for 2s.
@@ -96,12 +96,12 @@ Adjust the location of the skill.
 Displaying his valor as a general, Gorou deals AoE Geo DMG and creates a field known as General's Glory to embolden his comrades.
 
 **General's Glory**  
-This field has the following properties:\
-• Like the **General's War Banner** created by **Inuzaka All-Round Defense**, provides buffs to active characters within the skill's AoE based on the number of Geo characters in the party. Also moves together with your active character.\
-• Generates 1 **Crystal Collapse** every 1.5s that deals AoE Geo DMG to 1 opponent within the skill's AoE.\
+This field has the following properties:  
+• Like the **General's War Banner** created by **Inuzaka All-Round Defense**, provides buffs to active characters within the skill's AoE based on the number of Geo characters in the party. Also moves together with your active character.  
+• Generates 1 **Crystal Collapse** every 1.5s that deals AoE Geo DMG to 1 opponent within the skill's AoE.  
 • Pulls 1 elemental shard in the skill's AoE to your active character's position every 1.5s (elemental shards are created by Crystallize reactions).
 
-If a **General's War Banner** created by Gorou currently exists on the field when this ability is used, it will be destroyed. In addition, for the duration of **General's Glory**, Gorou's Elemental Skill "**Inuzaka All-Round Defense**" will not create the **General's War Banner**.\
+If a **General's War Banner** created by Gorou currently exists on the field when this ability is used, it will be destroyed. In addition, for the duration of **General's Glory**, Gorou's Elemental Skill "**Inuzaka All-Round Defense**" will not create the **General's War Banner**.  
 If Gorou falls, the effects of **General's Glory** will be cleared.
 
 | Attribute | Burst | Crystal Collapse | 
@@ -144,8 +144,8 @@ After using **Juuga: Forward Unto Victory**, all nearby party members' DEF is in
 {% tab title="Ascension 4" %}
 ### **A Favor Repaid**
 
-Gorou receives the following DMG Bonuses to his attacks based on his DEF:\
-• **Inuzaka All-Round Defense**: Skill DMG increased by 156% of DEF\
+Gorou receives the following DMG Bonuses to his attacks based on his DEF:  
+• **Inuzaka All-Round Defense**: Skill DMG increased by 156% of DEF  
 • **Juuga: Forward Unto Victory**: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF
 {% endtab %}
 {% endtabs %}

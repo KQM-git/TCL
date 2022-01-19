@@ -41,14 +41,14 @@ Beidou performs up to 5 consecutive attacks.
 | 4-Hit | 125.75% | 178 | 155.2%/s |
 | 5-Hit | 163% | 246 | 152.1%/s |
 
-**Notes**\
+**Notes**  
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
 
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
 * Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
 
 **Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes.\
+Beidou consumes 40 stamina a second to perform continuous slashes.  
 At the end of the 5 seconds, perform a more powerful slash.
 
 | String | Talent 6% | Frames | MV/s |
@@ -73,15 +73,15 @@ Plunges from mid-air to strike the ground, damaging opponents along the path and
 {% tab title="Tidecaller" %}
 Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.
 
-**Press**\
+**Press**  
 Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.
 
-**Hold**\
-Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\
+**Hold**  
+Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.  
 Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.
 
-The shield possesses the following properties:\
-• Has 250% Electro DMG Absorption Efficiency.\
+The shield possesses the following properties:  
+• Has 250% Electro DMG Absorption Efficiency.  
 • Applies the Electro element to Beidou upon activation.
 
 | Attribute | Tap | Hold |
@@ -120,9 +120,9 @@ The shield possesses the following properties:\
 {% tab title="Stormbreaker" %}
 Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
-**Thunderbeast's Targe**\
-• When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.\
-•  Increases active character’s resistance to interruption and decreases DMG taken.\
+**Thunderbeast's Targe**  
+• When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.  
+•  Increases active character’s resistance to interruption and decreases DMG taken.  
 A maximum of 1 **lightning discharge** can be triggered per second.
 
 | Attribute | Burst | Lightning Discharge |
@@ -186,8 +186,8 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 {% tab title="C1" %}
 ### **Sea Beast's Scourge**
 
-When **Stormbreaker** is used:\
-Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\
+When **Stormbreaker** is used:  
+Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.  
 This shield absorbs Electro DMG 250% more effectively.
 
 {% endtab %}
@@ -201,7 +201,7 @@ This shield absorbs Electro DMG 250% more effectively.
 {% tab title="C3" %}
 ### **Summoner of Storm**
 
-Increases the Level of **Tidecaller** by 3.\
+Increases the Level of **Tidecaller** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -229,7 +229,7 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 {% tab title="C5" %}
 ### **Crimson Tidewalker**
 
-Increases the Level of Stormbreaker by 3.\
+Increases the Level of Stormbreaker by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

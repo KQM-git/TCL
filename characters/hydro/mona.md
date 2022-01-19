@@ -73,14 +73,14 @@ Gathering the might of Hydro, Mona plunges towards the ground from mid-air, dama
 
 {% tab title="Mirror Reflection of Doom" %}
 **Press**  
-Creates an illusory **Phantom** of Fate from coalesced waterspouts.\
-The **Phantom** has the following special properties:\
-• Continuously taunts nearby opponents, attracting their fire.\
-• Continuously deals Hydro DMG to nearby opponents.\
+Creates an illusory **Phantom** of Fate from coalesced waterspouts.  
+The **Phantom** has the following special properties:  
+• Continuously taunts nearby opponents, attracting their fire.  
+• Continuously deals Hydro DMG to nearby opponents.  
 • When its duration expires, the **Phantom** explodes, dealing AoE Hydro DMG.
 
 **Hold**  
-Utilizes water currents to move backwards swiftly before conjuring a Phantom.\
+Utilizes water currents to move backwards swiftly before conjuring a Phantom.  
 Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 
 | Attribute | DoT | Explosion |
@@ -107,8 +107,8 @@ Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 
 {% tab title="Illusory Torrent" %}
 **Alternate Sprint**  
-Mona cloaks herself within the water's flow, consuming Stamina to move rapidly.\
-When under the effect of Illusory Torrent, Mona can move at high speed on water.\
+Mona cloaks herself within the water's flow, consuming Stamina to move rapidly.  
+When under the effect of Illusory Torrent, Mona can move at high speed on water.  
 Applies the Wet status to nearby opponents when she reappears.
 
 | Attribute | Values |
@@ -133,8 +133,8 @@ Mona summons the sparkling waves creating a reflection of the starry sky, applyi
 **Illusory Bubble**  
 Traps opponents inside a pocket of destiny and also makes them Wet. Renders weaker opponents immobile.
 
-When an opponent affected by **Illusory Bubble** sustains DMG, it has the following effects:\
-• Applies an **Omen** to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.\
+When an opponent affected by **Illusory Bubble** sustains DMG, it has the following effects:  
+• Applies an **Omen** to the opponent, which gives a DMG Bonus, also increasing the DMG of the attack that causes it.  
 • Removes the **Illusory Bubble** dealing Hydro DMG in the process.
 
 | Attribute | Bubble | Omen |
@@ -201,10 +201,10 @@ Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy R
 {% tab title="C1" %}
 ### **Prophecy of Submersion**
 
-When any of your own party members hit an opponent affected by an **Omen**, Hydro-related Elemental Reactions are enhanced for 8s:\
-• Electro-Charged DMG increases by 15%\
-• Vaporize DMG increases by 15%\
-• Hydro Swirl DMG increases by 15%\
+When any of your own party members hit an opponent affected by an **Omen**, Hydro-related Elemental Reactions are enhanced for 8s:  
+• Electro-Charged DMG increases by 15%  
+• Vaporize DMG increases by 15%  
+• Hydro Swirl DMG increases by 15%  
 • Frozen duration is extended by 15%
 
 **Notes**  
@@ -219,7 +219,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 {% tab title="C2" %}
 ### **Lunar Chain**
 
-When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.\
+When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.  
 This effect can only occur once every 5s.
 
 * This Charged Attack is not fast enough to do an automatic double Vaporize.
@@ -229,7 +229,7 @@ This effect can only occur once every 5s.
 {% tab title="C3" %}
 ### **Restless Revolution**
 
-Increases the Level of **Stellaris Phantasm** by 3.\
+Increases the Level of **Stellaris Phantasm** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -242,7 +242,7 @@ When any party member attacks an opponent affected by an **Omen**, their Crit Ra
 {% tab title="C5" %}
 ### **Mockery of Fortuna**
 
-Increases the Level of **Mirror Reflection of Doom** by 3.\
+Increases the Level of **Mirror Reflection of Doom** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

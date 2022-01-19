@@ -64,14 +64,14 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 
 {% tab title="Dominus Lapidis" %}Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
 
-**Press**\
+**Press**  
 Commands the power of earth to create a **Stone Stele**.
 
-**Hold**\
-Causes nearby Geo energy to explode, causing the following effects:\
-• If their maximum number hasn't been reached, creates a **Stone Stele**.\
-• Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.\
-• Deals AoE Geo DMG.\
+**Hold**  
+Causes nearby Geo energy to explode, causing the following effects:  
+• If their maximum number hasn't been reached, creates a **Stone Stele**.  
+• Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.  
+• Deals AoE Geo DMG.  
 • If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.
 
 **Stone Stele**
@@ -153,8 +153,8 @@ Refunds 15% of the ores used when crafting Polearm-type weapons.
 {% tab title="Ascension 1" %}
 ### **Resonant Waves**
 
-When the Jade Shield takes DMG, it will Fortify:\
-• Fortified characters have 5% increased Shield Strength.\
+When the Jade Shield takes DMG, it will Fortify:  
+• Fortified characters have 5% increased Shield Strength.  
 Can stack up to 5 times, and lasts until the Jade Shield disappears.
 
 **Notes**
@@ -166,9 +166,9 @@ Can stack up to 5 times, and lasts until the Jade Shield disappears.
 {% tab title="Ascension 4" %}
 ### **Dominance of Earth**
 
-Zhongli deals bonus DMG based on his Max HP:\
-• Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.\
-• Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.\
+Zhongli deals bonus DMG based on his Max HP:  
+• Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.  
+• Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.  
 • Planet Befall’s DMG is increased by 33% Max HP. 
 {% endtab %}
 {% endtabs %}
@@ -195,7 +195,7 @@ Planet Befall grants nearby characters on the field a **Jade Shield** when it de
 {% tab title="C3" %}
 ### **Jade, Shimmering through Darkness**
 
-Increases the Level of Dominus Lapidis by 3.\
+Increases the Level of Dominus Lapidis by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -208,14 +208,14 @@ Increases **Planet Befall**’s AoE by 20% and increases the duration of **Petri
 {% tab title="C5" %}
 ### **Lazuli, Herald of the Order**
 
-Increases the Level of Planet Befall by 3.\
+Increases the Level of Planet Befall by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Chrysos, Bounty of Dominator**
 
-When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character.\
+When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character.  
 A single instance of the regeneration cannot exceed 8% of the character’s Max HP.
 {% endtab %}
 {% endtabs %}

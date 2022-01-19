@@ -67,9 +67,9 @@ Bennett puts all his fire and passion for adventuring into his sword. Results ma
 A single, swift flame strike that deals Pyro DMG.
 
 **Hold \(Short\)**  
-Charges up, resulting in different effects when unleashed based on the Charge Level.\
-• Level 1: Strikes twice, dealing Pyro DMG and launching opponents.\
-• Level 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\
+Charges up, resulting in different effects when unleashed based on the Charge Level.  
+• Level 1: Strikes twice, dealing Pyro DMG and launching opponents.  
+• Level 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.  
 Bennett takes no damage from being launched.
 
 | Attribute | Skill Press | Skill Hold \(Level 1\) | Skill Hold \(Level 2\) |
@@ -96,8 +96,8 @@ Bennett takes no damage from being launched.
 Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration Field**.
 
 **Inspiration Field**  
-• If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP.\
-• However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.\
+• If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP.  
+• However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.  
 • Continuously imbues characters within the AoE with Pyro.
 
 | Attribute | Burst |

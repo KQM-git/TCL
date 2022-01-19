@@ -44,7 +44,7 @@ Perform up to 5 consecutive shots with a bow.
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 
 **Charged Attack**  
-Perform a more precise Aimed Shot with increased DMG.\
+Perform a more precise Aimed Shot with increased DMG.  
 While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
 
 | String | Talent 6% | Frames | MV/s |  GU |
@@ -66,10 +66,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Nightrider" %}
-Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.\
+Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.  
 For the ability's duration, Oz will continuously attack nearby opponents with Freikugel.
 
-Hold to adjust the location Oz will be summoned to.\
+Hold to adjust the location Oz will be summoned to.  
 Press again any time during the ability's duration to once again summon him to Fischl's side.
 
 | Attribute | Skill |
@@ -110,10 +110,10 @@ Press again any time during the ability's duration to once again summon him to F
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
-Summons Oz to spread his twin wings of twilight and defend Fischl.\
-Has the following properties during the ability's duration:\
-• Fischl takes on Oz's form, greatly increasing her Movement Speed.\
-• Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.\
+Summons Oz to spread his twin wings of twilight and defend Fischl.  
+Has the following properties during the ability's duration:  
+• Fischl takes on Oz's form, greatly increasing her Movement Speed.  
+• Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.  
 • Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
 
 | Attribute | Burst |
@@ -169,7 +169,7 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down **Thundering
 
 {% tab title="Ascension 4" %}
 ### **Undone Be Thy Sinful Hex**
-*\(previously known as **Lightning Smite**\)*\
+*\(previously known as **Lightning Smite**\)*  
 If your current active character triggers an Electro-related Elemental Reaction when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing Electro DMG equal to 80% of Fischl's ATK.
 
 | Attribute | A4 |
@@ -222,14 +222,14 @@ When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and
 {% tab title="C3" %}
 ### **Wings of Nightmare**
 
-Increases the level of **Nightrider** by 3.\
+Increases the level of **Nightrider** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Her Pilgrimage of Bleak**
 
-When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents.\
+When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents.  
 When the duration ends, Fischl regenerates 20% of her HP.
 
 | Attribute | Burst |
@@ -246,7 +246,7 @@ When the duration ends, Fischl regenerates 20% of her HP.
 {% tab title="C5" %}
 ### **Against the Fleeing Light**
 
-Increases the Level of **Midnight Phantasmagoria** by 3.\
+Increases the Level of **Midnight Phantasmagoria** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

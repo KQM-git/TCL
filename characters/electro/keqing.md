@@ -66,18 +66,18 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
-**Press**\
-Hurls a **Lightning Stiletto** that annihilates her opponents like the swift thunder.\
+**Press**  
+Hurls a **Lightning Stiletto** that annihilates her opponents like the swift thunder.  
 When the **Stiletto** hits its target, it deals Electro DMG to opponents in a small AoE, and places a **Stiletto Mark** on the spot hit.
 
-**Hold**\
-Hold to adjust the direction in which the **Stiletto** shall be thrown.\
+**Hold**  
+Hold to adjust the direction in which the **Stiletto** shall be thrown.  
 **Stilettos** thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.
 
-**Lightning Stiletto \(recast\)**\
-If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while its duration lasts, it will clear the **Stiletto Mark** and produce different effects:\
-• If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\
-• If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\
+**Lightning Stiletto \(recast\)**  
+If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while its duration lasts, it will clear the **Stiletto Mark** and produce different effects:  
+• If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.  
+• If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.  
 
 | Attribute | Lightning Stiletto | Thunderclap Slash |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 {% endtab %}
 
 {% tab title="Starward Sword" %}
-Keqing unleashes the power of lightning, dealing Electro DMG in an AOE.\
+Keqing unleashes the power of lightning, dealing Electro DMG in an AOE.  
 She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of Electro DMG. The final attack deals massive AoE Electro DMG.
 
 | Attribute | Burst |
@@ -174,7 +174,7 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 {% tab title="C2" %}
 ### **Keen Extraction**
 
-When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle.\
+When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle.  
 This effect can only occur once every 5s.
 
 * The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
@@ -185,7 +185,7 @@ This effect can only occur once every 5s.
 {% tab title="C3" %}
 ### **Foreseen Reformation**
 
-Increases the Level of Starward Sword by 3.\
+Increases the Level of Starward Sword by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -198,7 +198,7 @@ For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is 
 {% tab title="C5" %}
 ### **Beckoning Stars**
 
-Increases the Level of Stellar Restoration by 3.\
+Increases the Level of Stellar Restoration by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

@@ -190,7 +190,7 @@ Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters
 {% tab title="C3" %}
 ### **The Moon, A Ship O'er the Seas**
 
-Increases the Level of **Nereid's Ascension** by 3.\
+Increases the Level of **Nereid's Ascension** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -203,7 +203,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 {% tab title="C5" %}
 ### **All Streams Flow to the Sea**
 
-Increases the Level of **Kurage's Oath** by 3.\
+Increases the Level of **Kurage's Oath** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

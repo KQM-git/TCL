@@ -46,7 +46,7 @@ Performs up to 5 consecutive shots with a bow.
 Performs a more precise Aimed Shot with increased DMG.
 
 While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  
-• Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.\
+• Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.  
 • Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
 | String | Talent 6% | GUs | Frames | MV/s |
@@ -103,8 +103,8 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 Yoimiya leaps into the air along with her original creation, the "**Ryuukin Saxifrage**," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with **Aurous Blaze**.
 
 **Aurous Blaze**  
-All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by **Aurous Blaze** will trigger an explosion, dealing AoE Pyro DMG.\
-When an opponent affected by **Aurous Blaze** is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.\
+All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by **Aurous Blaze** will trigger an explosion, dealing AoE Pyro DMG.  
+When an opponent affected by **Aurous Blaze** is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.  
 One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, **Aurous Blaze** effects created through her skills will be deactivated.
 
 | Attribute | Burst | Aurous Blaze Explosion |
@@ -169,7 +169,7 @@ When Yoimiya's Pyro DMG scores a CRIT Hit, Yoimiya will gain a 25% Pyro DMG Bonu
 {% tab title="C3" %}
 ### **Trickster's Flare**
 
-Increases the Level of Niwabi Fire-Dance by 3.\
+Increases the Level of Niwabi Fire-Dance by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -182,7 +182,7 @@ When Yoimiya's own Aurous Blaze triggers an explosion, Niwabi Fire-Dance's CD is
 {% tab title="C5" %}
 ### **A Summer Festival's Eve**
 
-Increases the Level of Ryuukin Saxifrage by 3.\
+Increases the Level of Ryuukin Saxifrage by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

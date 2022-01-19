@@ -41,7 +41,7 @@ Diluc performs up to 4 consecutive attacks.
 | 4-Hit | 194.75% | 181 | 197.61%/s |
 
 **Charged Attack**  
-Drains 40 stamina a second to perform continuous slashes.\
+Drains 40 stamina a second to perform continuous slashes.  
 At the end of the sequence, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
@@ -60,7 +60,7 @@ Plunges from mid-air to strike the ground, damaging opponents along the path and
 {% endtab %}
 
 {% tab title="Searing Onslaught" %}
-Diluc performs a forward slash, dealing Pyro DMG.\
+Diluc performs a forward slash, dealing Pyro DMG.  
 This skill can be consecutively used 3 times. Enters CD if not cast again within 4s.
 
 | Attribute | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
@@ -147,14 +147,14 @@ Diluc deals 15% increased DMG to opponents whose HP is above 50%.
 {% tab title="C2" %}
 #### **Searing Ember**
 
-When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s.\
+When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s.  
 This effect can stack up to 3 times and can only occur once every 1.5s.
 {% endtab %}
 
 {% tab title="C3" %}
 #### **Fire and Steel**
 
-Increases the level of Searing Onslaught by 3.\
+Increases the level of Searing Onslaught by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -167,14 +167,14 @@ If Searing Onslaught is recast more than 2s after the previous cast, it deals 40
 {% tab title="C5" %}
 #### **Phoenix, Harbinger of Dawn**
 
-Increases the Level of Dawn by 3.\
+Increases the Level of Dawn by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 #### **Flaming Sword, Nemesis of the Dark**
 
-After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\
+After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.  
 Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 {% endtab %}
 {% endtabs %}

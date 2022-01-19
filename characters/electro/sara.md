@@ -40,8 +40,8 @@ Perform up to 5 consecutive shots with a bow.
 | Recovery | -- | 195 | 104.00%/s |
 
 **Charged Attacks**  
-Perform a more precise Aimed Shot with increased DMG.\
-While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.\
+Perform a more precise Aimed Shot with increased DMG.  
+While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.  
 When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
 | String | Talent 6% | Frames | MV/s | GU |
@@ -61,10 +61,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Tengu Stormcall" %}
-Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\
+Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.  
 Gains **Crowfeather Cover** for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, **Crowfeather Cover** will be consumed, and will leave a **Crowfeather** at the target location.
 
-**Crowfeathers** will trigger **Tengu Juurai: Ambush** after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\
+**Crowfeathers** will trigger **Tengu Juurai: Ambush** after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.  
 The ATK Bonuses from different **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
 | Attribute | Skill |
@@ -102,7 +102,7 @@ The ATK Bonuses from different **Tengu Juurai** will not stack, and their effect
 {% tab title="Subjugation: Koukou Sendou" %}
 Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, **Tengu Juurai: Titanbreaker** spreads out into 4 consecutive bouts of **Tengu Juurai: Stormcluster,** dealing AoE Electro DMG.
 
-**Tengu Juurai: Titanbreaker** and **Tengu Juurai: Stormcluster** can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, **Tengu Stormcall**.\
+**Tengu Juurai: Titanbreaker** and **Tengu Juurai: Stormcluster** can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, **Tengu Stormcall**.  
 The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
 | Attribute | Burst |
@@ -183,7 +183,7 @@ Unleashing **Tengu Stormcall** will leave a **Weaker Crowfeather** at Kujou Sara
 {% tab title="C3" %}
 ### **The War Within**
 
-Increases the Level of **Subjugation: Koukou Sendou** by 3.\
+Increases the Level of **Subjugation: Koukou Sendou** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -196,7 +196,7 @@ The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou S
 {% tab title="C5" %}
 ### **Spellsinger**
 
-Increases the Level of **Tengu Stormcall** by 3.\
+Increases the Level of **Tengu Stormcall** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

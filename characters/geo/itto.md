@@ -65,8 +65,8 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 {% endtab %}
 
 {% tab title="Masatsu Zetsugi: Akaushi Burst!" %}
-**Press**\
-Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of **Superlative Superstrength**.\
+**Press**  
+Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of **Superlative Superstrength**.  
 
 Ushi will remain on the field and provide support in the following ways:  
 • Taunts surrounding opponents and draws their attacks.  
@@ -74,8 +74,8 @@ Ushi will remain on the field and provide support in the following ways:
 • When Ushi takes DMG, Arataki Itto gains 1 stack of **Superlative Superstrength**. Only 1 stack can be gained in this way every 2s.  
 • Ushi will flee when its HP reaches 0 or its duration ends. It will grant Arataki Itto 1 stack of **Superlative Superstrength** when it leaves.  
 
-**Hold**\
-Adjust throwing angle.\
+**Hold**  
+Adjust throwing angle.  
 Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the field at any one time.
 
 | Attribute | Ushi | 
@@ -147,9 +147,9 @@ When a party member uses attacks to obtain wood from a tree, they have a 25% cha
 {% tab title="Ascension 1" %}
 ### **Arataki Ichiban**
 
-When Arataki Itto uses consecutive **Arataki Kesagiri**, he obtains the following effects:\
-• Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.\
-• Increases his resistance to interruption.\
+When Arataki Itto uses consecutive **Arataki Kesagiri**, he obtains the following effects:  
+• Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.  
+• Increases his resistance to interruption.  
 These effects will be cleared once he stops performing consecutive slashes.
 {% endtab %}
 
@@ -172,7 +172,7 @@ After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stac
 {% tab title="C2" %}
 ### **Gather 'Round, It's a Brawl!**
 
-After using **Royal Descent: Behold, Itto the Evil!**, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.\
+After using **Royal Descent: Behold, Itto the Evil!**, each party member whose Element is Geo will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.  
 CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.
 
 * Itto counts himself as a Geo party member.
@@ -181,7 +181,7 @@ CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored 
 {% tab title="C3" %}
 ### **Horns Lowered, Coming Through**
 
-Increases the Level of **Masatsu Zetsugi: Akaushi Burst!** by 3.\
+Increases the Level of **Masatsu Zetsugi: Akaushi Burst!** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -194,7 +194,7 @@ When the Raging Oni King state caused by **Royal Descent: Behold, Itto the Evil!
 {% tab title="C5" %}
 ### **10 Years of Hanamizaka Fame**
 
-Increases the Level of **Royal Descent: Behold, Itto the Evil!** by 3.\
+Increases the Level of **Royal Descent: Behold, Itto the Evil!** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

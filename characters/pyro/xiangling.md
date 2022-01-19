@@ -81,7 +81,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 {% endtab %}
 
 {% tab title="Pyronado" %}
-Displaying her mastery over both fire and polearms, Xiangling sends a **Pyronado** whirling around her.\
+Displaying her mastery over both fire and polearms, Xiangling sends a **Pyronado** whirling around her.  
 The **Pyronado** will move with your character for the ability's duration, dealing Pyro DMG to all opponents in its path.
 
 | Attribute | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronade |
@@ -146,7 +146,7 @@ The last attack in a Normal Attack sequence applies the **Implode** status onto 
 {% tab title="C3" %}
 **Deepfry**
 
-Increase the level of **Pyronado** by 3.\
+Increase the level of **Pyronado** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -159,7 +159,7 @@ Maximum upgrade level is 15.
 {% tab title="C5" %}
 **Guoba Mad**
 
-Increase the Level of **Guoba Attack** by 3.\
+Increase the Level of **Guoba Attack** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

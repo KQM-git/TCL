@@ -70,7 +70,7 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 {% endtab %}
 
 {% tab title="Signed Edict" %}
-Summons blistering flames that deal AoE Pyro DMG.\
+Summons blistering flames that deal AoE Pyro DMG.  
 Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Seals**.
 
 | Effect | Skill |
@@ -93,10 +93,10 @@ Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Se
 {% tab title="Done Deal" %}
 Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying **Brilliance** to her.
 
-**Brilliance**\
-Has the following effects:\
-• Grants Yanfei a Scarlet Seal at fixed intervals.\
-• Increases the DMG dealt by her Charged Attacks.\
+**Brilliance**  
+Has the following effects:  
+• Grants Yanfei a Scarlet Seal at fixed intervals.  
+• Increases the DMG dealt by her Charged Attacks.  
 The effects of **Brilliance** will end if Yanfei leaves the field or falls in battle.
 
 | Effect | Burst |
@@ -170,22 +170,22 @@ Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
 {% tab title="C3" %}
 ### **Samadhi Fire-Forged**
 
-Increases the Level of **Signed Edict** by 3.\
+Increases the Level of **Signed Edict** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Supreme Amnesty**
 
-When **Done Deal** is used:\
-Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\
+When **Done Deal** is used:  
+Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.  
 This shield absorbs Pyro DMG 250% more effectively.
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Abiding Affidavit**
 
-Increases the Level of **Done Deal** by 3.\
+Increases the Level of **Done Deal** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 

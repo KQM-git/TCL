@@ -29,7 +29,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
 **Normal Attack**  
-Shoots gems that deal Geo DMG.\
+Shoots gems that deal Geo DMG.  
 Upon hit, grants Ningguang 1 **Star Jade**.
 
 | String | Talent 6% | Frames | MV/s | GU |
@@ -41,7 +41,7 @@ Upon hit, grants Ningguang 1 **Star Jade**.
 * Ningguang's Normal Attacks can be cancelled as soon as the **Star Jades** appear by her side by jumping or dashing.
 
 **Charged Attack**  
-Consumes 50 stamina to fire off a giant gem that deals Geo DMG.\
+Consumes 50 stamina to fire off a giant gem that deals Geo DMG.  
 If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
 
 | String | Talent 6% | Frames | MV/s | GU |
@@ -71,8 +71,8 @@ If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the 
 {% tab title="Jade Screen" %}
 Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence, dealing AoE Geo DMG.
 
-**Jade Screen**\
-• Blocks opponents' projectiles.\
+**Jade Screen**  
+• Blocks opponents' projectiles.  
 • Endurance scales based on Ningguang's Max HP.
 
 **Jade Screen** is considered a Geo Construct and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.
@@ -157,7 +157,7 @@ When a Normal Attack hits, it deals AoE Geo DMG.
 {% tab title="C2" %}
 ### **Shock Effect**
 
-When **Jade Screen** is shattered, its CD will reset.\
+When **Jade Screen** is shattered, its CD will reset.  
 This effect can occur once every 6s.
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
@@ -167,7 +167,7 @@ This effect can occur once every 6s.
 {% tab title="C3" %}
 ### **Majesty be the Array of Stars**
 
-Increases the Level of **Starshatter** by 3.\
+Increases the Level of **Starshatter** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
@@ -180,7 +180,7 @@ Maximum upgrade level is 15.
 {% tab title="C5" %}
 **Invincible be the Jade Screen**
 
-Increases the Level of **Jade Screen** by 3.\
+Increases the Level of **Jade Screen** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
