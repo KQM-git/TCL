@@ -29,13 +29,12 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 {% tabs %}
 {% tab title="Seal of Approval" %}
 **Normal Attacks**  
-Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
+Shoots fireballs that deal up to three counts of Pyro DMG.
 
-* When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal.
-* Yan Fei may possess a maximum of three **Scarlet Seals**
-  * Each time this effect is triggered the duration of currently-possessed Scarlet Seals will refresh.
-* Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear after 10 seconds or when she leaves the field.
-  * This stamina consumption reduction applies to all actions
+When Yanfei's Normal Attacks hit enemies, they will grant her a single **Scarlet Seal**. Yanfei may possess a maximum of 3 **Scarlet Seal**s, and each time this effect is triggered, the duration of currently possessed **Scarlet Seal**s will refresh.
+
+Each **Scarlet Seal** will decrease Yanfei's Stamina consumption g6 15% and will disappear when she leaves the field.
+
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -43,6 +42,9 @@ Yanfei shoots fireballs that deal up to three counts of Pyro DMG.
 | 2-Hit | 72.98% | 41 | 226.33%/s |
 | 3-Hit | 106.42% | 90 | 174.05%/s |
 | GU | 1A | ~ | ~ |
+
+**Notes**
+* This stamina consumption reduction applies to all actions
 
 **Charged Attack**  
 Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
@@ -68,9 +70,8 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 {% endtab %}
 
 {% tab title="Signed Edict" %}
-Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.
-
-* **Signed Edict** shatters frozen targets.
+Summons blistering flames that deal AoE Pyro DMG.\
+Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Seals**.
 
 | Effect | Skill |
 | :--- | :--- |
@@ -84,16 +85,19 @@ Summons flames that deal AoE Pyro DMG. Opponents hit by the flames will grant Ya
 | Damage Type | Skill |
 | CD | 9s |
 
+**Notes**
+* **Signed Edict** is **blunt** damage and shatters frozen targets.
+
 {% endtab %}
 
 {% tab title="Done Deal" %}
-Yanfei triggers a spray of intense flames that rush at nearby opponents dealing AoE Pyro DMG, granting her the maximum number of Scarlet Seals, and applying **Brilliance** to her.
+Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying **Brilliance** to her.
 
-**Brilliance:**  
-The following effects of Brilliance last until Yan Fei leaves the field or falls in battle.
-
-* Grants Yanfei a Scarlet Seal at fixed intervals
-* Increases the DMG dealt by her Charged Attacks
+**Brilliance**\
+Has the following effects:\
+• Grants Yanfei a Scarlet Seal at fixed intervals.\
+• Increases the DMG dealt by her Charged Attacks.\
+The effects of **Brilliance** will end if Yanfei leaves the field or falls in battle.
 
 | Effect | Burst |
 | :--- | :--- |
@@ -125,7 +129,7 @@ Displays the location of nearby resources unique to Liyue on the mini-map
 {% tab title="Ascension 1" %}
 ### **Proviso**
 
-When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
+When Yanfei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
 
 * The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 {% endtab %}
@@ -133,11 +137,14 @@ When Yan Fei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed
 {% tab title="Ascension 4" %}
 ### **Blazing Eye**
 
-When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+When Yanfei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
-| Type | Talent % | GU | Damage Type |
-| :--- | :--- | :--- | :--- |
-| Blazing Eye | 80% | 1A | Charged Attack |
+| Attribute | Blazing Eye |
+| --- | --- |
+| Talent % | 80% |
+| GU | 1A |
+| Damage Element | Pyro |
+| Damage Type | Charged Attack | 
 
 * **Blazing Eye** no noticeable ICD to trigger or pyro application.
   * This is on a separate ICD from her charged attack.
@@ -151,40 +158,41 @@ When Yan Fei's Charged Attacks deal CRIT Hits, she will deal an additional insta
 {% tab title="C1" %}
 ### **The Law Knows No Kindness**
 
-When Yan Fei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
+When Yanfei uses her Charged Attack, each existing **Scarlet Seal** additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Right of Final Interpretation**
 
-Increases Yan Fei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
+Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Samadhi Fire-Forged**
 
-Increases the Level of Signed Edict by 3.
+Increases the Level of **Signed Edict** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Supreme Amnesty**
 
-When Done Deal is used:
-
-* Creates a shield that absorbs up to 45% of Yan Fei's Max HP for 15s
-* This shield absorbs Pyro DMG 250% more effectively
+When **Done Deal** is used:\
+Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\
+This shield absorbs Pyro DMG 250% more effectively.
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Abiding Affidavit**
 
-Increases the Level of Done Deal by 3.
+Increases the Level of **Done Deal** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Extra Clause**
 
-Increases the maximum number of Scarlet Seals by 1.
+Increases the maximum number of **Scarlet Seals** by 1.
 
 * At 4 seals, Yanfei's charged attack will consume 0 stamina.
 {% endtab %}

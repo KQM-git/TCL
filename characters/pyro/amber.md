@@ -59,15 +59,16 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
-Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or being destroyed dealing AoE Pyro DMG.
+The ever-reliable Baron Bunny takes the stage.
 
-**Press**
+**Baron Bunny**\
+• Continuously taunts the enemy, drawing their fire.\
+• **Baron Bunny**'s HP scales with Amber's Max HP.\
+• When destroyed or when its timer expires, **Baron Bunny** explodes, dealing AoE Pyro DMG.
 
-* Throws **Baron Bunny** infront of Amber.
-
-**Hold**
-
-* Will let you aim and choose where to throw **Baron Bunny**.
+**Hold**\
+Adjusts the throwing direction of Baron Bunny.\
+The longer the button is held, the further the throw.
 
 | Effect | Skill |
 | :--- | :--- |
@@ -83,10 +84,10 @@ Summons **Baron Bunny** that will taunt the enemy and explode after 8 seconds or
 | Duration | 8s |
 | Cooldown | 15s |
 
+**Notes**
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
 * **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
-* A percentage of Amber's HP is used to determine how much damage **Baron Bunny** can take before exploding.
 * Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. 
   * Only environmental effects may apply the hydro aura. 
   * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
@@ -110,12 +111,13 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Duration | 2s |
 | CD | 12s |
 
-* Does 18 waves total over 2 seconds in the center of the Aoe.
+**Notes**
+* Applies 1A worth of pyro 6 times, following normal ICD rules.
+* Does 18 waves total over 2 seconds in the center of the AoE.
 * 8 of the waves cover approximately the outer half the size of the marker.
 * 10 waves cover the inner half of the marker.  
 * Anything in the outer half is expected to get hit a random number of times, with closer to the edge being lower in the number of hits.
 * The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent. 
-* Applies 1A worth of pyro 6 times, following normal ICD rules.
 {% endtab %}
 {% endtabs %}
 

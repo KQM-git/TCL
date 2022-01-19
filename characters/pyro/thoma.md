@@ -62,11 +62,9 @@ Thoma vaults forward with his polearm and delivers a flame-filled flying kick th
 At the moment of casting, Thoma's Elemental Skill applies Pyro to himself.  
 The DMG Absorption of the **Blazing Barrier** scales off Thoma's Max HP.  
 
-The Blazing Barrier has the following traits:
-* Absorbs Pyro DMG 250% more effectively.
-* When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
-* Thoma's E refreshing the shield for Burst does not make it lose Shield Strength. 
-* Losing the shield will reset its stacks.
+The Blazing Barrier has the following traits:\
+• Absorbs Pyro DMG 250% more effectively.\
+• When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
 
 The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain percentage of Thoma's Max HP.
 
@@ -89,6 +87,11 @@ The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain 
 | Shield Element | Pyro | 
 | Shield Duration | 8 s |
 | CD | 15s |
+
+**Notes**
+* Thoma's E refreshing the shield for Burst does not make it lose Shield Strength. 
+* Losing the shield will reset its stacks.
+
 {% endtab %}
 
 {% tab title="Crimson Ooyoroi" %}
@@ -98,9 +101,9 @@ Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE P
 While **Scorching Ooyoroi** is in effect, the active character's Normal Attacks will trigger **Fiery Collapse**, dealing AoE Pyro DMG and summoning a **Blazing Barrier**.  
 **Fiery Collapse** can be triggered once every 1s.  
 
-Except for the amount of DMG they can absorb, the **Blazing Barriers** created in this way are identical to those created by Thoma's Elemental Skill, **Blazing Blessing**:
-* Absorbs Pyro DMG 250% more effectively.
-* When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
+Except for the amount of DMG they can absorb, the **Blazing Barriers** created in this way are identical to those created by Thoma's Elemental Skill, **Blazing Blessing**:\
+• Absorbs Pyro DMG 250% more effectively.\
+• When a new **Blazing Barrier** is obtained, the remaining DMG Absorption of an existing **Blazing Barrier** will stack and its duration will be refreshed.
 
 The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain percentage of Thoma's Max HP.  
 If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
@@ -125,6 +128,7 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 | Scorching Ooyoroi Duration | 15 s |
 | CD | 20 s |
 
+**Notes**
 * The initial hit of **Crimson Ooyoroi** and **Fiery Collapse** damage has separate ICDs.
 * The **Blazing Barrier** from Crimson Ooyoroi will stack with an existing shield created by **Blazing Blessing**, retaining the HP from the previous **Blazing Barrier**.
 {% endtab %}
@@ -172,7 +176,8 @@ When a character protected by Thoma's own **Blazing Barrier** (Thoma excluded) i
 {% tab title="C3" %}
 ### **Fortified Resolve**
 
-Increases the Level of **Blazing Blessing** by 3. Maximum upgrade level is 15.
+Increases the Level of **Blazing Blessing** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -184,7 +189,8 @@ After using **Crimson Ooyoroi**, 15 Energy will be restored to Thoma.
 {% tab title="C5" %}
 ### **Raging Wildfire**
 
-Increases the Level of **Crimson Ooyoroi** by 3. Maximum upgrade level is 15.
+Increases the Level of **Crimson Ooyoroi** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}

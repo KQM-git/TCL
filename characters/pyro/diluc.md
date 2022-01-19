@@ -41,14 +41,16 @@ Diluc performs up to 4 consecutive attacks.
 | 4-Hit | 194.75% | 181 | 197.61%/s |
 
 **Charged Attack**  
-Diluc consumes 40 stamina a second to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
+Drains 40 stamina a second to perform continuous slashes.\
+At the end of the sequence, perform a more powerful slash.
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
 | Slash | 100.00% | 30 | 200%/s |
 | Final Slash | 181.25% | 29 | 375%/s |
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -58,9 +60,8 @@ Diluc consumes 40 stamina a second to perform continuous slashes. At the end of 
 {% endtab %}
 
 {% tab title="Searing Onslaught" %}
-Diluc performs a forward slash, dealing Pyro DMG
-
-This skill can be cast up to 3 times consecutively, with different effects. Enters CD if not cast again within 4s.
+Diluc performs a forward slash, dealing Pyro DMG.\
+This skill can be consecutively used 3 times. Enters CD if not cast again within 4s.
 
 | Attribute | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
 | :--- | :--- | :--- | :--- |
@@ -75,6 +76,7 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 | Damage Type | Skill | Skill | Skill | 
 | Cooldown | 10s | - | - |
 
+**Notes**
 * The cooldown starts after the first cast.
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
@@ -82,9 +84,9 @@ This skill can be cast up to 3 times consecutively, with different effects. Ente
 {% endtab %}
 
 {% tab title="Dawn" %}
-Diluc slashes in front of himself and releases a Phoenix, dealing Pyro DMG. The Phoenix flies forward dealing DoT Pyro DMG. Once the Phoenix reaches its destination, it explodes, dealing Pyro DMG.
+Releases intense flames to knock back nearby opponents, dealing Pyro DMG. The flames then converge into the weapon, summoning a **Phoenix** that flies forward and deals massive Pyro DMG to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.
 
-After the slash, Diluc infuses his weapon with Pyro.
+The searing flames that run down his blade cause it to be infused with Pyro.
 
 | Attribute | Slashing DMG | DoT DMG | Explosion DMG |
 | :--- | :--- | :--- | :--- |
@@ -105,6 +107,7 @@ After the slash, Diluc infuses his weapon with Pyro.
 | Infuse GU | 1A |
 | Duration | 8s | 
 
+**Notes**
 * The ICD for **Dawn** is shared between Slashing DMG, DoT DMG, and Explosions DMG.
 {% endtab %}
 {% endtabs %}
@@ -144,13 +147,15 @@ Diluc deals 15% increased DMG to opponents whose HP is above 50%.
 {% tab title="C2" %}
 #### **Searing Ember**
 
-When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s. This effect can stack up to 3 times and can only occur once every 1.5s.
+When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Last for 10s.\
+This effect can stack up to 3 times and can only occur once every 1.5s.
 {% endtab %}
 
 {% tab title="C3" %}
 #### **Fire and Steel**
 
-Increases the level of Searing Onslaught by 3.
+Increases the level of Searing Onslaught by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -162,13 +167,15 @@ If Searing Onslaught is recast more than 2s after the previous cast, it deals 40
 {% tab title="C5" %}
 #### **Phoenix, Harbinger of Dawn**
 
-Increases the Level of Dawn by 3.
+Increases the Level of Dawn by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 #### **Flaming Sword, Nemesis of the Dark**
 
-After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%. Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
+After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\
+Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 {% endtab %}
 {% endtabs %}
 

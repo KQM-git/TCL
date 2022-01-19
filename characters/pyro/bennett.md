@@ -50,7 +50,8 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 * All frame counts are done against Ruin Guards.
 * Enemies struck by Bennett's charged attack will be staggered or launched.
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -59,14 +60,17 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 | High Plunge DMG | 232.09% |
 {% endtab %}
 
-{% tab title="Passion Overload" %}
+{% tab title="Passion Overload" %} 
+Bennett puts all his fire and passion for adventuring into his sword. Results may vary based on how fired up he is...
+
 **Press**  
-* Bennett strikes once, dealing Pyro DMG.
+A single, swift flame strike that deals Pyro DMG.
 
-**Hold \(Short\)**
-
-* Level 1: Charges up to strike twice dealing Pyro DMG and launching enemies.
-* Level 2: Charges up to strike two times dealing Pyro DMG, with the last attack triggering an explosion that knocks away Bennett and the enemy.
+**Hold \(Short\)**  
+Charges up, resulting in different effects when unleashed based on the Charge Level.\
+• Level 1: Strikes twice, dealing Pyro DMG and launching opponents.\
+• Level 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.\
+Bennett takes no damage from being launched.
 
 | Attribute | Skill Press | Skill Hold \(Level 1\) | Skill Hold \(Level 2\) |
 | :--- | :--- | :--- | :--- |
@@ -81,7 +85,7 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 | Damage Type | Skill | Skill | Skill |
 | CD | 5s | 7.5s | 10s |
 
-
+**Notes**
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
 * When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
@@ -89,13 +93,12 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 {% endtab %}
 
 {% tab title="Fantastic Voyage" %}
-Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro DMG.
+Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration Field**.
 
-**Inspiration Field**
-
-* If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP. 
-* However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.
-* Continuously imbues characters within the AoE with Pyro.
+**Inspiration Field**  
+• If the health of a character within the AoE of **Inspiration Field** is less than or equal to 70%, their HP will continuously regenerate based on Bennett’s max HP.\
+• However, if the health of the character is greater than 70%, gain an ATK bonus based on Bennett’s base ATK.\
+• Continuously imbues characters within the AoE with Pyro.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -116,6 +119,7 @@ Bennett performs a jumping attack to create **Inspiration Field**, dealing Pyro 
 | Imbue | 1A |
 | Duration | 12s |
 
+**Notes**
 * Bennett field does not apply the buffs instantaneously on swap. **Inspiration Field** applies the ATK bonus and healing on the same tick every second. If you swap after the tick occurs, you will need to wait for the next tick to receive the ATK bonus.
   * Additionally, **Inspiration Field**'s buff lingers for a bit after the visual of the circle fades away.
 * **Inspiration Field's** ATK Bonus and **C6: Fire Ventures with Me** Pyro DMG Bonus will apply on its own damage calculation.

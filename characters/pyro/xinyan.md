@@ -38,7 +38,8 @@ Perform up to 4 consecutive strikes.
 | 4-Hit | 168.38% | 204 | 154.7%/s |
 
 **Charged Attack**  
-Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
+Drains 40 stamina a second to perform continuous spinning attacks against all nearby opponents.\
+At the end of the sequence, perform a more powerful slash. 
 
 | Type | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -48,7 +49,8 @@ Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more
 * Charged Attack has a wind up of 89 frames.
 * All frame counts are done against Ruin Guards.
 
-**Plunge Attack**
+**Plunge Attack**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -58,19 +60,18 @@ Xinyan consumes 40 stamina a second to keep spinning. At the end, perform a more
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
-Deal AoE Pyro Damage around Xinyan and summon a shield.
+Xinyan brandishes her instrument, dealing Pyro DMG on nearby opponents, forming a shield made out of her audience's passion.\
+The shield's DMG Absorption scales based on Xinyan's DEF and on the number of opponents hit.
 
-* Shield strength scales with Xinyan’s current Def and how many targets were hit.
-* These numbers are with A2 in effect, it reduces the number of targets that needs to be hit by 1 and is effectively always online.
-* Hitting 0 opponents grants Shield Level 1: **Ad Lib**.
-* Hitting 1 opponents grants Shield Level 2: **Lead-In**.
-* Hitting 2 or more opponents grants Shield Level 3: **Rave**
-* **Rave** will also deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
-* A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
+*These numbers are with A2 in effect, it reduces the number of targets that needs to be hit by 1 and is effectively always online.*\
+•  Hitting 0 opponents grants Shield Level 1: **Ad Lib**.\
+•  Hitting 1 opponents grants Shield Level 2: **Lead-In**.\
+•  Hitting 2 or more opponents grants Shield Level 3: **Rave**, which will also deal intermittent Pyro DMG to nearby opponents.
+
 
 | Attribute | Swing | Rave |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 237.44% | 47.04% |
+| Skill DMG \(T6%\) | 237.44% | 47.04% * 6 |
 | Tick Rate | - |  2s |
 | Particles | 4 | - |
 | Frames | 65 | - |
@@ -88,10 +89,15 @@ Deal AoE Pyro Damage around Xinyan and summon a shield.
 | Level 3 **Rave** | 201.6% Def + 1097 |
 | Elemental Type | Pyro |
 | Duration | 12s |
+**Notes**
+* **Rave** will deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
+* A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
+
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
-Xinyan Does a small AoE around her dealing Physical DMG and a larger one inflicting a Pyro DoT.
+Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd.
+The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby opponents.
 
 | Effect | Burst | DoT | 
 | :--- | :--- | :--- |
@@ -121,10 +127,9 @@ When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chan
 {% tab title="Ascension 1" %}
 ### **"The Show Goes On, Even Without an Audience..."**
 
-Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.
-
-* Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
-* Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.\
+• Shield Level 2: Lead-In requirement reduced to 1 opponent hit.\
+• Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -155,7 +160,8 @@ Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form 
 {% tab title="C3" %}
 ### **Double-Stop**
 
-Increases the Level of Sweeping Fervor by 3.
+Increases the Level of Sweeping Fervor by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -167,7 +173,8 @@ Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s.
 {% tab title="C5" %}
 ### **Screamin' for an Encore**
 
-Increases the Level of Riff Revolution by 3.
+Increases the Level of Riff Revolution by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
