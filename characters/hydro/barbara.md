@@ -41,14 +41,14 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 * 3 hits / 2.5s ICD
 
 **Charged Attack**  
-Consume 50 Stamina to deal AoE Hydro DMG.
+Consume 50 Stamina to deal AoE Hydro DMG after a short casting time.
 
 | String | Talent 6% | Frames | MV/s | GU | ICD |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack | 232.74% | 90 | 155.16%/s | 1A | 0.5s |
 
 **Plunge Attack**  
-Plunge from mid-air to deal AoE Hydro DMG.
+Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
 | Type | Talent 6% | GU |
 | :--- | :--- | :--- |
@@ -58,14 +58,13 @@ Plunge from mid-air to deal AoE Hydro DMG.
 {% endtab %}
 
 {% tab title="Let the Show Begin♪" %}
-Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applying the Wet Status to them.
+Summons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding opponents and applying the Wet status to them.
 
-**Melody Loop:**
-
-* On hit, Barbara’s Normal Attacks heal your own party members and nearby teammates for a certain amount. Barbara’s Charged Attack generates 4 times the amount of healing.
-* Periodically regenerates your own active character’s HP.
-* Applies brief periodic Hydro aura to the active character.
-* Applies Hydro aura to opponents who come in contact.
+**Melody Loop**\
+• On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.\
+• On hit, Barbara's Charged Attack generates 4 times the amount of healing.
+• Periodically regenerates your own active character's HP.\
+• Applies the Wet status to the character and to opponents who come in contact with them.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -78,12 +77,13 @@ Summon a **Melody Loop**, dealing Hydro DMG to surrounding opponents and applyin
 | Duration | 15s |
 | Cooldown | 32s |
 
+**Notes**
 * Cast time can be reduced by performing a swap cancel.
 
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
-Heals your own party members and nearby teammates for a large amount of HP.
+Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -112,7 +112,8 @@ The Stamina Consumption of characters within **Let the Show Begin♪**’s **Mel
 {% tab title="Ascension 4" %}
 ### **Encore**
 
-When your active character gains an Elemental Orb/Particle, the duration of **Melody Loop** is extended by 1s. The maximum extension is 5s.
+When your active character gains an Elemental Orb/Particle, the duration of **Melody Loop** is extended by 1s.\
+The maximum extension is 5s.
 {% endtab %}
 {% endtabs %}
 
@@ -135,7 +136,8 @@ During the ability’s duration, your active character gains a 15% Hydro DMG Bon
 {% tab title="C3" %}
 ### **Star of Tomorrow**
 
-Increases the Level of **Shining Miracle♪** by 3.
+Increases the Level of **Shining Miracle♪** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -148,17 +150,18 @@ A maximum of 5 energy can be regenerated in this manner with any one Charged Att
 {% tab title="C5" %}
 ### **The Purest Companionship**
 
-Increases the Level of **Let the Show Begin♪** by 3.
+Increases the Level of **Let the Show Begin♪** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Dedicating Everything to You**
 
-When Barbara is in the party but not on the field, and one of your own party members falls:
+When Barbara is in the party but not on the field, and one of your own party members falls:\
+• Automatically revives the fallen character.\
+• Fully restores the revived character’s HP to 100%\
+This effect can only occur once every 15 mins.
 
-* Automatically revives the fallen character.
-* Fully restores the revived character’s HP to 100%
-* This effect can only occur once every 15 mins.
 * This effect will not occur if the character's fallen animation is canceled by switching to another character. For more details, see: [C6 Revive Can Be Canceled by Switching](../../evidence/characters/hydro/barbara.md#c6-revive-can-be-canceled-by-switching)
 {% endtab %}
 {% endtabs %}

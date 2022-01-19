@@ -47,10 +47,13 @@ Perform up to 6 consecutive shots with a bow.
 * MV/s stated is without recovery and assumes a standing combat-neutral startup. 
 
 **Charged Attack**  
-Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply the **Riptide** status.
+Perform a more precise Aimed Shot with increased DMG.
+While aiming, the power of Hydro will accumulate on the arrowhead. A arrow fully charged with the torrent will deal Hydro DMG and apply the **Riptide** status.
 
-* **Riptide Flash:** Hitting an opponent affected by Riptide with a fully charged aimed shot deals consecutive bouts of AoE DMG. Can occur once every 0.7s.
-* **Riptide Burst:** Defeating an opponent affected by riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
+**Riptide**\
+Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.\
+• **Riptide Flash**: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.\
+• **Riptide Burst**: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,14 +62,14 @@ Perform a more precise Aimed Shot. Once fully charged, deal Hydro DMG and apply 
 | Riptide Flash | 17.63% \* 3 | ~ | ~ | 1A |
 | Riptide Burst | 86.8% | ~ | ~ | 2B |
 
+**Notes**
 * Aimed Shot frame counts are done using M1 Aimed Spam.
 * Fully Charged frame counts are done using ARCC Shots.
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
 
 **Plunge**  
-Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.
-
-* When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, he cannot perform a plunge attack.
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.\
+When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, he cannot perform a plunge attack.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -87,19 +90,11 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | ICD | None |
 | Damage Element | Hydro |
 | Damage Type | Skill |
-
-* **Melee Stance:**
-  * Converts Tartaglia’s Normal and Charged Attacks into Hydro DMG.
-  * Cannot be overridden by any other elemental infusion.
-  * After 30s, or when it is unleashed again, this skill will end. Tartaglia will return to his **Ranged Stance** and this skill will enter CD.
-  * The longer Tartaglia stays in Melee Stance, the longer the CD.
-  * If the skill ended automatically after 30s, the CD is even longer.
-
-| Melee Stance | Time |
-| :--- | :--- |
 | Max Duration | 30s |
 | Preemptive CD | 6s ~ 36s |
 | Max CD | 45s |
+
+In this Stance, Tartaglia's Normal and Charged Attacks are converted to Hydro DMG that cannot be overridden by any other elemental infusion and change as follows:
 
 **Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
@@ -126,10 +121,11 @@ Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 * All frame counts are done against a Ruin Guard.
 
 **Riptide Slash**  
-Hitting an opponent affected by **Riptide** with a melee attack unleashes a **Riptide Slash**, dealing AoE Hydro DMG.
+Hitting an opponent affected by **Riptide** with a melee attack unleashes a **Riptide Slash** that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.
 
-* This DMG can only occur once every 1.5s.
-* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
+After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.
+
+If the return to a ranged stance occurs automatically after 30s, the CD is even longer.
 
 | Attribute | Riptide Slash  |
 | :--- | :--- |
@@ -141,18 +137,18 @@ Hitting an opponent affected by **Riptide** with a melee attack unleashes a **Ri
 | Damage Element | Hydro |
 | Damage Type | Skill |
 
+**Notes**
+* Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
 * **Riptide** and **Riptide Slash** can be applied and triggered by Aimed Shot, both Physical and Hydro, by switching to melee stance before the arrow hits an enemy.
 
 {% endtab %}
 
 {% tab title="Havoc: Obliteration" %}
-Performs a different attack depending on the stance in which it is cast.
+Performs different attacks based on what stance Tartaglia is in when casting.
 
-**Ranged Stance: Flash of Havoc**
-
-* Fire a Hydro-imbued magic arrow, dealing AoE Hydro DMG.
-* Apply Riptide status to enemies hit.
-* Returns 20 Energy after use.
+**Ranged Stance: Flash of Havoc**  
+Swiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status.\
+Returns a portion of its Energy Cost after use.\
 
 | Attribute | Ranged Burst |
 | :--- | :--- |
@@ -167,14 +163,12 @@ Performs a different attack depending on the stance in which it is cast.
 | CD | 15s |
 | MV/s | 611.3%/s |
 
-**Melee Stance: Light of Obliteration**
+**Melee Stance: Light of Obliteration**  
+Performs a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.
 
-* Performs a slash with a large AoE, dealing massive Hydro DMG.
-* Triggers **Riptide Blast**:
-  * Clears **Riptide** status.
-  * Triggers a Hydro explosion that deals AoE Hydro DMG.
-  * DMG Dealt is considered Elemental Burst Damage.
-  * **Riptide Blast** does not snapshot
+**Riptide Blast**  
+When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG.\
+DMG dealt in this way is considered Elemental Burst DMG.
 
 | Attribute | Melee Burst | Riptide Blast |
 | :--- | :--- | :--- |
@@ -187,6 +181,9 @@ Performs a different attack depending on the stance in which it is cast.
 | Energy Cost | 60 | -- |
 | CD | 15s | -- |
 | MV/s | 505.7%/s | -- |
+
+**Notes**
+* **Riptide Blast** does not snapshot
 
 {% endtab %}
 {% tab title="Riptides" %}
@@ -253,15 +250,17 @@ When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Ele
 {% tab title="C3" %}
 ### **Abyssal Mayhem: Vortex of Turmoil**
 
-Increases the Level of **Foul Legacy: Raging Tide** by 3.
+Increases the Level of **Foul Legacy: Raging Tide** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Abyssal Mayhem: Hydrospout**
 
-If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
+If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.\
+Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.
 
-* This constellation effect is not subject to the ICD’s that would typically apply to these two effects, nor do they have any effect on those regular time intervals.
+* This constellation effect is not subject to ICD.
 * All of **Riptide** effects triggered by C4 do not snapshot.
 * All of **Riptide** effects triggered by C4 are considered Normal Attack DMG.
 
@@ -270,13 +269,15 @@ If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Ript
 {% tab title="C5" %}
 ### **Havoc: Formless Blade**
 
-Increases the Level of **Havoc: Obliteration** by 3.
+Increases the Level of **Havoc: Obliteration** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Havoc: Annihilation**
 
-When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset. This effect will only take place once Tartaglia returns to his Ranged Stance.
+When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.\
+This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% endtab %}
 {% endtabs %}
 

@@ -86,6 +86,7 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 | Tick Rate | 2s |
 | Cooldown | 20s |
 
+**Notes**
 * Does a 0~1 (1:2) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field.
   * If **Bake-Kurage** disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
 * **Bake-Kurage**'s range has a radius of ~2.5 tiles.
@@ -99,10 +100,9 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a **Ceremonial Garment** made from the flowing waters of Sangonomiya. 
 
 **Ceremonial Garment**  
-
-* Sangonomiya Kokomi's Normal Attack, Charged Attack and **Bake-Kurage** DMG are increased based on her Max HP. 
-* When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP. 
-* Increases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.
+• Sangonomiya Kokomi's Normal Attack, Charged Attack and **Bake-Kurage** DMG are increased based on her Max HP.  
+• When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.  
+• Increases Sangonomiya Kokomi's resistance to interruption and allows her to move on the water's surface.
 
 These effects will be cleared once Sangonomiya Kokomi leaves the field.
 
@@ -126,6 +126,7 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | Bake-Kurage DMG Bonus | 9.93% Max HP |
 | Duration | 10s |
 
+**Notes**
 * The DMG Bonus from **Ceremonial Garment** can be extended if an attack is buffered right before her **Nereid's Ascension** duration ends.
 * Kokomi cannot absorb pre-fed particles during her Elemental Burst animation.
 
@@ -189,7 +190,8 @@ Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters
 {% tab title="C3" %}
 ### **The Moon, A Ship O'er the Seas**
 
-Increases the Level of **Nereid's Ascension** by 3. Maximum upgrade level is 15.
+Increases the Level of **Nereid's Ascension** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -201,7 +203,8 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 {% tab title="C5" %}
 ### **All Streams Flow to the Sea**
 
-Increases the Level of **Kurage's Oath** by 3. Maximum upgrade level is 15.
+Increases the Level of **Kurage's Oath** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -240,7 +243,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 | High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 {% endtab %}
 
-{% tab title="Kurage's Oath" %}
+{% tab title="Kurage&apos;s Oath" %}
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -251,7 +254,7 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 **Cooldown:**  20s
 {% endtab %}
 
-{% tab title="Nereid's Ascension" %}
+{% tab title="Nereid&apos;s Ascension" %}
 
 |  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
