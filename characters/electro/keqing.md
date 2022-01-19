@@ -55,7 +55,8 @@ Keqing consumes 25 stamina to unleash 2 rapid strikes.
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -65,20 +66,18 @@ Keqing consumes 25 stamina to unleash 2 rapid strikes.
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
-**Press**  
-Keqing throws a **Lightning Stiletto** toward an enemy that deals Electro DMG in a small AoE and leaves a **Stiletto Mark** on field.
+**Press**\
+Hurls a **Lightning Stiletto** that annihilates her opponents like the swift thunder.\
+When the **Stiletto** hits its target, it deals Electro DMG to opponents in a small AoE, and places a **Stiletto Mark** on the spot hit.
 
-**Hold**  
-Keqing adjusts the direction that the **Lightning Stiletto** will be thrown and leaves a **Stiletto Mark** on field.
+**Hold**\
+Hold to adjust the direction in which the **Stiletto** shall be thrown.\
+**Stilettos** thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.
 
-* Stiletto Mark can be left suspended in the air.
-
-**Lightning Stiletto \(recast\)**  
-When Keqing uses Stellar Restoration while the **Stiletto Mark** is on field, Keqing will blink to the location of the **Mark** and unleashes one slashing attack that deals AoE Electro DMG.
-
-* When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
-
-When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she will do a **Thunderclap Slash** at the **Mark's** location that deals AoE Electro DMG.
+**Lightning Stiletto \(recast\)**\
+If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while its duration lasts, it will clear the **Stiletto Mark** and produce different effects:\
+• If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\
+• If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.\
 
 | Attribute | Lightning Stiletto | Thunderclap Slash |
 | :--- | :--- | :--- |
@@ -95,13 +94,16 @@ When Keqing uses a Charged Attack while the **Stiletto Mark** is on field she wi
 | Damage Type |  Skill | - |
 | CD | 7.5s | - |
 
+**Notes**
+* When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
 
 {% endtab %}
 
 {% tab title="Starward Sword" %}
-Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of AoE Electro DMG and finally does a large slash for "massive" AoE Electro DMG.
+Keqing unleashes the power of lightning, dealing Electro DMG in an AOE.\
+She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of Electro DMG. The final attack deals massive AoE Electro DMG.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -117,6 +119,7 @@ Keqing deals deals an initial AoE Electro attack, then 8 consecutive strikes of 
 | Energy Cost | 40 |
 | CD | 12s |
 
+**Notes**
 * Keqing exits her Starward Sword before the last slash and can swap or attack.
 
 {% endtab %}
@@ -171,7 +174,8 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 {% tab title="C2" %}
 ### **Keen Extraction**
 
-When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle. This effect can only occur once every 5s.
+When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle.\
+This effect can only occur once every 5s.
 
 * The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
   * For more details, see the [full entry](../../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) in Keqing's Evidence Vault.
@@ -181,7 +185,8 @@ When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they
 {% tab title="C3" %}
 ### **Foreseen Reformation**
 
-Increases the Level of **Starward Sword** by 3.
+Increases the Level of Starward Sword by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -193,7 +198,8 @@ For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is 
 {% tab title="C5" %}
 ### **Beckoning Stars**
 
-Increases the Level of **Stellar Restoration** by 3.
+Increases the Level of Stellar Restoration by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}

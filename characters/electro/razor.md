@@ -43,14 +43,18 @@ Razor performs 4 consecutive strikes.
 * 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
 
 **Charged Attack**  
-Razor consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
+Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.\
+At the end of the sequence, perform a more powerful slash. 
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Slash | 90.9% | 30 | 181.8%/s |
 | Final Slash | 164.38% | 29 | 340.1%/s |
 
-**Plunge**
+* Consumes 40 stamina per second.
+
+**Plunge**  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -60,19 +64,19 @@ Razor consumes 40 stamina a second to keep spinning. At the end, perform a more 
 {% endtab %}
 
 {% tab title="Claw and Thunder" %}
-**Press**  
-* Razor lunges forward and slams down with a claw that deals AoE Electro damage in front of Razor.
+Hunts his prey using the techniques taught to him by his master and his lupical.
 
-* When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.
-* The duration of the sigils is 18s and is refreshed every time you press **Claw and Thunder**.
+**Press**  
+Swings the Thunder Wolf Claw, dealing Electro DMG to opponents in front of Razor.\
+Upon striking an opponent, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\
+Razor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.
 
 **Hold**
 
-Razor slams his hand down, dealing Electro damage in a wide circle around him.
+Gathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.\
+Each Electro Sigil cleared in this manner will be converted into Energy for Razor.
 
-* Any active **Sigils** will be absorbed by Razor granting him 5 energy for each sigil.
-* This energy is not affected by ER.
-* Causes a small self-knockback when used.
+
 
 | Attribute | Skill (Tap) | Skill (Hold) |
 | :--- | :--- | :--- |
@@ -86,24 +90,35 @@ Razor slams his hand down, dealing Electro damage in a wide circle around him.
 | Damage Type | Skill | Skill | 
 | CD | 6s | 10s | 
 
+**Notes**
+* When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.
+* The duration of the sigils is 18s and is refreshed every time you press **Claw and Thunder**.
 * **Claw and Thunder**'s animation is different and slightly slower during **Lightning Fang**.
+* During **Claw and Thunder** (Hold), any active **Sigils** will be absorbed by Razor granting him 5 energy for each sigil.
+  * This energy is not affected by ER.
+* **Claw and Thunder** (Hold) causes a small self-knockback when used.
 
 {% endtab %}
 
 {% tab title="Lightning Fang" %}
-Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo attack after each normal attack.
+Summons **the Wolf Within**, which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.\
+**The Wolf Within** will fight alongside Razor for the skill's duration.
 
-* The echo is considered Electro DMG.
-* Any active **Sigils** will be absorbed by Razor granting him 5 energy for each **Sigil**.
-* Increases attack speed by a % decided by talent level.
-* Razor also gains 80% Electro RES bonus, immunity against Electro-Charged, and resistance to interruption.
-* Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.  
-* While the effects of **Elemental Burst: Lightning Fang** are active, the energy particle generation of **Elemental Skill: Claw and Thunder** is disabled.
+**The Wolf Within**\
+• Strikes alongside Razor's normal attacks, dealing Electro DMG.\
+• Raises Razor's ATK SPD and Electro RES.\
+• Causes Razor to be immune to DMG inflicted by the Electro-Charged status.\
+• Disables Razor's Charged Attacks.\
+• Increases Razor's resistance to interruption.\
+These effects end when Razor leaves the battlefield.
+
+When Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.
 
 | Attribute | Burst | Echo |
 | :--- | :--- | :--- |
 | Skill DMG \(T6%\) | 224% | 33.6% | 
-| Attack Speed | 36% | - |
+| Attack Speed \(T6%\) | 36% | - |
+| Electro RES Bonus | 80% |
 | Frames | 62 | - |
 | GU | 2B | 1A |
 | ICD | - | 3 hits/2.5s |
@@ -114,6 +129,10 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 | Duration | 15s | 15s |
 | CD | 20s | - |
 
+**Notes**
+* Any active **Sigils** will be absorbed by Razor granting him 5 energy for each **Sigil**.
+* Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.  
+* While the effects of **Elemental Burst: Lightning Fang** are active, the energy particle generation of **Elemental Skill: Claw and Thunder** is disabled.
 * The duration of **Lightning Fang** can be extended by hitlag
 * Superconduct triggered by enemy Cryo attacks while Razor's **Lightning Fang** is active will affect nearby enemies as well as Razor.
 * Bennett’s **Fantastic Voyage** self pyro application can react with Razor’s self electro application to proc overload on yourself. 
@@ -128,16 +147,15 @@ Razor summons **The Wolf Within** which does Aoe Electro DMG and gains a echo at
 {% tab title="Passive" %}
 ### **Wolvensprint**
 
-Decreases sprinting Stamina consumption for your own party members by 20%.
-
-* Not stackable with Passive Talents that provide the exact same effects.
+Decreases sprinting Stamina consumption for your own party members by 20%.\
+Not stackable with Passive Talents that provide the exact same effects.
 
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Awakening**
 
-Decreases **Claw and Thunder**'s CD by 18%.  
+Decreases **Claw and Thunder**'s CD by 18%.\
 Using **Lightning Fang** resets the CD of **Claw and Thunder**.
 
 {% endtab %}
@@ -167,7 +185,8 @@ Increases CRIT Rate against opponents with less than 30% HP by 10%.
 {% tab title="C3" %}
 ### **Soul Companion**
 
-Increases the level of **Lightning Fang** by 3.
+Increases the Level of **Lightning Fang** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -179,13 +198,15 @@ When casting **Claw and Thunder** \(Press\), opponents hit will have their DEF d
 {% tab title="C5" %}
 ### **Sharpened Claws**
 
-Increases the Level of **Claw and Thunder** by 3.
+Increases the Level of **Claw and Thunder** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Lupus Fulguris**
 
-Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG. When Razor is not under the effect of **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil**.
+Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.\
+When Razor is not under the effect of **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil**.
 
 * C6 damage instance has no ability type scaling tags.
 

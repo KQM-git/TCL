@@ -51,7 +51,7 @@ Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 | Charged Attack | 247.97% | 95 | 156.6%/s | 1A | 0.5s |
 
 **Plunge Attack**  
-Plunge towards the ground below from mid-air to deal AoE Electro DMG.
+Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -65,15 +65,12 @@ Plunge towards the ground below from mid-air to deal AoE Electro DMG.
 Channels the power of lightning to sweep bothersome matters away.
 
 **Press**  
-Releases a homing **Lightning Orb**.
-
-* On hit, it deals Electro DMG, and applies a stack of the **Conductive** status \(Max 3 stacks\) to opponents in a small AoE.
+Releases a homing **Lightning Orb**.\
+On hit, it deals Electro DMG, and applies a stack of the **Conductive** status (max 3 stacks) to opponents in a small AoE.
 
 **Hold**  
-After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.
-
-* Deals extra damage to opponents based on the number of **Conductive** stacks applied to them.
-* Clears **Conductive** status on hit.
+After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.\
+Deals great amounts of extra damage to opponents based on the number of **Conductive** stacks applied to them, and clears their **Conductive** status.
 
 | Attribute | Tap  | Hold |
 | :--- | :--- | :--- |
@@ -102,8 +99,7 @@ After an extended casting time, calls down lightning from the heavens, dealing m
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
-Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.
-
+Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.\
 The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
 
 | Attribute | Burst |
@@ -169,7 +165,8 @@ Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 {% tab title="C1" %}
 ### **Infinite Circuit**
 
-Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A maximum of 10 Energy can be regenerated in this manner at any one time.
+Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.\
+A maximum of 10 Energy can be regenerated in this manner at any one time.
 
 * This only applies to the Hold E variant.
 * This summons a single special particle that only provides energy if Lisa is on field. 
@@ -179,17 +176,17 @@ Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**. A
 {% tab title="C2" %}
 ### **Electromagnetic Field**
 
-Holding **Violet Arc** has the following effects:
-
-* Increases DEF by 25%.
-* Increases Lisa’s resistance to interruption.
+Holding **Violet Arc** has the following effects:\
+• Increases DEF by 25%.\
+• Increases Lisa's resistance to interruption.
 
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Resonant Thunder**
 
-Increases the Level of **Lightning Rose** by 3.
+Increases the Level of **Lightning Rose** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -205,7 +202,8 @@ Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 {% tab title="C5" %}
 ### **Electrocute**
 
-Increases the Level of **Violet Arc** by 3.
+Increases the Level of **Violet Arc** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}

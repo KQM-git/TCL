@@ -41,23 +41,27 @@ Beidou performs up to 5 consecutive attacks.
 | 4-Hit | 125.75% | 178 | 155.2%/s |
 | 5-Hit | 163% | 246 | 152.1%/s |
 
+**Notes**\
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
 
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
 * Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
 
 **Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes. At the end of the 5 seconds, perform a more powerful slash.
+Beidou consumes 40 stamina a second to perform continuous slashes.\
+At the end of the 5 seconds, perform a more powerful slash.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Slash | 81.75% | 35 | 140.1%/s |
 | Final Slash | 148% | 32 | 277.5%/s |
 
+**Notes**
 * Charged Attack wind up is 71 frames long.
 * All frame counts are done against a Ruin Guard
 
-**Plunge**
+**Plunge**  
+Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -67,15 +71,18 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 {% endtab %}
 
 {% tab title="Tidecaller" %}
-**Press**  
-* Beidou swings her blade dealing Electro DMG.
+Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.
 
-**Hold**
+**Press**\
+Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.
 
-* Lifts her weapon up as a shield, max DMG absorbed scaled off Beidou's max HP.
-* Upon release, shield destruction, or max hold duration, Beidou will swing her blade once to deal Electro DMG.
-* Damage dealt scales with the number of times Beidou is attacked during the skill's duration. Max DMG bonus is given if she is attacked twice.
-* The shield posses 250% DMG absorption efficiency and applies Electro to Beidou upon activation.
+**Hold**\
+Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\
+Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.
+
+The shield possesses the following properties:\
+• Has 250% Electro DMG Absorption Efficiency.\
+• Applies the Electro element to Beidou upon activation.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -111,13 +118,12 @@ Beidou consumes 40 stamina a second to perform continuous slashes. At the end of
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
-Beidou creates a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
+Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
-**Thunderbeast's Targe**
-
-* When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.
-* Increases active character’s resistance to interruption and decreases DMG taken.
-* A maximum of 1 **lightning discharge** can be triggered per second.
+**Thunderbeast's Targe**\
+• When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.\
+•  Increases active character’s resistance to interruption and decreases DMG taken.\
+A maximum of 1 **lightning discharge** can be triggered per second.
 
 | Attribute | Burst | Lightning Discharge |
 | :--- | :--- | :--- |
@@ -167,11 +173,9 @@ Counterattacking with **Tidecaller** at the precise moment when the character is
 {% tab title="Ascension 4" %}
 ### **Lightning Storm**
 
-Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus:
-
-* DMG dealt by Normal and Charged Attacks is increased by 15%.
-* ATK SPD of Normal and Charged Attacks is increased by 15%.
-* Greatly reduced delay before unleashing charged attacks.
+Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+* DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.
+* Greatly reduced delay before unleashing Charged Attacks.
 
 {% endtab %}
 {% endtabs %}
@@ -182,9 +186,9 @@ Gain the following effects for 10s after unleashing **Tidecaller** with its maxi
 {% tab title="C1" %}
 ### **Sea Beast's Scourge**
 
-When **Stormbreaker** is used, Beidou creates a shield that absorbs 16% of her Max HP for 15s.
-
-* This shield absorbs Electro DMG 250% more effectively.
+When **Stormbreaker** is used:\
+Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\
+This shield absorbs Electro DMG 250% more effectively.
 
 {% endtab %}
 
@@ -197,26 +201,36 @@ When **Stormbreaker** is used, Beidou creates a shield that absorbs 16% of her M
 {% tab title="C3" %}
 ### **Summoner of Storm**
 
-Increases the level of **Tidecaller** by 3.
+Increases the Level of **Tidecaller** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Stunning Revenge**
 
-Within 10s of taking DMG, Beidou’s Normal Attacks and Charged Attacks gain 20% additional Electro DMG echo that applies 1A Electro.
+Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% Electro DMG for 10s.
 
+| Attribute | Stunning Revenge |
+| --- | --- |
+| Skill DMG | 20% |
+| GU | 1A |
+| ICD | 3 hit / 2.5s | 
+| Damage Element | Electro | 
+| Damage Type | None |
+
+**Notes**
+* **Stunning Revenge** DMG has 3 hit / 2.5s ICD and shares ICD on Normal Attack, Charged Attack and with **Stormbreaker**'s **lightning discharges**. 
 * Use N2 cancels to maximize Electro DMG.
-* C4 DMG instance has no ability type scaling tags. 
 * C4 can be activated by certain teammate's hit, e.g., Kujou Sara's Tengou Juurai.
 * C4 is activated on hit, regardless taking damage or not. So it can be activated through shields, either her own or allies'.
-* C4 has 3 hit / 2.5s ICD and shares ICD on Normal Attack, Charged Attack and with **Stormbreaker**'s **lightning discharges**. 
 
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Crimson Tidewalker**
 
-Increases the Level of **Stormbreaker** by 3.
+Increases the Level of Stormbreaker by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
@@ -224,6 +238,7 @@ Increases the Level of **Stormbreaker** by 3.
 
 During the duration of **Stormbreaker**, the Electro RES of surrounding opponents is decreased by 15%.
 
+**Notes**
 * The range of this effect is extremely short at just over 1 abyss tile of range.
 * The initial cast of Beidou's Burst doesn't benefit from her C6.
 {% endtab %}

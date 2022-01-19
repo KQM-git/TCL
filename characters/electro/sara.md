@@ -40,7 +40,9 @@ Perform up to 5 consecutive shots with a bow.
 | Recovery | -- | 195 | 104.00%/s |
 
 **Charged Attacks**  
-Perform a more precise Aimed Shot with increased DMG. While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG. When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
+Perform a more precise Aimed Shot with increased DMG.\
+While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.\
+When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
 | String | Talent 6% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
@@ -59,9 +61,11 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 {% endtab %}
 
 {% tab title="Tengu Stormcall" %}
-Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather. Gains **Crowfeather Cover** for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, **Crowfeather Cover** will be consumed, and will leave a **Crowfeather** at the target location. 
+Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\
+Gains **Crowfeather Cover** for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, **Crowfeather Cover** will be consumed, and will leave a **Crowfeather** at the target location.
 
-**Crowfeathers** will trigger **Tengu Juurai: Ambush** after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK. The ATK Bonuses from different **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
+**Crowfeathers** will trigger **Tengu Juurai: Ambush** after a short time, dealing Electro DMG and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\
+The ATK Bonuses from different **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -78,6 +82,7 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 | Duration | 18s |
 | CD | 10s |
 
+**Notes**
 * **Tengu Stormcall** only buffs the on-field characters the frame before the Crowfeather Explosion, this also applies to coop members.
 * Triggering **Tengu Juurai: Ambush** doesn't require hitting an enemy, just a fully-charged aimed shot.
 * **Tengu Juurai: Ambush** DMG is snapshot upon **Tengu Stormcall** cast.
@@ -97,7 +102,8 @@ Retreats rapidly with the speed of a tengu, summoning the protection of the Crow
 {% tab title="Subjugation: Koukou Sendou" %}
 Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, **Tengu Juurai: Titanbreaker** spreads out into 4 consecutive bouts of **Tengu Juurai: Stormcluster,** dealing AoE Electro DMG.
 
-**Tengu Juurai: Titanbreaker** and **Tengu Juurai: Stormcluster** can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, **Tengu Stormcall**. The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
+**Tengu Juurai: Titanbreaker** and **Tengu Juurai: Stormcluster** can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, **Tengu Stormcall**.\
+The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and their effects and duration will be determined by the last **Tengu Juurai** to take effect.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -112,6 +118,7 @@ Casts down **Tengu Juurai: Titanbreaker**, dealing AoE Electro DMG. Afterwards, 
 | Energy Cost | 80 |
 | CD | 20s |
 
+**Notes**
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
@@ -154,13 +161,14 @@ When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy
 {% tab title="C1" %}
 ### **Crow's Eye**
 
-When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of Tengu Stormcall is decreased by 1s. This effect can be triggered once every 3s.
+When **Tengu Juurai** grant characters ATK Bonuses or hits opponents, the CD of **Tengu Stormcall** is decreased by 1s. This effect can be triggered once every 3s.
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Dark Wings**
 
-Unleashing Tengu Stormcall will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
+Unleashing **Tengu Stormcall** will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
+
 | Type | Talent 6% |
 | :--- | :--- |
 | DMG | 176.06% * 0.3 |
@@ -175,7 +183,8 @@ Unleashing Tengu Stormcall will leave a **Weaker Crowfeather** at Kujou Sara's o
 {% tab title="C3" %}
 ### **The War Within**
 
-Increases the Level of **Subjugation: Koukou Sendou** by 3. Maximum upgrade level is 15.
+Increases the Level of **Subjugation: Koukou Sendou** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
@@ -187,7 +196,8 @@ The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou S
 {% tab title="C5" %}
 ### **Spellsinger**
 
-Increases the Level of **Tengu Stormcall** by 3. Maximum upgrade level is 15.
+Increases the Level of **Tengu Stormcall** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}

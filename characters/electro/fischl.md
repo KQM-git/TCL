@@ -30,7 +30,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 {% tabs %}
 {% tab title="Bolts of Downfall" %}
 **Normal Attacks**  
-Fischl performs up to 5 shots with a bow.
+Perform up to 5 consecutive shots with a bow.
 
 | String | Talent 6% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
@@ -43,8 +43,9 @@ Fischl performs up to 5 shots with a bow.
 
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 
-**Aimed Shot**  
-Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will deal Electro DMG.
+**Charged Attack**  
+Perform a more precise Aimed Shot with increased DMG.\
+While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
 
 | String | Talent 6% | Frames | MV/s |  GU |
 | :--- | :--- | :--- | :--- | :--- |
@@ -54,7 +55,8 @@ Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will de
 * Aimed Shot frame counts are done using M1 Spams.
 * Fully Charged frame counts are done using ARCC Shots.
 
-**Plunge**
+**Plunge**  
+Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
 | Damage Type | Talent 6% |
 | :--- | :--- |
@@ -64,10 +66,11 @@ Fischl performs a precise Aimed Shot. When fully charged, the Aimed Shot will de
 {% endtab %}
 
 {% tab title="Nightrider" %}
-**Press**  
-Fischl summons **Oz** a short distance in front of herself and deals Electro DMG in a small AoE at the summon location.
+Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.\
+For the ability's duration, Oz will continuously attack nearby opponents with Freikugel.
 
-* When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
+Hold to adjust the location Oz will be summoned to.\
+Press again any time during the ability's duration to once again summon him to Fischl's side.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -80,6 +83,9 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Damage Type | Skill |
 | Summon CD | 25s |
 | Reposition CD | 1s |
+
+**Notes**
+* When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
 
 {% endtab %}
 
@@ -96,6 +102,7 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 | Damage Element | Electro |
 | Damage Type | Skill |
 
+**Notes**
 * **Oz** is able to target Baron Bunny after Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
 * When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
 * **Oz's** normal attacks shares ICD with her **C6**.
@@ -103,11 +110,11 @@ Fischl summons **Oz** a short distance in front of herself and deals Electro DMG
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
-Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to enemies Fischl comes into contact with, once per enemy.
-
-* Fischl may not attack, cast, or dash during the duration of this ability. 
-* Summons **Oz** when the effect ends. 
-* If **Oz** is already on the field, this will reset his duration instead.
+Summons Oz to spread his twin wings of twilight and defend Fischl.\
+Has the following properties during the ability's duration:\
+• Fischl takes on Oz's form, greatly increasing her Movement Speed.\
+• Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.\
+• Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -122,8 +129,12 @@ Fischl transforms into **Oz** and gains movement speed. Deals Electro damage to 
 | Duration | 2s |
 | CD | 15s |
 
-* You can swap characters during Fischl's Midnight Phantasmagoria to exit the burst early.
-* Midnight Phantasmagoria only has invulnerability frames \(I-Frames\) on startup.
+**Notes**
+* Fischl may not attack, cast, or dash during the duration of this ability. 
+* Summons **Oz** when the effect ends. 
+* If **Oz** is already on the field, this will reset his duration instead.
+* You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the burst early.
+* **Midnight Phantasmagoria** only has invulnerability frames \(iframes\) on startup.
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
 
 {% endtab %}
@@ -142,13 +153,14 @@ When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% tab title="Ascension 1" %}
 ### **Stellar Predator**
 
-When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a nearby enemy, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
+When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down **Thundering Retribution**, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG.
 
-| Attribute | A1 |
+| Attribute | Thundering Retribution |
 | :--- | :--- |
 | Skill DMG | 152.7% |
 | Particles | 0 |
 | GU | 2B |
+| Damage Element | Electro |
 | Damage Type | Charged Attack |
 
 * This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
@@ -157,8 +169,8 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 
 {% tab title="Ascension 4" %}
 ### **Undone Be Thy Sinful Hex**
-
-\(previously known as **Lightning Smite**\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+*\(previously known as **Lightning Smite**\)*\
+If your current active character triggers an Electro-related Elemental Reaction when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing Electro DMG equal to 80% of Fischl's ATK.
 
 | Attribute | A4 |
 | :--- | :--- |
@@ -168,6 +180,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 | Damage Elemental | Electro |
 | Damage Type | Skill |
 
+**Notes**
 * There is a **0.5s** timer between A4 procs.
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
@@ -181,12 +194,12 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% tab title="C1" %}
 ### **Gaze of the Deep**
 
-When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
+Even when **Oz** is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, **Oz** fires a joint attack, dealing DMG equal to 22% of Fischl's ATK.
 
 | Effect | C1 |
 | :--- | :--- |
 | Joint Attack | 22% |
-| Damage Elemental | Physical |
+| Damage Element | Physical |
 | Damage Type | Normal Attack |
 
 * This is an echo effect.
@@ -198,9 +211,10 @@ When **Oz** is not on the field, and Fischl performs a Normal Attack against an 
 
 When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
 
-| Attribute | Skill Tap/Hold |
+| Attribute | Skill |
 | :--- | :--- |
 | Cast DMG (T6%)| 361.62% |
+| Damage Element | Electro | 
 | Damage Type | Elemental Skill |
 
 {% endtab %}
@@ -208,13 +222,15 @@ When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and
 {% tab title="C3" %}
 ### **Wings of Nightmare**
 
-Increases the level of **Nightrider** by 3.
+Increases the level of **Nightrider** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Her Pilgrimage of Bleak**
 
-When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents. When the duration ends, Fischl regenerates 20% of her HP.
+When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents.\
+When the duration ends, Fischl regenerates 20% of her HP.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -230,13 +246,14 @@ When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to
 {% tab title="C5" %}
 ### **Against the Fleeing Light**
 
-Increases the Level of **Midnight Phantasmagoria** by 3.
+Increases the Level of **Midnight Phantasmagoria** by 3.\
+Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Evernight Raven**
 
-Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is on the field, he performs joint attacks with your active character, dealing 30% of Fischl ATK as Electro DMG.
+Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as Electro DMG.
 
 | Attribute | C6 |
 | :--- | :--- |
@@ -248,8 +265,9 @@ Extends **Oz’s** duration on field by 2s \(12s\). Additionally, when **Oz** is
 | Attack Speed | No Limit |
 | Damage Element | Electro |
 | Damage Type | Skill |
-| Duration | 10s |
+| Duration | 12s |
 
+**Notes**
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
 * **Oz** normal attacks a total of 12 times over the **C6** duration.
