@@ -77,7 +77,7 @@
 {% endtab %}  
 
 {% tab title="Findings" %}  
-* The base 100% ER and character ascesion ER is counted towards the bonus.  
+* The base 100% ER and character ascension ER is counted towards the bonus.  
 {% endtab %}  
 {% endtabs %}
 
