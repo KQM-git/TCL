@@ -111,7 +111,7 @@ Elemental Absorption may only occur once per use.
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
 | Cutting DMG \(T6%\) | - | 16.8% x 2 + 23.5% x 4 |
-| Absorption DMG \(T6%\) | - | 4.2% x 2 + 5.88% x 4 |
+| Absorption DMG \(T6%\) | 25% | 4.2% x 2 + 5.88% x 4 |
 | Storm DMG \(T6%\) | 246% | 246% / 269% |
 | Absorption DMG \(T6%\) | - | 61.5% / 67.25% |
 | Particles | 2 | 2 / 3~4 (2:1) |
@@ -119,7 +119,7 @@ Elemental Absorption may only occur once per use.
 | GU | 1U | 1U |
 | Absorption GU | - | 1A |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | Snapshot | Snapshot |
+| Snapshot | - | Dynamic |
 | Damage Element | Anemo | Anemo |
 | Absorption Element | ~ | Absorbed Element |
 | Damage Type | Skill | Skill |
