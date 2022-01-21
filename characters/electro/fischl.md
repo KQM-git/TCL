@@ -184,6 +184,7 @@ If your current active character triggers an Electro-related Elemental Reaction 
 * There is a **0.5s** timer between A4 procs.
 * At edges of long range attacks, it may not trigger since they must be within a certain range of the active character.
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
+* **Undone By Thy Sinful Hex** uses snapshotted stats on Oz cast and recast.
 
 {% endtab %}
 {% endtabs %}
@@ -271,6 +272,7 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.
 * The joint attack only procs once on multi-hit attacks.
 * **Oz** normal attacks a total of 12 times over the **C6** duration.
+* **C6** uses snapshotted stats on Oz cast and recast.
 
 {% endtab %}
 {% endtabs %}

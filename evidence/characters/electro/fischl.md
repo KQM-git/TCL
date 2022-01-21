@@ -173,6 +173,23 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 
 ### C6: Evernight Raven
 
+#### Fischl A4 And C6 Snapshot Mechanics
+**By:** sigurd#3854  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932192475035095090/933903141798293595/transcript-fischl-c4-and-c6-snapshot-mechanics.html)
+
+**Finding:**   
+Fischl's A4 and C6 uses snapshotted stats on Oz cast and recast.
+
+**Evidence:** 
+* [A4 test 1](https://youtu.be/a9kSohsm394)
+* [A4 test 2](https://youtu.be/ewVzvH86cQk)
+* [C6 test 1](https://youtu.be/j6NJpVQU7s0)
+* [C6 test 2](https://youtu.be/-OZNVYdLwss)
+
+**Significance:**   
+Helps with accurate calculations as well as rotation crafting.
+
 #### C6 Fischl Multi-Hit
 
 **By:** Aluminum#5462  
