@@ -30,6 +30,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Qiqi's [Adeptus Art: Preserver of Fortune](../characters/cryo/qiqi.md#attacks) Healing
 * Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)  
 * Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
+* Razor's [Lightning Fang](../characters/electro/razor.md#attacks)
 
 ## Evidence Vault
 
