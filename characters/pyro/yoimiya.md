@@ -6,7 +6,7 @@ description: Owner of Naganohara Fireworks. Known as "Queen of the Summer Festiv
 
 ## **Resources**
 * [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
-* [Yoimiya Full Guide](https://keqingmains.com/yanfei/)
+* [Yoimiya Full Guide](https://keqingmains.com/yoimiya/)
 
 ## ![](../../.gitbook/assets/element_pyro.png) Yoimiya
 
