@@ -56,6 +56,16 @@
 * Using Shenhe's Hold E on an explosive barrel doesn't get her knocked back - [Video](https://www.youtube.com/watch?v=tg_LMw8Mea4) - Sincronic\#3171
   * It makes her immune to all staggers and knockbacks
 
+### Shenhe E has no ICD
+**By:** daibangden2460\#8410  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932469355374059590/933905482916200468/transcript-shenhe-e-has-no-icd.html)
+
+**Finding:**  
+Shenhe does not have ICD.  
+
+**Evidence:** [Video](https://youtu.be/Mwaz-2plb2E) / [Video #2](https://youtu.be/XiH9TzHF76Q)
+
 ## Burst Mechanics
 
 * Cooldown Starts on Q Press | Duration Timer Starts after the Animation - [Video](https://youtu.be/bCJ4gfDQwMk) - CC\#5588

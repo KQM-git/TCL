@@ -79,7 +79,7 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 | Particles | 3 \(-\) | 4 \(-\) |
 | Frames | 29 | 44 |
 | GU | 1U | 2U |
-| ICD | - | - |
+| ICD | None | None |
 | Snapshot | - | - | 
 | Damage Element | Cryo | Cryo | 
 | Damage Type | Skill | Skill |
