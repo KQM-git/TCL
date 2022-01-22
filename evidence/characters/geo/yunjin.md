@@ -57,6 +57,20 @@ In order to combat the increasingly toxic nature of the internet, cyberbullying 
 **Significance:**  
 Despite Ei's prominent ability in the use of machines and dolls, her country is horrifically prepared to combat the common vision users such as Beidou and Yunjin. It is of the recommendation of this court that the Vision Hunt Decree be reenacted to increase the overall efficacy of these cannons in Inazuma.
 
+### Yun Jin Flags In Freeze
+**By:** Goden#2155  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933107948715135026/934030368867237958/transcript-yunjin-flags-in-freeze.html)
+
+**Finding:**  
+Yun Jin's flags from her E persist for however long she's frozen. Looks kinda cool.
+
+**Evidence:**  
+[Imgur](https://imgur.com/lWj8EaE)
+
+**Significance:**  
+Yun Jin's flags look awesome.
+
 ## Burst Mechanics
 
 * Yunjin's Burst does not snapshot. - [Video](https://youtu.be/FLEAXNlF8Jk) - daibangden2460\#8410

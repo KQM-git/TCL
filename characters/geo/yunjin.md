@@ -89,7 +89,7 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 * Yunjin is considered shielded for the duration of her **Opening Flourish** stance.
   * This can be used to apply Geo Resonanace Geo Res Shred. 
 * Yunjin can perfect counter shots from the Inazuma Kamuijima Cannons.
-
+* Yunjin's flags from her E persist for however long she's frozen.
 {% endtab %}
 
 {% tab title="Cliffbreaker&apos;s Banner" %}
