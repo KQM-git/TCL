@@ -86,6 +86,7 @@ Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode
 
 **Notes**
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
+* By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
 
 **Plunging Attack: Midare Ranzan**  
 When a Plunging Attack is performed using the effects of the Elemental Skill **Chihayaburu**, Plunging Attack DMG is converted to **Anemo** DMG. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.
