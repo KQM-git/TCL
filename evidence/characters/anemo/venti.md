@@ -101,6 +101,35 @@ Thus each application is 1U.
 **Significance:**  
 Venti ult anemo gauge is 1U.
 
+### Venti Elemental Absorption Proc Count Correction
+**By:** CC#5588  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931544431885160499/933946366424670218/transcript-venti-elemental-absorption-proc-count-correction.html)
+
+**Finding:** The Additional Elemental DMG from Venti's Burst Procs 13-15 Times.
+
+**Evidence:**   
+15 ticks | 60 fps
+* CC#5588 - [Youtube](https://youtu.be/q2HtOuYvDUM)
+* Sabrenn#8965 -  [Youtube](https://youtu.be/Cd6IiIBUYuI)
+* CrazyWeke123#9720 - [Youtube](https://youtu.be/vTQXvxLGn_0)
+
+14 ticks | 60 fps
+* Sabrenn#8965 - [Youtube](https://youtu.be/AipBkL-HXUA)
+* CrazyWeke123#9720 - [Youtube](https://youtu.be/QhQYU3_tcA0)
+
+14 ticks | 120 fps
+* Asaki#9139 - [Youtube](https://youtu.be/pVmPlsXPylc)(1) | [Youtube](https://youtu.be/FDpUR3uzf6o)(2)
+
+14 ticks | 30 fps
+* CC#5588 - [Youtube](https://youtu.be/T_JDrnxGFh0)
+
+13 ticks | 30 fps mode
+* Puffin#9920 - [Youtube](https://youtu.be/v4PM5NY-fYA)
+* CC#5588 - [Youtube](https://youtu.be/eRl7PuVLPiU)
+
+**Significance:** Better Accuracy for Calcs Involving Venti.
+
 ## Constellation Mechanics
 
 ### C1: Splitting Gales
