@@ -111,7 +111,7 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 
 | Attribute | Initial Hit | DoT | 
 | :--- | :--- | :--- | 
-| Skill DMG \(T6%\) | 141.12% | 141.12% * 12 |
+| Skill DMG \(T6%\) | 141.12% | 46.37% * 12 |
 | RES Decrease \(T6%\) | 11% | - |
 | Tick Rate | - | 2s |
 | Frames | 75 | - | 
