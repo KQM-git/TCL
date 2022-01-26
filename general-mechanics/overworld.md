@@ -13,7 +13,8 @@
 
 ### Teapot Dog Abuse
 
-0-poise attacks also register on Kageroumaru.
+* 0-poise attacks also register on Kageroumaru.
+* Kageroumaru can hold non-elemental statuses, but not marks.
 
 ## Waverider Mechanics
 

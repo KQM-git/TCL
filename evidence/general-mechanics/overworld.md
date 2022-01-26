@@ -83,6 +83,35 @@ The Rock (Igneous Pebblus) is a federally endangered species which is currently 
 * Kageroumaru take hits like a chad.
 * Helps to map out how XQ’s orbitals work. 
 
+### Teapot Dog Abuse 2
+**By:** Asaki#9139  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930676749782634586/934050479892234280/transcript-teapot-dog-abuse-2.html)
+
+**Finding:**  
+Kageroumaru can hold non-elemental statuses, but not marks.
+
+**Evidence:**  
+* Xiangling C1+C2, Lisa Conductive stacks: [Imgur](https://imgur.com/a/eaTDcCd)
+
+* Childe Riptide: [Imgur](https://imgur.com/a/a6pkRFJ)
+
+(from BowTae#0141)
+* Hu Tao Blood Blossom: [Imgur](https://i.imgur.com/98eO4KE.mp4)
+* Yoimiya Aurous Blaze: [Imgur](https://i.imgur.com/QrX7OEp.mp4)
+
+(from ShampooBrain#9583)
+* Qiqi Talisman: [Imgur](https://imgur.com/a/Dw6OGaT)
+* Mona Bubble: [Imgur](https://imgur.com/a/tzRdWz1)
+
+**Significance:**  
+* Kageroumaru can not be affected by the elements.
+* Categorisation of character-producing marked statuses:
+  * First type is non status-affiliated mark (or simply mark). These marks so far are consistently referred to in-game by their names only, without mentioning the status effect. Examples include: Riptide, Blood Blossom, Fortune-Preserving Talisman, Aurous Blaze, etc.
+  * Second type is status-affiliated mark (or simply status). These marks so far are consistently referred to in-game by their names, followed by the word “status”. Examples include: Implode status, “Decreased RES” status, Conductive status, etc.
+Whether mHY keeps up with this consistency is unknown. Whether this is helpful to the general playerbase is unknown.
+* Precursor to #marks-and-statuses, if mHY decides to add more of this trend, so more testing can be done.
+
 ## Explosive Barrel Properties
 
 **By:** kxmndz\#4700  
