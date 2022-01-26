@@ -523,6 +523,19 @@ By "'map has been updated" we understand:
 \- all maps have high quality renders taken directly from the finished Teyvat render  
 \- all maps share the same color marks specific to their level
 
+#### Enkanomiya
+**By:** Vladone ツ#9281, Mcpie#8672  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928178373304406016/934047513944666133/transcript-enkanomiya-zone-levels.html)
+
+**Finding:**  
+The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Enkanomiya.
+
+**Evidence:**  
+[Map](https://photos.app.goo.gl/PY1xLqPy8LKFJibC7)
+
+**Significance:**  
+Fluff and overworld documentation.
 
 ### Bush Elemental Interaction
 
