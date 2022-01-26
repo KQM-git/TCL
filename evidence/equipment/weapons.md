@@ -226,7 +226,7 @@ More evidence from Pleinair: [https://youtu.be/CEcNjSHqHTE ](https://youtu.be/CE
 **Significance:**  
 As with above conclusion, there might be a use case where Royal Longsword offers a higher DPS ceiling than sacrificial or becomes a valid F2P alternative if players can mitigate the recharge loss through substats or a hydro DPS.
 
-The video also reveals that there might be a tiny ICD or Royal Sword's ability, or that multiple hydro swords in a single wave count as 1 hit or a single source of damage, since only 1 stack of crit was granted. The second seems likely given how each wave only applies one instance of hydro now. However it has also been observed that swords can crit independently.
+The video also reveals that there might be a tiny ICD on Royal Sword's ability, or that multiple hydro swords in a single wave count as 1 hit or a single source of damage, since only 1 stack of crit was granted. The second seems likely given how each wave only applies one instance of hydro now. However it has also been observed that swords can crit independently.
 
 This also raises the question of other royal weapon use cases with off screen DPS, such as Royal Bow and Fischl's Oz.
 
