@@ -20,6 +20,7 @@ This applies to their respective triggers too.
     * Adult male - 25%
     * Teen male - 35%
     * Teen female - 35%
+* The Traveler has more than 0 friendship points but less than 10 and does not accumulate.
 
 ## Cancelling
 

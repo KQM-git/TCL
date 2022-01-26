@@ -345,3 +345,19 @@ To do this, you have to take a picture at the moment where you get hit/leap off 
 
 **Significance:**  
 Knockback cancel/Fluff/investigating the influence pausing the game has on certain actions.
+
+## Traveler Has Hidden Friendship Meter
+**By:** mmjacobs#9588  
+**Added:** 1/23/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931045505801256971/934607873152012388/transcript-traveler-has-hidden-friendship-meter.html)
+
+**Theory:**  
+Does Traveler have a hidden Friendship meter and gain Friendship?
+
+**Evidence:**  
+When Traveler is compared (i.e. sorted) with other characters with 0 Friendship, Traveler does not show up at the bottom. This might indicate that Traveler has more Friendship points. However, if Traveler (presumably) gains 20 friendship points from a commission and a character with 0 Friendship gains 10 friendship points from an event, Traveler will sort below the other character. This proves that Traveler has less then 10 friendship and thus never gained the 20 friendship points from the commission.
+[Youtube](https://youtu.be/LKc7ZP6P6TY)
+
+**Conclusion:**  
+Traveler does not accumulate friendship points, but does sort higher than other characters with zero friendship.
+
