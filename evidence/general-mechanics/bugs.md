@@ -101,6 +101,23 @@ You can yeet yourself high by cooking mid air.
 **Significance:**  
 Can be used to reach places normally inaccessible, especially by utilizing Bennett and the portable cooking stove.  
 
+### Leg Break Bridge
+**By:** Lilith of the night#5024  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930076186787336243/934021559629254676/transcript-leg-break-bridge.html)
+
+**Finding:**   
+You take damage when you plunge on this spot at Dainichi island bridge, this happens with any type of weapon.  
+The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
+
+**Evidence:** 
+* [Hu Tao, Xingqiu, Ningguang](https://youtu.be/mF3NDwDAWGA)
+* [Qiqi](https://youtu.be/b8pFpm1q_Wg)
+* [Albedo](https://youtu.be/edtRH90SC-U)
+* [Ayaka](https://www.youtube.com/watch?v=WcJemEfZWxI)
+* [Xiao](https://youtu.be/cdyeROsXUkg)
+
+**Significance:** Funny physics bug.
 
 ## Lag
 

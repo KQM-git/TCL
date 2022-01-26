@@ -16,6 +16,8 @@ When using the retry button in abyss your [elemental skill and burst will not re
 * [Throwing a Harpastum while entering aim mode](../evidence/general-mechanics/bugs.md\#aiming-harpastum) can force a third-person perspective while still aiming your bow.
 * [4TF and 4CW set bonuses do not apply to reactions on environmental objects](../evidence/general-mechanics/overworld.md\#4-piece-set-bonuses-on-environment-reactions).
 * [You can jump higher than normal and travel long distances](../evidence/general-mechanics/bugs.md\#cooking-pot-super-jump) by repeatedly entering and exiting the cooking menu during an action that moves the character upwards, such as jump, Kazuha E, and Bennett Hold E. 
+* You take damage when you [plunge on a spot at Dainichi island bridge](../evidence/general-mechanics/bugs.md\#leg-break-bridge), this happens with any weapon type.
+  * The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
 
 ## Lag
 
