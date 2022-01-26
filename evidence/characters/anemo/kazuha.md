@@ -61,7 +61,7 @@ As per testing, fall damage has been proven to be caused to fatui cicin mages, t
 
 The cause of the fall damage seems to be an unnatural acceleration towards the floor after being sucked into the vortex caused by kazuha's skill. The enemies that can suffer fall damage will be pulled away from the vacuum forcefully in the direction of the floor, causing them to gain enough velocity to suffer fall damage. Lighter enemies are less likely to take any damage this way.
 
-It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable.
+It is not complicated to trigger this as it activates by just simply tapping/holding kazuha's e skill without having to do any other action e.g charged attacks/glide in the air. It is also not platform specific (not sure for PS) as I have managed to proc it on both PC and mobile. One thing to take note is that the chance of fall damage has something to do with packet loss, poor frame rates and lag issues as I am unable to proc it when connection is unstable
 
 **Evidence:**  
 [Imgur](http://imgur.com/a/bNoe7Gq)  
@@ -70,11 +70,6 @@ It is not complicated to trigger this as it activates by just simply tapping/hol
 
 **Significance:**  
 This feature is most likely unintended, but not a bug due to the janky nature of fall damage. Unlike jean and sucrose who can consistently cause fall damage due to the stronger downward pull and yeet function on their kits, kazuha's skill only has a weak vortex that causes the accelerated pull in specific situations. Hence he is unable to proc fall damage as consistent and as well as the 2 other characters mentioned.
-
-## Burst Mechanics
-* Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
-* Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  
-* Infusion priority order is [Pyro](https://imgur.com/a/3FsxwG9) > [Hydro > Electro](https://imgur.com/a/3tFexju) > [Cryo](https://imgur.com/a/CJ5feqy).  - HappyGL\#0523  
 
 ### Kazuha Tap E Air Time Can Be Shortened 
 **By:** Quark#7392  
@@ -90,6 +85,11 @@ This video shows the tech first and a normal fall second. Note the elemental ski
 
 **Significance:**  
 This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them.
+
+## Burst Mechanics
+* Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
+* Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  
+* Infusion priority order is [Pyro](https://imgur.com/a/3FsxwG9) > [Hydro > Electro](https://imgur.com/a/3tFexju) > [Cryo](https://imgur.com/a/CJ5feqy).  - HappyGL\#0523  
 
 ## Ascension Mechanics 
 ### A1: Soumon Swordsmanship
