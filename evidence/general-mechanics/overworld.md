@@ -1216,3 +1216,18 @@ Misc:
 
 **Significance:**  
 Fluff, exploration, overworld survivability.
+
+### Stuff Can Infuse Cryo
+**By:** Raven#9205  
+**Added:** 1/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918031384122114048/934045834268532736/transcript-stuff-can-infuse-cryo.html)
+
+**Finding:**  
+The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through elemental sight.
+
+**Evidence:**   
+Sheet documenting which objects can and cannot be infused with Cryo: [Google Doc](https://docs.google.com/spreadsheets/d/1eDkENLmA9Fk7IJv3VSJ1H4LC5KDUcYfd-Y0WNd2s0kA/edit?usp=sharing)   
+It should be noted that some objects simply cannot be tested as they are destroyed even due to zero damage attacks, such as Ayaka's special sprint (an example being the Liyue screens in domains).
+
+**Significance:**  
+Largely fluff. However, the application of cryo does mean that some elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo). 

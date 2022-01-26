@@ -187,6 +187,9 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 * Every other Anemo ability works on its own.
 * The attacks from Anemo Slimes don't work, some examples of things that Sucrose can't target (and can't disperse the fog with) are the Portable Waypoint, Serenitea Pot, and Windblume Festival Commemorative Balloon.
 
+## Stuff Can Infuse Cryo
+The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold cryo without said cryo being visible through elemental sight.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
