@@ -114,7 +114,7 @@ This can only occur once per use.
 * The **Stormeye** is elevated above the ground. Some attacks are unable to hit enemies that are lifted.
 * Venti cannot lift enemies that are more than 20 levels above his level.
 * Elemental absorption can occur at soonest, **after the 4th Anemo tick**
-    * The additional elemental DMG will always deal 16 ticks of damage in the original burst area, no matter the time of absorption.
+    * The additional elemental DMG will deal 13-15 ticks of damage in the original burst area, no matter the time of absorption.
     * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
 \* Number of ticks is fps-dependent.
