@@ -32,35 +32,35 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 **Normal Attacks**  
 Xiao performs up to six consecutive spear strikes.
 
-| String | Talent 6 DMG% | Frames | MV/s |
+| String | Talent 9 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 37.87% x2 \(75.74%\) | 16 | 284%/s |
-| 2-Hit | 78.29% | 42 | 220%/s |
-| 3-Hit | 94.26% | 68 | 219.1%/s |
-| 4-Hit | 51.79% x2 \(103.58%\) | 115 | 183.6%/s |
-| 5-Hit | 98.37% | 145 | 186.3%/s |
-| 6-Hit | 131.77% | 197 | 177.3%/s |
+| 1-Hit | 46.32% x2 \(92.64%\) | 16 | 347.4%/s |
+| 2-Hit | 95.76% | 42 | 269.14%/s |
+| 3-Hit | 115.29% | 68 | 267.96%/s |
+| 4-Hit | 63.34% x2 \(126.68%\) | 115 | 224.54%/s |
+| 5-Hit | 120.32% | 145 | 227.87%/s |
+| 6-Hit | 161.17% | 197 | 216.81%/s |
 
 **Charged Attack**  
 Consumes 25 Stamina to perform an upward thrust.
 * Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 
-| String | Talent 6 DMG% | Frames | MV/s |
+| String | Talent 9 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 166.5% | - | - |
-| N1C | 242.24% | 80 | 181.7%/s |
-| N3C | 414.79% | 157 | 158.5%/s |
-| N4C | 518.37% | 190 | 163.7%/s |
+| Charged Attack | 203.65% | - | - |
+| N1C | 296.29% | 80 | 222.22%/s |
+| N3C | 507.34% | 157 | 193.89%/s |
+| N4C | 634.02% | 190 | 200.22%/s |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
 Xiao does not take DMG from performing Plunge Attacks.
 
-| Plunge Type | Talent 6 DMG% | Frames | MV/s |
+| Plunge Type | Talent 9 DMG% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Plunge DMG | 118.94% | - | - |
-| Low Plunge DMG | 237.84% | 65 | 219.5%/s |
-| High Plunge DMG | 297.07% | 75 | 237.7%/s |
+| Plunge DMG | 150.35% | - | - |
+| Low Plunge DMG | 300.63% | 65 | 277.5%/s |
+| High Plunge DMG | 375.5% | 75 | 300.4%/s |
 
 * All frame counts are done against Ruin Guards.
 * All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
@@ -73,7 +73,7 @@ Starts with 2 charges.
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 353.92% | 36 |
+| Skill DMG \(T9%\) | 429.76% | 36 |
 | Particles | 3 |
 | Frames | 36 | 
 | GU | 2B |
@@ -100,8 +100,8 @@ The effects of this skill end when Xiao leaves the field.
 
 | Attribute | Burst |
 | :--- | :--- |
-| Normal, Charged, Plunge DMG bonus \(T6%\) | 77% |
-| Life Drain \(T6%\) | 2.5% Current HP/s |
+| Normal, Charged, Plunge DMG bonus \(T9%\) | 90.65% |
+| Life Drain \(T9%\) | 2% Current HP/s |
 | Frames | 58 |  
 | Energy Cost | 70 |
 | Duration | 15s |

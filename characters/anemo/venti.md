@@ -32,32 +32,32 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 **Normal Attack**  
 Perform up to 6 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV\s |
+| String | Talent 9% | Frames | MV\s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.63% x 2 | 11 + 21 | 169.3%/s |
-| 2-Hit DMG | 64.50% | 44 | 168.8%/s |
-| 3-Hit DMG | 76.13% | 90 | 133.3%/s |
-| 4-Hit DMG | 37.87% x 2 | 111 + 123 | 134.5%/s |
-| 5-Hit DMG | 73.63% | 140 | 149.7%/s |
-| 6-Hit DMG | 103.13% | 191 | 142.1%/s |
+| 1-Hit DMG | 37.45% x 2 | 11 + 21 | 214%/s |
+| 2-Hit DMG | 81.53% | 44 | 213.31%/s |
+| 3-Hit DMG | 96.22% | 90 | 168.43%/s |
+| 4-Hit DMG | 47.87% x 2 | 111 + 123 | 169.95%/s |
+| 5-Hit DMG | 93.06% | 140 | 189.19%/s |
+| 6-Hit DMG | 130.35% | 191 | 179.62%/s |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Anemo DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 26 | 147.1%/s | ~ |
-| Fully Charged | 173.60% | 86 | 121.1%/s | 1U |
+| Aimed Shot | 80.58% | 26 | 185.95%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1U |
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.60% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.30% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
@@ -72,7 +72,7 @@ Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Skill DMG (T6%) | 386.40% | 532% |
+| Skill DMG (T9%) | 469.20% | 646% |
 | Particles | 3 \(-\) | 4 \(-\) |
 | Frames | 20 | 70 |
 | GU | 2U | 2U | 
@@ -97,7 +97,7 @@ This can only occur once per use.
 
 | Attribute | Burst DoT | Burst Additional Elemental DMG |
 | :--- | :--- | :--- |
-| Skill DMG (T6%) | 52.64% * 20| 26.32% * 15\*|
+| Skill DMG (T9%) | 63.92% * 20| 31.96% * 15\*|
 | Frames | 94 | - |
 | GU | 1U | 1A |
 | ICD | 3 hits | 3 hits |

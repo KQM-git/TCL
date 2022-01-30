@@ -33,33 +33,33 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 **Normal Attacks**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 65.38% | 14 | 280.2%/s |
-| 2-Hit DMG | 65.75% | 34 | 231.40%/s |
-| 3-Hit DMG | 37.5% + 45% | 60 + 70 | 183.11%/s |
-| 4-Hit DMG | 88.25% | 97 | 186.73%/s |
-| 5-Hit DMG | 36.88% x3 (110.64%) | 126 + 138 + 140 | 176.79%/s |
-| Recovery (Total MV) | -- | 200 | 123.76%/s |
+| 1-Hit DMG | 82.63% | 14 | 354.12%/s |
+| 2-Hit DMG | 83.11% | 34 | 292.48%/s |
+| 3-Hit DMG | 47.4% + 56.88% | 60 + 70 | 231.45%/s |
+| 4-Hit DMG | 111.55% | 97 | 236.02%/s |
+| 5-Hit DMG | 46.61 x3 (139.83%) | 126 + 138 + 140 | 223.46%/s |
+| Recovery (Total MV) | -- | 200 | 156.42%/s |
 
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 
 **Charged Attacks**  
 Consumes a certain amount (20) of Stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 62.5% + 108.5% | 14 + 44 | -- |
-| N1C | 65.38% + 62.5% + 108.5% | 58 | 244.53%/s |
-| N1C w/Recovery | 62.5% + 108.5% | 78 | 181.83%/s |
+| Charged Attack DMG | 79% + 137.14% | 14 + 44 | -- |
+| N1C | 82.63% + 79% + 137.14% | 58 | 309.07%/s |
+| N1C w/Recovery | 79% + 137.14% | 78 | 229.82%/s |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by **Chihayaburu**, it will be converted to **Plunging Attack: Midare Ranzan**. 
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 118.94% |
-| Low/High Plunge DMG | 237.84% / 297.07% |
+| Plunge DMG | 150.35% |
+| Low/High Plunge DMG | 300.63% / 375.50% |
 
 {% endtab %}
 
@@ -75,7 +75,7 @@ Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 268.8% | 365.12% |
+| Skill DMG \(T9%\) | 326.4% | 443.36% |
 | Particles | 3 | 4 |
 | Frames | 36 | 69 |
 | GU | 1U | 2U |
@@ -93,8 +93,8 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 
 | Attribute | Midare Ranzan |
 | :--- | :--- |
-| Plunge Collision DMG \(T6%\) | 118.94% |
-| Low/High Plunge DMG \(T6%\) | 237.84% / 297.07% |
+| Plunge Collision DMG \(T9%\) | 150.35% |
+| Low/High Plunge DMG \(T9%\) | 300.63% / 375.50% |
 | Frames | 55 / 63 |
 | GU | 1U |
 | ICD | None |
@@ -114,7 +114,7 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 
 | Effect | Slash | DoT | Elemental DMG |
 | :--- | :--- | ---- | :--- |
-| Skill DMG \(T6%\) | 367.36% | 168% | 50.4% | 
+| Skill DMG \(T9%\) | 446.08% | 204% | 61.2% | 
 | Frames | 93 | - | - |
 | GU | 2U | 1U | 1A |
 | ICD | None | None | None |

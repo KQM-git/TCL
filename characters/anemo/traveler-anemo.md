@@ -33,32 +33,32 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 14 | 276.8%/s |
-| 2-Hit | 63.13% | 43 | 178.1%/s |
-| 3-Hit | 77% | 80 | 153.5%/s |
-| 4-Hit | 84.75% | 116 | 149.7%/s |
-| 5-hit | 102.88% | 148 | 159.1%/s |
+| 1-Hit | 81.69% | 14 | 350.1%/s |
+| 2-Hit | 79.79% | 43 | 225.32%/s |
+| 3-Hit | 97.33% | 80 | 194.11%/s |
+| 4-Hit | 107.12% | 116 | 189.27%/s |
+| 5-hit | 130.03% | 148 | 201.06%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 81.25%+105% | - | - |
-| N1C | 250.88% | 62 | 242.8%/s |
-| N2C | 314.01% | 84 | 224%/s |
-| N3C | 391.01% | 115 | 204%/s |
-| N4C | 478.76% | 160 | 178.4%/s |
+| Charged Attack | 102.7%+132.72% | - | - |
+| N1C | 317.11% | 62 | 306.89%/s |
+| N2C | 396.90% | 84 | 283.5%/s |
+| N3C | 494.23% | 115 | 260.12%/s |
+| N4C | 601.35% | 160 | 225.51%/s |
 
 **Plunge**
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -68,32 +68,32 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 13 | 298.15%/s |
-| 2-Hit | 63.13% | 38 | 201.63%/s |
-| 3-Hit | 77% | 71 | 172.99%/s |
-| 4-Hit | 84.75% | 123 | 141.22%/s |
-| 5-hit | 102.88% | 163 | 144.48%/s |
+| 1-Hit | 81.69% | 13 | 377.03%/s |
+| 2-Hit | 79.79% | 38 | 254.97%/s |
+| 3-Hit | 97.33% | 71 | 218.71%/s |
+| 4-Hit | 107.12% | 123 | 178.5%/s |
+| 5-hit | 130.03% | 163 | 182.56%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 81.25%+88.25% | - | - |
-| N1C | 234.13% | 54 | 260.1%/s |
-| N2C | 297.26% | 90 | 198.1%/s |
-| N3C | 374.26% | 115 | 195.2%/s |
-| N4C | 459.01% | 160 | 172.1%/s |
+| Charged Attack | 102.7%+111.55% | - | - |
+| N1C | 295.94% | 54 | 328.82%/s |
+| N2C | 297.26% | 90 | 250.49%/s |
+| N3C | 374.26% | 115 | 246.81%/s |
+| N4C | 459.01% | 160 | 217.57%/s |
 
 **Plunge**
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -110,10 +110,10 @@ Elemental Absorption may only occur once per use.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Cutting DMG \(T6%\) | - | 16.8% x 2 + 23.5% x 4 |
-| Absorption DMG \(T6%\) | 25% | 4.2% x 2 + 5.88% x 4 |
-| Storm DMG \(T6%\) | 246% | 246% / 269% |
-| Absorption DMG \(T6%\) | - | 61.5% / 67.25% |
+| Cutting DMG \(T9%\) | - | 20.4% x 2 + 28.56% x 4 |
+| Absorption DMG \(T9%\) | 25% | 5.1% x 2 + 7.14% x 4 |
+| Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% |
+| Absorption DMG \(T9%\) | - | 74.80% / 81.60% |
 | Particles | 2 | 2 / 3~4 (2:1) |
 | Frames | 27 | 27~61 |
 | GU | 1U | 1U |
@@ -140,7 +140,7 @@ Elemental Absorption may only occur once per use.
 
 | Attribute | Tornado | Absorption DMG |
 | :--- | :--- | :--- |
-| Tornado DMG \(T6%\) | 113% * 9 | 34.7% * 9 |
+| Tornado DMG \(T9%\) | 137.36% * 9 | 42.16% * 9 |
 | Tick Rate | 0.5s | 0.5s | 
 | Frames | 41 | - |
 | GU | 1U | 2B | 

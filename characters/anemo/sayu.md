@@ -27,31 +27,31 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 **Normal Attacks**  
 Performs up to 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 105% | 23 | 273.91%/s |
-| 2-Hit | 103.75% | 70 | 178.92%/s |
-| 3-Hit | 63.13% x 2 | 97 + 109 | 184.41%/s |
-| 4-Hit | 142.63% | 187 | 153.25%/s |
-| Recovery | ~ | 227 | 126.24%/s |
+| 1-Hit | 132.72% | 23 | 346.23%/s |
+| 2-Hit | 131.14% | 70 | 226.17%/s |
+| 3-Hit | 79.79% x 2 | 97 + 109 | 233.09%/s |
+| 4-Hit | 180.28% | 187 | 193.71%/s |
+| Recovery | ~ | 227 | 159.57%/s |
 
 **Charged Attacks**  
 Drains 40 Stamina/s over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash. 
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spin | 90.91% x 9 | 307 | 159.91%/s |
-| Final Hit | 164.38% | 358 | 164.68%/s |
-| Recovery | ~ | 439 | 134.29%/s |
+| Spin | 114.91% x 9 | 307 | 202.12%/s |
+| Final Hit | 207.77% | 358 | 208.15%/s |
+| Recovery | ~ | 439 | 169.74%/s |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge DMG | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 {% endtab %}
 
 {% tab title="Yoohoo Art: Fuuin Dash" %}
@@ -74,10 +74,10 @@ Elemental Absorption may only occur once per use of this skill.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Fuufuu Windwheel DMG \(T6%\) | 50.4% | 50.4% x 19 |
-| Fuufuu Windwheel Absorption DMG \(T6%\)  | ~ | 23.52% x 19 |
-| Fuufuu Whirlwind Kick DMG \(T6%\)  | 221.76% | 304.64% |
-| Fuufuu Whirlwind Kick Absorption DMG \(T6%\)  | ~ | 106.62% |
+| Fuufuu Windwheel DMG \(T9%\) | 61.2% | 61.2% x 19 |
+| Fuufuu Windwheel Absorption DMG \(T9%\)  | ~ | 28.56% x 19 |
+| Fuufuu Whirlwind Kick DMG \(T9%\)  | 269.28% | 369.92% |
+| Fuufuu Whirlwind Kick Absorption DMG \(T9%\)  | ~ | 129.47% |
 | Particles | 2 | 2 + 1~4 |
 | Frames | 35 | 35~675 |
 | GU | 1U | - |
@@ -115,8 +115,8 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill Activation DMG \(T6%\) | 163.52% |
-| Skill Activation Healing \(T6%\) | 129.02% +914 |
+| Skill Activation DMG \(T9%\) | 198.56% |
+| Skill Activation Healing \(T9%\) | 156.67% +1174 |
 | Frames | 65 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
@@ -128,8 +128,8 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 
 | Attribute | Daruma |
 | :--- | :--- |
-| Muji-Muji Daruma DMG \(T6%\) | 72.8% x 0~7 |
-| Muji-Muji Daruma Healing \(T6%\) | (111.82% ATK + 792) x 0~7 |
+| Muji-Muji Daruma DMG \(T9%\) | 88.4% x 0~7 |
+| Muji-Muji Daruma Healing \(T9%\) | (135.78% ATK + 1017) x 0~7 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
