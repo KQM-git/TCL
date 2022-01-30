@@ -68,7 +68,7 @@ Overall useful information for people looking to clear abyss/domains
 
 ## Mist Bubble
 
-### Mist Bubble IFrame
+### Mist Bubble I-Frame
 
 **By:** snorting salt#3888  
 **Added:** 07/17/2021  
@@ -85,6 +85,26 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 
 **Significance:**  
 Dash iframes do not always work against the bubbles, especially for the abyss mage ones which home onto the character even after iframing through it. While the character initially hit still takes damage from the bubble, the dangerous CC effect of the bubble can be ignored, which makes dealing with the bubbles without ult iframes a lot easier.
+
+### CO-OP Hydro Abyss Mage Bubble  
+**By:** Prototype\#1337  
+**Added:** 01/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934205594070548490/936445344600956988/transcript-co-op-hydro-abyss-mage-bubble.html)  
+
+**Finding:**  
+You can't pierce through the Hydro Abyss Mage bubbles when they trap other players in CO-OP.
+
+**Evidence:**  
+[Video 1](https://youtu.be/AB3c8V0gkOU)  
+[Video 2](https://youtu.be/HAusdjm4YsI)  
+[Video 3](https://youtu.be/9mfOHxxHMQM)  
+[Video 4](https://youtu.be/MwvK2qPBBJY)  
+[Video 5](https://youtu.be/qLb1aZL2xkI)  
+[Video 6](https://youtu.be/SXSwEhWkR_g)  
+[Video 7](https://youtu.be/yAanq3CAETc)  
+
+**Significance:**  
+Based on the evidence provided, it is clearly shown that other players (including yourself) cannot pierce through or interact with players trapped inside of the Hydro Abyss Mage bubbles.
 
 ## Black Aura Data
 

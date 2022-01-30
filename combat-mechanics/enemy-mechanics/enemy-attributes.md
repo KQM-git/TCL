@@ -29,12 +29,12 @@ Monster skill effects can be taunted. In general, these skill effects target the
 
 ## Mist Bubble
 
-The bubbles spawned can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble iFrame](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#mist-bubble-iframe)
+* The bubbles from Hydro Abyss Mages spawned can be effectively i-framed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble iFrame](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#mist-bubble-iframe)  
+* When a bubble traps a player in CO-OP, other players cannot pierce through or interact with it. For more details see: [CO-OP Hydro Abyss Mage Bubble](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#co-op-hydro-abyss-mage-bubble)
 
 ## Targeting Ignores Enemy Hitbox Location
 
 The targeting point for targeted skills is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy, per animation. This can make some attacks whiff during certain enemy states. For more details see: [Targeting Ignores Enemy Hitbox Location](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#targeting-ignores-enemy-hitbox-location)
-
 
 ## Evidence Vault
 
