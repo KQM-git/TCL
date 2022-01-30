@@ -75,6 +75,7 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 
 **Notes**
 * When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
+* If you dash cancel Sucrose's Skill and switch characters too fast, no particles will be generated.
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
 {% endtab %}

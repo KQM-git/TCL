@@ -92,6 +92,29 @@ Comparison Cases: Enemies are Frozen/Petrified
 **Significance:**   
 Sucrose skill can be used with freeze/petrify and the enemies will not be knocked up or away. Sucrose skill can also possibly be used in conjunction with effects that rely on enemy's poise not being broken, namely Mona's Omen-- provided that the enemy remains frozen/petrified.
 
+### Sucrose E No Particles Bug
+**By:** Charisma#5567  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933112665587462214/936237943331373086/transcript-sucrose-e-no-particles-bug.html)
+
+**Finding:**  
+If you dash cancel Sucrose E and switch characters too fast, no particles will be generated.   
+*credits to fragile💤#7777 for finding and documenting the first instance of this bug.*
+
+**Evidence:**  
+* Bug messing up Xiao pre-funnel.  
+[Youtube](https://www.youtube.com/watch?v=Zv376ZCWvcw)
+
+* Bug clearly displayed.  
+[Youtube](https://www.youtube.com/watch?v=_lwhREwT3aE)
+
+* Bug clearly displayed 2: in the abyss!.  
+[Youtube](https://www.youtube.com/watch?v=g-0pGGYHTgo)
+
+**Significance:**  
+For those who still want the particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have skill issue and stay on Sucrose a bit longer before switching characters.  
+This might also be a bug on other characters when they dash cancel their skills... 
+
 ## Elemental Burst Mechanics
 
 ### Sucrose Absorbed Dmg is simultaneous
