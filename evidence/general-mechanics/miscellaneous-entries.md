@@ -361,3 +361,17 @@ When Traveler is compared (i.e. sorted) with other characters with 0 Friendship,
 **Conclusion:**  
 Traveler does not accumulate friendship points, but does sort higher than other characters with zero friendship.
 
+## A Study In Potions - Retry Button Mechanics 
+**By:** Vye#9195  
+**Added:** 1/28/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929809364825550901/936413828575559700/transcript-a-study-in-potions--retry-button-mechanics.html)
+
+**Finding:**  
+The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
+
+**Evidence:**  
+[Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  
+provided by ItzSomebody#0029, yolitme0#0579 (ty for compiling sheet) and ShampooBrain#9583 
+
+**Significance:**   
+Mihoyo apparently can implement a full reset button for a small event but cannot do so in the abyss which does not fully reset you. They are either incompetent, tone-deaf, lazy or simply don't give a damn. But next time there is a survey maybe let them know about this utter and complete nonsense.
