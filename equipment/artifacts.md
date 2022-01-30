@@ -172,7 +172,8 @@ This effect can still be triggered even when the character who is using this art
 {% endtab %}
 
 {% tab title="Findings" %}
-* The 4p set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).
+* The 4p set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).  
+* The 4p set bonus Bubble Damage is not a blunt hit and does not shatter frozen enemies.
 * The 4p set bonus Bubble Damage is independent of enemy defense.
 * All healing from the 4p set holder gets calculated for the Bubble Damage including overflow heals.
   * The 4p set bonus counts initial heal as part of the Sea-Dyed Foam bubble damage.

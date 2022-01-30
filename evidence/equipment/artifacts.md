@@ -533,7 +533,23 @@ This means that all healing from the set wielder, whether the set wielder is on 
 **Evidence:**  
 [Youtube](https://youtu.be/FQOF4aTiEVw) | [Imgur](https://imgur.com/a/UQmjlPc)
 
-The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on the field even when there are 2 units that have the full set. However, the set description also states that only one bubble can form every 3.5s which implies that the bubble formation ICD is also shared, which isn't the case as shown by the clip from 0:18 - 0:26. The imgur link shows a frame by frame analysis where the bubble formed from Qiqi E popping animation started until the point where the bubble formed from Kokomi E is already visible enough happened all within 6 frames, which is way below the implied 0.5s/30f downtime of the bubble formation for a single full Ocean set per team scenario. This does not say anything about coop interactions and mechanics of the set however and may be worth testing idk
+The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on the field even when there are 2 units that have the full set. However, the set description also states that only one bubble can form every 3.5s which implies that the bubble formation ICD is also shared, which isn't the case as shown by the clip from 0:18 - 0:26. The imgur link shows a frame by frame analysis where the bubble formed from Qiqi E popping animation started until the point where the bubble formed from Kokomi E is already visible enough happened all within 6 frames, which is way below the implied 0.5s/30f downtime of the bubble formation for a single full Ocean set per team scenario. This does not say anything about coop interactions and mechanics of the set however and may be worth testing idk  
+
+### 4OHC does not shatter frozen enemies  
+
+**By:** Puffin\#9920  
+**Added:** 1/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/936689990153408512/936792177617563698/transcript-ohc-will-not-shatter.html)  
+
+**Finding:**  
+4OHC's physical damage is not a blunt hit and will not shatter frozen enemies.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/_G8PiYPfGzQ)  
+[YouTube](https://youtu.be/X_9Q7aCGWTE)  
+
+**Significance:**  
+4OHC is usable in freeze teams.
 
 ## Pale Flame
 
