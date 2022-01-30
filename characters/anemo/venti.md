@@ -97,12 +97,12 @@ This can only occur once per use.
 
 | Attribute | Burst DoT | Burst Additional Elemental DMG |
 | :--- | :--- | :--- |
-| Skill DMG (T6%) | 52.64% * 20| 26.32% * 16|
+| Skill DMG (T6%) | 52.64% * 20| 26.32% * 15\*|
 | Frames | 94 | - |
 | GU | 1U | 1A |
 | ICD | 3 hits | 3 hits |
-| Duration | 8s | 6.4s |
-| Total Ticks | 20 | 13-15\* |
+| Duration | 8s | 6.0s |
+| Total Ticks | 20 | 15\* (FPS Dependent) |
 | Snapshot | Snapshot | Snapshot |
 | Damage Element | Anemo | Absorbed Element | 
 | Damage Type | Burst | Burst |
@@ -117,7 +117,8 @@ This can only occur once per use.
     * The additional elemental DMG will deal 13-15 ticks of damage in the original burst area, no matter the time of absorption.
     * The absorption DMG does not share ICD with the DoT DMG
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
-\* Number of ticks is fps-dependent.
+
+\* Number of ticks is FPS-dependent and inconsistent. 13 or 14 ticks at 30 FPS. 14 or 15 ticks at 60 FPS.
 {% endtab %}
 {% endtabs %}
 
