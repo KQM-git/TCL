@@ -32,7 +32,9 @@ The ranking from fastest to slowest is:
 8. CW Teen Female  
 9. JW Child Female  
 10. CW Child Female  
- 
+
+Note that picking a taller character of the same skeleton model will not increase the velocity or distance covered.
+
 ## Push/Pull Effects
 
 Push/pull effects are dynamic across team members

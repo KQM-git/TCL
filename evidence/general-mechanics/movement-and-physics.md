@@ -416,3 +416,17 @@ The ranking from fastest to slowest is:
 **Evidence:** Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
 
 **Significance:** Allows players to pick up best way to move while regenerating stamina.
+
+## Size Does Not Matter 
+**By:** Mcpie#8672  
+**Added:** 1/28/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935300027952295957/936412064098955295/transcript-size-does-not-matter.html)
+
+**Finding:**  
+Model skeleton height differences do not matter in movement (at least in walking forward).  
+Currently tested for adult male model.
+**Evidence:**  
+[Youtube](https://youtu.be/jdHZWQ5Pbd8)
+
+**Significance:**  
+Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa. 
