@@ -45,7 +45,26 @@ Childe's stance switch from ranged to melee triggers shatter on frozen targets a
 **Evidence:** [https://youtu.be/-JP-hYcHons](https://youtu.be/-JP-hYcHons)
 
 **Significance:**  
-Potential interference in niche party combo situations.
+Potential interference in niche party combo situations.  
+
+### Childe Ranged to Melee NA Combo
+
+**By:** Poro\#4695  
+**Added:** 1/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930377454068064266/936802993200848906/transcript-childe-ranged-to-melee-na-combo.html)  
+
+**Finding:**  
+After doing N# in bow stance, if you walk, use skill, then do a normal attack all in a short timeframe you can continue the normal attack string as if he was in melee stance from the start.  
+
+**Evidence:**  
+[Bow N1 up to N5 into melee combo](https://youtu.be/NSPn0ro3bl8)  
+[Slowed version](https://youtu.be/DGFcaMFa0Uc)  
+
+I think its similar in nature to this [video](https://youtu.be/0wcvXkElNJQ)  
+For bow characters, usually you shouldn't be able to continue their normal attack string after walking, but since Childe is now treated as a melee character after using his skill he will have a short window to continue his normal attack string shortly after walking.  
+
+**Significance:**  
+Better understanding of how melee combos work.
 
 ### Childe E can reset on revive  
 
