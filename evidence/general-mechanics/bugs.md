@@ -10,6 +10,25 @@ search: false
 
 ## Abyss
 
+### Retry and Exit Menu Issues
+
+**By:** Asaki\#9139  
+**Added:** 01/27/2022  
+
+**Finding:**  
+1. Time in the Spiral Abyss does not stop when you use the Exit button on the top left.  
+
+2. Attempting to retry the chamber just as the last enemy dies results in the following:  
+*  An error message will be displayed.  
+*  The chamber will end in 0 stars, even if the time remaining is above any of the star requirements.  
+*  The chamber will be considered as completed.  
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/o4GmO5w)  
+
+**Significance:**  
+Better understanding of Abyss bugs/issues for cleaner runs.
+
 ### Using the Same Team for Both Abyss Halves
 
 **By:** Nitley\#3485  

@@ -1,7 +1,7 @@
 # Bugs
 
 {% hint style="info" %}
-This page is for bugs, meaning they could get fixed by Mihoyo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#server•site•feedback](https://discord.gg/keqing) on the KQM discord.
+This page is for bugs, meaning they could get fixed by Mihoyo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
 {% endhint %}
 
 ## Abyss
@@ -9,6 +9,8 @@ This page is for bugs, meaning they could get fixed by Mihoyo at any time. If yo
 You can use your overworld team in the second half of abyss even if the same members are in the first half of the chamber by [selecting retry at the same time as you kill the last enemy.](../evidence/general-mechanics/bugs.md\#using-the-same-team-for-both-abyss-halves)
 
 When using the retry button in abyss your [elemental skill and burst will not reset its cooldown](../evidence/general-mechanics/bugs.md\#elemental-skills-and-bursts-dont-reset-when-using-retry-in-abyss) so if you are too fast at starting the new encounter you will not be able to execute your opening moves properly.
+
+Opening the exit menu in the Abyss does not pause the timer. This results in a bug wherein if you use the retry button in abyss as the last enemy in a chamber dies [you will encounter an error message and recieve 0 stars.](../evidence/general-mechanics/bugs.md\#retry-and-exit-menu-issues)
 
 ## Overworld
 
