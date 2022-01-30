@@ -674,6 +674,25 @@ Damage calculation
 [Standard infused plunge](https://www.youtube.com/watch?v=P3zldXa20lY)  
 [Kazuha's Midare Ranzan](https://youtu.be/qwLvlKGQErM)  
 
+#### Mistsplitter NA Stack From CA
+**By:** Trosalio#0420   
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935165915794927656/936216847626412072/transcript-mistsplitters-na-stack-from-ca.html)
+
+**Finding:**  
+A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals Elemental DMG can also be obtained when Charged Attack deals Elemental DMG as well.
+
+**Evidence:**  
+* Gaining NA stack using Ayaka's CA: [Youtube](https://www.youtube.com/watch?v=fKpQGsUUYI8)
+  * CA dmg with 0 stacks: 458 * 3
+  * CA dmg with 1 stack: 491 * 3
+* Gaining NA stack using Keqing's CA: [Youtube](https://www.youtube.com/watch?v=DULX7uB-4D0)
+  * CA dmg with 0 stacks: 641 + 718
+  * CA dmg with 1 stack: 686 + 769
+
+**Significance:**  
+You can gain said stack in a case where Normal Attacks cannot reach any enemies, but Charge Attacks can such as using Ayaka's CA to hit enemies in Venti's vortex.
+
 ---
 
 ### Polar Star

@@ -74,6 +74,7 @@
 | CRIT DMG% | 9.6% - 44.1% |
 
 * The number of Mistsplitter's Emblems gained from characters' Elemental Burst is character dependent, for more details, check the Vault Entry linked - [gtrain#9987](../../evidence/equipment/weapons.md#mistsplitter-reforged)
+* A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals Elemental DMG can also be obtained when Charged Attack deals Elemental DMG as well.
 {% endtab %}
 
 {% tab title="Details" %}
