@@ -24,7 +24,21 @@ The additional elemental damage dealt is 0.25x that of the anemo damage dealt.
 [Google Doc showing the additional elemental damage dealt](https://docs.google.com/spreadsheets/d/1uTBPUMtR4bQ_T7QeQc6_JRXQvcYxz1muZXiiSEF-Ze8/edit#gid=0)
 
 **Significance:**  
-There will always be those who dare to brave Anemo MC's blender of numbers.  
+There will always be those who dare to brave Anemo MC's blender of numbers. 
+
+### AMC Hold E Ticks
+**By:** pai#3602  
+**Added:** 1/27/2022   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713629835481118/936064084728762378/transcript-amc-hold-e-ticks.html)
+
+**Finding:**  
+The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while the Skill itself can tick up to 7 times.
+
+**Evidence:**  
+[Youtube](https://youtu.be/QC0ZXCX2CeA) - There are 2 attempts in the video, the first one shows 5 ticks and the second one shows 6, but it's never 7.
+ 
+**Significance:**  
+The Additional Elemental DMG seems to randomly start with the second Initial Cutting DMG or with the first Max Cutting DMG.
 
 ## Burst Mechanics
 
