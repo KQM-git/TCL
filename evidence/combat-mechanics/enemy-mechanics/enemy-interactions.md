@@ -116,6 +116,22 @@ Characters’ marks \(Riptide, Talisman, Blood Blossom, etc.\) show that some en
 
 4. Geovishap Hatchlings are confirmed to be enemies from hell or purgatory or something. 
 
+### Marks And Statuses
+**By:** Asaki#9139  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930683788307087360/936213305717035038/transcript-marks-and-statuses.html)
+
+**Finding:**  
+The visual indicator of the Conductive status does not behave similar to character-produced marks.
+
+**Evidence:**   
+[Imgur](https://imgur.com/a/QVQfrHQ)  
+Lisa’s Conductive mark did not travel down to purgatory along with the Geovishap Hatchling while character-produced marks do burrow with them, as seen in [Enemy Actually Burrow](enemy-interactions.md#enemy-actually-burrow)  
+
+**Significance:**  
+This may or may not imply that Marks & Statuses are different, in that the visual indicator of character-produced statuses (Implode, Conductive, etc.) does not behave similar to character-produced marks (Riptide, Blood Blossom, etc.)  
+Further testing should be done on the Implode status (Xiangling C2) but that requires strict timing to determine whether the trend is probable.
+
 ## General Boss Interactions
 
 ### Freeze Interaction on Boss Enemies
