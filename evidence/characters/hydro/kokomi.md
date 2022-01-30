@@ -48,6 +48,20 @@ search: false
 * Bake-Kurage healing has infinite vertical range. - [Doug#8888](https://youtu.be/TyJ-WuAFVVY)
 * Bake-Kurage alone cannot cause infusion or be swirled off of. - [Mcpie#8672](https://imgur.com/2swgDRw)
 
+#### Infinite Jellyfish Extension
+**By:** Steno#0119  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934084290352930969/936219344843718656/transcript-infinite-jellyfish-extension.html)
+
+**Finding:**  
+While Kokomi's E does not normally snapshot the damage bonus from her Q, it is possible to snapshot it by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
+
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=K-yy-ghu9IA)
+
+**Significance:**  
+Who doesn't love some obscure Kokomi tech.
+
 ### Burst Mechanics
 
 * The DMG Bonus from her Burst can be extended if an attack is buffered right before her Burst duration ends. - [CC#5588](https://youtu.be/QavGQnCuodQ)

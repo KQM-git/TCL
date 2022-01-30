@@ -94,7 +94,7 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 * **Bake-Kurage** snapshots on **Kurage's Oath** cast and gets resnapshot upon **Nereid's Ascension** procing the duration refresh effect from her Ascension 1.
 * In most cases, the damage bonus from **Ceremonial Garment** is a dynamic stat and thus does not get snapshot by **Bake-Kurage**. However, if Kokomi immediately switches after casting **Kurage's Oath**, the damage bonus from **Ceremonial Garment** is snapshot by **Bake-Kurage**.
 * Casting **Kurage's Oath**, even when interrupted, will still trigger Artifact set effects that trigger on Elemental Skill cast.
-
+* Tech: It is possible to snapshot the damage bonus from **Nereid's Ascension** for **Bake-Kurage** by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
 {% endtab %}
 {% tab title="Nereid&apos;s Ascension" %}
 The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a **Ceremonial Garment** made from the flowing waters of Sangonomiya. 
