@@ -40,7 +40,7 @@ None.
 | 95 | 318001 |
 | 100 | 388220 |
 
-## Rifthound Whelps
+## Rifthounds  
 
 {% tabs %}
 {% tab title="Geo" %}
@@ -77,3 +77,11 @@ Once upon a time, they ran riot across the continent, but they went extinct for 
 
 {% endtab %}
 {% endtabs %}
+
+## Interactions 
+* Some attacks (listed below) can knock Rifthounds prone.  
+  * Jean CA  
+  * Jean Hold E  
+  * Klee CA  
+  * Bennett Skill (Hold level 2)  
+  * Diluc Burst (Final Hit)  
