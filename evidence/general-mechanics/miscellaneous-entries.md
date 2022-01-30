@@ -347,7 +347,7 @@ To do this, you have to take a picture at the moment where you get hit/leap off 
 Knockback cancel/Fluff/investigating the influence pausing the game has on certain actions.
 
 ## Traveler Has Hidden Friendship Meter
-**By:** mmjacobs#9588  
+**By:** mmjacobs\#9588  
 **Added:** 1/23/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931045505801256971/934607873152012388/transcript-traveler-has-hidden-friendship-meter.html)
 
@@ -393,4 +393,4 @@ Photos:
 * Teleporting from Chinju Forest to The Crux: [Photo](https://imgur.com/k0WqHQW)  
 
 **Significance:**  
-For travelers who would like to have specific lighting on The Crux for photo contests.  
+For travelers who would like to have specific lighting on The Crux for photo contests.

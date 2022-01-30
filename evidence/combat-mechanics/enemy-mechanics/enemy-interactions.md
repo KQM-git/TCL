@@ -132,6 +132,28 @@ Lisa’s Conductive mark did not travel down to purgatory along with the Geovish
 This may or may not imply that Marks & Statuses are different, in that the visual indicator of character-produced statuses (Implode, Conductive, etc.) does not behave similar to character-produced marks (Riptide, Blood Blossom, etc.)  
 Further testing should be done on the Implode status (Xiangling C2) but that requires strict timing to determine whether the trend is probable.
 
+### De-Aggro Distances  
+**By:** ep1k\#3678  
+**Added:** 01/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927244617441751060/936434058165121114/transcript-de-aggro-distances-vary-among-enemies.html)  
+
+**Theory:**  
+The de-aggro distance for Overworld enemies differs between them and is not a specific number, but rather a range from their spawn.  
+
+**Evidence:**  
+The distances are calculated using all 3 axis of the Genshin coordinate system from [this Vault Entry](https://library.keqingmains.com/evidence/general-mechanics/overworld#coordinates).  
+Testing method: [Video](https://youtu.be/fkoYcMKGYNg)  
+1. Use the Adventure Handbook to identify enemy spawn.  
+2. Get coordinates of the spawn location.  
+3. Take note of the location at which the enemy de-aggros (involves stopping to attack and going back to spawn).  
+4. Get coordinates of the current location.  
+
+Distances: [Images](https://imgur.com/a/I2EZ2Lw)  
+Summary: [Google Sheet](https://docs.google.com/spreadsheets/d/1s_A_RhVCkLn07XMWDMNMylLiJqhDERxAETmksI7B2Jg/edit#gid=1378246326)  
+
+**Significance:**  
+Insight into the behavior and mechanics of enemies in the Overworld.  
+
 ## General Boss Interactions
 
 ### Freeze Interaction on Boss Enemies
