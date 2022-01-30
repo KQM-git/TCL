@@ -33,31 +33,31 @@ description: A young man carrying a longsword who is frequently seen at book boo
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 67.75% | 9 | 451.7%/s |
-| 2-Hit | 69.25% | 34 | 241.8%/s |
-| 3-Hit | 41.5% \(x2\) | 59 / 78 | 169.2%/s |
-| 4-Hit | 81.38% | 116 | 155.9%/s |
-| 5-Hit | 52.13% \(x2\) | 160 / 195 | 124.8%/s |
+| 1-Hit | 85.64% | 9 | 570.93%/s |
+| 2-Hit | 87.53% | 34 | 305.59%/s |
+| 3-Hit | 52.46% \(x2\) | 59 / 78 | 213.92%/s |
+| 4-Hit | 102.86% | 116 | 197.04%/s |
+| 5-Hit | 65.89% \(x2\) | 160 / 195 | 157.76%/s |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1C | 218.13% | 63 | 207.7%/s |
+| N1C | 218.13% | 63 | 262.58%/s |
 
 * Enemies struck by Xingqiu's charged attack will be staggered or launched.
 
 **Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Guhua Sword: Fatal Rainscreen" %}
@@ -75,7 +75,7 @@ Using this ability applies the Wet status onto the character.
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG (T6%) | 235.2% + 267.68% |
+| Skill DMG (T9%) | 285.6% + 325.04% |
 | Particles | 5 \(-\) |
 | Frames | 82 |
 | GU | 1A \(x2\) |
@@ -86,7 +86,7 @@ Using this ability applies the Wet status onto the character.
 
 | Attribute | Rain Swords |
 | :--- | :--- |
-| DMG Reduction (T6%) | 20% Hydro DMG + 25% |
+| DMG Reduction (T9%) | 20% Hydro DMG + 28% |
 | Snapshot | Snapshot |
 | GU | 1A |
 | ICD | 2.25s |
@@ -112,7 +112,7 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 
 | Attribute | Burst |
 | :--- | :--- |
-| Sword Rain DMG (T6%) | 75.98% |
+| Sword Rain DMG (T9%) | 92.26% |
 | Frames | 29 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |

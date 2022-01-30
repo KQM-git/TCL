@@ -30,31 +30,31 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.98% | 7 | 454.1%/s | 1A |
-| 2-Hit | 49.73% | 25 | 246.5%/s | 1A |
-| 3-Hit | 57.46% | 45 | 213.6%/s | 1A |
-| 4-Hit | 77.28% | 92 | 154.9%/s | 1A | 
-| With Recovery | 237.45% | 123 | 115.8%/s | 1A |
+| 1-Hit | 64.33% | 7 | 551.4%/s | 1A |
+| 2-Hit | 60.38% | 25 | 299.3%/s | 1A |
+| 3-Hit | 69.77% | 45 | 259.31%/s | 1A |
+| 4-Hit | 93.84% | 92 | 188.03%/s | 1A | 
+| With Recovery | 288.32% | 123 | 140.64%/s | 1A |
 
 * 3 hits / 2.5s ICD
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro DMG after a short casting time.
 
-| String | Talent 6% | Frames | MV/s | GU | ICD |
+| String | Talent 9% | Frames | MV/s | GU | ICD |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 232.74% | 90 | 155.16%/s | 1A | 0.5s |
+| Charged Attack | 282.61% | 90 | 188.41%/s | 1A | 0.5s |
 
 **Plunge Attack**  
 Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 6% | GU |
+| Type | Talent 9% | GU |
 | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1A |
-| Low Plunge DMG | 165.17% | 1A |
-| High Plunge DMG | 206.3% | 1A |
+| Plunge DMG | 104.41% | 1A |
+| Low Plunge DMG | 208.77% | 1A |
+| High Plunge DMG | 260.76% | 1A |
 {% endtab %}
 
 {% tab title="Let the Show Begin♪" %}
@@ -68,9 +68,9 @@ Summons water droplets resembling musical notes that form a Melody Loop, dealing
 
 | Attribute | Skill |
 | :--- | :--- |
-| HP Regen/hit \(T6%\) | 1.05% Max HP + 114 |
-| Continuous Regen \(T6%\) | 5.6% Max HP + 610 |
-| Droplet DMG \(T6%\) | 81.76% |
+| HP Regen/hit \(T9%\) | 1.27% Max HP + 147 |
+| Continuous Regen \(T9%\) | 6.8% Max HP + 783 |
+| Droplet DMG \(T9%\) | 99.28% |
 | Particles | 0 |
 | Frames | 52 |
 | GU | 1A |
@@ -87,7 +87,7 @@ Heals your own party members and nearby teammates for a large amount of HP that 
 
 | Attribute | Burst |
 | :--- | :--- |
-| HP Regen \(T6%\) | 24.64% Max HP + 2683 |
+| HP Regen \(T9%\) | 29.92% Max HP + 3445 |
 | Frames | 110 |
 | Energy Cost | 80 |
 | Cooldown | 20s |

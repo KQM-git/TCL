@@ -33,15 +33,15 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 **Normal Attacks**  
 Perform up to 6 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 60% | 17 | 211.8%/s |
-| 2-Hit | 67.25% | 30 | 254.5%/s |
-| 3-Hit | 80.5% | 64 | 194.8%/s |
-| 4-Hit | 82.88% | 101 | 172.7%/s |
-| 5-Hit | 88.5% | 123 | 184.9%/s |
-| 6-Hit | 105.75% | 162 | 179.6%/s |
-| Recovery | -- | 215 | 135.3%/s |
+| 1-Hit | 75.84% | 17 | 267.67%/s |
+| 2-Hit | 85% | 30 | 321.68%/s |
+| 3-Hit | 101.75% | 64 | 246.18%/s |
+| 4-Hit | 104.75% | 101 | 218.22%/s |
+| 5-Hit | 111.86% | 123 | 233.76%/s |
+| 6-Hit | 133.67% | 162 | 226.99%/s |
+| Recovery | -- | 215 | 171.03%/s |
 
 * Recovery of 6th Hit is 53 Frames.
 * MV/s stated is without recovery and assumes a standing combat-neutral startup. 
@@ -55,12 +55,12 @@ Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attack
 • **Riptide Flash**: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.  
 • **Riptide Burst**: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 27 | 141.7%/s | NA |
-| Fully Charged | 173.6% | 84 | 124%/s | 1A |
-| Riptide Flash | 17.63% \* 3 | ~ | ~ | 1A |
-| Riptide Burst | 86.8% | ~ | ~ | 2B |
+| Aimed Shot | 80.58% | 27 | 179.07%/s | NA |
+| Fully Charged | 210.8% | 84 | 150.57%/s | 1A |
+| Riptide Flash | 21.08% \* 3 | ~ | ~ | 1A |
+| Riptide Burst | 105.4% | ~ | ~ | 2B |
 
 **Notes**
 * Aimed Shot frame counts are done using M1 Aimed Spam.
@@ -71,11 +71,11 @@ Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attack
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.  
 When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, he cannot perform a plunge attack.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -84,7 +84,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 
 | Attribute | Skill |
 | :--- | :--- | 
-| Stance Change DMG \(T6%\) | 100.8% |
+| Stance Change DMG \(T9%\) | 122.4% |
 | Frames | 28 |
 | GU | 2B |
 | ICD | None |
@@ -99,24 +99,24 @@ In this Stance, Tartaglia's Normal and Charged Attacks are converted to Hydro DM
 **Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 56.5% | 7 | 484.3%/s |
-| 2-Hit | 60.5% | 20 | 351%/s |
-| 3-Hit | 81.88% | 48 | 248.6%/s |
-| 4-Hit | 87.13% | 80 | 214.5%/s |
-| 5-Hit | 80.38% | 116 | 189.5%/s |
-| 6-Hit | 51.5% + 54.75% | 143 + 165 | 171.9%/s |
+| 1-Hit | 71.42% | 7 | 612.17%/s |
+| 2-Hit | 76.47% | 20 | 443.67%/s |
+| 3-Hit | 103.49% | 48 | 314.23%/s |
+| 4-Hit | 110.13% | 80 | 271.13%/s |
+| 5-Hit | 101.59% | 116 | 239.53%/s |
+| 6-Hit | 65.1% + 69.2% | 143 + 165 | 217.24%/s |
 | GU | 1A | ~ | ~ |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| N1C | 248.62% | 80 | 186.5%/s | 1A |
-| N2C | 309.12% | 93 | 199.4%/s | 1A |
-| N3C | 391% | 125 | 187.7%/s | 1A |
+| N1C | 314.27% | 80 | 235.7%/s | 1A |
+| N2C | 390.74% | 93 | 252.09%/s | 1A |
+| N3C | 494.23% | 125 | 237.23%/s | 1A |
 
 * All frame counts are done against a Ruin Guard.
 
@@ -129,7 +129,7 @@ If the return to a ranged stance occurs automatically after 30s, the CD is even 
 
 | Attribute | Riptide Slash  |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 86.5% |
+| Skill DMG \(T9%\) | 110.6% |
 | Particles | 1 per proc |
 | GU | 1A |
 | ICD | None |
@@ -153,7 +153,7 @@ Returns a portion of its Energy Cost after use.
 
 | Attribute | Ranged Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 529.76% |
+| Skill DMG \(T9%\) | 643.28% |
 | Frames | 52 |
 | GU | 2B |
 | ICD | None |
@@ -173,7 +173,7 @@ DMG dealt in this way is considered Elemental Burst DMG.
 
 | Attribute | Melee Burst | Riptide Blast |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 649.6% | 168% |
+| Skill DMG \(T9%\) | 788.8% | 204% |
 | Frames | 97 | -- |
 | GU | 2B | 2B |
 | ICD | None | None |

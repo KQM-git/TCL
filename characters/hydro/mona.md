@@ -35,13 +35,13 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 52.64% | 18 | 175.5%/s | 1A |
-| 2-Hit | 50.4% | 41 | 150.8%/s | 1A |
-| 3-Hit | 62.72% | 74 | 134.4%/s | 1A |
-| 4-Hit | 78.62% | 113 | 129.8%/s | 1A |
-| With Recovery | 244.38% | 154 | 95.2%/s | 1A |
+| 1-Hit | 63.92% | 18 | 213.07%/s | 1A |
+| 2-Hit | 61.2% | 41 | 183.1%/s | 1A |
+| 3-Hit | 76.16% | 74 | 163.2%/s | 1A |
+| 4-Hit | 95.47% | 113 | 157.56%/s | 1A |
+| With Recovery | 296.75% | 154 | 115.62%/s | 1A |
 
 * Frame counts are done using M1 Spams.
 * Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
@@ -50,11 +50,11 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 209.61% | 107 | 117.5% | 1A |
-| N2C | 312.65% | 141 | 133% | ~ |
-| N3C | 375.37% | 197 | 114.3% | ~ |
+| Charged Attack | 254.52% | 107 | 142.72% | 1A |
+| N2C | 379.64% | 141 | 161.55% | ~ |
+| N3C | 451.32% | 197 | 137.46% | ~ |
 
 * Charged Attack frame counts are done using Timed M1 Spams
 * N2C and N3C frame counts are done using the same method without Jump Cancels.
@@ -63,11 +63,11 @@ Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 **Plunge Attack**  
 Gathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 6% | GU |
+| Type | Talent 9% | GU |
 | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 1A |
-| Low Plunge DMG | 165.1% | 1A |
-| High Plunge DMG | 206.3% | 1A |
+| Plunge DMG | 104.41% | 1A |
+| Low Plunge DMG | 208.77% | 1A |
+| High Plunge DMG | 260.76% | 1A |
 
 {% endtab %}
 
@@ -85,7 +85,7 @@ Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 
 | Attribute | DoT | Explosion |
 | :--- | :--- | :--- 
-| Skill DMG \(T6%\) | 44.8% | 185.92% |
+| Skill DMG \(T9%\) | 54.4% | 225.76% |
 | Tick Rate | 1/s | - |
 | Particles | - |  3~4 \(2:1\) |
 | Frames | 42 | - | 
@@ -139,7 +139,7 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 
 | Attribute | Bubble | Omen |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 619.39% | 52% \(scaling\) |
+| Skill DMG \(T9%\) | 752.08% | 58% \(scaling\) |
 | Frames | 125 | - |
 | GU (Cast) | 1A | 2B |
 | ICD | 3 hits / 2.5s* | 3 hits / 2.5s* | 
