@@ -107,6 +107,7 @@ The shield possesses the following properties:
 **Notes**
 * **Tidecaller** will produce minimum 2 particles, if you get hit once while holding \(one charge\) it produces 3 particles and if you get hit two times \(two charges\) or perform a **perfect parry** it will produce 4 particles.
 * Beidou can perfect counter shots from the Inazuma Kamuijima Cannons.
+* The counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay. [Vault Entry](../../evidence/characters/electro/beidou.md#beidou-counter-startup)
 * **Tidecaller** counter scaling information is tabulated in the table below.
 
 | Tidecaller DMG Bonus | Talent 6%  | Particles | 
@@ -143,7 +144,7 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 **Notes**
 * Beidou's **lightning discharges** have 3 damage instances with 2 targets or more.
 * **Stormbreaker**'s additional arc lightning can jump back to the initial target.
-* The counter for the cooldown does not start on when Beidou's lightning discharge hits, but when the normal attack hits. Hence, the discharge CD can be randomly and inconsistently affected by ping spikes and is not consistently 1 second. - [Vault Entry](../evidence/characters/electro/beidou.md#beidou-lightning-proc-cd)
+* The counter for the cooldown does not start on when Beidou's lightning discharge hits, but when the normal attack hits. Hence, the discharge CD can be randomly and inconsistently affected by ping spikes and is not consistently 1 second. - [Vault Entry](../../evidence/characters/electro/beidou.md#beidou-lightning-proc-cd)
 * **Lightning discharge** can bounce off Mitachurl Shields but will deal no damage.
 * Snapshot on cast.
   * However, if you swap to Beidou and cast her Burst too quick (Left Alt + Switch Character), her Lightning DMG might fail to snapshot certain buffs.

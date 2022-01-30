@@ -23,7 +23,6 @@ search: false
 2. C0-C3 Beidous looking to maximize damage output will want to use 4-hit run cancels and full combo dash cancels.
 3. C4-C6 Beidous can consider using 2-hit run cancel rotations when they want to prioritize Electro damage output.
 
-
 ## Skill Mechanics
 
 ### Frame Analysis of Beidou’s Parry
@@ -66,6 +65,24 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 **Significance:**  
 This makes Beidou's particle production way easier to count.
 
+### Beidou Counter Startup
+**By:** Aftermath#7658  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930577686575853578/936209001497116762/transcript-beidou-counter-startup.html)
+
+**Finding:**  
+Beidou's counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay.
+
+**Evidence:**   
+If we say that frame 0 of the skill is Electro aura application and frame 1 is the skill UI indicator, then the counter is active on frame 1.   
+What complicates things is input delay, which will add 1 extra frame to the startup depending on your luck.  
+
+Here's an album of counter fails with 1 frame parry attempts failing due to 1f input delay, and a couple at the bottom with 0 frame input delays and 0 frame parry attempts: [Imgur](https://imgur.com/a/Ljxx0cW)  
+
+And here's an album of successful 1 frame parry attempts with 0f input delay, with a couple at the bottom showing 1f input delay with successful counters on frame 2: [Imgur](https://imgur.com/a/IQnv2nh)
+
+**Significance:**   
+The parry timing is a little easier than previously thought.
 
 ## Burst Mechanics  
 
