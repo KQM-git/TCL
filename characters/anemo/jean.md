@@ -120,8 +120,8 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 * **Dandelion Breeze** deals Field Enter/Exit DMG to enemies within its AOE on initial cast and when the duration of the **Dandelion Field** ends.
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
   * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element.
- * With precise timing, Anemo can be the aura for self-swirls occasionally. 
-
+  * With precise timing, Anemo can be the aura for self-swirls occasionally.  
+  * This self-swirl interaction does not count as a reaction for Freedom Sworn passive stacks and 4pc Instructor set effect.
 {% endtab %}
 {% endtabs %}
 
