@@ -40,6 +40,23 @@ The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while th
 **Significance:**  
 The Additional Elemental DMG seems to randomly start with the second Initial Cutting DMG or with the first Max Cutting DMG.
 
+### AMC Snapshot 
+**By:** pai#3602  
+**Added:** 1/27/2022   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934098477913374820/936199910582272070/transcript-amc-snapshot-evidence.html)
+
+**Finding:**  
+AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Elemental DMG.
+
+**Evidence:**  
+* Hold E: [Youtube](https://youtu.be/XbZFc77QXQE)  
+Unbuffed Max Cutting DMG (0 stacks, no crit): 171 Anemo, 42 Electro  
+Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
+
+* Q: [Youtube](https://youtu.be/lnia3ynnn0Y)  
+Tornado DMG (no C6): 824 Anemo, 253 Electro  
+Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
+
 ## Burst Mechanics
 
 ### Anemo MC's Burst Absorption is 2B
