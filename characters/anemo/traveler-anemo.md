@@ -153,8 +153,9 @@ Elemental Absorption may only occur once per use.
 | Cooldown | 15s | - |
 
 **Notes**
-* Absorption priority: Cryo > Pyro > Hydro > Electro
-* Deals Anemo DMG 9 times at 0.5 second intervals
+* Absorption priority: Cryo > Pyro > Hydro > Electro.
+* Deals Anemo DMG 9 times at 0.5 second intervals.
+* The Additional Elemental DMG has less AoE than the Tornado DMG. 
 
 {% endtab %}
 {% endtabs %}

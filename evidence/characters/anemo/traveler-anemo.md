@@ -77,6 +77,20 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 **Significance:** Anemo MC needs to be of a sufficiently high level relative to the enemy in order to be at all useful in combat at high enough levels.
 
+### AMC Burst AOE
+**By:** pai#3602  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713520880037960/936073712623583232/transcript-amc-burst-aoe.html)
+
+**Finding:**  
+The Additional Elemental DMG has less AoE than the Tornado DMG. 
+
+**Evidence:**  
+[Youtube](https://youtu.be/JZfWZiAeMsc) - In the video there were all 9 instances of Tornado DMG but only 1 instance of Additional Elemental DMG because the Ruin Guard wasn't right next to the pillar and the Tornado was stuck on the pillar.
+
+**Significance:**  
+The Additional Elemental DMG basically only happens when the Tornado goes right through an enemy.
+
 ## Ascension Passive Mechanics
 
 ### A1: Slitting Wind
