@@ -32,15 +32,15 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 **Normal Attacks**  
 Zhongli performs up to 6 consecutive spear strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 44.72% | 8 | 335.4%/s |
-| 2-Hit | 45.28% | 29 | 186.2%/s |
-| 3-Hit | 56.07% | 45 | 194.8%/s |
-| 4-Hit | 58.42% | 71 | 176.2%/s |
-| 5-Hit | 14.63% x 4 \(58.52%\) | 91 + 97 + 103 + 109 | 149.2%/s |
-| 6-Hit | 74.14% | 153 | 132.2%/s |
-| Recovery | 0% | 200 | 101.1%/s |
+| 1-Hit | 56.53% | 8 | 423.98%/s |
+| 2-Hit | 57.23% | 29 | 235.37%/s |
+| 3-Hit | 70.87% | 45 | 246.17%/s |
+| 4-Hit | 78.89% | 71 | 222.69%/s |
+| 5-Hit | 19.75% x 4 \(79%\) | 91 + 97 + 103 + 109 | 188.54%/s |
+| 6-Hit | 100.12% | 153 | 173.58%/s |
+| Recovery | - | 200 | 132.79%/s |
 
 * Zhongli's string has no hit lag on the spear kick \(N5\).
 * Zhongli's attack string does not always interact with C6 Fischl on his first attack.
@@ -48,18 +48,18 @@ Zhongli performs up to 6 consecutive spear strikes.
 **Charged Attack**  
 Consumes 20 stamina to to lunge forward, causing stone spears to fall along his path.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1C | 206.1% | - | - |
+| N1C | 260.51% | - | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Dominus Lapidis" %}Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
@@ -88,7 +88,7 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 
 | Attribute | Stone Stele | Resonance DMG | Hold DMG |
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 22.4% | 44.8% | 112% |
+| Skill DMG \(T9%\) | 27.2% | 54.4% | 136% |
 | Particles | 0~1 \(1:1\) | 0~1 \(1:1\) | - |
 | Frames | 39 | - | 97 |
 | GU | 1U | 1U | 1U |
@@ -107,8 +107,8 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 
 | Attribute | Shield |
 | :--- | :--- |
-| Base Absorption \(T6%\)| 1951 |
-| Additional Absorption \(T6%\) | 17.92% Max HP |
+| Base Absorption \(T9%\)| 2506 |
+| Additional Absorption \(T9%\) | 21.76% Max HP |
 | Element | Geo |
 | Duration | 20s |
 
@@ -124,8 +124,8 @@ Opponents affected by **Petrification** cannot move.
 
 | Attribute | Burst  |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 639.56% |
-| Petrification Duration | 3.6s |
+| Skill DMG \(T9%\) | 834.68% |
+| Petrification Duration | 3.9s |
 | Frames | 140 |
 | GU | 4U |
 | ICD | 3 hits / 2.5s |

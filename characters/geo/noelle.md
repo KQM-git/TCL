@@ -32,33 +32,33 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 **Normal Attacks**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 115% | 28 | 246%/s |
-| 2-Hit | 106.63% | 70 | 189%/s |
-| 3-Hit | 125.38% | 116 | 179%/s |
-| 4-Hit | 164.88% | 174 | 176%/s |
+| 1-Hit | 145.36% | 28 | 311.49%/s |
+| 2-Hit | 134.77% | 70 | 240.11%/s |
+| 3-Hit | 158.47% | 116 | 226.86%/s |
+| 4-Hit | 208.4% | 174 | 223.1%/s |
 
 Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 
 **Charged Attack**  
 Noelle consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spin | 73.75% | 311 | 142%/s |
-| Final hit | 131.5% | 40 | 148%/s |
+| Spin | 93.22% | 311 | 179.85%/s |
+| Final hit | 166.22% | 40 | 187.76%/s |
 
 Enemies struck by Noelle's charged attack will be staggered or launched.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge Impact | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 
 Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
 
@@ -75,7 +75,7 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 168% DEF |
+| Skill DMG \(T9%\) | 204% DEF |
 | Particles | 0 \(-\) | 
 | Frames | - |
 | GU | 2U |
@@ -88,8 +88,9 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 
 | Attribute | Shield | 
 | :--- | :--- |
-| Base Scaling | 224% DEF + 1219 | 
-| Healing Chance | 55% |
+| Base Scaling \(T9%\) | 272% DEF + 1565 | 
+| Healing Chance | 58% |
+| Healing Scaling \(T9%\) | 36.18% DEF + 209 |
 | Elemental Type | Geo | 
 | Duration | 12s |
 
@@ -110,9 +111,9 @@ Afterwards, Noelle gains the following effects:
 
 | Attribute | Burst |
 | :--- | :--- |
-| Burst DMG (T6%) | 94.08% |
-| Skill DMG (T6%) | 129.925 |
-| ATK Bonus (T6%) | 56% DEF |
+| Burst DMG (T9%) | 114.24% |
+| Skill DMG (T9%) | 157.76% |
+| ATK Bonus (T9%) | 68% DEF |
 | Frames | 111 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s | 

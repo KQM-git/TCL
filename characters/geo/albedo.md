@@ -32,31 +32,31 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 **Normal Attacks**  
 Albedo performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 53.4% | 12 | 267%/s |
-| 2-Hit | 53.4% | 30 | 213.6%/s |
-| 3-Hit | 68.98% | 59 | 178.8%/s |
-| 4-Hit | 72.31% | 98 | 151.9%/s |
-| 5-Hit | 90.22% | 152 | 133.5%/s |
+| 1-Hit | 67.5% | 12 | 337.5%/s |
+| 2-Hit | 67.5% | 30 | 270%/s |
+| 3-Hit | 87.18% | 59 | 225.95%/s |
+| 4-Hit | 91.4% | 98 | 191.99%/s |
+| 5-Hit | 114.04% | 152 | 168.8%/s |
 
 **Charged Attack**  
 Albedo consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1C | 209.65% | 54 | 232.9%/s |
+| N1C | 265% | 54 | 294.44%/s |
 
 Enemies struck by Albedo's charged attack will be launched.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Abiogenesis: Solar Isotoma" %}
@@ -72,7 +72,7 @@ Hold to designate the location of the skill.
 
 | Attribute | Solar Isotoma | Transient Blossom |
 | :--- | :--- | :--- |
-| Talent \(T6%\) | 182.56% | 184.04% DEF |
+| Talent \(T9%\) | 221.68% | 227.12% DEF |
 | Particles | 0 | 0~1 \(1:2\) |
 | Frames | 32 | - |
 | GU | 1U | 1U |
@@ -97,7 +97,7 @@ If a **Solar Isotoma** created by Albedo himself is on the field, 7 **Fatal Blos
 
 | Attribute | Burst Cast | Fatal Blossom |
 | :--- | :--- | :--- |
-| Talent \(T6%\) | 514.08% | 100.8% per Blossom
+| Talent \(T9%\) | 624.24% | 122.4% per Blossom
 | Frames | 96 | - |
 | GU | 1U | 1U |
 | ICD | None | 3 hit / 2.5s |

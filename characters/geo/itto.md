@@ -29,13 +29,13 @@ Perform up to 4 consecutive strikes.
 • When the 2nd and 4th strikes hit opponents, Itto will gain 1 or 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
 • Additionally, Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, "**Masatsu Zetsugi: Akaushi Burst!**"
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 115.16% | 23 | - |
-| 2-Hit | 111% | 67 | - |
-| 3-Hit | 133.2% | 101 | - |
-| 4-Hit | 170.39% | 181 | - |
-| Recovery | - | 202 | - |
+| 1-Hit | 145.57% | 23 | 379.75%/s |
+| 2-Hit | 140.3% | 67 | 256%/s |
+| 3-Hit | 168.36% | 101 | 269.84%/s |
+| 4-Hit | 215.37% | 181 | 221.97%/s |
+| Recovery | 669.6% | 202 | 198.89%/s |
 
 **Notes**
 * Itto can gain **Superlative Superstrength** stacks while off field.
@@ -45,11 +45,15 @@ Perform up to 4 consecutive strikes.
 When holding to perform a Charged Attack, Itto unleashes a series of **Arataki Kesagiri** slashes without consuming Stamina. Instead, each **Arataki Kesagiri** slash consumes 1 stack of **Superlative Superstrength**. When the final stack is consumed, Itto delivers a powerful final slash.
 If no stacks of **Superlative Superstrength** are available, Itto will perform a single **Saichimonji Slash**.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Arataki Kesagiri Combo Slash DMG | 132.5% | - | - |
-| Arataki Kesagiri Final Slash DMG | 277.5% | - | - |
+| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - |
+| Arataki Kesagiri Final Slash DMG | 350.76% | - | - |
 | Saichimonji Slash DMG | 131.5% | - | - |
+| 5CA | 807.5% | 180 | 340.23%/s |
+| 5CA w/ Recovery | ~ | 207 | 295.85%/s |
+| SCAF | 350.76% | 74 | 284.4%/s |
+| SCAF w/ Recovery | ~ | 102 | 206.33%/s |
 
 **Notes**
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.
@@ -57,11 +61,11 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 **Plunge**  
  Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 118.94% |
-| Low Plunge DMG | 237.84% |
-| High Plunge DMG | 297.07% |
+| Plunge Impact | 150.35% |
+| Low Plunge DMG | 300.63% |
+| High Plunge DMG | 375.5% |
 {% endtab %}
 
 {% tab title="Masatsu Zetsugi: Akaushi Burst!" %}
@@ -80,7 +84,7 @@ Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the f
 
 | Attribute | Ushi | 
 | :--- | :--- |
-| Skill DMG \(T6%\) | 430.08% |
+| Skill DMG \(T9%\) | 522.24% |
 | Inherited HP | 100% |
 | Particles | 3~4 \(1:1\) | 
 | Frames | 26 |
@@ -114,7 +118,7 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 
 | Attribute | Burst |
 | :--- | :--- |
-| ATK Bonus \(T6%\) | 80.64% DEF |
+| ATK Bonus \(T9%\) | 97.92% DEF |
 | ATK SPD Bonus | 10% |
 | Energy Cost | 70 |
 | Duration | 11s |

@@ -32,9 +32,9 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 Shoots gems that deal Geo DMG.  
 Upon hit, grants Ningguang 1 **Star Jade**.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 39.2% x 2 | 25 | 188.16%/s | 1U |
+| Normal Attack | 47.6% x 2 | 25 | 228.48%/s | 1U |
 
 **Notes**
 * Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
@@ -44,10 +44,10 @@ Upon hit, grants Ningguang 1 **Star Jade**.
 Consumes 50 stamina to fire off a giant gem that deals Geo DMG.  
 If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 243.71% | 50 | 292.4%/s | 1U |
-| DMG per Star Jade | 69.44% | 50 | 83.3%/s | 1U |
+| Charged Attack DMG | 295.94% | 50 | 355.13%/s | 1U |
+| DMG per Star Jade | 84.32% | 50 | 101.18%/s | 1U |
 
 **Notes**
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
@@ -58,11 +58,11 @@ If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the 
 **Plunge**  
  Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Geo DMG upon impact with the ground.
 
-| Type | Talent 6% | GU |
+| Type | Talent 9% | GU |
 | :--- | :--- | :--- |
-| Plunge Impact | 82.6% | ~ |
-| Low Plunge DMG | 165.17% | 1U |
-| High Plunge DMG | 206.3% | 1U |
+| Plunge Impact | 104.41% | ~ |
+| Low Plunge DMG | 208.77% | 1U |
+| High Plunge DMG | 260.76% | 1U |
 
 * Low/High Plunge applies Geo and has no ICD.
 
@@ -79,7 +79,7 @@ Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 322.56% |
+| Skill DMG \(T9%\) | 391.68% |
 | Particles | 3~4 \(3:2\) |
 | Frames | 34 |
 | GU | 1U |
@@ -93,9 +93,9 @@ Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence
 * **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
 * **Jade Screen** has no ICD for the detection of aura-checks.
 
-| Attribute | Construct (Talent 6%) |
+| Attribute | Construct (Talent 9%) |
 | :--- | :--- |
-| Health | 66% Max HP |
+| Health | 77.7% Max HP |
 | Duration | 30s |
 
 {% endtab %}
@@ -107,7 +107,7 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 
 | Attribute | Burst |
 | :--- | :--- |
-| DMG per Gem \(T6%\) | 121.74% |
+| DMG per Gem \(T9%\) | 147.83% |
 | Frames | 101 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |

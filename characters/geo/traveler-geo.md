@@ -33,32 +33,33 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 14 | 276.8%/s |
-| 2-Hit | 63.13% | 43 | 178.1%/s |
-| 3-Hit | 77% | 80 | 153.5%/s |
-| 4-Hit | 84.75% | 116 | 149.7%/s |
-| 5-hit | 102.88% | 148 | 159.1%/s |
+| 1-Hit | 81.69% | 14 | 350.1%/s |
+| 2-Hit | 79.79% | 43 | 225.32%/s |
+| 3-Hit | 97.33% | 80 | 194.11%/s |
+| 4-Hit | 107.12% | 116 | 189.27%/s |
+| 5-hit | 130.03% | 148 | 201.06%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 81.25%+105% | 62 | 242.8%/s |
-| N2C | 81.25%+105% | 84 | 224%/s |
-| N3C | 81.25%+105% | 115 | 204%/s |
-| N4C | 81.25%+105% | 160 | 178.4%/s |
+| Charged Attack | 102.7%+132.72% | - | - |
+| N1C | 317.11% | 62 | 306.89%/s |
+| N2C | 396.90% | 84 | 283.5%/s |
+| N3C | 494.23% | 115 | 260.12%/s |
+| N4C | 601.35% | 160 | 225.51%/s |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -68,32 +69,33 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 13 | 298.15%/s |
-| 2-Hit | 63.13% | 38 | 201.63%/s |
-| 3-Hit | 77% | 71 | 172.99%/s |
-| 4-Hit | 84.75% | 123 | 141.22%/s |
-| 5-hit | 102.88% | 163 | 144.48%/s |
+| 1-Hit | 81.69% | 13 | 377.03%/s |
+| 2-Hit | 79.79% | 38 | 254.97%/s |
+| 3-Hit | 97.33% | 71 | 218.71%/s |
+| 4-Hit | 107.12% | 123 | 178.5%/s |
+| 5-hit | 130.03% | 163 | 182.56%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 81.25%+88.25% | 54 | 260.1%/s |
-| N2C | 81.25%+88.25% | 90 | 198.1%/s |
-| N3C | 81.25%+88.25% | 115 | 195.2%/s |
-| N4C | 81.25%+88.25% | 160 | 172.1%/s |
+| Charged Attack | 102.7%+111.55% | - | - |
+| N1C | 295.94% | 54 | 328.82%/s |
+| N2C | 297.26% | 90 | 250.49%/s |
+| N3C | 374.26% | 115 | 246.81%/s |
+| N4C | 459.01% | 160 | 217.57%/s |
 
 **Plunge**
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -106,7 +108,7 @@ This skill's positioning may be adjusted.
 
 | Attribute | Skill | 
 | :--- | :--- |
-| Skill DMG \(T6%\) | 347.2%  |
+| Skill DMG \(T9%\) | 421.6%  |
 | Particles | 3~4 \(2:1\) | 
 | Frames | 25 |
 | GU | 2U |
@@ -132,7 +134,7 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 
 | Attribute | Burst | 
 | :--- | :--- |
-| Shockwave DMG \(T6%\) | 207.2% |
+| Shockwave DMG \(T9%\) | 251.6% |
 | Frames | 39 |
 | GU | 2U |
 | ICD | Standard | 

@@ -26,31 +26,31 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 58.88% | 15 | 235.52% |
-| 2-Hit DMG | 58.5% | 38 | 185.33% |
-| 3-Hit DMG | 33.38% + 40% | 61 + 75 | 152.61% |
-| 4-Hit DMG | 34.88% + 41.88% | 101 + 113 | 142.05% |
-| 5-Hit DMG | 97.88% | 157 | 139.64% | 
+| 1-Hit DMG | 74.42% | 15 | 297.68% |
+| 2-Hit DMG | 73.94% | 38 | 234.25% |
+| 3-Hit DMG | 42.19% + 50.56% | 61 + 75 | 192.88% |
+| 4-Hit DMG | 44.08% + 52.93% | 101 + 113 | 179.53% |
+| 5-Hit DMG | 123.71% | 157 | 176.5% | 
 | Recovery | - | 214 | - |
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1CA | 235.76% | 13 + 57 | 248.17% | 
+| N1CA | 297.99% | 13 + 57 | 313.67% | 
 | Recovery | - | 89 | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG |  101.1% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG |  117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Opening Flourish" %}
@@ -68,7 +68,7 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 
  Attribute | Tap | Charge Level 1 | Charge Level 2 |
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 208.77% DEF | 365.34% DEF | 521.92% DEF |
+| Skill DMG \(T9%\) | 253.5% DEF | 443.63% DEF | 633.76% DEF |
 | Particles | 2 \(-\) | 2~3 \(3:2\) | 3 \(-\) 
 | Frames | 59 | 109 | 147 |
 | GU | 2U | 2U | 4U | 
@@ -81,7 +81,7 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 
 | Attribute | Shield |
 | :--- | :--- |
-| DMG Absorption \(T6%\) | 16.8% Max HP + 1830 |
+| DMG Absorption \(T9%\) | 20.4% Max HP + 2350 |
 | Elemental Type | Geo |
 | Duration | Hold Duration |
 
@@ -103,8 +103,8 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 
 | Attribute | Burst | 
 | :--- | :--- |
-| Skill DMG \(T6%\) | 341.6% | 
-| Damage Increase \(T6%\) | 45.02% DEF |
+| Skill DMG \(T9%\) | 414.8% | 
+| Damage Increase \(T9%\) | 54.67% DEF |
 | Trigger Quota | 30 |
 | Frames | 55 |
 | GU | 2U |

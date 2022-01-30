@@ -26,33 +26,33 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 54.88% | 18 | 182.93%/s |
-| 2-Hit | 54% | 37 | 176.56%/s |
-| 3-Hit | 71.88% | 85 | 127.60%/s |
-| 4-Hit | 85.75% | 132 | 121.14%/s |
-| Recovery | - | 162 | 98.10%/s | 
+| 1-Hit | 69.36% | 18 | 231.2%/s |
+| 2-Hit | 68.26% | 37 | 223.17%/s |
+| 3-Hit | 90.85% | 85 | 161.27%/s |
+| 4-Hit | 108.39% | 132 | 153.12%/s |
+| Recovery | - | 162 | 124.76%/s | 
 
 **Charged Attack**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
 
-| String | Talent 6% | Frames | MV/s | GU | 
+| String | Talent 9% | Frames | MV/s | GU | 
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 23 | 166.30%/s | - |
-| Fully-Charged Aimed Shot | 173.6% | 86 | 121.12%/s | 1U |
+| Aimed Shot | 80.58% | 23 | 210.21%/s | - |
+| Fully-Charged Aimed Shot | 210.8% | 86 | 147.07%/s | 1U |
 
 * Fully-Charged Aimed Shot has no ICD.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge Impact | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Inuzaka All-Round Defense" %}  
@@ -71,8 +71,8 @@ Adjust the location of the skill.
 
 | Attribute | War Banner | 
 | :--- | :--- |
-| Skill DMG \(T6%\) | 150.08% |
-| DEF Increase \(T6%\) | 289 |
+| Skill DMG \(T9%\) | 182.24% |
+| DEF Increase \(T9%\) | 350 |
 | Geo DMG Bonus | 15% |
 | Particles | 2 \(-\) | 
 | Frames | 46 \(Press\)<br />62-649 \(Hold\) |
@@ -106,7 +106,7 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 
 | Attribute | Burst | Crystal Collapse | 
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 137.5% DEF | 85.82% DEF | 
+| Skill DMG \(T9%\) | 166.97% DEF | 104.21% DEF | 
 | Frames | 56 | - |
 | GU | 1U | 1U |
 | ICD | - | 3 hit / 2.5s | 
