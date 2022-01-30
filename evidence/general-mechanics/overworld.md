@@ -189,7 +189,7 @@ In practice, the negative value of the "x-intercept" (DEF when EHP approaches 0,
 Important note: This level only applies to the two tested barrels shown in the videos in evidence 1.
 
 Barrel levels (probably) follow zone level rules.  
-* [Zone levels](../evidence/general-mechanics/overworld.md#zone-levels) 
+* [Zone levels](../../general-mechanics/overworld.md#zone-levels) 
 * [Mondstadt zone map](https://imgur.com/E0oN0B6)
 
 Two zones (dark blue, orange) were tested and the barrels within those zones all do the same amount of damage, given that the character's defense remains constant.   
@@ -1273,3 +1273,17 @@ It should be noted that some objects simply cannot be tested as they are destroy
 
 **Significance:**  
 Largely fluff. However, the application of cryo does mean that some elemental reactions can be performed on inanimate objects which can come with some side benefits. An example of this is that shatter can be trigged on rocks via this method, turning normally slow characters for mining into slightly more acceptable (such as Albedo). 
+
+### Electro Seelie Electro Application Vertical Range
+**By:** EatYourVeggies#7493  
+**Added:** 1/27/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933751514776891482/936079772323295282/transcript-electro-seelie-electro-application-vertical-range.html)
+
+**Finding:**  
+Electro Seelie when on a mount, can apply Electro at any vertical range, but not when it has yet to reach its final destination.
+
+**Evidence:**  
+[Totem Seelie](https://youtu.be/Mmu8oY0Wvds) / [Free Seelie](https://youtu.be/RhFD0kHPAkg)
+
+**Significance:**  
+More knowledge on Electro Seelie mechanics

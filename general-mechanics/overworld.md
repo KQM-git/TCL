@@ -192,6 +192,10 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 ## Stuff Can Infuse Cryo
 The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold cryo without said cryo being visible through elemental sight.
 
+## Electro Seelie Electro Application 
+
+* Electro seelie when on a mount, can apply electro at any vertical range, but not when it has yet to reach its final destination. [Vault Entry](../evidence/general-mechanics/overworld.md#electro-seelie-electro-application-vertical-range)
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
