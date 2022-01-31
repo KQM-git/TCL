@@ -81,6 +81,47 @@ Better understanding of how melee combos work.
 
  **Significance:** You could die, and extend melee duration. probably not that useful tho.  
 
+### Elemental Skill and Attack or Burst on the Same Frame 
+
+**By:** BowTae\#0141  
+**Added:** 01/31/2022
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934193183104049242/937185816462110740/transcript-childe-stance-change-shenanigans.html)  
+
+**Finding:**  
+By pressing Skill \(E\) and either Attack or Burst \(Q\) on the same frame while moving, you can do some weird things.
+In other words, hold W, then press EQ, or E and LMB, at the same exact time. 
+
+**Evidence:**  
+Skill and Attack on the Same Frame \(I will call this \[EN1\]\):  
+1\. Starting in Ranged Stance, [EN1] puts Childe in Melee Stance while performing a ranged N1 \(rN1\).
+  * In most cases, Childe will start the rN1, and then suddenly stop before the arrow can come out: [YouTube](https://youtu.be/GJEcmFXpu5k)
+  * With a frame-perfect Attack input \(press and release Attack in 1 frame\), Childe can finish the rN1: [YouTube](https://youtu.be/Ly7gjnvqAWo)
+    * Childe will do Melee Attacks after rN1, notably skipping mN1 and going straight into mN2.
+
+2\. Starting in Melee Stance, \[EN1\] puts Childe in Ranged Stance while performing a melee N1 \(mN1\).
+  * Childe will do Ranged Normal Attacks after mN1, notably skipping rN1 and going straight into rN2: [YouTube](https://youtu.be/0P6YqW7q-4c)
+    * Holding Attack for longer doesn't let him do mN1C, he simply does nothing after the mN1.
+  * Childe can also cancel the mN1 with Aim mode, allowing him to do mN1-ARCC \(useless but cool\): [YouTube](https://youtu.be/wVWK7DdlaSs)
+  * The mN1 does not trigger Riptide Slash, even though it is a melee attack. This likely indicates that melee attacks cannot trigger Riptide Slash while in Ranged Stance: [YouTube](https://youtu.be/5CXPj0nINAU)
+  * Using this tech, Childe is able to perform a legitimate Dragonstrike \(using ranged Plunge\), no longer needing to rely on footstool: [YouTube](https://youtu.be/y25mfT2FLFc)
+  * It is possible to do this tech on mN2 and higher using a walk extension: [YouTube](https://youtu.be/zqrRInaUuy8)
+
+Skill and Burst on the Same Frame \(I will call this \[EQ\]\):
+1\. Starting in Ranged Stance, \[EQ\] puts Childe in Melee Stance while casting Ranged Burst: [YouTube](https://youtu.be/wwCpati1azQ)
+  * The burst camera angle is messed up.
+  * C6 does NOT trigger upon returning to ranged stance: [YouTube](https://youtu.be/rPKLcXQN7Oc) - Mystathi\#9705
+  * Doing this with 4pc Shimenawa's allows Childe to activate the 4pc effect while avoiding the energy tax: [YouTube](https://youtu.be/3fHjMaCtjz0)  
+2\. Starting in Melee Stance, \[EQ\] puts Childe in Ranged Stance while casting Melee Burst: [YouTube](https://youtu.be/Qgcjw5w1e2E)
+  * The burst camera angle is messed up.
+  * C6 does NOT trigger on the inital return to ranged stance: [YouTube](https://youtu.be/_NR07r1MZT0) - Mystathi\#9705
+  * However, the next time that Childe uses skill and then returns to ranged, C6 DOES trigger: [YouTube](https://youtu.be/7rY5yFc3LLQ) - Mystathi\#9705
+  * Doing this with 4pc Shimenawa's allows Childe to activate the 4pc effect while avoiding the energy tax: [YouTube](https://youtu.be/lAM1Z2QLilE) - yolitme0\#0579 
+
+**Significance:**  
+* \[EN1\] is mostly fluff right now, can enable some cool looking attack strings.
+* \[ErQ\] can potentially improve 4pc Shime Childe usability. Let's you tax evade with Ranged Burst which also refunds Energy, puts you into melee stance, and doesn't rely on high ping.
+* \[EmQ\] activates C6 on second skill rotation, which can allow for new potential setups.  
+
 ## Riptide Mechanics
 
 ### **Riptide Burst \(Enemy Kill\) can be triggered by other units**
