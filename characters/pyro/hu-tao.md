@@ -33,27 +33,27 @@ description: The 77th Director of the Wangsheng Funeral Parlor. She took over th
 **Normal Attacks**  
 Hu Tao performs up to 6 consecutive spear strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.47% | 13 | 297.6%/s |
-| 2-Hit | 66.35% | 29 | 253.2%/s |
-| 3-Hit | 83.94% | 54 | 238.6%/s |
-| 4-Hit | 90.26% | 90 | 198.9%/s |
-| 5-Hit | 45.75% + 48.40% | 120+134 | 178.7%/s |
-| 6-Hit | 118.19% | 173 | 178.4%/s |
-| Recovery | N/A | 238 | 131.0%/s |
+| 1-Hit | 78.85% | 13 | 363.92%/s |
+| 2-Hit | 81.15% | 29 | 331.03%/s |
+| 3-Hit | 102.68% | 54 | 291.87%/s |
+| 4-Hit | 110.4% | 90 | 248.72%/s |
+| 5-Hit | 55.96% + 59.2% | 120+134 | 218.61%/s |
+| 6-Hit | 144.57% | 173 | 219.47%/s |
+| Recovery | N/A | 238 | 159.53%/s |
 
 **Charged Attack**  
 Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 251.42% | 65 | 232.08% |
-| N2C | 317.77% | 85 | 224.47% |
-| N3C | 401.71% | 92 | 262.13% |
-| N4C | 491.97% |  |  |
-| N5C | 586.12% |  |  |
-| N6C | 704.31% |  |  |
+| N1C | 307.51% | 65 | 283.86% |
+| N2C | 388.66% | 85 | 274.35% |
+| N3C | 491.34% | 92 | 320.44% |
+| N4C | 601.74% |  |  |
+| N5C | 716.90% |  |  |
+| N6C | 861.47% |  |  |
 
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
@@ -64,11 +64,11 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 89.95% |
-| Low Plunge DMG | 179.86% |
-| High Plunge DMG | 224.66% |
+| Plunge Impact | 110.02% |
+| Low Plunge DMG | 220% |
+| High Plunge DMG | 274.79% |
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
@@ -89,7 +89,7 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
 
 | Attribute | Paramita Papilio |
 | :--- | :--- |
-| ATK Increase \(T6%\) | 5.06% Max HP |
+| ATK Increase \(T9%\) | 5.96% Max HP |
 | Activation Cost | 30% Current HP |
 | Particles | 2~3 \(3:2\) |
 | Frames | 42 |
@@ -99,7 +99,7 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
 
 | Attribute | Blood Blossom |
 | :--- | :--- |
-| Blood Blossom DMG \(T6%\) | 89.6% |
+| Blood Blossom DMG \(T9%\) | 108.8% |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Dynamic |
@@ -124,10 +124,10 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG (T6%) | 399.52% |
-| Low HP Skill DMG (T6%) | 499.4% |
-| Skill HP Regeneration (T6%) | 8.25% Max HP |
-| Low HP Skill Regeneration (T6%) | 11% Max HP |
+| Skill DMG (T9%) | 470.34% |
+| Low HP Skill DMG (T9%) | 587.93% |
+| Skill HP Regeneration (T9%) | 9.71% Max HP |
+| Low HP Skill Regeneration (T9%) | 12.95% Max HP |
 | Frames | 130 |
 | GU | 2B |
 | ICD | None |

@@ -32,20 +32,20 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.75% | 12 | 323.8%/s |
-| 2-Hit | 62.13% | 32 | 237.9%/s |
-| 3-Hit | 79.38% | 63 | 196.4%/s |
-| 4-Hit | 86.75% | 118 | 149%/s |
-| 5-Hit | 104.5% | 167 | 142.8%/s |
+| 1-Hit | 81.84% | 12 | 409.20%/s |
+| 2-Hit | 78.53% | 32 | 300.69%/s |
+| 3-Hit | 100.33% | 63 | 248.29%/s |
+| 4-Hit | 109.65% | 118 | 188.31%/s |
+| 5-Hit | 132.09% | 167 | 180.52%/s |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s|
+| String | Talent 9% | Frames | MV/s|
 | :--- | :--- | :--- | :--- |
-| N1C | 234.25% | 100 | 136.4%/s |
+| N1C | 296.09% | 100 | 177.65%/s |
 
 * All frame counts are done against Ruin Guards.
 * Enemies struck by Bennett's charged attack will be staggered or launched.
@@ -53,11 +53,11 @@ Consumes 20 stamina to unleash 2 consecutive strikes.
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge Impact | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Passion Overload" %} 
@@ -74,8 +74,8 @@ Bennett takes no damage from being launched.
 
 | Attribute | Skill Press | Skill Hold \(Level 1\) | Skill Hold \(Level 2\) |
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 192.64% | 117.6% + 128.8% | 123.2% + 134.4% + 184.8% |
-| MV/s \(T6%\) | 222.3%/s | 132%/s | 134.7%/s |
+| Skill DMG \(T9%\) | 233.92% | 142.8% + 156.4% | 149.6% + 163.2% + 224.4% |
+| MV/s \(T9%\) | 269.91%/s | 160.29%/s | 163.61%/s |
 | Particles | 2~3 \(3:1\) | 3 \(-\) | 3 \(-\)  |
 | Frames | 52 | 112 | 197 |
 | GU | 2B | 2x 1A | 3x 1A |
@@ -102,7 +102,7 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 325.92% |
+| Skill DMG \(T9%\) | 395.76% |
 | Frames | 51 |
 | GU | 2B |
 | ICD | None |
@@ -112,10 +112,10 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 | Energy Cost | 60 |
 | CD | 15s |
 
-| Attribute | Field \(Talent 6%\) |
+| Attribute | Field \(Talent 9%\) |
 | :--- | :--- |
-| HP Regeneration | 8.4% Max HP + 914 |
-| ATK Bonus Ratio | 78.4% **Base ATK** |
+| HP Regeneration | 10.2% Max HP + 1174 |
+| ATK Bonus Ratio | 95.2% **Base ATK** |
 | Imbue | 1A |
 | Duration | 12s |
 

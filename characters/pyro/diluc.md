@@ -33,30 +33,30 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 **Normal Attacks**  
 Diluc performs up to 4 consecutive attacks.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.38% | 24 | 326%/s |
-| 2-Hit | 127.38% | 77 | 200.9%/s |
-| 3-Hit | 143.63% | 115 | 209.42%/s |
-| 4-Hit | 194.75% | 181 | 197.61%/s |
+| 1-Hit | 164.79% | 24 | 411.98%/s |
+| 2-Hit | 161% | 77 | 253.86%/s |
+| 3-Hit | 181.54% | 115 | 264.69%/s |
+| 4-Hit | 246.16% | 181 | 249.78%/s |
 
 **Charged Attack**  
 Drains 40 stamina a second to perform continuous slashes.  
 At the end of the sequence, perform a more powerful slash.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| Slash | 100.00% | 30 | 200%/s |
-| Final Slash | 181.25% | 29 | 375%/s |
+| Slash | 126.4% | 30 | 252.8%/s |
+| Final Slash | 229.1% | 29 | 474%/s |
 
 **Plunge**  
 Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 130.1% |
-| Low Plunge DMG | 260.13% |
-| High Plunge DMG | 324.92% |
+| Plunge Impact | 164.44% |
+| Low Plunge DMG | 328.81% |
+| High Plunge DMG | 410.7% |
 {% endtab %}
 
 {% tab title="Searing Onslaught" %}
@@ -65,8 +65,8 @@ This skill can be consecutively used 3 times. Enters CD if not cast again within
 
 | Attribute | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 132.16% | 136.64% | 180.32% |
-| MV/s \(T6%\) | 176.2%/s | 157.7%/s | 133.6%/s | 226.6%/s |
+| Skill DMG \(T9%\) | 160.48% | 165.92% | 218.96% |
+| MV/s \(T9%\) | 213.97%/s | 191.45%/s | 162.19%/s | 
 | Particles | 1~2 \(3:1\) | 1~2 \(3:1\) | 1~2 \(3:1\) | 
 | Frames | 45 | 52 | 81 |
 | GU | 1A | 1A | 1A |
@@ -90,8 +90,8 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 
 | Attribute | Slashing DMG | DoT DMG | Explosion DMG |
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 286.6% | 84.0% | 285.6% |
-| MV/s | 341%/s | - | - |
+| Skill DMG \(T9%\) | 346.8% | 102% | 346.8% |
+| MV/s | 413.63%/s | - | - |
 | Frames | 145 | - | - |
 | GU | 2B | 1A | ? |
 | ICD | 5 hits/5s* | 5 hits/5s* | 5 hits/5s* |

@@ -30,31 +30,31 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 **Normal Attacks**  
 Performs up to four consecutive spear strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.53% | 11 | 351.98% |
-| 2-Hit DMG | 63.41% | 49 | 155.66% |
-| 3-Hit DMG | 38.94% ×2 | \(76+89\) | 138.76% |
-| 4-Hit DMG | 97.9% | 114 | 159.85% |
+| 1-Hit DMG | 81.56% | 11 | 444.87% |
+| 2-Hit DMG | 80.15% | 49 | 198% |
+| 3-Hit DMG | 49.22% ×2 | \(76+89\) | 175.38% |
+| 4-Hit DMG | 123.75% | 114 | 202.05% |
 | Recovery | - | 155 | -- |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 163.88% | \(14+56\) | -- |
+| Charged Attack DMG | 207.14% | \(14+56\) | -- |
 
 * Stamina Cost:  25
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Blazing Blessing" %}
@@ -70,7 +70,7 @@ The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain 
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 204.96% |
+| Skill DMG \(T9%\) | 248.88% |
 | Particles | 3~4 \(3:2\) |
 | Frames | 44 | 
 | GU | 1A | 
@@ -82,8 +82,8 @@ The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain 
 
 | Attribute | Shield |
 | :--- | :--- |
-| Shield DMG Absorption \(T6%\) | 10.08% Max HP + 1098 |
-| Max Shield DMG Absorption \(T6%\) | 27.44% Max HP + 2989 |
+| Shield DMG Absorption \(T9%\) | 12.24% Max HP + 1410 |
+| Max Shield DMG Absorption \(T9%\) | 33.32% Max HP + 3838 |
 | Shield Element | Pyro | 
 | Shield Duration | 8 s |
 | CD | 15s |
@@ -110,7 +110,7 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 
 | Attribute | Skill | Fiery Collapse |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 81.2% | 123.2% |
+| Skill DMG \(T9%\) | 149.6% | 98.6% |
 | Frames | 56 | - |
 | GU | 2B | 1A |
 | ICD | 3 hits / 2.5s | 3 hits / 2.5s |
@@ -123,7 +123,7 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 
 | Attribute | Scorching Ooyoroi |
 | :--- | :--- |
-| Shield DMG Absorption \(T6%\) | 1.6% Max HP + 174 |
+| Shield DMG Absorption \(T9%\) | 1.94% Max HP + 224 |
 | Shield Duration | 8 s |
 | Scorching Ooyoroi Duration | 15 s |
 | CD | 20 s |

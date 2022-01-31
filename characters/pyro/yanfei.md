@@ -36,11 +36,11 @@ When Yanfei's Normal Attacks hit enemies, they will grant her a single **Scarlet
 Each **Scarlet Seal** will decrease Yanfei's Stamina consumption g6 15% and will disappear when she leaves the field.
 
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 81.68% | 13 | 376.98%/s |
-| 2-Hit | 72.98% | 41 | 226.33%/s |
-| 3-Hit | 106.42% | 90 | 174.05%/s |
+| 1-Hit | 99.18% | 13 | 457.75%/s |
+| 2-Hit | 88.61% | 41 | 274.81%/s |
+| 3-Hit | 129.22% | 90 | 211.34%/s |
 | GU | 1A | ~ | ~ |
 
 **Notes**
@@ -52,21 +52,21 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's charged attack shatters frozen targets.
 
-| String | Talent 6% | Frames |
+| String | Talent 9% | Frames |
 | :--- | :--- | :--- |
-| Charged Attack | 129.40% + 22.84%/Seal | 72 |
+| Charged Attack | 152.34% + 26.89%/Seal | 72 |
 | GU | 1A | ~ |
-| N1C | 211.08% + 22.84%/Seal | 98 |
-| N2C | 284.06% + 22.84%/Seal | 107 |
-| N3C | 390.48% + 22.84%/Seal | 168 |
+| N1C | 251.52% + 26.89%/Seal | 98 |
+| N2C | 340.13% + 26.89%/Seal | 107 |
+| N3C | 469.35% + 26.89%/Seal | 168 |
 
 **Plunge**
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 82.60% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.30% |
+| Plunge Impact | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Signed Edict" %}
@@ -75,7 +75,7 @@ Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Se
 
 | Effect | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 237.44% |
+| Skill DMG \(T9%\) | 288.32% |
 | Particles | 3 \(-\) |
 | Frames | 46 |
 | GU | 1A |
@@ -101,8 +101,8 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 
 | Effect | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 255.36% |
-| Charged Attack DMG Bonus | 44% |
+| Skill DMG \(T9%\) | 310.08% |
+| Charged Attack DMG Bonus | 51.8% |
 | Scarlet Seal Grant Interval | 1s |
 | Frames | 65 |
 | GU | 2B |

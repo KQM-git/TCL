@@ -30,21 +30,21 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 111.25% | 25 | 267%/s |
-| 2-Hit | 107.5% | 69 | 190.2%/s |
-| 3-Hit | 138.75% | 139 | 154.3%/s |
-| 4-Hit | 168.38% | 204 | 154.7%/s |
+| 1-hit | 140.62% | 25 | 337.49%/s |
+| 2-Hit | 135.88% | 69 | 240.43%/s |
+| 3-Hit | 175.38% | 139 | 195.06%/s |
+| 4-Hit | 212.83% | 204 | 195.50%/s |
 
 **Charged Attack**  
 Drains 40 stamina a second to perform continuous spinning attacks against all nearby opponents.  
 At the end of the sequence, perform a more powerful slash. 
 
-| Type | Talent 6% | Frames | MV/s |
+| Type | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spin | 90.91% | 30 | 181.8%/s |
-| Final hit | 164.38% | 29 | 340.1%/s |
+| Spin | 114.91% | 30 | 229.82%/s |
+| Final hit | 207.77% | 29 | 429.87%/s |
 
 * Charged Attack has a wind up of 89 frames.
 * All frame counts are done against Ruin Guards.
@@ -52,11 +52,11 @@ At the end of the sequence, perform a more powerful slash.
 **Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge DMG | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
@@ -71,7 +71,7 @@ The shield's DMG Absorption scales based on Xinyan's DEF and on the number of op
 
 | Attribute | Swing | Rave |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 237.44% | 47.04% * 6 |
+| Skill DMG \(T9%\) | 288.32% | 57.12% * 6 |
 | Tick Rate | - |  2s |
 | Particles | 4 | - |
 | Frames | 65 | - |
@@ -82,11 +82,11 @@ The shield's DMG Absorption scales based on Xinyan's DEF and on the number of op
 | Damage Element | Pyro | Pyro |
 | Cooldown | 18s | - |
 
-| Attribute | Shield (Talent 6%) |
+| Attribute | Shield (Talent 9%) |
 | :--- | :--- |
-| Level 1 **Ad Lib** | 145.06% Def + 793 |
-| Level 2 **Lead-In** | 171.36% Def + 932 |
-| Level 3 **Rave** | 201.6% Def + 1097 |
+| Level 1 **Ad Lib** | 176.87% DEF + 1018 |
+| Level 2 **Lead-In** | 208.08% DEF + 1197 |
+| Level 3 **Rave** | 244.8% DEF + 1409 |
 | Elemental Type | Pyro |
 | Duration | 12s |
 **Notes**
@@ -101,7 +101,7 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 
 | Effect | Burst | DoT | 
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 477.12% | 56% x 7 |
+| Skill DMG \(T9%\) | 579.36% | 68% x 7 |
 | Frames | 98 | - |
 | GU | - | 1A |
 | ICD | - | 3 hit / 2.5s | 

@@ -32,11 +32,11 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 **Normal Attacks**  
 Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
  
-| String | Talent 6% | Frames | Motion Value | GU |
+| String | Talent 9% | Frames | Motion Value | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 101.02% | 32 | 189.4%/s | 1A |
-| 2-Hit | 87.36% | 76 | 148.7%/s | 1A |
-| 3-Hit | 125.89% | 151 | 124.8%/s | 1A |
+| 1-Hit | 122.67% | 32 | 230.00%/s | 1A |
+| 2-Hit | 106.08% | 76 | 180.59%/s | 1A |
+| 3-Hit | 152.86% | 151 | 151.63%/s | 1A |
 
 **Notes**
 * Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
@@ -45,20 +45,20 @@ Throws things that go boom when they hit things! Perform up to 3 explosive attac
 **Charged Attack**  
 Consumes 50 stamina and deals AoE Pyro DMG to opponents after a short casting time.
 
-| String | Talent 6% | Frames | Motion Value | GU | ICD |
+| String | Talent 9% | Frames | Motion Value | GU | ICD |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| CA | 220.30% | 50 | 264.36%/s | 1A | 0.5s |
+| CA | 267.51% | 50 | 321.01%/s | 1A | 0.5s |
 
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
 **Plunge**  
 Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 82.60% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.30% |
+| Plunge Impact | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Jumpy Dumpty" %}
@@ -72,7 +72,7 @@ Starts with 2 charges.
 
 | Attribute | Bounce DMG | Mine DMG |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 133.28% | 45.92% |
+| Skill DMG \(T9%\) | 161.84% | 55.76% |
 | Particles | 4 \(-\) | - |
 | Frames | 67 | - |
 | GU | 1A \(1st & 2nd\)<br />2B \(3rd\) | 1A | 
@@ -96,7 +96,7 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 59.70% |
+| Skill DMG \(T9%\) | 72.49% |
 | Hits | 22.8 (average) |
 | Frames | 100 |
 | GU | 1A |

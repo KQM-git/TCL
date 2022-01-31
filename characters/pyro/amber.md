@@ -31,31 +31,31 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 52.5% | 15 | 210.00% |
-| 2-Hit | 52.5% | 33 | 190.90% |
-| 3-Hit | 67.5% | 72 | 143.75% |
-| 4-Hit | 68.75% | 113 | 128.09% |
-| 5-Hit | 86.25% | 144 | 136.45% |
+| 1-hit | 66.36% | 15 | 265.44% |
+| 2-Hit | 66.36% | 33 | 241.31% |
+| 3-Hit | 85.32% | 72 | 181.70% |
+| 4-Hit | 86.9% | 113 | 161.92% |
+| 5-Hit | 109.02% | 144 | 172.48% |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Pyro DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  | - |
-| Fully Charged | 173.6% | 94 | 110.80% | 2B |
+| Aimed Shot | 80.58% |  |  | - |
+| Fully Charged | 210.8% | 94 | 134.55% | 2B |
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
@@ -72,8 +72,8 @@ The longer the button is held, the further the throw.
 
 | Effect | Skill |
 | :--- | :--- |
-| Explosion DMG \(T6%\) | 172.48% |
-| Inherited HP \(T6%\) | 57.9% |
+| Explosion DMG \(T9%\) | 209.44% |
+| Inherited HP \(T9%\) | 70.31% |
 | Particles | 4 \(-\) |
 | Frames | 35 |
 | GU | 2B |
@@ -99,8 +99,8 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
 | Effect | Burst |
 | :--- | :--- |
-| Wave DMG \(T6%\) | 39.31% |
-| Total DMG \(T6%\) | 707.62% \(18 Waves\) |
+| Wave DMG \(T9%\) | 47.74% |
+| Total DMG \(T9%\) | 859.25% \(18 Waves\) |
 | Frames | 135 |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |

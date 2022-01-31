@@ -31,14 +31,14 @@ description: Owner of Naganohara Fireworks. Known as "Queen of the Summer Festiv
 **Normal Attacks**  
 Performs up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 49.01% ×2 (98.02%) | 18 + 27 | 217.82%/s |
-| 2-Hit DMG | 94.02% | 51 | 225.93%/s |
-| 3-Hit DMG | 122.22% | 88 | 214.27%/s |
-| 4-Hit DMG | 63.83%×2 | 113 + 128 | 207.15%/s |
-| 5-Hit DMG | 145.56% | 164 | 214.93%/s |
-| With Recovery | -- | 200 | 176.24%/s |
+| 1-Hit DMG | 59.94% ×2 (119.88%) | 18 + 27 | 266.40%/s |
+| 2-Hit DMG | 115% | 51 | 276.33%/s |
+| 3-Hit DMG | 149.49% | 88 | 262.07%/s |
+| 4-Hit DMG | 78.07%×2 (156.14%) | 113 + 128 | 253.36%/s |
+| 5-Hit DMG | 178.04% | 164 | 262.88%/s |
+| With Recovery | -- | 200 | 215.57%/s |
 
 * The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 
@@ -49,11 +49,11 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 • Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.  
 • Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
-| String | Talent 6% | GUs | Frames | MV/s |
+| String | Talent 9% | GUs | Frames | MV/s |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | -- | -- | -- |
-| Fully-Charged Aimed Shot | 173.6% | 1A | -- | -- |
-| Kindling Arrow DMG | 22.96% | 1A | -- | -- |
+| Aimed Shot | 80.58% | -- | -- | -- |
+| Fully-Charged Aimed Shot | 210.8% | 1A | -- | -- |
+| Kindling Arrow DMG | 27.88% | 1A | -- | -- |
 
 **Notes**
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
@@ -63,10 +63,10 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low/High Plunge DMG | 165.17% / 206.3% |
+| Plunge DMG | 104.41% |
+| Low/High Plunge DMG | 208.77% / 260.76% |
 
 {% endtab %}
 
@@ -78,7 +78,7 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 
 | Attribute | Skill | 
 | :--- | :--- |
-| Blazing Arrow DMG \(T6%\) | 149.94% Normal Attack DMG |
+| Blazing Arrow DMG \(T9%\) | 158.79% Normal Attack DMG |
 | Particles | 1 (-) per proc |
 | Frames | 23 |
 | GU | 1A |
@@ -109,7 +109,7 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 
 | Attribute | Burst | Aurous Blaze Explosion |
 | :--- | :--- | ---- |
-| Skill DMG (T6%) | 178.08% | 170.8% |
+| Skill DMG (T9%) | 216.24% | 207.4% |
 | Frames | 115 | - |
 | GU | 2B | 1A |
 | ICD | None | 3 hit / 2.5s |

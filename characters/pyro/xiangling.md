@@ -31,31 +31,31 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 **Normal Attacks**  
 Xiangling performs up to five consecutive spear strikes
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 61.13% | 12 | 305.7%/s |
-| 2-Hit | 61.25% | 38 | 192.2%/s |
-| 3-Hit | 37.887% x2 \(75.774%\) | 60 + 72 | 165.1%/s |
-| 4-Hit | 20.5% x4 \(82%\) | 106 + 118 + 129 + 141 | 119.2%/s |
-| 5-Hit | 103.25% | 167 | 137.7%/s |
+| 1-Hit | 77.26% | 12 | 386.30%/s |
+| 2-Hit | 77.42% | 38 | 244.23%/s |
+| 3-Hit | 47.87% x2 \(95.74%\) | 60 + 72 | 208.68%/s |
+| 4-Hit | 25.91% x4 \(103.64%\) | 106 + 118 + 129 + 141 | 150.66%/s |
+| 5-Hit | 130.51% | 167 | 174.10%/s |
 
 **Charged Attack**  
 Xiangling consumes 25 stamina to lunge forward dealing damage to enemies along the way
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1C | 238.01% | 90 | 158.7%/s |
+| N1C | 300.83% | 90 | 200.55%/s |
 
 * All frame counts are done against Ruin Guards.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| **Damage Type** | Talent 6% |
+| **Damage Type** | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Guoba Attack" %}
@@ -63,7 +63,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\)| 155.79% |
+| Skill DMG \(T9%\)| 189.18% |
 | Particles | 1 per hit |
 | Frames | 18 |
 | GU | 1A |
@@ -86,7 +86,7 @@ The **Pyronado** will move with your character for the ability's duration, deali
 
 | Attribute | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronade |
 | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 100.8% | 123.2% | 153.44% | 156.8% |
+| Skill DMG \(T9%\) | 122.4% | 149.6% | 186.32% | 190.4% |
 | Frames | 99 | - | - | - |
 | GU | 1A | 1A | 1A | 1A |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None |
