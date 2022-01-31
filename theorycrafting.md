@@ -4,10 +4,6 @@ description: 'A broad term used to describe discovering game mechanics and optim
 
 # Theorycrafting
 
-{% hint style="info" %}
-sugma
-{% endhint %}
-
 ## Defining Theorycrafting
 
 To begin, theorycrafting in Genshin Impact started in full swing around Keqing to see what weapon and artifacts were the best for her, hence the name: KQM. Shortly after however, theorycrafters realized that the information and data collected for Keqing could easily be applied to other characters, and there was a challenge that every player was met with, the Abyss. From then on, KQM theorycrafting had been focused on efficiency, meta, and how to clear the Abyss with the least amount of resources.
