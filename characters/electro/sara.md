@@ -30,33 +30,33 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 53.63% | 19 | 169.36%/s |
-| 2-Hit DMG | 56.25% | 44 | 149.84%/s |
-| 3-Hit DMG | 70.5% | 82 | 131.99%/s |
-| 4-Hit DMG | 73.25% | 123 | 123.72%/s |
-| 5-Hit DMG | 84.38% | 181 | 112.05%/s |
-| Recovery | -- | 195 | 104.00%/s |
+| 1-Hit DMG | 67.78% | 19 | 214.04%/s |
+| 2-Hit DMG | 71.1% | 44 | 189.38%/s |
+| 3-Hit DMG | 89.11% | 82 | 166.82%/s |
+| 4-Hit DMG | 92.59% | 123 | 156.38%/s |
+| 5-Hit DMG | 106.65% | 181 | 141.62%/s |
+| Recovery | -- | 195 | 131.46%/s |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.  
 When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 38 | 100.65%/s | -- |
-| Fully-Charged Aimed Shot | 173.6% | 78 | 137.05%/s | 1A |
+| Aimed Shot | 80.58% | 38 | 127.23%/s | -- |
+| Fully-Charged Aimed Shot | 210.8% | 78 | 162.15%/s | 1A |
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 
 {% endtab %}
 
@@ -69,8 +69,8 @@ The ATK Bonuses from different **Tengu Juurai** will not stack, and their effect
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 176.06% |
-| ATK Bonus Ratio \(T6%\) | 60.14% |
+| Skill DMG \(T9%\) | 213.79% |
+| ATK Bonus Ratio \(T9%\) | 73.03% |
 | ATK Bonus Duration | 6s |
 | Particles | 3 |
 | Frames | 50 |
@@ -107,8 +107,8 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 
 | Attribute | Burst |
 | :--- | :--- |
-| Titanbreaker DMG \(T6%\) | 573.44% | 1A |
-| Stormcluster DMG \(T6%\) | 47.77% (each) | 1A |
+| Titanbreaker DMG \(T9%\) | 696.32% | 1A |
+| Stormcluster DMG \(T9%\) | 58% (each) | 1A |
 | Frames | 80 (60 with swap) |
 | GU | 1A |
 | ICD (hits/timer) | 3 hit/2.5s |
@@ -169,9 +169,9 @@ When **Tengu Juurai** grant characters ATK Bonuses or hits opponents, the CD of 
 
 Unleashing **Tengu Stormcall** will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| DMG | 176.06% * 0.3 |
+| DMG | 213.79% * 0.3 |
 | GU | 1A |
 | Damage Type | Elemental Skill |
 

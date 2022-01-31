@@ -32,14 +32,14 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.13% | 10 | 384.8%/s |
-| 2-Hit | 68% | 28 | 283.1%/s |
-| 3-Hit | 84.5% | 61 | 213.1%/s |
-| 4-Hit | 83.88% | 102 | 176.8%/s |
-| 5-Hit | 104.5% | 131 | 185.6%/s |
-| With Recovery | 405.26% | 182 | 133.6%/s |
+| 1-Hit | 81.05% | 10 | 486.3%/s |
+| 2-Hit | 85.95% | 28 | 357.86%/s |
+| 3-Hit | 106.81% | 61 | 269.32%/s |
+| 4-Hit | 106.02% | 102 | 223.43%/s |
+| 5-Hit | 132.4% | 131 | 234.61%/s |
+| With Recovery | 512.23% | 182 | 168.87%/s |
 
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 
@@ -47,10 +47,10 @@ Perform up to 5 consecutive shots with a bow.
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
 
-| String | Talent 6% | Frames | MV/s |  GU |
+| String | Talent 9% | Frames | MV/s |  GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 26 | 63.75%/s | ~ |
-| Fully Charged | 173.6% | 95 | 109.6%/s | 1A |
+| Aimed Shot | 80.58% | 26 | 210.21%/s | ~ |
+| Fully Charged | 210.8% | 95 | 133.14%/s | 1A |
 
 * Aimed Shot frame counts are done using M1 Spams.
 * Fully Charged frame counts are done using ARCC Shots.
@@ -58,11 +58,11 @@ While aiming, the dark lightning spirits of Immernachtreich shall heed the call 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 82.60% |
-| Low Plunge DMG | 165.16% |
-| High Plunge DMG | 206.3% |
+| Plunge Impact | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Nightrider" %}
@@ -74,7 +74,7 @@ Press again any time during the ability's duration to once again summon him to F
 
 | Attribute | Skill |
 | :--- | :--- |
-| Cast DMG \(T6%\) | 161.62% |
+| Cast DMG \(T9%\) | 196.25% |
 | Particles | 0 |
 | Frames | 18 |
 | GU | 1A |
@@ -92,7 +92,7 @@ Press again any time during the ability's duration to once again summon him to F
 {% tab title="Oz" %}
 | Attribute | Oz |
 | :--- | :--- |
-| Normal Attacks \(T6%\) | 124.32% |
+| Normal Attacks \(T9%\) | 150.96% |
 | Particles | 0~1 \(2:3\) |
 | GU | 1A |
 | ICD | 4 hits / 5s |
@@ -118,7 +118,7 @@ Has the following properties during the ability's duration:
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 291.2% |
+| Skill DMG \(T9%\) | 353.6% |
 | Frames | 20 |
 | GU | 2B |
 | ICD | None |

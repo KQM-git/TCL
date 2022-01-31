@@ -29,36 +29,36 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 14 | 276.8%/s |
-| 2-Hit | 63.13% | 43 | 178.1%/s |
-| 3-Hit | 77% | 80 | 153.5%/s |
-| 4-Hit | 84.75% | 116 | 149.7%/s |
-| 5-hit | 102.88% | 148 | 159.1%/s |
+| 1-Hit | 81.69% | 14 | 350.1%/s |
+| 2-Hit | 79.79% | 43 | 225.32%/s |
+| 3-Hit | 97.33% | 80 | 194.11%/s |
+| 4-Hit | 107.12% | 116 | 189.27%/s |
+| 5-hit | 130.03% | 148 | 201.06%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Charged Attack | 81.25% + 105% |
+| Charged Attack | 102.7% + 132.72% |
 
 | Combo | Frames | MV/s |
 | :--- | :--- | :--- |
-| N1C | 62 | 242.8%/s |
-| N2C | 84 | 224%/s |
-| N3C | 115 | 204%/s |
-| N4C | 160 | 178.4%/s |
+| N1C | 62 | 306.89%/s |
+| N2C | 84 | 283.5%/s |
+| N3C | 115 | 260.12%/s |
+| N4C | 160 | 225.51%/s |
 
 **Plunge**  
  Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -68,36 +68,36 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.63% | 13 | 298.15%/s |
-| 2-Hit | 63.13% | 38 | 201.63%/s |
-| 3-Hit | 77% | 71 | 172.99%/s |
-| 4-Hit | 84.75% | 123 | 141.22%/s |
-| 5-hit | 102.88% | 163 | 144.48%/s |
+| 1-Hit | 81.69% | 13 | 377.03%/s |
+| 2-Hit | 79.79% | 38 | 254.97%/s |
+| 3-Hit | 97.33% | 71 | 218.71%/s |
+| 4-Hit | 107.12% | 123 | 178.5%/s |
+| 5-hit | 130.03% | 163 | 182.56%/s |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Charged Attack | 81.25% + 88.25% |
+| Charged Attack | 102.7% + 111.55% |
 
 | Combo | Frames | Motion Value |
 | :--- | :--- | :--- |
-| N1C | 54 | 260.1%/s |
-| N2C | 90 | 198.1%/s |
-| N3C | 115 | 195.2%/s |
-| N4C | 160 | 172.1%/s |
+| N1C | 54 | 328.82%/s |
+| N2C | 90 | 250.49%/s |
+| N3C | 115 | 246.81%/s |
+| N4C | 160 | 217.57%/s |
 
 **Plunge**  
  Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 230.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -112,7 +112,7 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 110.13% x 3 |
+| Skill DMG \(T9%\) | 133.73% x 3 |
 | Particles | 1 |
 | Frames | 55 |
 | GU | 1A |
@@ -122,9 +122,9 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 | Damage Type | Skill |
 | CD | 13.5s |
 
-| Attribute | Abundance Amulet (Talent 6%) |
+| Attribute | Abundance Amulet (Talent 9%) |
 | :--- | :--- |
-| Energy Regeneration | 3.5 |
+| Energy Regeneration | 4 |
 | Energy Recharge Increase | 20% |
 | Duration | 6s |
 | Field Duration | 15s |
@@ -148,9 +148,9 @@ One instance of **Falling Thunder** can be generated every 0.5s.
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 160.16% |
-| Falling Thunder DMG \(T6%\) | 45.92% |
-| Energy Regeneration | 0.9 | -- |
+| Skill DMG \(T9%\) | 194.48% |
+| Falling Thunder DMG \(T9%\) | 55.76% |
+| Energy Regeneration | 1 | -- |
 | Frames | 60 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |

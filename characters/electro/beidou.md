@@ -33,13 +33,13 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 **Normal Attacks**  
 Beidou performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 103.38% | 23 | 269.7%/s |
-| 2-Hit | 103% | 66 | 187.6%/s |
-| 3-Hit | 128.38% | 134 | 149.9%/s |
-| 4-Hit | 125.75% | 178 | 155.2%/s |
-| 5-Hit | 163% | 246 | 152.1%/s |
+| 1-Hit | 130.67% | 23 | 340.88%/s |
+| 2-Hit | 130.19% | 66 | 237.15%/s |
+| 3-Hit | 162.27% | 134 | 189.46%/s |
+| 4-Hit | 158.95% | 178 | 196.21%/s |
+| 5-Hit | 206.03% | 246 | 192.22%/s |
 
 **Notes**  
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
@@ -51,10 +51,10 @@ Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% 
 Beidou consumes 40 stamina a second to perform continuous slashes.  
 At the end of the 5 seconds, perform a more powerful slash.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Slash | 81.75% | 35 | 140.1%/s |
-| Final Slash | 148% | 32 | 277.5%/s |
+| Slash | 103.33% | 35 | 177.14%/s |
+| Final Slash | 187.07% | 32 | 350.76/s |
 
 **Notes**
 * Charged Attack wind up is 71 frames long.
@@ -63,11 +63,11 @@ At the end of the 5 seconds, perform a more powerful slash.
 **Plunge**  
 Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge Impact | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 {% endtab %}
 
 {% tab title="Tidecaller" %}
@@ -86,8 +86,8 @@ The shield possesses the following properties:
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Base DMG \(T6%\) | 170.24% | 170.24% |
-| DMG Bonus on Hit Taken \(T6%\) | - | 224% \(scaling\) |
+| Base DMG \(T9%\) | 206.72% | 206.72% |
+| DMG Bonus on Hit Taken \(T9%\) | - | 272% \(scaling\) |
 | Particles | 2 | 2 ~ 4 \(see note\) |
 | Frames | 41 | - |
 | GU | 2B | 2B |
@@ -98,9 +98,9 @@ The shield possesses the following properties:
 | Duration | - | upto 3s |
 | CD | 7.5s | 7.5s |
 
-| Attribute | Shield \(Talent 6%\) |
+| Attribute | Shield \(Talent 9%\) |
 | :--- | :--- |
-| Scaling | 20.16% Max HP + 2195 |
+| Scaling | 24.48% Max HP + 2819 |
 | Elemental Type | Electro |
 | Duration | Hold Duration |
 
@@ -110,11 +110,11 @@ The shield possesses the following properties:
 * The counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay. [Vault Entry](../../evidence/characters/electro/beidou.md#beidou-counter-startup)
 * **Tidecaller** counter scaling information is tabulated in the table below.
 
-| Tidecaller DMG Bonus | Talent 6%  | Particles | 
+| Tidecaller DMG Bonus | Talent 9%  | Particles | 
 | :--- | :--- | :--- 
-| 0 Stacks | 170.24% | 2 |
-| 1 Stack | 394.24% | 3 |
-| 2 Stacks / Perfect Parry  | 618.24% | 4 |
+| 0 Stacks | 206.72% | 2 |
+| 1 Stack | 478.72% | 3 |
+| 2 Stacks / Perfect Parry  | 750.72% | 4 |
 
 {% endtab %}
 
@@ -128,9 +128,9 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 
 | Attribute | Burst | Lightning Discharge |
 | :--- | :--- | :--- |
-| Burst DMG \(T6%\) | 170.24% | 134.4% |
+| Burst DMG \(T9%\) | 206.72% | 163.2% |
 | Lightning Bounces | - | 2 |
-| DMG Reduction | 26% \(scaling\) | - |
+| DMG Reduction | 32% \(scaling\) | - |
 | Frames | 45 | - |
 | GU | 4C | 1A | 
 | ICD | - | 3 hit / 2.5s |

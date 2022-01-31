@@ -32,13 +32,13 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 
-| String | Talent 6% | Frames | MV/s | GU |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 55.44% | 25 | 133.1%/s | 1A |
-| 2-Hit | 50.29% | 46 | 137.9%/s | 1A |
-| 3-Hit | 59.92% | 70 | 142%/s | 1A |
-| 4-Hit | 76.94% | 114 | 127.7%/s | 1A |
-| With Recovery | 247.97% | 143 | 101.8%/s | 1A |
+| 1-Hit | 67.32% | 25 | 161.57%/s | 1A |
+| 2-Hit | 61.06% | 46 | 167.45%/s | 1A |
+| 3-Hit | 72.76% | 70 | 172.41%/s | 1A |
+| 4-Hit | 93.43% | 114 | 155.04%/s | 1A |
+| With Recovery | 294.57% | 143 | 123.6%/s | 1A |
 
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
 * 3 hits / 2.5s ICD, shared with tap elemental skill.
@@ -46,18 +46,18 @@ Perform up to 4 lightning attacks dealing Electro DMG.
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
-| String | Talent 6% | Frames | MV/s | GU | ICD |
+| String | Talent 9% | Frames | MV/s | GU | ICD |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 247.97% | 95 | 156.6%/s | 1A | 0.5s |
+| Charged Attack | 301.1% | 95 | 190.17%/s | 1A | 0.5s |
 
 **Plunge Attack**  
 Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 
 {% endtab %}
 
@@ -74,9 +74,9 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
 
 | Attribute | Tap  | Hold |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 112% | 448% / 515.2% / 593.6% / 682.06% |
+| Skill DMG \(T9%\) | 136% | 544% / 625.6% / 720.8% / 828.24% |
 | Frames | 21 | 116 |
-| MV/s \(T6%\) | 320%/s | 231.7%/s / 264.9%/s / 307%/s / 352.8%/s ||
+| MV/s \(T9%\) | 388.57%/s | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s ||
 | GU | 1A | 2B |
 | ICD | 3 hits / 2.5s, shared with normal attacks | None |
 | Particles | ~ | 5 \(-\) |
@@ -105,7 +105,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Attribute | Burst |
 | :--- | :--- |
 | Summon DMG | 10% |
-| Skill DMG \(T6%\) | 51.18% * 29 |
+| Skill DMG \(T9%\) | 62.15% * 29 |
 | Tick Rate | 0.5s | 
 | Frames | 30 |
 | MV/s | 102.4%/s |

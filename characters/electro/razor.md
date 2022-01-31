@@ -32,12 +32,12 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 **Normal Attacks**  
 Razor performs 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 131.89% | 25 | 316.5%/s |
-| 2-Hit | 113.62% | 71 | 207.5%/s |
-| 3-Hit | 142.05% | 109 | 213.3%/s |
-| 4-Hit | 176.24% | 192 | 179.6%/s |
+| 1-Hit | 161.32% | 25 | 387.17%/s |
+| 2-Hit | 138.97% | 71 | 253.77%/s |
+| 3-Hit | 173.75% | 109 | 260.94%/s |
+| 4-Hit | 228.81% | 192 | 219.64%/s |
 
 * 3-hit cancel is the best DPS outside of Lighting Fang.
 * 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
@@ -46,21 +46,21 @@ Razor performs 4 consecutive strikes.
 Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.  
 At the end of the sequence, perform a more powerful slash. 
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Slash | 90.9% | 30 | 181.8%/s |
-| Final Slash | 164.38% | 29 | 340.1%/s |
+| Slash | 114.9% | 30 | 229.8%/s |
+| Final Slash | 207.77% | 29 | 429.87%/s |
 
 * Consumes 40 stamina per second.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge Impact | 119.25% |
-| Low Plunge DMG | 238.46% |
-| High Plunge DMG | 297.85% |
+| Plunge Impact | 150.74% |
+| Low Plunge DMG | 301.41% |
+| High Plunge DMG | 376.48% |
 {% endtab %}
 
 {% tab title="Claw and Thunder" %}
@@ -80,7 +80,7 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 
 | Attribute | Skill (Tap) | Skill (Hold) |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 278.88% | 413.28% |
+| Skill DMG \(T9%\) | 338.64% | 501.84% |
 | Particles | 3 \(-\) | 4 \(-\) | 
 | Frames | 74 | 92 | 
 | GU | 2B | 2B |
@@ -116,8 +116,8 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 
 | Attribute | Burst | Echo |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 224% | 33.6% | 
-| Attack Speed \(T6%\) | 36% | - |
+| Skill DMG \(T9%\) | 272% | 40.8% | 
+| Attack Speed \(T9%\) | 39% | - |
 | Electro RES Bonus | 80% |
 | Frames | 62 | - |
 | GU | 2B | 1A |

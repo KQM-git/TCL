@@ -32,25 +32,25 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 **Normal Attacks**  
 Keqing performs up to 5 consecutive attacks.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 59.62% | 11 | 325.2%/s |
-| 2-Hit | 59.62% | 33 | 216.8%/s |
-| 3-Hit | 79.13% | 60 | 198.8%/s |
-| 4-Hit | 45.75% + 50% | 87 / 97 | 181.9%/s |
-| 5-Hit | 97.38% | 133 | 176.6%/s |
+| 1-Hit | 75.37% | 11 | 411.11%/s |
+| 2-Hit | 75.37% | 33 | 274.08%/s |
+| 3-Hit | 100.01% | 60 | 250.75%/s |
+| 4-Hit | 57.83% + 63.2% | 87 / 97 | 229.97%/s |
+| 5-Hit | 123.08% | 133 | 223.25%/s |
 
 **Charged Attack**  
 Keqing consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Charged Attack | 111.63% + 125% |
+| Charged Attack | 141.09% + 158% |
 
-| String | Frames | MV/s (Talent 6%) |
+| String | Frames | MV/s (Talent 9%) |
 | :--- | :--- | :--- |
-| N1C | 63 | 282.14%/s |
-| N4C | 150 | 212.3%/s |
+| N1C | 63 | 356.63%/s |
+| N4C | 150 | 268.35%/s |
 
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
@@ -58,11 +58,11 @@ Keqing consumes 25 stamina to unleash 2 rapid strikes.
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
@@ -81,8 +81,8 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 
 | Attribute | Lightning Stiletto | Thunderclap Slash |
 | :--- | :--- | :--- |
-| Lightning Stiletto \(T6%\) | 70.56% | - |
-| Stiletto Mark Secondary \(T6%\) | 235.2% | 117.6% x 2 |
+| Lightning Stiletto \(T9%\) | 85.68% | - |
+| Stiletto Mark Secondary \(T9%\) | 285.6% | 142.8% x 2 |
 | Particles | 2~3 \(1:1\) | - |
 | Frames | 34 | - |
 | Frames Secondary | 84 | 90 |
@@ -107,9 +107,9 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 
 | Attribute | Burst |
 | :--- | :--- |
-| Cast DMG \(T6%\) | 123.2% |
-| Consecutive Slash DMG \(T6%\) | 33.6% x 8 |
-| Last Attack \(T6%\) | 264.21% |
+| Cast DMG \(T9%\) | 149.6% |
+| Consecutive Slash DMG \(T9%\) | 40.8% x 8 |
+| Last Attack \(T9%\) | 320.96% |
 | Frames | 125 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
