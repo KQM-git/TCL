@@ -33,23 +33,23 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 52.5% | 16 | 196.6%/s |
-| 2-Hit | 48.75% | 37 | 164.2%/s |
-| 3-Hit | 66.25% | 67 | 150.0%/s |
-| 4-Hit | 62.5% | 101 | 136.6%/s |
-| 5-Hit | 78.13% | 152 | 121.6%/s |
-| With Recovery | 308.19% | 190 | 97.3%/s |
+| 1-hit | 66.36% | 16 | 248.85%/s |
+| 2-Hit | 61.62% | 37 | 207.54%/s |
+| 3-Hit | 83.74% | 67 | 189.6%/s |
+| 4-Hit | 79% | 101 | 172.7%/s |
+| 5-Hit | 98.75% | 152 | 153.74%/s |
+| With Recovery | 389.47% | 190 | 122.99%/s |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Cryo DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 26 | 147.1%/s | ~ |
-| Fully Charged | 173.6% | 84 | 124%/s | 1A |
+| Aimed Shot | 80.58% | 26 | 185.95%/s | ~ |
+| Fully Charged | 210.8% | 84 | 150.57%/s | 1A |
 
 * Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
 * Aimed Shot frame counts are done using M1 Spams.
@@ -59,11 +59,11 @@ A fully charged shot will deal Cryo DMG.
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Icy Paws" %}
@@ -80,7 +80,7 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 58.69% x 2 | 58.69% x 5 |
+| Skill DMG \(T9%\) | 71.26% x 2 | 71.26% x 5 |
 | Particles | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
 | Frames | 15 | 24 |
 | GU | 1A | 1A x 2 | 
@@ -92,9 +92,9 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 
 | Attribute | Shield | 
 |:--- | :--- |
-| Base Scaling | 10.08% Max HP + 1097 | 
+| Base Scaling | 12.24% Max HP + 1409 | 
 | Elemental Type | Cryo | 
-| Duration | 2.3s per paw |
+| Duration | 2.4s per paw |
 
 **Notes**
 * Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
@@ -113,7 +113,7 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 112% |
+| Skill DMG \(T9%\) | 136% |
 | Frames | 49 | 
 | GU | 1A |
 | CD | 20s |
@@ -121,10 +121,10 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 | Attribute | Field |
 | :--- |:---|
-| Field DMG (T6%) | 73.7% |
+| Field DMG (T9%) | 89.49% |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |
-| HP Regen | 7.47% Max HP + 813 |
+| HP Regen | 9.07% Max HP + 1044 |
 | Duration | 12s |
 | Tick Rate| 2s | 
 | C6 Buff Duration | 2s |

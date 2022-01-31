@@ -33,34 +33,34 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 Eula performs up to 5 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 130.43% | 30 | 260.86 |
-| 2-Hit | 135.98% | 58 | 275.60 |
-| 3-Hit | 82.56% x2 | 126 | 205.49 |
-| 4-Hit | 163.73% | 161 | 221.84 |
-| 5-Hit | 104.41% x2 | 250 | 192.98 |
-| With Recovery | ~ | 305 | 158.17 |
+| 1-Hit | 164.86% | 30 | 329.72%/s |
+| 2-Hit | 171.87% | 58 | 348.34%/s |
+| 3-Hit | 104.35% x2 | 126 | 259.73%s |
+| 4-Hit | 206.95% | 161 | 280.39% |
+| 5-Hit | 131.97% x2 | 250 | 243.92% |
+| With Recovery | ~ | 305 | 199.93% |
 
 **Charged Attack**
 
 Eula drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Spinning DMG | 100% |
-| Final DMG | 180.81% |
+| Spinning DMG | 126.4% |
+| Final DMG | 228.55% |
 | Stamina Cost | 40/s |
 | Max Duration | 5s |
 
 **Plunge Attack**  
 Eula plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE damage upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge DMG | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}  
@@ -80,7 +80,7 @@ Each consumed stack of **Grimheart** will be converted into an **Icewhirl Brand*
 
 | Attribute | Press | Hold | Icewhirl Brand | 
 | :--- | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 204.96% | 343.84% | 134.4% | 
+| Skill DMG \(T9%\) | 248.88% | 417.52% | 163.2% | 
 | Particles | 1~2 \(1:1\) | 2~3 \(1:1\) | - |
 | Frames | 65 | 89 | - |
 | GU | 1A | 1A | 1A | 
@@ -98,8 +98,8 @@ Increases Eula's resistance to interruption and her DEF.
 | Attribute | Value |
 | :--- | :--- |
 | DEF Bonus | 30% per stack |
-| Phys RES Decrease \(T6%\) | 21% |
-| Cryo Res Decrease \(T6%\) | 21% | 
+| Phys RES Decrease \(T9%\) | 24% |
+| Cryo Res Decrease \(T9%\) | 24% | 
 | RES Decrease Duration | 7s per stack |
 | Grimheart Duration | 18s |
 
@@ -115,9 +115,9 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 
 | Attribute | Skill | Lightfall Sword |
 | :--- | :--- | :--- | 
-| Skill DMG \(T6%\) | 343.84% | - |
-| Lightfall Sword Base DMG \(T6%\) | - | 533.50% |
-| DMG Per Stack \(T6%\) | - | 109% |
+| Skill DMG \(T9%\) | 417.52% | - |
+| Lightfall Sword Base DMG \(T9%\) | - | 674.34% |
+| DMG Per Stack \(T9%\) | - | 137.78% |
 | Frames | 125 | - |
 | GU | 2B | None |
 | ICD | None | None |

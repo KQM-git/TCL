@@ -32,12 +32,12 @@ description: A young exorcist from a family of exorcists. He does everything he 
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 101.75% | 24 | 254.4%/s |
-| 2-Hit | 91.75% | 62 | 187.3%/s |
-| 3-Hit | 116.75% | 124 | 150.1%/s |
-| 4-Hit | 147.13% | 204 | 134.5%/s |
+| 1-Hit | 128.61% | 24 | 321.52%/s |
+| 2-Hit | 115.97% | 62 | 236.69%/s |
+| 3-Hit | 147.57% | 124 | 189.75%/s |
+| 4-Hit | 185.97% | 204 | 170.04%/s |
 
 * ICD is 3 hits / 2.5s, shared with Charged Attacks.
 
@@ -45,10 +45,10 @@ Perform up to 4 consecutive strikes.
 Drains Stamina over time to perform a continuous spinning attack for up to 5s.  
 Perform a powerful slash at the end of the sequence.
 
-| Type | Talent 6% | Frames | MV/s |
+| Type | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Spinning DMG | 81.81% | 30 | 163.6%/s |
-| Final DMG | 147.94% | 29 | 306.1%/s |
+| Spinning DMG | 103.41% | 30 | 206.82%/s |
+| Final DMG | 186.99% | 29 | 386.88%/s |
 | Stamina Cost | 40/s | ~ | ~ |
 
 * All frame counts are done against Ruin Guards.
@@ -57,11 +57,11 @@ Perform a powerful slash at the end of the sequence.
 **Plunge Attack**  
 Plunge from midair to strike the ground below dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 108.41% |
-| Low Plunge DMG | 216.78% |
-| High Plunge DMG | 270.77% |
+| Plunge DMG | 137.03% |
+| Low Plunge DMG | 274.01% |
+| High Plunge DMG | 342.25% |
 {% endtab %}
 
 {% tab title="Chonghua’s Layered Frost" %}
@@ -70,8 +70,8 @@ After a short delay, the cold air created by the Cryo explosion will coalesce in
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 240.86% |
-| MV/s \(T6%\) | 253.5%/s |
+| Skill DMG \(T9%\) | 292.47% |
+| MV/s \(T9%\) | 307.86%/s |
 | Cast GU | 2B |
 | Infused Attack GU | 1A |
 | Particles | 4 \(-\) |
@@ -80,7 +80,7 @@ After a short delay, the cold air created by the Cryo explosion will coalesce in
 | Snapshot | Snapshot |
 | Damage Element | Cryo |
 | Damage Type | Skill |
-| Infusion Duration | 2.5s |
+| Infusion Duration | 2.8s |
 | Field Duration | 10s |
 | CD | 15s |
 
@@ -94,8 +94,8 @@ When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 199.36% \* 3 |
-| MV/s \(T6%\) | 265.8%/s |
+| Skill DMG \(T9%\) | 242.08% \* 3 |
+| MV/s \(T9%\) | 322.77%/s |
 | GU | 1A per hit |
 | Frames | 135 |
 | ICD | None |

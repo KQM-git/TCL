@@ -26,32 +26,32 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 62.88% | 13 | 290.22% |
-| 2-Hit | 58.5% | 44 | 165.52% |
-| 3-Hit | 77.5% | 68 | 175.48% |
-| 4-Hit | 38.25% + 38.25% | 97 + 103 | 160.42% |
-| 5-Hit | 95.38% | 135 | 164.78% |
+| 1-Hit | 79.47% | 13 | 366.78% |
+| 2-Hit | 73.94% | 44 | 209.20% |
+| 3-Hit | 97.96% | 68 | 221.80% |
+| 4-Hit | 48.35% + 48.35% | 97 + 103 | 202.76% |
+| 5-Hit | 120.55% | 135 | 208.28% |
 | Recovery | - | 167 | - |
 
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| CA | 160.86% | - | - |
-| N1C | 223.74% | 20 + 54 | 248.60% |
+| CA | 203.33% | - | - |
+| N1C | 282.80% | 20 + 54 | 314.22% |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 6% |
+| Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Spring Spirit Summoning" %}
@@ -73,8 +73,8 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 
 | Attribute | Press | Hold | 
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 194.88% | 264.32% |
-| DMG Bonus | 63.92% ATK | 63.92% ATK |
+| Skill DMG \(T9%\) | 236.64% | 320.96% |
+| DMG Bonus | 77.62% ATK | 77.62% ATK |
 | Trigger Quota | 5 | 7 |
 | Particles | 3 \(-\) | 4 \(-\) |
 | Frames | 29 | 44 |
@@ -111,8 +111,8 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 
 | Attribute | Initial Hit | DoT | 
 | :--- | :--- | :--- | 
-| Skill DMG \(T6%\) | 141.12% | 46.37% * 12 |
-| RES Decrease \(T6%\) | 11% | - |
+| Skill DMG \(T9%\) | 171.36% | 56.3% * 12 |
+| RES Decrease \(T9%\) | 14% | - |
 | Tick Rate | - | 2s |
 | Frames | 75 | - | 
 | GU | 1U | 1U |

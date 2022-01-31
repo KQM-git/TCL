@@ -30,14 +30,14 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 **Normal Attack**  
 Ganyu performs up to 6 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-hit | 46.13% | 18 | 153.77% |
-| 2-Hit | 51.75% | 43 | 136.58% |
-| 3-Hit | 66.13% | 73 | 134.80% |
-| 4-Hit | 66.13% | 117 | 118.02% |
-| 5-Hit | 70.13% | 153 | 117.75% |
-| 6-Hit | 83.75% | 190 | 121.27% |
+| 1-hit | 58.3% | 18 | 194.33% |
+| 2-Hit | 65.41% | 43 | 172.62% |
+| 3-Hit | 83.58% | 73 | 170.38% |
+| 4-Hit | 83.58% | 117 | 149.16% |
+| 5-Hit | 88.64% | 153 | 148.83% |
+| 6-Hit | 105.86% | 190 | 153.27% |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.
@@ -45,12 +45,12 @@ Perform a precise Aimed Shot with increased DMG.
 * Charge Level 1: Fires off an arrow that deals Cryo DMG.
 * Charge Level 2: Ganyu fires a **Frostflake Arrow** that deals Cryo DMG. The Frostflake Arrow on impact will unleash a **Frostflake Bloom,** dealing AoE Cryo DMG.
 
-| Type | Talent 6% | Frames | MV/s | GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% |  |  |   |
-| Charge Level 1 | 173.6% | 94 | 110.80% | 1A |
-| Frostflake Arrow | 179.2% | 115 | 93.49% | 1A |
-| Frostflake Bloom | 304.64% | 115 | 158.94% | 1A |
+| Aimed Shot | 80.58% |  |  |   |
+| Charge Level 1 | 210.8% | 94 | 134.55% | 1A |
+| Frostflake Arrow | 217.6% | 115 | 113.53% | 1A |
+| Frostflake Bloom | 369.92% | 115 | 193.00% | 1A |
 
 **Notes**
 * **Frostflake Bloom** is considered a Charged Attack.
@@ -62,11 +62,11 @@ Perform a precise Aimed Shot with increased DMG.
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Trail of the Qilin" %}
@@ -79,8 +79,8 @@ Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impur
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 184.8% * 2 |
-| Inherited HP | 168% max HP |
+| Skill DMG \(T9%\) | 224.4% * 2 |
+| Inherited HP | 204% max HP |
 | Cast Particles | 2 |
 | Expiration/Destroyed Particles | 2 |
 | Frames | 34 |
@@ -104,7 +104,7 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 
 | Attribute | Ice Shard |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 98.38% * 50 |
+| Skill DMG \(T9%\) | 119.46% * 50 |
 | Frames | 102 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |

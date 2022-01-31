@@ -28,32 +28,32 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 54.88% | 11 | 299.3%/s |
-| 2-Hit | 56.5% | 29 | 230.4%/s |
-| 3-Hit | 35.13% + 35.13% | 55 + 71 | 153.5%/s |
-| 4-Hit | 35.88% + 35.88% | 94 + 111 | 137.0%/s |
-| 5-Hit | 91.63% | 140 | 147.9%/s |
+| 1-Hit | 69.36% | 11 | 378.33%/s |
+| 2-Hit | 71.42% | 29 | 291.27%/s |
+| 3-Hit | 44.4% + 44.4% | 55 + 71 | 194.01%/s |
+| 4-Hit | 45.35% + 45.35% | 94 + 111 | 173.12%/s |
+| 5-Hit | 115.81% | 140 | 186.90%/s |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack | 93.5% + 93.5% | ~ | ~ |
-| N1C | 241.88% | 100 | 145.1%/s |
+| Charged Attack | 118.18% + 118.18% | ~ | ~ |
+| N1C | 305.72% | 100 | 183.43%/s |
 
 * All frame counts are done against Ruin Guards.
 
 **Plunge Attack**  
 Plunge from mid-air to strike the ground below dealing AoE DMG.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 
 {% endtab %}
 
@@ -67,10 +67,10 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 134.4% |
-| Regeneration on Hit \(T6%\) | 14.78% ATK + 107 |
-| Continuous Regeneration \(T6%\) | 97.44% ATK + 713 |
-| Herald of Frost DMG \(T6%\) | 50.4% |
+| Skill DMG \(T9%\) | 163.2% |
+| Regeneration on Hit \(T9%\) | 17.95% ATK + 137 |
+| Continuous Regeneration \(T9%\) | 118.32% ATK + 916 |
+| Herald of Frost DMG \(T9%\) | 61.2% |
 | Particles | 0 \(-\) | 
 | Frames | 57 |
 | GU | 1A |
@@ -91,8 +91,8 @@ When opponents affected by this Talisman take DMG, the character that dealt this
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 398.72% |
-| Healing \(T6%\) | 126% ATK + 914 |
+| Skill DMG \(T9%\) | 484.16% |
+| Healing \(T9%\) | 153% ATK + 1174 |
 | Frames | 112 |
 | GU | 2B |
 | ICD | None | 

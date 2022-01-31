@@ -31,29 +31,29 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 
-| String | Talent 6% | Frames | Motion Value |
+| String | Talent 9% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 76.25% | 10 | 457.5%/s |
-| 2-Hit | 75% | 36 | 252.08%/s |
-| 3-Hit | 46.25% x 2 | 71 + 81 | 180.56%/s |
-| 4-Hit | 101.25% | 115 | 180%/s |
-| 5-Hit | 60.5% + 62.5% | 159 + 175 | 160.46%/s |
+| 1-Hit | 96.38% | 10 | 578.28%/s |
+| 2-Hit | 94.8% | 36 | 318.63%/s |
+| 3-Hit | 58.46% x 2 | 71 + 81 | 228.22%/s |
+| 4-Hit | 127.98% | 115 | 227.52%/s |
+| 5-Hit | 76.47% + 79% | 159 + 175 | 202.82%/s |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 6 DMG% | Frames | Motion Value |
+| String | Talent 9 DMG% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
-| N1C | 275% | 89 | 185.39%/s |
+| N1C | 347.6% | 89 | 234.34%/s |
 
 **Plunge Attack**  
 Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact.
 
-| Type | Talent 6% |
+| Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Ravaging Confession" %}
@@ -62,7 +62,7 @@ This ability cannot be used to travel behind opponents of a larger build.
 
 | Type | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 81.76% + 190.4% |
+| Skill DMG \(T9%\) | 99.28% + 231.2% |
 | Particles | 3 |
 | Frames | 65 |
 | GU | 1A |
@@ -82,8 +82,8 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 
 | Effect | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 145.6% + 212.8% |
-| Ice Lance DoT \(T6%\) | 184.8% |
+| Skill DMG \(T9%\) | 176.8% + 258.4% |
+| Ice Lance DoT \(T9%\) | 224.4% |
 | Frames | 74 |
 | GU | 1A |
 | ICD | None |

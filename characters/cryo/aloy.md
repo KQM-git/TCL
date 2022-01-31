@@ -27,32 +27,32 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 29.04% + 32.67% | 18 + 12 | 169.36%/s |
-| 2-Hit DMG | 59.29% | 48 | 149.84%/s |
-| 3-Hit DMG | 72.6% | 85 | 131.99%/s |
-| 4-Hit DMG | 90.27% | 128 | 123.72%/s |
+| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s |
+| 2-Hit DMG | 72.52% | 48 | 185%/s |
+| 3-Hit DMG | 88.8% | 85 | 167.15%/s |
+| 4-Hit DMG | 110.41% | 128 | 162.75%/s |
 | Recovery | -- | -- | -- |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | -- | -- |
-| Fully-Charged Aimed Shot | 173.6% | -- | -- |
+| Aimed Shot | 80.58% | -- | -- |
+| Fully-Charged Aimed Shot | 210.8% | -- | -- |
 
 * A Fully-Charged Aimed Shot applies 1A Cryo.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 82.6% |
-| Low Plunge DMG | 165.17% |
-| High Plunge DMG | 206.3% |
+| Plunge DMG | 104.41% |
+| Low Plunge DMG | 208.77% |
+| High Plunge DMG | 260.76% |
 {% endtab %}
 
 {% tab title="Frozen Wilds" %}
@@ -69,7 +69,7 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.
 
 | Attribute | Freeze Bomb | Chillwater Bomblets |
 | :--- | :--- | :--- |
-| Skill DMG \(T6%\) | 248.64% | 56% |
+| Skill DMG \(T9%\) | 301.92% | 68% |
 | Particles | 5 \(-\) | - | 
 | Frames | 67 | - |
 | GU | 1A | 1A |
@@ -79,12 +79,12 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.
 | Damage Type | Skill | Skill |
 | CD | 20s | - | 
 
-| Attribute                           | Talent 6 Data        |
+| Attribute                           | Talent 9 Data        |
 | ----------------------------------- | -------------------- |
-| ATK Decrease                        | 13%                  |
+| ATK Decrease                        | 14%                  |
 | ATK Decrease Duration               | 6s                   |
-| Coil Normal Attack DMG Bonus        | 7.7% / 15.4% / 23.1% |
-| Rushing Ice Normal Attack DMG Bonus | 38.5%                |
+| Coil Normal Attack DMG Bonus        | 9.07% / 18.13% / 27.2% |
+| Rushing Ice Normal Attack DMG Bonus | 45.33%                |
 | Rushing Ice Duration                | 10s                  |
 | CD                                  | 20s                  |
 
@@ -102,7 +102,7 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 502.88% |
+| Skill DMG \(T9%\) | 610.64% |
 | Frames | 118 |
 | GU | 2B |
 | ICD | - |

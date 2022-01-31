@@ -30,34 +30,34 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 **Normal Attacks**  
 Kaeya performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 78.13% | 14 | 334.8%/s |
-| 2-Hit | 75.13% | 41 | 224.3%/s |
-| 3-Hit | 94.88% | 72 | 206.8%/s |
-| 4-Hit | 103% | 128 | 164.6%/s |
-| 5-Hit | 128.25% | 176 | 163.4%/s |
+| 1-Hit | 98.75% | 14 | 423.21%/s |
+| 2-Hit | 94.96% | 41 | 283.47%/s |
+| 3-Hit | 119.92% | 72 | 261.36%/s |
+| 4-Hit | 130.19% | 128 | 208.04%/s |
+| 5-Hit | 162.11% | 176 | 206.57%/s |
 
 **Charged Attack**  
 Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Charged Attack | 80% + 106.25% |
+| Charged Attack | 101.12% + 134.3% |
 
-| Combo | Frames | MV/s (Talent 6%) |
+| Combo | Frames | MV/s (Talent 9%) |
 | :--- | :--- | :--- |
-| N1C | 87 | 182.3%/s |
+| N1C | 87 | 230.46%/s |
 
 * All frame counts are done against Ruin Guards.
 
 **Plunge**
 
-| Type | Talent 6% |
+| Type | Talent 7% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low Plunge DMG | 185.81% |
-| High Plunge DMG | 232.09% |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Frostgnaw" %}
@@ -65,7 +65,7 @@ Unleashes a frigid blast, dealing **Cryo** DMG to opponents in front of Kaeya.
 
 | Attribute | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 267.68% |
+| Skill DMG \(T9%\) | 325.04% |
 | Particles | 2~3 \(1:2\) |
 | Frames | 58 |
 | GU | 2B |
@@ -87,7 +87,7 @@ These **icicles** will follow the character around and deal Cryo DMG to opponent
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 108.64% |
+| Skill DMG \(T9%\) | 131.92% |
 | Frames | 78 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |

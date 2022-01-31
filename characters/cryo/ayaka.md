@@ -32,24 +32,24 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 66.46% | 8 | 498.45%/s |
-| 2-Hit DMG | 70.76% | 28 | 294.04%/s |
-| 3-Hit DMG | 91.02% | 56 | 244.54%/s |
-| 4-Hit DMG | 32.92% ×3 (98.76%) | 84 + 91 + 98 | 198.18%/s |
-| 5-Hit DMG | 113.64% | 136 | 194.40%/s |
+| 1-Hit DMG | 84.01% | 8 | 630.08%/s |
+| 2-Hit DMG | 89.44% | 28 | 371.68%/s |
+| 3-Hit DMG | 115.05% | 56 | 309.11%/s |
+| 4-Hit DMG | 41.61% ×3 (124.83%) | 84 + 91 + 98 | 253.06%/s |
+| 5-Hit DMG | 143.64% | 136 | 245.72%/s |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 
-| String | Talent 6% | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 80.13%×3 (240.39%) | -- | -- |
-| N1C | 66.46% + 80.13%×3 (306.85%) | 96 | 191.78%/s |
-| N2C | 137.22% + 80.13%×3 (377.61%) | 115 | 197.01%/s |
-| N3C | 228.24% + 80.13%×3 (468.63%) | 140 | 200.84%/s |
-| N4C | 327% + 80.13%×3 (567.39%) | 171 | 199.08%/s |
+| Charged Attack DMG | 101.28%×3 (303.84%) | -- | -- |
+| N1C | 84.01% + 101.28%×3 (387.85%) | 96 | 242.41%/s |
+| N2C | 173.45% + 101.28%×3 (477.29%) | 115 | 249.02%/s |
+| N3C | 288.5% + 101.28%×3 (592.34%) | 140 | 253.86%/s |
+| N4C | 413.33% + 101.28%×3 (717.17%) | 171 | 251.64%/s |
 
 **Notes**
 * Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
@@ -63,10 +63,10 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
 
-| String | Talent 6% |
+| String | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | 92.93% |
-| Low/High Plunge DMG | 185.81% / 232.09% |
+| Plunge DMG | 117.46% |
+| Low/High Plunge DMG | 234.86% / 293.36% |
 {% endtab %}
 
 {% tab title="Kamisato Art: Hyouka" %}
@@ -74,7 +74,7 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 
 | Type | Skill |
 | :--- | :--- |
-| Skill DMG \(T6%\) | 334.88% |
+| Skill DMG \(T9%\) | 406.64% |
 | Particles | 4~5 (1:1) |
 | Frames | 56 |
 | GU | 2B |
@@ -117,8 +117,8 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 
 | Type | Burst |
 | :--- | :--- |
-| Cutting DMG \(T6%\) | 157.22% * 19 |
-| Bloom DMG \(T6%\) | 235.83% |
+| Cutting DMG \(T9%\) | 190.91% * 19 |
+| Bloom DMG \(T9%\) | 286.36% |
 | Frames | 95 |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |
