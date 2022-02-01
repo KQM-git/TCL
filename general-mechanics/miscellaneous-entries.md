@@ -9,8 +9,6 @@ description: For entries that have little practical use.
   * You can use this to get free fowl. 
 * Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 * The Kamuijima Cannons in Inazuma can cause friendly damage to yourself, as well as other players in Co-op.
-* Reactions (and auras) are done client-side, while Damage and hit requires servers for them to work.  
-This applies to their respective triggers too.
 * Average party level warning/zone level/enemy level color warning is a lie, only highest level character is accounted for. 
 * Every character model is capable of rolling in place.  
   * In order to perform it, you need enough movement speed and then proceed to jump from being idle -> hold W while falling.
@@ -53,7 +51,6 @@ This applies to their respective triggers too.
     * Modest Fortune = 4/16 = 25%
     * Good Fortune = 3/16 = 18.75%
     * Great Fortune = 4/16 = 25%
-
 
 ## A Study In Potions
 
