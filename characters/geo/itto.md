@@ -126,7 +126,7 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 
 **Notes**
 * **Royal Descent: Behold, Itto the Evil!** snapshots DEF but does not shapshot Geo DMG or ATK.
-  * Itto does not snapshot Gorou's Burst buffs if Alt swapped into combat.
+  * Right after Gorou uses his Elemental Burst, if Itto is swapped in either with Alt + Num or manually he will consistently snapshot the buffs. This only happens when the ping is below 75ms, otherwise it's inconsistent, with a 53% success rate at 200\~350ms.
 * Itto's converted attacks apply 1U Geo. 
   * Itto's converted Normal and Charged Attacks have standard 3 hit / 2.5s ICD.
 * **Royal Descent: Behold, Itto the Evil!**'s duration can be extended through hitlag.

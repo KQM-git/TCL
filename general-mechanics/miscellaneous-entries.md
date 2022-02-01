@@ -54,6 +54,7 @@ This applies to their respective triggers too.
     * Good Fortune = 3/16 = 18.75%
     * Great Fortune = 4/16 = 25%
 
+
 ## A Study In Potions
 
 The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
