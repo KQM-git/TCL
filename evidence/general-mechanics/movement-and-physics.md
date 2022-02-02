@@ -425,6 +425,7 @@ The ranking from fastest to slowest is:
 **Finding:**  
 Model skeleton height differences do not matter in movement (at least in walking forward).  
 Currently tested for adult male model.
+
 **Evidence:**  
 [Youtube](https://youtu.be/jdHZWQ5Pbd8)
 
