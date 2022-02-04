@@ -114,7 +114,40 @@ This is something to keep in mind while managing enemy aura
 * [Hilichurl](https://youtu.be/T9UzIzXbRyc)
 * [Ruin Guard](https://youtu.be/P_hiz3GaK20) - usually it doesn't proc Prototype Crescent, but when you hit Oz in the head, it works.
 
-**Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.
+**Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.  
+
+#### Fischl A1 Special Multiplier
+
+**By:** Apxllo\#2021  
+**Added:** 02/02/2002  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/937258971222409226/938438802664480778/transcript-fischl-a1-special-multiplier.html)  
+
+**Finding:** 
+Fischl’s 1st Ascension Passive, Stellar Predator, is a raw multiplier (secondary talent multiplier) and not a usual DMG Bonus.  
+
+Stellar Predator reads: When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.  
+
+**Evidence:**  
+Video: [YouTube](https://www.youtube.com/watch?v=j0k1GWBACes)  
+Fischl’s Aimed Shot (non-crit) DMG: 244  
+Fischl’s Stellar Predator (non-crit) DMG: 373  
+DMG Bonus applicable: 46.6% Electro DMG bonus from an Electro Goblet.  
+From Fischl’s Aimed Shot: Base DMG is found to be 244 / (1.466) = 166.44  
+
+*Hypothesis 1:*  Stellar Predator is a normal DMG bonus.  
+* Total DMG bonus on Stellar Predator hit = 46.6 + 52.7 = 99.3% DMG Bonus  
+* Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71  
+* This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.  
+
+*Hypotesis 2:* Stellar Predator is a special multiplier (raw multiplier to the Base DMG)  
+* Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373  
+* This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.  
+
+**Significance:**  
+Fischl’s 1st Ascension Passive: Stellar Predator is a raw multiplier to her Aimed Shot base DMG. It follows the same DMG calculation as Xingqiu’s C4 “Evilsoother” or Yoimiya’s Elemental Skill “Niwabi Fire-Dance”. While this finding doesn't change anything about Fischl's normal playstyle, Stellar Predator can be useful early game. It can also be fun for Fischl Mains, it's kind of hard to pull off because Oz's hitbox is extremely tiny.  
+
+
+
 
 ### A4: Undone Be Thy Sinful Hex
 

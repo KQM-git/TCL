@@ -163,7 +163,8 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down **Thundering
 | Damage Element | Electro |
 | Damage Type | Charged Attack |
 
-* This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.
+* This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.  
+* The AoE Electro DMG is calculated as a raw multiplier to Fischl's Aimed Shot Base DMG, not as a normal DMG Bonus.  
 
 {% endtab %}
 
