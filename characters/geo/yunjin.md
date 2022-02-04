@@ -2,9 +2,9 @@
 description: A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.
 ---
 
-# Yunjin
+# Yun Jin
 
-## ![](../../.gitbook/assets/element_geo.png) Yunjin
+## ![](../../.gitbook/assets/element_geo.png) Yun Jin
 ![](../../.gitbook/assets/character_yunjin_wish.png)
 
 ## **Base Stats**
