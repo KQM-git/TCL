@@ -4,6 +4,9 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 
 # Aloy
 
+## **Resources**
+* [[Full Written Guide] Aloy: Wandering Heroine](https://keqingmains.com/aloy/)
+
 ## ![](../../.gitbook/assets/element_cryo.png) Aloy
 
 ![](../../.gitbook/assets/character_aloy_wish.png)
