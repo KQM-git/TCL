@@ -58,4 +58,5 @@ redirects:
   damage: ./combat-mechanics/damage/damage-formula.md
   egt: ./combat-mechanics/elemental-effects/elemental-gauge-theory.md
   srp: ./combat-mechanics/elemental-effects/simultaneous-reaction-priority.md
+  common-terms: theorycrafting.md
   
