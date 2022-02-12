@@ -236,7 +236,9 @@ Maximum upgrade level is 15.
 {% tab title="C4" %}
 ### **Prophecy of Oblivion**
 
-When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.
+When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.  
+
+* This bonus only applies to the target(s) affected by the Omen and does not appear in the stat page.
 {% endtab %}
 
 {% tab title="C5" %}

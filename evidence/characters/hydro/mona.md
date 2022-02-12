@@ -452,9 +452,7 @@ Although **C2 Lunar Chain** reads that the Charged Attack will automatically fol
 
 C2 is not as good as it could be, because the automatic Charged ATK cannot benefit from Vaporize unless pyro is inflicted in the short period in between the Normal Attack and automatic Charged Attack animation.
 
-## Interactions/Synergies
-
-### C2 Mona Aura for Xiangling
+#### C2 Mona Aura for Xiangling
 
 **By:** Raf\#7220  
 **Added:** 6/7/2021  
@@ -469,16 +467,23 @@ A C2 Mona using N2C applies enough hydro to overtake the pyro application of Xia
 **Significance**:  
 Xiangling Q applies too much pyro for Mona to successfully be the aura most of the time, although when the C2 proc goes off it DOES allow Xiangling to pryo vape.
 
+### C4: Prophecy of Oblivion
 
+#### C4 Mona Does Not Show Up in Stat Page
 
+**By:** Mcpie\#8672  
+**Added:** 02/02/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/937755412520919070/938446649758457886/transcript-c4-mona-does-not-show-up-in-stat-page.html)  
 
+**Finding:**  
+C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.  
 
+**Evidence:**  
+[YouTube Video](https://youtu.be/9v-cdz5Rq9E)  
+1. Showcase, 87.8% CRIT Rate Mona, display of activated C4.  
+2. Picked a Spiral Abyss floor with seperated enemies.  
+3. Start the chamber, apply Q to one enemy and hit it in order to activate the Omen and hit it once again to "activate" the C4 bonus.  
+4. Start hitting the unaffected enemy with Normal Attacks until a non-critical hit (1092) appears while the Omen is still visible on the first enemy.  
 
-
-
-
-
-
-
-
-
+**Significance:**  
+This information is not displayed in the C4 or the Q description in-game.  
