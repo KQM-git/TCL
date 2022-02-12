@@ -57,6 +57,26 @@ Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
 Tornado DMG (no C6): 824 Anemo, 253 Electro  
 Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
+### AMC E Frames Update  
+**By:** pai#3602  
+**Added:** 2/02/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932722588076081232/938503721296482354/transcript-amc-e-frames-update.html)  
+
+**Finding:** AMC E frame counts were previously incorrect.  
+Currently in the TCL:  
+Press: 27  
+Hold: 27~61  
+
+Updated:  
+Press: 60  
+Hold: 60~145  
+
+**Evidence:**  
+[Press](https://youtu.be/yGNDt7mTQA8)  
+[Hold](https://youtu.be/OzwVqS84Rd8)  
+
+**Significance:** More accurate frame counts with evidence.
+
 ## Burst Mechanics
 
 ### Anemo MC's Burst Absorption is 2B
