@@ -320,6 +320,20 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 
 ## Sacrificial Series
 
+### Average ER Gain from Sacrificial Weapons  
+ 
+**By:** Raladin\#3752  
+**Added:** 2/2/2022  
+  
+**Finding:** Average ER gain from Sacrificial Weapons has decreasing returns when increasing refinement.    
+
+**Evidence:**  
+[Math and Explanation](../../.gitbook/assets/Average_ER_gain_from_Sac_weapon_1.pdf)  
+[Graph 1](https://www.desmos.com/calculator/9bjjvxkq7q)  
+[Graph 2](https://www.desmos.com/calculator/ireq7whftb)  
+
+**Significance:** This mathematically shows why units with low skill cooldowns are not great pairings with sacrificial weapons, and also show which units are ideal for these types of weapons.  
+
 ### Sacrificial Weapons do not proc on Shielded Enemies
 
 **By:** Exuma\#1917  
