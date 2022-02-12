@@ -78,7 +78,8 @@ Summons water droplets resembling musical notes that form a Melody Loop, dealing
 | Cooldown | 32s |
 
 **Notes**
-* Cast time can be reduced by performing a swap cancel.
+* Cast time can be reduced by performing a swap cancel.  
+* When dashing to animation cancel, it will not be casted but it will trigger artifact 4-Piece set bonuses as well as avoid the cooldown.  
 
 {% endtab %}
 
