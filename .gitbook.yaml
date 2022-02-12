@@ -10,6 +10,7 @@ redirects:
   sayu: ./characters/anemo/sayu.md
   sucrose: ./characters/anemo/sucrose.md
   traveler-anemo: ./characters/anemo/traveler-anemo.md
+  amc: ./characters/anemo/traveler-anemo.md
   venti: ./characters/anemo/venti.md
   xiao: ./characters/anemo/xiao.md
   aloy: ./characters/cryo/aloy.md
@@ -30,12 +31,14 @@ redirects:
   razor: ./characters/electro/razor.md
   sara: ./characters/electro/sara.md
   traveler-electro: ./characters/electro/traveler-electro.md
+  emc: ./characters/electro/traveler-electro.md
   albedo: ./characters/geo/albedo.md
   gorou: ./characters/geo/gorou.md
   itto: ./characters/geo/itto.md
   ningguang: ./characters/geo/ningguang.md
   noelle: ./characters/geo/noelle.md
   traveler-geo: ./characters/geo/traveler-geo.md
+  gmc: ./characters/geo/traveler-geo.md
   yunjin: ./characters/geo/yunjin.md
   zhongli: ./characters/geo/zhongli.md
   barbara: ./characters/hydro/barbara.md
@@ -59,5 +62,4 @@ redirects:
   egt: ./combat-mechanics/elemental-effects/elemental-gauge-theory.md
   srp: ./combat-mechanics/elemental-effects/simultaneous-reaction-priority.md
   common-terms: theorycrafting.md
-  common-terms#attack-string-notion: theorycrafting.md#combat-notation
   
