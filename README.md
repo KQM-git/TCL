@@ -10,7 +10,7 @@ The newsletter is a way to catch up on the latest submissions to the Theorycraft
 
 **Most Recent Newsletter:**
 
-{% page-ref page="newsletter/patch-2.3b.md" %}
+{% page-ref page="newsletter/patch-2.4.md" %}
 
 ## Submissions
 
