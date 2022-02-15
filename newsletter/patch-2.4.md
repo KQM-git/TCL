@@ -26,7 +26,7 @@ description: 'A recap of patch 2.4 and the theorycrafting work published.'
 {% page-ref page="../characters/cryo/shenhe.md" %}
 
 [Evidence Vault Page](../evidence/characters/cryo/shenhe.md)
-### Yunjin
+### Yun Jin
 {% page-ref page="../characters/geo/yunjin.md" %}
 
 [Evidence Vault Page](../evidence/characters/geo/yunjin.md)
