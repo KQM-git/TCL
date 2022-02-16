@@ -32,6 +32,8 @@ redirects:
   sara: ./characters/electro/sara.md
   traveler-electro: ./characters/electro/traveler-electro.md
   emc: ./characters/electro/traveler-electro.md
+  yae-miko: ./characters/electro/yae-miko.md
+  yae: ./characters/electro/yae-miko.md
   albedo: ./characters/geo/albedo.md
   gorou: ./characters/geo/gorou.md
   itto: ./characters/geo/itto.md
