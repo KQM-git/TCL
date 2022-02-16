@@ -22,7 +22,7 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 ## **Attacks**
 
 {% tabs %}
-{% tab title="NAME" %}
+{% tab title="Normal Attack: Spiritfox Sin-Eater" %}
 **Normal Attacks**  
 Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG.
 
@@ -86,7 +86,7 @@ Legends of "kitsunetsuki," or the manifestation of a kitsune's might, are common
 
 When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing AoE Electro DMG. Each **Sesshou Sakura** destroyed in this way will create one Tenko Thunderbolt.
 
-| Attribute | NAME | 
+| Attribute | Burst | 
 | :--- | :--- |
 | Skill DMG \(T9%\) | 442% |
 | Tenko Thunderbolt DMG \(T9%\) | 567.49% |
