@@ -98,10 +98,10 @@ Fischl's A4 Talent targets the closest enemy to the character, not necessarily t
 **Significance:**  
 This is something to keep in mind while managing enemy aura
 
-### ICD/Gauges for Fischl's Burst and C4
-**By:** ItzSomebody\#0029
-**Added:** 02/20/2022
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940182051888443403/945082050417946624/transcript-fischl-burst-and-c4-icd-gauge-correction.html)
+### ICD/Gauges for Fischl's Burst and C4  
+**By:** ItzSomebody\#0029   
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940182051888443403/945082050417946624/transcript-fischl-burst-and-c4-icd-gauge-correction.html)  
 
 **Finding:**  
 Correction/Additions for ICD/Gauges for Fischl's Burst and C4
