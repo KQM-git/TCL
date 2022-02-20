@@ -537,7 +537,7 @@ The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on 
 
 ### 4OHC does not shatter frozen enemies  
 
-**By:** Puffin\#9920  
+**By:** Juslin\#7989  
 **Added:** 1/29/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/936689990153408512/936792177617563698/transcript-ohc-will-not-shatter.html)  
 
@@ -550,6 +550,50 @@ The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on 
 
 **Significance:**  
 4OHC is usable in freeze teams.
+
+### Extensive Look at What Heals Count for OHC  
+**By:** Juslin\#7989  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932006153481777233/945074133383938108/transcript-ohc-mechanics.html)  
+
+**Finding:**  
+OHC procs on a lot on non-conventional types of healing, this ticket aims to document that.
+
+**Evidence:**  
+*Characters:*  
+
+* Anemo Traveler A4 (Yes) [Youtube](https://youtu.be/qUz3jGMDnMg)
+* Barabara/Qiqi C6 (Yes, already in KQM Library)
+* Fischl C4 (yes) [Youtube](https://youtu.be/4BbOQWwomlM)
+* Gorou C4 (yes) [Youtube](https://youtu.be/kw1XzqhTbp4)
+* Sayu A1 (yes) [Youtube](https://youtu.be/eIDW_s0xDHc)
+* Kaeya A1 (yes) [Youtube](https://youtu.be/nj1gyOOqepQ)
+* Zhongli C6 (yes) [Imgur](https://imgur.com/ZK61uFe) 
+* Hu Tao burst (yes) [Youtube](https://youtu.be/wFNEZxB1oxo)  
+ 
+*Weapons:* 
+
+* Prototype Amber Passive (Yes, already in KQM Library)
+* Black Sword (Yes, already in KQM Library)
+* Aquila Favonia (yes) [Youtube](https://youtu.be/nwAhcnTTHsA)
+* White Iron Greatsword (yes) [Youtube](https://youtu.be/sMikNDe6rmk)
+* Traveler's Handy Sword (yes) [Youtube](https://youtu.be/8UiLNQAys-w)
+* Otherworldly Story (yes) [Youtube](https://youtu.be/7EvXhTE1W48)
+* Recurve Bow (yes) [Youtube](https://youtu.be/x9b1GQXBra4)  
+
+*Other:*
+
+* Statue of the Seven (no)
+* Food, esp DoT healing food (no)
+* Revival after party wipe in overworld (no) [Youtube](https://youtu.be/6qWjH1yHe44)
+* Co-op Domains - leaving after death (no)[Youtube](https://youtu.be/H6tJAO82Hy4)
+* Co-op Domains - restart after team wipe (no) [Youtube](https://youtu.be/uxvrq822cpQ)
+* Abyss cards - HP regen on killing enemies (no) [Youtube](https://youtu.be/LESZ6FhGcs8)
+* Abyss cards - Instant 25% HP (no) [Youtube](https://www.youtube.com/watch?v=Pzz7r-AjQto)
+* Windtrace Healing (yes) [Youtube](https://www.youtube.com/watch?v=2ExXP7PcAGo)
+
+**Significance:**
+Better understanding of OHC and what it benefits from.  
 
 ## Pale Flame
 
