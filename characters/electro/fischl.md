@@ -120,8 +120,8 @@ Has the following properties during the ability's duration:
 | :--- | :--- |
 | Skill DMG \(T9%\) | 353.6% |
 | Frames | 20 |
-| GU | 2B |
-| ICD | None |
+| GU | 1A |
+| ICD | Shared With C4 |
 | Snapshot | Snapshot |
 | Damage Element | Electro |
 | Damage Type | Burst |
@@ -136,6 +136,7 @@ Has the following properties during the ability's duration:
 * You can swap characters during Fischl's **Midnight Phantasmagoria** to exit the burst early.
 * **Midnight Phantasmagoria** only has invulnerability frames \(iframes\) on startup.
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
+* **Midnight Phantasmagoria** is considered a blunt attack and will shatter frozen enemies.
 
 {% endtab %}
 {% endtabs %}
@@ -238,10 +239,13 @@ When the duration ends, Fischl regenerates 20% of her HP.
 | :--- | :--- |
 | Skill DMG (T6%) | 291.2% |
 | Her Pilgrimage of Bleak | 222% |
+| GU | 2B |
+| ICD | Shared With **Midnight Phantasmagoria** |
 | Damage Type | Elemental Burst |
 
 * C4 can crit and has separate crit rolls from Q.
 * C4 damage occurs before Q (higher priority)
+* C4 is not a blunt attack and will not shatter frozen enemies.
 
 {% endtab %}
 
