@@ -110,6 +110,21 @@ $$
 \end{align*}
 $$
 
+Multiple consecutive freezes have reduced duration. They follow the following kinematic rules:
+* Freeze aura decay starts off at a rate of 0.4 GU/s
+* It accelerates at a rate of 0.1 GU/s^2
+* When unfrozen, it accelerates at a rate of -0.2 GU/s^2 back down to the minimum rate of 0.4 GU/s
+
+Thus, extending the above freeze formula, the generalized freeze duration formula may be represented by the following:
+
+$$
+\begin{align*}
+&\mbox{Decay Time Modifier}=\sum{\max({0, \mbox{Time Spent Frozen} - 2*\mbox{Time Spent Unfrozen}})}\\\\
+&\mbox{For consecutive periods of Time Spent Frozen followed by Time Spent Unfrozen}\\\\
+&\mbox{Freeze Duration}=\sqrt{20*\mbox{Frozen aura gauge}+(\mbox{Decay Time Modifier} + 4)^2}-\mbox{Decay Time Modifier}-4\\\\
+\end{align*}
+$$
+
 
 ## Swirl
 
