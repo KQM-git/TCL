@@ -411,3 +411,18 @@ Photos:
 
 **Significance:**  
 For travelers who would like to have specific lighting on The Crux for photo contests.
+
+## Hidden wall clip spot in Liyue Merchant Stall
+**By:** Artellio\#4479  
+**Added:** 02/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934639679863676978/940718218228682762/transcript-liyue-merchants-stall-wall-clip-hidden-spot.html)
+
+**Finding:** A hidden spot in Liyue allows you to clip into the walls, and enter a hidden boxed area. Once you enter the area, you’ll be able to see outside the box, but others cannot see in. This spot also features an infinite fall/plunge area easy accessed by inch-walking towards the crevice. 
+To enter this area, teleport to the northwestern TP of Liyue Harbor, head northwest and head towards the water. Follow the video in evidence for further instructions. You should be able to go to the corner, jump-climb up, and jump-climb left. Note that if you infinite plunge, you will be stuck. You may also be viewed from below when in the fall area. 
+
+**Evidence:**  
+[Youtube](https://youtu.be/X52VPlJzNVw)\
+Provided by Aluminum\#5462
+
+**Significance:**  
+Fluff.
