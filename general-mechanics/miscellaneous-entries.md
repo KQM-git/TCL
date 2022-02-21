@@ -21,6 +21,7 @@ description: For entries that have little practical use.
     * Teen female - 35%
 * The Traveler has more than 0 friendship points but less than 10 and does not accumulate.  
 * The daily cap for being able to receive drops is 400 elites and 2000 common mobs.  
+* The maximum amount of damage that a character can take when doing a Plunge Attack is 40% of their max HP.  
 
 ## Cancelling
 

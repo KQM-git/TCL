@@ -443,3 +443,20 @@ Elites and common mobs capped on December 20, 2021: [Google Sheets](https://docs
 **Significance:**  
 The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000. It is possible that some Mora is missed when teleporting in single player; time is paused when using the map in single player and Mora may not have reached the active character in time.
 
+## Plunge Attack Max Fall DMG Cap
+**By:** TheFirstRapher\#9207  
+**Added:** 02/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938676862769565726/941446808155074581/transcript-plunge-attack-max-fall-dmg-cap.html)  
+
+**Finding:**  
+Plunging at any height will normally have a damage cap of about 40% of the character's Max HP.  
+
+**Evidence:**  
+The plunge took place at an arbitrary height I thought to be extremely high after gliding a bit away from Qingyun Peak. The test plunge had Beidou at 18350 HP as max and pre-plunge HP, after the plunge her HP was 10966, which means she lost 40.2% of her max HP. The test was also carried out with Yanfei who had 6532 max HP, she lost 40.2% when starting with 100% and 40.9% HP, and died when plunging with 40.1% HP. This means that if your character's current HP is under ~40% of their max HP, they will die.  
+* Beidou losing 40.2% max HP starting with 100% max HP: [Video](https://youtu.be/vvYVfcY6hmY?t=51)  
+* Yanfei losing 40.2% max HP starting with 100% max HP: [Video](https://www.youtube.com/watch?v=QuAzvs916ws)  
+* Yanfei losing 40.2% max HP starting with 40.9% max HP: [Video](https://www.youtube.com/watch?v=4scyvtJJS7U)  
+* Yanfei dying, starting with 40.1% max HP: [Video](https://youtu.be/pHQoT2AAtpM)  
+
+**Significance:**  
+Plunging provides a speedier way of getting down from a high place without dying as long as you have enough HP.
