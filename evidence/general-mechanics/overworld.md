@@ -8,6 +8,48 @@ search: false
 
 {% page-ref page="../../general-mechanics/overworld.md" %}
 
+## The Weird Blue Rock  
+**By:** Pablos\#1142  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938864913525395456/945069975708762132/transcript-weird-blue-rocks.html)  
+
+**Finding:**  
+There are few piles of unique blue rocks in the Enkanomiya with interesting properties. They can be destroyed and represent unique blend of features native to other overworld objects.
+The current known locations for these rocks:
+* Inside small square building behind Vishap Research Lab (2 rocks) 
+  *  [Map](https://imgur.com/a/WuQ1heh)   
+  *  [View](https://imgur.com/a/7wtHwnu)  
+
+**Evidence:**  
+*Known Mechanics:*
+* Blue rocks can be burned down [ShampooBrain\#9583](https://imgur.com/a/u4FXguH)
+* Blue rocks do not respawn
+   * Initial pile was found and destroyed on January 9, 2022
+   * The pile at this location has not reappeared as of February 9, 2022: [Imgur](https://imgur.com/a/JrnmJTY)
+* Blue rocks light up with Elemental Sight:  [Imgur](https://imgur.com/a/qO1cijw)
+* Blue rocks are targetable, examples:  
+   * Oz [Imgur](https://imgur.com/a/LwbzWQW)  
+   * Guoba [ShampooBrain\#9583](https://imgur.com/a/X1585Zr)  
+   * Diona [ShampooBrain\#9583](https://imgur.com/a/WTIh8Od)  
+* Blue rocks can hold cryo aura:  
+   * [Swirl](https://imgur.com/a/G0THI8W)  
+   * [Crystallize](https://imgur.com/a/0sr5OWQ)  
+   * [Superconduct](https://imgur.com/a/FSr7SfK)  
+   * [Freeze](https://imgur.com/a/KIo8sMI)  
+   * [Shatter](https://youtu.be/J_fYyxo0Ltg)  
+
+*Glitches:*  
+* The hitbox of blue rocks seems to sink bow attacks directed at them at certain angles showing lack of hit animations or charge attack explosions. 
+[Wesu\#8719](https://www.youtube.com/watch?v=tU6NDtsHKQA)
+   * test demonstrating consistent arrow sinking from different types of bow users at the same spot (except lvl 2 Ganyu bloom explosion) [Imgur](https://imgur.com/a/enSOL7d)
+   * test demonstrating consistent arrow hits from all types of bow users at different angle [Imgur](https://imgur.com/a/DJfoL9I)
+   * test demonstrating arrow glitch affects long range attacks as well [Imgur](https://youtu.be/JDzvNCO6lP8)
+
+**Significance:**   
+* Furthering the knowledge of the cursed overworld of Teyvat. 
+* Considering the island is called the Vishap Research Lab and the enclosure-like nature of the room, I can only surmise that Batyshmal Vishaps who were experimented on were kept in there at some point. The strange substance left behind on the ground is therefore most likely a reptile coprolite - the fossilized excrement of the Vishaps. The cobalt blue color is likely due to the elemental constitution of the beasts, and the crystal-like formation may be thanks to the uric acid that was present at the time of discharge. The easily flammable property further proves my point, since coprolite is mostly carbon. (Mr. Pillow\#0065)  
+
+
 ## The Rock
 
 **By:** Aevean Leeow\#1362, Mcpie\#8672, BowTae\#0141, KQM Stream Meme Team, and KQM Friends  
