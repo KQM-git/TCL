@@ -42,6 +42,8 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md\#sprinting-bug), while still consuming stamina.
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
 
+* Diona's proc rate on Sacrifical bow is [lower than its theoretical average.](../evidence/characters/cryo/diona.md\#diona-sacrifial-proc-inconsistency)
+
 ## Fixed Bugs
 
 ### Turbo
