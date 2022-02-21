@@ -121,7 +121,7 @@ There is a unique interaction between various parts of Fischl's kit that causes 
 
 Clip: [Youtube](https://www.youtube.com/watch?v=_nwtPUXMIME)
 
-4) Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 is cannot.
+4) Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 cannot.
 
 Burst shatters: [Youtube](https://www.youtube.com/watch?v=M1PyFkFDrw0)  
 C4 does not shatter: [Youtube](https://www.youtube.com/watch?v=i47KZPNuYmU)  
