@@ -408,7 +408,7 @@ If your main DPS relies on Charged Attacks for damage and has the bullet-like an
 
 ### Primo Geovishap
 
-#### Shield Reflection Mechanic
+#### Shield Reflection Mechanics
 
 **By:** Mcpie\#8672  
 **Added:** 6/25/2021  
@@ -472,6 +472,20 @@ Legend of the Vagabond Sword:
 
 **Significance:**  
 Might play a major role if at any point we'll have Primo Geovishaps inside the abyss and people will struggle with it.  
+
+#### Reflecting Primo Geovishap Shower can be Swap Cancelled
+**By:** yolitme0\#0579  
+**Added:** 02/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939977342724477008/941440886649270332/transcript-reflecting-primo-geovishap-shower-can-be-swap-cancelled.html)  
+
+**Finding:**  
+When attempting to reflect the Primo Geovishap's Primordial Shower with a shield, swapping at the right time can cause the shower attack to not be reflected.  
+
+**Evidence:**  
+[Video](https://youtu.be/sX5WStcOOjM)  
+
+**Singificance:**  
+Better understanding of the Primordial Shower.
 
 ## Elite Enemies
 ### Abyss Herald

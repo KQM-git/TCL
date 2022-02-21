@@ -46,6 +46,7 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
   * For more details see the [Shield Reflection Mechanic](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
 
 * The Primordial Shower's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
+* When swapping characters with a shield at the right time, the Primordial Shower will not be reflected.
 
 ## Hydro Abyss Mage
 
