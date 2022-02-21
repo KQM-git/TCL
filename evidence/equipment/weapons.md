@@ -559,6 +559,36 @@ Hakushin Ring doesn't trigger off field.
 Bad uptime.  
 
 ---
+### Kagura's Verity
+
+#### Kagura Stack Refresh
+
+**By:** ArchedNosi\#1484
+**Added:** 2/21/2022
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945241248996925440/transcript-kagura-duration-refresh.html)
+
+**Findings:** 
+- Kagura's Verity's Stacks' Durations Refresh and act as one
+- Gaining a Stack of Kagura Dance refreshes the total duration to the full 16s.
+- In tandem, if the 16s runs out, all stacks deplete.
+- Additionally, Stacks of Kagura Dance are gained and start their 16s timer at the moment an Elemental Skill is used/inputted, to Skills with a Hold Variant, the passive is gained at the initial start-up of whatever the Hold Skill may be.
+
+**Evidence:**
+[Youtube](https://youtu.be/EE_rWVNsGlo)
+ - Press E, wait ~10s, Press E, wait ~9s, Press E, wait ~17s, Press E
+ -- Press E #1 was increased by 1 Stack of Kagura Dance
+ -- Press E #2 was increased by 2 Stacks of Kagura Dance
+ -- Press E #3 was increased by 3 Stack of Kagura Dance (despite being longer than the initial 16s)
+ -- Press E #4 was increased by 1 Stack of Kagura Dance (depleted, also the 16s timer runs out according to as if the buff gets applied upon input, which it does)
+
+[Imgur](https://imgur.com/a/nLxjpD7)
+- Calculated proof of the numbers shown in the clip.
+
+**Significance:** 
+- Confirms that Kagura's Verity's Stacks are not independent and refresh each other. 
+- Similarly, fully depleting the 16s timer of any amount of Stacks erases the Stack count.
+- Additionally, Stacks of Kagura Dance are gained upon input, this applies to both Press and Hold variants to Elemental Skills. In particular for Hold Variants, the 16s timer begins when the Hold Skill is first casted/channeled. 
+
 
 ### Kitain Cross Spear  
 

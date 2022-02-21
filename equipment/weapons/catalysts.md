@@ -32,6 +32,38 @@
 {% endtab %}
 {% endtabs %}
 
+### Kagura's Verity
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Kagura Dance of the Sacred Sakura | Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **12%/15%/18%/21%/24%** for 16s. Max 3 stacks. This character will gain **12%/15%/18%/21%/24%** All Elemental DMG Bonus when they possess 3 stacks. |
+| Base ATK | 46 - 608 |
+| CRIT DMG% | 14.4% - 66.2% |
+
+* Stacks refresh on stack gain and act as one. 
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | CRIT DMG% |
+| :--- | :--- | :--- |
+| 60 | 382 | 48.7 |
+| 60+ | 414 | 48.7 |
+| 65 | 435 | 51.6 |
+| 70 | 457 | 54.5 |
+| 70+ | 488 | 54.5 |
+| 75 | 510 | 57.4 |
+| 80 | 532 | 60.3 |
+| 80+ | 563 | 60.3 |
+| 85 | 586 | 63.2 |
+| 90 | 608 | 63.2 |
+{% endtab %}
+{% endtabs %}
+
 ### Lost Prayer to the Sacred Winds
 
 {% tabs %}
