@@ -67,7 +67,7 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | Skill DMG \(T9%\) | 359.04% |
 | Particles | 4 \(-\) |
 | Frames | 10 |
-| GU | 1A |
+| GU | 1U |
 | ICD | None |
 | DMG Element | Anemo |
 | DMG Type | Skill |
