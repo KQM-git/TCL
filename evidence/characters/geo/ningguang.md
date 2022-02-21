@@ -8,6 +8,24 @@ search: false
 
 {% page-ref page="../../../characters/geo/ningguang.md" %}
 
+## Charged Attack Mechanics
+
+### Star Jades Have The Charged Attack Tag  
+**By:** Asaki\#9139  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940671732979757087/945067939927826443/transcript-star-jades-have-ca-tag.html)  
+
+**Finding:**   
+Ningguang's Star Jades are considered Charged ATK DMG  
+
+**Evidence:**    
+*credit to Zafiast\#0327 and andru\#1175*   
+1) Non C6 Ningguang [Imgur](https://imgur.com/gallery/fMo7va7)  
+2) C6 Ningguang [Imgur](https://imgur.com/62azWJq)  
+
+**Significance:**  
+Star Jades benefit from Charged Attack DMG Bonuses.
+
 ## Skill Mechanics
 
 ### Jade Screen ICD
