@@ -22,6 +22,15 @@ description: For entries that have little practical use.
 * The Traveler has more than 0 friendship points but less than 10 and does not accumulate.  
 * The daily cap for being able to receive drops is 400 elites and 2000 common mobs.  
 * The maximum amount of damage that a character can take when doing a Plunge Attack is 40% of their max HP.  
+* All Statues of the Seven can heal you while you are in a menu (map, adventure book, etc.).
+* Some Statues of the Seven's teleport places you close enough to heal from them, these include:
+  * Mondstadt - Stormterror Lair Statue
+  * Dragonspine Statue
+  * Liyue - Statue near Qingyun Peak
+  * Liyue - Statue in Dihua Marsh
+  * Liyue - Statue in Mingyun Village
+  * Inazuma - Sanganomiya Island Statue
+  * Inazuma - Tsurumi Island Statue
 
 ## Cancelling
 

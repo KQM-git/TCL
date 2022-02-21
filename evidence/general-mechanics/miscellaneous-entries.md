@@ -9,6 +9,35 @@ description: For entries that have little practical use.
 
 {% page-ref page="../../general-mechanics/miscellaneous-entries.md" %}
 
+## Statue Healing Works In Pause Menus  
+**By:** anmol43\#6762  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939595810998460446/945078289515552858/transcript-statue-healing-works-during-pause-menus.html)  
+
+**Finding:**  
+
+1) statue healing (the passive healing you get while standing near a statue of the seven) continues through pause menus.
+2) when teleporting to certain statues, the player spawns in a spot close enough to trigger statue healing.
+List of "automatic" statues. 
+* Mondstadt - Stormterror Lair Statue
+* Dragonspine Statue
+* Liyue - Statue near Qingyun Peak
+* Liyue - Statue in Dihua Marsh
+* Liyue - Statue in Mingyun Village
+* Inazuma - Sanganomiya Island Statue
+* Inazuma - Tsurumi Island Statue
+all other statues work as intended, you have to walk upto them to trigger statue healing.  
+
+**Evidence:**  
+
+healing works through pause menus - [Youtube](https://youtu.be/oVJpWywNZF0)  
+a normal statue, for comparison - [Youtube](https://youtu.be/LJC25iiMVtY)  
+automatic healing statues - [Youtube](https://youtu.be/BsmLe-LQ1P8)  
+healing works through pause menus + automatic healing - [Youtube](https://youtu.be/7JCbKl8mQSU)  
+
+**Significance:**  
+Combining the above findings, a player can save some clicks and time when healing using a statue of the seven.
+
 ## Item Suck Limits
 
 **By:** clrE\#6290  
