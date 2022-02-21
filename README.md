@@ -16,12 +16,13 @@ The newsletter is a way to catch up on the latest submissions to the Theorycraft
 
 If you're interested in submitting information/findings to be published in the TCL, follow these steps:
 
-1. Join the KQM Discord at [discord.gg/keqing](https://discord.com/invite/keqing).
-2. Grab the Theorycrafter and Library Submissions role in the **#theory-readme** channel.
-3. Head to **#library-submissions** and create a new ticket by typing `$new <title>`.
-   1. Make sure you have preliminary findings with evidence already prepared before you create a ticket.
-4. Your ticket will be created and you will be pinged there. 
-5. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `$close` once you're done so that KQM Theorycrafting Editors know when to review and verify your ticket.
+1. Join the KQM Discord at [discord.gg/keqing](https://discord.com/invite/keqing).  
+2. Grab the Theorycrafter role, then the Library Submissions and/or Guide Submissions role in the **#theory-readme** channel.  
+3. Head to the **#library-submissions** channel and read the guidelines first.
+4. Create a new ticket by pressing one of the "Create ticket" buttons. Library Submissions are for normal tickets and Guide Submissions are for character guides.  
+   * Make sure you have preliminary findings with evidence already prepared before you create a ticket.  
+5. Your ticket will be created and you will be pinged there.  
+6. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `$close` once you're done so that KQM Theorycrafting Editors know when to review and verify your ticket.  
 
 ## Feedback
 
