@@ -108,3 +108,42 @@ How many wishes on the weapon banner does it take to fully level a 5 star weapon
 
 **Significance:**  
 Average number of wishes needed on weapon banner to level a 5 star weapon to 90 is 855 wishes.  
+
+## Gacha Calculator
+
+**By:** Tibo\#4809  
+**Addedd:** 02/19/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935286904679710741/944727977445445632/transcript-gacha-rate-calculator.html)   
+
+**Finding 1:** 
+Statistical model for Genshin Impact's droprates.    
+
+**Evidence:**   
+*Source*: Cgg and [Genshin Wishes](https://genshin-wishes.com/) (posted with permission)  
+
+The soft-pity system starts at pull 74 (5\* char), pull 63 (5\* weapon) and at pull 9 (4\*). At soft-pity, the drop rate increases with (the base rate \* 10) every pull  
+
+For more details/graphs/data, see their [HoYoLAB post](https://www.hoyolab.com/article/497840)  
+
+**Significance**:  
+Better understanding of how the soft-pity system works.
+
+**Finding 2:**
+Gacha rate calculator  
+
+**Evidence:** Based on this statistical model, I've made a [rate calculator](https://hutaobot.moe/tools/gachacalc) for a specific rate-up 5* char/weapon and 4* char.  
+
+Some percentile/pulls needed:  
+| Item | 50th Percentile | 95th Percentile | 99th Percentile |  
+| :--- | :--- | :--- | :--- |   
+| C0 of a rate-up 5\* character | 80  | 158 | 161 |    
+| C6 of a rate-up 5\* character | 654 | 843 | 917 | 
+| R1 of a rate-up 5\* weapon    | 99  | 199 | 204 |  
+| R5 of a rate-up 5\* weapon    | 527 | 731 | 811 |   
+| C0 of a rate-up 4\* character | 26  | 93  | 141 |  
+| C6 of a rate-up 4\* character | 231 | 384 | 464 |  
+
+Small note with these calculations: to keep the amount of calculations/paths to explore down in the 4\* char calcs, there's assumed to be no 5\*'s to eat up/delay guaranteed 4\* char. This will make the required 4\* count slightly lower than needed. I've assumed that the difference is negligible.  
+
+**Significance**:  
+Better budgeting/planning if users want to be X% sure to get char Y at CZ. Especially more useful for budgeting of higher constellations as averaging of low/high pity pulls. A calculator has the advantage that people can enter their current situation (pity/guaranteed).  

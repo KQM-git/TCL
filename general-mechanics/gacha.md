@@ -10,7 +10,7 @@ Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of 
 | 4\* | 5.1% | 10 pulls |
 | 3\* | 94.3% | N/A |
 
-After the soft pity, the probability of the 5\* increases by a currently unknown value, making it significantly more probable to receive a 5\*.
+After the soft pity, the probability of the 5\* increases by the base rate \* 10, making it significantly more probable to receive a 5\*.
 
 The featured characters also have increased rates of pulling. The next 5\* is guaranteed to be the featured character if you roll a 5\* that is not featured. Similarly, for the 4\* characters, a featured 4\* is guaranteed if a 4\* is rolled that is not featured.
 
@@ -34,6 +34,15 @@ Estimated number of 5\* pulls to get desired character:
 | C6 character \(starting with pity\) | 10 |
 | C6 character \(not starting with pity\) | 10.5 |
 
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:  
+
+| Item | 50th Percentile | 95th Percentile | 99th Percentile |
+| :--- | :--- | :--- | :--- |
+| C0 of a rate-up 5\* character | 80  | 158 | 161 |
+| C6 of a rate-up 5\* character | 654 | 843 | 917 |
+| C0 of a rate-up 4\* character | 26  | 93  | 141 |
+| C6 of a rate-up 4\* character | 231 | 384 | 464 |
+
 ## Featured Weapon Banner
 
 Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
@@ -44,7 +53,7 @@ Before 63 Pulls \(Soft Pity\), the following chart details the probabilities of 
 | 4\* | 6% | 10 pulls |
 | 3\* | 93.3% | N/A |
 
-After the soft pity, the probability of the 5\* increases by a currently unknown value, making it significantly more probable to receive a 5\*.
+After the soft pity, the probability of the 5\* increases  by the base rate \* 10, making it significantly more probable to receive a 5\*.
 
 The featured characters also have increased rates of pulling. The next 5\* is guaranteed to be a featured weapon if you roll a 5\* that is not featured. Similarly, for the 4\* weapons, a featured 4\* is guaranteed if a 4\* is rolled that is not featured. This guarantee will carry over across banner changes. With Epitomized Path, a selected specific featured 5\* weapon is guaranteed only on the 3rd 5\* pull following 2 other 5\* pulls which were not the selected 5\* weapon. Epitomized Path progress does **not** carry over across banner changes (resetting every 3 weeks).
 
@@ -74,6 +83,13 @@ Estimated number of 5\* pulls to get desired weapon, with and without Epitomized
 | R5 weapon \(no pity\) | 12.5 |
 | R5 weapon \(with pity\) | 12.25 |
 
+Number of pulls needed to get different results seperated by the 50th, 95th and 99th Precentile:  
+
+| Item | 50th Percentile | 95th Percentile | 99th Percentile |
+| :--- | :--- | :--- | :--- |
+| R1 of a rate-up 5\* weapon    | 99  | 199 | 204 |
+| R5 of a rate-up 5\* weapon    | 527 | 731 | 811 |
+
 ## Standard Banner
 
 Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of obtaining units/characters
@@ -84,7 +100,7 @@ Before 74 Pulls \(Soft Pity\), the following chart details the probabilities of 
 | 4\* | 5.1% | 10 pulls |
 | 3\* | 94.3% | N/A |
 
-After the soft pity, the probability of the 5\* increases by a currently unknown value, making it significantly more probable to receive a 5\*.
+After the soft pity, the probability of the 5\* increases by  by the base rate \* 10, making it significantly more probable to receive a 5\*.
 
 The rates before pity weighting are as follows:
 
