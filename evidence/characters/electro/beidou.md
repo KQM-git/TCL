@@ -155,6 +155,22 @@ In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has
 **Significance:**  
 In the dire circumstance that you cast Beidou's Elemental Burst too fast to snapshot the Lightning DMG, you still salvage some damage as the Skill DMG snapshots later. It is still best to wait for the buffs to appear, to buff both Skill and Lighting DMG.
 
+### Burst Range Limit
+
+**By:** daibangden2460\#8410  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945105555322703903/transcript-beidou-burst-trigger-range-limit.html)  
+
+**Finding:**  
+Lightning discharge from Beidou's burst can only be triggered within limited range, it starts from the character. It is not affected by travel time of the attack. The distance is counted when the attack hit enemy not when it is released. The owner of the attack has to be on field when the attack hit to trigger lightning discharge.  
+
+**Evidence:**  
+[Youtube](https://youtu.be/w7pUpdAXx88)  
+[Youtube](https://youtu.be/5zIllx8ouYc)  
+[Youtube](https://youtu.be/wgEdpYtL03c)   
+
+**Significance:**  
+Better understanding of Beidou burst.  
 
 ## Constellation Mechanics
 
