@@ -31,6 +31,7 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)  
 * Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
 * Razor's [Lightning Fang](../characters/electro/razor.md#attacks)
+* Thoma's [Crimson Ooyoroi](../characters/pyro/thoma.md#attacks)
 
 ## Evidence Vault
 
