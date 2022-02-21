@@ -179,6 +179,7 @@ This effect can still be triggered even when the character who is using this art
   * The 4p set bonus counts initial heal as part of the Sea-Dyed Foam bubble damage.
   * Revives such as Barbara C6 and Qiqi C6 count for Sea-Dyed Foam bubble healing.
   * Heals (and overheals) from Black Sword will activate Ocean-Hued Clam.
+  * A more extensive list of what dose and does not activate Ocean-Hued Clam can be found [here.](../evidence/equipment/artifacts.md#extensive-look-at-what-heals-count-for-ohc)
 * The 4p set bonus has a 1 bubble limit on field for single-player mode, shared by all 4p set holders.
   * The 3.5s bubble formation ICD is not shared by all 4p set holders.
 * The 4p set bonus only counts healing from the 4p set holder. This is also the case with multiple Ocean Hued sets on the same team.
