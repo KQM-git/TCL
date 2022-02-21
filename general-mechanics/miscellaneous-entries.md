@@ -4,6 +4,7 @@ description: For entries that have little practical use.
 
 # Miscellaneous Entries
 
+* Characters than can pull/suck items with their abilities (i.e Jean E, Venti Q), all have a limit. This limit can be affected by in-game fps, depending on the specific ability. For more information visit [our evidence page.](./../evidence/general-mechanics/miscellaneous-entries.md#item-suck-limits)
 * You can juggle fruits that are freshly harvested from trees. Unfortunately, once they have been on the ground for a certain amount of time, nothing will affect it anymore.
 * At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive. 
   * You can use this to get free fowl. 
