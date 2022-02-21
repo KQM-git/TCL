@@ -107,7 +107,7 @@ This is something to keep in mind while managing enemy aura
 Correction/Additions for ICD/Gauges for Fischl's Burst and C4
 
 **Evidence:**  
-There is a unique interaction between various parts of Fischl's kit that causes some of her attacks to miss Ruin Sentinels when stunned, one of which is her Falling Thunder damage from her Burst. When stunned; however, her Falling Thunder damage instances apply as expected. Abusing this mechanic allows for isolating damage instances of Fischl's Burst and C4 for testing purposes.
+There is a unique interaction between various parts of Fischl's kit that causes some of her attacks to miss Ruin Sentinels when unstunned, one of which is her Falling Thunder damage from her Burst. When stunned; however, her Falling Thunder damage instances apply as expected. Abusing this mechanic allows for isolating damage instances of Fischl's Burst and C4 for testing purposes.
 
 1) Isolating an instance of Fischl's C4 shows that her C4 applies 2B Electro. In the video below, the frame Electro Aura appears is frame 90 and disappears at frame 448. Under 30 FPS, this calculates out to (448 - 90 + 1)/30 ~= 11.9667 seconds, verifying this claim.
 
