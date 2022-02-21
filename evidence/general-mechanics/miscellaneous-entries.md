@@ -378,7 +378,7 @@ When Traveler is compared (i.e. sorted) with other characters with 0 Friendship,
 **Conclusion:**  
 Traveler does not accumulate friendship points, but does sort higher than other characters with zero friendship.
 
-## A Study In Potions - Retry Button Mechanics 
+## A Study In Potions - Retry Button Mechanics 	
 **By:** Vye#9195  
 **Added:** 1/28/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929809364825550901/936413828575559700/transcript-a-study-in-potions--retry-button-mechanics.html)
@@ -388,7 +388,7 @@ The retry button in the event is a full team reset. All cooldowns including weap
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  
-provided by ItzSomebody#0029, yolitme0#0579 (ty for compiling sheet) and ShampooBrain#9583 
+provided by ItzSomebody#0029, yolitme0#0579 (ty for compiling sheet) and ShampooBrain#9583
 
 **Significance:**   
 Mihoyo apparently can implement a full reset button for a small event but cannot do so in the abyss which does not fully reset you. They are either incompetent, tone-deaf, lazy or simply don't give a damn. But next time there is a survey maybe let them know about this utter and complete nonsense.
@@ -426,3 +426,20 @@ Provided by Aluminum\#5462
 
 **Significance:**  
 Fluff.
+
+## Daily Elite Cap and Common Mob Cap
+**By:** DoombringerEX\#8888  
+**Added:** 02/10/2022  
+[Discussion](tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921098493890801725/940728656337191003/transcript-daily-elite-cap-and-common-mob-cap.html)  
+
+**Finding:**  
+The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.  
+
+**Evidence:**  
+Elites and common mobs capped on December 20, 2021: [Google Sheets](https://docs.google.com/spreadsheets/d/1J5seFOf4uAEzI_rfnxth511lm1F3uKPfS7vtBlrn4M8/edit#gid=985319600)  
+* Elites: received Mora amount to 200, 400, or 600; 400 times.  
+* Common mobs: received Mora amount to <199; 1999 times.  
+
+**Significance:**  
+The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000. It is possible that some Mora is missed when teleporting in single player; time is paused when using the map in single player and Mora may not have reached the active character in time.
+
