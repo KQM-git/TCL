@@ -98,6 +98,37 @@ Fischl's A4 Talent targets the closest enemy to the character, not necessarily t
 **Significance:**  
 This is something to keep in mind while managing enemy aura
 
+### ICD/Gauges for Fischl's Burst and C4  
+**By:** ItzSomebody\#0029   
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940182051888443403/945082050417946624/transcript-fischl-burst-and-c4-icd-gauge-correction.html)  
+
+**Finding:**  
+Correction/Additions for ICD/Gauges for Fischl's Burst and C4
+
+**Evidence:**  
+There is a unique interaction between various parts of Fischl's kit that causes some of her attacks to miss Ruin Sentinels when unstunned, one of which is her Falling Thunder damage from her Burst. When stunned; however, her Falling Thunder damage instances apply as expected. Abusing this mechanic allows for isolating damage instances of Fischl's Burst and C4 for testing purposes.
+
+1) Isolating an instance of Fischl's C4 shows that her C4 applies 2B Electro. In the video below, the frame Electro Aura appears is frame 90 and disappears at frame 448. Under 30 FPS, this calculates out to (448 - 90 + 1)/30 ~= 11.9667 seconds, verifying this claim.
+
+30 FPS clip: [Youtube](https://www.youtube.com/watch?v=H7ytXdF9MHk)
+
+2) After stunning a Ruin Sentinel, casting Fischl's Burst outside of the C4 range and flying into the Sentinel while in Oz form triggers an instance of Falling Thunder, avoiding any C4 triggers entirely. This allows for verification that her Burst applies 1A Electro. In the video below, the frame Electro Aura appears is frame 360 and disappears at frame 647. Under 30 FPS, this calculates out to (647 - 360 + 1) / 30 = 9.6 seconds, verifying this claim.
+
+30 FPS clip: [Youtube](https://www.youtube.com/watch?v=k9ODoYQTMw4)
+
+3) Casting Fischl's Burst within the C4 trigger range against a stunned Ruin Sentinel shows that her Burst and C4 share ICD. The setup for this involves applying 1A Pyro to the Sentinel and casting Fischl's Burst within the C4 trigger range. If Burst and C4 do share ICD, then the expected result would be Overload and no Electro Aura which is verified by the video below.
+
+Clip: [Youtube](https://www.youtube.com/watch?v=_nwtPUXMIME)
+
+4) Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 cannot.
+
+Burst shatters: [Youtube](https://www.youtube.com/watch?v=M1PyFkFDrw0)  
+C4 does not shatter: [Youtube](https://www.youtube.com/watch?v=i47KZPNuYmU)  
+
+**Significance:**  
+Corrects incorrect elemental gauges (at the time this ticket was submitted) listed on the TCL, reports the discovery of a shared ICD between Fischl's Burst and C4, and the gauge for Fischl's C4.
+
 ## Ascension Mechanics
 
 ### A1: Stellar Predator
