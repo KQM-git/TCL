@@ -148,6 +148,32 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 * Klee Charge Attack
 * Repeat.
 
+### Ascension 1 Mechanics  
+
+**By:** pai\#3602 and daibangden2460\#8410  
+**Added:** 02/20/2022   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934968623401955358/945091321016774676/transcript-klee-a1-mechanics.html)  
+
+**Findings:**    
+Regarding the Explosive Spark from Klee's A1:  
+1. It lasts up to 30 seconds when it's not consumed.  
+2. It stays even when Klee is swapped out.  
+3. It can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".  
+4. It can proc on trees, but on most trees if it doesn't proc within 3 hits the tree needs to be hit with a physical attack in order for it to be able to proc (exceptions are trees that drop Cuihua and Aralia wood).  
+5. It procs on Cuihua trees the same way it procs on everything else, there is no 3 hit limit.  
+6. It doesn't proc on Aralia trees at all.   
+
+**Evidence:**  
+1. Duration: [Youtube](https://youtu.be/Og-cb7utLMo?)  
+2. Swapping: [Youtube](https://youtu.be/d6GUMJqBD_A)  
+3. Things it procs on: [Google Sheets](https://docs.google.com/spreadsheets/d/1SGzT-9WBGOD_ChPivYN6PKNklpMx6JS6eO_dRhXlmNU/edit#gid=0)
+4. "Normal" trees: [Youtube](https://youtu.be/-JGDWOO3cgU)  
+5. Cuihua trees: [Youtube](https://youtu.be/puI67mUbuFA)  
+6. Aralia trees: [Youtube](https://youtu.be/RNIHZ1IaKxc)  
+
+**Significance:**  
+Klee is good at destroying stuff without consuming stamina.
+
 ## Constellation Mechanics
 
 ### Klee C4 damage
