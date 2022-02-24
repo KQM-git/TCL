@@ -107,6 +107,85 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 
 **Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).
 
+## Door Load Border Shenanigans
+
+**By:** CrazyWeke123\#9720  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)  
+
+**Finding:**  
+
+Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, *for some reason* seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.  
+1.    
+Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
+1a.   
+These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb pyro from a character standing in Bennett Q)  
+1b.   
+For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ablity's duration.  
+1c.  
+This can occur on both sides of the load border.  
+1d.  
+guoba just stops working?  
+1e.  
+did not affect Ganyu A4.  
+2.  
+coop partners can load in and out depending on the distance from the load border.  
+3.  
+construct replacement order seems to be completely thrown off course by them respawning.  
+
+**Evidence:**
+
+1:
+
+* Keqing Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/aXvSw0adFc8)  
+* Venti Q [Youtube](https://youtu.be/4qrBXRNzrXM)  
+* Multiple Stacked Abilities [Youtube](https://youtu.be/b4gwL7yFUNg)  
+* Lisa Q [Youtube](https://youtu.be/CiTvni0GBv8)  
+* Jean Q [Youtube](https://youtu.be/xEt2Pnvizh0)  
+* Ganyu Q [Youtube](https://youtu.be/LKMPpNhwFzo)  
+* Fischl E 0:18 (The summoning sound replays [Sound Warning]) [Youtube](https://youtu.be/3g6TFsY1X_8)  
+* Aloy E [Youtube](https://youtu.be/7CKi8H6ejg8) 
+* Mona E (Credit to phillip#0150) [Youtube](https://youtu.be/4QsQ25XGgMo)  
+* Ganyu E (Credit to daibangden2460\#8410) [Youtube](https://www.youtube.com/watch?v=-q1-tREIMVs)  
+* Keqing E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/lAA1Iy_2Y2g)  
+* Shenhe Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/rOXv6huqib8)  
+* Ayaka Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/ygUlWHykY3g)  
+* Kokomi E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/QHXYQwIKrd8)  
+
+1a:    
+
+* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [Youtube](https://youtu.be/ilBeQAzMvdA)  
+
+1b:    
+
+* Venti Q restarts at 0:09 [Youtube](https://www.youtube.com/watch?v=4qrBXRNzrXM)  
+* AMC Q and Guoba respawn [Youtube](https://youtu.be/W-uYRI6HpUQ)  
+
+1c:     
+
+* Inside Door [Youtube](https://youtu.be/5XIUsWJMewo)  
+* Outside Door (Credit to ShampooBrain\#9583) [Youtube](https://youtu.be/vBN7CEfjSm8)  
+
+1d:  
+
+* Guoba just stops shooting fire after going through the door a couple times [Youtube](https://youtu.be/zw9hyv39_IM)  
+
+1e:   
+
+* Ganyu A4 does not stack in multiple Ganyu Q's (Credit to Homura\#9806) [Youtube](https://youtu.be/lf_-JHBSgXM)  
+
+2:  
+
+* Coop partner loading in and out (Credit to Homura\#9806) [Youtube](https://youtu.be/rvNNOgK5IJU)  
+* Coop partner not loading in until you get close to the door (Credit to Homura\#9806) [Youtube](https://youtu.be/f6dYuQ4tiss)  
+ 
+3:
+
+* Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)  
+
+**Significance:**
+*VERY* fluff, unless mihoyo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though. 
+
 ## Electro Tanking
 
 **By:** Aevean Leeow\#1362  
