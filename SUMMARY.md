@@ -91,6 +91,7 @@
 * [Gadgets](equipment/gadgets/README.md)
   * [Omni-Ubiquity Net](equipment/gadgets/omni-ubiquity-net.md)
   * [Parametric Transformer](equipment/gadgets/parametric-transformer.md)
+  * [Bokosu Box](equipment/gadgets/bokuso-box.md)
 
 ## Combat Mechanics
 * [Damage](combat-mechanics/damage/README.md)
@@ -331,6 +332,7 @@
     * [Gadgets](evidence/equipment/gadgets/README.md)
       * [Omni-Ubiquity Net](evidence/equipment/gadgets/omni-ubiquity-net.md)
       * [Parametric Transformer](evidence/equipment/gadgets/parametric-transformer.md)
+      * [Bokosu Box](evidence/equipment/gadgets/bokuso-box.md)
     * [Weapons](evidence/equipment/weapons.md)
   * [Combat Mechanics](evidence/combat-mechanics/README.md)
     * [Damage](evidence/combat-mechanics/damage/README.md)
