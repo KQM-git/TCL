@@ -662,6 +662,28 @@ The overworld map is split into multiple zones that effect damage dealt by envir
 **Significance:**  
 Fluff and overworld documentation.
 
+### Constructs Take Zone Level Damage  
+**By:** Vladone ツ#9281  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938725868832972800/945085214860922880/transcript-constructs-take-zone-levels-damage.html)  
+**Finding:**  
+Some constructs take damage according to zone level.
+
+**Evidence:**  
+* Ganyu Skill: [Youtube](https://www.youtube.com/watch?v=k3PBhGeMmfA)  
+* Hilichurl Dummy: [Youtube](https://www.youtube.com/watch?v=JNhahh81-Ug)  
+* The Rock: [Youtube](https://www.youtube.com/watch?v=ATf_18Ttz-I)  
+* Amber Skill: [Youtube](https://www.youtube.com/watch?v=GJsUzZTp9No)  
+* Ningguang Skill: [Youtube](https://www.youtube.com/watch?v=wIEzZv17YWU)  
+* Itto Skill: [Youtube](https://www.youtube.com/watch?v=ZeEfNgrFVXE)  
+* Hilichurl Tower: [Youtube](https://www.youtube.com/watch?v=fYCk1VHNQZA)  
+* Hilichurl Target: [Youtube](https://www.youtube.com/watch?v=8FxN7gRs8-g)  
+* Hilichurl Hut: [Youtube](https://www.youtube.com/watch?v=aB8fHsT3gU8)  
+* Slime Pool: [Youtube](https://www.youtube.com/watch?v=gmgIcJlTI8o)   
+
+**Significance:**  
+Fluff and overworld documentation.  
+
 ### Bush Elemental Interaction
 
 **By:** deaf\#0246  
