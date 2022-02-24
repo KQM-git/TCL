@@ -158,3 +158,66 @@ The targeting point for targeted skills (which is everything except bow aim shot
 
 **Significance:**  
 Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge Attacks can potentially whiff on frozen enemies, resulting in a significant DPS loss. 
+
+## Miasmic Tumor  
+**By:** NZPIEFACE\#8439  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929743744322912316/945093554731102290/transcript-miasmic-tumour.html)   
+
+**Finding:**  
+A list of findings regarding the [Miasmic Tumor](../../../enemy-data/miscellaneous/miasmic-tumor.md#miasmic-tumor)
+
+Behaviour:
+- does laser attack at 75%, 50% and 25% hp thresholds.
+- summons ochimusa at 100%, 66% and 33% hp thresholds. becomes immortal again.
+- spams orbs every 6-7 seconds after it summons the first ochimusa. they deal close to no damage, but they do deal a bit of poise damage, though it takes 2 waves of full hits to even stagger. there is a max cap on the number of orbs. aiming is scuffed until you get close to it.
+
+Other Interactions:
+- disappears in multiplayer.
+- cant have marks or statuses.
+- can only have cryo and freeze aura. reactions with those work as normal.
+- cant lower resistance.
+- can switch party near it, even when being hit by the orbs.
+
+**Evidence:**  
+Playlist of all recordings: [Youtube](https://www.youtube.com/playlist?list=PLubNP2Z7jM8r68CvkaN8p33dvxTnCQO02)  
+Auras:  
+Cryo - Yes [Youtube](https://youtu.be/3Tslenj0ud4)  
+Electro - No [Youtube](https://youtu.be/cu99D1W9UEs)  
+Hydro - No [Youtube](https://youtu.be/0UstmWsWPdM)  
+Pyro - No [Youtube](https://youtu.be/P6rO8Myw8VU)  
+ 
+Reactions:  
+Melt - [Youtube](https://youtu.be/2c1trIXniYo)  
+Freeze - [Youtube](https://youtu.be/ma6wwKUbjeg)   
+Shatter - [Youtube](https://youtu.be/4AQVtXEc9So)  
+Superconduct - [Youtube](https://youtu.be/DoNMnGbbjw8)  
+Swirl - [Youtube](https://youtu.be/MsBpQEjGouk)  
+Crystallize - [Youtube](https://youtu.be/1W_aoGPThbQ)  
+ 
+Marks failing:  
+Hu Tao - [Youtube](https://youtu.be/jDJi9W-LifQ)  
+Qiqi - [Youtube](https://youtu.be/vI61dpw8NOw)  
+
+Statuses failing:  
+Tartaglia - [Youtube](https://youtu.be/L2MwDpEnwMo)  
+Mona - [Youtube](https://youtu.be/9yvDtYqFDic)  
+Xiangling - [Youtube](https://youtu.be/dTgPQvczfMA)  
+Lisa - [Youtube](https://youtu.be/Dkc5WH8VBp4)  
+
+Resistance shred failing:  
+Hu Tao Non-shred Damage - [Youtube](https://youtu.be/v06b6zFdPiE)  
+Shred Damage - [Youtube](https://youtu.be/HYFKQeJTQRY)  
+Diona and VV Test - [Youtube](https://youtu.be/X_8o9O82D2w)  
+
+Orbs:
+Damage - [Youtube](https://youtu.be/adRDUnxhV_g)  
+Interval - [Youtube](https://youtu.be/5qejYZM7TKs)  
+
+No Multiplayer: [Youtube](https://youtu.be/dWmbCw7KWfs)  
+
+Full Fight: [Youtube](https://youtu.be/7vTQOEpsx6I)  
+Shows HP thresholds for attacks.
+
+**Significance:**  
+Documentation of this bosses attacks and interactions.  
