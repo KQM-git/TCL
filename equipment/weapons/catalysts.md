@@ -512,7 +512,9 @@
 | Debut | When a character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. _Recitative_: ATK is increased by **60/75/90/105/120**%. _Aria_: Increases all Elemental DMG by **48/60/72/84/96**%. _Interlude_: Elemental Mastery is increased by **240/300/360/420/480**. |
 | Base ATK | 42 - 510 |
 | CRIT DMG% | 12% - 55.1% |
-{% endtab %}
+{% endtab %}  
+
+* The Passive remains active even when the character is swapped out.  
 
 {% tab title="Details" %}
 
@@ -663,7 +665,9 @@
 | Legacy | When switching characters, the new character taking the field has their ATK increased by **24/30/36/42/48**% for 10s. This effect can only occur once every 20s. |
 | Base ATK | 39 - 401 |
 | HP% | 7.7% - 35.2% |
-{% endtab %}
+{% endtab %}  
+
+* The Passive remains active even when the character is swapped out.  
 
 {% tab title="Details" %}
 

@@ -100,7 +100,7 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
 **Evidence:**
 * [Test 1](http://imgur.com/a/BdeWL3u%20): XQ using blackcliff without inactive buff
 * [Test 2](http://imgur.com/a/snOytCj%20): XQ using blackcliff with the active Buff
-* [Test 3](http://imgur.com/a/o26Nngc) : XQ using blackcliff killing enemies while in off field, does he still get the buff? 
+* [Test 3](http://imgur.com/a/o26Nngc): XQ using blackcliff killing enemies while in off field, does he still get the buff? 
   * No, he does not
 
 **Significance:**  
@@ -221,7 +221,7 @@ The sword is a rare case of actually working while off field. While Sacrificial 
 
 Further elaborating on @Pleinair's submission, Royal Longsword works exactly as written even when XQ is off field.
 
-More evidence from Pleinair: [https://youtu.be/CEcNjSHqHTE ](https://youtu.be/CEcNjSHqHTE)
+More evidence from Pleinair: [YouTube](https://youtu.be/CEcNjSHqHTE)
 
 **Significance:**  
 As with above conclusion, there might be a use case where Royal Longsword offers a higher DPS ceiling than sacrificial or becomes a valid F2P alternative if players can mitigate the recharge loss through substats or a hydro DPS.
@@ -240,7 +240,7 @@ This also raises the question of other royal weapon use cases with off screen DP
 **Finding:**  
 Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
 
-**Evidence:** [Youtube](https://youtu.be/rrrW7iYdU_I)
+**Evidence:** [YouTube](https://youtu.be/rrrW7iYdU_I)
 
 **Significance:**  
 The passive of royal weapons continues to stack even when a snapshotting skill deals damage over time. First, cast the skill at low crit, and have the character gain crit from royal weapon's passive while the skill maintains its low crit rate because it snapshots. This allows stacks to be gained without an increased chance of losing them. Which means, the increased crit rate can then be capitalized on by casting high damage abilities during that window of increased crit rate.
@@ -254,7 +254,9 @@ The passive of royal weapons continues to stack even when a snapshotting skill d
 **Finding:** AoE abilities do "snapshot" crit rate.
 
 **Evidence:**  
-[https://youtu.be/cUd-kFqAOSU](https://youtu.be/cUd-kFqAOSU) and [https://youtu.be/eJijOEJs4L0](https://youtu.be/eJijOEJs4L0) The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise crit rate up to >100%. Then use an AoE ability and counter the number of non-crits.
+* [Video 1](https://youtu.be/cUd-kFqAOSU)  
+* [Video 2](https://youtu.be/eJijOEJs4L0)  
+The tests were conducted as follows: gain 5 stacks of a Royal weapon, exit combat and then raise crit rate up to >100%. Then use an AoE ability and counter the number of non-crits.
 If crit didn't "snapshot" and instead was calculated one by one, then after the first crit the crit rate would drop to ~60% due to losing 5 stacks of a R1 Royal weapon and the 2nd instanse of damage would have a reasonable chance to not crit.
 In the above tests, not a single event of non-crit has been observed which allows us with a reasonable amount of confidence claim that AoE abilities do "snapshot" crit rate.
 
@@ -280,13 +282,13 @@ Stacks can be gained when the character equipped with the Royal weapon is off-fi
 
 **Evidence:**  
 1) Sucrose's quick N1-N2 gaining 1 stack instead of 2 and multiple evidence of an AoE ability gaining no more than 1 stack when it non-crits multiple times. 
-[https://youtu.be/PrXV4em0ssc](https://youtu.be/PrXV4em0ssc)  
+[YouTube video](https://youtu.be/PrXV4em0ssc)  
 2) After a single-target ability crits and causes a Swirl, the number of stacks is reset to 1 instead of 0 implying that damage from a Swirl is taken into account and is considered as non-crit. 
-[https://youtu.be/mTEGm35iLmI](https://youtu.be/mTEGm35iLmI)  
+[YouTube video](https://youtu.be/mTEGm35iLmI)  
 3) Superconduct and Swirl chain reactions 
-[https://youtu.be/hWfeeU6b9tM](https://youtu.be/hWfeeU6b9tM)  
+[YouTube video](https://youtu.be/hWfeeU6b9tM)  
 4) Overload and Electro-charged 
-[https://youtu.be/PrXV4em0ssc](https://youtu.be/PrXV4em0ssc)  
+[YouTube video](https://youtu.be/PrXV4em0ssc)  
 
 **Significance:**  
 Royal weapons have an increased efficiency in situations when the holder triggers Overload, Swirl or Superconduct due to the fact that they can potentially always have at least 1 stack.
@@ -504,7 +506,8 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 **By:** Sylfae\#1210  
 
-[100% ER](https://imgur.com/5qW7jew) [232% ER](https://imgur.com/6yVUgt7)
+* [100% ER](https://imgur.com/5qW7jew)  
+* [232% ER](https://imgur.com/6yVUgt7)  
 
 ---
 
@@ -514,7 +517,8 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 **By:** Vye\#9195  
 **Added:** 09/11/2021  
-[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html) [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
+[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html)  
+[Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
 
 **Finding:**  
 4ESF DMG% bonus works with the ER% from Engulfing Lightning's effect but does not snapshot.  
@@ -602,7 +606,7 @@ Bad uptime.
 Kitain Spear energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
 
 **Evidence**:  
-Frame count: [Youtube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
+Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
 
 Rosaria able to perform E->Q with Kitain Spear equipped.  
 [Imgur](https://imgur.com/a/tI2pbMO)
@@ -631,7 +635,7 @@ Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/
 Katsuragikiri Nagamasa energy drain do not happen immediately. There is about a 22-24 frame delay (can be longer depend on latency) from the moment your character elemental skill hit an enemy to when you character actually lose energy.
 
 **Evidence**:  
-Frame count: [Youtube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
+Frame count: [YouTube](https://www.youtube.com/watch?v=3esuFmKuwo0) (Frame count started at 2:05)
 
 Beidou using dash cancel to perform E -> Q with Nagamasa equipped. Still able to funnel energy.  
 [Imgur](https://imgur.com/a/1sEAzoa)
@@ -771,7 +775,10 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 **Finding:**  
 PJWS passive can be stacked from elemental skill and burst skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
 
-**Evidence:**  [Skill Stacking](https://www.youtube.com/watch?v=TJZL7fOpCFo), [Burst Stacking](https://www.youtube.com/watch?v=W9Pq9CsDg_Q), [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)
+**Evidence:**  
+* [Skill Stacking](https://www.youtube.com/watch?v=TJZL7fOpCFo)  
+* [Burst Stacking](https://www.youtube.com/watch?v=W9Pq9CsDg_Q)  
+* [Off-field non-stacking](https://www.youtube.com/watch?v=RuvFx74qMXk)  
 
 **Significance:**  
 Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier than initially assumed. Especially for certain units with a high hit rate elemental skill or burst skill like XL.
@@ -828,7 +835,7 @@ Gaining Prototype Starglitter stacks refreshes the duration of existing stacks
 
 **Evidence:**  
 CA damage on non crit before any skill uses is 181. First skill use at 30s, CA damage after first skill use with one stack on Prototype Starglitter is 196. Second skill use at 37s, CA damage after first skill use with two stacks is 210. CA damage is 210 again at 48s, after first stack would have expired if stacks were independent, and 181 again at 53s, after both stacks would have expired if gaining stacks refreshes the duration of existing stacks.  
-[https://www.youtube.com/watch?v=eL06QKuVaUU](https://www.youtube.com/watch?v=eL06QKuVaUU)
+[YouTube](https://www.youtube.com/watch?v=eL06QKuVaUU)
 
 **Significance:**  
 Affects stack uptime considerations for polearm users with skill cooldowns less than 12s as it can potentially allow them to keep full uptime on two stacks of Prototype Starglitter's passive.
@@ -979,7 +986,7 @@ The passive procs as intended similar to the other mentioned previously. However
 
 **Finding:** Yes, it can crit
 
-**Evidence:** [https://imgur.com/a/kWhXThT](https://imgur.com/a/kWhXThT)
+**Evidence:** [Imgur](https://imgur.com/a/kWhXThT)
 
 ---
 
@@ -1237,4 +1244,19 @@ It gained all the stacks once connection to the server was restored, meaning tha
 
 **Significance:**  
 This isn't an issue for anyone with a stable connection, if someone's connection to the servers are rather spotty, this can cause them to lose stacks they would otherwise have.  
-Freedom Sworn doesn't change behaviour.
+Freedom Sworn doesn't change behaviour.  
+
+### Widsith and TTDS Work Off-Field
+**By:** Charisma\#5567  
+**Added:** 02/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945479622408155166/transcript-widsith-and-ttds-work-off-field.html)    
+
+**Findings:**  
+The buff from the Passive of *The Widsith* and *Thrilling Tales of Dragon Slayers* remain active even after the character swaps out after obtaining the buff.  
+
+**Evidence:**  
+* [Video](https://www.youtube.com/watch?v=3xWzWmsyo_M): The ATK% buff that the Widsith gave Yae Miko remained after swapping.  
+* [Video](https://www.youtube.com/watch?v=bESRN3AtcfE): The ATK% buff that TTDS gave Kazuha remained after swapping.  
+
+**Significance:**  
+With this knowledge, characters are free to swap out and still retain Widsith/TTDS buff from off field, which can affect a lot of rotations.  
