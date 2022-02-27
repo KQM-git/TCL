@@ -97,6 +97,7 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 * During **Claw and Thunder** (Hold), any active **Sigils** will be absorbed by Razor granting him 5 energy for each sigil.
   * This energy is not affected by ER.
 * **Claw and Thunder** (Hold) causes a small self-knockback when used.
+* The **Electro Sigils** are not immediately consumed when dashing after Hold E.
 
 {% endtab %}
 

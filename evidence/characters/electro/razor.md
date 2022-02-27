@@ -14,6 +14,22 @@ search: false
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
 
+## Skill Mechanics
+
+### Razor Reverse Scam
+**By:** phaZZi\#6461  
+**Added:** 02/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945484288009314304/transcript-razor-reverse-scam.html)  
+
+**Finding:**  
+Razor's Electro Sigils are not immediatly consumed when using Hold E, whereas the energy gained from it is instant.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/TeDk5AEJS78)  
+In this clip Razor with 3 Sigils uses Hold E. Right after using the Hold E he immediatly gains Energy. After that Razor is swapped out and then swapped in again, while he still has 3 Sigils afterwards. Then Hold E is used another time and Razor is able to gain Energy from the Sigils again.  
+
+**Significance:**  
+This allows Razor to gain more energy by consuming the same sigils multiple times without losing the stack count.  
 
 ## Burst Mechanics
 
