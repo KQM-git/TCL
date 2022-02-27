@@ -151,8 +151,8 @@ Consider the following Electro-charged concepts:
 
 * If a strong electro or hydro aura is applied, each tick of electro-charged removes ~3s of duration.
 * If a weak electro or hydro aura is applied, each tick of electro-charged removes ~5s of duration
-* [Example](https://streamable.com/wvov07) of Strong Electro trigger into Strong Hydro aura
-* [Example](https://streamable.com/dplx8h) of Weak Electro trigger into Strong Hydro aura
+* [Example](https://youtu.be/JWeK6qtL26U) of Strong Electro trigger into Strong Hydro aura
+* [Example](https://youtu.be/v1xuYfczulQ) of Weak Electro trigger into Strong Hydro aura
 * [Example](https://youtu.be/IOtFJQAbDf4) of Strong Hydro trigger into Strong Electro aura
 * [Example](https://youtu.be/SbYlcbLflSI) of Strong Hydro trigger into Weak Electro aura
 
@@ -176,7 +176,7 @@ Consider the following Electro-charged concepts:
 * The reduction is based on the strength of the aura last applied to the enemy. 
 * For example, if you refill a strong hydro aura with a weak hydro aura, the next EC tick will consume 5s.
 * For example, if you refill a weak electro aura with a strong electro aura, the next EC tick will consume 3s
-* [Video](https://streamable.com/f1r5hs) evidence
+* [Video](https://youtu.be/tGVjO0gwzU0) evidence
 
 ### What if there is insufficient electro or hydro aura left to make it to the next tick?
 

@@ -17,7 +17,7 @@ search: false
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
 
-**Evidence:** [Video](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4)
+**Evidence:** [YouTube](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4)
 
 **Significance:** Dont hold E for its full duration under Xingqiu's rainsword, or you'll lose a rainsword instance.
 
@@ -29,7 +29,7 @@ search: false
 
 **Theory:** Bennett's Ult \(ATK buff\) refreshes every tick \(estimate around 1 second\). This means that the ATK buff may persist for awhile after swapping the character out, but will not stay throughout the duration.
 
-**Evidence:** [https://youtu.be/BFjMCysZBng](https://youtu.be/BFjMCysZBng)
+**Evidence:** [YouTube](https://youtu.be/BFjMCysZBng)
 
 Xingqiu's sword damage with no Bennett's Ult: 286 \(no crit\), 900 \(crit\)  
 Xingqiu's sword damage with Bennett's Ult: 500\(no crit\), 1576 \(crit\)
@@ -55,7 +55,11 @@ Bennett’s Q Buff and C6 Pyro DMG Bonus should apply on its own damage calculat
 **Evidence:**  
 Using a damage calculator, we estimate the damage dealt by Bennett's Q if the Q buff and Pyro DMG bonus from C6 is applied. We see that the value estimated is within the permissible error margins of this test and proves that his buffs do apply.
 
-Calculations: [https://imgur.com/vqoYUBH](https://imgur.com/vqoYUBH) Stats Page: [https://imgur.com/oIDUuZS](https://imgur.com/oIDUuZS) Talent Page: [https://imgur.com/WECL3SY](https://imgur.com/WECL3SY) Constellation: [https://imgur.com/riOzrVX](https://imgur.com/riOzrVX) Floor 7 Test: [https://imgur.com/Bm5VXpo](https://imgur.com/Bm5VXpo)
+* Calculations:[Imgur](https://imgur.com/vqoYUBH)
+* Stats Page: [Imgur](https://imgur.com/oIDUuZS)
+* Talent Page: [Imgur](https://imgur.com/WECL3SY)
+* Constellation: [Imgur](https://imgur.com/riOzrVX)
+* Floor 7 Test: [Imgur](https://imgur.com/Bm5VXpo)
 
 **Significance:**  
 For Bennett Main DPS, Bennett himself will buff his own Q.
@@ -67,7 +71,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 
 **Finding:** Bennett's attack buff prioritizes the burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
 
-**Evidence:** [https://youtu.be/ooYtsZhYUxc](https://youtu.be/ooYtsZhYUxc)
+**Evidence:** [YouTube](https://youtu.be/ooYtsZhYUxc)
 
 **Significance:** In the case of coop with multiple Bennetts, be sure to time your bursts so that the Bennett that applies the highest attack buff places their field first.
 
@@ -117,7 +121,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **Finding:** Bennet's C4 applies 1A of Pyro.
 
-**Evidence:** [https://www.youtube.com/watch?v=wKNDpnU\_ZGg](https://www.youtube.com/watch?v=wKNDpnU_ZGg)
+**Evidence:** [YouTube](https://www.youtube.com/watch?v=wKNDpnU_ZGg)
 
 ### C6: Fire Ventures with Me
 #### Gauge Units of C6 Infusion
@@ -125,17 +129,17 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **By:** Sayline\#5959
 
 **Finding:**  
-If C6 is enabled, auto-attacks infused with pyro have 1u worth of pyro application.  
-\*1u \(or 1 gauge unit\) is the Keqing Mains theorycrafting standard for elemental auras.  
-\*1u is about 9.5 seconds, and 2u is about 12 seconds. 4u auras exist, but only on Beidou.
+If C6 is enabled, auto-attacks infused with pyro have 1U worth of pyro application.  
+\*1U \(or 1 gauge unit\) is the Keqing Mains theorycrafting standard for elemental auras.  
+\*1U is about 9.5 seconds, and 2U is about 12 seconds. 4U auras exist, but only on Beidou.
 
 **Evidence:**
 
 with Bennett:  
-[https://youtu.be/9ZjSv\_XLhH4](https://youtu.be/9ZjSv_XLhH4)
+[YouTube](https://youtu.be/9ZjSv_XLhH4)
 
 with Zhongli:  
-[https://youtu.be/cQe9VQXUaPA](https://youtu.be/cQe9VQXUaPA)
+[YouTube](https://youtu.be/cQe9VQXUaPA)
 
 **Significance:**
 
@@ -151,7 +155,7 @@ We want to have an elemental trigger that has more GUs than our elemental aura, 
 C6 Bennett pyro infusion time when you step out of it is roughly 2 seconds.
 
 **Evidence:**  
-[https://youtu.be/cj3qkWH-KuA](https://youtu.be/cj3qkWH-KuA)
+[YouTube](https://youtu.be/cj3qkWH-KuA)
 
 **Significance:**  
 Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusion effect of roughly 2 seconds. Meaning that even if you are outside of it, you have that window to chase after an enemy and still have your weapon infused.
@@ -198,9 +202,9 @@ Bennett's 6th Constellation would appear to be a mistranslation, or otherwise no
 
 **Evidence:**
 
-Xingqiu’s Swords: [https://youtu.be/D05lPMvjd38](https://youtu.be/D05lPMvjd38) \(sacstanxiang\#7439\)
+Xingqiu’s Swords: [YouTube](https://youtu.be/D05lPMvjd38) \(sacstanxiang\#7439\)  
 
-Active Shield: [https://streamable.com/st9wwi](https://streamable.com/st9wwi) \(Novaa\#1006\)
+Active Shield: [YouTube](https://youtu.be/KvEAmbKxoD4) \(Novaa\#1006\)  
 
 **Significance:**
 

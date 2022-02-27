@@ -175,10 +175,8 @@ C6 Chongyun’s “Spirit Blade - Cloud-parting Star deals 15% more DMG to enemi
 
 **Evidence:**
 
-* Video with the enemy not having a lower percentage of his Max HP than Chongyun:
-  * [https://streamable.com/u9n1r4](https://streamable.com/u9n1r4) 
-* Video with the enemy having a lower percentage of his Max HP than Chongyun:
-  * [https://streamable.com/7hec30](https://streamable.com/7hec30)
+* Video with the enemy not having a lower percentage of his Max HP than Chongyun: [YouTube](https://youtu.be/4m_kOq4O_SA)  
+* Video with the enemy having a lower percentage of his Max HP than Chongyun: [YouTube](https://youtu.be/XauKRunGPG4)  
 
 \(1+0.15+0.223\)/\(1+0.223\) = 320/285 math by **Robin**  
 Testing was done with a Lv. 70 Chongyun & 22.3% Cryo DMG Goblet.

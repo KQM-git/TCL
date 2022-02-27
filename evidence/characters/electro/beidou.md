@@ -285,9 +285,9 @@ Everything you need to know about Serpent Spine and Beidou
 * Stormbreaker is SNAPSHOTTED, meaning casting it will "lock" your stats. Losing or gaining any stacks will NOT change your current Burst damage.
 
 **Evidence:**
-* [Notice how I start and end the parry with 5 stacks.](https://streamable.com/aq33mj)  
-* [3523 crit damage on and off-field.](https://streamable.com/3qsmmj)  
-* [1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks](https://streamable.com/f6836w)  
+* [Notice how I start and end the parry with 5 stacks.](https://youtu.be/-QwYFD1JHxY)  
+* [3523 crit damage on and off-field.](https://youtu.be/bQddXFFrJ7w)  
+* [1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks.](https://youtu.be/_LEe-0etqYU)  
 
 **Significance:**
 Good weapon. Works as well as you'd expect.
