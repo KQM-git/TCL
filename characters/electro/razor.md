@@ -164,6 +164,10 @@ Using **Lightning Fang** resets the CD of **Claw and Thunder**.
 ### **Hunger**
 
 When Razor's Energy is below 50%, increases Energy Recharge by 30%.
+
+**Notes**  
+* When ping is above 54ms, it does not work for some time after using the Elemental Burst.
+
 {% endtab %}
 {% endtabs %}
 
