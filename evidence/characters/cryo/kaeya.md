@@ -74,5 +74,21 @@ These data sheds light onto Glacial Waltz mechanics and how to maximize their bu
 
 **Significance:** With freeze comps, you can basically just E whenever you want and still get the additional particles without having to make sure Kaeya's the trigger
 
+#### Kaeya A4 vs Enemies That Can Not be Frozen  
+
+**By:** rot#5883  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945132041203224607/transcript-kaeya-a4-vs-enemies-that-cant-be-frozen.html)  
+
+**Finding:**  
+Kaeya’s A4 does not work on Boss and Trounce Domain enemies, works on Cryo Abyss Mage.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/jjqj4A6)
+Kaeya’s Elemental Skill generates 2-3 particles when hitting Boss and Trounce Domain enemies inflicted with Hydro and generates 4 particles when hitting a Cryo Abyss Mage inflicted with Hydro. Testings cannot be done on Thunder Manifestation and Stormterror, the former due to inherent Electro aura and the latter due to weird interactions with Hydro preventing Cryo from triggering the Frozen status.
+
+**Significance:**  
+Further understanding of particle generation.
+
 
 
