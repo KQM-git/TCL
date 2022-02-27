@@ -155,7 +155,7 @@ Details: [Google Doc](https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSj
 
 ### Tree Chopping Memory Mechanics
 
-The game can only remember the 10 most recently-struck trees at a time. After the 11th tree is hit, the 1st tree's state is wiped from the memory and can be harvested again. However, if a previously harvested tree is struck again **BEFORE** this, it will be moved back into the sequence as the most recently updated item. Partial harvests also count the same as full harvest or re-harvest.
+The game can only remember the 10 most recently-struck trees at a time. After the 11th tree is hit, the 1st tree's state is wiped from the memory and can be harvested again. However, if a previously harvested tree is struck again **BEFORE** this, it will be moved back into the sequence as the most recently updated item. Partial harvests also count the same as full harvest or re-harvest. Tree types that have been capped still contribute to the chopping memory, allowing for very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even if one of the types have been capped.
 
 ### Unholy Harvesting Methods
 

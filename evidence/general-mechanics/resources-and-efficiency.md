@@ -520,7 +520,7 @@ Summary of Results, most efficient units for tree chopping:
 * Rosaria
 * Xiao
 
-## Wood Daily Drop Limit
+### Wood Daily Drop Limit
 
 **By:** Creonalia\#2818  
 **Added:** 5/21/2021  
@@ -539,6 +539,24 @@ Summary of Results, most efficient units for tree chopping:
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 
 **Significance:** Useful for players to know if they're farming a massive amount of wood.
+
+### Capped Wood Types Register In Chopping Memory
+
+**By:** Homura\#9806 and mol\#3280  
+**Added:** 02/20/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945134145506517052/transcript-capped-wood-types-register-in-chopping-memory.html)  
+
+**Finding:**  
+Even after farming one tree type to the cap, it will still register in the 11 tree chopping memory.
+
+**Evidence:**  
+
+[Youtube](https://youtu.be/IQjXqPlfX5M)  
+
+In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.  
+
+**Significance:**  
+Since capped trees do register in memory, this allows for hybrid routes (such as the one in the video), especially very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even after you have farmed one wood type to completion. 
 
 ## Weekly BP Cap During Launch Week
 **By:** Mcpie#8672  
