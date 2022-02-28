@@ -32,6 +32,8 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 * Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
 * Razor's [Lightning Fang](../characters/electro/razor.md#attacks)
 * Thoma's [Crimson Ooyoroi](../characters/pyro/thoma.md#attacks)
+* Xinyan's [Sweeping Ferver](../characters/pyro/xinyan.md#attacks)
+* Xinyan's [Riff Revolution](../characters/pyro/xinyan.md#attacks)
 
 ## Evidence Vault
 

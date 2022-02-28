@@ -107,7 +107,7 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 | ICD | - | 3 hit / 2.5s | 
 | Damage Type | Burst | Burst |
 | Damage Element | Physical | Pyro |
-| Snapshot | Snapshot | Snapshot | 
+| Snapshot | Dynamic | Dynamic | 
 | Energy Cost | 60 | - |
 | Duration | - | 2s |
 | Cooldown | 15s | - | 
