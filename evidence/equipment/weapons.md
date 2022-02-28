@@ -149,7 +149,28 @@ Result : 134 attempts, 123 proc, 11 non-proc
 [Video 3](https://youtu.be/UyUWYnMFCCE) (65 attempts)
 
 **Significance:**  
-Favonius Weapons are more effective on character with large AOE abilities/against multiple targets 
+Favonius Weapons are more effective on character with large AOE abilities/against multiple targets  
+
+### Favonius Proc Calculator
+
+**By:** Mr. Pillow\#0065  
+**Added:** 02/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945472919440588800/transcript-fav-proc-calculator-thingy-lel.html) 
+
+**Theory:**  
+Favonius weapon passive activation probability plotter (Desmos graph).  
+
+**Evidence:**  
+The [graph](https://www.desmos.com/calculator/bkyxyzdkld) plots the probability of activating the Favonius weapons' Passive against the holder's CRIT rate, depending on the number of rotations, the number of hits per rotation and the refinement level of the weapon.  
+
+I will only summarize the derivation of the equation used, since the problem at hand is elementary. The assumption is that, after a hit, there are two possible ways to not activate the weapon's passive:  
+#1 Your attack deals CRIT damage but the passive doesn't activate, with the probability P1 = C × \(5-R\)/10 and  
+#2 Your attack doesn't deal CRIT damage, with the probability 1 - C,  
+
+where C and R are the CRIT Rate and Weapon Refinement Level, respectively. After h hits, there's then 2^h different ways to not activate the passive. However, most different ways haven't a unique probability of occurring. This makes it possible to simplify the total probability of not activating the passive to (P1 + P2)^h. This expression is then subtracted from 1 to give the probability of activating the passive, and this is raised to n to get the probability for n rotations. The inverse function is also included in the graph.  
+
+**Significance:**  
+Offers an easy way to visualize how the probability changes with the CRIT Rate. I initially made it to more easily come up with reasonable CRIT Rate assumptions for the [KQMC](https://docs.google.com/document/d/1_UpwP0VziHehZVwdsD74wYuWD9pdSAknNVzs30U4vFE/edit?usp=sharing).  
 
 ## Millennial Movement Series
 
