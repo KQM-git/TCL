@@ -43,7 +43,10 @@
 | Base ATK | 46 - 608 |
 | CRIT DMG% | 14.4% - 66.2% |
 
-* Stacks refresh on stack gain and act as one. 
+* Stacks refresh on stack gain and act as one.  
+* Stacks are gained upon initial input, not on hit.
+* Stacks are dynamic and can't be snapshotted.  
+* The Elemental Skill that triggers a stack is also affected by it.  
 
 {% endtab %}
 

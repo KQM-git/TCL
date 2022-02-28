@@ -588,32 +588,59 @@ Bad uptime.
 
 #### Kagura Stack Refresh
 
-**By:** ArchedNosi\#1484
-**Added:** 2/21/2022
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945241248996925440/transcript-kagura-duration-refresh.html)
+**By:** ArchedNosi\#1484  
+**Added:** 2/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945241248996925440/transcript-kagura-duration-refresh.html)  
 
-**Findings:** 
-- Kagura's Verity's Stacks' Durations Refresh and act as one
-- Gaining a Stack of Kagura Dance refreshes the total duration to the full 16s.
-- In tandem, if the 16s runs out, all stacks deplete.
-- Additionally, Stacks of Kagura Dance are gained and start their 16s timer at the moment an Elemental Skill is used/inputted, to Skills with a Hold Variant, the passive is gained at the initial start-up of whatever the Hold Skill may be.
+**Findings:**  
+* Kagura's Verity's Stacks' Durations Refresh and act as one
+* Gaining a Stack of Kagura Dance refreshes the total duration to the full 16s.
+* In tandem, if the 16s runs out, all stacks deplete.
+* Additionally, Stacks of Kagura Dance are gained and start their 16s timer at the moment an Elemental Skill is used/inputted, to Skills with a Hold Variant, the passive is gained at the initial start-up of whatever the Hold Skill may be.
 
-**Evidence:**
+**Evidence:**  
 [Youtube](https://youtu.be/EE_rWVNsGlo)
- - Press E, wait ~10s, Press E, wait ~9s, Press E, wait ~17s, Press E
- -- Press E #1 was increased by 1 Stack of Kagura Dance
- -- Press E #2 was increased by 2 Stacks of Kagura Dance
- -- Press E #3 was increased by 3 Stack of Kagura Dance (despite being longer than the initial 16s)
- -- Press E #4 was increased by 1 Stack of Kagura Dance (depleted, also the 16s timer runs out according to as if the buff gets applied upon input, which it does)
+ * Press E, wait ~10s, Press E, wait ~9s, Press E, wait ~17s, Press E  
+  * Press E #1 was increased by 1 Stack of Kagura Dance  
+  * Press E #2 was increased by 2 Stacks of Kagura Dance  
+  * Press E #3 was increased by 3 Stack of Kagura Dance (despite being longer than the initial 16s)  
+  * Press E #4 was increased by 1 Stack of Kagura Dance (depleted, also the 16s timer runs out according to as if the buff gets applied upon input, which it does)  
 
-[Imgur](https://imgur.com/a/nLxjpD7)
-- Calculated proof of the numbers shown in the clip.
+[Imgur](https://imgur.com/a/nLxjpD7)  
+* Calculated proof of the numbers shown in the clip.  
 
-**Significance:** 
-- Confirms that Kagura's Verity's Stacks are not independent and refresh each other. 
-- Similarly, fully depleting the 16s timer of any amount of Stacks erases the Stack count.
-- Additionally, Stacks of Kagura Dance are gained upon input, this applies to both Press and Hold variants to Elemental Skills. In particular for Hold Variants, the 16s timer begins when the Hold Skill is first casted/channeled. 
+**Significance:**  
+* Confirms that Kagura's Verity's Stacks are not independent and refresh each other.  
+* Similarly, fully depleting the 16s timer of any amount of Stacks erases the Stack count.  
+* Additionally, Stacks of Kagura Dance are gained upon input, this applies to both Press and Hold variants to Elemental Skills.   In particular for Hold Variants, the 16s timer begins when the Hold Skill is first casted/channeled.  
 
+#### Kagura Stacks Dynamic
+
+**By:** ArchedNosi\#1484  
+**Added:** 02/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945505748228665344/transcript-kagura-stacks-dynamic.html)  
+
+**Findings:**  
+* Kagura's Verity's Stacks' are Dynamic.  
+* Stacks of Kagura Dance are dynamic and are not snapshottable, this also implies if an Elemental Skill were to gain a Stack of Kagura Dance, it is also affected by the gained Stack.  
+* In addition, this applies to Hold Variants of Elemental Skills, whereby it is also affected by the Stack it were to gain since the Stacks are gained upon initial input.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/Z6cdIhC0lfM)  
+* Press E, wait ~8s, Press E, wait ~8s, Press E, wait 16s, Press E  
+ * Press E #1 was increased by 1 Stack of Kagura Dance (1 Stack, NOT 0)  
+ * Press E #2 was increased by 2 Stacks of Kagura Dance (2 Stacks, NOT 1)  
+ * Hold E #1 was increased by 3 Stack of Kagura Dance (3 Stacks, NOT 2)  
+
+The evidence above concludes that the Skill% buff is dynamic because Lisa’s Press Variant of her Elemental Skill snapshots.  
+Since the buff is yet still applied to Skills that produce it, it is conclusory that the weapon passive is, in fact, dynamic.  
+
+[Imgur](https://imgur.com/a/PPSwZ18)  
+* Calculated proof of the numbers shown in the clip.  
+
+**Significance:**  
+Kagura's Verity's Skill% is dynamic and cannot be snapshotted. What this also implies is that Elemental Skills that were to produce a Stack of Kagura Dance would also get it’s buff applied to itself. Which further leads to the conclusion that every Elemental Skill used, if Kagura’s Verity is equipped, will have at least 1 Stack of Kagura Dance applied.  
+The Skill% buff being dynamic also fits in line with other Skill% buffs which are also dynamic (Solar Pearl).  
 
 ### Kitain Cross Spear  
 
