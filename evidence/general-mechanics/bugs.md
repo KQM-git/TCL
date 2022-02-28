@@ -53,6 +53,21 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
 
+## Domains
+
+**By:** Puffin\#9920
+**Added:** 02/26/2022
+
+**Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
+
+**Evidence:** 
+1. [Youtube] (https://www.youtube.com/watch?v=J9vlL5l5MYw)
+2. [Youtube] (https://www.youtube.com/watch?v=H27u5YRshiE)
+
+[Discussion] (https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/947163566954393671/transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
+
+**Significance:** This behavior is not unique to Spiral Abyss and applies to all domains.
+
 ## Overworld
 
 ### Infinite Bushes

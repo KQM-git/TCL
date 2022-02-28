@@ -25,6 +25,10 @@ Opening the exit menu in the Abyss does not pause the timer. This results in a b
 
 There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not.
 
+## Domains
+
+Exiting or resetting a domain [will not reset a character's skill cooldown.] (https://github.com/PeonyPuffin/TCL/blob/Resetting-or-Leaving-a-Domain-Does-Not-Reset-Skill-CD/evidence/general-mechanics/bugs.md#domains)
+
 ## Miscellaneous
 
 * [Energy Particles don't stop moving even when you open a pause menu](../evidence/general-mechanics/bugs.md\#particles-move-while-game-is-paused), you can also absorb them while paused too. This works in every menu, most notably adventure book and wish menu, allowing it to be used in abyss.
