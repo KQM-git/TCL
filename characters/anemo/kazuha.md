@@ -159,7 +159,7 @@ If **Chihayaburu** comes into contact with Hydro/Pyro/Cryo/Electro when cast, **
 {% tab title="Ascension 4" %}
 ### **Poetics of Fuubutsu**
 
-Upon triggering a Swirl reaction, Kaedehara Kazuha will grant teammates a 0.04% Elemental DMG Bonus to their corresponding Element for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
+Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
 
 **Notes**
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
