@@ -123,11 +123,11 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 
 | String | Talent 9% | Frames | 60 resolve MV | MV/s (60 resolve) |
 | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 75.24% | 12 | 69.6% | 724.2%/s |
-| 2-Hit DMG | 73.93% | 32 | 69.6% | 540.7%/s |
-| 3-Hit DMG | 90.52% | 54 | 69.6% | 498.32%/s |
-| 4-Hit DMG | 51.95% + 52.1% | 95 | 69.6% x 2 | 436.89%/s |
-| 5-Hit DMG | 124.36% | 139 | 69.6% | 382.32%/s |
+| 1-Hit DMG | 75.24% | 12 | 73.8% | 745.2%/s |
+| 2-Hit DMG | 73.93% | 32 | 73.8% | 556.44%/s |
+| 3-Hit DMG | 90.52% | 54 | 73.8% | 512.32+%/s |
+| 4-Hit DMG | 51.95% + 52.1% | 95 | 73.8% x 2 | 450.15%/s |
+| 5-Hit DMG | 124.36% | 139 | 73.8% | 393.19%/s |
 | Recovery | -- | 215 | -- | -- |
 | Plunge DMG | 117.46% | -- | -- | -- |
 | Low/High Plunge DMG | 234.86% / 293.36% | -- | -- | -- |
