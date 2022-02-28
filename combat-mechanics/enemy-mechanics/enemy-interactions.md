@@ -40,6 +40,9 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
   * Tartaglia's melee charged attack also has the same issue, however it's because their charged attack pushes them back, making them unable to reach the hitbox.
 * Ruin Guards can jump over Geo Traveller's Wake of Earth walls, but cannot jump over Geo MC's Starfell Sword meteorites.
   * While Wake of Earth's walls cannot block the Ruin Guard, they can sometimes interfere with its jump, making it land farther away from the player than it normally would.
+* The missiles can be dodged by swapping:
+  *  When at least 25m (5 Abyss tiles) away from a Ruin Guard using its seeking-missile attack, a well-timed character swap during the 400+ ms targeting animation will remove missile target seeking. 
+  * Within 24m, Ruin Guards, Ruin Destroyers, and Ruin Defenders targeted attacks can be dodged with a well-timed character swap in the 16-64 ms targeting window.
 
 ## Primo Geovishap
 * The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
@@ -73,7 +76,7 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 * Corrosion stacks applied by a Rifthound or Rifthound Whelp deal 0.5% max HP damage per tick.
 
 ## De-Aggro Distances
-* Different types of enemies in the Overworld de-aggro at different ranges from their spawn, not at specific distances. These ranges take all 3 axes of the coordinate system into consideration.
+* Different types of enemies in the Overworld de-aggro at different ranges from their spawn, not at specific distances. These ranges take all 3 axes of the coordinate system into consideration.  
 
 ## Evidence Vault
 
