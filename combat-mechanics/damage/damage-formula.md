@@ -209,8 +209,11 @@ To calculate this damage, substitute the proc percentage \(e.g. 240% for Prototy
 
 ### Proc Damage Sources:
 * Characters
+  * Anemo Traveler's **Slitting Wind** \(A1\)
+  * Geo Traveler's **Frenzied Rockslide** \(A4\)
   * Xiangling's **Oil Meets Fire** \(C2\)
 * Bows
+  * Skyward Harp
   * The Viridescent Hunt
 * Catalysts
   * Eye of Perception
@@ -226,9 +229,10 @@ To calculate this damage, substitute the proc percentage \(e.g. 240% for Prototy
   * Skyward Blade
   * The Flute
 * Polearms
+  * Crescent Pike
   * Dragonspine Spear
   * Halberd
-  * Crescent Pike
+  * Skyward Spine
 
 ## Additional Notes
 
