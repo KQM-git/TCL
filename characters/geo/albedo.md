@@ -6,7 +6,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 ## **Resources**
 
-* [Albedo Mains Discord](https://discord.gg/JKkam3umnn)
+* [Albedo Mains Discord](https://discord.gg/uHV2ZCfPXU)
 * [Albedo Written Guide](https://keqingmains.com/albedo/)
 
 ## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
