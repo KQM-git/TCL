@@ -94,6 +94,24 @@ Shenhe does not have ICD.
 ### C2: Centered Spirit
 * The Cryo damage bonus from Shenhe's A1 and crit damage buff from her C2 linger a bit after her burst animation ends. - [Video](https://youtu.be/voXD6qaoEtA) - TWICE\#9958
 
+### C4: Insight
+
+#### Shenhe C4 Mechanics
+
+**By:** Zamo\#6399  
+**Added:** 02/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945502154737717259/transcript-shenhe-c4-mechanics.html)  
+
+**Finding:**  
+Shenhe E consumes a Quill, however the first E cast does not give the initial E a C4 stack and instead counts towards the next E; C4 stacks are gained after the damage has been dealt and not before.  
+
+**Evidence:**  
+* Press E: [YouTube video](https://youtu.be/GQ5_s1l5IrM?t=90)  
+* Hold E: [YouTube video](https://youtu.be/Y6Z2LXpEHpA?t=50)  
+
+**Significance:**  
+Better understanding of Shenhe's C4 mechanics.  
+
 ## Synergies/Interactions
 
 * Shenhe E applies A4 buff fast enough to buff Eula's Lightfall explosion via the "swap trick". - [Video](https://youtu.be/SiiOtS8mtMc) - TWICE\#9958

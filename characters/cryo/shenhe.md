@@ -199,7 +199,8 @@ Maximum upgrade level is 15.
 
 When characters under the effect of Icy Quill applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:  
 • When Shenhe uses **Spring Spirit Summoning**, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that **Spring Spirit Summoning** by 5% for each stack consumed.  
-• Max 50 stacks. Stacks last for 60s.
+• Max 50 stacks. Stacks last for 60s.  
+• Stacks are gained after the damage has been dealt .  
 {% endtab %}
 
 {% tab title="C5" %}
