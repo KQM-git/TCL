@@ -27,7 +27,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ## Domains
 
-Exiting or resetting a domain [will not reset a character's skill cooldown.] (https://github.com/PeonyPuffin/TCL/blob/Resetting-or-Leaving-a-Domain-Does-Not-Reset-Skill-CD/evidence/general-mechanics/bugs.md#domains)
+Exiting or resetting a domain [will not reset a character's skill cooldown.](../evidence/general-mechanics/bugs.md#domains)
 
 ## Miscellaneous
 
