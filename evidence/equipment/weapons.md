@@ -868,6 +868,34 @@ Sucrose equipped with R1 Prototype Amber - max HP 15082 (4% rounded down is 603 
 **Significance:**  
 Stacking HP on a Prototype Amber wielder will not increase its healing.
 
+#### Multiple Prototype Amber Heals Don't Stack
+
+**By:** Pana <3\#0992  
+**Added:** 03/01/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948232531155750952/transcript-multiple-prototype-amber-heals-dont-stack.html)  
+
+**Finding:**  
+When proccing 2 Prototype Amber Passives, the 2nd one overrides the HP regeneration effect of the 1st one.  
+
+**Evidence:**  
+In [this video](https://youtu.be/c-a_riDM3-Q), R3 Prototype Amber was equipped on Yae Miko, and R1 Prototype Amber was equipped on Lisa. Healing bonus stat, whether incoming or outgoing, was set to 0 for all 3 characters to not affect the results.  
+
+Diona's HP before any Prototype Amber Passive was triggered:  
+![](https://i.imgur.com/v03Tkyg.png)  
+
+Suppose Prototype Amber HP regeneration stacked, we would expect a total heal of 3 \* 5\% + 3 \* 4\% = 27\%.  
+
+Diona's HP after the HP regeneration from both Prototype Ambers:
+![](https://i.imgur.com/ZofHPGD.png)  
+
+From the evidence above: \(5140 - 50\) / 29942 = 16.9\%  
+The total heal rounds up to only 17\%. We can see in the video that PAmber heals totaled only 4 procs instead of 6 total, once after Yae's burst and thrice after Lisa's burst. This accounts for 1x5% Max HP regen from Yae and 3 \* 4\% Max HP regen from Lisa.  
+
+Thus the previous statement "Suppose Prototype Amber HP regeneration stacked, we would expect a total heal of 3 \* 5\% + 3 \* 4\% = 27\%" is false. Prototype Amber HP regeneration does NOT stack, and instead activating a 2nd one overrides the regen effect of the 1st one.  
+
+**Significance:**  
+It is not advisable to run Prototype Amber on 2 or more characters in each team, since the HP regeneration does not stack. If someone really wants to use multiple Prototype Ambers, it is better to space out the characters' Elemental Bursts once every 6s if they want to maximize healing.
+
 ---
 
 ### Prototype Starglitter
