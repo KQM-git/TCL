@@ -424,6 +424,7 @@
 | HP% | 9% - 41.3% |  
 
 * HP regeneration is based off the Max HP of the character being healed, not the max HP of the character equipped with **Prototype Amber** - [Reens#9389](../../evidence/equipment/weapons.md#prototype-amber-healing-clarification)
+* HP renegeration does not stack when multiple characters use Prototype Amber. The second one overrides the first one.
 {% endtab %}
 
 {% tab title="Details" %}
