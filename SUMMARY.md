@@ -201,6 +201,7 @@
       * [La Signora](enemy-data/bosses/weekly-bosses/signora/la-signora.md)
       * [Crimson Witch Of Flame](enemy-data/bosses/weekly-bosses/signora/crimson-witch-of-flame.md)
     * [Stormterror](enemy-data/bosses/weekly-bosses/stormterror.md)
+    * [The Shogun](enemy-data/bosses/weekly-bosses/the-shogun.md)
 * [Elementals](enemy-data/elementals/README.md)
   * [Specter](enemy-data/elementals/specter.md)
   * [Slime](enemy-data/elementals/slime.md)
