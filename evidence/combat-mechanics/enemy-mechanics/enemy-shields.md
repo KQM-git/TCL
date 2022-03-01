@@ -47,6 +47,56 @@ Fatui armor breaks mostly off elemental reactions and armor breaking effectivene
 * Hydro armor: ~10 electro-charged ticks
 * Electro armor: The equivalent of 2 strong cryo
 
+## Fatui Armor and Aura Interactions
+
+**By:** Rainfury\#8343  
+**Added:** 03/01/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948225177748131840/transcript-fatui-shields-and-aura-interaction.html)  
+
+**Finding:**  
+Some foreign auras can exist on certain Fatui when their armor is up. These auras can have funny interactions when trying to shieldbreak. Also doing some slightly more detailed testing with some armor.
+
+**Evidence:**  
+[YouTube video](https://youtu.be/1WlakadhKXg)  
+* Hydro on a cryo fatui armor.
+* Your pyro attacks will need to go through the hydro aura in order to damage the cryo armor.
+
+[YouTube video](https://youtu.be/OlUeCx5moqU)  
+* Proving not only river water can apply hydro on cryo fatui armor.
+* Melting a frozen hydro fatui armor doesn't seem to do any noticeable damage even when using 2U pyro 1U electro gets eaten up super quickly by the hydro fatui armor.
+* Pyro attacks seem to ignore the electro aura of an EC'd hydro fatui.
+
+[YouTube video](https://youtu.be/zP5ibMlvqys)  
+* More testing done for the above, proving that gauges matter.
+* 1U pyro onto 2U hydro seem to notbe able to damage the fatui armor at all.
+* 2U pyro on 1U hydro break more armor than 2U on 2U.
+
+[YouTube video](https://youtu.be/mP6Qy1BAuFQ)  
+* Trying to EC cryo armor.
+* Electro seem to just ignore the hydro aura when breaking the cryo armor.
+
+[YouTube video](https://youtu.be/gkAciCrS7_0)  
+* Trying to do testing with EC'd electro fatui armor (namely, pyro onto EC), but failed because the hydro seem to be eaten up instantly.
+* Finding out crystalize breaks geo fatui armor. Also a random test to show that geo fatui can no doubt be frozen when his armor is up.
+
+[YouTube video](https://youtu.be/kHlMVro_s-c)  
+* More testing with geo armor, however geo gauges were not tested.
+* 1U, 2U, and 4U of gauge when crystalized breaks different amount of geo fatui's armor.
+
+[YouTube video](https://youtu.be/6g5mCPkf7dQ)  
+* Geo gauge don't matter when using crystalize to break geo fatui armor?
+
+[YouTube video](https://youtu.be/EIxKGzu825Y) (clip by makeway4pK\#3901)  
+* Geo gauge without poise doesn't deal damage to geo armor.
+
+[YouTube video](https://youtu.be/p-jKlFXSn4w)  
+* Pillar pulse and gorou charged attacks don't do damage to the armor.
+* Crystalize damages the armor even if the attack is poiseless.
+* The gauge of the element on the enemy decays overtime, and after waiting for a while, the aura decays and becomes weaker, which affects the amount of damage the shield takes as well.
+
+**Significance:**  
+Better understanding of Fatui armor. Most of the findings are about Fatui armor being harder to break in certain situations, that certain situations don't affect shieldbreaking, while one just shows how weak and puny the geo armor actually is when faced with **ROCK**.  
+
 ## Geo Armor Breaking Efficiency’s Relation to "Stagger Strength" of the Attack
 
 By: Bobrokrot\#0111  
