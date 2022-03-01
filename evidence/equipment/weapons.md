@@ -791,6 +791,30 @@ You can gain said stack in a case where Normal Attacks cannot reach any enemies,
 
 ---
 
+### Oathsworn Eye
+
+#### Oathsworn Passive Mechanics
+**By:** Kurt\#5846  
+**Added:** 03/01/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948218052242206730/transcript-oathsworn-passive-mechanics.html)  
+
+**Findings:**  
+1. Oathsworn Eye passive does not stack
+2. Oathsworn Eye passive duration is refreshed every time the Elemental Skill is used
+3. Oathsworn Eye passive increases the Hydro% from Mona's A4
+4. Oathsworn Eye passive works from off-field
+
+**Evidence:**  
+* Stacking and duration refresh: [YouTube video](https://youtu.be/cE0I3xe-Pks)  
+* Mona A4: [Video 1 \(Imgur\)](https://imgur.com/Bjd55tK), [video 2 \(YouTube\)](https://youtu.be/0D8UTwVghI8)  
+* Off-field: [YouTube video](https://youtu.be/RaYargIkwp8)  
+
+
+**Significance:**  
+Accurate calculations and simulations with this weapon.  
+
+---
+
 ### Polar Star
 
 #### Polar Star ICD 

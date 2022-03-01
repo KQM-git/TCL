@@ -378,6 +378,40 @@
 {% endtab %}
 {% endtabs %}
 
+### Oathsworn Eye
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| People of the Faltering Light | Increases Energy Recharge by **24/30/36/42/48**% for 10s after using an Elemental Skill. |
+| Base ATK | 44 - 565 |
+| ATK% | 6\% - 27.6\% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | ATK% |
+| :--- | :--- | :--- |
+| 60 | 361 | 20.3 |
+| 60+ | 387 | 20.3 |
+| 65 | 408 | 21.5 |
+| 70 | 429 | 22.7 |
+| 70+ | 455 | 22.7 |
+| 75 | 476 | 23.9 |
+| 80 | 497 | 25.1 |
+| 80+ | 523 | 25.1 |
+| 85 | 544 | 26.4 |
+| 90 | 565 | 27.6 |
+* The Passive does not stack when casting the Elemental Skill multiple times within 10s, but the duration is refreshed.
+* Works off-field.
+* Increases Hydro% from [Mona A4](../../characters/hydro/mona.md#ascension-passives).
+
+{% endtab %}
+{% endtabs %}
+
 ### Prototype Amber
 
 {% tabs %}
