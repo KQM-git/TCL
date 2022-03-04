@@ -39,7 +39,7 @@ $$
 
 #### Different sources of interrupt resistance can stack
 
-You can stack Poisce and allow your characters to further avoid being staggered.
+You can stack Poise and allow your characters to further avoid being staggered.
 
 #### The number of teammates in co-op mode will increase poise or decrease vulnerability.
 
