@@ -8,6 +8,12 @@ search: false
 
 {% page-ref page="../../../characters/geo/zhongli.md" %}
 
+## Basic Mechanics
+
+* Elemental Skill gauges:
+  * [Press E](https://imgur.com/a/eTkLPB9): 2U
+  * [Hold E](https://imgur.com/a/8QO4f8V): 1U
+
 ## Skill Mechanics
 
 ### Construct Resonance Mechanics

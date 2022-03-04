@@ -98,7 +98,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Noelle    | - | - | 2U | - | On Cast: 1U <br />Infused Attacks: 1U | - |
 | Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | - |
 | Yunjin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
-| Zhongli | - | - | On Cast: 2U <br />Pulse: 1U | 1U | 4U | - |
+| Zhongli | - | - | 2U | On Cast: 1U<br />Pulse: 1U  | 4U | - |
 
 {% endtab %}
 {% endtabs %}
