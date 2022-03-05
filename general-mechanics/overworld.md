@@ -12,7 +12,7 @@
 ## Weird Blue Rocks
 
 ### Basic Mechanics and Known Locations
-* A known cousin of the rock, these 2 blue rocks can be found in Enkanomiya, can be burned away with pyro, do not respawn, and can asborb cryo.
+* A known cousin of the rock, these 2 blue rocks can be found in Enkanomiya, can be burned away with Pyro, do not respawn, and can absorb Cryo.
 * The current known locations for these rocks:
   * Inside small square building behind Vishap Research Lab (2 rocks) 
     *  [Map](https://imgur.com/a/WuQ1heh)   
