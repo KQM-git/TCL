@@ -119,7 +119,7 @@ When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% ch
 {% tab title="Ascension 1" %}
 ### **Catalyst Conversion**
 
-When Sucrose triggers a **Swirl** reaction, all characters in the part with the matching element, excluding Sucrose herself, gain 50 **Elemental Mastery** for 8s.
+When Sucrose triggers a **Swirl** reaction, all characters in the party with the matching element \(excluding Sucrose\) have their **Elemental Mastery** increased by 50 for 8s.
 
 **Notes**
 * This effect can be triggered even when Sucrose is not on the field.  
@@ -131,7 +131,7 @@ When Sucrose triggers a **Swirl** reaction, all characters in the part with the 
 {% tab title="Ascension 4" %}
 ### **Mollis Favonius**
 
-When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 75/ Type II** hits an opponent, increases all party member's \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
+When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isomer 75 / Type II** hits an opponent, increases all party members' \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
 
 * A4 snapshots Sucrose's **Elemental Mastery**.
 * A4 also always activates *after* **Instructor** 4pc set bonus within the same proc.
@@ -144,27 +144,32 @@ When **Astable Anemohypostasis Creation-6308** or **Forbidden Creation- Isomer 7
 
 {% tabs %}
 {% tab title="C1" %}
-### **Clustered Vaccum Field**
+### **Clustered Vacuum Field**
 
-**Astable Anemohypostasis Creation-6308** gains 1 additional charge.
+**Astable Anemohypostasis Creation - 6308** gains 1 additional charge.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Beth: Unbound Form**
 
-The duration of **Forbidden Creation- Isomer 75/ Type II** is increased by 2s.
+The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Flawless Alchemistress**
 
-Increase the level of **Astable Anemohypostasis Creation-6308** by 3.
+Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Alchemania**
 
-Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anemohypostasis Creation-6308** by 1-7s.
+Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.
+One hit may be counted every 0.1s.
 
 * This counter starts even when E isn't on CD
   * Swapping characters and/or death do not reset the counter
@@ -177,13 +182,15 @@ Every 7 Normal and Charged Attacks, Sucrose will reduce the CD of **Astable Anem
 {% tab title="C5" %}
 ### **Caution: Standard Flask**
 
-Increases the level of **Forbidden Creation-Isomer 75/Type II** by 3.
+Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Chaotic Entropy**
 
-If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, all part members gain a 20% Elemental DMG Bonus for the corresponding absorbed elemental during its duration.
+If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
 
 * This buff lasts for 10 seconds.
 * C6 effect can be triggered even when Sucrose is not on the field.
@@ -196,46 +203,54 @@ If **Forbidden Creation-Isomer 75/Type II** triggers an Elemental Absorption, al
 {% tab title="Wind Spirit Creation" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 46.85% | 50.2% | 53.54% | 56.89% | 60.24% | 63.58% |
-| 2-Hit DMG | 42.86% | 45.92% | 48.99% | 52.05% | 55.11% | 58.17% |
-| 3-Hit DMG | 53.83% | 57.67% | 61.52% | 65.36% | 69.21% | 73.05% |
-| 4-Hit DMG | 67.08% | 71.88% | 76.67% | 81.46% | 86.25% | 91.04% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 33.46% | 35.97% | 38.48% | 41.83% | 44.34% | 46.85% | 50.20% | 53.54% | 56.89% | 60.24% | 63.58% |
+| 2-Hit DMG | 30.62% | 32.91% | 35.21% | 38.27% | 40.57% | 42.86% | 45.92% | 48.99% | 52.05% | 55.11% | 58.17% |
+| 3-Hit DMG | 38.45% | 41.33% | 44.22% | 48.06% | 50.94% | 53.83% | 57.67% | 61.52% | 65.36% | 69.21% | 73.05% |
+| 4-Hit DMG | 47.92% | 51.51% | 55.11% | 59.90% | 63.49% | 67.08% | 71.88% | 76.67% | 81.46% | 86.25% | 91.04% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 168.22% | 180.24% | 192.26% | 204.27% | 216.29% | 228.3% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 120.16% | 129.17% | 138.18% | 150.20% | 159.21% | 168.22% | 180.24% | 192.26% | 204.27% | 216.29% | 228.30% |
 
 **Stamina Cost**: 50
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG% | 295.68% | 316.8% | 337.92% | 359.04% | 380.16% | 401.28% | 422.4% | 448.8% |
+{% tab title="Astable Anemohypostasis Creation - 6308" %}
 
-**Cooldown: 15s**
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 211.20% | 227.04% | 242.88% | 264.00% | 279.84% | 295.68% | 316.80% | 337.92% | 359.04% | 380.16% | 401.28% | 422.40% | 448.80% |
+
+**Cooldown**: 15s
+
 {% endtab %}
 
-{% tab title="Forbidden Creation- Isomer 75/Type II" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 207.2% | 222% | 236.8% | 251.6% | 266.4% | 281.2% | 296% | 314.5% |
-| Additional Elemental DMG | 61.6% | 66% | 70.4% | 74.8% | 79.2% | 83.6% | 88% | 93.5% |
+{% tab title="Forbidden Creation - Isomer 75 / Type II" %}
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DoT | 148.0% | 159.1% | 170.2% | 185.0% | 196.1% | 207.2% | 222.0% | 236.8% | 251.6% | 266.4% | 281.2% | 296.0% | 314.5% |
+| Additional Elemental DMG | 44.0% | 47.3% | 50.6% | 55.0% | 58.3% | 61.6% | 66.0% | 70.4% | 74.8% | 79.2% | 83.6% | 88.0% | 93.5% |
+
+**Duration**: 6.0s  
+**CD**: 20.0s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
-
 ## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/sucrose.md" %}

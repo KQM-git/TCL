@@ -129,8 +129,7 @@ This can only occur once per use.
 ### **Windrider**
 
 Decreases gliding Stamina consumption for your own party members by 20%.
-
-* Not stackable with Passive Talents that provide the exact same effects.
+Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -143,8 +142,7 @@ Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.
 ### **Stormeye**
 
 Regenerates 15 Energy for Venti after the effects of **Wind's Grand Ode** end.
-
-If an **Elemental Absorption** occurred, this also regenerates 15 Energy for all characters of that corresponding element in the party.
+If an **Elemental Absorption** occurred, this also restores 15 Energy to all characters of that corresponding element in the party.
 {% endtab %}
 {% endtabs %}
 
@@ -154,7 +152,7 @@ If an **Elemental Absorption** occurred, this also regenerates 15 Energy for all
 {% tab title="C1" %}
 ### **Splitting Gales**
 
-Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow's DMG.
+Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG.
 
 * Venti’s C1 damage instance is considered CA damage.
 {% endtab %}
@@ -162,33 +160,39 @@ Fires 2 additional arrows per Aimed Shot, each dealing 33% of the original arrow
 {% tab title="C2" %}
 ### **Breeze of Reminiscence**
 
-**Skyward Sonnet** decreases opponents' Anemo RES and Physical RES by 12% for 10s.
+**Skyward Sonnet** decreases opponents' **Anemo RES** and Physical RES by 12% for 10s.
 
-Opponents launched by **Skyward Sonnet** suffer an additional 12% Anemo RES and Physical RES decrease while airborne.
+Opponents launched by **Skyward Sonnet** suffer an additional 12% **Anemo RES** and Physical RES decrease while airborne.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Ode to Thousand Winds**
 
 Increases the Level of **Wind's Grand Ode** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Hurricane of Freedom**
 
-When Venti picks up an Elemental Orb or Particle, he receives a 25% Anemo DMG Bonus for 10s.
+When Venti picks up an Elemental Orb or Particle, he receives a 25% **Anemo DMG Bonus** for 10s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Concerto dal Cielo**
 
 Increases the Level of **Skyward Sonnet** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Storm of Defiance**
 
-Targets who take DMG from **Wind's Grand Ode** have their Anemo RES decreased by 20%.
+Targets who take DMG from **Wind's Grand Ode** have their **Anemo RES** decreased by 20%.
 
 If an **Elemental Absorption** occurred, then their RES towards the corresponding Element is also decreased by 20%.
 
@@ -203,53 +207,57 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 {% tab title="Divine Marksmanship" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG \(x2\) | 29.63% | 32.23% | 34.84% | 37.45% | 40.29% | 43.55% |
-| 2-Hit DMG | 64.50% | 70.18% | 75.85% | 81.53% | 87.72% | 94.82% |
-| 3-Hit DMG | 76.13% | 82.82% | 89.52% | 96.22% | 103.53% | 111.90% |
-| 4-Hit DMG \(x2\) | 37.87% | 41.21% | 44.54% | 47.87% | 51.51% | 55.68% |
-| 5-Hit DMG | 73.63% | 80.10% | 86.58% | 93.06% | 100.13% | 108.23% |
-| 6-Hit DMG | 103.13% | 112.20% | 121.28% | 130.35% | 140.25% | 151.59% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG \(x2\) | 20.38% | 22.04% | 23.70% | 26.07% | 27.73% | 29.62% | 32.23% | 34.84% | 37.45% | 40.29% | 43.55% |
+| 2-Hit DMG | 44.38% | 47.99% | 51.60% | 56.76% | 60.37% | 64.50% | 70.18% | 75.85% | 81.53% | 87.72% | 94.81% |
+| 3-Hit DMG | 52.37% | 56.64% | 60.90% | 66.99% | 71.25% | 76.13% | 82.82% | 89.52% | 96.22% | 103.53% | 111.90% |
+| 4-Hit DMG \(x2\) | 26.06% | 28.18% | 30.30% | 33.33% | 35.45% | 37.87% | 41.21% | 44.54% | 47.87% | 51.51% | 55.68% |
+| 5-Hit DMG | 50.65% | 54.78% | 58.90% | 64.79% | 68.91% | 73.62% | 80.10% | 86.58% | 93.06% | 100.13% | 108.23% |
+| 6-Hit DMG | 70.95% | 76.73% | 82.50% | 90.75% | 96.53% | 103.13% | 112.20% | 121.27% | 130.35% | 140.25% | 151.59% |
 
 ### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
-| Fully-Charged Aimed Shot | 173.60% | 186% | 198.40% | 210.80% | 223.20% | 236.10% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
+| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 236.10% |
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 386.40% | 414% | 441.60% | 469.20% | 496.80% | 524.40% | 552% | 586.50% |
-| Hold DMG | 532% | 570% | 608% | 646% | 684% | 722% | 760% | 807.50% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 276.0% | 296.7% | 317.4% | 345.0% | 365.7% | 386.4% | 414.0% | 441.6% | 469.2% | 496.8% | 524.4% | 552.0% | 586.5% |
+| Hold DMG | 380.0% | 408.5% | 437.0% | 475.0% | 503.5% | 532.0% | 570.0% | 608.0% | 646.0% | 684.0% | 722.0% | 760.0% | 807.5% |
 
 **Press Cooldown**: 6s  
 **Hold Cooldown**: 15s
+
 {% endtab %}
 
-{% tab title="Wind\'s Grand Ode" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 52.64% | 56.40% | 60.16% | 63.92% | 67.68% | 71.44% | 75.20% | 79.90% |
-| Additional Elemental DMG | 26.32% | 28.20% | 30.08% | 31.96% | 33.84% | 35.72% | 37.60% | 39.95% |
+{% tab title="Wind's Grand Ode" %}
 
-**Energy Cost**: 60  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DoT | 37.60% | 40.42% | 43.24% | 47.00% | 49.82% | 52.64% | 56.40% | 60.16% | 63.92% | 67.68% | 71.44% | 75.20% | 79.90% |
+| Additional Elemental DMG | 18.80% | 20.21% | 21.62% | 23.50% | 24.91% | 26.32% | 28.20% | 30.08% | 31.96% | 33.84% | 35.72% | 37.60% | 39.95% |
+
 **Duration**: 8s  
-**Cooldown**: 15s
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
-
 ## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/venti.md" %}
