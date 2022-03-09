@@ -43,6 +43,7 @@
 | ER% | 12% - 55.1% |
 
 * Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../evidence/equipment/weapons.md#millennial-movement-stack-mechanics)
+* Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies) 
 {% endtab %}
 
 {% tab title="Details" %}
