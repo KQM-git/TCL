@@ -174,7 +174,7 @@ Offers an easy way to visualize how the probability changes with the CRIT Rate. 
 
 ## Millennial Movement Series
 
-### Millennial Movement stack mechanics
+### Millennial Movement Stack Mechanics
 
 **By:** rakka\#0099  
 **Added:** 5/22/2021  
@@ -192,6 +192,41 @@ Different weapons with the Millennial Movement effect can stack, however effects
 **Significance:**  
 Millennial Movement passives can stack, however if a buff type overlaps \(ATK, movement speed, EM, etc....\) then the last effects will override the previous effects while leaving the non-overlap effects alone.  
 This means that mismatched refinements with overlapping effects can affect the complexity of when Millennial buffs need to proc, so either an Elegy and Pines on the same team should both be R1, R2, etc or it means that the player has to be aware of the order of operations for their swap comps.
+
+### Elegy Stack Inconsistencies
+
+**By:** Wüolf\#3334  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951178898090127420/transcript-elegy-stack-inconsistencies.html)  
+
+**Findings:**  
+On-field stack gain is consistent across all FPS with damage ticks excluding Amber due to her multiple damage ticks/0.2s and sometimes Sara’s Burst where the different pairs of thunderbolts appear at different times.  
+
+Off-field stack gain:
+* Amber: We count stacks gained by the end of the Burst. At 30 FPS she can get 2-3 Elegy stacks, at 60 FPS she could consistently gain 4 stacks by the end of her Burst. Note for some people at lower pings there seems to be inconsistencies at 60 FPS.
+* Venti:
+  * Q only: At 30 FPS it will take 7 damage ticks consistently to proc elegy across all pings from our testing. At 60 FPS Venti can proc the Elegy buff at 4 damage ticks, however for some people it isn’t consistent, Venti will proc Elegy at around 4-6 DMG ticks and very rarely 7.
+  * E-Q : Using Vye’s consistent videos. At 30fps it takes 4 Q damage ticks after E to get 4 stacks. At 60fps it takes 3 Q damage ticks to get 4 stacks.
+* Sara: 
+After the initial hit the 2 sets of lightning bolts can spawn at different times. Counting the damage ticks and stack count of 1 set of lightning bolts after the initial hit to make it less confusing. At 3 bolt damage ticks she could get 2 more stacks (total 3 stacks) and she could also get 1 more stack(total 2 stacks). At 60 FPS there are similar results inconsistently getting 2 or 3 stacks at 3 damage ticks.
+
+**Evidence:**  
+Amber:  
+* 30 FPS: [Video](https://youtu.be/nnSRxEZccI4)
+* 60 FPS: [Video 1](https://youtu.be/hQJjcKFU690), [Video 2](https://youtu.be/1FM8_9XjhXg), [Video 3](https://www.youtube.com/watch?v=jT8K_A4QKPY)
+
+Venti:  
+* 30 FPS \(Q\): [Video 1](https://www.youtube.com/watch?v=WxkiG_F5P3A), [Video 2](https://www.youtube.com/watch?v=1zYtpGwKSeI) 
+* 30 FPS \(E+Q\): [Video](https://www.youtube.com/watch?v=QM9bnO-KMdA)
+* 60 FPS \(Q\): [Video 1](https://www.youtube.com/watch?v=1zYtpGwKSeI), [Video 2](https://www.youtube.com/watch?v=KEwmJkjaME8), [Video 3](https://youtu.be/65zeERU-uXs)
+* 60 FPS \(E+Q\): [Video](https://www.youtube.com/watch?v=Ms9aIDiKjKA)
+
+Sara:  
+* 30 FPS: [Video](https://youtu.be/eMUQpp1XQBg)
+* 60 FPS: [Video](https://youtu.be/6Y81kua7Vmc)
+
+**Significance:**  
+Server sided registration on Elegy stack gain means that unstable ping can lead to different amount of damage ticks to proc 4 stacks. The longer time required to gain 4 stacks (if possible) needs to be taken into account for rotations with heavy and fast quick-swapping, to counteract the long time, Amber should stay on the field for 1 second or use E after using her Q before switching to 4pc VV supports in Hu Tao teams. Venti should always E+Q as it brings the time to gain 4 stacks down massively. Sara should use her C2 and Charged Attacks before using her Q to make sure she can guarantee the 4 Elegy stacks before switching to other characters.  
 
 ## Royal Weapon Series
 
