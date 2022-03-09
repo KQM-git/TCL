@@ -13,6 +13,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * All enemy stats  
 * Energy particles and character energy  
 * Stamina  
+* Weapon stacks
 
 ## High Ping Interactions 
 * Elemental Reactions still work, including the Resistance Shred from Superconduct.  
