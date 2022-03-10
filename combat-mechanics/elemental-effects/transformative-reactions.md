@@ -37,21 +37,21 @@ Transformative reactions cannot crit and scale only on Elemental Mastery and cha
 
 Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 
-## **Overload**
+## Overload
 
-Overload is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
+Overload, also known as Overloaded, is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
 
 * You can trigger Overload on electrocuted bodies of water.
 
 Overload has a reaction specific ICD of 0.5 sec where enemies overloaded or hit by the aoe caused by an overload procced by one character are then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer gauge reduction and stagger, even without taking damage.
 
-## **Superconduct**
+## Superconduct
 
-Superconduct is an elemental reaction triggered by applying Electro on a target already afflicted by a Cryo aura or vice versa. Superconduct **reduces an enemy's physical damage resistance by 40% by 12 seconds**. Triggering Superconduct in an AoE will result in two instances of Superconduct DMG on each enemy. It has an ICD of 0.5s, where the same enemy will take no more than 2 instances of Superconduct DMG within 0.5s.  
+Superconduct is an elemental reaction triggered by applying Electro on a target already afflicted by a Cryo aura or vice versa, dealing Cryo damage. Superconduct **reduces an enemy's physical damage resistance by 40% by 12 seconds**. Triggering Superconduct in an AoE will result in two instances of Superconduct DMG on each enemy. It has an ICD of 0.5s, where the same enemy will take no more than 2 instances of Superconduct DMG within 0.5s.  
 
 ## Electro-Charged
 
-Electro-Charged is a special Transformative reaction that breaks the normal convention of “one elemental aura on an enemy at a time." When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#electrocharged)
+Electro-Charged is a special Transformative reaction that deals Electro damage and breaks the normal convention of “one elemental aura on an enemy at a time". When an enemy is Electro-Charged, both the Hydro and Electro aura lies underneath the Electro-Charged status. It follows that when applying a third element, like Pyro, you can trigger **both** Vaporize and Overload in the same damage instance. Electro-Charged continues to tick every second until there is 0.5 seconds worth of Electro and Hydro aura remaining. For a more detailed description of Electro-Charged, refer to the [Evidence Vault.](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#electrocharged)
 
 * Electro-Charged duration can be extended by hitlag, presumably by extending the aura duration.
   * With an excessive amount of Hydro application and a lot of hitlag, 4 Electro-Charged procs are possible with only one application of Electro.
@@ -74,7 +74,7 @@ Electro-Charged is a special Transformative reaction that breaks the normal conv
 
 Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter on Frozen targets before any Elemental damage is dealt, preventing you from Melting or Vaporizing.
 
-Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot#0111.
+Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot\#0111.
 
 In some situations, Shattering a Frozen enemy removes less than the normal 8GU. This allows multiple Shatters to occur on a single Frozen, or Shatter + Melt at the same time.
 * This appears to be a bug and not a consistent reaction.

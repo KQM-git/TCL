@@ -704,9 +704,9 @@
 | Legacy | When switching characters, the new character taking the field has their ATK increased by **24/30/36/42/48**% for 10s. This effect can only occur once every 20s. |
 | Base ATK | 39 - 401 |
 | HP% | 7.7% - 35.2% |
-{% endtab %}  
 
 * The Passive remains active even when the character is swapped out.  
+{% endtab %}  
 
 {% tab title="Details" %}
 
