@@ -119,6 +119,22 @@ Diona is perfectly viable for SC uptime even without Sacrificial Bow when using 
 
 In addition, like other debuffs/buffs as has been recently discovered, it is affected by hitlag extending the duration, further closing the gap for her Hold E cooldown.
 
+### Superconduct Mechanic Update
+
+**By:** tamamo\#4303  
+**Added:** 03/03/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949127514167582770/transcript-superconduct-mechanic-update.html)  
+
+**Finding:**  
+Superconduct has a reaction specific ICD of 0.5s, where enemies will only take a maximum of 2 instances of Superconduct damage triggered by one character. They still suffer gauge reduction and stagger from further Superconduct triggered by the same character within that 0.5s, even without taking Superconduct damage.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/DRabMLTOgrw)  
+In the first clip Ayaka triggers and deals Superconduct DMG with both her Dash and N1 on ruin guard, which resulted in 2 instances of Superconduct DMG. In the second clip, Ayaka triggers Superconduct with her Dash in AoE, dealing 2 instances of Superconduct DMG on each Hilichurl, her following N1 triggers another instances of Superconduct on the 2 Hilichurls to the right, staggers and reduces the Electro gauge on them but does not deal any Superconduct DMG.  
+
+**Significance:**  
+Better understanding of Superconduct reaction.  
+
 ## Electrocharged
 
 **By:** Doug\#8888, Zephan\#9493, HailCorporate\#2970, and ayynish\#5408
