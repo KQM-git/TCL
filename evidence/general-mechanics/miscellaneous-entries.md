@@ -568,3 +568,18 @@ The plunge took place at an arbitrary height I thought to be extremely high afte
 
 **Significance:**  
 Plunging provides a speedier way of getting down from a high place without dying as long as you have enough HP.
+
+## Bokuso Box Crit Rate and Damage Scale off of Character Stats
+
+**By:** melon\#9323  
+**Added:** 03/03/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949479240284401744/transcript-bokuso-box-crit-scales-off-character.html)  
+
+**Finding:**  
+Bokuso Box Crit Rate and damage scale off of character stats.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/SOz8PC2UiDU)  
+
+**Significance:**  
+Affects Favonius passive procs and if you want to kill enemies with the box.  
