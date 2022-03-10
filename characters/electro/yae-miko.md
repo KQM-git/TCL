@@ -28,18 +28,22 @@ Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Elect
 
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.42% | - | - |
-| 2-Hit | 65.48% | - | - |
-| 3-Hit | 96.71% | - | - |
-| Recovery | - | - | - |
+| 1-Hit | 64.42% | 22 | 175.69% |
+| 2-Hit | 65.48% | 46 | 163.70% |
+| 3-Hit | 96.71% | 90 | 131.88% |
+| Recovery | - | 127 | - |
 
+* 3 hit/2.5s ICD.
 
 **Charged Attack**  
  Consumes 50 Stamina to deal AoE Electro DMG after a short casting time.
 
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| CHarged Attack DMG | 242.92% | - | - |
+| CHarged Attack DMG | 242.92% | 87 | 167.53% |
+
+* No ICD.
+* Can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
 
 **Plunge**  
 Plunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground.
@@ -69,15 +73,21 @@ A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of
 | Skill DMG Level 2 \(T9%\) | 128.93% |
 | Skill DMG Level 3 \(T9%\) | 161.16% |
 | Skill DMG Level 4 \(T9%\) | 	201.45% |
-| Particles | - | 
-| Frames | - |
-| GU | -|
-| ICD | - | 
-| Snapshot | - | 
+| Particles | 1 \(-\) | 
+| Frames | 34 |
+| GU | 1A |
+| ICD | 3 hit / 2.5s | 
+| Snapshot | Dynamic | 
 | Damage Element | Electro | 
 | Damage Type | Skill |
 | Duration | 14 |
 | CD | 4 | 
+
+* Each Sesshou Sakura hits up to 5 times, generating 1 particle on each hit and none on cast.
+* When casting E three times in a straight line only the one in the middle will be level 3.
+* It has a small AoE.
+* The dash does not have i-frames.
+* The Sesshou Sakura will always be placed in front of Yae Miko as she dashes back, unless a directional key is held down, in which case she will dash towards said direction.
 
 {% endtab %}
 
@@ -90,14 +100,18 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 | :--- | :--- |
 | Skill DMG \(T9%\) | 442% |
 | Tenko Thunderbolt DMG \(T9%\) | 567.49% |
-| Frames | - |
-| GU | -|
-| ICD | - | 
-| Snapshot | - | 
+| Frames | 111 |
+| GU | 1A |
+| ICD | None | 
+| Snapshot | Dynamic | 
 | Damage Element | Electro | 
 | Damage Type | Burst |
 | Energy Cost | 90 |
 | CD | 22 | 
+
+* It is completely stationary and targets the enemies at the end of the animation, regardless of where the Sesshou Sakuras are.
+* Elemental Particles and Orbs can be pre-funneled.
+* The Sesshou Sakuras are unsealed instantly when casting the Burst.
 
 {% endtab %}
 {% endtabs %}
@@ -122,6 +136,9 @@ When casting **Great Secret Art: Tenko Kenshin**, each **Sesshou Sakura** destro
 ### **Enlightened Blessing**
 
 Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.
+
+**Notes:**
+* Elemental Mastery from other characters such as Kazuha C2, Sucrose A4, or Diona C6 increases the DMG of Sesshou Sakura.
 {% endtab %}
 {% endtabs %}
 
@@ -131,7 +148,10 @@ Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Saku
 {% tab title="C1" %}
 ### **Yakan Offering**
 
-Each time G**reat Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
+Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
+
+**Notes:**  
+* The Burst does not need to hit an enemy in order for the Energy to be restored.
 {% endtab %}
 
 {% tab title="C2" %}
