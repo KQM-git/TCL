@@ -149,7 +149,7 @@ When Lisa crafts a potion, she has a 20% chance to refund a portion of the craft
 {% tab title="Ascension 1" %}
 ### **Induced Aftershock**
 
-Hit by Charged Attacks apply **Violet Arc’s** **Conductive** status to opponents.
+Hits by Charged Attacks apply **Violet Arc**'s **Conductive** status to opponents.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -176,40 +176,45 @@ A maximum of 10 Energy can be regenerated in this manner at any one time.
 {% tab title="C2" %}
 ### **Electromagnetic Field**
 
-Holding **Violet Arc** has the following effects:  
-• Increases DEF by 25%.  
-• Increases Lisa's resistance to interruption.
+Holding **Violet Arc** has the following effects:
+* Increases DEF by 25%.
+* Increases Lisa's resistance to interruption.
 
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Resonant Thunder**
 
-Increases the Level of **Lightning Rose** by 3.  
+Increases the Level of **Lightning Rose** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Plasma Eruption**
 
-Increases the number of lightning bolts released by **Lightning Rose** by 1-3.  
+Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 
 * The description is misleading. **Plasma Eruption** changes the number of lightning bolts to 1-3, not 2-4 as implied by the wording.  
   * For more details, see the [full entry](../../evidence/characters/electro/lisa.md\#c4-description-and-actual-effects-are-miscommunicated) in Lisa's Evidence Vault.  
 * In tight enemy groups, **Plasma Eruption** can quadratically increase the damage of **Lightning Rose** due to the AoE of each lightning bolt released.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Electrocute**
 
-Increases the Level of **Violet Arc** by 3.  
+Increases the Level of **Violet Arc** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Pulsating Witch**
 
-When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive** status onto nearby opponents. This effect can only occur once every 5s.
+When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive** status onto nearby opponents.
+This effect can only occur once every 5s.
+
 {% endtab %}
 {% endtabs %}
 
@@ -219,52 +224,56 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc’s Conductive**
 {% tab title="Lightning Touch" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 55.44% | 59.4% | 63.36% | 67.32% | 71.28% | 75.4% |
-| 2-Hit DMG | 50.29% | 53.88% | 57.47% | 61.06% | 64.66% | 68.39% |
-| 3-Hit DMG | 59.92% | 64.2% | 68.48% | 72.76% | 77.04% | 81.49% |
-| 4-Hit DMG | 76.94% | 82.44% | 87.94% | 93.43% | 98.93 | 104.64% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 39.60% | 42.57% | 45.54% | 49.50% | 52.47% | 55.44% | 59.40% | 63.36% | 67.32% | 71.28% | 75.40% |
+| 2-Hit DMG | 35.92% | 38.61% | 41.31% | 44.90% | 47.59% | 50.29% | 53.88% | 57.47% | 61.06% | 64.66% | 68.39% |
+| 3-Hit DMG | 42.80% | 46.01% | 49.22% | 53.50% | 56.71% | 59.92% | 64.20% | 68.48% | 72.76% | 77.04% | 81.49% |
+| 4-Hit DMG | 54.96% | 59.08% | 63.20% | 68.70% | 72.82% | 76.94% | 82.44% | 87.94% | 93.43% | 98.93% | 104.64% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 247.97% | 265.68% | 283.39% | 301.1% | 318.82% | 337.24% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 177.12% | 190.40% | 203.69% | 221.40% | 234.68% | 247.97% | 265.68% | 283.39% | 301.10% | 318.82% | 337.24% |
 
-**Stamina Cost: 50**
+**Stamina Cost**: 50
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Violet Arc" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
-| Hold DMG | 448% | 480% | 512% | 544% | 576% | 608% | 640% | 680% |
-| Stack 1 | 515.2% | 552% | 588.8% | 625.6% | 662.4% | 699.2% | 736% | 782% |
-| Stack 2 | 593.6% | 636% | 678.4% | 720.8% | 763.2% | 805.6% | 848% | 901% |
-| Stack 3 | 682.08% | 730.8% | 779.52% | 828.24% | 876.96% | 925.68% | 974.4% | 1035.3% |
 
-**Press Cooldown:** 1s  
-**Hold Cooldown:** 16s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 80% | 86% | 92% | 100% | 106% | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
+| Non-Conductive Hold DMG | 320% | 344% | 368% | 400% | 424% | 448% | 480% | 512% | 544% | 576% | 608% | 640% | 680% |
+| Stack 1 Conductive Hold DMG | 368.0% | 395.6% | 423.2% | 460.0% | 487.6% | 515.2% | 552.0% | 588.8% | 625.6% | 662.4% | 699.2% | 736.0% | 782.0% |
+| Stack 2 Conductive Hold DMG | 424.0% | 455.8% | 487.6% | 530.0% | 561.8% | 593.6% | 636.0% | 678.4% | 720.8% | 763.2% | 805.6% | 848.0% | 901.0% |
+| Stack 3 Conductive Hold DMG | 487.20% | 523.74% | 560.28% | 609.00% | 645.54% | 682.08% | 730.80% | 779.52% | 828.24% | 876.96% | 925.68% | 974.40% | 1035.30% |
+
+**Press Cooldown**: 1s  
+**Holding Cooldown**: 16s
+
 {% endtab %}
 
 {% tab title="Lightning Rose" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Summon DMG | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% | 
-| DoT | 51.18% | 54.84% | 58.5% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
 
-**Duration:** 15s  
-**Cooldown:** 20s  
-**Energy Cost:** 80
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Discharge DMG | 36.56% | 39.30% | 42.04% | 45.70% | 48.44% | 51.18% | 54.84% | 58.50% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
+
+**Duration**: 15s  
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

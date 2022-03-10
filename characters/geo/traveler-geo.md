@@ -157,19 +157,21 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 
 {% tabs %}
 {% tab title="Passive" %}
+
 The Traveller has no passive talent.
+
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Shattered Darkrock**
 
-Reduces **Starfell Sword**’s CD by 2s.
+Reduces **Starfell Sword**'s CD by 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Frenzied Rockslide**
 
-The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as AoE Geo DMG.
+The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as **AoE Geo DMG**.
 
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Geo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
@@ -183,7 +185,7 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 {% tab title="C1" %}
 ### **Invincible Stonewall**
 
-Party members within the radius of **Wake of Earth** have their Crit Rate increased by 10% and have increased resistance against interruption.
+Party members within the radius of **Wake of Earth** have their CRIT Rate increased by 10% and have increased resistance against interruption.
 
 * Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
 
@@ -192,7 +194,7 @@ Party members within the radius of **Wake of Earth** have their Crit Rate increa
 {% tab title="C2" %}
 ### **Rockcore Meltdown**
 
-When the meteorite created by **Starfell Sword** is destroyed it will also explode, dealing additional AoE Geo DMG equal to the amount of damage dealt by **Starfell Sword**.
+When the meteorite created by **Starfell Sword** is destroyed, it will also explode, dealing additional **AoE Geo DMG** equal to the amount of damage dealt by Starfell Sword.
 
 * If a **meteorite** is destroyed immediately after summoning this will not activate.
 * **Rockcore Meltdown** damage is considered Elemental Skill damage.
@@ -202,23 +204,27 @@ When the meteorite created by **Starfell Sword** is destroyed it will also explo
 {% tab title="C3" %}
 ### **Will of the Rock**
 
-Increases the level of **Wake of Earth** by 3.
+Increases the Level of **Wake of Earth** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Reaction Force**
 
-The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every enemy hit.
+The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every opponent hit.
+A maximum of 25 Energy can be regenerated in this manner at any one time.
 
-* A maximum of 25 Energy can be recovered in this manner.
 * Only applies to the Traveler.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Meteroite Impact**
+### **Meteorite Impact**
 
 Increases the Level of **Starfell Sword** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -226,6 +232,7 @@ Increases the Level of **Starfell Sword** by 3.
 
 The barrier created by **Wake of Earth** lasts 5s longer.  
 The meteorite created by **Starfell Sword** lasts 10s longer.
+
 {% endtab %}
 {% endtabs %}
 
@@ -235,50 +242,54 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 {% tab title="Foreign Rockblade" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.63% | 70.31% | 76% | 81.69% | 87.89% | 94.09% |
-| 2-Hit DMG | 63.13% | 68.68% | 74.23% | 79.79% | 85.85% | 91.91% |
-| 3-Hit DMG | 77% | 83.78% | 90.55% | 97.33% | 104.72% | 112.11% |
-| 4-Hit DMG | 84.75% | 92.21% | 99.67% | 107.12% | 115.26% | 123.40% |
-| 5-Hit DMG | 102.88% | 111.93% | 120.98% | 130.03% | 139.91% | 149.79% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 44.46% | 48.08% | 51.70% | 56.87% | 60.49% | 64.63% | 70.31% | 76.00% | 81.69% | 87.89% | 94.09% |
+| 2-Hit DMG | 43.43% | 46.97% | 50.50% | 55.55% | 59.08% | 63.13% | 68.68% | 74.23% | 79.79% | 85.85% | 91.91% |
+| 3-Hit DMG | 52.98% | 57.29% | 61.60% | 67.76% | 72.07% | 77.00% | 83.78% | 90.55% | 97.33% | 104.72% | 112.11% |
+| 4-Hit DMG | 58.31% | 63.05% | 67.80% | 74.58% | 79.33% | 84.75% | 92.21% | 99.67% | 107.12% | 115.26% | 123.40% |
+| 5-Hit DMG | 70.78% | 76.54% | 82.30% | 90.53% | 96.29% | 102.87% | 111.93% | 120.98% | 130.03% | 139.91% | 149.79% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
-| Lumine Charged Attack 2 DMG | 105% | 114.24% | 123.48% | 132.72% | 142.80% | 152.88% |
-| Aether Charged Attack 2 DMG | 88.25% | 96.02% | 103.78% | 111.55% | 120.02% | 128.49% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 55.90% | 60.45% | 65.00% | 71.50% | 76.05% | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
+| Charged Attack 2 DMG | 72.24% | 78.12% | 84.00% | 92.40% | 98.28% | 105.00% | 114.24% | 123.48% | 132.72% | 142.80% | 152.88% |
 
 **Stamina Cost**: 20
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Starfell Sword" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 347.20% | 372% | 396.80% | 421.60% | 446.40% | 471.20% | 496% | 527% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 248.0% | 266.6% | 285.2% | 310.0% | 328.6% | 347.2% | 372.0% | 396.8% | 421.6% | 446.4% | 471.2% | 496.0% | 527.0% |
 
 **Meteorite Duration**: 30s  
 **Cooldown**: 8s
+
 {% endtab %}
 
 {% tab title="Wake of Earth" %}
-| FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DMG Per Shockwave | 207.20% | 222% | 236.80% | 251.60% | 266.40% | 281.20% | 296% | 314.50% |
 
-**Energy Cost**: 60  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DMG Per Shockwave | 148.0% | 159.1% | 170.2% | 185.0% | 196.1% | 207.2% | 222.0% | 236.8% | 251.6% | 266.4% | 281.2% | 296.0% | 314.5% |
+
 **Stonewall Duration**: 15s  
-**Cooldown**: 15s
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

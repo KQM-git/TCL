@@ -148,9 +148,8 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 {% tab title="Passive" %}
 ### **Wolvensprint**
 
-Decreases sprinting Stamina consumption for your own party members by 20%.  
+Decreases sprinting Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -158,7 +157,6 @@ Not stackable with Passive Talents that provide the exact same effects.
 
 Decreases **Claw and Thunder**'s CD by 18%.  
 Using **Lightning Fang** resets the CD of **Claw and Thunder**.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -179,39 +177,44 @@ When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 ### **Wolf's Instinct**
 
 Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Suppression**
 
 Increases CRIT Rate against opponents with less than 30% HP by 10%.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Soul Companion**
 
-Increases the Level of **Lightning Fang** by 3.  
+Increases the Level of **Lightning Fang** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Bite**
 
-When casting **Claw and Thunder** \(Press\), opponents hit will have their DEF decreased by 15% for 7s.
+When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Sharpened Claws**
 
-Increases the Level of **Claw and Thunder** by 3.  
+Increases the Level of **Claw and Thunder** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Lupus Fulguris**
 
-Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.  
-When Razor is not under the effect of **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil**.
+Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.
+When Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil** for **Claw and Thunder**.
 
 * C6 damage instance has no ability type scaling tags.
 
@@ -224,56 +227,61 @@ When Razor is not under the effect of **Lightning Fang**, a lightning strike on 
 {% tab title="Steel Fang" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 131.89% | 141.70% | 151.51% | 161.32% | 171.13% | 180.94% |
-| 2-Hit DMG | 113.62% | 122.07% | 130.52% | 138.97% | 147.42% | 155.87% |
-| 3-hit DMG | 142.05% | 152.62% | 163.19% | 173.75% | 184.32% | 194.88% |
-| 4-hit DMG | 187.07% | 200.98% | 214.89% | 228.81% | 242.72% | 256.64% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 95.92% | 102.46% | 109.00% | 117.72% | 124.26% | 131.89% | 141.70% | 151.51% | 161.32% | 171.13% | 180.94% |
+| 2-Hit DMG | 82.63% | 88.27% | 93.90% | 101.41% | 107.05% | 113.62% | 122.07% | 130.52% | 138.97% | 147.42% | 155.87% |
+| 3-Hit DMG | 103.31% | 110.36% | 117.40% | 126.79% | 133.84% | 142.05% | 152.62% | 163.19% | 173.75% | 184.32% | 194.88% |
+| 4-Hit DMG | 136.05% | 145.32% | 154.60% | 166.97% | 176.24% | 187.07% | 200.98% | 214.89% | 228.81% | 242.72% | 256.64% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 90.90% | 98.90% | 106.90% | 114.90% | 123.62% | 132.35% |
-| Charged Attack Final DMG | 164.38% | 178.84% | 193.31% | 207.77% | 223.55% | 239.33% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 62.54% | 67.63% | 72.72% | 79.99% | 85.08% | 90.90% | 98.90% | 106.90% | 114.90% | 123.62% | 132.35% |
+| Charged Attack Final DMG | 113.09% | 122.29% | 131.50% | 144.65% | 153.86% | 164.37% | 178.84% | 193.31% | 207.77% | 223.55% | 239.33% |
 
-**Maximum Duration**: 5s  
-**Stamina Cost**: 40
+**Stamina Cost**: 40/s  
+**Max Duration**: 5s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 119.25% | 129.75% | 140.24% | 150.74% | 162.19% | 173.63% |
-| Low Plunge DMG | 238.46% | 259.44% | 280.43% | 301.41% | 324.30% | 347.19% |
-| High Plunge DMG | 297.85% | 324.06% | 350.27% | 376.48% | 405.07% | 433.66% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.05% | 88.72% | 95.40% | 104.94% | 111.62% | 119.25% | 129.75% | 140.24% | 150.74% | 162.19% | 173.63% |
+| Low Plunge DMG | 164.06% | 177.41% | 190.77% | 209.84% | 223.20% | 238.46% | 259.44% | 280.43% | 301.41% | 324.30% | 347.19% |
+| High Plunge DMG | 204.92% | 221.60% | 238.28% | 262.10% | 278.78% | 297.85% | 324.06% | 350.27% | 376.48% | 405.07% | 433.66% |
+
 {% endtab %}
 
 {% tab title="Claw and Thunder" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press Skill DMG | 278.88% | 298.80% | 318.72% | 338.64% | 358.56% | 378.48% | 398.40% | 423.30% |
-| Hold Skill DMG | 413.28% | 442.80% | 472.32% | 501.84% | 531.36% | 560.88% | 590.40% | 627.30% |
 
-**Energy Recharge Bonus**: 20% per Sigil  
-**Energy Regenerated**: 5 per Sigil Absorbed  
-**Electro Sigil Duration**: 18s  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press Skill DMG | 199.20% | 214.14% | 229.08% | 249.00% | 263.94% | 278.88% | 298.80% | 318.72% | 338.64% | 358.56% | 378.48% | 398.40% | 423.30% |
+| Hold Skill DMG | 295.20% | 317.34% | 339.48% | 369.00% | 391.14% | 413.28% | 442.80% | 472.32% | 501.84% | 531.36% | 560.88% | 590.40% | 627.30% |
+
+**Energy Recharge Bonus**: 20.00% per Electro Sigil  
+**Energy Regenerated**: 5 per Electro Sigil Absorbed  
+**Electro Sigil duration**: 18s  
 **Press Cooldown**: 6s  
-**Hold Cooldown**: 10s
+**Cooldown (hold)**: 10s
+
 {% endtab %}
 
 {% tab title="Lightning Fang" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Elemental Burst DMG | 224% | 240% | 256% | 272% | 288% | 304% | 320% | 340% |
-| Soul Companion DMG | 33.6% | 36% | 38.4% | 40.8% | 43.2% | 45.6% | 48% | 51% |
-| Normal ATK SPD Bonus | 36% | 37% | 38% | 39% | 40% | 40% | 40% | 40% |
 
-**Energy Cost**: 80  
-**Electro Resistance Bonus**: 80%  
-**Duration**: 15s  
-**Cooldown**: 20s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Elemental Burst DMG | 160% | 172% | 184% | 200% | 212% | 224% | 240% | 256% | 272% | 288% | 304% | 320% | 340% |
+| Soul Companion DMG (Normal Attack DMG) | 24% | 25.80% | 27.60% | 30% | 31.80% | 33.60% | 36% | 38.40% | 40.80% | 43.20% | 45.60% | 48% | 51% |
+| Normal ATK SPD Bonus | 26% | 28% | 30% | 32% | 34% | 36% | 37% | 38% | 39% | 40% | 40% | 40% | 40% |
+
+**Electro RES Bonus**: 80%  
+**Duration**: 15.0s  
+**Cooldown**: 20.0s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

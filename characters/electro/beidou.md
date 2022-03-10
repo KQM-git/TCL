@@ -160,26 +160,22 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 {% tab title="Passive" %}
 ### **Conqueror of Tides**
 
-Decreases swimming Stamina consumption for your own party members by 20%
-
-* Not stackable with Passive Talents that provide the exact same effects.
-
+Decreases swimming Stamina consumption for your own party members by 20%.
+Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Retribution**
 
 Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.
-
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Lightning Storm**
 
-Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:
+Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus: 
 * DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.
 * Greatly reduced delay before unleashing Charged Attacks.
-
 {% endtab %}
 {% endtabs %}
 
@@ -191,27 +187,29 @@ Gain the following effects for 10s after unleashing Tidecaller with its maximum 
 
 When **Stormbreaker** is used:  
 Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.  
-This shield absorbs Electro DMG 250% more effectively.
+This shield absorbs **Electro DMG** 250% more effectively.
 
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Upon the Turbulent Sea, the Thunder Arises**
 
-**Stormbreaker**’s arc **lightning discharges** can jump to 2 additional targets.
+**Stormbreaker**'s arc lightning can jump to 2 additional targets.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Summoner of Storm**
 
-Increases the Level of **Tidecaller** by 3.  
+Increases the Level of **Tidecaller** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Stunning Revenge**
 
-Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% Electro DMG for 10s.
+Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s.
 
 | Attribute | Stunning Revenge |
 | --- | --- |
@@ -232,18 +230,20 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 {% tab title="C5" %}
 ### **Crimson Tidewalker**
 
-Increases the Level of Stormbreaker by 3.  
+Increases the Level of **Stormbreaker** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Bane of Evil**
 
-During the duration of **Stormbreaker**, the Electro RES of surrounding opponents is decreased by 15%.
+During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.
 
 **Notes**
 * The range of this effect is extremely short at just over 1 abyss tile of range.
 * The initial cast of Beidou's Burst doesn't benefit from her C6.
+
 {% endtab %}
 {% endtabs %}
 
@@ -253,54 +253,59 @@ During the duration of **Stormbreaker**, the Electro RES of surrounding opponent
 {% tab title="Oceanborne" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 103.38% | 112.47% | 121.57% | 130.67% | 140.59% | 151.96% |
-| 2-Hit DMG | 103% | 112.06% | 121.13% | 130.19% | 140.08% | 151.41% |
-| 3-Hit DMG | 128.38% | 139.67% | 150.97% | 162.27% | 174.59% | 188.71% |
-| 4-Hit DMG | 125.75% | 136.82% | 147.88% | 158.95% | 171.02% | 184.85% |
-| 5-Hit DMG | 163% | 177.34% | 191.69% | 206.03% | 221.68% | 239.61% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 71.12% | 76.91% | 82.70% | 90.97% | 96.76% | 103.38% | 112.47% | 121.57% | 130.67% | 140.59% | 151.96% |
+| 2-Hit DMG | 70.86% | 76.63% | 82.40% | 90.64% | 96.41% | 103.00% | 112.06% | 121.13% | 130.19% | 140.08% | 151.41% |
+| 3-Hit DMG | 88.32% | 95.51% | 102.70% | 112.97% | 120.16% | 128.38% | 139.67% | 150.97% | 162.27% | 174.59% | 188.71% |
+| 4-Hit DMG | 86.52% | 93.56% | 100.60% | 110.66% | 117.70% | 125.75% | 136.82% | 147.88% | 158.95% | 171.02% | 184.85% |
+| 5-Hit DMG | 112.14% | 121.27% | 130.40% | 143.44% | 152.57% | 163.00% | 177.34% | 191.69% | 206.03% | 221.68% | 239.61% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 81.75% | 88.94% | 96.14% | 103.33% | 111.18% | 120.17% |
-| Charged Attack Final DMG | 148% | 161.02% | 174.05% | 187.07% | 201.28% | 217.56% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 56.24% | 60.82% | 65.40% | 71.94% | 76.52% | 81.75% | 88.94% | 96.14% | 103.33% | 111.18% | 120.17% |
+| Charged Attack Final DMG | 101.82% | 110.11% | 118.40% | 130.24% | 138.53% | 148.00% | 161.02% | 174.05% | 187.07% | 201.28% | 217.56% |
 
-**Maximum Duration**: 5s  
-**Stamina Cost**: 40
+**Stamina Cost**: 40/s  
+**Max Duration**: 5s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
-| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
-| High Plunge DMG | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
+| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
+| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+
 {% endtab %}
 
 {% tab title="Tidecaller" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Shield DMG Absorption Scaling | 20.16% | 21.6% | 23.04% | 24.48% | 25.92% | 27.36% | 28.8% | 30.6% |
-| Shield DMG Absorption Additive | 2195 | 2392 | 2600 | 2819 | 3050 | 3293 | 3547 | 3813 |
-| Base DMG | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
-| DMG Bonus on Hit Taken | 224% | 240% | 256% | 272% | 288% | 304% | 320% | 340% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Shield DMG Absorption Scaling | 14.40% | 15.48% | 16.56% | 18.00% | 19.08% | 20.16% | 21.60% | 23.04% | 24.48% | 25.92% | 27.36% | 28.80% | 30.60% |
+| Shield DMG Absorption Additive | 1386 | 1525 | 1675 | 1837 | 2010 | 2195 | 2392 | 2600 | 2819 | 3050 | 3293 | 3547 | 3813 |
+| Base DMG | 121.60% | 130.72% | 139.84% | 152.00% | 161.12% | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
+| DMG Bonus on Hit Taken | 160% | 172% | 184% | 200% | 212% | 224% | 240% | 256% | 272% | 288% | 304% | 320% | 340% |
 
 **Cooldown**: 7.5s
+
 {% endtab %}
 
 {% tab title="Stormbreaker" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
-| Lightning DMG | 134.40% | 144% | 153.60% | 163.20% | 172.80% | 182.40% | 192% | 204% |
-| DMG Reduction | 26% | 28% | 30% | 32% | 34% | 35% | 36% | 37% |
 
-**Energy Cost**: 80  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 121.60% | 130.72% | 139.84% | 152.00% | 161.12% | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
+| Lightning DMG | 96.00% | 103.20% | 110.40% | 120.00% | 127.20% | 134.40% | 144.00% | 153.60% | 163.20% | 172.80% | 182.40% | 192.00% | 204.00% |
+| DMG Reduction | 20% | 21% | 22% | 24% | 25% | 26% | 28% | 30% | 32% | 34% | 35% | 36% | 37% |
+
 **Duration**: 15s  
-**Cooldown**: 20s
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

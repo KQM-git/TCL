@@ -293,7 +293,7 @@ The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will no
 | Muji-Muji Daruma Healing Additive | 500 | 550 | 605 | 663 | 726 | 792 | 863 | 938 | 1017 | 1101 | 1188 | 1280 | 1376 |
 
 **Duration**: 12s  
-**CD**: 20s  
+**Cooldown**: 20s  
 **Energy Cost**: 80
 
 {% endtab %}

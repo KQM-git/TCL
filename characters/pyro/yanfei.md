@@ -123,13 +123,13 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 {% tab title="Passive" %}
 ### **Encyclopedic Expertise**
 
-Displays the location of nearby resources unique to Liyue on the mini-map
+Displays the location of nearby **resources unique to Liyue** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Proviso**
 
-When Yanfei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed will increase her Pyro DMG by 5% for 6 seconds. When this effect is repeatedly triggered it will overwrite the oldest bonus first.
+When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's **Pyro DMG Bonus** by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
 
 * The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 {% endtab %}
@@ -137,7 +137,7 @@ When Yanfei's Charged Attack consumes Scarlet Seals, each Scarlet Seal consumed 
 {% tab title="Ascension 4" %}
 ### **Blazing Eye**
 
-When Yanfei's Charged Attacks deal CRIT Hits, she will deal an additional instance of AoE Pyo DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG** equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
 | Attribute | Blazing Eye |
 | --- | --- |
@@ -159,34 +159,39 @@ When Yanfei's Charged Attacks deal CRIT Hits, she will deal an additional instan
 ### **The Law Knows No Kindness**
 
 When Yanfei uses her Charged Attack, each existing **Scarlet Seal** additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Right of Final Interpretation**
 
 Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Samadhi Fire-Forged**
 
-Increases the Level of **Signed Edict** by 3.  
+Increases the Level of **Signed Edict** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Supreme Amnesty**
 
-When **Done Deal** is used:  
-Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.  
-This shield absorbs Pyro DMG 250% more effectively.
+When **Done Deal** is used:
+Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
+This shield absorbs **Pyro DMG** 250% more effectively.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Abiding Affidavit**
 
-Increases the Level of **Done Deal** by 3.  
+Increases the Level of **Done Deal** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -195,6 +200,7 @@ Maximum upgrade level is 15.
 Increases the maximum number of **Scarlet Seals** by 1.
 
 * At 4 seals, Yanfei's charged attack will consume 0 stamina.
+
 {% endtab %}
 {% endtabs %}
 
@@ -204,57 +210,62 @@ Increases the maximum number of **Scarlet Seals** by 1.
 {% tab title="Seal of Approval" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-hit DMG | 81.68% | 87.51% | 93.35% | 99.18% | 105.01% | 110.85% |
-| 2-Hit DMG | 72.98% | 78.19% | 83.40% | 88.61% | 93.83% | 99.04% |
-| 3-hit DMG | 106.42% | 114.02% | 121.62% | 129.22% | 136.82% | 144.42% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 58.34% | 62.72% | 67.09% | 72.93% | 77.30% | 81.68% | 87.51% | 93.35% | 99.18% | 105.01% | 110.85% |
+| 2-Hit DMG | 52.13% | 56.04% | 59.94% | 65.16% | 69.07% | 72.98% | 78.19% | 83.40% | 88.61% | 93.83% | 99.04% |
+| 3-Hit DMG | 76.01% | 81.71% | 87.41% | 95.02% | 100.72% | 106.42% | 114.02% | 121.62% | 129.22% | 136.82% | 144.42% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 Seals | 129.4% | 137.05% | 144.7% | 152.34% | 159.99% | 167.64% |
-| 1 Seal | 152.24% | 161.24% | 170.23% | 179.23% | 188.22% | 197.22% |
-| 2 Seals | 175.08% | 185.42% | 195.77% | 206.11% | 216.46% | 226.8% |
-| 3 Seals | 197.91% | 209.61% | 221.3% | 233% | 244.69% | 256.39% |
-| 4 Seals | 220.75% | 233.79% | 246.84% | 259.88% | 272.92% | 285.97% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 0 Seals | 98.23% | 104.11% | 109.99% | 117.64% | 123.52% | 129.40% | 137.05% | 144.70% | 152.34% | 159.99% | 167.64% |
+| 1 Seal | 115.56% | 122.48% | 129.40% | 138.40% | 145.32% | 152.24% | 161.24% | 170.23% | 179.23% | 188.22% | 197.22% |
+| 2 Seals | 132.90% | 140.86% | 148.81% | 159.16% | 167.12% | 175.08% | 185.42% | 195.77% | 206.11% | 216.46% | 226.80% |
+| 3 Seals | 150.23% | 159.23% | 168.23% | 179.92% | 188.92% | 197.91% | 209.61% | 221.30% | 233.00% | 244.69% | 256.39% |
+| 4 Seals | 167.57% | 177.60% | 187.64% | 200.68% | 210.71% | 220.75% | 233.79% | 246.84% | 259.88% | 272.92% | 285.97% |
 
-**Scarlet Seal Duration**: 10s  
-**Scarlet Seal Stamina Consumption Decrease**: 15% per Seal  
-**Stamina Cost**: 50
+**Stamina Cost**: 50  
+**Scarlet Seal Stamina Consumption Decrease**: 15% Per Seal  
+**Scarlet Seal Duration**: 10s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge Impact | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Signed Edict" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 237.44% | 254.40% | 271.36% | 288.32% | 305.28% | 322.24% | 339.20% | 360.40% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 169.60% | 182.32% | 195.04% | 212.00% | 224.72% | 237.44% | 254.40% | 271.36% | 288.32% | 305.28% | 322.24% | 339.20% | 360.40% |
 
 **Cooldown**: 9s
+
 {% endtab %}
 
 {% tab title="Done Deal" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 255.36% | 273.60% | 291.84% | 310.08% | 328.32% | 346.56% | 364.80% | 387.60% |
-| Charged ATK DMG Bonus | 44% | 46.6% | 49.2% | 51.8% | 54.4% | 57% | 59.6% | 62.2% |
 
-**Sacred Seal Grant Interval:** 1s  
-**Energy Cost**: 80  
-**Duration:** 15s  
-**CD:** 20s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 182.40% | 196.08% | 209.76% | 228.00% | 241.68% | 255.36% | 273.60% | 291.84% | 310.08% | 328.32% | 346.56% | 364.80% | 387.60% |
+| Charged Attack DMG Bonus | 33.4% | 35.4% | 37.4% | 40.0% | 42.0% | 44.0% | 46.6% | 49.2% | 51.8% | 54.4% | 57.0% | 59.6% | 62.2% |
+
+**Scarlet Seal Grant Interval**: 1s  
+**Duration**: 15s  
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 
-## Evidence Vault:
+## Evidence Vault
 
 {% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
 

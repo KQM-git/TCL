@@ -148,19 +148,19 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 {% tab title="Passive" %}
 ### **The More the Merrier**
 
-When Hu Tao cooks a dish perfectly, she has an 18% chance to receive an additional "Suspicious" dish of the same type.
+When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional "Suspicious" dish of the same type.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Flutter By**
 
-When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party \(excluding Hu Tao herself\) will have their CRIT Rate increased by 12% for 8s.
+When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Sanguine Rouge**
 
-When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased by 33%.
+When Hu Tao's HP is equal to or less than 50%, her **Pyro DMG Bonus** is increased by 33%.
 {% endtab %}
 {% endtabs %}
 
@@ -171,6 +171,7 @@ When Hu Tao's HP is equal to or less than 50%, her Pyro DMG Bonus is increased b
 ### **Crimson Bouquet**
 
 While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Tao's Charge Attacks do not consume Stamina.
+
 {% endtab %}
 
 {% tab title="C2" %}
@@ -178,26 +179,30 @@ While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Ta
 
 Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.  
 Additionally, **Spirit Soother** will also apply the **Blood Blossom** effect.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Lingering Carmine**
 
-Increases the Level of **Guide to Afterlife** by 3.  
+Increases the Level of **Guide to Afterlife** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Garden of Eternal Rest**
 
-Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied herself, all nearby allies in the party \(excluding Hu Tao herself\) will have their CRIT Rate increased by 12% for 15s.
+Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Floral Incense**
 
-Increases the Level of **Spirit Soother** by 3.  
+Increases the Level of **Spirit Soother** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -207,6 +212,7 @@ Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:
 Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.  
 This effect triggers automatically when Hu Tao has 1 HP left.  
 Can only occur once every 60s.
+
 {% endtab %}
 {% endtabs %}
 
@@ -216,55 +222,59 @@ Can only occur once every 60s.
 {% tab title="Secret Spear of Wangsheng" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.47% | 69.26% | 74.06% | 78.85% | 83.65% | 88.44% |
-| 2-Hit DMG | 66.35% | 71.28% | 76.22% | 81.15% | 86.09% | 91.02% |
-| 3-Hit DMG | 83.94% | 90.19% | 96.43% | 102.68% | 108.92% | 115.16% |
-| 4-Hit DMG | 90.26% | 96.97% | 103.68% | 110.40% | 117.11% | 123.82% |
-| 5-Hit 1 DMG | 45.75% | 49.15% | 52.56% | 55.96% | 59.36% | 62.77% |
-| 5-Hit 2 DMG | 48.40% | 52% | 55.60% | 59.20% | 62.80% | 66.40% |
-| 6-Hit DMG | 118.19% | 126.98% | 135.78% | 144.57% | 153.36% | 162.15% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 46.89% | 50.08% | 53.28% | 57.54% | 60.74% | 64.47% | 69.26% | 74.06% | 78.85% | 83.65% | 88.44% |
+| 2-Hit DMG | 48.25% | 51.54% | 54.83% | 59.22% | 62.51% | 66.35% | 71.28% | 76.22% | 81.15% | 86.09% | 91.02% |
+| 3-Hit DMG | 61.05% | 65.21% | 69.38% | 74.92% | 79.09% | 83.94% | 90.19% | 96.43% | 102.67% | 108.92% | 115.16% |
+| 4-Hit DMG | 65.64% | 70.12% | 74.59% | 80.56% | 85.03% | 90.26% | 96.97% | 103.68% | 110.40% | 117.11% | 123.82% |
+| 5-Hit 1 DMG | 33.27% | 35.54% | 37.81% | 40.84% | 43.10% | 45.75% | 49.15% | 52.56% | 55.96% | 59.36% | 62.77% |
+| 5-Hit 2 DMG | 35.20% | 37.60% | 40.00% | 43.20% | 45.60% | 48.40% | 52.00% | 55.60% | 59.20% | 62.80% | 66.40% |
+| 6-Hit DMG | 85.96% | 91.82% | 97.68% | 105.49% | 111.36% | 118.19% | 126.98% | 135.78% | 144.57% | 153.36% | 162.15% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 186.95% | 200.85% | 214.76% | 228.66% | 242.57% | 256.47% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 135.96% | 145.23% | 154.50% | 166.86% | 176.13% | 186.94% | 200.85% | 214.76% | 228.66% | 242.56% | 256.47% |
 
 **Stamina Cost**: 25
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 89.95% | 96.64% | 103.33% | 110.02% | 116.71% | 123.40% |
-| Low Plunge DMG | 179.86% | 193.24% | 206.62% | 220% | 233.38% | 246.76% |
-| High Plunge DMG | 224.66% | 241.37% | 258.08% | 274.79% | 291.50% | 308.21% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 65.42% | 69.88% | 74.34% | 80.29% | 84.75% | 89.95% | 96.64% | 103.33% | 110.02% | 116.71% | 123.40% |
+| Low Plunge DMG | 130.81% | 139.73% | 148.65% | 160.54% | 169.46% | 179.86% | 193.24% | 206.62% | 220.00% | 233.38% | 246.76% |
+| High Plunge DMG | 163.39% | 174.53% | 185.67% | 200.52% | 211.66% | 224.66% | 241.37% | 258.08% | 274.79% | 291.50% | 308.21% |
+
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Activation Cost | 30% | 30% | 30% | 30% | 30% | 30% | 30% | 30% |
-| ATK Increase | 5.06% | 5.36% | 5.66% | 5.96% | 6.26% | 6.56% | 6.85% | 7.15% |
-| Blood Blossom DMG | 89.60% | 96% | 102.40% | 108.80% | 115.20% | 121.60% | 128% | 136% |
 
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ATK Increase | 3.84% | 4.07% | 4.30% | 4.60% | 4.83% | 5.06% | 5.36% | 5.66% | 5.96% | 6.26% | 6.55% | 6.85% | 7.15% |
+| Blood Blossom DMG | 64.0% | 68.8% | 73.6% | 80.0% | 84.8% | 89.6% | 96.0% | 102.4% | 108.8% | 115.2% | 121.6% | 128.0% | 136.0% |
+
+**Activation Cost**: 30% Current HP  
 **Blood Blossom Duration**: 8s  
 **Duration**: 9s  
 **Cooldown**: 16s
+
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 399.52% | 423.13% | 446.74% | 470.34% | 493.95% | 517.56% | 541.17% | 564.78% |
-| Low HP Skill DMG | 499.40% | 528.91% | 558.42% | 587.93% | 617.44% | 646.95% | 676.46% | 705.97% |
-| Skill HP Regeneration | 8.25% | 8.74% | 9.23% | 9.71% | 10.2% | 10.69% | 11.18% | 11.66% |
-| Low HP Skill Regeneration | 11% | 11.65% | 12.3% | 12.95% | 13.6% | 14.25% | 14.9% | 15.55% |
 
-**Energy Cost**: 60  
-**Cooldown**: 15s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 303.27% | 321.43% | 339.59% | 363.20% | 381.36% | 399.52% | 423.13% | 446.74% | 470.34% | 493.95% | 517.56% | 541.17% | 564.78% |
+| Low HP Skill DMG | 379.09% | 401.79% | 424.49% | 454.00% | 476.70% | 499.40% | 528.91% | 558.42% | 587.93% | 617.44% | 646.95% | 676.46% | 705.97% |
+| Skill HP Regeneration | 6.26% | 6.64% | 7.01% | 7.50% | 7.87% | 8.25% | 8.74% | 9.22% | 9.71% | 10.20% | 10.69% | 11.17% | 11.66% |
+| Low HP Skill Regeneration | 8.35% | 8.85% | 9.35% | 10.00% | 10.50% | 11.00% | 11.65% | 12.30% | 12.95% | 13.60% | 14.25% | 14.90% | 15.55% |
+
+**Cooldown**: 15s  
+**Energy Cost**: 60
 {% endtab %}
 {% endtabs %}
 
@@ -274,6 +284,7 @@ Can only occur once every 60s.
 {% tab title="Animation Cancels" %}
 * [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)  
 * [N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
+
 {% endtab %}
 {% endtabs %}
 

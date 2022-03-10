@@ -156,9 +156,9 @@ After using **Kamisato Art: Hyouka**, Kamisato Ayaka's Normal and Charged Attack
 {% tab title="Ascension 4" %}
 ### **Kanten Senmyou Blessing**
 
-When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects: 
-* Restores 10 Stamina 
-* Gains 18% Cryo DMG Bonus for 10s.
+When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects:
+* Restores 10 Stamina
+* Gains 18% **Cryo DMG Bonus** for 10s.
 {% endtab %}
 {% endtabs %}
 
@@ -168,7 +168,8 @@ When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent
 {% tab title="C1" %}
 ### **Snowswept Sakura**
 
-When Kamisato Ayaka's Normal or Charged Attacks deal Cryo DMG to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.
+When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.
+
 {% endtab %}
 
 {% tab title="C2" %}
@@ -184,19 +185,24 @@ When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostf
 {% tab title="C3" %}
 ### **Frostbloom Kamifubuki**
 
-Increases the Level of **Kamisato Art: Soumetsu** by 3. Maximum upgrade level is 15.
+Increases the Level of **Kamisato Art: Soumetsu** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Ebb and Flow**
 
-Opponents damaged by **Kamisato Art: Soumetsu's Frostflake Seki no To** will have their DEF decreased by 30% for 6s.
+Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Blossom Cloud Irutsuki**
 
-Increases the Level of **Kamisato Art: Hyouka** by 3. Maximum upgrade level is 15.
+Increases the Level of **Kamisato Art: Hyouka** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -211,53 +217,57 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 
 ## **Full Talent Values**
 
-{% tabs %}{% tab title="Kamisato Art - Kabuki" %}
+{% tabs %}
+{% tab title="Kamisato Art - Kabuki" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 66.46% | 72.31% | 78.16% | 84.01% | 90.39% | 96.77% |
-| 2-Hit DMG | 70.76% | 76.99% | 83.22% | 89.44% | 96.24% | 103.03% |
-| 3-Hit DMG | 91.02% | 99.03% | 107.04% | 115.05% | 123.79% | 132.53% |
-| 4-Hit DMG (x3) | 32.92 | 35.81% | 38.71% | 41.61% | 44.77% | 47.93% |
-| 5-Hit DMG | 113.64% | 123.64% | 133.64% | 143.64% | 154.55% | 165.45% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 45.73% | 49.45% | 53.17% | 58.49% | 62.21% | 66.46% | 72.31% | 78.16% | 84.01% | 90.39% | 96.77% |
+| 2-Hit DMG | 48.68% | 52.65% | 56.61% | 62.27% | 66.23% | 70.76% | 76.99% | 83.22% | 89.44% | 96.24% | 103.03% |
+| 3-Hit DMG | 62.62% | 67.72% | 72.82% | 80.10% | 85.19% | 91.02% | 99.03% | 107.04% | 115.05% | 123.79% | 132.53% |
+| 4-Hit DMG (×3) | 22.65% | 24.49% | 26.33% | 28.97% | 30.81% | 32.92% | 35.81% | 38.71% | 41.61% | 44.77% | 47.93% |
+| 5-Hit DMG | 78.18% | 84.55% | 90.91% | 100.00% | 106.36% | 113.64% | 123.64% | 133.64% | 143.64% | 154.55% | 165.45% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG (x3) | 80.13% | 87.18% | 94.23% | 101.28% | 108.97% | 116.66% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG (×3) | 55.13% | 59.61% | 64.10% | 70.51% | 75.00% | 80.12% | 87.18% | 94.23% | 101.28% | 108.97% | 116.66% |
 
-**Stamina Cost:** 20
+**Stamina Cost**: 20
 
-### Plunge 
+### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.1% | 109.28% | 117.46% | 126.38% | 135.3% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.7% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Kamisato Art: Hyouka" %}
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 334.88% | 358.8% | 382.72% | 406.64% | 430.56% | 454.48% | 478.4% | 508.3% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 239.20% | 257.14% | 275.08% | 299.00% | 316.94% | 334.88% | 358.80% | 382.72% | 406.64% | 430.56% | 454.48% | 478.40% | 508.30% |
 
-**Cooldown:** 10s
+**Cooldown**: 10s
+
 {% endtab %}
 
 {% tab title="Kamisato Art: Soumetsu" %}
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Cutting DMG | 157.22% | 168.45% | 179.68% | 190.91% | 202.14% | 213.37% | 224.6% | 238.64% |
-| Bloom DMG | 235.83% | 252.68% | 269.52% | 286.36% | 303.21% | 320.05% | 336.9% | 357.96% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Cutting DMG | 112.30% | 120.72% | 129.15% | 140.37% | 148.80% | 157.22% | 168.45% | 179.68% | 190.91% | 202.14% | 213.37% | 224.60% | 238.64% |
+| Bloom DMG | 168.45% | 181.08% | 193.72% | 210.56% | 223.20% | 235.83% | 252.68% | 269.52% | 286.37% | 303.21% | 320.06% | 336.90% | 357.96% |
 
-**Energy Cost:** 80  
-**Duration:** 5s  
-**Cooldown:** 12s
+**Duration**: 5s  
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

@@ -133,25 +133,26 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 
 {% tabs %}
 {% tab title="Passive" %}
-### **It should be safe...**
+### **It Should Be Safe...**
 
-When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%
+When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Rekindle**
 
-Decrease **Passion Overload**’s cooldown by 20%.
+Decreases **Passion Overload**'s CD by 20%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Fearnaught**
 
-Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Overload** takes the following effects:
+Within the area created by **Fantastic Voyage**, **Passion Overload** takes on the following effects:
+* CD is reduced by 50%.
+* Bennett will not be launched by the effects of Charge Level 2.
 
-* CD is reduced by 50%
-* Bennett will not be launched by the explosion of **Passion Overload**: Charge Level 2.
-* This effect is tied to Bennett's Attack Bonus, not the field itself.  
+**Note**
+* This effect is tied to Bennett's Attack Bonus, not the field itself.
 
 {% endtab %}
 {% endtabs %}
@@ -162,25 +163,30 @@ Within the **Inspiration Field** created by **Fantastic Voyage**, **Passion Over
 {% tab title="C1" %}
 ### **Grand Expectation**
 
-**Fantastic Voyage**’s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett’s Base ATK.
+**Fantastic Voyage**'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Impasse Conqueror**
 
-When Bennett’s HP falls below 70%, his Energy Recharge is increased by 30%.
+When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Unstoppable Fervor**
 
-Increases the level of **Passion Overload** by 3.
+Increases the Level of **Passion Overload** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Unexpected Odyssey**
 
-Using a Normal Attack when executing the second attack of **Passion Overload**’s Charge Level 1 allows an additional attack to be performed. This additional attack does 135% of the second attack’s DMG and applies 1A Pyro.
+Using a Normal Attack when executing the second attack of **Passion Overload**'s Charge Level 1 allows an additional attack to be performed.
+This additional attack does 135% of the second attack's DMG.
 
 | Attribute | Skill Hold \(Level 1\) + Normal Attack |
 | :--- | :--- |
@@ -199,18 +205,21 @@ Using a Normal Attack when executing the second attack of **Passion Overload**�
 ### **True Explorer**
 
 Increases the Level of **Fantastic Voyage** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Fire Ventures with Me**
 
-Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro.
+Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s radius gain a 15% **Pyro DMG Bonus** and their weapons are infused with **Pyro**.
 
 * Pyro Infusion lasts 2 seconds upon leaving **Inspiration Field**.
 * The Pyro DMG bonus will apply to the Fantastic Voyage damage.
 * Pyro infused autos have 1U worth of Pyro applcation.  
 * The buff does not stack in coop.  
 * The description of **Fire Ventures with Me** has a mistranslation. The 15% Pyro DMG Bonus applies to every character within its area of effect, regardless of weapon type.  
+
 {% endtab %}
 {% endtabs %}
 
@@ -220,58 +229,61 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**’s 
 {% tab title="Strike of Fortune" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.75% | 70.45% | 76.15% | 81.84% | 88.06% | 94.28% |
-| 2-Hit DMG | 62.13% | 67.59% | 73.06% | 78.53% | 84.49% | 90.45% |
-| 3-Hit DMG | 79.38% | 86.36% | 93.35% | 100.33% | 107.95% | 115.57% |
-| 4-Hit DMG | 86.75% | 94.38% | 102.02% | 109.65% | 117.98% | 126.31% |
-| 5-Hit DMG | 104.50% | 113.70% | 122.89% | 132.09% | 142.12% | 152.15% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 44.55% | 48.17% | 51.80% | 56.98% | 60.61% | 64.75% | 70.45% | 76.15% | 81.84% | 88.06% | 94.28% |
+| 2-Hit DMG | 42.74% | 46.22% | 49.70% | 54.67% | 58.15% | 62.12% | 67.59% | 73.06% | 78.53% | 84.49% | 90.45% |
+| 3-Hit DMG | 54.61% | 59.06% | 63.50% | 69.85% | 74.30% | 79.37% | 86.36% | 93.34% | 100.33% | 107.95% | 115.57% |
+| 4-Hit DMG | 59.68% | 64.54% | 69.40% | 76.34% | 81.20% | 86.75% | 94.38% | 102.02% | 109.65% | 117.98% | 126.31% |
+| 5-Hit DMG | 71.90% | 77.75% | 83.60% | 91.96% | 97.81% | 104.50% | 113.70% | 122.89% | 132.09% | 142.12% | 152.15% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
-| Charged Attack 2 DMG | 88.25% | 96.02% | 103.78% | 111.55% | 120.02% | 128.49% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 55.90% | 60.45% | 65.00% | 71.50% | 76.05% | 81.25% | 88.40% | 95.55% | 102.70% | 110.50% | 118.30% |
+| Charged Attack 2 DMG | 60.72% | 65.66% | 70.60% | 77.66% | 82.60% | 88.25% | 96.02% | 103.78% | 111.55% | 120.02% | 128.49% |
 
 **Stamina Cost**: 20
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Passion Overload" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 192.64% | 206.40% | 220.16% | 233.92% | 247.68% | 261.44% | 275.20% | 292.40% |
-| Charge Level 1 Hit 1 DMG | 117.60% | 126% | 134.40% | 142.80% | 151.20% | 159.60% | 168% | 178.50% |
-| Charge Level 1 Hit 2 DMG | 128.80% | 138% | 147.20% | 156.40% | 165.60% | 174.80% | 184% | 195.50% |
-| Charge Level 2 Hit 1 DMG | 123.20% | 132% | 140.80% | 149.60% | 158.40% | 167.20% | 176% | 187% |
-| Charge Level 2 Hit 2 DMG | 134.40% | 144% | 153.60% | 163.20% | 172.80% | 182.40% | 192% | 204% |
-| Explosion DMG | 184.80% | 198% | 211.20% | 224.40% | 237.60% | 250.80% | 264% | 280.50% |
 
-**Press Cooldown**: 5s  
-**Charge Level 1 Cooldown**: 7.5s  
-**Charge Level 2 Cooldown**: 10s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 137.60% | 147.92% | 158.24% | 172.00% | 182.32% | 192.64% | 206.40% | 220.16% | 233.92% | 247.68% | 261.44% | 275.20% | 292.40% |
+| Charge Level 1 Hit 1 DMG | 84% | 90% | 96% | 105% | 111% | 117% | 126% | 134% | 142% | 151% | 159% | 168% | 178% |
+| Charge Level 1 Hit 2 DMG | 92% | 98% | 105% | 115% | 121% | 128% | 138% | 147% | 156% | 165% | 174% | 184% | 195% |
+| Charge Level 2 Hit 1 DMG | 88% | 94% | 101% | 110% | 116% | 123% | 132% | 140% | 149% | 158% | 167% | 176% | 187% |
+| Charge Level 2 Hit 2 DMG | 96% | 103% | 110% | 120% | 127% | 134% | 144% | 153% | 163% | 172% | 182% | 192% | 204% |
+| Explosion DMG | 132% | 141% | 151% | 165% | 174% | 184% | 198% | 211% | 224% | 237% | 250% | 264% | 280% |
+
+**Cooldown**: 5.0/7.5/10.0s
+
 {% endtab %}
 
 {% tab title="Fantastic Voyage" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 325.92% | 349.20% | 372.48% | 395.76% | 419.04% | 442.32% | 465.60% | 494.70% |
-| Continuous Regeneration Per Second Scaling | 8.4% | 9% | 9.6% | 10.2% | 10.8% | 11.4% | 12% | 12.75% |
-| Continuous Regeneration Per Second | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
-| ATK Bonus Ratio | 78.40% | 84% | 89.60% | 95.20% | 100.80% | 106.40% | 112% | 119% |
 
-**Energy Cost**: 60  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 232.80% | 250.26% | 267.72% | 291.00% | 308.46% | 325.92% | 349.20% | 372.48% | 395.76% | 419.04% | 442.32% | 465.60% | 494.70% |
+| Continuous Regeneration Per Second Scaling | 6.00% | 6.45% | 6.90% | 7.50% | 7.95% | 8.40% | 9.00% | 9.60% | 10.20% | 10.80% | 11.40% | 12.00% | 12.75% |
+| Continuous Regeneration Per Second Additive | 577 | 635 | 698 | 765 | 837 | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
+| ATK Bonus Ratio | 56.0% | 60.2% | 64.4% | 70.0% | 74.2% | 78.4% | 84.0% | 89.6% | 95.2% | 100.8% | 106.4% | 112.0% | 119.0% |
+
 **Duration**: 12s  
-**Cooldown**: 15s
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

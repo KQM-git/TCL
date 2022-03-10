@@ -164,7 +164,7 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 {% tab title="C1" %}
 ### **Thundering Might**
 
-Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as AoE Electro DMG at the start point and terminus of her Blink.
+Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.
 
 * An enemy can be hit twice by the **Thundering Might** AoE if **Stellar Restoration** is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
 * C1 damage instance has no ability type scaling tags.
@@ -174,7 +174,7 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 {% tab title="C2" %}
 ### **Keen Extraction**
 
-When Keqing's Normal and Charged Attacks hit opponents affected by Electro, they have a 50% chance of producing an Elemental Particle.  
+When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.  
 This effect can only occur once every 5s.
 
 * The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
@@ -185,29 +185,31 @@ This effect can only occur once every 5s.
 {% tab title="C3" %}
 ### **Foreseen Reformation**
 
-Increases the Level of Starward Sword by 3.  
+Increases the Level of **Starward Sword** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Attunement**
 
-For 10s after Keqing triggers an Electro-related Elemental Reaction, her ATK is increased by 25%.
+For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Beckoning Stars**
 
-Increases the Level of Stellar Restoration by 3.  
+Increases the Level of **Stellar Restoration** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Tenacious Star**
 
-When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% Electro DMG Bonus for 8s for a maximum of 24% additional Electro DMG.
-
-* Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
+When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.
+Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
 
 {% endtab %}
 {% endtabs %}
@@ -218,52 +220,56 @@ When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental 
 {% tab title="Yunlai Swordsmanship" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
-| 2-Hit DMG | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
-| 3-Hit DMG | 79.13% | 86.09% | 93.05% | 100.01% | 107.61% | 115.21% |
-| 4-Hit 1 DMG | 45.75% | 49.78% | 53.80% | 57.83% | 62.22% | 66.61% |
-| 4-Hit 2 DMG | 50% | 54.40% | 58.80% | 63.20% | 68% | 72.80% |
-| 5-Hit DMG | 97.38% | 105.94% | 114.51% | 123.08% | 132.43% | 141.78% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 41.02% | 44.36% | 47.70% | 52.47% | 55.81% | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
+| 2-Hit DMG | 41.02% | 44.36% | 47.70% | 52.47% | 55.81% | 59.62% | 64.87% | 70.12% | 75.37% | 81.09% | 86.81% |
+| 3-Hit DMG | 54.44% | 58.87% | 63.30% | 69.63% | 74.06% | 79.12% | 86.09% | 93.05% | 100.01% | 107.61% | 115.21% |
+| 4-Hit DMG | 31.48%+34.40% | 34.04%+37.20% | 36.60%+40.00% | 40.26%+44.00% | 42.82%+46.80% | 45.75%+50.00% | 49.78%+54.40% | 53.80%+58.80% | 57.83%+63.20% | 62.22%+68.00% | 66.61%+72.80% |
+| 5-Hit DMG | 66.99% | 72.45% | 77.90% | 85.69% | 91.14% | 97.37% | 105.94% | 114.51% | 123.08% | 132.43% | 141.78% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 111.63% | 121.45% | 131.27% | 141.09% | 151.81% | 162.53% |
-| Charged Attack 2 DMG | 125% | 136% | 147% | 158% | 170% | 182% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 76.80% | 83.05% | 89.30% | 98.23% | 104.48% | 111.63% | 121.45% | 131.27% | 141.09% | 151.81% | 162.53% |
+| Charged Attack 2 DMG | 86% | 93% | 100% | 110% | 117% | 125% | 136% | 147% | 158% | 170% | 182% |
 
 **Stamina Cost**: 25
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Lightning Stiletto DMG | 70.56% | 75.60% | 80.64% | 85.68% | 90.72% | 95.76% | 100.80% | 107.10% |
-| Slashing DMG | 235.20% | 252% | 268.80% | 285.60% | 302.40% | 319.20% | 336% | 357% |
-| Thunderclap Slash DMG | 117.6% x 2 | 126% x 2 | 134.4% x 2 | 142.8% x 2 | 151.2% x 2 | 159.6% x 2 | 168% x 2 | 178.5% x 2 |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Lightning Stiletto DMG | 50.40% | 54.18% | 57.96% | 63.00% | 66.78% | 70.56% | 75.60% | 80.64% | 85.68% | 90.72% | 95.76% | 100.80% | 107.10% |
+| Slashing DMG | 168.0% | 180.6% | 193.2% | 210.0% | 222.6% | 235.2% | 252.0% | 268.8% | 285.6% | 302.4% | 319.2% | 336.0% | 357.0% |
+| Thunderclap Slash DMG (×2) | 84.0% | 90.3% | 96.6% | 105.0% | 111.3% | 117.6% | 126.0% | 134.4% | 142.8% | 151.2% | 159.6% | 168.0% | 178.5% |
 
 **Cooldown**: 7.5s
+
 {% endtab %}
 
 {% tab title="Starward Sword" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 123.20% | 132% | 140.80% | 149.60% | 158.40% | 167.20% | 176% | 187% |
-| Consecutive Slash DMG | 33.6% x 8 | 36% x 8 | 38.4% x 8 | 40.8% x 8 | 43.2% x 8 | 45.6% x 8 | 48% x 8 | 51% x 8 |
-| Last Attack DMG | 264.32% | 283.20% | 302.08% | 320.96% | 339.84% | 358.72% | 377.60% | 401.20% |
 
-**Energy Cost**: 40  
-**Cooldown**: 12s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 88.0% | 94.6% | 101.2% | 110.0% | 116.6% | 123.2% | 132.0% | 140.8% | 149.6% | 158.4% | 167.2% | 176.0% | 187.0% |
+| Consecutive Slash DMG (×8) | 24.0% | 25.8% | 27.6% | 30.0% | 31.8% | 33.6% | 36.0% | 38.4% | 40.8% | 43.2% | 45.6% | 48.0% | 51.0% |
+| Last Attack DMG | 188.80% | 202.96% | 217.12% | 236.00% | 250.16% | 264.32% | 283.20% | 302.08% | 320.96% | 339.84% | 358.72% | 377.60% | 401.20% |
+
+**Cooldown**: 12s  
+**Energy Cost**: 40
+
 {% endtab %}
 {% endtabs %}
 

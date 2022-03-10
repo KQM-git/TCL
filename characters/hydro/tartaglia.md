@@ -216,7 +216,7 @@ A chart of Tartgalia's different Riptide effects
 {% tab title="Passive" %}
 ### **Master of Weaponry**
 
-Increases your own party member’s Normal Attack Level by 1.
+Increases your own party members' **Normal Attack** Level by 1.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -228,9 +228,9 @@ Extends **Riptide** duration by 8s.
 {% tab title="Ascension 4" %}
 ### **Sword of Torrents**
 
-When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents. 
+When Tartaglia is in **Foul Legacy: Raging Tide**'s **Melee Stance**, on dealing a CRIT hit, Normal and Charged Attacks apply the **Riptide** status effect to opponents.
 
-**Riptide** can be applied to shielded targets, assisting in destroying shields faster.
+* **Riptide** can be applied to shielded targets, assisting in destroying shields faster.
 {% endtab %}
 {% endtabs %}
 
@@ -241,26 +241,29 @@ When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, on dealing a
 ### **Foul Legacy: Tide Withholder**
 
 Decreases the CD of **Foul Legacy: Raging Tide** by 20%
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Foul Legacy: Understream**
 
-When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Elemental Energy
+When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Elemental Energy.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Abyssal Mayhem: Vortex of Turmoil**
 
-Increases the Level of **Foul Legacy: Raging Tide** by 3.  
+Increases the Level of **Foul Legacy: Raging Tide** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Abyssal Mayhem: Hydrospout**
 
-If Tartaglia is in Foul Legacy Raging Tide’s **Melee Stance**: Triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.  
-Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.
+If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
+**Riptide Slashes** and **Riptide Flashes** triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two **Riptide** effects, nor do they have any effect on those time intervals.
 
 * This constellation effect is not subject to ICD.
 * All of **Riptide** effects triggered by C4 do not snapshot.
@@ -271,8 +274,9 @@ Riptide Slashes and Riptide Flashes triggered by this Constellation effect are n
 {% tab title="C5" %}
 ### **Havoc: Formless Blade**
 
-Increases the Level of **Havoc: Obliteration** by 3.  
+Increases the Level of **Havoc: Obliteration** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -280,6 +284,7 @@ Maximum upgrade level is 15.
 
 When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.  
 This effect will only take place once Tartaglia returns to his Ranged Stance.
+
 {% endtab %}
 {% endtabs %}
 
@@ -289,47 +294,48 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% tab title="Cutting Torrent" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 60% | 65.28% | 70.56% | 75.84% | 81.60% | 87.36% |
-| 2-Hit DMG | 67.25%| 73.17% | 79.09% | 85% | 91.46% | 97.92% |
-| 3-Hit DMG | 80.50% | 87.58% | 94.67% | 101.75% | 109.48% | 117.21% |
-| 4-Hit DMG | 82.88% | 90.17% | 97.46% | 104.75% | 112.71% | 120.67% |
-| 5-Hit DMG | 88.50% | 96.29% | 104.08% | 111.86% | 120.36% | 128.86% |
-| 6-Hit DMG | 105.75% | 115.06% | 124.36% | 133.67% | 143.82% | 153.97% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 41.28% | 44.64% | 48.00% | 52.80% | 56.16% | 60.00% | 65.28% | 70.56% | 75.84% | 81.60% | 87.36% |
+| 2-Hit DMG | 46.27% | 50.03% | 53.80% | 59.18% | 62.95% | 67.25% | 73.17% | 79.09% | 85.00% | 91.46% | 97.92% |
+| 3-Hit DMG | 55.38% | 59.89% | 64.40% | 70.84% | 75.35% | 80.50% | 87.58% | 94.67% | 101.75% | 109.48% | 117.21% |
+| 4-Hit DMG | 57.02% | 61.66% | 66.30% | 72.93% | 77.57% | 82.88% | 90.17% | 97.46% | 104.75% | 112.71% | 120.67% |
+| 5-Hit DMG | 60.89% | 65.84% | 70.80% | 77.88% | 82.84% | 88.50% | 96.29% | 104.08% | 111.86% | 120.36% | 128.86% |
+| 6-Hit DMG | 72.76% | 78.68% | 84.60% | 93.06% | 98.98% | 105.75% | 115.06% | 124.36% | 133.67% | 143.82% | 153.97% |
 
 ### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
-| Fully-Charged Aimed Shot | 173.60% | 186% | 198.40% | 210.80% | 223.20% | 235.60% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
+| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 235.60% |
 
-### Riptide
+## Riptide
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Riptide Flash DMG \(x3\) | 17.36% | 18.6% | 19.84% | 21.08% | 22.32% | 23.56% |
-| Riptide Burst DMG | 86.80% | 93% | 99.20% | 105.40% | 111.60% | 117.80% |
-| Riptide Duration | 10 | 10 | 10 | 10 | 10 | 10 |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Riptide Flash DMG (×3) | 12.40% | 13.33% | 14.26% | 15.50% | 16.43% | 17.36% | 18.60% | 19.84% | 21.08% | 22.32% | 23.56% |
+| Riptide Burst DMG | 62.00% | 66.65% | 71.30% | 77.50% | 82.15% | 86.80% | 93.00% | 99.20% | 105.40% | 111.60% | 117.80% |
 
 **Riptide Duration**: 10s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Foul Legacy: Raging Tide" %}
 ### Stance Change
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Stance Change DMG | 100.80% | 108% | 115.20% | 122.40% | 129.60% | 136.80% | 144% | 153% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stance Change DMG | 72.0% | 77.4% | 82.8% | 90.0% | 95.4% | 100.8% | 108.0% | 115.2% | 122.4% | 129.6% | 136.8% | 144.0% | 153.0% |
+
 
 **Maximum Duration**: 30s  
 **Preemptive Cooldown**: 6-36s  
@@ -337,42 +343,45 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 56.50% | 61.47% | 66.44% | 71.42% | 76.84% | 82.26% | 87.69% | 93.11% |
-| 2-Hit DMG | 60.50% | 65.82% | 71.15% | 76.47% | 82.28% | 88.09% | 93.90% | 99.70% |
-| 3-Hit DMG | 81.88% | 89.08% | 96.29% | 103.49% | 111.35% | 119.21% | 127.07% | 134.93% |
-| 4-Hit DMG | 87.13% | 94.79% | 102.46% | 110.13% | 118.49% | 126.85% | 135.22% | 143.58% |
-| 5-Hit DMG | 80.38% | 87.45% | 94.52% | 101.59% | 109.31% | 117.03% | 124.74% | 132.46% |
-| 6-Hit 1 DMG | 51.50% | 56.03% | 60.56% | 65.10% | 70.04% | 74.98% | 79.93% | 84.87% |
-| 6-Hit 2 DMG | 54.75% | 59.57% | 64.39% | 69.20% | 74.46% | 79.72% | 84.97% | 90.23% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 38.87% | 42.04% | 45.20% | 49.72% | 52.88% | 56.50% | 61.47% | 66.44% | 71.42% | 76.84% | 82.26% | 87.69% | 93.11% |
+| 2-Hit DMG | 41.62% | 45.01% | 48.40% | 53.24% | 56.63% | 60.50% | 65.82% | 71.15% | 76.47% | 82.28% | 88.09% | 93.90% | 99.70% |
+| 3-Hit DMG | 56.33% | 60.91% | 65.50% | 72.05% | 76.63% | 81.88% | 89.08% | 96.28% | 103.49% | 111.35% | 119.21% | 127.07% | 134.93% |
+| 4-Hit DMG | 59.94% | 64.82% | 69.70% | 76.67% | 81.55% | 87.12% | 94.79% | 102.46% | 110.13% | 118.49% | 126.85% | 135.22% | 143.58% |
+| 5-Hit DMG | 55.30% | 59.80% | 64.30% | 70.73% | 75.23% | 80.37% | 87.45% | 94.52% | 101.59% | 109.31% | 117.03% | 124.74% | 132.46% |
+| 6-Hit 1 DMG | 35.43% | 38.32% | 41.20% | 45.32% | 48.20% | 51.50% | 56.03% | 60.56% | 65.10% | 70.04% | 74.98% | 79.93% | 84.87% |
+| 6-Hit 2 DMG | 37.67% | 40.73% | 43.80% | 48.18% | 51.25% | 54.75% | 59.57% | 64.39% | 69.20% | 74.46% | 79.72% | 84.97% | 90.23% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack 1 DMG | 87.50% | 95.20% | 102.90% | 110.60% | 119% | 127.40% | 135.80% | 144.20% |
-| Charged Attack 2 DMG | 104.62% | 113.83% | 123.04% | 132.25% | 142.29% | 152.33% | 162.38% | 172.42% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 60.20% | 65.10% | 70.00% | 77.00% | 81.90% | 87.50% | 95.20% | 102.90% | 110.60% | 119.00% | 127.40% | 135.80% | 144.20% |
+| Charged Attack 2 DMG | 71.98% | 77.84% | 83.70% | 92.07% | 97.93% | 104.62% | 113.83% | 123.04% | 132.25% | 142.29% | 152.33% | 162.38% | 172.42% |
 
 **Stamina Cost**: 20
 
 ### Riptide Slash
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Riptide Slash | 87.50% | 95.20% | 102.90% | 110.60% | 119% | 127.40% | 135.80% | 144.20% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Riptide Slash | 60.20% | 65.10% | 70.00% | 77.00% | 81.90% | 87.50% | 95.20% | 102.90% | 110.60% | 119.00% | 127.40% | 135.80% | 144.20% |
+
 {% endtab %}
 
 {% tab title="Havoc: Obliteration" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG: Melee | 649.60% | 696% | 742.40% | 788.80% | 835.20% | 881.60% | 928% | 986% |
-| Skill DMG: Ranged | 529.76% | 567.60% | 605.44% | 643.28% | 681.12% | 718.96% | 756.80% | 804.10% |
-| Riptide Blast DMG | 168% | 180% | 192% | 204% | 216% | 228% | 240% | 255% |
 
-**Energy Cost**: 60  
-**Energy Refund \(Ranged\)**: 20  
-**Cooldown**: 15s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG: Melee | 464.0% | 498.8% | 533.6% | 580.0% | 614.8% | 649.6% | 696.0% | 742.4% | 788.8% | 835.2% | 881.6% | 928.0% | 986.0% |
+| Skill DMG: Ranged | 378.4% | 406.78% | 435.16% | 473.0% | 501.38% | 529.76% | 567.6% | 605.44% | 643.28% | 681.12% | 718.96% | 756.8% | 804.1% |
+| Riptide Blast DMG | 120% | 129% | 138% | 150% | 159% | 168% | 180% | 192% | 204% | 216% | 228% | 240% | 255% |
+
+**Energy Return (Ranged)**: 20  
+**Cooldown**: 15.0s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

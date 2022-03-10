@@ -161,17 +161,17 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 {% tab title="Ascension 1" %}
 ### **Roiling Rime**
 
-If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Lightfall Sword Remnant** will be created that will explode immediately, dealing **50%** of the basic Physical DMG dealt by a **Lightfall Sword** created by **Glacial Illumination**.
+If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Shattered Lightfall Sword** will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.
 
 **Notes**
-* The damage dealt by **Lightfall Sword Remnant** scales with **Glacial Illumination**'s talent level.
+* The damage dealt by **Shattered Lightfall Sword** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Wellspring of War-Lust**
 
-When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart.**
+When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart**.
 {% endtab %}
 {% endtabs %}
 
@@ -181,7 +181,7 @@ When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and
 {% tab title="C1" %}
 ### **Tidal Illusion**
 
-Every time **Icetide Vortex's Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.  
+Every time **Icetide Vortex**'s **Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.
 Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
 
 **Notes**
@@ -192,13 +192,16 @@ Each stack consumed will increase the duration of this effect by 6s up to a maxi
 {% tab title="C2" %}
 ### **Lady of Seafoam**
 
-Decreases the CD of **Icetide Vortex**'s Hold Variant, rendering it identical to its Press CD.
+Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Lawrence Pedigree**
 
-Increases the level of **Glacial Illumination** by 3.
+Increases the Level of **Glacial Illumination** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
@@ -212,13 +215,16 @@ Increases the level of **Glacial Illumination** by 3.
 {% tab title="C5" %}
 ### **Chivalric Quality**
 
-Increases the level of **Icetide Vortex** by 3.
+Increases the Level of **Icetide Vortex** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Noble Obligation**
 
 **Lightfall Swords** created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the **Lightfall Sword** an additional stack of energy.
+
 {% endtab %}
 {% endtabs %}
 
@@ -228,55 +234,64 @@ Increases the level of **Icetide Vortex** by 3.
 {% tab title="Favonius Bladework - Edel" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 130.43% | 141.95% | 153.38% | 164.86% | 177.38% | 191.72% |
-| 2-Hit DMG | 135.98% | 147.94% | 159.91% | 171.87% | 184.93% | 199.88% |
-| 3-Hit DMG | 82.56% x2 | 89.82% x2 | 97.09% x2 | 104.35% x2 | 112.28% x2 | 121.36% x2 |
-| 4-Hit DMG | 163.73% | 178.13% | 192.54% | 206.95% | 222.67% | 240.68% |
-| 5-Hit DMG | 104.41% x2 | 113.6% x2 | 122.79% x2 | 131.97% x2 | 142% x2 | 153.48% x2 |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 89.73% | 97.04% | 104.34% | 114.77% | 122.08% | 130.43% | 141.90% | 153.38% | 164.86% | 177.38% | 191.72% |
+| 2-Hit DMG | 93.55% | 101.17% | 108.78% | 119.66% | 127.27% | 135.98% | 147.94% | 159.91% | 171.87% | 184.93% | 199.88% |
+| 3-Hit DMG \(x2\) | 56.80% | 61.42% | 66.04% | 72.65% | 77.27% | 82.56% | 89.82% | 97.09% | 104.35% | 112.28% | 121.36% |
+| 4-Hit DMG | 112.64% | 121.81% | 130.98% | 144.08% | 153.25% | 163.72% | 178.13% | 192.54% | 206.95% | 222.67% | 240.68% |
+| 5-Hit DMG \(x2\) | 71.83% | 77.68% | 83.53% | 91.88% | 97.73% | 104.41% | 113.60% | 122.79% | 131.97% | 142.00% | 153.48% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 100% | 108.8% | 117.6% | 126.4% | 136% | 147% |
-| Charged Attack Final DMG | 180.81% | 196.72% | 212.64% | 228.55% | 245.91% | 265.79% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 68.80% | 74.40% | 80.00% | 88.00% | 93.60% | 100.00% | 108.80% | 117.60% | 126.40% | 136.00% | 147.00% |
+| Charged Attack Final DMG | 124.40% | 134.52% | 144.65% | 159.12% | 169.24% | 180.81% | 196.72% | 212.64% | 228.55% | 245.90% | 265.79% |
+
+**Stamina Cost**: 40/s  
+**Max Duration**: 5s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 159.37% |
-| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
-| High Plunge DMG | 270.77% | 294.6% | 318.42% | 342.25% | 368.25% | 398.03% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 159.37% |
+| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
+| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 398.03% |
+
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 204.96% | 219.6% | 234.24% | 248.88% | 263.52% | 278.16% | 292.8% | 311.1% |
-| Hold DMG | 343.84% | 368.4% | 392.96% | 417.52% | 442.08% | 466.64% | 491.2% | 521.9% |
-| Icewhirl Brand DMG | 134.4% | 144% | 153.6% | 163.2% | 172.8% | 182.4% | 192% | 204% |
-| Physical + Cryo RES Decrease | 21% | 22% | 23% | 24% | 25% | 25% | 25% | 25% |
 
-**DEF Bonus**: 30% per stack  
-**RES Decrease Duration**: 7s per stack  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Press DMG | 146.40% | 157.38% | 168.36% | 183.00% | 193.98% | 204.96% | 219.60% | 234.24% | 248.88% | 263.52% | 278.16% | 292.80% | 311.10% |
+| Hold DMG | 245.60% | 264.02% | 282.44% | 307.00% | 325.42% | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
+| Icewhirl Brand DMG | 96.00% | 103.20% | 110.40% | 120.00% | 127.20% | 134.40% | 144.00% | 153.60% | 163.20% | 172.80% | 182.40% | 192.00% | 204.00% |
+| Physical RES Decrease | 16.00% | 17.00% | 18.00% | 19.00% | 20.00% | 21.00% | 22.00% | 23.00% | 24.00% | 25.00% | 25.00% | 25.00% | 25.00% |
+| Cryo RES Decrease | 16.00% | 17.00% | 18.00% | 19.00% | 20.00% | 21.00% | 22.00% | 23.00% | 24.00% | 25.00% | 25.00% | 25.00% | 25.00% |
+
+**DEF Bonus**: 30% Per Stack  
 **Grimheart Duration**: 18s  
+**RES Decrease Duration**: 7s  
 **Press Cooldown**: 4s  
-**Hold Cooldown**: 10s
+**Cooldown (hold)**: 10s
+
 {% endtab %}
 
 {% tab title="Glacial Illumination" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 343.84% | 368.4% | 392.96% | 417.52% | 442.08% | 466.64% | 491.2% | 521.9% |
-| Lightfall Sword Base DMG | 533.5% | 580.45% | 627.4% | 674.34% | 725.56% | 784.25% | 853.26% | 922.27% |
-| DMG Per Stack | 109% | 118.59% | 128.18% | 137.78% | 148.24% | 160.23% | 174.33% | 188.43% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 245.60% | 264.02% | 282.44% | 307.00% | 325.42% | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
+| Lightfall Sword Base DMG | 367.05% | 396.92% | 426.80% | 469.48% | 499.36% | 533.50% | 580.45% | 627.40% | 674.34% | 725.56% | 784.25% | 853.26% | 922.27% |
+| DMG Per Stack | 74.99% | 81.10% | 87.20% | 95.92% | 102.02% | 109.00% | 118.59% | 128.18% | 137.78% | 148.24% | 160.23% | 174.33% | 188.43% |
 
 **Maximum Stacks**: 30  
-**Energy Cost**: 80  
-**Cooldown:** 20s
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

@@ -148,13 +148,12 @@ Has the following properties during the ability's duration:
 ### **Mein Hausgarten**
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Stellar Predator**
 
-When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down **Thundering Retribution**, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG.
+When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing **AoE Electro DMG** equal to 152.7% of the arrow's DMG.
 
 | Attribute | Thundering Retribution |
 | :--- | :--- |
@@ -172,7 +171,8 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down **Thundering
 {% tab title="Ascension 4" %}
 ### **Undone Be Thy Sinful Hex**
 *\(previously known as **Lightning Smite**\)*  
-If your current active character triggers an Electro-related Elemental Reaction when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing Electro DMG equal to 80% of Fischl's ATK.
+
+If your current active character triggers an **Electro-related Elemental Reaction** when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing **Electro DMG** equal to 80% of Fischl's ATK.
 
 | Attribute | A4 |
 | :--- | :--- |
@@ -212,7 +212,7 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 {% tab title="C2" %}
 ### **Devourer of All Sins**
 
-When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and its AoE is increased by 50%.
+When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -225,15 +225,16 @@ When **Nightrider** is used, it deals an additional 200% ATK as Electro DMG, and
 {% tab title="C3" %}
 ### **Wings of Nightmare**
 
-Increases the level of **Nightrider** by 3.  
+Increases the Level of **Nightrider** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Her Pilgrimage of Bleak**
 
-When **Midnight Phantasmagoria** is used, it deals 222% of ATK as Electro DMG to surrounding opponents.  
-When the duration ends, Fischl regenerates 20% of her HP.
+When **Midnight Phantasmagoria** is used, it deals 222% of ATK as **Electro DMG** to surrounding opponents.  
+When the skill duration ends, Fischl regenerates 20% of her HP.
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -252,14 +253,15 @@ When the duration ends, Fischl regenerates 20% of her HP.
 {% tab title="C5" %}
 ### **Against the Fleeing Light**
 
-Increases the Level of **Midnight Phantasmagoria** by 3.  
+Increases the Level of **Midnight Phantasmagoria** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Evernight Raven**
 
-Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as Electro DMG.
+Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.
 
 | Attribute | C6 |
 | :--- | :--- |
@@ -288,47 +290,53 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 {% tab title="Bolts of Downfall" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 64.13% | 69.77% | 75.41% | 81.05% | 87.21% | 93.37% |
-| 2-Hit DMG | 68.00% | 73.98% | 79.97% | 85.95% | 92.48% | 99.01% |
-| 3-Hit DMG | 84.50% | 91.94% | 99.37% | 106.81% | 114.92% | 123.03% |
-| 4-Hit DMG | 83.88% | 91.26% | 98.64% | 106.02% | 114.07% | 122.12% |
-| 5-Hit DMG | 104.75% | 113.97% | 123.19% | 132.40% | 142.46% | 152.52% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 44.12% | 47.71% | 51.30% | 56.43% | 60.02% | 64.13% | 69.77% | 75.41% | 81.05% | 87.21% | 93.37% |
+| 2-Hit DMG | 46.78% | 50.59% | 54.40% | 59.84% | 63.65% | 68.00% | 73.98% | 79.97% | 85.95% | 92.48% | 99.01% |
+| 3-Hit DMG | 58.14% | 62.87% | 67.60% | 74.36% | 79.09% | 84.50% | 91.94% | 99.37% | 106.81% | 114.92% | 123.03% |
+| 4-Hit DMG | 57.71% | 62.40% | 67.10% | 73.81% | 78.51% | 83.88% | 91.26% | 98.64% | 106.02% | 114.07% | 122.12% |
+| 5-Hit DMG | 72.07% | 77.93% | 83.80% | 92.18% | 98.05% | 104.75% | 113.97% | 123.19% | 132.40% | 142.46% | 152.52% |
 
 ### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
-| Fully-Charged Aimed Shot | 173.60% | 186% | 198.40% | 210.80% | 223.20% | 235.60% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
+| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 235.60% |
+
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Nightrider" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Oz's ATK DMG | 124.32% | 133.20% | 142.08% | 150.96% | 159.84% | 168.72% | 177.60% | 188.70% |
-| Summoning DMG | 161.62% | 173.16% | 184.70% | 196.25% | 207.79% | 219.34% | 230.88% | 245.31% |
 
-**Duration**: 10s  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Oz's ATK DMG | 88.80% | 95.46% | 102.12% | 111.00% | 117.66% | 124.32% | 133.20% | 142.08% | 150.96% | 159.84% | 168.72% | 177.60% | 188.70% |
+| Summoning DMG | 115.44% | 124.10% | 132.76% | 144.30% | 152.96% | 161.62% | 173.16% | 184.70% | 196.25% | 207.79% | 219.34% | 230.88% | 245.31% |
+
+**Oz's Duration**: 10s  
 **Cooldown**: 25s
+
 {% endtab %}
 
 {% tab title="Midnight Phantasmagoria" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Falling Thunder DMG | 291.20% | 312% | 332.80% | 353.60% | 374.40% | 395.20% | 416% | 442% |
 
-**Energy Cost**: 60  
-**Cooldown**: 15s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Falling Thunder DMG | 208.00% | 223.60% | 239.20% | 260.00% | 275.60% | 291.20% | 312.00% | 332.80% | 353.60% | 374.40% | 395.20% | 416.00% | 442.00% |
+
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

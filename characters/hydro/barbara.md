@@ -107,13 +107,13 @@ When a Perfect Cooking is achieved on a dish with restorative effects, there is 
 {% tab title="Ascension 1" %}
 ### **Glorious Season**
 
-The Stamina Consumption of characters within **Let the Show Begin♪**’s **Melody Loop** is reduced by 12%.
+The Stamina Consumption of characters within **Let the Show Begin♪**'s **Melody Loop** is reduced by 12%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Encore**
 
-When your active character gains an Elemental Orb/Particle, the duration of **Melody Loop** is extended by 1s.  
+When your active character gains an Elemental Orb/Particle, the duration of the **Melody Loop** of **Let the Show Begin♪** is extended by 1s.
 The maximum extension is 5s.
 {% endtab %}
 {% endtabs %}
@@ -125,45 +125,51 @@ The maximum extension is 5s.
 ### **Gleeful Songs**
 
 Barbara regenerates 1 Energy every 10s.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Vitality Burst**
 
-Decreases the CD of **Let the Show Begin♪** by 15%.  
-During the ability’s duration, your active character gains a 15% Hydro DMG Bonus.
+Decreases the CD of **Let the Show Begin♪** by 15%.
+During the ability's duration, your active character gains a 15% **Hydro DMG Bonus**.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Star of Tomorrow**
 
-Increases the Level of **Shining Miracle♪** by 3.  
+Increases the Level of **Shining Miracle♪** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Attentiveness be My Power**
 
-Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.  
+Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **The Purest Companionship**
 
-Increases the Level of **Let the Show Begin♪** by 3.  
+Increases the Level of **Let the Show Begin♪** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Dedicating Everything to You**
 
-When Barbara is in the party but not on the field, and one of your own party members falls:  
-• Automatically revives the fallen character.  
-• Fully restores the revived character’s HP to 100%  
+When Barbara is in the party but not on the field, and one of your own party members falls:
+* Automatically revives the fallen character.
+* Fully restores the revived character's HP to 100%.
 This effect can only occur once every 15 mins.
 
 * This effect will not occur if the character's fallen animation is canceled by switching to another character. For more details, see: [C6 Revive Can Be Canceled by Switching](../../evidence/characters/hydro/barbara.md#c6-revive-can-be-canceled-by-switching)
+
 {% endtab %}
 {% endtabs %}
 
@@ -173,51 +179,55 @@ This effect can only occur once every 15 mins.
 {% tab title="Whisper of Water" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 52.98% | 56.76% | 60.54% | 64.33% | 68.11% | 72.05% |
-| 2-Hit DMG | 49.73% | 53.28% | 56.83% | 60.38% | 63.94% | 67.63% |
-| 3-Hit DMG | 57.46% | 61.56% | 65.66% | 69.77% | 73.87% | 78.14% |
-| 4-Hit DMG | 77.28% | 82.80% | 88.32% | 93.84% | 99.36% | 105.10% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 37.84% | 40.68% | 43.52% | 47.30% | 50.14% | 52.98% | 56.76% | 60.54% | 64.33% | 68.11% | 72.05% |
+| 2-Hit DMG | 35.52% | 38.18% | 40.85% | 44.40% | 47.06% | 49.73% | 53.28% | 56.83% | 60.38% | 63.94% | 67.63% |
+| 3-Hit DMG | 41.04% | 44.12% | 47.20% | 51.30% | 54.38% | 57.46% | 61.56% | 65.66% | 69.77% | 73.87% | 78.14% |
+| 4-Hit DMG | 55.20% | 59.34% | 63.48% | 69.00% | 73.14% | 77.28% | 82.80% | 88.32% | 93.84% | 99.36% | 105.10% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 232.74% | 249.36% | 265.98% | 282.61% | 299.23% | 316.52% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 166.24% | 178.71% | 191.18% | 207.80% | 220.27% | 232.74% | 249.36% | 265.98% | 282.61% | 299.23% | 316.52% |
 
 **Stamina Cost**: 50
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Let the Show Begin♪" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| HP Regeneration per Hit Scaling | 1.05% | 1.13% | 1.2% | 1.27% | 1.35% | 1.43% | 1.5% | 1.59% |
-| HP Regeneration per Hit Additive | 114 | 125 | 135 | 147 | 159 | 172 | 185 | 199 |
-| Continuous Regeneration Scaling | 5.6% | 6% | 6.4% | 6.8% | 7.2% | 7.6% | 8% | 8.5% |
-| Continuous Regeneration Additive | 610 | 664 | 722 | 783 | 847 | 915 | 986 | 1059 |
-| Droplet DMG | 81.76% | 87.60% | 93.44% | 99.28% | 105.12% | 110.96% | 116.80% | 124.10% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| HP Regeneration Per Hit Scaling | 0.75% | 0.81% | 0.86% | 0.94% | 0.99% | 1.05% | 1.13% | 1.20% | 1.27% | 1.35% | 1.43% | 1.50% | 1.59% |
+| HP Regeneration Per Hit Additive | 72 | 79 | 87 | 96 | 105 | 114 | 125 | 135 | 147 | 159 | 172 | 185 | 199 |
+| Continuous Regeneration Scaling | 4.00% | 4.30% | 4.60% | 5.00% | 5.30% | 5.60% | 6.00% | 6.40% | 6.80% | 7.20% | 7.60% | 8.00% | 8.50% |
+| Continuous Regeneration Additive | 385 | 424 | 465 | 510 | 559 | 610 | 664 | 722 | 783 | 847 | 915 | 986 | 1059 |
+| Droplet DMG | 58.40% | 62.78% | 67.16% | 73.00% | 77.38% | 81.76% | 87.60% | 93.44% | 99.28% | 105.12% | 110.96% | 116.80% | 124.10% |
 
 **Duration**: 15s  
 **Cooldown**: 32s
+
 {% endtab %}
 
 {% tab title="Shining Miracle♪" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Regeneration Scaling | 24.64% | 26.4% | 28.16% | 29.92% | 31.68% | 33.44% | 35.2% | 37.4% |
-| Regeneration Additive | 2683 | 2923 | 3177 | 3445 | 3728 | 4024 | 4335 | 4660 |
 
-**Energy Cost:** 80  
-**Cooldown:** 20s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Regeneration Scaling | 17.60% | 18.92% | 20.24% | 22.00% | 23.32% | 24.64% | 26.40% | 28.16% | 29.92% | 31.68% | 33.44% | 35.20% | 37.40% |
+| Regeneration Additive | 1694 | 1864 | 2047 | 2245 | 2457 | 2683 | 2923 | 3177 | 3445 | 3728 | 4024 | 4335 | 4660 |
+
+**Cooldown**: 20s  
+**Energy Cost**: 80
 
 {% endtab %}
 {% endtabs %}

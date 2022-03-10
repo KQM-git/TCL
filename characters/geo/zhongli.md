@@ -145,16 +145,16 @@ Opponents affected by **Petrification** cannot move.
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Arcanum of Crystals**
+### **Arcanum of Crystal**
 
-Refunds 15% of the ores used when crafting Polearm-type weapons.
+Refunds 15% of the ore used when crafting Polearm-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Resonant Waves**
 
-When the Jade Shield takes DMG, it will Fortify:  
-• Fortified characters have 5% increased Shield Strength.  
+When the Jade Shield takes DMG, it will Fortify:
+* Fortified characters have 5% increased Shield Strength.
 Can stack up to 5 times, and lasts until the Jade Shield disappears.
 
 **Notes**
@@ -166,10 +166,10 @@ Can stack up to 5 times, and lasts until the Jade Shield disappears.
 {% tab title="Ascension 4" %}
 ### **Dominance of Earth**
 
-Zhongli deals bonus DMG based on his Max HP:  
-• Normal Attack, Charged attack, and Plunge DMG is increased by 1.39% Max HP.  
-• Dominus Lapidis’ **Stone Stele**, resonance, and hold DMG are increased by 1.9% Max HP.  
-• Planet Befall’s DMG is increased by 33% Max HP. 
+Zhongli deals bonus DMG based on his Max HP:
+* Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.
+* **Dominus Lapidis'** **Stone Stele**, resonance, and hold DMG is increased by 1.9% of Max HP.
+* **Planet Befall's** DMG is increased by 33% of Max HP.
 {% endtab %}
 {% endtabs %}
 
@@ -179,7 +179,7 @@ Zhongli deals bonus DMG based on his Max HP:
 {% tab title="C1" %}
 ### **Rock, the Backbone of Earth**
 
-Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that may exist simultaneously to 2.
+Increases the maximum number of Stone Steles created by **Dominus Lapidis** that may exist simultaneously to 2.
 
 * Steles resonate independently and do not resonate with each other
 {% endtab %}
@@ -187,7 +187,7 @@ Increase the maximum amount of **Stone Steles** created by Dominus Lapidis that 
 {% tab title="C2" %}
 ### **Stone, the Cradle of Jade**
 
-Planet Befall grants nearby characters on the field a **Jade Shield** when it descends.
+**Planet Befall** grants nearby characters on the field a **Jade Shield** when it descends.
 
 * The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
 {% endtab %}
@@ -195,28 +195,32 @@ Planet Befall grants nearby characters on the field a **Jade Shield** when it de
 {% tab title="C3" %}
 ### **Jade, Shimmering through Darkness**
 
-Increases the Level of Dominus Lapidis by 3.  
+Increases the Level of **Dominus Lapidis** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Topaz, Unbreakable and Fearless**
 
-Increases **Planet Befall**’s AoE by 20% and increases the duration of **Petrification** by 2 seconds.
+Increases **Planet Befall**'s AoE by 20% and increases the duration of **Planet Befall**'s **Petrification** effect by 2s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Lazuli, Herald of the Order**
 
-Increases the Level of Planet Befall by 3.  
+Increases the Level of **Planet Befall** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Chrysos, Bounty of Dominator**
 
-When **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current on-field character.  
-A single instance of the regeneration cannot exceed 8% of the character’s Max HP.
+When the **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current character.
+A single instance of regeneration cannot exceed 8% of that character's Max HP.
+
 {% endtab %}
 {% endtabs %}
 
@@ -226,54 +230,59 @@ A single instance of the regeneration cannot exceed 8% of the character’s Max 
 {% tab title="Rain of Stone" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 44.72% | 48.66% | 52.59% | 56.53% | 60.82% | 65.74% |
-| 2-Hit DMG | 45.28% | 49.26% | 53.25% | 57.23% | 61.58% | 66.56% |
-| 3-Hit DMG | 56.07% | 61% | 65.94% | 70.87% | 76.26% | 82.42% |
-| 4-Hit DMG | 62.41% | 67.90% | 73.40% | 78.89% | 84.88% | 91.74% |
-| 5-Hit DMG \(x4\)% | 15.63% | 17% | 18.38% | 19.75% | 21.25% | 22.97% |
-| 6-Hit DMG | 79.21% | 86.18% | 93.15% | 100.12% | 107.73% | 116.44% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 30.77% | 33.27% | 35.78% | 39.36% | 41.86% | 44.72% | 48.66% | 52.59% | 56.53% | 60.82% | 65.74% |
+| 2-Hit DMG | 31.15% | 33.69% | 36.22% | 39.85% | 42.38% | 45.28% | 49.26% | 53.25% | 57.23% | 61.58% | 66.56% |
+| 3-Hit DMG | 38.58% | 41.72% | 44.86% | 49.34% | 52.48% | 56.07% | 61.00% | 65.94% | 70.87% | 76.26% | 82.42% |
+| 4-Hit DMG | 42.94% | 46.43% | 49.93% | 54.92% | 58.42% | 62.41% | 67.90% | 73.40% | 78.89% | 84.88% | 91.74% |
+| 5-Hit DMG (×4) | 10.75% | 11.63% | 12.50% | 13.75% | 14.62% | 15.63% | 17.00% | 18.38% | 19.75% | 21.25% | 22.97% |
+| 6-Hit DMG | 54.50% | 58.93% | 63.37% | 69.70% | 74.14% | 79.21% | 86.18% | 93.15% | 100.12% | 107.73% | 116.44% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 161.38% | 175.58% | 189.78% | 203.98% | 219.47% | 237.22% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 111.03% | 120.06% | 129.10% | 142.01% | 151.05% | 161.37% | 175.58% | 189.78% | 203.98% | 219.47% | 237.22% |
 
 **Stamina Cost**: 25
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Dominus Lapidis" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Stone Stele | 22.40% | 24% | 25.60% | 27.20% | 28.80% | 30.40% | 32% | 34% |
-| Resonance DMG | 44.80% | 48% | 51.20% | 54.40% | 57.60% | 60.80% | 64% | 68% |
-| Hold DMG | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
-| Shield Base Absorption | 1951% | 2126% | 2311% | 2506% | 2712% | 2927% | 3153% | 3389% |
-| Additional Shield Absorption | 17.92% | 19.2% | 20.48% | 21.76% | 23.04% | 24.32% | 25.6% | 27.2% |
 
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Stone Stele | 16.0% | 17.2% | 18.4% | 20.0% | 21.2% | 22.4% | 24.0% | 25.6% | 27.2% | 28.8% | 30.4% | 32.0% | 34.0% |
+| Resonance DMG | 32.0% | 34.4% | 36.8% | 40.0% | 42.4% | 44.8% | 48.0% | 51.2% | 54.4% | 57.6% | 60.8% | 64.0% | 68.0% |
+| Hold DMG | 80% | 86% | 92% | 100% | 106% | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
+| Shield Base Absorption | 1232 | 1356 | 1489 | 1633 | 1787 | 1951 | 2126 | 2311 | 2506 | 2712 | 2927 | 3153 | 3389 |
+| Additional Shield Absorption | 12.80% Max HP | 13.76% Max HP | 14.72% Max HP | 16.00% Max HP | 16.96% Max HP | 17.92% Max HP | 19.20% Max HP | 20.48% Max HP | 21.76% Max HP | 23.04% Max HP | 24.32% Max HP | 25.60% Max HP | 27.20% Max HP |
+
+**Press Cooldown**: 4s  
 **Shield Duration**: 20s  
-**Cooldown \(press\)**: 4s  
-**Cooldown \(hold\)**: 12s
+**Cooldown (hold)**: 12s
+
 {% endtab %}
 
 {% tab title="Planet Befall" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 639.56% | 704.60% | 769.64% | 834.68% | 899.72% | 964.76% | 1029.80% | 1084% |
-| Petrification Duration | 3.6 | 3.7 | 3.8 | 3.9 | 4 | 4 | 4 | 4 |
 
-**Energy Cost**: 40  
-**Cooldown**: 12s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 401.08% | 444.44% | 487.80% | 542.00% | 590.78% | 639.56% | 704.60% | 769.64% | 834.68% | 899.72% | 964.76% | 1029.80% | 1084.00% |
+| Petrification Duration | 3.1s | 3.2s | 3.3s | 3.4s | 3.5s | 3.6s | 3.7s | 3.8s | 3.9s | 4.0s | 4.0s | 4.0s | 4.0s |
+
+**Cooldown**: 12s  
+**Energy Cost**: 40
+
 {% endtab %}
 {% endtabs %}
 

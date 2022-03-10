@@ -156,21 +156,21 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 ### **All-Preserver**
 
 Mora expended when ascending Swords and Polearms is decreased by 50%.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
 ### **Wishes Unnumbered**
 
-When nearby party members gain Elemental Orbs or Particles, **Chakra Desiderata** gains 2 **Resolve Stacks**. This effect can occur once every 3s.
+When nearby party members gain Elemental Orbs or Particles, **Chakra Desiderata** gains 2 **Resolve stacks**.
+This effect can occur once every 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **Enlightened One**
 
-Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:  
-• 0.6% greater Energy restoration from **Musou Isshin**  
-• 0.4% Electro DMG Bonus
+Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
+* 0.6% greater Energy restoration from **Musou Isshin**
+* 0.4% **Electro DMG Bonus**.
 {% endtab %}
 {% endtabs %}
 
@@ -180,13 +180,15 @@ Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
 {% tab title="C1" %}
 ### **Ominous Inscription**
 
-**Chakra Desiderata** will gather **Resolve** even faster. When Electro characters use their Elemental Bursts, the **Resolve** gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the **Resolve** gained is increased by 20%.
+**Chakra Desiderata** will gather **Resolve** even faster. When **Electro** characters use their Elemental Bursts, the **Resolve** gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the **Resolve** gained is increased by 20%.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Steelbreaker**
 
 While using **Musou no Hitotachi** and in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
+
 * The effects of The Raiden Shogun's C2 applies to both her Elemental Burst and Elemental skill.  
 * The defense ignore is multiplicative with defense shred.
 {% endtab %}
@@ -194,21 +196,24 @@ While using **Musou no Hitotachi** and in the **Musou Isshin** state applied by 
 {% tab title="C3" %}
 ### **Shinkage Bygones**
 
-Increases the Level of **Secret Art: Musou Shinsetsu** by 3.  
+Increases the Level of **Secret Art: Musou Shinsetsu** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Pledge of Propriety**
 
 When the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu** expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Shogun's Descent**
 
-Increases the Level of **Transcendence: Baleful Omen** by 3.  
+Increases the Level of **Transcendence: Baleful Omen** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
@@ -216,74 +221,78 @@ Maximum upgrade level is 15.
 
 While in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.  
 This effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.
+
 {% endtab %}
 {% endtabs %}
 
 ## **Full Talent Values**
 
-{% tabs %}{% tab title="Origin" %}
+{% tabs %}
+{% tab title="Origin" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 57.63% | 62.7% | 67.77% | 72.84% | 78.37% | 84.71% |
-| 2-Hit DMG | 57.75% | 62.83% | 67.91% | 73% | 78.54% | 84.89% |
-| 3-Hit DMG | 72.5% | 78.88% | 85.26% | 91.64% | 98.6% | 106.58% |
-| 4-Hit DMG | 42.13% + 42.13% | 45.83% + 45.83% | 49.54% + 49.54% | 53.25% + 53.25% | 57.29% + 57.29% | 61.92% + 61.92% |
-| 5-Hit DMG | 95.13% | 103.5% | 111.87% | 120.24% | 129.37% | 139.83% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 39.65% | 42.87% | 46.10% | 50.71% | 53.94% | 57.63% | 62.70% | 67.77% | 72.84% | 78.37% | 84.71% |
+| 2-Hit DMG | 39.73% | 42.97% | 46.20% | 50.82% | 54.05% | 57.75% | 62.83% | 67.91% | 73.00% | 78.54% | 84.89% |
+| 3-Hit DMG | 49.88% | 53.94% | 58.00% | 63.80% | 67.86% | 72.50% | 78.88% | 85.26% | 91.64% | 98.60% | 106.58% |
+| 4-Hit DMG | 28.98%+28.98% | 31.34%+31.34% | 33.70%+33.70% | 37.07%+37.07% | 39.43%+39.43% | 42.12%+42.12% | 45.83%+45.83% | 49.54%+49.54% | 53.25%+53.25% | 57.29%+57.29% | 61.92%+61.92% |
+| 5-Hit DMG | 65.45% | 70.77% | 76.10% | 83.71% | 89.04% | 95.13% | 103.50% | 111.87% | 120.24% | 129.37% | 139.83% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 144.75% | 157.49% | 170.23% | 182.96% | 196.86% | 212.78% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 99.59% | 107.69% | 115.80% | 127.38% | 135.49% | 144.75% | 157.49% | 170.23% | 182.96% | 196.86% | 212.78% |
 
-**Stamina Cost:**  25
+**Stamina Cost**: 25
 
-### Plunge 
+### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 92.93% | 101.1% | 109.28% | 117.46% | 126.38% | 135.3% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.7% | 270.54% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
+
 {% endtab %}
 
 {% tab title="Transcendence: Baleful Omen" %}
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 164.08% | 175.8% | 187.52% | 199.24% | 210.96% | 222.68% | 234.4% | 249.05% |
-| Coordinated ATK DMG | 58.8% | 63% | 67.2% | 71.4% | 75.6% | 79.8% | 84% | 89.25% |
-| Elemental Burst DMG Bonus | 0.27 Per Energy | 0.28 Per Energy | 0.29 Per Energy | 0.3 Per Energy | 0.3 Per Energy | 0.3 Per Energy | 0.3 Per Energy | 0.3 Per Energy |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 117.20% | 125.99% | 134.78% | 146.50% | 155.29% | 164.08% | 175.80% | 187.52% | 199.24% | 210.96% | 222.68% | 234.40% | 249.05% |
+| Coordinated ATK DMG | 42.00% | 45.15% | 48.30% | 52.50% | 55.65% | 58.80% | 63.00% | 67.20% | 71.40% | 75.60% | 79.80% | 84.00% | 89.25% |
+| Elemental Burst DMG Bonus (per Energy) | 0.22% | 0.23% | 0.24% | 0.25% | 0.26% | 0.27% | 0.28% | 0.29% | 0.30% | 0.30% | 0.30% | 0.30% | 0.30% |
 
+**Duration**: 25s  
+**Cooldown**: 10s
 
-**Duration:**  25 s
-**Cooldown:**  10 s
 {% endtab %}
 
 {% tab title="Secret Art: Musou Shinsetsu" %}
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Musou no Hitotachi Base DMG | 561.12% | 601.2% | 641.28% | 681.36% | 721.44% | 761.52% | 801.6% | 851.7% |
-| Resolve Bonus | 5.44% Initial/ 1.02% ATK DMG Per Stack | 5.83% Initial/ 1.09% ATK DMG Per Stack | 6.22% Initial/ 1.16% ATK DMG Per Stack | 6.61% Initial/ 1.23% ATK DMG Per Stack | 7% Initial/ 1.31% ATK DMG Per Stack | 7.39% Initial/ 1.38% ATK DMG Per Stack | 7.78% Initial/ 1.45% ATK DMG Per Stack | 8.26% Initial/ 1.54% ATK DMG Per Stack |
-| Resolve Stacks Gained | 0.18 Per Energy Consumed | 0.18 Per Energy Consumed | 0.19 Per Energy Consumed | 0.19 Per Energy Consumed | 0.2 Per Energy Consumed | 0.2 Per Energy Consumed | 0.2 Per Energy Consumed | 0.2 Per Energy Consumed |
-| 1-Hit DMG | 61.51% | 66.09% | 70.66% | 75.24% | 79.82% | 84.39% | 88.97% | 93.54% |
-| 2-Hit DMG | 60.44% | 64.94% | 69.43% | 73.93% | 78.42% | 82.92% | 87.41% | 91.91% |
-| 3-Hit DMG | 74% | 79.51% | 85.01% | 90.52% | 96.02% | 101.53% | 107.03% | 112.54% |
-| 4-Hit DMG | 42.47% + 42.59% | 45.63% + 45.76% | 48.79% + 48.93% | 51.95% + 52.1% | 55.11% + 55.26% | 58.27% + 58.43% | 61.43% + 61.6% | 64.58% + 64.77% |
-| 5-Hit DMG | 101.67% | 109.24% | 116.8% | 124.36% | 131.92% | 139.48% | 147.05% | 154.61% |
-| Charged Attack DMG | 84.7% + 102.25% | 91% + 109.85% | 97.3% + 117.46% | 103.6% + 125.06% | 109.9% + 132.67% | 116.2% + 140.27% | 122.5% + 147.88% | 128.8% + 155.48% |
-| Plunge DMG | 92.93% | 101.1% | 109.28% | 117.46% | 126.38% | 135.3% | 144.22% | 153.14% |
-| Low Plunge DMG | 185.81% | 202.16% | 218.51% | 234.86% | 252.7% | 270.54% | 288.38% | 306.22% |
-| High Plunge DMG | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% | 360.2% | 382.48% |
-| Musou Isshin Energy Restoration | 2.1 | 2.2 | 2.3 | 2.4 | 2.5 | 2.5 | 2.5 | 2.5 |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Musou no Hitotachi Base DMG | 400.80% | 430.86% | 460.92% | 501.00% | 531.06% | 561.12% | 601.20% | 641.28% | 681.36% | 721.44% | 761.52% | 801.60% | 851.70% |
+| Resolve Bonus | 3.89% Initial/0.73% ATK DMG Per Stack | 4.18% Initial/0.78% ATK DMG Per Stack | 4.47% Initial/0.84% ATK DMG Per Stack | 4.86% Initial/0.91% ATK DMG Per Stack | 5.15% Initial/0.96% ATK DMG Per Stack | 5.44% Initial/1.02% ATK DMG Per Stack | 5.83% Initial/1.09% ATK DMG Per Stack | 6.22% Initial/1.16% ATK DMG Per Stack | 6.61% Initial/1.23% ATK DMG Per Stack | 7.00% Initial/1.31% ATK DMG Per Stack | 7.39% Initial/1.38% ATK DMG Per Stack | 7.78% Initial/1.45% ATK DMG Per Stack | 8.26% Initial/1.54% ATK DMG Per Stack |
+| Resolve Stacks Gained (Per Energy Consumed) | 0.15 | 0.16 | 0.16 | 0.17 | 0.17 | 0.18 | 0.18 | 0.19 | 0.19 | 0.20 | 0.20 | 0.20 | 0.20 |
+| 1-Hit DMG | 44.74% | 47.79% | 50.84% | 54.90% | 57.96% | 61.51% | 66.09% | 70.66% | 75.24% | 79.82% | 84.39% | 88.97% | 93.54% |
+| 2-Hit DMG | 43.96% | 46.95% | 49.95% | 53.95% | 56.94% | 60.44% | 64.93% | 69.43% | 73.93% | 78.42% | 82.92% | 87.41% | 91.91% |
+| 3-Hit DMG | 53.82% | 57.49% | 61.16% | 66.05% | 69.72% | 74.00% | 79.51% | 85.01% | 90.52% | 96.02% | 101.53% | 107.03% | 112.54% |
+| 4-Hit DMG | 30.89%+30.98% | 32.99%+33.09% | 35.10%+35.20% | 37.91%+38.02% | 40.01%+40.13% | 42.47%+42.59% | 45.63%+45.76% | 48.79%+48.93% | 51.95%+52.10% | 55.11%+55.26% | 58.27%+58.43% | 61.43%+61.60% | 64.58%+64.77% |
+| 5-Hit DMG | 73.94% | 78.99% | 84.03% | 90.75% | 95.79% | 101.67% | 109.24% | 116.80% | 124.36% | 131.92% | 139.48% | 147.05% | 154.61% |
+| Charged Attack DMG | 61.60%+74.36% | 65.80%+79.43% | 70.00%+84.50% | 75.60%+91.26% | 79.80%+96.33% | 84.70%+102.24% | 91.00%+109.85% | 97.30%+117.46% | 103.60%+125.06% | 109.90%+132.67% | 116.20%+140.27% | 122.50%+147.87% | 128.80%+155.48% |
+| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% | 144.22% | 153.14% |
+| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% | 288.38% | 306.22% |
+| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% | 360.20% | 382.48% |
+| Musou Isshin Energy Restoration | 1.6 | 1.7 | 1.8 | 1.9 | 2.0 | 2.1 | 2.2 | 2.3 | 2.4 | 2.5 | 2.5 | 2.5 | 2.5 |
 
-**Charged Attack Stamina Cost:** 20  
-**Musou Isshin Duration:** 7 s  
-**Cooldown:**  18 s  
-**Energy Cost:**  90
+**Charged Attack Stamina Cost**: 20  
+**Musou Isshin Duration**: 7s  
+**Cooldown**: 18s  
+**Energy Cost**: 90
+
 {% endtab %}
 {% endtabs %}
 

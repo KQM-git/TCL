@@ -143,19 +143,20 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 {% tab title="Passive" %}
 ### **Complimentary Bar Food**
 
-When Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
+When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Cat’s Tail Secret Menu**
+### **Cat's Tail Secret Menu**
 
 Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.  
 
 * Ths can stack with other forms of stamina reduction as long as they are not the exact same.  
+
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Drunkards’ Farce**
+### **Drunkards' Farce**
 
 Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 {% endtab %}
@@ -168,43 +169,50 @@ Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 ### **A Lingering Flavor**
 
 Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Shaken, Not Purred**
 
-Increases **Icy Paws**’ DMG by 15%, and increases its shield’s DMG Absorption by 15%. Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield’s DMG Absorption for 5s.
+Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.
+Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s.
 
 * This DMG increase is **Additive**.
 {% endtab %}
 
 {% tab title="C3" %}
-### **A-Another Round?**
+### **A—Another Round?**
 
 Increases the Level of **Signature Mix** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Wine Industry Slayer**
 
-Within the radius of **Signature Mix**, Diona’s charge time for Aimed Shots is reduced by 60%
+Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Double Shot, On The Rocks**
 
 Increases the Level of **Icy Paws** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
-### **Cat’s Tail Closing Time**
+### **Cat's Tail Closing Time**
 
-Characters within **Signature Mix**’s radius will gain the following effects:
-
+Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:
 * Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
-* Elemental Mastery Increased by 200 when HP is above 50%.
+* Elemental Mastery increased by 200 when HP is above 50%.
 
-The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
+**Notes**
+* The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
 {% endtab %}
 {% endtabs %}
 
@@ -214,53 +222,58 @@ The Elemental Mastery bonus will apply immediately on swap and linger for 2 seco
 {% tab title="Kätzlein Style" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 52.50% | 57.12% | 61.74% | 66.36% | 71.40% | 77.18% |
-| 2-Hit DMG | 48.75% | 53.04% | 57.33% | 61.62% | 66.30% | 71.66% |
-| 3-Hit DMG | 66.25% | 72.08% | 77.91% | 83.74% | 90.10% | 97.39% |
-| 4-Hit DMG | 62.50% | 68% | 73.50% | 79% | 85% | 91.88% |
-| 5-Hit DMG | 78.13% | 85% | 91.88% | 98.75% | 106.25% | 114.84% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 36.12% | 39.06% | 42.00% | 46.20% | 49.14% | 52.50% | 57.12% | 61.74% | 66.36% | 71.40% | 77.17% |
+| 2-Hit DMG | 33.54% | 36.27% | 39.00% | 42.90% | 45.63% | 48.75% | 53.04% | 57.33% | 61.62% | 66.30% | 71.66% |
+| 3-Hit DMG | 45.58% | 49.29% | 53.00% | 58.30% | 62.01% | 66.25% | 72.08% | 77.91% | 83.74% | 90.10% | 97.39% |
+| 4-Hit DMG | 43.00% | 46.50% | 50.00% | 55.00% | 58.50% | 62.50% | 68.00% | 73.50% | 79.00% | 85.00% | 91.87% |
+| 5-Hit DMG | 53.75% | 58.13% | 62.50% | 68.75% | 73.12% | 78.13% | 85.00% | 91.87% | 98.75% | 106.25% | 114.84% |
 
 ### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
-| Fully-Charged Aimed Shot | 173.60% | 186% | 198.40% | 210.80% | 223.20% | 236.10% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
+| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 236.10% |
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Icy Paws" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Icy Paw DMG \(per Paw\) | 58.69% | 62.88% | 67.07% | 71.26% | 75.46% | 79.65% | 83.84% | 89.08% |
-| Base Shield DMG Absorption Scaling | 10.08% | 10.8% | 11.52% | 12.24% | 12.96% | 13.68% | 14.4% | 15.3% |
-| Base Shield DMG Absorption Additive | 1097 | 1195 | 1299 | 1409 | 1524 | 1646 | 1773 | 1905 |
-| Duration \(per Paw\) | 2.3 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 | 2.4 |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Icy Paw DMG \(per Paw\) | 41.92% | 45.06% | 48.21% | 52.40% | 55.54% | 58.69% | 62.88% | 67.07% | 71.26% | 75.46% | 79.65% | 83.84% | 89.08% |
+| Base Shield DMG Absorption Scaling | 7.20% Max HP | 7.74% Max HP | 8.28% Max HP | 9.00% Max HP | 9.54% Max HP | 10.08% Max HP | 10.80% Max HP | 11.52% Max HP | 12.24% Max HP | 12.96% Max HP | 13.68% Max HP | 14.40% Max HP | 15.30% Max HP |
+| Base Shield DMG Absorption Additive | 693 | 762 | 837 | 918 | 1005 | 1097 | 1195 | 1299 | 1409 | 1524 | 1646 | 1773 | 1905 |
+| Duration \(per Paw\) | 1.8s | 1.9s | 2.0s | 2.1s | 2.2s | 2.3s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s |
 
 **Press Cooldown**: 6s  
-**Hold Cooldown**: 15s
+**Holding Cooldown**: 15s
+
 {% endtab %}
 
 {% tab title="Signature Mix" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
-| Continuous Field DMG | 73.70% | 78.96% | 84.22% | 89.49% | 94.75% | 100.02% | 105.28% | 111.86% |
-| HP Regeneration Over Time Scaling | 7.47% | 8% | 8.54% | 9.07% | 9.6% | 10.14% | 10.67% | 11.34% |
-| HP Regeneration Over Time Additive | 813 | 885 | 962 | 1044 | 1129 | 1219 | 1313 | 1411 |
 
-**Energy Cost**: 80  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 80.00% | 86.00% | 92.00% | 100.00% | 106.00% | 112.00% | 120.00% | 128.00% | 136.00% | 144.00% | 152.00% | 160.00% | 170.00% |
+| Continuous Field DMG | 52.64% | 56.59% | 60.54% | 65.80% | 69.75% | 73.70% | 78.96% | 84.22% | 89.49% | 94.75% | 100.02% | 105.28% | 111.86% |
+| HP Regeneration Over Time Scaling | 5.34% | 5.74% | 6.14% | 6.67% | 7.07% | 7.47% | 8.00% | 8.54% | 9.07% | 9.60% | 10.14% | 10.67% | 11.34% |
+| HP Regeneration Over Time Additive | 513 | 565 | 620 | 680 | 744 | 813 | 885 | 962 | 1044 | 1129 | 1219 | 1313 | 1411 |
+
 **Duration**: 12s  
-**Cooldown**: 20s
+**Cooldown**: 20s  
+**Energy Cost**: 80
+
 {% endtab %}
 {% endtabs %}
 

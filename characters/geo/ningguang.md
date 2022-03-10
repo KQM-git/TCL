@@ -130,7 +130,7 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 {% tab title="Passive" %}
 ### **Trove of Marvelous Treasures**
 
-Displays the locations of nearby ore veins on the mini-map.
+Displays the location of nearby **ore veins used in forging** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
@@ -142,7 +142,7 @@ When Ningguang is in possession of **Star Jades**, her Charged Attack does not c
 {% tab title="Ascension 4" %}
 ### **Strategic Reserve**
 
-A character that passes through the **Jade Screen** will gain a 12% Geo DMG Bonus for 10s.
+A character that passes through the **Jade Screen** will gain a 12% **Geo DMG Bonus** for 10s.
 {% endtab %}
 {% endtabs %}
 
@@ -150,45 +150,51 @@ A character that passes through the **Jade Screen** will gain a 12% Geo DMG Bonu
 
 {% tabs %}
 {% tab title="C1" %}
-### *Piercing Fragments*
+### **Piercing Fragments**
 
-When a Normal Attack hits, it deals AoE Geo DMG.
+When a Normal Attack hits, it deals AoE DMG.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Shock Effect**
 
-When **Jade Screen** is shattered, its CD will reset.  
-This effect can occur once every 6s.
+When **Jade Screen** is shattered, its CD will reset.
+Can occur once every 6s.
 
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Majesty be the Array of Stars**
 
-Increases the Level of **Starshatter** by 3.  
+Increases the Level of **Starshatter** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
-**Exquisite be the Jade, Outshining All Beneath**
+### **Exquisite be the Jade, Outshining All Beneath**
 
-**Jade Screen** increases nearby characters’ Elemental Resistance by 10%
+**Jade Screen** increases nearby characters' Elemental RES by 10%.
+
 {% endtab %}
 
 {% tab title="C5" %}
-**Invincible be the Jade Screen**
+### **Invincible be the Jade Screen**
 
-Increases the Level of **Jade Screen** by 3.  
+Increases the Level of **Jade Screen** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Grandeur be the Seven Stars**
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
+
 {% endtab %}
 {% endtabs %}
 
@@ -198,44 +204,50 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 {% tab title="Sparkling Scatter" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Normal Attack DMG | 39.20% x 2 | 42% x 2 | 44.80% x 2 | 47.60% x 2 | 50.40% x 2 | 53.31% x 2 |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal Attack DMG | 28.00% | 30.10% | 32.20% | 35.00% | 37.10% | 39.20% | 42.00% | 44.80% | 47.60% | 50.40% | 53.31% |
+
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 243.71% | 261.12% | 278.53% | 295.94% | 313.34% | 331.45% |
-| DMG per Star Jade | 69.44% | 74.40% | 79.36% | 84.32% | 89.28% | 94.44% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 174.08% | 187.14% | 200.19% | 217.60% | 230.66% | 243.71% | 261.12% | 278.53% | 295.94% | 313.34% | 331.45% |
+| DMG per Star Jade | 49.60% | 53.32% | 57.04% | 62.00% | 65.72% | 69.44% | 74.40% | 79.36% | 84.32% | 89.28% | 94.44% |
 
 **Stamina Cost**: 50
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Jade Screen" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Inherited HP | 66% | 69.90% | 73.80% | 77.70% | 81.60% | 85.50% | 89.40% | 93.30% |
-| Skill DMG | 322.56% | 345.60% | 368.64% | 391.68% | 414.72% | 437.76% | 460.80% | 489.60% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Inherited HP | 50.10% | 53.10% | 56.10% | 60.00% | 63.00% | 66.00% | 69.90% | 73.80% | 77.70% | 81.60% | 85.50% | 89.40% | 93.30% |
+| Skill DMG | 230.40% | 247.68% | 264.96% | 288.00% | 305.28% | 322.56% | 345.60% | 368.64% | 391.68% | 414.72% | 437.76% | 460.80% | 489.60% |
 
 **Cooldown**: 12s
+
 {% endtab %}
 
 {% tab title="Starshatter" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DMG Per Gem | 121.74% | 130.44% | 139.14% | 147.83% | 156.53% | 165.22% | 173.92% | 184.79% |
 
-**Energy Cost**: 40  
-**Cooldown**: 12s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DMG Per Gem | 86.96% | 93.48% | 100.00% | 108.70% | 115.22% | 121.74% | 130.44% | 139.14% | 147.83% | 156.53% | 165.22% | 173.92% | 184.79% |
+
+**Cooldown**: 12s  
+**Energy Cost**: 40
+
 {% endtab %}
 {% endtabs %}
 

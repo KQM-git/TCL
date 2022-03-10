@@ -170,11 +170,11 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 {% tab title="Passive" %}
 ### **Principium of Astrology**
 
-When Mona crafts Weapon Ascension Materials, She has a 25% chance to refund a portion of the crafting materials used.
+When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **“Come ‘n’ Get me, Hag!”**
+### **"Come 'n' Get Me, Hag!"**
 
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**.
 A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**.
@@ -188,7 +188,7 @@ A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equa
 {% tab title="Ascension 4" %}
 ### **Waterborne Destiny**
 
-Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy Recharge rate.
+Increases Mona's **Hydro DMG Bonus** by a degree equivalent to 20% of her Energy Recharge rate.
 
 * The Hydro DMG Bonus increase only shows when Mona is in an active party.
 
@@ -201,11 +201,11 @@ Increases Mona’s Hydro DMG Bonus by a degree equivalent to 20% of her Energy R
 {% tab title="C1" %}
 ### **Prophecy of Submersion**
 
-When any of your own party members hit an opponent affected by an **Omen**, Hydro-related Elemental Reactions are enhanced for 8s:  
-• Electro-Charged DMG increases by 15%  
-• Vaporize DMG increases by 15%  
-• Hydro Swirl DMG increases by 15%  
-• Frozen duration is extended by 15%
+When any of your own party members hits an opponent affected by an **Omen**, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:
+* Electro-Charged DMG increases by 15%.
+* Vaporize DMG increases by 15%.
+* Hydro Swirl DMG increases by 15%.
+* Frozen duration is extended by 15%.
 
 **Notes**  
 This bonus effect is additive and classified as **ReactionBonus.** See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#amplifying-reaction-bonus)
@@ -214,12 +214,13 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 * Vaporize DMG bonus can be snapshotted.
 * Hydro Swirl and Electro-Charged DMG bonus do not snapshot and require the reaction owner to be onfield.
 * **Prophecy of Submersion** does not extend Frozen.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Lunar Chain**
 
-When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.  
+When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.
 This effect can only occur once every 5s.
 
 * This Charged Attack is not fast enough to do an automatic double Vaporize.
@@ -229,14 +230,15 @@ This effect can only occur once every 5s.
 {% tab title="C3" %}
 ### **Restless Revolution**
 
-Increases the Level of **Stellaris Phantasm** by 3.  
+Increases the Level of **Stellaris Phantasm** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Prophecy of Oblivion**
 
-When any party member attacks an opponent affected by an **Omen**, their Crit Rate is increased by 15%.  
+When any party member attacks an opponent affected by an **Omen**, their CRIT Rate is increased by 15%.
 
 * This bonus only applies to the target(s) affected by the Omen and does not appear in the stat page.
 {% endtab %}
@@ -244,17 +246,17 @@ When any party member attacks an opponent affected by an **Omen**, their Crit Ra
 {% tab title="C5" %}
 ### **Mockery of Fortuna**
 
-Increases the Level of **Mirror Reflection of Doom** by 3.  
+Increases the Level of **Mirror Reflection of Doom** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Rhetorics of Calamitas**
 
 Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next **Charged Attack** per second of movement.
+A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.
 
-* A maximum DMG Bonus of 180% can be achieved in this manner.
-* The effect lasts for no more than 8s.
 {% endtab %}
 {% endtabs %}
 
@@ -264,49 +266,54 @@ Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her 
 {% tab title="Ripple of Fate" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 52.64% | 56.40% | 60.16% | 63.92% | 67.68% | 71.44% |
-| 2-Hit DMG | 50.40% | 54% | 57.60% | 61.20% | 64.80% | 68.40% |
-| 3-Hit DMG | 62.72% | 67.20% | 71.68% | 76.16% | 80.64% | 85.12% |
-| 4-Hit DMG | 78.62% | 84.24% | 89.86% | 95.47% | 101.09% | 106.70% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 37.60% | 40.42% | 43.24% | 47.00% | 49.82% | 52.64% | 56.40% | 60.16% | 63.92% | 67.68% | 71.44% |
+| 2-Hit DMG | 36.00% | 38.70% | 41.40% | 45.00% | 47.70% | 50.40% | 54.00% | 57.60% | 61.20% | 64.80% | 68.40% |
+| 3-Hit DMG | 44.80% | 48.16% | 51.52% | 56.00% | 59.36% | 62.72% | 67.20% | 71.68% | 76.16% | 80.64% | 85.12% |
+| 4-Hit DMG | 56.16% | 60.37% | 64.58% | 70.20% | 74.41% | 78.62% | 84.24% | 89.86% | 95.47% | 101.09% | 106.70% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 209.61% | 224.58% | 239.55% | 254.52% | 269.50% | 285.07% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 149.72% | 160.95% | 172.18% | 187.15% | 198.38% | 209.61% | 224.58% | 239.55% | 254.52% | 269.50% | 285.07% |
 
 **Stamina Cost**: 50
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Mirror Reflection of Doom" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 44.80% | 48% | 51.20% | 54.40% | 57.60% | 60.80% | 64% | 68% |
-| Explosion DMG | 185.92% | 199.20% | 212.48% | 225.76% | 239.04% | 252.32% | 265.60% | 282.20 |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DoT | 32.00% | 34.40% | 36.80% | 40.00% | 42.40% | 44.80% | 48.00% | 51.20% | 54.40% | 57.60% | 60.80% | 64.00% | 68.00% |
+| Explosion DMG | 132.80% | 142.76% | 152.72% | 166.00% | 175.96% | 185.92% | 199.20% | 212.48% | 225.76% | 239.04% | 252.32% | 265.60% | 282.20% |
 
 **Cooldown**: 12s
+
 {% endtab %}
 
 {% tab title="Stellaris Phantasm" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Illusory Bubble Explosion DMG | 619.36% | 663.60% | 707.84% | 752.08% | 796.32% | 840.56% | 884.80% | 940.10% |
-| DMG Bonus | 52% | 54% | 56% | 58% | 60% | 60% | 60% | 60% |
-| Omen Duration | 4.5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 
-**Energy Cost**: 60  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Illusory Bubble Explosion DMG | 442.40% | 475.58% | 508.76% | 553.00% | 586.18% | 619.36% | 663.60% | 707.84% | 752.08% | 796.32% | 840.56% | 884.80% | 940.10% |
+| DMG Bonus | 42% | 44% | 46% | 48% | 50% | 52% | 54% | 56% | 58% | 60% | 60% | 60% | 60% |
+| Omen Duration | 4.0s | 4.0s | 4.0s | 4.5s | 4.5s | 4.5s | 5.0s | 5.0s | 5.0s | 5.0s | 5.0s | 5.0s | 5.0s |
+
 **Illusory Bubble Duration**: 8s  
-**Cooldown**: 15s
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

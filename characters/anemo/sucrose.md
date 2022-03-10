@@ -246,11 +246,12 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 | Additional Elemental DMG | 44.0% | 47.3% | 50.6% | 55.0% | 58.3% | 61.6% | 66.0% | 70.4% | 74.8% | 79.2% | 83.6% | 88.0% | 93.5% |
 
 **Duration**: 6.0s  
-**CD**: 20.0s  
+**Cooldown**: 20.0s  
 **Energy Cost**: 80
 
 {% endtab %}
 {% endtabs %}
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/sucrose.md" %}

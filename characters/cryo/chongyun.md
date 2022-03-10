@@ -112,25 +112,23 @@ When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents
 
 {% tabs %}
 {% tab title="Passive" %}
-## **Gallant Journey**
+### **Gallant Journey**
 
-When dispatched on an expedition on Liyue, time consumed is reduced by 25%
+When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-## **Steady Breathing**
+### **Steady Breathing**
 
-Sword, Claymore or Polearm-wielding characters within the field created by **Chonghua’s Layered Frost** have their Normal ATK SPD increased by 8%.
+Sword, Claymore, or Polearm-wielding characters within the field created by **Spirit Blade: Chonghua's Layered Frost** have their Normal ATK SPD increased by 8%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-## **Rimechaser Blade**
+### **Rimechaser Blade**
 
-When the field created by Chonghua’s Layered Frost disappears, another **Spirit Blade** will be summoned to strike nearby opponents:
+When the field created by **Spirit Blade: Chonghua's Layered Frost** disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as **AoE Cryo DMG**. Opponents hit by this blade will have their **Cryo RES** decreased by 10% for 8s.
 
 **Notes**
-* Deals 100% of **Chonghua’s Layered Frost**’s DMG as AoE Cryo DMG.
-* Decreases Cryo RES of opponents hit by 10%  
 * The **Spirit Blade** is considered Elemental Skill damage.  
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
 * No ICD on elemental application
@@ -143,7 +141,7 @@ When the field created by Chonghua’s Layered Frost disappears, another **Spiri
 {% tab title="C1" %}
 ### **Ice Unleashed**
 
-The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as Cryo DMG to all opponents in its path.
+The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as **Cryo DMG** to all opponents in its path.
 
 | Effect | Talent% |
 | :--- | :--- |
@@ -157,7 +155,7 @@ The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each bl
 {% tab title="C2" %}
 ### **Atmospheric Revolution**
 
-Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Chonghua’s Layered Frost** have their CD time decreased by 15%.
+Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Spirit Blade: Chonghua's Layered Frost** have their CD time decreased by 15%.
 
 **Notes**
 * Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
@@ -169,30 +167,37 @@ Elemental Skills and Elemental Bursts cast within the **Frost Field** created by
 {% tab title="C3" %}
 ### **Cloudburst**
 
-Increases the level of **Spirit Blade: Cloud-parting Star** by 3.
+Increases the Level of **Spirit Blade: Cloud-parting Star** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Frozen Skies**
 
-Chongyun regenerates 1 Energy every time he hits an opponent affected by Cryo.  
+Chongyun regenerates 1 Energy every time he hits an opponent affected by **Cryo**.
 This effect can only occur once every 2s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **The True Path**
 
-Increases the level of **Chonghua’s Layered Frost** by 3.
+Increases the Level of **Spirit Blade: Chonghua's Layered Frost** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Rally of Four Blades**
 
-**Spirit Blade: Cloud-parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun. This skill will also summon 1 additional **Spirit Blade**.
+**Spirit Blade: Cloud-parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.
+This skill will also summon 1 additional spirit blade.
 
 **Notes**
 * This DMG Bonus is **Additive**.
 * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
+
 {% endtab %}
 {% endtabs %}
 
@@ -202,49 +207,54 @@ Increases the level of **Chonghua’s Layered Frost** by 3.
 {% tab title="Demonbane" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 101.75% | 110.70% | 119.66% | 128.61% | 138.38% | 148.15% |
-| 2-Hit DMG | 91.75% | 99.82% | 107.90% | 115.97% | 124.78% | 133.59% |
-| 3-Hit DMG | 116.75% | 127.02% | 137.30% | 147.57% | 158.78% | 169.99% |
-| 4-hit DMG | 147.13% | 160.07% | 173.02% | 185.97% | 200.09% | 214.21% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 70.00% | 75.70% | 81.40% | 89.54% | 95.24% | 101.75% | 110.70% | 119.66% | 128.61% | 138.38% | 148.15% |
+| 2-Hit DMG | 63.12% | 68.26% | 73.40% | 80.74% | 85.88% | 91.75% | 99.82% | 107.90% | 115.97% | 124.78% | 133.59% |
+| 3-Hit DMG | 80.32% | 86.86% | 93.40% | 102.74% | 109.28% | 116.75% | 127.02% | 137.30% | 147.57% | 158.78% | 169.99% |
+| 4-Hit DMG | 101.22% | 109.46% | 117.70% | 129.47% | 137.71% | 147.13% | 160.07% | 173.02% | 185.97% | 200.09% | 214.21% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 81.81% | 89.01% | 96.21% | 103.41% | 111.26% | 119.12% |
-| Charged Attack Final DMG | 147.94% | 160.96% | 173.97% | 186.99% | 201.20% | 215.40% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 56.29% | 60.87% | 65.45% | 71.99% | 76.57% | 81.81% | 89.01% | 96.21% | 103.41% | 111.26% | 119.12% |
+| Charged Attack Final DMG | 101.78% | 110.07% | 118.35% | 130.18% | 138.47% | 147.94% | 160.96% | 173.97% | 186.99% | 201.20% | 215.40% |
 
-**Maximum Duration**: 5s  
-**Stamina Cost**: 40
+**Charged Attack Stamina Cost**: 40/s  
+**Max Duration**: 5s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
-| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
-| High Plunge DMG | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
+| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
+| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+
 {% endtab %}
 
-{% tab title="Chonghua’s Layered Frost" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 240.86 | 258.06% | 275.26% | 292.47% | 309.67% | 326.88% | 344.08% | 365.59% |
-| Infusion Duration | 2.5 | 2.6 | 2.7 | 2.8 | 2.9 | 3 | 3 | 3 |
+{% tab title="Spirit Blade: Chonghua's Layered Frost" %}
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 172.04% | 184.94% | 197.85% | 215.05% | 227.95% | 240.86% | 258.06% | 275.26% | 292.47% | 309.67% | 326.88% | 344.08% | 365.58% |
+| Infusion Duration | 2.0s | 2.1s | 2.2s | 2.3s | 2.4s | 2.5s | 2.6s | 2.7s | 2.8s | 2.9s | 3.0s | 3.0s | 3.0s |
 
 **Field Duration**: 10s  
 **Cooldown**: 15s
+
 {% endtab %}
 
 {% tab title="Spirit Blade: Cloud-Parting Star" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 199.36 | 213.60% | 227.84% | 242.08% | 256.32% | 270.56% | 284.80% | 302.60% |
 
-**Energy Cost**: 40  
-**Cooldown**: 12s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 142.40% | 153.08% | 163.76% | 178.00% | 188.68% | 199.36% | 213.60% | 227.84% | 242.08% | 256.32% | 270.56% | 284.80% | 302.60% |
+
+**Cooldown**: 12s  
+**Energy Cost**: 40
+
 {% endtab %}
 {% endtabs %}
 

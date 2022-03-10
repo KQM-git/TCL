@@ -125,17 +125,17 @@ When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chan
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **"The Show Goes On, Even Without an Audience..."**
+### **"The Show Goes On, Even Without An Audience..."**
 
-Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.  
-• Shield Level 2: Lead-In requirement reduced to 1 opponent hit.  
-• Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
+Decreases the number of opponents **Sweeping Fervor** must hit to trigger each level of shielding.
+* Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
+* Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
 ### **"...Now That's Rock 'N' Roll!"**
 
-Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
+Characters shielded by **Sweeping Fervor** deal 15% increased Physical DMG.
 {% endtab %}
 {% endtabs %}
 
@@ -145,45 +145,55 @@ Characters shielded by Sweeping Fervor deal 15% increased Physical DMG.
 {% tab title="C1" %}
 ### **Fatal Acceleration**
 
-Upon scoring a CRIT hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s. Can only occur once every 5s. (can trigger vs shielded enemies)
+Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.
+Can only occur once every 5s.
+
+**Note**
+* Can trigger on shielded enemies.
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Impromptu Opening**
 
-Riff Revolution Physical DMG has its Crit rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
+**Riff Revolution**'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
 
 * The shield created can proc Sacrificial Greatsword's passive
 * The shield created may trigger extra pulses of Pyro DMG to nearby opponents. The number of extra pulses depends on the client's frame rate.
+
 {% endtab %}
 
 {% tab title="C3" %}
 ### **Double-Stop**
 
-Increases the Level of Sweeping Fervor by 3.  
+Increases the Level of **Sweeping Fervor** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Wildfire Rhythm**
 
-Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s.
+**Sweeping Fervor**'s swing DMG decreases opponent's Physical RES by 15% for 12s.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Screamin' for an Encore**
 
-Increases the Level of Riff Revolution by 3.  
+Increases the Level of **Riff Revolution** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Rockin' in a Flaming World**
 
-Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.  
+Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.
+
 * Her C6 is added into the stats page as flat ATK.
-{% endtab %}  
-{% endtabs %}  
+
+{% endtab %}
+{% endtabs %}
 
 ## **Full Talent Values**
 
@@ -191,57 +201,59 @@ Decrease the Stamina Consumption of Xinyan Charged Attacks by 30%. Additionally,
 {% tab title="Dance on Fire" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 111.25% | 121.04% | 130.83% | 140.62% | 151.30% | 161.98% |
-| 2-Hit DMG | 107.50% | 116.96% | 126.42% | 135.88% | 146.20% | 156.52% |
-| 3-Hit DMG | 138.75% | 150.96% | 163.17% | 175.38% | 188.70% | 202.02% |
-| 4-Hit DMG | 168.38% | 183.19% | 198.01% | 212.83% | 228.99% | 245.15% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 76.54% | 82.77% | 89.00% | 97.90% | 104.13% | 111.25% | 121.04% | 130.83% | 140.62% | 151.30% | 161.98% |
+| 2-Hit DMG | 73.96% | 79.98% | 86.00% | 94.60% | 100.62% | 107.50% | 116.96% | 126.42% | 135.88% | 146.20% | 156.52% |
+| 3-Hit DMG | 95.46% | 103.23% | 111.00% | 122.10% | 129.87% | 138.75% | 150.96% | 163.17% | 175.38% | 188.70% | 202.02% |
+| 4-Hit DMG | 115.84% | 125.27% | 134.70% | 148.17% | 157.60% | 168.38% | 183.19% | 198.01% | 212.83% | 228.99% | 245.15% |
 
 ### Charged Attack
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 90.91% | 98.91% | 106.91% | 114.91% | 123.64% | 132.36% |
-| Charged Attack Final DMG | 164.38% | 178.84% | 193.31% | 207.77% | 223.55% | 239.33% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack Spinning DMG | 62.55% | 67.64% | 72.73% | 80.00% | 85.09% | 90.91% | 98.91% | 106.91% | 114.91% | 123.64% | 132.36% |
+| Charged Attack Final DMG | 113.09% | 122.29% | 131.50% | 144.65% | 153.86% | 164.37% | 178.84% | 193.31% | 207.77% | 223.55% | 239.33% |
 
-**Maximum Duration**: 5s  
-**Stamina Cost**: 40
+**Stamina Cost**: 40/s  
+**Max Duration**: 5s
 
 ### Plunge
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
-| Low Plunge DMG | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
-| High Plunge DMG | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
+| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
+| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
+
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Swing DMG | 237.44% | 254.40% | 271.36% | 288.32% | 305.28% | 322.24% | 339.20% | 360.40% |
-| Shield Level 1 Scaling | 145.66% | 156.06% | 166.46% | 176.87% | 187.27% | 197.68% | 208.08% | 221.09% |
-| Shield Level 1 DMG Absorption | 793% | 864% | 939% | 1018% | 1101% | 1189% | 1281% | 1377% |
-| Shield Level 2 Scaling | 171.36% | 183.6% | 195.84% | 208.08% | 220.32% | 232.56% | 244.8% | 260.1% |
-| Shield Level 2 DMG Absorption | 932% | 1016% | 1104% | 1197% | 1296% | 1399% | 1507% | 1620% |
-| Shield Level 3 Scaling | 201.6% | 216% | 230.4% | 244.8% | 259.2% | 273.6% | 288% | 306% |
-| Shield Level 3 DMG Absorption | 1097% | 1195% | 1299% | 1409% | 1524% | 1646% | 1773% | 1905% |
-| DoT | 47.04% | 50.40% | 53.76% | 57.12% | 60.48% | 63.84% | 67.20% | 71.40% |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Swing DMG | 169.60% | 182.32% | 195.04% | 212.00% | 224.72% | 237.44% | 254.40% | 271.36% | 288.32% | 305.28% | 322.24% | 339.20% | 360.40% |
+| Shield Level 1 DMG Absorption | 104.04% DEF+501 | 111.84% DEF+551 | 119.65% DEF+605 | 130.05% DEF+663 | 137.85% DEF+726 | 145.66% DEF+793 | 156.06% DEF+864 | 166.46% DEF+939 | 176.87% DEF+1018 | 187.27% DEF+1101 | 197.68% DEF+1189 | 208.08% DEF+1281 | 221.09% DEF+1377 |
+| Shield Level 2 DMG Absorption | 122.40% DEF+589 | 131.58% DEF+648 | 140.76% DEF+712 | 153.00% DEF+780 | 162.18% DEF+854 | 171.36% DEF+932 | 183.60% DEF+1016 | 195.84% DEF+1104 | 208.08% DEF+1197 | 220.32% DEF+1296 | 232.56% DEF+1399 | 244.80% DEF+1507 | 260.10% DEF+1620 |
+| Shield Level 3 DMG Absorption | 144.0% DEF+693 | 154.8% DEF+762 | 165.6% DEF+837 | 180.0% DEF+918 | 190.8% DEF+1005 | 201.6% DEF+1097 | 216.0% DEF+1195 | 230.4% DEF+1299 | 244.8% DEF+1409 | 259.2% DEF+1524 | 273.6% DEF+1646 | 288.0% DEF+1773 | 306.0% DEF+1905 |
+| DoT | 33.60% | 36.12% | 38.64% | 42.00% | 44.52% | 47.04% | 50.40% | 53.76% | 57.12% | 60.48% | 63.84% | 67.20% | 71.40% |
 
 **Shield Duration**: 12s  
 **Cooldown**: 18s
+
 {% endtab %}
 
 {% tab title="Riff Revolution" %}
-| FIELD1 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 477.12% | 511.20% | 545.28% | 579.36% | 613.44% | 647.52% | 681.60% | 724.20% |
-| Pyro DoT | 56% | 60% | 64% | 68% | 72% | 76% | 80% | 85% |
 
-**Energy Cost**: 60  
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 340.80% | 366.36% | 391.92% | 426.00% | 451.56% | 477.12% | 511.20% | 545.28% | 579.36% | 613.44% | 647.52% | 681.60% | 724.20% |
+| Pyro DoT | 40% | 43% | 46% | 50% | 53% | 56% | 60% | 64% | 68% | 72% | 76% | 80% | 85% |
+
 **Duration**: 2s  
-**Cooldown**: 15s
+**Cooldown**: 15s  
+**Energy Cost**: 60
+
 {% endtab %}
 {% endtabs %}
 

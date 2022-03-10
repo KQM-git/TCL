@@ -161,13 +161,15 @@ When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy
 {% tab title="C1" %}
 ### **Crow's Eye**
 
-When **Tengu Juurai** grant characters ATK Bonuses or hits opponents, the CD of **Tengu Stormcall** is decreased by 1s. This effect can be triggered once every 3s.
+When **Tengu Juurai** grant characters ATK Bonuses or hits opponents, the CD of **Tengu Stormcall** is decreased by 1s.
+This effect can be triggered once every 3s.
+
 {% endtab %}
 
 {% tab title="C2" %}
 ### **Dark Wings**
 
-Unleashing **Tengu Stormcall** will leave a **Weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
+Unleashing **Tengu Stormcall** will leave a **weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
 
 | Type | Talent 9% |
 | :--- | :--- |
@@ -183,27 +185,30 @@ Unleashing **Tengu Stormcall** will leave a **Weaker Crowfeather** at Kujou Sara
 {% tab title="C3" %}
 ### **The War Within**
 
-Increases the Level of **Subjugation: Koukou Sendou** by 3.  
+Increases the Level of **Subjugation: Koukou Sendou** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
 ### **Conclusive Proof**
 
 The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou Sendou** is increased to 6.
+
 {% endtab %}
 
 {% tab title="C5" %}
 ### **Spellsinger**
 
-Increases the Level of **Tengu Stormcall** by 3.  
+Increases the Level of **Tengu Stormcall** by 3.
 Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
 ### **Sin of Pride**
 
-The Electro DMG of characters who have had their ATK increased by **Tengu Juurai** has its Crit DMG increased by 60%.
+The **Electro DMG** of characters who have had their ATK increased by **Tengu Juurai** has its Crit DMG increased by 60%.
 
 * The effects of **Sin of Pride** do not get snapshot.
 {% endtab %}
@@ -211,52 +216,57 @@ The Electro DMG of characters who have had their ATK increased by **Tengu Juurai
 
 ## **Full Talent Values**
 
-{% tabs %}{% tab title="Tengu Bowmanship" %}
+{% tabs %}
+{% tab title="Tengu Bowmanship" %}
 ### Normal Attacks
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 53.63% | 58.34% | 63.06% | 67.78% | 72.93% | 78.08% |
-| 2-Hit DMG | 56.25% | 61.2% | 66.15% | 71.1% | 76.5% | 81.9% |
-| 3-Hit DMG | 70.5% | 76.7% | 82.91% | 89.11% | 95.88% | 102.65% |
-| 4-Hit DMG | 73.25% | 79.7% | 86.14% | 92.59% | 99.62% | 106.65% |
-| 5-Hit DMG | 84.38% | 91.8% | 99.23% | 106.65% | 114.75% | 122.85% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 36.89% | 39.90% | 42.90% | 47.19% | 50.19% | 53.62% | 58.34% | 63.06% | 67.78% | 72.93% | 78.08% |
+| 2-Hit DMG | 38.70% | 41.85% | 45.00% | 49.50% | 52.65% | 56.25% | 61.20% | 66.15% | 71.10% | 76.50% | 81.90% |
+| 3-Hit DMG | 48.50% | 52.45% | 56.40% | 62.04% | 65.99% | 70.50% | 76.70% | 82.91% | 89.11% | 95.88% | 102.65% |
+| 4-Hit DMG | 50.40% | 54.50% | 58.60% | 64.46% | 68.56% | 73.25% | 79.70% | 86.14% | 92.59% | 99.62% | 106.65% |
+| 5-Hit DMG | 58.05% | 62.77% | 67.50% | 74.25% | 78.97% | 84.38% | 91.80% | 99.23% | 106.65% | 114.75% | 122.85% |
 
-### Charged Attack
+### Aimed Shot
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 63.75% | 69.36% | 74.97% | 80.58% | 86.7% | 92.82% |
-| Fully-Charged Aimed Shot | 173.6% | 186% | 198.4% | 210.8% | 223.2% | 235.6% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
+| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 235.60% |
 
-### Plunge 
 
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 82.6% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 165.17% | 179.7% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 206.3% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+### Plunge
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
+| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
+| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
+
 {% endtab %}
 
 {% tab title="Tengu Stormcall" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Ambush DMG | 176.06% | 188.64% | 201.22% | 213.79% | 226.37% | 238.94% | 251.52% | 267.24% |
-| ATK Bonus Ratio | 60.14% | 64.44% | 68.74% | 73.03% | 77.33% | 81.62% | 85.92% | 91.29% |
 
-**ATK Bonus Duration:** 6s  
-**Cooldown:** 10 s
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tengu Juurai: Ambush DMG | 125.76% | 135.19% | 144.62% | 157.20% | 166.63% | 176.06% | 188.64% | 201.22% | 213.79% | 226.37% | 238.94% | 251.52% | 267.24% |
+| ATK Bonus Ratio | 42.96% | 46.18% | 49.40% | 53.70% | 56.92% | 60.14% | 64.44% | 68.74% | 73.03% | 77.33% | 81.62% | 85.92% | 91.29% |
+
+**ATK Bonus Duration**: 6s  
+**Cooldown**: 10s
 
 {% endtab %}
 
 {% tab title="Subjugation: Koukou Sendou" %}
-|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tengu Juurai: Titanbreaker DMG | 573.44% | 614.4% | 655.36% | 696.32% | 737.28% | 778.24% | 819.2% | 870.4% |
-| Tengu Juurai: Stormcluster DMG | 47.77% | 51.18% | 54.59% | 58% | 61.42% | 64.83% | 68.24% | 72.51% |
 
-**Cooldown:** 20s  
-**Energy Cost:** 80
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Tengu Juurai: Titanbreaker DMG | 409.60% | 440.32% | 471.04% | 512.00% | 542.72% | 573.44% | 614.40% | 655.36% | 696.32% | 737.28% | 778.24% | 819.20% | 870.40% |
+| Tengu Juurai: Stormcluster DMG | 34.12% | 36.68% | 39.24% | 42.65% | 45.21% | 47.77% | 51.18% | 54.59% | 58.00% | 61.42% | 64.83% | 68.24% | 72.50% |
+
+**Cooldown**: 20s  
+**Energy Cost**: 80
 
 {% endtab %}
 {% endtabs %}

@@ -258,6 +258,7 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 
 {% endtab %}
 {% endtabs %}
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/characters/anemo/venti.md" %}
