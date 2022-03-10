@@ -27,16 +27,16 @@ search: false
   * Yoimiya's particle generation triggers on-hit (ICD estimate is ~2s) - [Steph#3614](https://imgur.com/zUi3Gxq)
   * Yoimiya can still produce energy even after infusion expiry **as long as the icd is off CD and the infused normal attack string arrow lands** - [Steph#3614](https://imgur.com/L7RiFfc)
 * Kindling Arrows
-  * Yoimiya's Kindling arrows last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range. - [xf3#3123](https://imgur.com/a/l8wot7Y)
-  * Yoimiya's kingling arrow can trigger a second overload if shot far away enough, because Kindling arrows travel long enough to bypass the 0.5s ICD of overload - [Bobrokrot#0111](https://youtu.be/rlEAqvFFAfQ)
+  * Yoimiya's Kindling Arrows last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range. - [xf3#3123](https://imgur.com/a/l8wot7Y)
+  * Yoimiya's Kindling Arrows can trigger a second overload if shot far away enough, because Kindling Arrows travel long enough to bypass the 0.5s ICD of overload - [Bobrokrot#0111](https://youtu.be/rlEAqvFFAfQ)
   * Yoimiya can have all three Kindling Arrows up after Niwabi Fire Dance ends, so long as the required charging time is met. - nat#4502
     * [3 Kindling Arrows](https://youtu.be/XEAJ9ssLmv4)
     * [2 Kindling Arrows](https://youtu.be/G50c8wvMqL4)
 * Yoimiya can consistently trigger fall damage utilizing overload reactions. - [Bobrokrot#0111](https://youtu.be/T4niW6uCsC0)
   * You have to trigger all 3 overloads across her NA string to do this, otherwise she can miss the target. Results may vary for other electro applicators.
 * Yoimiya's auto-aim range for her normals is around 6 tiles (~15.3 meters) - [nat#4502](https://youtu.be/jUOaFM4R9AQ)
-* Kindling arrows can home in on different targets. - [Mcpie#8672](https://i.imgur.com/sbQgjv8.mp4)  
-* Kindling arrows have a limited range. - [Mcpie#8672](https://i.imgur.com/3bgYXfR.mp4)  
+* Kindling Arrows can home in on different targets. - [Mcpie#8672](https://i.imgur.com/sbQgjv8.mp4)  
+* Kindling Arrows have a limited range. - [Mcpie#8672](https://i.imgur.com/3bgYXfR.mp4)  
 * Kindling Arrow tracking is curved making it possible to orbit around targets. - [Ravantier#4984](https://imgur.com/mtpNOud)  
 
 ### Kindling Arrows Interaction with Amos' Bow
@@ -45,7 +45,7 @@ search: false
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908499139703214080/908507642199150652/transcript-yoi-kindling-arrows-and-amos.html)
 
 **Findings:**  
- Kindling arrows are affected by Amos' Bow's passive, and it is very easy for Kindling arrows to gain all 5 stacks because of how slowly they move.
+ Kindling Arrows are affected by Amos' Bow's passive, and it is very easy for Kindling Arrows to gain all 5 stacks because of how slowly they move.
  
 **Evidence:**  
 [Kindling Arrow affected by Amos' Bow's passive at various ranges](https://www.youtube.com/watch?v=-OAt8g15qkM&ab_channel=Ayzel)
