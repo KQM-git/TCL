@@ -189,6 +189,28 @@ Diona's Burst may not heal Xiao in his Burst because his jumping height is highe
 Diona's Burst healing has a limited range in contrast to all other known healing fields that have infinite vertical range.  
 This has implications against Xiao (or for Xiao with Staff of Homa) because the height limit is lower than Xiao's jump height.
 
+## Ascension Mechanics
+
+### A1: Cat's Tail Secret Menu
+
+#### Diona's Stamina Reduction Stacks With Other Sources
+
+**By:** Ultimate Noob\#2955  
+**Added:** 03/04/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949479240284401744/transcript-bokuso-box-crit-scales-off-character.html)  
+
+**Finding:**  
+Diona's stamina reduction stacks with other sources.  
+
+**Evidence:**  
+* [Kazuha's sprinting stamina reduction](https://youtu.be/ILUq9dW4UvE) - credit to Charisma\#5567  
+* [Amber's gliding stamina reduction](https://youtu.be/kgxmV03nsxM) - credit to Spacebar\#7879  
+* [Beidou's swimming stamina reduction](https://youtu.be/eV71GHCVv5Y) - credit to Spacebar\#7879  
+* [Anemo Resonance](https://youtu.be/i7qrFnbywLo) - credit to Spacebar\#7879    
+
+**Significance:**  
+Previously, such effects didn't stack, but around patch 2.0 Mihoyo changed it so that they do stack. Mostly fluff.  
+
 ## Interactions  
 
 ### Diona Sacrifial Proc Inconsistency

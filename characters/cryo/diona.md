@@ -149,7 +149,9 @@ When Perfect Cooking is achieved on a dish with restorative effects, there is a 
 {% tab title="Ascension 1" %}
 ### **Cat’s Tail Secret Menu**
 
-Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.
+Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.  
+
+* Ths can stack with other forms of stamina reduction as long as they are not the exact same.  
 {% endtab %}
 
 {% tab title="Ascension 4" %}
