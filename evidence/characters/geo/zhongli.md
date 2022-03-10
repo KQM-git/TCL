@@ -19,7 +19,7 @@ search: false
 ### Construct Resonance Mechanics
 
 **By:** TunaPotato\#9114  
-**Added:** 9/24/2021  
+**Added:** 09/24/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891048091225038888/891127648288383026/transcript-zhongli-pillar-mechanics.html)
 
 **Finding 1:**  
@@ -42,9 +42,9 @@ This is further shown in the [example with a target](https://youtu.be/naC-dy0jEC
 This shows that with c1 Zhongli or during co-op, the presence of more than one Zhongli pillar allows more resonance damage within a given window. With b being the resonance damage with one seele in one 2s window and n being the number of steeles, the total resonance damage would be nb.
 In other words having two pillars from c1 will double the damage from resonance.
 
-### Zhongli Shred Lingers
+### Zhongli RES Shred Lingers
 **By:** clrE\#6290  
-**Added:** 1/14/2022  
+**Added:** 01/14/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928609238002053131/931322938953728050/transcript-zhongli-shred-linger.html)
 
 **Finding:**  
@@ -56,6 +56,20 @@ Zhongli's shield RES shred lingers for a bit after it breaks/ends.
 **Significance:**  
 Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early
 
+### Zhongli RES Shred Range
+**By:** Xreejan\#1180  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951176607496806440/transcript-zhongli-res-shred-range.html)  
+
+**Finding:**  
+The range of Zhongli's Resistance Shred is approximately 3 Abyss tiles.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/9m2c0-QHkbQ)  
+
+**Significance:**  
+Can help players prevent DPS loss when playing ranged units.
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
@@ -63,7 +77,7 @@ Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fisc
 #### Zhongli's Ascension 1 broken down
 
 **By:** 3b00d\_09\#2235  
-**Added:** 4/28/2021  
+**Added:** 04/28/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837172595202719794/837181219086401536/transcript-zhongli-a1-exploration.html)
 
 Credits to JonahFarc\#7056 for helping me figure out how this works.
@@ -105,7 +119,7 @@ This allows for more accurate Zhongli shield calculations, as well as any future
 #### Zhongli A1 Has No/Negligible ICD
 
 **By:** JonahFarc\#7056  
-**Added:** 4/26/2021  
+**Added:** 04/26/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836279063760732201/836642776217026620/transcript-zhongli-a1-no-icd.html)
 
 **Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one

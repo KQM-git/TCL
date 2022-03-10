@@ -104,6 +104,7 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
 * Resonation can overlap to deal multiple instances of damage.
 * Steles resonate independently and do not resonate with each other.
+* The range for the resistance shred is ~3 Abyss tiles.
 
 | Attribute | Shield |
 | :--- | :--- |
