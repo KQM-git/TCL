@@ -1,5 +1,5 @@
 ---
-description: A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness..
+description: A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.
 ---
 
 # The Abyss Order

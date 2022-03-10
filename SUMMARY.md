@@ -157,8 +157,9 @@
 
 ## Enemy Data
 * [Abyss Order](enemy-data/abyss-order/README.md)
-  * [Abyss Herald](enemy-data/abyss-order/abyss-herald-wicked-torrents.md)
-  * [Abyss Lector](enemy-data/abyss-order/abyss-lector-violet-lightning.md)
+  * [Hydro Abyss Herald](enemy-data/abyss-order/abyss-herald-wicked-torrents.md)
+  * [Electro Abyss Lector](enemy-data/abyss-order/abyss-lector-violet-lightning.md)
+  * [Pyro Abyss Lector](enemy-data/abyss-order/abyss-lector-fathomless-flames)
   * [Abyss Mage](enemy-data/abyss-order/abyss-mage.md)
   * [Rifthounds](enemy-data/abyss-order/rifthounds/README.md)
     * [Rifthound Whelp](enemy-data/abyss-order/rifthounds/rifthound-whelp.md)

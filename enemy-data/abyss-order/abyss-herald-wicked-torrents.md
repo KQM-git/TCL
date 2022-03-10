@@ -1,5 +1,5 @@
 ---
-description: Servants of the Abyss Order that use Hydro in combat..
+description: Servants of the Abyss Order that use Hydro in combat.
 ---
 
 # The Abyss Order
