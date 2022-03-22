@@ -767,11 +767,7 @@
 
 ## Attack Speed Buffs on Claymores
 
-**By:** [EternalDream\#5503 ](../../evidence/equipment/weapons.md#attack-speed-buffs-on-claymores)
-
-Attack Speed buffs do not dynamically affect Claymore Charged Attacks. Meaning, the charged attack will have an attack speed increase for its entire duration when buffed, even if said buff wears off during charged attack.
-
-* Evidence: *Streamable link lost to the sands of time*
+As of patch 2.5, Charged Attack speed buffs do not dynamically increase claymore Charged Attack speed, but do dynamically decrease it if duration ends during the attack.
 
 ## External Links
 

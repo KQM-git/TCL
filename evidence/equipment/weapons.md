@@ -1315,6 +1315,21 @@ Side by side comparisons of a C0 vs C1 Xinyan
 **Significance:**  
 If an Attack Speed buff is active, such as Beidou's A4 after max parry, the charged attack will gain the speed increase for its entire length even if it wears off during the attack. Additionally, as the only character that can currently dynamically receive a speed buff mid-Charged Attack is Xinyan with C1, this means she MUST trigger the buff before-hand, as it will have no effect if triggered during the spin itself.
 
+### Charged Attack Speed Buff Update
+
+**By:** tamamo\#4303  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951294681289998357/transcript-charged-attack-speed-buff-update.html)  
+
+**Finding:**  
+Charged Attack speed buffs do not dynamically increase claymore Charged Attack speed, but dynamically decrease Charged Attack speed if duration ends during the attack.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/Cqi-PAVGuF8)  
+
+**Significance:**  
+Better understanding of Charged Attack speed buffs (with the exception of Itto).  
+
 ### Catalyst Effective Attack Comparisons
 
 **By:** Maygi\#4987
