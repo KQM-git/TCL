@@ -567,6 +567,31 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 ---
 
+### Cinnabar Spindle
+
+#### Cinnabar Passive Deactivation Bug
+
+**By:** TheLocalMilkMan\#0813  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953730346774589510/transcript-cinnabar-passive-deactivation-bug.html)  
+
+**Bug:**  
+* After hitting a shield (Abyss Mage, Mitachurl Shield, Kairagii Parry, etc) Cinnabar Passive will deactivate indefinitely until party swap/unequip and reequip the weapon.
+* This bug only happens with Albedo due to his specific skill trigger requiring a hit to deal damage first. It'll require a non-melee hit to trigger, whether it be a projectile, AOE attack, or even burning grass.
+* There is, however, some slight inconsistency. The bug will not trigger 100% of the time, it may trigger even without a shield, and it may even reactivate.
+
+**Evidence:**  
+
+* Albedo + Zhongli: [YouTube video](https://youtu.be/xmc9olmaSqk)
+* Solo Albedo: [YouTube video](https://youtu.be/voJ3-z8mlIo)
+* Solo Albedo: [Reddit post](https://www.reddit.com/r/Albedomains/comments/r5e4ds/cinnabar_spindle_bug_recreation/)
+* Burning + shield causing deactivation: [YouTube video](https://youtu.be/teu-GqSLgO8)
+
+**Significance:**  
+This will hurt Albedo's damage until this is fixed. This bug is known and has been known to MHY for several months now.  
+
+---
+
 ### Engulfing Lightning
 
 #### 4 ESF Interractions

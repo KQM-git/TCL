@@ -260,6 +260,8 @@
 | Spotless Heart | Elemental Skill DMG is increased by **40/50/60/70/80**% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
 | Base ATK | 41 - 454 | 
 | DEF | 15% - 61.3% | 
+
+* As of Patch 2.5, there is a bug where the Passive will be deactivated if Albedo's [Transient Blossom](../../characters/geo/albedo.md#attacks) is triggered by a non-melee attack and hits a shield.
 {% endtab %}
 
 {% tab title="Details" %}
