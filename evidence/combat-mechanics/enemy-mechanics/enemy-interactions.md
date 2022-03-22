@@ -747,29 +747,49 @@ Ai manipulation.
 ### Ruin Guard
 
 #### Melee Can Stun Ruin Guards 
-**By:** CQLQRS\#7853  
-**Addded:** 1/1/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922442421604843542/926773041697013830/transcript-melee-can-stun-ruin-guards.html)
+**By:** CQLQRS\#7853 and HowLxxxx\#4676  
+**Addded:** 01/01/2022  
+[Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922442421604843542/926773041697013830/transcript-melee-can-stun-ruin-guards.html)  
+**Updated:** 03/16/2022  
+[Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953769086163230870/transcript-ruin-guard-melee-stun-ft-geomc-skill.html)  
 
-**Finding:** Some attacks other than fully-charged bow CAs can stun ruin guards. This includes various skills, bursts and melee attacks.
+**Finding:**  
+Some attacks other than fully-charged bow CAs can stun Ruin Guards. This includes various Skills, Bursts, and other melee attacks. Some attacks can only stun Ruin Guards when the character is standing on something \(e.g. GMC Skill\).  
 
 **Evidence:**  
-1\. Melee CAs:  
+1\. Melee NAs:
+* Beidou \(elevated by GMC Skill\): [YouTube](https://youtu.be/clkGV50v2a0)
+* Diluc \(elevated by GMC Skill\): [YouTube](https://youtu.be/jWI5CK0FPL0) \(Kawaii Muffin\#2158\)
+* Chongyun \(elevated by GMC Skill\): [YouTube](https://youtu.be/FXOsAaJlVFU)
+
+2\. Melee CAs:  
 * Itto: [Imgur](https://imgur.com/a/uVmiOHL)
 * Raiden: [Imgur](https://imgur.com/a/rrHZ1hx)
 * Bullet-like CAs: [Imgur](https://imgur.com/a/HWd1rrd)
 
-2\. Elemental Skills:  
-* EMC: [Youtube](https://youtu.be/4X6tBV3Z34Q) (Bobrokrot\#0111)
+3\. Elemental Skills:  
+* EMC: [YouTube](https://youtu.be/4X6tBV3Z34Q) \(Bobrokrot\#0111\)
+* Jean: [YouTube](https://youtu.be/mOQK_FaoFP4)
+* Razor \(Hold\): [YouTube](https://youtu.be/6uQEuFE56kU)
+* Bennett \(Charge Level 2\): [YouTube](https://youtu.be/RM_2udfbO0M)
+* Kaeya \(without GMC Skill\): [YouTube](https://youtu.be/oKUAQi1XaZA)
+* GMC \(elevated by GMC Skill\): [YouTube](https://youtu.be/iV7OIYsgHec)
+* Xingqiu \(elevated by GMC Skill\): [YouTube](https://youtu.be/Ik8bDUhuYk8)
+* Kaeya \(elevated by GMC Skill\): [YouTube](https://youtu.be/Gjzts7mojSA)
 
-3\. Elemental Bursts:  
-* Yoimiya: [Youtube](https://youtu.be/2KfdFoQu8bQ) (BowTae\#0141)
-* Bennett: [Imgur](https://imgur.com/a/nCKGHus) (ShampooBrain\#9583)
-* Diluc: [Imgur](https://imgur.com/a/IQpZkSa) (ShampooBrain\#9583)
+4\. Elemental Bursts:  
+* Yoimiya: [YouTube](https://youtu.be/2KfdFoQu8bQ) \(BowTae\#0141\)
+* Bennett: [Imgur](https://imgur.com/a/nCKGHus) \(ShampooBrain\#9583\)
+* Diluc: [Imgur](https://imgur.com/a/IQpZkSa) \(ShampooBrain\#9583\)
+* Kazuha: [YouTube](https://youtu.be/J852HxmDIaM)
+
+5\. Ascension Passives:
+* Chongyun A4: [YouTube](https://youtu.be/6wwf1LnfIbI)
 
 This list is not exhaustive and any attack can theoretically stun the ruin guard if its core is low enough for the attack to reach it.
 
-**Significance:** Limited practical usage, mostly fluff.
+**Significance:**  
+Limited practical usage, mostly fluff.
 
 #### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
 
