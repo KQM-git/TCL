@@ -19,21 +19,22 @@ Transformative reactions include: overload, superconduct, electro-charged, shatt
 ## Dynamic Summons
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/edit#gid=192559720)  
-* Chongyun's [Spirit Blade: Cloud-Parting Star](../characters/cryo/chongyun.md#attacks) 
+* Chongyun's [Spirit Blade: Cloud-Parting Star](../characters/cryo/chongyun.md#attacks)
 * Eula's [Glacial Illumination](../characters/cryo/eula.md#attacks)
 * Hu Tao's [Blood Blossom](../characters/pyro/hu-tao.md#attacks)
 * Keqing's [Starward Sword](../characters/electro/keqing.md#attacks)
 * Mona's [Stellaris Phantasm](../characters/hydro/mona.md#attacks)
-* Tartaglia's [Riptide](../characters/hydro/tartaglia.md#attacks)
-* Xingqiu's [Guhua Sword: Raincutter](../characters/hydro/xingqiu.md#attacks)
-* Yoimiya's [Ryuukin Saxifrag](../characters/pyro/yoimiya.md#attacks)
 * Qiqi's [Adeptus Art: Preserver of Fortune](../characters/cryo/qiqi.md#attacks) Healing
-* Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)  
-* Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
+* Raidens' [Transcendence: Baleful Omen](../characters/electro/raiden.md#attacks)
 * Razor's [Lightning Fang](../characters/electro/razor.md#attacks)
+* Tartaglia's [Riptide](../characters/hydro/tartaglia.md#attacks)
 * Thoma's [Crimson Ooyoroi](../characters/pyro/thoma.md#attacks)
-* Xinyan's [Sweeping Ferver](../characters/pyro/xinyan.md#attacks)
+* Xiangling's [Oil Meets Fire](../characters/pyro/xiangling.md#constellations)
+* Xingqiu's [Guhua Sword: Raincutter](../characters/hydro/xingqiu.md#attacks)
 * Xinyan's [Riff Revolution](../characters/pyro/xinyan.md#attacks)
+* Xinyan's [Sweeping Ferver](../characters/pyro/xinyan.md#attacks)
+* Yae Miko's [Yakan Evocation: Sesshou Sakura](../characters/electro/yae-miko.md#attacks)
+* Yoimiya's [Ryuukin Saxifrag](../characters/pyro/yoimiya.md#attacks)
 
 ## Evidence Vault
 

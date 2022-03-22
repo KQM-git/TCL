@@ -18,7 +18,7 @@ description: Energy particle generation by character.
 | Off-field, 2 man party, different element | 0.8 | 2.4 | 1.6 | 4.8 |
 
 ## Elemental Skill Particles
-*Updated for Patch 2.3.*
+*Updated for Patch 2.5.*
 
 Production ratio shows the rate of the amount of particle that will be produced \(for example 2~3 \(1:2\) means 33.33% chance of producing 2 particles and 66.67% chance of producing 3 particles\).
 
@@ -51,12 +51,12 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Ningguang |  | 12 | 3~4 \(3:2\) | 3.40 | 17.0 |
 | Traveler <br />\(Geo\) | A2 \(**Shattered Darkrock**\) | 6 | 3~4 \(2:1\) | 3.33 | 33.3 |
 | Traveler <br />\(Geo\) |  | 8 | 3~4 \(2:1\) | 3.33 | 25.0 |
-| Yunjin    | Skill Hold Level 2, C1 \(**Thespian Gallop**\) | 7.38 | 3 \(-\) | 3.00 | 24.4 |
-| Yunjin    | Skill Hold Level 2 | 9 | 3 \(-\) | 3.00 | 20.0 |
-| Yunjin    | Skill Hold Level 1, C1 \(**Thespian Gallop**\) | 7.38 | 2~3 \(3:2\) | 2.40 | 19.5 |
-| Yunjin    | Skill Tap, C1 \(**Thespian Gallop**\) | 7.38 | 2 \(-\) | 2.00 | 16.3 |
-| Yunjin    | Skill Hold Level 1 | 9 | 2~3 \(3:2\) | 2.40 | 16.0 |
-| Yunjin    | Skill Tap | 9 | 2 \(-\) | 2.00 | 13.3 |
+| Yun Jin    | Skill Hold Level 2, C1 \(**Thespian Gallop**\) | 7.38 | 3 \(-\) | 3.00 | 24.4 |
+| Yun Jin    | Skill Hold Level 2 | 9 | 3 \(-\) | 3.00 | 20.0 |
+| Yun Jin    | Skill Hold Level 1, C1 \(**Thespian Gallop**\) | 7.38 | 2~3 \(3:2\) | 2.40 | 19.5 |
+| Yun Jin    | Skill Tap, C1 \(**Thespian Gallop**\) | 7.38 | 2 \(-\) | 2.00 | 16.3 |
+| Yun Jin    | Skill Hold Level 1 | 9 | 2~3 \(3:2\) | 2.40 | 16.0 |
+| Yun Jin    | Skill Tap | 9 | 2 \(-\) | 2.00 | 13.3 |
 | Itto      | | 10 | 3~4 \(1:1\) | 3.50 | 21.0 |
 | Albedo    | **Solar Isotoma** connect does not produce particle. **Transient Blossom** proc on CD \(2s\). Doesn't have to stay on field, 100% uptime | 2 | 0~1 \(1:2\) | 0.67 | 20.1 |
 | Zhongli   | Skill Hold produces no particle, 50% chance to produce particle on hit and pulse. 100% uptime | 2 | 0~1 \(1:1\) | 0.50 | 15.0 |
@@ -92,7 +92,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
-| Raiden    | Skill  itself produces no particles, every type of damage \(including reaction triggered by skill\) triggers coordinated attack, which produce particle \(0~1 \(1:1\) check, 0.9s icd, does not buffer\), doesn't have to stay on field | 0.9 | 0~1 \(1:1\) | 0.50 | 35.0 |
+| Raiden    | Skill itself produces no particles, every type of damage \(including reaction triggered by skill\) triggers coordinated attack, which produce particle \(0~1 \(1:1\) check, 0.9s icd, does not buffer\), doesn't have to stay on field | 0.9 | 0~1 \(1:1\) | 0.50 | 35.0 |
 | Fischl    | C6 \(**Evernight Raven**\) Oz, Oz duration doubled with well timed burst | 25 | 0~11 \(-\) | 7.20 | 35.0 |
 | Fischl    | Off-field \(Oz\) \(Oz duration doubled with well timed burst\) | 25 | 0~9 \(-\) | 6.00 | 28.8 |
 | Fischl    | C6 \(**Evernight Raven**\) Oz | 25 | 0~11 \(-\) | 7.20 | 17.3 |
@@ -104,6 +104,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Lisa      | Skill Hold | 16 | 5 \(-\) | 5.00 | 18.8 | 
 | Sara      | Particle produced on **Tengu Juurai: Ambush** connect | 10 | 3 \(-\) | 3.00 | 18.0 |
 | Traveler <br />\(Electro\) | Multiple Thunder Shadow connect doesn't change the result | 13.5 | 1 \(-\) | 1.00 | 4.4 |
+| Yae Miko | Skill itself doesn't produce particles. 1 particle is produced every time a Sesshou Sakura hits. When multiple Sesshou Sakuras are present, only one of them will produce particles | 4 | 1 \(-\) | 1.00 | 15.0 |
 
 {% endtab %}
 {% tab title="Cryo" %}

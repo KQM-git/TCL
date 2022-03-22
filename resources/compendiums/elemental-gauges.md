@@ -14,7 +14,7 @@ Anemo & Geo do not apply auras and are instead denoted with U.
 A more in-depth explanation can be found at [Elemental Gauge Theory](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Elemental Gauges
-*Updated for Patch 2.3.*
+*Updated for Patch 2.5.*
 
 {% tabs %}
 {% tab title="Hydro" %}
@@ -72,6 +72,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Raiden    | - | - | Initial Cast: 1A <br />Proc: 1A | - | Initial Hit: 2B <br />Infused Attacks: 1A | - 
 | Sara      | - | 1A | Skill Damage: 1A <br /> C2: 1A | - | 1A | - |
 | Traveler <br />\(Electro\) | - | - | 1A | - | On Cast: 1A <br />On-Hit Thunder: 1A | - |
+| Yae Miko | 1A | 1A | 1A | 1A | 1A | - |
 
 {% endtab %}
 {% tab title="Anemo" %}
@@ -97,7 +98,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Ningguang | 1U | 1U | 1U | - | 1U | - |
 | Noelle    | - | - | 2U | - | On Cast: 1U <br />Infused Attacks: 1U | - |
 | Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | - |
-| Yunjin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
+| Yun Jin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
 | Zhongli | - | - | 2U | On Cast: 1U<br />Pulse: 1U  | 4U | - |
 
 {% endtab %}

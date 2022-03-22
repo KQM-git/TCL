@@ -59,7 +59,7 @@
   * [Ningguang](characters/geo/ningguang.md)
   * [Noelle](characters/geo/noelle.md)
   * [Traveler \(Geo\)](characters/geo/traveler-geo.md)
-  * [Yunjin](characters/geo/yunjin.md)
+  * [Yun Jin](characters/geo/yunjin.md)
   * [Zhongli](characters/geo/zhongli.md)
 * [Hydro](characters/hydro/README.md)
   * [Barbara](characters/hydro/barbara.md)
