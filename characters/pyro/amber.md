@@ -92,6 +92,7 @@ The longer the button is held, the further the throw.
   * Only environmental effects may apply the hydro aura. 
   * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
 * Multiple Baron Bunnies can be spawned without C4 when utilizing cooldown reduction effects.
+* **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
 {% endtab %}
 
 {% tab title="Fiery Rain" %}
@@ -163,8 +164,10 @@ Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow
 Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
 Explosion via manual detonation deals 200% additional DMG.
 
-* C2 damage instance is considered skill damage  
+* Explosion via manual detonation deals 200% additional DMG.  
+* C2 damage instance is considered skill damage.  
 * Baron Bunny snapshots.  
+* In CO-OP, teammates can manually detonate each other's Baron Bunnies, but the damage bonus will only apply if both players have C2.
 {% endtab %}
 
 {% tab title="C3" %}
