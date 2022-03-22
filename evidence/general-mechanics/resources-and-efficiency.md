@@ -453,7 +453,7 @@ Food is not infinite.
 There exists an investigation daily limit of 100. It is possible to go beyond this number by not leaving the rendered zone after reaching 100. Bake-danukis that give investigation spots count towards this limit as well.
 
 **Evidence:**  
-Video shows me logging into genshin (Welkin, daily commissions displaying due to first login, 160 resin so I crafted condensated resin) and running through 100 investigation spots to showcase that if you investigate 100th spot then rerendering the zone WILL NOT display previously accessible investigation spots.  
+Video shows me logging into genshin (Welkin, daily commissions displaying due to first login, 160 resin so I crafted condensed resin) and running through 100 investigation spots to showcase that if you investigate 100th spot then rerendering the zone WILL NOT display previously accessible investigation spots.  
 [Video](https://youtu.be/vW7O4U4MoJQ)  
 Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investiogation spot in the video and I increased the counter after each one of them.  
 
@@ -499,6 +499,36 @@ Area covered by black thick border shows the vicinity of where I was past 100th 
 A test whether already rendered investigation spots get removed from your memory if you go too far or not - if it was allowed then it would be possible to walk through the entire inazuma (if you're some freaking absolute minmaxer), render all investigation spots at least once and then pick all of them up because everything is stored in your memory.
 
 The above video displays that investigation spots are stored in your memory, and if you go too far then they are removed as it should be, because memory leaks are a horrible thing.
+
+### Multiple Artifact Clusters After 100
+
+**By:** makeway4pK\#3901  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953810490323255406/transcript-multiple-arti-clusters-after-100.html)  
+
+**Findings:**  
+* 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or co-op teammate\) is near them \[1\].
+* 'Order matters': Which spots are included in a cluster can change depending on which spot is being watched when 100th investigate is done \[2\]\[5\].
+* 'Wide clusters': Clusters can extend pretty far \[3\].
+* 'Merged!': Tatarasuna and the nearby spots \#7, \#8 & BK6 can be merged into a single cluster by placing watchers at certain locations. Same goes for Koseki and Seiraimaru \(Kosekimaru?\) \[4\].
+* 'Hypothesis': Seems like there are pre-defined 'groups' of these spots that can be held in memory as long as a watcher is in a certain range of at least one or few of its spots. these groups can still despawn if they are left unwatched anytime after reaching the cap. 
+
+Notes:
+* Cluster is an area/set of spots that can be watched by a single watcher after reaching the daily investigation cap.
+* Spot numbers are referenced from the maps created in previous tickets:  
+  * [Liyue](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
+  * [Inazuma](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
+
+**Evidence:**  
+\[1\] [Basic confirmation](https://youtu.be/8fFM7y-0otk)  
+\[2\] [4 clusters tested](https://youtu.be/7sOR_fM4sJQ), including a 22-spotted one in Seiraimaru \(Ship \+ \#6 \+ 2x BKs\)  
+\[3\] [11-spotted Hiraumi](https://youtu.be/iRlCp7XLBOA), Koseki \+ \#6 \+ 2x BKs
+and BK10 included in Tatara cluster  
+\[4\] [Post-cap run for 184 total spots](https://youtu.be/Y_YuIUWgCmQ)  
+\[5\] [Kosekimaru watchpoint](https://youtu.be/DDxtp-ik3_w), read description  
+
+**Significance:**  
+Allows collecting artifacts from more than \(the previous max of\) 174 spots in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: *5\+99\+32\+30\+11\+7=184*.  
 
 ## Tree Mechanics
 

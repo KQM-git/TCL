@@ -115,6 +115,7 @@ Certain material items can be destroyed, but they don't give anything when destr
 * Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
 * There exists an investigation daily limit of 100. After that, you cannot "investigate" to pick up items anymore. This limit resets at daily reset.
   * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.
+  * As of Patch 2.5, the theoretical maximum is 184 investigation spots. For more information, see this [Vault Entry](../evidence/general-mechanics/resources-and-efficiency.md#multiple-artifact-clusters-after-100).
 * There is a random event daily limit of 10. After that, you receive no reward when completing random events that day.
 
 ### Artifact Drop Spots
