@@ -69,6 +69,7 @@ Electro-Charged is a special Transformative reaction that deals Electro damage a
 * Electro-Charged ticks only consumes Hydro and Electro gauge when both Hydro and Electro are present.
 * Electro-Charged ticks only remove gauge when they deal damage. Both gauges will still decay naturally over time though, with or without damage.
 * 0 gauge Electro attacks don't change Electro-Charged ownership.
+* As of patch 2.5, there is a bug when using Electro as the trigger. The Electro aura will not persist after the Electro-Charged ticks, even when the Electro gauge is greater than the Hydro gauge. Refer to the [Evidence Vault](/evidence/combat-mechanics/elemental-effects/transformative-reactions.md#ec-hydro-aura-electro-trigger-interaction-is-bugged) for more details.
 
 ## Shatter
 
