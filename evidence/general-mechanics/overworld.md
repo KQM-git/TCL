@@ -451,6 +451,26 @@ Waterfalls are inconsistent.
 **Significance:**  
 Falls water.  
 
+### Not All Falls Water is False Water: Enkanomiya Addendum
+
+**By:** Pablos\#1142  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951292350569799731/transcript-not-all-falls-water-is-false-water-enkanomiya-addendum.html)  
+
+**Finding:**  
+* Waterfalls are still inconsistent in version 2.4.
+* Adding point 2. c.
+* Some of the platforms mentioned in point 2. b. can be invisible.
+* New region mapped.
+* New waterfall testing techniques found.
+
+**Evidence:**  
+* [2. c.](https://imgur.com/a/YvGLfiO)
+* Enkanomiya and research techniques tabs added to the existing [waterfall sheet](https://docs.google.com/spreadsheets/d/13R4lerotIbNG2Hc55f974r6H61aEcJd6R4PUYxLPKw0/edit?usp=sharing) with links.  
+
+**Significance:**  
+Update to the map of all waterfalls. Update to the original findings in the library entry. Added collection of tips for future generations of waterfall scholars.  
+
 ### Electro Crystal Range
 
 **By:** Greyhound\#7836  

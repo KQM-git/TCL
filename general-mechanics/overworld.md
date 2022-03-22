@@ -128,7 +128,7 @@ Some constructs take zone level damage, a list of those that have been documente
 - Applying electro to water does not produce electro-charged, instead it creates an instance of Electrified.  
   - Some fountains and pools of water cannot create an instance of Electrified.
 - Overworld water applies hydro with an ICD of 0.25 seconds, a strength of 10 durability per tick, up to a max of 50, and a duration of 8 seconds, regardless of durability.
-- Not all graphically represented water in waterfalls will apply the Wet status to the active character.
+- Not all graphically represented water in waterfalls will apply the Wet status to the active character. See this [Vault Entry](../evidence/general-mechanics/overworld.md#not-all-falls-water-is-false-water) for a complete map.
 
 ### Rain  
 
