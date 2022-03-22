@@ -101,6 +101,8 @@ The overworld map is split into multiple zones that affect enemy level and envir
 
 Some constructs take zone level damage, a list of those that have been documented can be found [here.](../evidence/general-mechanics/overworld.md#constructs-take-zone-level-damage)  
 
+Zone level damage is based on the players current location, not the location of whatever is [taking damage.](../evidence/general-mechanics/overworld.md#zone-level-damage-is-based-on-player-location)
+
 ## Artifacts
 
 - 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.

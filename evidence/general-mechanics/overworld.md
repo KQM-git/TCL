@@ -702,7 +702,23 @@ Some constructs take damage according to zone level.
 * Slime Pool: [Youtube](https://www.youtube.com/watch?v=gmgIcJlTI8o)   
 
 **Significance:**  
-Fluff and overworld documentation.  
+Fluff and overworld documentation.    
+
+### Zone Level Damage Is Based On Player Location  
+
+**By:** NZPIEFACE\#8439   
+**Added:** 03/13/2022   
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/952644713566064710/transcript-zone-levels-are-in-relation-to-players.html)
+
+**Finding:**  
+Zone level damage is relative to the player's position rather than the location of whatever is taking damage.
+
+**Evidence:**   
+The burning damage changes as the player enters and exists different zone levels.   
+[Youtube](https://youtu.be/Z5HkCkU0heY)  
+
+**Significance:**  
+Zone levels are "global" in a sense.
 
 ### Bush Elemental Interaction
 
