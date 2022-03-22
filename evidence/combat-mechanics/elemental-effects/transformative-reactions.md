@@ -1071,6 +1071,23 @@ _If the anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hyd
 **Significance:**  
 More knowledge about how swirl works, better rotations and team-building
 
+### Confirmation of Double Swirl on Freeze Aura Mechanics
+
+**By:** Mutsuki\#0884  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953822978754363472/transcript-confirmation-of-double-swirl-on-freeze-aura-mechanics.html)  
+
+**Finding:**  
+Confirmation of double swirl on frozen enemy mechanics.  
+
+**Evidence:**  
+In [this video](https://youtu.be/w_Oa5dPHNL4), Diona applies 1U Cryo, followed by Kokomi’s N1 applying 1U Hydro to create a Freeze aura. Then Kokomi's Burst is casted to apply a 2U Hydro aura that coexists with the 1U frozen aura. 
+Jean’s E applies 2U Anemo to the frozen target, but only swirls Hydro, which confirms a preciously untested theory that the Anemo gauge must specifically be greater than the coexisting Hydro gauge in order to double swirl a frozen target.  
+As far as I’m aware this was previously unconfirmed due to the difficulty or inability to test this specific scenario of 1U frozen with a 2U Hydro aura prior to Kokomi’s release, as Childe’s 2U Hydro attacks would shatter a frozen enemy.  
+
+**Significance:**  
+Better understanding of the mechanics behind Freeze to better set up rotations in the future.  
+
 ### Swirl AOE Limit
 
 **By:** Terrapin\#8603  
