@@ -584,6 +584,69 @@ Bokuso Box Crit Rate and damage scale off of character stats.
 **Significance:**  
 Affects Favonius passive procs and if you want to kill enemies with the box.  
 
+## Stoves of Babel
+
+**By:** Aevean Leeow\#1362  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953817891340435487/transcript-stoves-of-babel.html)  
+
+**Finding:**  
+Using stoves and Geo Constructs, a traveler may near indefinitely ascend to Celestia until they are out of stoves.  
+
+Constructing the stairway to heaven:  
+
+Multiplayer:  
+* Requirements: Stoves, 1 Albedo.  
+* Recommended: 2 party members with Albedo, Parametric Transformer.  
+* Steps:  
+  1\. Player places stove1.  
+  2\. Place construct1 on stove1.  
+  3\. Everyone in the party gets on construct1.  
+  4\. A different player places stove2. Idling for some time before doing so is recommended, to make later timings more lenient.  
+  5\. Place construct2 on stove2.  
+  6\. Everyone in the party gets on construct2.  
+  7\. Repeat these steps until all co-op players have placed their stoves.  
+  8\. Continually replace the construct that the party is standing on until a player's stove expires \(5 minutes\). This allows for that player to place a new stove. So far, the only construct capable of this is Albedo E.   
+  8\.5\. Optional step: if using Albedo E, place a Parametric Transformer to prevent the elevator from ascending to make refreshing the construct easier. When its time to place the next stove, retrieve the Parametric Transformer to gain more height from elevation.  
+  9\. Repeat steps 1\-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.  
+
+  Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replacable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards. 
+ 
+Singleplayer:  
+* Requirements:  
+  * Stoves, Albedo, Parametric Transformer. 
+  * Geo Traveler or Zhongli \(as of Patch 2.5, these two are the only ones who can perform step 8 to my knowledge\).  
+* Steps:  
+  1\. Place stove.  
+  2\. Place Albedo E on stove.  
+  3\. Get on the albedo construct.  
+  4\. Idle until <30 seconds \(I recommend ~10 seconds\) left on the stove CD.  Note that falling onto the stove directly from the flower keeps you on the flower. Also note that stove CD ticks down while the game is paused.  
+  5\. Place a new Albedo flower on the stove you're on.  
+  6\. Place a Parametric Transformer to prevent the elevator from ascending. This will "snapshot" its stability, and allow the flower to float in midair after the stove expires.  
+  7\. Place a new stove.  
+  8\.a\. Option 1: Place a Geo Traveler E on the side of the stove, angled as perpendicular as possible to the upright stove. Stand at the edge, directly over the stove. After the boulder expires, the player will land and stay on the stove.  
+  8\.b\. Option 2: Zhongli E placed precisely so it lands on the stove at an angle. After the pillar expires, the player will land and stay on the stove. Use NA/CAs to place characters at the edge of the flower, to place the stove and Zhongli opposite of each other.  
+  9\. Swap to Albedo. Retrieve Parametric Transformer.  
+  10\. Repeat steps 4\-9. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.  
+
+**Evidence:**  
+Multiplier:  
+* Proof of concept demo, one cycle: [YouTube video](https://www.youtube.com/watch?v=IGINHKuzA2s)  
+
+Singleplayer:  
+* Proof of concept demo, one cycle: [YouTube video](https://youtu.be/brmzGS5oCJQ)  
+* Zhongli alternative proof of concept: [YouTube video](https://youtu.be/90EkpyJKefE)  
+
+**Significance:**  
+1 Now the whole of Teyvat had one language and a common speech. 2 As people moved eastward, they found a plain in Khaenri'ah and settled there.  
+
+3 They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar. 4 Then they said, “Come, let us build ourselves a city, with a tower that reaches to the stars and the abyss, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole of Teyvat.”  
+
+5 But the Sustainer of Heavenly Principles came down from Celestia to see the city and the tower the people were building. 6 The Sustainer said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them. 7 Come, let us go down and confuse their language so they will not understand each other.”  
+
+8 So the Sustainer scattered them from there over all the Abyss, and they stopped building the city. 9 That is why it was called Babel—because there the Sustainer confused the language of the whole world. From there the Sustainer scattered them over the face of the Abyss.  
+
+
 ## Passive Activation Distance
 
 **By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
