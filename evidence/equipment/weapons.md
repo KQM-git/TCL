@@ -368,6 +368,7 @@ e = 1 - base_cr - cr_from_royal * 4
 f = 1 - base_cr - cr_from_royal * 5
 effective_cr = 1/(1 + a + a*b + a*b*c + a*b*c*d + a*b*c*d*e/(1-f))
 ```
+![](https://i.imgur.com/R2FbCB9.png)  
 
 **Evidence:**  
 Math and explanation in here: [Google Doc](https://docs.google.com/document/d/1m1SLYcYBJVwCH_CpEgJgvnQOMB39iLAJZ9iNyT9EeLQ/)  

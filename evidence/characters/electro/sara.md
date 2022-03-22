@@ -88,8 +88,8 @@ After the v2.2 update, Sara's Elemental Skill is much more consistent and predic
 * [Teleporting away from nearest enemy](https://youtu.be/EcKOqG_nnO4)  
 * Weird geometry:
   * [Tents](https://youtu.be/z1KRGOWs7GY)  
-  * [C2 1m](https://youtu.be/ITKvuRdElHU)
   * [Onto air](https://youtu.be/36iJ6mA8Aak)
+* [C2 1m](https://youtu.be/ITKvuRdElHU)
 * Crowfeather buff range:  
   * [Crowfeather no buff (~2.4 tiles)](https://youtu.be/Oi-jHRFw18E)  
   * [Crowfeather buffs (~2.35 tiles)](https://youtu.be/o2RzwMrok8Y)  

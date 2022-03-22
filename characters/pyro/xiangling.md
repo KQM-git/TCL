@@ -84,7 +84,7 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 Displaying her mastery over both fire and polearms, Xiangling sends a **Pyronado** whirling around her.  
 The **Pyronado** will move with your character for the ability's duration, dealing Pyro DMG to all opponents in its path.
 
-| Attribute | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronade |
+| Attribute | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronado |
 | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 122.4% | 149.6% | 186.32% | 190.4% |
 | Frames | 99 | - | - | - |

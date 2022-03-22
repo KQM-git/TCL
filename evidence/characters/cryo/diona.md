@@ -224,25 +224,25 @@ Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the
  
 **Evidence:**  
 * Diona
-  * 92/100 r2 hold E in abyss (theoretical 96.875%)
-  * 93/100 r2 hold E in abyss
-  * 95/100 r2 hold E in abyss
-  * 93/100 r2 hold E in abyss
-  * 94/100 r3 hold E in abyss (theoretical 98.976%) first 50 runs only, but it's 47/50 so same percentage at least: [Youtube](https://www.youtube.com/watch?v=113GE8yXMpc)
-  * 92/100 r3 hold E on pyro regisvine
-  * 78/100 r1 hold E (from friend) in abyss (theoretical 92.224%)
-  * 280/300 r3 hold E in abyss [Youtube](https://youtu.be/gNgc723WkO8)
-  * 49/50 r1 fav bow in abyss, 89.4% crit rate (theoretical 97.859% from ItzSomebody/#0029's math) [Youtube](https://youtu.be/2vikaPLhSPo)
+  * 92/100 R2 hold E in Abyss (theoretical 96.875%)
+  * 93/100 R2 hold E in Abyss
+  * 95/100 R2 hold E in Abyss
+  * 93/100 R2 hold E in Abyss
+  * 94/100 R3 hold E in Abyss (theoretical 98.976%) first 50 runs only, but it's 47/50 so same percentage at least: [YouTube](https://www.youtube.com/watch?v=113GE8yXMpc)
+  * 92/100 R3 hold E on Pyro Regisvine
+  * 78/100 R1 hold E (from friend) in Abyss (theoretical 92.224%)
+  * 280/300 R3 hold E in Abyss [YouTube](https://youtu.be/gNgc723WkO8)
+  * 49/50 R1 fav bow in Abyss, 89.4% crit rate (theoretical 97.859% from ItzSomebody\#0029's math) [YouTube](https://youtu.be/2vikaPLhSPo)
 * XQ
-  * 87/100 r3 in abyss (theoretical 84%)
+  * 87/100 R3 in Abyss (theoretical 84%)
 * Sucrose
-  * 42/50 r2 5 enemies hit in abyss from pai (theoretical 96.875%) [Youtube](https://youtu.be/dbYao5ego1Q)
+  * 42/50 R2 5 enemies hit in Abyss from pai (theoretical 96.875%) [YouTube](https://youtu.be/dbYao5ego1Q)
 * Ayaka
-  * 97/100 r3 5 enemies hit in abyss (theoretical 98.976%)
+  * 97/100 R3 5 enemies hit in abyss (theoretical 98.976%)
 * EMC
-  * 47/50 r3 in abyss (theoretical 93.6%) [Youtube](https://youtu.be/f0T14Pxa7uA)
+  * 47/50 R3 in Abyss (theoretical 93.6%) [YouTube](https://youtu.be/f0T14Pxa7uA)
 * Sara
-  * 49/50 r3 4-5 enemies hit in abyss (theoretical between 97.44% and 98/976%) [Youtube](https://youtu.be/tHPgAaspY1U)
+  * 49/50 R3 4-5 enemies hit in Abyss (theoretical between 97.44% and 98/976%) [YouTube](https://youtu.be/tHPgAaspY1U)
 
 **Explanation/Methodology:**  
  To find out why diona is not proccing Sacrifical Bow correctly, both sac and fav bow were tested on diona to ensure that it was simply not diona's hold E being weird in general, sac weapons were tested on hitting multiple enemies to see if it triggered correctly, a sac weapon (sword) was tested on hitting one enemy multiple times with the same skill (emc e) to see if it triggered correctly, and sac bow specifically was tested on hitting multiple enemies to see if it triggered correctly.  

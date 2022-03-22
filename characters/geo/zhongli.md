@@ -89,7 +89,7 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 | Attribute | Stone Stele | Resonance DMG | Hold DMG |
 | :--- | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 27.2% | 54.4% | 136% |
-| Particles | 0~1 \(1:1\) | - | 0~1 \(1:1\) |
+| Particles | - | 0~1 \(1:1\) | - |
 | Frames | 39 | - | 97 |
 | GU | 2U | 1U | 1U |
 | ICD | 3 hits / 2.5s | 3 hits / 2.5s | 3 hits / 2.5s

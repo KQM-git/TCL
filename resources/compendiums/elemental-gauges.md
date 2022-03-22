@@ -97,7 +97,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Itto      | Infused Attack: 1U | Infused Combo Slash: 1U <br />Infused Final Slash: 1U | 1U | - | - | - |
 | Ningguang | 1U | 1U | 1U | - | 1U | - |
 | Noelle    | - | - | 2U | - | On Cast: 1U <br />Infused Attacks: 1U | - |
-| Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | - |
+| Traveler <br />(Geo) | Frenzied Rockslide \(A4\): 1U | - | On Cast: 2U <br />Rockcore Meltdown \(C2\): 1U | 2U | 2U | - |
 | Yun Jin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
 | Zhongli | - | - | 2U | On Cast: 1U<br />Pulse: 1U  | 4U | - |
 

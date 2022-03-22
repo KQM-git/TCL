@@ -8,7 +8,7 @@ Weapons can be refined by combining a weapon with one of the same type. This inc
 
 Weapons that gain stacks on hit are affected by ping. You will only gain stacks when the hit registers on the server, and the server will process hits at the same time, without caring about when the client actually made the hits.
 
-Freedom Sworn, which gains its buffs from reactions happen, has normal behaviour.
+Freedom Sworn, which gains its buffs from reactions happening, has normal behaviour.
 
 Polar Star behaves differently as it has individual stacks for each type, and will gain all the stacks at the same time when the hit is registered.
 

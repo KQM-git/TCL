@@ -108,26 +108,23 @@ DMG and AoE will gradually increase.
 If the vortex comes into contact with Hydro/Pyro/Cryo/Electro, it will deal additional elemental DMG of that type.
 Elemental Absorption may only occur once per use.
 
-| Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Cutting DMG \(T9%\) | - | 20.4% x 2 + 28.56% x 4 |
-| Absorption DMG \(T9%\) | 25% | 5.1% x 2 + 7.14% x 4 |
-| Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% |
-| Absorption DMG \(T9%\) | - | 74.80% / 81.60% |
-| Particles | 2 | 2 / 3~4 (2:1) |
-| Frames | 60 | 60~145 |
-| GU | 1U | 1U |
-| Absorption GU | - | 1A |
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | - | Dynamic |
-| Damage Element | Anemo | Anemo |
-| Absorption Element | ~ | Absorbed Element |
-| Damage Type | Skill | Skill |
-| CD | 5s | 5s / 8s |
+| Attribute | Tap | Hold | Additional Elemental DMG |
+| :--- | :--- | :--- | :--- |
+| Cutting DMG \(T9%\) | - | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4 |
+| Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% | 74.80% / 81.60% |
+| Particles | 2 | 2 / 3~4 (2:1) | - |
+| Frames | 60 | 60~145 | - |
+| GU | 1U | 1U | 1A |
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s |
+| Snapshot | - | Dynamic | Dynamic |
+| Damage Element | Anemo | Anemo | Absorbed Element |
+| Damage Type | Skill | Skill | Skill |
+| CD | 5s | 5s / 8s | - |
 
 **Notes**
 * Absorption priority: Cryo > Pyro > Hydro > Electro
-* When held beyond the first two Cutting DMG hits, the skill's damage, particle generation, and cooldown are all increased.
+* When held beyond the 2 Initial Cutting DMG hits, the Skill's damage, particle generation, and cooldown are all increased; and the last hit is Max Storm DMG instead of Initial Storm DMG.
+* There is either 0 or 1 instance of Additional Elemental DMG with the 2 instances of Initial Cutting DMG, it's random.
 {% endtab %}
 
 {% tab title="Gust Surge" %}
@@ -138,7 +135,7 @@ If the tornado comes into contact with Hydro/Pyro/Cryo/Electro, it will deal add
 Elemental Absorption may only occur once per use.
 
 
-| Attribute | Tornado | Absorption DMG |
+| Attribute | Tornado | Additional Elemental DMG |
 | :--- | :--- | :--- |
 | Tornado DMG \(T9%\) | 137.36% * 9 | 42.16% * 9 |
 | Tick Rate | 0.5s | 0.5s | 
@@ -172,7 +169,7 @@ The Traveller has no passive talent.
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.
 
 **Notes**
-* Applies 1U Anemo
+* Applies 1U Anemo.
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 {% endtab %}
@@ -231,7 +228,7 @@ Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 2
 If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
 
 
-* This effect lasts 10 seconds
+* This effect lasts 10 seconds.
 
 {% endtab %}
 {% endtabs %}
