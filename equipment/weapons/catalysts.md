@@ -44,9 +44,10 @@
 | CRIT DMG% | 14.4% - 66.2% |
 
 * Stacks refresh on stack gain and act as one.  
-* Stacks are gained upon initial input, not on hit.
+* Stacks are gained upon initial input, not on hit.  
 * Stacks are dynamic and can't be snapshotted.  
 * The Elemental Skill that triggers a stack is also affected by it.  
+* Klee can gain 2 stacks by casting 1 E with a double tap and no other actions are performed within ~81 frames afterwards.
 
 {% endtab %}
 

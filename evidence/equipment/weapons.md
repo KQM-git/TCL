@@ -677,6 +677,35 @@ Since the buff is yet still applied to Skills that produce it, it is conclusory 
 Kagura's Verity's Skill% is dynamic and cannot be snapshotted. What this also implies is that Elemental Skills that were to produce a Stack of Kagura Dance would also get it’s buff applied to itself. Which further leads to the conclusion that every Elemental Skill used, if Kagura’s Verity is equipped, will have at least 1 Stack of Kagura Dance applied.  
 The Skill% buff being dynamic also fits in line with other Skill% buffs which are also dynamic (Solar Pearl).  
 
+#### Klee and Kagura Stacks
+
+**By:** solo\#3333  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951283825449775195/transcript-klee-and-kagura-stacks.html)  
+
+**Finding:**  
+Klee can get 2 stacks of Kagura's Verity from only 1 cast of her Jumpy Dumpty by inputting the Skill twice or more before it goes on cooldown \(aka "double tap"\), however with several caveats.  
+* The first stack is gained approx. 34 frames into the cast, and the second stack is gained approx. 81 frames into the cast.
+* Klee cannot perform any other actions between these frames or the additional stack will not be granted. This includes dashing, jumping, using Burst, Normal Attacks, Charged Attacks, and using her Skill again \- all of which she can do before ~81 frames have passed from the first skill. If Klee uses both charges of Jumpy Dumpty and she allows ~81 frames to pass for at least one of them, she will end up with 3 stacks of the weapon.
+
+**Evidence:**  
+* [Frames](https://youtu.be/C0CZwAcytJ8): Notice how the Skill icon lights up twice before going on cooldown. There is also a visual and audio indicator when Kagura stacks are granted (a layer of the weapon glows and a bell chime plays). However the visual is extremely subtle. To the best of my knowledge, the cast animation is at 230 frames, the first stack is at ~264 frames, and the second stack is at ~311 frames.
+- [Proof of stack gaining techniques](https://youtu.be/0h_NRGgl4qA) \(credit to pai\#3602\).
+  * First clip: cast E, no double tap, 1 stack is granted.
+  * Second clip: cast E, with double tap, 2 stacks are granted, after ~81 frames.
+  * Third clip: cast E, with double tap, 2 stacks are granted after ~81 frames. Use the second charge, and the 3rd stack is granted.
+  * Fourth clip: cast E, with double tap, but do not wait 81 frames, only 1 stack is granted. Use the second charge with double tap, and wait ~81 frames, the last 2 stacks are finally granted.
+* Other inputs cancel the additional stack, such as:
+  * [Dashing](https://youtu.be/oH9fHlXlpoE)
+  * [Jumping](https://youtu.be/rgVjce5RGqE)
+  * [Bursting](https://youtu.be/DZLf-SMmF3g) \(note the buff arrows are from C6 not the weapon\)
+  * [Using Skill again](https://youtu.be/H_-JWNsMXKY) \(you get another stack immediately upon 2nd skill usage, but it doesn't progress to 3\)
+  * [Using N1](https://youtu.be/3of3YagGA4Q)
+  * [Using CA](https://youtu.be/ZxWfmyAHGbs)
+
+**Significance:**  
+Potentially affects the viability of this weapon for Klee. The caveat of waiting for ~81 frames has dubious impact on a real rotation since most Klee usage involves animation cancels. See [this doc](https://docs.google.com/spreadsheets/d/1-jb7WVxtqFbeLKIyIVvqTQJdsBFYuUnUzRrvStiGqH8/edit?usp=sharing) for stack counts on every part of a standard Klee rotation vs their delayed version.  
+
 ### Kitain Cross Spear  
 
 #### Kitain Spear energy drain delay
