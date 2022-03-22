@@ -80,6 +80,8 @@ Attacks that apply Shatter have different GU values, refer to the [Evidence Vaul
 In some situations, Shattering a Frozen enemy removes less than the normal 8GU. This allows multiple Shatters to occur on a single Frozen, or Shatter + Melt at the same time.
 * This appears to be a bug and not a consistent reaction.
 
+Shatter does not trigger weapon, artifact, or character Passives.  
+
 ## Frozen
 
 Frozen is an elemental reaction triggered by applying Cryo on a target already afflicted by a Hydro aura or vice versa. If the Frozen aura expires or is Shattered, any underlying Hydro or Cryo aura will persist, note that the Cryo or Hydro application to trigger Frozen will consume the appropriate amount of aura.

@@ -1022,6 +1022,25 @@ Write-up: [Google Docs](https://docs.google.com/document/d/1JJTGJzIUdIKUCEK-SxWE
 **Significance:**  
 Better understanding of freeze duration. More accurate dps calcs in permafreeze teams. Gcsim.
 
+### Shatter Doesn't Trigger Stuff
+
+**By:** Peekays\#2722  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953773287568195644/transcript-shatter-doesnt-trigger-stuff.html)  
+
+**Finding:**  
+Shatter does not trigger Passives that are supposed to trigger when a reaction occurs.  
+
+**Evidence:**  
+Some of the things that Shatter does not trigger:
+* [4pc Instructor](https://youtu.be/9bGdyhvrBYY)
+* [Qiqi A1](https://www.youtube.com/watch?v=i8LNwupWwEg)
+* [Mappa Mare Passive](https://www.youtube.com/watch?v=jXZ-HqBivS4)
+* [Freedom-Sworn](https://youtu.be/ZiWo2v35XlM)
+
+**Significance:**  
+Perhaps some surprising exceptions.  
+
 ## Swirl
 
 ### How to get Double Swirls
