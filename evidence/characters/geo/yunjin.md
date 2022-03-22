@@ -13,6 +13,8 @@
   * Charge Level 1: 2U - [Video](https://youtu.be/O-12CGs2loY) - Maes\#6425
   * Charge Level 2: 4U - [Video](https://youtu.be/-JSFRsaT2h4) - Carrier5by5\#8394
   * Burst: 2U - [Video](https://youtu.be/f_FVqV4lekY) - Maes\#6425
+* ICDs
+  * NA: Standard - [Bobrokrot\#0111](https://youtu.be/vA1n8zIiNDE)
 * Frames - pai\#3602
   * NA - [Video](https://youtu.be/YMw3rq7lclQ)
     * N1: 15

@@ -92,7 +92,7 @@ Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the f
 | Particles | 3~4 \(1:1\) | 
 | Frames | 26 |
 | GU | 1U |
-| ICD | - | 
+| ICD | 1s | 
 | Snapshot | - | 
 | Damage Element | Geo | 
 | Damage Type | Skill |

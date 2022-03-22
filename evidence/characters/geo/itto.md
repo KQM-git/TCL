@@ -12,6 +12,7 @@
   * Itto Skill, Normal Attacks, Combo Slash, and Final Slash all apply 1U Geo
 * ICDs
   * Normal Attacks follow the standard ICD and has a separate ICD counter from his Skill. - [CC\#5588](https://youtu.be/OJSMfjGhiGA)
+  * Elemental Skill has a 1s ICD. - [EE less than 1s apart](https://youtu.be/hAALkzc5VPs) / [EE more than 1s apart](https://youtu.be/8f1A22DHqnU) - Bobrokrot\#0111
 * Frames -
   * NA - [pai\#3602](https://youtu.be/L0IcjCtR6Jo)
     * N1: 23

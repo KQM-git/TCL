@@ -17,6 +17,7 @@ search: false
   * Elemental Burst: Initial Hit [1GU](https://youtu.be/qkBwZtagqKo), Crystal Collapse 1GU
 * ICDs - Nass008\#8577 
   * CA: Gorou fully-charged CA has no ICD/the ICD is shorter than fastest possible CA shots - [BowTae\#0141](https://youtu.be/NFpvCqMJiBM)
+  * Skill: 1s. - [EE less than 1s apart](https://youtu.be/rBKZPjxivzM) / [EE more than 1s apart](https://youtu.be/Gj8RIKWs-Vk) - Bobrokrot\#0111
   * Burst: 1. initial hit and crystal collapse have separate ICD. Crystal Collapse follows normal ICD (2.5s) - [Nass008\#8577](https://youtu.be/oOMcBCHDC-Q)
 * Particles
   * Elemental Skill: Gorou produces 2 geo particles on Elemental Skill cast. (I hope 7 tests is enough, ping pong me if it isn't and/or you get something other than 2 particles. - [Neptunya\#8291](https://youtu.be/QHq1Y_-asIw)

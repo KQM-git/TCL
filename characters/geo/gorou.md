@@ -77,7 +77,7 @@ Adjust the location of the skill.
 | Particles | 2 \(-\) | 
 | Frames | 46 \(Press\)<br />62-649 \(Hold\) |
 | GU | 1U |
-| ICD | - | 
+| ICD | 1s | 
 | Snapshot | - | 
 | Damage Element | Geo | 
 | Damage Type | Skill |

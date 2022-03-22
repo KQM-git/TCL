@@ -16,6 +16,7 @@ search: false
   * Q Initial Hit: 2U - [https://youtu.be/Od_n0SFK6x8](https://youtu.be/Od_n0SFK6x8)
   * Q Coordinated Atk: 1U - [https://imgur.com/uM78uT9](https://imgur.com/uM78uT9)
 * ICD
+  * NA follows standard ICD - [Bobrokrot\#0111](https://youtu.be/GkWJO_tWn50)
   * Thoma Q follows standard ICD - [YouTube](https://youtu.be/L2y1hf-RqO4) / [Frames](https://imgur.com/MDSh99X) - by Nass008\#8577
   * Q initial hit and coordinated attack do not share ICD - [Nass008\#8577](https://youtu.be/RaaBR5VlX3w)
 * Snapshotting
