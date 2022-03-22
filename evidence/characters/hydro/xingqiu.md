@@ -210,3 +210,29 @@ We understand more about how XQ's damage reduction works. Additionally, this mea
 [Video](https://www.youtube.com/watch?v=Mgbi6X0TTxM)
 
 **Significance:** For vape comps with C6 XQ, every 3rd sword wave basically guarantees hydro aura. For EC comps, it makes it more likely for the electro to be the trigger. Generally speaking, it gives XQ greater hydro aura potential.
+
+## Miscellaneous
+
+### Xingqiu EQE vs QEE
+
+**By:** Steno\#0119  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953826281793933312/transcript-xq-eqe-vs-qee.html)  
+
+**Finding:**  
+Xingqiu EQE leads to about a 0.5 \- 1s longer rotation time on average compared to QEE or EEQ in teams where Xingqiu E CD gates the rotation time.  
+
+This is because when performing EQE, his E CD is not ticking down during Q cast, whereas with QEE, this problem is avoided.  
+
+Additional notes:
+* QEE has the highest damage from C4.
+* EEQ has the highest energy potential for Xingqiu due to him catching particles from both Es.
+* EQE is the easiest combo to perform since it does not require dash cancels. In terms of animation time, the three combos are close enough that human error renders the differences minimal.  
+
+**Evidence:**  
+[Video 1](https://youtu.be/A1DF98OHyIo): This clip compares EQE (left) and QEE (right) side by side with E CDs shown in the bottom right corners. The frame counter starts at the beginning of the first E press on both clips, and right clip starts to pull ahead by a larger margin for every rotation.  
+
+[Video 2](https://youtu.be/N_E4wFXDis0) \(evidence for additional notes\): Very rough comparison between the three combos, NOT FRAME PERFECT, this is meant to show how fast an average player would perform these combos.  
+
+**Significance:**  
+Optimizing rotation times on teams with Xingqiu.

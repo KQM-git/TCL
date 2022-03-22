@@ -100,6 +100,7 @@ Using this ability applies the Wet status onto the character.
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s. 
 * While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
+* EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
 
 {% endtab %}
 
