@@ -301,7 +301,7 @@ Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q tic
 **Significance:**  
 The passive of royal weapons continues to stack even when a snapshotting skill deals damage over time. First, cast the skill at low crit, and have the character gain crit from royal weapon's passive while the skill maintains its low crit rate because it snapshots. This allows stacks to be gained without an increased chance of losing them. Which means, the increased crit rate can then be capitalized on by casting high damage abilities during that window of increased crit rate.
 
-### Royal Series AOE Abilities and Mechanics
+### Royal Series AoE Abilities and Mechanics
 
 **By:** Bobrokrot\#0111  
 **Added:** 6/25/2021  
@@ -598,7 +598,7 @@ This will hurt Albedo's damage until this is fixed. This bug is known and has be
 
 **By:** Vye\#9195  
 **Added:** 09/11/2021  
-[Discussions 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html)  
+[Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html)  
 [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
 
 **Finding:**  
@@ -1196,6 +1196,26 @@ Bennett takes hit 2 at 261 frames (4.35 seconds)
 The Alley Flash's passive symbol fully materializes at 561 frames (9.35 seconds)
 
 **Significance:** Every time you take damage with Alley Flash equipped, you reset the timer and thus extend the downtime of the passive.
+
+---
+
+### The Widsith
+
+#### Widsith Abyss Second Half Proc
+
+**By:** Keteru\#3020  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953765873573834813/transcript-widsith-abyss-chamber-two-proc.html)  
+
+**Finding:**  
+The Widsth’s Passive activates upon entering the second half of an Abyss chamber with its holder being on the first slot.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/BbthBalOGiM)  
+Yae Miko holding The Widsith in slot 1 is buffed for less than 10 seconds, seemingly triggering during the transition screen when proceeding changing from first half to second half, eating into the buff uptime.  
+
+**Significance:**  
+Changes Abyss team slotting and potentially optimal team rotation when using The Widsith.  
 
 ---
 

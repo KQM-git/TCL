@@ -553,7 +553,8 @@
 | Base ATK | 42 - 510 |
 | CRIT DMG% | 12% - 55.1% |
 
-* The Passive remains active even when the character is swapped out.  
+* The Passive remains active even when the character is swapped out.
+* When entering the second half of a Spiral Abyss chamber, if the wielder is in the first slot the buff timer will start during the loading screen.
 {% endtab %}  
 
 {% tab title="Details" %}
