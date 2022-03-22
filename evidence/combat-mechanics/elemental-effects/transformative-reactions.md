@@ -1212,6 +1212,27 @@ I electro charged in different orders with different application strengths. The 
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
 
+### Crystal Spawn Location for Enemy
+
+**By:** Sylenwolf\#5802  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953745714004000788/transcript-crystal-spawn-location-for-enemy.html)  
+
+**Finding:**  
+The Crystalize reaction will always spawn a crystal in front of the enemy.  
+
+**Evidence:**  
+Ningguang applies Geo with Normal Attacks. Then, the Crystalize reaction occurs and the crystal spawns in front of the enemy. Do note that some enemies don't have a specific "front side", such as the hypostases. There are other factors that could determine where the crystals spawn, like when an enemy turns around or moves. However the principles  stays the same.  
+
+* Ruin Guard: [YouTube video](https://youtu.be/VsUPVCRX2YU)
+* Samachurl: [YouTube video](https://youtu.be/8vq-Bu7sI_I)
+* Electro Hypostasis: [YouTube video](https://youtu.be/fDHL6BBgPKg)
+
+**Significance:**  
+1. Makes it easier for characters to pick up crystals.
+2. Makes it easier for characters to use the Archaic Petra artifact set. 
+3. Allows the player to determine the position of the enemies and which way they are facing. 
+
 ## Burning
 
 **By:** Scavenger\#6510

@@ -151,6 +151,7 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 
 * Triggering Crystallize on an Electro-Charged target will provide an Electro Crystal.
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
+* Crystals will always spawn in front of the enemy when possible.
 
 ## Burning
 
