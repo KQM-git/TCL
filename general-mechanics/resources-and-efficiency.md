@@ -27,9 +27,29 @@ Eula and albedo's passive has a 10% chance to give more materials while Xingqiu 
 
 ### Realm Currency Exchange Rate
 
-The most Resin-efficient purchase order at the Realm Depot is to claim the Magic Enhancement Ores every week, then the Wits, and then the Mora \(assuming that the Traveler has already claimed the Transient Resin if they wish to\).
+#### Initial Analysis by Mateng\#4507
+[Vault Entry](../evidence/general-mechanics/resources-and-efficiency.md#realm-currency-exchange-rate-analysis)  
 
-For Travelers who wish to maximize Stardust and minimize Realm Currency: target Magic Enhancement Ores -&gt; EXP -&gt; Mora at Paimon's Bargains in the Shop. Inverse this priority \(Mora -&gt; EXP -&gt; Magic Enhancement Ores\) if Travelers wish to maximize Realm Currency and minimize Stardust.
+* 4 Wits / 1200 RC \(1 Wit = 120 RC\)
+* 100000 mora / 1200 RC \(1 mora = .012 RC\)
+* 20 MEOs / 1200 RC \(1 MEO = 60 RC\)
+* 60 resin / 1200 RC
+
+The most Resin-efficient purchase order at the Realm Depot is to claim the Magic Enhancement Ores every week, then the Wits, and then the Mora \(assuming that the Traveler has already claimed the Transient Resin if they wish to\).  
+
+For Travelers who wish to maximize Stardust and minimize Realm Currency: target Magic Enhancement Ores -&gt; EXP -&gt; Mora at Paimon's Bargains in the Shop. Inverse this priority \(Mora -&gt; EXP -&gt; Magic Enhancement Ores\) if Travelers wish to maximize Realm Currency and minimize Stardust.  
+
+#### Extended Analysis by chowr\#0522
+[Vault Entry](../evidence/general-mechanics/resources-and-efficiency.md#realm-currency-extended-analysis)  
+
+* XP Book: 0.0272 Resin/RC \(Resin per RC\)
+* MEO: 0.0278 Resin/RC
+* Mora: 0.0278 Resin/RC
+* Artifact XP \(Small\): 0.0376 Resin/RC
+* Artifact XP \(Large\): 0.0376 Resin/RC
+* Transient Resin: 0.05 Resin/RC
+
+Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expediture each week is 5040 RC.  
 
 ### Battle Pass Resin Value
 
