@@ -1231,6 +1231,34 @@ The videos show:
 **Significance:**  
 This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
 
+#### Aquila Healing is Affected by Healing Bonus
+
+**By:** IAmOnYourSide\#5431  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951288550870089768/transcript-aquila-healing-affected-by-healing-bonuses.html)  
+
+**Finding:**  
+Aquila's healing effects are affected by incoming and outgoing healing bonuses.  
+
+**Evidence:**  
+[No healing bonuses](https://youtu.be/pXTGlicy6A4)  
+* HP restored: 291
+* Bennett with almost no artifacts.
+
+
+[Hydro Resonance](https://youtu.be/A5Pqazum-4g)  
+* HP restored: 379
+* 379/291 = 1.302405498281787
+* Yields 30% from Hydro Resonance as expected.
+
+[Hydro Resonance + 2pc Maiden](https://youtu.be/XdoseuBTj5c)  
+* HP restored: 422
+* 422/291 = 1.4501718213058419
+* Yields 45% from Hydro Resonance + 2pc Maiden as expected.
+
+**Significance:**  
+Aquila's healing effects are affected by incoming and outgoing healing bonuses. Prototype Amber and The Black Sword are expected to be the same, but were not tested.  
+
 ## General Mechanics
 
 ### Event Weapons Cannot be Foddered

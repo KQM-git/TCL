@@ -14,6 +14,7 @@
 | Phys DMG Bonus | 9% - 41.3% |
 
 * There is some inconsistency with shielded characters and **Falcon's Defiance** trigger. For more details, check the Vault Entry linked - [gvo#4200](../../evidence/equipment/weapons.md#aquila-favonia)
+* The healing is affected by Incoming and Outgoing Healing Bonuses.
 {% endtab %}
 
 {% tab title="Details" %}
