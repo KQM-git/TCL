@@ -162,6 +162,7 @@ The targeting point for targeted skills (which is everything except bow aim shot
 Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge Attacks can potentially whiff on frozen enemies, resulting in a significant DPS loss. 
 
 ## Miasmic Tumor  
+
 **By:** NZPIEFACE\#8439  
 **Added:** 02/20/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929743744322912316/945093554731102290/transcript-miasmic-tumour.html)   
@@ -225,6 +226,7 @@ Shows HP thresholds for attacks.
 Documentation of this bosses attacks and interactions.  
 
 ## Raiden Boss Resistances
+
 **By:** Bobrokrot\#0111  
 **Added:** 02/21/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945473947456131152/transcript-raiden-boss-resistances.html)  
@@ -237,3 +239,23 @@ Calculations and video links in the [sheet](https://docs.google.com/spreadsheets
 
 **Significance:**  
 This knowledge will allow us to concoct strategies on how to defeat Magatsu Mitake Narukami no Mikoto.  
+
+## Coral Defender Orb Mechanics
+
+**By:** Wesu\#8719  
+**Added:** 03/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953726835890487376/transcript-coral-defender-orb-mechanics.html)  
+
+**Findings:**  
+The energy burn orbs from Coral Defenders have 1 instance of damage. This damage is made up by a Base DMG part \(which can be blocked by a shield\) and a DMG part that is based on how much excess energy burn was dealt \(unblockable, goes through shields\). Each orb does 30 energy damage, if you get hit by the orb while having less than 30 energy, the leftover energy burn gets converted to Elemental DMG, both the Base DMG and the excess energy burn are affected by DEF but not by RES. The energy burn orbs are capable of triggering Elemental Reactions, however in case of Amplifying Reactions they will only amplify the base DMG \(blockable\) part and not the excess energy DMG \(unblockable\) part.  
+
+**Evidence:**  
+* [One damage source](https://youtu.be/Ns2Uzj6sywM)
+* Damage test 1: [Full health, no DEF sands](https://imgur.com/SV3ooJf)
+* Damage test 2: [Damaged, no DEF sands](https://imgur.com/4dSkSTd)
+* Damage test 3: [Damaged, with DEF sands](https://imgur.com/4dSkSTd)
+* Damage test 4: [4 elements +15% resistance resonance, no DEF sands](https://imgur.com/m9HbEOg) \(44 less DEF than tests 1 and 2\)
+* Damage test 5: [Melt, no DEF sands](https://imgur.com/zK9wlg5) \(44 less DEF than tests 1 and 2\)
+
+**Significance:**  
+It was previously assumed that the damage is based on how much HP a character has, this turns out to not be the case (no difference in damage taken between test 1 and 2). The damage actually is affected by DEF but not by RES. Melt does not increase the damage dealt by the unblockable part, which adds value to shielders such as Zhongli.
