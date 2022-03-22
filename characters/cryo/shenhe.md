@@ -104,6 +104,7 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 * **Icy Quill** stacks are used up even if no damage is dealt to an enemy (when they have a shield).
 * **Icy Quill** stacks increase the damage dealt to shields \(excluding cryo\) by ~15 to 20% .
 * **Spring Spirit Summoning** \(Hold\) makes Shenhe immune to all staggers and knockbacks for its animation duration.
+* **Icy Quill** stacks are not consumed when used on Slime balloons.
 
 {% endtab %}
 

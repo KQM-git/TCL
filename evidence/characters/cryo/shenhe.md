@@ -31,8 +31,6 @@
     * Hold: 44
   * Q: 75 - [Video](https://youtu.be/4mFOlxCVYL0) - CC\#5588
 
-## Normal Attack Mechanics
-
 ## Skill Mechanics
 
 * **Particles** - [Video](https://youtu.be/UvlvFAPLyRQ) - CC\#5588
@@ -65,6 +63,21 @@
 Shenhe does not have ICD.  
 
 **Evidence:** [Video](https://youtu.be/Mwaz-2plb2E) / [Video #2](https://youtu.be/XiH9TzHF76Q)
+
+### Quills Don't Work on Balloons
+
+**By:** Sincronic\#3171  
+**Added:** 03/09/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951189874780827719/transcript-quills-dont-work-on-balloons.html)  
+
+**Finding:**  
+Shenhe's quills don't work and aren't spent when attacking commission balloon with Cryo.  
+
+**Evidence:**  
+[YouTube video](https://www.youtube.com/watch?v=Zm7hm5qsH44)  
+
+**Significance:**  
+Understanding of quill mechanics.  
 
 ## Burst Mechanics
 
@@ -130,4 +143,4 @@ These slow-motioned clips show that Shenhe's Gluteal Region does not exhibit osc
 [Video](https://www.youtube.com/watch?v=FWov8jKaZgs)
 
 **Significance:**  
-![](../../.gitbook/assets/monkaS.png)
+![](https://cdn.discordapp.com/emojis/790930403241623553.webp?size=48&quality=lossless)
