@@ -378,17 +378,18 @@ If running these together you should avoid triggering both while holding a spare
 
 ### **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
 
-**By:** ioannesfifth\#1236 **Added:** 01/26/2021
+**By:** ioannesfifth\#1236  
+**Added:** 01/26/2021  
 
-**Evidence:**
-
-Images are stored in:
+**Evidence:**  
+Images are stored in:  
 
 * Base Stats: [https://imgur.com/a/pQW7ujK](https://imgur.com/a/pQW7ujK)
 * Albedo Q then Sucrose E: [https://imgur.com/a/KJ5Cp3E](https://imgur.com/a/KJ5Cp3E)
 * Sucrose E then Albedo Q: [https://imgur.com/a/b3u2QhE](https://imgur.com/a/b3u2QhE)
 
-**Setup:** a team comprised of an artifact-less 0 EM Childe, 0 EM Albedo, and a 154 EM Sucrose.
+**Setup:**  
+A team comprised of an artifact-less 0 EM Childe, 0 EM Albedo, and a 154 EM Sucrose.
 
 The final EM we expect from Childe and Albedo is determined by the ff formulas:
 
