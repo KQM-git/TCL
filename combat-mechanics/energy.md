@@ -2,23 +2,23 @@
 
 ## What is Energy?
 
-Energy is the resource that allows you to cast elemental bursts.
+Energy is the resource that allows you to cast Elemental Bursts.
 
 ## How to Get Energy
 
 ### Elemental Skills
 
-If an elemental skill hits an enemy, **elemental energy particles** will be generated. For details on how much energy specific skills/characters generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
+If an Elemental Skill hits an enemy, **Elemental Particles** will be generated \(with some exceptions such as Barbara or Noelle's Elemental Skill\). For details on how many **Elemental Particles** specific skills/characters generate, this [table](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit?usp=sharing) has it all.
 
 ### Auto Attacking
 
-Normal, Charged and Plunge attacks have a chance on hit to give the on field character about 1 **flat energy**. This can be seen when the on field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user is unable get particles from their elemental skill, such as in Xiao's Bane of All Evil.
+Normal and Charged Attacks have a chance on hit to give the on field character about 1 **Flat Energy**. This can be seen when the on field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user is unable get particles from their Elemental Skill, such as in Xiao's [Bane of All Evil](../characters/anemo/xiao.md#attacks).
 
-This flat energy is only gained by the character on-field, off-field characters gain no energy from this method.
+This **Flat Energy** is only gained by the character on-field and is not affected by Energy Recharge, off-field characters gain no energy from this method.
 
 ### Enemy HP Thresholds
 
-Every enemy has specific HP thresholds at which they will drop energy particles or orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop particles/orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
+Every enemy has specific HP thresholds at which they will drop Elemental Particles or Orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop Particles/Orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
 
 ### Weapons
 
