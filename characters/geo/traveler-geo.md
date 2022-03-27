@@ -149,6 +149,7 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 * Creates 4 walls one in each cardinal direction from where the character is facing. 
 * These are considered **Geo Construct**s but do not count towards the construct limit and cannot be climbed.
 * These walls do not count towards the construct limit. They greatly improve Zhongli's resonance.
+* The hitbox can be displaced by certain enemy attacks independently from the visuals of the walls.
 
 {% endtab %}
 {% endtabs %}
@@ -187,7 +188,10 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 
 Party members within the radius of **Wake of Earth** have their CRIT Rate increased by 10% and have increased resistance against interruption.
 
-* Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**. 
+* Note that this bonus does not apply to the burst damage UNLESS it is cast within a prior **Wake of Earth**.
+* The buff stays even when the walls are destroyed by enemies or invisible from teleporting away.
+* The buff is not applied immediately when switching characters, instead it ticks once every ~1s and lingers for ~2s.
+* The buff has a vertical limit. When characters like Xiao jump from a construct such as Albedo's Solar Isotoma, they will no longer recieve the buff. See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#gmc-wake-of-earth-interactions) for visuals and further explanation.
 
 {% endtab %}
 
