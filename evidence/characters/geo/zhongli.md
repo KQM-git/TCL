@@ -70,6 +70,25 @@ The range of Zhongli's Resistance Shred is approximately 3 Abyss tiles.
 **Significance:**  
 Can help players prevent DPS loss when playing ranged units.
 
+### Zhongli Pillar Snapshot
+
+**By:** Xreejan\#1180 and Latiwings\#3308  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955608390418186290/transcript-zhongli-pillar-snapshot.html)  
+
+**Finding:**   
+Zhongli Stele Snapshot Mechanics.
+1. At C0, holding E after getting the buff does not update the snapshot state of an existing pillar on the field. 
+\(eg. Pillar exists \> Gets buffed \> Hold E \> Doesn't update the state of pillar with buffed stats\).
+2. At C1, steles are snapshotted upon cast, thus snapshots individually. It is possible to have two steles that are buffed and unbuffed at the same time. 
+
+**Evidence:**
+* [C0](https://imgur.com/a/gQp2fMb)
+* [C1](https://imgur.com/a/yVSFjmC)
+
+**Significance:**  
+Further understanding of Stone Steles.
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
