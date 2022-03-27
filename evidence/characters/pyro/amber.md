@@ -40,6 +40,22 @@ In [this video](https://www.youtube.com/watch?v=aJ7-hV7b0Mc), Amber's Skill cool
 **Significance:**  
 Mostly fluff and something inconsequential, no real purpose where it's necessary yet.  
 
+### Amber E Can Be Delayed by Crafting Table
+
+**By:** walkers\#1808  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956001302368911441/transcript-amber-e-can-be-delayed-by-crafting-table.html)  
+
+**Finding:**  
+Amber’s Baron Bunny’s landing can be delayed by crafting table. It spins on the crafting table when it is being thrown at the table. Its 8\-second duration begins when it lands on the ground. If it spins for more than 10 seconds and still doesn't land, it disappears.  
+
+**Evidence:**  
+* [This video](https://youtu.be/AQbN8UNumhg) shows that the bunny explodes when the Elemental Skill’s cooldown is at 2.5s, which means its duration started when the cooldown is at 10.5s, which is when the bunny lands.  
+* [This video](https://youtu.be/CMkzJzo55Vc) shows that the bunny disappears when the Elemental Skill’s cooldown is at 4.8s, which 10.2s into the Elemental Skill.
+
+**Significance:**  
+Some understanding of Amber's Elemental Skill and mostly fluff.  
+
 ## Burst Mechanics
 
 ### Amber Ult Targeting
