@@ -117,6 +117,7 @@ Certain material items can be destroyed, but they don't give anything when destr
   * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.
   * As of Patch 2.5, the theoretical maximum is 184 investigation spots. For more information, see this [Vault Entry](../evidence/general-mechanics/resources-and-efficiency.md#multiple-artifact-clusters-after-100).
 * There is a random event daily limit of 10. After that, you receive no reward when completing random events that day.
+* The inventory cap for berries is 9999.
 
 ### Artifact Drop Spots
 There are two types of artifact spots:  

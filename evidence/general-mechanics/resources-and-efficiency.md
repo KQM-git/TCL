@@ -659,3 +659,18 @@ Sheet including options and calcs per server region: [Google Doc](https://docs.g
 Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Salesman** have same value (450), which is the reason as to why there is no extra sheet for salesman / salesman + resin as same values are included in **500,000 Mora** sheets.
 
 **Significance:** People who wanted to reach BP Weekly EXP limit during launch week have to make additional sacrifices in order to do so.  
+
+## Berry Max
+
+**By:** makeway4pK\#3901  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955999927236984862/transcript-berry-max.html)  
+
+**Finding:**  
+Inventory cap for berries is 9999 much like crystal chunks.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/ACha1kLWHfQ)
+
+**Significance:**  
+Knowledge... and maybe a hint that all materials might be capped at 9999.  
