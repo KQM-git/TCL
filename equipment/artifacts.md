@@ -112,8 +112,7 @@
 {% endtab %}
 
 {% tab title="Findings" %}  
-* The 4p set bonus generates stack off-field passively even if the character does not deal Geo damage.
-* The 4p set bonus only loses stacks while the equipped character is on field.
+* The stacking mechanics are exactly as described, meaning stacks can be lost on-field and off-field, following the 6s timer.
 * Stacks from the 4p set bonus are gained when hitting an opponent with a Geo attack even when no damage is dealt (vs. Shielded or Immune targets).
 {% endtab %}  
 {% endtabs %}

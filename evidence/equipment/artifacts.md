@@ -304,9 +304,27 @@ Knowledge.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
 
 * Husk 4p gains stack off-field even if you don't deal Geo damage - [Sylenwolf#5802](https://imgur.com/a/VTMGOzb)
-* Husk 4p can only lose stacks on field - [MeCrush14#2271](https://youtu.be/JDQ3vkEEM90)
 * Husk 4p stacks are gained when hitting an opponent with a Geo attack even when attacking shielded targets and dealing no damage. - [Wulfric Waifu Gachapon Lurker#5186](https://youtu.be/Mu_CGfIXpiY)
 * Husk 4p also stacks vs. targets immune to Geo damage. - [Wulfric Waifu Gachapon Lurker#5186](https://youtu.be/k1TePBNM4Yo)
+
+### Husk Stacks Behave Exactly as Advertised
+
+**By:** TheLocalMilkMan\#0813  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956009361489166336/transcript-husk-stacks-behave-exactly-as-advertised.html)  
+
+**Finding:**  
+* Stacks can be gained off-field after 3 seconds, the timer restarts after going on-field, it does not pause and continue.
+* Stacks are lost after 6 seconds of not gaining a stack, not after going on-field.
+* You can lose a stack in less than 6 seconds if you gained/refreshed a stack while off-field and swapped in within the 3 seconds between the refresh and gaining a new stack.
+* This also means you can lose a stack off-field by swapping off with 1-2 seconds left before stack loss.
+
+**Evidence:**  
+* [Losing 2 stacks in 10s](https://youtu.be/4oHGorRk5aA)
+* [Losing stacks off-field](https://youtu.be/zuakeWaL76U)
+
+**Significance:**  
+ Clarification of Husk mechanics, explanation for apparent damage losses for no reason, and a reminder to read the descriptions more carefully.  
 
 ## Instructor
 
