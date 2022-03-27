@@ -125,6 +125,7 @@ Elemental Absorption may only occur once per use.
 * Absorption priority: Cryo > Pyro > Hydro > Electro
 * When held beyond the 2 Initial Cutting DMG hits, the Skill's damage, particle generation, and cooldown are all increased; and the last hit is Max Storm DMG instead of Initial Storm DMG.
 * There is either 0 or 1 instance of Additional Elemental DMG with the 2 instances of Initial Cutting DMG, it's random.
+* The duration of Palm Vortex can be extended when Anemo Traveler is frozen, resulting in many instances of Initial Cutting DMG.
 {% endtab %}
 
 {% tab title="Gust Surge" %}

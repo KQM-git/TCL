@@ -77,6 +77,27 @@ Hold: 60~145
 
 **Significance:** More accurate frame counts with evidence.
 
+### Frozen AMC With E Active
+
+**By:** Hoshbomb\#6327  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955984471470010428/transcript-frozen-amc-with-e-active.html)  
+
+**Finding:**  
+When AMC is frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:  
+* There is no Initial Storm Damage after 2 hits, nor is there Max Storm Damage to end the sequence of Anemo DMG.
+* It won't generate Anemo Particles for party members to collect.
+* The duration of Palm Vortex is now directly tied to how long AMC is frozen for.
+* AMC's Elemental Absorption Priority is Cryo \> Pyro \> Hydro \> Electro, which means AMC's Palm Vortex will always self-absorb Cryo.
+
+It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 3 hits/2.5 seconds.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/KFxZpb2PEEQ)  
+
+**Significance:**  
+Fluff.  
+
 ## Burst Mechanics
 
 ### Anemo MC's Burst Absorption is 2B
