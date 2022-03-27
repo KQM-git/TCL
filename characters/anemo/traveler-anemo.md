@@ -173,6 +173,7 @@ The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK
 * Applies 1U Anemo.
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
+* This instance of damage happens before N5 for Aether and after N5 for Lumine.
 {% endtab %}
 
 {% tab title="Ascension 4" %}

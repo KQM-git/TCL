@@ -176,6 +176,7 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Geo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
+* This instance of damage happens before N5 for Aether and after N5 for Lumine.
 
 {% endtab %}
 {% endtabs %}

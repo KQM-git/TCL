@@ -149,7 +149,7 @@ The Additional Elemental DMG has less AoE than the Tornado DMG.
 **Significance:**  
 The Additional Elemental DMG basically only happens when the Tornado goes right through an enemy.
 
-## Ascension Passive Mechanics
+## Ascension Mechanics
 
 ### A1: Slitting Wind
 
@@ -183,6 +183,30 @@ Anemo Traveler's A1 Passive Slitting Wind is increased by Normal Attack DMG bonu
 **Significance:**  
 Although a minor damage source, Anemo Traveler's A1 Passive damage is increased by DMG bonuses towards Normal Attacks.
 
+#### MC Elemental Proc Difference
+
+**By:** Rathalos\#2875  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
+
+**Theory:**  
+The elemental proc \(Slitting Wind\) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his N5 attack string occurs.  
+
+The possible explanations for this is that the elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's n5.  
+
+Lumine's entire N5 sequence takes ~148 frames while Aether's n5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.  
+
+**Evidence:**  
+* [Aether](https://imgur.com/uh7Oov6)
+* [Lumine](https://imgur.com/FWYE82c)
+* [Lumine's N5 Combo](https://imgur.com/7yVrQVW) which shows that the elemental proc is delayed from the damage number
+* [Aether's N5 Combo](https://imgur.com/02215GA) which shows the elemental number almost the same time as the white number, but on some occasions the elemental number appears before the white number.
+* [Another clip](https://imgur.com/guq8g4f) showcases a hilichurl being killed by the Anemo DMG number before the 5th hit.
+
+**Significance:**  
+This means that it is possible for Aether to hit the elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her elemental proc if she cancels her N5 too fast.  
+
+Another possible significance is that this might be a clue to how the Travelers are coded. They might share the same timings for other similar things that manifest at different moments just because of animation difference. As of writing this, no other application comes to mind.  
 
 ## Constellation Mechanics
 

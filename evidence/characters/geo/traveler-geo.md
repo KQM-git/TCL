@@ -23,8 +23,6 @@ search: false
 
 ## Skill Mechanics
 
-
-
 ### Geo Traveler E can be manually detonated
 
 **By:** Sorry#6046  
@@ -58,7 +56,7 @@ As shown in the video, a Wake of Earth wall inbetween the Geovishap and the play
 **Significance:**  
 Enemy movement manipulation when using Geo Traveler in a team comp.
 
-## Passives Mechanics
+## Ascension Mechanics
 
 ### A4: Frenzied Rockslide
 
@@ -73,11 +71,34 @@ Anemo Traveler A4 counts as Normal Attack Damage.
 
 **Evidence:**  
 
-* [Youtube](https://youtu.be/JH6KsDqdsN8)
+* [YouTube](https://youtu.be/JH6KsDqdsN8)
 * ` .6 * 752 * (1 + .35) * .9 * ((100 + 80)/(100 + 85 + 100 + 80)) = 270.35`
 
 **Significance:**  
 Although a minor damage source, Geo Traveler's A4 Passive damage is increased by DMG bonuses towards Normal Attacks.
+
+#### MC Elemental Proc Difference
+
+**By:** Rathalos\#2875  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
+
+**Theory:**  
+The elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his n5 attack string occurs.  
+
+The possible explanations for this is that the elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's N5.  
+
+Lumine's entire n5 sequence takes ~148 frames while Aether's N5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.  
+
+**Evidence:**  
+* [Aether 1](https://imgur.com/NdQKFLA)
+* [Aether 2](https://imgur.com/2MuxlIX)
+* [Lumine](https://imgur.com/IKRNdps)
+
+**Significance:**  
+This means that it is possible for Aether to hit the elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her elemental proc if she cancels her N5 too fast.  
+
+Another possible significance is that this might be a clue to how the Travelers are coded. They might share the same timings for other similar things that manifest at different moments just because of animation difference. As of writing this, no other application comes to mind.  
 
 ## Constellation Mechanics
 
