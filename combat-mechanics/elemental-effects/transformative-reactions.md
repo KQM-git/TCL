@@ -37,9 +37,9 @@ Transformative reactions cannot crit and scale only on Elemental Mastery and cha
 
 Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 
-## Overload
+## Overloaded
 
-Overload, also known as Overloaded, is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
+Overloaded, also known as Overload, is an elemental reaction triggered by applying Pyro on a target already afflicted by an Electro aura or vice versa. Overload will cause an explosion of Pyro damage to occur that will destroy Geo shields quickly. Triggering Overload in an AoE will only cause one instance of Overload damage.
 
 * You can trigger Overload on electrocuted bodies of water.
 
@@ -70,6 +70,7 @@ Electro-Charged is a special Transformative reaction that deals Electro damage a
 * Electro-Charged ticks only remove gauge when they deal damage. Both gauges will still decay naturally over time though, with or without damage.
 * 0 gauge Electro attacks don't change Electro-Charged ownership.
 * As of patch 2.5, there is a bug when using Electro as the trigger. The Electro aura will not persist after the Electro-Charged ticks, even when the Electro gauge is greater than the Hydro gauge. Refer to the [Evidence Vault](/evidence/combat-mechanics/elemental-effects/transformative-reactions.md#ec-hydro-aura-electro-trigger-interaction-is-bugged) for more details.
+* When applying Electro-Charged on enemies already affected by the same reaction, effects that are triggered on-reaction will be triggered.
 
 ## Shatter
 

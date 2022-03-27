@@ -638,6 +638,31 @@ Evidence by Charisma\#5567 and phaZZi\#6461
 **Significance:**  
 Less reactions will be triggered than the normal amount according to EGT.  
 
+### EC on EC Mechanics
+
+**By:** Mutsuki\#0884  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956006164041170974/transcript-ec-on-ec-mechanics.html)  
+
+**Finding:**  
+Applying Electro-Charged on enemies already affected by Electro-Charged will still proc various effects that trigger on Elemental Reactions. Thus far Hakushin Ring, Freedom-Sworn, Electro Resonance, 4 piece Instructor, and Fischl's A4 have all been tested to still occur.  
+
+**Evidence:**  
+* Electro Resonance: You can see the electro orb being produced by attacks that would otherwise have no business producing an electro orb.  
+  NOTE: More precise testing may be necessary for the Electro trigger \(it's difficult to get the enemy's gauge on screen to make sure they are still affected by EC when EC is triggered again while also being in a position to see the Electro particle from Electro Resonance\)
+  * [Electro Resonance proccing when Electro triggers EC over an enemy already afflicted by EC](https://youtu.be/JjBCypQbxlU)
+  * [Electro Resonance proccing when Hydro triggers EC over an enemy already afflicted by EC](https://youtu.be/VJLB59oQK2c)
+* Freedom-Sworn and 4 piece Instructor:  
+  In the case of Freedom-Sworn, one can observer the sigil being present after the elemental reaction occurs. In the case of Instructor, there is the before and after of either Keqing or Xingqiu's Elemental Mastery increasing from 278 to 398.
+  * [FS and Instructor proccing when Electro triggers EC over an enemy already afflicted by EC](https://youtu.be/j6xCcO9hOwg)
+  * [FS and Instructor proccing when Hydro triggers EC over an enemy already afflicted by EC](https://youtu.be/_ezdtKY_HVw)
+* Hakushin Ring and Fischl's A4: Hakushin ring's proc is observed by the increase of Fischl and Kokomi's respective damage bonuses from 61.6 and 28.8 to 71.8 and 38.8.
+  * [Hakushin and Fischl A4 proccing when Electro triggers EC over an enemy already afflicted by EC](https://youtu.be/ZK8PiO31BBA)
+  * [Hakushin and Fischl A4 proccing when Hydro triggers EC over an enemy already afflicted by EC](https://youtu.be/wwmEX24x6_s)
+
+**Significance:**  
+Better understanding of the EC spaghetti code.
+
 ## Frozen + Shatter
 
 ### Simultaneous Hydro/Frozen Application
