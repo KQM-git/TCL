@@ -325,6 +325,41 @@ Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 **Evidence:**  
 [Youtube](https://youtu.be/YzFQnlViilI): Geo Traveler starts with 12% Geo Damage Bonus, and after procing A4, goes up to 20% Geo Damage Bonus.
 
+## Synergies/Interactions
+
+### Rockstep Tech
+
+**By:** Rathalos\#2875  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956012252463517756/transcript-rockstep-tech.html)  
+
+**Finding:**  
+It is possible for Geo Traveler to jump directly from the ground to the top of the meteorite created by Starfell Sword \(E\), giving characters vertical advantage and allowing certain actions such as plunge attacks. This mechanic can also be used by other characters in the party.  
+
+**Evidence:**  
+* Basics:
+    * [Rockstep](https://imgur.com/Hwqb8ng)
+    * [Extended demo](https://imgur.com/0fMSoxw)
+* This tech can also be used by other characters with better plunge multipliers:  
+    * [Rockstep Swap: Noelle](https://imgur.com/mtTFyzo)
+    * [Rockstep Swap: Extended Demo](https://imgur.com/IQhnQKD)
+* Other variations follow the same principle of using the meteorite to obtain vertical advantage:  
+    * [Rockstep: Reverse Plunge](https://imgur.com/pOLMBYd)  
+    * [Rockstep: Calculated](https://imgur.com/zpTl4aE)
+* Another variation follows up after using the rock as a shield from enemy attacks (such as ruin guard missiles). Do note that character height affects this one; the taller a character, the easier it is to perform.
+    * [Rockstep: Phantom](https://imgur.com/uchHBjw)
+    * [Extended demo](https://imgur.com/MY1epe1)
+* It can have some fun applications too!
+    * [GMC on Fire](https://imgur.com/QIzK4LH)
+    * [Rockstep: Itto](https://imgur.com/8ApH0nb)
+    * [Rockstep: Klee](https://imgur.com/SbT1b2b)
+* More practical applications can include using the vertical advantage to force certain enemy actions.
+    * [Mitachurl drops shield](https://imgur.com/usTvkF2)
+    * [Ruin Hunter takes flight](https://imgur.com/pzZ9nU5)
+
+**Significance:**  
+This is a GMC\-specific tech that can be used by other characters. There's potential gain for characters that benefit from having vertical advantage over the enemies, and doing so can trigger certain enemy patterns that may be beneficial to the player.  
+
 ## Calculations/Resources
 
 ### Aether Analysis
