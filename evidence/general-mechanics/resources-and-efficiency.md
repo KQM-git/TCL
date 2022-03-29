@@ -686,7 +686,8 @@ Knowledge... and maybe a hint that all materials might be capped at 9999.
 * This can be overcapped by claiming Crystal Chunks as a reward from Expeditions at a maximum of 10006 \(9998+8\).
 
 **Evidence:**  
-[Video](https://youtu.be/NXsOcKdUVls)  
+[Natural cap](https://youtu.be/NXsOcKdUVls)  
+[Overcap](https://youtu.be/Fv2URPc_kaI)  
 
 **Significance:**  
 Don't become an Ore Archon like me.  
