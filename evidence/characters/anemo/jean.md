@@ -181,26 +181,6 @@ Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies with
 **Significance:**  
 Finding is somewhat significant for team damage calculations. This gives Jean slightly higher damage contribution through 2 guaranteed instances of Border DMG and additional swirl instances \(where applicable\). Additionally, team rotations with Jean that depend on certain auras on enemies for setups should also consider these additional damage instances as they can potentially deplete auras.
 
-### Interaction Between Jean Sunfire And Freedom Sworn
-**By:** Vye#9195  
-**Added:** 1/28/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933279462974427176/936416305064595496/transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)
-
-**Finding:**  
-"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura)
-
-This entry will explain the interaction between Sunfire and the weapon Freedom Sworn for Jean. The self swirl interaction of "Sunfire" does not count as a reaction for Freedom Sworn passive stacks. This is the same problem that 4pc instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters)
-
-**Evidence:**   
-* [Sunfire on field no FS](https://www.youtube.com/watch?v=SiDWp14tLHs)
-* [Sunfire off field no FS](https://www.youtube.com/watch?v=g3c3bO98bIw)
-* [Sunfire 2+ targets](https://www.youtube.com/watch?v=FzsSGLi_ToU)
-
-**Significance:**  
-This limits the use of Freedom Sworn on Jean significantly in certain comps. A prominent example would be Raiden Hyper (Raiden | buffer | Jean | Bennett) among others. Sunfire itself cannot be used to proc the passive. Players need to do EQ or QE and both abilities need to proc a reaction of an enemy directly for Freedom Sworn to activate. 
-
-The number of targets does not matter because only the initial hit and the ending hit of Jeans Q count for the Freedom Sworn passive. Due to the cooldown in gaining stacks which is 0.5s across all refines for the weapon you cannot gain 2 stacks from the reaction of the initial Jean Q hit. 
-
 ## Constellation Mechanics
 
 ### Jean's C4 Verticality
@@ -221,7 +201,28 @@ The reach of Dandelion Breeze's damage component has a vertical limit but the ef
 
 ## Synergies/Interactions
 
-### Sunfire Jean OL Triggering Freedom-Sworn
+### Interaction Between Jean Sunfire And Freedom\-Sworn
+
+**By:** Vye\#9195  
+**Added:** 1/28/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933279462974427176/936416305064595496/transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)  
+
+**Finding:**  
+"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura).  
+
+This entry will explain the interaction between Sunfire and the weapon Freedom\-Sworn for Jean. The self swirl interaction of "Sunfire" does not count as a reaction for Freedom\-Sworn Passive stacks. This is the same problem that 4pc Instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters).  
+
+**Evidence:**   
+* [Sunfire on-field no FS](https://www.youtube.com/watch?v=SiDWp14tLHs)
+* [Sunfire off-field no FS](https://www.youtube.com/watch?v=g3c3bO98bIw)
+* [Sunfire 2+ targets](https://www.youtube.com/watch?v=FzsSGLi_ToU)
+
+**Significance:**  
+This limits the use of Freedom\-Sworn on Jean significantly in certain comps. A prominent example would be Raiden Hyper (Raiden | buffer | Jean | Bennett) among others. Sunfire itself cannot be used to proc the passive. Players need to do EQ or QE and both abilities need to proc a reaction of an enemy directly for Freedom Sworn to activate. 
+
+The number of targets does not matter because only the initial hit and the ending hit of Jeans Q count for the Freedom\-Sworn Passive. Due to the cooldown in gaining stacks which is 0.5s across all refines for the weapon you cannot gain 2 stacks from the reaction of the initial Jean Q hit. 
+
+### Sunfire Jean OL Triggering Freedom\-Sworn
 
 **By:** MeiMay\#3039  
 **Added:** 03/29/2022  
