@@ -42,6 +42,53 @@ Upon testing, as expected: it works, and yes Lightning Smite also crits!
 
 One more reason to get Sucrose out in the field more often, at least for this use case
 
+### Sucrose N1 Bug Misconceptions and Workarounds
+
+**By:** BowTae\#0141  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958498659920642048/transcript-suc-n1-bug-misconceptions-and-workarounds.html)  
+
+**Finding:**  
+Sucrose N1 bug is a real bug, however it is often misunderstood and sometimes incorrectly used as the reason for N1 not coming out.  
+There are ways to consistently avoid the bug and have it not be an issue.  
+
+**What is the N1 bug?**  
+Sucrose N1 will sometimes disappear. However, this only happens when continuing her Normal Attack string.  
+
+See the original TCL entry [here](#sucroses-n1-attack-can-in-some-situations-cease-to-exist).  
+
+The key point that is usually missed is "attacking quickly with Sucrose". The bug happens when doing multiple presses. If you input N1 with a single press, you will not get this bug.  
+
+I've seen claims of N1 bug happening with just N1, but I haven't been able to reproduce this nor seen evidence. If someone has any evidence of it, please post it and I would be happy to be wrong.  
+
+**Evidence:**  
+* 100 Sucrose N1s in a row, done with a single press each time, with the bug never happening: [Video](https://youtu.be/rXClvuy1ihE).
+* 10 Sucrose N1E in a row, with N1 coming out every time: [Video](https://youtu.be/LT4ATEHs2yA).
+* The N1 bug, to show that it exists and that my game isn't hacked: [Video](https://imgur.com/Avfx7EG).
+
+Common situations:  
+1. I did Suc N1E and N1 didn't come out: [Video](https://imgur.com/HcR1LoM). Two things could've happened here:  
+  1\.1\. You pressed E too early after pressing N1, which canceled your N1 before it could come out. This is something that every character can do and is a normal game mechanic.  
+  1\.2\. You mashed to do N1 and got the N1 bug.  
+2. I did Suc N1 only and the N1 didn't come out: [Video](https://imgur.com/RCJCEeE).  
+  \- You dash/jump canceled too early, which is something that can happen to every character and is a normal game mechanic.  
+
+Note: N1 can take longer to come out in a few situations, which may be the reason why you canceled too early.  
+1. Doing a buffered N1 after dashing takes longer. This is not the original N1 bug, but is another separate annoying issue/bug: [Video](https://imgur.com/GYDRZtY).  
+2. Your press for N1 was too long. For catalyst users, the N1 animation doesn't begin until you release your press, since holding puts you into CA windup animation: [Video](https://imgur.com/p9NmnHg).  
+3. You mashed to do N1 and got the bug, then canceled N2 before it could come out.  
+
+How to avoid the N1 bug:  
+1. I want to do Suc N1
+    * Click once to do N1, do not mash, and make sure you don't dash/jump cancel too early \(or just don't cancel it\).
+2. I want to do Suc N1E
+    * Click once to do N1, then press E with enough delay for N1 to hit. Do not mash to do N1.
+3. I want to do Suc N2+
+    * Click once to do N1, wait a tiny bit, then continue pressing to do N2 and up. This avoids the bug, but can make your attack string slightly slower without good timing: [Video](https://imgur.com/8tRwDlb).  
+
+**Significance:**  
+N1 bug is real and very annoying, however there are consistent ways to work around the issue.  
+
 ## Elemental Skill Mechanics
 
 ### Sucrose's Particles spawn on the direction she's facing
