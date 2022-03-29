@@ -120,6 +120,7 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 
 **Notes**
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.
+* As long as Ningguang is within the maximum construct range from the **Jade Screen**, casting **Starshatter** will allow the **Jade Screen** to fire the additional gems, even if she teleports away.
 
 {% endtab %}
 {% endtabs %}
