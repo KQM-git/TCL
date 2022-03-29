@@ -82,7 +82,7 @@ Better rotation and team building for Ningguang surrounding setting up buffs for
 Ningguang's Burst can destroy her Jade Screen from any range, assuming that the Jade Screen exists.  
 
 **Evidence:**  
-[Video](https://youtu.be/6w9Juht5doU)  
+In [this video](https://youtu.be/6w9Juht5doU), Ningguang teleports from her wall at the max construct range, and her wall was destroyed successfully when her Burst was used.  
 
 **Significance:**  
 Where there's a wall, there's a way \(to destroy it\).  
