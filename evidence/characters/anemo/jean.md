@@ -218,3 +218,32 @@ The Anemo Resistance reduction component of this constellation still applies ver
 
 **Significance:**  
 The reach of Dandelion Breeze's damage component has a vertical limit but the effects of it can reach much further. Thus, has potential combination for Xiao midair strikes.
+
+## Synergies/Interactions
+
+### Sunfire Jean OL Triggering Freedom-Sworn
+
+**By:** MeiMay\#3039  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958491081933221908/transcript-sunfire-jean-ol-triggering-fs.html)  
+
+**Finding:**  
+Sunfire Jean triggering off-field Overloads during her Burst can trigger the Freedom-Sworn \(FS\) Passive. This is primarily relevant in Raiden Hyper teams.  
+
+**Evidence:**  
+Here is the Passive being activated with Jean EQ, as already established:  
+* [Video](https://i.imgur.com/BzPnp5R.mp4)
+
+Below are two instances of off-field FS activation via OL occuring in Abyss 12\-2 against two Ruin Graders:
+* [Video 1](https://i.imgur.com/U6BCcIO.mp4)
+* [Video 2](https://i.imgur.com/OMqYjXr.mp4)
+
+Here is a recording of the run from the beginning to confirm testing integrity:  
+* [Video](https://i.imgur.com/7N7SBlS.mp4)
+
+However, the OLs from Sunfire Jean \(and hence the activation of the FS Passive\) seem to be inconsistent in Raiden Hyper. In the two below videos, the FS Passive did not trigger because Jean did not trigger a single Overload throughout her Q:
+* [Video 1](https://i.imgur.com/LO8OvXI.mp4)
+* [Video 2](https://i.imgur.com/Lt8Bkn8.mp4)
+
+**Significance:**  
+It's not always the end of the world if you forget to EQ with Jean to activate Freedom-Sworn in Raiden teams; the Passive may still activate during the rest of her Burst. Also somewhat relevant if the enemies are knocked back by OL and your E misses.  
