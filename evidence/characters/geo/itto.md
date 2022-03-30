@@ -77,7 +77,7 @@
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958523437255643187/transcript-ushi-max-air-time.html)  
 
 **Finding:**  
-Ushi lands in mid-air after 2 seconds of air time.  
+Ushi lands in mid\-air after 2 seconds of air time.  
 
 **Evidence:**  
 [Video](https://youtu.be/gAx0NFQBl5w)  
