@@ -671,3 +671,28 @@ Certain effects have activation distance limits that prevent them from working.
 
 **Significance:**  
 Something to keep in mind when doing long range activities.  
+
+## Not All Doors Are Equal
+
+**By:** Puffin\#9920  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958514754920525914/transcript-not-all-doors-are-equal.html)  
+
+**Finding:**  
+The only doors that do the [funny reload thing](#door-load-border-shenanigans) with Elemental Skills and Bursts fit the following conditions:
+1. Must have an interact prompt to pass through.
+2. Don't reload the whole area around the player when entering/exiting
+3. Are not sliding doors \(Inazuma sliding doors do not work\).
+So far, the only doors that fulfil both those criteria are the three in the Knights of Favonius Office.
+
+**Evidence:**  
+1. [Floating Abode default mansion](https://youtu.be/oi7djy91Erg): None of the doors do the funny reload. Tested with Keqing E, Guoba, and Aloy E \(all three did reload weird in og ticket\).
+2. [Cool Isle/Emerald Peak default mansion](https://youtu.be/wrmvyrSEhRU): Doors don't reload funny. Tested with the same abilities as listed in 1.
+3. [Silken Courtyard default mansion](https://youtu.be/kL17J_pKw-A): Doors do not do funny reload thing. Tested with same abilities as in 1.
+4. [Knights of Favonius](https://youtu.be/djqc2k2yizg): More evidence that the Knight of Favonius doors do the funny reload.
+5. [Wanmin Restaurant](https://youtu.be/VJJ0NMlIToA): It has no interactable prompt to enter/exit, does not do funny reload thing. Tested with same abilities as 1. 
+6. [Kamisato Estate](https://youtu.be/t_LrnVUbwv0): Trying to see if door in the Kamisato Estate does the reload thing. It does not appear to extend timing \(1:05 in video\). Later in video, 1:58, her bombs explode with ~4sec left on her E timer. At 0:42 in the video, I throw Aloy's Skill and try running in/out of one of the doorways in the mansion, which does not reload her bomblets. Interestingly, this video \(0:03 to 0:38\) implies that Skill cooldowns still tick through loading screens. This is probably better tested by someone with faster loading times than me, since for all I know, Aloy's bombs could have been whisked into the void after I exited.
+7. [Inazuma sliding doors](https://youtu.be/O4erjly_U-A): These do not reload funny.
+
+**Significance:**  
+The Knights of Favonius are special.  
