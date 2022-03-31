@@ -106,6 +106,8 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 | :--- | :--- |
 | Skill DMG \(T9%\) | 119.46% * 50 |
 | Frames | 102 |
+| Energy Frame | 8 |
+| CD Frame | 1 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
