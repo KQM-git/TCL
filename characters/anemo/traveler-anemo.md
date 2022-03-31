@@ -113,7 +113,7 @@ Elemental Absorption may only occur once per use.
 | Cutting DMG \(T9%\) | - | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4 |
 | Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% | 74.80% / 81.60% |
 | Particles | 2 | 2 / 3~4 (2:1) | - |
-| Frames | 60 | 60~145 | - |
+| Cast Frames | 60 | 60~145 | - |
 | GU | 1U | 1U | 1A |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | - | Dynamic | Dynamic |
@@ -140,7 +140,7 @@ Elemental Absorption may only occur once per use.
 | :--- | :--- | :--- |
 | Tornado DMG \(T9%\) | 137.36% * 9 | 42.16% * 9 |
 | Tick Rate | 0.5s | 0.5s | 
-| Frames | 41 | - |
+| Cast Frames | 41 | - |
 | Energy Frame | 8 | - |
 | CD Frame | 2 | - |
 | GU | 1U | 2B | 
