@@ -106,7 +106,9 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 610.64% |
-| Frames | 118 |
+| Cast Frames | 118 |
+| Energy Frame | 8 |
+| CD Frame | 2 |
 | GU | 2B |
 | ICD | - |
 | Snapshot | Snapshot |
