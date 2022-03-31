@@ -76,6 +76,8 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 | Herald of Frost DMG \(T9%\) | 61.2% |
 | Particles | 0 \(-\) | 
 | Frames | 57 |
+| Energy Frame | 13 |
+| CD Frame | 2 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s | 
 | Snapshot | Snapshots | 
