@@ -96,7 +96,7 @@ When opponents affected by this Talisman take DMG, the character that dealt this
 | :--- | :--- |
 | Skill DMG \(T9%\) | 484.16% |
 | Healing \(T9%\) | 153% ATK + 1174 |
-| Frames | 112 |
+| Cast Frames | 112 |
 | Energy Frame | 10 |
 | CD Frame | 2 |
 | GU | 2B |
