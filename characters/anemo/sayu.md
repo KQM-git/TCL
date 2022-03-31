@@ -118,6 +118,8 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 | Skill Activation DMG \(T9%\) | 198.56% |
 | Skill Activation Healing \(T9%\) | 156.67% +1174 |
 | Frames | 65 |
+| Energy Frame | 11 |
+| CD Frame | 1 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
