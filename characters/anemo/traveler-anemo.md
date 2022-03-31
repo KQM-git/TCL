@@ -141,6 +141,8 @@ Elemental Absorption may only occur once per use.
 | Tornado DMG \(T9%\) | 137.36% * 9 | 42.16% * 9 |
 | Tick Rate | 0.5s | 0.5s | 
 | Frames | 41 | - |
+| Energy Frame | 8 | - |
+| CD Frame | 2 | - |
 | GU | 1U | 2B | 
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |
