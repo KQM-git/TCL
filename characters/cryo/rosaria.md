@@ -84,7 +84,9 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 | :--- | :--- |
 | Skill DMG \(T9%\) | 176.8% + 258.4% |
 | Ice Lance DoT \(T9%\) | 224.4% |
-| Frames | 74 |
+| Cast Frames | 74 |
+| Energy Frame | 12 |
+| CD Frame | 2 |
 | GU | 1A |
 | ICD | None |
 | Snapshot | Snapshot |
