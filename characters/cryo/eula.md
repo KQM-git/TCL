@@ -118,7 +118,9 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 | Skill DMG \(T9%\) | 417.52% | - |
 | Lightfall Sword Base DMG \(T9%\) | - | 674.34% |
 | DMG Per Stack \(T9%\) | - | 137.78% |
-| Frames | 125 | - |
+| Cast Frames | 125 | - |
+| Energy Frame | 107 | - |
+| CD Frame | 98 | - |
 | GU | 2B | None |
 | ICD | None | None |
 | Snapshot | Dynamic | Dynamic |
