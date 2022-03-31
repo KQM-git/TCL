@@ -115,7 +115,7 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 | Effect | Slash | DoT | Elemental DMG |
 | :--- | :--- | ---- | :--- |
 | Skill DMG \(T9%\) | 446.08% | 204% | 61.2% | 
-| Frames | 93 | - | - |
+| Cast Frames | 93 | - | - |
 | Energy Frame | 7 | - | - |
 | CD Frame | 1 | - | - |
 | GU | 2U | 1U | 1A |
