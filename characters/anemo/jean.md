@@ -105,6 +105,8 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 | Burst Healing \(T9%\) | 427.04% ATK + 3132 |
 | Continuous Healing \(T9%\) | 42.7% ATK + 313 |
 | Frames | 88 |
+| Energy Frame | 46 |
+| CD Frame | 40 |
 | GU | 2U |
 | ICD | None | 
 | Snapshot | Snapshots | 
