@@ -114,7 +114,9 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 136% |
-| Frames | 49 | 
+| Cast Frames | 49 |
+| Energy Frame | 49 |
+| CD Frame | 43 |
 | GU | 1A |
 | CD | 20s |
 | Energy Cost | 80 |
