@@ -119,7 +119,9 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 | :--- | :--- |
 | Cutting DMG \(T9%\) | 190.91% * 19 |
 | Bloom DMG \(T9%\) | 286.36% |
-| Frames | 95 |
+| Cast Frames | 95 |
+| Energy Frame | 13 |
+| CD Frame | 2 |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |
 | Snapshot | Snapshot |
