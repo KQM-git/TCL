@@ -4,7 +4,7 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 # Kamisato Ayato
 
-## ![](../../.gitbook/assets/element_cryo.png) Kamisato Ayato
+## ![](../../.gitbook/assets/element_hydro.png) Kamisato Ayato
 ![](../../.gitbook/assets/character_ayato_wish.png)
 
 ## **Base Stats**
@@ -282,4 +282,4 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/ayato.md" %}
+{% page-ref page="../../evidence/characters/hydro/ayato.md" %}

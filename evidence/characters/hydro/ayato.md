@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/ayato.md" %}
+{% page-ref page="../../../characters/hydro/ayato.md" %}
 
 *Mechanics To Be Added*
 
