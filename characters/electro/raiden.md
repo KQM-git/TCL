@@ -111,7 +111,9 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 | Resolve Bonus \(T9%\) | 6.61% ATK DMG Per Stack  | 1.23% ATK DMG Per Stack |
 | Resolve Stacks Gained \(T9%\) | 0.19 Per Energy Consumed | 0.19 Per Energy Consumed |
 | Musou Isshin Energy Restoration \(T9%\) | - | 2.4 |
-| Frames | 115 | - |
+| Cast Frames | 115 | - |
+| Energy Frame | 12 | - |
+| CD Frame | 2 | - |
 | GU | 2B | 1A |
 | ICD (hits/timer) | None | 3 hit / 2.5s |
 | Snapshot | Dynamic | Dynamic |
