@@ -110,6 +110,8 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 | Titanbreaker DMG \(T9%\) | 696.32% | 1A |
 | Stormcluster DMG \(T9%\) | 58% (each) | 1A |
 | Frames | 80 (60 with swap) |
+| Energy Frame | 42 |
+| CD Frame | 36 |
 | GU | 1A |
 | ICD (hits/timer) | 3 hit/2.5s |
 | Snapshot | Snapshot |
