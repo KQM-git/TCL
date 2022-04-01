@@ -119,7 +119,9 @@ Has the following properties during the ability's duration:
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 353.6% |
-| Frames | 20 |
+| Cast Frames | 20 |
+| Energy Frame | 11 |
+| CD Frame | 2 |
 | GU | 1A |
 | ICD | Shared With C4 |
 | Snapshot | Snapshot |
