@@ -15,18 +15,18 @@ Head. This weakspot is temporarily lost while charging(armored up).
 
 ## Resistance Table
 
-All whopperflowers have +40% (50% total) resistance to their own element.
+All whopperflowers have +40% (75% total) resistance to their own element.
 All resistances lose -25% while stunned.
 | Damage Type | Resistance |
 | :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| Physical | 35% |
+| Pyro | 35% |
+| Dendro | 35% |
+| Hydro | 35% |
+| Electro | 35% |
+| Anemo | 35% |
+| Cryo | 35% |
+| Geo | 35% |
 
 ## Stat Block
 
