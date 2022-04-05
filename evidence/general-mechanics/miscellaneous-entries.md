@@ -95,17 +95,20 @@ At least two of the birds \(one near Azhdaha and one in Guyun\) die very often o
 **Significance:**  
 Free fowl. Also whoever is coding the animals is probably trolling.
 
-## Chair Cancelling
+## Chair Canceling
 
 **By:** Ayzel\#7399  
 **Added:** 5/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
 
-**Finding:** For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+**Finding:**  
+For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
 
-**Evidence:** [https://youtu.be/6nwbxIwk3Q8](https://youtu.be/6nwbxIwk3Q8)
+**Evidence:**  
+[Video](https://youtu.be/6nwbxIwk3Q8)
 
-**Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).
+**Significance:**  
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).  
 
 ## Door Load Border Shenanigans
 
@@ -114,7 +117,6 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)  
 
 **Finding:**  
-
 Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, *for some reason* seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.  
 1.    
 Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
