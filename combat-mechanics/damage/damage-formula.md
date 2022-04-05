@@ -26,11 +26,17 @@ Talent\ \% \times ATK & \text{if, } talent\ scales\ with\ Attack\\
 Talent\ \% \times DEF & \text{if, } talent\ scales\ with\ Defense\\
 Talent\ \% \times Max\ HP & \text{if, } talent\ scales\ with\ Max HP
 \end{cases}
+$$
 
+$$
 ATK = (AttackCharacter + AttackWeapon) \times (1 + AttackBonus) + FlatAttack
+$$
 
+$$
 DEF = DefenseCharacter \times (1 + DefenseBonus) + FlatDefense
+$$
 
+$$
 Max\ HP = HealthCharacter \times (1 + HealthBonus) + FlatHealth
 $$
 
