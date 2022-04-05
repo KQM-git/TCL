@@ -673,6 +673,27 @@ Certain effects have activation distance limits that prevent them from working.
 **Significance:**  
 Something to keep in mind when doing long range activities.  
 
+## Certain Actions Reset Walking Mode
+
+**By:** Madrigal\#7486  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958524651376631877/transcript-certain-actions-reset-walking-mode.html)  
+
+**Finding:**  
+Walking mode gets reset to running mode by certain actions on PC, but not on mobile.  
+
+**Evidence:**  
+Walking mode reset:
+* [No camera angle change with 5\* Elemental Burst on PC](https://youtu.be/OxGYolH85pQ)
+* [Opening UI menu on PC](https://youtu.be/ho4thwKsqdY)
+
+Walking mode persist:
+* [Camera angle change of 5\* Elemental Burst on PC](https://youtu.be/mi9Xe-7zDrc)
+* Any Skill/Burst \(with jump/dash cancel\) on mobile: [Video 1](https://youtu.be/JJJWWCL083Y), [video 2](https://youtu.be/tHvNmXtcYW4)
+
+**Significance:**  
+Crucial knowledge for people doing walking only challenges, ruining any remaining trust in HoYoverse consistency.  
+
 ## Not All Doors Are Equal
 
 **By:** Puffin\#9920  

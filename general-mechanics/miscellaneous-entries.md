@@ -38,6 +38,7 @@ description: For entries that have little practical use.
 * The Crit Rate and damage of the Bokuso Box scale off of the stats of the character that is on-field when it is used.
 * Some Passives have a distance limit, meaning they can't be triggered when the player is too far away from the enemies. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#passive-activation-distance) for more information.
 * By following [these steps](../evidence/general-mechanics/miscellaneous-entries.md#stoves-of-babel), using stoves and Geo Constructs, players can potentially ascend indefinitely until they run out of stoves. This can be done in Singleplayer and Multiplayer.  
+* Using a non\-canceled 5\* Elemental Burst or opening a UI menu on PC will reset walking mode to running mode, but not on mobile. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#certain-actions-reset-walking-mode) for more information.
 
 ## Cancelling
 
