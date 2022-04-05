@@ -674,3 +674,20 @@ Inventory cap for berries is 9999 much like crystal chunks.
 
 **Significance:**  
 Knowledge... and maybe a hint that all materials might be capped at 9999.  
+
+## Crystal Chunk Inventory Cap
+
+**By:** Cypher130n\#6831  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958495995744894976/transcript-crystal-chunk-inventory-cap.html)  
+
+**Findings:**  
+* The natural cap of Crystal Chunks able to be held in a player's inventory is 9999.
+* This can be overcapped by claiming Crystal Chunks as a reward from Expeditions at a maximum of 10006 \(9998+8\).
+
+**Evidence:**  
+[Natural cap](https://youtu.be/NXsOcKdUVls)  
+[Overcap](https://youtu.be/Fv2URPc_kaI)  
+
+**Significance:**  
+Don't become an Ore Archon like me.  
