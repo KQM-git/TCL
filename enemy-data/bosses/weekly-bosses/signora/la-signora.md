@@ -66,4 +66,5 @@ La Signora will relocate at the center of the arena in order to encase herself i
   * During this phase, Sheer Cold will accumulate much rapidly and she will attack the player with homing icicles, lock-on target ice shards, and ice flowers. 
   * This phase is similar to the Cryo Hypostasis's Glacial Shield.
   * Crimson Lotus Moths will spawn which can be picked up. This will imbue your attacks will Pyro, dealing bonus DMG against her cocoon.
+    * The character dealing damage must be on-field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
   * Using Elemental Reactions, especially Melt, will also help destroy her cocoon.
