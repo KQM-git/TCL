@@ -11,6 +11,7 @@ description: Compendium of useful databases.
 * [Internal Cooldown Database](https://docs.google.com/spreadsheets/d/1dE8mTmRVlR1izKynvSD4Jk5igvWFMlVMENzUsel-n-0/) \(Google Sheets\)
 * [Talent/Scaling Compendium](https://docs.google.com/spreadsheets/d/1zziYa1BjNhye-8xcUyo4wZXegS3EAfSx_H0atn7N4pY/) \(Google Sheets\)
 * [Snapshot Timing](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/) \(Google Sheets\)
+* [Energy Consumption Frames of Elemental Bursts](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ) \(Google Sheets\)
 
 ## Enemy
 

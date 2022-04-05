@@ -102,7 +102,9 @@ The effects of this skill end when Xiao leaves the field.
 | :--- | :--- |
 | Normal, Charged, Plunge DMG bonus \(T9%\) | 90.65% |
 | Life Drain \(T9%\) | 2% Current HP/s |
-| Frames | 58 |  
+| Cast Frames | 58 |
+| Energy Frame | 39 |
+| CD Frame | 31 |
 | Energy Cost | 70 |
 | Duration | 15s |
 | CD | 18s |

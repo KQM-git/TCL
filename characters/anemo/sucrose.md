@@ -92,7 +92,9 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Attribute | DoT | Additional Elemental DMG |
 | :--- | :--- | :--- | 
 | Skill DMG \(T9%\) | 251.6% | 74.8% |
-| Frames | 67 | - |
+| Cast Frames | 67 | - |
+| Energy Frame | 26 | - |
+| CD Frame | 20 | - |
 | GU | 1U | 1A |
 | ICD | None | None |
 | Snapshot? | Snapshot | Snapshot |
