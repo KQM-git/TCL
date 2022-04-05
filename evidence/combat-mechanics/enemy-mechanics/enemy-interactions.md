@@ -269,7 +269,7 @@ Co-op cannot be used to have a more favorable/easier elemental matchup against a
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/960711833520570378/transcript-you-cant-melt-signora-from-off-field.html)
 
 **Finding:**  
-When Signora is in her ice cocoon phase, the character dealing damage must be on field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
+When Signora is in her ice cocoon phase, the character dealing damage must be on-field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
 
 **Evidence:**  
 Shown here with Xiangling (Guoba) and Fischl (Oz): [YouTube](https://www.youtube.com/watch?v=8vw8IF845A0)  
