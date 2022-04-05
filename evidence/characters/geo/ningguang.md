@@ -73,6 +73,20 @@ Both videos show Ningguang with a 100% crit rate from a fully stacked Royal Grim
 **Significance:**  
 Better rotation and team building for Ningguang surrounding setting up buffs for her E and her Q to snapshot.
 
+### Ningguang Burst Wall Destroy Range
+**By:** borderline\#3100  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958507759026982932/transcript-ning-burst-wall-destroy-range.html)  
+
+**Finding:**  
+Ningguang's Burst can destroy her Jade Screen from any range, assuming that the Jade Screen exists.  
+
+**Evidence:**  
+In [this video](https://youtu.be/6w9Juht5doU), Ningguang teleports from her wall at the max construct range, and her wall was destroyed successfully when her Burst was used.  
+
+**Significance:**  
+Where there's a wall, there's a way \(to destroy it\).  
+
 ## Constellation Mechanics
 
 ### C2: Shock Effect
