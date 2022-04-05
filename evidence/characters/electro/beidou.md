@@ -172,6 +172,21 @@ Lightning discharge from Beidou's burst can only be triggered within limited ran
 **Significance:**  
 Better understanding of Beidou burst.  
 
+### Beidou Proc Counts 
+
+**By:** elijam\#7142  
+**Added:** 03/26/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/957414035282870282/transcript-beidou-driver-proc-counts.html)  
+**Finding:**  
+A collection of Beidou driver proc counts with various combos and rotations.   
+ 
+**Evidence:**  
+[Sheet](https://docs.google.com/spreadsheets/d/1CQFHCP2XdxSZpvc0SYeKRH3F7COkOSqOiHw5IVZixnU/edit?usp=sharing)  
+ 
+**Significance:**  
+Optimization of gameplay with Beidou in various teams, more accurate team calcs for Beidou.
+
+
 ## Constellation Mechanics
 
 ### C4: Stunning Revenge

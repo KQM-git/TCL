@@ -117,7 +117,8 @@ Certain material items can be destroyed, but they don't give anything when destr
   * It is possible to go beyond this number by not leaving the rendered zone after picking up the 100th investigation spot.
   * As of Patch 2.5, the theoretical maximum is 184 investigation spots. For more information, see this [Vault Entry](../evidence/general-mechanics/resources-and-efficiency.md#multiple-artifact-clusters-after-100).
 * There is a random event daily limit of 10. After that, you receive no reward when completing random events that day.
-* The inventory cap for berries is 9999.
+* The inventory cap for Crystal Chunks is 9999, but players can overcap and reach 10006 by claiming Crystal Chunks as an Expedition reward, with 9998 already in their inventory.
+* The inventory cap for berries is also 9999, it's very likely that all resources cap at 9999.
 
 ### Artifact Drop Spots
 There are two types of artifact spots:  
