@@ -259,3 +259,60 @@ The energy burn orbs from Coral Defenders have 1 instance of damage. This damage
 
 **Significance:**  
 It was previously assumed that the damage is based on how much HP a character has, this turns out to not be the case (no difference in damage taken between test 1 and 2). The damage actually is affected by DEF but not by RES. Melt does not increase the damage dealt by the unblockable part, which adds value to shielders such as Zhongli.
+
+## Golden Wolflord Mechanics
+
+**By:** pai\#3602  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956016166516703252/transcript-golden-wolflord-mechanics.html)  
+
+**Findings:**  
+1. HP particles/orbs:
+    * 75% HP: 1 Clear Orb & 1 Clear Particle
+    * 50% HP: 1 Clear Orb & 1 Clear Particle
+    * 25% HP: 1 Clear Orb & 1 Clear Particle
+    * On death: 1 Clear Orb & 1 Clear Particle
+2. At 66% HP it spawns a shield consisting of 3 skulls around the arena.
+3. Each skull requires 3U Geo or 38 Elemental attacks to be destroyed. The ICD on all Elements except for Geo will be ignored and each skull requires 38 hits regardless of the GU.
+4. On hit, the Golden Wolflord applies the Corrosion status to the player, some of the attacks can be i\-framed, meaning no Corrosion is applied.  
+5. The dive that does damage in a large AoE can only destroy Geo Constructs that are between the skulls and the Golden Wolflord, allowing Geo Traveler's C2 to proc. But when Geo Constructs are placed between the skulls and the edge of the arena, they are invulnerable to this attack.
+6. Attacks:
+     * The ramming attack can be an opener. The initial action includes flying up, then do multiple spins: counter\-clockwise to clockwise to counter\-clockwise. It takes about 5 sec to finish the moveset \(starting from the flying up\). With enough tanking capabilities, you can combine the ~4 sec grounded during this moveset and the 6 sec stunned to deal more damage.
+    * Tornado. It starts with twirling counter\-clockwise at the center of arena, generating wind currents, before diving and creating the "Tornado". The overall moveset lasts for ~16 sec, after which the GW will be stunned. During the tornado attack, GW is still susceptible to damage. The tornado can also get stuck on Geo Constructs.
+     * Sweep. Initiated by raising its head, then sweeping/lashing clockwise using its tail with a relatively big AoE. The overall moveset lasts for ~4 sec, but is only grounded for ~2 sec.
+     * Laser Beam. Starts with raising of its head a bit, its mouth glowing, before initiating the actual Laser Beam. The beam slowly rakes from an angle, until it reaches ~90 degrees, lasting for 4 sec. The beam deals continuous damage, applying corrosion at a fast rate. The overall moveset lasts for 10 sec, while also being grounded for the whole duration.
+     * Skull Strike. The attack is initiated by raising its whole body above ground, then start spewing the "skulls" from its mouth, 1 skull every second. For the first two skulls, it seems the tracking starts before they were actually released, they also travel in an arc to attempt to hit the player at an angle. The third skull seems to travel overhead, also has better tracking. The skulls maybe blocked by constructs. The overall moveset lasts for 6 sec above ground.
+     * Earthshaking Dive. Initiated by going into the center, and flying up, then telegraphing a big AoE covering almost the whole arena before diving below ground.  The impact from diving deals damage, while the whole sequence lasts for 6 sec. After 1 sec, several AoEs are telegraphed across the room, then explodes after 2 sec, accompanied by the resurfacing of GW at the center that also deals damage. The overall moveset last for 10 sec. This moveset will be used for the first time during the Rifthound Skulls (Shielded Phase) and occasionally afterwards.
+7. Stuns:
+     * The stuns after the ramming attack and the tornado last 6s.
+    * The stuns after the skulls are broken lasts 24s.
+8. While the Golden Wolflord is flying, standing on a Geo Construct can help melee characters hit it. Deployables such as Oz, Ushi, and Yae Miko's totems can as well.
+9. There is a bug where the skulls will sometimes not spawn.
+10. There is another bug where sometimes Geo attacks will not deal any damage to the skulls.
+11. There is yet another bug where it sometimes launches the player into the air and if you don't glide or plunge, and no fall damage is taken.  
+
+**Evidence:**  
+1. and 2\. [HP particles and orbs](https://youtu.be/9w8ZruafbEE)  
+3. The skulls needing [3U Geo](https://youtu.be/zjmYr3iWbrE) or [38 non-Geo non-Physical hits](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions#rifthound-skulls-charging) with the [ICD being ignored](https://youtu.be/bn8RU3TA4vc)  
+4. [Attacks that can be dodged and i-framed](https://youtu.be/Gs5R3-yRtjA) (note that not all attacks were tested due to skill issue, it's possible that some other attacks can also be i-framed by sprinting)  
+5. [Geo Constructs can only get destroyed in only the inner part of the arena](https://youtu.be/5nEmF6XvrLY)  
+6. Attacks:
+     * [Ramming attack](https://youtu.be/eUlMgelTqVs)  
+     * Torando:
+       * [The attack normally](https://youtu.be/fXpZRfOW0cw)
+       * [Golden Wolford taking damage during the tornado](https://youtu.be/4A6TM0nx-FM)
+       * [The tornado getting stuck on Zhongli's pillar](https://youtu.be/Oo5Gfm9FpKM)
+     * [Sweep](https://youtu.be/S4iV3grTA_8)  
+     * [Laser beam](https://youtu.be/tpXLe11TlQo)  
+     * [Skull strike](https://youtu.be/IBk-yGIQpEE)  
+     * [Earthshaking dive](https://youtu.be/_9Ed6gbhDzk)  
+7. Stuns:  
+    * [After the ramming attack](https://youtu.be/vEzsAiws59M)  
+     * [After the tornado](https://youtu.be/nGIHfLDxfX4)  
+    * [After the skulls are broken](https://youtu.be/zEkWywMQ4oE)  
+8. [Things that can hit while it's flying](https://youtu.be/gRFltjSdd6o)  
+9. Bug 1: [Skulls not spawning](https://youtu.be/scdO82aCDNE)  
+10. Bug 2: [Geo attack not working](https://youtu.be/jWb1sBlSb9I)  
+11. Bug 3: [The yeet](https://youtu.be/yeu9S0o-Qeo)  
+
+Credits to HowLxxxx\#4676, Mr. Pillow\#0065, borderline\#3100, Silvershine2\#5439, Magnus Artifex\#8719, and u/AstralCookies for some of the videos.  
