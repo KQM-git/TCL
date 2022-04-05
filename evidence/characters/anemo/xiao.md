@@ -25,6 +25,31 @@ The difference between initiating a low plunge from the jet combo \(N1CJP\) is l
 
 Xiao's vertical displacement is super quick. If you want to do the jet combo, you need to get to the point where you get a high plunge, so the video is a good reference to know when you fail/do it correctly. It is also better to be late and high plunge than it is to be early and low plunge.
 
+## Burst Mechanics
+
+### Xiao Keeps His Mask
+
+**By:** Rathalos\#2875  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958512661308510268/transcript-xiao-keeps-his-mask.html)  
+
+**Finding:**  
+Xiao can keep his mask in the overworld for an indefinite amount of time through the use of Burst cancels.  
+
+The mask can be removed if:  
+* Xiao uses his Burst and lets it expire naturally
+* Xiao is swapped out from the party via party changer
+* Xiao enters a domain 
+* Xiao enters an instanced location \(like restaurants\)
+* Xiao dies
+
+**Evidence:**  
+[Obtaining the mask](https://imgur.com/13jOBuT)  
+[Removing the mask](https://youtu.be/lYotuxXkdcg)  
+
+**Significance:**  
+Allows Xiao to keep his mask. Good for picture-taking events and other aesthetic purposes.  
+
 ## Synergies/Interactions
 
 ### **Venti’s Ult and Plunges**

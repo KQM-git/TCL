@@ -86,6 +86,26 @@ This video shows the tech first and a normal fall second. Note the elemental ski
 **Significance:**  
 This tech is useful if you only want to tap E with Kazuha without initiating a plunge attack. For example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them.
 
+### Kazuha Land Cancel
+**By:** BowTae\#0141  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958505561622720512/transcript-kazuha-land-cancel.html)  
+
+**Finding:**  
+After using E, Kazuha's Special Plunge does not have a minimum height restriction, unlike regular Plunging Attacks. This means you can do a plunge very low to the ground. In fact, you can plunge so low to the ground that it cancels the initial rising motion of the plunge. The timing for this is probably either a 1 or 2 frame window.  
+
+Credit to Peekays\#2722 for the initial discovery.  
+
+**Evidence:**  
+* [30 FPS](https://imgur.com/OCZc4OE)
+* [60 FPS](https://imgur.com/MyBk6kp)
+* [From glider](ttps://imgur.com/ZufeK1Z)
+* [30 FPS comparison with normal EP](https://imgur.com/t8uRjxj)
+* [60 FPS comparison with normal EP](https://imgur.com/ZVsAXUs)
+
+**Significance:**  
+Kazuha Swag.  
+
 ## Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
 * Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  

@@ -8,7 +8,8 @@ description: An explanation as to how outgoing damage is calculated.
 
 $$
 \begin{multline*}
-Damage = ((BaseDamage \times SpecialMultiplier) + FlatDamage) \times  (1 + DamageBonus) \times Crit\\
+Damage = ((BaseDamage \times SpecialMultiplier) + FlatDamage)
+\times (1 + DamageBonus) \times Crit\\
 \times EnemyDefMult\times EnemyResMult\\
 \times AmplifyingReaction + TransformativeReaction + Proc
 \end{multline*}
@@ -30,9 +31,11 @@ $$
 $$
 ATK = (AttackCharacter + AttackWeapon) \times (1 + AttackBonus) + FlatAttack
 $$
+
 $$
 DEF = DefenseCharacter \times (1 + DefenseBonus) + FlatDefense
 $$
+
 $$
 Max\ HP = HealthCharacter \times (1 + HealthBonus) + FlatHealth
 $$
@@ -88,7 +91,6 @@ EnemyDefMult = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level
 \end{multline*}
 $$
 
-
 | Formula Variable | Explanation |
 | :--- | :--- |
 | **Level<sub>Character</sub>** | The player character's level. |
@@ -117,6 +119,7 @@ $$
 $$
 Resistance = BaseResistance - ResistanceReduction
 $$
+
 
 | Formula Variable | Explanation |
 | :--- | :--- |
@@ -158,7 +161,7 @@ $$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
-| **Evilsoother** | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his elemental skill. |
+| [**Evilsoother**](../../characters/hydro/xingqiu.md#attacks) | Xingqiu’s Constellation 4 ability applies a 1.5 buff to his elemental skill. |
 | [**Niwabi Fire-Dance**](../../characters/pyro/yoimiya.md#attacks) | Yoimiya's Elemental Skill applies a scaling buff to her normal attacks. |
 
 ## Transformative Reaction Bonus

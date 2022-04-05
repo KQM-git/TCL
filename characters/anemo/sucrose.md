@@ -42,6 +42,9 @@ Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 | Recovery | N/A | 132 | 116.25%/s |
 | GU | 1GU | - | - |
 
+**Notes:**  
+* N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
+
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
@@ -89,7 +92,9 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Attribute | DoT | Additional Elemental DMG |
 | :--- | :--- | :--- | 
 | Skill DMG \(T9%\) | 251.6% | 74.8% |
-| Frames | 67 | - |
+| Cast Frames | 67 | - |
+| Energy Frame | 26 | - |
+| CD Frame | 20 | - |
 | GU | 1U | 1A |
 | ICD | None | None |
 | Snapshot? | Snapshot | Snapshot |

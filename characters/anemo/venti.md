@@ -98,7 +98,9 @@ This can only occur once per use.
 | Attribute | Burst DoT | Burst Additional Elemental DMG |
 | :--- | :--- | :--- |
 | Skill DMG (T9%) | 63.92% * 20| 31.96% * 15\*|
-| Frames | 94 | - |
+| Cast Frames | 94 | - |
+| Energy Frame | 90 | - |
+| CD Frame | 83 | - |
 | GU | 1U | 1A |
 | ICD | 3 hits | 3 hits |
 | Duration | 8s | 6.0s |

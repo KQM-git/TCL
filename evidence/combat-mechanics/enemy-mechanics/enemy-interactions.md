@@ -260,6 +260,25 @@ Data was collected using google forms, all submissions were checked with the scr
 **Significance:**  
 Co-op cannot be used to have a more favorable/easier elemental matchup against azhdaha as the his infused elements in a given week are the same for all players.
 
+### La Signora
+
+#### You can't melt signora off field
+
+**By:** Puffin\#9920  
+**Added:** 4/4/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/960711833520570378/transcript-you-cant-melt-signora-from-off-field.html)
+
+**Finding:**  
+When Signora is in her ice cocoon phase, the character dealing damage must be on-field for the Crimson Lotus Moth's effect to melt Signora's cocoon.
+
+**Evidence:**  
+Shown here with Xiangling (Guoba) and Fischl (Oz): [YouTube](https://www.youtube.com/watch?v=8vw8IF845A0)  
+Shown here with Kaeya burst: [YouTube](https://youtu.be/MpfNRduI1Ig)  
+Shown here with Zhongli Pillar: [YouTube](https://youtu.be/HrjIBJ52od0)
+
+**Significance:**  
+Better understanding of La Signora's Crimson Lotus Moth mechanic.
+
 ### Stormterror  
 
 #### Stormterror DoT Damage Cap

@@ -95,17 +95,20 @@ At least two of the birds \(one near Azhdaha and one in Guyun\) die very often o
 **Significance:**  
 Free fowl. Also whoever is coding the animals is probably trolling.
 
-## Chair Cancelling
+## Chair Canceling
 
 **By:** Ayzel\#7399  
 **Added:** 5/21/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
 
-**Finding:** For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+**Finding:**  
+For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
 
-**Evidence:** [https://youtu.be/6nwbxIwk3Q8](https://youtu.be/6nwbxIwk3Q8)
+**Evidence:**  
+[Video](https://youtu.be/6nwbxIwk3Q8)
 
-**Significance:** New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).
+**Significance:**  
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).  
 
 ## Door Load Border Shenanigans
 
@@ -114,7 +117,6 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)  
 
 **Finding:**  
-
 Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, *for some reason* seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.  
 1.    
 Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
@@ -646,7 +648,6 @@ Singleplayer:
 
 8 So the Sustainer scattered them from there over all the Abyss, and they stopped building the city. 9 That is why it was called Babel—because there the Sustainer confused the language of the whole world. From there the Sustainer scattered them over the face of the Abyss.  
 
-
 ## Passive Activation Distance
 
 **By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
@@ -671,3 +672,64 @@ Certain effects have activation distance limits that prevent them from working.
 
 **Significance:**  
 Something to keep in mind when doing long range activities.  
+
+## Certain Actions Reset Walking Mode
+
+**By:** Madrigal\#7486  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958524651376631877/transcript-certain-actions-reset-walking-mode.html)  
+
+**Finding:**  
+Walking mode gets reset to running mode by certain actions on PC, but not on mobile.  
+
+**Evidence:**  
+Walking mode reset:
+* [No camera angle change with 5\* Elemental Burst on PC](https://youtu.be/OxGYolH85pQ)
+* [Opening UI menu on PC](https://youtu.be/ho4thwKsqdY)
+
+Walking mode persist:
+* [Camera angle change of 5\* Elemental Burst on PC](https://youtu.be/mi9Xe-7zDrc)
+* Any Skill/Burst \(with jump/dash cancel\) on mobile: [Video 1](https://youtu.be/JJJWWCL083Y), [video 2](https://youtu.be/tHvNmXtcYW4)
+
+**Significance:**  
+Crucial knowledge for people doing walking only challenges, ruining any remaining trust in HoYoverse consistency.  
+
+## Not All Doors Are Equal
+
+**By:** Puffin\#9920  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958514754920525914/transcript-not-all-doors-are-equal.html)  
+
+**Finding:**  
+The only doors that do the [funny reload thing](#door-load-border-shenanigans) with Elemental Skills and Bursts fit the following conditions:
+1. Must have an interact prompt to pass through.
+2. Don't reload the whole area around the player when entering/exiting
+3. Are not sliding doors \(Inazuma sliding doors do not work\).
+So far, the only doors that fulfil both those criteria are the three in the Knights of Favonius Office.
+
+**Evidence:**  
+1. [Floating Abode default mansion](https://youtu.be/oi7djy91Erg): None of the doors do the funny reload. Tested with Keqing E, Guoba, and Aloy E \(all three did reload weird in og ticket\).
+2. [Cool Isle/Emerald Peak default mansion](https://youtu.be/wrmvyrSEhRU): Doors don't reload funny. Tested with the same abilities as listed in 1.
+3. [Silken Courtyard default mansion](https://youtu.be/kL17J_pKw-A): Doors do not do funny reload thing. Tested with same abilities as in 1.
+4. [Knights of Favonius](https://youtu.be/djqc2k2yizg): More evidence that the Knight of Favonius doors do the funny reload.
+5. [Wanmin Restaurant](https://youtu.be/VJJ0NMlIToA): It has no interactable prompt to enter/exit, does not do funny reload thing. Tested with same abilities as 1. 
+6. [Kamisato Estate](https://youtu.be/t_LrnVUbwv0): Trying to see if door in the Kamisato Estate does the reload thing. It does not appear to extend timing \(1:05 in video\). Later in video, 1:58, her bombs explode with ~4sec left on her E timer. At 0:42 in the video, I throw Aloy's Skill and try running in/out of one of the doorways in the mansion, which does not reload her bomblets. Interestingly, this video \(0:03 to 0:38\) implies that Skill cooldowns still tick through loading screens. This is probably better tested by someone with faster loading times than me, since for all I know, Aloy's bombs could have been whisked into the void after I exited.
+7. [Inazuma sliding doors](https://youtu.be/O4erjly_U-A): These do not reload funny.
+
+**Significance:**  
+The Knights of Favonius are special.  
+
+## Self-Freeze Can Be Canceled by Swapping
+
+**By:** yolitme0\#0579  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958510689549447250/transcript-self-freeze-can-be-canceled-by-swapping.html)  
+
+**Finding:**  
+By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.  
+
+**Evidence:**  
+[Video](https://youtu.be/685gg8vm5m4)  
+
+**Significance:**  
+If you get really lucky you can avoid being Frozen.  

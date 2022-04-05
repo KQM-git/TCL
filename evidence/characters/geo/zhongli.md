@@ -89,6 +89,55 @@ Zhongli Stele Snapshot Mechanics.
 **Significance:**  
 Further understanding of Stone Steles.
 
+### Zhongli E and Tenacity Snapshot Shenanigans
+
+**By:** Latiwings\#3308, Potade\#9775, and Xreejan\#1180  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958519117839757373/transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)  
+
+**Finding:**  
+4TotM \(+20% ATK\) does not affect the Tap E or Hold E that procs it, because Zhongli E Snapshots. Neither the Stone Stele nor the Resonance DMG is buffed by 4TotM.  
+
+Tenacity's effect states that:  
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.  
+
+**Evidence:**  
+Zhongli Stats \(without 4TotM\):  
+* ATK: 431
+* HP: 35407
+* Geo DMG: 28.8%
+* Level 80 ZL, Level 85 enemy 10% RES  
+  * Hold E damage: \(431\*136%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 719.7
+  * Tap E damage: \(431\*27.20%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 451.6
+  * Resonance damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 518.6
+  * Resonance w/RES shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
+
+4TotM didn't apply to either of these:  
+* [Tap E](https://imgur.com/a/3EakN4l)
+* [Hold E](https://imgur.com/a/CJtEawi)
+
+**Significance:**  
+Understand how Zhongli E and Tenacity interact, which affects the calculation for rotations, specifically microwave comps.  
+
+### Geo Construct Test
+
+**By:** Rathalos\#2875  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958503937697275984/transcript-geo-construct-test.html)  
+
+**Finding:**  
+Zhongli's Stone Stele can resonate with the Rock Pillars created by a Geo Samachurl, but it does not resonate with the Rock Spikes they use to attack.  
+
+Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and create shockwaves. Rock Spikes refer to the Geo attack channeled by a Geo Samachurl that looks like a construct.  
+
+**Evidence:**  
+* [Resonates with the Rock Pillars](https://imgur.com/eSiYfAM)
+* [Does not resonante with the Rock Spikes](https://youtu.be/85zd6TJu36M)
+
+**Significance:**  
+1. Zhongli's Stone Stele can resonate with enemy Geo Constructs. This mechanic can be used to test whether an object is a Geo Construct regardless of whether it's an allied or enemy construct.
+2. Rock Spikes are not Geo Constructs. This ability cannot be abused to extend the resonance from Zhongli's Stone Stele.
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves

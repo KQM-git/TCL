@@ -104,7 +104,9 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 | Field Enter/Exit DMG \(T9%\) | 133.28% | 
 | Burst Healing \(T9%\) | 427.04% ATK + 3132 |
 | Continuous Healing \(T9%\) | 42.7% ATK + 313 |
-| Frames | 88 |
+| Cast Frames | 88 |
+| Energy Frame | 46 |
+| CD Frame | 40 |
 | GU | 2U |
 | ICD | None | 
 | Snapshot | Snapshots | 
@@ -121,7 +123,8 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 * Heals and applies Anemo continuously to the active character inside the field cleansing debuffs.
   * The continuous swirling of auras allows elements to spread to surrounding opponents when self-afflicted with an element.
   * With precise timing, Anemo can be the aura for self-swirls occasionally.  
-  * This self-swirl interaction does not count as a reaction for Freedom Sworn passive stacks and 4pc Instructor set effect.
+  * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4pc Instructor set effect.
+  * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
 {% endtab %}
 {% endtabs %}
 

@@ -102,7 +102,9 @@ The effects of this skill end when Xiao leaves the field.
 | :--- | :--- |
 | Normal, Charged, Plunge DMG bonus \(T9%\) | 90.65% |
 | Life Drain \(T9%\) | 2% Current HP/s |
-| Frames | 58 |  
+| Cast Frames | 58 |
+| Energy Frame | 39 |
+| CD Frame | 31 |
 | Energy Cost | 70 |
 | Duration | 15s |
 | CD | 18s |
@@ -110,6 +112,7 @@ The effects of this skill end when Xiao leaves the field.
 **Notes**
 * Xiao's attacks will be infused with 1GU Anemo.  
 * While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
+* Xiao can keep his mask on if his Burst is canceled.
 
 {% endtab %}
 {% endtabs %}
