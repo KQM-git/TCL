@@ -89,6 +89,25 @@ Zhongli Stele Snapshot Mechanics.
 **Significance:**  
 Further understanding of Stone Steles.
 
+### Geo Construct Test
+
+**By:** Rathalos\#2875  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958503937697275984/transcript-geo-construct-test.html)  
+
+**Finding:**  
+Zhongli's Stone Stele can resonate with the Rock Pillars created by a Geo Samachurl, but it does not resonate with the Rock Spikes they use to attack.  
+
+Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and create shockwaves. Rock Spikes refer to the Geo attack channeled by a Geo Samachurl that looks like a construct.  
+
+**Evidence:**  
+* [Resonates with the Rock Pillars](https://imgur.com/eSiYfAM)
+* [Does not resonante with the Rock Spikes](https://youtu.be/85zd6TJu36M)
+
+**Significance:**  
+1. Zhongli's Stone Stele can resonate with enemy Geo Constructs. This mechanic can be used to test whether an object is a Geo Construct regardless of whether it's an allied or enemy construct.
+2. Rock Spikes are not Geo Constructs. This ability cannot be abused to extend the resonance from Zhongli's Stone Stele.
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
