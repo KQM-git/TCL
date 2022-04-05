@@ -106,6 +106,7 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 * **Stone Steles** resonate independently and with Geo Constructs from enemies, but they do not resonate with each other.
 * The range for the resistance shred is ~3 Abyss tiles.
 * At C0, Hold E does not re-snapshot an existing pillar; at C1 each Stone Stele snapshots on cast, meaning it's possible to have 1 unbuffed **Stone Stele** and 1 buffed **Stone Stele** at the same time.
+* 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** Snapshots. 
 
 | Attribute | Shield |
 | :--- | :--- |

@@ -89,6 +89,36 @@ Zhongli Stele Snapshot Mechanics.
 **Significance:**  
 Further understanding of Stone Steles.
 
+### Zhongli E and Tenacity Snapshot Shenanigans
+
+**By:** Latiwings\#3308, Potade\#9775, and Xreejan\#1180  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958519117839757373/transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)  
+
+**Finding:**  
+4TotM \(+20% ATK\) does not affect the Tap E or Hold E that procs it, because Zhongli E Snapshots. Neither the Stone Stele nor the Resonance DMG is buffed by 4TotM.  
+
+Tenacity's effect states that:  
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.  
+
+**Evidence:**  
+Zhongli Stats \(without 4TotM\):  
+* ATK: 431
+* HP: 35407
+* Geo DMG: 28.8%
+* Level 80 ZL, Level 85 enemy 10% RES  
+  * Hold E damage: \(431\*136%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 719.7
+  * Tap E damage: \(431\*27.20%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 451.6
+  * Resonance damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 518.6
+  * Resonance w/RES shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
+
+4TotM didn't apply to either of these:  
+* [Tap E](https://imgur.com/a/3EakN4l)
+* [Hold E](https://imgur.com/a/CJtEawi)
+
+**Significance:**  
+Understand how Zhongli E and Tenacity interact, which affects the calculation for rotations, specifically microwave comps.  
+
 ### Geo Construct Test
 
 **By:** Rathalos\#2875  
