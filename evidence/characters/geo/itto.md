@@ -70,6 +70,20 @@
 * Ushi still persists and gains stacks after teleporting. - [nxriaki\#6316](https://youtu.be/OLB4LVXzD-Q)
 * Ushi is able to use wall hacks and phase through this wall in Mondstadt. Ushi will still despawn and give stack, so it doesnt get destroyed due to wall. - [Ultimate Noob\#2955](https://youtu.be/XluSNFbqGrg)
 
+### Ushi Max Air Time
+
+**By:** Homura\#9806  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958523437255643187/transcript-ushi-max-air-time.html)  
+
+**Finding:**  
+Ushi lands in mid\-air after 2 seconds of air time.  
+
+**Evidence:**  
+[Video](https://youtu.be/gAx0NFQBl5w)  
+
+**Significance:**  
+Further understanding of Ushi as a Geo Construct.  
 
 ## Burst Mechanics
 

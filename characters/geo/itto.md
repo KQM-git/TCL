@@ -106,6 +106,7 @@ Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the f
 * Ushi still persists and gains stacks after teleporting.
 * Ushi is unsuckable (via Sucrose and Kazuha).
 * Ushi can be pushed by either Itto or enemies.
+* Ushi will "land" mid\-air after 2 seconds if it doesn't land on a surface.
 
 {% endtab %}
 

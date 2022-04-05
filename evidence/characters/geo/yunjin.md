@@ -27,7 +27,7 @@
     * N1C: 13 + 57
     * With recovery: 89
   * Skill -
-    * Press: 59 - [Video](https://youtu.be/dYfMEgQRtAo)
+    * Press: 59 - [Video](https://youtu.be/UaDlo3OSj6U)
     * Charge Level 1: 109 - [Video](https://youtu.be/FGVpilxpIvc)
     * Charge Level 2: 147 - [Video](https://www.youtube.com/watch?v=oEEVdUYkirA) - Steno\#0119
   * Burst: 55 - [Video](https://youtu.be/CpZPt3S3tPU)
