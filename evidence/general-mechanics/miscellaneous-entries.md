@@ -648,7 +648,6 @@ Singleplayer:
 
 8 So the Sustainer scattered them from there over all the Abyss, and they stopped building the city. 9 That is why it was called Babel—because there the Sustainer confused the language of the whole world. From there the Sustainer scattered them over the face of the Abyss.  
 
-
 ## Passive Activation Distance
 
 **By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
@@ -673,3 +672,18 @@ Certain effects have activation distance limits that prevent them from working.
 
 **Significance:**  
 Something to keep in mind when doing long range activities.  
+
+## Self-Freeze Can Be Canceled by Swapping
+
+**By:** yolitme0\#0579  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958510689549447250/transcript-self-freeze-can-be-canceled-by-swapping.html)  
+
+**Finding:**  
+By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.  
+
+**Evidence:**  
+[Video](https://youtu.be/685gg8vm5m4)  
+
+**Significance:**  
+If you get really lucky you can avoid being Frozen.  
