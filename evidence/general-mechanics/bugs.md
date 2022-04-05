@@ -354,6 +354,21 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 
 **Significance:** If this bug can be replicated consistently, it can double Mona's Energy Generation + a minimal increase in damage.
 
+### Infinite Torch
+
+**By:** Sincronic\#3171  
+**Added:** 03/29/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958520792939900958/transcript-infinitorch.html)  
+
+**Bug:**  
+Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.  
+
+**Evidence:**  
+[Video](https://youtu.be/qI1wiQH2lw4): No matter the amout, type, or Gauge of the Overload, the torch could not be extinguished.  
+
+**Significance:**  
+Understanding of overworld mechanics.  
+
 ## Teapot
 
 ### Horizon Tech
