@@ -285,6 +285,29 @@ C4 pretty good
 
 **Significance:** Beidou's C6 is not as powerful as it seems.
 
+#### Beidou C6 Lingers
+
+**By:** mando.\#1646  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962135271934160966/transcript-bei-c6.html)  
+
+**Finding:**  
+The Electro RES Shred from Beidou C6 lingers for about 2 seconds.  
+
+**Evidence:**  
+Apart from the damage numbers, the debuff arrows persist on the ruin guard longer than the animation itself.
+
+[Video 1](https://youtu.be/58AFffY9Gzo)  
+* Lisa E damage with RES Shred: 256
+* Lisa E damage without RES Shred: 225
+
+[Video 2](https://youtu.be/UGl50q7o8Mg)  
+* Lisa E damage with RES Shred: 247
+* Lisa E damage without RES Shred: 217
+
+**Significance:**  
+Better understanding of Beidou's C6.  
+
 ## Interactions/Synergies
 
 ### Serpent Spine Interactions with Beidou
