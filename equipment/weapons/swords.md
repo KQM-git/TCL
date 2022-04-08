@@ -46,6 +46,7 @@
 | Elemental Mastery | 43 - 198 |
 
 * The self swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
+* Stacks can't be gained from infusing the weapon with 2 different Elements.
 {% endtab %}
 
 {% tab title="Details" %}
