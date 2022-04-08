@@ -83,9 +83,13 @@ Double dashing with a pause inbetween to regain stamina can allow for a faster w
 
 Dashing off of cliffs can speed up fall speed.  
 
-## Jump extension  
+## Jump Extension  
 
 Getting hit while jumping adds extra velocity if not staggered.  
+
+## Elevators
+
+When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.
 
 ## Evidence Vault
 
