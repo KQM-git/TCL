@@ -133,6 +133,8 @@ When Albedo crafts Weapon Ascension Materials, he has a 10% chance to receive do
 ### **Homuncular Nature**
 
 Using **Rite of Progeniture: Tectonic Tide** increases the Elemental Mastery of nearby party members by 125 for 10s.
+
+* The buff is triggered during the Q animation when the Geo structures first appear in front of Albedo.
 {% endtab %}
 {% endtabs %}
 
