@@ -733,3 +733,18 @@ By swapping at the correct time around when you initially become Frozen, you can
 
 **Significance:**  
 If you get really lucky you can avoid being Frozen.  
+
+## Portable Waypoints Don't Stop Sheer Cold
+
+**By:** Puffin\#9920  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962023997183234068/transcript-portable-waypoints-dont-stop-sheer-cold.html)  
+
+**Finding:**  
+Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/Dr5J0UR_N50)  
+
+**Significance:**  
+Better understanding of Portable Waypoints.  
