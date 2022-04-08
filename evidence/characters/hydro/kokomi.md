@@ -36,7 +36,7 @@ search: false
 * Kokomi is limited to one Bake-Kurage on-field at a time.
   * Sacrificial Fragments: [CC#5588](https://youtu.be/ynane6Dr31s)
   * 4pc Gamblers: [Mcpie#8672](https://imgur.com/ATtyo26)
-* Kokomi's E resnapshots upon Q cast refreshing Bake-Kurage Duration. - [CC#5588](https://www.youtube.com/watch?v=hOQVxguTCVg)
+* Kokomi's E snapshots, but does not resnapshot upon Q cast when refreshing the Bake-Kurage duration and the damage dynamically changes while Q is active. - [CC#5588](https://www.youtube.com/watch?v=hOQVxguTCVg)
   * 00:08 - proof of snapshot
   * 00:29 - Bake-Kurage damage changes upon Q cast
   * 00:53 - Bennett atk buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
@@ -146,3 +146,19 @@ Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Rem
 
 **Significance:**  
 Can have higher Artifact set effect uptime and stacks, but at the cost of getting interrupted and not summoning Bake-Kurage.  
+
+### Kokomo Q Does Not Resnapshot
+
+**By:** Kurt\#5846  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962109619050786918/transcript-kokomi-q-does-not-resnapshot.html)  
+
+**Finding:**  
+The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot upon Q cast, but does gain additional damage from her Q.  
+
+**Evidence:**  
+[Video 1](https://www.youtube.com/watch?v=srSxesh8yWg) by Hessey\#9122  
+[Video 2](https://www.youtube.com/watch?v=vmdj37M2Dxw) by Shizuka\#7791  
+
+**Significance:**  
+ Understanding game mechanics and keeping the TCL accurate.
