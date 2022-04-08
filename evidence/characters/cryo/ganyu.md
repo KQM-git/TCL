@@ -230,6 +230,23 @@ User Tiago thoroughly tested Ganyu’s Trail of Qilin by going to each individua
 
 As Ganyu’s Trail of Qilin is capable of properly taunting just about every single enemy in the game it will prove to be a highly valuable asset in crowd control for Ganyu players, especially in melt comps due to it attracting enemies near Xiangling’s Guoba, along with being a major asset for abyss 11-2.
 
+### Ganyu Construct Height Placement Shenanigans
+
+**By:** Empyress\#9451  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962026867236417586/transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+
+**Finding:**  
+Ganyu's Ice Lotus placement seems to have a specific height difference past which it will be placed mid-air.  
+
+**Evidence:**  
+* [Video demonstration](https://www.youtube.com/watch?v=jha55PFx5iQ)
+* [Testing location](https://imgur.com/OkrAhHn)
+* [Height reference](https://imgur.com/RvbWdsJ)
+
+**Significance:**  
+Knowing more about construct spawn conditions at different heights.  
+
 ## Burst Mechanics
 
 ### Icicle drop frequency of Ganyu’s Q
