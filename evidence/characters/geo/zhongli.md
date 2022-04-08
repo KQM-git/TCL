@@ -138,6 +138,23 @@ Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and c
 1. Zhongli's Stone Stele can resonate with enemy Geo Constructs. This mechanic can be used to test whether an object is a Geo Construct regardless of whether it's an allied or enemy construct.
 2. Rock Spikes are not Geo Constructs. This ability cannot be abused to extend the resonance from Zhongli's Stone Stele.
 
+### Zhongli Construct Height Placement Shenanigans
+
+**By:** Empyress\#9451  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962026867236417586/transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+
+**Finding:**  
+Zhongli's Geo Construct placement seems to have a specific height difference past which it will not place the pillar at the lower level and instead just destroy it.  
+
+**Evidence:**  
+* [Video demonstration](https://www.youtube.com/watch?v=jha55PFx5iQ)  
+* [Testing location](https://imgur.com/OkrAhHn)  
+* [Height reference](https://imgur.com/RvbWdsJ)  
+
+**Significance:**  
+Knowing more about Geo Construct spawn conditions at different heights.  
+
 ## Ascension Mechanics
 
 ### A1: Resonant Waves
