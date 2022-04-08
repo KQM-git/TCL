@@ -625,6 +625,37 @@
 {% endtab %}
 {% endtabs %}
 
+### Dark Iron Sword
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Overloaded | Upon causing an Overloaded, Superconduct, Electro-Charged, or an Electro-infused Swirl reaction, ATK is increased by 20% for 12s. |
+| Base ATK | 39 - 401 |
+| Elemental Mastery | 31 - 141 |
+
+* Can only be obtained from Chen the Sharp in Liyue Harbor.
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 263 | 104 |
+| 60+ | 282 | 104 |
+| 65 | 296 | 110 |
+| 70 | 309 | 116 |
+| 70+ | 329 | 116 |
+| 75 | 342 | 122 |
+| 80 | 355 | 122 |
+| 80+ | 375 | 128 |
+| 85 | 388 | 134 |
+| 90 | 401 | 141 |
+{% endtab %}
+{% endtabs %}
+
 ### Fillet Blade
 
 {% tabs %}
