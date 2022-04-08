@@ -21,6 +21,8 @@ Opening the exit menu in the Abyss does not pause the timer. This results in a b
 * You take damage when you [plunge on a spot at Dainichi island bridge](../evidence/general-mechanics/bugs.md\#leg-break-bridge), this happens with any weapon type.
   * The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
 * Sometimes [torches will become inextinguishable by Overload](../evidence/general-mechanics/bugs.md#infinite-torch), the cause is unknown.
+* [Lightning Struck Trees have a high chance of breaking](../evidence/general-mechanics/bugs.md#lightning-struck-tree-breaks-when-swapping-characters) if you swap characters near them as it keeps applying Electro on you.
+  * It is possible to fix it by relogging or drowning to force reload.  
 
 ## Artifacts
 
