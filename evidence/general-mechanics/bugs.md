@@ -369,6 +369,21 @@ Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. 
 **Significance:**  
 Understanding of overworld mechanics.  
 
+### Lightning Struck Tree Breaks When Swapping Characters
+
+**By:** Sincronic\#3171  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962022405419704400/transcript-lightning-struck-tree-breaks-when-swapping-characters.html)  
+
+**Bug:**  
+Lightning Struck Trees have a high chance of breaking if you swap characters near them as it keeps applying Electro on you. It is possible to fix it by relogging or drowning to force reload.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/uqLVV94zVBU)  
+
+**Significance:**  
+ Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.  
+ 
 ## Teapot
 
 ### Horizon Tech
