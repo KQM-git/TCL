@@ -140,7 +140,9 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 | Attribute | Bubble | Omen |
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 752.08% | 58% \(scaling\) |
-| Frames | 125 | - |
+| Cast Frames | 125 | - |
+| Energy Frame | 13 | - |
+| CD Frame | 2 | - |
 | GU (Cast) | 1A | 2B |
 | ICD | 3 hits / 2.5s* | 3 hits / 2.5s* | 
 | Snapshot | Dynamic | Dynamic |
