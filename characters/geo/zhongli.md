@@ -107,6 +107,7 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 * The range for the resistance shred is ~3 Abyss tiles.
 * At C0, Hold E does not re-snapshot an existing pillar; at C1 each Stone Stele snapshots on cast, meaning it's possible to have 1 unbuffed **Stone Stele** and 1 buffed **Stone Stele** at the same time.
 * 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** Snapshots. 
+* **Stone Stele** will not be placed and will be destroyed instead when Zhongli is standing on a high platform.
 
 | Attribute | Shield |
 | :--- | :--- |
