@@ -92,7 +92,9 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 | :--- | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 346.8% | 102% | 346.8% |
 | MV/s | 413.63%/s | - | - |
-| Frames | 145 | - | - |
+| Cast Frames | 145 | - | - |
+| Energy Frame | 24 | - | - |
+| CD Frame | 16 | - | - |
 | GU | 2B | 1A | ? |
 | ICD | 5 hits/5s* | 5 hits/5s* | 5 hits/5s* |
 | Snapshot | Dynamic | Snapshot | Snapshot |
