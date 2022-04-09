@@ -1435,17 +1435,4 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
-## Not All Doors Are Equal
-
-**By:** Puffin\#9920  
-**Added:** 03/29/2022  
-[Discussion]()  
-
-**Finding:**  
-
-
-**Evidence:**  
-
-
-**Significance:**  
  

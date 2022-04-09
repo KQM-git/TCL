@@ -19,7 +19,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 423 | 30.4 |
 | 60+ | 455 | 30.4 |
@@ -45,13 +45,14 @@
 | Base ATK | 46 - 608 |
 | Elemental Mastery | 43 - 198 |
 
+
 * The self swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
 * Stacks can't be gained from infusing the weapon with 2 different Elements.
 {% endtab %}
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 382 | 146 |
 | 60+ | 414 | 146 |
@@ -83,7 +84,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Crit DMG |
+| Level | Base ATK | Crit DMG |
 | :--- | :--- | :--- |
 | 60 | 423 | 32.5 |
 | 60+ | 455 | 32.5 |
@@ -112,7 +113,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 341 | 32.5 |
 | 60+ | 373 | 32.5 |
@@ -143,7 +144,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 382 | 40.6 |
 | 60+ | 414 | 40.6 |
@@ -174,7 +175,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -205,7 +206,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
 | 60+ | 319 | 40.6 |
@@ -238,7 +239,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 27.1 |
 | 60+ | 387 | 27.1 |
@@ -266,7 +267,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
-| Level | Base Atk | DEF  |
+| Level | Base ATK | DEF  |
 |-------|----------|------|
 | 1     | 41       | 15   |
 | 5     | 54       | 17.4 |
@@ -313,7 +314,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
 | 60+ | 319 | 45.1 |
@@ -342,7 +343,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
 | 60+ | 353 | 33.8 |
@@ -371,7 +372,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 327 | 122 |
 | 60+ | 353 | 122 |
@@ -404,7 +405,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -433,7 +434,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 25.4 |
 | 60+ | 387 | 25.4 |
@@ -468,7 +469,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -501,7 +502,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
 | 60+ | 319 | 45.1 |
@@ -545,7 +546,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
 | 60+ | 353 | 20.3 |
@@ -576,7 +577,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -611,7 +612,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
 | 60+ | 282 | 25.9 |
@@ -623,6 +624,37 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
+{% endtab %}
+{% endtabs %}
+
+### Dark Iron Sword
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Overloaded | Upon causing an Overloaded, Superconduct, Electro-Charged, or an Electro-infused Swirl reaction, ATK is increased by 20% for 12s. |
+| Base ATK | 39 - 401 |
+| Elemental Mastery | 31 - 141 |
+
+* Can only be obtained from Chen the Sharp in Liyue Harbor.
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 263 | 104 |
+| 60+ | 282 | 104 |
+| 65 | 296 | 110 |
+| 70 | 309 | 116 |
+| 70+ | 329 | 116 |
+| 75 | 342 | 122 |
+| 80 | 355 | 122 |
+| 80+ | 375 | 128 |
+| 85 | 388 | 134 |
+| 90 | 401 | 141 |
 {% endtab %}
 {% endtabs %}
 
@@ -640,7 +672,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
 | 60+ | 282 | 25.9 |
@@ -669,7 +701,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 263 | 34.5 |
 | 60+ | 282 | 34.5 |
@@ -698,7 +730,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 234 | 38.3 |
 | 60+ | 253 | 38.3 |
@@ -727,7 +759,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | DEF% |
+| Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
 | 60 | 292 | 21.6 |
 | 60+ | 311 | 21.6 |
