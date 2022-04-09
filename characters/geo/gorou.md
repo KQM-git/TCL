@@ -107,7 +107,9 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 | Attribute | Burst | Crystal Collapse | 
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 166.97% DEF | 104.21% DEF | 
-| Frames | 56 | - |
+| Cast Frames | 56 | - |
+| Energy Frame | 8 | - |
+| CD Frame | 1 | - |
 | GU | 1U | 1U |
 | ICD | - | 3 hit / 2.5s | 
 | Snapshot | - | Dynamic | 
