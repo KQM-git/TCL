@@ -102,7 +102,9 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 | Effect | Burst | DoT | 
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 579.36% | 68% x 7 |
-| Frames | 98 | - |
+| Cast Frames | 98 | - |
+| Energy Frame | 11 | - |
+| CD Frame | 3 | - |
 | GU | - | 1A |
 | ICD | - | 3 hit / 2.5s | 
 | Damage Type | Burst | Burst |
