@@ -111,7 +111,9 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 | Attribute | Skill | Fiery Collapse |
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 149.6% | 98.6% |
-| Frames | 56 | - |
+| Cast Frames | 56 | - |
+| Energy Frame | 9 |
+| CD Frame | 1 |
 | GU | 2B | 1A |
 | ICD | 3 hits / 2.5s | 3 hits / 2.5s |
 | Snapshot | Dynamic | Dynamic |
