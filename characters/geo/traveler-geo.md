@@ -136,7 +136,9 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 | Attribute | Burst | 
 | :--- | :--- |
 | Shockwave DMG \(T9%\) | 251.6% |
-| Frames | 39 |
+| Cast Frames | 39 |
+| Energy Frame | 43 |
+| CD Frame | 37 |
 | GU | 2U |
 | ICD | Standard | 
 | Snapshot | Snapshots | 
