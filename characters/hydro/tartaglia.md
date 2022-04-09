@@ -155,7 +155,9 @@ Returns a portion of its Energy Cost after use.
 | Attribute | Ranged Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 643.28% |
-| Frames | 52 |
+| Cast Frames | 52 |
+| Energy Frame | 8 |
+| CD Frame | 2 |
 | GU | 2B |
 | ICD | None |
 | Damage Element | Hydro |
@@ -175,7 +177,9 @@ DMG dealt in this way is considered Elemental Burst DMG.
 | Attribute | Melee Burst | Riptide Blast |
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 788.8% | 204% |
-| Frames | 97 | -- |
+| Cast Frames | 97 | -- |
+| Energy Frame | 75 | -- |
+| CD Frame | 68 | -- |
 | GU | 2B | 2B |
 | ICD | None | None |
 | Damage Element | Hydro | Hydro |
