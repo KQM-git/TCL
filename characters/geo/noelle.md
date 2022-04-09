@@ -114,7 +114,9 @@ Afterwards, Noelle gains the following effects:
 | Burst DMG (T9%) | 114.24% |
 | Skill DMG (T9%) | 157.76% |
 | ATK Bonus (T9%) | 68% DEF |
-| Frames | 111 |
+| Cast Frames | 111 |
+| Energy Frame | 8 |
+| CD Frame | 2 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s | 
 | Snapshot | Dynamic | 
