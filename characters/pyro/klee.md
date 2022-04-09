@@ -99,7 +99,9 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 | :--- | :--- |
 | Skill DMG \(T9%\) | 72.49% |
 | Hits | 22.8 (average) |
-| Frames | 100 |
+| Cast Frames | 100 |
+| Energy Frame | 15 |
+| CD Frame | 10 |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |
 | Snapshot | Snapshots |
