@@ -105,7 +105,7 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 | Attribute | Ice Shard |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 119.46% * 50 |
-| Frames | 102 |
+| Cast Frames | 102 |
 | Energy Frame | 8 |
 | CD Frame | 1 |
 | GU | 1A |
