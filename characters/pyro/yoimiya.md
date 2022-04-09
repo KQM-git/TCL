@@ -110,7 +110,9 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 | Attribute | Burst | Aurous Blaze Explosion |
 | :--- | :--- | ---- |
 | Skill DMG (T9%) | 216.24% | 207.4% |
-| Frames | 115 | - |
+| Cast Frames | 115 | - |
+| Energy Frame | 5 | - |
+| CD Frame | 1 | - |
 | GU | 2B | 1A |
 | ICD | None | 3 hit / 2.5s |
 | Snapshot? | Dynamic | Dynamic |
