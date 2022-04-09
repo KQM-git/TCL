@@ -103,7 +103,9 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 | Skill DMG \(T9%\) | 310.08% |
 | Charged Attack DMG Bonus | 51.8% |
 | Scarlet Seal Grant Interval | 1s |
-| Frames | 65 |
+| Cast Frames | 65 |
+| Energy Frame | 8 |
+| CD Frame | 2 |
 | GU | 2B |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
