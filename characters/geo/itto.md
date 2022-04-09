@@ -125,6 +125,9 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 | ATK Bonus \(T9%\) | 97.92% DEF |
 | ATK SPD Bonus | 10% |
 | Energy Cost | 70 |
+| Cast Frames | 92 |
+| Energy Frame | 6 |
+| CD Frame | 1 |
 | Duration | 11s |
 | CD | 18s |
 
