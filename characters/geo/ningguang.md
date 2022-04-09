@@ -111,7 +111,7 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 | DMG per Gem \(T9%\) | 147.83% |
 | Cast Frames | 101 |
 | Energy Frame | 8 |
-| CD Frame | 1 |
+| CD Frame | 2 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |
