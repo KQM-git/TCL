@@ -8,7 +8,7 @@ search: false
 
 {% page-ref page="../../../characters/electro/raiden.md" %}  
 
-## Basic Mechanic Findings  
+## Basic Mechanics 
 
 ### Basic Attributes
  * The Raiden Shogun is unable to cook. - [2ri#0945](https://imgur.com/a/OSfIIXH)  
@@ -30,8 +30,7 @@ search: false
   * Raiden's normal attacks and chaged attacks during Elemental Burst share ICD. - [Nass008#8577](https://imgur.com/V7isJR3)  
   * Raiden's initial Elemental Burst slash does not share ICD with her following attacks. - [Nass008#8577](https://imgur.com/V7isJR3)  
 
-
-### Skill Mechanics  
+## Skill Mechanics  
 * Raiden's Elemental Skill does not activate on non damaging hits (ex. against shielded targets). - [CC\#5588](https://youtu.be/YVLOA4FfV4M)  
 * Raiden's Elemental Skill buff affects herself. - [CC\#5588](https://youtu.be/8-xxU5jRaI0)  
 * Raiden's Elemental Skill buff works on off field characters. - [CC\#5588](https://youtu.be/DbXfGVQvY-M)  
@@ -45,7 +44,7 @@ search: false
    * Electro-charged
    * Hydro swirls
    
-#### Raiden E transformative interactions  
+### Raiden E Transformative Interactions  
 
 **Added:** 09/28/2021  
 **By:** Tech#6257  
@@ -66,7 +65,7 @@ Not Working:
 **Significance:**  
 Better understanding of Raiden's elemental skill.  
 
-#### Raiden Coordinated Attack Cooldown
+### Raiden Coordinated Attack Cooldown
 
 **By:** TWICE\#9958  
 **Added:** 12/26/2021  
@@ -89,7 +88,7 @@ There are only 48 frames between the damage of the first Raiden coordinated atta
 **Significance:**  
 This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks starts with the triggering move's damage, not the coordinated attack's. When making team calcs/simulations based on frame counts, the cooldown should begin with the triggering move's damage. Raiden's coordinated attacks could trigger several more times per rotation than if the CD was assumed from coordinated attack's damage, adding extra damage and applying electro at different timings.   
 
-### Burst Mechanics  
+## Burst Mechanics  
 * Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)  
 * Raiden's attacks during Elemental Burst can trigger XQ's rainswords. - [KDK#1322](https://www.youtube.com/watch?v=b7ER4BwAzHY)  
 * Raiden's attacks duing Elemental Burst can trigger Fichl C6. - [Nass008#8577](https://youtu.be/gzDB8TpAtrQ)
@@ -100,6 +99,33 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 * Raiden's interruption resistance during Musou Isshin is crazy high, her poise is practically unbreakable since she's also immune to Electro-charged. The only stun should be Freeze. - [Artesians#0002](https://imgur.com/3RzTN2a)
 * Raiden's attacks during Elemental Burst, except for N5 can hit within Venti's vortex. - [LittleFox#0906](https://youtu.be/hQaK8AjIq7k) & [Sayline#5959](https://youtu.be/byDltFQ2X2I)  
 * Raiden's Resolve Stacks apply to each damage instance of her multi strings during Elemental burst (N4 & CA) - Reens#9389 & Greyhound#7836 [1](https://i.imgur.com/L4Ysc1f.png) [2](https://imgur.com/6bXq47R) [3](https://imgur.com/l9mGtEj) [4](https://imgur.com/0ADt5yQ)  
+
+### Raiden Energy Generation Against Shielded and Immune Enemies
+
+**By:** Tsuki\#8993  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962011374282739832/transcript-raiden-energy-gen-against-shielded-and-immune-enemies.html)  
+
+**Finding:**  
+Raiden can generate Flat Energy during her Burst even when hitting immune and shielded enemies.  
+
+**Evidence:**  
+* [Electro Slimes](https://imgur.com/a/UIpRXeT)
+* [Geo Slime Shield](https://imgur.com/a/zKVmOQr)
+* [Kenki Start](https://imgur.com/a/UOlDvZJ)
+* [Kenki "Immune"](https://imgur.com/a/szl3CqU)
+* [Herald Shield](https://imgur.com/a/lYtgK6Y)
+* [Abyss Mage Shield](https://imgur.com/a/PK3KyKV)
+* [Cicin Mage Shield](https://imgur.com/a/vVPZxtl)
+* [Mitachurl Shield](https://imgur.com/a/zjYWFnU)
+* [Hypostasis "Immune"](https://imgur.com/a/fEa2vNp)
+* [Dvalin Shield](https://imgur.com/a/KrLfZiB)
+* [PMA Unkillable Minions](https://imgur.com/a/aCye3tW)
+* [Fatui Skirmisher Armor](https://imgur.com/a/ZgKKx9n)
+* [Signora Ice Cocoon](https://imgur.com/a/1GmWsLD)
+
+**Significance:**  
+Using Raiden's Burst against those enemies is not a total waste because you still bennefit from her Energy generation.  
 
 ## Constellation Mechanics
 
