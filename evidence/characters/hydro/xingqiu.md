@@ -216,7 +216,7 @@ All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and se
 * Keqing Not Triggering - [YouTube](https://www.youtube.com/watch?v=OTaLfaCvrvQ)
 
 **Significance:**  
-Documenting how on-normal-animation effects can actually trigger multiple times if the animation is long enough. Other units may exist or be added with super long animations that may take advantage of this.
+Documenting how on-normal-animation effects can actually trigger multiple times if the animation is long enough. Other units may exist or be added with normal animation triggers or super long animations that may take advantage of this.
 
 ## Constellation Mechanics
 
