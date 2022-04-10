@@ -99,7 +99,7 @@ Credit to Peekays\#2722 for the initial discovery.
 **Evidence:**  
 * [30 FPS](https://imgur.com/OCZc4OE)
 * [60 FPS](https://imgur.com/MyBk6kp)
-* [From glider](ttps://imgur.com/ZufeK1Z)
+* [From glider](https://imgur.com/ZufeK1Z)
 * [30 FPS comparison with normal EP](https://imgur.com/t8uRjxj)
 * [60 FPS comparison with normal EP](https://imgur.com/ZVsAXUs)
 
