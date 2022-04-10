@@ -191,6 +191,7 @@
     * [Perpetual Mechanical Array](enemy-data/bosses/overworld-bosses/perpetual-mechanical-array.md)
     * [Primo Geovishap](enemy-data/bosses/overworld-bosses/primo-geovishap.md)
     * [Regisvines](enemy-data/bosses/overworld-bosses/regisvines/regisvines.md)
+    * [Ruin Serpent](enemy-data/bosses/overworld-bosses/ruin-serpent.md)
     * [Thunder Manifestation](enemy-data/bosses/overworld-bosses/thunder-manifestation.md)
   * [Weekly Bosses](enemy-data/bosses/weekly-bosses/README.md)
     * [Azhdaha](enemy-data/bosses/weekly-bosses/azhdaha.md)
