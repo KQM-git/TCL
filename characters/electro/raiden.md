@@ -146,6 +146,7 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 * Raiden's interruption resistance under the effects of **Musou Isshin** makes her immune to being staggered.
 * **Musou Isshin** duration timer begins after the cast animation of **Secret Art: Musou Shinsetsu** has ended.
 * Energy restoration from **Musou Isshin** works against shielded and immune enemies.
+* During **Musou Isshin**, her Electro-infused tachi Normal and Charged attacks share ICD, but the tachi attacks do not share ICD with elementally-infused polearm attacks.
 
 {% endtab %}
 {% endtabs %}

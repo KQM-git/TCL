@@ -127,6 +127,21 @@ Raiden can generate Flat Energy during her Burst even when hitting immune and sh
 **Significance:**  
 Using Raiden's Burst against those enemies is not a total waste because you still bennefit from her Energy generation.  
 
+### Raiden Normals and Burst do not share ICD
+
+**By:** Charisma\#5567  
+**Added:** 04/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962722091747123210/transcript-raiden-normals-and-burst-do-not-share-icd.html)  
+
+**Finding:**  
+Raiden's tachi attacks during Elemental Burst do *not* share ICD with her out-of-burst polearm attacks.  
+
+**Evidence:**  
+Near the end of the video, Raiden's Burst N1 applied Electro Aura to the enemy and the N1 after also applied Cryo for Superconduct. - [YouTube](https://youtu.be/36nspMTqRIE)  
+
+**Significance:**  
+More documented knowledge about the mechanics of Raiden's kit.  
+
 ## Constellation Mechanics
 
 ### C2: Steelbreaker
