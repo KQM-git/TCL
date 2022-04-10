@@ -84,7 +84,7 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 | Particles | 3 \(-\) | 4 \(-\) | 
 | Frames | 74 | 92 | 
 | GU | 2B | 2B |
-| ICD | 3 hits/2.5s | 3 hits/2.5s |
+| ICD | None | None |
 | Snapshot | Dynamic | Dynamic |
 | Damage Element | Electro | Electro | 
 | Damage Type | Skill | Skill | 
