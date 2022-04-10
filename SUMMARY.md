@@ -176,6 +176,7 @@
 * [Bosses](enemy-data/bosses/README.md)
   * [Overworld Bosses](enemy-data/bosses/overworld-bosses/README.md)
     * [Coral Defender](enemy-data/bosses/overworld-bosses/coral-defenders.md)
+    * [Golden Wolflord](enemy-data/bosses/overworld-bosses/golden-wolflord.md)
     * [Hypostases](enemy-data/bosses/overworld-bosses/hypostases/hypostases.md)
     * [Maguu Kenki](enemy-data/bosses/overworld-bosses/maguu-kenki.md)
     * [Oceanid](enemy-data/bosses/overworld-bosses/oceanid/README.md)
