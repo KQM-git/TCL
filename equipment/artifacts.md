@@ -292,6 +292,15 @@ This effect can still be triggered even when the character who is using this art
 {% endtab %}
 {% endtabs %}
 
+### Vermillion Hereafter
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: ATK +18%.
+* 4 Piece Set Bonus: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
+{% endtab %}
+{% endtabs %}
+
 ### Viridescent Venerer
 
 {% tabs %}
