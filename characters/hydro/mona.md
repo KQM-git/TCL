@@ -89,7 +89,7 @@ Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 | Tick Rate | 1/s | - |
 | Particles | - |  3~4 \(2:1\) |
 | Frames | 42 | - | 
-| GU | 1A | 1B | 
+| GU | 1A | 1A | 
 | ICD | 3 hits / 2.5s | None |
 | Snapshot | Snapshot | Snapshot |
 | Damage Element | Hydro | Hydro |
