@@ -75,7 +75,7 @@ description: For entries that have little practical use.
 
 ## A Study In Potions
 
-The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
+* The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
 
 ## Portable Waypoints  
 
@@ -85,6 +85,10 @@ The retry button in the event is a full team reset. All cooldowns including weap
 ## Hidden wall clip spot in Liyue Merchant Stall
 
 * In Liyue Harbour there's a hidden location behind a stall that allows characters to clip through the walls and infinitely plunge.
+
+## Three Realms Gateway Offering
+
+* The Bokuso Box can proc weapon passives and talents that proc on-damage.
 
 ## Evidence Vault
 

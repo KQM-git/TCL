@@ -734,6 +734,23 @@ By swapping at the correct time around when you initially become Frozen, you can
 **Significance:**  
 If you get really lucky you can avoid being Frozen.  
 
+## Bokuso Box Can Proc Stuff
+
+**By:** Ieah.\#2212  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962131649536090122/transcript-bokuso-box-can-proc-stuff.html)  
+
+**Finding:**  
+Bokuso Box can proc damage-related abilities.  
+
+**Evidence:**  
+* [Raiden Skill coordinated attack](https://imgur.com/7S6b5x5)
+* [Albedo Skill and Qiqi Talisman](https://youtu.be/MC3d5Jp1DEI) \(credits to pai\#3602)
+* [Jade Spear passive](https://youtu.be/06vrXnowdsQ) \(credits to mando.\#1646)
+
+**Significance:**  
+ More evidence that Bokuso Box damage is indeed damage from the character.
+
 ## Portable Waypoints Don't Stop Sheer Cold
 
 **By:** Puffin\#9920  
