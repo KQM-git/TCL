@@ -77,10 +77,13 @@ description: For entries that have little practical use.
 
 * The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
 
-## Portable Waypoint Bug  
+## Portable Waypoints  
+
 * When placing the Portable Waypoint in certain places such as The Crux and teleporting from a location with an abnormal weather effect, it will be transferred to where the Portable Waypoint is.  
+* Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.
 
 ## Hidden wall clip spot in Liyue Merchant Stall
+
 * In Liyue Harbour there's a hidden location behind a stall that allows characters to clip through the walls and infinitely plunge.
 
 ## Three Realms Gateway Offering

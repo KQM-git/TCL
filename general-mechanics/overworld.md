@@ -93,10 +93,11 @@ It is advised to leave Tatarasuna for last due to the [investigation spot daily 
 ## Zone Levels:
 
 The overworld map is split into multiple zones that affect enemy level and environmental reactions. There are "no level" zones which take on the level of the previous zone visited. 
-* [Teyvat](https://photos.google.com/share/AF1QipPGs6r8qfWVNVXlU7HwyFarhqqp1LACnDrB9Wp_qbfMP8VzZaInS7IK7zY4kJcUxg?key=TGFVX2hzUUoxQXdwd1g5WWY3SThCdTdCTkItVDJ3) 
-* [Mondstadt](https://photos.google.com/share/AF1QipNH_MBr8Dfh3fzm6_x4lQqb0bdzrV7tWi6JHaJlnwCElh7v5X4zIiLYp6_DHR5MBA?key=bTlnQXFPdDhLQlhsbDBlSEpVN2R3dWRJdjEtdnFB)  
-* [Liyue](https://photos.google.com/share/AF1QipPLmV3Pt5S9suJQSMm4rK6eVhIerzuS6VEMQmdlZJpI8IUMPjNM4FEeHvaG4BiJeA?key=eG1FUE82Mk92TUtxbUt2STUzNVlnbDdUYTQwUFJR)  
-* [Inazuma](https://photos.google.com/share/AF1QipO_e3CL7arfSKBptsr_IU5oLM6Bm73AukEONaqJ6Hazq95z7dENxRKpBall0_tsKA/photo/AF1QipO25Gcl-MjRfeYd7HSBbc5LBv3bllpEZUwjP3v3?key=cG1Ca25iRmtac0RtT0wtYk1laFRDbUMtOW0tTEhR)  
+* [Teyvat](https://photos.app.goo.gl/drcNqTHVym7Qvuvn9) 
+* [Mondstadt](https://photos.app.goo.gl/W3rm94eqxxaQBq4X6)  
+* [Liyue](https://photos.app.goo.gl/EjnAVMGtMHB6JHyz8)  
+* [The Chasm Underground](https://photos.app.goo.gl/9jAm8s5kKAJqQ5Na6)
+* [Inazuma](https://photos.app.goo.gl/6MJPiMXCELiiUTav6)  
 * [Enkanomiya](https://photos.app.goo.gl/PY1xLqPy8LKFJibC7)
 
 Some constructs take zone level damage, a list of those that have been documented can be found [here.](../evidence/general-mechanics/overworld.md#constructs-take-zone-level-damage)  

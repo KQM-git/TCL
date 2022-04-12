@@ -682,6 +682,25 @@ The overworld map is split into multiple zones that effect damage dealt by envir
 **Significance:**  
 Fluff and overworld documentation.
 
+#### The Chasm and Teyvat Update
+
+**By:** Vladone ツ\#9281  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962112897239093259/transcript-chasm-zone-levels.html)  
+
+**Finding:**  
+The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Chasm and Teyvat.  
+
+**Evidence:**  
+* [Teyvat](https://photos.app.goo.gl/drcNqTHVym7Qvuvn9)
+* [Mondstadt](https://photos.app.goo.gl/W3rm94eqxxaQBq4X6)
+* [Liyue with Chasm](https://photos.app.goo.gl/EjnAVMGtMHB6JHyz8)
+* [Chasm Underground](https://photos.app.goo.gl/9jAm8s5kKAJqQ5Na6)
+* [Inazuma](https://photos.app.goo.gl/6MJPiMXCELiiUTav6)
+
+**Significance:**  
+Fluff and overworld documentation.  
+
 ### Constructs Take Zone Level Damage  
 **By:** Vladone ツ#9281  
 **Added:** 02/20/2022  
@@ -1435,17 +1454,4 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
-## Not All Doors Are Equal
-
-**By:** Puffin\#9920  
-**Added:** 03/29/2022  
-[Discussion]()  
-
-**Finding:**  
-
-
-**Evidence:**  
-
-
-**Significance:**  
  

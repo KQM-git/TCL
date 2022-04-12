@@ -96,6 +96,7 @@ Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impur
 * The taunt applies to all enemies in the game that are not considered bosses.
 * **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
 * Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
+* **Ice Lotus** will be placed mid-air when Ganyu is standing on a high platform.
 {% endtab %}
 
 {% tab title="Celestial Shower" %}

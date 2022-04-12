@@ -750,3 +750,18 @@ Bokuso Box can proc damage-related abilities.
 
 **Significance:**  
  More evidence that Bokuso Box damage is indeed damage from the character.
+
+## Portable Waypoints Don't Stop Sheer Cold
+
+**By:** Puffin\#9920  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962023997183234068/transcript-portable-waypoints-dont-stop-sheer-cold.html)  
+
+**Finding:**  
+Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.  
+
+**Evidence:**  
+[YouTube video](https://youtu.be/Dr5J0UR_N50)  
+
+**Significance:**  
+Better understanding of Portable Waypoints.  

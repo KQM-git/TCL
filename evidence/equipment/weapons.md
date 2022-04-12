@@ -228,6 +228,22 @@ Sara:
 **Significance:**  
 Server sided registration on Elegy stack gain means that unstable ping can lead to different amount of damage ticks to proc 4 stacks. The longer time required to gain 4 stacks (if possible) needs to be taken into account for rotations with heavy and fast quick-swapping, to counteract the long time, Amber should stay on the field for 1 second or use E after using her Q before switching to 4pc VV supports in Hu Tao teams. Venti should always E+Q as it brings the time to gain 4 stacks down massively. Sara should use her C2 and Charged Attacks before using her Q to make sure she can guarantee the 4 Elegy stacks before switching to other characters.  
 
+### Freedom-Sworn Interaction With Weapon Infuse
+
+**By:** borderline\#3100  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962025187367338004/transcript-freedom-sworn-interaction-with-weapon-infuse.html)  
+
+**Finding:**  
+Freedom-Sworn does not gain a stack when a weapon gauge infusion takes place.  
+
+**Evidence:**  
+In [this video](https://youtu.be/oE4NriSh97Q) Keqing equipped with Freedom-Sworn triggers an Overloaded Reaction and gains a visible stack. When infusing her weapon with Electro after having a Cryo Infusion, she does not gain the Freedom-Sworn buff, as seen by the visible stack remaining and her attack not increasing.  
+
+**Significance:**  
+This is not a method to trigger Freedom-Sworn's passive.  
+
+
 ## Royal Weapon Series
 
 ### The Effective Crit Rate of Royal Weapons (& Simulator)
@@ -1468,7 +1484,7 @@ NOTE: I could not test the exact times on this, but the timer still resets when 
 **Finding:**  
 Weapons that gain stacks on hit are affected by ping. You will only gain stacks when the hit registers on the server, and the server will process hits at the same time, without caring about when the client actually made the hits.
 
-Freedom Sworn, which gains its buffs from reactions happen, has normal behaviour.
+Freedom-Sworn, which gains its buffs from reactions happen, has normal behaviour.
  
 Polar Star behaves differently as it has individual stacks for each type, and will gain all the stacks at the same time when the hit is registered.
 
@@ -1497,7 +1513,7 @@ It gained all the stacks once connection to the server was restored, meaning tha
 
 **Significance:**  
 This isn't an issue for anyone with a stable connection, if someone's connection to the servers are rather spotty, this can cause them to lose stacks they would otherwise have.  
-Freedom Sworn doesn't change behaviour.  
+Freedom-Sworn doesn't change behaviour.  
 
 ### Widsith and TTDS Work Off-Field
 **By:** Charisma\#5567  

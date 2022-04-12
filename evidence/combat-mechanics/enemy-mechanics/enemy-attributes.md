@@ -240,7 +240,9 @@ Calculations and video links in the [sheet](https://docs.google.com/spreadsheets
 **Significance:**  
 This knowledge will allow us to concoct strategies on how to defeat Magatsu Mitake Narukami no Mikoto.  
 
-## Coral Defender Orb Mechanics
+## Coral Defenders
+
+### Coral Defender Orb Mechanics
 
 **By:** Wesu\#8719  
 **Added:** 03/16/2022  
@@ -260,7 +262,26 @@ The energy burn orbs from Coral Defenders have 1 instance of damage. This damage
 **Significance:**  
 It was previously assumed that the damage is based on how much HP a character has, this turns out to not be the case (no difference in damage taken between test 1 and 2). The damage actually is affected by DEF but not by RES. Melt does not increase the damage dealt by the unblockable part, which adds value to shielders such as Zhongli.
 
-## Golden Wolflord Mechanics
+## Coral Defenders Can Double Spike In Abyss
+
+**By:** makeway4pK\#3901  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962129991452225576/transcript-coral-defenders-can-double-spike-in-abyss.html)  
+
+**Finding:**  
+As of the time of writing this, the TCL page for Coral Defenders states that the 2 vishaps cannot use the spike field attacks at the same time. This seems to be the case for the overworld herd.  
+
+But the the herd that appeared in patch 2.5's Spiral abyss **can** do the spike field attacks at the same time, maybe not down to the second but there is definitely some overlap.  
+
+**Evidence:**  
+Clip showing the Rimebiter and Bolteater overlapping their spike fields in Spiral Abyss: [YouTube](https://youtu.be/VgjuYV37KgQ)  
+
+**Significance:**  
+Disambiguation of the Abyss-specific spike field overlap behavior on the enemy page.  
+
+## Golden Wolflord
+
+### Basic Mechanics
 
 **By:** pai\#3602  
 **Added:** 03/22/2022  

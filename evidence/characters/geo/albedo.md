@@ -69,3 +69,26 @@ This is similar to Ningguang's Q, where the gems from the screen have their stat
 
 **Signifiance:**  
 To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise the fatal blossoms will not gain damage. Also shows why in my testing, fatal blossoms do not gain mistsplitter stacks.
+
+## Ascension Mechanics
+
+### A4: Homuncular Nature
+
+#### Albedo A4 Triggers During Q Animation
+
+**By:** Poisonite\#0195  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962008806097838120/transcript-albedo-a4-triggers-during-q-animation.html)  
+
+**Finding:**  
+Albedo's A4 buff starts in the middle of his Q animation when the Geo structure appears in front of him. The buff timer starts at the same time and ends 10s after.  
+
+**Evidence:**  
+* In [this video](https://youtu.be/1ICK11HGyBs), the buff indicator only appeared in the middle of the animation, once the structure appears in front of Albedo.  
+
+* In [this video](https://imgur.com/a/xxeBaqj), the Burst animation started at 21f, and the buff indicators appeared at 105f, before the Burst animation ended \(whic takes a total of 96f\).  
+
+The A4 buff lasts 10s from the time the buff indicator appears, this is true for both videos.  
+
+**Significance:**  
+This info can help in rotation crafting, where people would need to know how long Albedo's A4 Passive lasts, which is 10s after Geo structure from his Burst appears. 
