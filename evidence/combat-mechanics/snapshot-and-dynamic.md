@@ -65,7 +65,7 @@ Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](../gen
 
 The following stats were tested/known to not snapshot:
 
-OL/EC/SC/Swirl%: From [4CWF](https://imgur.com/a/bYtzhH9) \(assumed to be the same for 4TF\), From [EM](https://youtu.be/YkdpSYT9ut0)
+OL/EC/SC/Swirl%: From [4CWF](https://imgur.com/a/bYtzhH9) \(assumed to be the same for 4TF\), From [EM](https://youtu.be/YkdpSYT9ut0)  
 Burst DMG%: From [4EoSF](../../equipment/weapons/polearms.md#engulfing-lightning), From [2NO](https://youtu.be/b0qlPkzjqX0), another [2NO](https://youtu.be/kZ6yBFfnO5M), [Raiden E](https://youtu.be/gNfQm_RQO84), [Solar Pearl](https://youtu.be/5yfQaDVafT8), and [Stringless](https://youtu.be/eG-zOxwdzHw)  
 Burst CRIT Rate: From [The Catch](https://youtu.be/e5TM7PlOeDw)  
 Skill DMG%: From [Solar Pearl](https://youtu.be/5yfQaDVafT8), and [Stringless](https://youtu.be/vhm1OAFgGA4)  
