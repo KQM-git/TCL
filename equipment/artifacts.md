@@ -68,6 +68,22 @@
 {% endtab %}
 {% endtabs %}
 
+### Echoes of an Offering
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set: ATK +18%.
+* 4 Piece Set Bonus: When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK.  
+This effect will be dispelled 0.05s after a Normal Attack deals DMG.
+If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%.  
+This trigger can occur once every 0.2s.
+{% endtab %}
+
+{% tab title="Findings" %}
+* Coming soon.  
+{% endtab %}
+{% endtabs %}
+
 ### Emblem of Severed Fate
 
 {% tabs %}
@@ -273,6 +289,15 @@ This effect can still be triggered even when the character who is using this art
 
 {% tab title="Findings" %}
 * The 4p set holder does not have to be on-field to receive the 35% damage bonus. 
+{% endtab %}
+{% endtabs %}
+
+### Vermillion Hereafter
+
+{% tabs %}
+{% tab title="Description" %}
+* 2 Piece Set Bonus: ATK +18%.
+* 4 Piece Set Bonus: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
 {% endtab %}
 {% endtabs %}
 

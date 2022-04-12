@@ -67,6 +67,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Haran Geppaku Futsu
+
+{% tabs %}
+
+{% tab title="Description" %}
+| Attribute | Description |
+| :--- | :--- |
+| Honed Flow | Obtain **12/15/18/21/24**% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20/25/30/35/40**% for 8s.|
+| Base ATK | 46 - 608 |
+| CRIT Rate | 7.2% - 33.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+| Level | Base ATK | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 382 | 24.4 |
+| 60+ | 414 | 24.4 |
+| 65 | 435 | 25.8 |
+| 70 | 457 | 27.3 |
+| 70+ | 488 | 27.3 |
+| 75 | 510 | 28.7 |
+| 80 | 532 | 30.2 |
+| 80+ | 563 | 30.2 |
+| 85 | 586 | 31.6 |
+| 90 | 608 | 33.1 |
+{% endtab %}
+
+{% endtabs %}
+
 ### Mistsplitter Reforged
 
 {% tabs %}
