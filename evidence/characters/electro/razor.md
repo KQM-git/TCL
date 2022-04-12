@@ -14,6 +14,11 @@ search: false
 
 [Google Sheets](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
 
+### ICDs
+
+* Press E: None - [Video](https://youtu.be/gvGZoIDlTyo) - Bobrokrot\#0111
+* Hold E: None - [Video](https://youtu.be/imxmvhZHj-w) - Bobrokrot\#0111
+
 ## Skill Mechanics
 
 ### Razor Reverse Scam

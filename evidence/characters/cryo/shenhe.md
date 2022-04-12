@@ -13,6 +13,7 @@
   * Q Initial: 1U
   * Q DoT: 1U
 * ICDs - 
+  * NA: Standard. - [Video](https://youtu.be/DojuAq47sDE) - Bobrokrot\#0111
   * Q: Intiial Hit and DoT have separate ICDs. DoT is standard ICD - [Video](https://youtu.be/yjIbjkhLXGE) - CC\#5588
 * Frames
   * [Full Frame Count Sheet](https://docs.google.com/spreadsheets/d/1imqcBjbwt0aXxgNk4aA62KoCIyvRP57I2cHGTzhxo4M/edit?usp=sharing) - TWICE\#9958
