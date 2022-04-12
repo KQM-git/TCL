@@ -196,6 +196,28 @@ Takes more recently cast E:
 **Significance:**  
 We understand more about how XQ's damage reduction works. Additionally, this means that doing Q-N1-E with Mistsplitter XQ gives better damage reduction than E-Q-N1, especially if using C6 Bennett or Chongyun.
 
+### Xingqiu Burst and Long Normal Attack Animation Interaction
+
+**By:** Kaya\#5005, Xandellicia\#4609, Dooners\#6709  
+**Added:** 04/10/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962750243403874374/transcript-xingqiu-q-and-long-na-animation-interaction.html)
+
+**Finding:**  
+It is possible to trigger Xingqiu Burst Sword Rain multiple times on a single Normal Attack if the animation is long enough.
+
+**Evidence:**  
+All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and seems that its not ping dependant. Looks like if the animation is longer than 1 second, it can proc 2 sets of waves. Although some animations take a long time they don't trigger it like Keqing's one.
+* Yae Low Ping - [Imgur](https://imgur.com/w26BRRB)
+* Yae High Ping - [YouTube](https://youtu.be/wZYb8-j8iMY)
+* Shenhe N3 and N5 - [Youtube](https://youtu.be/3e3_tKOwsg0)
+* Eula - [YouTube](https://www.youtube.com/watch?v=TC36SnaANUc)
+* Albedo - [YouTube](https://www.youtube.com/watch?v=MqG6k9aqlcw)
+* Fischl - [YouTube](https://www.youtube.com/watch?v=3VNqzUzLzaQ)
+* Keqing Not Triggering - [YouTube](https://www.youtube.com/watch?v=OTaLfaCvrvQ)
+
+**Significance:**  
+Documenting how on-normal-animation effects can actually trigger multiple times if the animation is long enough. Other units may exist or be added with normal animation triggers or super long animations that may take advantage of this.
+
 ## Constellation Mechanics
 
 ### C6: Hence, Call Them My Own Verses

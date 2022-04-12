@@ -132,7 +132,8 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 * **Rain Swords** DMG Reduction created by **Guhua Sword: Raincutter** also snapshots.
   * Before swapping, **Guhua Sword: Raincutter**'s Rain Swords will always override **Guhua Sword: Fatal Rainscreen**'s .
   * After swapping, the DMG Reduction is based on the most recently cast Rain Swords.
-* **Sword Rain** waves can be triggered at most once a second. However, so long as you are in an normal attack animation, even if you attack slightly before 1 second has passed, the next **Sword Rain** wave will be triggered as soon as possible.
+* **Sword Rain** waves can be triggered at most once a second. So long as you are still in a normal attack animation, the next **Sword Rain** wave will be triggered as soon as possible.
+  * Some normal attack animations, which persist longer than 1 second, can trigger multiple **Sword Rain** waves.
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 
 {% endtab %}
