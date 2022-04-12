@@ -244,6 +244,7 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 **Notes**
 * The range of this effect is extremely short at just over 1 abyss tile of range.
 * The initial cast of Beidou's Burst doesn't benefit from her C6.
+* The debuff lingers for about 2 seconds after the Burst ends.
 
 {% endtab %}
 {% endtabs %}
