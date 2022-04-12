@@ -87,7 +87,9 @@ The **Pyronado** will move with your character for the ability's duration, deali
 | Attribute | 1-Hit Swing | 2-Hit Swing | 3-Hit Swing | Pyronado |
 | :--- | :--- | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 122.4% | 149.6% | 186.32% | 190.4% |
-| Frames | 99 | - | - | - |
+| Cast Frames | 99 | - | - | - |
+| Energy Frame | 29 | - | - | - |
+| CD Frame | 20 | - | - | - |
 | GU | 1A | 1A | 1A | 1A |
 | ICD | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None |
 | Snapshot | Dynamic | Dynamic | Snapshot | Snapshot |

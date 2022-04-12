@@ -89,7 +89,9 @@ Heals your own party members and nearby teammates for a large amount of HP that 
 | Attribute | Burst |
 | :--- | :--- |
 | HP Regen \(T9%\) | 29.92% Max HP + 3445 |
-| Frames | 110 |
+| Cast Frames | 110 |
+| Energy Frame | 9 |
+| CD Frame | 2 |
 | Energy Cost | 80 |
 | Cooldown | 20s |
 {% endtab %}

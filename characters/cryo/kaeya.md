@@ -88,7 +88,9 @@ These **icicles** will follow the character around and deal Cryo DMG to opponent
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 131.92% |
-| Frames | 78 |
+| Cast Frames | 78 |
+| Energy Frame | 55 |
+| CD Frame | 49 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |

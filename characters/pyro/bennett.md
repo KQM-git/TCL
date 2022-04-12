@@ -103,7 +103,9 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 395.76% |
-| Frames | 51 |
+| Cast Frames | 51 |
+| Energy Frame | 42 |
+| CD Frame | 36 |
 | GU | 2B |
 | ICD | None |
 | Snapshot | Snapshot |

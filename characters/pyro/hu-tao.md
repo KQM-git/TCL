@@ -128,7 +128,9 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 | Low HP Skill DMG (T9%) | 587.93% |
 | Skill HP Regeneration (T9%) | 9.71% Max HP |
 | Low HP Skill Regeneration (T9%) | 12.95% Max HP |
-| Frames | 130 |
+| Cast Frames | 130 |
+| Energy Frame | 73 |
+| CD Frame | 64 |
 | GU | 2B |
 | ICD | None |
 | Snapshot | On Cast |

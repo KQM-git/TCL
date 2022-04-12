@@ -120,7 +120,9 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 | Skill DMG \(T9%\) | 272% | 40.8% | 
 | Attack Speed \(T9%\) | 39% | - |
 | Electro RES Bonus | 80% |
-| Frames | 62 | - |
+| Cast Frames | 62 | - |
+| Energy Frame | 11 | - |
+| CD Frame | 2 | - |
 | GU | 2B | 1A |
 | ICD | - | 3 hits/2.5s |
 | Snapshot | Dynamic | Dynamic |

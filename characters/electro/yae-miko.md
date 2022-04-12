@@ -100,7 +100,9 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 | :--- | :--- |
 | Skill DMG \(T9%\) | 442% |
 | Tenko Thunderbolt DMG \(T9%\) | 567.49% |
-| Frames | 111 |
+| Cast Frames | 111 |
+| Energy Frame | 7 |
+| CD Frame | 1 |
 | GU | 1A |
 | ICD | None | 
 | Snapshot | Dynamic | 

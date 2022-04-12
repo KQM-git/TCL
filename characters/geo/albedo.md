@@ -98,7 +98,9 @@ If a **Solar Isotoma** created by Albedo himself is on the field, 7 **Fatal Blos
 | Attribute | Burst Cast | Fatal Blossom |
 | :--- | :--- | :--- |
 | Talent \(T9%\) | 624.24% | 122.4% per Blossom
-| Frames | 96 | - |
+| Cast Frames | 96 | - |
+| Energy Frame | 80 | - |
+| CD Frame | 75 | - |
 | GU | 1U | 1U |
 | ICD | None | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot |

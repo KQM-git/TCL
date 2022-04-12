@@ -109,7 +109,9 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | Attribute | Burst |
 | :--- | :--- |
 | Skill DMG \(T9%\) | 17.71% Max HP |
-| Frames | 75 |
+| Cast Frames | 75 |
+| Energy Frame | 57|
+| CD Frame | 48 |
 | GU | 2B |
 | ICD | None |
 | Snapshot | Snapshot |

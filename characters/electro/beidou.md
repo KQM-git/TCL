@@ -131,7 +131,9 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 | Burst DMG \(T9%\) | 206.72% | 163.2% |
 | Lightning Bounces | - | 2 |
 | DMG Reduction | 32% \(scaling\) | - |
-| Frames | 45 | - |
+| Cast Frames | 45 | - |
+| Energy Frame | 11 | - |
+| CD Frame | 2 | - |
 | GU | 4C | 1A | 
 | ICD | - | 3 hit / 2.5s |
 | Snapshot | Snapshot | Snapshot | 

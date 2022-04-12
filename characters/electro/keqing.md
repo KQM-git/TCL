@@ -110,7 +110,9 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 | Cast DMG \(T9%\) | 149.6% |
 | Consecutive Slash DMG \(T9%\) | 40.8% x 8 |
 | Last Attack \(T9%\) | 320.96% |
-| Frames | 125 |
+| Cast Frames | 125 |
+| Energy Frame | 60 |
+| CD Frame | 54 |
 | GU | 1U |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Dynamic |

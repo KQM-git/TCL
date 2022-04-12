@@ -151,7 +151,9 @@ One instance of **Falling Thunder** can be generated every 0.5s.
 | Skill DMG \(T9%\) | 194.48% |
 | Falling Thunder DMG \(T9%\) | 55.76% |
 | Energy Regeneration | 1 | -- |
-| Frames | 60 |
+| Cast Frames | 60 |
+| Energy Frame | 42 |
+| CD Frame | 36 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Snapshot |

@@ -130,7 +130,9 @@ Opponents affected by **Petrification** cannot move.
 | :--- | :--- |
 | Skill DMG \(T9%\) | 834.68% |
 | Petrification Duration | 3.9s |
-| Frames | 140 |
+| Cast Frames | 140 |
+| Energy Frame | 6 |
+| CD Frame | 2 |
 | GU | 4U |
 | ICD | 3 hits / 2.5s |
 | Snapshot | Dynamic |

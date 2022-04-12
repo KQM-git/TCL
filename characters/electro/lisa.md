@@ -107,7 +107,9 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Summon DMG | 10% |
 | Skill DMG \(T9%\) | 62.15% * 29 |
 | Tick Rate | 0.5s | 
-| Frames | 30 |
+| Cast Frames | 57 |
+| Energy Frame | 64 |
+| CD Frame | 55 |
 | MV/s | 102.4%/s |
 | GU | 1A |
 | ICD | 3 hits / 2.5s |

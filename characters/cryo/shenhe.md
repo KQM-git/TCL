@@ -118,7 +118,9 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 | Skill DMG \(T9%\) | 171.36% | 56.3% * 12 |
 | RES Decrease \(T9%\) | 14% | - |
 | Tick Rate | - | 2s |
-| Frames | 75 | - | 
+| Cast Frames | 75 | - |
+| Energy Frame | 11 | - |
+| CD Frame | 1 | - |
 | GU | 1U | 1U |
 | ICD | - | Standard |
 | Snapshot | Dynamic | Snapshot |

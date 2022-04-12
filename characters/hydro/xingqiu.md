@@ -114,7 +114,9 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 | Attribute | Burst |
 | :--- | :--- |
 | Sword Rain DMG (T9%) | 92.26% |
-| Frames | 29 |
+| Cast Frames | 29 |
+| Energy Frame | 7 |
+| CD Frame | 1 |
 | GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Dynamic |
