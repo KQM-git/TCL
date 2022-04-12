@@ -431,3 +431,20 @@ Currently tested for adult male model.
 
 **Significance:**  
 Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa. 
+
+## Elevator Affects Movement Speed
+
+**By:** Pablos\#1142  
+**Added:** 04/08/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962133283083280384/transcript-elevator-affects-movement-speed.html)  
+
+**Finding:**  
+When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.  
+
+**Evidence:**  
+* [Wind glider jump](https://imgur.com/a/YRVCmHX)
+* [Normal jump](https://imgur.com/a/mM9GuOg)
+* [Diminished jump](https://imgur.com/a/TvnGQgD)
+
+**Significance:**  
+Fluff and documenting overworld mechanics.
