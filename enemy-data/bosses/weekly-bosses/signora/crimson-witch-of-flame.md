@@ -12,8 +12,6 @@ A voice spoke to her amidst the light.
 
 Yet it mattered not, for she knew in her heart that the flames had devoured her long ago.
 
-None.
-
 ## Energy drops
 
 None.
