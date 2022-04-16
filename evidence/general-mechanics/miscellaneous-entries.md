@@ -765,3 +765,25 @@ Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, un
 
 **Significance:**  
 Better understanding of Portable Waypoints.  
+
+## Specialty Dish Rates
+
+**By:** Creonalia\#2818  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964960022134153286/transcript-specialty-dish-rates.html)  
+
+**Finding:**  
+Specialty dish rates are affected by dish rarity and quality.  
+
+**Evidence:**  
+All of the dishes referenced have been cooked up to 2000 times either entirely with the specialty character and never eaten, or enough with the specialty character that the normally cooked/eaten ones are statistically insignificant. Note that the sample size is not large enough and some conclusions are broadened based on personal experience, but due to cooking too much without the specialty character I do not have recorded evidence to use for them. I don't have Eula and she has the only 4* specialty dish so I have no data on it.  
+[Inventory Screenshots](https://imgur.com/a/tVYb1PU)  
+* 1*: 20% Delicious, 17% Normal, 10% Suspicious
+* 2*: 14% Delicious, 10% Normal, 8% Suspicious
+* 3*: 10-15% Delicious*, 10% Normal, 5% Suspicious
+* 4*: Unknown
+
+\* I have biased data due to eating too many hash browns early game.
+
+**Significance:**  
+It's good to know.  
