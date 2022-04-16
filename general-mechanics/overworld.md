@@ -213,6 +213,10 @@ The Cryo element is able to be applied to many overworld objects, such as ores a
 ## Phase Gates
 * During Daily Commissions, Phase Gates will be invisible but can still be used.
 
+## Flying Anemo Slimes
+
+* Flying Anemo Slimes and Bloaty Floaty bubbles have hitboxes that can move characters.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
