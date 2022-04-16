@@ -1454,4 +1454,17 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
- 
+## Paimon Hates Climbing
+
+**By:** Magnus Artifex\#8719  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964969467669008434/transcript-paimon-hates-climbing.html)  
+
+**Finding:**  
+After reaching a certain height in locations of The Chasm, Paimon will say some lines. Usually these are triggered when you try climbing up to a light source.  
+
+**Evidence:**  
+[Video](https://imgur.com/a/HLkuflh)  
+
+**Significance:**  
+Knowledge about the world and maps of the game.  
