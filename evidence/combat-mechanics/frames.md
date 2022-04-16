@@ -146,3 +146,20 @@ Time taken - A few hours of testing, 20 years of training to make frame-perfect 
 **Conclusions:**  
 TL;DR - 3 startup frames, 20 active frames give or take 1 frame from each.  
 
+## Frame Counts
+
+### Aim Mode Frame Counts
+
+**By:** BowTae\#0141 and xSil3nt\#0961  
+**Added:** 4/15/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964626530254856322/transcript-aim-frames.html)  
+
+**Finding:**  
+Standardized aim mode frame counts for bow characters.
+
+**Evidence:**  
+[Google Sheet](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing)  
+* Frames were recorded at 60fps, using a macro to find the minimum consistent frame counts.
+
+**Significance:**  
+More accurate counts for the TCL.
