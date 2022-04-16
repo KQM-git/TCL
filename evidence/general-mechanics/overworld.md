@@ -1454,4 +1454,21 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
- 
+## Fishing Spots
+
+## Fishing Spot Prompt Has Infinite Height
+
+**By:** Beast Boy\#2560  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
+
+**Finding:**  
+Fishing Spots do not seem to check height before displaying the prompt. It is possible to view the prompt \(but not catch fish\) from far above and below the fishing spot. In addition to this, it is possible to catch fish from underwater.  
+
+**Evidence:**  
+* Fishing Prompt Below: [video 1](https://imgur.com/a/iGQqimf) and [video 2](https://imgur.com/a/mJhPxwg) 
+* Fishing Prompt Above: [video](https://imgur.com/a/r4y0Yu0) 
+* Catching Fish From Underwater: [video 1](https://youtu.be/cxGeDltKehQ) and [video 2](https://youtu.be/hND3gPVOxoc)
+
+**Significance:**  
+Knowledge of game mechanics.  
