@@ -213,6 +213,14 @@ The Cryo element is able to be applied to many overworld objects, such as ores a
 ## Phase Gates
 * During Daily Commissions, Phase Gates will be invisible but can still be used.
 
+## Spoutrocks
+
+Regardless of the height difference, no fall damage will be taken after jumping from a spoutrock unless you:  
+* Glide 
+* Roll off a cliff \(counts as landing, you don't take damage for roll but the next landing won't be soft\) 
+* Use mid-air skills e. g. Xiao
+* Plunge \(normal reduced fall damage for plunge, capped at 40% max HP\)
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
