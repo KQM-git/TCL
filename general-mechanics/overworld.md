@@ -213,6 +213,11 @@ The Cryo element is able to be applied to many overworld objects, such as ores a
 ## Phase Gates
 * During Daily Commissions, Phase Gates will be invisible but can still be used.
 
+## Fishing Spots
+
+*  It is possible to view the prompt \(but not catch fish\) from far above and below the fishing spot.
+    * In addition to this, it is possible to catch fish from underwater.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
