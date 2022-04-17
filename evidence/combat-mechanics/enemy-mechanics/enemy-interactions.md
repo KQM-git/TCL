@@ -405,6 +405,22 @@ Kenki's Attacks can be desynced from the Audio Cue present with his slashes, and
 **Significance:**  
 This makes it way harder to dodge because the Audio Cue is now early, tricking the player into dodging early. In addition, the Clone Attack will also be faster than the Kenki Attack, resulting in an almost impossible to dodge attack since both Slashes are at different timings and the sprint i-frame is not long enough.  
 
+#### Maguu Kenki Phase Change HP Threshold Update
+
+**By:** Mr. Pillow\#0065  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964937426567061554/transcript-mango-kenki-phase-change-hp-treshold-update.html)  
+
+**Finding:**  
+Maguu Kenki's 2nd phase doesn't start at 75% HP, but at 70%.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/ha2SvAc3YoY) - Maguu Kenki HP (lvl. 91, WL7) is 498640 according to the Genshin Impact Mob HP and Particle Threshold Database. In the video, Itto deals 55766 + 55766 + 19044 = 130576 total DMG, which translates to 26.2% of Maguu Kenki's total HP. Yet, the boss doesn't shift phases before more dmg is dealt, proving that the current threshold is incorrect. This is further supported by the fact that Maguu Kenki releases a Clear Orb at 75% HP in the video, but doesn't change phases then.  
+[Imgur](https://imgur.com/a/aUEjWE0) - The correct threshold calculations: Looking at the HP bar, we see that the boss changes phases at approximately 713/1012 = 70.5% HP according to the attached image. In-game, the threshold is most likely exactly 70%.  
+
+**Significance:**  
+Updating the boss info.  
+
 ### Perpetual Mechanical Array  
 
 #### PMA and Polearm CA interactions  

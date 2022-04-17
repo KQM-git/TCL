@@ -47,13 +47,13 @@ Perform up to 5 consecutive shots with a bow.
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
 
-| String | Talent 9% | Frames | MV/s |  GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 26 | 210.21%/s | ~ |
-| Fully Charged | 210.8% | 95 | 133.14%/s | 1A |
-
-* Aimed Shot frame counts are done using M1 Spams.
-* Fully Charged frame counts are done using ARCC Shots.
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 25 | 193.392%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
+| With Recovery | ~ | 96 | 131.75%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.

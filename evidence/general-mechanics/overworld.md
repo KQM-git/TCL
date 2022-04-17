@@ -565,7 +565,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864369706249355324/865083435184947200/transcript-campfires-act-like-1u-of-pyro-aura.html)
 
 **Finding:**  
-Lit campfires essentially have a 1U aura of pyro  that don't decay over time.
+Lit campfires essentially have a 1U aura of pyro that don't decay over time.
 
 Consuming the campfire aura requires one of the following:
 * One 1U application of Hydro or Electro
@@ -1454,6 +1454,7 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
+
 ## Fishing Spots
 
 ## Fishing Spot Prompt Has Infinite Height
@@ -1472,3 +1473,32 @@ Fishing Spots do not seem to check height before displaying the prompt. It is po
 
 **Significance:**  
 Knowledge of game mechanics.  
+
+ ## Hanrocks
+
+ **By:** makeway4pK\#3901  
+ **Added:** 04/16/2022  
+ [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964949380354412594/transcript-hanrocks.html)  
+
+ **Finding:**  
+ The Spoutrocks introduced into the overworld with Chasm in patch 2.6, let you land your jump without taking fall damage regardless of height difference\(\+/\-\), as long as you don't:  
+* Glide 
+* Roll off a cliff \(counts as landing, you don't take damagedmg for roll but the next landing won't be soft\) 
+* Use mid\-air skills e.g. Xiao
+* Plunge \(normal reduced fall dmg for plunge, capped at 40% max HP\)
+
+Side-on collisions while jumping don't hurt and don't remove the fall damage reduction.  
+
+**Evidence:**  
+[Video clips](https://youtu.be/7zwe-kSpQ7M) of jumps from spoutrocks showing:
+* No DMG landing
+* Side\-on collision then landing with no DMG.
+* Freezing and unfreezing mid\-air then landing with no DMG.
+* Death by fall DMG after glide canceling a spoutrock jump.
+* Death by fall DMG on second landing after rolling for the first.
+* Death by fall DMG after skill canceling a spoutrock jump.
+* Normal plunging fall DMG after plunge canceling a spoutrock jump.
+
+**Significance:**  
+Relax and enjoy the ride, it's often safer and faster than plunging if you want to get down on the ground.  
+

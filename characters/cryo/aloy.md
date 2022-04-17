@@ -36,22 +36,23 @@ Perform up to 4 consecutive shots with a bow.
 | 2-Hit DMG | 72.52% | 48 | 185%/s |
 | 3-Hit DMG | 88.8% | 85 | 167.15%/s |
 | 4-Hit DMG | 110.41% | 128 | 162.75%/s |
-| Recovery | -- | -- | -- |
+| Recovery | ~ | ~ | ~ |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | -- | -- |
-| Fully-Charged Aimed Shot | 210.8% | -- | -- |
-
-* A Fully-Charged Aimed Shot applies 1A Cryo.
+| Type | Talent 9% | Frames | MV/s | GU |
+| :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 25 | 193.392%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
+| With Recovery | ~ | 96 | 131.75%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 9% |
+| Type | Talent 9% |
 | :--- | :--- |
 | Plunge DMG | 104.41% |
 | Low Plunge DMG | 208.77% |
