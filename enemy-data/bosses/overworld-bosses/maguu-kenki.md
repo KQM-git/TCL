@@ -63,10 +63,10 @@ Face.
 * Slashes three times, following the player's current location.
 * The Maguu Kenki will clench and raise its' fist to taunt its opponent if they are far away from it after an attack. 
   * It is vulnerable to attacks while in this state. 
-* At 75% HP, it will become invincible, summon an additional sword, charging up before slamming the ground for a wide AoE, createing crystalline spikes around it, dealing Anemo and Cryo damage.
+* At 70% HP, it will become invincible, summon an additional sword, charging up before slamming the ground for a wide AoE, createing crystalline spikes around it, dealing Anemo and Cryo damage.
   * While in this animation, it will be invulnerable.
-  * Its' Health cannot be reduced under 75% without executing this attack, if an attack would deal more than 25% of his health at once before this, all overkill damage will be lost.
-* At 75% HP or lower:
+  * Its' Health cannot be reduced under 70% without executing this attack, if an attack would deal more than 30% of his health at once before this, all overkill damage will be lost.
+* At 70% HP or lower:
   * Phantom: Teleports a short distance away, leaving a phantom in its original place. Both the Maguu Kenki and phantom attack consecutively.
   * Phantom: Enters a stance and charges, slashing rapidly around itself and dragging the player into its area of effect. The phantom appears close to the Maguu Kenki and slashes a larger area of effect. It may perform Dash in the process, making the phantom stay in place.
   * Phantom: Slashes three times, following the player's current location, while the summoned phantom follows closely after. The main body deals Anemo damage, the phantom deals currently Infused Elemental damage.
