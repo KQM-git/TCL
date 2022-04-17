@@ -38,7 +38,7 @@ Performs up to 5 consecutive shots with a bow.
 | 3-Hit DMG | 149.49% | 88 | 262.07%/s |
 | 4-Hit DMG | 78.07% ×2 (156.14%) | 113 + 128 | 253.36%/s |
 | 5-Hit DMG | 178.04% | 164 | 262.88%/s |
-| With Recovery | -- | 200 | 215.57%/s |
+| With Recovery | ~ | 200 | 215.57%/s |
 
 * The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 
@@ -49,13 +49,15 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 • Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.  
 • Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
-| String | Talent 9% | GUs | Frames | MV/s |
+| String | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | -- | -- | -- |
-| Fully-Charged Aimed Shot | 210.8% | 1A | -- | -- |
-| Kindling Arrow DMG | 27.88% | 1A | -- | -- |
-
-**Notes**
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 26 | 185.95%/s | ~ |
+| Charge Level 1 | 210.8% | 86 | 147.07%/s | 1A |
+| With Recovery | ~ | 97 | 130.39%/s | ~ |
+| Kindling Arrows (1, 2, 3) | 27.88% | 103, 121, 139 | 139.03%/s, 132.18%/s, 127.10%/s | 1A |
+| With Recovery | ~ | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
 * **Kindling Arrows** are affected by Amos' Bow's passive and reach max stacks at low range.

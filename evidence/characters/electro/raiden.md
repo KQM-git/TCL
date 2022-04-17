@@ -142,6 +142,37 @@ Near the end of the video, Raiden's Burst N1 applied Electro Aura to the enemy a
 **Significance:**  
 More documented knowledge about the mechanics of Raiden's kit.  
 
+### Raiden Resolve Decimal Stacks
+
+**By:** elijam\#7142  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964951851663503452/transcript-raiden-resolve-decimal-stacks.html)  
+
+**Finding:**  
+When Raiden gains Resolve from other characters' Bursts such that her Resolve stacks count would have a decimal value, Resolve is not rounded to the nearest whole number and the partial stack is expressed in the final damage.  
+
+**Evidence:**  
+In [this video](https://youtu.be/qckAai6xyvU) Raiden is C2, and C1 additional Resolve gain and C2 DEF Ignore are accounted for.
+
+```
+ATK * (1 + DMG%) * (1-RES) * ((Char LVL + 100)/((1-DEF Shred) * (1-DEF Ignore) * (Enemy LVL + 100) + Char LVL + 100)  
+= 381 * (1 + .155) * (1 - .1) * ((90 + 100) / ((1 - 0) * (1 - .6) * (85 + 100) + 90 + 100)  
+= 285.035625  
+
+Burst cost * Resolve per energy * C1 Bonus  
+= 90 * .19 * 1.8  
+= 30.78  
+
+Burst initial multiplier + Resolve stack count * Resolve initial hit multiplier  
+= 6.81 + 30.78 * .0661  
+= 8.844558  
+
+Final damage = 285.035625 * 8.844558 = 2521.01411738  
+Damage shown in video is 2521  
+```
+
+**Significance:**  Raiden guide mechanics details, also marginally useful for calcing and simming teams.  
+
 ## Constellation Mechanics
 
 ### C2: Steelbreaker

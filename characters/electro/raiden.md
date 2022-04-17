@@ -145,6 +145,7 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 **Notes**
 * Charged Attack Stamina Cost: 20  
 * **Resolve Stacks** act as bonus MV, which is given to each split of a string in the case of multi-hits.  
+* **Resolve Stacks** are not rounded to the nearest whole number and the partial stack is expressed in the final damage.
 * Raiden's interruption resistance under the effects of **Musou Isshin** makes her immune to being staggered.
 * **Musou Isshin** duration timer begins after the cast animation of **Secret Art: Musou Shinsetsu** has ended.
 * Energy restoration from **Musou Isshin** works against shielded and immune enemies.

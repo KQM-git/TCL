@@ -45,8 +45,11 @@ A fully charged shot will deal Pyro DMG.
 
 | Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% |  |  | - |
-| Fully Charged | 210.8% | 94 | 134.55% | 2B |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 25 | 193.392%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 2B |
+| With Recovery | ~ | 96 | 131.75%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
