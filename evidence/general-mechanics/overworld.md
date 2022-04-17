@@ -1454,6 +1454,24 @@ Activated Phase Gates don't need to be visually present to allow travelers to ph
 **Significance:**  
 Better understanding of Teyvat laws. Commissions don't remove Phase Gate interactions. There's potential that it could apply to other objects.  
 
+## Anemo Slimes
+
+### Flying Anemo Slimes Have Hitboxes
+
+**By:** Kurt\#5846  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964972311923011584/transcript-flying-anemo-slimes-have-hitboxes.html)  
+
+**Finding:**  
+Flying Anemo Slimes and Bloaty Floaty bubbles have hitboxes and can move your characters.  
+
+**Evidence:**  
+[Video 1](https://youtu.be/CN2plDKGqkE)  
+[Video 2](https://youtu.be/RXpbOauZRgo)  
+
+**Significance:**  
+Mostly fluff.
+
 ## Paimon Hates Climbing
 
 **By:** Magnus Artifex\#8719  
