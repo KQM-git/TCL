@@ -405,3 +405,23 @@ Clipping a Fruit Stand into landmasses allows your character to climb and stand 
 
 **Significance:**  
 Looks kinda cool.
+
+## Fishing Spots
+
+### Fishing Spot Prompt Bug
+
+**By:** Beast Boy\#2560  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
+
+**Bug:**  
+The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.  
+
+**Evidence:**  
+* Normal Fishing Prompt Interaction \(for reference\): [video](https://imgur.com/a/Um9dkKI)
+* Persists through many actions: [video](https://youtu.be/Up6DK2fehS0)
+* Persists through menu opening: [video](https://imgur.com/a/D91qwc7)
+* Entering and exiting menu extension \(from sexyeboy69\#2687\): [video](https://youtu.be/LsbKfLN-kMo)
+
+**Significance:**  
+Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowed\).
