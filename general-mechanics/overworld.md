@@ -213,6 +213,9 @@ The Cryo element is able to be applied to many overworld objects, such as ores a
 ## Phase Gates
 * During Daily Commissions, Phase Gates will be invisible but can still be used.
 
+## Map Boundries
+
+* After reaching a certain height in locations of The Chasm, Paimon will say [some lines](../evidence/general-mechanics/overworld.md#paimon-hates-climbing). Usually these are triggered when you try climbing up to a light source.  
 
 ## Fishing Spots
 
