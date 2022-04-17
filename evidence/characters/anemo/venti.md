@@ -35,6 +35,32 @@ The inputs are: Hold E for 9 frames. Release E. Press Q.
 
 **Significance:** Saves around 10 frames on E-Q combo (20 frames E -> 10 frames E).  
 
+### Venti CA Skill Cancel
+
+**By:** BowTae\#0141  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964968100883726397/transcript-venti-ca-e-cancel.html)  
+
+**Finding:**  
+Using Venti Tap Elemental Skill immediately after shooting a non-ARCC Charged Attack will reduce essentially all of his Skill's animation frames.  
+
+**Evidence:**  
+[Original discovery by Turtlemaster3000 V.2](https://youtu.be/O587rUzfJao)  
+* You do not need to mash Skill to do this, you just need to tap Skill once immediately after Venti exits Aim mode.  
+
+This can be done with both hold M1 shots and Aim toggle shots.  
+* I couldn't get it to work with ARCC, probably because ARCC removes the shooting animation which is likely what allows this to happen.
+* With Aim toggle, it is possible to do this so that Venti does not need to stop walking: [YouTube](https://youtu.be/Pk8-6Mzg9cQ)  
+* With hold M1, Venti will stop walking to cast his Skill, but this can be canceled immediately with an action, such as dash, Skill, Burst, Attack, or Aim: [YouTube](https://youtu.be/IoL8v-aABos)  
+  * This is therefore just as good as the Aim toggle version, while also needing less time to shoot the CA.  
+  * The hold M1 version seems to rarely if ever work at 30fps, while it is consistent at 60fps.  
+* Proof that this shortened E does damage: [YouTube](https://youtu.be/rxja0bljcuk)  
+
+**Significance:**  
+Crescent Venti stonks. Allows Phys Venti to cast Skill without interrupting the CAs: [YouTube](https://youtu.be/UK556Tz22PA)  
+Can also let Venti do 4pc Shimenawa tax evasion at low ping.  
+In more serious terms, this has little practical use for the majority of Venti usage since it requires a CA.  
+
 ## Burst Mechanics
 
 ### Venti Q Absorbed Element ICD
