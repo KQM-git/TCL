@@ -23,6 +23,7 @@ Opening the exit menu in the Abyss does not pause the timer. This results in a b
 * Sometimes [torches will become inextinguishable by Overload](../evidence/general-mechanics/bugs.md#infinite-torch), the cause is unknown.
 * [Lightning Struck Trees have a high chance of breaking](../evidence/general-mechanics/bugs.md#lightning-struck-tree-breaks-when-swapping-characters) if you swap characters near them as it keeps applying Electro on you.
   * It is possible to fix it by relogging or drowning to force reload.  
+* [Fishing spot prompt can stay with the character](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) under specific circumstances, and it be extended beyond its normal area by repeatedly entering and exiting the menu.
 
 ## Artifacts
 

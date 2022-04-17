@@ -37,17 +37,22 @@ Perform up to 5 consecutive shots with a bow.
 | 3-Hit DMG | 89.11% | 82 | 166.82%/s |
 | 4-Hit DMG | 92.59% | 123 | 156.38%/s |
 | 5-Hit DMG | 106.65% | 181 | 141.62%/s |
-| Recovery | -- | 195 | 131.46%/s |
+| Recovery | ~ | 195 | 131.46%/s |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.  
 When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
-| String | Talent 9% | Frames | MV/s | GU |
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 38 | 127.23%/s | -- |
-| Fully-Charged Aimed Shot | 210.8% | 78 | 162.15%/s | 1A |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 25 | 193.392%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
+| With Recovery | ~ | 96 | 131.75%/s | ~ |
+| A1 Fully Charged | 210.8% | 50 | 252.96% | 1A |
+| With Recovery | ~ | 60 | 210.8%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.

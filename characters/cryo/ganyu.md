@@ -47,12 +47,14 @@ Perform a precise Aimed Shot with increased DMG.
 
 | Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% |  |  |   |
-| Charge Level 1 | 210.8% | 94 | 134.55% | 1A |
-| Frostflake Arrow | 217.6% | 115 | 113.53% | 1A |
-| Frostflake Bloom | 369.92% | 115 | 193.00% | 1A |
-
-**Notes**
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 25 | 193.392%/s | ~ |
+| Charge Level 1 | 210.8% | 74 | 170.92% | 1A |
+| With Recovery | ~ | 85 | 148.8%/s | ~ |
+| Frostflake Arrow | 217.6% | 103 | 126.76% | 1A |
+| Frostflake Bloom | 369.92% | 103 | 215.49% | 1A |
+| With Recovery | ~ | 113 | 311.96%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * **Frostflake Bloom** is considered a Charged Attack.
 * Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.

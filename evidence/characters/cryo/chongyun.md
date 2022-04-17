@@ -92,6 +92,25 @@ The various interactions between Chongyun’s A4 and E have been looked at and t
 2. As Chongyun’s A4 snapshots any buffs received by E skill, new rotations can be made that allow Chongyun’s E to snapshot buffs first to make the most of E and A4 skill damage.  
 3. Due to the actual large area of Chongyun’s E field, it can be noted in the future that leaving the ground will not deactivate the effects of the field as long as you stay within its radius. Useful for characters that can use their E skill in the air such as Xiao. Also, less practical and more meme-y (and fun), Chongyun’s A4 can be used to snipe unsuspecting enemies near high cliffs and ravines.
 
+## Burst Mechanics
+
+### Chongyun Burst Maximum Range
+
+**By:** mando.\#1646  
+**Added:** 04/16/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964970527120834560/transcript-chongyuns-burst-maximum-range.html)  
+
+**Finding:**  
+The maximum casting range for Chongyun's Burst is 17.85m \(7 Abyss tiles\).  
+
+**Evidence:**  
+* In [this video](https://youtu.be/_j1p5ZHGqzw) Chongyun is standing 8 tiles away from the actual target and the Burst doesn't cast on it.  
+
+* In [this video](https://youtu.be/gNlBX5BQp1U) Chongyun is standing 7 tiles away from the target and the Burst does target it.  
+
+**Significance:**  
+Expansion in understanding of Chongyun's kit.  
+
 ## Constellation Mechanics
 
 ### C1: Ice Unleashed

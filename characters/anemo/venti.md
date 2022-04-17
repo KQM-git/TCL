@@ -41,14 +41,17 @@ Perform up to 6 consecutive shots with a bow.
 | 5-Hit DMG | 93.06% | 140 | 189.19%/s |
 | 6-Hit DMG | 130.35% | 191 | 179.62%/s |
 
-**Aimed Shot**  
+**Charged Attack**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Anemo DMG.
 
 | Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 26 | 185.95%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1U |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 23 | 210.21%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
+| With Recovery | ~ | 94 | 134.55%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
@@ -84,7 +87,8 @@ Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 
 **Notes**
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
-* Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the hold version into a press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
+* Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the Hold version into a Press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
+* Using the Press version of **Skyward Sonnett** immediately after shooting a non-ARCC Charged Attack will reduce essentially all of the Skill's animation frames.  
 
 {% endtab %}
 

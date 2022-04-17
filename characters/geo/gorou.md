@@ -32,18 +32,20 @@ Perform up to 4 consecutive shots with a bow.
 | 2-Hit | 68.26% | 37 | 223.17%/s |
 | 3-Hit | 90.85% | 85 | 161.27%/s |
 | 4-Hit | 108.39% | 132 | 153.12%/s |
-| Recovery | - | 162 | 124.76%/s | 
+| With Recovery | ~ | 162 | 124.76%/s | 
 
 **Charged Attack**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
 
-| String | Talent 9% | Frames | MV/s | GU | 
+| Type | Talent 9% | Frames | MV/s | GU |
 | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 23 | 210.21%/s | - |
-| Fully-Charged Aimed Shot | 210.8% | 86 | 147.07%/s | 1U |
-
-* Fully-Charged Aimed Shot has no ICD.
+| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
+| With Recovery | ~ | 23 | 210.21%/s | ~ |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1U |
+| With Recovery | ~ | 94 | 134.55%/s | ~ |
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* Fully Charged Charged Attack has no ICD.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
