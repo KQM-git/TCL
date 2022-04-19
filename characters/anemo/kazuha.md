@@ -168,8 +168,7 @@ Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members 
 
 **Notes**
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
-* Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
-* Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
+* Kazuha's 4th ascension passive overrides previous instances on every swirl.
 {% endtab %}
 {% endtabs %}
 

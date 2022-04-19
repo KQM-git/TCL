@@ -119,22 +119,7 @@ Kazuha Swag.
 ### A4: Poetics of Fuubutsu
 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements. - [kingjohn23\#8694](https://youtu.be/3ryW4jG38y0)  
-* Kazuha's 4th ascension passive overrides and refreshes buff each swirl of the same element. - [kol\#1593](https://youtu.be/-D8IMtMAt48)  
-
-### Kazuha's Dynamically Changing Buff
-**By:** Falafel\#5123  
-**Added:** 04/09/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962496151704182834/transcript-kazuhas-dynamically-changing-buff.html)  
-
-**Finding:**  
-Further evidence that Kazuha's A4 Passive buff dynamically changes it's value every new swirl depending on how much EM Kazuha has when the swirl happened.  
-
-**Evidence:**  
-Diona's C6 increases Kazuha's EM by 200 when he's standing on it, giving him stronger buffs and this persists the entire time the buff is up (as you can see, Ganyu's Cryo DMG Bonus is still 83.6% even when Ganyu steps out of Diona's burst) - [YouTube](https://youtu.be/hgQJzMLG8_w)  
-Again, Diona's C6 increases Kazuha's buff the first time he swirls, giving Ganyu 83.6% Cryo DMG bonus. But, when a new swirl happens the buff gets lower, back to the same value when Diona is not buffing Kazuha beforehand. - [YouTube](https://youtu.be/slRfL9ynIuA)  
-
-**Significance:**  
-This finding can potentially impact rotation planning. When using teams involving Diona and Kazuha, it is maybe in some cases a good idea to only use his skill when standing on Diona's burst and not trigger his burst at all. This can also include other EM-increasing characters like Albedo for example. The key is to only swirl once every time the EM increase is on Kazuha. Still, Kazuha's damage from his burst can easily make up for the loss of the extra Passive buff.  
+* Kazuha's 4th ascension passive overrides&refreshes buff each swirl. - [kol\#1593](https://youtu.be/-D8IMtMAt48)  
 
 ## Constellation Mechanics  
 ### C2: Yamaarashi Tailwind
