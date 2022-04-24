@@ -10,6 +10,8 @@ search: false
 
 ## Skill Mechanics
 
+Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111  
+
 ### Venti autoattack after elemental skill faster switching
 
 **By:** sexyeboy69\#3215  

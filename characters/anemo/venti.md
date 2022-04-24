@@ -76,7 +76,7 @@ Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 | Particles | 3 \(-\) | 4 \(-\) |
 | Frames | 20 | 70 |
 | GU | 2U | 2U | 
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
+| ICD | None | 3 hit / 2.5s |
 | Snapshot | - | - |
 | Damage Element | Anemo | Anemo | 
 | Damage Type | Skill | Skill |
