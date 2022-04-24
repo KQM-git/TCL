@@ -139,6 +139,7 @@ This Explosive Spark is consumed by the next Charged Attack, which costs no Stam
 * Explosive Spark lasts up to 30 seconds when not consumed.  
 * Explosive Spark stays even when Klee has been swapped out.  
 * Explosive Spark can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".
+* If an Explosive Spark obtained from a Normal Attack is animation canceled by a Charged Attack, Stamina will still be consumed during the Charged Attack.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
