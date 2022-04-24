@@ -136,7 +136,8 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 **Notes**
 * C6 buff applies on swap.
 * Her field shares an ICD with the initial hit.
-* The Drunken Mist AoE has a finite vertical range. Characters above or below this vertical range will not receive healing.
+* **Drunken Mist** AoE has a finite vertical range. Characters above or below this vertical range will not receive healing.
+* **Drunken Mist** targets an enemy and snapshots the position on cast.
 
 {% endtab %}
 {% endtabs %}
