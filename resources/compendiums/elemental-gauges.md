@@ -14,13 +14,14 @@ Anemo & Geo do not apply auras and are instead denoted with U.
 A more in-depth explanation can be found at [Elemental Gauge Theory](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Elemental Gauges
-*Updated for Patch 2.5.*
+*Updated for Patch 2.6.*
 
 {% tabs %}
 {% tab title="Hydro" %}
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
+| Ayato      | - | - | 1A | 1A | 1A | - |
 | Barbara   | 1A | 1A | 1A | - | - | - |
 | Kokomi    | 1A | 1A | 1A | - | Initial Cast: 2B | - |
 | Mona      | 1A | 1A | DoT: 1A <br />Explosion: 1A | - | On Cast: 1A<br />On Pop: 2B | Dash: 1A |

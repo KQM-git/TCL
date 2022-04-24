@@ -132,6 +132,7 @@ Production ratio shows the rate of the amount of particle that will be produced 
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
+| Ayato |  | 12 | 1~2 \(1:1\) | 1.50 | 7.5 | 
 | Tartaglia | C6 \(**Havoc: Annihilation**\), melee full uptime, procs riptide off CD \(riptide icd 1.5s, particle icd 3s\) | 3 | 1 \(-\) | 1.00 | 20.0 | 
 | Kokomi    | Does a 0~1 \(1:2\) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field, 2s icd within same **Bake-Kurage**, 100% uptime through Tamaooya's Casket talent extension, does not have to stay on field | 20 | 0~1 \(1:2\) | 0.66 | 19.8 |
 | Mona      | Doesn't have to stay on field \(**Phantom**\), only produce particle when final explosion connects, does not have to stay on field | 12 | 3~4 \(2:1\) | 3.33 | 16.7 |
