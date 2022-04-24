@@ -22,8 +22,6 @@ search: false
     * E converted NA: Dynamic - [Video](https://youtu.be/0aoVP17MNgk) - Kyrari\#9990
     * Q: Snapshots very late into the animation - [Video 1](https://youtu.be/QEPtrlYVuWM) / [Video 2](https://youtu.be/8INP2nTVwho) - aki\#9707 / Bobrokrot\#0111
 
-## Normal Attack Mechanics
-
 ## Skill Mechanics
 
 * Particle generation: 1-2 \(1:1\) - [Sheet](https://docs.google.com/spreadsheets/d/1uYyrjwhPI0WlAifYLcp-yWGGuJhGlaF5lcJ5xN-YEH0/edit?usp=sharing) - Bobrokrot\#0111
@@ -36,7 +34,6 @@ search: false
 ## Burst Mechanics
 
 * Ayato's Burst consumes Energy pretty early after cast and can gain Energy from pre-fed Particles during Burst animation. - [Video](https://youtu.be/ax9mHkC9f7o) - daibangden\#8410
-
 
 ## Constellation Mechanics
 
