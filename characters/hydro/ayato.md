@@ -75,7 +75,7 @@ It also has the following properties:
 | Particles | 1-2 \(1:1\) | 
 | Frames | 20 |
 | GU | 1A |
-| ICD | - | 
+| ICD | 3-hit / 2.5s | 
 | Snapshot | Snapshot | 
 | Damage Element | Hydro | 
 | Damage Type | Skill |
