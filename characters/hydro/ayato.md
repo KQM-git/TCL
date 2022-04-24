@@ -85,10 +85,10 @@ It also has the following properties:
 **Shunsuiken Attack**  
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| Shunsuiken 1-Hit | 97.17% | 9 | - |
-| Shunsuiken 2-Hit | 108.23% | 33 | - |
-| Shunsuiken 3-Hit | 119.29% | 57 | - |
-| Shunsuiken Recovery | - | 72 | - |
+| Shunsuiken 1-Hit | 97.17% | - | - |
+| Shunsuiken 2-Hit | 108.23% | - | - |
+| Shunsuiken 3-Hit | 119.29% | - | - |
+| Recovery | - | - | - |
 | GU | 1A | - | - | 
 
 **Notes:**  
