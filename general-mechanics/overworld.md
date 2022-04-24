@@ -90,7 +90,7 @@ Maps:
 * [Cannons](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/cannon-guide.jpg) (by Miin from Hoyolab).  
 It is advised to leave Tatarasuna for last due to the [investigation spot daily limit](../general-mechanics/resources-and-efficiency.md#overworld-farming).
 
-## Zone Levels:
+## Zone Levels
 
 The overworld map is split into multiple zones that affect enemy level and environmental reactions. There are "no level" zones which take on the level of the previous zone visited. 
 * [Teyvat](https://photos.app.goo.gl/drcNqTHVym7Qvuvn9) 
@@ -234,21 +234,9 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 * Use mid-air skills e. g. Xiao
 * Plunge \(normal reduced fall damage for plunge, capped at 40% max HP\)
 
-## Properties of Eagles
+##  Eagles
 
-**By:** Pablos\#1142  
-**Added:** 04/24/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967840437182296104/transcript-properties-of-eagles.html)  
-
-**Finding:**  
-Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.  
-
-**Evidence:**  
-[Video 1](https://imgur.com/a/a5lWt3f)  
-[Video 2](https://youtu.be/4w8FpCpqk_U) \(by makeway4pK\#3901\)
-
-**Significance:**  
-Fluff and documenting overworld mechanics.
+* Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.  
 
 ## Evidence Vault
 
