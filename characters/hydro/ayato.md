@@ -1,16 +1,19 @@
 ---
-description: The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.
+description: >-
+  The young but highly accomplished head of the Yashiro Commission's Kamisato
+  Clan. Cultured and polite, he is a man of many ways and means.
 ---
 
-# Kamisato Ayato
+# Ayato
 
-## ![](../../.gitbook/assets/element_hydro.png) Kamisato Ayato
-![](../../.gitbook/assets/character_ayato_wish.png)
+## ![](../../.gitbook/assets/element\_hydro.png) Kamisato Ayato
+
+![](../../.gitbook/assets/character\_ayato\_wish.png)
 
 ## **Base Stats**
 
 | Lv  | Base HP | Base ATK | Base DEF | CRIT DMG |
-|-----|---------|----------|----------|----------|
+| --- | ------- | -------- | -------- | -------- |
 | 60  | 8897    | 194      | 499      | 69.20%   |
 | 60+ | 9548    | 208      | 535      | 69.20%   |
 | 70  | 10494   | 229      | 588      | 69.20%   |
@@ -23,103 +26,101 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 {% tabs %}
 {% tab title="Normal Attack: Kamisato Art - Marobashi" %}
+**Normal Attack**\
+Perform up to 5 rapid strikes.
 
-**Normal Attack**  
-Perform up to 5 rapid strikes.  
+| String   | Talent 9% | Frames | MV/s      |
+| -------- | --------- | ------ | --------- |
+| 1-Hit    | 82.60%    | 13     | 381.23%/s |
+| 2-Hit    | 86.64%    | 43     | 173.28%/s |
+| 3-Hit    | 107.68%   | 73     | 215.36%/s |
+| 4-Hit    | 54.10% x2 | 111    | 170.84%/s |
+| 5-Hit    | 138.90%   | 159    | 173.63%/s |
+| Recovery | -         | 191    | -         |
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 82.60% | 13 | 381.23%/s |
-| 2-Hit | 86.64% | 43 | 173.28%/s |
-| 3-Hit | 107.68% | 73 | 215.36%/s |
-| 4-Hit | 54.10% x2 | 111 | 170.84%/s |
-| 5-Hit | 138.90% | 159 | 173.63%/s |
-| Recovery | - | 191 | - |
-
-
-**Charged Attack**  
+**Charged Attack**\
 Consumes a certain amount of Stamina to dash forward and perform an iai.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 320.57% | 13 + 54 | 356.19%/s | 
-| Recovery | - | 84 | - | 
+| String   | Talent 9% | Frames  | MV/s      |
+| -------- | --------- | ------- | --------- |
+| N1C      | 320.57%   | 13 + 54 | 356.19%/s |
+| Recovery | -         | 84      | -         |
 
-**Plunge**  
+**Plunge**\
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type     | Talent 9% |
+| --------------- | --------- |
+| Plunge DMG      | 117.46%   |
+| Low Plunge DMG  | 234.86%   |
+| High Plunge DMG | 293.36%   |
 {% endtab %}
 
 {% tab title="Kamisato Art: Kyouka" %}
-
-Kamisato Ayato shifts positions and enters the **Takimeguri Kanka** state.  
+Kamisato Ayato shifts positions and enters the **Takimeguri Kanka** state.\
 After this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG.
 
-**Takimeguri Kanka**  
-In this state, Kamisato Ayato uses his **Shunsuiken** to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into AoE Hydro DMG. This cannot be overridden.  
-It also has the following properties:  
-• After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.  
-• Kamisato Ayato's resistance to interruption is increased.  
-• Unable to use Charged or Plunging Attacks.  
-**Takimeguri Kanka** will be cleared when Ayato leaves the field. Using **Kamisato Art: Kyouka** again while in the Takimeguri Kanka state will reset and replace the pre-existing state.  
+**Takimeguri Kanka**\
+In this state, Kamisato Ayato uses his **Shunsuiken** to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into AoE Hydro DMG. This cannot be overridden.\
+It also has the following properties:\
+• After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.\
+• Kamisato Ayato's resistance to interruption is increased.\
+• Unable to use Charged or Plunging Attacks.\
+**Takimeguri Kanka** will be cleared when Ayato leaves the field. Using **Kamisato Art: Kyouka** again while in the Takimeguri Kanka state will reset and replace the pre-existing state.
 
-| Attribute | Skill | 
-| :--- | :--- |
-| Namisen DMG Bonus \(T9%\) | 1.03% Max HP/Stack |
-| Water Illusion DMG \(T9%\) | 186.44% | 
-| Particles | 1-2 \(1:1\) | 
-| Frames | 20 |
-| GU | 1A |
-| ICD | 3-hit / 2.5s | 
-| Snapshot | Snapshot | 
-| Damage Element | Hydro | 
-| Damage Type | Skill |
-| Duration | 6s |
-| CD | 12s | 
+| Attribute                | Skill              |
+| ------------------------ | ------------------ |
+| Namisen DMG Bonus (T9%)  | 1.03% Max HP/Stack |
+| Water Illusion DMG (T9%) | 186.44%            |
+| Particles                | 1-2 (1:1)          |
+| Frames                   | 20                 |
+| GU                       | 1A                 |
+| ICD                      | 3-hit / 2.5s       |
+| Snapshot                 | Snapshot           |
+| Damage Element           | Hydro              |
+| Damage Type              | Skill              |
+| Duration                 | 6s                 |
+| CD                       | 12s                |
 
-**Shunsuiken Attack**  
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Shunsuiken 1-Hit | 97.17% | - | - |
-| Shunsuiken 2-Hit | 108.23% | - | - |
-| Shunsuiken 3-Hit | 119.29% | - | - |
-| Recovery | - | - | - |
-| GU | 1A | - | - | 
+**Shunsuiken Attack**
 
-**Notes:**  
+| String           | Talent 9% | Frames | MV/s |
+| ---------------- | --------- | ------ | ---- |
+| Shunsuiken 1-Hit | 97.17%    | -      | -    |
+| Shunsuiken 2-Hit | 108.23%   | -      | -    |
+| Shunsuiken 3-Hit | 119.29%   | -      | -    |
+| Recovery         | -         | -      | -    |
+| GU               | 1A        | -      | -    |
+
+**Notes:**
+
 * Shunsuiken Attacks can hit enemies inside of Venti's [Wind's Grand Ode](../anemo/venti.md#attacks).
 * Shunsuiken Attacks do not snapshot.
-
 {% endtab %}
 
 {% tab title="Kamisato Art: Suiyuu" %}
-
-Unveils a garden of purity that silences the cacophony within.  
+Unveils a garden of purity that silences the cacophony within.\
 While this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.
 
-| Attribute | Burst | 
-| :--- | :--- |
-| Bloomwater Blade DMG \(T9%\) | 112.98% |
-| Normal Attack DMG Bonus \(T9%\) | 19% | 
-| Cast Frames | 122 |
-| Energy Frame | 10 |
-| CD Frame | 1 |
-| GU | 1A |
-| ICD | - | 
-| Snapshot | Snapshot | 
-| Damage Element | Hydro | 
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| Duration | 18 |
-| CD | 20 | 
+| Attribute                     | Burst    |
+| ----------------------------- | -------- |
+| Bloomwater Blade DMG (T9%)    | 112.98%  |
+| Normal Attack DMG Bonus (T9%) | 19%      |
+| Cast Frames                   | 122      |
+| Energy Frame                  | 10       |
+| CD Frame                      | 1        |
+| GU                            | 1A       |
+| ICD                           | -        |
+| Snapshot                      | Snapshot |
+| Damage Element                | Hydro    |
+| Damage Type                   | Burst    |
+| Energy Cost                   | 80       |
+| Duration                      | 18       |
+| CD                            | 20       |
 
 **Notes:**
-* **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) \(tracking and mechanic-wise with one less, so hit\-miss\-miss\-miss against one enemy\) but slower.
+
+* **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) (tracking and mechanic-wise with one less, so hit-miss-miss-miss against one enemy) but slower.
 * **Bloomwater Blades** drop once every 30 frames, with a theoretical maximum of 36 drops per Q cast.
 {% endtab %}
 {% endtabs %}
@@ -128,22 +129,21 @@ While this space exists, Bloomwater Blades will constantly rain down and attack 
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Kamisato Art: Daily Cooking**
+#### **Kamisato Art: Daily Cooking**
 
 When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional "Suspicious" dish of the same type.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Kamisato Art: Mine Wo Matoishi Kiyotaki**
+#### **Kamisato Art: Mine Wo Matoishi Kiyotaki**
 
-Kamisato Art: Kyouka has the following properties:  
-• After it is used, Kamisato Ayato will gain 2 Namisen stacks.  
+Kamisato Art: Kyouka has the following properties:\
+• After it is used, Kamisato Ayato will gain 2 Namisen stacks.\
 • When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Kamisato Art: Michiyuku Hagetsu**
+#### **Kamisato Art: Michiyuku Hagetsu**
 
 If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.
 {% endtab %}
@@ -153,41 +153,41 @@ If Kamisato Ayato is not on the field and his Energy is less than 40, he will re
 
 {% tabs %}
 {% tab title="C1" %}
-### **Kyouka Fuushi**
+#### **Kyouka Fuushi**
 
 Shunsuiken DMG is increased by 40% against opponents with 50% HP or less.
 {% endtab %}
 
 {% tab title="C2" %}
-### **World Source**
+#### **World Source**
 
 Namisen's maximum stack count is increased to 5. When Kamisato Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%.
 {% endtab %}
 
 {% tab title="C3" %}
-### **To Admire the Flowers**
+#### **To Admire the Flowers**
 
-Increases the Level of Kamisato Art: Kyouka by 3.  
+Increases the Level of Kamisato Art: Kyouka by 3.\
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Endless Flow**
+#### **Endless Flow**
 
 After using Kamisato Art: Suiyuu, all nearby party members will have 15% increased Normal Attack SPD for 15s.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Bansui Ichiro**
+#### **Bansui Ichiro**
 
-Increases the Level of Kamisato Art: Suiyuu by 3.  
+Increases the Level of Kamisato Art: Suiyuu by 3.\
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Boundless Origin**
+#### **Boundless Origin**
 
-After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.  
+After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.\
 Both these Shunsuiken attacks will not be affected by Namisen.
 
 **Notes**
@@ -201,10 +201,10 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 
 {% tabs %}
 {% tab title="Normal Attack: Kamisato Art - Marobashi" %}
-### Normal Attacks
+#### Normal Attacks
 
 |      | 1-Hit DMG | 2-Hit DMG | 3-Hit DMG | 4-Hit DMG | 5-Hit DMG |
-|------|-----------|-----------|-----------|-----------|-----------|
+| ---- | --------- | --------- | --------- | --------- | --------- |
 | Lv1  | 44.96%    | 47.16%    | 58.61%    | 29.45%x2  | 75.60%    |
 | Lv2  | 48.62%    | 51%       | 63.38%    | 31.85%x2  | 81.76%    |
 | Lv3  | 52.28%    | 54.83%    | 68.15%    | 34.24%x2  | 87.91%    |
@@ -217,10 +217,10 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 | Lv10 | 88.88%    | 93.22%    | 115.86%   | 58.21%x2  | 149.45%   |
 | Lv11 | 95.15%    | 99.80%    | 124.04%   | 62.32%x2  | 160%      |
 
-### Charged Attack
+#### Charged Attack
 
 |      | Charged Attack DMG |
-|------|--------------------|
+| ---- | ------------------ |
 | Lv1  | 129.53%            |
 | Lv2  | 140.07%            |
 | Lv3  | 150.62%            |
@@ -235,10 +235,10 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 
 **Stamina Cost**: 20
 
-### Plunge
+#### Plunge
 
 |      | Plunge DMG | Low Plunge DMG | High Plunge Damage |
-|------|------------|----------------|--------------------|
+| ---- | ---------- | -------------- | ------------------ |
 | Lv1  | 63.93%     | 127.84%        | 159.68%            |
 | Lv2  | 69.14%     | 138.24%        | 172.67%            |
 | Lv3  | 74.34%     | 148.65%        | 185.67%            |
@@ -250,34 +250,33 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 | Lv9  | 117.46%    | 234.86%        | 293.36%            |
 | Lv10 | 126.38%    | 252.70%        | 315.64%            |
 | Lv11 | 135.30%    | 270.54%        | 337.92%            |
-
 {% endtab %}
 
 {% tab title="Kamisato Art: Kyouka" %}
-|  | Shunsuiken 1-Hit DMG | Shunsuiken 2-Hit DMG | Shunsuiken 3-Hit DMG | Namisen DMG Bonus | Water Illusion DMG |
-|---|---|---|---|---|---|
-| Lv1 | 52.89% | 58.91% | 64.93% | 0.56% Max HP | 101.48% |
-| Lv2 | 57.20% | 63.71% | 70.22% | 0.61% Max HP | 109.74% |
-| Lv3 | 61.50% | 68.50% | 75.50% | 0.65% Max HP | 118% |
-| Lv4 | 67.65% | 75.35% | 83.05% | 0.72% Max HP | 129.80% |
-| Lv5 | 71.96% | 80.15% | 88.34% | 0.76% Max HP | 138.06% |
-| Lv6 | 76.88% | 85.63% | 94.38% | 0.82% Max HP | 147.50% |
-| Lv7 | 83.64% | 93.16% | 102.68% | 0.89% Max HP | 160.48% |
-| Lv8 | 90.41% | 100.70% | 110.99% | 0.96% Max HP | 173.46% |
-| Lv9 | 97.17% | 108.23% | 119.29% | 1.03% Max HP | 186.44% |
-| Lv10 | 104.55% | 116.45% | 128.35% | 1.11% Max HP | 200.60% |
-| Lv11 | 111.93% | 124.67% | 137.41% | 1.19% Max HP | 214.76% |
-| Lv12 | 119.31% | 132.89% | 146.47% | 1.27% Max HP | 228.92% |
-| Lv13 | 126.69% | 141.11% | 155.53% | 1.34% Max HP | 243.08% |
+|      | Shunsuiken 1-Hit DMG | Shunsuiken 2-Hit DMG | Shunsuiken 3-Hit DMG | Namisen DMG Bonus | Water Illusion DMG |
+| ---- | -------------------- | -------------------- | -------------------- | ----------------- | ------------------ |
+| Lv1  | 52.89%               | 58.91%               | 64.93%               | 0.56% Max HP      | 101.48%            |
+| Lv2  | 57.20%               | 63.71%               | 70.22%               | 0.61% Max HP      | 109.74%            |
+| Lv3  | 61.50%               | 68.50%               | 75.50%               | 0.65% Max HP      | 118%               |
+| Lv4  | 67.65%               | 75.35%               | 83.05%               | 0.72% Max HP      | 129.80%            |
+| Lv5  | 71.96%               | 80.15%               | 88.34%               | 0.76% Max HP      | 138.06%            |
+| Lv6  | 76.88%               | 85.63%               | 94.38%               | 0.82% Max HP      | 147.50%            |
+| Lv7  | 83.64%               | 93.16%               | 102.68%              | 0.89% Max HP      | 160.48%            |
+| Lv8  | 90.41%               | 100.70%              | 110.99%              | 0.96% Max HP      | 173.46%            |
+| Lv9  | 97.17%               | 108.23%              | 119.29%              | 1.03% Max HP      | 186.44%            |
+| Lv10 | 104.55%              | 116.45%              | 128.35%              | 1.11% Max HP      | 200.60%            |
+| Lv11 | 111.93%              | 124.67%              | 137.41%              | 1.19% Max HP      | 214.76%            |
+| Lv12 | 119.31%              | 132.89%              | 146.47%              | 1.27% Max HP      | 228.92%            |
+| Lv13 | 126.69%              | 141.11%              | 155.53%              | 1.34% Max HP      | 243.08%            |
 
-**Duration**: 6s  
-**Water Illusion Duration**: 6s  
-**Cooldown**: 12s  
+**Duration**: 6s\
+**Water Illusion Duration**: 6s\
+**Cooldown**: 12s
 {% endtab %}
 
 {% tab title="Kamisato Art: Suiyuu" %}
 |      | Bloomwater Blade DMG | Normal Attack DMG Bonus |
-|------|----------------------|-------------------------|
+| ---- | -------------------- | ----------------------- |
 | Lv1  | 66.46%               | 11%                     |
 | Lv2  | 71.44%               | 12%                     |
 | Lv3  | 76.42%               | 13%                     |
@@ -292,13 +291,14 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 | Lv12 | 132.91%              | 20%                     |
 | Lv13 | 141.22%              | 20%                     |
 
- 
-**Energy Cost**: 80  
-**Duration**: 18s  
-**Cooldown**: 20s  
+**Energy Cost**: 80\
+**Duration**: 18s\
+**Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/ayato.md" %}
+{% content-ref url="../../evidence/characters/hydro/ayato.md" %}
+[ayato.md](../../evidence/characters/hydro/ayato.md)
+{% endcontent-ref %}

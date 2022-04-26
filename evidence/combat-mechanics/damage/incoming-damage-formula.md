@@ -6,4 +6,6 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../combat-mechanics/damage/incoming-damage-formula.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

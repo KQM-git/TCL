@@ -10,13 +10,14 @@ More technically, many characters have a primary camera that normally tracks the
 
 ## Media
 
-{% embed url="https://imgur.com/a/uZepFyj" caption="" %}
+{% embed url="https://imgur.com/a/uZepFyj" %}
 
-{% embed url="https://imgur.com/a/NbmNQgt" caption="" %}
+{% embed url="https://imgur.com/a/NbmNQgt" %}
 
-{% embed url="https://imgur.com/a/bbpU1Dp" caption="" %}
+{% embed url="https://imgur.com/a/bbpU1Dp" %}
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/zoom-cancel.md" %}
-
+{% content-ref url="../../evidence/combat-mechanics/tech/zoom-cancel.md" %}
+[zoom-cancel.md](../../evidence/combat-mechanics/tech/zoom-cancel.md)
+{% endcontent-ref %}

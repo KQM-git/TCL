@@ -7,55 +7,58 @@ description: For entries that have little practical use.
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/miscellaneous-entries.md" %}
+{% content-ref url="../../general-mechanics/miscellaneous-entries.md" %}
+[miscellaneous-entries.md](../../general-mechanics/miscellaneous-entries.md)
+{% endcontent-ref %}
 
-## Statue Healing Works In Pause Menus  
-**By:** anmol43\#6762  
-**Added:** 02/20/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939595810998460446/945078289515552858/transcript-statue-healing-works-during-pause-menus.html)  
+## Statue Healing Works In Pause Menus
 
-**Finding:**  
+**By:** anmol43#6762\
+**Added:** 02/20/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939595810998460446/945078289515552858/transcript-statue-healing-works-during-pause-menus.html)
 
-1) statue healing (the passive healing you get while standing near a statue of the seven) continues through pause menus.
-2) when teleporting to certain statues, the player spawns in a spot close enough to trigger statue healing.
-List of "automatic" statues. 
+**Finding:**
+
+1. statue healing (the passive healing you get while standing near a statue of the seven) continues through pause menus.
+2. when teleporting to certain statues, the player spawns in a spot close enough to trigger statue healing. List of "automatic" statues.
+
 * Mondstadt - Stormterror Lair Statue
 * Dragonspine Statue
 * Liyue - Statue near Qingyun Peak
 * Liyue - Statue in Dihua Marsh
 * Liyue - Statue in Mingyun Village
 * Inazuma - Sanganomiya Island Statue
-* Inazuma - Tsurumi Island Statue
-all other statues work as intended, you have to walk upto them to trigger statue healing.  
+* Inazuma - Tsurumi Island Statue all other statues work as intended, you have to walk upto them to trigger statue healing.
 
-**Evidence:**  
+**Evidence:**
 
-healing works through pause menus - [Youtube](https://youtu.be/oVJpWywNZF0)  
-a normal statue, for comparison - [Youtube](https://youtu.be/LJC25iiMVtY)  
-automatic healing statues - [Youtube](https://youtu.be/BsmLe-LQ1P8)  
-healing works through pause menus + automatic healing - [Youtube](https://youtu.be/7JCbKl8mQSU)  
+healing works through pause menus - [Youtube](https://youtu.be/oVJpWywNZF0)\
+a normal statue, for comparison - [Youtube](https://youtu.be/LJC25iiMVtY)\
+automatic healing statues - [Youtube](https://youtu.be/BsmLe-LQ1P8)\
+healing works through pause menus + automatic healing - [Youtube](https://youtu.be/7JCbKl8mQSU)
 
-**Significance:**  
+**Significance:**\
 Combining the above findings, a player can save some clicks and time when healing using a statue of the seven.
 
 ## Item Suck Limits
 
-**By:** clrE\#6290  
-**Added:** 02/08/2022  
+**By:** clrE#6290\
+**Added:** 02/08/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938044007425146890/940718525121716254/transcript-suck-limit.html)
 
-**Finding:** Every ability / taunt that can pull mob has a limit. These limits differ from each other, ranging from 13-15.  
+**Finding:** Every ability / taunt that can pull mob has a limit. These limits differ from each other, ranging from 13-15.\
 Some can also be affected by In-game fps.
 
 **Evidence:**
+
 * Jean E - 14
 * kazuha Hold/Tap E 14
-    * [Youtube](https://youtu.be/poifmkFWvN0)
+  * [Youtube](https://youtu.be/poifmkFWvN0)
 * Jean E 13(30fps)
   * [Youtube](https://www.youtube.com/watch?v=IqnzPtPOFM0)
 * Kazuha Midare Ranzan 13 (60fps)
   * [Youtube](https://www.youtube.com/watch?v=jBcpIRqI4r8)
-* Kazuha Midare Ranzan 13  (30fps) 
+* Kazuha Midare Ranzan 13 (30fps)
   * [Youtube](https://www.youtube.com/watch?v=WvsdmEmsPv4)
 * Sucrose E/Q 13
 * Venti Q 14
@@ -70,128 +73,126 @@ Some can also be affected by In-game fps.
 * AMC E 13
 * AMC Q picked up 15 and dropped 2 along the way
   * [Youtube](https://youtu.be/6-FecUBYeGE)
-* AMC E 13 Q 14 (30fps)
-Evidence:
+* AMC E 13 Q 14 (30fps) Evidence:
   * [Youtube](https://youtu.be/TPXP2Ia4JWY)
 
 **Significance:** Documentation of the existence and specifics of certain characters suck/pull limit.
 
 ## Ded Bird
 
-**By:** Aluminum\#5462, Mcpie\#8672, mol\#3280, JenjenJL\#6582, Kgbeast\#6738, wiremash\#0433  
-**Added:** 6/8/2021  
+**By:** Aluminum#5462, Mcpie#8672, mol#3280, JenjenJL#6582, Kgbeast#6738, wiremash#0433\
+**Added:** 6/8/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846170693783912448/851728679427244042/transcript-ded-bird.html)
 
-**Finding:**  
+**Finding:**\
 Bird go poof.
 
-At least two of the birds \(one near Azhdaha and one in Guyun\) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive.
+At least two of the birds (one near Azhdaha and one in Guyun) die very often of drowning, usually before the player even sees them, though their death is also occasionally observed, and they may even sometimes survive.
 
 **Evidence:**
 
-* [Youtube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T) 
-* [Best Example](https://cdn.discordapp.com/attachments/846170693783912448/850855100107718746/2021-06-05_22-53-14.mp4)
+* [Youtube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T)
+* [Best Example](https://cdn.discordapp.com/attachments/846170693783912448/850855100107718746/2021-06-05\_22-53-14.mp4)
 
-**Significance:**  
+**Significance:**\
 Free fowl. Also whoever is coding the animals is probably trolling.
 
 ## Chair Canceling
 
-**By:** Ayzel\#7399  
-**Added:** 5/21/2021  
+**By:** Ayzel#7399\
+**Added:** 5/21/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
 
-**Finding:**  
-For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
+**Finding:**\
+For some characters, if they use an elemental skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
 
-**Evidence:**  
+**Evidence:**\
 [Video](https://youtu.be/6nwbxIwk3Q8)
 
-**Significance:**  
-New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\).  
+**Significance:**\
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW (like Hu Tao and Xiangling).
 
 ## Door Load Border Shenanigans
 
-**By:** CrazyWeke123\#9720  
-**Added:** 02/20/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)  
+**By:** CrazyWeke123#9720\
+**Added:** 02/20/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)
 
-**Finding:**  
-Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, *for some reason* seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.  
-1.    
-Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)  
-1a.   
-These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb pyro from a character standing in Bennett Q)  
-1b.   
-For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ablity's duration.  
-1c.  
-This can occur on both sides of the load border.  
-1d.  
-guoba just stops working?  
-1e.  
-did not affect Ganyu A4.  
-2.  
-coop partners can load in and out depending on the distance from the load border.  
-3.  
-construct replacement order seems to be completely thrown off course by them respawning.  
+**Finding:**\
+Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, _for some reason_ seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.\
+1.\
+Some abilities are duplicated **at the point of their duration** when walking through the border. (an example being Ayaka Q, where every time you walk through the border another Ayaka Q spawns on top of where the first one is)\
+1a.\
+These duplicated abilities are real, not just vfx loaded in( a duplicated Venti Q can still asborb pyro from a character standing in Bennett Q)\
+1b.\
+For some reason some abilities can be effectively restarted by walking through the load border just as they end, causing another copy to appear at the start of the ability's animation effectively doubling the ablity's duration.\
+1c.\
+This can occur on both sides of the load border.\
+1d.\
+guoba just stops working?\
+1e.\
+did not affect Ganyu A4.\
+2.\
+coop partners can load in and out depending on the distance from the load border.\
+3.\
+construct replacement order seems to be completely thrown off course by them respawning.
 
 **Evidence:**
 
 1:
 
-* Keqing Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/aXvSw0adFc8)  
-* Venti Q [Youtube](https://youtu.be/4qrBXRNzrXM)  
-* Multiple Stacked Abilities [Youtube](https://youtu.be/b4gwL7yFUNg)  
-* Lisa Q [Youtube](https://youtu.be/CiTvni0GBv8)  
-* Jean Q [Youtube](https://youtu.be/xEt2Pnvizh0)  
-* Ganyu Q [Youtube](https://youtu.be/LKMPpNhwFzo)  
-* Fischl E 0:18 (The summoning sound replays [Sound Warning]) [Youtube](https://youtu.be/3g6TFsY1X_8)  
-* Aloy E [Youtube](https://youtu.be/7CKi8H6ejg8) 
-* Mona E (Credit to phillip#0150) [Youtube](https://youtu.be/4QsQ25XGgMo)  
-* Ganyu E (Credit to daibangden2460\#8410) [Youtube](https://www.youtube.com/watch?v=-q1-tREIMVs)  
-* Keqing E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/lAA1Iy_2Y2g)  
-* Shenhe Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/rOXv6huqib8)  
-* Ayaka Q (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/ygUlWHykY3g)  
-* Kokomi E (Credit to daibangden2460\#8410) [Youtube](https://youtu.be/QHXYQwIKrd8)  
+* Keqing Q (Credit to daibangden2460#8410) [Youtube](https://youtu.be/aXvSw0adFc8)
+* Venti Q [Youtube](https://youtu.be/4qrBXRNzrXM)
+* Multiple Stacked Abilities [Youtube](https://youtu.be/b4gwL7yFUNg)
+* Lisa Q [Youtube](https://youtu.be/CiTvni0GBv8)
+* Jean Q [Youtube](https://youtu.be/xEt2Pnvizh0)
+* Ganyu Q [Youtube](https://youtu.be/LKMPpNhwFzo)
+* Fischl E 0:18 (The summoning sound replays \[Sound Warning]) [Youtube](https://youtu.be/3g6TFsY1X\_8)
+* Aloy E [Youtube](https://youtu.be/7CKi8H6ejg8)
+* Mona E (Credit to phillip#0150) [Youtube](https://youtu.be/4QsQ25XGgMo)
+* Ganyu E (Credit to daibangden2460#8410) [Youtube](https://www.youtube.com/watch?v=-q1-tREIMVs)
+* Keqing E (Credit to daibangden2460#8410) [Youtube](https://youtu.be/lAA1Iy\_2Y2g)
+* Shenhe Q (Credit to daibangden2460#8410) [Youtube](https://youtu.be/rOXv6huqib8)
+* Ayaka Q (Credit to daibangden2460#8410) [Youtube](https://youtu.be/ygUlWHykY3g)
+* Kokomi E (Credit to daibangden2460#8410) [Youtube](https://youtu.be/QHXYQwIKrd8)
 
-1a:    
+1a:
 
-* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [Youtube](https://youtu.be/ilBeQAzMvdA)  
+* Venti Q absorbing pyro ( you can actually see a new one being created after the absorbption that is still non absorbed) [Youtube](https://youtu.be/ilBeQAzMvdA)
 
-1b:    
+1b:
 
-* Venti Q restarts at 0:09 [Youtube](https://www.youtube.com/watch?v=4qrBXRNzrXM)  
-* AMC Q and Guoba respawn [Youtube](https://youtu.be/W-uYRI6HpUQ)  
+* Venti Q restarts at 0:09 [Youtube](https://www.youtube.com/watch?v=4qrBXRNzrXM)
+* AMC Q and Guoba respawn [Youtube](https://youtu.be/W-uYRI6HpUQ)
 
-1c:     
+1c:
 
-* Inside Door [Youtube](https://youtu.be/5XIUsWJMewo)  
-* Outside Door (Credit to ShampooBrain\#9583) [Youtube](https://youtu.be/vBN7CEfjSm8)  
+* Inside Door [Youtube](https://youtu.be/5XIUsWJMewo)
+* Outside Door (Credit to ShampooBrain#9583) [Youtube](https://youtu.be/vBN7CEfjSm8)
 
-1d:  
+1d:
 
-* Guoba just stops shooting fire after going through the door a couple times [Youtube](https://youtu.be/zw9hyv39_IM)  
+* Guoba just stops shooting fire after going through the door a couple times [Youtube](https://youtu.be/zw9hyv39\_IM)
 
-1e:   
+1e:
 
-* Ganyu A4 does not stack in multiple Ganyu Q's (Credit to Homura\#9806) [Youtube](https://youtu.be/lf_-JHBSgXM)  
+* Ganyu A4 does not stack in multiple Ganyu Q's (Credit to Homura#9806) [Youtube](https://youtu.be/lf\_-JHBSgXM)
 
-2:  
+2:
 
-* Coop partner loading in and out (Credit to Homura\#9806) [Youtube](https://youtu.be/rvNNOgK5IJU)  
-* Coop partner not loading in until you get close to the door (Credit to Homura\#9806) [Youtube](https://youtu.be/f6dYuQ4tiss)  
- 
+* Coop partner loading in and out (Credit to Homura#9806) [Youtube](https://youtu.be/rvNNOgK5IJU)
+* Coop partner not loading in until you get close to the door (Credit to Homura#9806) [Youtube](https://youtu.be/f6dYuQ4tiss)
+
 3:
 
-* Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)  
+* Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)
 
-**Significance:**
-*VERY* fluff, unless mihoyo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though. 
+**Significance:** _VERY_ fluff, unless mihoyo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though.
 
 ## Electro Tanking
 
-**By:** Aevean Leeow\#1362  
-**Added:** 4/27/2021  
+**By:** Aevean Leeow#1362\
+**Added:** 4/27/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/805911524051779615/837034685497606194/transcript-razorbeidouelectrotank.html)
 
 **Theory:** In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
@@ -202,11 +203,11 @@ Razor has 80% Electro RES and was originally considered to be the best Electro T
 
 Building Beidou as the tank/shielder in one allows for a much larger shield the more investments there are into HP, though she has less base DEF than razor. Thus, Beidou scales better with HP and Razor scales better with DEF. But due to the nature of the DEF formula, where the benefit of defense decreases with enemy level increases, HP outscales DEF, and thus Beidou should and does outscale Razor.
 
-In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing \(available here: [https://pastebin.com/9ZHEnyCU](https://pastebin.com/9ZHEnyCU)\) was used.
+In order to calculate questions like: When does Beidou outscale Razor? Has Razor been outscaled from the very beginning? and What are the best artifacts/compositions to tank Electro DMG? a program coded in Turing (available here: [https://pastebin.com/9ZHEnyCU](https://pastebin.com/9ZHEnyCU)) was used.
 
 **Results:**
 
-For an arbitrary range of levels \(1-100\), assuming optimized builds without damage reduction \(DR\) against Electro damage in the overworld, Razor during his burst is tankier than Beidou holding counter.
+For an arbitrary range of levels (1-100), assuming optimized builds without damage reduction (DR) against Electro damage in the overworld, Razor during his burst is tankier than Beidou holding counter.
 
 For this terribly impractical range of levels, 1 to 100, Razor's best weapon would be whiteblind, a c1 max HP build Beidou for his shield, and an A2 Zhongli to boost his shield%. He would take Thundersoother and Bolide, with 3 DEF% mainstats, 15 HP substats, and 10 DEF substats, prioritizing %HP/DEF substat choice over flat HP/DEF.
 
@@ -222,19 +223,19 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 ## Spawn Aura Tanking
 
-**By:** Aevean Leeow\#1362  
-**Added:** 05/01/2021  
+**By:** Aevean Leeow#1362\
+**Added:** 05/01/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804174551801921536/839374739973210122/transcript-spawn-aura-tanking.html)
 
 **Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
 
-**Evidence:** Damage reduction from DEF is DEF/\(DEF + 5 _enemyLevel + 500\). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs \(eg Miracle is 4_ and thus trades HP for RES\). Shield characters simply max shield scaling stats.
+**Evidence:** Damage reduction from DEF is DEF/(DEF + 5 _enemyLevel + 500). This is 0 when enemyLevel = ∞. Thus DEF is negligible and the 'Tank' builds for shield%, RES%, and HP. Viable artifacts are 2-4Miracle, 2Bolide, and 2TS/2LW. Choices have tradeoffs (eg Miracle is 4_ and thus trades HP for RES). Shield characters simply max shield scaling stats.
 
-Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited \(dendro\). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
+Zhong A2 +25% shield. A4 Diona decreases the enemy atk by 10%, multiplying effective HP by 10/9. C4 Ning +10% element RES. However, Zhong+Ning lose 15% RES from Canopy, meaning only one should be run. Diona, the 2nd best transferable raw Shield behind Zhong, can run Ning, and is superior when element RES% is limited (dendro). Pyro/Cryo run Xinyan/Diona due to 2.5x bonus on their shield.
 
 Razor has +80% RES but his BiS Shield C1 Beidou is small, and RES caps at 140%. Thus Beidou is BiS Electro Tank/Shield.
 
-Each viable combination of artis/comp/etc is compared to find these conclusions in this [spreadsheet](https://docs.google.com/spreadsheets/d/1KZicv_Ww7VQKyhl1uvtxJTT0x3Gb-WPOYAxjD3yaUMY/edit#gid=477783156).
+Each viable combination of artis/comp/etc is compared to find these conclusions in this [spreadsheet](https://docs.google.com/spreadsheets/d/1KZicv\_Ww7VQKyhl1uvtxJTT0x3Gb-WPOYAxjD3yaUMY/edit#gid=477783156).
 
 **Significance:** Why of course, this is incredibly significant and changes everything. In terms of things to build, Diona is a BiS char on every comp. Electro is the cheapest, as Beidou is both Tank and Shield, but is the most specialized. In general, Jean/Summit Shaper is used in 7/8 comps, while Zhong is used in 5/8 comps.
 
@@ -244,20 +245,20 @@ Thus, the question posed is no longer how much damage can you tank from a lv inf
 
 In the first half of the 1.3 update, the Geo rework meant that geo shields would become stronger for non-Geo elements, and weaker against Geo. The implications of this were that while Geo tanking ability became noticably worse, some other elements benefitted greatly. Thanks to Zhongli's new shield totally eclipsing Beidou's C1 shield, Razor became the best Electro tank by far. Due to the new nonspecificity of Geo shields, Geo joined the Hydro and Anemo group, being 72.36% of its former self. In the second half of the 1.3 update, the release of Hu Tao means that her C6 immunity to getting oneshot must also be banned, as it allows her to tank any single hit. However, her state afterwards where she gains +200% RES means she powercreeps every single other tank. Note that the RES cap seems to have been removed, though it is unclear whether it was during Xiao or Hu Tao banner's time period. Furthermore, Hu Tao also has the highest base HP in the game, though this is less significant than her C6 providing +200% RES.
 
-Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield \(Xinyan\), and so does Cryo, with a bigger shield \(Diona\) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
+Note that as a result, Electro is no longer the undisputed king of the element you can tank the most of a single hit from a spawning aura. Pyro is now 1st, with Cryo a bit behind at 2nd, with Electro at 3rd. The other placements relative to each other remain unchanged. Hu Tao's excessive amount of RES means that she faces diminishing returns on RES. Pyro has the advantage of having a dedicated non Zhongli shield (Xinyan), and so does Cryo, with a bigger shield (Diona) as well. Both Electro and Pyro also enjoy their 2set which confers 40% RES. Though Pyro does not have the largest shield, its 40% RES 2set allows it to slightly pull ahead of Cryo, and Cryo is more significantly ahead of Electro. A larger gap also exists between Electro and the rest, due to Electro's 40% RES 2set. Also note that Dendro and Physical have been massively buffed, as it was difficult to acquire RES% for them. Hu Tao has significantly closed the previous gap between these two elements and the rest due to her universal 200% RES buff. Previously, the only source of PHYS RES% was the Protective Canopy Resonance, and the only source of Dendro RES was the Protective Canopy Resonance as well as the Tiny Miracle artifact set.
 
-If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro &gt; Cryo &gt; Electro &gt; Geo = Hydro = Anemo &gt; Dendro &gt; Physical.
+If MHY told you to pick an damage type to tank the most damage from a level ∞ enemy without damage reduction, the tier list is Pyro > Cryo > Electro > Geo = Hydro = Anemo > Dendro > Physical.
 
 ## Climbing the Frostbearing Tree
 
-**By:** Aevean Leeow\#1362  
+**By:** Aevean Leeow#1362\
 **Added:** 03/23/2021
 
 **Theory:** Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
 **Evidence:** Kaeya, a free character, is used. This is not to imply that other free characters cannot climb the tree, and it is highly likely that other characters can also perform this feat. This evidence merely demonstrates that climbing the tree under the previously mentioned limitations is indeed possible. No food buffs/resonances/etc are used.
 
-Step 1. Climb the trunk by holding forward and spamming the jump button. This is precise and can take many attempts. [\(https://www.youtube.com/watch?v=GRvU5e4B7GA](https://www.youtube.com/watch?v=GRvU5e4B7GA)
+Step 1. Climb the trunk by holding forward and spamming the jump button. This is precise and can take many attempts. [(https://www.youtube.com/watch?v=GRvU5e4B7GA](https://www.youtube.com/watch?v=GRvU5e4B7GA)
 
 Step 1.5. Walk and jump up to scale the tree. [https://www.youtube.com/watch?v=OaGtJvQHBdQ](https://www.youtube.com/watch?v=OaGtJvQHBdQ)
 
@@ -274,108 +275,111 @@ Being at a greater height confers immense benefits. Those at a significant heigh
 Also, you can perform a plunging attack off of the tree.
 
 ## Cancelling Abilities
+
 Note: This is a merge of 2 tickets
 
-**By:** Ayzel\#7399, sexyeboy69\#4338, Aluminum\#5462  
-**Added:** 6/23/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)  
+**By:** Ayzel#7399, sexyeboy69#4338, Aluminum#5462\
+**Added:** 6/23/2021\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842094899204587580/857414437437964348/transcript-all-the-cancelling.html)
 
-**Finding:**  
-For some characters, if they use an elemental skill or burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill or burst as if it activated, which causes effects like Crimson Witch 4-piece to stack or can trigger effects like 4-piece Noblesse Oblige.
+**Finding:**\
+For some characters, if they use an elemental skill or burst and use a dialogue box at the same time (pressing F and E at the same time for PC users), while the skill will not activate (and as such the skill cooldown will not start), the game will still "treat" the skill or burst as if it activated, which causes effects like Crimson Witch 4-piece to stack or can trigger effects like 4-piece Noblesse Oblige.
 
-**Evidence:**  
-Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)   
-Talking to NPC cancel by sexyeboy69: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842095318639181834/Genshin_Impact_2021-05-12_13-43-52.mp4)  
-Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842106461378969640/Poggers_poster_cancel.mp4)
+**Evidence:**\
+Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)\
+Talking to NPC cancel by sexyeboy69: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842095318639181834/Genshin\_Impact\_2021-05-12\_13-43-52.mp4)\
+Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842106461378969640/Poggers\_poster\_cancel.mp4)
 
-**Significance:**  
-New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
+**Significance:**\
+New theoretical highest DPS ceiling for some units who aren't able to typically stack CW (like Hu Tao and Xiangling). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
 
 ## Harpastum Cancel
 
-**By:** Episodde#8962  
-**Added:** 6/26/2021  
+**By:** Episodde#8962\
+**Added:** 6/26/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853961397059059722/858414283258855464/transcript-harpastum-cancel.html)
 
-**Finding:**  
+**Finding:**\
 Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental skill is not usable, such as while performing a charge attack.
 
-**Evidence:**  
-Harpastum cancel demo: [Video](https://imgur.com/g4VzQqE)  
-Harpastum cancel frame counts: [Google Sheets](https://docs.google.com/spreadsheets/d/18m1YqErwXnFxVE6NlGp20yYHKt6byt9gT_OVK6gKsEc/edit)  
+**Evidence:**\
+Harpastum cancel demo: [Video](https://imgur.com/g4VzQqE)\
+Harpastum cancel frame counts: [Google Sheets](https://docs.google.com/spreadsheets/d/18m1YqErwXnFxVE6NlGp20yYHKt6byt9gT\_OVK6gKsEc/edit)\
 Unable to use harpastum cancel during charge attack: [Video](https://imgur.com/1hYi0s0)
 
-**Significance:**  
+**Significance:**\
 Because you can use the gadget in combat, holding the skill button while having the Harpastum equipped act as a quick skill animation cancels, that are are quicker than jump cancels, and does not cost stamina like dash cancels. This can potentially help melee character that prefer to not finish their attack combo due to long animation, such as Razor in the open world.
 
-## Hilichurls sleep  
+## Hilichurls sleep
 
-**By:** HailCorporate\#2970  
-**Added:** 01/18/2021  
+**By:** HailCorporate#2970\
+**Added:** 01/18/2021
 
-**Finding:**  
-Hilichurls sleep.  
+**Finding:**\
+Hilichurls sleep.
 
-**Evidence:**  
-[Video of two Hilichurls laying on the ground under a Sunsettia Tree in the outskirts of Mondstadt.](https://www.youtube.com/watch?v=BnZqCBX9iLM)  
-All other Audio has been reduced leaving only SFX, which has been increased during editing (Sound Warning: the Hilichurls wake up at the end).  
-You can clearly hear both Hilicurls snoring as they enjoy their afternoon nap.  
+**Evidence:**\
+[Video of two Hilichurls laying on the ground under a Sunsettia Tree in the outskirts of Mondstadt.](https://www.youtube.com/watch?v=BnZqCBX9iLM)\
+All other Audio has been reduced leaving only SFX, which has been increased during editing (Sound Warning: the Hilichurls wake up at the end).\
+You can clearly hear both Hilicurls snoring as they enjoy their afternoon nap.
 
-**Significance:**  
-Even the Hilichurls are taking it easy, don't forget to take a break from the game now and then.  
+**Significance:**\
+Even the Hilichurls are taking it easy, don't forget to take a break from the game now and then.
 
+## 4pc Gambler and Sacrificial Weapons Wildlife Interaction
 
-## 4pc Gambler and Sacrificial Weapons Wildlife Interaction  
-
-**By:** Mcpie#8672  
-**Added:** 08/17/2021  
+**By:** Mcpie#8672\
+**Added:** 08/17/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876373145655869460/877095617246167050/transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
 
-**Finding:**  
+**Finding:**\
 Sacrificial weapons passives and Gambler 4p effect triggers on fowl and raw meat sources, but does not trigger on critters (entire "Other" category from the archive).
 
-**Evidence:**  
-Triggers on (fowl/raw meat sources):  
-- Foxes: [Imgur](https://i.imgur.com/ryawqXu.mp4) (displays only 4p gambler)  
-- Boars: [Imgur](https://i.imgur.com/3k3R1B1.mp4) (sac sword trigger), [Imgur](https://i.imgur.com/xBzadvR.mp4) (gambler trigger)  
-- Birds: [Imgur](https://i.imgur.com/iKMO4MP.mp4) (gambler trigger)  
-- Squirrels: [Imgur](https://i.imgur.com/V9ItTY3.mp4) (sac sword trigger)  
+**Evidence:**\
+Triggers on (fowl/raw meat sources):
 
-Does not trigger on (probably entire "Other" category)  
-- Crabs: [Imgur](https://i.imgur.com/S4K0smH.mp4)  
-- Lizards: [Imgur](https://i.imgur.com/VikTmNG.mp4)  
-- Crystalflies [Imgur](https://i.imgur.com/Uur4EOw.mp4)  
-- Fireflies: [Imgur](https://i.imgur.com/VikTmNG.mp4) (very end of video)  
+* Foxes: [Imgur](https://i.imgur.com/ryawqXu.mp4) (displays only 4p gambler)
+* Boars: [Imgur](https://i.imgur.com/3k3R1B1.mp4) (sac sword trigger), [Imgur](https://i.imgur.com/xBzadvR.mp4) (gambler trigger)
+* Birds: [Imgur](https://i.imgur.com/iKMO4MP.mp4) (gambler trigger)
+* Squirrels: [Imgur](https://i.imgur.com/V9ItTY3.mp4) (sac sword trigger)
 
-**Significance:**  
-Wildlife that act as an interactable item pick-up (material sources) behave differently from  wildlife that drop items (birds and beasts).
+Does not trigger on (probably entire "Other" category)
 
-## Use any expressions you want in Photo Mode  
+* Crabs: [Imgur](https://i.imgur.com/S4K0smH.mp4)
+* Lizards: [Imgur](https://i.imgur.com/VikTmNG.mp4)
+* Crystalflies [Imgur](https://i.imgur.com/Uur4EOw.mp4)
+* Fireflies: [Imgur](https://i.imgur.com/VikTmNG.mp4) (very end of video)
 
-**By:** ZyronX#2720  
-**Added:** 09/25/2021  
+**Significance:**\
+Wildlife that act as an interactable item pick-up (material sources) behave differently from wildlife that drop items (birds and beasts).
+
+## Use any expressions you want in Photo Mode
+
+**By:** ZyronX#2720\
+**Added:** 09/25/2021\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888535890190811136/891152940641951785/transcript-use-different-expressions-in-photo-mode.html)
 
-**Finding:**  
+**Finding:**\
 In high ping environment, switching character take some amount of time. Assuming you switch from A to B. If you use switching duration to enter photo mode, you can use expressions from character A on character B.
 
-**Evidence:**  
+**Evidence:**\
 [Video](https://youtu.be/Vrq68dozj3k)
 
-**Significance:**  
+**Significance:**\
 Smiling Ei UwU
 
 ## Narukami Shrine Fortune Slip Probabilities
 
-**By:** mmjacobs\#9588  
-**Added:** 11/11/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896487806543724604/908520683506630697/transcript-narukami-shrine-fortune-slip-probabilities.html)  
+**By:** mmjacobs#9588\
+**Added:** 11/11/2021\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896487806543724604/908520683506630697/transcript-narukami-shrine-fortune-slip-probabilities.html)
 
-**Finding:**  
-There are 16 possible fortune slip results, each with a unique lucky item. The probability of each fortune slip result (and therefore each lucky item) is equal. This means that for the 16 possible slip results, each one has a 1/16 chance to be received, or a 6.25% probability.  
+**Finding:**\
+There are 16 possible fortune slip results, each with a unique lucky item. The probability of each fortune slip result (and therefore each lucky item) is equal. This means that for the 16 possible slip results, each one has a 1/16 chance to be received, or a 6.25% probability.
 
 Not all fortune slips share the same fortune type however. For example, there is only one fortune slip that is a great misfortune, but there are four fortune slips that are a great fortune. This means that the odds of getting a great fortune is 4 times as likely. The likelihood of each fortune type is the following:
+
 * Great Misfortune = 1/16 = 6.25%
 * Misfortune = 2/16 = 12.5%
 * Rising Fortune = 2/16 = 12.5%
@@ -383,22 +387,22 @@ Not all fortune slips share the same fortune type however. For example, there is
 * Good Fortune = 3/16 = 18.75%
 * Great Fortune = 4/16 = 25%
 
-**Evidence:**  
-[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSctTPheCZ15hBw09qQ5yFAuLuVdGXomDwNGLrE1V1C6ROgTmg/viewform)  
-[Data Results](https://docs.google.com/spreadsheets/d/1ghne6fus5oOpFukS33K6hd_XCWIbSzgw9fTglfNChJ8/edit#gid=870834050)  
+**Evidence:**\
+[Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSctTPheCZ15hBw09qQ5yFAuLuVdGXomDwNGLrE1V1C6ROgTmg/viewform)\
+[Data Results](https://docs.google.com/spreadsheets/d/1ghne6fus5oOpFukS33K6hd\_XCWIbSzgw9fTglfNChJ8/edit#gid=870834050)
 
-645 fortune slip results were collected over 1 month, and a histogram of the counts per lucky item was created. When graphed from great misfortune up to great fortune, the counts are roughly even showing no clear trend (see red trendline): [Imgur](https://imgur.com/mAkrj53)    
+645 fortune slip results were collected over 1 month, and a histogram of the counts per lucky item was created. When graphed from great misfortune up to great fortune, the counts are roughly even showing no clear trend (see red trendline): [Imgur](https://imgur.com/mAkrj53)
 
-The lowest occurring item was the Curly Lizard Tail (Great Misfortune) at 5.1%. The highest occurring item was the Fallen Pinecone (Modest Fortune) at 7.8%. Variability in the data is attributed to the natural randomness in the slips: [Imgur](https://imgur.com/DMz5T6D)  
+The lowest occurring item was the Curly Lizard Tail (Great Misfortune) at 5.1%. The highest occurring item was the Fallen Pinecone (Modest Fortune) at 7.8%. Variability in the data is attributed to the natural randomness in the slips: [Imgur](https://imgur.com/DMz5T6D)
 
-When graphed by fortune type, the modest and great fortunes are the most likely, and the great misfortune is the least likely: [Imgur](https://imgur.com/aQqkUVM)  
+When graphed by fortune type, the modest and great fortunes are the most likely, and the great misfortune is the least likely: [Imgur](https://imgur.com/aQqkUVM)
 
-**Significance:**  
-Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "Just My Luck..." achievement. There is a 25% chance to get the Great Fortune, which means that 50% of people will get the "Paimon's Lucky Day!" by their 3rd slip. There is only a 6.25% chance of getting the Great Misfortune, which means that 50% of people will get the "Just My Luck..." by their 11th slip. This means that most people will be able to get both achievements within two weeks.  
+**Significance:**\
+Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "Just My Luck..." achievement. There is a 25% chance to get the Great Fortune, which means that 50% of people will get the "Paimon's Lucky Day!" by their 3rd slip. There is only a 6.25% chance of getting the Great Misfortune, which means that 50% of people will get the "Just My Luck..." by their 11th slip. This means that most people will be able to get both achievements within two weeks.
 
 ## Fruit can stick to ground when left unattended
 
-**By:** vinsette\#0293
+**By:** vinsette#0293
 
 **Added:** 12/13/2021
 
@@ -412,412 +416,437 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 
 ## Enemy level vs. average party level
 
-**By:** r.rei\#2844  
-**Added:** 12/19/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920224953935216670/921938746549608480/transcript-enemy-level-vs-average-party-level.html)  
+**By:** r.rei#2844\
+**Added:** 12/19/2021\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920224953935216670/921938746549608480/transcript-enemy-level-vs-average-party-level.html)
 
-**Findings:**   
+**Findings:**
+
 * Enemy level colour is based on your highest owned character level, and current team level is irrelevant.
-* Enemy defense is based on the difference of level to the character attacking, the colour of enemy level does not affect that. 
-* Average party level warning/zone level warning is a lie, only highest level character is accounted for.  
+* Enemy defense is based on the difference of level to the character attacking, the colour of enemy level does not affect that.
+* Average party level warning/zone level warning is a lie, only highest level character is accounted for.
 
-**Evidence:** [Imgur](https://imgur.com/a/0wWvY56)  
+**Evidence:** [Imgur](https://imgur.com/a/0wWvY56)\
 First recording Thoma E damage aligns with 2nd damage calculation, proves that enemy level colour indicator has nothing to do with enemy defense calculation: [Imgur](https://imgur.com/a/biAv7pk)
 
-**Significance:**  
+**Significance:**
+
 * To get rid of "Dangerous Zone" warning, you only need to level one character.
 * Enemy level colour is an unreliable indicator.
 
-## All Models Can Roll In Place  
-**By:** Mcpie\#8672  
-**Added:** 1/10/2022  
+## All Models Can Roll In Place
+
+**By:** Mcpie#8672\
+**Added:** 1/10/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185933952159755/930084965645967420/transcript-all-models-can-roll-in-place.html)
 
-**Finding:**  
-Every character model is capable of rolling in place.  
-In order to perform it, you need enough movement speed and then proceed to jump from being idle -> hold W while falling.  
+**Finding:**\
+Every character model is capable of rolling in place.\
+In order to perform it, you need enough movement speed and then proceed to jump from being idle -> hold W while falling.
 
-Depending on character model, you need up to:  
-* Child female - 10%  
-* Adult female - 10%  
-* Adult male - 25%  
-* Teen male - 35%  
-* Teen female - 35%  
-movement speed in order to roll. These are upper bounds and it might be possible to roll with lower values but way harder to execute.
+Depending on character model, you need up to:
 
-**Evidence:**  
-* [Adult male](https://youtu.be/5i_AFRe35ck)
+* Child female - 10%
+* Adult female - 10%
+* Adult male - 25%
+* Teen male - 35%
+* Teen female - 35%\
+  movement speed in order to roll. These are upper bounds and it might be possible to roll with lower values but way harder to execute.
+
+**Evidence:**
+
+* [Adult male](https://youtu.be/5i\_AFRe35ck)
 * [Adult female](https://youtu.be/nq3rgd3czz8)
 * [Teen male](https://youtu.be/enmeL7TYBGY)
 * [Teen female](https://youtu.be/nq3rgd3czz8)
 * [Child female](https://youtu.be/0kSxjTp96LM)
 
-**Significance:**  
+**Significance:**\
 Fluff, but might somehow help out with model differences in the future.
 
-## Kamera Gadget Knockback Cancel  
-**By:** JoJoCheck\#4450  
-**Added:** 1/10/2022  
+## Kamera Gadget Knockback Cancel
+
+**By:** JoJoCheck#4450\
+**Added:** 1/10/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/925335438003150848/930089635097497650/transcript-kamera-gadget-knockback-cancel.html)
 
-**Finding:**  
-Kamera Gadget can cancel knockback.  
-Both the Kamera gadget as well as the Special Kamera gadget can be used to "cancel" knockback (instead of flying through the air, the character slides backwards). It can also be used to cancel a dash off of a ledge or the bounce of Bennetts charge level 2 (which seems to behave identical to receiving knockback).  
+**Finding:**\
+Kamera Gadget can cancel knockback.\
+Both the Kamera gadget as well as the Special Kamera gadget can be used to "cancel" knockback (instead of flying through the air, the character slides backwards). It can also be used to cancel a dash off of a ledge or the bounce of Bennetts charge level 2 (which seems to behave identical to receiving knockback).\
 To do this, you have to take a picture at the moment where you get hit/leap off a ledge. The method used is to take photos in rapid succession, by pressing "esc" and "y" quickly after one another. This makes timing the photo easier.
 
-**Evidence:** 
+**Evidence:**
+
 * Ledge dash cancel: [Youtube](https://www.youtube.com/watch?v=aLx8utxbcrk)
 * Knockback cancel: [Youtube](https://www.youtube.com/watch?v=-2l4DQ1DyJ4)
 * Bennett charge level 2 cancel: [Youtube](https://www.youtube.com/watch?v=pR-DhOPOqhk)
 
-**Significance:**  
+**Significance:**\
 Knockback cancel/Fluff/investigating the influence pausing the game has on certain actions.
 
 ## Traveler Has Hidden Friendship Meter
-**By:** mmjacobs\#9588  
-**Added:** 1/23/2022  
+
+**By:** mmjacobs#9588\
+**Added:** 1/23/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931045505801256971/934607873152012388/transcript-traveler-has-hidden-friendship-meter.html)
 
-**Theory:**  
+**Theory:**\
 Does Traveler have a hidden Friendship meter and gain Friendship?
 
-**Evidence:**  
-When Traveler is compared (i.e. sorted) with other characters with 0 Friendship, Traveler does not show up at the bottom. This might indicate that Traveler has more Friendship points. However, if Traveler (presumably) gains 20 friendship points from a commission and a character with 0 Friendship gains 10 friendship points from an event, Traveler will sort below the other character. This proves that Traveler has less then 10 friendship and thus never gained the 20 friendship points from the commission.
-[Youtube](https://youtu.be/LKc7ZP6P6TY)
+**Evidence:**\
+When Traveler is compared (i.e. sorted) with other characters with 0 Friendship, Traveler does not show up at the bottom. This might indicate that Traveler has more Friendship points. However, if Traveler (presumably) gains 20 friendship points from a commission and a character with 0 Friendship gains 10 friendship points from an event, Traveler will sort below the other character. This proves that Traveler has less then 10 friendship and thus never gained the 20 friendship points from the commission. [Youtube](https://youtu.be/LKc7ZP6P6TY)
 
-**Conclusion:**  
+**Conclusion:**\
 Traveler does not accumulate friendship points, but does sort higher than other characters with zero friendship.
 
-## A Study In Potions - Retry Button Mechanics 	
-**By:** Vye#9195  
-**Added:** 1/28/2022  
+## A Study In Potions - Retry Button Mechanics
+
+**By:** Vye#9195\
+**Added:** 1/28/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929809364825550901/936413828575559700/transcript-a-study-in-potions--retry-button-mechanics.html)
 
-**Finding:**  
+**Finding:**\
 The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
 
-**Evidence:**  
-[Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)  
+**Evidence:**\
+[Google Doc](https://docs.google.com/spreadsheets/d/1eYvgX2WSqEFXtQEuuwlI9nYveeaWUSe-grQ2Lx59zVY/edit?usp=sharing)\
 provided by ItzSomebody#0029, yolitme0#0579 (ty for compiling sheet) and ShampooBrain#9583
 
-**Significance:**   
+**Significance:**\
 Mihoyo apparently can implement a full reset button for a small event but cannot do so in the abyss which does not fully reset you. They are either incompetent, tone-deaf, lazy or simply don't give a damn. But next time there is a survey maybe let them know about this utter and complete nonsense.
 
-## Portable Waypoint Bug  
-**By:** Sherbs\#2029  
-**Added:** 01/27/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934702460117856309/936406179373002782/transcript-portable-waypoint-interactions.html)  
+## Portable Waypoint Bug
 
-**Bug:**  
-When teleporting from a location with permanent weather or other effects on the map (such as lightning) to a Portable Waypoing in certain areas above or below the water (portions of the map that were added in 2.0 or zones that would get Paimon to yell at you if you went to far prior to 2.0), the game will transfer said effects to where the Portable Waypoint is located. These effects include permanent weather, lightning, wisps, and more. Prior to Patch 2.4b this would also replace the icon on the loading screen with the starting location instead of where the Portable Waypoint is placed. 
+**By:** Sherbs#2029\
+**Added:** 01/27/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934702460117856309/936406179373002782/transcript-portable-waypoint-interactions.html)
 
-**Evidence:**  
-Tutorial: [YouTube](https://youtu.be/cS2s1rRVb0A)  
-Photos:  
-* Teleporting from the Pyro Regisvine to The Crux: [Photo](https://imgur.com/w4WEcdR)  
-* Teleporting from Seirai Island facing The Crux: [Photo](https://imgur.com/VfXS4y2)  
-* Teleporting from Yashiori Island to the middle of the ocean: [Photo](https://imgur.com/RPm1jiL)  
-* Teleporting from Chinju Forest to The Crux: [Photo](https://imgur.com/k0WqHQW)  
+**Bug:**\
+When teleporting from a location with permanent weather or other effects on the map (such as lightning) to a Portable Waypoing in certain areas above or below the water (portions of the map that were added in 2.0 or zones that would get Paimon to yell at you if you went to far prior to 2.0), the game will transfer said effects to where the Portable Waypoint is located. These effects include permanent weather, lightning, wisps, and more. Prior to Patch 2.4b this would also replace the icon on the loading screen with the starting location instead of where the Portable Waypoint is placed.
 
-**Significance:**  
+**Evidence:**\
+Tutorial: [YouTube](https://youtu.be/cS2s1rRVb0A)\
+Photos:
+
+* Teleporting from the Pyro Regisvine to The Crux: [Photo](https://imgur.com/w4WEcdR)
+* Teleporting from Seirai Island facing The Crux: [Photo](https://imgur.com/VfXS4y2)
+* Teleporting from Yashiori Island to the middle of the ocean: [Photo](https://imgur.com/RPm1jiL)
+* Teleporting from Chinju Forest to The Crux: [Photo](https://imgur.com/k0WqHQW)
+
+**Significance:**\
 For travelers who would like to have specific lighting on The Crux for photo contests.
 
 ## Hidden wall clip spot in Liyue Merchant Stall
-**By:** Artellio\#4479  
-**Added:** 02/08/2022  
+
+**By:** Artellio#4479\
+**Added:** 02/08/2022\
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934639679863676978/940718218228682762/transcript-liyue-merchants-stall-wall-clip-hidden-spot.html)
 
-**Finding:** A hidden spot in Liyue allows you to clip into the walls, and enter a hidden boxed area. Once you enter the area, you’ll be able to see outside the box, but others cannot see in. This spot also features an infinite fall/plunge area easy accessed by inch-walking towards the crevice. 
-To enter this area, teleport to the northwestern TP of Liyue Harbor, head northwest and head towards the water. Follow the video in evidence for further instructions. You should be able to go to the corner, jump-climb up, and jump-climb left. Note that if you infinite plunge, you will be stuck. You may also be viewed from below when in the fall area. 
+**Finding:** A hidden spot in Liyue allows you to clip into the walls, and enter a hidden boxed area. Once you enter the area, you’ll be able to see outside the box, but others cannot see in. This spot also features an infinite fall/plunge area easy accessed by inch-walking towards the crevice. To enter this area, teleport to the northwestern TP of Liyue Harbor, head northwest and head towards the water. Follow the video in evidence for further instructions. You should be able to go to the corner, jump-climb up, and jump-climb left. Note that if you infinite plunge, you will be stuck. You may also be viewed from below when in the fall area.
 
-**Evidence:**  
+**Evidence:**\
 [Youtube](https://youtu.be/X52VPlJzNVw)\
-Provided by Aluminum\#5462
+Provided by Aluminum#5462
 
-**Significance:**  
+**Significance:**\
 Fluff.
 
 ## Daily Elite Cap and Common Mob Cap
-**By:** DoombringerEX\#8888  
-**Added:** 02/10/2022  
-[Discussion](tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921098493890801725/940728656337191003/transcript-daily-elite-cap-and-common-mob-cap.html)  
 
-**Finding:**  
-The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.  
+**By:** DoombringerEX#8888\
+**Added:** 02/10/2022\
+[Discussion](tickettool.xyz/direct)
 
-**Evidence:**  
-Elites and common mobs capped on December 20, 2021: [Google Sheets](https://docs.google.com/spreadsheets/d/1J5seFOf4uAEzI_rfnxth511lm1F3uKPfS7vtBlrn4M8/edit#gid=985319600)  
-* Elites: received Mora amount to 200, 400, or 600; 400 times.  
-* Common mobs: received Mora amount to <199; 1999 times.  
+**Finding:**\
+The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.
 
-**Significance:**  
+**Evidence:**\
+Elites and common mobs capped on December 20, 2021: [Google Sheets](https://docs.google.com/spreadsheets/d/1J5seFOf4uAEzI\_rfnxth511lm1F3uKPfS7vtBlrn4M8/edit#gid=985319600)
+
+* Elites: received Mora amount to 200, 400, or 600; 400 times.
+* Common mobs: received Mora amount to <199; 1999 times.
+
+**Significance:**\
 The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000. It is possible that some Mora is missed when teleporting in single player; time is paused when using the map in single player and Mora may not have reached the active character in time.
 
 ## Plunge Attack Max Fall DMG Cap
-**By:** TheFirstRapher\#9207  
-**Added:** 02/10/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938676862769565726/941446808155074581/transcript-plunge-attack-max-fall-dmg-cap.html)  
 
-**Finding:**  
-Plunging at any height will normally have a damage cap of about 40% of the character's Max HP.  
+**By:** TheFirstRapher#9207\
+**Added:** 02/10/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938676862769565726/941446808155074581/transcript-plunge-attack-max-fall-dmg-cap.html)
 
-**Evidence:**  
-The plunge took place at an arbitrary height I thought to be extremely high after gliding a bit away from Qingyun Peak. The test plunge had Beidou at 18350 HP as max and pre-plunge HP, after the plunge her HP was 10966, which means she lost 40.2% of her max HP. The test was also carried out with Yanfei who had 6532 max HP, she lost 40.2% when starting with 100% and 40.9% HP, and died when plunging with 40.1% HP. This means that if your character's current HP is under ~40% of their max HP, they will die.  
-* Beidou losing 40.2% max HP starting with 100% max HP: [Video](https://youtu.be/vvYVfcY6hmY?t=51)  
-* Yanfei losing 40.2% max HP starting with 100% max HP: [Video](https://www.youtube.com/watch?v=QuAzvs916ws)  
-* Yanfei losing 40.2% max HP starting with 40.9% max HP: [Video](https://www.youtube.com/watch?v=4scyvtJJS7U)  
-* Yanfei dying, starting with 40.1% max HP: [Video](https://youtu.be/pHQoT2AAtpM)  
+**Finding:**\
+Plunging at any height will normally have a damage cap of about 40% of the character's Max HP.
 
-**Significance:**  
+**Evidence:**\
+The plunge took place at an arbitrary height I thought to be extremely high after gliding a bit away from Qingyun Peak. The test plunge had Beidou at 18350 HP as max and pre-plunge HP, after the plunge her HP was 10966, which means she lost 40.2% of her max HP. The test was also carried out with Yanfei who had 6532 max HP, she lost 40.2% when starting with 100% and 40.9% HP, and died when plunging with 40.1% HP. This means that if your character's current HP is under \~40% of their max HP, they will die.
+
+* Beidou losing 40.2% max HP starting with 100% max HP: [Video](https://youtu.be/vvYVfcY6hmY?t=51)
+* Yanfei losing 40.2% max HP starting with 100% max HP: [Video](https://www.youtube.com/watch?v=QuAzvs916ws)
+* Yanfei losing 40.2% max HP starting with 40.9% max HP: [Video](https://www.youtube.com/watch?v=4scyvtJJS7U)
+* Yanfei dying, starting with 40.1% max HP: [Video](https://youtu.be/pHQoT2AAtpM)
+
+**Significance:**\
 Plunging provides a speedier way of getting down from a high place without dying as long as you have enough HP.
 
 ## Bokuso Box Crit Rate and Damage Scale off of Character Stats
 
-**By:** melon\#9323  
-**Added:** 03/03/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949479240284401744/transcript-bokuso-box-crit-scales-off-character.html)  
+**By:** melon#9323\
+**Added:** 03/03/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949479240284401744/transcript-bokuso-box-crit-scales-off-character.html)
 
-**Finding:**  
-Bokuso Box Crit Rate and damage scale off of character stats.  
+**Finding:**\
+Bokuso Box Crit Rate and damage scale off of character stats.
 
-**Evidence:**  
-[YouTube video](https://youtu.be/SOz8PC2UiDU)  
+**Evidence:**\
+[YouTube video](https://youtu.be/SOz8PC2UiDU)
 
-**Significance:**  
-Affects Favonius passive procs and if you want to kill enemies with the box.  
+**Significance:**\
+Affects Favonius passive procs and if you want to kill enemies with the box.
 
 ## Stoves of Babel
 
-**By:** Aevean Leeow\#1362  
-**Added:** 03/16/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953817891340435487/transcript-stoves-of-babel.html)  
+**By:** Aevean Leeow#1362\
+**Added:** 03/16/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953817891340435487/transcript-stoves-of-babel.html)
 
-**Finding:**  
-Using stoves and Geo Constructs, a traveler may near indefinitely ascend to Celestia until they are out of stoves.  
+**Finding:**\
+Using stoves and Geo Constructs, a traveler may near indefinitely ascend to Celestia until they are out of stoves.
 
-Constructing the stairway to heaven:  
+Constructing the stairway to heaven:
 
-Multiplayer:  
-* Requirements: Stoves, 1 Albedo.  
-* Recommended: 2 party members with Albedo, Parametric Transformer.  
-* Steps:  
-  1\. Player places stove1.  
-  2\. Place construct1 on stove1.  
-  3\. Everyone in the party gets on construct1.  
-  4\. A different player places stove2. Idling for some time before doing so is recommended, to make later timings more lenient.  
-  5\. Place construct2 on stove2.  
-  6\. Everyone in the party gets on construct2.  
-  7\. Repeat these steps until all co-op players have placed their stoves.  
-  8\. Continually replace the construct that the party is standing on until a player's stove expires \(5 minutes\). This allows for that player to place a new stove. So far, the only construct capable of this is Albedo E.   
-  8\.5\. Optional step: if using Albedo E, place a Parametric Transformer to prevent the elevator from ascending to make refreshing the construct easier. When its time to place the next stove, retrieve the Parametric Transformer to gain more height from elevation.  
-  9\. Repeat steps 1\-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.  
+Multiplayer:
 
-  Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replacable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards. 
- 
-Singleplayer:  
-* Requirements:  
-  * Stoves, Albedo, Parametric Transformer. 
-  * Geo Traveler or Zhongli \(as of Patch 2.5, these two are the only ones who can perform step 8 to my knowledge\).  
-* Steps:  
-  1\. Place stove.  
-  2\. Place Albedo E on stove.  
-  3\. Get on the albedo construct.  
-  4\. Idle until <30 seconds \(I recommend ~10 seconds\) left on the stove CD.  Note that falling onto the stove directly from the flower keeps you on the flower. Also note that stove CD ticks down while the game is paused.  
-  5\. Place a new Albedo flower on the stove you're on.  
-  6\. Place a Parametric Transformer to prevent the elevator from ascending. This will "snapshot" its stability, and allow the flower to float in midair after the stove expires.  
-  7\. Place a new stove.  
-  8\.a\. Option 1: Place a Geo Traveler E on the side of the stove, angled as perpendicular as possible to the upright stove. Stand at the edge, directly over the stove. After the boulder expires, the player will land and stay on the stove.  
-  8\.b\. Option 2: Zhongli E placed precisely so it lands on the stove at an angle. After the pillar expires, the player will land and stay on the stove. Use NA/CAs to place characters at the edge of the flower, to place the stove and Zhongli opposite of each other.  
-  9\. Swap to Albedo. Retrieve Parametric Transformer.  
-  10\. Repeat steps 4\-9. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.  
+* Requirements: Stoves, 1 Albedo.
+* Recommended: 2 party members with Albedo, Parametric Transformer.
+*   Steps:\
+    1\. Player places stove1.\
+    2\. Place construct1 on stove1.\
+    3\. Everyone in the party gets on construct1.\
+    4\. A different player places stove2. Idling for some time before doing so is recommended, to make later timings more lenient.\
+    5\. Place construct2 on stove2.\
+    6\. Everyone in the party gets on construct2.\
+    7\. Repeat these steps until all co-op players have placed their stoves.\
+    8\. Continually replace the construct that the party is standing on until a player's stove expires (5 minutes). This allows for that player to place a new stove. So far, the only construct capable of this is Albedo E.\
+    8.5. Optional step: if using Albedo E, place a Parametric Transformer to prevent the elevator from ascending to make refreshing the construct easier. When its time to place the next stove, retrieve the Parametric Transformer to gain more height from elevation.\
+    9\. Repeat steps 1-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.
 
-**Evidence:**  
-Multiplier:  
-* Proof of concept demo, one cycle: [YouTube video](https://www.youtube.com/watch?v=IGINHKuzA2s)  
+    Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replacable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards.
 
-Singleplayer:  
-* Proof of concept demo, one cycle: [YouTube video](https://youtu.be/brmzGS5oCJQ)  
-* Zhongli alternative proof of concept: [YouTube video](https://youtu.be/90EkpyJKefE)  
+Singleplayer:
 
-**Significance:**  
-1 Now the whole of Teyvat had one language and a common speech. 2 As people moved eastward, they found a plain in Khaenri'ah and settled there.  
+* Requirements:
+  * Stoves, Albedo, Parametric Transformer.
+  * Geo Traveler or Zhongli (as of Patch 2.5, these two are the only ones who can perform step 8 to my knowledge).
+* Steps:\
+  1\. Place stove.\
+  2\. Place Albedo E on stove.\
+  3\. Get on the albedo construct.\
+  4\. Idle until <30 seconds (I recommend \~10 seconds) left on the stove CD. Note that falling onto the stove directly from the flower keeps you on the flower. Also note that stove CD ticks down while the game is paused.\
+  5\. Place a new Albedo flower on the stove you're on.\
+  6\. Place a Parametric Transformer to prevent the elevator from ascending. This will "snapshot" its stability, and allow the flower to float in midair after the stove expires.\
+  7\. Place a new stove.\
+  8.a. Option 1: Place a Geo Traveler E on the side of the stove, angled as perpendicular as possible to the upright stove. Stand at the edge, directly over the stove. After the boulder expires, the player will land and stay on the stove.\
+  8.b. Option 2: Zhongli E placed precisely so it lands on the stove at an angle. After the pillar expires, the player will land and stay on the stove. Use NA/CAs to place characters at the edge of the flower, to place the stove and Zhongli opposite of each other.\
+  9\. Swap to Albedo. Retrieve Parametric Transformer.\
+  10\. Repeat steps 4-9. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.
 
-3 They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar. 4 Then they said, “Come, let us build ourselves a city, with a tower that reaches to the stars and the abyss, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole of Teyvat.”  
+**Evidence:**\
+Multiplier:
 
-5 But the Sustainer of Heavenly Principles came down from Celestia to see the city and the tower the people were building. 6 The Sustainer said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them. 7 Come, let us go down and confuse their language so they will not understand each other.”  
+* Proof of concept demo, one cycle: [YouTube video](https://www.youtube.com/watch?v=IGINHKuzA2s)
 
-8 So the Sustainer scattered them from there over all the Abyss, and they stopped building the city. 9 That is why it was called Babel—because there the Sustainer confused the language of the whole world. From there the Sustainer scattered them over the face of the Abyss.  
+Singleplayer:
+
+* Proof of concept demo, one cycle: [YouTube video](https://youtu.be/brmzGS5oCJQ)
+* Zhongli alternative proof of concept: [YouTube video](https://youtu.be/90EkpyJKefE)
+
+**Significance:**\
+1 Now the whole of Teyvat had one language and a common speech. 2 As people moved eastward, they found a plain in Khaenri'ah and settled there.
+
+3 They said to each other, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar. 4 Then they said, “Come, let us build ourselves a city, with a tower that reaches to the stars and the abyss, so that we may make a name for ourselves; otherwise we will be scattered over the face of the whole of Teyvat.”
+
+5 But the Sustainer of Heavenly Principles came down from Celestia to see the city and the tower the people were building. 6 The Sustainer said, “If as one people speaking the same language they have begun to do this, then nothing they plan to do will be impossible for them. 7 Come, let us go down and confuse their language so they will not understand each other.”
+
+8 So the Sustainer scattered them from there over all the Abyss, and they stopped building the city. 9 That is why it was called Babel—because there the Sustainer confused the language of the whole world. From there the Sustainer scattered them over the face of the Abyss.
 
 ## Passive Activation Distance
 
-**By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
-**Added:** 03/16/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953782289911918623/transcript-passive-activation-distance-limit.html)  
+**By:** EdisonsMathsClub#6469, ItzSomebody#0029, Rito#9691, Madrigal#7486, milk tea romance#9022, Peekays#2722\
+**Added:** 03/16/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953782289911918623/transcript-passive-activation-distance-limit.html)
 
-**Finding:**  
-Certain effects have activation distance limits that prevent them from working.  
+**Finding:**\
+Certain effects have activation distance limits that prevent them from working.
 
-**Evidence:**  
+**Evidence:**
+
 * Limited Distance:
   * [4VV](https://youtu.be/xDsbT22fALU)
   * [4Ins](https://youtu.be/z4sMcRn66cQ)
-  * [4TF \(cooldown reduction\)](https://youtu.be/PxjsxltFRZU)
+  * [4TF (cooldown reduction)](https://youtu.be/PxjsxltFRZU)
   * [Electro Resonance](https://youtu.be/KB1I4vSoD0s)
 * Unlimited Distance:
   * [Superconduct](https://youtu.be/yhatJ3jA6jI)
   * [4LW and 4TS](https://youtu.be/5F9EYgilqgY)
-  * [4TF \(reaction DMG Bonus\)](https://youtu.be/lmj3-1Kuv-c)
-  * [4CW \(reaction DMG Bonus\)](https://youtu.be/YneWM2o8xiE)
+  * [4TF (reaction DMG Bonus)](https://youtu.be/lmj3-1Kuv-c)
+  * [4CW (reaction DMG Bonus)](https://youtu.be/YneWM2o8xiE)
   * [4TOtM](https://youtu.be/At8W7FVLcI0)
 
-**Significance:**  
-Something to keep in mind when doing long range activities.  
+**Significance:**\
+Something to keep in mind when doing long range activities.
 
 ## Certain Actions Reset Walking Mode
 
-**By:** Madrigal\#7486  
-**Added:** 03/29/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958524651376631877/transcript-certain-actions-reset-walking-mode.html)  
+**By:** Madrigal#7486\
+**Added:** 03/29/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958524651376631877/transcript-certain-actions-reset-walking-mode.html)
 
-**Finding:**  
-Walking mode gets reset to running mode by certain actions on PC, but not on mobile.  
+**Finding:**\
+Walking mode gets reset to running mode by certain actions on PC, but not on mobile.
 
-**Evidence:**  
+**Evidence:**\
 Walking mode reset:
+
 * [No camera angle change with 5\* Elemental Burst on PC](https://youtu.be/OxGYolH85pQ)
 * [Opening UI menu on PC](https://youtu.be/ho4thwKsqdY)
 
 Walking mode persist:
-* [Camera angle change of 5\* Elemental Burst on PC](https://youtu.be/mi9Xe-7zDrc)
-* Any Skill/Burst \(with jump/dash cancel\) on mobile: [Video 1](https://youtu.be/JJJWWCL083Y), [video 2](https://youtu.be/tHvNmXtcYW4)
 
-**Significance:**  
-Crucial knowledge for people doing walking only challenges, ruining any remaining trust in HoYoverse consistency.  
+* [Camera angle change of 5\* Elemental Burst on PC](https://youtu.be/mi9Xe-7zDrc)
+* Any Skill/Burst (with jump/dash cancel) on mobile: [Video 1](https://youtu.be/JJJWWCL083Y), [video 2](https://youtu.be/tHvNmXtcYW4)
+
+**Significance:**\
+Crucial knowledge for people doing walking only challenges, ruining any remaining trust in HoYoverse consistency.
 
 ## Not All Doors Are Equal
 
-**By:** Puffin\#9920  
-**Added:** 03/29/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958514754920525914/transcript-not-all-doors-are-equal.html)  
+**By:** Puffin#9920\
+**Added:** 03/29/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958514754920525914/transcript-not-all-doors-are-equal.html)
 
-**Finding:**  
-The only doors that do the [funny reload thing](#door-load-border-shenanigans) with Elemental Skills and Bursts fit the following conditions:
+**Finding:**\
+The only doors that do the [funny reload thing](miscellaneous-entries.md#door-load-border-shenanigans) with Elemental Skills and Bursts fit the following conditions:
+
 1. Must have an interact prompt to pass through.
 2. Don't reload the whole area around the player when entering/exiting
-3. Are not sliding doors \(Inazuma sliding doors do not work\).
-So far, the only doors that fulfil both those criteria are the three in the Knights of Favonius Office.
+3. Are not sliding doors (Inazuma sliding doors do not work). So far, the only doors that fulfil both those criteria are the three in the Knights of Favonius Office.
 
-**Evidence:**  
-1. [Floating Abode default mansion](https://youtu.be/oi7djy91Erg): None of the doors do the funny reload. Tested with Keqing E, Guoba, and Aloy E \(all three did reload weird in og ticket\).
+**Evidence:**
+
+1. [Floating Abode default mansion](https://youtu.be/oi7djy91Erg): None of the doors do the funny reload. Tested with Keqing E, Guoba, and Aloy E (all three did reload weird in og ticket).
 2. [Cool Isle/Emerald Peak default mansion](https://youtu.be/wrmvyrSEhRU): Doors don't reload funny. Tested with the same abilities as listed in 1.
-3. [Silken Courtyard default mansion](https://youtu.be/kL17J_pKw-A): Doors do not do funny reload thing. Tested with same abilities as in 1.
+3. [Silken Courtyard default mansion](https://youtu.be/kL17J\_pKw-A): Doors do not do funny reload thing. Tested with same abilities as in 1.
 4. [Knights of Favonius](https://youtu.be/djqc2k2yizg): More evidence that the Knight of Favonius doors do the funny reload.
-5. [Wanmin Restaurant](https://youtu.be/VJJ0NMlIToA): It has no interactable prompt to enter/exit, does not do funny reload thing. Tested with same abilities as 1. 
-6. [Kamisato Estate](https://youtu.be/t_LrnVUbwv0): Trying to see if door in the Kamisato Estate does the reload thing. It does not appear to extend timing \(1:05 in video\). Later in video, 1:58, her bombs explode with ~4sec left on her E timer. At 0:42 in the video, I throw Aloy's Skill and try running in/out of one of the doorways in the mansion, which does not reload her bomblets. Interestingly, this video \(0:03 to 0:38\) implies that Skill cooldowns still tick through loading screens. This is probably better tested by someone with faster loading times than me, since for all I know, Aloy's bombs could have been whisked into the void after I exited.
-7. [Inazuma sliding doors](https://youtu.be/O4erjly_U-A): These do not reload funny.
+5. [Wanmin Restaurant](https://youtu.be/VJJ0NMlIToA): It has no interactable prompt to enter/exit, does not do funny reload thing. Tested with same abilities as 1.
+6. [Kamisato Estate](https://youtu.be/t\_LrnVUbwv0): Trying to see if door in the Kamisato Estate does the reload thing. It does not appear to extend timing (1:05 in video). Later in video, 1:58, her bombs explode with \~4sec left on her E timer. At 0:42 in the video, I throw Aloy's Skill and try running in/out of one of the doorways in the mansion, which does not reload her bomblets. Interestingly, this video (0:03 to 0:38) implies that Skill cooldowns still tick through loading screens. This is probably better tested by someone with faster loading times than me, since for all I know, Aloy's bombs could have been whisked into the void after I exited.
+7. [Inazuma sliding doors](https://youtu.be/O4erjly\_U-A): These do not reload funny.
 
-**Significance:**  
-The Knights of Favonius are special.  
+**Significance:**\
+The Knights of Favonius are special.
 
 ## Self-Freeze Can Be Canceled by Swapping
 
-**By:** yolitme0\#0579  
-**Added:** 03/29/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958510689549447250/transcript-self-freeze-can-be-canceled-by-swapping.html)  
+**By:** yolitme0#0579\
+**Added:** 03/29/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958510689549447250/transcript-self-freeze-can-be-canceled-by-swapping.html)
 
-**Finding:**  
-By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.  
+**Finding:**\
+By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.
 
-**Evidence:**  
-[Video](https://youtu.be/685gg8vm5m4)  
+**Evidence:**\
+[Video](https://youtu.be/685gg8vm5m4)
 
-**Significance:**  
-If you get really lucky you can avoid being Frozen.  
+**Significance:**\
+If you get really lucky you can avoid being Frozen.
 
 ## Bokuso Box Can Proc Stuff
 
-**By:** Ieah.\#2212  
-**Added:** 04/08/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962131649536090122/transcript-bokuso-box-can-proc-stuff.html)  
+**By:** Ieah.#2212\
+**Added:** 04/08/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962131649536090122/transcript-bokuso-box-can-proc-stuff.html)
 
-**Finding:**  
-Bokuso Box can proc damage-related abilities.  
+**Finding:**\
+Bokuso Box can proc damage-related abilities.
 
-**Evidence:**  
+**Evidence:**
+
 * [Raiden Skill coordinated attack](https://imgur.com/7S6b5x5)
-* [Albedo Skill and Qiqi Talisman](https://youtu.be/MC3d5Jp1DEI) \(credits to pai\#3602)
-* [Jade Spear passive](https://youtu.be/06vrXnowdsQ) \(credits to mando.\#1646)
+* [Albedo Skill and Qiqi Talisman](https://youtu.be/MC3d5Jp1DEI) (credits to pai#3602)
+* [Jade Spear passive](https://youtu.be/06vrXnowdsQ) (credits to mando.#1646)
 
-**Significance:**  
- More evidence that Bokuso Box damage is indeed damage from the character.
+**Significance:**\
+More evidence that Bokuso Box damage is indeed damage from the character.
 
 ## Portable Waypoints Don't Stop Sheer Cold
 
-**By:** Puffin\#9920  
-**Added:** 04/08/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962023997183234068/transcript-portable-waypoints-dont-stop-sheer-cold.html)  
+**By:** Puffin#9920\
+**Added:** 04/08/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962023997183234068/transcript-portable-waypoints-dont-stop-sheer-cold.html)
 
-**Finding:**  
-Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.  
+**Finding:**\
+Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.
 
-**Evidence:**  
-[YouTube video](https://youtu.be/Dr5J0UR_N50)  
+**Evidence:**\
+[YouTube video](https://youtu.be/Dr5J0UR\_N50)
 
-**Significance:**  
-Better understanding of Portable Waypoints.  
+**Significance:**\
+Better understanding of Portable Waypoints.
 
 ## Specialty Dish Rates
 
-**By:** Creonalia\#2818  
-**Added:** 04/16/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964960022134153286/transcript-specialty-dish-rates.html)  
+**By:** Creonalia#2818\
+**Added:** 04/16/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964960022134153286/transcript-specialty-dish-rates.html)
 
-**Finding:**  
-Specialty dish rates are affected by dish rarity and quality.  
+**Finding:**\
+Specialty dish rates are affected by dish rarity and quality.
 
-**Evidence:**  
-All of the dishes referenced have been cooked up to 2000 times either entirely with the specialty character and never eaten, or enough with the specialty character that the normally cooked/eaten ones are statistically insignificant. Note that the sample size is not large enough and some conclusions are broadened based on personal experience, but due to cooking too much without the specialty character I do not have recorded evidence to use for them. I don't have Eula and she has the only 4* specialty dish so I have no data on it.  
-[Inventory Screenshots](https://imgur.com/a/tVYb1PU)  
-* 1*: 20% Delicious, 17% Normal, 10% Suspicious
-* 2*: 14% Delicious, 10% Normal, 8% Suspicious
-* 3*: 10-15% Delicious*, 10% Normal, 5% Suspicious
-* 4*: Unknown
+**Evidence:**\
+All of the dishes referenced have been cooked up to 2000 times either entirely with the specialty character and never eaten, or enough with the specialty character that the normally cooked/eaten ones are statistically insignificant. Note that the sample size is not large enough and some conclusions are broadened based on personal experience, but due to cooking too much without the specialty character I do not have recorded evidence to use for them. I don't have Eula and she has the only 4\* specialty dish so I have no data on it.\
+[Inventory Screenshots](https://imgur.com/a/tVYb1PU)
+
+* 1\*: 20% Delicious, 17% Normal, 10% Suspicious
+* 2\*: 14% Delicious, 10% Normal, 8% Suspicious
+* 3\*: 10-15% Delicious\*, 10% Normal, 5% Suspicious
+* 4\*: Unknown
 
 \* I have biased data due to eating too many hash browns early game.
 
-**Significance:**  
-It's good to know.  
+**Significance:**\
+It's good to know.
 
 ## Slimes in Barrels Blink
 
-**By:** Magnus Artifex\#8719  
-**Added:** 04/24/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967843702821228544/transcript-slimes-in-barrels-blink.html)  
+**By:** Magnus Artifex#8719\
+**Added:** 04/24/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967843702821228544/transcript-slimes-in-barrels-blink.html)
 
-**Finding:**  
-Frozen and barreled slimes blink.  
+**Finding:**\
+Frozen and barreled slimes blink.
 
-**Evidence:**  
-[Frozen slimes](https://imgur.com/a/wV4aJ9q)  
-[Barreled slimes](https://imgur.com/a/cUJDWsT)  
+**Evidence:**\
+[Frozen slimes](https://imgur.com/a/wV4aJ9q)\
+[Barreled slimes](https://imgur.com/a/cUJDWsT)
 
-**Significance:**  
+**Significance:**\
 Knowledge about the world, and it’s freaking cute uwu
 
 ## Elemental Bursts Reset Directional Pad on Mobile
 
-**By:** Madrigal\#7486  
-**Added:** 04/24/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967818246889824296/transcript-elemental-bursts-reset-directional-pad-on-mobile.html)  
+**By:** Madrigal#7486\
+**Added:** 04/24/2022\
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967818246889824296/transcript-elemental-bursts-reset-directional-pad-on-mobile.html)
 
-**Finding:**  
+**Finding:**\
 Almost all Elemental Bursts that have a zoom animation will reset the directional pad on mobile (only 1 known exception as of now). Bursts that have no zoom animation (either by design or by canceling the zoom) will not reset the directional pad. We can safely assume this trend for future characters without exhaustive testing.
 
-**Evidence:**  
-Bursts with zoom animation that reset the directional pad:  
-* [Keqing, Jean, Albedo, Zhongli](https://youtu.be/o0x4_2EkZdk)
+**Evidence:**\
+Bursts with zoom animation that reset the directional pad:
+
+* [Keqing, Jean, Albedo, Zhongli](https://youtu.be/o0x4\_2EkZdk)
 * [Aloy, Qiqi, Diluc](https://youtu.be/5bJzWAtt4KU)
-* [Barbara, Childe (melee stance)](https://youtu.be/Dfx7xguva_0)
+* [Barbara, Childe (melee stance)](https://youtu.be/Dfx7xguva\_0)
 * [Ayaka, Kokomi, Kazuha, Ganyu](https://youtu.be/x6PGSPFyK4U)
 * [Hu Tao, Mona](https://youtu.be/xN8xF1PIVw8)
 * [Venti](https://youtu.be/HsMR9Fp-w-g)
@@ -828,10 +857,12 @@ Bursts with zoom animation that reset the directional pad:
 * [Shenhe](https://imgur.com/a/DUsGRit)
 * [Yoimiya](https://imgur.com/a/YlNduoq)
 
-Burst with zoom animation that does not reset the directional pad:  
-* [Childe (ranged stance)](https://youtu.be/Ds_-2wNrPCU)
+Burst with zoom animation that does not reset the directional pad:
 
-Burst with the zoom animation canceled:  
+* [Childe (ranged stance)](https://youtu.be/Ds\_-2wNrPCU)
+
+Burst with the zoom animation canceled:
+
 * [Zhongli, Albedo, Jean](https://youtu.be/hJUSOHeouKA)
 * [Childe (ranged stance), Ayato, Keqing](https://youtu.be/fxXfRGUuGhU)
 * [Childe (melee stance), Diluc, Qiqi](https://youtu.be/lVDzyRNMrac)
@@ -845,14 +876,15 @@ Burst with the zoom animation canceled:
 * [Barbara, Aloy](https://youtu.be/uiEo25AWbUA)
 * Do not have Mona evidence due to her Burst being exceptionally difficult to cancel
 
-Bursts with no zoom animation:  
+Bursts with no zoom animation:
+
 * [Sucrose, Ningguang, Noelle, Yun Jin](https://youtu.be/azJGkoalesk)
 * [Fischl, Beidou, Diona, Chongyun](https://youtu.be/kFlBdXciOnY)
 * [Bennett, Xiangling, Sayu, Rosaria](https://youtu.be/JIHyWpfswS0)
-* [Lisa, Xinyan, Sara, Kaeya](https://youtu.be/LOXgRX8j_f0)
+* [Lisa, Xinyan, Sara, Kaeya](https://youtu.be/LOXgRX8j\_f0)
 * [Amber](https://youtu.be/uiEo25AWbUA)
 * Traveler: [Anemo](https://youtu.be/EsjKKIwolDU), [Geo](https://youtu.be/Gn3c5p3p6G0), [Electro](https://youtu.be/3KmtRxj2kW8)
 * [Gorou](https://youtu.be/jYjJt4vUZYc)
 
-**Significance:**  
-A \(well\-known\) annoyance for mobile users, now documented. Sometimes, it's the game issue, not your skill issue. Zhongli's pillar is now your best friend.
+**Significance:**\
+A (well-known) annoyance for mobile users, now documented. Sometimes, it's the game issue, not your skill issue. Zhongli's pillar is now your best friend.

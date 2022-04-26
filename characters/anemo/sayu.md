@@ -1,99 +1,101 @@
 ---
-description: A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.
+description: >-
+  A pint-sized ninja attached to the Shuumatsuban, who always seems
+  sleep-deprived.
 ---
 
 # Sayu
 
-## ![](../../.gitbook/assets/element_anemo.png) Sayu
+## ![](../../.gitbook/assets/element\_anemo.png) Sayu
 
-![](../../.gitbook/assets/character_sayu_wish.png)
+![](../../.gitbook/assets/character\_sayu\_wish.png)
 
 ## **Base Stats**
 
-| Lv | Base HP | Base ATK | Base DEF | Elemental Mastery |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 7809 | 161 | 491 | 48 |
-| 60+ | 8337 | 172 | 524 | 48 |
-| 70 | 9157 | 189 | 575 | 48 |
-| 70+ | 9684 | 200 | 608 | 72 |
-| 80 | 10505 | 216 | 660 | 72 |
-| 80+ | 11033 | 227 | 693 | 96 |
-| 90 | 11854 | 244 | 745 | 96 |
+| Lv  | Base HP | Base ATK | Base DEF | Elemental Mastery |
+| --- | ------- | -------- | -------- | ----------------- |
+| 60  | 7809    | 161      | 491      | 48                |
+| 60+ | 8337    | 172      | 524      | 48                |
+| 70  | 9157    | 189      | 575      | 48                |
+| 70+ | 9684    | 200      | 608      | 72                |
+| 80  | 10505   | 216      | 660      | 72                |
+| 80+ | 11033   | 227      | 693      | 96                |
+| 90  | 11854   | 244      | 745      | 96                |
 
 ## **Attacks**
 
 {% tabs %}
 {% tab title="Shuumatsuban Ninja Blade" %}
-**Normal Attacks**  
+**Normal Attacks**\
 Performs up to 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 132.72% | 23 | 346.23%/s |
-| 2-Hit | 131.14% | 70 | 226.17%/s |
-| 3-Hit | 79.79% x 2 | 97 + 109 | 233.09%/s |
-| 4-Hit | 180.28% | 187 | 193.71%/s |
-| Recovery | ~ | 227 | 159.57%/s |
+| String   | Talent 9%  | Frames   | MV/s      |
+| -------- | ---------- | -------- | --------- |
+| 1-Hit    | 132.72%    | 23       | 346.23%/s |
+| 2-Hit    | 131.14%    | 70       | 226.17%/s |
+| 3-Hit    | 79.79% x 2 | 97 + 109 | 233.09%/s |
+| 4-Hit    | 180.28%    | 187      | 193.71%/s |
+| Recovery | \~         | 227      | 159.57%/s |
 
-**Charged Attacks**  
-Drains 40 Stamina/s over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash. 
+**Charged Attacks**\
+Drains 40 Stamina/s over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spin | 114.91% x 9 | 307 | 202.12%/s |
-| Final Hit | 207.77% | 358 | 208.15%/s |
-| Recovery | ~ | 439 | 169.74%/s |
+| String    | Talent 9%   | Frames | MV/s      |
+| --------- | ----------- | ------ | --------- |
+| Spin      | 114.91% x 9 | 307    | 202.12%/s |
+| Final Hit | 207.77%     | 358    | 208.15%/s |
+| Recovery  | \~          | 439    | 169.74%/s |
 
-**Plunge Attacks**  
+**Plunge Attacks**\
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Type            | Talent 9% |
+| --------------- | --------- |
+| Plunge DMG      | 137.03%   |
+| Low Plunge DMG  | 274.01%   |
+| High Plunge DMG | 342.25%   |
 {% endtab %}
 
 {% tab title="Yoohoo Art: Fuuin Dash" %}
-The special technique of the Yoohoo Ninja Arts!  
-Sayu curls up into a rolling **Fuufuu Windwheel** and smashes into opponents at high speed, dealing Anemo DMG. When the duration ends, she unleashes a **Fuufuu Whirlwind Kick**, dealing AoE Anemo DMG. 
+The special technique of the Yoohoo Ninja Arts!\
+Sayu curls up into a rolling **Fuufuu Windwheel** and smashes into opponents at high speed, dealing Anemo DMG. When the duration ends, she unleashes a **Fuufuu Whirlwind Kick**, dealing AoE Anemo DMG.
 
-**Press**  
-Enters the **Fuufuu Windwheel** state, rolling forward a short distance before using the **Fuufuu Whirlwind Kick**. 
+**Press**\
+Enters the **Fuufuu Windwheel** state, rolling forward a short distance before using the **Fuufuu Whirlwind Kick**.
 
-**Hold**  
-Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's resistance to interruption while within that state.  
-During this time, Sayu can control the direction of her roll, and can use the skill again to end her **Windwheel** state early and unleash a stronger version of the **Fuufuu Whirlwind** Kick.  
-The Hold version of this skill can trigger Elemental Absorption.  
-This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her **Windwheel** state, the longer the CD. 
+**Hold**\
+Rolls about continuously in the **Fuufuu Windwheel** state, increasing Sayu's resistance to interruption while within that state.\
+During this time, Sayu can control the direction of her roll, and can use the skill again to end her **Windwheel** state early and unleash a stronger version of the **Fuufuu Whirlwind** Kick.\
+The Hold version of this skill can trigger Elemental Absorption.\
+This skill has a maximum duration of 10s and enters CD once its effects end. The longer Sayu remains in her **Windwheel** state, the longer the CD.
 
-
-**Elemental Absorption**  
-If Sayu comes into contact with Hydro/Pyro/Cryo/Electro while in her **Windwheel** state, she will deal additional elemental DMG of that type.  
+**Elemental Absorption**\
+If Sayu comes into contact with Hydro/Pyro/Cryo/Electro while in her **Windwheel** state, she will deal additional elemental DMG of that type.\
 Elemental Absorption may only occur once per use of this skill.
 
-| Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Fuufuu Windwheel DMG \(T9%\) | 61.2% | 61.2% x 19 |
-| Fuufuu Windwheel Absorption DMG \(T9%\)  | ~ | 28.56% x 19 |
-| Fuufuu Whirlwind Kick DMG \(T9%\)  | 269.28% | 369.92% |
-| Fuufuu Whirlwind Kick Absorption DMG \(T9%\)  | ~ | 129.47% |
-| Particles | 2 | 2 + 1~4 |
-| Frames | 35 | 35~675 |
-| GU | 1U | - |
-| GU Absorption | - | 1A |
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo | - |
-| Damage Absorption | - | Absorbed Element |
-| Damage Type | Skill | Skill |
-| Max Duration | - | 10s |
-| CD | 6s | 6s~11s |
+| Attribute                                  | Tap          | Hold             |
+| ------------------------------------------ | ------------ | ---------------- |
+| Fuufuu Windwheel DMG (T9%)                 | 61.2%        | 61.2% x 19       |
+| Fuufuu Windwheel Absorption DMG (T9%)      | \~           | 28.56% x 19      |
+| Fuufuu Whirlwind Kick DMG (T9%)            | 269.28%      | 369.92%          |
+| Fuufuu Whirlwind Kick Absorption DMG (T9%) | \~           | 129.47%          |
+| Particles                                  | 2            | 2 + 1\~4         |
+| Frames                                     | 35           | 35\~675          |
+| GU                                         | 1U           | -                |
+| GU Absorption                              | -            | 1A               |
+| ICD                                        | 3 hit / 2.5s | 3 hit / 2.5s     |
+| Snapshot                                   | Snapshot     |                  |
+| Damage Element                             | Anemo        | -                |
+| Damage Absorption                          | -            | Absorbed Element |
+| Damage Type                                | Skill        | Skill            |
+| Max Duration                               | -            | 10s              |
+| CD                                         | 6s           | 6s\~11s          |
 
 **Notes**
+
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
-* **Windwheel Roll** and **Whirlwind Kick Damage** snapshot.  
-* The energy generated by **Windwheel Roll** only works on the hold version, tap version is disabled; energy generated by the kick is unchanged.  
+* **Windwheel Roll** and **Whirlwind Kick Damage** snapshot.
+* The energy generated by **Windwheel Roll** only works on the hold version, tap version is disabled; energy generated by the kick is unchanged.
 * **Windwheel Roll** has a 3s ICD for energy generation.
 * **Windwheel Roll**'s Absorption Priority: Pyro > Hydro > Electro > Cryo.
 * **Whirlwind Kick** and **Windwheel Roll** have separate ICDs.
@@ -102,48 +104,48 @@ Elemental Absorption may only occur once per use of this skill.
 * Sayu is capable of ice bridging if her **Windwheel Roll** is infused with cryo.
 * **Windwheel Roll** is affected by movement speed buffs.
 * Hold E **Windwheel Roll** can be used at 0 stamina, and does not consume nor gain any stamina during the roll.
-
 {% endtab %}
 
 {% tab title="Yoohoo Art: Mujina Flurry" %}
 The other super special technique of the Yoohoo Ninja Arts! It summons a pair of helping hands for Sayu. Deals Anemo DMG to nearby opponents and heals all nearby party members. The amount of HP restored is based on Sayu's ATK. This skill then summons a **Muji-Muji Daruma**.
 
-**Muji-Muji Daruma**  
-At specific intervals, the **Daruma** will take one of several actions based on the situation around it: 
-* If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing Anemo DMG. 
+**Muji-Muji Daruma**\
+At specific intervals, the **Daruma** will take one of several actions based on the situation around it:
+
+* If the HP of nearby characters is above 70%, it will attack a nearby opponent, dealing Anemo DMG.
 * If there are active characters with 70% or less HP nearby, it will heal the active character with the lowest percentage HP left. If there are no opponents nearby, it will heal active characters nearby even if they have 70% HP or more.
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill Activation DMG \(T9%\) | 198.56% |
-| Skill Activation Healing \(T9%\) | 156.67% +1174 |
-| Cast Frames | 65 |
-| Energy Frame | 11 |
-| CD Frame | 1 |
-| GU | 1U |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo |
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| CD | 20s |
+| Attribute                      | Burst         |
+| ------------------------------ | ------------- |
+| Skill Activation DMG (T9%)     | 198.56%       |
+| Skill Activation Healing (T9%) | 156.67% +1174 |
+| Cast Frames                    | 65            |
+| Energy Frame                   | 11            |
+| CD Frame                       | 1             |
+| GU                             | 1U            |
+| ICD                            | 3 hit / 2.5s  |
+| Snapshot                       | Snapshot      |
+| Damage Element                 | Anemo         |
+| Damage Type                    | Burst         |
+| Energy Cost                    | 80            |
+| CD                             | 20s           |
 
-| Attribute | Daruma |
-| :--- | :--- |
-| Muji-Muji Daruma DMG \(T9%\) | 88.4% x 0~7 |
-| Muji-Muji Daruma Healing \(T9%\) | (135.78% ATK + 1017) x 0~7 |
-| GU | 1U |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo |
-| Damage Type | Elemental Burst |
-| Duration | 12s |
+| Attribute                      | Daruma                      |
+| ------------------------------ | --------------------------- |
+| Muji-Muji Daruma DMG (T9%)     | 88.4% x 0\~7                |
+| Muji-Muji Daruma Healing (T9%) | (135.78% ATK + 1017) x 0\~7 |
+| GU                             | 1U                          |
+| ICD                            | 3 hit / 2.5s                |
+| Snapshot                       | Snapshot                    |
+| Damage Element                 | Anemo                       |
+| Damage Type                    | Elemental Burst             |
+| Duration                       | 12s                         |
 
 **Notes**
+
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
 * **Yoohoo Art: Mujina Flurry** snapshots
 * **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and the **Daruma** Damage ticks.
-
 {% endtab %}
 {% endtabs %}
 
@@ -151,30 +153,29 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Yoohoo Art: Silencer's Secret**
+#### **Yoohoo Art: Silencer's Secret**
 
-When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.
-Check the "Other" sub-category of the "Living Beings / Wildlife" section in the Archive for creatures this skill works on.
+When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them. Check the "Other" sub-category of the "Living Beings / Wildlife" section in the Archive for creatures this skill works on.
 
 **Notes**
+
 * Passive works even if Sayu is off-field.
 * If entities are connected (like crystalflies), then picking them up will always scare the others.
 * If entities do not care about the state of other beings, then picking it up next to another one won't startle them.
 * Sayu's passive does not affect coop members - works only for your own party.
-
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Someone More Capable**
+#### **Someone More Capable**
 
-When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.
-This effect can be triggered once every 2s.
+When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has. This effect can be triggered once every 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **No Work Today!**
+#### **No Work Today!**
 
 The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** gains the following effects:
+
 * When healing a character, it will also heal characters near that healed character for 20% the amount of HP.
 * Increases the AoE of its attack against opponents.
 {% endtab %}
@@ -184,54 +185,46 @@ The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** gains the foll
 
 {% tabs %}
 {% tab title="C1" %}
-### **Multi-Task no Jutsu**
+#### **Multi-Task no Jutsu**
 
 The **Muji-Muji Daruma** created by **Yoohoo Art: Mujina Flurry** will ignore HP limits and can simultaneously attack nearby opponents and heal characters.
-
 {% endtab %}
 
 {% tab title="C2" %}
-### **Egress Prep**
+#### **Egress Prep**
 
 **Yoohoo Art: Fuuin Dash** gains the following effects:
+
 * DMG of **Fuufuu Whirlwind Kick** in Press Mode increased by 3.3%.
 * Every 0.5s in the **Fuufuu Windwheel** state will increase the DMG of this **Fuufuu Whirlwind Kick** by 3.3%. The maximum DMG increase possible through this method is 66%.
-
 * The DMG increase of **Fuufuu Whirlwind Kick** from **Egress Prep** increases both **Fuufuu Whirlwind Kick Hold DMG** and **Fuufuu Whirlwind Kick Elemental DMG**.
-
 {% endtab %}
 
 {% tab title="C3" %}
-### **Eh, the Bunshin Can Handle It**
+#### **Eh, the Bunshin Can Handle It**
 
-Increases the Level of **Yoohoo Art: Mujina Flurry** by 3.
-Maximum upgrade level is 15.
-
+Increases the Level of **Yoohoo Art: Mujina Flurry** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Skiving: New and Improved**
+#### **Skiving: New and Improved**
 
-Sayu recovers 1.2 Energy when she triggers a Swirl reaction.
-This effect occurs once every 2s.
-
+Sayu recovers 1.2 Energy when she triggers a Swirl reaction. This effect occurs once every 2s.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Speed Comes First**
+#### **Speed Comes First**
 
-Increases the Level of **Yoohoo Art: Fuuin Dash** by 3.
-Maximum upgrade level is 15.
-
+Increases the Level of **Yoohoo Art: Fuuin Dash** by 3. Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Sleep O'Clock**
+#### **Sleep O'Clock**
 
 The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:
+
 * Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.
 * Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.
-
 {% endtab %}
 {% endtabs %}
 
@@ -239,68 +232,65 @@ The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will no
 
 {% tabs %}
 {% tab title="Shuumatsuban Ninja Blade" %}
-### Normal Attacks
+#### Normal Attacks
 
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 72.24% | 78.12% | 84.00% | 92.40% | 98.28% | 105.00% | 114.24% | 123.48% | 132.72% | 142.80% | 154.35% |
-| 2-Hit DMG | 71.38% | 77.19% | 83.00% | 91.30% | 97.11% | 103.75% | 112.88% | 122.01% | 131.14% | 141.10% | 152.51% |
-| 3-Hit DMG (x2) | 43.43% | 46.97% | 50.50% | 55.55% | 59.08% | 63.13% | 68.68% | 74.23% | 79.79% | 85.85% | 92.79% |
-| 4-Hit DMG | 98.13% | 106.11% | 114.10% | 125.51% | 133.50% | 142.62% | 155.18% | 167.73% | 180.28% | 193.97% | 209.66% |
+|                | Lv1    | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
+| -------------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| 1-Hit DMG      | 72.24% | 78.12%  | 84.00%  | 92.40%  | 98.28%  | 105.00% | 114.24% | 123.48% | 132.72% | 142.80% | 154.35% |
+| 2-Hit DMG      | 71.38% | 77.19%  | 83.00%  | 91.30%  | 97.11%  | 103.75% | 112.88% | 122.01% | 131.14% | 141.10% | 152.51% |
+| 3-Hit DMG (x2) | 43.43% | 46.97%  | 50.50%  | 55.55%  | 59.08%  | 63.13%  | 68.68%  | 74.23%  | 79.79%  | 85.85%  | 92.79%  |
+| 4-Hit DMG      | 98.13% | 106.11% | 114.10% | 125.51% | 133.50% | 142.62% | 155.18% | 167.73% | 180.28% | 193.97% | 209.66% |
 
-### Charged Attack
+#### Charged Attack
 
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 62.55% | 67.64% | 72.73% | 80.00% | 85.09% | 90.91% | 98.91% | 106.91% | 114.91% | 123.64% | 133.64% |
-| Charged Attack Final DMG | 113.09% | 122.29% | 131.50% | 144.65% | 153.86% | 164.37% | 178.84% | 193.31% | 207.77% | 223.55% | 241.63% |
+|                             | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
+| --------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Charged Attack Spinning DMG | 62.55%  | 67.64%  | 72.73%  | 80.00%  | 85.09%  | 90.91%  | 98.91%  | 106.91% | 114.91% | 123.64% | 133.64% |
+| Charged Attack Final DMG    | 113.09% | 122.29% | 131.50% | 144.65% | 153.86% | 164.37% | 178.84% | 193.31% | 207.77% | 223.55% | 241.63% |
 
-**Stamina Cost**: 40/s  
+**Stamina Cost**: 40/s\
 **Max Duration**: 5s
 
-### Plunge
+#### Plunge
 
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
-| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
+|                 | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
+| --------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Plunge DMG      | 74.59%  | 80.66%  | 86.73%  | 95.40%  | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
+| Low Plunge DMG  | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
-
 {% endtab %}
 
 {% tab title="Yoohoo Art: Fuuin Dash" %}
+|                                     | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    | Lv12    | Lv13    |
+| ----------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Fuufuu Windwheel DMG                | 36.00%  | 38.70%  | 41.40%  | 45.00%  | 47.70%  | 50.40%  | 54.00%  | 57.60%  | 61.20%  | 64.80%  | 68.40%  | 72.00%  | 76.50%  |
+| Fuufuu Whirlwind Kick Press DMG     | 158.40% | 170.28% | 182.16% | 198.00% | 209.88% | 221.76% | 237.60% | 253.44% | 269.28% | 285.12% | 300.96% | 316.80% | 336.60% |
+| Fuufuu Whirlwind Kick Hold DMG      | 217.60% | 233.92% | 250.24% | 272.00% | 288.32% | 304.64% | 326.40% | 348.16% | 369.92% | 391.68% | 413.44% | 435.20% | 462.40% |
+| Fuufuu Windwheel Elemental DMG      | 16.80%  | 18.06%  | 19.32%  | 21.00%  | 22.26%  | 23.52%  | 25.20%  | 26.88%  | 28.56%  | 30.24%  | 31.92%  | 33.60%  | 35.70%  |
+| Fuufuu Whirlwind Kick Elemental DMG | 76.16%  | 81.87%  | 87.58%  | 95.20%  | 100.91% | 106.62% | 114.24% | 121.86% | 129.47% | 137.09% | 144.70% | 152.32% | 161.84% |
 
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fuufuu Windwheel DMG | 36.00% | 38.70% | 41.40% | 45.00% | 47.70% | 50.40% | 54.00% | 57.60% | 61.20% | 64.80% | 68.40% | 72.00% | 76.50% |
-| Fuufuu Whirlwind Kick Press DMG | 158.40% | 170.28% | 182.16% | 198.00% | 209.88% | 221.76% | 237.60% | 253.44% | 269.28% | 285.12% | 300.96% | 316.80% | 336.60% |
-| Fuufuu Whirlwind Kick Hold DMG | 217.60% | 233.92% | 250.24% | 272.00% | 288.32% | 304.64% | 326.40% | 348.16% | 369.92% | 391.68% | 413.44% | 435.20% | 462.40% |
-| Fuufuu Windwheel Elemental DMG | 16.80% | 18.06% | 19.32% | 21.00% | 22.26% | 23.52% | 25.20% | 26.88% | 28.56% | 30.24% | 31.92% | 33.60% | 35.70% |
-| Fuufuu Whirlwind Kick Elemental DMG | 76.16% | 81.87% | 87.58% | 95.20% | 100.91% | 106.62% | 114.24% | 121.86% | 129.47% | 137.09% | 144.70% | 152.32% | 161.84% |
-
-**Max Duration (Hold)**: 10s  
+**Max Duration (Hold)**: 10s\
 **Cooldown**: 6 to 11s
-
 {% endtab %}
 
 {% tab title="Yoohoo Art: Mujina Flurry" %}
+|                                   | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    | Lv12    | Lv13    |
+| --------------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Skill Activation DMG              | 116.80% | 125.56% | 134.32% | 146.00% | 154.76% | 163.52% | 175.20% | 186.88% | 198.56% | 210.24% | 221.92% | 233.60% | 248.20% |
+| Skill Activation Healing Scaling  | 92.16%  | 99.07%  | 105.98% | 115.20% | 122.11% | 129.02% | 138.24% | 147.46% | 156.67% | 165.89% | 175.10% | 184.32% | 195.84% |
+| Skill Activation Healing Additive | 577     | 635     | 698     | 765     | 837     | 914     | 996     | 1083    | 1174    | 1270    | 1371    | 1477    | 1588    |
+| Muji-Muji Daruma DMG              | 52.00%  | 55.90%  | 59.80%  | 65.00%  | 68.90%  | 72.80%  | 78.00%  | 83.20%  | 88.40%  | 93.60%  | 98.80%  | 104.00% | 110.50% |
+| Muji-Muji Daruma Healing Scaling  | 79.87%  | 85.86%  | 91.85%  | 99.84%  | 105.83% | 111.82% | 119.81% | 127.80% | 135.78% | 143.77% | 151.76% | 159.74% | 169.73% |
+| Muji-Muji Daruma Healing Additive | 500     | 550     | 605     | 663     | 726     | 792     | 863     | 938     | 1017    | 1101    | 1188    | 1280    | 1376    |
 
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill Activation DMG | 116.80% | 125.56% | 134.32% | 146.00% | 154.76% | 163.52% | 175.20% | 186.88% | 198.56% | 210.24% | 221.92% | 233.60% | 248.20% |
-| Skill Activation Healing Scaling | 92.16% | 99.07% | 105.98% | 115.20% | 122.11% | 129.02% | 138.24% | 147.46% | 156.67% | 165.89% | 175.10% | 184.32% | 195.84% |
-| Skill Activation Healing Additive | 577 | 635 | 698 | 765 | 837 | 914 | 996 | 1083 | 1174 | 1270 | 1371 | 1477 | 1588 |
-| Muji-Muji Daruma DMG | 52.00% | 55.90% | 59.80% | 65.00% | 68.90% | 72.80% | 78.00% | 83.20% | 88.40% | 93.60% | 98.80% | 104.00% | 110.50% |
-| Muji-Muji Daruma Healing Scaling | 79.87% | 85.86% | 91.85% | 99.84% | 105.83% | 111.82% | 119.81% | 127.80% | 135.78% | 143.77% | 151.76% | 159.74% | 169.73% |
-| Muji-Muji Daruma Healing Additive | 500 | 550 | 605 | 663 | 726 | 792 | 863 | 938 | 1017 | 1101 | 1188 | 1280 | 1376 |
-
-**Duration**: 12s  
-**Cooldown**: 20s  
+**Duration**: 12s\
+**Cooldown**: 20s\
 **Energy Cost**: 80
-
 {% endtab %}
 {% endtabs %}
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/sayu.md" %}
+{% content-ref url="../../evidence/characters/anemo/sayu.md" %}
+[sayu.md](../../evidence/characters/anemo/sayu.md)
+{% endcontent-ref %}
