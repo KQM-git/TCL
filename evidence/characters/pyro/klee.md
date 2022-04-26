@@ -130,14 +130,14 @@ You can leave Bennett Q after using Klee burst and you also keep other atk% buff
 Updated: 12/28/2020
 
 **Theory:**  
-Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off-field after auto attacking or using her E.
+Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off\-field after auto attacking or using her E.
 
 **Evidence:**  
 Tested for a few minutes on a world boss, but here's just a short clip.
 
-* [https://youtu.be/0DEbRVl1pXE](https://youtu.be/0DEbRVl1pXE) 
-* [https://youtu.be/SGMMKs5lpkI](https://youtu.be/SGMMKs5lpkI) 
-* [https://youtu.be/sTtaWS0g1gQ](https://youtu.be/sTtaWS0g1gQ)
+* [Video 1](https://youtu.be/0DEbRVl1pXE) 
+* [Video 2](https://youtu.be/SGMMKs5lpkI) 
+* [Video 3](https://youtu.be/sTtaWS0g1gQ)
 
 **Significance:**  
 Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow you to switch characters immediately after the second without any downside. However, as it stands, players looking to maximize the benefit from the talent's charge attack buff will want to look for the proc before swapping, bringing two grounded AA1s closer in-line to - AA1 &gt; AA2 &gt; jump cancel combo. As for why you would want to swap characters frequently from Klee in the first place, that would be to set up reactions manually, or refresh Viridescent Venerer 4pc effect. A rotation could run something like this:
@@ -147,6 +147,21 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 * Swap to Cryo/Hydro unit and wait briefly for pyro to elapse naturally due to the swirl shortening its duration before proccing the aura element
 * Klee Charge Attack
 * Repeat.
+
+### Klee A1 Bug
+
+**By:** Tsuki\#8993  
+**Added:** 04/24/2022
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967842007131246712/transcript-klee-a1-bug.html)  
+
+**Bug:**  
+If Klee gains a spark from her A1 while canceling the NA with a CA, her Stamina still gets consumed.  
+
+**Evidence:**  
+In [this video](https://imgur.com/a/XUrjYOD) Klee gains a spark on the second N1 and the CA gets the buff, but the Stamina still gets reduced.
+
+**Significance:**  
+When doing Klee's N1C, you might not benefit from the Stamina reduction passive if the spark is obtained during the animation cancel.  
 
 ### Ascension 1 Mechanics  
 
