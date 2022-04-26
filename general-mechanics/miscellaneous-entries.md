@@ -42,8 +42,9 @@ description: For entries that have little practical use.
 * By following [these steps](../evidence/general-mechanics/miscellaneous-entries.md#stoves-of-babel), using stoves and Geo Constructs, players can potentially ascend indefinitely until they run out of stoves. This can be done in Singleplayer and Multiplayer.  
 * Using a non\-canceled 5\* Elemental Burst or opening a UI menu on PC will reset walking mode to running mode, but not on mobile. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#certain-actions-reset-walking-mode) for more information.
 * Specialty dish rates are affected by dish rarity and quality. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#specialty-dish-rates) for more information.
+* Slimes that are in barrels or frozen can blink.
 
-## Cancelling
+## Canceling
 
 * For some characters, if they use an Elemental Skill and sit in a chair at the same time (pressing F and E at the same time for PC users), while the Skill will not activate (and as such the Skill cooldown will not start), the game will still "treat" the Skill as if it had activated, which causes effects like Crimson Witch 4-piece to stack.
   * This can also be performed by interacting with an NPC or a poster instead of a chair.

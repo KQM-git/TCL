@@ -788,6 +788,22 @@ All of the dishes referenced have been cooked up to 2000 times either entirely w
 **Significance:**  
 It's good to know.  
 
+## Slimes in Barrels Blink
+
+**By:** Magnus Artifex\#8719  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967843702821228544/transcript-slimes-in-barrels-blink.html)  
+
+**Finding:**  
+Frozen and barreled slimes blink.  
+
+**Evidence:**  
+[Frozen slimes](https://imgur.com/a/wV4aJ9q)  
+[Barreled slimes](https://imgur.com/a/cUJDWsT)  
+
+**Significance:**  
+Knowledge about the world, and it’s freaking cute uwu
+
 ## Elemental Bursts Reset Directional Pad on Mobile
 
 **By:** Madrigal\#7486  
