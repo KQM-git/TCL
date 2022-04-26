@@ -721,6 +721,8 @@ The Skill% buff being dynamic also fits in line with other Skill% buffs which ar
 
 #### Klee and Kagura Stacks
 
+**This bug has been fixed in version 2.6, see this [Vault Entry](../../evidence/characters/pyro/klee.md#klee-stacking-bug-has-been-fixed) for more information.**  
+
 **By:** solo\#3333  
 **Added:** 03/09/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951283825449775195/transcript-klee-and-kagura-stacks.html)  

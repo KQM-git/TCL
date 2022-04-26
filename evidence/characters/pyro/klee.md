@@ -278,3 +278,19 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 
 **Significance:**  
 4CW is better than expected for Klee.
+
+### Klee Stacking Bug Has Been Fixed
+
+**By:** pai\#3602  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967824209369776198/transcript-klee-stacking-bug-has-been-fixed.html)  
+
+**Finding:**  
+Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.  
+
+**Evidence:**  
+* [Kagura's Verity](https://youtu.be/N6nGySw-kAo): only the 2 rows of bells light up, indicating 2 stacks from 2 E casts.
+* [4pc CW](https://youtu.be/pELuy5gmEX4): only 15% Pyro DMG Bonus gained, indicating 2 stacks from 2 E casts.
+
+**Significance:**  
+No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4pc CW in comparison to before.  
