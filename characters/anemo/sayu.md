@@ -82,7 +82,7 @@ Elemental Absorption may only occur once per use of this skill.
 | Frames | 35 | 35~675 |
 | GU | 1U | - |
 | GU Absorption | - | 1A |
-| ICD | 3 hit / 2.5s | - |
+| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
 | Snapshot | Snapshot |
 | Damage Element | Anemo | - |
 | Damage Absorption | - | Absorbed Element |
