@@ -1,6 +1,5 @@
 ---
-description: A twisted beast from another world.
-This creature is the ruler of the Riftwolves, and wields the power to command them to dissolve space itself.
+description: A twisted beast from another world. This creature is the ruler of the Riftwolves, and wields the power to command them to dissolve space itself.
 ---
 
 # Golden Wolflord
