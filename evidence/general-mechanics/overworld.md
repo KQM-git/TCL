@@ -1533,3 +1533,19 @@ Side-on collisions while jumping don't hurt and don't remove the fall damage red
 
 **Significance:**  
 Relax and enjoy the ride, it's often safer and faster than plunging if you want to get down on the ground.  
+
+## Properties of Eagles
+
+**By:** Pablos\#1142  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967840437182296104/transcript-properties-of-eagles.html)  
+
+**Finding:**  
+Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.  
+
+**Evidence:**  
+[Video 1](https://imgur.com/a/a5lWt3f)  
+[Video 2](https://youtu.be/4w8FpCpqk_U) \(by makeway4pK\#3901\)
+
+**Significance:**  
+Fluff and documenting overworld mechanics.
