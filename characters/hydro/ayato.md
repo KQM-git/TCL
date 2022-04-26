@@ -23,17 +23,18 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 {% tabs %}
 {% tab title="Normal Attack: Kamisato Art - Marobashi" %}
+
 **Normal Attack**  
-Perform up to 5 rapid strikes.
+Perform up to 5 rapid strikes.  
 
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| 1-Hit | - | - | - |
-| 2-Hit | - | - | - |
-| 3-Hit | - | - | - |
-| 4-Hit | - | - | - |
-| 5-Hit | - | - | - |
-| Recovery | - | - | - |
+| 1-Hit | 82.60% | 13 | 381.23%/s |
+| 2-Hit | 86.64% | 43 | 173.28%/s |
+| 3-Hit | 107.68% | 73 | 215.36%/s |
+| 4-Hit | 54.10% x2 | 111 | 170.84%/s |
+| 5-Hit | 138.90% | 159 | 173.63%/s |
+| Recovery | - | 191 | - |
 
 
 **Charged Attack**  
@@ -41,19 +42,21 @@ Consumes a certain amount of Stamina to dash forward and perform an iai.
 
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
-| N1C | - | - | - | 
+| N1C | 320.57% | 13 + 54 | 356.19%/s | 
+| Recovery | - | 84 | - | 
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
 | Damage Type | Talent 9% |
 | :--- | :--- |
-| Plunge DMG | - |
-| Low Plunge DMG | - |
-| High Plunge DMG | - |
+| Plunge DMG | 117.46% |
+| Low Plunge DMG | 234.86% |
+| High Plunge DMG | 293.36% |
 {% endtab %}
 
 {% tab title="Kamisato Art: Kyouka" %}
+
 Kamisato Ayato shifts positions and enters the **Takimeguri Kanka** state.  
 After this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG.
 
@@ -69,11 +72,11 @@ It also has the following properties:
 | :--- | :--- |
 | Namisen DMG Bonus \(T9%\) | 1.03% Max HP/Stack |
 | Water Illusion DMG \(T9%\) | 186.44% | 
-| Particles | - | 
-| Frames | - |
-| GU | -|
-| ICD | - | 
-| Snapshot | - | 
+| Particles | 1-2 \(1:1\) | 
+| Frames | 20 |
+| GU | 1A |
+| ICD | 3-hit / 2.5s | 
+| Snapshot | Snapshot | 
 | Damage Element | Hydro | 
 | Damage Type | Skill |
 | Duration | 6s |
@@ -85,11 +88,17 @@ It also has the following properties:
 | Shunsuiken 1-Hit | 97.17% | - | - |
 | Shunsuiken 2-Hit | 108.23% | - | - |
 | Shunsuiken 3-Hit | 119.29% | - | - |
-| GU | - | - | - | 
+| Recovery | - | - | - |
+| GU | 1A | - | - | 
+
+**Notes:**  
+* Shunsuiken Attacks can hit enemies inside of Venti's [Wind's Grand Ode](../anemo/venti.md#attacks).
+* Shunsuiken Attacks do not snapshot.
 
 {% endtab %}
 
 {% tab title="Kamisato Art: Suiyuu" %}
+
 Unveils a garden of purity that silences the cacophony within.  
 While this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.
 
@@ -97,16 +106,21 @@ While this space exists, Bloomwater Blades will constantly rain down and attack 
 | :--- | :--- |
 | Bloomwater Blade DMG \(T9%\) | 112.98% |
 | Normal Attack DMG Bonus \(T9%\) | 19% | 
-| Frames | - |
-| GU | -|
+| Cast Frames | 122 |
+| Energy Frame | 10 |
+| CD Frame | 1 |
+| GU | 1A |
 | ICD | - | 
-| Snapshot | - | 
+| Snapshot | Snapshot | 
 | Damage Element | Hydro | 
 | Damage Type | Burst |
 | Energy Cost | 80 |
 | Duration | 18 |
 | CD | 20 | 
 
+**Notes:**
+* **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) \(tracking and mechanic-wise with one less, so hit\-miss\-miss\-miss against one enemy\) but slower.
+* **Bloomwater Blades** drop once every 30 frames, with a theoretical maximum of 36 drops per Q cast.
 {% endtab %}
 {% endtabs %}
 
@@ -175,6 +189,11 @@ Maximum upgrade level is 15.
 
 After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.  
 Both these Shunsuiken attacks will not be affected by Namisen.
+
+**Notes**
+
+* The extra Shunsuiken strikes are considered Normal Attack damage.
+* The extra Shunsuiken strikes do not have ICD.
 {% endtab %}
 {% endtabs %}
 
