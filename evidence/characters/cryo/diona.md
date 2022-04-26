@@ -161,13 +161,16 @@ At least 1 Icy Paw must hit something for a shield to form. Situations where Icy
 ### Diona Field Characteristics
 
 **By:** Monochrom9\#8058  
-**Added:** 06/02/2021
+**Added:** 06/02/2021  
 
-**Finding:** The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.
+**Finding:**  
+The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.  
 
-**Evidence:** [**GIF**](https://imgur.com/a/egHUnjV)
+**Evidence:**  
+[**GIF**](https://imgur.com/a/egHUnjV)  
 
-**Significance:** The healing pulse is separate from the buffs granted by Diona Burst.
+**Significance:**  
+The healing pulse is separate from the buffs granted by Diona Burst.  
 
 ### Diona Has Finite Vertical Range for Burst Healing
 
@@ -175,7 +178,8 @@ At least 1 Icy Paw must hit something for a shield to form. Situations where Icy
 **Added:** 10/30/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903967252397834272/904154341714309141/transcript-diona-finite-vertical-range-for-burst-healing.html)
 
-**Finding:** Diona's Elemental Burst has a finite vertical range of healing, in contrast to known fields that have infinite vertical range (e.g., Bennett).
+**Finding:**  
+Diona's Elemental Burst has a finite vertical range of healing, in contrast to known fields that have infinite vertical range (e.g., Bennett).  
 
 **Evidence:**  
 Diona's Burst not healing compared to Bennett's Burst that will heal (in coop): [YouTube](https://youtu.be/3f1BOY5sd9s)  
@@ -187,7 +191,22 @@ Diona's Burst may not heal Xiao in his Burst because his jumping height is highe
 
 **Significance:**  
 Diona's Burst healing has a limited range in contrast to all other known healing fields that have infinite vertical range.  
-This has implications against Xiao (or for Xiao with Staff of Homa) because the height limit is lower than Xiao's jump height.
+This has implications against Xiao (or for Xiao with Staff of Homa) because the height limit is lower than Xiao's jump height.  
+
+### Diona's Burst Position Snapshot
+
+**By:** Ultimate Noob\#2955  
+**Added:** 02/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967852523027312751/transcript-dionas-burst-position-snapshot.html)  
+
+**Finding:**  
+Diona’s Burst snapshots position on cast, so if a enemy moves after you cast her Burst, it will go to the position of where the enemy was as you casted and miss.
+
+**Evidence:**  
+[Video](https://imgur.com/a/dU7nB0N) \(credit to ♡Maddie'soneandonlyPinkie♡\#0949\)
+
+**Significance:**  
+If you cast her Burst on a moving enemy you will miss, it could be good for long-ranged characters, bad for melee ones.
 
 ## Ascension Mechanics
 
