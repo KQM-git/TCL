@@ -531,7 +531,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/95/110/125/140**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
+| Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/95/110/125/140**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 44 - 565 |
 | Phys DMG Bonus | 7.5% - 34.5% |
 {% endtab %}
