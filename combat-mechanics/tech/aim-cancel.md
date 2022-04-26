@@ -4,11 +4,7 @@ description: Methods to cancel various animations involving Aimed Shot mode
 
 # Aim Cancel
 
-##
-
-{% content-ref url="../../evidence/mechanics/combat/tech/aim-cancel.md" %}
-[aim-cancel.md](../../evidence/mechanics/combat/tech/aim-cancel.md)
-{% endcontent-ref %}
+For bow characters, Aimed Shot mode is used to shoot Charged Attacks (CAs). There are several techniques involving this mode that can increase the rate that these characters shoot both CAs and Normal Attacks (NAs).
 
 ## Aim Toggle / R Mode
 
