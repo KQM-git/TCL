@@ -22,7 +22,7 @@ If you're interested in submitting information/findings to be published in the T
 4. Create a new ticket by pressing one of the "Create ticket" buttons. Library Submissions are for normal tickets and Guide Submissions are for character guides.  
    * Make sure you have preliminary findings with evidence already prepared before you create a ticket.  
 5. Your ticket will be created and you will be pinged there.  
-6. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `$close` once you're done so that KQM Theorycrafting Editors know when to review and verify your ticket.  
+6. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `$close` once you're done so that KQM Theorycrafting Scholars know when to review and verify your ticket.  
 
 ## Feedback
 

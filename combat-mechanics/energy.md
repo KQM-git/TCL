@@ -12,59 +12,63 @@ If an Elemental Skill hits an enemy, **Elemental Particles** will be generated \
 
 ### Auto Attacking
 
-Normal and Charged Attacks have a chance on hit to give the on field character about 1 **Flat Energy**. This can be seen when the on field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user is unable get particles from their Elemental Skill, such as in Xiao's [Bane of All Evil](../characters/anemo/xiao.md#attacks).
+Normal and Charged Attacks have a chance on hit to give the on-field character about 1 **Flat Energy**. This can be seen when the on-field character's vision flashes. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives Energy regardless if the user is unable get Particles from their Elemental Skill, such as in Xiao's [Bane of All Evil](../characters/anemo/xiao.md#attacks).
 
-This **Flat Energy** is only gained by the character on-field and is not affected by Energy Recharge, off-field characters gain no energy from this method.
+This **Flat Energy** is only gained by the character on-field and is not affected by Energy Recharge, off-field characters gain no Energy from this method.
 
 ### Enemy HP Thresholds
 
-Every enemy has specific HP thresholds at which they will drop Elemental Particles or Orbs. Depending on the enemy type, either **clear or elemental particles/orbs** will be dropped. When enemies drop Particles/Orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
+Every enemy has specific HP thresholds at which they will drop Elemental Particles or Orbs. Depending on the enemy type, either **Clear or Elemental Particles/Orbs** will be dropped. When enemies drop Particles/Orbs and what is dropped depends on the enemy. To see the specifics, this [table](https://docs.google.com/spreadsheets/d/1_z2tKyqWCybPGHGFBhibtfSeHm3by6aCME_OakNz7-8/edit?usp=sharing) has both the estimated thresholds and a built in enemy HP calculator.
 
 ### Weapons
 
 #### Favonius Series
 
-**3 clear energy particles** are created when the passive procs, because particles are generated, the energy gained from this method is affected by Energy Recharge%. Refinements only change the frequency of orbs produced.
+**3 Clear Elemental Particles** are generated when the passive procs, because Particles are generated, the Energy gained from this method is affected by Energy Recharge. Refinements only change the frequency of Particles produced, not the amount of Particles.
 
 #### Prototype Amber
 
-**Flat energy** based on the refinement rank is given **only to the wielder** of Prototype Amber when the passive is activated.
+**Flat Energy** based on the Refinement Rank is given **only to the wielder** of Prototype Amber when the passive is triggered.
+
+#### Amenoma Kageuchi, Katsuragikiri Nagamasa, Kitain Cross Spear
+
+**Flat Energy** based on the Refinement Rank is given **only to the wielder** of these weapons depending on the amount of Succession Seeds.
 
 ### Artifacts
 
-Both 4 set Scholars and Exile give **flat energy** when the conditions of the passive are met.
+Both 4-Piece Scholar and The Exile give **Flat Energy** when the conditions of the passive are met.
 
 ## Energy Recharge Rates
 
 ### Flat Energy
 
-Energy that goes straight into a character's burst meter, this energy is **not affected** by Energy Recharge%.
+Energy that goes straight into a character's Burst meter, this Energy is **not affected** by Energy Recharge.
 
-### Orbs vs Particles
+### Particles vs Orbs
 
 ![](../.gitbook/assets/geoparticle.png) Geo Elemental Energy Particle **VS** ![](../.gitbook/assets/geoorb.png) Geo Elemental Energy Orb
 
-Energy Particles can be gained from elemental skills or hitting certain enemy HP thresholds. Energy Orbs are only dropped from reaching specific enemy HP thresholds.
+Energy Particles can be gained from Elemental Skills or hitting certain enemy HP thresholds. Elemental Orbs are only dropped from reaching specific enemy HP thresholds.
 
-Orbs give **three times** the amount of energy as particles do. At base, a particle is equivalent to 1 energy.
+Orbs give **three times** the amount of Energy that Particles give. At base, 1 Particle is the equivalent of 1 Energy.
 
 ### Elemental vs Clear
 
 ![](../.gitbook/assets/anemoorb.png) Anemo Elemental Energy Orb **VS** ![](../.gitbook/assets/clearorb.png) Clear Energy Orb
 
-Both energy particles and orbs have elemental variants for all available elements in the game and a clear variant. While elemental particles/orbs are gained through both skills and HP thresholds, clear particles/orbs can't be gained from elemental skills.
+Both Elemental Particles and Orbs have Elemental variants for all available Elements in the game and a Clear variant. While Elemental Particles/Orbs are gained through both Elemental Skills and HP thresholds, Clear Particles/Orbs can't be gained from Elemental Skills because each character has a vision of a specific Element and can only generate Elemental Particles of said Element.
 
-If a unit receives an elemental particle/orb of their element, they will gain **three times** more energy than that of a different element.
+If a unit receives an Elemental Particle/Orb of their Element, they will gain **three times** more Energy than that of a different Element.
 
-Clear particles/orbs give **two times** more energy than that of a different element than the unit's element.
+Clear Particles/Orbs give **two times** more Energy than that of a different Element than the unit's Element.
 
-### Off-field vs On-field
+### Off-Field vs On-Field
 
-In a party of 4, a unit off-field gains **60%** of the energy compared to if they had they been on-field to receive that energy. For parties of 3, **70%**. For parties of 2, **80%**.
+In a party of 4, a unit off-field gains **60%** of the Energy compared to if they had they been on-field to receive that Energy; for parties of 3, **70%**; for parties of 2, **80%**.
 
-### Energy Recharge%
+### Energy Recharge
 
-Energy Recharge is the multiplier that modifies how much energy is gained from the **incoming** energy particles/orbs. It **does not** change how much energy is outputted via elemental skills. Currently, there is no known soft cap for ER%, this has been tested up to 300.1% ER.
+Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gained from the **incoming** Elemental Particles/Orbs. It **does not** change how much Energy is generated via Elemental Skills. Currently, there is no known soft cap for ER%, this has been tested up to 300.1% ER.
 
 ## Table of Energy
 

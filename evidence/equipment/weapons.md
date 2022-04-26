@@ -721,6 +721,8 @@ The Skill% buff being dynamic also fits in line with other Skill% buffs which ar
 
 #### Klee and Kagura Stacks
 
+**This bug has been fixed in version 2.6, see this [Vault Entry](../../evidence/characters/pyro/klee.md#klee-stacking-bug-has-been-fixed) for more information.**  
+
 **By:** solo\#3333  
 **Added:** 03/09/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951283825449775195/transcript-klee-and-kagura-stacks.html)  
@@ -840,34 +842,34 @@ Potential implication for unforged? And you can't get a free shield for memory o
 
 ### Mistsplitter Reforged  
 
-#### Mistsplitter's stacks upon burst usage:  
+#### Mistsplitter Stacks Upon Burst Usage
 
 **By:** gtrain\#9987  
 **Added:** 09/06/2021  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875440257619877908/884459387270332446/transcript-mistsplitter-burst-interactions.html)
 
 **Finding:**  
-Number of mistsplitter stacks gained on Q is character dependent, and for some characters is inconsistent. 
+Number of Mistsplitter stacks gained on Q is character-dependent, and for some characters it's inconsistent. 
 
 The usual number of stacks gained is as follows:  
 0 stacks: AMC  
 1 stack: Bennett, Electro MC (usually), Geo MC, Kaeya, Xingqiu (rain sword damage reduction)  
 2 stacks: Ayaka, Jean, Kazuha, Keqing (initial hit, usually), Qiqi  
 
-Non-snapshotted bursts like keqing are important to document, as we must know whether the stacks apply on the initial hit.
+Non-snapshotted Bursts like Keqing's are important to document, as we must know whether the stacks apply on the initial hit.
 
 Inconsistencies are as follows:  
-MC in general, but AMC in particular: does very weird things once swapping elements; it may be possible to manipulate this into getting an extra stack on Q, but requires more testing (see here: [Youtube](https://youtu.be/cvwreqXZvPs))  
+MC in general, but AMC in particular: does very weird things once swapping Elements; it may be possible to manipulate this into getting an extra stack on Q, but requires more testing \(see here: [YouTube](https://youtu.be/cvwreqXZvPs)\)  
 Keqing: occasionally gains only 1 stack on the Q initial hit, even more rarely gains only 1 on the entire burst  
-Xingqiu gets 1 stack on his DR swords. Casting Q resnaps dmg bonus on swords first made by E. Casting E during Q does not resnapshot dmg%. 
+Xingqiu gets 1 stack on his DR swords. Casting Q resnaps DMG Bonus on swords first made by E. Casting E during Q does not resnapshot DMG%. 
 
-The ult stack seems to obey the same rules as the 4no effect, as the only character that usually only gains 0 mistsplitter stacks also generally does not obtain self-4no on their burst (AMC), though this is very inconsistent, and may also be manipulated by changing elements.
+The Burst stack seems to obey the same rules as the 4NO effect, as the only character that usually only gains 0 Mistsplitter stacks also generally does not obtain self-4NO on their burst (AMC), though this is very inconsistent, and may also be manipulated by changing Elements.
 
 **Evidence:**  
 [Speadsheet](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)
 
 **Significance:**  
-Damage calculation
+Damage calculations.
 
 #### Infused plunge attacks do not gain a stack.
 

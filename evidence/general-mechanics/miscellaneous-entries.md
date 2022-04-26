@@ -803,3 +803,56 @@ Frozen and barreled slimes blink.
 
 **Significance:**  
 Knowledge about the world, and it’s freaking cute uwu
+
+## Elemental Bursts Reset Directional Pad on Mobile
+
+**By:** Madrigal\#7486  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967818246889824296/transcript-elemental-bursts-reset-directional-pad-on-mobile.html)  
+
+**Finding:**  
+Almost all Elemental Bursts that have a zoom animation will reset the directional pad on mobile (only 1 known exception as of now). Bursts that have no zoom animation (either by design or by canceling the zoom) will not reset the directional pad. We can safely assume this trend for future characters without exhaustive testing.
+
+**Evidence:**  
+Bursts with zoom animation that reset the directional pad:  
+* [Keqing, Jean, Albedo, Zhongli](https://youtu.be/o0x4_2EkZdk)
+* [Aloy, Qiqi, Diluc](https://youtu.be/5bJzWAtt4KU)
+* [Barbara, Childe (melee stance)](https://youtu.be/Dfx7xguva_0)
+* [Ayaka, Kokomi, Kazuha, Ganyu](https://youtu.be/x6PGSPFyK4U)
+* [Hu Tao, Mona](https://youtu.be/xN8xF1PIVw8)
+* [Venti](https://youtu.be/HsMR9Fp-w-g)
+* [Raiden, Yae, Eula, Klee](https://imgur.com/a/9O9tpoL)
+* [Xiao](https://imgur.com/a/kqAcoTv)
+* [Itto](https://youtu.be/O2pVPwP1ZPI)
+* [Ayato](https://youtu.be/YIznxekACNI)
+* [Shenhe](https://imgur.com/a/DUsGRit)
+* [Yoimiya](https://imgur.com/a/YlNduoq)
+
+Burst with zoom animation that does not reset the directional pad:  
+* [Childe (ranged stance)](https://youtu.be/Ds_-2wNrPCU)
+
+Burst with the zoom animation canceled:  
+* [Zhongli, Albedo, Jean](https://youtu.be/hJUSOHeouKA)
+* [Childe (ranged stance), Ayato, Keqing](https://youtu.be/fxXfRGUuGhU)
+* [Childe (melee stance), Diluc, Qiqi](https://youtu.be/lVDzyRNMrac)
+* [Ayaka, Hu Tao, Ganyu](https://youtu.be/TL2aM3hec8c)
+* [Venti, Kazuha, Kokomi](https://youtu.be/ZVjctj60-EI)
+* [Raiden, Yae, Eula, Klee](https://imgur.com/a/aarRbsf)
+* [Xiao](https://imgur.com/a/BYQagXT)
+* [Itto](https://youtu.be/ksedJjlKr34)
+* [Shenhe](https://imgur.com/a/RUmv44e)
+* [Yoimiya](https://imgur.com/a/LTQIsPf)
+* [Barbara, Aloy](https://youtu.be/uiEo25AWbUA)
+* Do not have Mona evidence due to her Burst being exceptionally difficult to cancel
+
+Bursts with no zoom animation:  
+* [Sucrose, Ningguang, Noelle, Yun Jin](https://youtu.be/azJGkoalesk)
+* [Fischl, Beidou, Diona, Chongyun](https://youtu.be/kFlBdXciOnY)
+* [Bennett, Xiangling, Sayu, Rosaria](https://youtu.be/JIHyWpfswS0)
+* [Lisa, Xinyan, Sara, Kaeya](https://youtu.be/LOXgRX8j_f0)
+* [Amber](https://youtu.be/uiEo25AWbUA)
+* Traveler: [Anemo](https://youtu.be/EsjKKIwolDU), [Geo](https://youtu.be/Gn3c5p3p6G0), [Electro](https://youtu.be/3KmtRxj2kW8)
+* [Gorou](https://youtu.be/jYjJt4vUZYc)
+
+**Significance:**  
+A \(well\-known\) annoyance for mobile users, now documented. Sometimes, it's the game issue, not your skill issue. Zhongli's pillar is now your best friend.

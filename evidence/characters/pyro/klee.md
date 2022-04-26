@@ -130,14 +130,14 @@ You can leave Bennett Q after using Klee burst and you also keep other atk% buff
 Updated: 12/28/2020
 
 **Theory:**  
-Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off-field after auto attacking or using her E.
+Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Explosive Spark' if she's swapped off\-field after auto attacking or using her E.
 
 **Evidence:**  
 Tested for a few minutes on a world boss, but here's just a short clip.
 
-* [https://youtu.be/0DEbRVl1pXE](https://youtu.be/0DEbRVl1pXE) 
-* [https://youtu.be/SGMMKs5lpkI](https://youtu.be/SGMMKs5lpkI) 
-* [https://youtu.be/sTtaWS0g1gQ](https://youtu.be/sTtaWS0g1gQ)
+* [Video 1](https://youtu.be/0DEbRVl1pXE) 
+* [Video 2](https://youtu.be/SGMMKs5lpkI) 
+* [Video 3](https://youtu.be/sTtaWS0g1gQ)
 
 **Significance:**  
 Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow you to switch characters immediately after the second without any downside. However, as it stands, players looking to maximize the benefit from the talent's charge attack buff will want to look for the proc before swapping, bringing two grounded AA1s closer in-line to - AA1 &gt; AA2 &gt; jump cancel combo. As for why you would want to swap characters frequently from Klee in the first place, that would be to set up reactions manually, or refresh Viridescent Venerer 4pc effect. A rotation could run something like this:
@@ -147,6 +147,21 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 * Swap to Cryo/Hydro unit and wait briefly for pyro to elapse naturally due to the swirl shortening its duration before proccing the aura element
 * Klee Charge Attack
 * Repeat.
+
+### Klee A1 Bug
+
+**By:** Tsuki\#8993  
+**Added:** 04/24/2022
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967842007131246712/transcript-klee-a1-bug.html)  
+
+**Bug:**  
+If Klee gains a spark from her A1 while canceling the NA with a CA, her Stamina still gets consumed.  
+
+**Evidence:**  
+In [this video](https://imgur.com/a/XUrjYOD) Klee gains a spark on the second N1 and the CA gets the buff, but the Stamina still gets reduced.
+
+**Significance:**  
+When doing Klee's N1C, you might not benefit from the Stamina reduction passive if the spark is obtained during the animation cancel.  
 
 ### Ascension 1 Mechanics  
 
@@ -278,3 +293,19 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 
 **Significance:**  
 4CW is better than expected for Klee.
+
+### Klee Stacking Bug Has Been Fixed
+
+**By:** pai\#3602  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967824209369776198/transcript-klee-stacking-bug-has-been-fixed.html)  
+
+**Finding:**  
+Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.  
+
+**Evidence:**  
+* [Kagura's Verity](https://youtu.be/N6nGySw-kAo): only the 2 rows of bells light up, indicating 2 stacks from 2 E casts.
+* [4pc CW](https://youtu.be/pELuy5gmEX4): only 15% Pyro DMG Bonus gained, indicating 2 stacks from 2 E casts.
+
+**Significance:**  
+No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4pc CW in comparison to before.  

@@ -185,7 +185,7 @@ Prefixed numbers indicate the number of repititions, while the suffix number aft
 * 8N1CD means doing the 1st NA, a CA, dashing to cancel the CA animation, then repeating the combo until it has been performed a total of 8 times.
 
 **Rotation:**
-Many team compositions have full rotations that can be listed out using combat notation, and are typically repeatable sequences. Annotations for different buffs are typically not listed explicitlu like Thrilling Tales of Dragonslayer.
+Many team compositions have full rotations that can be listed out using combat notation, and are typically repeatable sequences. Annotations for different buffs are typically not listed explicitly like Thrilling Tales of Dragon Slayers.
 * Tartaglia E > Swap Bennett Q > Kazuha Q > Xiangling EQ > Tartaglia
 
 **NA:**

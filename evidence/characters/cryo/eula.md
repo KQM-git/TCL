@@ -157,9 +157,33 @@ At high ping Eula's elemental burst does not properly lock stacks in on time, al
 **Significance:**  
 Eula is stronger under high ping.  
 
+### Eula Burst Animation Cancel
+
+**By:** TWICE\#9958  
+**Added:** 04/24/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967821800463556658/transcript-eula-burst-animation-cancel.html)  
+
+
+**Original Credit:**  
+Concept by [frenchtutor_ on YouTube](https://www.youtube.com/watch?v=bcIuwY4mC34).  
+
+**Finding:**  
+By holding down walk \(W\) during Eula's Burst animation, you are actionable ~4 frames earlier compared to not holding it down.  
+
+**Evidence:**  
+* [Cancel](https://youtu.be/yVweQd57Uv4)
+* [No cancel](https://youtu.be/uFZfWpSS1rQ)
+
+All testing was done on 2\.5 Abyss 12\-3\-1 at 60 FPS (in game and in recording). Eula has Song of Broken Pines, but the buff is not in effect. You can verify this both with the timer \(too soon\) and the fact that Sigils appear in the NAs after the Burst.  
+Results over 10 trials each: the Burst animation takes 116-117 frames if inputting walk, and 120-121 frames if not.
+
+**Significance:**  
+The sweatiest of gamers can save up to ~4 frames of Eula's initial Burst animation. This gives a sliver of more leeway in building stacks for Eula's Lightfall, and for spacing out Eula's A1 and second N4 sequence. In the vast majority of cases/reaction times, there will be a negligible difference. 
+
 ## Synergies/Interactions
 
-* Shenhe E applies A4 buff fast enough to buff Eula's Lightfall explosion via the "swap trick". - [Video](https://youtu.be/SiiOtS8mtMc) - TWICE\#9958
+* Shenhe E applies A4 buff fast enough to buff Eula's Lightfall explosion via the "swap trick".  
+* [Video](https://youtu.be/SiiOtS8mtMc) - TWICE\#9958
 
 ### Rosaria A4 Eula Burst Inconsistency
 

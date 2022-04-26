@@ -2,11 +2,11 @@
 search: false
 ---
 
-# ARCC
+# Aim Cancel
 
 **Main Page:**  
 
-{% page-ref page="../../../combat-mechanics/tech/arcc.md" %}
+{% page-ref page="../../../combat-mechanics/tech/aim-cancel.md" %}
 
 ## How to ARCC
 

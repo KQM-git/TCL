@@ -88,8 +88,6 @@ Starts with 2 charges.
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
-* **Jumpy Dumpty** can trigger 2 stacks of the Crimson Witch of Flames 4-Piece Bonus by repeatedly pressing E. This is a bug that has not yet been fixed since Klee's first release.
-* Klee can get 2 stacks of Kagura's Verity by quickly pressing E twice and not doing anything else for the next ~81 frames. See this [Vault Entry](../../evidence/equipment/weapons.md#klee-and-kagura-stacks) for more details.
 {% endtab %}
 
 {% tab title="Sparks \'n\' Splash" %}
@@ -139,6 +137,7 @@ This Explosive Spark is consumed by the next Charged Attack, which costs no Stam
 * Explosive Spark lasts up to 30 seconds when not consumed.  
 * Explosive Spark stays even when Klee has been swapped out.  
 * Explosive Spark can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".
+* If an Explosive Spark obtained from a Normal Attack is animation canceled by a Charged Attack, Stamina will still be consumed during the Charged Attack.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
