@@ -8,10 +8,16 @@ For bow characters, Aimed Shot mode is used to shoot Charged Attacks (CAs). Ther
 
 ## Aim Toggle / R Mode
 
-{% tabs %}  
-{% tab title="Elemental" %}{% embed url="https://imgur.com/2LCnunv" %}{% endtab %}  
-{% tab title="Physical" %}{% embed url="https://imgur.com/Ud2Co1G" %}{% endtab %}  
-{% endtabs %}  
+
+{% tabs %}
+{% tab title="Elemental" %}
+{% embed url="https://imgur.com/2LCnunv" %}
+{% endtab %}
+
+{% tab title="Physical" %}
+{% embed url="https://i.imgur.com/Ud2Co1G.mp4" %}
+{% endtab %}
+{% endtabs %}
 
 **Inputs:**  
 * **PC/Mobile:** Tap Aim Toggle (R on PC), press and release Attack (M1) to shoot. Tap R again when finished shooting.
