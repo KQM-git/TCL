@@ -1,7 +1,5 @@
 ---
-description: >-
-  The 77th Director of the Wangsheng Funeral Parlor. She took over the business
-  at a rather young age.
+description: The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.
 ---
 
 # Hu Tao
@@ -12,105 +10,105 @@ description: >-
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 * [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
 
-## ![](<../../.gitbook/assets/element\_pyro (24).png>) Hu Tao
+## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
 
-![](../../.gitbook/assets/character\_hu\_tao\_wish.png)
+![](../../.gitbook/assets/character_hu_tao_wish.png)
 
 ## **Base Stats**
 
-| Lv  | Base HP | Base ATK | Base DEF | CRIT DMG% |
-| --- | ------- | -------- | -------- | --------- |
-| 60  | 10089   | 69       | 568      | 69.20%    |
-| 60+ | 10826   | 74       | 610      | 69.20%    |
-| 70  | 11899   | 81       | 670      | 69.20%    |
-| 70+ | 12637   | 86       | 712      | 78.80%    |
-| 80  | 13721   | 94       | 773      | 78.80%    |
-| 80+ | 14459   | 99       | 815      | 88.40%    |
-| 90  | 15552   | 106      | 876      | 88.40%    |
+| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 10089 | 69 | 568 | 69.20% |
+| 60+ | 10826 | 74 | 610 | 69.20% |
+| 70 | 11899 | 81 | 670 | 69.20% |
+| 70+ | 12637 | 86 | 712 | 78.80% |
+| 80 | 13721 | 94 | 773 | 78.80% |
+| 80+ | 14459 | 99 | 815 | 88.40% |
+| 90 | 15552 | 106 | 876 | 88.40% |
 
 ## **Attacks**
 
 {% tabs %}
 {% tab title="Secret Spear of Wangsheng" %}
-**Normal Attacks**\
+**Normal Attacks**  
 Hu Tao performs up to 6 consecutive spear strikes.
 
-| String   | Talent 9%      | Frames  | Motion Value |
-| -------- | -------------- | ------- | ------------ |
-| 1-Hit    | 78.85%         | 13      | 363.92%/s    |
-| 2-Hit    | 81.15%         | 29      | 331.03%/s    |
-| 3-Hit    | 102.68%        | 54      | 291.87%/s    |
-| 4-Hit    | 110.4%         | 90      | 248.72%/s    |
-| 5-Hit    | 55.96% + 59.2% | 120+134 | 218.61%/s    |
-| 6-Hit    | 144.57%        | 173     | 219.47%/s    |
-| Recovery | N/A            | 238     | 159.53%/s    |
+| String | Talent 9% | Frames | Motion Value |
+| :--- | :--- | :--- | :--- |
+| 1-Hit | 78.85% | 13 | 363.92%/s |
+| 2-Hit | 81.15% | 29 | 331.03%/s |
+| 3-Hit | 102.68% | 54 | 291.87%/s |
+| 4-Hit | 110.4% | 90 | 248.72%/s |
+| 5-Hit | 55.96% + 59.2% | 120+134 | 218.61%/s |
+| 6-Hit | 144.57% | 173 | 219.47%/s |
+| Recovery | N/A | 238 | 159.53%/s |
 
-**Charged Attack**\
+**Charged Attack**  
 Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
 | String | Talent 9% | Frames | Motion Value |
-| ------ | --------- | ------ | ------------ |
-| N1C    | 307.51%   | 65     | 283.86%      |
-| N2C    | 388.66%   | 85     | 274.35%      |
-| N3C    | 491.34%   | 92     | 320.44%      |
-| N4C    | 601.74%   |        |              |
-| N5C    | 716.90%   |        |              |
-| N6C    | 861.47%   |        |              |
+| :--- | :--- | :--- | :--- |
+| N1C | 307.51% | 65 | 283.86% |
+| N2C | 388.66% | 85 | 274.35% |
+| N3C | 491.34% | 92 | 320.44% |
+| N4C | 601.74% |  |  |
+| N5C | 716.90% |  |  |
+| N6C | 861.47% |  |  |
 
-* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](hu-tao/#animation-cancels).
+* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
 * Hu Tao's [Vape MV/s](../../.gitbook/assets/hutaovapemvs.jpg)
 
-From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi\_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
+From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
 
-**Plunge**\
+**Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type     | Talent 9% |
-| --------------- | --------- |
-| Plunge Impact   | 110.02%   |
-| Low Plunge DMG  | 220%      |
-| High Plunge DMG | 274.79%   |
+| Damage Type | Talent 9% |
+| :--- | :--- |
+| Plunge Impact | 110.02% |
+| Low Plunge DMG | 220% |
+| High Plunge DMG | 274.79% |
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
-Only an unwavering flame can cleanse the impurities of this world.\
+Only an unwavering flame can cleanse the impurities of this world.  
 Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
 
-**Paramita Papilio**\
-• Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.\
-• Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.\
-• Charged Attacks apply the **Blood Blossom** effect to the enemies hit. • Increases Hu Tao's resistance to interruption.
+**Paramita Papilio**  
+• Increases Hu Tao's ATK based on her Max HP at the time of entering this state. ATK Bonus gained this way cannot exceed 400% of Hu Tao's Base ATK.  
+• Converts attack DMG to Pyro DMG, which cannot be overridden by any other elemental infusion.  
+• Charged Attacks apply the **Blood Blossom** effect to the enemies hit.
+• Increases Hu Tao's resistance to interruption.
 
-**Blood Blossom**\
-Enemies affected by **Blood Blossom** will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.\
+**Blood Blossom**  
+Enemies affected by **Blood Blossom** will take Pyro DMG every 4s. This DMG is considered Elemental Skill DMG.  
 Each enemy can be affected by only one **Blood Blossom** effect at a time, and its duration may only be refreshed by Hu Tao herself.
 
 **Paramita Papilio** ends when its duration is over, or Hu Tao has left the battlefield or fallen.
 
-| Attribute          | Paramita Papilio |
-| ------------------ | ---------------- |
-| ATK Increase (T9%) | 5.96% Max HP     |
-| Activation Cost    | 30% Current HP   |
-| Particles          | 2\~3 (3:2)       |
-| Frames             | 42               |
-| Infusion Element   | Pyro             |
-| Duration           | 9s               |
-| Cooldown           | 16s              |
+| Attribute | Paramita Papilio |
+| :--- | :--- |
+| ATK Increase \(T9%\) | 5.96% Max HP |
+| Activation Cost | 30% Current HP |
+| Particles | 2~3 \(3:2\) |
+| Frames | 42 |
+| Infusion Element | Pyro |
+| Duration | 9s |
+| Cooldown | 16s |
 
-| Attribute               | Blood Blossom |
-| ----------------------- | ------------- |
-| Blood Blossom DMG (T9%) | 108.8%        |
-| GU                      | 1A            |
-| ICD                     | 3 hit / 2.5s  |
-| Snapshot                | Dynamic       |
-| Damage Element          | Pyro          |
-| Damage Type             | Skill         |
-| Blood Blossom Duration  | 8s            |
+| Attribute | Blood Blossom |
+| :--- | :--- |
+| Blood Blossom DMG \(T9%\) | 108.8% |
+| GU | 1A |
+| ICD | 3 hit / 2.5s |
+| Snapshot | Dynamic |
+| Damage Element | Pyro |
+| Damage Type | Skill |
+| Blood Blossom Duration | 8s |
 
 **Notes**
-
-* Blood Blossom tick rate is effected by hitlag. (+1s)
+* Blood Blossom tick rate is effected by hitlag. \(+1s\)
 * Elemental Particles are generated by Pyro-infused Normal and Charged Attacks during **Paramita Papilio**.
   * There is a 5-second ICD between instances of Particle production.
   * Meaning, ideally Hu Tao will generate particles twice while infused
@@ -122,28 +120,27 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
 {% tab title="Spirit Soother" %}
 Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
-* Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit.
+* Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. 
 * If Hu Tao's HP is below or equal to 50% when the enemy is hit, both the DMG and the HP Regeneration are increased.
 
-| Attribute                       | Burst         |
-| ------------------------------- | ------------- |
-| Skill DMG (T9%)                 | 470.34%       |
-| Low HP Skill DMG (T9%)          | 587.93%       |
-| Skill HP Regeneration (T9%)     | 9.71% Max HP  |
+| Attribute | Burst |
+| :--- | :--- |
+| Skill DMG (T9%) | 470.34% |
+| Low HP Skill DMG (T9%) | 587.93% |
+| Skill HP Regeneration (T9%) | 9.71% Max HP |
 | Low HP Skill Regeneration (T9%) | 12.95% Max HP |
-| Cast Frames                     | 130           |
-| Energy Frame                    | 73            |
-| CD Frame                        | 64            |
-| GU                              | 2B            |
-| ICD                             | None          |
-| Snapshot                        | On Cast       |
-| Damage Element                  | Pyro          |
-| Damage Type                     | Burst         |
-| Energy Cost                     | 60            |
-| Cooldown                        | 15s           |
+| Cast Frames | 130 |
+| Energy Frame | 73 |
+| CD Frame | 64 |
+| GU | 2B |
+| ICD | None |
+| Snapshot | On Cast |
+| Damage Element | Pyro |
+| Damage Type | Burst |
+| Energy Cost | 60 |
+| Cooldown | 15s |
 
 **Notes**
-
 * Spirit Soother is snapshot on cast, and will even extend Paramita Papilio to do so.
 {% endtab %}
 {% endtabs %}
@@ -152,19 +149,19 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 {% tabs %}
 {% tab title="Passive" %}
-#### **The More the Merrier**
+### **The More the Merrier**
 
 When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional "Suspicious" dish of the same type.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-#### **Flutter By**
+### **Flutter By**
 
 When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-#### **Sanguine Rouge**
+### **Sanguine Rouge**
 
 When Hu Tao's HP is equal to or less than 50%, her **Pyro DMG Bonus** is increased by 33%.
 {% endtab %}
@@ -174,43 +171,51 @@ When Hu Tao's HP is equal to or less than 50%, her **Pyro DMG Bonus** is increas
 
 {% tabs %}
 {% tab title="C1" %}
-#### **Crimson Bouquet**
+### **Crimson Bouquet**
 
 While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Tao's Charge Attacks do not consume Stamina.
+
 {% endtab %}
 
 {% tab title="C2" %}
-#### **Ominous Rainfall**
+### **Ominous Rainfall**
 
-Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.\
+Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.  
 Additionally, **Spirit Soother** will also apply the **Blood Blossom** effect.
+
 {% endtab %}
 
 {% tab title="C3" %}
-#### **Lingering Carmine**
+### **Lingering Carmine**
 
-Increases the Level of **Guide to Afterlife** by 3. Maximum upgrade level is 15.
+Increases the Level of **Guide to Afterlife** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C4" %}
-#### **Garden of Eternal Rest**
+### **Garden of Eternal Rest**
 
 Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
+
 {% endtab %}
 
 {% tab title="C5" %}
-#### **Floral Incense**
+### **Floral Incense**
 
-Increases the Level of **Spirit Soother** by 3. Maximum upgrade level is 15.
+Increases the Level of **Spirit Soother** by 3.
+Maximum upgrade level is 15.
+
 {% endtab %}
 
 {% tab title="C6" %}
-#### **Butterfly's Embrace**
+### **Butterfly's Embrace**
 
-Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:\
-Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.\
-This effect triggers automatically when Hu Tao has 1 HP left.\
+Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:  
+Hu Tao will not fall as a result of the DMG sustained. Additionally, for the next 10s, all of her Elemental and Physical RES is increased by 200%, her CRIT Rate is increased by 100%, and her resistance to interruption is greatly increased.  
+This effect triggers automatically when Hu Tao has 1 HP left.  
 Can only occur once every 60s.
+
 {% endtab %}
 {% endtabs %}
 
@@ -218,56 +223,60 @@ Can only occur once every 60s.
 
 {% tabs %}
 {% tab title="Secret Spear of Wangsheng" %}
-#### Normal Attacks
+### Normal Attacks
 
-|             | Lv1    | Lv2    | Lv3    | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
-| ----------- | ------ | ------ | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| 1-Hit DMG   | 46.89% | 50.08% | 53.28% | 57.54%  | 60.74%  | 64.47%  | 69.26%  | 74.06%  | 78.85%  | 83.65%  | 88.44%  |
-| 2-Hit DMG   | 48.25% | 51.54% | 54.83% | 59.22%  | 62.51%  | 66.35%  | 71.28%  | 76.22%  | 81.15%  | 86.09%  | 91.02%  |
-| 3-Hit DMG   | 61.05% | 65.21% | 69.38% | 74.92%  | 79.09%  | 83.94%  | 90.19%  | 96.43%  | 102.67% | 108.92% | 115.16% |
-| 4-Hit DMG   | 65.64% | 70.12% | 74.59% | 80.56%  | 85.03%  | 90.26%  | 96.97%  | 103.68% | 110.40% | 117.11% | 123.82% |
-| 5-Hit 1 DMG | 33.27% | 35.54% | 37.81% | 40.84%  | 43.10%  | 45.75%  | 49.15%  | 52.56%  | 55.96%  | 59.36%  | 62.77%  |
-| 5-Hit 2 DMG | 35.20% | 37.60% | 40.00% | 43.20%  | 45.60%  | 48.40%  | 52.00%  | 55.60%  | 59.20%  | 62.80%  | 66.40%  |
-| 6-Hit DMG   | 85.96% | 91.82% | 97.68% | 105.49% | 111.36% | 118.19% | 126.98% | 135.78% | 144.57% | 153.36% | 162.15% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 46.89% | 50.08% | 53.28% | 57.54% | 60.74% | 64.47% | 69.26% | 74.06% | 78.85% | 83.65% | 88.44% |
+| 2-Hit DMG | 48.25% | 51.54% | 54.83% | 59.22% | 62.51% | 66.35% | 71.28% | 76.22% | 81.15% | 86.09% | 91.02% |
+| 3-Hit DMG | 61.05% | 65.21% | 69.38% | 74.92% | 79.09% | 83.94% | 90.19% | 96.43% | 102.67% | 108.92% | 115.16% |
+| 4-Hit DMG | 65.64% | 70.12% | 74.59% | 80.56% | 85.03% | 90.26% | 96.97% | 103.68% | 110.40% | 117.11% | 123.82% |
+| 5-Hit 1 DMG | 33.27% | 35.54% | 37.81% | 40.84% | 43.10% | 45.75% | 49.15% | 52.56% | 55.96% | 59.36% | 62.77% |
+| 5-Hit 2 DMG | 35.20% | 37.60% | 40.00% | 43.20% | 45.60% | 48.40% | 52.00% | 55.60% | 59.20% | 62.80% | 66.40% |
+| 6-Hit DMG | 85.96% | 91.82% | 97.68% | 105.49% | 111.36% | 118.19% | 126.98% | 135.78% | 144.57% | 153.36% | 162.15% |
 
-#### Charged Attack
+### Charged Attack
 
-|                | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
-| -------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack | 135.96% | 145.23% | 154.50% | 166.86% | 176.13% | 186.94% | 200.85% | 214.76% | 228.66% | 242.56% | 256.47% |
 
 **Stamina Cost**: 25
 
-#### Plunge
+### Plunge
 
-|                 | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    |
-| --------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Plunge DMG      | 65.42%  | 69.88%  | 74.34%  | 80.29%  | 84.75%  | 89.95%  | 96.64%  | 103.33% | 110.02% | 116.71% | 123.40% |
-| Low Plunge DMG  | 130.81% | 139.73% | 148.65% | 160.54% | 169.46% | 179.86% | 193.24% | 206.62% | 220.00% | 233.38% | 246.76% |
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 65.42% | 69.88% | 74.34% | 80.29% | 84.75% | 89.95% | 96.64% | 103.33% | 110.02% | 116.71% | 123.40% |
+| Low Plunge DMG | 130.81% | 139.73% | 148.65% | 160.54% | 169.46% | 179.86% | 193.24% | 206.62% | 220.00% | 233.38% | 246.76% |
 | High Plunge DMG | 163.39% | 174.53% | 185.67% | 200.52% | 211.66% | 224.66% | 241.37% | 258.08% | 274.79% | 291.50% | 308.21% |
+
 {% endtab %}
 
 {% tab title="Guide to Afterlife" %}
-|                   | Lv1   | Lv2   | Lv3   | Lv4   | Lv5   | Lv6   | Lv7   | Lv8    | Lv9    | Lv10   | Lv11   | Lv12   | Lv13   |
-| ----------------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ------ | ------ | ------ | ------ | ------ | ------ |
-| ATK Increase      | 3.84% | 4.07% | 4.30% | 4.60% | 4.83% | 5.06% | 5.36% | 5.66%  | 5.96%  | 6.26%  | 6.55%  | 6.85%  | 7.15%  |
+
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ATK Increase | 3.84% | 4.07% | 4.30% | 4.60% | 4.83% | 5.06% | 5.36% | 5.66% | 5.96% | 6.26% | 6.55% | 6.85% | 7.15% |
 | Blood Blossom DMG | 64.0% | 68.8% | 73.6% | 80.0% | 84.8% | 89.6% | 96.0% | 102.4% | 108.8% | 115.2% | 121.6% | 128.0% | 136.0% |
 
-**Activation Cost**: 30% Current HP\
-**Blood Blossom Duration**: 8s\
-**Duration**: 9s\
+**Activation Cost**: 30% Current HP  
+**Blood Blossom Duration**: 8s  
+**Duration**: 9s  
 **Cooldown**: 16s
+
 {% endtab %}
 
 {% tab title="Spirit Soother" %}
-|                           | Lv1     | Lv2     | Lv3     | Lv4     | Lv5     | Lv6     | Lv7     | Lv8     | Lv9     | Lv10    | Lv11    | Lv12    | Lv13    |
-| ------------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Skill DMG                 | 303.27% | 321.43% | 339.59% | 363.20% | 381.36% | 399.52% | 423.13% | 446.74% | 470.34% | 493.95% | 517.56% | 541.17% | 564.78% |
-| Low HP Skill DMG          | 379.09% | 401.79% | 424.49% | 454.00% | 476.70% | 499.40% | 528.91% | 558.42% | 587.93% | 617.44% | 646.95% | 676.46% | 705.97% |
-| Skill HP Regeneration     | 6.26%   | 6.64%   | 7.01%   | 7.50%   | 7.87%   | 8.25%   | 8.74%   | 9.22%   | 9.71%   | 10.20%  | 10.69%  | 11.17%  | 11.66%  |
-| Low HP Skill Regeneration | 8.35%   | 8.85%   | 9.35%   | 10.00%  | 10.50%  | 11.00%  | 11.65%  | 12.30%  | 12.95%  | 13.60%  | 14.25%  | 14.90%  | 15.55%  |
 
-**Cooldown**: 15s\
+|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill DMG | 303.27% | 321.43% | 339.59% | 363.20% | 381.36% | 399.52% | 423.13% | 446.74% | 470.34% | 493.95% | 517.56% | 541.17% | 564.78% |
+| Low HP Skill DMG | 379.09% | 401.79% | 424.49% | 454.00% | 476.70% | 499.40% | 528.91% | 558.42% | 587.93% | 617.44% | 646.95% | 676.46% | 705.97% |
+| Skill HP Regeneration | 6.26% | 6.64% | 7.01% | 7.50% | 7.87% | 8.25% | 8.74% | 9.22% | 9.71% | 10.20% | 10.69% | 11.17% | 11.66% |
+| Low HP Skill Regeneration | 8.35% | 8.85% | 9.35% | 10.00% | 10.50% | 11.00% | 11.65% | 12.30% | 12.95% | 13.60% | 14.25% | 14.90% | 15.55% |
+
+**Cooldown**: 15s  
 **Energy Cost**: 60
 {% endtab %}
 {% endtabs %}
@@ -276,13 +285,13 @@ Can only occur once every 60s.
 
 {% tabs %}
 {% tab title="Animation Cancels" %}
-* [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)
+* [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)  
 * [N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
+
 {% endtab %}
 {% endtabs %}
 
 ## Evidence Vault
 
-{% content-ref url="../../evidence/characters/pyro/hu-tao.md" %}
-[hu-tao.md](../../evidence/characters/pyro/hu-tao.md)
-{% endcontent-ref %}
+{% page-ref page="../../evidence/characters/pyro/hu-tao.md" %}
+
