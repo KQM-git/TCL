@@ -15,10 +15,10 @@ description: For entries that have little practical use.
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/971888182016766062/transcript-certain-vertical-mechanics-testing.html)  
 
 **Finding:**  
-Certain characters have a finite vertical range to the buffs and/or infusions from their ablities, while others seem to have near infinite vertical range.  
+Certain characters have a finite vertical range for the buffs and/or infusions from their ablities, while others seem to have near infinite vertical range.  
 
 **Evidence:**  
-* Bennett has either infinite or a very long range on his Burt healing pyro infusion from c6, pyro dmg bonus from c6. etc.   
+* Bennett has either infinite or a very long range on his Burst healing pyro infusion from c6, pyro dmg bonus from c6. etc.   
    * [Youtube](https://youtu.be/5EEAXYn3cn0)    
 
 * Chongyun has either infinite or a very long range on Skill infusion, atk speed etc.  
