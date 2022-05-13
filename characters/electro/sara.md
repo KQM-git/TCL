@@ -126,11 +126,12 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 | CD | 20s |
 
 **Notes**
-* The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel
+* The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.
 * **Titanbreaker** and **Stormcluster** do not share ICDs.
 * Both **Titanbreaker** and **Stormcluster** damage is snapshot on **Subjugation: Koukou Sendou** cast.
-* For Sara's ATK bonus to apply, a character has to be in a radius of the initial **Titanbreaker** hit equal to the range of the **Stormcluster** hits.
-* **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast.
+* For Sara's ATK bonus to apply, a character needs to be hit by **Titanbreaker** or **Stormclusters**.
+    * Multiple characters can be buffed this way. 
+* **Titanbreaker** targets closest enemy, then **Stormcluster** moves outward in a plus-shape with one branch directed at Sara’s location at time of cast, dealing 5 hits each.
 *  **Subjugation: Koukou Sendou** does not benefit from its own attack bonus.
 
 {% endtab %}
@@ -202,6 +203,8 @@ Maximum upgrade level is 15.
 
 The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou Sendou** is increased to 6.
 
+* Each individual **Stormcluster** still hits 5 times, but two additional **Stormclusters** are added, spreading out in the 10:30 and 1:30 directions away from the **Titanbreaker** hit.
+
 {% endtab %}
 
 {% tab title="C5" %}
@@ -218,6 +221,7 @@ Maximum upgrade level is 15.
 The **Electro DMG** of characters who have had their ATK increased by **Tengu Juurai** has its Crit DMG increased by 60%.
 
 * The effects of **Sin of Pride** do not get snapshot.
+* **Stormclusters** can benefit from this buff if Sara is hit by her own **Titanbreaker** or **Stormclusters**.
 {% endtab %}
 {% endtabs %}
 
