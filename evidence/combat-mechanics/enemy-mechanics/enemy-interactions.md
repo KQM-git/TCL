@@ -154,6 +154,32 @@ Summary: [Google Sheet](https://docs.google.com/spreadsheets/d/1s_A_RhVCkLn07XMW
 **Significance:**  
 Insight into the behavior and mechanics of enemies in the Overworld.  
 
+### Some Enemy CC is Level Dependent
+
+**By:** elijam\#7142  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974425599466668032/transcript-some-enemy-cc-is-level-dependent.html)  
+
+**Finding:**  
+Some enemy CC, notably Hydro bubbles from large Slimes, enemy aura disorders, and Abyss Mages, and Cryo ice cages from enemy aura disorders, do not apply to characters over 20 levels higher than the enemy. Some CC, notably succ from Anemo Samachurls, Mirror Maiden Traps, and Dendro barriers, apply regardless of character and enemy level.  
+
+**Evidence:**  
+Level dependent \(Xiao/Sucrose/Kazuha Lvl. 90 free, Fischl/Yun Jin Lvl. 70/40 trapped\):  
+* [Hydro Slime (bubble)](https://youtu.be/9X1Sjo7FN2w)
+* [Hydro Abyss Mage (bubble)](https://youtu.be/P_AuTXI9sPU)
+* [Cryo Slime (cage)](https://youtu.be/lBCfvE42-KQ)
+
+Level independent \(Sucrose Lvl. 90 trapped or affected, Yun Jin Lvl. 40 trapped or affected\):  
+* [Mirror Maide (cage)](https://youtu.be/TEjsBpsv3GM)
+* [Dendro Samachurl (vine)](https://youtu.be/pH4oe-BI3JE)
+* [Anemo Samachurl (tornado)](https://youtu.be/tXuW6ISx5Sk)
+
+20 levels higher:
+* [19, 20, and 21 level difference](https://youtu.be/RVpgOohc2ic)
+
+**Significance:**  
+Even more Ws for when you're absolutely carrying your low AR friends. Maybe helpful for revisiting lower Abyss floors when achievement grinding.  
+
 ## General Boss Interactions
 
 ### Freeze Interaction on Boss Enemies

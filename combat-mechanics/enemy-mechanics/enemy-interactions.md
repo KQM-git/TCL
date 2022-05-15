@@ -76,7 +76,14 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 * Corrosion stacks applied by a Rifthound or Rifthound Whelp deal 0.5% max HP damage per tick.
 
 ## De-Aggro Distances
+
 * Different types of enemies in the Overworld de-aggro at different ranges from their spawn, not at specific distances. These ranges take all 3 axes of the coordinate system into consideration.  
+
+## Enemy CC
+
+* Some enemy CC do not affect characters that are more than 20 levels above the enemy \(characters that are exactly 20 levels above will still be affected\).
+  * Level dependent: Hydro bubbles from large Slimes, enemy aura disorders, and Abyss Mages, and Cryo ice cages from enemy aura disorders.
+  * Level independent: tornado from Anemo Samachurls, Mirror Maiden Traps, and Dendro barriers.
 
 ## Evidence Vault
 
