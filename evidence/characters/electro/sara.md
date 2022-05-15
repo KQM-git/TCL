@@ -12,7 +12,7 @@ search: false
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300042495983667/885319887386460230/transcript-sara-basic-mechanics.html)
 
-### Attack Attributes
+## Attack Attributes
 
 * Gauges
   * [Charged Attack](https://imgur.com/eOG8f1B), [Skill, C2](https://imgur.com/IIFR5vv), [Burst](https://imgur.com/CxpW3dC): 1A - Nass008#8577
@@ -20,7 +20,7 @@ search: false
   * [E and C2](https://imgur.com/HQwwq5N): No ICD
   * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for electro application
 
-### Skill Mechanics
+## Skill Mechanics
 
 * Tengu Juurai: Ambush DMG can proc Sacrificial Bow's passive. - [Wishiwashi#2548](https://imgur.com/a/lGH7qcD)
 * Tengu Stormcall only buffs the on-field character upon Crowfeather Explosion. - [Wishiwashi#2548](https://imgur.com/a/Tu78HDN)
@@ -131,11 +131,8 @@ Alley flash
 **Significance:**  
 Insights into feather application mechanics (maybe first 0 damage and friendly fire in game?) as well as clarification on what skills are actually on hit vs. taking damage.
 
-### Burst Mechanics
+## Burst Mechanics
 
-* For Sara's ATK buff to apply on burst, a character has to be in a radius of the initial hit equal to the range of the Stormcluster hits. - Bobrokrot#0111
-  * [No ATK buff](https://youtu.be/_vT-ZlQmqc8)
-  * [Successful ATK buff](https://youtu.be/gC1d89Jmd9c), does not require getting hit by bolts.
 * Titanbreaker targets closest enemy, then Stormcluster moves outward in a plus-shape with one branch directed at Sara’s location at time of cast. - [Wishiwashi#2548](https://imgur.com/a/313LEY4)
 * Both Titanbreaker and Stormcluster damage is snapshot on Burst cast. - [Nass008#8577](https://imgur.com/skAgh1K)
 * Sara's energy drain after burst cast occurs very late into her animation, meaning she can't be pre-funneled - Nass008#8577
@@ -145,13 +142,60 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
   * [Calculations](https://imgur.com/a/fSyMEq1)
   * Videos: [#1](https://youtu.be/JdjZq3pZiXQ) | [#2](https://youtu.be/eUtqgVyfA9o) | [#3](https://youtu.be/-nbHra-UFrk)
 
-### Ascension Mechanics
+### Sara Burst Mechanics Update
 
-#### A4: Decorum
+**By:** Steno\#0119  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974455619203526656/transcript-sara-burst-mechanics-update.html)  
+
+**Finding:**  
+Unlike what was previously documented in the TCL, Sara's Burst can only give her buff to characters that have been hit by the Titanbreaker or Stormclusters. However, multiple characters can be buffed this way. 
+
+**Evidence:** 
+13 tests with different positioning to demonstrate
+* [Cardinal](https://www.youtube.com/watch?v=vx0qUGl91kM) \(both buffed\)
+* [Diagonal 1](https://www.youtube.com/watch?v=zACGc8ovy2U) \(only one buffed\)
+* [Diagonal 2](https://www.youtube.com/watch?v=6Mz2rSns7yQ) \(only one buffed\) 
+* [Diagonal 3](https://www.youtube.com/watch?v=Dh1QAZYkhGk) \(only one buffed\)
+* [Diagonal 4](https://www.youtube.com/watch?v=r3B9I12ngfY) \(only one buffed\)
+* [No dash 1](https://www.youtube.com/watch?v=ZTGmeDFLcb0) \(only one buffed\)
+* [No dash 2](https://www.youtube.com/watch?v=sOSg8o4T414) \(only one buffed\)
+* [Mid-distance](https://www.youtube.com/watch?v=XRgPTySHUHo) \(double buff\)
+* [E distance 1](https://www.youtube.com/watch?v=8zJw7e-wNC0) \(double buff\)
+* [E distance 2](https://www.youtube.com/watch?v=8Uof4VwYD6k) \(double buff\)
+* [Raiden setup](https://www.youtube.com/watch?v=3kecl_sUFTo) \(double buff\)
+* [Long distance](https://www.youtube.com/watch?v=x66d_SQ5MFg) \(only second swap buffed\)
+* [Long distance diagonal](https://www.youtube.com/watch?v=u9aUpwQTbO4) \(nobody buffed\)
+
+**Significance:**  
+Better understanding of how to buff with Sara as well as setup double buffs/skip buffs on Raiden.  
+
+**Finding:**  
+Each stormcluster spreads outwards and does 5 hits. At C4, the number of hits of each Stormcluster stays the same, but two additional stormclusters are added, spreading out in the 10:30 and 1:30 directions away from the Titanbreaker hit.  
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=I9rKZyYmRJ0)  
+
+**Significance:**  
+Since c4 Stormclusters spread away from Sara's position, it is not useful for buff setups.  
+
+**Finding:**  
+Sara's Stormclusters snapshot stats on Titanbreaker cast, but since the Electro CRIT DMG from C6 is not a snapshot-able stat, the Stormclusters can benefit from it if Sara is hit by her own Titanbreaker/Stormclusters \(and gains her own buff\).  
+
+**Evidence:**  
+* [Sara getting hit by her own Titanbreaker](https://www.youtube.com/watch?v=1piWXwIzInQ)
+* [Sara not getting hit by her own Titanbreaker](https://www.youtube.com/watch?v=lLWBwDxXR8M)
+
+**Significance:**  
+Specific mechanics of Sara C6 that can be useful for her personal damage.  
+
+## Ascension Mechanics
+
+### A4: Decorum
 
 * The weaker Crowfeather from C2 can also trigger this effect. - [Bobrokrot#0111](https://youtu.be/8bRe0SvGUk8)
 
-#### Decorum Energy Regen
+### Decorum Energy Regen
 
 **By:** Laurent#2608  
 **Added:** 10/16/2021  
@@ -181,9 +225,9 @@ Number of A4 procs (from Sara E with C2) it would take to completely fill Burst 
 **Significance:**  
 Decorum's wording implies that you need to hit 100% ER increments to restore more Energy, but this is not true. Sara restores Energy directly based on her ER, so for every 1% of ER, you generate 0.012 flat Energy from Decorum.
 
-### Constellation Mechanics
+## Constellation Mechanics
 
-#### C2: Dark Wings
+### C2: Dark Wings
 
 * The weaker Crowfeather created from C2 can also proc Sacrificial Bow's passive. - [Monochrom9#8058](https://imgur.com/a/eAJPXf9)
 * Weaker Crowfeather snapshots upon Tengu Stormcall cast. - [Nass008#8577](https://imgur.com/lCvoNe6)
@@ -207,16 +251,16 @@ It's possible to buff 2 different characters, with one Crowfeather from C2 and a
 **Significance:**  
 This is possible to perform without cancels but the timing is extremely difficult.
 
-#### C6: Sin of Pride
+### C6: Sin of Pride
 
 * The effects of C6 do not get snapshot. - [Choatic#7774](https://www.youtube.com/watch?v=r4ENm19DOPY)
 
-### Tech
+## Tech
 
 * Sara turns to face nearby enemies after casting her skill. - [Wishiwashi#2548](https://imgur.com/a/DJJiGi0)
   * PC and Controller players can take advantage of this to quickly turn the camera (e.g., with middle mouse button, PS4 R3 button) and CA to place the crowfeather towards the enemy.
 
-### Fluff
+## Fluff
 
 * Crowfeather doesn't alarm wild animals. - [gengar#8426](https://imgur.com/a/qkHJaOv)  
 
