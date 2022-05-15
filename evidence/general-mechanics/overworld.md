@@ -558,6 +558,21 @@ The video shows a level 84 electro-charged tick of the pre 1.6 base (1243)
 **Significance:**  
 We're getting ever so closer to figuring out the cursed world of teyvat's code
 
+### Some Pillars in Enka You Don't Take Fall Damage On
+
+**By:** Ultimate Noob\#2955  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974469687045914704/transcript-some-pillars-in-enka-you-dont-take-fall-damage-on.html)  
+
+**Finding:**  
+Some pillars in Enkanomiya allow you to evade fall damage if you land on the side.  
+
+**Evidence:**  
+[Video](https://youtu.be/p_T64shAJmg) \(credit to ♡Maddie'soneandonlyPinkie♡\#0949\)
+
+**Significance:**  
+Fall damage evasion.  
+
 ## Campfires act like 1U of Pyro Aura  
 
 **By:** RazorClaws#4343  

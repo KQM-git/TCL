@@ -106,14 +106,15 @@ Zone level damage is based on the players current location, not the location of 
 
 ## Artifacts
 
-- 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.
+* 4TF and 4CW set bonuses towards Overload and Superconduct do not apply to reactions involving objects or elementally modified terrain such as electrified and frozen water.
 
 ## Cursed Terrain 
 
-- The 1.6 EM buffs didn't increase the reaction damage caused by environmental sources, such as electro crystals.
-- Overworld entities like grass, water, flowers, and crystals have levels, and do damage depending on those levels.
-  - Flower stamens deal damage based on a static, pre-determined level assigned to them.
-  - Grass levels are dynamic and change under currently unknown circumstances.
+* The 1.6 EM buffs didn't increase the reaction damage caused by environmental sources, such as electro crystals.
+* Overworld entities like grass, water, flowers, and crystals have levels, and do damage depending on those levels.
+  * Flower stamens deal damage based on a static, pre-determined level assigned to them.
+  * Grass levels are dynamic and change under currently unknown circumstances.
+* When landing on the side of certain pillars in Enkanomiya, you will not take fall damage.
 
 ### Electro Crystals
 
