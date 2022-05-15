@@ -139,6 +139,7 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 * Her field shares an ICD with the initial hit.
 * **Drunken Mist** AoE has a finite vertical range. Characters above or below this vertical range will not receive healing.
 * **Drunken Mist** targets an enemy and snapshots the position on cast.
+* **Drunken Mist** duration starts when the paws disappear from the field, which is about when the Burst CD reaches ~17.5s.
 
 {% endtab %}
 {% endtabs %}
@@ -175,6 +176,8 @@ Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
 ### **A Lingering Flavor**
 
 Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
+
+* There is no range limit as long as Diona is on the same map.
 
 {% endtab %}
 

@@ -245,6 +245,34 @@ Diona's stamina reduction stacks with other sources.
 **Significance:**  
 Previously, such effects didn't stack, but around patch 2.0 Mihoyo changed it so that they do stack. Mostly fluff.  
 
+## Constellation Mechanics
+
+### C1: A Lingering Flavor
+
+#### Diona C1 Range and Q Duration
+
+**By:** Yume\#2875  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974466651477127248/transcript-diano-c1-range-and-q-duration.html)  
+
+**Finding:**  
+Diona C1:  
+While doing tests for another ticket, I accidentally found out that Diona's C1 seems to have no range limit, I went to test it out and found out that it seemingly indeed have infinite range when on the same map, when teleporting to a different map such as Enkanomiya or Teapot, however, the C1 fails to proc, as can be seen in the evidence 2-5, where Diona does not gain the Energy from C1.
+
+Diona Q Duration:  
+We can also see that Diona's Q, Signature Mix, field duration starts when the paws disappear from the field, which in my tests happen at around ~17.5s timer on the Burst cooldown, this checks out due to the field having a 12s duration and Diona gaining the 15 Energy from her C1 at around ~5.5s timer on the Burst cooldown, 17.5 - 5.5 = 12.  
+
+**Evidence:**  
+* [Teyvat to Teyvat](https://imgur.com/a/hwBDyWk)
+* [Teyvat to Enkanomiya](https://imgur.com/a/l7rnEt0)
+* [Enkanomiya to Teyvat](https://imgur.com/a/mIszgm0)
+* [Teyvat to Teapot](https://imgur.com/a/kwTBxPO)
+* [Teapot to Teyvat](https://youtu.be/FE8Bh6zmkdk) \(credits to Puffin\#9920\)
+* [Logging out test](https://imgur.com/a/PWEOOt1)
+
+**Significance:**  
+More understanding of Diona's kit.  
+
 ## Interactions  
 
 ### Diona Sacrifial Proc Inconsistency
