@@ -8,7 +8,7 @@ search: false
 
 {% page-ref page="../../../characters/hydro/xingqiu.md" %}
 
-## Skill Mechanics
+## Skill Mechanics  
 
 ### **Xingqiu E Double Vaporize**
 
@@ -76,6 +76,34 @@ While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Ra
 **Editor’s Note:**
 
 Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
+
+### Xingqiu Damage Reduction is Affected By Omni Damage Bonus 
+**By:** Balakin1\#7545  
+**Added:** 05/05/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/971892805431595069/transcript-xingqiu-dr-omni-damage-bonus.html)
+
+**Finding:**  
+Xingqiu's damage reduction is affected by omni-damage bonus effects such as the one from Mistsplitter's passive.
+
+**Evidence:**  
+* [No E](https://youtu.be/ivtT4KXG0uY)  
+* [Sac](https://youtu.be/a6Uxi_Fo4sk)  
+* [MSR 0 stacks](https://youtu.be/jm9nkfvgHy4)  
+* [MSR 2 stacks](https://youtu.be/DV35YuvwLao)  
+
+**Explanation/Math:**  
+For the "DR in theory" values, it was 26% + .2 * (81.6% + x), with x being 12% and (12 + 16)% being added for MSR0 and MSR2 respectively, otherwise 0  
+For the "DR in practice" values, it was 1-(largest number)/(No E's largest number)  
+Note: there are 3 damage numbers because I finished gathering clips vs a lawachurl before someone suggested using an electro crystal  
+TL7, 81.6% Damage bonus w/o weapon  
+
+No E: 771, 1543, 3086 (0% DR)  
+Sac : 445,  890, 1780 (42.32% DR in theory, 42.320% DR in practice)  
+MSR0: 426,  853, 1706 (44.72% DR in theory, 44.718% DR in practice)  
+MSR2: 414,  828, 1656 (47.92% DR in theory, 46.338% DR in practice)
+
+**Significance:**  
+Better understanding of Xingqiu's Damage Reduction and how it interacts with different sources of Elemental DMG Bonus.
 
 ### Xingqiu E Dash Cancel Animation
 
