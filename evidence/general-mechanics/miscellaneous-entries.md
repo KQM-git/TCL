@@ -9,6 +9,40 @@ description: For entries that have little practical use.
 
 {% page-ref page="../../general-mechanics/miscellaneous-entries.md" %}
 
+## Vertical Range of Certain Abilities  
+**By:** mando.\#1646  
+**Added:** 05/05/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/971888182016766062/transcript-certain-vertical-mechanics-testing.html)  
+
+**Finding:**  
+Certain characters have a finite vertical range for the buffs and/or infusions from their ablities, while others seem to have near infinite vertical range.  
+
+**Evidence:**  
+* Bennett has either infinite or a very long range on his Burst healing pyro infusion from c6, pyro dmg bonus from c6. etc.   
+   * [Youtube](https://youtu.be/5EEAXYn3cn0)    
+
+* Chongyun has either infinite or a very long range on Skill infusion, atk speed etc.  
+   * [Youtube](https://youtu.be/BcmzgqkkW9w)  
+ 
+* Jean has either infinite or a very long range on her Burst. (Video courtesy of Rathalos\#2875)  
+   * [Youtube](https://youtu.be/DznbN-htm94)
+
+* Gorou's Skill vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of Aevean Leeow\#1362)  
+   * [Youtube](https://youtu.be/KHCucwYJ8ZM)
+
+* Ganyu's A4 passive's vertical range is a little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)  
+   * [Youtube](https://youtu.be/EI2UEyRpj10)
+
+* Shenhe's A1 passive's vertical range is little shorter than Venti's hold E + Zhongli stone stele visible by visual indicator. (Video courtesy of pai\#3602)  
+   * [Youtube](https://youtu.be/86IUV8uvqPI)
+
+* Diona's C6 and healing has vertical range which is shorter than Zhongli's stone stele and longer than GMC's meteorite.  
+   * [Zhongli Stele (Youtube)](https://youtu.be/v-ia7IWYd8w)
+   * [GMC Skill (Youtube)](https://youtu.be/pl9MGU93bFI) 
+
+**Significance:**  
+Better understanding of vertical range mechanics for certain characters.
+
 ## Statue Healing Works In Pause Menus  
 **By:** anmol43\#6762  
 **Added:** 02/20/2022  
