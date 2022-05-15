@@ -156,6 +156,21 @@ At least 1 Icy Paw must hit something for a shield to form. Situations where Icy
 1. Standing on a cliff with no ground below
 2. Targetting an enemy without ever hitting it, including non-activated Ruin Guards
 
+### Diona’s Paws Home on Entities That Are Not Enemies
+
+**By:** Ultimate Noob\#2955 and Junolau#4337    
+**Added:** 05/07/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/972570999696531457/transcript-dionas-paws-home-on-entities-that-are-not-enemies.html)  
+
+**Finding:**  
+Diona's paws can home on some entities that are not enemies.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/gZnJG4kPziM)
+
+**Significance:**  
+Who needs to snipe birds when you have heat-seeking missiles?
+
 ## Burst Mechanics
 
 ### Diona Field Characteristics
