@@ -89,7 +89,7 @@ $$
 
 | Formula Variable | Explanation |
 | :--- | :--- |
-| **BaseResistance** | The enemy's base resistance to the element of the talent being used. [Check the Genshin Wikia ](https://genshin-impact.fandom.com/wiki/Damage%23Base_Enemy_Resistances%20)for a table of all enemy base elemental resisistances. |
+| **BaseResistance** | The enemy's base resistance to the element of the talent being used. [Check the Genshin Wikia ](https://genshin-impact.fandom.com/wiki/Resistance#Base_Enemy_Resistances)for a table of all enemy base elemental resisistances. |
 | **ResistanceReduction** | The total resistance reduction of the relevant element from effects such as Superconduct and Viridescent Venerer. |
 
 ## Amplifying Reaction Bonus

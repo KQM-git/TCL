@@ -27,7 +27,7 @@ Lion's Roar passive applies to all forms of damage inflicted upon electro-debuff
 Lion's Roar passive is still in effect and will boost damage even when equipped character is off-screen
 
 **Evidence**:  
-[YouTube](https://imgur.com/a/C3H8xEI%20)
+[YouTube](https://imgur.com/a/C3H8xEI)
 
 * C2 Xingqiu with Fillet Blade and 631 total attack.
   * 1st wave: 161
@@ -98,8 +98,8 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
 * The answer is **yes**, it does apply to any char skills that remains in the field even if the character already switched
 
 **Evidence:**
-* [Test 1](http://imgur.com/a/BdeWL3u%20): XQ using blackcliff without inactive buff
-* [Test 2](http://imgur.com/a/snOytCj%20): XQ using blackcliff with the active Buff
+* [Test 1](http://imgur.com/a/BdeWL3u): XQ using blackcliff without inactive buff
+* [Test 2](http://imgur.com/a/snOytCj): XQ using blackcliff with the active Buff
 * [Test 3](http://imgur.com/a/o26Nngc): XQ using blackcliff killing enemies while in off field, does he still get the buff? 
   * No, he does not
 
@@ -255,7 +255,7 @@ This is not a method to trigger Freedom-Sworn's passive.
 {% tab title="Link" %}
 This is the tool I used to run simulations for Royal weapon line crits.
 
-[Link](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing%20)
+[Link](https://docs.google.com/spreadsheets/d/1v1hi6tUdFEC4SHM6_zwtlXOmCl_5paXqAD_d8uU6Umc/edit?usp=sharing)
 {% endtab %}
 
 {% tab title="Directions" %}
@@ -833,7 +833,7 @@ Lost Prayer becomes... even better for a main dps while exploring? The fact that
 **Findings:**  
 For Bolide or Memory of Dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
 
-**Evidence**: [YouTube](https://youtu.be/Gpalhvn1f6Q%20)
+**Evidence**: [YouTube](https://youtu.be/Gpalhvn1f6Q)
 
 **Significance:**  
 Potential implication for unforged? And you can't get a free shield for memory of dust in your Klee/Xingqiu team.
@@ -1152,7 +1152,7 @@ The Bell's passive %Inc Damage works with any shield, and not just with the proc
 * breastplate 
 * and the shield from bell's passive
 
-**Evidence:** [Imgur](https://imgur.com/a/1fCJ6IM%20)
+**Evidence:** [Imgur](https://imgur.com/a/1fCJ6IM)
 
 **Significance:**  
 Although there's better claymores, this makes The Bell significantly better than the passive description lets on. Makes for an ok Noelle weapon if prototypes are being used on another character.
@@ -1402,7 +1402,7 @@ Better understanding of Charged Attack speed buffs (with the exception of Itto).
 Catalyst effective attack comparisons - see spreadsheet below.
 
 **Evidence:**
-[Imgur](https://imgur.com/a/TpQsJqS%20)
+[Imgur](https://imgur.com/a/TpQsJqS)
 
 **Methodology**  
 Effective attack was calculated with a simple piecewise function that takes into account crit rate, crit damage, attack, and damage % \(elemental damage\). Passives that cannot be quantified due to how they can differ in effectiveness with different playstyles are NOT included in the effective attack calculation.

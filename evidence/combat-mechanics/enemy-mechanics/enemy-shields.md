@@ -153,9 +153,9 @@ By: Bobrokrot\#0111
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
 
 * [12 Jean Es to break the shield on grass](https://youtu.be/ZTe-TOMrDVk)
-* [Jean E dealing 0 damage to the shield on water](https://youtu.be/dmG5xi4S1WI%20) 
+* [Jean E dealing 0 damage to the shield on water](https://youtu.be/dmG5xi4S1WI) 
 * [12 Ningguang basic attacks to break the shield on grass](https://youtu.be/jcTpDb2HNjg) 
-* [23 Ningguang basic attacks to break the shield on water](https://youtu.be/C402uvyeP_A%20) 
+* [23 Ningguang basic attacks to break the shield on water](https://youtu.be/C402uvyeP_A) 
 
 **Note 1:** Geo also Shatter Cryo Abyss mage shield thus Geo is able to break the shield above water.
 

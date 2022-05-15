@@ -6,7 +6,7 @@ description: The 77th Director of the Wangsheng Funeral Parlor. She took over th
 
 ## **Resources**
 
-* [Hu Tao Mains Discord](https://github.com/Artesians/TCL/tree/e89e061a34e9f5a67f035c9a7c8e5672b87e227d/characters/pyro/discord.gg/hutaoscorner/README.md)
+* [Hu Tao Mains Discord](https://discord.gg/hutaoscorner)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 * [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
 

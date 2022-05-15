@@ -127,7 +127,7 @@ Fluff.
 
 **Editor's Note:** This same behavior can be observed for Venti. Venti was tested comprehensively by the theorycrafting community; pending submission.
 
-**Evidence:** [https://youtu.be/rBDMuzkVb54 ](https://youtu.be/rBDMuzkVb54%20)
+**Evidence:** [https://youtu.be/rBDMuzkVb54](https://youtu.be/rBDMuzkVb54)
 
 See the video. In the two clips I didn't change anything other than leveling up the character. I also tried putting more attack on her instead when she was level 71 with no effect.
 

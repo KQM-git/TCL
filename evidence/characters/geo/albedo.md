@@ -23,7 +23,7 @@ Linked video showcases different flower positions on a wall and confirming if Al
 
 There was no point where it was possible to proc E underneath the flower versus on the outermost part of the AoE supporting that it is Cylindrical and not Spherical.
 
-[https://youtu.be/D7KwuJeSXRY ](https://youtu.be/D7KwuJeSXRY%20)
+[https://youtu.be/D7KwuJeSXRY](https://youtu.be/D7KwuJeSXRY)
 
 **Significance:**  
 It is possible to place Albedo's flower in an elevated position to avoid it getting destroyed.
