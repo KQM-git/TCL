@@ -60,7 +60,7 @@ search: false
 * The dash does not have i-frames; Yae Miko places down a Sesshou Sakura where she is hit during a dash. - [Video 1](https://youtu.be/xxqmC3yLSCU) / [Video 2](https://youtu.be/0btyoPTCAoo) - Chaiyune\#7349
 * When Yae Miko dies from a hit while during the dash, no Sesshou Sakura will be placed and the Elemental Skill still goes on cooldown. - [Video](https://clips.twitch.tv/ManlyClumsyKleeMrDestructoid-Yb3ACTKZ9XK3O4PZ) - Chaiyune\#7349
 * When using the Elemental Skill 3 times in a row, all 3 Sesshou Sakuras will become level 3 before any of them fires. - [Video](https://clips.twitch.tv/CourteousTriumphantShingleDatSheffy-XcmVj4ZFVzdfHJqD) - Neptunya\#8291
-* Yae Miko dashes backwards and leaves a Sesshou Sakura in the place the Elemental Skill is used, unless a direcctional key is being held down, in which case she will dash in the direction that she is moving towards. - [Video](https://youtu.be/XD6DdHkbGq4) - borderline\#3100
+* Yae Miko dashes backwards and leaves a Sesshou Sakura in the place the Elemental Skill is used, unless a directional key is being held down, in which case she will dash in the direction that she is moving towards. - [Video](https://youtu.be/XD6DdHkbGq4) - borderline\#3100
 * The Sesshou Sakuras despawn when Yae Miko dies. - [Video](https://clips.twitch.tv/InterestingFrailSwanSoBayed-e3ZVv_yBxllpbNgf) - Neptunya\#8291
 * Using E allows Yae Miko to escape Mirror Maiden's cage. - [Video](https://youtu.be/ktm5TvioKIw) - emmaus\#9072
 * The level and limit for the amount of Sesshou Sakuras is shared in CO-OP. - [Video](https://imgur.com/a/jLNr6vE) - hiimandrei\#6690

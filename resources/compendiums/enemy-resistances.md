@@ -63,7 +63,7 @@ description: A database of enemy resistances.
 | Azhdaha | 10% | 10% | 10% | 10% | 10% | 70% | 40% | Additional 60% Elemental RES to first infused Element.<br />Additional 50% Elemental RES to second infused Element. | 
 | Tartaglia / Childe | 0% | 0% | 0% | 0% | 0% | 0% | 0% | \[Phase 1\] Additional 50% Elemental RES to Hydro attacks. All RES decreased by 30% when stunned. <br />\[Phase 2\] Additional 50% Elemental RES to Electro attacks. All RES decreased by 50% when stunned. <br />\[Phase 3\] Additional 70% Elemental RES to Hydro attacks and Electro attacks. | 
 | La Signora | 10%* | 10% | 50%* | 10% | 10% | 10% | 10% | \[Phase 1\]  Additional 40% Cryo RES. <br />\[Phase 2\] Additional 40% Cryo RES and additional 60% Pyro RES. | 
-| Raiden Shogun | 10% | 10% | 10% | 10% | 10% | 10% | 10% | All RES increased by 200% when in the Baleful Shadowlord phase (shielded).<br />All RES decreased by 35% when stunned after Baleful Shadowlord phase ends. |
+| Raiden Shogun | 10% | 10% | 10% | 10% | 10% | 10% | 10% | All RES increased by 200% when in the Baleful Shadowlord phase (shielded).<br />All RES decreased by 60% when stunned after Baleful Shadowlord phase ends. |
 | Abyss Herald | 10% | 10% | 10% | 10% | 10% | 10% | 10% |  | 
 | Abyss Lector | 10% | 10% | 10% | 10% | 10% | 10% | 10% |  | 
 | Shadowy Husk | 10% | 10% | 10% | 10% | 10% | 10% | 30% | RES increased by 20% to same Element. |

@@ -528,7 +528,7 @@ and BK10 included in Tatara cluster
 \[5\] [Kosekimaru watchpoint](https://youtu.be/DDxtp-ik3_w), read description  
 
 **Significance:**  
-Allows collecting artifacts from more than \(the previous max of\) 174 spots in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: *5\+99\+32\+30\+11\+7=184*.  
+Allows collecting artifacts from more than \(the previous max of\) [129 spots](https://youtu.be/Tc8jvEdEeVk) in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: `5\+99\+32\+30\+11\+7=184`.  
 
 ## Tree Mechanics
 

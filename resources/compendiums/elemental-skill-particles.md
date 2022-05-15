@@ -18,7 +18,7 @@ description: Energy particle generation by character.
 | Off-field, 2 man party, different element | 0.8 | 2.4 | 1.6 | 4.8 |
 
 ## Elemental Skill Particles
-*Updated for Patch 2.5.*
+*Updated for Patch 2.6.*
 
 Production ratio shows the rate of the amount of particle that will be produced \(for example 2~3 \(1:2\) means 33.33% chance of producing 2 particles and 66.67% chance of producing 3 particles\).
 

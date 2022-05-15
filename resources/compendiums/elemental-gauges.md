@@ -21,7 +21,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
-| Ayato      | - | - | 1A | 1A | 1A | - |
+| Ayato     | - | - | 1A | 1A | 1A | Shunsuiken Attacks: 1A<br /> C6: 1A|
 | Barbara   | 1A | 1A | 1A | - | - | - |
 | Kokomi    | 1A | 1A | 1A | - | Initial Cast: 2B | - |
 | Mona      | 1A | 1A | DoT: 1A <br />Explosion: 1A | - | On Cast: 1A<br />On Pop: 2B | Dash: 1A |

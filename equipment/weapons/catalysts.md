@@ -9,7 +9,7 @@
 
 | Attribute | Description |
 | :--- | :--- |
-| Byakuya Kougetsu | Healing Bonus increased by **10/12.5/15/17.5/20**%. SNormal Attack DMG is increased by **1/1.5/2/2.5/3**% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s. |
+| Byakuya Kougetsu | Healing Bonus increased by **10/12.5/15/17.5/20**%. Normal Attack DMG is increased by **1/1.5/2/2.5/3**% of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s. |
 | Base ATK | 46 - 608 |
 | HP% | 10.8% - 49.6% |
 
