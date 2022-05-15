@@ -638,6 +638,22 @@ In the video, thoma hits 4 birch trees that do not drop wood, this is either cau
 **Significance:**  
 Since capped trees do register in memory, this allows for hybrid routes (such as the one in the video), especially very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even after you have farmed one wood type to completion. 
 
+### Elemental Infusion Hampers Wood Cutting
+
+**By:** lapidibus#8146 and δανιελ#6040  
+**Added:** 05/07/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/972595731611398154/transcript-elemental-infusion-hampers-wood-cutting.html)
+
+**Finding:**  
+Melee attacks infused with elements usually cannot chop wood from trees.
+
+**Evidence:**  
+Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
+Ayato *can* chop wood during his skill's infusion *if* activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](https://library.keqingmains.com/general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation)  - [YouTube](https://youtu.be/Bs80TnoJMyI)
+
+**Significance:**  
+Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.
+
 ## Weekly BP Cap During Launch Week
 **By:** Mcpie#8672  
 **Added:** 1/10/2022  
