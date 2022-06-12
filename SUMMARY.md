@@ -97,9 +97,11 @@
 
 ## Combat Mechanics
 * [Damage](combat-mechanics/damage/README.md)
-  * [Outgoing Damage Formula](combat-mechanics/damage/damage-formula.md)
+
+  * [Damage Formula](combat-mechanics/damage/damage-formula.md)
   * [Shields](combat-mechanics/damage/shields.md)
   * [Other](combat-mechanics/damage/other/README.md)
+    * [AoE Scaling](combat-mechanics/damage/other/aoe-scaling.md)
     * [Fall Damage](combat-mechanics/damage/other/fall-damage.md)
     * [Zero Damage Attacks](combat-mechanics/damage/other/zero-damage-attacks.md)
     * [Client and Server](combat-mechanics/damage/other/client-and-server.md)
