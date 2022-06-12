@@ -149,7 +149,7 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Harmony between Heaven and Earth**
+### **Harmony Between Heaven and Earth**
 
 **Celestial Shower** grants a 20% **Cryo DMG Bonus** to active party members in the AoE.
 

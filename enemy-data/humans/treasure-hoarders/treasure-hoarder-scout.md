@@ -4,7 +4,7 @@ description: A member of the decentralized criminal organization that has footpr
 
 # Treasure Hoarders
 
-## Treasure Hoarder Scout
+## Treasure Hoarders: Scout
 
 Theirs is the legwork and the tailing of targets. They usually wind up in criminal circles due to poverty or lack of education, but they don't seem to have gotten any richer after choosing a life of crime...
 

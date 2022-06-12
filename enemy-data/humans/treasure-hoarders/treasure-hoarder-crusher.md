@@ -4,7 +4,7 @@ description: A member of the decentralized criminal organization that has footpr
 
 # Treasure Hoarders
 
-## Treasure Hoarder Smasher
+## Treasure Hoarders: Crusher
 
 This person was originally a miner — one who, even with the allowance they were provided with after the closure of the Chasm, ended up with the Treasure Hoarders for various reasons.
 

@@ -127,7 +127,7 @@ When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chan
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **"The Show Goes On, Even Without An Audience..."**
+### **"The Show Goes On, Even Without an Audience..."**
 
 Decreases the number of opponents **Sweeping Fervor** must hit to trigger each level of shielding.
 * Shield Level 2: Lead-In requirement reduced to 1 opponent hit.

@@ -207,7 +207,7 @@ Within the radius of **Signature Mix**, Diona's charge time for aimed shots is r
 {% endtab %}
 
 {% tab title="C5" %}
-### **Double Shot, On The Rocks**
+### **Double Shot, on the Rocks**
 
 Increases the Level of **Icy Paws** by 3.
 Maximum upgrade level is 15.

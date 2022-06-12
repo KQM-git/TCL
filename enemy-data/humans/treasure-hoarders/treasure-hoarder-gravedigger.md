@@ -1,12 +1,12 @@
 ---
-description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains."They say that we stand on the shoulders of giants..
+description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.
 ---
 
 # Treasure Hoarders
 
-## Treasure Hoarder Gravedigger
+## Treasure Hoarders: Gravedigger
 
-That means digging up the accumulated wealth of our forebears, taking them with us, and... uh, returning them to the economic cycle! What a noble endeavor, am I right?"—A certain Treasure Hoarder Gravedigger, while delving deep into a ruin
+"They sayThat means digging up the accumulated wealth of our forebears, taking them with us, and... uh, returning them to the economic cycle! What a noble endeavor, am I right?"—A certain Treasure Hoarder Gravedigger, while delving deep into a ruin
 
 ## Weakspot Details
 

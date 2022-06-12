@@ -63,7 +63,7 @@ They follow the encroaching abyss to devour the elements. Fortunately, there are
 {% tab title="Electro" %}
 ## Thundercraven Rifthound Whelp
 
-The previous eras, when giant monstrous beasts descended, large swarms of these hounds would go before them to deliquesce the borders of the world and open the way.
+In times long gone, when giant monstrous beasts descended, large swarms of these hounds would go before them to deliquesce the borders of the world and open the way.
 
 ## Attacks
 

@@ -190,7 +190,7 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 
 **Findings:**
 
-C6 Chongyun’s “Spirit Blade - Cloud-parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP” is an additive bonus.
+C6 Chongyun’s “Spirit Blade - Cloud-Parting Star deals 15% more DMG to enemies with a lower percentage of their Max HP” is an additive bonus.
 
 **Evidence:**
 

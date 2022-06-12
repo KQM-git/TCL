@@ -147,7 +147,7 @@ Not stackable with Passive Talents that provide the exact same effects.
 {% tab title="Ascension 1" %}
 ### **Soumon Swordsmanship**
 
-If **Chihayaburu** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when cast, **Chihayaburu** will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.
+If **Chihayaburu** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when cast, this **Chihayaburu** will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.
 Elemental Absorption may only occur once per use of **Chihayaburu**.
 
 | Type | Soumon Swordsmanship |
@@ -189,7 +189,7 @@ Using **Kazuha Slash** resets the CD of **Chihayaburu**.
 ### **Yamaarashi Tailwind**
 
 The **Autumn Whirlwind** field created by **Kazuha Slash** has the following effects:  
-* Increases Kaedehara Kazuha's own Elemental Mastery by 200.
+* Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.
 * Increases the Elemental Mastery of characters within the field by 200.
 
 The Elemental Mastery-increasing effects of this Constellation do not stack.
@@ -227,7 +227,7 @@ Maximum upgrade level is 15.
 {% tab title="C6" %}
 ### **Crimson Momiji**
 
-After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attack by 0.2%.
+After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%.
 * The Anemo infusion can be overriden by other infusion effects such as Bennett's C6 Inspiration Field.
 
 {% endtab %}

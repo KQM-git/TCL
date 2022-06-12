@@ -29,7 +29,7 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 {% tab title="Fight Club Legend" %}
 **Normal Attacks**  
 Perform up to 4 consecutive strikes.  
-• When the 2nd and 4th strikes hit opponents, Itto will gain 1 or 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
+• When the 2nd and 4th strikes hit opponents, Itto will gain 1 and 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
 • Additionally, Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, "**Masatsu Zetsugi: Akaushi Burst!**"
 
 | String | Talent 9% | Frames | MV/s |

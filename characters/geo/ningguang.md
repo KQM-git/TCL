@@ -171,7 +171,7 @@ Can occur once every 6s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Majesty be the Array of Stars**
+### **Majesty Be the Array of Stars**
 
 Increases the Level of **Starshatter** by 3.
 Maximum upgrade level is 15.
@@ -186,7 +186,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Invincible be the Jade Screen**
+### **Invincible Be the Jade Screen**
 
 Increases the Level of **Jade Screen** by 3.
 Maximum upgrade level is 15.
@@ -194,7 +194,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Grandeur be the Seven Stars**
+### **Grandeur Be the Seven Stars**
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 

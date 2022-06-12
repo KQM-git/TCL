@@ -1,10 +1,10 @@
 ---
-description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains..
+description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.
 ---
 
 # Treasure Hoarders
 
-## Treasure Hoarder Bruiser
+## Treasure Hoarders: Handyman
 
 These members do physical work and are lower on the pecking order. They are often laughed at for their physique — but when the gang comes under attack, they get a chance to show their unexpectedly high strength and agility.
 

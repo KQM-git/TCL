@@ -172,7 +172,7 @@ Elemental Skills and Elemental Bursts cast within the **Frost Field** created by
 {% tab title="C3" %}
 ### **Cloudburst**
 
-Increases the Level of **Spirit Blade: Cloud-parting Star** by 3.
+Increases the Level of **Spirit Blade: Cloud-Parting Star** by 3.
 Maximum upgrade level is 15.
 
 {% endtab %}
@@ -196,7 +196,7 @@ Maximum upgrade level is 15.
 {% tab title="C6" %}
 ### **Rally of Four Blades**
 
-**Spirit Blade: Cloud-parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.
+**Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.
 This skill will also summon 1 additional spirit blade.
 
 **Notes**

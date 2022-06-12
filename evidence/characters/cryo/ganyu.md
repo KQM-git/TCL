@@ -372,7 +372,7 @@ After shooting an arrow, moving inside/outside Bennett’s burst does not change
 
 This proves that it is possible to use other character’s elemental bursts and/or skills while maintaining Ganyu’s 20% critical rate buff which both improves her viability by making her significantly less of a selfish carry, and allows for potential usage \(although overall probably not optimal\) in swap comps with Ganyu.
 
-### A4: Harmony between Heaven and Earth
+### A4: Harmony Between Heaven and Earth
 
 #### Ganyu’s Ascension 4 Passive Will Not Apply to the First Elemental Burst Cast
 

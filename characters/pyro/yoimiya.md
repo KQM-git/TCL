@@ -1,5 +1,5 @@
 ---
-description: Owner of Naganohara Fireworks. Known as "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.
+description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.
 ---
 
 # Yoimiya
@@ -200,9 +200,9 @@ Maximum upgrade level is 15.
 {% tab title="C6" %}
 ### **Naganohara Meteor Swarm**
 
-During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Kindling Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
+During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
 
- * Kindling Arrow shares ICD with Yoimiya's infused normal attacks.
+* These extra Blazing Arrow shares ICD with Yoimiya's infused normal attacks.
 
 {% endtab %}
 {% endtabs %}
