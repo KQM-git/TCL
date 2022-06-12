@@ -784,6 +784,8 @@
 | Journey | Each Elemental Orb or Particle collected restores **1/1.25/1.5/1.75/2**% HP. |
 | Base ATK | 40 - 448 |
 | DEF% | 6.4% - 27.5% |
+
+* HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
 {% endtab %}
 
 {% tab title="Details" %}

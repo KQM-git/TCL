@@ -425,7 +425,8 @@
 | HP% | 9% - 41.3% |  
 
 * HP regeneration is based off the Max HP of the character being healed, not the max HP of the character equipped with **Prototype Amber** - [Reens#9389](../../evidence/equipment/weapons.md#prototype-amber-healing-clarification)
-* HP renegeration does not stack when multiple characters use Prototype Amber. The second one overrides the first one.
+* HP regeneration does not stack when multiple characters use Prototype Amber. The second one overrides the first one.
+* HP regeneration is affected by Healing Bonus and Incoming Healing Bonus - [RoaringMeow#2437](/evidence/equipment/artifacts#maiden-beloved)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -677,6 +678,8 @@
 | Energy Shower | Each Elemental Orb or Particle collected restores **1/1.25/1.5/1.75/2**% HP. |
 | Base ATK | 39 - 401 |
 | ER% | 8.5% - 39% |
+
+* HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
 {% endtab %}
 
 {% tab title="Details" %}

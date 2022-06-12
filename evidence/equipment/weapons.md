@@ -1531,3 +1531,19 @@ The buff from the Passive of *The Widsith* and *Thrilling Tales of Dragon Slayer
 
 **Significance:**  
 With this knowledge, characters are free to swap out and still retain Widsith/TTDS buff from off field, which can affect a lot of rotations.  
+
+### Weapons and Heals
+**By:** Daibangden#8410  
+**Added:** 06/06/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983414155220508692/transcript-weapons-and-heal.html)  
+
+**Findings:**  
+Healing passive from weapons are affected by Healing Bonus and Incoming Healing Bonus of the character who wields them.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/2HvvdFJTMjc)  
+* Weapons tested: Traveler's Handy Sword, White Iron Greatsword, Recurve Bow, Otherworldly Story.
+* Each weapon was tested without any bonus, with 35.9% Healing Bonus (+20 Healing Bonus Circlet), and with 35.9% Healing Bonus + 30% Incoming Healing Bonus (+20 Healing Bonus Circlet + Hydro Resonance).
+
+**Significance:**  
+Confirmation of how healing passive works on weapons.  

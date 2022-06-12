@@ -682,6 +682,8 @@
 | Cull the Weak | Defeating an opponent restores **8/10/12/14/16**% HP. |
 | Base ATK | 38 - 354 |
 | HP% | 10.2% - 46.9% |
+
+* HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
 {% endtab %}
 
 {% tab title="Details" %}
