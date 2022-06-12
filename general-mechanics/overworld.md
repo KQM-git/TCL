@@ -239,6 +239,9 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 
 * Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.  
 
+## Highest Places in Teyvat
+* Some places in Teyvat are [high](../evidence/general-mechanics/overworld.md#highest-places-in-teyvat). Such as the hidden library in Enkanomiya having the highest Y-coordinate, followed up by the Dragonspine Skyfrost.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}

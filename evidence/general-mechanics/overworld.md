@@ -1564,3 +1564,39 @@ Eagles can get stuck on terrain. Unlike other animals they do not have collision
 
 **Significance:**  
 Fluff and documenting overworld mechanics.
+
+## Highest Places in Teyvat
+
+**By:** Beast Boy\#2560  
+**Added:** 05/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977687335443529768/transcript-highest-places-in-teyvat.html)
+
+**Finding:**  
+Highest Places in Teyvat
+
+**Evidence:**  
+A comprehensive guide to the highest places in each region/map, extracted using [Extracting coordinates while in-game](#extracting-coordinates-while-in-game). The exact values might differ due to [Coordinates change when idle](#coordinates-change-when-idle). For reference, sea level is 200 meters in Teyvat, and Mt. Everest is 8,848.86 meters.
+
+From lowest highest place to highest highest place, the order is: 
+
+- Highest Place in Liyue: Qinguyn Peak Cloud Dwelling: 551.7357788085938 meters.   
+Coordinates from [this point](https://imgur.com/a/jvtuwkT)
+
+- Highest Place in Inazuma: Serai Island Thunder Manifestation Arena: 558.1334838867188 meters.  
+Coordinates from [this point](https://imgur.com/a/IN2N97j)
+
+- Highest Place in Mondstadt (Considering Dragonspine a part of Mondstadt): Dragonspine Skyfrost Nail: 697.6060180664062 meters.  
+Coordinates from [this point](https://imgur.com/a/ZSKhC20)
+
+- Highest Place in the Chasm Underground: Ad Hoc Main tunnel out of bounds: 1487.64208984375 meters.  
+Coordinates from [this point](https://imgur.com/a/tMOz67z)
+
+- Highest Place in Enkanomiya: Mirror Library: 1941.7440185546875 meters.  
+Coordinates from [this point](https://imgur.com/a/gl7Cfil)  
+Note: It is possible to get a few meters higher by glitching out of the library and climbing to the top, I was unable to do so.
+
+Just from base of map to highest point possible in the map, Enkanomiya is the clear winner. However, as it is underground, the Dragonspine Skyfrost Nail is technically the highest place in Teyvat. With Earth's gravity, free falling from the Highest Point in Enkanomiya to 0 meters would take 19.89 seconds in Earth's gravity. 
+
+**Significance:**  
+Teyvat has some very high places.
+
