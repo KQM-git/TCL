@@ -2,6 +2,35 @@
 
 ## 5 Stars
 
+### Calamity Queller
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Extinguishing Precept | Gain **12/15/18/21/24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2/4/4.8/5.6/6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled. |
+| Base ATK | 49 - 741 |
+| ATK% | 3.6% - 16.5% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base Atk | ATK% |
+| :--- | :--- | :--- |
+| 60 | 464	| 12.2 |
+| 60+ | 495	| 12.2 |
+| 65 | 525	| 12.9 |
+| 70 | 555	| 13.6 |
+| 70+ | 586	| 13.6 |
+| 75 | 617	| 14.4 |
+| 80 | 648	| 15.1 |
+| 80+ | 679	| 15.1 |
+| 85 | 709	| 15.8 |
+| 90 | 741 | 16.5 |
+{% endtab %}
+{% endtabs %}
+
 ### Engulfing Lightning
 
 {% tabs %}
