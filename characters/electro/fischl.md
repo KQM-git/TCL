@@ -93,7 +93,7 @@ Press again any time during the ability's duration to once again summon him to F
 | Attribute | Oz |
 | :--- | :--- |
 | Normal Attacks \(T9%\) | 150.96% |
-| Particles | 0~1 \(2:3\) |
+| Particles | 0~1 \(1:2\) |
 | GU | 1A |
 | ICD | 4 hits / 5s |
 | Snapshot | Snapshot |

@@ -53,6 +53,23 @@ After HoD buff is gone:
 
 **Significance:**  Potentially relevant data for Fischl main dps calcs.
 
+### Fischl Energy Generation Correction
+
+**By:** ItzSomebody\#0029  
+**Added:** 06/06/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983426378366066748/transcript-fischl-energy-generation-correction.html)
+
+**Finding:**  
+The probability that Oz generates a particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).  
+* [YouTube](https://youtube.com/playlist?list=PL3fbBNyJb-ujui480yxAl3bLNU98fqJZi)
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1v9arz5Gmto7xc_g6H530289unROb1iqv2mdayzGV8WM/edit?usp=sharing)
+
+**Evidence:**  
+Two hundred trials were used as a sample, totaling to 2400 attacks (C6 Fischl). Of these 2400 attacks, 1609 of them generated a particle giving P(particle) = 1609/2400 ≈ 0.67041666667.  
+
+**Significance:**  
+Fischl's Energy generation is better than previously thought. Most tools and guides as of now (May 17th, 2022) assume 0.60 as the probability Oz generates a particle, lower than the actual correct probability.  
+
 ## Burst Mechanics
 
 ### Fischl Ult Has I-Frames
