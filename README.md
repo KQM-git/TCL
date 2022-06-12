@@ -4,13 +4,11 @@ The Theorycrafting Library (TCL) is a collection of community submitted knowledg
 
 The TCL is organized so that each page has a corresponding Evidence Vault. The Evidence Vault houses every submission in full that has been made to the TCL. While the main pages are where basic information and summaries of submitted findings can be found.
 
-## Newsletter
+## Quick Links
 
-The newsletter is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
-
-**Most Recent Newsletter:**
-
-{% page-ref page="newsletter/patch-2.4.md" %}
+**Elemental Gauge Theory:** [Page](https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory)
+**Most Recent Character:** [Yelan](https://library.keqingmains.com/characters/hydro/yelan)
+**Newsletter:** The [newsletter](https://library.keqingmains.com/newsletter/patch-2.4) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
 
 ## Submissions
 
