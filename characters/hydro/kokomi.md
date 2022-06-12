@@ -156,6 +156,7 @@ Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
 If Sangonomiya Kokomi's own **Bake-Kurage** is on the field when she uses **Nereid's Ascension**, the **Bake-Kurage**'s duration will be refreshed.
 
 * The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill"
+* The actual refresh timing requires the **Bake-Kurage** to be on field the frame her burst animation finishes, or else you will lose the refresh.
 
 {% endtab %}
 

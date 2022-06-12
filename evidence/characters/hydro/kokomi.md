@@ -162,3 +162,21 @@ The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot
 
 **Significance:**  
  Understanding game mechanics and keeping the TCL accurate.
+
+### Kokomi A1 Description is Misleading
+
+**By:** Ieah.\#2212  
+**Added:** 05/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977696445069131776/transcript-kokomi-a1-description-is-misleading.html)
+
+**Finding:**  
+Sangonomiya Kokomi's Ascension 1 talent, Tamanooya's Casket, is misleadingly worded. In the character description, it states that "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed", which implies it has to only be on-field the frame she uses Nereid's Ascension, however this is incorrect. The actual refresh timing requires the jellyfish to be on field the frame her burst animation finishes, or else you will lose the refresh.
+
+**Original:** Credits to [Zenera](https://youtu.be/0LSdrltrj-Q?t=456) for the theory.
+
+**Evidence:**  
+Through watching this video a good amount of times over the last few months, between 7:36 and 8:46, as well as playing Kokomi during the test run and on friends' accounts, it added evidence that her A1 description is incorrect and should be "...after Nereid's Ascension animation ends...". So, what is the correct timing and way to interpret the description?
+Kokomi's burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FPS). Her jellyfish duration is 12 seconds with a 20s cooldown. However, the jellyfish does not end directly on the 8 second mark of the cooldown, but rather, somewhere between 7.65 and 7.6 seconds, through www.watchframebyframe.com (though I unfortunately lost the video). If you take 7.65 (the "safe zone") and add the 1.25 seconds of the burst animation, (7.65 + 1.25), that would equal 8.9 seconds, matching the optimal "cutoff" time in the referenced video (It does state the first few frames of the 8.8 second mark is possible, albeit not reliable) Additionally, if it started from the frame Nereid's Ascension was casted, jellyfish uptime would also be shortened by 1.25 seconds, which is not the current case.
+
+**Significance:**  
+Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
