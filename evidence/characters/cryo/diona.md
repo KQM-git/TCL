@@ -171,6 +171,21 @@ Diona's paws can home on some entities that are not enemies.
 **Significance:**  
 Who needs to snipe birds when you have heat-seeking missiles?
 
+### Diona's Paws Don't Work Next to a Wall
+
+**By:** Ultimate Noob\#2955  
+**Added:** 05/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977693874942275594/transcript-dionas-paws-dont-work-next-to-a-wall.html)
+
+**Finding:**  
+Diona's paws appear behind Diona and then move forward during hold E. In the following clip the paws appear behind Diona inside the wall and explode before being able to travel forwards. Since no enemies got hit, no DMG got dealt and no particles were generated, however she still gets her shield up.
+
+**Evidence:**  
+[Hold E](https://youtu.be/yZ76CuHqXss)
+
+**Significance:**  
+Don't fire Diona's paws when there is a wall behind you.
+
 ## Burst Mechanics
 
 ### Diona Field Characteristics
