@@ -890,3 +890,38 @@ Bursts with no zoom animation:
 
 **Significance:**  
 A \(well\-known\) annoyance for mobile users, now documented. Sometimes, it's the game issue, not your skill issue. Zhongli's pillar is now your best friend.
+
+## Chasm Glitchy Bird
+
+**By:** SquareRootOf-1\#0898  
+**Added:** 05/21/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977690562201260042/transcript-chasm-glitchy-bird.html)
+
+**Finding:**  
+The birds inside the cages of The Chasm underground camps have some weird behavior
+
+**General Interactions**
+- All elements can be applied, can proc reactions - [Imgur](https://imgur.com/a/qZcX0p9)
+- Affected by res shred (visual effects, similar to other animals)
+- Affected by Lisa's Conductive status, like other animals
+- Procs "on hit" stuff (like other non-enemy objects, expected)
+
+**Attacks and Death**
+- Cannot die to any attacks (it jumps like a cat), this is expected/intended
+- Dies upon touching water, but can stand on frozen water - [Imgur by Tibo#4309](https://imgur.com/a/rgG0Z6z)
+- ~~Drops 1 fowl and respawns back in the cage after teleporting~~
+  - As of 2.7, it despawns when killed without dropping fowl
+
+**Crowd Control**
+- Can be displaced, but not knocked back (shown by [Palm Vortex and Gale Blade](https://imgur.com/a/UTbvlIQ))
+- Can be lifted by [holding Gale Blade](https://imgur.com/a/1LupZN8)
+- Crowd control can move it [out of its cage but not back in](https://imgur.com/a/2lldQ7T) (but it will always respawn in the cage after teleporting)
+- Wind's Grand Ode can lift it - it will hover above the ground but keep jumping - [Imgur by pai#3602](https://imgur.com/a/HFghzoo) 
+
+**Weird Stuff**
+- [Certain projectiles will disappear](https://imgur.com/a/d86lZHe) when they hit the bird, including bow normal/aimed shots and most catalyst projectiles
+- Can be trapped in Stone Stele and cannot be cc'ed when it's trapped, but teleports on top of Starfell Sword - [Imgur](https://imgur.com/a/qQ7fNUD)
+- [Slides down slopes](https://imgur.com/a/2CIiUAe)
+
+**Significance:**  
+Fluff
