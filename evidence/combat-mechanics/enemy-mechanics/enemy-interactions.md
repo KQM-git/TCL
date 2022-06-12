@@ -154,6 +154,24 @@ Summary: [Google Sheet](https://docs.google.com/spreadsheets/d/1s_A_RhVCkLn07XMW
 **Significance:**  
 Insight into the behavior and mechanics of enemies in the Overworld.  
 
+### Elemental Reactions Effects on Buried Dendro Slime
+
+**By:** Pablos\#1142  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974471796734705694/transcript-elemental-reactions-effects-on-buried-dendro-slime.html)  
+
+**Finding:**  
+Underground Dendro Slimes don't take damage from non-Pyro based Elemental Reactions. Those Reactions still occur and effects associated with them like Viridescent Venerer debuff, Superconduct debuff, Frozen and Crystallize still apply.  
+
+**Evidence:**  
+* [Frozen, Superconduct, Electro-Charged](https://imgur.com/a/pZprbk9) 
+* [Crystallize](https://imgur.com/a/5BlntzD) 
+* [Shatter (Geo and Claymore)](https://imgur.com/a/camZM7r) 
+* [Superconduct debuff](https://youtu.be/vm-OJXWH1K4) by Puffin#9920 
+* [VV debuff](https://imgur.com/a/9QyUkYN)
+
+Significance: Documentation of enemy mechanics.  
+
 ### Some Enemy CC is Level Dependent
 
 **By:** elijam\#7142  

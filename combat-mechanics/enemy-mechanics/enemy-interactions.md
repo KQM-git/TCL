@@ -17,7 +17,14 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
 
 =======
 ### Anemo Hypostasis  
+
 * Adequately getting rid of overworld Hydro Aura on the Anemo Hypostasis results in it continuously swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U cyro application. Non-sufficent Cryo application does not result in this occcuring.
+
+### Primo Geovishap
+* The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
+  * For more details see the [Shield Reflection Mechanic](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
+* The Primordial Shower's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
+* When swapping characters with a shield at the right time, the Primordial Shower will not be reflected.
 
 ### Azhdaha 
 
@@ -44,17 +51,6 @@ Triggering a freeze reaction on a boss entity does not create a frozen aura on t
   *  When at least 25m (5 Abyss tiles) away from a Ruin Guard using its seeking-missile attack, a well-timed character swap during the 400+ ms targeting animation will remove missile target seeking. 
   * Within 24m, Ruin Guards, Ruin Destroyers, and Ruin Defenders targeted attacks can be dodged with a well-timed character swap in the 16-64 ms targeting window.
 
-## Primo Geovishap
-* The damage caused by the primo geovishap's shield reflect mechanic will vary depending on the character's shield. 
-  * For more details see the [Shield Reflection Mechanic](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#shield-reflection-mechanic) entry in the Evidence Vault
-
-* The Primordial Shower's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
-* When swapping characters with a shield at the right time, the Primordial Shower will not be reflected.
-
-## Hydro Abyss Mage
-
-The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
-
 ## Ruin Sentinels
 
 * The Ruin Sentinels do not consistently proc Fischl's C1 effect. The type of Sentinel seems to affect how often C1 is proced.
@@ -62,6 +58,14 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 ## Ruin Hunter
 
 * The Bombardment mode's internal cool down can be bypassed by opening the Map, thus triggering it continuously.
+
+## Hydro Abyss Mage
+
+The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds.
+
+## Slimes
+
+* Underground Dendro Slimes don't take damage from non-Pyro based Elemental Reactions, but all Reactions and debuffs are still applied.
 
 ## Slime Balloon
 
