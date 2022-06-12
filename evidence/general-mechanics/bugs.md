@@ -71,6 +71,31 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Significance:** This behavior is not unique to Spiral Abyss and applies to all domains.
 
+### Keeping Domain Doors Open
+
+**By:** Magnus Artifex\#8719  
+**Added:** 05/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975064228476125224/transcript-keeping-domain-doors-open.html)
+
+**Bug:**  
+A domain’s door can be kept opened after exiting the domain.
+
+**Evidence:**  
+The following steps need to be followed to cause this:
+
+1) Be in the domain choosing screen.
+2) Achieve the high ping by deactivating your signal/wifi.
+3) Open the domain again.
+4) Turn on the signal/wifi when the loading icon appears. This has to appear while the door is opening.
+5) Now exit the domain screen. It should be still opened.
+
+The door resets if you teleport to another map or far enough away, but does not if you teleport nearby. It also resets if you interact with the domain again.
+
+[Teleporting nearby](https://imgur.com/a/WII4L0R) - [Teleporting far away](https://imgur.com/a/3c67rPC)
+
+**Significance:**  
+looks cool
+
 ## Overworld
 
 ### Infinite Bushes

@@ -31,7 +31,8 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 ## Domains
 
-Exiting or resetting a domain [will not reset a character's skill cooldown.](../evidence/general-mechanics/bugs.md#domains)
+* Exiting or resetting a domain [will not reset a character's skill cooldown.](../evidence/general-mechanics/bugs.md#resetting-or-exiting-a-domain-does-not-reset-elemental-skill-cooldowns)
+* A domain’s door can be kept open by [disconnecting internet while the door is being opened](../evidence/general-mechanics/bugs.md#keeping-domain-doors-open).
 
 ## Miscellaneous
 
