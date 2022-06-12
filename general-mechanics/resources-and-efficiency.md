@@ -20,6 +20,7 @@ Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines.
 * NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
 * The mora cost of buying out the NPC shops is equal to 360 realm currency.  
 * NPC shop artifacts are more worth to buy than sanctifying essence.  
+* For a mathmatical analysis on the artifact rolling system, see the [artifact probability thesis](../evidence/general-mechanics/resources-and-efficiency.md#artifact-probability-thesis).
 
 ### Crafting refund vs increase passives
 

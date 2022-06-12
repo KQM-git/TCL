@@ -8,7 +8,26 @@ description: For entries related to resources or resource efficiency
 
 {% page-ref page="../../general-mechanics/resources-and-efficiency.md" %}
 
-## Resin to Stardust Exchange Comparison
+## Resin
+
+### Maximum Original Resin  
+
+**By:** CQLQRS#7853  
+**Added:** 10/18/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896356040747122698/899839089124179968/transcript-maximum-original-resin.html)  
+
+**Finding:**  
+Original Resin can go past the cap of 160, capped at ~2000.  
+
+**Evidence:**  
+* Unable to go past 1993 Resin: [kimchihotpot#8630](https://imgur.com/a/gka5rSj)  
+* Unable to use 11 Fragile Resin (660 Resin) when at 1360 Resin, which would result in 2020 Resin: [Tibo#4309](https://i.imgur.com/kKl8sBo.png)  
+* Unable to use 1 Fragile Resin when at 2000 Resin: [Tibo#4309](https://i.imgur.com/Jl8wK1R.png)  
+
+**Significance:**  
+Better understanding of the Resin system.  
+
+### Resin to Stardust Exchange Comparison
 
 **By:** Mateng\#4507  
 **Added:** 4/14/2021
@@ -21,7 +40,9 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **Significance:** These findings identify that the most efficient use of Stardust \(outside of buying the 10 Fates, if the Traveler wishes to pay for them\) is to clear the limited amount of Mora, then the Magic Crystal Ores, then the Adventurer's Experience. Additionally, it is more Resin-efficient to be farming more Blue leylines than Gold ones.
 
-## Artifact EXP from Vendors Vs Domains
+## Artifacts
+
+### Artifact EXP from Vendors Vs Domains
 
 **By:** ceeeleste#3568  
 **Added:** 6/28/2021  
@@ -54,7 +75,7 @@ Best case: `1260/1005.9 = ~1.2526` (vendor 25.26% more worth)
 Buying out the 3 artifact vendors once a week is more worth than running a domain for artifact exp.
 Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a best case domain run scenario.
 
-## Vendor Artifacts vs Housing Sanctifying Essence  
+### Vendor Artifacts vs Housing Sanctifying Essence  
 
 **By:** K\឵឵#4000  
 **Added:** 07/07/2021  
@@ -74,22 +95,32 @@ It's better to buy 3 10k mora with 360 realm currency than to buy 1 sanctifying 
 NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
 The mora cost of buying out the NPC shop is equal to 360 realm currency.  
 
-## Crafting refund vs increase passives
+### Artifact Probability Thesis
 
-**By:** jdeeyu\#9927  
-**Added:** 5/22/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
+**By:** tooflesswulf\#8456  
+**Added:** 05/12/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974477543161872455/transcript-artifact-probability-thesis.html)  
 
-**Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive \(as stated in KQM guide\) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
+**Theory:**  
+Performed a thorough mathematical analysis of the artifact rolling system, deriving equations for:  
+1\. Exact probability that an artifact's substats upgrade beyond some threshold.  
+2\. Approximate probability than an artifact, once upgraded, will yield an increase in damage.  
+3a\. Approximate probability/expected time it takes to improve the overall damage of a build.  
+3b\. Expected damage increase per resin spent for farming an artifact domain.
 
-**Evidence:** Through simulating a large number of crafting trials, I will post a screenshot of my code below.  
-[Imgur](https://imgur.com/Fqkpwc2)
+**Evidence:**  
+See [ArtiSubMath-v10.pdf](../../.gitbook/assets/ArtiSubMath-v10.pdf).    
+There is also python demo code available at [artifact-math-demo-py.zip](../../.gitbook/assets/artifact-math-demo-py.zip).  
 
-**Significance:** Albedo/Eula passive isn't as good as it initially seems when compared to Xingqiu/Mona
+Significance:
+1. One form of the long-awaited artifact-substat-to-resin relation has been found.
+2. The theory can answer common questions such as:
+   * Which artifact should I upgrade? Should I fodder this artifact or keep it?
+   * Should I continue farming artifacts or should I focus on levels/talents?
 
-**Conclusion:** From the results of my simulation \(feel free to scrutinize my code, I have double checked it 3-4x myself\), it seems that Eula/Albedo is passive is actually 10% better than than Xingqiu/Mona instead of the initial 20%. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
+## Realm Currency
 
-## Realm Currency Exchange Rate Analysis
+### Realm Currency Exchange Rate Analysis
 
 **By:** Mateng\#4507  
 **Added:** 6/6/2021  
@@ -158,7 +189,7 @@ The most Resin-efficient purchase order at the Realm Depot is to claim the Magic
 
 For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; EXP -&gt; Mora at Paimon's Bargains in the Shop. Inverse this priority \(Mora -&gt; EXP -&gt; MEOs\) if Travelers wish to maximize RC and minimize Stardust.
 
-## Realm Currency Extended Analysis
+### Realm Currency Extended Analysis
 
 **By:** chowr\#0522  
 **Added:** 03/16/2022  
@@ -208,25 +239,27 @@ I also want to object to the idea that purchasing 360 RC of Mora to buy out the 
 
 Technically, it is true that, by following this method, it is more efficient to buy out the 2-star artifacts each week with Mora than to buy one tincture. There is a theoretical budget where someone buys all but one large tincture, and purchases Mora 3 times in order to buy out the artifact vendors. I object because there are alternate methods of obtaining Mora that would be more efficient and does not require the purchase of Mora with RC. Utilizing mob kills, daily random events, or even leylines to obtain the mora necessary instead would allow for the purchase of an extra Large Tincture. And if it is worthwhile to buy out the vendors instead of 1 Tincture, I argue it is more worthwhile to buy out the vendors, as well as the tincture. There is only a budget of 5040 Coins per week at the highest level, and so it is not possible to buy Transient Resin, Tinctures, and the 30,000 Mora necessary solely with coins. Therefore, I suggest the artifacts should be bought with Mora from a different source. Though with smaller budgets it certainly could be suggested that the 30,000 mora be purchased instead. 
 
-## BP Resin Value
+## Crafting Refund vs Increase Passives
 
-**By** Peekays\#2722  
-**Added:** 09/14/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882273258806849627/885691065707925514/transcript-battle-pass-value-for-resin.html)  
+**By:** jdeeyu\#9927  
+**Added:** 5/22/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
 
-**Finding:**  
-The $10 BP gives resources worth approximately 1800 resin = 45 condensed resin = 30 fragile resins in the form of exp books, mora, and talent books.  
-This does not include the weapon enhancement ores, fates, primogems, and bp exclusive weapon.
+**Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive \(as stated in KQM guide\) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
 
-**Evidence:**  
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1Xe-9r2IQXVZ4E0-jl6xRvJEim-18n1pe7bcA-AjA6jQ)  
+**Evidence:** Through simulating a large number of crafting trials, I will post a screenshot of my code below.  
+[Imgur](https://imgur.com/Fqkpwc2)
 
-Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Spreadsheet](https://docs.google.com/spreadsheets/d/14Y3aqKvnxSeuox3RF1Bg6kQwKzVDPEPqy8aXacSIHMs)
+**Significance:** Albedo/Eula passive isn't as good as it initially seems when compared to Xingqiu/Mona
+
+**Conclusion:** From the results of my simulation \(feel free to scrutinize my code, I have double checked it 3-4x myself\), it seems that Eula/Albedo is passive is actually 10% better than than Xingqiu/Mona instead of the initial 20%. If you take into account the initial talent books for the comparison then the difference is a whopping 1%.
 
 **Significance:**  
 Buy the BP if you have the money.
 
-## Overworld Farming Statistics
+## Overworld
+
+### Overworld Farming Statistics
 
 **By:** Bobrokrot#0111  
 **Added** 07/11/2021  
@@ -247,6 +280,21 @@ There are two types of artifact spots:
 
 **Significance:** Statistics for farming purposes 
 
+### Crabs Respawn  
+
+**By:** Mcpie#8672  
+**Added:** 07/17/2021  
+
+**Finding:**  
+Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
+
+**Evidence:**  
+[https://youtu.be/Z0VjSrFASLw](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
+[https://youtu.be/Zx2MKX8Nv8E](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
+
+**Significance:**  
+[Video](https://youtu.be/LDU_Txk06tM?t=75)
+
 ### Random Event Cap
 
 **By:** derek\#9488  
@@ -263,7 +311,48 @@ After the above, other random events also give no reward: [YouTube](https://www.
 **Significance:**  
 You can do 10 random events for mora, companionship exp, and enhancement ores everyday and its roughly about 15000-16000 mora a day and guaranteed 150 companionship exp a day. The easiest way to do this Is by repeating the warden of konda quest over and over again in that same spot as in the first video, scaring away the pigeons to do it quickly.
 
-## Food Costs
+### Bake-Danuki Respawn
+
+**By:** Mcpie\#8672  
+**Added:** 8/8/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868107312617889803/874106706328690778/transcript-inazuma-bake-danuki-respawn.html)
+
+**Finding:**  
+Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
+
+**Evidence:**
+* 2021-07-21 18:42:25 - <https://youtu.be/RWUUFzwP2f0> - first video
+* 2021-07-23 11:38:29 - <https://youtu.be/QQDcTR_G04w> - second video (1 day 17h diff)
+* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video  (~19h diff)
+* 2021-07-24 17:21:04 - <https://youtu.be/PghdzG1TlLc> - fourth video (~11h30min diff)
+
+**Significance:**  
+Some of them respawn artifacts so it might be a reliable way of getting more artifact fodder everyday.
+
+### Bush Droprates
+
+**By:** gideleon1\#2188  
+**Added:** 04/11/2021
+
+**Finding:** There is an 8% chance to get something from a broken bush.
+
+Out of 1,174 Bushes:
+
+* 30 Lizards
+* 32 Matsutakes
+* 32 Eggs
+
+It seems like the drop is chosen randomly. Testing was done during the day, because at night, fireflies are added to the pool. They do not replace anything in the loot table, because at night all four items were dropped. There has never been an instance of getting more than one drop out of a bush.
+
+**Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
+
+I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results.
+
+**Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
+
+## Food
+
+### Food Costs
 
 **By:** Anmol43\#1917  
 **Added:** 4/20/2021  
@@ -286,7 +375,7 @@ As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is 
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
-## Duplicate Special Dish  
+### Duplicate Special Dish  
 
 **By:** denmax#9293  
 **Added:** 07/11/2021  
@@ -300,130 +389,7 @@ Characters with extra dish cooking bonus can double their special dishes.
 **Significance:**  
 Just something to keep in mind.
 
-## Crabs Respawn  
-
-**By:** Mcpie#8672  
-**Added:** 07/17/2021  
-
-**Finding:**  
-Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
-
-**Evidence:**  
-[https://youtu.be/Z0VjSrFASLw](https://www.youtube.com/watch?v=Z0VjSrFASLw)  
-[https://youtu.be/Zx2MKX8Nv8E](https://www.youtube.com/watch?v=Zx2MKX8Nv8E)
-
-**Significance:**  
-[Video](https://youtu.be/LDU_Txk06tM?t=75)
-
-## Destroy Function Mechanics
-
-**By:** xf3\#3123  
-**Added:** 04/08/2021
-
-**Finding:**
-
-The destroy button in the inventory is the only way to mass delete/destroy items in the game other than the Parametric Transformer. However, the function itself is limited and the resources gained from destroying items are not worth compared to using them as fodder.
-
-**Evidence:** [Imgur](https://imgur.com/a/qRB1FWr)
-
-By destroying artifacts, you either can get XP or Mora, it is the same for each. By destroying weapons, you obtain a number of 1\* enhancement ores based on the rarity of the weapon \(3 for 3 stars, 2 for 2 stars, 1 for 1 star\)
-
-**Other Observations:**
-
-* 5\* or 4\* artifacts and weapons cannot be destroyed
-* Refined 3\* weapons cannot be destroyed
-* Character development materials, Food \(except apples and sunsettias\), gadgets, quest, and precious items cannot be destroyed
-* Material items that can be destroyed \(in addition to apples and sunsettia\) do not give anything when destroyed
-* Some material items can be destroyed and some cannot. There does not seem to be consistent reasoning for why
-
-**Significance:**
-
-Destroying weapons is not efficient and causes you to lose weapon XP. Destroying artifacts although has no "real downside," the rewards given are lackluster and are better used as fodder. There is no reason to destroy items that give no rewards. Those items are better used for the Parametric Transformer if they need to be disposed of. The only upside is to mass clear inventory space, but due to the size of the inventory and the loss of XP, it does not warrant using the feature.
-
-## Bake-Danuki Respawn
-
-**By:** Mcpie\#8672  
-**Added:** 8/8/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868107312617889803/874106706328690778/transcript-inazuma-bake-danuki-respawn.html)
-
-**Finding:**  
-Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
-
-**Evidence:**
-* 2021-07-21 18:42:25 - <https://youtu.be/RWUUFzwP2f0> - first video
-* 2021-07-23 11:38:29 - <https://youtu.be/QQDcTR_G04w> - second video (1 day 17h diff)
-* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video  (~19h diff)
-* 2021-07-24 17:21:04 - <https://youtu.be/PghdzG1TlLc> - fourth video (~11h30min diff)
-
-**Significance:**  
-Some of them respawn artifacts so it might be a reliable way of getting more artifact fodder everyday.
-
-## Bush Droprates
-
-**By:** gideleon1\#2188  
-**Added:** 04/11/2021
-
-**Finding:** There is an 8% chance to get something from a broken bush.
-
-Out of 1,174 Bushes:
-
-* 30 Lizards
-* 32 Matsutakes
-* 32 Eggs
-
-It seems like the drop is chosen randomly. Testing was done during the day, because at night, fireflies are added to the pool. They do not replace anything in the loot table, because at night all four items were dropped. There has never been an instance of getting more than one drop out of a bush.
-
-**Evidence:** [Google Docs](https://docs.google.com/document/d/1-mopokLcAiOwz9I7NS8LZnmNUhz57RStiXdyYN_yNc8/edit)
-
-I didn't assume anyone would want a two hour video of me just breaking bushes, so I just compiled the results.
-
-**Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
-
-## Capped Enhancement Ores  
-
-**By:** Kgbeast#6738  
-**Added:** 10/09/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893668250263633980/896141552135569438/transcript-capped-enhancement-ore.html)
-
-**Findings/Evidences**  
-Consequences of having capped (9999) Mystic Enhancement Ore:
-
-- Abyss rewards are sent to the mail and cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap  
-[Video](https://www.youtube.com/watch?v=q9W_R6sYpEQ&ab_channel=SteveBob)
-
-- Mystic enhancement ore from the Battle Pass cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap
-
-- Completing a random event will not yield any ore rewards but will still give companionship EXP and mora  
-[Video](https://www.youtube.com/watch?v=o6ms2FVQs68&ab_channel=SteveBob)  
-[Video](https://www.youtube.com/watch?v=pTFZUEjhBtc&ab_channel=SteveBob)
-
-- Mystic enhancement ore cannot be crafted at the blacksmith with either amethyst chunks or crystal ore  
-[Video](https://www.youtube.com/watch?v=9Z4XW4mvTuY&ab_channel=SteveBob)
-
-- Completing a daily commission CAN and will give mystic enhancement ore, exceeding the 9999 cap (previous methods still do not work past 9999)  
-[Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
-
-**Significance:**  
-This will never happen to you though.  
-
-## Maximum Original Resin  
-
-**By:** CQLQRS#7853  
-**Added:** 10/18/2021  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896356040747122698/899839089124179968/transcript-maximum-original-resin.html)  
-
-**Finding:**  
-Original Resin can go past the cap of 160, capped at ~2000.  
-
-**Evidence:**  
-* Unable to go past 1993 Resin: [kimchihotpot#8630](https://imgur.com/a/gka5rSj)  
-* Unable to use 11 Fragile Resin (660 Resin) when at 1360 Resin, which would result in 2020 Resin: [Tibo#4309](https://i.imgur.com/kKl8sBo.png)  
-* Unable to use 1 Fragile Resin when at 2000 Resin: [Tibo#4309](https://i.imgur.com/Jl8wK1R.png)  
-
-**Significance:**  
-Better understanding of the Resin system.  
-
-## Crafted Food Items Limit  
+### Crafted Food Items Limit  
 
 **By:** It3mUs3r#4778 and Creonalia#2818  
 **Added:** 10/24/2021  
@@ -530,7 +496,7 @@ and BK10 included in Tatara cluster
 **Significance:**  
 Allows collecting artifacts from more than \(the previous max of\) [129 spots](https://youtu.be/Tc8jvEdEeVk) in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: `5\+99\+32\+30\+11\+7=184`.  
 
-## Tree Mechanics
+## Trees
 
 ### Tree Chopping Memory Mechanics
 
@@ -638,6 +604,26 @@ In the video, thoma hits 4 birch trees that do not drop wood, this is either cau
 **Significance:**  
 Since capped trees do register in memory, this allows for hybrid routes (such as the one in the video), especially very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even after you have farmed one wood type to completion. 
 
+## Battle Pass
+
+### BP Resin Value
+
+**By** Peekays\#2722  
+**Added:** 09/14/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882273258806849627/885691065707925514/transcript-battle-pass-value-for-resin.html)  
+
+**Finding:**  
+The $10 BP gives resources worth approximately 1800 resin = 45 condensed resin = 30 fragile resins in the form of exp books, mora, and talent books.  
+This does not include the weapon enhancement ores, fates, primogems, and bp exclusive weapon.
+
+**Evidence:**  
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1Xe-9r2IQXVZ4E0-jl6xRvJEim-18n1pe7bcA-AjA6jQ)  
+
+Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Spreadsheet](https://docs.google.com/spreadsheets/d/14Y3aqKvnxSeuox3RF1Bg6kQwKzVDPEPqy8aXacSIHMs)
+
+### Weekly BP Cap During Launch Week
+
+=======
 ### Elemental Infusion Hampers Wood Cutting
 
 **By:** lapidibus#8146 and δανιελ#6040  
@@ -655,6 +641,7 @@ Ayato *can* chop wood during his skill's infusion *if* activated immediately aft
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.
 
 ## Weekly BP Cap During Launch Week
+
 **By:** Mcpie#8672  
 **Added:** 1/10/2022  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928504588498272296/930045464001257522/transcript-weekly-bp-cap-during-launch-week.html)
@@ -676,22 +663,62 @@ Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Sales
 
 **Significance:** People who wanted to reach BP Weekly EXP limit during launch week have to make additional sacrifices in order to do so.  
 
-## Berry Max
+## Inventory
 
-**By:** makeway4pK\#3901  
-**Added:** 03/22/2022  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955999927236984862/transcript-berry-max.html)  
+### Destroy Function Mechanics
 
-**Finding:**  
-Inventory cap for berries is 9999 much like crystal chunks.  
+**By:** xf3\#3123  
+**Added:** 04/08/2021
+
+**Finding:**
+
+The destroy button in the inventory is the only way to mass delete/destroy items in the game other than the Parametric Transformer. However, the function itself is limited and the resources gained from destroying items are not worth compared to using them as fodder.
 
 **Evidence:**  
-[YouTube](https://youtu.be/ACha1kLWHfQ)
+[Imgur](https://imgur.com/a/qRB1FWr)  
+
+By destroying artifacts, you either can get XP or Mora, it is the same for each. By destroying weapons, you obtain a number of 1\* enhancement ores based on the rarity of the weapon \(3 for 3 stars, 2 for 2 stars, 1 for 1 star\).  
+
+**Other Observations:**
+
+* 5\* or 4\* artifacts and weapons cannot be destroyed
+* Refined 3\* weapons cannot be destroyed
+* Character development materials, Food \(except apples and sunsettias\), gadgets, quest, and precious items cannot be destroyed
+* Material items that can be destroyed \(in addition to apples and sunsettia\) do not give anything when destroyed
+* Some material items can be destroyed and some cannot. There does not seem to be consistent reasoning for why
+
+**Significance:**
+
+Destroying weapons is not efficient and causes you to lose weapon XP. Destroying artifacts although has no "real downside," the rewards given are lackluster and are better used as fodder. There is no reason to destroy items that give no rewards. Those items are better used for the Parametric Transformer if they need to be disposed of. The only upside is to mass clear inventory space, but due to the size of the inventory and the loss of XP, it does not warrant using the feature.
+
+### Capped Enhancement Ores  
+
+**By:** Kgbeast#6738  
+**Added:** 10/09/2021  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893668250263633980/896141552135569438/transcript-capped-enhancement-ore.html)
+
+**Findings/Evidence:**  
+Consequences of having capped (9999) Mystic Enhancement Ore:
+
+- Abyss rewards are sent to the mail and cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap  
+[Video](https://www.youtube.com/watch?v=q9W_R6sYpEQ&ab_channel=SteveBob)
+
+- Mystic enhancement ore from the Battle Pass cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap
+
+- Completing a random event will not yield any ore rewards but will still give companionship EXP and mora  
+[Video](https://www.youtube.com/watch?v=o6ms2FVQs68&ab_channel=SteveBob)  
+[Video](https://www.youtube.com/watch?v=pTFZUEjhBtc&ab_channel=SteveBob)
+
+- Mystic enhancement ore cannot be crafted at the blacksmith with either amethyst chunks or crystal ore  
+[Video](https://www.youtube.com/watch?v=9Z4XW4mvTuY&ab_channel=SteveBob)
+
+- Completing a daily commission CAN and will give mystic enhancement ore, exceeding the 9999 cap (previous methods still do not work past 9999)  
+[Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
 
 **Significance:**  
-Knowledge... and maybe a hint that all materials might be capped at 9999.  
+This will never happen to you though.  
 
-## Crystal Chunk Inventory Cap
+### Crystal Chunk Inventory Cap
 
 **By:** Cypher130n\#6831  
 **Added:** 03/29/2022  
@@ -707,3 +734,18 @@ Knowledge... and maybe a hint that all materials might be capped at 9999.
 
 **Significance:**  
 Don't become an Ore Archon like me.  
+
+### Berry Max
+
+**By:** makeway4pK\#3901  
+**Added:** 03/22/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955999927236984862/transcript-berry-max.html)  
+
+**Finding:**  
+Inventory cap for berries is 9999 much like crystal chunks.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/ACha1kLWHfQ)
+
+**Significance:**  
+Knowledge... and maybe a hint that all materials might be capped at 9999.  
