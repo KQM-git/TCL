@@ -102,6 +102,7 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 | Damage Type | Plunge |
 
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
+* Kazuha E will, under certain conditions, fail to absorb self auras
 * **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
 
 {% endtab %}

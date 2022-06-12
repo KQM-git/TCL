@@ -106,6 +106,41 @@ Credit to Peekays\#2722 for the initial discovery.
 **Significance:**  
 Kazuha Swag.  
 
+### Kazuha E Absorption Bug
+
+**By:** Charisma\#5567  
+**Added:** 05/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975073739207225414/transcript-kazuha-e-absorption-bug.html)
+
+**Finding:**  
+Kazuha E will, under certain conditions, fail to absorb self auras (particularly relevant with Bennett's Q field). It will still be able to absorb auras from enemies in his E range. 
+*credits to fragile💤#7777 for discovering the bug first*
+
+**How to reproduce this bug easily**:
+1) get a self aura infused onto Kazuha (Bennett burst is the most common method)
+2) hold forward
+3) input dash + jump then e immediately. You have to press dash + jump at the same time. 
+
+
+**Evidence:**  
+*Hydro Absorb*: 
+* [YouTube](https://youtu.be/ynUDLCXIhN0)
+
+*Cryo Absorb*:
+* [Imgur *(by Tibo\#4309)*]()
+
+*Nothing Absorbed*: 
+- [YouTube](https://youtu.be/lW7W-Gw26rk)
+- [YouTube *(by Scrungle Bepis\#8760)*](https://youtu.be/PFLLWK6oZlI)
+- [YouTube *(by dnhckch\#5211)*](https://youtu.be/hfB69S8VXxI)
+- [Imgur *(by Yume\#2875)*](https://imgur.com/a/RHLsjtj)
+
+**Significance:**  
+Kazuha's E aura check seems to be able to even ignore his own aura. Given that some rotations are tuned to Kazuha's E absorbing the expected element, one may want to avoid dashing+jumping before inputting his E. However, one might also be able to use this bug to intentionally avoid absorbing self auras onto his E. 
+
+As for an explanation to why this bug occurs, it's probably due to funky aura check mechanics in Kazuha's E. Perhaps the dash jump makes it so he can't detect his own aura due to the invincibility frames during the dash, with the jump allowing for E to be input while the invincibility frames are happening, although this is all just speculation.
+
+
 ## Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
 * Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  
