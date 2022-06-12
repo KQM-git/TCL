@@ -88,6 +88,7 @@ Starts with 2 charges.
 * Each mine has its own ICD on Pyro application however if they explode on the same frame the Pyro application will be inconsistent \(max 2A per frame\).
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
+* Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate skill triggered passives for free.
 {% endtab %}
 
 {% tab title="Sparks \'n\' Splash" %}

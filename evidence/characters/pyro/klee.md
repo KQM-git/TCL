@@ -89,6 +89,24 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **Significance:** Updated tcl
 
+### Klee Interaction with Skill Related Passives When Doing Skill Burst Cancel
+
+**By:** Poisonite\#0195  
+**Added:** 06/06/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983454660314673274/transcript-klee-interaction-with-skill-related-passives-when-doing-eq-cancel.html)
+
+**Finding:**  
+Klee can use her Q (Burst) to cancel E (Skill) after cast but before cooldown timer begins, but cannot dash/jump cancel her E before cooldown begins.
+
+**Evidence:**  
+* Klee can activate 3 stacks of Kagura's Verity by animation cancelling her E with Q to gain 1 stack, and 2 stacks after. - [YouTube](https://youtu.be/uPKTnU4uGZg)
+* Klee can activate the passive of 4pcs Heart of Depth without the skill cooldown being activated. - [YouTube](https://youtu.be/uIVBXPAQBkI)
+* Klee can activate the passive of 4pcs Shimenawa's Reminiscence and being able to cast Q before the energy drain occurs, indicating that the EQ cancel can be done below 7 frames. - [YouTube](https://youtu.be/OcuyPt4LbJU)
+
+**Significance:**  
+This can allow klee to utilize sets such as 4 Crimson Witch and 4 Shimenawa's Reminiscence and weapons like Kagura's Verity more effectively, can help in rotationcrafting and can be considered in calcs relating to these specific sets/weapons.  
+This tech will be useful for anybody that uses klee, since E wont go into cooldown and it wont extend rotations by a significant amount, basically it wont hurt to do it, there are only gains.
+
 ## Burst Mechanics
 
 ### Klee’s Q is snapshotted on Cast
