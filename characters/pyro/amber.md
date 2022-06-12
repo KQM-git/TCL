@@ -97,6 +97,7 @@ The longer the button is held, the further the throw.
 * Multiple Baron Bunnies can be spawned without C4 when utilizing cooldown reduction effects.
 * **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
 * If **Baron Bunny** doesn't land on the ground within 10s of being casted, it disappears.
+* **Baron Bunny** can take collision damage from characters and from falling. Collision damage can occur from dashing into the bunny or plunging into it.
 {% endtab %}
 
 {% tab title="Fiery Rain" %}

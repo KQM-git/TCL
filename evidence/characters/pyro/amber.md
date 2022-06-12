@@ -56,6 +56,28 @@ Amber’s Baron Bunny’s landing can be delayed by crafting table. It spins on 
 **Significance:**  
 Some understanding of Amber's Elemental Skill and mostly fluff.  
 
+### Baron Bunny Collision Mechanics
+
+**By:** twentythree\#3787  
+**Added:** 05/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975041944155717732/transcript-bunny-collision.html)
+
+**Finding:**  
+Baron Bunny Collision Mechanics
+
+**Evidence:**  
+Amber's Baron Bunny takes collision damage from characters and from falling. Collision damage can occur from dashing into the bunny or plunging into it.
+* [Fall damage clip](https://youtu.be/C70v7yShMBw)
+* [Dash collision clip](https://youtu.be/76gn5DfGiQM)
+* [Plunge collision clip](https://youtu.be/SsUFFa1DT5A)
+
+This damage is collision damage, as evidenced by the expected plunge damage not aligning with the damage shown in the videos. 
+
+Based on these [character stats](https://imgur.com/a/rfwSZDT), Amber should be dealing 744x0.826=615 outgoing DMG, which the Bunny's DEF multiplier would reduce to 615x(491/(491+5x70+500)=225 incoming DMG. However, the Bunny instead takes 754 DMG, indicating that the damage did not come from the plunge, but instead the collision.
+
+**Significance:**  
+Fluff, better understanding of Amber's kit.
+
 ## Burst Mechanics
 
 ### Amber Ult Targeting
