@@ -8,6 +8,8 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 **Elemental Gauge Theory:** [Page](https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory)
 
+**Damage Formula:** [Page](https://library.keqingmains.com/combat-mechanics/damage/damage-formula)
+
 **Most Recent Character:** [Yelan](https://library.keqingmains.com/characters/hydro/yelan)
 
 **Newsletter:** The [newsletter](https://library.keqingmains.com/newsletter/patch-2.4) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
