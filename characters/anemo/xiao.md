@@ -53,7 +53,7 @@ Consumes 25 Stamina to perform an upward thrust.
 | N4C | 634.02% | 190 | 200.22%/s |
 
 **Plunge**  
-Plunges from mid-air to strike the ground below, damaging opponents along the patch and dealing AoE DMG upon impact.  
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.  
 Xiao does not take DMG from performing Plunge Attacks.
 
 | Plunge Type | Talent 9 DMG% | Frames | MV/s |
