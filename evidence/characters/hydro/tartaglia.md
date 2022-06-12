@@ -122,6 +122,23 @@ Skill and Burst on the Same Frame \(I will call this \[EQ\]\):
 * \[ErQ\] can potentially improve 4pc Shime Childe usability. Let's you tax evade with Ranged Burst which also refunds Energy, puts you into melee stance, and doesn't rely on high ping.
 * \[EmQ\] activates C6 on second skill rotation, which can allow for new potential setups.  
 
+### Childe E Cooldown is 6 Seconds When Immediately Swapped
+
+**By:** yolitme0\#0579 and BowTae\#0141  
+**Added:** 05/23/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/978312827905396806/transcript-childe-e-cooldown-is-6-seconds-when-immediately-swapping.html)  
+
+**Finding:**  
+Childe's Skill cooldown duration appears discrete. If Childe is swapped off within 1 second of Elemental Skill activation, you get a 6 second cooldown duration. Likewise, swapping after 1.3 and 1.5 seconds both have same 7s cooldown duration.
+
+**Evidence:**  
+6s cooldown on fast swap - [YouTube](https://youtu.be/x7z6cIrNfjM)  
+7s cooldown after 1.3s and 1.5s - [Youtube](https://youtu.be/-_YDfE3XYB8) and [YouTube](https://youtu.be/YaCT5owns_w)
+
+**Significance:**  
+Understanding cooldowns can allow more acurate theorycrafting and rotation building.  
+Swapping off of Childe as soon as possible will minimize his cooldown if you made a mistake.
+
 ## Riptide Mechanics
 
 ### **Riptide Burst \(Enemy Kill\) can be triggered by other units**

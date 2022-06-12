@@ -92,6 +92,7 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Max Duration | 30s |
 | Preemptive CD | 6s ~ 36s |
 | Max CD | 45s |
+* Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
 
 In this Stance, Tartaglia's Normal and Charged Attacks are converted to Hydro DMG that cannot be overridden by any other elemental infusion and change as follows:
 
