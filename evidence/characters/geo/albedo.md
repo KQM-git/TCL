@@ -45,6 +45,21 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 
 **Signifiance:** Will help improve rotations to deal more damage. In rotations, Albedo should only cast his skill after getting buffed.
 
+### Albedo's Elemental Skill Triggering is Pepega
+
+**By:** NZPIEFACE\#8439, Kolibri\#7675  
+**Added:** 06/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986267083748835339/transcript-albedo-e-is-pepega.html)
+
+**Finding:**  
+Albedo's Solar Isotoma procs the Transient Blossoms when enemies take damage (client-side).  
+
+**Evidence:**  
+Triggers offline (client-side) and from talents, reactions, and environmental damage - [YouTube #1](https://youtu.be/FpCKqikOCQA), [YouTube #2](https://youtu.be/Mw_9WIU4cdk), [YouTube #3](https://youtu.be/0VWD8izbYog)  
+
+**Signifiance:**  
+Albedo's on-damage effect appears to trigger client-side and from all sources of damage, unlike most other on-damage effects.  
+
 ## Burst Mechanics
 
 ### Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
