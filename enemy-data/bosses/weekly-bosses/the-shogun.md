@@ -27,4 +27,5 @@ Gains +200% RES towards all types of damage in the armored state and loses -60% 
 ## Attacks
 
 * **The Final Calamity** - drains all party members' Energy and leaves a **Flowers of Remembrance** requiring elemental attacks to charge a special shield. Outside this shield, one player will be marked with the **Eye of Stormy Judgement** and their active character will die, with any other active characters taking heavy Electro damage.
-  * The damage can be prevented through some unconventional means. [See the evidence page for details](/evidence/combat-mechanics/enemy-mechanics/enemy-interactions#raiden-boss-oneshot-mechanics).
+  * The damage can be prevented through some unconventional means. [See the evidence page for details](../../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#raiden-boss-oneshot-mechanics).
+  
