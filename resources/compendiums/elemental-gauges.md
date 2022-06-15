@@ -14,7 +14,7 @@ Anemo & Geo do not apply auras and are instead denoted with U.
 A more in-depth explanation can be found at [Elemental Gauge Theory](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Elemental Gauges
-*Updated for Patch 2.6.*
+*Updated for Patch 2.7.*
 
 {% tabs %}
 {% tab title="Hydro" %}
@@ -27,6 +27,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Mona      | 1A | 1A | DoT: 1A <br />Explosion: 1A | - | On Cast: 1A<br />On Pop: 2B | Dash: 1A |
 | Tartaglia <br />\(Childe\) | Riptide Flash: 1A<br />Riptide Burst: 2B | 1A | Entering Melee Stance: 2B<br />Basic Attack: 1A<br />Riptide Slash: 1A | - | Havoc: 2B<br />Obliteration: 2B <br /> Riptide Blast: 2B | - | 
 | Xingqiu   | - | - | Skill Damage: 1A<br />Rain Sword orbitals: 1A | - | 1A | - |
+| Yelan     | - | 1A <br /> Breakthrough Barb: 1A | 1A | 1A | Initial Hit: 2B <br /> Exquisit Throw: 1A | - |
 
 {% endtab %}
 {% tab title="Pyro" %}  

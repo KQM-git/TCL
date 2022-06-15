@@ -31,6 +31,35 @@
 {% endtab %}
 {% endtabs %}
 
+### Aqua Simulacra
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| The Cleansing Form | HP is increased by **16/20/24/28/32**%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20/25/30/35/40**%. This will take effect whether the character is on-field or not. |
+| Base ATK | 44 - 542 |
+| CRIT DMG | 19.2% - 88.2% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | CRIT DMG% |
+| :--- | :--- | :--- |
+| 60 | 341 | 65 |
+| 60+ | 373 | 65 |
+| 65 | 390 | 68.8 |
+| 70 | 408 | 72.7 |
+| 70+ | 439 | 72.7 |
+| 75 | 457 | 76.6 |
+| 80 | 475 | 80.4 |
+| 80+ | 506 | 80.4 |
+| 85 | 524 | 84.3 |
+| 90 | 542 | 88.2 |
+{% endtab %}
+{% endtabs %}
+
 ### Elegy for the End
 
 {% tabs %}
@@ -241,6 +270,35 @@
 | 80+ | 427 | 62.9 |
 | 85 | 440 | 65.9 |
 | 90 | 454 | 69 |
+{% endtab %}
+{% endtabs %}
+
+### Fading Twilight
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Radiance of the Deeps | Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6/7.5/9/10.5/12**%, **10/12.5/15/17.5/20**%, and **14/17.5/21/24.5/28**% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field. |
+| Base ATK | 44 - 565 |
+| Energy Recharge | 6.7% - 30.6% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | ER% |
+| :--- | :--- | :--- |
+| 60 | 361 | 22.6 |
+| 60+ | 387 | 22.6 |
+| 65 | 408 | 23.9 |
+| 70 | 429 | 25.2 |
+| 70+ | 455 | 25.5 |
+| 75 | 476 | 26.6 |
+| 80 | 497 | 27.9 |
+| 80+ | 523 | 27.9 |
+| 85 | 544 | 29.3 |
+| 90 | 565 | 30.6 |
 {% endtab %}
 {% endtabs %}
 

@@ -18,7 +18,7 @@ description: Energy particle generation by character.
 | Off-field, 2 man party, different element | 0.8 | 2.4 | 1.6 | 4.8 |
 
 ## Elemental Skill Particles
-*Updated for Patch 2.6.*
+*Updated for Patch 2.7.*
 
 Production ratio shows the rate of the amount of particle that will be produced \(for example 2~3 \(1:2\) means 33.33% chance of producing 2 particles and 66.67% chance of producing 3 particles\).
 
@@ -139,6 +139,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Xingqiu   |  | 21 | 5 \(-\) | 5.00 | 14.3 |
 | Kokomi    | Does a 0~1 \(1:2\) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field, 2s icd within same **Bake-Kurage**, does not have to stay on field | 20 | 0~1 \(-\) | 3.96	 | 11.9 |
 | Barbara   | Skill produces no particles | 32 | 0 \(-\) | 0.00 | 0.0 |
+| Yelan     | Skill Tap or Hold | 10 | 4 (-) | 4.00 | 24.0 |
+| Yelan     | C1 "Taking All Comers", Skill Tap or Hold \(1 extra E cast total\) | 10 | 4 \(-\) | 4.00 | 28.0 |
 
 {% endtab %}
 {% endtabs %}

@@ -35,6 +35,7 @@ Transformative Reactions include: Overload, Superconduct, Electro-Charged, Shatt
 * Xinyan's [Sweeping Ferver](../characters/pyro/xinyan.md#attacks)
 * Yae Miko's [Yakan Evocation: Sesshou Sakura](../characters/electro/yae-miko.md#attacks)
 * Yoimiya's [Ryuukin Saxifrag](../characters/pyro/yoimiya.md#attacks)
+* Zhongli's [Planet Befall](../characters/geo/zhongli.md#attacks)
 
 ## Evidence Vault
 
