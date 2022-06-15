@@ -140,6 +140,22 @@ Kazuha's E aura check seems to be able to even ignore his own aura. Given that s
 
 As for an explanation to why this bug occurs, it's probably due to funky aura check mechanics in Kazuha's E. Perhaps the dash jump makes it so he can't detect his own aura due to the invincibility frames during the dash, with the jump allowing for E to be input while the invincibility frames are happening, although this is all just speculation.
 
+### Kazuha Keeps Midare Ranzan Bug
+
+**By:** Rathalos\#2875  
+**Added:** 06/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986310266688012378/transcript-kazuha-keeps-midare-ranzan.html)
+
+**Finding:**  
+Kazuha can keep his special plunge/Midare Ranzan either by getting frozen while ascending or getting hit by a bubble from a Hydro Abyss Mage on the way up. It lasts for about 10s, just like the original effect.
+
+**Evidence:**  
+Bubble interrupt - [Imgur](https://imgur.com/ZvSleVZ)  
+Frozen interrupt - [Imgur](https://imgur.com/Bt3O7NM)  
+10s expiry duration - [Imgur](https://imgur.com/Lcgy7gd)  
+
+**Significance:**  
+More understanding about how his Elemental Skill works. Probably fluff, but cool stuff.
 
 ## Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
