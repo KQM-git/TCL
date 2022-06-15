@@ -12,7 +12,7 @@ search: false
 ### Bennett Hold E Counts as Self Damage
 
 **By:** Sir\_pick\_the\_prick\#2209  
-**Added:** 5/25/2021  
+**Added:** 2021-05-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
@@ -25,7 +25,7 @@ search: false
 ### Inspiration Field Buff Duration
 
 **By:** Comfy Seaweed\#3841  
-**Added:** 11/22/2020
+**Added:** 2020-11-22
 
 **Theory:** Bennett's Ult \(ATK buff\) refreshes every tick \(estimate around 1 second\). This means that the ATK buff may persist for awhile after swapping the character out, but will not stay throughout the duration.
 
@@ -45,7 +45,7 @@ Although probably not too significant, you may want to use Bennett's Ult before 
 ### Bennett Q and C6 Buff Self Application
 
 **By:** Zeitraffer\#1074 and Charliex3000\#9403  
-**Added:** 2/19/2021
+**Added:** 2021-02-19
 
 **Finding:** Bennett Q buff and C6 Pyro DMG Bonus applies on its own damage calculation
 
@@ -67,7 +67,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 ### Bennett Burst Coop Mechanics
 
 **By:** Crow \| WL8 \#1761  
-**Added:** 4/15/2021
+**Added:** 2021-04-15
 
 **Finding:** Bennett's attack buff prioritizes the burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
 
@@ -78,7 +78,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 ### Bennett Field Linger
 
 **By:** Asaki\#9139  
-**Added:** 6/7/2021  
+**Added:** 2021-06-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844783206262636545/851385838486945812/transcript-benny-field-linger.html)
 
 **Finding:**  
@@ -96,7 +96,7 @@ Better understanding of Bennett Burst mechanics
 ### Inspiration Field Tick Rate
 
 **By:** Monochrom9\#8058  
-**Added:** 2/12/2021  
+**Added:** 2021-02-12  
 
 **Finding:**  
 Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.  
@@ -116,8 +116,8 @@ If you re-enter a buff field or swap to a new character immediately after this X
 #### Bennett C4 Gauge
 
 **By:** Bobrokrot\#0111  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849314783475662879/849873440848609290/transcript-bennett-c4-gauge.html)  
-**Added** 6/2/2021
+**Added:** 2021-06-02  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849314783475662879/849873440848609290/transcript-bennett-c4-gauge.html)
 
 **Finding:** Bennet's C4 applies 1A of Pyro.
 
@@ -163,14 +163,14 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusio
 #### C6 Bennett pyro dmg bonus in coop  
 
 **By:** Neptunya\#8291  
-**Added:** 07/10/2021  
+**Added:** 2021-07-10  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863515307363532850/863517152987185162/transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
 
 **Finding:**  
 The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.  
 
 **Evidence:**  
 [Video](https://youtu.be/VOUNrvU_1ak)  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863515307363532850/863517152987185162/transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
 
 **Conclusion:**  
 Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.  
@@ -178,7 +178,7 @@ Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shat
 #### C6 Bennett Pyro Damage Bonus affects Catalyst and Bow-wielders
 
 **By:** bloodreign616#4766  
-**Added:** 08/19/2021  
+**Added:** 2021-08-19  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877622028209889291/877811754002968576/transcript-bennett-c6-affects-ranged.html)
 
 **Finding:**  
@@ -196,7 +196,7 @@ Bennett's 6th Constellation would appear to be a mistranslation, or otherwise no
 ### Knockback Protection Interaction
 
 **By:** sacstanxiang\#7439 and Novaa\#1006  
-**Added:** 12/1/2020
+**Added:** 2020-12-01
 
 **Theory:** Active shields and Xingqiu’s Orbital Swords prevent Bennett Charged E knockback.
 

@@ -12,8 +12,8 @@ search: false
 
 ### Dimensions of Albedo’s Elemental Skill AoE
 
-**Added:** 12/28/2020  
-Submission By: HailCorporate\#2970
+**Added:** 2020-12-28  
+**By:** HailCorporate\#2970
 
 **Finding:**  
 Albedo's E AoE is cylindrical and has a maximum height just over the elevator's height.
@@ -34,7 +34,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 ### Albedo's Elemental Skill Snapshots
 
 **By:** Steno\#6940  
-**Added:** 4/21/2021  
+**Added:** 2021-04-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834274373493456976/834662830120239115/transcript-albedo-e-snapshot.html)
 
 **Finding:** Albedo's elemental skill snapshots, meaning that damage for its entire duration is calculated when the skill is cast, so any buffs gained/lost after the skill is cast will not affect the skill's damage.
@@ -65,7 +65,7 @@ Albedo's on-damage effect appears to trigger client-side and from all sources of
 ### Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
 
 **By:** gtrain#9987  
-**Added:** 08/13/2021  
+**Added:** 2021-08-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875475337687990272/875585791869468722/transcript-albedo-fatal-blossom-snapshot.html)
 
 **Finding:**  
@@ -92,7 +92,7 @@ To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise th
 #### Albedo A4 Triggers During Q Animation
 
 **By:** Poisonite\#0195  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962008806097838120/transcript-albedo-a4-triggers-during-q-animation.html)  
 
 **Finding:**  

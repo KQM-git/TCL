@@ -5,7 +5,7 @@
 ## High Ping Interactions
 
 **By:** Some Proselytizer#8340  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840480610765111316/858421155228418088/transcript-high-ping-interactions.html)
 
 **Findings:**  
@@ -133,7 +133,7 @@ Bad ping breaks some mechanics in game on the server side and it could be used f
 ## Reactions are Client-side, Damage is Server-side
 
 **By:** NZPIEFACE\#8439  
-**Added:** 12/17/2021  
+**Added:** 2021-12-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917969257504047174/921166808302616627/transcript-reactions-are-client-side-damage-is-server-side.html)
 
 **Finding:**  

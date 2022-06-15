@@ -42,7 +42,7 @@ Equipping support characters with Lion's Roar/Dragon's Bane/Rainslasher that dea
 ### Weapons with Bane Passive Applies to Amplifying Reactions, but not Transformative Ones
 
 **By:** Lix-\#3417  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Findings:**  
 Can Lions Roar, 4TS, dragon's Bane, Raven's Bow increase reaction dmg?
@@ -90,7 +90,7 @@ Lions Roar and other weapons that have similiar passive don’t increase transfo
 ### Blackcliff Sword Effect Persists Even if the Holder Switches Off-Field
 
 **By:** Lix-\#3417  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Theory/Findings:**
 * Does Blackcliff bonus apply while the wielder is off field?
@@ -115,7 +115,7 @@ From the test we can conclude that the buff can be applied to their skills even 
 ### Favonius Weapons do not proc on Shielded Enemies
 
 **By:** Sakuno\#7950  
-**Added:** 2/4/2021
+**Added:** 2021-02-04
 
 **Evidence:**  
 Testing was done using Diona @ around 40% crit rate spamming normal attacks with an R1 favonius warbow, and a Xingqiu @ around 40% crit rate using normal attacks with an R1 favonius sword. 3 minutes on average I attacked a hydro abyss mage and a shielded cyro slime, on both characters. All 4 tests resulted in 0 procs. When shields were broken, favonius proc'd as expected \(60% chance per crit\). Shielded fatui skirmishers on the other hand, does not prevent favonius from working since it does not block dmg completely like the others.
@@ -128,7 +128,7 @@ Favonius weapons suffer the same drawback as sacrificial and does not provide it
 ### Favonius Weapons Procs On Multiple Enemies
 
 **By:** Nass008#8577  
-**Added:** 10/26/2021  
+**Added:** 2021-10-26  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885554549983678475/890088612354478150/transcript-sac-and-fav-weapons-against-multi-targets.html)
 
 **Finding:**  
@@ -154,7 +154,7 @@ Favonius Weapons are more effective on character with large AOE abilities/agains
 ### Favonius Proc Calculator
 
 **By:** Mr. Pillow\#0065  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945472919440588800/transcript-fav-proc-calculator-thingy-lel.html) 
 
 **Theory:**  
@@ -177,7 +177,7 @@ Offers an easy way to visualize how the probability changes with the CRIT Rate. 
 ### Millennial Movement Stack Mechanics
 
 **By:** rakka\#0099  
-**Added:** 5/22/2021  
+**Added:** 2021-05-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844496410950631444/845499320081055744/transcript-millenial-movement-stack.html)
 
 **Theory/Finding/Bug:** Millennial Effect Overlap Behavior
@@ -196,7 +196,7 @@ This means that mismatched refinements with overlapping effects can affect the c
 ### Elegy Stack Inconsistencies
 
 **By:** Wüolf\#3334  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951178898090127420/transcript-elegy-stack-inconsistencies.html)  
 
 **Findings:**  
@@ -231,7 +231,7 @@ Server sided registration on Elegy stack gain means that unstable ping can lead 
 ### Freedom-Sworn Interaction With Weapon Infuse
 
 **By:** borderline\#3100  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962025187367338004/transcript-freedom-sworn-interaction-with-weapon-infuse.html)  
 
 **Finding:**  
@@ -282,7 +282,7 @@ This is the tool I used to run simulations for Royal weapon line crits.
 ### How Royal LongSword’s Passive Works
 
 **By:** Pleinair\#8321  
-**Added:** 11/22/2020
+**Added:** 2020-11-22
 
 **Evidence:** [YouTube](https://youtu.be/YqjY3RN-QDs)
 
@@ -307,7 +307,7 @@ This also raises the question of other royal weapon use cases with off screen DP
 ### Royal Series Dynamic Stacking on Snapshot DoT Skills
 
 **By:** sunnyd\#5916  
-**Added:** 04/10/2021
+**Added:** 2021-04-10
 
 **Finding:**  
 Lisa's Q snapshots crit stacks from Royal Grimoire but the damage from the Q ticks will dynamically change the number of stacks
@@ -320,7 +320,7 @@ The passive of royal weapons continues to stack even when a snapshotting skill d
 ### Royal Series AoE Abilities and Mechanics
 
 **By:** Bobrokrot\#0111  
-**Added:** 6/25/2021  
+**Added:** 2021-06-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856875279872032829/858177822186012722/transcript-royal-mechanics.html)
 
 **Finding:** AoE abilities do "snapshot" crit rate.
@@ -368,7 +368,7 @@ Royal weapons have an increased efficiency in situations when the holder trigger
 ### Mathematical Analysis of Royal Weapon Effective Crit Rate
 
 **By:** NZPIEFACE\#8439  
-**Added:** 10/28/2021  
+**Added:** 2021-10-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896590252930633728/903505119679750204/transcript-royal-weapons-have-extremely-diminishing-returns.html)  
 
 **Finding:**  
@@ -398,7 +398,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 ### Average ER Gain from Sacrificial Weapons  
  
 **By:** Raladin\#3752  
-**Added:** 2/2/2022  
+**Added:** 2022-02-02  
   
 **Finding:** Average ER gain from Sacrificial Weapons has decreasing returns when increasing refinement.    
 
@@ -412,7 +412,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 ### Sacrificial Weapons do not proc on Shielded Enemies
 
 **By:** Exuma\#1917  
-**Added:** 2/4/2021
+**Added:** 2021-02-04
 
 **Evidence:**  
 Testing was done with Diona hold E with R1 sacrificial bow and XQ E with R1 sacrificial sword. Both units used 50 E skills on shielded pyro abyss mages and shielded geo slimes with 0 procs for both cases. When shields were broken, sac weapon procs were as expected. \(40% chance per hit on R1\)
@@ -425,7 +425,7 @@ This has many applications in combat, especially in abyss where timed trials wil
 ### Sacrificial Passive With Multiple E Stacks
 
 **By:** mol\#3280  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
@@ -442,7 +442,7 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 ### Sacrificial Weapons Interactions
 
 **By:** gengar\#8426  
-**Added:** 08/19/2021  
+**Added:** 2021-08-19  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876708429463441408/877813971443392603/transcript-sacrificial-weapons-interactions.html)
 
 **Finding:**  
@@ -457,7 +457,7 @@ Helpful for character building, documents which characters are able to proc sacr
 ### Sacrificial Weapons Procs On Multiple Enemies
 
 **By:** Nass008\#8577  
-**Added:** 10/26/2021  
+**Added:** 2021-10-26  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885554549983678475/890088612354478150/transcript-sac-and-fav-weapons-against-multi-targets.html)
 
 **Finding:**  
@@ -487,7 +487,7 @@ Sacrificial Weapons are more effective on character with large AOE skills/agains
 #### **Skyward Harp’s passive has the ability to crit**
 
 **By:** Cola\#6861  
-**Added:** 01/31/2021
+**Added:** 2021-01-31
 
 **Finding:**  
 When shooting with the Skyward Harp, it is possible to achieve a critical hit on the passive ability.
@@ -505,7 +505,7 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 #### Skyward Blade Description Clarification
 
 **By:** Special\#1775  
-**Added:** 12/6/2020
+**Added:** 2020-12-06
 
 **Finding:**  
 * Skyward blade does not increase your damage after Elemental Burst but adds an additional line as bonus damage using the values on the description.
@@ -526,7 +526,7 @@ When using the Skyward Harp, it is now apparent that it is slightly better then 
 #### Skyward Pride Damage Interaction with 4 Set Gladiators
 
 **By:** Chiefy\#2036  
-**Added:** 3/30/2021
+**Added:** 2021-03-30
 
 **Finding:**  
 Skyward Pride's vacuum blades count as raw physical damage and not as normal or charged attacks for the purpose of 4 set Gladiators.
@@ -542,7 +542,7 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 #### Vacuum Blades can crit
 
 **By:** Phana\#0420  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
 
 **Finding:** Skyward Pride's vacuum blades can crit.
@@ -556,7 +556,7 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 #### Skyward Atlas effect can crit
 
 **By:** Phana\#0420  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
 
 **Finding:** Skyward Atlas' weapon proc can crit.
@@ -589,7 +589,7 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 #### Cinnabar Passive Deactivation Bug
 
 **By:** TheLocalMilkMan\#0813  
-**Added:** 03/16/2022  
+**Added:** 2022-03-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953730346774589510/transcript-cinnabar-passive-deactivation-bug.html)  
 
 **Bug:**  
@@ -614,7 +614,7 @@ This will hurt Albedo's damage until this is fixed. This bug is known and has be
 #### 4 ESF Interractions
 
 **By:** Vye\#9195  
-**Added:** 09/11/2021  
+**Added:** 2021-09-11  
 [Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882481705213108255/886295072927277096/transcript-engulfing-lightning-4esf-interaction.html)  
 [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882486597130547260/886295126341742602/transcript-engulfing-lightning-4esf-snapshot.html)  
 
@@ -648,7 +648,7 @@ Grasscutter + 4ESF have better synergy.
 #### Hakushin Ring Doesn't Trigger Off Field
 
 **By:** Greyhound\#7836 and Terrapin\#8603  
-**Added:** 12/13/2021  
+**Added:** 2021-12-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/910093336277299200/919278115103076412/transcript-hakushin-ring-bad-keep-mask.html)  
 
 **Finding:**  
@@ -666,7 +666,7 @@ Bad uptime.
 #### Kagura Stack Refresh
 
 **By:** ArchedNosi\#1484  
-**Added:** 2/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945241248996925440/transcript-kagura-duration-refresh.html)  
 
 **Findings:**  
@@ -694,7 +694,7 @@ Bad uptime.
 #### Kagura Stacks Dynamic
 
 **By:** ArchedNosi\#1484  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945505748228665344/transcript-kagura-stacks-dynamic.html)  
 
 **Findings:**  
@@ -724,7 +724,7 @@ The Skill% buff being dynamic also fits in line with other Skill% buffs which ar
 **This bug has been fixed in version 2.6, see this [Vault Entry](../../evidence/characters/pyro/klee.md#klee-stacking-bug-has-been-fixed) for more information.**  
 
 **By:** solo\#3333  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951283825449775195/transcript-klee-and-kagura-stacks.html)  
 
 **Finding:**  
@@ -755,7 +755,7 @@ Potentially affects the viability of this weapon for Klee. The caveat of waiting
 #### Kitain Spear energy drain delay
 
 **By:** Episodde\#8962  
-**Added:** 08/28/2021  
+**Added:** 2021-08-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
@@ -784,7 +784,7 @@ Also doesn't dip the unit's energy into the negatives. [Video](https://youtu.be/
 #### Katsuragikiri Nagamasa energy drain delay
 
 **By:** Episodde\#8962  
-**Added:** 08/28/2021  
+**Added:** 2021-08-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
 
 **Finding:**  
@@ -807,7 +807,7 @@ Beidou can still do E into Q to funnel energy, as long as you dash cancel the E 
 #### Lost Prayer Stack Mechanics
 
 **By:** Konbo\#0004  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Findings:**  
 * Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character falls.
@@ -828,7 +828,7 @@ Lost Prayer becomes... even better for a main dps while exploring? The fact that
 #### Analysis of whether Xingqiu E/Q counts as a “shield” for Memory of Dust and Bolide
 
 **By:** ＃＃\#0123  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Findings:**  
 For Bolide or Memory of Dust purposes, Xingqiu Q/E are not shields. Beidou C1 and Diona E are.
@@ -845,7 +845,7 @@ Potential implication for unforged? And you can't get a free shield for memory o
 #### Mistsplitter Stacks Upon Burst Usage
 
 **By:** gtrain\#9987  
-**Added:** 09/06/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875440257619877908/884459387270332446/transcript-mistsplitter-burst-interactions.html)
 
 **Finding:**  
@@ -880,7 +880,7 @@ Damage calculations.
 
 #### Mistsplitter NA Stack From CA
 **By:** Trosalio#0420   
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935165915794927656/936216847626412072/transcript-mistsplitters-na-stack-from-ca.html)
 
 **Finding:**  
@@ -903,7 +903,7 @@ You can gain said stack in a case where Normal Attacks cannot reach any enemies,
 
 #### Oathsworn Passive Mechanics
 **By:** Kurt\#5846  
-**Added:** 03/01/2022  
+**Added:** 2022-03-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948218052242206730/transcript-oathsworn-passive-mechanics.html)  
 
 **Findings:**  
@@ -927,7 +927,7 @@ Accurate calculations and simulations with this weapon.
 
 #### Polar Star ICD 
 **By:** Latiwings\#3308, GottaGoFast\#7876, Cenpi\#3224, NZPIEFACE\#8439, Xreejan\#1180  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926918612894248981/931125536460247080/transcript-polar-star-icd-round-two.html)   
 (Debunked entry: [Polar Star has ICD across independent stacks](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/915808783383556117/919058132649525278/transcript-polar-star-icd.html))
 
@@ -950,7 +950,7 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 #### **PJWS On Hit Definition**
 
 **By:** Vye\#9195  
-**Added:** 04/15/2021
+**Added:** 2021-04-15
 
 **Finding:**  
 PJWS passive can be stacked from elemental skill and burst skill hits on an enemy. The "on hit" portion of the passive does not refer to normal attack hits alone.
@@ -966,7 +966,7 @@ Triggering and maintaining PJWS stacks in real combat scenarios is a lot easier 
 #### PJWS New Stacks Extend Duration
 
 **By:** hawtlava\#2461    
-**Added:** 08/09/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874131997897932840/874176647992074240/transcript-pjws-new-stacks-extend-duration.html)
 
 **Finding:**
@@ -984,7 +984,7 @@ New gained stacks on PJWS will extend the duration of existing stacks, beyond th
 #### Prototype Amber Healing Clarification  
 
 **By:** Reens\#9389  
-**Added:** 10/26/2021  
+**Added:** 2021-10-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902702182086868993/902796682113204314/transcript-prototype-amber-healing-clarification.html)  
 
 **Finding:**  
@@ -1003,7 +1003,7 @@ Stacking HP on a Prototype Amber wielder will not increase its healing.
 #### Multiple Prototype Amber Heals Don't Stack
 
 **By:** Pana <3\#0992  
-**Added:** 03/01/2022  
+**Added:** 2022-03-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948232531155750952/transcript-multiple-prototype-amber-heals-dont-stack.html)  
 
 **Finding:**  
@@ -1035,7 +1035,7 @@ It is not advisable to run Prototype Amber on 2 or more characters in each team,
 #### Prototype Starglitter Stacks Duration Refresh
 
 **By:** elijam\#7142  
-**Added:** 07/29/2021  
+**Added:** 2021-07-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869121335903813682/870107482016579624/transcript-starglitter-stack-refresh.html)
 
 **Finding:**  
@@ -1055,7 +1055,7 @@ Affects stack uptime considerations for polearm users with skill cooldowns less 
 #### Rust Damage Decrease
 
 **By:** Amadurim\#8925  
-**Added:** 04/05/2021
+**Added:** 2021-04-05
 
 **Finding:**  
 Rust DMG reduction on charge shots is additive and is in the same category as dmg% when calculated.
@@ -1100,7 +1100,7 @@ The dmg reduction of Rust passive is pretty negligible.
 #### Rate of Loss of Serpent Spine Stacks
 
 **By:** Reydriar\#8127  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Finding:** 
 Losing Serpent Spine stacks has an ICD depending on the stack count.
@@ -1121,7 +1121,7 @@ Getting hit by multi hit attacks will still only remove one stack thus increasin
 #### Serpent Spine Damage Taken affects Shields
 
 **By:** Greyhound\#7836  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
 
 **Finding:**  
@@ -1164,7 +1164,7 @@ Although there's better claymores, this makes The Bell significantly better than
 #### Luxurious Sea-Lord interactions
 
 **By:** CQLQRS\#7853  
-**Added:** 10/09/2021  
+**Added:** 2021-10-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892193182488621126/896129073586241586/transcript-fish-claymore-interactions.html)
 
 **Finding:**  
@@ -1203,7 +1203,7 @@ The passive procs as intended similar to the other mentioned previously. However
 #### Alley Flash's Disable Timer can be Reset by Damage
 
 **By:** kol\#1593  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
 
 **Finding:** Taking damage while The Alley Flash's DMG% increase passive is disabled will reset the disable timer.
@@ -1223,7 +1223,7 @@ The Alley Flash's passive symbol fully materializes at 561 frames (9.35 seconds)
 #### Widsith Abyss Second Half Proc
 
 **By:** Keteru\#3020  
-**Added:** 03/16/2022  
+**Added:** 2022-03-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953765873573834813/transcript-widsith-abyss-chamber-two-proc.html)  
 
 **Finding:**  
@@ -1243,7 +1243,7 @@ Changes Abyss team slotting and potentially optimal team rotation when using The
 #### Wolf's Gravestone Procs Don't Stack
 
 **By:** JonahFarc\#7056  
-**Added:** 5/11/2021  
+**Added:** 2021-05-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837816774124109884/841875652197220352/transcript-multiple-wgs-interaction.html)
 
 **Finding:**  
@@ -1258,7 +1258,7 @@ Multiple WGS can kinda suck if they're not equal refine
 #### Wolf's Gravestone Passive Does Not Affect the Attack That Procs It
 
 **By:** Goden\#2155  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920102145787838494/921149901344227348/transcript-wgs-proc-hit-is-unbuffed.html)
 
 **Finding:**  
@@ -1277,7 +1277,7 @@ Setup your WGS buff before a big nuke or you lose out on potential damage.
 #### Aquila Favonia Proc And Shield Interaction
 
 **By:** gvo#4200  
-**Added:** 10/26/2021  
+**Added:** 2021-10-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884586464292261949/902500308381495326/transcript-aquila-proc-and-shield-interaction.html)
 
 **Finding:**  
@@ -1298,7 +1298,7 @@ This interaction may affect other "triggers on taking dmg" + shield interactions
 #### Aquila Healing is Affected by Healing Bonus
 
 **By:** IAmOnYourSide\#5431  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951288550870089768/transcript-aquila-healing-affected-by-healing-bonuses.html)  
 
 **Finding:**  
@@ -1328,7 +1328,7 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses. 
 ### Event Weapons Cannot be Foddered
 
 **By:** CQLQRS\#7853  
-**Added:** 16/10/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894750392875876352/898918637547696128/transcript-event-weapons-cannot-be-foddered.html) 
 
 **Finding:**  
@@ -1346,7 +1346,7 @@ Prevents accidental foddering of once in a lifetime event weapons.
 ### Weapon Stats for Inactive Characters
 
 **By:** Reens\#9389  
-**Added:** 16/10/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896218177569194004/898767346217398282/transcript-weapon-stats-for-inactive-characters.html)
 
 **Finding**: Certain weapon passives do not apply their effect on character stat pages for out-of-party characters. This only applies to weapons that either: 1) have a conditional stat buff or 2) provide one stat in relation to another. 
@@ -1365,7 +1365,7 @@ Prevents accidental foddering of once in a lifetime event weapons.
 ### Attack Speed Buffs on Claymores
 
 **By:** EternalDream\#5503  
-**Added:** 2/4/2021
+**Added:** 2021-04-02
 
 **Finding:** 
 Attack Speed buffs do not dynamically affect Claymore Charged Attacks
@@ -1382,7 +1382,7 @@ If an Attack Speed buff is active, such as Beidou's A4 after max parry, the char
 ### Charged Attack Speed Buff Update
 
 **By:** tamamo\#4303  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951294681289998357/transcript-charged-attack-speed-buff-update.html)  
 
 **Finding:**  
@@ -1415,7 +1415,7 @@ Memory of dust can actually be strong, even without a shield doubling its effect
 ### Refinement Costs
 
 **By:** JonahFarc\#7056  
-**Added:** 04/18/2021  
+**Added:** 2021-04-18  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832715654204358696/834224529680105522/transcript-refinement-costs.html)
 
 **Finding:**  
@@ -1432,7 +1432,7 @@ If refining a weapon from R1 to R5, it's cheaper to constantly use the R1 weapon
 ### Weapon Stacks On Hit
 
 **By:** CQLQRS\#7853 and Dunia\#2481  
-**Added:** 11/5/2021  
+**Added:** 2021-11-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898239421558685757/906327045561258084/transcript-gaining-stacks-on-hit.html)  
 
 **Finding:**  
@@ -1452,7 +1452,7 @@ Documentation of how the ambiguous description of such weapon passives work.
 
 ### Lost Prayer and Serpent Spine Stacks
 **By:** Xardas\#2531  
-**Added:** 1/3/2021  
+**Added:** 2022-01-04  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/919691832986845225/927713631595028490/transcript-lost-prayer-and-serpent-spine-stacks.html)
 
 **Findings:**  
@@ -1480,7 +1480,7 @@ NOTE: I could not test the exact times on this, but the timer still resets when 
 
 ### Weapon Stacking And Ping
 **By:** NZPIEFACE\#8439  
-**Added:** 1/14/2022  
+**Added:** 2022-01-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917958648221806632/931437394002075678/transcript-weapon-stacking-and-ping.html)
 
 **Finding:**  
@@ -1519,7 +1519,7 @@ Freedom-Sworn doesn't change behaviour.
 
 ### Widsith and TTDS Work Off-Field
 **By:** Charisma\#5567  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945479622408155166/transcript-widsith-and-ttds-work-off-field.html)    
 
 **Findings:**  
@@ -1534,7 +1534,7 @@ With this knowledge, characters are free to swap out and still retain Widsith/TT
 
 ### Weapons and Heals
 **By:** Daibangden#8410  
-**Added:** 06/06/2022  
+**Added:** 2022-06-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983414155220508692/transcript-weapons-and-heal.html)  
 
 **Findings:**  

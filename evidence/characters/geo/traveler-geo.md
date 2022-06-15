@@ -13,7 +13,7 @@ search: false
 ### Twins CA MVs Comparison
 
 **By:** Fluffy\#5580  
-**Added:** 04/10/2021
+**Added:** 2021-04-10
 
 **Theory:** Lumine is better than Aether because her CA 2nd hit multiplier is higher.
 
@@ -26,7 +26,7 @@ search: false
 ### Geo Traveler E can be manually detonated
 
 **By:** Sorry#6046  
-**Added:** 08/18/2021  
+**Added:** 2021-08-18  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876140744275005540/877470462693756928/transcript-geo-mc-boulder-can-be-manually-exploded.html)
 
 **Finding:**  
@@ -44,7 +44,7 @@ Geo supremacy.
 ### Wake of Earth Blocks Geovishap Jump
 
 **By:** Terrapin\#8603  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839244723133612072/840066389728821268/transcript-wake-of-earth-blocks-geovishap-jump.html)
 
 **Finding:**  
@@ -63,7 +63,7 @@ Enemy movement manipulation when using Geo Traveler in a team comp.
 #### Geo Traveler A4 counts as Normal Attack
 
 **By:** Blank#4561  
-**Added:** 09/10/2021  
+**Added:** 2021-09-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
 
 **Finding:**  
@@ -80,7 +80,7 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 #### MC Elemental Proc Difference
 
 **By:** Rathalos\#2875  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
 
 **Theory:**  
@@ -107,7 +107,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 #### Geo MC C1 activation after Cast
 
 **By:** Vherax\#5321  
-**Added:** 6/20/2021  
+**Added:** 2021-06-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845028522325573702/856407372993527828/transcript-geo-mc-c1-does-not-apply-to-burst.html)
 
 **Finding:**
@@ -127,7 +127,7 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 #### GMC Wake Of Earth Interactions
 
 **By:** Rathalos\#2875  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955987323579957338/transcript-gmc-wake-of-earth-interactions.html)  
 
 **Theory:**  
@@ -288,7 +288,7 @@ Rockstep and other combos that bring a character on top of the meteorite does no
 #### Geo Traveler C2 damage
 
 **By:** elijam#7142  
-**Added:** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -316,7 +316,7 @@ Damage calculations for Geo Traveler
 ### Geo Traveler triggers Mistsplitter NA Stack
 
 **By:** amaryillis#4774  
-**Added:** 9/10/2021  
+**Added:** 2021-09-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
@@ -330,7 +330,7 @@ Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 ### Rockstep Tech
 
 **By:** Rathalos\#2875  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956012252463517756/transcript-rockstep-tech.html)  
 
 **Finding:**  
@@ -365,7 +365,7 @@ This is a GMC\-specific tech that can be used by other characters. There's poten
 ### Aether Analysis
 
 **By:** Liunel\#2555  
-**Added:** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/820951727720497162/850178239632900111/transcript-aether-weapons-and-builds.html)
 
 Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.

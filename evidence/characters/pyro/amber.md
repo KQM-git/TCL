@@ -13,7 +13,7 @@ search: false
 ### Baron Bunny's aura
 
 **By:** Aluminum\#5462  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839475466792599573/840049309344464967/transcript-baron-bunny-aura.html)
 
 **Finding:**  
@@ -28,7 +28,7 @@ Baron Bunny may be used as an entity to hold certain auras.
 ### Amber E Duration Begins When Bunny Lands
 
 **By:** Ieah.#2212  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951185430424993942/transcript-amber-e-duration-begins-when-bunny-lands.html)  
 
 **Finding:**  
@@ -43,7 +43,7 @@ Mostly fluff and something inconsequential, no real purpose where it's necessary
 ### Amber E Can Be Delayed by Crafting Table
 
 **By:** walkers\#1808  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956001302368911441/transcript-amber-e-can-be-delayed-by-crafting-table.html)  
 
 **Finding:**  
@@ -59,7 +59,7 @@ Some understanding of Amber's Elemental Skill and mostly fluff.
 ### Baron Bunny Collision Mechanics
 
 **By:** twentythree\#3787  
-**Added:** 05/14/2022  
+**Added:** 2022-05-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975041944155717732/transcript-bunny-collision.html)
 
 **Finding:**  
@@ -83,7 +83,7 @@ Fluff, better understanding of Amber's kit.
 ### Amber Ult Targeting
 
 **By:** CM\#0970  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883204858050662440/920980949834035200/transcript-amber-ult-targeting.html)
 
 **Finding:** Amber's Q likely does not land randomly in certain pre-determined areas.  
@@ -111,7 +111,7 @@ There is another example of this happening in 4c, when one of the slimes jumps i
 ### Amber Burst Overload Consistency
 
 **By:** Bobrokrot\#0111  
-**Added:** 5/23/2021  
+**Added:** 2021-05-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842092523408850944/845889022290296842/transcript-amber-ult-overload-inconsistency.html)
 
 **Finding/Bug:** Amber ult with full EM gear vs Electro Hypostasis can sometimes deal 3 large chunks of damage due to Overload reaction and sometimes 4.
@@ -128,7 +128,7 @@ There is another example of this happening in 4c, when one of the slimes jumps i
 ### C0: 2 Simultaneous Baron Bunnies
 
 **By:** Exuma\#1917  
-**Added:** 6/17/2021  
+**Added:** 2021-06-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846678238796316683/854985101988593694/transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
 
 **Finding:**  
@@ -143,7 +143,7 @@ It is possible to spawn multiple Baron Bunnies at once without C4 Amber.
 ### Amber C1 & C2 Damage
 
 **By:** elijam\#7142  
-**Added:** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding/Bug:**  
@@ -165,7 +165,7 @@ Damage increases with 2gambler bonus, and does not increase when 4NO buff is act
 ### Amber C2 Works on CO-OP Teammate Baron Bunnies
 
 **By:** flibby404\#5843  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951192426075267152/transcript-amber-c2-works-on-coop-teammate-baron-bunnies.html)  
 
 **Finding:**  

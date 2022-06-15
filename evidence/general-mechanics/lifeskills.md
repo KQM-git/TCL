@@ -9,7 +9,7 @@ search: false
 ## Statue of Seven Healing
 
 **By:** Asaki\#9139  
-**Added** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847359141626118154/849897436956590110/transcript-statue-of-seven-inactive-member-healing.html)
 
 **Finding:** A Statue of Seven will heal \(and revive to full if dead\) without any restraint, provided that the character/party that you want to heal is not in the active \(on-field\) party.
@@ -21,7 +21,7 @@ search: false
 ## Item Pickup Speed  
 
 **By:** Chaos_Filler\#0746  
-**Added:** 01/31/2021  
+**Added:** 2021-01-31  
 
 **Finding:**  
 Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
@@ -37,7 +37,7 @@ Spend less time on gathering loot and more time killing things.
 ### Ayaka infinite ice bridge
 
 **By:** Serenity#3372  
-**Added:** 09/06/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880089241252667452/884462363280035900/transcript-ayaka-na-infinite-ice-bridge.html)  
 
 **Theory:**  
@@ -52,7 +52,7 @@ Exploration.
 ## Wait for mora before TP
 
 **By** ZyronX#0001  
-**Added:** 09/11/2021  
+**Added:** 2021-09-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885894005987115060/886300876791218216/transcript-wait-for-mora-before-tp.html)  
 
 **Finding:**  
@@ -70,7 +70,7 @@ When you're speedrunning artifact route or elite route, you should wait for the 
 ### Bait & Switch
 
 **By** wiremash#0433  
-**Added:** 09/14/2021  
+**Added:** 2021-09-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884979127260680212/887102831771922482/transcript-bait-and-switch.html)  
 
 **Finding:**  
@@ -87,7 +87,7 @@ Unnecessarily advanced fishing technique for those trying to catch multiple spec
 ### Fishing Rods Comparison
 
 **By** OCM#0619  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887968373005230100/899175829236482048/transcript-fishing-rod-comparison.html)  
 
 **Finding:**  
@@ -142,7 +142,7 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 ### Co-Op Fish Trolling
 
 **By** Aevean Leeow\#1362 and Scavenger\#6510  
-**Added:** 10/28/2021  
+**Added:** 2021-10-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883181763143286884/903518750903504926/transcript-fish-trolling.html)  
 
 **Finding:**  
@@ -175,7 +175,7 @@ I hate fishing, and if you hate fishing too, you should commit acts of terrorism
 ### Fish Replacement
 
 **By:** Kenneth (Ellaevans)\#6329  
-**Added:** 10/31/2021  
+**Added:** 2021-10-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889051986312458290/904212306135748659/transcript-fishing-replacement-confirmed.html)  
 
 **Findings:**  
@@ -183,10 +183,10 @@ All fishes from both night/day cycles are replaced after 48-72 hours.
 
 **Evidence:**  
 4 screenshots below showing their timestamps and night/day cycles.
-- [Day, 9/16/2021 23:29](https://imgur.com/auPXTpc)
-- [Day, 9/19/2021 15:28](https://imgur.com/JziLcwm)
-- [Night, 9/16/2021 23:29](https://imgur.com/37xhvr1)
-- [Night, 9/19/2021 15:28](https://imgur.com/kkkKZaA)
+- [Day, 2021-09-16 23:29](https://imgur.com/auPXTpc)
+- [Day, 2021-09-19 15:28](https://imgur.com/JziLcwm)
+- [Night, 2021-09-16 23:29](https://imgur.com/37xhvr1)
+- [Night, 2021-09-19 15:28](https://imgur.com/kkkKZaA)
 
 **Significance:**
 You do not need to fish until the spot is empty to respawn the fish that you require. Example you could fish all the pufferfish and wait 48-72 hours for the spot to replace the fishes. 
@@ -194,7 +194,7 @@ You do not need to fish until the spot is empty to respawn the fish that you req
 ## The Walking Dead Impact
 
 **By** Mcpie#8672  
-**Added:** 09/17/2021  
+**Added:** 2021-09-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887034163725746226/888244472746487818/transcript-autowalk-with-dead-chars.html)  
 
 **Finding:**  
@@ -213,7 +213,7 @@ You can go to the toilet while traversing through Teyvat using your new autowalk
 ### Boat Stamina And Food
 
 **By** Ayzel#7399  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897673998811398194/899171326827331624/transcript-boat-stamina-and-food.html)  
 
 **Finding:**  
@@ -228,7 +228,7 @@ Don't waste food
 ### Waverider Buff Effects
 
 **By** Goden#2155  
-**Added:** 10/29/2021  
+**Added:** 2021-10-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902597789102518323/903669906694864936/transcript-boat-buff-effects.html)
 
 **Finding:**  

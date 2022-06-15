@@ -73,7 +73,7 @@ Overall useful information for people looking to clear abyss/domains
 ### Mist Bubble I-Frame
 
 **By:** snorting salt#3888  
-**Added:** 07/17/2021  
+**Added:** 2021-07-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
@@ -90,7 +90,7 @@ Dash iframes do not always work against the bubbles, especially for the abyss ma
 
 ### CO-OP Hydro Abyss Mage Bubble  
 **By:** Prototype\#1337  
-**Added:** 01/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934205594070548490/936445344600956988/transcript-co-op-hydro-abyss-mage-bubble.html)  
 
 **Finding:**  
@@ -111,7 +111,7 @@ Based on the evidence provided, it is clearly shown that other players (includin
 ## Black Aura Data
 
 **By:** Yurina Maekawa#6585  
-**Added:** 08/20/2021  
+**Added:** 2021-08-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874182515840155648/878190059038335056/transcript-black-aura-data.html)
 
 **Findings:**  
@@ -146,7 +146,7 @@ Early understanding about this strange **Black Aura**, now known officially as "
 ## Targeting Ignores Enemy Hitbox Location
 
 **By:** #Kourinn\#6001  
-**Added:** 10/31/2021  
+**Added:** 2021-10-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897826161055379466/904520062487126027/transcript-targeting-ignores-hitbox.html)
 
 **Finding/Theory:**  
@@ -164,7 +164,7 @@ Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge A
 ## Miasmic Tumor  
 
 **By:** NZPIEFACE\#8439  
-**Added:** 02/20/2022  
+**Added:** 2022-02-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929743744322912316/945093554731102290/transcript-miasmic-tumour.html)   
 
 **Finding:**  
@@ -228,7 +228,7 @@ Documentation of this bosses attacks and interactions.
 ## Raiden Boss Resistances
 
 **By:** Bobrokrot\#0111  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945473947456131152/transcript-raiden-boss-resistances.html)  
 
 **Finding:**  
@@ -245,7 +245,7 @@ This knowledge will allow us to concoct strategies on how to defeat Magatsu Mita
 ### Coral Defender Orb Mechanics
 
 **By:** Wesu\#8719  
-**Added:** 03/16/2022  
+**Added:** 2022-03-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953726835890487376/transcript-coral-defender-orb-mechanics.html)  
 
 **Findings:**  
@@ -265,7 +265,7 @@ It was previously assumed that the damage is based on how much HP a character ha
 ## Coral Defenders Can Double Spike In Abyss
 
 **By:** makeway4pK\#3901  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962129991452225576/transcript-coral-defenders-can-double-spike-in-abyss.html)  
 
 **Finding:**  
@@ -284,7 +284,7 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 ### Basic Mechanics
 
 **By:** pai\#3602  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956016166516703252/transcript-golden-wolflord-mechanics.html)  
 
 **Findings:**  

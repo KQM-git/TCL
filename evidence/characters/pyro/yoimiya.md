@@ -41,7 +41,7 @@ search: false
 
 ### Kindling Arrows Interaction with Amos' Bow
 **By:** Ayzel\#7399  
-**Added:** 11/11/2021  
+**Added:** 2021-11-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908499139703214080/908507642199150652/transcript-yoi-kindling-arrows-and-amos.html)
 
 **Findings:**  

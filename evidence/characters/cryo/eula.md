@@ -105,7 +105,7 @@ search: false
 ### Eula Swap Buff
 
 **By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836  
-**Added:** 6/14/2021  
+**Added:** 2021-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845173856271597578/854016900095016960/transcript-eula-swap-buff.html)
 
 **Finding:**  
@@ -124,7 +124,7 @@ Allows for better burst cycles.
 ### Eula Burst Buffs Catalog
 
 **By:** Artesians#0002  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845526724984963072/858445059292266536/transcript-eula-buff-catalog.html)
 
 **Theory:**   
@@ -143,7 +143,7 @@ Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
 ### Eula 15 stack bug  
 
 **By:** GOKU\#8808  
-**Added:** 07/05/2021  
+**Added:** 2021-07-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851120552323055636/861598862111932416/transcript-15-stacks-on-c0-eula.html)  
 
 **Bug:**  
@@ -160,7 +160,7 @@ Eula is stronger under high ping.
 ### Eula Burst Animation Cancel
 
 **By:** TWICE\#9958  
-**Added:** 04/24/2022  
+**Added:** 2022-04-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967821800463556658/transcript-eula-burst-animation-cancel.html)  
 
 
@@ -188,7 +188,7 @@ The sweatiest of gamers can save up to ~4 frames of Eula's initial Burst animati
 ### Rosaria A4 Eula Burst Inconsistency
 
 **By:** TWICE\#9958  
-**Added:** 1/10/2021  
+**Added:** 2021-01-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/925652715894358046/930016341086335027/transcript-rosaria-a4-eula-burst-inconsistencies.html)
 
 **Finding:**  

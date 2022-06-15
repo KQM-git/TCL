@@ -76,7 +76,7 @@ search: false
 #### Sayu C2 infused kick
 
 **By:** drunkamphy#7487  
-**Added:** 09/25/2021  
+**Added:** 2021-09-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881438570236235786/891207395609554995/transcript-sayu-ball-c2-infused-kick.html)
 
 **Finding:**  

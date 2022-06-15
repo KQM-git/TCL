@@ -13,7 +13,7 @@ search: false
 ### Bloom’s Innate Travel Time for Amos’ Bow
 
 **By:** SavageCabbage\#1445  
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -34,7 +34,7 @@ Ganyu synergises well with Amos’ Bow. C1 is slightly better due to the finding
 ### Viridescent Hunt’s Passive Can Activate off of Bloom
 
 **By:** Kidz\#8667  
-**Added:** 01/25/2021
+**Added:** 2021-01-25
 
 **Finding:**
 
@@ -53,7 +53,7 @@ Due to the fact that Viridescent Hunt can trigger on both the bloom or the arrow
 ### Specific Distances Required for Each Stack of Amos’ Buff
 
 **By:** Shinku\#8903  
-**Added:** 01/26/2021
+**Added:** 2021-01-26
 
 **Finding:**
 
@@ -88,7 +88,7 @@ These distance calculations will allow for players to have a better understandin
 ### Bloom Damage Scales with Charged Attack DMG Bonus
 
 **By:** That’s so Poyo\#6921  
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -107,7 +107,7 @@ This finding means that set bonuses that improve charge attacks such as Wanderer
 ### Ganyu Cannot Perform the ARCC Tech That All Other Bow Users Can Perform With Her Frostflake Arrow \(with the exception of C6\)
 
 **By:** SavageCabbage\#1445   
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -126,7 +126,7 @@ With this knowledge we now know that there is no potential frame advantage from 
 ### Frostflake Bloom Hitbox Range
 
 **By:** Kidz\#8667 SavageCabbage\#1445 Pinupski\#9999   
-**Added:** 01/14/2021
+**Added:** 2021-01-14
 
 **Finding:**
 
@@ -151,7 +151,7 @@ Plots out the AoE of the FFB and show that the FFB damage is being applied to al
 ### Charged Shot Arrow Deviation When Aiming Near Objects
 
 **By:** qwertyasdf007\#9101  
-**Added:** 02/08/2021
+**Added:** 2021-02-08
 
 **Finding:**
 
@@ -185,7 +185,7 @@ Special thanks to SavageCabbage\#1445 for founding this theory and discussing it
 ### C0 Ganyu: 2 Simultaneous Ice Lotuses
 
 **By:** Exuma\#1917 and JenjenJL\#6582  
-**Added:** 6/17/2021   
+**Added:** 2021-06-17   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846678238796316683/854985101988593694/transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
 
 **Finding:**  
@@ -199,7 +199,7 @@ It is possible to spawn multiple Ice Lotuses without C2 Ganyu.
 ### Ganyu Elemental Skill has no ICD
 
 **By:** TWICE\#9958  
-**Added:** 1/10/2022   
+**Added:** 2022-01-10   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929894901469032499/930085706393600060/transcript-ganyu-e-icd.html) 
 
 **Finding:**  
@@ -214,7 +214,7 @@ Provides evidence for "ICD: None" on TCL for Ganyu's skill.
 ### Ganyu’s Trail of Qilin can taunt every enemy in the game that is not considered a boss monster
 
 **By:** TiagoESC\#6773  
-**Added:** 01/13/2021
+**Added:** 2021-01-13
 
 **Finding:**
 
@@ -233,7 +233,7 @@ As Ganyu’s Trail of Qilin is capable of properly taunting just about every sin
 ### Ganyu Construct Height Placement Shenanigans
 
 **By:** Empyress\#9451  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962026867236417586/transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
 
 **Finding:**  
@@ -252,7 +252,7 @@ Knowing more about construct spawn conditions at different heights.
 ### Icicle drop frequency of Ganyu’s Q
 
 **By:** TiagoESC\#6773  
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -271,7 +271,7 @@ Knowing the number of icicles during Ganyu’s Q will help with other findings l
 ### Icicle Internal Cooldown in Ganyu’s Burst
 
 **By:** Artesians\#0002  
-**Added:** 01/12/2021
+**Added:** 2021-01-12
 
 **Finding:**
 
@@ -306,7 +306,7 @@ Ganyu's Q is really bad against single target enemies for cryo application. Her 
 ### **Ganyu’s Ascension 4 and Constellation 4 Effects Carry Over on Consecutive Casts of Ganyu’s Elemental Burst**
 
 **By:** SavageCabbage\#1445 TiagoESC\#6773  
-**Added:** 01/25/2021
+**Added:** 2021-01-25
 
 **Finding:**
 
@@ -329,7 +329,7 @@ This finding implies that Ganyu’s overall elemental burst damage spikes signif
 #### Ganyu’s A1 Passive Does Not Apply to the Initial Bloom
 
 **By:** SavageCabbage\#1445  
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -348,7 +348,7 @@ This knowledge allows for a clearer understanding of her talents, and implies th
 #### Ganyu’s A1 Passive Persists After Swap
 
 **By:** Nello\#1928  
-**Added:** 01/25/2021
+**Added:** 2021-01-25
 
 **Finding:**
 
@@ -377,7 +377,7 @@ This proves that it is possible to use other character’s elemental bursts and/
 #### Ganyu’s Ascension 4 Passive Will Not Apply to the First Elemental Burst Cast
 
 **By:** SavageCabbage\#1445  
-**Added:** 01/24/2021
+**Added:** 2021-01-24
 
 **Finding:**
 
@@ -400,7 +400,7 @@ These findings are important for Ganyu players to know as their elemental bursts
 ### **Ganyu elemental burst and charge shots snapshot**
 
 **By:** Karzak\#7126 Nello\#1928 Neptunya\#8291  
-**Added:** 01/28/2021
+**Added:** 2021-01-28
 
 **Finding:**
 
@@ -425,7 +425,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 ### Ganyu Burst does not Overlap
 
 **By:** EdisonsMathsClub\#6469  
-**Added:** 04/17/2021
+**Added:** 2021-04-17
 
 **Finding:** Ganyu's ultimate cannot be duplicated or have 2 on the field at the same time
 
@@ -442,7 +442,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 ### Ganyu Burst Frequency
 
 **By:** Yukarix#6534, Greyhound#7836  
-**Added:** 06/24/2021  
+**Added:** 2021-06-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845508390595592202/857719631568961536/transcript-ganyu-ult-frequency-enemy-size.html)
 
 **Finding:**  
@@ -469,7 +469,7 @@ Ganyu's ult is better than expected
 #### Constellation 1’s Cryo Resistance Shred Will Apply to the First Shot’s Bloom
 
 **By:** Karzak\#7126  
-**Added:** 01/31/2021
+**Added:** 2021-01-31
 
 **Finding:**
 
@@ -486,7 +486,7 @@ The 15% cryo resistance shredding from Ganyu’s constellation 1 is slightly bet
 #### Ganyu’s Constellation 1 Generates Energy Without Dealing Damage
 
 **By:** Pinupski\#9999  
-**Added:** 01/31/2021
+**Added:** 2021-01-31
 
 **Finding:**
 
@@ -507,7 +507,7 @@ It can be useful to know that even in the event of immunity or resistance you ca
 #### ARCC Shot Tech is Doable Only With Ganyu’s Constellation 6
 
 **By:** SavageCabbage\#1445  
-**Added:** 01/26/2021
+**Added:** 2021-01-26
 
 **Finding:**
 
@@ -526,7 +526,7 @@ Allows for quick execution of charged shot -&gt; e -&gt; charged shot -&gt; e -&
 ### Ganyu’s E Can Trigger Small Pressure Plates
 
 **By:** TiagoESC\#6773  
-**Added:** 01/14/2021
+**Added:** 2021-01-14
 
 **Finding:**
 
@@ -545,7 +545,7 @@ With this in mind, Ganyu is potentially a better character to use for exploratio
 ### Ganyu’s Bloom from Frostflake Arrow is Considered a Projectile and Can Headshot
 
 **By:** Karzak\#7126 SavageCabbage\#1445  
-**Added:** 01/31/2021
+**Added:** 2021-01-31
 
 **Finding:**
 
@@ -564,7 +564,7 @@ In practice when using the Prototype Crescent it is very possible to accidentall
 ### Ganyu can provide an ice bridge via her charged shots
 
 **By:** Cola\#6861  
-**Added:** 01/31/2021
+**Added:** 2021-01-31
 
 **Finding:**
 
@@ -583,7 +583,7 @@ Ganyu is a decent character when attempting to travel across water as her Frostf
 ### Unlimited Ganyu Works
 
 **By:** Pinupski\#9999  
-**Added:** 04/05/2021
+**Added:** 2021-04-05
 
 The culmination of all Ganyu macro-related testing and iteration since release. Now compiled into one mostly comprehensible document.
 
@@ -604,7 +604,7 @@ QoL and DPS increase to fluidly execute all as one motion.
 ### Sacrificial Passive With Multiple E Stacks \(Ganyu C2\)
 
 **By:** mol\#3280  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [\[Disscussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  

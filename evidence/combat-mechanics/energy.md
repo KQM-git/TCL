@@ -8,17 +8,15 @@ search: false
 
 ## Elemental Skill Particle Production Database
 
-**Added:** 12/6/2020
+**Added:** 2020-12-06
 
 [Full Database](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0) maintained by Steph\#3614
 
 ## Only On-Field Characters Gain Energy By Auto Attacks
 
-**By:** c2authoritarian\#5277 and Pinupski\#9999
-
-**Added:** 12/7/2020
-
-Updated: 4/3/2021
+**By:** c2authoritarian\#5277 and Pinupski\#9999  
+**Added:** 2020-12-07  
+**Updated:** 2021-04-03
 
 **Finding:** Energy recharge gained through auto attacking only applies to the character on field
 
@@ -33,7 +31,7 @@ Updated: 4/3/2021
 ## Energy Recharge **D**oes NOT Have a Softcap \(at least up to 300 ER\)
 
 **By:** muakasan\#2792  
-**Added:** 4/4/2021
+**Added:** 2021-04-04
 
 **Evidence:**
 
@@ -50,7 +48,7 @@ Updated: 4/3/2021
 ## Auto Attack Energy Mechanics
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839361536900595732/840061797561139211/transcript-auto-attack-energy-mechanics.html)
 
 **Finding:**  
@@ -65,7 +63,7 @@ Attacking enemies with normal/charged attacks can give extra energy. Although in
 ## Energy Generation Update
 
 **By:** Steph\#3614, wiremash\#0433, Zebin\#1678, Greyhound\#7836, mol\#3280  
-**Added:** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845560562221056001/850107809877196870/transcript-energy-gen-numbers.html)
 
 **Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.

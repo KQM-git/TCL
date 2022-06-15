@@ -12,7 +12,7 @@ search: false
 ### Searing Onslaught Extension via Freeze
 
 **By:** xf3\#3123  
-**Added:** 6/7/2021
+**Added:** 2021-06-07
 
 **Finding:**  
 Getting frozen mid Searing Onslaught 2 will allow you to extend the skill. This allows you to use the skill multiple times for one rotation.
@@ -33,7 +33,7 @@ When running Barbara or Xingqiu, self freeze can be an upside in certain situati
 ### Diluc Burst ICD
 
 **By:** Isu\#6867  
-**Added:** 5/29/2021  
+**Added:** 2021-05-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845447638719266826/848323323459928085/transcript-diluc-burst-icd.html)
 
 **Finding:**  
@@ -48,7 +48,7 @@ The vape damage potential of Diluc's burst is lower than one might expect based 
 ### Diluc Q initial hit is 2U
 
 **By:** ceeeleste#3568  
-**Added:** 08/20/2021  
+**Added:** 2021-08-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877477456519512064/878178628079353886/transcript-diluc-q-gauge-is-2u-and-not-1u-on-the-initial-hit.html)
 
 **Finding:**  
@@ -82,7 +82,7 @@ Better Diluc rotation.
 #### Diluc Burst Damage Benefits from A4
 
 **By:** elijam\#7142  
-**Added:** 12/12/2021  
+**Added:** 2021-12-12  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917975114987999382/919073580216643584/transcript-diluc-burst-benefits-from-a4.html)  
 
 **Finding:**  

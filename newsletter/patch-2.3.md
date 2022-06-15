@@ -4,7 +4,7 @@ description: 'Eula & Albedo Banners ft. Bennett, Noelle and Rosaria'
 ---
 
 # Patch 2.3
-*Published: 12/13/2021*
+*Published: 2021-12-13*
 
 ## New Guides
 * [Kujou Sara's Training Manual](https://keqingmains.com/sara/)

@@ -21,7 +21,7 @@ search: false
 ## Xinyan C6 affects her Skill and Burst  
 
 **By:** Nass008\#8577  
-**Added:** 31/10/2021  
+**Added:** 2021-10-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903997513890136085/904063136171167795/transcript-xinyan-c6-affects-skill-and-burst.html)  
 
 **Finding:**  
@@ -37,7 +37,7 @@ In-game description is pepega and on-field C6 Xinyan will do a tiny bit more dam
 ## Xinyan C2 Shield Formation Pulses Extra Times
 
 **By:** EternalDream\#5503, elijam\#7142, Zouuyu\#3117
-**Added:** 10/31/2021  
+**Added:** 2021-10-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895344911824605274/904424443059789875/transcript-xinyan-c2-shield-formation-pulses.html)
 
 **Finding:** Xinyan's C2 will cause her new shield to pulse a varying amount of times extra, depending on the player's device and settings (most notably their FPS), before continuing with the usual 6 pulses of a normal level 3 shield. This occurs regardless of already having a shield active prior to using her Burst. 

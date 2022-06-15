@@ -57,7 +57,7 @@
 
 ### Shenhe E has no ICD
 **By:** daibangden2460\#8410  
-**Added:** 1/21/2022  
+**Added:** 2022-01-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932469355374059590/933905482916200468/transcript-shenhe-e-has-no-icd.html)
 
 **Finding:**  
@@ -68,7 +68,7 @@ Shenhe does not have ICD.
 ### Quills Don't Work on Balloons
 
 **By:** Sincronic\#3171  
-**Added:** 03/09/2022  
+**Added:** 2022-03-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951189874780827719/transcript-quills-dont-work-on-balloons.html)  
 
 **Finding:**  
@@ -113,7 +113,7 @@ Understanding of quill mechanics.
 #### Shenhe C4 Mechanics
 
 **By:** Zamo\#6399  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945502154737717259/transcript-shenhe-c4-mechanics.html)  
 
 **Finding:**  
@@ -134,7 +134,7 @@ Better understanding of Shenhe's C4 mechanics.
 ### Oscillation Tests on Prominent Body Regions of Shenhe's Model from Various Attacks
 
 **By:** CC\#5588  
-**Added:** 1/04/2021  
+**Added:** 2022-01-04  
 [Basic Mechanics Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927459391739924490/930781121459945472/transcript-shenhe-basic-mechanics.html)
 
 **Finding:**  

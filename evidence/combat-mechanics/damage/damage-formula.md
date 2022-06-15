@@ -11,7 +11,7 @@ search: false
 ## Outcoming and incoming healing bonuses are additive  
 
 **By:** ItzSomebody\#0029  
-**Added:** 09/08/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874018516842475600/874090458991706122/transcript-outcoming-incoming-healing-additive.html)
 
 **Finding:**  
@@ -26,7 +26,7 @@ The two are additive.
 ## Defense shred is hard capped at 90%  
 
 **By:** Phana\#0420, Mcpie\#8672, elijam\#7142  
-**Added:** 08/09/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873886801348153384/874084646370045952/transcript-defense-shred-caps-at-90.html)  
 
 **Finding:**

@@ -13,7 +13,7 @@ search: false
 ### Analysing Beidou’s Normal Attack Rotations Including Hitlag
 
 **By:** lostguru\#5024  
-**Added:** 12/6/2020
+**Added:** 2020-12-06
 
 **Evidence:**  
 [https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
@@ -28,7 +28,7 @@ search: false
 ### Frame Analysis of Beidou’s Parry
 
 **By:** MemeMastodon69\#2165  
-**Added:** 11/5/2020
+**Added:** 2020-11-05
 
 **Finding:**  
 Beidou perfect parry has 2 startup frames, 17 active frames +/- 1 frame
@@ -47,7 +47,7 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 ### Beidou E Particle Mechanics
 
 **By:** Steph\#3614  
-**Added:** 03/22/2021
+**Added:** 2021-03-22
 
 **Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
 
@@ -67,7 +67,7 @@ This makes Beidou's particle production way easier to count.
 
 ### Beidou Counter Startup
 **By:** Aftermath#7658  
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930577686575853578/936209001497116762/transcript-beidou-counter-startup.html)
 
 **Finding:**  
@@ -88,7 +88,7 @@ The parry timing is a little easier than previously thought.
 
 ### Beidou Lightning Proc ICD
 **By:** Steno\#0119  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/924074085271633920/931135564336496710/transcript-beidou-proc-cd.html)
 
 **Finding:**  
@@ -120,7 +120,7 @@ Ping variance can cause some inconsistencies with Beidou.
 ### Beidou's Q and Mitachurl Shield Interactions  
 
 **By:** Sayline\#5959  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898905169763393556/899126939850276904/transcript-beidou-burst-and-mitachurl-shields.html)  
 
 **Finding:**  
@@ -137,7 +137,7 @@ Provides a clear understanding of Beidou's burst mechanics.
 ### Beidou's Q snapshot timing
 
 **By:** EdisonsMathsClub\#6469  
-**Added:** 09/22/2020  
+**Added:** 2021-09-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888775921845280788/890112499628777532/transcript-beidou-q-snapshot-timing.html)
 
 **Finding:**  
@@ -158,7 +158,7 @@ In the dire circumstance that you cast Beidou's Elemental Burst too fast to snap
 ### Burst Range Limit
 
 **By:** daibangden2460\#8410  
-**Added:** 02/20/2022  
+**Added:** 2022-02-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945105555322703903/transcript-beidou-burst-trigger-range-limit.html)  
 
 **Finding:**  
@@ -175,7 +175,7 @@ Better understanding of Beidou burst.
 ### Beidou Proc Counts 
 
 **By:** elijam\#7142  
-**Added:** 03/26/2022  
+**Added:** 2022-03-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/957414035282870282/transcript-beidou-driver-proc-counts.html)  
 **Finding:**  
 A collection of Beidou driver proc counts with various combos and rotations.   
@@ -194,7 +194,7 @@ Optimization of gameplay with Beidou in various teams, more accurate team calcs 
 #### Mistranslation of Beidou’s C4 Effect
 
 **By:** EternalDream\#5503  
-**Added:** 12/7/2020
+**Added:** 2020-12-07
 
 **Finding:**  
 Beidou’s C4 is mistranslated:
@@ -212,17 +212,19 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 #### Beidou C4 Gauge
 
 **By:** Bobrokrot\#0111  
-**Added** 6/3/2021  
+**Added:** 2021-06-03  
 [**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)
 
-**Finding:** Beidou's C4 applies 1A of Electro.
+**Finding:**  
+Beidou's C4 applies 1A of Electro.
 
-**Evidence:** [Youtube](https://youtu.be/nBGPVp0160I)
+**Evidence:**  
+[Youtube](https://youtu.be/nBGPVp0160I)
 
 #### Beidou C4 damage
 
 **By:** elijam\#7142  
-**Added** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -239,7 +241,7 @@ Damage calculations for Beidou.
 #### Beidou C4 is on hit not damage
 
 **By:** Bobrokrot\#0111  
-**Added** 09/10/2021  
+**Added:** 2021-09-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884807649869324348/885685498985738240/transcript-beidou-c4-is-on-hit-not-damage.html)
 
 **Finding:**  
@@ -258,7 +260,7 @@ C4 pretty good
 
 **By:** Xreejan#1180 
 
-**Added:** 15/12/2021
+**Added:** 2021-12-15
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917969727698141224/920672810911805490/transcript-beidou-c6-doesnt-apply-on-initial-cast.html)
 
@@ -274,7 +276,7 @@ C4 pretty good
 
 **By:** Steno\#0119
 
-**Added:** 13/12/2021
+**Added:** 2021-12-13
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918004028200321025/919814190762455050/transcript-beidou-c6-range.html)
 
@@ -288,7 +290,7 @@ C4 pretty good
 #### Beidou C6 Lingers
 
 **By:** mando.\#1646  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962135271934160966/transcript-bei-c6.html)  
 
 **Finding:**  
@@ -333,7 +335,7 @@ Good weapon. Works as well as you'd expect.
 ### Beidou C4 interaction with Sara
 
 **By:** Bobrokrot\#0111  
-**Added** 09/06/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883625161058844702/884468275151511612/transcript-sara-beidou-c4-interaction.html)
 
 **Finding:**  
@@ -348,7 +350,7 @@ Neat interaction for Beidou
 ### Does The Bell’s passive affect Beidou’s Elemental Skill DMG?
 
 **By:** Elliotto\#6694  
-**Added:** 11/18/2020
+**Added:** 2020-11-18
 
 **Finding:**  
 The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
@@ -366,7 +368,7 @@ The bell will provide its damage bonus with concurrent abilities such as Beidou�
 ### Beidou's 'E' skill shield triggers The Bell's passive for 12% increased DMG every time irrespective of cooldown
 
 **By:** ASHOKA\#5672  
-**Added:** 11/19/2020
+**Added:** 2020-11-19
 
 **Evidence:**  
 [https://youtu.be/pqxLRoeWhyY](https://youtu.be/pqxLRoeWhyY)

@@ -29,7 +29,7 @@ Unfortunately this means a lot of our frame counts of elemental durations will b
 ### Normal Attack Hitlag can Extend Skill/Burst Duration  
 
 **By:** Kourinn\#6001  
-**Added:** 5/9/2021  
+**Added:** 2021-05-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)  
 
 **Finding:**  
@@ -48,7 +48,7 @@ Hitlag extension should be taken into account when simulating skills/bursts such
 ### Hitlag Extension Caveats
 
 **By:** Kourinn\#6001  
-**Added:** 5/9/2021  
+**Added:** 2021-05-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)  
 
 **Findings:**  
@@ -125,7 +125,7 @@ Hitlag extension should be ignored when theorycrafting deployables' and Bennett'
 ### Preliminary Analysis of How Invincibility Frames Work  
 
 **By:** MemeMastodon69/#2165  
-**Added:** 10/29/2020  
+**Added:** 2020-10-29  
 
 **Finding:**  
 Raw footage at end of post. All footage taken at 60fps. Halve figures for 30fps. Assumptions - Hit is registered on the frame before knockback animation starts playing.  
@@ -151,7 +151,7 @@ TL;DR - 3 startup frames, 20 active frames give or take 1 frame from each.
 ### Aim Mode Frame Counts
 
 **By:** BowTae\#0141 and xSil3nt\#0961  
-**Added:** 4/15/2022  
+**Added:** 2022-04-15  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964626530254856322/transcript-aim-frames.html)  
 
 **Finding:**  

@@ -28,7 +28,7 @@ From what I can tell \(complaints about it on Hoyolab\), this has been in the ga
 
 ### **Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?**
 
-By: Cola\#6861
+**By:** Cola\#6861
 
 I was asked this question on reddit and thought it should be the case since Sucrose' basic attacks are anemo which will swirl the electro debuff on the enemy.
 
@@ -45,7 +45,7 @@ One more reason to get Sucrose out in the field more often, at least for this us
 ### Sucrose N1 Bug Misconceptions and Workarounds
 
 **By:** BowTae\#0141  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958498659920642048/transcript-suc-n1-bug-misconceptions-and-workarounds.html)  
 
 **Finding:**  
@@ -95,7 +95,7 @@ N1 bug is real and very annoying, however there are consistent ways to work arou
 
 **By:** Bobrokrot\#0111
 
-**Added:** 13/12/2021
+**Added:** 2021-12-13
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918183951598759957/919808593459560488/transcript-sucrose-particle-tech.html)
 
@@ -108,7 +108,7 @@ N1 bug is real and very annoying, however there are consistent ways to work arou
 
 ### Sucrose Skill And Freeze-Petrify-Omen Interaction  
 **By:** Charisma\#5567  
-**Added:** 1/16/2022  
+**Added:** 2022-01-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930539967854305331/932074343796715571/transcript-sucrose-skill-and-freeze-petrify-omen-interaction.html)
 
 **Finding:**  
@@ -141,7 +141,7 @@ Sucrose skill can be used with freeze/petrify and the enemies will not be knocke
 
 ### Sucrose E No Particles Bug
 **By:** Charisma#5567  
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933112665587462214/936237943331373086/transcript-sucrose-e-no-particles-bug.html)
 
 **Finding:**  
@@ -167,7 +167,7 @@ This might also be a bug on other characters when they dash cancel their skills.
 ### Sucrose Absorbed Dmg is simultaneous
 
 **By:** kxmndz\#4700  
-**Added:** 16/12/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904089904416436264/920907095434473512/transcript-sucrose-absorbed-damage-simultaneous-or-sequential.html)
 
 **Finding:** The damage from Anemo and the absorbed element in Sucrose's Burst ticks happen simultaneously. 
@@ -203,7 +203,7 @@ As there was only a single reaction, unlike the expected two Swirls if Sucrose's
 #### Sucrose's A1 talent does not proc on swirling environmental objects and guoba  
 
 **By:** Katsune\#4691  
-**Added:** 17/10/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898471465438027806/898489236662132756/transcript-sucrose-a1-doesnt-proc-on-swirling-guobaenvironmental-objects.html)  
 
 **Findings:**  
@@ -219,7 +219,7 @@ For double swirl setups involving Guoba (Sucrose/Bennett/XL/XQ or Sucrose/Bennet
 #### Sucrose's EM share on multiswirl is dynamic  
 
 **By:** Rainfury\#8343  
-**Added:** 16/10/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894468808285225000/898898697084108830/transcript-sucrose-em-share-on-multiswirl-is-dynamic.html)  
 
 **Findings:**  
@@ -236,7 +236,7 @@ More flexible rotations and Sucrose does not need to be buffed before using her 
 #### Sucrose passives off-field triggering
 
 **By:** Sayline#5959  
-**Added:** 08/30/2021  
+**Added:** 2021-08-30  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879730262802575390/881737206165823498/transcript-off-field-sucrose-triggers-passives.html)
 
 **Findings:**  
@@ -250,7 +250,7 @@ More flexible rotations. For VV support Sucrose, you can do EQ Sucrose -> [*elem
 #### A1 Triggers on Chain Reaction Swirls
 
 **By:** NZPIEFACE\#8439  
-**Added:** 12/16/2021   
+**Added:** 2021-12-16   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917957994048782336/919114773902290964/transcript-sucrose-a1-trigger-mechanics.html)  
 
 **Finding:**  
@@ -289,7 +289,7 @@ Sucrose can utilize her A1 buff even when Swirling off of objects, as long as th
 #### Swirls Caused By Absorbed Element in Burst Can Trigger A1
 
 **By:** NZPIEFACE\#8439  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917957994048782336/919114773902290964/transcript-sucrose-a1-trigger-mechanics.html)  
 
 **Finding:**  
@@ -306,7 +306,7 @@ When will we get more Anemo auras on enemies...
 #### Sucrose A4 snapshots EM value
 
 **By:** NZPIEFACE#8439  
-**Added:** 07/18/2021  
+**Added:** 2021-07-18  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864528623578251314/866111168929857537/transcript-sucrose-a4-snapshots-em-value.html)
 
 **Findings:** Sucrose A4 snapshots EM value.
@@ -359,7 +359,7 @@ When will we get more Anemo auras on enemies...
 #### Sucrose C4 Mechanics
 
 **By:** Sitri\#9504  
-**Added:** 5/11/2021  
+**Added:** 2021-05-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837549621936652309/841878915156279306/transcript-sucrose-c4-mechanics.html)
 
 **Findings:**  
@@ -390,7 +390,7 @@ This very slightly makes on field enabler Sucrose comps better, as swapping on S
 #### Sucrose C6 Buff Timer
 
 **By:** Terrapin\#8603  
-**Added:** 5/9/2021  
+**Added:** 2021-05-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840099295344197632/840821871901540362/transcript-sucrose-c6-buff-timer.html)
 
 **Finding:**  
@@ -413,7 +413,7 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 
 **By:** Faranight\#0001
 
-**Added:** 01/26/2021
+**Added:** 2021-01-26
 
 **Evidence:** [**https://i.imgur.com/jBugRq2.gifv**](https://i.imgur.com/jBugRq2.gifv)
 
@@ -426,7 +426,7 @@ If running these together you should avoid triggering both while holding a spare
 ### **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
 
 **By:** ioannesfifth\#1236  
-**Added:** 01/26/2021  
+**Added:** 2021-01-26  
 
 **Evidence:**  
 Images are stored in:  
@@ -474,7 +474,7 @@ The above suggests the formula for final EM for a buffed party member after Sucr
 ### Sucrose freeze and petrify burst interaction
 
 **By:** hz\#4084  
-**Added:** 5/23/2021  
+**Added:** 2021-05-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839639101825089556/845824358214795324/transcript-sucrose-q-cc-and-freeze-interaction.html)
 
 **Findings:** Sucrose's burst normally pulls smaller enemies towards the center, and knocks back all enemies with each pulse. Freeze and petrify prevents the knockback but does not prevent the SUCC on smaller enemies.

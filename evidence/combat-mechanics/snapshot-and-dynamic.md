@@ -11,7 +11,7 @@ search: false
 ## Summons are Not Dynamic and Snapshot on Cast
 
 **By:** Comfy Seaweed\#3841, Pleinair\#8321  
-**Added:** 11/22/2020
+**Added:** 2020-11-22
 
 **Comfy’s Findings** \(Comfy Seaweed\#3841\)
 
@@ -44,7 +44,7 @@ To add to Seaweed I tested this with Xiangling Pyronado along with c6 Diona Q. W
 ## Stats not in details stat page are not snapshot
 
 **By:** Kidz\#8667, Charliex3000\#9403  
-**Added:** 10/16/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872757681826435132/899103401432989736/transcript-stats-not-in-details-stat-page-are-not-snapshot.html)  
 
 **Finding:**  
@@ -81,7 +81,7 @@ More extensive knowledge on what does and does not snapshot.
 ## Healing over time is snapshot on cast
 
 **By:** Dooners#6709  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894400995554127882/899195834686636073/transcript-healing-over-time-is-snapshot-on-cast.html)  
 
 **Finding:**  

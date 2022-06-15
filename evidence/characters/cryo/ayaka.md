@@ -26,7 +26,7 @@ search: false
 ### Ayaka CA Hitscan  
 
 **By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Greyhound\#7836  
-**Added:** 08/09/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870326929893515314/874088594778771476/transcript-ayaka-hitscan-ca.html)  
 
 **Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:  
@@ -53,7 +53,7 @@ For example, the gadget is smaller than Geovishap's large collision box which me
 ### Ayaka CA Conclusion  
 
 **By:** wiremash#0433  
-**Added:** 09/05/2021  
+**Added:** 2021-09-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883962129919655976/884148507999604746/transcript-ayaka-ca.html)  
 
 **Finding:**  
@@ -82,7 +82,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 ### Ayaka’s CA hitscan also has negative vertical reach.  
 **By:** Asaki\#9139  
-**Added:** 12/21/2021  
+**Added:** 2021-12-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920526901016150056/922629903579508797/transcript-ayaka-ca-below-feet.html)  
 
 **Finding:** Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s CA can also reach enemies below her ground level, thanks to the mechanics of her subsequent hitscans from the intial one.
@@ -124,7 +124,7 @@ b) Ayaka is already lifted, Venti’s ult is right in front, but there’s exact
 ### Ayaka Q Pushes Away Enemies  
 
 **By:** Tsym#2586  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890817514794266664/899133874968354866/transcript-ayaka-q-pushing-away-enemies-of-different-weights.html)  
 
 **Finding:**  
@@ -155,7 +155,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 ### Ayaka Dash Iframe  
 
 **By:** aui#3690  
-**Added:** 09/17/2021  
+**Added:** 2021-09-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)  
 
 **Finding:**  

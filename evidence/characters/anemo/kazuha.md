@@ -49,7 +49,7 @@ search: false
 ### Kazuha Hold E can cause fall DMG  
 
 **By:** CQLQRS#7853  
-**Added:** 09/25/2021  
+**Added:** 2021-09-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885544421637120030/891166004669984848/transcript-kazuha-e-causes-fall-damage.html)
 
 **Finding:**  
@@ -73,7 +73,7 @@ This feature is most likely unintended, but not a bug due to the janky nature of
 
 ### Kazuha Tap E Air Time Can Be Shortened 
 **By:** Quark#7392  
-**Added:** 1/21/2022  
+**Added:** 2022-01-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933053726711754882/934052086797172777/transcript-kazuha-tap-e-air-time-can-be-shortened.html)
 
 **Finding:**  
@@ -88,7 +88,7 @@ This tech is useful if you only want to tap E with Kazuha without initiating a p
 
 ### Kazuha Land Cancel
 **By:** BowTae\#0141  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958505561622720512/transcript-kazuha-land-cancel.html)  
 
 **Finding:**  
@@ -109,7 +109,7 @@ Kazuha Swag.
 ### Kazuha E Absorption Bug
 
 **By:** Charisma\#5567  
-**Added:** 05/14/2022  
+**Added:** 2022-05-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975073739207225414/transcript-kazuha-e-absorption-bug.html)
 
 **Finding:**  
@@ -174,7 +174,7 @@ More understanding about how his Elemental Skill works. Probably fluff, but cool
 
 ### Kazuha's Dynamically Changing Buff
 **By:** Falafel\#5123  
-**Added:** 04/09/2022  
+**Added:** 2022-04-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962496151704182834/transcript-kazuhas-dynamically-changing-buff.html)  
 
 **Finding:**  

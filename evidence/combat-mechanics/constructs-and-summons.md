@@ -11,7 +11,7 @@ search: false
 ### Construct Defensive Scaling
 
 **By:** Greyhound\#7836 and Aevean Leeow\#1362  
-**Added:** 4/11/2021
+**Added:** 2021-04-11
 
 **Finding:** Confirming construct defensive stats\(HP/DEF/DR/RES\); All stats are taken at a 1:1 ratio \(except skills that state otherwise in description\) and snapshot on cast.
 
@@ -33,7 +33,7 @@ Video links and Geo MC/Zhongli/Albedo invisible number math fully compiled into 
 ### Geo Constructs Can't Handle Long Distance Relationships
 
 **By:** mando.\#1646  
-**Added:** 04/24/2022  
+**Added:** 2022-04-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967813434605437018/transcript-geo-constructs-cant-handle-long-distance-relationship.html)  
 
 **Findings:**  

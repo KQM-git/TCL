@@ -28,7 +28,7 @@ description: Useful sheets, tools and sites.
 ### Adventure Rank EXP Calculator
 
 **By:** able16\#6618  
-**Added:** 1/7/2021
+**Added:** 2021-01-07
 
 This is a tool that can calculate remaining AR EXP and time left before you can reach AR 45/50/55 given regular progress \(no quests, etc\)
 
@@ -37,7 +37,7 @@ This is a tool that can calculate remaining AR EXP and time left before you can 
 ### Energy Recharge Calculator
 
 **By:** Zakharov\#5645  
-**Added:** 07/17/2021
+**Added:** 2021-07-17
 
 A way to calculate the amount of Energy Recharge needed for each member of a team.
 
@@ -46,7 +46,7 @@ A way to calculate the amount of Energy Recharge needed for each member of a tea
 ### Resin Calculator
 
 **By:** Zakharov\#5645  
-**Added:** 6/26/2021
+**Added:** 2021-06-26
 
 A calculator that determines the average amount of resin needed to upgrade characters, weapons, artifacts, etc. It includes the average cost of finding artifacts with the correct stats.
 

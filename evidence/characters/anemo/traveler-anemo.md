@@ -13,7 +13,7 @@ search: false
 ### AMC E Additional Elemental Damage
 
 **By:** Neptunya\#8291, phaZ\#6461, and Bobrokrot\#0111  
-**Added:** 11/5/2021  
+**Added:** 2021-11-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883277582366277652/906334012480561162/transcript-amc-e-additional-elemental-dmg.html)  
 
 **Finding:**  
@@ -28,7 +28,7 @@ There will always be those who dare to brave Anemo MC's blender of numbers.
 
 ### AMC Hold E Ticks
 **By:** pai#3602  
-**Added:** 1/27/2022   
+**Added:** 2022-01-27   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713629835481118/936064084728762378/transcript-amc-hold-e-ticks.html)
 
 **Finding:**  
@@ -42,7 +42,7 @@ The Additional Elemental DMG seems to randomly start with the second Initial Cut
 
 ### AMC Snapshot 
 **By:** pai#3602  
-**Added:** 1/27/2022   
+**Added:** 2022-01-27   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934098477913374820/936199910582272070/transcript-amc-snapshot-evidence.html)
 
 **Finding:**  
@@ -59,7 +59,7 @@ Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
 ### AMC E Frames Update  
 **By:** pai#3602  
-**Added:** 2/02/2022  
+**Added:** 2022-02-02  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932722588076081232/938503721296482354/transcript-amc-e-frames-update.html)  
 
 **Finding:** AMC E frame counts were previously incorrect.  
@@ -80,7 +80,7 @@ Hold: 60~145
 ### Frozen AMC With E Active
 
 **By:** Hoshbomb\#6327  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955984471470010428/transcript-frozen-amc-with-e-active.html)  
 
 **Finding:**  
@@ -104,7 +104,7 @@ Fluff.
 
 **By:** Kourinn\#6001
 
-**Added:** 13/12/2021
+**Added:** 2021-12-13
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912926771412869150/919900426554454083/transcript-anemo-traveler-q-2b.html)
 
@@ -123,7 +123,7 @@ Fluff.
 ### Anemo MC's Q ability to "pick up" enemies is dependent on level difference
 
 **By:** Tsym\#2586  
-**Added:** 11/22/2020
+**Added:** 2020-11-22
 
 **Editor's Note:** This same behavior can be observed for Venti. Venti was tested comprehensively by the theorycrafting community; pending submission.
 
@@ -137,7 +137,7 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 
 ### AMC Burst AOE
 **By:** pai#3602  
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713520880037960/936073712623583232/transcript-amc-burst-aoe.html)
 
 **Finding:**  
@@ -156,7 +156,7 @@ The Additional Elemental DMG basically only happens when the Tornado goes right 
 #### Anemo Traveler triggers Mistsplitter NA Stack
 
 **By:** amaryillis#4774  
-**Added:** 9/6/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
@@ -171,7 +171,7 @@ AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them 
 #### Anemo Traveler A1 counts as Normal Attack
 
 **By:** Blank#4561  
-**Added:** 07/13/2021  
+**Added:** 2021-07-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html) (NOTE: This ticket was submitted pre-2.1, before Geo Traveler's A4 was fixed)
 
 **Finding:**  
@@ -186,7 +186,7 @@ Although a minor damage source, Anemo Traveler's A1 Passive damage is increased 
 #### MC Elemental Proc Difference
 
 **By:** Rathalos\#2875  
-**Added:** 03/22/2022  
+**Added:** 2022-03-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
 
 **Theory:**  
@@ -215,7 +215,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 #### C6 Effect Duration
 
 **By:** Orodalf\#9570  
-**Added:** 2/12/2021
+**Added:** 2021-02-12
 
 **Finding:** Anemo Traveller C6 lasts 10 seconds.
 

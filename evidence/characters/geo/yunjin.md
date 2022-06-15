@@ -46,7 +46,7 @@
 ### Perfect Counter Cannon
 
 **By:** Sparko53557\#7010 & Reens\#9389  
-**Added:** 1/5/2021  
+**Added:** 2021-01-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928174041213317152/928177023837429791/transcript-perfect-counter-cannon.html)
 
 **Findings:**  
@@ -61,7 +61,7 @@ Despite Ei's prominent ability in the use of machines and dolls, her country is 
 
 ### Yun Jin Flags In Freeze
 **By:** Goden#2155  
-**Added:** 1/21/2022  
+**Added:** 2022-01-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933107948715135026/934030368867237958/transcript-yunjin-flags-in-freeze.html)
 
 **Finding:**  

@@ -9,7 +9,7 @@ search: false
 ## Multi Charge Skills Snapshot CDR
 
 **By:** Kourinn\#6001  
-**Added:** 04/18/2021
+**Added:** 2021-04-18
 
 **Findings:** Multi-charge elemental skills \(C0/C1 Xiao, C1 Sucrose, ...\) snapshot cooldown reduction at the time the skill is cast, not the cooldown reduction at the time the next charge starts charging \(or appears to from in-game UI\). Additionally, held abilities \(Jean E, Childe E, ...\) use CDR at the time their cooldown starts, not on cast/hold start.
 
@@ -24,7 +24,7 @@ CDR may be very beneficial for characters with multi-charge skills.
 ## Sacrificial Passive With Multiple E Stacks
 
 **By:** mol\#3280  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
@@ -41,7 +41,7 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 ## CD reduction double bursts
 
 **By:** gengar\#8426  
-**Added:** 09/06/2021  
+**Added:** 2021-09-06  
 [Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877833812992725043/884454377094537227/transcript-cd-reduction-double-burst.html)
 
 **Finding:**  

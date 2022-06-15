@@ -11,7 +11,7 @@ search: false
 ## How to ARCC
 
 **By:** BowTae#0141  
-**Added:** 10/02/2021  
+**Added:** 2021-10-02  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890849433317683240/894209658531753984/transcript-arcc-writeup.html)
 
 **Theory/Finding:**  
@@ -42,7 +42,7 @@ ARCC is the fastest known method for shooting a charged shot. When done rapidly,
 ## ARCC auto target
 
 **By:** BowTae#0141  
-**Added:** 10/02/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883799215891972156/884452500617461820/transcript-arcc-autotarget.html)
 
 **Theory/Finding:**  
@@ -61,7 +61,7 @@ When within autoattacking range of an enemy, where you aim does not matter for A
 ## Hold M1 Double Shot
 
 **By:** BowTae#0141  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892681715745710100/899116235403460638/transcript-hold-m1-double-shot.html)
 
 **Theory/Finding:**  

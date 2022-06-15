@@ -9,7 +9,7 @@ search: false
 ## HP Loss on Retry
 
 **By:** Chameleon\#9008  
-**Added:** 04/19/2021  
+**Added:** 2021-04-19  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/825561938322522213/834316844331565066/transcript-card-hp-loss-bug.html)
 
 **Findings:** You lose about 12.5% HP from taking the HP buff and resetting.
@@ -21,7 +21,7 @@ search: false
 ## Cards Activate Immediately upon Selection
 
 **By:** euphorysm\#9060  
-**Added:** 04/19/2021  
+**Added:** 2021-04-19  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832473046564470864/834316922531086366/transcript-abyss-sprint-card-mechanics.html)
 
 **Findings:** In the spiral abyss, there is a buff card that says "Character DMG within 8s of sprint +20%. Can only occur once every 15 seconds.". It came to my attention that it remains unknown to some people that if you sprint to the key before starting the chamber, the buff's timer starts ticking and you have to wait for the cooldown to end before pressing start. Otherwise, you waste the buff at the start.

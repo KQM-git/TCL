@@ -4,7 +4,7 @@ description: 'Itto Banner ft. Gorou, Barbara & Xiangling'
 ---
 
 # Patch 2.3b
-*Published: 1/3/2022*
+*Published: 2022-01-03*
 
 ## New Guides
 * [Swordfall: A Chongyun Guide](https://keqingmains.com/chongyun/)

@@ -9,14 +9,14 @@ search: false
 ## **Frame Data of Strings for ICD**
 
 **By:** Artesians  
-Submitted: 2/26/2021
+Submitted: 2021-02-26
 
 [https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit\#gid=878127516](https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit#gid=878127516)
 
 ## Diluc Burst ICD
 
 **By:** Isu\#6867  
-**Added:** 5/29/2021  
+**Added:** 2021-05-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845447638719266826/848323323459928085/transcript-diluc-burst-icd.html)
 
 **Finding:**  

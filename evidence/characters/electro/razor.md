@@ -23,7 +23,7 @@ search: false
 
 ### Razor Reverse Scam
 **By:** phaZZi\#6461  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945484288009314304/transcript-razor-reverse-scam.html)  
 
 **Finding:**  
@@ -71,7 +71,7 @@ You can essentially have 100% ult uptime if it were not for no particles during 
 #### Razor Scam
 
 **By:** Bobrokrot\#0111  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945485734670893077/transcript-razor-scam.html)  
 
 **Finding:**  
@@ -95,7 +95,7 @@ Razor's E into Q is not as efficient as one could hope due to the fact that his 
 #### Razor’s C6 damage
 
 **By:** elijam\#7142  
-**Added:** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -211,7 +211,7 @@ The animation is different and slightly slower during burst. It is not affected 
 ### Razor Dragonstrike MV/s
 
 **By:** SwiftySwoo\#0930  
-**Added:** 6/23/2021  
+**Added:** 2021-06-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845553745148116992/857386232937578506/transcript-razor-ds-combo.html)
 
 **Finding:**  

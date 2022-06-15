@@ -11,7 +11,7 @@ search: false
 ## Omni-Ubiquity Net Stuff
 
 **By:** Puffin\#9920, Pouf\#7319, and ShampooBrain\#9583  
-**Added:** 01/16/2022  
+**Added:** 2022-01-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922959469657346108/931072700745662464/transcript-omniubiquity-net-stuff.html)
 
 **Findings and Evidence:**  

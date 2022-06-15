@@ -12,7 +12,7 @@ search: false
 
 ### Star Jades Have The Charged Attack Tag  
 **By:** Asaki\#9139  
-**Added:** 02/20/2022  
+**Added:** 2022-02-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940671732979757087/945067939927826443/transcript-star-jades-have-ca-tag.html)  
 
 **Finding:**   
@@ -30,7 +30,7 @@ Star Jades benefit from Charged Attack DMG Bonuses.
 
 ### Jade Screen ICD
 **By:** Goden\#2155  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929477312284618822/931062924217315359/transcript-jade-screen-icd.html)
 
 **Finding:**  
@@ -48,7 +48,7 @@ Combining the demonstrations of both of these tests, it can be concluded that Ni
 ### Ningguang Burst Does Snapshot
 
 **By:** elijam\#7142, Isu\#6867, Ai\#7362, Bobrokrot\#0111  
-**Added:** 6/26/2021  
+**Added:** 2021-06-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857491520109543444/858198283566186516/transcript-ningguang-e-q-snapshot.html)
 
 **Finding:**  
@@ -75,7 +75,7 @@ Better rotation and team building for Ningguang surrounding setting up buffs for
 
 ### Ningguang Burst Wall Destroy Range
 **By:** borderline\#3100  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958507759026982932/transcript-ning-burst-wall-destroy-range.html)  
 
 **Finding:**  
@@ -94,7 +94,7 @@ Where there's a wall, there's a way \(to destroy it\).
 #### Ningguang C2 and Sacrificial Passive Interaction
 
 **By:** Terrapin\#8603  
-**Added:** 4/26/2021  
+**Added:** 2021-04-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
 
 **Finding:**  

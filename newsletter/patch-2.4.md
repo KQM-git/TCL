@@ -3,7 +3,7 @@ description: 'A recap of patch 2.4 and the theorycrafting work published.'
 --- 
 
 # Patch 2.4
-*Published: 2/15/2022*
+*Published: 2022-02-15*
 
 
 ### Banners

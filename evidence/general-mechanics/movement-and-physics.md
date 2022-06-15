@@ -11,7 +11,7 @@ search: false
 ## Climbing without Climbing
 
 **By:** Nitley\#3485  
-Addded: 04/05/2021
+**Added:** 2021-04-05
 
 **Finding:** After familiarizing myself with the technique of b-hopping in the first week of Genshin's official release for the purpose of re-roll AR7 speedruns, this would quickly become my exclusive means of travel. This led me to discover an alternative faster method of scaling near-vertical walls \(without climbing or consuming stamina at all\).
 
@@ -25,7 +25,7 @@ Addded: 04/05/2021
 ## Movement Techniques and Player Model Comparisons
 
 **By:** Nitley\#3485 and Kourinn\#6001  
-**Added:** 04/10/2021
+**Added:** 2021-04-10
 
 **Theory:** What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
 
@@ -94,7 +94,7 @@ B-Hopping should be 3.5% faster than dash-chaining, waiting for full stamina, an
 ## Push Pull effects
 
 **By:** Saltyfart\#8946  
-**Added:** 5/23/2021  
+**Added:** 2021-05-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843282047161729034/845886074508804096/transcript-push-pull-effects.html)
 
 **Finding:** push/pull effects are dynamic across team members
@@ -118,7 +118,7 @@ We can also see here that the boreas wolf push also applies multiple instances o
 ## Cliff Dash Displacement
 
 **By:** Mcpie\#8672  
-**Added** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/831242042801389568/849905930174595072/transcript-dashing-off-a-cliff-speed-comparison.html)
 
 **Methodology/Evidence:**
@@ -149,7 +149,7 @@ Results depending on position:
 ## Waypoint Teleport Variance
 
 **By:** Mcpie\#8672  
-**Added** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846494202334412901/849908480075628574/transcript-waypoint-teleportation-inconsistency.html)
 
 **Finding:** Two possible findings:
@@ -172,7 +172,7 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 ## Movement Speed affects Dashing Horizontal Velocity
 
 **By:** Mcpie\#8672  
-**Added:** 6/8/2021  
+**Added:** 2021-06-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846504230898237480/851744572958310401/transcript-movement-speed-affects-dashing-horizontal-velocity.html)
 
 **Finding:**  
@@ -196,7 +196,7 @@ Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJ
 ## Movement Speed Stacks Additively
 
 **By:** Mcpie#8672  
-**Added:** 11/1/2021  
+**Added:** 2021-11-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902943515452010516/904567719486169099/transcript-mvmnt-speed-stacks-additively.html)  
 
 **Finding:**  
@@ -287,7 +287,7 @@ Other tests yielded an error of `<~0.02`, which is acceptable due to start/end v
 ## Character Hitboxes
 
 **By:** HK\#0001  
-**Added:** 6/8/2021  
+**Added:** 2021-06-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/848227425379942411/851738303363547146/transcript-character-hitboxes.html)
 
 **Finding:**  
@@ -304,7 +304,7 @@ By knowing this, hopefully we can have a better understanding about how far the 
 ## Swimming Methods
 
 **By:** Fuzzy#5432  
-**Added:** 6/24/2021  
+**Added:** 2021-06-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856824799057018880/857668248568332319/transcript-swimming-methods.html)
 
 **Finding:**  
@@ -319,7 +319,7 @@ Get around Teyvat faster! Though not holding shift while swimming is the most st
 ## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks  
 
 **By:** Risuke\#6743  
-**Added:** 12/14/2020  
+**Added:** 2020-12-14  
 
 **Evidence:**  
 [Video 1](https://youtu.be/OB6QP67zjNg) [Video 2](https://youtu.be/hfRYtOJB42w)  
@@ -330,10 +330,10 @@ Having increased movespeed is now potentially practical. It allows an additional
 ## Infinite Dashing and Catapulting off cliffs(Translation)
 
 **By:** KluEvo\#8507  
-**Added:** 08/20/2020  
+**Added:** 2020-11-20  
 
 **Finding:**  
-Double dashing with pauses can allow for infinite running. Dashing off of clifs can allow for faster fall.  
+Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.  
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
@@ -344,7 +344,7 @@ Faster Travel.
 ## Extra velocity gained when hit  
 
 **By:** Hatsuharufag\#4291  
-**Added:** 01/18/2021  
+**Added:** 2021-01-18  
 
 **Finding:**  
 You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.  
@@ -358,7 +358,7 @@ Yet another way to initiate plunge attacks on even ground.
 ## Max enemy mvsp decrease 
 
 **By:** Recovent#9620  
-**Added:** 08/31/2021  
+**Added:** 2021-08-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876024675489169438/882072456154722304/transcript-max-enemy-mvsp-decrease.html)
 
 **Finding:**  
@@ -396,7 +396,7 @@ If there were ever characters that were able to decrease mob speed (and almost l
 
 ## Speed Comparsion Between Walk Jump And Continuous Walk  
 **By:** Mcpie#8672  
-**Added:** 1/10/2022  
+**Added:** 2022-01-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185303288217600/930052462809849876/transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
 
 **Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
@@ -419,7 +419,7 @@ The ranking from fastest to slowest is:
 
 ## Size Does Not Matter 
 **By:** Mcpie#8672  
-**Added:** 1/28/2022  
+**Added:** 2022-01-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935300027952295957/936412064098955295/transcript-size-does-not-matter.html)
 
 **Finding:**  
@@ -435,7 +435,7 @@ Picking a taller character of the same skeleton model will not increase the velo
 ## Elevator Affects Movement Speed
 
 **By:** Pablos\#1142  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962133283083280384/transcript-elevator-affects-movement-speed.html)  
 
 **Finding:**  

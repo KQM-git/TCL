@@ -158,7 +158,7 @@ It is possible to simultaneously trigger two swirls on one target from the same 
 
 More detailed guides on Swirl:
 
-* [Swirl Guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing) by Terrapin\#8603 \(added 4/30/2021\)
+* [Swirl Guide](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit?usp=sharing) by Terrapin\#8603 \(added 2021-04-30\)
 
 ## Crystallize
 

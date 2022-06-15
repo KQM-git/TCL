@@ -13,7 +13,7 @@ search: false
 ### Lisa final AA has two different animations
 
 **By:** Sayline#5959  
-**Added**: 09/10/2021  
+**Added:**: 2021-09-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882407170161922088/885681198775550042/transcript-lisa-aa-like-mona-aa.html)  
 
 **Findings:**  
@@ -29,8 +29,8 @@ Combat positioning for Lisa
 
 ### Violet Arc's Press variant AoE is passed to all affected targets
 
-By: ArchedNosi\#1484  
-Added: 4/18/2021
+**By:** ArchedNosi\#1484  
+**Added:** 2021-04-18
 
 **Findings:**  
 The description of Violet Arc clearly states that _opponents in a small AoE_ are additionally stacked with Conductive, and this is true. But it does not mention that enemies affected also will have their own radius, thus chaining more stacks of Conductive.  
@@ -49,7 +49,7 @@ Lisa can easily abuse this knowledge in tightly packed groups to quickly and eff
 ### Violet Arc's Hold Variant has a Cylindrical Hitbox
 
 **By:** ArchedNosi\#1484  
-**Added**: 4/18/2021
+**Added:**: 2021-04-18
 
 **Findings:**  
 The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
@@ -69,7 +69,7 @@ No obvious and major significance in Spiral Abyss, but its extreme capabilities 
 ### Violet Arc's Conductive status can be passed with Overload and Superconduct
 
 **By:** ArchedNosi\#1484  
-**Added:** 4/18/2021
+**Added:** 2021-04-18
 
 **Findings:**  
 The amount of Conductive Stacks a single Press E produces on an enemy is dependent on how many produced radii it was within.
@@ -112,7 +112,7 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 
 ### Lightning Rose Vertical Range
 **By:** ArchedNosi\#1484  
-**Added:** 1/2/2022  
+**Added:** 2022-01-02  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926631413606912070/927179857354428446/transcript-lisa-lightning-rose-vertical-range.html)
 
 **Finding:** Lisa's Lightning Rose being a Cylindrical Tubular Hitbox  
@@ -131,7 +131,7 @@ The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/
 ### Lisa's Lightning Rose Stagger/Knockback Mechanics
 
 **By:** ArchedNosi\#1484  
-**Added:** 11/07/2021  
+**Added:** 2021-11-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461616621641728/907097696148520990/transcript-lisa-stagger-knockback-mechanics-lightning-rose.html)
 
 **Findings:**  
@@ -161,7 +161,7 @@ Acts as clarification on the Knockback/Stagger Mechanics on Lightning Rose as we
 ### Lightning Rose's initial summon damage does not apply Electro Aura
 
 **By:** ArchedNosi\#1484  
-**Added:** 11/08/2021  
+**Added:** 2021-11-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462490110607400/907389926981644348/transcript-lisa-summon-lightning-rose-no-aura.html)
 
 **Finding:**  
@@ -181,7 +181,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 
 ### Lightning Rose Summon DMG Range
 **By:** ArchedNosi#1484  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632362715017237/931066545940070470/transcript-lisa-lightning-rose-summon-dmg-range.html)
 
 **Finding:** Lisa's Initial Summon DMG Range/Area.  
@@ -207,7 +207,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 ### Lisa's Lightning Rose is Random when Targeting Entities + Total Count
 
 **By:** ArchedNosi\#1484  
-**Added:** 11/09/2021  
+**Added:** 2021-11-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461792132284426/907623932083970088/transcript-lisa-lightning-rose-targeting-and-total-count.html)
 
 **Findings:**
@@ -231,7 +231,7 @@ Also acts as a better understanding of how Lightning Rose functions, which is mo
 ### Lightning Rose has Limited Quadratic Properties and Impact AoE
 
 **By:** ArchedNosi\#1484  
-**Added:** 11/10/2021  
+**Added:** 2021-11-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462271125995530/907915774545526834/transcript-lisa-aoe-properties-lightning-rose.html)  
 
 **Finding:**  
@@ -264,7 +264,7 @@ Proves that Lisa's Lightning Rose can have AoE properties as well as very limite
 ### Lisa's Initial Summon DMG Numerical/Formula Data
 
 **By:** ArchedNosi\#1484  
-**Added:** 1/10/2021  
+**Added:** 2021-01-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632036872102009/930022973472112670/transcript-lisa-lightning-rose-summon-dmg-numerical.html)
 
 **Findings:**  
@@ -295,8 +295,8 @@ By definition, this discovery technically invalidates/corrects all previous, pre
 #### The Mechanics of Lisa's C1
 
 **By:** ArchedNosi\#1484  
-**Added:** 4/18/2021  
-**Updated:** 9/10/2021
+**Added:** 2021-04-18  
+**Updated:** 2021-09-10
 
 **Findings:**
 
@@ -328,7 +328,7 @@ In knowing how C1 actually works, Lisa, when she is on-field, can effectively ru
 #### C4 Description and Actual Effects are Miscommunicated
 
 **By:** ArchedNosi\#1484  
-**Added:** 11/10/2021  
+**Added:** 2021-11-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461937536217088/907909745048944700/transcript-lisa-c4-actual-effects-miscommunicated.html)  
 
 **Finding:**  

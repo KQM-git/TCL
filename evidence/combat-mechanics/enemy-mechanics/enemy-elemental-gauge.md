@@ -11,7 +11,7 @@ search: false
 ## Elemental Aura Application and Gauge Values of Enemies
 
 **By:** BowlSoldier\#3528  
-**Added:** 2/4/2021
+**Added:** 2021-02-04
 
 **Finding:**  
 Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.

@@ -9,7 +9,7 @@ search: false
 ## Splendiferous Moon Abyss Blessing Mechanics
 
 **By:** elijam\#7142 and NZPIEFACE\#8439  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917961567235080222/920914525635637298/transcript-splendiferous-moon-abyss-blessing-mechanics.html)  
 
 **Finding:**  

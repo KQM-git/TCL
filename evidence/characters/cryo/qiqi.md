@@ -13,7 +13,7 @@ search: false
 ### Talisman Healing Conditions
 
 **By:** Ayzel\#7399  
-**Added:** 04/23/2021  
+**Added:** 2021-04-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832474168297259028/835378635598594058/transcript-qiqi-talisman-healing-conditions.html)
 
 **Finding:**
@@ -37,7 +37,7 @@ Shows how Qiqi's talisman interacts with sources of damage.
 ### Talisman Does Not Snapshot
 
 **By:** Dooners#6709  
-**Added:** 09/22/2021  
+**Added:** 2021-09-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889381442432409630/890102971847815228/transcript-qiqi-talisman-healing-doesnt-snapshot.html)
 
 **Finding:**  
@@ -57,7 +57,7 @@ The timing of applying the talisman does not matter at all, all that matters is 
 ### Talisman Heals Regardless Dealing DMG Or Not
 
 **By:** Nass008#8577  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895729399729623060/899174324060192798/transcript-qiqi-talisman-0-damage-healing.html)
 
 **Finding:**  
@@ -80,7 +80,7 @@ Additional insight on how game consider to be "taking damage" (which is not cons
 ### Qiqi Talisman ICD
 
 **By:** Nass008\#8577, NZPIEFACE\#8439  
-**Added:** 10/16/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895389894145355836/899122969400475648/transcript-qiqi-talisman-healing-icd.html)  
 
 **Finding:**  
@@ -111,7 +111,7 @@ Clarification on Qiqi's healing mechanics
 ### Qiqi driver frame counting
 
 **By:** Sir_pick_the_prick#2209, Nass008#8577, denmax#9293, Creepah#9480  
-**Added:** 09/06/2021  
+**Added:** 2021-09-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864092495369338900/884489611034890280/transcript-qiqi-copium-overdrive.html)
 
 **Finding:**  

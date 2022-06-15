@@ -12,7 +12,7 @@ search: false
 
 ### Jean CA Visual Effect
 **By:** ASnowOwI\#7234  
-**Added:** 12/30/2021  
+**Added:** 2021-12-30  
 
 **Finding:** Jean's CA visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
@@ -46,7 +46,7 @@ Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 
 ### Fall Damage Basis from Gale Blade
 
 **By:** Wrax\#7777  
-**Added:** 12/1/2020
+**Added:** 2020-12-01
 
 **Theory:**  
 The damage caused by Jean's Elemental Skill, Gale Blade, from falling is a percent based on the target maximum health. These percentage value ranges are based on velocity of the fall rather than the height.
@@ -81,7 +81,7 @@ I believe that the large gap in damage is sufficient evidence to claim that the 
 ### Jean Hold E Fall Damage Inconsistent
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
-**Added:** 04/23/2021  
+**Added:** 2021-04-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/830897860743921664/835374730487398460/transcript-gale-blade-fall-dmg-inconsistency.html)
 
 **Findings:**  
@@ -108,7 +108,7 @@ Further proves that fall damage is based on velocity, not height \(however great
 ### Fall Damage Is Influenced By Poise
 
 **By:** ColaSenami\#5312    
-**Added:** 6/20/2021  
+**Added:** 2021-06-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
@@ -131,7 +131,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 ### Continuous Self-Swirl and Cleanse
 
 **By:** KDacus\#2865  
-**Added:** 3/21/2021
+**Added:** 2021-03-21
 
 **Findings:**  
 Jean's Elemental Burst, Dandelion Breeze, repeatedly Swirls every character in the area if they have an Aura element on them. Should the same character stand on Bennett's Elemental Burst, Fantastic Voyage, it will trigger a Swirl reaction every second and apply Pyro to all surrounding enemies.
@@ -145,7 +145,7 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 ### Anemo Aura
 
 **By:** ProfHugo\#6478  
-**Added:** 6/14/2021  
+**Added:** 2021-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853336250898579476/854032596726972456/transcript-anemo-aura.html)
 
 **Finding:**  
@@ -166,7 +166,7 @@ Lastly, it debunks the common belief that anemo cannot be the aura for a swirl r
 ### Jean Burst Border Damage on Initial Cast and Duration End
 
 **By:** Maes\#6425  
-**Added:** 1/10/2022  
+**Added:** 2022-01-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926758212236087337/929999851922538526/transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
 
 **Finding:**  
@@ -186,7 +186,7 @@ Finding is somewhat significant for team damage calculations. This gives Jean sl
 ### Jean's C4 Verticality
 
 **By:** Special\#1775  
-**Added:** 11/24/2020
+**Added:** 2020-11-24
 
 **Findings:**  
 Jean's fourth constellation has the following effect:  
@@ -204,7 +204,7 @@ The reach of Dandelion Breeze's damage component has a vertical limit but the ef
 ### Interaction Between Jean Sunfire And Freedom\-Sworn
 
 **By:** Vye\#9195  
-**Added:** 1/28/2022  
+**Added:** 2022-01-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933279462974427176/936416305064595496/transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)  
 
 **Finding:**  
@@ -225,7 +225,7 @@ The number of targets does not matter because only the initial hit and the endin
 ### Sunfire Jean OL Triggering Freedom\-Sworn
 
 **By:** MeiMay\#3039  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958491081933221908/transcript-sunfire-jean-ol-triggering-fs.html)  
 
 **Finding:**  

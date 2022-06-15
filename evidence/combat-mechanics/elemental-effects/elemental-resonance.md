@@ -9,7 +9,7 @@ search: false
 ## Trial Character Resonances
 
 **By:** Veggie#0581  
-**Added:** 10/28/2021  
+**Added:** 2021-10-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897945121545392128/903397449685671966/transcript-trial-character-resonances.html)  
 
 **Finding:**  
@@ -34,7 +34,7 @@ When testing and verifying damage calculations with Trial Characters, this inter
 ## Swirl Chain Reactions Can Trigger Electro Resonance  
 
 **By:** vinsette#0293  
-**Added:** 11/1/2021  
+**Added:** 2021-11-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904061168828702751/904585059061862430/transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)  
 
 **Finding:**  
@@ -50,7 +50,7 @@ Electro Resonance is easier to trigger and more consistent with an Anemo driver 
 
 ## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
 **By:** NZPIEFACE#8439  
-**Added:** 1/14/2022  
+**Added:** 2022-01-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929770373271158816/931416249232146452/transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
 
 **Finding:** Cryo resonance determines if an enemy has Cryo for its crit rate buff before reactions remove auras.

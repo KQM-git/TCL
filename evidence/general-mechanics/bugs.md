@@ -13,7 +13,7 @@ search: false
 ### Retry and Exit Menu Issues
 
 **By:** Asaki\#9139  
-**Added:** 01/27/2022  
+**Added:** 2022-01-27  
 
 **Finding:**  
 1. Time in the Spiral Abyss does not stop when you use the Exit button on the top left.  
@@ -32,7 +32,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Using the Same Team for Both Abyss Halves
 
 **By:** Nitley\#3485  
-**Added:** 03/25/2021
+**Added:** 2021-03-25
 
 **Bug/Exploit:** You're able to use your overworld team \(regardless of character overlap with first half team\) for the second half of Spiral Abyss by selecting retry at the same time as killing the last mob.
 
@@ -43,7 +43,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Elemental Skills and Bursts Don't Reset When Using Retry in Abyss
 
 **By:** Emear\#2956  
-**Added:** 04/10/2021
+**Added:** 2021-04-10
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
@@ -58,7 +58,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Resetting or Exiting a Domain does not Reset Elemental Skill Cooldowns  
 
 **By:** Puffin\#9920   
-**Added:** 02/26/2022   
+**Added:** 2022-02-26   
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/947163566954393671/transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)  
 
 **Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
@@ -74,7 +74,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Keeping Domain Doors Open
 
 **By:** Magnus Artifex\#8719  
-**Added:** 05/14/2022  
+**Added:** 2022-05-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975064228476125224/transcript-keeping-domain-doors-open.html)
 
 **Bug:**  
@@ -101,7 +101,7 @@ looks cool
 ### Infinite Bushes
 
 **By:** xHelloEveryonex\#1401  
-**Added:** 04/05/2021
+**Added:** 2021-04-05
 
 **Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
@@ -112,7 +112,7 @@ looks cool
 ### Aiming Harpastum
 
 **By:** Iron IV#3832  
-**Added:** 06/20/2021  
+**Added:** 2021-06-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
 
 **Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
@@ -124,7 +124,7 @@ looks cool
 ### 4-piece set bonuses on environment reactions
 
 **By:** Aluminum#5462  
-**Added:** 6/22/2021  
+**Added:** 2021-06-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
@@ -136,7 +136,7 @@ looks cool
 ### Cooking Pot Super Jump
 
 **By:** Nass008\#8577  
-**Added:** 12/23/2021  
+**Added:** 2021-12-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921775232707100692/923676486106509382/transcript-cooking-pot-super-jump.html)  
 
 **Finding:**  
@@ -165,7 +165,7 @@ Can be used to reach places normally inaccessible, especially by utilizing Benne
 
 ### Leg Break Bridge
 **By:** Lilith of the night#5024  
-**Added:** 1/21/2022  
+**Added:** 2022-01-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930076186787336243/934021559629254676/transcript-leg-break-bridge.html)
 
 **Finding:**   
@@ -186,7 +186,7 @@ The damage is likely counted as from plunge, as it is close to the max plunge dm
 ### Netlimited Blade Works
 
 **By:** Ayzel\#7399  
-**Added:** 6/16/2021  
+**Added:** 2021-06-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838967062184984636/854582115995877397/transcript-high-ping-multiple-orbital-application.html)  
 
 **Finding:**  
@@ -202,7 +202,7 @@ Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xing
 ### Lag and Snapshot Interactions
 
 **By:** Soup420\#1634  
-**Added:** 04/19/2021  
+**Added:** 2021-04-19  
 _\*\*_[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
 
 **Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
@@ -219,7 +219,7 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 ### Noblesse Oblige 4pc bonus not applying to some bursts
 
 **By:** Bobrokrot\#0111  
-**Added:** 04/26/2021  
+**Added:** 2021-04-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
 
 **Bug:**  
@@ -247,7 +247,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 ### Particles Move While Game is Paused
 
 **By:** Anmol43\#1917 and paimonbukeyi\#4732  
-**Added:** 04/05/2021
+**Added:** 2021-04-05
 
 **Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
@@ -261,7 +261,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 ### Xiangling's Burst can Stack in Contending Tides Event
 
 **By:** Ayzel\#7399  
-**Added:** 04/09/2021
+**Added:** 2021-04-09
 
 **Bug:** Xiangling's burst can stack in the Contending Tides event.
 
@@ -293,7 +293,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 ### Artifact Inventory size affects Wishing
 
 **By:** George#0766  
-**Added:** 09/25/2021  
+**Added:** 2021-09-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890023724240216064/891163055684223016/transcript-artifact-inventory-size.html)
 
 **Finding:**  
@@ -308,7 +308,7 @@ This check already exists if you try to collect artifacts with a near full inven
 ### Sprinting Bug
 
 **By:** BowTae#0141  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893769893525200908/899132398682402936/transcript-drain-stamina-while-standing.html)
 
 **Finding:**  
@@ -331,7 +331,7 @@ Fluff, annoying bug when you do it by accident.
 ### Venti Q Late Absorption Bug
 
 **By:** soup420\#1634  
-**Added:** 04/23/2021  
+**Added:** 2021-04-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/829479729299193877/835390049503543336/transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
@@ -350,7 +350,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 ### Venti E hold visual error
 
 **By:** Santoryu\#4495  
-**Added:** 05/23/2021  
+**Added:** 2021-05-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841955537322246174/845828367931670579/transcript-venti-e-hold-visual-error.html)
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
@@ -368,7 +368,7 @@ This may be considered a bug due to the visual indication being tilted, but the 
 ### Mona Elemental skill bug
 
 **By:** Childe C6 is overrated-Toro\#1035  
-**Added:** 05/25/2021  
+**Added:** 2021-05-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
 
 **Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and particle generation also happens during cast
@@ -382,7 +382,7 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 ### Infinite Torch
 
 **By:** Sincronic\#3171  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958520792939900958/transcript-infinitorch.html)  
 
 **Bug:**  
@@ -397,7 +397,7 @@ Understanding of overworld mechanics.
 ### Lightning Struck Tree Breaks When Swapping Characters
 
 **By:** Sincronic\#3171  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962022405419704400/transcript-lightning-struck-tree-breaks-when-swapping-characters.html)  
 
 **Bug:**  
@@ -414,7 +414,7 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 ### Horizon Tech
 
 **By:** Originally discovered by zajef77#2838 and many KQM members contributed  
-**Added:** 6/23/2021  
+**Added:** 2021-06-23  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847367901518626846/857350049892925480/transcript-spaghetti-impact-horizon-tech.html)
 
 **Bug:**  
@@ -436,7 +436,7 @@ Looks kinda cool.
 ### Fishing Spot Prompt Bug
 
 **By:** Beast Boy\#2560  
-**Added:** 04/16/2022  
+**Added:** 2022-04-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
 
 **Bug:**  

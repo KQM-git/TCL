@@ -22,7 +22,7 @@ search: false
 #### Rosaria's passive doesn't work in the Serenitea Pot
 
 **By:** Mcpie#8672  
-**Added:** 08/11/2021  
+**Added:** 2021-08-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875008784857190450/875040266573201498/transcript-rosaria-passive-does-not-work-in-serenitea-pot.html)
 
 **Finding:**  
@@ -40,7 +40,7 @@ Another evidence that the Serenitea Pot behaves similarly to Domains in game.
 #### Rosaria's A1 passive vs. Perpetual Mechanical Array & the Hypostases
 
 **By:** Nass008#8577  
-**Added:** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872888935590797352/873788560237531136/transcript-rosarias-a1-passive-works-against-hypostases-and-perpetual-mechanical-array.html)
 
 **Finding:**  
@@ -69,7 +69,7 @@ Rosaria can take advantage of her A1 passive against the aforementioned bosses b
 #### A4 Stacks with External Sources of CRIT
 
 **By:** The Immersive Fish\#9373  
-**Added:** 04/09/2021
+**Added:** 2021-04-09
 
 **Finding:** Rosaria's Crit Rate Sharing is influenced by other direct Crit boosters.
 
@@ -98,7 +98,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 #### Rosaria's C6 Debuff Refreshes on Hit
 
 **By:** Zendaju\#3064  
-**Added:** 04/15/2021
+**Added:** 2021-04-15
 
 **Finding:** Rosaria's C6 debuff is also triggered by the DoT on her burst.
 
@@ -111,7 +111,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 ### Pale Flame on Rosaria
 
 **By:** Monado\#9922  
-**Added:** 05/01/2021  
+**Added:** 2021-05-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836853492396195871/838339076746117120/transcript-pale-flame-on-rosaria.html)
 
 **Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's skill despite the skill being 2 hits \(probably because the 2 hits are within 0.3s\), and requires back to back usage to achieve the full 4 piece effect.

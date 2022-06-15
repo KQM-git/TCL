@@ -13,7 +13,7 @@ search: false
 ### Interrupting Enemies Causes Phantom Attacks
 
 **By:** Iron IV\#3832  
-**Added:** 6/14/2021  
+**Added:** 2021-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849182058525229056/854018708397752332/transcript-interrupting-enemies-causes-phantom-attacks.html)
 
 **Bug:**  
@@ -30,7 +30,7 @@ Watch out for enemy attacks if they were interrupted.
 ### Enemies Actually Burrow
 
 **By:** Asaki\#9139, ShampooBrain\#9583, and MeCrush14\#2271  
-**Added:** 12/21/2021  
+**Added:** 2021-12-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920541455452340284/923102157065056346/transcript-enemies-actually-burrow.html)  
 
 **Finding:**  
@@ -118,7 +118,7 @@ Characters’ marks \(Riptide, Talisman, Blood Blossom, etc.\) show that some en
 
 ### Marks And Statuses
 **By:** Asaki#9139  
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930683788307087360/936213305717035038/transcript-marks-and-statuses.html)
 
 **Finding:**  
@@ -134,7 +134,7 @@ Further testing should be done on the Implode status (Xiangling C2) but that req
 
 ### De-Aggro Distances  
 **By:** ep1k\#3678  
-**Added:** 01/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927244617441751060/936434058165121114/transcript-de-aggro-distances-vary-among-enemies.html)  
 
 **Theory:**  
@@ -157,7 +157,7 @@ Insight into the behavior and mechanics of enemies in the Overworld.
 ### Elemental Reactions Effects on Buried Dendro Slime
 
 **By:** Pablos\#1142  
-**Added:** 05/12/2022  
+**Added:** 2022-05-12  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974471796734705694/transcript-elemental-reactions-effects-on-buried-dendro-slime.html)  
 
 **Finding:**  
@@ -175,7 +175,7 @@ Significance: Documentation of enemy mechanics.
 ### Some Enemy CC is Level Dependent
 
 **By:** elijam\#7142  
-**Added:** 05/12/2022  
+**Added:** 2022-05-12  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974425599466668032/transcript-some-enemy-cc-is-level-dependent.html)  
 
 **Finding:**  
@@ -203,7 +203,7 @@ Even more Ws for when you're absolutely carrying your low AR friends. Maybe help
 ### Freeze Interaction on Boss Enemies
 
 **By:** Yukarix\#6534  
-**Added:** 5/11/2021  
+**Added:** 2021-05-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840784074842046504/841877418103799808/transcript-freeze-interaction-on-boss-entities.html)
 
 **Finding:**  
@@ -219,7 +219,7 @@ Freeze teams and melt/vape teams that function off the freeze aura will perform 
 ### Weekly Boss Animation Skipping
 
 **By:** yolitme0\#0579 and BowTae\#0141  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905296096794902578/920219066747203654/transcript-boss-animations-can-be-cancelled-by-swapping.html)  
 
 **Finding:**  
@@ -257,7 +257,7 @@ This may assist in shortening the time required to kill weekly bosses, as well a
 #### How to skip Phase 2 transformation
 
 **By:** Baezal\#0868  
-**Added:** 12/22/2020  
+**Added:** 2020-12-22  
 
 **Finding:**  
 Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to burst him down below 30%.  
@@ -275,7 +275,7 @@ If you dread Andrius phase 2 and you have the ability to skip it, now you can do
 #### Azhdaha in his Tail Form has Two Independent Hitboxes
 
 **By:** ArchedNosi\#1484  
-**Added:** 10/09/2021  
+**Added:** 2021-10-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891904835862020127/896133877683351662/transcript-azhdaha-has-two-independent-hitboxes.html)
 
 **Finding:**  
@@ -290,7 +290,7 @@ Abilities that have large verticality and the property of being able to tag mult
 
 #### Azhdaha's Element Is The Same For All Regions
 **By:** xSil3nt\#0961  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/924709157163122729/931057558175748157/transcript-azhdaha-elements-same-for-all-regions.html)
 
 **Finding:**  
@@ -309,7 +309,7 @@ Co-op cannot be used to have a more favorable/easier elemental matchup against a
 #### You can't melt signora off field
 
 **By:** Puffin\#9920  
-**Added:** 4/4/2022  
+**Added:** 2022-04-04  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/960711833520570378/transcript-you-cant-melt-signora-from-off-field.html)
 
 **Finding:**  
@@ -328,7 +328,7 @@ Better understanding of La Signora's Crimson Lotus Moth mechanic.
 #### Stormterror DoT Damage Cap
 
 **By:** ᗪᗩᖇᛕ ᕼᗴᖇᗩᒪᗪ\#0209  
-**Added:** 11/5/2021  
+**Added:** 2021-11-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904754824304787466/906425965872291860/transcript-the-dmg-increase-dvalins-dot-does-will-eventually-stop-increasing.html)  
 
 **Finding:**  
@@ -356,7 +356,7 @@ Better understanding of Dvalin's DoT attack and how it calculates damage.
 
 #### Raiden Boss Oneshot Mechanics
 **By:** Luno\#1337, Trosalio\#0420, and addicted2reading\#7262  
-**Added:** 05/22/2022  
+**Added:** 2022-05-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/978118765076156416/transcript-raiden-boss-oneshot-mechanics.html)
 
 **Finding &amp; Evidence:**  
@@ -391,7 +391,7 @@ Other evidence suggests that dash invincibility frames either do not work at all
 ### Anemo Hypostasis
 #### Anemo Hypostasis self-Swirl in rain
 **By:** CrazyWeke123\#9720  
-**Added:** 12/21/2021  
+**Added:** 2021-12-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921660671836438558/922624867973619802/transcript-anemo-cube-self-swirl-in-rain.html)  
 
 **Finding:** Adequately getting rid of overworld Hydro on the Anemo Hypostasis results in it continuously Swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U Cryo application, as seen in the evidence. Non-sufficent Cryo application does not result in this occcuring.  
@@ -415,7 +415,7 @@ Other evidence suggests that dash invincibility frames either do not work at all
 #### Pyronado and Cryo Regisvine Hurtbox Interaction  
 
 **By:** CQLQRS\#7853  
-**Added:** 10/30/2021  
+**Added:** 2021-10-30  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902502466942287892/903460815556984862/transcript-xl-cryo-regisvine-pepega.html)  
 
 **Finding:**  
@@ -438,7 +438,7 @@ Genshin spaghetti at its finest.
 #### Geo Traveler's E can break Geo Hypostasis Pillar  
 
 **By:** TarZ\#6365  
-**Added:** 17/10/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897646550963093554/898812202541281320/transcript-geo-mc-boulder-can-break-pillar-and-cause-hammer-attack-to-occur-with-geo-hypostasis.html)  
 
 **Finding:**  
@@ -454,7 +454,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 
 #### Rifthound Skulls Charging
 **By:** EtoPashka\#0690  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908382648710348840/931069122559766528/transcript-resistances-and-elem-obj-durability-table.html)
 
 **Finding:**  
@@ -471,7 +471,7 @@ For those that enjoy suffering.
 #### Maguu Kenki Hitlag Audio Desync
 
 **By:** Santoryu\#4495  
-**Added:** 12/14/2021  
+**Added:** 2021-12-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904928198888939550/920204559543042058/transcript-kenkis-attacks-are-affected-by-hitlag.html)  
 
 **Finding:**  
@@ -486,7 +486,7 @@ This makes it way harder to dodge because the Audio Cue is now early, tricking t
 #### Maguu Kenki Phase Change HP Threshold Update
 
 **By:** Mr. Pillow\#0065  
-**Added:** 04/16/2022  
+**Added:** 2022-04-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964937426567061554/transcript-mango-kenki-phase-change-hp-treshold-update.html)  
 
 **Finding:**  
@@ -504,7 +504,7 @@ Updating the boss info.
 #### PMA and Polearm CA interactions  
 
 **By:** CQLQRS\#7853 and Akarin\#8270  
-**Added:** 31/10/2021  
+**Added:** 2021-10-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897314204451762206/903464868055756850/transcript-perpetual-polearm-ca-hitbox.html)  
 
 **Finding:**  
@@ -524,7 +524,7 @@ If your main DPS relies on Charged Attacks for damage and has the bullet-like an
 #### Shield Reflection Mechanics
 
 **By:** Mcpie\#8672  
-**Added:** 6/25/2021  
+**Added:** 2021-06-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846126762165272666/858192389344854067/transcript-shield-reflection-damage.html)
 
 **Finding:**  
@@ -588,7 +588,7 @@ Might play a major role if at any point we'll have Primo Geovishaps inside the a
 
 #### Reflecting Primo Geovishap Shower can be Swap Cancelled
 **By:** yolitme0\#0579  
-**Added:** 02/10/2022  
+**Added:** 2022-02-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939977342724477008/941440886649270332/transcript-reflecting-primo-geovishap-shower-can-be-swap-cancelled.html)  
 
 **Finding:**  
@@ -606,7 +606,7 @@ Better understanding of the Primordial Shower.
 #### Abyss Herald Cooldown Mechanics
 
 **By:** Monado\#9922  
-**Added:** 6/4/2021  
+**Added:** 2021-06-04  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836294244434968646/850588687544614992/transcript-abyss-herald-cooldown-mechanic.html)
 
 **Finding:**  
@@ -649,7 +649,7 @@ Better understanding of Abyss Herald mechanics, and which attacks in particular 
 #### Hydro Abyss Mage bubble persists on swap
 
 **By:** snorting salt\#3888  
-**Added:** 07/17/2021  
+**Added:** 2021-07-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
@@ -669,7 +669,7 @@ Dash iframes do not always work against the bubbles, especially for the abyss ma
 #### Rifthound Knockdown Mechanics  
 
 **By:** Charisma\#5567  
-**Added:** 01/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931703610918731796/936429690812522496/transcript-rifthound-knockdown-ways.html)
 
 **Theory:**
@@ -703,7 +703,7 @@ Better understanding of enemy interactions.
 #### Corrosion Damage Mechanics  
 
 **By:** Dooners\#6709  
-**Added:** 10/17/2021  
+**Added:** 2021-10-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898253461924249600/899178914545532958/transcript-corrosion-damage-mechanics.html)
 
 **Finding:**  
@@ -758,7 +758,7 @@ These values are total loss per stack, for damage per tick simply divide each nu
 #### Corrosion damage mechanics update
 
 **By:** Dooners\#6709  
-**Added:** 11/01/2021  
+**Added:** 2021-11-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904216944394256414/904866160300933151/transcript-corrosion-update.html)
 
 **Finding:**  
@@ -779,7 +779,7 @@ Better understanding of Corrosion status.
 #### Mirror Maiden Mechanics
 
 **By:** Hatsuharufag\#4291  
-**Added:** 08/09/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872854146838061086/874259494719324210/transcript-mirror-maiden-mechanics.html)
 
 **Finding:**  
@@ -809,7 +809,7 @@ Don't be an ape. Don't get hit by attacks with clear visual indication and clear
 #### Escape Mirror Maiden trap
 
 **By:** gengar\#8426  
-**Added:** 10/09/2021  
+**Added:** 2021-10-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888324080648982558/896137220493299802/transcript-escape-mirror-maiden-trap.html)
 
 **Finding:**  
@@ -846,7 +846,7 @@ Helpful for Spiral Abyss floor 12.
 #### Standing on Geo MC E skill Restricts Mitachurls to Slime-Throwing Attacks Only  
 
 **By:** maxtrouble\#3719  
-**Added:** 12/19/2020  
+**Added:** 2020-12-19  
 
 **Finding:**  
 Standing on top of a construct restricts Mitachurls to slime throwing attack only.  
@@ -861,9 +861,9 @@ Ai manipulation.
 
 #### Melee Can Stun Ruin Guards 
 **By:** CQLQRS\#7853 and HowLxxxx\#4676  
-**Addded:** 01/01/2022  
+**Added:** 2022-01-01  
 [Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922442421604843542/926773041697013830/transcript-melee-can-stun-ruin-guards.html)  
-**Updated:** 03/16/2022  
+**Updated:** 2022-03-16  
 [Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953769086163230870/transcript-ruin-guard-melee-stun-ft-geomc-skill.html)  
 
 **Finding:**  
@@ -907,7 +907,7 @@ Limited practical usage, mostly fluff.
 #### Polearm Charge Attacks Don't Register On Stunned Ruin Guards
 
 **By:** itskhoi\#0013  
-**Added:** 5/7/2021  
+**Added:** 2021-05-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839754434870509598/840070100143964170/transcript-polearm-ca-doesnt-register-on-stunned-ruin-guard.html)
 
 **Finding:**  
@@ -929,7 +929,7 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 #### Ruin Guard Jump Blocking
 
 **By:** Terrapin\#8603  
-**Added:** 5/9/2021  
+**Added:** 2021-05-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840424651569758218/840817827254501386/transcript-blocking-ruin-guard-jump.html)
 
 **Finding:**  
@@ -944,7 +944,7 @@ Better knowledge of Ruin Guard combat through enemy movement manipulation with G
 #### Swap Dodge Confused Missiles
 
 **By:** Kourinn\#6001  
-**Added:** 02/21/2022  
+**Added:** 2022-02-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945492158708871219/transcript-swap-dodge-confused-missiles.html)  
 
 **Finding:**  
@@ -967,7 +967,7 @@ The other cases have minimal real-world usage due to very tight timing while aff
 #### Ruin Hunter Weakspot&Artillery mode Analysis   
 
 **By:** RoaringMeow\#2437  
-**Added:** 7/12/2020  
+**Added:** 2020-12-07  
 
 **Finding:** Ruin Hunter's Weak spots; How to trigger Ruin Hunter's artillery mode.  
 Context: The Ruin Hunter does not reveal a weak spot until it enters artillery mode.  
@@ -984,7 +984,7 @@ God forbid, a ruin hunter in the abyss but with this mechanic learned he's the e
 #### Ruin Hunter Weakspot abuse   
 
 **By:** deRykcihC\#0621  
-**Added:** 08/28/2020  
+**Added:** 2021-08-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878715141431115796/880934050624327800/transcript-abyss-map-time-delay-bug.html)
 
 **Finding:**  
@@ -1001,7 +1001,7 @@ Might be useful for people who can't follow up Ruin Hunter agile attack pattern 
 #### Dendro Slime Plucking  
 
 **By:** Way\#0001  
-**Added:** 11/19/2020  
+**Added:** 2020-11-19  
 
 **Finding:**  
 Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
@@ -1019,7 +1019,7 @@ Provides an alternative method for eliminating annoying mini-dendro slimes.
 #### Anemo Slimes get one shot in the air
 
 **By:** Daybreak\#0584  
-**Added:** 07/24/2021  
+**Added:** 2021-07-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/867117609450340392/868287985743970314/transcript-anemo-slime-one-shot-in-air.html)
 
 **Finding:**  
@@ -1036,7 +1036,7 @@ If anemo slimes are ever introduced to the abyss, this information could be usef
 #### Hydro Slimes Apply Wet to Surroundings  
 
 **By:** Rainfury\#8343  
-**Added:** 10/25/2021  
+**Added:** 2021-10-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883264842931257425/902081518808203324/transcript-hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
 
 **Finding:**  
@@ -1055,7 +1055,7 @@ Better understanding of enemy and character aura management in combat with hydro
 #### Slime Balloon  
 
 **By:** ariose\#3891  
-**Added:** 08/31/2021  
+**Added:** 2021-08-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881262532914974720/882077997841133618/transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
@@ -1077,7 +1077,7 @@ With this knowledge you can finish your commissions 2 seconds faster.
 #### Specter Defeat Interaction
 
 **By:** Rathalos\#2875  
-**Added:** 11/5/2021  
+**Added:** 2021-11-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905809922913079327/906340038013493248/transcript-specter-defeat-interactions.html)  
 
 **Finding:**  

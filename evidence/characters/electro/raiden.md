@@ -46,8 +46,8 @@ search: false
    
 ### Raiden E Transformative Interactions  
 
-**Added:** 09/28/2021  
 **By:** Tech#6257  
+**Added:** 2021-09-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885440525438685204/891171141287297095/transcript-raiden-e-transformative-interaction.html)  
 
 **Finding:**  
@@ -68,7 +68,7 @@ Better understanding of Raiden's elemental skill.
 ### Raiden Coordinated Attack Cooldown
 
 **By:** TWICE\#9958  
-**Added:** 12/26/2021  
+**Added:** 2021-12-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923751322178715709/924638774284124200/transcript-raiden-coordinated-attack-cd.html)   
 
 **Finding:**  
@@ -103,7 +103,7 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 ### Raiden Energy Generation Against Shielded and Immune Enemies
 
 **By:** Tsuki\#8993  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962011374282739832/transcript-raiden-energy-gen-against-shielded-and-immune-enemies.html)  
 
 **Finding:**  
@@ -130,7 +130,7 @@ Using Raiden's Burst against those enemies is not a total waste because you stil
 ### Raiden Normals and Burst do not share ICD
 
 **By:** Charisma\#5567  
-**Added:** 04/10/2022  
+**Added:** 2022-04-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962722091747123210/transcript-raiden-normals-and-burst-do-not-share-icd.html)  
 
 **Finding:**  
@@ -145,7 +145,7 @@ More documented knowledge about the mechanics of Raiden's kit.
 ### Raiden Resolve Decimal Stacks
 
 **By:** elijam\#7142  
-**Added:** 04/16/2022  
+**Added:** 2022-04-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964951851663503452/transcript-raiden-resolve-decimal-stacks.html)  
 
 **Finding:**  
@@ -179,8 +179,8 @@ Damage shown in video is 2521
 
 #### C2 defense ignore is multiplicative
 
-**Added:** 09/11/2021  
 **By:** Javier#1000  
+**Added:** 2021-09-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882822147012198440/886299222633250816/transcript-raiden-c2-stacking.html)  
 
 **Finding:**  
@@ -199,8 +199,8 @@ Better understanding of Raiden C2, less gain from stacking defense shred.
 
 ### Raiden self energy recharge formula  
 
-**Added:** 09/28/2021  
 **By:** Sir_pick_the_prick#2209  
+**Added:** 2021-09-28  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883997943387029504/892422852458983474/transcript-raiden-minimum-er-formula.html)  
 
 **Finding:**  

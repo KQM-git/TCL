@@ -72,7 +72,7 @@ search: false
 #### Aloy and Sac bow interaction
 
 **By:** Raven\#9205  
-**Added:** 10/16/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896016732412596244/899099498595364894/transcript-aloy-and-sac-bow.html)  
 
 **Finding:**  

@@ -9,7 +9,7 @@ search: false
 ## Soft Pity on Banners
 
 **By:** vibe checker\#5502  
-**Added:** 6/3/2021  
+**Added:** 2021-06-03  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843094700441206844/849939262229315644/transcript-char-and-weapon-banner-pities.html)
 
 **Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
@@ -23,7 +23,7 @@ The second link shows that the probability of rolling a 5 star massively increas
 ## Estimated 5 star pulls for weapons/characters
 
 **By:** KBphan\#0001  
-**Added:** 04/19/2021
+**Added:** 2021-04-19
 
 **Finding:** It takes approximately 12.5 5 star pulls to R5 a specific weapon
 
@@ -48,7 +48,7 @@ Average 5 stars pulled for rate up 5 star character
 ## Resin Efficiency of Acquaint Fates from Character Levelling  
 
 **By:** Moonrobin\#2608  
-**Added:** 12/19/2020  
+**Added:** 2020-12-19  
 
 **Finding:**  
 Level all characters to 20/40 for the Fate.  
@@ -68,7 +68,7 @@ Note that this is for WL7 drop rates, and only includes permanent sources of mat
 ## Weapon banner Gacha Rates with Epitomized Path
 
 **By:** Tim\#5259, Mcpie\#8672  
-**Added:** 11/11/2021  
+**Added:** 2021-11-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884585841270329415/908323794622492742/transcript-weapon-banner-gacha-rates-with-epitomized-path.html)
 
 **Finding:**  
@@ -93,7 +93,7 @@ r5, no epi path, pity: 12.25
 ## Number of Wishes on Weapon Banner to Fully Level a 5 Star Weapon
 
 **By:** hanpw\#5824  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906138978208604210/919065570257813514/transcript-weapon-as-fodder-wish-count.html)  
 
 **Finding:**  
@@ -112,7 +112,7 @@ Average number of wishes needed on weapon banner to level a 5 star weapon to 90 
 ## Gacha Calculator
 
 **By:** Tibo\#4809  
-**Addedd:** 02/19/2022  
+**Added:** 2022-02-19  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935286904679710741/944727977445445632/transcript-gacha-rate-calculator.html)   
 
 **Finding 1:** 

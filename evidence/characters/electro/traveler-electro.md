@@ -29,7 +29,7 @@ search: false
 
 #### Amulets Delay  
 **By:** pai#3602  
-**Added:** 12/26/2021  
+**Added:** 2021-12-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923279142970085396/924645809935507487/transcript-emc-emulet-delay.html)  
 
 **Finding:** The Amulets created from EMC E can't be picked up right away but can be picked up before they are fully formed on the ground. Counting from the frame E is pressed, it takes an average of 1.79 seconds for a character to be able to pick one up. Amulets can't be picked up simultaneously but if they are close enough, all 3 can be picked up within 5 frames at 60 FPS.  
@@ -42,7 +42,7 @@ search: false
 
 #### ER Increase From EMC Amulets Doesn't Affect Passives
 **By:** D.....K#9002  
-**Added:** 1/8/2022  
+**Added:** 2022-01-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927939323976888361/929309417965494323/transcript-er-increase-from-emc-amulets-doesnt-affect-passives.html)  
 
 **Finding:** The ER increase from EMC's Amulets isn't factored in for Raiden or Mona A4, meaning they don't get the corresponding Elemental DMG bonus.  
@@ -76,7 +76,7 @@ search: false
 
 **By** pai\#3602
 
-**Added** 12/13/2021
+**Added:** 2021-12-13
 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917962903783612428/919799543904751666/transcript-emc-c4.html)
 

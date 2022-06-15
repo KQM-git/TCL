@@ -15,7 +15,7 @@ search: false
 #### A4 Crit Rate and ER Buff Duration
 
 **By:** r.rei\#2844  
-**Added:** 11/10/2021  
+**Added:** 2021-11-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/907135831649685504/907902798795014194/transcript-keqing-crit-buff-duration.html)  
 
 **Finding:**  
@@ -54,7 +54,7 @@ In perfect conditions, C1 essentially adds 100% damage to her E2, which can be b
 ### Keqing C1 damage
 
 **By:** elijam#7142  
-**Added:** 08/07/2021  
+**Added:** 2021-08-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -72,7 +72,7 @@ Damage calculations for Keqing.
 ### Keqing C2 Procs Inconsistently  
 
 **By:** Sayline#5959  
-**Added:** 10/24/2021  
+**Added:** 2021-10-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880450784465129492/902064461525975080/transcript-c2-keqing-proc-consistency.html)  
 
 **Finding:**  
@@ -94,7 +94,7 @@ Calculating Keqing energy needs with C2 in mind is hard to do with its inconsist
 ### Keqing Pale Flame Set Bonus
 
 **By:** Ayzel\#7399  
-**Added:** 05/01/2021  
+**Added:** 2021-05-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836981654962569267/838582070044655616/transcript-keqing-pale-flame-set-bonus.html)
 
 **Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
@@ -173,7 +173,7 @@ PS:
 * N3C : 15 Rotations
 * N4C : Near enough infinite, you lose stamina over time but it's so slow there's really no point finding out how many you'll get because whatever you're fighting should be dead.
 
-### User Submission Update \(12/15/2020\)
+### User Submission Update \(2020-12-15\)
 
 **Finding:**
 

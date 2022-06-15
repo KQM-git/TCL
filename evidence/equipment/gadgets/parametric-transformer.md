@@ -11,7 +11,7 @@ search: false
 ## Internal Cooldown
 
 **By:** Mcpie#8672  
-**Added:** 07/10/2021  
+**Added:** 2021-07-10  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859763876592877578/862607271769669652/transcript-parametric-transformer-speedrun.html)
 
 **Finding:**  

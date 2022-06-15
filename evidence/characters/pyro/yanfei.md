@@ -23,7 +23,7 @@ search: false
 ## C6 Yanfei Stamina Consumed Reduction
 
 **By:** bbwalrus\#8456  
-**Added:** 5/6/2021  
+**Added:** 2021-05-06  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839654617628540988/840063885612548107/transcript-c6-yanfei-stamina-consumption-reduction.html)
 
 **Finding:**  

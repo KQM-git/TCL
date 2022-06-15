@@ -7,7 +7,7 @@ search: false
 ## Plunge on Stairs in Floor 12
 
 **By:** euphorysm\#9060  
-**Added:** 04/19/2021  
+**Added:** 2021-04-19  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832952764317171712/834316884245479464/transcript-floor-12-stairs-plunge-spam.html)
 
 **Finding:**  

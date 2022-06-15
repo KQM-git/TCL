@@ -6,7 +6,7 @@ description: A member of the decentralized criminal organization that has footpr
 
 ## Treasure Hoarders: Gravedigger
 
-"They sayThat means digging up the accumulated wealth of our forebears, taking them with us, and... uh, returning them to the economic cycle! What a noble endeavor, am I right?"—A certain Treasure Hoarder Gravedigger, while delving deep into a ruin
+"They say that means digging up the accumulated wealth of our forebears, taking them with us, and... uh, returning them to the economic cycle! What a noble endeavor, am I right?"—A certain Treasure Hoarder Gravedigger, while delving deep into a ruin
 
 ## Weakspot Details
 

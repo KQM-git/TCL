@@ -8,7 +8,7 @@ search: false
 
 ## Reaction Efficiency at Breaking Elemental Shields \(Translation\)
 
-Added 11/8/2020  
+**Added:** 2020-11-08  
 Source: [https://bbs.mihoyo.com/ys/article/2204156](https://bbs.mihoyo.com/ys/article/2204156) \(Dated Oct 14, 2020\)  
 Translated by: @KluEvo, @sacstanxiang & @Azri K.
 
@@ -16,15 +16,15 @@ Link: [https://docs.google.com/document/d/1\_iXKQk-w91gt3Og1\_r3NntHWXACiF6aPk-b
 
 ## Bobrokrot’s Shield and Armor Guide
 
-By: Bobrokrot\#0111  
-Added on 2/12/2021
+**By:** Bobrokrot\#0111  
+**Added:** 2021-02-12
 
 [https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit?usp=sharing)
 
 ## Preliminary Findings on Breaking Fatui Armor
 
-By: Bobrokrot\#0111  
-Added 12/6/2020
+**By:** Bobrokrot\#0111  
+**Added:** 2020-12-06
 
 **Theory**  
 Fatui armor breaks mostly off elemental reactions and armor breaking effectiveness depends on strength of aura application.
@@ -50,7 +50,7 @@ Fatui armor breaks mostly off elemental reactions and armor breaking effectivene
 ## Fatui Armor and Aura Interactions
 
 **By:** Rainfury\#8343  
-**Added:** 03/01/2022  
+**Added:** 2022-03-01  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948225177748131840/transcript-fatui-shields-and-aura-interaction.html)  
 
 **Finding:**  
@@ -99,8 +99,8 @@ Better understanding of Fatui armor. Most of the findings are about Fatui armor 
 
 ## Geo Armor Breaking Efficiency’s Relation to "Stagger Strength" of the Attack
 
-By: Bobrokrot\#0111  
-Added 12/19/2020
+**By:** Bobrokrot\#0111  
+**Added:** 2020-12-19
 
 **Evidence:**  
 Aside from geo damage, there is also a number of attacks that break Geo Armor. As far as I can tell, all of these attacks have one thing in common — they push or stagger the enemy.
@@ -125,7 +125,7 @@ May significantly alter our Abyss clearing strategy. Geo and claymores are still
 
 ## Standardized Measuring Tool for Stagger Values
 
-By: Bobrokrot\#0111
+**By:** Bobrokrot\#0111
 
 **Theory:** INTRODUCING KAEYA'S N1 \(KN1\) AS A MEASURING TOOL FOR STAGGER VALUES
 
@@ -147,7 +147,7 @@ We now might be able to measure stagger values precisely. Please contact me if y
 
 ## Swirl and Crystallize on the Shield of a Cryo Abyss Mage Floating Over Water
 
-By: Bobrokrot\#0111
+**By:** Bobrokrot\#0111
 
 **Evidence:**  
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
@@ -168,7 +168,8 @@ Don't use Geo or Anemo to break Cryo Abyss mage shields on water.
 
 ## Shield Gauge Consumption and Electrocharged
 
-By: Bobrokrot\#0111 Added 2/4/2021
+**By:** Bobrokrot\#0111  
+**Added:** 2021-02-04
 
 **Theory:**  
 Each Electro-charged tick consumes 0.4U. Abyss mage shields have 12GU HP \(regardless of the reactions\), Fatui armor has 4U HP.
@@ -179,7 +180,7 @@ The detailed explanation with calculations can be found here: [https://docs.goog
 ## Breaking Childe's Shield with Stagger
 
 **By:** Iron IV\#3832 and sexyeboy69\#3215  
-**Added:** 04/05/2021
+**Added:** 2021-04-05
 
 **Theory:** Childe's shield is broken through poise damage rather than raw damage.
 
@@ -194,7 +195,7 @@ The detailed explanation with calculations can be found here: [https://docs.goog
 ## Abyss Lector Shield Gauges
 
 **By:** Yukarix\#6534, Ayzel\#7399, Bobrokrot\#0111, srl\#2712  
-**Added:** 6/5/2021  
+**Added:** 2021-06-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838292328292024330/850595853152550922/transcript-abyss-lector-shield-pyro-vs-cryo.html)
 
 **Finding:**  
@@ -216,8 +217,8 @@ If you have pyro or cryo units that have fast elemental application, using one o
 
 ## An Extensive Look into Shield Damage
 
-By: vibe checker\#5502  
-Added: 6/5/2021  
+**By:** vibe checker\#5502  
+**Added:** 2021-06-05  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839522017602568202/850623736780423209/transcript-an-extensive-look-into-shield-damage.html)
 
 **Finding:**  
@@ -230,7 +231,7 @@ There are pages on the wiki that already detail this information, however I crea
 ## Critial-hit triggered abilities interactions with shields 
 
 **By:** Silvershine2#5439  
-**Added:** 6/14/2021  
+**Added:** 2021-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846051562517168218/854022298591821844/transcript-blocked-crit-hit-procs.html)
 
 **Finding:**  
@@ -283,7 +284,7 @@ Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the 
 ## Transformative Reaction Damage on Shields
 
 **By:** vibe checker#5502  
-**Added:** 6/24/2021  
+**Added:** 2021-06-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853125058965012500/857665782640803840/transcript-transformative-damage-on-shields.html)
 
 **Finding:**  

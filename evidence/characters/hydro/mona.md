@@ -13,7 +13,7 @@ search: false
 ### **What Attack String Combo Outputs the Highest DPS for Mona?**
 
 **By:** Baezal\#0868  
-**Added:** 12/27/2020
+**Added:** 2020-12-27
 
 **Finding:**
 
@@ -30,7 +30,7 @@ Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. 
 ### Mona 3rd AA has Two Different Animations
 
 **By:** Ravantier#4984  
-**Added:** 08/20/2021  
+**Added:** 2021-08-20  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876768975940370472/878186098935861258/transcript-mona-3rd-aa-has-two-different-animations.html)
 
 **Finding:**  
@@ -62,7 +62,7 @@ Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in
 ### **How many Elemental Particles does Mona’s Elemental Skill Generate?**
 
 **By:** Curiously\#2324  
-**Added:** 5/12/2020
+**Added:** 2020-12-05
 
 **Finding:**
 
@@ -79,7 +79,7 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 ### Mona Hold E has iframes
 
 **By:** Mcpie#8672  
-**Added:** 09/25/2021  
+**Added:** 2021-09-25  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890797348635156531/891163963356758086/transcript-mona-hold-e-iframe.html)
 
 **Finding:**  
@@ -100,7 +100,7 @@ Utilizing for dodging.
 ### **Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?**
 
 **By:** Chidoge\#3163  
-**Added:** 5/12/2020
+**Added:** 2020-12-05
 
 **Finding:**  
 Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
@@ -120,7 +120,7 @@ However, if you switch out for too long, Mona will lose the ATK buff and the bub
 ### **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**
 
 **By:** Gibbigobo\#9750  
-**Added:** 23/02/2021
+**Added:** 2021-02-23
 
 **Finding:**
 
@@ -145,7 +145,7 @@ In the second screenshot below, If I were add back the Omen damage bonus to the 
 ### Omen Extension on Certain Enemies in Certain States
 
 **By:** Aetherpon\#5730  
-**Added:** 6/7/2021  
+**Added:** 2021-06-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840973333771059241/851387589285511198/transcript-omen-extension-on-certain-enemies-in-certain-states.html)
 
 **Finding:**  
@@ -164,7 +164,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 ### Mona Q cannot pop on hyper armor
 
 **By:** Mcpie#8672  
-**Added:** 08/09/2021  
+**Added:** 2021-08-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863845897770237953/874171057685274624/transcript-new-mona-q-cannot-pop-on-super-armor.html)
 
 **Finding:**  
@@ -202,7 +202,7 @@ Better understanding and utilizing of Mona burst.
 ### Mona Omen Extension extended
 
 **By:** Gibbigobo#9750  
-**Added:** 09/04/2021  
+**Added:** 2021-09-04  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880972206451064842/883492803945041920/transcript-omen-extension-mechanics-video.html)
 
 **Finding:**  
@@ -230,7 +230,7 @@ An Estimated 29% of all enemies in 2.0 have at least one of these states. The ma
 ### Petrify Omen Extension
 
 **By:** Monochrom9\#8058  
-**Added:** 10/24/2021  
+**Added:** 2021-10-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898482560210980905/901965314378584084/transcript-petrify-omen-extension.html)
 
 **Finding:**  
@@ -253,9 +253,10 @@ ZL's ability to extend omen with petrify is more conditional than previously tho
 ### Rosaria's Passive Affects Mona's Alternate Sprint
 
 **By:** Aetherpon\#5730  
-**Added:** 04/09/2021
+**Added:** 2021-04-09
 
-**Finding:** Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
+**Finding:**  
+Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
 
 **Evidence:**
 
@@ -271,19 +272,23 @@ It's actually a smaller buff than one would think, but there is a slight differe
 ### Mona's Sprint Takes Priority over Skill
 
 **By:** Keqing\#1111  
-**Added:** 4/21/2021  
+**Added:** 2021-04-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832524741473599519/834659643292254238/transcript-mona-elemental-skill-cancel.html)
 
-**Finding:** If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
+**Finding:**  
+If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
 
-**Evidence:** [https://youtu.be/gDEZhioyCxs](https://youtu.be/gDEZhioyCxs)
+**Evidence:** 
 
-**Signifiance:** Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
+[https://youtu.be/gDEZhioyCxs](https://youtu.be/gDEZhioyCxs)
+
+**Signifiance:**  
+Mona shouldn't dash until her skill is finished casting. This skill cancellation may also occur in the future for future characters with Mona-style alternate sprints.
 
 ### Mona dash iframe
 
 **By:** aui#3690  
-**Added:** 09/17/2021  
+**Added:** 2021-09-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)
 
 **Finding:**  
@@ -321,7 +326,7 @@ While I sincerely doubt that 4 ToM Mona will become a viable build path for her,
 #### Mona A4 passive only shows when she's active
 
 **By:** 2ri#0945  
-**Added:** 08/31/2021  
+**Added:** 2021-08-31  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880394893699211274/882076120403574784/transcript-mona-a4-passive-only-shows-when-shes-active.html)
 
 **Finding:**  
@@ -340,7 +345,7 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 #### **Mona C1 Snapshot for Vape**
 
 **By.** Tibo\#4309  
-**Added:** 12/16/2021  
+**Added:** 2021-12-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897587228799287327/912236506880557076/transcript-mona-c1-snapshot.html)
 
 **Finding:** Mona C1's snapshotting vape/swirl/EC (Theoryhunt).
@@ -381,7 +386,7 @@ Frozen
 #### **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?**
 
 **By:** Curiously\#2324  
-**Added:** 02/02/2021
+**Added:** 2021-02-02
 
 **Finding:**
 
@@ -398,7 +403,7 @@ This has been confirmed due to math being done to break down how Mona's Q Burst 
 #### Mona Omen and C1 Buff Mechanics
 
 **By:** Kgbeast\#6738  
-**Added:** 5/11/2021  
+**Added:** 2021-05-11  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840003957183086662/841870834430902352/transcript-mona-omen-and-c1-mechanics.html)
 
 **Finding:**  
@@ -438,7 +443,7 @@ Mona's C1 does not work party-wide in co-op.
 #### **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
 
 **By:** Kimmu\#0007  
-**Added:** 5/12/2020
+**Added:** 2020-12-05
 
 **Finding:**
 
@@ -455,7 +460,7 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 #### C2 Mona Aura for Xiangling
 
 **By:** Raf\#7220  
-**Added:** 6/7/2021  
+**Added:** 2021-06-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844650193613094912/851360892595732510/transcript-mona-c2-aura-for-xl.html)
 
 **Finding:**  
@@ -472,7 +477,7 @@ Xiangling Q applies too much pyro for Mona to successfully be the aura most of t
 #### C4 Mona Does Not Show Up in Stat Page
 
 **By:** Mcpie\#8672  
-**Added:** 02/02/2022  
+**Added:** 2022-02-02  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/937755412520919070/938446649758457886/transcript-c4-mona-does-not-show-up-in-stat-page.html)  
 
 **Finding:**  

@@ -11,7 +11,7 @@ search: false
 ## Separate Scaling Characters
 
 **By:** Mateng\#4507  
-**Added:** 07/07/2021  
+**Added:** 2021-07-07  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847605896133738536/858800978111627274/transcript-separate-scaling-characters.html)
 
 [Link to Document](https://docs.google.com/spreadsheets/d/1y4O_AAd0bvBm40E9TFeAhxF72AHiT0O9wsm8omJ7ASE/edit?usp=sharing)

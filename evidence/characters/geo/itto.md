@@ -73,7 +73,7 @@
 ### Ushi Max Air Time
 
 **By:** Homura\#9806  
-**Added:** 03/29/2022  
+**Added:** 2022-03-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958523437255643187/transcript-ushi-max-air-time.html)  
 
 **Finding:**  
@@ -101,7 +101,7 @@ Further understanding of Ushi as a Geo Construct.
 
 ### Itto N1 Burst Cancel SS Stack
 **By:** Aftermath\#7658  
-**Added:** 1/13/2022  
+**Added:** 2022-01-13  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929507146335408128/931064442861543434/transcript-itto-n1-burst-cancel-ss-stack.html)
 
 **Finding:**  
@@ -118,7 +118,7 @@ There are several combo variants for Itto, a main category being first rotation 
 
 ### Successful Itto DEF Conversion with Gorou
 **By:** Mr. Pillow\#0065  
-**Added:** 01/29/2022  
+**Added:** 2022-01-29  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934236008533360691/937034728031281162/transcript-successful-itto-def-conversion-w-gorou.html)  
 
 **Finding:**  

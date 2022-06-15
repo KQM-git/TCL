@@ -7,7 +7,7 @@ search: false
 {% page-ref page="../../../combat-mechanics/tech/collision-cancel.md" %}
 
 **By:** BowTae#0141  
-**Added:** 10/09/2021  
+**Added:** 2021-10-09  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891494658901938176/894254618190700575/transcript-collision-jump.html)
 
 **Finding:**  

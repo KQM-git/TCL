@@ -50,7 +50,7 @@ search: false
 
 #### Infinite Jellyfish Extension
 **By:** Steno#0119  
-**Added:** 1/27/2022  
+**Added:** 2022-01-27  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934084290352930969/936219344843718656/transcript-infinite-jellyfish-extension.html)
 
 **Finding:**  
@@ -88,7 +88,7 @@ Who doesn't love some obscure Kokomi tech.
 ### Kokomi N2 Delay Bug  
 
 **By:** Some Proselytizer#8340  
-**Added:** 10/24/2021  
+**Added:** 2021-10-24  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890763855679082536/902020447338643456/transcript-kokomi-n2-delay-bug.html)  
 
 **Finding:**  
@@ -106,7 +106,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 ### Snapshot Burst DMG Bonus onto Bake-Kurage by switching
 
 **By:** awe778#1618  
-**Added:** 10/16/2021  
+**Added:** 2021-10-16  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891097097078730823/899138392359583824/transcript-kokomi-q-snapshot.html)  
 
 **Finding:**  
@@ -125,7 +125,7 @@ This can potentially change Kokomi's Burst rotations due to the ability to snaps
 ### Kokomi Skill triggers artifact effects even when interrupted
 
 **By:** Tibo#4309    
-**Added:** 10/26/2021  
+**Added:** 2021-10-26  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890281986105696266/902798398757928970/transcript-kokomis-jellyfish-is-uninterruptible.html)  
 
 **Finding:**  
@@ -150,7 +150,7 @@ Can have higher Artifact set effect uptime and stacks, but at the cost of gettin
 ### Kokomo Q Does Not Resnapshot
 
 **By:** Kurt\#5846  
-**Added:** 04/08/2022  
+**Added:** 2022-04-08  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962109619050786918/transcript-kokomi-q-does-not-resnapshot.html)  
 
 **Finding:**  
@@ -166,7 +166,7 @@ The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot
 ### Kokomi A1 Description is Misleading
 
 **By:** Ieah.\#2212  
-**Added:** 05/22/2022  
+**Added:** 2022-05-22  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977696445069131776/transcript-kokomi-a1-description-is-misleading.html)
 
 **Finding:**  

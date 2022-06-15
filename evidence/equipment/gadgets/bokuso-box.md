@@ -5,7 +5,7 @@ Main Page
 
 ## Bokuso Box Can Crit    
 **By:** melon\#9323   
-**Added:** 02/20/2022    
+**Added:** 2022-02-20    
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945129398321950720/transcript-bokuso-box-can-crit-and-proc-fav.html)  
 
 **Finding:**  
