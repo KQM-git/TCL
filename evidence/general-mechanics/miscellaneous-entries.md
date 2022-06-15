@@ -925,3 +925,21 @@ The birds inside the cages of The Chasm underground camps have some weird behavi
 
 **Significance:**  
 Fluff
+
+## Animals Can Be Debuffed
+
+**By:** Valler™\#3603  
+**Added:** 06/14/2022  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986295200286666812/transcript-animals-can-be-debuffed.html)
+
+**Finding:**  
+Cats, foxes and dogs can be affected by some debuffs.
+
+**Evidence**  
+* Affected by 4 Viridescent Venerer resistance shred - [Imgur](https://imgur.com/0G6EcsR)
+* Affected by C2 Klee DEF shred - [Imgur #1](https://imgur.com/FiAklhE) , [Imgur #2](https://imgur.com/a/bGn5vBY)
+* *Not* affected by the resistance shred Zhongli provides - [Imgur](https://imgur.com/a/NIFs00I)
+* *Not* affected by Lisa's defence shred - [Imgur](https://imgur.com/a/WeplASO)
+
+**Significance:**  
+Fluff

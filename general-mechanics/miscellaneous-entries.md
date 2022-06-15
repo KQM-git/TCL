@@ -64,6 +64,7 @@ description: For entries that have little practical use.
 ## Animals Interaction
 
 * Sacrificial Weapons' passives and the 4pc Gambler effect can trigger on Wildlife that drop items (birds and beasts), but does not trigger on Wildlife that act as an interactable item pick-up (material sources).
+* Some debuffs will affect animals such as dogs, cats, and foxes. See this [Vault Entry](/evidence/general-mechanics/miscellaneous-entries.md#animals-can-be-debuffed) for details.
 
 ## Photo Mode
 
