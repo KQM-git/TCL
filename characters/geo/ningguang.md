@@ -32,9 +32,9 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 Shoots gems that deal Geo DMG.  
 Upon hit, grants Ningguang 1 **Star Jade**.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Normal Attack | 47.6% x 2 | 25 | 228.48%/s | 1U |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal Attack | 47.6% x 2 | 25 | 228.48%/s | 1U | 45 | 2 |
 
 **Notes**
 * Normal Attacks apply Geo with a shared 3 hit / 2.5s ICD.
@@ -44,10 +44,10 @@ Upon hit, grants Ningguang 1 **Star Jade**.
 Consumes 50 stamina to fire off a giant gem that deals Geo DMG.  
 If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the **Star Jades** to be fired at the enemy as well, dealing additional Geo DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 295.94% | 50 | 355.13%/s | 1U |
-| DMG per Star Jade | 84.32% | 50 | 101.18%/s | 1U |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 295.94% | 50 | 355.13%/s | 1U | 45 | 2 |
+| Star Jade DMG | 84.32% | 50 | 101.18%/s | 1U | 45 | 2 |
 
 **Notes**
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
@@ -59,11 +59,11 @@ If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the 
 **Plunge**  
  Gathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Geo DMG upon impact with the ground.
 
-| Type | Talent 9% | GU |
-| :--- | :--- | :--- |
-| Plunge Impact | 104.41% | ~ |
-| Low Plunge DMG | 208.77% | 1U |
-| High Plunge DMG | 260.76% | 1U |
+| Type | Talent 9% | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | - | 5 | 2 |
+| Low Plunge DMG | 208.77% | 1U | 50 | 3 |
+| High Plunge DMG | 260.76% | 1U | 100 | 4 |
 
 * Low/High Plunge applies Geo and has no ICD.
 
@@ -89,6 +89,8 @@ Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence
 | Damage Element | Geo |
 | Damage Type | Skill |
 | CD | 12s |
+| Poise Damage | 133.2 |
+| Impulse Type | 5 |
 
 **Notes**
 * **Jade Screen** has a 6s cooldown on generating particles, not affected by Elemental Skill cooldown reset or reduction.
@@ -119,6 +121,8 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
+| Poise Damage | 30 |
+| Impulse Type | 5 |
 
 **Notes**
 * When **Starshatter** is cast, gems from **Jade Screen** will use the stats that were snapshotted when the **Jade Screen** was initially cast.

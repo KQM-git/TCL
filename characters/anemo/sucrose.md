@@ -33,14 +33,14 @@ description: An alchemist filled with curiosity about all things. She researches
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 56.89% | 19 | 179.65%/s |
-| 2-Hit | 52.05% | 38 | 172.01%/s |
-| 3-Hit | 65.36% | 70 | 149.4%/s |
-| 4-Hit | 81.46% | 101 | 151.94%/s |
-| Recovery | N/A | 132 | 116.25%/s |
-| GU | 1GU | - | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 56.89% | 19 | 179.65%/s | 5.5 x2 | 1 x2 |
+| 2-Hit | 52.05% | 38 | 172.01%/s | 7.7 | 1 |
+| 3-Hit | 65.36% | 70 | 149.4%/s | 8.75 | 1 |
+| 4-Hit | 81.46% | 101 | 151.94%/s | 16.9 | 1 |
+| Recovery | N/A | 132 | 116.25%/s | - | - |
+| GU | 1GU | - | - | - | - |
 
 **Notes:**  
 * N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
@@ -48,18 +48,18 @@ Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE **Anemo** DMG.
 
-| String | Talent 9% | Frames | MV/s | GU | 
-| :--- | :--- | :--- | :--- | :--
-| Charged Attack | 204.27% | 53 | 231.25%/s | 1GU |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 204.27% | 53 | 231.25%/s | 1GU | 120 | 5 |
 
 **Plunge Damage**  
  Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE **Anemo** DMG upon impact with the ground.
 
-| Type | Talent 9 DMG% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 1GU |
-| Low Plunge DMG | 208.77% | 1GU |
-| High Plunge DMG | 260.76% | 1GU |
+| Type | Talent 9 DMG% | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 1GU | 5 | 2 |
+| Low Plunge DMG | 208.77% | 1GU | 50 | 3 |
+| High Plunge DMG | 260.76% | 1GU | 100 | 4 |
 {% endtab %}
 
 {% tab title="Astable Anemohypostasis Creation-6308" %}
@@ -75,6 +75,8 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | DMG Element | Anemo |
 | DMG Type | Skill |
 | CD | 15s |
+| Poise Damage | 150 |
+| Impulse Type | 7 |
 
 **Notes**
 * When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
@@ -103,6 +105,8 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Energy Cost | 80 | - |
 | Duration | 6s | - |
 | Cooldown | 20s | - |
+| Poise Damage | 150 |
+| Impulse Type | 7 |
 
 **Notes**
 * Absorption priority: Pyro > Hydro > Electro > Cryo 

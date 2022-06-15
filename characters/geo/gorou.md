@@ -26,35 +26,35 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 69.36% | 18 | 231.2%/s |
-| 2-Hit | 68.26% | 37 | 223.17%/s |
-| 3-Hit | 90.85% | 85 | 161.27%/s |
-| 4-Hit | 108.39% | 132 | 153.12%/s |
-| With Recovery | ~ | 162 | 124.76%/s | 
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 69.36% | 18 | 231.2%/s | 13.17 | 1 |
+| 2-Hit | 68.26% | 37 | 223.17%/s | 12.96 | 1 |
+| 3-Hit | 90.85% | 85 | 161.27%/s | 17.25 | 1 |
+| 4-Hit | 108.39% | 132 | 153.12%/s | 20.58 | 1 |
+| With Recovery | ~ | 162 | 124.76%/s | - | - |
 
 **Charged Attack**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal Geo DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 23 | 210.21%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1U |
-| With Recovery | ~ | 94 | 134.55%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 \(Headshot: 5\)
+| With Recovery | - | 23 | 210.21%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1U | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| With Recovery | - | 94 | 134.55%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Fully Charged Charged Attack has no ICD.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Inuzaka All-Round Defense" %}  
@@ -85,6 +85,8 @@ Adjust the location of the skill.
 | Damage Type | Skill |
 | Duration | 10s |
 | CD | 10s |
+| Poise Damage | 80 |
+| Impulse Type | 4 |
 
 **Notes**
 * Gorou counts as one of the Geo characters for **General's War Banner**'s buff condition.
@@ -120,6 +122,8 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 | Energy Cost | 80 | - |
 | Duration | 9s | - |
 | CD | 20s | - |
+| Poise Damage | 40 | 20 |
+| Impulse Type | 4 | 1 |
 
 **Notes**
 * The initial hit of **Juuga: Forward Unto Victory** does not benefit from its own buff.

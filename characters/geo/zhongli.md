@@ -32,15 +32,17 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 **Normal Attacks**  
 Zhongli performs up to 6 consecutive spear strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 56.53% | 8 | 423.98%/s |
-| 2-Hit | 57.23% | 29 | 235.37%/s |
-| 3-Hit | 70.87% | 45 | 246.17%/s |
-| 4-Hit | 78.89% | 71 | 222.69%/s |
-| 5-Hit | 19.75% x 4 \(79%\) | 91 + 97 + 103 + 109 | 188.54%/s |
-| 6-Hit | 100.12% | 153 | 173.58%/s |
-| Recovery | - | 200 | 132.79%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 56.53% | 8 | 423.98%/s | 33.76 | 3 / 4\* |
+| 2-Hit | 57.23% | 29 | 235.37%/s | 34.32 | 3 |
+| 3-Hit | 70.87% | 45 | 246.17%/s | 42 | 3 |
+| 4-Hit | 78.89% | 71 | 222.69%/s | 45.92 | 4 |
+| 5-Hit | 19.75% x 4 \(79%\) | 91 + 97 + 103 + 109 | 188.54%/s | 11.52 x4 | 2 x4 |
+| 6-Hit | 100.12% | 153 | 173.58%/s | 61.52 | 6 |
+| Recovery | - | 200 | 132.79%/s | - | - |
+
+\* If the target is more than 2 meters away.
 
 * Zhongli's string has no hit lag on the spear kick \(N5\).
 * Zhongli's attack string does not always interact with C6 Fischl on his first attack.
@@ -48,18 +50,19 @@ Zhongli performs up to 6 consecutive spear strikes.
 **Charged Attack**  
 Consumes 20 stamina to to lunge forward, causing stone spears to fall along his path.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 260.51% | - | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 203.98% | - | - | 103.28 | Air, 0, 450 |
+| N1C | 260.51% | - | - | - | - |
 
-**Plunge**  
+**Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Dominus Lapidis" %}Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
@@ -98,6 +101,8 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 | Damage Type | Skill | Skill | Skill |
 | Duration | 30s | - | 20s |
 | CD | 4s | - | 12s |
+| Poise Damage | 200 | 0 | 142.9 |
+| Impulse Type | 4 | 1 | 4 |
 
 **Notes**
 * Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
@@ -140,6 +145,8 @@ Opponents affected by **Petrification** cannot move.
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
+| Poise Damage | Cast: 400 <br> Burst: 500 |
+| Impulse Type | Cast: Heavy, 1200, 0 <br> Burst: 2 |
 
 **Notes**
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.

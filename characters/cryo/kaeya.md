@@ -27,23 +27,23 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 {% tabs %}
 {% tab title="Ceremonial Bladework" %}
-**Normal Attacks**  
+**Normal Attack**  
 Kaeya performs up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 98.75% | 14 | 423.21%/s |
-| 2-Hit | 94.96% | 41 | 283.47%/s |
-| 3-Hit | 119.92% | 72 | 261.36%/s |
-| 4-Hit | 130.19% | 128 | 208.04%/s |
-| 5-Hit | 162.11% | 176 | 206.57%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 98.75% | 14 | 423.21%/s | 27.3 | 3 |
+| 2-Hit | 94.96% | 41 | 283.47%/s | 23.4 | 3 |
+| 3-Hit | 119.92% | 72 | 261.36%/s | 44.1 | 3 |
+| 4-Hit | 130.19% | 128 | 208.04%/s | 56.7 | 3 |
+| 5-Hit | 162.11% | 176 | 206.57%/s | 110.6 | 6 |
 
 **Charged Attack**  
 Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Charged Attack | 101.12% + 134.3% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Charged Attack | 101.12% + 134.3% | 45 x2 | 2 + 6 |
 
 | Combo | Frames | MV/s (Talent 9%) |
 | :--- | :--- | :--- |
@@ -51,13 +51,13 @@ Kaeya consumes 25 stamina to unleash 2 rapid strikes.
 
 * All frame counts are done against Ruin Guards.
 
-**Plunge**
+**Plunge Attack**
 
-| Type | Talent 7% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Frostgnaw" %}
@@ -74,6 +74,8 @@ Unleashes a frigid blast, dealing **Cryo** DMG to opponents in front of Kaeya.
 | Damage Element | Cryo |
 | Damage Type | Skill |
 | Cooldown | 6s |
+| Poise Damage | 140 |
+| Impulse Type | 4 |
 
 **Notes**
 * **Frostgnaw** does not have any hitlag.
@@ -99,6 +101,10 @@ These **icicles** will follow the character around and deal Cryo DMG to opponent
 | Energy Cost | 60 |
 | Duration | 8s |
 | Cooldown | 15s |
+| Cast Poise Damage | 400 |
+| Cast Impulse Type | 4 |
+| Icicle Poise Damage | 25 |
+| Icicle Impulse Type | 2 |
 
 **Notes**
 * **Glacial Waltz** does not have any hitlag.

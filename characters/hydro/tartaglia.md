@@ -33,15 +33,15 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 **Normal Attacks**  
 Perform up to 6 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 75.84% | 17 | 267.67%/s |
-| 2-Hit | 85% | 30 | 321.68%/s |
-| 3-Hit | 101.75% | 64 | 246.18%/s |
-| 4-Hit | 104.75% | 101 | 218.22%/s |
-| 5-Hit | 111.86% | 123 | 233.76%/s |
-| 6-Hit | 133.67% | 162 | 226.99%/s |
-| Recovery | -- | 215 | 171.03%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 75.84% | 17 | 267.67%/s | 14.4 | 1 |
+| 2-Hit | 85% | 30 | 321.68%/s | 16.14 | 1 |
+| 3-Hit | 101.75% | 64 | 246.18%/s | 19.32 | 1 |
+| 4-Hit | 104.75% | 101 | 218.22%/s | 19.89 | 1 |
+| 5-Hit | 111.86% | 123 | 233.76%/s | 21.24 | 1 |
+| 6-Hit | 133.67% | 162 | 226.99%/s | 25.38 | 1 |
+| Recovery | - | 215 | 171.03%/s | - | - |
 
 * Recovery of 6th Hit is 53 Frames.
 * MV/s stated is without recovery and assumes a standing combat-neutral startup. 
@@ -55,26 +55,27 @@ Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attack
 • **Riptide Flash**: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.  
 • **Riptide Burst**: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 23 | 210.21%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 94 | 134.55%/s | ~ |
-| Riptide Flash | 21.08% \* 3 | ~ | ~ | 1A |
-| Riptide Burst | 105.4% | ~ | ~ | 2B |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 23 | 210.21%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 94 | 134.55%/s | - | - | - |
+| Riptide Flash | 21.08% \* 3 | - | - | 1A | - | - |
+| Riptide Burst | 105.4% | - | - | 2B | - | - |
+
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
 
-**Plunge**  
+**Plunge Attack**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AOE DMG.  
 When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, he cannot perform a plunge attack.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 10 | 2 |
+| Low Plunge DMG | 234.86% | 50 | 2 |
+| High Plunge DMG | 293.36% | 100 | 3 |
 
 {% endtab %}
 
@@ -92,31 +93,33 @@ Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding
 | Max Duration | 30s |
 | Preemptive CD | 6s ~ 36s |
 | Max CD | 45s |
-* Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
+| Poise Damage | 51.75 |
+| Impulse Type | 3 |
 
 In this Stance, Tartaglia's Normal and Charged Attacks are converted to Hydro DMG that cannot be overridden by any other elemental infusion and change as follows:
 
 **Normal Attack**  
 Perform up to 6 consecutive Hydro strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 71.42% | 7 | 612.17%/s |
-| 2-Hit | 76.47% | 20 | 443.67%/s |
-| 3-Hit | 103.49% | 48 | 314.23%/s |
-| 4-Hit | 110.13% | 80 | 271.13%/s |
-| 5-Hit | 101.59% | 116 | 239.53%/s |
-| 6-Hit | 65.1% + 69.2% | 143 + 165 | 217.24%/s |
-| GU | 1A | ~ | ~ |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 71.42% | 7 | 612.17%/s | 40.68 | 3 |
+| 2-Hit | 76.47% | 20 | 443.67%/s | 43.56 | 3 |
+| 3-Hit | 103.49% | 48 | 314.23%/s | 58.95 | 3 |
+| 4-Hit | 110.13% | 80 | 271.13%/s | 62.73 | 3 |
+| 5-Hit | 101.59% | 116 | 239.53%/s | 57.87 | 3 |
+| 6-Hit | 65.1% + 69.2% | 143 + 165 | 217.24%/s | 37.08 + 39.42 | 6 x2 |
+| GU | 1A | - | - | - | - |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash a cross slash, dealing Hydro DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| N1C | 314.27% | 80 | 235.7%/s | 1A |
-| N2C | 390.74% | 93 | 252.09%/s | 1A |
-| N3C | 494.23% | 125 | 237.23%/s | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 110.6% + 132.25 | - | - | 1A | 63 + 75.33 | 2 + 6 |
+| N1C | 314.27% | 80 | 235.7%/s | 1A | - | - |
+| N2C | 390.74% | 93 | 252.09%/s | 1A | - | - |
+| N3C | 494.23% | 125 | 237.23%/s | 1A | - | - |
 
 * All frame counts are done against a Ruin Guard.
 
@@ -136,12 +139,15 @@ If the return to a ranged stance occurs automatically after 30s, the CD is even 
 | Snapshot | No |
 | Damage Element | Hydro |
 | Damage Type | Skill |
+| Poise Damage | 100 |
+| Impulse Type | 2 |
 
 **Notes**
 * Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
 * **Riptide** and **Riptide Slash** can be applied and triggered by Aimed Shot, both Physical and Hydro, by switching to melee stance before the arrow hits an enemy.  
 * Using this skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**. 
 * Using this skill on the same frame as an attack or burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame) 
+* Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
 
 {% endtab %}
 
@@ -166,6 +172,8 @@ Returns a portion of its Energy Cost after use.
 | Energy Refund | 20 |
 | CD | 15s |
 | MV/s | 611.3%/s |
+| Poise Damage | 200 |
+| Impulse Type | 5 |
 
 **Melee Stance: Light of Obliteration**  
 Performs a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.
@@ -187,6 +195,8 @@ DMG dealt in this way is considered Elemental Burst DMG.
 | Energy Cost | 60 | -- |
 | CD | 15s | -- |
 | MV/s | 505.7%/s | -- |
+| Poise Damage | 250 | 100 |
+| Impulse Type | 7 | 7 |
 
 **Notes**
 * **Riptide Blast** does not snapshot
@@ -268,6 +278,10 @@ Maximum upgrade level is 15.
 
 If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
 **Riptide Slashes** and **Riptide Flashes** triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two **Riptide** effects, nor do they have any effect on those time intervals.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| Riptide Flash: 15 x3 <br>  Riptide Slash: 100 | Riptide Flash: 2 x3 <br> Riptide Slash: 2 |
 
 * This constellation effect is not subject to ICD.
 * All of **Riptide** effects triggered by C4 do not snapshot.

@@ -32,29 +32,29 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 **Normal Attacks**  
 Jean performs up to 5 consecutive attacks.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 88.80% | 14 | 380.57%/s |
-| 2-Hit | 83.74% | 37 | 279.79%/s |
-| 3-Hit | 110.76% | 66 | 257.55%/s |
-| 4-Hit | 121.03% | 124 | 195.64%/s |
-| 5-Hit | 145.52% | 159 | 207.49%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 88.80% | 14 | 380.57%/s | 37.8 | 3 |
+| 2-Hit | 83.74% | 37 | 279.79%/s | 35.1 | 3 |
+| 3-Hit | 110.76% | 66 | 257.55%/s | 48.6 | 3 |
+| 4-Hit | 121.03% | 124 | 195.64%/s | 54 | 3 |
+| 5-Hit | 145.52% | 159 | 207.49%/s | 60.3 | 6 |
 
 **Charged Attack**  
 Consumes 20 stamina to strike upwards and knocks up enemies that will then fall down slowly.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| CA | 297.67% | 73 | 244.66%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 297.67% | 73 | 244.66%/s | 200 | Air, 0, 1050 |
 * The Charged Attack visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
 **Plunge**
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Gale Blade" %}
@@ -78,6 +78,8 @@ Character is immobile during skill duration.
 | Damage Type | Skill |
 | Max Duration | 5s |
 | CD | 6s | 
+| Poise Damage | 250 |
+| Impulse Type | 9 |
 
 **Notes**
 * Costs 20 stamina per second to hold.
@@ -115,6 +117,10 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 | Energy Cost | 80 |
 | Duration | 10s |
 | CD | 20s | 
+| Burst Poise Damage | 400 | 4 |
+| Burst Impulse Type | 4 |
+| Field Enter/Exit Poise Damage | 50 |
+| Field Enter/Exit Impulse Type | 2 |
 
 **Notes**
 * Cast also knocks away light enemies.

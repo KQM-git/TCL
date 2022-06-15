@@ -32,14 +32,14 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.05% | 10 | 486.3%/s |
-| 2-Hit | 85.95% | 28 | 357.86%/s |
-| 3-Hit | 106.81% | 61 | 269.32%/s |
-| 4-Hit | 106.02% | 102 | 223.43%/s |
-| 5-Hit | 132.4% | 131 | 234.61%/s |
-| With Recovery | 512.23% | 182 | 168.87%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.05% | 10 | 486.3%/s | 12 | 1 |
+| 2-Hit | 85.95% | 28 | 357.86%/s | 12.9 | 1 |
+| 3-Hit | 106.81% | 61 | 269.32%/s | 15.9 | 1 |
+| 4-Hit | 106.02% | 102 | 223.43%/s | 15.6 | 1 |
+| 5-Hit | 132.4% | 131 | 234.61%/s | 19.71 | 1 |
+| With Recovery | 512.23% | 182 | 168.87%/s | - | - |
 
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 
@@ -47,22 +47,22 @@ Perform up to 5 consecutive shots with a bow.
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 25 | 193.392%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 96 | 131.75%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 25 | 193.392%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 96 | 131.75%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge Impact | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Nightrider" %}
@@ -83,6 +83,8 @@ Press again any time during the ability's duration to once again summon him to F
 | Damage Type | Skill |
 | Summon CD | 25s |
 | Reposition CD | 1s |
+| Poise Damage | 80 |
+| Impulse Type | 2 |
 
 **Notes**
 * When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
@@ -101,6 +103,8 @@ Press again any time during the ability's duration to once again summon him to F
 | Total Hits | 10 |
 | Damage Element | Electro |
 | Damage Type | Skill |
+| Poise Damage | 10 |
+| Impulse Type | 1 |
 
 **Notes**
 * **Oz** is able to target Baron Bunny after Fischl’s Ascension 1 passive, **Stellar Predator** is triggered, despite having no enemies nearby. The passive may or may not deliver a **Thundering Retribution** onto the Baron Bunny.
@@ -130,6 +134,8 @@ Has the following properties during the ability's duration:
 | Energy Cost | 60 |
 | Duration | 2s |
 | CD | 15s |
+| Poise Damage | 150 |
+| Impulse Type | 3 |
 
 **Notes**
 * Fischl may not attack, cast, or dash during the duration of this ability. 
@@ -164,6 +170,8 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering R
 | GU | 2B |
 | Damage Element | Electro |
 | Damage Type | Charged Attack |
+| Poise Damage | 40 |
+| Impulse Type | 1 |
 
 * This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.  
 * The AoE Electro DMG is calculated as a raw multiplier to Fischl's Aimed Shot Base DMG, not as a normal DMG Bonus.  
@@ -183,6 +191,8 @@ If your current active character triggers an **Electro-related Elemental Reactio
 | ICD | None |
 | Damage Elemental | Electro |
 | Damage Type | Skill |
+| Poise Damage | 40 |
+| Impulse Type | 1 |
 
 **Notes**
 * There is a **0.5s** timer between A4 procs.
@@ -206,6 +216,8 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 | Joint Attack | 22% |
 | Damage Element | Physical |
 | Damage Type | Normal Attack |
+| Poise Damage | 30 |
+| Impulse Type | 0 |
 
 * This is an echo effect.
 
@@ -245,6 +257,8 @@ When the skill duration ends, Fischl regenerates 20% of her HP.
 | GU | 2B |
 | ICD | Shared With **Midnight Phantasmagoria** |
 | Damage Type | Elemental Burst |
+| Poise Damage | 500 |
+| Impulse Type | 2 |
 
 * C4 can crit and has separate crit rolls from Q.
 * C4 damage occurs before Q (higher priority)
@@ -276,6 +290,8 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 | Damage Element | Electro |
 | Damage Type | Skill |
 | Duration | 12s |
+| Poise Damage | 10 |
+| Impulse Type | 0 |
 
 **Notes**
 * **C6** joint attacks share ICD with **Oz's** Normal Attacks.

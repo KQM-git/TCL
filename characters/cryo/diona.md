@@ -33,27 +33,27 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-hit | 66.36% | 16 | 248.85%/s |
-| 2-Hit | 61.62% | 37 | 207.54%/s |
-| 3-Hit | 83.74% | 67 | 189.6%/s |
-| 4-Hit | 79% | 101 | 172.7%/s |
-| 5-Hit | 98.75% | 152 | 153.74%/s |
-| With Recovery | 389.47% | 190 | 122.99%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-hit | 66.36% | 16 | 248.85%/s | 12.6 | 1 |
+| 2-Hit | 61.62% | 37 | 207.54%/s | 11.7 | 1 |
+| 3-Hit | 83.74% | 67 | 189.6%/s | 15.9 | 1 |
+| 4-Hit | 79% | 101 | 172.7%/s | 15 | 1 |
+| 5-Hit | 98.75% | 152 | 153.74%/s | 18.75 | 1 |
+| With Recovery | 389.47% | 190 | 122.99%/s | - | - |
 
-**Aimed Shot**  
+**Charged Attack**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Cryo DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 23 | 210.21%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 94 | 134.55%/s | ~ |
-| C4 Fully Charged | 210.8% | 50 | 252.96%/s | 1A |
-| With Recovery | ~ | 58 | 218.07%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 23 | 210.21%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 94 | 134.55%/s | - | - | - |
+| C4 Fully Charged | 210.8% | 50 | 252.96%/s | 1A | <!--- not on the sheet--> | <!--- not on the sheet--> |
+| With Recovery | - | 58 | 218.07%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
 * Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
@@ -61,11 +61,11 @@ A fully charged shot will deal Cryo DMG.
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Icy Paws" %}
@@ -91,6 +91,8 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | Damage Element | Cryo | Cryo | 
 | Damage Type | Skill | Skill |
 | CD | 6s | 15s |
+| Poise Damage | 30 | 30 |
+| Impulse Type | 2 | 2 |
 
 | Attribute | Shield | 
 |:--- | :--- |
@@ -124,6 +126,8 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | GU | 1A |
 | CD | 20s |
 | Energy Cost | 80 |
+| Poise Damage | 50 |
+| Impulse Type | 2 |
 
 | Attribute | Field |
 | :--- |:---|
@@ -134,6 +138,8 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | Duration | 12s |
 | Tick Rate| 2s | 
 | C6 Buff Duration | 2s |
+| Poise Damage | 50 |
+| Impulse Type | 1 |
 
 **Notes**
 * C6 buff applies on swap.

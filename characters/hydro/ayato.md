@@ -27,32 +27,33 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 **Normal Attack**  
 Perform up to 5 rapid strikes.  
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 82.60% | 13 | 381.23%/s |
-| 2-Hit | 86.64% | 43 | 173.28%/s |
-| 3-Hit | 107.68% | 73 | 215.36%/s |
-| 4-Hit | 54.10% x2 | 111 | 170.84%/s |
-| 5-Hit | 138.90% | 159 | 173.63%/s |
-| Recovery | - | 191 | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 82.60% | 13 | 381.23%/s | 47.053 | 3 |
+| 2-Hit | 86.64% | 43 | 173.28%/s | 49.351 | 3 |
+| 3-Hit | 107.68% | 73 | 215.36%/s | 61.339 | 3 |
+| 4-Hit | 54.10% x2 | 111 | 170.84%/s | 30.819 x2 | 3 x2 |
+| 5-Hit | 138.90% | 159 | 173.63%/s | 79.121 | 6 |
+| Recovery | - | 191 | - | - | - |
 
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to dash forward and perform an iai.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 320.57% | 13 + 54 | 356.19%/s | 
-| Recovery | - | 84 | - | 
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 327.97% | - | - | 120 | 7 |
+| N1C | 320.57% | 13 + 54 | 356.19%/s | - | - |
+| Recovery | - | 84 | - | - | - |
 
-**Plunge**  
+**Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Kamisato Art: Kyouka" %}
@@ -81,15 +82,17 @@ It also has the following properties:
 | Damage Type | Skill |
 | Duration | 6s |
 | CD | 12s | 
+| Water Illusion Poise Damage | 100 |
+| Water Illusion Impulse Type | 3 |
 
 **Shunsuiken Attack**  
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Shunsuiken 1-Hit | 97.17% | - | - |
-| Shunsuiken 2-Hit | 108.23% | - | - |
-| Shunsuiken 3-Hit | 119.29% | - | - |
-| Recovery | - | - | - |
-| GU | 1A | - | - | 
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Shunsuiken 1-Hit | 97.17% | - | - | 50 | 3 |
+| Shunsuiken 2-Hit | 108.23% | - | - | 50 | 3 |
+| Shunsuiken 3-Hit | 119.29% | - | - | 50 | 3 |
+| Recovery | - | - | - | - | - |
+| GU | 1A | - | - |  - | - |
 
 **Notes:**  
 * Shunsuiken Attacks can hit enemies inside of Venti's [Wind's Grand Ode](../anemo/venti.md#attacks).
@@ -117,6 +120,8 @@ While this space exists, Bloomwater Blades will constantly rain down and attack 
 | Energy Cost | 80 |
 | Duration | 18 |
 | CD | 20 | 
+| Poise Damage | 50 |
+| Impulse Type | 2 |
 
 **Notes:**
 * **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) \(tracking and mechanic-wise with one less, so hit\-miss\-miss\-miss against one enemy\) but slower.
@@ -189,6 +194,10 @@ Maximum upgrade level is 15.
 
 After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.  
 Both these Shunsuiken attacks will not be affected by Namisen.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 50 | 2 |
 
 **Notes**
 

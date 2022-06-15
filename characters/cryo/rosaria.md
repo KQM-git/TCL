@@ -31,29 +31,30 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 
-| String | Talent 9% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 96.38% | 10 | 578.28%/s |
-| 2-Hit | 94.8% | 36 | 318.63%/s |
-| 3-Hit | 58.46% x 2 | 71 + 81 | 228.22%/s |
-| 4-Hit | 127.98% | 115 | 227.52%/s |
-| 5-Hit | 76.47% + 79% | 159 + 175 | 202.82%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 96.38% | 10 | 578.28%/s | 48.8 | 3 |
+| 2-Hit | 94.8% | 36 | 318.63%/s | 48 | 3 |
+| 3-Hit | 58.46% x 2 | 71 + 81 | 228.22%/s | 29.6 x2 | 3 x2|
+| 4-Hit | 127.98% | 115 | 227.52%/s | 64.8 | 4 |
+| 5-Hit | 76.47% + 79% | 159 + 175 | 202.82%/s | 39.36 x2 | 3 + 6 |
 
 **Charged Attack**  
 Rosaria consumes 25 stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 9 DMG% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| N1C | 347.6% | 89 | 234.34%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 251.22% | - | - | 120 | 5 |
+| N1C | 347.6% | 89 | 234.34%/s | - | - |
 
 **Plunge Attack**  
 Rosaria plunges to the ground from mid-air, damaging opponents along the way and dealing AoE damage upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Ravaging Confession" %}
@@ -71,6 +72,8 @@ This ability cannot be used to travel behind opponents of a larger build.
 | Damage Element | Cryo |
 | Damage Type | Skill |
 | CD | 6s |
+| Poise Damage | 50 + 100 |
+| Impulse Type | 3 + \(Air, 260, 600\) |
 
 **Notes**
 * Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
@@ -96,6 +99,10 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 | Duration | 8s |
 | Tick Rate | 2s |
 | Cooldown | 15s |
+| Cast Poise Damage | 100 |
+| Cast Impulse Type | Air, 260, 650 |
+| Ice Lance Poise Damage | 50 |
+| Ice Lance Impulse Type | 2 |
 
 {% endtab %}
 {% endtabs %}

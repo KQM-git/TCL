@@ -32,35 +32,35 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 **Normal Attack**  
 Perform up to 6 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV\s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 37.45% x 2 | 11 + 21 | 214%/s |
-| 2-Hit DMG | 81.53% | 44 | 213.31%/s |
-| 3-Hit DMG | 96.22% | 90 | 168.43%/s |
-| 4-Hit DMG | 47.87% x 2 | 111 + 123 | 169.95%/s |
-| 5-Hit DMG | 93.06% | 140 | 189.19%/s |
-| 6-Hit DMG | 130.35% | 191 | 179.62%/s |
+| String | Talent 9% | Frames | MV\s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 37.45% x 2 | 11 + 21 | 214%/s | 6 x2 | 1 x2 |
+| 2-Hit DMG | 81.53% | 44 | 213.31%/s | 13.8 | 1 |
+| 3-Hit DMG | 96.22% | 90 | 168.43%/s | 15.6 | 1 |
+| 4-Hit DMG | 47.87% x 2 | 111 + 123 | 169.95%/s | 7.68 x2 | 1 x2 |
+| 5-Hit DMG | 93.06% | 140 | 189.19%/s | 15 | 1 |
+| 6-Hit DMG | 130.35% | 191 | 179.62%/s | 20.4 | 1 |
 
 **Charged Attack**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Anemo DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 23 | 210.21%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 94 | 134.55%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 | 2 \(Headshot: 5\) |
+| With Recovery | - | 23 | 210.21%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 | 2 \(Headshot: 5\) |
+| With Recovery | - | 94 | 134.55%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Skyward Sonnet" %}
@@ -84,6 +84,8 @@ Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 | Damage Element | Anemo | Anemo | 
 | Damage Type | Skill | Skill |
 | Cooldown | 6s | 15s |
+| Poise Damage | 150 | 150 |
+| Impulse Type | 7 | 7 |
 
 **Notes**
 * Doing an auto attack as soon as possible after using the press version of **Skyward Sonnet** allows the user to swap to a different character faster.
@@ -114,6 +116,8 @@ This can only occur once per use.
 | Damage Type | Burst | Burst |
 | CD | 15s | - |
 | Energy Cost | 60 | - |
+| Poise Damage | 4 | 0 |
+| Impulse Type | 2 | 0 |
 
 **Notes**
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
@@ -159,6 +163,13 @@ If an **Elemental Absorption** occurred, this also restores 15 Energy to all cha
 ### **Splitting Gales**
 
 Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG.
+
+| Attack | Poise Damage | Impulse Type |
+| :--- | :--- | :--- |
+| Aimed Shot Extra Arrow | 1 | 2 |
+| Aimed Shot Extra Arrow \(Headshot\) | 3 | 5 |
+| Fully Charged Extra Arrow | 2 | 2 |
+| Fully Charged Extra Arrow \(Headshot\) | 6 | 5 |
 
 * Venti’s C1 damage instance is considered CA damage.
 {% endtab %}

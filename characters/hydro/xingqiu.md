@@ -33,31 +33,32 @@ description: A young man carrying a longsword who is frequently seen at book boo
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 85.64% | 9 | 570.93%/s |
-| 2-Hit | 87.53% | 34 | 305.59%/s |
-| 3-Hit | 52.46% \(x2\) | 59 / 78 | 213.92%/s |
-| 4-Hit | 102.86% | 116 | 197.04%/s |
-| 5-Hit | 65.89% \(x2\) | 160 / 195 | 157.76%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 85.64% | 9 | 570.93%/s | 47.7 | 3 |
+| 2-Hit | 87.53% | 34 | 305.59%/s | 49.5 | 3 |
+| 3-Hit | 52.46% \(x2\) | 59 / 78 | 213.92%/s | 29.3 x2 | 3 x2 |
+| 4-Hit | 102.86% | 116 | 197.04%/s | 57.6 | 3 |
+| 5-Hit | 65.89% \(x2\) | 160 / 195 | 157.76%/s | 36.81 x2 | 6 x2 |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 218.13% | 63 | 262.58%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 86.9% + 103.17% | - | - | 50.3 x2 | 2 + 6 |
+| N1C | 218.13% | 63 | 262.58%/s | - | - |
 
 * Enemies struck by Xingqiu's charged attack will be staggered or launched.
 
 **Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Guhua Sword: Fatal Rainscreen" %}
@@ -83,6 +84,8 @@ Using this ability applies the Wet status onto the character.
 | Damage Element | Hydro |
 | Damage Type | Skill |
 | CD | 21s |
+| Poise Damage | 120 x2 |
+| Impulse Type | 3 x2 |
 
 | Attribute | Rain Swords |
 | :--- | :--- |
@@ -126,6 +129,10 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 | Energy Cost | 80 |
 | Duration | 15s |
 | CD | 20s |
+| Poise Damage | Cast: 400 <br> Sword Rain: 25 |
+| Impulse Type | Cast: 4 <br> Sword Rain: 0 / 1\* |
+
+\* Only the right one in 2, center one in 3, and center one in 5.
 
 **Notes**
 * The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.

@@ -33,13 +33,13 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 **Normal Attacks**  
 Beidou performs up to 5 consecutive attacks.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 130.67% | 23 | 340.88%/s |
-| 2-Hit | 130.19% | 66 | 237.15%/s |
-| 3-Hit | 162.27% | 134 | 189.46%/s |
-| 4-Hit | 158.95% | 178 | 196.21%/s |
-| 5-Hit | 206.03% | 246 | 192.22%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 130.67% | 23 | 340.88%/s | 85.67 | 3 |
+| 2-Hit | 130.19% | 66 | 237.15%/s | 85.33 | 3 |
+| 3-Hit | 162.27% | 134 | 189.46%/s | 106.37 | 3 |
+| 4-Hit | 158.95% | 178 | 196.21%/s | 104.19 | 3 |
+| 5-Hit | 206.03% | 246 | 192.22%/s | 135.12 | 6 |
 
 **Notes**  
 Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
@@ -51,10 +51,10 @@ Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% 
 Beidou consumes 40 stamina a second to perform continuous slashes.  
 At the end of the 5 seconds, perform a more powerful slash.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Slash | 103.33% | 35 | 177.14%/s |
-| Final Slash | 187.07% | 32 | 350.76/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spinning DMG | 103.33% | 35 | 177.14%/s | 60 | 3 |
+| Final DMG | 187.07% | 32 | 350.76/s | 120 | 6 |
 
 **Notes**
 * Charged Attack wind up is 71 frames long.
@@ -63,11 +63,11 @@ At the end of the 5 seconds, perform a more powerful slash.
 **Plunge**  
 Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge Impact | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Tidecaller" %}
@@ -97,6 +97,8 @@ The shield possesses the following properties:
 | Damage Type | Skill | Skill |
 | Duration | - | upto 3s |
 | CD | 7.5s | 7.5s |
+| Poise Damage | 100 | 1 stack: 200 <br> 2 stacks: 300 |
+| Impulse Type | 4 | 1 stack: 4 <br> 2 stacks: 6 |
 
 | Attribute | Shield \(Talent 9%\) |
 | :--- | :--- |
@@ -142,6 +144,8 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 | Energy Cost | 80 | - |
 | Duration | 15s | 15s |
 | Cooldown | 20s | 1s |
+| Poise Damage | 400 | 50 |
+| Impulse Type | 4 | 1 |
 
 **Notes**
 * Beidou's **lightning discharges** have 3 damage instances with 2 targets or more.
@@ -221,6 +225,8 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 | ICD | 3 hit / 2.5s | 
 | Damage Element | Electro | 
 | Damage Type | None |
+| Poise Damage | 30 |
+| Impulse Type | 0 |
 
 **Notes**
 * **Stunning Revenge** DMG has 3 hit / 2.5s ICD and shares ICD on Normal Attack, Charged Attack and with **Stormbreaker**'s **lightning discharges**. 

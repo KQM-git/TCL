@@ -30,33 +30,34 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s |
-| 2-Hit DMG | 72.52% | 48 | 185%/s |
-| 3-Hit DMG | 88.8% | 85 | 167.15%/s |
-| 4-Hit DMG | 110.41% | 128 | 162.75%/s |
-| Recovery | ~ | ~ | ~ |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s | 7.65 x2 | 1 x2 |
+| 2-Hit DMG | 72.52% | 48 | 185%/s | 14.7 | 1 |
+| 3-Hit DMG | 88.8% | 85 | 167.15%/s | 18 | 1 |
+| 4-Hit DMG | 110.41% | 128 | 162.75%/s | 22.38 | 1 |
+| Recovery | - | - | - | - | - |
+* Both Poise Damage and Impulse Type are the same for regular Normal Attacks and Normal Attacks during **Rushing Ice** state.
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG. While aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal Cryo DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 25 | 193.392%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 96 | 131.75%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 25 | 193.392%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 96 | 131.75%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Frozen Wilds" %}
@@ -82,6 +83,8 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.
 | Damage Element | Cryo | Cryo |
 | Damage Type | Skill | Skill |
 | CD | 20s | - | 
+| Poise Damage | 120 | 30 |
+| Impulse Type | 2 | 3 |
 
 | Attribute                           | Talent 9 Data        |
 | ----------------------------------- | -------------------- |
@@ -116,7 +119,9 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Damage Element | Cryo |
 | Damage Type | Burst |
 | Energy Cost | 40 |
-| CD | 12 s |
+| CD | 12s |
+| Poise Damage | 200 |
+| Impulse Type | 3 |
 
 {% endtab %}
 {% endtabs %}

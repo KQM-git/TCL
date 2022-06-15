@@ -29,36 +29,33 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.69% | 14 | 350.1%/s |
-| 2-Hit | 79.79% | 43 | 225.32%/s |
-| 3-Hit | 97.33% | 80 | 194.11%/s |
-| 4-Hit | 107.12% | 116 | 189.27%/s |
-| 5-hit | 130.03% | 148 | 201.06%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.69% | 14 | 350.1%/s | 40.5 | 3 |
+| 2-Hit | 79.79% | 43 | 225.32%/s | 39.6 | 3 |
+| 3-Hit | 97.33% | 80 | 194.11%/s | 48.6 | 3 |
+| 4-Hit | 107.12% | 116 | 189.27%/s | 54.0 | 3 |
+| 5-hit | 130.03% | 148 | 201.06%/s | 64.8 | 6 |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Charged Attack | 102.7% + 132.72% |
-
-| Combo | Frames | MV/s |
-| :--- | :--- | :--- |
-| N1C | 62 | 306.89%/s |
-| N2C | 84 | 283.5%/s |
-| N3C | 115 | 260.12%/s |
-| N4C | 160 | 225.51%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 102.7%+132.72% | - | - | 50.6 x2 | 2 + 6 |
+| N1C | 317.11% | 62 | 306.89%/s | - | - |
+| N2C | 396.90% | 84 | 283.5%/s | - | - |
+| N3C | 494.23% | 115 | 260.12%/s | - | - |
+| N4C | 601.35% | 160 | 225.51%/s | - | - |
 
 **Plunge**  
- Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 
 {% endtab %}
 
@@ -68,36 +65,33 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.69% | 13 | 377.03%/s |
-| 2-Hit | 79.79% | 38 | 254.97%/s |
-| 3-Hit | 97.33% | 71 | 218.71%/s |
-| 4-Hit | 107.12% | 123 | 178.5%/s |
-| 5-hit | 130.03% | 163 | 182.56%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.69% | 13 | 377.03%/s | 41.4 | 3 |
+| 2-Hit | 79.79% | 38 | 254.97%/s | 43.2 | 3 |
+| 3-Hit | 97.33% | 71 | 218.71%/s | 53.1 | 3 |
+| 4-Hit | 107.12% | 123 | 178.5%/s | 57.6 | 3 |
+| 5-hit | 130.03% | 163 | 182.56%/s | 70.2 | 6 |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Charged Attack | 102.7% + 111.55% |
-
-| Combo | Frames | Motion Value |
-| :--- | :--- | :--- |
-| N1C | 54 | 328.82%/s |
-| N2C | 90 | 250.49%/s |
-| N3C | 115 | 246.81%/s |
-| N4C | 160 | 217.57%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 102.7%+111.55% | - | - | 50.6 x2 | 2 + 6 |
+| N1C | 295.94% | 54 | 328.82%/s | - | - |
+| N2C | 297.26% | 90 | 250.49%/s | - | - |
+| N3C | 374.26% | 115 | 246.81%/s | - | - |
+| N4C | 459.01% | 160 | 217.57%/s | - | - |
 
 **Plunge**  
- Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 
 {% endtab %}
 
@@ -121,6 +115,8 @@ When a character is near an Abundance Amulet, they will absorb it and obtain the
 | Damage Element | Electro |
 | Damage Type | Skill |
 | CD | 13.5s |
+| Poise Damage | 100 |
+| Impulse Type | 3 |
 
 | Attribute | Abundance Amulet (Talent 9%) |
 | :--- | :--- |
@@ -162,6 +158,8 @@ One instance of **Falling Thunder** can be generated every 0.5s.
 | Energy Cost | 80 |
 | Duration | 12s |
 | CD | 20s |
+| Poise Damage | Cast: 150 <br> Falling Thunder: 50 |
+| Impulse Type | Cast: 3 <br> Falling Thunder: 2 |
 
 **Notes**
 * The energy regenerated from **Falling Thunder** is classified as flat energy.

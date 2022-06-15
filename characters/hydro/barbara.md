@@ -30,31 +30,31 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.33% | 7 | 551.4%/s | 1A |
-| 2-Hit | 60.38% | 25 | 299.3%/s | 1A |
-| 3-Hit | 69.77% | 45 | 259.31%/s | 1A |
-| 4-Hit | 93.84% | 92 | 188.03%/s | 1A | 
-| With Recovery | 288.32% | 123 | 140.64%/s | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 64.33% | 7 | 551.4%/s | 1A | 7.35 | 1 |
+| 2-Hit | 60.38% | 25 | 299.3%/s | 1A | 7.5 | 1 |
+| 3-Hit | 69.77% | 45 | 259.31%/s | 1A | 7.5 | 1 |
+| 4-Hit | 93.84% | 92 | 188.03%/s | 1A | 9.45 | 2 |
+| With Recovery | 288.32% | 123 | 140.64%/s | 1A | - | - |
 
 * 3 hits / 2.5s ICD
 
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro DMG after a short casting time.
 
-| String | Talent 9% | Frames | MV/s | GU | ICD |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 282.61% | 90 | 188.41%/s | 1A | 0.5s |
+| String | Talent 9% | Frames | MV/s | GU | ICD | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 282.61% | 90 | 188.41%/s | 1A | 0.5s | 30 | 3 |
 
 **Plunge Attack**  
 Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 9% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 1A |
-| Low Plunge DMG | 208.77% | 1A |
-| High Plunge DMG | 260.76% | 1A |
+| Type | Talent 9% | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 1A | 5 | 2 |
+| Low Plunge DMG | 208.77% | 1A | 50 | 3 |
+| High Plunge DMG | 260.76% | 1A | 100 | 4 |
 {% endtab %}
 
 {% tab title="Let the Show Begin♪" %}
@@ -76,6 +76,8 @@ Summons water droplets resembling musical notes that form a Melody Loop, dealing
 | GU | 1A |
 | Duration | 15s |
 | Cooldown | 32s |
+| Poise Damage | Droplet: 40 <br> Hydro app.: 0 |
+| Impulse Type | Droplet: 4 <br> Hydro app.: 0 |
 
 **Notes**
 * Cast time can be reduced by performing a swap cancel.  

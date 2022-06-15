@@ -9,7 +9,7 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 * [Mona Mains Discord](https://discord.gg/uxVEDkTyRe)
 * [Full Mona Written Guide: The Astrological Guide to Mona Megistus](https://keqingmains.com/mona/)
 * [Optimal Mona Attack String](../../evidence/characters/hydro/mona.md#what-attack-string-combo-outputs-the-highest-dps-for-mona) *by Baezal\#0868*
-* [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) *by Gibbigobo\#9750(aka LACola)*
+* [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) *by Gibbigobo\#9750 \(aka LACola\)*
 
 
 ## ![](../../.gitbook/assets/element_hydro.png) Mona
@@ -35,13 +35,13 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 63.92% | 18 | 213.07%/s | 1A |
-| 2-Hit | 61.2% | 41 | 183.1%/s | 1A |
-| 3-Hit | 76.16% | 74 | 163.2%/s | 1A |
-| 4-Hit | 95.47% | 113 | 157.56%/s | 1A |
-| With Recovery | 296.75% | 154 | 115.62%/s | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 63.92% | 18 | 213.07%/s | 1A | 7.62 | 1 |
+| 2-Hit | 61.2% | 41 | 183.1%/s | 1A | 7.35 | 1 |
+| 3-Hit | 76.16% | 74 | 163.2%/s | 1A | 9.15 | 1 |
+| 4-Hit | 95.47% | 113 | 157.56%/s | 1A | 11.85 | 2 |
+| With Recovery | 296.75% | 154 | 115.62%/s | 1A | - | - |
 
 * Frame counts are done using M1 Spams.
 * Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
@@ -50,11 +50,11 @@ Perform up to 4 water splash attacks that deal Hydro DMG.
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 254.52% | 107 | 142.72% | 1A |
-| N2C | 379.64% | 141 | 161.55% | ~ |
-| N3C | 451.32% | 197 | 137.46% | ~ |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 254.52% | 107 | 142.72% | 1A | 26.15 | 3 |
+| N2C | 379.64% | 141 | 161.55% | - | - | - |
+| N3C | 451.32% | 197 | 137.46% | - | - | - |
 
 * Charged Attack frame counts are done using Timed M1 Spams
 * N2C and N3C frame counts are done using the same method without Jump Cancels.
@@ -63,11 +63,11 @@ Consume 50 Stamina to deal AoE Hydro damage after a short casting time.
 **Plunge Attack**  
 Gathering the might of Hydro, Mona plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 9% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 1A |
-| Low Plunge DMG | 208.77% | 1A |
-| High Plunge DMG | 260.76% | 1A |
+| Type | Talent 9% | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 1A | 5 | 2 |
+| Low Plunge DMG | 208.77% | 1A | 50 | 3 |
+| High Plunge DMG | 260.76% | 1A | 100 | 4 |
 
 {% endtab %}
 
@@ -96,6 +96,8 @@ Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 | Damage Type | Skill | Skill |
 | Duration | 5s | - |
 | CD | 12s | - |
+| Poise Damage | 40 | 150 |
+| Impulse Type | 2 | 3 |
 
 **Notes**
 * Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
@@ -117,6 +119,8 @@ Applies the Wet status to nearby opponents when she reappears.
 | Stamina Drain | 15/s |
 | Hydro Application GU | 1A |
 | ICD | 3 hits / 2.5s |
+| Poise Damage | 0 |
+| Impulse Type | 2 |
 
 **Notes**
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
@@ -151,6 +155,8 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 | Energy Cost | 60 | - |
 | Duration | 8s | 4.5s |
 | CD | 15s | - | 
+| Poise Damage | Bubble Application: 50 <br> Bubble Explosion: 200 | - |
+| Impulse Type | 1 | - |
 
 **Notes**
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.
@@ -224,6 +230,10 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 
 When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.
 This effect can only occur once every 5s.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 26.15 | 3 |
 
 * This Charged Attack is not fast enough to do an automatic double Vaporize.
 * No ICD

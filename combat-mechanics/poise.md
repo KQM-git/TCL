@@ -19,7 +19,7 @@ If you come across any unknown terms, there is a section in the [glossary](../th
 
 ## Poise
 
-All units have a hidden poise bar which decreases when receiving attacks that deal **poise damage**. When the poise bar is depleted to 0, the unit becomes **vulnerable**.
+All units have a hidden poise bar which decreases when receiving attacks that deal **poise damage**. When the poise bar is depleted to 0, the unit becomes **vulnerable**. This can be found in each character's attack tables.
 
 $$
 Actual Poise Damage = Poise Damage * Vulnerability
@@ -82,15 +82,23 @@ During the stagger animation, an enemy is **still considered vulnerable**. Meani
 
 > C4 Bennett uses a fully-charged level 1 elemental skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
 
-## Stagger Levels
+## Impulse Types
 
 When a target is in the **vulnerable** status, the next attack received may stagger them depending on the level of the stagger.
 
-* Level 0: Nothing happens after being hit.
-* Level 1: The enemy will shake a bit after being hit.
-* Level 2: The enemy will be pushed back short to medium distance
-* Level 3: The enemy will be thrown through the air a medium to long distance.
-* Level 4: The enemy will be thrown into the air and spun.
+| Common Impulse Type | Stagger Level | Horizontal Force | Vertical Force |
+| :--- | :--- | :--- | :--- |
+| Default | Mute | 0 | 0 |
+| Level 0 | Mute | 0 | 0 |
+| Level 1 | Shake | 0 | 0 |
+| Level 2 | Light | 200 | 0 |
+| Level 3 | Heavy | 200 | 0 |
+| Level 4 | Heavy | 800 | 0 |
+| Level 5 | Air | 480 | 600 |
+| Level 6 | Air | 655 | 800 |
+| Level 7 | Air | 0 | 800 |
+| Level 8 | Air | 795 | 900 |
+| Level 9 | Air | 1200 | 600 |
 
 ## Force
 
@@ -115,15 +123,16 @@ When a target is in the **vulnerable** status, the next attack received may stag
 > Chongyun’s N1 can stagger a Mitachurl at **Level 4** in the center of Venti’s burst, but can’t when a Mitachurl is standing on the ground. This indicates that the ground exerts a drag force.  
 > Ningguang’s charged attack with 2 star jades can only cause a **Level 2 Stagger** on an Anemoboxer standing on the ground, but can cause a **Level 3 Stagger** on an Anemoboxer standing on the edge of a meteorite cast by Geo Traveler.
 
-## **Credits**
+## Credits
 
 **Writer:** Neptunya\#8291 and \[Neko\]\#3521
 
 ## External Links
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Poise)
+* [Poise Damage and Impulse Type Database](https://docs.google.com/spreadsheets/d/1kANgUXYaUvh5vv31sGYM28kK6MXtW8rx/edit?usp=sharing&ouid=100059362950298098203&rtpof=true&sd=true)
 
-## Evidence Vault:
+## Evidence Vault
 
 {% page-ref page="../evidence/combat-mechanics/poise.md" %}
 

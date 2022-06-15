@@ -33,34 +33,34 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 Eula performs up to 5 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 164.86% | 30 | 329.72%/s |
-| 2-Hit | 171.87% | 58 | 348.34%/s |
-| 3-Hit | 104.35% x2 | 126 | 259.73%s |
-| 4-Hit | 206.95% | 161 | 280.39% |
-| 5-Hit | 131.97% x2 | 250 | 243.92% |
-| With Recovery | ~ | 305 | 199.93% |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 164.86% | 30 | 329.72%/s | 101.2 | 105.8 |
+| 2-Hit | 171.87% | 58 | 348.34%/s | 105.8 | 3 |
+| 3-Hit | 104.35% x2 | 126 | 259.73%s | 65.55 x2 | 3 |
+| 4-Hit | 206.95% | 161 | 280.39% | 129.95 | 3 |
+| 5-Hit | 131.97% x2 | 250 | 243.92% | 69.21 x2 | 6 |
+| With Recovery | - | 305 | 199.93% | - | - |
 
 **Charged Attack**
 
 Eula drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Spinning DMG | 126.4% |
-| Final DMG | 228.55% |
-| Stamina Cost | 40/s |
-| Max Duration | 5s |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Spinning DMG | 126.4% | 60 | 3 |
+| Final DMG | 228.55% | 120 | 6 |
+| Stamina Cost | 40/s | - | - |
+| Max Duration | 5s | - | - |
 
 **Plunge Attack**  
 Eula plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE damage upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Icetide Vortex" %}  
@@ -89,6 +89,8 @@ Each consumed stack of **Grimheart** will be converted into an **Icewhirl Brand*
 | Damage Element | Cryo | Cryo | Cryo | 
 | Damage Type | Skill | Skill | Skill | 
 | CD | 4s | 10s | - |
+| Poise Damage | 120 | 150 | 50 |
+| Impulse Type | 3 | 5 | 1 |
 
 * Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
 
@@ -129,6 +131,10 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 | Energy Cost | 80 | - | 
 | Duration | - | 7s | 
 | CD | 20s | - | 
+| Poise Damage | 0\* | 400 |
+| Impulse Type | Air, 0, 800\* | Air, 0, 800 |
+
+\* Beginning of the animation affect does 400  Poise Damage and has Impulse Type 3.
 
 **Notes**
 * **Glacial Illumination** does not snapshot.
@@ -165,6 +171,10 @@ When Eula crafts Character Talent Materials, she has a 10% chance to receive dou
 ### **Roiling Rime**
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Shattered Lightfall Sword** will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 180 | 3 |
 
 **Notes**
 * The damage dealt by **Shattered Lightfall Sword** scales with **Glacial Illumination**'s talent level.

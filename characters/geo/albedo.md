@@ -32,31 +32,32 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 **Normal Attacks**  
 Albedo performs up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 67.5% | 12 | 337.5%/s |
-| 2-Hit | 67.5% | 30 | 270%/s |
-| 3-Hit | 87.18% | 59 | 225.95%/s |
-| 4-Hit | 91.4% | 98 | 191.99%/s |
-| 5-Hit | 114.04% | 152 | 168.8%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 67.5% | 12 | 337.5%/s | 38.43 | 3 |
+| 2-Hit | 67.5% | 30 | 270%/s | 38.43 | 3 |
+| 3-Hit | 87.18% | 59 | 225.95%/s |49.68 | 3 |
+| 4-Hit | 91.4% | 98 | 191.99%/s | 52.11 | 3 |
+| 5-Hit | 114.04% | 152 | 168.8%/s | 64.98 | 6 |
 
 **Charged Attack**  
 Albedo consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 265% | 54 | 294.44%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 86.9% + 110.6% | - | - | 60 x2 | 2 + 6 |
+| N1C | 265% | 54 | 294.44%/s | - | - |
 
 Enemies struck by Albedo's charged attack will be launched.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Abiogenesis: Solar Isotoma" %}
@@ -82,6 +83,8 @@ Hold to designate the location of the skill.
 | Damage Type | Skill | Skill |
 | Duration | 30s | - |
 | CD | 4s | - |
+| Poise Damage | 50 | 50 |
+| Impulse Type | 4 | 1 |
 
 **Notes**
 * Casting other constructs above **Solar Isotoma** will cause the construct to shatter.
@@ -108,6 +111,8 @@ If a **Solar Isotoma** created by Albedo himself is on the field, 7 **Fatal Blos
 | Damage Type | Burst | Burst |
 | Energy Cost | 40 | - |
 | Cooldown | 12s | - |
+| Poise Damage | Animation Start: 400 <br> Burst: 100 | 30 |
+| Impulse Type | 4 | 2 |
 
 **Notes**
 * The 7 **Fatal Blossoms** that are generated will each target one enemy each and excess blossoms will spawn randomly within the **Solar Isotoma** field with more weighting toward the center. 

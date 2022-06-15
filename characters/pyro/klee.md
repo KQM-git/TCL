@@ -32,11 +32,12 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 **Normal Attacks**  
 Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
  
-| String | Talent 9% | Frames | Motion Value | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 122.67% | 32 | 230.00%/s | 1A |
-| 2-Hit | 106.08% | 76 | 180.59%/s | 1A |
-| 3-Hit | 152.86% | 151 | 151.63%/s | 1A |
+| String | Talent 9% | Frames | Motion Value | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 122.67% | 32 | 230.00%/s | 1A | 65 | 3 |
+| 2-Hit | 106.08% | 76 | 180.59%/s | 1A | 65 | 3 |
+| 3-Hit | 152.86% | 151 | 151.63%/s | 1A | 130 | 5 |
+
 
 **Notes**
 * Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
@@ -45,20 +46,20 @@ Throws things that go boom when they hit things! Perform up to 3 explosive attac
 **Charged Attack**  
 Consumes 50 stamina and deals AoE Pyro DMG to opponents after a short casting time.
 
-| String | Talent 9% | Frames | Motion Value | GU | ICD |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| CA | 267.51% | 50 | 321.01%/s | 1A | 0.5s |
+| String | Talent 9% | Frames | Motion Value | GU | ICD | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 267.51% | 50 | 321.01%/s | 1A | 0.5s | 180 | 8 |
 
 * Enemies struck by Klee's charged attack will be staggered or launched.
 
-**Plunge**  
+**Plunge Attack**  
 Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 5 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 3 |
+| High Plunge DMG | 260.76% | 100 | 4 |
 {% endtab %}
 
 {% tab title="Jumpy Dumpty" %}
@@ -81,6 +82,8 @@ Starts with 2 charges.
 | Damage Element | Pyro | Pyro |
 | Damage Type | Skill | Skill |
 | CD | 20s | - |
+| Poise Damage | 40 | 40 |
+| Impulse Type | 3 | 3 |
 
 **Notes** 
 * Splits into 8 mines
@@ -109,6 +112,8 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 | Energy Cost | 60 |
 | Duration | 10s |
 | CD | 15s |
+| Poise Damage | 25 |
+| Impulse Type | 0 |
 
 **Notes**
 * Deals damage in 6 waves over 10 seconds. On each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
@@ -162,9 +167,11 @@ Attacks and Skills have a certain chance to summon sparks that bombard opponents
 | Attribute | Chained Reactions |
 | --- | --- |
 | GU | 1A |
-| ICD | 3 hits / 2.5s (shared with burst) |
+| ICD | 3 hits / 2.5s (shared with Burst) |
 | Damage Element | Pyro | 
 | Damage Type | Elemental Burst |
+| Poise Damage | 25 |
+| Impulse Type | 0 |
 
 **Notes**
 * This is effected by Elemental Burst DMG% from Noblesse Oblige.
@@ -199,6 +206,8 @@ If Klee leaves the field during the duration of **Sparks 'n' Splash**, her depar
 | Type | GU | ICD |
 | :--- | :--- | :--- |
 | Sparkly Explosion | 2B | None |
+| Poise Damage | 120 |
+| Impulse Type | 5 |
 
 * Klee’s C4 damage instance has no ability type scaling tags. 
 {% endtab %}

@@ -32,12 +32,12 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 **Normal Attacks**  
 Razor performs 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 161.32% | 25 | 387.17%/s |
-| 2-Hit | 138.97% | 71 | 253.77%/s |
-| 3-Hit | 173.75% | 109 | 260.94%/s |
-| 4-Hit | 228.81% | 192 | 219.64%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 161.32% | 25 | 387.17%/s | 112.93 / 88.23 | 3 |
+| 2-Hit | 138.97% | 71 | 253.77%/s | 97.29 / 76.12 | 3 |
+| 3-Hit | 173.75% | 109 | 260.94%/s | 121.67 / 95.15 | 3 |
+| 4-Hit | 228.81% | 192 | 219.64%/s | 160.19 / 124.26 | 6 |
 
 * 3-hit cancel is the best DPS outside of Lighting Fang.
 * 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
@@ -46,21 +46,21 @@ Razor performs 4 consecutive strikes.
 Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.  
 At the end of the sequence, perform a more powerful slash. 
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Slash | 114.9% | 30 | 229.8%/s |
-| Final Slash | 207.77% | 29 | 429.87%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spinning DMG | 114.9% | 30 | 229.8%/s | 60 | 3 |
+| Final Attack DMG | 207.77% | 29 | 429.87%/s | 120 | 6 |
 
 * Consumes 40 stamina per second.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 150.74% |
-| Low Plunge DMG | 301.41% |
-| High Plunge DMG | 376.48% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 150.74% | 35 | 2 |
+| Low Plunge DMG | 301.41% | 150 | 4 |
+| High Plunge DMG | 376.48% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Claw and Thunder" %}
@@ -76,8 +76,6 @@ Razor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro 
 Gathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils.  
 Each Electro Sigil cleared in this manner will be converted into Energy for Razor.
 
-
-
 | Attribute | Skill (Tap) | Skill (Hold) |
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 338.64% | 501.84% |
@@ -89,6 +87,8 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 | Damage Element | Electro | Electro | 
 | Damage Type | Skill | Skill | 
 | CD | 6s | 10s | 
+| Poise Damage | 140 | 300 |
+| Impulse Type | 3 | Normal: 3 <br> During Q: 5 |
 
 **Notes**
 * When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.
@@ -131,6 +131,8 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 | Energy Cost | 80 | - |
 | Duration | 15s | 15s |
 | CD | 20s | - |
+| Poise Damage | 51.75 | - |
+| Impulse Type | 3 | - |
 
 **Notes**
 * Any active **Sigils** will be absorbed by Razor granting him 5 energy for each **Sigil**.
@@ -217,6 +219,10 @@ Maximum upgrade level is 15.
 
 Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.
 When Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil** for **Claw and Thunder**.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 69 | 2 |
 
 * C6 damage instance has no ability type scaling tags and applies 1A Electro.
 

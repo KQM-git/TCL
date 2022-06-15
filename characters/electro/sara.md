@@ -30,38 +30,38 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 67.78% | 19 | 214.04%/s |
-| 2-Hit DMG | 71.1% | 44 | 189.38%/s |
-| 3-Hit DMG | 89.11% | 82 | 166.82%/s |
-| 4-Hit DMG | 92.59% | 123 | 156.38%/s |
-| 5-Hit DMG | 106.65% | 181 | 141.62%/s |
-| Recovery | ~ | 195 | 131.46%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 67.78% | 19 | 214.04%/s | 12.17 | 1 |
+| 2-Hit DMG | 71.1% | 44 | 189.38%/s | 13.5 | 1 |
+| 3-Hit DMG | 89.11% | 82 | 166.82%/s | 16.92 | 1 |
+| 4-Hit DMG | 92.59% | 123 | 156.38%/s | 17.58 | 1 |
+| 5-Hit DMG | 106.65% | 181 | 141.62%/s | 20.25 | 1 |
+| Recovery | - | 195 | 131.46%/s | - | - |
 
 **Charged Attacks**  
 Perform a more precise Aimed Shot with increased DMG.  
 While aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal Electro DMG.  
 When in the **Crowfeather Cover** state, a fully-charged arrow will leave a **Crowfeather** behind after it hits.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 25 | 193.392%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 96 | 131.75%/s | ~ |
-| A1 Fully Charged | 210.8% | 50 | 252.96% | 1A |
-| With Recovery | ~ | 60 | 210.8%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| With Recovery | - | 25 | 193.392%/s | - | - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| With Recovery | - | 96 | 131.75%/s | - | - | - |
+| A1 Fully Charged | 210.8% | 50 | 252.96% | 1A | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| With Recovery | - | 60 | 210.8%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 
 {% endtab %}
 
@@ -86,6 +86,8 @@ The ATK Bonuses from different **Tengu Juurai** will not stack, and their effect
 | Damage Type | Skill |
 | Duration | 18s |
 | CD | 10s |
+| Poise Damage | 100 |
+| Impulse Type | 3 |
 
 **Notes**
 * **Tengu Stormcall** only buffs the on-field characters the frame before the Crowfeather Explosion, this also applies to coop members.
@@ -124,6 +126,8 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 | Damage Type | Burst |
 | Energy Cost | 80 |
 | CD | 20s |
+| Poise Damage | Titanbreaker: 100 <br> Stormcluster: 20 |
+| Impulse Type | Titanbreaker: 5 <br> Stormcluster: 2 |
 
 **Notes**
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.
@@ -184,6 +188,8 @@ Unleashing **Tengu Stormcall** will leave a **weaker Crowfeather** at Kujou Sara
 | DMG | 213.79% * 0.3 |
 | GU | 1A |
 | Damage Type | Elemental Skill |
+| Poise Damage | 30 |
+| Impulse Type | 3 |
 
 * The **Weaker Crowfeather** applies 1A Electro and has separate ICD from **Tengu Stormcall**.
 * **Weaker Crowfeather** snapshots upon **Tengu Stormcall** cast.

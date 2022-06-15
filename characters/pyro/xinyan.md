@@ -30,21 +30,21 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-hit | 140.62% | 25 | 337.49%/s |
-| 2-Hit | 135.88% | 69 | 240.43%/s |
-| 3-Hit | 175.38% | 139 | 195.06%/s |
-| 4-Hit | 212.83% | 204 | 195.50%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 140.62% | 25 | 337.49%/s | 96.6 | 3 |
+| 2-Hit | 135.88% | 69 | 240.43%/s | 93.15 | 3 |
+| 3-Hit | 175.38% | 139 | 195.06%/s | 121.9 | 3 |
+| 4-Hit | 212.83% | 204 | 195.50%/s | 146.63 | 6 |
 
 **Charged Attack**  
 Drains 40 stamina a second to perform continuous spinning attacks against all nearby opponents.  
 At the end of the sequence, perform a more powerful slash. 
 
-| Type | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spin | 114.91% | 30 | 229.82%/s |
-| Final hit | 207.77% | 29 | 429.87%/s |
+| Type | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spin | 114.91% | 30 | 229.82%/s | 60 | 3 |
+| Final Hit | 207.77% | 29 | 429.87%/s | 120 | 6 |
 
 * Charged Attack has a wind up of 89 frames.
 * All frame counts are done against Ruin Guards.
@@ -52,11 +52,11 @@ At the end of the sequence, perform a more powerful slash.
 **Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Sweeping Fervor" %}
@@ -81,6 +81,8 @@ The shield's DMG Absorption scales based on Xinyan's DEF and on the number of op
 | Damage Type | Skill | Skill | 
 | Damage Element | Pyro | Pyro |
 | Cooldown | 18s | - |
+| Poise Damage | 200 | 50 |
+| Impulse Type | 4 | 2 |
 
 | Attribute | Shield (Talent 9%) |
 | :--- | :--- |
@@ -113,6 +115,8 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 | Energy Cost | 60 | - |
 | Duration | - | 2s |
 | Cooldown | 15s | - | 
+| Poise Damage | 300 | 50 |
+| Impulse Type | 3 | 1st: Air, 0, 600 <br> Rest: 2 |
 
 {% endtab %}
 {% endtabs %}

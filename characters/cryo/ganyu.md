@@ -30,14 +30,14 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 **Normal Attack**  
 Ganyu performs up to 6 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-hit | 58.3% | 18 | 194.33% |
-| 2-Hit | 65.41% | 43 | 172.62% |
-| 3-Hit | 83.58% | 73 | 170.38% |
-| 4-Hit | 83.58% | 117 | 149.16% |
-| 5-Hit | 88.64% | 153 | 148.83% |
-| 6-Hit | 105.86% | 190 | 153.27% |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-hit | 58.3% | 18 | 194.33% | 11.07 | 1 |
+| 2-Hit | 65.41% | 43 | 172.62% | 12.42 | 1 |
+| 3-Hit | 83.58% | 73 | 170.38% | 15.87 | 1 |
+| 4-Hit | 83.58% | 117 | 149.16% | 15.87 | 1 |
+| 5-Hit | 88.64% | 153 | 148.83% | 16.83 | 1 |
+| 6-Hit | 105.86% | 190 | 153.27% | 20.1 | 1 |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.
@@ -45,15 +45,15 @@ Perform a precise Aimed Shot with increased DMG.
 * Charge Level 1: Fires off an arrow that deals Cryo DMG.
 * Charge Level 2: Ganyu fires a **Frostflake Arrow** that deals Cryo DMG. The Frostflake Arrow on impact will unleash a **Frostflake Bloom,** dealing AoE Cryo DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 25 | 193.392%/s | ~ |
-| Charge Level 1 | 210.8% | 74 | 170.92% | 1A |
-| With Recovery | ~ | 85 | 148.8%/s | ~ |
-| Frostflake Arrow | 217.6% | 103 | 126.76% | 1A |
-| Frostflake Bloom | 369.92% | 103 | 215.49% | 1A |
-| With Recovery | ~ | 113 | 311.96%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 25 | 193.392%/s | - | - | - |
+| Charge Level 1 | 210.8% | 74 | 170.92% | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 85 | 148.8%/s | - | - |
+| Frostflake Arrow | 217.6% | 103 | 126.76% | 1A | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| Frostflake Bloom | 369.92% | 103 | 215.49% | 1A | 40 | 1 |
+| With Recovery | - | 113 | 311.96%/s | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * **Frostflake Bloom** is considered a Charged Attack.
 * Both **Frostflake Arrow** and **Frostflake Bloom** will apply 1A Cryo.
@@ -64,11 +64,11 @@ Perform a precise Aimed Shot with increased DMG.
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Trail of the Qilin" %}
@@ -93,6 +93,8 @@ Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impur
 | Damage Type | Skill |
 | Duration | 6s |
 | CD | 10s |
+| Poise Damage | 80 |
+| Impulse Type | Cast: 3 <br> Explosion: 4 |
 
 **Notes**
 * The taunt applies to all enemies in the game that are not considered bosses.
@@ -119,6 +121,10 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 | Energy Cost | 60 |
 | Duration | 15s |
 | CD | 15s |
+| Cast Poise Damage | 400 |
+| Cast Impulse Type | Heavy, 1200, 0 |
+| Ice Shard Poise Damage | 60 |
+| Ice Shard Type | 2 |
 
 **Notes**
 * Celestial Shower drops **Ice Shards** every 0.3 seconds.

@@ -12,6 +12,7 @@ description: Compendium of useful databases.
 * [Talent/Scaling Compendium](https://docs.google.com/spreadsheets/d/1zziYa1BjNhye-8xcUyo4wZXegS3EAfSx_H0atn7N4pY/) \(Google Sheets\)
 * [Snapshot Timing](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k/) \(Google Sheets\)
 * [Energy Consumption Frames of Elemental Bursts](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ) \(Google Sheets\)
+* [Poise Damage and Impulse Types](https://docs.google.com/spreadsheets/d/1kANgUXYaUvh5vv31sGYM28kK6MXtW8rx/edit?usp=sharing&ouid=100059362950298098203&rtpof=true&sd=true) \(Google Sheets\)
 
 ## Enemy
 

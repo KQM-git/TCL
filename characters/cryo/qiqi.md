@@ -31,32 +31,32 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 69.36% | 11 | 378.33%/s |
-| 2-Hit | 71.42% | 29 | 291.27%/s |
-| 3-Hit | 44.4% + 44.4% | 55 + 71 | 194.01%/s |
-| 4-Hit | 45.35% + 45.35% | 94 + 111 | 173.12%/s |
-| 5-Hit | 115.81% | 140 | 186.90%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 69.36% | 11 | 378.33%/s | 25.2 | 3 |
+| 2-Hit | 71.42% | 29 | 291.27%/s | 27.9 | 3 |
+| 3-Hit | 44.4% + 44.4% | 55 + 71 | 194.01%/s | 35.1 + 12.6 |
+| 4-Hit | 45.35% + 45.35% | 94 + 111 | 173.12%/s | 12.6 x2 | 3 x2 |
+| 5-Hit | 115.81% | 140 | 186.90%/s | 68.6 | 6 |
 
 **Charged Attack**  
 Consume 20 Stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 118.18% + 118.18% | ~ | ~ |
-| N1C | 305.72% | 100 | 183.43%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type|
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 118.18% + 118.18% | - | - | 63 x2 | 6 |
+| N1C | 305.72% | 100 | 183.43%/s | - | - |
 
 * All frame counts are done against Ruin Guards.
 
 **Plunge Attack**  
 Plunge from mid-air to strike the ground below dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type| 
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 
 {% endtab %}
 
@@ -83,6 +83,10 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 | Damage Type | Skill |
 | Duration | 15s |
 | CD | 30s |
+| Skill Poise Damage | 40 |
+| Skill Impulse Type | 3 |
+| Herald of Frost Poise Damage | 80 |
+| Herald of Frost Impulse Type | Light, 600, 400 |
 
 {% endtab %}
 
@@ -107,6 +111,8 @@ When opponents affected by this Talisman take DMG, the character that dealt this
 | Energy Cost | 80 |
 | Duration | 15s |
 | CD | 20s |
+| Poise Damage | 200 |
+| Impulse Type | 4 |
 
 **Notes**
 * **Fortune-Preserving Talisman** is dynamic and does not snapshot any ATK bonus.

@@ -31,31 +31,32 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 **Normal Attacks**  
 Xiangling performs up to five consecutive spear strikes
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 77.26% | 12 | 386.30%/s |
-| 2-Hit | 77.42% | 38 | 244.23%/s |
-| 3-Hit | 47.87% x2 \(95.74%\) | 60 + 72 | 208.68%/s |
-| 4-Hit | 25.91% x4 \(103.64%\) | 106 + 118 + 129 + 141 | 150.66%/s |
-| 5-Hit | 130.51% | 167 | 174.10%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 77.26% | 12 | 386.30%/s | 16 | 3 |
+| 2-Hit | 77.42% | 38 | 244.23%/s | 19.2 | 3 |
+| 3-Hit | 47.87% x2 \(95.74%\) | 60 + 72 | 208.68%/s | 19.2 + 20 | 2 + 3 |
+| 4-Hit | 25.91% x4 \(103.64%\) | 106 + 118 + 129 + 141 | 150.66%/s | 19.2 x3 + 12.8 | 2 x2 + 3 x2 |
+| 5-Hit | 130.51% | 167 | 174.10%/s | 71.2 | 6 |
 
 **Charged Attack**  
 Xiangling consumes 25 stamina to lunge forward dealing damage to enemies along the way
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 300.83% | 90 | 200.55%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 223.57% | - | - | 120 | 5 |
+| N1C | 300.83% | 90 | 200.55%/s | - | - |
 
 * All frame counts are done against Ruin Guards.
 
-**Plunge**  
+**Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| **Damage Type** | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Guoba Attack" %}
@@ -73,6 +74,8 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 | Damage Type | Skill |
 | Duration | 7s |
 | CD | 12s |
+| Poise Damage | 32 |
+| Impulse Type | 3 |
 
 **Notes**
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
@@ -98,6 +101,8 @@ The **Pyronado** will move with your character for the ability's duration, deali
 | Energy Cost | 80 | - | - | - |
 | Duration | 10s | - | - | - |
 | CD | 20s | - | - | - |
+| Poise Damage | 30 | 30 | 30 | 30
+| Impulse Type | 3 | 3 | 3 | 3 |
 
 **Notes**
 * Moving in the opposite direction of **Pyronado**'s spin will increase the number of hits.
@@ -141,6 +146,10 @@ Opponents hit by Guoba's attacks have their **Pyro RES** reduced by 15% for 6s.
 ### **Oil Meets Fire**
 
 The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as **AoE Pyro DMG**.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 8.8 | 2 |
 
 * C2 DMG instance has no ability type scaling tags.  
 * C2 DMG also does not snapshot.

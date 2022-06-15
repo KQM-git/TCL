@@ -26,31 +26,32 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 74.42% | 15 | 297.68% |
-| 2-Hit DMG | 73.94% | 38 | 234.25% |
-| 3-Hit DMG | 42.19% + 50.56% | 61 + 75 | 192.88% |
-| 4-Hit DMG | 44.08% + 52.93% | 101 + 113 | 179.53% |
-| 5-Hit DMG | 123.71% | 157 | 176.5% | 
-| Recovery | - | 214 | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 74.42% | 15 | 297.68% | 37.665 | 3 |
+| 2-Hit DMG | 73.94% | 38 | 234.25% | 37.451 | 3 |
+| 3-Hit DMG | 42.19% + 50.56% | 61 + 75 | 192.88% | 23.46 x2 | 2 + 3 |
+| 4-Hit DMG | 44.08% + 52.93% | 101 + 113 | 179.53% | 24.56 x2 | 3 x2 |
+| 5-Hit DMG | 123.71% | 157 | 176.5% |  62.656 | 6 |
+| Recovery | - | 214 | - | - | - |
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1CA | 297.99% | 13 + 57 | 313.67% | 
-| Recovery | - | 89 | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 223.57% | - | - | 120 | 5 |
+| N1CA | 297.99% | 13 + 57 | 313.67% | - | - |
+| Recovery | - | 89 | - | - | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG |  117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG |  117.46% | 25 | 1st: 2 <br> Rest: 4 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Opening Flourish" %}
@@ -78,6 +79,8 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
 | Damage Type | Skill | Skill | Skill |
 | Duration | - | - | - |
 | CD | 9s | 9s | 9s |
+| Poise Damage | 100 | 200 | 300 |
+| Impulse Type | 4 | 4 | 6 |
 
 | Attribute | Shield |
 | :--- | :--- |
@@ -117,6 +120,8 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 | Energy Cost | 60 |
 | Duration | 12s |
 | CD | 15s | 
+| Poise Damage | 200 |
+| Impulse Type | 4 |
 
 **Notes**
 * The bonus damage from **Flying Cloud Flag Formation** gets increased by DMG % bonuses. See [Damage Formula](../../combat-mechanics/damage/damage-formula.md) for more details.

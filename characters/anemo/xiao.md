@@ -32,35 +32,35 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 **Normal Attacks**  
 Xiao performs up to six consecutive spear strikes.
 
-| String | Talent 9 DMG% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 46.32% x2 \(92.64%\) | 16 | 347.4%/s |
-| 2-Hit | 95.76% | 42 | 269.14%/s |
-| 3-Hit | 115.29% | 68 | 267.96%/s |
-| 4-Hit | 63.34% x2 \(126.68%\) | 115 | 224.54%/s |
-| 5-Hit | 120.32% | 145 | 227.87%/s |
-| 6-Hit | 161.17% | 197 | 216.81%/s |
+| String | Talent 9 DMG% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 46.32% x2 \(92.64%\) | 16 | 347.4%/s | 25.08 x2 / 37.62 x2 | 3 + 2 |
+| 2-Hit | 95.76% | 42 | 269.14%/s | 51.76 / 77.64 | 3 |
+| 3-Hit | 115.29% | 68 | 267.96%/s | 62.32 / 93.48 | 3 |
+| 4-Hit | 63.34% x2 \(126.68%\) | 115 | 224.54%/s | 34.28 x2 / 51.42 x2 | 2 x2 |
+| 5-Hit | 120.32% | 145 | 227.87%/s | 65.05 / 97.56 | 3 |
+| 6-Hit | 161.17% | 197 | 216.81%/s | 87.12 / 130.68 | 6 |
 
 **Charged Attack**  
 Consumes 25 Stamina to perform an upward thrust.
 * Xiao's Charged Attacks share an ICD on Anemo application with his Normal Attacks when under the effects of Bane of All Evil.
 
-| String | Talent 9 DMG% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 203.65% | - | - |
-| N1C | 296.29% | 80 | 222.22%/s |
-| N3C | 507.34% | 157 | 193.89%/s |
-| N4C | 634.02% | 190 | 200.22%/s |
+| String | Talent 9 DMG% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 203.65% | - | - | 120 / 180 | 7 |
+| N1C | 296.29% | 80 | 222.22%/s | - | - |
+| N3C | 507.34% | 157 | 193.89%/s | - | - |
+| N4C | 634.02% | 190 | 200.22%/s | - | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.  
 Xiao does not take DMG from performing Plunge Attacks.
 
-| Plunge Type | Talent 9 DMG% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 150.35% | - | - |
-| Low Plunge DMG | 300.63% | 65 | 277.5%/s |
-| High Plunge DMG | 375.5% | 75 | 300.4%/s |
+| Plunge Type | Talent 9 DMG% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 150.35% | - | - | 25 / 37.5 | 2 |
+| Low Plunge DMG | 300.63% | 65 | 277.5%/s | 100 / 150 | 4 |
+| High Plunge DMG | 375.5% | 75 | 300.4%/s | 150 / 225 | 7 |
 
 * All frame counts are done against Ruin Guards.
 * All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
@@ -82,6 +82,8 @@ Starts with 2 charges.
 | Damage Element | Anemo |
 | Damage Type | Skill |
 | CD | 10s |
+| Poise Damage | 100 |
+| Impulse Type | 3 |
 
 **Notes**
 * A double E Cast is only 60 frames long.

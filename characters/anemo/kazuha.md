@@ -33,33 +33,34 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 **Normal Attacks**  
 Perform up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 82.63% | 14 | 354.12%/s |
-| 2-Hit DMG | 83.11% | 34 | 292.48%/s |
-| 3-Hit DMG | 47.4% + 56.88% | 60 + 70 | 231.45%/s |
-| 4-Hit DMG | 111.55% | 97 | 236.02%/s |
-| 5-Hit DMG | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s |
-| Recovery (Total MV) | -- | 200 | 156.42%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 82.63% | 14 | 354.12%/s | 47.7 | 3 |
+| 2-Hit DMG | 83.11% | 34 | 292.48%/s | 47.34 | 3 |
+| 3-Hit DMG | 47.4% + 56.88% | 60 + 70 | 231.45%/s | 29.7 x2 | 3 x2 |
+| 4-Hit DMG | 111.55% | 97 | 236.02%/s | 63.54 | 3 |
+| 5-Hit DMG | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s | 26.55 x3 | 2 + 2 + 5 |
+| Recovery (Total MV) | -- | 200 | 156.42%/s | - | - |
 
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 
 **Charged Attacks**  
 Consumes a certain amount (20) of Stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 79% + 137.14% | 14 + 44 | -- |
-| N1C | 82.63% + 79% + 137.14% | 58 | 309.07%/s |
-| N1C w/Recovery | 79% + 137.14% | 78 | 229.82%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 79% + 137.14% | 14 + 44 | - | 60 x2 | 2 + 6 |
+| N1C | 82.63% + 79% + 137.14% | 58 | 309.07%/s | - | - |
+| N1C w/Recovery | 79% + 137.14% | 78 | 229.82%/s | - | - |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by **Chihayaburu**, it will be converted to **Plunging Attack: Midare Ranzan**. 
 
-| String | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 150.35% |
-| Low/High Plunge DMG | 300.63% / 375.50% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 150.35% | 25 | 2 |
+| Low Plunge DMG | 300.63% | 100 | 4 |
+| High Plunge DMG | 375.50% | 150 | 7 |
 
 {% endtab %}
 
@@ -83,6 +84,8 @@ Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode
 | Damage Element | Anemo | Anemo |
 | Damage Type | Skill | Skill | 
 | CD | 6s | 9s | 
+| Poise Damage | 150 | 300 |
+| Impulse Type | Air, 100, 800 | Air, 0, 800 |
 
 **Notes**
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
@@ -101,6 +104,10 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 | ICD | None |
 | Damage Element | Anemo |
 | Damage Type | Plunge |
+| Plunge Poise Damage | 25 |
+| Plunge Impulse Type | 1 |
+| Low/High Plunge Poise Damage | 100 / 150 |
+| Low/High Impulse Type | 7 |
 
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
 * Kazuha E will, under certain conditions, fail to absorb self auras
@@ -129,6 +136,8 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 | Energy Cost | 60 | - | - |
 | Duration | 8s | - | - |
 | CD | 15s | - | - |
+| Poise Damage | 75 | 25 | - |
+| Impulse Type | Light, 0, 100 | Light, 0, 100 | - |
 
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
 

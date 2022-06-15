@@ -32,33 +32,31 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 **Normal Attacks**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 145.36% | 28 | 311.49%/s |
-| 2-Hit | 134.77% | 70 | 240.11%/s |
-| 3-Hit | 158.47% | 116 | 226.86%/s |
-| 4-Hit | 208.4% | 174 | 223.1%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 145.36% | 28 | 311.49%/s | 105.8 / 132.25 | 3 |
+| 2-Hit | 134.77% | 70 | 240.11%/s | 98.1 / 122.82 | 3 |
+| 3-Hit | 158.47% | 116 | 226.86%/s | 115.34 / 144.87 | 3 |
+| 4-Hit | 208.4% | 174 | 223.1%/s | 151.68 / 189.75 | 6 |
 
 Optimal damage is a 4-hit cancel when hitting all targets or 3-hit cancel when the fourth hit won't hit all enemies.
 
 **Charged Attack**  
 Noelle consumes 40 stamina a second to keep spinning. At the end, perform a more powerful slash.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spin | 93.22% | 311 | 179.85%/s |
-| Final hit | 166.22% | 40 | 187.76%/s |
-
-Enemies struck by Noelle's charged attack will be staggered or launched.
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spinning DMG | 93.22% | 311 | 179.85%/s | 60 | 3 |
+| Final Attack DMG | 166.22% | 40 | 187.76%/s | 120 | 6 |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 
 Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
 
@@ -85,6 +83,8 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 | Damage Type | Skill |
 | Duration | 12s |
 | CD | 24s |
+| Poise Damage | 100 |
+| Impulse Type | 3 |
 
 | Attribute | Shield | 
 | :--- | :--- |
@@ -124,6 +124,8 @@ Afterwards, Noelle gains the following effects:
 | Damage Type | Burst  |
 | Duration | 15s |
 | CD | 15s |
+| Poise Damage | 150 |
+| Impulse Type | 4 |
 
 **Notes**
 * Noelle's infused Normal and Charged Attacks apply 1GU and have standard 3 hit / 2.5s ICD.

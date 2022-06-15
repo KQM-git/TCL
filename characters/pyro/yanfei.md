@@ -36,12 +36,12 @@ When Yanfei's Normal Attacks hit enemies, they will grant her a single **Scarlet
 Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear when she leaves the field.
 
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 99.18% | 13 | 457.75%/s |
-| 2-Hit | 88.61% | 41 | 274.81%/s |
-| 3-Hit | 129.22% | 90 | 211.34%/s |
-| GU | 1A | ~ | ~ |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 99.18% | 13 | 457.75%/s | 10.94 | 2 |
+| 2-Hit | 88.61% | 41 | 274.81%/s | 9.77 | 2 |
+| 3-Hit | 129.22% | 90 | 211.34%/s | 14.25 | 2 |
+| GU | 1A | ~ | ~ | - | - |
 
 **Notes**
 * This stamina consumption reduction applies to all actions
@@ -52,20 +52,20 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 * This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
 * Yanfei's Charged Attack shatters frozen targets.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 152.34% + 26.89%/Seal | 72 | 126.95%/s + 22.41%/s/Seal | 1A |
-| N1C | 251.52% + 26.89%/Seal | 98 | 153.99%/s + 16.46%/s \(1 Seal\) | 1A |
-| N2C | 340.13% + 26.89%/Seal | 107 | 190.73%/s + 30.16%/s \(2 Seals\) | 1A |
-| N3C | 469.35% + 26.89%/Seal | 168 | 167.63%/s + 28.81%/s \(3 Seals\) | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 152.34% + 26.89%/Seal | 72 | 126.95%/s + 22.41%/s/Seal | 1A | 120 | 3 |
+| N1C | 251.52% + 26.89%/Seal | 98 | 153.99%/s + 16.46%/s \(1 Seal\) | 1A | 120 | 3 |
+| N2C | 340.13% + 26.89%/Seal | 107 | 190.73%/s + 30.16%/s \(2 Seals\) | 1A | 120 | 4 |
+| N3C | 469.35% + 26.89%/Seal | 168 | 167.63%/s + 28.81%/s \(3 Seals\) | 1A |120 | 5 |
 
-**Plunge**
+**Plunge Attack**
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 5 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 3 |
+| High Plunge DMG | 260.76% | 100 | 4 |
 {% endtab %}
 
 {% tab title="Signed Edict" %}
@@ -83,6 +83,8 @@ Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Se
 | Damage Element | Pyro |
 | Damage Type | Skill |
 | CD | 9s |
+| Poise Damage | 120 |
+| Impulse Type | 3 |
 
 **Notes**
 * **Signed Edict** is **blunt** damage and shatters frozen targets.
@@ -114,6 +116,8 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 | Energy Cost | 80 |
 | Duration | 15s |
 | CD | 20s |
+| Poise Damage | 200 |
+| Impulse Type | 3 |
 
 {% endtab %}
 {% endtabs %}
@@ -146,6 +150,8 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
 | GU | 1A |
 | Damage Element | Pyro |
 | Damage Type | Charged Attack | 
+| Poise Damage | 50 |
+| Impulse Type | 2 |
 
 * **Blazing Eye** has no noticeable ICD to trigger Reactions or apply Pyro.
   * This does not affect her Charged Attack ICD.

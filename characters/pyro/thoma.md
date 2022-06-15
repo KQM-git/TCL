@@ -30,31 +30,31 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 **Normal Attacks**  
 Performs up to four consecutive spear strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 81.56% | 11 | 444.87% |
-| 2-Hit DMG | 80.15% | 49 | 198% |
-| 3-Hit DMG | 49.22% ×2 | \(76+89\) | 175.38% |
-| 4-Hit DMG | 123.75% | 114 | 202.05% |
-| Recovery | - | 155 | -- |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 81.56% | 11 | 444.87% | 41.3 | 3 |
+| 2-Hit DMG | 80.15% | 49 | 198% | 40.58 | 3 |
+| 3-Hit DMG | 49.22% ×2 | \(76 + 89\) | 175.38% | 24.95 x2 | 2 + 3 |
+| 4-Hit DMG | 123.75% | 114 | 202.05% | 62.66 | 6 |
+| Recovery | - | 155 | - | - | - |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 207.14% | \(14+56\) | -- |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 207.14% | \(14+56\) | - | 120 | 5 |
 
 * Stamina Cost:  25
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 | 
 {% endtab %}
 
 {% tab title="Blazing Blessing" %}
@@ -79,6 +79,8 @@ The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain 
 | Damage Element | Pyro |
 | Damage Type | Skill |
 | CD | 15s |
+| Poise Damage | 150 |
+| Impulse Type | 3 |
 
 | Attribute | Shield |
 | :--- | :--- |
@@ -122,6 +124,8 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 | Energy Cost | 80 | - | 
 | Duration | - | 15s |
 | CD | 20s | - | 
+| Poise Damage | 200 | 35 |
+| Impulse Type | 3 | 2 |
 
 | Attribute | Scorching Ooyoroi |
 | :--- | :--- |

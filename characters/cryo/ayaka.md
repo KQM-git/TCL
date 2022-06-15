@@ -32,24 +32,24 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 84.01% | 8 | 630.08%/s |
-| 2-Hit DMG | 89.44% | 28 | 371.68%/s |
-| 3-Hit DMG | 115.05% | 56 | 309.11%/s |
-| 4-Hit DMG | 41.61% ×3 (124.83%) | 84 + 91 + 98 | 253.06%/s |
-| 5-Hit DMG | 143.64% | 136 | 245.72%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 84.01% | 8 | 630.08%/s | 42.5 | 3 |
+| 2-Hit DMG | 89.44% | 28 | 371.68%/s | 44.1 | 3 |
+| 3-Hit DMG | 115.05% | 56 | 309.11%/s | 55.2 | 3 |
+| 4-Hit DMG | 41.61% ×3 (124.83%) | 84 + 91 + 98 | 253.06%/s | 19.68 x3 | 2 x3 |
+| 5-Hit DMG | 143.64% | 136 | 245.72%/s | 74.1 | 7 |
 
 **Charged Attacks**  
 Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 101.28%×3 (303.84%) | -- | -- |
-| N1C | 84.01% + 101.28%×3 (387.85%) | 96 | 242.41%/s |
-| N2C | 173.45% + 101.28%×3 (477.29%) | 115 | 249.02%/s |
-| N3C | 288.5% + 101.28%×3 (592.34%) | 140 | 253.86%/s |
-| N4C | 413.33% + 101.28%×3 (717.17%) | 171 | 251.64%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 101.28%×3 (303.84%) | - | - | 40 x3 | 2 x2 + 3 |
+| N1C | 84.01% + 101.28%×3 (387.85%) | 96 | 242.41%/s | - | - |
+| N2C | 173.45% + 101.28%×3 (477.29%) | 115 | 249.02%/s | - | - |
+| N3C | 288.5% + 101.28%×3 (592.34%) | 140 | 253.86%/s | - | - |
+| N4C | 413.33% + 101.28%×3 (717.17%) | 171 | 251.64%/s | - | - |
 
 **Notes**
 * Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
@@ -63,10 +63,11 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low/High Plunge DMG | 234.86% / 293.36% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Kamisato Art: Hyouka" %}
@@ -83,6 +84,8 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 | Damage Element | Cryo |
 | Damage Type | Skill |
 | CD | 10s |
+| Poise Damage | 110 |
+| Impulse Type | 7 |
 {% endtab %}
 
 {% tab title="Kamisato Art: Senho" %}
@@ -99,6 +102,8 @@ When she reappears, the following effects occur:
 | Activation Stamina Consumption | 10 |
 | Stamina Drain | 15/s |
 | Infusion Duration | 5s |
+| Poise Damage | 0 |
+| Impulse Type | 2 |
 
 **Notes**
 * 1A Cryo is applied when Ayaka exits from her sprint.
@@ -130,6 +135,10 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 | Energy Cost | 80 |
 | Duration | 5s | 
 | CD | 20s |
+| Cutting Poise Damage | 30 |
+| Cutting Impulse Type | 4 |
+| Bloom Poise Damage | 30 |
+| Bloom Impulse Type | 5 |
 
 **Notes**
 * The whirl generated will stay in place for large enemies and frozen enemies
@@ -178,6 +187,11 @@ When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, 
 ### **Blizzard Blade Seki no To**
 
 When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
+
+|  | Poise Damage | Impulse Type |
+| :--- | :--- | :--- |
+| Cutting | 30 | 3 |
+| Bloom | 30 | 5 |
 
 * All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
 * The additional **Frostflake Seki no To** share ICD with the main storm.

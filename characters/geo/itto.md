@@ -27,18 +27,20 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 {% tabs %}
 {% tab title="Fight Club Legend" %}
-**Normal Attacks**  
+**Normal Attack**  
 Perform up to 4 consecutive strikes.  
 • When the 2nd and 4th strikes hit opponents, Itto will gain 1 and 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
 • Additionally, Itto's Normal Attack combo does not immediately reset after sprinting or using his Elemental Skill, "**Masatsu Zetsugi: Akaushi Burst!**"
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 145.57% | 23 | 379.75%/s |
-| 2-Hit | 140.3% | 67 | 256%/s |
-| 3-Hit | 168.36% | 101 | 269.84%/s |
-| 4-Hit | 215.37% | 181 | 221.97%/s |
-| Recovery | 669.6% | 202 | 198.89%/s |
+| String | Talent 9% | Frames | MV/s |  Poise Damage\* | Impulse Type\* |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 145.57% | 23 | 379.75%/s | 82.9 | 3 |
+| 2-Hit | 140.3% | 67 | 256%/s | 77.9 | 3 |
+| 3-Hit | 168.36% | 101 | 269.84%/s | 98.3 | Heavy, 500, 0 |
+| 4-Hit | 215.37% | 181 | 221.97%/s | 124.5 | 5 |
+| Recovery | 669.6% | 202 | 198.89%/s | - | - |
+
+\* Poise Damage and Impulse Type are the same for regular Normal Attacks and Converted Normal Attacks during **Royal Descent: Behold, Itto the Evil!**.
 
 **Notes**
 * Itto can gain **Superlative Superstrength** stacks while off field.
@@ -48,27 +50,32 @@ Perform up to 4 consecutive strikes.
 When holding to perform a Charged Attack, Itto unleashes a series of **Arataki Kesagiri** slashes without consuming Stamina. Instead, each **Arataki Kesagiri** slash consumes 1 stack of **Superlative Superstrength**. When the final stack is consumed, Itto delivers a powerful final slash.
 If no stacks of **Superlative Superstrength** are available, Itto will perform a single **Saichimonji Slash**.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - |
-| Arataki Kesagiri Final Slash DMG | 350.76% | - | - |
-| Saichimonji Slash DMG | 131.5% | - | - |
-| 5CA | 807.5% | 180 | 340.23%/s |
-| 5CA w/ Recovery | ~ | 207 | 295.85%/s |
-| SCAF | 350.76% | 74 | 284.4%/s |
-| SCAF w/ Recovery | ~ | 102 | 206.33%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage* | Impulse Type* |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - | 1 stack: 143.4 <br> 2-5 stacks: 81.7 | Heavy, 250, 0 |
+| Arataki Kesagiri Final Slash DMG | 350.76% | - | - | 143.4 | Air, 100, 800 |
+| Saichimonji Slash DMG | 131.5% | - | - | 120 | 5 |
+| 5CA | 807.5% | 180 | 340.23%/s | - | - |
+| 5CA w/Recovery | - | 207 | 295.85%/s | - | - |
+| SCAF | 350.76% | 74 | 284.4%/s | - | - |
+| SCAF w/Recovery | - | 102 | 206.33%/s | - | - |
+
+\* Poise Damage and Impulse Type are the same for regular Charged Attacks and Converted Charged Attacks during **Royal Descent: Behold, Itto the Evil!**.
 
 **Notes**
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.
 
-**Plunge**  
+**Plunge Attack**  
  Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 150.35% |
-| Low Plunge DMG | 300.63% |
-| High Plunge DMG | 375.5% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 150.35% | 35 | 2 |
+| Low Plunge DMG | 300.63% | 150 | 4 |
+| High Plunge DMG | 375.5% | 200 | 7 |
+
+\* Poise Damage and Impulse Type are the same for regular Plunge Attacks and Converted Plunge Attacks during **Royal Descent: Behold, Itto the Evil!**.
+
 {% endtab %}
 
 {% tab title="Masatsu Zetsugi: Akaushi Burst!" %}
@@ -98,6 +105,8 @@ Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the f
 | Damage Type | Skill |
 | Duration | 6s |
 | CD | 10s | 
+| Poise Damage | 250 |
+| Impulse Type | Air, 100, 600 |
 
 **Notes**
 * Ushi counts towards the Geo construct limit.
@@ -132,6 +141,7 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 | CD | 18s |
 
 **Notes**
+* Converted Normal, Charged, and Plunging Attacks have the same Poise Damage and Impulse Type as the Physical counterparts.
 * **Royal Descent: Behold, Itto the Evil!** snapshots DEF but does not shapshot Geo DMG or ATK.
   * Right after Gorou uses his Elemental Burst, if Itto is swapped in either with Alt + Num or manually he will consistently snapshot the buffs. This only happens when the ping is below 75ms, otherwise it's inconsistent, with a 53% success rate at 200\~350ms.
 * Itto's converted attacks apply 1U Geo. 
@@ -139,7 +149,7 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 * **Royal Descent: Behold, Itto the Evil!**'s duration can be extended through hitlag.
 * **Royal Descent: Behold, Itto the Evil!** can expire in the middle of a CA string.
 * Burst duration can significantly extend past its normal duration by doing an attack at the end of burst. This extension ends immediately on any action after the final attack.
-* Using **Royal Descent: Behold, Itto the Evil!** during N1 hitlag also gives **Superlative Strength** stacks
+* Using **Royal Descent: Behold, Itto the Evil!** during N1 hitlag also gives **Superlative Strength** stacks.
 
 {% endtab %}
 {% endtabs %}

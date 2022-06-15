@@ -27,31 +27,31 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 **Normal Attacks**  
 Performs up to 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 132.72% | 23 | 346.23%/s |
-| 2-Hit | 131.14% | 70 | 226.17%/s |
-| 3-Hit | 79.79% x 2 | 97 + 109 | 233.09%/s |
-| 4-Hit | 180.28% | 187 | 193.71%/s |
-| Recovery | ~ | 227 | 159.57%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 132.72% | 23 | 346.23%/s | 80.5 | 3 |
+| 2-Hit | 131.14% | 70 | 226.17%/s | 79.35 | 3 |
+| 3-Hit | 79.79% x 2 | 97 + 109 | 233.09%/s | 48.3 x2 | 3 + \(Heavy, 500, 0\) |
+| 4-Hit | 180.28% | 187 | 193.71%/s | 109.71 | 5 |
+| Recovery | ~ | 227 | 159.57%/s | - | - |
 
 **Charged Attacks**  
 Drains 40 Stamina/s over time to perform continuous spinning attacks against all nearby opponents. At the end of the sequence, perform a more powerful slash. 
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spin | 114.91% x 9 | 307 | 202.12%/s |
-| Final Hit | 207.77% | 358 | 208.15%/s |
-| Recovery | ~ | 439 | 169.74%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spin | 114.91% x 9 | 307 | 202.12%/s | 60 | 3 |
+| Final Hit | 207.77% | 358 | 208.15%/s | 120 | 6 |
+| Recovery | ~ | 439 | 169.74%/s | - | - |
 
 **Plunge Attacks**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Yoohoo Art: Fuuin Dash" %}
@@ -89,6 +89,8 @@ Elemental Absorption may only occur once per use of this skill.
 | Damage Type | Skill | Skill |
 | Max Duration | - | 10s |
 | CD | 6s | 6s~11s |
+| Poise Damage | 120 | Windwheel: 25 </br> Whirlwind Kick: 200 |
+| Impulse Type | 3 | Windwheel: 2 </br> Whirlwind Kick: 3 |
 
 **Notes**
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
@@ -127,6 +129,8 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 | Damage Type | Burst |
 | Energy Cost | 80 |
 | CD | 20s |
+| Poise Damage | 200 |
+| Impulse Type | 3 |
 
 | Attribute | Daruma |
 | :--- | :--- |
@@ -138,6 +142,8 @@ At specific intervals, the **Daruma** will take one of several actions based on 
 | Damage Element | Anemo |
 | Damage Type | Elemental Burst |
 | Duration | 12s |
+| Poise Damage | 50 |
+| Impulse Type | 3 |
 
 **Notes**
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.

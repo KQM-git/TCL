@@ -26,21 +26,21 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 **Normal Attacks**  
 Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 64.42% | 22 | 175.69% |
-| 2-Hit | 65.48% | 46 | 163.70% |
-| 3-Hit | 96.71% | 90 | 131.88% |
-| Recovery | - | 127 | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 64.42% | 22 | 175.69% | 7.436 | 1 |
+| 2-Hit | 65.48% | 46 | 163.70% | 7.222 | 1 |
+| 3-Hit | 96.71% | 90 | 131.88% | 10.667 | 1 |
+| Recovery | - | 127 | - | - | - |
 
 * 3 hit/2.5s ICD.
 
 **Charged Attack**  
  Consumes 50 Stamina to deal AoE Electro DMG after a short casting time.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| CHarged Attack DMG | 242.92% | 87 | 167.53% |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CHarged Attack DMG | 242.92% | 87 | 167.53% | 80 | 2 |
 
 * No ICD.
 * Can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
@@ -48,11 +48,11 @@ Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Elect
 **Plunge**  
 Plunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 5 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 3 |
+| High Plunge DMG | 260.76% | 100 | 4 |
 {% endtab %}
 
 {% tab title="Yakan Evocation: Sesshou Sakura" %}
@@ -82,6 +82,8 @@ A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of
 | Damage Type | Skill |
 | Duration | 14 |
 | CD | 4 | 
+| Poise Damage | 25 |
+| Impulse Type | 2 |
 
 * Each Sesshou Sakura hits up to 5 times, generating 1 particle on each hit and none on cast.
 * When casting E three times in a straight line only the one in the middle will be level 3.
@@ -110,6 +112,8 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 | Damage Type | Burst |
 | Energy Cost | 90 |
 | CD | 22 | 
+| Poise Damage | 75 |
+| Impulse Type | Burst: 3 <br> Tenko Thunderbolt: 2 |
 
 * It is completely stationary and targets the enemies at the end of the animation, regardless of where the Sesshou Sakuras are.
 * Elemental Particles and Orbs can be pre-funneled.

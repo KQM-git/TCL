@@ -33,30 +33,30 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 **Normal Attacks**  
 Diluc performs up to 4 consecutive attacks.
 
-| String | Talent 9% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 164.79% | 24 | 411.98%/s |
-| 2-Hit | 161% | 77 | 253.86%/s |
-| 3-Hit | 181.54% | 115 | 264.69%/s |
-| 4-Hit | 246.16% | 181 | 249.78%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 164.79% | 24 | 411.98%/s | 108.1 | 3 |
+| 2-Hit | 161% | 77 | 253.86%/s | 105.57 | 3 |
+| 3-Hit | 181.54% | 115 | 264.69%/s | 119.03 | 3 |
+| 4-Hit | 246.16% | 181 | 249.78%/s | 161.46 | 6 |
 
 **Charged Attack**  
 Drains 40 stamina a second to perform continuous slashes.  
 At the end of the sequence, perform a more powerful slash.
 
-| String | Talent 9% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Slash | 126.4% | 30 | 252.8%/s |
-| Final Slash | 229.1% | 29 | 474%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Slash | 126.4% | 30 | 252.8%/s | 60 | 3 |
+| Final Slash | 229.1% | 29 | 474%/s | 120 | 6 |
 
 **Plunge**  
 Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 164.44% |
-| Low Plunge DMG | 328.81% |
-| High Plunge DMG | 410.7% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 164.44% | 35 | 2 |
+| Low Plunge DMG | 328.81% | 150 | 4 |
+| High Plunge DMG | 410.7% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Searing Onslaught" %}
@@ -75,6 +75,8 @@ This skill can be consecutively used 3 times. Enters CD if not cast again within
 | Damage Element | Pyro | Pyro | Pyro |
 | Damage Type | Skill | Skill | Skill | 
 | Cooldown | 10s | - | - |
+| Poise Damage | 120 | 120 | 120 |
+| Impulse Type | 4 | 5 | 6 |
 
 **Notes**
 * The cooldown starts after the first cast.
@@ -103,6 +105,8 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 | Energy Cost | 40 | - | - |
 | Duration | 12s | - | - |
 | CD | 12s | - | - | 
+| Poise Damage | Cast: 400 <br> 1st Part: 100 <br> 2nd Part: 100 | 100 | 100 |
+| Impulse Type | Cast: 3 <br> 1st Part: 4 <br> 2nd Part: 5 | Heavy, 900, 0 | 8 |
 
 | Attribute | Field |
 | :--- | :--- |

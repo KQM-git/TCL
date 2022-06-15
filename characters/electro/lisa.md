@@ -32,13 +32,13 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 67.32% | 25 | 161.57%/s | 1A |
-| 2-Hit | 61.06% | 46 | 167.45%/s | 1A |
-| 3-Hit | 72.76% | 70 | 172.41%/s | 1A |
-| 4-Hit | 93.43% | 114 | 155.04%/s | 1A |
-| With Recovery | 294.57% | 143 | 123.6%/s | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 67.32% | 25 | 161.57%/s | 1A | 6.75 | 1 |
+| 2-Hit | 61.06% | 46 | 167.45%/s | 1A | 6 | 1 |
+| 3-Hit | 72.76% | 70 | 172.41%/s | 1A | 7.35 | 1 |
+| 4-Hit | 93.43% | 114 | 155.04%/s | 1A | 8.7 | 1 |
+| With Recovery | 294.57% | 143 | 123.6%/s | 1A | - | - |
 
 * Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
 * 3 hits / 2.5s ICD, shared with tap elemental skill.
@@ -46,18 +46,18 @@ Perform up to 4 lightning attacks dealing Electro DMG.
 **Charged Attack**  
 Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
 
-| String | Talent 9% | Frames | MV/s | GU | ICD |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 301.1% | 95 | 190.17%/s | 1A | 0.5s |
+| String | Talent 9% | Frames | MV/s | GU | ICD | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 301.1% | 95 | 190.17%/s | 1A | 0.5s | 15 | 3 |
 
 **Plunge Attack**  
 Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 5 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 3 |
+| High Plunge DMG | 260.76% | 100 | 4 |
 
 {% endtab %}
 
@@ -72,17 +72,19 @@ On hit, it deals Electro DMG, and applies a stack of the **Conductive** status (
 After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.  
 Deals great amounts of extra damage to opponents based on the number of **Conductive** stacks applied to them, and clears their **Conductive** status.
 
-| Attribute | Tap  | Hold |
+| Attribute | Tap | Hold \(0 / 1 / 2 / 3 stacks\) |
 | :--- | :--- | :--- |
 | Skill DMG \(T9%\) | 136% | 544% / 625.6% / 720.8% / 828.24% |
 | Frames | 21 | 116 |
 | MV/s \(T9%\) | 388.57%/s | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s ||
 | GU | 1A | 2B |
-| ICD | 3 hits / 2.5s, shared with normal attacks | None |
-| Particles | ~ | 5 \(-\) |
+| ICD | 3 hits / 2.5s <br> \(Shared with NA\) | None |
+| Particles | - | 5 \(-\) |
 | Damage Element | Electro | Electro |
 | Damage Type | Skill | Skill |
-| CD | 1s | 16s 
+| CD | 1s | 16s |
+| Poise Damage | 18 | 150 / 195 / 240 / 300 |
+| Impulse Type | 2 | 2 / 2 / 2 / 2 |
 
 **Notes**
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
@@ -105,7 +107,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Attribute | Burst |
 | :--- | :--- |
 | Summon DMG | 10% |
-| Skill DMG \(T9%\) | 62.15% * 29 |
+| Discharge DMG \(T9%\) | 62.15% * 29 |
 | Tick Rate | 0.5s | 
 | Cast Frames | 57 |
 | Energy Frame | 64 |
@@ -118,6 +120,8 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Energy Cost | 80 |
 | Duration | 15s |
 | CD | 20s |
+| Poise Damage | 10 |
+| Impulse Type | Summon: 4 <br> Discharge: 2 |
 
 **Notes**
 * **Lightning Rose** has an unlisted instance of damage on initial summon

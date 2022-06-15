@@ -32,20 +32,20 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 **Normal Attacks**  
 Keqing performs up to 5 consecutive attacks.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 75.37% | 11 | 411.11%/s |
-| 2-Hit | 75.37% | 33 | 274.08%/s |
-| 3-Hit | 100.01% | 60 | 250.75%/s |
-| 4-Hit | 57.83% + 63.2% | 87 / 97 | 229.97%/s |
-| 5-Hit | 123.08% | 133 | 223.25%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 75.37% | 11 | 411.11%/s | 38.7 | 3 |
+| 2-Hit | 75.37% | 33 | 274.08%/s | 38.7 | 3 |
+| 3-Hit | 100.01% | 60 | 250.75%/s | 51.3 | 3 |
+| 4-Hit | 57.83% + 63.2% | 87 / 97 | 229.97%/s | 31.05 x2 | 3 x2 |
+| 5-Hit | 123.08% | 133 | 223.25%/s | 64.8 | 7 |
 
 **Charged Attack**  
 Keqing consumes 25 stamina to unleash 2 rapid strikes.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Charged Attack | 141.09% + 158% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Charged Attack | 141.09% + 158% | 47.3 x2 | 2 + 6 |
 
 | String | Frames | MV/s (Talent 9%) |
 | :--- | :--- | :--- |
@@ -58,11 +58,11 @@ Keqing consumes 25 stamina to unleash 2 rapid strikes.
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Stellar Restoration" %}
@@ -93,6 +93,8 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 | Damage Element | Electro | - |
 | Damage Type |  Skill | - |
 | CD | 7.5s | - |
+| Poise Damage | Lightning Stiletto: 50 <br> Slashing: 100 | 50 x2 |
+| Impulse Type | Lightning Stiletto: 3 <br> Slashing: Air, 0, 600 | 2 x2 |
 
 **Notes**
 * When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
@@ -109,7 +111,7 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 | :--- | :--- |
 | Cast DMG \(T9%\) | 149.6% |
 | Consecutive Slash DMG \(T9%\) | 40.8% x 8 |
-| Last Attack \(T9%\) | 320.96% |
+| Last Attack DMG \(T9%\) | 320.96% |
 | Cast Frames | 125 |
 | Energy Frame | 60 |
 | CD Frame | 54 |
@@ -120,6 +122,8 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
+| Poise Damage | Cast: 100 <br> Consecutive Slashes: 25 <br> Final hit: 200 |
+| Impulse Type | Cast: 1 <br> 1st, 3rd, 6th, 8th hits: 3 <br> 2nd, 4th, 5th, 7th hits: 1 <br> Final hit: 7 |
 
 **Notes**
 * Keqing exits her Starward Sword before the last slash and can swap or attack.
@@ -178,6 +182,10 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 
 When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.  
 This effect can only occur once every 5s.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 50 | 1 |
 
 * The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
   * For more details, see the [full entry](../../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) in Keqing's Evidence Vault.

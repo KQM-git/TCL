@@ -31,34 +31,34 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-hit | 66.36% | 15 | 265.44% |
-| 2-Hit | 66.36% | 33 | 241.31% |
-| 3-Hit | 85.32% | 72 | 181.70% |
-| 4-Hit | 86.9% | 113 | 161.92% |
-| 5-Hit | 109.02% | 144 | 172.48% |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-hit | 66.36% | 15 | 265.44% | 12.9 | 1 |
+| 2-Hit | 66.36% | 33 | 241.31% | 13.2 | 1 |
+| 3-Hit | 85.32% | 72 | 181.70% | 15 | 1 |
+| 4-Hit | 86.9% | 113 | 161.92% | 14.4 | 1 |
+| 5-Hit | 109.02% | 144 | 172.48% | 16.5 | 1 |
 
 **Aimed Shot**  
 Perform a precise Aimed Shot with increased DMG.  
 A fully charged shot will deal Pyro DMG.
 
-| Type | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 25 | 193.392%/s | ~ |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 2B |
-| With Recovery | ~ | 96 | 131.75%/s | ~ |
+| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 25 | 193.392%/s | - |  - | - |
+| Fully Charged | 210.8% | 86 | 147.07%/s | 2B | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 96 | 131.75%/s | - | - | - |
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 **Plunge Attack**  
 Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low Plunge DMG | 208.77% |
-| High Plunge DMG | 260.76% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.77% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 {% endtab %}
 
 {% tab title="Explosive Puppet" %}
@@ -86,6 +86,8 @@ The longer the button is held, the further the throw.
 | Damage Type | Skill | 
 | Duration | 8s |
 | Cooldown | 15s |
+| Explosion Poise Damage | 260 |
+| Explosion Impulse Type | 5 |
 
 **Notes**
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
@@ -118,6 +120,8 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Energy Cost | 40 |
 | Duration | 2s |
 | CD | 12s |
+| Poise Damage | Main Arrows: 7.22 x5 <br> Sub Arrows: 7.22 x13 |
+| Impulse Type | Main Arrows: 2 x5 <br> Sub Arrows: 0 x13 |
 
 **Notes**
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
@@ -159,6 +163,11 @@ Aimed Shot hits on weak points increase ATK by 15% for 10s.
 ### **One Arrow to Rule Them All**
 
 Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG.
+
+| Extra Arrow | Poise Damage | Impulse Type |
+|:--- | :--- | :--- |
+| Aime Shot | 2 \(Headshot: 6\) | 2 \(Headshot: 5\) |
+| Fully Charged | 4 \(Headshot: 12\) | 2 \(Headshot: 5\) |
 
 * The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.

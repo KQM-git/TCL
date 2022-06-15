@@ -31,12 +31,14 @@ description: The Divine Priestess of Watatsumi Island. All of the island's affai
 **Normal Attacks**  
 Performs up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 116.24% | 10 | 697.44%/s | 1A |
-| 2-Hit | 104.62% | 36 | 368.1%/s | 1A |
-| 3-Hit | 160.32% | 82 | 278.65%/s | 1A |
-| With Recovery | ~ | 122 | 141.8%/s | ~ |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 116.24% | 10 | 697.44%/s | 1A | 12.82 | 1 / 3\* |
+| 2-Hit | 104.62% | 36 | 368.1%/s | 1A | 11.53 | 1 / 3\* |
+| 3-Hit | 160.32% | 82 | 278.65%/s | 1A | 17.68 | 1 / 3\* |
+| With Recovery | - | 122 | 141.8%/s | - | - | - |
+
+\* During her Elemental Burst, **Ceremonial Garment**.
 
 * Kokomi's Normal Attacks...
   * Apply hydro and share a 3 hit / 2.5s ICD.
@@ -47,20 +49,22 @@ Performs up to 3 consecutive attacks that take the form of swimming fish, dealin
 **Charged Attack**  
 Consumes 50 Stamina to deal AoE Hydro DMG after a short casting time.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 252.14% | 45 | 336.19% | 1A |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 252.14% | 45 | 336.19% | 1A | 100 | 1 / Air, 0, 600\* |
+
+\* During her Elemental Burst, **Ceremonial Garment**.
 
 * Kokomi's Charged Attack applies hydro and has no ICD.
 
 **Plunge Attack**  
 Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Hydro DMG upon impact with the ground.
 
-| Type | Talent 9% | GU |
-| :--- | :--- | :--- |
-| Plunge DMG | 104.41% | ~ |
-| Low Plunge DMG | 208.77% | 1A |
-| High Plunge DMG | 260.76% | 1A |
+| Type | Talent 9% | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | - | 5 | 2 |
+| Low Plunge DMG | 208.77% | 1A | 50 | 3 |
+| High Plunge DMG | 260.76% | 1A | 100 | 4 |
 
 * Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
 
@@ -85,6 +89,10 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 | Duration | 12s |
 | Tick Rate | 2s |
 | Cooldown | 20s |
+| Poise Damage | 50 / 100\* |
+| Impulse Type | 1  |
+
+\* During her Elemental Burst, **Ceremonial Garment**.
 
 **Notes**
 * Does a 0~1 (1:2) check once on every instance of damage **Bake-Kurage** does as long as it stays on the field.
@@ -119,6 +127,8 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | Damage Type | Burst |
 | Energy Cost | 70 |
 | Cooldown | 18s |
+| Poise Damage | 250 |
+| Impulse Type | 3 |
 
 | Attribute | Buff (Talent 9%) |
 | :--- | :--- |

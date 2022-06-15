@@ -33,32 +33,32 @@ Performs up to 5 rapid strikes.
 
 * Lumine is the female traveler.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.69% | 14 | 350.1%/s |
-| 2-Hit | 79.79% | 43 | 225.32%/s |
-| 3-Hit | 97.33% | 80 | 194.11%/s |
-| 4-Hit | 107.12% | 116 | 189.27%/s |
-| 5-hit | 130.03% | 148 | 201.06%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.69% | 14 | 350.1%/s | 40.5 | 3 |
+| 2-Hit | 79.79% | 43 | 225.32%/s | 39.6 | 3 |
+| 3-Hit | 97.33% | 80 | 194.11%/s | 48.6 | 3 |
+| 4-Hit | 107.12% | 116 | 189.27%/s | 54.0 | 3 |
+| 5-hit | 130.03% | 148 | 201.06%/s | 64.8 | 6 |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 102.7%+132.72% | - | - |
-| N1C | 317.11% | 62 | 306.89%/s |
-| N2C | 396.90% | 84 | 283.5%/s |
-| N3C | 494.23% | 115 | 260.12%/s |
-| N4C | 601.35% | 160 | 225.51%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 102.7%+132.72% | - | - | 50.6 x2 | 2 + 6 |
+| N1C | 317.11% | 62 | 306.89%/s | - | - |
+| N2C | 396.90% | 84 | 283.5%/s | - | - |
+| N3C | 494.23% | 115 | 260.12%/s | - | - |
+| N4C | 601.35% | 160 | 225.51%/s | - | - |
 
 **Plunge**
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 
 {% endtab %}
 
@@ -68,32 +68,32 @@ Performs up to 5 rapid strikes.
 
 * Aether is the male traveler.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.69% | 13 | 377.03%/s |
-| 2-Hit | 79.79% | 38 | 254.97%/s |
-| 3-Hit | 97.33% | 71 | 218.71%/s |
-| 4-Hit | 107.12% | 123 | 178.5%/s |
-| 5-hit | 130.03% | 163 | 182.56%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.69% | 13 | 377.03%/s | 41.4 | 3 |
+| 2-Hit | 79.79% | 38 | 254.97%/s | 43.2 | 3 |
+| 3-Hit | 97.33% | 71 | 218.71%/s | 53.1 | 3 |
+| 4-Hit | 107.12% | 123 | 178.5%/s | 57.6 | 3 |
+| 5-hit | 130.03% | 163 | 182.56%/s | 70.2 | 6 |
 
 **Charged Attack**  
 The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 102.7%+111.55% | - | - |
-| N1C | 295.94% | 54 | 328.82%/s |
-| N2C | 297.26% | 90 | 250.49%/s |
-| N3C | 374.26% | 115 | 246.81%/s |
-| N4C | 459.01% | 160 | 217.57%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack | 102.7%+111.55% | - | - | 50.6 x2 | 2 + 6 |
+| N1C | 295.94% | 54 | 328.82%/s | - | - |
+| N2C | 297.26% | 90 | 250.49%/s | - | - |
+| N3C | 374.26% | 115 | 246.81%/s | - | - |
+| N4C | 459.01% | 160 | 217.57%/s | - | - |
 
 **Plunge**
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 
 {% endtab %}
 
@@ -111,7 +111,7 @@ Elemental Absorption may only occur once per use.
 | Attribute | Tap | Hold | Additional Elemental DMG |
 | :--- | :--- | :--- | :--- |
 | Cutting DMG \(T9%\) | - | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4 |
-| Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% | 74.80% / 81.60% |
+| Initial/Max Storm DMG \(T9%\) | 299.2% | 299.2% / 326.4% | 74.80% / 81.60% |
 | Particles | 2 | 2 / 3~4 (2:1) | - |
 | Frames | 60 | 60~145 | - |
 | GU | 1U | 1U | 1A |
@@ -120,6 +120,10 @@ Elemental Absorption may only occur once per use.
 | Damage Element | Anemo | Anemo | Absorbed Element |
 | Damage Type | Skill | Skill | Skill |
 | CD | 5s | 5s / 8s | - |
+| Initial Cutting Poise Damage | - | 10 x2 + 10 x4 | - |
+| Max Cutting Poise Damage | - | 2 x2 + 2 x4 | - |
+| Storm Poise Damage | 200 | 200 | - |
+| Storm Impulse Type | 5 | 6 | - |
 
 **Notes**
 * Absorption priority: Cryo > Pyro > Hydro > Electro
@@ -151,6 +155,8 @@ Elemental Absorption may only occur once per use.
 | Energy Cost | 60 | - |
 | Duration | 6s | - |
 | Cooldown | 15s | - |
+| Poise Damage | 13 | 3 |
+| Impulse Type | 0 | 0 |
 
 **Notes**
 * Absorption priority: Cryo > Pyro > Hydro > Electro.
@@ -172,7 +178,7 @@ The Traveller has no passive talent.
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.
 
 **Notes**
-* Applies 1U Anemo.
+* Applies 1U Anemo, does 36 Poise Damage, and has Impulse Type 2.
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 * This instance of damage happens before N5 for Aether and after N5 for Lumine.

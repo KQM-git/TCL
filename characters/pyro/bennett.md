@@ -32,32 +32,33 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 81.84% | 12 | 409.20%/s |
-| 2-Hit | 78.53% | 32 | 300.69%/s |
-| 3-Hit | 100.33% | 63 | 248.29%/s |
-| 4-Hit | 109.65% | 118 | 188.31%/s |
-| 5-Hit | 132.09% | 167 | 180.52%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 81.84% | 12 | 409.20%/s | 38.7 | 3 |
+| 2-Hit | 78.53% | 32 | 300.69%/s | 37.8 | 3 |
+| 3-Hit | 100.33% | 63 | 248.29%/s | 47.7 | 3 |
+| 4-Hit | 109.65% | 118 | 188.31%/s | 52.2 | 3 |
+| 5-Hit | 132.09% | 167 | 180.52%/s | 62.1 | 6 |
 
 **Charged Attack**  
 Consumes 20 stamina to unleash 2 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s|
-| :--- | :--- | :--- | :--- |
-| N1C | 296.09% | 100 | 177.65%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 102.7% + 111.55% | - | - | 2 + 6 |
+| N1C | 296.09% | 100 | 177.65%/s | - | - |
 
 * All frame counts are done against Ruin Guards.
 * Enemies struck by Bennett's charged attack will be staggered or launched.
 
-**Plunge**  
+**Plunge Attack**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge Impact | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Passion Overload" %} 
@@ -84,6 +85,8 @@ Bennett takes no damage from being launched.
 | Damage Element | Pyro | Pyro | Pyro |
 | Damage Type | Skill | Skill | Skill |
 | CD | 5s | 7.5s | 10s |
+| Poise Damage | 100 | 100 x2 | Hit: 100 x2 + 250 <br> Explosion: 250 |
+| Impulse Type | 4 | 3 + \(Air, 300, 900\) | Hit: 3 + \(Air, 300, 900\) + 8 <br> Explosion: Air, 650, 950 |
 
 **Notes**
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 
@@ -113,6 +116,8 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 | Damage Type | Burst |
 | Energy Cost | 60 |
 | CD | 15s |
+| Poise Damage | 200 |
+| Impulse Type | 4 |
 
 | Attribute | Field \(Talent 9%\) |
 | :--- | :--- |
@@ -200,6 +205,8 @@ This additional attack does 135% of the second attack's DMG.
 | Damage Element | Pyro |
 | Damage Type | Skill |
 | CD | 7.5s | 
+| Poise Damage | 100 |
+| Impulse Type | 6 |
 
 {% endtab %}
 

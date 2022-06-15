@@ -33,7 +33,19 @@ LevelMultiplier \approx &
 \end{align}
 $$
 
-Transformative reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by elemental resistance to the type of damage the reaction deals.
+| Reaction | Type | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Burning | AoE \(1 meter\) | 30 | 0 |
+| Electro-Charged | Direct Damage \(Main Target\) | 130 | 2 |
+| Electro-Charged | Direct Damage \(Secondary Ticks) | 130 | 2 |
+| Frozen | Duration Ends | 30 | 2 |
+| Overloaded | AoE \(5 meters\) | 90 | 5 |
+| Superconduct | AoE \(5 meters\) | 30 | Heavy, 240, 300 |
+| Shattered | Direct Damage | 30 | 3 |
+| Swirl | Direct Damage | 130 | 1 |
+| Swirl | AoE \(6 meters\) | 30 | 1 |
+
+Transformative Reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by Elemental Resistance to the type of damage the Reaction deals.
 
 Shatter, Superconduct, and Swirl have internal cooldowns and can only deal damage twice within the span of 0.5 seconds. Overload can only deal damage once every 0.5 seconds.
 

@@ -31,14 +31,14 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 **Normal Attacks**  
 Performs up to 5 consecutive shots with a bow.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 59.94% ×2 (119.88%) | 18 + 27 | 266.40%/s |
-| 2-Hit DMG | 115% | 51 | 276.33%/s |
-| 3-Hit DMG | 149.49% | 88 | 262.07%/s |
-| 4-Hit DMG | 78.07% ×2 (156.14%) | 113 + 128 | 253.36%/s |
-| 5-Hit DMG | 178.04% | 164 | 262.88%/s |
-| With Recovery | ~ | 200 | 215.57%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type \(no E/with E\) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 59.94% ×2 (119.88%) | 18 + 27 | 266.40%/s | 8.16 | 1 / 2 |
+| 2-Hit DMG | 115% | 51 | 276.33%/s | 15.65 | 1 / 2 |
+| 3-Hit DMG | 149.49% | 88 | 262.07%/s | 19.98 | 1 / 2 |
+| 4-Hit DMG | 78.07% ×2 (156.14%) | 113 + 128 | 253.36%/s | 10.66 | 1 / 2 |
+| 5-Hit DMG | 178.04% | 164 | 262.88%/s | 23.84 | 1 / 2 |
+| With Recovery | - | 200 | 215.57%/s | - | - |
 
 * The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 
@@ -49,15 +49,17 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 • Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.  
 • Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
 
-| String | Talent 9% | Frames | MV/s | GU |
-| :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | ~ |
-| With Recovery | ~ | 26 | 185.95%/s | ~ |
-| Charge Level 1 | 210.8% | 86 | 147.07%/s | 1A |
-| With Recovery | ~ | 97 | 130.39%/s | ~ |
-| Kindling Arrows (1, 2, 3) | 27.88% | 103, 121, 139 | 139.03%/s, 132.18%/s, 127.10%/s | 1A |
-| With Recovery | ~ | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | ~ |
+| String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
+| With Recovery | - | 26 | 185.95%/s | - | - | - |
+| Charge Level 1 | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
+| With Recovery | - | 97 | 130.39%/s | - | - | - |
+| Kindling Arrows (1, 2, 3) | 27.88% | 103, 121, 139 | 139.03%/s, 132.18%/s, 127.10%/s | 1A | 20 | 2 |
+| With Recovery | - | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | - |
+
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* Regular Charge Level 2 arrows have Impulse Type 2 and headshots have 5, Poise Damage is the same as Charge Level 1.
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
 * **Kindling Arrows** are affected by Amos' Bow's passive and reach max stacks at low range.
@@ -65,10 +67,11 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 **Plunge Attacks**  
 Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
 
-| String | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 104.41% |
-| Low/High Plunge DMG | 208.77% / 260.76% |
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 104.41% | 10 | 2 |
+| Low Plunge DMG | 208.11% | 50 | 2 |
+| High Plunge DMG | 260.76% | 100 | 3 |
 
 {% endtab %}
 
@@ -89,6 +92,8 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 | Damage Type | Normal Attack |
 | Duration | 10s |
 | CD | 18s |
+| Poise Damage | 60 |
+| Impulse Type | 3 |
 
 **Notes**
 * The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
@@ -123,6 +128,8 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 | Energy Cost | 60 | - |
 | CD | 15s | - |
 | Duration | 10s | - |
+| Poise Damage | 220 | 60 |
+| Impulse Type | Air, 200, 800 | 3 |
 
 {% endtab %}
 {% endtabs %}
@@ -202,6 +209,11 @@ Maximum upgrade level is 15.
 
 During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
 
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 15 | 2 |
+
+* Kindling Arrow shares ICD with Yoimiya's infused Normal Attacks.
 * These extra Blazing Arrow shares ICD with Yoimiya's infused normal attacks.
 
 {% endtab %}

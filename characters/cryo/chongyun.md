@@ -32,12 +32,12 @@ description: A young exorcist from a family of exorcists. He does everything he 
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 128.61% | 24 | 321.52%/s |
-| 2-Hit | 115.97% | 62 | 236.69%/s |
-| 3-Hit | 147.57% | 124 | 189.75%/s |
-| 4-Hit | 185.97% | 204 | 170.04%/s |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 128.61% | 24 | 321.52%/s | 105 | 3 |
+| 2-Hit | 115.97% | 62 | 236.69%/s | 95 | 3 |
+| 3-Hit | 147.57% | 124 | 189.75%/s | 121 | 3 |
+| 4-Hit | 185.97% | 204 | 170.04%/s | 152 | 6 |
 
 * ICD is 3 hits / 2.5s, shared with Charged Attacks.
 
@@ -45,11 +45,11 @@ Perform up to 4 consecutive strikes.
 Drains Stamina over time to perform a continuous spinning attack for up to 5s.  
 Perform a powerful slash at the end of the sequence.
 
-| Type | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Spinning DMG | 103.41% | 30 | 206.82%/s |
-| Final DMG | 186.99% | 29 | 386.88%/s |
-| Stamina Cost | 40/s | ~ | ~ |
+| Type | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Spinning DMG | 103.41% | 30 | 206.82%/s | 60 | 3 |
+| Final DMG | 186.99% | 29 | 386.88%/s | 120 | 6 |
+| Stamina Cost | 40/s | - | - | - | - |
 
 * All frame counts are done against Ruin Guards.
 * ICD is 3 hits / 2.5s, shared with Normal Attacks.
@@ -57,11 +57,11 @@ Perform a powerful slash at the end of the sequence.
 **Plunge Attack**  
 Plunge from midair to strike the ground below dealing AoE DMG.
 
-| Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 137.03% |
-| Low Plunge DMG | 274.01% |
-| High Plunge DMG | 342.25% |
+| Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 137.03% | 35 | 2 |
+| Low Plunge DMG | 274.01% | 150 | 4 |
+| High Plunge DMG | 342.25% | 200 | 7 |
 {% endtab %}
 
 {% tab title="Chonghua’s Layered Frost" %}
@@ -83,6 +83,8 @@ After a short delay, the cold air created by the Cryo explosion will coalesce in
 | Infusion Duration | 2.8s |
 | Field Duration | 10s |
 | CD | 15s |
+| Poise Damage | 150 |
+| Impulse Type | Air, 0, 600 |
 
 **Notes**
 * The field works as a cylinder with a large height.  
@@ -106,6 +108,8 @@ When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
+| Poise Damage | 100 |
+| Impulse Type | Air, 0, 600 |
 
 **Notes**
 * The maximum casting range for **Spirit Blade: Cloud-Parting Star** is 17.85m \(7 Abyss tiles\). If it's casted any further it will not target the enemy.
@@ -133,6 +137,10 @@ Sword, Claymore, or Polearm-wielding characters within the field created by **Sp
 
 When the field created by **Spirit Blade: Chonghua's Layered Frost** disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as **AoE Cryo DMG**. Opponents hit by this blade will have their **Cryo RES** decreased by 10% for 8s.
 
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 100 | Air, 0, 600 |
+
 **Notes**
 * The **Spirit Blade** is considered Elemental Skill damage.  
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
@@ -154,6 +162,8 @@ The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each bl
 | Damage Element | Cryo |
 | Damage Type | None |
 | GU | 1A |
+| Poise Damage | 36 |
+| Impulse Type | 3 |
 
 {% endtab %}
 
@@ -198,6 +208,10 @@ Maximum upgrade level is 15.
 
 **Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.
 This skill will also summon 1 additional spirit blade.
+
+| Poise Damage | Impulse Type |
+| :--- | :--- |
+| 100 | Air, 0, 600 |
 
 **Notes**
 * This DMG Bonus is **Additive**.

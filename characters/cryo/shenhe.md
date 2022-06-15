@@ -29,32 +29,32 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 79.47% | 13 | 366.78% |
-| 2-Hit | 73.94% | 44 | 209.20% |
-| 3-Hit | 97.96% | 68 | 221.80% |
-| 4-Hit | 48.35% + 48.35% | 97 + 103 | 202.76% |
-| 5-Hit | 120.55% | 135 | 208.28% |
-| Recovery | - | 167 | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 79.47% | 13 | 366.78% | 46.08 | 3 |
+| 2-Hit | 73.94% | 44 | 209.20% | 43.44 | 3 |
+| 3-Hit | 97.96% | 68 | 221.80% | 56.32 | 3 |
+| 4-Hit | 48.35% + 48.35% | 97 + 103 | 202.76% | 27.88 x2 | 2 + 4 |
+| 5-Hit | 120.55% | 135 | 208.28% | 73.6 | 6 |
+| Recovery | - | 167 | - | - | - |
 
 
 **Charged Attack**  
 Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| CA | 203.33% | - | - |
-| N1C | 282.80% | 20 + 54 | 314.22% |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| CA | 203.33% | - | - | 120 | 5 |
+| N1C | 282.80% | 20 + 54 | 314.22% | - | - |
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}
 
 {% tab title="Spring Spirit Summoning" %}
@@ -88,6 +88,8 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 | Damage Type | Skill | Skill |
 | Duration | 10s | 15s |
 | CD | 10s | 15s |
+| Poise Damage | 100 | 200 |
+| Impulse Type | 3 | 2 |
 
 **Notes**
 * **Icy Quill** damage increase is calculated as additive flat damage.
@@ -129,6 +131,8 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 | Energy Cost | 80 | - |
 | Duration | 12s | - | 
 | CD | 20s | - |
+| Poise Damage | 250 | 50 |
+| Impulse Type | 3 | 2 |
 
 **Notes**
 * Damage ticks twice every 2 seconds
