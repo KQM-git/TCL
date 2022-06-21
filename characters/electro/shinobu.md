@@ -1,5 +1,5 @@
 ---
-description: The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.
+description: 'The capable and reliable deputy leader of the "Arataki Gang." Please note: capable and reliable are not appellations for the "Arataki Gang," but for their deputy leader in specific.'
 ---
  
 # Kuki Shinobu
