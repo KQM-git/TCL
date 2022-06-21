@@ -30,6 +30,9 @@ redirects:
   raiden: ./characters/electro/raiden.md
   razor: ./characters/electro/razor.md
   sara: ./characters/electro/sara.md
+  shinobu: ./characters/electro/shinobu.md
+  kuki: ./characters/electro/shinobu.md
+  kuki-shinobu: ./characters/electro/shinobu.md
   traveler-electro: ./characters/electro/traveler-electro.md
   emc: ./characters/electro/traveler-electro.md
   yae-miko: ./characters/electro/yae-miko.md
