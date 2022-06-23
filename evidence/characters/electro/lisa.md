@@ -108,6 +108,55 @@ Can also work in conjunction with the effect described in a previous entry: Viol
 **Significance:**  
 Lisa can easily abuse this tech to quickly and efficiently stack Conductive. This allows for smoother and more rapid gameplay and very much opens up a Burst Carry archetype.
 
+### Lisa's Conductive Stack Mechanics
+
+**By:** ArchedNosi\#1484  
+**Added:** 2021-06-17  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/987339246136340570/transcript-lisa-conductive-information.html)
+
+**Findings:**  
+Any application of a Conductive Stack lasts for 15s until dissipation. This similarly applies to simultaneous sources of Stacks, like multi-stacking via an accompanying reaction (Overload or Superconduct) or in mass groups, as well as her C6 applying 3 Stacks at once.  
+Further application of Conductive Stacks when an enemy is already at 3 Stacks resets durations from the lowest back to 15s.  
+
+* Example 1  
+  * Tap E > Stack 1 applied at 00:00 (Stack 1 will dissipate at 00:15)  
+  * Tap E > Stack 2 applied at 00:02 (Stack 2 will dissipate at 00:17)  
+  * Tap E > Stack 3 applied at 00:04 (Stack 3 will dissipate at 00:19)  
+  * Tap E > Stack 1 reset at 00:06 (Stack 1 will dissipate at 00:21)  
+* Example 2  
+  * Tap E + OL/SC > Stack 1, 2 applied at 00:00 (Stack 1, 2 will dissipate at 00:15)  
+  * Tap E > Stack 3 applied at 00:02 (Stack 3 will dissipate at 00:17)  
+  * Tap E > Stack 1 reset at 00:04 (Stack 1 will dissipate at 00:19, but Stack 2 remains to dissipate at 00:15)  
+* Example 3  
+  * Tap E > Stack 1 applied at 00:00 (Stack 1 will dissipate at 00:15)  
+  * Tap E > Stack 2 applied at 00:02 (Stack 2 will dissipate at 00:17)  
+  * Tap E > Stack 3 applied at 00:04 (Stack 3 will dissipate at 00:19)  
+  * Swap In C6 > Stack 1, 2, 3 reset at 00:06 (Stack 1, 2, 3 will all dissipate at 00:21)  
+* Example 4  
+  * Swap In C6 > Stack 1, 2, 3 applied at 00:00 (Stack 1, 2, 3 will all dissipate at 00:15)  
+  * Tap E > Stack 1 reset at 00:02 (Stack 1 will disspate at 00:17, but Stack 2, 3 remain to dissipate at 00:15)  
+
+Additionally, since having Conductive Stacks is an enemy attribute, other Players who use Lisa in co-op may consume Conductive Stacks should there be any Stacks on a given enemy, regardless if it was them or another Lisa who applied such Stacks.
+
+**Evidence:**  
+* All sources of Conductive lasting for 15s:
+  * Tap E - [YouTube](https://youtu.be/eGUwH2pSPd8)
+  * CA - [YouTube](https://youtu.be/3x_4BzFHlDs)
+  * Rap E + OL/SC reaction - [YouTube](https://youtu.be/Ux_7QyaV83s)
+  * C6 - [YouTube](https://youtu.be/uH-oRuBlWZM)
+* Demonstration of Conductive Stacks having their own independent 15s durations:
+  * All singular applications - [YouTube](https://youtu.be/6ig3PJ_prKo)
+  * Multi-application and singular application - [YouTube](https://youtu.be/W91bPDaoiWQ)
+* Demonstration of the reset mechanic of Conductive Stacks:
+  * Four Tap Es, essentially Example 1 of above - [YouTube](https://youtu.be/87-8J5w01Y4)
+* Co-op Conductive Stacks:
+  * Another Lisa consuming Conductive Stacks - [YouTube](https://youtu.be/w1UlaR4aQC4)
+  * Another Lisa consuming Conductive Stacks (C6) - [YouTube](https://youtu.be/7hWTr4aXhPQ)
+  * Calculatory evidence for the above two videos - [YouTube](https://imgur.com/a/GIiGwVc)
+
+**Significance:**  
+Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 15s individually, can be reset, and can be consumed in co-op (regardless of source).
+
 ## Burst Mechanics
 
 ### Lightning Rose Vertical Range

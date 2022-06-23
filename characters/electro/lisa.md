@@ -88,7 +88,9 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
 
 **Notes**
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
-  * This means in tight enough groups, it can apply all 3 stacks in a single Press E
+  * This means in tight enough groups, it can apply all 3 stacks in a single Press E.
+  * **Conductive** stacks last 15s with independent timers. Beyond 3 **Conductive** stacks, additional applications will refresh the stack(s) with the least remaining duration.
+  * As **Conductive** stacks are an enemy attribute, multiple players using Lisa in co-op share **Conductive** stacks consumption and stacking.
 * The hitbox of Lisa's Hold E is a cylinder with the following dimensions/attributes:
   * Its Radius is indicated by its VFX and mobs' centers have to be inside said radius in order to take damage.
   * Its Height/Depth is either unlimited or absurdly large. This is difficult to properly quantize.
