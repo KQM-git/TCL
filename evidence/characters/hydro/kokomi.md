@@ -25,65 +25,9 @@ search: false
   * E Radius: 2.5 tiles - [deRykcihC#0621](https://youtu.be/04pVUvJJm4A)
 * Frames: 
 
-### Attack Mechanics
+## Normal Attack Mechanics
 
 * Kokomi's normal attacks hit in a small AoE. - [Doug#8888](https://youtu.be/JV7CBavvYQ4)
-
-### Skill Mechanics
-
-* Kokomi's E snapshots. - [Van#8934](https://imgur.com/a/wHBV03P)
-* If Bake-Kurage disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
-* Kokomi is limited to one Bake-Kurage on-field at a time.
-  * Sacrificial Fragments: [CC#5588](https://youtu.be/ynane6Dr31s)
-  * 4pc Gamblers: [Mcpie#8672](https://imgur.com/ATtyo26)
-* Kokomi's E snapshots, but does not resnapshot upon Q cast when refreshing the Bake-Kurage duration and the damage dynamically changes while Q is active. - [CC#5588](https://www.youtube.com/watch?v=hOQVxguTCVg)
-  * 00:08 - proof of snapshot
-  * 00:29 - Bake-Kurage damage changes upon Q cast
-  * 00:53 - Bennett atk buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
-  * 01:28 - prematurely switching out of Kokomi during her Q results in Bake-Kurage bonus dmg from Q going away
-* The Bake-Kurage damage bonus when Q is active does not get snapshotted by Bake-Kurage - [Aetherpon#5730](https://www.youtube.com/watch?v=1NmAZBZsTDk) and [CC#5588](https://youtu.be/hOQVxguTCVg?t=88)
-* Kokomi E spawn has a fixed range. - [CC#5588](https://youtu.be/w2ouvQFhNkI)
-* Kokomi's Bake-Kurage only heals the active character and if they are within the Bake-Kurage's AoE - [CC#5588](https://www.youtube.com/watch?v=t8K8FUOai50)
-* If Kokomi dies, Bake-Kurage still remains on-field dealing damage. - [CC#5588](https://youtu.be/gSYBPDn4B_E)
-* Bake-Kurage healing has infinite vertical range. - [Doug#8888](https://youtu.be/TyJ-WuAFVVY)
-* Bake-Kurage alone cannot cause infusion or be swirled off of. - [Mcpie#8672](https://imgur.com/2swgDRw)
-
-#### Infinite Jellyfish Extension
-**By:** Steno#0119  
-**Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934084290352930969/936219344843718656/transcript-infinite-jellyfish-extension.html)
-
-**Finding:**  
-While Kokomi's E does not normally snapshot the damage bonus from her Q, it is possible to snapshot it by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
-
-**Evidence:**  
-[Youtube](https://www.youtube.com/watch?v=K-yy-ghu9IA)
-
-**Significance:**  
-Who doesn't love some obscure Kokomi tech.
-
-### Burst Mechanics
-
-* The DMG Bonus from her Burst can be extended if an attack is buffered right before her Burst duration ends. - [CC#5588](https://youtu.be/QavGQnCuodQ)
-* Kokomi cannot absorb pre-fed particles during her Elemental Burst animation - [Aetherpon#5730](https://www.youtube.com/watch?v=52NLl3LR2io)
-
-### Passive Mechanics
-
-#### A1: Tamanooya's Casket
-
-* The Bake-Kurage Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill". - [CC#5588](https://youtu.be/usU2tJ7HQEs)
-
-#### A4: Song of Pearls
-
-* The effects of A4 cannot get extended by buffering an attack right before her Burst duration ends. - [CC#5588](https://youtu.be/QavGQnCuodQ)
-
-### Constellation Mechanics
-
-#### C1: At Water's Edge
-
-* Kokomi's C1 has no ICD and isn't shared with her Normal Attacks - [Carrier5by5#8394](https://youtu.be/E9e3pPEuI1Q) and [Aetherpon#5730](https://www.youtube.com/watch?v=mHwAE58CZc8)  
-
-## Attack Mechanics  
 
 ### Kokomi N2 Delay Bug  
 
@@ -103,24 +47,36 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 
 ## Skill Mechanics
 
-### Snapshot Burst DMG Bonus onto Bake-Kurage by switching
+* Kokomi's E snapshots. - [Van#8934](https://imgur.com/a/wHBV03P)
+* If Bake-Kurage disappears before its final tick hits an enemy, the game will not check for particle production on that hit.
+* Kokomi is limited to one Bake-Kurage on-field at a time.
+  * Sacrificial Fragments: [CC#5588](https://youtu.be/ynane6Dr31s)
+  * 4pc Gamblers: [Mcpie#8672](https://imgur.com/ATtyo26)
+* Kokomi's E snapshots, but does not resnapshot upon Q cast when refreshing the Bake-Kurage duration and the damage dynamically changes while Q is active. - [CC#5588](https://www.youtube.com/watch?v=hOQVxguTCVg)
+  * 00:08 - proof of snapshot
+  * 00:29 - Bake-Kurage damage changes upon Q cast
+  * 00:53 - Bennett atk buff remained snapshotted even after E timer refresh (as shown by the final tick at around 01:16)
+  * 01:28 - prematurely switching out of Kokomi during her Q results in Bake-Kurage bonus dmg from Q going away
+* The Bake-Kurage damage bonus when Q is active does not get snapshotted by Bake-Kurage - [Aetherpon#5730](https://www.youtube.com/watch?v=1NmAZBZsTDk) and [CC#5588](https://youtu.be/hOQVxguTCVg?t=88)
+* Kokomi E spawn has a fixed range. - [CC#5588](https://youtu.be/w2ouvQFhNkI)
+* Kokomi's Bake-Kurage only heals the active character and if they are within the Bake-Kurage's AoE - [CC#5588](https://www.youtube.com/watch?v=t8K8FUOai50)
+* If Kokomi dies, Bake-Kurage still remains on-field dealing damage. - [CC#5588](https://youtu.be/gSYBPDn4B_E)
+* Bake-Kurage healing has infinite vertical range. - [Doug#8888](https://youtu.be/TyJ-WuAFVVY)
+* Bake-Kurage alone cannot cause infusion or be swirled off of. - [Mcpie#8672](https://imgur.com/2swgDRw)
 
-**By:** awe778#1618  
-**Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891097097078730823/899138392359583824/transcript-kokomi-q-snapshot.html)  
+### Infinite Jellyfish Extension
+**By:** Steno#0119  
+**Added:** 2022-01-27  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934084290352930969/936219344843718656/transcript-infinite-jellyfish-extension.html)
 
 **Finding:**  
-Bake-Kurage can snapshot the DMG Bonus from Kokomi's Burst if Kokomi switches immediately after casting Kurage's Oath.
+While Kokomi's E does not normally snapshot the damage bonus from her Q, it is possible to snapshot it by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
 
 **Evidence:**  
-Kokomi Burst -> Kokomi Skill -> immediate switch (snapshot successful): [Imgur](https://imgur.com/co0tAzR)  
-Kokomi Burst -> Kokomi Skill -> N1 into switch (snapshot successful): [Imgur](https://imgur.com/LJ6SZHY)  
-Kokomi Burst -> Kokomi Skill -> delayed switch (snapshot failed): [Imgur](https://imgur.com/M9zs1Yg)  
-Kokomi Skill at end of Burst mode vs. multiple enemies (snapshot successful): [Imgur](https://imgur.com/z8IHQIB)  
-Kokomi Skill at end of Burst mode vs. a single enemy (snapshot successful): [Imgur](https://imgur.com/OwBlUnT)  
+[Youtube](https://www.youtube.com/watch?v=K-yy-ghu9IA)
 
 **Significance:**  
-This can potentially change Kokomi's Burst rotations due to the ability to snapshot and keep the Bake-Kurage DMG Bonus even after her Burst duration ends.  
+Who doesn't love some obscure Kokomi tech.
 
 ### Kokomi Skill triggers artifact effects even when interrupted
 
@@ -145,9 +101,33 @@ Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Rem
 * After casting E and getting interrupted, Kokomi has 22.5% Pyro DMG Bonus.
 
 **Significance:**  
-Can have higher Artifact set effect uptime and stacks, but at the cost of getting interrupted and not summoning Bake-Kurage.  
+Can have higher Artifact set effect uptime and stacks, but at the cost of getting interrupted and not summoning Bake-Kurage.
 
-### Kokomo Q Does Not Resnapshot
+## Burst Mechanics
+
+* The DMG Bonus from her Burst can be extended if an attack is buffered right before her Burst duration ends. - [CC#5588](https://youtu.be/QavGQnCuodQ)
+* Kokomi cannot absorb pre-fed particles during her Elemental Burst animation - [Aetherpon#5730](https://www.youtube.com/watch?v=52NLl3LR2io)
+
+### Snapshot Burst DMG Bonus onto Bake-Kurage by switching
+
+**By:** awe778#1618  
+**Added:** 2021-10-16  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891097097078730823/899138392359583824/transcript-kokomi-q-snapshot.html)  
+
+**Finding:**  
+Bake-Kurage can snapshot the DMG Bonus from Kokomi's Burst if Kokomi switches immediately after casting Kurage's Oath.
+
+**Evidence:**  
+Kokomi Burst -> Kokomi Skill -> immediate switch (snapshot successful): [Imgur](https://imgur.com/co0tAzR)  
+Kokomi Burst -> Kokomi Skill -> N1 into switch (snapshot successful): [Imgur](https://imgur.com/LJ6SZHY)  
+Kokomi Burst -> Kokomi Skill -> delayed switch (snapshot failed): [Imgur](https://imgur.com/M9zs1Yg)  
+Kokomi Skill at end of Burst mode vs. multiple enemies (snapshot successful): [Imgur](https://imgur.com/z8IHQIB)  
+Kokomi Skill at end of Burst mode vs. a single enemy (snapshot successful): [Imgur](https://imgur.com/OwBlUnT)  
+
+**Significance:**  
+This can potentially change Kokomi's Burst rotations due to the ability to snapshot and keep the Bake-Kurage DMG Bonus even after her Burst duration ends.  
+
+### Kokomi Q Does Not Resnapshot
 
 **By:** Kurt\#5846  
 **Added:** 2022-04-08  
@@ -180,3 +160,37 @@ Kokomi's burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FP
 
 **Significance:**  
 Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
+
+## Passive Mechanics
+
+### A1: Tamanooya's Casket
+
+* The Bake-Kurage Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill". - [CC#5588](https://youtu.be/usU2tJ7HQEs)
+
+### A4: Song of Pearls
+
+* The effects of A4 cannot get extended by buffering an attack right before her Burst duration ends. - [CC#5588](https://youtu.be/QavGQnCuodQ)
+
+## Constellation Mechanics
+
+### C1: At Water's Edge
+
+* Kokomi's C1 has no ICD and isn't shared with her Normal Attacks - [Carrier5by5#8394](https://youtu.be/E9e3pPEuI1Q) and [Aetherpon#5730](https://www.youtube.com/watch?v=mHwAE58CZc8)  
+
+### C2: The Clouds Like Waves Rippling
+
+#### Kokomi C2 Clarification
+
+**By:** bobo\#8267  
+**Added:** 2022-06-16  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/987115125821554758/transcript-kokomi-c2-clarification.html)
+
+**Finding:**  
+Kokomi C2 is applied as flat healing, similar to Yunjin and Shenhe with damage. It is not applied to the heal bonus part of calculations, as the description makes it sound like.
+
+**Evidence:**  
+* [Video](https://www.youtube.com/watch?v=WbsWiYr73TY)
+* [Calcs](https://docs.google.com/spreadsheets/d/1q8bL2OqdsPS8SHEHQiIkWSeY8ZIsQi6w/edit?usp=sharing&ouid=115436751943236950734&rtpof=true&sd=true)
+
+**Significance:**  
+Clarifies Kokomi C2 as a flat heal, which is affected by heal bonuses and incoming heals.

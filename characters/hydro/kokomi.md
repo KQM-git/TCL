@@ -200,6 +200,8 @@ Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters
 * **Kurage's Oath Bake-Kurage**: 4.5% of Kokomi's Max HP.
 * **Nereid's Ascension** Normal and Charged Attacks: 0.6% of Kokomi's Max HP.
 
+* This effect is considered flat healing, it is not applied to the heal bonus part of calculations.
+
 {% endtab %}
 
 {% tab title="C3" %}
