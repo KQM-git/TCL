@@ -410,3 +410,33 @@ Throughout all 3 and 3+ Entity Trials, all have showcased how the First Arc and 
 
 **Significance:**  
 Clears up what the actual effects are of Lisa's C4 and the frequencies of each occurance within 1, 2, and 3+ entity scenarios. Also, if one is attempting to calculate how much C4 impacts Lightning Rose, on average and without taking account for possible AoE hits, in 1 Entity scenarios, there is no effect, in 2 Entity scenarios, it is around an 82.5% effectiveness increase, and in 3 or 3+ Entity scenarios, it is around a 90% effectiveness increase `(0.30*1 + 0.50*2 + 0.20*3)`.  
+
+### C6: Pulsating Witch
+
+#### Lisa's C6 Mechanics
+
+**By:** ArchedNosi\#1484  
+**Added:** 2022-06-20  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/988442992786407464/transcript-lisa-c6-details.html)  
+
+**Finding:**  
+As the description implies, when Lisa swaps to become on-field, a radius will spawn around her applying 3 simulataneous Conductive Stacks onto nearby opponents, thus also resetting any concurrent Conductive durations to 15s.  
+As described, this effect does have a cooldown of 5s, however, the cooldown is only initiated if Lisa is in combat. Otherwise, if Lisa is not in combat, the mechanical effect (3 Conductive Stacks) will still produce, the visual effect (Radius VFX) will not be shown, and the cooldown for her C6 does not begin.
+
+Furthermore, the Radius of Lisa's C6 is 5m, both when in combat or not.
+
+**Evidence:**  
+No cooldown when not in combat:
+* [YouTube](https://youtu.be/M5hr4olV5ZE) - C6 is casted in succession twice, once at 00:04 and once more at 00:07 (the duration ends at 00:22, which follows its 15s implied duration).
+* [YouTube](https://youtu.be/Ycx6Z-Xld5M) - A more visual example.
+
+Has 5s Cooldown when in combat:
+* [YouTube](https://youtu.be/a1jjXU14Y-0) - C6 activated in combat at 00:04, 00:12, 00:18, and 00:26 in this quick example, and, there, each interval is greater than or equal to the 5s cooldown.
+* [YouTube](https://youtu.be/oFLaf-IE23E) - C6 activated when not in combat at 00:00, which does not begin the cooldown, and C6 further activates in combat at 00:03 and 00:11. 
+
+C6 Pulse has 5m Radius:
+* [YouTube](https://youtu.be/uY71LrsjPwo) - This video shows the radius of C6 to be around 2 abyss tiles, which is enough of a leading assumption for its radius to be considered 5m.
+* [YouTube](https://youtu.be/Q0Xusv_7WQc) - This video demonstrates a further testing of C6's radius, only possible due to the C6 not initiating its cooldown when not in combat. 
+
+**Significance:**  
+Information on Lisa's C6: Pulsating Witch. Namely, that it applies 3 Conductive Stacks to entities within a 5m radius around Lisa simultaneously, and that its visual and cooldown are not initiated when Lisa is not in combat. Otherwise, if Lisa is in combat upon swapping on-field, the 5s cooldown of her C6 is instigated along with the appropiate visual effect.

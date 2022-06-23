@@ -223,6 +223,8 @@ Maximum upgrade level is 15.
 When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive** status onto nearby opponents.
 This effect can only occur once every 5s.
 
+* The pulse visual effect and cooldown are not initiated when not in combat, but will still apply **Conductive** stacks nearby.
+
 {% endtab %}
 {% endtabs %}
 
