@@ -69,4 +69,5 @@ redirects:
   egt: ./combat-mechanics/elemental-effects/elemental-gauge-theory.md
   srp: ./combat-mechanics/elemental-effects/simultaneous-reaction-priority.md
   common-terms: theorycrafting.md
+  newsletter: ./newsletter/patch-2.7.md
   

@@ -10,21 +10,21 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 **Damage Formula:** [Page](https://library.keqingmains.com/combat-mechanics/damage/damage-formula)
 
-**Most Recent Character:** [Yelan](https://library.keqingmains.com/characters/hydro/yelan)
+**Most Recent Character:** [Yelan](https://library.keqingmains.com//yelan) | [Kuki Shinobu](https://library.keqingmains.com/shinobu)
 
-**Newsletter:** The [newsletter](https://library.keqingmains.com/newsletter/patch-2.4) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
+**Newsletter:** The [newsletter](https://library.keqingmains.com/newsletter) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
 
 ## Submissions
 
 If you're interested in submitting information/findings to be published in the TCL, follow these steps:
 
-1. Join the KQM Discord at [discord.gg/keqing](https://discord.com/invite/keqing).  
+1. Join the KQM Discord: [discord.gg/keqing](https://discord.com/invite/keqing).  
 2. Grab the Theorycrafter role, then the Library Submissions and/or Guide Submissions role in the **#theory-readme** channel.  
 3. Head to the **#library-submissions** channel and read the guidelines first.
 4. Create a new ticket by pressing one of the "Create ticket" buttons. Library Submissions are for normal tickets and Guide Submissions are for character guides.  
    * Make sure you have preliminary findings with evidence already prepared before you create a ticket.  
 5. Your ticket will be created and you will be pinged there.  
-6. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `$close` once you're done so that KQM Theorycrafting Scholars know when to review and verify your ticket.  
+6. Follow the directions from the bot in your newly created ticket to submit your findings in the correct format. Make sure to close your ticket with `/close` once you're done so that KQM Theorycrafting Scholars know when to review and verify your ticket.  
 
 ## Feedback
 

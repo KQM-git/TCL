@@ -6,8 +6,9 @@
 
 ## Newsletter
 
-* [Patch 2.4](newsletter/patch-2.4.md)
+* [Patch 2.7](newsletter/patch-2.7.md)
 * [Archive](newsletter/archive/README.md)
+  * [Patch 2.4](newsletter/patch-2.4.md)
   * [Patch 2.3b](newsletter/patch-2.3b.md)
   * [Patch 2.3](newsletter/patch-2.3.md)
   * [Patch 2.2a](newsletter/patch-2.2a.md)
