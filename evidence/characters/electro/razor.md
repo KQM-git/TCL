@@ -64,6 +64,25 @@ Razor Q duration is affected by Hitlag. The more hitlag, the longer the duration
 **Significance:**  
 You can essentially have 100% ult uptime if it were not for no particles during Q. You can have your Q CD done \(20 seconds\) by the time your Q duration is done if hitlag is high enough. Hitlag can also extend the duration of both buffs and debuffs, like Superconduct and Razor C1 and C4.
 
+### Razor Echo Damage Type
+
+**By:** elijam\#7142  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/razor-echo-damage-type)
+
+**Finding:**  
+Razor's NA echoes from his Burst scale off of Burst DMG%.
+
+**Evidence:**  
+[YouTube](https://youtu.be/8XQfOFiWweo)  
+N1 damage = 1.18 * 890 * (1 + .15) * .3 * ((100 + 61)/(100 + 61 + 100 + 85)) = 168.59, 168 in video  
+Echo damage if 2NO did not apply = .36 * 1.18 * 890 * (1) * .9 * ((100 + 61)/(100 + 61 + 100 + 85)) = 158.33  
+Echo damage with 2NO = .36 * 1.18 * 890 * (1 + .2) * .9 * ((100 + 61)/(100 + 61 + 100 + 85)) = 190.00  
+Echo damage in video is 189, which is closer to expected damage with 2NO. Variation is likely due to rounding error.
+
+**Significance:**  
+Damage type in Razor's table in the TCL is currently correct, this is just to get some evidence for it in the vault to reduce any future confusion.
+
 ## Ascension Mechanics
 
 ### A4: Hunger
