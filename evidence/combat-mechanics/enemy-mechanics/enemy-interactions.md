@@ -515,6 +515,28 @@ Maguu Kenki's 2nd phase doesn't start at 75% HP, but at 70%.
 **Significance:**  
 Updating the boss info.  
 
+### Maguu Kenki Phase 2 Trigger Correction
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** 2022-07-05  
+[Discussion](https://tickets.deeznuts.moe/transcripts/maguu-kenki-phase-2-trigger-correction)
+
+**Finding:**  
+Maguu Kenki's 2nd phase doesn't start at 70% HP, but at 71%.  
+  
+**Evidence:**  
+TCL currently says the 2nd phase threshold is likely exactly 70%. At WL8 lv93 maguu kenki has 524355 HP, so to reach 70% you'd need 157307 damage, and to reach 71% you'd need 152063 damage.  
+  
+In this [video](https://youtu.be/ABsLY93CJ6c), raiden and venti did a total of `34951+9658+12259+6446+4376+12259+6446+9658+12259+14228+9658+12259+126+126+275+325+162+162+190+190+275+325+162+126+126+275+488+162+243+314+126+126+275+325+162+162+126+126+275+325+162+162+314+126+126+275+325+243`=**152270** damage to trigger the p2 transition, which is just a little bit past the 71% threshold, but not nearly enough to reach the 70% threshold, proving that maguu kenki p2 starts at 71% HP, not 70%.  
+  
+Another in-game eviden by Tibo#4309: [Youtube](https://youtu.be/1ipWH_bbkzs).  
+`6729+6925+19512+6729+2099+19512+6729+6925+5914+6729+6925+19512+2808+6729+2099+2039+1942+3810+744+3810+572+1942+1887+1887+1887+1887+1887+572+1887`=**152641** damage.  
+  
+This finding is also supported by [datamine](https://imgur.com/mAbrUvb).  
+  
+**Significance:**  
+Getting to Maguu Kenki's phase 2 is actually harder than you think.  
+
 ### Perpetual Mechanical Array  
 
 #### PMA and Polearm CA interactions  
