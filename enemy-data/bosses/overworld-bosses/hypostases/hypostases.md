@@ -42,7 +42,7 @@ All Hypostasis are immune to their own element.
 
 ![](../../../../.gitbook/assets/enemy/bosses/Enemy_Anemo_Hypostasis_Icon.webp)
 
-Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms which have completely abandoned their former appearance and biological structure, making them able to reach the highest level of elemental purity.Research into hypostases is mainly led by scholars of Sumeru Academia, but due to the level of danger that they pose, little of substance is known about hypostases beyond their scientific name and code name.
+Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms which have completely abandoned their former appearance and biological structure, making them able to reach the highest level of elemental purity.Research into hypostases is mainly led by scholars of Sumeru Akademiya, but due to the level of danger that they pose, little of substance is known about hypostases beyond their scientific name and code name.
 
 ## Energy drops
 

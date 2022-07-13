@@ -74,7 +74,7 @@ Though they dabble with great power and can even create icicles by condensing an
 
 ![](../../../.gitbook/assets/enemy/abyss/Enemy_Electro_Abyss_Mage_Icon.webp)
 
-While studying at the Academia, researcher Alva Nicolai once conducted a systematic study of the Electro model used by the Electro Abyss Mage and came up with a theoretical weapon known as the Nicolai Coil. But it has yet to be put into practice. Some said his research materials were eaten during the flood of fungi.
+While studying at the Akademiya, researcher Alva Nicolai once conducted a systematic study of the Electro model used by the Electro Abyss Mage and came up with a theoretical weapon known as the Nicolai Coil. But it has yet to be put into practice. Some said his research materials were eaten during the flood of fungi.
 
 ## Shield
 | Elemental Source | Gauge Units Required |
