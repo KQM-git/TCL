@@ -471,6 +471,21 @@ Falls water.
 **Significance:**  
 Update to the map of all waterfalls. Update to the original findings in the library entry. Added collection of tips for future generations of waterfall scholars.  
 
+### Not All Falls Water is False Water: Chasm Addendum
+  
+**By:** Sayline\#5959  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/falls-water-chasm)
+
+**Finding:**  
+Continuation of the theoryhunt for true falls water.
+  
+**Evidence:**  
+* Chasm has been added to the existing [waterfall sheet](https://docs.google.com/spreadsheets/d/13R4lerotIbNG2Hc55f974r6H61aEcJd6R4PUYxLPKw0/edit#gid=960783672)  
+  
+**Significance:**  
+Falls water.
+
 ### Electro Crystal Range
 
 **By:** Greyhound\#7836  
