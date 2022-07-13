@@ -923,7 +923,7 @@ Better understanding about getting specific reactions against frozen enemies
 **Added:** 2021-07-21  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856734863130099722/867166763661656084/transcript-ec-frozen-double-reactions.html)
 
-**Theory:** EC and Frozen with hidden hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the element priority list. The exceptions are Geo Crystalize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden hydro as it has to overcome the hydro aura rather than the (higher priority) frozen:  
+**Theory:** EC and Frozen with hidden hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the element priority list. The exceptions are Geo Crystallize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden hydro as it has to overcome the hydro aura rather than the (higher priority) frozen:  
 [Double swirls](./transformative-reactions.md#how-to-get-double-swirls)
 
 Experimental element priority order:  
@@ -935,7 +935,7 @@ Overload but no Vape: [Video](https://www.youtube.com/watch?v=idsHY8NW5VE)
 OL and Vape: [Video](https://www.youtube.com/watch?v=NAmOAB1S3wc)  
 SC but no Freeze: [Video](https://youtu.be/u-OVAtdpwDk)  
 SC and Freeze: [Video](https://youtu.be/k-O51oX3JpI)  
-Electro crystalize but no hydro: [Video](https://youtu.be/Z9zOXsy_qUY)  
+Electro Crystallize but no hydro: [Video](https://youtu.be/Z9zOXsy_qUY)  
 [Cannot produce two crystals with one geo trigger](./transformative-reactions.md#crystallize-on-an-electro-charged-enemy)
 
 *For Frozen with Hidden Hydro:*  
@@ -943,7 +943,7 @@ SC but no EC: [Video](https://youtu.be/PPjaMA9svmg)
 SC and EC: No documented cases likely due to frozen aura being very high gauge and short duration  
 Melt but no Vape: [Video](https://youtu.be/Jtof5kfq8XI)  
 Melt and Vape: No documented cases likely due to frozen aura being very high gauge and short duration  
-Crystalize cannot be tested on hidden hydro due to shattering.
+Crystallize cannot be tested on hidden hydro due to shattering.
 
 Element priority order:  
 Electro > Pyro > Anemo > Cryo > Freeze > Hydro > Dendro > Geo  
@@ -1288,10 +1288,10 @@ I electro charged in different orders with different application strengths. The 
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953745714004000788/transcript-crystal-spawn-location-for-enemy.html)  
 
 **Finding:**  
-The Crystalize reaction will always spawn a crystal in front of the enemy.  
+The Crystallize reaction will always spawn a crystal in front of the enemy.  
 
 **Evidence:**  
-Ningguang applies Geo with Normal Attacks. Then, the Crystalize reaction occurs and the crystal spawns in front of the enemy. Do note that some enemies don't have a specific "front side", such as the hypostases. There are other factors that could determine where the crystals spawn, like when an enemy turns around or moves. However the principles  stays the same.  
+Ningguang applies Geo with Normal Attacks. Then, the Crystallize reaction occurs and the crystal spawns in front of the enemy. Do note that some enemies don't have a specific "front side", such as the hypostases. There are other factors that could determine where the crystals spawn, like when an enemy turns around or moves. However the principles  stays the same.  
 
 * Ruin Guard: [YouTube video](https://youtu.be/VsUPVCRX2YU)
 * Samachurl: [YouTube video](https://youtu.be/8vq-Bu7sI_I)
@@ -1301,6 +1301,32 @@ Ningguang applies Geo with Normal Attacks. Then, the Crystalize reaction occurs 
 1. Makes it easier for characters to pick up crystals.
 2. Makes it easier for characters to use the Archaic Petra artifact set. 
 3. Allows the player to determine the position of the enemies and which way they are facing. 
+
+### Crystallize ICD
+
+**By:** Bobrokrot\#0111  
+**Added:** 2022-06-29  
+[Discussion](https://tickets.deeznuts.moe/transcripts/crystallize-icd)  
+
+**Finding:**  
+Crystallize reaction has an Global Cooldown of 1s per monster.  
+
+**Evidence:**  
+* The Crystallize GCD is 1.0s (or Albedo skill cast itself has ICD of 1s). - [YouTube](https://youtu.be/MiUnN2hvYJg)
+  * Albedo uses his elemental skill twice at different time intervals between skill usages. Due to input delay all of the below times are actually +0.05s.
+  * 0.85s: 1 Crystallize; 0.90s: 1 Crystallize; 0.95s: 1 Crystallize; 1.00s: 2 Crystallize; 1.05s: 2 Crystallize;
+* The 1s GCD does exist and influences attacks that do not share ICD.
+  * Albedo's E cast and E Blossom both trigger Crystallize when they are 1s apart from each other. - [YouTube](https://youtu.be/R8lUh_CBDoQ)
+  * Albedo's E cast and E Blossom trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/mmeOsWplHms)
+  * Ningguang's NA and E both trigger Crystallize when they are 1s apart from each other. - [YouTube](https://youtu.be/iefXbzTAyzM)
+  * Ningguang's NA and E trigger Crystallize only once when they are within 1s. - [YouTube](https://youtu.be/5EMMlZNFAFM)
+* GCD is shared across different characters. Here Ningguang procs Albedo's Blossom vs 2B Pyro, only 1 Crystallize occured. - [YouTube](https://youtu.be/x_64sntdO-g)
+* GCD is not shared across different targets. Here Albedo succesfully triggers Crystallize on each of the 3 hilichurls. - [YouTube](https://youtu.be/S1GSVLXmGus)
+* GCD for the duration of the cooldown may disable the hit counter for standard ICD. Here Ningguang uses 3 Normal attacks (6 hits total) and trigger Crystallize only once on the first attack. - [YouTube](https://youtu.be/6nRXYxMkC_Y)
+* GCD is shared across different elements. Here Albedo triggers Pyro and Hydro Crystallize one after another (<1s), only 1 Crystallize occured. - [YouTube](https://youtu.be/M4XJPag4CNI)
+
+**Significance:**  
+Understanding how Crystallize works.
 
 ## Burning
 
