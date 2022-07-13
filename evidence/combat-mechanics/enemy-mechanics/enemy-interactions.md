@@ -386,6 +386,22 @@ Inside the bubble barrier, the fixed 1 damage makes 1hp runs hard or impossible 
 The oneshot in and out of shield share different mechanics. Parries will not work but the shields created can absorb the “1” damage taken.  
 Other evidence suggests that dash invincibility frames either do not work at all against Raiden boss oneshot, or are not animation dependant.  
 
+#### Musou no Hitotachi pushes characters upward
+**By:** Beast Boy\#2560 and Eduardo\#3671  
+**Added:** 2022-06-29  
+[Discussion](https://tickets.deeznuts.moe/transcripts/magatsu-mitake-narukami-no-mikoto-attack-pushes-characters-upward)
+
+**Finding:**  
+**Musou no Hitotachi** can yeet characters upward. By getting above the boss through xiao's jump, kazuha's skill, or keqing's skill, or venti's skill the character will be pushed upward due to this, allowing them to dodge the attack and get far above the boss.
+
+**Evidence:**  
+* Xiao jump - [YouTube](https://youtu.be/5oDJC5DCPPo)
+* Keqing Skill - [YouTube](https://youtu.be/CUk0qFbQUps)
+* Venti Skill - [YouTube](https://youtu.be/QceqkCqvrNY)
+
+**Significance:**  
+Cool way to dodge the attack.
+
 ## Overworld Bosses
 
 ### Anemo Hypostasis
