@@ -213,7 +213,7 @@ Using Venti's Held Elemental Skill, many characters can perform extremely quick 
 [TCL Entry](https://library.keqingmains.com/mechanics/combat/tech/plunge-tech#dragon-strike)
 
 **ARCC:**
-[TCL Entry](https://library.keqingmains.com/evidence/mechanics/combat/tech/arcc)
+[TCL Entry](https://library.keqingmains.com/evidence/mechanics/combat/tech/aim-cancel#arcc-aimed-r-cancel-charged)
 
 **Animation Cancel:**
 Many attacks in Genshin Impact can be cancelled by inputting a movement command, jump, or dash. They either provide better positioning or a way to avoid long recovery periods.

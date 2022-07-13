@@ -89,3 +89,19 @@ Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)
 
 **Significance:**  
 Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it is one of the characters that can do this), as the extra shot theoretically does not add any more frames to the attack string.
+
+## Aimed Dash/Jump Cancel Charged Shot
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** 2022-07-09  
+[Discussion](https://tickets.deeznuts.moe/transcripts/aimed-dashjump-cancel-charged-shot)
+
+**Finding:**  
+Shooting a Charged Shot and dashing/jumping in quick succession results in an autoaimed arrow -- a variation of ARCC. The arrow fired has the same properties as ARCC.
+
+**Evidence:**  
+[Dash-cancel](https://imgur.com/a/iEXQxGM)  
+[Jump-cancel](https://imgur.com/zWGsHVj)
+
+**Significance:**  
+I have 20 resin.
