@@ -1600,3 +1600,21 @@ Just from base of map to highest point possible in the map, Enkanomiya is the cl
 **Significance:**  
 Teyvat has some very high places.
 
+## Trees Pick Up Fruits
+  
+**By:** Rathalos\#2875  
+**Added:** 2022-06-25  
+[Discussion](https://tickets.deeznuts.moe/transcripts/trees-pick-up-fruits)
+
+**Finding:**  
+Hitting trees causes them to drop their fruits; one for each instance of an attack. If you don't pick up the fruits they drop, you can teleport away from the trees and come back to find that the fruits are once again attached to the trees. You may also log out and log in to find the same thing happen.
+
+Ergo, trees pick up their fruits. This applies to sunsettia, apple and lavender melon trees, as well as berries. Shooting trees from afar can potentially make it so that they pick up their fruits much later/slower than usual.
+
+**Evidence:**  
+[Teleportation](https://youtu.be/eONF_ZL7SQg)  
+[Logging in / out](https://youtu.be/vfNbjWBN6a4)  
+[Berries + lavender melon](https://youtu.be/NXGF8m9SPdQ)  
+
+**Significance:**  
+The trees can pick up their fruits. Also, very useful for checking some attacks against trees that need fruits/use fruits as an indicator for something. No need to look for other trees as long as you don't pick up the fruits.
