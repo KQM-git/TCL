@@ -611,7 +611,7 @@ This will hurt Albedo's damage until this is fixed. This bug is known and has be
 
 ### Engulfing Lightning
 
-#### 4 ESF Interractions
+#### 4 ESF Interactions
 
 **By:** Vye\#9195  
 **Added:** 2021-09-11  

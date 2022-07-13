@@ -53,6 +53,23 @@ search: false
 
 **Significance:** Should be taken into consideration while doing calcs.
 
+#### ER Increase From EMC Amulets Doesn't Affect Engulfing Lightning 
+  
+**By:** Rathalos\#2875  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/emc-engulfing-non-interaction)
+
+**Finding:**  
+The ER increase from EMC's amulets is not factored in for Engulfing Lightning's passive, meaning it doesn't count for the attack increase it gives.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/lV6PBSTPaiA)  
+ATK before amulets: 2240  
+ATK after amulets: 2240  
+  
+**Significance:**  
+More reasons to not use EMC with Raiden. May affect calcs that incorrectly assume the ER gained from EMC affects the EL's passive for the stats of the polearm user.
+
 ### Burst Mechanics
 
 * The energy gained from burst is classified as flat energy. - [ceeeleste#3568](https://imgur.com/BFu0hT2)
