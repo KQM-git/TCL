@@ -5,6 +5,7 @@ structure:
   summary: SUMMARY.md
 
 redirects:
+  heizou: ./characters/anemo/heizou.md
   jean: ./characters/anemo/jean.md
   kazuha: ./characters/anemo/kazuha.md
   sayu: ./characters/anemo/sayu.md

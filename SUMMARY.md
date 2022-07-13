@@ -24,6 +24,7 @@
 ## Characters
 
 * [Anemo](characters/anemo/README.md)
+  * [Heizou](characters/anemo/heizou.md)
   * [Jean](characters/anemo/jean.md)
   * [Kazuha](characters/anemo/kazuha.md)
   * [Sayu](characters/anemo/sayu.md)
@@ -280,6 +281,7 @@
 * [Evidence Vault](evidence/README.md)
   * [Characters](evidence/characters/README.md)
     * [Anemo](evidence/characters/anemo/README.md)
+      * [Heizou](evidence/characters/anemo/heizou.md)
       * [Jean](evidence/characters/anemo/jean.md)
       * [Kazuha](evidence/characters/anemo/kazuha.md)
       * [Sayu](evidence/characters/anemo/sayu.md)
