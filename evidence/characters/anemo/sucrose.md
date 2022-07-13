@@ -162,6 +162,21 @@ If you dash cancel Sucrose E and switch characters too fast, no particles will b
 For those who still want the particles while doing Sucrose E dash cancel (this is mostly for pre-funnelling Xiao, but could be useful in other situations), have skill issue and stay on Sucrose a bit longer before switching characters.  
 This might also be a bug on other characters when they dash cancel their skills... 
 
+### Sucrose E Dash E Bug
+
+**By:** Pana <3\#0992  
+**Added:** 2022-06-27  
+[Discussion](https://tickets.deeznuts.moe/transcripts/sucrose-e-dash-e-bug)
+
+**Bug:**  
+Doing Sucrose E > dash > E very fast only produces 1 skill's worth of elemental orbs  
+  
+**Evidence:**  
+[Youtube](https://www.youtube.com/watch?v=pheoEgyYIlg)  
+  
+**Significance:**  
+Making frame-perfect dash cancels isn't always a good thing. When doing E dash E, it is better to delay the 2nd E a bit more so that a total of 8 orbs are produced.
+
 ## Elemental Burst Mechanics
 
 ### Sucrose Absorbed Dmg is simultaneous

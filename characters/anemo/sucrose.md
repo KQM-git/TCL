@@ -156,6 +156,7 @@ When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isome
 ### **Clustered Vacuum Field**
 
 **Astable Anemohypostasis Creation - 6308** gains 1 additional charge.
+* If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
 
 {% endtab %}
 
