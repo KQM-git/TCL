@@ -158,7 +158,7 @@ As for an explanation to why this bug occurs, it's probably due to funky aura ch
 ### Kazuha Keeps Midare Ranzan Bug
 
 **By:** Rathalos\#2875  
-**Added:** 06/14/2022  
+**Added:** 2022-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986310266688012378/transcript-kazuha-keeps-midare-ranzan.html)
 
 **Finding:**  

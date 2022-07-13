@@ -48,7 +48,7 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 ### Albedo's Elemental Skill Triggering is Pepega
 
 **By:** NZPIEFACE\#8439, Kolibri\#7675  
-**Added:** 06/14/2022  
+**Added:** 2022-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986267083748835339/transcript-albedo-e-is-pepega.html)
 
 **Finding:**  

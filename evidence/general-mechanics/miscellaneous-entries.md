@@ -929,7 +929,7 @@ Fluff
 ## Animals Can Be Debuffed
 
 **By:** Valler™\#3603  
-**Added:** 06/14/2022  
+**Added:** 2022-06-14  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986295200286666812/transcript-animals-can-be-debuffed.html)
 
 **Finding:**  
