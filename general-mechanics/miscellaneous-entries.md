@@ -88,6 +88,7 @@ description: For entries that have little practical use.
 
 * When placing the Portable Waypoint in certain places such as The Crux and teleporting from a location with an abnormal weather effect, it will be transferred to where the Portable Waypoint is.  
 * Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.
+* Teleporting to a Portable Waypoint resets enemies while regular waypoints don't have this behavior.
 
 ## Hidden wall clip spot in Liyue Merchant Stall
 

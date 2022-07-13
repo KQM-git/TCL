@@ -943,3 +943,20 @@ Cats, foxes and dogs can be affected by some debuffs.
 
 **Significance:**  
 Fluff
+
+## Portable Waypoint Resets Mobs
+
+**By:** Rathalos\#2875  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/portable-waypoint-resets-mobs)
+
+**Finding:**  
+Teleporting to Portable Waypoints resets the nearby mobs to their resting/default states, or their state before spotting the player. This is unique to Portable Waypoints, and does not apply to Statues of the Seven, or regular Teleport Waypoints.
+
+**Evidence:**  
+[Portable Waypoint reset demo](https://youtu.be/9fq4mzwkWZI)  
+[Using Portable Waypoint on same location](https://youtu.be/Jw_XWboKQUA)  
+[Statue of the Seven and regular waypoints don't reset](https://youtu.be/4dM413rLu_M)
+
+**Significance:**  
+This effectively allows continuous resets without needing to jump to multiple waypoints. This also makes it more feasible to select specific test enemies that fit the needs of the experiment, but would otherwise be too much to bother testing on without Portable Waypoints.
