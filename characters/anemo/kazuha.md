@@ -42,7 +42,9 @@ Perform up to 5 rapid strikes.
 | 5-Hit DMG | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s | 26.55 x3 | 2 + 2 + 5 |
 | Recovery (Total MV) | -- | 200 | 156.42%/s | - | - |
 
+**Notes**
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
+* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kazuha.md#dragonstrike-of-n5)
 
 **Charged Attacks**  
 Consumes a certain amount (20) of Stamina to unleash 2 rapid sword strikes.
@@ -91,6 +93,7 @@ Charges up before unleashing greater Anemo DMG over a larger AoE than Press Mode
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
 * By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
 * Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
+* Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
 
 **Plunging Attack: Midare Ranzan**  
 When a Plunging Attack is performed using the effects of the Elemental Skill **Chihayaburu**, Plunging Attack DMG is converted to **Anemo** DMG. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.

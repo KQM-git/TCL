@@ -31,6 +31,21 @@ search: false
 * While under the influence of Chihayaburu, plunge attacks will always deal anemo damage despite infusion. - [GottaGoFast\#7876](https://www.youtube.com/watch?v=U8rDXpz4gTo)  
 * NA and CA share ICD. - [xTuki\#4893](https://imgur.com/qsD7hgT)  
 
+### Dragonstrike of N5
+  
+**By:** Rathalos\#2875  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-kazuha-plunge-mechanics)
+
+**Finding:**  
+Kazuha's n5 generates enough hitlag that allows him to Dragonstrike.
+  
+**Evidence:**  
+[Imgur](https://imgur.com/bS1rs1T)  
+  
+**Significance:**  
+Potential for some interesting combos. Cool stuff. Very fun.
+
 ## Skill Mechanics
 * Tap E particle count is fixed [3 anemo orbs](https://i.imgur.com/KDeL4wp.png). Hold E particle count is fixed [4 anemo orbs](https://i.imgur.com/0oulfFW.png). -  Steph\#3614
   * Chihayaburu will only generate particles when the initial vacuum hits enemies. Video confirmation. - [EdisonsMathsClub\#6469](https://www.youtube.com/watch?v=FdyWE2T66VE)  
@@ -127,7 +142,7 @@ Kazuha E will, under certain conditions, fail to absorb self auras (particularly
 * [YouTube](https://youtu.be/ynUDLCXIhN0)
 
 *Cryo Absorb*:
-* [Imgur *(by Tibo\#4309)*]()
+* [Imgur *(by Tibo\#4309)*](https://imgur.com/a/Q9syooJ)
 
 *Nothing Absorbed*: 
 - [YouTube](https://youtu.be/lW7W-Gw26rk)
@@ -156,6 +171,23 @@ Frozen interrupt - [Imgur](https://imgur.com/Bt3O7NM)
 
 **Significance:**  
 More understanding about how his Elemental Skill works. Probably fluff, but cool stuff.
+
+### Plunging After Skill
+
+**By:** Rathalos\#2875  
+**Added:** 2022-06-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-kazuha-plunge-mechanics)
+
+**Finding:**  
+Kazuha's tap/hold E naturally lifts Kazuha enough to guarantee a high plunge when used immediately. Delaying the plunge or staying in the air for longer after a tap E can potentially downgrade the plunge to a low plunge multiplier.
+
+**Evidence:**  
+**1173** - low plunge  
+**1465** - high plunge  
+[Imgur](https://imgur.com/4y441Ge)
+
+**Significance:**  
+Understanding how Kazuha normally works. Plunging immediately after a tap E guarantees a high plunge.
 
 ## Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
