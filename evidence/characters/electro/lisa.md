@@ -111,7 +111,7 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 ### Lisa's Conductive Stack Mechanics
 
 **By:** ArchedNosi\#1484  
-**Added:** 2021-06-17  
+**Added:** 2022-06-17  
 [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/987339246136340570/transcript-lisa-conductive-information.html)
 
 **Findings:**  
