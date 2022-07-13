@@ -106,11 +106,11 @@ Summons **the Wolf Within**, which deals Electro DMG to all nearby opponents. Th
 **The Wolf Within** will fight alongside Razor for the skill's duration.
 
 **The Wolf Within**  
-• Strikes alongside Razor's normal attacks, dealing Electro DMG.  
-• Raises Razor's ATK SPD and Electro RES.  
-• Causes Razor to be immune to DMG inflicted by the Electro-Charged status.  
-• Disables Razor's Charged Attacks.  
-• Increases Razor's resistance to interruption.  
+* Strikes alongside Razor's normal attacks, dealing Electro DMG.
+* Raises Razor's ATK SPD and Electro RES.
+* Causes Razor to be immune to DMG inflicted by the Electro-Charged status.
+* Disables Razor's Charged Attacks.
+* Increases Razor's resistance to interruption.
 These effects end when Razor leaves the battlefield.
 
 When Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.

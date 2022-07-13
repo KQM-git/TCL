@@ -61,18 +61,18 @@ Moves swiftly, leaving a **Sesshou Sakura** behind.
 
 **Sesshou Sakura**  
 Has the following properties:  
-• Periodically strikes one nearby opponent with lightning, dealing Electro DMG  
-• When there are other **Sesshou Sakura** nearby, their level will increase, boosting the DMG dealt by these lightning strikes.  
-This skill has three charges.  
+* Periodically strikes one nearby opponent with lightning, dealing Electro DMG  
+* When there are other **Sesshou Sakura** nearby, their level will increase, boosting the DMG dealt by these lightning strikes.
 
-A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of each **Sesshou Sakura** is 1, and the initial highest level each sakura can reach is 3. If a new **Sesshou Sakura** is created too close to an existing one, the existing one will be destroyed.
+This skill has three charges.  
+A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of each **Sesshou Sakura** is 1, and the initial highest level each sakura can reach is 3. If a new **Sesshou Sakura** is created too close to an existing one, the existing one will be destroyed.  
 
 | Attribute | Sesshou Sakura | 
 | :--- | :--- |
 | Skill DMG Level 1 \(T9%\) | 103.14% |
 | Skill DMG Level 2 \(T9%\) | 128.93% |
 | Skill DMG Level 3 \(T9%\) | 161.16% |
-| Skill DMG Level 4 \(T9%\) | 	201.45% |
+| Skill DMG Level 4 \(T9%\) | 201.45% |
 | Particles | 1 \(-\) | 
 | Frames | 34 |
 | GU | 1A |

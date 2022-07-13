@@ -101,8 +101,8 @@ Unleashes three swift thunder shadows that deal Electro DMG to opponents and lea
 
 **Abundance Amulets**  
 When a character is near an Abundance Amulet, they will absorb it and obtain the following effects:  
-• Restores Flat Elemental Energy  
-• Increases Energy Recharge during the Abundance Amulet's duration
+* Restores Flat Elemental Energy.
+* Increases Energy Recharge during the Abundance Amulet's duration.
 
 | Attribute | Skill |
 | :--- | :--- |

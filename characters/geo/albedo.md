@@ -65,10 +65,10 @@ Albedo creates a **Solar Isotoma** using alchemy, which deals AoE Geo DMG on app
 
 **Solar Isotoma**  
 has the following properties:  
-• When opponents within the Solar Isotoma field take DMG, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF.  
-• Transient Blossoms can only be generated once every 2s.  
-• When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.  
-• Solar Isotoma is considered a Geo construct. Only one Solar Isotoma created by Albedo himself can exist at a time.  
+* When opponents within the Solar Isotoma field take DMG, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF.  
+* Transient Blossoms can only be generated once every 2s.  
+* When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.  
+* Solar Isotoma is considered a Geo construct. Only one Solar Isotoma created by Albedo himself can exist at a time.  
 Hold to designate the location of the skill.
 
 | Attribute | Solar Isotoma | Transient Blossom |

@@ -81,8 +81,8 @@ Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.
 Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.
 
 The shield possesses the following properties:  
-• Has 250% Electro DMG Absorption Efficiency.  
-• Applies the Electro element to Beidou upon activation.
+* Has 250% Electro DMG Absorption Efficiency.
+* Applies the Electro element to Beidou upon activation.
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -124,8 +124,8 @@ The shield possesses the following properties:
 Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
 **Thunderbeast's Targe**  
-• When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.  
-•  Increases active character’s resistance to interruption and decreases DMG taken.  
+* When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.  
+*  Increases active character’s resistance to interruption and decreases DMG taken.  
 A maximum of 1 **lightning discharge** can be triggered per second.
 
 | Attribute | Burst | Lightning Discharge |

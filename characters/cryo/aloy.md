@@ -66,8 +66,8 @@ When a **Freeze Bomb** or **Chillwater Bomblet** hits an opponent, the opponent'
 Aloy can gain up to 1 **Coil stack** every 0.1s. 
 
 **Coil**  
-• Each stack increases Aloy's Normal Attack DMG.  
-• When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG. 
+* Each stack increases Aloy's Normal Attack DMG.
+* When Aloy has 4 **Coil stacks**, all stacks of **Coil** are cleared. She then enters the **Rushing Ice** state, which further increases the DMG dealt by her Normal Attacks and converts her Normal Attack DMG to Cryo DMG.
 
 While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.  
 **Coil** effects will be cleared 30s after Aloy leaves the field.

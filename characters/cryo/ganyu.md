@@ -75,9 +75,9 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.
 
 **Ice Lotus**  
-• Continuously taunts surrounding opponents, attracting them to attack it.
-• Endurance scales based on Ganyu's Max HP.
-• Blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG.
+* Continuously taunts surrounding opponents, attracting them to attack it.
+* Endurance scales based on Ganyu's Max HP.
+* Blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG.
 
 | Attribute | Skill |
 | :--- | :--- |

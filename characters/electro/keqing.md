@@ -76,8 +76,8 @@ Hold to adjust the direction in which the **Stiletto** shall be thrown.
 
 **Lightning Stiletto \(recast\)**  
 If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while its duration lasts, it will clear the **Stiletto Mark** and produce different effects:  
-• If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.  
-• If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.  
+* If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.  
+* If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.  
 
 | Attribute | Lightning Stiletto | Thunderclap Slash |
 | :--- | :--- | :--- |

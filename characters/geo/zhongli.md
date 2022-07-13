@@ -72,10 +72,10 @@ Commands the power of earth to create a **Stone Stele**.
 
 **Hold**  
 Causes nearby Geo energy to explode, causing the following effects:  
-• If their maximum number hasn't been reached, creates a **Stone Stele**.  
-• Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.  
-• Deals AoE Geo DMG.  
-• If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.
+* If their maximum number hasn't been reached, creates a **Stone Stele**.  
+* Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.  
+* Deals AoE Geo DMG.  
+* If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.
 
 **Stone Stele**
 

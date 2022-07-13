@@ -116,9 +116,9 @@ Press again any time during the ability's duration to once again summon him to F
 {% tab title="Midnight Phantasmagoria" %}
 Summons Oz to spread his twin wings of twilight and defend Fischl.  
 Has the following properties during the ability's duration:  
-• Fischl takes on Oz's form, greatly increasing her Movement Speed.  
-• Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.  
-• Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
+* Fischl takes on Oz's form, greatly increasing her Movement Speed.
+* Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.
+* Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
 
 | Attribute | Burst |
 | :--- | :--- |
