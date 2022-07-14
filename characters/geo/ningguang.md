@@ -53,6 +53,7 @@ If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the 
 * Charged Attacks and Star Jades apply Geo with a shared 3 hit / 2.5s ICD.
 * Ningguang has two different animations when doing her Charged Attack. Her Charged Attack initiated with her right hand has higher frames. 
   * This can be mitigated by holding a direction key while using Normal Attacks, releasing it when you Charged Attack, and inputting it again after casting the Charged Attack.
+* Star Jades' trajectory can be manipulated with the use of directional inputs immediately after using a Charged Attack. This can potentially make Star Jades miss their target even at point-black range.
 * Additional resources for her animation cancels can be found in the [Ningguang Mains discord](https://discord.gg/ENcBMd86nD).
 * Star Jades are considered Charged Attacks and benefit from Charged Attack Bonuses.
 

@@ -26,6 +26,25 @@ Ningguang's Star Jades are considered Charged ATK DMG
 **Significance:**  
 Star Jades benefit from Charged Attack DMG Bonuses.
 
+### Ningguangs Can Manipulate Star Jades Direction
+  
+**By:** Rathalos\#2875  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/ningguangs-can-manipulate-star-jades-direction)
+  
+**Finding:**  
+Ningguang produces star jades from her Normal Attack talent and sixth Constellation. The direction these star jades take can be manipulated with the use of directional inputs (moving left, right or backwards) immediately after using a Charged Attack. This can potentially make star jades directly miss targets even at point-black range.
+  
+However, immediately targeting an enemy by attacking them can make the star jades swerve or take sharp turns to hit the targeted enemy. This only seems to be possible for regular star jades, as star jades generated from c6 do not seem to be able to swerve after targeting an enemy. 
+  
+**Evidence:**  
+[Youtube](https://youtu.be/Ngjj83gc3J4)  
+[Imgur](https://imgur.com/wXLy7ZC) (mobile footage from Lit#1924)  
+[Imgur](https://imgur.com/MWKPuhy) (c6 star jades not swerving)
+  
+**Significance:**  
+Ningguang's star jades constitute a relevant portion of her damage. Knowing how to manipulate these can potentially be helpful, and knowing how it works can mitigate damage loss from missing targets.
+
 ## Skill Mechanics
 
 ### Jade Screen ICD
