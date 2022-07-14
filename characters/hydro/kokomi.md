@@ -122,7 +122,7 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 | CD Frame | 48 |
 | GU | 2B |
 | ICD | None |
-| Snapshot | Snapshot |
+| Snapshot | Dynamic |
 | Damage Element | Hydro |
 | Damage Type | Burst |
 | Energy Cost | 70 |
@@ -140,6 +140,8 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
 
 **Notes**
 * The DMG Bonus from **Ceremonial Garment** can be extended if an attack is buffered right before her **Nereid's Ascension** duration ends.
+* The Normal Attack/Charged Attack/Bake-Kurage DMG Bonus are all dynamic.
+  * However, if Kokomi immediately switches after casting Q, the DMG bonus from **Ceremonial Garment** will be snapshotted by her E.
 * Kokomi cannot absorb pre-fed particles during her Elemental Burst animation.
 
 {% endtab %}

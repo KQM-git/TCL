@@ -161,6 +161,23 @@ Kokomi's burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FP
 **Significance:**  
 Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
 
+### Evidence for Dynamic Kokomi's Burst & A4  
+  
+**By:** Lament\#2512  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/koko-burst-snapshot)
+  
+**Finding:**  
+Kokomi's Burst and A4 Passive are dynamic.
+  
+**Evidence:**  
+Using Heal Bonus food: [Imgur](https://imgur.com/a/zP6a6HS)  
+Using HP% Food: [Imgur](https://imgur.com/a/EdCXOgt)  
+Methodology for Testing used was Q - CA - consume HP or HB food - CA
+  
+**Significance:**  
+Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/or HB in a delayed fashion.
+  
 ## Passive Mechanics
 
 ### A1: Tamanooya's Casket
