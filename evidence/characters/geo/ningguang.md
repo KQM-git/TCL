@@ -106,6 +106,22 @@ In [this video](https://youtu.be/6w9Juht5doU), Ningguang teleports from her wall
 **Significance:**  
 Where there's a wall, there's a way \(to destroy it\).  
 
+### Ningguang Pays Taxes To The Ground
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/ningguang-pays-taxes-to-the-ground)
+
+**Finding:**  
+Ningguang's Burst, Starshatter, creates 6 gems on cast. If there is a nearby Jade Screen, the screen is destroyed to create 6 more gems from it. However, the gems that are fired from the Jade Screen suffer heavily from the autotargeting system, causing them to move in patterns that usually result to 1 - 2 gems missing their targets. These gems usually hit the ground instead.  
+  
+**Evidence:**  
+Some sample clips that showcase this phenomenon: [YouTube](https://youtu.be/xcy_R-ZcoRA)  
+All of my tests suggest that at least one jade misses for every Burst cast on a flat surface.  
+  
+**Significance:**  
+Sharshatter is the most significant part of Ningguang's kit, so learning more about it can help us understand its properties and effectiveness in combat. For calculation purposes, it is recommended to calculate her Burst damage at 10 gems rather than 12. Perhaps there are ways to manipulate the gem pathing to mitigate the gem-ground tax.
+
 ## Constellation Mechanics
 
 ### C2: Shock Effect
