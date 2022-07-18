@@ -960,3 +960,22 @@ Teleporting to Portable Waypoints resets the nearby mobs to their resting/defaul
 
 **Significance:**  
 This effectively allows continuous resets without needing to jump to multiple waypoints. This also makes it more feasible to select specific test enemies that fit the needs of the experiment, but would otherwise be too much to bother testing on without Portable Waypoints.
+
+## Passive Actviation On Ducks
+
+**By:** MeiMay\#3039  
+**Added:** 2022-07-15  
+[Discussion](https://tickets.deeznuts.moe/transcripts/passive-actviation-on-ducks)
+
+**Finding:**  
+Kazuha A4 and FS passive activates on fowl  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/Oz1Xyew)  
+[Imgur](https://imgur.com/a/w7IqugS)  
+[Imgur](https://imgur.com/a/f6yUMLo)  
+[Imgur](https://imgur.com/a/jLWczl8)  
+  
+  
+**Significance:**  
+Better understanding of character/weapon interaction with the wildlife of Teyvat
