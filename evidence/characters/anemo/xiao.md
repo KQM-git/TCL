@@ -25,6 +25,23 @@ The difference between initiating a low plunge from the jet combo \(N1CJP\) is l
 
 Xiao's vertical displacement is super quick. If you want to do the jet combo, you need to get to the point where you get a high plunge, so the video is a good reference to know when you fail/do it correctly. It is also better to be late and high plunge than it is to be early and low plunge.
 
+## Skill Mechanics
+
+### Xiao E Plunge
+
+**By:** mementomori\#0001  
+**Added:** 2022-07-15  
+[Discussion](https://tickets.deeznuts.moe/transcripts/xiao-e-plunge)
+
+**Bug:**  
+Xiao's skill can allow him to plunge, even below jump level  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/Dc6WEuvp4JE)  
+  
+**Significance:**  
+Plungy Boi :)
+
 ## Burst Mechanics
 
 ### Xiao Keeps His Mask

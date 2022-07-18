@@ -87,6 +87,7 @@ Starts with 2 charges.
 
 **Notes**
 * A double E Cast is only 60 frames long.
+* **Lemniscatic Wind Cycling** can allow Xiao to Plunge, even below jump level.  
 {% endtab %}
 
 {% tab title="Bane of All Evil" %}
