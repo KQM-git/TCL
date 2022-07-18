@@ -20,6 +20,9 @@ In overworld, you need to wait for flying mora to be absorbed by your character'
 It's possible to perform auto walk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.
 * You, however, cannot sprint with this method.
 
+### Anti-Fall Mechanic
+Several actions in the game such as aiming down sights with Bow characters have anti-fall mechanics built in to prevent players from falling. You can take advantage of them when traversing terrains with poor foothold.
+
 ## Fishing
 
 ### Bait & Switch

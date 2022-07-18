@@ -256,3 +256,22 @@ Media:
 **Significance:**  
 Shows that the Waverider doesn't function like characters do, and cannot be buffed by any direct stat buffs to the Waverider.
 The Waverider however does benefit from debuffs to enemies, as they don't affect the Waverider itself.
+
+## Anti-Fall Mechanic
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/falling-is-cringe)
+
+**Finding:**  
+Most actions in the game allow the characters to complete an action without the threat of falling even in the narrowest of pathways. That is assuming they don't get knocked back by external forces such as enemy attacks.  
+  
+The most consistent way to observe this effect is through the Aimed Shot mode on Bow characters. This phenomenon can also be observed on other actions that naturally move a character such as in Yelan's and Sayu's Elemental Skills, character Normal Attacks, and in Alternate Sprints.  
+  
+**Evidence:**  
+Aimed mode: [YouTube](https://youtu.be/tkG-4gBnzV4)  
+Yelan E, Sayu E, Normal Attacks: [YouTube](https://youtu.be/7Vb8juSVS6s)  
+Alternate Sprint: [Imgur](https://imgur.com/cIbtTWe)  
+  
+**Significance:**  
+Good for dangerous situations, such as tightropes or just traversing terrain with poor footholds.
