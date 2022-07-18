@@ -41,6 +41,8 @@
 | The Cleansing Form | HP is increased by **16/20/24/28/32**%. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20/25/30/35/40**%. This will take effect whether the character is on-field or not. |
 | Base ATK | 44 - 542 |
 | CRIT DMG | 19.2% - 88.2% |
+
+* The Cleansing Form does not seem to have a vertical range limit.  
 {% endtab %}
 
 {% tab title="Details" %}

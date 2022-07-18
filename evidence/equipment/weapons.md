@@ -1340,6 +1340,31 @@ Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then
   
 **Significance:**  
 Can't keep the buff for the whole duration of a snapshottable skill.
+
+### Aqua Simulacra
+
+### Aqua Simulacra Vertical Range Limit
+
+**By:** Yume\#1519  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/aqua-simulacra-vertical-range-limit)
+
+**Finding:**  
+Aqua Simulacra's passive, The Cleansing Form, seemingly has no vertical range limit.  
+  
+**Evidence:**  
+To determine whether Aqua Simulacra's passive is in effect, the presence of the blue glow on the bow is checked.  
+  
+Test 1: Testing whether an enemy above the bow user procs the passive. (The enemy is a whopperflower, which is also aggro'd in the end of the video)  
+[Imgur](https://imgur.com/a/O2BC9bv)  
+  
+Test 2: Testing whether an enemy below the bow user procs the passive.  
+[Imgur](https://imgur.com/a/GjYmy4X)  
+  
+As we can see, in both instances, blue glow is present in the bow, which means that the passive is active.  
+  
+**Significance:**  
+Overworld stuff, fluff, more understanding on Aqua Simulacra's passive.
   
 ## General Mechanics
 
