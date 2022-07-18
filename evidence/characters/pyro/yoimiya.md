@@ -68,6 +68,25 @@ Increases Amos' Bow value with a CA-oriented Yoimiya playstyle.
     * 1.5879 = normal ATK damage bonus from T9 Niwabi Fire-Dance 
     * 0.4901 = talent multiplier of T6 N1
 
+### Yoimiyas Arrows Snapshot Her Skill Bonus
+
+**By:** lucianekat\#7757  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/yoimiyas-arrows-snapshot-her-skill-bonus)
+
+**Finding:**  
+Yoimiya's blazing arrows snapshot the damage bonus from her skill.  
+  
+**Evidence:**  
+Although Yoimiya's skill ends when she swaps off field, her blazing arrow damage remains the same whether you swap off before it hits an enemy or stay on field.  
+In this [video](https://youtu.be/xqTe-y5g7Ds), you can see that Yoimiya's N1 did the same damage when I swapped and when I didn't.   
+  
+We can show that Yoimiya's skill ends as soon as you swap off because blazing arrows that hit after you swap off cannot activate her A1 passive.  
+In this [video](https://youtu.be/zw-yje0DMMw), Yoimiya's Pyro DMG Bonus didn't increase, even though her infused N1 hit, because she was off field. 
+  
+**Significance:**  
+Better understanding of snapshotting - Even though Yoimiya's normal damage bonus from her skill is multiplicative and doesn't show up in her "Character Details" page, her arrows still snapshot it.
+
 ## Burst Mechanics
 
 * Burst doesn't snapshot - [xf3#3123](https://i.imgur.com/gQwo7gs.mp4)
