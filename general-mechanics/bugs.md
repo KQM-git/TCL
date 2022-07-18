@@ -24,6 +24,7 @@ Opening the exit menu in the Abyss does not pause the timer. This results in a b
 * [Lightning Struck Trees have a high chance of breaking](../evidence/general-mechanics/bugs.md#lightning-struck-tree-breaks-when-swapping-characters) if you swap characters near them as it keeps applying Electro on you.
   * It is possible to fix it by relogging or drowning to force reload.  
 * [Fishing spot prompt can stay with the character](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) under specific circumstances, and it be extended beyond its normal area by repeatedly entering and exiting the menu.
+* By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a [horizontal position](../evidence/general-mechanics/bugs.md#horizon-tech-sequel) (as long as they are in an animation or partially clipped into a surface).
 
 ## Artifacts
 

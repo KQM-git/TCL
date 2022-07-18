@@ -181,6 +181,26 @@ The damage is likely counted as from plunge, as it is close to the max plunge dm
 
 **Significance:** Funny physics bug.
 
+### Horizon Tech Sequel
+
+**By:** Beast Boy\#2560  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/horizon-tech-2-electric-boogaloo)
+
+**Finding:**  
+By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a horizontal position (as long as they are in an animation or partially clipped into a surface)  
+  
+Also, by climbing into a firework precisely placed on geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)  
+  
+Credit to the original [Horizon Tech](https://library.keqingmains.com/evidence/general-mechanics/bugs#horizon-tech)  
+  
+**Evidence:**  
+Build Guide in Teapot, more info in description: [YouTube](https://youtu.be/ewTmmKYjbMM)  
+45 degree guide: [YouTube](https://youtu.be/BZAASaAgI5Q) (45 degree guide)  
+  
+**Significance:**  
+Looks kinda cool.
+
 ## Lag
 
 ### Netlimited Blade Works
