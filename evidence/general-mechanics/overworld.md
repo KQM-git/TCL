@@ -1633,3 +1633,47 @@ Ergo, trees pick up their fruits. This applies to sunsettia, apple and lavender 
 
 **Significance:**  
 The trees can pick up their fruits. Also, very useful for checking some attacks against trees that need fruits/use fruits as an indicator for something. No need to look for other trees as long as you don't pick up the fruits.
+
+## Gadget Memento Companions
+
+### Companions Disappear When Characters Disappear
+
+**By:** Magnus Artifex\#8719  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/companions-disappear-when-characters-disappear)
+
+**Finding:**  
+When characters use abilities that make them vanish, companions (Mini Seelies, Endora, Shiki Kousho, etc…) will disappear too.  
+  
+-Raiden NA: Yay  
+-Keqing N4: Yay  
+-Keqing N5: Yay  
+-Keqing E: Yay  
+-Catalysts getting thrown back: Yay  
+-Young female catalysts getting thrown back: Yay  
+-Rosaria E: Yay  
+-Ganyu E: Nay  
+-Lisa N4: Yay  
+-Xiao E: Yay  
+-Itto CA1: Yay  
+-Mona E hold: Yay  
+-Mona N3: Yay  
+-Mona Dash: Yay  
+-Ayaka Dash: Yay  
+-Yae E: Yay  
+-Kaeya N4: Yay  
+-Kazuha N5: Yay  
+-Zhongli CA: Yay  
+-Sayu N4: Yay  
+-Sara E: Yay  
+-Kiku N4: Yay  
+-Yelan E: Nay  
+-Fischl Q: Yay  
+-Hu Tao CA: Yay  
+-Hu Tao Dash: Yay  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/xO58RM2)  
+  
+**Significance:**  
+Nice to know.

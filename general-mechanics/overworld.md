@@ -247,6 +247,12 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 
 * Unloading and reloading an area causes trees/plants to pick up their fruits (like apples, sunsettias, lavender melon and berries). [Vault entry](../evidence/general-mechanics/overworld.md#trees-pick-up-fruits)
 
+## Gadget Memento Companions
+
+### Companion stealth
+
+* When characters use abilities that make them vanish, companions (Mini Seelies, Endora, Shiki Kousho, etc…) will disappear as well.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}
