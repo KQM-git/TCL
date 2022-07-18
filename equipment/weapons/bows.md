@@ -283,6 +283,8 @@
 | Radiance of the Deeps | Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6/7.5/9/10.5/12**%, **10/12.5/15/17.5/20**%, and **14/17.5/21/24.5/28**% respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field. |
 | Base ATK | 44 - 565 |
 | Energy Recharge | 6.7% - 30.6% |
+
+* Fading Twilight does not snapshot - [TheFirstRapher#9207](../../evidence/equipment/weapons.md#fading-twilight-does-not-snapshot)
 {% endtab %}
 
 {% tab title="Details" %}

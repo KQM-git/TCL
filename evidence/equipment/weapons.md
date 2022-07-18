@@ -1323,6 +1323,24 @@ Aquila's healing effects are affected by incoming and outgoing healing bonuses.
 **Significance:**  
 Aquila's healing effects are affected by incoming and outgoing healing bonuses. Prototype Amber and The Black Sword are expected to be the same, but were not tested.  
 
+### Fading Twilight
+
+#### Fading Twilight Does Not Snapshot
+
+**By:** TheFirstRapher\#9207  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fading-twilight-doesnt-snapshot)
+
+**Finding:**  
+Fading Twilight doesn't snapshot  
+  
+**Evidence:**  
+Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then 2072, then 1944.  
+[Youtube](https://youtu.be/KrQCFiQNgNw)  
+  
+**Significance:**  
+Can't keep the buff for the whole duration of a snapshottable skill.
+  
 ## General Mechanics
 
 ### Event Weapons Cannot be Foddered
