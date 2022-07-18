@@ -48,6 +48,12 @@ There are several ways to grief other people trying to fish in co-op:
 ### Fish Respawn  
 * All of the fishes respawn after 48-72 hours, even if the Fishing Points weren't cleared.  
 
+### You Cannot Fish Without The Traveler
+Fishing checks whether or not the player's Traveler is dead or alive.  
+* If the Traveler is alive: The active character is replaced by Traveler, a camera zoom happens, and the fishing menu pop us. Any action from the active character is immediately cancelled via swap.
+* If the Traveler is dead: Only the camera zoom happens. This can result to character close ups that overtake regular camera zooms from character Bursts.
+
+
 ## Waverider
 
 ### Stamina Restoration Food

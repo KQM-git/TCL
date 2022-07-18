@@ -191,6 +191,21 @@ All fishes from both night/day cycles are replaced after 48-72 hours.
 **Significance:**
 You do not need to fish until the spot is empty to respawn the fish that you require. Example you could fish all the pufferfish and wait 48-72 hours for the spot to replace the fishes. 
 
+### Kill Traveler For The Camera
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kill-traveler-for-the-camera)
+
+**Finding:**  
+Interacting with the Fishing button forces a swap from the active character to the Traveler, even if a swap was previously done, then another forced swap from the Traveler to the previous character. These swaps ignore the regular character swap cooldown, and exerts a hidden swap cooldown after it.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/gzdUBpqrzQo)  
+  
+**Significance:**  
+Mostly fluff. Could be something worth nothing for future interactions.
+
 ## The Walking Dead Impact
 
 **By** Mcpie#8672  
