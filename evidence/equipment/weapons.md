@@ -771,7 +771,7 @@ Bad uptime.
 [Discussion](https://tickets.deeznuts.moe/transcripts/cursed-blade-reduction-mechanic)
 
 **Finding:**  
-The cursed blade you use in the kazuha story quest says the wielder deals 50% less dmg. This effect is additive with dmg bonus, and does not effect transformative damage.  
+The cursed blade you use in the kazuha story quest says the wielder deals 50% less dmg. This effect is additive with dmg bonus, and does not affect transformative damage.  
   
 **Evidence:**  
 Kazuha a1 deals 2079 dmg, and swirl does 2020 dmg.  
