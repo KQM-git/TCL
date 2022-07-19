@@ -189,6 +189,25 @@ Kazuha's tap/hold E naturally lifts Kazuha enough to guarantee a high plunge whe
 **Significance:**  
 Understanding how Kazuha normally works. Plunging immediately after a tap E guarantees a high plunge.
 
+### Can Kazuha Infuse Element During Plunge From Bennett C6 And Chongyun
+
+**By:** Rimuru\#8163  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/can-kazuha-infuse-element-during-plunge-from-benny-c6-and-chongers)
+
+**Finding:**  
+Kazuha's E > plunge anemo infusion/conversion is not overtaken by weapon infuson from the likes of bennett or chongyun.
+
+**Evidence:**  
+1) In the first [video](https://imgur.com/a/LLKsoO5), we can see kazuha doing ONLY ANEMO DMG on his plunge, even though his sword is infused with cryo before going up. We can vaguely visualize his sword getting anemo infused during plunge.
+
+2) In the second [video](https://imgur.com/a/hR36v3W), we get a better view of the cryo infusion while going up which is then OVERRIDEN BY KAZUHA'S ANEMO INFUSION.
+
+3) The 3rd [video](https://imgur.com/a/8G0At6h) shows a similar scenario with c6 bennett. The video is slowed down to better visualize the pyro infusion on ascending which is overriden by Kazuha's anemo infusion.
+  
+**Significance:**  
+Kazuha's E > plunge can be considered as an anemo infusion which cannot be overrided by weapon infusion as seen in the likes of keqing or ayaka or chongyun.
+
 ## Burst Mechanics
 * Kazuha Slash snapshots. - [MysticalMerlin\#5020](https://imgur.com/a/MC9nEnq)
 * Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  
