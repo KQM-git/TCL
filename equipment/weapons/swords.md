@@ -427,7 +427,7 @@
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
 
-* The quest version of this weapon, Prized Isshin Blade, has a passive that decreases the DMG done by the wielder by 50%. This effect is additive with Damage Bonus.
+* The quest version of this weapon, **Prized Isshin Blade**, has a passive that decreases the DMG done by the wielder by 50%. This effect is additive - [Aevean Leeow#1362](../../evidence/equipment/weapons.md#cursed-blade-reduction-mechanic)
 {% endtab %}
 
 {% tab title="Details" %}
