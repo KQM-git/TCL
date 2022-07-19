@@ -54,6 +54,7 @@ Keqing consumes 25 stamina to unleash 2 rapid strikes.
 
 * Keqing's N1C is her highest damage combo but is stamina hungry.
   * N4C is a comparable damage combo that is less stamina intensive.
+* Keqing's N4 does not give iframe.
 
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
@@ -78,6 +79,8 @@ Hold to adjust the direction in which the **Stiletto** shall be thrown.
 If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while its duration lasts, it will clear the **Stiletto Mark** and produce different effects:  
 * If she uses **Stellar Restoration** again, she will blink to the location of the Mark and unleash one slashing attack that deals AoE Electro DMG. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.  
 * If Keqing uses a **Charged Attack**, she will ignite a series of thundering cuts at the Mark's location, dealing AoE Electro DMG.  
+* The act of hurling the **Stiletto** places a Mark on the spot hit, but the act itself does not generate any particle. Only a follow-up **Stellar Restoration** or **Charged Attack** will.
+* **Stiletto Mark** lasts for 5 seconds before disappearing.
 
 | Attribute | Lightning Stiletto | Thunderclap Slash |
 | :--- | :--- | :--- |
@@ -100,6 +103,11 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 * When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
 * Keqing's second **Stellar Restoration** cast is buffered during her dash.
 * Keqing can gain 2 stacks of 4pc Pale Flame in one cast of **Stellar Restoration** by dropping a **Stilleto Mark** on a enemy and performing a charge attack.
+* It is possible for Keqing to perform a Dragonstrike from the second cast of her E, **Stellar Restoration**.
+* Aiming and releasing **Lightning Stiletto** too fast can ignore your targeting and transform it into a **Press** effect instead.
+* **Stellar Restoration** has different snapshot mechanics based on usage.
+* It is possible for the Electro infusion to expire while Plunging, resulting in a Physical Plunge Attack despite showing Electro visuals on the way down.
+* It is  possible to send the **Stiletto Mark** in another direction by rapidly spinning the camera after aiming and releasing E. 
 
 {% endtab %}
 
@@ -126,7 +134,11 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 | Impulse Type | Cast: 1 <br> 1st, 3rd, 6th, 8th hits: 3 <br> 2nd, 4th, 5th, 7th hits: 1 <br> Final hit: 7 |
 
 **Notes**
-* Keqing exits her Starward Sword before the last slash and can swap or attack.
+* Keqing exits her **Starward Sword** before the last slash and can swap or attack.
+* It is possible to interrupt **Starward Sword** before the Burst can actually go through.
+  * Doing so can still trigger the Burst's effects, such as her Ascension 4 Passive that gives Crit Rate and ER.
+  * Burst cancelling like this does not actually use up her Energy, or put the Burst on cooldown, nor does it deal damage.
+  * However, it can potentially lock Keqing in place momentarily, where attempted movement can result in rapid spinning.
 
 {% endtab %}
 {% endtabs %}
@@ -173,7 +185,10 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.
 
 * An enemy can be hit twice by the **Thundering Might** AoE if **Stellar Restoration** is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
-* C1 damage instance has no ability type scaling tags.
+* C1's Damage instance has no ability type scaling tags.
+* **Thundering Might** procs before the second part of **Stellar Restoration**.
+  * Basically, the Damage goes like: **E1** - **C1 Start** - **C1 Terminus** - **E2**
+
 
 {% endtab %}
 

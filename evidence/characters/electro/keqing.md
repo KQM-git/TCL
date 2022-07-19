@@ -8,6 +8,199 @@ search: false
 
 {% page-ref page="../../../characters/electro/keqing.md" %}
 
+## Attack Mechanics
+
+### Keqing N4 has no iframe
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's N4 doesn't actually give i-frames or makes her invulnerable when she's invisible. Her model automatically goes to the ground (presumably crouching while invisible) after disappearing. Her disappearance also makes accompanying visuals and companions (like a Seelie) disappear with her. This includes shields, buff visuals and even her own shadow.
+  
+**Evidence:**  
+[YouTube](https://youtu.be/dgldXSK-BuI): Classic Ruin Guard dodge  
+[YouTube](https://youtu.be/4uHvhFUbsa4): Keq taking damage during N4  
+[YouTube](https://youtu.be/Bkf8ta97Ffo): Keq freezing while invisible  
+[YouTube](https://youtu.be/vzIA-7M_EJA): Keq N4 ft. Seelie, shadow, shield, buffs  
+  
+**Significance:**  
+Clearing an old misconception. Explaining the N4 behavior.  
+
+## Skill Mechanics
+
+### Keqing Dragonstrike after E
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+It is possible for Keqing to perform a Dragonstrike from her second cast of her E, Stellar Restoration.
+
+  
+**Evidence:**  
+[YouTube](https://youtu.be/gCVCo52YPkM)  
+  
+**Significance:**  
+Not particularly significant, but it is an interesting tech that can lead to satisfying combos if executed right.
+
+### Hurling the Stiletto does not generate particles
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's Elemental Skill is comprised of the hurling a Lightning Stiletto and the accompanying action she does (if any) after hurling it. The act of hurling the Stiletto places a Mark on the spot hit, but does not generate any particle. 
+
+Keqing can generate particles from her Elemental Skill if she uses:  
+1. Stellar Restoration (E) again, therefore teleporting to the location of the Mark and performing a slash attack  
+2. Or a Charged Attack (CA) to ignite a series of thundering cuts at the Mark's location.
+
+Both of these actions produce particles at Keqing's location, rather than the target location. 
+  
+**Evidence:**  
+[YouTube](https://youtu.be/pLs4xDU8dEc): Just Keqing spamming E.  
+  
+**Significance:**  
+Her particle generation is locked behind the second parts of her Skill. Either action can produce particles. If she fails to use E or CA before the Mark expires, she will not generate any particle from her Skill.  
+
+### Aiming and releasing E too fast can transform it into a Press E effect
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Aiming and releasing Keqing's E too fast can transform it into a tap E effect. Against no enemy, using tap E places the Mark directly in front of her. Hold/aimed E usually teleports Keqing mid-air in the aimed direction when used, but not in this case. The Mark is placed on the ground, where tap E usually would place it, rather than above ground. 
+
+If there is an enemy nearby, the Mark is autotargeted toward the enemy, rather than at the aimed direction. 
+  
+**Evidence:**  
+[YouTube](https://youtu.be/mbmTXhwWfwQ)  
+  
+**Significance:**  
+This is relevant in situations where inputs are usually fast-paced, like in combat. It's recommended to not release hold E too fast if you want the Mark to actually reach the designated area. A relevant example is if you want to force a high plunge attack to trigger an enemy pattern/attack.  
+
+### Stellar Restoration duration
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's E, Stellar Restoration, hurls a Lightning Stiletto that places a Stiletto Mark on a spot. This Stiletto Mark allows her to recast E to blink, or to use CA to make it ignite a series of thundering cuts at the Mark's location. The Stiletto Mark lasts about 5s before being cleared.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/GCn2tvPxk-o)  
+[Imgur](https://imgur.com/a/2Lb0tp9)  
+The image shows that it's on 2.4s cd, meaning the mark has been on the air for about [7.5s skill cd - 2.4s from the image =] 5.1s. This methodology can be refined by people with better recording software, but the Mark should generally last ~5s.
+  
+**Significance:**  
+This matters because it can be possible to start with Keqing E in a rotation, have enough time to swap to other characters, and then swap back to Keqing to perform E or CA. Also allows other plays that need the extra time on the Mark.  
+
+### Stellar Restoration Snapshot Mechanics
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's E, Stellar Restoration, has different snapshot mechanics based on usage. Its damage is dealt in two parts: E1 and activation. After using E1, activation happens via E2 which procs Slashing DMG and C1 (Thundering Might), or via CA which only procs Thunderclap Slash DMG.
+
+Both the Slashing DMG from E2 and the Thundering Might DMG do not snapshot from E1. They are dynamic. However, Thunderclap Slash DMG snapshots from E1 cast, and does not benefit from snapshot-related buffs after casting E1. 
+  
+**Methodology:**  
+
+***Slashing DMG + Thundering Might DMG***  
+* Footage: [YouTube](https://youtu.be/YLf-w2gebMg)
+
+***Keqing E1E2***  
+* E1 dmg = 2803
+* C1 dmg = 1636 (2)
+* E2 dmg = 9346 
+
+***Keqing E1 - Sara E - Keqing E2*** 
+* E1 dmg = 2803
+* C1 dmg = 2005 (2)
+* E2 dmg = 11457 
+
+***Sara buff active - Keqing E1 - Sara buff expires - Keqing E2*** 
+* E1 dmg = 3437
+* C1 dmg = 1636 (2)
+* E2 dmg = 9346
+
+***Thunderclap Slash DMG***  
+* Footage: https://youtu.be/NRgnjwDswjo
+
+***Keqing E1CA***  
+* E1 dmg = 2803
+* Thunderclap Slash dmg = 4673 (2)
+ 
+***Keqing E1 - Sara E - Keqing CA***  
+* E1 dmg = 2803
+* Thunderclap Slash dmg = 4673 (2)
+
+***Sara E - Keqing E1 - Sara buff expires - Keqing CA***
+* E1 dmg = 3437
+* Thunderclap Slash dmg = 5728 (2)
+  
+**Significance:**  
+This matters for rotation crafting. Better understanding of Keqing's kit.  
+
+### Electro infusion can expire while plunging
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's E, Stellar Restoration, infuses her Normal Attacks, Charged Attacks and Plunge Attacks with Electro. However, it is possible for the Electro infusion to expire while plunging, resulting in a Physical Plunge Attack despite showing Electro visuals on the way down. The landing effects are also Physical/uninfused instead of Electro.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/NODvk9cZsRA)  
+  
+**Significance:**  
+Not particularly significant in combat, but it is worth noting that this *can* happen.  
+
+### Keqing 360 no scope
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's E, Stellar Restoration, can be held to manually aim the direction of the Lightning Mark. Releasing E and spinning the camera makes Keqing spin in place, away from the direction of the Mark.  
+  
+It is also possible to send the Mark in another direction by rapidly spinning the camera after releasing E.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/ZrYrZ2hTHng)  
+  
+**Significance:**  
+Some technical stuff. Kinda poggers.
+
+## Burst Mechanics
+
+### Starward Sword can be burst-cancelled
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's Q, Starward Sword, can be burst-cancelled. This means that it is possible to interrupt Keqing before the Burst can actually go through, and doing so can trigger special effects associated with Burst activation, such as her Ascension 4 Passive that gives Crit Rate and ER.
+
+Burst cancelling Keqing like this does not actually use up her Energy, put the Burst on cooldown, nor does it deal damage. However, it can potentially lock Keqing in place momentarily, where attempted movement can result to rapid spinning.
+  
+**Evidence:**  
+[YouTube](https://youtu.be/Ka7Bz68Y1Bo)  
+  
+**Significance:**  
+Very poggers. Free Burst!  
+
 ## Ascension Mechanics
 
 ### A4: Aristocratic Dignity
@@ -66,6 +259,22 @@ Damage is consistent with and without 4HoD, 2gambler, and 2NO bonuses - [Video](
 
 **Significance:**  
 Damage calculations for Keqing.
+
+### Keqing C1 proc order
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
+
+**Finding:**  
+Keqing's C1, Thundering Might, procs before the second part of E, Stellar Restoration. Basically, the damage goes like:  
+E1 - C1start - C1terminus - E2
+    
+**Evidence:**  
+[YouTube](https://youtu.be/XTXQ30QguLA): Check the last hilichurl. There's also a final clip in the video that can be paused to check which damage numbers pop up.
+  
+**Significance:**  
+This means that it is possible for Keqing to hit up to 3 times before hitting E2, which is relevant because it is E2 that generates energy. If a target dies before E2, then no energy is generated. The ordering can potentially affect calcs or something similar, maybe even for future characters that only buff certain amount of hits.
 
 ### C2: Keen Extraction  
 
