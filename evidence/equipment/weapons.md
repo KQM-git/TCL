@@ -764,7 +764,7 @@ Bad uptime.
 
 ### Kagotsurube Isshin
 
-### Cursed Blade Reduction Mechanic
+#### Cursed Blade Reduction Mechanic
 
 **By:** Aevean Leeow\#1362  
 **Added:** 2022-07-18  
