@@ -584,6 +584,86 @@ Abyss 7-1 with 3 gladiator pieces vs 4 gladiator pieces
 
 ---
 
+### Aqua Simulacra
+
+#### Aqua Simulacra Vertical Range Limit
+
+**By:** Yume\#1519  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/aqua-simulacra-vertical-range-limit)
+
+**Finding:**  
+Aqua Simulacra's passive, The Cleansing Form, seemingly has no vertical range limit.  
+  
+**Evidence:**  
+To determine whether Aqua Simulacra's passive is in effect, the presence of the blue glow on the bow is checked.  
+  
+Test 1: Testing whether an enemy above the bow user procs the passive. (The enemy is a whopperflower, which is also aggro'd in the end of the video)  
+[Imgur](https://imgur.com/a/O2BC9bv)  
+  
+Test 2: Testing whether an enemy below the bow user procs the passive.  
+[Imgur](https://imgur.com/a/GjYmy4X)  
+  
+As we can see, in both instances, blue glow is present in the bow, which means that the passive is active.  
+  
+**Significance:**  
+Overworld stuff, fluff, more understanding on Aqua Simulacra's passive.
+
+---
+
+### Aquila Favonia
+
+#### Aquila Favonia Proc And Shield Interaction
+
+**By:** gvo#4200  
+**Added:** 2021-10-26  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884586464292261949/902500308381495326/transcript-aquila-proc-and-shield-interaction.html)
+
+**Finding:**  
+There is some inconsistency with shielded sword characters and aquila favonia procs.
+
+**Evidence:**  
+* [YouTube](https://youtu.be/mEgcnveyTrg): Bennett with Diona's shield
+* [YouTube](https://youtu.be/ZSd-3ke6YmQ): Xingqiu with Diona's shield
+
+The videos show:  
+1. How Aquila does not proc when protected by a shield  
+2. How Aquila can proc while in burst iframes, without a shield  
+3. How Aquila can proc while in burst iframes, while protected by a shield
+
+**Significance:**  
+This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
+
+#### Aquila Healing is Affected by Healing Bonus
+
+**By:** IAmOnYourSide\#5431  
+**Added:** 2022-03-09  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951288550870089768/transcript-aquila-healing-affected-by-healing-bonuses.html)  
+
+**Finding:**  
+Aquila's healing effects are affected by incoming and outgoing healing bonuses.  
+
+**Evidence:**  
+[No healing bonuses](https://youtu.be/pXTGlicy6A4)  
+* HP restored: 291
+* Bennett with almost no artifacts.
+
+
+[Hydro Resonance](https://youtu.be/A5Pqazum-4g)  
+* HP restored: 379
+* 379/291 = 1.302405498281787
+* Yields 30% from Hydro Resonance as expected.
+
+[Hydro Resonance + 2pc Maiden](https://youtu.be/XdoseuBTj5c)  
+* HP restored: 422
+* 422/291 = 1.4501718213058419
+* Yields 45% from Hydro Resonance + 2pc Maiden as expected.
+
+**Significance:**  
+Aquila's healing effects are affected by incoming and outgoing healing bonuses. Prototype Amber and The Black Sword are expected to be the same, but were not tested.  
+
+---
+
 ### Cinnabar Spindle
 
 #### Cinnabar Passive Deactivation Bug
@@ -630,6 +710,26 @@ Grasscutter + 4ESF have better synergy.
 
 ---
 
+### Fading Twilight
+
+#### Fading Twilight Does Not Snapshot
+
+**By:** TheFirstRapher\#9207  
+**Added:** 2022-07-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fading-twilight-doesnt-snapshot)
+
+**Finding:**  
+Fading Twilight doesn't snapshot  
+  
+**Evidence:**  
+Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then 2072, then 1944.  
+[Youtube](https://youtu.be/KrQCFiQNgNw)  
+  
+**Significance:**  
+Can't keep the buff for the whole duration of a snapshottable skill.
+
+---
+
 ### Hakushin Ring  
 
 #### Crystalize, Swirl and Swirl chain reactions work for the effect.  
@@ -661,6 +761,36 @@ Hakushin Ring doesn't trigger off field.
 Bad uptime.  
 
 ---
+
+### Kagotsurube Isshin
+
+### Cursed Blade Reduction Mechanic
+
+**By:** Aevean Leeow\#1362  
+**Added:** 2022-07-18  
+[Discussion](https://tickets.deeznuts.moe/transcripts/cursed-blade-reduction-mechanic)
+
+**Finding:**  
+The cursed blade you use in the kazuha story quest says the wielder deals 50% less dmg. This effect is additive with dmg bonus, and does not effect transformative damage.  
+  
+**Evidence:**  
+Kazuha a1 deals 2079 dmg, and swirl does 2020 dmg.  
+  
+[YouTube](https://youtu.be/4vgO4tkIYbQ)  
+  
+A1 calc with multiplicative reduction: 1.088 * 0.5 * (190/( 90 + 92 + 200)) * 2 * 2058 * 1.919 * 0.9 = 1923.45  
+  
+A1 calc with additive reduction with the pyro dmg bonus from a2: (1.088 - 0.5) * (190/( 90 + 92 + 200)) * 2 * 2058 * 1.919 * 0.9 = 2079.03, same as video  
+  
+Swirl calc with no reduction applied: 868.1 * 2.586 * 0.9 = 2020.42, same as video  
+  
+(a1 crits here or otherwise it is doomed)  
+  
+**Significance:**  
+Assuming kazuhas level does not approach infinity while the enemy level and/or def does, and assuming def shred/reduction does not approach 100%, the dmg reduction on the quest's cursed blade matters less and less because the def formula would make non transformative or true damage approach 0 anyways. It will not impact transformative or true damage, which both bypass def, so the effect of the dmg reduction is negligible. In such a case kazuha should probably use an em weapon, but at the very least the dmg reduction on the cursed blade will not be very detrimental in these scenarios.
+
+---
+
 ### Kagura's Verity
 
 #### Kagura Stack Refresh
@@ -1271,100 +1401,6 @@ Beidou's N1 is shown to crit prior to the buff for 1859. On the hit that procs W
 Setup your WGS buff before a big nuke or you lose out on potential damage.
 
 ---
-
-### Aquila Favonia
-
-#### Aquila Favonia Proc And Shield Interaction
-
-**By:** gvo#4200  
-**Added:** 2021-10-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884586464292261949/902500308381495326/transcript-aquila-proc-and-shield-interaction.html)
-
-**Finding:**  
-There is some inconsistency with shielded sword characters and aquila favonia procs.
-
-**Evidence:**  
-* [YouTube](https://youtu.be/mEgcnveyTrg): Bennett with Diona's shield
-* [YouTube](https://youtu.be/ZSd-3ke6YmQ): Xingqiu with Diona's shield
-
-The videos show:  
-1. How Aquila does not proc when protected by a shield  
-2. How Aquila can proc while in burst iframes, without a shield  
-3. How Aquila can proc while in burst iframes, while protected by a shield
-
-**Significance:**  
-This interaction may affect other "triggers on taking dmg" + shield interactions. The only other ability I can think of that could be similarly affected would be Zhongli A2.
-
-#### Aquila Healing is Affected by Healing Bonus
-
-**By:** IAmOnYourSide\#5431  
-**Added:** 2022-03-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951288550870089768/transcript-aquila-healing-affected-by-healing-bonuses.html)  
-
-**Finding:**  
-Aquila's healing effects are affected by incoming and outgoing healing bonuses.  
-
-**Evidence:**  
-[No healing bonuses](https://youtu.be/pXTGlicy6A4)  
-* HP restored: 291
-* Bennett with almost no artifacts.
-
-
-[Hydro Resonance](https://youtu.be/A5Pqazum-4g)  
-* HP restored: 379
-* 379/291 = 1.302405498281787
-* Yields 30% from Hydro Resonance as expected.
-
-[Hydro Resonance + 2pc Maiden](https://youtu.be/XdoseuBTj5c)  
-* HP restored: 422
-* 422/291 = 1.4501718213058419
-* Yields 45% from Hydro Resonance + 2pc Maiden as expected.
-
-**Significance:**  
-Aquila's healing effects are affected by incoming and outgoing healing bonuses. Prototype Amber and The Black Sword are expected to be the same, but were not tested.  
-
-### Fading Twilight
-
-#### Fading Twilight Does Not Snapshot
-
-**By:** TheFirstRapher\#9207  
-**Added:** 2022-07-14  
-[Discussion](https://tickets.deeznuts.moe/transcripts/fading-twilight-doesnt-snapshot)
-
-**Finding:**  
-Fading Twilight doesn't snapshot  
-  
-**Evidence:**  
-Excuse the scuffed clip but you can see my Fischl's crits doing 2008 first, then 2072, then 1944.  
-[Youtube](https://youtu.be/KrQCFiQNgNw)  
-  
-**Significance:**  
-Can't keep the buff for the whole duration of a snapshottable skill.
-
-### Aqua Simulacra
-
-### Aqua Simulacra Vertical Range Limit
-
-**By:** Yume\#1519  
-**Added:** 2022-07-14  
-[Discussion](https://tickets.deeznuts.moe/transcripts/aqua-simulacra-vertical-range-limit)
-
-**Finding:**  
-Aqua Simulacra's passive, The Cleansing Form, seemingly has no vertical range limit.  
-  
-**Evidence:**  
-To determine whether Aqua Simulacra's passive is in effect, the presence of the blue glow on the bow is checked.  
-  
-Test 1: Testing whether an enemy above the bow user procs the passive. (The enemy is a whopperflower, which is also aggro'd in the end of the video)  
-[Imgur](https://imgur.com/a/O2BC9bv)  
-  
-Test 2: Testing whether an enemy below the bow user procs the passive.  
-[Imgur](https://imgur.com/a/GjYmy4X)  
-  
-As we can see, in both instances, blue glow is present in the bow, which means that the passive is active.  
-  
-**Significance:**  
-Overworld stuff, fluff, more understanding on Aqua Simulacra's passive.
   
 ## General Mechanics
 

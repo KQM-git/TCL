@@ -416,6 +416,37 @@
 {% endtab %}
 {% endtabs %}
 
+### Kagotsurube Isshin
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Isshin Art Clarity | When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s. |
+| Base ATK | 42 - 510 |
+| ATK% | 9% - 41.3% |
+
+* The quest version of this weapon, Prized Isshin Blade, has a passive that decreases the DMG done by the wielder by 50%. This effect is additive and does not affect Transformative Damage.
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | ATK% |
+| :--- | :--- | :--- |
+| 60 | 327 | 30.4 |
+| 60+ | 353 | 30.4 |
+| 65 | 370 | 32.3 |
+| 70 | 388 | 34.1 |
+| 70+ | 414 | 34.1 |
+| 75 | 431 | 35.9 |
+| 80 | 449 | 37.7 |
+| 80+ | 475 | 37.7 |
+| 85 | 492 | 39.5 |
+| 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
+
 ### Lion's Roar
 
 {% tabs %}
