@@ -172,6 +172,32 @@ where C and R are the CRIT Rate and Weapon Refinement Level, respectively. After
 **Significance:**  
 Offers an easy way to visualize how the probability changes with the CRIT Rate. I initially made it to more easily come up with reasonable CRIT Rate assumptions for the [KQMC](https://docs.google.com/document/d/1_UpwP0VziHehZVwdsD74wYuWD9pdSAknNVzs30U4vFE/edit?usp=sharing).  
 
+## Infusion Series
+
+### Crescent Pike Procs Benefit From All Relevant Damage Bonuses
+
+**By:** Xreejan\#1180  
+**Added:** 2022-07-19  
+[Discussion](https://tickets.deeznuts.moe/transcripts/crescent-pike-procs-benefit-from-all-relevant-damage-bonuses-932873699491741726)
+
+**Finding:**  
+Crescent Pike Procs benefit from all relevant damage bonuses  
+  
+**Evidence:**  
+Pike Procs without geo resonance does 66 damage per proc: [Imgur](https://imgur.com/FSn7VI8)  
+Pike Procs with geo resonance does 73 damage per proc: [Imgur](https://imgur.com/1EX5Oom)  
+  
+Pike Procs with 4LW and 4TS:  
+Thanks to EatYourVeggies#7493 for providing the clips for 4LW and 4TS  
+* Videos: [YouTube](https://www.youtube.com/playlist?list=PLwA26tPZoWpFDNGUEQvM0Yo1tyhms1Y40)  
+
+4LW calc: `1391*(1+31.5%+35%)*40%*0.50*0.7=322`  
+4TS calc: `1078*(1+31.5%+35%)*40%*0.50*0.7=249`  
+* [Google Sheet](https://docs.google.com/spreadsheets/d/10uV_s_nC_O0b-Dz6IVhdjM2KaN9rY125/edit?usp=sharing&ouid=105974977777829459167&rtpof=true&sd=true)  
+  
+**Significance:**  
+Similar to how Skyward Weapon procs benefit from Physical damage bonus. Crescent Pike Procs benefit from all relevant damage bonuses (phys, 4LW, 4TS, Geo Resonance) since it's based off the user's stats.
+
 ## Millennial Movement Series
 
 ### Millennial Movement Stack Mechanics

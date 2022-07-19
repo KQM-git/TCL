@@ -231,6 +231,8 @@
 | Infusion Needle | After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal an additional **20/25/30/35/40**% ATK as DMG for 5s |
 | Base ATK | 44 - 565 |
 | Phys DMG Bonus | 7.5% - 34.5% |
+
+* **Infusion Needle** benefits from all relevant Damage Bonuses since it's based off the characters' stats.
 {% endtab %}
 
 {% tab title="Details" %}
