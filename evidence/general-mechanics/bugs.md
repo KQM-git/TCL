@@ -264,6 +264,26 @@ Build Guide in Teapot, more info in description: [YouTube](https://youtu.be/ewTm
 **Significance:**  
 Looks kinda cool.
 
+### Leg Break Bridge 2
+
+**By:** NZPIEFACE\#8439  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/the-angels-share-is-short-staffed-so-diona-gets-an-idea-to-shut-it-down-once-and-for-all)
+
+**Finding:**  
+Diluc is hiring part time, so Diona applies, but little does he know that he has a workplace injury settlement coming his way.
+Take damage when you plunge behind the counter in Diluc's Tavern, the Angel's Share, any weapon type works
+The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](https://library.keqingmains.com/evidence/general-mechanics/bugs#leg-break-bridge).
+
+**Evidence:**  
+
+Xiao no plunge damage: [YouTube](https://youtu.be/FfQqfbp7ZeE)
+
+Diona suing Diluc for workplace injury: [YouTube](https://youtu.be/F5MNQ1p65dg)
+
+**Significance:**  
+Another strange place other than Leg Break Bridge where you can kill yourself with low plunge attacks. This means that there could be more places where you can hurt yourself somewhere in the world.
+
 ## Lag
 
 ### Netlimited Blade Works

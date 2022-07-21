@@ -30,6 +30,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * [You can jump higher than normal and travel long distances](../evidence/general-mechanics/bugs.md\#cooking-pot-super-jump) by repeatedly entering and exiting the cooking menu during an action that moves the character upwards, such as jump, Kazuha E, and Bennett Hold E. 
 * You take damage when you [plunge on a spot at Dainichi island bridge](../evidence/general-mechanics/bugs.md\#leg-break-bridge), this happens with any weapon type.
   * The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
+  * There is also another similar spot behind the counter in [Angel's Share](../evidence/general-mechanics/bugs.md\#leg-break-bridge-2).
 * Sometimes [torches will become inextinguishable by Overload](../evidence/general-mechanics/bugs.md#infinite-torch), the cause is unknown.
 * [Lightning Struck Trees have a high chance of breaking](../evidence/general-mechanics/bugs.md#lightning-struck-tree-breaks-when-swapping-characters) if you swap characters near them as it keeps applying Electro on you.
   * It is possible to fix it by relogging or drowning to force reload.  
