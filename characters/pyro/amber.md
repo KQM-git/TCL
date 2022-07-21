@@ -100,6 +100,7 @@ The longer the button is held, the further the throw.
 * **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
 * If **Baron Bunny** doesn't land on the ground within 10s of being casted, it disappears.
 * **Baron Bunny** can take collision damage from characters and from falling. Collision damage can occur from dashing into the bunny or plunging into it.
+* **Baron Bunny** has a hitbox that players can hit with **Normal Attacks**. Some characters such as **Xingqiu** can hit this hitbox easily, while other characters struggle to hit it consistently. This can be used for Dragonstrikes.
 {% endtab %}
 
 {% tab title="Fiery Rain" %}

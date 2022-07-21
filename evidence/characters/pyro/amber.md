@@ -78,6 +78,22 @@ Based on these [character stats](https://imgur.com/a/rfwSZDT), Amber should be d
 **Significance:**  
 Fluff, better understanding of Amber's kit.
 
+### Bunnystrike
+
+**By:** BowTae\#0141  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/bunnystrike)
+
+**Finding:**  
+Baron Bunny has a hitbox that players can hit with normal attacks. Some characters such as Xingqiu can hit this hitbox easily, while other characters struggle to hit it consistently. This can be used for dragonstrikes. This is also probably why bunny can hold cryo aura, which is already known in the TCL.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/njUeRRg3D3o)  
+  
+**Significance:**  
+Increases the potential Dragonstrikes Per Second of VV Vape Hu Tao.  
+Fluff.
+
 ## Burst Mechanics
 
 ### Amber Ult Targeting
