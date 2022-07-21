@@ -122,7 +122,22 @@ The door resets if you teleport to another map or far enough away, but does not 
 [Teleporting nearby](https://imgur.com/a/WII4L0R) - [Teleporting far away](https://imgur.com/a/3c67rPC)
 
 **Significance:**  
-looks cool
+Looks cool
+
+### Ding Domain Ditch
+
+**By:** Maka Caves\#0420  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/ding-domain-ditch)
+
+**Finding:**  
+In a high ping scenario, you can run out of the domain arena before the walls appear, leaving your co-op teammates to complete it by themselves  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/K5bIioosMN8)  
+  
+**Significance:**  
+Less effort required to farm domains, also chaos
 
 ## Fishing Spots
 
