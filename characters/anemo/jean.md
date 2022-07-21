@@ -131,6 +131,7 @@ At the same time, she instantly regenerates a large amount of HP for all party m
   * With precise timing, Anemo can be the aura for self-swirls occasionally.  
   * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4pc Instructor set effect.
   * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
+  * In Sunfire, Bennett can trigger the 4pc VV effect set himself if he's the triggerer of Sunfire self-swirl.
 {% endtab %}
 {% endtabs %}
 

@@ -181,6 +181,25 @@ Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies with
 **Significance:**  
 Finding is somewhat significant for team damage calculations. This gives Jean slightly higher damage contribution through 2 guaranteed instances of Border DMG and additional swirl instances \(where applicable\). Additionally, team rotations with Jean that depend on certain auras on enemies for setups should also consider these additional damage instances as they can potentially deplete auras.
 
+### Anemo Aura Continued
+
+**By:** ProfHugo\#6478  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/anemo-aura-continued-950255566389915728-1658431198969)
+
+**Finding:**  
+Finding 1: For Jean Q -> Bennett Q, the approximate timing for ensuring that Bennett becomes the trigger of Sunfire self swirl at 80ms ping is from ~2.035s to ~2.065s from pressing Q on Jean to pressing Q on Bennett.  
+Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self swirl  
+  
+**Evidence:**  
+Example clip: [YouTube](https://youtu.be/EZ1gvuLaYCw)  
+Macro for testing: [Imgur](https://imgur.com/xEK5hta)  
+Bennett statpage (Iron Sting): [Imgur](https://imgur.com/gbvpMOO), [Imgur](https://imgur.com/3obY33q)  
+Jean statpage (Festering Desire): [Imgur](https://imgur.com/maXHeli), [Imgur](https://imgur.com/2RbmA4s)  
+
+**Significance:**  
+4VV Bennett viable yahooooooooooooooooooooooooo
+
 ## Constellation Mechanics
 
 ### Jean's C4 Verticality
