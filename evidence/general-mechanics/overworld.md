@@ -154,6 +154,21 @@ Kageroumaru can hold non-elemental statuses, but not marks.
 Whether mHY keeps up with this consistency is unknown. Whether this is helpful to the general playerbase is unknown.
 * Precursor to #marks-and-statuses, if mHY decides to add more of this trend, so more testing can be done.
 
+### Teapot Dog Abuse 3
+
+**By:** Rainfury#8343  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/animal-abooz-has-no-icd-viewers-discretion-advised)
+
+**Finding:**  
+Kageroumaru reacts to all attacks used on him, including every single hit of a multi hit attack. 
+  
+**Evidence:**  
+[YouTube](https://youtu.be/qDk6LZ9cB2s)
+
+**Significance:**  
+Poor Kageroumaru does not deserve this. He is just a cute dog. Well, THIS IS WHAT HE GETS FOR BEING LAZY AND STAYING IN MY TEAPOT INSTEAD OF FOLLOWING ME AROUND IN THE OVERWORLD. /s
+
 ## Explosive Barrel Properties
 
 **By:** kxmndz\#4700  

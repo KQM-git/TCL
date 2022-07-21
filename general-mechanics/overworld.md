@@ -23,6 +23,7 @@
 
 * 0-poise attacks also register on Kageroumaru.
 * Kageroumaru can hold non-elemental statuses, but not marks.
+* Kageroumaru's parry does not have a cooldown. He reacts to all attacks inlicted on him, including every single hit of a multi-hit attack.
 
 ## Waverider Mechanics
 
