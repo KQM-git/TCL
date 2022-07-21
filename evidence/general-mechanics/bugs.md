@@ -53,6 +53,34 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Significance:** This is significant as some people rely on pure RNG when trying to get that "perfect run". For example, using Xingqiu's Q and following up with two E's \(when using Sacrificial Sword\) to generate as much energy recharge as possible for the next Q is often used in vape comps. When attempting the "perfect run", people may restart several times at the first few seconds of starting a floor to get the Sacrificial Sword's passive to activate. However, they will notice that Xingqiu's E has a 21 second CD which does not get reset upon retrying a stage, forcing them to retry the floor AGAIN. This is especially noticeable on characters with long CDs on elemental skills or bursts.
 
+## Artifacts
+
+### Noblesse Oblige 4pc bonus not applying to some bursts
+
+**By:** Bobrokrot\#0111  
+**Added:** 2021-04-26  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
+
+**Bug:**  
+4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ganyu's burst.
+
+For now these are the only two ults that have this issue. The following ults are confirmed to behave as expected: Chongyun, Amber, Kaeya, Jean, XL.
+
+**Evidence:**  
+[In this video Beidou with 4NO activates burst two times in Abyss-7 without exiting the floor](https://youtu.be/3B1KQC7rM-A). The first burst didn't snapshot the +20% atk bonus from 4NO, while 2nd burst did.
+
+[\[Spreadsheet\] The calcs to confirm the numbers in the video:](https://docs.google.com/spreadsheets/d/1qwMllRjonYsyd6JFcmlLfqdd8fEe5lro_CchnkQISew/edit?usp=sharing)
+
+[4NO doesn't work on Ganyu](https://youtu.be/BmHfmKQr6r4)
+
+Some other tests:  
+[Jean \(4NO works\)](https://youtu.be/LqaC2WnHBgE)  
+[Kaeya \(4NO works\)](https://youtu.be/9MrgeJX0iOw)  
+[Amber \(4NO works\)](https://youtu.be/jNcaVB10Jow)
+
+**Significance:**  
+Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize the buff themselves. It is better suited on other characters until patched.
+
 ## Domains
 
 ### Resetting or Exiting a Domain does not Reset Elemental Skill Cooldowns  
@@ -95,6 +123,26 @@ The door resets if you teleport to another map or far enough away, but does not 
 
 **Significance:**  
 looks cool
+
+## Fishing Spots
+
+### Fishing Spot Prompt Bug
+
+**By:** Beast Boy\#2560  
+**Added:** 2022-04-16  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
+
+**Bug:**  
+The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.  
+
+**Evidence:**  
+* Normal Fishing Prompt Interaction \(for reference\): [video](https://imgur.com/a/Um9dkKI)
+* Persists through many actions: [video](https://youtu.be/Up6DK2fehS0)
+* Persists through menu opening: [video](https://imgur.com/a/D91qwc7)
+* Entering and exiting menu extension \(from sexyeboy69\#2687\): [video](https://youtu.be/LsbKfLN-kMo)
+
+**Significance:**  
+Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowed\).
 
 ## Overworld
 
@@ -234,33 +282,65 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 * [Bennett overheal](https://www.youtube.com/watch?v=aIMPpFMJFSk)
 * [Diluc C1 not benefitting](https://www.youtube.com/watch?v=NSC2BhkhcJo)
 
-## Artifacts
+## Teapot
 
-### Noblesse Oblige 4pc bonus not applying to some bursts
+### Horizon Tech
 
-**By:** Bobrokrot\#0111  
-**Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
+**By:** Originally discovered by zajef77#2838 and many KQM members contributed  
+**Added:** 2021-06-23  
+[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847367901518626846/857350049892925480/transcript-spaghetti-impact-horizon-tech.html)
 
 **Bug:**  
-4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ganyu's burst.
-
-For now these are the only two ults that have this issue. The following ults are confirmed to behave as expected: Chongyun, Amber, Kaeya, Jean, XL.
+Clipping a Fruit Stand into landmasses allows your character to climb and stand horizontally, resulting in some pretty tasty spaghetti.
 
 **Evidence:**  
-[In this video Beidou with 4NO activates burst two times in Abyss-7 without exiting the floor](https://youtu.be/3B1KQC7rM-A). The first burst didn't snapshot the +20% atk bonus from 4NO, while 2nd burst did.
+[The Origins](https://clips.twitch.tv/BlatantFastWormHoneyBadger-MrSq60fPLHNl1MtP)  
+[Guide to Spaghetti Impact](https://clips.twitch.tv/BoringFancySeahorseDeIlluminati-hy_WFgh9GZqZXFJL)
 
-[\[Spreadsheet\] The calcs to confirm the numbers in the video:](https://docs.google.com/spreadsheets/d/1qwMllRjonYsyd6JFcmlLfqdd8fEe5lro_CchnkQISew/edit?usp=sharing)
+[Youtube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
 
-[4NO doesn't work on Ganyu](https://youtu.be/BmHfmKQr6r4)
-
-Some other tests:  
-[Jean \(4NO works\)](https://youtu.be/LqaC2WnHBgE)  
-[Kaeya \(4NO works\)](https://youtu.be/9MrgeJX0iOw)  
-[Amber \(4NO works\)](https://youtu.be/jNcaVB10Jow)
+[The sacrifices made to get this far](https://cdn.discordapp.com/attachments/847367901518626846/847872555397677127/Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
 
 **Significance:**  
-Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize the buff themselves. It is better suited on other characters until patched.
+Looks kinda cool.
+
+## Weapons
+
+### Aether Fist
+
+**By:** Rathalos\#2875  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/aether-can-fist)
+
+**Theory:**  
+In a high ping environment, it is possible to lose Traveler's sword and go weaponless. Being a gigachad that he is, Aether can abandon the dull blade at will and fist everybody on his way.  
+  
+**Significance:**  
+It is very possible that other characters can lose their weapons. At the very least, Anemo Aether *can* lose it. And he can fist you.
+
+### Childe Fist
+
+**By:** BowTae\#0141  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/childe-fist-n1)
+
+**Finding:**  
+An addendum to this [Library Entry](https://library.keqingmains.com/evidence/characters/hydro/tartaglia#elemental-skill-and-attack-or-burst-on-the-same-frame)  
+  
+By doing a ranged N1 and switching to melee stance on the same frame, Childe will do rN1 without holding his bow, summoning an arrow his fist. If you continue to press Attack without moving, Childe will keep doing this until you stop pressing or melee stance runs out.  
+  
+Inputs:  
+1. Dash, then immediately hold Attack. Childe is one of the few characters that can do an N1 on Attack release (aka negative edge), which is what this will set up.  
+2. After dash ends, while holding a movement direction, press Skill and release Attack on the same frame. Childe will do a bowless rN1.  
+3. Let go of movement, and keep spamming Attack.  
+  
+This can be also done without the negative edge N1, but requires a 1 frame M1 click and release, so the negative edge method is easier to do.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/CqWkho98JEc)  
+  
+**Significance:**  
+The Archer class really is made up of archers!
 
 ## Miscellaneous
 
@@ -428,45 +508,3 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 
 **Significance:**  
  Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.  
- 
-## Teapot
-
-### Horizon Tech
-
-**By:** Originally discovered by zajef77#2838 and many KQM members contributed  
-**Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847367901518626846/857350049892925480/transcript-spaghetti-impact-horizon-tech.html)
-
-**Bug:**  
-Clipping a Fruit Stand into landmasses allows your character to climb and stand horizontally, resulting in some pretty tasty spaghetti.
-
-**Evidence:**  
-[The Origins](https://clips.twitch.tv/BlatantFastWormHoneyBadger-MrSq60fPLHNl1MtP)  
-[Guide to Spaghetti Impact](https://clips.twitch.tv/BoringFancySeahorseDeIlluminati-hy_WFgh9GZqZXFJL)
-
-[Youtube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
-
-[The sacrifices made to get this far](https://cdn.discordapp.com/attachments/847367901518626846/847872555397677127/Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
-
-**Significance:**  
-Looks kinda cool.
-
-## Fishing Spots
-
-### Fishing Spot Prompt Bug
-
-**By:** Beast Boy\#2560  
-**Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
-
-**Bug:**  
-The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.  
-
-**Evidence:**  
-* Normal Fishing Prompt Interaction \(for reference\): [video](https://imgur.com/a/Um9dkKI)
-* Persists through many actions: [video](https://youtu.be/Up6DK2fehS0)
-* Persists through menu opening: [video](https://imgur.com/a/D91qwc7)
-* Entering and exiting menu extension \(from sexyeboy69\#2687\): [video](https://youtu.be/LsbKfLN-kMo)
-
-**Significance:**  
-Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowed\).

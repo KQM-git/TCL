@@ -12,6 +12,15 @@ When using the retry button in abyss your [elemental skill and burst will not re
 
 Opening the exit menu in the Abyss does not pause the timer. This results in a bug wherein if you use the retry button in abyss as the last enemy in a chamber dies [you will encounter an error message and recieve 0 stars.](../evidence/general-mechanics/bugs.md\#retry-and-exit-menu-issues)
 
+## Artifacts
+
+There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not.
+
+## Domains
+
+* Exiting or resetting a domain [will not reset a character's skill cooldown.](../evidence/general-mechanics/bugs.md#resetting-or-exiting-a-domain-does-not-reset-elemental-skill-cooldowns)
+* A domain’s door can be kept open by [disconnecting internet while the door is being opened](../evidence/general-mechanics/bugs.md#keeping-domain-doors-open).
+
 ## Overworld
 
 * [Bushes respawn infinitely](../evidence/general-mechanics/bugs.md\#infinite-bushes) when Hu Tao infused with pyro sets them on fire.
@@ -26,14 +35,13 @@ Opening the exit menu in the Abyss does not pause the timer. This results in a b
 * [Fishing spot prompt can stay with the character](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) under specific circumstances, and it be extended beyond its normal area by repeatedly entering and exiting the menu.
 * By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a [horizontal position](../evidence/general-mechanics/bugs.md#horizon-tech-sequel) (as long as they are in an animation or partially clipped into a surface).
 
-## Artifacts
+## Weapons
 
-There are inconsistencies in whether a character wielding 4NO can receive the 4-pc Set Bonus on their Elemental Burst or not.
+* Diona's proc rate on Sacrifical bow is [lower than its theoretical average.](../evidence/characters/cryo/diona.md\#diona-sacrifial-proc-inconsistency)
 
-## Domains
-
-* Exiting or resetting a domain [will not reset a character's skill cooldown.](../evidence/general-mechanics/bugs.md#resetting-or-exiting-a-domain-does-not-reset-elemental-skill-cooldowns)
-* A domain’s door can be kept open by [disconnecting internet while the door is being opened](../evidence/general-mechanics/bugs.md#keeping-domain-doors-open).
+* There is a bug that causes your character to attack without a weapon in their hands (visually).
+  * The fist of [Tartaglia](../evidence/general-mechanics/bugs.md#childe-fist)
+  * The fist of [Aether](../evidence/general-mechanics/bugs.md#aether-fist)
 
 ## Miscellaneous
 
@@ -51,8 +59,6 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 
 * There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md\#sprinting-bug), while still consuming stamina.
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
-
-* Diona's proc rate on Sacrifical bow is [lower than its theoretical average.](../evidence/characters/cryo/diona.md\#diona-sacrifial-proc-inconsistency)
 
 ## Fixed Bugs
 
