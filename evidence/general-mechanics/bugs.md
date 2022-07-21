@@ -558,3 +558,20 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 
 **Significance:**  
  Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.  
+
+### Characters Steal Burst From Each Others
+
+**By:** yourmom\#3033  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/characters-can-steal-ults-from-each-other-and-do-dumb-stuff-with-it)
+
+**Finding:**  
+If you swap fast enough, the character you swap to can "steal" another characters ult  
+animation  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/s1L-Cy3Pa_E)  
+This works for characters that "summons" objects such as childe, raiden, hutao, etc  
+  
+**Significance:**  
+You can make anyone the Geo Archon now.
