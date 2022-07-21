@@ -979,3 +979,28 @@ Kazuha A4 and FS passive activates on fowl
   
 **Significance:**  
 Better understanding of character/weapon interaction with the wildlife of Teyvat
+
+## Does The Loading Screen Detect Time
+
+**By:** ShampooBrain\#9583  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/does-the-loading-screen-detect-time)
+
+**Finding:**  
+The loading screen on launching the game detects the time on your device and sets the time of day accordingly  
+  
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=OVKr-Dp-TJo)  
+Genshin sets the following loading screens (Times given in 24 hour clock to avoid confusion):  
+Dawn - 04:30 to 07:29  
+Day - 07:30 to 16:29  
+Dusk - 16:30 to 18:29  
+Night - 18:30 to 04:29  
+
+[YouTube](https://www.youtube.com/watch?v=nKhXtezZMDg) - This video demonstrates that the screens change from xx:29 to xx:30  
+  
+**Significance:**  
+As we know, Jenshin Impact's anti-cheat has kernel level access to your device. It is then not hard to imagine that it would be possible for Mihoyo to grab any data they wanted, such as the date and time and your payment details. It would also be possible for them to collect data on your daily habits, what topics interest you, what things make you likely to spend money and sell this data to advertisers who can use this data maliciously. Such anti-cheat tools often target drivers and software that have access to your hardware, such as overclocking tools, temperature monitors, fan controllers. This can cause performance issues, on top of the bad optimization, lag and ping issues we already face.  
+In conclusion, just go play minecraft.  
+  
+Fluff.

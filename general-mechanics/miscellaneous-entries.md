@@ -99,6 +99,14 @@ description: For entries that have little practical use.
 
 * The Bokuso Box can proc weapon passives and talents that proc on-damage.
 
+## Login Screen Time Change
+
+* The game sets the following Login Screens for different time period:
+  * Dawn - 04:30 to 07:29
+  * Day - 07:30 to 16:29
+  * Dusk - 16:30 to 18:29
+  * Night - 18:30 to 04:29
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/miscellaneous-entries.md" %}
