@@ -264,6 +264,21 @@ Build Guide in Teapot, more info in description: [YouTube](https://youtu.be/ewTm
 **Significance:**  
 Looks kinda cool.
 
+### Dying Animation Pause
+
+**By:** ElliMiku\#5071  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/dying-animation-pause-shenenigans)
+
+**Finding:**  
+Going into the time adjustment menu pauses the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... *interesting* footage, including bodies flopping over, half-disappeared bodies flopping over, bodies flopping over in comedic ways while I lose my last braincell. Standing on a slope while dying of sheer cold doesn't work, drowning neither. Interestingly enough, gravity does stop when you are in the time adjustment menu while falling.  
+  
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=zaJMWDta4Lo)  
+  
+**Significance:**  
+Better understanding of how the bodies are modelled, fluff,... and suffering.
+
 ### Leg Break Bridge 2
 
 **By:** NZPIEFACE\#8439  

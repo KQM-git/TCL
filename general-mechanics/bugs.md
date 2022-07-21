@@ -36,6 +36,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
   * It is possible to fix it by relogging or drowning to force reload.  
 * [Fishing spot prompt can stay with the character](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) under specific circumstances, and it be extended beyond its normal area by repeatedly entering and exiting the menu.
 * By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a [horizontal position](../evidence/general-mechanics/bugs.md#horizon-tech-sequel) (as long as they are in an animation or partially clipped into a surface).
+* Going into the Time option in the Paimon Menu will pause the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... *interesting* [scenarios](../evidence/general-mechanics/bugs.md#dying-animation-pause).
 
 ## Weapons
 
