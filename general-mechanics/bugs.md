@@ -38,6 +38,7 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a [horizontal position](../evidence/general-mechanics/bugs.md#horizon-tech-sequel) (as long as they are in an animation or partially clipped into a surface).
 * Going into the Time option in the Paimon Menu will pause the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... *interesting* [scenarios](../evidence/general-mechanics/bugs.md#dying-animation-pause).
 * If you swap quick enough, the character you swap to can ["steal" the other character's Elemental Burst animation](../evidence/general-mechanics/bugs.md#characters-steal-burst-from-each-others). 
+* You can attack with a Fishing Rod if you exit Fishing while the ping is fluctuating. This is just a [visual bug](../evidence/general-mechanics/bugs.md#fishing-is-kinda-boring).
 
 ## Weapons
 

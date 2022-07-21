@@ -575,3 +575,18 @@ This works for characters that "summons" objects such as childe, raiden, hutao, 
   
 **Significance:**  
 You can make anyone the Geo Archon now.
+
+### Fishing Is Kinda Boring
+
+**By:** Aevean Leeow\#1362  
+**Added:** 2022-07-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fishing-is-kinda-boring)
+
+**Finding:**  
+You can attack with fishing rod if you exit fishing while ping is turbo or you are DCed  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/YkJilx7)  
+  
+**Significance:**  
+They should make fishing more engaging imo
