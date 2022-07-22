@@ -366,7 +366,7 @@
 | Attribute | Description |
 | :--- | :--- |
 | Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
-| Base ATK | 41 - 454 |
+| Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
 {% endtab %}
 
