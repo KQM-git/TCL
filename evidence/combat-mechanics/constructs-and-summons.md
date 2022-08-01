@@ -34,7 +34,7 @@ Video links and Geo MC/Zhongli/Albedo invisible number math fully compiled into 
 
 **By:** mando.\#1646  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967813434605437018/transcript-geo-constructs-cant-handle-long-distance-relationship.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967813434605437018_transcript-geo-constructs-cant-handle-long-distance-relationship.html)  
 
 **Findings:**  
 * Geo Constructs don't persist after teleporting to a certain distance.

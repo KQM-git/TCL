@@ -82,7 +82,7 @@ I believe that the large gap in damage is sufficient evidence to claim that the 
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
 **Added:** 2021-04-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/830897860743921664/835374730487398460/transcript-gale-blade-fall-dmg-inconsistency.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_830897860743921664_835374730487398460_transcript-gale-blade-fall-dmg-inconsistency.html)
 
 **Findings:**  
 Jean's Held Gale Blade produces inconsistent fall damage numbers when compared to Tap Gale Blade. Fall Damage on enemies is inconsistent while fall damage on objects is not.
@@ -109,7 +109,7 @@ Further proves that fall damage is based on velocity, not height \(however great
 
 **By:** ColaSenami\#5312    
 **Added:** 2021-06-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_850586648760549377_856383288956813342_transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
 The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
@@ -146,7 +146,7 @@ Very consistent aura application. Can be used for Cryo or Hydro main carries or 
 
 **By:** ProfHugo\#6478  
 **Added:** 2021-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853336250898579476/854032596726972456/transcript-anemo-aura.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853336250898579476_854032596726972456_transcript-anemo-aura.html)
 
 **Finding:**  
 Anemo can be the aura for swirl during Bennett-Jean Sunfire under very specific circumstances
@@ -167,7 +167,7 @@ Lastly, it debunks the common belief that anemo cannot be the aura for a swirl r
 
 **By:** Maes\#6425  
 **Added:** 2022-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926758212236087337/929999851922538526/transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926758212236087337_929999851922538526_transcript-jean-burst-border-dmg-on-initial-cast-and-duration-end.html)
 
 **Finding:**  
 Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial burst cast can cause 2 swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
@@ -224,7 +224,7 @@ The reach of Dandelion Breeze's damage component has a vertical limit but the ef
 
 **By:** Vye\#9195  
 **Added:** 2022-01-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933279462974427176/936416305064595496/transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933279462974427176_936416305064595496_transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)  
 
 **Finding:**  
 "Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura).  
@@ -245,7 +245,7 @@ The number of targets does not matter because only the initial hit and the endin
 
 **By:** MeiMay\#3039  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958491081933221908/transcript-sunfire-jean-ol-triggering-fs.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958491081933221908_transcript-sunfire-jean-ol-triggering-fs.html)  
 
 **Finding:**  
 Sunfire Jean triggering off-field Overloads during her Burst can trigger the Freedom-Sworn \(FS\) Passive. This is primarily relevant in Raiden Hyper teams.  

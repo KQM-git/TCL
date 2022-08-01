@@ -10,7 +10,7 @@ search: false
 
 **By:** vibe checker\#5502  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843094700441206844/849939262229315644/transcript-char-and-weapon-banner-pities.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843094700441206844_849939262229315644_transcript-char-and-weapon-banner-pities.html)
 
 **Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
 
@@ -69,7 +69,7 @@ Note that this is for WL7 drop rates, and only includes permanent sources of mat
 
 **By:** Tim\#5259, Mcpie\#8672  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884585841270329415/908323794622492742/transcript-weapon-banner-gacha-rates-with-epitomized-path.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884585841270329415_908323794622492742_transcript-weapon-banner-gacha-rates-with-epitomized-path.html)
 
 **Finding:**  
 Weapon banner gacha rates with Epitomized Path.
@@ -94,7 +94,7 @@ r5, no epi path, pity: 12.25
 
 **By:** hanpw\#5824  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906138978208604210/919065570257813514/transcript-weapon-as-fodder-wish-count.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906138978208604210_919065570257813514_transcript-weapon-as-fodder-wish-count.html)  
 
 **Finding:**  
 How many wishes on the weapon banner does it take to fully level a 5 star weapon to Level 90?  
@@ -113,7 +113,7 @@ Average number of wishes needed on weapon banner to level a 5 star weapon to 90 
 
 **By:** Tibo\#4809  
 **Added:** 2022-02-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935286904679710741/944727977445445632/transcript-gacha-rate-calculator.html)   
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_935286904679710741_944727977445445632_transcript-gacha-rate-calculator.html)   
 
 **Finding 1:** 
 Statistical model for Genshin Impact's droprates.    

@@ -27,7 +27,7 @@ search: false
 
 **By:** Sorry#6046  
 **Added:** 2021-08-18  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876140744275005540/877470462693756928/transcript-geo-mc-boulder-can-be-manually-exploded.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876140744275005540_877470462693756928_transcript-geo-mc-boulder-can-be-manually-exploded.html)
 
 **Finding:**  
 Geo MC Starfell Swords can be manually detonated by over-capping on the maximum amount of Geo construct.
@@ -45,7 +45,7 @@ Geo supremacy.
 
 **By:** Terrapin\#8603  
 **Added:** 2021-05-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839244723133612072/840066389728821268/transcript-wake-of-earth-blocks-geovishap-jump.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839244723133612072_840066389728821268_transcript-wake-of-earth-blocks-geovishap-jump.html)
 
 **Finding:**  
 The Geo Traveler's Elemental Burst walls block a Geovishap from being able to jump over it.
@@ -64,7 +64,7 @@ Enemy movement manipulation when using Geo Traveler in a team comp.
 
 **By:** Blank#4561  
 **Added:** 2021-09-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864157638828490762_864440105296592906_transcript-traveler-ascension-skills.html)
 
 **Finding:**  
 Anemo Traveler A4 counts as Normal Attack Damage.
@@ -81,7 +81,7 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)  
 
 **Theory:**  
 The elemental proc (Frenzied Rockslide) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his n5 attack string occurs.  
@@ -108,7 +108,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 
 **By:** Vherax\#5321  
 **Added:** 2021-06-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845028522325573702/856407372993527828/transcript-geo-mc-c1-does-not-apply-to-burst.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845028522325573702_856407372993527828_transcript-geo-mc-c1-does-not-apply-to-burst.html)
 
 **Finding:**
 Geo MC C1 10% Crit rate buff becomes active after stone wall is created and does not affect the burst itself upon activation
@@ -128,7 +128,7 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955987323579957338/transcript-gmc-wake-of-earth-interactions.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955987323579957338_transcript-gmc-wake-of-earth-interactions.html)  
 
 **Theory:**  
 The visuals \(as in the geo spikes, will henceforth be called stone walls as per game nomenclature\) do not actually match the hitbox of the stone walls. The hitbox can exist without the visuals, and it behaves in a way that does not match the visuals.  
@@ -289,7 +289,7 @@ Rockstep and other combos that bring a character on top of the meteorite does no
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
 Geo traveler’s C2 damage instance is considered skill damage.
@@ -317,7 +317,7 @@ Damage calculations for Geo Traveler
 
 **By:** amaryillis#4774  
 **Added:** 2021-09-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881703224262938685_884467343575633980_transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
 Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
@@ -331,7 +331,7 @@ Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956012252463517756/transcript-rockstep-tech.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956012252463517756_transcript-rockstep-tech.html)  
 
 **Finding:**  
 It is possible for Geo Traveler to jump directly from the ground to the top of the meteorite created by Starfell Sword \(E\), giving characters vertical advantage and allowing certain actions such as plunge attacks. This mechanic can also be used by other characters in the party.  
@@ -366,7 +366,7 @@ This is a GMC\-specific tech that can be used by other characters. There's poten
 
 **By:** Liunel\#2555  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/820951727720497162/850178239632900111/transcript-aether-weapons-and-builds.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_820951727720497162_850178239632900111_transcript-aether-weapons-and-builds.html)
 
 Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.
 

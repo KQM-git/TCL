@@ -14,7 +14,7 @@ search: false
 
 **By:** Neptunya\#8291, phaZ\#6461, and Bobrokrot\#0111  
 **Added:** 2021-11-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883277582366277652/906334012480561162/transcript-amc-e-additional-elemental-dmg.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883277582366277652_906334012480561162_transcript-amc-e-additional-elemental-dmg.html)  
 
 **Finding:**  
 Anemo MC's skill is missing talent values for the additional elemental damage that happens when elemental absorption occurs.  
@@ -29,7 +29,7 @@ There will always be those who dare to brave Anemo MC's blender of numbers.
 ### AMC Hold E Ticks
 **By:** pai#3602  
 **Added:** 2022-01-27   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713629835481118/936064084728762378/transcript-amc-hold-e-ticks.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713629835481118_936064084728762378_transcript-amc-hold-e-ticks.html)
 
 **Finding:**  
 The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while the Skill itself can tick up to 7 times.
@@ -43,7 +43,7 @@ The Additional Elemental DMG seems to randomly start with the second Initial Cut
 ### AMC Snapshot 
 **By:** pai#3602  
 **Added:** 2022-01-27   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934098477913374820/936199910582272070/transcript-amc-snapshot-evidence.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934098477913374820_936199910582272070_transcript-amc-snapshot-evidence.html)
 
 **Finding:**  
 AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Elemental DMG.
@@ -60,7 +60,7 @@ Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 ### AMC E Frames Update  
 **By:** pai#3602  
 **Added:** 2022-02-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932722588076081232/938503721296482354/transcript-amc-e-frames-update.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932722588076081232_938503721296482354_transcript-amc-e-frames-update.html)  
 
 **Finding:** AMC E frame counts were previously incorrect.  
 Currently in the TCL:  
@@ -81,7 +81,7 @@ Hold: 60~145
 
 **By:** Hoshbomb\#6327  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955984471470010428/transcript-frozen-amc-with-e-active.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955984471470010428_transcript-frozen-amc-with-e-active.html)  
 
 **Finding:**  
 When AMC is frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:  
@@ -106,7 +106,7 @@ Fluff.
 
 **Added:** 2021-12-13
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912926771412869150/919900426554454083/transcript-anemo-traveler-q-2b.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912926771412869150_919900426554454083_transcript-anemo-traveler-q-2b.html)
 
 **Finding:** Anemo MC's Burst is 1U Anemo, but the absorption is 2B.
 
@@ -138,7 +138,7 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 ### AMC Burst AOE
 **By:** pai#3602  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932713520880037960/936073712623583232/transcript-amc-burst-aoe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713520880037960_936073712623583232_transcript-amc-burst-aoe.html)
 
 **Finding:**  
 The Additional Elemental DMG has less AoE than the Tornado DMG. 
@@ -157,7 +157,7 @@ The Additional Elemental DMG basically only happens when the Tornado goes right 
 
 **By:** amaryillis#4774  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881703224262938685/884467343575633980/transcript-anemo-traveler-mistsplitter-stacks.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881703224262938685_884467343575633980_transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
 Anemo Traveler can trigger Mistsplitter NA Stack with Slitting Wind.
@@ -172,7 +172,7 @@ AMC can reliably trigger 2 stacks of Mistsplitter Reforged, thereby making them 
 
 **By:** Blank#4561  
 **Added:** 2021-07-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864157638828490762/864440105296592906/transcript-traveler-ascension-skills.html) (NOTE: This ticket was submitted pre-2.1, before Geo Traveler's A4 was fixed)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864157638828490762_864440105296592906_transcript-traveler-ascension-skills.html) (NOTE: This ticket was submitted pre-2.1, before Geo Traveler's A4 was fixed)
 
 **Finding:**  
 Anemo Traveler A1 counts as Normal Attack Damage.
@@ -187,7 +187,7 @@ Although a minor damage source, Anemo Traveler's A1 Passive damage is increased 
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955996204477612072/transcript-mc-elemental-proc-diff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)  
 
 **Theory:**  
 The elemental proc \(Slitting Wind\) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his N5 attack string occurs.  

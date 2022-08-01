@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300042495983667/885319887386460230/transcript-sara-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881300042495983667_885319887386460230_transcript-sara-basic-mechanics.html)
 
 ## Attack Attributes
 
@@ -55,7 +55,7 @@ search: false
 
 **By:** NZPIEFACE#8439 and Dooners#6709  
 **Added:** 2021-10-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897677391546163210/903468029562732565/transcript-sara-e.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897677391546163210_903468029562732565_transcript-sara-e.html)  
 
 **Finding:**  
 After the v2.2 update, Sara's Elemental Skill is much more consistent and predictable in its behaviour now:  
@@ -107,7 +107,7 @@ We can actually predict what pressing E will do now.
 
 **By:** George#0766  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884708643151446026/891204580174610442/transcript-sara-feather-interaction-with-on-damage-effects.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884708643151446026_891204580174610442_transcript-sara-feather-interaction-with-on-damage-effects.html)
 
 **Finding:**  
 Sara's ambush is the first 0 damage hit in the game for the purpose of triggering its buff on the player character (also AFAIK the first instance of friendly fire). This is exposing the difference between what skills care about being hit versus what skills care about taking damage. One (hard financially cause needs Jean c6) avenue to test this is to try out the 100% damage reduction team
@@ -146,7 +146,7 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 
 **By:** Steno\#0119  
 **Added:** 2022-05-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974455619203526656/transcript-sara-burst-mechanics-update.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974455619203526656_transcript-sara-burst-mechanics-update.html)  
 
 **Finding:**  
 Unlike what was previously documented in the TCL, Sara's Burst can only give her buff to characters that have been hit by the Titanbreaker or Stormclusters. However, multiple characters can be buffed this way. 
@@ -199,7 +199,7 @@ Specific mechanics of Sara C6 that can be useful for her personal damage.
 
 **By:** Laurent#2608  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894240156104659045/899148824566722580/transcript-sara-a4-passive-energy-gen.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894240156104659045_899148824566722580_transcript-sara-a4-passive-energy-gen.html)  
 
 **Finding:**  
 Decorum restores 0.012 flat Energy per 1% of Energy Recharge.
@@ -285,7 +285,7 @@ It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotati
 ### Exact Crowfeather Buff Timing  
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893285828858630164/899026156769124392/transcript-sara-e-buff-targetting.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893285828858630164_899026156769124392_transcript-sara-e-buff-targetting.html)
 
 **Finding:**  
 Tengu Stormcall only buffs the on-field characters the frame before the Crowfeather Explosion.
@@ -299,7 +299,7 @@ Exact timing of the Crowfeather buff.
 
 **By:** WellWell#2868 and Nass008#8577  
 **Added:** 2021-11-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903958677164294204/904776894841507850/transcript-emc-er-buff-interaction-with-saras-a4.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903958677164294204_904776894841507850_transcript-emc-er-buff-interaction-with-saras-a4.html)  
 
 **Finding:**  
 Pre-A4 EMC’s E’s skill ER buff does not affect Sara’s A4 passive.  

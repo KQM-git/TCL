@@ -9,7 +9,7 @@ search: false
 {% page-ref page="../../../characters/pyro/thoma.md" %}
 
 ## Basic Thoma Mechanics
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897812961303863386/917960336223666197/transcript-thoma-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897812961303863386_917960336223666197_transcript-thoma-basic-mechanics.html)
 
 * Gauges - by Nass008\#8577 
   * E: 1U - [https://imgur.com/etqEtrf](https://imgur.com/etqEtrf)
@@ -38,7 +38,7 @@ search: false
 ### Thoma Shield Mechanics
 **By:** Latiwings#3308  
 **Added:** 2021-12-30  
-[Dicussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922638877028671508/925694499739545660/transcript-thoma-shield-mechanics.html) 
+[Dicussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922638877028671508_925694499739545660_transcript-thoma-shield-mechanics.html) 
 
 **Finding #1:**  
 Thoma's Shield Strength gain from his A1 doesn't persist on swap.

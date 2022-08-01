@@ -209,7 +209,7 @@ Very poggers. Free Burst!
 
 **By:** r.rei\#2844  
 **Added:** 2021-11-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/907135831649685504/907902798795014194/transcript-keqing-crit-buff-duration.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-crit-buff-duration.html)  
 
 **Finding:**  
 Keqing's Crit Rate and ER buff duration from A4 includes burst animation time.  
@@ -248,7 +248,7 @@ In perfect conditions, C1 essentially adds 100% damage to her E2, which can be b
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
 Keqing’s C1 damage instance has no ability type scaling tags. 
@@ -282,7 +282,7 @@ This means that it is possible for Keqing to hit up to 3 times before hitting E2
 
 **By:** Sayline#5959  
 **Added:** 2021-10-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880450784465129492/902064461525975080/transcript-c2-keqing-proc-consistency.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880450784465129492_902064461525975080_transcript-c2-keqing-proc-consistency.html)  
 
 **Finding:**  
 Keqing's C2 procs inconsistently.  
@@ -304,7 +304,7 @@ Calculating Keqing energy needs with C2 in mind is hard to do with its inconsist
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836981654962569267/838582070044655616/transcript-keqing-pale-flame-set-bonus.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836981654962569267_838582070044655616_transcript-keqing-pale-flame-set-bonus.html)
 
 **Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.
 

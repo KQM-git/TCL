@@ -14,7 +14,7 @@ search: false
 
 **By:** Sayline#5959  
 **Added:**: 2021-09-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882407170161922088/885681198775550042/transcript-lisa-aa-like-mona-aa.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882407170161922088_885681198775550042_transcript-lisa-aa-like-mona-aa.html)  
 
 **Findings:**  
 Just like Mona, Lisa can have two different normal animations depending on the distance from the target.
@@ -112,7 +112,7 @@ Lisa can easily abuse this tech to quickly and efficiently stack Conductive. Thi
 
 **By:** ArchedNosi\#1484  
 **Added:** 2022-06-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/987339246136340570/transcript-lisa-conductive-information.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_987339246136340570_transcript-lisa-conductive-information.html)
 
 **Findings:**  
 Any application of a Conductive Stack lasts for 15s until dissipation. This similarly applies to simultaneous sources of Stacks, like multi-stacking via an accompanying reaction (Overload or Superconduct) or in mass groups, as well as her C6 applying 3 Stacks at once.  
@@ -162,7 +162,7 @@ Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 
 ### Lightning Rose Vertical Range
 **By:** ArchedNosi\#1484  
 **Added:** 2022-01-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926631413606912070/927179857354428446/transcript-lisa-lightning-rose-vertical-range.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926631413606912070_927179857354428446_transcript-lisa-lightning-rose-vertical-range.html)
 
 **Finding:** Lisa's Lightning Rose being a Cylindrical Tubular Hitbox  
 The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/attributes:  
@@ -181,7 +181,7 @@ The hitbox of Lisa's Lightning Rose is a cylinder with the following dimensions/
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-11-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461616621641728/907097696148520990/transcript-lisa-stagger-knockback-mechanics-lightning-rose.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906461616621641728_907097696148520990_transcript-lisa-stagger-knockback-mechanics-lightning-rose.html)
 
 **Findings:**  
 Unlike as Lightning Rose's description implies, Lightning Rose does not always induce a knockback. Discharges sent from the Arcs of Lightning Rose only induce knockback if the opponent is caused to be come airborne or staggered while airborne. Otherwise, Discharge connections on grounded or stable opponents act as stagger effects.
@@ -211,7 +211,7 @@ Acts as clarification on the Knockback/Stagger Mechanics on Lightning Rose as we
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-11-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462490110607400/907389926981644348/transcript-lisa-summon-lightning-rose-no-aura.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906462490110607400_907389926981644348_transcript-lisa-summon-lightning-rose-no-aura.html)
 
 **Finding:**  
 In practice, the initial Summon Damage from Lisa's Lightning Rose does not apply an Electro Aura, despite dealing Electro Damage.
@@ -231,7 +231,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 ### Lightning Rose Summon DMG Range
 **By:** ArchedNosi#1484  
 **Added:** 2022-01-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632362715017237/931066545940070470/transcript-lisa-lightning-rose-summon-dmg-range.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926632362715017237_931066545940070470_transcript-lisa-lightning-rose-summon-dmg-range.html)
 
 **Finding:** Lisa's Initial Summon DMG Range/Area.  
 * The initial Summon DMG dealt by Lisa's Lightning Rose is dealt once within a specific area.
@@ -257,7 +257,7 @@ For Lisa specifically, knowing this is more useful than not as she would be able
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-11-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461792132284426/907623932083970088/transcript-lisa-lightning-rose-targeting-and-total-count.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906461792132284426_907623932083970088_transcript-lisa-lightning-rose-targeting-and-total-count.html)
 
 **Findings:**
 
@@ -281,7 +281,7 @@ Also acts as a better understanding of how Lightning Rose functions, which is mo
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-11-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906462271125995530/907915774545526834/transcript-lisa-aoe-properties-lightning-rose.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906462271125995530_907915774545526834_transcript-lisa-aoe-properties-lightning-rose.html)  
 
 **Finding:**  
 Lisa's Lightning Rose connections have an impact AoE.  
@@ -314,7 +314,7 @@ Proves that Lisa's Lightning Rose can have AoE properties as well as very limite
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926632036872102009/930022973472112670/transcript-lisa-lightning-rose-summon-dmg-numerical.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926632036872102009_930022973472112670_transcript-lisa-lightning-rose-summon-dmg-numerical.html)
 
 **Findings:**  
 As previously known, Lisa's Lightning Rose also deals an additional source of damage (Summon/Casting DMG) that is not stated within the in-game's talent description. As such, this attack's Talent%s are unknown as well, but can be reverse-calculated to a fairly accurate margin of error.
@@ -378,7 +378,7 @@ In knowing how C1 actually works, Lisa, when she is on-field, can effectively ru
 
 **By:** ArchedNosi\#1484  
 **Added:** 2021-11-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906461937536217088/907909745048944700/transcript-lisa-c4-actual-effects-miscommunicated.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906461937536217088_907909745048944700_transcript-lisa-c4-actual-effects-miscommunicated.html)  
 
 **Finding:**  
 The current description for Lisa's fourth constellation is currently falsely misleading, it states that it:  
@@ -417,7 +417,7 @@ Clears up what the actual effects are of Lisa's C4 and the frequencies of each o
 
 **By:** ArchedNosi\#1484  
 **Added:** 2022-06-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/988442992786407464/transcript-lisa-c6-details.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_988442992786407464_transcript-lisa-c6-details.html)  
 
 **Finding:**  
 As the description implies, when Lisa swaps to become on-field, a radius will spawn around her applying 3 simulataneous Conductive Stacks onto nearby opponents, thus also resetting any concurrent Conductive durations to 15s.  

@@ -59,7 +59,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **By:** Bobrokrot\#0111  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/821732346290110474/836418290745999410/transcript-4no-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_821732346290110474_836418290745999410_transcript-4no-bug.html)
 
 **Bug:**  
 4NO bonus sometimes does not apply to the Beidou's burst that activated the bonus and never applies to Ganyu's burst.
@@ -87,7 +87,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 **By:** Puffin\#9920   
 **Added:** 2022-02-26   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/947163566954393671/transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)  
 
 **Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
 
@@ -103,7 +103,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 **By:** Magnus Artifex\#8719  
 **Added:** 2022-05-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975064228476125224/transcript-keeping-domain-doors-open.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_975064228476125224_transcript-keeping-domain-doors-open.html)
 
 **Bug:**  
 A domain’s door can be kept opened after exiting the domain.
@@ -145,7 +145,7 @@ Less effort required to farm domains, also chaos
 
 **By:** Beast Boy\#2560  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)  
 
 **Bug:**  
 The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.  
@@ -176,7 +176,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Iron IV#3832  
 **Added:** 2021-06-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
 **Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
 
@@ -188,7 +188,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Aluminum#5462  
 **Added:** 2021-06-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845422859467489390_856750287548710912_transcript-4tf-environmental-damage.html)
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
 
@@ -200,7 +200,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Nass008\#8577  
 **Added:** 2021-12-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921775232707100692/923676486106509382/transcript-cooking-pot-super-jump.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921775232707100692_923676486106509382_transcript-cooking-pot-super-jump.html)  
 
 **Finding:**  
 You can yeet yourself high by cooking mid air.  
@@ -229,7 +229,7 @@ Can be used to reach places normally inaccessible, especially by utilizing Benne
 ### Leg Break Bridge
 **By:** Lilith of the night#5024  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930076186787336243/934021559629254676/transcript-leg-break-bridge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930076186787336243_934021559629254676_transcript-leg-break-bridge.html)
 
 **Finding:**   
 You take damage when you plunge on this spot at Dainichi island bridge, this happens with any type of weapon.  
@@ -305,7 +305,7 @@ Another strange place other than Leg Break Bridge where you can kill yourself wi
 
 **By:** Ayzel\#7399  
 **Added:** 2021-06-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838967062184984636/854582115995877397/transcript-high-ping-multiple-orbital-application.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838967062184984636_854582115995877397_transcript-high-ping-multiple-orbital-application.html)  
 
 **Finding:**  
 Xingqiu's orbital rain swords can apply hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply hydro.
@@ -321,7 +321,7 @@ Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xing
 
 **By:** Soup420\#1634  
 **Added:** 2021-04-19  
-_\*\*_[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/826181971545292880/834198195352764446/transcript-lag-and-snapshot-interactions.html)
+_\*\*_[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_826181971545292880_834198195352764446_transcript-lag-and-snapshot-interactions.html)
 
 **Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
 
@@ -338,7 +338,7 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 
 **By:** Originally discovered by zajef77#2838 and many KQM members contributed  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847367901518626846/857350049892925480/transcript-spaghetti-impact-horizon-tech.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847367901518626846_857350049892925480_transcript-spaghetti-impact-horizon-tech.html)
 
 **Bug:**  
 Clipping a Fruit Stand into landmasses allows your character to climb and stand horizontally, resulting in some pretty tasty spaghetti.
@@ -444,7 +444,7 @@ The Archer class really is made up of archers!
 
 **By:** George#0766  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890023724240216064/891163055684223016/transcript-artifact-inventory-size.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890023724240216064_891163055684223016_transcript-artifact-inventory-size.html)
 
 **Finding:**  
 If your artifact inventory is near full (993/1000 in this case) you get an "No space left in inventory" when trying to 10-pull
@@ -459,7 +459,7 @@ This check already exists if you try to collect artifacts with a near full inven
 
 **By:** BowTae#0141  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893769893525200908/899132398682402936/transcript-drain-stamina-while-standing.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893769893525200908_899132398682402936_transcript-drain-stamina-while-standing.html)
 
 **Finding:**  
 Characters can enter sprint by pressing dash while standing and then pressing and holding a direction during the dash animation. If a direction is pressed and held on the frame when the character begins to stand up, they will stop moving, but continue to drain stamina as long as a direction is held.
@@ -482,7 +482,7 @@ Fluff, annoying bug when you do it by accident.
 
 **By:** soup420\#1634  
 **Added:** 2021-04-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/829479729299193877/835390049503543336/transcript-venti-burst-absorption-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
 Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
@@ -501,7 +501,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **By:** Santoryu\#4495  
 **Added:** 2021-05-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/841955537322246174/845828367931670579/transcript-venti-e-hold-visual-error.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_841955537322246174_845828367931670579_transcript-venti-e-hold-visual-error.html)
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
 
@@ -519,7 +519,7 @@ This may be considered a bug due to the visual indication being tilted, but the 
 
 **By:** Childe C6 is overrated-Toro\#1035  
 **Added:** 2021-05-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842575899408203846/846689845517877268/transcript-mona-e-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
 **Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and particle generation also happens during cast
 
@@ -533,7 +533,7 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 
 **By:** Sincronic\#3171  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958520792939900958/transcript-infinitorch.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958520792939900958_transcript-infinitorch.html)  
 
 **Bug:**  
 Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.  
@@ -548,7 +548,7 @@ Understanding of overworld mechanics.
 
 **By:** Sincronic\#3171  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962022405419704400/transcript-lightning-struck-tree-breaks-when-swapping-characters.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962022405419704400_transcript-lightning-struck-tree-breaks-when-swapping-characters.html)  
 
 **Bug:**  
 Lightning Struck Trees have a high chance of breaking if you swap characters near them as it keeps applying Electro on you. It is possible to fix it by relogging or drowning to force reload.  

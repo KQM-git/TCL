@@ -12,7 +12,7 @@ search: false
 
 **By:** Mcpie#8672  
 **Added:** 2021-07-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/859763876592877578/862607271769669652/transcript-parametric-transformer-speedrun.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_859763876592877578_862607271769669652_transcript-parametric-transformer-speedrun.html)
 
 **Finding:**  
 Parametric Transformer has an internal cooldown of 0.4 seconds and it takes exactly 18 elemental hits to fill it from 0% to 100%.  

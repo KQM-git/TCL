@@ -22,7 +22,7 @@ search: false
 
 **By:** Nass008\#8577  
 **Added:** 2021-10-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903997513890136085/904063136171167795/transcript-xinyan-c6-affects-skill-and-burst.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-burst.html)  
 
 **Finding:**  
 Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental skill and burst are dynamic, C6 buff can increase their damage.  
@@ -38,7 +38,7 @@ In-game description is pepega and on-field C6 Xinyan will do a tiny bit more dam
 
 **By:** EternalDream\#5503, elijam\#7142, Zouuyu\#3117
 **Added:** 2021-10-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895344911824605274/904424443059789875/transcript-xinyan-c2-shield-formation-pulses.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895344911824605274_904424443059789875_transcript-xinyan-c2-shield-formation-pulses.html)
 
 **Finding:** Xinyan's C2 will cause her new shield to pulse a varying amount of times extra, depending on the player's device and settings (most notably their FPS), before continuing with the usual 6 pulses of a normal level 3 shield. This occurs regardless of already having a shield active prior to using her Burst. 
 

@@ -68,7 +68,7 @@ This makes Beidou's particle production way easier to count.
 ### Beidou Counter Startup
 **By:** Aftermath#7658  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930577686575853578/936209001497116762/transcript-beidou-counter-startup.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930577686575853578_936209001497116762_transcript-beidou-counter-startup.html)
 
 **Finding:**  
 Beidou's counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay.
@@ -89,7 +89,7 @@ The parry timing is a little easier than previously thought.
 ### Beidou Lightning Proc ICD
 **By:** Steno\#0119  
 **Added:** 2022-01-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/924074085271633920/931135564336496710/transcript-beidou-proc-cd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_924074085271633920_931135564336496710_transcript-beidou-proc-cd.html)
 
 **Finding:**  
 Beidou's Q discharge cooldown is stated to be 1s or 60 frames. The counter for these 60 frames does not start on when Beidou's lightning discharge hits, but when the normal attack hits.  
@@ -121,7 +121,7 @@ Ping variance can cause some inconsistencies with Beidou.
 
 **By:** Sayline\#5959  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898905169763393556/899126939850276904/transcript-beidou-burst-and-mitachurl-shields.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898905169763393556_899126939850276904_transcript-beidou-burst-and-mitachurl-shields.html)  
 
 **Finding:**  
 Lightning discharge during Beidou's Q can be procced on mitachurl shields, causing it to bounce between 2 or more enemies. However, this does not deal damage.  
@@ -138,7 +138,7 @@ Provides a clear understanding of Beidou's burst mechanics.
 
 **By:** EdisonsMathsClub\#6469  
 **Added:** 2021-09-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888775921845280788/890112499628777532/transcript-beidou-q-snapshot-timing.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888775921845280788_890112499628777532_transcript-beidou-q-snapshot-timing.html)
 
 **Finding:**  
 Beidou's Elemental Burst, Skill DMG and Lightning DMG, snapshot at different timings.
@@ -159,7 +159,7 @@ In the dire circumstance that you cast Beidou's Elemental Burst too fast to snap
 
 **By:** daibangden2460\#8410  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945105555322703903/transcript-beidou-burst-trigger-range-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945105555322703903_transcript-beidou-burst-trigger-range-limit.html)  
 
 **Finding:**  
 Lightning discharge from Beidou's burst can only be triggered within limited range, it starts from the character. It is not affected by travel time of the attack. The distance is counted when the attack hit enemy not when it is released. The owner of the attack has to be on field when the attack hit to trigger lightning discharge.  
@@ -176,7 +176,7 @@ Better understanding of Beidou burst.
 
 **By:** elijam\#7142  
 **Added:** 2022-03-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/957414035282870282/transcript-beidou-driver-proc-counts.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_957414035282870282_transcript-beidou-driver-proc-counts.html)  
 **Finding:**  
 A collection of Beidou driver proc counts with various combos and rotations.   
  
@@ -213,7 +213,7 @@ C4 is not anti-synergistic with all her charged attack bonuses, as one would ass
 
 **By:** Bobrokrot\#0111  
 **Added:** 2021-06-03  
-[**Discussion**](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849312911180693545/849896321023475742/transcript-beidou-c4-gauge.html)
+[**Discussion**](https://tickets.deeznuts.moe/ticket-archive/attachments_849312911180693545_849896321023475742_transcript-beidou-c4-gauge.html)
 
 **Finding:**  
 Beidou's C4 applies 1A of Electro.
@@ -225,7 +225,7 @@ Beidou's C4 applies 1A of Electro.
 
 **By:** elijam\#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
 Beidou’s C4 damage instance has no ability type scaling tags.
@@ -242,7 +242,7 @@ Damage calculations for Beidou.
 
 **By:** Bobrokrot\#0111  
 **Added:** 2021-09-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884807649869324348/885685498985738240/transcript-beidou-c4-is-on-hit-not-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884807649869324348_885685498985738240_transcript-beidou-c4-is-on-hit-not-damage.html)
 
 **Finding:**  
 Beidou's C4 is actually on hit, not damage. It does activate when you get hit but don't take damage (if you are shielded).
@@ -262,7 +262,7 @@ C4 pretty good
 
 **Added:** 2021-12-15
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917969727698141224/920672810911805490/transcript-beidou-c6-doesnt-apply-on-initial-cast.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917969727698141224_920672810911805490_transcript-beidou-c6-doesnt-apply-on-initial-cast.html)
 
 **Finding:** The initial cast of Beidou's Burst doesn't benefit from her C6.
 
@@ -278,7 +278,7 @@ C4 pretty good
 
 **Added:** 2021-12-13
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918004028200321025/919814190762455050/transcript-beidou-c6-range.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918004028200321025_919814190762455050_transcript-beidou-c6-range.html)
 
 **Findings:** Beidou's C6 range is extremely short, shredding the Electro RES of enemies within just over 1 abyss tile of range.
 
@@ -291,7 +291,7 @@ C4 pretty good
 
 **By:** mando.\#1646  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962135271934160966/transcript-bei-c6.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962135271934160966_transcript-bei-c6.html)  
 
 **Finding:**  
 The Electro RES Shred from Beidou C6 lingers for about 2 seconds.  
@@ -336,7 +336,7 @@ Good weapon. Works as well as you'd expect.
 
 **By:** Bobrokrot\#0111  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883625161058844702/884468275151511612/transcript-sara-beidou-c4-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883625161058844702_884468275151511612_transcript-sara-beidou-c4-interaction.html)
 
 **Finding:**  
 Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.

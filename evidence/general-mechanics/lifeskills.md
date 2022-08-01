@@ -10,7 +10,7 @@ search: false
 
 **By:** Asaki\#9139  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/847359141626118154/849897436956590110/transcript-statue-of-seven-inactive-member-healing.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847359141626118154_849897436956590110_transcript-statue-of-seven-inactive-member-healing.html)
 
 **Finding:** A Statue of Seven will heal \(and revive to full if dead\) without any restraint, provided that the character/party that you want to heal is not in the active \(on-field\) party.
 
@@ -38,7 +38,7 @@ Spend less time on gathering loot and more time killing things.
 
 **By:** Serenity#3372  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880089241252667452/884462363280035900/transcript-ayaka-na-infinite-ice-bridge.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880089241252667452_884462363280035900_transcript-ayaka-na-infinite-ice-bridge.html)  
 
 **Theory:**  
 Ayaka can infinitely sprint across large bodies of water using her dash and infused basic attacks to freeze the water for herself. Anemo Resonance is recommended, I'm pretty sure, for adequate stamina regeneration; Ayaka has time for about four basic attacks before you should dash again to avoid falling into the water.
@@ -53,7 +53,7 @@ Exploration.
 
 **By** ZyronX#0001  
 **Added:** 2021-09-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885894005987115060/886300876791218216/transcript-wait-for-mora-before-tp.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885894005987115060_886300876791218216_transcript-wait-for-mora-before-tp.html)  
 
 **Finding:**  
 If you teleport before the mora going into the character's body, you will not gain any mora.  
@@ -71,7 +71,7 @@ When you're speedrunning artifact route or elite route, you should wait for the 
 
 **By** wiremash#0433  
 **Added:** 2021-09-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884979127260680212/887102831771922482/transcript-bait-and-switch.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884979127260680212_887102831771922482_transcript-bait-and-switch.html)  
 
 **Finding:**  
 You can switch fishing baits in mid-air.
@@ -88,7 +88,7 @@ Unnecessarily advanced fishing technique for those trying to catch multiple spec
 
 **By** OCM#0619  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887968373005230100/899175829236482048/transcript-fishing-rod-comparison.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887968373005230100_899175829236482048_transcript-fishing-rod-comparison.html)  
 
 **Finding:**  
 **Moonstringer (Event Rod)**
@@ -143,7 +143,7 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 
 **By** Aevean Leeow\#1362 and Scavenger\#6510  
 **Added:** 2021-10-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883181763143286884/903518750903504926/transcript-fish-trolling.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883181763143286884_903518750903504926_transcript-fish-trolling.html)  
 
 **Finding:**  
 You can grief people trying to fish in co-op with multiple methods. You can either interrupt the fisher, or scare the fish away. 
@@ -176,7 +176,7 @@ I hate fishing, and if you hate fishing too, you should commit acts of terrorism
 
 **By:** Kenneth (Ellaevans)\#6329  
 **Added:** 2021-10-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889051986312458290/904212306135748659/transcript-fishing-replacement-confirmed.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889051986312458290_904212306135748659_transcript-fishing-replacement-confirmed.html)  
 
 **Findings:**  
 All fishes from both night/day cycles are replaced after 48-72 hours.  
@@ -210,7 +210,7 @@ Mostly fluff. Could be something worth nothing for future interactions.
 
 **By** Mcpie#8672  
 **Added:** 2021-09-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887034163725746226/888244472746487818/transcript-autowalk-with-dead-chars.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887034163725746226_888244472746487818_transcript-autowalk-with-dead-chars.html)  
 
 **Finding:**  
 It's possible to perform autowalk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.  
@@ -229,7 +229,7 @@ You can go to the toilet while traversing through Teyvat using your new autowalk
 
 **By** Ayzel#7399  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897673998811398194/899171326827331624/transcript-boat-stamina-and-food.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897673998811398194_899171326827331624_transcript-boat-stamina-and-food.html)  
 
 **Finding:**  
 Eating stamina restoration food doesn't work for the Waverider.
@@ -244,7 +244,7 @@ Don't waste food
 
 **By** Goden#2155  
 **Added:** 2021-10-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902597789102518323/903669906694864936/transcript-boat-buff-effects.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902597789102518323_903669906694864936_transcript-boat-buff-effects.html)
 
 **Finding:**  
 The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction. In comparison, buffs that affect enemies and not the Waverider itself, such as phys shred, DEF shred, and Mona's Omen do work.  

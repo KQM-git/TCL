@@ -10,7 +10,7 @@ search: false
 
 **By:** Veggie#0581  
 **Added:** 2021-10-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897945121545392128/903397449685671966/transcript-trial-character-resonances.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897945121545392128_903397449685671966_transcript-trial-character-resonances.html)  
 
 **Finding:**  
 The Trial Character from a party does not get the bonuses from Elemental Resonances, nor do they contribute to Elemental Resonances.  
@@ -35,7 +35,7 @@ When testing and verifying damage calculations with Trial Characters, this inter
 
 **By:** vinsette#0293  
 **Added:** 2021-11-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904061168828702751/904585059061862430/transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904061168828702751_904585059061862430_transcript-swirl-chain-reactions-can-trigger-electro-resonance.html)  
 
 **Finding:**  
 Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Swirl chain reactions can trigger the effect of Electro Resonance. 
@@ -51,7 +51,7 @@ Electro Resonance is easier to trigger and more consistent with an Anemo driver 
 ## Cryo Resonance Applies Crit Rate For Cryo Before Reactions
 **By:** NZPIEFACE#8439  
 **Added:** 2022-01-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929770373271158816/931416249232146452/transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929770373271158816_931416249232146452_transcript-cryo-resonance-applies-crate-for-cryo-before-reactions.html)
 
 **Finding:** Cryo resonance determines if an enemy has Cryo for its crit rate buff before reactions remove auras.
 

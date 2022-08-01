@@ -10,7 +10,7 @@ search: false
 
 **By:** Trosalio\#0420  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/848458542024622090/849942582167470090/transcript-shield-and-iframe-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848458542024622090_849942582167470090_transcript-shield-and-iframe-interactions.html)
 
 **Finding:** Gaining I-frames by dashing through enemy attacks will allow both your unit and their shield to take no damage, but using an Elemental Burst to gain I-frames will only make your unit took no damage, while their shield will still take damage.
 

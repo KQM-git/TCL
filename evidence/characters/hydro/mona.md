@@ -31,7 +31,7 @@ Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. 
 
 **By:** Ravantier#4984  
 **Added:** 2021-08-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876768975940370472/878186098935861258/transcript-mona-3rd-aa-has-two-different-animations.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876768975940370472_878186098935861258_transcript-mona-3rd-aa-has-two-different-animations.html)
 
 **Finding:**  
 Mona's 3rd AA has Two Different Animations
@@ -80,7 +80,7 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 
 **By:** Mcpie#8672  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890797348635156531/891163963356758086/transcript-mona-hold-e-iframe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890797348635156531_891163963356758086_transcript-mona-hold-e-iframe.html)
 
 **Finding:**  
 Mona hold E has iframes.
@@ -146,7 +146,7 @@ In the second screenshot below, If I were add back the Omen damage bonus to the 
 
 **By:** Aetherpon\#5730  
 **Added:** 2021-06-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840973333771059241/851387589285511198/transcript-omen-extension-on-certain-enemies-in-certain-states.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840973333771059241_851387589285511198_transcript-omen-extension-on-certain-enemies-in-certain-states.html)
 
 **Finding:**  
 Illusory Bubble can be extended to its maximum duration in specific scenarios with certain enemies without using Freeze. The enemies that work are Shielded Lawachurl, leaping Geovishap, Shielded Pyrogunner, and Shielded Geochanter
@@ -165,7 +165,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863845897770237953/874171057685274624/transcript-new-mona-q-cannot-pop-on-super-armor.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863845897770237953_874171057685274624_transcript-new-mona-q-cannot-pop-on-super-armor.html)
 
 **Finding:**  
 
@@ -203,7 +203,7 @@ Better understanding and utilizing of Mona burst.
 
 **By:** Gibbigobo#9750  
 **Added:** 2021-09-04  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880972206451064842/883492803945041920/transcript-omen-extension-mechanics-video.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880972206451064842_883492803945041920_transcript-omen-extension-mechanics-video.html)
 
 **Finding:**  
 Mona's Omen damage bonus can be extended due to a certain enemy's state(s). These states are divided into three categories. Stagger/poise resistant, Elemental shields and Elemental/Hyper armor. These enemy states are what influence Mona's omen extension outside of freeze.
@@ -231,7 +231,7 @@ An Estimated 29% of all enemies in 2.0 have at least one of these states. The ma
 
 **By:** Monochrom9\#8058  
 **Added:** 2021-10-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898482560210980905/901965314378584084/transcript-petrify-omen-extension.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898482560210980905_901965314378584084_transcript-petrify-omen-extension.html)
 
 **Finding:**  
 Petrify cannot extend the duration of omen by preventing the bubble from popping by itself, contrary to some other observations.  
@@ -273,7 +273,7 @@ It's actually a smaller buff than one would think, but there is a slight differe
 
 **By:** Keqing\#1111  
 **Added:** 2021-04-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832524741473599519/834659643292254238/transcript-mona-elemental-skill-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832524741473599519_834659643292254238_transcript-mona-elemental-skill-cancel.html)
 
 **Finding:**  
 If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
@@ -289,7 +289,7 @@ Mona shouldn't dash until her skill is finished casting. This skill cancellation
 
 **By:** aui#3690  
 **Added:** 2021-09-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)
 
 **Finding:**  
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics
@@ -309,7 +309,7 @@ Alt and typical sprint i-frame mechanics are extremely similar, many people like
 #### A1 damage type
 
 **By:** Drazatis\#9999  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855354855525580800/856384260121034752/transcript-4-tom-mona-a1-edition.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855354855525580800_856384260121034752_transcript-4-tom-mona-a1-edition.html)
 
 **Finding:**  
 Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered elemental skill damage.
@@ -327,7 +327,7 @@ While I sincerely doubt that 4 ToM Mona will become a viable build path for her,
 
 **By:** 2ri#0945  
 **Added:** 2021-08-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880394893699211274/882076120403574784/transcript-mona-a4-passive-only-shows-when-shes-active.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880394893699211274_882076120403574784_transcript-mona-a4-passive-only-shows-when-shes-active.html)
 
 **Finding:**  
 Mona's A4 Passive is not shown on the stats page when she's inactive.
@@ -346,7 +346,7 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 
 **By.** Tibo\#4309  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897587228799287327/912236506880557076/transcript-mona-c1-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897587228799287327_912236506880557076_transcript-mona-c1-snapshot.html)
 
 **Finding:** Mona C1's snapshotting vape/swirl/EC (Theoryhunt).
 
@@ -404,7 +404,7 @@ This has been confirmed due to math being done to break down how Mona's Q Burst 
 
 **By:** Kgbeast\#6738  
 **Added:** 2021-05-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840003957183086662/841870834430902352/transcript-mona-omen-and-c1-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840003957183086662_841870834430902352_transcript-mona-omen-and-c1-mechanics.html)
 
 **Finding:**  
 Omen damage % bonus is additive with other damage % bonuses and the C1 bonus is additive with EM reaction bonuses
@@ -422,7 +422,7 @@ Proper understanding of how Omen and C1 affect damage and reactions
 #### C1 Co-op Clarification
 
 **By:** Terrapin\#8603 and sleepy\#0042  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846175551470829578/854997178450444318/transcript-mona-c1-coop.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846175551470829578_854997178450444318_transcript-mona-c1-coop.html)
 
 **Finding:**  
 Mona's C1 buff only applies to your own party members in coop, and not other players.
@@ -461,7 +461,7 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 
 **By:** Raf\#7220  
 **Added:** 2021-06-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844650193613094912/851360892595732510/transcript-mona-c2-aura-for-xl.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844650193613094912_851360892595732510_transcript-mona-c2-aura-for-xl.html)
 
 **Finding:**  
 A C2 Mona using N2C applies enough hydro to overtake the pyro application of Xiangling's Pyronado, even if pyro starts out as the aura.
@@ -478,7 +478,7 @@ Xiangling Q applies too much pyro for Mona to successfully be the aura most of t
 
 **By:** Mcpie\#8672  
 **Added:** 2022-02-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/937755412520919070/938446649758457886/transcript-c4-mona-does-not-show-up-in-stat-page.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937755412520919070_938446649758457886_transcript-c4-mona-does-not-show-up-in-stat-page.html)  
 
 **Finding:**  
 C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.  

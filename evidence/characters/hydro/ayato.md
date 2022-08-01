@@ -9,7 +9,7 @@ search: false
 {% page-ref page="../../../characters/hydro/ayato.md" %}
 
 ## Basic Mechanics
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967855065442439219/transcript-ayato-basic-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967855065442439219_transcript-ayato-basic-mechanics.html)  
 
 * Gauges:
     * E converted NA: 1A - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959

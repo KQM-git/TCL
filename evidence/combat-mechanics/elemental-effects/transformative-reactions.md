@@ -46,7 +46,7 @@ This strongly caps the potential AoE damage from both reactions, making Supercon
 
 **By:** Sir\_pick\_the\_prick\#2209, Terrapin\#8603, Isu\#6867, and Aluminum\#5462  
 **Added:** 2021-06-04  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840502239248252928/850596327720484885/transcript-transformative-reaction-icd-parameters.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840502239248252928_850596327720484885_transcript-transformative-reaction-icd-parameters.html)
 
 **Finding:**  
 Overload, and so far overload alone, seems to have a reaction specific icd of 0.5 sec \(15 frames in 30 fps and 30 frames in 60 fps\) where enemies overloaded or hit by the aoe caused by an overload procced by one character is then immune to the damage caused by overload procced by that character for 0.5 seconds. They still suffer the same effects except damage, such as gauge reduction and stagger.
@@ -120,7 +120,7 @@ In addition, like other debuffs/buffs as has been recently discovered, it is aff
 
 **By:** tamamo\#4303  
 **Added:** 2022-03-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949127514167582770/transcript-superconduct-mechanic-update.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949127514167582770_transcript-superconduct-mechanic-update.html)  
 
 **Finding:**  
 Superconduct has a reaction specific ICD of 0.5s, where enemies will only take a maximum of 2 instances of Superconduct damage triggered by one character. They still suffer gauge reduction and stagger from further Superconduct triggered by the same character within that 0.5s, even without taking Superconduct damage.  
@@ -342,7 +342,7 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 
 **By:** GottaGoFast#7876  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851661909840494622/874167434276405248/transcript-quadruple-electro-charged-with-1-electro-and-multiple-hydro.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851661909840494622_874167434276405248_transcript-quadruple-electro-charged-with-1-electro-and-multiple-hydro.html)
 
 **Finding:**  
 With an excessive amount of hydro application and a lot of hitlag, 4 electro charged procs is possible with only one application of electro.
@@ -360,7 +360,7 @@ The amount of Electro gauge should therefore not be enough to support 4 ticks of
 
 **By:** BowlSoldier#3528  
 **Added:** 2021-09-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887433546665447454/890108328393465876/transcript-electrocharged-ticks-ignore-hitlag.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887433546665447454_890108328393465876_transcript-electrocharged-ticks-ignore-hitlag.html)
 
 **Finding:**  
 Electrocharged ticks are not affected by hitlag, and happen every 60 frames. The actual Electro and Hydro auras' decay rates, however, are affected by hitlag. Therefore causing lots of hitlag during Electrocharged effectively reduces the decay rate of the elements.
@@ -402,7 +402,7 @@ However keep in mind the limiting factor for EC is usually the reduction per-tic
 
 **By:** NZPIEFACE#8439  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896132765072900146/899187533542481971/transcript-ec-snapshots-em-until-re-apply.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896132765072900146_899187533542481971_transcript-ec-snapshots-em-until-re-apply.html)
 
 **Abstract:**  
 Electro-charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying electro and hydro with changing elemental mastery.
@@ -490,7 +490,7 @@ Evidence: [Imgur](https://imgur.com/ZNKpRnt)
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918000788373123172/919129870959783996/transcript-ec-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918000788373123172_919129870959783996_transcript-ec-icd.html)  
 
 **Finding:**  
 * EC has a cooldown. An enemy can only take one instance of EC damage in ~0.5s.
@@ -512,7 +512,7 @@ Time your ECs, or not.
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917973191782187049/919138790193393664/transcript-ec-aoe-changes-ownership-of-other-ec-enemies.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917973191782187049_919138790193393664_transcript-ec-aoe-changes-ownership-of-other-ec-enemies.html)  
 
 **Finding:**  
 EC AoE ticks change ownership on other EC'd enemies.  
@@ -528,7 +528,7 @@ This also has a cascading effect as the changed ownership can also spread to mor
 ### EC Ticks Are Neither Reactions Nor Hits  
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-12-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923417727538954250/924789849364516924/transcript-ec-ticks-are-neither-reactions-nor-hits.html)   
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923417727538954250_924789849364516924_transcript-ec-ticks-are-neither-reactions-nor-hits.html)   
 
 **Finding:** The ticks of the Electro-Charged reaction don't count as neither hitting an enemy or triggering a reaction.  
 
@@ -546,7 +546,7 @@ This also has a cascading effect as the changed ownership can also spread to mor
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2022-01-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926980059363934238/927610678628470854/transcript-ec-ticks-only-consume-gauge-when-hydro-and-electro-are-present.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926980059363934238_927610678628470854_transcript-ec-ticks-only-consume-gauge-when-hydro-and-electro-are-present.html)  
 
 **Finding:**  
 Electro-Charged ticks only consumes Hydro and Electro gauge when both Hydro and Electro are present.  
@@ -563,7 +563,7 @@ There's potential for abuse with net limiters or with rotations that removes Ele
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2022-01-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/926982108273061928/927610723226517584/transcript-ec-ticks-consume-gauge-when-they-deal-damage.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_926982108273061928_927610723226517584_transcript-ec-ticks-consume-gauge-when-they-deal-damage.html)  
 
 **Finding:**  
 Electro-Charged ticks only remove gauge when they deal damage. Both gauges will still decay naturally over time though, with or without damage.  
@@ -578,7 +578,7 @@ Better understanding of how EC works.
 ### Zero Gauge Attacks Don't Change EC Ownership
 **By:** NZPIEFACE\#8439  
 **Added:** 2022-01-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923420389915381770/929316314999320576/transcript-zero-gauge-attacks-dont-change-ec-ownership.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923420389915381770_929316314999320576_transcript-zero-gauge-attacks-dont-change-ec-ownership.html)
 
 **Finding:**  
 0 gauge Electro attacks don't change Electro-Charged ownership.
@@ -594,7 +594,7 @@ That said, this emphasises that the AoE portion of EC changes ownership through 
 
 **By:** D.....K\#9002  
 **Added:** 2022-03-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951298348135116901/transcript-ec-hydro-aura-electro-trigger-interaction-is-bugged.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951298348135116901_transcript-ec-hydro-aura-electro-trigger-interaction-is-bugged.html)  
 
 **Finding:**  
 Electro when used to trigger EC cannot persist as Electro aura after the EC ticks, even when Electro gauge is greater than the Hydro gauge.  
@@ -642,7 +642,7 @@ Less reactions will be triggered than the normal amount according to EGT.
 
 **By:** Mutsuki\#0884  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956006164041170974/transcript-ec-on-ec-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956006164041170974_transcript-ec-on-ec-mechanics.html)  
 
 **Finding:**  
 Applying Electro-Charged on enemies already affected by Electro-Charged will still proc various effects that trigger on Elemental Reactions. Thus far Hakushin Ring, Freedom-Sworn, Electro Resonance, 4 piece Instructor, and Fischl's A4 have all been tested to still occur.  
@@ -669,7 +669,7 @@ Better understanding of the EC spaghetti code.
 
 **By:** Ayzel\#7399  
 **Added:** 2021-06-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843689180998402048/852779789747355688/transcript-simultaneous-hydro-on-freeze.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843689180998402048_852779789747355688_transcript-simultaneous-hydro-on-freeze.html)
 
 **Finding:**  
 Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
@@ -698,7 +698,7 @@ Characters with blunt attribute attacks benefit significantly less from the 4 pi
 
 **By:** Monochrom9\#8058  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849441851026571314/849902508193480704/transcript-shatter-damage-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_849441851026571314_849902508193480704_transcript-shatter-damage-icd.html)
 
 **Finding:**  
 Shatter reactions can deal damage only twice within the span of 0.5 seconds.
@@ -778,7 +778,7 @@ This improves our knowledge of Freeze and how to sequence reactions.
 
 **By:** Sigurd\#3854 & SRL\#2712  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858306167686823956/874079173520527360/transcript-freeze-duration-formula-theory-hunt.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858306167686823956_874079173520527360_transcript-freeze-duration-formula-theory-hunt.html)
 
 **Finding:** Freeze duration formula:  
 (!does not work the same for innate aura enemies)  
@@ -870,7 +870,7 @@ It might help us figure out how to optimize shield breaking as claymore users. A
 
 **By:** Ayzel#7399  
 **Added:** 2021-06-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844007973328125952/856670255643492402/transcript-dual-frozen-reaction-guide.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844007973328125952_856670255643492402_transcript-dual-frozen-reaction-guide.html)
 
 **Finding:**  
 The order of elemental application and the gauge units determines the second reaction that occurs (and whether it occurs) when the attack that reacts with freeze can cause both shatter and a different reaction. 
@@ -921,7 +921,7 @@ Better understanding about getting specific reactions against frozen enemies
 
 **By:** Faranight#0001  
 **Added:** 2021-07-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856734863130099722/867166763661656084/transcript-ec-frozen-double-reactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856734863130099722_867166763661656084_transcript-ec-frozen-double-reactions.html)
 
 **Theory:** EC and Frozen with hidden hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the element priority list. The exceptions are Geo Crystallize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden hydro as it has to overcome the hydro aura rather than the (higher priority) frozen:  
 [Double swirls](./transformative-reactions.md#how-to-get-double-swirls)
@@ -955,7 +955,7 @@ Evidence for Anemo triggers defying this array is already provided in the ticket
 
 **By:** BowlSoldier#3528  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887402348580859964/899169099240833064/transcript-shatter-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887402348580859964_899169099240833064_transcript-shatter-bug.html)
 
 **Finding:**  
 In some situations, Shattering a Frozen enemy removes less than the normal 8GU. This allows multiple Shatters to occur on a single Freeze, or Shatter + Melt at the same time. This also allows Claymore characters such as Chongyun or Eula to benefit from 4 Blizzard Strayer's extra crit on Frozen enemies.
@@ -977,7 +977,7 @@ Bug discovering
 
 **By:** srl\#2712, ElliMiku\#5071, Kourinn\#6001, phaZZi\#6461, Nass008\#8577, Isu\#6867  
 **Added:** 2022-02-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881008110699937792/939917731388600362/transcript-freeze-extensions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881008110699937792_939917731388600362_transcript-freeze-extensions.html)
 
 **Finding:**  
 The duration of repeated freezes can be described by the following formulae:
@@ -1014,7 +1014,7 @@ durability_frozen0 =
 t_decay like before
 ```
 
-And then solving for t (generic solution to quadratic equation). This was done in a previous ticket. [TicketTool](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866091819946344458/901006429228498964/transcript-freeze-extension.html)
+And then solving for t (generic solution to quadratic equation). This was done in a previous ticket. [TicketTool](https://tickets.deeznuts.moe/ticket-archive/attachments_866091819946344458_901006429228498964_transcript-freeze-extension.html)
 
 For the frozen durability in GU the formula is:
 ```
@@ -1059,7 +1059,7 @@ Better understanding of freeze duration. More accurate dps calcs in permafreeze 
 
 **By:** Peekays\#2722  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953773287568195644/transcript-shatter-doesnt-trigger-stuff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953773287568195644_transcript-shatter-doesnt-trigger-stuff.html)  
 
 **Finding:**  
 Shatter does not trigger Passives that are supposed to trigger when a reaction occurs.  
@@ -1080,7 +1080,7 @@ Perhaps some surprising exceptions.
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834597054301863965/839387910255280128/transcript-how-to-get-double-swirls.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834597054301863965_839387910255280128_transcript-how-to-get-double-swirls.html)
 
 **Finding:**  
 On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
@@ -1108,7 +1108,7 @@ More knowledge about how swirl works, better rotations and team-building
 
 **By:** Mutsuki\#0884  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953822978754363472/transcript-confirmation-of-double-swirl-on-freeze-aura-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953822978754363472_transcript-confirmation-of-double-swirl-on-freeze-aura-mechanics.html)  
 
 **Finding:**  
 Confirmation of double swirl on frozen enemy mechanics.  
@@ -1125,7 +1125,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 
 **By:** Terrapin\#8603  
 **Added:** 2021-04-30  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834419900104835122/837844958001758218/transcript-swirl-guide.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834419900104835122_837844958001758218_transcript-swirl-guide.html)
 
 **Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
 
@@ -1137,7 +1137,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 
 **By:** Terrapin\#8603  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836234307764092988/836771613537206322/transcript-swirl-chain-reactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836234307764092988_836771613537206322_transcript-swirl-chain-reactions.html)
 
 **Finding:** When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
@@ -1168,7 +1168,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 
 **By:** Ayzel\#7399  
 **Added:** 2021-04-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833831469373718568/834244407888314438/transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_833831469373718568_834244407888314438_transcript-venti-and-sucrose-burst-will-infuse-hydro-against-ec-enemies.html)
 
 **Finding:** When Venti and Sucrose's bursts make contact with a mob which is affected by Electro-charged, the burst will infuse Hydro.
 
@@ -1183,7 +1183,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 
 **By:** LarryTheCableGuy#7387  
 **Added:** 2021-06-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856103483316633610/856665866779623444/transcript-amped-swirl-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856103483316633610_856665866779623444_transcript-amped-swirl-snapshot.html)
 
 **Finding:**  
 Amplifying reactions derived from a swirl from pyro/cryo/hydro are not dynamic and WILL snapshot.
@@ -1238,7 +1238,7 @@ Vape/Melt triggered by swirls are still considered as amp reactions and are snap
 
 **By:** Terrapin\#8603  
 **Added:** 2021-05-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840102649700286524/845515459915022356/transcript-crystallize-refresh.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840102649700286524_845515459915022356_transcript-crystallize-refresh.html)
 
 **Theory:** Crystallize resets when a new one is picked up, and the shield value is based on the character that produced the Crystallize, even if a previous Crystallize generated by a different character is currently on the active character.
 
@@ -1254,7 +1254,7 @@ The third test shows Noelle's Crystallize on Noelle take a single hit, and then 
 
 **By:** Terrapin\#8603  
 **Added:** 2021-05-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840107089925505025/840819697393729546/transcript-crystallize-does-not-stack.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840107089925505025_840819697393729546_transcript-crystallize-does-not-stack.html)
 
 **Finding:**  
 Shields created from a crystallize reaction do not stack.
@@ -1285,7 +1285,7 @@ I electro charged in different orders with different application strengths. The 
 
 **By:** Sylenwolf\#5802  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953745714004000788/transcript-crystal-spawn-location-for-enemy.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953745714004000788_transcript-crystal-spawn-location-for-enemy.html)  
 
 **Finding:**  
 The Crystallize reaction will always spawn a crystal in front of the enemy.  
@@ -1333,7 +1333,7 @@ Understanding how Crystallize works.
 **By:** Scavenger\#6510
 
 **Added:** 2021-11-04  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888639666788655174/905948128526598184/transcript-current-dendro-mechanics-and-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888639666788655174_905948128526598184_transcript-current-dendro-mechanics-and-interactions.html)
 
 **Finding:**  
 Current Burning Mechanics: Applies 2U Pyro in a small AoE, which replenish the Pyro for Burning. Decay rate of Dendro in Burning is the sum of natural decay rate of the Pyro aura and the natural decay rate of the Dendro aura.

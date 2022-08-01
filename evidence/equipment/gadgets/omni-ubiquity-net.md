@@ -12,7 +12,7 @@ search: false
 
 **By:** Puffin\#9920, Pouf\#7319, and ShampooBrain\#9583  
 **Added:** 2022-01-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922959469657346108/931072700745662464/transcript-omniubiquity-net-stuff.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922959469657346108_931072700745662464_transcript-omniubiquity-net-stuff.html)
 
 **Findings and Evidence:**  
 1. The Omni-Ubiquity Net (OUN) has a 1-animal-per-net limit. - [YouTube](https://youtu.be/0ZnybwvyPDA)

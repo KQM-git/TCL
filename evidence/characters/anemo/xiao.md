@@ -48,7 +48,7 @@ Plungy Boi :)
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958512661308510268/transcript-xiao-keeps-his-mask.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958512661308510268_transcript-xiao-keeps-his-mask.html)  
 
 **Finding:**  
 Xiao can keep his mask in the overworld for an indefinite amount of time through the use of Burst cancels.  

@@ -12,7 +12,7 @@ description: For entries that have little practical use.
 ## Vertical Range of Certain Abilities  
 **By:** mando.\#1646  
 **Added:** 2022-05-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/971888182016766062/transcript-certain-vertical-mechanics-testing.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971888182016766062_transcript-certain-vertical-mechanics-testing.html)  
 
 **Finding:**  
 Certain characters have a finite vertical range for the buffs and/or infusions from their ablities, while others seem to have near infinite vertical range.  
@@ -46,7 +46,7 @@ Better understanding of vertical range mechanics for certain characters.
 ## Statue Healing Works In Pause Menus  
 **By:** anmol43\#6762  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/939595810998460446/945078289515552858/transcript-statue-healing-works-during-pause-menus.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_939595810998460446_945078289515552858_transcript-statue-healing-works-during-pause-menus.html)  
 
 **Finding:**  
 
@@ -76,7 +76,7 @@ Combining the above findings, a player can save some clicks and time when healin
 
 **By:** clrE\#6290  
 **Added:** 2022-02-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938044007425146890/940718525121716254/transcript-suck-limit.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938044007425146890_940718525121716254_transcript-suck-limit.html)
 
 **Finding:** Every ability / taunt that can pull mob has a limit. These limits differ from each other, ranging from 13-15.  
 Some can also be affected by In-game fps.
@@ -114,7 +114,7 @@ Evidence:
 
 **By:** Aluminum\#5462, Mcpie\#8672, mol\#3280, JenjenJL\#6582, Kgbeast\#6738, wiremash\#0433  
 **Added:** 2021-06-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846170693783912448/851728679427244042/transcript-ded-bird.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846170693783912448_851728679427244042_transcript-ded-bird.html)
 
 **Finding:**  
 Bird go poof.
@@ -133,7 +133,7 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)
 
 **Finding:**  
 For some characters, if they use an elemental skill and sit in a chair at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill as if it activated, which causes effects like Crimson Witch 4-piece to stack.
@@ -148,7 +148,7 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 
 **By:** CrazyWeke123\#9720  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945108293628604436/transcript-door-load-border-shenigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945108293628604436_transcript-door-load-border-shenigans.html)  
 
 **Finding:**  
 Certain doors in the overworld, i.e Jean's Office Door and the door to Lisa's Library in Favonius HQ, *for some reason* seem to contain a mini load border. Walking through said border seems to cause the game to reload everything on the other side, which causes some interesing things to occur.  
@@ -226,7 +226,7 @@ construct replacement order seems to be completely thrown off course by them res
 
 **By:** Aevean Leeow\#1362  
 **Added:** 2021-04-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/805911524051779615/837034685497606194/transcript-razorbeidouelectrotank.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_805911524051779615_837034685497606194_transcript-razorbeidouelectrotank.html)
 
 **Theory:** In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
 
@@ -258,7 +258,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 
 **By:** Aevean Leeow\#1362  
 **Added:** 2021-05-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804174551801921536/839374739973210122/transcript-spawn-aura-tanking.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804174551801921536_839374739973210122_transcript-spawn-aura-tanking.html)
 
 **Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
 
@@ -312,8 +312,8 @@ Note: This is a merge of 2 tickets
 
 **By:** Ayzel\#7399, sexyeboy69\#4338, Aluminum\#5462  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840459159656202250/845509708693635072/transcript-chair-cancelling.html)  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842094899204587580/857414437437964348/transcript-all-the-cancelling.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842094899204587580_857414437437964348_transcript-all-the-cancelling.html)
 
 **Finding:**  
 For some characters, if they use an elemental skill or burst and use a dialogue box at the same time \(pressing F and E at the same time for PC users\), while the skill will not activate \(and as such the skill cooldown will not start\), the game will still "treat" the skill or burst as if it activated, which causes effects like Crimson Witch 4-piece to stack or can trigger effects like 4-piece Noblesse Oblige.
@@ -330,7 +330,7 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 
 **By:** Episodde#8962  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853961397059059722/858414283258855464/transcript-harpastum-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853961397059059722_858414283258855464_transcript-harpastum-cancel.html)
 
 **Finding:**  
 Aiming with the Harpastum Ball gadget allow character to quickly cancel their animation in combat. This cancel is slightly faster than jump/dash cancels. However, the cancel cannot be performed when your character is put into a state where elemental skill is not usable, such as while performing a charge attack.
@@ -364,7 +364,7 @@ Even the Hilichurls are taking it easy, don't forget to take a break from the ga
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876373145655869460/877095617246167050/transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876373145655869460_877095617246167050_transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
 
 **Finding:**  
 Sacrificial weapons passives and Gambler 4p effect triggers on fowl and raw meat sources, but does not trigger on critters (entire "Other" category from the archive).
@@ -389,7 +389,7 @@ Wildlife that act as an interactable item pick-up (material sources) behave diff
 
 **By:** ZyronX#2720  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/888535890190811136/891152940641951785/transcript-use-different-expressions-in-photo-mode.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888535890190811136_891152940641951785_transcript-use-different-expressions-in-photo-mode.html)
 
 **Finding:**  
 In high ping environment, switching character take some amount of time. Assuming you switch from A to B. If you use switching duration to enter photo mode, you can use expressions from character A on character B.
@@ -404,7 +404,7 @@ Smiling Ei UwU
 
 **By:** mmjacobs\#9588  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896487806543724604/908520683506630697/transcript-narukami-shrine-fortune-slip-probabilities.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896487806543724604_908520683506630697_transcript-narukami-shrine-fortune-slip-probabilities.html)  
 
 **Finding:**  
 There are 16 possible fortune slip results, each with a unique lucky item. The probability of each fortune slip result (and therefore each lucky item) is equal. This means that for the 16 possible slip results, each one has a 1/16 chance to be received, or a 6.25% probability.  
@@ -436,7 +436,7 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 
 **Added:** 2021-12-13
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918035789865156618/919908365172363385/transcript-fruit-changes-on-hitting-ground.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918035789865156618_919908365172363385_transcript-fruit-changes-on-hitting-ground.html)
 
 **Finding:** Fruit can be affected by Anemo suction as long as it doesn't stay on the ground for too long. Once they have been on the ground for a certain amount of time, nothing will affect it anymore. You can also indefinitely keep fruit in the air with enough Anemo skills, and **even import Mondstadt fruit into Liyue**.
 
@@ -448,7 +448,7 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 
 **By:** r.rei\#2844  
 **Added:** 2021-12-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920224953935216670/921938746549608480/transcript-enemy-level-vs-average-party-level.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920224953935216670_921938746549608480_transcript-enemy-level-vs-average-party-level.html)  
 
 **Findings:**   
 * Enemy level colour is based on your highest owned character level, and current team level is irrelevant.
@@ -465,7 +465,7 @@ First recording Thoma E damage aligns with 2nd damage calculation, proves that e
 ## All Models Can Roll In Place  
 **By:** Mcpie\#8672  
 **Added:** 2022-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185933952159755/930084965645967420/transcript-all-models-can-roll-in-place.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185933952159755_930084965645967420_transcript-all-models-can-roll-in-place.html)
 
 **Finding:**  
 Every character model is capable of rolling in place.  
@@ -492,7 +492,7 @@ Fluff, but might somehow help out with model differences in the future.
 ## Kamera Gadget Knockback Cancel  
 **By:** JoJoCheck\#4450  
 **Added:** 2022-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/925335438003150848/930089635097497650/transcript-kamera-gadget-knockback-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_925335438003150848_930089635097497650_transcript-kamera-gadget-knockback-cancel.html)
 
 **Finding:**  
 Kamera Gadget can cancel knockback.  
@@ -510,7 +510,7 @@ Knockback cancel/Fluff/investigating the influence pausing the game has on certa
 ## Traveler Has Hidden Friendship Meter
 **By:** mmjacobs\#9588  
 **Added:** 2022-01-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931045505801256971/934607873152012388/transcript-traveler-has-hidden-friendship-meter.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931045505801256971_934607873152012388_transcript-traveler-has-hidden-friendship-meter.html)
 
 **Theory:**  
 Does Traveler have a hidden Friendship meter and gain Friendship?
@@ -525,7 +525,7 @@ Traveler does not accumulate friendship points, but does sort higher than other 
 ## A Study In Potions - Retry Button Mechanics 	
 **By:** Vye#9195  
 **Added:** 2022-01-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929809364825550901/936413828575559700/transcript-a-study-in-potions--retry-button-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929809364825550901_936413828575559700_transcript-a-study-in-potions--retry-button-mechanics.html)
 
 **Finding:**  
 The retry button in the event is a full team reset. All cooldowns including weapon passive cooldowns, elemental skills, burst skills and character constellations are fully reset as well as HP and energy.
@@ -540,7 +540,7 @@ Mihoyo apparently can implement a full reset button for a small event but cannot
 ## Portable Waypoint Bug  
 **By:** Sherbs\#2029  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934702460117856309/936406179373002782/transcript-portable-waypoint-interactions.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934702460117856309_936406179373002782_transcript-portable-waypoint-interactions.html)  
 
 **Bug:**  
 When teleporting from a location with permanent weather or other effects on the map (such as lightning) to a Portable Waypoing in certain areas above or below the water (portions of the map that were added in 2.0 or zones that would get Paimon to yell at you if you went to far prior to 2.0), the game will transfer said effects to where the Portable Waypoint is located. These effects include permanent weather, lightning, wisps, and more. Prior to Patch 2.4b this would also replace the icon on the loading screen with the starting location instead of where the Portable Waypoint is placed. 
@@ -559,7 +559,7 @@ For travelers who would like to have specific lighting on The Crux for photo con
 ## Hidden wall clip spot in Liyue Merchant Stall
 **By:** Artellio\#4479  
 **Added:** 2022-02-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934639679863676978/940718218228682762/transcript-liyue-merchants-stall-wall-clip-hidden-spot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934639679863676978_940718218228682762_transcript-liyue-merchants-stall-wall-clip-hidden-spot.html)
 
 **Finding:** A hidden spot in Liyue allows you to clip into the walls, and enter a hidden boxed area. Once you enter the area, you’ll be able to see outside the box, but others cannot see in. This spot also features an infinite fall/plunge area easy accessed by inch-walking towards the crevice. 
 To enter this area, teleport to the northwestern TP of Liyue Harbor, head northwest and head towards the water. Follow the video in evidence for further instructions. You should be able to go to the corner, jump-climb up, and jump-climb left. Note that if you infinite plunge, you will be stuck. You may also be viewed from below when in the fall area. 
@@ -590,7 +590,7 @@ The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000.
 ## Plunge Attack Max Fall DMG Cap
 **By:** TheFirstRapher\#9207  
 **Added:** 2022-02-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938676862769565726/941446808155074581/transcript-plunge-attack-max-fall-dmg-cap.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938676862769565726_941446808155074581_transcript-plunge-attack-max-fall-dmg-cap.html)  
 
 **Finding:**  
 Plunging at any height will normally have a damage cap of about 40% of the character's Max HP.  
@@ -609,7 +609,7 @@ Plunging provides a speedier way of getting down from a high place without dying
 
 **By:** melon\#9323  
 **Added:** 2022-03-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/949479240284401744/transcript-bokuso-box-crit-scales-off-character.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)  
 
 **Finding:**  
 Bokuso Box Crit Rate and damage scale off of character stats.  
@@ -624,7 +624,7 @@ Affects Favonius passive procs and if you want to kill enemies with the box.
 
 **By:** Aevean Leeow\#1362  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953817891340435487/transcript-stoves-of-babel.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953817891340435487_transcript-stoves-of-babel.html)  
 
 **Finding:**  
 Using stoves and Geo Constructs, a traveler may near indefinitely ascend to Celestia until they are out of stoves.  
@@ -686,7 +686,7 @@ Singleplayer:
 
 **By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953782289911918623/transcript-passive-activation-distance-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953782289911918623_transcript-passive-activation-distance-limit.html)  
 
 **Finding:**  
 Certain effects have activation distance limits that prevent them from working.  
@@ -711,7 +711,7 @@ Something to keep in mind when doing long range activities.
 
 **By:** Madrigal\#7486  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958524651376631877/transcript-certain-actions-reset-walking-mode.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958524651376631877_transcript-certain-actions-reset-walking-mode.html)  
 
 **Finding:**  
 Walking mode gets reset to running mode by certain actions on PC, but not on mobile.  
@@ -732,7 +732,7 @@ Crucial knowledge for people doing walking only challenges, ruining any remainin
 
 **By:** Puffin\#9920  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958514754920525914/transcript-not-all-doors-are-equal.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958514754920525914_transcript-not-all-doors-are-equal.html)  
 
 **Finding:**  
 The only doors that do the [funny reload thing](#door-load-border-shenanigans) with Elemental Skills and Bursts fit the following conditions:
@@ -757,7 +757,7 @@ The Knights of Favonius are special.
 
 **By:** yolitme0\#0579  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958510689549447250/transcript-self-freeze-can-be-canceled-by-swapping.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958510689549447250_transcript-self-freeze-can-be-canceled-by-swapping.html)  
 
 **Finding:**  
 By swapping at the correct time around when you initially become Frozen, you can "unfreeze" yourself.  
@@ -772,7 +772,7 @@ If you get really lucky you can avoid being Frozen.
 
 **By:** Ieah.\#2212  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962131649536090122/transcript-bokuso-box-can-proc-stuff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962131649536090122_transcript-bokuso-box-can-proc-stuff.html)  
 
 **Finding:**  
 Bokuso Box can proc damage-related abilities.  
@@ -789,7 +789,7 @@ Bokuso Box can proc damage-related abilities.
 
 **By:** Puffin\#9920  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962023997183234068/transcript-portable-waypoints-dont-stop-sheer-cold.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962023997183234068_transcript-portable-waypoints-dont-stop-sheer-cold.html)  
 
 **Finding:**  
 Portable Waypoints don't prevent Sheer Cold from accumulating on Dragonspine, unlike regular waypoints.  
@@ -804,7 +804,7 @@ Better understanding of Portable Waypoints.
 
 **By:** Creonalia\#2818  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964960022134153286/transcript-specialty-dish-rates.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964960022134153286_transcript-specialty-dish-rates.html)  
 
 **Finding:**  
 Specialty dish rates are affected by dish rarity and quality.  
@@ -826,7 +826,7 @@ It's good to know.
 
 **By:** Magnus Artifex\#8719  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967843702821228544/transcript-slimes-in-barrels-blink.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967843702821228544_transcript-slimes-in-barrels-blink.html)  
 
 **Finding:**  
 Frozen and barreled slimes blink.  
@@ -842,7 +842,7 @@ Knowledge about the world, and it’s freaking cute uwu
 
 **By:** Madrigal\#7486  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967818246889824296/transcript-elemental-bursts-reset-directional-pad-on-mobile.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967818246889824296_transcript-elemental-bursts-reset-directional-pad-on-mobile.html)  
 
 **Finding:**  
 Almost all Elemental Bursts that have a zoom animation will reset the directional pad on mobile (only 1 known exception as of now). Bursts that have no zoom animation (either by design or by canceling the zoom) will not reset the directional pad. We can safely assume this trend for future characters without exhaustive testing.
@@ -895,7 +895,7 @@ A \(well\-known\) annoyance for mobile users, now documented. Sometimes, it's th
 
 **By:** SquareRootOf-1\#0898  
 **Added:** 2022-05-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977690562201260042/transcript-chasm-glitchy-bird.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977690562201260042_transcript-chasm-glitchy-bird.html)
 
 **Finding:**  
 The birds inside the cages of The Chasm underground camps have some weird behavior
@@ -930,7 +930,7 @@ Fluff
 
 **By:** Valler™\#3603  
 **Added:** 2022-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986295200286666812/transcript-animals-can-be-debuffed.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986295200286666812_transcript-animals-can-be-debuffed.html)
 
 **Finding:**  
 Cats, foxes and dogs can be affected by some debuffs.

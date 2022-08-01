@@ -284,7 +284,7 @@ This confirms what was already common knowledge: only use spin if you need to he
 
 **By:** Tarcc\#7510  
 **Added:** 2021-05-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837604511203721256/838347194591215656/transcript-noelle-c4-ds.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837604511203721256_838347194591215656_transcript-noelle-c4-ds.html)
 
 **Finding:**  
 What I have found is that you need to have either frame perfect DS timing, or you need a 10%+ speed bonus from either Diona ascension, Jean C2, or 2 player anemo unit synergy to reach consistent DS. I have also found that the instance of a shield break from C4 Noelle can also elongate the amount of time you have to do a proper DS. This is exceptionally difficult to pull off.
@@ -305,7 +305,7 @@ What I had found is that the hitstun of the shield breaking \(Noelle c4\) can al
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 
 **Finding:**  
 Noelle’s C4 damage instance is considered skill damage. 
@@ -322,7 +322,7 @@ Damage calculations for Noelle.
 
 **By:** JonahFarc\#7056  
 **Added:** 2021-10-18  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895691894825312256/899778880544587776/transcript-noelle-burst-extension.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895691894825312256_899778880544587776_transcript-noelle-burst-extension.html)
 
 **Finding:**  
 Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire

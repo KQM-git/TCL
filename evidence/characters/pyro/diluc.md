@@ -34,7 +34,7 @@ When running Barbara or Xingqiu, self freeze can be an upside in certain situati
 
 **By:** Isu\#6867  
 **Added:** 2021-05-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845447638719266826/848323323459928085/transcript-diluc-burst-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845447638719266826_848323323459928085_transcript-diluc-burst-icd.html)
 
 **Finding:**  
 Diluc's elemental burst follows a 5-hit rule on elemental application rather than the standard 3-hit rule.
@@ -49,7 +49,7 @@ The vape damage potential of Diluc's burst is lower than one might expect based 
 
 **By:** ceeeleste#3568  
 **Added:** 2021-08-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877477456519512064/878178628079353886/transcript-diluc-q-gauge-is-2u-and-not-1u-on-the-initial-hit.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877477456519512064_878178628079353886_transcript-diluc-q-gauge-is-2u-and-not-1u-on-the-initial-hit.html)
 
 **Finding:**  
 Diluc Q initial hit is 2U
@@ -83,7 +83,7 @@ Better Diluc rotation.
 
 **By:** elijam\#7142  
 **Added:** 2021-12-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917975114987999382/919073580216643584/transcript-diluc-burst-benefits-from-a4.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917975114987999382_919073580216643584_transcript-diluc-burst-benefits-from-a4.html)  
 
 **Finding:**  
 Diluc's Burst damage will benefit from his A4 talent, Blessing of the Phoenix, which grants Pyro DMG% for the duration of the Pyro infusion granted by his Burst.  

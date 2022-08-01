@@ -10,7 +10,7 @@ search: false
 
 ## Basic Yoimiya Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/867272710715736064/878384023569825852/transcript-yoimiya-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_867272710715736064_878384023569825852_transcript-yoimiya-basic-mechanics.html)
 
 ## Attack Attributes
 
@@ -42,7 +42,7 @@ search: false
 ### Kindling Arrows Interaction with Amos' Bow
 **By:** Ayzel\#7399  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/908499139703214080/908507642199150652/transcript-yoi-kindling-arrows-and-amos.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_908499139703214080_908507642199150652_transcript-yoi-kindling-arrows-and-amos.html)
 
 **Findings:**  
  Kindling Arrows are affected by Amos' Bow's passive, and it is very easy for Kindling Arrows to gain all 5 stacks because of how slowly they move.

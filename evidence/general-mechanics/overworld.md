@@ -11,7 +11,7 @@ search: false
 ## The Weird Blue Rock  
 **By:** Pablos\#1142  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938864913525395456/945069975708762132/transcript-weird-blue-rocks.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938864913525395456_945069975708762132_transcript-weird-blue-rocks.html)  
 
 **Finding:**  
 There are few piles of unique blue rocks in the Enkanomiya with interesting properties. They can be destroyed and represent unique blend of features native to other overworld objects.
@@ -54,7 +54,7 @@ The current known locations for these rocks:
 
 **By:** Aevean Leeow\#1362, Mcpie\#8672, BowTae\#0141, KQM Stream Meme Team, and KQM Friends  
 **Added:** 2021-12-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905507145762631690/924148014212333608/transcript-the-rock.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905507145762631690_924148014212333608_transcript-the-rock.html)
 
 **Finding:**
 There are a few small rocks in the overworld with interesting properties. They can be damaged and destroyed, and they can also deal Geo damage when dropped.
@@ -113,7 +113,7 @@ The Rock (Igneous Pebblus) is a federally endangered species which is currently 
 ### Teapot Dog Abuse  
 **By:** Asaki\#9139  
 **Added:** 2021-12-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923064128225026118/923456084302241872/transcript-teapot-dog-abuse.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923064128225026118_923456084302241872_transcript-teapot-dog-abuse.html)  
 
 **Finding:**  
 0-poise attacks also register on Kageroumaru.  
@@ -128,7 +128,7 @@ The Rock (Igneous Pebblus) is a federally endangered species which is currently 
 ### Teapot Dog Abuse 2
 **By:** Asaki#9139  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/930676749782634586/934050479892234280/transcript-teapot-dog-abuse-2.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930676749782634586_934050479892234280_transcript-teapot-dog-abuse-2.html)
 
 **Finding:**  
 Kageroumaru can hold non-elemental statuses, but not marks.
@@ -173,7 +173,7 @@ Poor Kageroumaru does not deserve this. He is just a cute dog. Well, THIS IS WHA
 
 **By:** kxmndz\#4700  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903329501226860666/921012856277848114/transcript-explosive-barrel-properties.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903329501226860666_921012856277848114_transcript-explosive-barrel-properties.html)  
 
 **Finding:**  
 1. Barrel damage is affected by the unit's defense, following the damage formula here: https://genshin-impact.fandom.com/wiki/Defense. Attributes such as level, ascension, max hp have no effect on the amount of damage inflicted by barrel explosions.
@@ -264,7 +264,7 @@ Enemies in the northern orange zone are between 82 and 90, and calculations with
 
 **By:** Mcpie#8672  
 **Added:** 2021-12-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868098829361229834/920808595594043402/transcript-inazuma-artifact-spots.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868098829361229834_920808595594043402_transcript-inazuma-artifact-spots.html)
 
 **Finding:** There are currently 214 (+1 or +2) respawnable investigation spots that drop artifacts. 
 
@@ -305,7 +305,7 @@ Unfortunately we're unable to tell if we managed to cover all of the spots, but 
 
 **By:** Greyhound\#7836  
 **Added:** 2021-04-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832412514858958878/835397401812533268/transcript-electro-crystals-have-levels.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832412514858958878_835397401812533268_transcript-electro-crystals-have-levels.html)
 
 **Finding:**  
 Electro crystals have different damage values on the same world level, the recorded ones after defense are: 325, 267, 247, 279, 273, 297, 292, 303, 287, 283, the Lisa used for the test had 159 defense, meaning 15% damage reduction, further testing shows that there is no level differencial taken into the formula for crystal attacks, but they do have levels as indicated by reactions, the pre defense damage dealt by them is: 373, 307, 284, 320, 313, 341, 335, 348, 320, 325 repsectively to the values stated above, with the end results as:
@@ -338,7 +338,7 @@ Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is ma
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-25  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854439111430635560/858186241102446602/transcript-cursed-terrain-electrified-environment-reaction.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
 
 **Theory:**  
 Genshin's overworld works under a different set of reaction rules than the players, additionally supported by the entry [Overworld Entities Have Levels](../../evidence/general-mechanics/overworld.md#overworld-entities-have-levels), one of those different rules of reactions is Electrified water, when applying electro to water, it does not produce electro-charged, instead it infuses the water with electro for a few seconds, which does not apply electro, does not spread, and is not affected by 4TF set bonus, this electrified water can damage both the player and enemies. Water additionally is seen as friend to both player and enemy, which questions the nature of this Electrified reaction even further.
@@ -353,7 +353,7 @@ There might be more reactions unknown to the player coded into the game's files 
 
 **By:** RazorClaws\#4343  
 **Added:** 2021-06-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858433829143445615/858455416635392040/transcript-electrified-water-properties.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858433829143445615_858455416635392040_transcript-electrified-water-properties.html)  
 
 **Finding:**  
 The duration of the environmental elemental reaction Electrified Water has varying duration based on the gauge strength of electro applied. There are approximately 2 seconds between each tick. 1A of electro lasts for 3 ticks, 2B lasts for 5 ticks, and 4C lasts for 10 ticks.  
@@ -369,7 +369,7 @@ Learning more about how environmental reactions are programmed/calculated. Also,
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854436805537169488/857347792947380294/transcript-cursed-terrain-invisible-water-layer.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854436805537169488_857347792947380294_transcript-cursed-terrain-invisible-water-layer.html)
 
 **Theory:**  
 Genshin's water is coded in a way where the visual water and actual layer are separate, thus there is an invisible field of water that does not apply wet in random places of the world, but can be infused
@@ -387,7 +387,7 @@ Understanding the cursed overworld of Teyvat
 
 **By:** BowlSoldier\#3528 and p.pineapple\#1129  
 **Added:** 2021-11-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879642528046002176/903470522577326110/transcript-overworld-hydro-gauge-and-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879642528046002176_903470522577326110_transcript-overworld-hydro-gauge-and-icd.html)  
 
 **Finding:**  
 Overworld Hydro can be split into 2 types:  
@@ -425,7 +425,7 @@ Better understanding of how overworld hydro works for aura and reaction testing.
 
 **By:** Sayline\#5959  
 **Added:** 2021-11-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906575280053837904/907925042443194428/transcript-fountaine-water-isnt-water.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906575280053837904_907925042443194428_transcript-fountaine-water-isnt-water.html)  
 
 **Finding:**  
 Fountain water does not react with Electro and cause Electrified water.  
@@ -443,7 +443,7 @@ Overworld spaghetti. Overworld bodies of water are not all the same.
 
 **By:** Sayline\#5959  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921714701438685184/936363288537747528/transcript-not-all-falls-water-is-false-water.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921714701438685184_936363288537747528_transcript-not-all-falls-water-is-false-water.html)  
 
 **Finding:**  
 Waterfalls are inconsistent.  
@@ -470,7 +470,7 @@ Falls water.
 
 **By:** Pablos\#1142  
 **Added:** 2022-03-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951292350569799731/transcript-not-all-falls-water-is-false-water-enkanomiya-addendum.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951292350569799731_transcript-not-all-falls-water-is-false-water-enkanomiya-addendum.html)  
 
 **Finding:**  
 * Waterfalls are still inconsistent in version 2.4.
@@ -505,7 +505,7 @@ Falls water.
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-21  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854441186256355348/856763759632449536/transcript-cursed-terrain-electro-crystal-range.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854441186256355348_856763759632449536_transcript-cursed-terrain-electro-crystal-range.html)
 
 **Finding:** Electro crystals' pulse range works in a rectangle range, with the crystal being not centered, but rather between the center and the side
 
@@ -516,7 +516,7 @@ Falls water.
 ### Parametric Crystal Electric Bungaloo 
 **By:** Ultimate Noob\#2955  
 **Added:** 2022-01-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922988435889856562/931419824964374588/transcript-parametric-crystal-electric-bungaloo.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922988435889856562_931419824964374588_transcript-parametric-crystal-electric-bungaloo.html)
 
 **Findings:**  
 * An electric crystal can have its aura removed, but it will be reapplied.
@@ -541,8 +541,8 @@ Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t hav
 **By:** Greyhound\#7836, mol\#3280, deaf#0246  
 **Added:** 2021-06-23  
 **Updated:** 2021-08-07  
-[Discussion 1](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851603340403933194/857345614483554334/transcript-cursed-terrain-world-levels.html)  
-[Discussion 2](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873033114723696660/873532969355210752/transcript-overworld-entity-levels-revisited.html)
+[Discussion 1](https://tickets.deeznuts.moe/ticket-archive/attachments_851603340403933194_857345614483554334_transcript-cursed-terrain-world-levels.html)  
+[Discussion 2](https://tickets.deeznuts.moe/ticket-archive/attachments_873033114723696660_873532969355210752_transcript-overworld-entity-levels-revisited.html)
 
 **Finding:**  
 Overworld has levels for every "body", including water and grass and sand, trees, rocks, and other things that we can't prove in any other way other than the game's code which shows this, thus varying stats which is proven by their damage.
@@ -558,7 +558,7 @@ Almost cracking the code for overworld. Now getting a bit closer.
 
 **By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851944273712644116/857341175685054504/transcript-genshin-has-2d-water.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851944273712644116_857341175685054504_transcript-genshin-has-2d-water.html)
 
 **Finding:**  
 Genshin's water exists only in horizontal, 2 dimensional sheets. Additionally, true water is not graphically represented at all times, while graphically represented water is only an approximation.
@@ -576,7 +576,7 @@ Electro is awful for the overworld because you can electrocharge water which res
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/852322096528228372/857338163654557716/transcript-environment-reaction-base.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_852322096528228372_857338163654557716_transcript-environment-reaction-base.html)
 
 **Theory:**  
 Environment uses a different set of reaction bases than players, thanks to the EM buffs and my prior testing of electro crystal levels, we can conclude that although the value at release was the same as for the player, now it's different, with the player having a new one, and the electro crystals using the old, unchanged base.
@@ -592,7 +592,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **By:** Ultimate Noob\#2955  
 **Added:** 2022-05-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974469687045914704/transcript-some-pillars-in-enka-you-dont-take-fall-damage-on.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974469687045914704_transcript-some-pillars-in-enka-you-dont-take-fall-damage-on.html)  
 
 **Finding:**  
 Some pillars in Enkanomiya allow you to evade fall damage if you land on the side.  
@@ -607,7 +607,7 @@ Fall damage evasion.
 
 **By:** RazorClaws#4343  
 **Added:** 2021-07-15  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864369706249355324/865083435184947200/transcript-campfires-act-like-1u-of-pyro-aura.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864369706249355324_865083435184947200_transcript-campfires-act-like-1u-of-pyro-aura.html)
 
 **Finding:**  
 Lit campfires essentially have a 1U aura of pyro that don't decay over time.
@@ -632,7 +632,7 @@ Putting out campfires with utmost efficiency
 
 **By:** deaf\#0246  
 **Added:** 2021-08-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872856833835036723/878915593116454932/transcript-zone-levels.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872856833835036723_878915593116454932_transcript-zone-levels.html)  
 
 *Zone levels have been updated as of 2021-12-22 with more precise maps. See below.*
 
@@ -652,7 +652,7 @@ I have nothing but regrets.
 
 **By:** Vladone ツ\#9281  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905965525027414056/908513612430184458/transcript-zone-levels-liyue.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905965525027414056_908513612430184458_transcript-zone-levels-liyue.html)  
 
 *Zone levels have been updated as of 2021-12-22 with more precise maps. See below.*
 
@@ -674,7 +674,7 @@ Fluff and overworld documentation.
 
 **By:** deaf\#0246  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905984755986726972/908513380455809084/transcript-zone-levels-inazuma.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905984755986726972_908513380455809084_transcript-zone-levels-inazuma.html)  
 
 *Zone levels have been updated as of 2021-12-22 with more precise maps. See below.*
 
@@ -692,7 +692,7 @@ Fluff, and overworld documentation I guess.
 #### Zone Levels Update
 **By:** deaf\#0246 & Vladone ツ\#9281  
 **Added:** 2021-12-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918005225162432543/923133715008352266/transcript-zone-levels.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918005225162432543_923133715008352266_transcript-zone-levels.html)
 
 1. **Mondstadt**  
 Map has been updated and there is a newly discovered area that doesn't have a zone level. - [Updated Mondstadt Map](https://photos.google.com/share/AF1QipNH_MBr8Dfh3fzm6_x4lQqb0bdzrV7tWi6JHaJlnwCElh7v5X4zIiLYp6_DHR5MBA?key=bTlnQXFPdDhLQlhsbDBlSEpVN2R3dWRJdjEtdnFB)  
@@ -716,7 +716,7 @@ By "'map has been updated" we understand:
 #### Enkanomiya
 **By:** Vladone ツ#9281, Mcpie#8672  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928178373304406016/934047513944666133/transcript-enkanomiya-zone-levels.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928178373304406016_934047513944666133_transcript-enkanomiya-zone-levels.html)
 
 **Finding:**  
 The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Enkanomiya.
@@ -731,7 +731,7 @@ Fluff and overworld documentation.
 
 **By:** Vladone ツ\#9281  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962112897239093259/transcript-chasm-zone-levels.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962112897239093259_transcript-chasm-zone-levels.html)  
 
 **Finding:**  
 The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Chasm and Teyvat.  
@@ -764,7 +764,7 @@ Fluff and overworld documentation.
 ### Constructs Take Zone Level Damage  
 **By:** Vladone ツ#9281  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/938725868832972800/945085214860922880/transcript-constructs-take-zone-levels-damage.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938725868832972800_945085214860922880_transcript-constructs-take-zone-levels-damage.html)  
 **Finding:**  
 Some constructs take damage according to zone level.
 
@@ -787,7 +787,7 @@ Fluff and overworld documentation.
 
 **By:** NZPIEFACE\#8439   
 **Added:** 2022-03-13   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/952644713566064710/transcript-zone-levels-are-in-relation-to-players.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_952644713566064710_transcript-zone-levels-are-in-relation-to-players.html)
 
 **Finding:**  
 Zone level damage is relative to the player's position rather than the location of whatever is taking damage.
@@ -803,7 +803,7 @@ Zone levels are "global" in a sense.
 
 **By:** deaf\#0246  
 **Added:** 2021-09-06  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/880603421873418362/884484706299686942/transcript-elemental-interactions-with-bushes.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880603421873418362_884484706299686942_transcript-elemental-interactions-with-bushes.html)
 
 **Theory:**  
 Elemental applications can be used to destroy and damage bushes, however not all elements are equal in this regard. Additionally, there are several other abilities such as Jean's E, the cast of Kaeya's burst, Albedo's burst, etc... which can be used to both damage and destroy bushes.
@@ -824,7 +824,7 @@ Optimizing your bush harvesting game.
 
 **By:** Ayzel\#7399  
 **Added:** 2021-06-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851228691656736798/852776633731645470/transcript-bushes-take-1u-of-pyro-to-light.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851228691656736798_852776633731645470_transcript-bushes-take-1u-of-pyro-to-light.html)
 
 **Finding:** Bushes take one unit of pyro elemental application to light on fire.
 
@@ -837,7 +837,7 @@ Optimizing your bush harvesting game.
 
 **By:** anonpuffs\#2537  
 **Added:** 2021-10-09  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885127802570039336/896138078912135228/transcript-structures-are-not-enemies.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
 
 **Finding:**  
 Structures do not count as "opponents" for the purposes of triggering abilities like albedo's elemental skill.
@@ -859,7 +859,7 @@ Overworld is hard.
 
 **By:** Aluminum\#5462  
 **Added:** 2021-06-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845422859467489390/856750287548710912/transcript-4tf-environmental-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845422859467489390_856750287548710912_transcript-4tf-environmental-damage.html)
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
 
@@ -871,7 +871,7 @@ Overworld is hard.
 
 **By:** Creonalia\#2818  
 **Added:** 2021-06-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/803833656182702099/859538316431720478/transcript-location-remembered-between-map-tabs.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_803833656182702099_859538316431720478_transcript-location-remembered-between-map-tabs.html)  
 
 **Theory:** Genshin remembers your location and world state(such as bosses) in different map tabs separately.  
 
@@ -885,7 +885,7 @@ Overworld is hard.
 
 **By:** Mcpie\#8672  
 **Added:** 2021-07-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345502047764490/867159298671640616/transcript-coordinates-translation-methods.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345502047764490_867159298671640616_transcript-coordinates-translation-methods.html)  
 
 **Theory:** Coordinates translation methods from in-game coordinates into official teyvat map and vice versa.  
 [Official Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)  
@@ -976,7 +976,7 @@ due to IEEE 754, the result will be off at epsilon level.
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345650060689480/874179525771165706/transcript-coordinates-units-descriptions.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345650060689480_874179525771165706_transcript-coordinates-units-descriptions.html)  
 
 **Finding:**  
 In-game (x,y,z) and Official Teyvat Map (x,y) coordinates system description:
@@ -1108,7 +1108,7 @@ Estimating distance between points is now easier due to known values in differen
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861913559231102996/874183553099903016/transcript-extracting-coords-while-in-game.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913559231102996_874183553099903016_transcript-extracting-coords-while-in-game.html)  
 
 **Theory:**  
 It's possible to extract your current coordinates through feedback url.
@@ -1138,7 +1138,7 @@ This provides an easy way to calculate the distance between two points in game.
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865345828439719966/874184378148855809/transcript-coordinates-axises-descriptions.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345828439719966_874184378148855809_transcript-coordinates-axises-descriptions.html)  
 
 **Theory:**  
 Description of each coordinate in in-game coordinate system and interactive teyvat map coordinates system.  
@@ -1171,7 +1171,7 @@ If someone is going to rely on in-game coordinates from feedback url, they might
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861913032152842250/874185169110704198/transcript-coordinates-change-when-idle.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913032152842250_874185169110704198_transcript-coordinates-change-when-idle.html)  
 
 **Finding:**  
 Character coordinates change whenever game state is not frozen (unpaused single player).
@@ -1204,7 +1204,7 @@ Fluff. This could also explain the fact that when you switch from child to adult
 
 **By:** Greyhound\#7836  
 **Added:** 2021-08-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877914693396758528/878182609329463306/transcript-burning-grass-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877914693396758528_878182609329463306_transcript-burning-grass-icd.html)  
 
 **Theory:**  
 Burning grass has standard ICD - 3 hits/2.5 seconds
@@ -1221,7 +1221,7 @@ Vault update.
 
 **By:** kxmndz\#4700  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893415165796712468/898820933857456168/transcript-health-and-revive-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893415165796712468_898820933857456168_transcript-health-and-revive-mechanics.html)  
 
 **Findings:**  
 A) When all party members' health reaches 0, the revive screen comes up and 2 things happen:  
@@ -1262,7 +1262,7 @@ Documentation and better understanding of how the game handles health and death.
 
 **By:** Nass008\#8577  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898420442753277962/899020738458177608/transcript-2u-pyro-on-grass.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898420442753277962_899020738458177608_transcript-2u-pyro-on-grass.html)  
 
 **Finding:**  
 Not all 2U pyro attack ignite grass.  
@@ -1284,7 +1284,7 @@ Applying pyro on grass is not a foolproof method for testing elemental gauge sin
 
 **By:** Tibo\#4309  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894036451740766218/899191434735943730/transcript-treasure-compass-range-chest-rendering.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894036451740766218_899191434735943730_transcript-treasure-compass-range-chest-rendering.html)  
 
 **Finding:**  
 * Treasure Compass detection depends on chest rendering, chest rendering suffers from an It Depends™.
@@ -1347,7 +1347,7 @@ Using the Treasure Compass to play ChestColle
 
 **By:** kxmndz\#4700  
 **Added:** 2021-11-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904069344764526692/908536409021906954/transcript-torches-take-0-gauge-to-light.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904069344764526692_908536409021906954_transcript-torches-take-0-gauge-to-light.html)  
 
 **Finding:**  
 Some overworld objects (torches, mist flowers) interact with 0 gauge pyro hits (hits that don't apply pyro aura to enemies).  
@@ -1376,7 +1376,7 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840649811383418960/845511822404616212/transcript-cant-rain-in-mondstadt.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840649811383418960_845511822404616212_transcript-cant-rain-in-mondstadt.html)
 
 **Finding:** If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
 
@@ -1387,7 +1387,7 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 ## Electro Fog
 **By:** pai\#3602  
 **Added:** 2022-01-04  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922637382807846942/927770423368749116/transcript-electro-fog.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922637382807846942_927770423368749116_transcript-electro-fog.html)
 
 **Finding:**  
 Interactions with the Thunder Fog in The Thundering Wilds daily commission.  
@@ -1408,7 +1408,7 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 ## Boat Mechanics Addendum
 **By:** ElliMiku\#5071  
 **Added:** 2022-01-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921392473757069312/931429201175793674/transcript-boat-mechanics-addendum.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921392473757069312_931429201175793674_transcript-boat-mechanics-addendum.html)
 
 **Findings:**  
 General:  
@@ -1468,7 +1468,7 @@ Fluff, exploration, overworld survivability.
 ## Stuff Can Infuse Cryo
 **By:** Raven#9205  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/918031384122114048/934045834268532736/transcript-stuff-can-infuse-cryo.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918031384122114048_934045834268532736_transcript-stuff-can-infuse-cryo.html)
 
 **Finding:**  
 The Cryo element is able to be applied to many overworld objects, such as ores and animals. Additionally, it has been demonstrated that some overworld objects can hold Cryo without said Cryo being visible through elemental sight.
@@ -1483,7 +1483,7 @@ Largely fluff. However, the application of cryo does mean that some elemental re
 ## Electro Seelie Electro Application Vertical Range
 **By:** EatYourVeggies#7493  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933751514776891482/936079772323295282/transcript-electro-seelie-electro-application-vertical-range.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933751514776891482_936079772323295282_transcript-electro-seelie-electro-application-vertical-range.html)
 
 **Finding:**  
 Electro Seelie when on a mount, can apply Electro at any vertical range, but not when it has yet to reach its final destination.
@@ -1500,7 +1500,7 @@ More knowledge on Electro Seelie mechanics
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953743159119212594/transcript-phantom-phase-gates.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953743159119212594_transcript-phantom-phase-gates.html)  
 
 **Finding:**  
 Activated Phase Gates don't need to be visually present to allow travelers to phase through and travel to the opposite gate. This condition can be observed during a commission.  
@@ -1520,7 +1520,7 @@ Better understanding of Teyvat laws. Commissions don't remove Phase Gate interac
 
 **By:** Kurt\#5846  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964972311923011584/transcript-flying-anemo-slimes-have-hitboxes.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964972311923011584_transcript-flying-anemo-slimes-have-hitboxes.html)  
 
 **Finding:**  
 Flying Anemo Slimes and Bloaty Floaty bubbles have hitboxes and can move your characters.  
@@ -1536,7 +1536,7 @@ Mostly fluff.
 
 **By:** Magnus Artifex\#8719  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964969467669008434/transcript-paimon-hates-climbing.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964969467669008434_transcript-paimon-hates-climbing.html)  
 
 **Finding:**  
 After reaching a certain height in locations of The Chasm, Paimon will say some lines. Usually these are triggered when you try climbing up to a light source.  
@@ -1553,7 +1553,7 @@ Knowledge about the world and maps of the game.
 
 **By:** Beast Boy\#2560  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964955562846609530/transcript-fishing-spot-prompt.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)  
 
 **Finding:**  
 Fishing Spots do not seem to check height before displaying the prompt. It is possible to view the prompt \(but not catch fish\) from far above and below the fishing spot. In addition to this, it is possible to catch fish from underwater.  
@@ -1570,7 +1570,7 @@ Knowledge of game mechanics.
 
  **By:** makeway4pK\#3901  
  **Added:** 2022-04-16  
- [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964949380354412594/transcript-hanrocks.html)  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964949380354412594_transcript-hanrocks.html)  
 
  **Finding:**  
  The Spoutrocks introduced into the overworld with Chasm in patch 2.6, let you land your jump without taking fall damage regardless of height difference\(\+/\-\), as long as you don't:  
@@ -1598,7 +1598,7 @@ Relax and enjoy the ride, it's often safer and faster than plunging if you want 
 
 **By:** Pablos\#1142  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967840437182296104/transcript-properties-of-eagles.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967840437182296104_transcript-properties-of-eagles.html)  
 
 **Finding:**  
 Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.  
@@ -1614,7 +1614,7 @@ Fluff and documenting overworld mechanics.
 
 **By:** Beast Boy\#2560  
 **Added:** 2022-05-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977687335443529768/transcript-highest-places-in-teyvat.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977687335443529768_transcript-highest-places-in-teyvat.html)
 
 **Finding:**  
 Highest Places in Teyvat

@@ -14,7 +14,7 @@ search: false
 
 **By:** Raf\#7220  
 **Added:** 2021-05-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846329147081097246/848320878534328320/transcript-hatching-shields-dont-activate-petra.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846329147081097246_848320878534328320_transcript-hatching-shields-dont-activate-petra.html)
 
 **Finding:**  
 Geovishap Hatching shields don't activate the 4 Petra bonus
@@ -58,7 +58,7 @@ You cannot snapshot Cryo Resonance or the Blizzard Strayer set bonuses for abili
 
 **By:** Threvax\#0078  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879956675686187019/884464348364419082/transcript-does-blizzard-strayer-4-piece-set-bonus-work-on-first-cryo-application.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879956675686187019_884464348364419082_transcript-does-blizzard-strayer-4-piece-set-bonus-work-on-first-cryo-application.html)
 
 **Findings**:  
 4 piece Blizzard Strayer is not active on the hit that applies Frozen
@@ -79,7 +79,7 @@ Blizzard Strayer literally abbreviates to BS.
 
 **By:** Nass008\#8577  
 **Added:** 2021-09-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/884444524951273523/887180645799960586/transcript-4pc-bs-on-frozen-aura.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884444524951273523_887180645799960586_transcript-4pc-bs-on-frozen-aura.html)
 
 **Findings**:  
 Blizzard Strayer does not gain full crit rate bonus against frozen aura
@@ -112,7 +112,7 @@ Clarification of interaction between frozen aura and Blizzard Strayer set bonus.
 ### Blizzard Strayer Applies Crit Rate Before Reactions
 **By:** CrazyWeke123\#9720  
 **Added:** 2022-01-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929795759807795220/931148101698322453/transcript-blizzard-strayer-applies-crate-before-reactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929795759807795220_931148101698322453_transcript-blizzard-strayer-applies-crate-before-reactions.html)
 
 **Finding:**  
 Blizzard Strayer gives crit rate buff to reactions that would remove the cryo/frozen from the enemy.
@@ -223,7 +223,7 @@ t=18, buff deactivates
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
 **Finding:** Gaining a stack with the Crimson Witch set will refresh the duration of all previous stacks
 
@@ -235,7 +235,7 @@ t=18, buff deactivates
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
 **Finding:** Crimson Witch stacks remain after swapping characters.
 
@@ -283,7 +283,7 @@ Actual ratio: 947/1257=.75
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876370102969327646/877095662821449748/transcript-4p-gambler-procs-without-skill-on-cd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876370102969327646_877095662821449748_transcript-4p-gambler-procs-without-skill-on-cd.html)
 
 **Finding:**  
 Cooldown of 4p gambler effect starts on any dmg output from elemental skill.  
@@ -301,7 +301,7 @@ Knowledge.
 
 ### Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 * Husk 4p gains stack off-field even if you don't deal Geo damage - [Sylenwolf#5802](https://imgur.com/a/VTMGOzb)
 * Husk 4p stacks are gained when hitting an opponent with a Geo attack even when attacking shielded targets and dealing no damage. - [Wulfric Waifu Gachapon Lurker#5186](https://youtu.be/Mu_CGfIXpiY)
@@ -311,7 +311,7 @@ Knowledge.
 
 **By:** TheLocalMilkMan\#0813  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956009361489166336/transcript-husk-stacks-behave-exactly-as-advertised.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956009361489166336_transcript-husk-stacks-behave-exactly-as-advertised.html)  
 
 **Finding:**  
 * Stacks can be gained off-field after 3 seconds, the timer restarts after going on-field, it does not pause and continue.
@@ -332,7 +332,7 @@ Knowledge.
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-07-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864564549817597983/864796626060443658/transcript-4pc-instructor-only-procs-on-field.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864564549817597983_864796626060443658_transcript-4pc-instructor-only-procs-on-field.html)
 
 **Finding:**  
 Instructor user needs to be on the field to trigger the 4-set bonus
@@ -354,7 +354,7 @@ Make sure to land the reaction before swapping off the Instructor user.
 
 **By:** ItzSomebody\#0029  
 **Added:** 2021-07-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866197006732754945/867165516417335296/transcript-instructor-duration-extend.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866197006732754945_867165516417335296_transcript-instructor-duration-extend.html)
 
 **Finding:**  
 Triggering another reaction during 4pc instructor buff extends duration of buff
@@ -369,7 +369,7 @@ The buff time can be extended by swapping back into the carrier and triggering a
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894835774149779546/899112347862433822/transcript-4in-doesnt-apply-to-triggering-hit.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894835774149779546_899112347862433822_transcript-4in-doesnt-apply-to-triggering-hit.html)
 
 **Finding:**  
 4pc Instructor set doesn't apply to the hit/reaction that causes it.
@@ -390,7 +390,7 @@ Damage calculation
 
 **By:** elijam\#7142  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/898398553783799848/899200243520917524/transcript-4ins-doesnt-proc-on-environmental-or-self-rxns.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898398553783799848_899200243520917524_transcript-4ins-doesnt-proc-on-environmental-or-self-rxns.html)
 
 **Finding:**  
 The 4pc Instructors set bonus will not be activated by reactions with non enemies triggered by the holder, including reactions triggered on characters.
@@ -446,7 +446,7 @@ Above numbers have being subtracted from 150 \(started with that hp before heali
 
 **By:** gtrain\#9987  
 **Added:** 2021-09-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876190240774172692/890105896015912960/transcript-self-4no-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876190240774172692_890105896015912960_transcript-self-4no-interactions.html)
 
 **Finding:**  
 Documentation for all units on whether their own 4no set affects their burst.
@@ -467,7 +467,7 @@ Whether you should run 4NO.
 
 ### Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 * Bubble Damage is considered as Physical Damage and can be boosted by Superconduct and other sources of Physical Resistance Reduction. - [CC\#5588](artifacts.md#bubble-damage-is-physical-damage)
 *  All healing coming from the set wielder gets calculated for the Bubble Damage including overflow heals of any degree. - [CC\#5588](artifacts.md#all-healing-by-set-wielder-affects-bubble-damage-including-overflow)
@@ -486,7 +486,7 @@ Whether you should run 4NO.
 
 **By:** CC\#5588  
 **Added:** 2021-12-21  
-[Basic Mechanics Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
+[Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 **Finding:**  
 Bubble Damage is considered as Physical Damage and can be boosted by Superconduct and other sources of Physical Resistance Reduction
@@ -511,7 +511,7 @@ Zhongli Shred = -20% physical resistance
 ### All Healing by Set Wielder Affects Bubble Damage Including Overflow
 **By:** CC\#5588  
 **Added:** 2021-12-21  
-[Basic Mechanics Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
+[Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 
 **Finding:**  
@@ -546,7 +546,7 @@ This means that all healing from the set wielder, whether the set wielder is on 
 ### Limit for Bubble Count On Field is Shared while ICD is Not
 **By:** CC\#5588  
 **Added:** 2021-12-21  
-[Basic Mechanics Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912804514208317501/923003367758917662/transcript-husk-ohc-mechanics.html)
+[Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912804514208317501_923003367758917662_transcript-husk-ohc-mechanics.html)
 
 **Evidence:**  
 [Youtube](https://youtu.be/FQOF4aTiEVw) | [Imgur](https://imgur.com/a/UQmjlPc)
@@ -557,7 +557,7 @@ The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on 
 
 **By:** Juslin\#7989  
 **Added:** 2022-01-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/936689990153408512/936792177617563698/transcript-ohc-will-not-shatter.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936689990153408512_936792177617563698_transcript-ohc-will-not-shatter.html)  
 
 **Finding:**  
 4OHC's physical damage is not a blunt hit and will not shatter frozen enemies.  
@@ -572,7 +572,7 @@ The clip from 0:00 - 0:17 and 0:34 onwards shows that only one bubble can be on 
 ### Extensive Look at What Heals Count for OHC  
 **By:** Juslin\#7989  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932006153481777233/945074133383938108/transcript-ohc-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932006153481777233_945074133383938108_transcript-ohc-mechanics.html)  
 
 **Finding:**  
 OHC procs on a lot on non-conventional types of healing, this ticket aims to document that.
@@ -619,7 +619,7 @@ Better understanding of OHC and what it benefits from.
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
 **Finding:** the stacks (and their related effects) generated by hitting enemies with elemental skill damage by the 4-piece Pale Flame artifact set persist after swapping characters.
 
@@ -631,7 +631,7 @@ Better understanding of OHC and what it benefits from.
 
 **By:** Zozer\#1782  
 **Added:** 2021-06-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/854261942448554004/856798949322784788/transcript-4pc-pale-flame-duration-refresh.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854261942448554004_856798949322784788_transcript-4pc-pale-flame-duration-refresh.html)
 
 **Finding:** Duration of 1st 4pc Pale Flame stack will reset upon receiving 2nd stack if the 1st stack hasn't expired yet.
 
@@ -643,7 +643,7 @@ Better understanding of OHC and what it benefits from.
 
 **By:** Adra | Beats by Ei\#0024 and Agent_Eon\#8245  
 **Added:** 2021-11-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903457737843806259/906417456615153694/transcript-4-pf-dmg-window.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903457737843806259_906417456615153694_transcript-4-pf-dmg-window.html)  
 
 **Finding:**  
 4pc PF buff does NOT buff the hit that triggered it, nor any hits following the trigger within a small window. The timing for when the buff begins is ping dependent.
@@ -667,7 +667,7 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 
 **By:** Greyhound\#7836  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855433084420489252/858194419470303252/transcript-library-completion-2.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855433084420489252_858194419470303252_transcript-library-completion-2.html)
 
 **Finding:** The 2-piece effect of the Retracing Bolide artifact set only works on the character equipping the artifact set; if the character using the set creates a shield and then swaps, the shield strength bonus will *not* persist.
 
@@ -681,7 +681,7 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 
 **By:** Silvershine2\#5439  
 **Added:** 2021-05-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842423144845541446/845513030804832296/transcript-4pc-tom-procs-against-shielded-enemies.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842423144845541446_845513030804832296_transcript-4pc-tom-procs-against-shielded-enemies.html)
 
 **Theory:** The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage
 
@@ -696,7 +696,7 @@ Values were tested and compared with sheet calcs at multiple ping levels, but I 
 
 **By:** WinJ\#9420  
 **Added:** 2021-08-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877837766946357279/878174472325169173/transcript-multiple-tom-wielder-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877837766946357279_878174472325169173_transcript-multiple-tom-wielder-interactions.html)
 
 **Theory:**  
 The 4pc effect of Tenacity of the Millelith does not stack and its duration can be reset.
@@ -723,7 +723,7 @@ Evidence: [1](https://i.imgur.com/M5nK6Ne.jpeg) [2](https://imgur.com/a/cscnlJM)
 
 **By:** Episodde\#8962  
 **Added:** 2021-08-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876725060554080287/880927102097055764/transcript-energy-drain-effects-have-a-delay.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876725060554080287_880927102097055764_transcript-energy-drain-effects-have-a-delay.html)
 
 **Theory:**  
 Shimenawa Set energy drain also do not happen immediately. There is about a 7-frame delay (can be more depend on latency) from the moment your character elemental skill is used to when you character actually lose energy.
@@ -996,7 +996,7 @@ Tiny Miracle is equipped and you don't get RES% buff until after shield is broke
 
 **By:** SirBoi\#1101  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857278005424422952/858328123144798249/transcript-4vv-res-shred-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857278005424422952_858328123144798249_transcript-4vv-res-shred-mechanics.html)
 
 **Findings:**  
 Viridescent Venerer’s RES shred passive only buffs Swirl DMG against an enemy with a pre-existing aura.
@@ -1088,7 +1088,7 @@ Theory was confirmed. See video for evidence.
 
 **By:** Faranight\#0001  
 **Added:** 2021-04-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834024269108477952/834325299373801492/transcript-vv-on-ec-and-frozen.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834024269108477952_834325299373801492_transcript-vv-on-ec-and-frozen.html)
 
 **Theory:** Viridescent Venerer's 4-piece set effect can not only trigger multiple times for different elements, allowing you to stack debuffs, but it can also trigger two debuffs in a single anemo attack against Electro-Charged or Frozen targets.
 
@@ -1126,7 +1126,7 @@ The 4p bonus increases a lot Swirl damage. Despite the low base damage of Swirl,
 
 **By:** sigurd\#3854  
 **Added:** 2021-05-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840514985667199006/845531794307547186/transcript-4pc-vv-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840514985667199006_845531794307547186_transcript-4pc-vv-mechanics.html)
 
 **Finding:** 4 piece Viridescent Venerer \(vv\) only shreds if the wearer is onfield during a swirl that they trigger.
 
@@ -1179,7 +1179,7 @@ List of tests:
 
 **By:** Greyhound\#7836  
 **Added:** 2021-08-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878612062195036220/878613567186825266/transcript-vv-extended-by-hitlag.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_878612062195036220_878613567186825266_transcript-vv-extended-by-hitlag.html)
 
 **Theory:**  
 The 4pc set effect's duration can be extended by hitlag.
@@ -1195,7 +1195,7 @@ VV use optimization.
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-11-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903474489038348329/907446935747715102/transcript-talent-damage-and-vv-debuff-pepega-stuff.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903474489038348329_907446935747715102_transcript-talent-damage-and-vv-debuff-pepega-stuff.html)
 
 **Theory:**  
 VV RES Shred Applies after Talent Damage
@@ -1241,7 +1241,7 @@ For Sucrose, all this tells us there is some other stuff about, since we still d
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-12-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917958422505345075/923108796522455050/transcript-4vv-application-ping-dependency.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917958422505345075_923108796522455050_transcript-4vv-application-ping-dependency.html)  
 
 **Finding:**  
 4VV has two mechanics of applying it's debuff. One is applied on reaction to the primary target, while the other is applied in AoE via the secondary Swirl hitting enemies.
@@ -1266,7 +1266,7 @@ In high ping circumstances, the debuff may apply late to enemies in an AoE and b
 
 **By:** ProfHugo\#6478  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856901008667443211/858418320973365258/transcript-breakpoints-for-2inst2wt-vs-4tfcw.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856901008667443211_858418320973365258_transcript-breakpoints-for-2inst2wt-vs-4tfcw.html)
 
 **Finding:**  
 For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
@@ -1286,7 +1286,7 @@ For characters building around triggering transformative reactions, if they do n
 
 **By:** elijam\#7142  
 **Added:** 2021-07-15  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860290744102158356/865148427524636672/transcript-breakpoints-for-2wt2ins-vs-4vv.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_860290744102158356_865148427524636672_transcript-breakpoints-for-2wt2ins-vs-4vv.html)
 
 **Finding:**  
 4VV swirl damage set bonus is more valuable than 104 EM at 304 initial EM from artifact main stats, artifact subs, weapon secondary stats and passives, and ascension; 160EM at 842 initial EM; and 200EM at 1168 initial EM; when only swirl damage is taken into account.  
@@ -1332,7 +1332,7 @@ Substats are distributed evenly except for flat Def for some reason, which is si
 
 **By:** Tsym\#2586  
 **Added:** 2021-04-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804854174910382120/834295144437645322/transcript-uneven-subs-distribution.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804854174910382120_834295144437645322_transcript-uneven-subs-distribution.html)
 
 **Theory:** Substats for artifacts are unevenly distributed, with flat substats weighted higher than other substats, and crit substats weighted lower than other substats.
 
@@ -1358,7 +1358,7 @@ More data would be needed to reach stronger conclusions. As of right now, there'
 
 **By:** Tibo\#4309  
 **Added:** 2021-11-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/905591237363507230/906363383505379348/transcript-interruption-can-cause-artifact-stacks.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905591237363507230_906363383505379348_transcript-interruption-can-cause-artifact-stacks.html)  
 
 **Finding:**  
 You can gain artifact stacks or trigger artifact set effects that occur on Elemental Skill cast, even while getting interrupted during the cast.  

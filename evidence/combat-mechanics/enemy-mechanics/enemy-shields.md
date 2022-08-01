@@ -51,7 +51,7 @@ Fatui armor breaks mostly off elemental reactions and armor breaking effectivene
 
 **By:** Rainfury\#8343  
 **Added:** 2022-03-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/948225177748131840/transcript-fatui-shields-and-aura-interaction.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_948225177748131840_transcript-fatui-shields-and-aura-interaction.html)  
 
 **Finding:**  
 Some foreign auras can exist on certain Fatui when their armor is up. These auras can have funny interactions when trying to shieldbreak. Also doing some slightly more detailed testing with some armor.
@@ -196,7 +196,7 @@ The detailed explanation with calculations can be found here: [https://docs.goog
 
 **By:** Yukarix\#6534, Ayzel\#7399, Bobrokrot\#0111, srl\#2712  
 **Added:** 2021-06-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838292328292024330/850595853152550922/transcript-abyss-lector-shield-pyro-vs-cryo.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838292328292024330_850595853152550922_transcript-abyss-lector-shield-pyro-vs-cryo.html)
 
 **Finding:**  
 Pyro and cryo appear to be equally effective in terms of efficiency at depleting the shield of an Abyss Lector. This finding does not account for whether there are more pyro or cryo units that have the ability to apply their respective elements at a fast rate. It only accounts for the fact that 1GU of cryo deals the same damage to the Abyss Lector as 1GU of pyro.
@@ -219,7 +219,7 @@ If you have pyro or cryo units that have fast elemental application, using one o
 
 **By:** vibe checker\#5502  
 **Added:** 2021-06-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839522017602568202/850623736780423209/transcript-an-extensive-look-into-shield-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839522017602568202_850623736780423209_transcript-an-extensive-look-into-shield-damage.html)
 
 **Finding:**  
 Damage to enemy shields is affected by three main formulas, which are summed for final damage: Reaction Cost, Damage Cost and Poise Damage Cost. All info was accumulated from the wiki and individual testing
@@ -232,7 +232,7 @@ There are pages on the wiki that already detail this information, however I crea
 
 **By:** Silvershine2#5439  
 **Added:** 2021-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846051562517168218/854022298591821844/transcript-blocked-crit-hit-procs.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846051562517168218_854022298591821844_transcript-blocked-crit-hit-procs.html)
 
 **Finding:**  
 Attacks blocked by enemy shields are still counted at scoring a critical hit and therefore activate abilities with a crit hit as condition
@@ -285,7 +285,7 @@ Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the 
 
 **By:** vibe checker#5502  
 **Added:** 2021-06-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/853125058965012500/857665782640803840/transcript-transformative-damage-on-shields.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853125058965012500_857665782640803840_transcript-transformative-damage-on-shields.html)
 
 **Finding:**  
 Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.

@@ -8,7 +8,7 @@ search: false
 
 **By:** BowTae#0141  
 **Added:** 2021-10-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891494658901938176/894254618190700575/transcript-collision-jump.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891494658901938176_894254618190700575_transcript-collision-jump.html)
 
 **Finding:**  
 Certain situations allow for characters to jump and land faster by colliding with something that stops them from moving upwards. Situations include overworld objects, certain enemies, and Geo MC and Zhongli constructs.

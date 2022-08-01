@@ -29,7 +29,7 @@ It's possible to get 100%+ guoba uptime on Xiangling using 4TF. This also shows 
 
 **By:** Terrapin\#8603  
 **Added:** 2021-06-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857660346865418271/858142156248973312/transcript-guoba-self-apply-pyro.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857660346865418271_858142156248973312_transcript-guoba-self-apply-pyro.html)  
 
 **Finding:**  
 In line with previous evidence that was non-conclusive, it appears that Guoba actually does apply Pyro to himself whenever he attacks.  If you time an AoE Anemo ability with his flame attack, it will cause a Pyro Swirl off of Guoba.  
@@ -63,7 +63,7 @@ It is possible to significantly boost the total damage of Xiangling's ultimate \
 
 **By:** Visc\#5095, Raf\#7220, CQLQRS\#7853, and phaZ\#6461  
 **Added:** 2022-01-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/906802193846398977/923113252932710420/transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906802193846398977_923113252932710420_transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)  
 
 **Finding:**  
 Xiangling Pyronado has an enemy specific lock that lasts about 36f or 0.6s or 180 degrees. It is observed to constantly deal damage in 36f intervals which correspond to half a rotation.  
@@ -87,7 +87,7 @@ These data sheds light onto Pyronado mechanics and how to maximize their burst d
 
 **By:** elijam\#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 
 **Finding:**  
 Xiangling’s C2 damage instance has no ability type scaling tags.  
@@ -105,7 +105,7 @@ Damage calculations for Xiangling.
 
 **By:** yeow\#5090  
 **Added:** 2021-09-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881815299911991327/883372595184037918/transcript-xiangling-c2-no-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881815299911991327_883372595184037918_transcript-xiangling-c2-no-snapshot.html)  
 
 **Finding:**  
 Xianglings C2 does not snapshot.  
@@ -122,7 +122,7 @@ DMG calculation.
 
 **By:** Sayline\#5959  
 **Added:** 2021-08-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/879354525109092393/880924273764618240/transcript-xl-no-c6-buff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879354525109092393_880924273764618240_transcript-xl-no-c6-buff.html)  
 
 **Finding:**  
 Pyronado does not benefit from XL C6.  
@@ -143,7 +143,7 @@ Guoba > Pyronado
 
 **By:** Mcpie\#8672  
 **Added:** 2021-06-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855560609491320843/856671767506190356/transcript-pyronado-is-unable-to-destroy-cryo-regisvine-shield-with-a-single-cast.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855560609491320843_856671767506190356_transcript-pyronado-is-unable-to-destroy-cryo-regisvine-shield-with-a-single-cast.html)  
 
 **Finding:**  
 Xiangling's pyronado applies only 1U to Cryo Regisvine's shield over it's duration.  
@@ -158,7 +158,7 @@ Don't rely on pyronado alone to destroy Cryo Regisvine's shield
 
 **By:** Ayzel\#7399 & friends  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845723930978418758/858187557295620126/transcript-hu-tao-xiangling-vape.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845723930978418758_858187557295620126_transcript-hu-tao-xiangling-vape.html)  
 
 **Finding:**  
 With both Hu Tao and Xiangling in the same team utilizing Xingqiu to reverse vaporize their attacks, Xiangling will trigger reverse vaporize on 60% of her pyronado hits, while Hu Tao will trigger reverse vaporize on 23.5% of her N1 attacks, 49% of her charged attacks, and 59% of her Blood Blossom Hits.  
@@ -174,7 +174,7 @@ Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy com
 
 **By:** yeow\#5090  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882129372109234196/884479728491298876/transcript-gooba-gets-his-own-4cw.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882129372109234196_884479728491298876_transcript-gooba-gets-his-own-4cw.html)  
 
 **Theory:**  
 Guoba snapshots the CW stack on cast.  
@@ -189,7 +189,7 @@ DMG calculation.
 
 **By:** euphorysm\#6156  
 **Added:** 2021-12-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902775337618927616/919076320946827305/transcript-pyronado-direction-mechanic.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902775337618927616_919076320946827305_transcript-pyronado-direction-mechanic.html)  
 
 **Finding:**  
 It has been found that if you use Xiangling's Q and then use certain characters' attacks when the Pyronado is in a specific position, it can begin rotating the opposite way. The attack has to be used when the Pyronado is somewhere in the direction in which they "dodge" or "shift".  

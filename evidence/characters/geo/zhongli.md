@@ -20,7 +20,7 @@ search: false
 
 **By:** TunaPotato\#9114  
 **Added:** 2021-09-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891048091225038888/891127648288383026/transcript-zhongli-pillar-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891048091225038888_891127648288383026_transcript-zhongli-pillar-mechanics.html)
 
 **Finding 1:**  
 Construct resonance hits as many times as there are constructs
@@ -45,7 +45,7 @@ In other words having two pillars from c1 will double the damage from resonance.
 ### Zhongli RES Shred Lingers
 **By:** clrE\#6290  
 **Added:** 2022-01-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928609238002053131/931322938953728050/transcript-zhongli-shred-linger.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928609238002053131_931322938953728050_transcript-zhongli-shred-linger.html)
 
 **Finding:**  
 Zhongli's shield RES shred lingers for a bit after it breaks/ends.
@@ -59,7 +59,7 @@ Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fisc
 ### Zhongli RES Shred Range
 **By:** Xreejan\#1180  
 **Added:** 2022-03-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951176607496806440/transcript-zhongli-res-shred-range.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951176607496806440_transcript-zhongli-res-shred-range.html)  
 
 **Finding:**  
 The range of Zhongli's Resistance Shred is approximately 3 Abyss tiles.  
@@ -74,7 +74,7 @@ Can help players prevent DPS loss when playing ranged units.
 
 **By:** Xreejan\#1180 and Latiwings\#3308  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955608390418186290/transcript-zhongli-pillar-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955608390418186290_transcript-zhongli-pillar-snapshot.html)  
 
 **Finding:**   
 Zhongli Stele Snapshot Mechanics.
@@ -93,7 +93,7 @@ Further understanding of Stone Steles.
 
 **By:** Latiwings\#3308, Potade\#9775, and Xreejan\#1180  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958519117839757373/transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958519117839757373_transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)  
 
 **Finding:**  
 4TotM \(+20% ATK\) does not affect the Tap E or Hold E that procs it, because Zhongli E Snapshots. Neither the Stone Stele nor the Resonance DMG is buffed by 4TotM.  
@@ -123,7 +123,7 @@ Understand how Zhongli E and Tenacity interact, which affects the calculation fo
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958503937697275984/transcript-geo-construct-test.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958503937697275984_transcript-geo-construct-test.html)  
 
 **Finding:**  
 Zhongli's Stone Stele can resonate with the Rock Pillars created by a Geo Samachurl, but it does not resonate with the Rock Spikes they use to attack.  
@@ -142,7 +142,7 @@ Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and c
 
 **By:** Empyress\#9451  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962026867236417586/transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
 
 **Finding:**  
 Zhongli's Geo Construct placement seems to have a specific height difference past which it will not place the pillar at the lower level and instead just destroy it.  
@@ -163,7 +163,7 @@ Knowing more about Geo Construct spawn conditions at different heights.
 
 **By:** 3b00d\_09\#2235  
 **Added:** 2021-04-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837172595202719794/837181219086401536/transcript-zhongli-a1-exploration.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837172595202719794_837181219086401536_transcript-zhongli-a1-exploration.html)
 
 Credits to JonahFarc\#7056 for helping me figure out how this works.
 
@@ -205,7 +205,7 @@ This allows for more accurate Zhongli shield calculations, as well as any future
 
 **By:** JonahFarc\#7056  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836279063760732201/836642776217026620/transcript-zhongli-a1-no-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836279063760732201_836642776217026620_transcript-zhongli-a1-no-icd.html)
 
 **Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
 
@@ -219,7 +219,7 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 
 **By:** Latiwings\#3308  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893176410301141012/899029975208964147/transcript-zhongli-shield-tech.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893176410301141012_899029975208964147_transcript-zhongli-shield-tech.html)
 
 **Finding:**  
 Zhongli's shield tech  
@@ -246,7 +246,7 @@ Shield management.
 
 **By:** Midori\#2173  
 **Added:** 2021-04-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834400006948782090/834658055391150150/transcript-zhongli-c2-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834400006948782090_834658055391150150_transcript-zhongli-c2-mechanics.html)
 
 **Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
 
@@ -285,7 +285,7 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 
 **By:** Lowy\#7647  
 **Added:** 2021-05-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839089619743539230/840068304864280586/transcript-4pc-tom-zhongli-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  
 4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar

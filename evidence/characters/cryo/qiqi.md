@@ -14,7 +14,7 @@ search: false
 
 **By:** Ayzel\#7399  
 **Added:** 2021-04-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832474168297259028/835378635598594058/transcript-qiqi-talisman-healing-conditions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832474168297259028_835378635598594058_transcript-qiqi-talisman-healing-conditions.html)
 
 **Finding:**
 
@@ -38,7 +38,7 @@ Shows how Qiqi's talisman interacts with sources of damage.
 
 **By:** Dooners#6709  
 **Added:** 2021-09-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/889381442432409630/890102971847815228/transcript-qiqi-talisman-healing-doesnt-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889381442432409630_890102971847815228_transcript-qiqi-talisman-healing-doesnt-snapshot.html)
 
 **Finding:**  
 Qiqi healing from applying talisman is dynamically based on current atk, and cannot snapshot atk buffs
@@ -58,7 +58,7 @@ The timing of applying the talisman does not matter at all, all that matters is 
 
 **By:** Nass008#8577  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895729399729623060/899174324060192798/transcript-qiqi-talisman-0-damage-healing.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895729399729623060_899174324060192798_transcript-qiqi-talisman-0-damage-healing.html)
 
 **Finding:**  
 Even moves that deal 0 damage (therefore no scaling with stats) can still trigger Qiqi’s talisman healing
@@ -81,7 +81,7 @@ Additional insight on how game consider to be "taking damage" (which is not cons
 
 **By:** Nass008\#8577, NZPIEFACE\#8439  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895389894145355836/899122969400475648/transcript-qiqi-talisman-healing-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895389894145355836_899122969400475648_transcript-qiqi-talisman-healing-icd.html)  
 
 **Finding:**  
 Healing from Fortune-Preserving Talisman (Qiqi Q) has cooldown (approximately 1 second).
@@ -112,7 +112,7 @@ Clarification on Qiqi's healing mechanics
 
 **By:** Sir_pick_the_prick#2209, Nass008#8577, denmax#9293, Creepah#9480  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864092495369338900/884489611034890280/transcript-qiqi-copium-overdrive.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864092495369338900_884489611034890280_transcript-qiqi-copium-overdrive.html)
 
 **Finding:**  
 

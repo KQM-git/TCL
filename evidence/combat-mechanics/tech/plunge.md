@@ -27,7 +27,7 @@ since plunges do damage to it. Hard staggering an Abyss mage might be another us
 
 **By:** BowTae#0141 and GottaGoFast#7876  
 **Added:** 2021-10-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896163835248001034/902207648726908938/transcript-no-dash-dragonstrike.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896163835248001034_902207648726908938_transcript-no-dash-dragonstrike.html)  
 
 **Finding:**  
 You can jump right before the hitlag occurs on certain moves, giving you enough height to plunge. This is similar to Dragonstrike, but does not require dashing first. This is frame rate dependent as for some of the moves listed below, we were only able to do the tech at 30 fps and not 60 fps. The list is also not exhaustive and there may have been some that we missed out on.
@@ -58,7 +58,7 @@ You are able to do the equivalent of Dragonstrike without needing to spend stami
 
 **By:** BowTae#0141  
 **Added:** 2021-10-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/886080851354480651/896124791394820106/transcript-standing-plunge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_886080851354480651_896124791394820106_transcript-standing-plunge.html)
 
 **Finding:**  
 Occasionally, tall characters are able to jump high enough on flat ground to plunge or glide. This can be done with all current tall characters (patch 2.1) and does not require any movement speed buffs. Works while in landing, idle, and jogging animation, with no specific frames that guarantee a plunge. Does not work while canceling an attack with jump, as the jump height is lower.
@@ -93,7 +93,7 @@ Theoretical way to get a plunge attack with zero setup required, but most likely
 
 **By:** BowTae#0141  
 **Added:** 2021-10-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/886679130878390322/896124748726149130/transcript-switch-plunge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_886679130878390322_896124748726149130_transcript-switch-plunge.html)
 
 **Finding:**  
 It is possible to jump in the window that occurs before a character switches. Depending on the ping, this window is large enough to gain enough height for the entering character to then jump again and plunge. Confirmed doable at 28ms to 130ms ping so far, but should be possible at higher pings too. Works on PC, console, and mobile.

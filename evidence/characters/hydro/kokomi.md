@@ -33,7 +33,7 @@ search: false
 
 **By:** Some Proselytizer#8340  
 **Added:** 2021-10-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890763855679082536/902020447338643456/transcript-kokomi-n2-delay-bug.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890763855679082536_902020447338643456_transcript-kokomi-n2-delay-bug.html)  
 
 **Finding:**  
 Kokomi N2 sometimes gets a delay when doing N2 walk cancels.  
@@ -67,7 +67,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 ### Infinite Jellyfish Extension
 **By:** Steno#0119  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934084290352930969/936219344843718656/transcript-infinite-jellyfish-extension.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934084290352930969_936219344843718656_transcript-infinite-jellyfish-extension.html)
 
 **Finding:**  
 While Kokomi's E does not normally snapshot the damage bonus from her Q, it is possible to snapshot it by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
@@ -82,7 +82,7 @@ Who doesn't love some obscure Kokomi tech.
 
 **By:** Tibo#4309    
 **Added:** 2021-10-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890281986105696266/902798398757928970/transcript-kokomis-jellyfish-is-uninterruptible.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890281986105696266_902798398757928970_transcript-kokomis-jellyfish-is-uninterruptible.html)  
 
 **Finding:**  
 Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
@@ -112,7 +112,7 @@ Can have higher Artifact set effect uptime and stacks, but at the cost of gettin
 
 **By:** awe778#1618  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/891097097078730823/899138392359583824/transcript-kokomi-q-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891097097078730823_899138392359583824_transcript-kokomi-q-snapshot.html)  
 
 **Finding:**  
 Bake-Kurage can snapshot the DMG Bonus from Kokomi's Burst if Kokomi switches immediately after casting Kurage's Oath.
@@ -131,7 +131,7 @@ This can potentially change Kokomi's Burst rotations due to the ability to snaps
 
 **By:** Kurt\#5846  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962109619050786918/transcript-kokomi-q-does-not-resnapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962109619050786918_transcript-kokomi-q-does-not-resnapshot.html)  
 
 **Finding:**  
 The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot upon Q cast, but does gain additional damage from her Q.  
@@ -147,7 +147,7 @@ The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot
 
 **By:** Ieah.\#2212  
 **Added:** 2022-05-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/977696445069131776/transcript-kokomi-a1-description-is-misleading.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977696445069131776_transcript-kokomi-a1-description-is-misleading.html)
 
 **Finding:**  
 Sangonomiya Kokomi's Ascension 1 talent, Tamanooya's Casket, is misleadingly worded. In the character description, it states that "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses Nereid's Ascension, the Bake-Kurage's duration will be refreshed", which implies it has to only be on-field the frame she uses Nereid's Ascension, however this is incorrect. The actual refresh timing requires the jellyfish to be on field the frame her burst animation finishes, or else you will lose the refresh.
@@ -200,7 +200,7 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 
 **By:** bobo\#8267  
 **Added:** 2022-06-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/987115125821554758/transcript-kokomi-c2-clarification.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_987115125821554758_transcript-kokomi-c2-clarification.html)
 
 **Finding:**  
 Kokomi C2 is applied as flat healing, similar to Yunjin and Shenhe with damage. It is not applied to the heal bonus part of calculations, as the description makes it sound like.

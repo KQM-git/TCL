@@ -10,7 +10,7 @@ search: false
 
 **By:** Monochrom9\#8058  
 **Added:** 2021-06-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842230647569514516/855295698118901840/transcript-weapon-gauge-theory.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842230647569514516_855295698118901840_transcript-weapon-gauge-theory.html)
 
 **Finding:**  
 Weapon infusions that are not explicitly stated to be "unable to be overwritten" operate through applying
@@ -34,7 +34,7 @@ from other types of elemental application, and similar to Self-auras, can oscill
 
 **By:** OAKUM\#0832  
 **Added:** 2021-07-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860818239135547413/862658895611953162/transcript-arrows-are-self-applied-aura-entities.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_860818239135547413_862658895611953162_transcript-arrows-are-self-applied-aura-entities.html)  
 
 **Finding:** Arrows are self-applied aura entities.  
 

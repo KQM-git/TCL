@@ -74,7 +74,7 @@ Overall useful information for people looking to clear abyss/domains
 
 **By:** snorting salt#3888  
 **Added:** 2021-07-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865014289025466392/865729755093008415/transcript-bubble-persists-on-swap.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
 The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic can be effectively iframed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds
@@ -91,7 +91,7 @@ Dash iframes do not always work against the bubbles, especially for the abyss ma
 ### CO-OP Hydro Abyss Mage Bubble  
 **By:** Prototype\#1337  
 **Added:** 2022-01-27  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934205594070548490/936445344600956988/transcript-co-op-hydro-abyss-mage-bubble.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934205594070548490_936445344600956988_transcript-co-op-hydro-abyss-mage-bubble.html)  
 
 **Finding:**  
 You can't pierce through the Hydro Abyss Mage bubbles when they trap other players in CO-OP.
@@ -112,7 +112,7 @@ Based on the evidence provided, it is clearly shown that other players (includin
 
 **By:** Yurina Maekawa#6585  
 **Added:** 2021-08-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874182515840155648/878190059038335056/transcript-black-aura-data.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874182515840155648_878190059038335056_transcript-black-aura-data.html)
 
 **Findings:**  
 This entry was opened to know the values of the black auras you can find in abyss and Inazuma bounties, which release a shockwave of a random element (although, just like with Geovishaps, this element is already determined before the battle even starts), so far, only Hydro, Electro and Cryo black auras have appeared in the game.
@@ -147,7 +147,7 @@ Early understanding about this strange **Black Aura**, now known officially as "
 
 **By:** #Kourinn\#6001  
 **Added:** 2021-10-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/897826161055379466/904520062487126027/transcript-targeting-ignores-hitbox.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897826161055379466_904520062487126027_transcript-targeting-ignores-hitbox.html)
 
 **Finding/Theory:**  
 The targeting point for targeted skills (which is everything except bow aim shot as far as I am aware) is not the center of the enemy hitbox. Instead, the target point is set arbitrarily per enemy per animation.  
@@ -165,7 +165,7 @@ Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge A
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929743744322912316/945093554731102290/transcript-miasmic-tumour.html)   
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929743744322912316_945093554731102290_transcript-miasmic-tumour.html)   
 
 **Finding:**  
 A list of findings regarding the [Miasmic Tumor](../../../enemy-data/miscellaneous/miasmic-tumor.md#miasmic-tumor)
@@ -229,7 +229,7 @@ Documentation of this bosses attacks and interactions.
 
 **By:** Bobrokrot\#0111  
 **Added:** 2022-02-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945473947456131152/transcript-raiden-boss-resistances.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945473947456131152_transcript-raiden-boss-resistances.html)  
 
 **Finding:**  
 The new world boss Magatsu Mitake Narukami no Mikoto has a base 10% resistance for all types of damage, gains +200% in the armored state (210% total) and loses -60% in the stunned state (-50% total).  
@@ -246,7 +246,7 @@ This knowledge will allow us to concoct strategies on how to defeat Magatsu Mita
 
 **By:** Wesu\#8719  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953726835890487376/transcript-coral-defender-orb-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953726835890487376_transcript-coral-defender-orb-mechanics.html)  
 
 **Findings:**  
 The energy burn orbs from Coral Defenders have 1 instance of damage. This damage is made up by a Base DMG part \(which can be blocked by a shield\) and a DMG part that is based on how much excess energy burn was dealt \(unblockable, goes through shields\). Each orb does 30 energy damage, if you get hit by the orb while having less than 30 energy, the leftover energy burn gets converted to Elemental DMG, both the Base DMG and the excess energy burn are affected by DEF but not by RES. The energy burn orbs are capable of triggering Elemental Reactions, however in case of Amplifying Reactions they will only amplify the base DMG \(blockable\) part and not the excess energy DMG \(unblockable\) part.  
@@ -266,7 +266,7 @@ It was previously assumed that the damage is based on how much HP a character ha
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962129991452225576/transcript-coral-defenders-can-double-spike-in-abyss.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962129991452225576_transcript-coral-defenders-can-double-spike-in-abyss.html)  
 
 **Finding:**  
 As of the time of writing this, the TCL page for Coral Defenders states that the 2 vishaps cannot use the spike field attacks at the same time. This seems to be the case for the overworld herd.  
@@ -285,7 +285,7 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 
 **By:** pai\#3602  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/956016166516703252/transcript-golden-wolflord-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956016166516703252_transcript-golden-wolflord-mechanics.html)  
 
 **Findings:**  
 1. HP particles/orbs:

@@ -13,7 +13,7 @@ search: false
 
 **By:** Sir\_pick\_the\_prick\#2209  
 **Added:** 2021-05-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844058207151325224/846702340642701323/transcript-bennetts-hold-e-counts-as-self-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844058207151325224_846702340642701323_transcript-bennetts-hold-e-counts-as-self-damage.html)
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
 
@@ -79,7 +79,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 
 **By:** Asaki\#9139  
 **Added:** 2021-06-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844783206262636545/851385838486945812/transcript-benny-field-linger.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844783206262636545_851385838486945812_transcript-benny-field-linger.html)
 
 **Finding:**  
 Bennett's attack buff lingers for a bit after the visual of the circle fades away.
@@ -117,7 +117,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **By:** Bobrokrot\#0111  
 **Added:** 2021-06-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/849314783475662879/849873440848609290/transcript-bennett-c4-gauge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_849314783475662879_849873440848609290_transcript-bennett-c4-gauge.html)
 
 **Finding:** Bennet's C4 applies 1A of Pyro.
 
@@ -164,7 +164,7 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusio
 
 **By:** Neptunya\#8291  
 **Added:** 2021-07-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/863515307363532850/863517152987185162/transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
 
 **Finding:**  
 The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.  
@@ -179,7 +179,7 @@ Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shat
 
 **By:** bloodreign616#4766  
 **Added:** 2021-08-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877622028209889291/877811754002968576/transcript-bennett-c6-affects-ranged.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877622028209889291_877811754002968576_transcript-bennett-c6-affects-ranged.html)
 
 **Finding:**  
 Bennett C6 Pyro Damage Bonus affects Catalyst and Bow-wielders

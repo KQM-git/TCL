@@ -12,7 +12,7 @@ search: false
 
 **By:** BowTae#0141  
 **Added:** 2021-10-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890849433317683240/894209658531753984/transcript-arcc-writeup.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890849433317683240_894209658531753984_transcript-arcc-writeup.html)
 
 **Theory/Finding:**  
 Aimed R-Cancel Charged Shot (ARCC) is an animation cancel technique that removes all ending animation frames after firing a charged shot with bow characters. It is performed by firing a shot on the same frame that you exit aim toggle mode.
@@ -43,7 +43,7 @@ ARCC is the fastest known method for shooting a charged shot. When done rapidly,
 
 **By:** BowTae#0141  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883799215891972156/884452500617461820/transcript-arcc-autotarget.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883799215891972156_884452500617461820_transcript-arcc-autotarget.html)
 
 **Theory/Finding:**  
 ARCC shots will autotarget objects when within range. This range is the same as the character's normal attack tracking range.
@@ -62,7 +62,7 @@ When within autoattacking range of an enemy, where you aim does not matter for A
 
 **By:** BowTae#0141  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/892681715745710100/899116235403460638/transcript-hold-m1-double-shot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_892681715745710100_899116235403460638_transcript-hold-m1-double-shot.html)
 
 **Theory/Finding:**  
 Some characters are able to fire a second CA after doing hold M1 CA shot. This second shot has the same properties as ARCC shots.

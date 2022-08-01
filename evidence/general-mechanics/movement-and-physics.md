@@ -95,7 +95,7 @@ B-Hopping should be 3.5% faster than dash-chaining, waiting for full stamina, an
 
 **By:** Saltyfart\#8946  
 **Added:** 2021-05-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843282047161729034/845886074508804096/transcript-push-pull-effects.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843282047161729034_845886074508804096_transcript-push-pull-effects.html)
 
 **Finding:** push/pull effects are dynamic across team members
 
@@ -119,7 +119,7 @@ We can also see here that the boreas wolf push also applies multiple instances o
 
 **By:** Mcpie\#8672  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/831242042801389568/849905930174595072/transcript-dashing-off-a-cliff-speed-comparison.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_831242042801389568_849905930174595072_transcript-dashing-off-a-cliff-speed-comparison.html)
 
 **Methodology/Evidence:**
 
@@ -150,7 +150,7 @@ Results depending on position:
 
 **By:** Mcpie\#8672  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846494202334412901/849908480075628574/transcript-waypoint-teleportation-inconsistency.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846494202334412901_849908480075628574_transcript-waypoint-teleportation-inconsistency.html)
 
 **Finding:** Two possible findings:
 
@@ -173,7 +173,7 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 
 **By:** Mcpie\#8672  
 **Added:** 2021-06-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846504230898237480/851744572958310401/transcript-movement-speed-affects-dashing-horizontal-velocity.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846504230898237480_851744572958310401_transcript-movement-speed-affects-dashing-horizontal-velocity.html)
 
 **Finding:**  
 Movement speed affects dashing-off a cliff horizontal velocity
@@ -197,7 +197,7 @@ Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJ
 
 **By:** Mcpie#8672  
 **Added:** 2021-11-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/902943515452010516/904567719486169099/transcript-mvmnt-speed-stacks-additively.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902943515452010516_904567719486169099_transcript-mvmnt-speed-stacks-additively.html)  
 
 **Finding:**  
 Movement speed stacks additively.  
@@ -288,7 +288,7 @@ Other tests yielded an error of `<~0.02`, which is acceptable due to start/end v
 
 **By:** HK\#0001  
 **Added:** 2021-06-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/848227425379942411/851738303363547146/transcript-character-hitboxes.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848227425379942411_851738303363547146_transcript-character-hitboxes.html)
 
 **Finding:**  
 Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
@@ -305,7 +305,7 @@ By knowing this, hopefully we can have a better understanding about how far the 
 
 **By:** Fuzzy#5432  
 **Added:** 2021-06-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856824799057018880/857668248568332319/transcript-swimming-methods.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856824799057018880_857668248568332319_transcript-swimming-methods.html)
 
 **Finding:**  
 Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift. (Project inspired by u/lightmgl on Reddit)
@@ -359,7 +359,7 @@ Yet another way to initiate plunge attacks on even ground.
 
 **By:** Recovent#9620  
 **Added:** 2021-08-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/876024675489169438/882072456154722304/transcript-max-enemy-mvsp-decrease.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876024675489169438_882072456154722304_transcript-max-enemy-mvsp-decrease.html)
 
 **Finding:**  
 There is a limit to how much movement speed decreases one can do onto a mob. The limit seems to be an approximate of 80~85% decrease.
@@ -397,7 +397,7 @@ If there were ever characters that were able to decrease mob speed (and almost l
 ## Speed Comparsion Between Walk Jump And Continuous Walk  
 **By:** Mcpie#8672  
 **Added:** 2022-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929185303288217600/930052462809849876/transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185303288217600_930052462809849876_transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
 
 **Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
 
@@ -420,7 +420,7 @@ The ranking from fastest to slowest is:
 ## Size Does Not Matter 
 **By:** Mcpie#8672  
 **Added:** 2022-01-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/935300027952295957/936412064098955295/transcript-size-does-not-matter.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_935300027952295957_936412064098955295_transcript-size-does-not-matter.html)
 
 **Finding:**  
 Model skeleton height differences do not matter in movement (at least in walking forward).  
@@ -436,7 +436,7 @@ Picking a taller character of the same skeleton model will not increase the velo
 
 **By:** Pablos\#1142  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962133283083280384/transcript-elevator-affects-movement-speed.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962133283083280384_transcript-elevator-affects-movement-speed.html)  
 
 **Finding:**  
 When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.  

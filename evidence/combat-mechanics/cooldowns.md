@@ -25,7 +25,7 @@ CDR may be very beneficial for characters with multi-charge skills.
 
 **By:** mol\#3280  
 **Added:** 2021-05-06  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
 When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset.
@@ -42,7 +42,7 @@ Any serial-cooldown, multi-cast skill user may waste sacrificial procs by causin
 
 **By:** gengar\#8426  
 **Added:** 2021-09-06  
-[Disscussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/877833812992725043/884454377094537227/transcript-cd-reduction-double-burst.html)
+[Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877833812992725043_884454377094537227_transcript-cd-reduction-double-burst.html)
 
 **Finding:**  
 With sufficient CD reduction (Chongyun's ice field, anemo resonance, and 20% elemental burst CD reduction from a spiral abyss card), some characters with deployable bursts can have two bursts on field simultaneously.

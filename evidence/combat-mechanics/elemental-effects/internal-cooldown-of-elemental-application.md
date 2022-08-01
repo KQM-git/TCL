@@ -17,7 +17,7 @@ Submitted: 2021-02-26
 
 **By:** Isu\#6867  
 **Added:** 2021-05-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845447638719266826/848323323459928085/transcript-diluc-burst-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845447638719266826_848323323459928085_transcript-diluc-burst-icd.html)
 
 **Finding:**  
 Diluc's elemental burst follows a 5-hit rule on elemental application rather than the standard 3-hit rule.

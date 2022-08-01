@@ -30,7 +30,7 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 **By:** Peekays\#2722  
 **Added:** 2021-07-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865717842816532491/865808993149255710/transcript-fischl-c1-and-hod.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865717842816532491_865808993149255710_transcript-fischl-c1-and-hod.html)
 
 **Finding/Bug:** Both the summoning and re-summoning of Oz with E count as using an elemental skill.
 For example, they both trigger the 4pc heart of depth effect.
@@ -57,7 +57,7 @@ After HoD buff is gone:
 
 **By:** ItzSomebody\#0029  
 **Added:** 2022-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983426378366066748/transcript-fischl-energy-generation-correction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_983426378366066748_transcript-fischl-energy-generation-correction.html)
 
 **Finding:**  
 The probability that Oz generates a particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).  
@@ -76,7 +76,7 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 
 **By:** !K\#3689  
 **Added:** 2021-05-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839862552401674240/839936289129365625/transcript-fischl-ult-can-iframe.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839862552401674240_839936289129365625_transcript-fischl-ult-can-iframe.html)
 
 **Finding:** Fischl ult has a tiny window that you can use to iframe through attacks.
 
@@ -88,7 +88,7 @@ Fischl's Energy generation is better than previously thought. Most tools and gui
 
 **By:** Trosalio\#0420  
 **Added:** 2021-05-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839928261055348777/840369791340118016/transcript-oz-summoned-from-burst-uses-fischl-stats-when-swapped-out.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839928261055348777_840369791340118016_transcript-oz-summoned-from-burst-uses-fischl-stats-when-swapped-out.html)
 
 **Theory:**  
 When Fischl casts Midnight Phantasmagoria and then gets swapped out, she will leave Oz behind, who will take a snapshot of Fischl's stats the moment she leaves the field.
@@ -104,7 +104,7 @@ Not only do you need to be careful about Bennett's atk buff tick interval, but a
 
 **By:** Aluminum\#5462  
 **Added:** 2021-05-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846597421751861288/848319509987196928/transcript-fischl-a4-targets-closest-enemy.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846597421751861288_848319509987196928_transcript-fischl-a4-targets-closest-enemy.html)
 
 **Theory:**  
 Fischl's A4 Talent targets the closest enemy to the character, not necessarily the enemy on whom a reaction was triggered
@@ -118,7 +118,7 @@ This is something to keep in mind while managing enemy aura
 ### ICD/Gauges for Fischl's Burst and C4  
 **By:** ItzSomebody\#0029   
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940182051888443403/945082050417946624/transcript-fischl-burst-and-c4-icd-gauge-correction.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_940182051888443403_945082050417946624_transcript-fischl-burst-and-c4-icd-gauge-correction.html)  
 
 **Finding:**  
 Correction/Additions for ICD/Gauges for Fischl's Burst and C4
@@ -168,7 +168,7 @@ Corrects incorrect elemental gauges (at the time this ticket was submitted) list
 
 **By:** Apxllo\#2021  
 **Added:** 2002-02-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/937258971222409226/938438802664480778/transcript-fischl-a1-special-multiplier.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937258971222409226_938438802664480778_transcript-fischl-a1-special-multiplier.html)  
 
 **Finding:** 
 Fischl’s 1st Ascension Passive, Stellar Predator, is a raw multiplier (secondary talent multiplier) and not a usual DMG Bonus.  
@@ -203,7 +203,7 @@ Fischl’s 1st Ascension Passive: Stellar Predator is a raw multiplier to her Ai
 
 **By:** Terrapin\#8603  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835441879801004042/836654942710267944/transcript-fischl-a4-proc-rate.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835441879801004042_836654942710267944_transcript-fischl-a4-proc-rate.html)
 
 **Finding:**
 
@@ -223,7 +223,7 @@ Team building around enabling Fischl's damage output
 
 **By:** Aluminum\#5462  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834234321971183616/836410164386988092/transcript-possible-oz-issues-with-hutao.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834234321971183616_836410164386988092_transcript-possible-oz-issues-with-hutao.html)
 
 **Theory:**  
 Fischl's A4 has a range centered around the triggering character, which is generally greater for characters with ranged attacks. When an attack at the edge of the range triggers an electro-related reaction Fischl's A4 can fail to trigger. Deployables are factored in to the range as well, such as Beidou Q or Oz himself.
@@ -244,7 +244,7 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 
 **By:** Sed#0013  
 **Added:** 2021-07-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/803833656182702099/860780048758734888/transcript-fischl-c4-is-elemental-burst-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_803833656182702099_860780048758734888_transcript-fischl-c4-is-elemental-burst-damage.html)
 
 **Finding/Bug:** Fischl's Constellation 4 damage is considered burst damage.
 
@@ -257,7 +257,7 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 #### Fischl A4 And C6 Snapshot Mechanics
 **By:** sigurd#3854  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932192475035095090/933903141798293595/transcript-fischl-c4-and-c6-snapshot-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932192475035095090_933903141798293595_transcript-fischl-c4-and-c6-snapshot-mechanics.html)
 
 **Finding:**   
 Fischl's A4 and C6 uses snapshotted stats on Oz cast and recast.
@@ -275,7 +275,7 @@ Helps with accurate calculations as well as rotation crafting.
 
 **By:** Aluminum#5462  
 **Added:** 2021-07-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/865067427287924806/870110282918293584/transcript-c6-fischl-multihitgaming.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865067427287924806_870110282918293584_transcript-c6-fischl-multihitgaming.html)
 
 **Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ rainswords.
 
@@ -288,7 +288,7 @@ Helps with accurate calculations as well as rotation crafting.
 
 **By:** itsjaeYOU#2868  
 **Added:** 2021-07-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/861090088024932382/861407595611947008/transcript-fischl-damage-formula-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861090088024932382_861407595611947008_transcript-fischl-damage-formula-mechanics.html)
 
 **Finding:**
 
@@ -362,7 +362,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **By:** Ramen\#5124, Riverta\#5461  
 **Added:** 2021-07-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/860012125870751744/860235782622150676/transcript-oz-and-baron-bunny.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_860012125870751744_860235782622150676_transcript-oz-and-baron-bunny.html)
 
 **Finding/Bug:** Oz is able to target Baron Bunny if Fischl’s Ascension 1 passive, Stellar Predator is triggered, despite having no enemies nearby. The passive may or may not deliver a Thundering Retribution onto the Baron Bunny as shown in the two videos below.
 
@@ -387,7 +387,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **By:** jstern25#1399  
 **Added:** 2021-08-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/862426871736434708/871559616348184607/transcript-fischl-a1-multiplicative-amos-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_862426871736434708_871559616348184607_transcript-fischl-a1-multiplicative-amos-interaction.html)
 
 **Finding:** Fischl A1 Amos buff is based on the distance between Oz and enemy, not fischl and Oz.
 
@@ -400,7 +400,7 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **By:** EdisonsMathsClub\#6469  
 **Added:** 2021-08-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/878979789267025971/879056905895567461/transcript-c6-fischl-doesnt-fire-with-c6-yoi.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_878979789267025971_879056905895567461_transcript-c6-fischl-doesnt-fire-with-c6-yoi.html)
 
 **Finding:** C6 Fischl's joint attacks will not fire a joint attack with C6 Yoimiya's extra kindling arrows
 

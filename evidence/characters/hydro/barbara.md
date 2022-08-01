@@ -37,7 +37,7 @@ Steps to Reproduce
 
 **By:** Poro\#4695  
 **Added:** 2022-02-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/936984762726363136/938452706647998495/transcript-barbara-e-cancel-can-procstack-4pc-sets.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4pc-sets.html)  
 
 **Finding:**  
 Barbara has a small time window during her initial Elemental Skill cast that allows her to dash and cancel the Elemental Skill, while avoiding the cooldown and triggering 4-Piece set bonuses from artifacts.  
@@ -63,7 +63,7 @@ Potential improvement for Main DPS Barbara as you can now avoid her long Element
 
 **By:** yolitme0\#0579  
 **Added:** 2021-10-31  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/904016162382311484/904534494319607848/transcript-barbara-c6-revive-can-be-canceled-by-swapping.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904016162382311484_904534494319607848_transcript-barbara-c6-revive-can-be-canceled-by-swapping.html)  
 
 **Finding:**  
 If a character dies at the same time the player switches characters, the death animation for the dead character will not activate, and neither will the revive from Barbara C6.  

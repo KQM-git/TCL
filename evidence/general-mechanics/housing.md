@@ -12,7 +12,7 @@ search: false
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837081734783828070/838663326417289246/transcript-grass-in-friends-teapots.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837081734783828070_838663326417289246_transcript-grass-in-friends-teapots.html)
 
 **Finding:** Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.
 

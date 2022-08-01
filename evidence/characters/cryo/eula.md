@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843239715515269160/851726463068536872/transcript-eula-basic-mechanics-findings.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843239715515269160_851726463068536872_transcript-eula-basic-mechanics-findings.html)
 
 ### Attack Attributes
 
@@ -106,7 +106,7 @@ search: false
 
 **By:** Sir_pick_the_prick#2209 & Senovit#8237 & Greyhound#7836  
 **Added:** 2021-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845173856271597578/854016900095016960/transcript-eula-swap-buff.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845173856271597578_854016900095016960_transcript-eula-swap-buff.html)
 
 **Finding:**  
 Eulas burst does not snapshot even after she is swapped offield, allowing for the opportunity to apply team buffs after Eulas ult is used but before it hits (23 frame window) , thus increasing Eulas ult damage. This applies to 4no, rosarias crit buff and certain users of 4tom
@@ -125,7 +125,7 @@ Allows for better burst cycles.
 
 **By:** Artesians#0002  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845526724984963072/858445059292266536/transcript-eula-buff-catalog.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845526724984963072_858445059292266536_transcript-eula-buff-catalog.html)
 
 **Theory:**   
 Some buffs for Eula need to be tested to ensure that they work within her Alt-Swap + LFS timer. TTDS, Rosaria A4, and Bennett are some of the biggest buffs that needed to be tested. Similar to [Eula Swap Buff](../../characters/cryo/eula.md#eula-swap-buff), but the buff goes before Glacial Illumination Cast.
@@ -144,7 +144,7 @@ Cataloging Eula's buffs will be helpful for TC'ing possible one-shot rotations.
 
 **By:** GOKU\#8808  
 **Added:** 2021-07-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851120552323055636/861598862111932416/transcript-15-stacks-on-c0-eula.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851120552323055636_861598862111932416_transcript-15-stacks-on-c0-eula.html)  
 
 **Bug:**  
 At high ping Eula's elemental burst does not properly lock stacks in on time, allowing for 15 stacks to be possible at C0.  
@@ -161,7 +161,7 @@ Eula is stronger under high ping.
 
 **By:** TWICE\#9958  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967821800463556658/transcript-eula-burst-animation-cancel.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967821800463556658_transcript-eula-burst-animation-cancel.html)  
 
 
 **Original Credit:**  
@@ -189,7 +189,7 @@ The sweatiest of gamers can save up to ~4 frames of Eula's initial Burst animati
 
 **By:** TWICE\#9958  
 **Added:** 2021-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/925652715894358046/930016341086335027/transcript-rosaria-a4-eula-burst-inconsistencies.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_925652715894358046_930016341086335027_transcript-rosaria-a4-eula-burst-inconsistencies.html)
 
 **Finding:**  
 The duration of Rosaria's A4 buff does not consistently last to the end of Eula's burst \(Lightfall explosion\). 

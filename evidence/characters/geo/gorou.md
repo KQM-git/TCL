@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/912910214699819028/923272036728573982/transcript-gorou-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912910214699819028_923272036728573982_transcript-gorou-basic-mechanics.html)
 
 * Gauges
   * Elemental Skill: [1GU](https://youtu.be/DJ3uSEKgkW4) - Cryo aura 8.25s. Kaeya E applies 1.6B cryo; Gorou E removes 0.5 GU, leaving 1.1B Cryo 1.1B Cryo lasts 8.25s (edited) - Neptunya\#8291

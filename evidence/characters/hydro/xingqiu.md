@@ -30,7 +30,7 @@ For one-shot \(or two-shot\) compilations, although I’m not sure if this team 
 
 **By:** elijam#7142  
 **Added:** 2021-07-18  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/864699490606514196/866103775408422962/transcript-xq-dr-is-a-conferrable-attribute.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864699490606514196_866103775408422962_transcript-xq-dr-is-a-conferrable-attribute.html)
 
 **Finding:**  
 Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from Kazuha's A4 into account. Because it's an attribute sharing effect which scale based on a character's own attributes, therefore would not factor in to calculations of further similarly scaling attribute sharing effects.
@@ -46,7 +46,7 @@ A team consists of Kazuha and Xingqiu may have marginally less survivability tha
 
 **By:** Lee Roy Leoncio#3769  
 **Added:** 2021-09-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881769328247177246/884456576075825162/transcript-xq-rain-sword-shattering-cooldown.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881769328247177246_884456576075825162_transcript-xq-rain-sword-shattering-cooldown.html)
 
 **Finding:**  
 The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of 1.5 seconds before another rain sword can be shattered.
@@ -80,7 +80,7 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 ### Xingqiu Damage Reduction is Affected By Omni Damage Bonus 
 **By:** Balakin1\#7545  
 **Added:** 2022-05-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/971892805431595069/transcript-xingqiu-dr-omni-damage-bonus.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971892805431595069_transcript-xingqiu-dr-omni-damage-bonus.html)
 
 **Finding:**  
 Xingqiu's damage reduction is affected by omni-damage bonus effects such as the one from Mistsplitter's passive.
@@ -128,7 +128,7 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 
 **By:** Tsym#2586  
 **Added:** 2021-09-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885155355020120134/890115391370698782/transcript-xingqiu-orbital-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885155355020120134_890115391370698782_transcript-xingqiu-orbital-icd.html)
 
 **Finding:**  
 Xingqiu Orbital ICD is 2.25 Seconds
@@ -204,7 +204,7 @@ Limit testing of XQ.
 
 **By:** Charliex3000#9403  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890793989232529439/899126244615028867/transcript-xq-qe-dmg-reduction-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890793989232529439_899126244615028867_transcript-xq-qe-dmg-reduction-interactions.html)
 
 **Finding:**  
 Xingqiu's Q/E damage reduction snapshots. But with Q always overriding E before swapping.  
@@ -230,7 +230,7 @@ We understand more about how XQ's damage reduction works. Additionally, this mea
 
 **By:** Kaya\#5005, Xandellicia\#4609, Dooners\#6709  
 **Added:** 2022-04-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962750243403874374/transcript-xingqiu-q-and-long-na-animation-interaction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962750243403874374_transcript-xingqiu-q-and-long-na-animation-interaction.html)
 
 **Finding:**  
 It is possible to trigger Xingqiu Burst Sword Rain multiple times on a single Normal Attack if the animation is long enough.
@@ -286,7 +286,7 @@ Better understanding of Xingqiu's burst and snapshotting. Although in practice, 
 
 **By:** Steno\#0119  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953826281793933312/transcript-xq-eqe-vs-qee.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953826281793933312_transcript-xq-eqe-vs-qee.html)  
 
 **Finding:**  
 Xingqiu EQE leads to about a 0.5 \- 1s longer rotation time on average compared to QEE or EEQ in teams where Xingqiu E CD gates the rotation time.  

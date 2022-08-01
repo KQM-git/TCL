@@ -14,7 +14,7 @@ description: For entries related to resources or resource efficiency
 
 **By:** CQLQRS#7853  
 **Added:** 2021-10-18  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896356040747122698/899839089124179968/transcript-maximum-original-resin.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896356040747122698_899839089124179968_transcript-maximum-original-resin.html)  
 
 **Finding:**  
 Original Resin can go past the cap of 160, capped at ~2000.  
@@ -46,7 +46,7 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **By:** ceeeleste#3568  
 **Added:** 2021-06-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856083274458857493/858443928244322334/transcript-2-star-artifact-value.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856083274458857493_858443928244322334_transcript-2-star-artifact-value.html)
 
 **Finding:**  
 Buying 2-star artifacts from vendors is more worth than running a domain for artifact exp (Once a week)
@@ -79,7 +79,7 @@ Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a b
 
 **By:** K\឵឵#4000  
 **Added:** 2021-07-07  
-  [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855808417447804938/858443909838929940/transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)  
+  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)  
   
 **Finding:**  
 NPC artifact shops are a better deal than the sanctifying essence in terms of artifact experience.  
@@ -99,7 +99,7 @@ The mora cost of buying out the NPC shop is equal to 360 realm currency.
 
 **By:** tooflesswulf\#8456  
 **Added:** 2022-05-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/974477543161872455/transcript-artifact-probability-thesis.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974477543161872455_transcript-artifact-probability-thesis.html)  
 
 **Theory:**  
 Performed a thorough mathematical analysis of the artifact rolling system, deriving equations for:  
@@ -124,7 +124,7 @@ Significance:
 
 **By:** Mateng\#4507  
 **Added:** 2021-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832668930580807750/851210889818669097/transcript-realm-currency-exchange-rate-analysis.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832668930580807750_851210889818669097_transcript-realm-currency-exchange-rate-analysis.html)
 
 **Theory**  
 Realm Currency \(RC\) is a new kind of currency that will release in 1.5 allowing Travelers to exchange it for various goods including Mora, EXP, Ores, and Transient Resin \(60 Resin that must be used quickly\). This exchange rate analysis will examine its value alongside Resin and Stardust.
@@ -193,7 +193,7 @@ For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; E
 
 **By:** chowr\#0522  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953734255110918204/transcript-realm-currency-extended-analysis.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953734255110918204_transcript-realm-currency-extended-analysis.html)  
 
 **Abstract:**  
 I was looking at the library submissions for Realm Currency and found that I had completely different conclusions in my personal findings than what had been submitted \(specifically the submission above\).  
@@ -235,7 +235,7 @@ There are other possible permutations of what to buy in the shop, but these are 
 **Closing Thoughts:**  
 There are extra factors to consider about why artifacts are worth more to buy. Primarily because there are often times that 5\* artifacts will not be used as fodder.  
 
-I also want to object to the idea that purchasing 360 RC of Mora to buy out the 2-star artifacts in all vendors is better than buying a 360 RC artifact tincture, made in the following library submission: ["Vendor Artifacts vs Housing Sanctifying Essence"](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/855808417447804938/858443909838929940/transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html).  
+I also want to object to the idea that purchasing 360 RC of Mora to buy out the 2-star artifacts in all vendors is better than buying a 360 RC artifact tincture, made in the following library submission: ["Vendor Artifacts vs Housing Sanctifying Essence"](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html).  
 
 Technically, it is true that, by following this method, it is more efficient to buy out the 2-star artifacts each week with Mora than to buy one tincture. There is a theoretical budget where someone buys all but one large tincture, and purchases Mora 3 times in order to buy out the artifact vendors. I object because there are alternate methods of obtaining Mora that would be more efficient and does not require the purchase of Mora with RC. Utilizing mob kills, daily random events, or even leylines to obtain the mora necessary instead would allow for the purchase of an extra Large Tincture. And if it is worthwhile to buy out the vendors instead of 1 Tincture, I argue it is more worthwhile to buy out the vendors, as well as the tincture. There is only a budget of 5040 Coins per week at the highest level, and so it is not possible to buy Transient Resin, Tinctures, and the 30,000 Mora necessary solely with coins. Therefore, I suggest the artifacts should be bought with Mora from a different source. Though with smaller budgets it certainly could be suggested that the 30,000 mora be purchased instead. 
 
@@ -243,7 +243,7 @@ Technically, it is true that, by following this method, it is more efficient to 
 
 **By:** jdeeyu\#9927  
 **Added:** 2021-05-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/844202218369712199/845490580011352105/transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844202218369712199_845490580011352105_transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
 
 **Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive \(as stated in KQM guide\) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
 
@@ -263,7 +263,7 @@ Buy the BP if you have the money.
 
 **By:** Bobrokrot#0111  
 **Added:** 2021-07-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851577795868098600/864446326178447370/transcript-overworld-farming-statistics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851577795868098600_864446326178447370_transcript-overworld-farming-statistics.html)
 
 **Finding:**
 
@@ -299,7 +299,7 @@ Crabs that you approach and fail to pick up will respawn after leaving their ren
 
 **By:** derek\#9488  
 **Added:** 2021-12-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/922577467930202173/923407105925468190/transcript-random-event-cap.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922577467930202173_923407105925468190_transcript-random-event-cap.html)
 
 **Finding:**  
 There is a random event cap which is 10 random events a day. After that you get nothing more when you do random events that day.
@@ -315,7 +315,7 @@ You can do 10 random events for mora, companionship exp, and enhancement ores ev
 
 **By:** Mcpie\#8672  
 **Added:** 2021-08-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868107312617889803/874106706328690778/transcript-inazuma-bake-danuki-respawn.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868107312617889803_874106706328690778_transcript-inazuma-bake-danuki-respawn.html)
 
 **Finding:**  
 Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
@@ -356,7 +356,7 @@ I didn't assume anyone would want a two hour video of me just breaking bushes, s
 
 **By:** Anmol43\#1917  
 **Added:** 2021-04-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/833731587279028254/834272842425171978/transcript-all-food-cost-calcs.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_833731587279028254_834272842425171978_transcript-all-food-cost-calcs.html)
 
 **Finding:** Documenting the cost, in mora, of all food items in Genshin Impact.
 
@@ -393,7 +393,7 @@ Just something to keep in mind.
 
 **By:** It3mUs3r#4778 and Creonalia#2818  
 **Added:** 2021-10-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/899016596054495253/902068304749944852/transcript-crafted-food-item-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_899016596054495253_902068304749944852_transcript-crafted-food-item-limit.html)  
 
 **Finding:**  
 Crafted items limit is 2000 per unique item. Both automatic cooking and manual cooking yield this result. Which character is cooking also does not change this limit.  
@@ -413,7 +413,7 @@ Food is not infinite.
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/868135553764311051/876092967356629032/transcript-investigation-daily-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868135553764311051_876092967356629032_transcript-investigation-daily-limit.html)  
 
 **Theory:**  
 There exists an investigation daily limit of 100. It is possible to go beyond this number by not leaving the rendered zone after reaching 100. Bake-danukis that give investigation spots count towards this limit as well.
@@ -434,7 +434,7 @@ Additionally, because it's possible to go beyond 100 by not leaving the zone on 
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/869052058752385034/876092976483418132/transcript-daily-investigation-limit-resets-at-daily-reset.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_869052058752385034_876092976483418132_transcript-daily-investigation-limit-resets-at-daily-reset.html)  
 
 **Theory:**  
 Daily investigation limit resets at daily reset.
@@ -450,7 +450,7 @@ Allows for early artifact route run if you still have uninvestigated spots.
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875747620621004800/876093025124761600/transcript-investigation-spots-post-daily-cap.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875747620621004800_876093025124761600_transcript-investigation-spots-post-daily-cap.html)  
 
 **Theory:**  
 We already know that the daily investigation cap is 100 and it's possible to go beyond that number by picking already rendered investigation spots.  
@@ -470,7 +470,7 @@ The above video displays that investigation spots are stored in your memory, and
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-03-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/953810490323255406/transcript-multiple-arti-clusters-after-100.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953810490323255406_transcript-multiple-arti-clusters-after-100.html)  
 
 **Findings:**  
 * 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or co-op teammate\) is near them \[1\].
@@ -502,7 +502,7 @@ Allows collecting artifacts from more than \(the previous max of\) [129 spots](h
 
 **By:** mol\#3280  
 **Added:** 2021-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/838678429137633311/851309968694837268/transcript-tree-chopping-memory.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838678429137633311_851309968694837268_transcript-tree-chopping-memory.html)
 
 **Finding:**  
 The game can only remember the 10 most recently-struck trees at a time. After the 11th tree is hit, the 1st tree's state is wiped from the memory and can be harvested again. However, if a previously harvested tree is struck again BEFORE this, it will be moved back into the sequence as the most recently updated item. Therefore, a loop in the following order where each number represents a specific tree will generate no wood on the second partial loop: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11. This is because trees 2-11 have become the recently updated set in memory, and only 1 has been dropped and reverted to "harvestable" state. In a typical 11 tree loop, hitting tree 1 again would provide wood, then remove the most recent last tree \(tree 2 in this case\) from memory. Partial harvests also count the same as full harvest or re-harvest.
@@ -517,7 +517,7 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 
 **By:** mol\#3280, wiremash\#0433, Aluminum\#5462  
 **Added:** 2021-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839914390328573963/851314539345215509/transcript-marking-non-enemies-for-skill-hits.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839914390328573963_851314539345215509_transcript-marking-non-enemies-for-skill-hits.html)
 
 **Findings:**  
 Attacks that shake untouched trees, including enemy attacks, can allow them to be harvested using a small number of Elemental Skills in a short window. We explored this to find several things.
@@ -537,7 +537,7 @@ Attacks are not equal in terms player-environment interaction. Most skills can n
 
 **By:** Aluminum\#5462  
 **Added:** 2021-12-12  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/903482500876210186/919141033718202388/transcript-trees-are-pepega.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903482500876210186_919141033718202388_transcript-trees-are-pepega.html)  
 
 **Finding:**  
 Missed attacks on trees due to a [bug](https://imgur.com/AiGbPmU) still mark the tree for unholy harvesting methods.  
@@ -555,7 +555,7 @@ I am the Lorax. I speak for the trees.
 
 **Contributors:** Aluminum\#5462, Green sabre\#0540, Kourinn\#6001, mol\#3280, Steph\#3614, JenjenJL\#6582, Greyhound\#7836  
 **Added:** 2021-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836973979108769822/851323163400208404/transcript-lumberjack-tier-list.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836973979108769822_851323163400208404_transcript-lumberjack-tier-list.html)
 
 [Link to Tierlist](https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSjRINZJonFe1kiDwz1dEbpcZiNk/edit#gid=937070148)
 
@@ -570,7 +570,7 @@ Summary of Results, most efficient units for tree chopping:
 
 **By:** Creonalia\#2818  
 **Added:** 2021-05-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/842601710391787551/845506814519148574/transcript-2k-wood-daily-cap.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842601710391787551_845506814519148574_transcript-2k-wood-daily-cap.html)
 
 **Finding:** You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
 
@@ -590,7 +590,7 @@ Note that although I did need to teleport to get wood after reset, teleporting a
 
 **By:** Homura\#9806 and mol\#3280  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945134145506517052/transcript-capped-wood-types-register-in-chopping-memory.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945134145506517052_transcript-capped-wood-types-register-in-chopping-memory.html)  
 
 **Finding:**  
 Even after farming one tree type to the cap, it will still register in the 11 tree chopping memory.
@@ -610,7 +610,7 @@ Since capped trees do register in memory, this allows for hybrid routes (such as
 
 **By** Peekays\#2722  
 **Added:** 2021-09-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882273258806849627/885691065707925514/transcript-battle-pass-value-for-resin.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882273258806849627_885691065707925514_transcript-battle-pass-value-for-resin.html)  
 
 **Finding:**  
 The $10 BP gives resources worth approximately 1800 resin = 45 condensed resin = 30 fragile resins in the form of exp books, mora, and talent books.  
@@ -628,7 +628,7 @@ Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Sp
 
 **By:** lapidibus#8146 and δανιελ#6040  
 **Added:** 2022-05-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/972595731611398154/transcript-elemental-infusion-hampers-wood-cutting.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_972595731611398154_transcript-elemental-infusion-hampers-wood-cutting.html)
 
 **Finding:**  
 Melee attacks infused with elements usually cannot chop wood from trees.
@@ -644,7 +644,7 @@ Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at choppi
 
 **By:** Mcpie#8672  
 **Added:** 2022-01-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928504588498272296/930045464001257522/transcript-weekly-bp-cap-during-launch-week.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928504588498272296_930045464001257522_transcript-weekly-bp-cap-during-launch-week.html)
 
 **Finding:** Reaching BP Weekly EXP limit during launch week requires sacrifices.  
 Possible sacrifices are:  
@@ -695,7 +695,7 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 **By:** Kgbeast#6738  
 **Added:** 2021-10-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893668250263633980/896141552135569438/transcript-capped-enhancement-ore.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893668250263633980_896141552135569438_transcript-capped-enhancement-ore.html)
 
 **Findings/Evidence:**  
 Consequences of having capped (9999) Mystic Enhancement Ore:
@@ -722,7 +722,7 @@ This will never happen to you though.
 
 **By:** Cypher130n\#6831  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958495995744894976/transcript-crystal-chunk-inventory-cap.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958495995744894976_transcript-crystal-chunk-inventory-cap.html)  
 
 **Findings:**  
 * The natural cap of Crystal Chunks able to be held in a player's inventory is 9999.
@@ -739,7 +739,7 @@ Don't become an Ore Archon like me.
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-03-22  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/955999927236984862/transcript-berry-max.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955999927236984862_transcript-berry-max.html)  
 
 **Finding:**  
 Inventory cap for berries is 9999 much like crystal chunks.  

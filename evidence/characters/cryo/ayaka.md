@@ -27,7 +27,7 @@ search: false
 
 **By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Greyhound\#7836  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/870326929893515314/874088594778771476/transcript-ayaka-hitscan-ca.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870326929893515314_874088594778771476_transcript-ayaka-hitscan-ca.html)  
 
 **Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:  
 * First: The gadget will stick to the target, following them even if running outside her range.
@@ -54,7 +54,7 @@ For example, the gadget is smaller than Geovishap's large collision box which me
 
 **By:** wiremash#0433  
 **Added:** 2021-09-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883962129919655976/884148507999604746/transcript-ayaka-ca.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883962129919655976_884148507999604746_transcript-ayaka-ca.html)  
 
 **Finding:**  
 Ayaka's charged attacks do not necessarily do full damage. After a short delay, all enemies (no known exceptions so far) within (still unknown) range get hit. The enemy detection occurs 3 separate times for each of her 3 slices i.e. it scans for enemies to hit 3 separate times.
@@ -83,7 +83,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 ### Ayaka’s CA hitscan also has negative vertical reach.  
 **By:** Asaki\#9139  
 **Added:** 2021-12-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/920526901016150056/922629903579508797/transcript-ayaka-ca-below-feet.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920526901016150056_922629903579508797_transcript-ayaka-ca-below-feet.html)  
 
 **Finding:** Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s CA can also reach enemies below her ground level, thanks to the mechanics of her subsequent hitscans from the intial one.
 
@@ -125,7 +125,7 @@ b) Ayaka is already lifted, Venti’s ult is right in front, but there’s exact
 
 **By:** Tsym#2586  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890817514794266664/899133874968354866/transcript-ayaka-q-pushing-away-enemies-of-different-weights.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890817514794266664_899133874968354866_transcript-ayaka-q-pushing-away-enemies-of-different-weights.html)  
 
 **Finding:**  
 Upon cast, Ayaka Q pushes away all nearby enemies. It appears through several tests (see video), that the extent to which enemies are pushed away are dependent upon their weight and/or their size. Light/small enemies are pushed away the most, and heavy/big enemies are pushed away the least (relative to the size of their overall hitbox). There also appear to be some instances where enemies are not pushed away at all (see the last clip), which I believe can occur when enemies are stuck within an animation.
@@ -156,7 +156,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 
 **By:** aui#3690  
 **Added:** 2021-09-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885753886823055421/888239660407599134/transcript-alt-vs-dash-iframe.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)  
 
 **Finding:**  
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics.

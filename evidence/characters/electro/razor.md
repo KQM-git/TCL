@@ -24,7 +24,7 @@ search: false
 ### Razor Reverse Scam
 **By:** phaZZi\#6461  
 **Added:** 2022-02-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945484288009314304/transcript-razor-reverse-scam.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945484288009314304_transcript-razor-reverse-scam.html)  
 
 **Finding:**  
 Razor's Electro Sigils are not immediatly consumed when using Hold E, whereas the energy gained from it is instant.  
@@ -91,7 +91,7 @@ Damage type in Razor's table in the TCL is currently correct, this is just to ge
 
 **By:** Bobrokrot\#0111  
 **Added:** 2022-02-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945485734670893077/transcript-razor-scam.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945485734670893077_transcript-razor-scam.html)  
 
 **Finding:**  
 Razor's A4 does not work until after some time after using his Burst when the ping is 54ms+.  
@@ -115,7 +115,7 @@ Razor's E into Q is not as efficient as one could hope due to the fact that his 
 
 **By:** elijam\#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
 Razor’s C6 damage instance has no ability type scaling tags.
@@ -231,7 +231,7 @@ The animation is different and slightly slower during burst. It is not affected 
 
 **By:** SwiftySwoo\#0930  
 **Added:** 2021-06-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845553745148116992/857386232937578506/transcript-razor-ds-combo.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845553745148116992_857386232937578506_transcript-razor-ds-combo.html)
 
 **Finding:**  
 Razor DS combos and E rotations have substantial mv/s increase from standard attack strings outside of Q.

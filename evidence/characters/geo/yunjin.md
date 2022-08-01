@@ -6,7 +6,7 @@
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927459453580759110/930768121306963968/transcript-yunjin-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459453580759110_930768121306963968_transcript-yunjin-basic-mechanics.html)
 
 * Gauges
   * Tap E: 2U - [Video](https://youtu.be/L4mzYn4ucRI) - Maes\#6425
@@ -47,7 +47,7 @@
 
 **By:** Sparko53557\#7010 & Reens\#9389  
 **Added:** 2021-01-05  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/928174041213317152/928177023837429791/transcript-perfect-counter-cannon.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928174041213317152_928177023837429791_transcript-perfect-counter-cannon.html)
 
 **Findings:**  
 In order to combat the increasingly toxic nature of the internet, cyberbullying and world hunger, we test whether Yun Jin and Beidou can counter the Inazuma Cannon. We found that both Beidou and Yun Jin can commit a counter against the cannon and prevent death. This is truly a joyous day for anti-trolling. 
@@ -62,7 +62,7 @@ Despite Ei's prominent ability in the use of machines and dolls, her country is 
 ### Yun Jin Flags In Freeze
 **By:** Goden#2155  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933107948715135026/934030368867237958/transcript-yunjin-flags-in-freeze.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933107948715135026_934030368867237958_transcript-yunjin-flags-in-freeze.html)
 
 **Finding:**  
 Yun Jin's flags from her E persist for however long she's frozen. Looks kinda cool.

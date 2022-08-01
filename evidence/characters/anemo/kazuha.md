@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/858232806450397196/863915215232958474/transcript-kazuha-basic-mechanics-findings.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858232806450397196_863915215232958474_transcript-kazuha-basic-mechanics-findings.html)
 
 * Gauges - Faranight\#0001
   * E Tap: [1GU](https://youtu.be/SoCI_E1eDXE), Tap E Aura duration is 12s.
@@ -65,7 +65,7 @@ Potential for some interesting combos. Cool stuff. Very fun.
 
 **By:** CQLQRS#7853  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885544421637120030/891166004669984848/transcript-kazuha-e-causes-fall-damage.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885544421637120030_891166004669984848_transcript-kazuha-e-causes-fall-damage.html)
 
 **Finding:**  
 Kazuha's e skill causes certain types of enemies to take fall damage.
@@ -89,7 +89,7 @@ This feature is most likely unintended, but not a bug due to the janky nature of
 ### Kazuha Tap E Air Time Can Be Shortened 
 **By:** Quark#7392  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/933053726711754882/934052086797172777/transcript-kazuha-tap-e-air-time-can-be-shortened.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933053726711754882_934052086797172777_transcript-kazuha-tap-e-air-time-can-be-shortened.html)
 
 **Finding:**  
 By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge.
@@ -104,7 +104,7 @@ This tech is useful if you only want to tap E with Kazuha without initiating a p
 ### Kazuha Land Cancel
 **By:** BowTae\#0141  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958505561622720512/transcript-kazuha-land-cancel.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958505561622720512_transcript-kazuha-land-cancel.html)  
 
 **Finding:**  
 After using E, Kazuha's Special Plunge does not have a minimum height restriction, unlike regular Plunging Attacks. This means you can do a plunge very low to the ground. In fact, you can plunge so low to the ground that it cancels the initial rising motion of the plunge. The timing for this is probably either a 1 or 2 frame window.  
@@ -125,7 +125,7 @@ Kazuha Swag.
 
 **By:** Charisma\#5567  
 **Added:** 2022-05-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/975073739207225414/transcript-kazuha-e-absorption-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_975073739207225414_transcript-kazuha-e-absorption-bug.html)
 
 **Finding:**  
 Kazuha E will, under certain conditions, fail to absorb self auras (particularly relevant with Bennett's Q field). It will still be able to absorb auras from enemies in his E range. 
@@ -159,7 +159,7 @@ As for an explanation to why this bug occurs, it's probably due to funky aura ch
 
 **By:** Rathalos\#2875  
 **Added:** 2022-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986310266688012378/transcript-kazuha-keeps-midare-ranzan.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986310266688012378_transcript-kazuha-keeps-midare-ranzan.html)
 
 **Finding:**  
 Kazuha can keep his special plunge/Midare Ranzan either by getting frozen while ascending or getting hit by a bubble from a Hydro Abyss Mage on the way up. It lasts for about 10s, just like the original effect.
@@ -244,7 +244,7 @@ Timing Burst on certain cases.
 ### Kazuha's Dynamically Changing Buff
 **By:** Falafel\#5123  
 **Added:** 2022-04-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962496151704182834/transcript-kazuhas-dynamically-changing-buff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962496151704182834_transcript-kazuhas-dynamically-changing-buff.html)  
 
 **Finding:**  
 Further evidence that Kazuha's A4 Passive buff dynamically changes it's value every new swirl depending on how much EM Kazuha has when the swirl happened.  

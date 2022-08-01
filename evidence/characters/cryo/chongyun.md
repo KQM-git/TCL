@@ -71,7 +71,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **By:** DeFault\#1802  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/856905392633151528/858349517241450536/transcript-chongyun-e-and-a4-interactions.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856905392633151528_858349517241450536_transcript-chongyun-e-and-a4-interactions.html)  
 
 **Findings:**  
 The various interactions between Chongyun’s A4 and E have been looked at and the findings are as follows:  
@@ -98,7 +98,7 @@ The various interactions between Chongyun’s A4 and E have been looked at and t
 
 **By:** mando.\#1646  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964970527120834560/transcript-chongyuns-burst-maximum-range.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964970527120834560_transcript-chongyuns-burst-maximum-range.html)  
 
 **Finding:**  
 The maximum casting range for Chongyun's Burst is 17.85m \(7 Abyss tiles\).  
@@ -119,7 +119,7 @@ Expansion in understanding of Chongyun's kit.
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 
 **Findings:**  
 Chongyun’s C1 damage instance has no ability type scaling tags. 

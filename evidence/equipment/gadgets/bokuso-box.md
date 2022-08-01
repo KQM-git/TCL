@@ -6,7 +6,7 @@ Main Page
 ## Bokuso Box Can Crit    
 **By:** melon\#9323   
 **Added:** 2022-02-20    
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945129398321950720/transcript-bokuso-box-can-crit-and-proc-fav.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945129398321950720_transcript-bokuso-box-can-crit-and-proc-fav.html)  
 
 **Finding:**  
 The Bokuso Box can crit and proc Favonius weapons.

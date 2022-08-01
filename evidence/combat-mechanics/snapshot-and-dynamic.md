@@ -45,7 +45,7 @@ To add to Seaweed I tested this with Xiangling Pyronado along with c6 Diona Q. W
 
 **By:** Kidz\#8667, Charliex3000\#9403  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872757681826435132/899103401432989736/transcript-stats-not-in-details-stat-page-are-not-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872757681826435132_899103401432989736_transcript-stats-not-in-details-stat-page-are-not-snapshot.html)  
 
 **Finding:**  
 In general, stats that are not in a Character's "Details" pane do not snapshot. However, the exception is that "Increases All DMG" effects do snapshot, except for the exceptions to this exception: Alley Hunter and Geo Resonance don't snapshot their "Increases All DMG".
@@ -82,7 +82,7 @@ More extensive knowledge on what does and does not snapshot.
 
 **By:** Dooners#6709  
 **Added:** 2021-10-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894400995554127882/899195834686636073/transcript-healing-over-time-is-snapshot-on-cast.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894400995554127882_899195834686636073_transcript-healing-over-time-is-snapshot-on-cast.html)  
 
 **Finding:**  
 The amount of health healed is snapshot based on the user's stats at the time of activation

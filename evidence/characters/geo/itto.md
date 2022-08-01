@@ -6,7 +6,7 @@
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/919451034575847464/924496285996830730/transcript-itto-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_919451034575847464_924496285996830730_transcript-itto-basic-mechanics.html)
 
 * Gauges - [CC\#5588](https://youtu.be/Rl6elJJcmj4)
   * Itto Skill, Normal Attacks, Combo Slash, and Final Slash all apply 1U Geo
@@ -74,7 +74,7 @@
 
 **By:** Homura\#9806  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958523437255643187/transcript-ushi-max-air-time.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958523437255643187_transcript-ushi-max-air-time.html)  
 
 **Finding:**  
 Ushi lands in mid\-air after 2 seconds of air time.  
@@ -102,7 +102,7 @@ Further understanding of Ushi as a Geo Construct.
 ### Itto N1 Burst Cancel SS Stack
 **By:** Aftermath\#7658  
 **Added:** 2022-01-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929507146335408128/931064442861543434/transcript-itto-n1-burst-cancel-ss-stack.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929507146335408128_931064442861543434_transcript-itto-n1-burst-cancel-ss-stack.html)
 
 **Finding:**  
 Using Itto burst during N1 hitlag gives Superlative Strength Stack.
@@ -119,7 +119,7 @@ There are several combo variants for Itto, a main category being first rotation 
 ### Successful Itto DEF Conversion with Gorou
 **By:** Mr. Pillow\#0065  
 **Added:** 2022-01-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934236008533360691/937034728031281162/transcript-successful-itto-def-conversion-w-gorou.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934236008533360691_937034728031281162_transcript-successful-itto-def-conversion-w-gorou.html)  
 
 **Finding:**  
 If characters are directly switched to after Gorou casts his Elemental Burst, they can snapshot the flat DEF buff extremely consistently, if the ping isn’t high (<75ms).  

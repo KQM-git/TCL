@@ -6,7 +6,7 @@
 
 **By:** Some Proselytizer#8340  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/840480610765111316/858421155228418088/transcript-high-ping-interactions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840480610765111316_858421155228418088_transcript-high-ping-interactions.html)
 
 **Findings:**  
 Numerous interactions/findings that happen with high ping, listed below.
@@ -134,7 +134,7 @@ Bad ping breaks some mechanics in game on the server side and it could be used f
 
 **By:** NZPIEFACE\#8439  
 **Added:** 2021-12-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/917969257504047174/921166808302616627/transcript-reactions-are-client-side-damage-is-server-side.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917969257504047174_921166808302616627_transcript-reactions-are-client-side-damage-is-server-side.html)
 
 **Finding:**  
 * Reactions (and auras) are done client-side.  

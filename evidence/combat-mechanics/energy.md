@@ -49,7 +49,7 @@ search: false
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
 **Added:** 2021-05-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/839361536900595732/840061797561139211/transcript-auto-attack-energy-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839361536900595732_840061797561139211_transcript-auto-attack-energy-mechanics.html)
 
 **Finding:**  
 Normal attacks have a chance on hit to give the on field character about 1 energy. It can be seen when the on field character's vision flashes. It is not effected by ER% and can work with charged attacks. Multi-hit attacks, such as Keqing's N1C, count each hit individually for proc chance. It also gives energy regardless if the user can get particles or not, such as in Xiao's Bane of All Evil.
@@ -64,7 +64,7 @@ Attacking enemies with normal/charged attacks can give extra energy. Although in
 
 **By:** Steph\#3614, wiremash\#0433, Zebin\#1678, Greyhound\#7836, mol\#3280  
 **Added:** 2021-06-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845560562221056001/850107809877196870/transcript-energy-gen-numbers.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845560562221056001_850107809877196870_transcript-energy-gen-numbers.html)
 
 **Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.
 

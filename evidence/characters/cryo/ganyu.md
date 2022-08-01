@@ -186,7 +186,7 @@ Special thanks to SavageCabbage\#1445 for founding this theory and discussing it
 
 **By:** Exuma\#1917 and JenjenJL\#6582  
 **Added:** 2021-06-17   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/846678238796316683/854985101988593694/transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846678238796316683_854985101988593694_transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
 
 **Finding:**  
 Two Ice Lotuses can exist simultaneously on C0 Ganyu.
@@ -200,7 +200,7 @@ It is possible to spawn multiple Ice Lotuses without C2 Ganyu.
 
 **By:** TWICE\#9958  
 **Added:** 2022-01-10   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929894901469032499/930085706393600060/transcript-ganyu-e-icd.html) 
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929894901469032499_930085706393600060_transcript-ganyu-e-icd.html) 
 
 **Finding:**  
 Ganyu E does not have ICD.
@@ -234,7 +234,7 @@ As Ganyu’s Trail of Qilin is capable of properly taunting just about every sin
 
 **By:** Empyress\#9451  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962026867236417586/transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
 
 **Finding:**  
 Ganyu's Ice Lotus placement seems to have a specific height difference past which it will be placed mid-air.  
@@ -443,7 +443,7 @@ By the fact that both Ganyu’s CA and elemental burst are snapshot in nature, w
 
 **By:** Yukarix#6534, Greyhound#7836  
 **Added:** 2021-06-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845508390595592202/857719631568961536/transcript-ganyu-ult-frequency-enemy-size.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845508390595592202_857719631568961536_transcript-ganyu-ult-frequency-enemy-size.html)
 
 **Finding:**  
 Ganyu's rng ult icycles are more likely to hit a target(beyond the base 10) if they are larger in size (who'd have thought :keqewide: ) up to all 50 for enemies large enough such as Azhdaha
@@ -605,7 +605,7 @@ QoL and DPS increase to fluidly execute all as one motion.
 
 **By:** mol\#3280  
 **Added:** 2021-05-06  
-[\[Disscussion\]](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837514129479827490/840052397882867752/transcript-sac-frags-reset-on-sucrose-c1.html)
+[\[Disscussion\]](https://tickets.deeznuts.moe/ticket-archive/attachments_837514129479827490_840052397882867752_transcript-sac-frags-reset-on-sucrose-c1.html)
 
 **Finding:**  
 When C1 Sucrose has both stacks of E down, a sacrificial fragments proc will reset the cooldown showed by the timer on E.

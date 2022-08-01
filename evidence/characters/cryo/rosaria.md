@@ -23,7 +23,7 @@ search: false
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875008784857190450/875040266573201498/transcript-rosaria-passive-does-not-work-in-serenitea-pot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875008784857190450_875040266573201498_transcript-rosaria-passive-does-not-work-in-serenitea-pot.html)
 
 **Finding:**  
 Rosaria's passive does not work in serenitea pot (even after manual time switch to night time).
@@ -41,7 +41,7 @@ Another evidence that the Serenitea Pot behaves similarly to Domains in game.
 
 **By:** Nass008#8577  
 **Added:** 2021-08-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/872888935590797352/873788560237531136/transcript-rosarias-a1-passive-works-against-hypostases-and-perpetual-mechanical-array.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872888935590797352_873788560237531136_transcript-rosarias-a1-passive-works-against-hypostases-and-perpetual-mechanical-array.html)
 
 **Finding:**  
 Although Hypostases and Perpetual Mechanical Array don’t have obvious distinction between front and back in terms of visual, Rosaria can still activate her A1 passive (12% crit rate buff) by hitting them from certain angles.
@@ -112,7 +112,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 
 **By:** Monado\#9922  
 **Added:** 2021-05-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836853492396195871/838339076746117120/transcript-pale-flame-on-rosaria.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836853492396195871_838339076746117120_transcript-pale-flame-on-rosaria.html)
 
 **Finding:** 2 stacks of the Pale Flame 4 piece set effect cannot be achieved by 1 use of Rosaria's skill despite the skill being 2 hits \(probably because the 2 hits are within 0.3s\), and requires back to back usage to achieve the full 4 piece effect.
 

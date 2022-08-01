@@ -5,7 +5,7 @@
 {% page-ref page="../../../characters/cryo/shenhe.md" %}
 
 ## Basic Mechanics
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927459391739924490/930781121459945472/transcript-shenhe-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
 * Gauges - [Video](https://youtu.be/fM5RY6uoA28) - CC\#5588
   * Tap E: 1U
@@ -58,7 +58,7 @@
 ### Shenhe E has no ICD
 **By:** daibangden2460\#8410  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/932469355374059590/933905482916200468/transcript-shenhe-e-has-no-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932469355374059590_933905482916200468_transcript-shenhe-e-has-no-icd.html)
 
 **Finding:**  
 Shenhe does not have ICD.  
@@ -69,7 +69,7 @@ Shenhe does not have ICD.
 
 **By:** Sincronic\#3171  
 **Added:** 2022-03-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/951189874780827719/transcript-quills-dont-work-on-balloons.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951189874780827719_transcript-quills-dont-work-on-balloons.html)  
 
 **Finding:**  
 Shenhe's quills don't work and aren't spent when attacking commission balloon with Cryo.  
@@ -114,7 +114,7 @@ Understanding of quill mechanics.
 
 **By:** Zamo\#6399  
 **Added:** 2022-02-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/945502154737717259/transcript-shenhe-c4-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945502154737717259_transcript-shenhe-c4-mechanics.html)  
 
 **Finding:**  
 Shenhe E consumes a Quill, however the first E cast does not give the initial E a C4 stack and instead counts towards the next E; C4 stacks are gained after the damage has been dealt and not before.  
@@ -135,7 +135,7 @@ Better understanding of Shenhe's C4 mechanics.
 
 **By:** CC\#5588  
 **Added:** 2022-01-04  
-[Basic Mechanics Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/927459391739924490/930781121459945472/transcript-shenhe-basic-mechanics.html)
+[Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
 **Finding:**  
 These slow-motioned clips show that Shenhe's Gluteal Region does not exhibit oscillation after doing any of her attacks, dissimilar to Eula. Meanwhile, the Pectusculum Region manifests this phenomenon with almost all of her attacks with the exception of her N5, although this could be an error on my part with my visual analysis and/or camera positioning. Timestamps can be found in the video description.

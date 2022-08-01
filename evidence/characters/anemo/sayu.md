@@ -10,7 +10,7 @@ search: false
 
 ## Basic Sayu Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873816131952070666/878384038103097364/transcript-sayu-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_873816131952070666_878384038103097364_transcript-sayu-basic-mechanics.html)
 
 ### Attack Attributes
 
@@ -77,7 +77,7 @@ search: false
 
 **By:** drunkamphy#7487  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881438570236235786/891207395609554995/transcript-sayu-ball-c2-infused-kick.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881438570236235786_891207395609554995_transcript-sayu-ball-c2-infused-kick.html)
 
 **Finding:**  
 The stated DMG increase of Fuufuu Whirlwind Kick from Sayu's C2 increases both Anemo Kick Hold DMG and Absorbed Element Kick DMG, by 3.3% every .5s tick

@@ -12,7 +12,7 @@ search: false
 
 **By:** BowTae#0141  
 **Added:** 2021-09-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885694208613158963/887107234243420200/transcript-wavedashing.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885694208613158963_887107234243420200_transcript-wavedashing.html)
 
 **Theory/Finding:**  
 While in a wind current (such as Venti hold skill), you can jump, glide, and land instantly.  
@@ -43,7 +43,7 @@ Could be used in teams with Venti to do extremely fast cancels without using sta
 
 **By:** BowTae#0141  
 **Added:** 2021-10-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/890716522190880828/896135115158192168/transcript-geo-construct-wavedash.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890716522190880828_896135115158192168_transcript-geo-construct-wavedash.html)
 
 **Theory/Finding:**  
 With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and geo constructs (Geo MC, Albedo, and Zhongli skill). 

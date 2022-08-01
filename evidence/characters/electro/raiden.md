@@ -48,7 +48,7 @@ search: false
 
 **By:** Tech#6257  
 **Added:** 2021-09-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/885440525438685204/891171141287297095/transcript-raiden-e-transformative-interaction.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885440525438685204_891171141287297095_transcript-raiden-e-transformative-interaction.html)  
 
 **Finding:**  
 Raiden's elemental skill will trigger on transformative reactions if 2 condition are met:  
@@ -69,7 +69,7 @@ Better understanding of Raiden's elemental skill.
 
 **By:** TWICE\#9958  
 **Added:** 2021-12-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/923751322178715709/924638774284124200/transcript-raiden-coordinated-attack-cd.html)   
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923751322178715709_924638774284124200_transcript-raiden-coordinated-attack-cd.html)   
 
 **Finding:**  
 Raiden's E coordinated attack CD starts with the triggering move's damage, *not* with the coordinated attack's.
@@ -104,7 +104,7 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 
 **By:** Tsuki\#8993  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962011374282739832/transcript-raiden-energy-gen-against-shielded-and-immune-enemies.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962011374282739832_transcript-raiden-energy-gen-against-shielded-and-immune-enemies.html)  
 
 **Finding:**  
 Raiden can generate Flat Energy during her Burst even when hitting immune and shielded enemies.  
@@ -131,7 +131,7 @@ Using Raiden's Burst against those enemies is not a total waste because you stil
 
 **By:** Charisma\#5567  
 **Added:** 2022-04-10  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962722091747123210/transcript-raiden-normals-and-burst-do-not-share-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962722091747123210_transcript-raiden-normals-and-burst-do-not-share-icd.html)  
 
 **Finding:**  
 Raiden's tachi attacks during Elemental Burst do *not* share ICD with her out-of-burst polearm attacks.  
@@ -146,7 +146,7 @@ More documented knowledge about the mechanics of Raiden's kit.
 
 **By:** elijam\#7142  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964951851663503452/transcript-raiden-resolve-decimal-stacks.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964951851663503452_transcript-raiden-resolve-decimal-stacks.html)  
 
 **Finding:**  
 When Raiden gains Resolve from other characters' Bursts such that her Resolve stacks count would have a decimal value, Resolve is not rounded to the nearest whole number and the partial stack is expressed in the final damage.  
@@ -181,7 +181,7 @@ Damage shown in video is 2521
 
 **By:** Javier#1000  
 **Added:** 2021-09-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/882822147012198440/886299222633250816/transcript-raiden-c2-stacking.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882822147012198440_886299222633250816_transcript-raiden-c2-stacking.html)  
 
 **Finding:**  
 Raiden's DEF ignore effect does not stack additively with other sources of DEF shred. Rather, they are multiplied. For example, if Klee shreds 23% DEF, then Raiden will ignore 60% of the shredded target's DEF, or `(1-60%) * (1-23%)`, or `0.4 * 0.77 = 0.308` for 69.2% DEF Shred, not 83% DEF Shred.  
@@ -201,7 +201,7 @@ Better understanding of Raiden C2, less gain from stacking defense shred.
 
 **By:** Sir_pick_the_prick#2209  
 **Added:** 2021-09-28  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/883997943387029504/892422852458983474/transcript-raiden-minimum-er-formula.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883997943387029504_892422852458983474_transcript-raiden-minimum-er-formula.html)  
 
 **Finding:**  
 Formula that describes minimum ER% for Raiden to use elemental burst off cooldown.  

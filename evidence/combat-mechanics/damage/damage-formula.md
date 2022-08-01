@@ -12,7 +12,7 @@ search: false
 
 **By:** ItzSomebody\#0029  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/874018516842475600/874090458991706122/transcript-outcoming-incoming-healing-additive.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874018516842475600_874090458991706122_transcript-outcoming-incoming-healing-additive.html)
 
 **Finding:**  
 Outcoming and incoming healing bonuses are additive.  
@@ -27,7 +27,7 @@ The two are additive.
 
 **By:** Phana\#0420, Mcpie\#8672, elijam\#7142  
 **Added:** 2021-08-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/873886801348153384/874084646370045952/transcript-defense-shred-caps-at-90.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_873886801348153384_874084646370045952_transcript-defense-shred-caps-at-90.html)  
 
 **Finding:**
 Defense shred caps at 90%.  

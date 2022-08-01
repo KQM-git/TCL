@@ -30,7 +30,7 @@ Unfortunately this means a lot of our frame counts of elemental durations will b
 
 **By:** Kourinn\#6001  
 **Added:** 2021-05-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)  
 
 **Finding:**  
 Normal Attack hitlag can extend the duration of some skills/bursts, such as Xiao's burst.  
@@ -49,7 +49,7 @@ Hitlag extension should be taken into account when simulating skills/bursts such
 
 **By:** Kourinn\#6001  
 **Added:** 2021-05-09  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/835912799343476766/840072673961967646/transcript-hitlag-extension-testing.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)  
 
 **Findings:**  
 * Deployables \(skills and constructs that stay on the field for a set amount of time\) do NOT have duration extended by normal attack hitlag.
@@ -152,7 +152,7 @@ TL;DR - 3 startup frames, 20 active frames give or take 1 frame from each.
 
 **By:** BowTae\#0141 and xSil3nt\#0961  
 **Added:** 2022-04-15  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964626530254856322/transcript-aim-frames.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964626530254856322_transcript-aim-frames.html)  
 
 **Finding:**  
 Standardized aim mode frame counts for bow characters.

@@ -13,7 +13,7 @@ search: false
 ### Star Jades Have The Charged Attack Tag  
 **By:** Asaki\#9139  
 **Added:** 2022-02-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/940671732979757087/945067939927826443/transcript-star-jades-have-ca-tag.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_940671732979757087_945067939927826443_transcript-star-jades-have-ca-tag.html)  
 
 **Finding:**   
 Ningguang's Star Jades are considered Charged ATK DMG  
@@ -50,7 +50,7 @@ Ningguang's star jades constitute a relevant portion of her damage. Knowing how 
 ### Jade Screen ICD
 **By:** Goden\#2155  
 **Added:** 2022-01-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/929477312284618822/931062924217315359/transcript-jade-screen-icd.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929477312284618822_931062924217315359_transcript-jade-screen-icd.html)
 
 **Finding:**  
 Ningguang's Jade Screen has no ICD for the detection of aura-checks.
@@ -68,7 +68,7 @@ Combining the demonstrations of both of these tests, it can be concluded that Ni
 
 **By:** elijam\#7142, Isu\#6867, Ai\#7362, Bobrokrot\#0111  
 **Added:** 2021-06-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/857491520109543444/858198283566186516/transcript-ningguang-e-q-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857491520109543444_858198283566186516_transcript-ningguang-e-q-snapshot.html)
 
 **Finding:**  
 Ningguang’s E screen snapshots her stats on cast, and with Q use her personal gems will snapshot on Q cast while her screen’s gems will use her screen’s earlier snapshotted stats. This finding corrects the previous TCL finding that Ningguang’s Q does not snapshot, since the evidence for that finding did not account for the gems from her screen not receiving the buff they were using to test for snapshotting. 
@@ -95,7 +95,7 @@ Better rotation and team building for Ningguang surrounding setting up buffs for
 ### Ningguang Burst Wall Destroy Range
 **By:** borderline\#3100  
 **Added:** 2022-03-29  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/958507759026982932/transcript-ning-burst-wall-destroy-range.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958507759026982932_transcript-ning-burst-wall-destroy-range.html)  
 
 **Finding:**  
 Ningguang's Burst can destroy her Jade Screen from any range, assuming that the Jade Screen exists.  
@@ -130,7 +130,7 @@ Sharshatter is the most significant part of Ningguang's kit, so learning more ab
 
 **By:** Terrapin\#8603  
 **Added:** 2021-04-26  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/836144484189732905/836630945624752189/transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836144484189732905_836630945624752189_transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
 
 **Finding:**  
 Ningguang's Elemental Skill with her c2 activated has its effect put into cooldown when her E is used and the Sacrificial passive is procced, if the conditions were met to also proc her c2 effect \( Jade Shield present and broken by casting E \)

@@ -24,7 +24,7 @@ The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interrup
 
 **By:** Hu taoist#2140  
 **Added:** 2021-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845919037967171604/854009128891973692/transcript-character-poise-is-based-on-weapon.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845919037967171604_854009128891973692_transcript-character-poise-is-based-on-weapon.html)
 
 **Finding:**  
 Character base poise or stagger res is base on the character's weapon type (melee and range)
@@ -57,7 +57,7 @@ For melee units: using Beidou, XQ and XL vs a basic hilli mob
 
 **By:** ColaSenami#5312    
 **Added:** 2021-06-20  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/850586648760549377/856383288956813342/transcript-jean-fall-dmg-60-pct-better-stagger.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_850586648760549377_856383288956813342_transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
 The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
@@ -73,7 +73,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 
 **By:** cucunter#5971  
 **Added:** 2021-10-03  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/893523719295750194/894208146581618688/transcript-interrupt-resistance-stacking.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893523719295750194_894208146581618688_transcript-interrupt-resistance-stacking.html)
 
 **Finding:**  
 Different sources of interrupt resistance can stack.

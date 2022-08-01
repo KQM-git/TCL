@@ -8,7 +8,7 @@ search: false
 
 **By:** euphorysm\#9060  
 **Added:** 2021-04-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/832952764317171712/834316884245479464/transcript-floor-12-stairs-plunge-spam.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832952764317171712_834316884245479464_transcript-floor-12-stairs-plunge-spam.html)
 
 **Finding:**  
 Note: This finding was not my idea. It was originally posted in the \#tips·and·tricks·chat via a reddit link and it seemed good enough to be submitted to the library. However, I did some of my own testing and compiled my own thoughts on this finding.

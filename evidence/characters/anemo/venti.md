@@ -16,7 +16,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **By:** sexyeboy69\#3215  
 **Added:** 2021-05-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834085780611137607/845831330662187028/transcript-venti-autoattack-after-skill-faster-switching.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834085780611137607_845831330662187028_transcript-venti-autoattack-after-skill-faster-switching.html)
 
 **Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
 
@@ -28,7 +28,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **By:** Charliex3000#9403  
 **Added:** 2021-10-18  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/894423798416310304/899832505866289192/transcript-10-frame-venti-e.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894423798416310304_899832505866289192_transcript-10-frame-venti-e.html)
 
 **Finding:** Venti Elemental Skill can consistently be cancelled at 10 frames.
 
@@ -41,7 +41,7 @@ The inputs are: Hold E for 9 frames. Release E. Press Q.
 
 **By:** BowTae\#0141  
 **Added:** 2022-04-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/964968100883726397/transcript-venti-ca-e-cancel.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964968100883726397_transcript-venti-ca-e-cancel.html)  
 
 **Finding:**  
 Using Venti Tap Elemental Skill immediately after shooting a non-ARCC Charged Attack will reduce essentially all of his Skill's animation frames.  
@@ -80,7 +80,7 @@ In more serious terms, this has little practical use for the majority of Venti u
 
 **By:** soup420\#1634  
 **Added:** 2021-04-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/829479729299193877/835390049503543336/transcript-venti-burst-absorption-bug.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
 Venti burst's elemental absorption creates an independent and invisible aoe field that always ticks for for the full number of ticks regardless of when absorption happens.
@@ -99,7 +99,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **By:** Ayzel\#7399  
 **Added:** 2021-05-02  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837853360023011378/838536559040790608/transcript-venti-burst-1u-infusion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837853360023011378_838536559040790608_transcript-venti-burst-1u-infusion.html)
 
 **Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
 
@@ -113,7 +113,7 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **By:** Charliex3000#9403  
 **Added:** 2021-09-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887526029508354099/888246550936043610/transcript-venti-ult-anemo-gauge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887526029508354099_888246550936043610_transcript-venti-ult-anemo-gauge.html)
 
 **Finding:**  
 Venti ult anemo gauge is 1U.
@@ -132,7 +132,7 @@ Venti ult anemo gauge is 1U.
 ### Venti Elemental Absorption Proc Count Correction
 **By:** CC#5588  
 **Added:** 2022-01-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/931544431885160499/933946366424670218/transcript-venti-elemental-absorption-proc-count-correction.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931544431885160499_933946366424670218_transcript-venti-elemental-absorption-proc-count-correction.html)
 
 **Finding:** The Additional Elemental DMG from Venti's Burst Procs 13-15 Times.
 
@@ -166,7 +166,7 @@ Venti ult anemo gauge is 1U.
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
- [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 
 **Finding:**  
 Venti’s C1 damage instance is considered CA damage.
@@ -184,7 +184,7 @@ Damage calculations for Venti.
 
 **By:** Hishammm ♡\#0001  
 **Added:** 2021-05-01  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/837587957828419594/838584790323298355/transcript-c6-venti-res-down-duration.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837587957828419594_838584790323298355_transcript-c6-venti-res-down-duration.html)
 
 **Finding:**  
 The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.  

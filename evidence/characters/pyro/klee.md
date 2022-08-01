@@ -39,7 +39,7 @@ Klee can break hydro abyss shields faster by abusing the fact that her mines are
 
 **By:** Steph\#3614  
 **Added:** 2021-06-07  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/843884968681668648/851377033031581726/transcript-klee-mines-icd-update.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843884968681668648_851377033031581726_transcript-klee-mines-icd-update.html)
 
 **Editor's Note:** The findings below expands on the findings above, this finding does not invalidate the above entry, but rather investigates a similarly related mechanic.
 
@@ -76,7 +76,7 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **By:** jamie\#9248, Scavenger\#6510  
 **Added:** 2021-10-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/895409296140013619/900158764689272842/transcript-klee-e-gauge.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895409296140013619_900158764689272842_transcript-klee-e-gauge.html)
 
 **Finding:** Tcl entry for klee's jumpty dumpty might have the wrong bounce gu entry, which is currently in at 2b. Bounces are not all the same.  
 1st bounce = 1u 2nd bounce = 1u 3rd bounce = 2u
@@ -93,7 +93,7 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **By:** Poisonite\#0195  
 **Added:** 2022-06-06  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/983454660314673274/transcript-klee-interaction-with-skill-related-passives-when-doing-eq-cancel.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_983454660314673274_transcript-klee-interaction-with-skill-related-passives-when-doing-eq-cancel.html)
 
 **Finding:**  
 Klee can use her Q (Burst) to cancel E (Skill) after cast but before cooldown timer begins, but cannot dash/jump cancel her E before cooldown begins.
@@ -127,7 +127,7 @@ You can leave Bennett Q after using Klee burst and you also keep other atk% buff
 
 **By:** Ayzel\#7399  
 **Added:** 2021-06-11  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851923227819114496/852776649149513748/transcript-klee-burst-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851923227819114496_852776649149513748_transcript-klee-burst-mechanics.html)
 
 **Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 
@@ -170,7 +170,7 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 
 **By:** Tsuki\#8993  
 **Added:** 2022-04-24
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967842007131246712/transcript-klee-a1-bug.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967842007131246712_transcript-klee-a1-bug.html)  
 
 **Bug:**  
 If Klee gains a spark from her A1 while canceling the NA with a CA, her Stamina still gets consumed.  
@@ -185,7 +185,7 @@ When doing Klee's N1C, you might not benefit from the Stamina reduction passive 
 
 **By:** pai\#3602 and daibangden2460\#8410  
 **Added:** 2022-02-20   
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/934968623401955358/945091321016774676/transcript-klee-a1-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934968623401955358_945091321016774676_transcript-klee-a1-mechanics.html)  
 
 **Findings:**    
 Regarding the Explosive Spark from Klee's A1:  
@@ -213,7 +213,7 @@ Klee is good at destroying stuff without consuming stamina.
 
 **By:** elijam#7142  
 **Added:** 2021-08-07  
- [Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/866108653634846780/873536676675338280/transcript-tcl-damage-type-completion.html)  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
  
 **Finding:**  
 Klee’s C4 damage instance has no ability type scaling tags. 
@@ -230,7 +230,7 @@ Damage calculations for Klee.
 
 **By:** solo#3333  
 **Added:** 2021-09-25  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887165577691529226/891209626396266516/transcript-klee-c6-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887165577691529226_891209626396266516_transcript-klee-c6-mechanics.html)  
  
 **Finding:**  
 - Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).  
@@ -256,7 +256,7 @@ No value in chain casting burst shenanigans, and Klee C6 does apply to her own b
 
 **By:** solo\#3333  
 **Added:** 2021-10-23  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887125796379050076/901561241552695326/transcript-klee-c1-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887125796379050076_901561241552695326_transcript-klee-c1-mechanics.html)  
  
 **Finding:**  
 - Klee's C1, like her burst, has a (very) small aoe.  
@@ -301,7 +301,7 @@ Yes they do.
 
 **By:** solo#3333  
 **Added:** 2021-09-17  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/887521548049715200/888239532028354630/transcript-klee-4cw-3-stacks.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887521548049715200_888239532028354630_transcript-klee-4cw-3-stacks.html)  
  
 **Finding:**  
 Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one charge of Jumpty Dumpty. Therefore using the second charge within 10s will bring the total CW stacks to 3.
@@ -316,7 +316,7 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 
 **By:** pai\#3602  
 **Added:** 2022-04-24  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/967824209369776198/transcript-klee-stacking-bug-has-been-fixed.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967824209369776198_transcript-klee-stacking-bug-has-been-fixed.html)  
 
 **Finding:**  
 Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.  

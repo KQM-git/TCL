@@ -35,7 +35,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 
 **By:** Steno\#6940  
 **Added:** 2021-04-21  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/834274373493456976/834662830120239115/transcript-albedo-e-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834274373493456976_834662830120239115_transcript-albedo-e-snapshot.html)
 
 **Finding:** Albedo's elemental skill snapshots, meaning that damage for its entire duration is calculated when the skill is cast, so any buffs gained/lost after the skill is cast will not affect the skill's damage.
 
@@ -49,7 +49,7 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 
 **By:** NZPIEFACE\#8439, Kolibri\#7675  
 **Added:** 2022-06-14  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/986267083748835339/transcript-albedo-e-is-pepega.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986267083748835339_transcript-albedo-e-is-pepega.html)
 
 **Finding:**  
 Albedo's Solar Isotoma procs the Transient Blossoms when enemies take damage (client-side).  
@@ -66,7 +66,7 @@ Albedo's on-damage effect appears to trigger client-side and from all sources of
 
 **By:** gtrain#9987  
 **Added:** 2021-08-13  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/875475337687990272/875585791869468722/transcript-albedo-fatal-blossom-snapshot.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875475337687990272_875585791869468722_transcript-albedo-fatal-blossom-snapshot.html)
 
 **Finding:**  
 Albedo's Fatal Blossom damage is based on stats snapshotted when his E is cast, not at the time of Q cast
@@ -93,7 +93,7 @@ To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise th
 
 **By:** Poisonite\#0195  
 **Added:** 2022-04-08  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/945097851195777054/962008806097838120/transcript-albedo-a4-triggers-during-q-animation.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962008806097838120_transcript-albedo-a4-triggers-during-q-animation.html)  
 
 **Finding:**  
 Albedo's A4 buff starts in the middle of his Q animation when the Geo structure appears in front of him. The buff timer starts at the same time and ends 10s after.  

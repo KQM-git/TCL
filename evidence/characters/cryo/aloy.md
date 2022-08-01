@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/881300511838584882/885320475805368401/transcript-aloy-basic-mechanics.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881300511838584882_885320475805368401_transcript-aloy-basic-mechanics.html)
 
 ### Attributes
 
@@ -73,7 +73,7 @@ search: false
 
 **By:** Raven\#9205  
 **Added:** 2021-10-16  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/896016732412596244/899099498595364894/transcript-aloy-and-sac-bow.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896016732412596244_899099498595364894_transcript-aloy-and-sac-bow.html)  
 
 **Finding:**  
 The wording in the Aloy Section of the Theorycrafting Library was incorrect, if Frozen Wilds is recasted after Sacrificial Bow has activated while there are bombs still on the field, the last round of bombs will explode rather than disappear.

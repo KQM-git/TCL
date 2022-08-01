@@ -449,7 +449,7 @@ Reviewed/Edited by: IonFox, Doug
 
 **By:** Monochrom9\#8058  
 **Added:** 2021-04-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804110170833158174/834201279973556234/transcript-self-gauges-and-leylines.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804110170833158174_834201279973556234_transcript-self-gauges-and-leylines.html)
 
 **Theory:** Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U value greater than the remaining aura.
 
@@ -461,7 +461,7 @@ Reviewed/Edited by: IonFox, Doug
 
 **By:** Monochrom9\#8058  
 **Added:** 2021-04-19  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/804550581800271873/834201539702423592/transcript-leyline-self-aura-infusions.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804550581800271873_834201539702423592_transcript-leyline-self-aura-infusions.html)
 
 **Finding:** It has been known that you can use self auras to infuse anemo ults \(Venti/Sucrose\) with elements instead of enemy auras. This happens to include the aura applied by leylines so it allows for elements not present AT ALL otherwise to be practically included in a team.
 
@@ -475,7 +475,7 @@ Reviewed/Edited by: IonFox, Doug
 ## Reapplying Hydro on Freeze
 
 **By:** Some Proselytizer\#8340 and Aetherpon\#5730  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/845683620832084008/855002512116416512/transcript-freeze-test-hunt.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845683620832084008_855002512116416512_transcript-freeze-test-hunt.html)
 
 **Finding:** Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
 
@@ -486,7 +486,7 @@ Reviewed/Edited by: IonFox, Doug
 ## Tax Evasion
 
 **By:** Aluminum#5462  
-[Discussion](https://tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/851683689174925352/861402567899873320/transcript-tax-evasion.html)
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851683689174925352_861402567899873320_transcript-tax-evasion.html)
 
 **Finding:** Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
 
