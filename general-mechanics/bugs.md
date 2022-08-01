@@ -65,6 +65,8 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 * There is a bug that causes your character to [stop moving while sprinting](../evidence/general-mechanics/bugs.md\#sprinting-bug), while still consuming stamina.
   * You can "break free" from this state by performing any action such as jump, attacks, dash, aim, swap, and entering a menu.
 
+* It is possible for the aimed versions of certain abilities to spawn their respective objects [in a different location from initially intended](../evidence/general-mechanics/bugs.md\#aimed-abilities-not-going-where-aimed). This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.
+
 ## Fixed Bugs
 
 ### Turbo

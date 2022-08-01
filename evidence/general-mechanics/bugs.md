@@ -589,4 +589,31 @@ You can attack with fishing rod if you exit fishing while ping is turbo or you a
 [Imgur](https://imgur.com/a/YkJilx7)  
   
 **Significance:**  
-They should make fishing more engaging imo
+They should make fishing more engaging imo.  
+
+### Aimed Abilities Not Going Where Aimed
+
+**By:** Rathalos\#2875 and Casdela\#5121  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)  
+
+**Finding:**  
+It is possible for the aimed versions of certain abilities to spawn their respective objects in a different location from initially intended. This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.  
+
+This mechanic applies to the following:
+
+* Albedo's E, Solar Isotoma
+* Arataki Itto's E, Masatsu Zetsugi: Akaushi Burst
+* Gorou's E, Inuzaka All-Round Defense
+* Fischl's E, Nightrider
+* Keqing's E, Stellar Restoration
+ 
+**Evidence:**  
+* [Albedo](https://youtu.be/K94bKHVg7U8)
+* [Gorou, Arataki Itto, Fischl](https://youtu.be/FRACwPMYlR4)
+* [Keqing](https://youtu.be/ZrYrZ2hTHng)
+* [GMC](https://youtu.be/MDdIv1bUkQc)
+* [GMC](https://youtu.be/WlN9nLtQ7SU)
+
+**Significance:**  
+Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of skill expression, despite how benign it is.  
