@@ -1003,4 +1003,48 @@ Night - 18:30 to 04:29
 As we know, Jenshin Impact's anti-cheat has kernel level access to your device. It is then not hard to imagine that it would be possible for Mihoyo to grab any data they wanted, such as the date and time and your payment details. It would also be possible for them to collect data on your daily habits, what topics interest you, what things make you likely to spend money and sell this data to advertisers who can use this data maliciously. Such anti-cheat tools often target drivers and software that have access to your hardware, such as overclocking tools, temperature monitors, fan controllers. This can cause performance issues, on top of the bad optimization, lag and ping issues we already face.  
 In conclusion, just go play minecraft.  
   
-Fluff.
+Fluff.  
+
+## Kuki Shinobu's Melons
+
+**By:** Aevean Leeow\#1362  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kuki-shinobus-melons)  
+
+**Finding:**  
+Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some odd properties.  
+1. Unlike usual sources of overworld pyro damage, like torches or burning grass or other campfires, this campfire only deals 4 damage per tick. Like other campfires, it is 1U transformative pyro damage.
+2. The campfire has similar properties to other campfires \(hold cryo gauge, pops Ayato E, and gets targetted by Oz if Fischl procs A1\) but does not light up under elemental sight, unlike regular campfires. This applies whether it holds pyro, cryo, or no element at all.
+3. Player constructs may be placed on top of the melons, but construct placements that would intersect with the melon hitboxes are invalid. Note that the hitbox is strange and somewhat unintuitive, and does not entirely match its appearance.
+4. The melons are "slippery" in the sense that while the player may stand on them, approaching the melons with more than an arbitrary small amount of speed will cause them to slip off. For example, one may drop down onto the melons via climbing a construct, but performing a directionless jump straight up will cause the character to fall off. Character attacks, as usual, will not lead to them falling off the melons either, and neither will swapping characters.  
+This is a very strange result. First, roasted melons would not be slippery, as any surface moisture would be evaporated due to the heat of the campfire. Second, sticks usually used to skewer fruit would not be sturdy enough to support someone's weight.
+5. The melons can be attacked to produce hitlag and a hitmarker. It also blocks projectiles, like any other solid object. Normal fruits skewered by sticks would get obliterated by an attack from a sword or spear.
+6. As an addendum, the NPC Ushi does not resonate with Zhongli's E pillars. Note that earlier, Itto states that Ushi "can exorcise youkai and spirits." 
+
+**Evidence:**  
+1. [4 Pyro transformative dmg \(1U\)](https://youtu.be/TbdxoFm5Wvo)
+
+2. [Elemental sight, cryo application, 1U pyro](https://youtu.be/7q_j4ddv2WA)
+* [Fischl A1 target](https://youtu.be/qCXdsBCMADU)
+* [Ayato E pop](https://youtu.be/EcZDtToVtdc)
+
+3. [Albedo E on melons](https://youtu.be/VBM1jQcGPTA)
+* [Zhong](https://youtu.be/hVqCQamaIks)
+* [Ning, GMC](https://youtu.be/5LvRjOJkFtk)
+* note that "gadget constructs" are disabled within the quest area \(maybe not stove\) so I could not test them
+
+4. [Slippery](https://youtu.be/pKKYAoxd8Pk)
+
+5. [Hitlag, hitmarker](https://youtu.be/qCXdsBCMADU)
+* [Blocks projectile](https://youtu.be/_eVWcI-wZi8)
+
+6. [No resonance](https://youtu.be/pKKYAoxd8Pk)
+
+**Significance:**  
+It is obvious that the melons and the campfire are a dark ritual tool of some kind, employed by religious heretic Kuki Shinobu. Hoyoverse is a Chinese company, and in Chinese, 4 is an unlucky number because it sounds similar to the Chinese word for death. The campfire dealing 4 damage is no coincidence. Furthermore, its absence from elemental sight and the non-Euclidean melon hitboxes are signs of a demonic rot setting in on the fabric of reality itself.  
+
+One may argue that the melons are not foul or evil in nature, as Itto quite liked the taste in the quest. However, Itto's enjoyment of the suspicious "slippery" melons can be attributed to the fact that he is an evil Oni of legend. Similarly,  the ability to strike the melons, producing a hitmarker and hitlag, is indicative that they are on the side of evil. This theory also explains Ushi's inability to find a way out or to resonate with Zhongli's pillar -- Ushi, as an expert exorcist, was resisting the overwhelming power of Shinobu's diabolism.  
+
+These points shed light on the truth of Shinobu's backstory. Clearly, she was lying about her desire for freedom or whatever excuse she may have used. The truth was that she fled from and continues to avoid Grand Narukami shrine maidens, such as her family, in order to prevent them from exorcising and sealing her away. Shinobu is probably really bad at danmaku, given that she lacks a bullet dodging certificate, which explains why she chose to flee instead of fight. This also means that her profession of deputy leader of the Arataki Gang is merely a front for her to perform diabolic arts without suspicion.  
+
+Furthermore, her unwillingness to assist in fighting off the evil spirits while Xiao channeled his energy into the compass is most likely not because she had her hands full with Itto. It is more likely that Kuki Shinobu was the mastermind behind the entire incident with the abyss, the chasm, and the compass.  

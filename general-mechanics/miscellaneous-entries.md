@@ -107,6 +107,10 @@ description: For entries that have little practical use.
   * Dusk - 16:30 to 18:29
   * Night - 18:30 to 04:29
 
+## Perilous Trail
+
+* Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some [odd properties](../evidence/general-mechanics/miscellaneous-entries.md\#kuki-shinobus-melons).
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/miscellaneous-entries.md" %}
