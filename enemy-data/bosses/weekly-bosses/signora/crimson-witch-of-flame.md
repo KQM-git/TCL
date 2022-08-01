@@ -47,7 +47,9 @@ None.
 
 Now assuming her erstwhile moniker, Signora utilizes Pyro-based attacks. 
   * During this, Blazing Heat will accumulate rapidly. Once the gauge is full, the current player character will lose ~1% HP per second.
-  * Eyes of Frost will be positioned at the edges of the arena to counter its effects.  
+    * Eyes of Frost will be positioned at the edges of the arena to counter its effects.  
+  * When Signora sustains a single instance of DMG that exceeds 20% her Max HP, all DMG beyond that percentage will be nullified.
+    * After this, Signora will launch a ferocious counterattack against active characters and unleash a wave of heat that will rapidly accumulate Blazing Heat.
 
 All of her attacks will cause Embered Earth: the floor will become molten for a short period of time, dealing Pyro DMG per interval.
   * Moreover, her attacks will also amplify the accumulation of Blazing Heat should the player gets hit by them.

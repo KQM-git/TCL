@@ -44,8 +44,10 @@ None.
 
 At first, Signora will utilize Cryo-based attacks via her Delusion. 
   * During this phase, Sheer Cold will accumulate, once the gauge is full, the player will lose ~1% HP per second. 
-  * Halfway through the battle, the rate of Sheer Cold accelerates. 
-  * Hearts of Flame are placed around the edges of the arena to counter its effects.
+    * Halfway through the battle, the rate of Sheer Cold accelerates. 
+    * Hearts of Flame are placed around the edges of the arena to counter its effects.
+  * When Signora sustains a single instance of DMG that exceeds 30% her Max HP, all DMG beyond that percentage will be nullified.
+    * After this, Signora will launch a ferocious counterattack against active characters and unleash a wave of cold air that will rapidly accumulate Sheer Cold.
 
 All of her attacks will cause Frosted Floor: the floor will become patched with ice, dealing Cryo DMG per interval. 
   * Moreover, her attacks will also amplify the accumulation of Sheer Cold should the player gets hit by them.

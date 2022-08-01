@@ -323,6 +323,33 @@ Shown here with Zhongli Pillar: [YouTube](https://youtu.be/HrjIBJ52od0)
 **Significance:**  
 Better understanding of La Signora's Crimson Lotus Moth mechanic.
 
+#### Details on Signora Damage Cap
+
+**By:** Latiwings\#3308  
+**Added:** 2022-07-25  
+[Discussion](https://tickets.deeznuts.moe/transcripts/details-on-signora-dmg-cap)
+
+**Finding:**  
+In Signora's boss domain fight, this was stated in the Leyline.  
+> When Signora sustains a single instance of DMG that exceeds a certain percentage of her Max HP, all DMG beyond that percentage will be nullified. After this, Signora will unleash a wave of cold air or heat that will cause characters to rapidly accumulate the corresponding temperature status. She will also launch a ferocious counterattack against active characters.
+
+The per instance damage cap for Signora's both phases are different. For the first phase, the cap is 30%, or 111671 DMG. Her max HP here is 371003 HP.
+
+For her second phase, her per instance damage cap is instead 20%, or 149143 DMG. Her max HP in this phase is 742006 HP.
+
+Max HP was referenced from [Honey Impact](https://genshin.honeyhunterworld.com/db/monster/m_29050101/?lang=EN).
+
+**Evidence:**  
+* Vaporizing Tartaglia's weaker ranged burst hit the cap - [YouTube](https://youtu.be/f_kmldTM_do)
+  * At 0:10, Childe's burst got capped at exactly 111671.
+  * At 0:39, Childe's Burst got capped at exactly 149143.
+* Vaporizing Tartaglia's stronger melee burst hit the cap, dealing the same damage as when ranged - [YouTube](https://youtu.be/OcUDFy91qfo)
+  * At 0:10, Childe's burst got capped at exactly 111671.
+  * At 0:27, Childe's Burst got capped at exactly 149143
+
+**Significance:**  
+We now know what is the exact percentage for the cap.
+
 ### Stormterror  
 
 #### Stormterror DoT Damage Cap
