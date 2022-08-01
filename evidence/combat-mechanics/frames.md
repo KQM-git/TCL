@@ -162,7 +162,33 @@ Standardized aim mode frame counts for bow characters.
 * Frames were recorded at 60fps, using a macro to find the minimum consistent frame counts.
 
 **Significance:**  
-More accurate counts for the TCL.  
+More accurate counts for the TCL.
+
+## Burst Idle iFrames
+
+**By:** Aeonim\#3811, Chompy\#6384, Fiery\#9872, soran\#0001, Kolibri\#7675  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/burst-idle-i-frames)  
+
+**Finding:**  
+Certain characters' elemental bursts provide iFrames far beyond the first cancellable frame. However, these iFrames are only active until the player inputs any action, after which they are immediately cancelled, thus the name "Idle iFrames."  
+
+**Evidence:**  
+* [Spreadsheet of data](https://docs.google.com/spreadsheets/d/13vaZDoydPxFwy3Z0Sq8gMuuVVauE6rQWI3CivfquHaw/edit?usp=sharing)  
+* [Clips used to measure](https://drive.google.com/drive/folders/1bC7iQSZ9AvvYprEUAnGvkKqL28v8YRk6?usp=sharing)
+
+Two values were needed to calculate the Idle iFrames a character's burst has: The "First Switch Frame" \(FSF\) and the "Total Invulnerability Length" \(TIL\).  
+
+FSF is the first frame a character switch can occur after using a burst. This was measured by using a character's elemental burst while spamming the character switch buttons. As a result, FSF is the total number of frames from the first frame of a character's burst animation to the first frame the character actually switches model, including the former, excluding the latter.  
+
+TIL was measured by using a character's burst while taking damage from both Sheer Cold as well as Signora's icy floor \(and sometimes Signora's icicle attacks\). This method was used as it is the most consistent ticking damage as well as effectively the fastest ticking damage. When measuring TIL, all frames between the first frame of a character's burst animation and the first frame of damage taken are considered iFrames, including the former frame, excluding the latter. In cases where the character took damage after their burst animation started, the starting point of the TIL would be the frame after they took damage.  
+
+The total number of Idle iFrames was calculated as Idle iFrames = TIL - FSF. Keep in mind that these will have a margin of error, as damage taken has been found to be server side, rather than client \(NZPIEFACE\#8439, 2021-12-17\).  
+
+* [Prime Example](https://www.youtube.com/watch?v=b6Y1juLV0wA): Keqing was observed to have the longest total invulnerability as well as the greatest number of idle iFrames, avoiding damage for a total of 347 frames \(5.783 seconds\), 222 frames \(3.7 seconds\) longer than her first switch frame. This is significantly longer than the "2 seconds" that many others cite.
+
+**Significance:**  
+These additional iFrames may prove useful in dodging/iFraming incoming attacks without the use of stamina, or dodging long attacks, such as Maguu Kenki's "Phantom: Flowing Water" attack \(during the Vagabond Sword event\). Knowing these values may also help others in knowing around when you'll start taking damage after pressing the burst button.  
 
 ## Catalyst N1 Buffer
 

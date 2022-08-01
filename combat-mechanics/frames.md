@@ -23,4 +23,9 @@ There are some skills, namely deployables, unable to be extended by hitlag, know
 All catalyst characters have 3 distinct lengths for their n1. Under normal circumstances, they will always use their regular (short) version. However, inputting a Normal Attack immediately out of a dash or sometimes on the first few frames of a walk input will lead to the N1 having significantly increased animation frames (long version). Inputting a Normal Attack out of a previous Normal Attack string leads to a slightly lengthened animation (medium version). 
 * For more detailed information and specific frame counts, see the [vault entry](../evidence/combat-mechanics/frames.md\#catalyst-n1-buffer).
 
+## Burst Idle iFrames
+
+Certain characters' elemental bursts provide iFrames far beyond the first cancellable frame. However, these iFrames are only active until the player inputs any action, after which they are immediately cancelled.  
+* [Spreadsheet of data](https://docs.google.com/spreadsheets/d/13vaZDoydPxFwy3Z0Sq8gMuuVVauE6rQWI3CivfquHaw/edit?usp=sharing)
+
 {% page-ref page="../evidence/combat-mechanics/frames.md" %}
