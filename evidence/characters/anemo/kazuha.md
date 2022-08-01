@@ -213,6 +213,24 @@ Kazuha's E > plunge can be considered as an anemo infusion which cannot be overr
 * Kazuha Slash can self-infuse auras. - [HappyGL\#0523](https://imgur.com/a/VfCg2cA)  
 * Infusion priority order is [Pyro](https://imgur.com/a/3FsxwG9) > [Hydro > Electro](https://imgur.com/a/3tFexju) > [Cryo](https://imgur.com/a/CJ5feqy).  - HappyGL\#0523  
 
+### Can Kazuha Infuse Element During Plunge From Bennett C6 And Chongyun
+
+**By:** HowLxxxx\#4676  
+**Added:** 2022-07-25  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-burst-absorption-timing-or-mechanics)
+
+**Finding:**  
+Kazuha's Burst checks for aura just before the Kazuha Slash hits. When self-inflicted auras like Bennett's Burst are cleared by enemy hits before Kazuha's Burst checks for auras, Kazuha’s Burst will absorb the aura based on his known absorption priority in the Burst absorption hit-box, either enemy or character.
+
+**Evidence:**  
+Bennett Q - Kazuha N1 Q - [Imgur](https://imgur.com/a/jaZ2UXE)
+* Kazuha has Pyro aura before and during Q animation
+* Kazuha was hit by the Icicle from Cryo Slime that removes the Pyro aura
+* Kazuha Slash hits the Lawachurl, while the Autumn Whirlwind absorbs Cryo
+  
+**Significance:**  
+Timing Burst on certain cases.
+
 ## Ascension Mechanics 
 ### A1: Soumon Swordsmanship
 
