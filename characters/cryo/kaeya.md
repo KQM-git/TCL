@@ -156,7 +156,9 @@ The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by
 {% tab title="C2" %}
 ### **Never-Ending Performance**
 
-Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.
+Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s.  
+
+* The condition can be triggered by anyone in the party. Opponents do not need to be defeated by **Glacial Waltz** specifically to for **Never-Ending Performance** to trigger.
 
 {% endtab %}
 

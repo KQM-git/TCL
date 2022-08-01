@@ -90,5 +90,22 @@ Kaeya’s Elemental Skill generates 2-3 particles when hitting Boss and Trounce 
 **Significance:**  
 Further understanding of particle generation.
 
+## Constellation Mechanics
 
+### C2: Never-Ending Performance
+
+#### Anyone can Trigger C2 Extension
+
+**By:** yeow\#5090  
+**Added:** 2022-07-29  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kaeya-c2-anyone-trigger)  
+
+**Finding:**  
+Unlike how it is worded, Kaeya C2 does not care if his burst or himself that deals the final blow; Anyone can deal the final blow, and the extension still happens.  
+
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=oVOcNeMFqb0)  
+
+**Significance:**  
+Clarification for C2 trigger condition. C2 is easier to trigger than the ingame wording suggests.
 
