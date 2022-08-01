@@ -200,6 +200,7 @@
 | ATK% | 10.8% - 49.6% |
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* Summit Shaper can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
 {% endtab %}
 
 {% tab title="Details" %}
@@ -728,6 +729,8 @@
 | Gash | On hit, has 50% chance to deal **240/280/320/360/400**% ATK DMG to a single enemy. Can only occur once every **15/14/13/12/11**s. |
 | Base ATK | 39 - 401 |
 | ATK% | 7.7% - 35.2% |
+
+* The passive cannot be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
 {% endtab %}
 
 {% tab title="Details" %}

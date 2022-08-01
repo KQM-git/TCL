@@ -1652,3 +1652,24 @@ Healing passive from weapons are affected by Healing Bonus and Incoming Healing 
 
 **Significance:**  
 Confirmation of how healing passive works on weapons.  
+
+### Weapon Stacks and Zero Damage Attacks
+
+**By:** Kolibri\#7675, Xreejan\#1180, Phana\#0420  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/0-dmg-attacks-and-weapon-stacks-on-hit)  
+
+**Finding:**  
+Some character abilities contain zero-damage attacks which can grant stacks for weapons such as Primordial Jade Winged-Spear, Summit Shaper, The Unforged, Vortex Vanquisher and Memory of Dust. They can also trigger Wolf's Gravestone's passive.  
+These attacks cannot trigger Fillet Blade's passive even though its description says "On hit" like Wolf's Gravestone's passive.  
+
+**Evidence:**  
+* [Google Sheet](https://docs.google.com/spreadsheets/d/1Ie3SIUXvI2ME7LpRfiCc6p6WPBx9LIfH5AMVMAAHwS0/edit?usp=sharing)  
+* [Fillet Blade passive](https://youtu.be/os9nK1hXo9g)  
+
+**Significance:**  
+Characters can benefit from the stack granted by a zero-damage attack.  
+Examples: 
+* Raiden can gain a stack before her Burst deals damage. This is because of the zero-damage attack that happens towards the start of her Burst animation.
+* Hu Tao can gain a stack by simply activating her E next to an enemy.  
+

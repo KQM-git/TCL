@@ -117,6 +117,7 @@
 | ATK% | 10.8% - 49.6% |
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* The Unforged can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -150,6 +151,7 @@
 * WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet - [JonahFarc\#7056](../../evidence/equipment/weapons.md#wolfs-gravestone-procs-dont-stack)
 * Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff. - [Goden\#2155](../../evidence/equipment/weapons.md#wolfs-gravestone-passive-does-not-affect-the-attack-that-procs-it)  
+* WGS passive can be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
 {% endtab %}
 
 {% tab title="Details" %}

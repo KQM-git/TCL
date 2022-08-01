@@ -114,6 +114,7 @@
 
 * Xingqiu's Rain Swords do not count as a shield for Memory of Dust - [＃＃\#0123](../../evidence/equipment/weapons.md#analysis-of-whether-xingqiu-e-q-counts-as-a-shield-for-memory-of-dust-and-bolide)
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* MoD can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
 {% endtab %}
 
 {% tab title="Details" %}

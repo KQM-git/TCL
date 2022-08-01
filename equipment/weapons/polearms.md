@@ -78,7 +78,8 @@
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS\#7853 and Dunia\#2481](../../evidence/equipment/weapons.md\#weapon-stacks-on-hit)  
+* PJWS can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
 {% endtab %}
 
 {% tab title="Details" %}
@@ -168,6 +169,7 @@
 | ATK% | 10.8% - 49.6% |
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
+* Vortex Vanquisher can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
 {% endtab %}
 
 {% tab title="Details" %}
