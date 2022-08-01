@@ -248,6 +248,23 @@ All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and se
 **Significance:**  
 Documenting how on-normal-animation effects can actually trigger multiple times if the animation is long enough. Other units may exist or be added with normal animation triggers or super long animations that may take advantage of this.
 
+### Each Burst Wave Snapshots When Summoned
+
+**By:** lucianekat\#7757  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/each-wave-of-xingqius-burst-snapshots-when-summoned)  
+
+**Finding:**  
+Each wave of sword rain attacks from Xingqiu's burst snapshots buffs when summoned.  
+
+**Evidence:**  
+* Without TTDS, Xingqiu's ATK was 1181 and one hit from his burst did 432 damage on a crit: [YouTube](https://youtu.be/JuMcWCxYwow)
+* With TTDS, Xingqiu's ATK was 1485 and one hit from his burst did 544 damage on a crit: [YouTube](https://youtu.be/kbSCkUKflSE)
+* In [this video](https://youtu.be/8Pd2IY0f4wQ), I applied the TTDS buff to Xingqiu (ATK became 1485) and then summoned a wave of Xingqiu's sword rain attacks just before the TTDS buff ran out. The result was that the sword rain attacks did 544 damage on a crit (the damage of a hit buffed by TTDS). We know TTDS expired before the enemy was hit since Xingqiu's ATK was 1181 on the character screen just before the attack hit.
+
+**Significance:**  
+Better understanding of Xingqiu's burst and snapshotting. Although in practice, Xingqiu's burst uses buffs dynamically, once a wave of sword rain attacks is summoned, that wave has snapshotted Xingqiu's stats and is NOT dynamic anymore.  
+
 ## Constellation Mechanics
 
 ### C6: Hence, Call Them My Own Verses

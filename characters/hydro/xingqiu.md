@@ -143,6 +143,7 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 * **Sword Rain** waves can be triggered at most once a second. So long as you are still in a normal attack animation, the next **Sword Rain** wave will be triggered as soon as possible.
   * Some normal attack animations, which persist longer than 1 second, can trigger multiple **Sword Rain** waves.
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
+* **Guhua Sword: Raincutter** does not snapshot buffs on cast. However, each wave of sword rain attacks from **Guhua Sword: Raincutter** will snapshots buffs when they are summoned.
 
 {% endtab %}
 {% endtabs %}
