@@ -162,4 +162,33 @@ Standardized aim mode frame counts for bow characters.
 * Frames were recorded at 60fps, using a macro to find the minimum consistent frame counts.
 
 **Significance:**  
-More accurate counts for the TCL.
+More accurate counts for the TCL.  
+
+## Catalyst N1 Buffer
+
+**By:** Steno\#0119 and pai\#3602  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/catalyst-n1-buffer)  
+
+**Finding:**  
+All catalyst characters have 3 distinct lengths for their n1. Under normal circumstances, they will always use their regular (short) version. However, inputting a normal attack immediately out of a dash or sometimes on the first few frames of a walk input will lead to the n1 having significantly increased animation frames (long version). Inputting a normal attack out of a previous normal attack string leads to a slightly lengthened animation (medium version).  
+
+The exact frames for the short and long versions for all catalyst characters are:  
+* Barbara: 10 short, 22 long
+* Kokomi: 15 short, 23 long
+* Klee: 28 short, 37 long
+* Lisa: 20 short, 30 long
+* Mona: 15 short, 24 long
+* Ningguang (when she doesn't spin): 54 short, 60 long
+* Sucrose: 15 short, 25 long
+* Yanfei: 22 short, 27 long 
+* Yae: missing data
+
+**Evidence:**  
+* A couple of basic buffering scenarios with Kokomi: [YouTube](https://www.youtube.com/watch?v=66CQ3c1dwzw)
+* W \(walk\) N2 scenario with Kokomi: [YouTube](https://youtu.be/qiIadZ1AVi0)
+  * This test shows ~6 - 9 frame difference on the length of the N1 between a regular attack and a walk -\> attack.
+* Frame data for all catalyst characters on regular vs dash buffered Normal Attacks: [Google Doc](https://docs.google.com/spreadsheets/d/1fKfOkf06GCpzRTwp439chyqEdYf6SA-rg9_G8Lmha_c/edit?usp=sharing)
+
+**Significance:**  
+Better optimization of catalyst attack strings.  
