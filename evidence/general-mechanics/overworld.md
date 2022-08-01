@@ -746,6 +746,21 @@ The overworld map is split into multiple zones that effect damage dealt by envir
 **Significance:**  
 Fluff and overworld documentation.  
 
+#### Golden Apple Archipelago 2022 Update
+
+**By:** Vladone ツ\#9281  
+**Added:** 2022-07-28  
+[Discussion](https://tickets.deeznuts.moe/transcripts/golden-apple-archipelago-zone-levels)  
+
+**Finding:**  
+The overworld map is split into multiple zones that effect damage dealt by environmental reactions. These are the zones for Golden Apple Archipelago.    
+
+**Evidence:**  
+[Map](https://photos.app.goo.gl/ZmztzcQ8XqgS3YeC9)  
+
+**Significance:**  
+Fluff and overworld documentation.  
+
 ### Constructs Take Zone Level Damage  
 **By:** Vladone ツ#9281  
 **Added:** 2022-02-20  

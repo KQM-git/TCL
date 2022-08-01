@@ -100,6 +100,7 @@ The overworld map is split into multiple zones that affect enemy level and envir
 * [The Chasm Underground](https://photos.app.goo.gl/9jAm8s5kKAJqQ5Na6)
 * [Inazuma](https://photos.app.goo.gl/6MJPiMXCELiiUTav6)  
 * [Enkanomiya](https://photos.app.goo.gl/PY1xLqPy8LKFJibC7)
+* [Golden Apple Archipelago 2022](https://photos.app.goo.gl/ZmztzcQ8XqgS3YeC9)
 
 Some constructs take zone level damage, a list of those that have been documented can be found [here.](../evidence/general-mechanics/overworld.md#constructs-take-zone-level-damage)  
 
