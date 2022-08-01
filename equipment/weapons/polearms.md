@@ -264,6 +264,9 @@
 | Gladiator | If there are at least 2 opponents nearby, ATK is increased by **16/20/24/28/32**% and DEF is increased by **16/20/24/28/32**%. If there are less than 2 opponents nearby, ATK is increased by **24/30/36/42/48**%. |
 | Base ATK | 41 - 454 |
 | CRIT Rate% | 8% - 36.8% |
+
+* The ATK and DEF bonus snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate. - [Aftermath\#7658](../../evidence/equipment/weapons.md\#deathmatch-passive-snapshot)
+
 {% endtab %}
 
 {% tab title="Details" %}

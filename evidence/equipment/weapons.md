@@ -715,6 +715,29 @@ This will hurt Albedo's damage until this is fixed. This bug is known and has be
 
 ---
 
+### Deathmatch
+
+#### Deathmatch Passive Snapshot
+
+**By:** Aftermath\#7658  
+**Added:** 2022-07-29  
+[Discussion](https://tickets.deeznuts.moe/transcripts/deathmatch-passive-snapshots)  
+
+**Finding:**  
+The Atk or Atk/Def bonus of the Deathmatch snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate.  
+
+**Evidence:**  
+[YouTube](https://www.youtube.com/watch?v=9Mc6ubPR8_U)  
+
+When first equipping the Deathmatch, it will have the Atk boost passive active. Going to a group of enemies and swapping in will activate the split Atk/Def bonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the Def bonus is still active.  
+
+Opening the menu as Yunjin swaps on-field still displays the Def bonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yunjin off-field, the passive still has the effect for 0-1 enemies.  
+
+**Significance:**  
+When you can run Yunjin on deathmatch, the passive snapshot can sometimes maintain her buff stats even when enemies start to die or spawn.  
+
+---
+
 ### Engulfing Lightning
 
 #### 4 ESF Interactions
