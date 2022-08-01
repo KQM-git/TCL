@@ -23,3 +23,4 @@ description: Compendium of useful databases.
 ## Misc
 
 * [Parametric Transformer Material Groups](https://docs.google.com/spreadsheets/d/1M2EpQp0_i34Mb7dpjsczK0wSC8QHj3w4nBhC4vIfDXM/) \(Google Sheets\)
+* [Does On Hit Mean On Field?](https://docs.google.com/spreadsheets/d/1S_Toll_6qIO1q2ood0KPteVH0-lw3mAPTKqEkmJeo9U/edit#gid=0) \(Google Sheets\)
