@@ -4,7 +4,7 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 
 # Yelan
 
-## ![](../../.gitbook/assets/element_hydro.png) 
+## ![](../../.gitbook/assets/element_hydro.png) Yelan
 ![](../../.gitbook/assets/character_yelan_wish.png)
 
 ## **Base Stats**

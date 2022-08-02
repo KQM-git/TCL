@@ -4,7 +4,7 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
  
 # Shikanoin Heizou
  
-## ![](../../.gitbook/assets/element_anemo.png) Heizou
+## ![](../../.gitbook/assets/element_anemo.png) Shikanoin Heizou
 ![](../../.gitbook/assets/character_heizou_wish.png)
  
 ## **Base Stats**
