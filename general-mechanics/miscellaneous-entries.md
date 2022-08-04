@@ -111,6 +111,34 @@ description: For entries that have little practical use.
 
 * Kuki Shinobu's melons, and the campfire she uses to roast them in particular, have some [odd properties](../evidence/general-mechanics/miscellaneous-entries.md\#kuki-shinobus-melons).
 
+## 100K Tickets Event Hall of Fame
+The winning "TC" entries of our **KQM 100K Event**, as well as some of our Scholars personal favourites.
+
+### Cows of Teyvat
+
+* A work of literature and painstaking research born from many hours' worth of wikia trawling, humorous insanity, and general Puffinlike bullshittery. Please enjoy reading this collaborative report from the foremost author on bovine subjects of Teyvat, and look forward to its sequel: "Horses of Teyvat".
+  * Written by [Puffin#9920](https://docs.google.com/document/d/1-Kl74p6VJGPxkjp6k_IdjfarEIiamixWN6xGud8AoKY)
+
+### Radius of Teyvat
+
+* Calculate gravity on the surface of Teyvat, height of Celestia, and use it to find the radius of Teyvat.
+  * Written by [sexyeboy69#2687](https://www.overleaf.com/project/6228b45e92354f715f4f4d7b)
+
+### Keqing is Better than a Spoon
+
+* A lighthearted and very scuffed "comparative analysis" between the strengths of Genshin Impact character "Keqing" and real-life stainless steel utensil "Spoon". Includes techniques borrowed from the great zajef77#2838.
+  * Written by [Chaiyune#7349](https://docs.google.com/document/d/1Ydc_LXNGr5Xarqz3UPGI6f4CUtRBibUOiQmo4ONHwuU)
+
+### Magical Lizards
+
+* Some lizards in Teyvat can spawn mid-air then fall without taking any damage. Let's unravel one of Teyvat's biggest magic trick.
+  * Written by [pai#3602](/evidence/general-mechanics/miscellaneous-entries.md#magical-lizards)
+
+### Eula Lawrence Is Best Girl And Every Other Opinion Is Factually Wrong
+
+* Title.
+  * Written by [Magnus Artifex#8719](https://docs.google.com/document/d/1-CgDseu_cxiy4ecMMn3ytI4ZdJbINCCVq03QE9q8Qcc)
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/miscellaneous-entries.md" %}
