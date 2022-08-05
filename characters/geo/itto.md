@@ -189,6 +189,7 @@ These effects will be cleared once he stops performing consecutive slashes.
 ### **Stay a While and Listen Up**
 
 After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stacks of **Superlative Superstrength**. After 1s, Itto will gain 1 stack of **Superlative Superstrength** every 0.5s for 1.5s.
+* The second part of **Stay a While and Listen Up** begins around 50 frames later than according to its description.
 
 {% endtab %}
 

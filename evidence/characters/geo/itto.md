@@ -145,6 +145,41 @@ The findings firstly disprove that Gorou’s paw symbol must fully appear before
 
 ## Constellation Mechanics
 
+### C1: Stay a While and Listen Up
+
+#### C1 Stack Timing
+
+**By:** Mr. Pillow\#0065 and AluMantis\#7870  
+**Added:** 2022-08-03 
+[Discussion](https://tickets.deeznuts.moe/transcripts/itto-c1-mechanics)  
+
+**Finding:**  
+Itto starts gaining SSS stacks 50 frames later than according to the C1 description.  
+
+**Evidence:**  
+According to Itto's 1st Constellation description, "After using \[Q\] ... \[a\]fter 1s, Itto will gain 1 stack of Superlative Superstrength every 0.5s for 1.5s." If we assume that the game is in 60 fps, this means that we expect the first SSS stack to be gained 90 frames after Itto uses Q, and the second and third SSS stacks to be gained 30 and 60 frames after this, respectively. However, in-game testing shows that this isn't what really happens.  
+
+Two trials were done in 60 fps and at different pings to check for ping-dependency:
+
+1. [Ping = 33ms](https://www.youtube.com/watch?v=sy_iIxdCXyA&ab_channel=GoldenMantis)
+* Start of Q animation: Frame # 133
+* Start of gaining the 1st SSS stack: Frame \# 271
+* Start of gaining the 2nd SSS stack: Frame \# 303
+* Start of gaining the 3rd SSS stack: Frame \# 332
+* The first SSS stack was gained 138 = 90 + 48 frames after Q, and the second and third SSS stacks were gained 32 and 61 frames after this, respectively.
+
+2. [Ping = 173ms](https://www.youtube.com/watch?v=WcgnU2_hb6o&ab_channel=GoldenMantis)
+* Start of Q animation: Frame \# 121
+* Start of gaining the 1st SSS stack: Frame \# 258
+* Start of gaining the 2nd SSS stack: Frame \# 291
+* Start of gaining the 3rd SSS stack: Frame \# 319
+* The first SSS stack was gained 137 = 90 + 47 frames after Q, and the second and third SSS stacks were gained 33 and 61 frames after this, respectively.
+
+We can firstly conclude that C1 is ping-independent. Secondly, it seems that Itto's C1 follows its description for the most part, except that the first SSS gain actually happens 50 frames later than what's stated.  
+
+**Significance:**  
+Better understanding of Itto's C1.  
+
 ### C2: Gather 'Round, It's a Brawl!
 * Itto C2 counts himself as a geo user. - [ElliMiku#5071](https://youtu.be/wCvSY1Y11T4)
 
