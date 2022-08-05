@@ -1315,6 +1315,33 @@ Explanation of how shields interaction with negative damage reduction
 
 ---
 
+### Slingshot
+
+#### Slingshot Passive Mechanics
+
+**By:** elijam\#7142 and ItzSomebody\#0029  
+**Added:** 2022-08-03  
+[Discussion]()  
+
+**Finding:**  
+Slingshot has a medium zone where neither buff nor debuff applies. Slingshot buff applies until roughly the same distance as it takes for Amos to move from 3 stack to 4 stack passive for charged shots.  
+
+Slingshot appears to dynamically track flight time. On release, arrows have a mixin which gives them a DMG% buff. After .3s, this mixin is removed, and then a mixin giving negative DMG% is added. This allows for the potential for some arrows to hit within a very narrow window where they have neither buff nor debuff.  
+
+**Evidence:**  
+* [Fully charged aimed shots](https://youtu.be/iFtg8ke5ryU)
+  * 2247 is buff, 1263 is debuff, 1404 is medium zone
+* [NAs, C1, and aimed shots](https://youtu.be/xKni7v2TsyY)
+  * Damage numbers and frame counts: [Imgur](https://imgur.com/a/dxY3ni9)
+* [Albedo E size reference for first video](https://youtu.be/i2_-5oeNbzc)
+  * Albedo E has radius 10m; medium zone is at about ~18m. 
+* Amos 4th stack applies starting at ~18m according to [previous TCL evidence](../characters/cryo/ganyu.md\#specific-distances-required-for-each-stack-of-amos-buff).  
+
+**Significance:**  
+Definitely just Yoimiya things.  
+
+---
+
 ### The Bell
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
