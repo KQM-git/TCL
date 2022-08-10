@@ -85,7 +85,7 @@ These data sheds light onto Pyronado mechanics and how to maximize their burst d
 
 #### Xiangling C2 damage
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-08-07  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 

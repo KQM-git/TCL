@@ -1213,7 +1213,7 @@ It is not advisable to run Prototype Amber on 2 or more characters in each team,
 
 #### Prototype Starglitter Stacks Duration Refresh
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-07-29  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_869121335903813682_870107482016579624_transcript-starglitter-stack-refresh.html)
 
@@ -1319,7 +1319,7 @@ Explanation of how shields interaction with negative damage reduction
 
 #### Slingshot Passive Mechanics
 
-**By:** elijam\#7142 and ItzSomebody\#0029  
+**By:** jamberry\#7142 and ItzSomebody\#0029  
 **Added:** 2022-08-03  
 [Discussion]()  
 

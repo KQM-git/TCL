@@ -84,7 +84,7 @@ description: 'Eula & Albedo Banners ft. Bennett, Noelle and Rosaria'
 | | [Beidou's C6 Range](../evidence/characters/electro/beidou.md#beidous-c6-range-is-extremely-short) | Steno\#0119 |
 | | [Pyronado Reverse Direction Mechanic](../evidence/characters/pyro/xiangling.md#pyronado-reverse-direction-mechanic) | euphorysm\#6156 |
 | | [Missed Attacks on Trees Mechanics](../evidence/general-mechanics/resources-and-efficiency.md#missed-attacks-still-mark-trees-for-unholy-harvesting) | Aluminum\#5462 |
-| | [Diluc Burst Damage Benefits from A4](../evidence/characters/pyro/diluc.md#diluc-burst-damage-benefits-from-a4) | elijam\#7142 |
+| | [Diluc Burst Damage Benefits from A4](../evidence/characters/pyro/diluc.md#diluc-burst-damage-benefits-from-a4) | jamberry\#7142 |
 | | [Polar Star has ICD Across Independent Stacks](../evidence/equipment/weapons.md#polar-star-has-icd-across-independent-stacks) | Cenpi\#3224, Kyarumi\#0002 |
 | | [Anemo MC's Burst Absorption is 2B](../evidence/characters/anemo/traveler-anemo.md#anemo-mcs-burst-absorption-is-2b) | Kourinn\#6001 |
 | | [Fruit Can Stick to Ground When Unattended](../evidence/general-mechanics/miscellaneous-entries.md#fruit-can-stick-to-ground-when-left-unattended) | vinsette\#0293 |

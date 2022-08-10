@@ -81,7 +81,7 @@ Better Diluc rotation.
 
 #### Diluc Burst Damage Benefits from A4
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-12-12  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917975114987999382_919073580216643584_transcript-diluc-burst-benefits-from-a4.html)  
 

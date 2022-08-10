@@ -44,12 +44,12 @@ description: 'Kazuha Banner ft. Rosaria, Razor, and Bennett'
 | July 13 | [Anemo and Geo Traveller Ascension Damage Types](../../evidence/characters/geo/traveler-geo.md#geo-traveler-a4-does-not-count-as-normal-attack) | Blank\#4561 |
 |  | [Overworld Farming Statistics](../../evidence/general-mechanics/lifeskills.md#overworld-farming-statistics) | Bobrokrot\#0111 |
 | July 15 | [4pc Instructor Only Procs on Field](../../evidence/mechanics/equipment/artifacts.md#4pc-instructor-only-procs-on-field) | NZPIEFACE\#8439 |
-|  | [Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus](../../evidence/mechanics/equipment/artifacts.md#breakpoints-for-2wt-2-ins-set-bonus-vs-4vv-set-bonus) | elijam\#7142 |
+|  | [Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus](../../evidence/mechanics/equipment/artifacts.md#breakpoints-for-2wt-2-ins-set-bonus-vs-4vv-set-bonus) | jamberry\#7142 |
 |  | [Campfire Mechanics](../../evidence/general-mechanics/lifeskills.md#campfires-act-like-1u-of-pyro-aura) | RazorClaws\#4343 |
 | July 17 | [Abyss Mage Bubble and Mist Bubble Mechanics](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#hydro-abyss-mage-bubble-persists-on-swap) | snorting salt\#3888 |
 |  | [Energy Recharge Calculator](../../resources/calculators.md#energy-recharge-calculator) | Zakharov\#5645 |
 |  | [Crabs Respawn](../../general-mechanics/lifeskills.md#crabs-respawn) | Mcpie\#8672 |
 |  | [Recasting Oz counts as a Using Skill](../../evidence/characters/electro/fischl.md#resummoning-oz-while-hes-still-active-counts-as-using-an-elemental-skill) | Peekays\#2722 |
-| July 18 | [Xingqiu Rain Sword DMG Reduction is a conferrable attribute](../../evidence/characters/hydro/xingqiu.md#xingqiu-rain-sword-dmg-reduction-is-a-conferrable-attribute) | elijam\#7142 |
+| July 18 | [Xingqiu Rain Sword DMG Reduction is a conferrable attribute](../../evidence/characters/hydro/xingqiu.md#xingqiu-rain-sword-dmg-reduction-is-a-conferrable-attribute) | jamberry\#7142 |
 |  | [Sucrose A4 snapshots EM value](../../evidence/characters/anemo/sucrose.md#sucrose-a4-snapshots-em-value) | NZPIEFACE\#8439 |
 |  | [ICD Table](../../combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md#internal-cooldown-table) | Zakharov\#5645 |

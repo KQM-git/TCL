@@ -16,7 +16,7 @@ search: false
 
 ### Skill Mechanics
 
-* Generates 1 particle per skill cast - [elijam#7142](https://youtu.be/25EaCFvB4r8)
+* Generates 1 particle per skill cast - [jamberry#7142](https://youtu.be/25EaCFvB4r8)
 * The energy gained from amulets is classified as flat energy. - [ceeeleste#3568](https://imgur.com/a/s1NMEN7)
 * Different characters can each pick up an amulet generated from one cast. - [ceeeleste#3568](https://imgur.com/uvqLztm)
 * The ER granted does not affect 4p Emblem of Severed Fate. - [ye olde dong slot#4986](https://www.youtube.com/watch?v=_ny12y2rL0w)

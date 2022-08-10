@@ -267,7 +267,7 @@ The 4CW set adds 40% dmg to overload reactions. If the pyro holder drops a persi
 
 ### 4ESF takes into account both base ER and ER from ascension  
 
-**By:** elijam\#7142
+**By:** jamberry\#7142
 
 Tested using an A5 Bennett's burst. 
 Damage with 3ESF: 947 non-crit  
@@ -388,7 +388,7 @@ Damage calculation
 
 ### Instructor Ignores Environmental Target And Your Characters
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-10-17  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898398553783799848_899200243520917524_transcript-4ins-doesnt-proc-on-environmental-or-self-rxns.html)
 
@@ -1284,7 +1284,7 @@ For characters building around triggering transformative reactions, if they do n
 
 ### Breakpoints for 2WT2Ins Set Bonus vs. 4VV Set Bonus
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-07-15  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_860290744102158356_865148427524636672_transcript-breakpoints-for-2wt2ins-vs-4vv.html)
 

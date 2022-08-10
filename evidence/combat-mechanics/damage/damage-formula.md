@@ -25,7 +25,7 @@ The two are additive.
 
 ## Defense shred is hard capped at 90%  
 
-**By:** Phana\#0420, Mcpie\#8672, elijam\#7142  
+**By:** Phana\#0420, Mcpie\#8672, jamberry\#7142  
 **Added:** 2021-08-09  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_873886801348153384_874084646370045952_transcript-defense-shred-caps-at-90.html)  
 

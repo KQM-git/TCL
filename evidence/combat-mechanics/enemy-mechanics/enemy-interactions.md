@@ -174,7 +174,7 @@ Significance: Documentation of enemy mechanics.
 
 ### Some Enemy CC is Level Dependent
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2022-05-12  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974425599466668032_transcript-some-enemy-cc-is-level-dependent.html)  
 

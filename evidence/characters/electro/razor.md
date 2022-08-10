@@ -66,7 +66,7 @@ You can essentially have 100% ult uptime if it were not for no particles during 
 
 ### Razor Echo Damage Type
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2022-06-30  
 [Discussion](https://tickets.deeznuts.moe/transcripts/razor-echo-damage-type)
 
@@ -113,7 +113,7 @@ Razor's E into Q is not as efficient as one could hope due to the fact that his 
 
 #### Razor’s C6 damage
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-08-07  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 

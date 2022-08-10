@@ -821,7 +821,7 @@
 | 85 | 344 | 29.9 |
 | 90 | 354 | 31.2 |
 
-* There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [elijam\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md\#slingshot-passive-mechanics)
+* There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md\#slingshot-passive-mechanics)
 {% endtab %}
 {% endtabs %}
 

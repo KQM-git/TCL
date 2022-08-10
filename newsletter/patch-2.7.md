@@ -218,7 +218,7 @@ KQM has additionally partnered with Genshin Wizard. You can also now use Genshin
 |  | [Basic Mechanics](../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#basic-mechanics) | pai\#3602 |
 |  | [Husk Stacks Behave Exactly as Advertised](../evidence/equipment/artifacts.md#husk-stacks-behave-exactly-as-advertised) | TheLocalMilkMan\#0813 |
 |  | [Berry Max](../evidence/general-mechanics/resources-and-efficiency.md#berry-max) | makeway4pK\#3901 |
-| March 26 | [Beidou Proc Counts](../evidence/characters/electro/beidou.md#beidou-proc-counts) | elijam\#7142 |
+| March 26 | [Beidou Proc Counts](../evidence/characters/electro/beidou.md#beidou-proc-counts) | jamberry\#7142 |
 | March 29 | [Sunfire Jean OL Triggering Freedom\-Sworn](../evidence/characters/anemo/jean.md#sunfire-jean-ol-triggering-freedom-sworn) | MeiMay\#3039 |
 |  | [Kazuha Land Cancel](../evidence/characters/anemo/kazuha.md#kazuha-land-cancel) | BowTae\#0141 |
 |  | [Sucrose N1 Bug Misconceptions and Workarounds](../evidence/characters/anemo/sucrose.md#sucrose-n-bug-misconceptions-and-workarounds) | BowTae\#0141 |
@@ -252,7 +252,7 @@ KQM has additionally partnered with Genshin Wizard. You can also now use Genshin
 | April 15 | [Aim Mode Frame Counts](../evidence/combat-mechanics/frames.md#aim-mode-frame-counts) | BowTae\#0141 and xSil3nt\#0961 |
 | April 16 | [Venti CA Skill Cancel](../evidence/characters/anemo/venti.md#venti-ca-skill-cancel) | BowTae\#0141 |
 |  | [Chongyun Burst Maximum Range](../evidence/characters/cryo/chongyun.md#chongyun-burst-maximum-range) | mando.\#1646 |
-|  | [Raiden Resolve Decimal Stacks](../evidence/characters/electro/raiden.md#raiden-resolve-decimal-stacks) | elijam\#7142 |
+|  | [Raiden Resolve Decimal Stacks](../evidence/characters/electro/raiden.md#raiden-resolve-decimal-stacks) | jamberry\#7142 |
 |  | [Maguu Kenki Phase Change HP Threshold Update](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#maguu-kenki-phase-change-hp-threshold-update) | Mr. Pillow\#0065 |
 |  | [Fishing Spot Prompt Bug](../evidence/general-mechanics/bugs.md#fishing-spot-prompt-bug) | Beast Boy\#2560 |
 |  | [Specialty Dish Rates](../evidence/general-mechanics/miscellaneous-entries.md#specialty-dish-rates) | Creonalia\#2818 |
@@ -274,7 +274,7 @@ KQM has additionally partnered with Genshin Wizard. You can also now use Genshin
 | May 12 | [Diona C1 Range and Q Duration](../evidence/characters/cryo/diona.md#diona-c-range-and-q-duration) | Yume\#2875 |
 |  | [Sara Burst Mechanics Update](../evidence/characters/electro/sara.md#sara-burst-mechanics-update) | Steno\#0119 |
 |  | [Elemental Reactions Effects on Buried Dendro Slime](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#elemental-reactions-effects-on-buried-dendro-slime) | Pablos\#1142 |
-|  | [Some Enemy CC is Level Dependent](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#some-enemy-cc-is-level-dependent) | elijam\#7142 |
+|  | [Some Enemy CC is Level Dependent](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#some-enemy-cc-is-level-dependent) | jamberry\#7142 |
 |  | [Some Pillars in Enka You Don't Take Fall Damage On](../evidence/general-mechanics/overworld.md#some-pillars-in-enka-you-dont-take-fall-damage-on) | Ultimate Noob\#2955 |
 |  | [Artifact Probability Thesis](../evidence/general-mechanics/resources-and-efficiency.md#artifact-probability-thesis) | tooflesswulf\#8456 |
 | May 14 | [Kazuha E Absorption Bug](../evidence/characters/anemo/kazuha.md#kazuha-e-absorption-bug) | Charisma\#5567 |

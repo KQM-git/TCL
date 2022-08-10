@@ -49,7 +49,7 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 |  | [Chest Rendering Range](../evidence/general-mechanics/overworld.md#treasure-compass-chest-rendering) | Tibo#4309 |
 |  | [Healing Snapshotting](../evidence/combat-mechanics/snapshot-and-dynamic.md#healing-over-time-is-snapshot-on-cast) | Dooners#6709 |
 |  | [Diona Dash Aim Cancel](../evidence/characters/cryo/diona#diona-dash-aim-cancel) | BowTae#0141 |
-|  | [Instructor Ignores Environmental Target And Your Characters](../evidence/equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters) | elijam#7142 |
+|  | [Instructor Ignores Environmental Target And Your Characters](../evidence/equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters) | jamberry#7142 |
 |  | [Boat Can't Eat](../evidence/general-mechanics/lifeskills.md#boat-stamina-and-food) | Ayzel#7399 |
 |  | [Geo Traveler E Breaks Geo Hypostasis Pillar](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#geo-hypostasis) | TarZ#6365 |
 | October 18 | [Noelle Burst Extension](../evidence/characters/geo/noelle.md#noelle-c6-burst-extension) | JonahFarc#7056 |
@@ -72,7 +72,7 @@ description: 'Tartaglia Banner ft. Yanfei, Ningguang, and Chongyun'
 | October 30 | [Cryo Regisvine Hurtbox Interaction](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#pyronado-and-cryo-regisvine-hurtbox-interaction) | CQLQRS#7853 |
 |  | [Diona's Burst Has Limited Vertical Range](../evidence/characters/cryo/diona.md#diona-has-finite-vertical-range-for-burst-healing) | Mehhh-yowww#8236, Kourinn#6001 |
 | October 31 | [PMA and Polearm CA Interactions](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#pma-and-polearm-ca-interactions) | CQLQRS#7853, Akarin#8270 |
-|  | [Xinyan C2 Shield Formation Pulses](../evidence/characters/pyro/xinyan.md#xinyan-c2-shield-formation-pulses-extra-times) | EternalDream#5503, elijam#7142, Zouuyu#3117 |
+|  | [Xinyan C2 Shield Formation Pulses](../evidence/characters/pyro/xinyan.md#xinyan-c2-shield-formation-pulses-extra-times) | EternalDream#5503, jamberry#7142, Zouuyu#3117 |
 |  | [Xinyan C6 Added to Stats Page](../evidence/characters/pyro/xinyan.md#xinyan-c6-affects-her-skill-and-burst) | Nass008#8577 |
 |  | [Movement Speed Stacks Additively](../evidence/general-mechanics/movement-and-physics.md#movement-speed-stacks-additively) | Mcpie#8672 |
 |  | [Auto Targetting Mechanics](../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#targeting-ignores-enemy-hitbox-location) | Kourinn#6001 |

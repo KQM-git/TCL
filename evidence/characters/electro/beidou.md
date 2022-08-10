@@ -174,7 +174,7 @@ Better understanding of Beidou burst.
 
 ### Beidou Proc Counts 
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2022-03-26  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_957414035282870282_transcript-beidou-driver-proc-counts.html)  
 **Finding:**  
@@ -223,7 +223,7 @@ Beidou's C4 applies 1A of Electro.
 
 #### Beidou C4 damage
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2021-08-07  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 

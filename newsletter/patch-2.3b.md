@@ -52,7 +52,7 @@ Simultaneous Reaction Priority theory is an expansion of the Elemental Gauge The
 | | [EC AoE can change Ownership](../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#ec-aoe-changes-ownership-on-other-ecd-enemies) | NZPIEFACE\#8439 |
 | | [Hitlag & Maguu Kenki Interaction](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#maguu-kenki-hitlag-audio-desync) | Santoryu\#4495 |
 | | [Weekly Boss Animation Skipping](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#weekly-boss-animation-skipping) | yolitme0\#0579, BowTae\#0141 |
-| | [Splendiferous Moon Abyss Blessing Mechanics](../evidence/combat-mechanics/spiral-domains/blessings.md#splendiferous-moon-abyss-blessing-mechanics) | elijam\#7142, NZPIEFACE\#8439 |
+| | [Splendiferous Moon Abyss Blessing Mechanics](../evidence/combat-mechanics/spiral-domains/blessings.md#splendiferous-moon-abyss-blessing-mechanics) | jamberry\#7142, NZPIEFACE\#8439 |
 | December 21 | [Husk of Opulent Dreams Mechanics](../evidence/equipment/artifacts.md#husk-of-opulent-dreams) | MeCrush14\#2271, Sylenwolf\#5802, Wulfric Waifu Gachapon Lurker\#5186 |
 | | [Ocean-Hued Clam Mechanics](../evidence/equipment/artifacts.md#ocean-hued-clam) | CC\#5588, ceeeleste\#3568, Chalotte#5673, JonahFarc\#7056, kraaashed\#5300, MeCrush14\#2271, r.rei\#2844 |
 | December 23 | [Enemies Actually Burrow](../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md#enemies-actually-burrow) | Asaki\#9139, ShampooBrain\#9583, MeCrush14\#2271 |

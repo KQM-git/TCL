@@ -164,7 +164,7 @@ Venti ult anemo gauge is 1U.
 
 #### Venti C1 damage
 
-**By:** elijam#7142  
+**By:** jamberry#7142  
 **Added:** 2021-08-07  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
 

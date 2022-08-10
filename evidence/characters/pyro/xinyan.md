@@ -36,7 +36,7 @@ In-game description is pepega and on-field C6 Xinyan will do a tiny bit more dam
 
 ## Xinyan C2 Shield Formation Pulses Extra Times
 
-**By:** EternalDream\#5503, elijam\#7142, Zouuyu\#3117
+**By:** EternalDream\#5503, jamberry\#7142, Zouuyu\#3117
 **Added:** 2021-10-31  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895344911824605274_904424443059789875_transcript-xinyan-c2-shield-formation-pulses.html)
 

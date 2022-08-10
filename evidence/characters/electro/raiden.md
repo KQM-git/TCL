@@ -35,7 +35,7 @@ search: false
 * Raiden's Elemental Skill buff affects herself. - [CC\#5588](https://youtu.be/8-xxU5jRaI0)  
 * Raiden's Elemental Skill buff works on off field characters. - [CC\#5588](https://youtu.be/DbXfGVQvY-M)  
 * Raiden's Elemental Skill does not appear to have a range limt. - [Veggie#0581](https://www.youtube.com/watch?v=JOTmm5v3ZVg)  
-* Raiden's Elemental Skill is dynamic/does not snapshot. - [elijam#7142](https://youtu.be/yfULaSuyqOs)  
+* Raiden's Elemental Skill is dynamic/does not snapshot. - [jamberry#7142](https://youtu.be/yfULaSuyqOs)  
 * Raiden's Elemental Skill can be triggered by:
    * Superconduct - [Nass008#8577](https://imgur.com/l8HTpLS)  
    * Overload - [Nass008#8577](https://imgur.com/BFp3mF7)
@@ -144,7 +144,7 @@ More documented knowledge about the mechanics of Raiden's kit.
 
 ### Raiden Resolve Decimal Stacks
 
-**By:** elijam\#7142  
+**By:** jamberry\#7142  
 **Added:** 2022-04-16  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964951851663503452_transcript-raiden-resolve-decimal-stacks.html)  
 

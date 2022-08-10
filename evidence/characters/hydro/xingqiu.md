@@ -28,7 +28,7 @@ For one-shot \(or two-shot\) compilations, although I’m not sure if this team 
 
 ### Xingqiu Rain Sword DMG Reduction is a conferrable attribute
 
-**By:** elijam#7142  
+**By:** jamberry#7142  
 **Added:** 2021-07-18  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864699490606514196_866103775408422962_transcript-xq-dr-is-a-conferrable-attribute.html)
 

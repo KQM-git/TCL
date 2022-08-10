@@ -66,7 +66,7 @@ Combining the demonstrations of both of these tests, it can be concluded that Ni
 
 ### Ningguang Burst Does Snapshot
 
-**By:** elijam\#7142, Isu\#6867, Ai\#7362, Bobrokrot\#0111  
+**By:** jamberry\#7142, Isu\#6867, Ai\#7362, Bobrokrot\#0111  
 **Added:** 2021-06-26  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857491520109543444_858198283566186516_transcript-ningguang-e-q-snapshot.html)
 
@@ -74,7 +74,7 @@ Combining the demonstrations of both of these tests, it can be concluded that Ni
 Ningguang’s E screen snapshots her stats on cast, and with Q use her personal gems will snapshot on Q cast while her screen’s gems will use her screen’s earlier snapshotted stats. This finding corrects the previous TCL finding that Ningguang’s Q does not snapshot, since the evidence for that finding did not account for the gems from her screen not receiving the buff they were using to test for snapshotting. 
 
 **Evidence:**  
-[Video](https://www.youtube.com/watch?v=L7c4zvk6wXs) from elijam\#7142  
+[Video](https://www.youtube.com/watch?v=L7c4zvk6wXs) from jamberry\#7142  
 Initial gems directly from Ningguang deal 774 damage, while gems from her E screen deal only 231 damage, due to Ningguang receiving Bennett's buff after E cast and snapshot.
 
 [Video](https://www.youtube.com/watch?v=ocjfZ22VcHk) from Isu\#6867  

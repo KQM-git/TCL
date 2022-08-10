@@ -80,7 +80,7 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
       <td style="text-align:left">August 1</td>
       <td style="text-align:left"><a href="../../evidence/equipment/weapons.md#prototype-starglitter-stacks-duration-refresh">Prototype Starglitter Stacks Duration</a>
       </td>
-      <td style="text-align:left">elijam#7142</td>
+      <td style="text-align:left">jamberry#7142</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -124,7 +124,7 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">TCL Damage Type Completion</td>
-      <td style="text-align:left">elijam#7142 and co.</td>
+      <td style="text-align:left">jamberry#7142 and co.</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
@@ -145,7 +145,7 @@ description: 'Ayaka Banner ft. Ningguang, Chongyun, Yanfei, and INAZUMA'
       </td>
       <td style="text-align:left">Phana#0420
         <br />Mcpie#8672
-        <br />elijam#7142</td>
+        <br />jamberry#7142</td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
