@@ -148,7 +148,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 
 ### C6: Dance of Suigetsu
 
-* C6 is additive - [ClawofBeta#4125](https://cdn.discordapp.com/attachments/866109693101211648/867518314337927239/unknown.png)
+* C6 is additive - [ClawofBeta#4125](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/ayaka.md/discord/attachments_866109693101211648_867518314337927239_unknown.png)
 
 ## Dash Mechanics
 

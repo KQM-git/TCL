@@ -75,8 +75,8 @@ Note that this is for WL7 drop rates, and only includes permanent sources of mat
 Weapon banner gacha rates with Epitomized Path.
 
 **Evidence:**  
-Analytic solution, no pity: 1.984375 5\* weapon rolls: [Discord image](https://cdn.discordapp.com/attachments/884585841270329415/885243449782177832/unknown.png)  
-Analytic solution, pity: 1.8125 5\* weapon rolls: [Discord image](https://cdn.discordapp.com/attachments/884585841270329415/885243674206814268/unknown.png)  
+Analytic solution, no pity: 1.984375 5\* weapon rolls: [Discord image](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/gacha.md/discord/attachments_884585841270329415_885243449782177832_unknown.png)  
+Analytic solution, pity: 1.8125 5\* weapon rolls: [Discord image](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/gacha.md/discord/attachments_884585841270329415_885243674206814268_unknown.png)  
 Monte-carlo verification: [Pastebin](https://pastebin.com/d9Mg1i4n)
 
 **Significance:**  

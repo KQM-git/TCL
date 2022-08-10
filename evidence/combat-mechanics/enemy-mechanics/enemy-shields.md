@@ -293,8 +293,8 @@ Transformative damage is also applied in the damage cost of shield damage, and i
 **Evidence:**  
 A borderline geo slime shield destruction was observed on a 0 EM 70/70 fischl's overloads onto a large geo slime's shield, with the shield almost being destroyed after 6 overloads. Increasing fischl's EM to 688 resulted in the shield not only breaking after 6 overloads, but almost breaking after 5. Relevant calculations and related videos  show that these numbers make sense.  
 
-Fischl with 0EM, 1378 overloads, leaving the shield at minimal health after 6 hits: [Video Download](https://cdn.discordapp.com/attachments/853125058965012500/855729083510161418/Genshin_Impact_2021-06-19_16-39-21.mp4)  
-Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5 hits: [Video Download](https://cdn.discordapp.com/attachments/853125058965012500/855733343954010122/fischl_overload_EM.mp4)
+Fischl with 0EM, 1378 overloads, leaving the shield at minimal health after 6 hits: [Video Download](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/discord/attachments_853125058965012500_855729083510161418_Genshin_Impact_2021-06-19_16-39-21.mp4)  
+Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5 hits: [Video Download](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/discord/attachments_853125058965012500_855733343954010122_fischl_overload_EM.mp4)
 
 Large Slimes have 4x cicin hp and 8GU geo force shields.  
 `12466 (cicin at level 91) * 4 = 49864 (slime hp)`  

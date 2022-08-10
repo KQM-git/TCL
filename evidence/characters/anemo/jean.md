@@ -37,8 +37,8 @@ Tested this with Jean level by level. For Gale Blade to continually be able to p
 
 **Evidence:**
 
-* [Lvl 74 Jean vs lvl 95 Hillichurl, where target Hilichurl isn't lifted](https://cdn.discordapp.com/attachments/765191980115689542/794809136244195339/unknown.png)
-* [Lvl 75 Jean vs lvl 95 Hillichurl, where target Hilichurl is lifted](https://cdn.discordapp.com/attachments/765191980115689542/794809333057454091/unknown.png)
+* [Lvl 74 Jean vs lvl 95 Hillichurl, where target Hilichurl isn't lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809136244195339_unknown.png)
+* [Lvl 75 Jean vs lvl 95 Hillichurl, where target Hilichurl is lifted](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_765191980115689542_794809333057454091_unknown.png)
 
 **Significance:**  
 Leveling your Jean to 80 is necessary if you want to abuse fall damage on Level 100 enemies on Floor 12 of Spiral Abyss
@@ -97,7 +97,7 @@ In the sheet, there are two tests, one for Gale Blade on Baron Bunny and on an A
 For the Baron Bunny tests, Held Gale Blade produced slightly inconsistent fall damage numbers compared to Tap Gale Blade's consistent numbers. For the Abyss Mage tests, both variations of Gale Blade produced inconsistent numbers, however, the disparity for Held Gale Blade's numbers were far greater than Tap Gale Blade's numbers.
 
 The inconsistent fall damage from the Held version of Gale Blade is likely to be something caused by the small disturbances happening while holding a target. As such it can also be negated by simply doing a Sucrose Counter Yeet \(yes, I called it that\) which will force the target to come crashing down at maximum speed which will remove the massive inconsistencies of a normal Jean Yeet.  
-[Example](https://cdn.discordapp.com/attachments/830897860743921664/835099004857483274/Jean_Yeet_Test_Results.mp4)
+[Example](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/jean.md/discord/attachments_830897860743921664_835099004857483274_Jean_Yeet_Test_Results.mp4)
 
 **Significance:**  
 Illustrates that Jean's Held Gale Blade produces inconsistent numbers compared to Tap Gale Blade. Jean players, and likely other fall damage abusers, will have to take this into consideration for their strategies as it could effect abyss runs against lightweight enemies. So far, the most likely reason is how Jean's Held Gale Blade holds enemies in front of her, causing small changes in velocity/height. Other reasons would be tied to how fall damage as a whole works, relating to velocity, hitbox collision, landing angle, etc.

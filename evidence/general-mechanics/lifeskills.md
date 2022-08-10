@@ -14,7 +14,7 @@ search: false
 
 **Finding:** A Statue of Seven will heal \(and revive to full if dead\) without any restraint, provided that the character/party that you want to heal is not in the active \(on-field\) party.
 
-**Evidence:** [Discord Video Link](https://cdn.discordapp.com/attachments/847359141626118154/847360325702909962/video0.mov)
+**Evidence:** [Discord Video Link](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/lifeskills.md/discord/attachments_847359141626118154_847360325702909962_video0.mov)
 
 **Significance:** External source of infinite healing other than event domains \(until mHY patches the So7 again\).
 

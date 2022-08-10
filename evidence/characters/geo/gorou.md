@@ -73,4 +73,4 @@ In the second half of the video Albedo/Zhongli's E were used before they receive
 * Gorou's C4 does not snapshot. - [Vherax\#5321](https://youtu.be/F-iLJL_9yQk)
 
 ### C6: Valiant Hound: Mountainous Fealty
-* Gorou's C6 doesn't snapshot. - [JonahFarc\#7056](https://cdn.discordapp.com/attachments/912910214699819028/921103967428182076/2021-12-16_12-09-26.mp4) ([Stats](https://cdn.discordapp.com/attachments/912910214699819028/921103969521115136/unknown.png))
+* Gorou's C6 doesn't snapshot. - [JonahFarc\#7056](https://tcl-backup.s3.filebase.com/evidence/characters/geo/gorou.md/discord/attachments_912910214699819028_921103967428182076_2021-12-16_12-09-26.mp4) ([Stats](https://tcl-backup.s3.filebase.com/evidence/characters/geo/gorou.md/discord/attachments_912910214699819028_921103969521115136_unknown.png))

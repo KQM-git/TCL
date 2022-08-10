@@ -220,7 +220,7 @@ Order in efficiency is as follows: Transient Resin \> Artifact XP \> Mora = MEO 
 **Evidence:**  
 \*All calculations are done assuming resin is being spent to obtain resources.  
 
-![](https://media.discordapp.net/attachments/935563087526907904/935563322609238066/unknown.png)  
+![](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/resources-and-efficiency.md/discord/attachments_935563087526907904_935563322609238066_unknown.png)  
 
 Calculations: [Google Sheets](https://docs.google.com/spreadsheets/d/1u4rzrETXhqc6-hANK4icrdqIONc_ionePnjSaZCO2E0/edit?usp=sharing)  
 Extended version: [Pastebin](https://pastebin.com/tHCLxMcv)  

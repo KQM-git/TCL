@@ -102,7 +102,7 @@ While the Hu Tao boost is active, Ulting with Rosaria increases Diona's CR to **
 
 **Finding:** Rosaria's C6 debuff is also triggered by the DoT on her burst.
 
-**Evidence:** [Video](https://cdn.discordapp.com/attachments/831212714416144434/831214571913347112/Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
+**Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/rosaria.md/discord/attachments_831212714416144434_831214571913347112_Genshin_Impact_2021-04-12_11-51-59_Trim.mp4)
 
 **Significance:** The description is misleading, and you can actually maintain 100% uptime on this physical resistance shred.
 

@@ -149,7 +149,7 @@ Guoba > Pyronado
 Xiangling's pyronado applies only 1U to Cryo Regisvine's shield over it's duration.  
 
 **Evidence:**  
-[Video Download](https://cdn.discordapp.com/attachments/855560609491320843/855561083536015390/2021-06-18_23-17-40.mp4)  
+[Video Download](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/xiangling.md/discord/attachments_855560609491320843_855561083536015390_2021-06-18_23-17-40.mp4)  
 
 **Significance:**  
 Don't rely on pyronado alone to destroy Cryo Regisvine's shield  

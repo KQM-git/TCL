@@ -113,7 +113,7 @@ The KQMS is also currently being examined in light of recent criticisms. The pro
 Changes to the KQMS will be versioned from this point forward and all changes will be recorded on the KQM Compendium website.
 
 * [GUOBA](https://guoba.deeznuts.moe/)
-* [Example Proposal Analysis](https://cdn.discordapp.com/attachments/969713676921761802/969758237433937930/unknown.png)
+* [Example Proposal Analysis](https://tcl-backup.s3.filebase.com/newsletter/patch-2.7.md/discord/attachments_969713676921761802_969758237433937930_unknown.png)
 
 ### Recruitment
 KQM will be opening recruitment drives for Scholar and Calc Monke positions. 

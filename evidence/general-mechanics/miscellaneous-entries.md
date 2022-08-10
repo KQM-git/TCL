@@ -124,7 +124,7 @@ At least two of the birds \(one near Azhdaha and one in Guyun\) die very often o
 **Evidence:**
 
 * [Youtube Playlist](https://youtube.com/playlist?list=PLPByPR2TubV5m7ZW71wwTovzkpvBqQA5T) 
-* [Best Example](https://cdn.discordapp.com/attachments/846170693783912448/850855100107718746/2021-06-05_22-53-14.mp4)
+* [Best Example](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_846170693783912448_850855100107718746_2021-06-05_22-53-14.mp4)
 
 **Significance:**  
 Free fowl. Also whoever is coding the animals is probably trolling.
@@ -320,8 +320,8 @@ For some characters, if they use an elemental skill or burst and use a dialogue 
 
 **Evidence:**  
 Chair cancel by Ayzel: [Video](https://youtu.be/6nwbxIwk3Q8)   
-Talking to NPC cancel by sexyeboy69: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842095318639181834/Genshin_Impact_2021-05-12_13-43-52.mp4)  
-Poster cancel by Aluminum: [Video Download](https://cdn.discordapp.com/attachments/842094899204587580/842106461378969640/Poggers_poster_cancel.mp4)
+Talking to NPC cancel by sexyeboy69: [Video Download](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_842094899204587580_842095318639181834_Genshin_Impact_2021-05-12_13-43-52.mp4)  
+Poster cancel by Aluminum: [Video Download](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_842094899204587580_842106461378969640_Poggers_poster_cancel.mp4)
 
 **Significance:**  
 New theoretical highest DPS ceiling for some units who aren't able to typically stack CW \(like Hu Tao and Xiangling\). Also, can obtain 4-piece Noblesse buff or Keqing's bonus crit rate without actually using the burst.
@@ -574,7 +574,7 @@ Fluff.
 ## Daily Elite Cap and Common Mob Cap
 **By:** DoombringerEX\#8888  
 **Added:** 2022-02-10  
-[Discussion](tickettool.xyz/direct?url=https://cdn.discordapp.com/attachments/921098493890801725/940728656337191003/transcript-daily-elite-cap-and-common-mob-cap.html)  
+[Discussion](tickettool.xyz/direct?url=https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_921098493890801725_940728656337191003_transcript-daily-elite-cap-and-common-mob-cap.html)  
 
 **Finding:**  
 The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.  

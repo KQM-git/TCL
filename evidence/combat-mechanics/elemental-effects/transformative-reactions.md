@@ -53,19 +53,19 @@ Overload, and so far overload alone, seems to have a reaction specific icd of 0.
 
 **Evidence:**
 
-* [clip 1:](https://cdn.discordapp.com/attachments/840502239248252928/840520178403901450/OL_gauge_comparison.mp4) after gaining 2u electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
-* [clip 2:](https://cdn.discordapp.com/attachments/840502239248252928/840529070801682432/OverloadLimit7.mp4) the second treasure hoarder hit is hit by 2 overloads, 1 originating from himself and the other from an ally hit by overload. However, despite being in a cluster of 3 enemies hit in the second overload as evidenced by hit double knockback, only 2 numbers appear, showing his invulnerability to the overload the second time.
+* [clip 1:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840520178403901450_OL_gauge_comparison.mp4) after gaining 2u electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
+* [clip 2:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840529070801682432_OverloadLimit7.mp4) the second treasure hoarder hit is hit by 2 overloads, 1 originating from himself and the other from an ally hit by overload. However, despite being in a cluster of 3 enemies hit in the second overload as evidenced by hit double knockback, only 2 numbers appear, showing his invulnerability to the overload the second time.
 * [clip 3 and 4:](https://youtu.be/wqxnXhkMuNg) in both cases, the enemy is first hit by 4u from beidou. 
   * Then, in clip 3, guoba is summoned, who then attacks within 3 frames of klee who autoattacks. 2 overload numbers appear.
   * In clip 4, guoba is not summoned, and klee just n1cs. 1 overload number.
-* [clip 5:](https://cdn.discordapp.com/attachments/840502239248252928/840515478086483968/OverloadLimit6.mp4) bennett applies gauge 3 times from level 2 e, but only causes 2 overloads. the last hit is past the 0.5sec timer.
-* [clip 6:](https://cdn.discordapp.com/attachments/840502239248252928/840538987420188701/OL_different_targets_2.mp4) Klee n1cs 2 different enemies, and overloads twice.
-* [clip 7:](https://cdn.discordapp.com/attachments/840502239248252928/840513374496489492/Rosaria_E_Superconduct.mp4) Rosaria double scs, proving sc does not follow the same rules.
+* [clip 5:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840515478086483968_OverloadLimit6.mp4) bennett applies gauge 3 times from level 2 e, but only causes 2 overloads. the last hit is past the 0.5sec timer.
+* [clip 6:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840538987420188701_OL_different_targets_2.mp4) Klee n1cs 2 different enemies, and overloads twice.
+* [clip 7:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840513374496489492_Rosaria_E_Superconduct.mp4) Rosaria double scs, proving sc does not follow the same rules.
 * [clip 8:](https://youtu.be/_HM5Y3aru88)  This shows that multiple overloads not happening within 0.5sec caused by the same character to the same enemy is not a visual glitch. Else, the fatui would have died.
-* [clip 9:](https://cdn.discordapp.com/attachments/840502239248252928/840743262305779712/OverloadLimit9.mp4) original vid
+* [clip 9:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840743262305779712_OverloadLimit9.mp4) original vid
   * Overloads occur at: 0.5, 2.0, 2.5, 3.0, 3.5, 4.1, 5.0
   * As evidence of every enemy getting hit with overload. Lisa ult is just above the icd, and proves that the icd is at least &lt;0.5 sec, as lisa attacks every 0.5 seconds, and she can cause overloads to all enemies every tick.
-  * [Screenshot of 5 overloads](https://cdn.discordapp.com/attachments/840502239248252928/840743912473624576/unknown.png)
+  * [Screenshot of 5 overloads](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840743912473624576_unknown.png)
 * [clip 10:](https://youtu.be/uuj8-ITWzmw) extra vid proving lisa is on the edge of the ICD.
 
 **Significance:**  
@@ -1194,7 +1194,7 @@ Amplifying reactions derived from a swirl from pyro/cryo/hydro are not dynamic a
 [Video 2](https://youtu.be/pONUwWz_zuc) (instructor applied before snapshot) (106k)
 
 Maths:  
-EM: [Image](https://cdn.discordapp.com/attachments/798464926187913230/854712517561679892/unknown.png)  
+EM: [Image](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_798464926187913230_854712517561679892_unknown.png)  
 Swirl before instructor=23892  
 Swirl after instructor=25828  
 EM before instructor=755 (97.4%)  

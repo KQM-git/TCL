@@ -349,7 +349,7 @@ Clipping a Fruit Stand into landmasses allows your character to climb and stand 
 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PL4o3wWS22uTwgJjwS9OUC4BEGBaq7Wk5w)
 
-[The sacrifices made to get this far](https://cdn.discordapp.com/attachments/847367901518626846/847872555397677127/Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
+[The sacrifices made to get this far](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/bugs.md/discord/attachments_847367901518626846_847872555397677127_Genshin_Impact_2021.05.28_-_23.14.52.17.mp4)
 
 **Significance:**  
 Looks kinda cool.

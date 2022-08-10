@@ -17,7 +17,7 @@ search: false
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
 
-**Evidence:** [YouTube](https://cdn.discordapp.com/attachments/844058207151325224/844058535716192316/SVID_20210518_111047_1.mp4)
+**Evidence:** [YouTube](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/bennett.md/discord/attachments_844058207151325224_844058535716192316_SVID_20210518_111047_1.mp4)
 
 **Significance:** Dont hold E for its full duration under Xingqiu's rainsword, or you'll lose a rainsword instance.
 
@@ -86,8 +86,8 @@ Bennett's attack buff lingers for a bit after the visual of the circle fades awa
 
 **Evidence:**
 
-* [Clip 1](https://cdn.discordapp.com/attachments/844783206262636545/844784370476646440/video0.mov): The Burst visual has disappeared, Xingqiu runs over and he still has Pyro status applied to himself. DMG is 32k
-* For reference, [Clip 2](https://cdn.discordapp.com/attachments/844783206262636545/844784610411151390/video0.mov) has Xingqiu in the same setting without Bennett buff, who deals 20k in this instance
+* [Clip 1](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/bennett.md/discord/attachments_844783206262636545_844784370476646440_video0.mov): The Burst visual has disappeared, Xingqiu runs over and he still has Pyro status applied to himself. DMG is 32k
+* For reference, [Clip 2](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/bennett.md/discord/attachments_844783206262636545_844784610411151390_video0.mov) has Xingqiu in the same setting without Bennett buff, who deals 20k in this instance
 * [Link to Full Video](https://youtu.be/rtVZS5PjAS0)
 
 **Significance:**  

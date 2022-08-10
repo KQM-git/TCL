@@ -479,7 +479,7 @@ Reviewed/Edited by: IonFox, Doug
 
 **Finding:** Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
 
-**Evidence:** [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing), [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing), [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing), [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing), [Frame Counts in Excel Sheet](https://cdn.discordapp.com/attachments/845683620832084008/845690939275739207/FreezeCounts.xlsx)
+**Evidence:** [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing), [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing), [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing), [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing), [Frame Counts in Excel Sheet](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md/discord/attachments_845683620832084008_845690939275739207_FreezeCounts.xlsx)
 
 **Significance:** Better understanding of Freeze.
 

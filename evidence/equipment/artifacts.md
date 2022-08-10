@@ -415,9 +415,9 @@ Can't use environmental reactions to set up screenshots. Can't use self reaction
 
 **Evidence:**
 
-\(\#1\)[https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780886363046150176/unknown.png)
+[\(\#1\)](https://tcl-backup.s3.filebase.com/evidence/equipment/artifacts.md/discord/attachments_779076275699449856_780886363046150176_unknown.png)
 
-\(\#2 Healing Bonus only:\) [https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png](https://cdn.discordapp.com/attachments/779076275699449856/780889986219769876/unknown.png)
+[\(\#2 Healing Bonus only:\)](https://tcl-backup.s3.filebase.com/evidence/equipment/artifacts.md/discord/attachments_779076275699449856_780889986219769876_unknown.png)
 
 **Significance:**
 

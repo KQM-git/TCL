@@ -173,7 +173,7 @@ Zhonglis' A1, Resonant Waves, buffs up Jade Shield by 5% _after_ damage calculat
 **Evidence:**  
 If we take a Zhongli with Talent 8 Dominus Lapidis, and 16201 MAX HP, we get a Jade Shield that has 8443.45 Absorption.
 
-_Scenario 1:_ [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178466234663002/unknown.png)
+_Scenario 1:_ [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178466234663002_unknown.png)
 
 * A level 85 Ruin Guard with my Zhongli's DEF deals 1409 Damage per Rocket hit.  
 * If the +5% buff applies after the damage calculation, then the Jade Shield should fully absorb 6 rockets, and only sustain 302 damage.  
@@ -187,8 +187,8 @@ _Scenario 2:_
 
 Further Evidence: Lets take another example, Zhongli this time has 9570 Base Shield Absorption. A single swing from a level 85 Ruin Guard will hit for 3388 Damage.
 
-* If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage: [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178529971044372/unknown.png)  
-* If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining: [Calculations](https://cdn.discordapp.com/attachments/837172595202719794/837178650636845076/unknown.png)
+* If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178529971044372_unknown.png)  
+* If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178650636845076_unknown.png)
 
 [Video](https://www.youtube.com/watch?v=zE9G3cymFqQ)
 

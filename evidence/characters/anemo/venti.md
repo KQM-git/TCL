@@ -20,7 +20,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
 
-**Evidence:** [Video](https://cdn.discordapp.com/attachments/834085780611137607/842113118805295134/Venti-E-N-Swap.mp4)
+**Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/venti.md/discord/attachments_834085780611137607_842113118805295134_Venti-E-N-Swap.mp4)
 
 **Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.  
 

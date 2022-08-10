@@ -389,7 +389,7 @@ Example: E is on 3s CD, you get a 5s CD reduction, you instantly gain E charge a
 
 Sucrose C4 CD reduction probability distribution:  
 [Google Sheets](https://docs.google.com/spreadsheets/d/1jMODclkPguPHpTsLmGafbvQKIcXk1ddc9NWYPjhqqsc/edit?usp=sharing)  
-[Image \(Graph\)](https://cdn.discordapp.com/attachments/837549621936652309/837957383111049216/unknown.png)  
+[Image \(Graph\)](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_837549621936652309_837957383111049216_unknown.png)  
 Although the distribution does not fit nicely into the Gaussian curve, mean ~ 4s suggests there is no overly skewed cooldown reduction to either lower or higher bound, at large N.
 
 **Evidence:**  
@@ -496,8 +496,8 @@ The above suggests the formula for final EM for a buffed party member after Sucr
 
 **Evidence:**
 
-* Example on smaller enemies: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639647784927252/Genshin_Impact_2021.05.06_-_00.56.09.05.mp4)  
-* Example on larger enemy: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839639679774883840/Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
-* Petrify: [Link](https://cdn.discordapp.com/attachments/839639101825089556/839650961516527658/Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
+* Example on smaller enemies: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839639647784927252_Genshin_Impact_2021.05.06_-_00.56.09.05.mp4)  
+* Example on larger enemy: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839639679774883840_Genshin_Impact_2021.05.06_-_00.59.11.06.mp4)
+* Petrify: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839650961516527658_Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.

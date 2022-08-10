@@ -159,11 +159,11 @@ Results depending on position:
 
 **Evidence:** Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
 
-Image 1: Consistent landing location \(&gt;20 attempts, almost always in this spot\)[![](https://media.discordapp.net/attachments/846494202334412901/846495239493779466/2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg?width=360&height=202)](https://cdn.discordapp.com/attachments/846494202334412901/846495239493779466/2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg)
+Image 1: [Consistent landing location](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495239493779466_2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg) \(&gt;20 attempts, almost always in this spot\)
 
-Image 2: Location that is a bit further than the landing spot from image 1[![](https://media.discordapp.net/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg?width=360&height=202)](https://cdn.discordapp.com/attachments/846494202334412901/846495391162695690/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
+Image 2: [Location that is a bit further than the landing spot from image 1](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495391162695690_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
 
-[Video proof for images](https://cdn.discordapp.com/attachments/846494202334412901/846495546289291304/2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
+[Video proof for images](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495546289291304_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
 
 Additional video showing 4 adult male models, landing location very rarely differs: [https://youtu.be/QPR38O5yM7M](https://youtu.be/QPR38O5yM7M)
 
@@ -185,11 +185,11 @@ Movement speed affects dashing-off a cliff horizontal velocity
 2. Once there, teleport to the waypoint again
 3. Click "dash" and wait for Kaeya to land
 
-Tested movements speeds: 1. [0%](https://cdn.discordapp.com/attachments/846504230898237480/846505725978738738/2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)  
-2. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505796468604928/2021-05-24_23-18-01-00.51.433-01.06.633-audio.webm) - Anemo Resonance  
-3. [10%](https://cdn.discordapp.com/attachments/846504230898237480/846505886448353310/2021-05-24_23-18-01-02.12.733-02.29.000-audio.webm) - Rosaria passive  
-4. [10% + 10% = 20%](https://cdn.discordapp.com/attachments/846504230898237480/846505946787479573/2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive  
-5. [10% + 10% + 24% = 44%](https://cdn.discordapp.com/attachments/846504230898237480/846506066237718528/2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword
+Tested movements speeds: 1. [0%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846505725978738738_2021-05-24_23-18-01-00.02.983-00.20.233-audio.webm)  
+2. [10%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846505796468604928_2021-05-24_23-18-01-00.51.433-01.06.633-audio.webm) - Anemo Resonance  
+3. [10%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846505886448353310_2021-05-24_23-18-01-02.12.733-02.29.000-audio.webm) - Rosaria passive  
+4. [10% + 10% = 20%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846505946787479573_2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive  
+5. [10% + 10% + 24% = 44%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846506066237718528_2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword
 
 Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJGE](https://www.youtube.com/watch?v=C69T4AwkJGE)
 
@@ -294,9 +294,9 @@ Other tests yielded an error of `<~0.02`, which is acceptable due to start/end v
 Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
 
 **Evidence:**  
-Shots from ranged enemies seem to register beyond the character model until the floating weapon behind the unit’s back. For example, when the Pyroslinger shoots at the gap between Ganyu’s back and her floating bow, [it apparently hits](https://cdn.discordapp.com/attachments/848227425379942411/848227761155735552/Genshin_Impact_2021-05-29_22-12-11.mp4). Secondary test [with a ranged hilichurl](https://cdn.discordapp.com/attachments/848227425379942411/848228285397598248/Genshin_Impact_2021-05-29_21-52-45.mp4).
+Shots from ranged enemies seem to register beyond the character model until the floating weapon behind the unit’s back. For example, when the Pyroslinger shoots at the gap between Ganyu’s back and her floating bow, [it apparently hits](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848227761155735552_Genshin_Impact_2021-05-29_22-12-11.mp4). Secondary test [with a ranged hilichurl](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848228285397598248_Genshin_Impact_2021-05-29_21-52-45.mp4).
 
-[Hitbox comparison with Zhongli Shield.](https://cdn.discordapp.com/attachments/848227425379942411/849296459312660491/2021-06-01_22-35-23.mp4)
+[Hitbox comparison with Zhongli Shield.](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_849296459312660491_2021-06-01_22-35-23.mp4)
 
 **Significance:**  
 By knowing this, hopefully we can have a better understanding about how far the hitbox of our character model reaches. While this is certainly niche, this can possibly give some people that wants to do a meme run with their character such as a no damage run, an advantage with this findings.

@@ -15,9 +15,9 @@ search: false
 ### Attack Attributes
 
 * Gauges - Neptunya\#8291
-  * E Tap: [1A](https://cdn.discordapp.com/attachments/843239715515269160/844157553298243594/TapE_1A.mp4)
-  * E Hold: [1A](https://cdn.discordapp.com/attachments/843239715515269160/844157530572980244/HoldE_1A.mp4)
-  * Q: [2B](https://cdn.discordapp.com/attachments/843239715515269160/844157584881614858/Burst_2B.mp4)
+  * E Tap: [1A](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157553298243594_TapE_1A.mp4)
+  * E Hold: [1A](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157530572980244_HoldE_1A.mp4)
+  * Q: [2B](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844157584881614858_Burst_2B.mp4)
 * Energy Gen - Steph\#3614
   * Tap E: 1~2 \(1:1\)
   * Hold E: 2~3 \(1:1\)
@@ -28,7 +28,7 @@ search: false
 ### Skill Mechanics
 
 * Grimheart stacks persist on switch. - [Your Ally\#6976](https://youtu.be/bvc_pqn8suU)
-* E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD. - [denmax\#9293](https://cdn.discordapp.com/attachments/843239715515269160/844176624702455818/genshinimpact.exe_2021.05.18_-_19.30.31.17.mp4)
+* E Hold and Icewhirl Brands don't share ICDs, but multiple Icewhirl Brands do share the same ICD. - [denmax\#9293](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844176624702455818_genshinimpact.exe_2021.05.18_-_19.30.31.17.mp4)
 
 ### Burst Mechanics
 
@@ -43,8 +43,8 @@ search: false
   * [Without NO](https://www.youtube.com/watch?v=rvT1xzI_nDI)
 * Eula's Q CD and energy resets at the Burst's hitmark.
   * [Artesians\#0002](https://clips.twitch.tv/SmoggyConcernedBibimbapTBTacoRight-c88YbIbyjUHozu7a)
-  * [Zeitraffer\#1074](https://cdn.discordapp.com/attachments/843239715515269160/844511791622127616/Eula_Ult_Timings.mp4)
-* The duration of Glacial Illumination is not effected by hitlag. - [Artesians\#0002](https://cdn.discordapp.com/attachments/798969666881323018/844275942045515830/lightfallsword.mp4)
+  * [Zeitraffer\#1074](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844511791622127616_Eula_Ult_Timings.mp4)
+* The duration of Glacial Illumination is not effected by hitlag. - [Artesians\#0002](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_798969666881323018_844275942045515830_lightfallsword.mp4)
 * Eula’s Lightfall sword damage can be blocked by [wooden](https://imgur.com/a/bL0UttC) and [geo](https://imgur.com/a/PU9gkvv) mitachurl shields. - Jalapeno\#0004
 * Glacial Illumination and Lightfall Sword Range - [Greyhound\#7836](https://www.youtube.com/watch?v=yMUqkC1ruGs) \(1 abyss tile is around 2.55m\)
   * Glacial Illumination cast is ~8m 
@@ -59,9 +59,9 @@ search: false
 * Charged attacks don't grant lightfall stacks. - [Some Missionary\#8340](https://youtu.be/r3PActt3bqc)
 * Confirmation that lightfall stacks cannot be gained when hitting [abyss mage](https://youtu.be/RwXRC9ayx9I), [wooden](https://youtu.be/xyfB2P00tUA), and [geo](https://youtu.be/4gbZ9v2OlCQ) shields, because stacks are only gained on damage. - nat\#4502 
 * Lightfall stacks are not gained when the Lightfall Sword lights up and is about to explode. - Eko\#6090
-  * [Base Damage Check](https://cdn.discordapp.com/attachments/844317292208848937/845032011386060820/Genshin_Impact_2021.05.20_-_15.56.24.02.DVR.mp4)
-  * [Hits during the animation](https://cdn.discordapp.com/attachments/844317292208848937/845032486214959164/Genshin_Impact_2021.05.20_-_15.59.20.05.DVR.mp4)
-  * [Hits right before](https://cdn.discordapp.com/attachments/844317292208848937/845032641145339964/Genshin_Impact_2021.05.20_-_15.58.21.04.DVR.mp4)
+  * [Base Damage Check](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032011386060820_Genshin_Impact_2021.05.20_-_15.56.24.02.DVR.mp4)
+  * [Hits during the animation](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032486214959164_Genshin_Impact_2021.05.20_-_15.59.20.05.DVR.mp4)
+  * [Hits right before](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_844317292208848937_845032641145339964_Genshin_Impact_2021.05.20_-_15.58.21.04.DVR.mp4)
 * NA multihits, Hold E Icewhirls, and A1 sword remnant all individually add 1 Glacial Illumination stack. Every damage instance adds one Lightfall stack. This means that Eula's third normal attack, which hits twice, will add two stacks, as will her fifth. Eula's held elemental skill, when it triggers base damage, two icewhirls, and an A4 trigger, will add four Lightfall stacks.- [Greyhound\#7836](https://www.youtube.com/watch?v=aaG8WuCSqBE) 
   * [Table of full values](https://gyazo.com/7831cdd292a0c0a3fb9777ae30f15afe), below is summary of the linked image
 
@@ -98,7 +98,7 @@ search: false
 
 * Broken Pines attack speed increase between R1-R5 does not increase your stack count with optimal combos. However, it does make your combo timings a lot less strict and comfier. - Artesians\#0002 and Sitri\#9504
   * Test was done with an Attack speed increase abyss card (*Video lost to the sands of time*)
-  * Also checks out with [math](https://cdn.discordapp.com/attachments/843239715515269160/844498188303335444/unknown.png)
+  * Also checks out with [math](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/eula.md/discord/attachments_843239715515269160_844498188303335444_unknown.png)
 
 ## Burst Mechanics
 
