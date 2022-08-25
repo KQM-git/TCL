@@ -28,23 +28,27 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
 **Normal Attack**  
 Performs up to 5 fisticuffs empowered by a mighty wind, dealing Anemo DMG.
  
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 63.71% | - | - |
-| 2-Hit | 62.65% | - | - |
-| 3-Hit | 86.8% | - | - |
-| 4-Hit | 25.13% + 27.64% + 32.67% | - | - |
-| 5-Hit | 104.46% | - | - |
-| Recovery | - | - | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit | 63.71% | - | - | 42.16 | 3 |
+| 2-Hit | 62.65% | - | - | 41.46 | 3 |
+| 3-Hit | 86.8% | - | - | 57.44 | 3 |
+| 4-Hit | 25.13% + 27.64% + 32.67% | - | - | 16.63 + 18.29 + 21.62 | 3 |
+| 5-Hit | 104.46% | - | - | 69.13 | 5 |
+| Recovery | - | - | - | - | - |
  
  
 **Charged Attack**  
 Consumes a certain amount of Stamina and performs a sweeping kick that deals Anemo DMG.
  
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| N1C | 124.1% | - | - |
-| Recovery | - | - | - |
+| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| N1C | 124.1% | - | - | 120 | 5 |
+| Recovery | - | - | - | - | - |
+
+**Notes:**  
+* It is possible to dragon strike with N1C.
+* When swapping out of CA, it's slightly faster to N1 cancel into a swap than doing it normally.
  
 **Plunge**  
 Calling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals AoE Anemo DMG upon impact with the ground.
@@ -73,16 +77,22 @@ When you possess 4 Declension stacks, the Conviction effect will be produced, wh
 | Skill DMG \(T9%\) | 386.78% |
 | Declension DMG Bonus \(T9%\) | 96.7%/stack |
 | Conviction DMG Bonus | 193.39% |
-| Particles | - |
+| Particles | 0-1 Stack: 2 \(-\) <br> 2-3 Stacks: 2~3 \(1:1\) <br> 4 Stacks: 3 \(-\) |
 | Frames | - |
-| GU | - |
-| ICD | - |
+| GU | 2U |
+| ICD | None |
 | Snapshot | - |
 | Damage Element | Anemo |
 | Damage Type | Elemental Skill |
 | Declension Duration | 60s |
 | CD | 10s |
- 
+| Poise Damage | 0 Stacks: 150 <br> 1 Stack: 175 <br> 2 Stacks: 200 <br> 3 Stacks: 225 <br> 4 Stacks: 250 |
+| Impulse Type | 0-3 Stacks: 4 <br> 4 Stacks: 6 |
+
+**Notes:**  
+* **Declension** stacks persist when Heizou is swapped off or interrupted. 
+* Heizou can get and keep **Declension** stacks by holding E and teleporting as soon as he reaches 4 stacks.
+
 {% endtab %}
  
 {% tab title="Windmuster Kick" %}
@@ -94,17 +104,22 @@ Vacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A 
 | Attribute | Fudou Style Vacuum Slugger | Windmuster Iris |
 | :--- | :--- | :--- | 
 |  DMG \(T9%\) | 534.97% | 36.48% |
-| Cast Frames | - | - |
-| Energy Frame | - | - |
-| CD Frame | - | - |
-| GU | - | - |
-| ICD | - | - |
-| Snapshot | - | - |
+| Cast Frames | 76 | - |
+| Energy Frame | 8 | - |
+| CD Frame | 1 | - |
+| GU | 1U | 1A |
+| ICD | None | None |
+| Snapshot | Snapshot | Snapshot |
 | Damage Element | Anemo | Absorbed Element |
 | Damage Type | Elemental Burst | Elemental Burst |
 | Energy Cost | 40 | 40 |
 | CD | 12s | 12s | 
- 
+| Poise Damage | 100 | 25 |
+| Impulse Type | 7 | 2 |
+
+**Notes:**  
+* **Windmuster Kick** can't damage ores or enemy Geo Constructs, unlike Heizou's Normal Attack, Charged Attack, and Elemental Skill.
+* **Windmuster Kick** does not have a damage cap.
 {% endtab %}
 {% endtabs %}
  
@@ -123,7 +138,10 @@ Not stackable with Passive Talents that provide the exact same effects.
 ### **Paradoxical Practice**
 
 When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 0.1s.
- 
+
+**Notes:**  
+* Swirling objects doesn't give Heizou any **Declension** stacks.
+
 {% endtab %}
  
 {% tab title="Ascension 4" %}
