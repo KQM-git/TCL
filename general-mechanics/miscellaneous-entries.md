@@ -45,6 +45,7 @@ description: For entries that have little practical use.
 * Slimes that are in barrels or frozen can blink.
 * Certain characters buffs and/or infusions are limited by a finite vertical range, while others showcase near unlimited vertical range. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#vertical-ranges-of-certain-abilities) for more information.
 * The birds inside the cages of The Chasm underground camps have some weird behavior. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#chasm-glitchy-bird) for more information.
+* Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.  
 
 ## Canceling
 

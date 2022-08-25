@@ -1048,3 +1048,20 @@ One may argue that the melons are not foul or evil in nature, as Itto quite like
 These points shed light on the truth of Shinobu's backstory. Clearly, she was lying about her desire for freedom or whatever excuse she may have used. The truth was that she fled from and continues to avoid Grand Narukami shrine maidens, such as her family, in order to prevent them from exorcising and sealing her away. Shinobu is probably really bad at danmaku, given that she lacks a bullet dodging certificate, which explains why she chose to flee instead of fight. This also means that her profession of deputy leader of the Arataki Gang is merely a front for her to perform diabolic arts without suspicion.  
 
 Furthermore, her unwillingness to assist in fighting off the evil spirits while Xiao channeled his energy into the compass is most likely not because she had her hands full with Itto. It is more likely that Kuki Shinobu was the mastermind behind the entire incident with the abyss, the chasm, and the compass.  
+
+## Anemo and Cryo Skills and Bursts Proc Grana
+
+**By:** Lit\#1924, ????????????????????????????????\#3255  
+**Added:** 2022-08-20  
+[Discussion](https://tickets.deeznuts.moe/transcripts/anemo-and-cryo-skills-and-bursts-proc-grana)  
+
+**Finding:**  
+Anemo units' Elemental Skills and Bursts activate Anemograna on cast. This conversely applies to Cryo units with Mutated Anemograna.  
+Anemograna are procced on Skill cast and do not have to be on solid ground to proc.  
+
+**Evidence:**  
+[YouTube](https://youtu.be/VWKFTNijCTU)  
+[YouTube](https://youtu.be/WYh6ef-v7m4)  
+
+**Significance:**  
+May assist early game exploration within Teyvat and makes specific puzzles easier.  
