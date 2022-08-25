@@ -69,15 +69,19 @@ The HP consumption from using this skill can only bring her to 20% HP.
 | Grass Ring of Sanctification DMG \(T9%\) | 42.91% |
 | Tick Rate | 1.5s |
 | Activation Cost | 30% Current HP |
-| Particles | - |
+| Particles | 0~1 \(55\:45\) |
 | Frames | - |
-| GU | - |
+| GU | 1A |
 | ICD | 3 hit / 2.5s |
 | Snapshot | Dynamic |
 | Damage Element | Electro |
 | Damage Type | Skill |
 | Duration | 12s |
 | CD | 15s |
+
+* 45\% chance to generate 1 particle on hit.
+* Hitbox extends slightly above the visual effect.
+* Initial cast and tick damage share the same ICD
  
 {% endtab %}
  
@@ -93,14 +97,17 @@ If Shinobu's HP is less than or equal to 50% when this skill is used, the field 
 | Cast Frames | - |
 | Energy Frame | - |
 | CD Frame | - |
-| GU | - |
-| ICD | - |
+| GU | 1A |
+| ICD | 3 hit / 2.5s |
 | Snapshot | Snapshots |
 | Damage Element | Electro |
 | Damage Type | Burst |
 | Energy Cost | 60 |
 | Duration | 2s / 3.5s |
 | CD | 15s |
+
+* Hits 7 times when above 50% HP and 11-13 times when below 50% HP.
+* Number of hits depend on FPS but not on ping.
  
 {% endtab %}
 {% endtabs %}
@@ -126,6 +133,11 @@ When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
 **Sanctifying Ring**'s abilities will be boosted based on Shinobu's Elemental Mastery:  
 • Healing amount will be increased by 75% of Elemental Mastery.  
 • DMG dealt is increased by 25% of Elemental Mastery.
+
+**Notes:**
+* The healing increase is additive to normal healing.
+* The healing is affected by Healing Bonus.
+
 {% endtab %}
 {% endtabs %}
  
@@ -156,6 +168,13 @@ Maximum upgrade level is 15.
 
 When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's G**rass Ring of Sanctification** hit opponents, a **Thundergrass Mark** will land on the opponent's position and deal AoE Electro DMG based on 9.7% of Shinobu's Max HP.  
 This effect can occur once every 5s.
+
+**Notes:**
+* Skill and C4 have differnet ICD.
+* C4 damage scales with Elemental Skill Damage \%.
+* C4 can generate particles.
+* No cooldown for particle generation between Skill and C4.
+
 {% endtab %}
  
 {% tab title="C5" %}
