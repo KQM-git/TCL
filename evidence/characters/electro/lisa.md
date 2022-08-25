@@ -405,7 +405,9 @@ However, Lisa's C4 affects Lightning Rose by making it release 1-3 Discharges, n
 Additionally, the frequency at which how many Discharges are released per Arc also alters on enemy/entity count and has its own quirks:  
 * If there is only 1 Enemy/Entity within the field, Lightning Rose will only release 1 Discharge with and without C4. (100% Rate)
 * If there are 2 Enemies/Entities within the field, Lightning Rose will release 1 or 2 Discharges with C4.
-  * Each Arc has a ~17.5% chance of releasing 1 Discharge and a ~82.5% chance of releasing 2 Discharges.
+  * The first Arc released from a Lightning Rose will follow either releasing 1 (60%) or 2 Discharges (40%).
+  * After the first Arc, following Arcs will follow either releasing 1 (16%) or 2 Discharges (84%).
+  * Overall, the average distribution between all occurances within 2 Entities is around 17.5% of Arcs releasing 1 Discharge and 82.5% releasing 2 Discharges.
 * If there are 3 or more Enemies/Entities within the field, Lightning Rose will release 1, 2, or 3 Discharges with C4.
   * Interestingly, this scenario carries two sets of randomizations:
     * One that randomizes between shooting 1 or 2 Discharges, following a 50% and 50% occurance rate, and the other randomizing between 1, 2, and 3 Discharges, following a 25%, 50%, and 25% occurance rate, respective to the number of Discharges.
@@ -421,7 +423,7 @@ Additionally, the frequency at which how many Discharges are released per Arc al
 * [Video](https://youtu.be/1liVFrHDfX8) of all 60 3 Entity Trials.  
 * [Video](https://youtu.be/7WQgnKWCmj8) of all 60 3+ Entity Trials.  
 
-120 Trials were done for 2 Entities as to provide a possibly more accurate ratio (17.5% for 1, and 82.5% for 2).  
+120 Trials were done for 2 Entities as to provide a possibly more accurate ratio.  
 Throughout all 3 and 3+ Entity Trials, all have showcased how the First Arc and Arcs following a 3 Discharge Arc occur in realeasing either 1 or 2 Discharges (50:50) and never in 3 Discharges.  
 
 **Significance:**  
