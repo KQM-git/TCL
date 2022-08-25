@@ -255,6 +255,10 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 
 * When characters use abilities that make them vanish, companions (Mini Seelies, Endora, Shiki Kousho, etc…) will disappear as well.
 
+## Golden Apple Archipelago
+
+* Some objects like Geo Constructs and gadgets can reflect Melodic Bloom Notes found within Golden Apple Archipelago.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}

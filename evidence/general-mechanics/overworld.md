@@ -1707,3 +1707,23 @@ When characters use abilities that make them vanish, companions (Mini Seelies, E
   
 **Significance:**  
 Nice to know.
+
+## Golden Apple Archipelago
+
+### Melodic Blooms Notes Reflect Off Of Construct
+
+**By:** Aevean Leeow\#1362, Ultimate Noob\#2955, sexyeboy69\#2687  
+**Added:** 2022-08-16  
+[Discussion](https://tickets.deeznuts.moe/transcripts/melodic-blooms-notes-reflect-off-of-construct)  
+
+**Finding:**  
+Some objects within Genshin Impact can reflect Melodic Bloom Notes found within Golden Apple Archipelago.  
+  
+**Evidence:**  
+* [GMC rock](https://youtu.be/PDLqgvlwsaA)   
+* [Parametric Crystals](https://youtu.be/gqxeNwIWoLo)   
+* [Serenitea Pot](https://youtu.be/TYuMXz1Rw_4) \(hitbox is small, requires some fiddling and is quite inconsistent\)  
+* [Zhongli big pillar](https://youtu.be/EHylzMpDcgs)    
+  
+**Significance:**  
+Some things reflects, mostly fluff. Genshin is wonk game.  
