@@ -99,8 +99,8 @@ Deals AoE Hydro DMG and creates an "Exquisite Throw," which aids her in battle.
 
 **Exquisite Throw**
 Follows the character around and will initiate a coordinated attack under the following circumstances, dealing Hydro DMG based on Yelan's Max HP:  
-• Can occur once every second when your active character uses a Normal Attack.  
-• Will occur each time Yelan's Lifeline explodes and hits opponents.
+* Can occur once every second when your active character uses a Normal Attack.  
+* Will occur each time Yelan's Lifeline explodes and hits opponents.
 
 | Attribute | Skill | Exquisite Throw |
 | :--- | :--- | :--- |
@@ -116,6 +116,9 @@ Follows the character around and will initiate a coordinated attack under the fo
 | Energy Cost | 70 | - |
 | Duration | 15s | - |
 | CD | 18s | - |
+
+**Notes:**  
+* The damage of each coordinated attack snapshots separately after being generated.
 
 {% endtab %}
 {% endtabs %}
