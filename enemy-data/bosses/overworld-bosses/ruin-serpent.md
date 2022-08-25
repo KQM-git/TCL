@@ -12,6 +12,14 @@ It is said that this was heavy-duty engineering equipment left behind by a natio
 
 Glowing segments during the Bomb Barrage and Shockwave attacks.
 
+## Energy Drops
+
+| HP Threshold | Type | Element |
+| :--- | :--- | :--- |
+| 66% HP | 1 orb | Clear |
+| 33% HP | 1 orb | Clear |
+| Death | 1 particle | Clear |
+
 ## Resistance Table
 
 | Damage Type | Resistance |

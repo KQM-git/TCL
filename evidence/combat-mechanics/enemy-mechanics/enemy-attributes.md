@@ -337,3 +337,20 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 11. Bug 3: [The yeet](https://youtu.be/yeu9S0o-Qeo)  
 
 Credits to HowLxxxx\#4676, Mr. Pillow\#0065, borderline\#3100, Silvershine2\#5439, Magnus Artifex\#8719, and u/AstralCookies for some of the videos.  
+
+## Ruin Serpent
+
+### Ruin Serpent HP Particle Counts
+
+**By:** Zakharov\#5645  
+**Added:** 2022-07-29  
+[Discussion](https://tickets.deeznuts.moe/transcripts/ruin-serpent-hp-particle-counts)  
+
+**Finding:**  
+Ruin Serpent drops 1 clear orb at 1/3 and 2/3 HP, and 1 clear particle on death.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/RWUsG-M6QPY)  
+  
+**Significance:**  
+Add to library and HP particle database.  
