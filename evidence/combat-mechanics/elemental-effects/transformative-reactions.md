@@ -25,15 +25,15 @@ Overload and Superconduct have a maximum number of times \(twice\) that it can b
 **Evidence:**  
 See the two below screenshots and comments. We already know that Swirl can only proc twice on each enemy maximum from a translated document, which looks in line with these results.
 
-[https://imgur.com/a/yNQ3Ccn](https://imgur.com/a/yNQ3Ccn)
+[Imgur](https://imgur.com/a/yNQ3Ccn)
 
-[https://youtu.be/tJ0ZIJLgAl8](https://youtu.be/tJ0ZIJLgAl8)
+[YouTube](https://youtu.be/tJ0ZIJLgAl8)
 
 * Here you can see Kaeya has hit all 3 enemies with his E ability \(the 516 numbers\), but all nearby enemies only show 2 Superconduct damage procs \(the 415 numbers\)
 
-[https://imgur.com/a/2EswGxA](https://imgur.com/a/2EswGxA)
+[Imgur](https://imgur.com/a/2EswGxA)
 
-[https://youtu.be/cek9NAnn-BU](https://youtu.be/cek9NAnn-BU)
+[YouTube](https://youtu.be/cek9NAnn-BU)
 
 * For Overload, you can see here that MC has Swirled Pyro to each of the electric slimes \(the 771 numbers\), but each enemy only takes a single Overload damage instance \(the 7717 figure\) despite the fact that each enemy should probably proc Overload separately for the AoE damage. Note that I also tested this using Amber's ultimate to make sure that Swirling wasn't causing this, which yielded the same results and I can show that image too/instead. It's just harder to see what's happening in that one.
 
@@ -1267,7 +1267,7 @@ Vape/Melt triggered by swirls are still considered as amp reactions and are snap
 
 ## Crystallize
 
-### Crystallize refresh
+### Crystallize Refresh
 
 **By:** Terrapin\#8603  
 **Added:** 2021-05-22  
@@ -1283,7 +1283,7 @@ The third test shows Noelle's Crystallize on Noelle take a single hit, and then 
 
 **Significance:** Crystallize shields do not stack, and they do not refresh based on a shield being stronger or weaker. Crystallize users should plan accordingly with their character level and Elemental Mastery on the character that will be creating Crystallizes that will be picked up.
 
-### Crystallize Shields don't Stack
+### Crystallize Shields Don't Stack
 
 **By:** Terrapin\#8603  
 **Added:** 2021-05-09  
@@ -1360,6 +1360,25 @@ Crystallize reaction has an Global Cooldown of 1s per monster.
 
 **Significance:**  
 Understanding how Crystallize works.
+
+### Crystallize ICD Correction
+
+**By:** Bobrokrot\#0111  
+**Added:** 2022-08-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/crystallize-icd-correction)  
+
+**Finding:**  
+The Crystallize Global Cooldown \(GCD\) not only prevents further crystals to appear but also prevents gauge consumption.  
+  
+**Evidence:**  
+1. [YouTube](https://youtu.be/x_64sntdO-g): This clip is already in the TCL. The last Amber shot was performed at 14.75s and the Pyro lasted until 22.93s, which matches the 1.1B gauge duration (meaning that only one gauge reduction from Crystallize occured).  
+  
+2. [YouTube](https://youtu.be/ybd5NyPfdhI): Razor applied 2U Electro at 2.54s (with A decay from Sara) and the Electro lasted until 15.75s which matches the 1.1A gauge duration (meaning that only one gauge reduction from Crystallize occured).  
+  
+3. [YouTube](https://youtu.be/PWytHwr4Y38) \(bonus clip\): 2A Hydro -> 1U Electro -> 2U Geo. Hydro lasted from 11.32s to 25.53s which matches 1.2A (tax -0.4U).  
+  
+**Significance:**  
+Nice to know that in EC Geo doesn't reduce Hydro gauge regardless of how strong the Elemental application is of the Geo attack.  
 
 ## Burning
 

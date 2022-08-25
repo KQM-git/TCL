@@ -168,7 +168,7 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
 * Crystals will always spawn in front of the enemy when possible.
 
-Crystallize has a global reaction specific ICD of 1.0 second, where any specific enemy Crystallized by any character is then immune to Crystallize by any character for 1.0 second. They still suffer gauge reduction, but no additional shard of the given element will be created.
+Crystallize has a global reaction specific ICD of 1.0 second, where any specific enemy Crystallized by any character is then immune to Crystallize by any character for 1.0 second. This cooldown prevents further crystals to appear and any gauge consumption that would otherwise occur. 
 
 ## Burning
 
