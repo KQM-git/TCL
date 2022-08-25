@@ -781,6 +781,28 @@ Can't keep the buff for the whole duration of a snapshottable skill.
 
 ### Hakushin Ring  
 
+#### Hakushin Ring can buff the holder.
+
+**By:** jas\#8888  
+**Added:** 2022-08-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hakushin-ring-can-buff-the-holder)
+
+**Finding:**  
+ Hakushin Ring can buff it's holder.
+
+**Evidence:**
+* Anemo Trigger - Electro Swirl [YouTube](https://www.youtube.com/watch?v=b9Pe5_86lF4)
+* Electro trigger - Electro Swirl [YouTube](https://www.youtube.com/watch?v=iI4U1oyyJ_M)
+* Electro trigger - Electro-Charged [YouTube](https://www.youtube.com/watch?v=qzE5oM-a_1w)
+* Electro trigger - Overload [YouTube](https://www.youtube.com/watch?v=UTHkIxXT6Ew)
+* Electro trigger - Superconduct [YouTube](https://www.youtube.com/watch?v=cjTkjdtE5R0)
+* Geo trigger - Crystallize [YouTube](https://www.youtube.com/watch?v=k7eA1MtUE3c)
+* Hydro trigger - Electro-Charged [YouTube](https://www.youtube.com/watch?v=hrsjAoVb_No)
+* Pyro trigger - Overloaded [YouTube](https://www.youtube.com/watch?v=iDqqiRHbFIQ)
+
+**Significance:**  
+Better documentation of Hakushin Ring mechanics.
+
 #### Crystalize, Swirl and Swirl chain reactions work for the effect.  
 
 **By:** ProfHugo\#6478  
