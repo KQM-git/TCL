@@ -44,3 +44,32 @@ In game damage of 1442 for Barbara and 3389 for Klee matches up with calculated 
 
 **Significance**  
 Can't go past 100% damage increase.  
+
+## Damage Reduction Mechanics
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** 2022-07-22  
+[Discussion](https://tickets.deeznuts.moe/transcripts/damage-reduction-mechanics)  
+
+**Finding:**  
+The DMG Reduction stat is NOT its own multiplier. Instead, it reduces the DMG Bonus of incoming attacks.  
+  
+  
+**Evidence:**  
+We all know Kairagi in the aggro animation and Frostarm Lawachurls in their berserk state reduce the DMG Bonus of incoming attacks by 80%.  
+  
+For example my Yelan with 0% Physical DMG Bonus and 46.6% Hydro DMG Bonus does 10798 Breakthrough Barb and 1247 Physical Aimed Shot normally, and while the Kairagi is in the aggro animation they do 4905 and 249 respectively, both having their DMG Bonuses reduced by 80%.  
+
+[YouTube](https://youtu.be/yHHGFPA2SgQ)  
+
+So having said the above, I went into the source code and found that both the Kairagi and the Frostarm Lawachurl have `"Actor_SubHurtDelta": 0.8` handling their DMG Reductions, which is the exact same as the DMG Reduction in Talents like [Xingqiu's Skill](../../../characters/hydro/xingqiu.md#attacks), [Beidou's Burst](../../../characters/electro/beidou.md#attacks), etc. as shown in the screenshots.  
+  
+So now we know that character DMG Reductions are the exact same thing as Kairagi/ice monkey DMG Reductions, which subtracts a fixed amount from the attacker's DMG Bonus instead of adding a separate multiplier. The reason why we mistakenly thought it added a separate multiplier was because enemies always have 0% DMG Bonus, and we didn't know that Kairagi/ice monkey actually had the same type of DMG Reduction.  
+  
+In conclusion, the actual formula for DMG Reduction multiplier should be the one written here: [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Damage_Reduction).  
+  
+  
+**Significance:**  
+Corrects a huge mistake in our assumption of how DMG Reduction worked.  
+  
+Also, with the real DMG Reduction formula, we know that the higher the attacker's DMG Bonus, the less effective DMG Reduction is, which might be helpful when fighting Frostarm Lawachurls. For example a Shim Hu Tao likely performs better than a Crimson Hu Tao, and an Electro cup Raiden likely performs better than an ATK cup Raiden. But of course it will vary by case. Although I guess we already knew this.  
