@@ -37,21 +37,21 @@ None.
 
 | Level | HP |
 | :--- | :--- |
-| 60 | 134100 |
-| 65 | 159726 |
-| 70 | 208832 |
-| 75 | 238733 |
-| 80 | 297052 |
-| 85 | 326790 |
-| 90 | 389665 |
-| 95 | 443981 |
-| 100 | 588242 |
+| 60 | 141743 |
+| 65 | 186350 |
+| 70 | 234434 |
+| 75 | 293344 |
+| 80 | 378186 |
+| 85 | 483170 |
+| 90 | 593605 |
+| 95 | 726859 |
+| 100 | 887360 |
 
 ## Attacks
 
 * Transforms into a rocket and targets the player's position before slamming down.
 * Targets the player's current position with a reticle that focuses before striking down.
-* Transforms into a Cube and rolls repeatedly with high speed. Only uses this move at long ranges.
+* Transforms into a cube and rolls repeatedly with high speed. Only uses this move at long ranges.
 * Transforms into a giant sword and slashes from the Right to Left. Only uses this move at Melee ranges.
 * Transforms into a giant spinning blade and does a zig-zag pattern before slashing fom the Left to Right. Only uses this move at Melee ranges.
 * Charges up for a short time before firing a beam of pure energy that does fast moderate physical damage to those touching the beam. The beam follows the player.
