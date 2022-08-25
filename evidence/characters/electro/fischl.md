@@ -194,9 +194,6 @@ From Fischl’s Aimed Shot: Base DMG is found to be 244 / (1.466) = 166.44
 **Significance:**  
 Fischl’s 1st Ascension Passive: Stellar Predator is a raw multiplier to her Aimed Shot base DMG. It follows the same DMG calculation as Xingqiu’s C4 “Evilsoother” or Yoimiya’s Elemental Skill “Niwabi Fire-Dance”. While this finding doesn't change anything about Fischl's normal playstyle, Stellar Predator can be useful early game. It can also be fun for Fischl Mains, it's kind of hard to pull off because Oz's hitbox is extremely tiny.  
 
-
-
-
 ### A4: Undone Be Thy Sinful Hex
 
 #### Fischl A4 Proc Rate
@@ -235,6 +232,27 @@ This was tested with Hu Tao's charge attack, the end of Noelle's greatsword swin
 
 **Significance:**  
 An understanding of the underlying mechanics of Fischl's A4 passive and possibly future similar effects
+
+#### Fischl A4 Not 05s
+
+**By:** Bobrokrot\#0111  
+**Added:** 2022-08-06  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fischl-a4-not-05s)  
+
+**Finding:**  
+Fishl's A4 cooldown seems to be more than 0.5s or depends on ping.  
+  
+**Evidence:**  
+1. Here Diluc performs N1 \(triggers Overload and Fishcl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fishl's A4 didn't proc.  
+[YouTube](https://youtu.be/9iZG10GwwiI)  
+  
+2. Here Diluc performs the same combo but with a slight delay, successfully triggering Fischl's A4. The time delay was under 1s.  
+[YouTube](https://youtu.be/VQsSJoMF3jg)  
+  
+My ping during the tests is 43ms whereas Terrapin's ping in the tests in the TCL is 28ms. Maybe that's the issue, further testing required.  
+  
+**Significance:**  
+Affects Diluc gameplay patterns in Overload comps with Fischl.
 
 ## Constellation Mechanics
 
