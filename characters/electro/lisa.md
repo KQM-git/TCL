@@ -225,6 +225,7 @@ When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive
 This effect can only occur once every 5s.
 
 * The pulse visual effect and cooldown are not initiated when not in combat, but will still apply **Conductive** stacks nearby.
+* The radius of this effect is 5m and its height is seemingly infinite, regardless of whether or not Lisa is in combat.
 
 {% endtab %}
 {% endtabs %}
