@@ -156,6 +156,7 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
 * **Blazing Eye** has no noticeable ICD to trigger Reactions or apply Pyro.
   * This does not affect her Charged Attack ICD.
 * **Blazing Eye** can trigger vs enemy shields.
+* **Blazing Eye** has hitlag, allowing you to [dragonstrike](../../combat-mechanics/tech/plunge-tech.md) off of it.  
 {% endtab %}
 {% endtabs %}
 
