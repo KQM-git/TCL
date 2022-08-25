@@ -52,7 +52,23 @@ search: false
 
 **Significance:**  
 Increases Amos' Bow value with a CA-oriented Yoimiya playstyle.
+
+### Yoimiya Kindling Arrows Weakspot Interaction
+
+**By:** DisgustingPractice\#6486  
+**Added:** 2022-08-12  
+[Discussion](https://tickets.deeznuts.moe/transcripts/yoimiya-kindling-arrows-weakspot-interaction)  
+
+**Finding:**  
+Yoimiya CA Kindling Arrows can hit weakspots but don't always crit.  
   
+**Evidence:**  
+[YouTube](https://youtu.be/Ke_y0571V40)  
+The 3 Kindling Arrows didn't crit when hitting the weakspot but clearly activated the Prototype Crescent passive.  
+  
+**Significance:**  
+Easier activation of the Prototype Crescent passive on Yoimiya and a possible bug where the Kindling Arrow hit doesn't activate the 100% crit on weakspots.  
+
 ## Skill Mechanics
 
 * Her infused arrows follow standard ICD - [Artesians#0002](https://imgur.com/lebjy1p)
