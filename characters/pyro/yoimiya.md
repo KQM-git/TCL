@@ -33,12 +33,12 @@ Performs up to 5 consecutive shots with a bow.
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type \(no E/with E\) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 59.94% ×2 (119.88%) | 18 + 27 | 266.40%/s | 8.16 | 1 / 2 |
-| 2-Hit DMG | 115% | 51 | 276.33%/s | 15.65 | 1 / 2 |
-| 3-Hit DMG | 149.49% | 88 | 262.07%/s | 19.98 | 1 / 2 |
-| 4-Hit DMG | 78.07% ×2 (156.14%) | 113 + 128 | 253.36%/s | 10.66 | 1 / 2 |
-| 5-Hit DMG | 178.04% | 164 | 262.88%/s | 23.84 | 1 / 2 |
-| With Recovery | - | 200 | 215.57%/s | - | - |
+| 1-Hit DMG | 59.94% ×2 (119.88%) | 16 + 24 | 299.70%/s | 8.16 | 1 / 2 |
+| 2-Hit DMG | 115% | 50 | 281.86%/s | 15.65 | 1 / 2 |
+| 3-Hit DMG | 149.49% | 81 | 284.72%/s | 19.98 | 1 / 2 |
+| 4-Hit DMG | 78.07% ×2 (156.14%) | 106 + 121 | 268.02%/s | 10.66 | 1 / 2 |
+| 5-Hit DMG | 178.04% | 154 | 279.95%/s | 23.84 | 1 / 2 |
+| With Recovery | - | 186 | 231.79%/s | - | - |
 
 * The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 
