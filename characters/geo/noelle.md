@@ -98,6 +98,7 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 * **Breastplate**'s damage shares standard ICD with **To Be Cleaned** \(C4\). 
 * The damage from **To Be Cleaned** \(C4\) is calculated using Noelle’s current attack at the moment the shield breaks.
 * When the shield breaks it creates enough hitlag that you can perform a Plunge attack if you jump at the correct time, however unless you purposefully break the shield it can be hard to time correctly.
+* The initial hit of **Breastplate** can trigger the healing as well, not just Normal and Charged Attacks.
 
 {% endtab %}
 

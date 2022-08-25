@@ -174,15 +174,33 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 ## Skill Mechanics
 
-### Noelle's Burst procs Breastplate
+### Noelle's Burst Procs Breastplate
 
-**By:** JonahFarc\#7056
+**By:** JonahFarc\#7056  
 
-**Finding:** Noelle's burst can proc the heal from Breastplate.
+**Finding:**  
+Noelle's burst can proc the heal from Breastplate.
 
-**Evidence:** [https://youtu.be/U7jmLCUeTqw](https://youtu.be/U7jmLCUeTqw)
+**Evidence:**  
+[YouTube](https://youtu.be/U7jmLCUeTqw)
 
-**Significance:** Popping shield before burst guarantees two heal instances while invulnerable.
+**Significance:**  
+Popping shield before burst guarantees two heal instances while invulnerable.  
+
+### Noelle’s Skill Hit Activates Healing
+
+**By:** castiel\#0415  
+**Added:** 2022-08-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)  
+
+**Finding:**  
+The initial hit of Noelle's skill can trigger her healing.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/_Ma8ai-yFYs)  
+  
+**Significance:**  
+Clarification on in-game skill description—Breastplate's description says that Normal and Charged Attacks can activate healing, but the initial skill hit can as well.
 
 ## Burst Mechanics
 
