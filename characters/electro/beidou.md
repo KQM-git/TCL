@@ -154,9 +154,10 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 * **Lightning discharge** can bounce off Mitachurl Shields but will deal no damage.
 * Snapshot on cast.
   * However, if you swap to Beidou and cast her Burst too quick (Left Alt + Switch Character), her Lightning DMG might fail to snapshot certain buffs.
-* The **Lightning Discharge's** have a range limit, starting from the character attacking, that is calculated after the attack hits and is not affected by travel time.
-* The attacker must be on field when the attack hits to proc a **Lightning Discharge.**
+* The **lightning discharge's** have a range limit, starting from the character attacking, that is calculated after the attack hits and is not affected by travel time.
+* The attacker must be on field when the attack hits to proc a **lightning discharge.**
 * An extensive collection of proc counts for **Stormbreaker** using different attack strings on different characters can be found [here.](../../evidence/characters/electro/beidou.md#beidou-proc-counts)
+* At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a **lightning discharge**.  
 
 {% endtab %}
 {% endtabs %}
