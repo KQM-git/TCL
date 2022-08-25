@@ -584,6 +584,32 @@ This is likely due to collision which pushes the character below the hitbox, thu
 **Significance:**  
 If your main DPS relies on Charged Attacks for damage and has the bullet-like animation mentioned, it might be better to avoid using Charged Attacks until the PMA changes states to prevent a DPS loss. 
 
+#### PMA Minions and Kill Trigger Interactions
+**By:** Rainfury\#8343  
+**Added:** 2022-08-22  
+[Discussion](https://tickets.deeznuts.moe/transcripts/pma-minions-and-kill-trigger-interactions)  
+
+**Finding:**  
+Defeating PMA minions won't proc any kill-based effects, similar to Specters.  
+
+**Evidence:**  
+1. Blackcliff: the ATK for all three test stayed 2916 after defeating minions.
+   * [Video 1](https://youtu.be/fV-S10yIJbY)
+   * [Video 2](https://youtu.be/NaI1UQU4cko)
+2. [Kaeya C2](https://youtu.be/81jWQ9QcVzY): starts at 0:03, ends at 0:11, which means the 2.5 second extension for defeating one enemy did not proc.
+3. [4pc Bloodstained](https://youtu.be/wYkSylczVYg): no stamina for Charged Attacks passive does not proc.
+4. [White Iron Greatsword](https://youtu.be/XJQ-oRK23gs): healing passive doesn't proc.
+5. [Twin Nephite](https://youtu.be/S0ymGDWpK8A): no indicator for speedboost and ATK stayed 626 before and after kill.
+
+Proof it's not just ruin minions in general: [video](https://youtu.be/yiLsfBxkjYY)  
+Blackcliff does proc
+Kaeya Q at 0:02, about 2.5 seconds pause from opening character screen, expires at 0:15  
+So, overall it lasted 10.5 seconds, which means C2 proc'd  
+
+**Significance:**  
+PMA is a very annoying enemy, literally the predecessor of Specters.  
+Helpful for peeps to stop coping with Blackcliff when trying to do PMA nukes 🐒  
+
 ### Primo Geovishap
 
 #### Shield Reflection Mechanics
