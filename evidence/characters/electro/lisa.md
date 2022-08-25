@@ -159,6 +159,22 @@ Documentation for information on Lisa's Conductive Stacks; whereby it lasts for 
 
 ## Burst Mechanics
 
+### Lightning Rose Cooldown Reduction Interaction
+
+**By:** ArchedNosi\#1484  
+**Added:** 2022-08-06  
+[Discussion](https://tickets.deeznuts.moe/transcripts/lisa-lightning-rose-cdr-interaction)
+
+**Finding:**   
+It is possible to refresh the cooldown of Lisa's Lightning Rose to a length, e.g. C6 Raiden or Burst Cooldown Refreshing mechanics, that it can result in 2 Lightning Roses being deployed in succession as well as both being able to coexist.  
+Credit to miliana#9407's and, by proxy, Risuke#6743's ideas/library post on a similar topic on Guoba.  
+  
+**Evidence:**  
+* Lightning Rose is casted, starting the cooldown, then Nachtraben's Regard: Reprise is obtained, refreshing the Burst's cooldown by 100%, and Lightning Rose is casted once more with both entities coexisting. [YouTube](https://youtu.be/MyQIKvVT7Fc) 
+  
+**Significance:**  
+More than one Lightning Roses can co-exist. This also shows that there is nothing in the game preventing multiple Lightning Roses from being summoned. More fluff knowledge than actual tangible information.
+
 ### Lightning Rose Vertical Range
 **By:** ArchedNosi\#1484  
 **Added:** 2022-01-02  

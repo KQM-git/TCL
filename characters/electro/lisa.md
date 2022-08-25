@@ -140,6 +140,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 * The initial Summon DMG dealt by **Lightning Rose** is dealt once within a specific area.
   * This area is a flat circular plane which shares the radius of **Lightning Rose** (7m).
   * The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which **Lightning Rose** was casted on.
+* More than one **Lightning Roses** can co-exist with sufficient cooldown reduction.
 
 
 {% endtab %}
