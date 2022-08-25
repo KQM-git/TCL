@@ -114,7 +114,7 @@ Additionally, for some reactions, only one reaction can occur at a time. For exa
 | Crystallize | Shatter | ✔️ | ✔️ |
 
 The duration of Freeze is as shown in the following formulas:  
-(! the formula does not work for innate aura enemies)
+\(for details on how the formulas work with enemies that have an innate aura, see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#frozen-formula-does-work-with-innate-auras)\)  
 
 $$
 \begin{align*}

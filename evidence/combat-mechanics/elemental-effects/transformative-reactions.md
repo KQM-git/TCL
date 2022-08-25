@@ -719,7 +719,7 @@ Heavy attacks \(such as claymores, Geo, Klee's bombs, etc\) will apply Shatter o
 
 **Evidence:**
 
-[https://pastebin.com/n5KSZv5L](https://pastebin.com/n5KSZv5L)
+[Pastebin](https://pastebin.com/n5KSZv5L)
 
 After applying Frozen status to a Hydro-affected enemy, such as Hydro Slimes, attack them with any heavy elemental attack.
 
@@ -741,11 +741,11 @@ Freeze reduces the aura element by the trigger element, the same as any normal r
 
 **Evidence:**
 
-My full spreadsheet of test results: [https://docs.google.com/spreadsheets/d/1i9GdQiO9PeWeoyagcqiBfz02Mk6JzDn3W\_4xmDx6Xug/edit?usp=sharing ](https://docs.google.com/spreadsheets/d/1i9GdQiO9PeWeoyagcqiBfz02Mk6JzDn3W_4xmDx6Xug/edit?usp=sharing)
+My full spreadsheet of test results: [Google Sheets](https://docs.google.com/spreadsheets/d/1i9GdQiO9PeWeoyagcqiBfz02Mk6JzDn3W_4xmDx6Xug/edit?usp=sharing)
 
 In the following video:
 
-[https://www.youtube.com/watch?v=PuOtM41S7HA&feature=youtu.be](https://www.youtube.com/watch?v=PuOtM41S7HA&feature=youtu.be)
+[YouTube](https://www.youtube.com/watch?v=PuOtM41S7HA&feature=youtu.be)
 
 I apply 1U Cryo to an extended, 19s 2U Hydro. We can see that the 19s Hydro source lasted just over 7 seconds, which fits the estimated 11.875s reduction of 1U. A normal, 12s 2U aura is reduced by 7.5s, again, a 1U reduction.
 
@@ -781,7 +781,7 @@ This improves our knowledge of Freeze and how to sequence reactions.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858306167686823956_874079173520527360_transcript-freeze-duration-formula-theory-hunt.html)
 
 **Finding:** Freeze duration formula:  
-(!does not work the same for innate aura enemies)  
+\(gauge and duration formulas work for innate auras as well\)  
 
 $$
 \begin{align*}
@@ -1073,6 +1073,39 @@ Some of the things that Shatter does not trigger:
 
 **Significance:**  
 Perhaps some surprising exceptions.  
+
+### Frozen Formula Does Work With Innate Auras
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** 2022-08-15  
+[Discussion](https://tickets.deeznuts.moe/transcripts/frozen-formula-does-work-with-innate-auras)  
+
+**Finding:**  
+The [Frozen formula](#duration-of-freeze-aura) does work for innate aura enemies.  
+  
+**Evidence:**  
+In the [video](https://imgur.com/a/7QKodnl) \(60FPS\), the following can be observed:  
+  
+* 1U Cryo on Large Hydro Slime (2U Hydro):  
+  * Theoretical duration = $2\sqrt{5\times2\times1+4}-4 = 3.48s$  
+  * Actual duration = $3:30 = 3.5s$  
+* 2U Cryo on Large Hydro Slime (2U Hydro):  
+  * Theoretical duration = $2\sqrt{5\times2\times2+4}-4 = 5.80s$  
+  * Actual duration = $5:46 = 5.77s$  
+* 2U Cryo on Small Hydro Slime (1U Hydro):  
+  * Theoretical duration = $2\sqrt{5\times2\times1+4}-4 = 3.48s$  
+  * Actual duration = $3:28 = 3.47s$  
+* 2U Cryo on Abyss Herald (shit ton of Hydro + 80% Frozen resistance):  
+  * Theoretical duration = $2\sqrt{5\times2\times2\times0.2+4}-4 = 1.66s$  
+  * Actual duration = $1:40 = 1.67s$  
+* 1U Cryo on Abyss Herald (shit ton of Hydro + 80% Frozen resistance):  
+  * Theoretical duration = $2\sqrt{5\times2\times1\times0.2+4}-4 = 0.90s$  
+  * Actual duration = $0:53 = 0.88s$  
+  
+Everything lines up.  
+  
+**Significance:**  
+The only part of the formula that doesn't work here is the "Cryo gauge/origin aura when Frozen" part.  
 
 ## Swirl
 
