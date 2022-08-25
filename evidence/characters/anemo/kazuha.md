@@ -269,3 +269,17 @@ This finding can potentially impact rotation planning. When using teams involvin
 * Kazuha's Anemo Infusion can be overriden by other infusion effects. - [anema\#0006](https://imgur.com/vNyOiFt)  
 * The anemo infusion from C6 can react with infusion field triggering a swirl reaction based on the field maker's EM. - [Jilanow\#9252](https://www.youtube.com/watch?v=7YoyUKu-cPY)  
 * Damage bonus works regardless of infusion overlap, but only during infusion duration. - [xTuki\#4893](https://imgur.com/eJJc5K6)  
+
+
+## Synergies/Interactions
+
+### Kazuha And Sucrose Interaction
+
+**By:** Zakharov\#5645, Rainfury\#8343  
+**Added:** 2022-08-08  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-and-sucrose-interaction)  
+
+**Finding:**  
+Sucrose A4 shares 20% of Kazuha's C2 EM.  
+**Evidence:**  
+[YouTube](https://youtu.be/UL-9meEiXwg)  

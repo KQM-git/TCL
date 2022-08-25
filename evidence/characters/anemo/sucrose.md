@@ -501,3 +501,14 @@ The above suggests the formula for final EM for a buffed party member after Sucr
 * Petrify: [Link](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/sucrose.md/discord/attachments_839639101825089556_839650961516527658_Genshin_Impact_2021.05.06_-_01.51.25.08.mp4)
 
 **Significance:** Sucrose's Burst can be used in conjunction with freeze or petrify to group enemies very tightly together without knocking them away from the center.
+
+### Kazuha And Sucrose Interaction
+
+**By:** Zakharov\#5645, Rainfury\#8343  
+**Added:** 2022-08-08  
+[Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-and-sucrose-interaction)  
+
+**Finding:**  
+Sucrose A4 shares 20% of Kazuha's C2 EM.  
+**Evidence:**  
+[YouTube](https://youtu.be/UL-9meEiXwg)  

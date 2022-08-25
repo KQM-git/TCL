@@ -208,6 +208,9 @@ The **Autumn Whirlwind** field created by **Kazuha Slash** has the following eff
 
 The Elemental Mastery-increasing effects of this Constellation do not stack.
 
+**Notes**
+* Sucrose's A4 shares 20% of EM from this Constellation. 
+
 {% endtab %}
 
 {% tab title="C3" %}
