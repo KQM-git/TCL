@@ -107,3 +107,34 @@ The A4 buff lasts 10s from the time the buff indicator appears, this is true for
 
 **Significance:**  
 This info can help in rotation crafting, where people would need to know how long Albedo's A4 Passive lasts, which is 10s after Geo structure from his Burst appears. 
+
+## Synergies/Interactions
+
+### Albedo Cinnabar Spindle Buffs Both Hits of E N1 Combo
+
+**By:** Markoda\#5294  
+**Added:** 2022-08-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/albedo-cinnabar-spindle-buffs-both-hits-of-e-n1-combo)  
+
+**Finding:**  
+The Cinnabar Spindle's passive seems to linger more than the 0.1s as stated in its description, leaving room for Albedo to perform a Skill > Normal Attack combo and have both hits be buffed by Spindle's Flat Damage bonus.  
+  
+**Evidence:**  
+The weapon description of the Cinnabar Spindle reads:  
+  
+> "Elemental Skill DMG is increased by 80% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."  
+  
+With this explanation, since 0.1s is very short (<6 frames for 60FPS), one might assume that even if Albedo performs a quick Normal Attack (N1) after casting his Elemental Skill (E), the first Transient Blossom will not receive the Spindle buff. However, testings have shown that this is not the case.  
+  
+Testing sheet: [Google Sheets](https://docs.google.com/spreadsheets/d/1gY82fEkHDonUlp8Bho76PusTo-HwGixK2L5ADGMEo40/edit?usp=sharing)  
+  
+Out of 53 runs where Albedo casted his Elemental Skill then quickly followed up with a Normal Attack, 39(74%) had the Transient Blossom that triggered also buffed by Spindle's passive. This became more consistent as the tester had gotten more used to the practice.  
+  
+However, it is worth noting that in 19 additional runs where Albedo, with his Solar Isotoma already present, performed a Normal Attack > Skill > Normal Attack combo (N1 E N1), none of the runs managed to have the Spindle buffed either the Skill cast damage or the 2nd Transient Blossom damage. Since this is a common tech in use to allow Albedo to trigger 2 Blossoms bypassing the 2s cooldown, it sadly makes the slightly longer time window irrelevant in combat, except the very first Transient Blossom when Albedo has not placed a Solar Isotoma yet.  
+  
+*Ping dependency*  
+  
+It is also worthy noting that the initial tests were done with a high ping, mobile environment. A few follow up tests were done in a 60FPS setting with ~135ms, which produced consistent Spindle proc up till ~0.5s delay between the initial E hit and the Normal Attack. A third series of testing done in ~20ms ping has failed to produce a single successful Spindle proc after 21 trials, suggesting that this Spindle proc tech is in fact most likely only achievable with high ping.  
+  
+**Significance:**  
+By performing a quick Normal Attack right after placing his Elemental Skill, Albedo is often able to get one extra proc of the Cinnabar Spindle Flat Damage increase buff at the beginning of combat. However, this result is only consistently observed when the ping of the player’s device is high.  
