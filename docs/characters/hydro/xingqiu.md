@@ -28,8 +28,8 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Guhua Style" %}
+<Tabs>
+<TabItem value="na" label="Guhua Style">
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 
@@ -59,9 +59,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Guhua Sword: Fatal Rainscreen" %}
+</TabItem>
+
+<TabItem value="e" label="Guhua Sword: Fatal Rainscreen">
 Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time, this ability creates the maximum number of **Rain Swords**, which will orbit your active character.
 
 The Rain Swords have the following properties:  
@@ -106,9 +107,9 @@ Using this ability applies the Wet status onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
 * The DMG Reduction is affected by Mistsplitter's passive.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Guhua Sword: Raincutter" %}
+<TabItem value="q" label="Guhua Sword: Raincutter">
 Initiate **Rainbow Bladework** and fight using an illusory sword rain, while creating the maximum number of Rain Swords.
 
 **Rainbow Bladework**  
@@ -145,58 +146,68 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * **Guhua Sword: Raincutter** does not snapshot buffs on cast. However, each wave of sword rain attacks from **Guhua Sword: Raincutter** will snapshots buffs when they are summoned.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Flash of Genius
 
 When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Hydropathic
 
 When a **Rain Sword** is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Blades Amidst Raindrops
 
 Xingqiu gains a 20% **Hydro DMG Bonus**.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### The Scent Remained
 
 Increases the maximum number of **Rain Swords** by 1.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Rainbow Upon the Azure Sky
 
 Extends the duration of **Guhua Sword: Raincutter** by 3s.
 Decreases the **Hydro RES** of opponents hit by **sword rain** attacks by 15% for 4s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Weaver of Verses
 
 Increases the Level of **Guhua Sword: Raincutter** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Evilsoother
 
 Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by **Guhua Sword: Fatal Rainscreen** is increased by 50%.
@@ -204,17 +215,19 @@ Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by **Guhua
 * This effect is multiplicative. 
   * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#evilsoother)
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Embrace of Rain
 
 Increases the Level of **Guhua Sword: Fatal Rainscreen** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Hence, Call Them My Own Verses
 
 Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.
@@ -223,13 +236,14 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 * Changes the number of **Sword Rain** attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
 * Energy regeneration is not affected by Energy Recharge.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Guhua Style" %}
+<Tabs>
+<TabItem value="na" label="Guhua Style">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -257,9 +271,9 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Guhua Sword: Fatal Rainscreen" %}
+<TabItem value="e" label="Guhua Sword: Fatal Rainscreen">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -270,9 +284,9 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 **Duration**: 15s  
 **Cooldown**: 21s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Guhua Sword: Raincutter" %}
+<TabItem value="q" label="Guhua Sword: Raincutter">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -282,8 +296,8 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

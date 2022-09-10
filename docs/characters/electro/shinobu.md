@@ -21,8 +21,8 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
  
 ## Attacks
  
-{% tabs %}
-{% tab title="Normal Attack: Shinobu&apos;s Shadowsword" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Shinobu&apos;s Shadowsword">
  
 **Normal Attack**  
 Perform up to 4 rapid strikes.
@@ -52,9 +52,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% |
 | Low Plunge DMG | 234.86% |
 | High Plunge DMG | 293.36% |
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Sanctifying Ring" %}
+<TabItem value="e" label="Sanctifying Ring">
 
 Creates a **Grass Ring of Sanctification** at the cost of part of her HP, dealing **Electro DMG** to nearby opponents.
 
@@ -83,9 +84,10 @@ The HP consumption from using this skill can only bring her to 20% HP.
 * Hitbox extends slightly above the visual effect.
 * Initial cast and tick damage share the same ICD
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Gyoei Narukami Kariyama Rite" %}
+<TabItem value="q" label="Gyoei Narukami Kariyama Rite">
 
 Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous **Electro DMG** to opponents within its AoE based on Shinobu's Max HP.  
 If Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.
@@ -109,25 +111,31 @@ If Shinobu's HP is less than or equal to 50% when this skill is used, the field 
 * Hits 7 times when above 50% HP and 11-13 times when below 50% HP.
 * Number of hits depend on FPS but not on ping.
  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Ascension Passives
  
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Protracted Prayers
 
 Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Ascension 1" %}
+<TabItem value="a1" label="Ascension 1">
+
 ### Breaking Free
 
 When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Heart's Repose
 
 **Sanctifying Ring**'s abilities will be boosted based on Shinobu's Elemental Mastery:  
@@ -138,32 +146,39 @@ When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
 * The healing increase is additive to normal healing.
 * The healing is affected by Healing Bonus.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
  
 ## Constellations
  
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### To Cloister Compassion
 
 **Gyoei Narukami Kariyama Rite**'s AoE is increased by 50%.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### To Forsake Fortune
 
 **Grass Ring of Sanctification**'s duration is increased by 3s.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### To Sequester Sorrow
 
 Increases the Level of **Sanctifying Ring** by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### To Sever Sealing
 
 When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's G**rass Ring of Sanctification** hit opponents, a **Thundergrass Mark** will land on the opponent's position and deal AoE Electro DMG based on 9.7% of Shinobu's Max HP.  
@@ -175,27 +190,32 @@ This effect can occur once every 5s.
 * C4 can generate particles.
 * No cooldown for particle generation between Skill and C4.
 
-{% endtab %}
+</TabItem>
  
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### To Cease Courtesies
 
 Increases the Level of **Gyoei Narukami Kariyama Rite** by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### To Ward Weakness
 
 When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s.  
 When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Full Talent Values
  
-{% tabs %}
-{% tab title="Normal Attack: Shinobu&apos;s Shadowsword" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Shinobu&apos;s Shadowsword">
+
 ### Normal Attacks
  
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -220,9 +240,10 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Sanctifying Ring" %}
+<TabItem value="e" label="Sanctifying Ring">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -233,9 +254,10 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 **Activation Cost**: 30% Current HP  
 **Duration**: 12s  
 **Cooldown**: 15s  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Gyoei Narukami Kariyama Rite" %}
+<TabItem value="q" label="Gyoei Narukami Kariyama Rite">
  
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -245,9 +267,10 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 **Energy Cost**: 60  
 **Duration**: 2s / 3.5s  
 **Cooldown**: 15s  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Evidence Vault
  
-{% page-ref page="../../evidence/characters/electro/shinobu.md" %}
+TODO % page-ref page="../../evidence/characters/electro/shinobu.md" %

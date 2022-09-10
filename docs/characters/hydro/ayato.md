@@ -21,8 +21,8 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Normal Attack: Kamisato Art - Marobashi" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Kamisato Art - Marobashi">
 
 **Normal Attack**  
 Perform up to 5 rapid strikes.  
@@ -54,9 +54,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Kamisato Art: Kyouka" %}
+</TabItem>
+
+<TabItem value="e" label="Kamisato Art: Kyouka">
 
 Kamisato Ayato shifts positions and enters the **Takimeguri Kanka** state.  
 After this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing AoE Hydro DMG.
@@ -98,9 +99,9 @@ It also has the following properties:
 * Shunsuiken Attacks can hit enemies inside of Venti's [Wind's Grand Ode](../anemo/venti.md#attacks).
 * Shunsuiken Attacks do not snapshot.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kamisato Art: Suiyuu" %}
+<TabItem value="q" label="Kamisato Art: Suiyuu">
 
 Unveils a garden of purity that silences the cacophony within.  
 While this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing Hydro DMG and increasing the Normal Attack DMG of characters within.
@@ -126,70 +127,87 @@ While this space exists, Bloomwater Blades will constantly rain down and attack 
 **Notes:**
 * **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) \(tracking and mechanic-wise with one less, so hit\-miss\-miss\-miss against one enemy\) but slower.
 * **Bloomwater Blades** drop once every 30 frames, with a theoretical maximum of 36 drops per Q cast.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Kamisato Art: Daily Cooking
 
 When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional "Suspicious" dish of the same type.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 1" %}
+<TabItem value="a1" label="Ascension 1">
+
 ### Kamisato Art: Mine Wo Matoishi Kiyotaki
 
 Kamisato Art: Kyouka has the following properties:  
 • After it is used, Kamisato Ayato will gain 2 Namisen stacks.  
 • When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Kamisato Art: Michiyuku Hagetsu
 
 If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Kyouka Fuushi
 
 Shunsuiken DMG is increased by 40% against opponents with 50% HP or less.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### World Source
 
 Namisen's maximum stack count is increased to 5. When Kamisato Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### To Admire the Flowers
 
 Increases the Level of Kamisato Art: Kyouka by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
 
-{% tab title="C4" %}
+</TabItem>
+
+<TabItem value="c4" label="C4">
+
 ### Endless Flow
 
 After using Kamisato Art: Suiyuu, all nearby party members will have 15% increased Normal Attack SPD for 15s.
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Bansui Ichiro
 
 Increases the Level of Kamisato Art: Suiyuu by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
 
-{% tab title="C6" %}
+</TabItem>
+
+<TabItem value="c6" label="C6">
+
 ### Boundless Origin
 
 After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.  
@@ -203,13 +221,15 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 
 * The extra Shunsuiken strikes are considered Normal Attack damage.
 * The extra Shunsuiken strikes do not have ICD.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Normal Attack: Kamisato Art - Marobashi" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Kamisato Art - Marobashi">
+
 ### Normal Attacks
 
 |      | 1-Hit DMG | 2-Hit DMG | 3-Hit DMG | 4-Hit DMG | 5-Hit DMG |
@@ -260,9 +280,9 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 | Lv10 | 126.38%    | 252.70%        | 315.64%            |
 | Lv11 | 135.30%    | 270.54%        | 337.92%            |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kamisato Art: Kyouka" %}
+<TabItem value="e" label="Kamisato Art: Kyouka">
 |  | Shunsuiken 1-Hit DMG | Shunsuiken 2-Hit DMG | Shunsuiken 3-Hit DMG | Namisen DMG Bonus | Water Illusion DMG |
 |---|---|---|---|---|---|
 | Lv1 | 52.89% | 58.91% | 64.93% | 0.56% Max HP | 101.48% |
@@ -282,9 +302,10 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 **Duration**: 6s  
 **Water Illusion Duration**: 6s  
 **Cooldown**: 12s  
-{% endtab %}
 
-{% tab title="Kamisato Art: Suiyuu" %}
+</TabItem>
+
+<TabItem value="q" label="Kamisato Art: Suiyuu">
 |      | Bloomwater Blade DMG | Normal Attack DMG Bonus |
 |------|----------------------|-------------------------|
 | Lv1  | 66.46%               | 11%                     |
@@ -305,8 +326,9 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 **Energy Cost**: 80  
 **Duration**: 18s  
 **Cooldown**: 20s  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

@@ -19,17 +19,7 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 ## Media
 
-{% tabs %}
-{% tab title="Claymore" %}
-
-{% tab title="Polearm" %}
-
-{% tab title="Sword" %}
-
-{% tab title="Diluc Searing Onslaught" %}
 {% embed url="https://imgur.com/a/t3hNR2V" caption="" %}
-{% endtab %}
-{% endtabs %}
 
 
 # Stepstool  

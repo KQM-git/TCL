@@ -4,8 +4,8 @@
 
 ### Aquila Favonia
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -15,9 +15,10 @@
 
 * There is some inconsistency with shielded characters and **Falcon's Defiance** trigger. For more details, check the Vault Entry linked - [gvo#4200](../../evidence/equipment/weapons.md#aquila-favonia)
 * The healing is affected by Incoming and Outgoing Healing Bonuses.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -31,13 +32,14 @@
 | 80+ | 621 | 37.7 |
 | 85 | 648 | 39.5 |
 | 90 | 674 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Freedom-Sworn
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -48,9 +50,10 @@
 
 * The self swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
 * Stacks can't be gained from infusing the weapon with 2 different Elements.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -64,22 +67,24 @@
 | 80+ | 563 | 181 |
 | 85 | 586 | 190 |
 | 90 | 608 | 198 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Haran Geppaku Futsu
 
-{% tabs %}
+<Tabs>
 
-{% tab title="Description" %}
+<TabItem value="desc" label="Description">
 | Attribute | Description |
 | :--- | :--- |
 | Honed Flow | Obtain **12/15/18/21/24**% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20/25/30/35/40**% for 8s.|
 | Base ATK | 46 - 608 |
 | CRIT Rate | 7.2% - 33.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 382 | 24.4 |
@@ -92,14 +97,15 @@
 | 80+ | 563 | 30.2 |
 | 85 | 586 | 31.6 |
 | 90 | 608 | 33.1 |
-{% endtab %}
 
-{% endtabs %}
+</TabItem>
+
+</Tabs>
 
 ### Mistsplitter Reforged
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -109,9 +115,10 @@
 
 * The number of Mistsplitter's Emblems gained from characters' Elemental Burst is character dependent, for more details, check the Vault Entry linked - [gtrain#9987](../../evidence/equipment/weapons.md#mistsplitter-reforged)
 * A Mistsplitter's Emblem stack that a character obtains when Normal Attack deals Elemental DMG can also be obtained when Charged Attack deals Elemental DMG as well.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Crit DMG |
 | :--- | :--- | :--- |
@@ -125,22 +132,24 @@
 | 80+ | 621 | 40.2 |
 | 85 | 648 | 42.2 |
 | 90 | 674 | 44.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Primordial Jade Cutter
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Protector's Virtue | HP increased by **20/25/30/35/40**%. Additionally, provides an ATK Bonus based on **1.2/1.5/1.8/2.1/2.4**% of the wielder's Max HP. |
 | Base ATK | 44 - 542 |
 | CRIT Rate% | 9.6% - 44.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -154,13 +163,14 @@
 | 80+ | 506 | 40.2 |
 | 85 | 524 | 42.2 |
 | 90 | 542 | 44.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyward Blade
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -169,9 +179,10 @@
 | ER% | 12% - 55.1% |
 
 * Skyward blade does not increase your damage after Elemental Burst but adds an additional line as bonus damage - [Special\#1775](../../evidence/equipment/weapons.md#skyward-blade)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -185,13 +196,14 @@
 | 80+ | 563 | 50.3 |
 | 85 | 586 | 52.7 |
 | 90 | 608 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Summit Shaper
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -201,9 +213,10 @@
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * Summit Shaper can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -217,24 +230,26 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 4 Stars
 
 ### Amenoma Kageuchi
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Iwakura Succession | After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6/7.5/9/10.5/12** Energy for each seed consumed. |
 | Base ATK | 41 - 454 |
 | ATK% | 12% - 55.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -249,13 +264,14 @@
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
 * The duration of all seeds is refreshed upon gaining a new seed.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Blackcliff Longsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -265,9 +281,10 @@
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -281,12 +298,13 @@
 | 80+ | 523 | 33.5 |
 | 85 | 544 | 35.1 |
 | 90 | 565 | 36.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Cinnabar Spindle
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 | Attribute | Description |
 | :--- | :--- |
 | Spotless Heart | Elemental Skill DMG is increased by **40/50/60/70/80**% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
@@ -294,9 +312,10 @@
 | DEF | 15% - 69% | 
 
 * As of Patch 2.5, there is a bug where the Passive will be deactivated if Albedo's [Transient Blossom](../../characters/geo/albedo.md#attacks) is triggered by a non-melee attack and hits a shield.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 | Level | Base ATK | DEF  |
 |-------|----------|------|
 | 1     | 41       | 15   |
@@ -324,13 +343,14 @@
 | 80+   | 427      | 62.9 |
 | 85    | 440      | 65.9 |
 | 90    | 454      | 69   |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Favonius Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -340,9 +360,10 @@
 
 * Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 * See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -356,22 +377,24 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Festering Desire
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -385,22 +408,24 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Iron Sting
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Stinger | Dealing Elemental DMG increases all DMG by **6/7.5/9/10.5/12**% for 6s. Max 2 stacks. Can only occur once every 1s. |
 | Base ATK | 42 - 510 |
 | EM | 36 - 165 |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -414,13 +439,14 @@
 | 80+ | 475 | 151 |
 | 85 | 492 | 158 |
 | 90 | 510 | 165 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Kagotsurube Isshin
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -429,9 +455,10 @@
 | ATK% | 9% - 41.3% |
 
 * The quest version of this weapon, **Prized Isshin Blade**, has a passive that decreases the DMG done by the wielder by 50%. This effect is additive - [Aevean Leeow#1362](../../evidence/equipment/weapons.md#cursed-blade-reduction-mechanic)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -445,13 +472,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Lion's Roar
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -462,9 +490,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -478,22 +507,24 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Prototype Rancour
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Smashed Stone | On hit, Normal or Charged Attacks increase ATK and DEF by **4/5/6/7/8**% for 6s. Max 4 stacks. Can only occur once every 0.3s. |
 | Base ATK | 44 - 565 |
 | Phys DMG Bonus | 7.5% - 34.5% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -507,13 +538,14 @@
 | 80+ | 523 | 31.5 |
 | 85 | 544 | 33 |
 | 90 | 565 | 34.5 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Royal Longsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -526,9 +558,10 @@
 * Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 * AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
 * Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -542,13 +575,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sacrificial Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -559,9 +593,10 @@
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 * When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 * The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -575,13 +610,14 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sapwood Blade 
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -589,9 +625,9 @@
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -606,13 +642,13 @@
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ### The Alley Flash
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -621,22 +657,24 @@
 | EM | 12 - 55 |
 
 * taking damage while the passive is disabled will reset the disable timer.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Black Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Justice | Increases DMG dealt by Normal and Charged Attacks by **20/25/30/35/40**%. Additionally, regenerates **60/70/80/90/100**% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s. |
 | Base ATK | 42 - 510 |
 | CRIT Rate% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -650,13 +688,14 @@
 | 80+ | 475 | 25.1 |
 | 85 | 492 | 26.4 |
 | 90 | 510 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Flute
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -665,9 +704,10 @@
 | ATK% | 9% - 41.3% |
 
 * Flute's AOE can crit - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -681,15 +721,16 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 3 Stars
 
 ### Cool Steel
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -700,9 +741,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -716,13 +758,14 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Dark Iron Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -731,9 +774,10 @@
 | Elemental Mastery | 31 - 141 |
 
 * Can only be obtained from Chen the Sharp in Liyue Harbor.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -747,13 +791,14 @@
 | 80+ | 375 | 128 |
 | 85 | 388 | 134 |
 | 90 | 401 | 141 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Fillet Blade
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -762,9 +807,10 @@
 | ATK% | 7.7% - 35.2% |
 
 * The passive cannot be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -778,22 +824,24 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Harbinger of Dawn
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Vigorous | When HP is above 90%, increases CRIT Rate by **14/17.5/21/24.5/28**%. |
 | Base ATK | 39 - 401 |
 | CRIT DMG% | 10.2% - 46.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -807,22 +855,24 @@
 | 80+ | 375 | 42.7 |
 | 85 | 388 | 44.8 |
 | 90 | 401 | 46.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyrider Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Determination | Using an Elemental Burst grants a **12/15/19/21/24**% increase in ATK and Movement SPD for 15s. |
 | Base ATK | 38 - 354 |
 | ER% | 11.3% - 51.7% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -836,13 +886,14 @@
 | 80+ | 334 | 47.5 |
 | 85 | 344 | 49.8 |
 | 90 | 354 | 52.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Traveler's Handy Sword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -851,9 +902,10 @@
 | DEF% | 6.4% - 27.5% |
 
 * HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
@@ -867,8 +919,9 @@
 | 80+ | 415 | 26.7 |
 | 85 | 432 | 28 |
 | 90 | 448 | 29.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## External Links
 

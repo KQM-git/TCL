@@ -27,8 +27,8 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Bolts of Downfall" %}
+<Tabs>
+<TabItem value="na" label="Bolts of Downfall">
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
@@ -63,9 +63,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Plunge Impact | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Nightrider" %}
+</TabItem>
+
+<TabItem value="e" label="Nightrider">
 Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.  
 For the ability's duration, Oz will continuously attack nearby opponents with Freikugel.
 
@@ -89,9 +90,9 @@ Press again any time during the ability's duration to once again summon him to F
 **Notes**
 * When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Oz" %}
+<TabItem value="oz" label="Oz">
 | Attribute | Oz |
 | :--- | :--- |
 | Normal Attacks \(T9%\) | 150.96% |
@@ -111,9 +112,9 @@ Press again any time during the ability's duration to once again summon him to F
 * When **Oz** is repositioned via the use of this elemental skill, it counts as a use of an elemental skill and it re-snapshots Fischl's stats.
 * **Oz's** normal attacks shares ICD with her **C6**.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Midnight Phantasmagoria" %}
+<TabItem value="q" label="Midnight Phantasmagoria">
 Summons Oz to spread his twin wings of twilight and defend Fischl.  
 Has the following properties during the ability's duration:  
 * Fischl takes on Oz's form, greatly increasing her Movement Speed.
@@ -146,19 +147,22 @@ Has the following properties during the ability's duration:
 * After summoning **Oz** with Midnight Phantasmagoria and swapping off of Fischl, **Oz** will snapshot Fischl's stats right before she leaves the field.
 * **Midnight Phantasmagoria** is considered a blunt attack and will shatter frozen enemies.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Mein Hausgarten
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Stellar Predator
 
 When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing **AoE Electro DMG** equal to 152.7% of the arrow's DMG.
@@ -176,9 +180,10 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering R
 * This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.  
 * The AoE Electro DMG is calculated as a raw multiplier to Fischl's Aimed Shot Base DMG, not as a normal DMG Bonus.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Undone Be Thy Sinful Hex
 *\(previously known as **Lightning Smite**\)*  
 
@@ -200,13 +205,14 @@ If your current active character triggers an **Electro-related Elemental Reactio
 * The bolt from **Undone Be Thy Sinful Hex** targets the closest enemy to the character, which could be a separate enemy from whom a reaction was triggered.
 * **Undone By Thy Sinful Hex** uses snapshotted stats on Oz cast and recast.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Gaze of the Deep
 
 Even when **Oz** is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, **Oz** fires a joint attack, dealing DMG equal to 22% of Fischl's ATK.
@@ -221,9 +227,10 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 
 * This is an echo effect.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Devourer of All Sins
 
 When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
@@ -231,17 +238,19 @@ When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE
 * C2 is calculated as additional MV added to **Nightrider**'s Summoning MV. Example:  At T9, Nightrider's Summoning MV becomes 396.25% when factoring in C2.
 * C2 does not affect Oz's turret attack damage.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Wings of Nightmare
 
 Increases the Level of **Nightrider** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Her Pilgrimage of Bleak
 
 When **Midnight Phantasmagoria** is used, it deals 222% of ATK as **Electro DMG** to surrounding opponents.  
@@ -260,17 +269,19 @@ When the skill duration ends, Fischl regenerates 20% of her HP.
 * C4 damage occurs before Q (higher priority)
 * C4 is not a blunt attack and will not shatter frozen enemies.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Against the Fleeing Light
 
 Increases the Level of **Midnight Phantasmagoria** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Evernight Raven
 
 Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.
@@ -295,13 +306,14 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 * **Oz** normal attacks a total of 12 times over the **C6** duration.
 * **C6** uses snapshotted stats on Oz cast and recast.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Bolts of Downfall" %}
+<Tabs>
+<TabItem value="na" label="Bolts of Downfall">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -328,9 +340,9 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Nightrider" %}
+<TabItem value="e" label="Nightrider">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -340,9 +352,9 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 **Oz's Duration**: 10s  
 **Cooldown**: 25s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Midnight Phantasmagoria" %}
+<TabItem value="q" label="Midnight Phantasmagoria">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -351,8 +363,8 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

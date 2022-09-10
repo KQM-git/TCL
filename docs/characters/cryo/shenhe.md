@@ -24,8 +24,8 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Dawnstar Piercer" %}
+<Tabs>
+<TabItem value="na" label="Dawnstar Piercer">
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
@@ -55,9 +55,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Spring Spirit Summoning" %}
+</TabItem>
+
+<TabItem value="e" label="Spring Spirit Summoning">
 The frosted dew, silvery and dense, shall exorcise all demons.
 Grants all nearby party members the **Icy Quill** effect and deals Cryo DMG in different ways based on whether it is pressed or held.
 
@@ -108,9 +109,9 @@ When one Cryo DMG instance strikes multiple opponents, the effect is triggered m
 * **Spring Spirit Summoning** \(Hold\) makes Shenhe immune to all staggers and knockbacks for its animation duration.
 * **Icy Quill** stacks are not consumed when used on Slime balloons.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Divine Maiden's Deliverance" %}
+<TabItem value="q" label="Divine Maiden's Deliverance">
 Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing AoE Cryo DMG.
 
 The Talisman Spirit then creates a field that decreases the Cryo RES and Physical RES of opponents within it. It also deals periodic Cryo DMG to opponents within the field. 
@@ -143,27 +144,32 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 * RES Shred persists 2 seconds after **Divine Maiden's Deliverance** ends.
 * **Divine Maiden's Deliverance** does not have enough iframes for explosive barrel immunity.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Precise Comings and Goings
 
 Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Deific Embrace
 
 An active character within the field created by **Divine Maiden's Deliverance** gains 15% **Cryo DMG Bonus**.
 
 * **Deific Embrace** is dynamic and changes as the character enters and exits the **Divine Maiden's Deliverance** field.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Spirit Communion Seal
 
 After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party members the following effects:
@@ -172,39 +178,46 @@ After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party m
 
 **Note**
 * Buff durations for **Spring Spirit Summoning** \(Press\) and **Spring Spirit Summoning** \(Hold\) are independent.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Clarity of Heart
 
 **Spring Spirit Summoning** can be used 1 more time.
 
 **Note**
 * The charges refreshes **Icy Quill** stacks based on the latest type of **Spring Spirit Summoning** cast \(Press/Hold\). 
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Centered Spirit
 
 **Divine Maiden's Deliverance** lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased **Cryo** CRIT DMG.
 
 **Note**
 * The CRIT DMG buff shortly lingers after **Divine Maiden's Deliverance** ends.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### Seclusion
 
 Increases the Level of **Spring Spirit Summoning** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Insight
 
 When characters under the effect of **Icy Quill** applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:
@@ -213,28 +226,32 @@ When characters under the effect of **Icy Quill** applied by Shenhe trigger its 
 
 **Note**
 * Stacks are gained after the damage has been dealt .  
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Divine Attainment
 
 Increases the Level of **Divine Maiden's Deliverance** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Mystical Abandon
 
 When characters trigger **Icy Quill**'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Dawnstar Piercer" %}
+<Tabs>
+<TabItem value="na" label="Dawnstar Piercer">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -261,9 +278,9 @@ When characters trigger **Icy Quill**'s effects using Normal and Charged Attack 
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Spring Spirit Summoning" %}
+<TabItem value="e" label="Spring Spirit Summoning">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -276,9 +293,9 @@ When characters trigger **Icy Quill**'s effects using Normal and Charged Attack 
 **Press Cooldown**: 10s  
 **Hold Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Divine Maiden's Deliverance" %}
+<TabItem value="q" label="Divine Maiden's Deliverance">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -290,8 +307,8 @@ When characters trigger **Icy Quill**'s effects using Normal and Charged Attack 
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

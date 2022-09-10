@@ -25,8 +25,8 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Whisper of Water" %}
+<Tabs>
+<TabItem value="na" label="Whisper of Water">
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
@@ -55,9 +55,10 @@ Gathering the might of Hydro, Barbara plunges towards the ground from mid-air, d
 | Plunge DMG | 104.41% | 1A | 5 | 2 |
 | Low Plunge DMG | 208.77% | 1A | 50 | 3 |
 | High Plunge DMG | 260.76% | 1A | 100 | 4 |
-{% endtab %}
 
-{% tab title="Let the Show Begin♪" %}
+</TabItem>
+
+<TabItem value="e" label="Let the Show Begin♪">
 Summons water droplets resembling musical notes that form a Melody Loop, dealing Hydro DMG to surrounding opponents and applying the Wet status to them.
 
 **Melody Loop**  
@@ -83,9 +84,9 @@ Summons water droplets resembling musical notes that form a Melody Loop, dealing
 * Cast time can be reduced by performing a swap cancel.  
 * When dashing to animation cancel, it will not be casted but it will trigger artifact 4-Piece set bonuses as well as avoid the cooldown.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Shining Miracle♪" %}
+<TabItem value="q" label="Shining Miracle♪">
 Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.
 
 | Attribute | Burst |
@@ -96,75 +97,88 @@ Heals your own party members and nearby teammates for a large amount of HP that 
 | CD Frame | 2 |
 | Energy Cost | 80 |
 | Cooldown | 20s |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### With My Whole Heart♪
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Glorious Season
 
 The Stamina Consumption of characters within **Let the Show Begin♪**'s **Melody Loop** is reduced by 12%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Encore
 
 When your active character gains an Elemental Orb/Particle, the duration of the **Melody Loop** of **Let the Show Begin♪** is extended by 1s.
 The maximum extension is 5s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Gleeful Songs
 
 Barbara regenerates 1 Energy every 10s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Vitality Burst
 
 Decreases the CD of **Let the Show Begin♪** by 15%.
 During the ability's duration, your active character gains a 15% **Hydro DMG Bonus**.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Star of Tomorrow
 
 Increases the Level of **Shining Miracle♪** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Attentiveness be My Power
 
 Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### The Purest Companionship
 
 Increases the Level of **Let the Show Begin♪** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Dedicating Everything to You
 
 When Barbara is in the party but not on the field, and one of your own party members falls:
@@ -174,13 +188,14 @@ This effect can only occur once every 15 mins.
 
 * This effect will not occur if the character's fallen animation is canceled by switching to another character. For more details, see: [C6 Revive Can Be Canceled by Switching](../../evidence/characters/hydro/barbara.md#c6-revive-can-be-canceled-by-switching)
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Whisper of Water" %}
+<Tabs>
+<TabItem value="na" label="Whisper of Water">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -206,9 +221,9 @@ This effect can only occur once every 15 mins.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Let the Show Begin♪" %}
+<TabItem value="e" label="Let the Show Begin♪">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -221,9 +236,9 @@ This effect can only occur once every 15 mins.
 **Duration**: 15s  
 **Cooldown**: 32s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Shining Miracle♪" %}
+<TabItem value="q" label="Shining Miracle♪">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -233,8 +248,8 @@ This effect can only occur once every 15 mins.
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

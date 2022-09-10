@@ -27,8 +27,8 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Favonius Bladework" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework">
 **Normal Attacks**  
 Jean performs up to 5 consecutive attacks.
 
@@ -55,9 +55,10 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Gale Blade" %}
+</TabItem>
+
+<TabItem value="e" label="Gale Blade">
 **Press**  
 Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching opponents in the direction she aims at, dealing massive Anemo DMG.
 
@@ -90,9 +91,9 @@ Character is immobile during skill duration.
 * Fall damage for the hold variant can vary somewhat arbitrarily, as enemies held in **Gale Blade** will not be held completely still. 
 * If **Gale Blade** \(E\) is held while looking down on falling enemies, they can take fall damage before being launched up again for a second instance of fall damage.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dandelion Breeze" %}
+<TabItem value="q" label="Dandelion Breeze">
 Calling upon the wind's protection, Jean creates a swirling **Dandelion Field**, launching surrounding opponents and dealing Anemo DMG.  
 At the same time, she instantly regenerates a large amount of HP for all party members. The amount of HP restored scales off Jean's ATK.
 
@@ -132,84 +133,99 @@ At the same time, she instantly regenerates a large amount of HP for all party m
   * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4pc Instructor set effect.
   * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
   * In Sunfire, Bennett can trigger the 4pc VV effect set himself if he's the triggerer of Sunfire self-swirl.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Guiding Breeze
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Wind Companion
 
 On hit, Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Let the Wind Lead
 
 Using **Dandelion Breeze** will regenerate 20% of its Energy.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Spiraling Tempest
 
 Increases the pulling speed of **Gale Blade** after holding for more than 1s, and increases the DMG dealt by 40%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### People's Aegis
 
 When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
 
 * This buff does not stack with itself.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### When the West Wind Arises
 
 Increases the Level of **Dandelion Breeze** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Lands of Dandelion
 
 Within the **Field** created by **Dandelion Breeze**, all opponents have their Anemo RES decreased by 40%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Outbursting Gust
 
 Increases the Level of **Gale Blade** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Lion's Fang, Fair Protector of Mondstadt
 
 Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze**. Upon leaving the **Dandelion Field**, this effect lasts for 3 attacks or 10s.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Favonius Bladework" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -236,9 +252,9 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Gale Blade" %}
+<TabItem value="e" label="Gale Blade">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -248,9 +264,9 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 **Maximum Duration**: 5s  
 **Cooldown**: 6s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dandelion Breeze" %}
+<TabItem value="q" label="Dandelion Breeze">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -265,8 +281,8 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 **Duration**: 10s  
 **Cooldown**: 20s
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

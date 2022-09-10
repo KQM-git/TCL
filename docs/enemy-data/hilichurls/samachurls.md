@@ -44,8 +44,9 @@ All samachurls have +40% (50% total) resistance to their own element.
 
 ## Samachurls
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
+
 ## Anemo Samachurl
 
 A wizened, mumbling hilichurl, one that spreads the message of Anemo.
@@ -56,9 +57,10 @@ A wizened, mumbling hilichurl, one that spreads the message of Anemo.
 * Summons 3 tornados that will rotate around, seeking the player.
 * Summons a ground field that will pull the player towards the center continuously.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Cryo" %}
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Samachurl
 
 A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.
@@ -69,9 +71,10 @@ A wizened, mumbling hilichurl, one that calls upon the bite of Cryo.
 * Creates one or more pillars under itself and its' allies. The pillar may be broken by pyro or blunt attacks.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dendro" %}
+<TabItem value="dendro" label="Dendro">
+
 ## Dendro Samachurl
 
 A wizened, mumbling hilichurl, one that awakens the might of Dendro.
@@ -82,9 +85,10 @@ A wizened, mumbling hilichurl, one that awakens the might of Dendro.
 * Summons multiple barricades of vines, composed of dendro, which may be destroyed from burning via pyro.
 * Creates a ground field that will continuously infuse the player inside it with dendro.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
+
 ## Electro Samachurl
 
 A wizened, mumbling Hilichurl, one that prays to Electro.
@@ -95,9 +99,10 @@ A wizened, mumbling Hilichurl, one that prays to Electro.
 * Summons a lightning strike. At the location of impact a totem will be summoned.
 * Briefly creates an electricity circle around itself multiple times. If there are any totems on field they will mirror this field. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Geo" %}
+<TabItem value="geo" label="Geo">
+
 ## Geo Samachurl
 
 A wizened, mumbling hilichurl, one that listens to the strength of Geo.
@@ -109,9 +114,10 @@ A wizened, mumbling hilichurl, one that listens to the strength of Geo.
 * Summons a stalagmite at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 * While there are pillars on field, it will cause them to pulse in a cicle around themselves.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Hydro" %}
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Samachurl
 
 A wizened, mumbling hilichurl, one that chants of the power of Hydro..
@@ -122,5 +128,5 @@ A wizened, mumbling hilichurl, one that chants of the power of Hydro..
 * Summons a water droplet at the player's feet multiple times in a row. This attack has a slight delay with an indicator to help dodge it.
 * Summons a field of rain that will heal and apply wet to enemies inside it.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

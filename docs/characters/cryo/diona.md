@@ -28,8 +28,8 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Kätzlein Style" %}
+<Tabs>
+<TabItem value="na" label="Kätzlein Style">
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
@@ -66,9 +66,10 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Icy Paws" %}
+</TabItem>
+
+<TabItem value="e" label="Icy Paws">
 Fire **Icy Paws** that deal Cryo DMG to opponents and forms a shield on hit.  
 The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration scales off the number of **Icy Paws** that hit their target.
 
@@ -108,9 +109,10 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 * Icy Paws will home on some entities that are not enemies, such as birds in the overworld.
 * Icy Paws appear behind Diona and then move forward during hold E, causing it to hit walls when being used in front of a wall.
 * A deep-dive into how Icy paws work can be found [here](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
-  {% endtab %}
 
-{% tab title="Signature Mix" %}
+</TabItem>
+
+<TabItem value="q" label="Signature Mix">
 Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
 
 **Drunken Mist:**
@@ -148,79 +150,91 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 * **Drunken Mist** targets an enemy and snapshots the position on cast.
 * **Drunken Mist** duration starts when the paws disappear from the field, which is about when the Burst CD reaches ~17.5s.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Complimentary Bar Food
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Cat's Tail Secret Menu
 
 Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.  
 
 * Ths can stack with other forms of stamina reduction as long as they are not the exact same.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Drunkards' Farce
 
 Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### A Lingering Flavor
 
 Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
 
 * There is no range limit as long as Diona is on the same map.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Shaken, Not Purred
 
 Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.
 Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s.
 
 * This DMG increase is **Additive**.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### A—Another Round?
 
 Increases the Level of **Signature Mix** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Wine Industry Slayer
 
 Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Double Shot, on the Rocks
 
 Increases the Level of **Icy Paws** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Cat's Tail Closing Time
 
 Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:
@@ -229,13 +243,15 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 
 **Notes**
 * The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Kätzlein Style" %}
+<Tabs>
+<TabItem value="na" label="Kätzlein Style">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -261,9 +277,9 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Icy Paws" %}
+<TabItem value="e" label="Icy Paws">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -275,9 +291,9 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 **Press Cooldown**: 6s  
 **Holding Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Signature Mix" %}
+<TabItem value="q" label="Signature Mix">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -290,8 +306,8 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

@@ -28,8 +28,8 @@ description: The 77th Director of the Wangsheng Funeral Parlor. She took over th
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Secret Spear of Wangsheng" %}
+<Tabs>
+<TabItem value="na" label="Secret Spear of Wangsheng">
 **Normal Attacks**  
 Hu Tao performs up to 6 consecutive spear strikes.
 
@@ -70,9 +70,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 110.02% | 25 | 2 |
 | Low Plunge DMG | 220% | 100 | 4 |
 | High Plunge DMG | 274.79% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Guide to Afterlife" %}
+</TabItem>
+
+<TabItem value="e" label="Guide to Afterlife">
 Only an unwavering flame can cleanse the impurities of this world.  
 Hu Tao consumes a set portion of her HP to knock the surrounding enemies back and enter the Paramita Papilio state.
 
@@ -121,9 +122,10 @@ Each enemy can be affected by only one **Blood Blossom** effect at a time, and i
   * Plunging Attacks do not generate Particles.
 * Paramita Papilio can be extended with hitlag.
 * When entering Paramita Papilio the knockback will cause the Illusory Bubble from Mona's Stellaris Phantasm to be removed and the Omen debuff applied even though no damage was done.
-{% endtab %}
 
-{% tab title="Spirit Soother" %}
+</TabItem>
+
+<TabItem value="q" label="Spirit Soother">
 Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 * Upon striking the enemy, regenerates a percentage of Hu Tao's Max HP. This effect can be triggered up to 5 times, based on the number of enemies hit. 
@@ -150,73 +152,86 @@ Hu Tao commands a blazing spirit to attack, dealing Pyro DMG in a large AoE.
 
 **Notes**
 * Spirit Soother is snapshot on cast, and will even extend Paramita Papilio to do so.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### The More the Merrier
 
 When Hu Tao cooks a dish perfectly, she has a 18% chance to receive an additional "Suspicious" dish of the same type.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Flutter By
 
 When a **Paramita Papilio** state activated by **Guide to Afterlife** ends, all allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 8s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Sanguine Rouge
 
 When Hu Tao's HP is equal to or less than 50%, her **Pyro DMG Bonus** is increased by 33%.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Crimson Bouquet
 
 While in a **Paramita Papilio** state activated by **Guide to Afterlife**, Hu Tao's Charge Attacks do not consume Stamina.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Ominous Rainfall
 
 Increases the **Blood Blossom** DMG by an amount equal to 10% of Hu Tao's Max HP at the time the effect is applied.  
 Additionally, **Spirit Soother** will also apply the **Blood Blossom** effect.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Lingering Carmine
 
 Increases the Level of **Guide to Afterlife** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Garden of Eternal Rest
 
 Upon defeating an enemy affected by a **Blood Blossom** that Hu Tao applied herself, all nearby allies in the party (excluding Hu Tao herself) will have their CRIT Rate increased by 12% for 15s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Floral Incense
 
 Increases the Level of **Spirit Soother** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Butterfly's Embrace
 
 Triggers when Hu Tao's HP drops below 25%, or when she suffers a lethal strike:  
@@ -224,13 +239,14 @@ Hu Tao will not fall as a result of the DMG sustained. Additionally, for the nex
 This effect triggers automatically when Hu Tao has 1 HP left.  
 Can only occur once every 60s.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Secret Spear of Wangsheng" %}
+<Tabs>
+<TabItem value="na" label="Secret Spear of Wangsheng">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -259,9 +275,9 @@ Can only occur once every 60s.
 | Low Plunge DMG | 130.81% | 139.73% | 148.65% | 160.54% | 169.46% | 179.86% | 193.24% | 206.62% | 220.00% | 233.38% | 246.76% |
 | High Plunge DMG | 163.39% | 174.53% | 185.67% | 200.52% | 211.66% | 224.66% | 241.37% | 258.08% | 274.79% | 291.50% | 308.21% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Guide to Afterlife" %}
+<TabItem value="e" label="Guide to Afterlife">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -273,9 +289,9 @@ Can only occur once every 60s.
 **Duration**: 9s  
 **Cooldown**: 16s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Spirit Soother" %}
+<TabItem value="q" label="Spirit Soother">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -286,18 +302,19 @@ Can only occur once every 60s.
 
 **Cooldown**: 15s  
 **Energy Cost**: 60
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Media
 
-{% tabs %}
-{% tab title="Animation Cancels" %}
+<Tabs>
+<TabItem value="ani" label="Animation Cancels">
 * [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)  
 * [N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

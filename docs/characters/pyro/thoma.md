@@ -25,8 +25,8 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Swiftshatter Spear" %}
+<Tabs>
+<TabItem value="na" label="Swiftshatter Spear">
 **Normal Attacks**  
 Performs up to four consecutive spear strikes.
 
@@ -55,9 +55,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 | 
-{% endtab %}
 
-{% tab title="Blazing Blessing" %}
+</TabItem>
+
+<TabItem value="e" label="Blazing Blessing">
 Thoma vaults forward with his polearm and delivers a flame-filled flying kick that deals AoE Pyro DMG, while also summoning a defensive **Blazing Barrier**.
 At the moment of casting, Thoma's Elemental Skill applies Pyro to himself.  
 The DMG Absorption of the **Blazing Barrier** scales off Thoma's Max HP.  
@@ -94,9 +95,9 @@ The maximum DMG Absorption of the **Blazing Barrier** will not exceed a certain 
 * Thoma's E refreshing the shield for Burst does not make it lose Shield Strength. 
 * Losing the shield will reset its stacks.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Crimson Ooyoroi" %}
+<TabItem value="q" label="Crimson Ooyoroi">
 Thoma spins his polearm, slicing at his foes with roaring flames that deal AoE Pyro DMG and weave themselves into a **Scorching Ooyoroi**.
 
 **Scorching Ooyoroi**  
@@ -137,19 +138,23 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 **Notes**
 * The initial hit of **Crimson Ooyoroi** and **Fiery Collapse** damage has separate ICDs.
 * The **Blazing Barrier** from Crimson Ooyoroi will stack with an existing shield created by **Blazing Blessing**, retaining the HP from the previous **Blazing Barrier**.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Snap and Swing
 
 When you **fish** successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Imbricated Armor
 
 When your current active character obtains or refreshes a **Blazing Barrier**, this character's Shield Strength will increase by 5% for 6s.
@@ -157,70 +162,80 @@ This effect can be triggered once every 0.3s seconds. Max 5 stacks.
 
 * Thoma's Shield Strength gain from **Imbricated Armor** doesn't persist on swap.
 * **Blazing Barrier**s obtained from both Thoma's Elemental Skill and Elemental Burst counts towards **Imbricated Armor's** condition to stack Shield Strength. 
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Flaming Assault
 
 DMG dealt by **Crimson Ooyoroi**'s **Fiery Collapse** is increased by 2.2% of Thoma's Max HP.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### A Comrade's Duty
 
 When a character protected by Thoma's own **Blazing Barrier** (Thoma excluded) is attacked, Thoma's own **Blazing Blessing** CD is decreased by 3s, while his own **Crimson Ooyoroi**'s CD is decreased by 3s.
 This effect can be triggered once every 20s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### A Subordinate's Skills
 
 **Crimson Ooyoroi**'s duration is increased by 3s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Fortified Resolve
 
 Increases the Level of **Blazing Blessing** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Long-Term Planning
 
 After using **Crimson Ooyoroi**, 15 Energy will be restored to Thoma.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Raging Wildfire
 
 Increases the Level of **Crimson Ooyoroi** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Burning Heart
 
 When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.
 
 * Every time Thoma's shield gets refreshed during Burst, the timer on  **Burning Heart**'s buff is refreshed.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Swiftshatter Spear" %}
+<Tabs>
+<TabItem value="na" label="Swiftshatter Spear">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -246,9 +261,9 @@ When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party 
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Blazing Blessing" %}
+<TabItem value="e" label="Blazing Blessing">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -259,9 +274,9 @@ When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party 
 **Shield Duration**: 8s  
 **Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Crimson Ooyoroi" %}
+<TabItem value="q" label="Crimson Ooyoroi">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -274,8 +289,8 @@ When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party 
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

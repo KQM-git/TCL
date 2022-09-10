@@ -27,8 +27,8 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Divine Marksmanship" %}
+<Tabs>
+<TabItem value="na" label="Divine Marksmanship">
 **Normal Attack**  
 Perform up to 6 consecutive shots with a bow.
 
@@ -61,9 +61,10 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Skyward Sonnet" %}
+</TabItem>
+
+<TabItem value="e" label="Skyward Sonnet">
 O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!
 
 **Press**  
@@ -92,9 +93,9 @@ Opponents launched by **Skyward Sonnet** will fall to the ground slowly.
 * Venti can shorten the starting animation of the press version of **Skyward Sonnet** by holding Elemental Skill for 9 frames, which starts the animation for the hold version of **Skyward Sonnet**, and then releasing, which cancels the Hold version into a Press version of **Skyward Sonnett**. This allows Venti to perform an action immediately after. In total, the **Skyward Sonnet** cast can be cancelled to be only 10 frames.
 * Using the Press version of **Skyward Sonnett** immediately after shooting a non-ARCC Charged Attack will reduce essentially all of the Skill's animation frames.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Wind&apos;s Grand Ode" %}
+<TabItem value="q" label="Wind&apos;s Grand Ode">
 Fires off an arrow made of countless coalesced winds, creating a huge **Stormeye** that sucks in opponents and deals continuous Anemo DMG.
 
 **Elemental Absorption**  
@@ -129,37 +130,45 @@ This can only occur once per use.
 * Venti's vortex can be fired on top of Zhongli's pillar, allowing Venti to pull in targets whilst keeping them just low enough for melee units to hit.  
 
 \* Number of ticks is FPS-dependent and inconsistent. 13 or 14 ticks at 30 FPS. 14 or 15 ticks at 60 FPS.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Windrider
 
 Decreases gliding Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Embrace of Winds
 
 Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Stormeye
 
 Regenerates 15 Energy for Venti after the effects of **Wind's Grand Ode** end.
 If an **Elemental Absorption** occurred, this also restores 15 Energy to all characters of that corresponding element in the party.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Splitting Gales
 
 Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG.
@@ -172,41 +181,47 @@ Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original a
 | Fully Charged Extra Arrow \(Headshot\) | 6 | 5 |
 
 * Venti’s C1 damage instance is considered CA damage.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Breeze of Reminiscence
 
 **Skyward Sonnet** decreases opponents' **Anemo RES** and Physical RES by 12% for 10s.
 
 Opponents launched by **Skyward Sonnet** suffer an additional 12% **Anemo RES** and Physical RES decrease while airborne.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Ode to Thousand Winds
 
 Increases the Level of **Wind's Grand Ode** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Hurricane of Freedom
 
 When Venti picks up an Elemental Orb or Particle, he receives a 25% **Anemo DMG Bonus** for 10s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Concerto dal Cielo
 
 Increases the Level of **Skyward Sonnet** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Storm of Defiance
 
 Targets who take DMG from **Wind's Grand Ode** have their **Anemo RES** decreased by 20%.
@@ -215,13 +230,14 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 
 * The resistance reduction from Venti C6 lasts 10 seconds from the last tick of damage taken. Anemo res reduction duration can only be refreshed by anemo dmg ticks, while the infused element's res reduction duration is refreshed by that element's DOT ticks.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Divine Marksmanship" %}
+<Tabs>
+<TabItem value="na" label="Divine Marksmanship">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -248,9 +264,9 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Skyward Sonnet" %}
+<TabItem value="e" label="Skyward Sonnet">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -260,9 +276,9 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 **Press Cooldown**: 6s  
 **Hold Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Wind's Grand Ode" %}
+<TabItem value="q" label="Wind&apos;s Grand Ode">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -273,8 +289,8 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

@@ -28,8 +28,8 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Tempered Sword" %}
+<Tabs>
+<TabItem value="na Sword">
 **Normal Attacks**  
 Diluc performs up to 4 consecutive attacks.
 
@@ -57,9 +57,10 @@ Plunges from mid-air to strike the ground, damaging opponents along the path and
 | Plunge DMG | 164.44% | 35 | 2 |
 | Low Plunge DMG | 328.81% | 150 | 4 |
 | High Plunge DMG | 410.7% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Searing Onslaught" %}
+</TabItem>
+
+<TabItem value="e" label="Searing Onslaught">
 Diluc performs a forward slash, dealing Pyro DMG.  
 This skill can be consecutively used 3 times. Enters CD if not cast again within 4s.
 
@@ -83,9 +84,10 @@ This skill can be consecutively used 3 times. Enters CD if not cast again within
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
 * Getting frozen in the middle of **Searing Onslaught**'s second attack's animation allows for the skill to be briefly recasted when unfrozen.
-{% endtab %}
 
-{% tab title="Dawn" %}
+</TabItem>
+
+<TabItem value="q" label="Dawn">
 Releases intense flames to knock back nearby opponents, dealing Pyro DMG. The flames then converge into the weapon, summoning a **Phoenix** that flies forward and deals massive Pyro DMG to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.
 
 The searing flames that run down his blade cause it to be infused with Pyro.
@@ -115,89 +117,102 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 
 **Notes**
 * The ICD for **Dawn** is shared between Slashing DMG, DoT DMG, and Explosions DMG.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Tradition of the Dawn Knight
 
 Refunds 15% of the ore used when crafting Claymore-type weapons.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Relentless
 
 Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Blessing of Phoenix
 
 The **Pyro Infusion** provided by **Dawn** lasts for 4s longer. Additionally, Diluc gains 20% **Pyro DMG Bonus** during the duration of this effect.
 
 **Note**
 * The Pyro DMG Bonus is also applied to **Dawn**'s Slashing, DoT, and Explosion DMG.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Conviction
 
 Diluc deals 15% more DMG to opponents whose HP is above 50%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Searing Ember
 
 When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.  
 This effect can stack up to 3 times and can only occur once every 1.5s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Fire and Steel
 
 Increases the Level of **Searing Onslaught** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Flowing Flame
 
 Casting **Searing Onslaught** in rhythm greatly increases damage dealt.
 2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Phoenix, Harbinger of Dawn
 
 Increases the Level of **Dawn** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Flaming Sword, Nemesis of the Dark
 
 After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.  
 Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Tempered Sword" %}
+<Tabs>
+<TabItem value="na Sword">
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -225,9 +240,9 @@ Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 | Low Plunge DMG | 178.97% | 193.54% | 208.11% | 228.92% | 243.49% | 260.13% | 283.03% | 305.92% | 328.81% | 353.78% | 378.76% |
 | High Plunge DMG | 223.55% | 241.74% | 259.94% | 285.93% | 304.13% | 324.92% | 353.52% | 382.11% | 410.70% | 441.89% | 473.09% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Searing Onslaught" %}
+<TabItem value="e" label="Searing Onslaught">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -237,9 +252,9 @@ Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 
 **Cooldown**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dawn" %}
+<TabItem value="q" label="Dawn">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -251,8 +266,8 @@ Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 **Infusion Duration**: 8s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

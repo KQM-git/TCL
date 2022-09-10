@@ -46,8 +46,9 @@ Gains +100% resistance to all while shield is up.
 | 95 | 194242 |
 | 100 | 257356 |
 
-{% tabs %}
-{% tab title="Cryo" %}
+<Tabs>
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Regisvine
 
 ![](/assets/enemy/bosses/Enemy_Cryo_Regisvine_Icon.webp)
@@ -94,9 +95,10 @@ Upon breaking its' shield, the Cryo Regisvine will curl itself up and lay on the
 * Slams itself into the ground at the player location.
 * If the player negates breaking the corola for too long, it will start covering the ground in Cryo and summoning an ice rain aimed at the player, this attack is lethal.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Pyro" %}
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro Regisvine
 
 ![](/assets/enemy/bosses/Enemy_Pyro_Regisvine_Icon.webp)
@@ -138,11 +140,9 @@ Share the same attacks:
 * Slams its' head on the ground and sweeps it 180 degrees.
   * After a short charge-up, hurls a fireball at the player.
 
+</TabItem>
 
-{% endtab %}
-
-{% tabs %}
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
 
 ## Electro Regisvine 
 
@@ -163,5 +163,5 @@ Every time the shield shifts positions, a Waning Stamen or Waxing Stamen will be
 * Raises its buds and rapidly shoots bolts at the player, each dealing 40% ATK as Electro DMG on hit. This attack is only used while the Regisvine's shield is located at its roots.
 * Rapidly summons thunderbolts that mark an area before striking down, each dealing 40% ATK as AoE Electro DMG. This attack is only used while the Regisvine's shield is located at its roots.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

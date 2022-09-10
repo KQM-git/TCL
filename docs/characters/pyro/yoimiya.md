@@ -26,8 +26,8 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Firework Flare-Up" %}
+<Tabs>
+<TabItem value="na" label="Firework Flare-Up">
 **Normal Attacks**  
 Performs up to 5 consecutive shots with a bow.
 
@@ -74,9 +74,9 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Low Plunge DMG | 208.11% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Niwabi Fire-Dance" %}
+<TabItem value="e" label="Niwabi Fire-Dance">
 Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. 
 
 **Niwabi Enshou**  
@@ -107,9 +107,10 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 
 **Interactions**
 * Yoimiya's **Niwabi Fire-Dance's Blazing Arrow** DMG increase does not increase Yun Jin's **Cliffbreaker's Banner** bonus.
-{% endtab %}
 
-{% tab title="Ryuukin Saxifrage" %}
+</TabItem>
+
+<TabItem value="q" label="Ryuukin Saxifrage">
 Yoimiya leaps into the air along with her original creation, the "**Ryuukin Saxifrage**," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with **Aurous Blaze**.
 
 **Aurous Blaze**  
@@ -134,19 +135,22 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 | Poise Damage | 220 | 60 |
 | Impulse Type | Air, 200, 800 | 3 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Blazing Match
 
 When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Tricks of the Trouble-Maker
 
 During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase her **Pyro DMG Bonus** by 2% on hit. This effect lasts for 3s and can have a maximum of 10 stacks.
@@ -156,58 +160,66 @@ During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase h
 * The Pyro DMG Bonus from **Tricks of the Trouble-Maker** can last up to 3s after **Niwabi Fire-Dance** ends.
 * Gaining stacks will cause the orbitting sparks from **Niwabi Fire-Dance** to increase in brightness.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Summer Night's Dawn
 
 Using **Ryuukin Saxifrage** causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of "Tricks of the Trouble-Maker" stacks Yoimiya possesses when using **Ryuukin Saxifrage**. Each stack increases this ATK Bonus by 1%.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Agate Ryuukin
 
 The Aurous Blaze created by **Ryuukin Saxifrage** lasts for an extra 4s.
 Additionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### A Procession of Bonfires
 
 When Yoimiya's **Pyro DMG** scores a CRIT Hit, Yoimiya will gain a 25% **Pyro DMG Bonus** for 6s.
 This effect can be triggered even when Yoimiya is not the active character.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Trickster's Flare
 
 Increases the Level of **Niwabi Fire-Dance** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Pyrotechnic Professional
 
 When Yoimiya's own Aurous Blaze triggers an explosion, **Niwabi Fire-Dance**'s CD is decreased by 1.2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### A Summer Festival's Eve
 
 Increases the Level of **Ryuukin Saxifrage** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Naganohara Meteor Swarm
 
 During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
@@ -219,13 +231,14 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 * Kindling Arrow shares ICD with Yoimiya's infused Normal Attacks.
 * These extra Blazing Arrow shares ICD with Yoimiya's infused normal attacks.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Firework Flare-Up" %}
+<Tabs>
+<TabItem value="na" label="Firework Flare-Up">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -252,9 +265,9 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Niwabi Fire-Dance" %}
+<TabItem value="e" label="Niwabi Fire-Dance">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -263,9 +276,9 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 **Duration**: 10s  
 **Cooldown**: 18s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ryuukin Saxifrage" %}
+<TabItem value="q" label="Ryuukin Saxifrage">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -276,8 +289,8 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

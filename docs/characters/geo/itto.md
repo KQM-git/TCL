@@ -25,8 +25,8 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Fight Club Legend" %}
+<Tabs>
+<TabItem value="na" label="Fight Club Legend">
 **Normal Attack**  
 Perform up to 4 consecutive strikes.  
 • When the 2nd and 4th strikes hit opponents, Itto will gain 1 and 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
@@ -78,9 +78,9 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 
 \* Poise Damage and Impulse Type are the same for regular Plunge Attacks and Converted Plunge Attacks during **Royal Descent: Behold, Itto the Evil!**.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Masatsu Zetsugi: Akaushi Burst!" %}
+<TabItem value="e" label="Masatsu Zetsugi: Akaushi Burst!">
 **Press**  
 Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of **Superlative Superstrength**.  
 
@@ -119,9 +119,9 @@ Ushi is considered a Geo construct. Arataki Itto can only deploy 1 Ushi on the f
 * Ushi can be pushed by either Itto or enemies.
 * Ushi will "land" mid\-air after 2 seconds if it doesn't land on a surface.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Royal Descent: Behold, Itto the Evil!" %}
+<TabItem value="q" label="Royal Descent: Behold, Itto the Evil!">
 Time to show 'em the might of the Arataki Gang! For a time, Itto lets out his inner Raging Oni King, wielding his Oni King's Kanabou in battle.
 
 This state has the following special properties:  
@@ -153,21 +153,24 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 * Burst duration can significantly extend past its normal duration by doing an attack at the end of burst. This extension ends immediately on any action after the final attack.
 * Using **Royal Descent: Behold, Itto the Evil!** during N1 hitlag also gives **Superlative Strength** stacks.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Woodchuck Chucked
 
 When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood.
 
 * The extra wood obtained does not count towards daily 2000 tree cap.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Arataki Ichiban
 
 When Arataki Itto uses consecutive **Arataki Kesagiri**, he obtains the following effects:
@@ -175,72 +178,83 @@ When Arataki Itto uses consecutive **Arataki Kesagiri**, he obtains the followin
 * Increases his resistance to interruption.
 
 These effects will be cleared once he stops performing consecutive slashes.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Bloodline of the Crimson Oni
 
 **Arataki Kesagiri** DMG is increased by 35% of Arataki Itto's DEF.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Stay a While and Listen Up
 
 After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stacks of **Superlative Superstrength**. After 1s, Itto will gain 1 stack of **Superlative Superstrength** every 0.5s for 1.5s.
 * The second part of **Stay a While and Listen Up** begins around 50 frames later than according to its description.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Gather 'Round, It's a Brawl!
 
 After using **Royal Descent: Behold, Itto the Evil!**, each party member whose Element is **Geo** will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.
 CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.
 
 * Itto counts himself as a Geo party member.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### Horns Lowered, Coming Through
 
 Increases the Level of **Masatsu Zetsugi: Akaushi Burst!** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Jailhouse Bread and Butter
 
 When the Raging Oni King state caused by **Royal Descent: Behold, Itto the Evil!** ends, all nearby party members gain 20% DEF and 20% ATK for 10s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### 10 Years of Hanamizaka Fame
 
 Increases the Level of **Royal Descent: Behold, Itto the Evil!** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Arataki Itto, Present!
 
 Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **Arataki Kesagiri**, he has a 50% chance to not consume stacks of **Superlative Superstrength**.
 
 * At C6, Itto can do an **Arataki Kesagiri Combo Slash** at 1 **Superlative Superstrength** stack as the C6 check is performed before the stack is consumed. C6 Itto cannot do an E>SCA Finisher combo.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Fight Club Legend" %}
+<Tabs>
+<TabItem value="na" label="Fight Club Legend">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -270,9 +284,9 @@ Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **
 | Low Plunge DMG | 163.63% | 176.95% | 190.27% | 209.30% | 222.62% | 237.84% | 258.77% | 279.70% | 300.63% | 323.46% | 346.29% |
 | High Plunge DMG | 204.39% | 221.02% | 237.66% | 261.42% | 278.06% | 297.07% | 323.21% | 349.36% | 375.50% | 404.02% | 432.54% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Masatsu Zetsugi: Akaushi Burst!" %}
+<TabItem value="e" label="Masatsu Zetsugi: Akaushi Burst!">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -282,9 +296,9 @@ Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **
 **Duration**: 6s  
 **Cooldown**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Royal Descent: Behold, Itto the Evil!" %}
+<TabItem value="q" label="Royal Descent: Behold, Itto the Evil!">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -295,8 +309,8 @@ Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **
 **Cooldown**: 18s  
 **Energy Cost**: 70
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

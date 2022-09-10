@@ -8,15 +8,17 @@ For bow characters, Aimed Shot mode is used to shoot Charged Attacks (CAs). Ther
 
 ## Aim Toggle / R Mode
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://i.imgur.com/Ud2Co1G.mp4" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://i.imgur.com/Ud2Co1G.mp4" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/2LCnunv" %}
-{% endtab %}
-{% endtabs %}
+</TabItem>
+
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/2LCnunv" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -27,15 +29,17 @@ Aim Toggle is an easy method to shoot CAs, but there is a lengthy recovery anima
 
 ## Hold Cancel / M1 Cancel
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://imgur.com/TbJ4vZB" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://imgur.com/TbJ4vZB" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/JqRepPj" %}
-{% endtab %}
-{% endtabs %}
+</TabItem>
+
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/JqRepPj" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -45,15 +49,17 @@ Hold Cancels take time to enter Aimed Shot mode, but have a significantly shorte
 
 ## Dash Cancel
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://imgur.com/7xb7ELZ" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://imgur.com/7xb7ELZ" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/IfdmC5G" %}
-{% endtab %}
-{% endtabs %}
+</TabItem>
+
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/IfdmC5G" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -64,15 +70,17 @@ An important note about Dash Canceling CAs is that if the dash happens on the sa
 
 ## M1-R
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://imgur.com/99fZyYI" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://imgur.com/99fZyYI" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/DM8rt2m" %}
-{% endtab %}
-{% endtabs %}
+</TabItem>
+
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/DM8rt2m" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -83,19 +91,22 @@ M1-R combines Hold and Dash Cancels to slightly increase the rate of fire over b
 
 ## ARCC: Aimed R-Cancel Charged
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://imgur.com/Qofrxqg" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://imgur.com/Qofrxqg" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/jKPctlP" %}
-{% endtab %}
+</TabItem>
 
-{% tab title="Properties" %}
-{% embed url="https://i.imgur.com/BvuqB5g.mp4" %}
-{% endtab %}
-{% endtabs %}
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/jKPctlP" %
+
+</TabItem>
+
+<TabItem value="prop" label="Properties">
+TODO % embed url="https://i.imgur.com/BvuqB5g.mp4" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -113,15 +124,17 @@ It has some quirks that are different from normal CAs:
 
 ## M1RCC: Hold M1 R-Cancel Charged
 
-{% tabs %}
-{% tab title="Elemental" %}
-{% embed url="https://imgur.com/64El2LA" %}
-{% endtab %}
+<Tabs>
+<TabItem value="elemental" label="Elemental">
+TODO % embed url="https://imgur.com/64El2LA" %
 
-{% tab title="Physical" %}
-{% embed url="https://imgur.com/OdbMxY6" %}
-{% endtab %}
-{% endtabs %}
+</TabItem>
+
+<TabItem value="phys" label="Physical">
+TODO % embed url="https://imgur.com/OdbMxY6" %
+
+</TabItem>
+</Tabs>
 
 **Inputs:**
 
@@ -132,9 +145,9 @@ M1RCC is a variation of ARCC that enters Aim mode with hold Attack instead of Ai
 
 ## RR Cancel
 
-{% embed url="https://imgur.com/j01Bux0" %}
+TODO % embed url="https://imgur.com/j01Bux0" %
 Yoimiya N1RR
-{% endembed %}
+TODO % endembed %
 
 **Inputs:**
 
@@ -151,7 +164,7 @@ The speed at which RR can be done varies by character.
 
 ### Only works on Venti, Tartaglia, Diona, Yoimiya, Gorou
 
-{% embed url="https://imgur.com/itkCyVm" %}
+TODO % embed url="https://imgur.com/itkCyVm" %
 
 **Inputs:**
 
@@ -161,6 +174,6 @@ Some characters can shoot a second CA after doing a Hold Cancel. The second CA h
 
 ## Evidence Vault
 
-{% content-ref url="../../evidence/combat-mechanics/tech/aim-cancel.md" %}
+TODO % content-ref url="../../evidence/combat-mechanics/tech/aim-cancel.md" %
 [aim-cancel.md](../../evidence/combat-mechanics/tech/aim-cancel.md)
-{% endcontent-ref %}
+TODO % endcontent-ref %

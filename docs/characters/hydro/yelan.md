@@ -22,8 +22,8 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Normal Attack: Stealthy Bowshot" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Stealthy Bowshot">
 
 **Normal Attack**  
 Performs up to 4 consecutive shots with a bow.
@@ -79,9 +79,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 
 **Notes:**  
 * Yelan can plunge from standing.
-{% endtab %}
 
-{% tab title="Lingering Lifeline" %}
+</TabItem>
+
+<TabItem value="e" label="Lingering Lifeline">
 
 Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path.  
 When this rapid movement ends, the Lifeline will explode, dealing Hydro DMG to the marked opponents based on Yelan's Max HP.
@@ -117,9 +118,10 @@ Additionally, each opponent marked by the Lifeline when it explodes grants Yelan
 * Things can be picked up via the interaction key during the rapid movement state.
 * The rapid movement state does not do anything to Abyss Lector furnace, Parametric Transformer, or animals.
 * Yelan can escape Mirror Maiden prisons during the rapid movement state.
-{% endtab %}
 
-{% tab title="Depth-Clarion Dice" %}
+</TabItem>
+
+<TabItem value="q" label="Depth-Clarion Dice">
 
 Deals AoE Hydro DMG and creates an "Exquisite Throw," which aids her in battle.
 
@@ -157,28 +159,33 @@ Follows the character around and will initiate a coordinated attack under the fo
 **Notes:**  
 * The damage of each coordinated attack snapshots separately after being generated.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Necessary Calculation
 
 Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.  
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Turn Control
 
 When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.  
 
 **Notes:**  
 * This is additive to other sources of HP%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Adapt With Ease
 
 So long as an Exquisite Throw is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.  
@@ -188,13 +195,14 @@ The pre-existing effect will be dispelled if Depth-Clarion Dice is recast during
 * It only applies to the character on-field but is not tied to a single character.
 * The damage increase does not snapshot or reset when switching characters.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Enter the Plotters
 
 Lingering Lifeline gains 1 additional charge.  
@@ -202,24 +210,28 @@ Lingering Lifeline gains 1 additional charge.
 **Notes:**  
 * CD of the second **Lingering Lifeline** is added after the CD of the first **Lingering Lifeline** ends.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Taking All Comers
 
 When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.  
 This effect can trigger once every 1.8s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Beware the Trickster's Dice
 
 Increases the Level of Depth-Clarion Dice by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
 
-{% tab title="C4" %}
+</TabItem>
+
+<TabItem value="c4" label="C4">
+
 ### Bait-and-Switch
 
 Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.  
@@ -228,16 +240,20 @@ Increases all party members' Max HP by 10% for 25s for every opponent marked by 
 * Multiple stacks can be gained from a single enemy.
 * Each stack refreshes the timer.
 * All party members' Current HP is increased proportionally to their Max HP, and will be decreased again once the duration ends.
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Dealer's Sleight
 
 Increases the Level of Lingering Lifeline by 3.  
 Maximum upgrade level is 15.
-{% endtab %}
 
-{% tab title="C6" %}
+</TabItem>
+
+<TabItem value="c6" label="C6">
+
 ### Winner Takes All
 
 After using Depth-Clarion Dice, Yelan will enter the Mastermind state.  
@@ -248,13 +264,15 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 * C6 is affected by CA DMG Bonuses.
 * C6 does not proc the NA effect from [Mitternachts Waltz](../../equipment/weapons/bows.md#mitternachts-waltz).
 * C6 can proc [Beidou's Burst](../electro/beidou.md#attacks).
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Normal Attack: Stealthy Bowshot" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Stealthy Bowshot">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -285,9 +303,9 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lingering Lifeline" %}
+<TabItem value="e" label="Lingering Lifeline">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -295,9 +313,10 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 
 **Max Duration (Hold)**: 3s  
 **Cooldown**: 10s
-{% endtab %}
 
-{% tab title="Depth-Clarion Dice" %}
+</TabItem>
+
+<TabItem value="q" label="Depth-Clarion Dice">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -308,8 +327,9 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 **Energy Cost**: 70  
 **Duration**: 15s  
 **Cooldown**: 18s  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

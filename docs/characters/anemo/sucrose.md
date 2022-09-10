@@ -28,8 +28,8 @@ description: An alchemist filled with curiosity about all things. She researches
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Wind Spirit Creation" %}
+<Tabs>
+<TabItem value="na" label="Wind Spirit Creation">
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 
@@ -60,9 +60,10 @@ Consumes 50 Stamina to deal AoE **Anemo** DMG.
 | Plunge DMG | 104.41% | 1GU | 5 | 2 |
 | Low Plunge DMG | 208.77% | 1GU | 50 | 3 |
 | High Plunge DMG | 260.76% | 1GU | 100 | 4 |
-{% endtab %}
 
-{% tab title="Astable Anemohypostasis Creation-6308" %}
+</TabItem>
+
+<TabItem value="e" label="Astable Anemohypostasis Creation-6308">
 Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
 
 | Attribute | Skill |
@@ -83,9 +84,9 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 * If you dash cancel Sucrose's Skill and switch characters too fast, no particles will be generated.
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Forbidden Creation-Isomer 75/Type II" %}
+<TabItem value="q" label="Forbidden Creation-Isomer 75/Type II">
 Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
 
 **Elemental Absorption**  
@@ -113,19 +114,22 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 * Absorption Damage is simultaneous 
 * Freeze and Petrify will allow Sucrose to group enemies together without launching them into the air.  
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Astable Invention
 
 When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Catalyst Conversion
 
 When Sucrose triggers a **Swirl** reaction, all characters in the party with the matching element \(excluding Sucrose\) have their **Elemental Mastery** increased by 50 for 8s.
@@ -135,9 +139,11 @@ When Sucrose triggers a **Swirl** reaction, all characters in the party with the
 * This effect cannot be triggered by swirling off Guoba or environmental objects such as cooking pots.
 * This effect can be triggered by chain reaction Swirls.
 * Swirls caused by the absorbed element in **Forbidden Creation-Isomer 75/Type II** can trigger this effect.  
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Mollis Favonius
 
 When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isomer 75 / Type II** hits an opponent, increases all party members' \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
@@ -147,36 +153,41 @@ When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isome
 * A4 effect can be triggered even when Sucrose is not on the field.
 * A4 effect is dynamic in multiswirl situations.
 * A4 shares 20% of Kazuha's C2 EM. 
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Clustered Vacuum Field
 
 **Astable Anemohypostasis Creation - 6308** gains 1 additional charge.
 * If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Beth: Unbound Form
 
 The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Flawless Alchemistress
 
 Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Alchemania
 
 Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.
@@ -188,30 +199,34 @@ One hit may be counted every 0.1s.
 * The cooldown reduction hard caps at each charge's cooldown. 
   * If you get a higher reduction than the current E charge CD, it will reset, and not carry over to potentially 2nd charge's cooldown
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Caution: Standard Flask
 
 Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Chaotic Entropy
 
 If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
 
 * This buff lasts for 10 seconds.
 * C6 effect can be triggered even when Sucrose is not on the field.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Wind Spirit Creation" %}
+<Tabs>
+<TabItem value="na" label="Wind Spirit Creation">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -237,9 +252,9 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Astable Anemohypostasis Creation - 6308" %}
+<TabItem value="e" label="Astable Anemohypostasis Creation - 6308">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -247,9 +262,9 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 
 **Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Forbidden Creation - Isomer 75 / Type II" %}
+<TabItem value="q" label="Forbidden Creation - Isomer 75 / Type II">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -260,8 +275,8 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 **Cooldown**: 20.0s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

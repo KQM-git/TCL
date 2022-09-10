@@ -27,8 +27,8 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Whirlwind Thrust" %}
+<Tabs>
+<TabItem value="na" label="Whirlwind Thrust">
 **Normal Attacks**  
 Xiao performs up to six consecutive spear strikes.
 
@@ -64,9 +64,10 @@ Xiao does not take DMG from performing Plunge Attacks.
 
 * All frame counts are done against Ruin Guards.
 * All of the stated Talent DMG% doesn't include the Normal Attack Modifier from Q.
-{% endtab %}
 
-{% tab title="Lemniscatic Wind Cycling " %}
+</TabItem>
+
+<TabItem value="e" label="Lemniscatic Wind Cycling ">
 Xiao lunges forward, dealing Anemo DMG to opponents in his path.  
 Can be used mid-air.  
 Starts with 2 charges.
@@ -88,9 +89,10 @@ Starts with 2 charges.
 **Notes**
 * A double E Cast is only 60 frames long.
 * **Lemniscatic Wind Cycling** can allow Xiao to Plunge, even below jump level.  
-{% endtab %}
 
-{% tab title="Bane of All Evil" %}
+</TabItem>
+
+<TabItem value="q" label="Bane of All Evil">
 Xiao dons the **Yaksha Mask** that set gods and demons trembling a millennia ago.
 
 **Yaksha's Mask**  
@@ -117,86 +119,99 @@ The effects of this skill end when Xiao leaves the field.
 * While the effects of **Elemental Burst: Bane of All Evil** are active, the energy particle generation of **Elemental Skill: Lemniscatic Wind Cycling** is disabled.  
 * Xiao can keep his mask on if his Burst is canceled.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Transcension: Gravity Defier
 
 Decreases climbing Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Conqueror of Evil: Tamer of Demons
 
 While under the effects of **Bane of All Evil**, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.
 The maximum DMG Bonus is 25%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Dissolution Eon: Heaven Fall
 
 Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lemniscatic Wind Cycling** by 15%.
 This effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Dissolution Eon: Destroyer of Worlds
 
 Increases **Lemniscatic Wind Cycling**'s charges by 1.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Annihilation Eon: Blossom of Kaleidos
 
 When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Conqueror of Evil: Wrath Deity
 
 Increases the Level of **Lemniscatic Wind Cycling** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Transcension: Extinction of Suffering
 
 When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Evolution Eon: Origin of Ignorance
 
 Increases the Level of **Bane of All Evil** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Conqueror of Evil: Guardian Yaksha
 
 While under the effects of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use **Lemniscatic Wind Cycling** while ignoring its CD.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Whirlwind Thrust" %}
+<Tabs>
+<TabItem value="na" label="Whirlwind Thrust">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -224,9 +239,9 @@ While under the effects of **Bane of All Evil**, hitting at least 2 opponents wi
 | Low Plunge DMG | 163.63% | 176.95% | 190.27% | 209.30% | 222.62% | 237.84% | 258.77% | 279.70% | 300.63% | 323.46% | 346.29% |
 | High Plunge DMG | 204.39% | 221.02% | 237.66% | 261.42% | 278.06% | 297.07% | 323.21% | 349.36% | 375.50% | 404.02% | 432.54% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lemniscatic Wind Cycling" %}
+<TabItem value="e" label="Lemniscatic Wind Cycling">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -234,9 +249,9 @@ While under the effects of **Bane of All Evil**, hitting at least 2 opponents wi
 
 **Cooldown**: 10.0s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Bane of All Evil" %}
+<TabItem value="q" label="Bane of All Evil">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -247,8 +262,8 @@ While under the effects of **Bane of All Evil**, hitting at least 2 opponents wi
 **Cooldown**: 18s  
 **Energy Cost**: 70
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

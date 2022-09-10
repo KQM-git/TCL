@@ -44,8 +44,9 @@ All resistances lose -25% while stunned.
 
 ## Whopperflowers
 
-{% tabs %}
-{% tab title="Cryo" %}
+<Tabs>
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo whopperflower
 
 These plants lurk under the surface and ambush unsuspecting prey. With the passage of years, sufficient nutrition, and the right environment, it could even take root somewhere and grow into a giant Cryo Regisvine...
@@ -60,8 +61,9 @@ The armor can be broken to prevent its' attack and stun it for ~15 seconds. If t
 It will bend over, point its' top at the player, start spinning like a Gatling gun and shoot out a rapid volley of Cryo projectiles for a long period of time.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE but will not do any DMG.
 
-{% endtab %}
-{% tab title="Pyro" %}
+</TabItem>
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro whopperflower
 
 The world of Teyvat plays host to plants infused with the elements. Having gained a measure of intellect, their "nutritional needs" have also greatly increased...
@@ -76,8 +78,9 @@ The armor can be broken to prevent its' attack and stun it for ~15 seconds. If t
 It will start launching a volley of fireballs in rapid succession at the player, each with a small AoE.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE. This will not do any damage.
 
-{% endtab %}
-{% tab title="Electro" %}
+</TabItem>
+<TabItem value="electro" label="Electro">
+
 ## Electro whopperflower
 
 When full of Electro energy, they can unleash a strong electric current from their crowns. As such, some researchers have tried to apply them in other areas...
@@ -92,8 +95,8 @@ The armor can be broken to prevent its' attack and stun it for ~15 seconds. If t
 It will bend over, point its' top at the player, and charge up a laser blast, sending out a line of electricity on the ground in front of where the laser hit.
 * Once all three "crystals" are consumed, the Whopperflower will plunge into the ground and restore all three, creating a visual AoE. This will not do any damage.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Interactions
 

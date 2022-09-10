@@ -45,8 +45,9 @@ All Cicins have +40% (50% total) resistance to their own element.
 
 ## Cicins
 
-{% tabs %}
-{% tab title="Electro" %}
+<Tabs>
+<TabItem value="electro" label="Electro">
+
 ## Electro cicin
 
 They and other such creatures are known collectively as Cicins, and though they are individually weak, they can cause significant damage under the right circumstances.
@@ -55,8 +56,9 @@ They and other such creatures are known collectively as Cicins, and though they 
 
 * Attacks with bolts. They are also quite nimble, making it hard to land a hit on them.
 
-{% endtab %}
-{% tab title="Cryo" %}
+</TabItem>
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo cicin
 
 They and other such creatures are known collectively as Cicins. They are individually very weak, but it is precisely because they are weak that they have evolved unique methods of movement that allow them to avoid predators.
@@ -65,8 +67,9 @@ They and other such creatures are known collectively as Cicins. They are individ
 
 * Attacks with bolts. They are also quite nimble, making it hard to land a hit on them.
 
-{% endtab %}
-{% tab title="Hydro" %}
+</TabItem>
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro cicin
 
 They and other such creatures are known collectively as Cicins, and they truly adore the rare and wonderful Mist Grass plant. It is by exploiting this relationship that the Fatui Mages have sought to commandeer Cicins in battle.
@@ -75,5 +78,5 @@ They and other such creatures are known collectively as Cicins, and they truly a
 
 * Attacks with bolts. They are also quite nimble, making it hard to land a hit on them.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

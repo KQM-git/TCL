@@ -1,7 +1,7 @@
 ---
 description: A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.
 ---
- 
+
 # Shikanoin Heizou
  
 ## ![](/assets/element_anemo.png) Shikanoin Heizou
@@ -22,8 +22,8 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
  
 ## Attacks
  
-{% tabs %}
-{% tab title="Normal Attack: Fudou Style Martial Arts" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Fudou Style Martial Arts">
  
 **Normal Attack**  
 Performs up to 5 fisticuffs empowered by a mighty wind, dealing Anemo DMG.
@@ -58,9 +58,10 @@ Calling upon the surging wind, Heizou plunges towards the ground from mid-air, d
 | Plunge DMG | 104.41% |
 | Low Plunge DMG | 208.77% |
 | High Plunge DMG | 260.76% |
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Heartstopper Strike" %}
+<TabItem value="e" label="Heartstopper Strike">
 
 **Tap**  
 Wields the swift winds to launch a Heartstopper Strike that deals Anemo DMG.
@@ -93,9 +94,9 @@ When you possess 4 Declension stacks, the Conviction effect will be produced, wh
 * **Declension** stacks persist when Heizou is swapped off or interrupted. 
 * Heizou can get and keep **Declension** stacks by holding E and teleporting as soon as he reaches 4 stacks.
 
-{% endtab %}
+</TabItem>
  
-{% tab title="Windmuster Kick" %}
+<TabItem value="q" label="Windmuster Kick">
 
 Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing AoE Anemo DMG.  
 When Vacuum Slugger hits opponents affected by Hydro/Pyro/Cryo/Electro, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.  
@@ -120,21 +121,25 @@ Vacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A 
 **Notes:**  
 * **Windmuster Kick** can't damage ores or enemy Geo Constructs, unlike Heizou's Normal Attack, Charged Attack, and Elemental Skill.
 * **Windmuster Kick** does not have a damage cap.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Ascension Passives
  
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Pre-Existing Guilt
 
 Decreases sprinting Stamina consumption for your own party members by 20%.  
 Not stackable with Passive Talents that provide the exact same effects.
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Ascension 1" %}
+<TabItem value="a1" label="Ascension 1">
+
 ### Paradoxical Practice
 
 When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 0.1s.
@@ -142,69 +147,81 @@ When Shikanoin Heizou activates a Swirl reaction while on the field, he will gai
 **Notes:**  
 * Swirling objects doesn't give Heizou any **Declension** stacks.
 
-{% endtab %}
+</TabItem>
  
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Penetrative Reasoning
 
 After Shikanoin Heizou's Heartstopper Strike hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.
  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Constellations
  
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Named Juvenile Casebook
 
 For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Investigative Collection
 
 The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Esoteric Puzzle Book
 
 Increases the Level of Heartstopper Strike by 3.  
 Maximum upgrade level is 15.
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Tome of Lies
 
 The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.  
 One Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.
 
-{% endtab %}
+</TabItem>
  
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Secret Archive
 
 Increases the Level of Windmuster Kick by 3.  
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
  
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Curious Casefiles
  
 Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
  
 ## Full Talent Values
  
-{% tabs %}
-{% tab title="Normal Attack: Fudou Style Martial Arts" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Fudou Style Martial Arts">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -232,9 +249,10 @@ Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unl
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.17% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
  
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Heartstopper Strike" %}
+<TabItem value="e" label="Heartstopper Strike">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -244,9 +262,10 @@ Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unl
  
 **Declension Duration**: 60s  
 **Cooldown**: 10s
-{% endtab %}
+
+</TabItem>
  
-{% tab title="Windmuster Kick" %}
+<TabItem value="q" label="Windmuster Kick">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -258,9 +277,10 @@ Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unl
 
 **Energy Cost**: 40  
 **Cooldown**: 12s
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
  
 ## Evidence Vault
  
-{% page-ref page="../../evidence/characters/anemo/heizou.md" %}
+TODO % page-ref page="../../evidence/characters/anemo/heizou.md" %

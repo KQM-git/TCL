@@ -27,8 +27,8 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Favonious Bladework - Maid" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework - Maid">
 **Normal Attacks**  
 Perform up to 4 consecutive strikes.
 
@@ -60,9 +60,9 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 
 Noelle is able to perform dragonstrike, but because of her model, it's difficult to perform by hand without movement speed buffs. However, the characters that increase movement speed do not synergize well with Noelle in normal play. Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% increase in DPS compared to N3D.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Breastplate" %}
+<TabItem value="e" label="Breastplate">
 Summons protective stone armor, dealing Geo DMG to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.
 
 The shield has the following properties:  
@@ -100,9 +100,9 @@ The amount of HP healed when regeneration is triggered scales based on Noelle's 
 * When the shield breaks it creates enough hitlag that you can perform a Plunge attack if you jump at the correct time, however unless you purposefully break the shield it can be hard to time correctly.
 * The initial hit of **Breastplate** can trigger the healing as well, not just Normal and Charged Attacks.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Sweeping Time" %}
+<TabItem value="q" label="Sweeping Time">
 Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing Geo DMG. 
 
 Afterwards, Noelle gains the following effects:  
@@ -133,19 +133,22 @@ Afterwards, Noelle gains the following effects:
 * The DEF to ATK conversion is snapshotted when you activate burst so any changes to DEF after burst is used will not affect ATK.
 * The two activation damage instances can proc the healing effect from **Breastplate**.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Maid's Knighthood
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Devotion
 
 When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:
@@ -160,46 +163,52 @@ This effect can only occur once every 60s.
 | Duration | 20s |
 | CD | 60s |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Nice and Clean
 
 Noelle will decrease the CD of **Breastplate** by 1s for every 4 Normal or Charged Attack hits she scores on opponents.
 One hit may be counted every 0.1s.
 
 * Hitting multiple opponents with a single attack is only counted as one hit.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### I Got Your Back
 
 While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Combat Maid
 
 Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
 * This is an additive DMG% bonus.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Invulnerable Maid
 
 Increases the Level of **Breastplate** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### To Be Cleaned
 
 When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 400% ATK of **Geo DMG** to surrounding opponents.
@@ -216,17 +225,19 @@ When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 
 * C4 shares ICD with Noelle's elemental skill damage.
 * The damage from **To Be Cleaned** is calculated using Noelle’s current attack at the moment the shield breaks.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Favonius Sweeper Master
 
 Increases the Level of **Sweeping Time** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Must Be Spotless
 
 **Sweeping Time** increases Noelle's ATK by an additional 50% of her DEF.  
@@ -236,13 +247,14 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 * Noelle can extend her burst duration at C6 to maximum by being off field at the time it is supposed to expire
 * The bonus DEF conversion from **Must Be Spotless** is additive (i.e. it takes the bonus from 56% DEF to 106% DEF at talent level 6).
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Favonius Bladework - Maid" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework - Maid">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -270,9 +282,9 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 | Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Breastplate" %}
+<TabItem value="e" label="Breastplate">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -286,9 +298,9 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 **Duration**: 12s  
 **Cooldown**: 24s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Sweeping Time" %}
+<TabItem value="q" label="Sweeping Time">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -300,8 +312,8 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

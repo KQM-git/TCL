@@ -47,62 +47,62 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Fungi 
 
-{% tabs %}
+<Tabs>
 
-{% tab title="Anemo" %}
+<TabItem value="anemo" label="Anemo">
 
 ## Stretchy Anemo Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Stretchy_Anemo_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Cryo" %}
+<TabItem value="cryo" label="Cryo">
 
 ## Whirling Cryo Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Whirling_Cryo_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dendro" %}
+<TabItem value="dendro" label="Dendro">
 
 ## Floating Dendro Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Floating_Dendro_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
 
 ## Whirling Electro Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Whirling_Electro_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Geo" %}
+<TabItem value="geo" label="Geo">
 
 ## Stretchy Geo Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Stretchy_Geo_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Hydro" %}
+<TabItem value="hydro" label="Hydro">
 
 ## Floating Hydro Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Floating_Hydro_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Pyro" %}
+<TabItem value="pyro" label="Pyro">
 
 ## Stretchy Pyro Fungus
 
 <img src="/assets/enemy/mystical/Enemy_Stretchy_Pyro_Fungus_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% endtabs %}
+</Tabs>

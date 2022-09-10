@@ -4,17 +4,18 @@
 
 ### Calamity Queller
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Extinguishing Precept | Gain **12/15/18/21/24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2/4/4.8/5.6/6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled. |
 | Base ATK | 49 - 741 |
 | ATK% | 3.6% - 16.5% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -28,13 +29,14 @@
 | 80+ | 679	| 15.1 |
 | 85 | 709	| 15.8 |
 | 90 | 741 | 16.5 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Engulfing Lightning
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -44,9 +46,9 @@
 
 * The bonus ER is transfered to DMG% by the 4 piece set bonus of ESF (artifact set) but will not be snapshotted.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ER% |
 | :--- | :--- | :--- |
@@ -60,13 +62,14 @@
 | 80+ | 563 | 50.3 |
 | 85 | 586 | 52.7 |
 | 90 | 608 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Primordial Jade Winged-Spear
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -80,9 +83,10 @@
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS\#7853 and Dunia\#2481](../../evidence/equipment/weapons.md\#weapon-stacks-on-hit)  
 * PJWS can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -96,22 +100,24 @@
 | 80+ | 621 | 20.1 |
 | 85 | 648 | 21.1 |
 | 90 | 674 | 22.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyward Spine
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Blackwing | Increases CRIT Rate by **8/10/12/14/16**% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vaccuum blade that deals **40/55/70/85/100**% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s. |
 | Base ATK | 48 - 674 |
 | ER% | 8% - 36.8% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -125,22 +131,24 @@
 | 80+ | 621 | 33.5 |
 | 85 | 648 | 35.1 |
 | 90 | 674 | 36.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Staff of Homa
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Reckless Cinnabar | HP increased by **20/25/30/35/40**%. Additionally, provides an ATK Bonus based on **0.8/1/1.2/1.4/1.6**% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK bonus is increased by an additional **1/1.2/1.4/1.6/1.8**% of Max HP. |
 | Base ATK | 46 - 608 |
 | CRIT DMG% | 14.4% - 66.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -154,13 +162,14 @@
 | 80+ | 563 | 60.3 |
 | 85 | 586 | 63.2 |
 | 90 | 608 | 66.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Vortex Vanquisher
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -170,9 +179,10 @@
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * Vortex Vanquisher can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -186,15 +196,16 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 4 Stars
 
 ### Blackcliff Pole
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -204,9 +215,10 @@
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -220,13 +232,14 @@
 | 80+ | 475 | 50.3 |
 | 85 | 492 | 52.7 |
 | 90 | 510 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Crescent Pike
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -235,9 +248,10 @@
 | Phys DMG Bonus | 7.5% - 34.5% |
 
 * **Infusion Needle** benefits from all relevant Damage Bonuses since it's based off the characters' stats.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -251,13 +265,14 @@
 | 80+ | 523 | 31.5 |
 | 85 | 544 | 33 |
 | 90 | 565 | 34.5 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Deathmatch
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -267,9 +282,9 @@
 
 * The ATK and DEF bonus snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate. - [Aftermath\#7658](../../evidence/equipment/weapons.md\#deathmatch-passive-snapshot)
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -283,13 +298,14 @@
 | 80+ | 427 | 33.5 |
 | 85 | 440 | 35.1 |
 | 90 | 454 | 36.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Dragon's Bane
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -300,9 +316,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -316,22 +333,24 @@
 | 80+ | 427 | 201 |
 | 85 | 440 | 211 |
 | 90 | 454 | 221 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Dragonspine Spear
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/95/110/125/140**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 41 - 454 |
 | Phys DMG Bonus | 15% - 69% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -345,13 +364,14 @@
 | 80+ | 427 | 62.9 |
 | 85 | 440 | 65.9 |
 | 90 | 454 | 69 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Favonius Lance
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -361,9 +381,10 @@
 
 * Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 * See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -377,13 +398,14 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Moonpiercer
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -391,9 +413,9 @@
 | Base ATK | 44 - 565 |
 | EM | 24 - 110 |  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -407,13 +429,14 @@
 | 80+ | 523 | 101 |
 | 85 | 544 | 105 |
 | 90 | 565 | 110 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Kitain Cross Spear
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -422,9 +445,10 @@
 | EM | 24 - 110 |  
 * Effect can be activated at 0 energy without going into the negative.  
 * Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -438,22 +462,24 @@
 | 80+ | 523 | 101 |
 | 85 | 544 | 105 |
 | 90 | 565 | 110 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Lithic Spear
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Lithic Axiom - Unity | For every characters who hails from Liyue, the characters who equips this weapon gains **7/8/9/10/11**% ATK increase and a **3/4/5/6/7**% CRIT Rate increase. This effect stacks up to 4 times. |
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -467,13 +493,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Prototype Starglitter
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -481,9 +508,10 @@
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
 * Each stack gained will refresh the duration of existing stacks.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -497,13 +525,14 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Royal Spear
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -516,9 +545,10 @@
 * Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 * AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
 * Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -532,22 +562,24 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Catch
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Shanty | Increases Elemental Burst DMG by **16/20/24/28/32**% and Elemental Burst CRIT Rate by **6/7.5/9/10.5/12**%. |
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -561,22 +593,24 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Wavebreaker's Fin
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Watatsumi Wavewalker | For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12/0.15/0.18/0.21/0.24**%. A maximum of **40/50/60/70/80**% increased Elemental Burst DMG can be achieved this way. |
 | Base ATK | 45 - 620 |
 | ATK% | 3% - 13.8% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -590,24 +624,26 @@
 | 80+ | 523 | 12.6 |
 | 85 | 544 | 13.2 |
 | 90 | 565 | 13.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 3 Stars
 
 ### Black Tassel
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Bane of the Soft | Increases DMG against slimes by **40/50/60/70/80**%. |
 | Base ATK | 38 - 354 |
 | HP% | 10.2% - 46.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -621,22 +657,24 @@
 | 80+ | 334 | 42.8 |
 | 85 | 344 | 44.9 |
 | 90 | 354 | 46.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Halberd
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Heavy | Normal Attacks deal an additional **160/200/240/280/320**% DMG. Can only occur once every 10s. |
 | Base ATK | 40 - 448 |
 | ATK% | 5.1% - 22.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -650,22 +688,24 @@
 | 80+ | 415 | 21.4 |
 | 85 | 432 | 22.4 |
 | 90 | 448 | 23.5 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### White Tassel
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Sharp | Increases Normal Attack DMG by **24/30/36/42/48**%. |
 | Base ATK | 39 - 401 |
 | CRIT Rate% | 5.1% - 22.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -679,8 +719,9 @@
 | 80+ | 375 | 21.4 |
 | 85 | 388 | 22.4 |
 | 90 | 401 | 23.4 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## External Links
 

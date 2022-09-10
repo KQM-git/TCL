@@ -26,8 +26,8 @@ description:  A traveler from another world who had their only kin taken away, f
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Foreign Ironwind Lumine" %}
+<Tabs>
+<TabItem value="na-lumine" label="Foreign Ironwind Lumine">
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -60,9 +60,9 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Foreign Ironwind Aether" %}
+<TabItem value="na-aether" label="Foreign Ironwind Aether">
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -95,9 +95,9 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Palm Vortex" %}
+<TabItem value="e" label="Palm Vortex">
 Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous **Anemo** DMG to opponents in front of you.  
 The vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.
 
@@ -130,9 +130,10 @@ Elemental Absorption may only occur once per use.
 * When held beyond the 2 Initial Cutting DMG hits, the Skill's damage, particle generation, and cooldown are all increased; and the last hit is Max Storm DMG instead of Initial Storm DMG.
 * There is either 0 or 1 instance of Additional Elemental DMG with the 2 instances of Initial Cutting DMG, it's random.
 * The duration of Palm Vortex can be extended when Anemo Traveler is frozen, resulting in many instances of Initial Cutting DMG.
-{% endtab %}
 
-{% tab title="Gust Surge" %}
+</TabItem>
+
+<TabItem value="q" label="Gust Surge">
 Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous Anemo DMG.
 
 **Elemental Absorption**  
@@ -163,16 +164,19 @@ Elemental Absorption may only occur once per use.
 * Deals Anemo DMG 9 times at 0.5 second intervals.
 * The Additional Elemental DMG has less AoE than the Tornado DMG. 
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
 The Traveller has no passive talent.
-{% endtab %}
-{% tab title="Ascension 1" %}
+
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Slitting Wind
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.
@@ -182,56 +186,65 @@ The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK
 * This damage bonus is also considered Normal Attack Damage that also deals Elemental DMG.
 * This allows Anemo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 * This instance of damage happens before N5 for Aether and after N5 for Lumine.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Second Wind
 
 **Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Raging Vortex
 
 **Palm Vortex** pulls in opponents and objects within a 5m radius.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Uprising Whirlwind
 
 Increases Energy Recharge by 16%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Sweeping Gust
 
 Increases the Level of **Gust Surge** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Cherishing Breezes
 
 Reduces DMG taken while casting **Palm Vortex** by 10%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Vortex Stellaris
 
 Increases the Level of **Palm Vortex** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Intertwined Winds
 
 Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 20%.
@@ -240,13 +253,14 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 * This effect lasts 10 seconds.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Foreign Ironwind" %}
+<Tabs>
+<TabItem value="na" label="Foreign Ironwind">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -275,9 +289,9 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Palm Vortex" %}
+<TabItem value="e" label="Palm Vortex">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -289,9 +303,9 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 **Base Cooldown**: 5s  
 **Max Charging Cooldown**: 8s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Gust Surge" %}
+<TabItem value="q" label="Gust Surge">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -302,8 +316,8 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 **Cooldown**: 15.0s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

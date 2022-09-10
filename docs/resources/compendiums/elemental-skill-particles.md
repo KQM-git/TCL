@@ -22,8 +22,8 @@ description: Energy particle generation by character.
 
 Production ratio shows the rate of the amount of particle that will be produced \(for example 2~3 \(1:2\) means 33.33% chance of producing 2 particles and 66.67% chance of producing 3 particles\).
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -43,8 +43,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Venti     | Skill Hold | 15 | 4 \(-\) | 4.00 | 16.0 |
 | Xiao      | During **Bane of All Evil**, skill produces no particles. Particle/min assumes 0% **Bane of All Evil** uptime | 10 | 3 \(-\) | 3.00 | 18.0 | 
 
-{% endtab %}
-{% tab title="Geo" %}  
+</TabItem>
+<TabItem value="geo" label="Geo">  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -65,10 +65,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Yun Jin    | Skill Tap | 9 | 2 \(-\) | 2.00 | 13.3 |
 | Zhongli   | Skill Hold produces no particle, 50% chance to produce particle on hit and pulse. 100% uptime | 2 | 0~1 \(1:1\) | 0.50 | 15.0 |
 
-
-
-{% endtab %}
-{% tab title="Pyro" %}  
+</TabItem>
+<TabItem value="pyro" label="Pyro">  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -90,8 +88,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Yanfei    |  | 9 | 3 \(-\) | 3.00 | 20.0 |
 | Yoimiya   | Skill itself produces no particles. Attacks during infusion produce particle \(1 particle, infusion 10s, particle production icd 2s, does not buffer\) | 18 | 4 \(-\) | 4.00 | 13.3 |
 
-{% endtab %}
-{% tab title="Electro" %}  
+</TabItem>
+<TabItem value="electro" label="Electro">  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -112,8 +110,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Traveler <br />\(Electro\) | Multiple Thunder Shadow connect doesn't change the result | 13.5 | 1 \(-\) | 1.00 | 4.4 |
 | Yae Miko | Skill itself doesn't produce particles. 1 particle is produced every time a Sesshou Sakura hits. When multiple Sesshou Sakuras are present, only one of them will produce particles | 4 | 1 \(-\) | 1.00 | 15.0 |
 
-{% endtab %}
-{% tab title="Cryo" %}
+</TabItem>
+<TabItem value="cryo" label="Cryo">
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -133,8 +131,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Shenhe    | Skill Tap | 10 | 3 \(-\) | 3.00 | 18.0 |
 | Shenhe    | Skill Hold | 15 | 4 \(-\) | 4.00 | 16.0 |
 
-{% endtab %}
-{% tab title="Hydro" %}  
+</TabItem>
+<TabItem value="hydro" label="Hydro">  
 
 | Character | Notes | Cooldown \(s\) | Particles \(ratio\) | Average Particles | Particles/min |
 | --------- | :--- | :--- | :--- | :--- | :--- | 
@@ -148,8 +146,8 @@ Production ratio shows the rate of the amount of particle that will be produced 
 | Yelan     | C1 "Taking All Comers", Skill Tap or Hold \(1 extra E cast total\) | 10 | 4 \(-\) | 4.00 | 28.0 |
 | Xingqiu   |  | 21 | 5 \(-\) | 5.00 | 14.3 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Resources
 

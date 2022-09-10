@@ -30,8 +30,8 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Ripple of Fate" %}
+<Tabs>
+<TabItem value="na" label="Ripple of Fate">
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 
@@ -69,9 +69,9 @@ Gathering the might of Hydro, Mona plunges towards the ground from mid-air, dama
 | Low Plunge DMG | 208.77% | 1A | 50 | 3 |
 | High Plunge DMG | 260.76% | 1A | 100 | 4 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Mirror Reflection of Doom" %}
+<TabItem value="e" label="Mirror Reflection of Doom">
 **Press**  
 Creates an illusory **Phantom** of Fate from coalesced waterspouts.  
 The **Phantom** has the following special properties:  
@@ -105,9 +105,9 @@ Only one Phantom created by Mirror Reflection of Doom can exist at any time.
 * **Mirror Reflection of Doom** will cause five instances of damage. It will tick 4 times, dealing DoT damage, then explode to deal Explosion DMG.
 * Applies Hydro on cast
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Illusory Torrent" %}
+<TabItem value="alt" label="Illusory Torrent">
 **Alternate Sprint**  
 Mona cloaks herself within the water's flow, consuming Stamina to move rapidly.  
 When under the effect of Illusory Torrent, Mona can move at high speed on water.  
@@ -129,9 +129,9 @@ Applies the Wet status to nearby opponents when she reappears.
 * Rosaria's Passive, **Night Walk**, increases Mona's sprint speed
   * the same goes for Anemo Resonance
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stellaris Phantasm" %}
+<TabItem value="q" label="Stellaris Phantasm">
 Mona summons the sparkling waves creating a reflection of the starry sky, applying the **Illusory Bubble** status to opponents in a large AoE.
 
 **Illusory Bubble**  
@@ -169,19 +169,22 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
   * Petrify can extend the duration of the aforementioned stagger-resistant state, effectively extending the duration of the **Illusory Bubble**.
 * Certain skill/bursts cannot trigger the **Illusory Bubble** (Zhongli E, Klee Q).
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Principium of Astrology
 
 When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### "Come 'n' Get Me, Hag!"
 
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**.
@@ -191,22 +194,24 @@ A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equa
 * No ICD
 * Damage dealt by this **Phantom** is considered elemental skill damage, and can thus trigger related artifact effects.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Waterborne Destiny
 
 Increases Mona's **Hydro DMG Bonus** by a degree equivalent to 20% of her Energy Recharge rate.
 
 * The Hydro DMG Bonus increase only shows when Mona is in an active party.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Prophecy of Submersion
 
 When any of your own party members hits an opponent affected by an **Omen**, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:
@@ -223,9 +228,10 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 * Hydro Swirl and Electro-Charged DMG bonus do not snapshot and require the reaction owner to be onfield.
 * **Prophecy of Submersion** does not extend Frozen.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Lunar Chain
 
 When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.
@@ -237,45 +243,52 @@ This effect can only occur once every 5s.
 
 * This Charged Attack is not fast enough to do an automatic double Vaporize.
 * No ICD
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### Restless Revolution
 
 Increases the Level of **Stellaris Phantasm** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Prophecy of Oblivion
 
 When any party member attacks an opponent affected by an **Omen**, their CRIT Rate is increased by 15%.
 
 * This bonus only applies to the target(s) affected by the Omen and does not appear in the stat page.
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Mockery of Fortuna
 
 Increases the Level of **Mirror Reflection of Doom** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Rhetorics of Calamitas
 
 Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next **Charged Attack** per second of movement.
 A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Ripple of Fate" %}
+<Tabs>
+<TabItem value="na" label="Ripple of Fate">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -301,9 +314,9 @@ A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Mirror Reflection of Doom" %}
+<TabItem value="e" label="Mirror Reflection of Doom">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -312,9 +325,9 @@ A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for
 
 **Cooldown**: 12s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stellaris Phantasm" %}
+<TabItem value="q" label="Stellaris Phantasm">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -326,8 +339,8 @@ A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

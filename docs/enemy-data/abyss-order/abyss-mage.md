@@ -43,8 +43,9 @@ All abyss mages share the same weakspot on their **Head**, note that this weaksp
 
 ## Abyss Mages
 
-{% tabs %}
-{% tab title="Cryo" %}
+<Tabs>
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Abyss Mage
 
 ![](/assets/enemy/abyss/Enemy_Cryo_Abyss_Mage_Icon.webp)
@@ -67,9 +68,11 @@ Though they dabble with great power and can even create icicles by condensing an
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Summons an icycle 3 times, consecutively, that fall on a location which attempts to predict the player's movement.
 * Starts dancing inside 2 rings of 3 cycling icycles, an inner smaller and slower ring, and a larger, faster, outer ring, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
-{% endtab %}
 
-{% tab title="Electro" %}
+</TabItem>
+
+<TabItem value="electro" label="Electro">
+
 ## Electro Abyss Mage
 
 ![](/assets/enemy/abyss/Enemy_Electro_Abyss_Mage_Icon.webp)
@@ -92,9 +95,11 @@ While studying at the Akademiya, researcher Alva Nicolai once conducted a system
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Creates an energy field around it's self.
 * Starts dancing while continously summoning waves of 4 orbs that will fly outwards, alternating between an X and cross shape, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
-{% endtab %}
 
-{% tab title="Hydro" %}
+</TabItem>
+
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Abyss Mage
 
 ![](/assets/enemy/abyss/Enemy_Hydro_Abyss_Mage_Icon.webp)
@@ -117,9 +122,11 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Creates a homing bubble that will slowly follow the player until either being popped, entraping a player or an enemy. If the bubble comes in contact with an entity, it will trap them for a period of time, rendering them unnable to do anything.
 * Starts dancing in a bubble bath around it's self, some of the bubbles will be the type that can trap entities but will not home in, they will simply fly upwards, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
-{% endtab %}
 
-{% tab title="Pyro" %}
+</TabItem>
+
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro Abyss Mage
 
 ![](/assets/enemy/abyss/Enemy_Pyro_Abyss_Mage_Icon.webp)
@@ -142,5 +149,6 @@ For unknown reasons, Abyss Mages are able to communicate with the hilichurls, th
 * Teleports closer to the player, the teleport can hurt the player if close enough.
 * Summons 3 fiery skulls that will breath fire in a triangle shape multiple times.
 * Starts dancing and summoning flame geysers around himself, at the end it'll create an explosion and re-shield itself. This is the only attack that happens once the mage is unshielded.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>

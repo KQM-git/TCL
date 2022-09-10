@@ -4,17 +4,17 @@
 
 ### Redhorn Stonethresher
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 | Attribute | Description |
 | :--- | :--- |
 | Gokadaiou Otogibanashi | DEF is increased by **28/35/42/49/56**%. Normal and Charged Attack DMG is increased by **40/50/60/70/80**% of DEF. |
 | Base ATK | 44 - 542 | 
 | CRIT DMG | 19.2% - 88.2% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 | Level | Base ATK | CRIT DMG |
 |-------|----------|----------|
 | 1     | 44       | 19.2     |
@@ -42,13 +42,14 @@
 | 80+   | 506      | 80.4     |
 | 85    | 524      | 84.3     |
 | 90    | 542      | 88.2     |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyward Pride
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -58,9 +59,10 @@
 
 * The Vacuum Blades created count as raw physical damage and are not affected by the normal attack buff from 4 set Gladiator's Finale - [Chiefy\#2036](../../evidence/equipment/weapons.md#skyward-pride-damage-interaction-with-4-set-gladiators)
 * Vacuum Blades can crit.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -74,13 +76,14 @@
 | 80+ | 621 | 33.5 |
 | 85 | 648 | 35.1 |
 | 90 | 674 | 36.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Song of Broken Pines
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -89,9 +92,10 @@
 | Phys DMG Bonus | 4.5% - 20.7% |
 
 * Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other.  - [rakka\#0099](../../evidence/equipment/weapons.md#millennial-movement-stack-mechanics)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -102,13 +106,14 @@
 | 80 | 648 | 18.9 |
 | 80+ | 679 | 18.9 |
 | 90 | 741 | 20.7 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Unforged
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -118,9 +123,10 @@
 
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * The Unforged can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -134,13 +140,14 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Wolf's Gravestone
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -152,9 +159,10 @@
 * Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff. - [Goden\#2155](../../evidence/equipment/weapons.md#wolfs-gravestone-passive-does-not-affect-the-attack-that-procs-it)  
 * WGS passive can be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -168,24 +176,26 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 4 Stars
 
 ### Akuoumaru
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Watatsumi Wavewalker | For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12/0.15/0.18/0.21/0.24**%. A maximum of **40/50/60/70/80**% increased Elemental Burst DMG can be achieved this way. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -199,13 +209,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Blackcliff Slasher
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -215,9 +226,10 @@
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -231,13 +243,14 @@
 | 80+ | 475 | 50.3 |
 | 85 | 492 | 52.7 |
 | 90 | 510 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Favonius Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -247,9 +260,10 @@
 
 * Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 * See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -263,13 +277,14 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Forest Regalia
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -277,9 +292,9 @@
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -293,13 +308,14 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Katsuragikiri Nagamasa
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -308,9 +324,10 @@
 | ER% | 10% - 45.9% |
 
 * Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -324,22 +341,24 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Lithic Blade
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Lithic Axiom - Unity | For every character in the party who hails from Liyue, the character who equips this weapon gains **7/8/9/10/11**% ATK increase and **3/4/5/6/7**% CRIT Rate increase. This effect stacks up to 4 times. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -353,13 +372,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Luxurious Sea-Lord
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -369,9 +389,9 @@
 
 * **Oceanic Victory** only procs when the wielder is on the field.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -385,22 +405,24 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Prototype Archaic
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Crush | On hit, Normal or Charged Attacks have a 50% chance to deal an additional **240/300/360/420/480**% ATK DMG to opponents within a small AoE. Can only occur once every 15s. |
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -414,13 +436,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Rainslasher
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -431,9 +454,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -447,13 +471,14 @@
 | 80+ | 475 | 151 |
 | 85 | 492 | 158 |
 | 90 | 510 | 165 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Royal Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -466,9 +491,10 @@
 * Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 * AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
 * Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -482,13 +508,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sacrificial Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -499,9 +526,10 @@
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 * When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 * The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -515,13 +543,14 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Serpent Spine
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -537,9 +566,10 @@
 * Serpent Spine's damage taken increase affects shields.
 * The buff timer starts ticking and continues ticking whether the holder is on the field or not. However the character only gains a stack every 4 seconds if that character is on field.
 * The buff timer resets when you take damage that would cause you to lose a stack. 
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -553,22 +583,24 @@
 | 80+ | 475 | 25.1 |
 | 85 | 492 | 26.4 |
 | 90 | 510 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Snow-Tombed Starsilver
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/95/110/125/140**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 44 - 565 |
 | Phys DMG Bonus | 7.5% - 34.5% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -582,13 +614,14 @@
 | 80+ | 523 | 31.5 |
 | 85 | 544 | 33 |
 | 90 | 565 | 34.5 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Bell
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -598,9 +631,10 @@
 
 * The Bell's passive %Inc Damage works with any shield, and not just with the proc from the passive itself like the description suggests.
   * [adri\#1824](../../evidence/equipment/weapons.md#the-bell)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -614,22 +648,24 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Whiteblind
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Blade | On hit, Normal or Charged Attacks increase ATK and DEF by **6/7.5/9/10.5/12**% for 6s. Max 4 stacks \(**24/30/36/42/48**% total\). Can only occur once every 0.5s. |
 | Base ATK | 42 - 510 |
 | DEF% | 11.3% - 51.7% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
@@ -643,15 +679,16 @@
 | 80+ | 475 | 47.2 |
 | 85 | 492 | 49.5 |
 | 90 | 510 | 51.7 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 3 Stars
 
 ### Bloodtainted Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -662,9 +699,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -678,22 +716,24 @@
 | 80+ | 334 | 171 |
 | 85 | 344 | 179 |
 | 90 | 354 | 187 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Debate Club
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Blunt Conclusion | After using an Elemental Skill, Normal or Charged Attacks, on hit, deal an additional **60/75/90/105/120**% ATK DMG in a small area. Effect lasts 15s. DMG can only occur once every 3s. |
 | Base ATK | 39 - 401 |
 | ATK% | 7.7% - 35.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -707,22 +747,24 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Ferrous Shadow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Unbending | When HP falls below **70/75/80/85/90**%, increases Charged Attack DMG by **30/35/40/45/50**%, and Charged Attacks become much harder to interrupt. |
 | Base ATK | 39 - 401 |
 | HP% | 7.7% - 35.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -736,22 +778,24 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyrider Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Courage | On hit, Normal or Charged Attacks increase ATK by **6/7/8/9/10**% for 6s. Max 4 stacks. Can only occur once every 0.5s. |
 | Base ATK | 39 - 401 |
 | Phys DMG Bonus | 9.6% - 43.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -765,13 +809,14 @@
 | 80+ | 375 | 40.1 |
 | 85 | 388 | 42 |
 | 90 | 401 | 43.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### White Iron Greatsword
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -780,9 +825,10 @@
 | DEF% | 9.6% - 43.9% |
 
 * HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
@@ -796,8 +842,9 @@
 | 80+ | 375 | 40.1 |
 | 85 | 388 | 42 |
 | 90 | 401 | 43.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Attack Speed Buffs on Claymores
 

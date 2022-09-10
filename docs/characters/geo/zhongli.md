@@ -27,8 +27,8 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Rain of Stone" %}
+<Tabs>
+<TabItem value="na" label="Rain of Stone">
 **Normal Attacks**  
 Zhongli performs up to 6 consecutive spear strikes.
 
@@ -63,9 +63,11 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Dominus Lapidis" %}Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
+</TabItem>
+
+<TabItem value="e" label="Dominus Lapidis">
+Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
 
 **Press**  
 Commands the power of earth to create a **Stone Stele**.
@@ -123,9 +125,10 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 
 **Notes**
 * The Resistance shred lingers for a bit after it breaks/ends.  
-{% endtab %}
 
-{% tab title="Planet Befall" %}
+</TabItem>
+
+<TabItem value="q" label="Planet Befall">
 Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the **Petrification** status to them.
 
 **Petrification**  
@@ -151,19 +154,22 @@ Opponents affected by **Petrification** cannot move.
 **Notes**
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Arcanum of Crystal
 
 Refunds 15% of the ore used when crafting Polearm-type weapons.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Resonant Waves
 
 When the Jade Shield takes DMG, it will Fortify:
@@ -174,73 +180,85 @@ Can stack up to 5 times, and lasts until the Jade Shield disappears.
 * This Shield Strength increase occurs after damage is calculated.
 * There is no observable ICD on obtaining Shield Strength stacks.
 * Persists upon swap but not upon refresh.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Dominance of Earth
 
 Zhongli deals bonus DMG based on his Max HP:
 * Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.
 * **Dominus Lapidis'** **Stone Stele**, resonance, and hold DMG is increased by 1.9% of Max HP.
 * **Planet Befall's** DMG is increased by 33% of Max HP.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Rock, the Backbone of Earth
 
 Increases the maximum number of Stone Steles created by **Dominus Lapidis** that may exist simultaneously to 2.
 
 * Steles resonate independently and do not resonate with each other
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Stone, the Cradle of Jade
 
 **Planet Befall** grants nearby characters on the field a **Jade Shield** when it descends.
 
 * The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### Jade, Shimmering through Darkness
 
 Increases the Level of **Dominus Lapidis** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Topaz, Unbreakable and Fearless
 
 Increases **Planet Befall**'s AoE by 20% and increases the duration of **Planet Befall**'s **Petrification** effect by 2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Lazuli, Herald of the Order
 
 Increases the Level of **Planet Befall** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Chrysos, Bounty of Dominator
 
 When the **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current character.
 A single instance of regeneration cannot exceed 8% of that character's Max HP.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Rain of Stone" %}
+<Tabs>
+<TabItem value="na" label="Rain of Stone">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -268,9 +286,9 @@ A single instance of regeneration cannot exceed 8% of that character's Max HP.
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dominus Lapidis" %}
+<TabItem value="e" label="Dominus Lapidis">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -284,9 +302,9 @@ A single instance of regeneration cannot exceed 8% of that character's Max HP.
 **Shield Duration**: 20s  
 **Cooldown (hold)**: 12s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Planet Befall" %}
+<TabItem value="q" label="Planet Befall">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -296,8 +314,8 @@ A single instance of regeneration cannot exceed 8% of that character's Max HP.
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

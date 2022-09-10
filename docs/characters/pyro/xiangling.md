@@ -26,8 +26,8 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Dough-Fu" %}
+<Tabs>
+<TabItem value="na" label="Dough-Fu">
 **Normal Attacks**  
 Xiangling performs up to five consecutive spear strikes
 
@@ -57,9 +57,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Guoba Attack" %}
+</TabItem>
+
+<TabItem value="e" label="Guoba Attack">
 Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, dealing AoE **Pyro** DMG. **Guoba** fires for a total of 4 times.
 
 | Attribute | Skill |
@@ -81,9 +82,10 @@ Xiangling summons **Guoba the Panda** to continuously breath fire at opponents, 
 * Multiple Guobas can exist on-field at a time if Xiangling has enough Cooldown Reduction
 * Guoba self applies pyro aura when he attacks. This aura can be swirled.
 * Upon casting, Guoba can snapshot and benefit from 1 stack of the Crimson Witch of Flames 4-Piece Bonus.
-{% endtab %}
 
-{% tab title="Pyronado" %}
+</TabItem>
+
+<TabItem value="q" label="Pyronado">
 Displaying her mastery over both fire and polearms, Xiangling sends a **Pyronado** whirling around her.  
 The **Pyronado** will move with your character for the ability's duration, dealing Pyro DMG to all opponents in its path.
 
@@ -107,42 +109,51 @@ The **Pyronado** will move with your character for the ability's duration, deali
 **Notes**
 * Moving in the opposite direction of **Pyronado**'s spin will increase the number of hits.
 * **Pyronado** has a ~36 frame lockout before it can deal damage to the same enemy again.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Chef de Cuisine
 
 When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Crossfire
 
 Increases the flame range of Guoba by 20%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Beware, It's Super Hot!
 
 When **Guoba Attack**'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Crispy Outside, Tender Inside
 
 Opponents hit by Guoba's attacks have their **Pyro RES** reduced by 15% for 6s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Oil Meets Fire
 
 The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as **AoE Pyro DMG**.
@@ -153,45 +164,51 @@ The last attack in a Normal Attack sequence applies the **Implode** status onto 
 
 * C2 DMG instance has no ability type scaling tags.  
 * C2 DMG also does not snapshot.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### Deepfry
 
 Increases the Level of **Pyronado** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Slowbake
 
 **Pyronado**'s duration is increased by 40%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Guoba Mad
 
 Increases the Level of **Guoba Attack** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Condensed Pyronado
 
 For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bonus**.
 
 * Pyronado itself does not benefit from C6, but the third hit of her initial swings can receive the 15% **Pyro** DMG Bonus.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Dough-Fu" %}
+<Tabs>
+<TabItem value="na" label="Dough-Fu">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -218,9 +235,9 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bon
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Guoba Attack" %}
+<TabItem value="e" label="Guoba Attack">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -228,9 +245,9 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bon
 
 **Cooldown**: 12s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Pyronado" %}
+<TabItem value="q" label="Pyronado">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -243,8 +260,8 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bon
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 {% page-ref page="../../evidence/characters/pyro/xiangling.md" %}

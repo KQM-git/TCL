@@ -27,8 +27,8 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Demonbane" %}
+<Tabs>
+<TabItem value="na" label="Demonbane">
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
@@ -62,9 +62,10 @@ Plunge from midair to strike the ground below dealing AoE DMG.
 | Plunge DMG | 137.03% | 35 | 2 |
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Chonghua’s Layered Frost" %}
+</TabItem>
+
+<TabItem value="e" label="Spirit Blade: Chonghua’s Layered Frost">
 Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals Cryo DMG.  
 After a short delay, the cold air created by the Cryo explosion will coalesce into a **Chonghua Frost Field**, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with Cryo.
 
@@ -88,9 +89,10 @@ After a short delay, the cold air created by the Cryo explosion will coalesce in
 
 **Notes**
 * The field works as a cylinder with a large height.  
-{% endtab %}
 
-{% tab title="Spirit Blade: Cloud-Parting Star" %}
+</TabItem>
+
+<TabItem value="q" label="Spirit Blade: Cloud-Parting Star">
 Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.  
 When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents.
 
@@ -114,25 +116,30 @@ When the spirit blades explode, they will deal AoE Cryo DMG and launch opponents
 **Notes**
 * The maximum casting range for **Spirit Blade: Cloud-Parting Star** is 17.85m \(7 Abyss tiles\). If it's casted any further it will not target the enemy.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Gallant Journey
 
 When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Steady Breathing
 
 Sword, Claymore, or Polearm-wielding characters within the field created by **Spirit Blade: Chonghua's Layered Frost** have their Normal ATK SPD increased by 8%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Rimechaser Blade
 
 When the field created by **Spirit Blade: Chonghua's Layered Frost** disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as **AoE Cryo DMG**. Opponents hit by this blade will have their **Cryo RES** decreased by 10% for 8s.
@@ -145,13 +152,15 @@ When the field created by **Spirit Blade: Chonghua's Layered Frost** disappears,
 * The **Spirit Blade** is considered Elemental Skill damage.  
 * The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
 * No ICD on elemental application
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Ice Unleashed
 
 The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as **Cryo DMG** to all opponents in its path.
@@ -165,9 +174,10 @@ The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each bl
 | Poise Damage | 36 |
 | Impulse Type | 3 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Atmospheric Revolution
 
 Elemental Skills and Elemental Bursts cast within the **Frost Field** created by **Spirit Blade: Chonghua's Layered Frost** have their CD time decreased by 15%.
@@ -177,33 +187,37 @@ Elemental Skills and Elemental Bursts cast within the **Frost Field** created by
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Cloudburst
 
 Increases the Level of **Spirit Blade: Cloud-Parting Star** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Frozen Skies
 
 Chongyun regenerates 1 Energy every time he hits an opponent affected by **Cryo**.
 This effect can only occur once every 2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### The True Path
 
 Increases the Level of **Spirit Blade: Chonghua's Layered Frost** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Rally of Four Blades
 
 **Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.
@@ -217,13 +231,14 @@ This skill will also summon 1 additional spirit blade.
 * This DMG Bonus is **Additive**.
 * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Demonbane" %}
+<Tabs>
+<TabItem value="na" label="Demonbane">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -251,9 +266,9 @@ This skill will also summon 1 additional spirit blade.
 | Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Spirit Blade: Chonghua's Layered Frost" %}
+<TabItem value="e" label="Spirit Blade: Chonghua's Layered Frost">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -263,9 +278,9 @@ This skill will also summon 1 additional spirit blade.
 **Field Duration**: 10s  
 **Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Spirit Blade: Cloud-Parting Star" %}
+<TabItem value="q" label="Spirit Blade: Cloud-Parting Star">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -274,8 +289,8 @@ This skill will also summon 1 additional spirit blade.
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

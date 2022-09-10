@@ -21,8 +21,8 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Normal Attack: Spiritfox Sin-Eater" %}
+<Tabs>
+<TabItem value="na" label="Normal Attack: Spiritfox Sin-Eater">
 **Normal Attacks**  
 Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG.
 
@@ -53,9 +53,10 @@ Plunges towards the ground from mid-air, damaging all opponents in her path with
 | Plunge DMG | 104.41% | 5 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
-{% endtab %}
 
-{% tab title="Yakan Evocation: Sesshou Sakura" %}
+</TabItem>
+
+<TabItem value="e" label="Yakan Evocation: Sesshou Sakura">
 To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.  
 Moves swiftly, leaving a **Sesshou Sakura** behind.
 
@@ -91,9 +92,9 @@ A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of
 * The dash does not have i-frames.
 * The Sesshou Sakura will always be placed in front of Yae Miko as she dashes back, unless a directional key is held down, in which case she will dash towards said direction.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Great Secret Art: Tenko Kenshin" %}
+<TabItem value="q" label="Great Secret Art: Tenko Kenshin">
 Legends of "kitsunetsuki," or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing AoE Electro DMG.  
 
 When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing AoE Electro DMG. Each **Sesshou Sakura** destroyed in this way will create one Tenko Thunderbolt.
@@ -119,88 +120,102 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 * Elemental Particles and Orbs can be pre-funneled.
 * The Sesshou Sakuras are unsealed instantly when casting the Burst.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Meditations of a Yako
 
 Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### The Shrine's Sacred Shade
 
 When casting **Great Secret Art: Tenko Kenshin**, each **Sesshou Sakura** destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Enlightened Blessing
 
 Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.
 
 **Notes:**
 * Elemental Mastery from other characters such as Kazuha C2, Sucrose A4, or Diona C6 increases the DMG of Sesshou Sakura.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Yakan Offering
 
 Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
 
 **Notes:**  
 * The Burst does not need to hit an enemy in order for the Energy to be restored.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Fox's Mooncall
 
 **Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### The Seven Glamours
 
 Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Sakura Channeling
 
 When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Mischievous Teasing
 
 Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Forbidden Art: Daisesshou
 
 **The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Spiritfox Sin-Eater" %}
+<Tabs>
+<TabItem value="na" label="Spiritfox Sin-Eater">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -225,9 +240,9 @@ Maximum upgrade level is 15.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Yakan Evocation: Sesshou Sakura" %}
+<TabItem value="e" label="Yakan Evocation: Sesshou Sakura">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -239,9 +254,9 @@ Maximum upgrade level is 15.
 **Duration**: 14s  
 **Cooldown**: 4s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Great Secret Art: Tenko Kenshin" %}
+<TabItem value="q" label="Great Secret Art: Tenko Kenshin">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -251,8 +266,8 @@ Maximum upgrade level is 15.
 **Cooldown**: 22s  
 **Energy Cost**: 90
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

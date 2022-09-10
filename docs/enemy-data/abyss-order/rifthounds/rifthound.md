@@ -42,8 +42,9 @@ None.
 
 ## Rifthounds  
 
-{% tabs %}
-{% tab title="Geo" %}
+<Tabs>
+<TabItem value="geo" label="Geo">
+
 ## Rockfond Rifthound
 
 They do display certain biological behaviors similar to those of real wolves. Perhaps they feel jealousy towards these their "next of kin," and dream of replacing them someday.
@@ -58,9 +59,10 @@ They do display certain biological behaviors similar to those of real wolves. Pe
 * If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
+
 ## Thundercraven Rifthound
 
 Once upon a time, they ran riot across the continent, but they went extinct for a time due to resistance and mass hunts. Recently, however, they have re-emerged. The pack of black wolves that now threaten Springvale and Wolvendom are such creatures.
@@ -75,8 +77,8 @@ Once upon a time, they ran riot across the continent, but they went extinct for 
 * If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Interactions 
 * Some attacks (listed below) can knock Rifthounds prone.  

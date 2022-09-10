@@ -27,8 +27,8 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Kaboom!" %}
+<Tabs>
+<TabItem value="na" label="Kaboom!">
 **Normal Attacks**  
 Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
  
@@ -60,9 +60,10 @@ Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damag
 | Plunge DMG | 104.41% | 5 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
-{% endtab %}
 
-{% tab title="Jumpy Dumpty" %}
+</TabItem>
+
+<TabItem value="na" label="Jumpy Dumpty">
 Jumpy Dumpty is tons of boom-bang-fun!
 
 When thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.  
@@ -92,9 +93,10 @@ Starts with 2 charges.
 * Jean, Sucrose and Anemo MC can gather the mines with their vacuum effects, however, Venti cannot do this.
 * Klee's **Jumpty Dumpty**'s split mines shares an ICD on Pyro application with her Normal Attacks.
 * Can be cancelled before cooldown by **Sparks n&apos; Splash** to activate skill triggered passives for free.
-{% endtab %}
 
-{% tab title="Sparks \'n\' Splash" %}
+</TabItem>
+
+<TabItem value="q" label="Sparks \'n\' Splash">
 Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing AoE Pyro DMG.
 
 | Attribute | Burst |
@@ -120,19 +122,23 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 * ICD is shared with C1.
 * If Klee leaves the field with this active no more damage will be dealt even if there is duration left.
 * This snapshots all temporary buffs when cast.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### All Of My Treasures!
 
 Displays the location of nearby **resources unique to Mondstadt** on the mini-map.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Pounding Surprise
 
 When **Jumpy Dumpty** and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.  
@@ -144,22 +150,26 @@ This Explosive Spark is consumed by the next Charged Attack, which costs no Stam
 * Explosive Spark stays even when Klee has been swapped out.  
 * Explosive Spark can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".
 * If an Explosive Spark obtained from a Normal Attack is animation canceled by a Charged Attack, Stamina will still be consumed during the Charged Attack.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Sparkling Burst
 
 When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.
 
 * This energy is not affected by ER.
 * This energy can proc vs enemy shields
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Chained Reactions
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.
@@ -181,24 +191,27 @@ Attacks and Skills have a certain chance to summon sparks that bombard opponents
 * When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires.
 * Klee's C1 appears to have a standard ICD for elemental application, and is shared with her burst.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Explosive Frags
 
 Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Exquisite Compound
 
 Increases the Level of **Jumpy Dumpty** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Sparkly Explosion
 
 If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**.
@@ -210,17 +223,20 @@ If Klee leaves the field during the duration of **Sparks 'n' Splash**, her depar
 | Impulse Type | 5 |
 
 * Klee’s C4 damage instance has no ability type scaling tags. 
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Nova Burst
 
 Increases the Level of **Sparks 'n' Splash** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Blazing Delight
 
 While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.
@@ -228,13 +244,15 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 
 * Blazing Delight does not stack with itself.
 * Blazing Delight can snapshot Klee's own Elemental Burst. 
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Kaboom!" %}
+<Tabs>
+<TabItem value="na" label="Kaboom!">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -259,9 +277,9 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Jumpy Dumpty" %}
+<TabItem value="na" label="Jumpy Dumpty">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -271,9 +289,9 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 **Mine Duration**: 15s  
 **Cooldown**: 20s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Sparks 'n' Splash" %}
+<TabItem value="q" label="Sparks 'n' Splash">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -283,8 +301,8 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

@@ -4,8 +4,8 @@
 
 ### Everlasting Moonglow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -13,9 +13,9 @@
 | Base ATK | 46 - 608 |
 | HP% | 10.8% - 49.6% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -29,13 +29,14 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Kagura's Verity
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -49,9 +50,9 @@
 * The Elemental Skill that triggers a stack is also affected by it.  
 * Klee can gain 2 stacks by casting 1 E with a double tap and no other actions are performed within ~81 frames afterwards.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -65,13 +66,14 @@
 | 80+ | 563 | 60.3 |
 | 85 | 586 | 63.2 |
 | 90 | 608 | 66.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Lost Prayer to the Sacred Winds
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -82,9 +84,9 @@
 * Lost Prayer does not reset upon leaving combat, ONLY upon switching to a different character or if the character is defeated - [Konbo\#0004](../../evidence/equipment/weapons.md#lost-prayer-to-the-sacred-winds)
 * The buff timer starts ticking and continues ticking whether the holder is on the field or not. However the character only gains a stack every 4 seconds if that character is on field.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -98,13 +100,14 @@
 | 80+ | 563 | 30.2 |
 | 85 | 586 | 31.6 |
 | 90 | 608 | 33.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Memory of Dust
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -115,9 +118,10 @@
 * Xingqiu's Rain Swords do not count as a shield for Memory of Dust - [＃＃\#0123](../../evidence/equipment/weapons.md#analysis-of-whether-xingqiu-e-q-counts-as-a-shield-for-memory-of-dust-and-bolide)
 * Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
 * MoD can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -131,13 +135,14 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyward Atlas
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -146,9 +151,10 @@
 | ATK% | 7.2% - 33.1% |
 
 * Skyward Atlas's passive can crit.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -162,15 +168,16 @@
 | 80+ | 621 | 30.2 |
 | 85 | 648 | 31.6 |
 | 90 | 674 | 33.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 4 Stars
 
 ### Blackcliff Agate
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -180,9 +187,10 @@
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -196,22 +204,24 @@
 | 80+ | 475 | 50.3 |
 | 85 | 492 | 52.7 |
 | 90 | 510 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Dodoco Tales
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Dodoventure! | Normal Attack hits on opponents increase Charged Attack DMG by **16/20/24/28/32**% for 6s. Charged Attack hits on opponents increase ATK by **8/10/12/14/16**% for 6s. |
 | Base ATK | 41 - 454 |
 | ATK% | 12% - 55.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -225,22 +235,24 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Eye of Perception
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Echo | Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **240/270/300/330/360**% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **12/11/10/9/8**s. |
 | Base ATK | 41 - 454 |
 | ATK% | 12% - 55.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -254,13 +266,14 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Favonius Codex
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -271,9 +284,10 @@
 
 * Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 * See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -287,22 +301,24 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Frostbearer
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Frost Burial | Hitting an opponent with Normal and Charged Attacks has a **60/70/80/90/100**% chance of forming and dropping an Everfrost Icicle above them, dealing **80/100/120/140/160**% AoE ATK DMG. Opponents affected by Cryo are dealt **200/240/280/320/360**% ATK DMG instead by the icicle. Can only occur once every 10s. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -316,13 +332,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Fruit of Fulfillment
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -331,9 +348,9 @@
 | Secondary Stat Type | ER% |
 | ER% | 10% - 45.9% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -347,13 +364,14 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Hakushin Ring
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -364,9 +382,10 @@
 * Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
 * Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#gaining-a-new-buff-does-not-refresh-duration)
 * Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md\#hakushin-ring-doesnt-trigger-off-field)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -380,22 +399,24 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Mappa Mare
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Scroll | Triggering an Elemental reaction grants a **8/10/12/14/16**% Elemental DMG Bonus for 10s. Max 2 stacks. |
 | Base ATK | 44 - 565 |
 | EM | 24 - 110 |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -409,13 +430,14 @@
 | 80+ | 523 | 101 |
 | 85 | 544 | 105 |
 | 90 | 565 | 110 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Oathsworn Eye
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -423,9 +445,9 @@
 | Base ATK | 44 - 565 |
 | ATK% | 6\% - 27.6\% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Details" %}
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -443,13 +465,13 @@
 * Works off-field.
 * Increases Hydro% from [Mona A4](../../characters/hydro/mona.md#ascension-passives).
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ### Prototype Amber
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -460,9 +482,10 @@
 * HP regeneration is based off the Max HP of the character being healed, not the max HP of the character equipped with **Prototype Amber** - [Reens#9389](../../evidence/equipment/weapons.md#prototype-amber-healing-clarification)
 * HP regeneration does not stack when multiple characters use Prototype Amber. The second one overrides the first one.
 * HP regeneration is affected by Healing Bonus and Incoming Healing Bonus - [RoaringMeow#2437](/evidence/equipment/artifacts#maiden-beloved)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -476,13 +499,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Royal Grimoire
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -495,9 +519,10 @@
 * Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 * AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
 * Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -511,13 +536,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sacrificial Fragments
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -528,9 +554,10 @@
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 * When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 * The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -544,22 +571,24 @@
 | 80+ | 427 | 201 |
 | 85 | 440 | 211 |
 | 90 | 454 | 221 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Solar Pearl
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Solar Shine | Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **20/25/30/35/40%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **20/25/30/35/40%** for 6s. |
 | Base ATK | 42 - 510 |
 | CRIT Rate% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -573,13 +602,14 @@
 | 80+ | 475 | 25.1 |
 | 85 | 492 | 26.4 |
 | 90 | 510 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Widsith
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -589,9 +619,10 @@
 
 * The Passive remains active even when the character is swapped out.
 * When entering the second half of a Spiral Abyss chamber, if the wielder is in the first slot the buff timer will start during the loading screen.
-{% endtab %}  
 
-{% tab title="Details" %}
+</TabItem>  
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -605,22 +636,24 @@
 | 80+ | 475 | 50.3 |
 | 85 | 492 | 52.7 |
 | 90 | 510 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Wine and Song
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Ever-Changing | Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate sprint by **14/16/18/20/22**% for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20/25/30/35/40**% for 5s. |
 | Base ATK | 44 - 565 |
 | ER% | 6.7% - 30.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ER% |
 | :--- | :--- | :--- |
@@ -634,24 +667,26 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 3 Stars
 
 ### Emerald Orb
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Rapids | Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by **20/25/30/35/40**% for 12s. |
 | Base ATK | 40 - 448 |
 | EM | 20 - 94 |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -665,13 +700,14 @@
 | 80+ | 415 | 85 |
 | 85 | 432 | 90 |
 | 90 | 448 | 94 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Magic Guide
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -682,9 +718,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -698,13 +735,14 @@
 | 80+ | 334 | 171 |
 | 85 | 344 | 179 |
 | 90 | 354 | 187 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Otherworldly Story
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -713,9 +751,10 @@
 | ER% | 8.5% - 39% |
 
 * HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -729,13 +768,14 @@
 | 80+ | 375 | 35.6 |
 | 85 | 388 | 37.3 |
 | 90 | 401 | 39 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Thrilling Tales of Dragon Slayers
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -744,9 +784,10 @@
 | HP% | 7.7% - 35.2% |
 
 * The Passive remains active even when the character is swapped out.  
-{% endtab %}  
 
-{% tab title="Details" %}
+</TabItem>  
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -760,22 +801,24 @@
 | 80+ | 375 | 32.1 |
 | 85 | 388 | 33.6 |
 | 90 | 401 | 35.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Twin Nephrite
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Guerilla Tactic | Defeating an opponent increases Movement SPD and ATK by **12/14/16/18/20**% for 15s. |
 | Base ATK | 40 - 448 |
 | CRIT Rate% | 3.4% - 15.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -789,8 +832,9 @@
 | 80+ | 415 | 14.2 |
 | 85 | 432 | 14.9 |
 | 90 | 448 | 15.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Catalyst Comparison
 

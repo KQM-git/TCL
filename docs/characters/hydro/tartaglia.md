@@ -28,8 +28,8 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Cutting Torrent" %}
+<Tabs>
+<TabItem value="na" label="Cutting Torrent">
 **Normal Attacks**  
 Perform up to 6 consecutive shots with a bow.
 
@@ -77,9 +77,9 @@ When Tartaglia is in Foul Legacy: Raging Tide’s **Melee Stance**, he cannot pe
 | Low Plunge DMG | 234.86% | 50 | 2 |
 | High Plunge DMG | 293.36% | 100 | 3 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Foul Legacy: Raging Tide" %}
+<TabItem value="e" label="Foul Legacy: Raging Tide">
 Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering **Melee Stance**.
 
 | Attribute | Skill |
@@ -149,9 +149,9 @@ If the return to a ranged stance occurs automatically after 30s, the CD is even 
 * Using this skill on the same frame as an attack or burst input can result in a **Ranged Burst** while in **Melee Stance**, a **Melee N1** in **Ranged Stance**,[ among other effects.](../../evidence/characters/hydro/tartaglia.md#elemental-skill-and-attack-or-burst-on-the-same-frame) 
 * Preemptive CD scales discretely, floored to an integer before cooldown reduction calculations.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Havoc: Obliteration" %}
+<TabItem value="q" label="Havoc: Obliteration">
 Performs different attacks based on what stance Tartaglia is in when casting.
 
 **Ranged Stance: Flash of Havoc**  
@@ -201,8 +201,8 @@ DMG dealt in this way is considered Elemental Burst DMG.
 **Notes**
 * **Riptide Blast** does not snapshot
 
-{% endtab %}
-{% tab title="Riptides" %}
+</TabItem>
+<TabItem value="riptide" label="Riptides">
 
 **Riptides**  
 A chart of Tartgalia's different Riptide effects
@@ -220,60 +220,70 @@ A chart of Tartgalia's different Riptide effects
 
 * **Riptide** has a 10s duration \(without Ascension 1\).
 
-{% endtab %}
+</TabItem>
 
-{% endtabs %}
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Master of Weaponry
 
 Increases your own party members' **Normal Attack** Level by 1.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Never Ending
 
 Extends **Riptide** duration by 8s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Sword of Torrents
 
 When Tartaglia is in **Foul Legacy: Raging Tide**'s **Melee Stance**, on dealing a CRIT hit, Normal and Charged Attacks apply the **Riptide** status effect to opponents.
 
 * **Riptide** can be applied to shielded targets, assisting in destroying shields faster.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Foul Legacy: Tide Withholder
 
 Decreases the CD of **Foul Legacy: Raging Tide** by 20%
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Foul Legacy: Understream
 
 When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Elemental Energy.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Abyssal Mayhem: Vortex of Turmoil
 
 Increases the Level of **Foul Legacy: Raging Tide** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Abyssal Mayhem: Hydrospout
 
 If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
@@ -287,29 +297,32 @@ If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Ripti
 * All of **Riptide** effects triggered by C4 do not snapshot.
 * All of **Riptide** effects triggered by C4 are considered Normal Attack DMG.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Havoc: Formless Blade
 
 Increases the Level of **Havoc: Obliteration** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Havoc: Annihilation
 
 When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.  
 This effect will only take place once Tartaglia returns to his Ranged Stance.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Cutting Torrent" %}
+<Tabs>
+<TabItem value="na" label="Cutting Torrent">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -345,9 +358,10 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Foul Legacy: Raging Tide" %}
+<TabItem value="e" label="Foul Legacy: Raging Tide">
+
 ### Stance Change
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
@@ -386,9 +400,9 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Riptide Slash | 60.20% | 65.10% | 70.00% | 77.00% | 81.90% | 87.50% | 95.20% | 102.90% | 110.60% | 119.00% | 127.40% | 135.80% | 144.20% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Havoc: Obliteration" %}
+<TabItem value="q" label="Havoc: Obliteration">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -400,8 +414,8 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 **Cooldown**: 15.0s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

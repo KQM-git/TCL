@@ -27,8 +27,8 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Favonius Bladework - Edel" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework - Edel">
 **Normal Attack**
 
 Eula performs up to 5 consecutive strikes.
@@ -61,9 +61,10 @@ Eula plunges from mid-air to strike the ground, damaging opponents along the pat
 | Plunge DMG | 137.03% | 35 | 2 |
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Icetide Vortex" %}  
+</TabItem>
+
+<TabItem value="e" label="Icetide Vortex">  
 Sharp frost, swift blade.
 
 **Press**  
@@ -106,9 +107,10 @@ Increases Eula's resistance to interruption and her DEF.
 | Grimheart Duration | 18s |
 
 * **Grimheart** stacks persist on switch.
-{% endtab %}
 
-{% tab title="Glacial Illumination" %}  
+</TabItem>
+
+<TabItem value="q" label="Glacial Illumination">  
 Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a **Lightfall Sword** that follows her around for a duration of up to 7s.  
 While present, the **Lightfall Sword** increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.  
 Once its duration ends, the **Lightfall Sword** will descend and explode violently, dealing Physical DMG to nearby opponents.  
@@ -155,19 +157,22 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
   * **Lightfall Sword** explosion range: ~7 meters
 * By holding down a directional key during the animation of **Glacial Illumination**, you are actionable ~4 frames earlier compared to not holding it down.  
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Aristocratic Introspection
 
 When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Roiling Rime
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Shattered Lightfall Sword** will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.
@@ -179,19 +184,23 @@ If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **
 **Notes**
 * The damage dealt by **Shattered Lightfall Sword** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Wellspring of War-Lust
 
 When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart**.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Tidal Illusion
 
 Every time **Icetide Vortex**'s **Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.
@@ -200,51 +209,59 @@ Each stack consumed will increase the duration of this effect by 6s up to a maxi
 **Notes**
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Lady of Seafoam
 
 Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Lawrence Pedigree
 
 Increases the Level of **Glacial Illumination** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### The Obstinacy of One's Inferiors
 
 **Lightfall Swords** deal 25% increased DMG against opponents with less than 50% HP.
 
 * This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** \(Burst\) and the Lightfall Remnants from **Roiling Rime** \(A1\).
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Chivalric Quality
 
 Increases the Level of **Icetide Vortex** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Noble Obligation
 
 **Lightfall Swords** created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the **Lightfall Sword** an additional stack of energy.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Favonius Bladework - Edel" %}
+<Tabs>
+<TabItem value="na" label="Favonius Bladework - Edel">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -273,9 +290,9 @@ Maximum upgrade level is 15.
 | Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 398.03% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Icetide Vortex" %}
+<TabItem value="e" label="Icetide Vortex">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -291,9 +308,9 @@ Maximum upgrade level is 15.
 **Press Cooldown**: 4s  
 **Cooldown (hold)**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Glacial Illumination" %}
+<TabItem value="q" label="Glacial Illumination">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -305,8 +322,8 @@ Maximum upgrade level is 15.
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

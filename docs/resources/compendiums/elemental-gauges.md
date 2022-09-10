@@ -16,8 +16,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 ## Elemental Gauges
 *Updated for Patch 2.8.*
 
-{% tabs %}
-{% tab title="Hydro" %}
+<Tabs>
+<TabItem value="hydro" label="Hydro">
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -29,8 +29,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Xingqiu   | - | - | Skill Damage: 1A<br />Rain Sword orbitals: 1A | - | 1A | - |
 | Yelan     | - | 1A <br /> Breakthrough Barb: 1A | 1A | 1A | Initial Hit: 2B <br /> Exquisit Throw: 1A | - |
 
-{% endtab %}
-{% tab title="Pyro" %}  
+</TabItem>
+<TabItem value="pyro" label="Pyro">  
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -45,8 +45,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Yanfei    | 1A | 1A <br />Blazing Eye (A4): 1A | 1A | - | 2B | - |
 | Yoimiya   | - | Charge Shot: 1A <br />Kindling Arrows: 1A | Pyro Infusion: 1A | - | On Cast: 2B <br />Aurous Blaze: 1A | - |
 
-{% endtab %}
-{% tab title="Cryo" %}
+</TabItem>
+<TabItem value="cryo" label="Cryo">
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -61,8 +61,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Rosaria   | - | - | 1A | - | On Cast: 1A<br />AoE Pulse: 1A | - |
 | Shenhe    | - | - | 1A | 2B | Initial Hit: 1A<br />DoT: 1A | - | 
 
-{% endtab %}
-{% tab title="Electro" %}
+</TabItem>
+<TabItem value="electro" label="Electro">
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -77,8 +77,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Traveler <br />\(Electro\) | - | - | 1A | - | On Cast: 1A <br />On-Hit Thunder: 1A | - |
 | Yae Miko | 1A | 1A | 1A | 1A | 1A | - |
 
-{% endtab %}
-{% tab title="Anemo" %}
+</TabItem>
+<TabItem value="anemo" label="Anemo">
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -91,8 +91,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Venti     | - | 1U | 2U | 2U | 1U | - |
 | Xiao      | Infused Attack: 1U | Infused Attack: 1U | 2U | - | - | - | 
 
-{% endtab %}
-{% tab title="Geo" %}
+</TabItem>
+<TabItem value="geo" label="Geo">
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -105,8 +105,8 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Yun Jin  | - | - | 2U | Level 1: 2U <br />Level 2: 4U | 4U | - | 
 | Zhongli | - | - | 2U | On Cast: 1U<br />Pulse: 1U  | 4U | - |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Resources
 

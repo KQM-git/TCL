@@ -27,8 +27,8 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Yunlai Swordsmanship" %}
+<Tabs>
+<TabItem value="na" label="Yunlai Swordsmanship">
 **Normal Attacks**  
 Keqing performs up to 5 consecutive attacks.
 
@@ -64,9 +64,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Stellar Restoration" %}
+</TabItem>
+
+<TabItem value="e" label="Stellar Restoration">
 **Press**  
 Hurls a **Lightning Stiletto** that annihilates her opponents like the swift thunder.  
 When the **Stiletto** hits its target, it deals Electro DMG to opponents in a small AoE, and places a **Stiletto Mark** on the spot hit.
@@ -109,9 +110,9 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 * It is possible for the Electro infusion to expire while Plunging, resulting in a Physical Plunge Attack despite showing Electro visuals on the way down.
 * It is  possible to send the **Stiletto Mark** in another direction by rapidly spinning the camera after aiming and releasing E. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starward Sword" %}
+<TabItem value="q" label="Starward Sword">
 Keqing unleashes the power of lightning, dealing Electro DMG in an AOE.  
 She then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of Electro DMG. The final attack deals massive AoE Electro DMG.
 
@@ -140,19 +141,22 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
   * Burst cancelling like this does not actually use up her Energy, or put the Burst on cooldown, nor does it deal damage.
   * However, it can potentially lock Keqing in place momentarily, where attempted movement can result in rapid spinning.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Land's Overseer
 
 When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Thundering Penance
 
 After recasting **Stellar Restoration** while a **Lightning Stiletto** is present, Keqing's weapon gains an **Electro Infusion** for 5s.
@@ -163,9 +167,10 @@ After recasting **Stellar Restoration** while a **Lightning Stiletto** is presen
 
 * Keqing's **Electro Infusion** can be overwritten other infusion effects \(Chongyun **Chonghua Field** and Bennett **Inspiration Field** C6\).
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Aristocratic Dignity
 
 When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
@@ -173,13 +178,14 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 * Keqing receives these buffs the moment she casts **Starward Sword**.
   * The timer for the duration of these buffs also begins on **Starward Sword** cast.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Thundering Might
 
 Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.
@@ -198,10 +204,10 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 * **Thundering Might** procs before the second part of **Stellar Restoration**. Example: **E1** - **C1 Start** - **C1 Terminus** - **E2**.
 * The ICD of C1 is shared with the second part of **Stellar Restoration**.
 
+</TabItem>
 
-{% endtab %}
+<TabItem value="c2" label="C2">
 
-{% tab title="C2" %}
 ### Keen Extraction
 
 When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.  
@@ -214,44 +220,49 @@ This effect can only occur once every 5s.
 * The proc rate of **Keen Extraction** is inconsistent, and does not work as stated.  
   * For more details, see the [full entry](../../evidence/characters/electro/keqing.md#keqing-c2-procs-inconsistently) in Keqing's Evidence Vault.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Foreseen Reformation
 
 Increases the Level of **Starward Sword** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Attunement
 
 For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Beckoning Stars
 
 Increases the Level of **Stellar Restoration** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Tenacious Star
 
 When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.
 Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Yunlai Swordsmanship" %}
+<Tabs>
+<TabItem value="na" label="Yunlai Swordsmanship">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -279,9 +290,9 @@ Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Eleme
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stellar Restoration" %}
+<TabItem value="e" label="Stellar Restoration">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -291,9 +302,9 @@ Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Eleme
 
 **Cooldown**: 7.5s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starward Sword" %}
+<TabItem value="q" label="Starward Sword">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -304,8 +315,8 @@ Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Eleme
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

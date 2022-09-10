@@ -47,8 +47,9 @@ All slimes are immune to their respective element.
 
 ## Slimes
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
+
 ## Anemo Slime
 
 ![](/assets/enemy/elemental/Enemy_Anemo_Slime_Icon.webp)
@@ -62,9 +63,11 @@ Anemo Slimes at any level will instantly die if they take any damage during thei
 ## Attacks
 
 * Anemo slimes will bounce to move around while in combat. They will not attack the player from the point-blank range, but will instead move away from their target first. Upon distancing itself from the target they will jump up a bit and inflate before deflating to launch itself at their target. After completing the attack, it will immediately begin to move away again, preparing for the next attack.
-{% endtab %}
 
-{% tab title="Cryo" %}
+</TabItem>
+
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Slime
 
 ![](/assets/enemy/elemental/Enemy_Cryo_Slime_Icon.webp)
@@ -74,9 +77,11 @@ Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes t
 ## Attacks
 
 * Upon entering combat, they will first distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
-{% endtab %}
 
-{% tab title="Dendro" %}
+</TabItem>
+
+<TabItem value="dendro" label="Dendro">
+
 ## Dendro Slime
 
 ![](/assets/enemy/elemental/Enemy_Dendro_Slime_Icon.webp)
@@ -86,9 +91,11 @@ It has also taken on the weaknesses of the Dendro element, and will burn intense
 ## Attacks
 
 * When coming near it, it will hide underground. They will remain hidden until the player turns their back and walks away, in which case it'll take a peek for safety. If it's safe, it will relocate closer to the player's position, and if close enough it will attack the player with a pounce attack. If the player turns around during the peek or reposition, it will panic and run away from the player, going back to hiding. They can also be pushed out of hiding if they are either forcefully pulled out of the earth, or burnt with a pyro attack. The Dendro Slime will be ignited for large amounts of damage when entering contact with pyro aura. Once out of the ground, it will act like a normal slime, distancing it's self in order to attack the player with pounce attack.
-{% endtab %}
 
-{% tab title="Electro" %}
+</TabItem>
+
+<TabItem value="electro" label="Electro">
+
 ## Electro Slime
 
 ![](/assets/enemy/elemental/Enemy_Electro_Slime_Icon.webp)
@@ -98,9 +105,10 @@ According to analyses, the jumping of Electro Slimes reflects the electric poten
 # Attacks
 
 Upon entering combat, they will first distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
-{% endtab %}
 
-{% tab title="Geo" %}
+</TabItem>
+
+<TabItem value="geo" label="Geo">
 
 ## Geo Slime
 
@@ -111,9 +119,11 @@ Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes
 ## Attacks
 
 * Upon entering combat, they will first distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
-{% endtab %}
 
-{% tab title="Hydro" %}
+</TabItem>
+
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Slime
 
 ![](/assets/enemy/elemental/Enemy_Hydro_Slime_Icon.webp)
@@ -123,9 +133,11 @@ Legend has it that some people would use Hydro Slimes as an emergency water sour
 ## Attacks
 
 * Upon entering combat, they will first distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
-{% endtab %}
 
-{% tab title="Pyro" %}
+</TabItem>
+
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro Slime
 
 ![](/assets/enemy/elemental/Enemy_Pyro_Slime_Icon.webp)
@@ -137,5 +149,6 @@ Its intelligence is very basic, but its uses are just as broad — well, for hil
 * Upon entering combat, they will first ignite themselves, then distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
 If defeated while ignited, it will explode after a short delay, dealing AoE Pyro damage.  
 When extinguished, a Pyro Slime may attempt to move away from its target to reignite, if given an opportunity during combat or after the battle ends.  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>

@@ -49,30 +49,30 @@ Cryoshrooms and Hydroshrooms have +20% RES to their own Element, at a total of 3
 
 ## Fungi 
 
-{% tabs %}
+<Tabs>
 
-{% tab title="Cryo" %}
+<TabItem value="cryo" label="Cryo">
 
 ## Winged Cryoshroom
 
 <img src="/assets/enemy/mystical/Enemy_Winged_Cryoshroom_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dendro" %}
+<TabItem value="dendro" label="Dendro">
 
 ## Winged Dendroshroom
 
 <img src="/assets/enemy/mystical/Enemy_Winged_Dendroshroom_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Hydro" %}
+<TabItem value="hydro" label="Hydro">
 
 ## Grounded Hydroshroom
 
 <img src="/assets/enemy/mystical/Enemy_Grounded_Hydroshroom_Icon.webp" width="200" height="200" />
 
-{% endtab %}
+</TabItem>
 
-{% endtabs %}
+</Tabs>

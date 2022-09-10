@@ -48,8 +48,9 @@ Head.
 
 ## Kairagis
 
-{% tabs %}
-{% tab title="Pyro" %}
+<Tabs>
+<TabItem value="pyro" label="Pyro">
+
 ## Kairagi: Fiery Might
 
 They practiced martial arts since they were young, but lost the opportunity to serve the people due to certain reasons and turned from the righteous path. Their blade's edges are not cold like ordinary steel, but instead burn with a bitter flame. They seem to have used paper seals, created from a lost Kamuna art, to set the blades afire.
@@ -75,9 +76,10 @@ They practiced martial arts since they were young, but lost the opportunity to s
 * Enters a stance with its' blade held downwards, pointed diagonally, during which it will block player attacks from the direction they're facing.
 * Clenches its fist towards the player. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
+
 ## Kairagi: Dancing Thunder
 
 They possess highly advanced martial art skills but found no use for them for various reasons. Out of desperation, they have fallen onto the path of evil. They use paper seals, created from a Kamuna art that has been lost for centuries, to infuse their blades with the power of lightning.
@@ -104,5 +106,5 @@ They possess highly advanced martial art skills but found no use for them for va
 * Clenches its fist towards the player. 
   * This move is unique to the Kairagi Electro variant.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

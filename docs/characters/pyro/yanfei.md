@@ -26,8 +26,8 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Seal of Approval" %}
+<Tabs>
+<TabItem value="na" label="Seal of Approval">
 **Normal Attacks**  
 Shoots fireballs that deal up to three counts of Pyro DMG.
 
@@ -66,9 +66,10 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | Plunge DMG | 104.41% | 5 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
-{% endtab %}
 
-{% tab title="Signed Edict" %}
+</TabItem>
+
+<TabItem value="e" label="Signed Edict">
 Summons blistering flames that deal AoE Pyro DMG.  
 Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Seals**.
 
@@ -89,9 +90,9 @@ Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Se
 **Notes**
 * **Signed Edict** is **blunt** damage and shatters frozen targets.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Done Deal" %}
+<TabItem value="q" label="Done Deal">
 Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying **Brilliance** to her.
 
 **Brilliance**  
@@ -119,27 +120,32 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 | Poise Damage | 200 |
 | Impulse Type | 3 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Encyclopedic Expertise
 
 Displays the location of nearby **resources unique to Liyue** on the mini-map.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Proviso
 
 When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's **Pyro DMG Bonus** by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
 
 * The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Blazing Eye
 
 When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG** equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
@@ -157,65 +163,73 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
   * This does not affect her Charged Attack ICD.
 * **Blazing Eye** can trigger vs enemy shields.
 * **Blazing Eye** has hitlag, allowing you to [dragonstrike](../../combat-mechanics/tech/plunge-tech.md) off of it.  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### The Law Knows No Kindness
 
 When Yanfei uses her Charged Attack, each existing **Scarlet Seal** additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Right of Final Interpretation
 
 Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Samadhi Fire-Forged
 
 Increases the Level of **Signed Edict** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Supreme Amnesty
 
 When **Done Deal** is used:
 Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
 This shield absorbs **Pyro DMG** 250% more effectively.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Abiding Affidavit
 
 Increases the Level of **Done Deal** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Extra Clause
 
 Increases the maximum number of **Scarlet Seals** by 1.
 
 * At 4 seals, Yanfei's Charged Attack will consume 0 Stamina.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Seal of Approval" %}
+<Tabs>
+<TabItem value="na" label="Seal of Approval">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -246,9 +260,9 @@ Increases the maximum number of **Scarlet Seals** by 1.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Signed Edict" %}
+<TabItem value="e" label="Signed Edict">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -256,9 +270,9 @@ Increases the maximum number of **Scarlet Seals** by 1.
 
 **Cooldown**: 9s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Done Deal" %}
+<TabItem value="q" label="Done Deal">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -270,8 +284,8 @@ Increases the maximum number of **Scarlet Seals** by 1.
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

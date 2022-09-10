@@ -25,8 +25,8 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Rapid Fire" %}
+<Tabs>
+<TabItem value="na" label="Rapid Fire">
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
@@ -58,9 +58,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Frozen Wilds" %}
+</TabItem>
+
+<TabItem value="e" label="Frozen Wilds">
 Aloy throws a **Freeze Bomb** in the targeted direction that explodes on impact, dealing Cryo DMG. After it explodes, the **Freeze Bomb** will split up into many **Chillwater Bomblets** that explode on contact with opponents or after a short delay, dealing Cryo DMG.  
 When a **Freeze Bomb** or **Chillwater Bomblet** hits an opponent, the opponent's ATK is decreased and Aloy receives 1 **Coil stack**.  
 Aloy can gain up to 1 **Coil stack** every 0.1s. 
@@ -102,9 +103,9 @@ While in the **Rushing Ice** state, Aloy cannot obtain new **Coil** stacks.
 * **Chillwater Bomblets** snapshot on **Frozen Wilds** cast.
 * Recasting **Frozen Wilds** will cause existing **Chillwater Bomblets** to explode.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Prophecies of Dawn" %}
+<TabItem value="q" label="Prophecies of Dawn">
 Aloy throws a Power Cell filled with Cryo in the targeted direction, then detonates it with an arrow, dealing AoE Cryo DMG.
 
 | Attribute | Burst |
@@ -123,13 +124,14 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 | Poise Damage | 200 |
 | Impulse Type | 3 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Easy Does It
 
 When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
@@ -137,36 +139,42 @@ When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat w
 * Animals still get startled if you get too close to them.
 * Animals still get startled if you kill one of them in a group.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 1" %}
+<TabItem value="a1" label="Ascension 1">
+
 ### Combat Override
 
 When Aloy receives the **Coil** effect from **Frozen Wilds**, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Strong Strike
 
 When Aloy is in the **Rushing Ice** state conferred by **Frozen Wilds**, her **Cryo DMG Bonus** increases by 3.5% every 1s. A maximum **Cryo DMG Bonus** increase of 35% can be gained in this way.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Star of Another World
 
 The time has not yet come for this person's corner of the night sky to light up.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Rapid Fire" %}
+<Tabs>
+<TabItem value="na" label="Rapid Fire">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -192,9 +200,9 @@ The time has not yet come for this person's corner of the night sky to light up.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Frozen Wilds" %}
+<TabItem value="e" label="Frozen Wilds">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -208,9 +216,9 @@ The time has not yet come for this person's corner of the night sky to light up.
 **Rushing Ice Duration**: 10s  
 **Cooldown**: 20s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Prophecies of Dawn" %}
+<TabItem value="q" label="Prophecies of Dawn">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -219,8 +227,8 @@ The time has not yet come for this person's corner of the night sky to light up.
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

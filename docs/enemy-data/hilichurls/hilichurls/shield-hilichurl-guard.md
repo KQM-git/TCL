@@ -48,8 +48,9 @@ Head.
 
 ## Hilichurl Shields
 
-{% tabs %}
-{% tab title="Wooden shield" %}
+<Tabs>
+<TabItem value="wooden" label="Wooden shield">
+
 ## Wooden Shield Hilichurl Guard
 
 Hilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.  
@@ -58,9 +59,11 @@ Hilichurl warriors who have wooden shields. These shields are not only sturdy de
 * Uses a dendro hand Shield&Club. Both can be burnt using pyro, losing them in the process. The wooden shield can also be destroyed by dealing enough damage.
 * Swings its' club at the player. If the club is burnt, it will swing using its' claws instead.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is burnt, it will be unable to perform this attack.
-{% endtab %}
 
-{% tab title="Geo Shield" %}
+</TabItem>
+
+<TabItem value="geo" label="Geo Shield">
+
 ## Geo Shield Hilichurl Guard
 
 Hardy hilichurls who have congregated in a region where Geo energies are abundant. Their impregnable shields have layers of rocky growths on them.  
@@ -70,9 +73,10 @@ Hardy hilichurls who have congregated in a region where Geo energies are abundan
 * Swings its' club at the player.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ice Shield" %}
+<TabItem value="ice" label="Ice Shield">
+
 ## Ice Shield Hilichurl Guard
 
 Hilichurls display a strong sense of adaptability to their surroundings. In icy environments, they come up with ways and means to fashion this hard ice into shields to protect themselves.  
@@ -82,5 +86,5 @@ Hilichurls display a strong sense of adaptability to their surroundings. In icy 
 * Swings its' club at the player.
 * Blocks attacks in the way of its' shields. Attacks from the side and back can still go through. If the shield is destroyed, it will be unable to perform this attack.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

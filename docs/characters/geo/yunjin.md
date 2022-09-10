@@ -21,8 +21,8 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Cloud-Grazing Strike" %}
+<Tabs>
+<TabItem value="na" label="Cloud-Grazing Strike">
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 
@@ -52,9 +52,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG |  117.46% | 25 | 1st: 2 <br/> Rest: 4 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Opening Flourish" %}
+</TabItem>
+
+<TabItem value="e" label="Opening Flourish">
 Ms. Yun may just be acting out fights on stage, but her skills with the spear are real enough to defend against her foes.
 
 **Press**  
@@ -93,9 +94,10 @@ Based on the time spent charging, it will either unleash an attack at Charge Lev
   * This can be used to apply Geo Resonanace Geo Res Shred. 
 * Yunjin can perfect counter shots from the Inazuma Kamuijima Cannons.
 * Yunjin's flags from her E persist for however long she's frozen.
-{% endtab %}
 
-{% tab title="Cliffbreaker&apos;s Banner" %}
+</TabItem>
+
+<TabItem value="q" label="Cliffbreaker&apos;s Banner">
 Deals AoE Geo DMG and grants all nearby party members a **Flying Cloud Flag Formation**.
 
 **Flying Cloud Flag Formation**  
@@ -132,87 +134,100 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 **Interactions**
 * Yoimiya's **Niwabi Fire-Dance's Blazing Arrow** DMG increase does not increase Yun Jin's **Cliffbreaker's Banner** bonus.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Light Nourishment
 
 When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### True to Oneself
 
 Using **Opening Flourish** at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.
 
 * Burning grass can trigger **True to Oneself**.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Breaking Conventions
 
 The Normal Attack DMG Bonus granted by **Flying Cloud Flag Formation** is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Thespian Gallop
 
 **Opening Flourish's** CD is decreased by 18%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Myriad Mise-En-Scène
 
 After **Cliffbreaker's Banner** is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Seafaring General
 
 Increases the Level of **Cliffbreaker's Banner** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Flower and a Fighter
 
 When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s.
 
 * The DEF % increase does not apply to the hit that triggers the Crystallize.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Famed Throughout the Land
 
 Increases the Level of **Opening Flourish** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Decorous Harmony
 
 Characters under the effects of the **Flying Cloud Flag Formation** have their Normal ATK SPD increased by 12%.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Cloud-Grazing Strike" %}
+<Tabs>
+<TabItem value="na" label="Cloud-Grazing Strike">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -239,9 +254,9 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Opening Flourish" %}
+<TabItem value="e" label="Opening Flourish">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -252,9 +267,9 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 
 **Cooldown**: 9s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Cliffbreaker's Banner" %}
+<TabItem value="q" label="Cliffbreaker&apos;s Banner">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -266,8 +281,8 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

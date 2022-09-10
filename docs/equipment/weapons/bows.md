@@ -4,17 +4,18 @@
 
 ### Amos' Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Strong-Willed | Increases Normal Attack and Charged Attack DMG by **12/15/18/21/24**%. After a Normal or Charged Attack is fired, DMG dealt increases by a further **8/10/12/14/16**% every 0.1 seconds up to 5 times. |
 | Base ATK | 46 - 608 |
 | ATK% | 10.8% - 49.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -28,13 +29,14 @@
 | 80+ | 563 | 45.3 |
 | 85 | 586 | 47.4 |
 | 90 | 608 | 49.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Aqua Simulacra
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -43,9 +45,10 @@
 | CRIT DMG | 19.2% - 88.2% |
 
 * The Cleansing Form does not seem to have a vertical range limit.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -59,13 +62,14 @@
 | 80+ | 506 | 80.4 |
 | 85 | 524 | 84.3 |
 | 90 | 542 | 88.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Elegy for the End
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -75,9 +79,10 @@
 
 * Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../evidence/equipment/weapons.md#millennial-movement-stack-mechanics)
 * Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies) 
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -91,22 +96,24 @@
 | 80+ | 563 | 50.3 |
 | 85 | 586 | 52.7 |
 | 90 | 608 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Hunter's Path
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | At the End of the Beast-Paths | Gain **12/15/18/21/24**% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160/200/240/280/320**% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s. |
 | Base ATK | 44 - 542 |
 | CRIT Rate% | 9.6% - 44.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -120,14 +127,15 @@
 | 80+ | 506 | 40.2 |
 | 85 | 524 | 42.2 |
 | 90 | 542 | 44.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 
 ### Polar Star
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -136,9 +144,10 @@
 | CR% | 7.2% - 33.1% |
 
 * **Polar Star** has no ICD for gaining independent stacks.
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -152,22 +161,24 @@
 | 80+ | 563 | 30.2 |
 | 85 | 586 | 31.6 |
 | 90 | 608 | 33.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Skyward Harp
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Echoing Ballad | Increases CRIT DMG by **20/25/30/35/40**%. Hits have a **60/70/80/90/100**% chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4/3.5/3/2.5/2**s. |
 | Base ATK | 48 - 674 |
 | CRIT Rate% | 4.8% - 22.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -181,22 +192,24 @@
 | 80+ | 621 | 20.1 |
 | 85 | 648 | 21.1 |
 | 90 | 674 | 22.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Thundering Pulse
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Rule By Thunder | Increases ATK by **20/25/30/35/40**% and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **(12/24/40)/(15/30/50)/(18/36/60)/(21/42/70)/(24/48/80)**%. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently. | 
 | Base ATK | 46 - 608 |
 | CRIT DMG% | 14.4% - 66.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -210,24 +223,26 @@
 | 80+ | 563 | 60.3 |
 | 85 | 586 | 63.2 |
 | 90 | 608 | 66.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 4 Stars
 
 ### Alley Hunter
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Urban Guerrilla | While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2/2.5/3/3.5/4**% every second up to a max of **20/25/30/35/40**%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4/5/6/7/8**% per second until it reaches 0%. |
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -241,13 +256,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Blackcliff Warbow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -257,9 +273,10 @@
 
 * Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
 * Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -273,22 +290,24 @@
 | 80+ | 523 | 33.5 |
 | 85 | 544 | 35.1 |
 | 90 | 565 | 36.8 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Compound Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Infusion Arrow | Normal Attack and Charged Attack hits increase ATK by **4/5/6/7/8**% and Normal ATK SPD by **1.2/1.5/1.8/2.1/2.4**% for 6s. Max 4 stacks. Can only occur once every 0.3s. |
 | Base ATK | 41 - 454 |
 | Phys DMG Bonus | 15% - 69% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
@@ -302,22 +321,24 @@
 | 80+ | 427 | 62.9 |
 | 85 | 440 | 65.9 |
 | 90 | 454 | 69 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### End of the Line 
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
 | Base ATK | 42 - 510 |
 | ER% | 10% - 45.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -331,13 +352,14 @@
 | 80+ | 475 | 41.9 |
 | 85 | 492 | 43.9 |
 | 90 | 510 | 45.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Fading Twilight
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -346,9 +368,10 @@
 | Energy Recharge | 6.7% - 30.6% |
 
 * Fading Twilight does not snapshot - [TheFirstRapher#9207](../../evidence/equipment/weapons.md#fading-twilight-does-not-snapshot)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ER% |
 | :--- | :--- | :--- |
@@ -362,13 +385,14 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Favonius Warbow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -378,9 +402,10 @@
 
 * Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
 * See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -394,22 +419,24 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Hamayumi
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Full Draw | Increases Normal Attack DMG by **16/20/24/28/32**% and Charged Attack DMG by **12/15/18/21/24**%. When the equipping character's Energy reaches 100%, this efect is increased by 100%. |
 | Base ATK | 41 - 454 |
 | ATK% | 12% - 55.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -423,22 +450,24 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### King's Squire
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Labyrinth Lord's Instruction | Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60/80/100/120/140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100/120/140/160/180**% of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s. |
 | Base ATK | 41 - 454 |
 | ATK% | 12% - 55.1% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -452,22 +481,24 @@
 | 80+ | 427 | 50.3 |
 | 85 | 440 | 52.7 |
 | 90 | 454 | 55.1 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Mitternachts Waltz
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Evernight Duet | Normal Attack hits on opponents increase Elemental Skill DMG by **20/25/30/35/40**% for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20/25/30/35/40**% for 5s. |
 | Base ATK | 42 - 510 |
 | Phys DMG Bonus | 11.3% - 51.7% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -481,22 +512,24 @@
 | 80+ | 475 | 47.2 |
 | 85 | 492 | 49.5 |
 | 90 | 510 | 51.7 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Mouun's Moon
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Watatsumi Wavewalker | For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12/0.15/0.18/0.21/0.24**%. A maximum of **40/50/60/70/80**% increased Elemental Burst DMG can be achieved this way. |
 | Base ATK | 44 - 565 |
 | ATK% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -510,13 +543,14 @@
 | 80+ | 523 | 25.1 |
 | 85 | 544 | 26.4 |
 | 90 | 565 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Predator
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 
 | Attribute | Description |
@@ -524,9 +558,10 @@
 | Strong Strike | Effective only on the following platform: "PlayStation Network"<br/>Dealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -540,22 +575,24 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Prototype Crescent
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Unreturning | Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36/45/54/63/72**% for 10s. |
 | Base ATK | 42 - 510 |
 | ATK% | 9% - 41.3% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -569,13 +606,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Royal Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -588,9 +626,10 @@
 * Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
 * AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
 * Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -604,13 +643,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Rust
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -619,9 +659,10 @@
 | ATK% | 9% - 41.3% |
 
 * Rust damage reduction is additive and is considered DMG% in calculations
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
@@ -635,13 +676,14 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sacrificial Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -652,9 +694,10 @@
 * Passive does not proc on shielded enemies - [Exuma\#1917](../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
 * When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
 * The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)  
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
@@ -668,22 +711,24 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Stringless
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Arrowless Song | Increases Elemental Skill and Elemental Burst DMG by **24/30/36/42/48**%. |
 | Base ATK | 42 - 510 |
 | EM | 36 - 165 |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -697,22 +742,24 @@
 | 80+ | 475 | 151 |
 | 85 | 492 | 158 |
 | 90 | 510 | 165 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### The Viridescent Hunt
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Verdant Wind | Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **40/50/60/70/80**% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **14/13/12/11/10**s. |
 | Base ATK | 42 - 510 |
 | CRIT Rate% | 6% - 27.6% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -726,22 +773,24 @@
 | 80+ | 475 | 25.1 |
 | 85 | 492 | 26.4 |
 | 90 | 510 | 27.6 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Windblume Ode
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Windblume Wish | After using an Elemental Skill, receive a boon from the ancient wish of Windblume, increasing ATK by **16/20/24/28/32**% for 6s |
 | Base ATK | 42 - 510 |
 | EM | 36 - 165 |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | EM |
 | :--- | :--- | :--- |
@@ -755,24 +804,26 @@
 | 80+ | 475 | 151 |
 | 85 | 492 | 158 |
 | 90 | 510 | 176 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## 3 Stars
 
 ### Messenger
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Archer's Message | Charged Attack hits on weak spots deal an additional **100/125/150/175/200**% ATK DMG as CRIT DMG. Can only occur once every 10s. |
 | Base ATK | 40 - 448 |
 | CRIT DMG% | 6.8% - 31.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -786,13 +837,14 @@
 | 80+ | 415 | 28.5 |
 | 85 | 432 | 29.9 |
 | 90 | 448 | 31.2 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Raven Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -803,9 +855,10 @@
 * Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
 * Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
 * Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
@@ -819,13 +872,14 @@
 | 80+ | 415 | 85 |
 | 85 | 432 | 90 |
 | 90 | 448 | 94 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Recurve Bow
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
@@ -834,9 +888,10 @@
 | HP% | 10.2% - 46.9% |
 
 * HP restored is affected by Healing Bonus and Incoming Healing Bonus - [Daibangden#8410](/evidence/equipment/weapons.md#weapons-and-heals)
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | HP% |
 | :--- | :--- | :--- |
@@ -850,22 +905,24 @@
 | 80+ | 334 | 42.8 |
 | 85 | 344 | 44.9 |
 | 90 | 354 | 46.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Sharpshooter's Oath
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Precise | Increases DMG against weak spots by **24/30/36/42/48**% |
 | Base ATK | 39 - 401 |
 | CRIT DMG% | 10.2% - 46.9% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
@@ -879,22 +936,24 @@
 | 80+ | 375 | 42.7 |
 | 85 | 388 | 44.8 |
 | 90 | 401 | 46.9 |
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ### Slingshot
 
-{% tabs %}
-{% tab title="Description" %}
+<Tabs>
+<TabItem value="desc" label="Description">
 
 | Attribute | Description |
 | :--- | :--- |
 | Slingshot | If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **36/42/48/54/60**%. Otherwise, decreases DMG by 10%. |
 | Base ATK | 38 - 354 |
 | CRIT Rate% | 6.8% - 31.2% |
-{% endtab %}
 
-{% tab title="Details" %}
+</TabItem>
+
+<TabItem value="details" label="Details">
 
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
@@ -910,8 +969,9 @@
 | 90 | 354 | 31.2 |
 
 * There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md\#slingshot-passive-mechanics)
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Range Cap for Arrows
 

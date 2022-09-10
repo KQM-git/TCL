@@ -27,8 +27,8 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Steel Fang" %}
+<Tabs>
+<TabItem value="na" label="Steel Fang">
 **Normal Attacks**  
 Razor performs 4 consecutive strikes.
 
@@ -61,9 +61,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 150.74% | 35 | 2 |
 | Low Plunge DMG | 301.41% | 150 | 4 |
 | High Plunge DMG | 376.48% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Claw and Thunder" %}
+</TabItem>
+
+<TabItem value="e" label="Claw and Thunder">
 Hunts his prey using the techniques taught to him by his master and his lupical.
 
 **Press**  
@@ -99,9 +100,9 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 * **Claw and Thunder** (Hold) causes a small self-knockback when used.
 * The **Electro Sigils** are not immediately consumed when dashing after Hold E.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lightning Fang" %}
+<TabItem value="q" label="Lightning Fang">
 Summons **the Wolf Within**, which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.  
 **The Wolf Within** will fight alongside Razor for the skill's duration.
 
@@ -143,27 +144,32 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 * Bennett’s **Fantastic Voyage** self pyro application can react with Razor’s self electro application to proc overload on yourself. 
   * This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Wolvensprint
 
 Decreases sprinting Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Awakening
 
 Decreases **Claw and Thunder**'s CD by 18%.  
 Using **Lightning Fang** resets the CD of **Claw and Thunder**.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Hunger
 
 When Razor's Energy is below 50%, increases Energy Recharge by 30%.
@@ -171,50 +177,56 @@ When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 **Notes**  
 * When ping is above 54ms, it does not work for some time after using the Elemental Burst.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Wolf's Instinct
 
 Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Suppression
 
 Increases CRIT Rate against opponents with less than 30% HP by 10%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Soul Companion
 
 Increases the Level of **Lightning Fang** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Bite
 
 When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Sharpened Claws
 
 Increases the Level of **Claw and Thunder** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Lupus Fulguris
 
 Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.
@@ -226,13 +238,14 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 
 * C6 damage instance has no ability type scaling tags and applies 1A Electro.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Steel Fang" %}
+<Tabs>
+<TabItem value="na" label="Steel Fang">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -260,9 +273,9 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 | Low Plunge DMG | 164.06% | 177.41% | 190.77% | 209.84% | 223.20% | 238.46% | 259.44% | 280.43% | 301.41% | 324.30% | 347.19% |
 | High Plunge DMG | 204.92% | 221.60% | 238.28% | 262.10% | 278.78% | 297.85% | 324.06% | 350.27% | 376.48% | 405.07% | 433.66% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Claw and Thunder" %}
+<TabItem value="e" label="Claw and Thunder">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -275,9 +288,9 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 **Press Cooldown**: 6s  
 **Cooldown (hold)**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lightning Fang" %}
+<TabItem value="q" label="Lightning Fang">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -290,8 +303,8 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 **Cooldown**: 20.0s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

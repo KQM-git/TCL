@@ -26,8 +26,8 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Spear of the Church" %}
+<Tabs>
+<TabItem value="na" label="Spear of the Church">
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 
@@ -55,9 +55,10 @@ Rosaria plunges to the ground from mid-air, damaging opponents along the way and
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Ravaging Confession" %}
+</TabItem>
+
+<TabItem value="e" label="Ravaging Confession">
 Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo** DMG.  
 This ability cannot be used to travel behind opponents of a larger build.
 
@@ -77,9 +78,10 @@ This ability cannot be used to travel behind opponents of a larger build.
 
 **Notes**
 * Will only grant one stack of the Pale Flame artifact 4pc bonus per cast.
-{% endtab %}
 
-{% tab title="Rites of Termination" %}
+</TabItem>
+
+<TabItem value="q" label="Rites of Termination">
 Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid **Ice Lance** that strikes the ground. Both actions deal Cryo DMG.  
 While active, the **Ice Lance** periodically releases a blast of cold air, dealing **Cryo** DMG to surrounding opponents.
 
@@ -104,22 +106,25 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 | Ice Lance Poise Damage | 50 |
 | Ice Lance Impulse Type | 2 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Night Walk
 
 At night (18:00–6:00), increases the Movement SPD of your own party members by 10%.
 Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.
 
 * The passive does not work in the Serenitea Pot.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Regina Probationum
 
 When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT Rate increases by 12% for 5s.
@@ -131,9 +136,10 @@ When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosa
   * If Rosaria starts her skill behind an enemy, but that enemy turns around to face her before the two hits, she won't get the CRIT Rate bonus.  
   * For enemies who don’t have visual distinction between front and behind, Rosaria can still activate her A1 by hitting them from certain angles.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Shadow Samaritan
 
 Casting **Rites of Termination** increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.
@@ -142,13 +148,14 @@ CRIT Rate Bonus gained this way cannot exceed 15%.
 * The CRIT Rate shared by **Shadow Samaritan** can be stacked with external CRIT buffs that show up in a character's stat sheet
   * For example, the CRIT Rate shared by **Shadow Samaritan** stacks with both Hu Tao's A1 talent and Geo MC C1.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Unholy Revelation
 
 When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.
@@ -156,53 +163,60 @@ When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attac
 **Note**
 * Can trigger against shielded enemies
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Land Without Promise
 
 The duration of the **Ice Lance** created by **Rites of Termination** is increased by 4s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### The Wages of Sin
 
 Increases the Level of **Ravaging Confession** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Painful Grace
 
 **Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria.
 Can only be triggered once each time **Ravaging Confession** is cast.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Last Rites
 
 Increases the Level of **Rites of Termination** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Divine Retribution
 
 **Rites of Termination**'s attack decreases opponents' Physical RES by 20% for 10s.
 
 **Note**
 * This effect can also be triggered by the lance DoT.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Spear of the Church" %}
+<Tabs>
+<TabItem value="na" label="Spear of the Church">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -229,9 +243,9 @@ Maximum upgrade level is 15.
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ravaging Confession" %}
+<TabItem value="e" label="Ravaging Confession">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -240,9 +254,9 @@ Maximum upgrade level is 15.
 
 **Cooldown**: 6s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Rites of Termination" %}
+<TabItem value="q" label="Rites of Termination">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -254,8 +268,8 @@ Maximum upgrade level is 15.
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

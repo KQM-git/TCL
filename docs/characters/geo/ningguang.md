@@ -26,8 +26,8 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Sparkling Scatter" %}
+<Tabs>
+<TabItem value="na" label="Sparkling Scatter">
 **Normal Attack**  
 Shoots gems that deal Geo DMG.  
 Upon hit, grants Ningguang 1 **Star Jade**.
@@ -68,9 +68,9 @@ If Ningguang has any **Star Jades**, unleashing a Charged Attack will cause the 
 
 * Low/High Plunge applies Geo and has no ICD.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Jade Screen" %}
+<TabItem value="e" label="Jade Screen">
 Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence, dealing AoE Geo DMG.
 
 **Jade Screen**  
@@ -102,9 +102,9 @@ Ningguang creates a **Jade Screen** out of gold, obsidian and her great opulence
 | Health | 77.7% Max HP |
 | Duration | 30s |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starshatter" %}
+<TabItem value="q" label="Starshatter">
 Gathering a great number of gems, Ningguang scatters them all at once, sending six homing projectiles at her opponents that deal massive Geo DMG.
 
 If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen** will fire an additional six gem projectiles at the same time.
@@ -130,42 +130,50 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 * As long as Ningguang is within the maximum construct range from the **Jade Screen**, casting **Starshatter** will allow the **Jade Screen** to fire the additional gems, even if she teleports away.
 * The gems created by a shattered **Jade Screen** suffer heavily from the autotargeting system, causing them to move in patterns that usually result to 1 - 2 gems missing their targets. These gems usually hit the ground instead.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Trove of Marvelous Treasures
 
 Displays the location of nearby **ore veins used in forging** on the mini-map.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Backup Plan
 
 When Ningguang is in possession of **Star Jades**, her Charged Attack does not consume Stamina.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Strategic Reserve
 
 A character that passes through the **Jade Screen** will gain a 12% **Geo DMG Bonus** for 10s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Piercing Fragments
 
 When a Normal Attack hits, it deals AoE DMG.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Shock Effect
 
 When **Jade Screen** is shattered, its CD will reset.
@@ -174,43 +182,48 @@ Can occur once every 6s.
 * If Sacrificial Fragments procs on the same skill cast as **Shock Effect**, the 6 second cooldown for **Shock Effect** will still occur.
   * This can occur when **Jade Shield** is present on field and broken by casting E again.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Majesty Be the Array of Stars
 
 Increases the Level of **Starshatter** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Exquisite be the Jade, Outshining All Beneath
 
 **Jade Screen** increases nearby characters' Elemental RES by 10%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Invincible Be the Jade Screen
 
 Increases the Level of **Jade Screen** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Grandeur Be the Seven Stars
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Sparkling Scatter" %}
+<Tabs>
+<TabItem value="na" label="Sparkling Scatter">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -235,9 +248,9 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Jade Screen" %}
+<TabItem value="e" label="Jade Screen">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -246,9 +259,9 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 
 **Cooldown**: 12s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starshatter" %}
+<TabItem value="q" label="Starshatter">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -257,8 +270,8 @@ When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

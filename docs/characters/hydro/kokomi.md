@@ -26,8 +26,8 @@ description: The Divine Priestess of Watatsumi Island. All of the island's affai
 
 ## Attacks
 
-{% tabs %}
-{% tab title="The Shape of Water" %}
+<Tabs>
+<TabItem value="na" label="The Shape of Water">
 **Normal Attacks**  
 Performs up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.
 
@@ -68,8 +68,8 @@ Gathering the might of Hydro, Kokomi plunges towards the ground from mid-air, da
 
 * Kokomi's Low/High Plunge Attacks apply hydro and have no ICD.
 
-{% endtab %}
-{% tab title="Kurage&apos;s Oath" %}
+</TabItem>
+<TabItem value="e" label="Kurage&apos;s Oath">
 Summons a **"bake-kurage"** created from water that can heal her allies. Using this skill will apply the Wet status to Sangonomiya Kokomi. 
 
 **Bake-Kurage**  
@@ -103,8 +103,9 @@ Deals Hydro DMG to surrounding opponents and heal nearby active characters once 
 * In most cases, the damage bonus from **Ceremonial Garment** is a dynamic stat and thus does not get snapshot by **Bake-Kurage**. However, if Kokomi immediately switches after casting **Kurage's Oath**, the damage bonus from **Ceremonial Garment** is snapshot by **Bake-Kurage**.
 * Casting **Kurage's Oath**, even when interrupted, will still trigger Artifact set effects that trigger on Elemental Skill cast.
 * Tech: It is possible to snapshot the damage bonus from **Nereid's Ascension** for **Bake-Kurage** by casting E, being in Q, and swapping off before the first tick of the E. Using a simple application of this, it is possible to maintain 100% uptime on the Q bonus for E just by timing your rotations.
-{% endtab %}
-{% tab title="Nereid&apos;s Ascension" %}
+
+</TabItem>
+<TabItem value="q" label="Nereid&apos;s Ascension">
 The might of Watatsumi descends, dealing Hydro DMG to surrounding opponents, before robing Kokomi in a **Ceremonial Garment** made from the flowing waters of Sangonomiya. 
 
 **Ceremonial Garment**  
@@ -144,25 +145,29 @@ These effects will be cleared once Sangonomiya Kokomi leaves the field.
   * However, if Kokomi immediately switches after casting Q, the DMG bonus from **Ceremonial Garment** will be snapshotted by her E.
 * Kokomi cannot absorb pre-fed particles during her Elemental Burst animation.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive 1" %}
+<Tabs>
+<TabItem value="passive-1" label="Passive 1">
+
 ### Princess of Watatsumi
 
 Decreases swimming Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
-{% tab title="Passive 2" %}
+
+</TabItem>
+<TabItem value="passive-2" label="Passive 2">
+
 ### Flawless Stategy
 
 Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.
 
-{% endtab %}
-{% tab title="Ascension 1" %}
+</TabItem>
+<TabItem value="a1" label="Ascension 1">
+
 ### Tamanooya's Casket
 
 If Sangonomiya Kokomi's own **Bake-Kurage** is on the field when she uses **Nereid's Ascension**, the **Bake-Kurage**'s duration will be refreshed.
@@ -170,22 +175,24 @@ If Sangonomiya Kokomi's own **Bake-Kurage** is on the field when she uses **Nere
 * The **Bake-Kurage** Duration refresh from A1 does not refresh Heart of Depths 4pc passive, because it does not count as a "using an Elemental Skill"
 * The actual refresh timing requires the **Bake-Kurage** to be on field the frame her burst animation finishes, or else you will lose the refresh.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Song of Pearls
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.
 
 * The effects of **Song of Pearls** cannot get extended by buffering an attack right before her Burst duration ends.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### At Water's Edge
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a **swimming fish** to deal 30% of her Max HP as **Hydro DMG**.
@@ -193,9 +200,10 @@ This DMG is not considered Normal Attack DMG.
 
 * The **Swimming Fish** from **At Water's Edge** does not have ICD and isn't shared with her Normal Attack string.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### The Clouds Like Waves Rippling
 
 Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:
@@ -204,44 +212,49 @@ Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters
 
 * This effect is considered flat healing, it is not applied to the heal bonus part of calculations.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### The Moon, A Ship O'er the Seas
 
 Increases the Level of **Nereid's Ascension** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### The Moon Overlooks the Waters
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.
 This effect can occur once every 0.2s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### All Streams Flow to the Sea
 
 Increases the Level of **Kurage's Oath** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Sango Isshin
 
 While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sangonomiya Kokomi gains a 40% **Hydro DMG Bonus** for 4s when her Normal and Charged Attacks heal, or would heal, any party member with 80% or more HP.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="The Shape of Water" %}
+<Tabs>
+<TabItem value="na" label="The Shape of Water">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -266,9 +279,9 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kurage&apos;s Oath" %}
+<TabItem value="e" label="Kurage&apos;s Oath">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -278,9 +291,9 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 **Duration**: 12s  
 **Cooldown**: 20s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Nereid&apos;s Ascension" %}
+<TabItem value="q" label="Nereid&apos;s Ascension">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -294,8 +307,8 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 **Cooldown**: 18s  
 **Energy Cost**: 70
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

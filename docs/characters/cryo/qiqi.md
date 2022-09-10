@@ -25,8 +25,8 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Ancient Sword Art" %}
+<Tabs>
+<TabItem value="na" label="Ancient Sword Art">
 
 **Normal Attack**  
 Perform up to 5 rapid strikes.
@@ -58,9 +58,9 @@ Plunge from mid-air to strike the ground below dealing AoE DMG.
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Adeptus Art: Herald of Frost" %}
+<TabItem value="e" label="Adeptus Art: Herald of Frost">
 Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing Cryo DMG to surrounding opponents.  
 
 **Herald of Frost**  
@@ -88,9 +88,9 @@ Using the Icevein Talisman, Qiqi brings forth the **Herald of Frost**, dealing C
 | Herald of Frost Poise Damage | 80 |
 | Herald of Frost Impulse Type | Light, 600, 400 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Adeptus Art: Preserver of Fortune" %}
+<TabItem value="q" label="Adeptus Art: Preserver of Fortune">
 Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a **Fortune-Preserving Talisman** that deals **Cryo** DMG.
 
 **Fortune-Preserving Talisman**  
@@ -120,84 +120,98 @@ When opponents affected by this Talisman take DMG, the character that dealt this
   * The healing will occur as long as the attack hits, regardless dealing any DMG or not.
   * The healing has an ICD of approximately 1 second
   
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Former Life Memories
 
 Displays the location of nearby **resources unique to Liyue** on the mini-map.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Life-Prolonging Methods
 
 When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### A Glimpse Into Arcanum
 
 When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisman** to them for 6s. This effect can only occur once every 30s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Ascetics of Frost
 
 When the **Herald of Frost** hits an opponent marked by a **Fortune-Preserving Talisman**, Qiqi regenerates 2 Energy.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Frozen to the Bone
 
 Qiqi's Normal and Charge Attack DMG against opponents affected by **Cryo** is increased by 15%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Ascendant Praise
 
 Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Divine Suppression
 
 Targets marked by the **Fortune-Preserving Talisman** have their ATK decreased by 20%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Crimson Lotus Bloom
 
 Increases the Level of **Adeptus Art: Herald of Frost** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Rite of Resurrection
 
 Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.  
 This effect can only occur once every 15 mins.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Ancient Sword Art" %}
+<Tabs>
+<TabItem value="na" label="Ancient Sword Art">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -224,9 +238,9 @@ This effect can only occur once every 15 mins.
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Adeptus Art: Herald of Frost" %}
+<TabItem value="e" label="Adeptus Art: Herald of Frost">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -240,9 +254,9 @@ This effect can only occur once every 15 mins.
 **Duration**: 15s  
 **Cooldown**: 30s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Adeptus Art: Preserver of Fortune" %}
+<TabItem value="q" label="Adeptus Art: Preserver of Fortune">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -254,8 +268,8 @@ This effect can only occur once every 15 mins.
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

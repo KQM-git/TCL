@@ -25,8 +25,8 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Liutian Archery" %}
+<Tabs>
+<TabItem value="na" label="Liutian Archery">
 **Normal Attack**  
 Ganyu performs up to 6 consecutive shots with a bow.
 
@@ -69,9 +69,10 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Trail of the Qilin" %}
+</TabItem>
+
+<TabItem value="e" label="Trail of the Qilin">
 Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.
 
 **Ice Lotus**  
@@ -101,9 +102,10 @@ Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impur
 * **Ice Lotus** will generate particles on cast and when it expires or is destroyed.
 * Multiple **Ice Lotuses** can be spawned without C2 Ganyu when using cooldown reduction effects.
 * **Ice Lotus** will be placed mid-air when Ganyu is standing on a high platform.
-{% endtab %}
 
-{% tab title="Celestial Shower" %}
+</TabItem>
+
+<TabItem value="q" label="Celestial Shower">
 Coalesces atmospheric frost and snow to summon a **Sacred Cryo Pearl** that exorcises evil.
 During its ability duration, the **Sacred Cryo Pearl** will continuously rain down shards of ice, striking opponents within an AoE and dealing **Cryo** DMG.
 
@@ -133,41 +135,47 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 * Ganyu's icicles follow standard ICD (3-hit/2.5s).
 * Ganyu's icicles are more likely to hit targets that are larger in size.
 * If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Preserved for the Hunt
 
 Refunds 15% of the ore used when crafting Bow-type weapons.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Undivided Heart
 
 After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Arrows** and their resulting bloom effects is increased by 20% for 5s.
 
 * Undivided Heart will not apply to the first **Frostflake Bloom**, but will apply on consecutive shots.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 4" %}
+<TabItem value="a4" label="Ascension 4">
+
 ### Harmony Between Heaven and Earth
 
 **Celestial Shower** grants a 20% **Cryo DMG Bonus** to active party members in the AoE.
 
 * **Celestial Shower's** Cryo DMG bonus can apply to itself if Ganyu casts subsequent bursts off cooldown within the radius of the prior burst. This buff can be snapshotted.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Dew-Drinker
 
 Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' **Cryo RES** by 15% for 6s upon hit.
@@ -175,52 +183,59 @@ A hit also regenerates 2 Energy for Ganyu. This effect can only occur once per C
 
 **Notes**
 * Dew-Drinker's Cryo RES down will apply to the **Bloom** if the enemy is hit by the **Frostflake Arrow**.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### The Auspicious
 
 **Trail of the Qilin** gains 1 additional charge.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Cloud-Strider
 
 Increases the Level of **Celestial Shower** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Westward Sojourn
 
 Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.  
 Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.  
 The effect lingers for 3s after the opponent leaves the AoE.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### The Merciful
 
 Increases the Level of **Trail of the Qilin** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### The Clement
 
 Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30s to not require charging.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Liutian Archery" %}
+<Tabs>
+<TabItem value="na" label="Liutian Archery">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -250,9 +265,9 @@ Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Trail of the Qilin" %}
+<TabItem value="e" label="Trail of the Qilin">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -262,9 +277,9 @@ Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30
 **Duration**: 6s  
 **Cooldown**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Celestial Shower" %}
+<TabItem value="q" label="Celestial Shower">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -274,8 +289,8 @@ Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

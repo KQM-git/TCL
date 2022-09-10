@@ -27,8 +27,8 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Kamisato Art - Kabuki" %}
+<Tabs>
+<TabItem value="na" label="Kamisato Art - Kabuki">
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -68,9 +68,10 @@ Plunges from mid-air to strike the ground below, damaging enemies along the path
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Kamisato Art: Hyouka" %}
+</TabItem>
+
+<TabItem value="e" label="Kamisato Art: Hyouka">
 Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 
 | Type | Skill |
@@ -86,9 +87,10 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 | CD | 10s |
 | Poise Damage | 110 |
 | Impulse Type | 7 |
-{% endtab %}
 
-{% tab title="Kamisato Art: Senho" %}
+</TabItem>
+
+<TabItem value="alt" label="Kamisato Art: Senho">
 **Alternate Sprint**  
 Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.  
 
@@ -109,9 +111,10 @@ When she reappears, the following effects occur:
 * 1A Cryo is applied when Ayaka exits from her sprint.
 * This infusion causes Ayaka's attacks to apply 1A Cryo
 * Her Alternate Sprint has the same iframes as other characters' normal sprint.
-{% endtab %}
 
-{% tab title="Kamisato Art: Soumetsu" %}
+</TabItem>
+
+<TabItem value="q" label="Kamisato Art: Soumetsu">
 
 Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no To** that moves forward continuously.
 
@@ -146,44 +149,52 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 * **Kamisato Art: Soumetsu** deals 20 ticks of damage
   * 19 ticks of **Cutting DMG** and 1 final tick of **Bloom DMG**
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Fruits of Shinsa
 
 When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Amatsumi Kunitsumi Sanctification
 
 After using **Kamisato Art: Hyouka**, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Kanten Senmyou Blessing
 
 When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects:
 * Restores 10 Stamina
 * Gains 18% **Cryo DMG Bonus** for 10s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Snowswept Sakura
 
 When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Blizzard Blade Seki no To
 
 When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
@@ -196,45 +207,50 @@ When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostf
 * All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
 * The additional **Frostflake Seki no To** share ICD with the main storm.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Frostbloom Kamifubuki
 
 Increases the Level of **Kamisato Art: Soumetsu** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Ebb and Flow
 
 Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Blossom Cloud Irutsuki
 
 Increases the Level of **Kamisato Art: Hyouka** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Dance of Suigetsu
 
 Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.
 
 * This effect is additive with other sources of DMG%.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Kamisato Art - Kabuki" %}
+<Tabs>
+<TabItem value="na" label="Kamisato Art - Kabuki">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -261,9 +277,9 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kamisato Art: Hyouka" %}
+<TabItem value="e" label="Kamisato Art: Hyouka">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -271,9 +287,9 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 
 **Cooldown**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kamisato Art: Soumetsu" %}
+<TabItem value="q" label="Kamisato Art: Soumetsu">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -284,8 +300,8 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

@@ -27,8 +27,8 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Strike of Fortune" %}
+<Tabs>
+<TabItem value="na" label="Strike of Fortune">
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 
@@ -59,9 +59,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 117.46% | 25 | 2 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
-{% endtab %}
 
-{% tab title="Passion Overload" %} 
+</TabItem>
+
+<TabItem value="e" label="Passion Overload"> 
 Bennett puts all his fire and passion for adventuring into his sword. Results may vary based on how fired up he is...
 
 **Press**  
@@ -93,9 +94,10 @@ Bennett takes no damage from being launched.
 * Having knockback resistance will prevent the explosion from knocking back Bennett after casting a Level 2 Passion Overload.
 * When casting a Level 2 Passion Overload it will destroy one of the **Rain Swords** from Xingqiu's Elemental skill despite not dealing any damage.
 * Frame counts are done against Ruin Guards.
-{% endtab %}
 
-{% tab title="Fantastic Voyage" %}
+</TabItem>
+
+<TabItem value="q" label="Fantastic Voyage">
 Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration Field**.
 
 **Inspiration Field**  
@@ -133,25 +135,31 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 * The bonus ATK from **Inspiration Field** ONLY scales with Bennett's base attack.
 * When in coop with multiple Bennetts, the bonus ATK prioritizes the **Inspiration Field** that applied the bonus first.
   * This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### It Should Be Safe...
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Rekindle
 
 Decreases **Passion Overload**'s CD by 20%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Fearnaught
 
 Within the area created by **Fantastic Voyage**, **Passion Overload** takes on the following effects:
@@ -161,35 +169,39 @@ Within the area created by **Fantastic Voyage**, **Passion Overload** takes on t
 **Note**
 * This effect is tied to Bennett's Attack Bonus, not the field itself.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Grand Expectation
 
 **Fantastic Voyage**'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Impasse Conqueror
 
 When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Unstoppable Fervor
 
 Increases the Level of **Passion Overload** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Unexpected Odyssey
 
 Using a Normal Attack when executing the second attack of **Passion Overload**'s Charge Level 1 allows an additional attack to be performed.
@@ -208,17 +220,19 @@ This additional attack does 135% of the second attack's DMG.
 | Poise Damage | 100 |
 | Impulse Type | 6 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### True Explorer
 
 Increases the Level of **Fantastic Voyage** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Fire Ventures With Me
 
 Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s radius gain a 15% **Pyro DMG Bonus** and their weapons are infused with **Pyro**.
@@ -229,13 +243,14 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s ra
 * The buff does not stack in coop.  
 * The description of **Fire Ventures With Me** has a mistranslation. The 15% Pyro DMG Bonus applies to every character within its area of effect, regardless of weapon type.  
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Strike of Fortune" %}
+<Tabs>
+<TabItem value="na" label="Strike of Fortune">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -263,9 +278,9 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s ra
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Passion Overload" %}
+<TabItem value="e" label="Passion Overload">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -278,9 +293,9 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s ra
 
 **Cooldown**: 5.0/7.5/10.0s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Fantastic Voyage" %}
+<TabItem value="q" label="Fantastic Voyage">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -293,8 +308,8 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s ra
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

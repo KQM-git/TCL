@@ -38,8 +38,9 @@ All Hypostasis are immune to their own element.
 
 ## Hypostases
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
+
 ## Anemo Hypostasis - Beth
 
 ![](/assets/enemy/bosses/Enemy_Anemo_Hypostasis_Icon.webp)
@@ -71,9 +72,11 @@ Code name: Beth. A high-purity Anemo entity.Elemental hypostases are life forms 
  * When HP is low (approx. 5%), moves to the center of the arena and forms 4 large floating Anemo Orbs along with several updrafts. After some time , absorbs any Anemo Orbs that remain, healing a large portion of its HP for each orb absorbed. 
   * If an orb is absorbed by the player it will not respawn the next time the Hypostasis uses Second Wind, and if all orbs are absorbed by the player it will become unable to reuse this ability and unable to heal.
   * The boss can't be killed without resolving this attack first.
-{% endtab %}
 
-{% tab title="Cryo" %}
+</TabItem>
+
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Hypostasis - Daleth
 
 ![](/assets/enemy/bosses/Enemy_Cryo_Hypostasis_Icon.webp)
@@ -104,9 +107,11 @@ Code name: Daleth. A high-purity Cryo entity.Research suggests that there are su
   * Players are able to use Charged Attacks against the fallen Frostfruits to destroy the shield and expose the core.
   * The fallen Frostfruits will be placed at different distances depending on how far away the player is from the boss.
   * The boss can't be killed without resolving this attack first.
-{% endtab %}
 
-{% tab title="Electro" %}
+</TabItem>
+
+<TabItem value="electro" label="Electro">
+
 ## Electro Hypostasis - Aleph
 
 ![](/assets/enemy/bosses/Enemy_Electro_Hypostasis_Icon.webp)
@@ -143,9 +148,10 @@ Code name: Aleph. A high-purity Electro entity.Elemental hypostases are the high
   * When the player destroys all three Electro Prisms, the Electro Hypostasis dies immediately.
   * The boss can't be killed without resolving this attack first.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Geo" %}
+<TabItem value="geo" label="Geo">
+
 ## Geo Hypostasis - Gimel
 
 ![](/assets/enemy/bosses/Enemy_Geo_Hypostasis_Icon.webp)
@@ -181,9 +187,10 @@ Code name: Gimel. A high-purity Geo entity.Elemental hypostases are ultra-compac
   * If if this move is completed, the Hypostasis will resummon 4 pillars in a triangle formation.
   * The boss can't be killed without resolving this attack first.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Pyro" %}
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro Hypostasis - Ayin
 
 ![](/assets/enemy/bosses/Enemy_Pyro_Hypostasis_Icon.webp)
@@ -222,9 +229,10 @@ While in Extinguished State:
   * The Fire Seeds can be destroyed using elemental aura application.
 * Like all other Hypostases, it has a Clap Move. Quickly flies next to the player and forms a large wall, which folds in a "clapping" motion very quickly, dealing damage in an area in front of the wall.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Hydro" %}
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Hypostasis - He
 
 ![](/assets/enemy/bosses/Enemy_Hydro_Hypostasis_Icon.webp)
@@ -259,5 +267,5 @@ Hypostases have strong rejection properties, and will mercilessly expel any that
   * Droplets that are defeated will not reappear the next time the boss uses this ability.
   * The boss can't be killed without resolving this attack first.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

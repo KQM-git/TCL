@@ -27,8 +27,8 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Garyuu Bladework" %}
+<Tabs>
+<TabItem value="na" label="Garyuu Bladework">
 
 **Normal Attacks**  
 Perform up to 5 rapid strikes.
@@ -64,9 +64,9 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Low Plunge DMG | 300.63% | 100 | 4 |
 | High Plunge DMG | 375.50% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Chihayaburu" %}
+<TabItem value="e" label="Chihayaburu">
 
 Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Kazuha's current position before launching opponents within the AoE, dealing Anemo DMG and lifting Kazuha into the air on a rushing gust of wind. Within 10s of remaining airborne after casting **Chihayaburu**, Kazuha can unleash a powerful Plunging Attack known as **Midare Ranzan**. 
 
@@ -117,9 +117,9 @@ When a Plunging Attack is performed using the effects of the Elemental Skill **C
 * **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
 * **Midare Ranzan** can be considered as an Anemo Infusion which cannot be overridden by other Infusions.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kazuha Slash" %}
+<TabItem value="q" label="Kazuha Slash">
 The signature technique of Kazuha's self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing AoE Anemo DMG.  
 The blade's passage will leave behind a field named "**Autumn Whirlwind**" that periodically deals AoE Anemo DMG to opponents within its range. 
 
@@ -145,20 +145,23 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 
 * Absorption priority: Pyro > Hydro > Electro > Cryo  
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Cloud Strider
 
 Decreases sprinting Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Soumon Swordsmanship
 
 If **Chihayaburu** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when cast, this **Chihayaburu** will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.
@@ -174,9 +177,11 @@ Elemental Absorption may only occur once per use of **Chihayaburu**.
 **Notes**
 * The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl. 
 * Absorption priority: Pyro > Hydro > Electro > Cryo   
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Poetics of Fuubutsu
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
@@ -185,21 +190,24 @@ Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members 
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
 * Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Scarlet Hills
 
 Decreases **Chihayaburu**'s CD by 10%.
 Using **Kazuha Slash** resets the CD of **Chihayaburu**.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Yamaarashi Tailwind
 
 The **Autumn Whirlwind** field created by **Kazuha Slash** has the following effects:  
@@ -211,17 +219,19 @@ The Elemental Mastery-increasing effects of this Constellation do not stack.
 **Notes**
 * Sucrose's A4 shares 20% of EM from this Constellation. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Maple Monogatari
 
 Increases the Level of **Chihayaburu** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Oozora Genpou
 
 When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:
@@ -231,29 +241,33 @@ When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effect
 **Notes**
 * The energy gained while gliding is not affected by energy recharge.  
   
-{% endtab %}
 
-{% tab title="C5" %}
+</TabItem>
+
+<TabItem value="c5" label="C5">
+
 ### Wisdom of Bansei
 
 Increases the Level of **Kazuha Slash** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Crimson Momiji
 
 After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%.
 * The Anemo infusion can be overriden by other infusion effects such as Bennett's C6 Inspiration Field.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Garyuu Bladework" %}
+<Tabs>
+<TabItem value="na" label="Garyuu Bladework">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -282,9 +296,9 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Ane
 | Low Plunge DMG | 163.63% | 176.95% | 190.27% | 209.30% | 222.62% | 237.84% | 258.77% | 279.70% | 300.63% | 323.46% | 346.29% |
 | High Plunge DMG | 204.39% | 221.02% | 237.66% | 261.42% | 278.06% | 297.07% | 323.21% | 349.36% | 375.50% | 404.02% | 432.54% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Chihayaburu" %}
+<TabItem value="e" label="Chihayaburu">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -294,9 +308,9 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Ane
 **Press Cooldown:** 6s  
 **Hold Cooldown:** 9s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Kazuha Slash" %}
+<TabItem value="q" label="Kazuha Slash">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -308,8 +322,8 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Ane
 **Duration**: 8s  
 **Cooldown**: 15s
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

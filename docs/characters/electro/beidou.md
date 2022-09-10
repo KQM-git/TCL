@@ -28,8 +28,8 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Oceanborne" %}
+<Tabs>
+<TabItem value="na" label="Oceanborne">
 **Normal Attacks**  
 Beidou performs up to 5 consecutive attacks.
 
@@ -68,9 +68,10 @@ Plunges from mid-air to strike the ground, damaging opponents along the path and
 | Plunge Impact | 137.03% | 35 | 2 |
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Tidecaller" %}
+</TabItem>
+
+<TabItem value="e" label="Tidecaller">
 Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.
 
 **Press**  
@@ -118,9 +119,9 @@ The shield possesses the following properties:
 | 1 Stack | 478.72% | 3 |
 | 2 Stacks / Perfect Parry  | 750.72% | 4 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stormbreaker" %}
+<TabItem value="q" label="Stormbreaker">
 Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
 
 **Thunderbeast's Targe**  
@@ -159,62 +160,72 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 * An extensive collection of proc counts for **Stormbreaker** using different attack strings on different characters can be found [here.](../../evidence/characters/electro/beidou.md#beidou-proc-counts)
 * At high ping, Beidou can buffer a Normal Attack hit before activating Q to get a **lightning discharge**.  
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Conqueror of Tides
 
 Decreases swimming Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Retribution
 
 Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Lightning Storm
 
 Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus: 
 * DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.
 * Greatly reduced delay before unleashing Charged Attacks.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Sea Beast's Scourge
 
 When **Stormbreaker** is used:  
 Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.  
 This shield absorbs **Electro DMG** 250% more effectively.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Upon the Turbulent Sea, the Thunder Arises
 
 **Stormbreaker**'s arc lightning can jump to 2 additional targets.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Summoner of Storm
 
 Increases the Level of **Tidecaller** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Stunning Revenge
 
 Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s.
@@ -235,17 +246,19 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 * C4 can be activated by certain teammate's hit, e.g., Kujou Sara's Tengou Juurai.
 * C4 is activated on hit, regardless taking damage or not. So it can be activated through shields, either her own or allies'.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Crimson Tidewalker
 
 Increases the Level of **Stormbreaker** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Bane of Evil
 
 During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.
@@ -255,13 +268,14 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 * The initial cast of Beidou's Burst doesn't benefit from her C6.
 * The debuff lingers for about 2 seconds after the Burst ends.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Oceanborne" %}
+<Tabs>
+<TabItem value="na" label="Oceanborne">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -290,9 +304,9 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 | Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Tidecaller" %}
+<TabItem value="e" label="Tidecaller">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -303,9 +317,9 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 
 **Cooldown**: 7.5s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stormbreaker" %}
+<TabItem value="q" label="Stormbreaker">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -317,8 +331,8 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

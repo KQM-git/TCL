@@ -26,8 +26,8 @@ description:  A traveler from another world who had their only kin taken away, f
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Foreign Rockblade Lumine" %}
+<Tabs>
+<TabItem value="na-lumine" label="Foreign Rockblade Lumine">
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -61,9 +61,9 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Foreign Rockblade Aether" %}
+<TabItem value="na-aether" label="Foreign Rockblade Aether">
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -97,9 +97,9 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starfell Sword" %}
+<TabItem value="e" label="Starfell Sword">
 You disgorge a meteorite from the depths of the earth, dealing AoE Geo DMG.  
 The meteorite is considered a Geo Construct, and can be climbed or used to block attacks.
 
@@ -127,9 +127,9 @@ This skill's positioning may be adjusted.
 * **Starfell Sword** can be manually detonated by over-capping the Geo construct limit (3 constructs).
 * See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#rockstep-tech) for different techniques on using the **meteorite**.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Wake of Earth" %}
+<TabItem value="q" label="Wake of Earth">
 Energizing the Geo deep underground, you set off expanding shockwaves.  
 Launches surrounding opponents back and deals AoE Geo DMG.  
 A stone wall is erected at the edges of the shockwave.  
@@ -158,25 +158,28 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 * These walls do not count towards the construct limit. They greatly improve Zhongli's resonance.
 * The hitbox can be displaced by certain enemy attacks independently from the visuals of the walls.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
 
 The Traveller has no passive talent.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Ascension 1" %}
+<TabItem value="a1" label="Ascension 1">
+
 ### Shattered Darkrock
 
 Reduces **Starfell Sword**'s CD by 2s.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Frenzied Rockslide
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as **AoE Geo DMG**.
@@ -189,13 +192,14 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 * This allows Geo Traveler to activate 3 stacks of Mistsplitter Reforged without requiring infusion.
 * This instance of damage happens before N5 for Aether and after N5 for Lumine.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Invincible Stonewall
 
 Party members within the radius of **Wake of Earth** have their CRIT Rate increased by 10% and have increased resistance against interruption.
@@ -205,9 +209,10 @@ Party members within the radius of **Wake of Earth** have their CRIT Rate increa
 * The buff is not applied immediately when switching characters, instead it ticks once every ~1s and lingers for ~2s.
 * The buff has a vertical limit. When characters like Xiao jump from a construct such as Albedo's Solar Isotoma, they will no longer recieve the buff. See this [Vault Entry](../../evidence/characters/geo/traveler-geo.md#gmc-wake-of-earth-interactions) for visuals and further explanation.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Rockcore Meltdown
 
 When the meteorite created by **Starfell Sword** is destroyed, it will also explode, dealing additional **AoE Geo DMG** equal to the amount of damage dealt by Starfell Sword.
@@ -219,17 +224,19 @@ When the meteorite created by **Starfell Sword** is destroyed, it will also expl
 * If a **meteorite** is destroyed immediately after summoning this will not activate.
 * **Rockcore Meltdown** damage is considered Elemental Skill damage.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Will of the Rock
 
 Increases the Level of **Wake of Earth** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Reaction Force
 
 The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every opponent hit.
@@ -237,29 +244,32 @@ A maximum of 25 Energy can be regenerated in this manner at any one time.
 
 * Only applies to the Traveler.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Meteorite Impact
 
 Increases the Level of **Starfell Sword** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Everlasting Boulder
 
 The barrier created by **Wake of Earth** lasts 5s longer.  
 The meteorite created by **Starfell Sword** lasts 10s longer.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Foreign Rockblade" %}
+<Tabs>
+<TabItem value="na" label="Foreign Rockblade">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -287,9 +297,9 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 | Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
 | High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Starfell Sword" %}
+<TabItem value="e" label="Starfell Sword">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -298,9 +308,9 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 **Meteorite Duration**: 30s  
 **Cooldown**: 8s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Wake of Earth" %}
+<TabItem value="q" label="Wake of Earth">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -310,8 +320,8 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

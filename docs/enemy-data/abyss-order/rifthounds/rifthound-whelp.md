@@ -41,8 +41,9 @@ None.
 
 ## Rifthound Whelps
 
-{% tabs %}
-{% tab title="Geo" %}
+<Tabs>
+<TabItem value="geo" label="Geo">
+
 ## Rockfond Rifthound Whelp
 
 They follow the encroaching abyss to devour the elements. Fortunately, there are few of them left now in this world.
@@ -58,9 +59,10 @@ They follow the encroaching abyss to devour the elements. Fortunately, there are
 * If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
+
 ## Thundercraven Rifthound Whelp
 
 In times long gone, when giant monstrous beasts descended, large swarms of these hounds would go before them to deliquesce the borders of the world and open the way.
@@ -76,5 +78,5 @@ In times long gone, when giant monstrous beasts descended, large swarms of these
 * If the player is far away, they will charge a ball of energy on their tails and launch it at the player.
 * The Rifthound dive bombs the player in a manner similar to the Thunder Manifestation.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>

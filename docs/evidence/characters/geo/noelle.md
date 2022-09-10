@@ -27,8 +27,8 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 * [N1P with anemo res and Jean C2](https://www.youtube.com/watch?v=VFejX07qxo4)
 * [N3D with anemo res and Jean C2](https://www.youtube.com/watch?v=RuxRLdJBPHI)
 
-{% tabs %}
-{% tab title="TLDR" %}
+<Tabs>
+<TabItem value="tldr" label="TLDR">
 **With Anemo Resonance**
 
 * N1 + plunge spam = 207.36% MV/s
@@ -40,9 +40,9 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 * N3 Sprint cancel   = 162.66% MV/s  \(WITH Jean C2\)
 * N3 + plunge is:  187.93 MV/s \(also with Jean C2\)
 
-{% endtab %}
+</TabItem>
 
-{% tab title="DS: Anemo Res Only" %}
+<TabItem value="ds" label="DS: Anemo Res Only">
 **First String**
 
 * start of 1st N1:  0:25 \(frame when sword is off her back\)
@@ -88,9 +88,9 @@ _An increase of 35.4% DPS._
 * 2-1 = 97
 * 3-2 = 93
 
-{% endtab %}
+</TabItem>
 
-{% tab title="N3D: Jean C2" %}
+<TabItem value="n3d" label="N3D: Jean C2">
 **First String**
 
 * start of 1st N1:  5:27
@@ -111,9 +111,9 @@ _An increase of 35.4% DPS._
 * Assume N3D = 128 frame execution with Jean C2: 347.01 / 128 = 2.711 x 60 = 162.66% 
 * N3D with Jean C2 = 162.66% MV/s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="DS: Jean C2 + Anemo Res" %}
+<TabItem value="ds2" label="DS: Jean C2 + Anemo Res">
 Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind of fck'd up here, I shouldnt be using Anemo res. Thankfully the extra 10% move speed shouldn't mess up results here.
 
 **First String**
@@ -161,8 +161,8 @@ _An increase in DPS of 37.5%._
 
 _An increase in DPS of 27.4%_
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 **Summary:**
 
@@ -232,8 +232,8 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Evidence:** [https://youtu.be/GvIoAdmNJUg](https://youtu.be/GvIoAdmNJUg) \(credits to JonahFarc\#7056\)
 
-{% tabs %}
-{% tab title="Calculations" %}
+<Tabs>
+<TabItem value="calculations" label="Calculations">
 **Expected damage before C2 using SS:**
 
 ```python
@@ -258,9 +258,9 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 ((191 + 510) + (490)) × (1.15) × (1 + 0.35× 0.509 × (1 - 0.7) × 1.834 = 517.82
 ```
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Stats" %}
+<TabItem value="stats" label="Stats">
 **Noelle stats:**
 
 * Level 90  
@@ -275,8 +275,8 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 * 70% physical res
 * \(90 + 100\) / \(90 + 83 + 200\) = 0.509 defense multiplier
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 **Significance:** With SS and no other dmg% sources, C2 increases spin damage by 11.11%. With other dmg% sources, this value will only get lower. At AA lv10, this means a full spin with dash cancel does \(190.67 × 1.111\) = 211.83 mv/s, and a full spin jump cancel, at \(183.26 × 1.111\) = 203.61 mv/s. [Frame data was taken from Artesians doc](https://docs.google.com/spreadsheets/d/1PN0WgqENUfV8i5hnrz1BOEU56fk7m8FYlFXzFzrsS3k/edit#gid=52721192).
 

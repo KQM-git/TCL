@@ -25,8 +25,8 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Dance on Fire" %}
+<Tabs>
+<TabItem value="na" label="Dance on Fire">
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 
@@ -57,9 +57,10 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Plunge DMG | 137.03% | 35 | 2 |
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
-{% endtab %}
 
-{% tab title="Sweeping Fervor" %}
+</TabItem>
+
+<TabItem value="e" label="Sweeping Fervor">
 Xinyan brandishes her instrument, dealing Pyro DMG on nearby opponents, forming a shield made out of her audience's passion.  
 The shield's DMG Absorption scales based on Xinyan's DEF and on the number of opponents hit.
 
@@ -95,9 +96,9 @@ The shield's DMG Absorption scales based on Xinyan's DEF and on the number of op
 * **Rave** will deal Pyro DMG to nearby opponents once every 2 seconds for a total of 6 hits if the shield is active for the full duration.
 * A higher level shield can be overwritten by a lower level one when using Sacrificial greatsword or casting the shield while already having one from C2 burst.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Riff Revolution" %}
+<TabItem value="q" label="Riff Revolution">
 Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd.
 The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby opponents.
 
@@ -118,37 +119,44 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 | Poise Damage | 300 | 50 |
 | Impulse Type | 3 | 1st: Air, 0, 600 <br/> Rest: 2 |
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### A Rad Recipe
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### "The Show Goes On, Even Without an Audience..."
 
 Decreases the number of opponents **Sweeping Fervor** must hit to trigger each level of shielding.
 * Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
 * Shield Level 3: Rave requirement reduced to 2 opponents hit or more.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### "...Now That's Rock 'N' Roll!"
 
 Characters shielded by **Sweeping Fervor** deal 15% increased Physical DMG.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Fatal Acceleration
 
 Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.
@@ -156,9 +164,11 @@ Can only occur once every 5s.
 
 **Note**
 * Can trigger on shielded enemies.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Impromptu Opening
 
 **Riff Revolution**'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
@@ -166,45 +176,50 @@ Can only occur once every 5s.
 * The shield created can proc Sacrificial Greatsword's passive
 * The shield created may trigger extra pulses of Pyro DMG to nearby opponents. The number of extra pulses depends on the client's frame rate.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Double-Stop
 
 Increases the Level of **Sweeping Fervor** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Wildfire Rhythm
 
 **Sweeping Fervor**'s swing DMG decreases opponent's Physical RES by 15% for 12s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Screamin' for an Encore
 
 Increases the Level of **Riff Revolution** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Rockin' in a Flaming World
 
 Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.
 
 * Her C6 is added into the stats page as flat ATK.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Dance on Fire" %}
+<Tabs>
+<TabItem value="na" label="Dance on Fire">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -232,9 +247,9 @@ Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additional
 | Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
 | High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Sweeping Fervor" %}
+<TabItem value="e" label="Sweeping Fervor">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -247,9 +262,9 @@ Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additional
 **Shield Duration**: 12s  
 **Cooldown**: 18s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Riff Revolution" %}
+<TabItem value="q" label="Riff Revolution">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -260,8 +275,8 @@ Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additional
 **Cooldown**: 15s  
 **Energy Cost**: 60
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

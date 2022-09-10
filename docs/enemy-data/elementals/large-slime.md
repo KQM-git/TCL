@@ -47,8 +47,9 @@ All slimes are immune to their respective element.
 
 ## Large Slimes
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
+
 ## Anemo Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Anemo_Slime_Icon.webp)
@@ -63,9 +64,11 @@ Anemo Slimes at any level will instantly die if they take any damage during thei
 
 * If the player is in melee range, it will momentarily inflate to hit the target, dealing Anemo damage.
 * If its' target is outside melee range, it will first wobble to indicate the start of its attack sequence, then jump into the air where it will inflate a second after reaching the max height of its jump. Shortly after it will start a barrage of Anemo projectiles at the players, one at a time, five projectiles in total. These projectiles deal Anemo damage and can interrupt player actions. If the slime takes any damage while in this state, it will deflate similar to poking a balloon, defeating it. It will also push the player away if too close, but not dealing any damage in the process.
-{% endtab %}
 
-{% tab title="Cryo" %}
+</TabItem>
+
+<TabItem value="cryo" label="Cryo">
+
 ## Cryo Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Cryo_Slime_Icon.webp)
@@ -79,9 +82,11 @@ Competitors once spread malicious rumors that the Dawn Winery used Cryo Slimes t
   * Jump high into the air and falls on the player's position after a short delay, stomping on the landing zone.
 After the shield is destroyed it will try to retreat, slowly hopping away, and use the ice mist attack against the player, dealing Cryo damage over time. After it creates the mist cloud, it will retreat into the middle of it, waiting for the armor to regenerate.
 * The Cryo armor protecting the Cryo slime will take increased damage from blunt attacks.
-{% endtab %}
 
-{% tab title="Dendro" %}
+</TabItem>
+
+<TabItem value="dendro" label="Dendro">
+
 ## Dendro Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Dendro_Slime_Icon.webp)
@@ -95,9 +100,11 @@ After being forced outside the ground, it will attack in one of the following wa
 * If the player is in melee range, it will use an AoE poison field around itself which will deal Dendro damage over time, but will not affect the player with Dendro (this is possibly a bug).
 * If the player is outside melee range, it will use a ranged attack, shooting seeds at the player which will pop into lingering toxic clouds, dealing Dendro damage over time and inflicting the target with Dendro. If the inflicted target comes in contact with Pyro shortly after exposure, it will cause an explosion.
 * It will periodically throw seeds which will grow into small Dendro slimes. These summoned slimes do not yield any drops and will disappear after the parent slime is killed. 3 slimes can be spawned with one such attack, but it is able to use it repeatedly for a total of 6 summoned Dendro slimes.
-{% endtab %}
 
-{% tab title="Electro" %}
+</TabItem>
+
+<TabItem value="electro" label="Electro">
+
 ## Electro Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Electro_Slime_Icon.webp)
@@ -115,9 +122,9 @@ Electro Slimes can undergo mutations to become bright yellow. Due to the abundan
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
 * Creates a small field of electricity around the player.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Geo" %}
+<TabItem value="geo" label="Geo">
 
 ## Geo Slime
 
@@ -133,9 +140,11 @@ Generally speaking, the crust of the earth is filled with Geo energy. Geo Slimes
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
 * When their armor is destroyed, they will withdraw, and only attack by jumping into the air and stomping down on the target dealing normal damage. The armor will regenerate after some time.
 * The Geo armor protecting the Geo slime will take increased damage from blunt attacks.
-{% endtab %}
 
-{% tab title="Hydro" %}
+</TabItem>
+
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Hydro_Slime_Icon.webp)
@@ -146,9 +155,11 @@ Legend has it that some people would use Hydro Slimes as an emergency water sour
 
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
 * Throws a bubble in a high arc at the target, if hit by the bubble it will immobilize it. This attack can hit both the player or other mobs.
-{% endtab %}
 
-{% tab title="Pyro" %}
+</TabItem>
+
+<TabItem value="pyro" label="Pyro">
+
 ## Pyro Slime
 
 ![](/assets/enemy/elemental/Enemy_Large_Pyro_Slime_Icon.webp)
@@ -163,5 +174,6 @@ While ignited it will attack in the following ways:
 * Jump high into the air, then land at the player's location after a short delay, stomping on the landing spot.
 If it dies while affected by Pyro, a few seconds later, it will explode dealing AoE Pyro damage.  
 If extinguished, it will retreat and re-ignite after some time.  
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>

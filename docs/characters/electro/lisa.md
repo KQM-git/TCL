@@ -27,8 +27,8 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Lightning Touch" %}
+<Tabs>
+<TabItem value="na" label="Lightning Touch">
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 
@@ -59,9 +59,9 @@ Gathering the might of Electro, Lisa plunges towards the ground from mid-air, da
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Violet Arc" %}
+<TabItem value="e" label="Violet Arc">
 Channels the power of lightning to sweep bothersome matters away.
 
 **Press**  
@@ -100,9 +100,9 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
   * If Violet Arc connects and causes Overload or Superconduct while in a Pyro or Cryo-environment \(the most common ones being Burning Grass and Frozen Water\), the direct hit mob will obtain 3 **Conductive** stacks and will radiate 2 stacks to nearby opponents. 
   * If 2 opponents are nearby and only one is afflicted with a status, if the afflicted mob is hit, both enemies will gain 3 stacks of **Conductive**
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lightning Rose" %}
+<TabItem value="q" label="Lightning Rose">
 Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.  
 The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
 
@@ -142,36 +142,42 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
   * The Summon DMG cannot deal damage to enemies whose hurtboxes are below or above near the suspended plane of which **Lightning Rose** was casted on.
 * More than one **Lightning Roses** can co-exist with sufficient cooldown reduction.
 
-
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### General Pharmaceutics
 
 When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Induced Aftershock
 
 Hits by Charged Attacks apply **Violet Arc**'s **Conductive** status to opponents.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Static Electricity Field
 
 Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Infinite Circuit
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.  
@@ -180,26 +186,29 @@ A maximum of 10 Energy can be regenerated in this manner at any one time.
 * This only applies to the Hold E variant.
 * This summons a single special particle that only provides energy if Lisa is on field. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Electromagnetic Field
 
 Holding **Violet Arc** has the following effects:
 * Increases DEF by 25%.
 * Increases Lisa's resistance to interruption.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Resonant Thunder
 
 Increases the Level of **Lightning Rose** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Plasma Eruption
 
 Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
@@ -208,17 +217,19 @@ Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
   * For more details, see the [full entry](../../evidence/characters/electro/lisa.md\#c4-description-and-actual-effects-are-miscommunicated) in Lisa's Evidence Vault.  
 * In tight enemy groups, **Plasma Eruption** can quadratically increase the damage of **Lightning Rose** due to the AoE of each lightning bolt released.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Electrocute
 
 Increases the Level of **Violet Arc** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Pulsating Witch
 
 When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive** status onto nearby opponents.
@@ -227,13 +238,14 @@ This effect can only occur once every 5s.
 * The pulse visual effect and cooldown are not initiated when not in combat, but will still apply **Conductive** stacks nearby.
 * The radius of this effect is 5m and its height is seemingly infinite, regardless of whether or not Lisa is in combat.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Lightning Touch" %}
+<Tabs>
+<TabItem value="na" label="Lightning Touch">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -259,9 +271,9 @@ This effect can only occur once every 5s.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Violet Arc" %}
+<TabItem value="e" label="Violet Arc">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -274,9 +286,9 @@ This effect can only occur once every 5s.
 **Press Cooldown**: 1s  
 **Holding Cooldown**: 16s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Lightning Rose" %}
+<TabItem value="q" label="Lightning Rose">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -286,8 +298,8 @@ This effect can only occur once every 5s.
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

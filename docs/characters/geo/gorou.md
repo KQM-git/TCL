@@ -21,8 +21,8 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Ripping Fang Fletching" %}
+<Tabs>
+<TabItem value="na" label="Ripping Fang Fletching">
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 
@@ -55,9 +55,10 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Inuzaka All-Round Defense" %}  
+</TabItem>
+
+<TabItem value="e" label="Inuzaka All-Round Defense">  
 Deals AoE Geo DMG and sets up a **General's War Banner**.  
 
 **General's War Banner**  
@@ -94,9 +95,9 @@ Adjust the location of the skill.
 * There is a delay before applying the buff effects of **General's War Banner**.
 * The **General's War Banner** is not affected by gravity. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Juuga: Forward Unto Victory" %}
+<TabItem value="q" label="Juuga: Forward Unto Victory">
 Displaying his valor as a general, Gorou deals AoE Geo DMG and creates a field known as General's Glory to embolden his comrades.
 
 **General's Glory**  
@@ -129,39 +130,46 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 * The initial hit of **Juuga: Forward Unto Victory** does not benefit from its own buff.
 * The initial hit of **Juuga: Forward Unto Victory** benefits from A1: **Heedless of the Wind and Weather**.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Seeker of Shinies
 
 Displays the location of nearby **resources unique to Inazuma** on the mini-map.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Heedless of the Wind and Weather
 
 After using **Juuga: Forward Unto Victory**, all nearby party members' DEF is increased by 25% for 12s.
 
 * The DEF increase of **Heedless of the Wind and Weather** only scales off of the base defense stat. 
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### A Favor Repaid
 
 Gorou receives the following DMG Bonuses to his attacks based on his DEF:
 * **Inuzaka All-Round Defense**: Skill DMG increased by 156% of DEF
 * **Juuga: Forward Unto Victory**: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### Rushing Hound: Swift as the Wind
 
 When characters (other than Gorou) within the AoE of Gorou's **General's War Banner** or **General's Glory** deal Geo DMG to opponents, the CD of Gorou's **Inuzaka All-Round Defense** is decreased by 2s.
@@ -169,42 +177,47 @@ This effect can occur once every 10s.
 
 * The effect of **Rushing Hound: Swift as the Wind** can be snapshotted along with the buffs of **General's War Banner**. 
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C2" %}
+<TabItem value="c2" label="C2">
+
 ### Sitting Hound: Steady as a Clock
 
 While **General's Glory** is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. 
 This effect can occur once every 0.1s. Max extension is 3s.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C3" %}
+<TabItem value="c3" label="C3">
+
 ### Mauling Hound: Fierce as Fire
 
 Increases the Level of **Inuzaka All-Round Defense** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### Lapping Hound: Warm as Water
 
 When **General's Glory** is in the "**Impregnable**" or "**Crunch**" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.
 
 * The healing is dynamic and does not snapshot Gorou's DEF on cast.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### Striking Hound: Thunderous Force
 
 Increases the Level of **Juuga: Forward Unto Victory** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Valiant Hound: Mountainous Fealty
 
 For 12s after using **Inuzaka All-Round Defense** or **Juuga: Forward Unto Victory**, increases the CRIT DMG of all nearby party members' **Geo DMG** based on the buff level of the skill's field at the time of use:
@@ -215,13 +228,15 @@ For 12s after using **Inuzaka All-Round Defense** or **Juuga: Forward Unto Victo
 This effect cannot stack and will take reference from the last instance of the effect that is triggered.
 
 * The CRIT DMG increase does not snapshot.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Ripping Fang Fletching" %}
+<Tabs>
+<TabItem value="na" label="Ripping Fang Fletching">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -247,9 +262,9 @@ This effect cannot stack and will take reference from the last instance of the e
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Inuzaka All-Round Defense" %}
+<TabItem value="e" label="Inuzaka All-Round Defense">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -260,9 +275,9 @@ This effect cannot stack and will take reference from the last instance of the e
 **Duration**: 10s  
 **Cooldown**: 10s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Juuga: Forward Unto Victory" %}
+<TabItem value="q" label="Juuga: Forward Unto Victory">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -273,8 +288,8 @@ This effect cannot stack and will take reference from the last instance of the e
 **Cooldown**: 20s  
 **Energy Cost**: 80
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

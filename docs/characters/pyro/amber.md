@@ -26,8 +26,8 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 ## Attacks
 
-{% tabs %}
-{% tab title="Sharpshooter" %}
+<Tabs>
+<TabItem value="na" label="Sharpshooter">
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 
@@ -59,9 +59,10 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Plunge DMG | 104.41% | 10 | 2 |
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
-{% endtab %}
 
-{% tab title="Explosive Puppet" %}
+</TabItem>
+
+<TabItem value="e" label="Explosive Puppet">
 The ever-reliable Baron Bunny takes the stage.
 
 **Baron Bunny**  
@@ -101,9 +102,10 @@ The longer the button is held, the further the throw.
 * If **Baron Bunny** doesn't land on the ground within 10s of being casted, it disappears.
 * **Baron Bunny** can take collision damage from characters and from falling. Collision damage can occur from dashing into the bunny or plunging into it.
 * **Baron Bunny** has a hitbox that players can hit with **Normal Attacks**. Some characters such as **Xingqiu** can hit this hitbox easily, while other characters struggle to hit it consistently. This can be used for Dragonstrikes.
-{% endtab %}
 
-{% tab title="Fiery Rain" %}
+</TabItem>
+
+<TabItem value="q" label="Fiery Rain">
 Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
 | Effect | Burst |
@@ -131,36 +133,44 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 * 10 waves cover the inner half of the marker.  
 * Anything in the outer half is expected to get hit a random number of times, with closer to the edge being lower in the number of hits.
 * The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent. 
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Ascension Passives
 
-{% tabs %}
-{% tab title="Passive" %}
+<Tabs>
+<TabItem value="passive" label="Passive">
+
 ### Gliding Champion
 
 Decreases gliding Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
-{% endtab %}
 
-{% tab title="Ascension 1" %}
+</TabItem>
+
+<TabItem value="a1" label="Ascension 1">
+
 ### Every Arrow Finds Its Target
 
 Increases the CRIT Rate of **Fiery Rain** by 10% and widens its AoE by 30%.
-{% endtab %}
 
-{% tab title="Ascension 4" %}
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+
 ### Precise Shot
 
 Aimed Shot hits on weak points increase ATK by 15% for 10s.
-{% endtab %}
-{% endtabs %}
+
+</TabItem>
+</Tabs>
 
 ## Constellations
 
-{% tabs %}
-{% tab title="C1" %}
+<Tabs>
+<TabItem value="c1" label="C1">
+
 ### One Arrow to Rule Them All
 
 Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG.
@@ -173,9 +183,11 @@ Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow
 * The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.
 * Shared ICD with Charged Attack.
-{% endtab %}
 
-{% tab title="C2" %}
+</TabItem>
+
+<TabItem value="c2" label="C2">
+
 ### Bunny Triggered
 
 Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
@@ -185,43 +197,49 @@ Explosion via manual detonation deals 200% additional DMG.
 * C2 damage instance is considered skill damage.  
 * Baron Bunny snapshots.  
 * In CO-OP, teammates can manually detonate each other's Baron Bunnies, but the damage bonus will only apply if both players have C2.
-{% endtab %}
 
-{% tab title="C3" %}
+</TabItem>
+
+<TabItem value="c3" label="C3">
+
 ### It Burns!
 
 Increases the Level of **Fiery Rain** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C4" %}
+<TabItem value="c4" label="C4">
+
 ### It's Not Just Any Doll...
 
 Decreases **Explosive Puppet**'s CD by 20%. Adds 1 additional charge.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C5" %}
+<TabItem value="c5" label="C5">
+
 ### It's Baron Bunny!
 
 Increases the Level of **Explosive Puppet** by 3.
 Maximum upgrade level is 15.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="C6" %}
+<TabItem value="c6" label="C6">
+
 ### Wildfire
 
 **Fiery Rain** increases all party members' Movement SPD by 15% and ATK by 15% for 10s.
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Full Talent Values
 
-{% tabs %}
-{% tab title="Sharpshooter" %}
+<Tabs>
+<TabItem value="na" label="Sharpshooter">
+
 ### Normal Attacks
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
@@ -247,9 +265,9 @@ Maximum upgrade level is 15.
 | Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
 | High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Explosive Puppet" %}
+<TabItem value="e" label="Explosive Puppet">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -258,9 +276,9 @@ Maximum upgrade level is 15.
 
 **Cooldown**: 15s
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Fiery Rain" %}
+<TabItem value="q" label="Fiery Rain">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -271,8 +289,8 @@ Maximum upgrade level is 15.
 **Cooldown**: 12s  
 **Energy Cost**: 40
 
-{% endtab %}
-{% endtabs %}
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

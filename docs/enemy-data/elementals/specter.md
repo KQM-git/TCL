@@ -46,8 +46,9 @@ All specters are immune to their respective Element.
 
 ## Specters
 
-{% tabs %}
-{% tab title="Anemo" %}
+<Tabs>
+<TabItem value="anemo" label="Anemo">
+
 ## Anemo Specter
 
 As reason might dictate, monsters made from coalesced Anemo already come equipped with the ability to float. As such, their petal-like wings are most likely to be a mimetic organ first and foremost.
@@ -64,9 +65,9 @@ As reason might dictate, monsters made from coalesced Anemo already come equippe
   * If at max fury, will instead create a Vacuum Field that sucks in players and deals Anemo DoT.
   * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Cryo" %}
+<TabItem value="cryo" label="Cryo">
 
 ## Cryo Specter
 
@@ -82,9 +83,9 @@ A certain alchemist once studied these beings, speculating that they might be a 
 * Snowball Sling: Consecutively launches 6 snowballs at the player that burst on contact dealing AoE Cryo DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
 * Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Cryo DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a patch of frost on the ground that deals 50% ATK as AoE Cryo DoT.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Dendro" %}
+<TabItem value="dendro" label="Dendro">
 
 ## Dendro Specter 
 
@@ -94,9 +95,9 @@ A researcher from Vahumana once did research into the ecological peculiarities o
 
 Coming soon.  
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Electro" %}
+<TabItem value="electro" label="Electro">
 
 ## Electro Specter
 
@@ -112,9 +113,9 @@ A certain researcher once studied these creatures. He believed that they must be
 * Zip Zap Bash: Zips about a few times, dealing 30% ATK as Electro DMG to players caught in its electricity, before slamming downwards dealing 200% ATK as AoE Electro DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
 * Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Electro DMG. If at max Fury, it will follow the player before it explodes, dealing 150% ATK as AoE Electro DMG.
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Geo" %}
+<TabItem value="geo" label="Geo">
 
 ## Geo Specter
 
@@ -132,9 +133,10 @@ Geo Specters mimic the fruit of certain plants when their wings are closed toget
 * Explodes after a short pause when defeated dealing AoE Geo DMG.
  * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Hydro" %}
+<TabItem value="hydro" label="Hydro">
+
 ## Hydro Specter
 
 On moonlit nights, Hydro Specters will give off a ghostly glow as they float by the riverbank. Their furtive forms are often mistaken by passers-by for wandering spirits, which has made them mainstays in quite a few folktales.
@@ -152,9 +154,9 @@ On moonlit nights, Hydro Specters will give off a ghostly glow as they float by 
   * If at max fury and enemies are nearby, the explosion will also release bubbles that track nearby enemies and heal them by 12.5% of their Max HP.
   * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).
 
-{% endtab %}
+</TabItem>
 
-{% tab title="Pyro" %}
+<TabItem value="pyro" label="Pyro">
 
 ## Pyro Specter
 
@@ -170,6 +172,6 @@ There was once an Akademiya student who conducted research into their behavior. 
 * Pursuing Flamethrower: Slowly follows the player while periodically spraying fire at them, dealing 125% ATK as AoE Pyro DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
 * Final Burst: Explodes after a short pause when defeated, dealing 125% ATK as AoE Pyro DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a small fireball that explodes after another short pause, dealing 300% ATK as AoE Pyro DMG.
 
-{% endtab %}
+</TabItem>
 
-{% endtabs %}
+</Tabs>
