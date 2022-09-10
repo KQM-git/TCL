@@ -9,9 +9,9 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 # Bennett
 
-## ![](../../.gitbook/assets/element_pyro.png) Bennett
+## ![](/assets/element_pyro.png) Bennett
 
-![](../../.gitbook/assets/character_bennett_wish.png)
+![](/assets/character_bennett_wish.png)
 
 ## **Base Stats**
 
@@ -85,8 +85,8 @@ Bennett takes no damage from being launched.
 | Damage Element | Pyro | Pyro | Pyro |
 | Damage Type | Skill | Skill | Skill |
 | CD | 5s | 7.5s | 10s |
-| Poise Damage | 100 | 100 x2 | Hit: 100 x2 + 250 <br> Explosion: 250 |
-| Impulse Type | 4 | 3 + \(Air, 300, 900\) | Hit: 3 + \(Air, 300, 900\) + 8 <br> Explosion: Air, 650, 950 |
+| Poise Damage | 100 | 100 x2 | Hit: 100 x2 + 250 <br/> Explosion: 250 |
+| Impulse Type | 4 | 3 + \(Air, 300, 900\) | Hit: 3 + \(Air, 300, 900\) + 8 <br/> Explosion: Air, 650, 950 |
 
 **Notes**
 * Max hold duration is 2 seconds, after which Bennett will use a Level 2 Passion Overload by default. 

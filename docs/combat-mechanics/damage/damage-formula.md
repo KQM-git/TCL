@@ -6,14 +6,9 @@ description: An explanation as to how outgoing damage is calculated.
 
 ## **General Formula for Damage**
 
-<!--
-original formula (broken)
 $$
 \begin{multline*} Damage = ((BaseDamage \times SpecialMultiplier) + FlatDamage) \times (1 + DamageBonus - DamageReduction) \times Crit\\ \times EnemyDefMult\times EnemyResMult\\ \times AmplifyingReaction + TransformativeReaction + Proc \end{multline*}
 $$
--->
-
-![](gitbook/assets/../../../../.gitbook/assets/formulas/full_damage_formula.png)
 
 See the sections below for the breakdown of each individual part of the formula.
 

@@ -2,15 +2,15 @@
 description:  A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
 ---
 
-# Traveler \(Anemo\)
+# Traveler (Anemo)
 
 ## **Resources**
 * [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 * [5 Minute Guide to Anemo Traveler](https://youtu.be/H4Y6y7JJsvM)
 
-## ![](../../.gitbook/assets/element_anemo.png) Traveler \(Anemo\)
+## ![](/assets/element_anemo.png) Traveler \(Anemo\)
 
-![](../../.gitbook/assets/anemo-traveler.png)
+![](/assets/anemo-traveler.png)
 
 ## **Base Stats**
 

@@ -46,7 +46,7 @@ Energy that goes straight into a character's Burst meter, this Energy is **not a
 
 ### Particles vs Orbs
 
-![](../.gitbook/assets/geoparticle.png) Geo Elemental Energy Particle **VS** ![](../.gitbook/assets/geoorb.png) Geo Elemental Energy Orb
+![](/assets/geoparticle.png) Geo Elemental Energy Particle **VS** ![](/assets/geoorb.png) Geo Elemental Energy Orb
 
 Energy Particles can be gained from Elemental Skills or hitting certain enemy HP thresholds. Elemental Orbs are only dropped from reaching specific enemy HP thresholds.
 
@@ -54,7 +54,7 @@ Orbs give **three times** the amount of Energy that Particles give. At base, 1 P
 
 ### Elemental vs Clear
 
-![](../.gitbook/assets/anemoorb.png) Anemo Elemental Energy Orb **VS** ![](../.gitbook/assets/clearorb.png) Clear Energy Orb
+![](/assets/anemoorb.png) Anemo Elemental Energy Orb **VS** ![](/assets/clearorb.png) Clear Energy Orb
 
 Both Elemental Particles and Orbs have Elemental variants for all available Elements in the game and a Clear variant. While Elemental Particles/Orbs are gained through both Elemental Skills and HP thresholds, Clear Particles/Orbs can't be gained from Elemental Skills because each character has a vision of a specific Element and can only generate Elemental Particles of said Element.
 
@@ -72,7 +72,7 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 
 ## Table of Energy
 
-![Table by Steph\#3614 ](../.gitbook/assets/energytable.png)
+![Table by Steph\#3614 ](/assets/energytable.png)
 
 ## Credits
 

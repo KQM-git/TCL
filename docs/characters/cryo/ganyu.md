@@ -7,9 +7,9 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 ## **Resources**
 * [Short Ganyu Guide](https://keqingmains.com/ganyu/)
 
-## ![](../../.gitbook/assets/element_cryo.png) Ganyu
+## ![](/assets/element_cryo.png) Ganyu
 
-![](../../.gitbook/assets/character_ganyu_wish.png)
+![](/assets/character_ganyu_wish.png)
 
 ## **Base Stats**
 
@@ -94,7 +94,7 @@ Leaving a single **Ice Lotus** behind, Ganyu dashes backward, shunning all impur
 | Duration | 6s |
 | CD | 10s |
 | Poise Damage | 80 |
-| Impulse Type | Cast: 3 <br> Explosion: 4 |
+| Impulse Type | Cast: 3 <br/> Explosion: 4 |
 
 **Notes**
 * The taunt applies to all enemies in the game that are not considered bosses.

@@ -9,9 +9,9 @@ description: A young exorcist from a family of exorcists. He does everything he 
 * [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 * [Swordfall: A Chongyun Guide](https://keqingmains.com/chongyun/)
 
-## ![](../../.gitbook/assets/element_cryo.png) Chongyun
+## ![](/assets/element_cryo.png) Chongyun
 
-![](../../.gitbook/assets/character_chongyun_wish.png)
+![](/assets/character_chongyun_wish.png)
 
 ## **Base Stats**
 

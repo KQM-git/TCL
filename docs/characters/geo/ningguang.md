@@ -8,9 +8,9 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 * [Full Ningguang Written Guide: Geo Goddess](https://keqingmains.com/ningguang/)
 * [6 Minute Guide to Ningguang](https://youtu.be/aecxJRSn2d4)
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Ningguang
+## ![](/assets/element_geo.png) Ningguang
 
-![](../../.gitbook/assets/character_ningguang_wish.png)
+![](/assets/character_ningguang_wish.png)
 
 ## **Base Stats**
 

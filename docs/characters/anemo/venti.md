@@ -9,9 +9,9 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 * [Venti Mains Discord](https://discord.gg/ventimains)
 
 
-## ![](../../.gitbook/assets/element_anemo.png) Venti
+## ![](/assets/element_anemo.png) Venti
 
-![](../../.gitbook/assets/character_venti_wish.webp)
+![](/assets/character_venti_wish.webp)
 
 ## **Base Stats**
 

@@ -10,9 +10,9 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 * [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
 * [Childe Guide](https://keqingmains.com/tartaglia/)
 
-## ![](../../.gitbook/assets/element_hydro.png) Tartaglia
+## ![](/assets/element_hydro.png) Tartaglia
 
-![](../../.gitbook/assets/character_tartaglia_wish.png)
+![](/assets/character_tartaglia_wish.png)
 
 ## **Base Stats**
 
@@ -281,7 +281,7 @@ If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Ripti
 
 | Poise Damage | Impulse Type |
 | :--- | :--- |
-| Riptide Flash: 15 x3 <br>  Riptide Slash: 100 | Riptide Flash: 2 x3 <br> Riptide Slash: 2 |
+| Riptide Flash: 15 x3 <br/>  Riptide Slash: 100 | Riptide Flash: 2 x3 <br/> Riptide Slash: 2 |
 
 * This constellation effect is not subject to ICD.
 * All of **Riptide** effects triggered by C4 do not snapshot.

@@ -8,9 +8,9 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 * [Full Amber Guide](https://keqingmains.com/amber/)
 * [8 Minute Guide to Amber](https://www.youtube.com/watch?v=QW40leHPgJ8)
 
-## ![](../../.gitbook/assets/element_pyro.png) Amber
+## ![](/assets/element_pyro.png) Amber
 
-![](../../.gitbook/assets/character_amber_wish.png)
+![](/assets/character_amber_wish.png)
 
 ## **Base Stats**
 
@@ -121,8 +121,8 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Energy Cost | 40 |
 | Duration | 2s |
 | CD | 12s |
-| Poise Damage | Main Arrows: 7.22 x5 <br> Sub Arrows: 7.22 x13 |
-| Impulse Type | Main Arrows: 2 x5 <br> Sub Arrows: 0 x13 |
+| Poise Damage | Main Arrows: 7.22 x5 <br/> Sub Arrows: 7.22 x13 |
+| Impulse Type | Main Arrows: 2 x5 <br/> Sub Arrows: 0 x13 |
 
 **Notes**
 * Applies 1A worth of pyro 6 times, following normal ICD rules.

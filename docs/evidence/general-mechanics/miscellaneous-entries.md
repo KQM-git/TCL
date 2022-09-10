@@ -574,7 +574,6 @@ Fluff.
 ## Daily Elite Cap and Common Mob Cap
 **By:** DoombringerEX\#8888  
 **Added:** 2022-02-10  
-[Discussion](tickettool.xyz/direct?url=https://tcl-backup.s3.filebase.com/evidence/general-mechanics/miscellaneous-entries.md/discord/attachments_921098493890801725_940728656337191003_transcript-daily-elite-cap-and-common-mob-cap.html)  
 
 **Finding:**  
 The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.  

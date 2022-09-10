@@ -9,9 +9,9 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 * [Noelle Mains Discord](https://discord.gg/kvft4TKFet)
 * [Full Noelle Guide: The One-Maid Army](https://keqingmains.com/noelle/)
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Noelle
+## ![](/assets/element_geo.png) Noelle
 
-![](../../.gitbook/assets/character_noelle_wish.png)
+![](/assets/character_noelle_wish.png)
 
 ## **Base Stats**
 

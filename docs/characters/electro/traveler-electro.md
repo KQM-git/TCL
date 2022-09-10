@@ -2,11 +2,11 @@
 description: A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
 ---
 
-# Traveler
+# Traveler (Electro)
 
-## ![](../../.gitbook/assets/element_electro.png) Traveler \(Electro\)
+## ![](/assets/element_electro.png) Traveler \(Electro\)
 
-![](../../.gitbook/assets/electro-traveler.png)
+![](/assets/electro-traveler.png)
 
 ## **Base Stats**
 
@@ -159,8 +159,8 @@ One instance of **Falling Thunder** can be generated every 0.5s.
 | Energy Cost | 80 |
 | Duration | 12s |
 | CD | 20s |
-| Poise Damage | Cast: 150 <br> Falling Thunder: 50 |
-| Impulse Type | Cast: 3 <br> Falling Thunder: 2 |
+| Poise Damage | Cast: 150 <br/> Falling Thunder: 50 |
+| Impulse Type | Cast: 3 <br/> Falling Thunder: 2 |
 
 **Notes**
 * The energy regenerated from **Falling Thunder** is classified as flat energy.

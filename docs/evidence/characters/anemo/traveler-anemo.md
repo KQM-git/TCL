@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Traveler \(Anemo\)
+# Traveler (Anemo)
 
 **Main Page:**
 

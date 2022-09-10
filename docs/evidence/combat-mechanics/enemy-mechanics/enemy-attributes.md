@@ -314,7 +314,7 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 
 **Evidence:**  
 1. and 2\. [HP particles and orbs](https://youtu.be/9w8ZruafbEE)  
-3. The skulls needing [3U Geo](https://youtu.be/zjmYr3iWbrE) or [38 non-Geo non-Physical hits](../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions#rifthound-skulls-charging) with the [ICD being ignored](https://youtu.be/bn8RU3TA4vc)  
+3. The skulls needing [3U Geo](https://youtu.be/zjmYr3iWbrE) or [38 non-Geo non-Physical hits](./enemy-interactions#rifthound-skulls-charging) with the [ICD being ignored](https://youtu.be/bn8RU3TA4vc)  
 4. [Attacks that can be dodged and i-framed](https://youtu.be/Gs5R3-yRtjA) (note that not all attacks were tested due to skill issue, it's possible that some other attacks can also be i-framed by sprinting)  
 5. [Geo Constructs can only get destroyed in only the inner part of the arena](https://youtu.be/5nEmF6XvrLY)  
 6. Attacks:

@@ -4,9 +4,9 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 
 # Sayu
 
-## ![](../../.gitbook/assets/element_anemo.png) Sayu
+## ![](/assets/element_anemo.png) Sayu
 
-![](../../.gitbook/assets/character_sayu_wish.png)
+![](/assets/character_sayu_wish.png)
 
 ## **Base Stats**
 
@@ -89,8 +89,8 @@ Elemental Absorption may only occur once per use of this skill.
 | Damage Type | Skill | Skill |
 | Max Duration | - | 10s |
 | CD | 6s | 6s~11s |
-| Poise Damage | 120 | Windwheel: 25 </br> Whirlwind Kick: 200 |
-| Impulse Type | 3 | Windwheel: 2 </br> Whirlwind Kick: 3 |
+| Poise Damage | 120 | Windwheel: 25 <br/> Whirlwind Kick: 200 |
+| Impulse Type | 3 | Windwheel: 2 <br/> Whirlwind Kick: 3 |
 
 **Notes**
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.

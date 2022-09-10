@@ -55,7 +55,7 @@ Cryoshrooms and Hydroshrooms have +20% RES to their own Element, at a total of 3
 
 ## Winged Cryoshroom
 
-<img src="../../.gitbook/assets/enemy/mystical/Enemy_Winged_Cryoshroom_Icon.webp" width="200" height="200" />
+<img src="/assets/enemy/mystical/Enemy_Winged_Cryoshroom_Icon.webp" width="200" height="200" />
 
 {% endtab %}
 
@@ -63,7 +63,7 @@ Cryoshrooms and Hydroshrooms have +20% RES to their own Element, at a total of 3
 
 ## Winged Dendroshroom
 
-<img src="../../.gitbook/assets/enemy/mystical/Enemy_Winged_Dendroshroom_Icon.webp" width="200" height="200" />
+<img src="/assets/enemy/mystical/Enemy_Winged_Dendroshroom_Icon.webp" width="200" height="200" />
 
 {% endtab %}
 
@@ -71,7 +71,7 @@ Cryoshrooms and Hydroshrooms have +20% RES to their own Element, at a total of 3
 
 ## Grounded Hydroshroom
 
-<img src="../../.gitbook/assets/enemy/mystical/Enemy_Grounded_Hydroshroom_Icon.webp" width="200" height="200" />
+<img src="/assets/enemy/mystical/Enemy_Grounded_Hydroshroom_Icon.webp" width="200" height="200" />
 
 {% endtab %}
 

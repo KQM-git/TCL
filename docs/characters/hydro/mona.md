@@ -12,9 +12,9 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 * [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) *by Gibbigobo\#9750 \(aka LACola\)*
 
 
-## ![](../../.gitbook/assets/element_hydro.png) Mona
+## ![](/assets/element_hydro.png) Mona
 
-![](../../.gitbook/assets/character_mona_wish.png)
+![](/assets/character_mona_wish.png)
 
 ## **Base Stats**
 
@@ -155,7 +155,7 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 | Energy Cost | 60 | - |
 | Duration | 8s | 4.5s |
 | CD | 15s | - | 
-| Poise Damage | Bubble Application: 50 <br> Bubble Explosion: 200 | - |
+| Poise Damage | Bubble Application: 50 <br/> Bubble Explosion: 200 | - |
 | Impulse Type | 1 | - |
 
 **Notes**

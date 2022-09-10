@@ -4,8 +4,8 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 
 # Gorou
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Gorou
-![](../../.gitbook/assets/character_gorou_wish.png)
+## ![](/assets/element_geo.png) Gorou
+![](/assets/character_gorou_wish.png)
 
 ## **Base Stats**
 

@@ -8,9 +8,9 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 
 * [Yanfei Full Guide](https://keqingmains.com/yanfei/)
 
-## ![](../../.gitbook/assets/element_pyro.png) Yanfei
+## ![](/assets/element_pyro.png) Yanfei
 
-![](../../.gitbook/assets/character_yanfei_wish.png)
+![](/assets/character_yanfei_wish.png)
 
 ## **Base Stats**
 

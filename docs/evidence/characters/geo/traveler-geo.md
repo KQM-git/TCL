@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Traveler \(Geo\)
+# Traveler (Geo)
 
 **Main Page:**
 

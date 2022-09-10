@@ -109,8 +109,8 @@ Performed a thorough mathematical analysis of the artifact rolling system, deriv
 3b\. Expected damage increase per resin spent for farming an artifact domain.
 
 **Evidence:**  
-See [ArtiSubMath-v10.pdf](../../.gitbook/assets/ArtiSubMath-v10.pdf) or the latest version on [Overleaf](https://www.overleaf.com/read/nvxmkdpqjprj).  
-There is also python demo code available at [artifact-math-demo-py.zip](../../.gitbook/assets/artifact-math-demo-py.zip).  
+See [ArtiSubMath-v10.pdf](/assets/ArtiSubMath-v10.pdf) or the latest version on [Overleaf](https://www.overleaf.com/read/nvxmkdpqjprj).  
+There is also python demo code available at [artifact-math-demo-py.zip](/assets/artifact-math-demo-py.zip).  
 
 Significance:
 1. One form of the long-awaited artifact-substat-to-resin relation has been found.

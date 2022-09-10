@@ -7,9 +7,9 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 ## **External Links**
 [Short Sara Guide](https://keqingmains.com/sara/)
 
-## ![](../../.gitbook/assets/element_electro.png) Kujou Sara
+## ![](/assets/element_electro.png) Kujou Sara
 
-![](../../.gitbook/assets/character_sara_wish.png)
+![](/assets/character_sara_wish.png)
 
 ## **Base Stats**
 
@@ -126,8 +126,8 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 | Damage Type | Burst |
 | Energy Cost | 80 |
 | CD | 20s |
-| Poise Damage | Titanbreaker: 100 <br> Stormcluster: 20 |
-| Impulse Type | Titanbreaker: 5 <br> Stormcluster: 2 |
+| Poise Damage | Titanbreaker: 100 <br/> Stormcluster: 20 |
+| Impulse Type | Titanbreaker: 5 <br/> Stormcluster: 2 |
 
 **Notes**
 * The cast frames of **Subjugation: Koukou Sendou** can be reduced to 60 with a swap cancel.

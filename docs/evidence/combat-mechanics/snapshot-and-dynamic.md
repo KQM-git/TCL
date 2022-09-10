@@ -61,7 +61,7 @@ CRIT Rate: [From GeoMC C1 evidence](https://youtu.be/DBMJEKuABes)
 [CRIT DMG](https://youtu.be/A__SJDUmfhY)  
 Elemental DMG%: [See Mistsplitter stacks evidence](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)  
 DMG%: [Alley Flash](https://youtu.be/PR5ZxqHsLOo), [Serpent Spine](https://youtu.be/5FG_OEG8iYA) , [PJWS](https://www.youtube.com/watch?v=muUSsL8gxwU)  
-Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](../general-mechanics/snapshot-and-dynamic.md#summons-are-not-dynamic-and-snapshot-on-cast)  
+Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](#summons-are-not-dynamic-and-snapshot-on-cast)  
 
 The following stats were tested/known to not snapshot:
 

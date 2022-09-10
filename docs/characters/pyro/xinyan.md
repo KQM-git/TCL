@@ -7,9 +7,9 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 ## **Resources**
 [A Guide to Liyue’s Rockstar](https://keqingmains.com/xinyan/)
 
-## ![](../../.gitbook/assets/element_pyro.png) Xinyan
+## ![](/assets/element_pyro.png) Xinyan
 
-![](../../.gitbook/assets/character_xinyan_wish.webp)
+![](/assets/character_xinyan_wish.webp)
 
 ## **Base Stats**
 
@@ -116,7 +116,7 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 | Duration | - | 2s |
 | Cooldown | 15s | - | 
 | Poise Damage | 300 | 50 |
-| Impulse Type | 3 | 1st: Air, 0, 600 <br> Rest: 2 |
+| Impulse Type | 3 | 1st: Air, 0, 600 <br/> Rest: 2 |
 
 {% endtab %}
 {% endtabs %}

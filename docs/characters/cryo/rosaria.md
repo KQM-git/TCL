@@ -8,9 +8,9 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 * [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)  
 * [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
 
-## ![](../../.gitbook/assets/element_cryo.png) Rosaria
+## ![](/assets/element_cryo.png) Rosaria
 
-![](../../.gitbook/assets/character_rosaria_wish.png)
+![](/assets/character_rosaria_wish.png)
 
 ## **Base Stats**
 

@@ -796,7 +796,7 @@
 
 **By:** [Maygi\#4987](../../evidence/equipment/weapons.md#catalyst-effective-attack-comparisons)
 
-![](../../.gitbook/assets/maygi_catalyst_comparison.png)
+![](/assets/maygi_catalyst_comparison.png)
 
 * Low Stat = 10 substat lines
 * Med Stat = 20 substat lines

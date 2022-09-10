@@ -33,7 +33,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 Diona can cancel her dash early with Aim Toggle (R on PC, L2 on controller).
 
 **Evidence:**  
-[Imgur](imgur.com/JcCDf1U)
+[Imgur](https://imgur.com/JcCDf1U)
 
 With C4: [Imgur](https://imgur.com/i4PC2pN)  
 

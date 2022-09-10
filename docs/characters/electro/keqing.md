@@ -9,9 +9,9 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 * [Full Keqing Written Guide](https://keqingmains.com/keqing/)  
 * [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
 
-## ![](../../.gitbook/assets/element_electro.png) Keqing
+## ![](/assets/element_electro.png) Keqing
 
-![](../../.gitbook/assets/character_keqing_wish.png)
+![](/assets/character_keqing_wish.png)
 
 ## **Base Stats**
 
@@ -96,8 +96,8 @@ If Keqing uses **Stellar Restoration** again or uses a **Charged Attack** while 
 | Damage Element | Electro | - |
 | Damage Type |  Skill | - |
 | CD | 7.5s | - |
-| Poise Damage | Lightning Stiletto: 50 <br> Slashing: 100 | 50 x2 |
-| Impulse Type | Lightning Stiletto: 3 <br> Slashing: Air, 0, 600 | 2 x2 |
+| Poise Damage | Lightning Stiletto: 50 <br/> Slashing: 100 | 50 x2 |
+| Impulse Type | Lightning Stiletto: 3 <br/> Slashing: Air, 0, 600 | 2 x2 |
 
 **Notes**
 * When blinking to a **Stiletto Mark** that was thrown from a Holding cast, Keqing can move across obstructions and glide or initiate a plunge attack.
@@ -130,8 +130,8 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
-| Poise Damage | Cast: 100 <br> Consecutive Slashes: 25 <br> Final hit: 200 |
-| Impulse Type | Cast: 1 <br> 1st, 3rd, 6th, 8th hits: 3 <br> 2nd, 4th, 5th, 7th hits: 1 <br> Final hit: 7 |
+| Poise Damage | Cast: 100 <br/> Consecutive Slashes: 25 <br/> Final hit: 200 |
+| Impulse Type | Cast: 1 <br/> 1st, 3rd, 6th, 8th hits: 3 <br/> 2nd, 4th, 5th, 7th hits: 1 <br/> Final hit: 7 |
 
 **Notes**
 * Keqing exits her **Starward Sword** before the last slash and can swap or attack.

@@ -296,9 +296,9 @@ This is the tool I used to run simulations for Royal weapon line crits.
 * Averaged the results from 10 trials and came up with the average effective crit rate. 
 * The same was done for refinement rank 1, 3 and 5. 
 
-![](../../.gitbook/assets/data.png)
+![](/assets/data.png)
 
-![](../../.gitbook/assets/result.png)
+![](/assets/result.png)
 
 **Significance**  
 * Avoid crit rate circlet and minimize crit rate rolls on your substats. 
@@ -429,7 +429,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 **Finding:** Average ER gain from Sacrificial Weapons has decreasing returns when increasing refinement.    
 
 **Evidence:**  
-[Math and Explanation](../../.gitbook/assets/Average_ER_gain_from_Sac_weapon_1.pdf)  
+[Math and Explanation](/assets/Average_ER_gain_from_Sac_weapon_1.pdf)  
 [Graph 1](https://www.desmos.com/calculator/9bjjvxkq7q)  
 [Graph 2](https://www.desmos.com/calculator/ireq7whftb)  
 
@@ -922,7 +922,7 @@ The Skill% buff being dynamic also fits in line with other Skill% buffs which ar
 
 #### Klee and Kagura Stacks
 
-**This bug has been fixed in version 2.6, see this [Vault Entry](../../evidence/characters/pyro/klee.md#klee-stacking-bug-has-been-fixed) for more information.**  
+**This bug has been fixed in version 2.6, see this [Vault Entry](../characters/pyro/klee#klee-stacking-bug-has-been-fixed) for more information.**  
 
 **By:** solo\#3333  
 **Added:** 2022-03-09  
@@ -1343,7 +1343,6 @@ Explanation of how shields interaction with negative damage reduction
 
 **By:** jamberry\#7142 and ItzSomebody\#0029  
 **Added:** 2022-08-03  
-[Discussion]()  
 
 **Finding:**  
 Slingshot has a medium zone where neither buff nor debuff applies. Slingshot buff applies until roughly the same distance as it takes for Amos to move from 3 stack to 4 stack passive for charged shots.  
@@ -1357,7 +1356,7 @@ Slingshot appears to dynamically track flight time. On release, arrows have a mi
   * Damage numbers and frame counts: [Imgur](https://imgur.com/a/dxY3ni9)
 * [Albedo E size reference for first video](https://youtu.be/i2_-5oeNbzc)
   * Albedo E has radius 10m; medium zone is at about ~18m. 
-* Amos 4th stack applies starting at ~18m according to [previous TCL evidence](../characters/cryo/ganyu.md\#specific-distances-required-for-each-stack-of-amos-buff).  
+* Amos 4th stack applies starting at ~18m according to [previous TCL evidence](../characters/cryo/ganyu#specific-distances-required-for-each-stack-of-amos-buff).  
 
 **Significance:**  
 Definitely just Yoimiya things.  

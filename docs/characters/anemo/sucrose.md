@@ -10,9 +10,9 @@ description: An alchemist filled with curiosity about all things. She researches
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
 * [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
-## ![](../../.gitbook/assets/element_anemo.png) Sucrose
+## ![](/assets/element_anemo.png) Sucrose
 
-![](../../.gitbook/assets/character_sucrose_wish.png)
+![](/assets/character_sucrose_wish.png)
 
 ## **Base Stats**
 

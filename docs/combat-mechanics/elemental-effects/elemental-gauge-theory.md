@@ -56,7 +56,7 @@ Each character has a set amount of elemental gauge applied by each individual at
 
 Decay rate is determined by the **first aura** applied. This decay rate is always in effect, until the aura is fully consumed/decayed.
 
-![](../../.gitbook/assets/tax_simple_decay.png)
+![](/assets/tax_simple_decay.png)
 
 * **Y-Axis** = amount of elemental gauge
 * **X-Axis** = duration in seconds
@@ -65,7 +65,7 @@ Additional applications of the aura element will apply their own respective gaug
 
 > Fischl's Charged Shot applies 0.8A Electro, the use of Beidou's Q will add 3.2C Electro to the gauge, resulting in a 3.2A Electro aura persisting for 38 seconds from the time of Beidou Q.
 
-![](../../.gitbook/assets/tax_advanced_decay.png)
+![](/assets/tax_advanced_decay.png)
 
 * **Y-axis** = amount of elemental gauge
 * **X-axis** = duration in seconds

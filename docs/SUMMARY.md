@@ -4,23 +4,6 @@
 * [Keqing Mains Site](https://keqingmains.com)
 * [Theorycrafting](theorycrafting.md)
 
-## Newsletter
-
-* [Patch 2.7](newsletter/patch-2.7.md)
-* [Archive](newsletter/archive/README.md)
-  * [Patch 2.4](newsletter/patch-2.4.md)
-  * [Patch 2.3b](newsletter/patch-2.3b.md)
-  * [Patch 2.3](newsletter/patch-2.3.md)
-  * [Patch 2.2a](newsletter/patch-2.2a.md)
-  * [Patch 2.1b](newsletter/archive/patch-2.1b.md)
-  * [Patch 2.1a](newsletter/archive/patch-2.1a.md)
-  * [Patch 2.0b](newsletter/archive/patch-2.0b.md)
-  * [Patch 2.0a](newsletter/archive/patch-2.0a.md)
-  * [Patch 1.6b](newsletter/archive/patch-1.6b.md)
-  * [Patch 1.6a](newsletter/archive/patch-1.6a.md)
-  * [Patch 1.5b](newsletter/archive/patch-1.5b.md)
-  * [Patch 1.5a](newsletter/archive/patch-1.5a.md)
-
 ## Characters
 
 * [Anemo](characters/anemo/README.md)
@@ -188,7 +171,7 @@
     * [Hypostases](enemy-data/bosses/overworld-bosses/hypostases/hypostases.md)
     * [Jadeplume Terroshroom](/enemy-data/bosses/overworld-bosses/jadeplume-terroshroom.md)
     * [Maguu Kenki](enemy-data/bosses/overworld-bosses/maguu-kenki.md)
-    * [Oceanid](enemy-data/bosses/overworld-bosses/oceanid/README.md)
+    * Oceanid enemy-data/bosses/overworld-bosses/oceanid/README.md (removed due to slug overlap)
       * [Oceanid](enemy-data/bosses/overworld-bosses/oceanid/oceanid.md)
       * [Boar Hydro Mimic](enemy-data/bosses/overworld-bosses/oceanid/oceanid-boar.md)
       * [Crab Hydro Mimic](enemy-data/bosses/overworld-bosses/oceanid/oceanid-crab.md)
@@ -206,7 +189,7 @@
   * [Weekly Bosses](enemy-data/bosses/weekly-bosses/README.md)
     * [Azhdaha](enemy-data/bosses/weekly-bosses/azhdaha.md)
     * [Andrius-Boreas](enemy-data/bosses/weekly-bosses/andrius-boreas.md)
-    * [Childe](enemy-data/bosses/weekly-bosses/childe/README.md)
+    * Childe enemy-data/bosses/weekly-bosses/childe/README.md (removed due to slug overlap)
       * [First Phase](enemy-data/bosses/weekly-bosses/childe/eleventh-of-the-fatui-harbingers-tartaglia.md)
       * [Second Phase](enemy-data/bosses/weekly-bosses/childe/delusion-unleashed-childe.md)
       * [Third Phase](enemy-data/bosses/weekly-bosses/childe/childe.md)

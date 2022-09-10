@@ -10,9 +10,9 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 * [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 * [Icy Paws Sacrifical Bow vs Favonius Bow - Energy Gen & Field Time Efficiency](https://docs.google.com/spreadsheets/d/1rMyjElZHS0PDU4uyJ55bKGsmUVW82ga4xPcDUJSE760/edit#gid=1389539947)
 
-## ![](../../.gitbook/assets/element_cryo.png) Diona
+## ![](/assets/element_cryo.png) Diona
 
-![](../../.gitbook/assets/character_diona_wish.png)
+![](/assets/character_diona_wish.png)
 
 ## **Base Stats**
 

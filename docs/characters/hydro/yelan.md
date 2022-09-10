@@ -4,8 +4,8 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 
 # Yelan
 
-## ![](../../.gitbook/assets/element_hydro.png) Yelan
-![](../../.gitbook/assets/character_yelan_wish.png)
+## ![](/assets/element_hydro.png) Yelan
+![](/assets/character_yelan_wish.png)
 
 ## **Base Stats**
 
@@ -98,7 +98,7 @@ Additionally, each opponent marked by the Lifeline when it explodes grants Yelan
 | :--- | :--- |
 | DMG \(T9%\) | 38.44% Max HP |
 | Particles | 4 \(-\) | 
-| Frames | Tap: 40 <br> Hold: 42-257 |
+| Frames | Tap: 40 <br/> Hold: 42-257 |
 | GU | 1A |
 | ICD | Standard | 
 | Snapshot | - | 

@@ -9,9 +9,9 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 * [Ayaka Written Guide](https://keqingmains.com/ayaka/)
 * [7 Minute Quick Guide to Ayaka](https://youtu.be/G_gQ0P9s6BU)
 
-## ![](../../.gitbook/assets/element_cryo.png) Kamisato Ayaka
+## ![](/assets/element_cryo.png) Kamisato Ayaka
 
-![](../../.gitbook/assets/character_ayaka_wish.png)
+![](/assets/character_ayaka_wish.png)
 
 ## **Base Stats**
 

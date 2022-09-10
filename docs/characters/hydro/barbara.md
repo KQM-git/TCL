@@ -7,9 +7,9 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 ## **Resources**
 * [Barbara Mains Discord](https://discord.gg/6vVQcsrAgN)
 
-## ![](../../.gitbook/assets/element_hydro.png) Barbara
+## ![](/assets/element_hydro.png) Barbara
 
-![](../../.gitbook/assets/character_barbara_wish.png)
+![](/assets/character_barbara_wish.png)
 
 ## **Base Stats**
 
@@ -76,8 +76,8 @@ Summons water droplets resembling musical notes that form a Melody Loop, dealing
 | GU | 1A |
 | Duration | 15s |
 | Cooldown | 32s |
-| Poise Damage | Droplet: 40 <br> Hydro app.: 0 |
-| Impulse Type | Droplet: 4 <br> Hydro app.: 0 |
+| Poise Damage | Droplet: 40 <br/> Hydro app.: 0 |
+| Impulse Type | Droplet: 4 <br/> Hydro app.: 0 |
 
 **Notes**
 * Cast time can be reduced by performing a swap cancel.  

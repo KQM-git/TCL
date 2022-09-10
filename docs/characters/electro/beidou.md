@@ -10,9 +10,9 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 * [Full Beidou Written Guide: Tales from the Sea](https://keqingmains.com/beidou/)
 * [6 Minute Quick Guide to Beidou](https://youtu.be/AWlLidtFiDw)
 
-## ![](../../.gitbook/assets/element_electro.png) Beidou
+## ![](/assets/element_electro.png) Beidou
 
-![](../../.gitbook/assets/character_beidou_wish.png)
+![](/assets/character_beidou_wish.png)
 
 ## **Base Stats**
 
@@ -97,8 +97,8 @@ The shield possesses the following properties:
 | Damage Type | Skill | Skill |
 | Duration | - | upto 3s |
 | CD | 7.5s | 7.5s |
-| Poise Damage | 100 | 1 stack: 200 <br> 2 stacks: 300 |
-| Impulse Type | 4 | 1 stack: 4 <br> 2 stacks: 6 |
+| Poise Damage | 100 | 1 stack: 200 <br/> 2 stacks: 300 |
+| Impulse Type | 4 | 1 stack: 4 <br/> 2 stacks: 6 |
 
 | Attribute | Shield \(Talent 9%\) |
 | :--- | :--- |

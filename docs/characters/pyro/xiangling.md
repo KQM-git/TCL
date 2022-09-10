@@ -8,9 +8,9 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 * [Xiangling Guide](https://keqingmains.com/xiangling/)
 
-## ![](../../.gitbook/assets/element_pyro.png) Xiangling
+## ![](/assets/element_pyro.png) Xiangling
 
-![](../../.gitbook/assets/character_xiangling_wish.png)
+![](/assets/character_xiangling_wish.png)
 
 ## **Base Stats**
 

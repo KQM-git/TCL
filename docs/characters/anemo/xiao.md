@@ -9,9 +9,9 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
 
-## ![](../../.gitbook/assets/element_anemo.png) Xiao
+## ![](/assets/element_anemo.png) Xiao
 
-![](../../.gitbook/assets/character_xiao_wish.webp)
+![](/assets/character_xiao_wish.webp)
 
 ## **Base Stats**
 

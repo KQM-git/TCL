@@ -9,9 +9,9 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 # Zhongli
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Zhongli
+## ![](/assets/element_geo.png) Zhongli
 
-![](../../.gitbook/assets/character_zhongli_wish.png)
+![](/assets/character_zhongli_wish.png)
 
 ## **Base Stats**
 
@@ -145,8 +145,8 @@ Opponents affected by **Petrification** cannot move.
 | Damage Type | Burst |
 | Energy Cost | 40 |
 | CD | 12s |
-| Poise Damage | Cast: 400 <br> Burst: 500 |
-| Impulse Type | Cast: Heavy, 1200, 0 <br> Burst: 2 |
+| Poise Damage | Cast: 400 <br/> Burst: 500 |
+| Impulse Type | Cast: Heavy, 1200, 0 <br/> Burst: 2 |
 
 **Notes**
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.

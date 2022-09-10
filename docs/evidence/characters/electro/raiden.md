@@ -92,7 +92,7 @@ This suggests the 0.9 second (54 frame) cooldown of Raiden's coordinated attacks
 * Raiden's Elemental Burst restores flat energy to herself. - [CC\#5588](https://youtu.be/__PPdiQqMx4)  
 * Raiden's attacks during Elemental Burst can trigger XQ's rainswords. - [KDK#1322](https://www.youtube.com/watch?v=b7ER4BwAzHY)  
 * Raiden's attacks duing Elemental Burst can trigger Fichl C6. - [Nass008#8577](https://youtu.be/gzDB8TpAtrQ)
-* Raiden's attacks during Elemental Burst can't trigger EMC's Q. - [Sylenwolf#5802](Sylenwolf#5802)
+* Raiden's attacks during Elemental Burst can't trigger EMC's Q. - Sylenwolf#5802 (Link lost through time)
 * Raiden's attacks during Elemental Burst can't trigger Beidou's Q. - [Peekays#2722](https://youtu.be/J-52Fr4WA3A)
 * Raiden's Elemental Burst does not snapshot. - [CC#5588](https://www.youtube.com/watch?v=2YKNl5OAPJE)  
 * Raiden's CA during Elemental Burst work as a hitscan similar to Ayaka's. - [LittleFox#0906](https://youtu.be/yVQKrJq1VNI)  

@@ -7,9 +7,9 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 ## **Resources**
 * [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
 
-## ![](../../.gitbook/assets/element_cryo.png) Kaeya
+## ![](/assets/element_cryo.png) Kaeya
 
-![](../../.gitbook/assets/character_kaeya_wish.png)
+![](/assets/character_kaeya_wish.png)
 
 ## **Base Stats**
 

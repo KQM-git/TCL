@@ -47,7 +47,7 @@ All abyss mages share the same weakspot on their **Head**, note that this weaksp
 {% tab title="Cryo" %}
 ## Cryo Abyss Mage
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Cryo_Abyss_Mage_Icon.webp)
+![](/assets/enemy/abyss/Enemy_Cryo_Abyss_Mage_Icon.webp)
 
 Though they dabble with great power and can even create icicles by condensing and freezing water vapor in the atmosphere, their bodies are very vulnerable in and of themselves. Once their protective barrier has been broken, they are at your mercy.
 
@@ -72,7 +72,7 @@ Though they dabble with great power and can even create icicles by condensing an
 {% tab title="Electro" %}
 ## Electro Abyss Mage
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Electro_Abyss_Mage_Icon.webp)
+![](/assets/enemy/abyss/Enemy_Electro_Abyss_Mage_Icon.webp)
 
 While studying at the Akademiya, researcher Alva Nicolai once conducted a systematic study of the Electro model used by the Electro Abyss Mage and came up with a theoretical weapon known as the Nicolai Coil. But it has yet to be put into practice. Some said his research materials were eaten during the flood of fungi.
 
@@ -97,7 +97,7 @@ While studying at the Akademiya, researcher Alva Nicolai once conducted a system
 {% tab title="Hydro" %}
 ## Hydro Abyss Mage
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Hydro_Abyss_Mage_Icon.webp)
+![](/assets/enemy/abyss/Enemy_Hydro_Abyss_Mage_Icon.webp)
 
 Stories circulate among adventurers that Abyss Mages are at the lowest rung of the Abyss Order's hierarchy and that they roam the various lands to scheme fell deeds of destruction. Though they also often make fun of these Abyss Mages, saying that the most harm they can do is to cause rheumatism or a common cold, their power is not to be underestimated.
 
@@ -122,7 +122,7 @@ Stories circulate among adventurers that Abyss Mages are at the lowest rung of t
 {% tab title="Pyro" %}
 ## Pyro Abyss Mage
 
-![](../../../.gitbook/assets/enemy/abyss/Enemy_Pyro_Abyss_Mage_Icon.webp)
+![](/assets/enemy/abyss/Enemy_Pyro_Abyss_Mage_Icon.webp)
 
 For unknown reasons, Abyss Mages are able to communicate with the hilichurls, thus enabling them to manipulate their minds easily. They say that Abyss Mages utter a long-forgotten language from which they draw magical power. 
 

@@ -9,9 +9,9 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 * [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
 * [Full Lisa Written Guide](https://keqingmains.com/lisa/)
 
-## ![](../../.gitbook/assets/element_electro.png) Lisa
+## ![](/assets/element_electro.png) Lisa
 
-![](../../.gitbook/assets/character_lisa_wish.png)
+![](/assets/character_lisa_wish.png)
 
 ## **Base Stats**
 
@@ -78,7 +78,7 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
 | Frames | 21 | 116 |
 | MV/s \(T9%\) | 388.57%/s | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s ||
 | GU | 1A | 2B |
-| ICD | 3 hits / 2.5s <br> \(Shared with NA\) | None |
+| ICD | 3 hits / 2.5s <br/> \(Shared with NA\) | None |
 | Particles | - | 5 \(-\) |
 | Damage Element | Electro | Electro |
 | Damage Type | Skill | Skill |
@@ -123,7 +123,7 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | Duration | 15s |
 | CD | 20s |
 | Poise Damage | 10 |
-| Impulse Type | Summon: 4 <br> Discharge: 2 |
+| Impulse Type | Summon: 4 <br/> Discharge: 2 |
 
 **Notes**
 * **Lightning Rose** has an unlisted instance of damage on initial summon

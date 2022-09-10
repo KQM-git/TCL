@@ -2,9 +2,7 @@
 description: Whopperflowers that have fed for a long time without interruption, their elemental properties are more refined but they lose the mobility their brethren had. 
 ---
 
-# Overworld Bosses
-
-## Regisvines
+# Regisvines
 
 ## Weakspot Details
 
@@ -52,7 +50,7 @@ Gains +100% resistance to all while shield is up.
 {% tab title="Cryo" %}
 ## Cryo Regisvine
 
-![](../../../../.gitbook/assets/enemy/bosses/Enemy_Cryo_Regisvine_Icon.webp)
+![](/assets/enemy/bosses/Enemy_Cryo_Regisvine_Icon.webp)
 
 A monster formed from a vine that was imbued with the essence of biting frost within the Ley Lines.
 
@@ -101,7 +99,7 @@ Upon breaking its' shield, the Cryo Regisvine will curl itself up and lay on the
 {% tab title="Pyro" %}
 ## Pyro Regisvine
 
-![](../../../../.gitbook/assets/enemy/bosses/Enemy_Pyro_Regisvine_Icon.webp)
+![](/assets/enemy/bosses/Enemy_Pyro_Regisvine_Icon.webp)
 
 A giant vine that has absorbed the ancient flame that rages within the Ley Lines. It is restless, as if filled with an endless fury.
 
@@ -148,7 +146,7 @@ Share the same attacks:
 
 ## Electro Regisvine 
 
-<img src="../../../../.gitbook/assets/enemy/bosses/Enemy_Electro_Regisvine_Icon.webp" width="200" height="200" />
+<img src="/assets/enemy/bosses/Enemy_Electro_Regisvine_Icon.webp" width="200" height="200" />
 
 A predatory plant in the same vein as the Cryo and Pyro Regisvines, this creature can create an organ that resembles Electro Cores at its roots or corolla. When this type of organ starts to shift, its state will change, condensing into either a Waxing Stamen and a Waning Stamen. When the two types of stamens are present at the same time, they will attract one another and then unleash a powerful electrical explosion when they make contact. Destroying these stamens quickly is key to an easier battle experience.  
 

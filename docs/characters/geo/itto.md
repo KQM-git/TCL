@@ -7,9 +7,9 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 ## **Resources**
 * [Hanamizaka Heroics: Arataki Itto Guide](https://keqingmains.com/itto/)
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Arataki Itto
+## ![](/assets/element_geo.png) Arataki Itto
 
-![](../../.gitbook/assets/character_itto_wish.png)
+![](/assets/character_itto_wish.png)
 
 ## **Base Stats**
 
@@ -52,7 +52,7 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 
 | String | Talent 9% | Frames | MV/s | Poise Damage* | Impulse Type* |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - | 1 stack: 143.4 <br> 2-5 stacks: 81.7 | Heavy, 250, 0 |
+| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - | 1 stack: 143.4 <br/> 2-5 stacks: 81.7 | Heavy, 250, 0 |
 | Arataki Kesagiri Final Slash DMG | 350.76% | - | - | 143.4 | Air, 100, 800 |
 | Saichimonji Slash DMG | 131.5% | - | - | 120 | 5 |
 | 5CA | 807.5% | 180 | 340.23%/s | - | - |

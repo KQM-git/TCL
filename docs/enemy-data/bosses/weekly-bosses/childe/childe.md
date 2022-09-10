@@ -3,7 +3,7 @@ description: >-
   "Childe" Tartaglia, Eleventh of the Fatui Harbingers..
 ---
 
-# Weekly Bosses
+# Childe
 
 ## Childe - Final form
 

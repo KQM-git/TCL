@@ -4,8 +4,8 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 
 # Yun Jin
 
-## ![](../../.gitbook/assets/element_geo.png) Yun Jin
-![](../../.gitbook/assets/character_yunjin_wish.png)
+## ![](/assets/element_geo.png) Yun Jin
+![](/assets/character_yunjin_wish.png)
 
 ## **Base Stats**
 
@@ -49,7 +49,7 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
-| Plunge DMG |  117.46% | 25 | 1st: 2 <br> Rest: 4 |
+| Plunge DMG |  117.46% | 25 | 1st: 2 <br/> Rest: 4 |
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 {% endtab %}

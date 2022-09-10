@@ -2,15 +2,15 @@
 description:  A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
 ---
 
-# Traveler \(Geo\)
+# Traveler (Geo)
 
 ## **Resources**
 
 * [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Traveler \(Geo\)
+## ![](/assets/element_geo.png) Traveler \(Geo\)
 
-![](../../.gitbook/assets/geo-traveler.png)
+![](/assets/geo-traveler.png)
 
 ## **Base Stats**
 
@@ -149,8 +149,8 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 | Energy Cost | 60s | 
 | Duration | 15s |
 | CD | 15s | 
-| Poise Damage | Shockwave: 100 <br> Ending: 10.59 |
-| Impulse Type | Shockwave: 4 <br> Ending: 3 |
+| Poise Damage | Shockwave: 100 <br/> Ending: 10.59 |
+| Impulse Type | Shockwave: 4 <br/> Ending: 3 |
 
 **Notes**
 * Creates 4 walls one in each cardinal direction from where the character is facing. 

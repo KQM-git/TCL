@@ -4,8 +4,8 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
  
 # Shikanoin Heizou
  
-## ![](../../.gitbook/assets/element_anemo.png) Shikanoin Heizou
-![](../../.gitbook/assets/character_heizou_wish.png)
+## ![](/assets/element_anemo.png) Shikanoin Heizou
+![](/assets/character_heizou_wish.png)
  
 ## **Base Stats**
  
@@ -77,7 +77,7 @@ When you possess 4 Declension stacks, the Conviction effect will be produced, wh
 | Skill DMG \(T9%\) | 386.78% |
 | Declension DMG Bonus \(T9%\) | 96.7%/stack |
 | Conviction DMG Bonus | 193.39% |
-| Particles | 0-1 Stack: 2 \(-\) <br> 2-3 Stacks: 2~3 \(1:1\) <br> 4 Stacks: 3 \(-\) |
+| Particles | 0-1 Stack: 2 \(-\) <br/> 2-3 Stacks: 2~3 \(1:1\) <br/> 4 Stacks: 3 \(-\) |
 | Frames | - |
 | GU | 2U |
 | ICD | None |
@@ -86,8 +86,8 @@ When you possess 4 Declension stacks, the Conviction effect will be produced, wh
 | Damage Type | Elemental Skill |
 | Declension Duration | 60s |
 | CD | 10s |
-| Poise Damage | 0 Stacks: 150 <br> 1 Stack: 175 <br> 2 Stacks: 200 <br> 3 Stacks: 225 <br> 4 Stacks: 250 |
-| Impulse Type | 0-3 Stacks: 4 <br> 4 Stacks: 6 |
+| Poise Damage | 0 Stacks: 150 <br/> 1 Stack: 175 <br/> 2 Stacks: 200 <br/> 3 Stacks: 225 <br/> 4 Stacks: 250 |
+| Impulse Type | 0-3 Stacks: 4 <br/> 4 Stacks: 6 |
 
 **Notes:**  
 * **Declension** stacks persist when Heizou is swapped off or interrupted. 

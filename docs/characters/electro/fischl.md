@@ -9,9 +9,9 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
 * [Fischl Support Weapon Rankings](https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit?usp=sharing) *by itsjaeYOU\#2868*
 
-## ![](../../.gitbook/assets/element_electro.png) Fischl
+## ![](/assets/element_electro.png) Fischl
 
-![](../../.gitbook/assets/character_fischl_wish.png)
+![](/assets/character_fischl_wish.png)
 
 ## **Base Stats**
 

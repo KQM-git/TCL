@@ -2,7 +2,7 @@
 search: false
 ---
 
-# Traveler \(Electro\)
+# Traveler (Electro)
 
 **Main Page:**
 

@@ -9,9 +9,9 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 * [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
 * [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
 
-## ![](../../.gitbook/assets/element_anemo.png) Jean
+## ![](/assets/element_anemo.png) Jean
 
-![](../../.gitbook/assets/character_jean_wish.png)
+![](/assets/character_jean_wish.png)
 
 ## **Base Stats**
 

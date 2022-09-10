@@ -10,9 +10,9 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 # Diluc
 
-## ![](../../.gitbook/assets/element_pyro.png) Diluc
+## ![](/assets/element_pyro.png) Diluc
 
-![](../../.gitbook/assets/character_diluc_wish.png)
+![](/assets/character_diluc_wish.png)
 
 ## **Base Stats**
 
@@ -105,8 +105,8 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 | Energy Cost | 40 | - | - |
 | Duration | 12s | - | - |
 | CD | 12s | - | - | 
-| Poise Damage | Cast: 400 <br> 1st Part: 100 <br> 2nd Part: 100 | 100 | 100 |
-| Impulse Type | Cast: 3 <br> 1st Part: 4 <br> 2nd Part: 5 | Heavy, 900, 0 | 8 |
+| Poise Damage | Cast: 400 <br/> 1st Part: 100 <br/> 2nd Part: 100 | 100 | 100 |
+| Impulse Type | Cast: 3 <br/> 1st Part: 4 <br/> 2nd Part: 5 | Heavy, 900, 0 | 8 |
 
 | Attribute | Field |
 | :--- | :--- |

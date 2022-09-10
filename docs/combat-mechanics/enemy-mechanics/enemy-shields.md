@@ -16,7 +16,7 @@ Currently there are two main types of shields that players should be aware of, *
 
 **Elemental Shields** are shields that **NEED** to be taken down in order to deal direct damage to the enemy HP bar.
 
-![](../../.gitbook/assets/zhongli_vs_mage.png)
+![](/assets/zhongli_vs_mage.png)
 
 To deal with Elemental Shields, you'll need to apply a different **Elemental Aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro Aura**. However, **Pyro Aura** is not the only **Aura** that can take down a **Cryo Shield.**
 
@@ -97,7 +97,7 @@ C=Numbers of Cicin alive.**
 
 One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy has increased resistances while armored so your damage will be significantly lower.
 
-![](../../.gitbook/assets/zhongli_vs_fatui.png)
+![](/assets/zhongli_vs_fatui.png)
 
 The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
 

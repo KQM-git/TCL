@@ -8,9 +8,9 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 * [Raiden Shogun Guide](https://keqingmains.com/raiden/)
 
-## ![](../../.gitbook/assets/element_electro.png) Raiden Shogun
+## ![](/assets/element_electro.png) Raiden Shogun
 
-![](../../.gitbook/assets/character_raiden_wish.png)
+![](/assets/character_raiden_wish.png)
 
 ## **Base Stats**
 
@@ -124,8 +124,8 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 | Energy Cost | 90 | - |
 | Musou Isshin Duration | - | ~7s |
 | CD | 18 s | - |
-| Poise Damage | Beginning Animation: 400 <br> Burst: 150 | \(see below\) |
-| Impulse Type | Beginning Animation: Heavy, 800, 0 <br> Burst: 2 | \(see below\) |
+| Poise Damage | Beginning Animation: 400 <br/> Burst: 150 | \(see below\) |
+| Impulse Type | Beginning Animation: Heavy, 800, 0 <br/> Burst: 2 | \(see below\) |
 
 | String | Talent 9% | Frames | 60 resolve MV | MV/s (60 resolve) | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

@@ -1,5 +1,6 @@
 ---
 description: 'A broad term used to describe discovering game mechanics and optimizing gameplay to maximize outcomes.'
+sidebar_position: 1002
 ---
 
 # Theorycrafting
@@ -18,7 +19,7 @@ The Genshin Impact content sphere is filled misguided advice based on flawed tes
 
 ## How To Start
 
-The Theorycrafting Library is an excellent resource for you to begin reading the intracacies of different units and the game's mechanics. The best way to really get started is to find something that you are particularly interested in and begin exploring. You can find help inside our [Discord](discord.gg/keqing) with plenty of people that are interested in Genshin Theorycrafting.
+The Theorycrafting Library is an excellent resource for you to begin reading the intracacies of different units and the game's mechanics. The best way to really get started is to find something that you are particularly interested in and begin exploring. You can find help inside our [Discord](https://discord.gg/keqing) with plenty of people that are interested in Genshin Theorycrafting.
 
 You can find our Glossary below, to help you navigate the terms that we commonly use.
 

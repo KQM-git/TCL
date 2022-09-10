@@ -4,8 +4,8 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 
 # Yae Miko
 
-## ![](../../.gitbook/assets/element_electro.png) Yae Miko
-![](../../.gitbook/assets/character_yae_miko_wish.png)
+## ![](/assets/element_electro.png) Yae Miko
+![](/assets/character_yae_miko_wish.png)
 
 ## **Base Stats**
 
@@ -113,7 +113,7 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 | Energy Cost | 90 |
 | CD | 22 | 
 | Poise Damage | 75 |
-| Impulse Type | Burst: 3 <br> Tenko Thunderbolt: 2 |
+| Impulse Type | Burst: 3 <br/> Tenko Thunderbolt: 2 |
 
 * It is completely stationary and targets the enemies at the end of the animation, regardless of where the Sesshou Sakuras are.
 * Elemental Particles and Orbs can be pre-funneled.

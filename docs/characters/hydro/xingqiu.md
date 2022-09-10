@@ -10,9 +10,9 @@ description: A young man carrying a longsword who is frequently seen at book boo
 * [Extended Xingqiu Guide: Prospector of Precipitation](https://keqingmains.com/xingqiu-extended/)  
 * [5 Minute Quick Guide to Xingqiu](https://youtu.be/EiOP60N4p58)  
 
-## ![](../../.gitbook/assets/element_hydro.png) Xingqiu
+## ![](/assets/element_hydro.png) Xingqiu
 
-![](../../.gitbook/assets/character_xingqiu_wish.png)
+![](/assets/character_xingqiu_wish.png)
 
 ## **Base Stats**
 
@@ -129,8 +129,8 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 | Energy Cost | 80 |
 | Duration | 15s |
 | CD | 20s |
-| Poise Damage | Cast: 400 <br> Sword Rain: 25 |
-| Impulse Type | Cast: 4 <br> Sword Rain: 0 / 1\* |
+| Poise Damage | Cast: 400 <br/> Sword Rain: 25 |
+| Impulse Type | Cast: 4 <br/> Sword Rain: 0 / 1\* |
 
 \* Only the right one in 2, center one in 3, and center one in 5.
 

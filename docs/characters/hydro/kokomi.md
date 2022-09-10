@@ -8,9 +8,9 @@ description: The Divine Priestess of Watatsumi Island. All of the island's affai
 * [Sangonomiya Kokomi: Pearl of Wisdom](https://keqingmains.com/kokomi/)  
 * [Kokomi Quick Guide](https://youtu.be/FAI39xYCMgo)
 
-## ![](../../.gitbook/assets/element_hydro.png) Sangonomiya Kokomi
+## ![](/assets/element_hydro.png) Sangonomiya Kokomi
 
-![](../../.gitbook/assets/character_kokomi_wish.png)
+![](/assets/character_kokomi_wish.png)
 
 ## **Base Stats**
 

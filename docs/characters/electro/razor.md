@@ -9,9 +9,9 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 * [Razor Mains Discord](https://discord.gg/6qGZNQkWBX)
 * [Legend of Wolvendom: Razor In-Depth Written Guide](https://keqingmains.com/razor/)
 
-## ![](../../.gitbook/assets/element_electro.png) Razor
+## ![](/assets/element_electro.png) Razor
 
-![](../../.gitbook/assets/character_razor_wish.png)
+![](/assets/character_razor_wish.png)
 
 ## **Base Stats**
 
@@ -88,7 +88,7 @@ Each Electro Sigil cleared in this manner will be converted into Energy for Razo
 | Damage Type | Skill | Skill | 
 | CD | 6s | 10s | 
 | Poise Damage | 140 | 300 |
-| Impulse Type | 3 | Normal: 3 <br> During Q: 5 |
+| Impulse Type | 3 | Normal: 3 <br/> During Q: 5 |
 
 **Notes**
 * When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.

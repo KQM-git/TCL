@@ -756,11 +756,11 @@ If a character can cast their elemental skill and then burst in about less than 
 
 **Data:**
 
-![](../../.gitbook/assets/data.png)
+![](/assets/data.png)
 
 **Result:**
 
-![](../../.gitbook/assets/result.png)
+![](/assets/result.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 

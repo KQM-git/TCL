@@ -9,9 +9,9 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 * [Basic Eula Guide](https://keqingmains.com/eula/)
 * [7 Minute Quick Guide to Eula](https://youtu.be/4pm1CQ7ftws)
 
-## ![](../../.gitbook/assets/element_cryo.png) Eula
+## ![](/assets/element_cryo.png) Eula
 
-![](../../.gitbook/assets/character_eula_wish.png.png)
+![](/assets/character_eula_wish.png.png)
 
 ## **Base Stats**
 

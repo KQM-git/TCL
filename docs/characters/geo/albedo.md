@@ -9,9 +9,9 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 * [Albedo Mains Discord](https://discord.gg/uHV2ZCfPXU)
 * [Albedo Written Guide](https://keqingmains.com/albedo/)
 
-## ![](../../.gitbook/assets/element_geo%20%281%29.png) Albedo
+## ![](/assets/element_geo.png) Albedo
 
-![](../../.gitbook/assets/character_albedo_wish.png)
+![](/assets/character_albedo_wish.png)
 
 ## **Base Stats**
 
@@ -112,7 +112,7 @@ If a **Solar Isotoma** created by Albedo himself is on the field, 7 **Fatal Blos
 | Damage Type | Burst | Burst |
 | Energy Cost | 40 | - |
 | Cooldown | 12s | - |
-| Poise Damage | Animation Start: 400 <br> Burst: 100 | 30 |
+| Poise Damage | Animation Start: 400 <br/> Burst: 100 | 30 |
 | Impulse Type | 4 | 2 |
 
 **Notes**

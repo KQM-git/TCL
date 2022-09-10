@@ -28,7 +28,7 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 * Character stat buffs still update normally, unless they are related to other stats that are updated server side, such has Hutao's passive from being below 50% HP.
 * Resistance shred works.  
 * Fall damage is dealt.  
-* ICD behaves normally aside from a few exceptions, so far only the [Rainswords from Xingqiu E](../evidence/general-mechanics/bugs.md\#netlimited-blade-works) have a different application rate than usual.  
+* ICD behaves normally aside from a few exceptions, so far only the [Rainswords from Xingqiu E](../../../evidence/general-mechanics/bugs.md#netlimited-blade-works) have a different application rate than usual.  
 * Healing is inaccessible during high latency. When returned to low latency, the healing will be applied, and healing like Bennett's Q will ignore the HP thresholds.  
 * Character shields work normally under high latency.  
 * Stamina is not consumed under high ping, nor will it regenerate.  

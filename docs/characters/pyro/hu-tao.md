@@ -10,9 +10,9 @@ description: The 77th Director of the Wangsheng Funeral Parlor. She took over th
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 * [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
 
-## ![](../../.gitbook/assets/element_pyro.png) Hu Tao
+## ![](/assets/element_pyro.png) Hu Tao
 
-![](../../.gitbook/assets/character_hu_tao_wish.png)
+![](/assets/character_hu_tao_wish.png)
 
 ## **Base Stats**
 
@@ -58,7 +58,7 @@ Hu Tao consumes 25 stamina to lunge forward, dealing damage to opponents along t
 
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
-* Hu Tao's [Vape MV/s](../../.gitbook/assets/hutaovapemvs.jpg)
+* Hu Tao's [Vape MV/s](/assets/hutaovapemvs.jpg)
 
 From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
 
