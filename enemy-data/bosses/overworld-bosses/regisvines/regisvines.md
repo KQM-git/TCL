@@ -14,14 +14,14 @@ Regisvine will only have a weakspot on their corolla after being stunned twice.
 
 | HP Threshold | Type | Element |
 | :--- | :--- | :--- |
-| 75% HP | 1 particle | own element   
-| 50% HP | 1 particle | own element  
-| 50% HP | 1 particle| own element 
-| Death | 1 orb | own element 
+| 75% HP | 1 Orb | Own Element |  
+| 50% HP | 1 Orb | Own Element |
+| 25% HP | 1 Orb | Own Element | 
+| Death | 1 Orb | Own Element |
 
 ## Resistance Table
 
-Has a starting 70%(+60%) resistance to own element.
+Has a starting 70%(+60%) resistance to own Element.
 Gains +100% resistance to all while shield is up.
 | Damage Type | Resistance |
 | :--- | :--- |
@@ -82,7 +82,7 @@ Upon breaking its' shield, the Cryo Regisvine will curl itself up and lay on the
 * After its' flail, the Regisvine will then return to its' normal combat patterns. Depending on what shield has last been broken, it will transition into the Outer or Inner Ring phases.
 
 ### Inner Ring Phase
-* This phase is started if the last weak spot has been the gem on its base. Upon start, Cryo Regisvine will start to channel Cryo particles and blast it outwards, covering the outer ring of the arena in Cryo and dealing damage to the player should they not dodge. Standing on the Cryo on the outer side of the arena will quickly deplete the player's health.
+* This phase is started if the last weak spot has been the gem on its base. Upon start, Cryo Regisvine will start to channel Cryo Particles and blast it outwards, covering the outer ring of the arena in Cryo and dealing damage to the player should they not dodge. Standing on the Cryo on the outer side of the arena will quickly deplete the player's health.
 * Flails its' body with deadly force.
   * This attack is triggered if a player is too close to the Regisvine.
 * Leans its' head forward at the player, with its' buds (arms) spread, and locks onto the player location, then fires a beam of Cryo from its' corolla for a few seconds, dealing massive damage to any players caught in the beam. After firing the beam at the spot it locked onto, the Regisvine will proceed to slowly turn around 360 degrees.
@@ -140,6 +140,30 @@ Share the same attacks:
 * Slams its' head on the ground and sweeps it 180 degrees.
   * After a short charge-up, hurls a fireball at the player.
 
+
+{% endtab %}
+
+{% tabs %}
+{% tab title="Electro" %}
+
+## Electro Regisvine 
+
+<img src="../../../../.gitbook/assets/enemy/bosses/Enemy_Electro_Regisvine_Icon.webp" width="200" height="200" />
+
+A predatory plant in the same vein as the Cryo and Pyro Regisvines, this creature can create an organ that resembles Electro Cores at its roots or corolla. When this type of organ starts to shift, its state will change, condensing into either a Waxing Stamen and a Waning Stamen. When the two types of stamens are present at the same time, they will attract one another and then unleash a powerful electrical explosion when they make contact. Destroying these stamens quickly is key to an easier battle experience.  
+
+## Attacks 
+
+Upon entering battle, the Electro Regisvine will form a shield \(core\) at its corolla. The shield will periodically shift positions between the Regisvine's corolla and roots. If the shield is destroyed, the regisvine will be stunned for a long period of time with lowered Resistances.
+Every time the shield shifts positions, a Waning Stamen or Waxing Stamen will be produced which can be destroyed using Elemental Reactions. If both types of Stamens are present on the battlefield, they will attract each other and cause a massive explosion, dealing 300% ATK as AoE Electro DMG across the entire arena.  
+
+* Both the shield and the Stamens are weakest to Cryo/Pyro/Dendro. Destroy a Stamen as soon as it spawns to prevent the explosion from occuring.
+* Slams its head into the ground, dealing 100% ATK as AoE Cryo DMG and causing three trails of shockwaves to spike from the ground, with each spike dealing 50% ATK as AoE Electro DMG.
+* Smashes its head on the floor and swings 180 degrees around its roots, dealing 75% ATK as AoE Electro DMG and knocking players away.
+  * This attack can be chained up to two times, and may be followed up by Faceplant.
+* Smashes its head on the floor and swings 360 degrees around its roots, dealing 75% ATK as AoE Electro DMG and knocking players away. This attack is only used immediately after recovering from a stunned state.
+* Raises its buds and rapidly shoots bolts at the player, each dealing 40% ATK as Electro DMG on hit. This attack is only used while the Regisvine's shield is located at its roots.
+* Rapidly summons thunderbolts that mark an area before striking down, each dealing 40% ATK as AoE Electro DMG. This attack is only used while the Regisvine's shield is located at its roots.
 
 {% endtab %}
 {% endtabs %}

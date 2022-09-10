@@ -14,7 +14,7 @@ Some sing that the machine's spirit still lingers in the place where its fate wa
 
 Face.
 
-## Energy drops
+## Energy Drops
 
 | HP Threshold | Type | Element |
 | :--- | :--- | :--- |

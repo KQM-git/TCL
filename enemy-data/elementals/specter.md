@@ -5,20 +5,20 @@ description: >-
 
 # Specters
 
-## Weakspot details
+## Weakspot Details
 
-No weakspot.
+No weakspot.  
 
-## Energy drops
+## Energy Drops
 
 | HP Threshold | Type | Element |
 | :--- | :--- | :--- |
-| 60% HP | 1 particle |  Own element |
-| Death | 1 particle | Own element |
+| 60% HP | 1 Particle |  Own Element |
+| Death | 1 Particle | Own Element |
 
 ## Resistance Table
 
-All specters are immune to their respective element.
+All specters are immune to their respective Element.
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 10% |
@@ -66,6 +66,54 @@ As reason might dictate, monsters made from coalesced Anemo already come equippe
 
 {% endtab %}
 
+{% tab title="Cryo" %}
+
+## Cryo Specter
+
+A certain alchemist once studied these beings, speculating that they might be a kind of Slime or the Traveler, as none of the above needed a Vision to use the elements. He was reprimanded by his teacher.
+
+## Attacks
+
+* Fury: Taking a lot of DMG from a single attack will charge fury.
+  * Stronger attacks charge more fury. 
+  * When they have a full fury bar, they will grow bigger and do more damage.
+* Ice Missle: Shoots a slow homing projectile that deals 100% ATK as Cryo DMG on hit, after a couple of seconds the projectile will lose its homing property and start to travel in a straight line.
+* Frost Bomb: Spins before shooting out a downward snowball that bursts dealing 100% ATK as AoE Cryo DMG.
+* Snowball Sling: Consecutively launches 6 snowballs at the player that burst on contact dealing AoE Cryo DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
+* Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Cryo DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a patch of frost on the ground that deals 50% ATK as AoE Cryo DoT.
+
+{% endtab %}
+
+{% tab title="Dendro" %}
+
+## Dendro Specter 
+
+A researcher from Vahumana once did research into the ecological peculiarities of Dendro Specters, finding them to be quite similar to the legendary “Aranara.” His conclusion was that the Aranara were actually Dendro Specters. This researcher would become a little-known writer of fairy tales.
+
+## Attacks 
+
+Coming soon.  
+
+{% endtab %}
+
+{% tab title="Electro" %}
+
+## Electro Specter
+
+A certain researcher once studied these creatures. He believed that they must be Hypostases of some kind. After all, they both had elemental peculiarities and were birthed from areas saturated with elemental energy, right? By the way, he was later investigated for academic corruption.  
+
+## Attacks
+
+* Fury: Taking a lot of DMG from a single attack will charge fury.
+  * Stronger attacks charge more fury. 
+  * When they have a full fury bar, they will grow bigger and do more damage.
+* Thunderstrike: Floats a bit before summoning three lightning bolts to strike down around the player, each dealing 100% ATK as AoE Electro DMG.
+* Blitz Bump: Spins and charges towards the player in a shaky manner, dealing 125% ATK as Electro DMG.
+* Zip Zap Bash: Zips about a few times, dealing 30% ATK as Electro DMG to players caught in its electricity, before slamming downwards dealing 200% ATK as AoE Electro DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
+* Final Burst: Explodes after a short pause when defeated dealing 125% ATK as AoE Electro DMG. If at max Fury, it will follow the player before it explodes, dealing 150% ATK as AoE Electro DMG.
+
+{% endtab %}
+
 {% tab title="Geo" %}
 
 ## Geo Specter
@@ -105,4 +153,23 @@ On moonlit nights, Hydro Specters will give off a ghostly glow as they float by 
   * This attack is inevitable to happen, and negates the kill from the player, counting as killing itself instead, thus not activating any on kill effects (ex. the blackcliff weapon series).
 
 {% endtab %}
+
+{% tab title="Pyro" %}
+
+## Pyro Specter
+
+There was once an Akademiya student who conducted research into their behavior. He believed that Specters were a form of Crystalfly; since they both had powers of flight and both were birthed in areas saturated with elemental energy. He has not graduated yet.
+
+## Attacks
+
+* Fury: Taking a lot of DMG from a single attack will charge fury.
+  * Stronger attacks charge more fury. 
+  * When they have a full fury bar, they will grow bigger and do more damage.
+* Fire Dance: Loops around in the air to conjure a fireball which it punts at the player, dealing 100% ATK as Pyro DMG.
+* Sneaky Spitfire: Disappears and reappears behind the player, then spits a spray of fire at them, dealing 125% ATK as AoE Pyro DMG.
+* Pursuing Flamethrower: Slowly follows the player while periodically spraying fire at them, dealing 125% ATK as AoE Pyro DMG. This attack will only occur at max Fury and will be the only attack it uses in that state.
+* Final Burst: Explodes after a short pause when defeated, dealing 125% ATK as AoE Pyro DMG. If at max Fury, DMG is increased to 150% ATK, and leaves behind a small fireball that explodes after another short pause, dealing 300% ATK as AoE Pyro DMG.
+
+{% endtab %}
+
 {% endtabs %}

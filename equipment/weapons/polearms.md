@@ -16,7 +16,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 464	| 12.2 |
 | 60+ | 495	| 12.2 |
@@ -48,7 +48,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ER% |
+| Level | Base ATK | ER% |
 | :--- | :--- | :--- |
 | 60 | 382 | 40.6 |
 | 60+ | 414 | 40.6 |
@@ -84,7 +84,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 423 | 16.2 |
 | 60+ | 455 | 16.2 |
@@ -113,7 +113,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 423 | 27.1 |
 | 60+ | 455 | 27.1 |
@@ -142,7 +142,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 382 | 48.7 |
 | 60+ | 414 | 48.7 |
@@ -174,7 +174,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -208,7 +208,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
 | 60+ | 353 | 40.6 |
@@ -239,7 +239,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 25.4 |
 | 60+ | 387 | 25.4 |
@@ -271,7 +271,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 293 | 27.1 |
 | 60+ | 319 | 27.1 |
@@ -304,7 +304,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 293 | 162 |
 | 60+ | 319 | 162 |
@@ -333,7 +333,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 293 | 50.8 |
 | 60+ | 319 | 50.8 |
@@ -365,7 +365,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
 | 60+ | 387 | 22.6 |
@@ -377,6 +377,36 @@
 | 80+ | 523 | 27.9 |
 | 85 | 544 | 29.3 |
 | 90 | 565 | 30.6 |
+{% endtab %}
+{% endtabs %}
+
+### Moonpiercer
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Stillwood Moonshadow | After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16/20/24/28/32**% ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. |
+| Base ATK | 44 - 565 |
+| EM | 24 - 110 |  
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Elemental Mastery |
+| :--- | :--- | :--- |
+| 60 | 361 | 81 |
+| 60+ | 387 | 81 |
+| 65 | 408 | 86 |
+| 70 | 429 | 91 |
+| 70+ | 455 | 91 |
+| 75 | 476 | 96 |
+| 80 | 497 | 101 |
+| 80+ | 523 | 101 |
+| 85 | 544 | 105 |
+| 90 | 565 | 110 |
 {% endtab %}
 {% endtabs %}
 
@@ -396,7 +426,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 361 | 81 |
 | 60+ | 387 | 81 |
@@ -425,7 +455,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -455,7 +485,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
 | 60+ | 353 | 33.8 |
@@ -490,7 +520,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -519,7 +549,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
 | 60+ | 353 | 33.8 |
@@ -548,7 +578,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 10.1 |
 | 60+ | 387 | 10.1 |
@@ -579,7 +609,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 234 | 34.6 |
 | 60+ | 253 | 34.6 |
@@ -608,7 +638,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 292 | 17.3 |
 | 60+ | 311 | 17.3 |
@@ -637,7 +667,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 263 | 17.3 |
 | 60+ | 282 | 17.3 |

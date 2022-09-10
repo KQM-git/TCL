@@ -15,7 +15,7 @@
 {% endtab %}
 
 {% tab title="Details" %}
-| Level | Base Atk | CRIT DMG |
+| Level | Base ATK | CRIT DMG |
 |-------|----------|----------|
 | 1     | 44       | 19.2     |
 | 5     | 58       | 22.3     |
@@ -62,7 +62,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 423 | 27.1 |
 | 60+ | 455 | 27.1 |
@@ -93,7 +93,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 464 | 15.2 |
 | 60+ | 495 | 15.2 |
@@ -122,7 +122,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -156,7 +156,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -187,7 +187,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -219,7 +219,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
 | 60+ | 353 | 40.6 |
@@ -251,7 +251,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
 | 60+ | 319 | 45.1 |
@@ -263,6 +263,36 @@
 | 80+ | 427 | 55.9 |
 | 85 | 440 | 58.6 |
 | 90 | 454 | 61.3 |
+{% endtab %}
+{% endtabs %}
+
+### Forest Regalia
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Forest Sanctuary | After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60/75/90/105/120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack. |
+| Base ATK | 44 - 565 |
+| ER% | 6.7% - 30.6% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 361 | 22.6 |
+| 60+ | 387 | 22.6 |
+| 65 | 408 | 23.9 |
+| 70 | 429 | 25.2 |
+| 70+ | 455 | 25.2 |
+| 75 | 476 | 26.6 |
+| 80 | 497 | 27.9 |
+| 80+ | 523 | 27.9 |
+| 85 | 544 | 29.3 |
+| 90 | 565 | 30.6 |
 {% endtab %}
 {% endtabs %}
 
@@ -282,7 +312,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
 | 60+ | 353 | 33.8 |
@@ -311,7 +341,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -343,7 +373,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
 | 60+ | 319 | 40.6 |
@@ -372,7 +402,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -405,7 +435,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 327 | 122 |
 | 60+ | 353 | 122 |
@@ -440,7 +470,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -473,7 +503,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
 | 60+ | 387 | 22.6 |
@@ -511,7 +541,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
 | 60+ | 353 | 20.3 |
@@ -540,7 +570,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 25.4 |
 | 60+ | 387 | 25.4 |
@@ -572,7 +602,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -601,7 +631,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | DEF% |
+| Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
 | 60 | 327 | 38.1 |
 | 60+ | 353 | 38.1 |
@@ -636,7 +666,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 234 | 138 |
 | 60+ | 253 | 138 |
@@ -665,7 +695,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
 | 60+ | 282 | 25.9 |
@@ -694,7 +724,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
 | 60+ | 282 | 25.9 |
@@ -723,7 +753,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 263 | 32.3 |
 | 60+ | 282 | 32.3 |
@@ -754,7 +784,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | DEF% |
+| Level | Base ATK | DEF% |
 | :--- | :--- | :--- |
 | 60 | 263 | 32.3 |
 | 60+ | 282 | 32.3 |

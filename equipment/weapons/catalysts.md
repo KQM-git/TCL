@@ -17,7 +17,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -53,7 +53,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 382 | 48.7 |
 | 60+ | 414 | 48.7 |
@@ -86,7 +86,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 382 | 24.4 |
 | 60+ | 414 | 24.4 |
@@ -119,7 +119,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -150,7 +150,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 423 | 24.4 |
 | 60+ | 455 | 24.4 |
@@ -184,7 +184,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
 | 60+ | 353 | 40.6 |
@@ -213,7 +213,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
 | 60+ | 319 | 40.6 |
@@ -242,7 +242,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
 | 60+ | 319 | 40.6 |
@@ -275,7 +275,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 327 | 33.8 |
 | 60+ | 353 | 33.8 |
@@ -304,7 +304,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -316,6 +316,37 @@
 | 80+ | 475 | 37.7 |
 | 85 | 492 | 39.5 |
 | 90 | 510 | 41.3 |
+{% endtab %}
+{% endtabs %}
+
+### Fruit of Fulfillment
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Full Circle | Obtain the "Wax and Wane" effect after an Elemental Reaction is triggered, gaining 24/27/30/33/36 Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field. |
+| Base ATK | 42 - 510 |
+| Secondary Stat Type | ER% |
+| ER% | 10% - 45.9% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 327 | 33.8 |
+| 60+ | 353 | 33.8 |
+| 65 | 370 | 35.9 |
+| 70 | 388 | 37.9 |
+| 70+ | 414 | 37.9 |
+| 75 | 431 | 39.9 |
+| 80 | 449 | 41.9 |
+| 80+ | 475 | 41.9 |
+| 85 | 492 | 43.9 |
+| 90 | 510 | 45.9 |
 {% endtab %}
 {% endtabs %}
 
@@ -337,7 +368,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
 | 60+ | 387 | 22.6 |
@@ -366,7 +397,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 361 | 81 |
 | 60+ | 387 | 81 |
@@ -433,7 +464,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -468,7 +499,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -501,7 +532,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 293 | 162 |
 | 60+ | 319 | 162 |
@@ -530,7 +561,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
 | 60+ | 353 | 20.3 |
@@ -562,7 +593,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 327 | 40.6 |
 | 60+ | 353 | 40.6 |
@@ -591,7 +622,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ER% |
+| Level | Base ATK | ER% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
 | 60+ | 387 | 22.6 |
@@ -622,7 +653,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 292 | 69 |
 | 60+ | 311 | 69 |
@@ -655,7 +686,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 234 | 138 |
 | 60+ | 253 | 138 |
@@ -686,7 +717,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 263 | 28.8 |
 | 60+ | 282 | 28.8 |
@@ -717,7 +748,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 263 | 25.9 |
 | 60+ | 282 | 25.9 |
@@ -746,7 +777,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 292 | 11.5 |
 | 60+ | 311 | 11.5 |

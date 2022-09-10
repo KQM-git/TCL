@@ -4,7 +4,7 @@
 
 Head. This weakspot is temporarily lost while charging(armored up).
 
-## Energy drops
+## Energy Drops
 
 | HP Threshold | Type | Element |
 | :--- | :--- | :--- |

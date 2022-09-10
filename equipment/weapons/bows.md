@@ -16,7 +16,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 382 | 36.5 |
 | 60+ | 414 | 36.5 |
@@ -79,7 +79,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 382 | 40.6 |
 | 60+ | 414 | 40.6 |
@@ -93,6 +93,36 @@
 | 90 | 608 | 55.1 |
 {% endtab %}
 {% endtabs %}
+
+### Hunter's Path
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| At the End of the Beast-Paths | Gain **12/15/18/21/24**% All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160/200/240/280/320**% of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s. |
+| Base ATK | 44 - 542 |
+| CRIT Rate% | 9.6% - 44.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | CRIT Rate% |
+| :--- | :--- | :--- |
+| 60 | 341 | 32.5 |
+| 60+ | 373 | 32.5 |
+| 65 | 390 | 34.4 |
+| 70 | 408 | 36.3 |
+| 70+ | 439 | 36.3 |
+| 75 | 457 | 38.3 |
+| 80 | 475 | 40.2 |
+| 80+ | 506 | 40.2 |
+| 85 | 524 | 42.2 |
+| 90 | 542 | 44.1 |
+{% endtab %}
+{% endtabs %}
+
 
 ### Polar Star
 
@@ -110,7 +140,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 382 | 24.4 |
 | 60+ | 414 | 24.4 |
@@ -139,7 +169,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 423 | 16.2 |
 | 60+ | 455 | 16.2 |
@@ -168,7 +198,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 382 | 48.7 |
 | 60+ | 414 | 48.7 |
@@ -199,7 +229,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -231,7 +261,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 361 | 27.1 |
 | 60+ | 387 | 27.1 |
@@ -260,7 +290,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Phys DMG% |
+| Level | Base ATK | Phys DMG% |
 | :--- | :--- | :--- |
 | 60 | 293 | 50.8 |
 | 60+ | 319 | 50.8 |
@@ -272,6 +302,35 @@
 | 80+ | 427 | 62.9 |
 | 85 | 440 | 65.9 |
 | 90 | 454 | 69 |
+{% endtab %}
+{% endtabs %}
+
+### End of the Line 
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Undying Admiration | Increases Elemental Skill DMG by **16/20/24/28/32**% and Elemental Skill CRIT Rate by **6/7.5/9/10.5/12**%. |
+| Base ATK | 42 - 510 |
+| ER% | 10% - 45.9% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 327 | 33.8 |
+| 60+ | 353 | 33.8 |
+| 65 | 370 | 35.9 |
+| 70 | 388 | 37.9 |
+| 70+ | 414 | 37.9 |
+| 75 | 431 | 39.9 |
+| 80 | 449 | 41.9 |
+| 80+ | 475 | 41.9 |
+| 85 | 492 | 43.9 |
+| 90 | 510 | 45.9 |
 {% endtab %}
 {% endtabs %}
 
@@ -323,7 +382,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 293 | 45.1 |
 | 60+ | 319 | 45.1 |
@@ -352,11 +411,40 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 293 | 40.6 |
 | 60+ | 319 | 40.6 |
 | 65 | 333 | 43 |
+| 70 | 347 | 45.4 |
+| 70+ | 373 | 45.4 |
+| 75 | 387 | 47.9 |
+| 80 | 401 | 50.3 |
+| 80+ | 427 | 50.3 |
+| 85 | 440 | 52.7 |
+| 90 | 454 | 55.1 |
+{% endtab %}
+{% endtabs %}
+
+### King's Squire
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Labyrinth Lord's Instruction | Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60/80/100/120/140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100/120/140/160/180**% of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s. |
+| Base ATK | 41 - 454 |
+| ATK% | 12% - 55.1% |
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | ATK% |
+| :--- | :--- | :--- |
+| 60 | 293 | 40.6 |
+| 60+ | 319 | 40.6 |
+| 65 | 333 | 43.0 |
 | 70 | 347 | 45.4 |
 | 70+ | 373 | 45.4 |
 | 75 | 387 | 47.9 |
@@ -381,7 +469,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 38.1 |
 | 60+ | 353 | 38.1 |
@@ -410,7 +498,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 361 | 20.3 |
 | 60+ | 387 | 20.3 |
@@ -440,7 +528,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -469,7 +557,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -504,7 +592,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -535,7 +623,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | ATK% |
+| Level | Base ATK | ATK% |
 | :--- | :--- | :--- |
 | 60 | 327 | 30.4 |
 | 60+ | 353 | 30.4 |
@@ -568,7 +656,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Energy Recharge% |
+| Level | Base ATK | Energy Recharge% |
 | :--- | :--- | :--- |
 | 60 | 361 | 22.6 |
 | 60+ | 387 | 22.6 |
@@ -597,7 +685,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 327 | 122 |
 | 60+ | 353 | 122 |
@@ -626,7 +714,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 327 | 20.3 |
 | 60+ | 353 | 20.3 |
@@ -655,7 +743,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | EM |
+| Level | Base ATK | EM |
 | :--- | :--- | :--- |
 | 60 | 327 | 122 |
 | 60+ | 353 | 122 |
@@ -686,7 +774,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 292 | 23 |
 | 60+ | 311 | 23 |
@@ -719,7 +807,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | Elemental Mastery |
+| Level | Base ATK | Elemental Mastery |
 | :--- | :--- | :--- |
 | 60 | 292 | 69 |
 | 60+ | 311 | 69 |
@@ -750,7 +838,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | HP% |
+| Level | Base ATK | HP% |
 | :--- | :--- | :--- |
 | 60 | 234 | 34.6 |
 | 60+ | 253 | 34.6 |
@@ -779,7 +867,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT DMG% |
+| Level | Base ATK | CRIT DMG% |
 | :--- | :--- | :--- |
 | 60 | 263 | 34.5 |
 | 60+ | 282 | 34.5 |
@@ -808,7 +896,7 @@
 
 {% tab title="Details" %}
 
-| Level | Base Atk | CRIT Rate% |
+| Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 234 | 23 |
 | 60+ | 253 | 23 |

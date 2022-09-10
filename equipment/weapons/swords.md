@@ -578,6 +578,37 @@
 {% endtab %}
 {% endtabs %}
 
+### Sapwood Blade 
+
+{% tabs %}
+{% tab title="Description" %}
+
+| Attribute | Description |
+| :--- | :--- |
+| Forest Sanctuary | After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60/75/90/105/120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack. |
+| Base ATK | 44 - 565 |
+| ER% | 6.7% - 30.6% |
+
+{% endtab %}
+
+{% tab title="Details" %}
+
+| Level | Base ATK | Energy Recharge% |
+| :--- | :--- | :--- |
+| 60 | 361 | 22.6 |
+| 60+ | 387 | 22.6 |
+| 65 | 408 | 23.9 |
+| 70 | 429 | 25.2 |
+| 70+ | 455 | 25.2 |
+| 75 | 476 | 26.6 |
+| 80 | 497 | 27.9 |
+| 80+ | 523 | 27.9 |
+| 85 | 544 | 29.3 |
+| 90 | 565 | 30.6 |
+
+{% endtab %}
+{% endtabs %}
+
 ### The Alley Flash
 
 {% tabs %}

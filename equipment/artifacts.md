@@ -8,8 +8,8 @@
 
 {% tabs %}
 {% tab title="Description " %}
-* 2 Piece Set: Gain a 15% Geo DMG bonus. 
-* 4 Piece Set: Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
+* 2-Piece Set Bonus: Gain a 15% Geo DMG Bonus. 
+* 4-Piece Set Bonus: Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -22,8 +22,8 @@
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Cryo DMG by 15%
-* 4 Piece Set Bonus: When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.
+* 2-Piece Set Bonus: Cryo DMG Bonus +15%
+* 4-Piece Set Bonus: When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -38,8 +38,8 @@
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set: Physical DMG +25%
-* 4 Piece Set: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. 
+* 2-Piece Set Bonus: Physical DMG +25%
+* 4-Piece Set Bonus: After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s. 
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -56,8 +56,8 @@
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set: Gain a 15% Pyro DMG Bonus. 
-* 4 Piece Set Bonus: Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.
+* 2-Piece Set Bonus: Pyro DMG Bonus +15%
+* 4-Piece Set Bonus: Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set Bonus by 50% for 10s. Max 3 stacks.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -68,12 +68,25 @@
 {% endtab %}
 {% endtabs %}
 
+### Deepwood Memories
+
+{% tabs %}
+{% tab title="Description" %}
+* 2-Piece Set Bonus: Dendro DMG Bonus +15%
+* 4-Piece Set Bonus: After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.
+{% endtab %}
+
+{% tab title="Findings" %}
+* Coming soon.  
+{% endtab %}
+{% endtabs %}
+
 ### Echoes of an Offering
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set: ATK +18%.
-* 4 Piece Set Bonus: When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK.  
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK.  
 This effect will be dispelled 0.05s after a Normal Attack deals DMG.
 If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%.  
 This trigger can occur once every 0.2s.
@@ -88,8 +101,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}  
-* 2 Piece Set Bonus: Energy Recharge +20%
-* 4 Piece Set Bonus: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
+* 2-Piece Set Bonus: Energy Recharge +20%
+* 4-Piece Set Bonus: Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.
 {% endtab %}  
 
 {% tab title="Findings" %}  
@@ -101,8 +114,21 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: ATK +18%
-* 4 Piece Set Bonus: If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%
+{% endtab %}
+{% endtabs %}
+
+### Glided Dreams
+
+{% tabs %}
+{% tab title="Description" %}
+* 2-Piece Set Bonus: Elemental Mastery +80
+* 4-Piece Set Bonus: Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.
+{% endtab %}
+
+{% tab title="Findings" %}
+* Coming soon.  
 {% endtab %}
 {% endtabs %}
 
@@ -110,8 +136,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Hydro DMG by 15%
-* 4 Piece Set Bonus: After using an Elemental Skill, Normal Attack and Charged Attack DMG is increased by 30% for 15s. 
+* 2-Piece Set Bonus: Increases Hydro DMG by 15%
+* 4-Piece Set Bonus: After using an Elemental Skill, Normal Attack and Charged Attack DMG is increased by 30% for 15s. 
 {% endtab %}
 
 {% tab title="Findings" %}  
@@ -123,8 +149,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: DEF +30%
-* 4 Piece Set Bonus: A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
+* 2-Piece Set Bonus: DEF +30%
+* 4-Piece Set Bonus: A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.
 {% endtab %}
 
 {% tab title="Findings" %}  
@@ -137,8 +163,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increase Pyro RES by 40%
-* 4 Piece Set Bonus: Increases DMG against enemies that are Burning or affected by Pyro by 35%
+* 2-Piece Set Bonus: Increase Pyro RES by 40%
+* 4-Piece Set Bonus: Increases DMG against enemies that are Burning or affected by Pyro by 35%
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -150,8 +176,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Character Healing Effectiveness by 15%
-* 4 Piece Set Bonus: Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.
+* 2-Piece Set Bonus: Increases Character Healing Effectiveness by 15%
+* 4-Piece Set Bonus: Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -163,8 +189,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Elemental Burst DMG +20%
-* 4 Piece Set Bonus: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
+* 2-Piece Set Bonus: Elemental Burst DMG +20%
+* 4-Piece Set Bonus: Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -176,8 +202,8 @@ This trigger can occur once every 0.2s.
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Healing Bonus +15%.
-* 4 Piece Set Bonus: When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).
+* 2-Piece Set Bonus: Healing Bonus +15%.
+* 4-Piece Set Bonus: When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing).
 At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing.
 (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses).
 Only one Sea-Dyed Foam can be produced every 3.5 seconds.
@@ -207,8 +233,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Physical DMG +25%
-* 4 Piece Set Bonus: When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.
+* 2-Piece Set Bonus: Physical DMG is increased by 25%.
+* 4-Piece Set Bonus: When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -222,8 +248,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Shield Strength +35%
-* 4 Piece Set Bonus: While protected by a Shield, gain an additional 40% Normal and Charged Attack DMG. 
+* 2-Piece Set Bonus: Shield Strength +35%
+* 4-Piece Set Bonus: While protected by a Shield, gain an additional 40% Normal and Charged Attack DMG. 
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -236,8 +262,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: ATK +18%
-* 4 Piece Set Bonus: When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/ Plunging Attack DMG is increased by 50% for 10s.
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/ Plunging Attack DMG is increased by 50% for 10s.
 {% endtab %}  
 
 {% tab title="Findings" %}  
@@ -252,8 +278,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: HP +20%
-* 4 Piece Set Bonus: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
+* 2-Piece Set Bonus: HP +20%
+* 4-Piece Set Bonus: When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -266,8 +292,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Electro DMG by 15%
-* 4 Piece Set Bonus: Increases damage caused by Overloaded, Electro-Charged, and Superconduct DMG by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.
+* 2-Piece Set Bonus: Electro DMG +15%
+* 4-Piece Set Bonus: Increases damage caused by Overloaded, Electro-Charged, and Superconduct DMG by 40%. Triggering such effects decreases Elemental Skill CD by 1s. Can only occur once every 0.8s.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -283,8 +309,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Electro RES by 40%
-* 4 Piece Set Bonus: Increases DMG against enemies affected by Electro by 35%
+* 2-Piece Set Bonus: Increases Electro RES by 40%
+* 4-Piece Set Bonus: Increases DMG against enemies affected by Electro by 35%
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -296,8 +322,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: ATK +18%.
-* 4 Piece Set Bonus: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.
 {% endtab %}
 {% endtabs %}
 
@@ -305,8 +331,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Anemo DMG by 15%
-* 4 Piece Set Bonus: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
+* 2-Piece Set Bonus: Anemo DMG Bonus +15%
+* 4-Piece Set Bonus: Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -325,8 +351,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Elemental Mastery by 80.
-* 4 Piece Set Bonus: Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.
+* 2-Piece Set Bonus: Increases Elemental Mastery by 80.
+* 4-Piece Set Bonus: Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.
 {% endtab %}
 {% endtabs %}
 
@@ -336,8 +362,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: CRIT Rate +12%
-* 4 Piece Set Bonus: When HP is below 70%, CRIT Rate is increased by an additional 24% 
+* 2-Piece Set Bonus: CRIT Rate +12%
+* 4-Piece Set Bonus: When HP is below 70%, CRIT Rate is increased by an additional 24% 
 {% endtab %}
 {% endtabs %}
 
@@ -345,8 +371,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: ATK +18%
-* 4 Piece Set Bonus: Increases DMG by 30% against enemies with more than 50% HP
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: Increases DMG by 30% against enemies with more than 50% HP
 {% endtab %}
 {% endtabs %}
 
@@ -354,8 +380,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Base DEF +30%
-* 4 Piece Set Bonus: Increases Elemental RES by 30% for each element present in the party.
+* 2-Piece Set Bonus: Base DEF +30%
+* 4-Piece Set Bonus: Increases Elemental RES by 30% for each element present in the party.
 {% endtab %}
 {% endtabs %}
 
@@ -363,8 +389,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Elemental Skill DMG increased by 20%
-* 4 Piece Set Bonus: Defeating an enemy has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.
+* 2-Piece Set Bonus: Elemental Skill DMG increased by 20%
+* 4-Piece Set Bonus: Defeating an enemy has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -376,8 +402,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Elemental Mastery by 80.
-* 4 Piece Set Bonus: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
+* 2-Piece Set Bonus: Increases Elemental Mastery by 80.
+* 4-Piece Set Bonus: Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s.
 {% endtab %}
 
 {% tab title="Findings" %}
@@ -392,8 +418,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Increases Normal and Charged Attack DMG by 15%
-* 4 Piece Set Bonus: After using an Elemental Skill, increases Normal and Charged Attack DMG by 25% for 8s.
+* 2-Piece Set Bonus: Increases Normal and Charged Attack DMG by 15%
+* 4-Piece Set Bonus: After using an Elemental Skill, increases Normal and Charged Attack DMG by 25% for 8s.
 {% endtab %}
 {% endtabs %}
 
@@ -466,8 +492,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: ATK +18%
-* 4 Piece Set Bonus: Increases Charged Attack CRIT Rate by 30%
+* 2-Piece Set Bonus: ATK +18%.
+* 4-Piece Set Bonus: Increases Charged Attack CRIT Rate by 30%
 {% endtab %}
 {% endtabs %}
 
@@ -475,7 +501,7 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Energy Recharge +20%
+* 2-Piece Set Bonus: Energy Recharge +20%
 * 4 Piece: Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s.
 {% endtab %}
 {% endtabs %}
@@ -484,8 +510,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: Energy Recharge +20%
-* 4 Piece Set Bonus: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack. 
+* 2-Piece Set Bonus: Energy Recharge +20%
+* 4-Piece Set Bonus: Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack. 
 {% endtab %}
 {% endtabs %}
 
@@ -493,8 +519,8 @@ This effect can still be triggered even when the character who is using this art
 
 {% tabs %}
 {% tab title="Description" %}
-* 2 Piece Set Bonus: All Elemental RES increased by 20% 
-* 4 Piece Set Bonus: Incoming Elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.
+* 2-Piece Set Bonus: All Elemental RES increased by 20% 
+* 4-Piece Set Bonus: Incoming Elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.
 {% endtab %}
 
 {% tab title="Findings" %}
