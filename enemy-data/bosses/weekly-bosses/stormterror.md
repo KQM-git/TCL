@@ -12,7 +12,7 @@ With the passage of long years and amid boundless darkness, even the purest gem 
 
 None.
 
-## Energy drops
+## Energy Drops
 
 None.
 
@@ -62,3 +62,4 @@ None.
 ## Interactions  
 
 * The damage from cracked platforms is normal Anemo damage and is not based on the active character's HP.
+* As of Version 3.0, you can now apply a Hydro aura to Dvalin, which was previously not possible.

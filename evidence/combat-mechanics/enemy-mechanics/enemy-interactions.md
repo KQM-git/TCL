@@ -379,6 +379,21 @@ Stormterror's DoT floor attack has a damage cap. The damage is not based on the 
 **Significance:**  
 Better understanding of Dvalin's DoT attack and how it calculates damage.
 
+### You Can Apply Hydro to Dvalin
+
+**By:** Ultimate Noob\#2955  
+**Added:** 2022-08-30  
+[Discussion](https://tickets.deeznuts.moe/transcripts/you-can-apply-hydro-dvalin)  
+
+**Finding:**  
+You can now apply a Hydro aura to Dvalin, allowing Hu Tao to vape.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/H4_ORH4s-t4)  
+  
+**Significance:**  
+Previously unable to apply Hydro, now able. Fluff.  
+
 ### The Shogun / Magatsu Mitake Narukami no Mikoto
 
 #### Raiden Boss Oneshot Mechanics
