@@ -14,7 +14,7 @@ Anemo & Geo do not apply auras and are instead denoted with U.
 A more in-depth explanation can be found at [Elemental Gauge Theory](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md).
 
 ## Elemental Gauges
-*Updated for Patch 2.7.*
+*Updated for Patch 2.8.*
 
 {% tabs %}
 {% tab title="Hydro" %}
@@ -73,6 +73,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Razor     | - | - | 2B | 2B | On Cast: 2B <br />Additional On-Hit: 1A | - |
 | Raiden    | - | - | Initial Cast: 1A <br />Proc: 1A | - | Initial Hit: 2B <br />Infused Attacks: 1A | - 
 | Sara      | - | 1A | Skill Damage: 1A <br /> C2: 1A | - | 1A | - |
+| Shinobu   | - | - | 1A | 1A | 1A | - |
 | Traveler <br />\(Electro\) | - | - | 1A | - | On Cast: 1A <br />On-Hit Thunder: 1A | - |
 | Yae Miko | 1A | 1A | 1A | 1A | 1A | - |
 
@@ -81,6 +82,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 
 | Character | Normal Attack | Charged Attack | Skill Press | Skill Hold | Burst | Misc |
 | :---      | :--- | :--- | :--- | :--- | :--- | :--- |
+| Heizou    | 1U | 1U | 2U | 2U | Initial Hit: 1U <br /> Windmuster Iris: 1A | - |
 | Jean      | - | - | 2U | 2U | On Cast: 2U <br />On Enter/Exit: 2U | - |
 | Kazuha    | C6 Infusion: 1U | Midare Ranzen \(Plunge\): 1U | 1U | 2U | On Cast: 2U <br /> DoT Field: 1U |
 | Sayu      | - | - | Whirlwind Kick: 1U | Whirlwind Kick Hold: 1U <br /> Windwheel Roll: 1U <br />Windwheel Elemental DMG: 1A <br />Whirwind Kick Elemental DMG: 1A | On Cast: 1U <br />Muji-Muji Daruma DMG: 1U | - |

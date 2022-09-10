@@ -17,7 +17,9 @@ Cooldown reduction is available in the form of either flat amounts or percentage
 | Source | Talent\(s\) Affected | Amount | Condition |
 | :--- | :--- | :--- | :--- |
 | Anemo Resonance | All Skills and Bursts | 5% | N/A |
-| Thundering Fury | All Elemental Skills | 1 sec. | Trigger Overload, Superconduct, or Electro-Charge |
+| Gambler | All Elemental Skills | Reset | Defeating an opponent. 15s CD.
+| Sacrificial \(Series\) | All Elemental Skills | Reset | Dealing damage to an opponent with a Skill. **40/50/60/70/80**% chance. **30/26/22/18/16**s CD. |
+| Thundering Fury | All Elemental Skills | 1s | Trigger Overload, Superconduct, or Electro-Charged |
 | Ayaka C1 | Kamisato Art: Hyouka | 0.3s | When Ayaka's NA or CA deal Cryo DMG (50%). 0.1s CD
 | Amber C4 | Explosive Puppet | 20% | N/A |
 | Barbara C2 | Let The Show Begin | 15% | N/A |
@@ -25,24 +27,25 @@ Cooldown reduction is available in the form of either flat amounts or percentage
 | Bennett A4 | Passion Overload | 50% | Inside Fantastic Voyage |
 | Chongyun C2 | All Skills and Bursts | 15% | Inside Chongyun Field |
 | Eula A4 | Icetide Vortex | Reset | Using Glacial Illumination |
-| Eula C2 | Icetide Vortex, Hold Variant | 6 sec. | N/A |
+| Eula C2 | Icetide Vortex, Hold Variant | 6s | N/A |
 | Gorou C1 | Inazuka All-Round Defense | 2s | When characters \(except Gorou\) deal Geo DMG within General's War Banner or General's Glory. 10s CD.
 | Itto C2 | Royal Descent: Behold, Itto the Evil! | 1.5s - 4.5s | 1.5s per Geo party member | 
 | Kazuha C1 | Chihayaburu | 10% | N/A |
 | Kazuha C1 | Chihayaburu | Reset | Using Kazuha Slash | 
-| Noelle A4 | Breastplate | 1 sec. | 4 Normal/Charged Attack hits |
+| Noelle A4 | Breastplate | 1s | 4 Normal/Charged Attack hits |
 | Ningguang C2 | Jade Screen | Reset | Jade Screen Shatter |
 | Raiden C6 | All Elemental Bursts \(except Raiden\'s\) | 1s (5s Max) | When Raiden's Musou Isshin state attacks hit. 1s CD |
 | Razor A1 | Claw and Thunder | 18% | N/A |
 | Razor A1 | Claw and Thunder | Reset | Using Lightning Fang |
 | Sara C1 | Tengu Stormcall | 1s | When Tengu Juurai grants ATK Bonus or hits. 3s CD | 
-| Sucrose C4 | Anemohypostasis Creation | 1-7 sec. | 7 Normal/Charged Attack hits |
+| Sucrose C4 | Anemohypostasis Creation | 1-7s | 7 Normal/Charged Attack hits |
 | Tartaglia C1 | Foul Legacy: Raging Tide | 20% | N/A |
 | Tartaglia C6 | Foul Legacy: Raging Tide | Reset | Use Havoc: Obliteration in Melee stance |
 | Thoma C1 | Blazing Blessing & Crimson Ooyoroi | 3s | When a character \(except Thoma\) protected by Thoma's Blazing Barrier is attacked |
-| Traveler\(Geo\) A1 | Starfell Sword | 2 sec. | N/A |
+| Traveler \(Geo\) A1 | Starfell Sword | 2s | N/A |
+| Traveler \(Electro\) A1 | Thunderflash | 1.5s - 4.5s | 1.5s per Abundance Amulet picked up by another character
 | Yoimiya C4 | Niwabi Fire-Dance | 1.2s | When Aurous Blaze triggers and explosion | 
-| Yunjin C1 | Opening Flourish | 18% | N/A |
+| Yun Jin C1 | Opening Flourish | 18% | N/A |
 | Xiao C6 | Lemniscatic Wind Cycling | Reset | 1s buff after hitting 2+ enemies with Plunge |
 
 ## Evidence Vault
