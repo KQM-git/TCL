@@ -67,7 +67,7 @@ Of course since Chongyun’s E adheres to this rule this also means you can weav
 **Significance:**  
 If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Chongyun, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the skill, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks.  Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.  
 
-### **Chongyun E and A4 interactions**  
+### Chongyun E and A4 interactions  
 
 **By:** DeFault\#1802  
 **Added:** 2021-06-26  
@@ -115,7 +115,7 @@ Expansion in understanding of Chongyun's kit.
 
 ### C1: Ice Unleashed
 
-#### **Chongyun C1 damage**  
+#### Chongyun C1 damage  
 
 **By:** jamberry#7142  
 **Added:** 2021-08-07  
@@ -184,7 +184,7 @@ Bennett’s E CD w/ A1, A4, Slowing Waters and CY C2: 3.7 seconds
 
 ### C6: Rally of Four Blades
 
-#### **Chongyun C6 DMG bonus is Additive**
+#### Chongyun C6 DMG bonus is Additive
 
 **By:** Artesians\#0002
 

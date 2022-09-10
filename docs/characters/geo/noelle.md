@@ -4,7 +4,7 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 # Noelle
 
-## **Resources**
+## Resources
 
 * [Noelle Mains Discord](https://discord.gg/kvft4TKFet)
 * [Full Noelle Guide: The One-Maid Army](https://keqingmains.com/noelle/)
@@ -13,7 +13,7 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 ![](/assets/character_noelle_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | DEF% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 | 80+ | 11235 | 178 | 743 | 30% |
 | 90 | 12071 | 191 | 799 | 30% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Favonious Bladework - Maid" %}
@@ -136,17 +136,17 @@ Afterwards, Noelle gains the following effects:
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Maid's Knighthood**
+### Maid's Knighthood
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Devotion**
+### Devotion
 
 When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:
 Creates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF.  
@@ -163,7 +163,7 @@ This effect can only occur once every 60s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Nice and Clean**
+### Nice and Clean
 
 Noelle will decrease the CD of **Breastplate** by 1s for every 4 Normal or Charged Attack hits she scores on opponents.
 One hit may be counted every 0.1s.
@@ -172,18 +172,18 @@ One hit may be counted every 0.1s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **I Got Your Back**
+### I Got Your Back
 
 While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Combat Maid**
+### Combat Maid
 
 Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.
 
@@ -192,7 +192,7 @@ Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increas
 {% endtab %}
 
 {% tab title="C3" %}
-### **Invulnerable Maid**
+### Invulnerable Maid
 
 Increases the Level of **Breastplate** by 3.
 Maximum upgrade level is 15.
@@ -200,7 +200,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **To Be Cleaned**
+### To Be Cleaned
 
 When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 400% ATK of **Geo DMG** to surrounding opponents.
 
@@ -219,7 +219,7 @@ When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Favonius Sweeper Master**
+### Favonius Sweeper Master
 
 Increases the Level of **Sweeping Time** by 3.
 Maximum upgrade level is 15.
@@ -227,7 +227,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Must Be Spotless**
+### Must Be Spotless
 
 **Sweeping Time** increases Noelle's ATK by an additional 50% of her DEF.  
 Additionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.
@@ -239,7 +239,7 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Favonius Bladework - Maid" %}

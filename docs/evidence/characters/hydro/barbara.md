@@ -10,7 +10,7 @@ search: false
 
 ## Skill Mechanics
 
-### **Barbara E Animation Cancel**
+### Barbara E Animation Cancel
 
 **By:** RoaringMeow\#2437  
 **Added:** 2020-12-19

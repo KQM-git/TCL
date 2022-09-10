@@ -112,7 +112,7 @@ More details on the frozen aura, including duration, coexisting cryo/hydro, and 
 
   > Pyro triggering Melt and Hydro triggering Vaporize
 
-### **Unit Modifiers to Gauge Consumption**
+### Unit Modifiers to Gauge Consumption
 
 Weak amping elemental triggers have a 0.5x modifier.
 
@@ -184,9 +184,9 @@ Self Auras are elements applied to the player character. This can be from source
 
 These all have the ability to react with a slightly different ruleset from standard Gauge Theory. When a reaction is triggered and the trigger application has a higher U value than the Self Gauge, the Self Aura transitions directly to the other element.
 
-## **Credits**
+## Credits
 
-### **Writers:**
+### Writers:
 
 * Neptunya\#8291
 * Artesians\#0002
@@ -219,7 +219,7 @@ These all have the ability to react with a slightly different ruleset from stand
 
 {% embed url="https://www.youtube.com/watch?v=iSft0tCOdHY" caption="AoShenCraft\'s EGT Simplified \[With Visuals\]" %}
 
-## **External Links**
+## External Links
 
 * [Genshin Impact Fandom](https://genshin-impact.fandom.com/wiki/Elemental_Reactions#:~:text=Transformative%20Reactions%20include%20Overloaded%2C%20Shattered,Elemental%20Mastery%20of%20the%20character)
 * [Elemental Gauge Application Sheet for All Characters](https://docs.google.com/spreadsheets/d/e/2PACX-1vRB--YvbgAJFV4LVRj9Dx-UhzIfT5YbPrYkFUZiwqeBsSQAtNyY8rkRn___knQflvi7UdJKByEXxtRk/pubhtml)

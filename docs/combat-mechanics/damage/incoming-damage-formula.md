@@ -4,13 +4,13 @@ description: An explanation as to how incoming damage is calculated.
 
 # Incoming Damage Formula
 
-## **General Formula for Damage**
+## General Formula for Damage
 
 $$
 Incoming\ Damage = Outgoing\ Damage \times DefenseMultiplier \times ResistanceMultiplier \times (1 - DMG\ Reduction \%)
 $$
 
-## **Base Damage**
+## Base Damage
 
 $$
 BaseDamage =

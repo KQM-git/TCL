@@ -4,7 +4,7 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 # Kaedehara Kazuha
 
-## **Resources**
+## Resources
 
 * [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
 * [6 Minute Quick Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
@@ -13,7 +13,7 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 ![](/assets/character_kazuha_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Elemental Mastery |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 | 80+ | 12410 | 276 | 750 | 115.2 |
 | 90 | 13348 | 297 | 807 | 115.2 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Garyuu Bladework" %}
@@ -148,18 +148,18 @@ If **Autumn Whirlwind** comes into contact with Hydro/Pyro/Cryo/Electro, it will
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Cloud Strider**
+### Cloud Strider
 
 Decreases sprinting Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Soumon Swordsmanship**
+### Soumon Swordsmanship
 
 If **Chihayaburu** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when cast, this **Chihayaburu** will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.
 Elemental Absorption may only occur once per use of **Chihayaburu**.
@@ -177,7 +177,7 @@ Elemental Absorption may only occur once per use of **Chihayaburu**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Poetics of Fuubutsu**
+### Poetics of Fuubutsu
 
 Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.
 
@@ -188,11 +188,11 @@ Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members 
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Scarlet Hills**
+### Scarlet Hills
 
 Decreases **Chihayaburu**'s CD by 10%.
 Using **Kazuha Slash** resets the CD of **Chihayaburu**.
@@ -200,7 +200,7 @@ Using **Kazuha Slash** resets the CD of **Chihayaburu**.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Yamaarashi Tailwind**
+### Yamaarashi Tailwind
 
 The **Autumn Whirlwind** field created by **Kazuha Slash** has the following effects:  
 * Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.
@@ -214,7 +214,7 @@ The Elemental Mastery-increasing effects of this Constellation do not stack.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Maple Monogatari**
+### Maple Monogatari
 
 Increases the Level of **Chihayaburu** by 3.
 Maximum upgrade level is 15.
@@ -222,7 +222,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Oozora Genpou**
+### Oozora Genpou
 
 When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:
 * Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.
@@ -234,7 +234,7 @@ When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effect
 {% endtab %}
 
 {% tab title="C5" %}
-### **Wisdom of Bansei**
+### Wisdom of Bansei
 
 Increases the Level of **Kazuha Slash** by 3.
 Maximum upgrade level is 15.
@@ -242,7 +242,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Crimson Momiji**
+### Crimson Momiji
 
 After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%.
 * The Anemo infusion can be overriden by other infusion effects such as Bennett's C6 Inspiration Field.
@@ -250,7 +250,7 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Ane
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Garyuu Bladework" %}

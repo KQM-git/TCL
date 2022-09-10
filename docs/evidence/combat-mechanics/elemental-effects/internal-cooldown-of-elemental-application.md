@@ -6,7 +6,7 @@ search: false
 
 {% page-ref page="../../../combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md" %}
 
-## **Frame Data of Strings for ICD**
+## Frame Data of Strings for ICD
 
 **By:** Artesians  
 Submitted: 2021-02-26

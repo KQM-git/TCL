@@ -4,7 +4,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 # Ningguang
 
-## **Resources**
+## Resources
 * [Full Ningguang Written Guide: Geo Goddess](https://keqingmains.com/ningguang/)
 * [6 Minute Guide to Ningguang](https://youtu.be/aecxJRSn2d4)
 
@@ -12,7 +12,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 ![](/assets/character_ningguang_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Geo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 | 80+ | 9110 | 198 | 534 | 24% |
 | 90 | 9787 | 212 | 573 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
@@ -133,40 +133,40 @@ If **Starshatter** is casted when a **Jade Screen** is nearby, the **Jade Screen
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Trove of Marvelous Treasures**
+### Trove of Marvelous Treasures
 
 Displays the location of nearby **ore veins used in forging** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Backup Plan**
+### Backup Plan
 
 When Ningguang is in possession of **Star Jades**, her Charged Attack does not consume Stamina.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Strategic Reserve**
+### Strategic Reserve
 
 A character that passes through the **Jade Screen** will gain a 12% **Geo DMG Bonus** for 10s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Piercing Fragments**
+### Piercing Fragments
 
 When a Normal Attack hits, it deals AoE DMG.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Shock Effect**
+### Shock Effect
 
 When **Jade Screen** is shattered, its CD will reset.
 Can occur once every 6s.
@@ -177,7 +177,7 @@ Can occur once every 6s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Majesty Be the Array of Stars**
+### Majesty Be the Array of Stars
 
 Increases the Level of **Starshatter** by 3.
 Maximum upgrade level is 15.
@@ -185,14 +185,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Exquisite be the Jade, Outshining All Beneath**
+### Exquisite be the Jade, Outshining All Beneath
 
 **Jade Screen** increases nearby characters' Elemental RES by 10%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Invincible Be the Jade Screen**
+### Invincible Be the Jade Screen
 
 Increases the Level of **Jade Screen** by 3.
 Maximum upgrade level is 15.
@@ -200,14 +200,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Grandeur Be the Seven Stars**
+### Grandeur Be the Seven Stars
 
 When **Starshatter** is used, Ningguang gains 7 **Star Jades**.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}

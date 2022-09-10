@@ -10,7 +10,7 @@ search: false
 
 ## Attack Mechanics
 
-### **Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves**
+### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves
 
 **By:** EternalDream\#5503  
 **Added:** 2020-11-19
@@ -57,7 +57,7 @@ Very fast way to shoot CAs with Diona while still retaining the ability to aim (
 
 ## Skill Mechanics
 
-### **Diona Elemental Skill ICD analysis**
+### Diona Elemental Skill ICD analysis
 
 **By:** Tractor\#9418  
 **Added:** 2020-11-18

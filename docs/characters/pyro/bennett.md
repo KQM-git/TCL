@@ -2,7 +2,7 @@
 description: A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.
 ---
 
-## **Resources**
+## Resources
 
 * [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
 * [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
@@ -13,7 +13,7 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 ![](/assets/character_bennett_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 | 80+ | 11539 | 178 | 718 | 26.70% |
 | 90 | 12397 | 191 | 771 | 26.70% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Strike of Fortune" %}
@@ -136,23 +136,23 @@ Bennett performs a jumping attack that deals Pyro DMG, creating an **Inspiration
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **It Should Be Safe...**
+### It Should Be Safe...
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Rekindle**
+### Rekindle
 
 Decreases **Passion Overload**'s CD by 20%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Fearnaught**
+### Fearnaught
 
 Within the area created by **Fantastic Voyage**, **Passion Overload** takes on the following effects:
 * CD is reduced by 50%.
@@ -164,25 +164,25 @@ Within the area created by **Fantastic Voyage**, **Passion Overload** takes on t
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Grand Expectation**
+### Grand Expectation
 
 **Fantastic Voyage**'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Impasse Conqueror**
+### Impasse Conqueror
 
 When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Unstoppable Fervor**
+### Unstoppable Fervor
 
 Increases the Level of **Passion Overload** by 3.
 Maximum upgrade level is 15.
@@ -190,7 +190,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Unexpected Odyssey**
+### Unexpected Odyssey
 
 Using a Normal Attack when executing the second attack of **Passion Overload**'s Charge Level 1 allows an additional attack to be performed.
 This additional attack does 135% of the second attack's DMG.
@@ -211,7 +211,7 @@ This additional attack does 135% of the second attack's DMG.
 {% endtab %}
 
 {% tab title="C5" %}
-### **True Explorer**
+### True Explorer
 
 Increases the Level of **Fantastic Voyage** by 3.
 Maximum upgrade level is 15.
@@ -219,7 +219,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Fire Ventures With Me**
+### Fire Ventures With Me
 
 Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s radius gain a 15% **Pyro DMG Bonus** and their weapons are infused with **Pyro**.
 
@@ -232,7 +232,7 @@ Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s ra
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Strike of Fortune" %}

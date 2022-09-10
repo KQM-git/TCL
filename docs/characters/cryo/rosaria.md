@@ -4,7 +4,7 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 # Rosaria
 
-## **Resources**
+## Resources
 * [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)  
 * [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
 
@@ -12,7 +12,7 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 ![](/assets/character_rosaria_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 | 80+ | 11438 | 223 | 661 | 24% |
 | 90 | 12289 | 240 | 710 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Spear of the Church" %}
@@ -107,11 +107,11 @@ While active, the **Ice Lance** periodically releases a blast of cold air, deali
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Night Walk**
+### Night Walk
 
 At night (18:00–6:00), increases the Movement SPD of your own party members by 10%.
 Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.
@@ -120,7 +120,7 @@ Does not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Regina Probationum**
+### Regina Probationum
 
 When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT Rate increases by 12% for 5s.
 
@@ -134,7 +134,7 @@ When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosa
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Shadow Samaritan**
+### Shadow Samaritan
 
 Casting **Rites of Termination** increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.
 CRIT Rate Bonus gained this way cannot exceed 15%.
@@ -145,11 +145,11 @@ CRIT Rate Bonus gained this way cannot exceed 15%.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Unholy Revelation**
+### Unholy Revelation
 
 When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.
 
@@ -159,14 +159,14 @@ When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attac
 {% endtab %}
 
 {% tab title="C2" %}
-### **Land Without Promise**
+### Land Without Promise
 
 The duration of the **Ice Lance** created by **Rites of Termination** is increased by 4s.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **The Wages of Sin**
+### The Wages of Sin
 
 Increases the Level of **Ravaging Confession** by 3.
 Maximum upgrade level is 15.
@@ -174,7 +174,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Painful Grace**
+### Painful Grace
 
 **Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria.
 Can only be triggered once each time **Ravaging Confession** is cast.
@@ -182,7 +182,7 @@ Can only be triggered once each time **Ravaging Confession** is cast.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Last Rites**
+### Last Rites
 
 Increases the Level of **Rites of Termination** by 3.
 Maximum upgrade level is 15.
@@ -190,7 +190,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Divine Retribution**
+### Divine Retribution
 
 **Rites of Termination**'s attack decreases opponents' Physical RES by 20% for 10s.
 
@@ -199,7 +199,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Spear of the Church" %}

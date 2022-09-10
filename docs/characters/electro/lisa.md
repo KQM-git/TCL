@@ -4,7 +4,7 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 # Lisa
 
-## **Resources**
+## Resources
 
 * [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
 * [Full Lisa Written Guide](https://keqingmains.com/lisa/)
@@ -13,7 +13,7 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 ![](/assets/character_lisa_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lvl | Base HP | Base ATK | Base DEF | EM |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 | 80+ | 8907 | 215 | 534 | 96 |
 | 90 | 9570 | 232 | 573 | 96 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Lightning Touch" %}
@@ -146,33 +146,33 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **General Pharmaceutics**
+### General Pharmaceutics
 
 When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Induced Aftershock**
+### Induced Aftershock
 
 Hits by Charged Attacks apply **Violet Arc**'s **Conductive** status to opponents.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Static Electricity Field**
+### Static Electricity Field
 
 Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Infinite Circuit**
+### Infinite Circuit
 
 Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.  
 A maximum of 10 Energy can be regenerated in this manner at any one time.
@@ -183,7 +183,7 @@ A maximum of 10 Energy can be regenerated in this manner at any one time.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Electromagnetic Field**
+### Electromagnetic Field
 
 Holding **Violet Arc** has the following effects:
 * Increases DEF by 25%.
@@ -192,7 +192,7 @@ Holding **Violet Arc** has the following effects:
 {% endtab %}
 
 {% tab title="C3" %}
-### **Resonant Thunder**
+### Resonant Thunder
 
 Increases the Level of **Lightning Rose** by 3.
 Maximum upgrade level is 15.
@@ -200,7 +200,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Plasma Eruption**
+### Plasma Eruption
 
 Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 
@@ -211,7 +211,7 @@ Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Electrocute**
+### Electrocute
 
 Increases the Level of **Violet Arc** by 3.
 Maximum upgrade level is 15.
@@ -219,7 +219,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Pulsating Witch**
+### Pulsating Witch
 
 When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive** status onto nearby opponents.
 This effect can only occur once every 5s.
@@ -230,7 +230,7 @@ This effect can only occur once every 5s.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Lightning Touch" %}

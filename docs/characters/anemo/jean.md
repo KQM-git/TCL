@@ -4,7 +4,7 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 # Jean
 
-## **Resources**
+## Resources
 
 * [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
 * [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
@@ -13,7 +13,7 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 ![](/assets/character_jean_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Healing Bonus% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 | 80+ | 13662 | 222 | 715 | 22.20% |
 | 90 | 14695 | 239 | 769 | 22.20% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Favonius Bladework" %}
@@ -135,40 +135,40 @@ At the same time, she instantly regenerates a large amount of HP for all party m
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Guiding Breeze**
+### Guiding Breeze
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Wind Companion**
+### Wind Companion
 
 On hit, Jean's Normal Attacks have a 50% chance to regenerate HP equal to 15% of Jean's ATK for all party members.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Let the Wind Lead**
+### Let the Wind Lead
 
 Using **Dandelion Breeze** will regenerate 20% of its Energy.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Spiraling Tempest**
+### Spiraling Tempest
 
 Increases the pulling speed of **Gale Blade** after holding for more than 1s, and increases the DMG dealt by 40%.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **People's Aegis**
+### People's Aegis
 
 When Jean picks up an Elemental Orb/Particle, all party members have their Movement SPD and ATK SPD increased by 15% for 15s.
 
@@ -176,7 +176,7 @@ When Jean picks up an Elemental Orb/Particle, all party members have their Movem
 {% endtab %}
 
 {% tab title="C3" %}
-### **When the West Wind Arises**
+### When the West Wind Arises
 
 Increases the Level of **Dandelion Breeze** by 3.
 Maximum upgrade level is 15.
@@ -184,14 +184,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Lands of Dandelion**
+### Lands of Dandelion
 
 Within the **Field** created by **Dandelion Breeze**, all opponents have their Anemo RES decreased by 40%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Outbursting Gust**
+### Outbursting Gust
 
 Increases the Level of **Gale Blade** by 3.
 Maximum upgrade level is 15.
@@ -199,14 +199,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Lion's Fang, Fair Protector of Mondstadt**
+### Lion's Fang, Fair Protector of Mondstadt
 
 Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze**. Upon leaving the **Dandelion Field**, this effect lasts for 3 attacks or 10s.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Favonius Bladework" %}

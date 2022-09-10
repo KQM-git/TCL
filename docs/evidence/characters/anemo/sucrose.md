@@ -10,7 +10,7 @@ search: false
 
 ## Attack Mechanics
 
-### **Sucrose's N1 Attack can, in some Situations, Cease to Exist**
+### Sucrose's N1 Attack can, in some Situations, Cease to Exist
 
 **By:** Mikman\#1149
 
@@ -26,7 +26,7 @@ There's a video linked showing the issue occurring at 0:02 and 0:19 [**https://d
 
 From what I can tell \(complaints about it on Hoyolab\), this has been in the game since launch. Attacking quickly with Sucrose will, in many instances, lose a significant portion of damage \(and more importantly Swirl potential\) because this bug is still in the game.
 
-### **Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?**
+### Can Sucrose's Normal Attacks \(and by extension, Swirl reactions\) trigger Fischl's Lightning Smite?
 
 **By:** Cola\#6861
 
@@ -424,7 +424,7 @@ Teams with C6 Sucrose can plan their absorption time around when they want to ut
 
 ## Synergies/Interactions
 
-### **Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously**
+### Gambler's 4pc effect can stack with sacrificial weapons to refresh two of sucrose's skill charges simultaneously
 
 **By:** Faranight\#0001
 
@@ -438,7 +438,7 @@ If running these together you should avoid triggering both while holding a spare
 
 \[Also applies to other characters with charges\]
 
-### **Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.**
+### Sucrose A4 EM sharing does not benefit from Albedo's A4 EM sharing if Sucrose triggers hers before Albedo triggers his.
 
 **By:** ioannesfifth\#1236  
 **Added:** 2021-01-26  
@@ -469,7 +469,7 @@ As we can see from the images, Albedo's A4 must be active when Sucrose triggers 
 
 25 EM is lost if Sucrose triggers first which may be important in making rotations when min-maxing reaction damage.
 
-### **Diona's Burst at Constellation 6 Stacks with Sucrose's Passive.**
+### Diona's Burst at Constellation 6 Stacks with Sucrose's Passive.
 
 **By:** EggsD\#9603 and AngaFundarge\#4044
 

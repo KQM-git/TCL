@@ -4,14 +4,14 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 # Ganyu
 
-## **Resources**
+## Resources
 * [Short Ganyu Guide](https://keqingmains.com/ganyu/)
 
 ## ![](/assets/element_cryo.png) Ganyu
 
 ![](/assets/character_ganyu_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 | 80+ | 9108 | 311 | 586 | 88.40% |
 | 90 | 9797 | 335 | 630 | 88.40% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Liutian Archery" %}
@@ -136,17 +136,17 @@ During its ability duration, the **Sacred Cryo Pearl** will continuously rain do
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Preserved for the Hunt**
+### Preserved for the Hunt
 
 Refunds 15% of the ore used when crafting Bow-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Undivided Heart**
+### Undivided Heart
 
 After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Arrows** and their resulting bloom effects is increased by 20% for 5s.
 
@@ -155,7 +155,7 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Harmony Between Heaven and Earth**
+### Harmony Between Heaven and Earth
 
 **Celestial Shower** grants a 20% **Cryo DMG Bonus** to active party members in the AoE.
 
@@ -164,11 +164,11 @@ After firing a **Frostflake Arrow**, the CRIT Rate of subsequent **Frostflake Ar
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Dew-Drinker**
+### Dew-Drinker
 
 Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' **Cryo RES** by 15% for 6s upon hit.
 A hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.
@@ -178,14 +178,14 @@ A hit also regenerates 2 Energy for Ganyu. This effect can only occur once per C
 {% endtab %}
 
 {% tab title="C2" %}
-### **The Auspicious**
+### The Auspicious
 
 **Trail of the Qilin** gains 1 additional charge.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Cloud-Strider**
+### Cloud-Strider
 
 Increases the Level of **Celestial Shower** by 3.
 Maximum upgrade level is 15.
@@ -193,7 +193,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Westward Sojourn**
+### Westward Sojourn
 
 Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.  
 Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.  
@@ -202,7 +202,7 @@ The effect lingers for 3s after the opponent leaves the AoE.
 {% endtab %}
 
 {% tab title="C5" %}
-### **The Merciful**
+### The Merciful
 
 Increases the Level of **Trail of the Qilin** by 3.
 Maximum upgrade level is 15.
@@ -210,14 +210,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **The Clement**
+### The Clement
 
 Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30s to not require charging.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Liutian Archery" %}

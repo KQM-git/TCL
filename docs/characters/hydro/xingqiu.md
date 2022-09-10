@@ -4,7 +4,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 # Xingqiu
 
-## **Resources**
+## Resources
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)  
 * [A Revised Xingqiu Handbook](https://keqingmains.com/xingqiu-short/)  
 * [Extended Xingqiu Guide: Prospector of Precipitation](https://keqingmains.com/xingqiu-extended/)  
@@ -14,7 +14,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 ![](/assets/character_xingqiu_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 | 80+ | 9514 | 188 | 705 | 24% |
 | 90 | 10222 | 202 | 758 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Guhua Style" %}
@@ -148,40 +148,40 @@ Initiate **Rainbow Bladework** and fight using an illusory sword rain, while cre
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Flash of Genius**
+### Flash of Genius
 
 When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Hydropathic**
+### Hydropathic
 
 When a **Rain Sword** is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Blades Amidst Raindrops**
+### Blades Amidst Raindrops
 
 Xingqiu gains a 20% **Hydro DMG Bonus**.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **The Scent Remained**
+### The Scent Remained
 
 Increases the maximum number of **Rain Swords** by 1.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Rainbow Upon the Azure Sky**
+### Rainbow Upon the Azure Sky
 
 Extends the duration of **Guhua Sword: Raincutter** by 3s.
 Decreases the **Hydro RES** of opponents hit by **sword rain** attacks by 15% for 4s.
@@ -189,7 +189,7 @@ Decreases the **Hydro RES** of opponents hit by **sword rain** attacks by 15% fo
 {% endtab %}
 
 {% tab title="C3" %}
-### **Weaver of Verses**
+### Weaver of Verses
 
 Increases the Level of **Guhua Sword: Raincutter** by 3.
 Maximum upgrade level is 15.
@@ -197,7 +197,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Evilsoother**
+### Evilsoother
 
 Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by **Guhua Sword: Fatal Rainscreen** is increased by 50%.
 
@@ -207,7 +207,7 @@ Throughout the duration of **Guhua Sword: Raincutter**, the DMG dealt by **Guhua
 {% endtab %}
 
 {% tab title="C5" %}
-### **Embrace of Rain**
+### Embrace of Rain
 
 Increases the Level of **Guhua Sword: Fatal Rainscreen** by 3.
 Maximum upgrade level is 15.
@@ -215,7 +215,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Hence, Call Them My Own Verses**
+### Hence, Call Them My Own Verses
 
 Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhances the third sword rain attack. On hit, the third sword rain attack also regenerates 3 Energy for Xingqiu.
 
@@ -226,7 +226,7 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Guhua Style" %}

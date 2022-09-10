@@ -4,7 +4,7 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 # Eula
 
-## **Resources**
+## Resources
 * [Eula Mains Discord](https://discord.gg/EulaMains)
 * [Basic Eula Guide](https://keqingmains.com/eula/)
 * [7 Minute Quick Guide to Eula](https://youtu.be/4pm1CQ7ftws)
@@ -13,7 +13,7 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 ![](/assets/character_eula_wish.png.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 | 80+ | 12296 | 318 | 698 | 88.40% |
 | 90 | 13226 | 342 | 751 | 88.40% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}
@@ -158,17 +158,17 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Aristocratic Introspection**
+### Aristocratic Introspection
 
 When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Roiling Rime**
+### Roiling Rime
 
 If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Shattered Lightfall Sword** will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.
 
@@ -182,17 +182,17 @@ If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Wellspring of War-Lust**
+### Wellspring of War-Lust
 
 When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart**.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Tidal Illusion**
+### Tidal Illusion
 
 Every time **Icetide Vortex**'s **Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.
 Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
@@ -203,14 +203,14 @@ Each stack consumed will increase the duration of this effect by 6s up to a maxi
 {% endtab %}
 
 {% tab title="C2" %}
-### **Lady of Seafoam**
+### Lady of Seafoam
 
 Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Lawrence Pedigree**
+### Lawrence Pedigree
 
 Increases the Level of **Glacial Illumination** by 3.
 Maximum upgrade level is 15.
@@ -218,7 +218,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **The Obstinacy of One's Inferiors**
+### The Obstinacy of One's Inferiors
 
 **Lightfall Swords** deal 25% increased DMG against opponents with less than 50% HP.
 
@@ -226,7 +226,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Chivalric Quality**
+### Chivalric Quality
 
 Increases the Level of **Icetide Vortex** by 3.
 Maximum upgrade level is 15.
@@ -234,14 +234,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Noble Obligation**
+### Noble Obligation
 
 **Lightfall Swords** created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the **Lightfall Sword** an additional stack of energy.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Favonius Bladework - Edel" %}

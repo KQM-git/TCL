@@ -4,7 +4,7 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 # Amber
 
-## **Resources**
+## Resources
 * [Full Amber Guide](https://keqingmains.com/amber/)
 * [8 Minute Guide to Amber](https://www.youtube.com/watch?v=QW40leHPgJ8)
 
@@ -12,7 +12,7 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 ![](/assets/character_amber_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 | 80+ | 8806 | 208 | 559 | 24% |
 | 90 | 9461 | 223 | 601 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Sharpshooter" %}
@@ -134,34 +134,34 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Gliding Champion**
+### Gliding Champion
 
 Decreases gliding Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Every Arrow Finds Its Target**
+### Every Arrow Finds Its Target
 
 Increases the CRIT Rate of **Fiery Rain** by 10% and widens its AoE by 30%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Precise Shot**
+### Precise Shot
 
 Aimed Shot hits on weak points increase ATK by 15% for 10s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **One Arrow to Rule Them All**
+### One Arrow to Rule Them All
 
 Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG.
 
@@ -176,7 +176,7 @@ Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow
 {% endtab %}
 
 {% tab title="C2" %}
-### **Bunny Triggered**
+### Bunny Triggered
 
 Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
 Explosion via manual detonation deals 200% additional DMG.
@@ -188,7 +188,7 @@ Explosion via manual detonation deals 200% additional DMG.
 {% endtab %}
 
 {% tab title="C3" %}
-### **It Burns!**
+### It Burns!
 
 Increases the Level of **Fiery Rain** by 3.
 Maximum upgrade level is 15.
@@ -196,14 +196,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **It's Not Just Any Doll...**
+### It's Not Just Any Doll...
 
 Decreases **Explosive Puppet**'s CD by 20%. Adds 1 additional charge.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **It's Baron Bunny!**
+### It's Baron Bunny!
 
 Increases the Level of **Explosive Puppet** by 3.
 Maximum upgrade level is 15.
@@ -211,14 +211,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Wildfire**
+### Wildfire
 
 **Fiery Rain** increases all party members' Movement SPD by 15% and ATK by 15% for 10s.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Sharpshooter" %}

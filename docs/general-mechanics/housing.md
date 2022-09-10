@@ -1,7 +1,7 @@
 # Housing
 
 
-## **Evidence Vault:**
+## Evidence Vault:
 
 {% page-ref page="../../evidence/general-mechanics/housing.md" %}
 

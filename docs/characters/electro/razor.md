@@ -4,7 +4,7 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 # Razor
 
-## **Resources**
+## Resources
 
 * [Razor Mains Discord](https://discord.gg/6qGZNQkWBX)
 * [Legend of Wolvendom: Razor In-Depth Written Guide](https://keqingmains.com/razor/)
@@ -13,7 +13,7 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 ![](/assets/character_razor_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Phys DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 | 80+ | 11134 | 217 | 699 | 30% |
 | 90 | 11962 | 234 | 751 | 30% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Steel Fang" %}
@@ -146,25 +146,25 @@ When Razor leaves the field, a maximum of 10 Energy will be returned to him base
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Wolvensprint**
+### Wolvensprint
 
 Decreases sprinting Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Awakening**
+### Awakening
 
 Decreases **Claw and Thunder**'s CD by 18%.  
 Using **Lightning Fang** resets the CD of **Claw and Thunder**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Hunger**
+### Hunger
 
 When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 
@@ -174,25 +174,25 @@ When Razor's Energy is below 50%, increases Energy Recharge by 30%.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Wolf's Instinct**
+### Wolf's Instinct
 
 Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Suppression**
+### Suppression
 
 Increases CRIT Rate against opponents with less than 30% HP by 10%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Soul Companion**
+### Soul Companion
 
 Increases the Level of **Lightning Fang** by 3.
 Maximum upgrade level is 15.
@@ -200,14 +200,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Bite**
+### Bite
 
 When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Sharpened Claws**
+### Sharpened Claws
 
 Increases the Level of **Claw and Thunder** by 3.
 Maximum upgrade level is 15.
@@ -215,7 +215,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Lupus Fulguris**
+### Lupus Fulguris
 
 Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.
 When Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an **Electro Sigil** for **Claw and Thunder**.
@@ -229,7 +229,7 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Steel Fang" %}

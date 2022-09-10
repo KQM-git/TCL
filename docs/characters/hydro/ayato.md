@@ -7,7 +7,7 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 ## ![](/assets/element_hydro.png) Kamisato Ayato
 ![](/assets/character_ayato_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv  | Base HP | Base ATK | Base DEF | CRIT DMG |
 |-----|---------|----------|----------|----------|
@@ -19,7 +19,7 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 | 80+ | 12751   | 278      | 715      | 88.40%   |
 | 90  | 13715   | 299      | 769      | 88.40%   |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Normal Attack: Kamisato Art - Marobashi" %}
@@ -129,18 +129,18 @@ While this space exists, Bloomwater Blades will constantly rain down and attack 
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Kamisato Art: Daily Cooking**
+### Kamisato Art: Daily Cooking
 
 When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional "Suspicious" dish of the same type.
 
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Kamisato Art: Mine Wo Matoishi Kiyotaki**
+### Kamisato Art: Mine Wo Matoishi Kiyotaki
 
 Kamisato Art: Kyouka has the following properties:  
 • After it is used, Kamisato Ayato will gain 2 Namisen stacks.  
@@ -148,49 +148,49 @@ Kamisato Art: Kyouka has the following properties:
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Kamisato Art: Michiyuku Hagetsu**
+### Kamisato Art: Michiyuku Hagetsu
 
 If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Kyouka Fuushi**
+### Kyouka Fuushi
 
 Shunsuiken DMG is increased by 40% against opponents with 50% HP or less.
 {% endtab %}
 
 {% tab title="C2" %}
-### **World Source**
+### World Source
 
 Namisen's maximum stack count is increased to 5. When Kamisato Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%.
 {% endtab %}
 
 {% tab title="C3" %}
-### **To Admire the Flowers**
+### To Admire the Flowers
 
 Increases the Level of Kamisato Art: Kyouka by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Endless Flow**
+### Endless Flow
 
 After using Kamisato Art: Suiyuu, all nearby party members will have 15% increased Normal Attack SPD for 15s.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Bansui Ichiro**
+### Bansui Ichiro
 
 Increases the Level of Kamisato Art: Suiyuu by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Boundless Origin**
+### Boundless Origin
 
 After using Kamisato Art: Kyouka, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.  
 Both these Shunsuiken attacks will not be affected by Namisen.
@@ -206,7 +206,7 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Normal Attack: Kamisato Art - Marobashi" %}

@@ -4,7 +4,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 # Xiangling
 
-## **Resources**
+## Resources
 
 * [Xiangling Guide](https://keqingmains.com/xiangling/)
 
@@ -12,7 +12,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 ![](/assets/character_xiangling_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Elemental Mastery |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 | 80+ | 10122 | 210 | 623 | 96 |
 | 90 | 10875 | 225 | 669 | 96 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Dough-Fu" %}
@@ -110,40 +110,40 @@ The **Pyronado** will move with your character for the ability's duration, deali
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Chef de Cuisine**
+### Chef de Cuisine
 
 When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Crossfire**
+### Crossfire
 
 Increases the flame range of Guoba by 20%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Beware, It's Super Hot!**
+### Beware, It's Super Hot!
 
 When **Guoba Attack**'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Crispy Outside, Tender Inside**
+### Crispy Outside, Tender Inside
 
 Opponents hit by Guoba's attacks have their **Pyro RES** reduced by 15% for 6s.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Oil Meets Fire**
+### Oil Meets Fire
 
 The last attack in a Normal Attack sequence applies the **Implode** status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as **AoE Pyro DMG**.
 
@@ -156,7 +156,7 @@ The last attack in a Normal Attack sequence applies the **Implode** status onto 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Deepfry**
+### Deepfry
 
 Increases the Level of **Pyronado** by 3.
 Maximum upgrade level is 15.
@@ -164,14 +164,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Slowbake**
+### Slowbake
 
 **Pyronado**'s duration is increased by 40%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Guoba Mad**
+### Guoba Mad
 
 Increases the Level of **Guoba Attack** by 3.
 Maximum upgrade level is 15.
@@ -179,7 +179,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Condensed Pyronado**
+### Condensed Pyronado
 
 For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bonus**.
 
@@ -188,7 +188,7 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bon
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Dough-Fu" %}

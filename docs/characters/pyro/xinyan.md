@@ -4,14 +4,14 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 
 # Xinyan
 
-## **Resources**
+## Resources
 [A Guide to Liyue’s Rockstar](https://keqingmains.com/xinyan/)
 
 ## ![](/assets/element_pyro.png) Xinyan
 
 ![](/assets/character_xinyan_wish.webp)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 | 80+ | 10425 | 231 | 743 | 24% |
 | 90 | 11201 | 249 | 799 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Dance on Fire" %}
@@ -121,17 +121,17 @@ The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG t
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **A Rad Recipe**
+### A Rad Recipe
 
 When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **"The Show Goes On, Even Without an Audience..."**
+### "The Show Goes On, Even Without an Audience..."
 
 Decreases the number of opponents **Sweeping Fervor** must hit to trigger each level of shielding.
 * Shield Level 2: Lead-In requirement reduced to 1 opponent hit.
@@ -139,17 +139,17 @@ Decreases the number of opponents **Sweeping Fervor** must hit to trigger each l
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **"...Now That's Rock 'N' Roll!"**
+### "...Now That's Rock 'N' Roll!"
 
 Characters shielded by **Sweeping Fervor** deal 15% increased Physical DMG.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Fatal Acceleration**
+### Fatal Acceleration
 
 Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.
 Can only occur once every 5s.
@@ -159,7 +159,7 @@ Can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Impromptu Opening**
+### Impromptu Opening
 
 **Riff Revolution**'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.
 
@@ -169,7 +169,7 @@ Can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Double-Stop**
+### Double-Stop
 
 Increases the Level of **Sweeping Fervor** by 3.
 Maximum upgrade level is 15.
@@ -177,14 +177,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Wildfire Rhythm**
+### Wildfire Rhythm
 
 **Sweeping Fervor**'s swing DMG decreases opponent's Physical RES by 15% for 12s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Screamin' for an Encore**
+### Screamin' for an Encore
 
 Increases the Level of **Riff Revolution** by 3.
 Maximum upgrade level is 15.
@@ -192,7 +192,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Rockin' in a Flaming World**
+### Rockin' in a Flaming World
 
 Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.
 
@@ -201,7 +201,7 @@ Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additional
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Dance on Fire" %}

@@ -7,7 +7,7 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 ## ![](/assets/element_hydro.png) Yelan
 ![](/assets/character_yelan_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv  | Base HP | Base ATK | Base DEF | CRIT Rate |
 |-----|---------|----------|----------|-----------|
@@ -20,7 +20,7 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 | 90  | 14450   | 244      | 548      | 24.20%    |
 
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Normal Attack: Stealthy Bowshot" %}
@@ -160,17 +160,17 @@ Follows the character around and will initiate a coordinated attack under the fo
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Necessary Calculation**
+### Necessary Calculation
 
 Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.  
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Turn Control**
+### Turn Control
 
 When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.  
 
@@ -179,7 +179,7 @@ When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Adapt With Ease**
+### Adapt With Ease
 
 So long as an Exquisite Throw is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.  
 The pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.  
@@ -191,11 +191,11 @@ The pre-existing effect will be dispelled if Depth-Clarion Dice is recast during
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Enter the Plotters**
+### Enter the Plotters
 
 Lingering Lifeline gains 1 additional charge.  
 
@@ -205,7 +205,7 @@ Lingering Lifeline gains 1 additional charge.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Taking All Comers**
+### Taking All Comers
 
 When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.  
 This effect can trigger once every 1.8s.
@@ -213,14 +213,14 @@ This effect can trigger once every 1.8s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Beware the Trickster's Dice**
+### Beware the Trickster's Dice
 
 Increases the Level of Depth-Clarion Dice by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Bait-and-Switch**
+### Bait-and-Switch
 
 Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.  
 
@@ -231,14 +231,14 @@ Increases all party members' Max HP by 10% for 25s for every opponent marked by 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Dealer's Sleight**
+### Dealer's Sleight
 
 Increases the Level of Lingering Lifeline by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Winner Takes All**
+### Winner Takes All
 
 After using Depth-Clarion Dice, Yelan will enter the Mastermind state.  
 In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.  
@@ -251,7 +251,7 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Normal Attack: Stealthy Bowshot" %}

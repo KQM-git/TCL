@@ -2,7 +2,7 @@
 description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.
 ---
 
-## **Resources**
+## Resources
 
 * [Full Zhongli Written Guide](https://keqingmains.com/zhong-li/)
 * [Zhongli Mains Discord](https://discord.gg/3h5uepPXKr)
@@ -13,7 +13,7 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 ![](/assets/character_zhongli_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Geo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 | 80+ | 13662 | 233 | 686 | 28.80% |
 | 90 | 14695 | 251 | 738 | 28.80% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Rain of Stone" %}
@@ -154,17 +154,17 @@ Opponents affected by **Petrification** cannot move.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Arcanum of Crystal**
+### Arcanum of Crystal
 
 Refunds 15% of the ore used when crafting Polearm-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Resonant Waves**
+### Resonant Waves
 
 When the Jade Shield takes DMG, it will Fortify:
 * Fortified characters have 5% increased Shield Strength.
@@ -177,7 +177,7 @@ Can stack up to 5 times, and lasts until the Jade Shield disappears.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Dominance of Earth**
+### Dominance of Earth
 
 Zhongli deals bonus DMG based on his Max HP:
 * Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.
@@ -186,11 +186,11 @@ Zhongli deals bonus DMG based on his Max HP:
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Rock, the Backbone of Earth**
+### Rock, the Backbone of Earth
 
 Increases the maximum number of Stone Steles created by **Dominus Lapidis** that may exist simultaneously to 2.
 
@@ -198,7 +198,7 @@ Increases the maximum number of Stone Steles created by **Dominus Lapidis** that
 {% endtab %}
 
 {% tab title="C2" %}
-### **Stone, the Cradle of Jade**
+### Stone, the Cradle of Jade
 
 **Planet Befall** grants nearby characters on the field a **Jade Shield** when it descends.
 
@@ -206,7 +206,7 @@ Increases the maximum number of Stone Steles created by **Dominus Lapidis** that
 {% endtab %}
 
 {% tab title="C3" %}
-### **Jade, Shimmering through Darkness**
+### Jade, Shimmering through Darkness
 
 Increases the Level of **Dominus Lapidis** by 3.
 Maximum upgrade level is 15.
@@ -214,14 +214,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Topaz, Unbreakable and Fearless**
+### Topaz, Unbreakable and Fearless
 
 Increases **Planet Befall**'s AoE by 20% and increases the duration of **Planet Befall**'s **Petrification** effect by 2s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Lazuli, Herald of the Order**
+### Lazuli, Herald of the Order
 
 Increases the Level of **Planet Befall** by 3.
 Maximum upgrade level is 15.
@@ -229,7 +229,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Chrysos, Bounty of Dominator**
+### Chrysos, Bounty of Dominator
 
 When the **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current character.
 A single instance of regeneration cannot exceed 8% of that character's Max HP.
@@ -237,7 +237,7 @@ A single instance of regeneration cannot exceed 8% of that character's Max HP.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Rain of Stone" %}

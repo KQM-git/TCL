@@ -4,7 +4,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 # Traveler (Geo)
 
-## **Resources**
+## Resources
 
 * [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)
 
@@ -12,7 +12,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 ![](/assets/geo-traveler.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description:  A traveler from another world who had their only kin taken away, f
 | 80+ | 10122 | 198 | 635 | 24% |
 | 90 | 10875 | 212 | 683 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Foreign Rockblade Lumine" %}
@@ -161,7 +161,7 @@ The stone wall is considered a Geo Construct, and may be used to block attacks.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -171,13 +171,13 @@ The Traveller has no passive talent.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Shattered Darkrock**
+### Shattered Darkrock
 
 Reduces **Starfell Sword**'s CD by 2s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Frenzied Rockslide**
+### Frenzied Rockslide
 
 The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as **AoE Geo DMG**.
 
@@ -192,11 +192,11 @@ The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK a
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Invincible Stonewall**
+### Invincible Stonewall
 
 Party members within the radius of **Wake of Earth** have their CRIT Rate increased by 10% and have increased resistance against interruption.
 
@@ -208,7 +208,7 @@ Party members within the radius of **Wake of Earth** have their CRIT Rate increa
 {% endtab %}
 
 {% tab title="C2" %}
-### **Rockcore Meltdown**
+### Rockcore Meltdown
 
 When the meteorite created by **Starfell Sword** is destroyed, it will also explode, dealing additional **AoE Geo DMG** equal to the amount of damage dealt by Starfell Sword.
 
@@ -222,7 +222,7 @@ When the meteorite created by **Starfell Sword** is destroyed, it will also expl
 {% endtab %}
 
 {% tab title="C3" %}
-### **Will of the Rock**
+### Will of the Rock
 
 Increases the Level of **Wake of Earth** by 3.
 Maximum upgrade level is 15.
@@ -230,7 +230,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Reaction Force**
+### Reaction Force
 
 The shockwave triggered by **Wake of Earth** regenerates 5 Energy for every opponent hit.
 A maximum of 25 Energy can be regenerated in this manner at any one time.
@@ -240,7 +240,7 @@ A maximum of 25 Energy can be regenerated in this manner at any one time.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Meteorite Impact**
+### Meteorite Impact
 
 Increases the Level of **Starfell Sword** by 3.
 Maximum upgrade level is 15.
@@ -248,7 +248,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Everlasting Boulder**
+### Everlasting Boulder
 
 The barrier created by **Wake of Earth** lasts 5s longer.  
 The meteorite created by **Starfell Sword** lasts 10s longer.
@@ -256,7 +256,7 @@ The meteorite created by **Starfell Sword** lasts 10s longer.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Foreign Rockblade" %}

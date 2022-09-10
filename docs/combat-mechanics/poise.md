@@ -45,7 +45,7 @@ You can stack Poise and allow your characters to further avoid being staggered.
 
 ### Factors that affect Poise Damage
 
-#### **Different attacks/skills have different poise damage.**
+#### Different attacks/skills have different poise damage.
 
 > Zhongli's elemental skill does more poise damage than his N1.
 

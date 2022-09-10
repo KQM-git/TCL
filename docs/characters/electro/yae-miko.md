@@ -7,7 +7,7 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 ## ![](/assets/element_electro.png) Yae Miko
 ![](/assets/character_yae_miko_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv  | Base HP | Base ATK | Base DEF | CRIT Rate |
 |-----|---------|----------|----------|-----------|
@@ -19,7 +19,7 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 | 80+ | 9643    | 316      | 529      | 24.20%    |
 | 90  | 10372   | 340      | 569      | 24.20%    |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Normal Attack: Spiritfox Sin-Eater" %}
@@ -122,23 +122,23 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Meditations of a Yako**
+### Meditations of a Yako
 
 Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **The Shrine's Sacred Shade**
+### The Shrine's Sacred Shade
 
 When casting **Great Secret Art: Tenko Kenshin**, each **Sesshou Sakura** destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Enlightened Blessing**
+### Enlightened Blessing
 
 Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.
 
@@ -147,11 +147,11 @@ Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Saku
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Yakan Offering**
+### Yakan Offering
 
 Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
 
@@ -160,14 +160,14 @@ Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae
 {% endtab %}
 
 {% tab title="C2" %}
-### **Fox's Mooncall**
+### Fox's Mooncall
 
 **Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **The Seven Glamours**
+### The Seven Glamours
 
 Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.
 Maximum upgrade level is 15.
@@ -175,14 +175,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Sakura Channeling**
+### Sakura Channeling
 
 When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Mischievous Teasing**
+### Mischievous Teasing
 
 Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.
 Maximum upgrade level is 15.
@@ -190,14 +190,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Forbidden Art: Daisesshou**
+### Forbidden Art: Daisesshou
 
 **The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Spiritfox Sin-Eater" %}

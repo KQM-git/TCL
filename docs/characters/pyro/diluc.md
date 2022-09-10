@@ -2,7 +2,7 @@
 description: 'The tycoon of a winery empire in Mondstadt, unmatched in every possible way.'
 ---
 
-## **Resources**
+## Resources
 
 * [Diluc: The Dark Side of the Dawn (In-Depth Written Guide)](https://keqingmains.com/diluc/)
 * [3 Minute Guide to Diluc](https://www.youtube.com/watch?v=KdBdeGvtyUM)
@@ -14,7 +14,7 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 
 ![](/assets/character_diluc_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT Rate% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ description: 'The tycoon of a winery empire in Mondstadt, unmatched in every pos
 | 80+ | 12068 | 311 | 729 | 24.2 |
 | 90 | 12981 | 335 | 784 | 24.2 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Tempered Sword" %}
@@ -118,23 +118,23 @@ The searing flames that run down his blade cause it to be infused with Pyro.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Tradition of the Dawn Knight**
+### Tradition of the Dawn Knight
 
 Refunds 15% of the ore used when crafting Claymore-type weapons.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Relentless**
+### Relentless
 
 Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Blessing of Phoenix**
+### Blessing of Phoenix
 
 The **Pyro Infusion** provided by **Dawn** lasts for 4s longer. Additionally, Diluc gains 20% **Pyro DMG Bonus** during the duration of this effect.
 
@@ -143,18 +143,18 @@ The **Pyro Infusion** provided by **Dawn** lasts for 4s longer. Additionally, Di
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Conviction**
+### Conviction
 
 Diluc deals 15% more DMG to opponents whose HP is above 50%.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Searing Ember**
+### Searing Ember
 
 When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.  
 This effect can stack up to 3 times and can only occur once every 1.5s.
@@ -162,7 +162,7 @@ This effect can stack up to 3 times and can only occur once every 1.5s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Fire and Steel**
+### Fire and Steel
 
 Increases the Level of **Searing Onslaught** by 3.
 Maximum upgrade level is 15.
@@ -170,7 +170,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Flowing Flame**
+### Flowing Flame
 
 Casting **Searing Onslaught** in rhythm greatly increases damage dealt.
 2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s.
@@ -178,7 +178,7 @@ Casting **Searing Onslaught** in rhythm greatly increases damage dealt.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Phoenix, Harbinger of Dawn**
+### Phoenix, Harbinger of Dawn
 
 Increases the Level of **Dawn** by 3.
 Maximum upgrade level is 15.
@@ -186,7 +186,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Flaming Sword, Nemesis of the Dark**
+### Flaming Sword, Nemesis of the Dark
 
 After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.  
 Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
@@ -194,7 +194,7 @@ Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Tempered Sword" %}

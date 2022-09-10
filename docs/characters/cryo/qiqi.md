@@ -4,14 +4,14 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 
 # Qiqi
 
-## **Resources**
+## Resources
 * [Qiqi Guide](https://keqingmains.com/qiqi/)
 
 ## ![](/assets/element_cryo.png) Qiqi
 
 ![](/assets/character_qiqi_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Healing Bonus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 | 80+ | 11499 | 267 | 857 | 22.2% |
 | 90 | 12368 | 287 | 922 | 22.2% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Ancient Sword Art" %}
@@ -123,47 +123,47 @@ When opponents affected by this Talisman take DMG, the character that dealt this
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Former Life Memories**
+### Former Life Memories
 
 Displays the location of nearby **resources unique to Liyue** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Life-Prolonging Methods**
+### Life-Prolonging Methods
 
 When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **A Glimpse Into Arcanum**
+### A Glimpse Into Arcanum
 
 When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a **Fortune-Preserving Talisman** to them for 6s. This effect can only occur once every 30s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Ascetics of Frost**
+### Ascetics of Frost
 
 When the **Herald of Frost** hits an opponent marked by a **Fortune-Preserving Talisman**, Qiqi regenerates 2 Energy.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Frozen to the Bone**
+### Frozen to the Bone
 
 Qiqi's Normal and Charge Attack DMG against opponents affected by **Cryo** is increased by 15%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Ascendant Praise**
+### Ascendant Praise
 
 Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.
 Maximum upgrade level is 15.
@@ -171,14 +171,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Divine Suppression**
+### Divine Suppression
 
 Targets marked by the **Fortune-Preserving Talisman** have their ATK decreased by 20%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Crimson Lotus Bloom**
+### Crimson Lotus Bloom
 
 Increases the Level of **Adeptus Art: Herald of Frost** by 3.
 Maximum upgrade level is 15.
@@ -186,7 +186,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Rite of Resurrection**
+### Rite of Resurrection
 
 Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.  
 This effect can only occur once every 15 mins.
@@ -194,7 +194,7 @@ This effect can only occur once every 15 mins.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Ancient Sword Art" %}

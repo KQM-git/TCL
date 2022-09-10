@@ -4,7 +4,7 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 # Tartaglia
 
-## **Resources**
+## Resources
 
 * [Childe Mains Discord](https://discord.gg/Childe)
 * [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
@@ -14,7 +14,7 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 ![](/assets/character_tartaglia_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Hydro DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 | 80+ | 12182 | 280 | 757 | 28.80% |
 | 90 | 13103 | 301 | 815 | 28.80% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Cutting Torrent" %}
@@ -224,23 +224,23 @@ A chart of Tartgalia's different Riptide effects
 
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Master of Weaponry**
+### Master of Weaponry
 
 Increases your own party members' **Normal Attack** Level by 1.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Never Ending**
+### Never Ending
 
 Extends **Riptide** duration by 8s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Sword of Torrents**
+### Sword of Torrents
 
 When Tartaglia is in **Foul Legacy: Raging Tide**'s **Melee Stance**, on dealing a CRIT hit, Normal and Charged Attacks apply the **Riptide** status effect to opponents.
 
@@ -248,25 +248,25 @@ When Tartaglia is in **Foul Legacy: Raging Tide**'s **Melee Stance**, on dealing
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Foul Legacy: Tide Withholder**
+### Foul Legacy: Tide Withholder
 
 Decreases the CD of **Foul Legacy: Raging Tide** by 20%
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Foul Legacy: Understream**
+### Foul Legacy: Understream
 
 When opponents affected by **Riptide** are defeated, Tartaglia regenerates 4 Elemental Energy.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Abyssal Mayhem: Vortex of Turmoil**
+### Abyssal Mayhem: Vortex of Turmoil
 
 Increases the Level of **Foul Legacy: Raging Tide** by 3.
 Maximum upgrade level is 15.
@@ -274,7 +274,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Abyssal Mayhem: Hydrospout**
+### Abyssal Mayhem: Hydrospout
 
 If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Riptide Slash** against opponents on the field affected by **Riptide** every 4s, otherwise, triggers **Riptide Flash**.
 **Riptide Slashes** and **Riptide Flashes** triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two **Riptide** effects, nor do they have any effect on those time intervals.
@@ -290,7 +290,7 @@ If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers **Ripti
 {% endtab %}
 
 {% tab title="C5" %}
-### **Havoc: Formless Blade**
+### Havoc: Formless Blade
 
 Increases the Level of **Havoc: Obliteration** by 3.
 Maximum upgrade level is 15.
@@ -298,7 +298,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Havoc: Annihilation**
+### Havoc: Annihilation
 
 When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.  
 This effect will only take place once Tartaglia returns to his Ranged Stance.
@@ -306,7 +306,7 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Cutting Torrent" %}

@@ -10,7 +10,7 @@ search: false
 
 ## Attack Mechanics
 
-### **Aimed Shot weak-point spam MV/s**
+### Aimed Shot weak-point spam MV/s
 
 **By:** Zenkai\#9872
 
@@ -35,7 +35,7 @@ Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at leas
 
 ## Skill Mechanics
 
-### **Childe Stance Switch From Ranged to Melee**
+### Childe Stance Switch From Ranged to Melee
 
 **By:** Bioautomaton\#5054
 
@@ -141,7 +141,7 @@ Swapping off of Childe as soon as possible will minimize his cooldown if you mad
 
 ## Riptide Mechanics
 
-### **Riptide Burst \(Enemy Kill\) can be triggered by other units**
+### Riptide Burst \(Enemy Kill\) can be triggered by other units
 
 **By:** Cola\#4314
 
@@ -230,7 +230,7 @@ Can be used to apply Riptide and Hydro onto to ranged enemies very quickly, whic
 
 ## Interactions/Synergies
 
-### **Chongyun C2 E field affects Childe’s melee stance cooldown**
+### Chongyun C2 E field affects Childe’s melee stance cooldown
 
 **By:** ibvfteh\#6658  
 **Added:** 2020-12-19
@@ -267,7 +267,7 @@ In the second clip here, chain lightning is also proccing on enemy death, due to
  **Significance:**  
 Further cements the fact that Childe is one of the, if not the best partners to pair with Beidou to get the maximum amount of lightning procs off Beidou Q.
 
-### **Skyward Harp Passive on Childe**
+### Skyward Harp Passive on Childe
 
 **By:** Cola\#4314
 

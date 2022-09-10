@@ -2,5 +2,5 @@
 search: false
 ---
 
-# Mechanics
+# Combat Mechanics
 

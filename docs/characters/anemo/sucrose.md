@@ -4,7 +4,7 @@ description: An alchemist filled with curiosity about all things. She researches
 
 # Sucrose
 
-## **Resources**
+## Resources
 
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
@@ -14,7 +14,7 @@ description: An alchemist filled with curiosity about all things. She researches
 
 ![](/assets/character_sucrose_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Anemo DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ description: An alchemist filled with curiosity about all things. She researches
 | 80+ | 8604 | 158 | 654 | 24% |
 | 90 | 9244 | 170 | 703 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Wind Spirit Creation" %}
@@ -116,17 +116,17 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Astable Invention**
+### Astable Invention
 
 When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Catalyst Conversion**
+### Catalyst Conversion
 
 When Sucrose triggers a **Swirl** reaction, all characters in the party with the matching element \(excluding Sucrose\) have their **Elemental Mastery** increased by 50 for 8s.
 
@@ -138,7 +138,7 @@ When Sucrose triggers a **Swirl** reaction, all characters in the party with the
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Mollis Favonius**
+### Mollis Favonius
 
 When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isomer 75 / Type II** hits an opponent, increases all party members' \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
 
@@ -150,11 +150,11 @@ When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isome
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Clustered Vacuum Field**
+### Clustered Vacuum Field
 
 **Astable Anemohypostasis Creation - 6308** gains 1 additional charge.
 * If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
@@ -162,14 +162,14 @@ When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isome
 {% endtab %}
 
 {% tab title="C2" %}
-### **Beth: Unbound Form**
+### Beth: Unbound Form
 
 The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Flawless Alchemistress**
+### Flawless Alchemistress
 
 Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.
 Maximum upgrade level is 15.
@@ -177,7 +177,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Alchemania**
+### Alchemania
 
 Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.
 One hit may be counted every 0.1s.
@@ -191,7 +191,7 @@ One hit may be counted every 0.1s.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Caution: Standard Flask**
+### Caution: Standard Flask
 
 Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.
 Maximum upgrade level is 15.
@@ -199,7 +199,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Chaotic Entropy**
+### Chaotic Entropy
 
 If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
 
@@ -208,7 +208,7 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Wind Spirit Creation" %}

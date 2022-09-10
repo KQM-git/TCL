@@ -4,7 +4,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 # Traveler (Anemo)
 
-## **Resources**
+## Resources
 * [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 * [5 Minute Guide to Anemo Traveler](https://youtu.be/H4Y6y7JJsvM)
 
@@ -12,7 +12,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 ![](/assets/anemo-traveler.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description:  A traveler from another world who had their only kin taken away, f
 | 80+ | 10122 | 198 | 635 | 24% |
 | 90 | 10875 | 212 | 683 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Foreign Ironwind Lumine" %}
@@ -166,14 +166,14 @@ Elemental Absorption may only occur once per use.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
 The Traveller has no passive talent.
 {% endtab %}
 {% tab title="Ascension 1" %}
-### **Slitting Wind**
+### Slitting Wind
 
 The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.
 
@@ -185,31 +185,31 @@ The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Second Wind**
+### Second Wind
 
 **Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Raging Vortex**
+### Raging Vortex
 
 **Palm Vortex** pulls in opponents and objects within a 5m radius.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Uprising Whirlwind**
+### Uprising Whirlwind
 
 Increases Energy Recharge by 16%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Sweeping Gust**
+### Sweeping Gust
 
 Increases the Level of **Gust Surge** by 3.
 Maximum upgrade level is 15.
@@ -217,14 +217,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Cherishing Breezes**
+### Cherishing Breezes
 
 Reduces DMG taken while casting **Palm Vortex** by 10%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Vortex Stellaris**
+### Vortex Stellaris
 
 Increases the Level of **Palm Vortex** by 3.
 Maximum upgrade level is 15.
@@ -232,7 +232,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Intertwined Winds**
+### Intertwined Winds
 
 Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 20%.
 If an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.
@@ -243,7 +243,7 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Foreign Ironwind" %}

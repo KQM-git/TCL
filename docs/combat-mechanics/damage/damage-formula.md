@@ -4,15 +4,15 @@ description: An explanation as to how outgoing damage is calculated.
 
 # Outgoing Damage Formula
 
-## **General Formula for Damage**
+## General Formula for Damage
 
 $$
-\begin{multline*} Damage = ((BaseDamage \times SpecialMultiplier) + FlatDamage) \times (1 + DamageBonus - DamageReduction) \times Crit\\ \times EnemyDefMult\times EnemyResMult\\ \times AmplifyingReaction + TransformativeReaction + Proc \end{multline*}
+\text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \times (1 + \text{DamageBonus} - \text{DamageReduction}) \times \text{Crit}\\ \times \text{EnemyDefMult}\times \text{EnemyResMult}\\ \times \text{AmplifyingReaction} + \text{TransformativeReaction} + \text{Proc}
 $$
 
 See the sections below for the breakdown of each individual part of the formula.
 
-## **Base Damage**
+## Base Damage
 
 $$
 BaseDamage = \begin{cases} Talent\ \% \times ATK & \text{if, } talent\ scales\ with\ Attack\\ Talent\ \% \times DEF & \text{if, } talent\ scales\ with\ Defense\\ Talent\ \% \times Max\ HP & \text{if, } talent\ scales\ with\ Max HP \end{cases}
@@ -45,7 +45,7 @@ $$
 | **DamageBonus**       | Sum of all percentage damage increases from goblets, weapons, set bonuses and other buffs. Excludes Xingqiu's C4 effect **Evilsoother** and Yoimiya's Elemental Skill **Niwabi Fire-Dance**. |
 | **SpecialMultiplier** | Applies to certain character talents only. See the [Special Multiplier section](damage-formula.md#special-multiplier) for full details.                                                      |
 
-### **Flat Damage Sources**
+### Flat Damage Sources
 
 <details>
 
@@ -79,7 +79,7 @@ $$
 ## Enemy Defense
 
 $$
-\begin{multline*} EnemyDefMult = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level_{Enemy} + 100) \times (1-DefReduction) \times (1-DefIgnore)} \end{multline*}
+EnemyDefMult = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level_{Enemy} + 100) \times (1-DefReduction) \times (1-DefIgnore)}
 $$
 
 | Formula Variable   | Explanation                                                                                                                             |
@@ -91,7 +91,7 @@ $$
 
 * Defense shred is hard capped at 90%
 
-### **Defense Reduction Effects**
+### Defense Reduction Effects
 
 * Razor's [**Bite**](../../characters/electro/razor.md#constellations) (C4): 15%
 * Lisa's [**Static Electricity Field**](../../characters/electro/lisa.md#ascension-passives) (A4): 15%
@@ -140,7 +140,7 @@ $$
 ## Transformative Reaction Bonus
 
 $$
-\begin{multline*} TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\ \times LevelMultiplier \times EnemyResistanceMultiplier \end{multline*}
+TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\ \times LevelMultiplier \times EnemyResistanceMultiplier
 $$
 
 $$

@@ -510,7 +510,7 @@ Sacrificial Weapons are more effective on character with large AOE skills/agains
 
 ### Skyward Harp
 
-#### **Skyward Harp’s passive has the ability to crit**
+#### Skyward Harp’s passive has the ability to crit
 
 **By:** Cola\#6861  
 **Added:** 2021-01-31
@@ -1148,7 +1148,7 @@ Bring justice to Polar Star's name, in that it had no ICD all along.
 
 ### Primordial Jade-Winged Spear
 
-#### **PJWS On Hit Definition**
+#### PJWS On Hit Definition
 
 **By:** Vye\#9195  
 **Added:** 2021-04-15

@@ -8,7 +8,7 @@ search: false
 
 {% page-ref page="../../../characters/pyro/diluc.md" %}
 
-## **Skill Mechanics**
+## Skill Mechanics
 ### Searing Onslaught Extension via Freeze
 
 **By:** xf3\#3123  
@@ -29,7 +29,7 @@ When running Barbara or Xingqiu, self freeze can be an upside in certain situati
 
 {% page-ref page="../../../characters/pyro/diluc.md" %}
 
-## **Burst Mechanics**
+## Burst Mechanics
 ### Diluc Burst ICD
 
 **By:** Isu\#6867  

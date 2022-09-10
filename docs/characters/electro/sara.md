@@ -4,14 +4,14 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 
 # Sara
 
-## **External Links**
+## External Links
 [Short Sara Guide](https://keqingmains.com/sara/)
 
 ## ![](/assets/element_electro.png) Kujou Sara
 
 ![](/assets/character_sara_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 | 80+ | 8907 | 182 | 584 | 24% |
 | 90 | 9570 | 195 | 628 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Tengu Bowmanship" %}
@@ -141,23 +141,23 @@ The ATK Bonus provided by various kinds of **Tengu Juurai** will not stack, and 
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Land Survey**
+### Land Survey
 
 When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Immovable Will**
+### Immovable Will
 
 While in the **Crowfeather Cover** state provided by **Tengu Stormcall**, Aimed Shot charge times are decreased by 60%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Decorum**
+### Decorum
 
 When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.
 
@@ -167,11 +167,11 @@ When **Tengu Juurai: Ambush** hits opponents, Kujou Sara will restore 1.2 Energy
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Crow's Eye**
+### Crow's Eye
 
 When **Tengu Juurai** grant characters ATK Bonuses or hits opponents, the CD of **Tengu Stormcall** is decreased by 1s.
 This effect can be triggered once every 3s.
@@ -179,7 +179,7 @@ This effect can be triggered once every 3s.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Dark Wings**
+### Dark Wings
 
 Unleashing **Tengu Stormcall** will leave a **weaker Crowfeather** at Kujou Sara's original position that will deal 30% of its original DMG.
 
@@ -197,7 +197,7 @@ Unleashing **Tengu Stormcall** will leave a **weaker Crowfeather** at Kujou Sara
 {% endtab %}
 
 {% tab title="C3" %}
-### **The War Within**
+### The War Within
 
 Increases the Level of **Subjugation: Koukou Sendou** by 3.
 Maximum upgrade level is 15.
@@ -205,7 +205,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Conclusive Proof**
+### Conclusive Proof
 
 The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou Sendou** is increased to 6.
 
@@ -214,7 +214,7 @@ The number of **Tengu Juurai: Stormcluster** released by **Subjugation: Koukou S
 {% endtab %}
 
 {% tab title="C5" %}
-### **Spellsinger**
+### Spellsinger
 
 Increases the Level of **Tengu Stormcall** by 3.
 Maximum upgrade level is 15.
@@ -222,7 +222,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Sin of Pride**
+### Sin of Pride
 
 The **Electro DMG** of characters who have had their ATK increased by **Tengu Juurai** has its Crit DMG increased by 60%.
 
@@ -231,7 +231,7 @@ The **Electro DMG** of characters who have had their ATK increased by **Tengu Ju
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Tengu Bowmanship" %}

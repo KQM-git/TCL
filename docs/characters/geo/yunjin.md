@@ -7,7 +7,7 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 ## ![](/assets/element_geo.png) Yun Jin
 ![](/assets/character_yunjin_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv  | Base HP | Base ATK | Base DEF | Energy Recharge |
 | --- | ------- | -------- | -------- | --------------- |
@@ -19,7 +19,7 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 | 80+ | 9919    | 178      | 684      | 26.70%          |
 | 90  | 10657   | 191      | 734      | 26.70%          |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Cloud-Grazing Strike" %}
@@ -135,17 +135,17 @@ When one Normal Attack hits multiple opponents, the effect is triggered multiple
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Light Nourishment**
+### Light Nourishment
 
 When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **True to Oneself**
+### True to Oneself
 
 Using **Opening Flourish** at the precise moment when Yun Jin is attacked will unleash its Level 2 Charged (Hold) form.
 
@@ -153,31 +153,31 @@ Using **Opening Flourish** at the precise moment when Yun Jin is attacked will u
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Breaking Conventions**
+### Breaking Conventions
 
 The Normal Attack DMG Bonus granted by **Flying Cloud Flag Formation** is further increased by 2.5%/5%/7.5%/11.5% of Yun Jin's DEF when the party contains characters of 1/2/3/4 Elemental Types, respectively.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Thespian Gallop**
+### Thespian Gallop
 
 **Opening Flourish's** CD is decreased by 18%.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Myriad Mise-En-Scène**
+### Myriad Mise-En-Scène
 
 After **Cliffbreaker's Banner** is unleashed, all nearby party members' Normal Attack DMG is increased by 15% for 12s.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Seafaring General**
+### Seafaring General
 
 Increases the Level of **Cliffbreaker's Banner** by 3.
 Maximum upgrade level is 15.
@@ -185,7 +185,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Flower and a Fighter**
+### Flower and a Fighter
 
 When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 12s.
 
@@ -194,7 +194,7 @@ When Yun Jin triggers the Crystallize Reaction, her DEF is increased by 20% for 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Famed Throughout the Land**
+### Famed Throughout the Land
 
 Increases the Level of **Opening Flourish** by 3.
 Maximum upgrade level is 15.
@@ -202,14 +202,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Decorous Harmony**
+### Decorous Harmony
 
 Characters under the effects of the **Flying Cloud Flag Formation** have their Normal ATK SPD increased by 12%.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Cloud-Grazing Strike" %}

@@ -10,7 +10,7 @@ search: false
 
 ## Attack Mechanics
 
-### **What Attack String Combo Outputs the Highest DPS for Mona?**
+### What Attack String Combo Outputs the Highest DPS for Mona?
 
 **By:** Baezal\#0868  
 **Added:** 2020-12-27
@@ -59,7 +59,7 @@ Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in
 
 ## Skill Mechanics
 
-### **How many Elemental Particles does Mona’s Elemental Skill Generate?**
+### How many Elemental Particles does Mona’s Elemental Skill Generate?
 
 **By:** Curiously\#2324  
 **Added:** 2020-12-05
@@ -97,7 +97,7 @@ Utilizing for dodging.
 
 ## Burst Mechanics
 
-### **Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?**
+### Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?
 
 **By:** Chidoge\#3163  
 **Added:** 2020-12-05
@@ -117,7 +117,7 @@ For example, in the perfect combo, the ATK buff provided by Bennett’s Elementa
 During this time, you can burst the bubble knowing that it will do more damage based on the extra ATK from Bennett's ult.  
 However, if you switch out for too long, Mona will lose the ATK buff and the bubble burst will not benefit from the ATK buff.
 
-### **Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?**
+### Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?
 
 **By:** Gibbigobo\#9750  
 **Added:** 2021-02-23
@@ -342,7 +342,7 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 
 ### C1: Prophecy of Submersion
 
-#### **Mona C1 Snapshot for Vape**
+#### Mona C1 Snapshot for Vape
 
 **By.** Tibo\#4309  
 **Added:** 2021-12-16  
@@ -383,7 +383,7 @@ Frozen
 * Kazuha and Oz don't snapshot hydroswirl/EC, also requires to be onfield
 * Frozen doesn't seem to even work
 
-#### **Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?**
+#### Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?
 
 **By:** Curiously\#2324  
 **Added:** 2021-02-02
@@ -440,7 +440,7 @@ Mona's C1 does not work party-wide in co-op.
 
 ### C2: Lunar Chain
 
-#### **Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?**
+#### Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?
 
 **By:** Kimmu\#0007  
 **Added:** 2020-12-05

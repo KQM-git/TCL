@@ -4,7 +4,7 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 # Keqing
 
-## **Resources**
+## Resources
 * [Keqing Mains Discord](https://discord.gg/Keqing)  
 * [Full Keqing Written Guide](https://keqingmains.com/keqing/)  
 * [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
@@ -13,7 +13,7 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 ![](/assets/character_keqing_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 | 80+ | 12182 | 300 | 743 | 88.40% |
 | 90 | 13103 | 323 | 799 | 88.40% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Yunlai Swordsmanship" %}
@@ -143,17 +143,17 @@ She then blends into the shadow of her blade, striking a series of thunderclap-b
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Land's Overseer**
+### Land's Overseer
 
 When dispatched on an expedition in Liyue, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Thundering Penance**
+### Thundering Penance
 
 After recasting **Stellar Restoration** while a **Lightning Stiletto** is present, Keqing's weapon gains an **Electro Infusion** for 5s.
 
@@ -166,7 +166,7 @@ After recasting **Stellar Restoration** while a **Lightning Stiletto** is presen
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Aristocratic Dignity**
+### Aristocratic Dignity
 
 When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.
 
@@ -176,11 +176,11 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Thundering Might**
+### Thundering Might
 
 Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.
 
@@ -202,7 +202,7 @@ Recasting **Stellar Restoration** while a **Lightning Stiletto** is present caus
 {% endtab %}
 
 {% tab title="C2" %}
-### **Keen Extraction**
+### Keen Extraction
 
 When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.  
 This effect can only occur once every 5s.
@@ -217,7 +217,7 @@ This effect can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Foreseen Reformation**
+### Foreseen Reformation
 
 Increases the Level of **Starward Sword** by 3.
 Maximum upgrade level is 15.
@@ -225,14 +225,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Attunement**
+### Attunement
 
 For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Beckoning Stars**
+### Beckoning Stars
 
 Increases the Level of **Stellar Restoration** by 3.
 Maximum upgrade level is 15.
@@ -240,7 +240,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Tenacious Star**
+### Tenacious Star
 
 When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.
 Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.
@@ -248,7 +248,7 @@ Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Eleme
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Yunlai Swordsmanship" %}

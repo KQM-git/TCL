@@ -166,7 +166,7 @@ Better understanding of Blizzard Strayer for reaction comps.
 
 ## Bloodstained Chivalry
 
-### **4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill**
+### 4pc Bloodstained Chivalry effect Does Not Work if a CO-OP Teammate takes the Kill
 
 **By:** Cenpi\#3224
 
@@ -174,25 +174,25 @@ No, it does not even if you have dealt &gt;80% dmg to the enemy.
 
 [https://youtu.be/U2VhOcQTlw4](https://youtu.be/U2VhOcQTlw4)
 
-### **4pc Bloodstained Chivalry effect Persists through a Character Swap**
+### 4pc Bloodstained Chivalry effect Persists through a Character Swap
 
 **By:** Cenpi\#3224
 
 Yes, it does[https://youtu.be/3y4R64qxzOs](https://youtu.be/3y4R64qxzOs)
 
-### **4pc Bloodstained Chivalry effect doesn’t proc if an Off-Field character takes the Kill**
+### 4pc Bloodstained Chivalry effect doesn’t proc if an Off-Field character takes the Kill
 
 **By:** Cenpi\#3224
 
 No, it does not.[https://youtu.be/zgyVLeUkFwU](https://youtu.be/zgyVLeUkFwU)
 
-### **4pc Bloodstained Chivalry effect doesn’t proc if Holder gets a Kill while Off-Field**
+### 4pc Bloodstained Chivalry effect doesn’t proc if Holder gets a Kill while Off-Field
 
 **By:** Cenpi\#3224
 
 No, it does not.[https://youtu.be/zaDYictHFTc](https://youtu.be/zaDYictHFTc)
 
-### **4pc Bloodstained Chivalry effect can be Maintained by Chain Killing Enemies**
+### 4pc Bloodstained Chivalry effect can be Maintained by Chain Killing Enemies
 
 **By:** HailCorporate\#2970
 
@@ -243,7 +243,7 @@ t=18, buff deactivates
 
 **Significance:** Allows players to swap off crimson witch users while maintaining stacks
 
-### **4pc Crimson Witch Effect Works Even When Holder is Off-Field**
+### 4pc Crimson Witch Effect Works Even When Holder is Off-Field
 
 **By:** Cenpi\#3224 and Boesik\#3192
 
@@ -407,7 +407,7 @@ Can't use environmental reactions to set up screenshots. Can't use self reaction
 
 ## Maiden Beloved
 
-### **4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber**
+### 4pc Maiden's Beloved Increases the Healing Effectiveness of Prototype Amber
 
 **By:** RoaringMeow\#2437
 
@@ -746,7 +746,7 @@ If a character can cast their elemental skill and then burst in about less than 
 
 ## Thundering Fury
 
-### **How 4pc Thundering Fury Interacts with Elemental Mastery**
+### How 4pc Thundering Fury Interacts with Elemental Mastery
 
 **By:** Saizaku\#5569
 
@@ -764,7 +764,7 @@ If a character can cast their elemental skill and then burst in about less than 
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 
-### **4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction**
+### 4pc Thundering Fury Effect Only Works if the Holder Procs the Reaction
 
 **By:** Cenpi\#3224
 
@@ -781,7 +781,7 @@ If a character can cast their elemental skill and then burst in about less than 
 * In solo PvE play, Keqing does NOT frequently trigger elemental reactions due to her high rate of application of electro. 
 * Therefore, Keqing does not significantly benefit from the 4 set thundering fury effect.
 
-### **4pc Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field**
+### 4pc Thundering Fury’s 40% ReactionDMG Increase Works When Wearer is Off-Field
 
 **By:** Boesik\#3192, Cenpi\#3224, Lix-\#3417
 
@@ -809,7 +809,7 @@ In short, yes. The 4 set TF increases reaction damage even if the holder is not 
 
 * This finding means that you can put 4TF on a support and get the bonus damage to reactions even if they are not on the field.
 
-### **4pc Thundering Fury Holder, if not on-field, cannot benefit from the CD Reduction**
+### 4pc Thundering Fury Holder, if not on-field, cannot benefit from the CD Reduction
 
 **By:** Boesik\#3192, Cenpi\#3224, Wrathior\#4848, Lix-\#3417
 
@@ -833,7 +833,7 @@ This result also confirmed by Lix-\#3417 using Barbara E and then switching to K
 
 * 4TF holders who trigger reactions while not on the field will not get the 1s CDR.
 
-### **Frame Analysis of 4pc Thundering Fury and Electro-charged Interactions**
+### Frame Analysis of 4pc Thundering Fury and Electro-charged Interactions
 
 **By:** Doug\#8888, ayynish\#5408
 
@@ -917,7 +917,7 @@ Here is a third example, where we don't rely on Oz as our electro crutch. Tested
 
 ## Thundersoother
 
-### **4pc Thundersoother's effect Works for Heroes Off-Field**
+### 4pc Thundersoother's effect Works for Heroes Off-Field
 
 **By:** IlidanNaga\#2163
 
@@ -929,9 +929,9 @@ Here is a third example, where we don't rely on Oz as our electro crutch. Tested
 
 It does work for heroes off screen, can be useful for pure electro dmg parties using Fischl as extra damage source
 
-## **Tiara Sets**
+## Tiara Sets
 
-### **Tiara Status Resist 1-set Effect Applies Even if not Visually Active**
+### Tiara Status Resist 1-set Effect Applies Even if not Visually Active
 
 **By:** tankex\#4275
 
@@ -951,7 +951,7 @@ Test 3 **-** Tiara on, buff showing - Pyro debuff lasts for approx 4/5 seconds
 
 The Tiara status resist 1-set effect applies even when not visually active.
 
-### **80% Status Resistance is Possible through Tiara**
+### 80% Status Resistance is Possible through Tiara
 
 **By:** Tankex\#4275
 
@@ -979,7 +979,7 @@ Test 2 - Tiara on, no elemental resonance - Duration of the Debuff 12 seconds.
 
 ## Tiny Miracle
 
-### **4pc Tiny Miracle Doesn't Proc on Damage Dealt to Shields**
+### 4pc Tiny Miracle Doesn't Proc on Damage Dealt to Shields
 
 **By:** Aevean Leeow\#1362
 
@@ -992,7 +992,7 @@ Tiny Miracle is equipped and you don't get RES% buff until after shield is broke
 
 ## Viridescent Verener
 
-### **4pc Viridescent Venerer Res Shred Mechanics**
+### 4pc Viridescent Venerer Res Shred Mechanics
 
 **By:** SirBoi\#1101  
 **Added:** 2021-06-26  
@@ -1054,7 +1054,7 @@ Lisa’s 1-hit AA dealt 14 DMG and applied Electro to one Hilichurl. After swirl
 **Significance:**  
 Viridescent Venerer continues to be a powerful set for Anemo supports. On 2021-06-21, the wiki stated that VV’s resistance reduction only affects the enemy hit by the Swirl reaction, but as I finished recording counterproof it had been changed, proving my findings.
 
-### **4pc Viridescent Venerer can Simultaneously Stack Different Element Resist Debuffs**
+### 4pc Viridescent Venerer can Simultaneously Stack Different Element Resist Debuffs
 
 **By:** Comfy Seaweed\#3841
 
@@ -1084,7 +1084,7 @@ Theory was confirmed. See video for evidence.
 
 **Conclusion:** This means that anemo supports that can proc multiple swirl infused with different elements rapidly can have multiple elements resist debuffs applied at the same time. Venti Burst OP
 
-### **4pc Viridescent Venerer can Proc Two Debuffs in One Swirl**
+### 4pc Viridescent Venerer can Proc Two Debuffs in One Swirl
 
 **By:** Faranight\#0001  
 **Added:** 2021-04-20  
@@ -1104,7 +1104,7 @@ In this video, Jean does 98 Cryo damage \(infused by Chongyun\) on her normals w
 
 **Signifiance:** Improves rotations; anemo characters don't need to be swapped in for each individual elemental debuff.
 
-### **4pc Viridescent Venerer Explained**
+### 4pc Viridescent Venerer Explained
 
 **By:** dandandin\#1486
 
@@ -1300,7 +1300,7 @@ Charts by Zakharov\#5645: [Imgur](https://imgur.com/9LoeHW1)
 **Significance:**  
 Below 842 EM, 2WT2Ins will provide more value for swirl damage than 4VV before accounting for resistance
 
-## **Artifact Substats Distribution**
+## Artifact Substats Distribution
 
 **By:** SafconGalore\#9752
 

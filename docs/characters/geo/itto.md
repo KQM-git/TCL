@@ -4,14 +4,14 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 # Arataki Itto
 
-## **Resources**
+## Resources
 * [Hanamizaka Heroics: Arataki Itto Guide](https://keqingmains.com/itto/)
 
 ## ![](/assets/element_geo.png) Arataki Itto
 
 ![](/assets/character_itto_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT Rate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 | 80+ | 11954 | 211 | 892 | 24.20% |
 | 90 | 12858 | 227 | 959 | 24.20% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Fight Club Legend" %}
@@ -156,11 +156,11 @@ The Raging Oni King state will be cleared when Itto leaves the field.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Woodchuck Chucked**
+### Woodchuck Chucked
 
 When a party member uses attacks to obtain wood from a tree, they have a 25% chance to get an additional log of wood.
 
@@ -168,7 +168,7 @@ When a party member uses attacks to obtain wood from a tree, they have a 25% cha
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Arataki Ichiban**
+### Arataki Ichiban
 
 When Arataki Itto uses consecutive **Arataki Kesagiri**, he obtains the following effects:
 * Each slash increases the ATK SPD of the next slash by 10%. Max ATK SPD increase is 30%.
@@ -178,17 +178,17 @@ These effects will be cleared once he stops performing consecutive slashes.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Bloodline of the Crimson Oni**
+### Bloodline of the Crimson Oni
 
 **Arataki Kesagiri** DMG is increased by 35% of Arataki Itto's DEF.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Stay a While and Listen Up**
+### Stay a While and Listen Up
 
 After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stacks of **Superlative Superstrength**. After 1s, Itto will gain 1 stack of **Superlative Superstrength** every 0.5s for 1.5s.
 * The second part of **Stay a While and Listen Up** begins around 50 frames later than according to its description.
@@ -196,7 +196,7 @@ After using **Royal Descent: Behold, Itto the Evil!**, Arataki Itto gains 2 stac
 {% endtab %}
 
 {% tab title="C2" %}
-### **Gather 'Round, It's a Brawl!**
+### Gather 'Round, It's a Brawl!
 
 After using **Royal Descent: Behold, Itto the Evil!**, each party member whose Element is **Geo** will decrease that skill's CD by 1.5s and restore 6 Energy to Arataki Itto.
 CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored in this manner.
@@ -205,7 +205,7 @@ CD can be decreased by up to 4.5s in this manner. Max 18 Energy can be restored 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Horns Lowered, Coming Through**
+### Horns Lowered, Coming Through
 
 Increases the Level of **Masatsu Zetsugi: Akaushi Burst!** by 3.
 Maximum upgrade level is 15.
@@ -213,14 +213,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Jailhouse Bread and Butter**
+### Jailhouse Bread and Butter
 
 When the Raging Oni King state caused by **Royal Descent: Behold, Itto the Evil!** ends, all nearby party members gain 20% DEF and 20% ATK for 10s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **10 Years of Hanamizaka Fame**
+### 10 Years of Hanamizaka Fame
 
 Increases the Level of **Royal Descent: Behold, Itto the Evil!** by 3.
 Maximum upgrade level is 15.
@@ -228,7 +228,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Arataki Itto, Present!**
+### Arataki Itto, Present!
 
 Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **Arataki Kesagiri**, he has a 50% chance to not consume stacks of **Superlative Superstrength**.
 
@@ -237,7 +237,7 @@ Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Fight Club Legend" %}

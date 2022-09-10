@@ -4,14 +4,14 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 
 # Barbara
 
-## **Resources**
+## Resources
 * [Barbara Mains Discord](https://discord.gg/6vVQcsrAgN)
 
 ## ![](/assets/element_hydro.png) Barbara
 
 ![](/assets/character_barbara_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | HP% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 | 80+ | 9110 | 148 | 623 | 24% |
 | 90 | 9787 | 159 | 669 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Whisper of Water" %}
@@ -99,41 +99,41 @@ Heals your own party members and nearby teammates for a large amount of HP that 
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **With My Whole Heart♪**
+### With My Whole Heart♪
 
 When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Glorious Season**
+### Glorious Season
 
 The Stamina Consumption of characters within **Let the Show Begin♪**'s **Melody Loop** is reduced by 12%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Encore**
+### Encore
 
 When your active character gains an Elemental Orb/Particle, the duration of the **Melody Loop** of **Let the Show Begin♪** is extended by 1s.
 The maximum extension is 5s.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Gleeful Songs**
+### Gleeful Songs
 
 Barbara regenerates 1 Energy every 10s.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Vitality Burst**
+### Vitality Burst
 
 Decreases the CD of **Let the Show Begin♪** by 15%.
 During the ability's duration, your active character gains a 15% **Hydro DMG Bonus**.
@@ -141,7 +141,7 @@ During the ability's duration, your active character gains a 15% **Hydro DMG Bon
 {% endtab %}
 
 {% tab title="C3" %}
-### **Star of Tomorrow**
+### Star of Tomorrow
 
 Increases the Level of **Shining Miracle♪** by 3.
 Maximum upgrade level is 15.
@@ -149,7 +149,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Attentiveness be My Power**
+### Attentiveness be My Power
 
 Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.
 A maximum of 5 energy can be regenerated in this manner with any one Charged Attack.
@@ -157,7 +157,7 @@ A maximum of 5 energy can be regenerated in this manner with any one Charged Att
 {% endtab %}
 
 {% tab title="C5" %}
-### **The Purest Companionship**
+### The Purest Companionship
 
 Increases the Level of **Let the Show Begin♪** by 3.
 Maximum upgrade level is 15.
@@ -165,7 +165,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Dedicating Everything to You**
+### Dedicating Everything to You
 
 When Barbara is in the party but not on the field, and one of your own party members falls:
 * Automatically revives the fallen character.
@@ -177,7 +177,7 @@ This effect can only occur once every 15 mins.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Whisper of Water" %}

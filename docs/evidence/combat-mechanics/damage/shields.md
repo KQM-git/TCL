@@ -18,7 +18,7 @@ search: false
 
 **Significance:** better knowledge of how to preserve shields and how shields interact with I-frames.
 
-## **Damage Reduction Applies Before Shields Are Calculated**
+## Damage Reduction Applies Before Shields Are Calculated
 
 **By:** Faranight\#0001
 
@@ -34,7 +34,7 @@ Damage reduction applies before shields are calculated.
 
 **Shields are more effective on characters with high defense.**
 
-## **How Elemental Shields having 250% Absorption Bonus to said element Work**
+## How Elemental Shields having 250% Absorption Bonus to said element Work
 
 **By:** Türin\#8565
 

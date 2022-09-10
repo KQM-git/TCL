@@ -4,7 +4,7 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 # Xiao
 
-## **Resources**
+## Resources
 
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
@@ -13,7 +13,7 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 ![](/assets/character_xiao_wish.webp)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT RATE % |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 | 80+ | 11840 | 325 | 743 | 24.2% |
 | 90 | 12736 | 349 | 799 | 24.2% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}
@@ -120,50 +120,50 @@ The effects of this skill end when Xiao leaves the field.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Transcension: Gravity Defier**
+### Transcension: Gravity Defier
 
 Decreases climbing Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Conqueror of Evil: Tamer of Demons**
+### Conqueror of Evil: Tamer of Demons
 
 While under the effects of **Bane of All Evil**, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.
 The maximum DMG Bonus is 25%.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Dissolution Eon: Heaven Fall**
+### Dissolution Eon: Heaven Fall
 
 Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of **Lemniscatic Wind Cycling** by 15%.
 This effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Dissolution Eon: Destroyer of Worlds**
+### Dissolution Eon: Destroyer of Worlds
 
 Increases **Lemniscatic Wind Cycling**'s charges by 1.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Annihilation Eon: Blossom of Kaleidos**
+### Annihilation Eon: Blossom of Kaleidos
 
 When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Conqueror of Evil: Wrath Deity**
+### Conqueror of Evil: Wrath Deity
 
 Increases the Level of **Lemniscatic Wind Cycling** by 3.
 Maximum upgrade level is 15.
@@ -171,14 +171,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Transcension: Extinction of Suffering**
+### Transcension: Extinction of Suffering
 
 When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Evolution Eon: Origin of Ignorance**
+### Evolution Eon: Origin of Ignorance
 
 Increases the Level of **Bane of All Evil** by 3.
 Maximum upgrade level is 15.
@@ -186,14 +186,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Conqueror of Evil: Guardian Yaksha**
+### Conqueror of Evil: Guardian Yaksha
 
 While under the effects of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use **Lemniscatic Wind Cycling** while ignoring its CD.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Whirlwind Thrust" %}

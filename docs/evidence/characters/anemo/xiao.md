@@ -10,7 +10,7 @@ search: false
 
 ## Attack Mechanics
 
-### **N1JCP Low/High Plunge Threshold**
+### N1JCP Low/High Plunge Threshold
 
 **By:** Artesians\#0002  
 **Finding:**
@@ -69,7 +69,7 @@ Allows Xiao to keep his mask. Good for picture-taking events and other aesthetic
 
 ## Synergies/Interactions
 
-### **Venti’s Ult and Plunges**
+### Venti’s Ult and Plunges
 
 **By:** RIBCAGED\#7071  
 **Findings:**

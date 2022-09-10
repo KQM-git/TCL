@@ -10,7 +10,7 @@ search: false
 
 ## Skill Mechanics  
 
-### **Xingqiu E Double Vaporize**
+### Xingqiu E Double Vaporize
 
 **By:** Zeitraffer\#1074
 
@@ -57,7 +57,7 @@ The shattering of Xingqiu's rain swords on his Elemental Skill has a cooldown of
 **Significance:**  
 The 4 swords cannot shatter simultaneously, so you can have a very small window of safety after one sword is shattered.
 
-### **Xingqiu’s Rain Sword Damage Reduction does Snapshot**
+### Xingqiu’s Rain Sword Damage Reduction does Snapshot
 
 **By:** wiremash\#0433
 
@@ -141,7 +141,7 @@ Better knowledge for teambuilding and rotations.
 
 ## Burst Mechanics 
 
-### **Xingqiu's Q Damage Calculation is Dynamic**
+### Xingqiu's Q Damage Calculation is Dynamic
 
 **By:** IonFox\#8887
 

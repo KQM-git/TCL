@@ -195,6 +195,6 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload. 
 * Melee normal attacks can sometimes whiff on a tree. This still marks the tree and enables harvesting via Elemental Skill.
 
-## **Evidence Vault:**
+## Evidence Vault:
 
 {% page-ref page="../../evidence/general-mechanics/resources-and-efficiency.md" %}

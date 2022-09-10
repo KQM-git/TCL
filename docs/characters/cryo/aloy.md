@@ -4,14 +4,14 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 
 # Aloy
 
-## **Resources**
+## Resources
 * [[Full Written Guide] Aloy: Wandering Heroine](https://keqingmains.com/aloy/)
 
 ## ![](/assets/element_cryo.png) Aloy
 
 ![](/assets/character_aloy_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Cryo DMG Bonus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 | 80+ | 10133 | 217 | 629 | 28.8% |
 | 90 | 10899 | 234 | 676 | 28.8% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Rapid Fire" %}
@@ -126,11 +126,11 @@ Aloy throws a Power Cell filled with Cryo in the targeted direction, then detona
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Easy Does It**
+### Easy Does It
 
 When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat will not be startled when party members approach them.
 
@@ -140,30 +140,30 @@ When Aloy is in the party, animals who produce Fowl, Raw Meat, or Chilled Meat w
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Combat Override**
+### Combat Override
 
 When Aloy receives the **Coil** effect from **Frozen Wilds**, her ATK is increased by 16%, while nearby party members' ATK is increased by 8%. This effect lasts 10s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Strong Strike**
+### Strong Strike
 
 When Aloy is in the **Rushing Ice** state conferred by **Frozen Wilds**, her **Cryo DMG Bonus** increases by 3.5% every 1s. A maximum **Cryo DMG Bonus** increase of 35% can be gained in this way.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Star of Another World**
+### Star of Another World
 
 The time has not yet come for this person's corner of the night sky to light up.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Rapid Fire" %}

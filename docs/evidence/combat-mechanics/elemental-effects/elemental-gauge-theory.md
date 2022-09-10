@@ -6,7 +6,7 @@ search: false
 
 {% page-ref page="../../../combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
 
-## **Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions**
+## Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions
 
 **By:** Doug\#8888  
 **Added:** 2020-11-12  
@@ -55,7 +55,7 @@ Using elements to cause reactions are a key cornerstone of Genshin Impact. To op
   * Via reactions
     * When you apply an elemental trigger to an existing elemental aura, a certain amount of the gauge is consumed. If an amount remains, then the aura will persist after the reaction. If the gauge is fully consumed, the aura disappears.
 
-## **Elemental Aura Application and Gauge Values of Enemies**
+## Elemental Aura Application and Gauge Values of Enemies
 
 **By:** BowlSoldier\#3528  
 **Added:** 2021-02-04
@@ -92,7 +92,7 @@ In addition, the reduction of 7.5s is a precise frame count. This is the "taxles
 
 This allows us to more precisely measure frames on reactions due to the way friendly auras appear clearer than enemy auras. Since enemies can have 1 or 2 unit attacks, it's possible some enemies have 4 unit attacks for elements we have previously not been able to test with 4 units. There may even be 3-unit enemies. This opens up more possible reactions we can test.
 
-## **Beginner’s Guide to Reactions and the Gauge Unit Theory**
+## Beginner’s Guide to Reactions and the Gauge Unit Theory
 
 Edited 2021-01-09
 
@@ -194,7 +194,7 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
   * After the initial EC trigger tick, any subsequent electro or hydro applications will add their own gauges while following the decay rate rules specified in the “Why is decay rate significant?”section.
   * It is possible to infinitely sustain EC.
 
-## **Advanced Notes on Reactions and the Gauge Unit Theory \(WIP\)**
+## Advanced Notes on Reactions and the Gauge Unit Theory \(WIP\)
 
 {% hint style="danger" %}
 THE FOLLOWING SECTIONS ARE UNDER CONSTRUCTION
@@ -348,7 +348,7 @@ In the above section, we stated that different U auras have different decay rate
 
 ### Aura Tax \(??? To talk about or not?\)
 
-## **Gauge Unit Theory - Testing and Evidence**
+## Gauge Unit Theory - Testing and Evidence
 
 **By:** BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888
 
@@ -420,20 +420,20 @@ Vaporize and Melt reduce their gauge by 0.5x or 2x \(presumed, no way to test, c
 
 Anemo and Geo skills we currently have marked in the Database as 6s are actually 0.5GU reductions. Those marked as 9.5s are actually 1GU reductions.
 
-## **All Characters Internal Cooldown Database**
+## All Characters Internal Cooldown Database
 
 Link [here](https://docs.google.com/spreadsheets/d/1O9SeEyS2uOnjYLEJ0d5E6TUxabp7fgyc6MGlSMJBsw0/edit)
 
 * All ICDs are enemy-specific.
   * For example, Oz normally has a shared ICD between his 1-7th hits. If he hits a different target for each hit, electro aura will be applied each time.
 
-## **All Characters Elemental Gauge Unit Database**
+## All Characters Elemental Gauge Unit Database
 
 **By:** IonFox\#8887
 
 Link [here](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing).
 
-## **The Truth Behind Elemental Reaction/Application Cooldowns \(Translation\)**
+## The Truth Behind Elemental Reaction/Application Cooldowns \(Translation\)
 
 **Added:** 2020-11-09
 

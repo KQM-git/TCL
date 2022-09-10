@@ -160,7 +160,7 @@ Consider the following Electro-charged concepts:
 * If an EC reaction occurs such that the remaining hydro or electro aura is &lt;0.5s, there will NOT be an early “second” tick of EC.
 * Please read below for explanations and video evidence.
 
-### **What determines how much duration is removed from an existing electro/hydro aura?**
+### What determines how much duration is removed from an existing electro/hydro aura?
 
 * If a strong electro or hydro aura is applied, each tick of electro-charged removes ~3s of duration.
 * If a weak electro or hydro aura is applied, each tick of electro-charged removes ~5s of duration
@@ -169,7 +169,7 @@ Consider the following Electro-charged concepts:
 * [Example](https://youtu.be/IOtFJQAbDf4) of Strong Hydro trigger into Strong Electro aura
 * [Example](https://youtu.be/SbYlcbLflSI) of Strong Hydro trigger into Weak Electro aura
 
-### **What if either the Strong Hydro or Electro aura has &lt;3s \(or Weak has &lt;5s\) when a tick happens?**
+### What if either the Strong Hydro or Electro aura has &lt;3s \(or Weak has &lt;5s\) when a tick happens?
 
 * Answer: A strong aura with &lt;3s is removed after the tick. A weak aura with &lt;5s is removed after the tick.
 * For example, 
@@ -205,7 +205,7 @@ Consider the following Electro-charged concepts:
 * Please note that in the above scenario, if more Hydro aura is added before 0.8s, then the next EC tick will occur normally at the next 1s interval.
 * **There will not be a second “early” tick if the remaining Electro/Hydro aura after a tick is &lt;0.5s.**
 
-### **What if after an EC trigger or tick, &lt;0.5s remains from either the Electro or Hydro auras?**
+### What if after an EC trigger or tick, &lt;0.5s remains from either the Electro or Hydro auras?
 
 * For example,
   * 0.0s: Electrocharged is triggered.
@@ -774,7 +774,7 @@ Geo immediately Shatters with the Freeze aura before Crystallize can happen, the
 **Significance:**  
 This improves our knowledge of Freeze and how to sequence reactions.
 
-### **Duration** of Freeze Aura
+### Duration of Freeze Aura
 
 **By:** Sigurd\#3854 & SRL\#2712  
 **Added:** 2021-08-09  
@@ -1301,7 +1301,7 @@ The second test in the video shows Noelle picking up a Cryo Crystallize shield, 
 **Significance:**  
 The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
 
-### **Crystallize on an Electro-Charged Enemy**
+### Crystallize on an Electro-Charged Enemy
 
 **By:** Jonahfarc\#7056  
 **Added:** 2021-04-14

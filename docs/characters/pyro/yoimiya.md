@@ -4,7 +4,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 
 # Yoimiya
 
-## **Resources**
+## Resources
 * [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
 * [Yoimiya Full Guide](https://keqingmains.com/yoimiya/)
 
@@ -12,7 +12,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 
 ![](/assets/character_yoimiya_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT Rate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 | 80+ | 9450 | 300 | 572 | 24.2% |
 | 90 | 10164 | 323 | 615 | 24.2% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Firework Flare-Up" %}
@@ -137,17 +137,17 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Blazing Match**
+### Blazing Match
 
 When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Tricks of the Trouble-Maker**
+### Tricks of the Trouble-Maker
 
 During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase her **Pyro DMG Bonus** by 2% on hit. This effect lasts for 3s and can have a maximum of 10 stacks.
 
@@ -159,17 +159,17 @@ During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase h
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Summer Night's Dawn**
+### Summer Night's Dawn
 
 Using **Ryuukin Saxifrage** causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of "Tricks of the Trouble-Maker" stacks Yoimiya possesses when using **Ryuukin Saxifrage**. Each stack increases this ATK Bonus by 1%.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Agate Ryuukin**
+### Agate Ryuukin
 
 The Aurous Blaze created by **Ryuukin Saxifrage** lasts for an extra 4s.
 Additionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.
@@ -177,7 +177,7 @@ Additionally, when an opponent affected by Aurous Blaze is defeated within its d
 {% endtab %}
 
 {% tab title="C2" %}
-### **A Procession of Bonfires**
+### A Procession of Bonfires
 
 When Yoimiya's **Pyro DMG** scores a CRIT Hit, Yoimiya will gain a 25% **Pyro DMG Bonus** for 6s.
 This effect can be triggered even when Yoimiya is not the active character.
@@ -185,7 +185,7 @@ This effect can be triggered even when Yoimiya is not the active character.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Trickster's Flare**
+### Trickster's Flare
 
 Increases the Level of **Niwabi Fire-Dance** by 3.
 Maximum upgrade level is 15.
@@ -193,14 +193,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Pyrotechnic Professional**
+### Pyrotechnic Professional
 
 When Yoimiya's own Aurous Blaze triggers an explosion, **Niwabi Fire-Dance**'s CD is decreased by 1.2s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **A Summer Festival's Eve**
+### A Summer Festival's Eve
 
 Increases the Level of **Ryuukin Saxifrage** by 3.
 Maximum upgrade level is 15.
@@ -208,7 +208,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Naganohara Meteor Swarm**
+### Naganohara Meteor Swarm
 
 During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
 
@@ -222,7 +222,7 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Firework Flare-Up" %}

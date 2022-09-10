@@ -7,7 +7,7 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 ## ![](/assets/element_geo.png) Gorou
 ![](/assets/character_gorou_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Geo DMG Bonus |
 | :--- | :--- | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 | 80+ | 8907 | 170 | 603 | 24% |
 | 90 | 9570 | 183 | 648 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Ripping Fang Fletching" %}
@@ -132,17 +132,17 @@ If Gorou falls, the effects of **General's Glory** will be cleared.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Seeker of Shinies**
+### Seeker of Shinies
 
 Displays the location of nearby **resources unique to Inazuma** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Heedless of the Wind and Weather**
+### Heedless of the Wind and Weather
 
 After using **Juuga: Forward Unto Victory**, all nearby party members' DEF is increased by 25% for 12s.
 
@@ -150,7 +150,7 @@ After using **Juuga: Forward Unto Victory**, all nearby party members' DEF is in
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **A Favor Repaid**
+### A Favor Repaid
 
 Gorou receives the following DMG Bonuses to his attacks based on his DEF:
 * **Inuzaka All-Round Defense**: Skill DMG increased by 156% of DEF
@@ -158,11 +158,11 @@ Gorou receives the following DMG Bonuses to his attacks based on his DEF:
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Rushing Hound: Swift as the Wind**
+### Rushing Hound: Swift as the Wind
 
 When characters (other than Gorou) within the AoE of Gorou's **General's War Banner** or **General's Glory** deal Geo DMG to opponents, the CD of Gorou's **Inuzaka All-Round Defense** is decreased by 2s.
 This effect can occur once every 10s.
@@ -172,7 +172,7 @@ This effect can occur once every 10s.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Sitting Hound: Steady as a Clock**
+### Sitting Hound: Steady as a Clock
 
 While **General's Glory** is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. 
 This effect can occur once every 0.1s. Max extension is 3s.
@@ -180,7 +180,7 @@ This effect can occur once every 0.1s. Max extension is 3s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Mauling Hound: Fierce as Fire**
+### Mauling Hound: Fierce as Fire
 
 Increases the Level of **Inuzaka All-Round Defense** by 3.
 Maximum upgrade level is 15.
@@ -188,7 +188,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Lapping Hound: Warm as Water**
+### Lapping Hound: Warm as Water
 
 When **General's Glory** is in the "**Impregnable**" or "**Crunch**" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.
 
@@ -197,7 +197,7 @@ When **General's Glory** is in the "**Impregnable**" or "**Crunch**" states, it 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Striking Hound: Thunderous Force**
+### Striking Hound: Thunderous Force
 
 Increases the Level of **Juuga: Forward Unto Victory** by 3.
 Maximum upgrade level is 15.
@@ -205,7 +205,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Valiant Hound: Mountainous Fealty**
+### Valiant Hound: Mountainous Fealty
 
 For 12s after using **Inuzaka All-Round Defense** or **Juuga: Forward Unto Victory**, increases the CRIT DMG of all nearby party members' **Geo DMG** based on the buff level of the skill's field at the time of use:
 * "**Standing Firm**": +10%
@@ -218,7 +218,7 @@ This effect cannot stack and will take reference from the last instance of the e
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Ripping Fang Fletching" %}

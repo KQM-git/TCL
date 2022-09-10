@@ -4,13 +4,13 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 
 # Shenhe
 
-## **Resources**
+## Resources
 * [The Divine Damsel of Devastation: A Shenhe Guide](https://keqingmains.com/shenhe/)
 
 ## ![](/assets/element_cryo.png) Shenhe
 ![](/assets/character_shenhe_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv  | Base HP | Base ATK | Base DEF | ATK%   |
 | --- | ------- | -------- | -------- | ------ |
@@ -22,7 +22,7 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 | 80+ | 12080   | 282      | 772      | 28.80% |
 | 90  | 12993   | 304      | 830      | 28.80% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Dawnstar Piercer" %}
@@ -146,17 +146,17 @@ The Talisman Spirit then creates a field that decreases the Cryo RES and Physica
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Precise Comings and Goings**
+### Precise Comings and Goings
 
 Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Deific Embrace**
+### Deific Embrace
 
 An active character within the field created by **Divine Maiden's Deliverance** gains 15% **Cryo DMG Bonus**.
 
@@ -164,7 +164,7 @@ An active character within the field created by **Divine Maiden's Deliverance** 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Spirit Communion Seal**
+### Spirit Communion Seal
 
 After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party members the following effects:
 * Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.
@@ -175,11 +175,11 @@ After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party m
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Clarity of Heart**
+### Clarity of Heart
 
 **Spring Spirit Summoning** can be used 1 more time.
 
@@ -188,7 +188,7 @@ After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party m
 {% endtab %}
 
 {% tab title="C2" %}
-### **Centered Spirit**
+### Centered Spirit
 
 **Divine Maiden's Deliverance** lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased **Cryo** CRIT DMG.
 
@@ -197,7 +197,7 @@ After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party m
 {% endtab %}
 
 {% tab title="C3" %}
-### **Seclusion**
+### Seclusion
 
 Increases the Level of **Spring Spirit Summoning** by 3.
 Maximum upgrade level is 15.
@@ -205,7 +205,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Insight**
+### Insight
 
 When characters under the effect of **Icy Quill** applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:
 * When Shenhe uses **Spring Spirit Summoning**, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.
@@ -216,7 +216,7 @@ When characters under the effect of **Icy Quill** applied by Shenhe trigger its 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Divine Attainment**
+### Divine Attainment
 
 Increases the Level of **Divine Maiden's Deliverance** by 3.
 Maximum upgrade level is 15.
@@ -224,14 +224,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Mystical Abandon**
+### Mystical Abandon
 
 When characters trigger **Icy Quill**'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota.
 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Dawnstar Piercer" %}

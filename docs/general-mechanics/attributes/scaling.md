@@ -15,7 +15,7 @@ These Charts will help Travelers identify what Attributes to maximize when colle
 * Xiao
 * Eula
 
-## **Evidence Vault:**
+## Evidence Vault:
 
 {% page-ref page="../../evidence/general-mechanics/attributes/scaling.md" %}
 

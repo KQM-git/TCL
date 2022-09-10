@@ -4,7 +4,7 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 # Raiden
 
-## **Resources**
+## Resources
 
 * [Raiden Shogun Guide](https://keqingmains.com/raiden/)
 
@@ -12,7 +12,7 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 ![](/assets/character_raiden_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 | 80+ | 12000 | 314 | 734 | 32% |
 | 90 | 12907 | 337 | 789 | 32% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Origin" %}
@@ -159,24 +159,24 @@ The Resolve gained by **Chakra Desiderata** will be cleared 300s after the Raide
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **All-Preserver**
+### All-Preserver
 
 Mora expended when ascending Swords and Polearms is decreased by 50%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Wishes Unnumbered**
+### Wishes Unnumbered
 
 When nearby party members gain Elemental Orbs or Particles, **Chakra Desiderata** gains 2 **Resolve stacks**.
 This effect can occur once every 3s.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Enlightened One**
+### Enlightened One
 
 Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
 * 0.6% greater Energy restoration from **Musou Isshin**
@@ -184,18 +184,18 @@ Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Ominous Inscription**
+### Ominous Inscription
 
 **Chakra Desiderata** will gather **Resolve** even faster. When **Electro** characters use their Elemental Bursts, the **Resolve** gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the **Resolve** gained is increased by 20%.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Steelbreaker**
+### Steelbreaker
 
 While using **Musou no Hitotachi** and in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, the Raiden Shogun's attacks ignore 60% of opponents' DEF.
 
@@ -204,7 +204,7 @@ While using **Musou no Hitotachi** and in the **Musou Isshin** state applied by 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Shinkage Bygones**
+### Shinkage Bygones
 
 Increases the Level of **Secret Art: Musou Shinsetsu** by 3.
 Maximum upgrade level is 15.
@@ -212,14 +212,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Pledge of Propriety**
+### Pledge of Propriety
 
 When the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu** expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Shogun's Descent**
+### Shogun's Descent
 
 Increases the Level of **Transcendence: Baleful Omen** by 3.
 Maximum upgrade level is 15.
@@ -227,7 +227,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Wishbearer**
+### Wishbearer
 
 While in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.  
 This effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.
@@ -235,7 +235,7 @@ This effect can trigger once every 1s and can trigger a total of 5 times during 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Origin" %}

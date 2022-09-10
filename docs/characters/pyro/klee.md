@@ -4,7 +4,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 # Klee
 
-## **Resources**
+## Resources
 
 * [Klee Mains Discord](https://discord.gg/NwYDDrfKZU)
 * [In Depth Klee Guide](https://keqingmains.com/klee/)
@@ -13,7 +13,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 ![](/assets/character_klee_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Pyro DMG % |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 | 80+ | 9563 | 289 | 572 | 28.80% |
 | 90 | 10287 | 311 | 615 | 28.80% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Kaboom!" %}
@@ -123,17 +123,17 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **All Of My Treasures!**
+### All Of My Treasures!
 
 Displays the location of nearby **resources unique to Mondstadt** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Pounding Surprise**
+### Pounding Surprise
 
 When **Jumpy Dumpty** and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.  
 This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
@@ -147,7 +147,7 @@ This Explosive Spark is consumed by the next Charged Attack, which costs no Stam
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Sparkling Burst**
+### Sparkling Burst
 
 When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.
 
@@ -156,11 +156,11 @@ When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Eleme
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Chained Reactions**
+### Chained Reactions
 
 Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.
 
@@ -184,14 +184,14 @@ Attacks and Skills have a certain chance to summon sparks that bombard opponents
 {% endtab %}
 
 {% tab title="C2" %}
-### **Explosive Frags**
+### Explosive Frags
 
 Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Exquisite Compound**
+### Exquisite Compound
 
 Increases the Level of **Jumpy Dumpty** by 3.
 Maximum upgrade level is 15.
@@ -199,7 +199,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Sparkly Explosion**
+### Sparkly Explosion
 
 If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**.
 
@@ -213,7 +213,7 @@ If Klee leaves the field during the duration of **Sparks 'n' Splash**, her depar
 {% endtab %}
 
 {% tab title="C5" %}
-### **Nova Burst**
+### Nova Burst
 
 Increases the Level of **Sparks 'n' Splash** by 3.
 Maximum upgrade level is 15.
@@ -221,7 +221,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Blazing Delight**
+### Blazing Delight
 
 While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.
 When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG Bonus** for 25s.
@@ -231,7 +231,7 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Kaboom!" %}

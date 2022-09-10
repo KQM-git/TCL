@@ -4,7 +4,7 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 
 # Mona
 
-## **Resources**
+## Resources
 
 * [Mona Mains Discord](https://discord.gg/uxVEDkTyRe)
 * [Full Mona Written Guide: The Astrological Guide to Mona Megistus](https://keqingmains.com/mona/)
@@ -16,7 +16,7 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 
 ![](/assets/character_mona_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Energy Recharge% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ description: A mysterious young astrologer who proclaims herself to be “Astrol
 | 80+ | 9677 | 267 | 607 | 32 |
 | 90 | 10409 | 287 | 653 | 32 |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Ripple of Fate" %}
@@ -172,17 +172,17 @@ When an opponent affected by **Illusory Bubble** sustains DMG, it has the follow
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Principium of Astrology**
+### Principium of Astrology
 
 When Mona crafts Weapon Ascension Materials, she has a 25% chance to refund a portion of the crafting materials used.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **"Come 'n' Get Me, Hag!"**
+### "Come 'n' Get Me, Hag!"
 
 After she has used **Illusory Torrent** for 2s, if there are any opponents nearby, Mona will automatically create a **Phantom**.
 A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equal to 50% of **Mirror Reflection of Doom**.
@@ -194,7 +194,7 @@ A **Phantom** created in this manner lasts for 2s, and its explosion DMG is equa
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Waterborne Destiny**
+### Waterborne Destiny
 
 Increases Mona's **Hydro DMG Bonus** by a degree equivalent to 20% of her Energy Recharge rate.
 
@@ -203,11 +203,11 @@ Increases Mona's **Hydro DMG Bonus** by a degree equivalent to 20% of her Energy
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Prophecy of Submersion**
+### Prophecy of Submersion
 
 When any of your own party members hits an opponent affected by an **Omen**, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:
 * Electro-Charged DMG increases by 15%.
@@ -226,7 +226,7 @@ Teammates in Co-op are not counted as "your own party members" and will not obta
 {% endtab %}
 
 {% tab title="C2" %}
-### **Lunar Chain**
+### Lunar Chain
 
 When a **Normal Attack** hits, there is a 20% chance that it will be automatically followed by a **Charged Attack**.
 This effect can only occur once every 5s.
@@ -240,7 +240,7 @@ This effect can only occur once every 5s.
 {% endtab %}
 
 {% tab title="C3" %}
-### **Restless Revolution**
+### Restless Revolution
 
 Increases the Level of **Stellaris Phantasm** by 3.
 Maximum upgrade level is 15.
@@ -248,7 +248,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Prophecy of Oblivion**
+### Prophecy of Oblivion
 
 When any party member attacks an opponent affected by an **Omen**, their CRIT Rate is increased by 15%.
 
@@ -256,7 +256,7 @@ When any party member attacks an opponent affected by an **Omen**, their CRIT Ra
 {% endtab %}
 
 {% tab title="C5" %}
-### **Mockery of Fortuna**
+### Mockery of Fortuna
 
 Increases the Level of **Mirror Reflection of Doom** by 3.
 Maximum upgrade level is 15.
@@ -264,7 +264,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Rhetorics of Calamitas**
+### Rhetorics of Calamitas
 
 Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next **Charged Attack** per second of movement.
 A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.
@@ -272,7 +272,7 @@ A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Ripple of Fate" %}

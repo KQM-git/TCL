@@ -7,7 +7,7 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
 ## ![](/assets/element_electro.png) Kuki Shinobu
 ![](/assets/character_shinobu_wish.png)
  
-## **Base Stats**
+## Base Stats
  
 | Lv  | Base HP | Base ATK | Base DEF | HP  |
 |-----|---------|----------|----------|-----|
@@ -19,7 +19,7 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
 | 80+ | 11438   | 198      | 699      | 24% |
 | 90  | 12289   | 212      | 751      | 24% |
  
-## **Attacks**
+## Attacks
  
 {% tabs %}
 {% tab title="Normal Attack: Shinobu&apos;s Shadowsword" %}
@@ -112,23 +112,23 @@ If Shinobu's HP is less than or equal to 50% when this skill is used, the field 
 {% endtab %}
 {% endtabs %}
  
-## **Ascension Passives**
+## Ascension Passives
  
 {% tabs %}
 {% tab title="Passive" %}
-### **Protracted Prayers**
+### Protracted Prayers
 
 Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.
 {% endtab %}
  
 {% tab title="Ascension 1" %}
-### **Breaking Free**
+### Breaking Free
 
 When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
 {% endtab %}
  
 {% tab title="Ascension 4" %}
-### **Heart's Repose**
+### Heart's Repose
 
 **Sanctifying Ring**'s abilities will be boosted based on Shinobu's Elemental Mastery:  
 • Healing amount will be increased by 75% of Elemental Mastery.  
@@ -141,30 +141,30 @@ When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
 {% endtab %}
 {% endtabs %}
  
-## **Constellations**
+## Constellations
  
 {% tabs %}
 {% tab title="C1" %}
-### **To Cloister Compassion**
+### To Cloister Compassion
 
 **Gyoei Narukami Kariyama Rite**'s AoE is increased by 50%.
 {% endtab %}
  
 {% tab title="C2" %}
-### **To Forsake Fortune**
+### To Forsake Fortune
 
 **Grass Ring of Sanctification**'s duration is increased by 3s.
 {% endtab %}
  
 {% tab title="C3" %}
-### **To Sequester Sorrow**
+### To Sequester Sorrow
 
 Increases the Level of **Sanctifying Ring** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
  
 {% tab title="C4" %}
-### **To Sever Sealing**
+### To Sever Sealing
 
 When the Normal, Charged, or Plunging Attacks of the character affected by Shinobu's G**rass Ring of Sanctification** hit opponents, a **Thundergrass Mark** will land on the opponent's position and deal AoE Electro DMG based on 9.7% of Shinobu's Max HP.  
 This effect can occur once every 5s.
@@ -178,21 +178,21 @@ This effect can occur once every 5s.
 {% endtab %}
  
 {% tab title="C5" %}
-### **To Cease Courtesies**
+### To Cease Courtesies
 
 Increases the Level of **Gyoei Narukami Kariyama Rite** by 3.  
 Maximum upgrade level is 15.
 {% endtab %}
  
 {% tab title="C6" %}
-### **To Ward Weakness**
+### To Ward Weakness
 
 When Kuki Shinobu takes lethal DMG, this instance of DMG will not take her down. This effect will automatically trigger when her HP reaches 1 and will trigger once every 60s.  
 When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. This effect will trigger once every 60s.
 {% endtab %}
 {% endtabs %}
  
-## **Full Talent Values**
+## Full Talent Values
  
 {% tabs %}
 {% tab title="Normal Attack: Shinobu&apos;s Shadowsword" %}

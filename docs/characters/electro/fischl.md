@@ -13,7 +13,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 ![](/assets/character_fischl_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 | 80+ | 8553 | 227 | 553 | 24% |
 | 90 | 9189 | 244 | 594 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Bolts of Downfall" %}
@@ -149,17 +149,17 @@ Has the following properties during the ability's duration:
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Mein Hausgarten**
+### Mein Hausgarten
 
 When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Stellar Predator**
+### Stellar Predator
 
 When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing **AoE Electro DMG** equal to 152.7% of the arrow's DMG.
 
@@ -179,7 +179,7 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering R
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Undone Be Thy Sinful Hex**
+### Undone Be Thy Sinful Hex
 *\(previously known as **Lightning Smite**\)*  
 
 If your current active character triggers an **Electro-related Elemental Reaction** when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing **Electro DMG** equal to 80% of Fischl's ATK.
@@ -203,11 +203,11 @@ If your current active character triggers an **Electro-related Elemental Reactio
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Gaze of the Deep**
+### Gaze of the Deep
 
 Even when **Oz** is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, **Oz** fires a joint attack, dealing DMG equal to 22% of Fischl's ATK.
 
@@ -224,7 +224,7 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 {% endtab %}
 
 {% tab title="C2" %}
-### **Devourer of All Sins**
+### Devourer of All Sins
 
 When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
 
@@ -234,7 +234,7 @@ When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE
 {% endtab %}
 
 {% tab title="C3" %}
-### **Wings of Nightmare**
+### Wings of Nightmare
 
 Increases the Level of **Nightrider** by 3.
 Maximum upgrade level is 15.
@@ -242,7 +242,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Her Pilgrimage of Bleak**
+### Her Pilgrimage of Bleak
 
 When **Midnight Phantasmagoria** is used, it deals 222% of ATK as **Electro DMG** to surrounding opponents.  
 When the skill duration ends, Fischl regenerates 20% of her HP.
@@ -263,7 +263,7 @@ When the skill duration ends, Fischl regenerates 20% of her HP.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Against the Fleeing Light**
+### Against the Fleeing Light
 
 Increases the Level of **Midnight Phantasmagoria** by 3.
 Maximum upgrade level is 15.
@@ -271,7 +271,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Evernight Raven**
+### Evernight Raven
 
 Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.
 
@@ -298,7 +298,7 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Bolts of Downfall" %}

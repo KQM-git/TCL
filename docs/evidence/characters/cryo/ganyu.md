@@ -303,7 +303,7 @@ Difficult to count the icicles initially, but 4 icicles are dropped on the groun
 
 Ganyu's Q is really bad against single target enemies for cryo application. Her cryo application really shines when you can abuse the fact that the icicles have separate cryo applications on enemies that are grouped.
 
-### **Ganyu’s Ascension 4 and Constellation 4 Effects Carry Over on Consecutive Casts of Ganyu’s Elemental Burst**
+### Ganyu’s Ascension 4 and Constellation 4 Effects Carry Over on Consecutive Casts of Ganyu’s Elemental Burst
 
 **By:** SavageCabbage\#1445 TiagoESC\#6773  
 **Added:** 2021-01-25
@@ -397,7 +397,7 @@ These findings are important for Ganyu players to know as their elemental bursts
 
 
 
-### **Ganyu elemental burst and charge shots snapshot**
+### Ganyu elemental burst and charge shots snapshot
 
 **By:** Karzak\#7126 Nello\#1928 Neptunya\#8291  
 **Added:** 2021-01-28

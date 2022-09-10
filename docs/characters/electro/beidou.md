@@ -4,7 +4,7 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 # Beidou
 
-## **Resources**
+## Resources
 
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
 * [Full Beidou Written Guide: Tales from the Sea](https://keqingmains.com/beidou/)
@@ -14,7 +14,7 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 ![](/assets/character_beidou_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Electro DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 | 80+ | 12146 | 210 | 603 | 24% |
 | 90 | 13050 | 225 | 648 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Oceanborne" %}
@@ -162,24 +162,24 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Conqueror of Tides**
+### Conqueror of Tides
 
 Decreases swimming Stamina consumption for your own party members by 20%.
 Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Retribution**
+### Retribution
 
 Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Lightning Storm**
+### Lightning Storm
 
 Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus: 
 * DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.
@@ -187,11 +187,11 @@ Gain the following effects for 10s after unleashing **Tidecaller** with its maxi
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **Sea Beast's Scourge**
+### Sea Beast's Scourge
 
 When **Stormbreaker** is used:  
 Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.  
@@ -200,14 +200,14 @@ This shield absorbs **Electro DMG** 250% more effectively.
 {% endtab %}
 
 {% tab title="C2" %}
-### **Upon the Turbulent Sea, the Thunder Arises**
+### Upon the Turbulent Sea, the Thunder Arises
 
 **Stormbreaker**'s arc lightning can jump to 2 additional targets.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Summoner of Storm**
+### Summoner of Storm
 
 Increases the Level of **Tidecaller** by 3.
 Maximum upgrade level is 15.
@@ -215,7 +215,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Stunning Revenge**
+### Stunning Revenge
 
 Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s.
 
@@ -238,7 +238,7 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Crimson Tidewalker**
+### Crimson Tidewalker
 
 Increases the Level of **Stormbreaker** by 3.
 Maximum upgrade level is 15.
@@ -246,7 +246,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Bane of Evil**
+### Bane of Evil
 
 During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.
 
@@ -258,7 +258,7 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Oceanborne" %}

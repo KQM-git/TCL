@@ -7,7 +7,7 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
 ## ![](/assets/element_anemo.png) Shikanoin Heizou
 ![](/assets/character_heizou_wish.png)
  
-## **Base Stats**
+## Base Stats
  
 | Lv  | Base HP | Base ATK | Base DEF | Anemo DMG Bonus |
 |-----|---------|----------|----------|-----------------|
@@ -20,7 +20,7 @@ description: A young prodigy detective from the Tenryou Commission. His senses a
 | 90  | 10657   | 225      | 684      | 24%             |
 
  
-## **Attacks**
+## Attacks
  
 {% tabs %}
 {% tab title="Normal Attack: Fudou Style Martial Arts" %}
@@ -123,11 +123,11 @@ Vacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A 
 {% endtab %}
 {% endtabs %}
  
-## **Ascension Passives**
+## Ascension Passives
  
 {% tabs %}
 {% tab title="Passive" %}
-### **Pre-Existing Guilt**
+### Pre-Existing Guilt
 
 Decreases sprinting Stamina consumption for your own party members by 20%.  
 Not stackable with Passive Talents that provide the exact same effects.
@@ -135,7 +135,7 @@ Not stackable with Passive Talents that provide the exact same effects.
 {% endtab %}
  
 {% tab title="Ascension 1" %}
-### **Paradoxical Practice**
+### Paradoxical Practice
 
 When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 0.1s.
 
@@ -145,32 +145,32 @@ When Shikanoin Heizou activates a Swirl reaction while on the field, he will gai
 {% endtab %}
  
 {% tab title="Ascension 4" %}
-### **Penetrative Reasoning**
+### Penetrative Reasoning
 
 After Shikanoin Heizou's Heartstopper Strike hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.
  
 {% endtab %}
 {% endtabs %}
  
-## **Constellations**
+## Constellations
  
 {% tabs %}
 {% tab title="C1" %}
-### **Named Juvenile Casebook**
+### Named Juvenile Casebook
 
 For 5s after Shikanoin Heizou takes the field, his Normal Attack SPD is increased by 15%. He also gains 1 Declension stack for Heartstopper Strike. This effect can be triggered once every 10s.
  
 {% endtab %}
  
 {% tab title="C2" %}
-### **Investigative Collection**
+### Investigative Collection
 
 The pull effect of the Arresting Windtunnel created by Windmuster Kick is enhanced, and its duration is increased to 1s.
  
 {% endtab %}
  
 {% tab title="C3" %}
-### **Esoteric Puzzle Book**
+### Esoteric Puzzle Book
 
 Increases the Level of Heartstopper Strike by 3.  
 Maximum upgrade level is 15.
@@ -178,7 +178,7 @@ Maximum upgrade level is 15.
 {% endtab %}
  
 {% tab title="C4" %}
-### **Tome of Lies**
+### Tome of Lies
 
 The first Windmuster Iris explosion in each Windmuster Kick will regenerate 9 Elemental Energy for Shikanoin Heizou. Every subsequent explosion in that Windmuster Kick will each regenerate an additional 1.5 Energy for Heizou.  
 One Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this manner.
@@ -186,7 +186,7 @@ One Windmuster Kick can regenerate a total of 13.5 Energy for Heizou in this man
 {% endtab %}
  
 {% tab title="C5" %}
-### **Secret Archive**
+### Secret Archive
 
 Increases the Level of Windmuster Kick by 3.  
 Maximum upgrade level is 15.
@@ -194,14 +194,14 @@ Maximum upgrade level is 15.
 {% endtab %}
  
 {% tab title="C6" %}
-### **Curious Casefiles**
+### Curious Casefiles
  
 Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unleashed by 4%. When Heizou possesses Conviction, this Heartstopper Strike's CRIT DMG is increased by 32%.
 
 {% endtab %}
 {% endtabs %}
  
-## **Full Talent Values**
+## Full Talent Values
  
 {% tabs %}
 {% tab title="Normal Attack: Fudou Style Martial Arts" %}

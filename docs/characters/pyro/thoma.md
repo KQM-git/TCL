@@ -11,7 +11,7 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 
 ![](/assets/character_thoma_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | ATK |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 | 80+ | 9616 | 188 | 699 | 24% |
 | 90 | 10331 | 202 | 751 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Swiftshatter Spear" %}
@@ -140,17 +140,17 @@ If Thoma falls, the effects of Scorching Ooyoroi will be cleared.
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Snap and Swing**
+### Snap and Swing
 
 When you **fish** successfully in Inazuma, Thoma's help grants a 20% chance of scoring a double catch.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Imbricated Armor**
+### Imbricated Armor
 
 When your current active character obtains or refreshes a **Blazing Barrier**, this character's Shield Strength will increase by 5% for 6s.
 This effect can be triggered once every 0.3s seconds. Max 5 stacks.
@@ -160,17 +160,17 @@ This effect can be triggered once every 0.3s seconds. Max 5 stacks.
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Flaming Assault**
+### Flaming Assault
 
 DMG dealt by **Crimson Ooyoroi**'s **Fiery Collapse** is increased by 2.2% of Thoma's Max HP.
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **A Comrade's Duty**
+### A Comrade's Duty
 
 When a character protected by Thoma's own **Blazing Barrier** (Thoma excluded) is attacked, Thoma's own **Blazing Blessing** CD is decreased by 3s, while his own **Crimson Ooyoroi**'s CD is decreased by 3s.
 This effect can be triggered once every 20s.
@@ -178,14 +178,14 @@ This effect can be triggered once every 20s.
 {% endtab %}
 
 {% tab title="C2" %}
-### **A Subordinate's Skills**
+### A Subordinate's Skills
 
 **Crimson Ooyoroi**'s duration is increased by 3s.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Fortified Resolve**
+### Fortified Resolve
 
 Increases the Level of **Blazing Blessing** by 3.
 Maximum upgrade level is 15.
@@ -193,14 +193,14 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Long-Term Planning**
+### Long-Term Planning
 
 After using **Crimson Ooyoroi**, 15 Energy will be restored to Thoma.
 
 {% endtab %}
 
 {% tab title="C5" %}
-### **Raging Wildfire**
+### Raging Wildfire
 
 Increases the Level of **Crimson Ooyoroi** by 3.
 Maximum upgrade level is 15.
@@ -208,7 +208,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Burning Heart**
+### Burning Heart
 
 When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party members' Normal, Charged, and Plunging Attacks is increased by 15% for 6s.
 
@@ -217,7 +217,7 @@ When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party 
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Swiftshatter Spear" %}

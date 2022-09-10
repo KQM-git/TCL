@@ -4,7 +4,7 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 
 # Yanfei
 
-## **Resources**
+## Resources
 
 * [Yanfei Full Guide](https://keqingmains.com/yanfei/)
 
@@ -12,7 +12,7 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 
 ![](/assets/character_yanfei_wish.png)
 
-## **Base Stats**
+## Base Stats
 
 | Lv | Base HP | Base ATK | Base DEF | Pyro DMG% |
 | :--- | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 | 80+ | 8705 | 223 | 546 | 24% |
 | 90 | 9352 | 240 | 587 | 24% |
 
-## **Attacks**
+## Attacks
 
 {% tabs %}
 {% tab title="Seal of Approval" %}
@@ -122,17 +122,17 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 {% endtab %}
 {% endtabs %}
 
-## **Ascension Passives**
+## Ascension Passives
 
 {% tabs %}
 {% tab title="Passive" %}
-### **Encyclopedic Expertise**
+### Encyclopedic Expertise
 
 Displays the location of nearby **resources unique to Liyue** on the mini-map.
 {% endtab %}
 
 {% tab title="Ascension 1" %}
-### **Proviso**
+### Proviso
 
 When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's **Pyro DMG Bonus** by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
 
@@ -140,7 +140,7 @@ When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal 
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### **Blazing Eye**
+### Blazing Eye
 
 When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG** equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
 
@@ -160,25 +160,25 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
 {% endtab %}
 {% endtabs %}
 
-## **Constellations**
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### **The Law Knows No Kindness**
+### The Law Knows No Kindness
 
 When Yanfei uses her Charged Attack, each existing **Scarlet Seal** additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
 
 {% endtab %}
 
 {% tab title="C2" %}
-### **Right of Final Interpretation**
+### Right of Final Interpretation
 
 Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
 
 {% endtab %}
 
 {% tab title="C3" %}
-### **Samadhi Fire-Forged**
+### Samadhi Fire-Forged
 
 Increases the Level of **Signed Edict** by 3.
 Maximum upgrade level is 15.
@@ -186,7 +186,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C4" %}
-### **Supreme Amnesty**
+### Supreme Amnesty
 
 When **Done Deal** is used:
 Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
@@ -195,7 +195,7 @@ This shield absorbs **Pyro DMG** 250% more effectively.
 {% endtab %}
 
 {% tab title="C5" %}
-### **Abiding Affidavit**
+### Abiding Affidavit
 
 Increases the Level of **Done Deal** by 3.
 Maximum upgrade level is 15.
@@ -203,7 +203,7 @@ Maximum upgrade level is 15.
 {% endtab %}
 
 {% tab title="C6" %}
-### **Extra Clause**
+### Extra Clause
 
 Increases the maximum number of **Scarlet Seals** by 1.
 
@@ -212,7 +212,7 @@ Increases the maximum number of **Scarlet Seals** by 1.
 {% endtab %}
 {% endtabs %}
 
-## **Full Talent Values**
+## Full Talent Values
 
 {% tabs %}
 {% tab title="Seal of Approval" %}

@@ -28,7 +28,7 @@ search: false
 
 **Significance:** Off-field characters cannot gain energy via auto attacks from the active character .
 
-## Energy Recharge **D**oes NOT Have a Softcap \(at least up to 300 ER\)
+## Energy Recharge Does NOT Have a Softcap \(at least up to 300 ER\)
 
 **By:** muakasan\#2792  
 **Added:** 2021-04-04
