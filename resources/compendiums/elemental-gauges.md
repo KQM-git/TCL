@@ -59,7 +59,7 @@ A more in-depth explanation can be found at [Elemental Gauge Theory](../../comba
 | Kaeya     | - | - | 2B | - | 1A | - |
 | Qiqi      | - | - | Initial Skill: 1A<br />Herald Orbital: 1A | - | 2B | - |
 | Rosaria   | - | - | 1A | - | On Cast: 1A<br />AoE Pulse: 1A | - |
-| Shenhe    | - | - | 1A | 2A | Initial Hit: 1A<br />DoT: 1A | - | 
+| Shenhe    | - | - | 1A | 2B | Initial Hit: 1A<br />DoT: 1A | - | 
 
 {% endtab %}
 {% tab title="Electro" %}
