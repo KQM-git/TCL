@@ -255,7 +255,7 @@ By crawling into a horizontal position, interacting with a character in teapot, 
   
 Also, by climbing into a firework precisely placed on geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)  
   
-Credit to the original [Horizon Tech](https://library.keqingmains.com/evidence/general-mechanics/bugs#horizon-tech)  
+Credit to the original [Horizon Tech](./bugs#horizon-tech)  
   
 **Evidence:**  
 Build Guide in Teapot, more info in description: [YouTube](https://youtu.be/ewTmmKYjbMM)  
@@ -288,7 +288,7 @@ Better understanding of how the bodies are modelled, fluff,... and suffering.
 **Finding:**  
 Diluc is hiring part time, so Diona applies, but little does he know that he has a workplace injury settlement coming his way.
 Take damage when you plunge behind the counter in Diluc's Tavern, the Angel's Share, any weapon type works
-The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](https://library.keqingmains.com/evidence/general-mechanics/bugs#leg-break-bridge).
+The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](#leg-break-bridge).
 
 **Evidence:**  
 
@@ -375,7 +375,7 @@ It is very possible that other characters can lose their weapons. At the very le
 [Discussion](https://tickets.deeznuts.moe/transcripts/childe-fist-n1)
 
 **Finding:**  
-An addendum to this [Library Entry](https://library.keqingmains.com/evidence/characters/hydro/tartaglia#elemental-skill-and-attack-or-burst-on-the-same-frame)  
+An addendum to this [Library Entry](../characters/hydro/tartaglia#elemental-skill-and-attack-or-burst-on-the-same-frame)  
   
 By doing a ranged N1 and switching to melee stance on the same frame, Childe will do rN1 without holding his bow, summoning an arrow his fist. If you continue to press Attack without moving, Childe will keep doing this until you stop pressing or melee stance runs out.  
   

@@ -635,7 +635,7 @@ Melee attacks infused with elements usually cannot chop wood from trees.
 
 **Evidence:**  
 Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
-Ayato *can* chop wood during his skill's infusion *if* activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](https://library.keqingmains.com/general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation)  - [YouTube](https://youtu.be/Bs80TnoJMyI)
+Ayato *can* chop wood during his skill's infusion *if* activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation)  - [YouTube](https://youtu.be/Bs80TnoJMyI)
 
 **Significance:**  
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.

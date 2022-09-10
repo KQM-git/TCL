@@ -41,17 +41,17 @@ const config = {
           if (match) {
             const char = match[1];
             // console.log(`Adding alias from ${char} to ${routePath}`);
-            if (char.startsWith("traveler-"))
-              return [`/${char}`, `/${char.replace("traveler-", "")[0]}mc`];
+            if (char.startsWith('traveler-'))
+              return [`/${char}`, `/${char.replace('traveler-', '')[0]}mc`];
             return [`/${char}`];
           }
 
           return [];
         },
         redirects: [
-          { from: "/damage", to: "/combat-mechanics/damage/damage-formula" },
-          { from: "/egt", to: "/combat-mechanics/elemental-effects/elemental-gauge-theory" },
-          { from: "/srp", to: "/combat-mechanics/elemental-effects/simultaneous-reaction-priority" },
+          { from: '/damage', to: '/combat-mechanics/damage/damage-formula' },
+          { from: '/egt', to: '/combat-mechanics/elemental-effects/elemental-gauge-theory' },
+          { from: '/srp', to: '/combat-mechanics/elemental-effects/simultaneous-reaction-priority' },
         ]
       }),
     ],
@@ -62,7 +62,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: "/",
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -72,8 +72,9 @@ const config = {
           rehypePlugins: [katex],
         },
         blog: {
-          // routeBasePath: '/',
-          path: 'blog',
+          routeBasePath: '/newsletter',
+          blogTitle: 'Newsletter',
+          path: 'newsletter',
           editUrl: 'https://github.com/Artesians/TCL/blob/master/',
           postsPerPage: 5,
           blogSidebarCount: 'ALL',
@@ -111,7 +112,7 @@ const config = {
             label: 'Home',
           },
           {
-            to: 'blog',
+            to: 'newsletter',
             position: 'left',
             label: 'Newsletter',
           },

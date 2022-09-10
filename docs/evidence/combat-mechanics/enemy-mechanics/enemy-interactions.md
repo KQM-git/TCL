@@ -141,7 +141,7 @@ Further testing should be done on the Implode status (Xiangling C2) but that req
 The de-aggro distance for Overworld enemies differs between them and is not a specific number, but rather a range from their spawn.  
 
 **Evidence:**  
-The distances are calculated using all 3 axis of the Genshin coordinate system from [this Vault Entry](https://library.keqingmains.com/evidence/general-mechanics/overworld#coordinates).  
+The distances are calculated using all 3 axis of the Genshin coordinate system from [this Vault Entry](../../general-mechanics/overworld#coordinates).  
 Testing method: [Video](https://youtu.be/fkoYcMKGYNg)  
 1. Use the Adventure Handbook to identify enemy spawn.  
 2. Get coordinates of the spawn location.  
