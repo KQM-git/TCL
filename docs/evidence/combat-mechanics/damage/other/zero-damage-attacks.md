@@ -4,7 +4,7 @@ search: false
 
 # Zero Damage Attacks
 
-{% page-ref page="../../../../combat-mechanics/damage/other/zero-damage-attacks.md" %}
+<Card item={require('../../../../combat-mechanics/damage/other/zero-damage-attacks.md')} />
 
 ## Properties of 0 Damage Attacks
 

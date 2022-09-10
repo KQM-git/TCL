@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/housing.md" %}
+<Card item={require('../../general-mechanics/housing.md')} />
 
 ## Grass Fires in Friends' Teapots
 

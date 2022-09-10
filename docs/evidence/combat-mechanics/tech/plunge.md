@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../../combat-mechanics/tech/plunge-tech.md" %}
+<Card item={require('../../../combat-mechanics/tech/plunge-tech.md')} />
 
 ## Dash-Jump-Plunge  
 

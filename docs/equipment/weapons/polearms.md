@@ -729,5 +729,5 @@
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/equipment/weapons.md" %}
+<Card item={require('../../evidence/equipment/weapons.md')} />
 

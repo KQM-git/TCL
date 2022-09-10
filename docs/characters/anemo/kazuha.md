@@ -327,4 +327,4 @@ After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Ane
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/kazuha.md" %}
+<Card item={require('../../evidence/characters/anemo/kazuha.md')} />

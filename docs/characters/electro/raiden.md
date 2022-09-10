@@ -323,4 +323,4 @@ This effect can trigger once every 1s and can trigger a total of 5 times during 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/raiden.md" %}
+<Card item={require('../../evidence/characters/electro/raiden.md')} />

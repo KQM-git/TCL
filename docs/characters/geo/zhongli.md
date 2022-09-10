@@ -319,5 +319,5 @@ A single instance of regeneration cannot exceed 8% of that character's Max HP.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/zhongli.md" %}
+<Card item={require('../../evidence/characters/geo/zhongli.md')} />
 

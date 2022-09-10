@@ -270,5 +270,5 @@ Active party members within the Solar Isotoma field who are protected by a shiel
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/albedo.md" %}
+<Card item={require('../../evidence/characters/geo/albedo.md')} />
 

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/geo/traveler-geo.md" %}
+<Card item={require('../../../characters/geo/traveler-geo.md')} />
 
 ## Attack Mechanics
 

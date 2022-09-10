@@ -602,5 +602,5 @@ This effect can still be triggered even when the character who is using this art
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/equipment/artifacts.md" %}
+<Card item={require('../evidence/equipment/artifacts.md')} />
 

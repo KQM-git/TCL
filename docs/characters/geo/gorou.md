@@ -293,4 +293,4 @@ This effect cannot stack and will take reference from the last instance of the e
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/gorou.md" %}
+<Card item={require('../../evidence/characters/geo/gorou.md')} />

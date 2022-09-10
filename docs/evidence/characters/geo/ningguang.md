@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/geo/ningguang.md" %}
+<Card item={require('../../../characters/geo/ningguang.md')} />
 
 ## Charged Attack Mechanics
 

@@ -180,5 +180,4 @@ Additionally, the decay rate of the Dendro aura while Burning is the sum of the 
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md" %}
-
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md')} />

@@ -368,5 +368,5 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/fischl.md" %}
+<Card item={require('../../evidence/characters/electro/fischl.md')} />
 

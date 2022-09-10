@@ -280,5 +280,5 @@ Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additional
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/xinyan.md" %}
+<Card item={require('../../evidence/characters/pyro/xinyan.md')} />
 

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/pyro/thoma.md" %}
+<Card item={require('../../../characters/pyro/thoma.md')} />
 
 ## Basic Thoma Mechanics
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897812961303863386_917960336223666197_transcript-thoma-basic-mechanics.html)

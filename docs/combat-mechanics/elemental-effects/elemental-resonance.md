@@ -29,4 +29,4 @@ Cryo resonance determines if an enemy has Cryo for its buff before reactions rem
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/elemental-effects/elemental-resonance.md" %}
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/elemental-resonance.md')} />

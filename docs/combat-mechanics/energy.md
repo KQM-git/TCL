@@ -92,5 +92,5 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 * xf3\#3123
 * Zeitraffer\#1074
 
-{% page-ref page="../../../evidence/combat-mechanics/energy.md" %}
+<Card item={require('../evidence/combat-mechanics/energy.md')} />
 

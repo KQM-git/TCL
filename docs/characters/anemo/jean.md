@@ -286,5 +286,5 @@ Incoming DMG is decreased by 35% within the Field created by **Dandelion Breeze*
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/jean.md" %}
+<Card item={require('../../evidence/characters/anemo/jean.md')} />
 

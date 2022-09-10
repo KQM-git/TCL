@@ -419,5 +419,5 @@ This effect will only take place once Tartaglia returns to his Ranged Stance.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/tartaglia.md" %}
+<Card item={require('../../evidence/characters/hydro/tartaglia.md')} />
 

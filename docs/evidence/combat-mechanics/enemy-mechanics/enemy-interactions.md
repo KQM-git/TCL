@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../combat-mechanics/enemy-mechanics/enemy-interactions.md" %}
+<Card item={require('../../../combat-mechanics/enemy-mechanics/enemy-interactions.md')} />
 
 ## General Enemy Interactions
 

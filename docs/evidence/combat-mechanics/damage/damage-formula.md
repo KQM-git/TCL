@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../combat-mechanics/damage/damage-formula.md" %}
+<Card item={require('../../../combat-mechanics/damage/damage-formula.md')} />
 
 ## Outcoming and incoming healing bonuses are additive  
 

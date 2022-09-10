@@ -332,4 +332,4 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/ayato.md" %}
+<Card item={require('../../evidence/characters/hydro/ayato.md')} />

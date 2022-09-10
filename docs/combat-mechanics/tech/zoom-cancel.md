@@ -18,5 +18,5 @@ More technically, many characters have a primary camera that normally tracks the
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/zoom-cancel.md" %}
+<Card item={require('../../evidence/combat-mechanics/tech/zoom-cancel.md')} />
 

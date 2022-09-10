@@ -4,7 +4,7 @@ search: false
 
 # Shields
 
-{% page-ref page="../../../combat-mechanics/damage/shields.md" %}
+<Card item={require('../../../combat-mechanics/damage/shields.md')} />
 
 ## Shield and I-frame Interactions.
 

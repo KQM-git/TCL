@@ -314,4 +314,4 @@ Arataki Itto's Charged Attacks deal +70% Crit DMG. Additionally, when he uses **
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/itto.md" %}
+<Card item={require('../../evidence/characters/geo/itto.md')} />

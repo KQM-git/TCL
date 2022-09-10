@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/electro/keqing.md" %}
+<Card item={require('../../../characters/electro/keqing.md')} />
 
 ## Attack Mechanics
 

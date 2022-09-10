@@ -114,5 +114,5 @@ There are additional wish mechanics within the Standard Banner that complicate t
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/general-mechanics/gacha.md" %}
+<Card item={require('../evidence/general-mechanics/gacha.md')} />
 

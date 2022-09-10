@@ -1,3 +1,5 @@
+import DocCardList from '@theme/DocCardList';
+
 # Weapons
 
 ## Refinements
@@ -14,17 +16,9 @@ Polar Star behaves differently as it has individual stacks for each type, and wi
 
 ## Weapon Pages
 
-{% page-ref page="bows.md" %}
-
-{% page-ref page="catalysts.md" %}
-
-{% page-ref page="claymores.md" %}
-
-{% page-ref page="polearms.md" %}
-
-{% page-ref page="swords.md" %}
+<DocCardList />
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/equipment/weapons.md" %}
+<Card item={require('../../evidence/equipment/weapons.md')} />
 

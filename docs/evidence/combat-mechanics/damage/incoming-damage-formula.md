@@ -6,4 +6,4 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../combat-mechanics/damage/incoming-damage-formula.md" %}
+<Card item={require('../../../combat-mechanics/damage/incoming-damage-formula.md')} />

@@ -97,7 +97,7 @@ Items are not affected by gravity and will float in mid-air if the surface they 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/general-mechanics/movement-and-physics.md" %}
+<Card item={require('../evidence/general-mechanics/movement-and-physics.md')} />
 
 
 

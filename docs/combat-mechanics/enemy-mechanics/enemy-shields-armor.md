@@ -10,7 +10,7 @@ description: >-
 
 Currently, there are two main types of shields that players should be aware of, **Elemental Shields** and **Elemental Armor**. We'll talk about what the differences are between these two shield types, as well as how to eliminate them. **An understanding of Gauge units and ICD is required.**
 
-{% page-ref page="../elemental-effects/elemental-gauge-theory.md" %}
+<Card item={require('../elemental-effects/elemental-gauge-theory.md')} />
 
 ## Elemental Shields
 
@@ -348,5 +348,5 @@ Additional notes on shield damage:
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md" %}
+<Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md')} />
 

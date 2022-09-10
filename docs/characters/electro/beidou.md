@@ -336,5 +336,5 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/beidou.md" %}
+<Card item={require('../../evidence/characters/electro/beidou.md')} />
 

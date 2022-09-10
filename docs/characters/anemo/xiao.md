@@ -267,5 +267,5 @@ While under the effects of **Bane of All Evil**, hitting at least 2 opponents wi
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/xiao.md" %}
+<Card item={require('../../evidence/characters/anemo/xiao.md')} />
 

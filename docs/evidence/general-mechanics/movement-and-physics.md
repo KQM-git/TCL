@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/movement-and-physics.md" %}
+<Card item={require('../../general-mechanics/movement-and-physics.md')} />
 
 ## Climbing without Climbing
 

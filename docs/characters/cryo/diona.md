@@ -311,5 +311,5 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/diona.md" %}
+<Card item={require('../../evidence/characters/cryo/diona.md')} />
 

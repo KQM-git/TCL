@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/rosaria.md" %}
+<Card item={require('../../../characters/cryo/rosaria.md')} />
 
 ## Day 1 Findings
 

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/pyro/diluc.md" %}
+<Card item={require('../../../characters/pyro/diluc.md')} />
 
 ## Skill Mechanics
 ### Searing Onslaught Extension via Freeze
@@ -27,7 +27,7 @@ Other testing was done with other characters with multi-use skills and none of t
 **Significance:**  
 When running Barbara or Xingqiu, self freeze can be an upside in certain situations \(i.e. waiting for XQ's Q to come off CD or regain energy\) allowing you to get bonus damage off for free if done correctly.
 
-{% page-ref page="../../../characters/pyro/diluc.md" %}
+<Card item={require('../../../characters/pyro/diluc.md')} />
 
 ## Burst Mechanics
 ### Diluc Burst ICD

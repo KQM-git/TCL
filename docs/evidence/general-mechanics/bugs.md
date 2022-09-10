@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/bugs.md" %}
+<Card item={require('../../general-mechanics/bugs.md')} />
 
 ## Abyss
 

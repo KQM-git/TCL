@@ -11,5 +11,5 @@ Enemies apply Elemental Auras that use the same system as Elemental Gauge Theory
 | Hillichurl Berserker (Pyro Club) | 2B Pyro Single Hit <br/> 1A Pyro Dash |
 
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md" %}
+<Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md')} />
 

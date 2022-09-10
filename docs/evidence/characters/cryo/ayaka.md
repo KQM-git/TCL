@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/ayaka.md" %}
+<Card item={require('../../../characters/cryo/ayaka.md')} />
 
 ## Basic Mechanics
 

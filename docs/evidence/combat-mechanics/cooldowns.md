@@ -4,7 +4,7 @@ search: false
 
 # Cooldowns
 
-{% page-ref page="../../combat-mechanics/cooldowns.md" %}
+<Card item={require('../../combat-mechanics/cooldowns.md')} />
 
 ## Multi Charge Skills Snapshot CDR
 

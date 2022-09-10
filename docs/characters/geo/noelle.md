@@ -317,5 +317,5 @@ Additionally, every opponent defeated during the skill's duration adds 1s to the
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/noelle.md" %}
+<Card item={require('../../evidence/characters/geo/noelle.md')} />
 

@@ -294,4 +294,4 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/yoimiya.md" %}
+<Card item={require('../../evidence/characters/pyro/yoimiya.md')} />

@@ -16,4 +16,4 @@ You could check the evidence vault regarding Omni-Ubiquity Net for more details.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/equipment/gadgets/omni-ubiquity-net.md" %}
+<Card item={require('../../evidence/equipment/gadgets/omni-ubiquity-net.md')} />

@@ -6,7 +6,7 @@ search: false
  
 **Main Page:**
  
-{% page-ref page="../../../characters/electro/shinobu.md" %}
+<Card item={require('../../../characters/electro/shinobu.md')} />
  
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/transcripts/shinobu-basic-mechanics)  

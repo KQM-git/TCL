@@ -6,7 +6,7 @@ description: For entries related to resources or resource efficiency
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/resources-and-efficiency.md" %}
+<Card item={require('../../general-mechanics/resources-and-efficiency.md')} />
 
 ## Resin
 

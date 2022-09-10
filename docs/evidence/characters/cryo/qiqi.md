@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/qiqi.md" %}
+<Card item={require('../../../characters/cryo/qiqi.md')} />
 
 ## Burst Mechanics
 

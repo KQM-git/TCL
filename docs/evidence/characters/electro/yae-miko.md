@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/electro/yae-miko.md" %}
+<Card item={require('../../../characters/electro/yae-miko.md')} />
 
 ## Basic Mechanics
 

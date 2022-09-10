@@ -4,7 +4,7 @@ search: false
 
 # Elemental Absorption
 
-{% page-ref page="../../../combat-mechanics/elemental-effects/elemental-absorption.md" %}
+<Card item={require('../../../combat-mechanics/elemental-effects/elemental-absorption.md')} />
 
 ## Charged Arrow Absorption Mechanics
 

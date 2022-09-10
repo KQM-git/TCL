@@ -4,7 +4,7 @@ search: false
 
 # Cards
 
-{% page-ref page="../../../combat-mechanics/spiral-domains/cards.md" %}
+<Card item={require('../../../combat-mechanics/spiral-domains/cards.md')} />
 
 ## HP Loss on Retry
 

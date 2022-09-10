@@ -43,5 +43,5 @@ Arrows are continuously self infused with the same elemental gauge of the attack
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/elemental-effects/weapon-infusion.md" %}
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/weapon-infusion.md')} />
 

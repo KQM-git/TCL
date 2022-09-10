@@ -320,5 +320,5 @@ Effects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Eleme
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/keqing.md" %}
+<Card item={require('../../evidence/characters/electro/keqing.md')} />
 

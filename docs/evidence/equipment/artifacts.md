@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../equipment/artifacts.md" %}
+<Card item={require('../../equipment/artifacts.md')} />
 
 ## Archaic Petra
 

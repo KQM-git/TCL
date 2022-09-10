@@ -294,5 +294,5 @@ Using **Trail of the Qilin** causes the next **Frostflake Arrow** shot within 30
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/ganyu.md" %}
+<Card item={require('../../evidence/characters/cryo/ganyu.md')} />
 

@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../../characters/geo/yunjin.md" %}
+<Card item={require('../../../characters/geo/yunjin.md')} />
 
 ## Basic Mechanics
 

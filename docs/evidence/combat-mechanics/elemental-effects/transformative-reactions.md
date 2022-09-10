@@ -4,7 +4,7 @@ search: false
 
 # Transformative Reactions
 
-{% page-ref page="../../../combat-mechanics/elemental-effects/transformative-reactions.md" %}
+<Card item={require('../../../combat-mechanics/elemental-effects/transformative-reactions.md')} />
 
 ## General Reaction Mechanics
 

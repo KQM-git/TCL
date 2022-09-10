@@ -4,7 +4,7 @@ search: false
 
 # Ley Line Disorders
 
-{% page-ref page="../../evidence/combat-mechanics/spiral-domains/ley-line-disorders.md" %}
+<Card item={require('../../combat-mechanics/spiral-domains/ley-line-disorders.md')} />
 
 ## Ley Line Aura Duration
 

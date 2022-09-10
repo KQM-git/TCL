@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/pyro/bennett.md" %}
+<Card item={require('../../../characters/pyro/bennett.md')} />
 
 ## Skill Mechanics
 ### Bennett Hold E Counts as Self Damage

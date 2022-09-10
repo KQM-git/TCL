@@ -7,7 +7,7 @@ description: Things happening (not) at the same time
 Simultaneous reaction priority theory is an expansion of the Elemental Gauge Theory. The findings here have validated EGT and this presents a few practical uses of the findings. The EGT has been critical in understanding what happens when simultaneous reactions occur.
 
 Mandatory reading:
-{% page-ref page="elemental-gauge-theory.md" %}
+<Card item={require('./elemental-gauge-theory.md')} />
 
 *Also as someone who programs, nothing really ever happens "at the same time"* - Hail\#2970
 

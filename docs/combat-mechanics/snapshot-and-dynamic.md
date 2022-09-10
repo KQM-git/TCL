@@ -174,5 +174,5 @@ Transformative Reactions include: [Overload](elemental-effects/transformative-re
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/combat-mechanics/snapshot-and-dynamic.md" %}
+<Card item={require('../evidence/combat-mechanics/snapshot-and-dynamic.md')} />
 

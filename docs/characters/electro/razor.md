@@ -308,5 +308,5 @@ When Razor is not using **Lightning Fang**, a lightning strike on an opponent wi
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/razor.md" %}
+<Card item={require('../../evidence/characters/electro/razor.md')} />
 

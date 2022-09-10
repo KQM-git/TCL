@@ -17,5 +17,5 @@ These Charts will help Travelers identify what Attributes to maximize when colle
 
 ## Evidence Vault:
 
-{% page-ref page="../../evidence/general-mechanics/attributes/scaling.md" %}
+<Card item={require('../../evidence/general-mechanics/attributes/scaling.md')} />
 

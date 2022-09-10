@@ -211,10 +211,10 @@ The number of frames after a hitmark that is required before another action can 
 Using Venti's Held Elemental Skill, many characters can perform extremely quick animation cancels. They perform ground attack moves by cancelling them with rapid jumps.
 
 **Dragon Strike:**
-[TCL Entry](https://library.keqingmains.com/mechanics/combat/tech/plunge-tech#dragon-strike)
+[TCL Entry](https://library.keqingmains.com/combat-mechanics/tech/plunge-tech#dragon-strike)
 
 **ARCC:**
-[TCL Entry](https://library.keqingmains.com/evidence/mechanics/combat/tech/aim-cancel#arcc-aimed-r-cancel-charged)
+[TCL Entry](https://library.keqingmains.com/evidence/combat-mechanics/tech/aim-cancel#arcc-aimed-r-cancel-charged)
 
 **Animation Cancel:**
 Many attacks in Genshin Impact can be cancelled by inputting a movement command, jump, or dash. They either provide better positioning or a way to avoid long recovery periods.

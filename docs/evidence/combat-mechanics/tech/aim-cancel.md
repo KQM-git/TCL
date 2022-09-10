@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../../combat-mechanics/tech/aim-cancel.md" %}
+<Card item={require('../../../combat-mechanics/tech/aim-cancel.md')} />
 
 ## How to ARCC
 

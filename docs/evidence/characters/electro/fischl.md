@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/electro/fischl.md" %}
+<Card item={require('../../../characters/electro/fischl.md')} />
 
 ## Skill Mechanics
 

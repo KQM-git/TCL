@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/anemo/sayu.md" %}
+<Card item={require('../../../characters/anemo/sayu.md')} />
 
 ## Basic Sayu Mechanics
 

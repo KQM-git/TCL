@@ -49,5 +49,5 @@ At each chamber of a floor, 3 cards are offered. You may select one. These cards
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/spiral-domains/cards.md" %}
+<Card item={require('../../evidence/combat-mechanics/spiral-domains/cards.md')} />
 

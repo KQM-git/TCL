@@ -4,7 +4,7 @@ search: false
 
 # Fall Damage
 
-{% page-ref page="../../../../combat-mechanics/damage/other/fall-damage.md" %}
+<Card item={require('../../../../combat-mechanics/damage/other/fall-damage.md')} />
 
 ## SC and Phys Bonus Don't Affect Fall Damage
 

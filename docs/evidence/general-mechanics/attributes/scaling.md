@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../general-mechanics/attributes/scaling.md" %}
+<Card item={require('../../../general-mechanics/attributes/scaling.md')} />
 
 ## Separate Scaling Characters
 

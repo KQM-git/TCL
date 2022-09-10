@@ -1,6 +1,6 @@
 # Client and Server
 
-{% page-ref page="../../../../combat-mechanics/damage/other/client-and-server.md" %}
+<Card item={require('../../../../combat-mechanics/damage/other/client-and-server.md')} />
 
 ## High Ping Interactions
 

@@ -39,4 +39,4 @@ Many things are ping-dependent in this game, from testing we can deduce that cer
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/combat-mechanics/damage/other/client-and-server.md" %}
+<Card item={require('../../../evidence/combat-mechanics/damage/other/client-and-server.md')} />

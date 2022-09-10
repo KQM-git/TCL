@@ -232,4 +232,4 @@ The time has not yet come for this person's corner of the night sky to light up.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/aloy.md" %}
+<Card item={require('../../evidence/characters/cryo/aloy.md')} />

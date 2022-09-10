@@ -4,7 +4,7 @@ search: false
 
 # Energy
 
-{% page-ref page="../../combat-mechanics/energy.md" %}
+<Card item={require('../../combat-mechanics/energy.md')} />
 
 ## Elemental Skill Particle Production Database
 

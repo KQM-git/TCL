@@ -280,5 +280,5 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/sucrose.md" %}
+<Card item={require('../../evidence/characters/anemo/sucrose.md')} />
 

@@ -4,7 +4,7 @@ search: false
 
 # Weapon Infusion
 
-{% page-ref page="../../../combat-mechanics/elemental-effects/weapon-infusion.md" %}
+<Card item={require('../../../combat-mechanics/elemental-effects/weapon-infusion.md')} />
 
 ## Weapon Gauges
 

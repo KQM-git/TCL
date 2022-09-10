@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/hydro/yelan.md" %}
+<Card item={require('../../../characters/hydro/yelan.md')} />
 
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/transcripts/yelan-basic-mechanics)  

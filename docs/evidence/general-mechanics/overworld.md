@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/overworld.md" %}
+<Card item={require('../../general-mechanics/overworld.md')} />
 
 ## The Weird Blue Rock  
 **By:** Pablos\#1142  

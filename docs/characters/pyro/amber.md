@@ -294,5 +294,5 @@ Maximum upgrade level is 15.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/amber.md" %}
+<Card item={require('../../evidence/characters/pyro/amber.md')} />
 

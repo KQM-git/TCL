@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/pyro/xinyan.md" %}
+<Card item={require('../../../characters/pyro/xinyan.md')} />
 
 ## Xinyan's Burst Procs Sac GS with C2
 

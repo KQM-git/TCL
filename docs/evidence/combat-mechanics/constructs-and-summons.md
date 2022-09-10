@@ -4,7 +4,7 @@ search: false
 
 # Constructs and Summons
 
-{% page-ref page="../../combat-mechanics/constructs-and-summons.md" %}
+<Card item={require('../combat-mechanics/constructs-and-summons.md')} />
 
 ## Constructs
 

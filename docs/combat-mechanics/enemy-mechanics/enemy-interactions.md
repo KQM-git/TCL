@@ -91,5 +91,5 @@ The bubble from the Hydro Abyss Mages and their hydro bubble spawning mechanic c
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md" %}
+<Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-interactions.md')} />
 

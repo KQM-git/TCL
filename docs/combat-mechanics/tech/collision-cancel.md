@@ -25,4 +25,4 @@ The number of frames saved by canceling depends on the character, positioning, a
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/collision-cancel.md" %}
+<Card item={require('../../evidence/combat-mechanics/tech/collision-cancel.md')} />

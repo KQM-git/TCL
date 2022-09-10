@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../combat-mechanics/snapshot-and-dynamic.md" %}  
+<Card item={require('../../combat-mechanics/snapshot-and-dynamic.md')} />  
 
 ## Summons are Not Dynamic and Snapshot on Cast
 

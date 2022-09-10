@@ -4,7 +4,7 @@ search: false
 
 # Elemental Resonance  
 
-{% page-ref page="../../../combat-mechanics/elemental-effects/elemental-resonance.md" %}
+<Card item={require('../../../combat-mechanics/elemental-effects/elemental-resonance.md')} />
 
 ## Trial Character Resonances
 

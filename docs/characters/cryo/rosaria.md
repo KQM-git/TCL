@@ -273,5 +273,5 @@ Maximum upgrade level is 15.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/rosaria.md" %}
+<Card item={require('../../evidence/characters/cryo/rosaria.md')} />
 

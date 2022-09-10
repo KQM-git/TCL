@@ -37,4 +37,4 @@ Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to chec
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md" %}
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md')} />

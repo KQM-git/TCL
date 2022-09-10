@@ -306,5 +306,5 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/klee.md" %}
+<Card item={require('../../evidence/characters/pyro/klee.md')} />
 

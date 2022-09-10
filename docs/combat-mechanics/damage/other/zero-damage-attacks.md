@@ -6,5 +6,5 @@ For more information about the properties of these attacks, see the [Vault entry
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/combat-mechanics/damage/other/zero-damage-attacks.md" %}
+<Card item={require('../../../evidence/combat-mechanics/damage/other/zero-damage-attacks.md')} />
 

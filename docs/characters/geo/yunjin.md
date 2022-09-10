@@ -286,4 +286,4 @@ Characters under the effects of the **Flying Cloud Flag Formation** have their N
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/geo/yunjin.md" %}
+<Card item={require('../../evidence/characters/geo/yunjin.md')} />

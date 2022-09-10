@@ -301,5 +301,5 @@ Activating 2 of **Guhua Sword: Raincutter**'s sword rain attacks greatly enhance
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/xingqiu.md" %}
+<Card item={require('../../evidence/characters/hydro/xingqiu.md')} />
 

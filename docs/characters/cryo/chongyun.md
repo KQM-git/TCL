@@ -294,5 +294,5 @@ This skill will also summon 1 additional spirit blade.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/chongyun.md" %}
+<Card item={require('../../evidence/characters/cryo/chongyun.md')} />
 

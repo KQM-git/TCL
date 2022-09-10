@@ -856,5 +856,5 @@ As of patch 2.5, Charged Attack speed buffs do not dynamically increase claymore
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/equipment/weapons.md" %}
+<Card item={require('../../evidence/equipment/weapons.md')} />
 

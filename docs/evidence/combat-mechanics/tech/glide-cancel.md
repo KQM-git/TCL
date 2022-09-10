@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../../combat-mechanics/tech/glide-cancel.md" %}
+<Card item={require('../../../combat-mechanics/tech/glide-cancel.md')} />
 
 ## Wavedashing
 

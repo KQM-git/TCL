@@ -50,7 +50,7 @@ Hereinafter, all aura applications will be referred to with this unit modifier a
 ## Character Elemental Gauge Application
 
 Each character has a set amount of elemental gauge applied by each individual attack or skill. A full list of character skills and their corresponding elemental gauges can be found below:  
-{% page-ref page="../../resources/compendiums/elemental-gauges.md" %}
+<Card item={require('../../resources/compendiums/elemental-gauges.md')} />
 
 ## Decay Rate
 
@@ -226,5 +226,4 @@ These all have the ability to react with a slightly different ruleset from stand
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md" %}
-
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md')} />

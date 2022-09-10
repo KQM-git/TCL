@@ -271,4 +271,4 @@ Maximum upgrade level is 15.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/yae-miko.md" %}
+<Card item={require('../../evidence/characters/electro/yae-miko.md')} />

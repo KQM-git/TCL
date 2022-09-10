@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/electro/traveler-electro.md" %}
+<Card item={require('../../../characters/electro/traveler-electro.md')} />
 
 ## Basic EMC Mechanics
 

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../combat-mechanics/poise.md" %}  
+<Card item={require('../../combat-mechanics/poise.md')} />  
 
 ## A Deep Dive into Genshin's Stagger Mechanics
 

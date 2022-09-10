@@ -321,5 +321,5 @@ If an Elemental Absorption occurred, then their RES towards the corresponding El
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/traveler-anemo.md" %}
+<Card item={require('../../evidence/characters/anemo/traveler-anemo.md')} />
 

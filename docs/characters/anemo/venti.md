@@ -294,5 +294,5 @@ If an **Elemental Absorption** occurred, then their RES towards the correspondin
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/venti.md" %}
+<Card item={require('../../evidence/characters/anemo/venti.md')} />
 

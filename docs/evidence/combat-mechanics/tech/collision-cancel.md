@@ -4,7 +4,7 @@ search: false
 
 # Collision Cancel
 
-{% page-ref page="../../../combat-mechanics/tech/collision-cancel.md" %}
+<Card item={require('../../../combat-mechanics/tech/collision-cancel.md')} />
 
 **By:** BowTae#0141  
 **Added:** 2021-10-09  

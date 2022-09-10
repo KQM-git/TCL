@@ -134,5 +134,5 @@ When a target is in the **vulnerable** status, the next attack received may stag
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/combat-mechanics/poise.md" %}
+<Card item={require('../evidence/combat-mechanics/poise.md')} />
 

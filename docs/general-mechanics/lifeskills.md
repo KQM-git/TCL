@@ -68,5 +68,5 @@ Stamina restoration food doesn't restore stamina for the Waverider.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/general-mechanics/lifeskills.md" %}
+<Card item={require('../evidence/general-mechanics/lifeskills.md')} />
 

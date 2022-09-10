@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/geo/zhongli.md" %}
+<Card item={require('../../../characters/geo/zhongli.md')} />
 
 ## Basic Mechanics
 

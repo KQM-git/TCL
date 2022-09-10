@@ -333,4 +333,4 @@ The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/yelan.md" %}
+<Card item={require('../../evidence/characters/hydro/yelan.md')} />

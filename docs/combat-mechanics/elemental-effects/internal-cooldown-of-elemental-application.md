@@ -24,5 +24,5 @@ ICD table that was based on [Advanced Gauge Unit Theory](https://genshin-impact.
 
 **Evidence Vault:**
 
-{% page-ref page="../../evidence/combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md" %}
+<Card item={require('../../evidence/combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md')} />
 

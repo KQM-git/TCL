@@ -294,4 +294,4 @@ When a **Blazing Barrier** is obtained or refreshed, the DMG dealt by all party 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/thoma.md" %}
+<Card item={require('../../evidence/characters/pyro/thoma.md')} />

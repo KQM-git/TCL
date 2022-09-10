@@ -344,5 +344,5 @@ A maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/mona.md" %}
+<Card item={require('../../evidence/characters/hydro/mona.md')} />
 

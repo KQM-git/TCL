@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../equipment/gadgets/parametric-transformer.md" %}
+<Card item={require('../../../equipment/gadgets/parametric-transformer.md')} />
 
 ## Internal Cooldown
 

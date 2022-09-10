@@ -7,7 +7,7 @@ description: For entries that have little practical use.
 
 **Main Page:**
 
-{% page-ref page="../../general-mechanics/miscellaneous-entries.md" %}
+<Card item={require('../../general-mechanics/miscellaneous-entries.md')} />
 
 ## Vertical Range of Certain Abilities  
 **By:** mando.\#1646  

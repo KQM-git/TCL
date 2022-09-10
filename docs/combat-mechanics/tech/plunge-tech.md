@@ -43,4 +43,4 @@ It is possible to jump in the window that occurs before a character switches. De
 
 ## Evidence Vault:  
 
-{% page-ref page="../../evidence/combat-mechanics/tech/plunge.md" %}  
+<Card item={require('../../evidence/combat-mechanics/tech/plunge.md')} />  

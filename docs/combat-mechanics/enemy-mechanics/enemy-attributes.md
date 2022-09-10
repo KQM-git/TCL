@@ -38,5 +38,5 @@ The targeting point for targeted skills is not the center of the enemy hitbox. I
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md" %}
+<Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md')} />
 

@@ -177,4 +177,4 @@ Examples of such buffs: Sucrose's Ascension 4:Mollis Favonius EM share; Kaedehar
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/damage/incoming-damage-formula.md" %}
+<Card item={require('../../evidence/combat-mechanics/damage/incoming-damage-formula.md')} />

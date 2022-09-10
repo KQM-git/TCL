@@ -40,5 +40,5 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/combat-mechanics/constructs-and-summons.md" %}
+<Card item={require('../evidence/combat-mechanics/constructs-and-summons.md')} />
 

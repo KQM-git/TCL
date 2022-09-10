@@ -304,4 +304,4 @@ The **Electro DMG** of characters who have had their ATK increased by **Tengu Ju
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/sara.md" %}
+<Card item={require('../../evidence/characters/electro/sara.md')} />

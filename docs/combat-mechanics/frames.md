@@ -28,4 +28,4 @@ All catalyst characters have 3 distinct lengths for their n1. Under normal circu
 Certain characters' elemental bursts provide iFrames far beyond the first cancellable frame. However, these iFrames are only active until the player inputs any action, after which they are immediately cancelled.  
 * [Spreadsheet of data](https://docs.google.com/spreadsheets/d/13vaZDoydPxFwy3Z0Sq8gMuuVVauE6rQWI3CivfquHaw/edit?usp=sharing)
 
-{% page-ref page="../evidence/combat-mechanics/frames.md" %}
+<Card item={require('../evidence/combat-mechanics/frames.md')} />

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/pyro/yoimiya.md" %}
+<Card item={require('../../../characters/pyro/yoimiya.md')} />
 
 ## Basic Yoimiya Mechanics
 

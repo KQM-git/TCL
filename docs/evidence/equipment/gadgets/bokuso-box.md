@@ -1,7 +1,7 @@
 
 # Bokuso Box
 Main Page
-{% page-ref page="../../../equipment/gadgets/bokuso-box.md" %}
+<Card item={require('../../../equipment/gadgets/bokuso-box.md')} />
 
 ## Bokuso Box Can Crit    
 **By:** melon\#9323   

@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/shenhe.md" %}
+<Card item={require('../../../characters/cryo/shenhe.md')} />
 
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)

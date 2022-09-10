@@ -264,5 +264,5 @@ For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bon
 </Tabs>
 
 ## Evidence Vault
-{% page-ref page="../../evidence/characters/pyro/xiangling.md" %}
+<Card item={require('../../evidence/characters/pyro/xiangling.md')} />
 

@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md" %}
+<Card item={require('../../../combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md')} />
 
 ## Elemental Aura Application and Gauge Values of Enemies
 

@@ -305,4 +305,4 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/ayaka.md" %}
+<Card item={require('../../evidence/characters/cryo/ayaka.md')} />

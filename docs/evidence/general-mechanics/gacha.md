@@ -4,7 +4,7 @@ search: false
 
 # Gacha
 
-{% page-ref page="../../general-mechanics/gacha.md" %}
+<Card item={require('../../general-mechanics/gacha.md')} />
 
 ## Soft Pity on Banners
 

@@ -303,5 +303,5 @@ This effect can only occur once every 5s.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/lisa.md" %}
+<Card item={require('../../evidence/characters/electro/lisa.md')} />
 

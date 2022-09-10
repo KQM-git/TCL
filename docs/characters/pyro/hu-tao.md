@@ -318,5 +318,5 @@ Can only occur once every 60s.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/hu-tao.md" %}
+<Card item={require('../../evidence/characters/pyro/hu-tao.md')} />
 

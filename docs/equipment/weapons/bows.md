@@ -990,5 +990,5 @@ There is a cap range for an arrow - damage just falls off after a certain range.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/equipment/weapons.md" %}
+<Card item={require('../../evidence/equipment/weapons.md')} />
 

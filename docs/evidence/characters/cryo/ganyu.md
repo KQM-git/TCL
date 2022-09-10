@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/cryo/ganyu.md" %}
+<Card item={require('../../../characters/cryo/ganyu.md')} />
 
 ## Weapon Mechanics
 

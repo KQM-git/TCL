@@ -312,4 +312,4 @@ When characters trigger **Icy Quill**'s effects using Normal and Charged Attack 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/cryo/shenhe.md" %}
+<Card item={require('../../evidence/characters/cryo/shenhe.md')} />

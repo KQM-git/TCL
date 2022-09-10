@@ -312,4 +312,4 @@ While donning the **Ceremonial Garment** created by **Nereid's Ascension**, Sang
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/hydro/kokomi.md" %}
+<Card item={require('../../evidence/characters/hydro/kokomi.md')} />

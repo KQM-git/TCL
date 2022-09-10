@@ -50,5 +50,5 @@ Cooldown reduction is available in the form of either flat amounts or percentage
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/combat-mechanics/cooldowns.md" %}
+<Card item={require('../evidence/combat-mechanics/cooldowns.md')} />
 

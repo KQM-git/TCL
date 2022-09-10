@@ -4,7 +4,7 @@ search: false
 
 # Lifeskills
 
-{% page-ref page="../../general-mechanics/lifeskills.md" %}
+<Card item={require('../../general-mechanics/lifeskills.md')} />
 
 ## Statue of Seven Healing
 

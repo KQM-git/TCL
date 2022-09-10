@@ -271,5 +271,5 @@ Additionally, Searing Onslaught will not interrupt the Normal Attack combo.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/diluc.md" %}
+<Card item={require('../../evidence/characters/pyro/diluc.md')} />
 

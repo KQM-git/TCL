@@ -283,4 +283,4 @@ Each Declension stack will increase the CRIT Rate of the Heartstopper Strike unl
  
 ## Evidence Vault
  
-TODO % page-ref page="../../evidence/characters/anemo/heizou.md" %
+<Card item={require('../../evidence/characters/anemo/heizou.md')} />

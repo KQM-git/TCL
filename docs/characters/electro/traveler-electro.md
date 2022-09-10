@@ -322,4 +322,4 @@ Every 2 Falling Thunder attacks triggered by **Bellowing Thunder** will greatly 
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/electro/traveler-electro.md" %}
+<Card item={require('../../evidence/characters/electro/traveler-electro.md')} />

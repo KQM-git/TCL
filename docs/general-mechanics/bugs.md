@@ -138,5 +138,5 @@ Sample recipes:
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/general-mechanics/bugs.md" %}
+<Card item={require('../evidence/general-mechanics/bugs.md')} />
 

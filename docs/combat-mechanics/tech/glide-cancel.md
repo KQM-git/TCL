@@ -24,5 +24,4 @@ This is done by jumping, then pressing jump again exactly 4 frames later at 60 f
 
 ## Evidence Vault
 
-{% page-ref page="../../../evidence/mechanics/combat/tech/glide-cancel.md" %}
-
+<Card item={require('../../evidence/combat-mechanics/tech/glide-cancel.md')} />

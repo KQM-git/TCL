@@ -289,5 +289,5 @@ Increases the maximum number of **Scarlet Seals** by 1.
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/pyro/yanfei.md" %}
+<Card item={require('../../evidence/characters/pyro/yanfei.md')} />
 

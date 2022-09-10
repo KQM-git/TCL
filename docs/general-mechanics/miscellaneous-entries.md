@@ -142,4 +142,4 @@ The winning "TC" entries of our **KQM 100K Event**, as well as some of our Schol
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/general-mechanics/miscellaneous-entries.md" %}
+<Card item={require('../evidence/general-mechanics/miscellaneous-entries.md')} />

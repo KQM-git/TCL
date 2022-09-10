@@ -4,7 +4,7 @@ search: false
 
 # Blessings
 
-{% page-ref page="../../../combat-mechanics/spiral-domains/blessings.md" %}
+<Card item={require('../../../combat-mechanics/spiral-domains/blessings.md')} />
 
 ## Splendiferous Moon Abyss Blessing Mechanics
 

@@ -4,7 +4,7 @@ search: false
 
 # Zoom Cancel
 
-{% page-ref page="../../../combat-mechanics/tech/zoom-cancel.md" %}
+<Card item={require('../../../combat-mechanics/tech/zoom-cancel.md')} />
 
 **By:** randomspades \#0956  
 **Added:** 2021-04-18  

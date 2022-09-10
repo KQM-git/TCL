@@ -322,4 +322,4 @@ The **Muji-Muji Daruma** created by Sayu's **Yoohoo Art: Mujina Flurry** will no
 
 ## Evidence Vault
 
-{% page-ref page="../../evidence/characters/anemo/sayu.md" %}
+<Card item={require('../../evidence/characters/anemo/sayu.md')} />

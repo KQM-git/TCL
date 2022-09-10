@@ -280,4 +280,4 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 
 ## Evidence Vault
 
-{% page-ref page="../evidence/general-mechanics/overworld.md" %}
+<Card item={require('../evidence/general-mechanics/overworld.md')} />

@@ -197,4 +197,4 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 
 ## Evidence Vault:
 
-{% page-ref page="../../evidence/general-mechanics/resources-and-efficiency.md" %}
+<Card item={require('../evidence/general-mechanics/resources-and-efficiency.md')} />

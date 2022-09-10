@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-{% page-ref page="../../../characters/hydro/ayato.md" %}
+<Card item={require('../../../characters/hydro/ayato.md')} />
 
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967855065442439219_transcript-ayato-basic-mechanics.html)  

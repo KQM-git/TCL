@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**  
 
-{% page-ref page="../../combat-mechanics/frames.md" %}  
+<Card item={require('../../combat-mechanics/frames.md')} />  
 
 ## Hitlag Extension
 
