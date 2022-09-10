@@ -57,6 +57,26 @@
   * [N1 DS](https://www.youtube.com/watch?v=vPVhTbOESBA) | [No Q Finisher Dragonstrike](https://www.youtube.com/watch?v=PGNA5v2xu7w) | [CA Finisher Dragonstrike](https://www.youtube.com/watch?v=-QGsqt094xU)
 * Arataki Kesagiri has a big enough hitbox to affect enemies located behind Itto. - [Hitbox 1](https://youtu.be/SURWX7y43lc) | [Hitbox 2](https://youtu.be/ZV2zKhy6KPY) - Meatball\#0438 
 
+### Itto Buffering Mechanics
+
+**By:** Aftermath\#7658  
+**Added:** 2022-08-21  
+[Discussion](https://tickets.deeznuts.moe/transcripts/itto-buffering-mechanics)
+
+**Finding:**  
+* Itto’s CA has a uniform buffering time - it takes 14 frames from holding LMB to the stack flash, including hitlag frames.  
+* Itto’s N2 allows a CA to come out a minimum of 4 frames after hitlag ends. N3 has a minimum of 6 frames after hitlag.  
+
+The exception to this is Itto’s N1, which allows you to hold LMB during its hitlag and will then start an N2 and immediately buffer a CA, which skips the minimum 4 frame delay after hitlag, making this the most efficient way to do a CA out of N2.  
+  
+**Evidence:**  
+* Standing CA: [YouTube](https://youtu.be/MXn0lpZBvH0)  
+* CA out of N2/N3: [YouTube](https://youtu.be/PpVaIyjd3Ak)  
+* N1 exception demonstration: [YouTube](https://youtu.be/wdi78tpEnDI)  
+  
+**Significance:**  
+Greater and more quantitative understanding of Itto’s CA buffers, as well as potentially opening up an easier way to do certain combos with the N1 exception.  
+The most consistent way to buffer Itto’s combos is to click once during or a bit after hitlag for each NA, then hold click as soon as the final NA animation begins. Starting to hold click at least 14 frames before the earliest possible CA (which is 4f/6f after hitlag for n2/3) will result in a frame perfect CA.
 
 ## Skill Mechanics
 

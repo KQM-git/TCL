@@ -64,6 +64,8 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 
 **Notes**
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.
+* Itto’s Charged Attack has a uniform buffering time - it takes 14 frames from holding LMB to the stack flash, including hitlag frames.
+* Itto’s N2 allows a Charged Attack to come out a minimum of 4 frames after hitlag ends. N3 has a minimum of 6 frames after hitlag.
 
 **Plunge Attack**  
  Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
