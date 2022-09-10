@@ -135,6 +135,8 @@ Zone level damage is based on the players current location, not the location of 
   - Some fountains and pools of water cannot create an instance of Electrified.
 - Overworld water applies hydro with an ICD of 0.25 seconds, a strength of 10 durability per tick, up to a max of 50, and a duration of 8 seconds, regardless of durability.
 - Not all graphically represented water in waterfalls will apply the Wet status to the active character. See this [Vault Entry](../evidence/general-mechanics/overworld.md#not-all-falls-water-is-false-water) for a complete map.
+- Frozen water can be isolated from regular water by changing the water level or position after freezing the water.
+  - It is inert and will not be affected by Elemental applications or abilities. This is in contrast to regular frozen water, which has numerous interactions with Elemental applications.
 
 ### Rain  
 

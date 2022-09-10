@@ -501,6 +501,50 @@ Continuation of the theoryhunt for true falls water.
 **Significance:**  
 Falls water.
 
+### Frozen Water Sans Water Is Unfreezable, Unmeltable, Etc.
+
+**By:** Aevean Leeow\#1362  
+**Added:** 2022-08-23  
+[Discussion](https://tickets.deeznuts.moe/transcripts/frozen-water-sans-water-is-unfreezable-unmeltable-etc)  
+
+**Finding:**  
+Frozen water can be isolated from regular water by changing the water level or position after freezing the water. The patch of ice will be stationary, and you may stand on it or place constructs on it, just like the regular behaviour. It will also expire at the expected time for regular frozen water. This is similar behaviour to Electro-Charged patches of water, which will also remain in place regardless of the water movement, and will behave as expected.
+
+This ticket uses an area in Mona's GAA quest domain. Do note that the water level does continuously change between the 3 possible ending states, so you can Freeze or Electro-Charge water inbetween the "3 levels," but for ease of TC most of the tests were done at the top or middle level.
+
+Note that there are visual bugs where the part of or the entire ice graphic may disappear prematurely. It is unknown whether this is because of the graphics settings I used, the mechanics of the water level changer, or an issue with frozen water without regular water. This is entirely visual and the invisible ice functions the exact same.
+
+However, frozen water is inert and will not be affected by Elemental applications or abilities. This is in contrast to regular frozen water, which has numerous interactions with Elemental applications.
+
+* Pyro: will not melt the ice.
+* Cryo: will not extend the duration of Freeze.
+* Electro: will not produce a Superconduct effect.
+* Anemo: no Swirl, but regular frozen water with water will not Swirl either.
+* Absorption: cannot absorb Cryo.
+* Geo: no Crystallize, but regular frozen water with water will not Crystallize either.
+* Hydro: will not extend the duration of Freeze. No effect on regular frozen water with water either, this is just to prove that there is no interaction with a hypothetical Cryo aura on the frozen water.  
+
+One theory I had was that the water itself holds the Cryo aura, rather than the physical manifestation of the frozen water. However, an Elemental application to the corresponding displaced water does not behave as if there is any cryo aura (no SC on Electro application), which does not support this conclusion.  
+  
+**Evidence:**  
+* Stationary: just look at any of the other ones omegalul
+* Construct: [YouTube](https://youtu.be/k2eo5DgXnr8)
+* Standing, partial disappearance of ice bug: [YouTube](https://youtu.be/nDjXIv46zDQ)  
+* EC stationary: [YouTube](https://youtu.be/IfzAvWJpFbs)
+* Continuous water movement: [YouTube](https://youtu.be/JsZWpBxT5Y0)
+* Pyro: [YouTube](https://youtu.be/FF-lQZuWvng)
+* Cryo: [YouTube](https://youtu.be/q6l4NDl0DVM)
+* Electro: [YouTube](https://youtu.be/vGuxTO9YSC0)
+* Anemo, absorption: [YouTube](https://youtu.be/EQ-G_Nhn4qs)
+* Geo: [YouTube](https://youtu.be/RGfLqrgqjTc)
+* Hydro, complete disappearance of ice bug: [YouTube](https://youtu.be/XrNW8m0eRuU)
+* No Superconduct on corresponding displaced water: [YouTube](https://youtu.be/Xma4ohW6Zks)
+  
+**Significance:**  
+Bravo, MiYoHo. On the surface, this seems to be a relatively innocuous mechanic that has little impact on gameplay or balance. However, this is actually a brilliant mechanic that increases game depth and the skill ceiling of Genshin Impact. Consider some alternate methods to implement the frozen water mechanic:  
+  
+One option is to make things "logical," for frozen water to simply disappear when the water level moves, or to move with the water itself. There is nothing inherently bad about this approach, but it has little effect on gameplay, and the game will have less depth as a result. Allowing Cryo units to obtain the high ground, unlike other Elements, increases the variety and diversity in Genshin Impact. Consider the alternative. If every Element had the same capabilities, then the game would be much less interesting. Thus, the "logical" approach is undesirable.  
+
 ### Electro Crystal Range
 
 **By:** Greyhound\#7836  
@@ -538,7 +582,7 @@ Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t hav
 
 ### Overworld Entities Have Levels
 
-**By:** Greyhound\#7836, mol\#3280, deaf#0246  
+**By:** Greyhound\#7836, mol\#3280, deaf\#0246  
 **Added:** 2021-06-23  
 **Updated:** 2021-08-07  
 [Discussion 1](https://tickets.deeznuts.moe/ticket-archive/attachments_851603340403933194_857345614483554334_transcript-cursed-terrain-world-levels.html)  
