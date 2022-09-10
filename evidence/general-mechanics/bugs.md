@@ -392,6 +392,32 @@ This can be also done without the negative edge N1, but requires a 1 frame M1 cl
 **Significance:**  
 The Archer class really is made up of archers!
 
+## Enemies 
+
+### Disappearing Fatui When They Shouldn't
+
+**By:** Asaki\#9139  
+**Added:** 2022-08-24  
+[Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)  
+
+**Bug:**  
+*Occasionally*, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.  
+  
+**Evidence:**  
+This is not simply a visual bug, but rather they physically stay in the air, while acting as if they’re grounded: Their collision box would be grounded \(as evidenced by Raiden’s inability to dash out of that spot due to hitbox collision\) while their hitbox would be in air \(as evidenced by Xingqiu’s tracking\).  
+  
+30FPS – [YouTube](https://youtu.be/9ymcQuMMF1k)  
+60FPS – [YouTube](https://youtu.be/cWvyfqh48XI)  
+  
+If you slow it frame by frame on the 60FPS video, you’ll see some numbers left in the air right before the Cryogunner re-materialises.  
+  
+Similarly, the collision of the Crackling Axe Mitachurl is grounded while it is performing the jump attack.  
+
+Credits to makeway4pK\#3901 – [YouTube](https://youtu.be/UtVt4Z8Hbfs)  
+  
+**Significance:**  
+Just another one amongst annoying Fatui *mechanics*.  
+
 ## Miscellaneous
 
 ### Particles Move While Game is Paused
