@@ -228,11 +228,8 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 
 When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
 
-| Attribute | Skill |
-| :--- | :--- |
-| Cast DMG (T6%)| 361.62% |
-| Damage Element | Electro | 
-| Damage Type | Elemental Skill |
+* C2 is calculated as additional MV added to **Nightrider**'s Summoning MV. Example:  At T9, Nightrider's Summoning MV becomes 396.25% when factoring in C2.
+* C2 does not affect Oz's turret attack damage.
 
 {% endtab %}
 
@@ -252,7 +249,6 @@ When the skill duration ends, Fischl regenerates 20% of her HP.
 
 | Attribute | Burst |
 | :--- | :--- |
-| Skill DMG (T6%) | 291.2% |
 | Her Pilgrimage of Bleak | 222% |
 | GU | 2B |
 | ICD | Shared With **Midnight Phantasmagoria** |
