@@ -165,7 +165,7 @@ Image 2: [Location that is a bit further than the landing spot from image 1](htt
 
 [Video proof for images](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495546289291304_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
 
-Additional video showing 4 adult male models, landing location very rarely differs: [https://youtu.be/QPR38O5yM7M](https://youtu.be/QPR38O5yM7M)
+Additional video showing 4 adult male models, landing location very rarely differs: [YouTube](https://youtu.be/QPR38O5yM7M)
 
 **Significance:** Might skew the results from Cliff Dash Displacement.
 
@@ -191,7 +191,7 @@ Tested movements speeds: 1. [0%](https://tcl-backup.s3.filebase.com/evidence/gen
 4. [10% + 10% = 20%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846505946787479573_2021-05-24_23-18-01-01.32.233-01.49.467-audio.webm) - Anemo Resonance + Rosaria passive  
 5. [10% + 10% + 24% = 44%](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846504230898237480_846506066237718528_2021-05-24_23-18-01-03.31.250-04.05.300-audio.webm) - Anemo Resonance + Rosaria passive + R5 Skyrider Sword
 
-Raw video evidence \(no timestamps\): [https://www.youtube.com/watch?v=C69T4AwkJGE](https://www.youtube.com/watch?v=C69T4AwkJGE)
+Raw video evidence \(no timestamps\): [YouTube](https://www.youtube.com/watch?v=C69T4AwkJGE)
 
 ## Movement Speed Stacks Additively
 
@@ -263,18 +263,13 @@ Output:
 ```  
 
 Videos:  
-1. Sayu roll without bonuses  
-https://i.imgur.com/t77NGtg.mp4  
-2. Sayu roll with Anemo resonance  
-https://i.imgur.com/JUCriOO.mp4  
-3. Sayu roll with C6 Amber  
-https://i.imgur.com/YkvmsR5.mp4  
-4. Sayu roll with Anemo resonance + Rosaria  
-https://i.imgur.com/W3QARkF.mp4  
-5. Sayu roll with Anemo Resonance + Rosaria + C6 Amber  
-https://i.imgur.com/xV4ZfwC.mp4  
-6. Sayu roll with Anemo Resonance + Rosaria + C6 Amber + C2 Jean  
-https://i.imgur.com/MlRFUM0.mp4  
+1. Sayu roll without bonuses: [Imgur](https://i.imgur.com/t77NGtg.mp4)
+2. Sayu roll with Anemo resonance: [Imgur](https://i.imgur.com/JUCriOO.mp4)
+3. Sayu roll with C6 Amber: [Imgur](https://i.imgur.com/YkvmsR5.mp4)
+4. Sayu roll with Anemo resonance + Rosaria: [Imgur](https://i.imgur.com/W3QARkF.mp4)
+5. Sayu roll with Anemo Resonance + Rosaria + C6 Amber: [Imgur](https://i.imgur.com/xV4ZfwC.mp4)
+6. Sayu roll with Anemo Resonance + Rosaria + C6 Amber + C2 Jean: [Imgur](https://i.imgur.com/MlRFUM0.mp4)
+
 Unfortunately missing videos for other sections with C2 Jean and C6 amber  
 
 Explanation on higher errors when using C6 Amber:  
@@ -448,3 +443,19 @@ When riding an elevator up and jumping just at the right moment before it stops,
 
 **Significance:**  
 Fluff and documenting overworld mechanics.
+
+### Items Hate Physics
+
+**By:** Ultimate Noob\#2955  
+**Added:** 2022-08-25  
+[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)  
+
+**Finding:**  
+Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/5Xhdn5Y)  
+[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)  
+  
+**Significance:**  
+Fluff, Genshin makes 0 sense.

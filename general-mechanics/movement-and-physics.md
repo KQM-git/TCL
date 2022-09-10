@@ -91,6 +91,10 @@ Getting hit while jumping adds extra velocity if not staggered.
 
 When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.
 
+## Items
+
+Items are not affected by gravity and will float in mid-air if the surface they were on is lowered.  
+
 ## Evidence Vault
 
 {% page-ref page="../../evidence/general-mechanics/movement-and-physics.md" %}
