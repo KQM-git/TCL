@@ -259,6 +259,23 @@ Regardless of the height difference, no fall damage will be taken after jumping 
 
 * Some objects like Geo Constructs and gadgets can reflect Melodic Bloom Notes found within Golden Apple Archipelago.
 
+## Chasm Geo Active Pillars
+
+* The basics:
+  * Heavy attacks on the pillars activate a shockwave with center on the pillars, and the shockwaves are heavy attacks as well.
+  * All pillars have an ICD of 10s before they can send another shockwave, approximately. They still can register hits while in CD.
+  * Only pillars surrounded by golden wind will send shockwaves when hit by a player. Otherwise the pillar will still register a hit but won’t create a shockwave.
+  * Shockwaves resonate with some objects. These include Geo Constructs and other pillars. Once it hits the object, it will send another shockwave.
+  * Geo Constructs will be destroyed once hit by a shockwave and send another shockwave, regardless if their HP is higher than 27.419.
+  * Damageable and undamageable summons work as intended. If a damageable one has >27.419 it will survive. Undamageable ones won’t be affected at all.
+* More about the pillars:
+  * They can hold Cryo auras.
+  * They aren’t defined as enemies, but as entities.
+* More about the shockwaves: 
+  * They damage enemies with 27.419 true damage and have a 1U gauge.
+  * They don’t have vertical height.
+  * They deal inconsistent damage if the enemy isn’t engaged in combat.
+
 ## Evidence Vault
 
 {% page-ref page="../evidence/general-mechanics/overworld.md" %}

@@ -1727,3 +1727,56 @@ Some objects within Genshin Impact can reflect Melodic Bloom Notes found within 
   
 **Significance:**  
 Some things reflects, mostly fluff. Genshin is wonk game.  
+
+## Chasm Geo Active Pillars Mechanics
+
+**By:** Magnus Artifex\#8719  
+**Added:** 2022-08-25  
+[Discussion](https://tickets.deeznuts.moe/transcripts/chasm-geo-active-pillars-mechanics)  
+
+**Finding:**  
+In The Chasm’s surface, there are some Geo pillars that can be interacted with. They have the following properties and mechanics:  
+
+1. Heavy attacks on the pillars activate a shockwave with center on the pillars, i.e Plunging Attacks, claymores, Ningguang’s C1, Overload, etc…
+2. Pillars only hold Cryo aura.
+3. Shockwaves resonate with some objects. These include Geo Constructs and other pillars. Once it hits the object, it will send another shockwave.
+4. Shockwaves damage enemies with true damage. The damage registered is 27.419, with different characters, both tests on Hilichurls and Treasure Hoarders. Might be dependent on zone levels.
+5. Geo Constructs will be destroyed once hit by a shockwave.
+6. Geo Constructs will be destroyed once hit by a shockwave, regardless if their HP is higher than 27.419.
+7. The shockwave has a gauge unit of 1U.
+8. All pillars have an ICD of 10s before they can send another shockwave, approximately. They still can register hits while in CD.
+9. Shockwaves are counted as heavy attacks too. They destroy ores.
+10. Shockwaves don’t have vertical height.
+11. Shockwaves damage inconsistently if the enemy isn’t engaged in combat. Need further testing.
+12. Pillars aren’t defined as enemies, but as an entity. They will be targeted, and abilities that gain stacks on hit will gain one if it hits a pillar, but the ones that require an enemy won’t. Example, Ningguang gains Star Jades, but Yanfei does not gain a Scarlet Seal.
+13. Only pillars surrounded by golden wind will send shockwaves when hit by a player. Otherwise the pillar will still register a hit but won’t create a shockwave.
+14. If a Geo Construct is placed inside the shockwave, the construct will still be destroyed and send another shockwave.
+15. Damageable and undamageable summons work as intended. If a damageable one has >27.419 it will survive. Undamageable ones won’t be affected at all.
+
+**Evidence:**  
+1. [YouTube](https://imgur.com/a/7YJDMrU)
+2. [YouTube](https://m.youtube.com/watch?v=A6HaxmJEn7M)
+3. [YouTube](https://youtu.be/is3wzFJSOFc)
+4. [YouTube](https://imgur.com/a/nK1TBC4)
+5. 
+   a\. [YouTube](https://m.youtube.com/watch?v=eUHQ2pcLdKE)  
+   b\. [YouTube](https://youtu.be/E0Xz99UDgKI)  
+6. [YouTube](https://youtu.be/is3wzFJSOFc)
+7. [YouTube](https://imgur.com/a/igE3n8O)
+8. [YouTube](https://imgur.com/a/vqVM7Xs)
+9.  [YouTube](https://imgur.com/a/TfmcGGC)
+10. [YouTube](https://youtu.be/HWQGAxUFH4o)
+11. [YouTube](https://imgur.com/a/5S6EzCO)
+12. [YouTube](https://imgur.com/a/KiK993f)
+13. [YouTube](https://imgur.com/a/6G0qtHA)
+14. [YouTube](https://imgur.com/a/Fv4MG5d)
+15. 
+    a\. [YouTube](https://youtu.be/xn46rQMVm6g)  
+    b\. [YouTube](https://youtu.be/F9Aew7NBsEA)  
+    c\. [YouTube](https://m.youtube.com/watch?v=HlDEnB3QB7c)  
+    d\. [YouTube](https://youtu.be/eUHQ2pcLdKE)  
+
+**Significance:**  
+Knowledge of open world mechanics and that I hate this tc thing I’m never doing serious tickets again.  
+
+Additional credits to Aevean Leeow\#1362 and f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
