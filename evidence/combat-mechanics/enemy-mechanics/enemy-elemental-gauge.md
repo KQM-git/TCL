@@ -42,3 +42,17 @@ In addition, the reduction of 7.5s is a precise frame count. This is the "taxles
 **Significance:**  
 This allows us to more precisely measure frames on reactions due to the way friendly auras appear clearer than enemy auras. Since enemies can have 1 or 2 unit attacks, it's possible some enemies have 4 unit attacks for elements we have previously not been able to test with 4 units. There may even be 3-unit enemies. This opens up more possible reactions we can test.
 
+## Elemental Node Infusion Has ICD
+
+**By:** vinsette\#0293  
+**Added:** 2022-08-24  
+[Discussion](https://tickets.deeznuts.moe/transcripts/elemental-node-infusion-has-icd)  
+
+**Finding:**  
+Elemental Nodes and Infusion Stones have a 3-Hit ICD per target.  
+
+**Evidence:**  
+[YouTube](https://m.youtube.com/watch?v=nMFPDOb3z24) \(credit to Kaleamaranth\#6687\)
+
+**Significance:**  
+Adding this mechanic into the TCL from the wiki. Prolonged fights with Elemental Nodes and Infusion Stones won't require you to repeatedly purge off their infusion if you can clear it.  

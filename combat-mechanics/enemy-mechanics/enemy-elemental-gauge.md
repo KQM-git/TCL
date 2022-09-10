@@ -36,5 +36,11 @@ Enemies apply Elemental Auras that use the same system as Elemental Gauge Theory
   </tbody>
 </table>
 
+## Elemental Nodes 
+
+Elemental Nodes and Infusion Stones have a 3-Hit ICD per target.  
+
+## Evidence Vault
+
 {% page-ref page="../../evidence/combat-mechanics/enemy-mechanics/enemy-elemental-gauge.md" %}
 
