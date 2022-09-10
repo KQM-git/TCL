@@ -184,10 +184,19 @@ When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her
 
 Recasting **Stellar Restoration** while a **Lightning Stiletto** is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.
 
+| Attribute | Skill |
+| :--- | :--- |
+| Thundering Might | 50% |
+| GU | 1A |
+| ICD | Shared with Lightning Stiletto (recast) |
+| Damage Type | - |
+| Poise Damage | 50 |
+| Impulse Type | 1 |
+
 * An enemy can be hit twice by the **Thundering Might** AoE if **Stellar Restoration** is recast at point blank range. However, it can be inconsistent on smaller enemies since the AoE is small.
 * C1's Damage instance has no ability type scaling tags.
-* **Thundering Might** procs before the second part of **Stellar Restoration**.
-  * Basically, the Damage goes like: **E1** - **C1 Start** - **C1 Terminus** - **E2**
+* **Thundering Might** procs before the second part of **Stellar Restoration**. Example: **E1** - **C1 Start** - **C1 Terminus** - **E2**.
+* The ICD of C1 is shared with the second part of **Stellar Restoration**.
 
 
 {% endtab %}
