@@ -1,8 +1,8 @@
 # Bugs
 
-{% hint style="info" %}
+:::info
 This page is for bugs, meaning they could get fixed by Mihoyo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
-{% endhint %}
+:::danger
 
 ## Abyss
 
@@ -74,8 +74,6 @@ There are inconsistencies in whether a character wielding 4NO can receive the 4-
 ## Fixed Bugs
 
 ### Turbo
-
-{% tabs %}
 
 When Oz triggers Overload or Superconduct with his **Normal Attack**, he generates a particle for each enemy hit by the reaction. This is called "**turbo**" energy generation. By using this mechanic in clumps of enemies, you can gain far more particles per Oz summon than you would normally be able to. Turbo team compositions are built to force this interaction often to fuel expensive elemental bursts. This in turn reduces the energy recharge investment for units, which allows for more investment into damage.
 

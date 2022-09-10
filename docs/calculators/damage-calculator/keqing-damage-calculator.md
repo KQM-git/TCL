@@ -2,7 +2,7 @@
 
 hail sucks
 
-{% hint style="info" %}
+:::info
 page is under construction!
-{% endhint %}
+:::danger
 

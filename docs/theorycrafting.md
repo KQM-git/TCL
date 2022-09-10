@@ -292,9 +292,9 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 ## Mechanics
 
-{% hint style="danger" %}
+:::danger
 As the theorycrafting library is being migrated, many of these terms do not have their corresponding entries linked yet.
-{% endhint %}
+:::
 
 **Cancels** = A tech you use to leave animations early. There are a few ways you can perform cancels, which are dependent on the character and attack.
 

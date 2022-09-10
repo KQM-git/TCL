@@ -231,6 +231,4 @@ Examples of such buffs:
 
 ## Evidence Vault
 
-{% content-ref url="../../evidence/combat-mechanics/damage/damage-formula.md" %}
-[damage-formula.md](../../evidence/combat-mechanics/damage/damage-formula.md)
-{% endcontent-ref %}
+<Card item={require('../../evidence/combat-mechanics/damage/damage-formula.md')} />

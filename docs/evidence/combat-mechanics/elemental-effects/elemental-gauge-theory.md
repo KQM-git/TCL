@@ -196,9 +196,9 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
 
 ## Advanced Notes on Reactions and the Gauge Unit Theory \(WIP\)
 
-{% hint style="danger" %}
+:::danger
 THE FOLLOWING SECTIONS ARE UNDER CONSTRUCTION
-{% endhint %}
+:::danger
 
 ### The concept of an elemental aura/gauge
 
