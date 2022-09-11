@@ -9,6 +9,7 @@ Rimebiter Bathysmal Vishap Hatchlings are immature Rimebiter Bathysmal Vishaps. 
 
 ## Resistance Table
 All Bathysmal Vishaps have +10% RES to their own Element.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 30% |

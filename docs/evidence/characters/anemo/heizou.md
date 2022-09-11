@@ -7,7 +7,7 @@ search: false
 **Main Page:**
  
 <Card item={require('../../../characters/anemo/heizou.md')} />
- 
+
 ## Basic Mechanics
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/heizou-basic-mechanics)  

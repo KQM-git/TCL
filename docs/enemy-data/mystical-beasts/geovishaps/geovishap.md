@@ -21,6 +21,7 @@ Head.
 ## Resistance Table
 
 All geovishaps have +20% (30% total) resistance to the element they infuse with upon transformation.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 30% |
