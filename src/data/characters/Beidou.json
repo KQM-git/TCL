@@ -1,0 +1,527 @@
+{
+  "name": "Beidou",
+  "desc": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1094.1492,
+    "attackBase": 18.87648,
+    "defenseBase": 54.36375,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Oceanborne",
+          "desc": "**Normal Attack**\nPerform up to 5 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "71.1%",
+                "76.9%",
+                "82.7%",
+                "91.0%",
+                "96.8%",
+                "103.4%",
+                "112.5%",
+                "121.6%",
+                "130.7%",
+                "140.6%",
+                "152.0%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "70.9%",
+                "76.6%",
+                "82.4%",
+                "90.6%",
+                "96.4%",
+                "103.0%",
+                "112.1%",
+                "121.1%",
+                "130.2%",
+                "140.1%",
+                "151.4%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "88.3%",
+                "95.5%",
+                "102.7%",
+                "113.0%",
+                "120.2%",
+                "128.4%",
+                "139.7%",
+                "151.0%",
+                "162.3%",
+                "174.6%",
+                "188.7%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "86.5%",
+                "93.6%",
+                "100.6%",
+                "110.7%",
+                "117.7%",
+                "125.8%",
+                "136.8%",
+                "147.9%",
+                "158.9%",
+                "171.0%",
+                "184.9%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "112%",
+                "121%",
+                "130%",
+                "143%",
+                "153%",
+                "163%",
+                "177%",
+                "192%",
+                "206%",
+                "222%",
+                "240%"
+              ]
+            },
+            {
+              "name": "Charged Attack Cyclic DMG",
+              "values": [
+                "56.2%",
+                "60.8%",
+                "65.4%",
+                "71.9%",
+                "76.5%",
+                "81.7%",
+                "88.9%",
+                "96.1%",
+                "103.3%",
+                "111.2%",
+                "120.2%"
+              ]
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "values": [
+                "102%",
+                "110%",
+                "118%",
+                "130%",
+                "139%",
+                "148%",
+                "161%",
+                "174%",
+                "187%",
+                "201%",
+                "218%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "74.6%",
+                "80.7%",
+                "86.7%",
+                "95.4%",
+                "101.5%",
+                "108.4%",
+                "118.0%",
+                "127.5%",
+                "137.0%",
+                "147.4%",
+                "157.8%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "149%/186%",
+                "161%/201%",
+                "173%/217%",
+                "191%/238%",
+                "203%/253%",
+                "217%/271%",
+                "236%/295%",
+                "255%/318%",
+                "274%/342%",
+                "295%/368%",
+                "316%/394%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tidecaller",
+          "desc": "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\n\n**Press**\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing **Electro DMG**.\n\n**Hold**\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing **Electro DMG**. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\nThe shield possesses the following properties:\n·Has 250% **Electro DMG** Absorption Efficiency.\n·Applies the **Electro element** to Beidou upon activation.\n\n**Conquer the high seas! Pursue the waves and chase the storm!**",
+          "talentTable": [
+            {
+              "name": "Shield DMG Absorption",
+              "values": [
+                "14.4% Max HP+1386",
+                "15.5% Max HP+1525",
+                "16.6% Max HP+1675",
+                "18.0% Max HP+1837",
+                "19.1% Max HP+2010",
+                "20.2% Max HP+2195",
+                "21.6% Max HP+2392",
+                "23.0% Max HP+2600",
+                "24.5% Max HP+2819",
+                "25.9% Max HP+3050",
+                "27.4% Max HP+3293",
+                "28.8% Max HP+3547",
+                "30.6% Max HP+3813"
+              ]
+            },
+            {
+              "name": "Base DMG",
+              "values": [
+                "122%",
+                "131%",
+                "140%",
+                "152%",
+                "161%",
+                "170%",
+                "182%",
+                "195%",
+                "207%",
+                "219%",
+                "231%",
+                "243%",
+                "258%"
+              ]
+            },
+            {
+              "name": "DMG Bonus on Hit Taken",
+              "values": [
+                "160%",
+                "172%",
+                "184%",
+                "200%",
+                "212%",
+                "224%",
+                "240%",
+                "256%",
+                "272%",
+                "288%",
+                "304%",
+                "320%",
+                "340%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "7.5s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Stormbreaker",
+        "desc": "Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself, dealing **Electro DMG** to nearby opponents.\n\n**Thunderbeast's Targe**\n·When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing **Electro DMG**.\n·Increases the character's resistance to interruption, and decreases DMG taken.\n\nA maximum of 1 lightning discharge can be triggered per second.\n\n**With a peal of thunder, Haishan is slain.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "122%",
+              "131%",
+              "140%",
+              "152%",
+              "161%",
+              "170%",
+              "182%",
+              "195%",
+              "207%",
+              "219%",
+              "231%",
+              "243%",
+              "258%"
+            ]
+          },
+          {
+            "name": "Lightning DMG",
+            "values": [
+              "96.0%",
+              "103.2%",
+              "110.4%",
+              "120.0%",
+              "127.2%",
+              "134.4%",
+              "144.0%",
+              "153.6%",
+              "163.2%",
+              "172.8%",
+              "182.4%",
+              "192.0%",
+              "204.0%"
+            ]
+          },
+          {
+            "name": "DMG Reduction",
+            "values": [
+              "20%",
+              "21%",
+              "22%",
+              "24%",
+              "25%",
+              "26%",
+              "28%",
+              "30%",
+              "32%",
+              "34%",
+              "35%",
+              "36%",
+              "37%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Electro"
+      },
+      "passive": [
+        {
+          "name": "Retribution",
+          "desc": "Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.",
+          "minAscension": 1
+        },
+        {
+          "name": "Lightning Storm",
+          "desc": "Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus: \n·DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\n·Greatly reduced delay before unleashing Charged Attacks.",
+          "minAscension": 4
+        },
+        {
+          "name": "Conqueror of Tides",
+          "desc": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Sea Beast's Scourge",
+          "desc": "When **Stormbreaker** is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs **Electro DMG** 250% more effectively."
+        },
+        {
+          "name": "Upon the Turbulent Sea, the Thunder Arises",
+          "desc": "**Stormbreaker**'s arc lightning can jump to 2 additional targets."
+        },
+        {
+          "name": "Summoner of Storm",
+          "desc": "Increases the Level of **Tidecaller** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Stunning Revenge",
+          "desc": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s."
+        },
+        {
+          "name": "Crimson Tidewalker",
+          "desc": "Increases the Level of **Stormbreaker** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Bane of Evil",
+          "desc": "During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 817.3855
+        },
+        {
+          "stat": "Base DEF",
+          "value": 40.6125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 14.102028
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1398.1593
+        },
+        {
+          "stat": "Base DEF",
+          "value": 69.46875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 24.12189
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2172.524658203125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 107.94375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.48170471191406
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2753.29833984375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 136.8
+        },
+        {
+          "stat": "Base ATK",
+          "value": 47.50156784057617
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3334.072265625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 165.65625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.52143
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3914.84619140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 194.5125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 67.54129
+        },
+        {
+          "stat": "Electro DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

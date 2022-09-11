@@ -1,0 +1,483 @@
+{
+  "name": "Kujou Sara",
+  "desc": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+  "star": 4,
+  "weaponType": "Bow",
+  "baseStats": {
+    "hpBase": 802.3761,
+    "attackBase": 16.38336,
+    "defenseBase": 52.647,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Tengu Bowmanship",
+          "desc": "**Normal Attack**\nPerform up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal **Electro DMG**.\nWhen in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "36.9%",
+                "39.9%",
+                "42.9%",
+                "47.2%",
+                "50.2%",
+                "53.6%",
+                "58.3%",
+                "63.1%",
+                "67.8%",
+                "72.9%",
+                "78.1%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "38.7%",
+                "41.9%",
+                "45.0%",
+                "49.5%",
+                "52.6%",
+                "56.3%",
+                "61.2%",
+                "66.1%",
+                "71.1%",
+                "76.5%",
+                "81.9%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "48.5%",
+                "52.5%",
+                "56.4%",
+                "62.0%",
+                "66.0%",
+                "70.5%",
+                "76.7%",
+                "82.9%",
+                "89.1%",
+                "95.9%",
+                "102.6%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "50.4%",
+                "54.5%",
+                "58.6%",
+                "64.5%",
+                "68.6%",
+                "73.3%",
+                "79.7%",
+                "86.1%",
+                "92.6%",
+                "99.6%",
+                "106.7%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "58.1%",
+                "62.8%",
+                "67.5%",
+                "74.3%",
+                "79.0%",
+                "84.4%",
+                "91.8%",
+                "99.2%",
+                "106.6%",
+                "114.8%",
+                "122.9%"
+              ]
+            },
+            {
+              "name": "Aimed Shot",
+              "values": [
+                "43.9%",
+                "47.4%",
+                "51.0%",
+                "56.1%",
+                "59.7%",
+                "63.7%",
+                "69.4%",
+                "75.0%",
+                "80.6%",
+                "86.7%",
+                "92.8%"
+              ]
+            },
+            {
+              "name": "Fully-Charged Aimed Shot",
+              "values": [
+                "124%",
+                "133%",
+                "143%",
+                "155%",
+                "164%",
+                "174%",
+                "186%",
+                "198%",
+                "211%",
+                "223%",
+                "236%"
+              ]
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tengu Stormcall",
+          "desc": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\nGains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing **Electro DMG** and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\n\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n**The tengu race have never lacked for exceptional talents who have received an Electro Vision. It's just that they often habitually chant praises to the Electro Archon while manipulating Electro. The chants go something like this**\n**\"Show forth your might, O praiseworthy Narukami, and grant this supplicant your thunderous might! Sowaka!\"**",
+          "talentTable": [
+            {
+              "name": "Tengu Juurai: Ambush DMG",
+              "values": [
+                "125.8%",
+                "135.2%",
+                "144.6%",
+                "157.2%",
+                "166.6%",
+                "176.1%",
+                "188.6%",
+                "201.2%",
+                "213.8%",
+                "226.4%",
+                "238.9%",
+                "251.5%",
+                "267.2%"
+              ]
+            },
+            {
+              "name": "ATK Bonus Ratio",
+              "values": [
+                "43%",
+                "46%",
+                "49%",
+                "54%",
+                "57%",
+                "60%",
+                "64%",
+                "69%",
+                "73%",
+                "77%",
+                "82%",
+                "86%",
+                "91%"
+              ]
+            },
+            {
+              "name": "ATK Bonus Duration",
+              "value": "6.0s"
+            },
+            {
+              "name": "CD",
+              "value": "10.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Subjugation: Koukou Sendou",
+        "desc": "Casts down Tengu Juurai: Titanbreaker, dealing **AoE Electro DMG**. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing **AoE Electro DMG**.\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\n\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n**Sara departed from her people, the tengu, and also temporarily lost her faith in the Tenryou Commission. But once the clouds over her heart cleared, she found her own lightning anew.**",
+        "talentTable": [
+          {
+            "name": "Tengu Juurai: Titanbreaker DMG",
+            "values": [
+              "409.6%",
+              "440.3%",
+              "471.0%",
+              "512.0%",
+              "542.7%",
+              "573.4%",
+              "614.4%",
+              "655.4%",
+              "696.3%",
+              "737.3%",
+              "778.2%",
+              "819.2%",
+              "870.4%"
+            ]
+          },
+          {
+            "name": "Tengu Juurai: Stormcluster DMG",
+            "values": [
+              "34.1%",
+              "36.7%",
+              "39.2%",
+              "42.6%",
+              "45.2%",
+              "47.8%",
+              "51.2%",
+              "54.6%",
+              "58.0%",
+              "61.4%",
+              "64.8%",
+              "68.2%",
+              "72.5%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Electro"
+      },
+      "passive": [
+        {
+          "name": "Immovable Will",
+          "desc": "While in the Crowfeather Cover state provided by **Tengu Stormcall**, Aimed Shot charge times are decreased by 60%.",
+          "minAscension": 1
+        },
+        {
+          "name": "Decorum",
+          "desc": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Land Survey",
+          "desc": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Crow's Eye",
+          "desc": "When Tengu Juurai grant characters ATK Bonuses or hits opponents, the CD of **Tengu Stormcall** is decreased by 1s.\nThis effect can be triggered once every 3s."
+        },
+        {
+          "name": "Dark Wings",
+          "desc": "Unleashing **Tengu Stormcall** will leave a weaker Crowfeather at Kujou Sara's original position that will deal 30% of its original DMG."
+        },
+        {
+          "name": "The War Within",
+          "desc": "Increases the Level of **Subjugation: Koukou Sendou** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Conclusive Proof",
+          "desc": "The number of Tengu Juurai: Stormcluster released by **Subjugation: Koukou Sendou** is increased to 6."
+        },
+        {
+          "name": "Spellsinger",
+          "desc": "Increases the Level of **Tengu Stormcall** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Sin of Pride",
+          "desc": "The **Electro DMG** of characters who have had their ATK increased by Tengu Juurai has its Crit DMG increased by 60%."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 599.416
+        },
+        {
+          "stat": "Base DEF",
+          "value": 39.33
+        },
+        {
+          "stat": "Base ATK",
+          "value": 12.239496
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1025.3169
+        },
+        {
+          "stat": "Base DEF",
+          "value": 67.275
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.93598
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1593.1847
+        },
+        {
+          "stat": "Base DEF",
+          "value": 104.535
+        },
+        {
+          "stat": "Base ATK",
+          "value": 32.53129196166992
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2019.0856
+        },
+        {
+          "stat": "Base DEF",
+          "value": 132.48
+        },
+        {
+          "stat": "Base ATK",
+          "value": 41.22777557373047
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2444.986328125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 160.425
+        },
+        {
+          "stat": "Base ATK",
+          "value": 49.92426
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2870.88720703125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 188.37
+        },
+        {
+          "stat": "Base ATK",
+          "value": 58.62074279785156
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

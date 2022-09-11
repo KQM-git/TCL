@@ -1,0 +1,401 @@
+{
+  "name": "Ningguang",
+  "desc": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 820.6119,
+    "attackBase": 17.808,
+    "defenseBase": 48.069,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Sparkling Scatter",
+          "desc": "**Normal Attack**\nShoots gems that deal **Geo DMG**.\nUpon hit, this grants Ningguang 1 Star Jade.\n\n**Charged Attack**\nConsumes a certain amount of stamina to fire off a giant gem that deals **Geo DMG**.\nIf Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.\n\n**Plunging Attack**\nGathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Geo DMG** upon impact with the ground.",
+          "talentTable": [
+            {
+              "name": "Normal Attack DMG",
+              "values": [
+                "28.0%",
+                "30.1%",
+                "32.2%",
+                "35.0%",
+                "37.1%",
+                "39.2%",
+                "42.0%",
+                "44.8%",
+                "47.6%",
+                "50.4%",
+                "53.3%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "174%",
+                "187%",
+                "200%",
+                "218%",
+                "231%",
+                "244%",
+                "261%",
+                "279%",
+                "296%",
+                "313%",
+                "331%"
+              ]
+            },
+            {
+              "name": "DMG per Star Jade",
+              "values": [
+                "49.6%",
+                "53.3%",
+                "57.0%",
+                "62.0%",
+                "65.7%",
+                "69.4%",
+                "74.4%",
+                "79.4%",
+                "84.3%",
+                "89.3%",
+                "94.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "50.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jade Screen",
+          "desc": "Ningguang creates a Jade Screen out of gold, obsidian and her great opulence, dealing **AoE Geo DMG**.\n\n**Jade Screen**\n·Blocks opponents' projectiles.\n·Endurance scales based on Ningguang's Max HP.\n\nJade Screen is considered a **Geo Construct** and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.\n\n**The canvas of stars is written upon this jade screen.**",
+          "talentTable": [
+            {
+              "name": "Inherited HP",
+              "values": [
+                "50.1%",
+                "53.1%",
+                "56.1%",
+                "60.0%",
+                "63.0%",
+                "66.0%",
+                "69.9%",
+                "73.8%",
+                "77.7%",
+                "81.6%",
+                "85.5%",
+                "89.4%",
+                "93.3%"
+              ]
+            },
+            {
+              "name": "Skill DMG",
+              "values": [
+                "230%",
+                "248%",
+                "265%",
+                "288%",
+                "305%",
+                "323%",
+                "346%",
+                "369%",
+                "392%",
+                "415%",
+                "438%",
+                "461%",
+                "490%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "12.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Starshatter",
+        "desc": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her opponents that deal massive **Geo DMG**.\nIf Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.\n\n**Stars shatter. Silence falls.**",
+        "talentTable": [
+          {
+            "name": "DMG Per Gem",
+            "values": [
+              "87.0%",
+              "93.5%",
+              "100.0%",
+              "108.7%",
+              "115.2%",
+              "121.7%",
+              "130.4%",
+              "139.1%",
+              "147.8%",
+              "156.5%",
+              "165.2%",
+              "173.9%",
+              "184.8%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "40"
+          }
+        ],
+        "type": "Geo"
+      },
+      "passive": [
+        {
+          "name": "Backup Plan",
+          "desc": "When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.",
+          "minAscension": 1
+        },
+        {
+          "name": "Strategic Reserve",
+          "desc": "A character that passes through the **Jade Screen** will gain a 12% **Geo DMG Bonus** for 10s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Trove of Marvelous Treasures",
+          "desc": "Displays the location of nearby **ore veins used in forging** on the mini-map.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Piercing Fragments",
+          "desc": "When a Normal Attack hits, it deals AoE DMG."
+        },
+        {
+          "name": "Shock Effect",
+          "desc": "When **Jade Screen** is shattered, its CD will reset.\nCan occur once every 6s."
+        },
+        {
+          "name": "Majesty Be the Array of Stars",
+          "desc": "Increases the Level of **Starshatter** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Exquisite be the Jade, Outshining All Beneath",
+          "desc": "**Jade Screen** increases nearby characters' Elemental RES by 10%."
+        },
+        {
+          "name": "Invincible Be the Jade Screen",
+          "desc": "Increases the Level of **Jade Screen** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Grandeur Be the Seven Stars",
+          "desc": "When **Starshatter** is used, Ningguang gains 7 Star Jades."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 613.0391
+        },
+        {
+          "stat": "Base DEF",
+          "value": 35.91
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1048.6195
+        },
+        {
+          "stat": "Base DEF",
+          "value": 61.425
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1629.3934
+        },
+        {
+          "stat": "Base DEF",
+          "value": 95.445
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2064.973876953125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 120.96
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2500.55419921875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 146.475
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2936.134765625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 171.99
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

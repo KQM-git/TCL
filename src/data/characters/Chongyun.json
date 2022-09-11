@@ -1,0 +1,457 @@
+{
+  "name": "Chongyun",
+  "desc": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 920.908935546875,
+    "attackBase": 18.6984,
+    "defenseBase": 54.36375,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Demonbane",
+          "desc": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "70.0%",
+                "75.7%",
+                "81.4%",
+                "89.5%",
+                "95.2%",
+                "101.8%",
+                "110.7%",
+                "119.7%",
+                "128.6%",
+                "138.4%",
+                "148.1%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "63.1%",
+                "68.3%",
+                "73.4%",
+                "80.7%",
+                "85.9%",
+                "91.8%",
+                "99.8%",
+                "107.9%",
+                "116.0%",
+                "124.8%",
+                "133.6%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "80.3%",
+                "86.9%",
+                "93.4%",
+                "102.7%",
+                "109.3%",
+                "116.8%",
+                "127.0%",
+                "137.3%",
+                "147.6%",
+                "158.8%",
+                "170.0%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "101%",
+                "109%",
+                "118%",
+                "129%",
+                "138%",
+                "147%",
+                "160%",
+                "173%",
+                "186%",
+                "200%",
+                "214%"
+              ]
+            },
+            {
+              "name": "Charged Attack Cyclic DMG",
+              "values": [
+                "56.3%",
+                "60.9%",
+                "65.4%",
+                "72.0%",
+                "76.6%",
+                "81.8%",
+                "89.0%",
+                "96.2%",
+                "103.4%",
+                "111.3%",
+                "119.1%"
+              ]
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "values": [
+                "102%",
+                "110%",
+                "118%",
+                "130%",
+                "138%",
+                "148%",
+                "161%",
+                "174%",
+                "187%",
+                "201%",
+                "215%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "74.6%",
+                "80.7%",
+                "86.7%",
+                "95.4%",
+                "101.5%",
+                "108.4%",
+                "118.0%",
+                "127.5%",
+                "137.0%",
+                "147.4%",
+                "157.8%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "149%/186%",
+                "161%/201%",
+                "173%/217%",
+                "191%/238%",
+                "203%/253%",
+                "217%/271%",
+                "236%/295%",
+                "255%/318%",
+                "274%/342%",
+                "295%/368%",
+                "316%/394%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spirit Blade: Chonghua's Layered Frost",
+          "desc": "Chongyun strikes the ground with his greatsword, causing a Cryo explosion in a circular AoE in front of him that deals **Cryo DMG**.\nAfter a short delay, the cold air created by the Cryo explosion will coalesce into a Chonghua Frost Field, within which all Sword, Claymore and Polearm-wielding characters' weapons will be infused with **Cryo**.\n\n**\"A crystal-clear ring, and all is silent. The rivers move not, and the clouds are heavy with frost. The altar gates open, and evil is banished.\"**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "172%",
+                "185%",
+                "198%",
+                "215%",
+                "228%",
+                "241%",
+                "258%",
+                "275%",
+                "292%",
+                "310%",
+                "327%",
+                "344%",
+                "366%"
+              ]
+            },
+            {
+              "name": "Infusion Duration",
+              "values": [
+                "2.0s",
+                "2.1s",
+                "2.2s",
+                "2.3s",
+                "2.4s",
+                "2.5s",
+                "2.6s",
+                "2.7s",
+                "2.8s",
+                "2.9s",
+                "3.0s",
+                "3.0s",
+                "3.0s"
+              ]
+            },
+            {
+              "name": "Field Duration",
+              "value": "10.0s"
+            },
+            {
+              "name": "CD",
+              "value": "15.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Spirit Blade: Cloud-Parting Star",
+        "desc": "Performing the secret hand seals, Chongyun summons 3 giant spirit blades in mid-air that fall to the earth one by one after a short delay, exploding as they hit the ground.\nWhen the spirit blades explode, they will deal **AoE Cryo DMG** and launch opponents.\n\n**\"As ice doth give the biting frost birth, My transcendent blade shakes heaven and earth. Heed my summons and come hence!\"**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "142%",
+              "153%",
+              "164%",
+              "178%",
+              "189%",
+              "199%",
+              "214%",
+              "228%",
+              "242%",
+              "256%",
+              "271%",
+              "285%",
+              "303%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "40"
+          }
+        ],
+        "type": "Cryo"
+      },
+      "passive": [
+        {
+          "name": "Steady Breathing",
+          "desc": "Sword, Claymore, or Polearm-wielding characters within the field created by **Spirit Blade: Chonghua's Layered Frost** have their Normal ATK SPD increased by 8%.",
+          "minAscension": 1
+        },
+        {
+          "name": "Rimechaser Blade",
+          "desc": "When the field created by **Spirit Blade: Chonghua's Layered Frost** disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as **AoE Cryo DMG**. Opponents hit by this blade will have their **Cryo RES** decreased by 10% for 8s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Gallant Journey",
+          "desc": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Ice Unleashed",
+          "desc": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as **Cryo DMG** to all opponents in its path."
+        },
+        {
+          "name": "Atmospheric Revolution",
+          "desc": "Elemental Skills and Elemental Bursts cast within the Frost Field created by **Spirit Blade: Chonghua's Layered Frost** have their CD time decreased by 15%."
+        },
+        {
+          "name": "Cloudburst",
+          "desc": "Increases the Level of **Spirit Blade: Cloud-Parting Star** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Frozen Skies",
+          "desc": "Chongyun regenerates 1 Energy every time he hits an opponent affected by **Cryo**.\nThis effect can only occur once every 2s."
+        },
+        {
+          "name": "The True Path",
+          "desc": "Increases the Level of **Spirit Blade: Chonghua's Layered Frost** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Rally of Four Blades",
+          "desc": "**Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 687.9661
+        },
+        {
+          "stat": "Base DEF",
+          "value": 40.6125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.96899
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1176.7842
+        },
+        {
+          "stat": "Base DEF",
+          "value": 69.46875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.894325256347656
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1828.5415
+        },
+        {
+          "stat": "Base DEF",
+          "value": 107.94375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.12810516357422
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2317.359619140625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 136.8
+        },
+        {
+          "stat": "Base ATK",
+          "value": 47.05344
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2806.177490234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 165.65625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.97877502441406
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3294.99560546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 194.5125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 66.90411
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

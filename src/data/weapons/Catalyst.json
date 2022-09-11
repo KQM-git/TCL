@@ -1,0 +1,2799 @@
+{
+  "Apprentice's Notes": {
+    "name": "Apprentice's Notes",
+    "desc": "Notes left behind by a top student. Many useful spells are listed, and the handwriting is beautiful.",
+    "weaponType": "Catalyst",
+    "stars": 1,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 23.245,
+        "curve": "ATK 1.1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 11.7
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 23.3
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 35
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 46.7
+          }
+        ]
+      }
+    ],
+    "refinements": []
+  },
+  "Pocket Grimoire": {
+    "name": "Pocket Grimoire",
+    "desc": "A carefully compiled notebook featuring the essentials needed to pass a magic exam.",
+    "weaponType": "Catalyst",
+    "stars": 2,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 32.93,
+        "curve": "ATK 1.1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 11.7
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 23.3
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 35
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 46.7
+          }
+        ]
+      }
+    ],
+    "refinements": []
+  },
+  "Magic Guide": {
+    "name": "Magic Guide",
+    "desc": "Version 12. A reprint featuring corrections to Version 11 and brand-new additions based on recent developments.",
+    "weaponType": "Catalyst",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 37.6075,
+        "curve": "ATK 1.4"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 40.8,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Bane of Storm and Tide",
+        "desc": "Increases DMG against opponents affected by Hydro or Electro by **12%**."
+      },
+      {
+        "name": "Bane of Storm and Tide",
+        "desc": "Increases DMG against opponents affected by Hydro or Electro by **15%**."
+      },
+      {
+        "name": "Bane of Storm and Tide",
+        "desc": "Increases DMG against opponents affected by Hydro or Electro by **18%**."
+      },
+      {
+        "name": "Bane of Storm and Tide",
+        "desc": "Increases DMG against opponents affected by Hydro or Electro by **21%**."
+      },
+      {
+        "name": "Bane of Storm and Tide",
+        "desc": "Increases DMG against opponents affected by Hydro or Electro by **24%**."
+      }
+    ]
+  },
+  "Thrilling Tales of Dragon Slayers": {
+    "name": "Thrilling Tales of Dragon Slayers",
+    "desc": "A fictional story of a band of five heroes who go off on a dragon hunt. It is poorly written and structurally incoherent. Its value lies in the many lessons that can be learned from failure.",
+    "weaponType": "Catalyst",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.0766,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Heritage",
+        "desc": "When switching characters, the new character taking the field has their ATK increased by **24%** for 10s. This effect can only occur once every 20s."
+      },
+      {
+        "name": "Heritage",
+        "desc": "When switching characters, the new character taking the field has their ATK increased by **30%** for 10s. This effect can only occur once every 20s."
+      },
+      {
+        "name": "Heritage",
+        "desc": "When switching characters, the new character taking the field has their ATK increased by **36%** for 10s. This effect can only occur once every 20s."
+      },
+      {
+        "name": "Heritage",
+        "desc": "When switching characters, the new character taking the field has their ATK increased by **42%** for 10s. This effect can only occur once every 20s."
+      },
+      {
+        "name": "Heritage",
+        "desc": "When switching characters, the new character taking the field has their ATK increased by **48%** for 10s. This effect can only occur once every 20s."
+      }
+    ]
+  },
+  "Otherworldly Story": {
+    "name": "Otherworldly Story",
+    "desc": "A cheap fantasy novel with no value whatsoever. Any claim that it possesses the power of catalysis is also pure fantasy.",
+    "weaponType": "Catalyst",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.085,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Energy Shower",
+        "desc": "Picking up an Elemental Energy Orb/Particle recovers **1%** HP."
+      },
+      {
+        "name": "Energy Shower",
+        "desc": "Each Elemental Orb or Particle collected restores **1.25%** HP."
+      },
+      {
+        "name": "Energy Shower",
+        "desc": "Each Elemental Orb or Particle collected restores **1.5%** HP."
+      },
+      {
+        "name": "Energy Shower",
+        "desc": "Each Elemental Orb or Particle collected restores **1.75%** HP."
+      },
+      {
+        "name": "Energy Shower",
+        "desc": "Each Elemental Orb or Particle collected restores **2%** HP."
+      }
+    ]
+  },
+  "Emerald Orb": {
+    "name": "Emerald Orb",
+    "desc": "A catalyst carved out of the hard jade from Jueyun Karst north of Liyue. Small, light, and durable, it is known more colloquially as the \"jade ball.\"",
+    "weaponType": "Catalyst",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 39.8751,
+        "curve": "ATK 1.2"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 20.4,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Rapids",
+        "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **20%** for 12s."
+      },
+      {
+        "name": "Rapids",
+        "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **25%** for 12s."
+      },
+      {
+        "name": "Rapids",
+        "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **30%** for 12s."
+      },
+      {
+        "name": "Rapids",
+        "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **35%** for 12s."
+      },
+      {
+        "name": "Rapids",
+        "desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by **40%** for 12s."
+      }
+    ]
+  },
+  "Twin Nephrite": {
+    "name": "Twin Nephrite",
+    "desc": "A jade pendant formed by piecing together two jade stones.",
+    "weaponType": "Catalyst",
+    "stars": 3,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 39.8751,
+        "curve": "ATK 1.2"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.034,
+        "curve": "C1"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Guerilla Tactics",
+        "desc": "Defeating an opponent increases Movement SPD and ATK by **12%** for 15s."
+      },
+      {
+        "name": "Guerilla Tactics",
+        "desc": "Defeating an opponent increases Movement SPD and ATK by **14%** for 15s."
+      },
+      {
+        "name": "Guerilla Tactics",
+        "desc": "Defeating an opponent increases Movement SPD and ATK by **16%** for 15s."
+      },
+      {
+        "name": "Guerilla Tactics",
+        "desc": "Defeating an opponent increases Movement SPD and ATK by **18%** for 15s."
+      },
+      {
+        "name": "Guerilla Tactics",
+        "desc": "Defeating an opponent increases Movement SPD and ATK by **20%** for 15s."
+      }
+    ]
+  },
+  "Favonius Codex": {
+    "name": "Favonius Codex",
+    "desc": "A secret tome that belonged to the scholars of the Knights of Favonius. It describes the logic and power of elements and matter.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.1,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Windfall",
+        "desc": "CRIT Hits have a **60%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**s."
+      },
+      {
+        "name": "Windfall",
+        "desc": "CRIT Hits have a **70%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **10.5**s."
+      },
+      {
+        "name": "Windfall",
+        "desc": "CRIT Hits have a **80%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **9**s."
+      },
+      {
+        "name": "Windfall",
+        "desc": "CRIT Hits have a **90%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **7.5**s."
+      },
+      {
+        "name": "Windfall",
+        "desc": "CRIT Hits have a **100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **6**s."
+      }
+    ]
+  },
+  "The Widsith": {
+    "name": "The Widsith",
+    "desc": "A heavy notebook filled with musical scores. Though suffering from moth damage and heavy wear-and-tear, there is still much power to be found among the hand-written words within.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Debut",
+        "desc": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by **60%**. Aria: Increases all Elemental DMG by **48%**. Interlude: Elemental Mastery is increased by **240**."
+      },
+      {
+        "name": "Debut",
+        "desc": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by **75%**. Aria: Increases all Elemental DMG by **60%**. Interlude: Elemental Mastery is increased by **300**."
+      },
+      {
+        "name": "Debut",
+        "desc": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by **90%**. Aria: Increases all Elemental DMG by **72%**. Interlude: Elemental Mastery is increased by **360**."
+      },
+      {
+        "name": "Debut",
+        "desc": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by **105%**. Aria: Increases all Elemental DMG by **84%**. Interlude: Elemental Mastery is increased by **420**."
+      },
+      {
+        "name": "Debut",
+        "desc": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by **120%**. Aria: Increases all Elemental DMG by **96%**. Interlude: Elemental Mastery is increased by **480**."
+      }
+    ]
+  },
+  "Sacrificial Fragments": {
+    "name": "Sacrificial Fragments",
+    "desc": "A weathered script, the text of which is no longer legible. A cursed item eroded by the winds of time.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 48,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Composed",
+        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%** chance to end its own CD. Can only occur once every **30**s."
+      },
+      {
+        "name": "Composed",
+        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **50%** chance to end its own CD. Can only occur once every **26**s."
+      },
+      {
+        "name": "Composed",
+        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **60%** chance to end its own CD. Can only occur once every **22s**."
+      },
+      {
+        "name": "Composed",
+        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **70%** chance to end its own CD. Can only occur once every **19**s."
+      },
+      {
+        "name": "Composed",
+        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **80%** chance to end its own CD. Can only occur once every **16s**."
+      }
+    ]
+  },
+  "Royal Grimoire": {
+    "name": "Royal Grimoire",
+    "desc": "A book that once belonged to a court mage of Mondstadt who served the nobility. It contains faithful and comprehensive historical accounts as well as magic spells.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Focus",
+        "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      },
+      {
+        "name": "Focus",
+        "desc": "Upon damaging an opponent, increases CRIT Rate by **10%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      },
+      {
+        "name": "Focus",
+        "desc": "Upon damaging an opponent, increases CRIT Rate by **12%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      },
+      {
+        "name": "Focus",
+        "desc": "Upon damaging an opponent, increases CRIT Rate by **14%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      },
+      {
+        "name": "Focus",
+        "desc": "Upon damaging an opponent, increases CRIT Rate by **16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+      }
+    ]
+  },
+  "Solar Pearl": {
+    "name": "Solar Pearl",
+    "desc": "A dull, golden pearl made of an unknown substance that harbors the light of the sun and the moon and pulses with a warm strength.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Solar Shine",
+        "desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **20%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **20%** for 6s."
+      },
+      {
+        "name": "Solar Shine",
+        "desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **25%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **25%** for 6s."
+      },
+      {
+        "name": "Solar Shine",
+        "desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **30%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **30%** for 6s."
+      },
+      {
+        "name": "Solar Shine",
+        "desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **35%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **35%** for 6s."
+      },
+      {
+        "name": "Solar Shine",
+        "desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by **40%** for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by **40%** for 6s."
+      }
+    ]
+  },
+  "Prototype Amber": {
+    "name": "Prototype Amber",
+    "desc": "A dully gilded catalyst secretly guarded in the Blackcliff Forge. It seems to glow with the very light from the sky.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Gilding",
+        "desc": "Using an Elemental Burst regenerates **4** Energy every 2s for 6s. All party members will regenerate **4%** HP every 2s for this duration."
+      },
+      {
+        "name": "Gilding",
+        "desc": "Using an Elemental Burst regenerates **4.5** Energy every 2s for 6s. All party members will regenerate **4.5%** HP every 2s for this duration."
+      },
+      {
+        "name": "Gilding",
+        "desc": "Using an Elemental Burst regenerates **5** Energy every 2s for 6s. All party members will regenerate **5%** HP every 2s for this duration."
+      },
+      {
+        "name": "Gilding",
+        "desc": "Using an Elemental Burst regenerates **5.5** Energy every 2s for 6s. All party members will regenerate **5.5%** HP every 2s for this duration."
+      },
+      {
+        "name": "Gilding",
+        "desc": "Using an Elemental Burst regenerates **6** Energy every 2s for 6s. All party members will regenerate **6%** HP every 2s for this duration."
+      }
+    ]
+  },
+  "Mappa Mare": {
+    "name": "Mappa Mare",
+    "desc": "A nautical chart featuring nearby currents and climates that somehow found its way into Liyue via foreign traders.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 24,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Infusion Scroll",
+        "desc": "Triggering an Elemental reaction grants a **8%** Elemental DMG Bonus for 10s. Max 2 stacks."
+      },
+      {
+        "name": "Infusion Scroll",
+        "desc": "Triggering an Elemental reaction grants a **10%** Elemental DMG Bonus for 10s. Max 2 stacks."
+      },
+      {
+        "name": "Infusion Scroll",
+        "desc": "Triggering an Elemental reaction grants a **12%** Elemental DMG Bonus for 10s. Max 2 stacks."
+      },
+      {
+        "name": "Infusion Scroll",
+        "desc": "Triggering an Elemental reaction grants a **14%** Elemental DMG Bonus for 10s. Max 2 stacks."
+      },
+      {
+        "name": "Infusion Scroll",
+        "desc": "Triggering an Elemental reaction grants a **16%** Elemental DMG Bonus for 10s. Max 2 stacks."
+      }
+    ]
+  },
+  "Blackcliff Agate": {
+    "name": "Blackcliff Agate",
+    "desc": "A mysterious catalyst made of a material known as \"blackcliff.\" It has an ominous crimson glow that seems to pulse in synchronization with the tremors from deep within the earth.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Press the Advantage",
+        "desc": "After defeating an enemy, ATK is increased by **12%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      },
+      {
+        "name": "Press the Advantage",
+        "desc": "After defeating an enemy, ATK is increased by **15%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      },
+      {
+        "name": "Press the Advantage",
+        "desc": "After defeating an enemy, ATK is increased by **18%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      },
+      {
+        "name": "Press the Advantage",
+        "desc": "After defeating an enemy, ATK is increased by **21%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      },
+      {
+        "name": "Press the Advantage",
+        "desc": "After defeating an enemy, ATK is increased by **24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+      }
+    ]
+  },
+  "Eye of Perception": {
+    "name": "Eye of Perception",
+    "desc": "A dim black glaze pearl that is said to have the power to read the purity of one's heart.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Echo",
+        "desc": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **240%** ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **12**s."
+      },
+      {
+        "name": "Echo",
+        "desc": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **270%** ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **11**s."
+      },
+      {
+        "name": "Echo",
+        "desc": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **300%** ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **10**s."
+      },
+      {
+        "name": "Echo",
+        "desc": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **330%** ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **9**s."
+      },
+      {
+        "name": "Echo",
+        "desc": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing **360%** ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every **8**s."
+      }
+    ]
+  },
+  "Frostbearer": {
+    "name": "Frostbearer",
+    "desc": "A fruit that possesses a strange, frosty will. A faint sense of agony emanates from it.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.09,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Frost Burial",
+        "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%** of ATK. Can only occur once every 10s."
+      },
+      {
+        "name": "Frost Burial",
+        "desc": "Hitting an opponent with Normal and Charged Attacks has a **70%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **95%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **240%** of ATK. Can only occur once every 10s."
+      },
+      {
+        "name": "Frost Burial",
+        "desc": "Hitting an opponent with Normal and Charged Attacks has an **80%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **110%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **280%** of ATK. Can only occur once every 10s."
+      },
+      {
+        "name": "Frost Burial",
+        "desc": "Hitting an opponent with Normal and Charged Attacks has a **90%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **125%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **320%** of ATK. Can only occur once every 10s."
+      },
+      {
+        "name": "Frost Burial",
+        "desc": "Hitting an opponent with Normal and Charged Attacks has a **100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **360%** of ATK. Can only occur once every 10s."
+      }
+    ]
+  },
+  "Wine and Song": {
+    "name": "Wine and Song",
+    "desc": "A songbook from the bygone aristocratic era, whose composer has become forgotten. It chronicles the tale of a certain heroic outlaw.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Ever-Changing",
+        "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **14%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **20%** for 5s."
+      },
+      {
+        "name": "Ever-Changing",
+        "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **16%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **25%** for 5s."
+      },
+      {
+        "name": "Ever-Changing",
+        "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **18%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **30%** for 5s."
+      },
+      {
+        "name": "Ever-Changing",
+        "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **20%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **35%** for 5s."
+      },
+      {
+        "name": "Ever-Changing",
+        "desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by **22%** for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by **40%** for 5s."
+      }
+    ]
+  },
+  "Dodoco Tales": {
+    "name": "Dodoco Tales",
+    "desc": "A children's book filled with childish short stories at which one cannot help but laugh.\nEven those readers who have long reached adulthood cannot help but be absorbed by the innocent, naive little adventures portrayed within.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 41.0671,
+        "curve": "ATK 2.4"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.12,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Dodoventure!",
+        "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **16%** for 6s. Charged Attack hits on opponents increase ATK by **8%** for 6s."
+      },
+      {
+        "name": "Dodoventure!",
+        "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **20%** for 6s. Charged Attack hits on opponents increase ATK by **10%** for 6s."
+      },
+      {
+        "name": "Dodoventure!",
+        "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **24%** for 6s. Charged Attack hits on opponents increase ATK by **12%** for 6s."
+      },
+      {
+        "name": "Dodoventure!",
+        "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **28%** for 6s. Charged Attack hits on opponents increase ATK by **14%** for 6s."
+      },
+      {
+        "name": "Dodoventure!",
+        "desc": "Normal Attack hits on opponents increase Charged Attack DMG by **32%** for 6s. Charged Attack hits on opponents increase ATK by **16%** for 6s."
+      }
+    ]
+  },
+  "Hakushin Ring": {
+    "name": "Hakushin Ring",
+    "desc": "A catalyst that carries the memory of the Kitsune Saiguu of ancient times. However, this device is but an impoverished vessel for the full breadth of her thought.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.066667,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Sakura Saiguu",
+        "desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **10%** Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+      },
+      {
+        "name": "Sakura Saiguu",
+        "desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **12.5%** Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+      },
+      {
+        "name": "Sakura Saiguu",
+        "desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **15%** Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+      },
+      {
+        "name": "Sakura Saiguu",
+        "desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **17.5%** Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+      },
+      {
+        "name": "Sakura Saiguu",
+        "desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a **20%** Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked."
+      }
+    ]
+  },
+  "Oathsworn Eye": {
+    "name": "Oathsworn Eye",
+    "desc": "A national treasure of Byakuyakoku stored in the Dainichi Mikoshi. With the coming of the Serpent God, this item was used to notarize great oaths and wishes.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 43.7349,
+        "curve": "ATK 2.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.06,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "People of the Faltering Light",
+        "desc": "Increases Energy Recharge by **24%** for 10s after using an Elemental Skill."
+      },
+      {
+        "name": "People of the Faltering Light",
+        "desc": "Increases Energy Recharge by **30%** for 10s after using an Elemental Skill."
+      },
+      {
+        "name": "People of the Faltering Light",
+        "desc": "Increases Energy Recharge by **36%** for 10s after using an Elemental Skill."
+      },
+      {
+        "name": "People of the Faltering Light",
+        "desc": "Increases Energy Recharge by **42%** for 10s after using an Elemental Skill."
+      },
+      {
+        "name": "People of the Faltering Light",
+        "desc": "Increases Energy Recharge by **48%** for 10s after using an Elemental Skill."
+      }
+    ]
+  },
+  "Fruit of Fulfillment": {
+    "name": "Fruit of Fulfillment",
+    "desc": "A fruit you obtained from an Aranara tale. It holds the potential to conquer any crisis.",
+    "weaponType": "Catalyst",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Energy Recharge",
+        "init": 0.1,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Full Circle",
+        "desc": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining **24** Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+      },
+      {
+        "name": "Full Circle",
+        "desc": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining **27** Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+      },
+      {
+        "name": "Full Circle",
+        "desc": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining **30** Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+      },
+      {
+        "name": "Full Circle",
+        "desc": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining **33** Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+      },
+      {
+        "name": "Full Circle",
+        "desc": "Obtain the \"Wax and Wane\" effect after an Elemental Reaction is triggered, gaining **36** Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field."
+      }
+    ]
+  },
+  "Skyward Atlas": {
+    "name": "Skyward Atlas",
+    "desc": "A cloud atlas symbolizing Dvalin and his former master, the Anemo Archon. It details the winds and clouds of the northern regions and contains the powers of the sky and wind.",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 47.537,
+        "curve": "ATK 3.2"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.072,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Wandering Clouds",
+        "desc": "Increases Elemental DMG Bonus by **12%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **160%** ATK DMG. Can only occur once every 30s."
+      },
+      {
+        "name": "Wandering Clouds",
+        "desc": "Increases Elemental DMG Bonus by **15%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **200%** ATK DMG. Can only occur once every 30s."
+      },
+      {
+        "name": "Wandering Clouds",
+        "desc": "Increases Elemental DMG Bonus by **18%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **240%** ATK DMG. Can only occur once every 30s."
+      },
+      {
+        "name": "Wandering Clouds",
+        "desc": "Increases Elemental DMG Bonus by **21%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **280%** ATK DMG. Can only occur once every 30s."
+      },
+      {
+        "name": "Wandering Clouds",
+        "desc": "Increases Elemental DMG Bonus by **24%**. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing **320%** ATK DMG. Can only occur once every 30s."
+      }
+    ]
+  },
+  "Lost Prayer to the Sacred Winds": {
+    "name": "Lost Prayer to the Sacred Winds",
+    "desc": "An educational tome written by anonymous early inhabitants who worshiped the wind. It has been blessed by the wind for its faithfulness and influence over the millennia.",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT Rate",
+        "init": 0.072,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Boundless Blessing",
+        "desc": "Increases Movement SPD by 10%. When in battle, gain an **8%** Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+      },
+      {
+        "name": "Boundless Blessing",
+        "desc": "Increases Movement SPD by 10%. When in battle, earn a **10%** Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+      },
+      {
+        "name": "Boundless Blessing",
+        "desc": "Increases Movement SPD by 10%. When in battle, gain a **12%** Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+      },
+      {
+        "name": "Boundless Blessing",
+        "desc": "Increases Movement SPD by 10%. When in battle, gain a **14%** Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+      },
+      {
+        "name": "Boundless Blessing",
+        "desc": "Increases Movement SPD by 10%. When in battle, gain a **16%** Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat."
+      }
+    ]
+  },
+  "Memory of Dust": {
+    "name": "Memory of Dust",
+    "desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "ATK%",
+        "init": 0.108,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Golden Majesty",
+        "desc": "Increases Shield Strength by **20%**. Scoring hits on opponents increases ATK by **4%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+      },
+      {
+        "name": "Golden Majesty",
+        "desc": "Increases Shield Strength by **25%**. Scoring hits on opponents increases ATK by **5%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+      },
+      {
+        "name": "Golden Majesty",
+        "desc": "Increases Shield Strength by **30%**. Scoring hits on opponents increases ATK by **6%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+      },
+      {
+        "name": "Golden Majesty",
+        "desc": "Increases Shield Strength by **35%**. Scoring hits on opponents increases ATK by **7%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+      },
+      {
+        "name": "Golden Majesty",
+        "desc": "Increases Shield Strength by **40%**. Scoring hits on opponents increases ATK by **8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+      }
+    ]
+  },
+  "Everlasting Moonglow": {
+    "name": "Everlasting Moonglow",
+    "desc": "A string of lovely jasper from the deep sea. It shines with a pure radiance like that of the moon, and just as ever-distant.",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.108,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Byakuya Kougetsu",
+        "desc": "Healing Bonus increased by **10%**, Normal Attack DMG is increased by **1%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+      },
+      {
+        "name": "Byakuya Kougetsu",
+        "desc": "Healing Bonus increased by **12.5%**, Normal Attack DMG is increased by **1.5%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+      },
+      {
+        "name": "Byakuya Kougetsu",
+        "desc": "Healing Bonus increased by **15%**, Normal Attack DMG is increased by **2%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+      },
+      {
+        "name": "Byakuya Kougetsu",
+        "desc": "Healing Bonus increased by **17.5%**, Normal Attack DMG is increased by **2.5%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+      },
+      {
+        "name": "Byakuya Kougetsu",
+        "desc": "Healing Bonus increased by **20%**, Normal Attack DMG is increased by **3%** of the Max HP of the character equipping this weapon. For 12s after using an Elemental Burst, Normal Attacks that hit opponents will restore 0.6 Energy. Energy can be restored this way once every 0.1s."
+      }
+    ]
+  },
+  "Kagura's Verity": {
+    "name": "Kagura's Verity",
+    "desc": "The bells used when performing the Kagura Dance, blessed by the Guuji herself. The scent of the Sacred Sakura tree lingers on it.",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 45.9364,
+        "curve": "ATK 3.1"
+      },
+      {
+        "stat": "CRIT DMG",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": [
+      {
+        "name": "Kagura Dance of the Sacred Sakura",
+        "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **12%** for 16s. Max 3 stacks. This character will gain **12%** All Elemental DMG Bonus when they possess 3 stacks."
+      },
+      {
+        "name": "Kagura Dance of the Sacred Sakura",
+        "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **15%** for 16s. Max 3 stacks. This character will gain **15%** All Elemental DMG Bonus when they possess 3 stacks."
+      },
+      {
+        "name": "Kagura Dance of the Sacred Sakura",
+        "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **18%** for 16s. Max 3 stacks. This character will gain **18%** All Elemental DMG Bonus when they possess 3 stacks."
+      },
+      {
+        "name": "Kagura Dance of the Sacred Sakura",
+        "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **21%** for 16s. Max 3 stacks. This character will gain **21%** All Elemental DMG Bonus when they possess 3 stacks."
+      },
+      {
+        "name": "Kagura Dance of the Sacred Sakura",
+        "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **24%** for 16s. Max 3 stacks. This character will gain **24%** All Elemental DMG Bonus when they possess 3 stacks."
+      }
+    ]
+  }
+}

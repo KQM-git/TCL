@@ -1,0 +1,453 @@
+{
+  "name": "Rosaria",
+  "desc": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1030.3238525390625,
+    "attackBase": 20.12304,
+    "defenseBase": 59.514,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Spear of the Church",
+          "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "52.5%",
+                "56.7%",
+                "61.0%",
+                "67.1%",
+                "71.4%",
+                "76.2%",
+                "83.0%",
+                "89.7%",
+                "96.4%",
+                "103.7%",
+                "111.0%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "51.6%",
+                "55.8%",
+                "60.0%",
+                "66.0%",
+                "70.2%",
+                "75.0%",
+                "81.6%",
+                "88.2%",
+                "94.8%",
+                "102.0%",
+                "109.2%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "31.8%×2",
+                "34.4%×2",
+                "37.0%×2",
+                "40.7%×2",
+                "43.3%×2",
+                "46.3%×2",
+                "50.3%×2",
+                "54.4%×2",
+                "58.5%×2",
+                "62.9%×2",
+                "67.3%×2"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "69.7%",
+                "75.3%",
+                "81.0%",
+                "89.1%",
+                "94.8%",
+                "101.3%",
+                "110.2%",
+                "119.1%",
+                "128.0%",
+                "137.7%",
+                "147.4%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "41.6%+43.0%",
+                "45.0%+46.5%",
+                "48.4%+50.0%",
+                "53.2%+55.0%",
+                "56.6%+58.5%",
+                "60.5%+62.5%",
+                "65.8%+68.0%",
+                "71.1%+73.5%",
+                "76.5%+79.0%",
+                "82.3%+85.0%",
+                "88.1%+91.0%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "137%",
+                "148%",
+                "159%",
+                "175%",
+                "186%",
+                "199%",
+                "216%",
+                "234%",
+                "251%",
+                "270%",
+                "289%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "25.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "63.9%",
+                "69.1%",
+                "74.3%",
+                "81.8%",
+                "87.0%",
+                "92.9%",
+                "101.1%",
+                "109.3%",
+                "117.5%",
+                "126.4%",
+                "135.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ravaging Confession",
+          "desc": "Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing **Cryo DMG**.\nThis ability cannot be used to travel behind opponents of a larger build.\n\n**Those who confess to Sister Rosaria will be granted no absolution. All sinners shall be met with the piercing cold of punishment proportionate to the weight of their sins.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "58%+136%",
+                "63%+146%",
+                "67%+156%",
+                "73%+170%",
+                "77%+180%",
+                "82%+190%",
+                "88%+204%",
+                "93%+218%",
+                "99%+231%",
+                "105%+245%",
+                "111%+258%",
+                "117%+272%",
+                "124%+289%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "6.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Rites of Termination",
+        "desc": "Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal **Cryo DMG**.\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing **Cryo DMG** to surrounding opponents.\n\n**Judgment is such a tedious ordeal — much easier to skip that phase and get straight to the last rites. Rosaria was never very devoted to the Anemo God anyway, which makes performing them all too easy.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "104%+152%",
+              "112%+163%",
+              "120%+175%",
+              "130%+190%",
+              "138%+201%",
+              "146%+213%",
+              "156%+228%",
+              "166%+243%",
+              "177%+258%",
+              "187%+274%",
+              "198%+289%",
+              "208%+304%",
+              "221%+323%"
+            ]
+          },
+          {
+            "name": "Ice Lance DoT",
+            "values": [
+              "132%",
+              "142%",
+              "152%",
+              "165%",
+              "175%",
+              "185%",
+              "198%",
+              "211%",
+              "224%",
+              "238%",
+              "251%",
+              "264%",
+              "281%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "8.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
+        "type": "Cryo"
+      },
+      "passive": [
+        {
+          "name": "Regina Probationum",
+          "desc": "When Rosaria strikes an opponent from behind using **Ravaging Confession**, Rosaria's CRIT Rate increases by 12% for 5s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Shadow Samaritan",
+          "desc": "Casting **Rites of Termination** increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.\nCRIT Rate Bonus gained this way cannot exceed 15%.",
+          "minAscension": 4
+        },
+        {
+          "name": "Night Walk",
+          "desc": "At night (18:00–6:00), increases the Movement SPD of your own party members by 10%.\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Not stackable with Passive Talents that provide the exact same effects.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Unholy Revelation",
+          "desc": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s."
+        },
+        {
+          "name": "Land Without Promise",
+          "desc": "The duration of the Ice Lance created by **Rites of Termination** is increased by 4s."
+        },
+        {
+          "name": "The Wages of Sin",
+          "desc": "Increases the Level of **Ravaging Confession** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Painful Grace",
+          "desc": "**Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast."
+        },
+        {
+          "name": "Last Rites",
+          "desc": "Increases the Level of **Rites of Termination** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Divine Retribution",
+          "desc": "**Rites of Termination**'s attack decreases opponents' Physical RES by 20% for 10s."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 769.7046508789062
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.46
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.033294
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1316.6001
+        },
+        {
+          "stat": "Base DEF",
+          "value": 76.05
+        },
+        {
+          "stat": "Base ATK",
+          "value": 25.714845657348633
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2045.794
+        },
+        {
+          "stat": "Base DEF",
+          "value": 118.17
+        },
+        {
+          "stat": "Base ATK",
+          "value": 39.956912994384766
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2592.689453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 149.76
+        },
+        {
+          "stat": "Base ATK",
+          "value": 50.638465881347656
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3139.584716796875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 181.35
+        },
+        {
+          "stat": "Base ATK",
+          "value": 61.32001495361328
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3686.480224609375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 212.94
+        },
+        {
+          "stat": "Base ATK",
+          "value": 72.0015640258789
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

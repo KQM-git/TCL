@@ -1,0 +1,437 @@
+{
+  "name": "Sucrose",
+  "desc": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 775.0223388671875,
+    "attackBase": 14.2464,
+    "defenseBase": 58.94175,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Wind Spirit Creation",
+          "desc": "**Normal Attack**\nPerforms up to 4 attacks using Wind Spirits, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and deals **AoE Anemo DMG** after a short casting time.\n\n**Plunging Attack**\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Anemo DMG** upon impact with the ground.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "33.5%",
+                "36.0%",
+                "38.5%",
+                "41.8%",
+                "44.3%",
+                "46.8%",
+                "50.2%",
+                "53.5%",
+                "56.9%",
+                "60.2%",
+                "63.6%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "30.6%",
+                "32.9%",
+                "35.2%",
+                "38.3%",
+                "40.6%",
+                "42.9%",
+                "45.9%",
+                "49.0%",
+                "52.0%",
+                "55.1%",
+                "58.2%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "38.4%",
+                "41.3%",
+                "44.2%",
+                "48.1%",
+                "50.9%",
+                "53.8%",
+                "57.7%",
+                "61.5%",
+                "65.4%",
+                "69.2%",
+                "73.1%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "47.9%",
+                "51.5%",
+                "55.1%",
+                "59.9%",
+                "63.5%",
+                "67.1%",
+                "71.9%",
+                "76.7%",
+                "81.5%",
+                "86.3%",
+                "91.0%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "120%",
+                "129%",
+                "138%",
+                "150%",
+                "159%",
+                "168%",
+                "180%",
+                "192%",
+                "204%",
+                "216%",
+                "228%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "50.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Astable Anemohypostasis Creation - 6308",
+          "desc": "Creates a small Wind Spirit that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo DMG**.\n\n**This is a little embarrassing, but though the elemental lifeforms birthed through this procedure dissipate very rapidly, they are incredibly useful when adventuring. Even failed experiments can have practical applications.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "211%",
+                "227%",
+                "243%",
+                "264%",
+                "280%",
+                "296%",
+                "317%",
+                "338%",
+                "359%",
+                "380%",
+                "401%",
+                "422%",
+                "449%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "15.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Forbidden Creation - Isomer 75 / Type II",
+        "desc": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit.\nWhile it persists, the Large Wind Spirit will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo DMG**.\n\n**Elemental Absorption**\nIf the Wind Spirit comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** energy, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**Sucrose used to give names to her volatile Anemo Hypostases, but their line of heirs quickly grew to surpass Baron Bunny the 893rd.**",
+        "talentTable": [
+          {
+            "name": "DoT",
+            "values": [
+              "148%",
+              "159%",
+              "170%",
+              "185%",
+              "196%",
+              "207%",
+              "222%",
+              "237%",
+              "252%",
+              "266%",
+              "281%",
+              "296%",
+              "314%"
+            ]
+          },
+          {
+            "name": "Additional Elemental DMG",
+            "values": [
+              "44.0%",
+              "47.3%",
+              "50.6%",
+              "55.0%",
+              "58.3%",
+              "61.6%",
+              "66.0%",
+              "70.4%",
+              "74.8%",
+              "79.2%",
+              "83.6%",
+              "88.0%",
+              "93.5%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "6.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Anemo"
+      },
+      "passive": [
+        {
+          "name": "Catalyst Conversion",
+          "desc": "When Sucrose triggers a Swirl reaction, all characters in the party with the matching element (excluding Sucrose) have their Elemental Mastery increased by 50 for 8s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Mollis Favonius",
+          "desc": "When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isomer 75 / Type II** hits an opponent, increases all party members' (excluding Sucrose) Elemental Mastery by an amount equal to 20% of Sucrose's Elemental Mastery for 8s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Astable Invention",
+          "desc": "When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% to obtain double the product.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Clustered Vacuum Field",
+          "desc": "**Astable Anemohypostasis Creation - 6308** gains 1 additional charge."
+        },
+        {
+          "name": "Beth: Unbound Form",
+          "desc": "The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s."
+        },
+        {
+          "name": "Flawless Alchemistress",
+          "desc": "Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Alchemania",
+          "desc": "Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.\nOne hit may be counted every 0.1s."
+        },
+        {
+          "name": "Caution: Standard Flask",
+          "desc": "Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Chaotic Entropy",
+          "desc": "If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 578.9814
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.0325
+        },
+        {
+          "stat": "Base ATK",
+          "value": 10.64304
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 990.3628540039062
+        },
+        {
+          "stat": "Base DEF",
+          "value": 75.31875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 18.2052
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1538.8716
+        },
+        {
+          "stat": "Base DEF",
+          "value": 117.03375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 28.28808
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1950.253
+        },
+        {
+          "stat": "Base DEF",
+          "value": 148.32
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.85024
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2361.634521484375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 179.6062469482422
+        },
+        {
+          "stat": "Base ATK",
+          "value": 43.4124
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2773.016
+        },
+        {
+          "stat": "Base DEF",
+          "value": 210.8925
+        },
+        {
+          "stat": "Base ATK",
+          "value": 50.97456
+        },
+        {
+          "stat": "Anemo DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

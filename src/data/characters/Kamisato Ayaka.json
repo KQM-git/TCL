@@ -1,0 +1,471 @@
+{
+  "name": "Kamisato Ayaka",
+  "desc": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1000.986,
+    "attackBase": 26.6266,
+    "defenseBase": 61.0266,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Kamisato Art - Kabuki",
+          "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "45.7%",
+                "49.4%",
+                "53.2%",
+                "58.5%",
+                "62.2%",
+                "66.5%",
+                "72.3%",
+                "78.2%",
+                "84.0%",
+                "90.4%",
+                "96.8%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "48.7%",
+                "52.6%",
+                "56.6%",
+                "62.3%",
+                "66.2%",
+                "70.8%",
+                "77.0%",
+                "83.2%",
+                "89.4%",
+                "96.2%",
+                "103.0%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "62.6%",
+                "67.7%",
+                "72.8%",
+                "80.1%",
+                "85.2%",
+                "91.0%",
+                "99.0%",
+                "107.0%",
+                "115.0%",
+                "123.8%",
+                "132.5%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "22.6%×3",
+                "24.5%×3",
+                "26.3%×3",
+                "29.0%×3",
+                "30.8%×3",
+                "32.9%×3",
+                "35.8%×3",
+                "38.7%×3",
+                "41.6%×3",
+                "44.8%×3",
+                "47.9%×3"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "78.2%",
+                "84.5%",
+                "90.9%",
+                "100.0%",
+                "106.4%",
+                "113.6%",
+                "123.6%",
+                "133.6%",
+                "143.6%",
+                "154.5%",
+                "165.5%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "55.1%×3",
+                "59.6%×3",
+                "64.1%×3",
+                "70.5%×3",
+                "75.0%×3",
+                "80.1%×3",
+                "87.2%×3",
+                "94.2%×3",
+                "101.3%×3",
+                "109.0%×3",
+                "116.7%×3"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "20.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "64%",
+                "69%",
+                "74%",
+                "82%",
+                "87%",
+                "93%",
+                "101%",
+                "109%",
+                "117%",
+                "126%",
+                "135%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kamisato Art: Hyouka",
+          "desc": "Summons blooming ice to launch nearby opponents, dealing **AoE Cryo DMG**.\n\n**\"Clouds shroud the moonlit night. Longing descends like a fog, filling the one detained with wanderlust.\"**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "239%",
+                "257%",
+                "275%",
+                "299%",
+                "317%",
+                "335%",
+                "359%",
+                "383%",
+                "407%",
+                "431%",
+                "454%",
+                "478%",
+                "508%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "10.0s"
+            }
+          ]
+        },
+        {
+          "name": "Kamisato Art: Senho",
+          "desc": "**Alternate Sprint**\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\n·Ayaka unleashes frigid energy to apply **Cryo** on nearby opponents.\n·Coldness condenses around Ayaka's blade, infusing her attacks with **Cryo** for a brief period.\n\n**\"Feathers fleeting wet / the white heron treads water / a sight without flaw\"**",
+          "talentTable": [
+            {
+              "name": "Activation Stamina Consumption",
+              "value": "10.0"
+            },
+            {
+              "name": "Stamina Drain",
+              "value": "15.0/s"
+            },
+            {
+              "name": "Infusion Duration",
+              "value": "5.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Kamisato Art: Soumetsu",
+        "desc": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.\n\n**Frostflake Seki no To**\n·A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing **Cryo DMG**.\n·The snowstorm explodes after its duration ends, dealing **AoE Cryo DMG**.\n\n**\"The blizzard veils the heron's thoughts, pity heavy in its heart.\"**",
+        "talentTable": [
+          {
+            "name": "Cutting DMG",
+            "values": [
+              "112%",
+              "121%",
+              "129%",
+              "140%",
+              "149%",
+              "157%",
+              "168%",
+              "180%",
+              "191%",
+              "202%",
+              "213%",
+              "225%",
+              "239%"
+            ]
+          },
+          {
+            "name": "Bloom DMG",
+            "values": [
+              "168%",
+              "181%",
+              "194%",
+              "211%",
+              "223%",
+              "236%",
+              "253%",
+              "270%",
+              "286%",
+              "303%",
+              "320%",
+              "337%",
+              "358%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Cryo"
+      },
+      "passive": [
+        {
+          "name": "Amatsumi Kunitsumi Sanctification",
+          "desc": "After using **Kamisato Art: Hyouka**, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Kanten Senmyou Blessing",
+          "desc": "When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects:\n·Restores 10 Stamina\n·Gains 18% **Cryo DMG Bonus** for 10s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Fruits of Shinsa",
+          "desc": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Snowswept Sakura",
+          "desc": "When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s."
+        },
+        {
+          "name": "Blizzard Blade Seki no To",
+          "desc": "When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG."
+        },
+        {
+          "name": "Frostbloom Kamifubuki",
+          "desc": "Increases the Level of **Kamisato Art: Soumetsu** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Ebb and Flow",
+          "desc": "Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s."
+        },
+        {
+          "name": "Blossom Cloud Irutsuki",
+          "desc": "Increases the Level of **Kamisato Art: Hyouka** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Dance of Suigetsu",
+          "desc": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 858.255
+        },
+        {
+          "stat": "Base DEF",
+          "value": 52.326
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.82823371887207
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1468.0677490234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 89.505
+        },
+        {
+          "stat": "Base ATK",
+          "value": 39.04829406738281
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2281.1513671875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 139.077
+        },
+        {
+          "stat": "Base ATK",
+          "value": 60.67504
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2890.964
+        },
+        {
+          "stat": "Base DEF",
+          "value": 176.256
+        },
+        {
+          "stat": "Base ATK",
+          "value": 76.8951
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3500.77685546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 213.435
+        },
+        {
+          "stat": "Base ATK",
+          "value": 93.11516571044922
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4110.59
+        },
+        {
+          "stat": "Base DEF",
+          "value": 250.614
+        },
+        {
+          "stat": "Base ATK",
+          "value": 109.33523
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

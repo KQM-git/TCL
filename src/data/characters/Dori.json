@@ -1,0 +1,477 @@
+{
+  "name": "Dori",
+  "desc": "An elusive merchant who has a fondness for glittering Mora.",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1039.4418,
+    "attackBase": 18.6984,
+    "defenseBase": 60.6585,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Marvelous Sword-Dance (Modified)",
+          "desc": "**Normal Attack**\nPerform up to 3 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, performs a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "90.2%",
+                "97.6%",
+                "104.9%",
+                "115.4%",
+                "122.7%",
+                "131.1%",
+                "142.7%",
+                "154.2%",
+                "165.7%",
+                "178.3%",
+                "190.9%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "41.1%+43.1%",
+                "44.4%+46.6%",
+                "47.8%+50.1%",
+                "52.5%+55.2%",
+                "55.9%+58.7%",
+                "59.7%+62.7%",
+                "65.0%+68.2%",
+                "70.2%+73.7%",
+                "75.5%+79.2%",
+                "81.2%+85.2%",
+                "86.9%+91.3%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "128.4%",
+                "138.8%",
+                "149.3%",
+                "164.2%",
+                "174.7%",
+                "186.6%",
+                "203.0%",
+                "219.5%",
+                "235.9%",
+                "253.8%",
+                "271.7%"
+              ]
+            },
+            {
+              "name": "Charged Attack Spinning DMG",
+              "values": [
+                "62.5%",
+                "67.6%",
+                "72.7%",
+                "80.0%",
+                "85.1%",
+                "90.9%",
+                "98.9%",
+                "106.9%",
+                "114.9%",
+                "123.6%",
+                "133.6%"
+              ]
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "values": [
+                "113%",
+                "122%",
+                "132%",
+                "145%",
+                "154%",
+                "164%",
+                "179%",
+                "193%",
+                "208%",
+                "224%",
+                "242%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "74.6%",
+                "80.7%",
+                "86.7%",
+                "95.4%",
+                "101.5%",
+                "108.4%",
+                "118.0%",
+                "127.5%",
+                "137.0%",
+                "147.4%",
+                "157.8%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "149%/186%",
+                "161%/201%",
+                "173%/217%",
+                "191%/238%",
+                "203%/253%",
+                "217%/271%",
+                "236%/295%",
+                "255%/318%",
+                "274%/342%",
+                "295%/368%",
+                "316%/394%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spirit-Warding Lamp: Troubleshooter Cannon",
+          "desc": "Directs a Spirit-Warding Lamp to fire off a Troubleshooter Shot at opponents, dealing **Electro DMG**.\nAfter the Troubleshooter Shot hits, it will create 2 After-Sales Service Rounds that will automatically track opponents and deal **Electro DMG**.\n\n**It is said that Dori can fix any problem for you... for the right price.**",
+          "talentTable": [
+            {
+              "name": "Troubleshooter Shot DMG",
+              "values": [
+                "147.3%",
+                "158.3%",
+                "169.4%",
+                "184.1%",
+                "195.1%",
+                "206.2%",
+                "220.9%",
+                "235.6%",
+                "250.4%",
+                "265.1%",
+                "279.8%",
+                "294.6%",
+                "313.0%"
+              ]
+            },
+            {
+              "name": "After-Sales Service Round DMG",
+              "values": [
+                "31.6%",
+                "33.9%",
+                "36.3%",
+                "39.4%",
+                "41.8%",
+                "44.2%",
+                "47.3%",
+                "50.5%",
+                "53.7%",
+                "56.8%",
+                "60.0%",
+                "63.1%",
+                "67.1%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "9.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Alcazarzaray's Exactitude",
+        "desc": "Summons forth the Jinni within the lamp to give the client various kinds of aid.\n\n**Jinni**\nConnects to a nearby character. The connected character will:\n· Continuously restore HP based on Dori's Max HP.\n· Continuously regenerate Energy.\n· Be affected by **Electro**.\nWhen the connector between the Jinni and the character touches opponents, it will deal one instance of **Electro DMG** to them every 0.4s.\n\nOnly one Jinni can exist at one time.\n\n**\"Hmm? You'll pick this lamp, will you? Oh my, you've got good taste! Unfortunately, there's no price on this treasure — comparable, I'd say, to how you will not sell that mascot by your side for any price in the world.\"**",
+        "talentTable": [
+          {
+            "name": "Connector DMG",
+            "values": [
+              "16%",
+              "17%",
+              "18%",
+              "20%",
+              "21%",
+              "22%",
+              "24%",
+              "25%",
+              "27%",
+              "29%",
+              "30%",
+              "32%",
+              "34%"
+            ]
+          },
+          {
+            "name": "Continuous Healing",
+            "values": [
+              "6.7% Max HP+642",
+              "7.2% Max HP+706",
+              "7.7% Max HP+776",
+              "8.3% Max HP+851",
+              "8.8% Max HP+931",
+              "9.3% Max HP+1017",
+              "10.0% Max HP+1107",
+              "10.7% Max HP+1204",
+              "11.3% Max HP+1305",
+              "12.0% Max HP+1412",
+              "12.7% Max HP+1525",
+              "13.3% Max HP+1643",
+              "14.2% Max HP+1766"
+            ]
+          },
+          {
+            "name": "Energy Regeneration",
+            "values": [
+              "1.6",
+              "1.7",
+              "1.8",
+              "1.9",
+              "2.0",
+              "2.1",
+              "2.2",
+              "2.3",
+              "2.4",
+              "2.5",
+              "2.5",
+              "2.5",
+              "2.5"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Electro"
+      },
+      "passive": [
+        {
+          "name": "An Eye for Gold",
+          "desc": "After a character connected to the **Jinni** triggers an Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl or Crystallize reaction, the CD of **Spirit-Warding Lamp: Troubleshooter Cannon** is decreased by 1s.\nThis effect can be triggered once every 3s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Compound Interest",
+          "desc": "When the Troubleshooter Shots or After-Sales Service Rounds from **Spirit-Warding Lamp: Troubleshooter Cannon** hit opponents, Dori will restore 5 Elemental Energy for every 100% Energy Recharge possessed.\nPer Spirit-Warding Lamp: Troubleshooter Cannon, only one instance of Energy restoration can be triggered and a maximum of 15 Energy can be restored this way.",
+          "minAscension": 4
+        },
+        {
+          "name": "Unexpected Order",
+          "desc": "Has a 25% chance to recover some of the materials used when crafting Character and Weapon Materials.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Additional Investment",
+          "desc": "The number of After-Sales Service Rounds created by **Troubleshooter Shots** is increased by 1."
+        },
+        {
+          "name": "Special Franchise",
+          "desc": "When you are in combat and the **Jinni** heals the character it is connected to, it will fire a Jinni Toop from that character's position that deals 50% of Dori's ATK DMG."
+        },
+        {
+          "name": "Wonders Never Cease",
+          "desc": "Increases the Level of **Alcazarzaray's Exactitude** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Discretionary Supplement",
+          "desc": "The character connected to the **Jinni** will obtain the following buffs based on their current HP and Energy:\n·When their HP is lower than 50%, they gain 50% Incoming Healing Bonus.\n·When their Energy is less than 50%, they gain 30% Energy Recharge."
+        },
+        {
+          "name": "Value for Mora",
+          "desc": "Increases the Level of **Spirit-Warding Lamp: Troubleshooter Cannon** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Sprinkling Weight",
+          "desc": "Dori gains the following effects for 3s after using **Spirit-Warding Lamp: Troubleshooter Cannon**:\n·**Electro Infusion**.\n·When Normal Attacks hit opponents, all nearby party members will heal HP equivalent to 4% of Dori's Max HP. This type of healing can occur once every 0.1s."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 776.5162
+        },
+        {
+          "stat": "Base DEF",
+          "value": 45.315
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.96899
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1328.2513427734375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 77.5125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 23.894325256347656
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2063.8984375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 120.4425
+        },
+        {
+          "stat": "Base ATK",
+          "value": 37.12810516357422
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2615.633544921875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 152.64
+        },
+        {
+          "stat": "Base ATK",
+          "value": 47.05344
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3167.36865234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 184.8375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.97877502441406
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3719.104
+        },
+        {
+          "stat": "Base DEF",
+          "value": 217.035
+        },
+        {
+          "stat": "Base ATK",
+          "value": 66.90411
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

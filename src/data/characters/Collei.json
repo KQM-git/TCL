@@ -1,0 +1,449 @@
+{
+  "name": "Collei",
+  "desc": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+  "star": 4,
+  "weaponType": "Bow",
+  "baseStats": {
+    "hpBase": 820.6119,
+    "attackBase": 16.73952,
+    "defenseBase": 50.358,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Supplicant's Bowmanship",
+          "desc": "**Normal Attack**\nPerform up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "43.6%",
+                "47.2%",
+                "50.7%",
+                "55.8%",
+                "59.3%",
+                "63.4%",
+                "69.0%",
+                "74.5%",
+                "80.1%",
+                "86.2%",
+                "92.3%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "42.7%",
+                "46.1%",
+                "49.6%",
+                "54.6%",
+                "58.0%",
+                "62.0%",
+                "67.5%",
+                "72.9%",
+                "78.4%",
+                "84.3%",
+                "90.3%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "54.1%",
+                "58.5%",
+                "62.9%",
+                "69.2%",
+                "73.6%",
+                "78.6%",
+                "85.5%",
+                "92.5%",
+                "99.4%",
+                "106.9%",
+                "114.5%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "68.0%",
+                "73.6%",
+                "79.1%",
+                "87.0%",
+                "92.5%",
+                "98.9%",
+                "107.6%",
+                "116.3%",
+                "125.0%",
+                "134.5%",
+                "144.0%"
+              ]
+            },
+            {
+              "name": "Aimed Shot",
+              "values": [
+                "43.9%",
+                "47.4%",
+                "51.0%",
+                "56.1%",
+                "59.7%",
+                "63.7%",
+                "69.4%",
+                "75.0%",
+                "80.6%",
+                "86.7%",
+                "92.8%"
+              ]
+            },
+            {
+              "name": "Fully-Charged Aimed Shot",
+              "values": [
+                "124%",
+                "133%",
+                "143%",
+                "155%",
+                "164%",
+                "174%",
+                "186%",
+                "198%",
+                "211%",
+                "223%",
+                "236%"
+              ]
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Floral Brush",
+          "desc": "Throws out a Floral Ring that deals 1 instance of **Dendro DMG** to targets it comes into contact with.\nThe Floral Ring will return after a set time, dealing **Dendro DMG** once again.\n\n**This is Collei's go-to gadget for dealing with unruly wild beasts. A few good thwacks from this tool will generally improve their behavior. This same principle works just as well on evildoers.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "151.2%",
+                "162.5%",
+                "173.9%",
+                "189.0%",
+                "200.3%",
+                "211.7%",
+                "226.8%",
+                "241.9%",
+                "257.0%",
+                "272.2%",
+                "287.3%",
+                "302.4%",
+                "321.3%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "12.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Trump-Card Kitty",
+        "desc": "Trusty Cuilein-Anbar comes to save the day!\nThrows the doll named Cuilein-Anbar, causing an explosion that deals **AoE Dendro DMG**, creating a Cuilein-Anbar Zone. Cuilein-Anbar will bounce around within this zone, dealing **AoE Dendro DMG**.\n\n**\"Pretty impressive, huh? ... Eh? You want to know how I came up with the name Cuilein-Anbar? Uh, well, I...\"**",
+        "talentTable": [
+          {
+            "name": "Explosion DMG",
+            "values": [
+              "201.8%",
+              "217.0%",
+              "232.1%",
+              "252.3%",
+              "267.4%",
+              "282.6%",
+              "302.7%",
+              "322.9%",
+              "343.1%",
+              "363.3%",
+              "383.5%",
+              "403.6%",
+              "428.9%"
+            ]
+          },
+          {
+            "name": "Leap DMG",
+            "values": [
+              "43.2%",
+              "46.5%",
+              "49.7%",
+              "54.1%",
+              "57.3%",
+              "60.5%",
+              "64.9%",
+              "69.2%",
+              "73.5%",
+              "77.8%",
+              "82.2%",
+              "86.5%",
+              "91.9%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "6.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
+        "type": "Dendro"
+      },
+      "passive": [
+        {
+          "name": "Floral Sidewinder",
+          "desc": "If one of your party members has triggered Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions before the **Floral Ring** returns, it will grant the character the Sprout effect upon return, which will continuously deal **Dendro DMG** equivalent to 40% of Collei's ATK to nearby opponents for 3s.\nIf another Sprout effect is triggered during its initial duration, the initial effect will be removed. DMG dealt by Sprout is considered Elemental Skill DMG.",
+          "minAscension": 1
+        },
+        {
+          "name": "The Languid Wood",
+          "desc": "When a character within the **Cuilein-Anbar Zone** triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1s.\nA single **Trump-Card Kitty** can be extended by up to 3s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Gliding Champion of Sumeru",
+          "desc": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Deepwood Patrol",
+          "desc": "When in the party and not on the field, Collei's Energy Recharge is increased by 20%."
+        },
+        {
+          "name": "Through Hill and Copse",
+          "desc": "The Passive Talent Floral Sidewinder is changed to this:\nThe **Floral Ring** will grant the character the Sprout effect from Floral Sidewinder upon return, dealing 40% of Collei's ATK as **Dendro DMG** to nearby opponents for 3s.\nFrom the moment of using **Floral Brush** to the moment when this instance of Sprout effect ends, if any of your party members triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Sprout effect will be extended by 3s.\nThe Sprout effect can only be extended this way once. If another Sprout effect is triggered during its initial duration, the initial effect will be removed. DMG dealt by Sprout is considered Elemental Skill DMG.\nRequires you to have unlocked the Floral Sidewinder Passive Talent."
+        },
+        {
+          "name": "Scent of Summer",
+          "desc": "Increases the Level of **Floral Brush** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Gift of the Woods",
+          "desc": "Using **Trump-Card Kitty** will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself)."
+        },
+        {
+          "name": "All Embers",
+          "desc": "Increases the Level of **Trump-Card Kitty** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Forest of Falling Arrows",
+          "desc": "When the **Floral Ring** hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as **Dendro DMG**.\nEach **Floral Brush** can only create one such miniature Cuilein-Anbar."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 613.0391
+        },
+        {
+          "stat": "Base DEF",
+          "value": 37.62
+        },
+        {
+          "stat": "Base ATK",
+          "value": 12.505572
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1048.6195
+        },
+        {
+          "stat": "Base DEF",
+          "value": 64.35
+        },
+        {
+          "stat": "Base ATK",
+          "value": 21.39111
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1629.3934
+        },
+        {
+          "stat": "Base DEF",
+          "value": 99.99
+        },
+        {
+          "stat": "Base ATK",
+          "value": 33.238494873046875
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2064.973876953125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 126.72
+        },
+        {
+          "stat": "Base ATK",
+          "value": 42.12403
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2500.55419921875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 153.45
+        },
+        {
+          "stat": "Base ATK",
+          "value": 51.00957
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2936.134765625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 180.18
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.89510726928711
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "name": "Kamisato Ayato",
+  "desc": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1067.7184,
+    "attackBase": 23.275,
+    "defenseBase": 59.83,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Kamisato Art - Marobashi",
+          "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to dash forward and perform an iai.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "45.0%",
+                "48.6%",
+                "52.3%",
+                "57.5%",
+                "61.2%",
+                "65.4%",
+                "71.1%",
+                "76.9%",
+                "82.6%",
+                "88.9%",
+                "95.2%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "47.2%",
+                "51.0%",
+                "54.8%",
+                "60.3%",
+                "64.2%",
+                "68.5%",
+                "74.6%",
+                "80.6%",
+                "86.6%",
+                "93.2%",
+                "99.8%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "58.6%",
+                "63.4%",
+                "68.2%",
+                "75.0%",
+                "79.7%",
+                "85.2%",
+                "92.7%",
+                "100.2%",
+                "107.7%",
+                "115.9%",
+                "124.0%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "29.4%×2",
+                "31.8%×2",
+                "34.2%×2",
+                "37.7%×2",
+                "40.1%×2",
+                "42.8%×2",
+                "46.6%×2",
+                "50.3%×2",
+                "54.1%×2",
+                "58.2%×2",
+                "62.3%×2"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "75.6%",
+                "81.8%",
+                "87.9%",
+                "96.7%",
+                "102.9%",
+                "109.9%",
+                "119.6%",
+                "129.2%",
+                "138.9%",
+                "149.5%",
+                "160.0%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "129.5%",
+                "140.1%",
+                "150.6%",
+                "165.7%",
+                "176.2%",
+                "188.3%",
+                "204.8%",
+                "221.4%",
+                "238.0%",
+                "256.0%",
+                "274.1%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "20.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "63.9%",
+                "69.1%",
+                "74.3%",
+                "81.8%",
+                "87.0%",
+                "92.9%",
+                "101.1%",
+                "109.3%",
+                "117.5%",
+                "126.4%",
+                "135.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kamisato Art: Kyouka",
+          "desc": "Kamisato Ayato shifts positions and enters the Takimeguri Kanka state.\nAfter this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing **AoE Hydro DMG**.\n\n**Takimeguri Kanka**\nIn this state, Kamisato Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into **AoE Hydro DMG**. This cannot be overridden.\nIt also has the following properties:\n·After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.\n·Kamisato Ayato's resistance to interruption is increased.\n·Unable to use Charged or Plunging Attacks.\n\nTakimeguri Kanka will be cleared when Ayato leaves the field. Using Kamisato Art: Kyouka again while in the Takimeguri Kanka state will reset and replace the pre-existing state.\n\n**\"When, I wonder, did you come under the illusion that you were winning?\"**\n**— Ayato is like this in both matter of martial prowess and political intrigue, but to preserve the dignity of his fellow Commissioners, he does not say such things to them. As such, only Thoma, Itto, and Ayaka have ever heard this line.**",
+          "talentTable": [
+            {
+              "name": "Shunsuiken 1-Hit DMG",
+              "values": [
+                "52.9%",
+                "57.2%",
+                "61.5%",
+                "67.7%",
+                "72.0%",
+                "76.9%",
+                "83.6%",
+                "90.4%",
+                "97.2%",
+                "104.6%",
+                "111.9%",
+                "119.3%",
+                "126.7%"
+              ]
+            },
+            {
+              "name": "Shunsuiken 2-Hit DMG",
+              "values": [
+                "58.9%",
+                "63.7%",
+                "68.5%",
+                "75.3%",
+                "80.1%",
+                "85.6%",
+                "93.2%",
+                "100.7%",
+                "108.2%",
+                "116.4%",
+                "124.7%",
+                "132.9%",
+                "141.1%"
+              ]
+            },
+            {
+              "name": "Shunsuiken 3-Hit DMG",
+              "values": [
+                "64.9%",
+                "70.2%",
+                "75.5%",
+                "83.1%",
+                "88.3%",
+                "94.4%",
+                "102.7%",
+                "111.0%",
+                "119.3%",
+                "128.3%",
+                "137.4%",
+                "146.5%",
+                "155.5%"
+              ]
+            },
+            {
+              "name": "Takimeguri Kanka Duration",
+              "value": "6.0s"
+            },
+            {
+              "name": "Namisen DMG Bonus",
+              "values": [
+                "0.56%Max HP/Stack",
+                "0.61%Max HP/Stack",
+                "0.65%Max HP/Stack",
+                "0.72%Max HP/Stack",
+                "0.76%Max HP/Stack",
+                "0.82%Max HP/Stack",
+                "0.89%Max HP/Stack",
+                "0.96%Max HP/Stack",
+                "1.03%Max HP/Stack",
+                "1.11%Max HP/Stack",
+                "1.19%Max HP/Stack",
+                "1.27%Max HP/Stack",
+                "1.34%Max HP/Stack"
+              ]
+            },
+            {
+              "name": "Water Illusion DMG",
+              "values": [
+                "101.5%",
+                "109.7%",
+                "118.0%",
+                "129.8%",
+                "138.1%",
+                "147.5%",
+                "160.5%",
+                "173.5%",
+                "186.4%",
+                "200.6%",
+                "214.8%",
+                "228.9%",
+                "243.1%"
+              ]
+            },
+            {
+              "name": "Water Illusion Duration",
+              "value": "6s"
+            },
+            {
+              "name": "CD",
+              "value": "12.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Kamisato Art: Suiyuu",
+        "desc": "Unveils a garden of purity that silences the cacophony within.\nWhile this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing **Hydro DMG** and increasing the Normal Attack DMG of characters within.\n\n**\"I can see them, you know. The ripples of your beating heart within this realm of still waters.\"**",
+        "talentTable": [
+          {
+            "name": "Bloomwater Blade DMG",
+            "values": [
+              "66.5%",
+              "71.4%",
+              "76.4%",
+              "83.1%",
+              "88.1%",
+              "93.0%",
+              "99.7%",
+              "106.3%",
+              "113.0%",
+              "119.6%",
+              "126.3%",
+              "132.9%",
+              "141.2%"
+            ]
+          },
+          {
+            "name": "Normal Attack DMG Bonus",
+            "values": [
+              "11.0%",
+              "12.0%",
+              "13.0%",
+              "14.0%",
+              "15.0%",
+              "16.0%",
+              "17.0%",
+              "18.0%",
+              "19.0%",
+              "20.0%",
+              "20.0%",
+              "20.0%",
+              "20.0%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "18.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Hydro"
+      },
+      "passive": [
+        {
+          "name": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+          "desc": "**Kamisato Art: Kyouka** has the following properties:\n·After it is used, Kamisato Ayato will gain 2 Namisen stacks.\n·When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible.",
+          "minAscension": 1
+        },
+        {
+          "name": "Kamisato Art: Michiyuku Hagetsu",
+          "desc": "If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.",
+          "minAscension": 4
+        },
+        {
+          "name": "Kamisato Art: Daily Cooking",
+          "desc": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Kyouka Fuushi",
+          "desc": "**Shunsuiken** DMG is increased by 40% against opponents with 50% HP or less."
+        },
+        {
+          "name": "World Source",
+          "desc": "**Namisen**'s maximum stack count is increased to 5. When Kamisato Ayato has at least 3 Namisen stacks, his Max HP is increased by 50%."
+        },
+        {
+          "name": "To Admire the Flowers",
+          "desc": "Increases the Level of **Kamisato Art: Kyouka** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Endless Flow",
+          "desc": "After using **Kamisato Art: Suiyuu**, all nearby party members will have 15% increased Normal Attack SPD for 15s."
+        },
+        {
+          "name": "Bansui Ichiro",
+          "desc": "Increases the Level of **Kamisato Art: Suiyuu** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Boundless Origin",
+          "desc": "After using **Kamisato Art: Kyouka**, Ayato's next Shunsuiken attack will create 2 extra Shunsuiken strikes when they hit opponents, each one dealing 450% of Ayato's ATK as DMG.\nBoth these Shunsuiken attacks will not be affected by Namisen."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 915.472
+        },
+        {
+          "stat": "Base DEF",
+          "value": 51.3
+        },
+        {
+          "stat": "Base ATK",
+          "value": 19.95475
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1565.939
+        },
+        {
+          "stat": "Base DEF",
+          "value": 87.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 34.13312530517578
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2433.228271484375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 136.35
+        },
+        {
+          "stat": "Base ATK",
+          "value": 53.03762435913086
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3083.695
+        },
+        {
+          "stat": "Base DEF",
+          "value": 172.8
+        },
+        {
+          "stat": "Base ATK",
+          "value": 67.216
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3734.162
+        },
+        {
+          "stat": "Base DEF",
+          "value": 209.25
+        },
+        {
+          "stat": "Base ATK",
+          "value": 81.39438
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4384.629
+        },
+        {
+          "stat": "Base DEF",
+          "value": 245.7
+        },
+        {
+          "stat": "Base ATK",
+          "value": 95.57275
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

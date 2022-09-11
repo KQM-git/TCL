@@ -1,0 +1,513 @@
+{
+  "name": "Razor",
+  "desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1002.9701,
+    "attackBase": 19.5888,
+    "defenseBase": 62.9475,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Steel Fang",
+          "desc": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "95.9%",
+                "102.5%",
+                "109.0%",
+                "117.7%",
+                "124.3%",
+                "131.9%",
+                "141.7%",
+                "151.5%",
+                "161.3%",
+                "171.1%",
+                "180.9%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "82.6%",
+                "88.3%",
+                "93.9%",
+                "101.4%",
+                "107.0%",
+                "113.6%",
+                "122.1%",
+                "130.5%",
+                "139.0%",
+                "147.4%",
+                "155.9%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "103%",
+                "110%",
+                "117%",
+                "127%",
+                "134%",
+                "142%",
+                "153%",
+                "163%",
+                "174%",
+                "184%",
+                "195%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "136%",
+                "145%",
+                "155%",
+                "167%",
+                "176%",
+                "187%",
+                "201%",
+                "215%",
+                "229%",
+                "243%",
+                "257%"
+              ]
+            },
+            {
+              "name": "Charged Attack Cyclic DMG",
+              "values": [
+                "62.5%",
+                "67.6%",
+                "72.7%",
+                "80.0%",
+                "85.1%",
+                "90.9%",
+                "98.9%",
+                "106.9%",
+                "114.9%",
+                "123.6%",
+                "132.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "values": [
+                "113%",
+                "122%",
+                "132%",
+                "145%",
+                "154%",
+                "164%",
+                "179%",
+                "193%",
+                "208%",
+                "224%",
+                "239%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "82.0%",
+                "88.7%",
+                "95.4%",
+                "104.9%",
+                "111.6%",
+                "119.3%",
+                "129.7%",
+                "140.2%",
+                "150.7%",
+                "162.2%",
+                "173.6%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "164%/205%",
+                "177%/222%",
+                "191%/238%",
+                "210%/262%",
+                "223%/279%",
+                "238%/298%",
+                "259%/324%",
+                "280%/350%",
+                "301%/376%",
+                "324%/405%",
+                "347%/434%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Claw and Thunder",
+          "desc": "Hunts his prey using the techniques taught to him by his master and his lupical.\n\n**Press**\nSwings the Thunder Wolf Claw, dealing **Electro DMG** to opponents in front of Razor.\nUpon striking an opponent, Razor will gain an Electro Sigil, which increases his Energy Recharge rate.\nRazor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.\n\n**Hold**\nGathers Electro energy to unleash a lightning storm over a small AoE, causing massive **Electro DMG**, and clears all of Razor's Electro Sigils.\nEach Electro Sigil cleared in this manner will be converted into Energy for Razor.\n\n**In the moment when lightning strikes, you can sometimes glimpse the look of a predator sizing up his prey deep within Razor's eyes.**",
+          "talentTable": [
+            {
+              "name": "Press Skill DMG",
+              "values": [
+                "199%",
+                "214%",
+                "229%",
+                "249%",
+                "264%",
+                "279%",
+                "299%",
+                "319%",
+                "339%",
+                "359%",
+                "378%",
+                "398%",
+                "423%"
+              ]
+            },
+            {
+              "name": "Hold Skill DMG",
+              "values": [
+                "295%",
+                "317%",
+                "339%",
+                "369%",
+                "391%",
+                "413%",
+                "443%",
+                "472%",
+                "502%",
+                "531%",
+                "561%",
+                "590%",
+                "627%"
+              ]
+            },
+            {
+              "name": "Energy Recharge Bonus",
+              "value": "20% per Electro Sigil"
+            },
+            {
+              "name": "Energy Regenerated",
+              "value": "5.0 per Electro Sigil Absorbed"
+            },
+            {
+              "name": "Electro Sigil duration",
+              "value": "18.0s"
+            },
+            {
+              "name": "Press CD",
+              "value": "6.0s"
+            },
+            {
+              "name": "CD (hold)",
+              "value": "10.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Lightning Fang",
+        "desc": "Summons the Wolf Within, which deals **Electro DMG** to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into Elemental Energy for him.\nThe Wolf Within will fight alongside Razor for the skill's duration.\n\n**The Wolf Within**\n·Strikes alongside Razor's normal attacks, dealing **Electro DMG**.\n·Raises Razor's ATK SPD and **Electro RES**.\n·Causes Razor to be immune to DMG inflicted by the **Electro-Charged** status.\n·Disables Razor's Charged Attacks.\n·Increases Razor's resistance to interruption.\n\nThese effects end when Razor leaves the battlefield.\nWhen Razor leaves the field, a maximum of 10 Energy will be returned to him based off the duration remaining on this skill.\n\n**The wolf has awoken. The hunt is on.**",
+        "talentTable": [
+          {
+            "name": "Burst DMG",
+            "values": [
+              "160%",
+              "172%",
+              "184%",
+              "200%",
+              "212%",
+              "224%",
+              "240%",
+              "256%",
+              "272%",
+              "288%",
+              "304%",
+              "320%",
+              "340%"
+            ]
+          },
+          {
+            "name": "Soul Companion DMG",
+            "values": [
+              "24.0% Normal Attack DMG",
+              "25.8% Normal Attack DMG",
+              "27.6% Normal Attack DMG",
+              "30.0% Normal Attack DMG",
+              "31.8% Normal Attack DMG",
+              "33.6% Normal Attack DMG",
+              "36.0% Normal Attack DMG",
+              "38.4% Normal Attack DMG",
+              "40.8% Normal Attack DMG",
+              "43.2% Normal Attack DMG",
+              "45.6% Normal Attack DMG",
+              "48.0% Normal Attack DMG",
+              "51.0% Normal Attack DMG"
+            ]
+          },
+          {
+            "name": "Normal ATK SPD Bonus",
+            "values": [
+              "26%",
+              "28%",
+              "30%",
+              "32%",
+              "34%",
+              "36%",
+              "37%",
+              "38%",
+              "39%",
+              "40%",
+              "40%",
+              "40%",
+              "40%"
+            ]
+          },
+          {
+            "name": "Electro RES Bonus",
+            "value": "80%"
+          },
+          {
+            "name": "Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Electro"
+      },
+      "passive": [
+        {
+          "name": "Awakening",
+          "desc": "Decreases **Claw and Thunder**'s CD by 18%.\nUsing **Lightning Fang** resets the CD of **Claw and Thunder**.",
+          "minAscension": 1
+        },
+        {
+          "name": "Hunger",
+          "desc": "When Razor's Energy is below 50%, increases Energy Recharge by 30%.",
+          "minAscension": 4
+        },
+        {
+          "name": "Wolvensprint",
+          "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Wolf's Instinct",
+          "desc": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+        },
+        {
+          "name": "Suppression",
+          "desc": "Increases CRIT Rate against opponents with less than 30% HP by 10%."
+        },
+        {
+          "name": "Soul Companion",
+          "desc": "Increases the Level of **Lightning Fang** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Bite",
+          "desc": "When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s."
+        },
+        {
+          "name": "Sharpened Claws",
+          "desc": "Increases the Level of **Claw and Thunder** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Lupus Fulguris",
+          "desc": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.\nWhen Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an Electro Sigil for **Claw and Thunder**."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 749.27
+        },
+        {
+          "stat": "Base DEF",
+          "value": 47.025
+        },
+        {
+          "stat": "Base ATK",
+          "value": 14.63418
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1281.6461
+        },
+        {
+          "stat": "Base DEF",
+          "value": 80.4375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 25.03215
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0.075
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1991.4808
+        },
+        {
+          "stat": "Base DEF",
+          "value": 124.9875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 38.89611
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2523.857
+        },
+        {
+          "stat": "Base DEF",
+          "value": 158.4
+        },
+        {
+          "stat": "Base ATK",
+          "value": 49.29408
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3056.233
+        },
+        {
+          "stat": "Base DEF",
+          "value": 191.8125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.69205
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0.225
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3588.609130859375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 225.225
+        },
+        {
+          "stat": "Base ATK",
+          "value": 70.09002
+        },
+        {
+          "stat": "Physical DMG Bonus",
+          "value": 0.3
+        }
+      ]
+    }
+  ]
+}

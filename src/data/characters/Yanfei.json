@@ -1,0 +1,433 @@
+{
+  "name": "Yanfei",
+  "desc": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+  "star": 4,
+  "weaponType": "Catalyst",
+  "baseStats": {
+    "hpBase": 784.1402587890625,
+    "attackBase": 20.12304,
+    "defenseBase": 49.2135,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Seal of Approval",
+          "desc": "**Normal Attack**\nShoots fireballs that deal up to three counts of **Pyro DMG**.\nWhen Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.\nEach Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.\n\n**Charged Attack**\nConsumes Stamina and all Scarlet Seals before dealing **AoE Pyro DMG** to opponents after a short casting time.\nThis Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.\n\n**Plunging Attack**\nGathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Pyro DMG** upon impact with the ground.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "58.3%",
+                "62.7%",
+                "67.1%",
+                "72.9%",
+                "77.3%",
+                "81.7%",
+                "87.5%",
+                "93.3%",
+                "99.2%",
+                "105.0%",
+                "110.8%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "52.1%",
+                "56.0%",
+                "59.9%",
+                "65.2%",
+                "69.1%",
+                "73.0%",
+                "78.2%",
+                "83.4%",
+                "88.6%",
+                "93.8%",
+                "99.0%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "76.0%",
+                "81.7%",
+                "87.4%",
+                "95.0%",
+                "100.7%",
+                "106.4%",
+                "114.0%",
+                "121.6%",
+                "129.2%",
+                "136.8%",
+                "144.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack",
+              "values": [
+                "98%/116%/133%/150%/168%",
+                "104%/122%/141%/159%/178%",
+                "110%/129%/149%/168%/188%",
+                "118%/138%/159%/180%/201%",
+                "124%/145%/167%/189%/211%",
+                "129%/152%/175%/198%/221%",
+                "137%/161%/185%/210%/234%",
+                "145%/170%/196%/221%/247%",
+                "152%/179%/206%/233%/260%",
+                "160%/188%/216%/245%/273%",
+                "168%/197%/227%/256%/286%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "50.0"
+            },
+            {
+              "name": "Scarlet Seal Stamina Consumption Decrease",
+              "value": "15.0% Per Seal"
+            },
+            {
+              "name": "Scarlet Seal Duration",
+              "value": "10.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Signed Edict",
+          "desc": "Summons blistering flames that deal **AoE Pyro DMG**.\nOpponents hit by the flames will grant Yanfei the maximum number of Scarlet Seals.\n\n**Apart from their legal uses, Yanfei's seals also come with her customized additional terms and conditions. Well, it's not as if the Ministry of Civil Affairs can change the laws of nature.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "170%",
+                "182%",
+                "195%",
+                "212%",
+                "225%",
+                "237%",
+                "254%",
+                "271%",
+                "288%",
+                "305%",
+                "322%",
+                "339%",
+                "360%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "9.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Done Deal",
+        "desc": "Triggers a spray of intense flames that rush at nearby opponents, dealing **AoE Pyro DMG**, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.\n\n**Brilliance**\nHas the following effects:\n·Grants Yanfei a Scarlet Seal at fixed intervals.\n·Increases the DMG dealt by her Charged Attacks.\nThe effects of Brilliance will end if Yanfei leaves the field or falls in battle.\n\n**\"Here are the full terms for this matter of life and death — by which I mean my life and your death!\"**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "182%",
+              "196%",
+              "210%",
+              "228%",
+              "242%",
+              "255%",
+              "274%",
+              "292%",
+              "310%",
+              "328%",
+              "347%",
+              "365%",
+              "388%"
+            ]
+          },
+          {
+            "name": "Scarlet Seal Grant Interval",
+            "value": "1.0s"
+          },
+          {
+            "name": "Charged Attack DMG Bonus",
+            "values": [
+              "33%",
+              "35%",
+              "37%",
+              "40%",
+              "42%",
+              "44%",
+              "47%",
+              "49%",
+              "52%",
+              "54%",
+              "57%",
+              "60%",
+              "62%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Pyro"
+      },
+      "passive": [
+        {
+          "name": "Proviso",
+          "desc": "When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's **Pyro DMG Bonus** by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.",
+          "minAscension": 1
+        },
+        {
+          "name": "Blazing Eye",
+          "desc": "When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG** equal to 80% of her ATK. This DMG counts as Charged Attack DMG.",
+          "minAscension": 4
+        },
+        {
+          "name": "Encyclopedic Expertise",
+          "desc": "Displays the location of nearby **resources unique to Liyue** on the mini-map.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "The Law Knows No Kindness",
+          "desc": "When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release."
+        },
+        {
+          "name": "Right of Final Interpretation",
+          "desc": "Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP."
+        },
+        {
+          "name": "Samadhi Fire-Forged",
+          "desc": "Increases the Level of **Signed Edict** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Supreme Amnesty",
+          "desc": "When **Done Deal** is used:\nCreates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\nThis shield absorbs **Pyro DMG** 250% more effectively."
+        },
+        {
+          "name": "Abiding Affidavit",
+          "desc": "Increases the Level of **Done Deal** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Extra Clause",
+          "desc": "Increases the maximum number of Scarlet Seals by 1."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 585.7929
+        },
+        {
+          "stat": "Base DEF",
+          "value": 36.765
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.033294
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1002.0142
+        },
+        {
+          "stat": "Base DEF",
+          "value": 62.8875
+        },
+        {
+          "stat": "Base ATK",
+          "value": 25.714845657348633
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1556.976
+        },
+        {
+          "stat": "Base DEF",
+          "value": 97.7175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 39.956912994384766
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1973.1973
+        },
+        {
+          "stat": "Base DEF",
+          "value": 123.84
+        },
+        {
+          "stat": "Base ATK",
+          "value": 50.638465881347656
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2389.41845703125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 149.9625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 61.32001495361328
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2805.64
+        },
+        {
+          "stat": "Base DEF",
+          "value": 176.085
+        },
+        {
+          "stat": "Base ATK",
+          "value": 72.0015640258789
+        },
+        {
+          "stat": "Pyro DMG Bonus",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

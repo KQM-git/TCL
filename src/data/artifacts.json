@@ -1,0 +1,519 @@
+{
+  "Adventurer": {
+    "name": "Adventurer",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Max HP increased by 1000."
+      },
+      {
+        "count": 4,
+        "desc": "Opening a chest regenerates 30% Max HP over 5s."
+      }
+    ]
+  },
+  "Lucky Dog": {
+    "name": "Lucky Dog",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "DEF increased by 100."
+      },
+      {
+        "count": 4,
+        "desc": "Picking up Mora restores 300 HP."
+      }
+    ]
+  },
+  "Traveling Doctor": {
+    "name": "Traveling Doctor",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases incoming healing by 20%."
+      },
+      {
+        "count": 4,
+        "desc": "Using Elemental Burst restores 20% HP."
+      }
+    ]
+  },
+  "Resolution of Sojourner": {
+    "name": "Resolution of Sojourner",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "Increases Charged Attack CRIT Rate by 30%."
+      }
+    ]
+  },
+  "Tiny Miracle": {
+    "name": "Tiny Miracle",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "All Elemental RES increased by 20%."
+      },
+      {
+        "count": 4,
+        "desc": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
+      }
+    ]
+  },
+  "Berserker": {
+    "name": "Berserker",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "CRIT Rate +12%"
+      },
+      {
+        "count": 4,
+        "desc": "When HP is below 70%, CRIT Rate increases by an additional 24%."
+      }
+    ]
+  },
+  "Instructor": {
+    "name": "Instructor",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Elemental Mastery by 80."
+      },
+      {
+        "count": 4,
+        "desc": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."
+      }
+    ]
+  },
+  "The Exile": {
+    "name": "The Exile",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Energy Recharge +20%"
+      },
+      {
+        "count": 4,
+        "desc": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."
+      }
+    ]
+  },
+  "Defender's Will": {
+    "name": "Defender's Will",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "DEF +30%"
+      },
+      {
+        "count": 4,
+        "desc": "For each different element present in your own party, the wearer's Elemental RES to that corresponding element is increased by 30%."
+      }
+    ]
+  },
+  "Brave Heart": {
+    "name": "Brave Heart",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "Increases DMG by 30% against opponents with more than 50% HP."
+      }
+    ]
+  },
+  "Martial Artist": {
+    "name": "Martial Artist",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Normal Attack and Charged Attack DMG by 15%."
+      },
+      {
+        "count": 4,
+        "desc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."
+      }
+    ]
+  },
+  "Gambler": {
+    "name": "Gambler",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Elemental Skill DMG by 20%."
+      },
+      {
+        "count": 4,
+        "desc": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."
+      }
+    ]
+  },
+  "Scholar": {
+    "name": "Scholar",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Energy Recharge +20%"
+      },
+      {
+        "count": 4,
+        "desc": "Gaining Elemental Particles or Orbs gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occur once every 3s."
+      }
+    ]
+  },
+  "Prayers for Illumination": {
+    "name": "Prayers for Illumination",
+    "bonuses": [
+      {
+        "count": 1,
+        "desc": "Affected by Pyro for 40% less time."
+      }
+    ]
+  },
+  "Prayers for Destiny": {
+    "name": "Prayers for Destiny",
+    "bonuses": [
+      {
+        "count": 1,
+        "desc": "Affected by Hydro for 40% less time."
+      }
+    ]
+  },
+  "Prayers for Wisdom": {
+    "name": "Prayers for Wisdom",
+    "bonuses": [
+      {
+        "count": 1,
+        "desc": "Affected by Electro for 40% less time."
+      }
+    ]
+  },
+  "Prayers to Springtime": {
+    "name": "Prayers to Springtime",
+    "bonuses": [
+      {
+        "count": 1,
+        "desc": "Affected by Cryo for 40% less time."
+      }
+    ]
+  },
+  "Blizzard Strayer": {
+    "name": "Blizzard Strayer",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Cryo DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+      }
+    ]
+  },
+  "Thundersoother": {
+    "name": "Thundersoother",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Electro RES increased by 40%."
+      },
+      {
+        "count": 4,
+        "desc": "Increases DMG against opponents affected by Electro by 35%."
+      }
+    ]
+  },
+  "Lavawalker": {
+    "name": "Lavawalker",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Pyro RES increased by 40%."
+      },
+      {
+        "count": 4,
+        "desc": "Increases DMG against opponents affected by Pyro by 35%."
+      }
+    ]
+  },
+  "Maiden Beloved": {
+    "name": "Maiden Beloved",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Character Healing Effectiveness +15%"
+      },
+      {
+        "count": 4,
+        "desc": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+      }
+    ]
+  },
+  "Gladiator's Finale": {
+    "name": "Gladiator's Finale",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."
+      }
+    ]
+  },
+  "Viridescent Venerer": {
+    "name": "Viridescent Venerer",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Anemo DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+      }
+    ]
+  },
+  "Wanderer's Troupe": {
+    "name": "Wanderer's Troupe",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Elemental Mastery by 80."
+      },
+      {
+        "count": 4,
+        "desc": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."
+      }
+    ]
+  },
+  "Thundering Fury": {
+    "name": "Thundering Fury",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Electro DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s."
+      }
+    ]
+  },
+  "Crimson Witch of Flames": {
+    "name": "Crimson Witch of Flames",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Pyro DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "Increases Overloaded and Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."
+      }
+    ]
+  },
+  "Noblesse Oblige": {
+    "name": "Noblesse Oblige",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Elemental Burst DMG +20%"
+      },
+      {
+        "count": 4,
+        "desc": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."
+      }
+    ]
+  },
+  "Bloodstained Chivalry": {
+    "name": "Bloodstained Chivalry",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Physical DMG +25%"
+      },
+      {
+        "count": 4,
+        "desc": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."
+      }
+    ]
+  },
+  "Archaic Petra": {
+    "name": "Archaic Petra",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Gain a 15% Geo DMG Bonus."
+      },
+      {
+        "count": 4,
+        "desc": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time."
+      }
+    ]
+  },
+  "Retracing Bolide": {
+    "name": "Retracing Bolide",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Increases Shield Strength by 35%."
+      },
+      {
+        "count": 4,
+        "desc": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+      }
+    ]
+  },
+  "Heart of Depth": {
+    "name": "Heart of Depth",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Hydro DMG Bonus +15%"
+      },
+      {
+        "count": 4,
+        "desc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."
+      }
+    ]
+  },
+  "Tenacity of the Millelith": {
+    "name": "Tenacity of the Millelith",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "HP increased by 20%."
+      },
+      {
+        "count": 4,
+        "desc": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+      }
+    ]
+  },
+  "Pale Flame": {
+    "name": "Pale Flame",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Physical DMG is increased by 25%."
+      },
+      {
+        "count": 4,
+        "desc": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
+      }
+    ]
+  },
+  "Shimenawa's Reminiscence": {
+    "name": "Shimenawa's Reminiscence",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."
+      }
+    ]
+  },
+  "Emblem of Severed Fate": {
+    "name": "Emblem of Severed Fate",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Energy Recharge +20%"
+      },
+      {
+        "count": 4,
+        "desc": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."
+      }
+    ]
+  },
+  "Husk of Opulent Dreams": {
+    "name": "Husk of Opulent Dreams",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "DEF +30%"
+      },
+      {
+        "count": 4,
+        "desc": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost."
+      }
+    ]
+  },
+  "Ocean-Hued Clam": {
+    "name": "Ocean-Hued Clam",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Healing Bonus +15%."
+      },
+      {
+        "count": 4,
+        "desc": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field."
+      }
+    ]
+  },
+  "Vermillion Hereafter": {
+    "name": "Vermillion Hereafter",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."
+      }
+    ]
+  },
+  "Echoes of an Offering": {
+    "name": "Echoes of an Offering",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "ATK +18%."
+      },
+      {
+        "count": 4,
+        "desc": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."
+      }
+    ]
+  },
+  "Deepwood Memories": {
+    "name": "Deepwood Memories",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Dendro DMG Bonus +15%."
+      },
+      {
+        "count": 4,
+        "desc": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."
+      }
+    ]
+  },
+  "Gilded Dreams": {
+    "name": "Gilded Dreams",
+    "bonuses": [
+      {
+        "count": 2,
+        "desc": "Elemental Mastery +80."
+      },
+      {
+        "count": 4,
+        "desc": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members. ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field."
+      }
+    ]
+  }
+}

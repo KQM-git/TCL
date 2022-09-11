@@ -1,0 +1,527 @@
+{
+  "name": "Zhongli",
+  "desc": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+  "star": 5,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 1143.984,
+    "attackBase": 19.551,
+    "defenseBase": 57.4368,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Rain of Stone",
+          "desc": "**Normal Attack**\nPerforms up to 6 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "30.8%",
+                "33.3%",
+                "35.8%",
+                "39.4%",
+                "41.9%",
+                "44.7%",
+                "48.7%",
+                "52.6%",
+                "56.5%",
+                "60.8%",
+                "65.7%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "31.2%",
+                "33.7%",
+                "36.2%",
+                "39.8%",
+                "42.4%",
+                "45.3%",
+                "49.3%",
+                "53.2%",
+                "57.2%",
+                "61.6%",
+                "66.6%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "38.6%",
+                "41.7%",
+                "44.9%",
+                "49.3%",
+                "52.5%",
+                "56.1%",
+                "61.0%",
+                "65.9%",
+                "70.9%",
+                "76.3%",
+                "82.4%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "42.9%",
+                "46.4%",
+                "49.9%",
+                "54.9%",
+                "58.4%",
+                "62.4%",
+                "67.9%",
+                "73.4%",
+                "78.9%",
+                "84.9%",
+                "91.7%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "10.8%×4",
+                "11.6%×4",
+                "12.5%×4",
+                "13.8%×4",
+                "14.6%×4",
+                "15.6%×4",
+                "17.0%×4",
+                "18.4%×4",
+                "19.8%×4",
+                "21.3%×4",
+                "23.0%×4"
+              ]
+            },
+            {
+              "name": "6-Hit DMG",
+              "values": [
+                "54.5%",
+                "58.9%",
+                "63.4%",
+                "69.7%",
+                "74.1%",
+                "79.2%",
+                "86.2%",
+                "93.2%",
+                "100.1%",
+                "107.7%",
+                "116.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "111%",
+                "120%",
+                "129%",
+                "142%",
+                "151%",
+                "161%",
+                "176%",
+                "190%",
+                "204%",
+                "219%",
+                "237%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "25.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "63.9%",
+                "69.1%",
+                "74.3%",
+                "81.8%",
+                "87.0%",
+                "92.9%",
+                "101.1%",
+                "109.3%",
+                "117.5%",
+                "126.4%",
+                "135.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dominus Lapidis",
+          "desc": "Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.\n\n**Press**\nCommands the power of earth to create a Stone Stele.\n\n**Hold**\nCauses nearby Geo energy to explode, causing the following effects:\n·If their maximum number hasn't been reached, creates a Stone Stele.\n·Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.\n·Deals **AoE Geo DMG**.\n·If there are nearby targets with the **Geo element**, it will drain a large amount of **Geo element** from a maximum of 2 such targets. This effect does not cause DMG.\n\n**Stone Stele**\nWhen created, deals **AoE Geo DMG**.\nAdditionally, it will intermittently resonate with other nearby **Geo constructs**, dealing **Geo DMG** to nearby opponents.\nThe Stone Stele is considered a **Geo construct** that can both be climbed and used to block attacks.\nOnly one Stele created by Zhongli himself may initially exist at any one time.\n\n**Jade Shield**\nPossesses 150% DMG Absorption against all Elemental and Physical DMG.\nCharacters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked.\n\n**A true master of stone may carve jade and shape gold.**",
+          "talentTable": [
+            {
+              "name": "Stone Stele/Resonance DMG",
+              "values": [
+                "16.0%/32.0%",
+                "17.2%/34.4%",
+                "18.4%/36.8%",
+                "20.0%/40.0%",
+                "21.2%/42.4%",
+                "22.4%/44.8%",
+                "24.0%/48.0%",
+                "25.6%/51.2%",
+                "27.2%/54.4%",
+                "28.8%/57.6%",
+                "30.4%/60.8%",
+                "32.0%/64.0%",
+                "34.0%/68.0%"
+              ]
+            },
+            {
+              "name": "Press CD",
+              "value": "4.0s"
+            },
+            {
+              "name": "Hold DMG",
+              "values": [
+                "80%",
+                "86%",
+                "92%",
+                "100%",
+                "106%",
+                "112%",
+                "120%",
+                "128%",
+                "136%",
+                "144%",
+                "152%",
+                "160%",
+                "170%"
+              ]
+            },
+            {
+              "name": "Shield Base Absorption",
+              "values": [
+                "1232",
+                "1356",
+                "1489",
+                "1633",
+                "1787",
+                "1951",
+                "2126",
+                "2311",
+                "2506",
+                "2712",
+                "2927",
+                "3153",
+                "3389"
+              ]
+            },
+            {
+              "name": "Additional Shield Absorption",
+              "values": [
+                "12.8% Max HP",
+                "13.8% Max HP",
+                "14.7% Max HP",
+                "16.0% Max HP",
+                "17.0% Max HP",
+                "17.9% Max HP",
+                "19.2% Max HP",
+                "20.5% Max HP",
+                "21.8% Max HP",
+                "23.0% Max HP",
+                "24.3% Max HP",
+                "25.6% Max HP",
+                "27.2% Max HP"
+              ]
+            },
+            {
+              "name": "Shield Duration",
+              "value": "20.0s"
+            },
+            {
+              "name": "CD (hold)",
+              "value": "12.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Planet Befall",
+        "desc": "Brings a falling meteor down to earth, dealing massive **Geo DMG** to opponents caught in its AoE and applying the **Petrification** status to them.\n\n**Petrification**\nOpponents affected by the **Petrification** status cannot move.\n\n**The falling meteor punishes the unjust.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "401%",
+              "444%",
+              "488%",
+              "542%",
+              "591%",
+              "640%",
+              "705%",
+              "770%",
+              "835%",
+              "900%",
+              "965%",
+              "1030%",
+              "1084%"
+            ]
+          },
+          {
+            "name": "Petrification Duration",
+            "values": [
+              "3.1s",
+              "3.2s",
+              "3.3s",
+              "3.4s",
+              "3.5s",
+              "3.6s",
+              "3.7s",
+              "3.8s",
+              "3.9s",
+              "4.0s",
+              "4.0s",
+              "4.0s",
+              "4.0s"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "12.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "40"
+          }
+        ],
+        "type": "Geo"
+      },
+      "passive": [
+        {
+          "name": "Resonant Waves",
+          "desc": "When the Jade Shield takes DMG, it will Fortify:\n·Fortified characters have 5% increased Shield Strength.\nCan stack up to 5 times, and lasts until the Jade Shield disappears.",
+          "minAscension": 1
+        },
+        {
+          "name": "Dominance of Earth",
+          "desc": "Zhongli deals bonus DMG based on his Max HP:\n·Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.\n·**Dominus Lapidis'** Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.\n·**Planet Befall's** DMG is increased by 33% of Max HP.",
+          "minAscension": 4
+        },
+        {
+          "name": "Arcanum of Crystal",
+          "desc": "Refunds 15% of the ore used when crafting Polearm-type weapons.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Rock, the Backbone of Earth",
+          "desc": "Increases the maximum number of Stone Steles created by **Dominus Lapidis** that may exist simultaneously to 2."
+        },
+        {
+          "name": "Stone, the Cradle of Jade",
+          "desc": "**Planet Befall** grants nearby characters on the field a Jade Shield when it descends."
+        },
+        {
+          "name": "Jade, Shimmering through Darkness",
+          "desc": "Increases the Level of **Dominus Lapidis** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Topaz, Unbreakable and Fearless",
+          "desc": "Increases **Planet Befall**'s AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s."
+        },
+        {
+          "name": "Lazuli, Herald of the Order",
+          "desc": "Increases the Level of **Planet Befall** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Chrysos, Bounty of Dominator",
+          "desc": "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.\nA single instance of regeneration cannot exceed 8% of that character's Max HP."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 980.8628
+        },
+        {
+          "stat": "Base DEF",
+          "value": 49.248
+        },
+        {
+          "stat": "Base ATK",
+          "value": 16.762
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1677.791748046875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 84.24
+        },
+        {
+          "stat": "Base ATK",
+          "value": 28.6718
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2607.0302734375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 130.896
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.5516
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3303.959
+        },
+        {
+          "stat": "Base DEF",
+          "value": 165.888
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.4614
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4000.888
+        },
+        {
+          "stat": "Base DEF",
+          "value": 200.88
+        },
+        {
+          "stat": "Base ATK",
+          "value": 68.3713
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.216
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4697.817
+        },
+        {
+          "stat": "Base DEF",
+          "value": 235.872
+        },
+        {
+          "stat": "Base ATK",
+          "value": 80.2811
+        },
+        {
+          "stat": "Geo DMG Bonus",
+          "value": 0.288
+        }
+      ]
+    }
+  ]
+}

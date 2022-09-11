@@ -1,0 +1,511 @@
+{
+  "name": "Qiqi",
+  "desc": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 962.8532,
+    "attackBase": 22.344,
+    "defenseBase": 71.796,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Ancient Sword Art",
+          "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "37.8%",
+                "40.8%",
+                "43.9%",
+                "48.3%",
+                "51.4%",
+                "54.9%",
+                "59.7%",
+                "64.5%",
+                "69.4%",
+                "74.6%",
+                "79.9%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "38.9%",
+                "42.0%",
+                "45.2%",
+                "49.7%",
+                "52.9%",
+                "56.5%",
+                "61.5%",
+                "66.4%",
+                "71.4%",
+                "76.8%",
+                "82.3%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "24.2%+24.2%",
+                "26.1%+26.1%",
+                "28.1%+28.1%",
+                "30.9%+30.9%",
+                "32.9%+32.9%",
+                "35.1%+35.1%",
+                "38.2%+38.2%",
+                "41.3%+41.3%",
+                "44.4%+44.4%",
+                "47.8%+47.8%",
+                "51.1%+51.1%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "24.7%+24.7%",
+                "26.7%+26.7%",
+                "28.7%+28.7%",
+                "31.6%+31.6%",
+                "33.6%+33.6%",
+                "35.9%+35.9%",
+                "39.0%+39.0%",
+                "42.2%+42.2%",
+                "45.3%+45.3%",
+                "48.8%+48.8%",
+                "52.2%+52.2%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "63.0%",
+                "68.2%",
+                "73.3%",
+                "80.6%",
+                "85.8%",
+                "91.6%",
+                "99.7%",
+                "107.8%",
+                "115.8%",
+                "124.6%",
+                "133.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "64.3%+64.3%",
+                "69.6%+69.6%",
+                "74.8%+74.8%",
+                "82.3%+82.3%",
+                "87.5%+87.5%",
+                "93.5%+93.5%",
+                "101.7%+101.7%",
+                "110.0%+110.0%",
+                "118.2%+118.2%",
+                "127.2%+127.2%",
+                "136.1%+136.1%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "20.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "63.9%",
+                "69.1%",
+                "74.3%",
+                "81.8%",
+                "87.0%",
+                "92.9%",
+                "101.1%",
+                "109.3%",
+                "117.5%",
+                "126.4%",
+                "135.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Adeptus Art: Herald of Frost",
+          "desc": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing **Cryo DMG** to surrounding opponents.\n\n**Herald of Frost**\n·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK.\n·Periodically regenerates your active character's HP.\n·Follows the character around, dealing **Cryo DMG** to opponents in their path.\n\n**I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "96%",
+                "103%",
+                "110%",
+                "120%",
+                "127%",
+                "134%",
+                "144%",
+                "154%",
+                "163%",
+                "173%",
+                "182%",
+                "192%",
+                "204%"
+              ]
+            },
+            {
+              "name": "Regeneration on Hit",
+              "values": [
+                "10.56% ATK+67",
+                "11.35% ATK+74",
+                "12.14% ATK+81",
+                "13.20% ATK+89",
+                "13.99% ATK+98",
+                "14.78% ATK+107",
+                "15.84% ATK+116",
+                "16.90% ATK+126",
+                "17.95% ATK+137",
+                "19.01% ATK+148",
+                "20.06% ATK+160",
+                "21.12% ATK+172",
+                "22.44% ATK+185"
+              ]
+            },
+            {
+              "name": "Continuous Regeneration",
+              "values": [
+                "69.60% ATK+451",
+                "74.82% ATK+496",
+                "80.04% ATK+544",
+                "87.00% ATK+597",
+                "92.22% ATK+653",
+                "97.44% ATK+713",
+                "104.40% ATK+777",
+                "111.36% ATK+845",
+                "118.32% ATK+916",
+                "125.28% ATK+991",
+                "132.24% ATK+1070",
+                "139.20% ATK+1153",
+                "147.90% ATK+1239"
+              ]
+            },
+            {
+              "name": "Herald of Frost DMG",
+              "values": [
+                "36.0%",
+                "38.7%",
+                "41.4%",
+                "45.0%",
+                "47.7%",
+                "50.4%",
+                "54.0%",
+                "57.6%",
+                "61.2%",
+                "64.8%",
+                "68.4%",
+                "72.0%",
+                "76.5%"
+              ]
+            },
+            {
+              "name": "Duration",
+              "value": "15.0s"
+            },
+            {
+              "name": "CD",
+              "value": "30.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Adeptus Art: Preserver of Fortune",
+        "desc": "Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals **Cryo DMG**.\n\n**Fortune-Preserving Talisman**\nWhen opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.\n\n**\"I am the Fortune Preserver, the Maiden of Resurrection.\"**\n**— Qiqi does not remember these words.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "285%",
+              "306%",
+              "328%",
+              "356%",
+              "377%",
+              "399%",
+              "427%",
+              "456%",
+              "484%",
+              "513%",
+              "541%",
+              "570%",
+              "605%"
+            ]
+          },
+          {
+            "name": "Healing",
+            "values": [
+              "90.0% ATK+577",
+              "96.7% ATK+635",
+              "103.5% ATK+698",
+              "112.5% ATK+765",
+              "119.2% ATK+837",
+              "126.0% ATK+914",
+              "135.0% ATK+996",
+              "144.0% ATK+1083",
+              "153.0% ATK+1174",
+              "162.0% ATK+1270",
+              "171.0% ATK+1371",
+              "180.0% ATK+1477",
+              "191.3% ATK+1588"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "20.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "80"
+          }
+        ],
+        "type": "Cryo"
+      },
+      "passive": [
+        {
+          "name": "Life-Prolonging Methods",
+          "desc": "When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.",
+          "minAscension": 1
+        },
+        {
+          "name": "A Glimpse Into Arcanum",
+          "desc": "When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Former Life Memories",
+          "desc": "Displays the location of nearby **resources unique to Liyue** on the mini-map.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Ascetics of Frost",
+          "desc": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
+        },
+        {
+          "name": "Frozen to the Bone",
+          "desc": "Qiqi's Normal and Charge Attack DMG against opponents affected by **Cryo** is increased by 15%."
+        },
+        {
+          "name": "Ascendant Praise",
+          "desc": "Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Divine Suppression",
+          "desc": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%."
+        },
+        {
+          "name": "Crimson Lotus Bloom",
+          "desc": "Increases the Level of **Adeptus Art: Herald of Frost** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Rite of Resurrection",
+          "desc": "Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 825.5596
+        },
+        {
+          "stat": "Base DEF",
+          "value": 61.56
+        },
+        {
+          "stat": "Base ATK",
+          "value": 19.15656
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1412.141357421875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 105.3
+        },
+        {
+          "stat": "Base ATK",
+          "value": 32.7678
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0.0554
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2194.25048828125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 163.62
+        },
+        {
+          "stat": "Base ATK",
+          "value": 50.91612
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0.1108
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2780.832275390625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 207.36
+        },
+        {
+          "stat": "Base ATK",
+          "value": 64.52736
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0.1108
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3367.414
+        },
+        {
+          "stat": "Base DEF",
+          "value": 251.1
+        },
+        {
+          "stat": "Base ATK",
+          "value": 78.1386
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0.1662
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3953.995849609375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 294.84
+        },
+        {
+          "stat": "Base ATK",
+          "value": 91.74984
+        },
+        {
+          "stat": "Healing Bonus",
+          "value": 0.2215
+        }
+      ]
+    }
+  ]
+}

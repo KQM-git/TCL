@@ -1,0 +1,503 @@
+{
+  "name": "Venti",
+  "desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+  "star": 5,
+  "weaponType": "Bow",
+  "baseStats": {
+    "hpBase": 819.8552,
+    "attackBase": 20.482,
+    "defenseBase": 52.0521,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Divine Marksmanship",
+          "desc": "**Normal Attack**\nPerform up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal **Anemo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "20.4%+20.4%",
+                "22.0%+22.0%",
+                "23.7%+23.7%",
+                "26.1%+26.1%",
+                "27.7%+27.7%",
+                "29.6%+29.6%",
+                "32.2%+32.2%",
+                "34.8%+34.8%",
+                "37.4%+37.4%",
+                "40.3%+40.3%",
+                "43.5%+43.5%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "44.4%",
+                "48.0%",
+                "51.6%",
+                "56.8%",
+                "60.4%",
+                "64.5%",
+                "70.2%",
+                "75.9%",
+                "81.5%",
+                "87.7%",
+                "94.8%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "52.4%",
+                "56.6%",
+                "60.9%",
+                "67.0%",
+                "71.3%",
+                "76.1%",
+                "82.8%",
+                "89.5%",
+                "96.2%",
+                "103.5%",
+                "111.9%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "26.1%+26.1%",
+                "28.2%+28.2%",
+                "30.3%+30.3%",
+                "33.3%+33.3%",
+                "35.5%+35.5%",
+                "37.9%+37.9%",
+                "41.2%+41.2%",
+                "44.5%+44.5%",
+                "47.9%+47.9%",
+                "51.5%+51.5%",
+                "55.7%+55.7%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "50.7%",
+                "54.8%",
+                "58.9%",
+                "64.8%",
+                "68.9%",
+                "73.6%",
+                "80.1%",
+                "86.6%",
+                "93.1%",
+                "100.1%",
+                "108.2%"
+              ]
+            },
+            {
+              "name": "6-Hit DMG",
+              "values": [
+                "71.0%",
+                "76.7%",
+                "82.5%",
+                "90.8%",
+                "96.5%",
+                "103.1%",
+                "112.2%",
+                "121.3%",
+                "130.4%",
+                "140.3%",
+                "151.6%"
+              ]
+            },
+            {
+              "name": "Aimed Shot",
+              "values": [
+                "43.9%",
+                "47.4%",
+                "51.0%",
+                "56.1%",
+                "59.7%",
+                "63.7%",
+                "69.4%",
+                "75.0%",
+                "80.6%",
+                "86.7%",
+                "93.7%"
+              ]
+            },
+            {
+              "name": "Fully-Charged Aimed Shot",
+              "values": [
+                "124%",
+                "133%",
+                "143%",
+                "155%",
+                "164%",
+                "174%",
+                "186%",
+                "198%",
+                "211%",
+                "223%",
+                "236%"
+              ]
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "56.8%",
+                "61.5%",
+                "66.1%",
+                "72.7%",
+                "77.3%",
+                "82.6%",
+                "89.9%",
+                "97.1%",
+                "104.4%",
+                "112.3%",
+                "120.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "114%/142%",
+                "123%/153%",
+                "132%/165%",
+                "145%/182%",
+                "155%/193%",
+                "165%/206%",
+                "180%/224%",
+                "194%/243%",
+                "209%/261%",
+                "225%/281%",
+                "240%/300%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Skyward Sonnet",
+          "desc": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n\n**Press**\nSummons a Wind Domain at the opponent's location, dealing **AoE Anemo DMG** and launching opponents into the air.\n\n**Hold**\nSummons an even larger Wind Domain with Venti as the epicenter, dealing **AoE Anemo DMG** and launching affected opponents into the air.\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\n\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\n\n**In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.**",
+          "talentTable": [
+            {
+              "name": "Press DMG",
+              "values": [
+                "276%",
+                "297%",
+                "317%",
+                "345%",
+                "366%",
+                "386%",
+                "414%",
+                "442%",
+                "469%",
+                "497%",
+                "524%",
+                "552%",
+                "586%"
+              ]
+            },
+            {
+              "name": "Press CD",
+              "value": "6.0s"
+            },
+            {
+              "name": "Hold DMG",
+              "values": [
+                "380%",
+                "409%",
+                "437%",
+                "475%",
+                "503%",
+                "532%",
+                "570%",
+                "608%",
+                "646%",
+                "684%",
+                "722%",
+                "760%",
+                "807%"
+              ]
+            },
+            {
+              "name": "CD (hold)",
+              "value": "15.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Wind's Grand Ode",
+        "desc": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous **Anemo DMG**.\n\n**Elemental Absorption**\nIf the Stormeye comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**Many hymns written in praise of the Anemo Archon have been lost to time. This one sings of his mastery over the wind.**",
+        "talentTable": [
+          {
+            "name": "DoT",
+            "values": [
+              "37.6%",
+              "40.4%",
+              "43.2%",
+              "47.0%",
+              "49.8%",
+              "52.6%",
+              "56.4%",
+              "60.2%",
+              "63.9%",
+              "67.7%",
+              "71.4%",
+              "75.2%",
+              "79.9%"
+            ]
+          },
+          {
+            "name": "Additional Elemental DMG",
+            "values": [
+              "18.8%",
+              "20.2%",
+              "21.6%",
+              "23.5%",
+              "24.9%",
+              "26.3%",
+              "28.2%",
+              "30.1%",
+              "32.0%",
+              "33.8%",
+              "35.7%",
+              "37.6%",
+              "40.0%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "8.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
+        "type": "Anemo"
+      },
+      "passive": [
+        {
+          "name": "Embrace of Winds",
+          "desc": "Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Stormeye",
+          "desc": "Regenerates 15 Energy for Venti after the effects of **Wind's Grand Ode** end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.",
+          "minAscension": 4
+        },
+        {
+          "name": "Windrider",
+          "desc": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Splitting Gales",
+          "desc": "Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG."
+        },
+        {
+          "name": "Breeze of Reminiscence",
+          "desc": "**Skyward Sonnet** decreases opponents' **Anemo RES** and Physical RES by 12% for 10s.\nOpponents launched by **Skyward Sonnet** suffer an additional 12% **Anemo RES** and Physical RES decrease while airborne."
+        },
+        {
+          "name": "Ode to Thousand Winds",
+          "desc": "Increases the Level of **Wind's Grand Ode** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Hurricane of Freedom",
+          "desc": "When Venti picks up an Elemental Orb or Particle, he receives a 25% **Anemo DMG Bonus** for 10s."
+        },
+        {
+          "name": "Concerto dal Cielo",
+          "desc": "Increases the Level of **Skyward Sonnet** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Storm of Defiance",
+          "desc": "Targets who take DMG from **Wind's Grand Ode** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 702.9517
+        },
+        {
+          "stat": "Base DEF",
+          "value": 44.631
+        },
+        {
+          "stat": "Base ATK",
+          "value": 17.56018
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1202.4173583984375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 76.3425
+        },
+        {
+          "stat": "Base ATK",
+          "value": 30.03715
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.08
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1868.3716
+        },
+        {
+          "stat": "Base DEF",
+          "value": 118.6245
+        },
+        {
+          "stat": "Base ATK",
+          "value": 46.67311
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.16
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2367.83740234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 150.336
+        },
+        {
+          "stat": "Base ATK",
+          "value": 59.15008
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.16
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2867.303
+        },
+        {
+          "stat": "Base DEF",
+          "value": 182.0475
+        },
+        {
+          "stat": "Base ATK",
+          "value": 71.62705
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.24
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3366.768798828125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 213.759
+        },
+        {
+          "stat": "Base ATK",
+          "value": 84.10402
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.32
+        }
+      ]
+    }
+  ]
+}

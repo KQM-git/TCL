@@ -2,19 +2,24 @@
 description: 'The tycoon of a winery empire in Mondstadt, unmatched in every possible way.'
 ---
 
+import char from '@site/src/data/characters/Diluc.json'
+import StatsTable from '@site/src/components/char/StatsTable'
+
+# Diluc
+
 ## Resources
 
 * [Diluc: The Dark Side of the Dawn (In-Depth Written Guide)](https://keqingmains.com/diluc/)
 * [3 Minute Guide to Diluc](https://www.youtube.com/watch?v=KdBdeGvtyUM)
 * [Diluc Mains Discord](https://discord.gg/af9MWyd)
 
-# Diluc
-
 ## ![](/assets/element_pyro.png) Diluc
 
 ![](/assets/character_diluc_wish.png)
 
 ## Base Stats
+
+<StatsTable char={char} />
 
 | Lv | Base HP | Base ATK | Base DEF | CRIT Rate% |
 | :--- | :--- | :--- | :--- | :--- |

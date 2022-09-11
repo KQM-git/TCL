@@ -1,0 +1,533 @@
+{
+  "name": "Noelle",
+  "desc": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+  "star": 4,
+  "weaponType": "Claymore",
+  "baseStats": {
+    "hpBase": 1012.088,
+    "attackBase": 16.0272,
+    "defenseBase": 66.95325,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Favonius Bladework - Maid",
+          "desc": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\nAt the end of the sequence, perform a more powerful slash. \n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "79.1%",
+                "85.6%",
+                "92.0%",
+                "101.2%",
+                "107.6%",
+                "115.0%",
+                "125.1%",
+                "135.2%",
+                "145.4%",
+                "156.4%",
+                "167.4%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "73.4%",
+                "79.3%",
+                "85.3%",
+                "93.8%",
+                "99.8%",
+                "106.6%",
+                "116.0%",
+                "125.4%",
+                "134.8%",
+                "145.0%",
+                "155.2%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "86.3%",
+                "93.3%",
+                "100.3%",
+                "110.3%",
+                "117.4%",
+                "125.4%",
+                "136.4%",
+                "147.4%",
+                "158.5%",
+                "170.5%",
+                "182.5%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "113%",
+                "123%",
+                "132%",
+                "145%",
+                "154%",
+                "165%",
+                "179%",
+                "194%",
+                "208%",
+                "224%",
+                "240%"
+              ]
+            },
+            {
+              "name": "Charged Attack Cyclic DMG",
+              "values": [
+                "50.7%",
+                "54.9%",
+                "59.0%",
+                "64.9%",
+                "69.0%",
+                "73.8%",
+                "80.2%",
+                "86.7%",
+                "93.2%",
+                "100.3%",
+                "107.4%"
+              ]
+            },
+            {
+              "name": "Charged Attack Final DMG",
+              "values": [
+                "90.5%",
+                "97.8%",
+                "105.2%",
+                "115.7%",
+                "123.1%",
+                "131.5%",
+                "143.1%",
+                "154.6%",
+                "166.2%",
+                "178.8%",
+                "191.5%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "40.0/s"
+            },
+            {
+              "name": "Max Duration",
+              "value": "5.0s"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "74.6%",
+                "80.7%",
+                "86.7%",
+                "95.4%",
+                "101.5%",
+                "108.4%",
+                "118.0%",
+                "127.5%",
+                "137.0%",
+                "147.4%",
+                "157.8%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "149%/186%",
+                "161%/201%",
+                "173%/217%",
+                "191%/238%",
+                "203%/253%",
+                "217%/271%",
+                "236%/295%",
+                "255%/318%",
+                "274%/342%",
+                "295%/368%",
+                "316%/394%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Breastplate",
+          "desc": "Summons protective stone armor, dealing **Geo DMG** to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.\nThe shield has the following properties:\n·When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.\n·Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.\n\nThe amount of HP healed when regeneration is triggered scales based on Noelle's DEF.\n\n**Noelle is both a dutiful maid and a valiant knight.**",
+          "talentTable": [
+            {
+              "name": "Skill DMG",
+              "values": [
+                "120% DEF",
+                "129% DEF",
+                "138% DEF",
+                "150% DEF",
+                "159% DEF",
+                "168% DEF",
+                "180% DEF",
+                "192% DEF",
+                "204% DEF",
+                "216% DEF",
+                "228% DEF",
+                "240% DEF",
+                "255% DEF"
+              ]
+            },
+            {
+              "name": "DMG Absorption",
+              "values": [
+                "160% DEF+770",
+                "172% DEF+847",
+                "184% DEF+930",
+                "200% DEF+1020",
+                "212% DEF+1116",
+                "224% DEF+1219",
+                "240% DEF+1328",
+                "256% DEF+1443",
+                "272% DEF+1565",
+                "288% DEF+1694",
+                "304% DEF+1828",
+                "320% DEF+1970",
+                "340% DEF+2117"
+              ]
+            },
+            {
+              "name": "Healing",
+              "values": [
+                "21.3% DEF+103",
+                "22.9% DEF+113",
+                "24.5% DEF+124",
+                "26.6% DEF+136",
+                "28.2% DEF+149",
+                "29.8% DEF+163",
+                "31.9% DEF+177",
+                "34.0% DEF+193",
+                "36.2% DEF+209",
+                "38.3% DEF+226",
+                "40.4% DEF+244",
+                "42.6% DEF+263",
+                "45.2% DEF+282"
+              ]
+            },
+            {
+              "name": "Healing Triggering Chance",
+              "values": [
+                "50%",
+                "51%",
+                "52%",
+                "53%",
+                "54%",
+                "55%",
+                "56%",
+                "57%",
+                "58%",
+                "59%",
+                "59%",
+                "60%",
+                "60%"
+              ]
+            },
+            {
+              "name": "Duration",
+              "value": "12.0s"
+            },
+            {
+              "name": "CD",
+              "value": "24.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Sweeping Time",
+        "desc": "Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing **Geo DMG**.\nAfterwards, Noelle gains the following effects:\n·Larger attack AoE.\n·Converts attack DMG to **Geo DMG** that cannot be overridden by any other elemental infusion.\n·Increased ATK that scales based on her DEF.\n\n**Sometimes, it's not just dust that needs sweeping...**",
+        "talentTable": [
+          {
+            "name": "Burst DMG",
+            "values": [
+              "67.2%",
+              "72.2%",
+              "77.3%",
+              "84.0%",
+              "89.0%",
+              "94.1%",
+              "100.8%",
+              "107.5%",
+              "114.2%",
+              "121.0%",
+              "127.7%",
+              "134.4%",
+              "142.8%"
+            ]
+          },
+          {
+            "name": "Skill DMG",
+            "values": [
+              "92.8%",
+              "99.8%",
+              "106.7%",
+              "116.0%",
+              "123.0%",
+              "129.9%",
+              "139.2%",
+              "148.5%",
+              "157.8%",
+              "167.0%",
+              "176.3%",
+              "185.6%",
+              "197.2%"
+            ]
+          },
+          {
+            "name": "ATK Bonus",
+            "values": [
+              "40% DEF",
+              "43% DEF",
+              "46% DEF",
+              "50% DEF",
+              "53% DEF",
+              "56% DEF",
+              "60% DEF",
+              "64% DEF",
+              "68% DEF",
+              "72% DEF",
+              "76% DEF",
+              "80% DEF",
+              "85% DEF"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "15.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
+        "type": "Geo"
+      },
+      "passive": [
+        {
+          "name": "Devotion",
+          "desc": "When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:\nCreates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF.\nThe shield has a 150% DMG Absorption effectiveness against all Elemental and Physical DMG.\nThis effect can only occur once every 60s.",
+          "minAscension": 1
+        },
+        {
+          "name": "Nice and Clean",
+          "desc": "Noelle will decrease the CD of **Breastplate** by 1s for every 4 Normal or Charged Attack hits she scores on opponents.\nOne hit may be counted every 0.1s.",
+          "minAscension": 4
+        },
+        {
+          "name": "Maid's Knighthood",
+          "desc": "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "I Got Your Back",
+          "desc": "While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate's healing effects activating is increased to 100%."
+        },
+        {
+          "name": "Combat Maid",
+          "desc": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%."
+        },
+        {
+          "name": "Invulnerable Maid",
+          "desc": "Increases the Level of **Breastplate** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "To Be Cleaned",
+          "desc": "When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 400% ATK of **Geo DMG** to surrounding opponents."
+        },
+        {
+          "name": "Favonius Sweeper Master",
+          "desc": "Increases the Level of **Sweeping Time** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Must Be Spotless",
+          "desc": "**Sweeping Time** increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "DEF%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 756.08154296875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 50.0175
+        },
+        {
+          "stat": "Base ATK",
+          "value": 11.97342
+        },
+        {
+          "stat": "DEF%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1293.2974
+        },
+        {
+          "stat": "Base DEF",
+          "value": 85.55625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.48085
+        },
+        {
+          "stat": "DEF%",
+          "value": 0.075
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2009.5852
+        },
+        {
+          "stat": "Base DEF",
+          "value": 132.94125366210938
+        },
+        {
+          "stat": "Base ATK",
+          "value": 31.82409
+        },
+        {
+          "stat": "DEF%",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2546.801
+        },
+        {
+          "stat": "Base DEF",
+          "value": 168.48
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.33152
+        },
+        {
+          "stat": "DEF%",
+          "value": 0.15
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3084.016845703125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.0187530517578
+        },
+        {
+          "stat": "Base ATK",
+          "value": 48.83895
+        },
+        {
+          "stat": "DEF%",
+          "value": 0.225
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3621.232666015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 239.5575
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.34638
+        },
+        {
+          "stat": "DEF%",
+          "value": 0.3
+        }
+      ]
+    }
+  ]
+}

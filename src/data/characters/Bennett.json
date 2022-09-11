@@ -1,0 +1,525 @@
+{
+  "name": "Bennett",
+  "desc": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+  "star": 4,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1039.4418,
+    "attackBase": 16.0272,
+    "defenseBase": 64.66425,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skills": [
+    {
+      "talents": [
+        {
+          "name": "Normal Attack: Strike of Fortune",
+          "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+          "talentTable": [
+            {
+              "name": "1-Hit DMG",
+              "values": [
+                "44.5%",
+                "48.2%",
+                "51.8%",
+                "57.0%",
+                "60.6%",
+                "64.7%",
+                "70.4%",
+                "76.1%",
+                "81.8%",
+                "88.1%",
+                "94.3%"
+              ]
+            },
+            {
+              "name": "2-Hit DMG",
+              "values": [
+                "42.7%",
+                "46.2%",
+                "49.7%",
+                "54.7%",
+                "58.1%",
+                "62.1%",
+                "67.6%",
+                "73.1%",
+                "78.5%",
+                "84.5%",
+                "90.5%"
+              ]
+            },
+            {
+              "name": "3-Hit DMG",
+              "values": [
+                "54.6%",
+                "59.1%",
+                "63.5%",
+                "69.8%",
+                "74.3%",
+                "79.4%",
+                "86.4%",
+                "93.3%",
+                "100.3%",
+                "107.9%",
+                "115.6%"
+              ]
+            },
+            {
+              "name": "4-Hit DMG",
+              "values": [
+                "59.7%",
+                "64.5%",
+                "69.4%",
+                "76.3%",
+                "81.2%",
+                "86.8%",
+                "94.4%",
+                "102.0%",
+                "109.7%",
+                "118.0%",
+                "126.3%"
+              ]
+            },
+            {
+              "name": "5-Hit DMG",
+              "values": [
+                "71.9%",
+                "77.7%",
+                "83.6%",
+                "92.0%",
+                "97.8%",
+                "104.5%",
+                "113.7%",
+                "122.9%",
+                "132.1%",
+                "142.1%",
+                "152.2%"
+              ]
+            },
+            {
+              "name": "Charged Attack DMG",
+              "values": [
+                "55.9%+60.7%",
+                "60.4%+65.7%",
+                "65.0%+70.6%",
+                "71.5%+77.7%",
+                "76.1%+82.6%",
+                "81.3%+88.2%",
+                "88.4%+96.0%",
+                "95.6%+103.8%",
+                "102.7%+111.5%",
+                "110.5%+120.0%",
+                "118.3%+128.5%"
+              ]
+            },
+            {
+              "name": "Charged Attack Stamina Cost",
+              "value": "20.0"
+            },
+            {
+              "name": "Plunge DMG",
+              "values": [
+                "63.9%",
+                "69.1%",
+                "74.3%",
+                "81.8%",
+                "87.0%",
+                "92.9%",
+                "101.1%",
+                "109.3%",
+                "117.5%",
+                "126.4%",
+                "135.3%"
+              ]
+            },
+            {
+              "name": "Low/High Plunge DMG",
+              "values": [
+                "128%/160%",
+                "138%/173%",
+                "149%/186%",
+                "164%/204%",
+                "174%/217%",
+                "186%/232%",
+                "202%/253%",
+                "219%/273%",
+                "235%/293%",
+                "253%/316%",
+                "271%/338%"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Passion Overload",
+          "desc": "Bennett puts all his fire and passion for adventuring into his sword. Results may vary based on how fired up he is...\n\n**Press**\nA single, swift flame strike that deals **Pyro DMG**.\n\n**Hold (Short)**\nCharges up, resulting in different effects when unleashed based on the Charge Level.\n·Level 1: Strikes twice, dealing **Pyro DMG** and launching opponents.\n·Level 2: Unleashes 3 consecutive attacks that deal impressive **Pyro DMG**, but the last attack triggers an explosion that launches both Bennett and the enemy.\nBennett takes no damage from being launched.\n\n**An attack that combines Bennett's dreams and passion with Pyro. But passion is sometimes overblown, and Pyro sometimes blows over.**",
+          "talentTable": [
+            {
+              "name": "Press DMG",
+              "values": [
+                "138%",
+                "148%",
+                "158%",
+                "172%",
+                "182%",
+                "193%",
+                "206%",
+                "220%",
+                "234%",
+                "248%",
+                "261%",
+                "275%",
+                "292%"
+              ]
+            },
+            {
+              "name": "Charge Level 1 DMG",
+              "values": [
+                "84.0%+92.0%",
+                "90.3%+98.9%",
+                "96.6%+105.8%",
+                "105.0%+115.0%",
+                "111.3%+121.9%",
+                "117.6%+128.8%",
+                "126.0%+138.0%",
+                "134.4%+147.2%",
+                "142.8%+156.4%",
+                "151.2%+165.6%",
+                "159.6%+174.8%",
+                "168.0%+184.0%",
+                "178.5%+195.5%"
+              ]
+            },
+            {
+              "name": "Charge Level 2 DMG",
+              "values": [
+                "88.0%+96.0%",
+                "94.6%+103.2%",
+                "101.2%+110.4%",
+                "110.0%+120.0%",
+                "116.6%+127.2%",
+                "123.2%+134.4%",
+                "132.0%+144.0%",
+                "140.8%+153.6%",
+                "149.6%+163.2%",
+                "158.4%+172.8%",
+                "167.2%+182.4%",
+                "176.0%+192.0%",
+                "187.0%+204.0%"
+              ]
+            },
+            {
+              "name": "Explosion DMG",
+              "values": [
+                "132%",
+                "142%",
+                "152%",
+                "165%",
+                "175%",
+                "185%",
+                "198%",
+                "211%",
+                "224%",
+                "238%",
+                "251%",
+                "264%",
+                "281%"
+              ]
+            },
+            {
+              "name": "CD",
+              "value": "5.0/7.5/10.0s"
+            }
+          ]
+        }
+      ],
+      "ult": {
+        "name": "Fantastic Voyage",
+        "desc": "Bennett performs a jumping attack that deals **Pyro DMG**, creating an Inspiration Field.\n\n**Inspiration Field**\n·If the health of a character within the AoE is equal to or falls below 70%, their health will continuously regenerate. The amount of HP restored scales off Bennett's Max HP.\n·If the health of a character within the AoE is higher than 70%, they gain an ATK Bonus that is based on Bennett's Base ATK.\n·Imbues characters within the AoE with **Pyro**.\n\n**Benny's Adventure Team's adventures are always fraught with unexpected danger. However, Bennett is more inclined to call them \"journeys full of wonder, excitement, and beauty.\"**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "233%",
+              "250%",
+              "268%",
+              "291%",
+              "308%",
+              "326%",
+              "349%",
+              "372%",
+              "396%",
+              "419%",
+              "442%",
+              "466%",
+              "495%"
+            ]
+          },
+          {
+            "name": "Continuous Regeneration Per Sec",
+            "values": [
+              "6.00% Max HP+577",
+              "6.45% Max HP+635",
+              "6.90% Max HP+698",
+              "7.50% Max HP+765",
+              "7.95% Max HP+837",
+              "8.40% Max HP+914",
+              "9.00% Max HP+996",
+              "9.60% Max HP+1083",
+              "10.20% Max HP+1174",
+              "10.80% Max HP+1270",
+              "11.40% Max HP+1371",
+              "12.00% Max HP+1477",
+              "12.75% Max HP+1588"
+            ]
+          },
+          {
+            "name": "ATK Bonus Ratio",
+            "values": [
+              "56%",
+              "60%",
+              "64%",
+              "70%",
+              "74%",
+              "78%",
+              "84%",
+              "90%",
+              "95%",
+              "101%",
+              "106%",
+              "112%",
+              "119%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "15.0s"
+          },
+          {
+            "name": "Energy Cost",
+            "value": "60"
+          }
+        ],
+        "type": "Pyro"
+      },
+      "passive": [
+        {
+          "name": "Rekindle",
+          "desc": "Decreases **Passion Overload**'s CD by 20%.",
+          "minAscension": 1
+        },
+        {
+          "name": "Fearnaught",
+          "desc": "Within the area created by **Fantastic Voyage**, **Passion Overload** takes on the following effects:\n·CD is reduced by 50%.\n·Bennett will not be launched by the effects of Charge Level 2.",
+          "minAscension": 4
+        },
+        {
+          "name": "It Should Be Safe...",
+          "desc": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.",
+          "minAscension": 0
+        }
+      ],
+      "constellations": [
+        {
+          "name": "Grand Expectation",
+          "desc": "**Fantastic Voyage**'s ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK."
+        },
+        {
+          "name": "Impasse Conqueror",
+          "desc": "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%."
+        },
+        {
+          "name": "Unstoppable Fervor",
+          "desc": "Increases the Level of **Passion Overload** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Unexpected Odyssey",
+          "desc": "Using a Normal Attack when executing the second attack of **Passion Overload**'s Charge Level 1 allows an additional attack to be performed.\nThis additional attack does 135% of the second attack's DMG."
+        },
+        {
+          "name": "True Explorer",
+          "desc": "Increases the Level of **Fantastic Voyage** by 3.\nMaximum upgrade level is 15."
+        },
+        {
+          "name": "Fire Ventures With Me",
+          "desc": "Sword, Claymore, or Polearm-wielding characters inside **Fantastic Voyage**'s radius gain a 15% **Pyro DMG Bonus** and their weapons are infused with **Pyro**."
+        }
+      ]
+    }
+  ],
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 776.5162
+        },
+        {
+          "stat": "Base DEF",
+          "value": 48.3075
+        },
+        {
+          "stat": "Base ATK",
+          "value": 11.97342
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1328.2513427734375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 82.63125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 20.48085
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.0667
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2063.8984375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 128.39625549316406
+        },
+        {
+          "stat": "Base ATK",
+          "value": 31.82409
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.1333
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2615.633544921875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 162.72
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.33152
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.1333
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3167.36865234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 197.0437469482422
+        },
+        {
+          "stat": "Base ATK",
+          "value": 48.83895
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.2
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3719.104
+        },
+        {
+          "stat": "Base DEF",
+          "value": 231.3675
+        },
+        {
+          "stat": "Base ATK",
+          "value": 57.34638
+        },
+        {
+          "stat": "Energy Recharge",
+          "value": 0.2667
+        }
+      ]
+    }
+  ]
+}
