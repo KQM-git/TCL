@@ -19,6 +19,7 @@ No weakspot.
 ## Resistance Table
 
 All specters are immune to their respective Element.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 10% |

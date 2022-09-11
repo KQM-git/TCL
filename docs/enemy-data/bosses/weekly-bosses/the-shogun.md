@@ -13,6 +13,7 @@ Mine is the most supreme and noble form. Power over the realm has been vested wi
 ## Resistance Table
 
 Gains +200% RES towards all types of damage in the armored state and loses -60% RES when stunned.  
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 10% |

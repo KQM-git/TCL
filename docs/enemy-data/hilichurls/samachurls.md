@@ -1,7 +1,9 @@
+---
+description: >-
+    Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.
+---
+
 # Samachurls
----
-Hilichurls especially gifted in commanding the elements who often reach the zenith of their skill in their twilight years. Their ability to command the flowing winds stems from dark, forgotten memories.
----
 
 ## Weakspot Details
 
@@ -17,6 +19,7 @@ Face.
 # Resistance Table
 
 All samachurls have +40% (50% total) resistance to their own element.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 10% |

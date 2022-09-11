@@ -63,7 +63,7 @@ Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damag
 
 </TabItem>
 
-<TabItem value="na" label="Jumpy Dumpty">
+<TabItem value="e" label="Jumpy Dumpty">
 Jumpy Dumpty is tons of boom-bang-fun!
 
 When thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.  
@@ -279,7 +279,7 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 
 </TabItem>
 
-<TabItem value="na" label="Jumpy Dumpty">
+<TabItem value="e" label="Jumpy Dumpty">
 
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |

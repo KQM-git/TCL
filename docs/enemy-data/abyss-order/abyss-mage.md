@@ -1,6 +1,9 @@
 ---
 description: They are able to harness elemental energy from the Ley Lines of Teyvat and use that power towards their group's goal of overthrowing the world ruled by the archons. 
 ---
+
+# Abyss Mages
+
 ## Weakspot Details
 
 All abyss mages share the same weakspot on their **Head**, note that this weakspot is **disabled while protected by their elemental shield**.  

@@ -23,6 +23,7 @@ Head.
 ## Resistance Table
 
 All resistances +100% additive increase while armored.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | -20% |

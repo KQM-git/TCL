@@ -178,8 +178,9 @@ The following are tables consisting of different types of **Elemental Armor** as
 | Pyro Gunslinger | 4GU Hydro |
 | Geochanter | 5~7 Heavy Attacks OR Crystallize Reaction |
 
-</TabItem>
 * Foreign auras can exist on these armor and there are some interesting interactions when trying to break said armor. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/#fatui-armor-and-aura-interactions) for more information.
+
+</TabItem>
 </Tabs>
 
 ### Whopperflowers

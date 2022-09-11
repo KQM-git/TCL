@@ -21,6 +21,7 @@ Regisvine will only have a weakspot on their corolla after being stunned twice.
 
 Has a starting 70%(+60%) resistance to own Element.
 Gains +100% resistance to all while shield is up.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 30% |
