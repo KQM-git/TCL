@@ -14,7 +14,11 @@
   --ifm-color-primary-lighter: #ab1de8;
   --ifm-color-primary-lightest: #b12bea;
   --ifm-background-color: #fffcff;
+
   --ifm-code-font-size: 95%;
+  --ifm-list-margin: 0.75rem;
+  --ifm-paragraph-margin-bottom: calc(var(--ifm-leading) * 0.5);
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 

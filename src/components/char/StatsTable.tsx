@@ -1,5 +1,5 @@
 import { Character } from '@site/src/data/types';
-import { getCharStatsAt } from '@site/src/utils/char';
+import { getCharStatsAt } from '@site/src/utils/charstats';
 import { stat } from '@site/src/utils/stat';
 import React, { useState } from 'react';
 

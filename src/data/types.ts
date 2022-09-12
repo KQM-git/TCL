@@ -43,7 +43,6 @@ export interface Passive {
     name: string
     desc: string
     minAscension?: number
-    icon?: string
 }
 
 export interface Skill {
