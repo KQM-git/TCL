@@ -221,7 +221,7 @@ To calculate this damage, substitute the proc percentage (e.g. 240% for Prototyp
 
 Any effect that scales off of a certain stat will not count any buffs that also scale themselves off of someone else's stat in their calculation.
 
-> "In order to avoid infinite stacking of in-game bonuses, when an effect confers one attribute as a certain percentage of another attribute, this effect will not then factor into calculations of other similar percentage-based effects." - [Mihoyo](https://www.hoyolab.com/article/503042)
+> "In order to avoid infinite stacking of in-game bonuses, when an effect confers one attribute as a certain percentage of another attribute, this effect will not then factor into calculations of other similar percentage-based effects." - [miHoYo](https://www.hoyolab.com/article/503042)
 
 Examples of such buffs:
 

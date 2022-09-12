@@ -220,7 +220,7 @@ Anemo res reduction lasts 10s from last anemo dmg tick, not influenced by infusi
 
 Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com/watch?v=QIUdiR6p5TQ)
 
-**Significance:** Here is how long C6 venti debuff lasts since mihoyo didn't bother to list it.
+**Significance:** Here is how long C6 venti debuff lasts since miHoYo didn't bother to list it.
 
 ## Synergies/Interactions
 

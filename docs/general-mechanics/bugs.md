@@ -1,7 +1,7 @@
 # Bugs
 
 :::info
-This page is for bugs, meaning they could get fixed by Mihoyo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
+This page is for bugs, meaning they could get fixed by miHoYo at any time. If you find that a bug has been patched out, but is still on this page, go to [\#website-feedback](https://discord.gg/keqing) on the KQM Discord.
 :::
 
 ## Abyss

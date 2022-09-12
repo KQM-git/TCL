@@ -220,7 +220,7 @@ construct replacement order seems to be completely thrown off course by them res
 * Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)  
 
 **Significance:**
-*VERY* fluff, unless mihoyo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though. 
+*VERY* fluff, unless miHoYo decides to put Jeans Office in abyss this serves little to no purpose, it is quite cool though. 
 
 ## Electro Tanking
 
@@ -535,7 +535,7 @@ The retry button in the event is a full team reset. All cooldowns including weap
 provided by ItzSomebody#0029, yolitme0#0579 (ty for compiling sheet) and ShampooBrain#9583
 
 **Significance:**   
-Mihoyo apparently can implement a full reset button for a small event but cannot do so in the abyss which does not fully reset you. They are either incompetent, tone-deaf, lazy or simply don't give a damn. But next time there is a survey maybe let them know about this utter and complete nonsense.
+miHoYo apparently can implement a full reset button for a small event but cannot do so in the abyss which does not fully reset you. They are either incompetent, tone-deaf, lazy or simply don't give a damn. But next time there is a survey maybe let them know about this utter and complete nonsense.
 
 ## Portable Waypoint Bug  
 **By:** Sherbs\#2029  
@@ -999,7 +999,7 @@ Night - 18:30 to 04:29
 [YouTube](https://www.youtube.com/watch?v=nKhXtezZMDg) - This video demonstrates that the screens change from xx:29 to xx:30  
   
 **Significance:**  
-As we know, Jenshin Impact's anti-cheat has kernel level access to your device. It is then not hard to imagine that it would be possible for Mihoyo to grab any data they wanted, such as the date and time and your payment details. It would also be possible for them to collect data on your daily habits, what topics interest you, what things make you likely to spend money and sell this data to advertisers who can use this data maliciously. Such anti-cheat tools often target drivers and software that have access to your hardware, such as overclocking tools, temperature monitors, fan controllers. This can cause performance issues, on top of the bad optimization, lag and ping issues we already face.  
+As we know, Jenshin Impact's anti-cheat has kernel level access to your device. It is then not hard to imagine that it would be possible for miHoYo to grab any data they wanted, such as the date and time and your payment details. It would also be possible for them to collect data on your daily habits, what topics interest you, what things make you likely to spend money and sell this data to advertisers who can use this data maliciously. Such anti-cheat tools often target drivers and software that have access to your hardware, such as overclocking tools, temperature monitors, fan controllers. This can cause performance issues, on top of the bad optimization, lag and ping issues we already face.  
 In conclusion, just go play minecraft.  
   
 Fluff.  

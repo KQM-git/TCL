@@ -332,7 +332,7 @@ The curious part is how 2 different crystal damages share the same level.
 * [Electro-charged testing result proof](https://www.youtube.com/watch?v=MI7gNlhEmbg)
 
 **Significance:**  
-Ruining kid's trust in Mihoyo's consistancy, fluff, learning how the world is made
+Ruining kid's trust in miHoYo's consistancy, fluff, learning how the world is made
 
 ### Electrified Environment Reaction
 

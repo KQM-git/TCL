@@ -57,10 +57,10 @@ A mechanic whereby a character's stats are "snapshot" when an attack occurs, all
 The opposite of snapshot, whereby the damage that an attack deals is dependent on a character's stats at a specific moment in time, rather than at the time the attack was cast.
 
 **Transformative Reaction:**
-What Mihoyo calls the “Minor” reactions, which consists of: Electro-Charged, Swirl, Overloaded, Shattered, and Superconduct.
+What miHoYo calls the “Minor” reactions, which consists of: Electro-Charged, Swirl, Overloaded, Shattered, and Superconduct.
 
 **Amplifying Reaction:**
-What Mihoyo calls the “Major” reactions, which consists of: Vaporize and Melt.
+What miHoYo calls the “Major” reactions, which consists of: Vaporize and Melt.
 
 **SC:**
 Superconduct, a Transformative Reaction that deals AoE Cryo DMG and reduces the physical resistance of all enemies in the AoE by 40% for 12 seconds.
@@ -181,7 +181,7 @@ Crimson Witch of Flames, an artifact set that increases Pyro Damage Bonus by 15%
 * D = Dash
 * J = Jump
 
-Prefixed numbers indicate the number of repititions, while the suffix number after N describes the position of the hit in a NA string, this can be from 1 to 6 depending on the character. Walking is a common way to animation cancel NAs, while Jumping and Dashing are common ways to cancel CAs, so one of these letters is often placed at the end of a combo. 
+Prefixed numbers indicate the number of repetitions, while the suffix number after N describes the position of the hit in a NA string, this can be from 1 to 6 depending on the character. Walking is a common way to animation cancel NAs, while Jumping and Dashing are common ways to cancel CAs, so one of these letters is often placed at the end of a combo. 
 
 * 8N1CD means doing the 1st NA, a CA, dashing to cancel the CA animation, then repeating the combo until it has been performed a total of 8 times.
 

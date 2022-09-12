@@ -546,7 +546,7 @@ Missed attacks on trees due to a [bug](https://imgur.com/AiGbPmU) still mark the
 Xingqiu N1 \(miss\) into Xingqiu Skill: [YouTube](https://youtu.be/LInYdyJllms)  
 Qiqi N1 \(miss\) into Tartaglia Skill and Attacks: [YouTube](https://youtu.be/wf9qAnnBaFg)  
 Version 2.3 Bennett N1 \(whiff\) into Tartaglia Skill and Attacks: [Imgur](https://imgur.com/eKKGUnu)  
-* In Version 2.3, Mihoyo issued a supposed fix for the whiffed attacks on trees, as noted in their [patch notes](https://genshin.mihoyo.com/en/news/detail/17278). However, this issue can still sometimes occur post-patch, enabling this trick.  
+* In Version 2.3, miHoYo issued a supposed fix for the whiffed attacks on trees, as noted in their [patch notes](https://genshin.mihoyo.com/en/news/detail/17278). However, this issue can still sometimes occur post-patch, enabling this trick.  
 
 **Significance:**  
 I am the Lorax. I speak for the trees.  

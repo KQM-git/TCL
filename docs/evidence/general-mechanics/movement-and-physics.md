@@ -113,7 +113,7 @@ In this [clip](https://imgur.com/a/1q4unpo), character swap ended up making the 
 
 We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
 
-**Significance:** Maybe when Mihoyo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
+**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
 
 ## Cliff Dash Displacement
 

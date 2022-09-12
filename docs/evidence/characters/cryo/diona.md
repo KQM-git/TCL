@@ -97,9 +97,9 @@ Bennett E + \(wait 5+ seconds\) + Diona E \(hold\) = 1 melt reaction + cryo aura
 
 **Significance:**
 
-Diona's shield was most likely meant to be 1U like every other self-aura in the game. Mihoyo may have implemented a failsafe for Diona's e missing that forms a shield anyway, and this redundant shield ALSO applies 1U and can appear even if her e does connect functionally making it a 2U application and the largest self aura in the game. The fact that it is strangely particular in when and how it applies the 2U instead of 1U makes it more likely that the scenario where you get 1U of cryo instead is intended instead of the other way around.
+Diona's shield was most likely meant to be 1U like every other self-aura in the game. miHoYo may have implemented a failsafe for Diona's e missing that forms a shield anyway, and this redundant shield ALSO applies 1U and can appear even if her e does connect functionally making it a 2U application and the largest self aura in the game. The fact that it is strangely particular in when and how it applies the 2U instead of 1U makes it more likely that the scenario where you get 1U of cryo instead is intended instead of the other way around.
 
-Hopefully, Mihoyo just makes her shield more consistent when it comes to cleansing herself in a future patch, but the workaround from the below video can be used to cleanse the team with 1 less swap in the meantime. My speculation as to WHY this happens has to do with some observations and ideas about how shields work in general.
+Hopefully, miHoYo just makes her shield more consistent when it comes to cleansing herself in a future patch, but the workaround from the below video can be used to cleanse the team with 1 less swap in the meantime. My speculation as to WHY this happens has to do with some observations and ideas about how shields work in general.
 
 When a character swaps, the whole character gets entirely removed from play and then replaced with the new one and it SEEMS that it keeps the same shield. But if we make a certain assumption that shields function like buffs, then some things start to make sense. For example, because shield effectiveness is a statistic, moving the same exact shield across characters wouldn't be correct as we know that shields have different values across characters with different shield effectiveness.
 
@@ -258,7 +258,7 @@ Diona's stamina reduction stacks with other sources.
 * [Anemo Resonance](https://youtu.be/i7qrFnbywLo) - credit to Spacebar\#7879    
 
 **Significance:**  
-Previously, such effects didn't stack, but around patch 2.0 Mihoyo changed it so that they do stack. Mostly fluff.  
+Previously, such effects didn't stack, but around patch 2.0 miHoYo changed it so that they do stack. Mostly fluff.  
 
 ## Constellation Mechanics
 

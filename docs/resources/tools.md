@@ -22,7 +22,7 @@ description: Useful sheets, tools and sites.
 
 ### Official Interactive Map  
 [https://genshin-impact-map.appsample.com/](https://genshin-impact-map.appsample.com/)  
-*Mihoyo's official interactive map of Teyvat.*
+*miHoYo's official interactive map of Teyvat.*
 
 ## Calculators
 ### Adventure Rank EXP Calculator

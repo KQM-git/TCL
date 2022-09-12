@@ -436,7 +436,7 @@ A fifth test was also considered:
 5) EC damage when a source re-applies then changes EM then re-applies.  
 This is a follow-on from 4 by adding 2.  
 
-For test 4, the original character causing the reaction doesn't need have their EM change, so the Instructor set on Sara can be removed to reduce any changes. This is not a concern for test 3, where changing EM values for the second applier is not an issue. While this test should logically follow that the EM value of the second applier will be snapshotted, this is a game from Mihoyo and we cannot be sure of anything.
+For test 4, the original character causing the reaction doesn't need have their EM change, so the Instructor set on Sara can be removed to reduce any changes. This is not a concern for test 3, where changing EM values for the second applier is not an issue. While this test should logically follow that the EM value of the second applier will be snapshotted, this is a game from miHoYo and we cannot be sure of anything.
 
 The enemy chosen to do these tests on is the ruin guard at Yaoguang Shaol, as it is usually already wet from the water around it. This water is not a concern as it only acts as a source of hydro to get the reaction started, and cannot cause the electro-charged reaction itself.
 
