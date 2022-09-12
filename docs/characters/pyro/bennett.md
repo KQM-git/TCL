@@ -2,12 +2,12 @@
 description: A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.
 ---
 
+# Bennett
+
 ## Resources
 
 * [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
 * [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
-
-# Bennett
 
 ## ![](/assets/element_pyro.png) Bennett
 

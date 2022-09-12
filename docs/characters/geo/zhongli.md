@@ -2,12 +2,12 @@
 description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.
 ---
 
+# Zhongli
+
 ## Resources
 
 * [Full Zhongli Written Guide](https://keqingmains.com/zhong-li/)
 * [Zhongli Mains Discord](https://discord.gg/3h5uepPXKr)
-
-# Zhongli
 
 ## ![](/assets/element_geo.png) Zhongli
 

@@ -7,7 +7,7 @@ search: false
 **Main Page:**
  
 <Card item={require('../../../characters/electro/shinobu.md')} />
- 
+
 ## Basic Mechanics
 [Discussion](https://tickets.deeznuts.moe/transcripts/shinobu-basic-mechanics)  
 
