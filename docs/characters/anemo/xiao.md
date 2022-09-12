@@ -4,6 +4,8 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 # Xiao
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Xiao Mains Discord](https://discord.gg/Xiao)

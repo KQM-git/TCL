@@ -4,6 +4,8 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 
 # Barbara
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Barbara Mains Discord](https://discord.gg/6vVQcsrAgN)
 

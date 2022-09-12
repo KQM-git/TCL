@@ -4,6 +4,8 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 
 # Aloy
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [[Full Written Guide] Aloy: Wandering Heroine](https://keqingmains.com/aloy/)
 

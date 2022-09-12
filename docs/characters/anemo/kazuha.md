@@ -4,6 +4,8 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 # Kaedehara Kazuha
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)

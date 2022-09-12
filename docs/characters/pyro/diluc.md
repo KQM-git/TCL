@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diluc
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Diluc: The Dark Side of the Dawn (In-Depth Written Guide)](https://keqingmains.com/diluc/)

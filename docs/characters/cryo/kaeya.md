@@ -4,6 +4,8 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 # Kaeya
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
 

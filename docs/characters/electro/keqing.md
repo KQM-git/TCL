@@ -4,6 +4,8 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 # Keqing
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Keqing Mains Discord](https://discord.gg/Keqing)  
 * [Full Keqing Written Guide](https://keqingmains.com/keqing/)  

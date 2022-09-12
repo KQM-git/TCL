@@ -4,6 +4,8 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 # Noelle
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Noelle Mains Discord](https://discord.gg/kvft4TKFet)

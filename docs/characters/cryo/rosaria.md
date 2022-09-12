@@ -4,6 +4,8 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 # Rosaria
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)  
 * [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)

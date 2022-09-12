@@ -4,6 +4,8 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 
 # Sayu
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## ![](/assets/element_anemo.png) Sayu
 
 ![](/assets/character_sayu_wish.png)

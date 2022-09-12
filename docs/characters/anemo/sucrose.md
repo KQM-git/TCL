@@ -4,6 +4,8 @@ description: An alchemist filled with curiosity about all things. She researches
 
 # Sucrose
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)

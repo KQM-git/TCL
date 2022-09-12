@@ -4,6 +4,8 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 # Diona
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Full Diona Guide](https://keqingmains.com/diona/)  
 * [4 Minute Quick Guide to Diona](https://youtu.be/IWoSkeAFY4o)  

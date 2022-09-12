@@ -4,6 +4,8 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 # Beidou
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)

@@ -4,6 +4,8 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 # Klee
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Klee Mains Discord](https://discord.gg/NwYDDrfKZU)

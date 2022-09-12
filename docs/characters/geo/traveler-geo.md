@@ -4,6 +4,8 @@ description:  A traveler from another world who had their only kin taken away, f
 
 # Traveler (Geo)
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)

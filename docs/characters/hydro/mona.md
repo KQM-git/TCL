@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Mona
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Mona Mains Discord](https://discord.gg/uxVEDkTyRe)

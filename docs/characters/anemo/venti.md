@@ -4,6 +4,8 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 # Venti
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Venti Guide](https://keqingmains.com/venti/)
 * [Venti Mains Discord](https://discord.gg/ventimains)

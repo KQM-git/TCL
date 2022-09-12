@@ -4,6 +4,8 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 # Zhongli
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Full Zhongli Written Guide](https://keqingmains.com/zhong-li/)

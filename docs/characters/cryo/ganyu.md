@@ -4,6 +4,8 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 # Ganyu
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Short Ganyu Guide](https://keqingmains.com/ganyu/)
 

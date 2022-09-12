@@ -4,6 +4,8 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 # Tartaglia
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Childe Mains Discord](https://discord.gg/Childe)

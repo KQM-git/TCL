@@ -4,6 +4,8 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 # Kamisato Ayaka
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Ayaka Written Guide](https://keqingmains.com/ayaka/)

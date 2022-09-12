@@ -4,6 +4,8 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 # Chongyun
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)

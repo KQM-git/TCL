@@ -4,6 +4,8 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 # Xiangling
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Xiangling Guide](https://keqingmains.com/xiangling/)

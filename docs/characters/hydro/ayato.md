@@ -4,6 +4,8 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 # Kamisato Ayato
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## ![](/assets/element_hydro.png) Kamisato Ayato
 ![](/assets/character_ayato_wish.png)
 

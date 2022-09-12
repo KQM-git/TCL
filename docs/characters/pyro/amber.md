@@ -4,6 +4,8 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 # Amber
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Full Amber Guide](https://keqingmains.com/amber/)
 * [8 Minute Guide to Amber](https://www.youtube.com/watch?v=QW40leHPgJ8)

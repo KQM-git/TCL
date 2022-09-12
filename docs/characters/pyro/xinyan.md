@@ -4,6 +4,8 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 
 # Xinyan
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 [A Guide to Liyue’s Rockstar](https://keqingmains.com/xinyan/)
 

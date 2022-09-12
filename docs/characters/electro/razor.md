@@ -4,6 +4,8 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 # Razor
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Razor Mains Discord](https://discord.gg/6qGZNQkWBX)

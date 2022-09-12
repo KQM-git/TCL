@@ -4,6 +4,8 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 # Albedo
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Albedo Mains Discord](https://discord.gg/uHV2ZCfPXU)

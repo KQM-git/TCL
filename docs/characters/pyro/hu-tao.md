@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Hu Tao
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Hu Tao Mains Discord](https://discord.gg/hutaoscorner)

@@ -4,6 +4,8 @@ description:  A traveler from another world who had their only kin taken away, f
 
 # Traveler (Anemo)
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Full Anemo Traveler Guide](https://keqingmains.com/anemo-traveler/)
 * [5 Minute Guide to Anemo Traveler](https://youtu.be/H4Y6y7JJsvM)

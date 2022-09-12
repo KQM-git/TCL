@@ -4,6 +4,8 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 
 # Sara
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## External Links
 [Short Sara Guide](https://keqingmains.com/sara/)
 

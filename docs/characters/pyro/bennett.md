@@ -4,6 +4,8 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 # Bennett
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)

@@ -4,6 +4,8 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 # Raiden
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Raiden Shogun Guide](https://keqingmains.com/raiden/)

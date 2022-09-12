@@ -4,6 +4,8 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 # Jean
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)

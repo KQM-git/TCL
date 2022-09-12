@@ -4,6 +4,8 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 # Lisa
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 
 * [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)

@@ -4,6 +4,8 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 
 # Thoma
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [6 Minute Guide to Thoma](https://youtu.be/hWj-Ps6QzwE)
 

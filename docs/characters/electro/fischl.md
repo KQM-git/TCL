@@ -4,6 +4,8 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 # Fischl
 
+<blockquote>{frontMatter.description}</blockquote>
+
 ## Resources
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
 * [5 Minute Quick Guide to Fischl](https://youtu.be/_9PPaCczgTo)
