@@ -29,6 +29,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 <Tabs>
 <TabItem value="na" label="Kaboom!">
+
 **Normal Attacks**  
 Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
  

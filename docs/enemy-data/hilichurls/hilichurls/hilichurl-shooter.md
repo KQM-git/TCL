@@ -2,9 +2,7 @@
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
 ---
 
-# Hilichurls
-
-## Hilichurl Shooter
+# Hilichurl Shooter
 
 Hilichurl archers who wield simple crossbows. Hilichurls do not, in truth, possess the craftsmanship needed to build crossbows. As such, it is commonly believed that there is an organization that controls the hilichurls from behind the scenes and furnishes them with equipment and material supplies. The Abyss Mages that often accompany these hilichurls are especially suspicious.
 

@@ -27,6 +27,7 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 
 <Tabs>
 <TabItem value="na" label="Dance on Fire">
+
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 

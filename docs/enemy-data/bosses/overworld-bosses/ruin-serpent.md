@@ -2,9 +2,7 @@
 description: An ancient, bizzarely-shaped autonomous machine.
 ---
 
-# Automaton
-
-## Ruin Serpent
+# Ruin Serpent
 
 It is said that this was heavy-duty engineering equipment left behind by a nation that has been destroyed. The gear system on its "head" can grind its way through even the hardest bedrock. If this was the case, then carving out tunnels with which the forces of this nation might access the whole continent would have been a thing of great ease.  
 

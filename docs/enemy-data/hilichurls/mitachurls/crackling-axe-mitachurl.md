@@ -2,9 +2,7 @@
 description: Muscular Hilichurls who wield large, two-handed axes..
 ---
 
-# Hilichurls
-
-## Crackling Axe Mitachurl
+# Crackling Axe Mitachurl
 
 Attacks with large strikes and uses Electro Slime to infuse their axes with Electro. They are very lethal. Axes forged from steel are excellent Electro-Charged Material. The image of those tall and strong Crackling Axe Mitachurls holding up their axes to summon thunder is quite majestic to the Hilichurls.
 

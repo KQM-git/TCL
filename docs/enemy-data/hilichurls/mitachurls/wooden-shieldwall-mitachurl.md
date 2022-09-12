@@ -2,9 +2,7 @@
 description: A muscular hilichurl who has been forged in countless fights..
 ---
 
-# Hilichurls
-
-## Wooden Shieldwall Mitachurl
+# Wooden Shieldwall Mitachurl
 
 They know how to use Dendro Slimes to create tough shields which they wield in combat. With their powerful muscles, glossy fur, and sturdy, reliable silhouettes, they help the hilichurls withstand the pitiless assaults of adventurers, and they hold a rather exalted rank amongst the tribes.
 

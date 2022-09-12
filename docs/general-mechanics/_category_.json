@@ -1,4 +1,9 @@
 {
     "position": 3002,
-    "label": "General Mechanic"
+    "link": {
+        "type": "generated-index",
+        "slug": "/general-mechanics",
+        "title": "General Mechanics"
+    },
+    "label": "General Mechanics"
 }

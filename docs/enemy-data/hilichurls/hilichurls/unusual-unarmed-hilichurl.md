@@ -2,9 +2,7 @@
 description: Homu, homu, mimi domu!
 ---
 
-# Hilichurls
-
-## Unusual Unarmed Hilichurl
+# Unusual Unarmed Hilichurl
 
 
 

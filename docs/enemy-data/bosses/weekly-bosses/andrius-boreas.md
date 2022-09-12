@@ -1,10 +1,9 @@
 ---
-description: The noblest and greatest of souls, who watches over the lupical of Wolvendom..
+description: The noblest and greatest of souls, who watches over the lupical of Wolvendom.
+sidebar_position: 2
 ---
 
-# Weekly Bosses
-
-## Andrius, Dominator of Wolves / Boreas, Great Wolf King of the North
+# Andrius, Dominator of Wolves / Boreas, Great Wolf King of the North
 
 When the wolfpack is imperiled, it will emerge in the form of a wolf and show forth its fangs and claws. The wolves of Wolvendom are frightening phantoms to the people of Mondstadt:A blurred shape flashing through the forest, a chilling howl in the indeterminate distance, the creeping sense of eyes constantly nailed to their backs... Humans rarely have the opportunity to lock their eyes with a wolf, for this is the law Lupus Boreas laid down for its race.
 

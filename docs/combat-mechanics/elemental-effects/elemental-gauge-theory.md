@@ -1,5 +1,6 @@
 ---
 description: The current method of explaining all game mechanics involving elements
+sidebar_position: 1001
 ---
 
 # Elemental Gauge Theory
@@ -10,7 +11,7 @@ To our knowledge, the framework of Elemental Gauge Theory can be applied to expl
 
 :::info
 If any words are unfamiliar, we have a entry on [common terms](../../theorycrafting.md#reaction-terms), with a specific section on terms commonly found when discussing reactions.
-:::danger
+:::
 
 ## Notation
 

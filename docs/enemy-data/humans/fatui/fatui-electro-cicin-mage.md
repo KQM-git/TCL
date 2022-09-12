@@ -2,9 +2,7 @@
 description: A Fatui mage who can command Electro Cicins in battle..
 ---
 
-# Fatui
-
-## Fatui Electro Cicin Mage
+# Fatui Electro Cicin Mage
 
 Their origins and what they look like under that mask are both mysteries. Similarly to the way that Electro Cicins go crazy for Mist Grass, Cicin Mages take great pleasure in toying with their prey.
 

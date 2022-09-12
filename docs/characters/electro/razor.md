@@ -29,6 +29,7 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 <Tabs>
 <TabItem value="na" label="Steel Fang">
+
 **Normal Attacks**  
 Razor performs 4 consecutive strikes.
 

@@ -2,9 +2,7 @@
 description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains..
 ---
 
-# Treasure Hoarders
-
-## Treasure Hoarders: Crusher
+# Treasure Hoarders: Crusher
 
 This person was originally a miner — one who, even with the allowance they were provided with after the closure of the Chasm, ended up with the Treasure Hoarders for various reasons.
 

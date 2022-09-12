@@ -27,6 +27,7 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word “
 
 <Tabs>
 <TabItem value="na" label="Whisper of Water">
+
 **Normal Attack**  
 Perform up to 4 water splash attacks that deal Hydro DMG.
 

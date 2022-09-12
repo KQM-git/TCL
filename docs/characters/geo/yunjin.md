@@ -23,6 +23,7 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 
 <Tabs>
 <TabItem value="na" label="Cloud-Grazing Strike">
+
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 

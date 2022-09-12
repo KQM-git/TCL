@@ -23,6 +23,7 @@ description: Lady Guuji of the Grand Narukami Shrine also serves as the editor-i
 
 <Tabs>
 <TabItem value="na" label="Normal Attack: Spiritfox Sin-Eater">
+
 **Normal Attacks**  
 Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG.
 

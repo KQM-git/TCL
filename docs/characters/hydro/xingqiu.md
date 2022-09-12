@@ -30,6 +30,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 <Tabs>
 <TabItem value="na" label="Guhua Style">
+
 **Normal Attack**  
 Perform up to 5 rapid strikes.
 

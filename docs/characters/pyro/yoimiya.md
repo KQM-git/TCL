@@ -28,6 +28,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 
 <Tabs>
 <TabItem value="na" label="Firework Flare-Up">
+
 **Normal Attacks**  
 Performs up to 5 consecutive shots with a bow.
 

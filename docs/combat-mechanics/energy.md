@@ -1,3 +1,7 @@
+---
+sidebar_position: 3000
+---
+
 # Energy
 
 ## What is Energy?

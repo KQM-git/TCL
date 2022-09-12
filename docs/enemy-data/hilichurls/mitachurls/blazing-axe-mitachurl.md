@@ -2,9 +2,7 @@
 description: Muscular hilichurls who wield large two-handed axes..
 ---
 
-# Hilichurls
-
-## Blazing Axe Mitachurl
+# Blazing Axe Mitachurl
 
 Attacks with large strikes, and will use Pyro Slimes to infuse their axes with Pyro. They are very lethal. Usually, repeated quenching a weapon the way a Blazing Axe Mitachurl does will decrease the hardness of the metal and cause the axe-head's edge to chip more easily. But such is the strength of the mitachurls that even should the edge disappear altogether, they can still use their axes as hammers.
 

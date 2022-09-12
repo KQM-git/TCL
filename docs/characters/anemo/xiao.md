@@ -29,6 +29,7 @@ description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer o
 
 <Tabs>
 <TabItem value="na" label="Whirlwind Thrust">
+
 **Normal Attacks**  
 Xiao performs up to six consecutive spear strikes.
 

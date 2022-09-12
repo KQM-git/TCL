@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Daythunder
+# Eremite Daythunder
 
 A true scion of a warrior tribe, such warriors see battle as their ordained purpose, and unlike some barbarian who wields a large ax with ease, these tribespeople are also quite well-versed in the lore and songs of the desert ruins.  
 An ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril. Once it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder’s foe.  

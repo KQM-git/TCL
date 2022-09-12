@@ -1,10 +1,9 @@
 ---
 description: Signora, the Eighth of the Fatui Harbingers.
+sidebar_position: 2
 ---
 
-# Weekly Bosses
-
-## Crimson Witch of Flame
+# Crimson Witch of Flame
 
 The crimson dawn was reflected in her pupils, and at last, she unfolded her flaming wings and flew towards the light.
 "But that light is not the dawn, dear Rosalyne. That is a sea of flame that will consume everything."

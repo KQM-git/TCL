@@ -1,3 +1,7 @@
+---
+sidebar_position: 5001
+---
+
 # Elemental Resonance
 
 When you have a full party, you will receive bonus effects, known as Elemental Resonances, that correspond to the Elemental Types present in the party.  

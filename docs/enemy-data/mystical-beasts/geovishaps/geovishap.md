@@ -1,8 +1,9 @@
 ---
 description: A mature Geovishap..
+sidebar_position: 1
 ---
 
-# Geovishaps
+# Geovishap
 
 It is said that after many years have passed, Geovishap Hatchlings will shed the armor that originally protected them and become Geovishaps. However, these two and the older, greater Primo Geovishaps have spent many years hibernating under the mountains, and have only emerged and become active in recent times. As such, none can personally attest to having witnessed or recorded such a thing in person.
 

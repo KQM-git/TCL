@@ -30,6 +30,7 @@ description: An alchemist filled with curiosity about all things. She researches
 
 <Tabs>
 <TabItem value="na" label="Wind Spirit Creation">
+
 **Normal Attack**  
 Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 

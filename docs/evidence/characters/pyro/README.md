@@ -1,6 +1,0 @@
----
-search: false
----
-
-# Pyro
-

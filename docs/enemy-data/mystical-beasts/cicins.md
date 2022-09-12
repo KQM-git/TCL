@@ -1,8 +1,8 @@
-# Cicins
+---
+description: Little creatures that can ever so slightly manipulate elements.
+---
 
----
-Little creatures that can ever so slightly manipulate elements.
----
+# Cicins
 
 ## Weakspot Details
 

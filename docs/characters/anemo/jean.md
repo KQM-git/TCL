@@ -29,6 +29,7 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 <Tabs>
 <TabItem value="na" label="Favonius Bladework">
+
 **Normal Attacks**  
 Jean performs up to 5 consecutive attacks.
 
@@ -59,6 +60,7 @@ Consumes 20 stamina to strike upwards and knocks up enemies that will then fall 
 </TabItem>
 
 <TabItem value="e" label="Gale Blade">
+
 **Press**  
 Focusing the might of the formless wind around her blade, Jean releases a miniature storm, launching opponents in the direction she aims at, dealing massive Anemo DMG.
 

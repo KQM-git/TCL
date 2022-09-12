@@ -14,6 +14,7 @@ description: The herd consists of a particularly powerful Bolteater Bathysmal Vi
 
 ## Resistance Table
 Coral Defenders have +20% RES to their own Element.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 30% |

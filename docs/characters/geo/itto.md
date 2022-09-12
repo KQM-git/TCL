@@ -27,6 +27,7 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 <Tabs>
 <TabItem value="na" label="Fight Club Legend">
+
 **Normal Attack**  
 Perform up to 4 consecutive strikes.  
 • When the 2nd and 4th strikes hit opponents, Itto will gain 1 and 2 stacks of **Superlative Superstrength**, respectively. Max 5 stacks. Triggering this effect will refresh the current duration of any existing stacks.  
@@ -81,6 +82,7 @@ If no stacks of **Superlative Superstrength** are available, Itto will perform a
 </TabItem>
 
 <TabItem value="e" label="Masatsu Zetsugi: Akaushi Burst!">
+
 **Press**  
 Hurls Ushi, the young akaushi bull and auxiliary member of the Arataki Gang, dealing Geo DMG to opponents on hit. When Ushi hits opponents, Arataki Itto gains 1 stack of **Superlative Superstrength**.  
 

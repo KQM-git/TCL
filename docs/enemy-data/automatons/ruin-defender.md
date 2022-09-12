@@ -1,10 +1,4 @@
----
-description: Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals..
----
-
-# Automaton
-
-## Ruin Defender
+# Ruin Defender
 
 Legend has it that they were war machines left behind by a nation that had been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. The insect-like limbs are more agile than humanoid machines. The shield formed by each part can resist any frontal attack.
 

@@ -18,9 +18,10 @@ Unknown.
 
 ## Resistance Table
 
-Starts the battle with +200% Resistances for a few seconds.
-Gains +30% Resistance to the infused element.
+Starts the battle with +200% Resistances for a few seconds.  
+Gains +30% Resistance to the infused element.  
 Loses -50% Resistance to all after its' attack is reflected.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 30% |

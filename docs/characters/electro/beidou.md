@@ -30,6 +30,7 @@ description: 'Captain of her crew, The Crux. She''s quite an unbound and forthri
 
 <Tabs>
 <TabItem value="na" label="Oceanborne">
+
 **Normal Attacks**  
 Beidou performs up to 5 consecutive attacks.
 

@@ -29,6 +29,7 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 <Tabs>
 <TabItem value="na" label="Kamisato Art - Kabuki">
+
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -91,6 +92,7 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 </TabItem>
 
 <TabItem value="alt" label="Kamisato Art: Senho">
+
 **Alternate Sprint**  
 Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.  
 

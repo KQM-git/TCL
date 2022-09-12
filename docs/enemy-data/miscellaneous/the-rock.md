@@ -2,9 +2,7 @@
 description: The Rock.
 ---
 
-# Miscellaneous Enemies and Entities
-
-## The Rock
+# The Rock
 
 The Rock (Igneous Pebblus) is a federally endangered species which is currently known to live in various regions of Mondstadt. The range of the Rock historically included the northern part of Dragonspine and various clusters in Cape Oath. Exploitative research and tree farming have driven this species to near extinction. It is unknown if there are surviving habitats of Rocks in other parts of Teyvat.  
 

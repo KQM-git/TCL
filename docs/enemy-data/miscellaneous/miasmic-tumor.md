@@ -2,9 +2,7 @@
 description: Boss at the end of the Sacred Sakura Cleansing Ritual Quest.
 ---
 
-# Miscellaneous Enemies and Entities
-
-## Miasmic Tumor
+# Miasmic Tumor
 
 This boss is fought at the end of the Sacred Sakura Cleansing Ritual Questline, underneath the Sacred Sakura tree.
 

@@ -76,6 +76,7 @@
 <Tabs>
 
 <TabItem value="desc" label="Description">
+
 | Attribute | Description |
 | :--- | :--- |
 | Honed Flow | Obtain **12/15/18/21/24**% All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20/25/30/35/40**% for 8s.|
@@ -85,6 +86,7 @@
 </TabItem>
 
 <TabItem value="details" label="Details">
+
 | Level | Base ATK | CRIT Rate% |
 | :--- | :--- | :--- |
 | 60 | 382 | 24.4 |
@@ -305,6 +307,7 @@
 ### Cinnabar Spindle
 <Tabs>
 <TabItem value="desc" label="Description">
+
 | Attribute | Description |
 | :--- | :--- |
 | Spotless Heart | Elemental Skill DMG is increased by **40/50/60/70/80**% of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG. | 
@@ -316,6 +319,7 @@
 </TabItem>
 
 <TabItem value="details" label="Details">
+
 | Level | Base ATK | DEF  |
 |-------|----------|------|
 | 1     | 41       | 15   |

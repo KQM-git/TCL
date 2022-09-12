@@ -27,6 +27,7 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 
 <Tabs>
 <TabItem value="na" label="Swiftshatter Spear">
+
 **Normal Attacks**  
 Performs up to four consecutive spear strikes.
 

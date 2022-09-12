@@ -2,9 +2,7 @@
 description: An disciplined mechanical swordsman.
 ---
 
-# Automaton
-
-## Maguu Kenki
+# Maguu Kenki
 
 Doesn't seem to have the ability nor will to speak, but instead only seeks to communicate with crossed swords.
 It is said that this machine was made using the memories of the first-generation master of a certain sword school. However, it malfunctioned, lost control, and was ultimately discarded.

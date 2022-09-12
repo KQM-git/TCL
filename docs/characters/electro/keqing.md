@@ -29,6 +29,7 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 <Tabs>
 <TabItem value="na" label="Yunlai Swordsmanship">
+
 **Normal Attacks**  
 Keqing performs up to 5 consecutive attacks.
 
@@ -68,6 +69,7 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 </TabItem>
 
 <TabItem value="e" label="Stellar Restoration">
+
 **Press**  
 Hurls a **Lightning Stiletto** that annihilates her opponents like the swift thunder.  
 When the **Stiletto** hits its target, it deals Electro DMG to opponents in a small AoE, and places a **Stiletto Mark** on the spot hit.

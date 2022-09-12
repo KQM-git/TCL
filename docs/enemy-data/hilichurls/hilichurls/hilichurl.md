@@ -1,10 +1,9 @@
 ---
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
+sidebar_position: 1
 ---
 
-# Hilichurls
-
-## Hilichurl
+# Hilichurl
 
 They look very similar to humanity but seem to have lost both their intellect and spirituality. Their presence on the continent has been recorded for over a thousand years, and yet they have neither history nor civilization. Since the pitch-black calamity from five hundred years ago, they have begun to spread in large numbers across the land. They are not very strong, and they lack organization, but they nonetheless bring sizable trouble to humans every once in a while.
 

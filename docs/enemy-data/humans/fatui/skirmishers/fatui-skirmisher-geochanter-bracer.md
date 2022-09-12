@@ -2,9 +2,7 @@
 description: A skirmisher with the ability to generate a Geo Shield and defend their allies..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Geochanter Bracer
+# Fatui Skirmisher - Geochanter Bracer
 
 Unlike the elite Mages and Agents, Fatui Skirmishers are soldiers of lesser individual might. To complete their tasks and reduce losses in men and materiel, their tactics are thus more reliant on teamwork.
 

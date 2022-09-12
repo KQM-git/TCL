@@ -29,6 +29,7 @@ description: The Spindrift Knight, a scion of old aristocracy, and the Captain o
 
 <Tabs>
 <TabItem value="na" label="Favonius Bladework - Edel">
+
 **Normal Attack**
 
 Eula performs up to 5 consecutive strikes.

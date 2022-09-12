@@ -29,6 +29,7 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 <Tabs>
 <TabItem value="tldr" label="TLDR">
+
 **With Anemo Resonance**
 
 * N1 + plunge spam = 207.36% MV/s
@@ -43,6 +44,7 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 </TabItem>
 
 <TabItem value="ds" label="DS: Anemo Res Only">
+
 **First String**
 
 * start of 1st N1:  0:25 \(frame when sword is off her back\)
@@ -91,6 +93,7 @@ _An increase of 35.4% DPS._
 </TabItem>
 
 <TabItem value="n3d" label="N3D: Jean C2">
+
 **First String**
 
 * start of 1st N1:  5:27
@@ -234,6 +237,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 <Tabs>
 <TabItem value="calculations" label="Calculations">
+
 **Expected damage before C2 using SS:**
 
 ```python
@@ -261,6 +265,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 </TabItem>
 
 <TabItem value="stats" label="Stats">
+
 **Noelle stats:**
 
 * Level 90  

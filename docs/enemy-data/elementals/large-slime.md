@@ -1,9 +1,10 @@
 ---
 description: >-
   A pudgy elemental life form.
+sidebar_position: 3
 ---
 
-# Slimes
+# Large Slimes
 
 ## Weakspot details
 

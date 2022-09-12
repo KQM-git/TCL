@@ -6,6 +6,7 @@
 
 <Tabs>
 <TabItem value="desc" label="Description">
+
 | Attribute | Description |
 | :--- | :--- |
 | Gokadaiou Otogibanashi | DEF is increased by **28/35/42/49/56**%. Normal and Charged Attack DMG is increased by **40/50/60/70/80**% of DEF. |
@@ -15,6 +16,7 @@
 </TabItem>
 
 <TabItem value="details" label="Details">
+
 | Level | Base ATK | CRIT DMG |
 |-------|----------|----------|
 | 1     | 44       | 19.2     |

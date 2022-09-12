@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Ravenbreak Halberdier
+# Eremite Ravenbreak Halberdier
 
 These warriors use Ravenbeak Halberds in battle. It is said that ascetics who served the deity of the desert would carry these halberds as symbols of their office. These weapons once had a true name, but it has long been lost to the desert sands.  
 

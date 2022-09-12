@@ -2,9 +2,7 @@
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
 ---
 
-# Hilichurls
-
-## Hilichurl Fighter
+# Hilichurl Fighter
 
 Ill-tempered warriors for their tribes, they are simple-minded believers in the power of brute force. If their muscles grow strong enough and their strength great enough, then one day they too shall raise up a great shield and become a mitachurl... Or will they?
 

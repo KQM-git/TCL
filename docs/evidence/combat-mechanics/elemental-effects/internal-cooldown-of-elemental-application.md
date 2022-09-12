@@ -1,5 +1,6 @@
 ---
 search: false
+sidebar_position: 4001
 ---
 
 # Internal Cooldown of Elemental Application

@@ -1,3 +1,7 @@
+---
+sidebar_position: 3001
+---
+
 # Elemental Absorption
 
 Elemental Absorption is the capability of certain Anemo abilities to be infused with either Hydro, Pyro, Cyro, or Electro. Such abilities can only be infused once with a single element per use, and will deal damage of that type periodically throughout the ability's duration. 

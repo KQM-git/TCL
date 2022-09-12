@@ -2,9 +2,7 @@
 description: A soldier encased within a Fatui war machine..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Hydrogunner Legionnaire
+# Fatui Skirmisher - Hydrogunner Legionnaire
 
 Armed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of water. These skirmishers do not question if they shall live or die as they advance into nations far from home to complete advance missions and lay the groundwork for operations to come.
 

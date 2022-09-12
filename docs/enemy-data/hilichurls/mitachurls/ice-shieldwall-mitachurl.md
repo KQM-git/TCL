@@ -2,9 +2,7 @@
 description: A muscular hilichurl that uses solid ice as a shield, wielding it in battle..
 ---
 
-# Hilichurls
-
-## Ice Shieldwall Mitachurl
+# Ice Shieldwall Mitachurl
 
 Reason normally dictates that large creatures that see a lot of action should burn through a great number of calories to sustain themselves. As such, the present-day El Musk has proposed the "Mitachurl Index." This index correlates the percentage of mitachurls within the hilichurl population to the stability and success of hilichurl foraging activity.
 

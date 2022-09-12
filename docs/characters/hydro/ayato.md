@@ -283,6 +283,7 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 </TabItem>
 
 <TabItem value="e" label="Kamisato Art: Kyouka">
+
 |  | Shunsuiken 1-Hit DMG | Shunsuiken 2-Hit DMG | Shunsuiken 3-Hit DMG | Namisen DMG Bonus | Water Illusion DMG |
 |---|---|---|---|---|---|
 | Lv1 | 52.89% | 58.91% | 64.93% | 0.56% Max HP | 101.48% |
@@ -306,6 +307,7 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 </TabItem>
 
 <TabItem value="q" label="Kamisato Art: Suiyuu">
+
 |      | Bloomwater Blade DMG | Normal Attack DMG Bonus |
 |------|----------------------|-------------------------|
 | Lv1  | 66.46%               | 11%                     |

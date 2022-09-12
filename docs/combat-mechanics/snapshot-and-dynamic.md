@@ -1,3 +1,7 @@
+---
+sidebar_position: 1300
+---
+
 # Snapshot & Dynamic
 
 ## Snapshot & Dynamic

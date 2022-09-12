@@ -28,6 +28,7 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 <Tabs>
 <TabItem value="na" label="Origin">
+
 **Normal Attacks**  
 Performs up to 5 consecutive spear strikes.
 

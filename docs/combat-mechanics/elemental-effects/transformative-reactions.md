@@ -1,5 +1,6 @@
 ---
 description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Crystallize.'
+sidebar_position: 2002
 ---
 
 # Transformative Reactions
@@ -118,11 +119,11 @@ The duration of Freeze is as shown in the following formulas:
 
 $$
 \begin{align*}
-&\mbox{Origin Aura Gauge when frozen}=(0.8*\mbox{Origin Element Gauge})\*\left(1-\frac{\mbox{Time between Origin and Trigger Element application}}{2.5*\mbox{Origin Element Gauge}+7}\right)\\\\
-&\mbox{Frozen Aura Gauge}=2\*Min\mbox{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
-&\mbox{Freeze Duration}=2\*\sqrt{5\*\mbox{Frozen Aura Gauge}+4}-4\\\\
-&\mbox{Time is in seconds}\\\\
-&\mbox{Gauge has to be 1A, 2B, or 4C}
+&\text{Origin Aura Gauge when frozen}=(0.8*\text{Origin Element Gauge}) * \left(1-\frac{\text{Time between Origin and Trigger Element application}}{2.5*\text{Origin Element Gauge}+7}\right)\\\\
+&\text{Frozen Aura Gauge}=2 * Min\text{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
+&\text{Freeze Duration}=2 * \sqrt{5 * \text{Frozen Aura Gauge}+4}-4\\\\
+&\text{Time is in seconds}\\\\
+&\text{Gauge has to be 1A, 2B, or 4C}
 \end{align*}
 $$
 
@@ -135,9 +136,9 @@ Thus, extending the above freeze formula, the generalized freeze duration formul
 
 $$
 \begin{align*}
-&\mbox{Decay Time Modifier}=\sum{\max({0, \mbox{Time Spent Frozen} - 2*\mbox{Time Spent Unfrozen}})}\\\\
-&\mbox{For consecutive periods of Time Spent Frozen followed by Time Spent Unfrozen}\\\\
-&\mbox{Freeze Duration}=\sqrt{20*\mbox{Frozen aura gauge}+(\mbox{Decay Time Modifier} + 4)^2}-\mbox{Decay Time Modifier}-4\\\\
+&\text{Decay Time Modifier}=\sum{\max({0, \text{Time Spent Frozen} - 2*\text{Time Spent Unfrozen}})}\\\\
+&\text{For consecutive periods of Time Spent Frozen followed by Time Spent Unfrozen}\\\\
+&\text{Freeze Duration}=\sqrt{20*\text{Frozen aura gauge}+(\text{Decay Time Modifier} + 4)^2}-\text{Decay Time Modifier}-4\\\\
 \end{align*}
 $$
 

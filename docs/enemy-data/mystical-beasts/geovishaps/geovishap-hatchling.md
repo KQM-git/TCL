@@ -2,9 +2,7 @@
 description: A young vishap with a hard Geo exoskeleton..
 ---
 
-# Geovishaps
-
-## Geovishap Hatchling
+# Geovishap Hatchling
 
 Vishaps are exceptionally agile creatures that one would be wise not to underestimate in battle. Experts from Sumeru Akademiya believe that they become dragons when fully grown. By avoiding predators and natural disasters, perhaps they can even live long enough to become formidable beasts that reign over entire mountains.
 

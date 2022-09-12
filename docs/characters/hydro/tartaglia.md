@@ -30,6 +30,7 @@ description: No. 11 of The Harbingers, also known as “Childe.” His name is h
 
 <Tabs>
 <TabItem value="na" label="Cutting Torrent">
+
 **Normal Attacks**  
 Perform up to 6 consecutive shots with a bow.
 

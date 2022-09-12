@@ -2,6 +2,7 @@
 description: >-
   Lowly life forms of minimal intelligence, made from condensed elemental
   energy.
+sidebar_position: 2
 ---
 
 # Slimes

@@ -1,4 +1,9 @@
 {
     "position": 5001,
+    "link": {
+        "type": "generated-index",
+        "slug": "/enemy-data",
+        "title": "Enemy Data"
+    },
     "label": "Enemy Data"
 }

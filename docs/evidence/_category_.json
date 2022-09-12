@@ -1,0 +1,10 @@
+{
+  "position": 9001,
+  "link": {
+      "type": "generated-index",
+      "slug": "/evidence",
+      "title": "Evidence Vault",
+      "description": "Evidence is integral to the Theorycrafting Library. Most claims should be appended here and hyperlinked in the respective article of interest."
+  },
+  "label": "Evidence Vault"
+}

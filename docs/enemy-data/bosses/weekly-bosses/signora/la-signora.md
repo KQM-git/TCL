@@ -1,10 +1,9 @@
 ---
 description: La Signora, the Eighth of the Fatui Harbingers.
+sidebar_position: 1
 ---
 
-# Weekly Bosses
-
-## La Signora - First form
+# La Signora - First form
 
 Unlike other Fatui who use the authority granted by Delusions, her Delusion is meant to shackle a flame that will devour everything. As opposed to a weapon used to kill, it might be more fitting to consider this a tool of imprisonment.
 And it was the embers of that flame, which had accumulated over many long years, that would break through the frosty seal of the Delusion and apply a warped rogue upon her.

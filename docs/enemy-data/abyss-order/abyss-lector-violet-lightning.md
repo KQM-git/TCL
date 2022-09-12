@@ -2,9 +2,7 @@
 description: A monster who serves the Abyss Order and commands lightning while singing the praises of the darkness.
 ---
 
-# The Abyss Order
-
-## Abyss Lector: Violet Lightning
+# Abyss Lector: Violet Lightning
 
 These are the evangelists and the scholars of the Abyss. Their violent lightning strikes the hearts of unbelievers with dark wisdom, warped by the shadowy depths of an eternal night, its violet glow proclaiming the existence of a great power that corrodes human intellect.
 

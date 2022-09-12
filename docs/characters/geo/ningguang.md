@@ -28,6 +28,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 <Tabs>
 <TabItem value="na" label="Sparkling Scatter">
+
 **Normal Attack**  
 Shoots gems that deal Geo DMG.  
 Upon hit, grants Ningguang 1 **Star Jade**.

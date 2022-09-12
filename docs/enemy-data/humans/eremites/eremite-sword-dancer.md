@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Sword-Dancer
+# Eremite Sword-Dancer
 
 This desert warrior wields a large curved blade in battle. The skills such fighters boast of have been passed down since the days when their now-lost civilization was still extant, and are not only techniques to be used in battle, but also serve well as a performing art popular in various lands.  
 It is said that this sword art was once practiced from horseback.  

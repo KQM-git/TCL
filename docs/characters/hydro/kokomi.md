@@ -28,6 +28,7 @@ description: The Divine Priestess of Watatsumi Island. All of the island's affai
 
 <Tabs>
 <TabItem value="na" label="The Shape of Water">
+
 **Normal Attacks**  
 Performs up to 3 consecutive attacks that take the form of swimming fish, dealing Hydro DMG.
 

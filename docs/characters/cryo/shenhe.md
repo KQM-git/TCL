@@ -26,6 +26,7 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 
 <Tabs>
 <TabItem value="na" label="Dawnstar Piercer">
+
 **Normal Attacks**  
 Performs up to five consecutive spear strikes.
 

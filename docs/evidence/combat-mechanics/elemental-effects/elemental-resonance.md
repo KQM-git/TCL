@@ -1,5 +1,6 @@
 ---
 search: false
+sidebar_position: 5001
 ---
 
 # Elemental Resonance  

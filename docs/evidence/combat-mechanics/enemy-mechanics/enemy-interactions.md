@@ -250,8 +250,6 @@ The camera movement of some weekly boss animations can be skipped through elemen
 **Significance:**  
 This may assist in shortening the time required to kill weekly bosses, as well as confirm that Dvalin is freaky and doesn't follow any logic.  
 
-## Weekly Bosses
-
 ### Andrius, Wolf of the North.  
 
 #### How to skip Phase 2 transformation

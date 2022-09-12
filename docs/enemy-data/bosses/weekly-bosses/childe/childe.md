@@ -1,6 +1,7 @@
 ---
 description: >-
   "Childe" Tartaglia, Eleventh of the Fatui Harbingers..
+sidebar_position: 3
 ---
 
 # Childe
@@ -72,3 +73,9 @@ None.
   * This attack is only performed if a target is marked with hydro riptide.
 * Marks the player with a circle of black lightning. Charges for a while, flies high slowly, and then strikes down at the player, dealing massive amount of Electro DMG around the landing point.
   * This attack is only performed if a target is marked with electro riptide.
+
+## Forms
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />

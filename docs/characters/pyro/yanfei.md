@@ -28,6 +28,7 @@ description: A well-known legal adviser active in Liyue Harbor. A briliant young
 
 <Tabs>
 <TabItem value="na" label="Seal of Approval">
+
 **Normal Attacks**  
 Shoots fireballs that deal up to three counts of Pyro DMG.
 

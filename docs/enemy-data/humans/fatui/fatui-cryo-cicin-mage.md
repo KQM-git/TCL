@@ -2,9 +2,7 @@
 description: A Fatui mage who can command Cryo Cicins in battle..
 ---
 
-# Fatui
-
-## Fatui Cryo Cicin Mage
+# Fatui Cryo Cicin Mage
 
 Their origins and what they look like under that mask are both mysteries. Reason dictates that those who lack Visions should not be able to control the elements as these mages do. However, in addition to using Mist Grass to control the Cryo Cicins, they also boldly wield the might of frost. Seeing them as they wander the land in their seemingly aimless way, one can't help but wonder about the duty that must compel them...
 

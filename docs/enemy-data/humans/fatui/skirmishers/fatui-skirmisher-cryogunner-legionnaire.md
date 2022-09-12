@@ -2,9 +2,7 @@
 description: A soldier encased within a Fatui war machine..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Cryogunner Legionnaire
+# Fatui Skirmisher - Cryogunner Legionnaire
 
 Armed with equipment that can control the elements to a certain extent, their guns are capable of firing jets of frost. Though this may confer elemental power beyond the ken of ordinary humans, that power may yet come at a price...
 

@@ -1,12 +1,13 @@
 ---
 description: An explanation of the Poise system in Genshin and how stagger works.
+sidebar_position: 5000
 ---
 
 # Poise
 
 :::info
 If you come across any unknown terms, there is a section in the [glossary](../theorycrafting.md#poise) dedicated to terms used for poise mechanics.
-:::danger
+:::
 
 ## How to Stagger an Enemy
 
@@ -65,7 +66,7 @@ You can stack Poise and allow your characters to further avoid being staggered.
 
 :::caution
 If an attack has enough force, the attack can both set the target’s status to **vulnerable** and **stagger** the target in one go.
-:::danger
+:::
 
 ### About the Vulnerable Status:
 
@@ -78,7 +79,7 @@ If an attack has enough force, the attack can both set the target’s status to 
 
 :::caution
 During the stagger animation, an enemy is **still considered vulnerable**. Meaning, you can attack an enemy in the stagger animation to **override** the previous **Stagger Level**.
-:::danger
+:::
 
 > C4 Bennett uses a fully-charged level 1 elemental skill, causing a Stonehide Lawachurl to be staggered at **Stagger Level 4**. Bennett then performs an additional attack, causing the **Level 4 Stagger** animation to turn into a **Level 2 Stagger**.
 

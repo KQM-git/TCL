@@ -1,3 +1,7 @@
+---
+sidebar_position: 3000
+---
+
 # Cooldowns
 
 Cooldowns are the time between being able to cast skills. This is calculated at the time of the skill cast. Multi-charge skills snapshot Cooldown Reduction at the time that the first charge goes on cooldown. This can effectively permanently maintain CDR for these abilities.<sup>[[1]](../evidence/combat-mechanics/cooldowns.md#multi-charge-skills-snapshot-cdr)</sup>

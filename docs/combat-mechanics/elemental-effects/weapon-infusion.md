@@ -1,5 +1,6 @@
 ---
 description: Elemental Infusions
+sidebar_position: 6001
 ---
 
 # Weapon Infusion

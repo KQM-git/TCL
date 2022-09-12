@@ -2,9 +2,7 @@
 description: A mysterious "lord" of hilichurls that walks between a thousand peaks..
 ---
 
-# Hilichurls
-
-## Stonehide Lawachurl
+# Stonehide Lawachurl
 
 This huge hilichurl is referred to as a "lawa" by its brethren. The abundant Geo energies in the environment have become part of their flesh, blood, and skin, which look as if they were chiseled out of mountain rock.
 

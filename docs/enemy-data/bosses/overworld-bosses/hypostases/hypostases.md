@@ -11,6 +11,7 @@ None.
 ## Resistance Table
 
 All Hypostasis are immune to their own element.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 0% |

@@ -2,9 +2,7 @@
 description: Servants of the Abyss Order that use Hydro in combat.
 ---
 
-# The Abyss Order
-
-## Abyss Herald: Wicked Torrents
+# Abyss Herald: Wicked Torrents
 
 These silent figures are the vanguard of the Abyss, brandishing Tidal Blades that can engulf everything in an instant, crumpling armor and obliterating heretics. They shall bring preordained damnation upon the foolish masses.
 

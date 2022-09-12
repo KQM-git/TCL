@@ -28,6 +28,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 <Tabs>
 <TabItem value="na" label="Dough-Fu">
+
 **Normal Attacks**  
 Xiangling performs up to five consecutive spear strikes
 

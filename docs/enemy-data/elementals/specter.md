@@ -1,6 +1,7 @@
 ---
 description: >-
   A monster birthed from a high concentration of elements that can float in the air. 
+sidebar_position: 1
 ---
 
 # Specters

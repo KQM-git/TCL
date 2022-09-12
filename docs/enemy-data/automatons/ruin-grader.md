@@ -2,9 +2,7 @@
 description: An ancient humanoid war machine..
 ---
 
-# Automaton
-
-## Ruin Grader
+# Ruin Grader
 
 Their form is similar to that of Ruin Guards, but is more distorted and more powerful. Energy cores have been installed in both its legs, as though to power its overly heavy form.
 

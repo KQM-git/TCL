@@ -2,9 +2,7 @@
 description: Wielders of abyssal fire who pursue the meaning behind texts and scriptures. Is a member of the Abyss Order.
 ---
 
-# The Abyss Order
-
-## Abyss Lector: Fathomless Flames
+# Abyss Lector: Fathomless Flames
 
 The surface people ahve a slightly distorted understanding of what their name means, calling them "Lectors," when their name can also mean "exegete." Reading the word of grace grants them great power.
 

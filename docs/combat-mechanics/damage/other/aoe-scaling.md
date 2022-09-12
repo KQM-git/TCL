@@ -11,7 +11,9 @@ Assume Kaeya is fighting a group of 4 enemies that are grouped together, and cas
 
 We can then illustrate the total damage done in the following formula.
 
-$$ Total Damage = Base Damage \times NumberOfEnemies $$
+$$
+Total Damage = Base Damage \times NumberOfEnemies
+$$
 
 Most attacks in Genshin fall under the category of Linear AoE Scaling.
 
@@ -22,7 +24,9 @@ Assume Tartaglia is fighting 4 grouped enemies with Riptide marks on each of the
 
 Since the number of Riptide Flashes is equal to the number of enemies, we can illustrate the total damage done as the following formula.
 
-$$ Total Damage = Base Damage \times NumberOfEnemies^{2} $$
+$$
+Total Damage = Base Damage \times NumberOfEnemies^{2}
+$$
 
 Similarly, Ganyu Q will spawn an icicle for each enemy within the circle, but unlike Tartaglia's Riptide Flashes it is capped at 5 per wave. This means any additional enemies will not spawn an additional icicle, and the most damage a single enemy can take is 5 icicles per wave.
 

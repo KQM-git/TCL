@@ -23,6 +23,7 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 
 <Tabs>
 <TabItem value="na" label="Ripping Fang Fletching">
+
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 

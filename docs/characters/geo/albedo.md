@@ -29,6 +29,7 @@ description: 'An alchemist based in Mondstadt, in the service of the Knights of 
 
 <Tabs>
 <TabItem value="na" label="Favonius Bladework - Weiss">
+
 **Normal Attacks**  
 Albedo performs up to 5 rapid strikes.
 

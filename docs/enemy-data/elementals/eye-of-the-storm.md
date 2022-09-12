@@ -1,10 +1,9 @@
 ---
 description: The corporeal form of extremely high-quality Anemo energies.
+sidebar_position: 4
 ---
 
 # Eye of the Storm
-
-## Eye of the Storm
 
 ![](/assets/enemy/elemental/enemy_eye_of_the_storm.webp)
 

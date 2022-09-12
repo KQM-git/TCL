@@ -4,7 +4,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 # Oceanid
 
-
 ## Weakspot Details
 
 None. On certain event versions, it's face.
@@ -55,3 +54,9 @@ None.
 * If the Hydro Mimics are not defeated in a certain amount of time, the Oceanid creates a whirlpool below the player that follows them, deals DoT damage, and explodes after a while, dealing massive damage.
 * Talks continuously, taunting the player with its' non-stop chatting and stalling the fight.
   * Muting audio is ineffective against this attack.
+
+## Oceanid Mimics
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />

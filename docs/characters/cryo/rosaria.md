@@ -28,6 +28,7 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 <Tabs>
 <TabItem value="na" label="Spear of the Church">
+
 **Normal Attack**  
 Rosaria performs up to five consecutive spear strikes.
 

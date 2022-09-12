@@ -2,9 +2,7 @@
 description: A Fatui soldier who wields a flaming gun..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Pyroslinger Bracer
+# Fatui Skirmisher - Pyroslinger Bracer
 
 Skirmisher weapons can control the elements to a certain extent, and their combat tactics utilize elemental reactions. Their ordnance and knowledge of squad-based combat thus constitute no small threat in battle.
 

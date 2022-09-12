@@ -29,6 +29,7 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 <Tabs>
 <TabItem value="na" label="Demonbane">
+
 **Normal Attack**  
 Perform up to 4 consecutive strikes.
 

@@ -2,9 +2,7 @@
 description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains..
 ---
 
-# Treasure Hoarders
-
-## Treasure Hoarders: Potioneer
+# Treasure Hoarders: Potioneer
 
 Risk-takers who utilize their knowledge of chemistry to mix volatile and flammable brews that aid in their comrades' dastardly deeds.
 

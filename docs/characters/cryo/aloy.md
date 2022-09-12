@@ -27,6 +27,7 @@ description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready t
 
 <Tabs>
 <TabItem value="na" label="Rapid Fire">
+
 **Normal Attacks**  
 Perform up to 4 consecutive shots with a bow.
 

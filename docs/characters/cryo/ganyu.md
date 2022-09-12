@@ -27,6 +27,7 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 <Tabs>
 <TabItem value="na" label="Liutian Archery">
+
 **Normal Attack**  
 Ganyu performs up to 6 consecutive shots with a bow.
 

@@ -29,6 +29,7 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 <Tabs>
 <TabItem value="na" label="Rain of Stone">
+
 **Normal Attacks**  
 Zhongli performs up to 6 consecutive spear strikes.
 

@@ -29,6 +29,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 <Tabs>
 <TabItem value="na" label="Bolts of Downfall">
+
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 
@@ -93,6 +94,7 @@ Press again any time during the ability's duration to once again summon him to F
 </TabItem>
 
 <TabItem value="oz" label="Oz">
+
 | Attribute | Oz |
 | :--- | :--- |
 | Normal Attacks \(T9%\) | 150.96% |

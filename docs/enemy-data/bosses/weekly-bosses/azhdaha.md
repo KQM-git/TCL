@@ -1,10 +1,9 @@
 ---
-description: An enormous dragon as ancient as the mountains themselves..
+description: An enormous dragon as ancient as the mountains themselves.
+sidebar_position: 4
 ---
 
-# Weekly Bosses
-
-## Azhdaha
+# Azhdaha
 
 In an age that has all but faded from memory, he stood shoulder to shoulder with one who ruled over a harbor of stone. But in the end, the two came into conflict, and the dragon was banished to a dark place deep underground. Over the long years of his imprisonment, his power has slowly dissipated. He has also become disfigured from the various kinds of erosion he has been subjected to. The faint rattling of this dragon lord's shackles and his deep, angry growl echo through the bowels of the mountains like memories of a bygone era.
 
@@ -24,8 +23,9 @@ None.
 
 ## Resistance Table
 
-Gains +60% Resistnace to the first element he infuses with. This is kept after infusing with a second element.  
+Gains +60% Resistance to the first element he infuses with. This is kept after infusing with a second element.  
 Gains +50% Resistance to the second element he infuses with.
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 40% |

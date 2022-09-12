@@ -1,6 +1,10 @@
 ---
+sidebar_position: 1
 description: A beast with monstrous blood that is capable of eroding the boundaries of the world. They were created by "Gold". 
 ---
+
+# Rifthound
+
 ## Weakspot Details
 
 None.

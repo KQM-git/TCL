@@ -29,6 +29,7 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 <Tabs>
 <TabItem value="na" label="Favonius Bladework - Maid">
+
 **Normal Attacks**  
 Perform up to 4 consecutive strikes.
 

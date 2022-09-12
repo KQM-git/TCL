@@ -1,5 +1,6 @@
 ---
 search: false
+sidebar_position: 1300
 ---
 
 # Snapshot and Dynamic

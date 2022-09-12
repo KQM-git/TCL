@@ -19,6 +19,7 @@ That said, the wolf pack is far from unintelligent. After suffering a defeat in 
 
 ## Resistance Table
 During Elemental Devourer, the Golden Wolflord gets -20% Geo RES, resulting in 5% final Geo RES.  
+
 | Damage Type | Resistance |
 | :--- | :--- |
 | Physical | 25% |

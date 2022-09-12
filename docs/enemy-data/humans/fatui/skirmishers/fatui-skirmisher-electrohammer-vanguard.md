@@ -2,9 +2,7 @@
 description: A sturdily-built skirmisher armed with an Electro-powered war-hammer..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Electrohammer Vanguard
+# Fatui Skirmisher - Electrohammer Vanguard
 
 As a Fatui soldier, one has access to munificent resources: salaries, armaments, and supplies. But at the same time, it also means much time away from home and family and putting one's life in the hands of comrades one has never met.
 

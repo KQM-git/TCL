@@ -2,9 +2,7 @@
 description: A horrifying dragon-shaped machine.
 ---
 
-# Automaton
-
-## Ruin Drake: Skywatch
+# Ruin Drake: Skywatch
 
 It is said to be a war machine left behind by a now-destroyed nation. It mimics the appearance of the beings known as Vishaps, with some functional enhancements. Such machines have an even greater ability to “absorb” — or perhaps the right word is “counteract” — elemental powers than the vishaps.  
 How, you wonder, did a civilization that could make such frightening machines of war collapse?  

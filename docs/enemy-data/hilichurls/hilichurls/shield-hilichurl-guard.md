@@ -2,9 +2,7 @@
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
 ---
 
-# Hilichurls
-
-## Wooden Shield Hilichurl Guard
+# Shield Hilichurl Guard
 
 Hilichurl warriors who have wooden shields. These shields are not only sturdy defensive tools but also treasured items within the tribe. According to many reports, hilichurls will often charge at travelers making camp to cook and will snatch their pot lids after chasing them away.
 

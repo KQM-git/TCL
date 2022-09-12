@@ -29,6 +29,7 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 <Tabs>
 <TabItem value="na" label="Strike of Fortune">
+
 **Normal Attacks**  
 Bennett performs up to 5 consecutive attacks.
 

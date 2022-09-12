@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Axe Vanguard
+# Eremite Axe Vanguard
 
 These ax-wielding ladies often wade into the slaughter without fear, creating openings for their comrades to capitalize on.
 They will sometimes sit by the fireside in their sand-swept homeland and play songs that were lost in that golden sea.  

@@ -2,9 +2,7 @@
 description: A skirmisher armed with the ability to manipulate Anemo and heal their comrades..
 ---
 
-# Fatui
-
-## Fatui Skirmisher - Anemoboxer Vanguard
+# Fatui Skirmisher - Anemoboxer Vanguard
 
 They departed from their motherland and did so for its sake. They left their family, yet gained allies to stick through thick and thin with.—Perhaps such thoughts are what get them through the unscrupulous work that their missions entail.
 

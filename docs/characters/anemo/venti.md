@@ -29,6 +29,7 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 <Tabs>
 <TabItem value="na" label="Divine Marksmanship">
+
 **Normal Attack**  
 Perform up to 6 consecutive shots with a bow.
 

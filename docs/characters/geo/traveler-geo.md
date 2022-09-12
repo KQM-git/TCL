@@ -28,6 +28,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 <Tabs>
 <TabItem value="na-lumine" label="Foreign Rockblade Lumine">
+
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -64,6 +65,7 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 </TabItem>
 
 <TabItem value="na-aether" label="Foreign Rockblade Aether">
+
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 

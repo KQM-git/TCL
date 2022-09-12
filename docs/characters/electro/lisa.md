@@ -29,6 +29,7 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 <Tabs>
 <TabItem value="na" label="Lightning Touch">
+
 **Normal Attack**  
 Perform up to 4 lightning attacks dealing Electro DMG.
 

@@ -2,12 +2,10 @@
 description: An abnormal Electro elemental life form.
 ---
 
-# Elemental
+# Thunder Manifestation
 
-## Thunder Manifestation
-
-Although it might appear similar to an Oceanid, it does not possess her intelligence or memories.
-That which drives the Thunder Manifestation is a much more primal fury.
+Although it might appear similar to an Oceanid, it does not possess her intelligence or memories.  
+That which drives the Thunder Manifestation is a much more primal fury.  
 It is said that these life forms will only descend like lightning upon places that play host to great lingering resentment, such as the fragmented Amakumo Peak, where the storm clouds ever roil. As long as the grudges of the island do not fade, so will the roaring thunder persist.
 
 ## Weakspot details

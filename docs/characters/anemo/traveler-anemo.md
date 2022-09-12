@@ -28,6 +28,7 @@ description:  A traveler from another world who had their only kin taken away, f
 
 <Tabs>
 <TabItem value="na-lumine" label="Foreign Ironwind Lumine">
+
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 
@@ -63,6 +64,7 @@ The Traveler consumes 20 stamina to unleash 2 rapid sword strikes.
 </TabItem>
 
 <TabItem value="na-aether" label="Foreign Ironwind Aether">
+
 **Normal Attacks**  
 Performs up to 5 rapid strikes.
 

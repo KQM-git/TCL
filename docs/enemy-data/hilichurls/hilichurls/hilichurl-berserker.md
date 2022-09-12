@@ -2,9 +2,7 @@
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
 ---
 
-# Hilichurls
-
-## Hilichurl Berserker
+# Hilichurl Berserker
 
 These hilichurls wield flaming clubs and charge with reckless abandon to chase intruding adventurers off. Most wildfires in the grasslands or forests are not actually caused by a certain special Knight, but due to the actions of these hilichurls.
 

@@ -1,4 +1,9 @@
 {
     "position": 3001,
+    "link": {
+        "type": "generated-index",
+        "slug": "/combat-mechanics",
+        "title": "Combat Mechanics"
+    },
     "label": "Combat Mechanics"
 }

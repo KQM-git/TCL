@@ -2,9 +2,7 @@
 description: A strange, alien machine..
 ---
 
-# Automaton
-
-## Perpetual Mechanical Array
+# Perpetual Mechanical Array
 
 Legend has it that they were war machines left behind by a nation that had been destroyed. Composed of several different parts, it can adapt to its combat environment and employ a variety of attacks. Its cubic shape is on some level very much like the Elemental Hypostases.
 

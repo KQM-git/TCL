@@ -1,3 +1,7 @@
+---
+sidebar_position: 1000
+---
+
 import DocCardList from '@theme/DocCardList';
 
 # Weapons

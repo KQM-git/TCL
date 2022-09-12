@@ -27,6 +27,7 @@ description: A thinker in the Knights of Favonius with a somewhat exotic appeara
 
 <Tabs>
 <TabItem value="na" label="Ceremonial Bladework">
+
 **Normal Attack**  
 Kaeya performs up to 5 rapid strikes.
 

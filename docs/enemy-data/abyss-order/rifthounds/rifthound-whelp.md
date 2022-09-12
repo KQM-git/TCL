@@ -1,6 +1,10 @@
 ---
+sidebar_position: 2
 description: A beast with monstrous blood that is capable of eroding the boundaries of the world. "Gold" classified them as "Alfisol". 
 ---
+
+# Rifthound Whelp
+
 ## Weakspot Details
 
 None.

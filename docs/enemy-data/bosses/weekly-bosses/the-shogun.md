@@ -1,6 +1,8 @@
-# Weekly Bosses
+---
+sidebar_position: 6
+---
 
-## The Shogun / Magatsu Mitake Narukami no Mikoto
+# The Shogun / Magatsu Mitake Narukami no Mikoto
 This is the form of the puppet that inherited the Raiden Shogun's authority takes when she is opposing those who threaten Eternity.  
 As the Raiden Shogun's assistant in pursuing eternity, she has never doubted, never felt fear, never given anything less than her best, never been disturbed by idle thoughts.  
 She once heard about how Ei had shouldered a similar duty when Makoto was also present, suffering much agonizing loss in the process. When the two shadows overlapped once more, however, she could only see the countless fine fractures in what should have been "her" eternal will. Since fate is destined for cyclicality, she must fulfill her promise and declare war on "her".  

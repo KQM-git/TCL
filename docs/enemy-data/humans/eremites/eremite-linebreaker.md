@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Linebreaker
+# Eremite Linebreaker
 
 This warrior wields a unique fist blade and joined the Eremites to seek out stronger foes. Rather than the pay, these warriors fight more to attain greater martial might.  
 

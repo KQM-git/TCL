@@ -1,5 +1,6 @@
 ---
 search: false
+sidebar_position: 1001
 ---
 
 # Elemental Gauge Theory
@@ -198,7 +199,7 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
 
 :::danger
 THE FOLLOWING SECTIONS ARE UNDER CONSTRUCTION
-:::danger
+:::
 
 ### The concept of an elemental aura/gauge
 

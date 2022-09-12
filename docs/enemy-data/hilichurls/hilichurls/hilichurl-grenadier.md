@@ -2,9 +2,7 @@
 description: The primitive wandering inhabitants of Teyvat's wildernesses..
 ---
 
-# Hilichurls
-
-## Hilichurl Grenadier
+# Hilichurl Grenadier
 
 These sneaky fellows are skilled in the use of Pyro Slimes, using them as weapons to attack intruders. Skilled grenadiers may be able to destroy four wooden dummies in a single throw.
 

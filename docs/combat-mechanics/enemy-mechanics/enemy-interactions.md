@@ -15,7 +15,6 @@ The cooldown debuff can be avoided by shield and elemental burst iframes.
 
 Triggering a freeze reaction on a boss entity does not create a frozen aura on the entity, but rather consumes the hydro and cryo auras, leaving no aura behind.
 
-=======
 ### Anemo Hypostasis  
 
 * Adequately getting rid of overworld Hydro Aura on the Anemo Hypostasis results in it continuously swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U cyro application. Non-sufficent Cryo application does not result in this occcuring.

@@ -34,6 +34,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Abyss Mage">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Pyro | Null |
@@ -46,6 +47,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="cryo" label="Cryo Abyss Mage">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Cryo | Null |
@@ -60,6 +62,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="hydro" label="Hydro Abyss Mage">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Hydro | Null |
@@ -72,6 +75,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="electro" label="Electro Abyss Mage">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Electro | Null |
@@ -84,6 +88,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="herald" label="Abyss Herald">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Hydro | Null |
@@ -96,6 +101,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="lector" label="Abyss Lector">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Electro | Null |
@@ -112,6 +118,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 
 <Tabs>
 <TabItem value="cryo" label="Cryo Slime">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Pyro | 4GU |
@@ -123,6 +130,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 </TabItem>
 
 <TabItem value="geo" label="Geo Slime">
+
 | Damage Source | Hits Required |
 | :--- | :--- |
 | Claymore N1 | 6 |
@@ -138,6 +146,7 @@ The following is a table consisting of different types of **Elemental Shields** 
 
 <Tabs>
 <TabItem value="cryo" label="Cryo Cicin Mage">
+
 Before we get into how to take down a **Cryo Cicin Mage's Elemental Shield,** first we have to know that the amount of **Cicin** \(or flies\) matter. The less **Cicin** there are, the easier it is to take down their **Shield.  
 C = Numbers of Cicin alive.**
 
@@ -169,6 +178,7 @@ The following are tables consisting of different types of **Elemental Armor** as
 
 <Tabs>
 <TabItem value="fatui" label="Fatui Skirmishers">
+
 | Fatui Skirmisher Type | Element + Gauge Units |
 | :--- | :--- |
 | Cryo Fatui | 4GU Pyro |
@@ -187,6 +197,7 @@ The following are tables consisting of different types of **Elemental Armor** as
 
 <Tabs>
 <TabItem value="cryo" label="Cryo Whopperflower">
+
 | Cryo Whopperflower | Gauge Units Required |
 | :--- | :--- |
 | Cryo | Null |
@@ -200,6 +211,7 @@ The following are tables consisting of different types of **Elemental Armor** as
 </TabItem>
 
 <TabItem value="pyro" label="Pyro Whopperflower">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Pyro | Null |
@@ -218,6 +230,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 <Tabs>
 <TabItem value="geo" label="Stonehide Lawachurl">
+
 | Damage Source | Hits Required |
 | :--- | :--- |
 | Claymore N1 over 24 Seconds | 11 |
@@ -227,6 +240,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 </TabItem>
 
 <TabItem value="cryo" label="Frostarm Lawachurl">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Pyro | 15GU |
@@ -237,6 +251,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 </TabItem>
 
 <TabItem value="electro" label="Thunderhelm Lawachurl">
+
 | Elemental Source | Gauge Units Required |
 | :-- | :-- |
 | Hydro | 16GU |
@@ -255,6 +270,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 <Tabs>
 <TabItem value="pyro" label="Pyro Regisvine">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Hydro | 6GU |
@@ -266,6 +282,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 </TabItem>
 
 <TabItem value="cryo" label="Cryo Regisvine">
+
 | Elemental Source | Gauge Units Required |
 | :--- | :--- |
 | Pyro | 6GU |
@@ -283,6 +300,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 <Tabs>
 <TabItem value="wood" label="Wooden Mitachurl">
+
 **Wooden Mitachurl's** shields can be taken down by applying **Pyro Aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. There are two ways to deal with that:
 
 * Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard.  
@@ -291,6 +309,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 </TabItem>
 
 <TabItem value="rock" label="Rockshield Mitachurl">
+
 **Rockshield Mitachurl's** shield is considered a **Geo Shield**. Therefore, you will need **Heavy attacks, Geo Attacks, or Overload.**
 
 * ~18 Claymore N1
@@ -301,6 +320,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 </TabItem>
 
 <TabItem value="ice" label="Iceshield Mitachurl">
+
 * 6GU Pyro
 * ~3 Overload Reactions
 * While **Claymore Attacks** can damage the **Iceshield Mitachurl's Shield,** the shield has a regenerate mechanic which makes it hard for **Claymore Attacks** to outpace the **Shield Regeneration.** Therefore, its best to take down the shield using **Pyro Aura.** 

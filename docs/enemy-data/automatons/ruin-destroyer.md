@@ -1,10 +1,4 @@
----
-description: Various bizarrely-shaped machines that have taken different forms and functions to adapt to different goals..
----
-
-# Automaton
-
-## Ruin Destroyer
+# Ruin Destroyer
 
 Legend has it that they were war machines left behind by a nation that had been destroyed. Compared to the more common Ruin Guards, their design has greater value in the study of biomimesis. The giant crown, composed of several parts, looks like a scary plant. It's not known what one has to go through in order to design such scary machine.
 

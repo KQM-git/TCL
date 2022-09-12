@@ -24,6 +24,7 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 
 <Tabs>
 <TabItem value="na" label="Shuumatsuban Ninja Blade">
+
 **Normal Attacks**  
 Performs up to 4 consecutive strikes.
 

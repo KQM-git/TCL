@@ -27,6 +27,7 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 
 <Tabs>
 <TabItem value="na" label="Tengu Bowmanship">
+
 **Normal Attacks**  
 Perform up to 5 consecutive shots with a bow.
 

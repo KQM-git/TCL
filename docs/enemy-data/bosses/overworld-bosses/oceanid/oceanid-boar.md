@@ -1,12 +1,8 @@
 ---
-description: A life-form created from condensed Hydro elements of incredible purity. Often attached to bodies of water.It is said that as water bodies become purer, the Hydro elements within grow more abundant, causing the Oceanids to grow more powerful. It is also said by some that Oceanids were once sea creatures from a home far away who carried the fragments of a long-dead god to the many corners of this world. Perhaps they did this so that the love their god held for this world could be spread through the waters to all the land...
+description: A life-form created from condensed Hydro elements of incredible purity. Often attached to bodies of water. It is said that as water bodies become purer, the Hydro elements within grow more abundant, causing the Oceanids to grow more powerful. It is also said by some that Oceanids were once sea creatures from a home far away who carried the fragments of a long-dead god to the many corners of this world. Perhaps they did this so that the love their god held for this world could be spread through the waters to all the land...
 ---
 
-# Oceanid Mimics
-
-## Oceanid Boar
-
-
+# Oceanid Boar
 
 ## Weakspot Details
 

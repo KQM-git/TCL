@@ -30,6 +30,7 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 <Tabs>
 <TabItem value="na" label="Kätzlein Style">
+
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 

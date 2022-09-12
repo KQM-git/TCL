@@ -2,9 +2,7 @@
 description: A member of the decentralized criminal organization that has footprints all over the continent and even deep within unknown domains.
 ---
 
-# Treasure Hoarders
-
-## Treasure Hoarders: Seaman
+# Treasure Hoarders: Seaman
 
 "Stealing? What do you mean, stealing? It's re-discovery, I tell you — the return of treasure to those who appreciate it! Makes everyone happy, to boot! How great is that, eh?"—A certain Treasure Hoarder Seaman, in response to a question posed by a doubtful recruit.
 

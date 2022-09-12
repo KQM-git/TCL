@@ -2,7 +2,9 @@
 description: Plunge Combo Tech
 ---
 
-# Dragon Strike
+# Plunge tech
+
+## Dragon Strike
 
 **Dragon Strike \(DS\)**: Leveraging **anything** that generates sufficient hitlag to do the following \(at the precise moment of impact\):
 

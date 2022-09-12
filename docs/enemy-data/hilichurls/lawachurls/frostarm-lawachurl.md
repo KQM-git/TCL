@@ -2,9 +2,7 @@
 description: A mysterious "lord" of hilichurls that stalks the snow and fog..
 ---
 
-# Hilichurls
-
-## Frostarm Lawachurl
+# Frostarm Lawachurl
 
 This huge hilichurl is referred to as a "lawa" by its brethren. Its body, honed to the very limit, almost seems to blend into its Cryo-filled environment, and its stoic nobility is like that of the frozen northland rivers.
 

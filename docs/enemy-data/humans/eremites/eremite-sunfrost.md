@@ -2,9 +2,7 @@
 description: A member of a loosely-organized mercenary corps from the golden desert sands. Will work for anyone as long as the pay is good.
 ---
 
-# Eremites
-
-## Eremite Sunfrost
+# Eremite Sunfrost
 
 A professional mercenary who cares about nothing outside of work and the mission at hand. To such people, their only game plan is to complete the mission, and their high asking prices on the market match that committment.  
 An ominous, fragmented spirit is sealed within the weapon they use, awakening in moments of peril. Once it does, it can only be silenced by the cries of the vanquished — whether that be its wielder, or its wielder’s foe.   

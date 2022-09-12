@@ -28,6 +28,7 @@ description: Always energetic and full of life, Amber's the best - albeit only -
 
 <Tabs>
 <TabItem value="na" label="Sharpshooter">
+
 **Normal Attack**  
 Perform up to 5 consecutive shots with a bow.
 

@@ -2,9 +2,7 @@
 description: A Fatui mage who can command the Hydro Mirror with a dignified posture as if she is worshipping the gods..
 ---
 
-# Fatui
-
-## Fatui Mirror Maiden
+# Fatui Mirror Maiden
 
 Can gracefully manipulate the Hydro Mirror, luring those enchanted by her to willingly fall for her illusion. Nothing can seem to escape her ears. It's not known what those covered eyes have seen, nor what kind of obsession will be reflected...
 

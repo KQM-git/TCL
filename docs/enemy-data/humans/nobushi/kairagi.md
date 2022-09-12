@@ -2,9 +2,7 @@
 description: Samurai who have fallen into banditry.
 ---
 
-# Nobushi
-
-## Kairagi
+# Kairagi
 
 ## Weakspot Details
 
