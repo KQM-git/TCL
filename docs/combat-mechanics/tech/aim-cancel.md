@@ -174,6 +174,4 @@ Some characters can shoot a second CA after doing a Hold Cancel. The second CA h
 
 ## Evidence Vault
 
-TODO % content-ref url="../../evidence/combat-mechanics/tech/aim-cancel.md" %
-[aim-cancel.md](../../evidence/combat-mechanics/tech/aim-cancel.md)
-TODO % endcontent-ref %
+<Card item={require('../../evidence/combat-mechanics/tech/aim-cancel.md')} />

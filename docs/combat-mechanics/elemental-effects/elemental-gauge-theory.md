@@ -214,11 +214,13 @@ These all have the ability to react with a slightly different ruleset from stand
 
 ### [TenTen](https://www.youtube.com/user/tatecheng1010)
 
-{% embed url="https://youtu.be/ac0cshUwyrM" caption="Tenten\'s Genshin SCIENCE! EGT" %}
+import YouTube from "@site/src/components/common/YouTube"
+
+<YouTube id="ac0cshUwyrM" title="Tenten\'s Genshin SCIENCE! EGT" />
 
 ### [AoShenCraft](https://www.youtube.com/channel/UCJgiYNvX6zHP1pChMZhqURA)
 
-{% embed url="https://www.youtube.com/watch?v=iSft0tCOdHY" caption="AoShenCraft\'s EGT Simplified \[With Visuals\]" %}
+<YouTube id="iSft0tCOdHY" title="AoShenCraft\'s EGT Simplified \[With Visuals" />
 
 ## External Links
 

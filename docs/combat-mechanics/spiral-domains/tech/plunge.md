@@ -2,9 +2,11 @@
 
 At the stairs near the front and back of Floor 12, there is an elevated terrain allowing for plunges to be performed. This allows players to capitalize on any plunge attack buffs or just increase their damage through being able to constantly use plunges.
 
-{% embed url="https://youtu.be/DsHp1q6H96s" caption="" %}
+import YouTube from "@site/src/components/common/YouTube"
 
-{% embed url="https://youtu.be/m55wLdGJ-Ew" caption="" %}
+<YouTube id="DsHp1q6H96s" title="Plunge Tech" />
+
+<YouTube id="m55wLdGJ-Ew" title="Plunge Tech" />
 
 ## Evidence Vault
 

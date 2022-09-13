@@ -104,7 +104,8 @@ In general, stats that are **not** in a Character's "Details" page **do not snap
 </details>
 
 ## Snapshot Timing Sheet
-{% embed url="https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k" %}
+
+[View spreadsheet](https://docs.google.com/spreadsheets/d/1M2nTLogzYd2o4ZLkYEkzfovwiTznQOB5ujWuMlQbE0k)
 
 ## Dynamic Transformative Reactions
 

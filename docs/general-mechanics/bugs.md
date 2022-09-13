@@ -89,9 +89,11 @@ When Oz triggers Overload or Superconduct with his **Normal Attack**, he generat
 
 _Assumptions: maximum uptime utilizing burst, Oz is the trigger for all 10/12 attacks, and the reactions that occur hit all enemies for 12/15 reactions per minute._
 
-{% embed url="https://www.youtube.com/embed/9I\_NCFg-Cdw" caption="Kleeful\'s Turbo Tutorial" %}
+import YouTube from "@site/src/components/common/YouTube"
 
-{% embed url="https://www.youtube.com/watch?v=vbz0Q7lRvYA" caption="TenTen\'s Turbo Overview" %}
+<YouTube id="9I_NCFg-Cdw" title="Kleeful's Turbo Tutorial" />
+
+<YouTube id="vbz0Q7lRvYA" title="TenTen's Turbo Overview" />
 
 **Units in a Turbo Team**
 

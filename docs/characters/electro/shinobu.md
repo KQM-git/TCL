@@ -5,7 +5,7 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
 # Kuki Shinobu
 
 <blockquote>{frontMatter.description}</blockquote>
- 
+
 ## ![](/assets/element_electro.png) Kuki Shinobu
 ![](/assets/character_shinobu_wish.png)
  
@@ -25,7 +25,7 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
  
 <Tabs>
 <TabItem value="na" label="Normal Attack: Shinobu&apos;s Shadowsword">
- 
+
 **Normal Attack**  
 Perform up to 4 rapid strikes.
  
@@ -40,12 +40,12 @@ Perform up to 4 rapid strikes.
  
 **Charged Attack**  
 Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.
- 
+
 | String | Talent 9% | Frames | MV/s |
 | :--- | :--- | :--- | :--- |
 | Charged Attack DMG | 102.21% + 122.66% | - | - |
 | Recovery | - | - | - |
- 
+
 **Plunge**  
 Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
  
@@ -56,7 +56,7 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | High Plunge DMG | 293.36% |
 
 </TabItem>
- 
+
 <TabItem value="e" label="Sanctifying Ring">
 
 Creates a **Grass Ring of Sanctification** at the cost of part of her HP, dealing **Electro DMG** to nearby opponents.
@@ -116,7 +116,7 @@ If Shinobu's HP is less than or equal to 50% when this skill is used, the field 
 
 </TabItem>
 </Tabs>
- 
+
 ## Ascension Passives
  
 <Tabs>
@@ -150,7 +150,7 @@ When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.
 
 </TabItem>
 </Tabs>
- 
+
 ## Constellations
  
 <Tabs>
@@ -212,14 +212,14 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 
 </TabItem>
 </Tabs>
- 
+
 ## Full Talent Values
- 
+
 <Tabs>
 <TabItem value="na" label="Normal Attack: Shinobu&apos;s Shadowsword">
 
 ### Normal Attacks
- 
+
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 1-Hit DMG | 48.76% | 52.73% | 56.70% | 62.37% | 66.34% | 70.88% | 77.11% | 83.35% | 89.59% | 96.39% | 103.19% |
@@ -228,7 +228,7 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 | 4-Hit DMG | 76.11% | 82.31% | 88.50% | 97.35% | 103.55% | 110.63% | 120.36% | 130.10% | 139.83% | 150.45% | 161.07% |
 
 ### Charged Attack
- 
+
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | Charged Attack DMG | 55.63% + 66.77% | 60.16% + 72.2% | 64.69% + 77.63% | 71.16% + 85.4% | 75.69% + 90.83% | 80.86% + 97.04% | 87.98% + 105.58% | 95.09% + 114.12% | 102.21% + 122.66% | 109.97% + 131.98% | 117.74% + 141.29% |
@@ -260,7 +260,7 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 </TabItem>
  
 <TabItem value="q" label="Gyoei Narukami Kariyama Rite">
- 
+
 |  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Single Instance DMG | 3.6% Max HP | 3.88% Max HP | 4.15% Max HP | 4.51% Max HP | 4.78% Max HP | 5.05% Max HP | 5.41% Max HP | 5.77% Max HP | 6.13% Max HP | 6.49% Max HP | 6.85% Max HP | 7.21% Max HP | 7.66% Max HP |
@@ -272,7 +272,7 @@ When Shinobu's HP drops below 25%, she will gain 150 Elemental Mastery for 15s. 
 
 </TabItem>
 </Tabs>
- 
+
 ## Evidence Vault
  
-TODO % page-ref page="../../evidence/characters/electro/shinobu.md" %
+<Card item={require('../../evidence/characters/electro/shinobu.md')} />

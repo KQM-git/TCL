@@ -24,7 +24,9 @@ ICD table that was based on [Advanced Gauge Unit Theory](https://genshin-impact.
 
 **A Video Example of the 2 Ways ICD Resets**
 
-{% embed url="https://www.youtube.com/watch?v=wGab6lW2BfI" caption="" %}
+import YouTube from "@site/src/components/common/YouTube"
+
+<YouTube id="wGab6lW2BfI" title="ICD Resets" />
 
 **Evidence Vault:**
 
