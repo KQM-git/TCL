@@ -123,7 +123,7 @@ This may be used to further investigate the properties of elemental absorption (
 Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.  
 Aura-checks have different verticalities to their original attack, have set frequencies which differ per skill/burst and explains how the Venti bug functions.  
 This ticket explores the interesting properties that aura-checks have.  
- 
+
 **Evidence:**  
 * 1: Aura-checks will only happen if the attack has the ability to absorb elements, with the exception of the Anemo Traveler's Tap Elemental Skill, which triggers two aura-checks right after the final blast happens, despite not having Elemental Absorption. This is thought to be due to its transition into the Hold version of the skill, which does have Elemental Absorption. 
   * [Stats before final blast, 0% Shield Strength](https://imgur.com/a/kmWdCHz)

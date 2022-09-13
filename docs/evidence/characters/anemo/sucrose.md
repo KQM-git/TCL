@@ -297,7 +297,7 @@ Mapping the damage numbers in this video to the calculated numbers:
   ```  
 
 This shows that A1 was triggered from the second Swirl from Sucrose (where the Guoba Swirl applied Pyro to the Anemo Hypostasis, causing another Swirl reaction). This is a chain reaction. This also shows that A4 is delayed for some reason. Probably ping.  
- 
+
 **Significance:**  
 Sucrose can utilize her A1 buff even when Swirling off of objects, as long as there is an enemy with an Anemo aura nearby.  
 

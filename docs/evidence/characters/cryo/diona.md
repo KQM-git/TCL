@@ -298,7 +298,7 @@ More understanding of Diona's kit.
 
 **Finding:**  
 Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the reason for this is currently not known, the scope of this entry is specifcally to identify and document this.  
- 
+
 **Evidence:**  
 * Diona
   * 92/100 R2 hold E in Abyss (theoretical 96.875%)
@@ -323,7 +323,7 @@ Sacrifical Bow procs on Diona's hold E do not match the theoretical chances, the
 
 **Explanation/Methodology:**  
  To find out why diona is not proccing Sacrifical Bow correctly, both sac and fav bow were tested on diona to ensure that it was simply not diona's hold E being weird in general, sac weapons were tested on hitting multiple enemies to see if it triggered correctly, a sac weapon (sword) was tested on hitting one enemy multiple times with the same skill (emc e) to see if it triggered correctly, and sac bow specifically was tested on hitting multiple enemies to see if it triggered correctly.  
- 
+
 **Significance:**  
 The results of the testing shows that everything works pretty much as expected except diona's hold E on sac bow. While we currently do not know the source of this anomaly, the scope of this entry is to record and document its existence. Since diona as a battery sometimes uses sac bow, knowing she doesn't proc it as well as math dictates means energy calculations with sac bow should change to reflect that she doesn't follow standard math.
 

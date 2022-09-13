@@ -589,7 +589,7 @@ OHC procs on a lot on non-conventional types of healing, this ticket aims to doc
 * Kaeya A1 (yes) [Youtube](https://youtu.be/nj1gyOOqepQ)
 * Zhongli C6 (yes) [Imgur](https://imgur.com/ZK61uFe) 
 * Hu Tao burst (yes) [Youtube](https://youtu.be/wFNEZxB1oxo)  
- 
+
 *Weapons:* 
 
 * Prototype Amber Passive (Yes, already in KQM Library)

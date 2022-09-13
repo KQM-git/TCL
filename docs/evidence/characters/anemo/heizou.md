@@ -1,11 +1,11 @@
 ---
 search: false
 ---
- 
+
 # Heizou
- 
+
 **Main Page:**
- 
+
 <Card item={require('../../../characters/anemo/heizou.md')} />
 
 ## Basic Mechanics
@@ -40,7 +40,7 @@ search: false
     1. Hold his E, wait until it reaches 4 stacks
     2. Immediately open the map before he casts his E, and teleport somewhere
     3. Stacks
- 
+
 ## Burst Mechanics
 
 * Heizou's auracheck is independent for each target hit, so there is no priority unless a single target has 2 auras. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
@@ -55,4 +55,4 @@ search: false
 * Swirling objects doesn't give Heizou any Declension stacks. - [Video](https://imgur.com/a/Uq1FPwy) - Jarv\#9022
 
 ## Constellation Mechanics
- 
+

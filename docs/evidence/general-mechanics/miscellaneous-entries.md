@@ -23,7 +23,7 @@ Certain characters have a finite vertical range for the buffs and/or infusions f
 
 * Chongyun has either infinite or a very long range on Skill infusion, atk speed etc.  
    * [Youtube](https://youtu.be/BcmzgqkkW9w)  
- 
+
 * Jean has either infinite or a very long range on her Burst. (Video courtesy of Rathalos\#2875)  
    * [Youtube](https://youtu.be/DznbN-htm94)
 
@@ -214,7 +214,7 @@ construct replacement order seems to be completely thrown off course by them res
 
 * Coop partner loading in and out (Credit to Homura\#9806) [Youtube](https://youtu.be/rvNNOgK5IJU)  
 * Coop partner not loading in until you get close to the door (Credit to Homura\#9806) [Youtube](https://youtu.be/f6dYuQ4tiss)  
- 
+
 3:
 
 * Construct replacement order is different at the end than at the beginning (Credit to Homura#9806) [Youtube](https://youtu.be/wfnWoOoj4h0)  
@@ -646,7 +646,7 @@ Multiplayer:
   9\. Repeat steps 1\-8. This means the party will continually ascend as they place more and more floating stoves higher and higher. This is limited by the number of stoves in your inventory.  
 
   Note that when the team is waiting on a construct in step 8, the construct used must be Albedo flower because others are not aimable and/or are not instantly replacable. Aim it straight down at the stove, from the edge of the flower. Misplacing the flower position on the stove can mean party members will fall down. This does mean that with more party members, the player placing the flower must be more precise. Alternatively, the non Albedo party members could float while the flower is being replaced through Venti E as an example, and landing on the new flower afterwards. 
- 
+
 Singleplayer:  
 * Requirements:  
   * Stoves, Albedo, Parametric Transformer. 

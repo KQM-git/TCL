@@ -138,7 +138,7 @@ Both the Slashing DMG from E2 and the Thundering Might DMG do not snapshot from 
 ***Keqing E1CA***  
 * E1 dmg = 2803
 * Thunderclap Slash dmg = 4673 (2)
- 
+
 ***Keqing E1 - Sara E - Keqing CA***  
 * E1 dmg = 2803
 * Thunderclap Slash dmg = 4673 (2)

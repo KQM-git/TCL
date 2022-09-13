@@ -633,7 +633,7 @@ This mechanic applies to the following:
 * Gorou's E, Inuzaka All-Round Defense
 * Fischl's E, Nightrider
 * Keqing's E, Stellar Restoration
- 
+
 **Evidence:**  
 * [Albedo](https://youtu.be/K94bKHVg7U8)
 * [Gorou, Arataki Itto, Fischl](https://youtu.be/FRACwPMYlR4)

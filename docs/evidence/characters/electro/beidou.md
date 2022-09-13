@@ -179,10 +179,10 @@ Better understanding of Beidou burst.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_957414035282870282_transcript-beidou-driver-proc-counts.html)  
 **Finding:**  
 A collection of Beidou driver proc counts with various combos and rotations.   
- 
+
 **Evidence:**  
 [Sheet](https://docs.google.com/spreadsheets/d/1CQFHCP2XdxSZpvc0SYeKRH3F7COkOSqOiHw5IVZixnU/edit?usp=sharing)  
- 
+
 **Significance:**  
 Optimization of gameplay with Beidou in various teams, more accurate team calcs for Beidou.
 

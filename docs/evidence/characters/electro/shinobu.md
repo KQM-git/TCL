@@ -1,11 +1,11 @@
 ---
 search: false
 ---
- 
+
 # Kuki Shinobu
- 
+
 **Main Page:**
- 
+
 <Card item={require('../../../characters/electro/shinobu.md')} />
 
 ## Basic Mechanics
@@ -21,14 +21,14 @@ search: false
 * Snapshotting:
   * E: Dynamic - [Video](https://www.youtube.com/watch?v=g0JdXZj4HJQ) - daibangden\#8410
   * Q: Snapshot - [Video](https://www.youtube.com/watch?v=DBVLpCr-FUk) - daibangden\#8410
- 
+
 ## Skill Mechanics
- 
+
 * Particles - [Video](https://www.youtube.com/watch?v=VIy9dJp-JUQ) - Zakharov\#5645
   * 45% generation rate on every E tick.
 * Skill hitbox extends slightly above the visual effect. - [Video](https://www.youtube.com/watch?v=ENhVQtSF8VQ) - emmaus\#9072
 * Skill Initial Cast DMG and Tick DMG share the same ICD. - [Video](https://www.youtube.com/watch?v=ztZgTo3ugUw) - Akane\#0926
- 
+
 ## Burst Mechanics
 * Elemental Burst hits 7 times when above 50% HP. - [Video](https://www.youtube.com/watch?v=SGuHpV_gGQk) - TWICE\#9958
 * The number of hits from the Elemental Burst below 50% HP is affected by FPS. - MGR\#5268

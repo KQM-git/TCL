@@ -46,7 +46,7 @@ search: false
 
 **Findings:**  
  Kindling Arrows are affected by Amos' Bow's passive, and it is very easy for Kindling Arrows to gain all 5 stacks because of how slowly they move.
- 
+
 **Evidence:**  
 [Kindling Arrow affected by Amos' Bow's passive at various ranges](https://www.youtube.com/watch?v=-OAt8g15qkM&ab_channel=Ayzel)
 

@@ -326,7 +326,7 @@ Both these Shunsuiken attacks will not be affected by Namisen.
 | Lv12 | 132.91%              | 20%                     |
 | Lv13 | 141.22%              | 20%                     |
 
- 
+
 **Energy Cost**: 80  
 **Duration**: 18s  
 **Cooldown**: 20s  

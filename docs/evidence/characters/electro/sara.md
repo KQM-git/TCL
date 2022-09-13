@@ -218,7 +218,7 @@ Number of A4 procs (from Sara E with C2) it would take to completely fill Burst 
   * 40 Energy: 40 / (0.012 x 150) = 22.2 E procs  
   * 60 Energy: 60 / (0.012 x 150) = 33.3 E procs  
   * 80 Energy: 80 / (0.012 x 150) = 44.4 E procs  
- 
+
 265.3% ER Sara filling Zhongli's Burst in 13 procs: [YouTube vid by Zasshu.#4509](https://youtu.be/wQWrC6JLDJY)
 * 40 / (0.012 x 265.3) = 12.6 E procs, so the video confirms the math.
 

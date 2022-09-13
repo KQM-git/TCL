@@ -425,7 +425,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 ## Sacrificial Series
 
 ### Average ER Gain from Sacrificial Weapons  
- 
+
 **By:** Raladin\#3752  
 **Added:** 2022-02-02  
   
@@ -1666,7 +1666,7 @@ NOTE: I could not test the exact times on this, but the timer still resets when 
 Weapons that gain stacks on hit are affected by ping. You will only gain stacks when the hit registers on the server, and the server will process hits at the same time, without caring about when the client actually made the hits.
 
 Freedom-Sworn, which gains its buffs from reactions happen, has normal behaviour.
- 
+
 Polar Star behaves differently as it has individual stacks for each type, and will gain all the stacks at the same time when the hit is registered.
 
 **Evidence:**  

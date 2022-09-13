@@ -34,7 +34,7 @@ description: An explosives expert and a regular at the Knights of Favonius' conf
 
 **Normal Attacks**  
 Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
- 
+
 | String | Talent 9% | Frames | Motion Value | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1-Hit | 122.67% | 32 | 230.00%/s | 1A | 65 | 3 |

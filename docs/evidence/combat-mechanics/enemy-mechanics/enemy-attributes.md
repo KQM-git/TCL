@@ -189,7 +189,7 @@ Cryo - Yes [Youtube](https://youtu.be/3Tslenj0ud4)
 Electro - No [Youtube](https://youtu.be/cu99D1W9UEs)  
 Hydro - No [Youtube](https://youtu.be/0UstmWsWPdM)  
 Pyro - No [Youtube](https://youtu.be/P6rO8Myw8VU)  
- 
+
 Reactions:  
 Melt - [Youtube](https://youtu.be/2c1trIXniYo)  
 Freeze - [Youtube](https://youtu.be/ma6wwKUbjeg)   
@@ -197,7 +197,7 @@ Shatter - [Youtube](https://youtu.be/4AQVtXEc9So)
 Superconduct - [Youtube](https://youtu.be/DoNMnGbbjw8)  
 Swirl - [Youtube](https://youtu.be/MsBpQEjGouk)  
 Crystallize - [Youtube](https://youtu.be/1W_aoGPThbQ)  
- 
+
 Marks failing:  
 Hu Tao - [Youtube](https://youtu.be/jDJi9W-LifQ)  
 Qiqi - [Youtube](https://youtu.be/vI61dpw8NOw)  

@@ -52,7 +52,7 @@ Characters’ marks \(Riptide, Talisman, Blood Blossom, etc.\) show that some en
   * [Oceanid](https://youtu.be/_IlNov2mzdA)
     * There’s also a brief moment after resurfacing that the Oceanid has no hitbox indicated by the mark \(around 0:07\), [screenshot here](https://imgur.com/a/lcymYnc)
   * [Hydro Hypostasis](https://imgur.com/a/wOga8G8)
- 
+
 * Qiqi's Talisman
   * [Geovishap Hatchling](https://www.youtube.com/watch?v=XiRFBkjKmj8)
   * [Ruin Destroyer](https://www.youtube.com/watch?v=-zwcP5rPmB8)

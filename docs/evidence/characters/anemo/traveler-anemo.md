@@ -36,7 +36,7 @@ The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while th
 
 **Evidence:**  
 [Youtube](https://youtu.be/QC0ZXCX2CeA) - There are 2 attempts in the video, the first one shows 5 ticks and the second one shows 6, but it's never 7.
- 
+
 **Significance:**  
 The Additional Elemental DMG seems to randomly start with the second Initial Cutting DMG or with the first Max Cutting DMG.
 

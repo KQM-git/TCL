@@ -214,7 +214,7 @@ Klee is good at destroying stuff without consuming stamina.
 **By:** jamberry#7142  
 **Added:** 2021-08-07  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
- 
+
 **Finding:**  
 Klee’s C4 damage instance has no ability type scaling tags. 
 
@@ -231,7 +231,7 @@ Damage calculations for Klee.
 **By:** solo#3333  
 **Added:** 2021-09-25  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887165577691529226_891209626396266516_transcript-klee-c6-mechanics.html)  
- 
+
 **Finding:**  
 - Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).  
 - Klee C6 does snapshot to her own burst, unlike Xiangling.
@@ -257,7 +257,7 @@ No value in chain casting burst shenanigans, and Klee C6 does apply to her own b
 **By:** solo\#3333  
 **Added:** 2021-10-23  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887125796379050076_901561241552695326_transcript-klee-c1-mechanics.html)  
- 
+
 **Finding:**  
 - Klee's C1, like her burst, has a (very) small aoe.  
 - Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.  
@@ -302,7 +302,7 @@ Yes they do.
 **By:** solo#3333  
 **Added:** 2021-09-17  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887521548049715200_888239532028354630_transcript-klee-4cw-3-stacks.html)  
- 
+
 **Finding:**  
 Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one charge of Jumpty Dumpty. Therefore using the second charge within 10s will bring the total CW stacks to 3.
 

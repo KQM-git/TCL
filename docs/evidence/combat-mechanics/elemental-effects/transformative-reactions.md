@@ -992,7 +992,7 @@ t_frozen_(i+1) =
     sqrt(20 * d_frozen + 25 * ( t_decay + b)²)
     / 5 - t_decay - b
 ```
- 
+
 
 The variable t_decay is just needed for the calculations. If t_decay would be negative it “reset” to zero.
 
@@ -1504,7 +1504,7 @@ Duration : 869 ~ 7.2 s
     2981 pyro end
     2289 duration >> 19.075s 
     ```
- 
+
 2. Apply 2B
     
     [Evidence](https://youtu.be/hvj5X4_3LT0)

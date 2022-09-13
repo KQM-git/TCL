@@ -45,7 +45,7 @@ Electro-related reactions (Electro-charged, Overload, Superconduct) caused by Sw
  - [Electro-charged](https://imgur.com/a/P97pcLa)  
  - [Overload](https://imgur.com/a/YRjVcgd)  
  - [Superconduct](https://imgur.com/a/mjmdhhA)  
- 
+
 **Significance:**  
 Electro Resonance is easier to trigger and more consistent with an Anemo driver than previously expected.  
 
