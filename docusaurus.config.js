@@ -75,13 +75,16 @@ const config = {
           routeBasePath: '/newsletter',
           blogTitle: 'Newsletter',
           path: 'newsletter',
-          editUrl: 'https://github.com/Artesians/TCL/blob/master/',
+          editUrl: 'https://github.com/KQM-git/TCL/blob/master/',
           postsPerPage: 5,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'All our posts',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+        },
+        gtag: {
+          trackingID: 'UA-117136430-6'
         },
       }),
     ],
@@ -123,7 +126,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/Artesians/TCL/',
+            href: 'https://github.com/KQM-git/TCL/',
             label: 'GitHub',
             position: 'right',
           },
