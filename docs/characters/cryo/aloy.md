@@ -1,5 +1,5 @@
 ---
-description: Formerly an outcast, now a hunter of unparalleled aptitude. Ready to do the right thing with her bow at any given time.
+description: Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.
 ---
 
 # Aloy

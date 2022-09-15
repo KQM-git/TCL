@@ -1,5 +1,5 @@
 ---
-description: Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.
+description: Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.
 ---
 
 # Amber

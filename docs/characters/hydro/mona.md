@@ -1,5 +1,5 @@
 ---
-description: A mysterious young astrologer who proclaims herself to be “Astrologist Mona Megistus,” and who possesses abilities to match the title. Erudite, but prideful.
+description: A mysterious young astrologer who proclaims herself to be "Astrologist Mona Megistus," and who possesses abilities to match the title. Erudite, but prideful.
 ---
 
 import char from '@site/src/data/characters/Mona.json'

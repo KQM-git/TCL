@@ -1,5 +1,5 @@
 ---
-description: 'The tycoon of a winery empire in Mondstadt, unmatched in every possible way.'
+description: The tycoon of a winery empire in Mondstadt, unmatched in every possible way.
 ---
 
 import char from '@site/src/data/characters/Diluc.json'

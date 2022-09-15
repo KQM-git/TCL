@@ -1,5 +1,5 @@
 ---
-description: A Yaksha Adeptus who defends Liyue. Also heralded as the "Conquer of Demons" or "Vigilant Yaksha"
+description: A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror of Demons" and "Vigilant Yaksha."
 ---
 
 # Xiao

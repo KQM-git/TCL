@@ -1,5 +1,5 @@
 ---
-description: 'An alchemist based in Mondstadt, in the service of the Knights of Favonius.'
+description: A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.
 ---
 
 # Albedo

@@ -1,5 +1,5 @@
 ---
-description: The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius of Mondstadt.
+description: The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.
 ---
 
 # Jean

@@ -1,5 +1,5 @@
 ---
-description: A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat’s Tail tavern.
+description: A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.
 ---
 
 # Diona

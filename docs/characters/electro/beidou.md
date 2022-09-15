@@ -1,5 +1,5 @@
 ---
-description: 'Captain of her crew, The Crux. She''s quite an unbound and forthright woman.'
+description: Captain of her crew, The Crux. She's quite an unbound and forthright woman.
 ---
 
 # Beidou

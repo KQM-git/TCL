@@ -1,5 +1,5 @@
 ---
-description: Every citizen of Mondstadt adores Barbara. She learned the word “idol” from a magazine.
+description: Every citizen of Mondstadt adores Barbara. She learned the word "idol" from a magazine.
 ---
 
 # Barbara

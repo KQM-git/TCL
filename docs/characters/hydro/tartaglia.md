@@ -1,5 +1,5 @@
 ---
-description: No. 11 of The Harbingers, also known as “Childe.” His name is highly feared onthe battlefield.
+description: No. 11 of The Harbingers, also known as "Childe." His name is highly feared on the battlefield.
 ---
 
 # Tartaglia

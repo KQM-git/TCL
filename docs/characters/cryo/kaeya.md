@@ -1,5 +1,5 @@
 ---
-description: A thinker in the Knights of Favonius with a somewhat exotic appearance.
+description: An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.
 ---
 
 # Kaeya
