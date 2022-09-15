@@ -1,10 +1,28 @@
 import { Character } from '@site/src/data/types';
 import { getCharStatsAt } from '@site/src/utils/charstats';
 import { stat } from '@site/src/utils/stat';
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { NumberInput } from '../common/input/NumberInput';
+import { SelectInput } from '../common/input/SelectInput';
 
 export default function StatsTable({ char }: { char: Character }) {
   const [expanded, setExpanded] = useState(false)
+
+  const [level, setLevel] = useState(89)
+  const [asc, setAsc] = useState(6)
+
+  const ascOpt = char.ascensions
+    .filter((a, i, arr) => level <= a.maxLevel && (i == 0 || level >= arr[i - 1].maxLevel))
+    .map(a => ({
+      label: `A${a.level}`,
+      value: a.level
+    }))
+
+  useEffect(() => {
+    if (ascOpt.length == 0) return
+    if (ascOpt.some(x => x.value == asc)) return
+    setAsc(ascOpt[0].value)
+  }, [level])
 
   const maxAscension = char.ascensions[char.ascensions.length - 1]
 
@@ -37,8 +55,29 @@ export default function StatsTable({ char }: { char: Character }) {
             <td align='left'>{lv}</td>
             {Object.entries(getCharStatsAt(char, lv, a)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
           </tr>)}
+
         {!expanded && <tr>
-          <td align='center' colSpan={Object.keys(getCharStatsAt(char, 1, 1)).length + 2}>Click to expand...</td>
+          <td align='center' colSpan={Object.keys(getCharStatsAt(char, 1, 1)).length + 2}><a>Click to expand...</a></td>
+        </tr>}
+
+        {expanded && <tr>
+          <td align='left'>
+            <SelectInput<number>
+              set={({ value }) => setAsc(value)}
+              value={asc}
+              options={ascOpt}
+            />
+          </td>
+          <td align='left'>
+            <NumberInput
+              set={setLevel}
+              value={level}
+              min={1}
+              max={maxAscension.maxLevel}
+              style={({ maxWidth: 64 })}
+            />
+          </td>
+          {Object.entries(getCharStatsAt(char, level, asc)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
         </tr>}
       </tbody>
     </table>
