@@ -1,6 +1,5 @@
 {
   "name": "Venti",
-  "desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
   "star": 5,
   "weaponType": "Bow",
   "baseStats": {
