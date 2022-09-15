@@ -21,9 +21,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 ## Base Stats
 
-import StatsTable from '@site/src/components/char/StatsTable'
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
-<StatsTable char={char} />
+<CharStatsTable char={char} />
 
 ## Attacks
 

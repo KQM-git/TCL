@@ -1,8 +1,8 @@
-import React from 'react';
+import React from 'react'
 
-import { Character, TalentTable, TalentValue } from '@site/src/data/types';
-import { getTalent } from '@site/src/utils/skill';
-import { ReactElement } from 'react-markdown/lib/react-markdown';
+import { Character, TalentTable, TalentValue } from '@site/src/data/types'
+import { getTalent } from '@site/src/utils/skill'
+import { ReactElement } from 'react-markdown/lib/react-markdown'
 
 export default function Talent({ char, skill, depotIndex }: {
   char: Character

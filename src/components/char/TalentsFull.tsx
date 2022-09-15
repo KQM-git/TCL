@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
-import TabItem from '@theme/TabItem';
-import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem'
+import Tabs from '@theme/Tabs'
 
-import { Character } from '@site/src/data/types';
-import { getSkillName } from '@site/src/utils/skill';
-import Talent from './Talent';
+import { Character } from '@site/src/data/types'
+import { getSkillName } from '@site/src/utils/skill'
+import Talent from './Talent'
 
 export default function TalentsFull({ char }: { char: Character }) {
   return <Tabs>

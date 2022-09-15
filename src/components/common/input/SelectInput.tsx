@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 export function SelectInput<T extends string | number>({ value, set, options }: { value: T, set: (newValue: { value: T; label: string | number; }) => unknown, options: { value: T, label: string | number }[] }) {
     return <div>

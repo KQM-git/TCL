@@ -1,7 +1,6 @@
 {
   "Waster Greatsword": {
     "name": "Waster Greatsword",
-    "desc": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.",
     "weaponType": "Claymore",
     "stars": 1,
     "weaponCurve": [
@@ -57,12 +56,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Old Merc's Pal": {
     "name": "Old Merc's Pal",
-    "desc": "A battle-tested greatsword that has seen better days and worse.",
     "weaponType": "Claymore",
     "stars": 2,
     "weaponCurve": [
@@ -118,12 +115,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Ferrous Shadow": {
     "name": "Ferrous Shadow",
-    "desc": "A replica of the famed sword of Arundolyn, the Lion of Light. Feel the power of a legendary hero as you hold this sword in your hand! Imagine yourself as the great warrior himself! Note: Daydreaming not recommended in live combat.",
     "weaponType": "Claymore",
     "stars": 3,
     "weaponCurve": [
@@ -205,32 +200,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Unbending",
-        "desc": "When HP falls below **70%**, increases Charged Attack DMG by **30%** and Charged Attacks become harder to interrupt."
-      },
-      {
-        "name": "Unbending",
-        "desc": "When HP falls below **75%**, increases Charged Attack DMG by **35%** and Charged Attacks become harder to interrupt."
-      },
-      {
-        "name": "Unbending",
-        "desc": "When HP falls below **80%**, increases Charged Attack DMG by **40%** and Charged Attacks become harder to interrupt."
-      },
-      {
-        "name": "Unbending",
-        "desc": "When HP falls below **85%**, increases Charged Attack DMG by **45%** and Charged Attacks become harder to interrupt."
-      },
-      {
-        "name": "Unbending",
-        "desc": "When HP falls below **90%**, increases Charged Attack DMG by **50%** and Charged Attacks become harder to interrupt."
-      }
-    ]
+    "refinements": {
+      "name": "Unbending",
+      "desc": "When HP falls below **70%**/**75%**/**80%**/**85%**/**90%**, increases Charged Attack DMG by **30%**/**35%**/**40%**/**45%**/**50%** and Charged Attacks become harder to interrupt."
+    }
   },
   "Bloodtainted Greatsword": {
     "name": "Bloodtainted Greatsword",
-    "desc": "A steel sword that is said to have been coated with dragon blood, rendering it invulnerable to damage. This effect is not extended to its wielder, however.",
     "weaponType": "Claymore",
     "stars": 3,
     "weaponCurve": [
@@ -312,32 +288,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **12%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **15%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **18%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **21%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **24%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Fire and Thunder",
+      "desc": "Increases DMG dealt against opponents affected by Pyro or Electro by **12%**/**15%**/**18%**/**21%**/**24%**."
+    }
   },
   "White Iron Greatsword": {
     "name": "White Iron Greatsword",
-    "desc": "A claymore made from white iron. Lightweight without compromising on power. Effective even when wielded by one of average strength, it is extremely deadly in the hands of a physically stronger wielder.",
     "weaponType": "Claymore",
     "stars": 3,
     "weaponCurve": [
@@ -419,32 +376,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **8%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **10%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **12%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **14%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **16%** HP."
-      }
-    ]
+    "refinements": {
+      "name": "Cull the Weak",
+      "desc": "Defeating an opponent restores **8%**/**10%**/**12%**/**14%**/**16%** HP."
+    }
   },
   "Debate Club": {
     "name": "Debate Club",
-    "desc": "A handy club made of fine steel. The most persuasive line of reasoning in any debater's arsenal.",
     "weaponType": "Claymore",
     "stars": 3,
     "weaponCurve": [
@@ -526,32 +464,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Blunt Conclusion",
-        "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **60%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
-      },
-      {
-        "name": "Blunt Conclusion",
-        "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **75%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
-      },
-      {
-        "name": "Blunt Conclusion",
-        "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **90%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
-      },
-      {
-        "name": "Blunt Conclusion",
-        "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **105%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
-      },
-      {
-        "name": "Blunt Conclusion",
-        "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **120%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
-      }
-    ]
+    "refinements": {
+      "name": "Blunt Conclusion",
+      "desc": "After using an Elemental Skill, on hit, Normal and Charged Attacks deal additional DMG equal to **60%**/**75%**/**90%**/**105%**/**120%** of ATK in a small AoE. Effect lasts 15s. DMG can only occur once every 3s."
+    }
   },
   "Skyrider Greatsword": {
     "name": "Skyrider Greatsword",
-    "desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword... for the second time.",
     "weaponType": "Claymore",
     "stars": 3,
     "weaponCurve": [
@@ -633,32 +552,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Courage",
-        "desc": "On hit, Normal or Charged Attacks increase ATK by **6%** for 6s. Max 4 stacks. Can occur once every 0.5s."
-      },
-      {
-        "name": "Courage",
-        "desc": "On hit, Normal or Charged Attacks increase ATK by **7%** for 6s. Max 4 stacks. Can occur once every 0.5s."
-      },
-      {
-        "name": "Courage",
-        "desc": "On hit, Normal or Charged Attacks increase ATK by **8%** for 6s. Max 4 stacks. Can occur once every 0.5s."
-      },
-      {
-        "name": "Courage",
-        "desc": "On hit, Normal or Charged Attacks increase ATK by **9%** for 6s. Max 4 stacks. Can occur once every 0.5s."
-      },
-      {
-        "name": "Courage",
-        "desc": "On hit, Normal or Charged Attacks increase ATK by **10%** for 6s. Max 4 stacks. Can occur once every 0.5s."
-      }
-    ]
+    "refinements": {
+      "name": "Courage",
+      "desc": "On hit, Normal or Charged Attacks increase ATK by **6%**/**7%**/**8%**/**9%**/**10%** for 6s. Max 4 stacks. Can occur once every 0.5s."
+    }
   },
   "Favonius Greatsword": {
     "name": "Favonius Greatsword",
-    "desc": "A heavy ceremonial sword of the Knights of Favonius. It channels elemental power easily and is highly destructive.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -740,32 +640,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **60%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **70%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **10.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **80%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **9**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **90%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **7.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **6**s."
-      }
-    ]
+    "refinements": {
+      "name": "Windfall",
+      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
+    }
   },
   "The Bell": {
     "name": "The Bell",
-    "desc": "A heavy greatsword. A clock is embedded within it, though its internal mechanisms have long been damaged.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -847,32 +728,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Rebellious Guardian",
-        "desc": "Taking DMG generates a shield which absorbs DMG up to **20%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**s. While protected by a shield, the character gains **12%** increased DMG."
-      },
-      {
-        "name": "Rebellious Guardian",
-        "desc": "Taking DMG generates a shield which absorbs DMG up to **23%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**s. While protected by a shield, the character gains **15%** increased DMG."
-      },
-      {
-        "name": "Rebellious Guardian",
-        "desc": "Taking DMG generates a shield which absorbs DMG up to **26%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**s. While protected by a shield, the character gains **18%** increased DMG."
-      },
-      {
-        "name": "Rebellious Guardian",
-        "desc": "Taking DMG generates a shield which absorbs DMG up to **29%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**s. While protected by a shield, the character gains **21%** increased DMG."
-      },
-      {
-        "name": "Rebellious Guardian",
-        "desc": "Taking DMG generates a shield which absorbs DMG up to **32%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**s. While protected by a shield, the character gains **24%** increased DMG."
-      }
-    ]
+    "refinements": {
+      "name": "Rebellious Guardian",
+      "desc": "Taking DMG generates a shield which absorbs DMG up to **20%**/**23%**/**26%**/**29%**/**32%** of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every **45**/**45**/**45**/**45**/**45**s. While protected by a shield, the character gains **12%**/**15%**/**18%**/**21%**/**24%** increased DMG."
+    }
   },
   "Sacrificial Greatsword": {
     "name": "Sacrificial Greatsword",
-    "desc": "A ceremonial greatsword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -954,32 +816,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%** chance to end its own CD. Can only occur once every **30**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **50%** chance to end its own CD. Can only occur once every **26**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **60%** chance to end its own CD. Can only occur once every **22s**."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **70%** chance to end its own CD. Can only occur once every **19**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **80%** chance to end its own CD. Can only occur once every **16s**."
-      }
-    ]
+    "refinements": {
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+    }
   },
   "Royal Greatsword": {
     "name": "Royal Greatsword",
-    "desc": "An old greatsword that belonged to the erstwhile rulers of Mondstadt. It is made from the finest-quality materials and has stood the test of time. A weapon for use by the nobility only.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1061,32 +904,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **10%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **12%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **14%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **16%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      }
-    ]
+    "refinements": {
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
   },
   "Rainslasher": {
     "name": "Rainslasher",
-    "desc": "A fluorescent greatsword with no sharp edge that crushes enemies with brute force and raw power.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1168,32 +992,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Storm and Tide",
-        "desc": "Increases DMG against opponents affected by Hydro or Electro by **20%**."
-      },
-      {
-        "name": "Bane of Storm and Tide",
-        "desc": "Increases DMG against opponents affected by Hydro or Electro by **24%**."
-      },
-      {
-        "name": "Bane of Storm and Tide",
-        "desc": "Increases DMG against opponents affected by Hydro or Electro by **28%**."
-      },
-      {
-        "name": "Bane of Storm and Tide",
-        "desc": "Increases DMG against opponents affected by Hydro or Electro by **32%**."
-      },
-      {
-        "name": "Bane of Storm and Tide",
-        "desc": "Increases DMG against opponents affected by Hydro or Electro by **36%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Storm and Tide",
+      "desc": "Increases DMG against opponents affected by Hydro or Electro by **20%**/**24%**/**28%**/**32%**/**36%**."
+    }
   },
   "Prototype Archaic": {
     "name": "Prototype Archaic",
-    "desc": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1275,32 +1080,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Crush",
-        "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **240%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
-      },
-      {
-        "name": "Crush",
-        "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **300%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
-      },
-      {
-        "name": "Crush",
-        "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **360%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
-      },
-      {
-        "name": "Crush",
-        "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **420%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
-      },
-      {
-        "name": "Crush",
-        "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **480%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
-      }
-    ]
+    "refinements": {
+      "name": "Crush",
+      "desc": "On hit, Normal or Charged Attacks have a 50% chance to deal an additional **240%**/**300%**/**360%**/**420%**/**480%** ATK DMG to opponents within a small AoE. Can only occur once every 15s."
+    }
   },
   "Whiteblind": {
     "name": "Whiteblind",
-    "desc": "An exotic sword with one section of the blade left blunt. It made its way into Liyue via the hands of foreign traders. Incredibly powerful in the hands of someone who knows how to use it.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1382,32 +1168,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Infusion Blade",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **6%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
-      },
-      {
-        "name": "Infusion Blade",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **7.5%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
-      },
-      {
-        "name": "Infusion Blade",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **9%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
-      },
-      {
-        "name": "Infusion Blade",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **10.5%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
-      },
-      {
-        "name": "Infusion Blade",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **12%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
-      }
-    ]
+    "refinements": {
+      "name": "Infusion Blade",
+      "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 4 stacks. This effect can only occur once every 0.5s."
+    }
   },
   "Blackcliff Slasher": {
     "name": "Blackcliff Slasher",
-    "desc": "An extremely sturdy greatsword from the Blackcliff Forge. It has a dark crimson color from the blade to pommel.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1489,32 +1256,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **12%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **15%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **18%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **21%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      }
-    ]
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
   },
   "Serpent Spine": {
     "name": "Serpent Spine",
-    "desc": "A rare weapon whose origin is the ancient ocean. One can hear the sound of the ageless waves as one swings it.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1596,32 +1344,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Wavesplitter",
-        "desc": "Every 4s a character is on the field, they will deal **6%** more DMG and take **3%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
-      },
-      {
-        "name": "Wavesplitter",
-        "desc": "Every 4s a character is on the field, they will deal **7%** more DMG and take **2.7%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
-      },
-      {
-        "name": "Wavesplitter",
-        "desc": "Every 4s a character is on the field, they will deal **8%** more DMG and take **2.4%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
-      },
-      {
-        "name": "Wavesplitter",
-        "desc": "Every 4s a character is on the field, they will deal **9%** more DMG and take **2.2%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
-      },
-      {
-        "name": "Wavesplitter",
-        "desc": "Every 4s a character is on the field, they will deal **10%** more DMG and take **2%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
-      }
-    ]
+    "refinements": {
+      "name": "Wavesplitter",
+      "desc": "Every 4s a character is on the field, they will deal **6%**/**7%**/**8%**/**9%**/**10%** more DMG and take **3%**/**2.7%**/**2.4%**/**2.2%**/**2%** more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+    }
   },
   "Snow-Tombed Starsilver": {
     "name": "Snow-Tombed Starsilver",
-    "desc": "An ancient greatsword that was stored between frescoes. Forged from Starsilver, it has the power to cleave through ice and snow.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1703,32 +1432,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **70%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **95%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **240%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has an **80%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **110%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **280%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **90%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **125%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **320%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **360%** of ATK. Can only occur once every 10s."
-      }
-    ]
+    "refinements": {
+      "name": "Frost Burial",
+      "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%**/**70%**/**80%**/**90%**/**100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%**/**95%**/**110%**/**125%**/**140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%**/**240%**/**280%**/**320%**/**360%** of ATK. Can only occur once every 10s."
+    }
   },
   "Lithic Blade": {
     "name": "Lithic Blade",
-    "desc": "A greatsword carved and chiseled from the very bedrock of Liyue.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1810,32 +1520,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%** ATK increase and a **3%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **8%** ATK increase and a **4%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **9%** ATK increase and a **5%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **10%** ATK increase and a **6%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **11%** ATK increase and a **7%** CRIT Rate increase. This effect stacks up to 4 times."
-      }
-    ]
+    "refinements": {
+      "name": "Lithic Axiom: Unity",
+      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+    }
   },
   "Katsuragikiri Nagamasa": {
     "name": "Katsuragikiri Nagamasa",
-    "desc": "A blade that was once made in Tatarasuna. Heavy and tough.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -1917,32 +1608,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **6%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **7.5%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3.5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **9%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **4** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **10.5%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **4.5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      }
-    ]
+    "refinements": {
+      "name": "Samurai Conduct",
+      "desc": "Increases Elemental Skill DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3**/**3.5**/**4**/**4.5**/**5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+    }
   },
   "Luxurious Sea-Lord": {
     "name": "Luxurious Sea-Lord",
-    "desc": "The great king of the ocean. Having been air-dried, it makes for a fine weapon as well as emergency sustenance.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -2024,32 +1696,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Oceanic Victory",
-        "desc": "Increases Elemental Burst DMG by **12%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **100%** ATK as AoE DMG. This effect can occur once every 15s."
-      },
-      {
-        "name": "Oceanic Victory",
-        "desc": "Increases Elemental Burst DMG by **15%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **125%** ATK as AoE DMG. This effect can occur once every 15s."
-      },
-      {
-        "name": "Oceanic Victory",
-        "desc": "Increases Elemental Burst DMG by **18%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **150%** ATK as AoE DMG. This effect can occur once every 15s."
-      },
-      {
-        "name": "Oceanic Victory",
-        "desc": "Increases Elemental Burst DMG by **21%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **175%** ATK as AoE DMG. This effect can occur once every 15s."
-      },
-      {
-        "name": "Oceanic Victory",
-        "desc": "Increases Elemental Burst DMG by **24%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **200%** ATK as AoE DMG. This effect can occur once every 15s."
-      }
-    ]
+    "refinements": {
+      "name": "Oceanic Victory",
+      "desc": "Increases Elemental Burst DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals **100%**/**125%**/**150%**/**175%**/**200%** ATK as AoE DMG. This effect can occur once every 15s."
+    }
   },
   "Akuoumaru": {
     "name": "Akuoumaru",
-    "desc": "The beloved sword of the legendary \"Akuou.\" The blade is huge and majestic, but is surprisingly easy to wield.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -2131,32 +1784,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**. A maximum of **40%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.15%**. A maximum of **50%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.18%**. A maximum of **60%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.21%**. A maximum of **70%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.24%**. A maximum of **80%** increased Elemental Burst DMG can be achieved this way."
-      }
-    ]
+    "refinements": {
+      "name": "Watatsumi Wavewalker",
+      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
+    }
   },
   "Forest Regalia": {
     "name": "Forest Regalia",
-    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a greatsword that shall cut down the foes of the forest.",
     "weaponType": "Claymore",
     "stars": 4,
     "weaponCurve": [
@@ -2238,32 +1872,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **75** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **90** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **105** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      }
-    ]
+    "refinements": {
+      "name": "Forest Sanctuary",
+      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+    }
   },
   "Skyward Pride": {
     "name": "Skyward Pride",
-    "desc": "A claymore that symbolizes the pride of Dvalin soaring through the skies. When swung, it emits a deep hum as the full force of Dvalin's command of the sky and the wind is unleashed.",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
@@ -2345,32 +1960,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Sky-ripping Dragon Spine",
-        "desc": "Increases all DMG by **8%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **80%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
-      },
-      {
-        "name": "Sky-ripping Dragon Spine",
-        "desc": "Increases all DMG by **10%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **100%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
-      },
-      {
-        "name": "Sky-ripping Dragon Spine",
-        "desc": "Increases all DMG by **12%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **120%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
-      },
-      {
-        "name": "Sky-ripping Dragon Spine",
-        "desc": "Increases all DMG by **14%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **140%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
-      },
-      {
-        "name": "Sky-ripping Dragon Spine",
-        "desc": "Increases all DMG by **16%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **160%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
-      }
-    ]
+    "refinements": {
+      "name": "Sky-ripping Dragon Spine",
+      "desc": "Increases all DMG by **8%**/**10%**/**12%**/**14%**/**16%**. After using an Elemental Burst, Normal or Charged Attack, on hit, creates a vacuum blade that does **80%**/**100%**/**120%**/**140%**/**160%** of ATK as DMG to opponents along its path. Lasts for 20s or 8 vacuum blades."
+    }
   },
   "Wolf's Gravestone": {
     "name": "Wolf's Gravestone",
-    "desc": "A longsword used by the Wolf Knight. Originally just a heavy sheet of iron given to the knight by a blacksmith from the city, it became endowed with legendary power owing to his friendship with the wolves.",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
@@ -2452,32 +2048,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Wolfish Tracker",
-        "desc": "Increases ATK by **20%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **40%** for 12s. Can only occur once every 30s."
-      },
-      {
-        "name": "Wolfish Tracker",
-        "desc": "Increases ATK by **25%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **50%** for 12s. Can only occur once every 30s."
-      },
-      {
-        "name": "Wolfish Tracker",
-        "desc": "Increases ATK by **30%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **60%** for 12s. Can only occur once every 30s."
-      },
-      {
-        "name": "Wolfish Tracker",
-        "desc": "Increases ATK by **35%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **70%** for 12s. Can only occur once every 30s."
-      },
-      {
-        "name": "Wolfish Tracker",
-        "desc": "Increases ATK by **40%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **80%** for 12s. Can only occur once every 30s."
-      }
-    ]
+    "refinements": {
+      "name": "Wolfish Tracker",
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by **40%**/**50%**/**60%**/**70%**/**80%** for 12s. Can only occur once every 30s."
+    }
   },
   "The Unforged": {
     "name": "The Unforged",
-    "desc": "Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might.",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
@@ -2559,32 +2136,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **20%**. Scoring hits on opponents increases ATK by **4%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **25%**. Scoring hits on opponents increases ATK by **5%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **30%**. Scoring hits on opponents increases ATK by **6%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **35%**. Scoring hits on opponents increases ATK by **7%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **40%**. Scoring hits on opponents increases ATK by **8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      }
-    ]
+    "refinements": {
+      "name": "Golden Majesty",
+      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    }
   },
   "Song of Broken Pines": {
     "name": "Song of Broken Pines",
-    "desc": "A greatsword as light as the sigh of grass in the breeze, yet as merciless to the corrupt as a typhoon.",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
@@ -2666,32 +2224,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Rebel's Banner-Hymn",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **16%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **12%** and increases ATK by **20%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Rebel's Banner-Hymn",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **20%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **15%** and increases ATK by **25%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Rebel's Banner-Hymn",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **24%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **18%** and increases ATK by **30%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Rebel's Banner-Hymn",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **28%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **21%** and increases ATK by **35%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Rebel's Banner-Hymn",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **32%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **24%** and increases ATK by **40%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      }
-    ]
+    "refinements": {
+      "name": "Rebel's Banner-Hymn",
+      "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by **16%**/**20%**/**24%**/**28%**/**32%**, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by **12%**/**15%**/**18%**/**21%**/**24%** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    }
   },
   "Redhorn Stonethresher": {
     "name": "Redhorn Stonethresher",
-    "desc": "According to its previous owner, this weapon is the \"Mighty Redhorn Stoic Stonethreshing Gilded Goldcrushing Lion Lord\" that can send any monster packing with its tail between its legs.",
     "weaponType": "Claymore",
     "stars": 5,
     "weaponCurve": [
@@ -2773,27 +2312,9 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Gokadaiou Otogibanashi",
-        "desc": "DEF is increased by **28%**. Normal and Charged Attack DMG is increased by **40%** of DEF."
-      },
-      {
-        "name": "Gokadaiou Otogibanashi",
-        "desc": "DEF is increased by **35%**. Normal and Charged Attack DMG is increased by **50%** of DEF."
-      },
-      {
-        "name": "Gokadaiou Otogibanashi",
-        "desc": "DEF is increased by **42%**. Normal and Charged Attack DMG is increased by **60%** of DEF."
-      },
-      {
-        "name": "Gokadaiou Otogibanashi",
-        "desc": "DEF is increased by **49%**. Normal and Charged Attack DMG is increased by **70%** of DEF."
-      },
-      {
-        "name": "Gokadaiou Otogibanashi",
-        "desc": "DEF is increased by **56%**. Normal and Charged Attack DMG is increased by **80%** of DEF."
-      }
-    ]
+    "refinements": {
+      "name": "Gokadaiou Otogibanashi",
+      "desc": "DEF is increased by **28%**/**35%**/**42%**/**49%**/**56%**. Normal and Charged Attack DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF."
+    }
   }
 }

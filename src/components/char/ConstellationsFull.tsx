@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 
-import TabItem from '@theme/TabItem';
-import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem'
+import Tabs from '@theme/Tabs'
 
-import { Character } from '@site/src/data/types';
-import Constellation from './Constellation';
+import { Character } from '@site/src/data/types'
+import Constellation from './Constellation'
 
 export default function ConstellationsFull({ char }: { char: Character }) {
   return <Tabs>

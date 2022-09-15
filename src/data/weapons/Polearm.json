@@ -1,7 +1,6 @@
 {
   "Beginner's Protector": {
     "name": "Beginner's Protector",
-    "desc": "A polearm as straight as a flag pole. Well suited to most combat situations, it has an imposing presence when swung.",
     "weaponType": "Polearm",
     "stars": 1,
     "weaponCurve": [
@@ -57,12 +56,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Iron Point": {
     "name": "Iron Point",
-    "desc": "Sharp and pointy at one end, it is a balanced weapon that is quite popular among travelers.",
     "weaponType": "Polearm",
     "stars": 2,
     "weaponCurve": [
@@ -118,12 +115,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "White Tassel": {
     "name": "White Tassel",
-    "desc": "A standard-issue weapon of the Millelith soldiers. It has a sturdy shaft and sharp spearhead. It's a reliable weapon.",
     "weaponType": "Polearm",
     "stars": 3,
     "weaponCurve": [
@@ -205,32 +200,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Sharp",
-        "desc": "Increases Normal Attack DMG by **24%**."
-      },
-      {
-        "name": "Sharp",
-        "desc": "Increases Normal Attack DMG by **30%**."
-      },
-      {
-        "name": "Sharp",
-        "desc": "Increases Normal Attack DMG by **36%**."
-      },
-      {
-        "name": "Sharp",
-        "desc": "Increases Normal Attack DMG by **42%**."
-      },
-      {
-        "name": "Sharp",
-        "desc": "Increases Normal Attack DMG by **48%**."
-      }
-    ]
+    "refinements": {
+      "name": "Sharp",
+      "desc": "Increases Normal Attack DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
+    }
   },
   "Halberd": {
     "name": "Halberd",
-    "desc": "A polearm with an axe blade mounted on top that can deal quite a lot of damage. It's favored by the Millelith officers.",
     "weaponType": "Polearm",
     "stars": 3,
     "weaponCurve": [
@@ -312,32 +288,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Heavy",
-        "desc": "Normal Attacks deal an additional **160%** ATK as DMG. Can only occur once every 10s."
-      },
-      {
-        "name": "Heavy",
-        "desc": "Normal Attacks deal an additional **200%** ATK as DMG. This effect can only occur once every 10s."
-      },
-      {
-        "name": "Heavy",
-        "desc": "Normal Attacks deal an additional **240%** ATK as DMG. This effect can only occur once every 10s."
-      },
-      {
-        "name": "Heavy",
-        "desc": "Normal Attacks deal an additional **280%** ATK as DMG. This effect can only occur once every 10s."
-      },
-      {
-        "name": "Heavy",
-        "desc": "Normal Attacks deal an additional **320%** ATK as DMG. This effect can only occur once every 10s."
-      }
-    ]
+    "refinements": {
+      "name": "Heavy",
+      "desc": "Normal Attacks deal an additional **160%**/**200%**/**240%**/**280%**/**320%** ATK as DMG. Can only occur once every 10s."
+    }
   },
   "Black Tassel": {
     "name": "Black Tassel",
-    "desc": "An exceptionally powerful polearm that also offers a simple but elegant solution to the issue of the easily stained white tassel.",
     "weaponType": "Polearm",
     "stars": 3,
     "weaponCurve": [
@@ -419,32 +376,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of the Soft",
-        "desc": "Increases DMG against slimes by **40%**."
-      },
-      {
-        "name": "Bane of the Soft",
-        "desc": "Increases DMG against slimes by **50%**."
-      },
-      {
-        "name": "Bane of the Soft",
-        "desc": "Increases DMG against slimes by **60%**."
-      },
-      {
-        "name": "Bane of the Soft",
-        "desc": "Increases DMG against slimes by **70%**."
-      },
-      {
-        "name": "Bane of the Soft",
-        "desc": "Increases DMG against slimes by **80%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of the Soft",
+      "desc": "Increases DMG against slimes by **40%**/**50%**/**60%**/**70%**/**80%**."
+    }
   },
   "Dragon's Bane": {
     "name": "Dragon's Bane",
-    "desc": "A polearm decorated with an entwining golden dragon. Light and sharp, this weapon may very well kill dragons with ease.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -526,32 +464,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **20%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **24%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **28%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **32%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **36%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Flame and Water",
+      "desc": "Increases DMG against opponents affected by Hydro or Pyro by **20%**/**24%**/**28%**/**32%**/**36%**."
+    }
   },
   "Prototype Starglitter": {
     "name": "Prototype Starglitter",
-    "desc": "A hooked spear discovered hidden away in the Blackcliff Forge. The glimmers along the sharp edge are like stars in the night.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -633,32 +552,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Magic Affinity",
-        "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **8%** for 12s. Max 2 stacks."
-      },
-      {
-        "name": "Magic Affinity",
-        "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **10%** for 12s. Max 2 stacks."
-      },
-      {
-        "name": "Magic Affinity",
-        "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **12%** for 12s. Max 2 stacks."
-      },
-      {
-        "name": "Magic Affinity",
-        "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **14%** for 12s. Max 2 stacks."
-      },
-      {
-        "name": "Magic Affinity",
-        "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **16%** for 12s. Max 2 stacks."
-      }
-    ]
+    "refinements": {
+      "name": "Magic Affinity",
+      "desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by **8%**/**10%**/**12%**/**14%**/**16%** for 12s. Max 2 stacks."
+    }
   },
   "Crescent Pike": {
     "name": "Crescent Pike",
-    "desc": "An exotic weapon with an extremely long blade on the top and a crescent blade at the bottom. It found its way into Liyue through foreign traders. With practice, it can deal heavy damage.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -740,32 +640,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Infusion Needle",
-        "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **20%** of ATK for 5s."
-      },
-      {
-        "name": "Infusion Needle",
-        "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **25%** of ATK for 5s."
-      },
-      {
-        "name": "Infusion Needle",
-        "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **30%** of ATK for 5s."
-      },
-      {
-        "name": "Infusion Needle",
-        "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **35%** of ATK for 5s."
-      },
-      {
-        "name": "Infusion Needle",
-        "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **40%** of ATK for 5s."
-      }
-    ]
+    "refinements": {
+      "name": "Infusion Needle",
+      "desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK for 5s."
+    }
   },
   "Blackcliff Pole": {
     "name": "Blackcliff Pole",
-    "desc": "A weapon made of blackcliff and aerosiderite. There is a dark crimson glow on its cold black sheen.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -847,32 +728,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **12%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **15%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **18%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **21%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      }
-    ]
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
   },
   "Deathmatch": {
     "name": "Deathmatch",
-    "desc": "A sharp crimson polearm that was once a gladiator's priceless treasure. Its awl has been stained by the blood of countless beasts and men.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -954,32 +816,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Gladiator",
-        "desc": "If there are at least 2 opponents nearby, ATK is increased by **16%** and DEF is increased by **16%**. If there are fewer than 2 opponents nearby, ATK is increased by **24%**."
-      },
-      {
-        "name": "Gladiator",
-        "desc": "If there are at least 2 opponents nearby, ATK is increased by **20%** and DEF is increased by **20%**. If there are fewer than 2 opponents nearby, ATK is increased by **30%**."
-      },
-      {
-        "name": "Gladiator",
-        "desc": "If there are at least 2 opponents nearby, ATK is increased by **24%** and DEF is increased by **24%**. If there are fewer than 2 opponents nearby, ATK is increased by **36%**."
-      },
-      {
-        "name": "Gladiator",
-        "desc": "If there are at least 2 opponents nearby, ATK is increased by **28%** and DEF is increased by **28%**. If there are fewer than 2 opponents nearby, ATK is increased by **42%**."
-      },
-      {
-        "name": "Gladiator",
-        "desc": "If there are at least 2 opponents nearby, ATK is increased by **32%** and DEF is increased by **32%**. If there are fewer than 2 opponents nearby, ATK is increased by **48%**."
-      }
-    ]
+    "refinements": {
+      "name": "Gladiator",
+      "desc": "If there are at least 2 opponents nearby, ATK is increased by **16%**/**20%**/**24%**/**28%**/**32%** and DEF is increased by **16%**/**20%**/**24%**/**28%**/**32%**. If there are fewer than 2 opponents nearby, ATK is increased by **24%**/**30%**/**36%**/**42%**/**48%**."
+    }
   },
   "Favonius Lance": {
     "name": "Favonius Lance",
-    "desc": "A polearm made in the style of the Knights of Favonius. Its shaft is straight, and its tip flows lightly like the wind.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1061,32 +904,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **60%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **70%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **10.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **80%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **9**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **90%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **7.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **6**s."
-      }
-    ]
+    "refinements": {
+      "name": "Windfall",
+      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
+    }
   },
   "Royal Spear": {
     "name": "Royal Spear",
-    "desc": "This polearm was once cherished by a member of the old nobility that governed Mondstadt long ago. Although it has never seen the light of day, it is still incomparably sharp.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1168,32 +992,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **10%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **12%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **14%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **16%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      }
-    ]
+    "refinements": {
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
   },
   "Dragonspine Spear": {
     "name": "Dragonspine Spear",
-    "desc": "A spear created from the fang of a dragon. It is oddly warm to the touch.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1275,32 +1080,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **70%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **95%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **240%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has an **80%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **110%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **280%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **90%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **125%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **320%** of ATK. Can only occur once every 10s."
-      },
-      {
-        "name": "Frost Burial",
-        "desc": "Hitting an opponent with Normal and Charged Attacks has a **100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **360%** of ATK. Can only occur once every 10s."
-      }
-    ]
+    "refinements": {
+      "name": "Frost Burial",
+      "desc": "Hitting an opponent with Normal and Charged Attacks has a **60%**/**70%**/**80%**/**90%**/**100%** chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to **80%**/**95%**/**110%**/**125%**/**140%** of ATK. Opponents affected by Cryo are instead dealt DMG equal to **200%**/**240%**/**280%**/**320%**/**360%** of ATK. Can only occur once every 10s."
+    }
   },
   "Lithic Spear": {
     "name": "Lithic Spear",
-    "desc": "A spear forged from the rocks of the Guyun Stone Forest. Its hardness knows no equal.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1382,32 +1168,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%** ATK increase and a **3%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **8%** ATK increase and a **4%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **9%** ATK increase and a **5%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **10%** ATK increase and a **6%** CRIT Rate increase. This effect stacks up to 4 times."
-      },
-      {
-        "name": "Lithic Axiom: Unity",
-        "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **11%** ATK increase and a **7%** CRIT Rate increase. This effect stacks up to 4 times."
-      }
-    ]
+    "refinements": {
+      "name": "Lithic Axiom: Unity",
+      "desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a **7%**/**8%**/**9%**/**10%**/**11%** ATK increase and a **3%**/**4%**/**5%**/**6%**/**7%** CRIT Rate increase. This effect stacks up to 4 times."
+    }
   },
   "Kitain Cross Spear": {
     "name": "Kitain Cross Spear",
-    "desc": "A special lance that was once used by a famed warrior who guarded the Tatarigami on Yashiori Island.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1489,32 +1256,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **6%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **7.5%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3.5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **9%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **4** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **10.5%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **4.5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      },
-      {
-        "name": "Samurai Conduct",
-        "desc": "Increases Elemental Skill DMG by **12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
-      }
-    ]
+    "refinements": {
+      "name": "Samurai Conduct",
+      "desc": "Increases Elemental Skill DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%**. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates **3**/**3.5**/**4**/**4.5**/**5** Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field."
+    }
   },
   "\"The Catch\"": {
     "name": "\"The Catch\"",
-    "desc": "In the distant past, this was the beloved spear of a famed Inazuman bandit.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1596,32 +1344,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Shanty",
-        "desc": "Increases Elemental Burst DMG by **16%** and Elemental Burst CRIT Rate by **6%**."
-      },
-      {
-        "name": "Shanty",
-        "desc": "Increases Elemental Burst DMG by **20%** and Elemental Burst CRIT Rate by **7.5%**."
-      },
-      {
-        "name": "Shanty",
-        "desc": "Increases Elemental Burst DMG by **24%** and Elemental Burst CRIT Rate by **9%**."
-      },
-      {
-        "name": "Shanty",
-        "desc": "Increases Elemental Burst DMG by **28%** and Elemental Burst CRIT Rate by **10.5%**."
-      },
-      {
-        "name": "Shanty",
-        "desc": "Increases Elemental Burst DMG by **32%** and Elemental Burst CRIT Rate by **12%**."
-      }
-    ]
+    "refinements": {
+      "name": "Shanty",
+      "desc": "Increases Elemental Burst DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Burst CRIT Rate by **6%**/**7.5%**/**9%**/**10.5%**/**12%**."
+    }
   },
   "Wavebreaker's Fin": {
     "name": "Wavebreaker's Fin",
-    "desc": "A naginata forged from luminescent material deep in the ocean depths. It was once the possession of the tengu race.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1703,32 +1432,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**. A maximum of **40%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.15%**. A maximum of **50%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.18%**. A maximum of **60%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.21%**. A maximum of **70%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.24%**. A maximum of **80%** increased Elemental Burst DMG can be achieved this way."
-      }
-    ]
+    "refinements": {
+      "name": "Watatsumi Wavewalker",
+      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
+    }
   },
   "Moonpiercer": {
     "name": "Moonpiercer",
-    "desc": "A weapon you obtained from an Aranara tale. It is shaped like a giant arrow and can be used as a spear.",
     "weaponType": "Polearm",
     "stars": 4,
     "weaponCurve": [
@@ -1810,32 +1520,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Stillwood Moonshadow",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-      },
-      {
-        "name": "Stillwood Moonshadow",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **20%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-      },
-      {
-        "name": "Stillwood Moonshadow",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **24%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-      },
-      {
-        "name": "Stillwood Moonshadow",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **28%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-      },
-      {
-        "name": "Stillwood Moonshadow",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **32%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
-      }
-    ]
+    "refinements": {
+      "name": "Stillwood Moonshadow",
+      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **16%**/**20%**/**24%**/**28%**/**32%** ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field."
+    }
   },
   "Primordial Jade Winged-Spear": {
     "name": "Primordial Jade Winged-Spear",
-    "desc": "A jade polearm made by the archons, capable of slaying ancient beasts.",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -1917,32 +1608,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Eagle Spear of Justice",
-        "desc": "On hit, increases ATK by **3.2%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12%**."
-      },
-      {
-        "name": "Eagle Spear of Justice",
-        "desc": "On hit, increases ATK by **3.9%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **15%**."
-      },
-      {
-        "name": "Eagle Spear of Justice",
-        "desc": "On hit, increases ATK by **4.6%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **18%**."
-      },
-      {
-        "name": "Eagle Spear of Justice",
-        "desc": "On hit, increases ATK by **5.3%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **21%**."
-      },
-      {
-        "name": "Eagle Spear of Justice",
-        "desc": "On hit, increases ATK by **6%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **24%**."
-      }
-    ]
+    "refinements": {
+      "name": "Eagle Spear of Justice",
+      "desc": "On hit, increases ATK by **3.2%**/**3.9%**/**4.6%**/**5.3%**/**6%** for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by **12%**/**15%**/**18%**/**21%**/**24%**."
+    }
   },
   "Skyward Spine": {
     "name": "Skyward Spine",
-    "desc": "A polearm that symbolizes Dvalin's firm resolve. The upright shaft of this weapon points towards the heavens, clad in the might of sky and wind.",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -2024,32 +1696,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Black Wing",
-        "desc": "Increases CRIT Rate by **8%** and increases Normal ATK SPD by **12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%** chance to trigger a vacuum blade that deals **40%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
-      },
-      {
-        "name": "Black Wing",
-        "desc": "Increases CRIT Rate by **10%** and increases Normal ATK SPD by **12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%** chance to trigger a vacuum blade that deals **55%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
-      },
-      {
-        "name": "Black Wing",
-        "desc": "Increases CRIT Rate by **12%** and increases Normal ATK SPD by **12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%** chance to trigger a vacuum blade that deals **70%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
-      },
-      {
-        "name": "Black Wing",
-        "desc": "Increases CRIT Rate by **14%** and increases Normal ATK SPD by **12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%** chance to trigger a vacuum blade that deals **85%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
-      },
-      {
-        "name": "Black Wing",
-        "desc": "Increases CRIT Rate by **16%** and increases Normal ATK SPD by **12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%** chance to trigger a vacuum blade that deals **100%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
-      }
-    ]
+    "refinements": {
+      "name": "Black Wing",
+      "desc": "Increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%** and increases Normal ATK SPD by **12%**/**12%**/**12%**/**12%**/**12%**. Additionally, Normal and Charged Attacks hits on opponents have a **50%**/**50%**/**50%**/**50%**/**50%** chance to trigger a vacuum blade that deals **40%**/**55%**/**70%**/**85%**/**100%** of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+    }
   },
   "Vortex Vanquisher": {
     "name": "Vortex Vanquisher",
-    "desc": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -2131,32 +1784,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **20%**. Scoring hits on opponents increases ATK by **4%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **25%**. Scoring hits on opponents increases ATK by **5%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **30%**. Scoring hits on opponents increases ATK by **6%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **35%**. Scoring hits on opponents increases ATK by **7%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **40%**. Scoring hits on opponents increases ATK by **8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      }
-    ]
+    "refinements": {
+      "name": "Golden Majesty",
+      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    }
   },
   "Staff of Homa": {
     "name": "Staff of Homa",
-    "desc": "A \"firewood staff\" that was once used in ancient and long-lost rituals.",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -2238,32 +1872,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Reckless Cinnabar",
-        "desc": "HP increased by **20%**. Additionally, provides an ATK Bonus based on **0.8%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1%** of Max HP."
-      },
-      {
-        "name": "Reckless Cinnabar",
-        "desc": "HP increased by **25%**. Additionally, provides an ATK Bonus based on **1%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1.2%** of Max HP."
-      },
-      {
-        "name": "Reckless Cinnabar",
-        "desc": "HP increased by **30%**. Additionally, provides an ATK Bonus based on **1.2%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1.4%** of Max HP."
-      },
-      {
-        "name": "Reckless Cinnabar",
-        "desc": "HP increased by **35%**. Additionally, provides an ATK Bonus based on **1.4%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1.6%** of Max HP."
-      },
-      {
-        "name": "Reckless Cinnabar",
-        "desc": "HP increased by **40%**. Additionally, provides an ATK Bonus based on **1.6%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1.8%** of Max HP."
-      }
-    ]
+    "refinements": {
+      "name": "Reckless Cinnabar",
+      "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, provides an ATK Bonus based on **0.8%**/**1%**/**1.2%**/**1.4%**/**1.6%** of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional **1%**/**1.2%**/**1.4%**/**1.6%**/**1.8%** of Max HP."
+    }
   },
   "Engulfing Lightning": {
     "name": "Engulfing Lightning",
-    "desc": "A naginata used to \"cut grass.\" Any army that stands before this weapon will probably be likewise cut down...",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -2345,32 +1960,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Timeless Dream: Eternal Stove",
-        "desc": "ATK increased by **28%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **80%** ATK. Gain **30%** Energy Recharge for 12s after using an Elemental Burst."
-      },
-      {
-        "name": "Timeless Dream: Eternal Stove",
-        "desc": "ATK increased by **35%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **90%** ATK. Gain **35%** Energy Recharge for 12s after using an Elemental Burst."
-      },
-      {
-        "name": "Timeless Dream: Eternal Stove",
-        "desc": "ATK increased by **42%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **100%** ATK. Gain **40%** Energy Recharge for 12s after using an Elemental Burst."
-      },
-      {
-        "name": "Timeless Dream: Eternal Stove",
-        "desc": "ATK increased by **49%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **110%** ATK. Gain **45%** Energy Recharge for 12s after using an Elemental Burst."
-      },
-      {
-        "name": "Timeless Dream: Eternal Stove",
-        "desc": "ATK increased by **56%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **120%** ATK. Gain **50%** Energy Recharge for 12s after using an Elemental Burst."
-      }
-    ]
+    "refinements": {
+      "name": "Timeless Dream: Eternal Stove",
+      "desc": "ATK increased by **28%**/**35%**/**42%**/**49%**/**56%** of Energy Recharge over the base 100%. You can gain a maximum bonus of **80%**/**90%**/**100%**/**110%**/**120%** ATK. Gain **30%**/**35%**/**40%**/**45%**/**50%** Energy Recharge for 12s after using an Elemental Burst."
+    }
   },
   "Calamity Queller": {
     "name": "Calamity Queller",
-    "desc": "A keenly honed weapon forged from some strange crystal. Its faint blue light seems to whisper of countless matters now past.",
     "weaponType": "Polearm",
     "stars": 5,
     "weaponCurve": [
@@ -2452,27 +2048,9 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Extinguishing Precept",
-        "desc": "Gain **12%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-      },
-      {
-        "name": "Extinguishing Precept",
-        "desc": "Gain **15%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-      },
-      {
-        "name": "Extinguishing Precept",
-        "desc": "Gain **18%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **4.8%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-      },
-      {
-        "name": "Extinguishing Precept",
-        "desc": "Gain **21%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **5.6%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-      },
-      {
-        "name": "Extinguishing Precept",
-        "desc": "Gain **24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
-      }
-    ]
+    "refinements": {
+      "name": "Extinguishing Precept",
+      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain Consummation for 20s after using an Elemental Skill, causing ATK to increase by **3.2%**/**4%**/**4.8%**/**5.6%**/**6.4%** per second. This ATK increase has a maximum of 6 stacks. When the character equipped with this weapon is not on the field, Consummation's ATK increase is doubled."
+    }
   }
 }

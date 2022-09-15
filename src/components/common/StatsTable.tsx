@@ -1,17 +1,26 @@
-import { Character } from '@site/src/data/types';
-import { getCharStatsAt } from '@site/src/utils/charstats';
-import { stat } from '@site/src/utils/stat';
-import React, { useEffect, useState } from 'react';
-import { NumberInput } from '../common/input/NumberInput';
-import { SelectInput } from '../common/input/SelectInput';
+import React, { useEffect, useState } from 'react'
 
-export default function StatsTable({ char }: { char: Character }) {
+import { CharacterAscension, WeaponAscension } from '@site/src/data/types'
+import { stat } from '@site/src/utils/stat'
+
+import { NumberInput } from '../common/input/NumberInput'
+import { SelectInput } from '../common/input/SelectInput'
+
+export default function StatsTable({
+  ascensions,
+  baseLevels,
+  getStatsAt
+}: {
+  ascensions: (WeaponAscension | CharacterAscension)[],
+  baseLevels: { a: number, lv: number }[],
+  getStatsAt: (lvl: number, asc: number) => Record<string, number>
+}) {
   const [expanded, setExpanded] = useState(false)
 
   const [level, setLevel] = useState(89)
   const [asc, setAsc] = useState(6)
 
-  const ascOpt = char.ascensions
+  const ascOpt = ascensions
     .filter((a, i, arr) => level <= a.maxLevel && (i == 0 || level >= arr[i - 1].maxLevel))
     .map(a => ({
       label: `A${a.level}`,
@@ -24,17 +33,14 @@ export default function StatsTable({ char }: { char: Character }) {
     setAsc(ascOpt[0].value)
   }, [level])
 
-  const maxAscension = char.ascensions[char.ascensions.length - 1]
+  const maxAscension = ascensions[ascensions.length - 1]
 
   const levels: { a: number, lv: number }[] = []
 
-  let prev = 1
-  for (const asc of char.ascensions) {
-    levels.push({ a: asc.level, lv: prev })
-    levels.push({ a: asc.level, lv: asc.maxLevel })
-    prev = asc.maxLevel
-  }
-  const max = getCharStatsAt(char, maxAscension.maxLevel, maxAscension.level)
+  for (const bl of baseLevels)
+    levels.push(bl)
+
+  const max = getStatsAt(maxAscension.maxLevel, maxAscension.level)
 
   return (
     <table onClick={() => setExpanded(true)} style={({
@@ -53,11 +59,11 @@ export default function StatsTable({ char }: { char: Character }) {
           .map(({ a, lv }) => <tr key={a + "," + lv}>
             <td align='left'>A{a}</td>
             <td align='left'>{lv}</td>
-            {Object.entries(getCharStatsAt(char, lv, a)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
+            {Object.entries(getStatsAt(lv, a)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
           </tr>)}
 
         {!expanded && <tr>
-          <td align='center' colSpan={Object.keys(getCharStatsAt(char, 1, 1)).length + 2}><a>Click to expand...</a></td>
+          <td align='center' colSpan={Object.keys(getStatsAt(1, 1)).length + 2}><a>Click to expand...</a></td>
         </tr>}
 
         {expanded && <tr>
@@ -77,7 +83,7 @@ export default function StatsTable({ char }: { char: Character }) {
               style={({ maxWidth: 64 })}
             />
           </td>
-          {Object.entries(getCharStatsAt(char, level, asc)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
+          {Object.entries(getStatsAt(level, asc)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
         </tr>}
       </tbody>
     </table>

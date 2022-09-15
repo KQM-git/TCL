@@ -1,7 +1,6 @@
 {
   "Dull Blade": {
     "name": "Dull Blade",
-    "desc": "Youthful dreams and the thrill of adventure. If this isn't enough, then make it up with valiance.",
     "weaponType": "Sword",
     "stars": 1,
     "weaponCurve": [
@@ -57,12 +56,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Silver Sword": {
     "name": "Silver Sword",
-    "desc": "A sword for exorcising demons. Everyone knows it's made of a silver alloy, not pure silver.",
     "weaponType": "Sword",
     "stars": 2,
     "weaponCurve": [
@@ -118,12 +115,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Cool Steel": {
     "name": "Cool Steel",
-    "desc": "A reliable steel-forged weapon that serves as a testament to the great adventures of its old master.",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -205,32 +200,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Water and Ice",
-        "desc": "Increases DMG against opponents affected by Hydro or Cryo by **12%**."
-      },
-      {
-        "name": "Bane of Water and Ice",
-        "desc": "Increases DMG against opponents affected by Hydro or Cryo by **15%**."
-      },
-      {
-        "name": "Bane of Water and Ice",
-        "desc": "Increases DMG against opponents affected by Hydro or Cryo by **18%**."
-      },
-      {
-        "name": "Bane of Water and Ice",
-        "desc": "Increases DMG against opponents affected by Hydro or Cryo by **21%**."
-      },
-      {
-        "name": "Bane of Water and Ice",
-        "desc": "Increases DMG against opponents affected by Hydro or Cryo by **24%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Water and Ice",
+      "desc": "Increases DMG against opponents affected by Hydro or Cryo by **12%**/**15%**/**18%**/**21%**/**24%**."
+    }
   },
   "Harbinger of Dawn": {
     "name": "Harbinger of Dawn",
-    "desc": "A sword that once shone like the sun. The wielder of this sword will be blessed with a \"feel-good\" buff. The reflective material on the blade has long worn off.",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -312,32 +288,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Vigorous",
-        "desc": "When HP is above 90%, increases CRIT Rate by **14%**."
-      },
-      {
-        "name": "Vigorous",
-        "desc": "When HP is above 90%, increases CRIT Rate by **17.5%**."
-      },
-      {
-        "name": "Vigorous",
-        "desc": "When HP is above 90%, increases CRIT Rate by **21%**."
-      },
-      {
-        "name": "Vigorous",
-        "desc": "When HP is above 90%, increases CRIT Rate by **24.5%**."
-      },
-      {
-        "name": "Vigorous",
-        "desc": "When HP is above 90%, increases CRIT Rate by **28%**."
-      }
-    ]
+    "refinements": {
+      "name": "Vigorous",
+      "desc": "When HP is above 90%, increases CRIT Rate by **14%**/**17.5%**/**21%**/**24.5%**/**28%**."
+    }
   },
   "Traveler's Handy Sword": {
     "name": "Traveler's Handy Sword",
-    "desc": "A handy steel sword which contains scissors, a magnifying glass, tinder, and other useful items in its sheath.",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -419,32 +376,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Journey",
-        "desc": "Each Elemental Orb or Particle collected restores **1%** HP."
-      },
-      {
-        "name": "Journey",
-        "desc": "Each Elemental Orb or Particle collected restores **1.25%** HP."
-      },
-      {
-        "name": "Journey",
-        "desc": "Each Elemental Orb or Particle collected restores **1.5%** HP."
-      },
-      {
-        "name": "Journey",
-        "desc": "Each Elemental Orb or Particle collected restores **1.75%** HP."
-      },
-      {
-        "name": "Journey",
-        "desc": "Each Elemental Orb or Particle collected restores **2%** HP."
-      }
-    ]
+    "refinements": {
+      "name": "Journey",
+      "desc": "Each Elemental Orb or Particle collected restores **1%**/**1.25%**/**1.5%**/**1.75%**/**2%** HP."
+    }
   },
   "Fillet Blade": {
     "name": "Fillet Blade",
-    "desc": "A sharp filleting knife. The blade is long, thin, and incredibly sharp.",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -526,32 +464,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Gash",
-        "desc": "On hit, has a 50% chance to deal **240%** ATK DMG to a single opponent. Can only occur once every **15**s."
-      },
-      {
-        "name": "Gash",
-        "desc": "On hit, has a 50% chance to deal **280%** ATK DMG to a single opponent. Can only occur once every **14**s."
-      },
-      {
-        "name": "Gash",
-        "desc": "On hit, has a 50% chance to deal **320%** ATK DMG to a single opponent. Can only occur once every **13**s."
-      },
-      {
-        "name": "Gash",
-        "desc": "On hit, has a 50% chance to deal **360%** ATK DMG to a single opponent. Can only occur once every **12**s."
-      },
-      {
-        "name": "Gash",
-        "desc": "On hit, has a 50% chance to deal **400%** ATK DMG to a single target. Can only occur once every **11**s."
-      }
-    ]
+    "refinements": {
+      "name": "Gash",
+      "desc": "On hit, has a 50% chance to deal **240%**/**280%**/**320%**/**360%**/**400%** ATK DMG to a single opponent. Can only occur once every **15**/**14**/**13**/**12**/**11**s."
+    }
   },
   "Skyrider Sword": {
     "name": "Skyrider Sword",
-    "desc": "A reliable steel sword. The legendary Skyrider once tried to ride it as a flying sword...",
     "weaponType": "Sword",
     "stars": 3,
     "weaponCurve": [
@@ -633,32 +552,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Determination",
-        "desc": "Using an Elemental Burst grants a **12%** increase in ATK and Movement SPD for 15s."
-      },
-      {
-        "name": "Determination",
-        "desc": "Using an Elemental Burst grants a **15%** increase in ATK and Movement SPD for 15s."
-      },
-      {
-        "name": "Determination",
-        "desc": "Using an Elemental Burst grants a **18%** increase in ATK and Movement SPD for 15s."
-      },
-      {
-        "name": "Determination",
-        "desc": "Using an Elemental Burst grants a **21%** increase in ATK and Movement SPD for 15s."
-      },
-      {
-        "name": "Determination",
-        "desc": "Using an Elemental Burst grants a **24%** increase in ATK and Movement SPD for 15s."
-      }
-    ]
+    "refinements": {
+      "name": "Determination",
+      "desc": "Using an Elemental Burst grants a **12%**/**15%**/**18%**/**21%**/**24%** increase in ATK and Movement SPD for 15s."
+    }
   },
   "Favonius Sword": {
     "name": "Favonius Sword",
-    "desc": "A standard-issue longsword of the Knights of Favonius. When you're armed with this agile and sharp weapon, channeling the power of the elements has never been so easy!",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -740,32 +640,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **60%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **70%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **10.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **80%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **9**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **90%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **7.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **6**s."
-      }
-    ]
+    "refinements": {
+      "name": "Windfall",
+      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
+    }
   },
   "The Flute": {
     "name": "The Flute",
-    "desc": "Beneath its rusty exterior is a lavishly decorated thin blade. It swings as swiftly as the wind.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -847,32 +728,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Chord",
-        "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **100%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-      },
-      {
-        "name": "Chord",
-        "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **125%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-      },
-      {
-        "name": "Chord",
-        "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **150%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-      },
-      {
-        "name": "Chord",
-        "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **175%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-      },
-      {
-        "name": "Chord",
-        "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **200%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
-      }
-    ]
+    "refinements": {
+      "name": "Chord",
+      "desc": "Normal or Charged Attacks grant a Harmonic on hits. Gaining 5 Harmonics triggers the power of music and deals **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG to surrounding opponents. Harmonics last up to 30s, and a maximum of 1 can be gained every 0.5s."
+    }
   },
   "Sacrificial Sword": {
     "name": "Sacrificial Sword",
-    "desc": "A ceremonial sword that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -954,32 +816,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%** chance to end its own CD. Can only occur once every **30**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **50%** chance to end its own CD. Can only occur once every **26**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **60%** chance to end its own CD. Can only occur once every **22s**."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **70%** chance to end its own CD. Can only occur once every **19**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **80%** chance to end its own CD. Can only occur once every **16s**."
-      }
-    ]
+    "refinements": {
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+    }
   },
   "Royal Longsword": {
     "name": "Royal Longsword",
-    "desc": "An old longsword that belonged to the erstwhile rulers of Mondstadt. Exquisitely crafted, the carvings and embellishments testify to the stature of its owner.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1061,32 +904,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **10%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **12%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **14%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **16%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      }
-    ]
+    "refinements": {
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
   },
   "Lion's Roar": {
     "name": "Lion's Roar",
-    "desc": "A sharp blade with extravagant carvings that somehow does not compromise on durability and sharpness. It roars like a lion as it cuts through the air.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1168,32 +992,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **20%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **24%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **28%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **32%**."
-      },
-      {
-        "name": "Bane of Fire and Thunder",
-        "desc": "Increases DMG against opponents affected by Pyro or Electro by **36%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Fire and Thunder",
+      "desc": "Increases DMG against opponents affected by Pyro or Electro by **20%**/**24%**/**28%**/**32%**/**36%**."
+    }
   },
   "Prototype Rancour": {
     "name": "Prototype Rancour",
-    "desc": "An ancient longsword discovered in the Blackcliff Forge that cuts through rocks like a hot knife through butter.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1275,32 +1080,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Smashed Stone",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **4%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
-      },
-      {
-        "name": "Smashed Stone",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **5%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
-      },
-      {
-        "name": "Smashed Stone",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **6%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
-      },
-      {
-        "name": "Smashed Stone",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **7%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
-      },
-      {
-        "name": "Smashed Stone",
-        "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **8%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
-      }
-    ]
+    "refinements": {
+      "name": "Smashed Stone",
+      "desc": "On hit, Normal or Charged Attacks increase ATK and DEF by **4%**/**5%**/**6%**/**7%**/**8%** for 6s. Max 4 stacks. This effect can only occur once every 0.3s."
+    }
   },
   "Iron Sting": {
     "name": "Iron Sting",
-    "desc": "An exotic long-bladed rapier that somehow found its way into Liyue via foreign traders. It is light, agile, and sharp.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1382,32 +1168,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Infusion Stinger",
-        "desc": "Dealing Elemental DMG increases all DMG by **6%** for 6s. Max 2 stacks. Can occur once every 1s."
-      },
-      {
-        "name": "Infusion Stinger",
-        "desc": "Dealing Elemental DMG increases all DMG by **7.5%** for 6s. Max 2 stacks. Can occur once every 1s."
-      },
-      {
-        "name": "Infusion Stinger",
-        "desc": "Dealing Elemental DMG increases all DMG by **9%** for 6s. Max 2 stacks. Can occur once every 1s."
-      },
-      {
-        "name": "Infusion Stinger",
-        "desc": "Dealing Elemental DMG increases all DMG by **10.5%** for 6s. Max 2 stacks. Can occur once every 1s."
-      },
-      {
-        "name": "Infusion Stinger",
-        "desc": "Dealing Elemental DMG increases all DMG by **12%** for 6s. Max 2 stacks. Can occur once every 1s."
-      }
-    ]
+    "refinements": {
+      "name": "Infusion Stinger",
+      "desc": "Dealing Elemental DMG increases all DMG by **6%**/**7.5%**/**9%**/**10.5%**/**12%** for 6s. Max 2 stacks. Can occur once every 1s."
+    }
   },
   "Blackcliff Longsword": {
     "name": "Blackcliff Longsword",
-    "desc": "A sword made of a material known as \"blackcliff.\" It has a dark crimson glow on its black blade.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1489,32 +1256,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **12%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **15%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **18%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **21%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an opponent, ATK is increased by **24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      }
-    ]
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an opponent, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
   },
   "The Black Sword": {
     "name": "The Black Sword",
-    "desc": "A pitch-black longsword that thirsts for violence and conflict. It is said that this weapon can cause its user to become drunk on the red wine of slaughter.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1596,32 +1344,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Justice",
-        "desc": "Increases DMG dealt by Normal and Charged Attacks by **20%**. Additionally, regenerates **60%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-      },
-      {
-        "name": "Justice",
-        "desc": "Increases DMG dealt by Normal and Charged Attacks by **25%**. Additionally, regenerates **70%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-      },
-      {
-        "name": "Justice",
-        "desc": "Increases DMG dealt by Normal and Charged Attacks by **30%**. Additionally, regenerates **80%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-      },
-      {
-        "name": "Justice",
-        "desc": "Increases DMG dealt by Normal and Charged Attacks by **35%**. Additionally, regenerates **90%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-      },
-      {
-        "name": "Justice",
-        "desc": "Increases DMG dealt by Normal and Charged Attacks by **40%**. Additionally, regenerates **100%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
-      }
-    ]
+    "refinements": {
+      "name": "Justice",
+      "desc": "Increases DMG dealt by Normal and Charged Attacks by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, regenerates **60%**/**70%**/**80%**/**90%**/**100%** of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+    }
   },
   "Sword of Descension": {
     "name": "Sword of Descension",
-    "desc": "A sword of unique craftsmanship. It does not appear to belong to this world.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1703,16 +1432,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Descension",
-        "desc": "**Effective only on the following platform: **\n**\"PlayStation Network\"**\nHitting opponents with Normal and Charged Attacks grants a **50%** chance to deal **200%** ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by **66**."
-      }
-    ]
+    "refinements": {
+      "name": "Descension",
+      "desc": "**Effective only on the following platform: **\n**\"PlayStation Network\"**\nHitting opponents with Normal and Charged Attacks grants a **50%** chance to deal **200%** ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by **66**."
+    }
   },
   "Festering Desire": {
     "name": "Festering Desire",
-    "desc": "A creepy straight sword that almost seems to yearn for life. It drips with a shriveling venom that could even corrupt a mighty dragon.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1794,32 +1520,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Undying Admiration",
-        "desc": "Increases Elemental Skill DMG by **16%** and Elemental Skill CRIT Rate by **6%**."
-      },
-      {
-        "name": "Undying Admiration",
-        "desc": "Increases Elemental Skill DMG by **20%** and Elemental Skill CRIT Rate by **7.5%**."
-      },
-      {
-        "name": "Undying Admiration",
-        "desc": "Increases Elemental Skill DMG by **24%** and Elemental Skill CRIT Rate by **9%**."
-      },
-      {
-        "name": "Undying Admiration",
-        "desc": "Increases Elemental Skill DMG by **28%** and Elemental Skill CRIT Rate by **10.5%**."
-      },
-      {
-        "name": "Undying Admiration",
-        "desc": "Increases Elemental Skill DMG by **32%** and Elemental Skill CRIT Rate by **12%**."
-      }
-    ]
+    "refinements": {
+      "name": "Undying Admiration",
+      "desc": "Increases Elemental Skill DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Elemental Skill CRIT Rate by **6%**/**7.5%**/**9%**/**10.5%**/**12%**."
+    }
   },
   "The Alley Flash": {
     "name": "The Alley Flash",
-    "desc": "A straight sword as black as the night. It once belonged to a thief who roamed the benighted streets.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -1901,32 +1608,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Itinerant Hero",
-        "desc": "Increases DMG dealt by the character equipping this weapon by **12%**. Taking DMG disables this effect for 5s."
-      },
-      {
-        "name": "Itinerant Hero",
-        "desc": "Increases DMG dealt by the character equipping this weapon by **15%**. Taking DMG disables this effect for 5s."
-      },
-      {
-        "name": "Itinerant Hero",
-        "desc": "Increases DMG dealt by the character equipping this weapon by **18%**. Taking DMG disables this effect for 5s."
-      },
-      {
-        "name": "Itinerant Hero",
-        "desc": "Increases DMG dealt by the character equipping this weapon by **21%**. Taking DMG disables this effect for 5s."
-      },
-      {
-        "name": "Itinerant Hero",
-        "desc": "Increases DMG dealt by the character equipping this weapon by **24%**. Taking DMG disables this effect for 5s."
-      }
-    ]
+    "refinements": {
+      "name": "Itinerant Hero",
+      "desc": "Increases DMG dealt by the character equipping this weapon by **12%**/**15%**/**18%**/**21%**/**24%**. Taking DMG disables this effect for 5s."
+    }
   },
   "Amenoma Kageuchi": {
     "name": "Amenoma Kageuchi",
-    "desc": "A blade custom made for a famed samurai who could strike down a tengu warrior, known for their incredible agility, in midair.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -2008,32 +1696,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Iwakura Succession",
-        "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6** Energy for each seed consumed."
-      },
-      {
-        "name": "Iwakura Succession",
-        "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **7.5** Energy for each seed consumed."
-      },
-      {
-        "name": "Iwakura Succession",
-        "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **9** Energy for each seed consumed."
-      },
-      {
-        "name": "Iwakura Succession",
-        "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **10.5** Energy for each seed consumed."
-      },
-      {
-        "name": "Iwakura Succession",
-        "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **12** Energy for each seed consumed."
-      }
-    ]
+    "refinements": {
+      "name": "Iwakura Succession",
+      "desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates **6**/**7.5**/**9**/**10.5**/**12** Energy for each seed consumed."
+    }
   },
   "Cinnabar Spindle": {
     "name": "Cinnabar Spindle",
-    "desc": "A sword made from materials that do not belong in this world. The power within might even be able to withstand the corruption of a venom that could corrode a mighty dragon.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -2115,32 +1784,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Spotless Heart",
-        "desc": "Elemental Skill DMG is increased by **40%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-      },
-      {
-        "name": "Spotless Heart",
-        "desc": "Elemental Skill DMG is increased by **50%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-      },
-      {
-        "name": "Spotless Heart",
-        "desc": "Elemental Skill DMG is increased by **60%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-      },
-      {
-        "name": "Spotless Heart",
-        "desc": "Elemental Skill DMG is increased by **70%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-      },
-      {
-        "name": "Spotless Heart",
-        "desc": "Elemental Skill DMG is increased by **80%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
-      }
-    ]
+    "refinements": {
+      "name": "Spotless Heart",
+      "desc": "Elemental Skill DMG is increased by **40%**/**50%**/**60%**/**70%**/**80%** of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG."
+    }
   },
   "Kagotsurube Isshin": {
     "name": "Kagotsurube Isshin",
-    "desc": "This famed blade was born in a nation to the far north. But in the name of \"Isshin,\" it was stained with many a dark deed on its home-bound journey.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -2222,16 +1872,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Isshin Art Clarity",
-        "desc": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
-      }
-    ]
+    "refinements": {
+      "name": "Isshin Art Clarity",
+      "desc": "When a Normal, Charged, or Plunging Attack hits an opponent, it will whip up a Hewing Gale, dealing AoE DMG equal to 180% of ATK and increasing ATK by 15% for 8s. This effect can be triggered once every 8s."
+    }
   },
   "Sapwood Blade": {
     "name": "Sapwood Blade",
-    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a blade that can cut down the foes of the forest.",
     "weaponType": "Sword",
     "stars": 4,
     "weaponCurve": [
@@ -2313,32 +1960,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **75** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **90** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **105** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      },
-      {
-        "name": "Forest Sanctuary",
-        "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
-      }
-    ]
+    "refinements": {
+      "name": "Forest Sanctuary",
+      "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
+    }
   },
   "Aquila Favonia": {
     "name": "Aquila Favonia",
-    "desc": "The soul of the Knights of Favonius. Millennia later, it still calls on the winds of swift justice to vanquish all evil — just like the last heroine who wielded it.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2420,32 +2048,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Falcon's Defiance",
-        "desc": "ATK is increased by **20%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **100%** of ATK and dealing **200%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
-      },
-      {
-        "name": "Falcon's Defiance",
-        "desc": "ATK is increased by **25%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **115%** of ATK and dealing **230%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
-      },
-      {
-        "name": "Falcon's Defiance",
-        "desc": "ATK is increased by **30%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **130%** of ATK and dealing **260%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
-      },
-      {
-        "name": "Falcon's Defiance",
-        "desc": "ATK is increased by **35%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **145%** of ATK and dealing **290%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
-      },
-      {
-        "name": "Falcon's Defiance",
-        "desc": "ATK is increased by **40%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **160%** of ATK and dealing **320%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
-      }
-    ]
+    "refinements": {
+      "name": "Falcon's Defiance",
+      "desc": "ATK is increased by **20%**/**25%**/**30%**/**35%**/**40%**. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to **100%**/**115%**/**130%**/**145%**/**160%** of ATK and dealing **200%**/**230%**/**260%**/**290%**/**320%** of ATK as DMG to surrounding opponents. This effect can only occur once every 15s."
+    }
   },
   "Skyward Blade": {
     "name": "Skyward Blade",
-    "desc": "The sword of a knight that symbolizes the restored honor of Dvalin. The blessings of the Anemo Archon rest on the fuller of the blade, imbuing the sword with the powers of the sky and the wind.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2527,32 +2136,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Sky-Piercing Fang",
-        "desc": "CRIT Rate increased by **4%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**, increases ATK SPD by **10%**, and Normal and Charged hits deal additional DMG equal to **20%** of ATK. Skypiercing Might lasts for 12s."
-      },
-      {
-        "name": "Sky-Piercing Fang",
-        "desc": "CRIT Rate increased by **5%**, Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**, increases ATK SPD by **10%**, and Normal and Charged hits deal additional DMG equal to **25%** of ATK. Skypiercing Might lasts for 12s."
-      },
-      {
-        "name": "Sky-Piercing Fang",
-        "desc": "CRIT Rate increased by **6%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**, increases ATK SPD by **10%**, and Normal and Charged hits deal additional DMG equal to **30%** of ATK. Skypiercing Might lasts for 12s."
-      },
-      {
-        "name": "Sky-Piercing Fang",
-        "desc": "CRIT Rate increased by **7%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**, increases ATK SPD by **10%**, and Normal and Charged hits deal additional DMG equal to **35%** of ATK. Skypiercing Might lasts for 12s."
-      },
-      {
-        "name": "Sky-Piercing Fang",
-        "desc": "CRIT Rate increased by **8%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**, increases ATK SPD by **10%**, and Normal and Charged hits deal additional DMG equal to **40%** of ATK. Skypiercing Might lasts for 12s."
-      }
-    ]
+    "refinements": {
+      "name": "Sky-Piercing Fang",
+      "desc": "CRIT Rate increased by **4%**/**5%**/**6%**/**7%**/**8%**. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by **10%**/**10%**/**10%**/**10%**/**10%**, increases ATK SPD by **10%**/**10%**/**10%**/**10%**/**10%**, and Normal and Charged hits deal additional DMG equal to **20%**/**25%**/**30%**/**35%**/**40%** of ATK. Skypiercing Might lasts for 12s."
+    }
   },
   "Summit Shaper": {
     "name": "Summit Shaper",
-    "desc": "A symbol of a legendary pact, this sharp blade once cut off the peak of a mountain.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2634,32 +2224,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **20%**. Scoring hits on opponents increases ATK by **4%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **25%**. Scoring hits on opponents increases ATK by **5%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **30%**. Scoring hits on opponents increases ATK by **6%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **35%**. Scoring hits on opponents increases ATK by **7%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      },
-      {
-        "name": "Golden Majesty",
-        "desc": "Increases Shield Strength by **40%**. Scoring hits on opponents increases ATK by **8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
-      }
-    ]
+    "refinements": {
+      "name": "Golden Majesty",
+      "desc": "Increases Shield Strength by **20%**/**25%**/**30%**/**35%**/**40%**. Scoring hits on opponents increases ATK by **4%**/**5%**/**6%**/**7%**/**8%** for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%."
+    }
   },
   "Primordial Jade Cutter": {
     "name": "Primordial Jade Cutter",
-    "desc": "A ceremonial sword masterfully carved from pure jade. There almost seems to be an audible sigh in the wind as it is swung.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2741,32 +2312,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Protector's Virtue",
-        "desc": "HP increased by **20%**. Additionally, provides an ATK Bonus based on **1.2%** of the wielder's Max HP."
-      },
-      {
-        "name": "Protector's Virtue",
-        "desc": "HP increased by **25%**. Additionally, provides an ATK Bonus based on **1.5%** of the wielder's Max HP."
-      },
-      {
-        "name": "Protector's Virtue",
-        "desc": "HP increased by **30%**. Additionally, provides an ATK Bonus based on **1.8%** of the wielder's Max HP."
-      },
-      {
-        "name": "Protector's Virtue",
-        "desc": "HP increased by **35%**. Additionally, provides an ATK Bonus based on **2.1%** of the wielder's Max HP."
-      },
-      {
-        "name": "Protector's Virtue",
-        "desc": "HP increased by **40%**. Additionally, provides an ATK Bonus based on **2.4%** of the wielder's Max HP."
-      }
-    ]
+    "refinements": {
+      "name": "Protector's Virtue",
+      "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. Additionally, provides an ATK Bonus based on **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** of the wielder's Max HP."
+    }
   },
   "Freedom-Sworn": {
     "name": "Freedom-Sworn",
-    "desc": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2848,32 +2400,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Revolutionary Chorale",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **10%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **16%** and increases ATK by **20%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Revolutionary Chorale",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **12.5%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **20%** and increases ATK by **25%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Revolutionary Chorale",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **15%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **24%** and increases ATK by **30%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Revolutionary Chorale",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **17.5%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **28%** and increases ATK by **35%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "Revolutionary Chorale",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **20%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **32%** and increases ATK by **40%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      }
-    ]
+    "refinements": {
+      "name": "Revolutionary Chorale",
+      "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by **10%**/**12.5%**/**15%**/**17.5%**/**20%**. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    }
   },
   "Mistsplitter Reforged": {
     "name": "Mistsplitter Reforged",
-    "desc": "A sword that blazes with a fierce violet light. The name \"Reforged\" comes from it having been broken once before.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -2955,32 +2488,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Mistsplitter's Edge",
-        "desc": "Gain a **12%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **8/16/28%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Mistsplitter's Edge",
-        "desc": "Gain a **15%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **10/20/35%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Mistsplitter's Edge",
-        "desc": "Gain a **18%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **12/24/42%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Mistsplitter's Edge",
-        "desc": "Gain a **21%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **14/28/49%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Mistsplitter's Edge",
-        "desc": "Gain a **24%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **16/32/56%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of the Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      }
-    ]
+    "refinements": {
+      "name": "Mistsplitter's Edge",
+      "desc": "Gain a **12%**/**15%**/**18%**/**21%**/**24%** Elemental DMG Bonus for all elements and receive the might of the Mistsplitter's Emblem. At stack levels 1/2/3, the Mistsplitter's Emblem provides a **8/16/28%**/**10/20/35%**/**12/24/42%**/**14/28/49%**/**16/32/56%** Elemental DMG Bonus for the character's Elemental Type. The character will obtain 1 stack of Mistsplitter's Emblem in each of the following scenarios: Normal Attack deals Elemental DMG (stack lasts 5s), casting Elemental Burst (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+    }
   },
   "Haran Geppaku Futsu": {
     "name": "Haran Geppaku Futsu",
-    "desc": "A famed work by the Futsu line of smiths. The name \"Haran\" comes from the manner in which it resembles the violent, roiling waves.",
     "weaponType": "Sword",
     "stars": 5,
     "weaponCurve": [
@@ -3062,27 +2576,97 @@
         ]
       }
     ],
-    "refinements": [
+    "refinements": {
+      "name": "Honed Flow",
+      "desc": "Obtain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 8s."
+    }
+  },
+  "Dark Iron Sword": {
+    "name": "Dark Iron Sword",
+    "weaponType": "Sword",
+    "stars": 3,
+    "weaponCurve": [
       {
-        "name": "Honed Flow",
-        "desc": "Obtain **12%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20%** for 8s."
+        "stat": "Base ATK",
+        "init": 38.7413,
+        "curve": "ATK 1.1"
       },
       {
-        "name": "Honed Flow",
-        "desc": "Obtain **15%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **25%** for 8s."
-      },
-      {
-        "name": "Honed Flow",
-        "desc": "Obtain **18%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **30%** for 8s."
-      },
-      {
-        "name": "Honed Flow",
-        "desc": "Obtain **21%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **35%** for 8s."
-      },
-      {
-        "name": "Honed Flow",
-        "desc": "Obtain **24%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **40%** for 8s."
+        "stat": "Elemental Mastery",
+        "init": 30.6,
+        "curve": "C1"
       }
-    ]
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 19.5
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 38.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 58.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 97.3
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 116.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Overloaded",
+      "desc": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by **20%** for 12s."
+    }
   }
 }

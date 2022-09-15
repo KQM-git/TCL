@@ -1,7 +1,6 @@
 {
   "Hunter's Bow": {
     "name": "Hunter's Bow",
-    "desc": "A hunter's music consists of but two sounds: the twang of the bowstring and the whoosh of soaring arrows.",
     "weaponType": "Bow",
     "stars": 1,
     "weaponCurve": [
@@ -57,12 +56,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Seasoned Hunter's Bow": {
     "name": "Seasoned Hunter's Bow",
-    "desc": "A bow that has been well-polished by time and meticulously cared for by its owner. It feels almost like an extension of the archer's arm.",
     "weaponType": "Bow",
     "stars": 2,
     "weaponCurve": [
@@ -118,12 +115,10 @@
           }
         ]
       }
-    ],
-    "refinements": []
+    ]
   },
   "Raven Bow": {
     "name": "Raven Bow",
-    "desc": "Ravens are known to be the ferrymen of the dead. This bow's limb is decorated with raven feathers, which forebode the imminent death of its target.",
     "weaponType": "Bow",
     "stars": 3,
     "weaponCurve": [
@@ -205,32 +200,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **12%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **15%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **18%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **21%**."
-      },
-      {
-        "name": "Bane of Flame and Water",
-        "desc": "Increases DMG against opponents affected by Hydro or Pyro by **24%**."
-      }
-    ]
+    "refinements": {
+      "name": "Bane of Flame and Water",
+      "desc": "Increases DMG against opponents affected by Hydro or Pyro by **12%**/**15%**/**18%**/**21%**/**24%**."
+    }
   },
   "Sharpshooter's Oath": {
     "name": "Sharpshooter's Oath",
-    "desc": "This superior bow once belonged to a master archer. However, it gives off a strong scent, thus making it unsuitable for hunting.",
     "weaponType": "Bow",
     "stars": 3,
     "weaponCurve": [
@@ -312,32 +288,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Precise",
-        "desc": "Increases DMG against weak spots by **24%**."
-      },
-      {
-        "name": "Precise",
-        "desc": "Increases DMG against weak spots by **30%**."
-      },
-      {
-        "name": "Precise",
-        "desc": "Increases DMG against weak spots by **36%**."
-      },
-      {
-        "name": "Precise",
-        "desc": "Increases DMG against weak spots by **42%**."
-      },
-      {
-        "name": "Precise",
-        "desc": "Increases DMG against weak spots by **48%**."
-      }
-    ]
+    "refinements": {
+      "name": "Precise",
+      "desc": "Increases DMG against weak spots by **24%**/**30%**/**36%**/**42%**/**48%**."
+    }
   },
   "Recurve Bow": {
     "name": "Recurve Bow",
-    "desc": "It is said that this bow can shoot down eagles in flight, but ultimately how true that is depends on the skill of the archer.",
     "weaponType": "Bow",
     "stars": 3,
     "weaponCurve": [
@@ -419,32 +376,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **8%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **10%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **12%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **14%** HP."
-      },
-      {
-        "name": "Cull the Weak",
-        "desc": "Defeating an opponent restores **16%** HP."
-      }
-    ]
+    "refinements": {
+      "name": "Cull the Weak",
+      "desc": "Defeating an opponent restores **8%**/**10%**/**12%**/**14%**/**16%** HP."
+    }
   },
   "Slingshot": {
     "name": "Slingshot",
-    "desc": "A bow, despite the name. After countless experiments and improvements to the design, the creator of the ultimate slingshot found himself to have made what was actually a bow.",
     "weaponType": "Bow",
     "stars": 3,
     "weaponCurve": [
@@ -526,32 +464,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Slingshot",
-        "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **36%**. Otherwise, decreases DMG by 10%."
-      },
-      {
-        "name": "Slingshot",
-        "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **42%**. Otherwise, decreases DMG by 10%."
-      },
-      {
-        "name": "Slingshot",
-        "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **48%**. Otherwise, decreases DMG by 10%."
-      },
-      {
-        "name": "Slingshot",
-        "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **54%**. Otherwise, decreases DMG by 10%."
-      },
-      {
-        "name": "Slingshot",
-        "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **60%**. Otherwise, decreases DMG by 10%."
-      }
-    ]
+    "refinements": {
+      "name": "Slingshot",
+      "desc": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by **36%**/**42%**/**48%**/**54%**/**60%**. Otherwise, decreases DMG by 10%."
+    }
   },
   "Messenger": {
     "name": "Messenger",
-    "desc": "A basic wooden bow. It is said to have once been used as a tool for long-distance communication.",
     "weaponType": "Bow",
     "stars": 3,
     "weaponCurve": [
@@ -633,32 +552,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Archer's Message",
-        "desc": "Charged Attack hits on weak points deal an additional **100%** ATK DMG as CRIT DMG. Can only occur once every 10s."
-      },
-      {
-        "name": "Archer's Message",
-        "desc": "Charged Attack hits on weak points deal an additional **125%** ATK DMG as CRIT DMG. Can only occur once every 10s."
-      },
-      {
-        "name": "Archer's Message",
-        "desc": "Charged Attack hits on weak points deal an additional **150%** ATK DMG as CRIT DMG. Can only occur once every 10s."
-      },
-      {
-        "name": "Archer's Message",
-        "desc": "Charged Attack hits on weak points deal an additional **175%** ATK DMG as CRIT DMG. Can only occur once every 10s."
-      },
-      {
-        "name": "Archer's Message",
-        "desc": "Charged Attack hits on weak points deal an additional **200%** ATK DMG as CRIT DMG. Can only occur once every 10s."
-      }
-    ]
+    "refinements": {
+      "name": "Archer's Message",
+      "desc": "Charged Attack hits on weak points deal an additional **100%**/**125%**/**150%**/**175%**/**200%** ATK DMG as CRIT DMG. Can only occur once every 10s."
+    }
   },
   "Favonius Warbow": {
     "name": "Favonius Warbow",
-    "desc": "A standard-issue recurve bow of the Knights of Favonius. Only the best archers can unleash its full potential.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -740,32 +640,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **60%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **70%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **10.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **80%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **9**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **90%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **7.5**s."
-      },
-      {
-        "name": "Windfall",
-        "desc": "CRIT Hits have a **100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **6**s."
-      }
-    ]
+    "refinements": {
+      "name": "Windfall",
+      "desc": "CRIT Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every **12**/**10.5**/**9**/**7.5**/**6**s."
+    }
   },
   "The Stringless": {
     "name": "The Stringless",
-    "desc": "A bow that once served as an extraordinary instrument. It is no longer capable of getting people up and dancing.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -847,32 +728,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Arrowless Song",
-        "desc": "Increases Elemental Skill and Elemental Burst DMG by **24%**."
-      },
-      {
-        "name": "Arrowless Song",
-        "desc": "Increases Elemental Skill and Elemental Burst DMG by **30%**."
-      },
-      {
-        "name": "Arrowless Song",
-        "desc": "Increases Elemental Skill and Elemental Burst DMG by **36%**."
-      },
-      {
-        "name": "Arrowless Song",
-        "desc": "Increases Elemental Skill and Elemental Burst DMG by **42%**."
-      },
-      {
-        "name": "Arrowless Song",
-        "desc": "Increases Elemental Skill and Elemental Burst DMG by **48%**."
-      }
-    ]
+    "refinements": {
+      "name": "Arrowless Song",
+      "desc": "Increases Elemental Skill and Elemental Burst DMG by **24%**/**30%**/**36%**/**42%**/**48%**."
+    }
   },
   "Sacrificial Bow": {
     "name": "Sacrificial Bow",
-    "desc": "A ceremonial hunting bow that has become petrified over time. The trinkets on it are still visible. It grants the wielder the power to withstand the winds of time.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -954,32 +816,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%** chance to end its own CD. Can only occur once every **30**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **50%** chance to end its own CD. Can only occur once every **26**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **60%** chance to end its own CD. Can only occur once every **22s**."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **70%** chance to end its own CD. Can only occur once every **19**s."
-      },
-      {
-        "name": "Composed",
-        "desc": "After damaging an opponent with an Elemental Skill, the skill has a **80%** chance to end its own CD. Can only occur once every **16s**."
-      }
-    ]
+    "refinements": {
+      "name": "Composed",
+      "desc": "After damaging an opponent with an Elemental Skill, the skill has a **40%**/**50%**/**60%**/**70%**/**80%** chance to end its own CD. Can only occur once every **30**/**26**/**22s**/**19**/**16s**s."
+    }
   },
   "Royal Bow": {
     "name": "Royal Bow",
-    "desc": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1061,32 +904,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **10%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **12%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **14%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      },
-      {
-        "name": "Focus",
-        "desc": "Upon damaging an opponent, increases CRIT Rate by **16%**. Max 5 stacks. A CRIT Hit removes all stacks."
-      }
-    ]
+    "refinements": {
+      "name": "Focus",
+      "desc": "Upon damaging an opponent, increases CRIT Rate by **8%**/**10%**/**12%**/**14%**/**16%**. Max 5 stacks. A CRIT Hit removes all stacks."
+    }
   },
   "Rust": {
     "name": "Rust",
-    "desc": "A completely rusted iron greatbow. The average person would lack the strength to even lift it, let alone fire it.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1168,32 +992,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Rapid Firing",
-        "desc": "Increases Normal Attack DMG by **40%** but decreases Charged Attack DMG by 10%."
-      },
-      {
-        "name": "Rapid Firing",
-        "desc": "Increases Normal Attack DMG by **50%** but decreases Charged Attack DMG by 10%."
-      },
-      {
-        "name": "Rapid Firing",
-        "desc": "Increases Normal Attack DMG by **60%** but decreases Charged Attack DMG by 10%."
-      },
-      {
-        "name": "Rapid Firing",
-        "desc": "Increases Normal Attack DMG by **70%** but decreases Charged Attack DMG by 10%."
-      },
-      {
-        "name": "Rapid Firing",
-        "desc": "Increases Normal Attack DMG by **80%** but decreases Charged Attack DMG by 10%."
-      }
-    ]
+    "refinements": {
+      "name": "Rapid Firing",
+      "desc": "Increases Normal Attack DMG by **40%**/**50%**/**60%**/**70%**/**80%** but decreases Charged Attack DMG by 10%."
+    }
   },
   "Prototype Crescent": {
     "name": "Prototype Crescent",
-    "desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1275,32 +1080,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Unreturning",
-        "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36%** for 10s."
-      },
-      {
-        "name": "Unreturning",
-        "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **45%** for 10s."
-      },
-      {
-        "name": "Unreturning",
-        "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **54%** for 10s."
-      },
-      {
-        "name": "Unreturning",
-        "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **63%** for 10s."
-      },
-      {
-        "name": "Unreturning",
-        "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **72%** for 10s."
-      }
-    ]
+    "refinements": {
+      "name": "Unreturning",
+      "desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by **36%**/**45%**/**54%**/**63%**/**72%** for 10s."
+    }
   },
   "Compound Bow": {
     "name": "Compound Bow",
-    "desc": "An exotic metallic bow from a distant land. Though extremely difficult to maintain, it is easy to nock and fires with tremendous force.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1382,32 +1168,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Infusion Arrow",
-        "desc": "Normal Attack and Charged Attack hits increase ATK by **4%** and Normal ATK SPD by **1.2%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-      },
-      {
-        "name": "Infusion Arrow",
-        "desc": "Normal Attack and Charged Attack hits increase ATK by **5%** and Normal ATK SPD by **1.5%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-      },
-      {
-        "name": "Infusion Arrow",
-        "desc": "Normal Attack and Charged Attack hits increase ATK by **6%** and Normal ATK SPD by **1.8%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-      },
-      {
-        "name": "Infusion Arrow",
-        "desc": "Normal Attack and Charged Attack hits increase ATK by **7%** and Normal ATK SPD by **2.1%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-      },
-      {
-        "name": "Infusion Arrow",
-        "desc": "Normal Attack and Charged Attack hits increase ATK by **8%** and Normal ATK SPD by **2.4%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
-      }
-    ]
+    "refinements": {
+      "name": "Infusion Arrow",
+      "desc": "Normal Attack and Charged Attack hits increase ATK by **4%**/**5%**/**6%**/**7%**/**8%** and Normal ATK SPD by **1.2%**/**1.5%**/**1.8%**/**2.1%**/**2.4%** for 6s. Max 4 stacks. Can only occur once every 0.3s."
+    }
   },
   "Blackcliff Warbow": {
     "name": "Blackcliff Warbow",
-    "desc": "A bow made of blackcliff that features extremely sturdy bow limbs. It requires an archer with a strong bow arm to use.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1489,32 +1256,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **12%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **15%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **18%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **21%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      },
-      {
-        "name": "Press the Advantage",
-        "desc": "After defeating an enemy, ATK is increased by **24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
-      }
-    ]
+    "refinements": {
+      "name": "Press the Advantage",
+      "desc": "After defeating an enemy, ATK is increased by **12%**/**15%**/**18%**/**21%**/**24%** for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+    }
   },
   "The Viridescent Hunt": {
     "name": "The Viridescent Hunt",
-    "desc": "A pure green hunting bow. This once belonged to a certain hunter whose home was the forest.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1596,32 +1344,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Verdant Wind",
-        "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **40%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **14**s."
-      },
-      {
-        "name": "Verdant Wind",
-        "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **50%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **13**s."
-      },
-      {
-        "name": "Verdant Wind",
-        "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **60%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **12**s."
-      },
-      {
-        "name": "Verdant Wind",
-        "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **70%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **11**s."
-      },
-      {
-        "name": "Verdant Wind",
-        "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **80%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **10**s."
-      }
-    ]
+    "refinements": {
+      "name": "Verdant Wind",
+      "desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing **40%**/**50%**/**60%**/**70%**/**80%** of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every **14**/**13**/**12**/**11**/**10**s."
+    }
   },
   "Alley Hunter": {
     "name": "Alley Hunter",
-    "desc": "An intricate, opulent longbow. It once belonged to a gentleman thief who was never caught.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1703,32 +1432,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Oppidan Ambush",
-        "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2%** every second up to a max of **20%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4%** per second until it reaches 0%."
-      },
-      {
-        "name": "Oppidan Ambush",
-        "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2.5%** every second up to a max of **25%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **5%** per second until it reaches 0%."
-      },
-      {
-        "name": "Oppidan Ambush",
-        "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **3%** every second up to a max of **30%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **6%** per second until it reaches 0%."
-      },
-      {
-        "name": "Oppidan Ambush",
-        "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **3.5%** every second up to a max of **35%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **7%** per second until it reaches 0%."
-      },
-      {
-        "name": "Oppidan Ambush",
-        "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **4%** every second up to a max of **40%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **8%** per second until it reaches 0%."
-      }
-    ]
+    "refinements": {
+      "name": "Oppidan Ambush",
+      "desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by **2%**/**2.5%**/**3%**/**3.5%**/**4%** every second up to a max of **20%**/**25%**/**30%**/**35%**/**40%**. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by **4%**/**5%**/**6%**/**7%**/**8%** per second until it reaches 0%."
+    }
   },
   "Windblume Ode": {
     "name": "Windblume Ode",
-    "desc": "A bow adorned with nameless flowers that bears the earnest hopes of an equally nameless person.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1810,32 +1520,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Windblume Wish",
-        "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **16%** for 6s."
-      },
-      {
-        "name": "Windblume Wish",
-        "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **20%** for 6s."
-      },
-      {
-        "name": "Windblume Wish",
-        "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **24%** for 6s."
-      },
-      {
-        "name": "Windblume Wish",
-        "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **28%** for 6s."
-      },
-      {
-        "name": "Windblume Wish",
-        "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **32%** for 6s."
-      }
-    ]
+    "refinements": {
+      "name": "Windblume Wish",
+      "desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by **16%**/**20%**/**24%**/**28%**/**32%** for 6s."
+    }
   },
   "Mitternachts Waltz": {
     "name": "Mitternachts Waltz",
-    "desc": "A bow painted the color of transgression and nights of illusion.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -1917,32 +1608,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Evernight Duet",
-        "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **20%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20%** for 5s."
-      },
-      {
-        "name": "Evernight Duet",
-        "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **25%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **25%** for 5s."
-      },
-      {
-        "name": "Evernight Duet",
-        "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **30%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **30%** for 5s."
-      },
-      {
-        "name": "Evernight Duet",
-        "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **35%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **35%** for 5s."
-      },
-      {
-        "name": "Evernight Duet",
-        "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **40%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **40%** for 5s."
-      }
-    ]
+    "refinements": {
+      "name": "Evernight Duet",
+      "desc": "Normal Attack hits on opponents increase Elemental Skill DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 5s."
+    }
   },
   "Hamayumi": {
     "name": "Hamayumi",
-    "desc": "A certain shrine maiden once owned this warbow. It was made with surpassing skill, and is both intricate and sturdy.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2024,32 +1696,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Full Draw",
-        "desc": "Increases Normal Attack DMG by **16%** and Charged Attack DMG by **12%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-      },
-      {
-        "name": "Full Draw",
-        "desc": "Increases Normal Attack DMG by **20%** and Charged Attack DMG by **15%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-      },
-      {
-        "name": "Full Draw",
-        "desc": "Increases Normal Attack DMG by **24%** and Charged Attack DMG by **18%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-      },
-      {
-        "name": "Full Draw",
-        "desc": "Increases Normal Attack DMG by **28%** and Charged Attack DMG by **21%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-      },
-      {
-        "name": "Full Draw",
-        "desc": "Increases Normal Attack DMG by **32%** and Charged Attack DMG by **24%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
-      }
-    ]
+    "refinements": {
+      "name": "Full Draw",
+      "desc": "Increases Normal Attack DMG by **16%**/**20%**/**24%**/**28%**/**32%** and Charged Attack DMG by **12%**/**15%**/**18%**/**21%**/**24%**. When the equipping character's Energy reaches 100%, this effect is increased by 100%."
+    }
   },
   "Predator": {
     "name": "Predator",
-    "desc": "A uniquely-designed bow. This should not belong in this world.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2131,16 +1784,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Strong Strike",
-        "desc": "**Effective only on the following platform: **\n**\"PlayStation Network\"**\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66."
-      }
-    ]
+    "refinements": {
+      "name": "Strong Strike",
+      "desc": "**Effective only on the following platform: **\n**\"PlayStation Network\"**\nDealing Cryo DMG to opponents increases this character's Normal and Charged Attack DMG by 10% for 6s. This effect can have a maximum of 2 stacks. Additionally, when Aloy equips Predator, ATK is increased by 66."
+    }
   },
   "Mouun's Moon": {
     "name": "Mouun's Moon",
-    "desc": "A lovely warbow made from seashells and coral. A mournful brilliance flows along its moonlight-colored arms.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2222,32 +1872,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**. A maximum of **40%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.15%**. A maximum of **50%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.18%**. A maximum of **60%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.21%**. A maximum of **70%** increased Elemental Burst DMG can be achieved this way."
-      },
-      {
-        "name": "Watatsumi Wavewalker",
-        "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.24%**. A maximum of **80%** increased Elemental Burst DMG can be achieved this way."
-      }
-    ]
+    "refinements": {
+      "name": "Watatsumi Wavewalker",
+      "desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%**. A maximum of **40%**/**50%**/**60%**/**70%**/**80%** increased Elemental Burst DMG can be achieved this way."
+    }
   },
   "Fading Twilight": {
     "name": "Fading Twilight",
-    "desc": "A precious bow made of platinum, inlaid with an orb that shimmers with the light of eventide.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2329,32 +1960,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Radiance of the Deeps",
-        "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-      },
-      {
-        "name": "Radiance of the Deeps",
-        "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **7.5%/12.5%/17.5%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-      },
-      {
-        "name": "Radiance of the Deeps",
-        "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **9%/15%/21%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-      },
-      {
-        "name": "Radiance of the Deeps",
-        "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **10.5%/17.5%/24.5%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-      },
-      {
-        "name": "Radiance of the Deeps",
-        "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
-      }
-    ]
+    "refinements": {
+      "name": "Radiance of the Deeps",
+      "desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by **6%/10%/14%**/**7.5%/12.5%/17.5%**/**9%/15%/21%**/**10.5%/17.5%/24.5%**/**12%/20%/28%** respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field."
+    }
   },
   "King's Squire": {
     "name": "King's Squire",
-    "desc": "A weapon you obtained from an Aranara tale. It has taken on the shape of a bow that can shoot the enemies of the forest down.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2436,32 +2048,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Labyrinth Lord's Instruction",
-        "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-      },
-      {
-        "name": "Labyrinth Lord's Instruction",
-        "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **80** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **120%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-      },
-      {
-        "name": "Labyrinth Lord's Instruction",
-        "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **100** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **140%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-      },
-      {
-        "name": "Labyrinth Lord's Instruction",
-        "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **120** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **160%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-      },
-      {
-        "name": "Labyrinth Lord's Instruction",
-        "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **180%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
-      }
-    ]
+    "refinements": {
+      "name": "Labyrinth Lord's Instruction",
+      "desc": "Obtain the Teachings of the Forest effect when unleashing Elemental Skills and Bursts, increasing Elemental Mastery by **60**/**80**/**100**/**120**/**140** for 12s. This effect will be removed when switching characters. When the Teachings of the Forest effect ends or is removed, it will deal **100%**/**120%**/**140%**/**160%**/**180%** of ATK as DMG to 1 nearby opponent. The Teachings of the Forest effect can be triggered once every 20s."
+    }
   },
   "End of the Line": {
     "name": "End of the Line",
-    "desc": "This seems to be a now-extinct fish. Its body is sufficiently elastic that a string may be attached to it to let it serve as a bow.",
     "weaponType": "Bow",
     "stars": 4,
     "weaponCurve": [
@@ -2543,32 +2136,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Net Snapper",
-        "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **80%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-      },
-      {
-        "name": "Net Snapper",
-        "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **100%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-      },
-      {
-        "name": "Net Snapper",
-        "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **120%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-      },
-      {
-        "name": "Net Snapper",
-        "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **140%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-      },
-      {
-        "name": "Net Snapper",
-        "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **160%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
-      }
-    ]
+    "refinements": {
+      "name": "Net Snapper",
+      "desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing **80%**/**100%**/**120%**/**140%**/**160%** ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s."
+    }
   },
   "Skyward Harp": {
     "name": "Skyward Harp",
-    "desc": "A greatbow that symbolizes Dvalin's affiliation with the Anemo Archon. The sound of the bow firing is music to the Anemo Archon's ears. It contains the power of the sky and wind within.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -2650,32 +2224,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Echoing Ballad",
-        "desc": "Increases CRIT DMG by **20%**. Hits have a **60%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4**s."
-      },
-      {
-        "name": "Echoing Ballad",
-        "desc": "Increases CRIT DMG by **25%**. Hits have a **70%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **3.5**s."
-      },
-      {
-        "name": "Echoing Ballad",
-        "desc": "Increases CRIT DMG by **30%**. Hits have a **80%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **3**s."
-      },
-      {
-        "name": "Echoing Ballad",
-        "desc": "Increases CRIT DMG by **35%**. Hits have a **90%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **2.5**s."
-      },
-      {
-        "name": "Echoing Ballad",
-        "desc": "Increases CRIT DMG by **40%**. Hits have a **100%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **2**s."
-      }
-    ]
+    "refinements": {
+      "name": "Echoing Ballad",
+      "desc": "Increases CRIT DMG by **20%**/**25%**/**30%**/**35%**/**40%**. Hits have a **60%**/**70%**/**80%**/**90%**/**100%** chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every **4**/**3.5**/**3**/**2.5**/**2**s."
+    }
   },
   "Amos' Bow": {
     "name": "Amos' Bow",
-    "desc": "An extremely ancient bow that has retained its power despite its original master being long gone. It draws power from everyone and everything in the world, and the further away you are from that which your heart desires, the more powerful it is.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -2757,32 +2312,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Strong-Willed",
-        "desc": "Increases Normal and Charged Attack DMG by **12%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **8%** every 0.1s the arrow is in the air for up to 5 times."
-      },
-      {
-        "name": "Strong-Willed",
-        "desc": "Increases Normal and Charged Attack DMG by **15%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **10%** every 0.1s the arrow is in the air for up to 5 times."
-      },
-      {
-        "name": "Strong-Willed",
-        "desc": "Increases Normal and Charged Attack DMG by **18%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **12%** every 0.1s the arrow is in the air for up to 5 times."
-      },
-      {
-        "name": "Strong-Willed",
-        "desc": "Increases Normal and Charged Attack DMG by **21%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **14%** every 0.1s the arrow is in the air for up to 5 times."
-      },
-      {
-        "name": "Strong-Willed",
-        "desc": "Increases Normal and Charged Attack DMG by **24%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **16%** every 0.1s the arrow is in the air for up to 5 times."
-      }
-    ]
+    "refinements": {
+      "name": "Strong-Willed",
+      "desc": "Increases Normal and Charged Attack DMG by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal or Charged Attack is fired, DMG dealt increases by a further **8%**/**10%**/**12%**/**14%**/**16%** every 0.1s the arrow is in the air for up to 5 times."
+    }
   },
   "Elegy for the End": {
     "name": "Elegy for the End",
-    "desc": "A bow as lovely as any bard's lyre, its arrows pierce the heart like a lamenting sigh.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -2864,32 +2400,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "The Parting Refrain",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **60**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **100** and increases ATK by **20%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "The Parting Refrain",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **75**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **125** and increases ATK by **25%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "The Parting Refrain",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **90**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **150** and increases ATK by **30%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "The Parting Refrain",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **105**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **175** and increases ATK by **35%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      },
-      {
-        "name": "The Parting Refrain",
-        "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **120**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **200** and increases ATK by **40%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
-      }
-    ]
+    "refinements": {
+      "name": "The Parting Refrain",
+      "desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by **60**/**75**/**90**/**105**/**120**. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by **100**/**125**/**150**/**175**/**200** and increases ATK by **20%**/**25%**/**30%**/**35%**/**40%**. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+    }
   },
   "Thundering Pulse": {
     "name": "Thundering Pulse",
-    "desc": "A longbow that was a gift from the Shogun. Eternal lightning crackles all around it.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -2971,32 +2488,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Rule by Thunder",
-        "desc": "Increases ATK by **20%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Rule by Thunder",
-        "desc": "Increases ATK by **25%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **15/30/50%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Rule by Thunder",
-        "desc": "Increases ATK by **30%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **18/36/60%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Rule by Thunder",
-        "desc": "Increases ATK by **35%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **21/42/70%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      },
-      {
-        "name": "Rule by Thunder",
-        "desc": "Increases ATK by **40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
-      }
-    ]
+    "refinements": {
+      "name": "Rule by Thunder",
+      "desc": "Increases ATK by **20%**/**25%**/**30%**/**35%**/**40%** and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by **12/24/40%**/**15/30/50%**/**18/36/60%**/**21/42/70%**/**24/48/80%**. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently."
+    }
   },
   "Polar Star": {
     "name": "Polar Star",
-    "desc": "A pristine bow that is as sharp as the glaciers of the far north.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -3078,32 +2576,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "Daylight's Augury",
-        "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
-      },
-      {
-        "name": "Daylight's Augury",
-        "desc": "Elemental Skill and Elemental Burst DMG increased by **15%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **12.5/25/37.5/60%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
-      },
-      {
-        "name": "Daylight's Augury",
-        "desc": "Elemental Skill and Elemental Burst DMG increased by **18%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **15/30/45/72%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
-      },
-      {
-        "name": "Daylight's Augury",
-        "desc": "Elemental Skill and Elemental Burst DMG increased by **21%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **17.5/35/52.5/84%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
-      },
-      {
-        "name": "Daylight's Augury",
-        "desc": "Elemental Skill and Elemental Burst DMG increased by **24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
-      }
-    ]
+    "refinements": {
+      "name": "Daylight's Augury",
+      "desc": "Elemental Skill and Elemental Burst DMG increased by **12%**/**15%**/**18%**/**21%**/**24%**. After a Normal Attack, Charged Attack, Elemental Skill or Elemental Burst hits an opponent, 1 stack of Ashen Nightstar will be gained for 12s. When 1/2/3/4 stacks of Ashen Nightstar are present, ATK is increased by **10/20/30/48%**/**12.5/25/37.5/60%**/**15/30/45/72%**/**17.5/35/52.5/84%**/**20/40/60/96%**. The stack of Ashen Nightstar created by the Normal Attack, Charged Attack, Elemental Skill or Elemental Burst will be counted independently of the others."
+    }
   },
   "Aqua Simulacra": {
     "name": "Aqua Simulacra",
-    "desc": "This longbow's color is unpredictable. Under the light, it takes on a lustrous, watery blue.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -3185,32 +2664,13 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "The Cleansing Form",
-        "desc": "HP is increased by **16%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20%**. This will take effect whether the character is on-field or not."
-      },
-      {
-        "name": "The Cleansing Form",
-        "desc": "HP is increased by **20%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **25%**. This will take effect whether the character is on-field or not."
-      },
-      {
-        "name": "The Cleansing Form",
-        "desc": "HP is increased by **24%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **30%**. This will take effect whether the character is on-field or not."
-      },
-      {
-        "name": "The Cleansing Form",
-        "desc": "HP is increased by **28%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **35%**. This will take effect whether the character is on-field or not."
-      },
-      {
-        "name": "The Cleansing Form",
-        "desc": "HP is increased by **32%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **40%**. This will take effect whether the character is on-field or not."
-      }
-    ]
+    "refinements": {
+      "name": "The Cleansing Form",
+      "desc": "HP is increased by **16%**/**20%**/**24%**/**28%**/**32%**. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by **20%**/**25%**/**30%**/**35%**/**40%**. This will take effect whether the character is on-field or not."
+    }
   },
   "Hunter's Path": {
     "name": "Hunter's Path",
-    "desc": "This gilded bow was made using precious white branches. It has felled countless wicked beasts attempting to infiltrate the woods.",
     "weaponType": "Bow",
     "stars": 5,
     "weaponCurve": [
@@ -3292,27 +2752,9 @@
         ]
       }
     ],
-    "refinements": [
-      {
-        "name": "At the End of the Beast-Paths",
-        "desc": "Gain **12%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
-      },
-      {
-        "name": "At the End of the Beast-Paths",
-        "desc": "Gain **15%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **200%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
-      },
-      {
-        "name": "At the End of the Beast-Paths",
-        "desc": "Gain **18%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **240%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
-      },
-      {
-        "name": "At the End of the Beast-Paths",
-        "desc": "Gain **21%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **280%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
-      },
-      {
-        "name": "At the End of the Beast-Paths",
-        "desc": "Gain **24%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **320%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
-      }
-    ]
+    "refinements": {
+      "name": "At the End of the Beast-Paths",
+      "desc": "Gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by **160%**/**200%**/**240%**/**280%**/**320%** of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s."
+    }
   }
 }

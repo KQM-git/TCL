@@ -1,10 +1,10 @@
-import React from 'react';
-import ReactMarkdown from 'react-markdown';
+import React from 'react'
+import ReactMarkdown from 'react-markdown'
 
-import MDXContent from '@theme/MDXContent';
+import MDXContent from '@theme/MDXContent'
 
-import { Character } from '@site/src/data/types';
-import { cleanup } from '@site/src/utils/skill';
+import { Character } from '@site/src/data/types'
+import { cleanup } from '@site/src/utils/skill'
 
 export default function Constellation({ char, constellation, depotIndex }: {
   char: Character

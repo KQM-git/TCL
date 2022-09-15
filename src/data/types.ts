@@ -11,7 +11,7 @@ export interface ArtifactBonus {
 // Characters
 export interface Character {
     name: string
-    desc: string
+    // desc: string
     star: number
     weaponType: WeaponType
     baseStats: CharacterBaseStats
@@ -80,12 +80,12 @@ export interface StatsUp {
 // Weapon
 export interface Weapon {
     name: string
-    desc: string
+    // desc: string
     weaponType: WeaponType
     stars: number
     weaponCurve: WeaponCurve[]
     ascensions: WeaponAscension[]
-    refinements: Refinement[]
+    refinements?: Refinement
 }
 
 export interface WeaponCurve {

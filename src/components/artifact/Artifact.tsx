@@ -1,9 +1,9 @@
-import React, { ReactElement } from 'react';
+import React, { ReactElement } from 'react'
 
-import TabItem from '@theme/TabItem';
-import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem'
+import Tabs from '@theme/Tabs'
 
-import ArtifactSetBonus from './ArtifactSetBonus';
+import ArtifactSetBonus from './ArtifactSetBonus'
 
 export default function Artifact({ artifact, children }: { artifact: string, children?: ReactElement | null }) {
   if (!children) return <ArtifactSetBonus artifact={artifact} />

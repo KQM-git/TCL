@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 
-import TabItem from '@theme/TabItem';
-import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem'
+import Tabs from '@theme/Tabs'
 
-import { Character } from '@site/src/data/types';
-import Passive from './Passive';
+import { Character } from '@site/src/data/types'
+import Passive from './Passive'
 
 export default function PassivesFull({ char }: { char: Character }) {
   return <Tabs>
