@@ -2,7 +2,7 @@
 description: Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.
 ---
 
-# Raiden
+# Raiden Shogun
 
 <blockquote>{frontMatter.description}</blockquote>
 

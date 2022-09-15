@@ -2,7 +2,7 @@
 description: A general of the Tenryou Commission. Bold, decisive, and skilled in battle.
 ---
 
-# Sara
+# Kujou Sara
 
 <blockquote>{frontMatter.description}</blockquote>
 
