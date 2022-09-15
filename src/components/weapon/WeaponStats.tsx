@@ -1,12 +1,12 @@
 import React from 'react'
-
+import ReactMarkdown from 'react-markdown'
 
 import Admonition from '@theme/Admonition'
 
 import { Weapon } from '@site/src/data/types'
+import { cleanup } from '@site/src/utils/skill'
 import { stat } from '@site/src/utils/stat'
 import { getWeaponStatsAt } from '@site/src/utils/weaponstats'
-import ReactMarkdown from 'react-markdown'
 
 export default function WeaponStats({ weapon, weapons }: { weapon: string, weapons: Record<string, Weapon> }) {
   const w = weapons[weapon]
@@ -22,16 +22,16 @@ export default function WeaponStats({ weapon, weapons }: { weapon: string, weapo
 
   return <table>
     <thead>
-      <th>Attribute</th>
+      <th style={({ minWidth: "120px" })}>Attribute</th>
       <th>Description</th>
     </thead>
     <tbody>
       {w.refinements && <tr>
-        <td>{w.refinements.name}</td>
-        <td><ReactMarkdown>{w.refinements.desc}</ReactMarkdown></td>
+        <td style={({ minWidth: "120px" })}>{w.refinements.name}</td>
+        <td><ReactMarkdown className="react-md">{cleanup(w.refinements.desc)}</ReactMarkdown></td>
       </tr>}
       {Object.entries(max).map(([name, value]) => <tr>
-        <td>{name}</td>
+        <td style={({ minWidth: "120px" })}>{name}</td>
         <td>{stat(name, min[name] ?? 0)} ~ {stat(name, value)}</td>
       </tr>)}
     </tbody>

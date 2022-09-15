@@ -34,3 +34,7 @@
   --ifm-background-color: #232024;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.react-md p {
+  margin: 0px;
+}
