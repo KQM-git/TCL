@@ -18,6 +18,10 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>
 
+import MillennialMovementSeries from './_common/millennial_movement.md';
+
+<MillennialMovementSeries/>
+
 * The self swirl interaction of "[Sunfire](../../evidence/characters/anemo/jean.md#anemo-aura)" does not count as a reaction for Freedom Sworn passive stacks.
 * Stacks can't be gained from infusing the weapon with 2 different Elements.
 
@@ -71,8 +75,9 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Blackcliff Longsword" weapons={swords}>
 
-* Passive persists even when holder is off-field - [Lix-\#3417](../../evidence/equipment/weapons.md#blackcliff-sword-effect-persists-even-if-the-holder-switches-off-field)
-* Passive doesn't activate if an off-field support or coop member kills - [Cenpi\#3224](../../evidence/equipment/weapons.md#blackcliff-series)
+import BlackcliffSeries from './_common/blackcliff_series.md';
+
+<BlackcliffSeries/>
 
 </Weapon>
 
@@ -88,8 +93,9 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Favonius Sword" weapons={swords}>
 
-* Passive does not proc on shielded enemies - [Sakuno\#7950](../../evidence/equipment/weapons.md#favonius-weapons-do-not-proc-on-shielded-enemies)
-* See the [Favonius proc calculator](../../evidence/equipment/weapons.md#favonius-proc-calculator) for details on how to calculate the probability of the Passive.  
+import FavSeries from './_common/fav_series.md';
+
+<FavSeries/>
 
 </Weapon>
 
@@ -113,9 +119,9 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Lion's Roar" weapons={swords}>
 
-* Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
-* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
+import BaneSeries from './_common/bane_series.md';
+
+<BaneSeries/>
 
 </Weapon>
 
@@ -127,11 +133,9 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Royal Longsword" weapons={swords}>
 
-* Royal Weapons have more effective crit rate the less crit rate rolls you have - [Cola\#6861](../../evidence/equipment/weapons.md#the-effective-crit-rate-of-royal-weapons)
-* The passive also procs even when the unit is off-field - [Pleinair\#8321 and IonFox\#8887](../../evidence/equipment/weapons.md#how-royal-longswords-passive-works)
-* Skills that snapshot will maintain low crit rate while still increasing stacks, reducing the chance of losing stacks. This allows high damaging abilities to be cast and fully capitalize on the increased crit rate. - [sunnyd\#5916](../../evidence/equipment/weapons.md#royal-series-dynamic-stacking-on-snapshot-dot-skills)
-* AoE abilities snapshot the crit rate increase from Royal Weapons - [Bobrokrot\#0111](../../evidence/equipment/weapons.md#royal-series-aoe-abilities-and-mechanics)
-* Mathematical analysis shows that Royal Weapons have less effective crit rate the more crit rate you build - [NZPIEFACE\#8439](../../evidence/equipment/weapons.md#mathematical-analysis-of-royal-weapon-effective-crit-rate)
+import RoyalSeries from './_common/royal_series.md';
+
+<RoyalSeries/>
 
 </Weapon>
 
@@ -139,9 +143,9 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Sacrificial Sword" weapons={swords}>
 
-* Passive does not proc on shielded enemies - [Exuma\#1917](../../evidence/equipment/weapons.md#sacrificial-weapons-do-not-proc-on-shielded-enemies)
-* When a character with multiple charges of their elemental skill procs the sacrificial passive, the elemental skill cooldown shown on the timer is the cooldown that will be reset. - [mol\#3280 ](../../evidence/equipment/weapons.md#sacrificial-passive-with-multiple-e-stacks) 
-* The average ER gain from the Sacrifical passive has decreasing returns from increasing refinement - [Raladin\#3752](../../evidence/equipment/weapons.md#average-er-gains-from-sacrifical-weapons)  
+import SacSeries from './_common/sac_series.md';
+
+<SacSeries/>
 
 </Weapon>
 
@@ -179,9 +183,7 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Cool Steel" weapons={swords}>
 
-* Passive applies to all incoming damage - [Doug\#8888](../../evidence/equipment/weapons.md#lions-roar-passive-applies-to-all-forms-of-dmg-inflicted-on-electro-debuffed-enemy)
-* Passive works, even if wielder is off-field - [mikan\#2834 and IonFox\#8887](../../evidence/equipment/weapons.md#lions-roar-passive-works-while-the-holder-is-off-field)
-* Passive applies for amplifying reactions, but not transformative reactions - [Lix-\#3417](../../evidence/equipment/weapons.md#weapons-with-bane-passive-applies-to-amplifying-reactions-but-not-transformative-ones)
+<BaneSeries/>
 
 </Weapon>
 

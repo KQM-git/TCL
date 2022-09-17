@@ -1,0 +1,1 @@
+* Different weapons with the Millennial Movement effect can stack, however effects of the same buff-type will override each other. - [rakka\#0099](../../../evidence/equipment/weapons.md#millennial-movement-stack-mechanics)
