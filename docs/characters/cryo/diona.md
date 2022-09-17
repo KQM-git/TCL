@@ -14,7 +14,7 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 ## ![](/assets/element_cryo.png) Diona
 
-![](/assets/character_diona_wish.png)
+![](/assets/characters/gacha/Diona.png)
 
 ## Base Stats
 

@@ -12,7 +12,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 
 ## ![](/assets/element_pyro.png) Yoimiya
 
-![](/assets/character_yoimiya_wish.png)
+![](/assets/characters/gacha/Yoimiya.png)
 
 ## Base Stats
 

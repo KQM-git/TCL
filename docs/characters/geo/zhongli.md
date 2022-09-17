@@ -13,7 +13,7 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 ## ![](/assets/element_geo.png) Zhongli
 
-![](/assets/character_zhongli_wish.png)
+![](/assets/characters/gacha/Zhongli.png)
 
 ## Base Stats
 

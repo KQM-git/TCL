@@ -14,7 +14,7 @@ description: An alchemist filled with curiosity about all things. She researches
 
 ## ![](/assets/element_anemo.png) Sucrose
 
-![](/assets/character_sucrose_wish.png)
+![](/assets/characters/gacha/Sucrose.png)
 
 ## Base Stats
 

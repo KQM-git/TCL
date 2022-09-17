@@ -13,7 +13,7 @@ description: A maid who faithfully serves the Knights of Favonius. She dreams of
 
 ## ![](/assets/element_geo.png) Noelle
 
-![](/assets/character_noelle_wish.png)
+![](/assets/characters/gacha/Noelle.png)
 
 ## Base Stats
 

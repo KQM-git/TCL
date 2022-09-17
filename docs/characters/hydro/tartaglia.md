@@ -14,7 +14,7 @@ description: No. 11 of The Harbingers, also known as "Childe." His name is highl
 
 ## ![](/assets/element_hydro.png) Tartaglia
 
-![](/assets/character_tartaglia_wish.png)
+![](/assets/characters/gacha/Tartaglia.png)
 
 ## Base Stats
 

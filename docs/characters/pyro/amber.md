@@ -12,7 +12,7 @@ description: Always energetic and full of life, Amber's the best — albeit only
 
 ## ![](/assets/element_pyro.png) Amber
 
-![](/assets/character_amber_wish.png)
+![](/assets/characters/gacha/Amber.png)
 
 ## Base Stats
 

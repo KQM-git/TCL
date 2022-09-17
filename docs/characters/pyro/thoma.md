@@ -11,7 +11,7 @@ description: The Kamisato Clan's housekeeper. A well-known "fixer" in Inazuma.
 
 ## ![](/assets/element_pyro.png) Thoma
 
-![](/assets/character_thoma_wish.png)
+![](/assets/characters/gacha/Thoma.png)
 
 ## Base Stats
 

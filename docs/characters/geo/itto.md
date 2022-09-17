@@ -11,7 +11,7 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 ## ![](/assets/element_geo.png) Arataki Itto
 
-![](/assets/character_itto_wish.png)
+![](/assets/characters/gacha/Arataki_Itto.png)
 
 ## Base Stats
 

@@ -17,7 +17,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 ## ![](/assets/element_pyro.png) Diluc
 
-![](/assets/character_diluc_wish.png)
+![](/assets/characters/gacha/Diluc.png)
 
 ## Base Stats
 

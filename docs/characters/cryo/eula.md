@@ -13,7 +13,7 @@ description: The Spindrift Knight, a scion of the old aristocracy, and the Capta
 
 ## ![](/assets/element_cryo.png) Eula
 
-![](/assets/character_eula_wish.png.png)
+![](/assets/characters/gacha/Eula.png)
 
 ## Base Stats
 

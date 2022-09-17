@@ -13,7 +13,7 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 ## ![](/assets/element_electro.png) Razor
 
-![](/assets/character_razor_wish.png)
+![](/assets/characters/gacha/Razor.png)
 
 ## Base Stats
 

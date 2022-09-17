@@ -7,7 +7,8 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 <blockquote>{frontMatter.description}</blockquote>
 
 ## ![](/assets/element_hydro.png) Kamisato Ayato
-![](/assets/character_ayato_wish.png)
+
+![](/assets/characters/gacha/Kamisato_Ayato.png)
 
 ## Base Stats
 

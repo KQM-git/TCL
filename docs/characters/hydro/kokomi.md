@@ -12,7 +12,7 @@ description: The Divine Priestess of Watatsumi Island. All of the island's affai
 
 ## ![](/assets/element_hydro.png) Sangonomiya Kokomi
 
-![](/assets/character_kokomi_wish.png)
+![](/assets/characters/gacha/Sangonomiya_Kokomi.png)
 
 ## Base Stats
 

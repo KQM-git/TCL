@@ -14,7 +14,7 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 ## ![](/assets/element_hydro.png) Xingqiu
 
-![](/assets/character_xingqiu_wish.png)
+![](/assets/characters/gacha/Xingqiu.png)
 
 ## Base Stats
 

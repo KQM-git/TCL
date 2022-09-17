@@ -14,7 +14,7 @@ description: Captain of her crew, The Crux. She's quite an unbound and forthrigh
 
 ## ![](/assets/element_electro.png) Beidou
 
-![](/assets/character_beidou_wish.png)
+![](/assets/characters/gacha/Beidou.png)
 
 ## Base Stats
 

@@ -13,7 +13,7 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 ## ![](/assets/element_anemo.png) Jean
 
-![](/assets/character_jean_wish.png)
+![](/assets/characters/gacha/Jean.png)
 
 ## Base Stats
 

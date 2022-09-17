@@ -13,7 +13,7 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 ## ![](/assets/element_electro.png) Keqing
 
-![](/assets/character_keqing_wish.png)
+![](/assets/characters/gacha/Keqing.png)
 
 ## Base Stats
 

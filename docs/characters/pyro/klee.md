@@ -13,7 +13,7 @@ description: An explosives expert and a regular at the Knights of Favonius's con
 
 ## ![](/assets/element_pyro.png) Klee
 
-![](/assets/character_klee_wish.png)
+![](/assets/characters/gacha/Klee.png)
 
 ## Base Stats
 

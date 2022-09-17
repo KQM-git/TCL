@@ -13,7 +13,7 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 
 ## ![](/assets/element_pyro.png) Bennett
 
-![](/assets/character_bennett_wish.png)
+![](/assets/characters/gacha/Bennett.png)
 
 ## Base Stats
 

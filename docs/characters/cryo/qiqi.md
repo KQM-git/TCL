@@ -11,7 +11,7 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 
 ## ![](/assets/element_cryo.png) Qiqi
 
-![](/assets/character_qiqi_wish.png)
+![](/assets/characters/gacha/Qiqi.png)
 
 ## Base Stats
 

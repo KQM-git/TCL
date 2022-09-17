@@ -13,7 +13,7 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 ## ![](/assets/element_anemo.png) Venti
 
-![](/assets/character_venti_wish.webp)
+![](/assets/characters/gacha/Venti.png)
 
 ## Base Stats
 

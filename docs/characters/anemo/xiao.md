@@ -13,7 +13,7 @@ description: A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror
 
 ## ![](/assets/element_anemo.png) Xiao
 
-![](/assets/character_xiao_wish.webp)
+![](/assets/characters/gacha/Xiao.png)
 
 ## Base Stats
 

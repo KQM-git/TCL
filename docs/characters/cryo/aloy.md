@@ -11,7 +11,7 @@ description: Formerly an outcast, now a hunter of unparalleled skill. Ready to d
 
 ## ![](/assets/element_cryo.png) Aloy
 
-![](/assets/character_aloy_wish.png)
+![](/assets/characters/gacha/Aloy.png)
 
 ## Base Stats
 

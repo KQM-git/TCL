@@ -13,7 +13,7 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 ## ![](/assets/element_cryo.png) Kamisato Ayaka
 
-![](/assets/character_ayaka_wish.png)
+![](/assets/characters/gacha/Kamisato_Ayaka.png)
 
 ## Base Stats
 

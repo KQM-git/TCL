@@ -11,7 +11,7 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 ## ![](/assets/element_cryo.png) Ganyu
 
-![](/assets/character_ganyu_wish.png)
+![](/assets/characters/gacha/Ganyu.png)
 
 ## Base Stats
 

@@ -13,7 +13,7 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 ## ![](/assets/element_electro.png) Lisa
 
-![](/assets/character_lisa_wish.png)
+![](/assets/characters/gacha/Lisa.png)
 
 ## Base Stats
 

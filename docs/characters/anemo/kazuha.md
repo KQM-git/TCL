@@ -13,7 +13,7 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 ## ![](/assets/element_anemo.png) Kaedehara Kazuha
 
-![](/assets/character_kazuha_wish.png)
+![](/assets/characters/gacha/Kaedehara_Kazuha.png)
 
 ## Base Stats
 

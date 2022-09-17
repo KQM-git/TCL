@@ -2,7 +2,7 @@
 description: The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.
 ---
 
-import char from '@site/src/data/characters/Hu Tao.json'
+import char from '@site/src/data/characters/Hu_Tao.json'
 import { getSkillName } from '@site/src/utils/skill'
 
 # Hu Tao
@@ -17,7 +17,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 ## ![](/assets/element_pyro.png) Hu Tao
 
-![](/assets/character_hu_tao_wish.png)
+![](/assets/characters/gacha/Hu_Tao.png)
 
 ## Base Stats
 

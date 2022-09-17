@@ -12,7 +12,7 @@ description: A sister of the church, though you wouldn't know it if it weren't f
 
 ## ![](/assets/element_cryo.png) Rosaria
 
-![](/assets/character_rosaria_wish.png)
+![](/assets/characters/gacha/Rosaria.png)
 
 ## Base Stats
 

@@ -11,7 +11,7 @@ description: Every citizen of Mondstadt adores Barbara. She learned the word "id
 
 ## ![](/assets/element_hydro.png) Barbara
 
-![](/assets/character_barbara_wish.png)
+![](/assets/characters/gacha/Barbara.png)
 
 ## Base Stats
 

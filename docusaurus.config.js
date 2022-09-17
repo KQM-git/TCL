@@ -187,6 +187,12 @@ const config = {
       colorMode: {
         defaultMode: 'dark'
       },
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+          hideable: true
+        }
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,

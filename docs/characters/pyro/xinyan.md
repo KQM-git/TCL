@@ -11,7 +11,7 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 
 ## ![](/assets/element_pyro.png) Xinyan
 
-![](/assets/character_xinyan_wish.webp)
+![](/assets/characters/gacha/Xinyan.png)
 
 ## Base Stats
 

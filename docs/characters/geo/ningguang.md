@@ -12,7 +12,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 ## ![](/assets/element_geo.png) Ningguang
 
-![](/assets/character_ningguang_wish.png)
+![](/assets/characters/gacha/Ningguang.png)
 
 ## Base Stats
 

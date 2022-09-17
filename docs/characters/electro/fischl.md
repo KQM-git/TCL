@@ -13,7 +13,7 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 ## ![](/assets/element_electro.png) Fischl
 
-![](/assets/character_fischl_wish.png)
+![](/assets/characters/gacha/Fischl.png)
 
 ## Base Stats
 

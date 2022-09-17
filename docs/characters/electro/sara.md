@@ -11,7 +11,7 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 
 ## ![](/assets/element_electro.png) Kujou Sara
 
-![](/assets/character_sara_wish.png)
+![](/assets/characters/gacha/Kujou_Sara.png)
 
 ## Base Stats
 

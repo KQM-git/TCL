@@ -19,7 +19,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 ## ![](/assets/element_hydro.png) Mona
 
-![](/assets/character_mona_wish.png)
+![](/assets/characters/gacha/Mona.png)
 
 ## Base Stats
 

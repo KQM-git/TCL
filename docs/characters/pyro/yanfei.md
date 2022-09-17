@@ -12,7 +12,7 @@ description: A well-known legal adviser active in Liyue Harbor. A brilliant youn
 
 ## ![](/assets/element_pyro.png) Yanfei
 
-![](/assets/character_yanfei_wish.png)
+![](/assets/characters/gacha/Yanfei.png)
 
 ## Base Stats
 

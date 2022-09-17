@@ -13,7 +13,7 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 ## ![](/assets/element_cryo.png) Chongyun
 
-![](/assets/character_chongyun_wish.png)
+![](/assets/characters/gacha/Chongyun.png)
 
 ## Base Stats
 

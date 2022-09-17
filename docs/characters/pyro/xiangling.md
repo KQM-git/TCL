@@ -12,7 +12,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 ## ![](/assets/element_pyro.png) Xiangling
 
-![](/assets/character_xiangling_wish.png)
+![](/assets/characters/gacha/Xiangling.png)
 
 ## Base Stats
 

@@ -11,7 +11,7 @@ description: An accomplished swordsman and a strategic thinker in the Knights of
 
 ## ![](/assets/element_cryo.png) Kaeya
 
-![](/assets/character_kaeya_wish.png)
+![](/assets/characters/gacha/Kaeya.png)
 
 ## Base Stats
 
