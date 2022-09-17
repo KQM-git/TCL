@@ -7,7 +7,8 @@ description: The great general of Watatsumi Island's forces. He is deeply truste
 <blockquote>{frontMatter.description}</blockquote>
 
 ## ![](/assets/element_geo.png) Gorou
-![](/assets/characters/gacha/gorou.png)
+
+![](/assets/characters/gacha/Gorou.png)
 
 ## Base Stats
 

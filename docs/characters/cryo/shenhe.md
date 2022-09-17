@@ -10,7 +10,8 @@ description: An adepti disciple with a most unusual air about her. Having spent 
 * [The Divine Damsel of Devastation: A Shenhe Guide](https://keqingmains.com/shenhe/)
 
 ## ![](/assets/element_cryo.png) Shenhe
-![](/assets/characters/gacha/shenhe.png)
+
+![](/assets/characters/gacha/Shenhe.png)
 
 ## Base Stats
 
