@@ -10,11 +10,23 @@ More technically, many characters have a primary camera that normally tracks the
 
 ## Media
 
-{% embed url="https://imgur.com/a/uZepFyj" caption="" %}
+import Video from "@site/src/components/common/Video"
 
-{% embed url="https://imgur.com/a/NbmNQgt" caption="" %}
+<Tabs>
 
-{% embed url="https://imgur.com/a/bbpU1Dp" caption="" %}
+<TabItem value="wall" label="Natural terrain">
+<Video src="Qmbopaj7K7Rg1U6T41AND7JNNv5BbqTQFierV6HgzUUzz8" caption="Wall" />
+</TabItem>
+
+<TabItem value="geoe" label="Geo Traveler Skill">
+<Video src="QmXkNT9EgA5iC2vAVEw3Cqnj1UCpYcaS4TcBvtpkumXpcG" caption="Geo Traveler Skill" />
+</TabItem>
+
+<TabItem value="geoq" label="Geo Traveler Burst">
+<Video src="QmcPqQEkTtroy7SFjxrhdKtgmPLCGWt2LWPRmk8YBqUh7T" caption="Geo Traveler Burst" />
+</TabItem>
+
+</Tabs>
 
 ## Evidence Vault
 

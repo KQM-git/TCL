@@ -2,8 +2,6 @@
 sidebar_position: 1000
 ---
 
-import DocCardList from '@theme/DocCardList';
-
 # Weapons
 
 ## Refinements
@@ -19,6 +17,8 @@ Freedom Sworn, which gains its buffs from reactions happening, has normal behavi
 Polar Star behaves differently as it has individual stacks for each type, and will gain all the stacks at the same time when the hit is registered.
 
 ## Weapon Pages
+
+import DocCardList from '@theme/DocCardList';
 
 <DocCardList />
 

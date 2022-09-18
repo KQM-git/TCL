@@ -8,16 +8,18 @@ For bow characters, Aimed Shot mode is used to shoot Charged Attacks (CAs). Ther
 
 ## Aim Toggle / R Mode
 
-<Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://i.imgur.com/Ud2Co1G.mp4" %
+import Video from "@site/src/components/common/Video"
 
+<Tabs>
+
+<TabItem value="elemental" label="Elemental">
+<Video src="QmPFcXeJJzGAC1aEHcB3BRvGQuTaj5iKc7Rm2wx3BWj9f9" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/2LCnunv" %
-
+<Video src="QmR6RrZPXcSpxM4gAG1hm51BzQHZWhPqDuDtNYsxTzfhzQ" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -30,15 +32,15 @@ Aim Toggle is an easy method to shoot CAs, but there is a lengthy recovery anima
 ## Hold Cancel / M1 Cancel
 
 <Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://imgur.com/TbJ4vZB" %
 
+<TabItem value="elemental" label="Elemental">
+<Video src="QmbBKGYnMFYJ9bS9cJRPW2e1YsZQzUKuVzb9pC9eeUSmcy" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/JqRepPj" %
-
+<Video src="QmNimwGAnQ3iWFPVoRWXksyB56k3tf4NMwbpLAnx14MHHo" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -50,15 +52,15 @@ Hold Cancels take time to enter Aimed Shot mode, but have a significantly shorte
 ## Dash Cancel
 
 <Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://imgur.com/7xb7ELZ" %
 
+<TabItem value="elemental" label="Elemental">
+<Video src="QmYUnPpLck8hp1oSfWR5y4radncA1dAC8WYTnzawceD2BH" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/IfdmC5G" %
-
+<Video src="QmW216v6zoeRRo919G6g1kk5Awr4zth49vN7FGokgCYR3y" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -71,15 +73,15 @@ An important note about Dash Canceling CAs is that if the dash happens on the sa
 ## M1-R
 
 <Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://imgur.com/99fZyYI" %
 
+<TabItem value="elemental" label="Elemental">
+<Video src="QmXjDHqZcXGSYVDS4iXt6fRinqAjDeQFXxJR4aef5mCYix" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/DM8rt2m" %
-
+<Video src="QmUZfUmwLawD3ydid71HQaWmEhnk7VmMbe2BchZ9cBn8Mz" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -92,20 +94,19 @@ M1-R combines Hold and Dash Cancels to slightly increase the rate of fire over b
 ## ARCC: Aimed R-Cancel Charged
 
 <Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://imgur.com/Qofrxqg" %
 
+<TabItem value="elemental" label="Elemental">
+<Video src="QmRc1XLrZqZVQDJHGnzbpSjaRqTYy4LTUuTDd8eXPAP6F6" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/jKPctlP" %
-
+<Video src="QmQa2QdqssqSobMwzn6tFQ8vVV8rdcgDPafvsRTyiEFTc8" />
 </TabItem>
 
 <TabItem value="prop" label="Properties">
-TODO % embed url="https://i.imgur.com/BvuqB5g.mp4" %
-
+<Video src="QmRmM2frZp82Cu7ukn4NMwCUcEdSWR1nJE64QPMZWexHer" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -125,15 +126,15 @@ It has some quirks that are different from normal CAs:
 ## M1RCC: Hold M1 R-Cancel Charged
 
 <Tabs>
-<TabItem value="elemental" label="Elemental">
-TODO % embed url="https://imgur.com/64El2LA" %
 
+<TabItem value="elemental" label="Elemental">
+<Video src="QmWm5b7vvj3y5kzJ1jnorQSed9AYQpYWs5CbVqrJWumWKw" />
 </TabItem>
 
 <TabItem value="phys" label="Physical">
-TODO % embed url="https://imgur.com/OdbMxY6" %
-
+<Video src="QmPPjsAtsDbqAW8RpspZd1HuTBWaYGGDAqthEjxmfNMMhD" />
 </TabItem>
+
 </Tabs>
 
 **Inputs:**
@@ -145,9 +146,7 @@ M1RCC is a variation of ARCC that enters Aim mode with hold Attack instead of Ai
 
 ## RR Cancel
 
-TODO % embed url="https://imgur.com/j01Bux0" %
-Yoimiya N1RR
-TODO % endembed %
+<Video src="Qmc7Eu2Wk38qi2h7e5tTJac8aPtj8zEmdNWFH3HmPPMcV6" />
 
 **Inputs:**
 
@@ -164,7 +163,7 @@ The speed at which RR can be done varies by character.
 
 ### Only works on Venti, Tartaglia, Diona, Yoimiya, Gorou
 
-TODO % embed url="https://imgur.com/itkCyVm" %
+<Video src="QmWYNZ3RmVQ29S7PA95H99ur5532BdJW3QAFhwtTwH3Wtv" />
 
 **Inputs:**
 

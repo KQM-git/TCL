@@ -14,13 +14,26 @@ This is done by jumping, then pressing jump again exactly 4 frames later at 60 f
 
 ## Media
 
-{% embed url="https://imgur.com/OggEdpG" caption="Standing glide cancel" %}
+import Video from "@site/src/components/common/Video"
 
-{% embed url="https://imgur.com/ripNFSg" caption="60fps glide cancel" %}
+<Tabs>
 
-{% embed url="https://imgur.com/NvWDcSu" caption="Glide canceling various animations" %}
+<TabItem value="sgc" label="Standing glide cancel">
+<Video src="QmWy3Fgf7H4bpayzdsuT2LoiznHedzBqWidegEPCQYXNzY" caption="Standing glide cancel" />
+</TabItem>
 
-{% embed url="https://imgur.com/AjzO2zO" caption="Raiden's Burst combo with glide cancel" %}
+<TabItem value="60gc" label="60fps glide cancel">
+<Video src="QmQSeckJpzMTK2BEWtgBaZcckRDgBBe2yTPGpByCo3ywVu" caption="60fps glide cancel" />
+</TabItem>
+
+<TabItem value="gcva" label="Glide canceling various animations">
+<Video src="QmasR78qSeVetvMyLqqsQBkLda4NhKG7KYkGpDKh3BMFpx" caption="Glide canceling various animations" />
+</TabItem>
+
+<TabItem value="rbgc" label="Raiden's Burst combo with glide cancel">
+<Video src="QmWjznn8NjhxMd1QPdTdNUo2Pkx6o8YE6CkqdSrSyAsodY" caption="Raiden's Burst combo with glide cancel" />
+</TabItem>
+</Tabs>
 
 ## Evidence Vault
 

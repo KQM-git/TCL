@@ -16,9 +16,9 @@ Many characters have a primary camera that normally tracks them and a secondary 
 
 **Evidence:**
 
-* [https://imgur.com/a/uZepFyj](https://imgur.com/a/uZepFyj)
-* [https://imgur.com/a/NbmNQgt](https://imgur.com/a/NbmNQgt) 
-* [https://imgur.com/a/bbpU1Dp](https://imgur.com/a/bbpU1Dp) 
+* [https://imgur.com/qH0k5sG](https://imgur.com/qH0k5sG)
+* [https://imgur.com/aAT0UX8](https://imgur.com/aAT0UX8) 
+* [https://imgur.com/iEpCC5E](https://imgur.com/iEpCC5E) 
 * [https://www.youtube.com/watch?v=4u0c-Pmfn5s](https://www.youtube.com/watch?v=4u0c-Pmfn5s)
 * [https://www.youtube.com/watch?v=LYxdAABh9F4](https://www.youtube.com/watch?v=LYxdAABh9F4)
 * [Details on Raycasting](https://docs.unity3d.com/ScriptReference/Physics.Raycast.html)

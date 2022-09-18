@@ -13,15 +13,31 @@ The number of frames saved by canceling depends on the character, positioning, a
 
 ## Media
 
-{% embed url="https://imgur.com/jZeHFcE" caption="Dadaupa Soup" %}
+import Video from "@site/src/components/common/Video"
 
-{% embed url="https://imgur.com/Mb0ZzIO" caption="Inactive Ruin Guard" %}
+<Tabs>
 
-{% embed url="https://imgur.com/EaKJn6H" caption="Slime Balloon" %}
+<TabItem value="dp" label="Dadaupa Soup">
+<Video src="QmWJ2BwPtibVxLSHSQGmrLf8JUytKxZWcbKUTVs3WHrPKy" caption="Dadaupa Soup" />
+</TabItem>
 
-{% embed url="https://imgur.com/RAwpidP" caption="Perpetual Mechanical Array" %}
+<TabItem value="irg" label="Inactive Ruin Guard">
+<Video src="QmYyktgcTjc3E72bq8mWVZQpWt1uM5oRWWFnFjXJLjABnC" caption="Inactive Ruin Guard" />
+</TabItem>
 
-{% embed url="https://imgur.com/1ijdoLm" caption="Zhongli's Pillar" %}
+<TabItem value="sb" label="Slime Balloon">
+<Video src="Qmb936VeD5pmUzhzskhp5EPJCP6SuRCBSSw5EGM4ASuXc2" caption="Slime Balloon" />
+</TabItem>
+
+<TabItem value="pma" label="Perpetual Mechanical Array">
+<Video src="QmeMF4vbP4FQ8p57S88EkirBL4ewuXJ5Wf9ecHBdDPZ6Vk" caption="Perpetual Mechanical Array" />
+</TabItem>
+
+<TabItem value="zp" label="Zhongli's Pillar">
+<Video src="Qmamd1to12nFxCvqfe5XZvdhCAdGMC5AG5KCJRf8Xe1fNY" caption="Zhongli's Pillar" />
+</TabItem>
+
+</Tabs>
 
 ## Evidence Vault
 

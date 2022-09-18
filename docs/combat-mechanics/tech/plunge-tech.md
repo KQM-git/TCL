@@ -21,10 +21,11 @@ _Popularized by the name Dragon Strike, players were unfamiliar with the origina
 
 ## Media
 
-{% embed url="https://imgur.com/a/t3hNR2V" caption="" %}
+import Video from "@site/src/components/common/Video"
 
+<Video src="QmcXMb2r4eQHNFirpwpNj97R7VBNxTQMAEUvN6oR3y2y3Q" />
 
-# Stepstool  
+# Stepstool
 
 It's possible to use hitbox collision off of enemies to push yourself higher which allows average and tall height characters to perform a plunge attack.  
 
