@@ -1,6 +1,8 @@
-import { Character } from '@site/src/data/types'
-import { getCharStatsAt } from '@site/src/utils/charstats'
 import React from 'react'
+
+import { Character } from '@site/src/data/types'
+import { getCharStatsAt } from '@site/src/utils/stats/charstats'
+
 import StatsTable from '../common/StatsTable'
 
 export default function CharStatsTable({ char }: { char: Character }) {

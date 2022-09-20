@@ -1,7 +1,8 @@
 import React, { useEffect, useState } from 'react'
 
 import { CharacterAscension, WeaponAscension } from '@site/src/data/types'
-import { stat } from '@site/src/utils/stat'
+import { stat } from '@site/src/utils/stats/stat'
+import { Stat } from '@site/src/utils/stats/common'
 
 import { NumberInput } from '../common/input/NumberInput'
 import { SelectInput } from '../common/input/SelectInput'
@@ -13,12 +14,21 @@ export default function StatsTable({
 }: {
   ascensions: (WeaponAscension | CharacterAscension)[],
   baseLevels: { a: number, lv: number }[],
-  getStatsAt: (lvl: number, asc: number) => Record<string, number>
+  getStatsAt: (lvl: number, asc: number) => Record<string, Stat>
 }) {
   const [expanded, setExpanded] = useState(false)
 
-  const [level, setLevel] = useState(89)
-  const [asc, setAsc] = useState(6)
+  const maxAscension = ascensions[ascensions.length - 1]
+
+  const levels: { a: number, lv: number }[] = []
+
+  for (const bl of baseLevels)
+    levels.push(bl)
+
+  const max = getStatsAt(maxAscension.maxLevel, maxAscension.level)
+
+  const [level, setLevel] = useState(maxAscension.maxLevel - 5)
+  const [asc, setAsc] = useState(maxAscension.level)
 
   const ascOpt = ascensions
     .filter((a, i, arr) => level <= a.maxLevel && (i == 0 || level >= arr[i - 1].maxLevel))
@@ -32,15 +42,6 @@ export default function StatsTable({
     if (ascOpt.some(x => x.value == asc)) return
     setAsc(ascOpt[0].value)
   }, [level])
-
-  const maxAscension = ascensions[ascensions.length - 1]
-
-  const levels: { a: number, lv: number }[] = []
-
-  for (const bl of baseLevels)
-    levels.push(bl)
-
-  const max = getStatsAt(maxAscension.maxLevel, maxAscension.level)
 
   return (
     <table onClick={() => setExpanded(true)} style={({
@@ -59,11 +60,11 @@ export default function StatsTable({
           .map(({ a, lv }) => <tr key={a + "," + lv}>
             <td align='left'>A{a}</td>
             <td align='left'>{lv}</td>
-            {Object.entries(getStatsAt(lv, a)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
+            {Object.entries(getStatsAt(lv, a)).map(([name, {explain, value}]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
           </tr>)}
 
         {!expanded && <tr>
-          <td align='center' colSpan={Object.keys(getStatsAt(1, 1)).length + 2}><a>Click to expand...</a></td>
+          <td align='center' colSpan={Object.keys(max).length + 2}><a>Click to expand...</a></td>
         </tr>}
 
         {expanded && <tr>
@@ -83,7 +84,7 @@ export default function StatsTable({
               style={({ maxWidth: 64 })}
             />
           </td>
-          {Object.entries(getStatsAt(level, asc)).map(([name, value]) => <td align='left' key={name}>{stat(name, value)}</td>)}
+          {Object.entries(getStatsAt(level, asc)).map(([name, {explain, value}]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
         </tr>}
       </tbody>
     </table>

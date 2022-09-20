@@ -14,7 +14,7 @@ export default function ArtifactSetBonus({ artifact }: { artifact: string }) {
     </Admonition>
 
   return <ul>
-    {arti.bonuses.map((b) => <li>
+    {arti.bonuses.map((b) => <li key={b.count}>
       {b.count}-Piece Set Bonus: {b.desc}
     </li>)}
   </ul>

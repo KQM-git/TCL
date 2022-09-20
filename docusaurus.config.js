@@ -64,8 +64,6 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/KQM-git/TCL/blob/master/',
           showLastUpdateTime: true,
           remarkPlugins: [math],
@@ -139,31 +137,29 @@ const config = {
       },
       footer: {
         style: 'dark',
-        /*
         links: [
           {
-            title: 'Docs',
+            title: 'TC Library',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Home',
+                to: '/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Characters',
+                to: '/characters',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Equipment',
+                to: '/equipment',
+              },
+              {
+                label: 'Newsletter',
+                to: '/newsletter',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/KQM-git/TCL/',
               },
             ],
           },
@@ -171,18 +167,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'KQM',
+                href: 'https://keqingmains.com/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Discord',
+                href: 'https://discord.gg/keqing',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-        */
       },
       colorMode: {
         defaultMode: 'dark'

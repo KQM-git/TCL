@@ -3,7 +3,7 @@ import React from 'react'
 import Admonition from '@theme/Admonition'
 
 import { Weapon } from '@site/src/data/types'
-import { getWeaponStatsAt } from '@site/src/utils/weaponstats'
+import { getWeaponStatsAt } from '@site/src/utils/stats/weaponstats'
 
 import StatsTable from '../common/StatsTable'
 

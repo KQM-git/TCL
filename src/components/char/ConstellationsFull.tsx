@@ -8,7 +8,7 @@ import Constellation from './Constellation'
 
 export default function ConstellationsFull({ char }: { char: Character }) {
   return <Tabs>
-    {char.skills[0].constellations.map((x, i) => <TabItem value={`c${i + 1}`} label={`C${i + 1}`}>
+    {char.skills[0].constellations.map((_x, i) => <TabItem value={`c${i + 1}`} label={`C${i + 1}`} key={i}>
       <Constellation char={char} constellation={i + 1} />
     </TabItem>)}
   </Tabs>

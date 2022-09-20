@@ -20,15 +20,17 @@ export default function Talent({ char, skill, depotIndex }: {
   function hint(input: string): ReactElement {
     let acc = ""
     const elements: ReactElement[] = []
+    let i = 0
+
     input.split("").forEach(x => {
       acc += x
       if (x.match(/[+/%]/)) {
-        elements.push(<span>{acc}<wbr /></span>)
+        elements.push(<span key={i++}>{acc}<wbr /></span>)
         acc = ""
       }
     })
     if (acc.length > 0)
-      elements.push(<span>{acc}<wbr /></span>)
+      elements.push(<span key={i++}>{acc}<wbr /></span>)
 
     return <>
       {elements}
@@ -54,17 +56,17 @@ export default function Talent({ char, skill, depotIndex }: {
       <thead>
         <tr>
           <th style={({ minWidth: "140px" })}>Name</th>
-          {levels.map((i) => <th key={i + 1}>Lv. {i + 1}</th>)}
+          {levels.map((i) => <th key={"name-" + i}>Lv. {i + 1}</th>)}
         </tr>
       </thead>
       <tbody>
         {valueTable.map(row => <tr key={row.name}>
           <td style={({ minWidth: "140px" })}>{row.name}</td>
-          {row.values.map((v, i, arr) => arr[i - 1] != v && <td key={i} colSpan={countUp(arr, v, i)} align='center'>{hint(v)}</td>)}
+          {row.values.map((v, i, arr) => arr[i - 1] != v && <td key={row.name + "-" + i} colSpan={countUp(arr, v, i)} align='center'>{hint(v)}</td>)}
         </tr>)}
       </tbody>
     </table>}
-    {notValueTable.length > 0 && notValueTable.map((x, i) => <span key={i}><b>{x.name}</b>: {x.value}<br /></span>)}
+    {notValueTable.length > 0 && notValueTable.map(x => <span key={x.name}><b>{x.name}</b>: {x.value}<br /></span>)}
   </>
 }
 

@@ -1,4 +1,9 @@
-export function stat(name: string, value: number): string {
+export function stat(name: string, value: number, full = false): string {
+  function fixed(val: number, dec: number): string {
+    if (full) return val.toString()
+    return val.toFixed(dec)
+  }
+
   switch (name) {
     case "HP%":
     case "DEF%":
@@ -15,7 +20,7 @@ export function stat(name: string, value: number): string {
     case "Energy Recharge":
     case "CRIT Rate":
     case "CRIT DMG":
-      return (value * 100).toFixed(1) + "%"
+      return fixed(value * 100, 1) + "%"
 
     case "HP":
     case "ATK":
@@ -24,10 +29,10 @@ export function stat(name: string, value: number): string {
     case "Base ATK":
     case "Base DEF":
     case "Elemental Mastery":
-      return value.toFixed(0)
+      return fixed(value, 0)
 
     default:
       console.error(`Unknown stat '${name}', defaulting to formatting by value`)
-      return value < 2 ? ((value * 100).toFixed(1) + "%") : value.toFixed(0)
+      return value < 2 ? (fixed(value * 100, 1) + "%") : fixed(value, 0)
   }
 }

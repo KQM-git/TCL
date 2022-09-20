@@ -27,7 +27,7 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 | Ganyu | Skill | Scaling | Taunt |
 | Gorou | Skill | Invulnerable | - | 
 | Itto | Skill | Scaling | Geo, Taunt | 
-| Kokomi | Skill | Invulneratble | - | 
+| Kokomi | Skill | Invulnerable | - | 
 | Klee | Skill | Invulnerable | Light |
 | Ningguang | Skill | Scaling | Geo |
 | Mona | Skill | Invulnerable | Taunt |
