@@ -38,3 +38,35 @@
 .react-md p {
   margin: 0px;
 }
+
+/* Tab background */
+.tabs-container {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0px 5px;
+  border-radius: 15px;
+}
+[data-theme='dark'] .tabs-container {
+  background-color: rgb(0, 0, 0, 0.1);
+}
+
+/* Side by side char pages */
+.flex {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.flex > *:nth-child(odd) {
+  width: 40%;
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 1500px) {
+  .flex {
+    flex-direction: column;
+  }
+  .flex > *:nth-child(odd) {
+    width: auto;
+    padding-left: 0px;
+  }
+}

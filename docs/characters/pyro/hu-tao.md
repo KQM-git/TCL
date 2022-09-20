@@ -31,6 +31,7 @@ import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
 <TabItem value='na' label={getSkillName(char, 'na')}>
+<div class="flex">
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -43,6 +44,8 @@ import Skill from '@site/src/components/char/Skill'
 | 6-Hit | 144.57% | 173 | 219.47%/s | 26.2 | 6 |
 | Recovery | N/A | 238 | 159.53%/s | - | - |
 
+</div>
+<div class="flex">
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -54,6 +57,8 @@ import Skill from '@site/src/components/char/Skill'
 | N4C | 601.74% |  |  | - | - |
 | N5C | 716.90% |  |  | - | - |
 | N6C | 861.47% |  |  | - | - |
+
+</div>
 
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
@@ -72,7 +77,11 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 </TabItem>
 
 <TabItem value='e' label={getSkillName(char, 'e')}>
-<Skill char={char} skill='e' />
+<div class="flex">
+<div>
+<Skill char={char} skill='e' sectionFilter="" />
+<Skill char={char} skill='e' sectionFilter="Paramita Papilio" />
+</div>
 
 | Attribute | Paramita Papilio |
 | :--- | :--- |
@@ -86,6 +95,10 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Casting Poise Damage | 120 |
 | Casting Impulse Type | 3 |
 
+</div>
+<div class="flex">
+<Skill char={char} skill='e' sectionFilter="Blood Blossom" />
+
 | Attribute | Blood Blossom |
 | :--- | :--- |
 | Blood Blossom DMG \(T9%\) | 108.8% |
@@ -97,6 +110,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Duration | 8s |
 | Poise Damage | 0 |
 | Impulse Type | 1 |
+
+</div>
 
 **Notes**
 * The **Paramita Papilio** state does not affect Poise Damage or Impulse Type of the Normal, Charged, or Plunging Attacks.
@@ -111,6 +126,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 </TabItem>
 
 <TabItem value='q' label={getSkillName(char, 'q')}>
+<div class="flex">
 <Skill char={char} skill='q' />
 
 | Attribute | Burst |
@@ -131,6 +147,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Cooldown | 15s |
 | Poise Damage | 250 |
 | Impulse Type | 3 |
+
+</div>
 
 **Notes**
 * Spirit Soother is snapshot on cast, and will even extend Paramita Papilio to do so.

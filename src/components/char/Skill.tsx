@@ -28,7 +28,7 @@ export default function Skill({ char, skill, depotIndex, sectionFilter }: {
     }
   }
 
-  return <MDXContent>
+  return <div><MDXContent>
     <ReactMarkdown>{desc}</ReactMarkdown>
-  </MDXContent>
+  </MDXContent></div>
 }
