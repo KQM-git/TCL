@@ -2,7 +2,7 @@
 description: An explanation as to how outgoing damage is calculated.
 ---
 
-# Outgoing Damage Formula
+# Damage Formula
 
 ## General Formula for Damage
 
@@ -143,20 +143,24 @@ $$
 TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\ \times LevelMultiplier \times EnemyResistanceMultiplier
 $$
 
+:::danger
+TODO: Someone needs to update BaseMultiplier due to changes to LevelMultiplier!
+:::
+
 $$
 BaseMultiplier = \begin{cases} 4 & \text{if, } triggering\ Overloaded\\ 3 & \text{if, } triggering\ Shatter\\ 2.4 \times ECTriggers & \text{if, } triggering\ ElectroCharged\\ 1.2 & \text{if, } triggering\ Swirl\\ 1 & \text{if, } triggering\ Superconduct\\ 0 & \text{otherwise} \end{cases}
 $$
 
-$$
-\begin{align} LevelMultiplier \approx & \begin{cases} 0.0002325 &\times CharLvl^{3} + 0.05547 \times CharLvl^{2} & \\ &- 0.2523 \times CharLvl + 14.47 & \text{if, } CharLvl < 60 \\ 0.00194 &\times CharLvl^{3} - 0.319 \times CharLvl^{2} & \\ &+ 30.7 \times CharLvl - 868 & \text{if, } CharLvl \geq 60\\ \end{cases} \end{align}
-$$
+import player from '@site/src/data/elemental_curves/player.json'
+import enemy from '@site/src/data/elemental_curves/element.json'
+import LevelMultiplier from '@site/src/components/common/LevelMultiplier'
 
 | Formula Variable              | Explanation                                                                                                                                                                                                                                                                   |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **ECTriggers**                | The number of times Electro-Charged triggers, and depends on the elemental gauge strength of the Hydro and Electro elements applied to the enemy.                                                                                                                             |
 | **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
 | **ReactionBonus**             | Includes reaction damage bonuses from the Thundering Fury and Viridescent Venerer 4-piece sets and from Mona's Constellation 1.                                                                                                                                               |
-| **LevelMultiplier**           | Check the [Genshin Wiki](https://genshin-impact.fandom.com/wiki/Damage#Transformative\_Reaction\_Damage).                                                                                                                                                                     |
+| **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
 | **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the element of the transformative reaction (pyro for overloaded, physical for shattered, electro for electro-charged, cryo for superconduct, and the element being swirled for swirl). |
 
 ## Proc
