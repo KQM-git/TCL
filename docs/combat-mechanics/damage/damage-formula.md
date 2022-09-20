@@ -140,15 +140,22 @@ $$
 ## Transformative Reaction Bonus
 
 $$
-TransformativeReactions = BaseMultipler \times \biggl( 1+ \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\ \times LevelMultiplier \times EnemyResistanceMultiplier
+\text{TransformativeReactions} = 
+  \text{BaseMultiplier} \times \biggl(1 + \frac{16 \times \text{EM}}{2000 + \text{EM}} + \text{ReactionBonus} \biggr)\\
+  \times \text{LevelMultiplier} \times \text{EnemyResistanceMultiplier}
 $$
 
-:::danger
-TODO: Someone needs to update BaseMultiplier due to changes to LevelMultiplier!
-:::
-
 $$
-BaseMultiplier = \begin{cases} 4 & \text{if, } triggering\ Overloaded\\ 3 & \text{if, } triggering\ Shatter\\ 2.4 \times ECTriggers & \text{if, } triggering\ ElectroCharged\\ 1.2 & \text{if, } triggering\ Swirl\\ 1 & \text{if, } triggering\ Superconduct\\ 0 & \text{otherwise} \end{cases}
+\text{BaseMultiplier} = \begin{cases} 
+  3    & \text{for Burgeon and Hyperbloom}\\
+  2    & \text{for Overloaded and Bloom}\\
+  1.5  & \text{for Shatter}\\
+  1.2  \times \text{ECTriggers} & \text{for Electro-Charged}\\
+  0.6  & \text{for Swirl}\\
+  0.5  & \text{for Superconduct}\\
+  0.25 & \text{for Burning}\\
+  0    & \text{otherwise}
+\end{cases}
 $$
 
 import player from '@site/src/data/elemental_curves/player.json'
