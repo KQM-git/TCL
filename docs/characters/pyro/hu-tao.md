@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Hu Tao
 
+![](/assets/characters/gacha/Hu_Tao.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -14,10 +16,6 @@ import { getSkillName } from '@site/src/utils/skill'
 * [Hu Tao Mains Discord](https://discord.gg/hutaoscorner)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
 * [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
-
-## ![](/assets/element_pyro.png) Hu Tao
-
-![](/assets/characters/gacha/Hu_Tao.png)
 
 ## Base Stats
 
