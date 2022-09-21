@@ -32,7 +32,7 @@ import Skill from '@site/src/components/char/Skill'
 <Tabs>
 <TabItem value='na' label='Normal Attacks'>
 <h3>{getSkillName(char, 'na')}</h3>
-<div class="flex">
+<div class="talent-columns">
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -46,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 | Recovery | N/A | 238 | 159.53%/s | - | - |
 
 </div>
-<div class="flex">
+<div class="talent-columns">
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -79,7 +79,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 <TabItem value='e' label='Skill'>
 <h3>{getSkillName(char, 'e')}</h3>
-<div class="flex">
+<div class="talent-columns">
 <div>
 <Skill char={char} skill='e' sectionFilter="" />
 <Skill char={char} skill='e' sectionFilter="Paramita Papilio" />
@@ -98,7 +98,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Casting Impulse Type | 3 |
 
 </div>
-<div class="flex">
+<div class="talent-columns">
 <Skill char={char} skill='e' sectionFilter="Blood Blossom" />
 
 | Attribute | Blood Blossom |
@@ -129,7 +129,7 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 <TabItem value='q' label='Burst'>
 <h3>{getSkillName(char, 'q')}</h3>
-<div class="flex">
+<div class="talent-columns">
 <Skill char={char} skill='q' />
 
 | Attribute | Burst |
