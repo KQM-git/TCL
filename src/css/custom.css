@@ -33,7 +33,11 @@
   --ifm-color-primary-lightest: #fbf5fe;
   --ifm-background-color: #232024 !important;
   --ifm-navbar-background-color: #2d282f !important;
+  --ifm-card-background-color: #2d282f;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+.footer--dark {
+  --ifm-footer-background-color: #1e1c1f !important;
 }
 
 .react-md p {
