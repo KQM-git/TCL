@@ -30,7 +30,8 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
-<TabItem value='na' label={getSkillName(char, 'na')}>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
 <div class="flex">
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
@@ -76,7 +77,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 </TabItem>
 
-<TabItem value='e' label={getSkillName(char, 'e')}>
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
 <div class="flex">
 <div>
 <Skill char={char} skill='e' sectionFilter="" />
@@ -125,7 +127,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 </TabItem>
 
-<TabItem value='q' label={getSkillName(char, 'q')}>
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
 <div class="flex">
 <Skill char={char} skill='q' />
 
