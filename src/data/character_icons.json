@@ -1,0 +1,69 @@
+{
+  "Anemo": [
+    "Jean",
+    "Venti",
+    "Sucrose",
+    "Xiao",
+    "Kaedehara Kazuha",
+    "Sayu",
+    "Shikanoin Heizou"
+  ],
+  "Electro": [
+    "Lisa",
+    "Razor",
+    "Beidou",
+    "Fischl",
+    "Keqing",
+    "Raiden Shogun",
+    "Kujou Sara",
+    "Yae Miko",
+    "Kuki Shinobu",
+    "Dori"
+  ],
+  "Hydro": [
+    "Barbara",
+    "Xingqiu",
+    "Mona",
+    "Tartaglia",
+    "Sangonomiya Kokomi",
+    "Kamisato Ayato",
+    "Yelan"
+  ],
+  "Cryo": [
+    "Kaeya",
+    "Qiqi",
+    "Chongyun",
+    "Diona",
+    "Ganyu",
+    "Rosaria",
+    "Eula",
+    "Kamisato Ayaka",
+    "Aloy",
+    "Shenhe"
+  ],
+  "Pyro": [
+    "Diluc",
+    "Amber",
+    "Xiangling",
+    "Klee",
+    "Bennett",
+    "Xinyan",
+    "Hu Tao",
+    "Yanfei",
+    "Yoimiya",
+    "Thoma"
+  ],
+  "Geo": [
+    "Ningguang",
+    "Noelle",
+    "Zhongli",
+    "Albedo",
+    "Gorou",
+    "Arataki Itto",
+    "Yun Jin"
+  ],
+  "Dendro": [
+    "Collei",
+    "Tighnari"
+  ]
+}

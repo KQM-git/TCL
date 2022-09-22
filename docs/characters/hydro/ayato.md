@@ -4,11 +4,10 @@ description: The young but highly accomplished head of the Yashiro Commission's 
 
 # Kamisato Ayato
 
+![](/assets/characters/gacha/Kamisato_Ayato.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_hydro.png) Kamisato Ayato
-
-![](/assets/characters/gacha/Kamisato_Ayato.png)
 
 ## Base Stats
 

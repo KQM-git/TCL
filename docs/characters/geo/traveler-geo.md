@@ -4,15 +4,13 @@ description: A traveler from another world who had their only kin taken away, fo
 
 # Traveler (Geo)
 
+![](/assets/geo-traveler.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Full Geo Traveler Written Guide](https://keqingmains.com/geo-traveler/)
-
-## ![](/assets/element_geo.png) Traveler \(Geo\)
-
-![](/assets/geo-traveler.png)
 
 ## Base Stats
 

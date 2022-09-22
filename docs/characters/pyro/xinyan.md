@@ -9,7 +9,7 @@ description: Liyue's sole rock 'n' roll musician. She rebels against ossified pr
 ## Resources
 [A Guide to Liyue’s Rockstar](https://keqingmains.com/xinyan/)
 
-## ![](/assets/element_pyro.png) Xinyan
+## Xinyan
 
 ![](/assets/characters/gacha/Xinyan.png)
 

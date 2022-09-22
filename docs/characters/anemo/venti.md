@@ -4,16 +4,14 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 
 # Venti
 
+![](/assets/characters/gacha/Venti.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Venti Guide](https://keqingmains.com/venti/)
 * [Venti Mains Discord](https://discord.gg/ventimains)
-
-
-## ![](/assets/element_anemo.png) Venti
-
-![](/assets/characters/gacha/Venti.png)
 
 ## Base Stats
 

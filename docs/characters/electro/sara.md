@@ -4,14 +4,13 @@ description: A general of the Tenryou Commission. Bold, decisive, and skilled in
 
 # Kujou Sara
 
+![](/assets/characters/gacha/Kujou_Sara.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## External Links
-[Short Sara Guide](https://keqingmains.com/sara/)
+## Resources
 
-## ![](/assets/element_electro.png) Kujou Sara
-
-![](/assets/characters/gacha/Kujou_Sara.png)
+* [Short Sara Guide](https://keqingmains.com/sara/)
 
 ## Base Stats
 

@@ -4,15 +4,14 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 
 # Ningguang
 
+![](/assets/characters/gacha/Ningguang.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Full Ningguang Written Guide: Geo Goddess](https://keqingmains.com/ningguang/)
 * [6 Minute Guide to Ningguang](https://youtu.be/aecxJRSn2d4)
-
-## ![](/assets/element_geo.png) Ningguang
-
-![](/assets/characters/gacha/Ningguang.png)
 
 ## Base Stats
 

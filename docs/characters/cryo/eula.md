@@ -4,16 +4,15 @@ description: The Spindrift Knight, a scion of the old aristocracy, and the Capta
 
 # Eula
 
+![](/assets/characters/gacha/Eula.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Eula Mains Discord](https://discord.gg/EulaMains)
 * [Basic Eula Guide](https://keqingmains.com/eula/)
 * [7 Minute Quick Guide to Eula](https://youtu.be/4pm1CQ7ftws)
-
-## ![](/assets/element_cryo.png) Eula
-
-![](/assets/characters/gacha/Eula.png)
 
 ## Base Stats
 

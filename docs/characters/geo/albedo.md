@@ -4,16 +4,14 @@ description: A genius known as the Kreideprinz, he is the Chief Alchemist and Ca
 
 # Albedo
 
+![](/assets/characters/gacha/Albedo.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Albedo Mains Discord](https://discord.gg/uHV2ZCfPXU)
 * [Albedo Written Guide](https://keqingmains.com/albedo/)
-
-## ![](/assets/element_geo.png) Albedo
-
-![](/assets/characters/gacha/Albedo.png)
 
 ## Base Stats
 

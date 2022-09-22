@@ -10,13 +10,13 @@ When you have a full party, you will receive bonus effects, known as Elemental R
 
 | Name | Elements | Effects |
 | :--- | :--- | :--- |
-| Fervent Flames | <img src="/assets/element_pyro.png" width="48"/><img src="/assets/element_pyro.png" width="48"/> | Affected by Cryo for 40% less time. Increases ATK by 25%. |
-| Soothing Water | <img src="/assets/element_hydro.png" width="48"/><img src="/assets/element_hydro.png" width="48"/> | Affected by Pyro for 40% less time. Increases Max HP by 25%. |
-| High Voltage | <img src="/assets/element_electro.png" width="48"/><img src="/assets/element_electro.png" width="48"/> | Affected by Hydro for 40% less time. Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle (CD: 5s). |
-| Shattering Ice | <img src="/assets/element_cryo.png" width="48"/><img src="/assets/element_cryo.png" width="48"/> | Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%. |
-| Impetuous Winds | <img src="/assets/element_anemo.png" width="48"/><img src="/assets/element_anemo.png" width="48"/> | Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%. |
-| Enduring Rock | <img src="/assets/element_geo.png" width="48"/><img src="/assets/element_geo.png" width="48"/> | Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s. |
-| Sprawling Greenery | <img src="/assets/element_dendro.png" width="48"/><img src="/assets/element_dendro.png" width="48"/> | After triggering Burning, Quicken, or Bloom reactions, all nearby party members gain 30 Elemental Mastery for 6s. After triggering Aggravate, Spread, Hyperbloom, or Burgeon reactions, all nearby party members gain 20 Elemental Mastery for 6s. The durations of the aforementioned effects will be counted independently. |
+| Fervent Flames | <img src="/assets/elements/pyro.png" width="48"/><img src="/assets/elements/pyro.png" width="48"/> | Affected by Cryo for 40% less time. Increases ATK by 25%. |
+| Soothing Water | <img src="/assets/elements/hydro.png" width="48"/><img src="/assets/elements/hydro.png" width="48"/> | Affected by Pyro for 40% less time. Increases Max HP by 25%. |
+| High Voltage | <img src="/assets/elements/electro.png" width="48"/><img src="/assets/elements/electro.png" width="48"/> | Affected by Hydro for 40% less time. Superconduct, Overloaded, and Electro-Charged have a 100% chance to generate an Electro Elemental Particle (CD: 5s). |
+| Shattering Ice | <img src="/assets/elements/cryo.png" width="48"/><img src="/assets/elements/cryo.png" width="48"/> | Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%. |
+| Impetuous Winds | <img src="/assets/elements/anemo.png" width="48"/><img src="/assets/elements/anemo.png" width="48"/> | Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%. |
+| Enduring Rock | <img src="/assets/elements/geo.png" width="48"/><img src="/assets/elements/geo.png" width="48"/> | Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s. |
+| Sprawling Greenery | <img src="/assets/elements/dendro.png" width="48"/><img src="/assets/elements/dendro.png" width="48"/> | After triggering Burning, Quicken, or Bloom reactions, all nearby party members gain 30 Elemental Mastery for 6s. After triggering Aggravate, Spread, Hyperbloom, or Burgeon reactions, all nearby party members gain 20 Elemental Mastery for 6s. The durations of the aforementioned effects will be counted independently. |
 | Protective Canopy | Any 4 Unique Elements | All Elemental RES +15%, Physical RES +15%. |
 
 ## Trial Character Resonances

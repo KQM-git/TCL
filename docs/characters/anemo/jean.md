@@ -4,16 +4,14 @@ description: The righteous and rigorous Dandelion Knight, and Acting Grand Maste
 
 # Jean
 
+![](/assets/characters/gacha/Jean.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Jean Mains Discord](https://discord.gg/fSw9xXSyTe)
 * [Jean Written Guide: Commanding the Dandelion Knight](https://keqingmains.com/jean/)
-
-## ![](/assets/element_anemo.png) Jean
-
-![](/assets/characters/gacha/Jean.png)
 
 ## Base Stats
 

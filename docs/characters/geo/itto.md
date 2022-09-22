@@ -4,14 +4,13 @@ description: The first and greatest head of the Arataki Gang, famed throughout I
 
 # Arataki Itto
 
+![](/assets/characters/gacha/Arataki_Itto.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Hanamizaka Heroics: Arataki Itto Guide](https://keqingmains.com/itto/)
-
-## ![](/assets/element_geo.png) Arataki Itto
-
-![](/assets/characters/gacha/Arataki_Itto.png)
 
 ## Base Stats
 

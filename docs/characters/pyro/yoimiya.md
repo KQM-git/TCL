@@ -10,7 +10,7 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 * [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
 * [Yoimiya Full Guide](https://keqingmains.com/yoimiya/)
 
-## ![](/assets/element_pyro.png) Yoimiya
+## Yoimiya
 
 ![](/assets/characters/gacha/Yoimiya.png)
 

@@ -11,7 +11,7 @@ description: An explosives expert and a regular at the Knights of Favonius's con
 * [Klee Mains Discord](https://discord.gg/NwYDDrfKZU)
 * [In Depth Klee Guide](https://keqingmains.com/klee/)
 
-## ![](/assets/element_pyro.png) Klee
+## Klee
 
 ![](/assets/characters/gacha/Klee.png)
 

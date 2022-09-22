@@ -4,14 +4,13 @@ description: An accomplished swordsman and a strategic thinker in the Knights of
 
 # Kaeya
 
+![](/assets/characters/gacha/Kaeya.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Full Kaeya Written Guide: Death After Noon](https://keqingmains.com/kaeya/)
-
-## ![](/assets/element_cryo.png) Kaeya
-
-![](/assets/characters/gacha/Kaeya.png)
 
 ## Base Stats
 

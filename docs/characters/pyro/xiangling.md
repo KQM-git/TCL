@@ -10,7 +10,7 @@ description: A renowned chef from Liyue. She's extremely passionate about cookin
 
 * [Xiangling Guide](https://keqingmains.com/xiangling/)
 
-## ![](/assets/element_pyro.png) Xiangling
+## Xiangling
 
 ![](/assets/characters/gacha/Xiangling.png)
 

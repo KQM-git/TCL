@@ -4,16 +4,15 @@ description: The Yuheng of the Liyue Qixing. Keqing has much to say about Rex La
 
 # Keqing
 
+![](/assets/characters/gacha/Keqing.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Keqing Mains Discord](https://discord.gg/Keqing)  
 * [Full Keqing Written Guide](https://keqingmains.com/keqing/)  
 * [8 Minute Quick Guide to Keqing](https://youtu.be/A9_k6p52N1o)
-
-## ![](/assets/element_electro.png) Keqing
-
-![](/assets/characters/gacha/Keqing.png)
 
 ## Base Stats
 

@@ -11,7 +11,7 @@ description: A good-natured adventurer from Mondstadt who's unfortunately extrem
 * [Bennett Mains Discord](https://discord.gg/qrjeEyejsd)
 * [Full Bennett Guide: Bennett's Adventure Log](https://keqingmains.com/bennett/)
 
-## ![](/assets/element_pyro.png) Bennett
+## Bennett
 
 ![](/assets/characters/gacha/Bennett.png)
 

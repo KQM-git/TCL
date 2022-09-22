@@ -4,6 +4,8 @@ description: Captain of her crew, The Crux. She's quite an unbound and forthrigh
 
 # Beidou
 
+![](/assets/characters/gacha/Beidou.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -11,10 +13,6 @@ description: Captain of her crew, The Crux. She's quite an unbound and forthrigh
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
 * [Full Beidou Written Guide: Tales from the Sea](https://keqingmains.com/beidou/)
 * [6 Minute Quick Guide to Beidou](https://youtu.be/AWlLidtFiDw)
-
-## ![](/assets/element_electro.png) Beidou
-
-![](/assets/characters/gacha/Beidou.png)
 
 ## Base Stats
 

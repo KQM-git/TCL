@@ -3,6 +3,12 @@ description: Useful sheets, tools and sites.
 ---
 # Tools
 
+## Internal Sites
+
+import DocCardList from '@theme/DocCardList';
+
+<DocCardList />
+
 ## External Sites
 ### Genshin Optimizer  
 [https://frzyc.github.io/genshin-optimizer/](https://frzyc.github.io/genshin-optimizer/)   

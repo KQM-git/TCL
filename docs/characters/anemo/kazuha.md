@@ -4,16 +4,14 @@ description: A wandering samurai from Inazuma who is currently with Liyue's Crux
 
 # Kaedehara Kazuha
 
+![](/assets/characters/gacha/Kaedehara_Kazuha.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
 * [6 Minute Quick Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
-
-## ![](/assets/element_anemo.png) Kaedehara Kazuha
-
-![](/assets/characters/gacha/Kaedehara_Kazuha.png)
 
 ## Base Stats
 

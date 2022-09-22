@@ -4,11 +4,10 @@ description: A mysterious person who claims to work for the Ministry of Civil Af
 
 # Yelan
 
+![](/assets/characters/gacha/Yelan.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_hydro.png) Yelan
-
-![](/assets/characters/gacha/Yelan.png)
 
 ## Base Stats
 

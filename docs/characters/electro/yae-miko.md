@@ -4,11 +4,10 @@ description: Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-
 
 # Yae Miko
 
+![](/assets/characters/gacha/Yae_Miko.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_electro.png) Yae Miko
-
-![](/assets/characters/gacha/Yae_Miko.png)
 
 ## Base Stats
 

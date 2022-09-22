@@ -4,16 +4,14 @@ description: A yaksha adeptus who defends Liyue. Also heralded as the "Conqueror
 
 # Xiao
 
+![](/assets/characters/gacha/Xiao.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Xiao Mains Discord](https://discord.gg/Xiao)
 * [Full Xiao Written Guide: Adeptal Guide to Conquering Xiao](https://keqingmains.com/xiao/)
-
-## ![](/assets/element_anemo.png) Xiao
-
-![](/assets/characters/gacha/Xiao.png)
 
 ## Base Stats
 

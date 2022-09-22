@@ -4,11 +4,10 @@ description: A renowned Liyue opera singer who is skilled in both playwriting an
 
 # Yun Jin
 
+![](/assets/characters/gacha/Yun_Jin.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_geo.png) Yun Jin
-
-![](/assets/characters/gacha/Yun_Jin.png)
 
 ## Base Stats
 

@@ -4,14 +4,13 @@ description: An apprentice and herb gatherer at Bubu Pharmacy. An undead with a 
 
 # Qiqi
 
+![](/assets/characters/gacha/Qiqi.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Qiqi Guide](https://keqingmains.com/qiqi/)
-
-## ![](/assets/element_cryo.png) Qiqi
-
-![](/assets/characters/gacha/Qiqi.png)
 
 ## Base Stats
 

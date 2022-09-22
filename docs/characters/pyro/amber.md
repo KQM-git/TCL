@@ -10,7 +10,7 @@ description: Always energetic and full of life, Amber's the best — albeit only
 * [Full Amber Guide](https://keqingmains.com/amber/)
 * [8 Minute Guide to Amber](https://www.youtube.com/watch?v=QW40leHPgJ8)
 
-## ![](/assets/element_pyro.png) Amber
+## Amber
 
 ![](/assets/characters/gacha/Amber.png)
 

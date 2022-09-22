@@ -4,15 +4,13 @@ description: Her Excellency, the Almighty Narukami Ogosho, who promised the peop
 
 # Raiden Shogun
 
+![](/assets/characters/gacha/Raiden_Shogun.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Raiden Shogun Guide](https://keqingmains.com/raiden/)
-
-## ![](/assets/element_electro.png) Raiden Shogun
-
-![](/assets/characters/gacha/Raiden_Shogun.png)
 
 ## Base Stats
 

@@ -4,11 +4,10 @@ description: A pint-sized ninja attached to the Shuumatsuban, who always seems s
 
 # Sayu
 
+![](/assets/characters/gacha/Sayu.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_anemo.png) Sayu
-
-![](/assets/characters/gacha/Sayu.png)
 
 ## Base Stats
 

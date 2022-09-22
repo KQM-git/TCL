@@ -4,16 +4,14 @@ description: A young exorcist from a family of exorcists. He does everything he 
 
 # Chongyun
 
+![](/assets/characters/gacha/Chongyun.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Chongyun Mains Discord](https://discord.gg/FT4ZFmgf8T)
 * [Swordfall: A Chongyun Guide](https://keqingmains.com/chongyun/)
-
-## ![](/assets/element_cryo.png) Chongyun
-
-![](/assets/characters/gacha/Chongyun.png)
 
 ## Base Stats
 

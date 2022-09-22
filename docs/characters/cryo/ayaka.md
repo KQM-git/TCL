@@ -4,16 +4,14 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 # Kamisato Ayaka
 
+![](/assets/characters/gacha/Kamisato_Ayaka.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Ayaka Written Guide](https://keqingmains.com/ayaka/)
 * [7 Minute Quick Guide to Ayaka](https://youtu.be/G_gQ0P9s6BU)
-
-## ![](/assets/element_cryo.png) Kamisato Ayaka
-
-![](/assets/characters/gacha/Kamisato_Ayaka.png)
 
 ## Base Stats
 

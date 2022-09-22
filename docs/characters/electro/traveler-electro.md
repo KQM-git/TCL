@@ -4,11 +4,9 @@ description: A traveler from another world who had their only kin taken away, fo
 
 # Traveler (Electro)
 
-<blockquote>{frontMatter.description}</blockquote>
-
-## ![](/assets/element_electro.png) Traveler \(Electro\)
-
 ![](/assets/electro-traveler.png)
+
+<blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats
 

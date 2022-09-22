@@ -4,14 +4,13 @@ description: Formerly an outcast, now a hunter of unparalleled skill. Ready to d
 
 # Aloy
 
+![](/assets/characters/gacha/Aloy.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [[Full Written Guide] Aloy: Wandering Heroine](https://keqingmains.com/aloy/)
-
-## ![](/assets/element_cryo.png) Aloy
-
-![](/assets/characters/gacha/Aloy.png)
 
 ## Base Stats
 

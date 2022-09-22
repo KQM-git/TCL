@@ -4,16 +4,14 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 # Lisa
 
+![](/assets/characters/gacha/Lisa.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Lisa Mains Discord](https://discord.gg/5SYy4MPPCt)
 * [Full Lisa Written Guide](https://keqingmains.com/lisa/)
-
-## ![](/assets/element_electro.png) Lisa
-
-![](/assets/characters/gacha/Lisa.png)
 
 ## Base Stats
 

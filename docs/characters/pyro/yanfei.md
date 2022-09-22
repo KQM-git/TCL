@@ -10,7 +10,7 @@ description: A well-known legal adviser active in Liyue Harbor. A brilliant youn
 
 * [Yanfei Full Guide](https://keqingmains.com/yanfei/)
 
-## ![](/assets/element_pyro.png) Yanfei
+## Yanfei
 
 ![](/assets/characters/gacha/Yanfei.png)
 

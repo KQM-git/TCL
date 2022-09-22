@@ -4,17 +4,16 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 # Diona
 
+![](/assets/characters/gacha/Diona.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Full Diona Guide](https://keqingmains.com/diona/)  
 * [4 Minute Quick Guide to Diona](https://youtu.be/IWoSkeAFY4o)  
 * [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 * [Icy Paws Sacrifical Bow vs Favonius Bow - Energy Gen & Field Time Efficiency](https://docs.google.com/spreadsheets/d/1rMyjElZHS0PDU4uyJ55bKGsmUVW82ga4xPcDUJSE760/edit#gid=1389539947)
-
-## ![](/assets/element_cryo.png) Diona
-
-![](/assets/characters/gacha/Diona.png)
 
 ## Base Stats
 

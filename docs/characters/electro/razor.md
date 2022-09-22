@@ -4,16 +4,14 @@ description: A boy who lives among the wolves in Wolvendom of Mondstadt, away fr
 
 # Razor
 
+![](/assets/characters/gacha/Razor.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Razor Mains Discord](https://discord.gg/6qGZNQkWBX)
 * [Legend of Wolvendom: Razor In-Depth Written Guide](https://keqingmains.com/razor/)
-
-## ![](/assets/element_electro.png) Razor
-
-![](/assets/characters/gacha/Razor.png)
 
 ## Base Stats
 

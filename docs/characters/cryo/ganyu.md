@@ -4,14 +4,13 @@ description: The secretary at Yuehai Pavilion. The blood of the qilin, an illumi
 
 # Ganyu
 
+![](/assets/characters/gacha/Ganyu.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Short Ganyu Guide](https://keqingmains.com/ganyu/)
-
-## ![](/assets/element_cryo.png) Ganyu
-
-![](/assets/characters/gacha/Ganyu.png)
 
 ## Base Stats
 

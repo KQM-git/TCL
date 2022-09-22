@@ -4,6 +4,8 @@ description: No. 11 of The Harbingers, also known as "Childe." His name is highl
 
 # Tartaglia
 
+![](/assets/characters/gacha/Tartaglia.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -11,10 +13,6 @@ description: No. 11 of The Harbingers, also known as "Childe." His name is highl
 * [Childe Mains Discord](https://discord.gg/Childe)
 * [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
 * [Childe Guide](https://keqingmains.com/tartaglia/)
-
-## ![](/assets/element_hydro.png) Tartaglia
-
-![](/assets/characters/gacha/Tartaglia.png)
 
 ## Base Stats
 

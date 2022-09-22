@@ -4,11 +4,10 @@ description: 'The capable and reliable deputy leader of the "Arataki Gang." Plea
 
 # Kuki Shinobu
 
+![](/assets/characters/gacha/Kuki_Shinobu.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
-## ![](/assets/element_electro.png) Kuki Shinobu
-
-![](/assets/characters/gacha/Kuki_Shinobu.png)
 
 ## Base Stats
 

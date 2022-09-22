@@ -4,6 +4,8 @@ description: An alchemist filled with curiosity about all things. She researches
 
 # Sucrose
 
+![](/assets/characters/gacha/Sucrose.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -11,10 +13,6 @@ description: An alchemist filled with curiosity about all things. She researches
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
 * [8 Minute Quick Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
-
-## ![](/assets/element_anemo.png) Sucrose
-
-![](/assets/characters/gacha/Sucrose.png)
 
 ## Base Stats
 

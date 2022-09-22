@@ -4,17 +4,16 @@ description: A young man carrying a longsword who is frequently seen at book boo
 
 # Xingqiu
 
+![](/assets/characters/gacha/Xingqiu.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)  
 * [A Revised Xingqiu Handbook](https://keqingmains.com/xingqiu-short/)  
 * [Extended Xingqiu Guide: Prospector of Precipitation](https://keqingmains.com/xingqiu-extended/)  
 * [5 Minute Quick Guide to Xingqiu](https://youtu.be/EiOP60N4p58)  
-
-## ![](/assets/element_hydro.png) Xingqiu
-
-![](/assets/characters/gacha/Xingqiu.png)
 
 ## Base Stats
 

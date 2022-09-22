@@ -4,16 +4,14 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 # Zhongli
 
+![](/assets/characters/gacha/Zhongli.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
 
 * [Full Zhongli Written Guide](https://keqingmains.com/zhong-li/)
 * [Zhongli Mains Discord](https://discord.gg/3h5uepPXKr)
-
-## ![](/assets/element_geo.png) Zhongli
-
-![](/assets/characters/gacha/Zhongli.png)
 
 ## Base Stats
 

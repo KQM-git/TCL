@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Mona
 
+![](/assets/characters/gacha/Mona.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -15,11 +17,6 @@ import { getSkillName } from '@site/src/utils/skill'
 * [Full Mona Written Guide: The Astrological Guide to Mona Megistus](https://keqingmains.com/mona/)
 * [Optimal Mona Attack String](../../evidence/characters/hydro/mona.md#what-attack-string-combo-outputs-the-highest-dps-for-mona) *by Baezal\#0868*
 * [Mona Omen Extension Explained](../../evidence/characters/hydro/mona.md#mona-omen-extension-extended) *by Gibbigobo\#9750 \(aka LACola\)*
-
-
-## ![](/assets/element_hydro.png) Mona
-
-![](/assets/characters/gacha/Mona.png)
 
 ## Base Stats
 
