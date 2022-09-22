@@ -30,7 +30,7 @@ import Skill from '@site/src/components/char/Skill'
 <Tabs>
 <TabItem value='na' label='Normal Attacks'>
 <h3>{getSkillName(char, 'na')}</h3>
-<div class="talent-columns">
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -44,7 +44,7 @@ import Skill from '@site/src/components/char/Skill'
 | Recovery | N/A | 238 | 159.53%/s | - | - |
 
 </div>
-<div class="talent-columns">
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -58,13 +58,7 @@ import Skill from '@site/src/components/char/Skill'
 | N6C | 861.47% |  |  | - | - |
 
 </div>
-
-* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
-* Hu Tao's Charged Attacks ghost through small enemies.
-* Hu Tao's [Vape MV/s](/assets/hutaovapemvs.jpg)
-
-From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
-
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
@@ -73,14 +67,23 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Low Plunge DMG | 220% | 100 | 4 |
 | High Plunge DMG | 274.79% | 150 | 7 |
 
+</div>
+
+**Notes**
+* Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
+* Hu Tao's Charged Attacks ghost through small enemies.
+* Hu Tao's [Vape MV/s](/assets/hutaovapemvs.jpg)
+
+From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
+
 </TabItem>
 
 <TabItem value='e' label='Skill'>
 <h3>{getSkillName(char, 'e')}</h3>
-<div class="talent-columns">
+<div class='talent-columns'>
 <div>
-<Skill char={char} skill='e' sectionFilter="" />
-<Skill char={char} skill='e' sectionFilter="Paramita Papilio" />
+<Skill char={char} skill='e' sectionFilter='' />
+<Skill char={char} skill='e' sectionFilter='Paramita Papilio' />
 </div>
 
 | Attribute | Paramita Papilio |
@@ -96,8 +99,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Casting Impulse Type | 3 |
 
 </div>
-<div class="talent-columns">
-<Skill char={char} skill='e' sectionFilter="Blood Blossom" />
+<div class='talent-columns'>
+<Skill char={char} skill='e' sectionFilter='Blood Blossom' />
 
 | Attribute | Blood Blossom |
 | :--- | :--- |
@@ -127,8 +130,8 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 <TabItem value='q' label='Burst'>
 <h3>{getSkillName(char, 'q')}</h3>
-<div class="talent-columns">
-<Skill char={char} skill='q' />
+<div class='talent-columns'>
+<Skill char={char} skill='q' sectionFilter=''/>
 
 | Attribute | Burst |
 | :--- | :--- |

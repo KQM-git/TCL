@@ -7,6 +7,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diluc
 
+![](/assets/characters/gacha/Diluc.png)
+
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
@@ -14,10 +16,6 @@ import { getSkillName } from '@site/src/utils/skill'
 * [Diluc: The Dark Side of the Dawn (In-Depth Written Guide)](https://keqingmains.com/diluc/)
 * [3 Minute Guide to Diluc](https://www.youtube.com/watch?v=KdBdeGvtyUM)
 * [Diluc Mains Discord](https://discord.gg/af9MWyd)
-
-## ![](/assets/element_pyro.png) Diluc
-
-![](/assets/characters/gacha/Diluc.png)
 
 ## Base Stats
 
@@ -30,7 +28,9 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
-<TabItem value='na' label={getSkillName(char, 'na')}>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -40,6 +40,8 @@ import Skill from '@site/src/components/char/Skill'
 | 3-Hit | 181.54% | 115 | 264.69%/s | 119.03 | 3 |
 | 4-Hit | 246.16% | 181 | 249.78%/s | 161.46 | 6 |
 
+</div>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
@@ -47,6 +49,8 @@ import Skill from '@site/src/components/char/Skill'
 | Slash | 126.4% | 30 | 252.8%/s | 60 | 3 |
 | Final Slash | 229.1% | 29 | 474%/s | 120 | 6 |
 
+</div>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
@@ -55,10 +59,13 @@ import Skill from '@site/src/components/char/Skill'
 | Low Plunge DMG | 328.81% | 150 | 4 |
 | High Plunge DMG | 410.7% | 200 | 7 |
 
+</div>
 </TabItem>
 
-<TabItem value='e' label={getSkillName(char, 'e')}>
-<Skill char={char} skill='e' />
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' sectionFilter=''/>
 
 | Attribute | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
 | :--- | :--- | :--- | :--- |
@@ -75,6 +82,8 @@ import Skill from '@site/src/components/char/Skill'
 | Poise Damage | 120 | 120 | 120 |
 | Impulse Type | 4 | 5 | 6 |
 
+</div>
+
 **Notes**
 * The cooldown starts after the first cast.
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
@@ -83,8 +92,16 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 
-<TabItem value='q' label={getSkillName(char, 'q')}>
-<Skill char={char} skill='q' />
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q' sectionFilter=''/>
+<div>
+
+| Attribute | Field |
+| :--- | :--- |
+| Infuse GU | 1A |
+| Duration | 8s | 
 
 | Attribute | Slashing DMG | DoT DMG | Explosion DMG |
 | :--- | :--- | :--- | :--- |
@@ -104,10 +121,8 @@ import Skill from '@site/src/components/char/Skill'
 | Poise Damage | Cast: 400 <br/> 1st Part: 100 <br/> 2nd Part: 100 | 100 | 100 |
 | Impulse Type | Cast: 3 <br/> 1st Part: 4 <br/> 2nd Part: 5 | Heavy, 900, 0 | 8 |
 
-| Attribute | Field |
-| :--- | :--- |
-| Infuse GU | 1A |
-| Duration | 8s | 
+</div>
+</div>
 
 **Notes**
 * The ICD for **Dawn** is shared between Slashing DMG, DoT DMG, and Explosions DMG.
@@ -142,7 +157,6 @@ import Passive from '@site/src/components/char/Passive'
 import ConstellationsFull from '@site/src/components/char/ConstellationsFull'
 
 <ConstellationsFull char={char} />
-
 
 ## Full Talent Values
 
