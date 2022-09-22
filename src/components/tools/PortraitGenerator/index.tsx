@@ -2,9 +2,9 @@ import React, { useState } from 'react'
 
 import CharSelector from './CharSelector'
 import Preview from './Preview'
+
 import TabItem from '@theme/TabItem'
 import Tabs from '@theme/Tabs'
-
 
 export interface PortraitIcon {
   name: string
@@ -13,6 +13,7 @@ export interface PortraitIcon {
     name: string
     path: string
   }
+  others?: PortraitIcon[]
 }
 
 const elements = [{
@@ -52,8 +53,31 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
     path: `/assets/characters/icon/Keqing.png`
   }] as PortraitIcon[])
 
+  const [multi, setMulti] = useState(false)
+
+  function add(icon: PortraitIcon) {
+    if (multi) {
+      if (!active[active.length - 1]) {
+        setActive([icon])
+        return
+      }
+      const last = Object.assign({}, active[active.length - 1])
+      if (!last.others) last.others = []
+      if (last.others.length < 3) {
+        last.others.push(icon)
+        setActive([...active.slice(0, active.length - 1), last])
+        return
+      }
+    }
+    setActive([...active, icon])
+  }
+
   return <div>
     <Preview active={active} remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])} />
+
+    {multi ?
+      <button onClick={() => setMulti(false)}>End multi mode</button> :
+      <button onClick={() => setMulti(true)}>Start multi mode</button>}
 
     <h2>Characters</h2>
     <Tabs>
@@ -66,21 +90,21 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
               name,
               path: `/assets/characters/icon/${name.replace(/ /g, "_")}.png`
             }))}
-            onClick={icon => setActive([...active, icon])}
+            onClick={icon => add(icon)}
           />
           {relevant && <CharSelector
             icons={travelers.map(traveler => ({
               ...traveler,
               elementalIcon: relevant
             }))}
-            onClick={icon => setActive([...active, icon])}
+            onClick={icon => add(icon)}
           />}
         </TabItem>
       })}
     </Tabs>
 
     <h2>Elements</h2>
-    <CharSelector icons={elements} onClick={icon => setActive([...active, icon])} />
+    <CharSelector icons={elements} onClick={icon => add(icon)} />
 
     <h2>Misc</h2>
     <CharSelector
@@ -91,7 +115,7 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
         },
         ...travelers
       ]}
-      onClick={icon => setActive([...active, icon])}
+      onClick={icon => add(icon)}
     />
   </div>
 }
