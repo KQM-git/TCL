@@ -1,0 +1,503 @@
+{
+  "name": "Aether (Anemo)",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 911.791,
+    "attackBase": 17.808,
+    "defenseBase": 57.225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Foreign Ironwind",
+        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "44.5%",
+              "48.1%",
+              "51.7%",
+              "56.9%",
+              "60.5%",
+              "64.6%",
+              "70.3%",
+              "76.0%",
+              "81.7%",
+              "87.9%",
+              "94.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.4%",
+              "47.0%",
+              "50.5%",
+              "55.5%",
+              "59.1%",
+              "63.1%",
+              "68.7%",
+              "74.2%",
+              "79.8%",
+              "85.9%",
+              "91.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "53.0%",
+              "57.3%",
+              "61.6%",
+              "67.8%",
+              "72.1%",
+              "77.0%",
+              "83.8%",
+              "90.6%",
+              "97.3%",
+              "104.7%",
+              "112.1%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "58.3%",
+              "63.1%",
+              "67.8%",
+              "74.6%",
+              "79.3%",
+              "84.8%",
+              "92.2%",
+              "99.7%",
+              "107.1%",
+              "115.3%",
+              "123.4%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "70.8%",
+              "76.5%",
+              "82.3%",
+              "90.5%",
+              "96.3%",
+              "102.9%",
+              "111.9%",
+              "121.0%",
+              "130.0%",
+              "139.9%",
+              "149.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.9%+60.7%",
+              "60.4%+65.7%",
+              "65.0%+70.6%",
+              "71.5%+77.7%",
+              "76.1%+82.6%",
+              "81.3%+88.2%",
+              "88.4%+96.0%",
+              "95.6%+103.8%",
+              "102.7%+111.5%",
+              "110.5%+120.0%",
+              "118.3%+128.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Palm Vortex",
+        "desc": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous **Anemo DMG** to opponents in front of you.\nThe vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\n\n**Hold**\nDMG and AoE will gradually increase.\n\n**Elemental Absorption**\nIf the vortex comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**You discussed the way to grasp the formless wind with Paimon.**",
+        "talentTable": [
+          {
+            "name": "Initial Cutting DMG",
+            "values": [
+              "12.0%",
+              "12.9%",
+              "13.8%",
+              "15.0%",
+              "15.9%",
+              "16.8%",
+              "18.0%",
+              "19.2%",
+              "20.4%",
+              "21.6%",
+              "22.8%",
+              "24.0%",
+              "25.5%"
+            ]
+          },
+          {
+            "name": "Max Cutting DMG",
+            "values": [
+              "16.8%",
+              "18.1%",
+              "19.3%",
+              "21.0%",
+              "22.3%",
+              "23.5%",
+              "25.2%",
+              "26.9%",
+              "28.6%",
+              "30.2%",
+              "31.9%",
+              "33.6%",
+              "35.7%"
+            ]
+          },
+          {
+            "name": "Initial Storm DMG",
+            "values": [
+              "176%",
+              "189%",
+              "202%",
+              "220%",
+              "233%",
+              "246%",
+              "264%",
+              "282%",
+              "299%",
+              "317%",
+              "334%",
+              "352%",
+              "374%"
+            ]
+          },
+          {
+            "name": "Max Storm DMG",
+            "values": [
+              "192%",
+              "206%",
+              "221%",
+              "240%",
+              "254%",
+              "269%",
+              "288%",
+              "307%",
+              "326%",
+              "346%",
+              "365%",
+              "384%",
+              "408%"
+            ]
+          },
+          {
+            "name": "Base CD",
+            "value": "5.0s"
+          },
+          {
+            "name": "Max Charging CD",
+            "value": "8.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Gust Surge",
+      "desc": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous **Anemo DMG**.\n\n**Elemental Absorption**\nIf the tornado comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**You and Paimon studied the flapping of a butterfly's wings.**",
+      "talentTable": [
+        {
+          "name": "Tornado DMG",
+          "values": [
+            "80.8%",
+            "86.9%",
+            "92.9%",
+            "101.0%",
+            "107.1%",
+            "113.1%",
+            "121.2%",
+            "129.3%",
+            "137.4%",
+            "145.4%",
+            "153.5%",
+            "161.6%",
+            "171.7%"
+          ]
+        },
+        {
+          "name": "Additional Elemental DMG",
+          "values": [
+            "24.8%",
+            "26.7%",
+            "28.5%",
+            "31.0%",
+            "32.9%",
+            "34.7%",
+            "37.2%",
+            "39.7%",
+            "42.2%",
+            "44.6%",
+            "47.1%",
+            "49.6%",
+            "52.7%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "6.0s"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Anemo"
+    },
+    "passive": [
+      {
+        "name": "Slitting Wind",
+        "desc": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.",
+        "minAscension": 1
+      },
+      {
+        "name": "Second Wind",
+        "desc": "**Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s.",
+        "minAscension": 4
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Raging Vortex",
+        "desc": "**Palm Vortex** pulls in opponents and objects within a 5m radius."
+      },
+      {
+        "name": "Uprising Whirlwind",
+        "desc": "Increases Energy Recharge by 16%."
+      },
+      {
+        "name": "Sweeping Gust",
+        "desc": "Increases the Level of **Gust Surge** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Cherishing Breezes",
+        "desc": "Reduces DMG taken while casting **Palm Vortex** by 10%."
+      },
+      {
+        "name": "Vortex Stellaris",
+        "desc": "Increases the Level of **Palm Vortex** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Intertwined Winds",
+        "desc": "Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 681.154541015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 42.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1165.1328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 73.125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1810.4371
+        },
+        {
+          "stat": "Base DEF",
+          "value": 113.625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2294.415283203125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2778.3935546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3262.371826171875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

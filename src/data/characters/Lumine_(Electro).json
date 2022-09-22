@@ -1,0 +1,493 @@
+{
+  "name": "Lumine (Electro)",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 911.791,
+    "attackBase": 17.808,
+    "defenseBase": 57.225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Foreign Thundershock",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "44.5%",
+              "48.1%",
+              "51.7%",
+              "56.9%",
+              "60.5%",
+              "64.6%",
+              "70.3%",
+              "76.0%",
+              "81.7%",
+              "87.9%",
+              "94.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.4%",
+              "47.0%",
+              "50.5%",
+              "55.5%",
+              "59.1%",
+              "63.1%",
+              "68.7%",
+              "74.2%",
+              "79.8%",
+              "85.9%",
+              "91.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "53.0%",
+              "57.3%",
+              "61.6%",
+              "67.8%",
+              "72.1%",
+              "77.0%",
+              "83.8%",
+              "90.6%",
+              "97.3%",
+              "104.7%",
+              "112.1%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "58.3%",
+              "63.1%",
+              "67.8%",
+              "74.6%",
+              "79.3%",
+              "84.8%",
+              "92.2%",
+              "99.7%",
+              "107.1%",
+              "115.3%",
+              "123.4%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "70.8%",
+              "76.5%",
+              "82.3%",
+              "90.5%",
+              "96.3%",
+              "102.9%",
+              "111.9%",
+              "121.0%",
+              "130.0%",
+              "139.9%",
+              "149.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.9%+72.2%",
+              "60.4%+78.1%",
+              "65.0%+84.0%",
+              "71.5%+92.4%",
+              "76.1%+98.3%",
+              "81.3%+105.0%",
+              "88.4%+114.2%",
+              "95.6%+123.5%",
+              "102.7%+132.7%",
+              "110.5%+142.8%",
+              "118.3%+152.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lightning Blade",
+        "desc": "Unleashes three swift thunder shadows that deal **Electro DMG** to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\n**Abundance Amulets**\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\n·Restores Elemental Energy\n·Increases Energy Recharge during the Abundance Amulet's duration.\n\n**You and Paimon discuss the paths by which electricity might flow.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "79%",
+              "85%",
+              "90%",
+              "98%",
+              "104%",
+              "110%",
+              "118%",
+              "126%",
+              "134%",
+              "142%",
+              "149%",
+              "157%",
+              "167%"
+            ]
+          },
+          {
+            "name": "Energy Regeneration",
+            "values": [
+              "3.0 Per Amulet",
+              "3.0 Per Amulet",
+              "3.0 Per Amulet",
+              "3.5 Per Amulet",
+              "3.5 Per Amulet",
+              "3.5 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet",
+              "4.0 Per Amulet"
+            ]
+          },
+          {
+            "name": "Energy Recharge Increase",
+            "value": "20%"
+          },
+          {
+            "name": "Duration",
+            "value": "6.0s"
+          },
+          {
+            "name": "Abundance Amulet Duration",
+            "value": "15.0"
+          },
+          {
+            "name": "CD",
+            "value": "13.5s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Bellowing Thunder",
+      "desc": "You call upon the protection of lightning, knocking nearby opponents back and dealing **Electro DMG** to them.\n\n**Lightning Shroud**\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing **Electro DMG.**\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.\n\n**You and Paimon studied the light that flashes through the clouds.**",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "114.4%",
+            "123.0%",
+            "131.6%",
+            "143.0%",
+            "151.6%",
+            "160.2%",
+            "171.6%",
+            "183.0%",
+            "194.5%",
+            "205.9%",
+            "217.4%",
+            "228.8%",
+            "243.1%"
+          ]
+        },
+        {
+          "name": "Falling Thunder DMG",
+          "values": [
+            "32.8%",
+            "35.3%",
+            "37.7%",
+            "41.0%",
+            "43.5%",
+            "45.9%",
+            "49.2%",
+            "52.5%",
+            "55.8%",
+            "59.0%",
+            "62.3%",
+            "65.6%",
+            "69.7%"
+          ]
+        },
+        {
+          "name": "Energy Regeneration",
+          "values": [
+            "0.8",
+            "0.8",
+            "0.8",
+            "0.9",
+            "0.9",
+            "0.9",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0",
+            "1.0"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Thunderflash",
+        "desc": "When another nearby character in the party obtains an Abundance Amulet created by **Lightning Blade**, **Lightning Blade's** CD is decreased by 1.5s.",
+        "minAscension": 1
+      },
+      {
+        "name": "Resounding Roar",
+        "desc": "Increases the Energy Recharge effect granted by **Lightning Blade**'s Abundance Amulet by 10% of the Traveler's Energy Recharge.",
+        "minAscension": 4
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Spring Thunder of Fertility",
+        "desc": "The number of Abundance Amulets that can be generated using **Lightning Blade** is increased to 3."
+      },
+      {
+        "name": "Violet Vehemence",
+        "desc": "When Falling Thunder created by **Bellowing Thunder** hits an opponent, it will decrease their **Electro RES** by 15% for 8s."
+      },
+      {
+        "name": "Distant Crackling",
+        "desc": "Increases the Level of **Bellowing Thunder** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Fickle Cloudstrike",
+        "desc": "When a character obtains Abundance Amulets generated by **Lightning Blade**, if this character's Energy is less than 35%, the Energy restored by the Abundance Amulets is increased by 100%."
+      },
+      {
+        "name": "Clamor in the Wilds",
+        "desc": "Increases the Level of **Lightning Blade** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "World-Shaker",
+        "desc": "Every 2 Falling Thunder attacks triggered by **Bellowing Thunder** will greatly increase the DMG dealt by the next Falling Thunder, which will deal 200% of its original DMG and will restore an additional 1 Energy to the current character."
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 681.154541015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 42.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1165.1328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 73.125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1810.4371
+        },
+        {
+          "stat": "Base DEF",
+          "value": 113.625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2294.415283203125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2778.3935546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3262.371826171875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "name": "Aether (Dendro)",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 911.791,
+    "attackBase": 17.808,
+    "defenseBase": 57.225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Foreign Fieldcleaver",
+        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "44.5%",
+              "48.1%",
+              "51.7%",
+              "56.9%",
+              "60.5%",
+              "64.6%",
+              "70.3%",
+              "76.0%",
+              "81.7%",
+              "87.9%",
+              "94.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "43.4%",
+              "47.0%",
+              "50.5%",
+              "55.5%",
+              "59.1%",
+              "63.1%",
+              "68.7%",
+              "74.2%",
+              "79.8%",
+              "85.9%",
+              "91.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "53.0%",
+              "57.3%",
+              "61.6%",
+              "67.8%",
+              "72.1%",
+              "77.0%",
+              "83.8%",
+              "90.6%",
+              "97.3%",
+              "104.7%",
+              "112.1%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "58.3%",
+              "63.1%",
+              "67.8%",
+              "74.6%",
+              "79.3%",
+              "84.8%",
+              "92.2%",
+              "99.7%",
+              "107.1%",
+              "115.3%",
+              "123.4%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "70.8%",
+              "76.5%",
+              "82.3%",
+              "90.5%",
+              "96.3%",
+              "102.9%",
+              "111.9%",
+              "121.0%",
+              "130.0%",
+              "139.9%",
+              "149.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.9%+60.7%",
+              "60.4%+65.7%",
+              "65.0%+70.6%",
+              "71.5%+77.7%",
+              "76.1%+82.6%",
+              "81.3%+88.2%",
+              "88.4%+96.0%",
+              "95.6%+103.8%",
+              "102.7%+111.5%",
+              "110.5%+120.0%",
+              "118.3%+128.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Razorgrass Blade",
+        "desc": "With a flourish of your blade, you unleash a spray of razor-sharp leaves that go before you and deal **Dendro DMG**.\n\n**You and Paimon observed the flowing edges of grass and leaf.**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "230%",
+              "248%",
+              "265%",
+              "288%",
+              "305%",
+              "323%",
+              "346%",
+              "369%",
+              "392%",
+              "415%",
+              "438%",
+              "461%",
+              "490%"
+            ]
+          },
+          {
+            "name": "CD",
+            "value": "8.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Surgent Manifestation",
+      "desc": "Calling upon the might of the flora all around you, you create a Lea Lotus Lamp. This Lamp will deal continuous **Dendro DMG** to opponents within its AoE.\n\n**Lotuslight Transfiguration**\nThe Lea Lotus Lamp will undergo the following changes after it comes into contact with **Hydro**/**Electro**/**Pyro**:\n·**Hydro**: the Lamp's AoE and the AoE of its attacks are increased.\n·**Electro**: the Lamp's ATK SPD is increased.\n·**Pyro**: the Lamp will explode after a short delay and then disappear, dealing **AoE Dendro DMG**.\nThe Lea Lotus Lamp can only undergo one Lotuslight Transfiguration in its duration.\n\nOnly one Lamp created by the Traveler can exist at any one time.\n\n**You and Paimon studied the sounds of plants that sprout after the rain.**",
+      "talentTable": [
+        {
+          "name": "Lea Lotus Lamp Attack DMG",
+          "values": [
+            "80.2%",
+            "86.2%",
+            "92.2%",
+            "100.2%",
+            "106.2%",
+            "112.2%",
+            "120.2%",
+            "128.3%",
+            "136.3%",
+            "144.3%",
+            "152.3%",
+            "160.3%",
+            "170.3%"
+          ]
+        },
+        {
+          "name": "Explosion DMG",
+          "values": [
+            "400.8%",
+            "430.9%",
+            "460.9%",
+            "501.0%",
+            "531.1%",
+            "561.1%",
+            "601.2%",
+            "641.3%",
+            "681.4%",
+            "721.4%",
+            "761.5%",
+            "801.6%",
+            "851.7%"
+          ]
+        },
+        {
+          "name": "Lea Lotus Lamp Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "Verdant Overgrowth",
+        "desc": "**Lea Lotus Lamp** will obtain one level of Overflowing Lotuslight every second it is on the field, increasing the Elemental Mastery of active character(s) within its AoE by 6. Overflowing Lotuslight has a maximum of 10 stacks.",
+        "minAscension": 1
+      },
+      {
+        "name": "Verdant Luxury",
+        "desc": "Every point of Elemental Mastery the Traveler possesses increases the DMG dealt by **Razorgrass Blade** by 0.15% and the DMG dealt by **Surgent Manifestation** by 0.1%.",
+        "minAscension": 4
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Symbiotic Creeper",
+        "desc": "After **Razorgrass Blade** hits an opponent, it will regenerate 3.5 Energy for the Traveler."
+      },
+      {
+        "name": "Green Resilience",
+        "desc": "**Lea Lotus Lamp**'s duration is increased by 3s."
+      },
+      {
+        "name": "Whirling Weeds",
+        "desc": "Increases the Level of **Razorgrass Blade** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Treacle Grass",
+        "desc": "After the **Lea Lotus Lamp** triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent \"Verdant Overgrowth.\"\nYou must have unlocked this Passive Talent first."
+      },
+      {
+        "name": "Viridian Transience",
+        "desc": "Increases the Level of **Surgent Manifestation** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Withering Aggregation",
+        "desc": "The **Dendro DMG Bonus** of the character under the effect of Overflowing Lotuslight as created by the **Lea Lotus Lamp** is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element."
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 681.154541015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 42.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "ATK%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1165.1328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 73.125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1810.4371
+        },
+        {
+          "stat": "Base DEF",
+          "value": 113.625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2294.415283203125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2778.3935546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3262.371826171875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "ATK%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}
