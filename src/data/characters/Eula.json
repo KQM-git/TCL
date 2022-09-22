@@ -23,290 +23,190 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Favonius Bladework - Edel",
-          "desc": "**Normal Attack**\nPerform up to 5 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "89.7%",
-                "97.0%",
-                "104.3%",
-                "114.8%",
-                "122.1%",
-                "130.4%",
-                "141.9%",
-                "153.4%",
-                "164.9%",
-                "177.4%",
-                "191.7%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "93.6%",
-                "101.2%",
-                "108.8%",
-                "119.7%",
-                "127.3%",
-                "136.0%",
-                "147.9%",
-                "159.9%",
-                "171.9%",
-                "184.9%",
-                "199.9%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "56.8%+56.8%",
-                "61.4%+61.4%",
-                "66.0%+66.0%",
-                "72.6%+72.6%",
-                "77.3%+77.3%",
-                "82.6%+82.6%",
-                "89.8%+89.8%",
-                "97.1%+97.1%",
-                "104.4%+104.4%",
-                "112.3%+112.3%",
-                "121.4%+121.4%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "112.6%",
-                "121.8%",
-                "131.0%",
-                "144.1%",
-                "153.2%",
-                "163.7%",
-                "178.1%",
-                "192.5%",
-                "206.9%",
-                "222.7%",
-                "240.7%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "71.8%+71.8%",
-                "77.7%+77.7%",
-                "83.5%+83.5%",
-                "91.9%+91.9%",
-                "97.7%+97.7%",
-                "104.4%+104.4%",
-                "113.6%+113.6%",
-                "122.8%+122.8%",
-                "132.0%+132.0%",
-                "142.0%+142.0%",
-                "153.5%+153.5%"
-              ]
-            },
-            {
-              "name": "Charged Attack Spinning DMG",
-              "values": [
-                "68.8%",
-                "74.4%",
-                "80.0%",
-                "88.0%",
-                "93.6%",
-                "100.0%",
-                "108.8%",
-                "117.6%",
-                "126.4%",
-                "136.0%",
-                "147.0%"
-              ]
-            },
-            {
-              "name": "Charged Attack Final DMG",
-              "values": [
-                "124%",
-                "135%",
-                "145%",
-                "159%",
-                "169%",
-                "181%",
-                "197%",
-                "213%",
-                "229%",
-                "246%",
-                "266%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "40.0/s"
-            },
-            {
-              "name": "Max Duration",
-              "value": "5.0s"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "74.6%",
-                "80.7%",
-                "86.7%",
-                "95.4%",
-                "101.5%",
-                "108.4%",
-                "118.0%",
-                "127.5%",
-                "137.0%",
-                "147.4%",
-                "159.4%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "149%/186%",
-                "161%/201%",
-                "173%/217%",
-                "191%/238%",
-                "203%/253%",
-                "217%/271%",
-                "236%/295%",
-                "255%/318%",
-                "274%/342%",
-                "295%/368%",
-                "319%/398%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Icetide Vortex",
-          "desc": "Sharp frost, swift blade.\n\n**Press**\nSlashes swiftly, dealing **Cryo DMG**.\nWhen it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.\n\n**Grimheart**\nIncreases Eula's resistance to interruption and DEF.\n\n**Hold**\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing **AoE Cryo DMG** to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and **Cryo RES** decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals **Cryo DMG** to nearby opponents.\n\n**\"So the waves roiled, swallowing the crown of the nobles. And ever after did each drop amidst the icy waves reflect a golden crown, each and every droplet of the spray shining with its light.\"**",
-          "talentTable": [
-            {
-              "name": "Press DMG",
-              "values": [
-                "146%",
-                "157%",
-                "168%",
-                "183%",
-                "194%",
-                "205%",
-                "220%",
-                "234%",
-                "249%",
-                "264%",
-                "278%",
-                "293%",
-                "311%"
-              ]
-            },
-            {
-              "name": "Hold DMG",
-              "values": [
-                "246%",
-                "264%",
-                "282%",
-                "307%",
-                "325%",
-                "344%",
-                "368%",
-                "393%",
-                "418%",
-                "442%",
-                "467%",
-                "491%",
-                "522%"
-              ]
-            },
-            {
-              "name": "Icewhirl Brand DMG",
-              "values": [
-                "96%",
-                "103%",
-                "110%",
-                "120%",
-                "127%",
-                "134%",
-                "144%",
-                "154%",
-                "163%",
-                "173%",
-                "182%",
-                "192%",
-                "204%"
-              ]
-            },
-            {
-              "name": "DEF Bonus",
-              "value": "30% Per Stack"
-            },
-            {
-              "name": "Grimheart Duration",
-              "value": "18.0s"
-            },
-            {
-              "name": "Physical RES Decrease",
-              "values": [
-                "16%",
-                "17%",
-                "18%",
-                "19%",
-                "20%",
-                "21%",
-                "22%",
-                "23%",
-                "24%",
-                "25%",
-                "25%",
-                "25%",
-                "25%"
-              ]
-            },
-            {
-              "name": "Cryo RES Decrease",
-              "values": [
-                "16%",
-                "17%",
-                "18%",
-                "19%",
-                "20%",
-                "21%",
-                "22%",
-                "23%",
-                "24%",
-                "25%",
-                "25%",
-                "25%",
-                "25%"
-              ]
-            },
-            {
-              "name": "RES Decrease Duration",
-              "value": "7.0s"
-            },
-            {
-              "name": "Press CD",
-              "value": "4.0s"
-            },
-            {
-              "name": "CD (hold)",
-              "value": "10.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Glacial Illumination",
-        "desc": "Brandishes her greatsword, dealing **Cryo DMG** to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will explode immediately.\n\n**It is easy to sink. But even so, she desires to freeze this oncoming tide.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Favonius Bladework - Edel",
+        "desc": "**Normal Attack**\nPerform up to 5 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
+            "values": [
+              "89.7%",
+              "97.0%",
+              "104.3%",
+              "114.8%",
+              "122.1%",
+              "130.4%",
+              "141.9%",
+              "153.4%",
+              "164.9%",
+              "177.4%",
+              "191.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "93.6%",
+              "101.2%",
+              "108.8%",
+              "119.7%",
+              "127.3%",
+              "136.0%",
+              "147.9%",
+              "159.9%",
+              "171.9%",
+              "184.9%",
+              "199.9%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "56.8%+56.8%",
+              "61.4%+61.4%",
+              "66.0%+66.0%",
+              "72.6%+72.6%",
+              "77.3%+77.3%",
+              "82.6%+82.6%",
+              "89.8%+89.8%",
+              "97.1%+97.1%",
+              "104.4%+104.4%",
+              "112.3%+112.3%",
+              "121.4%+121.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "112.6%",
+              "121.8%",
+              "131.0%",
+              "144.1%",
+              "153.2%",
+              "163.7%",
+              "178.1%",
+              "192.5%",
+              "206.9%",
+              "222.7%",
+              "240.7%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "71.8%+71.8%",
+              "77.7%+77.7%",
+              "83.5%+83.5%",
+              "91.9%+91.9%",
+              "97.7%+97.7%",
+              "104.4%+104.4%",
+              "113.6%+113.6%",
+              "122.8%+122.8%",
+              "132.0%+132.0%",
+              "142.0%+142.0%",
+              "153.5%+153.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Spinning DMG",
+            "values": [
+              "68.8%",
+              "74.4%",
+              "80.0%",
+              "88.0%",
+              "93.6%",
+              "100.0%",
+              "108.8%",
+              "117.6%",
+              "126.4%",
+              "136.0%",
+              "147.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "124%",
+              "135%",
+              "145%",
+              "159%",
+              "169%",
+              "181%",
+              "197%",
+              "213%",
+              "229%",
+              "246%",
+              "266%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "74.6%",
+              "80.7%",
+              "86.7%",
+              "95.4%",
+              "101.5%",
+              "108.4%",
+              "118.0%",
+              "127.5%",
+              "137.0%",
+              "147.4%",
+              "159.4%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "149%/186%",
+              "161%/201%",
+              "173%/217%",
+              "191%/238%",
+              "203%/253%",
+              "217%/271%",
+              "236%/295%",
+              "255%/318%",
+              "274%/342%",
+              "295%/368%",
+              "319%/398%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Icetide Vortex",
+        "desc": "Sharp frost, swift blade.\n\n**Press**\nSlashes swiftly, dealing **Cryo DMG**.\nWhen it hits an opponent, Eula gains a stack of Grimheart that stacks up to 2 times. These stacks can only be gained once every 0.3s.\n\n**Grimheart**\nIncreases Eula's resistance to interruption and DEF.\n\n**Hold**\nWielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing **AoE Cryo DMG** to opponents in front of her.\nIf Grimheart stacks are consumed, surrounding opponents will have their Physical RES and **Cryo RES** decreased.\nEach consumed stack of Grimheart will be converted into an Icewhirl Brand that deals **Cryo DMG** to nearby opponents.\n\n**\"So the waves roiled, swallowing the crown of the nobles. And ever after did each drop amidst the icy waves reflect a golden crown, each and every droplet of the spray shining with its light.\"**",
+        "talentTable": [
+          {
+            "name": "Press DMG",
+            "values": [
+              "146%",
+              "157%",
+              "168%",
+              "183%",
+              "194%",
+              "205%",
+              "220%",
+              "234%",
+              "249%",
+              "264%",
+              "278%",
+              "293%",
+              "311%"
+            ]
+          },
+          {
+            "name": "Hold DMG",
             "values": [
               "246%",
               "264%",
@@ -324,101 +224,199 @@
             ]
           },
           {
-            "name": "Lightfall Sword Base DMG",
+            "name": "Icewhirl Brand DMG",
             "values": [
-              "367.0%",
-              "396.9%",
-              "426.8%",
-              "469.5%",
-              "499.4%",
-              "533.5%",
-              "580.4%",
-              "627.4%",
-              "674.3%",
-              "725.6%",
-              "784.2%",
-              "853.3%",
-              "922.3%"
+              "96%",
+              "103%",
+              "110%",
+              "120%",
+              "127%",
+              "134%",
+              "144%",
+              "154%",
+              "163%",
+              "173%",
+              "182%",
+              "192%",
+              "204%"
             ]
           },
           {
-            "name": "DMG Per Stack",
+            "name": "DEF Bonus",
+            "value": "30% Per Stack"
+          },
+          {
+            "name": "Grimheart Duration",
+            "value": "18.0s"
+          },
+          {
+            "name": "Physical RES Decrease",
             "values": [
-              "75.0%",
-              "81.1%",
-              "87.2%",
-              "95.9%",
-              "102.0%",
-              "109.0%",
-              "118.6%",
-              "128.2%",
-              "137.8%",
-              "148.2%",
-              "160.2%",
-              "174.3%",
-              "188.4%"
+              "16%",
+              "17%",
+              "18%",
+              "19%",
+              "20%",
+              "21%",
+              "22%",
+              "23%",
+              "24%",
+              "25%",
+              "25%",
+              "25%",
+              "25%"
             ]
           },
           {
-            "name": "Maximum Stacks",
-            "value": "30"
+            "name": "Cryo RES Decrease",
+            "values": [
+              "16%",
+              "17%",
+              "18%",
+              "19%",
+              "20%",
+              "21%",
+              "22%",
+              "23%",
+              "24%",
+              "25%",
+              "25%",
+              "25%",
+              "25%"
+            ]
           },
           {
-            "name": "CD",
-            "value": "20.0s"
+            "name": "RES Decrease Duration",
+            "value": "7.0s"
           },
           {
-            "name": "Energy Cost",
-            "value": "80"
+            "name": "Press CD",
+            "value": "4.0s"
+          },
+          {
+            "name": "CD (hold)",
+            "value": "10.0s"
           }
-        ],
-        "type": "Cryo"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Glacial Illumination",
+      "desc": "Brandishes her greatsword, dealing **Cryo DMG** to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.\nWhile present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.\nOnce its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.\nThis DMG scales on the number of energy stacks the Lightfall Sword has accumulated.\nIf Eula leaves the field, the Lightfall Sword will explode immediately.\n\n**It is easy to sink. But even so, she desires to freeze this oncoming tide.**",
+      "talentTable": [
         {
-          "name": "Roiling Rime",
-          "desc": "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "246%",
+            "264%",
+            "282%",
+            "307%",
+            "325%",
+            "344%",
+            "368%",
+            "393%",
+            "418%",
+            "442%",
+            "467%",
+            "491%",
+            "522%"
+          ]
         },
         {
-          "name": "Wellspring of War-Lust",
-          "desc": "When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of Grimheart.",
-          "minAscension": 4
+          "name": "Lightfall Sword Base DMG",
+          "values": [
+            "367.0%",
+            "396.9%",
+            "426.8%",
+            "469.5%",
+            "499.4%",
+            "533.5%",
+            "580.4%",
+            "627.4%",
+            "674.3%",
+            "725.6%",
+            "784.2%",
+            "853.3%",
+            "922.3%"
+          ]
         },
         {
-          "name": "Aristocratic Introspection",
-          "desc": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.",
-          "minAscension": 0
+          "name": "DMG Per Stack",
+          "values": [
+            "75.0%",
+            "81.1%",
+            "87.2%",
+            "95.9%",
+            "102.0%",
+            "109.0%",
+            "118.6%",
+            "128.2%",
+            "137.8%",
+            "148.2%",
+            "160.2%",
+            "174.3%",
+            "188.4%"
+          ]
+        },
+        {
+          "name": "Maximum Stacks",
+          "value": "30"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
         }
       ],
-      "constellations": [
-        {
-          "name": "Tidal Illusion",
-          "desc": "Every time **Icetide Vortex**'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
-        },
-        {
-          "name": "Lady of Seafoam",
-          "desc": "Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD."
-        },
-        {
-          "name": "Lawrence Pedigree",
-          "desc": "Increases the Level of **Glacial Illumination** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "The Obstinacy of One's Inferiors",
-          "desc": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
-        },
-        {
-          "name": "Chivalric Quality",
-          "desc": "Increases the Level of **Icetide Vortex** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Noble Obligation",
-          "desc": "Lightfall Swords created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy."
-        }
-      ]
-    }
-  ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Roiling Rime",
+        "desc": "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.",
+        "minAscension": 1
+      },
+      {
+        "name": "Wellspring of War-Lust",
+        "desc": "When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of Grimheart.",
+        "minAscension": 4
+      },
+      {
+        "name": "Aristocratic Introspection",
+        "desc": "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Tidal Illusion",
+        "desc": "Every time **Icetide Vortex**'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
+      },
+      {
+        "name": "Lady of Seafoam",
+        "desc": "Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD."
+      },
+      {
+        "name": "Lawrence Pedigree",
+        "desc": "Increases the Level of **Glacial Illumination** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "The Obstinacy of One's Inferiors",
+        "desc": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
+      },
+      {
+        "name": "Chivalric Quality",
+        "desc": "Increases the Level of **Icetide Vortex** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Noble Obligation",
+        "desc": "Lightfall Swords created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

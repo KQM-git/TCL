@@ -1,5 +1,5 @@
 ---
-description:  A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
+description: A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.
 ---
 
 # Traveler (Geo)

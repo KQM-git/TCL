@@ -4,12 +4,11 @@ import { Character, TalentTable, TalentValue } from '@site/src/data/types'
 import { getTalent } from '@site/src/utils/skill'
 import { ReactElement } from 'react-markdown/lib/react-markdown'
 
-export default function Talent({ char, skill, depotIndex }: {
+export default function Talent({ char, skill }: {
   char: Character
-  depotIndex?: number
   skill: number | string
 }) {
-  const talent = getTalent(char, skill, depotIndex)
+  const talent = getTalent(char, skill)
   const table = talent.talentTable
 
   const maxLevel = table.reduce((p, c) => Math.max(p, isValueTable(c) ? c.values.length : 1), 1)

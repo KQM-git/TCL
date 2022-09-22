@@ -23,325 +23,323 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: The Shape of Water",
-          "desc": "**Normal Attack**\nPerforms up to 3 consecutive attacks that take the form of swimming fish, dealing **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Hydro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "68.4%",
-                "73.5%",
-                "78.6%",
-                "85.5%",
-                "90.6%",
-                "95.7%",
-                "102.6%",
-                "109.4%",
-                "116.2%",
-                "123.1%",
-                "129.9%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "61.5%",
-                "66.2%",
-                "70.8%",
-                "76.9%",
-                "81.5%",
-                "86.2%",
-                "92.3%",
-                "98.5%",
-                "104.6%",
-                "110.8%",
-                "116.9%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "94.3%",
-                "101.4%",
-                "108.5%",
-                "117.9%",
-                "125.0%",
-                "132.0%",
-                "141.5%",
-                "150.9%",
-                "160.3%",
-                "169.8%",
-                "179.2%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "148%",
-                "159%",
-                "171%",
-                "185%",
-                "197%",
-                "208%",
-                "222%",
-                "237%",
-                "252%",
-                "267%",
-                "282%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "50.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "56.8%",
-                "61.5%",
-                "66.1%",
-                "72.7%",
-                "77.3%",
-                "82.6%",
-                "89.9%",
-                "97.1%",
-                "104.4%",
-                "112.3%",
-                "120.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "114%/142%",
-                "123%/153%",
-                "132%/165%",
-                "145%/182%",
-                "155%/193%",
-                "165%/206%",
-                "180%/224%",
-                "194%/243%",
-                "209%/261%",
-                "225%/281%",
-                "240%/300%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Kurage's Oath",
-          "desc": "Summons a \"Bake-Kurage\" created from water that can heal her allies.\nUsing this skill will apply the **Wet** status to Sangonomiya Kokomi.\n\n**Bake-Kurage**\nDeals **Hydro DMG** to surrounding opponents and heals nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.\n\n**Kokomi needs timely \"refreshment\" in order to maintain optimal work efficiency**.",
-          "talentTable": [
-            {
-              "name": "Regeneration",
-              "values": [
-                "4.4% Max HP+424",
-                "4.7% Max HP+466",
-                "5.1% Max HP+512",
-                "5.5% Max HP+561",
-                "5.8% Max HP+614",
-                "6.2% Max HP+671",
-                "6.6% Max HP+731",
-                "7.0% Max HP+795",
-                "7.5% Max HP+862",
-                "7.9% Max HP+932",
-                "8.4% Max HP+1006",
-                "8.8% Max HP+1084",
-                "9.4% Max HP+1165"
-              ]
-            },
-            {
-              "name": "Ripple DMG",
-              "values": [
-                "109.2%",
-                "117.4%",
-                "125.6%",
-                "136.5%",
-                "144.7%",
-                "152.9%",
-                "163.8%",
-                "174.7%",
-                "185.6%",
-                "196.5%",
-                "207.5%",
-                "218.4%",
-                "232.0%"
-              ]
-            },
-            {
-              "name": "Duration",
-              "value": "12.0s"
-            },
-            {
-              "name": "CD",
-              "value": "20.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Nereid's Ascension",
-        "desc": "Summons the might of Watatsumi, dealing **Hydro DMG** to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\n**Ceremonial Garment**\n·Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\n·When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\n·Increases Sangonomiya Kokomi's resistance to interruption and allows her to walk on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.\n\n**Clear light coalesces into robes around Her Excellency, Sangonomiya Kokomi, reflecting her magnificent form.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: The Shape of Water",
+        "desc": "**Normal Attack**\nPerforms up to 3 consecutive attacks that take the form of swimming fish, dealing **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Hydro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Kokomi plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "10.4% Max HP",
-              "11.2% Max HP",
-              "12.0% Max HP",
-              "13.0% Max HP",
-              "13.8% Max HP",
-              "14.6% Max HP",
-              "15.6% Max HP",
-              "16.7% Max HP",
-              "17.7% Max HP",
-              "18.7% Max HP",
-              "19.8% Max HP",
-              "20.8% Max HP",
-              "22.1% Max HP"
+              "68.4%",
+              "73.5%",
+              "78.6%",
+              "85.5%",
+              "90.6%",
+              "95.7%",
+              "102.6%",
+              "109.4%",
+              "116.2%",
+              "123.1%",
+              "129.9%"
             ]
           },
           {
-            "name": "Normal Attack DMG Bonus",
+            "name": "2-Hit DMG",
             "values": [
-              "4.8% Max HP",
-              "5.2% Max HP",
-              "5.6% Max HP",
-              "6.0% Max HP",
-              "6.4% Max HP",
-              "6.8% Max HP",
-              "7.3% Max HP",
-              "7.7% Max HP",
-              "8.2% Max HP",
-              "8.7% Max HP",
-              "9.2% Max HP",
-              "9.7% Max HP",
-              "10.3% Max HP"
+              "61.5%",
+              "66.2%",
+              "70.8%",
+              "76.9%",
+              "81.5%",
+              "86.2%",
+              "92.3%",
+              "98.5%",
+              "104.6%",
+              "110.8%",
+              "116.9%"
             ]
           },
           {
-            "name": "Charged Attack DMG Bonus",
+            "name": "3-Hit DMG",
             "values": [
-              "6.8% Max HP",
-              "7.3% Max HP",
-              "7.8% Max HP",
-              "8.5% Max HP",
-              "9.0% Max HP",
-              "9.5% Max HP",
-              "10.2% Max HP",
-              "10.8% Max HP",
-              "11.5% Max HP",
-              "12.2% Max HP",
-              "12.9% Max HP",
-              "13.6% Max HP",
-              "14.4% Max HP"
+              "94.3%",
+              "101.4%",
+              "108.5%",
+              "117.9%",
+              "125.0%",
+              "132.0%",
+              "141.5%",
+              "150.9%",
+              "160.3%",
+              "169.8%",
+              "179.2%"
             ]
           },
           {
-            "name": "Bake-Kurage DMG Bonus",
+            "name": "Charged Attack DMG",
             "values": [
-              "7.1% Max HP",
-              "7.6% Max HP",
-              "8.2% Max HP",
-              "8.9% Max HP",
-              "9.4% Max HP",
-              "9.9% Max HP",
-              "10.6% Max HP",
-              "11.4% Max HP",
-              "12.1% Max HP",
-              "12.8% Max HP",
-              "13.5% Max HP",
-              "14.2% Max HP",
-              "15.1% Max HP"
+              "148%",
+              "159%",
+              "171%",
+              "185%",
+              "197%",
+              "208%",
+              "222%",
+              "237%",
+              "252%",
+              "267%",
+              "282%"
             ]
           },
           {
-            "name": "HP Regeneration Per Hit",
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
             "values": [
-              "0.81% Max HP+77",
-              "0.87% Max HP+85",
-              "0.93% Max HP+93",
-              "1.01% Max HP+102",
-              "1.07% Max HP+112",
-              "1.13% Max HP+122",
-              "1.21% Max HP+133",
-              "1.29% Max HP+144",
-              "1.37% Max HP+157",
-              "1.45% Max HP+169",
-              "1.54% Max HP+183",
-              "1.62% Max HP+197",
-              "1.72% Max HP+212"
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Kurage's Oath",
+        "desc": "Summons a \"Bake-Kurage\" created from water that can heal her allies.\nUsing this skill will apply the **Wet** status to Sangonomiya Kokomi.\n\n**Bake-Kurage**\nDeals **Hydro DMG** to surrounding opponents and heals nearby active characters at fixed intervals. This healing is based on Kokomi's Max HP.\n\n**Kokomi needs timely \"refreshment\" in order to maintain optimal work efficiency**.",
+        "talentTable": [
+          {
+            "name": "Regeneration",
+            "values": [
+              "4.4% Max HP+424",
+              "4.7% Max HP+466",
+              "5.1% Max HP+512",
+              "5.5% Max HP+561",
+              "5.8% Max HP+614",
+              "6.2% Max HP+671",
+              "6.6% Max HP+731",
+              "7.0% Max HP+795",
+              "7.5% Max HP+862",
+              "7.9% Max HP+932",
+              "8.4% Max HP+1006",
+              "8.8% Max HP+1084",
+              "9.4% Max HP+1165"
+            ]
+          },
+          {
+            "name": "Ripple DMG",
+            "values": [
+              "109.2%",
+              "117.4%",
+              "125.6%",
+              "136.5%",
+              "144.7%",
+              "152.9%",
+              "163.8%",
+              "174.7%",
+              "185.6%",
+              "196.5%",
+              "207.5%",
+              "218.4%",
+              "232.0%"
             ]
           },
           {
             "name": "Duration",
-            "value": "10.0s"
+            "value": "12.0s"
           },
           {
             "name": "CD",
-            "value": "18.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "70"
+            "value": "20.0s"
           }
-        ],
-        "type": "Hydro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Nereid's Ascension",
+      "desc": "Summons the might of Watatsumi, dealing **Hydro DMG** to surrounding opponents, before robing Kokomi in a Ceremonial Garment made from the flowing waters of Sangonomiya.\n\n**Ceremonial Garment**\n·Sangonomiya Kokomi's Normal Attack, Charged Attack and Bake-Kurage DMG are increased based on her Max HP.\n·When her Normal and Charged Attacks hit opponents, Kokomi will restore HP for all nearby party members, and the amount restored is based on her Max HP.\n·Increases Sangonomiya Kokomi's resistance to interruption and allows her to walk on the water's surface.\n\nThese effects will be cleared once Sangonomiya Kokomi leaves the field.\n\n**Clear light coalesces into robes around Her Excellency, Sangonomiya Kokomi, reflecting her magnificent form.**",
+      "talentTable": [
         {
-          "name": "Tamanooya's Casket",
-          "desc": "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses **Nereid's Ascension**, the Bake-Kurage's duration will be refreshed.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "10.4% Max HP",
+            "11.2% Max HP",
+            "12.0% Max HP",
+            "13.0% Max HP",
+            "13.8% Max HP",
+            "14.6% Max HP",
+            "15.6% Max HP",
+            "16.7% Max HP",
+            "17.7% Max HP",
+            "18.7% Max HP",
+            "19.8% Max HP",
+            "20.8% Max HP",
+            "22.1% Max HP"
+          ]
         },
         {
-          "name": "Song of Pearls",
-          "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.",
-          "minAscension": 4
+          "name": "Normal Attack DMG Bonus",
+          "values": [
+            "4.8% Max HP",
+            "5.2% Max HP",
+            "5.6% Max HP",
+            "6.0% Max HP",
+            "6.4% Max HP",
+            "6.8% Max HP",
+            "7.3% Max HP",
+            "7.7% Max HP",
+            "8.2% Max HP",
+            "8.7% Max HP",
+            "9.2% Max HP",
+            "9.7% Max HP",
+            "10.3% Max HP"
+          ]
         },
         {
-          "name": "Princess of Watatsumi",
-          "desc": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
-          "minAscension": 0
+          "name": "Charged Attack DMG Bonus",
+          "values": [
+            "6.8% Max HP",
+            "7.3% Max HP",
+            "7.8% Max HP",
+            "8.5% Max HP",
+            "9.0% Max HP",
+            "9.5% Max HP",
+            "10.2% Max HP",
+            "10.8% Max HP",
+            "11.5% Max HP",
+            "12.2% Max HP",
+            "12.9% Max HP",
+            "13.6% Max HP",
+            "14.4% Max HP"
+          ]
         },
         {
-          "name": "Flawless Strategy",
-          "desc": "Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.",
-          "minAscension": 0
+          "name": "Bake-Kurage DMG Bonus",
+          "values": [
+            "7.1% Max HP",
+            "7.6% Max HP",
+            "8.2% Max HP",
+            "8.9% Max HP",
+            "9.4% Max HP",
+            "9.9% Max HP",
+            "10.6% Max HP",
+            "11.4% Max HP",
+            "12.1% Max HP",
+            "12.8% Max HP",
+            "13.5% Max HP",
+            "14.2% Max HP",
+            "15.1% Max HP"
+          ]
+        },
+        {
+          "name": "HP Regeneration Per Hit",
+          "values": [
+            "0.81% Max HP+77",
+            "0.87% Max HP+85",
+            "0.93% Max HP+93",
+            "1.01% Max HP+102",
+            "1.07% Max HP+112",
+            "1.13% Max HP+122",
+            "1.21% Max HP+133",
+            "1.29% Max HP+144",
+            "1.37% Max HP+157",
+            "1.45% Max HP+169",
+            "1.54% Max HP+183",
+            "1.62% Max HP+197",
+            "1.72% Max HP+212"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "10.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
         }
       ],
-      "constellations": [
-        {
-          "name": "At Water's Edge",
-          "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as **Hydro DMG**.\nThis DMG is not considered Normal Attack DMG."
-        },
-        {
-          "name": "The Clouds Like Waves Rippling",
-          "desc": "Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:\n·**Kurage's Oath** Bake-Kurage: 4.5% of Kokomi's Max HP.\n·**Nereid's Ascension** Normal and Charged Attacks: 0.6% of Kokomi's Max HP."
-        },
-        {
-          "name": "The Moon, A Ship O'er the Seas",
-          "desc": "Increases the Level of **Nereid's Ascension** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "The Moon Overlooks the Waters",
-          "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.\nThis effect can occur once every 0.2s."
-        },
-        {
-          "name": "All Streams Flow to the Sea",
-          "desc": "Increases the Level of **Kurage's Oath** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Sango Isshin",
-          "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, Sangonomiya Kokomi gains a 40% **Hydro DMG Bonus** for 4s when her Normal and Charged Attacks heal, or would heal, any party member with 80% or more HP."
-        }
-      ]
-    }
-  ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Tamanooya's Casket",
+        "desc": "If Sangonomiya Kokomi's own Bake-Kurage is on the field when she uses **Nereid's Ascension**, the Bake-Kurage's duration will be refreshed.",
+        "minAscension": 1
+      },
+      {
+        "name": "Song of Pearls",
+        "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, the Normal and Charged Attack DMG Bonus Sangonomiya Kokomi gains based on her Max HP will receive a further increase based on 15% of her Healing Bonus.",
+        "minAscension": 4
+      },
+      {
+        "name": "Princess of Watatsumi",
+        "desc": "Decreases swimming Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "minAscension": 0
+      },
+      {
+        "name": "Flawless Strategy",
+        "desc": "Sangonomiya Kokomi has a 25% Healing Bonus, but a 100% decrease in CRIT Rate.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "At Water's Edge",
+        "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, the final Normal Attack in Sangonomiya Kokomi's combo will unleash a swimming fish to deal 30% of her Max HP as **Hydro DMG**.\nThis DMG is not considered Normal Attack DMG."
+      },
+      {
+        "name": "The Clouds Like Waves Rippling",
+        "desc": "Sangonomiya Kokomi gains the following Healing Bonuses with regard to characters with 50% or less HP via the following methods:\n·**Kurage's Oath** Bake-Kurage: 4.5% of Kokomi's Max HP.\n·**Nereid's Ascension** Normal and Charged Attacks: 0.6% of Kokomi's Max HP."
+      },
+      {
+        "name": "The Moon, A Ship O'er the Seas",
+        "desc": "Increases the Level of **Nereid's Ascension** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "The Moon Overlooks the Waters",
+        "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, Sangonomiya Kokomi's Normal Attack SPD is increased by 10%, and Normal Attacks that hit opponents will restore 0.8 Energy for her.\nThis effect can occur once every 0.2s."
+      },
+      {
+        "name": "All Streams Flow to the Sea",
+        "desc": "Increases the Level of **Kurage's Oath** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Sango Isshin",
+        "desc": "While donning the Ceremonial Garment created by **Nereid's Ascension**, Sangonomiya Kokomi gains a 40% **Hydro DMG Bonus** for 4s when her Normal and Charged Attacks heal, or would heal, any party member with 80% or more HP."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

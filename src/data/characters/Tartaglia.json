@@ -23,514 +23,512 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Cutting Torrent",
-          "desc": "**Normal Attack**\nPerform up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal **Hydro DMG** and apply the Riptide status.\n\n**Riptide**\nOpponents affected by Riptide will suffer from **AoE Hydro DMG** effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.\n·Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.\n·Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\nWhen Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "41.3%",
-                "44.6%",
-                "48.0%",
-                "52.8%",
-                "56.2%",
-                "60.0%",
-                "65.3%",
-                "70.6%",
-                "75.8%",
-                "81.6%",
-                "87.4%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "46.3%",
-                "50.0%",
-                "53.8%",
-                "59.2%",
-                "62.9%",
-                "67.3%",
-                "73.2%",
-                "79.1%",
-                "85.0%",
-                "91.5%",
-                "97.9%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "55.4%",
-                "59.9%",
-                "64.4%",
-                "70.8%",
-                "75.3%",
-                "80.5%",
-                "87.6%",
-                "94.7%",
-                "101.8%",
-                "109.5%",
-                "117.2%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "57.0%",
-                "61.7%",
-                "66.3%",
-                "72.9%",
-                "77.6%",
-                "82.9%",
-                "90.2%",
-                "97.5%",
-                "104.8%",
-                "112.7%",
-                "120.7%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "60.9%",
-                "65.8%",
-                "70.8%",
-                "77.9%",
-                "82.8%",
-                "88.5%",
-                "96.3%",
-                "104.1%",
-                "111.9%",
-                "120.4%",
-                "128.9%"
-              ]
-            },
-            {
-              "name": "6-Hit DMG",
-              "values": [
-                "72.8%",
-                "78.7%",
-                "84.6%",
-                "93.1%",
-                "99.0%",
-                "105.8%",
-                "115.1%",
-                "124.4%",
-                "133.7%",
-                "143.8%",
-                "154.0%"
-              ]
-            },
-            {
-              "name": "Aimed Shot",
-              "values": [
-                "43.9%",
-                "47.4%",
-                "51.0%",
-                "56.1%",
-                "59.7%",
-                "63.7%",
-                "69.4%",
-                "75.0%",
-                "80.6%",
-                "86.7%",
-                "92.8%"
-              ]
-            },
-            {
-              "name": "Fully-Charged Aimed Shot",
-              "values": [
-                "124%",
-                "133%",
-                "143%",
-                "155%",
-                "164%",
-                "174%",
-                "186%",
-                "198%",
-                "211%",
-                "223%",
-                "236%"
-              ]
-            },
-            {
-              "name": "Riptide Flash DMG",
-              "values": [
-                "12.4%×3",
-                "13.3%×3",
-                "14.3%×3",
-                "15.5%×3",
-                "16.4%×3",
-                "17.4%×3",
-                "18.6%×3",
-                "19.8%×3",
-                "21.1%×3",
-                "22.3%×3",
-                "23.6%×3"
-              ]
-            },
-            {
-              "name": "Riptide Burst DMG",
-              "values": [
-                "62.0%",
-                "66.6%",
-                "71.3%",
-                "77.5%",
-                "82.2%",
-                "86.8%",
-                "93.0%",
-                "99.2%",
-                "105.4%",
-                "111.6%",
-                "117.8%"
-              ]
-            },
-            {
-              "name": "Riptide Duration",
-              "value": "10.0s"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "63.9%",
-                "69.1%",
-                "74.3%",
-                "81.8%",
-                "87.0%",
-                "92.9%",
-                "101.1%",
-                "109.3%",
-                "117.5%",
-                "126.4%",
-                "135.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "128%/160%",
-                "138%/173%",
-                "149%/186%",
-                "164%/204%",
-                "174%/217%",
-                "186%/232%",
-                "202%/253%",
-                "219%/273%",
-                "235%/293%",
-                "253%/316%",
-                "271%/338%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Foul Legacy: Raging Tide",
-          "desc": "Unleashes a set of weaponry made of pure water, dealing **Hydro DMG** to surrounding opponents and entering Melee Stance.\nIn this Stance, Tartaglia's Normal and Charged Attacks are converted to **Hydro DMG** that cannot be overridden by any other elemental infusion and change as follows:\n\n**Normal Attack**\nPerform up to 6 consecutive **Hydro** strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a cross slash, dealing **Hydro DMG**.\n\n**Riptide Slash**\nHitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals **AoE Hydro DMG**. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.\n\nAfter 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.\nIf the return to a ranged stance occurs automatically after 30s, the CD is even longer.\n\n**He chose the bow as his weapon precisely to overcome his weakness with it. But a serious fight demands that he gets serious...**",
-          "talentTable": [
-            {
-              "name": "Stance Change DMG",
-              "values": [
-                "72%",
-                "77%",
-                "83%",
-                "90%",
-                "95%",
-                "101%",
-                "108%",
-                "115%",
-                "122%",
-                "130%",
-                "137%",
-                "144%",
-                "153%"
-              ]
-            },
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "38.9%",
-                "42.0%",
-                "45.2%",
-                "49.7%",
-                "52.9%",
-                "56.5%",
-                "61.5%",
-                "66.4%",
-                "71.4%",
-                "76.8%",
-                "82.3%",
-                "87.7%",
-                "93.1%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "41.6%",
-                "45.0%",
-                "48.4%",
-                "53.2%",
-                "56.6%",
-                "60.5%",
-                "65.8%",
-                "71.1%",
-                "76.5%",
-                "82.3%",
-                "88.1%",
-                "93.9%",
-                "99.7%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "56.3%",
-                "60.9%",
-                "65.5%",
-                "72.0%",
-                "76.6%",
-                "81.9%",
-                "89.1%",
-                "96.3%",
-                "103.5%",
-                "111.3%",
-                "119.2%",
-                "127.1%",
-                "134.9%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "59.9%",
-                "64.8%",
-                "69.7%",
-                "76.7%",
-                "81.5%",
-                "87.1%",
-                "94.8%",
-                "102.5%",
-                "110.1%",
-                "118.5%",
-                "126.9%",
-                "135.2%",
-                "143.6%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "55.3%",
-                "59.8%",
-                "64.3%",
-                "70.7%",
-                "75.2%",
-                "80.4%",
-                "87.4%",
-                "94.5%",
-                "101.6%",
-                "109.3%",
-                "117.0%",
-                "124.7%",
-                "132.5%"
-              ]
-            },
-            {
-              "name": "6-Hit DMG",
-              "values": [
-                "35.4%+37.7%",
-                "38.3%+40.7%",
-                "41.2%+43.8%",
-                "45.3%+48.2%",
-                "48.2%+51.2%",
-                "51.5%+54.8%",
-                "56.0%+59.6%",
-                "60.6%+64.4%",
-                "65.1%+69.2%",
-                "70.0%+74.5%",
-                "75.0%+79.7%",
-                "79.9%+85.0%",
-                "84.9%+90.2%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "60.2%+72.0%",
-                "65.1%+77.8%",
-                "70.0%+83.7%",
-                "77.0%+92.1%",
-                "81.9%+97.9%",
-                "87.5%+104.6%",
-                "95.2%+113.8%",
-                "102.9%+123.0%",
-                "110.6%+132.2%",
-                "119.0%+142.3%",
-                "127.4%+152.3%",
-                "135.8%+162.4%",
-                "144.2%+172.4%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "20.0"
-            },
-            {
-              "name": "Riptide Slash",
-              "values": [
-                "60%",
-                "65%",
-                "70%",
-                "77%",
-                "82%",
-                "88%",
-                "95%",
-                "103%",
-                "111%",
-                "119%",
-                "127%",
-                "136%",
-                "144%"
-              ]
-            },
-            {
-              "name": "Max Duration",
-              "value": "30.0s"
-            },
-            {
-              "name": "Preemptive CD",
-              "value": "6.0-36.0s"
-            },
-            {
-              "name": "Max CD",
-              "value": "45.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Havoc: Obliteration",
-        "desc": "Performs different attacks based on what stance Tartaglia is in when casting.\n\n**Ranged Stance: Flash of Havoc**\nSwiftly fires a Hydro-imbued magic arrow, dealing **AoE Hydro DMG** and applying the Riptide status.\nReturns a portion of its Energy Cost after use.\n\n**Melee Stance: Light of Obliteration**\nPerforms a slash with a large AoE, dealing massive **Hydro DMG** to all surrounding opponents, which triggers Riptide Blast.\n\n**Riptide Blast**\nWhen the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals **AoE Hydro DMG**.\nDMG dealt in this way is considered Elemental Burst DMG.\n\n**Rushing waters are rarely seen in his snowy homeland. Perhaps his ability to command water is due to his understanding of just how precious it is.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Cutting Torrent",
+        "desc": "**Normal Attack**\nPerform up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal **Hydro DMG** and apply the Riptide status.\n\n**Riptide**\nOpponents affected by Riptide will suffer from **AoE Hydro DMG** effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack DMG.\n·Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.\n·Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\nWhen Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack.",
         "talentTable": [
           {
-            "name": "Skill DMG: Melee",
+            "name": "1-Hit DMG",
             "values": [
-              "464%",
-              "499%",
-              "534%",
-              "580%",
-              "615%",
-              "650%",
-              "696%",
-              "742%",
-              "789%",
-              "835%",
-              "882%",
-              "928%",
-              "986%"
+              "41.3%",
+              "44.6%",
+              "48.0%",
+              "52.8%",
+              "56.2%",
+              "60.0%",
+              "65.3%",
+              "70.6%",
+              "75.8%",
+              "81.6%",
+              "87.4%"
             ]
           },
           {
-            "name": "Skill DMG: Ranged",
+            "name": "2-Hit DMG",
             "values": [
-              "378%",
-              "407%",
-              "435%",
-              "473%",
-              "501%",
-              "530%",
-              "568%",
-              "605%",
-              "643%",
-              "681%",
-              "719%",
-              "757%",
-              "804%"
+              "46.3%",
+              "50.0%",
+              "53.8%",
+              "59.2%",
+              "62.9%",
+              "67.3%",
+              "73.2%",
+              "79.1%",
+              "85.0%",
+              "91.5%",
+              "97.9%"
             ]
           },
           {
-            "name": "Riptide Blast DMG",
+            "name": "3-Hit DMG",
             "values": [
-              "120%",
-              "129%",
-              "138%",
-              "150%",
-              "159%",
-              "168%",
-              "180%",
-              "192%",
-              "204%",
-              "216%",
-              "228%",
-              "240%",
-              "255%"
+              "55.4%",
+              "59.9%",
+              "64.4%",
+              "70.8%",
+              "75.3%",
+              "80.5%",
+              "87.6%",
+              "94.7%",
+              "101.8%",
+              "109.5%",
+              "117.2%"
             ]
           },
           {
-            "name": "Energy Return (Ranged)",
-            "value": "20"
+            "name": "4-Hit DMG",
+            "values": [
+              "57.0%",
+              "61.7%",
+              "66.3%",
+              "72.9%",
+              "77.6%",
+              "82.9%",
+              "90.2%",
+              "97.5%",
+              "104.8%",
+              "112.7%",
+              "120.7%"
+            ]
           },
           {
-            "name": "CD",
-            "value": "15.0s"
+            "name": "5-Hit DMG",
+            "values": [
+              "60.9%",
+              "65.8%",
+              "70.8%",
+              "77.9%",
+              "82.8%",
+              "88.5%",
+              "96.3%",
+              "104.1%",
+              "111.9%",
+              "120.4%",
+              "128.9%"
+            ]
           },
           {
-            "name": "Energy Cost",
-            "value": "60"
+            "name": "6-Hit DMG",
+            "values": [
+              "72.8%",
+              "78.7%",
+              "84.6%",
+              "93.1%",
+              "99.0%",
+              "105.8%",
+              "115.1%",
+              "124.4%",
+              "133.7%",
+              "143.8%",
+              "154.0%"
+            ]
+          },
+          {
+            "name": "Aimed Shot",
+            "values": [
+              "43.9%",
+              "47.4%",
+              "51.0%",
+              "56.1%",
+              "59.7%",
+              "63.7%",
+              "69.4%",
+              "75.0%",
+              "80.6%",
+              "86.7%",
+              "92.8%"
+            ]
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "values": [
+              "124%",
+              "133%",
+              "143%",
+              "155%",
+              "164%",
+              "174%",
+              "186%",
+              "198%",
+              "211%",
+              "223%",
+              "236%"
+            ]
+          },
+          {
+            "name": "Riptide Flash DMG",
+            "values": [
+              "12.4%×3",
+              "13.3%×3",
+              "14.3%×3",
+              "15.5%×3",
+              "16.4%×3",
+              "17.4%×3",
+              "18.6%×3",
+              "19.8%×3",
+              "21.1%×3",
+              "22.3%×3",
+              "23.6%×3"
+            ]
+          },
+          {
+            "name": "Riptide Burst DMG",
+            "values": [
+              "62.0%",
+              "66.6%",
+              "71.3%",
+              "77.5%",
+              "82.2%",
+              "86.8%",
+              "93.0%",
+              "99.2%",
+              "105.4%",
+              "111.6%",
+              "117.8%"
+            ]
+          },
+          {
+            "name": "Riptide Duration",
+            "value": "10.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
           }
-        ],
-        "type": "Hydro"
+        ]
       },
-      "passive": [
+      {
+        "name": "Foul Legacy: Raging Tide",
+        "desc": "Unleashes a set of weaponry made of pure water, dealing **Hydro DMG** to surrounding opponents and entering Melee Stance.\nIn this Stance, Tartaglia's Normal and Charged Attacks are converted to **Hydro DMG** that cannot be overridden by any other elemental infusion and change as follows:\n\n**Normal Attack**\nPerform up to 6 consecutive **Hydro** strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a cross slash, dealing **Hydro DMG**.\n\n**Riptide Slash**\nHitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals **AoE Hydro DMG**. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.\n\nAfter 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD.\nIf the return to a ranged stance occurs automatically after 30s, the CD is even longer.\n\n**He chose the bow as his weapon precisely to overcome his weakness with it. But a serious fight demands that he gets serious...**",
+        "talentTable": [
+          {
+            "name": "Stance Change DMG",
+            "values": [
+              "72%",
+              "77%",
+              "83%",
+              "90%",
+              "95%",
+              "101%",
+              "108%",
+              "115%",
+              "122%",
+              "130%",
+              "137%",
+              "144%",
+              "153%"
+            ]
+          },
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "38.9%",
+              "42.0%",
+              "45.2%",
+              "49.7%",
+              "52.9%",
+              "56.5%",
+              "61.5%",
+              "66.4%",
+              "71.4%",
+              "76.8%",
+              "82.3%",
+              "87.7%",
+              "93.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "41.6%",
+              "45.0%",
+              "48.4%",
+              "53.2%",
+              "56.6%",
+              "60.5%",
+              "65.8%",
+              "71.1%",
+              "76.5%",
+              "82.3%",
+              "88.1%",
+              "93.9%",
+              "99.7%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "56.3%",
+              "60.9%",
+              "65.5%",
+              "72.0%",
+              "76.6%",
+              "81.9%",
+              "89.1%",
+              "96.3%",
+              "103.5%",
+              "111.3%",
+              "119.2%",
+              "127.1%",
+              "134.9%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "59.9%",
+              "64.8%",
+              "69.7%",
+              "76.7%",
+              "81.5%",
+              "87.1%",
+              "94.8%",
+              "102.5%",
+              "110.1%",
+              "118.5%",
+              "126.9%",
+              "135.2%",
+              "143.6%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "55.3%",
+              "59.8%",
+              "64.3%",
+              "70.7%",
+              "75.2%",
+              "80.4%",
+              "87.4%",
+              "94.5%",
+              "101.6%",
+              "109.3%",
+              "117.0%",
+              "124.7%",
+              "132.5%"
+            ]
+          },
+          {
+            "name": "6-Hit DMG",
+            "values": [
+              "35.4%+37.7%",
+              "38.3%+40.7%",
+              "41.2%+43.8%",
+              "45.3%+48.2%",
+              "48.2%+51.2%",
+              "51.5%+54.8%",
+              "56.0%+59.6%",
+              "60.6%+64.4%",
+              "65.1%+69.2%",
+              "70.0%+74.5%",
+              "75.0%+79.7%",
+              "79.9%+85.0%",
+              "84.9%+90.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "60.2%+72.0%",
+              "65.1%+77.8%",
+              "70.0%+83.7%",
+              "77.0%+92.1%",
+              "81.9%+97.9%",
+              "87.5%+104.6%",
+              "95.2%+113.8%",
+              "102.9%+123.0%",
+              "110.6%+132.2%",
+              "119.0%+142.3%",
+              "127.4%+152.3%",
+              "135.8%+162.4%",
+              "144.2%+172.4%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Riptide Slash",
+            "values": [
+              "60%",
+              "65%",
+              "70%",
+              "77%",
+              "82%",
+              "88%",
+              "95%",
+              "103%",
+              "111%",
+              "119%",
+              "127%",
+              "136%",
+              "144%"
+            ]
+          },
+          {
+            "name": "Max Duration",
+            "value": "30.0s"
+          },
+          {
+            "name": "Preemptive CD",
+            "value": "6.0-36.0s"
+          },
+          {
+            "name": "Max CD",
+            "value": "45.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Havoc: Obliteration",
+      "desc": "Performs different attacks based on what stance Tartaglia is in when casting.\n\n**Ranged Stance: Flash of Havoc**\nSwiftly fires a Hydro-imbued magic arrow, dealing **AoE Hydro DMG** and applying the Riptide status.\nReturns a portion of its Energy Cost after use.\n\n**Melee Stance: Light of Obliteration**\nPerforms a slash with a large AoE, dealing massive **Hydro DMG** to all surrounding opponents, which triggers Riptide Blast.\n\n**Riptide Blast**\nWhen the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals **AoE Hydro DMG**.\nDMG dealt in this way is considered Elemental Burst DMG.\n\n**Rushing waters are rarely seen in his snowy homeland. Perhaps his ability to command water is due to his understanding of just how precious it is.**",
+      "talentTable": [
         {
-          "name": "Never Ending",
-          "desc": "Extends Riptide duration by 8s.",
-          "minAscension": 1
+          "name": "Skill DMG: Melee",
+          "values": [
+            "464%",
+            "499%",
+            "534%",
+            "580%",
+            "615%",
+            "650%",
+            "696%",
+            "742%",
+            "789%",
+            "835%",
+            "882%",
+            "928%",
+            "986%"
+          ]
         },
         {
-          "name": "Sword of Torrents",
-          "desc": "When Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.",
-          "minAscension": 4
+          "name": "Skill DMG: Ranged",
+          "values": [
+            "378%",
+            "407%",
+            "435%",
+            "473%",
+            "501%",
+            "530%",
+            "568%",
+            "605%",
+            "643%",
+            "681%",
+            "719%",
+            "757%",
+            "804%"
+          ]
         },
         {
-          "name": "Master of Weaponry",
-          "desc": "Increases your own party members' **Normal Attack** Level by 1.",
-          "minAscension": 0
+          "name": "Riptide Blast DMG",
+          "values": [
+            "120%",
+            "129%",
+            "138%",
+            "150%",
+            "159%",
+            "168%",
+            "180%",
+            "192%",
+            "204%",
+            "216%",
+            "228%",
+            "240%",
+            "255%"
+          ]
+        },
+        {
+          "name": "Energy Return (Ranged)",
+          "value": "20"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
         }
       ],
-      "constellations": [
-        {
-          "name": "Foul Legacy: Tide Withholder",
-          "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%"
-        },
-        {
-          "name": "Foul Legacy: Understream",
-          "desc": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
-        },
-        {
-          "name": "Abyssal Mayhem: Vortex of Turmoil",
-          "desc": "Increases the Level of **Foul Legacy: Raging Tide** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Abyssal Mayhem: Hydrospout",
-          "desc": "If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
-        },
-        {
-          "name": "Havoc: Formless Blade",
-          "desc": "Increases the Level of **Havoc: Obliteration** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Havoc: Annihilation",
-          "desc": "When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance."
-        }
-      ]
-    }
-  ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Never Ending",
+        "desc": "Extends Riptide duration by 8s.",
+        "minAscension": 1
+      },
+      {
+        "name": "Sword of Torrents",
+        "desc": "When Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effect to opponents.",
+        "minAscension": 4
+      },
+      {
+        "name": "Master of Weaponry",
+        "desc": "Increases your own party members' **Normal Attack** Level by 1.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Foul Legacy: Tide Withholder",
+        "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%"
+      },
+      {
+        "name": "Foul Legacy: Understream",
+        "desc": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
+      },
+      {
+        "name": "Abyssal Mayhem: Vortex of Turmoil",
+        "desc": "Increases the Level of **Foul Legacy: Raging Tide** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Abyssal Mayhem: Hydrospout",
+        "desc": "If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
+      },
+      {
+        "name": "Havoc: Formless Blade",
+        "desc": "Increases the Level of **Havoc: Obliteration** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Havoc: Annihilation",
+        "desc": "When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

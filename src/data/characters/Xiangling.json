@@ -23,312 +23,310 @@
       "curve": "Regular HP/DEF 4*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Dough-Fu",
-          "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "42.1%",
-                "45.5%",
-                "48.9%",
-                "53.8%",
-                "57.2%",
-                "61.1%",
-                "66.5%",
-                "71.9%",
-                "77.3%",
-                "83.1%",
-                "89.9%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "42.1%",
-                "45.6%",
-                "49.0%",
-                "53.9%",
-                "57.3%",
-                "61.3%",
-                "66.6%",
-                "72.0%",
-                "77.4%",
-                "83.3%",
-                "90.0%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "26.1%+26.1%",
-                "28.2%+28.2%",
-                "30.3%+30.3%",
-                "33.3%+33.3%",
-                "35.5%+35.5%",
-                "37.9%+37.9%",
-                "41.2%+41.2%",
-                "44.5%+44.5%",
-                "47.9%+47.9%",
-                "51.5%+51.5%",
-                "55.7%+55.7%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "14.1%*4",
-                "15.3%*4",
-                "16.4%*4",
-                "18.0%*4",
-                "19.2%*4",
-                "20.5%*4",
-                "22.3%*4",
-                "24.1%*4",
-                "25.9%*4",
-                "27.9%*4",
-                "30.1%*4"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "71.0%",
-                "76.8%",
-                "82.6%",
-                "90.9%",
-                "96.6%",
-                "103.3%",
-                "112.3%",
-                "121.4%",
-                "130.5%",
-                "140.4%",
-                "151.8%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "122%",
-                "132%",
-                "141%",
-                "156%",
-                "166%",
-                "177%",
-                "192%",
-                "208%",
-                "224%",
-                "241%",
-                "260%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "25.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "63.9%",
-                "69.1%",
-                "74.3%",
-                "81.8%",
-                "87.0%",
-                "92.9%",
-                "101.1%",
-                "109.3%",
-                "117.5%",
-                "126.4%",
-                "135.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "128%/160%",
-                "138%/173%",
-                "149%/186%",
-                "164%/204%",
-                "174%/217%",
-                "186%/232%",
-                "202%/253%",
-                "219%/273%",
-                "235%/293%",
-                "253%/316%",
-                "271%/338%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Guoba Attack",
-          "desc": "Summons Guoba, who will continuously breathe fire at opponents, dealing **AoE Pyro DMG**.\n\n**Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.**",
-          "talentTable": [
-            {
-              "name": "Flame DMG",
-              "values": [
-                "111%",
-                "120%",
-                "128%",
-                "139%",
-                "147%",
-                "156%",
-                "167%",
-                "178%",
-                "189%",
-                "200%",
-                "211%",
-                "223%",
-                "236%"
-              ]
-            },
-            {
-              "name": "CD",
-              "value": "12.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Pyronado",
-        "desc": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\nThe Pyronado will move with your character for the ability's duration, dealing **Pyro DMG** to all opponents in its path.\n\n**There will never be enough heat. Never.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Dough-Fu",
+        "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "1-Hit Swing DMG",
+            "name": "1-Hit DMG",
             "values": [
+              "42.1%",
+              "45.5%",
+              "48.9%",
+              "53.8%",
+              "57.2%",
+              "61.1%",
+              "66.5%",
+              "71.9%",
+              "77.3%",
+              "83.1%",
+              "89.9%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "42.1%",
+              "45.6%",
+              "49.0%",
+              "53.9%",
+              "57.3%",
+              "61.3%",
+              "66.6%",
               "72.0%",
               "77.4%",
-              "82.8%",
-              "90.0%",
-              "95.4%",
-              "100.8%",
-              "108.0%",
-              "115.2%",
-              "122.4%",
-              "129.6%",
-              "136.8%",
-              "144.0%",
-              "153.0%"
+              "83.3%",
+              "90.0%"
             ]
           },
           {
-            "name": "2-Hit Swing DMG",
+            "name": "3-Hit DMG",
             "values": [
-              "88.0%",
-              "94.6%",
-              "101.2%",
-              "110.0%",
-              "116.6%",
-              "123.2%",
-              "132.0%",
-              "140.8%",
-              "149.6%",
-              "158.4%",
-              "167.2%",
-              "176.0%",
-              "187.0%"
+              "26.1%+26.1%",
+              "28.2%+28.2%",
+              "30.3%+30.3%",
+              "33.3%+33.3%",
+              "35.5%+35.5%",
+              "37.9%+37.9%",
+              "41.2%+41.2%",
+              "44.5%+44.5%",
+              "47.9%+47.9%",
+              "51.5%+51.5%",
+              "55.7%+55.7%"
             ]
           },
           {
-            "name": "3-Hit Swing DMG",
+            "name": "4-Hit DMG",
             "values": [
-              "110%",
-              "118%",
-              "126%",
-              "137%",
-              "145%",
-              "153%",
-              "164%",
-              "175%",
-              "186%",
-              "197%",
+              "14.1%*4",
+              "15.3%*4",
+              "16.4%*4",
+              "18.0%*4",
+              "19.2%*4",
+              "20.5%*4",
+              "22.3%*4",
+              "24.1%*4",
+              "25.9%*4",
+              "27.9%*4",
+              "30.1%*4"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "71.0%",
+              "76.8%",
+              "82.6%",
+              "90.9%",
+              "96.6%",
+              "103.3%",
+              "112.3%",
+              "121.4%",
+              "130.5%",
+              "140.4%",
+              "151.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "122%",
+              "132%",
+              "141%",
+              "156%",
+              "166%",
+              "177%",
+              "192%",
               "208%",
-              "219%",
-              "233%"
-            ]
-          },
-          {
-            "name": "Pyronado DMG",
-            "values": [
-              "112%",
-              "120%",
-              "129%",
-              "140%",
-              "148%",
-              "157%",
-              "168%",
-              "179%",
-              "190%",
-              "202%",
-              "213%",
               "224%",
-              "238%"
+              "241%",
+              "260%"
             ]
           },
           {
-            "name": "Duration",
-            "value": "10.0s"
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Guoba Attack",
+        "desc": "Summons Guoba, who will continuously breathe fire at opponents, dealing **AoE Pyro DMG**.\n\n**Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.**",
+        "talentTable": [
+          {
+            "name": "Flame DMG",
+            "values": [
+              "111%",
+              "120%",
+              "128%",
+              "139%",
+              "147%",
+              "156%",
+              "167%",
+              "178%",
+              "189%",
+              "200%",
+              "211%",
+              "223%",
+              "236%"
+            ]
           },
           {
             "name": "CD",
-            "value": "20.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "80"
+            "value": "12.0s"
           }
-        ],
-        "type": "Pyro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Pyronado",
+      "desc": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\nThe Pyronado will move with your character for the ability's duration, dealing **Pyro DMG** to all opponents in its path.\n\n**There will never be enough heat. Never.**",
+      "talentTable": [
         {
-          "name": "Crossfire",
-          "desc": "Increases the flame range of Guoba by 20%.",
-          "minAscension": 1
+          "name": "1-Hit Swing DMG",
+          "values": [
+            "72.0%",
+            "77.4%",
+            "82.8%",
+            "90.0%",
+            "95.4%",
+            "100.8%",
+            "108.0%",
+            "115.2%",
+            "122.4%",
+            "129.6%",
+            "136.8%",
+            "144.0%",
+            "153.0%"
+          ]
         },
         {
-          "name": "Beware, It's Super Hot!",
-          "desc": "When **Guoba Attack**'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
-          "minAscension": 4
+          "name": "2-Hit Swing DMG",
+          "values": [
+            "88.0%",
+            "94.6%",
+            "101.2%",
+            "110.0%",
+            "116.6%",
+            "123.2%",
+            "132.0%",
+            "140.8%",
+            "149.6%",
+            "158.4%",
+            "167.2%",
+            "176.0%",
+            "187.0%"
+          ]
         },
         {
-          "name": "Chef de Cuisine",
-          "desc": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
-          "minAscension": 0
+          "name": "3-Hit Swing DMG",
+          "values": [
+            "110%",
+            "118%",
+            "126%",
+            "137%",
+            "145%",
+            "153%",
+            "164%",
+            "175%",
+            "186%",
+            "197%",
+            "208%",
+            "219%",
+            "233%"
+          ]
+        },
+        {
+          "name": "Pyronado DMG",
+          "values": [
+            "112%",
+            "120%",
+            "129%",
+            "140%",
+            "148%",
+            "157%",
+            "168%",
+            "179%",
+            "190%",
+            "202%",
+            "213%",
+            "224%",
+            "238%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "10.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
         }
       ],
-      "constellations": [
-        {
-          "name": "Crispy Outside, Tender Inside",
-          "desc": "Opponents hit by Guoba's attacks have their **Pyro RES** reduced by 15% for 6s."
-        },
-        {
-          "name": "Oil Meets Fire",
-          "desc": "The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as **AoE Pyro DMG**."
-        },
-        {
-          "name": "Deepfry",
-          "desc": "Increases the Level of **Pyronado** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Slowbake",
-          "desc": "**Pyronado**'s duration is increased by 40%."
-        },
-        {
-          "name": "Guoba Mad",
-          "desc": "Increases the Level of **Guoba Attack** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Condensed Pyronado",
-          "desc": "For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bonus**."
-        }
-      ]
-    }
-  ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Crossfire",
+        "desc": "Increases the flame range of Guoba by 20%.",
+        "minAscension": 1
+      },
+      {
+        "name": "Beware, It's Super Hot!",
+        "desc": "When **Guoba Attack**'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
+        "minAscension": 4
+      },
+      {
+        "name": "Chef de Cuisine",
+        "desc": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Crispy Outside, Tender Inside",
+        "desc": "Opponents hit by Guoba's attacks have their **Pyro RES** reduced by 15% for 6s."
+      },
+      {
+        "name": "Oil Meets Fire",
+        "desc": "The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as **AoE Pyro DMG**."
+      },
+      {
+        "name": "Deepfry",
+        "desc": "Increases the Level of **Pyronado** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Slowbake",
+        "desc": "**Pyronado**'s duration is increased by 40%."
+      },
+      {
+        "name": "Guoba Mad",
+        "desc": "Increases the Level of **Guoba Attack** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Condensed Pyronado",
+        "desc": "For the duration of **Pyronado**, all party members receive a 15% **Pyro DMG Bonus**."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

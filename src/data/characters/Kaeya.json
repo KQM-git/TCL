@@ -23,258 +23,256 @@
       "curve": "Regular HP/DEF 4*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Ceremonial Bladework",
-          "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "53.8%",
-                "58.1%",
-                "62.5%",
-                "68.8%",
-                "73.1%",
-                "78.1%",
-                "85.0%",
-                "91.9%",
-                "98.8%",
-                "106.3%",
-                "114.8%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "51.7%",
-                "55.9%",
-                "60.1%",
-                "66.1%",
-                "70.3%",
-                "75.1%",
-                "81.7%",
-                "88.3%",
-                "95.0%",
-                "102.2%",
-                "110.4%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "65.3%",
-                "70.6%",
-                "75.9%",
-                "83.5%",
-                "88.8%",
-                "94.9%",
-                "103.2%",
-                "111.6%",
-                "119.9%",
-                "129.0%",
-                "139.5%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "70.9%",
-                "76.6%",
-                "82.4%",
-                "90.6%",
-                "96.4%",
-                "103.0%",
-                "112.1%",
-                "121.1%",
-                "130.2%",
-                "140.1%",
-                "151.4%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "88.2%",
-                "95.4%",
-                "102.6%",
-                "112.9%",
-                "120.0%",
-                "128.3%",
-                "139.5%",
-                "150.8%",
-                "162.1%",
-                "174.4%",
-                "188.5%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "55.0%+73.1%",
-                "59.5%+79.0%",
-                "64.0%+85.0%",
-                "70.4%+93.5%",
-                "74.9%+99.4%",
-                "80.0%+106.3%",
-                "87.0%+115.6%",
-                "94.1%+125.0%",
-                "101.1%+134.3%",
-                "108.8%+144.5%",
-                "117.6%+156.2%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "20.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "63.9%",
-                "69.1%",
-                "74.3%",
-                "81.8%",
-                "87.0%",
-                "92.9%",
-                "101.1%",
-                "109.3%",
-                "117.5%",
-                "126.4%",
-                "135.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "128%/160%",
-                "138%/173%",
-                "149%/186%",
-                "164%/204%",
-                "174%/217%",
-                "186%/232%",
-                "202%/253%",
-                "219%/273%",
-                "235%/293%",
-                "253%/316%",
-                "271%/338%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Frostgnaw",
-          "desc": "Unleashes a frigid blast, dealing **Cryo DMG** to opponents in front of Kaeya.\n\n**Kaeya seems affable, but his nature is that of unyielding ice.**",
-          "talentTable": [
-            {
-              "name": "Skill DMG",
-              "values": [
-                "191%",
-                "206%",
-                "220%",
-                "239%",
-                "253%",
-                "268%",
-                "287%",
-                "306%",
-                "325%",
-                "344%",
-                "363%",
-                "382%",
-                "406%"
-              ]
-            },
-            {
-              "name": "CD",
-              "value": "6.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Glacial Waltz",
-        "desc": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\nThese icicles will follow the character around and deal **Cryo DMG** to opponents in their path for the ability's duration.\n\n**A winsome smile, genial words, and the merciless hoarfrost that lies beneath... These are all Kaeya's weapons.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Ceremonial Bladework",
+        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "53.8%",
+              "58.1%",
+              "62.5%",
+              "68.8%",
+              "73.1%",
+              "78.1%",
+              "85.0%",
+              "91.9%",
+              "98.8%",
+              "106.3%",
+              "114.8%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "51.7%",
+              "55.9%",
+              "60.1%",
+              "66.1%",
+              "70.3%",
+              "75.1%",
+              "81.7%",
+              "88.3%",
+              "95.0%",
+              "102.2%",
+              "110.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "65.3%",
+              "70.6%",
+              "75.9%",
+              "83.5%",
+              "88.8%",
+              "94.9%",
+              "103.2%",
+              "111.6%",
+              "119.9%",
+              "129.0%",
+              "139.5%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "70.9%",
+              "76.6%",
+              "82.4%",
+              "90.6%",
+              "96.4%",
+              "103.0%",
+              "112.1%",
+              "121.1%",
+              "130.2%",
+              "140.1%",
+              "151.4%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "88.2%",
+              "95.4%",
+              "102.6%",
+              "112.9%",
+              "120.0%",
+              "128.3%",
+              "139.5%",
+              "150.8%",
+              "162.1%",
+              "174.4%",
+              "188.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "55.0%+73.1%",
+              "59.5%+79.0%",
+              "64.0%+85.0%",
+              "70.4%+93.5%",
+              "74.9%+99.4%",
+              "80.0%+106.3%",
+              "87.0%+115.6%",
+              "94.1%+125.0%",
+              "101.1%+134.3%",
+              "108.8%+144.5%",
+              "117.6%+156.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Frostgnaw",
+        "desc": "Unleashes a frigid blast, dealing **Cryo DMG** to opponents in front of Kaeya.\n\n**Kaeya seems affable, but his nature is that of unyielding ice.**",
         "talentTable": [
           {
             "name": "Skill DMG",
             "values": [
-              "77.6%",
-              "83.4%",
-              "89.2%",
-              "97.0%",
-              "102.8%",
-              "108.6%",
-              "116.4%",
-              "124.2%",
-              "131.9%",
-              "139.7%",
-              "147.4%",
-              "155.2%",
-              "164.9%"
+              "191%",
+              "206%",
+              "220%",
+              "239%",
+              "253%",
+              "268%",
+              "287%",
+              "306%",
+              "325%",
+              "344%",
+              "363%",
+              "382%",
+              "406%"
             ]
           },
           {
             "name": "CD",
-            "value": "15.0s"
-          },
-          {
-            "name": "Duration",
-            "value": "8.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "60"
+            "value": "6.0s"
           }
-        ],
-        "type": "Cryo"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Glacial Waltz",
+      "desc": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\nThese icicles will follow the character around and deal **Cryo DMG** to opponents in their path for the ability's duration.\n\n**A winsome smile, genial words, and the merciless hoarfrost that lies beneath... These are all Kaeya's weapons.**",
+      "talentTable": [
         {
-          "name": "Cold-Blooded Strike",
-          "desc": "Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "77.6%",
+            "83.4%",
+            "89.2%",
+            "97.0%",
+            "102.8%",
+            "108.6%",
+            "116.4%",
+            "124.2%",
+            "131.9%",
+            "139.7%",
+            "147.4%",
+            "155.2%",
+            "164.9%"
+          ]
         },
         {
-          "name": "Glacial Heart",
-          "desc": "Opponents **Frozen** by **Frostgnaw** will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
-          "minAscension": 4
+          "name": "CD",
+          "value": "15.0s"
         },
         {
-          "name": "Hidden Strength",
-          "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
-          "minAscension": 0
+          "name": "Duration",
+          "value": "8.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
         }
       ],
-      "constellations": [
-        {
-          "name": "Excellent Blood",
-          "desc": "The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by **Cryo** is increased by 15%."
-        },
-        {
-          "name": "Never-Ending Performance",
-          "desc": "Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s."
-        },
-        {
-          "name": "Dance of Frost",
-          "desc": "Increases the Level of **Frostgnaw** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Frozen Kiss",
-          "desc": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs **Cryo DMG** with 250% efficiency.\nCan only occur once every 60s."
-        },
-        {
-          "name": "Frostbiting Embrace",
-          "desc": "Increases the Level of **Glacial Waltz** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Glacial Whirlwind",
-          "desc": "**Glacial Waltz** will generate 1 additional icicle, and will regenerate 15 Energy when cast."
-        }
-      ]
-    }
-  ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Cold-Blooded Strike",
+        "desc": "Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.",
+        "minAscension": 1
+      },
+      {
+        "name": "Glacial Heart",
+        "desc": "Opponents **Frozen** by **Frostgnaw** will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
+        "minAscension": 4
+      },
+      {
+        "name": "Hidden Strength",
+        "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Excellent Blood",
+        "desc": "The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by **Cryo** is increased by 15%."
+      },
+      {
+        "name": "Never-Ending Performance",
+        "desc": "Every time **Glacial Waltz** defeats an opponent during its duration, its duration is increased by 2.5s, up to a maximum of 15s."
+      },
+      {
+        "name": "Dance of Frost",
+        "desc": "Increases the Level of **Frostgnaw** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Frozen Kiss",
+        "desc": "Triggers automatically when Kaeya's HP falls below 20%:\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\nThis shield absorbs **Cryo DMG** with 250% efficiency.\nCan only occur once every 60s."
+      },
+      {
+        "name": "Frostbiting Embrace",
+        "desc": "Increases the Level of **Glacial Waltz** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Glacial Whirlwind",
+        "desc": "**Glacial Waltz** will generate 1 additional icicle, and will regenerate 15 Energy when cast."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

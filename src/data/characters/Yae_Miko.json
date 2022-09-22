@@ -23,298 +23,296 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Spiritfox Sin-Eater",
-          "desc": "**Normal Attack**\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** after a short casting time.\n\n**Plunging Attack**\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals **AoE Electro DMG** upon impact with the ground.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "39.7%",
-                "42.6%",
-                "45.6%",
-                "49.6%",
-                "52.5%",
-                "55.5%",
-                "59.5%",
-                "63.5%",
-                "67.4%",
-                "71.4%",
-                "75.4%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "38.5%",
-                "41.4%",
-                "44.3%",
-                "48.1%",
-                "51.0%",
-                "53.9%",
-                "57.8%",
-                "61.6%",
-                "65.5%",
-                "69.3%",
-                "73.2%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "56.9%",
-                "61.2%",
-                "65.4%",
-                "71.1%",
-                "75.4%",
-                "79.6%",
-                "85.3%",
-                "91.0%",
-                "96.7%",
-                "102.4%",
-                "108.1%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "142.9%",
-                "153.6%",
-                "164.3%",
-                "178.6%",
-                "189.3%",
-                "200.1%",
-                "214.3%",
-                "228.6%",
-                "242.9%",
-                "257.2%",
-                "271.5%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "50.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "56.8%",
-                "61.5%",
-                "66.1%",
-                "72.7%",
-                "77.3%",
-                "82.6%",
-                "89.9%",
-                "97.1%",
-                "104.4%",
-                "112.3%",
-                "120.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "114%/142%",
-                "123%/153%",
-                "132%/165%",
-                "145%/182%",
-                "155%/193%",
-                "165%/206%",
-                "180%/224%",
-                "194%/243%",
-                "209%/261%",
-                "225%/281%",
-                "240%/300%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Yakan Evocation: Sesshou Sakura",
-          "desc": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\nMoves swiftly, leaving a Sesshou Sakura behind.\n\n**Sesshou Sakura**\nHas the following properties:\n· Periodically strikes one nearby opponent with lightning, dealing **Electro DMG**\n· When there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\n\nThis skill has three charges.\nA maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.\n\n**\"The kitsune spirits sealed in the branches are all yakan who stooped to preying upon humans. The yakan are two grades lower than us Sky Kitsune, and so, I hardly see the problem with... asking that they do my bidding. Now, this doesn't mean that you humans should go learning from our grading systems, no indeed — and as for which of us, kitsune or human, is higher up in the pecking order... Heh, wouldn't you like to know?\"**",
-          "talentTable": [
-            {
-              "name": "Sesshou Sakura DMG: Level 1",
-              "values": [
-                "60.7%",
-                "65.2%",
-                "69.8%",
-                "75.8%",
-                "80.4%",
-                "84.9%",
-                "91.0%",
-                "97.1%",
-                "103.1%",
-                "109.2%",
-                "115.3%",
-                "121.3%",
-                "128.9%"
-              ]
-            },
-            {
-              "name": "Sesshou Sakura DMG: Level 2",
-              "values": [
-                "75.8%",
-                "81.5%",
-                "87.2%",
-                "94.8%",
-                "100.5%",
-                "106.2%",
-                "113.8%",
-                "121.3%",
-                "128.9%",
-                "136.5%",
-                "144.1%",
-                "151.7%",
-                "161.2%"
-              ]
-            },
-            {
-              "name": "Sesshou Sakura DMG: Level 3",
-              "values": [
-                "94.8%",
-                "101.9%",
-                "109.0%",
-                "118.5%",
-                "125.6%",
-                "132.7%",
-                "142.2%",
-                "151.7%",
-                "161.2%",
-                "170.6%",
-                "180.1%",
-                "189.6%",
-                "201.4%"
-              ]
-            },
-            {
-              "name": "Sesshou Sakura DMG: Level 4",
-              "values": [
-                "118.5%",
-                "127.4%",
-                "136.3%",
-                "148.1%",
-                "157.0%",
-                "165.9%",
-                "177.8%",
-                "189.6%",
-                "201.4%",
-                "213.3%",
-                "225.1%",
-                "237.0%",
-                "251.8%"
-              ]
-            },
-            {
-              "name": "Duration",
-              "value": "14.0s"
-            },
-            {
-              "name": "CD",
-              "value": "4.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Great Secret Art: Tenko Kenshin",
-        "desc": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing **AoE Electro DMG**.\nWhen she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing **AoE Electro DMG**. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\n\n**Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Spiritfox Sin-Eater",
+        "desc": "**Normal Attack**\nSummons forth kitsune spirits, initiating a maximum of 3 attacks that deal **Electro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Electro DMG** after a short casting time.\n\n**Plunging Attack**\nPlunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals **AoE Electro DMG** upon impact with the ground.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "260%",
-              "280%",
-              "299%",
-              "325%",
-              "344%",
-              "364%",
-              "390%",
-              "416%",
-              "442%",
-              "468%",
-              "494%",
-              "520%",
-              "553%"
+              "39.7%",
+              "42.6%",
+              "45.6%",
+              "49.6%",
+              "52.5%",
+              "55.5%",
+              "59.5%",
+              "63.5%",
+              "67.4%",
+              "71.4%",
+              "75.4%"
             ]
           },
           {
-            "name": "Tenko Thunderbolt DMG",
+            "name": "2-Hit DMG",
             "values": [
-              "334%",
-              "359%",
-              "384%",
-              "417%",
-              "442%",
-              "467%",
-              "501%",
-              "534%",
-              "567%",
-              "601%",
-              "634%",
-              "668%",
-              "709%"
+              "38.5%",
+              "41.4%",
+              "44.3%",
+              "48.1%",
+              "51.0%",
+              "53.9%",
+              "57.8%",
+              "61.6%",
+              "65.5%",
+              "69.3%",
+              "73.2%"
             ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "56.9%",
+              "61.2%",
+              "65.4%",
+              "71.1%",
+              "75.4%",
+              "79.6%",
+              "85.3%",
+              "91.0%",
+              "96.7%",
+              "102.4%",
+              "108.1%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "142.9%",
+              "153.6%",
+              "164.3%",
+              "178.6%",
+              "189.3%",
+              "200.1%",
+              "214.3%",
+              "228.6%",
+              "242.9%",
+              "257.2%",
+              "271.5%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "50.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Yakan Evocation: Sesshou Sakura",
+        "desc": "To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.\nMoves swiftly, leaving a Sesshou Sakura behind.\n\n**Sesshou Sakura**\nHas the following properties:\n· Periodically strikes one nearby opponent with lightning, dealing **Electro DMG**\n· When there are other Sesshou Sakura nearby, their level will increase, boosting the DMG dealt by these lightning strikes.\n\nThis skill has three charges.\nA maximum of 3 Sesshou Sakura can exist simultaneously. The initial level of each Sesshou Sakura is 1, and the initial highest level each sakura can reach is 3. If a new Sesshou Sakura is created too close to an existing one, the existing one will be destroyed.\n\n**\"The kitsune spirits sealed in the branches are all yakan who stooped to preying upon humans. The yakan are two grades lower than us Sky Kitsune, and so, I hardly see the problem with... asking that they do my bidding. Now, this doesn't mean that you humans should go learning from our grading systems, no indeed — and as for which of us, kitsune or human, is higher up in the pecking order... Heh, wouldn't you like to know?\"**",
+        "talentTable": [
+          {
+            "name": "Sesshou Sakura DMG: Level 1",
+            "values": [
+              "60.7%",
+              "65.2%",
+              "69.8%",
+              "75.8%",
+              "80.4%",
+              "84.9%",
+              "91.0%",
+              "97.1%",
+              "103.1%",
+              "109.2%",
+              "115.3%",
+              "121.3%",
+              "128.9%"
+            ]
+          },
+          {
+            "name": "Sesshou Sakura DMG: Level 2",
+            "values": [
+              "75.8%",
+              "81.5%",
+              "87.2%",
+              "94.8%",
+              "100.5%",
+              "106.2%",
+              "113.8%",
+              "121.3%",
+              "128.9%",
+              "136.5%",
+              "144.1%",
+              "151.7%",
+              "161.2%"
+            ]
+          },
+          {
+            "name": "Sesshou Sakura DMG: Level 3",
+            "values": [
+              "94.8%",
+              "101.9%",
+              "109.0%",
+              "118.5%",
+              "125.6%",
+              "132.7%",
+              "142.2%",
+              "151.7%",
+              "161.2%",
+              "170.6%",
+              "180.1%",
+              "189.6%",
+              "201.4%"
+            ]
+          },
+          {
+            "name": "Sesshou Sakura DMG: Level 4",
+            "values": [
+              "118.5%",
+              "127.4%",
+              "136.3%",
+              "148.1%",
+              "157.0%",
+              "165.9%",
+              "177.8%",
+              "189.6%",
+              "201.4%",
+              "213.3%",
+              "225.1%",
+              "237.0%",
+              "251.8%"
+            ]
+          },
+          {
+            "name": "Duration",
+            "value": "14.0s"
           },
           {
             "name": "CD",
-            "value": "22.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "90"
+            "value": "4.0s"
           }
-        ],
-        "type": "Electro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Great Secret Art: Tenko Kenshin",
+      "desc": "Legends of \"kitsunetsuki,\" or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing **AoE Electro DMG**.\nWhen she uses this skill, Yae Miko will unseal nearby Sesshou Sakura, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing **AoE Electro DMG**. Each Sesshou Sakura destroyed in this way will create one Tenko Thunderbolt.\n\n**Only at times like these will Yae reveal her Sky Kitsune form and wield lightning itself. None have seen the Lady Guuji's tails and lived to tell the story... so remember, as far as you are concerned, Lady Yae does not have a tail.**",
+      "talentTable": [
         {
-          "name": "The Shrine's Sacred Shade",
-          "desc": "When casting **Great Secret Art: Tenko Kenshin**, each Sesshou Sakura destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "260%",
+            "280%",
+            "299%",
+            "325%",
+            "344%",
+            "364%",
+            "390%",
+            "416%",
+            "442%",
+            "468%",
+            "494%",
+            "520%",
+            "553%"
+          ]
         },
         {
-          "name": "Enlightened Blessing",
-          "desc": "Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.",
-          "minAscension": 4
+          "name": "Tenko Thunderbolt DMG",
+          "values": [
+            "334%",
+            "359%",
+            "384%",
+            "417%",
+            "442%",
+            "467%",
+            "501%",
+            "534%",
+            "567%",
+            "601%",
+            "634%",
+            "668%",
+            "709%"
+          ]
         },
         {
-          "name": "Meditations of a Yako",
-          "desc": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.",
-          "minAscension": 0
+          "name": "CD",
+          "value": "22.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "90"
         }
       ],
-      "constellations": [
-        {
-          "name": "Yakan Offering",
-          "desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself."
-        },
-        {
-          "name": "Fox's Mooncall",
-          "desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%."
-        },
-        {
-          "name": "The Seven Glamours",
-          "desc": "Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Sakura Channeling",
-          "desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s."
-        },
-        {
-          "name": "Mischievous Teasing",
-          "desc": "Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Forbidden Art: Daisesshou",
-          "desc": "**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF."
-        }
-      ]
-    }
-  ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "The Shrine's Sacred Shade",
+        "desc": "When casting **Great Secret Art: Tenko Kenshin**, each Sesshou Sakura destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.",
+        "minAscension": 1
+      },
+      {
+        "name": "Enlightened Blessing",
+        "desc": "Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.",
+        "minAscension": 4
+      },
+      {
+        "name": "Meditations of a Yako",
+        "desc": "Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Yakan Offering",
+        "desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself."
+      },
+      {
+        "name": "Fox's Mooncall",
+        "desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%."
+      },
+      {
+        "name": "The Seven Glamours",
+        "desc": "Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Sakura Channeling",
+        "desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s."
+      },
+      {
+        "name": "Mischievous Teasing",
+        "desc": "Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Forbidden Art: Daisesshou",
+        "desc": "**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

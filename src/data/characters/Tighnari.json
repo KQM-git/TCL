@@ -23,308 +23,306 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Khanda Barrier-Buster",
-          "desc": "**Normal Attack**\nPerform up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n·Charge Level 1: Fires off an arrow carrying the power of flora that deals **Dendro DMG**.\n·Charge Level 2: Fires off a Wreath Arrow that deals **Dendro DMG**. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "44.6%",
-                "48.3%",
-                "51.9%",
-                "57.1%",
-                "60.7%",
-                "64.9%",
-                "70.6%",
-                "76.3%",
-                "82.0%",
-                "88.2%",
-                "94.5%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "42.0%",
-                "45.4%",
-                "48.8%",
-                "53.7%",
-                "57.1%",
-                "61.0%",
-                "66.4%",
-                "71.7%",
-                "77.1%",
-                "83.0%",
-                "88.8%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "26.4%×2",
-                "28.6%×2",
-                "30.8%×2",
-                "33.8%×2",
-                "36.0%×2",
-                "38.4%×2",
-                "41.8%×2",
-                "45.2%×2",
-                "48.6%×2",
-                "52.3%×2",
-                "56.0%×2"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "68.6%",
-                "74.2%",
-                "79.8%",
-                "87.8%",
-                "93.4%",
-                "99.8%",
-                "108.5%",
-                "117.3%",
-                "126.1%",
-                "135.7%",
-                "145.2%"
-              ]
-            },
-            {
-              "name": "Aimed Shot",
-              "values": [
-                "43.9%",
-                "47.4%",
-                "51.0%",
-                "56.1%",
-                "59.7%",
-                "63.7%",
-                "69.4%",
-                "75.0%",
-                "80.6%",
-                "86.7%",
-                "92.8%"
-              ]
-            },
-            {
-              "name": "Level 1 Aimed Shot",
-              "values": [
-                "124%",
-                "133%",
-                "143%",
-                "155%",
-                "164%",
-                "174%",
-                "186%",
-                "198%",
-                "211%",
-                "223%",
-                "236%"
-              ]
-            },
-            {
-              "name": "Wreath Arrow DMG",
-              "values": [
-                "87.2%",
-                "93.7%",
-                "100.3%",
-                "109.0%",
-                "115.5%",
-                "122.1%",
-                "130.8%",
-                "139.5%",
-                "148.2%",
-                "157.0%",
-                "165.7%"
-              ]
-            },
-            {
-              "name": "Clusterbloom Arrow DMG",
-              "values": [
-                "38.6%",
-                "41.5%",
-                "44.4%",
-                "48.2%",
-                "51.1%",
-                "54.0%",
-                "57.9%",
-                "61.8%",
-                "65.6%",
-                "69.5%",
-                "73.3%"
-              ]
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "56.8%",
-                "61.5%",
-                "66.1%",
-                "72.7%",
-                "77.3%",
-                "82.6%",
-                "89.9%",
-                "97.1%",
-                "104.4%",
-                "112.3%",
-                "120.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "114%/142%",
-                "123%/153%",
-                "132%/165%",
-                "145%/182%",
-                "155%/193%",
-                "165%/206%",
-                "180%/224%",
-                "194%/243%",
-                "209%/261%",
-                "225%/281%",
-                "240%/300%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vijnana-Phala Mine",
-          "desc": "Tighnari throws a Vijnana Stormheart ahead that deals **AoE Dendro DMG**, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fire.\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\n\n**\"If seeds wither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"**",
-          "talentTable": [
-            {
-              "name": "Skill DMG",
-              "values": [
-                "149.6%",
-                "160.8%",
-                "172.0%",
-                "187.0%",
-                "198.2%",
-                "209.4%",
-                "224.4%",
-                "239.4%",
-                "254.3%",
-                "269.3%",
-                "284.2%",
-                "299.2%",
-                "317.9%"
-              ]
-            },
-            {
-              "name": "Vijnana-Khanda Field Duration",
-              "value": "8.0s"
-            },
-            {
-              "name": "Vijnana Suffusion Duration",
-              "value": "12.0s"
-            },
-            {
-              "name": "CD",
-              "value": "12.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Fashioner's Tanglevine Shaft",
-        "desc": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal **Dendro DMG**.\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal **Dendro DMG** on hit.\n\n**\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Khanda Barrier-Buster",
+        "desc": "**Normal Attack**\nPerform up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n·Charge Level 1: Fires off an arrow carrying the power of flora that deals **Dendro DMG**.\n·Charge Level 2: Fires off a Wreath Arrow that deals **Dendro DMG**. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Tanglevine Shaft DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "55.6%",
-              "59.8%",
-              "64.0%",
-              "69.5%",
-              "73.7%",
-              "77.9%",
-              "83.4%",
-              "89.0%",
-              "94.6%",
-              "100.1%",
-              "105.7%",
-              "111.2%",
-              "118.2%"
+              "44.6%",
+              "48.3%",
+              "51.9%",
+              "57.1%",
+              "60.7%",
+              "64.9%",
+              "70.6%",
+              "76.3%",
+              "82.0%",
+              "88.2%",
+              "94.5%"
             ]
           },
           {
-            "name": "Secondary Tanglevine Shaft DMG",
+            "name": "2-Hit DMG",
             "values": [
-              "68.0%",
-              "73.1%",
-              "78.2%",
-              "85.0%",
-              "90.1%",
-              "95.2%",
-              "102.0%",
-              "108.8%",
-              "115.6%",
-              "122.4%",
-              "129.2%",
-              "136.0%",
-              "144.5%"
+              "42.0%",
+              "45.4%",
+              "48.8%",
+              "53.7%",
+              "57.1%",
+              "61.0%",
+              "66.4%",
+              "71.7%",
+              "77.1%",
+              "83.0%",
+              "88.8%"
             ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "26.4%×2",
+              "28.6%×2",
+              "30.8%×2",
+              "33.8%×2",
+              "36.0%×2",
+              "38.4%×2",
+              "41.8%×2",
+              "45.2%×2",
+              "48.6%×2",
+              "52.3%×2",
+              "56.0%×2"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "68.6%",
+              "74.2%",
+              "79.8%",
+              "87.8%",
+              "93.4%",
+              "99.8%",
+              "108.5%",
+              "117.3%",
+              "126.1%",
+              "135.7%",
+              "145.2%"
+            ]
+          },
+          {
+            "name": "Aimed Shot",
+            "values": [
+              "43.9%",
+              "47.4%",
+              "51.0%",
+              "56.1%",
+              "59.7%",
+              "63.7%",
+              "69.4%",
+              "75.0%",
+              "80.6%",
+              "86.7%",
+              "92.8%"
+            ]
+          },
+          {
+            "name": "Level 1 Aimed Shot",
+            "values": [
+              "124%",
+              "133%",
+              "143%",
+              "155%",
+              "164%",
+              "174%",
+              "186%",
+              "198%",
+              "211%",
+              "223%",
+              "236%"
+            ]
+          },
+          {
+            "name": "Wreath Arrow DMG",
+            "values": [
+              "87.2%",
+              "93.7%",
+              "100.3%",
+              "109.0%",
+              "115.5%",
+              "122.1%",
+              "130.8%",
+              "139.5%",
+              "148.2%",
+              "157.0%",
+              "165.7%"
+            ]
+          },
+          {
+            "name": "Clusterbloom Arrow DMG",
+            "values": [
+              "38.6%",
+              "41.5%",
+              "44.4%",
+              "48.2%",
+              "51.1%",
+              "54.0%",
+              "57.9%",
+              "61.8%",
+              "65.6%",
+              "69.5%",
+              "73.3%"
+            ]
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Vijnana-Phala Mine",
+        "desc": "Tighnari throws a Vijnana Stormheart ahead that deals **AoE Dendro DMG**, creating a Vijnana-Khanda Field that creates mysterious illusions that taunt opponents and draw their fire.\nAdditionally, Tighnari gains the Vijnana Suffusion effect, which will decrease the Wreath Arrow's charging time by 2.4s. This effect will dissipate once the skill duration ends or after Tighnari has fired 3 Wreath Arrows.\n\n**\"If seeds wither apart from the soil, they will remain a single seed. But if returned to the soil, they shall multiply ten-million fold.\"**",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "149.6%",
+              "160.8%",
+              "172.0%",
+              "187.0%",
+              "198.2%",
+              "209.4%",
+              "224.4%",
+              "239.4%",
+              "254.3%",
+              "269.3%",
+              "284.2%",
+              "299.2%",
+              "317.9%"
+            ]
+          },
+          {
+            "name": "Vijnana-Khanda Field Duration",
+            "value": "8.0s"
+          },
+          {
+            "name": "Vijnana Suffusion Duration",
+            "value": "12.0s"
           },
           {
             "name": "CD",
             "value": "12.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "40"
           }
-        ],
-        "type": "Dendro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Fashioner's Tanglevine Shaft",
+      "desc": "Combines the power of all seeds to fire 6 Tanglevine Shafts that can track opponents and deal **Dendro DMG**.\nAfter they hit, the Tanglevine Shafts will create a secondary wave of Tanglevine Shafts that can also track opponents and deal **Dendro DMG** on hit.\n\n**\"Do not seek to escape so easily. The vines grow and regrow ever on. Things might get dicey if you don't clear every last one of them out.\"**",
+      "talentTable": [
         {
-          "name": "Keen Sight",
-          "desc": "After Tighnari fires a **Wreath Arrow**, his Elemental Mastery is increased by 50 for 4s.",
-          "minAscension": 1
+          "name": "Tanglevine Shaft DMG",
+          "values": [
+            "55.6%",
+            "59.8%",
+            "64.0%",
+            "69.5%",
+            "73.7%",
+            "77.9%",
+            "83.4%",
+            "89.0%",
+            "94.6%",
+            "100.1%",
+            "105.7%",
+            "111.2%",
+            "118.2%"
+          ]
         },
         {
-          "name": "Scholarly Blade",
-          "desc": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and **Fashioner's Tanglevine Shaft** DMG are increased by 0.06%.\nThe maximum DMG Bonus obtainable this way is 60%.",
-          "minAscension": 4
+          "name": "Secondary Tanglevine Shaft DMG",
+          "values": [
+            "68.0%",
+            "73.1%",
+            "78.2%",
+            "85.0%",
+            "90.1%",
+            "95.2%",
+            "102.0%",
+            "108.8%",
+            "115.6%",
+            "122.4%",
+            "129.2%",
+            "136.0%",
+            "144.5%"
+          ]
         },
         {
-          "name": "Encyclopedic Knowledge",
-          "desc": "Displays the location of nearby **resources unique to Sumeru** on the mini-map.",
-          "minAscension": 0
+          "name": "CD",
+          "value": "12.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
         }
       ],
-      "constellations": [
-        {
-          "name": "Beginnings Determined at the Roots",
-          "desc": "Tighnari's Charged Attack CRIT Rate is increased by 15%."
-        },
-        {
-          "name": "Origins Known From the Stem",
-          "desc": "When there are opponents within the Vijnana-Khanda Field created by **Vijnana-Phala Mine**, Tighnari gains 20% **Dendro DMG Bonus**.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it."
-        },
-        {
-          "name": "Fortunes Read Amongst the Branches",
-          "desc": "Increases the Level of **Fashioner's Tanglevine Shaft** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Withering Glimpsed in the Leaves",
-          "desc": "When **Fashioner's Tanglevine Shaft** is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
-        },
-        {
-          "name": "Comprehension Amidst the Flowers",
-          "desc": "Increases the Level of **Vijnana-Phala Mine** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Karma Adjudged From the Leaden Fruit",
-          "desc": "**Wreath Arrow**'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG."
-        }
-      ]
-    }
-  ],
+      "type": "Dendro"
+    },
+    "passive": [
+      {
+        "name": "Keen Sight",
+        "desc": "After Tighnari fires a **Wreath Arrow**, his Elemental Mastery is increased by 50 for 4s.",
+        "minAscension": 1
+      },
+      {
+        "name": "Scholarly Blade",
+        "desc": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and **Fashioner's Tanglevine Shaft** DMG are increased by 0.06%.\nThe maximum DMG Bonus obtainable this way is 60%.",
+        "minAscension": 4
+      },
+      {
+        "name": "Encyclopedic Knowledge",
+        "desc": "Displays the location of nearby **resources unique to Sumeru** on the mini-map.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Beginnings Determined at the Roots",
+        "desc": "Tighnari's Charged Attack CRIT Rate is increased by 15%."
+      },
+      {
+        "name": "Origins Known From the Stem",
+        "desc": "When there are opponents within the Vijnana-Khanda Field created by **Vijnana-Phala Mine**, Tighnari gains 20% **Dendro DMG Bonus**.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it."
+      },
+      {
+        "name": "Fortunes Read Amongst the Branches",
+        "desc": "Increases the Level of **Fashioner's Tanglevine Shaft** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Withering Glimpsed in the Leaves",
+        "desc": "When **Fashioner's Tanglevine Shaft** is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
+      },
+      {
+        "name": "Comprehension Amidst the Flowers",
+        "desc": "Increases the Level of **Vijnana-Phala Mine** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Karma Adjudged From the Leaden Fruit",
+        "desc": "**Wreath Arrow**'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

@@ -1,11 +1,11 @@
 import { Character, Skill } from "../data/types";
 
-export function getSkillName(char: Character, skill: number | string, depotIndex?: number) {
-  const talent = getTalent(char, skill, depotIndex)
+export function getSkillName(char: Character, skill: number | string) {
+  const talent = getTalent(char, skill)
   return talent.name
 }
 
-export function getTalent(char: Character, skill: number | string, depotIndex?: number) {
+export function getTalent(char: Character, skill: number | string) {
   let skillIndex = skill
   switch (skill) {
     case "na": skillIndex = 0; break;
@@ -15,7 +15,7 @@ export function getTalent(char: Character, skill: number | string, depotIndex?: 
     default: break;
   }
 
-  const depot = char.skills[depotIndex ?? 0]
+  const depot = char.skill
   const talent: Skill = skillIndex == "ult" ? depot.ult : depot.talents[skillIndex]
 
   return talent

@@ -23,334 +23,332 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Tempered Sword",
-          "desc": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "89.7%",
-                "97.0%",
-                "104.3%",
-                "114.7%",
-                "122.0%",
-                "130.4%",
-                "141.8%",
-                "153.3%",
-                "164.8%",
-                "177.3%",
-                "191.7%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "87.6%",
-                "94.8%",
-                "101.9%",
-                "112.1%",
-                "119.2%",
-                "127.4%",
-                "138.6%",
-                "149.8%",
-                "161.0%",
-                "173.2%",
-                "187.2%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "98.8%",
-                "106.9%",
-                "114.9%",
-                "126.4%",
-                "134.4%",
-                "143.6%",
-                "156.3%",
-                "168.9%",
-                "181.5%",
-                "195.3%",
-                "211.1%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "134%",
-                "145%",
-                "156%",
-                "171%",
-                "182%",
-                "195%",
-                "212%",
-                "229%",
-                "246%",
-                "265%",
-                "286%"
-              ]
-            },
-            {
-              "name": "Charged Attack Cyclic DMG",
-              "values": [
-                "68.8%",
-                "74.4%",
-                "80.0%",
-                "88.0%",
-                "93.6%",
-                "100.0%",
-                "108.8%",
-                "117.6%",
-                "126.4%",
-                "136.0%",
-                "147.0%"
-              ]
-            },
-            {
-              "name": "Charged Attack Final DMG",
-              "values": [
-                "125%",
-                "135%",
-                "145%",
-                "160%",
-                "170%",
-                "181%",
-                "197%",
-                "213%",
-                "229%",
-                "246%",
-                "266%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "40.0/s"
-            },
-            {
-              "name": "Max Duration",
-              "value": "5.0s"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "89.5%",
-                "96.8%",
-                "104.1%",
-                "114.5%",
-                "121.8%",
-                "130.1%",
-                "141.5%",
-                "153.0%",
-                "164.4%",
-                "176.9%",
-                "189.4%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "179%/224%",
-                "194%/242%",
-                "208%/260%",
-                "229%/286%",
-                "243%/304%",
-                "260%/325%",
-                "283%/354%",
-                "306%/382%",
-                "329%/411%",
-                "354%/442%",
-                "379%/473%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Searing Onslaught",
-          "desc": "Performs a forward slash that deals **Pyro DMG**.\n\nThis skill can be consecutively used 3 times.\nEnters CD if not cast again within a short period.\n\n**The slashes represent the values that Diluc holds dear: one for justice, one for courage, and one for duty.**",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "94.4%",
-                "101.5%",
-                "108.6%",
-                "118.0%",
-                "125.1%",
-                "132.2%",
-                "141.6%",
-                "151.0%",
-                "160.5%",
-                "169.9%",
-                "179.4%",
-                "188.8%",
-                "200.6%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "97.6%",
-                "104.9%",
-                "112.2%",
-                "122.0%",
-                "129.3%",
-                "136.6%",
-                "146.4%",
-                "156.2%",
-                "165.9%",
-                "175.7%",
-                "185.4%",
-                "195.2%",
-                "207.4%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "129%",
-                "138%",
-                "148%",
-                "161%",
-                "171%",
-                "180%",
-                "193%",
-                "206%",
-                "219%",
-                "232%",
-                "245%",
-                "258%",
-                "274%"
-              ]
-            },
-            {
-              "name": "CD",
-              "value": "10.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Dawn",
-        "desc": "Releases intense flames to knock back nearby opponents, dealing **Pyro DMG**. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive **Pyro DMG** to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of **AoE Pyro DMG**.\nThe searing flames that run down his blade cause it to be infused with **Pyro**.\n\n**The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Tempered Sword",
+        "desc": "**Normal Attack**\nPerform up to 4 consecutive strikes.\n\n**Charged Attack**\nDrains Stamina over time to perform continuous slashes.\nAt the end of the sequence, perform a more powerful slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Slashing DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "204%",
-              "219%",
-              "235%",
-              "255%",
-              "270%",
-              "286%",
-              "306%",
-              "326%",
-              "347%",
-              "367%",
-              "388%",
-              "408%",
-              "434%"
+              "89.7%",
+              "97.0%",
+              "104.3%",
+              "114.7%",
+              "122.0%",
+              "130.4%",
+              "141.8%",
+              "153.3%",
+              "164.8%",
+              "177.3%",
+              "191.7%"
             ]
           },
           {
-            "name": "DoT",
+            "name": "2-Hit DMG",
             "values": [
-              "60.0%",
-              "64.5%",
-              "69.0%",
-              "75.0%",
-              "79.5%",
-              "84.0%",
-              "90.0%",
-              "96.0%",
-              "102.0%",
-              "108.0%",
-              "114.0%",
-              "120.0%",
-              "127.5%"
+              "87.6%",
+              "94.8%",
+              "101.9%",
+              "112.1%",
+              "119.2%",
+              "127.4%",
+              "138.6%",
+              "149.8%",
+              "161.0%",
+              "173.2%",
+              "187.2%"
             ]
           },
           {
-            "name": "Explosion DMG",
+            "name": "3-Hit DMG",
             "values": [
-              "204%",
+              "98.8%",
+              "106.9%",
+              "114.9%",
+              "126.4%",
+              "134.4%",
+              "143.6%",
+              "156.3%",
+              "168.9%",
+              "181.5%",
+              "195.3%",
+              "211.1%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "134%",
+              "145%",
+              "156%",
+              "171%",
+              "182%",
+              "195%",
+              "212%",
+              "229%",
+              "246%",
+              "265%",
+              "286%"
+            ]
+          },
+          {
+            "name": "Charged Attack Cyclic DMG",
+            "values": [
+              "68.8%",
+              "74.4%",
+              "80.0%",
+              "88.0%",
+              "93.6%",
+              "100.0%",
+              "108.8%",
+              "117.6%",
+              "126.4%",
+              "136.0%",
+              "147.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Final DMG",
+            "values": [
+              "125%",
+              "135%",
+              "145%",
+              "160%",
+              "170%",
+              "181%",
+              "197%",
+              "213%",
+              "229%",
+              "246%",
+              "266%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "40.0/s"
+          },
+          {
+            "name": "Max Duration",
+            "value": "5.0s"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "89.5%",
+              "96.8%",
+              "104.1%",
+              "114.5%",
+              "121.8%",
+              "130.1%",
+              "141.5%",
+              "153.0%",
+              "164.4%",
+              "176.9%",
+              "189.4%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "179%/224%",
+              "194%/242%",
+              "208%/260%",
+              "229%/286%",
+              "243%/304%",
+              "260%/325%",
+              "283%/354%",
+              "306%/382%",
+              "329%/411%",
+              "354%/442%",
+              "379%/473%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Searing Onslaught",
+        "desc": "Performs a forward slash that deals **Pyro DMG**.\n\nThis skill can be consecutively used 3 times.\nEnters CD if not cast again within a short period.\n\n**The slashes represent the values that Diluc holds dear: one for justice, one for courage, and one for duty.**",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "94.4%",
+              "101.5%",
+              "108.6%",
+              "118.0%",
+              "125.1%",
+              "132.2%",
+              "141.6%",
+              "151.0%",
+              "160.5%",
+              "169.9%",
+              "179.4%",
+              "188.8%",
+              "200.6%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "97.6%",
+              "104.9%",
+              "112.2%",
+              "122.0%",
+              "129.3%",
+              "136.6%",
+              "146.4%",
+              "156.2%",
+              "165.9%",
+              "175.7%",
+              "185.4%",
+              "195.2%",
+              "207.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "129%",
+              "138%",
+              "148%",
+              "161%",
+              "171%",
+              "180%",
+              "193%",
+              "206%",
               "219%",
-              "235%",
-              "255%",
-              "270%",
-              "286%",
-              "306%",
-              "326%",
-              "347%",
-              "367%",
-              "388%",
-              "408%",
-              "434%"
+              "232%",
+              "245%",
+              "258%",
+              "274%"
             ]
           },
           {
             "name": "CD",
-            "value": "12.0s"
-          },
-          {
-            "name": "Infusion Duration",
-            "value": "8.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "40"
+            "value": "10.0s"
           }
-        ],
-        "type": "Pyro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Dawn",
+      "desc": "Releases intense flames to knock back nearby opponents, dealing **Pyro DMG**. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive **Pyro DMG** to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of **AoE Pyro DMG**.\nThe searing flames that run down his blade cause it to be infused with **Pyro**.\n\n**The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.**",
+      "talentTable": [
         {
-          "name": "Relentless",
-          "desc": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
-          "minAscension": 1
+          "name": "Slashing DMG",
+          "values": [
+            "204%",
+            "219%",
+            "235%",
+            "255%",
+            "270%",
+            "286%",
+            "306%",
+            "326%",
+            "347%",
+            "367%",
+            "388%",
+            "408%",
+            "434%"
+          ]
         },
         {
-          "name": "Blessing of Phoenix",
-          "desc": "The **Pyro Infusion** provided by **Dawn** lasts for 4s longer. Additionally, Diluc gains 20% **Pyro DMG Bonus** during the duration of this effect.",
-          "minAscension": 4
+          "name": "DoT",
+          "values": [
+            "60.0%",
+            "64.5%",
+            "69.0%",
+            "75.0%",
+            "79.5%",
+            "84.0%",
+            "90.0%",
+            "96.0%",
+            "102.0%",
+            "108.0%",
+            "114.0%",
+            "120.0%",
+            "127.5%"
+          ]
         },
         {
-          "name": "Tradition of the Dawn Knight",
-          "desc": "Refunds 15% of the ore used when crafting Claymore-type weapons.",
-          "minAscension": 0
+          "name": "Explosion DMG",
+          "values": [
+            "204%",
+            "219%",
+            "235%",
+            "255%",
+            "270%",
+            "286%",
+            "306%",
+            "326%",
+            "347%",
+            "367%",
+            "388%",
+            "408%",
+            "434%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "12.0s"
+        },
+        {
+          "name": "Infusion Duration",
+          "value": "8.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
         }
       ],
-      "constellations": [
-        {
-          "name": "Conviction",
-          "desc": "Diluc deals 15% more DMG to opponents whose HP is above 50%."
-        },
-        {
-          "name": "Searing Ember",
-          "desc": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s."
-        },
-        {
-          "name": "Fire and Steel",
-          "desc": "Increases the Level of **Searing Onslaught** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Flowing Flame",
-          "desc": "Casting **Searing Onslaught** in rhythm greatly increases damage dealt.\n2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s."
-        },
-        {
-          "name": "Phoenix, Harbinger of Dawn",
-          "desc": "Increases the Level of **Dawn** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Flaming Sword, Nemesis of the Dark",
-          "desc": "After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo."
-        }
-      ]
-    }
-  ],
+      "type": "Pyro"
+    },
+    "passive": [
+      {
+        "name": "Relentless",
+        "desc": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+        "minAscension": 1
+      },
+      {
+        "name": "Blessing of Phoenix",
+        "desc": "The **Pyro Infusion** provided by **Dawn** lasts for 4s longer. Additionally, Diluc gains 20% **Pyro DMG Bonus** during the duration of this effect.",
+        "minAscension": 4
+      },
+      {
+        "name": "Tradition of the Dawn Knight",
+        "desc": "Refunds 15% of the ore used when crafting Claymore-type weapons.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Conviction",
+        "desc": "Diluc deals 15% more DMG to opponents whose HP is above 50%."
+      },
+      {
+        "name": "Searing Ember",
+        "desc": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s."
+      },
+      {
+        "name": "Fire and Steel",
+        "desc": "Increases the Level of **Searing Onslaught** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Flowing Flame",
+        "desc": "Casting **Searing Onslaught** in rhythm greatly increases damage dealt.\n2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s."
+      },
+      {
+        "name": "Phoenix, Harbinger of Dawn",
+        "desc": "Increases the Level of **Dawn** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Flaming Sword, Nemesis of the Dark",
+        "desc": "After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

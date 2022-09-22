@@ -6,13 +6,12 @@ import MDXContent from '@theme/MDXContent'
 import { Character } from '@site/src/data/types'
 import { cleanup, getTalent } from '@site/src/utils/skill'
 
-export default function Skill({ char, skill, depotIndex, sectionFilter }: {
+export default function Skill({ char, skill, sectionFilter }: {
   char: Character
-  depotIndex?: number
   skill: number | string
   sectionFilter?: string
 }) {
-  const talent = getTalent(char, skill, depotIndex)
+  const talent = getTalent(char, skill)
   let desc = cleanup(talent.desc)
 
   if (sectionFilter !== undefined) {

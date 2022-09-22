@@ -23,342 +23,340 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Dawnstar Piercer",
-          "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "43.3%",
-                "46.8%",
-                "50.3%",
-                "55.3%",
-                "58.9%",
-                "62.9%",
-                "68.4%",
-                "73.9%",
-                "79.5%",
-                "85.5%",
-                "91.5%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "40.2%",
-                "43.5%",
-                "46.8%",
-                "51.5%",
-                "54.8%",
-                "58.5%",
-                "63.6%",
-                "68.8%",
-                "73.9%",
-                "79.6%",
-                "85.2%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "53.3%",
-                "57.7%",
-                "62.0%",
-                "68.2%",
-                "72.5%",
-                "77.5%",
-                "84.3%",
-                "91.1%",
-                "98.0%",
-                "105.4%",
-                "112.8%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "26.3%+26.3%",
-                "28.5%+28.5%",
-                "30.6%+30.6%",
-                "33.7%+33.7%",
-                "35.8%+35.8%",
-                "38.2%+38.2%",
-                "41.6%+41.6%",
-                "45.0%+45.0%",
-                "48.3%+48.3%",
-                "52.0%+52.0%",
-                "55.7%+55.7%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "65.6%",
-                "71.0%",
-                "76.3%",
-                "83.9%",
-                "89.3%",
-                "95.4%",
-                "103.8%",
-                "112.2%",
-                "120.6%",
-                "129.7%",
-                "138.9%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "110.7%",
-                "119.7%",
-                "128.7%",
-                "141.6%",
-                "150.6%",
-                "160.9%",
-                "175.0%",
-                "189.2%",
-                "203.3%",
-                "218.8%",
-                "234.2%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "25.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "63.9%",
-                "69.1%",
-                "74.3%",
-                "81.8%",
-                "87.0%",
-                "92.9%",
-                "101.1%",
-                "109.3%",
-                "117.5%",
-                "126.4%",
-                "135.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "128%/160%",
-                "138%/173%",
-                "149%/186%",
-                "164%/204%",
-                "174%/217%",
-                "186%/232%",
-                "202%/253%",
-                "219%/273%",
-                "235%/293%",
-                "253%/316%",
-                "271%/338%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Spring Spirit Summoning",
-          "desc": "The frosted dew, silvery and dense, shall exorcise all demons.\nGrants all nearby party members the Icy Quill effect and deals **Cryo DMG** in different ways based on whether it is pressed or held.\n\n**Press**\nRushes forward together with a Talisman Spirit, dealing **Cryo DMG** to opponents along the path.\n\n**Hold**\nCommands the Talisman Spirit to deal **AoE Cryo DMG**.\n\n**Icy Quill**\nWhen Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal **Cryo DMG** to opponents, the DMG dealt is increased based on Shenhe's current ATK.\n\nThe Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than pressed, the Icy Quill's effect lasts longer and can be triggered more times.\nWhen one **Cryo DMG** instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with the Icy Quill.\n\n**The power of the spirits is no falsehood. Burdened with her orders, the divine maiden hurries on!**",
-          "talentTable": [
-            {
-              "name": "Press Skill DMG",
-              "values": [
-                "139%",
-                "150%",
-                "160%",
-                "174%",
-                "184%",
-                "195%",
-                "209%",
-                "223%",
-                "237%",
-                "251%",
-                "264%",
-                "278%",
-                "296%"
-              ]
-            },
-            {
-              "name": "Hold Skill DMG",
-              "values": [
-                "188.8%",
-                "203.0%",
-                "217.1%",
-                "236.0%",
-                "250.2%",
-                "264.3%",
-                "283.2%",
-                "302.1%",
-                "321.0%",
-                "339.8%",
-                "358.7%",
-                "377.6%",
-                "401.2%"
-              ]
-            },
-            {
-              "name": "DMG Bonus",
-              "values": [
-                "45.7% ATK",
-                "49.1% ATK",
-                "52.5% ATK",
-                "57.1% ATK",
-                "60.5% ATK",
-                "63.9% ATK",
-                "68.5% ATK",
-                "73.0% ATK",
-                "77.6% ATK",
-                "82.2% ATK",
-                "86.7% ATK",
-                "91.3% ATK",
-                "97.0% ATK"
-              ]
-            },
-            {
-              "name": "Press/Hold Duration",
-              "value": "10.0s/15.0s"
-            },
-            {
-              "name": "Press/Hold Trigger Quota",
-              "value": "5/7"
-            },
-            {
-              "name": "Click CD",
-              "value": "10.0s"
-            },
-            {
-              "name": "Hold CD",
-              "value": "15.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Divine Maiden's Deliverance",
-        "desc": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing **AoE Cryo DMG**.\nThe Talisman Spirit then creates a field that decreases the **Cryo RES** and Physical RES of opponents within it. It also deals periodic **Cryo DMG** to opponents within the field.\n\n**The way of the adepti is not defined only by the mysterious and fantastical. Only by observing the changes in the heavens and the earth, and understanding the laws of cause and effect in this realm, may its essence be understood.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Dawnstar Piercer",
+        "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "101%",
-              "108%",
-              "116%",
-              "126%",
-              "134%",
-              "141%",
-              "151%",
-              "161%",
-              "171%",
-              "181%",
-              "192%",
-              "202%",
-              "214%"
-            ]
-          },
-          {
-            "name": "RES Decrease",
-            "values": [
-              "6.0%",
-              "7.0%",
-              "8.0%",
-              "9.0%",
-              "10.0%",
-              "11.0%",
-              "12.0%",
-              "13.0%",
-              "14.0%",
-              "15.0%",
-              "15.0%",
-              "15.0%",
-              "15.0%"
-            ]
-          },
-          {
-            "name": "DoT",
-            "values": [
-              "33.1%",
-              "35.6%",
-              "38.1%",
-              "41.4%",
-              "43.9%",
-              "46.4%",
-              "49.7%",
-              "53.0%",
-              "56.3%",
-              "59.6%",
+              "43.3%",
+              "46.8%",
+              "50.3%",
+              "55.3%",
+              "58.9%",
               "62.9%",
-              "66.2%",
-              "70.4%"
+              "68.4%",
+              "73.9%",
+              "79.5%",
+              "85.5%",
+              "91.5%"
             ]
           },
           {
-            "name": "Duration",
-            "value": "12.0s"
+            "name": "2-Hit DMG",
+            "values": [
+              "40.2%",
+              "43.5%",
+              "46.8%",
+              "51.5%",
+              "54.8%",
+              "58.5%",
+              "63.6%",
+              "68.8%",
+              "73.9%",
+              "79.6%",
+              "85.2%"
+            ]
           },
           {
-            "name": "CD",
-            "value": "20.0s"
+            "name": "3-Hit DMG",
+            "values": [
+              "53.3%",
+              "57.7%",
+              "62.0%",
+              "68.2%",
+              "72.5%",
+              "77.5%",
+              "84.3%",
+              "91.1%",
+              "98.0%",
+              "105.4%",
+              "112.8%"
+            ]
           },
           {
-            "name": "Energy Cost",
-            "value": "80"
+            "name": "4-Hit DMG",
+            "values": [
+              "26.3%+26.3%",
+              "28.5%+28.5%",
+              "30.6%+30.6%",
+              "33.7%+33.7%",
+              "35.8%+35.8%",
+              "38.2%+38.2%",
+              "41.6%+41.6%",
+              "45.0%+45.0%",
+              "48.3%+48.3%",
+              "52.0%+52.0%",
+              "55.7%+55.7%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "65.6%",
+              "71.0%",
+              "76.3%",
+              "83.9%",
+              "89.3%",
+              "95.4%",
+              "103.8%",
+              "112.2%",
+              "120.6%",
+              "129.7%",
+              "138.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "110.7%",
+              "119.7%",
+              "128.7%",
+              "141.6%",
+              "150.6%",
+              "160.9%",
+              "175.0%",
+              "189.2%",
+              "203.3%",
+              "218.8%",
+              "234.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
           }
-        ],
-        "type": "Cryo"
+        ]
       },
-      "passive": [
+      {
+        "name": "Spring Spirit Summoning",
+        "desc": "The frosted dew, silvery and dense, shall exorcise all demons.\nGrants all nearby party members the Icy Quill effect and deals **Cryo DMG** in different ways based on whether it is pressed or held.\n\n**Press**\nRushes forward together with a Talisman Spirit, dealing **Cryo DMG** to opponents along the path.\n\n**Hold**\nCommands the Talisman Spirit to deal **AoE Cryo DMG**.\n\n**Icy Quill**\nWhen Normal, Charged, and Plunging Attacks, Elemental Skills, and Elemental Bursts deal **Cryo DMG** to opponents, the DMG dealt is increased based on Shenhe's current ATK.\n\nThe Icy Quill's effects will be cleared once its duration ends or after being triggered a certain number of times. When held rather than pressed, the Icy Quill's effect lasts longer and can be triggered more times.\nWhen one **Cryo DMG** instance strikes multiple opponents, the effect is triggered multiple times based on the number of opponents hit. The number of times the effect is triggered is calculated independently for each party member with the Icy Quill.\n\n**The power of the spirits is no falsehood. Burdened with her orders, the divine maiden hurries on!**",
+        "talentTable": [
+          {
+            "name": "Press Skill DMG",
+            "values": [
+              "139%",
+              "150%",
+              "160%",
+              "174%",
+              "184%",
+              "195%",
+              "209%",
+              "223%",
+              "237%",
+              "251%",
+              "264%",
+              "278%",
+              "296%"
+            ]
+          },
+          {
+            "name": "Hold Skill DMG",
+            "values": [
+              "188.8%",
+              "203.0%",
+              "217.1%",
+              "236.0%",
+              "250.2%",
+              "264.3%",
+              "283.2%",
+              "302.1%",
+              "321.0%",
+              "339.8%",
+              "358.7%",
+              "377.6%",
+              "401.2%"
+            ]
+          },
+          {
+            "name": "DMG Bonus",
+            "values": [
+              "45.7% ATK",
+              "49.1% ATK",
+              "52.5% ATK",
+              "57.1% ATK",
+              "60.5% ATK",
+              "63.9% ATK",
+              "68.5% ATK",
+              "73.0% ATK",
+              "77.6% ATK",
+              "82.2% ATK",
+              "86.7% ATK",
+              "91.3% ATK",
+              "97.0% ATK"
+            ]
+          },
+          {
+            "name": "Press/Hold Duration",
+            "value": "10.0s/15.0s"
+          },
+          {
+            "name": "Press/Hold Trigger Quota",
+            "value": "5/7"
+          },
+          {
+            "name": "Click CD",
+            "value": "10.0s"
+          },
+          {
+            "name": "Hold CD",
+            "value": "15.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Divine Maiden's Deliverance",
+      "desc": "Unleashes the power of the Talisman Spirit, allowing it to roam free in this plane, dealing **AoE Cryo DMG**.\nThe Talisman Spirit then creates a field that decreases the **Cryo RES** and Physical RES of opponents within it. It also deals periodic **Cryo DMG** to opponents within the field.\n\n**The way of the adepti is not defined only by the mysterious and fantastical. Only by observing the changes in the heavens and the earth, and understanding the laws of cause and effect in this realm, may its essence be understood.**",
+      "talentTable": [
         {
-          "name": "Deific Embrace",
-          "desc": "An active character within the field created by **Divine Maiden's Deliverance** gains 15% **Cryo DMG Bonus**.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "101%",
+            "108%",
+            "116%",
+            "126%",
+            "134%",
+            "141%",
+            "151%",
+            "161%",
+            "171%",
+            "181%",
+            "192%",
+            "202%",
+            "214%"
+          ]
         },
         {
-          "name": "Spirit Communion Seal",
-          "desc": "After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party members the following effects:\n· Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.\n· Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.",
-          "minAscension": 4
+          "name": "RES Decrease",
+          "values": [
+            "6.0%",
+            "7.0%",
+            "8.0%",
+            "9.0%",
+            "10.0%",
+            "11.0%",
+            "12.0%",
+            "13.0%",
+            "14.0%",
+            "15.0%",
+            "15.0%",
+            "15.0%",
+            "15.0%"
+          ]
         },
         {
-          "name": "Precise Comings and Goings",
-          "desc": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.",
-          "minAscension": 0
+          "name": "DoT",
+          "values": [
+            "33.1%",
+            "35.6%",
+            "38.1%",
+            "41.4%",
+            "43.9%",
+            "46.4%",
+            "49.7%",
+            "53.0%",
+            "56.3%",
+            "59.6%",
+            "62.9%",
+            "66.2%",
+            "70.4%"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
         }
       ],
-      "constellations": [
-        {
-          "name": "Clarity of Heart",
-          "desc": "**Spring Spirit Summoning** can be used 1 more time."
-        },
-        {
-          "name": "Centered Spirit",
-          "desc": "**Divine Maiden's Deliverance** lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased **Cryo** CRIT DMG."
-        },
-        {
-          "name": "Seclusion",
-          "desc": "Increases the Level of **Spring Spirit Summoning** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Insight",
-          "desc": "When characters under the effect of **Icy Quill** applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:\n· When Shenhe uses **Spring Spirit Summoning**, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.\n· Max 50 stacks. Stacks last for 60s."
-        },
-        {
-          "name": "Divine Attainment",
-          "desc": "Increases the Level of **Divine Maiden's Deliverance** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Mystical Abandon",
-          "desc": "When characters trigger **Icy Quill**'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota."
-        }
-      ]
-    }
-  ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Deific Embrace",
+        "desc": "An active character within the field created by **Divine Maiden's Deliverance** gains 15% **Cryo DMG Bonus**.",
+        "minAscension": 1
+      },
+      {
+        "name": "Spirit Communion Seal",
+        "desc": "After Shenhe uses **Spring Spirit Summoning**, she will grant all nearby party members the following effects:\n· Press: Elemental Skill and Elemental Burst DMG increased by 15% for 10s.\n· Hold: Normal, Charged, and Plunging Attack DMG increased by 15% for 15s.",
+        "minAscension": 4
+      },
+      {
+        "name": "Precise Comings and Goings",
+        "desc": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Clarity of Heart",
+        "desc": "**Spring Spirit Summoning** can be used 1 more time."
+      },
+      {
+        "name": "Centered Spirit",
+        "desc": "**Divine Maiden's Deliverance** lasts for 6 seconds longer. Active characters within the skill's field deal 15% increased **Cryo** CRIT DMG."
+      },
+      {
+        "name": "Seclusion",
+        "desc": "Increases the Level of **Spring Spirit Summoning** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Insight",
+        "desc": "When characters under the effect of **Icy Quill** applied by Shenhe trigger its DMG Bonus effects, Shenhe will gain a Skyfrost Mantra stack:\n· When Shenhe uses **Spring Spirit Summoning**, she will consume all stacks of Skyfrost Mantra, increasing the DMG of that Spring Spirit Summoning by 5% for each stack consumed.\n· Max 50 stacks. Stacks last for 60s."
+      },
+      {
+        "name": "Divine Attainment",
+        "desc": "Increases the Level of **Divine Maiden's Deliverance** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Mystical Abandon",
+        "desc": "When characters trigger **Icy Quill**'s effects using Normal and Charged Attack DMG, it does not count toward the Trigger Quota."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

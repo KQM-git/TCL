@@ -16,7 +16,7 @@ export interface Character {
     weaponType: WeaponType
     baseStats: CharacterBaseStats
     curves: CurveElement[]
-    skills: Skills[]
+    skill: Skills
     ascensions: CharacterAscension[]
 }
 

@@ -23,292 +23,290 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Stealthy Bowshot",
-          "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal **Hydro DMG**.\n\n**Breakthrough**\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal **AoE Hydro DMG** based on Yelan's Max HP.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "40.7%",
-                "44.0%",
-                "47.3%",
-                "52.0%",
-                "55.3%",
-                "59.1%",
-                "64.3%",
-                "69.5%",
-                "74.7%",
-                "80.4%",
-                "86.1%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "39.0%",
-                "42.2%",
-                "45.4%",
-                "49.9%",
-                "53.1%",
-                "56.7%",
-                "61.7%",
-                "66.7%",
-                "71.7%",
-                "77.2%",
-                "82.6%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "51.6%",
-                "55.8%",
-                "60.0%",
-                "66.0%",
-                "70.2%",
-                "75.0%",
-                "81.6%",
-                "88.2%",
-                "94.8%",
-                "102.0%",
-                "109.2%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "32.5%+32.5%",
-                "35.2%+35.2%",
-                "37.8%+37.8%",
-                "41.6%+41.6%",
-                "44.2%+44.2%",
-                "47.2%+47.2%",
-                "51.4%+51.4%",
-                "55.6%+55.6%",
-                "59.7%+59.7%",
-                "64.3%+64.3%",
-                "68.8%+68.8%"
-              ]
-            },
-            {
-              "name": "Aimed Shot",
-              "values": [
-                "43.9%",
-                "47.4%",
-                "51.0%",
-                "56.1%",
-                "59.7%",
-                "63.7%",
-                "69.4%",
-                "75.0%",
-                "80.6%",
-                "86.7%",
-                "92.8%"
-              ]
-            },
-            {
-              "name": "Fully-Charged Aimed Shot",
-              "values": [
-                "124%",
-                "133%",
-                "143%",
-                "155%",
-                "164%",
-                "174%",
-                "186%",
-                "198%",
-                "211%",
-                "223%",
-                "236%"
-              ]
-            },
-            {
-              "name": "Breakthrough Barb DMG",
-              "values": [
-                "11.58% Max HP",
-                "12.44% Max HP",
-                "13.31% Max HP",
-                "14.47% Max HP",
-                "15.34% Max HP",
-                "16.21% Max HP",
-                "17.36% Max HP",
-                "18.52% Max HP",
-                "19.68% Max HP",
-                "20.84% Max HP",
-                "21.99% Max HP"
-              ]
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "56.8%",
-                "61.5%",
-                "66.1%",
-                "72.7%",
-                "77.3%",
-                "82.6%",
-                "89.9%",
-                "97.1%",
-                "104.4%",
-                "112.3%",
-                "120.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "114%/142%",
-                "123%/153%",
-                "132%/165%",
-                "145%/182%",
-                "155%/193%",
-                "165%/206%",
-                "180%/224%",
-                "194%/243%",
-                "209%/261%",
-                "225%/281%",
-                "240%/300%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Lingering Lifeline",
-          "desc": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path.\nWhen this rapid movement ends, the Lifeline will explode, dealing **Hydro DMG** to the marked opponents based on Yelan's Max HP.\n\n**Tap**\nMoves a certain distance forward swiftly.\n\n**Hold**\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased.\nDuring this time, Yelan can control this rapid movement and end it by using this Skill again.\n\nAdditionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% chance to reset her Breakthrough state.\n\n**Not until she begins to tug on the strings do evildoers, crooks, and scheming villains alike know that there is no escape.**",
-          "talentTable": [
-            {
-              "name": "Skill DMG",
-              "values": [
-                "22.6% Max HP",
-                "24.3% Max HP",
-                "26.0% Max HP",
-                "28.3% Max HP",
-                "30.0% Max HP",
-                "31.7% Max HP",
-                "33.9% Max HP",
-                "36.2% Max HP",
-                "38.4% Max HP",
-                "40.7% Max HP",
-                "43.0% Max HP",
-                "45.2% Max HP",
-                "48.1% Max HP"
-              ]
-            },
-            {
-              "name": "Max Duration (Hold)",
-              "value": "3.0s"
-            },
-            {
-              "name": "CD",
-              "value": "10.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Depth-Clarion Dice",
-        "desc": "Deals **AoE Hydro DMG** and creates an \"Exquisite Throw,\" which aids her in battle.\n\n**Exquisite Throw**\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing **Hydro DMG** based on Yelan's Max HP:\n·Can occur once every second when your active character uses a Normal Attack.\n·Will occur each time Yelan's Lifeline explodes and hits opponents.\n\n**\"A gambling addiction is going to do you no good. I mean, let me just do the math for you as the dealer. What do you think your odds of beating me are, when I have seven dice and you, only one?\"**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Stealthy Bowshot",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal **Hydro DMG**.\n\n**Breakthrough**\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal **AoE Hydro DMG** based on Yelan's Max HP.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "40.7%",
+              "44.0%",
+              "47.3%",
+              "52.0%",
+              "55.3%",
+              "59.1%",
+              "64.3%",
+              "69.5%",
+              "74.7%",
+              "80.4%",
+              "86.1%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "39.0%",
+              "42.2%",
+              "45.4%",
+              "49.9%",
+              "53.1%",
+              "56.7%",
+              "61.7%",
+              "66.7%",
+              "71.7%",
+              "77.2%",
+              "82.6%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "51.6%",
+              "55.8%",
+              "60.0%",
+              "66.0%",
+              "70.2%",
+              "75.0%",
+              "81.6%",
+              "88.2%",
+              "94.8%",
+              "102.0%",
+              "109.2%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "32.5%+32.5%",
+              "35.2%+35.2%",
+              "37.8%+37.8%",
+              "41.6%+41.6%",
+              "44.2%+44.2%",
+              "47.2%+47.2%",
+              "51.4%+51.4%",
+              "55.6%+55.6%",
+              "59.7%+59.7%",
+              "64.3%+64.3%",
+              "68.8%+68.8%"
+            ]
+          },
+          {
+            "name": "Aimed Shot",
+            "values": [
+              "43.9%",
+              "47.4%",
+              "51.0%",
+              "56.1%",
+              "59.7%",
+              "63.7%",
+              "69.4%",
+              "75.0%",
+              "80.6%",
+              "86.7%",
+              "92.8%"
+            ]
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "values": [
+              "124%",
+              "133%",
+              "143%",
+              "155%",
+              "164%",
+              "174%",
+              "186%",
+              "198%",
+              "211%",
+              "223%",
+              "236%"
+            ]
+          },
+          {
+            "name": "Breakthrough Barb DMG",
+            "values": [
+              "11.58% Max HP",
+              "12.44% Max HP",
+              "13.31% Max HP",
+              "14.47% Max HP",
+              "15.34% Max HP",
+              "16.21% Max HP",
+              "17.36% Max HP",
+              "18.52% Max HP",
+              "19.68% Max HP",
+              "20.84% Max HP",
+              "21.99% Max HP"
+            ]
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Lingering Lifeline",
+        "desc": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path.\nWhen this rapid movement ends, the Lifeline will explode, dealing **Hydro DMG** to the marked opponents based on Yelan's Max HP.\n\n**Tap**\nMoves a certain distance forward swiftly.\n\n**Hold**\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased.\nDuring this time, Yelan can control this rapid movement and end it by using this Skill again.\n\nAdditionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% chance to reset her Breakthrough state.\n\n**Not until she begins to tug on the strings do evildoers, crooks, and scheming villains alike know that there is no escape.**",
         "talentTable": [
           {
             "name": "Skill DMG",
             "values": [
-              "7.31% Max HP",
-              "7.86% Max HP",
-              "8.40% Max HP",
-              "9.13% Max HP",
-              "9.68% Max HP",
-              "10.23% Max HP",
-              "10.96% Max HP",
-              "11.69% Max HP",
-              "12.42% Max HP",
-              "13.15% Max HP",
-              "13.89% Max HP",
-              "14.62% Max HP",
-              "15.53% Max HP"
+              "22.6% Max HP",
+              "24.3% Max HP",
+              "26.0% Max HP",
+              "28.3% Max HP",
+              "30.0% Max HP",
+              "31.7% Max HP",
+              "33.9% Max HP",
+              "36.2% Max HP",
+              "38.4% Max HP",
+              "40.7% Max HP",
+              "43.0% Max HP",
+              "45.2% Max HP",
+              "48.1% Max HP"
             ]
           },
           {
-            "name": "Exquisite Throw DMG",
-            "values": [
-              "4.87% Max HP ×3",
-              "5.24% Max HP ×3",
-              "5.60% Max HP ×3",
-              "6.09% Max HP ×3",
-              "6.46% Max HP ×3",
-              "6.82% Max HP ×3",
-              "7.31% Max HP ×3",
-              "7.80% Max HP ×3",
-              "8.28% Max HP ×3",
-              "8.77% Max HP ×3",
-              "9.26% Max HP ×3",
-              "9.74% Max HP ×3",
-              "10.35% Max HP ×3"
-            ]
-          },
-          {
-            "name": "Duration",
-            "value": "15.0s"
+            "name": "Max Duration (Hold)",
+            "value": "3.0s"
           },
           {
             "name": "CD",
-            "value": "18.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "70"
+            "value": "10.0s"
           }
-        ],
-        "type": "Hydro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Depth-Clarion Dice",
+      "desc": "Deals **AoE Hydro DMG** and creates an \"Exquisite Throw,\" which aids her in battle.\n\n**Exquisite Throw**\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing **Hydro DMG** based on Yelan's Max HP:\n·Can occur once every second when your active character uses a Normal Attack.\n·Will occur each time Yelan's Lifeline explodes and hits opponents.\n\n**\"A gambling addiction is going to do you no good. I mean, let me just do the math for you as the dealer. What do you think your odds of beating me are, when I have seven dice and you, only one?\"**",
+      "talentTable": [
         {
-          "name": "Turn Control",
-          "desc": "When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "7.31% Max HP",
+            "7.86% Max HP",
+            "8.40% Max HP",
+            "9.13% Max HP",
+            "9.68% Max HP",
+            "10.23% Max HP",
+            "10.96% Max HP",
+            "11.69% Max HP",
+            "12.42% Max HP",
+            "13.15% Max HP",
+            "13.89% Max HP",
+            "14.62% Max HP",
+            "15.53% Max HP"
+          ]
         },
         {
-          "name": "Adapt With Ease",
-          "desc": "So long as an **Exquisite Throw** is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.\nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
-          "minAscension": 4
+          "name": "Exquisite Throw DMG",
+          "values": [
+            "4.87% Max HP ×3",
+            "5.24% Max HP ×3",
+            "5.60% Max HP ×3",
+            "6.09% Max HP ×3",
+            "6.46% Max HP ×3",
+            "6.82% Max HP ×3",
+            "7.31% Max HP ×3",
+            "7.80% Max HP ×3",
+            "8.28% Max HP ×3",
+            "8.77% Max HP ×3",
+            "9.26% Max HP ×3",
+            "9.74% Max HP ×3",
+            "10.35% Max HP ×3"
+          ]
         },
         {
-          "name": "Necessary Calculation",
-          "desc": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.",
-          "minAscension": 0
+          "name": "Duration",
+          "value": "15.0s"
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
         }
       ],
-      "constellations": [
-        {
-          "name": "Enter the Plotters",
-          "desc": "**Lingering Lifeline** gains 1 additional charge."
-        },
-        {
-          "name": "Taking All Comers",
-          "desc": "When **Exquisite Throw** conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.\nThis effect can trigger once every 1.8s."
-        },
-        {
-          "name": "Beware the Trickster's Dice",
-          "desc": "Increases the Level of **Depth-Clarion Dice** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Bait-and-Switch",
-          "desc": "Increases all party members' Max HP by 10% for 25s for every opponent marked by **Lifeline** when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner."
-        },
-        {
-          "name": "Dealer's Sleight",
-          "desc": "Increases the Level of **Lingering Lifeline** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Winner Takes All",
-          "desc": "After using **Depth-Clarion Dice**, Yelan will enter the Mastermind state.\nIn this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n\nThe Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows."
-        }
-      ]
-    }
-  ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Turn Control",
+        "desc": "When the party has 1/2/3/4 Elemental Types, Yelan's Max HP is increased by 6%/12%/18%/30%.",
+        "minAscension": 1
+      },
+      {
+        "name": "Adapt With Ease",
+        "desc": "So long as an **Exquisite Throw** is in play, your own active character deals 1% more DMG. This increases by a further 3.5% DMG every second. The maximum increase to DMG dealt is 50%.\nThe pre-existing effect will be dispelled if Depth-Clarion Dice is recast during its duration.",
+        "minAscension": 4
+      },
+      {
+        "name": "Necessary Calculation",
+        "desc": "Gains 25% more rewards when dispatched on a Liyue Expedition for 20 hours.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Enter the Plotters",
+        "desc": "**Lingering Lifeline** gains 1 additional charge."
+      },
+      {
+        "name": "Taking All Comers",
+        "desc": "When **Exquisite Throw** conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.\nThis effect can trigger once every 1.8s."
+      },
+      {
+        "name": "Beware the Trickster's Dice",
+        "desc": "Increases the Level of **Depth-Clarion Dice** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Bait-and-Switch",
+        "desc": "Increases all party members' Max HP by 10% for 25s for every opponent marked by **Lifeline** when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner."
+      },
+      {
+        "name": "Dealer's Sleight",
+        "desc": "Increases the Level of **Lingering Lifeline** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Winner Takes All",
+        "desc": "After using **Depth-Clarion Dice**, Yelan will enter the Mastermind state.\nIn this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n\nThe Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

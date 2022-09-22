@@ -23,326 +23,324 @@
       "curve": "Regular HP/DEF 5*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Yunlai Swordsmanship",
-          "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "41.0%",
-                "44.4%",
-                "47.7%",
-                "52.5%",
-                "55.8%",
-                "59.6%",
-                "64.9%",
-                "70.1%",
-                "75.4%",
-                "81.1%",
-                "86.8%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "41.0%",
-                "44.4%",
-                "47.7%",
-                "52.5%",
-                "55.8%",
-                "59.6%",
-                "64.9%",
-                "70.1%",
-                "75.4%",
-                "81.1%",
-                "86.8%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "54.4%",
-                "58.9%",
-                "63.3%",
-                "69.6%",
-                "74.1%",
-                "79.1%",
-                "86.1%",
-                "93.1%",
-                "100.0%",
-                "107.6%",
-                "115.2%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "31.5%+34.4%",
-                "34.0%+37.2%",
-                "36.6%+40.0%",
-                "40.3%+44.0%",
-                "42.8%+46.8%",
-                "45.8%+50.0%",
-                "49.8%+54.4%",
-                "53.8%+58.8%",
-                "57.8%+63.2%",
-                "62.2%+68.0%",
-                "66.6%+72.8%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "67.0%",
-                "72.4%",
-                "77.9%",
-                "85.7%",
-                "91.1%",
-                "97.4%",
-                "105.9%",
-                "114.5%",
-                "123.1%",
-                "132.4%",
-                "141.8%"
-              ]
-            },
-            {
-              "name": "Charged Attack DMG",
-              "values": [
-                "76.8%+86.0%",
-                "83.0%+93.0%",
-                "89.3%+100.0%",
-                "98.2%+110.0%",
-                "104.5%+117.0%",
-                "111.6%+125.0%",
-                "121.4%+136.0%",
-                "131.3%+147.0%",
-                "141.1%+158.0%",
-                "151.8%+170.0%",
-                "162.5%+182.0%"
-              ]
-            },
-            {
-              "name": "Charged Attack Stamina Cost",
-              "value": "25.0"
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "63.9%",
-                "69.1%",
-                "74.3%",
-                "81.8%",
-                "87.0%",
-                "92.9%",
-                "101.1%",
-                "109.3%",
-                "117.5%",
-                "126.4%",
-                "135.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "128%/160%",
-                "138%/173%",
-                "149%/186%",
-                "164%/204%",
-                "174%/217%",
-                "186%/232%",
-                "202%/253%",
-                "219%/273%",
-                "235%/293%",
-                "253%/316%",
-                "271%/338%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Stellar Restoration",
-          "desc": "Hurls a Lightning Stiletto that annihilates her opponents like the swift thunder.\nWhen the Stiletto hits its target, it deals **Electro DMG** to opponents in a small AoE, and places a Stiletto Mark on the spot hit.\n\n**Hold**\nHold to adjust the direction in which the Stiletto shall be thrown.\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\n\n**Lightning Stiletto**\n If Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n·If she uses Stellar Restoration again, she will blink to the location of the Mark and unleash one slashing attack that deals **AoE Electro DMG**. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\n·If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing **AoE Electro DMG**.\n\n**\"Humans are like moths, endlessly chasing the flame we call gods and adepti. But this light that I have here is my own.\"**",
-          "talentTable": [
-            {
-              "name": "Lightning Stiletto DMG",
-              "values": [
-                "50.4%",
-                "54.2%",
-                "58.0%",
-                "63.0%",
-                "66.8%",
-                "70.6%",
-                "75.6%",
-                "80.6%",
-                "85.7%",
-                "90.7%",
-                "95.8%",
-                "100.8%",
-                "107.1%"
-              ]
-            },
-            {
-              "name": "Slashing DMG",
-              "values": [
-                "168%",
-                "181%",
-                "193%",
-                "210%",
-                "223%",
-                "235%",
-                "252%",
-                "269%",
-                "286%",
-                "302%",
-                "319%",
-                "336%",
-                "357%"
-              ]
-            },
-            {
-              "name": "Thunderclap Slash DMG",
-              "values": [
-                "84.0%×2",
-                "90.3%×2",
-                "96.6%×2",
-                "105.0%×2",
-                "111.3%×2",
-                "117.6%×2",
-                "126.0%×2",
-                "134.4%×2",
-                "142.8%×2",
-                "151.2%×2",
-                "159.6%×2",
-                "168.0%×2",
-                "178.5%×2"
-              ]
-            },
-            {
-              "name": "CD",
-              "value": "7.5s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Starward Sword",
-        "desc": "Keqing unleashes the power of lightning, dealing **Electro DMG** in an AOE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of **Electro DMG**. The final attack deals massive **AoE Electro DMG**.\n\n**The swiftest technique in Keqing's personal arsenal is fast enough to bring stars crashing down.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Yunlai Swordsmanship",
+        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "88.0%",
-              "94.6%",
-              "101.2%",
-              "110.0%",
-              "116.6%",
-              "123.2%",
-              "132.0%",
-              "140.8%",
-              "149.6%",
-              "158.4%",
-              "167.2%",
-              "176.0%",
-              "187.0%"
+              "41.0%",
+              "44.4%",
+              "47.7%",
+              "52.5%",
+              "55.8%",
+              "59.6%",
+              "64.9%",
+              "70.1%",
+              "75.4%",
+              "81.1%",
+              "86.8%"
             ]
           },
           {
-            "name": "Consecutive Slash DMG",
+            "name": "2-Hit DMG",
             "values": [
-              "24.0%×8",
-              "25.8%×8",
-              "27.6%×8",
-              "30.0%×8",
-              "31.8%×8",
-              "33.6%×8",
-              "36.0%×8",
-              "38.4%×8",
-              "40.8%×8",
-              "43.2%×8",
-              "45.6%×8",
-              "48.0%×8",
-              "51.0%×8"
+              "41.0%",
+              "44.4%",
+              "47.7%",
+              "52.5%",
+              "55.8%",
+              "59.6%",
+              "64.9%",
+              "70.1%",
+              "75.4%",
+              "81.1%",
+              "86.8%"
             ]
           },
           {
-            "name": "Last Attack DMG",
+            "name": "3-Hit DMG",
             "values": [
-              "189%",
-              "203%",
-              "217%",
-              "236%",
-              "250%",
-              "264%",
-              "283%",
+              "54.4%",
+              "58.9%",
+              "63.3%",
+              "69.6%",
+              "74.1%",
+              "79.1%",
+              "86.1%",
+              "93.1%",
+              "100.0%",
+              "107.6%",
+              "115.2%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "31.5%+34.4%",
+              "34.0%+37.2%",
+              "36.6%+40.0%",
+              "40.3%+44.0%",
+              "42.8%+46.8%",
+              "45.8%+50.0%",
+              "49.8%+54.4%",
+              "53.8%+58.8%",
+              "57.8%+63.2%",
+              "62.2%+68.0%",
+              "66.6%+72.8%"
+            ]
+          },
+          {
+            "name": "5-Hit DMG",
+            "values": [
+              "67.0%",
+              "72.4%",
+              "77.9%",
+              "85.7%",
+              "91.1%",
+              "97.4%",
+              "105.9%",
+              "114.5%",
+              "123.1%",
+              "132.4%",
+              "141.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "76.8%+86.0%",
+              "83.0%+93.0%",
+              "89.3%+100.0%",
+              "98.2%+110.0%",
+              "104.5%+117.0%",
+              "111.6%+125.0%",
+              "121.4%+136.0%",
+              "131.3%+147.0%",
+              "141.1%+158.0%",
+              "151.8%+170.0%",
+              "162.5%+182.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stellar Restoration",
+        "desc": "Hurls a Lightning Stiletto that annihilates her opponents like the swift thunder.\nWhen the Stiletto hits its target, it deals **Electro DMG** to opponents in a small AoE, and places a Stiletto Mark on the spot hit.\n\n**Hold**\nHold to adjust the direction in which the Stiletto shall be thrown.\nStilettos thrown by the Hold attack mode can be suspended in mid-air, allowing Keqing to jump to them when using Stellar Restoration a second time.\n\n**Lightning Stiletto**\n If Keqing uses Stellar Restoration again or uses a Charged Attack while its duration lasts, it will clear the Stiletto Mark and produce different effects:\n·If she uses Stellar Restoration again, she will blink to the location of the Mark and unleash one slashing attack that deals **AoE Electro DMG**. When blinking to a Stiletto that was thrown from a Holding attack, Keqing can leap across obstructing terrain.\n·If Keqing uses a Charged Attack, she will ignite a series of thundering cuts at the Mark's location, dealing **AoE Electro DMG**.\n\n**\"Humans are like moths, endlessly chasing the flame we call gods and adepti. But this light that I have here is my own.\"**",
+        "talentTable": [
+          {
+            "name": "Lightning Stiletto DMG",
+            "values": [
+              "50.4%",
+              "54.2%",
+              "58.0%",
+              "63.0%",
+              "66.8%",
+              "70.6%",
+              "75.6%",
+              "80.6%",
+              "85.7%",
+              "90.7%",
+              "95.8%",
+              "100.8%",
+              "107.1%"
+            ]
+          },
+          {
+            "name": "Slashing DMG",
+            "values": [
+              "168%",
+              "181%",
+              "193%",
+              "210%",
+              "223%",
+              "235%",
+              "252%",
+              "269%",
+              "286%",
               "302%",
-              "321%",
-              "340%",
-              "359%",
-              "378%",
-              "401%"
+              "319%",
+              "336%",
+              "357%"
+            ]
+          },
+          {
+            "name": "Thunderclap Slash DMG",
+            "values": [
+              "84.0%×2",
+              "90.3%×2",
+              "96.6%×2",
+              "105.0%×2",
+              "111.3%×2",
+              "117.6%×2",
+              "126.0%×2",
+              "134.4%×2",
+              "142.8%×2",
+              "151.2%×2",
+              "159.6%×2",
+              "168.0%×2",
+              "178.5%×2"
             ]
           },
           {
             "name": "CD",
-            "value": "12.0s"
-          },
-          {
-            "name": "Energy Cost",
-            "value": "40"
+            "value": "7.5s"
           }
-        ],
-        "type": "Electro"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Starward Sword",
+      "desc": "Keqing unleashes the power of lightning, dealing **Electro DMG** in an AOE.\nShe then blends into the shadow of her blade, striking a series of thunderclap-blows to nearby opponents simultaneously that deal multiple instances of **Electro DMG**. The final attack deals massive **AoE Electro DMG**.\n\n**The swiftest technique in Keqing's personal arsenal is fast enough to bring stars crashing down.**",
+      "talentTable": [
         {
-          "name": "Thundering Penance",
-          "desc": "After recasting **Stellar Restoration** while a Lightning Stiletto is present, Keqing's weapon gains an **Electro Infusion** for 5s.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "88.0%",
+            "94.6%",
+            "101.2%",
+            "110.0%",
+            "116.6%",
+            "123.2%",
+            "132.0%",
+            "140.8%",
+            "149.6%",
+            "158.4%",
+            "167.2%",
+            "176.0%",
+            "187.0%"
+          ]
         },
         {
-          "name": "Aristocratic Dignity",
-          "desc": "When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
-          "minAscension": 4
+          "name": "Consecutive Slash DMG",
+          "values": [
+            "24.0%×8",
+            "25.8%×8",
+            "27.6%×8",
+            "30.0%×8",
+            "31.8%×8",
+            "33.6%×8",
+            "36.0%×8",
+            "38.4%×8",
+            "40.8%×8",
+            "43.2%×8",
+            "45.6%×8",
+            "48.0%×8",
+            "51.0%×8"
+          ]
         },
         {
-          "name": "Land's Overseer",
-          "desc": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
-          "minAscension": 0
+          "name": "Last Attack DMG",
+          "values": [
+            "189%",
+            "203%",
+            "217%",
+            "236%",
+            "250%",
+            "264%",
+            "283%",
+            "302%",
+            "321%",
+            "340%",
+            "359%",
+            "378%",
+            "401%"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "12.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "40"
         }
       ],
-      "constellations": [
-        {
-          "name": "Thundering Might",
-          "desc": "Recasting **Stellar Restoration** while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink."
-        },
-        {
-          "name": "Keen Extraction",
-          "desc": "When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.\nThis effect can only occur once every 5s."
-        },
-        {
-          "name": "Foreseen Reformation",
-          "desc": "Increases the Level of **Starward Sword** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Attunement",
-          "desc": "For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%."
-        },
-        {
-          "name": "Beckoning Stars",
-          "desc": "Increases the Level of **Stellar Restoration** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Tenacious Star",
-          "desc": "When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.\nEffects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities."
-        }
-      ]
-    }
-  ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Thundering Penance",
+        "desc": "After recasting **Stellar Restoration** while a Lightning Stiletto is present, Keqing's weapon gains an **Electro Infusion** for 5s.",
+        "minAscension": 1
+      },
+      {
+        "name": "Aristocratic Dignity",
+        "desc": "When casting **Starward Sword**, Keqing's CRIT Rate is increased by 15%, and her Energy Recharge is increased by 15%. This effect lasts for 8s.",
+        "minAscension": 4
+      },
+      {
+        "name": "Land's Overseer",
+        "desc": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Thundering Might",
+        "desc": "Recasting **Stellar Restoration** while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink."
+      },
+      {
+        "name": "Keen Extraction",
+        "desc": "When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.\nThis effect can only occur once every 5s."
+      },
+      {
+        "name": "Foreseen Reformation",
+        "desc": "Increases the Level of **Starward Sword** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Attunement",
+        "desc": "For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%."
+      },
+      {
+        "name": "Beckoning Stars",
+        "desc": "Increases the Level of **Stellar Restoration** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Tenacious Star",
+        "desc": "When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.\nEffects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,

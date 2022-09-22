@@ -23,346 +23,344 @@
       "curve": "Regular HP/DEF 4*"
     }
   ],
-  "skills": [
-    {
-      "talents": [
-        {
-          "name": "Normal Attack: Kätzlein Style",
-          "desc": "**Normal Attack**\nPerform up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal **Cryo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
-          "talentTable": [
-            {
-              "name": "1-Hit DMG",
-              "values": [
-                "36.1%",
-                "39.1%",
-                "42.0%",
-                "46.2%",
-                "49.1%",
-                "52.5%",
-                "57.1%",
-                "61.7%",
-                "66.4%",
-                "71.4%",
-                "77.2%"
-              ]
-            },
-            {
-              "name": "2-Hit DMG",
-              "values": [
-                "33.5%",
-                "36.3%",
-                "39.0%",
-                "42.9%",
-                "45.6%",
-                "48.8%",
-                "53.0%",
-                "57.3%",
-                "61.6%",
-                "66.3%",
-                "71.7%"
-              ]
-            },
-            {
-              "name": "3-Hit DMG",
-              "values": [
-                "45.6%",
-                "49.3%",
-                "53.0%",
-                "58.3%",
-                "62.0%",
-                "66.3%",
-                "72.1%",
-                "77.9%",
-                "83.7%",
-                "90.1%",
-                "97.4%"
-              ]
-            },
-            {
-              "name": "4-Hit DMG",
-              "values": [
-                "43.0%",
-                "46.5%",
-                "50.0%",
-                "55.0%",
-                "58.5%",
-                "62.5%",
-                "68.0%",
-                "73.5%",
-                "79.0%",
-                "85.0%",
-                "91.9%"
-              ]
-            },
-            {
-              "name": "5-Hit DMG",
-              "values": [
-                "53.8%",
-                "58.1%",
-                "62.5%",
-                "68.8%",
-                "73.1%",
-                "78.1%",
-                "85.0%",
-                "91.9%",
-                "98.8%",
-                "106.3%",
-                "114.8%"
-              ]
-            },
-            {
-              "name": "Aimed Shot",
-              "values": [
-                "43.9%",
-                "47.4%",
-                "51.0%",
-                "56.1%",
-                "59.7%",
-                "63.7%",
-                "69.4%",
-                "75.0%",
-                "80.6%",
-                "86.7%",
-                "93.7%"
-              ]
-            },
-            {
-              "name": "Fully-Charged Aimed Shot",
-              "values": [
-                "124%",
-                "133%",
-                "143%",
-                "155%",
-                "164%",
-                "174%",
-                "186%",
-                "198%",
-                "211%",
-                "223%",
-                "236%"
-              ]
-            },
-            {
-              "name": "Plunge DMG",
-              "values": [
-                "56.8%",
-                "61.5%",
-                "66.1%",
-                "72.7%",
-                "77.3%",
-                "82.6%",
-                "89.9%",
-                "97.1%",
-                "104.4%",
-                "112.3%",
-                "120.3%"
-              ]
-            },
-            {
-              "name": "Low/High Plunge DMG",
-              "values": [
-                "114%/142%",
-                "123%/153%",
-                "132%/165%",
-                "145%/182%",
-                "155%/193%",
-                "165%/206%",
-                "180%/224%",
-                "194%/243%",
-                "209%/261%",
-                "225%/281%",
-                "240%/300%"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Icy Paws",
-          "desc": "Fires an Icy Paw that deals **Cryo DMG** to opponents and forms a shield on hit.\nThe shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.\n\n**Press**\nRapidly fires off 2 Icy Paws.\n\n**Hold**\nDashes back quickly before firing five Icy Paws.\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.\n\nThe shield has a 250% **Cryo DMG** Absorption Bonus, and will cause your active character to become affected by **Cryo** at the point of formation for a short duration.\n\n**When she first started bartending, Diona found that no matter how much ice she put in her cocktails, it would never do a drunkard any harm. That all changed when she received her Vision — now she can form ice cold enough to cause severe brainfreeze. Five out of five stars!**",
-          "talentTable": [
-            {
-              "name": "Icy Paw DMG",
-              "values": [
-                "41.9% per Paw",
-                "45.1% per Paw",
-                "48.2% per Paw",
-                "52.4% per Paw",
-                "55.5% per Paw",
-                "58.7% per Paw",
-                "62.9% per Paw",
-                "67.1% per Paw",
-                "71.3% per Paw",
-                "75.5% per Paw",
-                "79.6% per Paw",
-                "83.8% per Paw",
-                "89.1% per Paw"
-              ]
-            },
-            {
-              "name": "Base Shield DMG Absorption",
-              "values": [
-                "7.2% Max HP+693",
-                "7.7% Max HP+762",
-                "8.3% Max HP+837",
-                "9.0% Max HP+918",
-                "9.5% Max HP+1005",
-                "10.1% Max HP+1097",
-                "10.8% Max HP+1195",
-                "11.5% Max HP+1299",
-                "12.2% Max HP+1409",
-                "13.0% Max HP+1524",
-                "13.7% Max HP+1646",
-                "14.4% Max HP+1773",
-                "15.3% Max HP+1905"
-              ]
-            },
-            {
-              "name": "Duration",
-              "values": [
-                "1.8s per Paw",
-                "1.9s per Paw",
-                "2.0s per Paw",
-                "2.1s per Paw",
-                "2.2s per Paw",
-                "2.3s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw",
-                "2.4s per Paw"
-              ]
-            },
-            {
-              "name": "Press CD",
-              "value": "6.0s"
-            },
-            {
-              "name": "Holding CD",
-              "value": "15.0s"
-            }
-          ]
-        }
-      ],
-      "ult": {
-        "name": "Signature Mix",
-        "desc": "Tosses out a special cold brew that deals **AoE Cryo DMG** and creates a Drunken Mist in an AoE.\n\n**Drunken Mist**\n·Deals continuous **Cryo DMG** to opponents within the AoE.\n·Continuously regenerates the HP of characters within the AoE.\n\n**A horrific mix that even Diona considers inhumane. The horrifying foretaste should be left for one's opponents. It has a crisp aftertaste, but unfortunately, one can only feel it on one's nose and skin.**",
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Kätzlein Style",
+        "desc": "**Normal Attack**\nPerform up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, biting frost will accumulate on the arrowhead. A fully charged frost arrow will deal **Cryo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
         "talentTable": [
           {
-            "name": "Skill DMG",
+            "name": "1-Hit DMG",
             "values": [
-              "80%",
-              "86%",
-              "92%",
-              "100%",
-              "106%",
-              "112%",
-              "120%",
-              "128%",
-              "136%",
-              "144%",
-              "152%",
-              "160%",
-              "170%"
+              "36.1%",
+              "39.1%",
+              "42.0%",
+              "46.2%",
+              "49.1%",
+              "52.5%",
+              "57.1%",
+              "61.7%",
+              "66.4%",
+              "71.4%",
+              "77.2%"
             ]
           },
           {
-            "name": "Continuous Field DMG",
+            "name": "2-Hit DMG",
             "values": [
-              "52.6%",
-              "56.6%",
-              "60.5%",
-              "65.8%",
-              "69.7%",
-              "73.7%",
+              "33.5%",
+              "36.3%",
+              "39.0%",
+              "42.9%",
+              "45.6%",
+              "48.8%",
+              "53.0%",
+              "57.3%",
+              "61.6%",
+              "66.3%",
+              "71.7%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "45.6%",
+              "49.3%",
+              "53.0%",
+              "58.3%",
+              "62.0%",
+              "66.3%",
+              "72.1%",
+              "77.9%",
+              "83.7%",
+              "90.1%",
+              "97.4%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "43.0%",
+              "46.5%",
+              "50.0%",
+              "55.0%",
+              "58.5%",
+              "62.5%",
+              "68.0%",
+              "73.5%",
               "79.0%",
-              "84.2%",
-              "89.5%",
-              "94.8%",
-              "100.0%",
-              "105.3%",
-              "111.9%"
+              "85.0%",
+              "91.9%"
             ]
           },
           {
-            "name": "HP Regeneration Over Time",
+            "name": "5-Hit DMG",
             "values": [
-              "5.34% Max HP+513",
-              "5.74% Max HP+565",
-              "6.14% Max HP+620",
-              "6.67% Max HP+680",
-              "7.07% Max HP+744",
-              "7.47% Max HP+813",
-              "8.00% Max HP+885",
-              "8.54% Max HP+962",
-              "9.07% Max HP+1044",
-              "9.60% Max HP+1129",
-              "10.14% Max HP+1219",
-              "10.67% Max HP+1313",
-              "11.34% Max HP+1411"
+              "53.8%",
+              "58.1%",
+              "62.5%",
+              "68.8%",
+              "73.1%",
+              "78.1%",
+              "85.0%",
+              "91.9%",
+              "98.8%",
+              "106.3%",
+              "114.8%"
+            ]
+          },
+          {
+            "name": "Aimed Shot",
+            "values": [
+              "43.9%",
+              "47.4%",
+              "51.0%",
+              "56.1%",
+              "59.7%",
+              "63.7%",
+              "69.4%",
+              "75.0%",
+              "80.6%",
+              "86.7%",
+              "93.7%"
+            ]
+          },
+          {
+            "name": "Fully-Charged Aimed Shot",
+            "values": [
+              "124%",
+              "133%",
+              "143%",
+              "155%",
+              "164%",
+              "174%",
+              "186%",
+              "198%",
+              "211%",
+              "223%",
+              "236%"
+            ]
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "56.8%",
+              "61.5%",
+              "66.1%",
+              "72.7%",
+              "77.3%",
+              "82.6%",
+              "89.9%",
+              "97.1%",
+              "104.4%",
+              "112.3%",
+              "120.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "114%/142%",
+              "123%/153%",
+              "132%/165%",
+              "145%/182%",
+              "155%/193%",
+              "165%/206%",
+              "180%/224%",
+              "194%/243%",
+              "209%/261%",
+              "225%/281%",
+              "240%/300%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Icy Paws",
+        "desc": "Fires an Icy Paw that deals **Cryo DMG** to opponents and forms a shield on hit.\nThe shield's DMG Absorption scales based on Diona's Max HP, and its duration scales off the number of Icy Paws that hit their target.\n\n**Press**\nRapidly fires off 2 Icy Paws.\n\n**Hold**\nDashes back quickly before firing five Icy Paws.\nThe shield created by a Hold attack will gain a 75% DMG Absorption Bonus.\n\nThe shield has a 250% **Cryo DMG** Absorption Bonus, and will cause your active character to become affected by **Cryo** at the point of formation for a short duration.\n\n**When she first started bartending, Diona found that no matter how much ice she put in her cocktails, it would never do a drunkard any harm. That all changed when she received her Vision — now she can form ice cold enough to cause severe brainfreeze. Five out of five stars!**",
+        "talentTable": [
+          {
+            "name": "Icy Paw DMG",
+            "values": [
+              "41.9% per Paw",
+              "45.1% per Paw",
+              "48.2% per Paw",
+              "52.4% per Paw",
+              "55.5% per Paw",
+              "58.7% per Paw",
+              "62.9% per Paw",
+              "67.1% per Paw",
+              "71.3% per Paw",
+              "75.5% per Paw",
+              "79.6% per Paw",
+              "83.8% per Paw",
+              "89.1% per Paw"
+            ]
+          },
+          {
+            "name": "Base Shield DMG Absorption",
+            "values": [
+              "7.2% Max HP+693",
+              "7.7% Max HP+762",
+              "8.3% Max HP+837",
+              "9.0% Max HP+918",
+              "9.5% Max HP+1005",
+              "10.1% Max HP+1097",
+              "10.8% Max HP+1195",
+              "11.5% Max HP+1299",
+              "12.2% Max HP+1409",
+              "13.0% Max HP+1524",
+              "13.7% Max HP+1646",
+              "14.4% Max HP+1773",
+              "15.3% Max HP+1905"
             ]
           },
           {
             "name": "Duration",
-            "value": "12.0s"
+            "values": [
+              "1.8s per Paw",
+              "1.9s per Paw",
+              "2.0s per Paw",
+              "2.1s per Paw",
+              "2.2s per Paw",
+              "2.3s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw",
+              "2.4s per Paw"
+            ]
           },
           {
-            "name": "CD",
-            "value": "20.0s"
+            "name": "Press CD",
+            "value": "6.0s"
           },
           {
-            "name": "Energy Cost",
-            "value": "80"
+            "name": "Holding CD",
+            "value": "15.0s"
           }
-        ],
-        "type": "Cryo"
-      },
-      "passive": [
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Signature Mix",
+      "desc": "Tosses out a special cold brew that deals **AoE Cryo DMG** and creates a Drunken Mist in an AoE.\n\n**Drunken Mist**\n·Deals continuous **Cryo DMG** to opponents within the AoE.\n·Continuously regenerates the HP of characters within the AoE.\n\n**A horrific mix that even Diona considers inhumane. The horrifying foretaste should be left for one's opponents. It has a crisp aftertaste, but unfortunately, one can only feel it on one's nose and skin.**",
+      "talentTable": [
         {
-          "name": "Cat's Tail Secret Menu",
-          "desc": "Characters shielded by **Icy Paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.",
-          "minAscension": 1
+          "name": "Skill DMG",
+          "values": [
+            "80%",
+            "86%",
+            "92%",
+            "100%",
+            "106%",
+            "112%",
+            "120%",
+            "128%",
+            "136%",
+            "144%",
+            "152%",
+            "160%",
+            "170%"
+          ]
         },
         {
-          "name": "Drunkards' Farce",
-          "desc": "Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.",
-          "minAscension": 4
+          "name": "Continuous Field DMG",
+          "values": [
+            "52.6%",
+            "56.6%",
+            "60.5%",
+            "65.8%",
+            "69.7%",
+            "73.7%",
+            "79.0%",
+            "84.2%",
+            "89.5%",
+            "94.8%",
+            "100.0%",
+            "105.3%",
+            "111.9%"
+          ]
         },
         {
-          "name": "Complimentary Bar Food",
-          "desc": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
-          "minAscension": 0
+          "name": "HP Regeneration Over Time",
+          "values": [
+            "5.34% Max HP+513",
+            "5.74% Max HP+565",
+            "6.14% Max HP+620",
+            "6.67% Max HP+680",
+            "7.07% Max HP+744",
+            "7.47% Max HP+813",
+            "8.00% Max HP+885",
+            "8.54% Max HP+962",
+            "9.07% Max HP+1044",
+            "9.60% Max HP+1129",
+            "10.14% Max HP+1219",
+            "10.67% Max HP+1313",
+            "11.34% Max HP+1411"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "12.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
         }
       ],
-      "constellations": [
-        {
-          "name": "A Lingering Flavor",
-          "desc": "Regenerates 15 Energy for Diona after the effects of **Signature Mix** end."
-        },
-        {
-          "name": "Shaken, Not Purred",
-          "desc": "Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.\nAdditionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s."
-        },
-        {
-          "name": "A—Another Round?",
-          "desc": "Increases the Level of **Signature Mix** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Wine Industry Slayer",
-          "desc": "Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%"
-        },
-        {
-          "name": "Double Shot, on the Rocks",
-          "desc": "Increases the Level of **Icy Paws** by 3.\nMaximum upgrade level is 15."
-        },
-        {
-          "name": "Cat's Tail Closing Time",
-          "desc": "Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%."
-        }
-      ]
-    }
-  ],
+      "type": "Cryo"
+    },
+    "passive": [
+      {
+        "name": "Cat's Tail Secret Menu",
+        "desc": "Characters shielded by **Icy Paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.",
+        "minAscension": 1
+      },
+      {
+        "name": "Drunkards' Farce",
+        "desc": "Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.",
+        "minAscension": 4
+      },
+      {
+        "name": "Complimentary Bar Food",
+        "desc": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "A Lingering Flavor",
+        "desc": "Regenerates 15 Energy for Diona after the effects of **Signature Mix** end."
+      },
+      {
+        "name": "Shaken, Not Purred",
+        "desc": "Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.\nAdditionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s."
+      },
+      {
+        "name": "A—Another Round?",
+        "desc": "Increases the Level of **Signature Mix** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Wine Industry Slayer",
+        "desc": "Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%"
+      },
+      {
+        "name": "Double Shot, on the Rocks",
+        "desc": "Increases the Level of **Icy Paws** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Cat's Tail Closing Time",
+        "desc": "Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%."
+      }
+    ]
+  },
   "ascensions": [
     {
       "level": 0,
