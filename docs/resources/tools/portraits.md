@@ -6,11 +6,18 @@ hide_table_of_contents: true
 
 A tool for making team portraits to use on KeqingMains guides. Based on muakasan's [Genshin Team Portrait Generator](https://github.com/muakasan/genshin-portraits).
 
+:::info
+Recommended to use a Chromium based browser due to [imageSmoothingQuality](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingQuality#browser_compatibility) support.
+:::
+
 ## Instructions
 
-- Click on a character below to add them to the team.
-- Click on a character in the preview to remove them from the current active characters.  
+- Click on an icon below to add them to the team.
+- Shift + click on an icon below to add them to the last icon as a multi-icon.
+- Click on an icon in the preview to remove them from the current team.  
 - A link to download as .png is available below the preview.
+
+## Output
 
 import PortraitGenerator from '@site/src/components/tools/PortraitGenerator'
 import charIcons from '@site/src/data/character_icons.json'

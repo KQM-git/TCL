@@ -53,9 +53,7 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
     path: `/assets/characters/icon/Keqing.png`
   }] as PortraitIcon[])
 
-  const [multi, setMulti] = useState(false)
-
-  function add(icon: PortraitIcon) {
+  function add(icon: PortraitIcon, multi: boolean) {
     if (multi) {
       if (!active[active.length - 1]) {
         setActive([icon])
@@ -69,15 +67,12 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
         return
       }
     }
-    setActive([...active, icon])
+    if (active.length < 8)
+      setActive([...active, icon])
   }
 
   return <div>
     <Preview active={active} remove={(i: number) => setActive([...active.slice(0, i), ...active.slice(i + 1)])} />
-
-    {multi ?
-      <button onClick={() => setMulti(false)}>End multi mode</button> :
-      <button onClick={() => setMulti(true)}>Start multi mode</button>}
 
     <h2>Characters</h2>
     <Tabs>
@@ -90,21 +85,21 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
               name,
               path: `/assets/characters/icon/${name.replace(/ /g, "_")}.png`
             }))}
-            onClick={icon => add(icon)}
+            onClick={add}
           />
           {relevant && <CharSelector
             icons={travelers.map(traveler => ({
               ...traveler,
               elementalIcon: relevant
             }))}
-            onClick={icon => add(icon)}
+            onClick={add}
           />}
         </TabItem>
       })}
     </Tabs>
 
     <h2>Elements</h2>
-    <CharSelector icons={elements} onClick={icon => add(icon)} />
+    <CharSelector icons={elements} onClick={add} />
 
     <h2>Misc</h2>
     <CharSelector
@@ -115,7 +110,7 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
         },
         ...travelers
       ]}
-      onClick={icon => add(icon)}
+      onClick={add}
     />
   </div>
 }
