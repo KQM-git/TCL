@@ -31,6 +31,9 @@ export default function Preview({ active, remove }: { active: PortraitIcon[], re
     canvas.width = totalWidth
     canvas.height = totalHeight
 
+    ctx.imageSmoothingEnabled = true
+    ctx.imageSmoothingQuality = "high"
+
     // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
     ctx.fillStyle = "#02041C"
     ctx.strokeStyle = "#000000"
