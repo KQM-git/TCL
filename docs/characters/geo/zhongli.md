@@ -2,6 +2,9 @@
 description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.
 ---
 
+import char from '@site/src/data/characters/Zhongli.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Zhongli
 
 ![](/assets/characters/gacha/Zhongli.png)
@@ -15,23 +18,19 @@ description: A mysterious expert contracted by the Wangsheng Funeral Parlor. Ext
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Geo DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 9533 | 163 | 479 | 14.40% |
-| 60+ | 10230 | 175 | 514 | 14.40% |
-| 70 | 11243 | 192 | 564 | 14.40% |
-| 70+ | 11940 | 204 | 599 | 21.60% |
-| 80 | 12965 | 222 | 651 | 21.60% |
-| 80+ | 13662 | 233 | 686 | 28.80% |
-| 90 | 14695 | 251 | 738 | 28.80% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Rain of Stone">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Zhongli performs up to 6 consecutive spear strikes.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,21 +42,18 @@ Zhongli performs up to 6 consecutive spear strikes.
 | 6-Hit | 100.12% | 153 | 173.58%/s | 61.52 | 6 |
 | Recovery | - | 200 | 132.79%/s | - | - |
 
-\* If the target is more than 2 meters away.
-
-* Zhongli's string has no hit lag on the spear kick \(N5\).
-* Zhongli's attack string does not always interact with C6 Fischl on his first attack.
-
-**Charged Attack**  
-Consumes 20 stamina to to lunge forward, causing stone spears to fall along his path.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack | 203.98% | - | - | 103.28 | Air, 0, 450 |
 | N1C | 260.51% | - | - | - | - |
 
-**Plunge Attack**  
-Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -65,32 +61,24 @@ Plunges from mid-air to strike the ground below, damaging opponents along the pa
 | Low Plunge DMG | 234.86% | 100 | 4 |
 | High Plunge DMG | 293.36% | 150 | 7 |
 
+</div>
+
+\* If the target is more than 2 meters away.
+
+**Notes**
+* Zhongli's string has no hit lag on the spear kick \(N5\).
+* Zhongli's attack string does not always interact with C6 Fischl on his first attack.
+
 </TabItem>
 
-<TabItem value="e" label="Dominus Lapidis">
-Every mountain, rock and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.
-
-**Press**  
-Commands the power of earth to create a **Stone Stele**.
-
-**Hold**  
-Causes nearby Geo energy to explode, causing the following effects:  
-* If their maximum number hasn't been reached, creates a **Stone Stele**.  
-* Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP.  
-* Deals AoE Geo DMG.  
-* If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.
-
-**Stone Stele**
-
-When created, **Stone Stele** deals AoE Geo damage.  
-Additionally, it will intermittently resonate with other nearby Geo constructs, dealing Geo damage to nearby opponents.  
-The Stone Stele is considered a Geo construct that can both be climbed and used to block attacks.  
-Only one Stele created by Zhongli himself may initially exist at any one time.
-
-**Jade Shield**
-
-Possesses 150% damage absorption against all Elemental and Physical damage.  
-Characters protected by the **Jade Shield** will decrease the Elemental Resistance and Physical Resistance of nearby enemies within a radius by 20%. This effect can not be stacked with other instances of **Jade Shield**.  
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<div>
+<Skill char={char} skill='e' sectionFilter='' />
+<Skill char={char} skill='e' sectionFilter='Press' />
+<Skill char={char} skill='e' sectionFilter='Hold' />
+</div>
 
 | Attribute | Stone Stele | Resonance DMG | Hold DMG |
 | :--- | :--- | :--- | :--- |
@@ -107,6 +95,19 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 | Poise Damage | 200 | 0 | 142.9 |
 | Impulse Type | 4 | 1 | 4 |
 
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='e' sectionFilter='Jade Shield' />
+
+| Attribute | Shield |
+| :--- | :--- |
+| Base Absorption \(T9%\)| 2506 |
+| Additional Absorption \(T9%\) | 21.76% Max HP |
+| Element | Geo |
+| Duration | 20s |
+
+</div>
+
 **Notes**
 * Hits that resonate from other Geo constructs still proc the 4-piece Tenacity of the Millileth set.
 * **Stone Steles** are considered a Geo construct that can be used to block attacks, or climb. 
@@ -116,24 +117,14 @@ Characters protected by the **Jade Shield** will decrease the Elemental Resistan
 * At C0, Hold E does not re-snapshot an existing pillar; at C1 each Stone Stele snapshots on cast, meaning it's possible to have 1 unbuffed **Stone Stele** and 1 buffed **Stone Stele** at the same time.
 * 4TotM does not increase the damage of the **Stone Stele** that procs the effect, because **Stone Stele** Snapshots. 
 * **Stone Stele** will not be placed and will be destroyed instead when Zhongli is standing on a high platform.
-
-| Attribute | Shield |
-| :--- | :--- |
-| Base Absorption \(T9%\)| 2506 |
-| Additional Absorption \(T9%\) | 21.76% Max HP |
-| Element | Geo |
-| Duration | 20s |
-
-**Notes**
 * The Resistance shred lingers for a bit after it breaks/ends.  
 
 </TabItem>
 
-<TabItem value="q" label="Planet Befall">
-Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the **Petrification** status to them.
-
-**Petrification**  
-Opponents affected by **Petrification** cannot move.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst  |
 | :--- | :--- |
@@ -152,6 +143,8 @@ Opponents affected by **Petrification** cannot move.
 | Poise Damage | Cast: 400 <br/> Burst: 500 |
 | Impulse Type | Cast: Heavy, 1200, 0 <br/> Burst: 2 |
 
+</div>
+
 **Notes**
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
 
@@ -160,22 +153,15 @@ Opponents affected by **Petrification** cannot move.
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Arcanum of Crystal
-
-Refunds 15% of the ore used when crafting Polearm-type weapons.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### Resonant Waves
-
-When the Jade Shield takes DMG, it will Fortify:
-* Fortified characters have 5% increased Shield Strength.
-Can stack up to 5 times, and lasts until the Jade Shield disappears.
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
 **Notes**
 * This Shield Strength increase occurs after damage is calculated.
@@ -185,138 +171,53 @@ Can stack up to 5 times, and lasts until the Jade Shield disappears.
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Dominance of Earth
-
-Zhongli deals bonus DMG based on his Max HP:
-* Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.
-* **Dominus Lapidis'** **Stone Stele**, resonance, and hold DMG is increased by 1.9% of Max HP.
-* **Planet Befall's** DMG is increased by 33% of Max HP.
-
+<Passive char={char} passive={1} />
 </TabItem>
 </Tabs>
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
-### Rock, the Backbone of Earth
-
-Increases the maximum number of Stone Steles created by **Dominus Lapidis** that may exist simultaneously to 2.
-
+**Notes**
 * Steles resonate independently and do not resonate with each other
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 
-### Stone, the Cradle of Jade
-
-**Planet Befall** grants nearby characters on the field a **Jade Shield** when it descends.
-
+**Notes**
 * The shield is visually granted after the burst, but all shield bonuses are active for the burst damage.
 
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Jade, Shimmering through Darkness
-
-Increases the Level of **Dominus Lapidis** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Topaz, Unbreakable and Fearless
-
-Increases **Planet Befall**'s AoE by 20% and increases the duration of **Planet Befall**'s **Petrification** effect by 2s.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Lazuli, Herald of the Order
-
-Increases the Level of **Planet Befall** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Chrysos, Bounty of Dominator
-
-When the **Jade Shield** takes DMG, 40% of that incoming DMG is converted to HP for the current character.
-A single instance of regeneration cannot exceed 8% of that character's Max HP.
-
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 </TabItem>
 </Tabs>
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Rain of Stone">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 30.77% | 33.27% | 35.78% | 39.36% | 41.86% | 44.72% | 48.66% | 52.59% | 56.53% | 60.82% | 65.74% |
-| 2-Hit DMG | 31.15% | 33.69% | 36.22% | 39.85% | 42.38% | 45.28% | 49.26% | 53.25% | 57.23% | 61.58% | 66.56% |
-| 3-Hit DMG | 38.58% | 41.72% | 44.86% | 49.34% | 52.48% | 56.07% | 61.00% | 65.94% | 70.87% | 76.26% | 82.42% |
-| 4-Hit DMG | 42.94% | 46.43% | 49.93% | 54.92% | 58.42% | 62.41% | 67.90% | 73.40% | 78.89% | 84.88% | 91.74% |
-| 5-Hit DMG (×4) | 10.75% | 11.63% | 12.50% | 13.75% | 14.62% | 15.63% | 17.00% | 18.38% | 19.75% | 21.25% | 22.97% |
-| 6-Hit DMG | 54.50% | 58.93% | 63.37% | 69.70% | 74.14% | 79.21% | 86.18% | 93.15% | 100.12% | 107.73% | 116.44% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 111.03% | 120.06% | 129.10% | 142.01% | 151.05% | 161.37% | 175.58% | 189.78% | 203.98% | 219.47% | 237.22% |
-
-**Stamina Cost**: 25
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
-
-</TabItem>
-
-<TabItem value="e" label="Dominus Lapidis">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Stone Stele | 16.0% | 17.2% | 18.4% | 20.0% | 21.2% | 22.4% | 24.0% | 25.6% | 27.2% | 28.8% | 30.4% | 32.0% | 34.0% |
-| Resonance DMG | 32.0% | 34.4% | 36.8% | 40.0% | 42.4% | 44.8% | 48.0% | 51.2% | 54.4% | 57.6% | 60.8% | 64.0% | 68.0% |
-| Hold DMG | 80% | 86% | 92% | 100% | 106% | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
-| Shield Base Absorption | 1232 | 1356 | 1489 | 1633 | 1787 | 1951 | 2126 | 2311 | 2506 | 2712 | 2927 | 3153 | 3389 |
-| Additional Shield Absorption | 12.80% Max HP | 13.76% Max HP | 14.72% Max HP | 16.00% Max HP | 16.96% Max HP | 17.92% Max HP | 19.20% Max HP | 20.48% Max HP | 21.76% Max HP | 23.04% Max HP | 24.32% Max HP | 25.60% Max HP | 27.20% Max HP |
-
-**Press Cooldown**: 4s  
-**Shield Duration**: 20s  
-**Cooldown (hold)**: 12s
-
-</TabItem>
-
-<TabItem value="q" label="Planet Befall">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 401.08% | 444.44% | 487.80% | 542.00% | 590.78% | 639.56% | 704.60% | 769.64% | 834.68% | 899.72% | 964.76% | 1029.80% | 1084.00% |
-| Petrification Duration | 3.1s | 3.2s | 3.3s | 3.4s | 3.5s | 3.6s | 3.7s | 3.8s | 3.9s | 4.0s | 4.0s | 4.0s | 4.0s |
-
-**Cooldown**: 12s  
-**Energy Cost**: 40
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 
