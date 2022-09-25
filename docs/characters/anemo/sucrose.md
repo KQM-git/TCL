@@ -2,6 +2,9 @@
 description: An alchemist filled with curiosity about all things. She researches bio-alchemy.
 ---
 
+import char from '@site/src/data/characters/Sucrose.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Sucrose
 
 ![](/assets/characters/gacha/Sucrose.png)
@@ -16,23 +19,19 @@ description: An alchemist filled with curiosity about all things. She researches
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Anemo DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6090 | 112 | 463 | 12% |
-| 60+ | 6501 | 120 | 494 | 12% |
-| 70 | 7141 | 131 | 543 | 12% |
-| 70+ | 7552 | 139 | 574 | 18% |
-| 80 | 8192 | 151 | 623 | 18% |
-| 80+ | 8604 | 158 | 654 | 24% |
-| 90 | 9244 | 170 | 703 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Wind Spirit Creation">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attack**  
-Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,18 +42,17 @@ Performs up to 4 attacks using Wind Spirits, dealing **Anemo** DMG.
 | Recovery | N/A | 132 | 116.25%/s | - | - |
 | GU | 1GU | - | - | - | - |
 
-**Notes:**  
-* N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
-
-**Charged Attack**  
-Consumes 50 Stamina to deal AoE **Anemo** DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack | 204.27% | 53 | 231.25%/s | 1GU | 120 | 5 |
 
-**Plunge Damage**  
- Calling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE **Anemo** DMG upon impact with the ground.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9 DMG% | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- |
@@ -62,10 +60,17 @@ Consumes 50 Stamina to deal AoE **Anemo** DMG.
 | Low Plunge DMG | 208.77% | 1GU | 50 | 3 |
 | High Plunge DMG | 260.76% | 1GU | 100 | 4 |
 
+</div>
+
+**Notes**
+* N1 is bugged and sometimes will not exist, but there are ways to work around it. See this [Vault Entry](../../evidence/characters/anemo/sucrose.md#sucrose-n1-bug-misconceptions-and-workarounds) for more details.
+
 </TabItem>
 
-<TabItem value="e" label="Astable Anemohypostasis Creation-6308">
-Creates a small **Wind Spirit** that pulls opponents and objects towards its location, launches opponents within its AoE, and deals **Anemo** DMG.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -80,6 +85,8 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 | Poise Damage | 150 |
 | Impulse Type | 7 |
 
+</div>
+
 **Notes**
 * When cancelled by a dash, the particles created by this skill are spawned on the direction where Sucrose is facing.
 * If you dash cancel Sucrose's Skill and switch characters too fast, no particles will be generated.
@@ -87,11 +94,10 @@ Creates a small **Wind Spirit** that pulls opponents and objects towards its loc
 
 </TabItem>
 
-<TabItem value="q" label="Forbidden Creation-Isomer 75/Type II">
-Sucrose hurls an unstable concoction that creates a **Large Wind Spirit.** While it persists, the **Large Wind Spirit** will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal **Anemo** DMG.
-
-**Elemental Absorption**  
-If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it will deal additional elemental DMG of that type. This can only occur once per use.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | DoT | Additional Elemental DMG |
 | :--- | :--- | :--- | 
@@ -110,6 +116,8 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 | Poise Damage | 150 |
 | Impulse Type | 7 |
 
+</div>
+
 **Notes**
 * Absorption priority: Pyro > Hydro > Electro > Cryo 
 * Absorption Damage is simultaneous 
@@ -120,20 +128,15 @@ If the **Wind Spirit** comes into contact with **Hydro/Pyro/Cryo/Electro,** it w
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Astable Invention
-
-When Sucrose crafts Character and Weapon Enhancement Materials, she has a 10% chance to obtain double the product.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### Catalyst Conversion
-
-When Sucrose triggers a **Swirl** reaction, all characters in the party with the matching element \(excluding Sucrose\) have their **Elemental Mastery** increased by 50 for 8s.
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
 **Notes**
 * This effect can be triggered even when Sucrose is not on the field.  
@@ -144,11 +147,9 @@ When Sucrose triggers a **Swirl** reaction, all characters in the party with the
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
 
-### Mollis Favonius
-
-When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isomer 75 / Type II** hits an opponent, increases all party members' \(excluding Sucrose\) **Elemental Mastery** by an amount equal to 20% of Sucrose's **Elemental Mastery** for 8s.
-
+**Notes**
 * A4 snapshots Sucrose's **Elemental Mastery**.
 * A4 also always activates *after* **Instructor** 4pc set bonus within the same proc.
 * A4 effect can be triggered even when Sucrose is not on the field.
@@ -160,40 +161,29 @@ When **Astable Anemohypostasis Creation - 6308** or **Forbidden Creation - Isome
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
-### Clustered Vacuum Field
-
-**Astable Anemohypostasis Creation - 6308** gains 1 additional charge.
+**Notes**
 * If you cancel by a dash then use the skill again too quick, it won't produce extra particles.
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Beth: Unbound Form
-
-The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Flawless Alchemistress
-
-Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
-### Alchemania
-
-Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.
-One hit may be counted every 0.1s.
-
+**Notes**
 * This counter starts even when E isn't on CD
   * Swapping characters and/or death do not reset the counter
   * This counter lasts for over 30s, the exact time cap is still unknown
@@ -202,21 +192,14 @@ One hit may be counted every 0.1s.
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Caution: Standard Flask
-
-Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
-### Chaotic Entropy
-
-If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.
-
+**Notes**
 * This buff lasts for 10 seconds.
 * C6 effect can be triggered even when Sucrose is not on the field.
 
@@ -225,59 +208,9 @@ If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Wind Spirit Creation">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 33.46% | 35.97% | 38.48% | 41.83% | 44.34% | 46.85% | 50.20% | 53.54% | 56.89% | 60.24% | 63.58% |
-| 2-Hit DMG | 30.62% | 32.91% | 35.21% | 38.27% | 40.57% | 42.86% | 45.92% | 48.99% | 52.05% | 55.11% | 58.17% |
-| 3-Hit DMG | 38.45% | 41.33% | 44.22% | 48.06% | 50.94% | 53.83% | 57.67% | 61.52% | 65.36% | 69.21% | 73.05% |
-| 4-Hit DMG | 47.92% | 51.51% | 55.11% | 59.90% | 63.49% | 67.08% | 71.88% | 76.67% | 81.46% | 86.25% | 91.04% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 120.16% | 129.17% | 138.18% | 150.20% | 159.21% | 168.22% | 180.24% | 192.26% | 204.27% | 216.29% | 228.30% |
-
-**Stamina Cost**: 50
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Astable Anemohypostasis Creation - 6308">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 211.20% | 227.04% | 242.88% | 264.00% | 279.84% | 295.68% | 316.80% | 337.92% | 359.04% | 380.16% | 401.28% | 422.40% | 448.80% |
-
-**Cooldown**: 15s
-
-</TabItem>
-
-<TabItem value="q" label="Forbidden Creation - Isomer 75 / Type II">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| DoT | 148.0% | 159.1% | 170.2% | 185.0% | 196.1% | 207.2% | 222.0% | 236.8% | 251.6% | 266.4% | 281.2% | 296.0% | 314.5% |
-| Additional Elemental DMG | 44.0% | 47.3% | 50.6% | 55.0% | 58.3% | 61.6% | 66.0% | 70.4% | 74.8% | 79.2% | 83.6% | 88.0% | 93.5% |
-
-**Duration**: 6.0s  
-**Cooldown**: 20.0s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 
