@@ -78,8 +78,8 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='e' />
 
 | Attribute         | Skill        |
-| :---------------- | :----------- | --- |
-| Skill DMG \(T9%\) | 429.76%      | 36  |
+| :---------------- | :----------- |
+| Skill DMG \(T9%\) | 429.76%      |
 | Particles         | 3            |
 | Frames            | 36           |
 | GU                | 2B           |

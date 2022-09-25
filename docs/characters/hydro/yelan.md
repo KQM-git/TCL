@@ -40,20 +40,20 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String                   | Talent 9% | Frames | MV/s    | Poise Damage        | Impulse Type |
-| :----------------------- | :-------- | :----- | :------ | :------------------ | :----------- | --- |
+| :----------------------- | :-------- | :----- | :------ | :------------------ | :----------- |
 | Aimed Shot               | 80.58%    | 15     | 322.32% | 10 \(Headshot: 30\) | 2            |
-| With Recovery            | -         | 25     | 193.39% | -                   | -            | -   |
+| With Recovery            | -         | 25     | 193.39% | -                   | -            |
 | Fully-Charged Aimed Shot | 210.8%    | 86     | 147.07% | 20 \(Headshot: 60\) | 5            |
-| With Recovery            | -         | 96     | 131.75% | -                   | -            | -   |
+| With Recovery            | -         | 96     | 131.75% | -                   | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Breakthrough' />
 
 | String                | Talent 9%     | Frames | MV/s          | Poise Damage | Impulse Type |
-| :-------------------- | :------------ | :----- | :------------ | :----------- | :----------- | --- | --- |
+| :-------------------- | :------------ | :----- | :------------ | :----------- | :----------- |
 | Breakthrough Barb DMG | 19.68% Max HP | 32     | 36.90% Max HP | 100          | 3            |
-| With Recovery         | -             | 42     | 28.13% Max HP | -            | -            | -   | -   |
+| With Recovery         | -             | 42     | 28.13% Max HP | -            | -            |
 
 </div>
 <div class='talent-columns'>
