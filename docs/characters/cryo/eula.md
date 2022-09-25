@@ -2,6 +2,9 @@
 description: The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.
 ---
 
+import char from '@site/src/data/characters/Eula.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Eula
 
 ![](/assets/characters/gacha/Eula.png)
@@ -16,24 +19,19 @@ description: The Spindrift Knight, a scion of the old aristocracy, and the Capta
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | CRIT DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 8579 | 222 | 487 | 69.20% |
-| 60+ | 9207 | 238 | 523 | 69.20% |
-| 70 | 10119 | 262 | 574 | 69.20% |
-| 70+ | 10746 | 278 | 610 | 78.80% |
-| 80 | 11669 | 302 | 662 | 78.80% |
-| 80+ | 12296 | 318 | 698 | 88.40% |
-| 90 | 13226 | 342 | 751 | 88.40% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
+import Skill from '@site/src/components/char/Skill'
+
 <Tabs>
-<TabItem value="na" label="Favonius Bladework - Edel">
-
-**Normal Attack**
-
-Eula performs up to 5 consecutive strikes.
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -44,9 +42,9 @@ Eula performs up to 5 consecutive strikes.
 | 5-Hit | 131.97% x2 | 250 | 243.92% | 69.21 x2 | 6 |
 | With Recovery | - | 305 | 199.93% | - | - |
 
-**Charged Attack**
-
-Eula drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -55,8 +53,9 @@ Eula drains Stamina over time to perform continuous slashes. At the end of the s
 | Stamina Cost | 40/s | - | - |
 | Max Duration | 5s | - | - |
 
-**Plunge Attack**  
-Eula plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE damage upon impact.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -64,22 +63,14 @@ Eula plunges from mid-air to strike the ground, damaging opponents along the pat
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
 
+</div>
+
 </TabItem>
 
-<TabItem value="e" label="Icetide Vortex">  
-Sharp frost, swift blade.
-
-**Press**  
-Slashes swiftly, dealing **Cryo** DMG.  
-When it hits an opponent, Eula gains a stack of **Grimheart** that stacks up to 2 times. These stacks can only be gained once every 0.3 seconds.
-
-**Grimheart**  
-Increases Eula's resistance to interruption and DEF.
-
-**Hold**  
-Wielding her sword, Eula consumes all the stacks of **Grimheart** and lashes forward, dealing AoE Cryo DMG to opponents in front of her.  
-If **Grimheart** stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.  
-Each consumed stack of **Grimheart** will be converted into an **Icewhirl Brand** that deals Cryo DMG to nearby opponents.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Press | Hold | Icewhirl Brand | 
 | :--- | :--- | :--- | :--- |
@@ -95,10 +86,7 @@ Each consumed stack of **Grimheart** will be converted into an **Icewhirl Brand*
 | Poise Damage | 120 | 150 | 50 |
 | Impulse Type | 3 | 5 | 1 |
 
-* Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
-
-**Grimheart**  
-Increases Eula's resistance to interruption and her DEF.
+</div>
 
 | Attribute | Value |
 | :--- | :--- |
@@ -108,16 +96,16 @@ Increases Eula's resistance to interruption and her DEF.
 | RES Decrease Duration | 7s per stack |
 | Grimheart Duration | 18s |
 
+**Notes**
+* Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
 * **Grimheart** stacks persist on switch.
 
 </TabItem>
 
-<TabItem value="q" label="Glacial Illumination">  
-Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a **Lightfall Sword** that follows her around for a duration of up to 7s.  
-While present, the **Lightfall Sword** increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the **Lightfall Sword**, which can gain an energy stack once every 0.1s.  
-Once its duration ends, the **Lightfall Sword** will descend and explode violently, dealing Physical DMG to nearby opponents.  
-This DMG scales on the number of energy stacks the **Lightfall Sword** has accumulated.  
-If Eula leaves the field, the **Lightfall Sword** will explode immediately.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Skill | Lightfall Sword |
 | :--- | :--- | :--- | 
@@ -137,6 +125,8 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 | CD | 20s | - | 
 | Poise Damage | 0\* | 400 |
 | Impulse Type | Air, 0, 800\* | Air, 0, 800 |
+
+</div>
 
 \* Beginning of the animation affect does 400  Poise Damage and has Impulse Type 3.
 
@@ -164,20 +154,15 @@ If Eula leaves the field, the **Lightfall Sword** will explode immediately.
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Aristocratic Introspection
-
-When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### Roiling Rime
-
-If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **Icetide Vortex**, a **Shattered Lightfall Sword** will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by **Glacial Illumination**.
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
 | Poise Damage | Impulse Type |
 | :--- | :--- |
@@ -190,23 +175,17 @@ If 2 stacks of **Grimheart** are consumed upon unleashing the Holding Mode of **
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Wellspring of War-Lust
-
-When **Glacial Illumination** is cast, the CD of **Icetide Vortex** is reset and Eula gains 1 stack of **Grimheart**.
-
+<Passive char={char} passive={1} />
 </TabItem>
 </Tabs>
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Tidal Illusion
-
-Every time **Icetide Vortex**'s **Grimheart** stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.
-Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
 **Notes**
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
@@ -214,118 +193,36 @@ Each stack consumed will increase the duration of this effect by 6s up to a maxi
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Lady of Seafoam
-
-Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Lawrence Pedigree
-
-Increases the Level of **Glacial Illumination** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
-### The Obstinacy of One's Inferiors
-
-**Lightfall Swords** deal 25% increased DMG against opponents with less than 50% HP.
-
+**Notes**
 * This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** \(Burst\) and the Lightfall Remnants from **Roiling Rime** \(A1\).
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Chivalric Quality
-
-Increases the Level of **Icetide Vortex** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Noble Obligation
-
-**Lightfall Swords** created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the **Lightfall Sword** an additional stack of energy.
-
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 </TabItem>
 </Tabs>
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Favonius Bladework - Edel">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 89.73% | 97.04% | 104.34% | 114.77% | 122.08% | 130.43% | 141.90% | 153.38% | 164.86% | 177.38% | 191.72% |
-| 2-Hit DMG | 93.55% | 101.17% | 108.78% | 119.66% | 127.27% | 135.98% | 147.94% | 159.91% | 171.87% | 184.93% | 199.88% |
-| 3-Hit DMG \(x2\) | 56.80% | 61.42% | 66.04% | 72.65% | 77.27% | 82.56% | 89.82% | 97.09% | 104.35% | 112.28% | 121.36% |
-| 4-Hit DMG | 112.64% | 121.81% | 130.98% | 144.08% | 153.25% | 163.72% | 178.13% | 192.54% | 206.95% | 222.67% | 240.68% |
-| 5-Hit DMG \(x2\) | 71.83% | 77.68% | 83.53% | 91.88% | 97.73% | 104.41% | 113.60% | 122.79% | 131.97% | 142.00% | 153.48% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 68.80% | 74.40% | 80.00% | 88.00% | 93.60% | 100.00% | 108.80% | 117.60% | 126.40% | 136.00% | 147.00% |
-| Charged Attack Final DMG | 124.40% | 134.52% | 144.65% | 159.12% | 169.24% | 180.81% | 196.72% | 212.64% | 228.55% | 245.90% | 265.79% |
-
-**Stamina Cost**: 40/s  
-**Max Duration**: 5s
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 159.37% |
-| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 318.67% |
-| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 398.03% |
-
-</TabItem>
-
-<TabItem value="e" label="Icetide Vortex">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 146.40% | 157.38% | 168.36% | 183.00% | 193.98% | 204.96% | 219.60% | 234.24% | 248.88% | 263.52% | 278.16% | 292.80% | 311.10% |
-| Hold DMG | 245.60% | 264.02% | 282.44% | 307.00% | 325.42% | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
-| Icewhirl Brand DMG | 96.00% | 103.20% | 110.40% | 120.00% | 127.20% | 134.40% | 144.00% | 153.60% | 163.20% | 172.80% | 182.40% | 192.00% | 204.00% |
-| Physical RES Decrease | 16.00% | 17.00% | 18.00% | 19.00% | 20.00% | 21.00% | 22.00% | 23.00% | 24.00% | 25.00% | 25.00% | 25.00% | 25.00% |
-| Cryo RES Decrease | 16.00% | 17.00% | 18.00% | 19.00% | 20.00% | 21.00% | 22.00% | 23.00% | 24.00% | 25.00% | 25.00% | 25.00% | 25.00% |
-
-**DEF Bonus**: 30% Per Stack  
-**Grimheart Duration**: 18s  
-**RES Decrease Duration**: 7s  
-**Press Cooldown**: 4s  
-**Cooldown (hold)**: 10s
-
-</TabItem>
-
-<TabItem value="q" label="Glacial Illumination">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 245.60% | 264.02% | 282.44% | 307.00% | 325.42% | 343.84% | 368.40% | 392.96% | 417.52% | 442.08% | 466.64% | 491.20% | 521.90% |
-| Lightfall Sword Base DMG | 367.05% | 396.92% | 426.80% | 469.48% | 499.36% | 533.50% | 580.45% | 627.40% | 674.34% | 725.56% | 784.25% | 853.26% | 922.27% |
-| DMG Per Stack | 74.99% | 81.10% | 87.20% | 95.92% | 102.02% | 109.00% | 118.59% | 128.18% | 137.78% | 148.24% | 160.23% | 174.33% | 188.43% |
-
-**Maximum Stacks**: 30  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

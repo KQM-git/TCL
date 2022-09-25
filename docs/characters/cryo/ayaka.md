@@ -2,6 +2,9 @@
 description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.
 ---
 
+import char from '@site/src/data/characters/Kamisato_Ayaka.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Kamisato Ayaka
 
 ![](/assets/characters/gacha/Kamisato_Ayaka.png)
@@ -15,23 +18,19 @@ description: Daughter of the Yashiro Commission's Kamisato Clan. Dignified and e
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | CRIT DMG |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 8341 | 222 | 509 | 69.2% |
-| 60+ | 8951 | 238 | 546 | 69.2% |
-| 70 | 9838 | 262 | 600 | 69.2% |
-| 70+ | 10448 | 278 | 637 | 78.8% |
-| 80 | 11345 | 302 | 692 | 78.8% |
-| 80+ | 11954 | 318 | 729 | 88.4% |
-| 90 | 12858 | 342 | 784 | 88.4% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Kamisato Art - Kabuki">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Performs up to 5 rapid strikes.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -41,8 +40,9 @@ Performs up to 5 rapid strikes.
 | 4-Hit DMG | 41.61% ×3 (124.83%) | 84 + 91 + 98 | 253.06%/s | 19.68 x3 | 2 x3 |
 | 5-Hit DMG | 143.64% | 136 | 245.72%/s | 74.1 | 7 |
 
-**Charged Attacks**  
-Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -51,6 +51,18 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 | N2C | 173.45% + 101.28%×3 (477.29%) | 115 | 249.02%/s | - | - |
 | N3C | 288.5% + 101.28%×3 (592.34%) | 140 | 253.86%/s | - | - |
 | N4C | 413.33% + 101.28%×3 (717.17%) | 171 | 251.64%/s | - | - |
+
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
+
+| String | Talent 9% | Poise Damage | Impulse Type |
+| :--- | :--- | :--- | :--- |
+| Plunge DMG | 117.46% | 25 | 2 |
+| Low Plunge DMG | 234.86% | 100 | 4 |
+| High Plunge DMG | 293.36% | 150 | 7 |
+
+</div>
 
 **Notes**
 * Ayaka's charged attacks are the first to work in a special way, as follows: When Ayaka starts her CA:  
@@ -61,19 +73,12 @@ Consumes a certain amount of Stamina(20) to unleash a flurry of sword ki.
 * Ayaka's charged attack ICDs are separate from her normal attack.
 * Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s Charged Attacks can also reach enemies below her ground level.
 
-**Plunge Attacks**  
-Plunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.
-
-| String | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 117.46% | 25 | 2 |
-| Low Plunge DMG | 234.86% | 100 | 4 |
-| High Plunge DMG | 293.36% | 150 | 7 |
-
 </TabItem>
 
-<TabItem value="e" label="Kamisato Art: Hyouka">
-Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Type | Skill |
 | :--- | :--- |
@@ -89,17 +94,13 @@ Summons blooming ice to launch nearby opponents, dealing AoE Cryo DMG.
 | Poise Damage | 110 |
 | Impulse Type | 7 |
 
+</div>
 </TabItem>
 
-<TabItem value="alt" label="Kamisato Art: Senho">
-
-**Alternate Sprint**  
-Ayaka consumes Stamina and cloaks herself in a frozen fog that moves with her. In Senho form, she moves swiftly upon water.  
-
-When she reappears, the following effects occur: 
-* Ayaka unleashes frigid energy to apply Cryo on nearby opponents.
-* Coldness condenses around Ayaka's blade, infusing her attacks with Cryo for a brief period.
-
+<TabItem value='alt' label='Alternative Sprint'>
+<h3>{getSkillName(char, 'alt')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='alt'/>
 
 | Attribute | Values |
 | :--- | :--- |
@@ -109,6 +110,8 @@ When she reappears, the following effects occur:
 | Poise Damage | 0 |
 | Impulse Type | 2 |
 
+</div>
+
 **Notes**
 * 1A Cryo is applied when Ayaka exits from her sprint.
 * This infusion causes Ayaka's attacks to apply 1A Cryo
@@ -116,14 +119,10 @@ When she reappears, the following effects occur:
 
 </TabItem>
 
-<TabItem value="q" label="Kamisato Art: Soumetsu">
-
-Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no To** that moves forward continuously.
-
-**Frostflake Seki no To** 
-
-* A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing Cryo DMG.
-* The snowstorm explodes after its duration ends, dealing AoE Cryo DMG.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Type | Burst |
 | :--- | :--- |
@@ -145,6 +144,8 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 | Bloom Poise Damage | 30 |
 | Bloom Impulse Type | 5 |
 
+</div>
+
 **Notes**
 * The whirl generated will stay in place for large enemies and frozen enemies
 * **Frostflake Seki no To** pushes away all nearby enemies. The extent to which enemies are pushed away depends on their weights & size.
@@ -156,93 +157,49 @@ Summons forth a snowstorm with flawless poise, unleashing a **Frostflake Seki no
 
 ## Ascension Passives
 
-<Tabs>
-<TabItem value="passive" label="Passive">
+import PassivesFull from '@site/src/components/char/PassivesFull'
 
-### Fruits of Shinsa
-
-When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.
-
-</TabItem>
-
-<TabItem value="a1" label="Ascension 1">
-
-### Amatsumi Kunitsumi Sanctification
-
-After using **Kamisato Art: Hyouka**, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.
-
-</TabItem>
-
-<TabItem value="a4" label="Ascension 4">
-
-### Kanten Senmyou Blessing
-
-When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects:
-* Restores 10 Stamina
-* Gains 18% **Cryo DMG Bonus** for 10s.
-
-</TabItem>
-</Tabs>
+<PassivesFull char={char} />
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Snowswept Sakura
-
-When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.
-
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Blizzard Blade Seki no To
-
-When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional **Frostflake Seki no To**, each dealing 20% of the original storm's DMG.
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 
 |  | Poise Damage | Impulse Type |
 | :--- | :--- | :--- |
 | Cutting | 30 | 3 |
 | Bloom | 30 | 5 |
 
+**Notes**
 * All three **Frostflake Seki no To** (one from burst and the two from C2) can hit the same target.
 * The additional **Frostflake Seki no To** share ICD with the main storm.
 
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Frostbloom Kamifubuki
-
-Increases the Level of **Kamisato Art: Soumetsu** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Ebb and Flow
-
-Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Blossom Cloud Irutsuki
-
-Increases the Level of **Kamisato Art: Hyouka** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
-### Dance of Suigetsu
-
-Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.
-
+**Notes**
 * This effect is additive with other sources of DMG%.
 
 </TabItem>
@@ -250,60 +207,9 @@ Kamisato Ayaka gains **Usurahi Butou** every 10s, increasing her Charged Attack 
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Kamisato Art - Kabuki">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 45.73% | 49.45% | 53.17% | 58.49% | 62.21% | 66.46% | 72.31% | 78.16% | 84.01% | 90.39% | 96.77% |
-| 2-Hit DMG | 48.68% | 52.65% | 56.61% | 62.27% | 66.23% | 70.76% | 76.99% | 83.22% | 89.44% | 96.24% | 103.03% |
-| 3-Hit DMG | 62.62% | 67.72% | 72.82% | 80.10% | 85.19% | 91.02% | 99.03% | 107.04% | 115.05% | 123.79% | 132.53% |
-| 4-Hit DMG (×3) | 22.65% | 24.49% | 26.33% | 28.97% | 30.81% | 32.92% | 35.81% | 38.71% | 41.61% | 44.77% | 47.93% |
-| 5-Hit DMG | 78.18% | 84.55% | 90.91% | 100.00% | 106.36% | 113.64% | 123.64% | 133.64% | 143.64% | 154.55% | 165.45% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG (×3) | 55.13% | 59.61% | 64.10% | 70.51% | 75.00% | 80.12% | 87.18% | 94.23% | 101.28% | 108.97% | 116.66% |
-
-**Stamina Cost**: 20
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 63.93% | 69.14% | 74.34% | 81.77% | 86.98% | 92.93% | 101.10% | 109.28% | 117.46% | 126.38% | 135.30% |
-| Low Plunge DMG | 127.84% | 138.24% | 148.65% | 163.51% | 173.92% | 185.81% | 202.16% | 218.51% | 234.86% | 252.70% | 270.54% |
-| High Plunge DMG | 159.68% | 172.67% | 185.67% | 204.24% | 217.23% | 232.09% | 252.51% | 272.93% | 293.36% | 315.64% | 337.92% |
-
-</TabItem>
-
-<TabItem value="e" label="Kamisato Art: Hyouka">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 239.20% | 257.14% | 275.08% | 299.00% | 316.94% | 334.88% | 358.80% | 382.72% | 406.64% | 430.56% | 454.48% | 478.40% | 508.30% |
-
-**Cooldown**: 10s
-
-</TabItem>
-
-<TabItem value="q" label="Kamisato Art: Soumetsu">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Cutting DMG | 112.30% | 120.72% | 129.15% | 140.37% | 148.80% | 157.22% | 168.45% | 179.68% | 190.91% | 202.14% | 213.37% | 224.60% | 238.64% |
-| Bloom DMG | 168.45% | 181.08% | 193.72% | 210.56% | 223.20% | 235.83% | 252.68% | 269.52% | 286.37% | 303.21% | 320.06% | 336.90% | 357.96% |
-
-**Duration**: 5s  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

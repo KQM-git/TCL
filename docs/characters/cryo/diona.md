@@ -2,6 +2,9 @@
 description: A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.
 ---
 
+import char from '@site/src/data/characters/Diona.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Diona
 
 ![](/assets/characters/gacha/Diona.png)
@@ -17,23 +20,19 @@ description: A young lady who has inherited trace amounts of non-human blood. Sh
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Cryo DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6305 | 140 | 396 | 12% |
-| 60+ | 6731 | 149 | 422 | 12% |
-| 70 | 7393 | 164 | 464 | 12% |
-| 70+ | 7818 | 174 | 491 | 18% |
-| 80 | 8481 | 188 | 532 | 18% |
-| 80+ | 8907 | 198 | 559 | 24% |
-| 90 | 9570 | 212 | 601 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Kätzlein Style">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attack**  
-Perform up to 5 consecutive shots with a bow.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -44,9 +43,9 @@ Perform up to 5 consecutive shots with a bow.
 | 5-Hit | 98.75% | 152 | 153.74%/s | 18.75 | 1 |
 | With Recovery | 389.47% | 190 | 122.99%/s | - | - |
 
-**Charged Attack**  
-Perform a precise Aimed Shot with increased DMG.  
-A fully charged shot will deal Cryo DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -56,12 +55,10 @@ A fully charged shot will deal Cryo DMG.
 | With Recovery | - | 94 | 134.55%/s | - | - | - |
 | C4 Fully Charged | 210.8% | 50 | 252.96%/s | 1A | <!--- not on the sheet--> | <!--- not on the sheet--> |
 | With Recovery | - | 58 | 218.07%/s | - | - | - |
-* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
-* Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
-* Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
 
-**Plunge Attack**  
-Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -69,19 +66,19 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
 
+</div>
+
+**Notes**
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
+* Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
+
 </TabItem>
 
-<TabItem value="e" label="Icy Paws">
-Fire **Icy Paws** that deal Cryo DMG to opponents and forms a shield on hit.  
-The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration scales off the number of **Icy Paws** that hit their target.
-
-**Press**
-* Rapidly fires off 2 **Icy Paws**.
-
-**Hold**
-* Dashes back quickly and before firing 5 **Icy Paws**.
-* The shield created by a Hold attack will gain a 75% DMG Absorption Bonus.
-* The shield has a 250% Cryo DMG Absorption bonus.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -96,6 +93,8 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 | CD | 6s | 15s |
 | Poise Damage | 30 | 30 |
 | Impulse Type | 2 | 2 |
+
+</div>
 
 | Attribute | Shield | 
 |:--- | :--- |
@@ -114,12 +113,10 @@ The shield’s DMG Absorption scales based on Diona’s Max HP, and its duration
 
 </TabItem>
 
-<TabItem value="q" label="Signature Mix">
-Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken Mist**:
-
-**Drunken Mist:**
-* Deals continuous Cryo DMG to opponents within the AoE.
-* Continuously regenerates HP of the characters within the AoE.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -132,6 +129,8 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 | Energy Cost | 80 |
 | Poise Damage | 50 |
 | Impulse Type | 2 |
+
+</div>
 
 | Attribute | Field |
 | :--- |:---|
@@ -157,91 +156,61 @@ Tosses out a special cold brew that deals AoE Cryo DMG and creates a **Drunken M
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Complimentary Bar Food
-
-When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
-### Cat's Tail Secret Menu
-
-Characters shielded by **Icy paws** have their Movement SPD increased by 10% and their Stamina Consumption decreased by 10%.  
-
+**Notes**
 * Ths can stack with other forms of stamina reduction as long as they are not the exact same.  
 
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Drunkards' Farce
-
-Opponents who enter the AoE of **Signature Mix** have 10% decreased ATK for 15s.
-
+<Passive char={char} passive={1} />
 </TabItem>
 </Tabs>
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
-### A Lingering Flavor
-
-Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.
-
+**Notes**
 * There is no range limit as long as Diona is on the same map.
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 
-### Shaken, Not Purred
-
-Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.
-Additionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s.
-
+**Notes**
 * This DMG increase is **Additive**.
 
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### A—Another Round?
-
-Increases the Level of **Signature Mix** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Wine Industry Slayer
-
-Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Double Shot, on the Rocks
-
-Increases the Level of **Icy Paws** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Cat's Tail Closing Time
-
-Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:
-* Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.
-* Elemental Mastery increased by 200 when HP is above 50%.
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
 **Notes**
 * The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
@@ -251,65 +220,9 @@ Characters within **Signature Mix**'s radius will gain the following effects bas
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Kätzlein Style">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 36.12% | 39.06% | 42.00% | 46.20% | 49.14% | 52.50% | 57.12% | 61.74% | 66.36% | 71.40% | 77.17% |
-| 2-Hit DMG | 33.54% | 36.27% | 39.00% | 42.90% | 45.63% | 48.75% | 53.04% | 57.33% | 61.62% | 66.30% | 71.66% |
-| 3-Hit DMG | 45.58% | 49.29% | 53.00% | 58.30% | 62.01% | 66.25% | 72.08% | 77.91% | 83.74% | 90.10% | 97.39% |
-| 4-Hit DMG | 43.00% | 46.50% | 50.00% | 55.00% | 58.50% | 62.50% | 68.00% | 73.50% | 79.00% | 85.00% | 91.87% |
-| 5-Hit DMG | 53.75% | 58.13% | 62.50% | 68.75% | 73.12% | 78.13% | 85.00% | 91.87% | 98.75% | 106.25% | 114.84% |
-
-### Aimed Shot
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 93.71% |
-| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 236.10% |
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Icy Paws">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Icy Paw DMG \(per Paw\) | 41.92% | 45.06% | 48.21% | 52.40% | 55.54% | 58.69% | 62.88% | 67.07% | 71.26% | 75.46% | 79.65% | 83.84% | 89.08% |
-| Base Shield DMG Absorption Scaling | 7.20% Max HP | 7.74% Max HP | 8.28% Max HP | 9.00% Max HP | 9.54% Max HP | 10.08% Max HP | 10.80% Max HP | 11.52% Max HP | 12.24% Max HP | 12.96% Max HP | 13.68% Max HP | 14.40% Max HP | 15.30% Max HP |
-| Base Shield DMG Absorption Additive | 693 | 762 | 837 | 918 | 1005 | 1097 | 1195 | 1299 | 1409 | 1524 | 1646 | 1773 | 1905 |
-| Duration \(per Paw\) | 1.8s | 1.9s | 2.0s | 2.1s | 2.2s | 2.3s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s | 2.4s |
-
-**Press Cooldown**: 6s  
-**Holding Cooldown**: 15s
-
-</TabItem>
-
-<TabItem value="q" label="Signature Mix">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 80.00% | 86.00% | 92.00% | 100.00% | 106.00% | 112.00% | 120.00% | 128.00% | 136.00% | 144.00% | 152.00% | 160.00% | 170.00% |
-| Continuous Field DMG | 52.64% | 56.59% | 60.54% | 65.80% | 69.75% | 73.70% | 78.96% | 84.22% | 89.49% | 94.75% | 100.02% | 105.28% | 111.86% |
-| HP Regeneration Over Time Scaling | 5.34% | 5.74% | 6.14% | 6.67% | 7.07% | 7.47% | 8.00% | 8.54% | 9.07% | 9.60% | 10.14% | 10.67% | 11.34% |
-| HP Regeneration Over Time Additive | 513 | 565 | 620 | 680 | 744 | 813 | 885 | 962 | 1044 | 1129 | 1219 | 1313 | 1411 |
-
-**Duration**: 12s  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 
