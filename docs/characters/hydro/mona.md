@@ -29,7 +29,9 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
-<TabItem value='na' label={getSkillName(char, 'na')}>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
@@ -40,10 +42,8 @@ import Skill from '@site/src/components/char/Skill'
 | 4-Hit | 95.47% | 113 | 157.56%/s | 1A | 11.85 | 2 |
 | With Recovery | 296.75% | 154 | 115.62%/s | 1A | - | - |
 
-* Frame counts are done using M1 Spams.
-* Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD
-
+</div>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
@@ -52,10 +52,8 @@ import Skill from '@site/src/components/char/Skill'
 | N2C | 379.64% | 141 | 161.55% | - | - | - |
 | N3C | 451.32% | 197 | 137.46% | - | - | - |
 
-* Charged Attack frame counts are done using Timed M1 Spams
-* N2C and N3C frame counts are done using the same method without Jump Cancels.
-* 0.5s ICD
-
+</div>
+<div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9% | GU | Poise Damage | Impulse Type |
@@ -64,9 +62,21 @@ import Skill from '@site/src/components/char/Skill'
 | Low Plunge DMG | 208.77% | 1A | 50 | 3 |
 | High Plunge DMG | 260.76% | 1A | 100 | 4 |
 
+</div>
+
+**Notes**
+* Frame counts are done using M1 Spams.
+* Mona's 3rd Normal Attack has 2 different animations. She will either jump backwards or forward depending on the position of her target.
+* 3 hits / 2.5s ICD
+* Charged Attack frame counts are done using Timed M1 Spams
+* N2C and N3C frame counts are done using the same method without Jump Cancels.
+* 0.5s ICD
+
 </TabItem>
 
-<TabItem value='e' label={getSkillName(char, 'e')}>
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
 <Skill char={char} skill='e' />
 
 | Attribute | DoT | Explosion |
@@ -85,6 +95,8 @@ import Skill from '@site/src/components/char/Skill'
 | Poise Damage | 40 | 150 |
 | Impulse Type | 2 | 3 |
 
+</div>
+
 **Notes**
 * Mona can dash before **Mirror Reflection of Doom** finishes casting, which leads to no **Phantom** being created.
 * **Mirror Reflection of Doom** (Hold) has invincibility frames that can be utilized for dodging.
@@ -93,8 +105,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 
-<TabItem value='alt' label={getSkillName(char, 'alt')}>
-<Skill char={char} skill='alt' />
+<TabItem value='alt' label='Alternative Sprint'>
+<h3>{getSkillName(char, 'alt')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='alt'/>
 
 | Attribute | Values |
 | :--- | :--- |
@@ -105,6 +119,8 @@ import Skill from '@site/src/components/char/Skill'
 | Poise Damage | 0 |
 | Impulse Type | 2 |
 
+</div>
+
 **Notes**
 * **Illusory Torrent** isn't affected by stamina reduction passives from Kaeya or Razor
 * **Illusory Torrent** holds priority over Mona's skill, meaning that if you dash before Mona's skill is finished casting, the skill cast will be cancelled and Mona will dash instead.
@@ -114,8 +130,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 
-<TabItem value='q' label={getSkillName(char, 'q')}>
-<Skill char={char} skill='q' />
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Bubble | Omen |
 | :--- | :--- | :--- |
@@ -133,6 +151,8 @@ import Skill from '@site/src/components/char/Skill'
 | CD | 15s | - | 
 | Poise Damage | Bubble Application: 50 <br/> Bubble Explosion: 200 | - |
 | Impulse Type | 1 | - |
+
+</div>
 
 **Notes**
 * Bubble Burst DMG is determined at the time the Bubble is actually triggered, rather than snapshotting on immediate cast.

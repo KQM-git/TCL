@@ -2,7 +2,12 @@
 description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Festival," she excels in her craft of creating fireworks that symbolize people's hopes and dreams.
 ---
 
+import char from '@site/src/data/characters/Yoimiya.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Yoimiya
+
+![](/assets/characters/gacha/Yoimiya.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
@@ -10,29 +15,21 @@ description: Owner of Naganohara Fireworks. Known as the "Queen of the Summer Fe
 * [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
 * [Yoimiya Full Guide](https://keqingmains.com/yoimiya/)
 
-## Yoimiya
-
-![](/assets/characters/gacha/Yoimiya.png)
-
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | CRIT Rate |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6593 | 209 | 399 | 14.6% |
-| 60+ | 7075 | 225 | 428 | 14.6% |
-| 70 | 7777 | 247 | 470 | 14.6% |
-| 70+ | 8259 | 262 | 500 | 19.4% |
-| 80 | 8968 | 285 | 542 | 19.4% |
-| 80+ | 9450 | 300 | 572 | 24.2% |
-| 90 | 10164 | 323 | 615 | 24.2% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Firework Flare-Up">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Performs up to 5 consecutive shots with a bow.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type \(no E/with E\) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,14 +40,9 @@ Performs up to 5 consecutive shots with a bow.
 | 5-Hit DMG | 178.04% | 154 | 279.95%/s | 23.84 | 1 / 2 |
 | With Recovery | - | 186 | 231.79%/s | - | - |
 
-* The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
-
-**Aimed Shot**  
-Performs a more precise Aimed Shot with increased DMG.
-
-While aiming, flames will accumulate on the arrowhead before being fired off as an attack.  
-• Charge Level 1: Fires off a flaming arrow that deals Pyro DMG.  
-• Charge Level 2: Generates a maximum of 3 **Kindling Arrows** based on time spent charging, releasing them as part of this Aimed Shot. Kindling Arrows will home in on nearby opponents, dealing Pyro DMG on hit.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -60,16 +52,10 @@ While aiming, flames will accumulate on the arrowhead before being fired off as 
 | With Recovery | - | 97 | 130.39%/s | - | - | - |
 | Kindling Arrows (1, 2, 3) | 27.88% | 103, 121, 139 | 139.03%/s, 132.18%/s, 127.10%/s | 1A | 20 | 2 |
 | With Recovery | - | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | - |
-
-* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
-* Regular Charge Level 2 arrows have Impulse Type 2 and headshots have 5, Poise Damage is the same as Charge Level 1.
-* **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
-* Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
-* **Kindling Arrows** are affected by [Amos' Bow](../../equipment/weapons/bows.md#amos-bow)'s passive and reach max stacks at low range.
-* When hitting a weakspot with **Kindling Arrows**, Yoimiya can activate the [Prototype Crescent](../../equipment/weapons/bows.md#prototype-crescent) passive but not always crit. 
-
-**Plunge Attacks**  
-Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+ 
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | String | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -77,13 +63,23 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Low Plunge DMG | 208.11% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
 
+</div>
+
+**Notes**
+* The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* Regular Charge Level 2 arrows have Impulse Type 2 and headshots have 5, Poise Damage is the same as Charge Level 1.
+* **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
+* Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.
+* **Kindling Arrows** are affected by [Amos' Bow](../../equipment/weapons/bows.md#amos-bow)'s passive and reach max stacks at low range.
+* When hitting a weakspot with **Kindling Arrows**, Yoimiya can activate the [Prototype Crescent](../../equipment/weapons/bows.md#prototype-crescent) passive but not always crit.
+
 </TabItem>
 
-<TabItem value="e" label="Niwabi Fire-Dance">
-Yoimiya waves a sparkler and causes a ring of saltpeter to surround her. 
-
-**Niwabi Enshou**  
-During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arrows**, and their DMG will be increased and converted to Pyro DMG. During this time, Normal Attack: Firework Flare-Up will not generate Kindling Arrows at Charge Level 2. This effect will deactivate when Yoimiya leaves the field.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Skill | 
 | :--- | :--- |
@@ -99,6 +95,8 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 | Poise Damage | 60 |
 | Impulse Type | 3 |
 
+</div>
+
 **Notes**
 * The Damage Bonus from **Niwabi Fire-Dance** is multiplicative.
 * Yoimiya's particle generation triggers on infused arrow hit and has an ICD of 2s on particle generation.
@@ -113,13 +111,10 @@ During this time, arrows fired by Yoimiya's Normal Attack will be **Blazing Arro
 
 </TabItem>
 
-<TabItem value="q" label="Ryuukin Saxifrage">
-Yoimiya leaps into the air along with her original creation, the "**Ryuukin Saxifrage**," and fires forth blazing rockets bursting with surprises that deal AoE Pyro DMG and mark one of the hit opponents with **Aurous Blaze**.
-
-**Aurous Blaze**  
-All Normal/Charged/Plunging Attacks, Elemental Skills, and Elemental Bursts by any party member other than Yoimiya that hit an opponent marked by **Aurous Blaze** will trigger an explosion, dealing AoE Pyro DMG.  
-When an opponent affected by **Aurous Blaze** is defeated before its duration expires, the effect will pass on to another nearby opponent, who will inherit the remaining duration.  
-One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, **Aurous Blaze** effects created through her skills will be deactivated.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst | Aurous Blaze Explosion |
 | :--- | :--- | ---- |
@@ -138,25 +133,22 @@ One **Aurous Blaze** explosion can be triggered every 2s. When Yoimiya is down, 
 | Poise Damage | 220 | 60 |
 | Impulse Type | Air, 200, 800 | 3 |
 
+</div>
+
 </TabItem>
 </Tabs>
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Blazing Match
-
-When Yoimiya crafts Decoration, Ornament, and Landscape-type Furnishings, she has a 100% chance to refund a portion of the materials used.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### Tricks of the Trouble-Maker
-
-During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase her **Pyro DMG Bonus** by 2% on hit. This effect lasts for 3s and can have a maximum of 10 stacks.
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
 **Notes**
 * Stacks gained from **Tricks of the Trouble-Maker** do not have independent durations, each Normal Attack hit will refresh the duration of all stacks to 3s.
@@ -166,71 +158,43 @@ During **Niwabi Fire-Dance**, shots from Yoimiya's Normal Attack will increase h
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Summer Night's Dawn
-
-Using **Ryuukin Saxifrage** causes nearby party members (not including Yoimiya) to gain a 10% ATK increase for 15s. Additionally, a further ATK Bonus will be added on based on the number of "Tricks of the Trouble-Maker" stacks Yoimiya possesses when using **Ryuukin Saxifrage**. Each stack increases this ATK Bonus by 1%.
-
+<Passive char={char} passive={1} />
 </TabItem>
 </Tabs>
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Agate Ryuukin
-
-The Aurous Blaze created by **Ryuukin Saxifrage** lasts for an extra 4s.
-Additionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.
-
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### A Procession of Bonfires
-
-When Yoimiya's **Pyro DMG** scores a CRIT Hit, Yoimiya will gain a 25% **Pyro DMG Bonus** for 6s.
-This effect can be triggered even when Yoimiya is not the active character.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Trickster's Flare
-
-Increases the Level of **Niwabi Fire-Dance** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Pyrotechnic Professional
-
-When Yoimiya's own Aurous Blaze triggers an explosion, **Niwabi Fire-Dance**'s CD is decreased by 1.2s.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### A Summer Festival's Eve
-
-Increases the Level of **Ryuukin Saxifrage** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Naganohara Meteor Swarm
-
-During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
 | Poise Damage | Impulse Type |
 | :--- | :--- |
 | 15 | 2 |
 
+**Notes**
 * Kindling Arrow shares ICD with Yoimiya's infused Normal Attacks.
 * These extra Blazing Arrow shares ICD with Yoimiya's infused normal attacks.
 
@@ -239,61 +203,9 @@ During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firi
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Firework Flare-Up">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG (×2) | 35.64% | 38.07% | 40.50% | 43.74% | 46.17% | 49.00% | 52.65% | 56.30% | 59.94% | 63.59% | 67.23% |
-| 2-Hit DMG | 68.38% | 73.04% | 77.70% | 83.92% | 88.58% | 94.02% | 101.01% | 108.00% | 115.00% | 121.99% | 128.98% |
-| 3-Hit DMG | 88.89% | 94.95% | 101.01% | 109.09% | 115.15% | 122.22% | 131.31% | 140.40% | 149.49% | 158.59% | 167.68% |
-| 4-Hit DMG (×2) | 46.42% | 49.58% | 52.75% | 56.97% | 60.14% | 63.83% | 68.58% | 73.32% | 78.07% | 82.82% | 87.56% |
-| 5-Hit DMG | 105.86% | 113.08% | 120.30% | 129.92% | 137.14% | 145.56% | 156.39% | 167.22% | 178.04% | 188.87% | 199.70% |
-
-### Aimed Shot
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
-| Fully-Charged Aimed Shot | 124.0% | 133.3% | 142.6% | 155.0% | 164.3% | 173.6% | 186.0% | 198.4% | 210.8% | 223.2% | 235.6% |
-| Kindling Arrow DMG | 16.40% | 17.63% | 18.86% | 20.50% | 21.73% | 22.96% | 24.60% | 26.24% | 27.88% | 29.52% | 31.16% |
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Niwabi Fire-Dance">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Blazing Arrow DMG (Normal Attack DMG) | 137.91% | 140.18% | 142.45% | 145.40% | 147.67% | 149.94% | 152.89% | 155.84% | 158.79% | 161.74% | 164.70% | 167.65% | 170.60% |
-
-**Duration**: 10s  
-**Cooldown**: 18s
-
-</TabItem>
-
-<TabItem value="q" label="Ryuukin Saxifrage">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 127.20% | 136.74% | 146.28% | 159.00% | 168.54% | 178.08% | 190.80% | 203.52% | 216.24% | 228.96% | 241.68% | 254.40% | 270.30% |
-| Aurous Blaze Explosion DMG | 122.00% | 131.15% | 140.30% | 152.50% | 161.65% | 170.80% | 183.00% | 195.20% | 207.40% | 219.60% | 231.80% | 244.00% | 259.25% |
-
-**Duration**: 10s  
-**Cooldown**: 15s  
-**Energy Cost**: 60
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

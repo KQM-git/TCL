@@ -2,37 +2,35 @@
 description: Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.
 ---
 
+import char from '@site/src/data/characters/Amber.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Amber
+
+![](/assets/characters/gacha/Amber.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [Full Amber Guide](https://keqingmains.com/amber/)
 * [8 Minute Guide to Amber](https://www.youtube.com/watch?v=QW40leHPgJ8)
 
-## Amber
-
-![](/assets/characters/gacha/Amber.png)
-
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | ATK% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6233 | 147 | 396 | 12% |
-| 60+ | 6654 | 157 | 422 | 12% |
-| 70 | 7309 | 172 | 464 | 12% |
-| 70+ | 7730 | 182 | 491 | 18% |
-| 80 | 8385 | 198 | 532 | 18% |
-| 80+ | 8806 | 208 | 559 | 24% |
-| 90 | 9461 | 223 | 601 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Sharpshooter">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attack**  
-Perform up to 5 consecutive shots with a bow.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -42,9 +40,9 @@ Perform up to 5 consecutive shots with a bow.
 | 4-Hit | 86.9% | 113 | 161.92% | 14.4 | 1 |
 | 5-Hit | 109.02% | 144 | 172.48% | 16.5 | 1 |
 
-**Aimed Shot**  
-Perform a precise Aimed Shot with increased DMG.  
-A fully charged shot will deal Pyro DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -52,10 +50,10 @@ A fully charged shot will deal Pyro DMG.
 | With Recovery | - | 25 | 193.392%/s | - |  - | - |
 | Fully Charged | 210.8% | 86 | 147.07%/s | 2B | 20 \(Headshot: 60\) | 5 |
 | With Recovery | - | 96 | 131.75%/s | - | - | - |
-* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
-**Plunge Attack**  
-Fire a shower of arrows from mid-air before falling striking the ground, dealing AoE DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -63,19 +61,17 @@ Fire a shower of arrows from mid-air before falling striking the ground, dealing
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
 
+</div>
+
+**Notes**
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+
 </TabItem>
 
-<TabItem value="e" label="Explosive Puppet">
-The ever-reliable Baron Bunny takes the stage.
-
-**Baron Bunny**  
-• Continuously taunts the enemy, drawing their fire.  
-• **Baron Bunny**'s HP scales with Amber's Max HP.  
-• When destroyed or when its timer expires, **Baron Bunny** explodes, dealing AoE Pyro DMG.
-
-**Hold**  
-Adjusts the throwing direction of Baron Bunny.  
-The longer the button is held, the further the throw.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Effect | Skill |
 | :--- | :--- |
@@ -93,6 +89,8 @@ The longer the button is held, the further the throw.
 | Explosion Poise Damage | 260 |
 | Explosion Impulse Type | 5 |
 
+</div>
+
 **Notes**
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
 * **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
@@ -108,8 +106,10 @@ The longer the button is held, the further the throw.
 
 </TabItem>
 
-<TabItem value="q" label="Fiery Rain">
-Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Effect | Burst |
 | :--- | :--- |
@@ -129,6 +129,8 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 | Poise Damage | Main Arrows: 7.22 x5 <br/> Sub Arrows: 7.22 x13 |
 | Impulse Type | Main Arrows: 2 x5 <br/> Sub Arrows: 0 x13 |
 
+</div>
+
 **Notes**
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
 * Does 18 waves total over 2 seconds in the center of the AoE.
@@ -142,60 +144,34 @@ Fires off a Shower of arrows, dealing AoE Pyro DMG in a Burst.
 
 ## Ascension Passives
 
-<Tabs>
-<TabItem value="passive" label="Passive">
+import PassivesFull from '@site/src/components/char/PassivesFull'
 
-### Gliding Champion
-
-Decreases gliding Stamina consumption for your own party members by 20%.
-Not stackable with Passive Talents that provide the exact same effects.
-
-</TabItem>
-
-<TabItem value="a1" label="Ascension 1">
-
-### Every Arrow Finds Its Target
-
-Increases the CRIT Rate of **Fiery Rain** by 10% and widens its AoE by 30%.
-
-</TabItem>
-
-<TabItem value="a4" label="Ascension 4">
-
-### Precise Shot
-
-Aimed Shot hits on weak points increase ATK by 15% for 10s.
-
-</TabItem>
-</Tabs>
+<PassivesFull char={char} />
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### One Arrow to Rule Them All
-
-Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG.
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
 | Extra Arrow | Poise Damage | Impulse Type |
 |:--- | :--- | :--- |
 | Aime Shot | 2 \(Headshot: 6\) | 2 \(Headshot: 5\) |
 | Fully Charged | 4 \(Headshot: 12\) | 2 \(Headshot: 5\) |
 
+**Notes**
 * The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.
 * Shared ICD with Charged Attack.
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 
-### Bunny Triggered
-
-Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.
-Explosion via manual detonation deals 200% additional DMG.
-
+**Notes**
 * Explosion via manual detonation deals 200% additional DMG.  
 * C2 damage instance is considered skill damage.  
 * Baron Bunny snapshots.  
@@ -203,97 +179,28 @@ Explosion via manual detonation deals 200% additional DMG.
 
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### It Burns!
-
-Increases the Level of **Fiery Rain** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### It's Not Just Any Doll...
-
-Decreases **Explosive Puppet**'s CD by 20%. Adds 1 additional charge.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### It's Baron Bunny!
-
-Increases the Level of **Explosive Puppet** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Wildfire
-
-**Fiery Rain** increases all party members' Movement SPD by 15% and ATK by 15% for 10s.
-
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 </TabItem>
 </Tabs>
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Sharpshooter">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 36.12% | 39.06% | 42.00% | 46.20% | 49.14% | 52.50% | 57.12% | 61.74% | 66.36% | 71.40% | 76.44% |
-| 2-Hit DMG | 36.12% | 39.06% | 42.00% | 46.20% | 49.14% | 52.50% | 57.12% | 61.74% | 66.36% | 71.40% | 76.44% |
-| 3-Hit DMG | 46.44% | 50.22% | 54.00% | 59.40% | 63.18% | 67.50% | 73.44% | 79.38% | 85.32% | 91.80% | 98.28% |
-| 4-Hit DMG | 47.30% | 51.15% | 55.00% | 60.50% | 64.35% | 68.75% | 74.80% | 80.85% | 86.90% | 93.50% | 100.10% |
-| 5-Hit DMG | 59.34% | 64.17% | 69.00% | 75.90% | 80.73% | 86.25% | 93.84% | 101.43% | 109.02% | 117.30% | 125.58% |
-
-### Aimed Shot
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
-| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 235.60% |
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Explosive Puppet">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Inherited HP | 41.36% | 44.46% | 47.56% | 51.70% | 54.80% | 57.90% | 62.04% | 66.18% | 70.31% | 74.45% | 78.58% | 82.72% | 87.89% |
-| Explosion DMG | 123.20% | 132.44% | 141.68% | 154.00% | 163.24% | 172.48% | 184.80% | 197.12% | 209.44% | 221.76% | 234.08% | 246.40% | 261.80% |
-
-**Cooldown**: 15s
-
-</TabItem>
-
-<TabItem value="q" label="Fiery Rain">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fiery Rain DMG Per Wave | 28.08% | 30.19% | 32.29% | 35.10% | 37.21% | 39.31% | 42.12% | 44.93% | 47.74% | 50.54% | 53.35% | 56.16% | 59.67% |
-| Total Fiery Rain DMG | 505.44% | 543.35% | 581.26% | 631.80% | 669.71% | 707.62% | 758.16% | 808.70% | 859.25% | 909.79% | 960.34% | 1010.88% | 1074.06% |
-
-**Duration**: 2s  
-**Cooldown**: 12s  
-**Energy Cost**: 40
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

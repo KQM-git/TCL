@@ -2,7 +2,12 @@
 description: An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.
 ---
 
+import char from '@site/src/data/characters/Klee.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Klee
+
+![](/assets/characters/gacha/Klee.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
@@ -11,29 +16,21 @@ description: An explosives expert and a regular at the Knights of Favonius's con
 * [Klee Mains Discord](https://discord.gg/NwYDDrfKZU)
 * [In Depth Klee Guide](https://keqingmains.com/klee/)
 
-## Klee
-
-![](/assets/characters/gacha/Klee.png)
-
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Pyro DMG % |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6673 | 202 | 399 | 14.40% |
-| 60+ | 7161 | 216 | 428 | 14.40% |
-| 70 | 7870 | 238 | 470 | 14.40% |
-| 70+ | 8358 | 253 | 500 | 21.60% |
-| 80 | 9076 | 274 | 542 | 21.60% |
-| 80+ | 9563 | 289 | 572 | 28.80% |
-| 90 | 10287 | 311 | 615 | 28.80% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Kaboom!">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | Motion Value | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -41,22 +38,17 @@ Throws things that go boom when they hit things! Perform up to 3 explosive attac
 | 2-Hit | 106.08% | 76 | 180.59%/s | 1A | 65 | 3 |
 | 3-Hit | 152.86% | 151 | 151.63%/s | 1A | 130 | 5 |
 
-
-**Notes**
-* Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
-* 3 hits / 2.5s ICD, shared with elemental skill
-
-**Charged Attack**  
-Consumes 50 stamina and deals AoE Pyro DMG to opponents after a short casting time.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | Motion Value | GU | ICD | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | CA | 267.51% | 50 | 321.01%/s | 1A | 0.5s | 180 | 8 |
 
-* Enemies struck by Klee's charged attack will be staggered or launched.
-
-**Plunge Attack**  
-Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -64,16 +56,19 @@ Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damag
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
 
+</div>
+
+**Notes**
+* Klees's normal and charged attacks have the **blunt** attribute allowing them to break shields like claymores.
+* 3 hits / 2.5s ICD, shared with elemental skill
+* Enemies struck by Klee's charged attack will be staggered or launched.
+
 </TabItem>
 
-<TabItem value="e" label="Jumpy Dumpty">
-Jumpy Dumpty is tons of boom-bang-fun!
-
-When thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.  
-On the third bounce, the bomb splits into many mines.
-
-The mines will explode upon contact with opponents, or after a short period of time, dealing AoE Pyro DMG.  
-Starts with 2 charges.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Bounce DMG | Mine DMG |
 | :--- | :--- | :--- |
@@ -89,6 +84,8 @@ Starts with 2 charges.
 | Poise Damage | 40 | 40 |
 | Impulse Type | 3 | 3 |
 
+</div>
+
 **Notes** 
 * Splits into 8 mines
 * Bounce ICD is shared with normals
@@ -99,8 +96,10 @@ Starts with 2 charges.
 
 </TabItem>
 
-<TabItem value="q" label="Sparks \'n\' Splash">
-Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing AoE Pyro DMG.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -120,6 +119,8 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 | Poise Damage | 25 |
 | Impulse Type | 0 |
 
+</div>
+
 **Notes**
 * Deals damage in 6 waves over 10 seconds. On each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
 * ICD is shared with C1.
@@ -131,22 +132,17 @@ Klee's Blazing Delight! For the duration of this ability, continuously summons S
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### All Of My Treasures!
-
-Displays the location of nearby **resources unique to Mondstadt** on the mini-map.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
-### Pounding Surprise
-
-When **Jumpy Dumpty** and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.  
-This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.
-
+**Notes**
 * Mines generated by Jumpy Dumpty can generate an Explosive Spark.  
 * Klee can only generate an Explosive Spark every 4 seconds.  
 * Explosive Spark lasts up to 30 seconds when not consumed.  
@@ -156,12 +152,10 @@ This Explosive Spark is consumed by the next Charged Attack, which costs no Stam
 
 </TabItem>
 
-<TabItem value="a4" label="Ascension 4">
+<TabItem value='a4' label='Ascension 4'>
+<Passive char={char} passive={1} />
 
-### Sparkling Burst
-
-When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.
-
+**Notes**
 * This energy is not affected by ER.
 * This energy can proc vs enemy shields
 
@@ -170,12 +164,11 @@ When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Eleme
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Chained Reactions
-
-Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
 | Attribute | Chained Reactions |
 | --- | --- |
@@ -196,28 +189,16 @@ Attacks and Skills have a certain chance to summon sparks that bombard opponents
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Explosive Frags
-
-Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Exquisite Compound
-
-Increases the Level of **Jumpy Dumpty** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Sparkly Explosion
-
-If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**.
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
 | Type | GU | ICD |
 | :--- | :--- | :--- |
@@ -225,26 +206,19 @@ If Klee leaves the field during the duration of **Sparks 'n' Splash**, her depar
 | Poise Damage | 120 |
 | Impulse Type | 5 |
 
+**Notes**
 * Klee’s C4 damage instance has no ability type scaling tags. 
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Nova Burst
-
-Increases the Level of **Sparks 'n' Splash** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
-### Blazing Delight
-
-While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.
-When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG Bonus** for 25s.
-
+**Notes**
 * Blazing Delight does not stack with itself.
 * Blazing Delight can snapshot Klee's own Elemental Burst. 
 
@@ -253,59 +227,9 @@ When **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Kaboom!">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 72.16% | 77.57% | 82.98% | 90.20% | 95.61% | 101.02% | 108.24% | 115.46% | 122.67% | 129.89% | 137.39% |
-| 2-Hit DMG | 62.40% | 67.08% | 71.76% | 78.00% | 82.68% | 87.36% | 93.60% | 99.84% | 106.08% | 112.32% | 118.81% |
-| 3-Hit DMG | 89.92% | 96.66% | 103.41% | 112.40% | 119.14% | 125.89% | 134.88% | 143.87% | 152.86% | 161.86% | 171.21% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 157.36% | 169.16% | 180.96% | 196.70% | 208.50% | 220.30% | 236.04% | 251.78% | 267.51% | 283.25% | 299.61% |
-
-**Stamina Cost**: 50
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Jumpy Dumpty">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jumpy Dumpty DMG | 95.20% | 102.34% | 109.48% | 119.00% | 126.14% | 133.28% | 142.80% | 152.32% | 161.84% | 171.36% | 180.88% | 190.40% | 202.30% |
-| Mine DMG | 32.80% | 35.26% | 37.72% | 41.00% | 43.46% | 45.92% | 49.20% | 52.48% | 55.76% | 59.04% | 62.32% | 65.60% | 69.70% |
-
-**Mine Duration**: 15s  
-**Cooldown**: 20s
-
-</TabItem>
-
-<TabItem value="q" label="Sparks 'n' Splash">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sparks 'n' Splash DMG | 42.64% | 45.84% | 49.04% | 53.30% | 56.50% | 59.70% | 63.96% | 68.22% | 72.49% | 76.75% | 81.02% | 85.28% | 90.61% |
-
-**Duration**: 10s  
-**Cooldown**: 15s  
-**Energy Cost**: 60
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

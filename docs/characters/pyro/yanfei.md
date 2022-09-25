@@ -2,7 +2,12 @@
 description: A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.
 ---
 
+import char from '@site/src/data/characters/Yanfei.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Yanfei
+
+![](/assets/characters/gacha/Yanfei.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
@@ -10,34 +15,21 @@ description: A well-known legal adviser active in Liyue Harbor. A brilliant youn
 
 * [Yanfei Full Guide](https://keqingmains.com/yanfei/)
 
-## Yanfei
-
-![](/assets/characters/gacha/Yanfei.png)
-
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Pyro DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6161 | 158 | 387 | 12% |
-| 60+ | 6578 | 169 | 413 | 12% |
-| 70 | 7225 | 185 | 453 | 12% |
-| 70+ | 7641 | 196 | 480 | 18% |
-| 80 | 8289 | 213 | 520 | 18% |
-| 80+ | 8705 | 223 | 546 | 24% |
-| 90 | 9352 | 240 | 587 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
+import Skill from '@site/src/components/char/Skill'
+
 <Tabs>
-<TabItem value="na" label="Seal of Approval">
-
-**Normal Attacks**  
-Shoots fireballs that deal up to three counts of Pyro DMG.
-
-When Yanfei's Normal Attacks hit enemies, they will grant her a single **Scarlet Seal**. Yanfei may possess a maximum of 3 **Scarlet Seal**s, and each time this effect is triggered, the duration of currently possessed **Scarlet Seal**s will refresh.
-
-Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will disappear when she leaves the field.
-
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -46,14 +38,9 @@ Each **Scarlet Seal** will decrease Yanfei's Stamina consumption by 15% and will
 | 3-Hit | 129.22% | 90 | 211.34%/s | 14.25 | 2 |
 | GU | 1A | ~ | ~ | - | - |
 
-**Notes**
-* This stamina consumption reduction applies to all actions
-
-**Charged Attack**  
-Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
-
-* This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
-* Yanfei's Charged Attack shatters frozen targets.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -62,7 +49,9 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | N2C | 340.13% + 26.89%/Seal | 107 | 190.73%/s + 30.16%/s \(2 Seals\) | 1A | 120 | 4 |
 | N3C | 469.35% + 26.89%/Seal | 168 | 167.63%/s + 28.81%/s \(3 Seals\) | 1A |120 | 5 |
 
-**Plunge Attack**
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -70,11 +59,19 @@ Consumes **50** stamina and all **Scarlet Seals** before dealing AoE Pyro DMG.
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
 
+</div>
+
+**Notes**
+* This stamina consumption reduction applies to all actions
+* This Charged Attack's AoE and DMG will increase according to the amount of **Scarlet Seals** consumed
+* Yanfei's Charged Attack shatters frozen targets.
+
 </TabItem>
 
-<TabItem value="e" label="Signed Edict">
-Summons blistering flames that deal AoE Pyro DMG.  
-Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Seals**.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Effect | Skill |
 | :--- | :--- |
@@ -90,19 +87,17 @@ Opponents hit by the flames will grant Yanfei the maximum number of **Scarlet Se
 | Poise Damage | 120 |
 | Impulse Type | 3 |
 
+</div>
+
 **Notes**
 * **Signed Edict** is **blunt** damage and shatters frozen targets.
 
 </TabItem>
 
-<TabItem value="q" label="Done Deal">
-Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying **Brilliance** to her.
-
-**Brilliance**  
-Has the following effects:  
-• Grants Yanfei a Scarlet Seal at fixed intervals.  
-• Increases the DMG dealt by her Charged Attacks.  
-The effects of **Brilliance** will end if Yanfei leaves the field or falls in battle.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Effect | Burst |
 | :--- | :--- |
@@ -123,35 +118,29 @@ The effects of **Brilliance** will end if Yanfei leaves the field or falls in ba
 | Poise Damage | 200 |
 | Impulse Type | 3 |
 
+</div>
 </TabItem>
 </Tabs>
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Encyclopedic Expertise
-
-Displays the location of nearby **resources unique to Liyue** on the mini-map.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
-### Proviso
-
-When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's **Pyro DMG Bonus** by 5%. This effects lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.
-
+**Notes**
 * The Pyro DMG bonus from **Proviso** is applied before charged attack damage is calculated.
 
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Blazing Eye
-
-When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG** equal to 80% of her ATK. This DMG counts as Charged Attack DMG.
+<Passive char={char} passive={1} />
 
 | Attribute | Blazing Eye |
 | --- | --- |
@@ -162,6 +151,7 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
 | Poise Damage | 50 |
 | Impulse Type | 2 |
 
+**Notes**
 * **Blazing Eye** has no noticeable ICD to trigger Reactions or apply Pyro.
   * This does not affect her Charged Attack ICD.
 * **Blazing Eye** can trigger vs enemy shields.
@@ -172,57 +162,33 @@ When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an add
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### The Law Knows No Kindness
-
-When Yanfei uses her Charged Attack, each existing **Scarlet Seal** additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.
-
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Right of Final Interpretation
-
-Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Samadhi Fire-Forged
-
-Increases the Level of **Signed Edict** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Supreme Amnesty
-
-When **Done Deal** is used:
-Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.
-This shield absorbs **Pyro DMG** 250% more effectively.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Abiding Affidavit
-
-Increases the Level of **Done Deal** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
-### Extra Clause
-
-Increases the maximum number of **Scarlet Seals** by 1.
-
+**Notes**
 * At 4 seals, Yanfei's Charged Attack will consume 0 Stamina.
 
 </TabItem>
@@ -230,65 +196,9 @@ Increases the maximum number of **Scarlet Seals** by 1.
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Seal of Approval">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 58.34% | 62.72% | 67.09% | 72.93% | 77.30% | 81.68% | 87.51% | 93.35% | 99.18% | 105.01% | 110.85% |
-| 2-Hit DMG | 52.13% | 56.04% | 59.94% | 65.16% | 69.07% | 72.98% | 78.19% | 83.40% | 88.61% | 93.83% | 99.04% |
-| 3-Hit DMG | 76.01% | 81.71% | 87.41% | 95.02% | 100.72% | 106.42% | 114.02% | 121.62% | 129.22% | 136.82% | 144.42% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 0 Seals | 98.23% | 104.11% | 109.99% | 117.64% | 123.52% | 129.40% | 137.05% | 144.70% | 152.34% | 159.99% | 167.64% |
-| 1 Seal | 115.56% | 122.48% | 129.40% | 138.40% | 145.32% | 152.24% | 161.24% | 170.23% | 179.23% | 188.22% | 197.22% |
-| 2 Seals | 132.90% | 140.86% | 148.81% | 159.16% | 167.12% | 175.08% | 185.42% | 195.77% | 206.11% | 216.46% | 226.80% |
-| 3 Seals | 150.23% | 159.23% | 168.23% | 179.92% | 188.92% | 197.91% | 209.61% | 221.30% | 233.00% | 244.69% | 256.39% |
-| 4 Seals | 167.57% | 177.60% | 187.64% | 200.68% | 210.71% | 220.75% | 233.79% | 246.84% | 259.88% | 272.92% | 285.97% |
-
-**Stamina Cost**: 50  
-**Scarlet Seal Stamina Consumption Decrease**: 15% Per Seal  
-**Scarlet Seal Duration**: 10s
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Signed Edict">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 169.60% | 182.32% | 195.04% | 212.00% | 224.72% | 237.44% | 254.40% | 271.36% | 288.32% | 305.28% | 322.24% | 339.20% | 360.40% |
-
-**Cooldown**: 9s
-
-</TabItem>
-
-<TabItem value="q" label="Done Deal">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 182.40% | 196.08% | 209.76% | 228.00% | 241.68% | 255.36% | 273.60% | 291.84% | 310.08% | 328.32% | 346.56% | 364.80% | 387.60% |
-| Charged Attack DMG Bonus | 33.4% | 35.4% | 37.4% | 40.0% | 42.0% | 44.0% | 46.6% | 49.2% | 51.8% | 54.4% | 57.0% | 59.6% | 62.2% |
-
-**Scarlet Seal Grant Interval**: 1s  
-**Duration**: 15s  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 
