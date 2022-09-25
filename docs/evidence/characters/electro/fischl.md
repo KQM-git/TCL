@@ -21,7 +21,7 @@ Determining Fischl's Elemental skill's ICD. Fischl's E \(Oz\) will apply electro
 
 **Evidence:**
 
-* [Analysis](https://docs.google.com/spreadsheets/d/1Hp2B8rFE0qwILcLkSIxELd024V9W93Wfhvz2ogzNgbk/edit#gid=2140888109) 
+* [Analysis](https://docs.google.com/spreadsheets/d/1Hp2B8rFE0qwILcLkSIxELd024V9W93Wfhvz2ogzNgbk/edit#gid=2140888109)
 * [Video](https://www.youtube.com/watch?v=DjV9KKKSiwQ)
 
 **Significance:** A better understanding of ICDs.
@@ -37,21 +37,21 @@ For example, they both trigger the 4pc heart of depth effect.
 
 **Evidence:**  
 [Video](https://youtu.be/s0937Qm8VFs)  
-[Video](https://youtu.be/_QoQaOxVzp0)  
+[Video](https://youtu.be/_QoQaOxVzp0)
 
 Unbuffed:  
-566 + 142  
+566 + 142
 
 After e:  
-735  
+735
 
 After e refreshed, oz now expired:  
-735 + 185  
+735 + 185
 
 After HoD buff is gone:  
-566 + 142  
+566 + 142
 
-**Significance:**  Potentially relevant data for Fischl main dps calcs.
+**Significance:** Potentially relevant data for Fischl main dps calcs.
 
 ### Fischl Energy Generation Correction
 
@@ -60,15 +60,16 @@ After HoD buff is gone:
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_983426378366066748_transcript-fischl-energy-generation-correction.html)
 
 **Finding:**  
-The probability that Oz generates a particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).  
+The probability that Oz generates a particle on an arbitrary attack (Oz's ATK DMG) is 0.67. This can roughly be translated to 1:2 (with the exact ratio being ~1:2.03030303).
+
 * [YouTube](https://youtube.com/playlist?list=PL3fbBNyJb-ujui480yxAl3bLNU98fqJZi)
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1v9arz5Gmto7xc_g6H530289unROb1iqv2mdayzGV8WM/edit?usp=sharing)
 
 **Evidence:**  
-Two hundred trials were used as a sample, totaling to 2400 attacks (C6 Fischl). Of these 2400 attacks, 1609 of them generated a particle giving P(particle) = 1609/2400 ≈ 0.67041666667.  
+Two hundred trials were used as a sample, totaling to 2400 attacks (C6 Fischl). Of these 2400 attacks, 1609 of them generated a particle giving P(particle) = 1609/2400 ≈ 0.67041666667.
 
 **Significance:**  
-Fischl's Energy generation is better than previously thought. Most tools and guides as of now (May 17th, 2022) assume 0.60 as the probability Oz generates a particle, lower than the actual correct probability.  
+Fischl's Energy generation is better than previously thought. Most tools and guides as of now (May 17th, 2022) assume 0.60 as the probability Oz generates a particle, lower than the actual correct probability.
 
 ## Burst Mechanics
 
@@ -115,10 +116,11 @@ Fischl's A4 Talent targets the closest enemy to the character, not necessarily t
 **Significance:**  
 This is something to keep in mind while managing enemy aura
 
-### ICD/Gauges for Fischl's Burst and C4  
-**By:** ItzSomebody\#0029   
+### ICD/Gauges for Fischl's Burst and C4
+
+**By:** ItzSomebody\#0029  
 **Added:** 2022-02-20  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_940182051888443403_945082050417946624_transcript-fischl-burst-and-c4-icd-gauge-correction.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_940182051888443403_945082050417946624_transcript-fischl-burst-and-c4-icd-gauge-correction.html)
 
 **Finding:**  
 Correction/Additions for ICD/Gauges for Fischl's Burst and C4
@@ -126,22 +128,22 @@ Correction/Additions for ICD/Gauges for Fischl's Burst and C4
 **Evidence:**  
 There is a unique interaction between various parts of Fischl's kit that causes some of her attacks to miss Ruin Sentinels when unstunned, one of which is her Falling Thunder damage from her Burst. When stunned; however, her Falling Thunder damage instances apply as expected. Abusing this mechanic allows for isolating damage instances of Fischl's Burst and C4 for testing purposes.
 
-1) Isolating an instance of Fischl's C4 shows that her C4 applies 2B Electro. In the video below, the frame Electro Aura appears is frame 90 and disappears at frame 448. Under 30 FPS, this calculates out to (448 - 90 + 1)/30 ~= 11.9667 seconds, verifying this claim.
+1. Isolating an instance of Fischl's C4 shows that her C4 applies 2B Electro. In the video below, the frame Electro Aura appears is frame 90 and disappears at frame 448. Under 30 FPS, this calculates out to (448 - 90 + 1)/30 ~= 11.9667 seconds, verifying this claim.
 
 30 FPS clip: [Youtube](https://www.youtube.com/watch?v=H7ytXdF9MHk)
 
-2) After stunning a Ruin Sentinel, casting Fischl's Burst outside of the C4 range and flying into the Sentinel while in Oz form triggers an instance of Falling Thunder, avoiding any C4 triggers entirely. This allows for verification that her Burst applies 1A Electro. In the video below, the frame Electro Aura appears is frame 360 and disappears at frame 647. Under 30 FPS, this calculates out to (647 - 360 + 1) / 30 = 9.6 seconds, verifying this claim.
+2. After stunning a Ruin Sentinel, casting Fischl's Burst outside of the C4 range and flying into the Sentinel while in Oz form triggers an instance of Falling Thunder, avoiding any C4 triggers entirely. This allows for verification that her Burst applies 1A Electro. In the video below, the frame Electro Aura appears is frame 360 and disappears at frame 647. Under 30 FPS, this calculates out to (647 - 360 + 1) / 30 = 9.6 seconds, verifying this claim.
 
 30 FPS clip: [Youtube](https://www.youtube.com/watch?v=k9ODoYQTMw4)
 
-3) Casting Fischl's Burst within the C4 trigger range against a stunned Ruin Sentinel shows that her Burst and C4 share ICD. The setup for this involves applying 1A Pyro to the Sentinel and casting Fischl's Burst within the C4 trigger range. If Burst and C4 do share ICD, then the expected result would be Overload and no Electro Aura which is verified by the video below.
+3. Casting Fischl's Burst within the C4 trigger range against a stunned Ruin Sentinel shows that her Burst and C4 share ICD. The setup for this involves applying 1A Pyro to the Sentinel and casting Fischl's Burst within the C4 trigger range. If Burst and C4 do share ICD, then the expected result would be Overload and no Electro Aura which is verified by the video below.
 
 Clip: [Youtube](https://www.youtube.com/watch?v=_nwtPUXMIME)
 
-4) Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 cannot.
+4. Fischl's Burst is considered as a Blunt attack and thus can cause Shatter while her C4 cannot.
 
 Burst shatters: [Youtube](https://www.youtube.com/watch?v=M1PyFkFDrw0)  
-C4 does not shatter: [Youtube](https://www.youtube.com/watch?v=i47KZPNuYmU)  
+C4 does not shatter: [Youtube](https://www.youtube.com/watch?v=i47KZPNuYmU)
 
 **Significance:**  
 Corrects incorrect elemental gauges (at the time this ticket was submitted) listed on the TCL, reports the discovery of a shared ICD between Fischl's Burst and C4, and the gauge for Fischl's C4.
@@ -162,37 +164,39 @@ Corrects incorrect elemental gauges (at the time this ticket was submitted) list
 * [Hilichurl](https://youtu.be/T9UzIzXbRyc)
 * [Ruin Guard](https://youtu.be/P_hiz3GaK20) - usually it doesn't proc Prototype Crescent, but when you hit Oz in the head, it works.
 
-**Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.  
+**Significance:** Prototype Crescent rises up in weapon choice for a A1 charged shot focused Fischl build. Additionally, you can see that I need to aim to the side of Oz, because he doesn't count as a "target" so there is a parallax effect for aiming, requiring me to aim to the side to hit him.
 
 #### Fischl A1 Special Multiplier
 
 **By:** Apxllo\#2021  
 **Added:** 2002-02-02  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937258971222409226_938438802664480778_transcript-fischl-a1-special-multiplier.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937258971222409226_938438802664480778_transcript-fischl-a1-special-multiplier.html)
 
-**Finding:** 
-Fischl’s 1st Ascension Passive, Stellar Predator, is a raw multiplier (secondary talent multiplier) and not a usual DMG Bonus.  
+**Finding:**
+Fischl’s 1st Ascension Passive, Stellar Predator, is a raw multiplier (secondary talent multiplier) and not a usual DMG Bonus.
 
-Stellar Predator reads: When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.  
+Stellar Predator reads: When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow’s DMG.
 
 **Evidence:**  
 Video: [YouTube](https://www.youtube.com/watch?v=j0k1GWBACes)  
 Fischl’s Aimed Shot (non-crit) DMG: 244  
 Fischl’s Stellar Predator (non-crit) DMG: 373  
 DMG Bonus applicable: 46.6% Electro DMG bonus from an Electro Goblet.  
-From Fischl’s Aimed Shot: Base DMG is found to be 244 / (1.466) = 166.44  
+From Fischl’s Aimed Shot: Base DMG is found to be 244 / (1.466) = 166.44
 
-*Hypothesis 1:*  Stellar Predator is a normal DMG bonus.  
-* Total DMG bonus on Stellar Predator hit = 46.6 + 52.7 = 99.3% DMG Bonus  
-* Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71  
-* This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.  
+_Hypothesis 1:_ Stellar Predator is a normal DMG bonus.
 
-*Hypotesis 2:* Stellar Predator is a special multiplier (raw multiplier to the Base DMG)  
-* Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373  
-* This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.  
+* Total DMG bonus on Stellar Predator hit = 46.6 + 52.7 = 99.3% DMG Bonus
+* Therefore, predicted Stellar Predator DMG = 166.44 \* (1.993) = 331.71
+* This contradicts the ingame evidence. Hence, Hypothesis 1 is disproved.
+
+_Hypotesis 2:_ Stellar Predator is a special multiplier (raw multiplier to the Base DMG)
+
+* Predicted Stellar Predator DMG = (166.44) \* (1.527) \* (1.466) = 372.59 ≅ 373
+* This DMG lines up with the DMG ingame. Hence, Hypothesis 2 is valid.
 
 **Significance:**  
-Fischl’s 1st Ascension Passive: Stellar Predator is a raw multiplier to her Aimed Shot base DMG. It follows the same DMG calculation as Xingqiu’s C4 “Evilsoother” or Yoimiya’s Elemental Skill “Niwabi Fire-Dance”. While this finding doesn't change anything about Fischl's normal playstyle, Stellar Predator can be useful early game. It can also be fun for Fischl Mains, it's kind of hard to pull off because Oz's hitbox is extremely tiny.  
+Fischl’s 1st Ascension Passive: Stellar Predator is a raw multiplier to her Aimed Shot base DMG. It follows the same DMG calculation as Xingqiu’s C4 “Evilsoother” or Yoimiya’s Elemental Skill “Niwabi Fire-Dance”. While this finding doesn't change anything about Fischl's normal playstyle, Stellar Predator can be useful early game. It can also be fun for Fischl Mains, it's kind of hard to pull off because Oz's hitbox is extremely tiny.
 
 ### A4: Undone Be Thy Sinful Hex
 
@@ -237,20 +241,21 @@ An understanding of the underlying mechanics of Fischl's A4 passive and possibly
 
 **By:** Bobrokrot\#0111  
 **Added:** 2022-08-06  
-[Discussion](https://tickets.deeznuts.moe/transcripts/fischl-a4-not-05s)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/fischl-a4-not-05s)
 
 **Finding:**  
-Fishl's A4 cooldown seems to be more than 0.5s or depends on ping.  
-  
-**Evidence:**  
+Fishl's A4 cooldown seems to be more than 0.5s or depends on ping.
+
+**Evidence:**
+
 1. Here Diluc performs N1 \(triggers Overload and Fishcl's A4\) followed by E \(triggers Overload but doesn't trigger Fischl's A4\). Judging from the TCL, Diluc's E1 is 45 frames so the delay between two Overloads has to be more than 0.5s but still Fishl's A4 didn't proc.  
-[YouTube](https://youtu.be/9iZG10GwwiI)  
-  
+   [YouTube](https://youtu.be/9iZG10GwwiI)
+
 2. Here Diluc performs the same combo but with a slight delay, successfully triggering Fischl's A4. The time delay was under 1s.  
-[YouTube](https://youtu.be/VQsSJoMF3jg)  
-  
-My ping during the tests is 43ms whereas Terrapin's ping in the tests in the TCL is 28ms. Maybe that's the issue, further testing required.  
-  
+   [YouTube](https://youtu.be/VQsSJoMF3jg)
+
+My ping during the tests is 43ms whereas Terrapin's ping in the tests in the TCL is 28ms. Maybe that's the issue, further testing required.
+
 **Significance:**  
 Affects Diluc gameplay patterns in Overload comps with Fischl.
 
@@ -273,20 +278,22 @@ Affects Diluc gameplay patterns in Overload comps with Fischl.
 ### C6: Evernight Raven
 
 #### Fischl A4 And C6 Snapshot Mechanics
+
 **By:** sigurd#3854  
 **Added:** 2022-01-21  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932192475035095090_933903141798293595_transcript-fischl-c4-and-c6-snapshot-mechanics.html)
 
-**Finding:**   
+**Finding:**  
 Fischl's A4 and C6 uses snapshotted stats on Oz cast and recast.
 
-**Evidence:** 
+**Evidence:**
+
 * [A4 test 1](https://youtu.be/a9kSohsm394)
 * [A4 test 2](https://youtu.be/ewVzvH86cQk)
 * [C6 test 1](https://youtu.be/j6NJpVQU7s0)
 * [C6 test 2](https://youtu.be/-OZNVYdLwss)
 
-**Significance:**   
+**Significance:**  
 Helps with accurate calculations as well as rotation crafting.
 
 #### C6 Fischl Multi-Hit
@@ -298,9 +305,9 @@ Helps with accurate calculations as well as rotation crafting.
 **Finding/Bug:** Fischl's C6's joint attack does not proc multiple times on multi-hit attacks, but rather procs on attack startup like XQ rainswords.
 
 **Evidence:**  
-[https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)  
+[https://youtu.be/ToUhrbPSKxc](https://youtu.be/ToUhrbPSKxc)
 
-**Significance:**  Fairly important to calcs involving C6 Fischl
+**Significance:** Fairly important to calcs involving C6 Fischl
 
 ### How various aspects of Fischl's damage are calculated
 
@@ -391,16 +398,6 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 
 **Significance:** The authors are unsure if it is due to the spaghetti code of the game or intended design, but this is a fun little interaction that they have discovered.
 
-
-
-
-
-
-
-
-
-
-
 ### Fischl A1 Amos Interaction
 
 **By:** jstern25#1399  
@@ -410,9 +407,9 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 **Finding:** Fischl A1 Amos buff is based on the distance between Oz and enemy, not fischl and Oz.
 
 **Evidence:**  
-[Video](https://www.youtube.com/watch?v=lWoIZjSL6rc)  
+[Video](https://www.youtube.com/watch?v=lWoIZjSL6rc)
 
-**Significance:**  Social distancing
+**Significance:** Social distancing
 
 ### C6 Fischl doesn't fire with C6 Yoi
 
@@ -428,4 +425,4 @@ Normally not useful since Oz even without C6 should be enough to have 100% uptim
 Step 1. Fire Yoimiya's N1, see how many Fischl's C6 numbers appears  
 Step 2. Fire Yoimiya's N1 but ensure C6 activates, see how many Fischl's C6 numbers appears
 
-**Significance:**  C6 Yoimiya does not turn Oz into a true mini gun, and the rate of C6 Fischl's joint attacks is limited by Yoimiya's innate Normal string combo.
+**Significance:** C6 Yoimiya does not turn Oz into a true mini gun, and the rate of C6 Fischl's joint attacks is limited by Yoimiya's innate Normal string combo.

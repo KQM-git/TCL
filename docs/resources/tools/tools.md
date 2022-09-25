@@ -1,6 +1,7 @@
 ---
 description: Useful sheets, tools and sites.
 ---
+
 # Tools
 
 ## Internal Sites
@@ -10,27 +11,34 @@ import DocCardList from '@theme/DocCardList';
 <DocCardList />
 
 ## External Sites
-### Genshin Optimizer  
-[https://frzyc.github.io/genshin-optimizer/](https://frzyc.github.io/genshin-optimizer/)   
-*Input artifacts and weapons and let it build your characters for you.*
 
-### Genshin Center  
+### Genshin Optimizer
+
+[https://frzyc.github.io/genshin-optimizer/](https://frzyc.github.io/genshin-optimizer/)  
+_Input artifacts and weapons and let it build your characters for you._
+
+### Genshin Center
+
 [https://genshin-center.com](https://genshin-center.com)  
-*Easy to use Achievement Tracker, character Ascension Planner and simple damage calculcator.*
+_Easy to use Achievement Tracker, character Ascension Planner and simple damage calculcator._
 
-### Paimon.moe  
-[https://paimon.moe/](https://paimon.moe/)   
-*Wish tracker, character & weapon calculators, task lists, game database and event timeline.*
+### Paimon.moe
 
-### Shinshin.moe  
-[https://shinshin.moe/](https://shinshin.moe/)   
-*Collage generator for easy-to-share character build cards.*
+[https://paimon.moe/](https://paimon.moe/)  
+_Wish tracker, character & weapon calculators, task lists, game database and event timeline._
 
-### Official Interactive Map  
+### Shinshin.moe
+
+[https://shinshin.moe/](https://shinshin.moe/)  
+_Collage generator for easy-to-share character build cards._
+
+### Official Interactive Map
+
 [https://genshin-impact-map.appsample.com/](https://genshin-impact-map.appsample.com/)  
-*miHoYo's official interactive map of Teyvat.*
+_miHoYo's official interactive map of Teyvat._
 
 ## Calculators
+
 ### Adventure Rank EXP Calculator
 
 **By:** able16\#6618  

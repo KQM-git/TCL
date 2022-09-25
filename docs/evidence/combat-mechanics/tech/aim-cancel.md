@@ -4,7 +4,7 @@ search: false
 
 # Aim Cancel
 
-**Main Page:**  
+**Main Page:**
 
 <Card item={require('../../../combat-mechanics/tech/aim-cancel.md')} />
 
@@ -18,12 +18,14 @@ search: false
 Aimed R-Cancel Charged Shot (ARCC) is an animation cancel technique that removes all ending animation frames after firing a charged shot with bow characters. It is performed by firing a shot on the same frame that you exit aim toggle mode.
 
 To do ARCC: First, enter aim mode via aim toggle (R on PC, aim button on mobile, L2/LT/ZL on controller).
+
 * PC and Mobile: Tap the Aim key (R) on the same frame you release Attack (M1).
 * Controller: Release both the Aim button and the Attack button on the same frame.
 
 ARCC is easier to do at 30 fps, as the frame lengths are longer.
 
 ARCC shots have some quirks that are different from normal charged shots:
+
 * When out of normal attack range from any targets, ARCC shots have a fixed height, regardless of how high or low the player aims.
 * When within normal attack range of a target, ARCC shots will fire toward the target. (see arcc-autotarget )
 * Non-C6 Ganyu, Yoimiya, and Aloy are unable to fire a fully-charged ARCC shot. They will always get a physical charged shot, regardless of charge level before release.
@@ -70,9 +72,10 @@ Some characters are able to fire a second CA after doing hold M1 CA shot. This s
 Confirmed to work on Venti, Diona, Tartaglia, and Yoimiya. No theorycrafters were able to get it to work on other bow characters, yet.
 
 The sequence to perform this tech is:
-* Hold M1 -> 
-* release M1 (fires first CA) -> 
-* hold M1 again before the camera zooms out -> 
+
+* Hold M1 ->
+* release M1 (fires first CA) ->
+* hold M1 again before the camera zooms out ->
 * release M1 at the same exact time the camera begins to zoom out (fires second CA)
 
 Consistently possible at 30fps, very difficult at 60fps.
@@ -85,7 +88,7 @@ Yoimiya: [Youtube](https://youtu.be/0Q4jsgySdqU)
 
 Proof that second shot is ARCC:  
 Has same targetting as ARCC: [Imgur](https://imgur.com/6XgzeiX)  
-Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)  
+Second shot has CA damage: [Youtube](https://youtu.be/WDjgMb6D6Ck)
 
 **Significance:**  
 Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it is one of the characters that can do this), as the extra shot theoretically does not add any more frames to the attack string.

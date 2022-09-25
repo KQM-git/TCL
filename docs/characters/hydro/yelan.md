@@ -27,50 +27,50 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 74.73% | 14 | 320.27% | 14.19 | 1 |
-| 2-Hit DMG | 71.73% | 29 | 286.92% | 13.62 | 1 |
-| 3-Hit DMG | 94.8% | 54 | 227.52% | 18 | 1 |
-| 4-Hit DMG | 59.72% x2 | 88 + 102 | 105.38% + 255.94% | 7.56 ×2 | 1 |
-| Recovery | - | 142 | - | - | - |
+| String    | Talent 9% | Frames   | MV/s              | Poise Damage | Impulse Type |
+| :-------- | :-------- | :------- | :---------------- | :----------- | :----------- |
+| 1-Hit DMG | 74.73%    | 14       | 320.27%           | 14.19        | 1            |
+| 2-Hit DMG | 71.73%    | 29       | 286.92%           | 13.62        | 1            |
+| 3-Hit DMG | 94.8%     | 54       | 227.52%           | 18           | 1            |
+| 4-Hit DMG | 59.72% x2 | 88 + 102 | 105.38% + 255.94% | 7.56 ×2      | 1            |
+| Recovery  | -         | 142      | -                 | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32% | 10 \(Headshot: 30\) | 2 |
-| With Recovery | - | 25 | 193.39% | - | - | - |
-| Fully-Charged Aimed Shot | 210.8% | 86 | 147.07% | 20 \(Headshot: 60\) | 5 |
-| With Recovery | - | 96 | 131.75% | - | - | - |
-
+| String                   | Talent 9% | Frames | MV/s    | Poise Damage        | Impulse Type |
+| :----------------------- | :-------- | :----- | :------ | :------------------ | :----------- | --- |
+| Aimed Shot               | 80.58%    | 15     | 322.32% | 10 \(Headshot: 30\) | 2            |
+| With Recovery            | -         | 25     | 193.39% | -                   | -            | -   |
+| Fully-Charged Aimed Shot | 210.8%    | 86     | 147.07% | 20 \(Headshot: 60\) | 5            |
+| With Recovery            | -         | 96     | 131.75% | -                   | -            | -   |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Breakthrough' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Breakthrough Barb DMG | 19.68% Max HP | 32 | 36.90% Max HP | 100 | 3 |
-| With Recovery | - | 42 | 28.13% Max HP | - | - | - | - |
+| String                | Talent 9%     | Frames | MV/s          | Poise Damage | Impulse Type |
+| :-------------------- | :------------ | :----- | :------------ | :----------- | :----------- | --- | --- |
+| Breakthrough Barb DMG | 19.68% Max HP | 32     | 36.90% Max HP | 100          | 3            |
+| With Recovery         | -             | 42     | 28.13% Max HP | -            | -            | -   | -   |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 10 | 2 |
-| Low Plunge DMG | 208.77% | 50 | 2 |
-| High Plunge DMG | 260.76% | 100 | 3 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 104.41%   | 10           | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 2            |
+| High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
 
-**Notes:**
+**Notes**
+
 * N4 appears behind Yelan and will not go through if she is standing with her back to a wall.
-* Charged Attack frame counts are done using by holding and releasing the Normal Attack button. 
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * **Breakthrough Barb** does not reset after spending 5s off-field and in combat.
 * Yelan can gain **Breakthrough Barb** while charging a Fully-Charged Aimed Shot.
 * **Breakthrough Barb** has a 0 damage hit on top of Breakthrough Barb DMG.
@@ -83,24 +83,25 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill | 
-| :--- | :--- |
-| DMG \(T9%\) | 38.44% Max HP |
-| Particles | 4 \(-\) | 
-| Frames | Tap: 40 <br/> Hold: 42-257 |
-| GU | 1A |
-| ICD | Standard | 
-| Snapshot | - | 
-| Damage Element | Hydro | 
-| Damage Type | Skill |
-| Max Duration (Hold) | 3s |
-| CD | 10s | 
-| Poise Damage | 120 |
-| Impulse Type | Air, 400, 800 |
+| Attribute           | Skill                      |
+| :------------------ | :------------------------- |
+| DMG \(T9%\)         | 38.44% Max HP              |
+| Particles           | 4 \(-\)                    |
+| Frames              | Tap: 40 <br/> Hold: 42-257 |
+| GU                  | 1A                         |
+| ICD                 | Standard                   |
+| Snapshot            | -                          |
+| Damage Element      | Hydro                      |
+| Damage Type         | Skill                      |
+| Max Duration (Hold) | 3s                         |
+| CD                  | 10s                        |
+| Poise Damage        | 120                        |
+| Impulse Type        | Air, 400, 800              |
 
 </div>
 
-**Notes:**  
+**Notes**
+
 * **Lingering Lifeline** CD begins when Yelan exists the rapid movement state.
 * The rapid movement state is affected by movement speed buffs.
 * Stamina can be regenerated during the rapid movement state.
@@ -116,26 +117,27 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Skill | Exquisite Throw |
-| :--- | :--- | :--- |
-| DMG \(T9%\) | 12.42% Max HP | 8.28% Max HP ×3 |
-| Cast Frames | 91 | - |
-| Energy Frame | 10 | - |
-| CD Frame | 1 | - |
-| GU | 2B | 1A |
-| ICD | 3-hit / 2.5s | 3-hit / 2s |
-| Snapshot | - | Dynamic | 
-| Damage Element | Hydro | Hydro |
-| Damage Type | Burst | Burst |
-| Energy Cost | 70 | - |
-| Duration | 15s | - |
-| CD | 18s | - |
-| Poise Damage | 100 | Air, 200, 600 |
-| Impulse Type | 30 | 1 |
+| Attribute      | Skill         | Exquisite Throw |
+| :------------- | :------------ | :-------------- |
+| DMG \(T9%\)    | 12.42% Max HP | 8.28% Max HP ×3 |
+| Cast Frames    | 91            | -               |
+| Energy Frame   | 10            | -               |
+| CD Frame       | 1             | -               |
+| GU             | 2B            | 1A              |
+| ICD            | 3-hit / 2.5s  | 3-hit / 2s      |
+| Snapshot       | -             | Dynamic         |
+| Damage Element | Hydro         | Hydro           |
+| Damage Type    | Burst         | Burst           |
+| Energy Cost    | 70            | -               |
+| Duration       | 15s           | -               |
+| CD             | 18s           | -               |
+| Poise Damage   | 100           | Air, 200, 600   |
+| Impulse Type   | 30            | 1               |
 
 </div>
 
-**Notes:**  
+**Notes**
+
 * Initial hit and **Exquisite Throws** have separate ICDs.
 * **Exquisite Throws** have variable time intervals between each hit.
 * **Exquisite Throws** can be buffered.
@@ -144,7 +146,8 @@ import Skill from '@site/src/components/char/Skill'
 * The 15 second timer starts 73 frames after Q is pressed.
 * The Burst can be double prefunneled.
 
-**Notes:**  
+**Notes**
+
 * The damage of each coordinated attack snapshots separately after being generated.
 
 </TabItem>
@@ -160,9 +163,10 @@ import Passive from '@site/src/components/char/Passive'
 </TabItem>
 
 <TabItem value='a1' label='Ascension 1'>
-<Passive char={char} passive={0} /> 
+<Passive char={char} passive={0} />
 
-**Notes:**  
+**Notes**
+
 * This is additive to other sources of HP%.
 
 </TabItem>
@@ -170,7 +174,8 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
 
-**Notes:**  
+**Notes**
+
 * It only applies to the character on-field but is not tied to a single character.
 * The damage increase does not snapshot or reset when switching characters.
 
@@ -185,7 +190,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 
-**Notes:**  
+**Notes**
+
 * CD of the second **Lingering Lifeline** is added after the CD of the first **Lingering Lifeline** ends.
 
 </TabItem>
@@ -201,7 +207,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
 
-**Notes:**  
+**Notes**
+
 * Multiple stacks can be gained from a single enemy.
 * Each stack refreshes the timer.
 * All party members' Current HP is increased proportionally to their Max HP, and will be decreased again once the duration ends.
@@ -215,7 +222,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c6' label='C6'>
 <Constellation char={char} constellation={6} />
 
-**Notes:**  
+**Notes**
+
 * C6 is affected by CA DMG Bonuses.
 * C6 does not proc the NA effect from [Mitternachts Waltz](../../equipment/weapons/bows.md#mitternachts-waltz).
 * C6 can proc [Beidou's Burst](../electro/beidou.md#attacks).

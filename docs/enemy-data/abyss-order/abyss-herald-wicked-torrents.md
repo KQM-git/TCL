@@ -8,56 +8,57 @@ These silent figures are the vanguard of the Abyss, brandishing Tidal Blades tha
 
 ## Weakspot Details
 
-Head.  
+Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 orb | Hydro |  
-| 33% HP | 1 orb | Hydro |
-| Death | 1 particle | Hydro | 
+| HP Threshold | Type       | Element |
+| :----------- | :--------- | :------ |
+| 66% HP       | 1 orb      | Hydro   |
+| 33% HP       | 1 orb      | Hydro   |
+| Death        | 1 particle | Hydro   |
 
-## Shield 
+## Shield
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Hydro | Immune |
-| Cryo | 36GU |
-| Electro | 45GU |
-| Pyro | 72GU |
-| Anemo | 72GU |
-| Geo | 72GU |
+| :--------------- | :------------------- |
+| Hydro            | Immune               |
+| Cryo             | 36GU                 |
+| Electro          | 45GU                 |
+| Pyro             | 72GU                 |
+| Anemo            | 72GU                 |
+| Geo              | 72GU                 |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 67050 |
-| 65 | 79863 |
-| 70 | 104416 |
-| 75 | 119367 |
-| 80 | 148526 |
-| 85 | 163395 |
-| 90 | 194833 |
-| 95 | 221991 |
-| 100 | 294121 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 67050  |
+| 65    | 79863  |
+| 70    | 104416 |
+| 75    | 119367 |
+| 80    | 148526 |
+| 85    | 163395 |
+| 90    | 194833 |
+| 95    | 221991 |
+| 100   | 294121 |
 
-## Attacks  
-* Performs a series of slash attacks, within the Hydro shield form the slashing pattern will change.  
+## Attacks
+
+* Performs a series of slash attacks, within the Hydro shield form the slashing pattern will change.
 
 * Raises both arms before unleashing a cross-shaped water projectile towards the player. If hit by this projectile, the elemental skill & burst of the active character will have their on-going cooldown increased by 6 seconds.
 

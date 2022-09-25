@@ -12,39 +12,39 @@ Front Eye and Back Cover, the weakspot remains even when they're covered, but wi
 
 ## Energy Drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 75% HP | 1 particle+1orb | common   
-| 50% HP | 1 particle+1orb | common   
-| 25% HP | 1 particle+1orb | common  
-| Death | 1 orb | common | 
+| HP Threshold | Type            | Element |
+| :----------- | :-------------- | :------ |
+| 75% HP       | 1 particle+1orb | common  |
+| 50% HP       | 1 particle+1orb | common  |
+| 25% HP       | 1 particle+1orb | common  |
+| Death        | 1 orb           | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 70% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 70%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 58669 |
-| 65 | 69880 |
-| 70 | 91364 |
-| 75 | 104446 |
-| 80 | 129960 |
-| 85 | 142971 |
-| 90 | 170479 |
-| 95 | 194242 |
-| 100 | 257356 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 58669  |
+| 65    | 69880  |
+| 70    | 91364  |
+| 75    | 104446 |
+| 80    | 129960 |
+| 85    | 142971 |
+| 90    | 170479 |
+| 95    | 194242 |
+| 100   | 257356 |
 
 ## Attacks
 

@@ -43,6 +43,7 @@ This shows that with c1 Zhongli or during co-op, the presence of more than one Z
 In other words having two pillars from c1 will double the damage from resonance.
 
 ### Zhongli RES Shred Lingers
+
 **By:** clrE\#6290  
 **Added:** 2022-01-14  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928609238002053131_931322938953728050_transcript-zhongli-shred-linger.html)
@@ -57,15 +58,16 @@ Zhongli's shield RES shred lingers for a bit after it breaks/ends.
 Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fischl, etc. if it breaks/ends early
 
 ### Zhongli RES Shred Range
+
 **By:** Xreejan\#1180  
 **Added:** 2022-03-09  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951176607496806440_transcript-zhongli-res-shred-range.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951176607496806440_transcript-zhongli-res-shred-range.html)
 
 **Finding:**  
-The range of Zhongli's Resistance Shred is approximately 3 Abyss tiles.  
+The range of Zhongli's Resistance Shred is approximately 3 Abyss tiles.
 
 **Evidence:**  
-[YouTube video](https://youtu.be/9m2c0-QHkbQ)  
+[YouTube video](https://youtu.be/9m2c0-QHkbQ)
 
 **Significance:**  
 Can help players prevent DPS loss when playing ranged units.
@@ -74,15 +76,17 @@ Can help players prevent DPS loss when playing ranged units.
 
 **By:** Xreejan\#1180 and Latiwings\#3308  
 **Added:** 2022-03-22  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955608390418186290_transcript-zhongli-pillar-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955608390418186290_transcript-zhongli-pillar-snapshot.html)
 
-**Finding:**   
+**Finding:**  
 Zhongli Stele Snapshot Mechanics.
-1. At C0, holding E after getting the buff does not update the snapshot state of an existing pillar on the field. 
-\(eg. Pillar exists \> Gets buffed \> Hold E \> Doesn't update the state of pillar with buffed stats\).
-2. At C1, steles are snapshotted upon cast, thus snapshots individually. It is possible to have two steles that are buffed and unbuffed at the same time. 
+
+1. At C0, holding E after getting the buff does not update the snapshot state of an existing pillar on the field.
+   \(eg. Pillar exists \> Gets buffed \> Hold E \> Doesn't update the state of pillar with buffed stats\).
+2. At C1, steles are snapshotted upon cast, thus snapshots individually. It is possible to have two steles that are buffed and unbuffed at the same time.
 
 **Evidence:**
+
 * [C0](https://imgur.com/a/gQp2fMb)
 * [C1](https://imgur.com/a/yVSFjmC)
 
@@ -93,48 +97,52 @@ Further understanding of Stone Steles.
 
 **By:** Latiwings\#3308, Potade\#9775, and Xreejan\#1180  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958519117839757373_transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958519117839757373_transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)
 
 **Finding:**  
-4TotM \(+20% ATK\) does not affect the Tap E or Hold E that procs it, because Zhongli E Snapshots. Neither the Stone Stele nor the Resonance DMG is buffed by 4TotM.  
+4TotM \(+20% ATK\) does not affect the Tap E or Hold E that procs it, because Zhongli E Snapshots. Neither the Stone Stele nor the Resonance DMG is buffed by 4TotM.
 
 Tenacity's effect states that:  
-When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.  
+When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.
 
 **Evidence:**  
-Zhongli Stats \(without 4TotM\):  
+Zhongli Stats \(without 4TotM\):
+
 * ATK: 431
 * HP: 35407
 * Geo DMG: 28.8%
-* Level 80 ZL, Level 85 enemy 10% RES  
+* Level 80 ZL, Level 85 enemy 10% RES
   * Hold E damage: \(431\*136%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 719.7
   * Tap E damage: \(431\*27.20%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 451.6
   * Resonance damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*0.9\*0.49 = 518.6
   * Resonance w/RES shred damage: \(431\*54.40%\+1.9%\*35407\)\*\(1\+28.8%\)\*1.05\*0.49 = 605.0
 
-4TotM didn't apply to either of these:  
+4TotM didn't apply to either of these:
+
 * [Tap E](https://imgur.com/a/3EakN4l)
 * [Hold E](https://imgur.com/a/CJtEawi)
 
 **Significance:**  
-Understand how Zhongli E and Tenacity interact, which affects the calculation for rotations, specifically microwave comps.  
+Understand how Zhongli E and Tenacity interact, which affects the calculation for rotations, specifically microwave comps.
 
 ### Geo Construct Test
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958503937697275984_transcript-geo-construct-test.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958503937697275984_transcript-geo-construct-test.html)
 
 **Finding:**  
-Zhongli's Stone Stele can resonate with the Rock Pillars created by a Geo Samachurl, but it does not resonate with the Rock Spikes they use to attack.  
+Zhongli's Stone Stele can resonate with the Rock Pillars created by a Geo Samachurl, but it does not resonate with the Rock Spikes they use to attack.
 
-Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and create shockwaves. Rock Spikes refer to the Geo attack channeled by a Geo Samachurl that looks like a construct.  
+Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and create shockwaves. Rock Spikes refer to the Geo attack channeled by a Geo Samachurl that looks like a construct.
 
-**Evidence:**  
+**Evidence:**
+
 * [Resonates with the Rock Pillars](https://imgur.com/eSiYfAM)
 * [Does not resonante with the Rock Spikes](https://youtu.be/85zd6TJu36M)
 
-**Significance:**  
+**Significance:**
+
 1. Zhongli's Stone Stele can resonate with enemy Geo Constructs. This mechanic can be used to test whether an object is a Geo Construct regardless of whether it's an allied or enemy construct.
 2. Rock Spikes are not Geo Constructs. This ability cannot be abused to extend the resonance from Zhongli's Stone Stele.
 
@@ -142,18 +150,19 @@ Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and c
 
 **By:** Empyress\#9451  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)
 
 **Finding:**  
-Zhongli's Geo Construct placement seems to have a specific height difference past which it will not place the pillar at the lower level and instead just destroy it.  
+Zhongli's Geo Construct placement seems to have a specific height difference past which it will not place the pillar at the lower level and instead just destroy it.
 
-**Evidence:**  
-* [Video demonstration](https://www.youtube.com/watch?v=jha55PFx5iQ)  
-* [Testing location](https://imgur.com/OkrAhHn)  
-* [Height reference](https://imgur.com/RvbWdsJ)  
+**Evidence:**
+
+* [Video demonstration](https://www.youtube.com/watch?v=jha55PFx5iQ)
+* [Testing location](https://imgur.com/OkrAhHn)
+* [Height reference](https://imgur.com/RvbWdsJ)
 
 **Significance:**  
-Knowing more about Geo Construct spawn conditions at different heights.  
+Knowing more about Geo Construct spawn conditions at different heights.
 
 ## Ascension Mechanics
 
@@ -161,7 +170,7 @@ Knowing more about Geo Construct spawn conditions at different heights.
 
 #### Zhongli's Ascension 1 broken down
 
-**By:** 3b00d\_09\#2235  
+**By:** 3b00d_09\#2235  
 **Added:** 2021-04-28  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837172595202719794_837181219086401536_transcript-zhongli-a1-exploration.html)
 
@@ -175,8 +184,8 @@ If we take a Zhongli with Talent 8 Dominus Lapidis, and 16201 MAX HP, we get a J
 
 _Scenario 1:_ [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178466234663002_unknown.png)
 
-* A level 85 Ruin Guard with my Zhongli's DEF deals 1409 Damage per Rocket hit.  
-* If the +5% buff applies after the damage calculation, then the Jade Shield should fully absorb 6 rockets, and only sustain 302 damage.  
+* A level 85 Ruin Guard with my Zhongli's DEF deals 1409 Damage per Rocket hit.
+* If the +5% buff applies after the damage calculation, then the Jade Shield should fully absorb 6 rockets, and only sustain 302 damage.
 * If the +5% buff applies during damage calculation, then Jade Shield should fully absorb 7 rockets, with ~885 remaining Shield HP.
 
 [Video](https://www.youtube.com/watch?v=Lf14taQz1QE)
@@ -187,7 +196,7 @@ _Scenario 2:_
 
 Further Evidence: Lets take another example, Zhongli this time has 9570 Base Shield Absorption. A single swing from a level 85 Ruin Guard will hit for 3388 Damage.
 
-* If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178529971044372_unknown.png)  
+* If the +5% Shield Bonus is applied after damage calculation, then Jade Shield should full absorb two swings, breaking at the third and sustaining 137 damage: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178529971044372_unknown.png)
 * If the +5% Shield Bonus is applied during damage calculation, then Jade Shield should fully absorb 3 hits with 364 Shield Strength remaining: [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/geo/zhongli.md/discord/attachments_837172595202719794_837178650636845076_unknown.png)
 
 [Video](https://www.youtube.com/watch?v=zE9G3cymFqQ)
@@ -222,11 +231,12 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893176410301141012_899029975208964147_transcript-zhongli-shield-tech.html)
 
 **Finding:**  
-Zhongli's shield tech  
-1. Shield Strength gained from A4 persist upon swap  
+Zhongli's shield tech
+
+1. Shield Strength gained from A4 persist upon swap
 
 2. However, it does not persist upon refresh.  
-2b. Above also applies if it's refresh from C2.
+   2b. Above also applies if it's refresh from C2.
 
 **Evidence:**  
 Shield Strength from gained from A4 persist upon swap [Imgur](https://imgur.com/LBixuhT)
@@ -290,10 +300,10 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 **Finding:**  
 4pc ToM passive can be triggered by other geo constructs when it is in range of zhongli's pillar
 
-**Evidence:**  
+**Evidence:**
 
-* [Test with Geo MC](https://www.youtube.com/watch?v=N8yJ_4LHQxY)  
-* [Test with Albedo](https://www.youtube.com/watch?v=R56dA5SOpyk)  
+* [Test with Geo MC](https://www.youtube.com/watch?v=N8yJ_4LHQxY)
+* [Test with Albedo](https://www.youtube.com/watch?v=R56dA5SOpyk)
 * [Test with Ningguang](https://www.youtube.com/watch?v=J7fJY0Q3Iqs)
 
 **Significance:**  

@@ -9,18 +9,19 @@ search: false
 <Card item={require('../../../characters/hydro/ayato.md')} />
 
 ## Basic Mechanics
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967855065442439219_transcript-ayato-basic-mechanics.html)  
+
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967855065442439219_transcript-ayato-basic-mechanics.html)
 
 * Gauges:
-    * E converted NA: 1A - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959
-    * E explosion: 1A - [Video](https://youtu.be/8h5MWkg7aYg) - Sayline\#5959
-    * Q: 1A - [Video](https://youtu.be/HSg9-yRQ0zw) - mina\#4448
+  * E converted NA: 1A - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959
+  * E explosion: 1A - [Video](https://youtu.be/8h5MWkg7aYg) - Sayline\#5959
+  * Q: 1A - [Video](https://youtu.be/HSg9-yRQ0zw) - mina\#4448
 * ICDs:
-    * CA: None, and not shared with NA - [Video](https://youtu.be/LOYVwCCf-2g) - Bobrokrot\#0111
-    * E: Standard - [Video](https://youtu.be/RkylH5GOyVw) - Bobrokrot\#0111
+  * CA: None, and not shared with NA - [Video](https://youtu.be/LOYVwCCf-2g) - Bobrokrot\#0111
+  * E: Standard - [Video](https://youtu.be/RkylH5GOyVw) - Bobrokrot\#0111
 * Snapshotting:
-    * E converted NA: Dynamic - [Video](https://youtu.be/0aoVP17MNgk) - Kyrari\#9990
-    * Q: Snapshots very late into the animation - [Video 1](https://youtu.be/QEPtrlYVuWM) / [Video 2](https://youtu.be/8INP2nTVwho) - aki\#9707 / Bobrokrot\#0111
+  * E converted NA: Dynamic - [Video](https://youtu.be/0aoVP17MNgk) - Kyrari\#9990
+  * Q: Snapshots very late into the animation - [Video 1](https://youtu.be/QEPtrlYVuWM) / [Video 2](https://youtu.be/8INP2nTVwho) - aki\#9707 / Bobrokrot\#0111
 
 ## Skill Mechanics
 

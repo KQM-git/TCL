@@ -17,20 +17,20 @@ Leylines auras and duration documentation have been compiled in the video demos 
 
 **Evidence:**
 
-* [https://imgur.com/a/BnVJcM2](https://imgur.com/a/BnVJcM2)  
-* [https://imgur.com/a/nyd8CG8](https://imgur.com/a/nyd8CG8) 
-* [https://imgur.com/a/tSEf0F0](https://imgur.com/a/tSEf0F0)  
-* [https://imgur.com/a/qWjj1SH](https://imgur.com/a/qWjj1SH) 
-* [https://imgur.com/a/0KVddu8](https://imgur.com/a/0KVddu8) 
-* [https://imgur.com/a/IfwvVZg](https://imgur.com/a/IfwvVZg) 
-* [https://imgur.com/a/Ik09N24](https://imgur.com/a/Ik09N24) 
+* [https://imgur.com/a/BnVJcM2](https://imgur.com/a/BnVJcM2)
+* [https://imgur.com/a/nyd8CG8](https://imgur.com/a/nyd8CG8)
+* [https://imgur.com/a/tSEf0F0](https://imgur.com/a/tSEf0F0)
+* [https://imgur.com/a/qWjj1SH](https://imgur.com/a/qWjj1SH)
+* [https://imgur.com/a/0KVddu8](https://imgur.com/a/0KVddu8)
+* [https://imgur.com/a/IfwvVZg](https://imgur.com/a/IfwvVZg)
+* [https://imgur.com/a/Ik09N24](https://imgur.com/a/Ik09N24)
 * [https://imgur.com/a/m4TznDh](https://imgur.com/a/m4TznDh)
-* [https://imgur.com/a/nDl7CiC](https://imgur.com/a/nDl7CiC) 
-* [https://imgur.com/a/U9NFLhD](https://imgur.com/a/U9NFLhD)   
-* [https://imgur.com/a/IjDl7Mu](https://imgur.com/a/IjDl7Mu)  
-* [https://imgur.com/a/BofoLDl](https://imgur.com/a/BofoLDl)  
-* [https://imgur.com/a/2EZqJZl](https://imgur.com/a/2EZqJZl)  
-* [https://www.youtube.com/playlist?list=PLuS0r7YoEgG\_SyZociLLuG\_IQLuVEIC4Q](https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q)  
+* [https://imgur.com/a/nDl7CiC](https://imgur.com/a/nDl7CiC)
+* [https://imgur.com/a/U9NFLhD](https://imgur.com/a/U9NFLhD)
+* [https://imgur.com/a/IjDl7Mu](https://imgur.com/a/IjDl7Mu)
+* [https://imgur.com/a/BofoLDl](https://imgur.com/a/BofoLDl)
+* [https://imgur.com/a/2EZqJZl](https://imgur.com/a/2EZqJZl)
+* [https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q](https://www.youtube.com/playlist?list=PLuS0r7YoEgG_SyZociLLuG_IQLuVEIC4Q)
 * [https://www.youtube.com/watch?v=fdT1fHL9y-g](https://www.youtube.com/watch?v=fdT1fHL9y-g)
 
 **Significance:**  

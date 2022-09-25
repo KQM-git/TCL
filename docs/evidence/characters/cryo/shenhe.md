@@ -5,6 +5,7 @@
 <Card item={require('../../../characters/cryo/shenhe.md')} />
 
 ## Basic Mechanics
+
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
 * Gauges - [Video](https://youtu.be/fM5RY6uoA28) - CC\#5588
@@ -12,7 +13,7 @@
   * Hold E: 2U
   * Q Initial: 1U
   * Q DoT: 1U
-* ICDs - 
+* ICDs -
   * NA: Standard. - [Video](https://youtu.be/DojuAq47sDE) - Bobrokrot\#0111
   * Q: Intiial Hit and DoT have separate ICDs. DoT is standard ICD - [Video](https://youtu.be/yjIbjkhLXGE) - CC\#5588
 * Frames
@@ -56,12 +57,13 @@
   * It makes her immune to all staggers and knockbacks
 
 ### Shenhe E has no ICD
+
 **By:** daibangden2460\#8410  
 **Added:** 2022-01-21  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932469355374059590_933905482916200468_transcript-shenhe-e-has-no-icd.html)
 
 **Finding:**  
-Shenhe does not have ICD.  
+Shenhe does not have ICD.
 
 **Evidence:** [Video](https://youtu.be/Mwaz-2plb2E) / [Video #2](https://youtu.be/XiH9TzHF76Q)
 
@@ -69,16 +71,16 @@ Shenhe does not have ICD.
 
 **By:** Sincronic\#3171  
 **Added:** 2022-03-09  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951189874780827719_transcript-quills-dont-work-on-balloons.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951189874780827719_transcript-quills-dont-work-on-balloons.html)
 
 **Finding:**  
-Shenhe's quills don't work and aren't spent when attacking commission balloon with Cryo.  
+Shenhe's quills don't work and aren't spent when attacking commission balloon with Cryo.
 
 **Evidence:**  
-[YouTube video](https://www.youtube.com/watch?v=Zm7hm5qsH44)  
+[YouTube video](https://www.youtube.com/watch?v=Zm7hm5qsH44)
 
 **Significance:**  
-Understanding of quill mechanics.  
+Understanding of quill mechanics.
 
 ## Burst Mechanics
 
@@ -92,20 +94,25 @@ Understanding of quill mechanics.
   * Shenhe C2 extends the shred as well. - [Video](https://youtu.be/mOTmD6t9nw0) - TWICE\#9958
 
 ## Ascension Mechanics
+
 ### A1: Deific Embrace
 
 * A1 is dynamic and changes as the character enters and exits the Shenhe Q Field - [Video](https://youtu.be/LIUWrdMsJXs) - CC\#5588
 
 ### A4: Spirit Communion Seal
+
 * A4 Buff Duration are Independent - [Video](https://www.youtube.com/watch?v=vs6s23i-YyU) - Trosalio\#0420
 
 ## Constellation Mechanics
+
 ### C1: Clarity of Heart
+
 * The charges refreshes Shenhe stacks based on the latest type of Elemental Skill cast (tap/hold). You do not gain more stacks than the latest cast type cap, nor do you gain more damage per quill. Energy generation does not have a cooldown, so you can double cast consecutively to gain energy faster. - [Video](https://youtu.be/3jfYfedz4IQ) - Sitri\#9504
 * The cooldowns of each skill stack, and it keeps track of the order used. - [Video](https://youtu.be/yHtqBcHEzlw) / [Video 2](https://youtu.be/yHtqBcHEzlw) - TWICE\#9958
   * In the first video we have hold E > hold E. There is a 15s CD that starts with the first hE, then a full 15s after that for the next skill use. In the second video we have hE > press, which shows the 15s CD > 10s CD.
 
 ### C2: Centered Spirit
+
 * The Cryo damage bonus from Shenhe's A1 and crit damage buff from her C2 linger a bit after her burst animation ends. - [Video](https://youtu.be/voXD6qaoEtA) - TWICE\#9958
 
 ### C4: Insight
@@ -114,23 +121,25 @@ Understanding of quill mechanics.
 
 **By:** Zamo\#6399  
 **Added:** 2022-02-21  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945502154737717259_transcript-shenhe-c4-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945502154737717259_transcript-shenhe-c4-mechanics.html)
 
 **Finding:**  
-Shenhe E consumes a Quill, however the first E cast does not give the initial E a C4 stack and instead counts towards the next E; C4 stacks are gained after the damage has been dealt and not before.  
+Shenhe E consumes a Quill, however the first E cast does not give the initial E a C4 stack and instead counts towards the next E; C4 stacks are gained after the damage has been dealt and not before.
 
-**Evidence:**  
-* Press E: [YouTube video](https://youtu.be/GQ5_s1l5IrM?t=90)  
-* Hold E: [YouTube video](https://youtu.be/Y6Z2LXpEHpA?t=50)  
+**Evidence:**
+
+* Press E: [YouTube video](https://youtu.be/GQ5_s1l5IrM?t=90)
+* Hold E: [YouTube video](https://youtu.be/Y6Z2LXpEHpA?t=50)
 
 **Significance:**  
-Better understanding of Shenhe's C4 mechanics.  
+Better understanding of Shenhe's C4 mechanics.
 
 ## Synergies/Interactions
 
 * Shenhe E applies A4 buff fast enough to buff Eula's Lightfall explosion via the "swap trick". - [Video](https://youtu.be/SiiOtS8mtMc) - TWICE\#9958
 
 ## Fluff
+
 ### Oscillation Tests on Prominent Body Regions of Shenhe's Model from Various Attacks
 
 **By:** CC\#5588  

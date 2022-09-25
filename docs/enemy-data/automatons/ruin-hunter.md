@@ -12,45 +12,46 @@ While in Bombardment Mode (Flying), the core inside him will be exposed. For unk
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 75% HP | 1 particle+1orb | common   
-| 50% HP | 1 particle+1orb | common   
-| 25% HP | 1 particle+1orb | common  
-| Death | 1 orb | common | 
+| HP Threshold | Type            | Element |
+| :----------- | :-------------- | :------ |
+| 75% HP       | 1 particle+1orb | common  |
+| 50% HP       | 1 particle+1orb | common  |
+| 25% HP       | 1 particle+1orb | common  |
+| Death        | 1 orb           | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 50% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 50%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 50288 |
-| 65 | 59897 |
-| 70 | 78312 |
-| 75 | 89525 |
-| 80 | 111394 |
-| 85 | 122546 |
-| 90 | 146125 |
-| 95 | 166493 |
-| 100 | 220591 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 50288  |
+| 65    | 59897  |
+| 70    | 78312  |
+| 75    | 89525  |
+| 80    | 111394 |
+| 85    | 122546 |
+| 90    | 146125 |
+| 95    | 166493 |
+| 100   | 220591 |
 
 ## Attacks
 
 * The Ruin Hunter transforms it's left arm into a blade and raise it up, then quickly slashes once in front of itself.
 
 * It transforms and raises its' right arm, then attacks twice forward, followed by a spinning slash, ended by one final slash.
+
   * On occasions when it'll end a the combo above, it has a chance to perform a far-reaching sideways spin at the end, dealing heavy Damage.
 
 * If the player roams too far, it will change its' right hand to a drill and prepare to strike, after 2 seconds it will instantly charge towards the player, covering tons of distance in the process, dealing immense Damage.

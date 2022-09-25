@@ -73,16 +73,17 @@ search: false
 
 **By:** Raven\#9205  
 **Added:** 2021-10-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896016732412596244_899099498595364894_transcript-aloy-and-sac-bow.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896016732412596244_899099498595364894_transcript-aloy-and-sac-bow.html)
 
 **Finding:**  
 The wording in the Aloy Section of the Theorycrafting Library was incorrect, if Frozen Wilds is recasted after Sacrificial Bow has activated while there are bombs still on the field, the last round of bombs will explode rather than disappear.
 
-**Evidence:**  
+**Evidence:**
+
 1. Original evidence from the 'Sacrificial bow Interactions' section by Vherax\#5321  
-[Imgur](https://imgur.com/1NGlqTp)
+   [Imgur](https://imgur.com/1NGlqTp)
 2. The author's own testing to corroborate Vherax's original footage  
-[Youtube](https://youtu.be/G8GhOOIwIXQ)
+   [Youtube](https://youtu.be/G8GhOOIwIXQ)
 
 **Significance:**  
 The bombs explode rather than disappear, and Aloy can still recieve Coil stacks from the previous round of bombs exploding upon skill recast.

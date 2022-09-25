@@ -18,7 +18,8 @@ search: false
 **Evidence:**  
 [https://www.youtube.com/watch?v=txxpy3-lrYM](https://www.youtube.com/watch?v=txxpy3-lrYM)
 
-**Significance:**  
+**Significance:**
+
 1. You lose around 30% damage output without Lightning Storm active.
 2. C0-C3 Beidous looking to maximize damage output will want to use 4-hit run cancels and full combo dash cancels.
 3. C4-C6 Beidous can consider using 2-hit run cancel rotations when they want to prioritize Electro damage output.
@@ -52,12 +53,14 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 **Theory/Findings:** Beidou's Tidecaller particle production mechanic actually has no RNG assigned to it at all. It produce at base 2 particles, and every charge you gain on your tidecaller increases the particles produced by 1, capping at 4 \(2 charge\). In addition, Perfect Parry automatically provides 2 charges for particle production as well, in addition to damage, and if the skill were held after a perfect parry, even if you don't get hit at all, it will still be executed at max charge.
 
 **Evidence/Testing:** A series of 100 E casts of each following category was executed
+
 * [Tapping E without getting hit at all](https://imgur.com/rtJKoAe) \(to simulate a no charge tidecaller\)
 * [Holding E for at least half a second](https://imgur.com/0UGRrti) \(to make sure that it's not a perfect parry\) before getting hit, then get hit only once before release the E right after \(to simulate 1 charge\)
 * [Holding E for at least half a second](https://imgur.com/Yr8KJNr) \(to make sure that it's not a perfect parry\) before getting hit, then get hit at least twice before releasing the E after \(to simulate 2/full charge\)
 * [Tap E on enemy's attack](https://imgur.com/ppUAnWq) \(to simulate perfect parry\)
 
 **Results:**
+
 * 0 charge tidecaller will always produce 2 electro particles
 * 1 charge tidecaller will always produce 3 electro particles
 * 2 charge tidecaller and perfect parries will always produce 4 electro particles
@@ -66,6 +69,7 @@ Beidou's extremely strong potential burst damage is evidently achievable by many
 This makes Beidou's particle production way easier to count.
 
 ### Beidou Counter Startup
+
 **By:** Aftermath#7658  
 **Added:** 2022-01-27  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930577686575853578_936209001497116762_transcript-beidou-counter-startup.html)
@@ -73,20 +77,21 @@ This makes Beidou's particle production way easier to count.
 **Finding:**  
 Beidou's counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay.
 
-**Evidence:**   
-If we say that frame 0 of the skill is Electro aura application and frame 1 is the skill UI indicator, then the counter is active on frame 1.   
-What complicates things is input delay, which will add 1 extra frame to the startup depending on your luck.  
+**Evidence:**  
+If we say that frame 0 of the skill is Electro aura application and frame 1 is the skill UI indicator, then the counter is active on frame 1.  
+What complicates things is input delay, which will add 1 extra frame to the startup depending on your luck.
 
-Here's an album of counter fails with 1 frame parry attempts failing due to 1f input delay, and a couple at the bottom with 0 frame input delays and 0 frame parry attempts: [Imgur](https://imgur.com/a/Ljxx0cW)  
+Here's an album of counter fails with 1 frame parry attempts failing due to 1f input delay, and a couple at the bottom with 0 frame input delays and 0 frame parry attempts: [Imgur](https://imgur.com/a/Ljxx0cW)
 
 And here's an album of successful 1 frame parry attempts with 0f input delay, with a couple at the bottom showing 1f input delay with successful counters on frame 2: [Imgur](https://imgur.com/a/IQnv2nh)
 
-**Significance:**   
+**Significance:**  
 The parry timing is a little easier than previously thought.
 
-## Burst Mechanics  
+## Burst Mechanics
 
 ### Beidou Lightning Proc ICD
+
 **By:** Steno\#0119  
 **Added:** 2022-01-13  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_924074085271633920_931135564336496710_transcript-beidou-proc-cd.html)
@@ -99,37 +104,40 @@ The closer to 60 frames between each attack, the more likely ping inconsistencie
 **Evidence:**  
 [Youtube](https://www.youtube.com/watch?v=sd66g9D_s6k)  
 In this video, there are two cases analyzed.
+
 * First case: 00:30
   * NA proc - frame 0
   * Beidou Q - frame 4
   * NA proc - frame 62
-  * no Beidou Q proc  
+  * no Beidou Q proc
 
 There are 62 frames between the first and second NA. However, a second Beidou Q discharge does not proc.
+
 * Second case: 00:50
   * NA proc - frame 440
   * Beidou Q - frame 446
   * NA proc - frame 501
-  * Beidou Q proc - 507  
+  * Beidou Q proc - 507
 
 There are 61 frames between the first and second NA. In this case, two Beidou Q discharges proc within 61 frames of each other.
 
 **Significance:**  
 Ping variance can cause some inconsistencies with Beidou.
 
-### Beidou's Q and Mitachurl Shield Interactions  
+### Beidou's Q and Mitachurl Shield Interactions
 
 **By:** Sayline\#5959  
 **Added:** 2021-10-17  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898905169763393556_899126939850276904_transcript-beidou-burst-and-mitachurl-shields.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898905169763393556_899126939850276904_transcript-beidou-burst-and-mitachurl-shields.html)
 
 **Finding:**  
-Lightning discharge during Beidou's Q can be procced on mitachurl shields, causing it to bounce between 2 or more enemies. However, this does not deal damage.  
+Lightning discharge during Beidou's Q can be procced on mitachurl shields, causing it to bounce between 2 or more enemies. However, this does not deal damage.
 
-**Evidence:**  
+**Evidence:**
+
 * [Melee Driver](https://youtu.be/cAxZ7Hoe8sw)
-* [Hydro Catalyst Driver](https://youtu.be/UYO017c3BMQ) 
-* [Anemo Catalyst Driver](https://youtu.be/-ToYldGMleE) 
+* [Hydro Catalyst Driver](https://youtu.be/UYO017c3BMQ)
+* [Anemo Catalyst Driver](https://youtu.be/-ToYldGMleE)
 
 **Significance:**  
 Provides a clear understanding of Beidou's burst mechanics.
@@ -148,9 +156,9 @@ Test timings of Beidou's Burst inside Bennett ultimate, both intentionally waiti
 
 * [Youtube](https://www.youtube.com/watch?v=g14YmgMUzv0): Snapshot, Skill DMG 16921, Lightning DMG 13359
 * [Youtube](https://www.youtube.com/watch?v=2DPqbdoxX8I): No snapshot, Skill DMG 16444, Lightning DMG 8906  
-(The difference of the Skill DMG is due to losing 1 stack of Serpent Spine.)
+  (The difference of the Skill DMG is due to losing 1 stack of Serpent Spine.)
 
-In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has the Bennett ATK Buff. However in the no snapshot clip, as Beidou's Lightning DMG snapshots instantly on cast, and thus, the no snapshot clip has less Lightning DMG.  
+In both clips, the Skill DMG snapshots Beidou's stats when it hits, when she has the Bennett ATK Buff. However in the no snapshot clip, as Beidou's Lightning DMG snapshots instantly on cast, and thus, the no snapshot clip has less Lightning DMG.
 
 **Significance:**  
 In the dire circumstance that you cast Beidou's Elemental Burst too fast to snapshot the Lightning DMG, you still salvage some damage as the Skill DMG snapshots later. It is still best to wait for the buffs to appear, to buff both Skill and Lighting DMG.
@@ -159,29 +167,29 @@ In the dire circumstance that you cast Beidou's Elemental Burst too fast to snap
 
 **By:** daibangden2460\#8410  
 **Added:** 2022-02-20  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945105555322703903_transcript-beidou-burst-trigger-range-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945105555322703903_transcript-beidou-burst-trigger-range-limit.html)
 
 **Finding:**  
-Lightning discharge from Beidou's burst can only be triggered within limited range, it starts from the character. It is not affected by travel time of the attack. The distance is counted when the attack hit enemy not when it is released. The owner of the attack has to be on field when the attack hit to trigger lightning discharge.  
+Lightning discharge from Beidou's burst can only be triggered within limited range, it starts from the character. It is not affected by travel time of the attack. The distance is counted when the attack hit enemy not when it is released. The owner of the attack has to be on field when the attack hit to trigger lightning discharge.
 
 **Evidence:**  
 [Youtube](https://youtu.be/w7pUpdAXx88)  
 [Youtube](https://youtu.be/5zIllx8ouYc)  
-[Youtube](https://youtu.be/wgEdpYtL03c)   
+[Youtube](https://youtu.be/wgEdpYtL03c)
 
 **Significance:**  
-Better understanding of Beidou burst.  
+Better understanding of Beidou burst.
 
-### Beidou Proc Counts 
+### Beidou Proc Counts
 
 **By:** jamberry\#7142  
 **Added:** 2022-03-26  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_957414035282870282_transcript-beidou-driver-proc-counts.html)  
 **Finding:**  
-A collection of Beidou driver proc counts with various combos and rotations.   
+A collection of Beidou driver proc counts with various combos and rotations.
 
 **Evidence:**  
-[Sheet](https://docs.google.com/spreadsheets/d/1CQFHCP2XdxSZpvc0SYeKRH3F7COkOSqOiHw5IVZixnU/edit?usp=sharing)  
+[Sheet](https://docs.google.com/spreadsheets/d/1CQFHCP2XdxSZpvc0SYeKRH3F7COkOSqOiHw5IVZixnU/edit?usp=sharing)
 
 **Significance:**  
 Optimization of gameplay with Beidou in various teams, more accurate team calcs for Beidou.
@@ -190,23 +198,24 @@ Optimization of gameplay with Beidou in various teams, more accurate team calcs 
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-08-21  
-[Discussion](https://tickets.deeznuts.moe/transcripts/bei-arc-buffering)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/bei-arc-buffering)
 
 **Finding:**  
-At high ping, Beidou can buffer a Normal Attack hit before activating Q to get an arc discharge.  
-  
-**Evidence:**  
+At high ping, Beidou can buffer a Normal Attack hit before activating Q to get an arc discharge.
+
+**Evidence:**
+
 1. [YouTube](https://youtu.be/DxR7g3lDyDs) \(428ms\)  
-I decided to do Kenki fights to figure out what felt like randomly ocurring unusually high Stormbreaker damage at activation.  
+   I decided to do Kenki fights to figure out what felt like randomly ocurring unusually high Stormbreaker damage at activation.
 2. [YouTube](https://youtu.be/4sfnDbdct8M) \(318ms\)  
-First isolated test, confirms that buffering N1 is possible, ping is **high** and couldn't get all dmg texts on screen. Timing is very easy and seems to be hit confirmable after hitlag.  
+   First isolated test, confirms that buffering N1 is possible, ping is **high** and couldn't get all dmg texts on screen. Timing is very easy and seems to be hit confirmable after hitlag.
 3. [YouTube](https://youtu.be/piNgap_Eiok) \(76ms\)  
-**Low** ping test by BowTae\#0141. Achieved once after several attempts, not easy.  
+   **Low** ping test by BowTae\#0141. Achieved once after several attempts, not easy.
 4. [YouTube](https://youtu.be/HgoAzERqbQI) \(147ms\)  
-**Mid** ping test by Spacebar\#7879. Timing can be learned and used consistently after some practice.  
-  
+   **Mid** ping test by Spacebar\#7879. Timing can be learned and used consistently after some practice.
+
 **Significance:**  
-Extra arc discharge, especially for teams that don't use Bei as driver, which is most of them.  
+Extra arc discharge, especially for teams that don't use Bei as driver, which is most of them.
 
 ## Constellation Mechanics
 
@@ -223,7 +232,8 @@ Beidou’s C4 is mistranslated:
 * Current description, Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG.
 * Correct description, Within 10s of taking DMG, Beidou's Normal Attacks AND CHARGED ATTACKS gain 20% additional Electro DMG.
 
-**Evidence:**  
+**Evidence:**
+
 * [C4 Effects](https://puu.sh/GSOeX/499a6b1506.png)
 * [Youtube](https://youtu.be/0LfX9j2nAd8)
 
@@ -251,10 +261,11 @@ Beidou's C4 applies 1A of Electro.
 **Finding:**  
 Beidou’s C4 damage instance has no ability type scaling tags.
 
-**Evidence:**  
+**Evidence:**
+
 * [Video](https://www.youtube.com/watch?v=h519mCwngYU) - Damage is consistent with and without 4HoD bonus
 * [Video](https://www.youtube.com/watch?v=qDvtbFJz0Mo) and [Video](https://www.youtube.com/watch?v=wOTjyTs34Gw) - Damage is consistent with and without 2gambler bonus
-* [Video](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg)  - Damage is consistent with and without 2NO bonus
+* [Video](https://www.youtube.com/watch?v=Khas559DcQs) and [Video](https://www.youtube.com/watch?v=ritlIZQlWpg) - Damage is consistent with and without 2NO bonus
 
 **Significance:**  
 Damage calculations for Beidou.
@@ -268,7 +279,8 @@ Damage calculations for Beidou.
 **Finding:**  
 Beidou's C4 is actually on hit, not damage. It does activate when you get hit but don't take damage (if you are shielded).
 
-**Evidence:**  
+**Evidence:**
+
 * [Youtube](https://youtu.be/_C0Xp0gROk0): Here Beidou blocks rockets with her parry, C4 is activated.
 * [Youtube](https://youtu.be/VrRdG2NUv4Q): It applies not just to Beidou's shield but presumably all shields. In this instance it does work with Noelle's shield.
 
@@ -279,7 +291,7 @@ C4 pretty good
 
 #### Beidou C6 doesn't apply on initial cast
 
-**By:** Xreejan#1180 
+**By:** Xreejan#1180
 
 **Added:** 2021-12-15
 
@@ -288,6 +300,7 @@ C4 pretty good
 **Finding:** The initial cast of Beidou's Burst doesn't benefit from her C6.
 
 **Evidence:** Testing done with c5 and c6 Beidou with identical stats on the same enemy.
+
 * C5 Beidou does 1411 damage on her burst cast: https://www.youtube.com/watch?v=J-uSoXBnq4g
 * C6 Beidou does 1411 damage on her burst cast: https://www.youtube.com/watch?v=SPVbT0n9wMg
 
@@ -304,6 +317,7 @@ C4 pretty good
 **Findings:** Beidou's C6 range is extremely short, shredding the Electro RES of enemies within just over 1 abyss tile of range.
 
 **Evidence:** The damage dealt without the C6 RES shred is 272, and the damage dealt with RES shred is 310.
+
 * [Beidou C6 Shred by Steno#0119](https://www.youtube.com/watch?v=p5jddxq8lc4)
 
 **Significance:** Beidou's C6 is not as powerful as it seems.
@@ -312,24 +326,26 @@ C4 pretty good
 
 **By:** mando.\#1646  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962135271934160966_transcript-bei-c6.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962135271934160966_transcript-bei-c6.html)
 
 **Finding:**  
-The Electro RES Shred from Beidou C6 lingers for about 2 seconds.  
+The Electro RES Shred from Beidou C6 lingers for about 2 seconds.
 
 **Evidence:**  
 Apart from the damage numbers, the debuff arrows persist on the ruin guard longer than the animation itself.
 
-[Video 1](https://youtu.be/58AFffY9Gzo)  
+[Video 1](https://youtu.be/58AFffY9Gzo)
+
 * Lisa E damage with RES Shred: 256
 * Lisa E damage without RES Shred: 225
 
-[Video 2](https://youtu.be/UGl50q7o8Mg)  
+[Video 2](https://youtu.be/UGl50q7o8Mg)
+
 * Lisa E damage with RES Shred: 247
 * Lisa E damage without RES Shred: 217
 
 **Significance:**  
-Better understanding of Beidou's C6.  
+Better understanding of Beidou's C6.
 
 ## Interactions/Synergies
 
@@ -346,9 +362,10 @@ Everything you need to know about Serpent Spine and Beidou
 * Stormbreaker is SNAPSHOTTED, meaning casting it will "lock" your stats. Losing or gaining any stacks will NOT change your current Burst damage.
 
 **Evidence:**
-* [Notice how I start and end the parry with 5 stacks.](https://youtu.be/-QwYFD1JHxY)  
-* [3523 crit damage on and off-field.](https://youtu.be/bQddXFFrJ7w)  
-* [1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks.](https://youtu.be/_LEe-0etqYU)  
+
+* [Notice how I start and end the parry with 5 stacks.](https://youtu.be/-QwYFD1JHxY)
+* [3523 crit damage on and off-field.](https://youtu.be/bQddXFFrJ7w)
+* [1766 non-crit at 3 stacks, 1766 non-crit at 5 stacks.](https://youtu.be/_LEe-0etqYU)
 
 **Significance:**
 Good weapon. Works as well as you'd expect.
@@ -363,7 +380,7 @@ Good weapon. Works as well as you'd expect.
 Sara's Tengou Juurai: Ambush activates Beidou's C4 when it hits (buffs) Beidou.
 
 **Evidence:**  
-[Video](https://youtu.be/oYDHcC2prLY): In this video you can see that Beidou's weapon is normal and after she gets hit by Tengou Juurai: Ambush her weapon starts sparking with electro, indicating that C4 has been activated. 
+[Video](https://youtu.be/oYDHcC2prLY): In this video you can see that Beidou's weapon is normal and after she gets hit by Tengou Juurai: Ambush her weapon starts sparking with electro, indicating that C4 has been activated.
 
 **Significance:**  
 Neat interaction for Beidou
@@ -376,7 +393,8 @@ Neat interaction for Beidou
 **Finding:**  
 The passive on The Bell \(4\*\), influences Beidou’s damage on Tidecaller \(E Counter\).
 
-**Evidence:** *Twitch Clip lost to the sands of time*
+**Evidence:** _Twitch Clip lost to the sands of time_
+
 * Damage with The Bell: 111
 * Damage with a weapon of same Base ATK: 98
 
@@ -404,6 +422,7 @@ Sequence of Clips and DMG numbers:
 6. The Bell E hold with visible shield - 1010
 
 **Significance:**
+
 1. You get 12% extra DMG on every E hold strike on The Bell compared to Rainslasher.
 2. Rainslasher can however give 8% more DMG than The Bell if the enemy has a Hydro/Electro aura.
 3. The passive cooldown of The Bell does not matter for Beidou and her E hold shield can directly benefit from it.
@@ -411,6 +430,7 @@ Sequence of Clips and DMG numbers:
 ### Beidou The Unforged Q snapshot interaction
 
 **Theory/Finding/Bug:**
+
 * Beidou's Q is snapshotted
 * Beidou c1 gives a shield
 * Unforged has an ATK% buff stacks that changes with a shield
@@ -419,5 +439,6 @@ Sequence of Clips and DMG numbers:
 Beidou's Q snapshot happens before gaining the bonus from Unforged's shield effect
 
 **Evidence**:
+
 * [Snapshot base](https://imgur.com/q2nusx7)
 * [Shield snapshot difference](https://imgur.com/N4EN8xP)

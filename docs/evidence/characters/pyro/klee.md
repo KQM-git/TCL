@@ -83,9 +83,9 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 
 **Evidence:**
 
-1. first bounce test = chongyun only melts 2 swords [Youtube](https://www.youtube.com/watch?v=wY-0DKfV3sw)  
-2. second bounce test = chongyun only melts 2 swords [Youtube](https://youtu.be/ielZ3K7EiDQ)  
-3. final bounce = grass sets on fire [Youtube](https://www.youtube.com/watch?v=iulXOvubb4A)  
+1. first bounce test = chongyun only melts 2 swords [Youtube](https://www.youtube.com/watch?v=wY-0DKfV3sw)
+2. second bounce test = chongyun only melts 2 swords [Youtube](https://youtu.be/ielZ3K7EiDQ)
+3. final bounce = grass sets on fire [Youtube](https://www.youtube.com/watch?v=iulXOvubb4A)
 
 **Significance:** Updated tcl
 
@@ -98,7 +98,8 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 **Finding:**  
 Klee can use her Q (Burst) to cancel E (Skill) after cast but before cooldown timer begins, but cannot dash/jump cancel her E before cooldown begins.
 
-**Evidence:**  
+**Evidence:**
+
 * Klee can activate 3 stacks of Kagura's Verity by animation cancelling her E with Q to gain 1 stack, and 2 stacks after. - [YouTube](https://youtu.be/uPKTnU4uGZg)
 * Klee can activate the passive of 4pcs Heart of Depth without the skill cooldown being activated. - [YouTube](https://youtu.be/uIVBXPAQBkI)
 * Klee can activate the passive of 4pcs Shimenawa's Reminiscence and being able to cast Q before the energy drain occurs, indicating that the EQ cancel can be done below 7 frames. - [YouTube](https://youtu.be/OcuyPt4LbJU)
@@ -133,9 +134,9 @@ You can leave Bennett Q after using Klee burst and you also keep other atk% buff
 
 **Evidence:**
 
- youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
+youtube video of 6 waves occurring: [https://youtu.be/ObwKAFrc548](https://youtu.be/ObwKAFrc548)
 
- some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
+some data collected that about matches the expected distribution of 35%, 50%, 15%: [https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing](https://docs.google.com/spreadsheets/d/17grLuz_AbmmpJf3khVSE82p16VADqq1MFU4UWyO1h0c/edit?usp=sharing)
 
 **Significance:** Explanining how Klee's burst works
 
@@ -153,8 +154,8 @@ Klee's talent 'Pounding Surprise' doesn't proc the 50% chance to spawn the 'Expl
 **Evidence:**  
 Tested for a few minutes on a world boss, but here's just a short clip.
 
-* [Video 1](https://youtu.be/0DEbRVl1pXE) 
-* [Video 2](https://youtu.be/SGMMKs5lpkI) 
+* [Video 1](https://youtu.be/0DEbRVl1pXE)
+* [Video 2](https://youtu.be/SGMMKs5lpkI)
 * [Video 3](https://youtu.be/sTtaWS0g1gQ)
 
 **Significance:**  
@@ -170,39 +171,41 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 
 **By:** Tsuki\#8993  
 **Added:** 2022-04-24
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967842007131246712_transcript-klee-a1-bug.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967842007131246712_transcript-klee-a1-bug.html)
 
 **Bug:**  
-If Klee gains a spark from her A1 while canceling the NA with a CA, her Stamina still gets consumed.  
+If Klee gains a spark from her A1 while canceling the NA with a CA, her Stamina still gets consumed.
 
 **Evidence:**  
 In [this video](https://imgur.com/a/XUrjYOD) Klee gains a spark on the second N1 and the CA gets the buff, but the Stamina still gets reduced.
 
 **Significance:**  
-When doing Klee's N1C, you might not benefit from the Stamina reduction passive if the spark is obtained during the animation cancel.  
+When doing Klee's N1C, you might not benefit from the Stamina reduction passive if the spark is obtained during the animation cancel.
 
-### Ascension 1 Mechanics  
+### Ascension 1 Mechanics
 
 **By:** pai\#3602 and daibangden2460\#8410  
-**Added:** 2022-02-20   
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934968623401955358_945091321016774676_transcript-klee-a1-mechanics.html)  
+**Added:** 2022-02-20  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934968623401955358_945091321016774676_transcript-klee-a1-mechanics.html)
 
-**Findings:**    
-Regarding the Explosive Spark from Klee's A1:  
-1. It lasts up to 30 seconds when it's not consumed.  
-2. It stays even when Klee is swapped out.  
-3. It can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".  
-4. It can proc on trees, but on most trees if it doesn't proc within 3 hits the tree needs to be hit with a physical attack in order for it to be able to proc (exceptions are trees that drop Cuihua and Aralia wood).  
-5. It procs on Cuihua trees the same way it procs on everything else, there is no 3 hit limit.  
-6. It doesn't proc on Aralia trees at all.   
+**Findings:**  
+Regarding the Explosive Spark from Klee's A1:
 
-**Evidence:**  
-1. Duration: [Youtube](https://youtu.be/Og-cb7utLMo?)  
-2. Swapping: [Youtube](https://youtu.be/d6GUMJqBD_A)  
+1. It lasts up to 30 seconds when it's not consumed.
+2. It stays even when Klee is swapped out.
+3. It can proc when hitting most plants, animals, and objects even if it doesn't "deal DMG".
+4. It can proc on trees, but on most trees if it doesn't proc within 3 hits the tree needs to be hit with a physical attack in order for it to be able to proc (exceptions are trees that drop Cuihua and Aralia wood).
+5. It procs on Cuihua trees the same way it procs on everything else, there is no 3 hit limit.
+6. It doesn't proc on Aralia trees at all.
+
+**Evidence:**
+
+1. Duration: [Youtube](https://youtu.be/Og-cb7utLMo?)
+2. Swapping: [Youtube](https://youtu.be/d6GUMJqBD_A)
 3. Things it procs on: [Google Sheets](https://docs.google.com/spreadsheets/d/1SGzT-9WBGOD_ChPivYN6PKNklpMx6JS6eO_dRhXlmNU/edit#gid=0)
-4. "Normal" trees: [Youtube](https://youtu.be/-JGDWOO3cgU)  
-5. Cuihua trees: [Youtube](https://youtu.be/puI67mUbuFA)  
-6. Aralia trees: [Youtube](https://youtu.be/RNIHZ1IaKxc)  
+4. "Normal" trees: [Youtube](https://youtu.be/-JGDWOO3cgU)
+5. Cuihua trees: [Youtube](https://youtu.be/puI67mUbuFA)
+6. Aralia trees: [Youtube](https://youtu.be/RNIHZ1IaKxc)
 
 **Significance:**  
 Klee is good at destroying stuff without consuming stamina.
@@ -213,15 +216,15 @@ Klee is good at destroying stuff without consuming stamina.
 
 **By:** jamberry#7142  
 **Added:** 2021-08-07  
- [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
-Klee’s C4 damage instance has no ability type scaling tags. 
+Klee’s C4 damage instance has no ability type scaling tags.
 
 **Evidence:**  
 Testing done by bloodreign616#4766  
 Damage is consistent with and without 2NO bonus - [Video](https://www.youtube.com/watch?v=lfrtwB9mZTc)  
-No further tests were done given that it is highly unlikely that Klee’s C4 damage is considered NA/CA or skill damage and given that Monochrom9#8058 could find no ability type scaling tags for it in Klee’s ability configs. 
+No further tests were done given that it is highly unlikely that Klee’s C4 damage is considered NA/CA or skill damage and given that Monochrom9#8058 could find no ability type scaling tags for it in Klee’s ability configs.
 
 **Significance:**  
 Damage calculations for Klee.
@@ -230,18 +233,19 @@ Damage calculations for Klee.
 
 **By:** solo#3333  
 **Added:** 2021-09-25  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887165577691529226_891209626396266516_transcript-klee-c6-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887165577691529226_891209626396266516_transcript-klee-c6-mechanics.html)
 
-**Finding:**  
-- Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).  
-- Klee C6 does snapshot to her own burst, unlike Xiangling.
+**Finding:**
+
+* Klee C6 does not stack with itself (e.g., casting burst again during the 25s will not increase the pyro bonus to +20% total).
+* Klee C6 does snapshot to her own burst, unlike Xiangling.
 
 **Evidence:**  
 No stack: [Imgur](https://imgur.com/i7yYGwi)  
 Damage calc for burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set bonus 2pc proof: [Imgur](https://imgur.com/Xn6WOqq))  
 (damage screenshot 1277 - [Imgur](https://imgur.com/MqMJuFV)
 
-869 * 1.588 * 0.5 * 0.9 * 2.681 * .768 = 1278.61 (rounding error in game?)  
+869 _ 1.588 _ 0.5 _ 0.9 _ 2.681 \* .768 = 1278.61 (rounding error in game?)  
 869 = attack  
 1.588 = damage bonus (ascension + c6 active + noblesse 2pc)  
 0.5 = enemy defense multiplier  
@@ -250,33 +254,33 @@ Damage calc for burst: (stats screen: [Imgur](https://imgur.com/BxSiIXT)) (set b
 .768 = burst lvl 10
 
 **Significance:**  
-No value in chain casting burst shenanigans, and Klee C6 does apply to her own burst despite some people saying otherwise. 
+No value in chain casting burst shenanigans, and Klee C6 does apply to her own burst despite some people saying otherwise.
 
 ### Klee C1 mechanics
 
 **By:** solo\#3333  
 **Added:** 2021-10-23  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887125796379050076_901561241552695326_transcript-klee-c1-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887125796379050076_901561241552695326_transcript-klee-c1-mechanics.html)
 
-**Finding:**  
-- Klee's C1, like her burst, has a (very) small aoe.  
-- Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.  
-- Klee's C1 has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q. Self explanatory, but perhaps the only unusual trigger is pressing Q.  
-- When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires. It seems happens consecutively: once a trigger misfires, the next trigger is likely to despawn.  
-- Klee's C1 appears to have a standard icd for its aura, and is shared with her burst.  
+**Finding:**
+
+* Klee's C1, like her burst, has a (very) small aoe.
+* Klee's C1 has a 10% chance to spawn, increasing by 8% per failed attempt until it successfully procs. Expected number of attempts before a proc is ~3.92.
+* Klee's C1 has no ICD for its proc chance, and has 6 different triggers: N1, N2, N3, CA, pressing E, and pressing Q. Self explanatory, but perhaps the only unusual trigger is pressing Q.
+* When nearby 3+ enemies, Klee's C1 has a rare chance to "misfire" causing it to aim in a strange direction (almost always missing the target) or despawn before it even fires. It seems happens consecutively: once a trigger misfires, the next trigger is likely to despawn.
+* Klee's C1 appears to have a standard icd for its aura, and is shared with her burst.
 
 **Evidence:**  
 Aoe - [Imgur](https://imgur.com/mfLfo5n)  
 Proc math & data - [Google docs](https://docs.google.com/spreadsheets/d/1zixb0exCxBaSDXcxWcNw-Kl6qKUaiQuN/edit?usp=sharing)  
 Misfire example 1 - [Imgur](https://imgur.com/n7RfhaQ)  
 Misfire example 2 - [Imgur](https://imgur.com/p4ploRl)  
-C1 proc chance: *Has been lost to the sands of time*  
+C1 proc chance: _Has been lost to the sands of time_  
 Pressing Q can proc C1 (and ICD is shared with burst)- [Imgur](https://imgur.com/QB3McRB)  
 C1 standard icd - [Imgur](https://imgur.com/sUa4xwQ), swirl damage = 911
 
 **Significance:**  
 Better understanding of Klee's C1.
-
 
 ## Synergies/Interactions
 
@@ -301,7 +305,7 @@ Yes they do.
 
 **By:** solo#3333  
 **Added:** 2021-09-17  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887521548049715200_888239532028354630_transcript-klee-4cw-3-stacks.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887521548049715200_888239532028354630_transcript-klee-4cw-3-stacks.html)
 
 **Finding:**  
 Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one charge of Jumpty Dumpty. Therefore using the second charge within 10s will bring the total CW stacks to 3.
@@ -316,14 +320,15 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 
 **By:** pai\#3602  
 **Added:** 2022-04-24  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967824209369776198_transcript-klee-stacking-bug-has-been-fixed.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967824209369776198_transcript-klee-stacking-bug-has-been-fixed.html)
 
 **Finding:**  
-Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.  
+Klee's stacking bug has been fixed in version 2.6, she can no longer get 3 stacks of Kagura's Verity by double tapping either E or 3 stacks of 4pc Crimson Witch by spamming E.
 
-**Evidence:**  
+**Evidence:**
+
 * [Kagura's Verity](https://youtu.be/N6nGySw-kAo): only the 2 rows of bells light up, indicating 2 stacks from 2 E casts.
 * [4pc CW](https://youtu.be/pELuy5gmEX4): only 15% Pyro DMG Bonus gained, indicating 2 stacks from 2 E casts.
 
 **Significance:**  
-No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4pc CW in comparison to before.  
+No one knows why they suddenly decided to fix this bug now, it worked from 1.1 to 2.5. This just means that Klee loses some damage when using Kagura or 4pc CW in comparison to before.

@@ -10,22 +10,23 @@ description: For entries related to resources or resource efficiency
 
 ## Resin
 
-### Maximum Original Resin  
+### Maximum Original Resin
 
 **By:** CQLQRS#7853  
 **Added:** 2021-10-18  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896356040747122698_899839089124179968_transcript-maximum-original-resin.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896356040747122698_899839089124179968_transcript-maximum-original-resin.html)
 
 **Finding:**  
-Original Resin can go past the cap of 160, capped at ~2000.  
+Original Resin can go past the cap of 160, capped at ~2000.
 
-**Evidence:**  
-* Unable to go past 1993 Resin: [kimchihotpot#8630](https://imgur.com/a/gka5rSj)  
-* Unable to use 11 Fragile Resin (660 Resin) when at 1360 Resin, which would result in 2020 Resin: [Tibo#4309](https://i.imgur.com/kKl8sBo.png)  
-* Unable to use 1 Fragile Resin when at 2000 Resin: [Tibo#4309](https://i.imgur.com/Jl8wK1R.png)  
+**Evidence:**
+
+* Unable to go past 1993 Resin: [kimchihotpot#8630](https://imgur.com/a/gka5rSj)
+* Unable to use 11 Fragile Resin (660 Resin) when at 1360 Resin, which would result in 2020 Resin: [Tibo#4309](https://i.imgur.com/kKl8sBo.png)
+* Unable to use 1 Fragile Resin when at 2000 Resin: [Tibo#4309](https://i.imgur.com/Jl8wK1R.png)
 
 **Significance:**  
-Better understanding of the Resin system.  
+Better understanding of the Resin system.
 
 ### Resin to Stardust Exchange Comparison
 
@@ -55,15 +56,15 @@ Buying 2-star artifacts from vendors is more worth than running a domain for art
 There are 3 artifact vendors, each selling five 2-star artifacts for 2k mora each. Shop refreshes once a week. [Wiki Link.](https://genshin-impact.fandom.com/wiki/Shops#Artifacts)
 
 Artifact vendors:  
-Mora/Resin cost: `15 * 2k =  30k mora (10 resin)`  
+Mora/Resin cost: `15 * 2k = 30k mora (10 resin)`  
 Total artifact exp: `15 * 840 = 12600 exp`  
-Resin worth: `12600/10 = 1260 exp/resin`  
+Resin worth: `12600/10 = 1260 exp/resin`
 
 Domain Run (20 resin):  
 Drop rates: [Wiki Link](https://genshin-impact.fandom.com/wiki/Loot_System/Artifact_Drop_Distribution)  
 Average artifact exp: `(1.068 * 3780) + (2.486 * 2520) + (3.546 * 1260) = 14769.72 exp`  
 Best case artifact exp: `(2 * 3780) + (3 * 2520) + (4 * 1260) = 20160 exp`  
-2525 Mora: `2525/60000 = ~0.0421 resin`   
+2525 Mora: `2525/60000 = ~0.0421 resin`  
 Average resin worth: `14769.72/20.0421 = ~736.9 exp/resin`  
 Best case resin worth: `20160/20.0421 = ~1005.9 exp/resin`
 
@@ -75,31 +76,31 @@ Best case: `1260/1005.9 = ~1.2526` (vendor 25.26% more worth)
 Buying out the 3 artifact vendors once a week is more worth than running a domain for artifact exp.
 Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a best case domain run scenario.
 
-### Vendor Artifacts vs Housing Sanctifying Essence  
+### Vendor Artifacts vs Housing Sanctifying Essence
 
 **By:** K\឵឵#4000  
 **Added:** 2021-07-07  
-  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)  
-  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)
+
 **Finding:**  
-NPC artifact shops are a better deal than the sanctifying essence in terms of artifact experience.  
+NPC artifact shops are a better deal than the sanctifying essence in terms of artifact experience.
 
 **Evidence:**  
 12600=360  
 10000=360  
-For 360 realm currency you can get 10k artifact exp. However, the 2 star artifact experience you get from all three NPC shops is actually equals to more than 10k artifact EXP while costing the same amount of realm currency. The total mora cost for the npc shops is 30k mora for 15 2 star artifacts. 1 two star artifact gives 840 exp and they sell 5 which means 5x840=4200 and 4200x3(amount of NPC artifact shops)=12600.  
+For 360 realm currency you can get 10k artifact exp. However, the 2 star artifact experience you get from all three NPC shops is actually equals to more than 10k artifact EXP while costing the same amount of realm currency. The total mora cost for the npc shops is 30k mora for 15 2 star artifacts. 1 two star artifact gives 840 exp and they sell 5 which means 5x840=4200 and 4200x3(amount of NPC artifact shops)=12600.
 
 **Signifiance:**  
 It's better to buy 3 10k mora with 360 realm currency than to buy 1 sanctifying essence for 360 realm currency because you get 2600 more artifact exp from the 30k mora when you buy artis from the npcs.  
 360 Realm Currency can be converted to 10K artifact EXP.  
-NPC shops sell 12.6K artifact XP worth of 2* artifacts for 30K Mora.  
-The mora cost of buying out the NPC shop is equal to 360 realm currency.  
+NPC shops sell 12.6K artifact XP worth of 2\* artifacts for 30K Mora.  
+The mora cost of buying out the NPC shop is equal to 360 realm currency.
 
 ### Artifact Probability Thesis
 
 **By:** tooflesswulf\#8456  
 **Added:** 2022-05-12  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974477543161872455_transcript-artifact-probability-thesis.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974477543161872455_transcript-artifact-probability-thesis.html)
 
 **Theory:**  
 Performed a thorough mathematical analysis of the artifact rolling system, deriving equations for:  
@@ -110,9 +111,10 @@ Performed a thorough mathematical analysis of the artifact rolling system, deriv
 
 **Evidence:**  
 See [ArtiSubMath-v10.pdf](/assets/ArtiSubMath-v10.pdf) or the latest version on [Overleaf](https://www.overleaf.com/read/nvxmkdpqjprj).  
-There is also python demo code available at [artifact-math-demo-py.zip](/assets/artifact-math-demo-py.zip).  
+There is also python demo code available at [artifact-math-demo-py.zip](/assets/artifact-math-demo-py.zip).
 
 Significance:
+
 1. One form of the long-awaited artifact-substat-to-resin relation has been found.
 2. The theory can answer common questions such as:
    * Which artifact should I upgrade? Should I fodder this artifact or keep it?
@@ -133,7 +135,7 @@ Realm Currency \(RC\) is a new kind of currency that will release in 1.5 allowin
 
 Assumptions:
 
-* The Traveller uses the Transient Resin and consumes 60 Original Resin
+* The Traveler uses the Transient Resin and consumes 60 Original Resin
 * Stardust/Resin values are seen here: [Resin Stardust Comparison](../../general-mechanics/lifeskills.md#resin-to-stardust-exchange-comparison)
 
 Abbreviations:
@@ -193,21 +195,22 @@ For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; E
 
 **By:** chowr\#0522  
 **Added:** 2022-03-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953734255110918204_transcript-realm-currency-extended-analysis.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953734255110918204_transcript-realm-currency-extended-analysis.html)
 
 **Abstract:**  
-I was looking at the library submissions for Realm Currency and found that I had completely different conclusions in my personal findings than what had been submitted \(specifically the submission above\).  
+I was looking at the library submissions for Realm Currency and found that I had completely different conclusions in my personal findings than what had been submitted \(specifically the submission above\).
 
-My 2 main criticisms of the previous analysis is that it does not include artifact XP, and it does not take into account the "weekly budget" that a player receives from their teapot. Additionally, I wanted to analyze the actual value of Transient Resin in comparison to each shop item.  
+My 2 main criticisms of the previous analysis is that it does not include artifact XP, and it does not take into account the "weekly budget" that a player receives from their teapot. Additionally, I wanted to analyze the actual value of Transient Resin in comparison to each shop item.
 
-In my finding, I have come to the conclusion that Transient Resin is by far the most efficient item in the shop, by a substantial amount. In order for any item in the shop to achieve at or above the same Resin Value as Transient Resin \(equivalent to 60 Resin\), the other options must be bought either almost or completely out.  
+In my finding, I have come to the conclusion that Transient Resin is by far the most efficient item in the shop, by a substantial amount. In order for any item in the shop to achieve at or above the same Resin Value as Transient Resin \(equivalent to 60 Resin\), the other options must be bought either almost or completely out.
 
-Regarding the other shop items, the three "main" resources: XP books, Mystic Enhancement Ores, and Mora, are roughly equivalent to each other \(though XP books are worth slightly less\). On the other hand, the Artifact XP Tinctures are notably more efficient than the main three, as buying them out costs less while still reaching over 60 Resin Value, as well as having two of them available.  
+Regarding the other shop items, the three "main" resources: XP books, Mystic Enhancement Ores, and Mora, are roughly equivalent to each other \(though XP books are worth slightly less\). On the other hand, the Artifact XP Tinctures are notably more efficient than the main three, as buying them out costs less while still reaching over 60 Resin Value, as well as having two of them available.
 
 **Finding:**  
-Transient Resin and Artifact XP are the most resin efficient resources available for purchase in the Realm Shop.  
+Transient Resin and Artifact XP are the most resin efficient resources available for purchase in the Realm Shop.
 
-RC/Resin for each resource is as follows:  
+RC/Resin for each resource is as follows:
+
 * XP Book: 0.0272 Resin/RC \(Resin per RC\)
 * MEO: 0.0278 Resin/RC
 * Mora: 0.0278 Resin/RC
@@ -215,29 +218,29 @@ RC/Resin for each resource is as follows:
 * Artifact XP \(Large\): 0.0376 Resin/RC
 * Transient Resin: 0.05 Resin/RC
 
-Order in efficiency is as follows: Transient Resin \> Artifact XP \> Mora = MEO \> \(very slightly\) XP Books.  
+Order in efficiency is as follows: Transient Resin \> Artifact XP \> Mora = MEO \> \(very slightly\) XP Books.
 
 **Evidence:**  
-\*All calculations are done assuming resin is being spent to obtain resources.  
+\*All calculations are done assuming resin is being spent to obtain resources.
 
-![](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/resources-and-efficiency.md/discord/attachments_935563087526907904_935563322609238066_unknown.png)  
+![](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/resources-and-efficiency.md/discord/attachments_935563087526907904_935563322609238066_unknown.png)
 
 Calculations: [Google Sheets](https://docs.google.com/spreadsheets/d/1u4rzrETXhqc6-hANK4icrdqIONc_ionePnjSaZCO2E0/edit?usp=sharing)  
-Extended version: [Pastebin](https://pastebin.com/tHCLxMcv)  
+Extended version: [Pastebin](https://pastebin.com/tHCLxMcv)
 
 **Significance:**  
-Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expediture each week is 5040 RC.  
+Buying out both of the Artifact XP options allows the player to essentially receive a full day's worth of resin from their Realm Shop, should they purchase all of the artifact XP tinctures, as well as the Transient Resin. It is entirely possible to do this, as the total cost comes out to 4800 RC, and the highest possible expediture each week is 5040 RC.
 
-However, opting for a lower budget of buying out only one of the artifact options in order to save coins is also recommended.  
+However, opting for a lower budget of buying out only one of the artifact options in order to save coins is also recommended.
 
-There are other possible permutations of what to buy in the shop, but these are my recommendations if a person is looking to buy out the items as efficiently as possible.  
+There are other possible permutations of what to buy in the shop, but these are my recommendations if a person is looking to buy out the items as efficiently as possible.
 
 **Closing Thoughts:**  
-There are extra factors to consider about why artifacts are worth more to buy. Primarily because there are often times that 5\* artifacts will not be used as fodder.  
+There are extra factors to consider about why artifacts are worth more to buy. Primarily because there are often times that 5\* artifacts will not be used as fodder.
 
-I also want to object to the idea that purchasing 360 RC of Mora to buy out the 2-star artifacts in all vendors is better than buying a 360 RC artifact tincture, made in the following library submission: ["Vendor Artifacts vs Housing Sanctifying Essence"](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html).  
+I also want to object to the idea that purchasing 360 RC of Mora to buy out the 2-star artifacts in all vendors is better than buying a 360 RC artifact tincture, made in the following library submission: ["Vendor Artifacts vs Housing Sanctifying Essence"](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html).
 
-Technically, it is true that, by following this method, it is more efficient to buy out the 2-star artifacts each week with Mora than to buy one tincture. There is a theoretical budget where someone buys all but one large tincture, and purchases Mora 3 times in order to buy out the artifact vendors. I object because there are alternate methods of obtaining Mora that would be more efficient and does not require the purchase of Mora with RC. Utilizing mob kills, daily random events, or even leylines to obtain the mora necessary instead would allow for the purchase of an extra Large Tincture. And if it is worthwhile to buy out the vendors instead of 1 Tincture, I argue it is more worthwhile to buy out the vendors, as well as the tincture. There is only a budget of 5040 Coins per week at the highest level, and so it is not possible to buy Transient Resin, Tinctures, and the 30,000 Mora necessary solely with coins. Therefore, I suggest the artifacts should be bought with Mora from a different source. Though with smaller budgets it certainly could be suggested that the 30,000 mora be purchased instead. 
+Technically, it is true that, by following this method, it is more efficient to buy out the 2-star artifacts each week with Mora than to buy one tincture. There is a theoretical budget where someone buys all but one large tincture, and purchases Mora 3 times in order to buy out the artifact vendors. I object because there are alternate methods of obtaining Mora that would be more efficient and does not require the purchase of Mora with RC. Utilizing mob kills, daily random events, or even leylines to obtain the mora necessary instead would allow for the purchase of an extra Large Tincture. And if it is worthwhile to buy out the vendors instead of 1 Tincture, I argue it is more worthwhile to buy out the vendors, as well as the tincture. There is only a budget of 5040 Coins per week at the highest level, and so it is not possible to buy Transient Resin, Tinctures, and the 30,000 Mora necessary solely with coins. Therefore, I suggest the artifacts should be bought with Mora from a different source. Though with smaller budgets it certainly could be suggested that the 30,000 mora be purchased instead.
 
 ## Crafting Refund vs Increase Passives
 
@@ -267,23 +270,25 @@ Buy the BP if you have the money.
 
 **Finding:**
 
-***Artifact Drop Spots***  
-There are two types of artifact spots:  
-- "No mora" class - Spots from this class never drop Mora and always drop a single piece of artifact with 65% chance it being white artifact and 35% chance for green.
-- "Has mora" class - Spots from this class always drop some amount of mora (200 on average), also the always drop white artifacts (1.5 on average) and never drop green artifacts.
+**_Artifact Drop Spots_**  
+There are two types of artifact spots:
 
-***Ore Farming***  
-- 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
-- Iron, White and Crystal chunk are all possible drops. 
+* "No mora" class - Spots from this class never drop Mora and always drop a single piece of artifact with 65% chance it being white artifact and 35% chance for green.
+* "Has mora" class - Spots from this class always drop some amount of mora (200 on average), also the always drop white artifacts (1.5 on average) and never drop green artifacts.
+
+**_Ore Farming_**
+
+* 1.2 ore per average seems consistent for all types of ores (excluding starsilver which there are currently not enough statistics). There are some fluctations due to low sample size for Iron and White Iron and due to the event of 3 chunks having very low probability. But overlall seems consistent. They sometimes drop two chunks, sometimes three and never one.
+* Iron, White and Crystal chunk are all possible drops.
 
 **Evidence:** [Stats Sheet](https://docs.google.com/spreadsheets/d/1Y4iE0NnktqMY-ahVIa6TDCl3bSepkQOfib4Ns_On-oM/edit#gid=0)
 
-**Significance:** Statistics for farming purposes 
+**Significance:** Statistics for farming purposes
 
-### Crabs Respawn  
+### Crabs Respawn
 
 **By:** Mcpie#8672  
-**Added:** 2021-07-17  
+**Added:** 2021-07-17
 
 **Finding:**  
 Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
@@ -321,9 +326,10 @@ You can do 10 random events for mora, companionship exp, and enhancement ores ev
 Some bake-danukis that end up with investigation spot respawn. They seem to follow common enemies respawn pattern (12h), however it's still unclear.
 
 **Evidence:**
+
 * 2021-07-21 18:42:25 - <https://youtu.be/RWUUFzwP2f0> - first video
 * 2021-07-23 11:38:29 - <https://youtu.be/QQDcTR_G04w> - second video (1 day 17h diff)
-* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video  (~19h diff)
+* 2021-07-24 05:52:53 - <https://youtu.be/1WHudr-4wZ8> - third video (~19h diff)
 * 2021-07-24 17:21:04 - <https://youtu.be/PghdzG1TlLc> - fourth video (~11h30min diff)
 
 **Significance:**  
@@ -375,45 +381,45 @@ As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is 
 
 **Significance:** players who frequently use food and are looking to save Mora can see which foods are cheapest/most Mora-efficient for their given effects.
 
-### Duplicate Special Dish  
+### Duplicate Special Dish
 
 **By:** denmax#9293  
-**Added:** 2021-07-11  
+**Added:** 2021-07-11
 
 **Finding:**  
-Characters with extra dish cooking bonus can double their special dishes.  
+Characters with extra dish cooking bonus can double their special dishes.
 
 **Evidence:**  
-[Dishes](https://imgur.com/a/VZmoUxM)  
+[Dishes](https://imgur.com/a/VZmoUxM)
 
 **Significance:**  
 Just something to keep in mind.
 
-### Crafted Food Items Limit  
+### Crafted Food Items Limit
 
 **By:** It3mUs3r#4778 and Creonalia#2818  
 **Added:** 2021-10-24  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_899016596054495253_902068304749944852_transcript-crafted-food-item-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_899016596054495253_902068304749944852_transcript-crafted-food-item-limit.html)
 
 **Finding:**  
-Crafted items limit is 2000 per unique item. Both automatic cooking and manual cooking yield this result. Which character is cooking also does not change this limit.  
+Crafted items limit is 2000 per unique item. Both automatic cooking and manual cooking yield this result. Which character is cooking also does not change this limit.
 
 **Evidence:**  
 2000 of each kind of Fragrant Mashed Potatoes: [Imgur](https://imgur.com/ioIoAhw)  
 Unable to craft more Suspicious Fragrant Mashed Potatoes: [Imgur](https://imgur.com/xPdT6NG)  
 Unable to craft more Fragrant Mashed Potatoes: [Imgur](https://imgur.com/NMhB8L9)  
-Unable to craft more Delicious Fragrant Mashed Potatoes: [Imgur](https://imgur.com/DynpQAn)  
+Unable to craft more Delicious Fragrant Mashed Potatoes: [Imgur](https://imgur.com/DynpQAn)
 
 **Significance:**  
-Food is not infinite.  
+Food is not infinite.
 
 ## Investigation Mechanics
 
-### Daily Investigation Limit  
+### Daily Investigation Limit
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868135553764311051_876092967356629032_transcript-investigation-daily-limit.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868135553764311051_876092967356629032_transcript-investigation-daily-limit.html)
 
 **Theory:**  
 There exists an investigation daily limit of 100. It is possible to go beyond this number by not leaving the rendered zone after reaching 100. Bake-danukis that give investigation spots count towards this limit as well.
@@ -421,7 +427,7 @@ There exists an investigation daily limit of 100. It is possible to go beyond th
 **Evidence:**  
 Video shows me logging into genshin (Welkin, daily commissions displaying due to first login, 160 resin so I crafted condensed resin) and running through 100 investigation spots to showcase that if you investigate 100th spot then rerendering the zone WILL NOT display previously accessible investigation spots.  
 [Video](https://youtu.be/vW7O4U4MoJQ)  
-Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investiogation spot in the video and I increased the counter after each one of them.  
+Above video contains timestamps of each spot and a counter on-screen. I also got artifacts from at least 4 bake-danukis that spawn artifact investiogation spot in the video and I increased the counter after each one of them.
 
 Video showcasing that it is possible to go beyond the cap. There's on-screen counter present showing how many investigation spots I have already gathered. I managed to get a total of 174 investigation spots.  
 [Video](https://youtu.be/Uzs8yu6H1BI)
@@ -430,31 +436,31 @@ Video showcasing that it is possible to go beyond the cap. There's on-screen cou
 Since patch 2.0, if you're going to do artifact routes then you don't want to investigate every single spot there is due to this limit and the fact that there are over 100 investigation spots containing artifacts as of now.  
 Additionally, because it's possible to go beyond 100 by not leaving the zone on 100th spot, it's advised to leave places with high amount of investigation spots for last.
 
-### Daily Investigation Limit Reset  
+### Daily Investigation Limit Reset
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_869052058752385034_876092976483418132_transcript-daily-investigation-limit-resets-at-daily-reset.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_869052058752385034_876092976483418132_transcript-daily-investigation-limit-resets-at-daily-reset.html)
 
 **Theory:**  
 Daily investigation limit resets at daily reset.
 
 **Evidence:**  
 [Video](https://youtu.be/JWCW9NjTL8A)  
-Video shows my character in 2 artifact spots that I have not picked on the previous day. Once I was in the Liyue cellar spot, daily reset happened - after teleporting far away and back, I was able to pick up investigation spots.  
+Video shows my character in 2 artifact spots that I have not picked on the previous day. Once I was in the Liyue cellar spot, daily reset happened - after teleporting far away and back, I was able to pick up investigation spots.
 
 **Significance:**  
 Allows for early artifact route run if you still have uninvestigated spots.
 
-### Daily Investigation Spots Post Daily Cap  
+### Daily Investigation Spots Post Daily Cap
 
 **By:** Mcpie#8672  
 **Added:** 2021-08-14  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875747620621004800_876093025124761600_transcript-investigation-spots-post-daily-cap.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875747620621004800_876093025124761600_transcript-investigation-spots-post-daily-cap.html)
 
 **Theory:**  
 We already know that the daily investigation cap is 100 and it's possible to go beyond that number by picking already rendered investigation spots.  
-If you're about to hit the daily cap and go too far from the place you are at right now without teleporting/relogging and then go back, the rendered investigation spot is lost. This would mean that all investigation spots are stored in your memory and they are strictly connected to your render distance.  
+If you're about to hit the daily cap and go too far from the place you are at right now without teleporting/relogging and then go back, the rendered investigation spot is lost. This would mean that all investigation spots are stored in your memory and they are strictly connected to your render distance.
 
 **Evidence:**  
 Timestamped: [Video](https://youtu.be/Uzs8yu6H1BI?t=1778) - gathered 99th spot, going north to get 100th which is the cap. There are 2 spots visible here to gather.  
@@ -470,18 +476,20 @@ The above video displays that investigation spots are stored in your memory, and
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-03-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953810490323255406_transcript-multiple-arti-clusters-after-100.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953810490323255406_transcript-multiple-arti-clusters-after-100.html)
 
-**Findings:**  
+**Findings:**
+
 * 'Co-op helps': Investigates \(Artifacts, Weapons, Iron, Energy, Veggies\) don't despawn after reaching daily cap as long as a watcher \(host or co-op teammate\) is near them \[1\].
 * 'Order matters': Which spots are included in a cluster can change depending on which spot is being watched when 100th investigate is done \[2\]\[5\].
 * 'Wide clusters': Clusters can extend pretty far \[3\].
 * 'Merged!': Tatarasuna and the nearby spots \#7, \#8 & BK6 can be merged into a single cluster by placing watchers at certain locations. Same goes for Koseki and Seiraimaru \(Kosekimaru?\) \[4\].
-* 'Hypothesis': Seems like there are pre-defined 'groups' of these spots that can be held in memory as long as a watcher is in a certain range of at least one or few of its spots. these groups can still despawn if they are left unwatched anytime after reaching the cap. 
+* 'Hypothesis': Seems like there are pre-defined 'groups' of these spots that can be held in memory as long as a watcher is in a certain range of at least one or few of its spots. these groups can still despawn if they are left unwatched anytime after reaching the cap.
 
 Notes:
+
 * Cluster is an area/set of spots that can be watched by a single watcher after reaching the daily investigation cap.
-* Spot numbers are referenced from the maps created in previous tickets:  
+* Spot numbers are referenced from the maps created in previous tickets:
   * [Liyue](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/liyue.jpg)
   * [Inazuma](https://raw.githubusercontent.com/mcpie87/gi-artifacts/master/inazuma.jpg)
 
@@ -491,10 +499,10 @@ Notes:
 \[3\] [11-spotted Hiraumi](https://youtu.be/iRlCp7XLBOA), Koseki \+ \#6 \+ 2x BKs
 and BK10 included in Tatara cluster  
 \[4\] [Post-cap run for 184 total spots](https://youtu.be/Y_YuIUWgCmQ)  
-\[5\] [Kosekimaru watchpoint](https://youtu.be/DDxtp-ik3_w), read description  
+\[5\] [Kosekimaru watchpoint](https://youtu.be/DDxtp-ik3_w), read description
 
 **Significance:**  
-Allows collecting artifacts from more than \(the previous max of\) [129 spots](https://youtu.be/Tc8jvEdEeVk) in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: `5\+99\+32\+30\+11\+7=184`.  
+Allows collecting artifacts from more than \(the previous max of\) [129 spots](https://youtu.be/Tc8jvEdEeVk) in a day. Assuming you have friends with moderate patience stats \(max 20 mins afk\). Based on current knowledge, theoretical max is: `5\+99\+32\+30\+11\+7=184`.
 
 ## Trees
 
@@ -525,7 +533,7 @@ Attacks that shake untouched trees, including enemy attacks, can allow them to b
 * Shaking a tree marks it as a target for a wider variety of skills. Some attacks, like Mona's E, can only shake already-marked trees, and do nothing.
 * All physical damage sources & an odd assortment of character skills \(Jean's E, Kaeya's Q\) can shake/mark
 * Marks last a very short time
-* Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload. 
+* Some skills and Overloads can harvest. Characters like Bennett and Xingqiu can harvest using E skills, while Razor can harvest with E only if he uses Overload.
 
 **Evidence:**  
 Summary post with multiple videos here [https://imgur.com/a/RnevAeW](https://imgur.com/a/RnevAeW)
@@ -537,19 +545,20 @@ Attacks are not equal in terms player-environment interaction. Most skills can n
 
 **By:** Aluminum\#5462  
 **Added:** 2021-12-12  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903482500876210186_919141033718202388_transcript-trees-are-pepega.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903482500876210186_919141033718202388_transcript-trees-are-pepega.html)
 
 **Finding:**  
-Missed attacks on trees due to a [bug](https://imgur.com/AiGbPmU) still mark the tree for unholy harvesting methods.  
+Missed attacks on trees due to a [bug](https://imgur.com/AiGbPmU) still mark the tree for unholy harvesting methods.
 
 **Evidence:**  
 Xingqiu N1 \(miss\) into Xingqiu Skill: [YouTube](https://youtu.be/LInYdyJllms)  
 Qiqi N1 \(miss\) into Tartaglia Skill and Attacks: [YouTube](https://youtu.be/wf9qAnnBaFg)  
-Version 2.3 Bennett N1 \(whiff\) into Tartaglia Skill and Attacks: [Imgur](https://imgur.com/eKKGUnu)  
-* In Version 2.3, miHoYo issued a supposed fix for the whiffed attacks on trees, as noted in their [patch notes](https://genshin.mihoyo.com/en/news/detail/17278). However, this issue can still sometimes occur post-patch, enabling this trick.  
+Version 2.3 Bennett N1 \(whiff\) into Tartaglia Skill and Attacks: [Imgur](https://imgur.com/eKKGUnu)
+
+* In Version 2.3, miHoYo issued a supposed fix for the whiffed attacks on trees, as noted in their [patch notes](https://genshin.mihoyo.com/en/news/detail/17278). However, this issue can still sometimes occur post-patch, enabling this trick.
 
 **Significance:**  
-I am the Lorax. I speak for the trees.  
+I am the Lorax. I speak for the trees.
 
 ### Lumberjack Tier List
 
@@ -577,10 +586,10 @@ Summary of Results, most efficient units for tree chopping:
 **Evidence:**
 
 * Inventory before and after farming wood over 3 days: [https://imgur.com/a/tNZP68q](https://imgur.com/a/tNZP68q)
-* Evidence that player cannot collect more bamboo, but can collect other wood: [https://youtu.be/f\_eQfp1FWLM](https://youtu.be/f_eQfp1FWLM) 
+* Evidence that player cannot collect more bamboo, but can collect other wood: [https://youtu.be/f_eQfp1FWLM](https://youtu.be/f_eQfp1FWLM)
 * Same for pine wood: [https://youtu.be/yh4PodfeX7c](https://youtu.be/yh4PodfeX7c)
 * Hitting cap and testing teleport and logout/login \(and showing that neither reset the cap\): [https://youtu.be/pE-vHLpum6Q](https://youtu.be/pE-vHLpum6Q)
-* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [https://youtu.be/9WrYqapBFkU](https://youtu.be/9WrYqapBFkU) 
+* Collecting pine wood after server reset \(marked by new daily commission quest at 0:12\): [https://youtu.be/9WrYqapBFkU](https://youtu.be/9WrYqapBFkU)
 
 Note that although I did need to teleport to get wood after reset, teleporting alone does not reset the cap, as shown above.
 
@@ -590,19 +599,19 @@ Note that although I did need to teleport to get wood after reset, teleporting a
 
 **By:** Homura\#9806 and mol\#3280  
 **Added:** 2022-02-20  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945134145506517052_transcript-capped-wood-types-register-in-chopping-memory.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945134145506517052_transcript-capped-wood-types-register-in-chopping-memory.html)
 
 **Finding:**  
 Even after farming one tree type to the cap, it will still register in the 11 tree chopping memory.
 
-**Evidence:**  
+**Evidence:**
 
-[Youtube](https://youtu.be/IQjXqPlfX5M)  
+[Youtube](https://youtu.be/IQjXqPlfX5M)
 
-In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.  
+In the video, thoma hits 4 birch trees that do not drop wood, this is either caused by a.) being in memory as a tree 1-11 or b.) the daily wood cap was hit for birch specifically. Next, 5 fir trees and 2 cuihua trees were cut, all dropping wood. Going back to the birch trees resulted no new wood drops, and since those are 11 trees hit in total it is impossible for all of the birch trees to be "in memory", so the only reason they wouldn't drop wood is that birch daily limit has been reached. 2 additional fir trees were cut and dropped wood, so capped wood types do count in the tree chopping memory mechanics.
 
 **Significance:**  
-Since capped trees do register in memory, this allows for hybrid routes (such as the one in the video), especially very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even after you have farmed one wood type to completion. 
+Since capped trees do register in memory, this allows for hybrid routes (such as the one in the video), especially very unbalanced hybrid routes (like 1 cuihua to 10 cedar) to function even after you have farmed one wood type to completion.
 
 ## Battle Pass
 
@@ -610,20 +619,21 @@ Since capped trees do register in memory, this allows for hybrid routes (such as
 
 **By** Peekays\#2722  
 **Added:** 2021-09-14  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882273258806849627_885691065707925514_transcript-battle-pass-value-for-resin.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882273258806849627_885691065707925514_transcript-battle-pass-value-for-resin.html)
 
 **Finding:**  
 The $10 BP gives resources worth approximately 1800 resin = 45 condensed resin = 30 fragile resins in the form of exp books, mora, and talent books.  
 This does not include the weapon enhancement ores, fates, primogems, and bp exclusive weapon.
 
 **Evidence:**  
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1Xe-9r2IQXVZ4E0-jl6xRvJEim-18n1pe7bcA-AjA6jQ)  
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1Xe-9r2IQXVZ4E0-jl6xRvJEim-18n1pe7bcA-AjA6jQ)
 
 Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Spreadsheet](https://docs.google.com/spreadsheets/d/14Y3aqKvnxSeuox3RF1Bg6kQwKzVDPEPqy8aXacSIHMs)
 
 ### Weekly BP Cap During Launch Week
 
 =======
+
 ### Elemental Infusion Hampers Wood Cutting
 
 **By:** lapidibus#8146 and δανιελ#6040  
@@ -635,7 +645,7 @@ Melee attacks infused with elements usually cannot chop wood from trees.
 
 **Evidence:**  
 Chongyun and Ayaka infusions prevent wood chopping - [YouTube](https://youtu.be/cJEkFctLa4g)  
-Ayato *can* chop wood during his skill's infusion *if* activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation)  - [YouTube](https://youtu.be/Bs80TnoJMyI)
+Ayato _can_ chop wood during his skill's infusion _if_ activated immediately after an uninfussed normal attack hit (see [Unholy Harvesting Methods](../../general-mechanics/resources-and-efficiency#unholy-harvesting-methods) for an explanation) - [YouTube](https://youtu.be/Bs80TnoJMyI)
 
 **Significance:**  
 Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at chopping wood.
@@ -647,7 +657,8 @@ Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at choppi
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928504588498272296_930045464001257522_transcript-weekly-bp-cap-during-launch-week.html)
 
 **Finding:** Reaching BP Weekly EXP limit during launch week requires sacrifices.  
-Possible sacrifices are:  
+Possible sacrifices are:
+
 * Spend a total of 500,000 Mora.
   * It's easy to spend it if you're planning to level anything.
 * Purchase 2 items from the Teapot Traveling Salesman in another player's Serenitea Pot.
@@ -656,12 +667,12 @@ Possible sacrifices are:
   * Only NA is capable of doing this and not even by a huge margin - you can use up to 1237 resin assuming perfect server maintenance end and x2 Transient Resin.
   * If you're not a hardcore player, you need to either make a refill with Primogems or utilize Fragile Resins.
 
-**Evidence:** 
+**Evidence:**
 Sheet including options and calcs per server region: [Google Doc](https://docs.google.com/spreadsheets/d/1w3AzHkRcJPFLyonoEVQGJmNX4KCqfIewEH_1LQ55y4c)
 
 Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Salesman** have same value (450), which is the reason as to why there is no extra sheet for salesman / salesman + resin as same values are included in **500,000 Mora** sheets.
 
-**Significance:** People who wanted to reach BP Weekly EXP limit during launch week have to make additional sacrifices in order to do so.  
+**Significance:** People who wanted to reach BP Weekly EXP limit during launch week have to make additional sacrifices in order to do so.
 
 ## Inventory
 
@@ -675,9 +686,9 @@ Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Sales
 The destroy button in the inventory is the only way to mass delete/destroy items in the game other than the Parametric Transformer. However, the function itself is limited and the resources gained from destroying items are not worth compared to using them as fodder.
 
 **Evidence:**  
-[Imgur](https://imgur.com/a/qRB1FWr)  
+[Imgur](https://imgur.com/a/qRB1FWr)
 
-By destroying artifacts, you either can get XP or Mora, it is the same for each. By destroying weapons, you obtain a number of 1\* enhancement ores based on the rarity of the weapon \(3 for 3 stars, 2 for 2 stars, 1 for 1 star\).  
+By destroying artifacts, you either can get XP or Mora, it is the same for each. By destroying weapons, you obtain a number of 1\* enhancement ores based on the rarity of the weapon \(3 for 3 stars, 2 for 2 stars, 1 for 1 star\).
 
 **Other Observations:**
 
@@ -691,7 +702,7 @@ By destroying artifacts, you either can get XP or Mora, it is the same for each.
 
 Destroying weapons is not efficient and causes you to lose weapon XP. Destroying artifacts although has no "real downside," the rewards given are lackluster and are better used as fodder. There is no reason to destroy items that give no rewards. Those items are better used for the Parametric Transformer if they need to be disposed of. The only upside is to mass clear inventory space, but due to the size of the inventory and the loss of XP, it does not warrant using the feature.
 
-### Capped Enhancement Ores  
+### Capped Enhancement Ores
 
 **By:** Kgbeast#6738  
 **Added:** 2021-10-09  
@@ -700,52 +711,53 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 **Findings/Evidence:**  
 Consequences of having capped (9999) Mystic Enhancement Ore:
 
-- Abyss rewards are sent to the mail and cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap  
-[Video](https://www.youtube.com/watch?v=q9W_R6sYpEQ&ab_channel=SteveBob)
+* Abyss rewards are sent to the mail and cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap  
+  [Video](https://www.youtube.com/watch?v=q9W_R6sYpEQ&ab_channel=SteveBob)
 
-- Mystic enhancement ore from the Battle Pass cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap
+* Mystic enhancement ore from the Battle Pass cannot be collected until there is enough room for ore to no longer exceed the 9999 mystic enhancement ore cap
 
-- Completing a random event will not yield any ore rewards but will still give companionship EXP and mora  
-[Video](https://www.youtube.com/watch?v=o6ms2FVQs68&ab_channel=SteveBob)  
-[Video](https://www.youtube.com/watch?v=pTFZUEjhBtc&ab_channel=SteveBob)
+* Completing a random event will not yield any ore rewards but will still give companionship EXP and mora  
+  [Video](https://www.youtube.com/watch?v=o6ms2FVQs68&ab_channel=SteveBob)  
+  [Video](https://www.youtube.com/watch?v=pTFZUEjhBtc&ab_channel=SteveBob)
 
-- Mystic enhancement ore cannot be crafted at the blacksmith with either amethyst chunks or crystal ore  
-[Video](https://www.youtube.com/watch?v=9Z4XW4mvTuY&ab_channel=SteveBob)
+* Mystic enhancement ore cannot be crafted at the blacksmith with either amethyst chunks or crystal ore  
+  [Video](https://www.youtube.com/watch?v=9Z4XW4mvTuY&ab_channel=SteveBob)
 
-- Completing a daily commission CAN and will give mystic enhancement ore, exceeding the 9999 cap (previous methods still do not work past 9999)  
-[Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
+* Completing a daily commission CAN and will give mystic enhancement ore, exceeding the 9999 cap (previous methods still do not work past 9999)  
+  [Video](https://www.youtube.com/watch?v=75BmTpmBUNs&ab_channel=SteveBob)
 
 **Significance:**  
-This will never happen to you though.  
+This will never happen to you though.
 
 ### Crystal Chunk Inventory Cap
 
 **By:** Cypher130n\#6831  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958495995744894976_transcript-crystal-chunk-inventory-cap.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958495995744894976_transcript-crystal-chunk-inventory-cap.html)
 
-**Findings:**  
+**Findings:**
+
 * The natural cap of Crystal Chunks able to be held in a player's inventory is 9999.
 * This can be overcapped by claiming Crystal Chunks as a reward from Expeditions at a maximum of 10006 \(9998+8\).
 
 **Evidence:**  
 [Natural cap](https://youtu.be/NXsOcKdUVls)  
-[Overcap](https://youtu.be/Fv2URPc_kaI)  
+[Overcap](https://youtu.be/Fv2URPc_kaI)
 
 **Significance:**  
-Don't become an Ore Archon like me.  
+Don't become an Ore Archon like me.
 
 ### Berry Max
 
 **By:** makeway4pK\#3901  
 **Added:** 2022-03-22  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955999927236984862_transcript-berry-max.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955999927236984862_transcript-berry-max.html)
 
 **Finding:**  
-Inventory cap for berries is 9999 much like crystal chunks.  
+Inventory cap for berries is 9999 much like crystal chunks.
 
 **Evidence:**  
 [YouTube](https://youtu.be/ACha1kLWHfQ)
 
 **Significance:**  
-Knowledge... and maybe a hint that all materials might be capped at 9999.  
+Knowledge... and maybe a hint that all materials might be capped at 9999.

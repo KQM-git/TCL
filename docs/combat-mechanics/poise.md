@@ -88,18 +88,18 @@ During the stagger animation, an enemy is **still considered vulnerable**. Meani
 When a target is in the **vulnerable** status, the next attack received may stagger them depending on the level of the stagger.
 
 | Common Impulse Type | Stagger Level | Horizontal Force | Vertical Force |
-| :--- | :--- | :--- | :--- |
-| Default | Mute | 0 | 0 |
-| Level 0 | Mute | 0 | 0 |
-| Level 1 | Shake | 0 | 0 |
-| Level 2 | Light | 200 | 0 |
-| Level 3 | Heavy | 200 | 0 |
-| Level 4 | Heavy | 800 | 0 |
-| Level 5 | Air | 480 | 600 |
-| Level 6 | Air | 655 | 800 |
-| Level 7 | Air | 0 | 800 |
-| Level 8 | Air | 795 | 900 |
-| Level 9 | Air | 1200 | 600 |
+| :------------------ | :------------ | :--------------- | :------------- |
+| Default             | Mute          | 0                | 0              |
+| Level 0             | Mute          | 0                | 0              |
+| Level 1             | Shake         | 0                | 0              |
+| Level 2             | Light         | 200              | 0              |
+| Level 3             | Heavy         | 200              | 0              |
+| Level 4             | Heavy         | 800              | 0              |
+| Level 5             | Air           | 480              | 600            |
+| Level 6             | Air           | 655              | 800            |
+| Level 7             | Air           | 0                | 800            |
+| Level 8             | Air           | 795              | 900            |
+| Level 9             | Air           | 1200             | 600            |
 
 ## Force
 
@@ -136,4 +136,3 @@ When a target is in the **vulnerable** status, the next attack received may stag
 ## Evidence Vault
 
 <Card item={require('../evidence/combat-mechanics/poise.md')} />
-

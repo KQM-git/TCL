@@ -25,8 +25,8 @@ import polearms from '@site/src/data/weapons/Polearm.json'
   * The "on hit" portion of the passive does not refer to normal attack hits alone.
 * Stacks cannot be gained while off-field.
 * New gained stacks will extend the duration of existing stacks, beyond the 6 seconds stipulated.
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS\#7853 and Dunia\#2481](../../evidence/equipment/weapons.md\#weapon-stacks-on-hit)  
-* PJWS can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS\#7853 and Dunia\#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* PJWS can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -42,8 +42,8 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Vortex Vanquisher" weapons={polearms}>
 
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
-* Vortex Vanquisher can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* Vortex Vanquisher can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -53,7 +53,7 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Blackcliff Pole" weapons={polearms}>
 
-import BlackcliffSeries from './_common/blackcliff_series.md';
+import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <BlackcliffSeries/>
 
@@ -71,7 +71,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Deathmatch" weapons={polearms}>
 
-* The ATK and DEF bonus snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate. - [Aftermath\#7658](../../evidence/equipment/weapons.md\#deathmatch-passive-snapshot)
+* The ATK and DEF bonus snapshots the last effect when the holder goes off-field. When swapping back on-field, the passive update is not immediate. - [Aftermath\#7658](../../evidence/equipment/weapons.md#deathmatch-passive-snapshot)
 
 </Weapon>
 
@@ -79,7 +79,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Dragon's Bane" weapons={polearms}>
 
-import BaneSeries from './_common/bane_series.md';
+import BaneSeries from './\_common/bane_series.md';
 
 <BaneSeries/>
 
@@ -93,7 +93,7 @@ import BaneSeries from './_common/bane_series.md';
 
 <Weapon weapon="Favonius Lance" weapons={polearms}>
 
-import FavSeries from './_common/fav_series.md';
+import FavSeries from './\_common/fav_series.md';
 
 <FavSeries/>
 
@@ -107,8 +107,8 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Kitain Cross Spear" weapons={polearms}>
 
-* Effect can be activated at 0 energy without going into the negative.  
-* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
+* Effect can be activated at 0 energy without going into the negative.
+* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy.
 
 </Weapon>
 
@@ -120,7 +120,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Prototype Starglitter" weapons={polearms}>
 
-* Each stack gained will refresh the duration of existing stacks.  
+* Each stack gained will refresh the duration of existing stacks.
 
 </Weapon>
 
@@ -128,7 +128,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Royal Spear" weapons={polearms}>
 
-import RoyalSeries from './_common/royal_series.md';
+import RoyalSeries from './\_common/royal_series.md';
 
 <RoyalSeries/>
 
@@ -175,4 +175,3 @@ import RoyalSeries from './_common/royal_series.md';
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

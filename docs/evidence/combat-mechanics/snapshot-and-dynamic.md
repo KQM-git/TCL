@@ -5,9 +5,9 @@ sidebar_position: 1300
 
 # Snapshot and Dynamic
 
-**Main Page:**  
+**Main Page:**
 
-<Card item={require('../../combat-mechanics/snapshot-and-dynamic.md')} />  
+<Card item={require('../../combat-mechanics/snapshot-and-dynamic.md')} />
 
 ## Summons are Not Dynamic and Snapshot on Cast
 
@@ -41,12 +41,11 @@ To add to Seaweed I tested this with Xiangling Pyronado along with c6 Diona Q. W
 
 **Significance:** This means that you can potentially update Oz's snapshot to reflect any new buffs, however this also means that if you resummon Oz after losing buffs, Oz will become weaker if he was previously snapshotted with buffs.
 
-
 ## Stats not in details stat page are not snapshot
 
 **By:** Kidz\#8667, Charliex3000\#9403  
 **Added:** 2021-10-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872757681826435132_899103401432989736_transcript-stats-not-in-details-stat-page-are-not-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872757681826435132_899103401432989736_transcript-stats-not-in-details-stat-page-are-not-snapshot.html)
 
 **Finding:**  
 In general, stats that are not in a Character's "Details" pane do not snapshot. However, the exception is that "Increases All DMG" effects do snapshot, except for the exceptions to this exception: Alley Hunter and Geo Resonance don't snapshot their "Increases All DMG".
@@ -62,7 +61,7 @@ CRIT Rate: [From GeoMC C1 evidence](https://youtu.be/DBMJEKuABes)
 [CRIT DMG](https://youtu.be/A__SJDUmfhY)  
 Elemental DMG%: [See Mistsplitter stacks evidence](https://docs.google.com/spreadsheets/d/12wOAIniEr5D4MvmMU4MwxTm4LxaNUpFAAl6g1iAaLhY/edit#gid=0)  
 DMG%: [Alley Flash](https://youtu.be/PR5ZxqHsLOo), [Serpent Spine](https://youtu.be/5FG_OEG8iYA) , [PJWS](https://www.youtube.com/watch?v=muUSsL8gxwU)  
-Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](#summons-are-not-dynamic-and-snapshot-on-cast)  
+Vape/Melt Reaction%: From [4CWF](https://youtu.be/LTuTDhRyZZw), From [EM](#summons-are-not-dynamic-and-snapshot-on-cast)
 
 The following stats were tested/known to not snapshot:
 
@@ -74,7 +73,7 @@ Skill CRIT Rate: From [Festering Desire](https://youtu.be/0U32uJludm8)
 CA CRIT Rate: [4 Sojourners](https://youtu.be/bwIxrzUnhPE)  
 CA DMG%: From [4SR](https://youtu.be/fc8pdCPxTRU), [4WT](https://youtu.be/G0F9SThwDrk), [Amos](https://youtu.be/jWxUvehP47I)  
 DMG%: (usually snaps but these two do not) [Alley Hunter](https://youtu.be/GMZtnuvn3X0), [Geo Resonance](https://youtu.be/TpBFUvREWGo)  
-Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=r4ENm19DOPY)  
+Electro CRIT DMG: From [Sara C6](https://www.youtube.com/watch?v=r4ENm19DOPY)
 
 **Signifiance:**  
 More extensive knowledge on what does and does not snapshot.
@@ -83,7 +82,7 @@ More extensive knowledge on what does and does not snapshot.
 
 **By:** Dooners#6709  
 **Added:** 2021-10-17  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894400995554127882_899195834686636073_transcript-healing-over-time-is-snapshot-on-cast.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894400995554127882_899195834686636073_transcript-healing-over-time-is-snapshot-on-cast.html)
 
 **Finding:**  
 The amount of health healed is snapshot based on the user's stats at the time of activation
@@ -110,15 +109,15 @@ The healing effectiveness stat from 2pc maiden's beloved also snapshots. Diona w
 Bonus - Noelle, Qiqi, and Barbara also have a healing-on-hit effect while their elemental skill is active. Do on-hit healing effects from active skills snapshot?
 
 Evidence S1: [Video](https://youtu.be/N41DVWpP8z8)  
-Whiteblind grants Noelle 7.5% ATK and 7.5% DEF on-hit, and her on-hit healing scales on DEF. Here I use the burst to ensure that she heals every hit. Each consecutive hit is shown to heal for an increasing amount, capping at hit 4 which corresponds to the max stacks of whiteblind. Noelle on-hit-healing does not snapshot on E activation. 
+Whiteblind grants Noelle 7.5% ATK and 7.5% DEF on-hit, and her on-hit healing scales on DEF. Here I use the burst to ensure that she heals every hit. Each consecutive hit is shown to heal for an increasing amount, capping at hit 4 which corresponds to the max stacks of whiteblind. Noelle on-hit-healing does not snapshot on E activation.
 
 Evidence S2: [Video](https://youtu.be/0zb7wmWQjX4)  
 Similarly, Prototype Rancour increases ATK and DEF every hit, and Qiqi's on-hit healing scales on ATK. Each consecutive hit heals for the exact same amount of health, meaning that Qiqi on-hit-healing snapshots on E activation.
 
 Evidence S3: [Video](https://youtu.be/EbGt_n5_Qrk)  
-Barbara on-hit healing from her skill scales on maximum HP, so I equipped her with a level one Thrilling Tales of Dragon Slayers, activated her skill, attacked an enemy, leveled the weapon, and attacked the same enemy again. She healed for 364 hp per hit before and after leveling the weapon, showing that Barbara on-hit healing snapshots on E activation. 
+Barbara on-hit healing from her skill scales on maximum HP, so I equipped her with a level one Thrilling Tales of Dragon Slayers, activated her skill, attacked an enemy, leveled the weapon, and attacked the same enemy again. She healed for 364 hp per hit before and after leveling the weapon, showing that Barbara on-hit healing snapshots on E activation.
 
-Barbara and Qiqi skills function extremely similarly, and their snapshotting mechanics also seems to be the same. 
+Barbara and Qiqi skills function extremely similarly, and their snapshotting mechanics also seems to be the same.
 
 **Signifiance:**  
 Mostly fluff, since you can't switch out weapons or artifacts in abyss/during combat. One practical use-case is when you have both Jean and Bennett in the same team, using Bennett burst first followed by Jean's burst will increase the amount of healing done by Dandelion Breeze, compared to the other way around.

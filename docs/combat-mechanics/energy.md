@@ -76,7 +76,7 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 
 ## Table of Energy
 
-![Table by Steph\#3614 ](/assets/energytable.png)
+![Table by Steph#3614 ](/assets/energytable.png)
 
 ## Credits
 
@@ -87,7 +87,7 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 **Theorycrafters:**
 
 * Steph\#3614
-* Aerylle\#1254 
+* Aerylle\#1254
 * JarJarThinks
 * ＃＃\#0123
 * JinJinx \(Mathalos Main\)\#5874
@@ -97,4 +97,3 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 * Zeitraffer\#1074
 
 <Card item={require('../evidence/combat-mechanics/energy.md')} />
-

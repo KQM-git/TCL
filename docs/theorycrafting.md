@@ -1,5 +1,5 @@
 ---
-description: 'A broad term used to describe discovering game mechanics and optimizing gameplay to maximize outcomes.'
+description: "A broad term used to describe discovering game mechanics and optimizing gameplay to maximize outcomes."
 sidebar_position: 1002
 ---
 
@@ -26,6 +26,7 @@ You can find our Glossary below, to help you navigate the terms that we commonly
 # Glossary
 
 ## Common Acronyms
+
 **TC:**
 Theorycrafting, the process of analyzing characters for min-maxing, studying various game mechanics, and the overall pursuit of knowledge of the game. KeqingMains TC accommodates for both the meta and waifu-based play. There is no right or wrong premise to TC.
 
@@ -38,7 +39,7 @@ Pre-TC is the name given to any kind of theorycrafting work done on content not 
 **KQM:**
 KeqingMains, a community of nerds who have too much time on their hands.
 
-**WFP:** 
+**WFP:**
 Wangsheng Funeral Parlor, a Discord server that allows pre-TC and is partnered with KQM.
 
 **Best in Slot** = The best gear for the character in that specific slot
@@ -47,13 +48,14 @@ Wangsheng Funeral Parlor, a Discord server that allows pre-TC and is partnered w
 
 **ICD:**
 A hidden timer that starts when an elemental source applies an aura or trigger to an enemy. For more details, see our page on ICDs.
+
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger.
 * Reactions also have ICD to them.
 
-**Snapshot:** 
+**Snapshot:**
 A mechanic whereby a character's stats are "snapshot" when an attack occurs, allowing that attack to maintain the same stats throughout the entire attack. For example, Xiangling will maintain the same attack for the entirety of her Pyronado, instead of losing attack when her attack buffs expire.
 
-**Dynamic:** 
+**Dynamic:**
 The opposite of snapshot, whereby the damage that an attack deals is dependent on a character's stats at a specific moment in time, rather than at the time the attack was cast.
 
 **Transformative Reaction:**
@@ -71,9 +73,8 @@ Electro-Charged.
 **OL:**
 Overloaded, also commonly referred to as Overload
 
-
 **Resistance/RES Shred:**
-A debuff which reduces the Elemental/Physical resistance of enemies. e.g.: 4-Piece Viridescent Venerer and Superconduct. 
+A debuff which reduces the Elemental/Physical resistance of enemies. e.g.: 4-Piece Viridescent Venerer and Superconduct.
 
 **DEF Shred:**
 A debuff which reduces Defense, and in turn increases the damage of every attack on the target (excluding transformative reactions).
@@ -84,7 +85,7 @@ Where a specific attack ignores a percentage of the enemy's Defense. This only a
 **MV:**
 Motion Value, or the Talent Multiplier, which can be found in-game in the Skill Attributes tab. It is the percentage of your attack done by a Normal Attack, Skill, or Burst.
 
-**MV/s** = Talent damage/percentage done by an attack or string of attacks divided by the time it takes to do them. 
+**MV/s** = Talent damage/percentage done by an attack or string of attacks divided by the time it takes to do them.
 
 * For more details you can check out this [video by Artesians](https://youtu.be/YEEKqJuhq1c) on motion values.
 
@@ -98,11 +99,12 @@ When a weapon is infused with an Element, it will deal Elemental DMG of that Ele
 Similar to Elemental Infusion, except a Conversion can not be overridden.
 
 **Elemental Absorption:**
-When an Anemo Elemental Skill/Burst comes into contact with Pyro/Hydro/Electro/Cryo and deals additional damage of that element. Refer to this as Absorption instead of Infusion for clarity. 
+When an Anemo Elemental Skill/Burst comes into contact with Pyro/Hydro/Electro/Cryo and deals additional damage of that element. Refer to this as Absorption instead of Infusion for clarity.
 E.g. Kazuha's Elemental Burst can have “Pyro Absorption", not "Pyro Infusion”.
 
 **Elemental Absorption Priority:**
 When more than one element is present, Anemo Elemental Skills/Bursts will absorb an element in the following order:
+
 * Cryo > Pyro > Hydro > Electro: only Anemo Traveler
 * Pyro > Hydro > Electro > Cryo: all other Anemo characters
 
@@ -118,7 +120,8 @@ When doing a Plunge Attack, the character will do AoE DMG, referred to as “Low
 ## Character and Stat Terms
 
 **Unit Terms**:
-C stands for Constellation, A stands for Ascension, R stands for Refinement, and T stands for Talent Level. There is no R0. 
+C stands for Constellation, A stands for Ascension, R stands for Refinement, and T stands for Talent Level. There is no R0.
+
 * C3R1 Raiden Shogun would mean: Constellation 3 Raiden with Refinement 1 Engulfing Lightning.
 * A4 Fischl would refer to Fischl's second level up passive, unlocked after her 4th ascension.
 
@@ -137,10 +140,10 @@ Short for Critical Rate.
 **CV:**
 CV = (2 × CR) + CD, it refers to the total amount of crit an artifact/character has. It's an indirect method of measuring a character's investment.
 
-**ADC:** 
+**ADC:**
 Refers to main stat builds using ATK% on the Sands, Dmg Bonus% on the Goblet, Crit% on the Circlet.
 
-**EDC:** 
+**EDC:**
 Refers to main stat builds using EM on the Sands, Dmg Bonus% on the Goblet, Crit% on the Circlet.
 
 ## Weapons and Artifacts
@@ -155,7 +158,7 @@ Wolf’s Gravestone, a 5-Star Claymore; or Waster Greatsword for the memes, a 1-
 Viridescent Hunt, a 4-Star Bow obtained from the Battle Pass, may also be abbreviated as VHunt.
 
 **TTDS:**
-Thrilling Tales of Dragon Slayers. A 3-Star Catalyst that grants a large ATK% buff to another member of the party upon swapping. 
+Thrilling Tales of Dragon Slayers. A 3-Star Catalyst that grants a large ATK% buff to another member of the party upon swapping.
 
 **HoD:**
 Heart of Depth, an artifact set for Hydro characters or Harbinger of Dawn, one of the better 3-Star swords.
@@ -175,18 +178,20 @@ Crimson Witch of Flames, an artifact set that increases Pyro Damage Bonus by 15%
 ## Combat Notation
 
 **Standardized Combat Notation:**
+
 * N = Normal Attack
 * C = Charged Attack
 * W = Walk
 * D = Dash
 * J = Jump
 
-Prefixed numbers indicate the number of repetitions, while the suffix number after N describes the position of the hit in a NA string, this can be from 1 to 6 depending on the character. Walking is a common way to animation cancel NAs, while Jumping and Dashing are common ways to cancel CAs, so one of these letters is often placed at the end of a combo. 
+Prefixed numbers indicate the number of repetitions, while the suffix number after N describes the position of the hit in a NA string, this can be from 1 to 6 depending on the character. Walking is a common way to animation cancel NAs, while Jumping and Dashing are common ways to cancel CAs, so one of these letters is often placed at the end of a combo.
 
 * 8N1CD means doing the 1st NA, a CA, dashing to cancel the CA animation, then repeating the combo until it has been performed a total of 8 times.
 
 **Rotation:**
 Many team compositions have full rotations that can be listed out using combat notation, and are typically repeatable sequences. Annotations for different buffs are typically not listed explicitly like Thrilling Tales of Dragon Slayers.
+
 * Tartaglia E > Swap Bennett Q > Kazuha Q > Xiangling EQ > Tartaglia
 
 **NA:**

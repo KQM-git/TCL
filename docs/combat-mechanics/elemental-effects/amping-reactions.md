@@ -5,7 +5,7 @@ sidebar_position: 2001
 
 # Amping Reactions
 
-import AmplifyingReaction from '../_formulas/amplifying.md'
+import AmplifyingReaction from '../\_formulas/amplifying.md'
 
 <AmplifyingReaction />
 
@@ -18,4 +18,3 @@ Melt is an elemental reaction triggered by applying Pyro onto a target already a
 ## Vaporize
 
 Vaporize is an elemental reaction triggered by applying Hydro onto a target already afflicted with Pyro or vice versa. Vaporize allows for a multiplier of damage amplification onto the attack triggering the reaction, heavily boosting the attack. Applying Pyro onto Hydro is colloquially referred to as a Reverse Vape as it has the smaller base multiplier of 1.5x as opposed to the 2x multiplier of Hydro onto Pyro.
-

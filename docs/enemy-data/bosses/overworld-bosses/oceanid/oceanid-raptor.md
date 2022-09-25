@@ -4,8 +4,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 # Oceanid Raptor
 
-
-
 ## Weakspot Details
 
 None.
@@ -17,29 +15,29 @@ Unknown.
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 0% |
-| Pyro | 15% |
-| Dendro | 15% |
-| Hydro | Immune |
-| Electro | -40% |
-| Anemo | 15% |
-| Cryo | 15% |
-| Geo | 15% |
+| :---------- | :--------- |
+| Physical    | 0%         |
+| Pyro        | 15%        |
+| Dendro      | 15%        |
+| Hydro       | Immune     |
+| Electro     | -40%       |
+| Anemo       | 15%        |
+| Cryo        | 15%        |
+| Geo         | 15%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 6705 |
-| 65 | 7986 |
-| 70 | 10442 |
-| 75 | 11937 |
-| 80 | 14853 |
-| 85 | 16339 |
-| 90 | 19483 |
-| 95 | 22199 |
-| 100 | 29412 |
+| Level | HP    |
+| :---- | :---- |
+| 60    | 6705  |
+| 65    | 7986  |
+| 70    | 10442 |
+| 75    | 11937 |
+| 80    | 14853 |
+| 85    | 16339 |
+| 90    | 19483 |
+| 95    | 22199 |
+| 100   | 29412 |
 
 ## Attacks
 

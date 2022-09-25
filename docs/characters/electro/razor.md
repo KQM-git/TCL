@@ -32,35 +32,36 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage \(no Q/with Q\) | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 161.32% | 25 | 387.17%/s | 112.93 / 88.23 | 3 |
-| 2-Hit | 138.97% | 71 | 253.77%/s | 97.29 / 76.12 | 3 |
-| 3-Hit | 173.75% | 109 | 260.94%/s | 121.67 / 95.15 | 3 |
-| 4-Hit | 228.81% | 192 | 219.64%/s | 160.19 / 124.26 | 6 |
+| String | Talent 9% | Frames | MV/s      | Poise Damage \(no Q/with Q\) | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :--------------------------- | :----------- |
+| 1-Hit  | 161.32%   | 25     | 387.17%/s | 112.93 / 88.23               | 3            |
+| 2-Hit  | 138.97%   | 71     | 253.77%/s | 97.29 / 76.12                | 3            |
+| 3-Hit  | 173.75%   | 109    | 260.94%/s | 121.67 / 95.15               | 3            |
+| 4-Hit  | 228.81%   | 192    | 219.64%/s | 160.19 / 124.26              | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Spinning DMG | 114.9% | 30 | 229.8%/s | 60 | 3 |
-| Final Attack DMG | 207.77% | 29 | 429.87%/s | 120 | 6 |
+| String           | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :--------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Spinning DMG     | 114.9%    | 30     | 229.8%/s  | 60           | 3            |
+| Final Attack DMG | 207.77%   | 29     | 429.87%/s | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 150.74% | 35 | 2 |
-| Low Plunge DMG | 301.41% | 150 | 4 |
-| High Plunge DMG | 376.48% | 200 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 150.74%   | 35           | 2            |
+| Low Plunge DMG  | 301.41%   | 150          | 4            |
+| High Plunge DMG | 376.48%   | 200          | 7            |
 
 </div>
 
 **Notes**
+
 * 3-hit cancel is the best DPS outside of Lighting Fang.
 * 4-hit cancel has the best DPS under the effect of Lightning Fang, but the fourth hit has significant knockback so 3-hit may be optimal in certain situations.
 
@@ -71,23 +72,24 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill (Tap) | Skill (Hold) |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 338.64% | 501.84% |
-| Particles | 3 \(-\) | 4 \(-\) | 
-| Frames | 74 | 92 | 
-| GU | 2B | 2B |
-| ICD | None | None |
-| Snapshot | Dynamic | Dynamic |
-| Damage Element | Electro | Electro | 
-| Damage Type | Skill | Skill | 
-| CD | 6s | 10s | 
-| Poise Damage | 140 | 300 |
-| Impulse Type | 3 | Normal: 3 <br/> During Q: 5 |
+| Attribute         | Skill (Tap) | Skill (Hold)                |
+| :---------------- | :---------- | :-------------------------- |
+| Skill DMG \(T9%\) | 338.64%     | 501.84%                     |
+| Particles         | 3 \(-\)     | 4 \(-\)                     |
+| Frames            | 74          | 92                          |
+| GU                | 2B          | 2B                          |
+| ICD               | None        | None                        |
+| Snapshot          | Dynamic     | Dynamic                     |
+| Damage Element    | Electro     | Electro                     |
+| Damage Type       | Skill       | Skill                       |
+| CD                | 6s          | 10s                         |
+| Poise Damage      | 140         | 300                         |
+| Impulse Type      | 3           | Normal: 3 <br/> During Q: 5 |
 
 </div>
 
 **Notes**
+
 * When hitting an enemy generates one **Electro Sigil**, you can have three **Sigils** at once and each **Sigil** increases Razor's ER by 20%.
 * The duration of the sigils is 18s and is refreshed every time you press **Claw and Thunder**.
 * **Claw and Thunder**'s animation is different and slightly slower during **Lightning Fang**.
@@ -103,34 +105,35 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst | Echo |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 272% | 40.8% | 
-| Attack Speed \(T9%\) | 39% | - |
-| Electro RES Bonus | 80% |
-| Cast Frames | 62 | - |
-| Energy Frame | 11 | - |
-| CD Frame | 2 | - |
-| GU | 2B | 1A |
-| ICD | - | 3 hits/2.5s |
-| Snapshot | Dynamic | Dynamic |
-| Damage Element | Electro | Electro |
-| Damage Type | Burst | Burst | 
-| Energy Cost | 80 | - |
-| Duration | 15s | 15s |
-| CD | 20s | - |
-| Poise Damage | 51.75 | - |
-| Impulse Type | 3 | - |
+| Attribute            | Burst   | Echo        |
+| :------------------- | :------ | :---------- |
+| Skill DMG \(T9%\)    | 272%    | 40.8%       |
+| Attack Speed \(T9%\) | 39%     | -           |
+| Electro RES Bonus    | 80%     |
+| Cast Frames          | 62      | -           |
+| Energy Frame         | 11      | -           |
+| CD Frame             | 2       | -           |
+| GU                   | 2B      | 1A          |
+| ICD                  | -       | 3 hits/2.5s |
+| Snapshot             | Dynamic | Dynamic     |
+| Damage Element       | Electro | Electro     |
+| Damage Type          | Burst   | Burst       |
+| Energy Cost          | 80      | -           |
+| Duration             | 15s     | 15s         |
+| CD                   | 20s     | -           |
+| Poise Damage         | 51.75   | -           |
+| Impulse Type         | 3       | -           |
 
 </div>
 
 **Notes**
+
 * Any active **Sigils** will be absorbed by Razor granting him 5 energy for each **Sigil**.
-* Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.  
+* Razor’s hold E does not cause a minor self-knockback unlike outside of **Lightning Fang**.
 * While the effects of **Elemental Burst: Lightning Fang** are active, the energy particle generation of **Elemental Skill: Claw and Thunder** is disabled.
 * The duration of **Lightning Fang** can be extended by hitlag
 * Superconduct triggered by enemy Cryo attacks while Razor's **Lightning Fang** is active will affect nearby enemies as well as Razor.
-* Bennett’s **Fantastic Voyage** self pyro application can react with Razor’s self electro application to proc overload on yourself. 
+* Bennett’s **Fantastic Voyage** self pyro application can react with Razor’s self electro application to proc overload on yourself.
   * This effect does not harm you, but it deals two ticks of damage and knocks small mobs back.
 
 </TabItem>
@@ -152,7 +155,8 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
 
-**Notes**  
+**Notes**
+
 * When ping is above 54ms, it does not work for some time after using the Elemental Burst.
 
 </TabItem>
@@ -187,10 +191,11 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 | Poise Damage | Impulse Type |
-| :--- | :--- |
-| 69 | 2 |
+| :----------- | :----------- |
+| 69           | 2            |
 
 **Notes**
+
 * C6 damage instance has no ability type scaling tags and applies 1A Electro.
 
 </TabItem>
@@ -205,4 +210,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/electro/razor.md')} />
-

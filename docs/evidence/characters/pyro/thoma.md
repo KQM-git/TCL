@@ -9,9 +9,10 @@ search: false
 <Card item={require('../../../characters/pyro/thoma.md')} />
 
 ## Basic Thoma Mechanics
+
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897812961303863386_917960336223666197_transcript-thoma-basic-mechanics.html)
 
-* Gauges - by Nass008\#8577 
+* Gauges - by Nass008\#8577
   * E: 1U - [https://imgur.com/etqEtrf](https://imgur.com/etqEtrf)
   * Q Initial Hit: 2U - [https://youtu.be/Od_n0SFK6x8](https://youtu.be/Od_n0SFK6x8)
   * Q Coordinated Atk: 1U - [https://imgur.com/uM78uT9](https://imgur.com/uM78uT9)
@@ -36,9 +37,10 @@ search: false
 * When you gain shield from Thoma Q while E shield is up, it retains E shield HP while refreshing duration - [Nass008\#8577](https://youtu.be/3P4FQQYZAEY)
 
 ### Thoma Shield Mechanics
+
 **By:** Latiwings#3308  
 **Added:** 2021-12-30  
-[Dicussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922638877028671508_925694499739545660_transcript-thoma-shield-mechanics.html) 
+[Dicussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922638877028671508_925694499739545660_transcript-thoma-shield-mechanics.html)
 
 **Finding #1:**  
 Thoma's Shield Strength gain from his A1 doesn't persist on swap.
@@ -50,9 +52,10 @@ Thoma's Shield Strength gain from his A1 doesn't persist on swap.
 Shield management. This discourages doing normals/stacking on Thoma before swapping.
 
 **Finding #2:**  
-Thoma's E counts as A1's condition to stack Shield Strength. 
+Thoma's E counts as A1's condition to stack Shield Strength.
 
-**Evidence:**  
+**Evidence:**
+
 * Q > E (1 stack): [Imgur](https://imgur.com/dXv0rSc)
 * Q > N1 > E (2 stack): [Imgur](https://imgur.com/f4zLqsm)
 
@@ -63,7 +66,8 @@ If you are keeping Thoma on field, doing Q > E > 4 normals is enough for max sta
 A. Thoma's E refreshing the shield for Burst does not make it lose Shield Strength, it keeps those stacks (While it might be obvious, this is actually the direct opposite to Zhongli, whose refresh reverts his shield strength to 0).
 B. However, losing it even tho Q is up and resets it all the way to 0 (in hindsight, this one is more obvious than above but since I already recorded it I'm throwing it here for extra clarity).
 
-Evidence: 
+Evidence:
+
 * For A: [Imgur](https://imgur.com/LX47smX)
 * For B: [Imgur](https://imgur.com/gbzeA99)
 
@@ -80,7 +84,9 @@ Evidence:
 * Fiery Collapse does not auto-target. The direction is according to the last orientation of the active character when AA is clicked. - [Poiyo#3488](https://youtu.be/ao8vbcBGKnY)
 
 ## Constellation Mechanics
+
 ### C1: A Comrade's Duty
+
 * Some anemo abilities can activate Thoma C1 - [D.....K](https://youtu.be/8g6pn8LdQ0Q)
   * Reliable: AMC hold E/Q, Sayu hold E
   * Unreliable: Kazuha hold/tap E, Q, Sucrose Q, AMC tap E

@@ -33,13 +33,13 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 **With Anemo Resonance**
 
 * N1 + plunge spam = 207.36% MV/s
-* N3 Sprint cancel = 153.09% MV/s  \(credit to Artesians\#0002\)
+* N3 Sprint cancel = 153.09% MV/s \(credit to Artesians\#0002\)
 
 **With Jean C2**
 
 * N1 + plunge spam = 207.36% MV/s
-* N3 Sprint cancel   = 162.66% MV/s  \(WITH Jean C2\)
-* N3 + plunge is:  187.93 MV/s \(also with Jean C2\)
+* N3 Sprint cancel = 162.66% MV/s \(WITH Jean C2\)
+* N3 + plunge is: 187.93 MV/s \(also with Jean C2\)
 
 </TabItem>
 
@@ -47,11 +47,11 @@ To execute the hitlag plunge, attack an enemy and dash and jump at the same time
 
 **First String**
 
-* start of 1st N1:  0:25 \(frame when sword is off her back\)
-* start of 2nd N1:  2:00 \(frame when sword is readying to swing behind her back\)
-* start of 3rd N1:  3:40
-* start of 4th N1:  5:17
-* start of 5th N1:  6:49
+* start of 1st N1: 0:25 \(frame when sword is off her back\)
+* start of 2nd N1: 2:00 \(frame when sword is readying to swing behind her back\)
+* start of 3rd N1: 3:40
+* start of 4th N1: 5:17
+* start of 5th N1: 6:49
 * 2-1 = 95
 * 3-2 = 100
 * 4-3 = 96
@@ -75,17 +75,17 @@ _An increase of 41.3% DPS_
 
 * 331.78 / 96 = 3.456 x 60 = 207.36%
 * N1P spam = 207.36%
-* N3 Sprint cancel = 153.09% MV/s  \(credit Artesian\)
+* N3 Sprint cancel = 153.09% MV/s \(credit Artesian\)
 
 _An increase of 35.4% DPS._
 
 **Second String**
 
-* start of 1st N1:  10:42
-* start of 2nd N1:  12:17
-* start of 1st N1:  13:36
-* start of 2nd N1:  15:13
-* start of 3rd N1:  16:46
+* start of 1st N1: 10:42
+* start of 2nd N1: 12:17
+* start of 1st N1: 13:36
+* start of 2nd N1: 15:13
+* start of 3rd N1: 16:46
 * 2-1 = 94
 * 2-1 = 97
 * 3-2 = 93
@@ -96,12 +96,12 @@ _An increase of 35.4% DPS._
 
 **First String**
 
-* start of 1st N1:  5:27
-* start of 2nd N1:  7:43
-* start of 3rd N1:  9:53
-* start of 4th N1:  12:01
-* start of 5th N1:  14:09
-* start of 6th N1:  16:15
+* start of 1st N1: 5:27
+* start of 2nd N1: 7:43
+* start of 3rd N1: 9:53
+* start of 4th N1: 12:01
+* start of 5th N1: 14:09
+* start of 6th N1: 16:15
 * 2-1 = 136 frames
 * 3-2 = 130 frames
 * 4-3 = 128 frames
@@ -111,7 +111,7 @@ _An increase of 35.4% DPS._
 **Noelle T6 MVs for N1 N2 and N3**:
 
 * 115% + 106.63% + 125.38% = 347.01%
-* Assume N3D = 128 frame execution with Jean C2: 347.01 / 128 = 2.711 x 60 = 162.66% 
+* Assume N3D = 128 frame execution with Jean C2: 347.01 / 128 = 2.711 x 60 = 162.66%
 * N3D with Jean C2 = 162.66% MV/s
 
 </TabItem>
@@ -121,46 +121,46 @@ Noelle Dragon Strike Frame Count: with Jean C2 & Anemo Resonance &lt;--- I kind 
 
 **First String**
 
-* start of 1st N1:  5:51
-* start of 2nd N1:  7:38
-* start of 3rd N1:  9:29
-* start of 4th N1:  11:16
+* start of 1st N1: 5:51
+* start of 2nd N1: 7:38
+* start of 3rd N1: 9:29
+* start of 4th N1: 11:16
 * 2-1 = 107
 * 3-2 = 111
-* 4-3 = 107  &lt;--- too slow can go faster, see second string
+* 4-3 = 107 &lt;--- too slow can go faster, see second string
 
 **Second String**
 
-* start of 1st N1:  22:05
-* start of 2nd N1:  23:41
-* start of 3rd N1:  25:17
-* start of 4th N1:  26:46
-* start of 1st N1:  27:45
-* start of 2nd N1:  29:22
+* start of 1st N1: 22:05
+* start of 2nd N1: 23:41
+* start of 3rd N1: 25:17
+* start of 4th N1: 26:46
+* start of 1st N1: 27:45
+* start of 2nd N1: 29:22
 * 2-1 = 96
 * 3-2 = 96
-* 4-3 = 89  &lt;--- wow
+* 4-3 = 89 &lt;--- wow
 * 2-1 = 97
 
 **Noelle T6 MVs**
 
-* T6 N1     = 115%
+* T6 N1 = 115%
 * T6 plunge = 216.78%
 * N1 + plunge = 331.78%
 
 **Calculating using Frame Perfect\(?\) 89 frame execution**
 
 * 331.78 / 89 = 3.727 x 60 = 223.67%
-* N1P spam = 223.67%  \(with Jean C2\)
-* N3 Sprint cancel = 162.66% MV/s  \(WITH Jean C2\)
+* N1P spam = 223.67% \(with Jean C2\)
+* N3 Sprint cancel = 162.66% MV/s \(WITH Jean C2\)
 
 _An increase in DPS of 37.5%._
 
 **Calculating using human average\(?\) 96 frame execution**
 
 * 331.78 / 96 = 3.456 x 60 = 207.36%
-* N1P spam = 207.36%  \(with Jean C2\)
-* N3 Sprint cancel = 162.66% MV/s   \(WITH Jean C2\)
+* N1P spam = 207.36% \(with Jean C2\)
+* N3 Sprint cancel = 162.66% MV/s \(WITH Jean C2\)
 
 _An increase in DPS of 27.4%_
 
@@ -179,7 +179,7 @@ By using Dragonstrike on Noelle with Jean C2, you will see around a 27.4% increa
 
 ### Noelle's Burst Procs Breastplate
 
-**By:** JonahFarc\#7056  
+**By:** JonahFarc\#7056
 
 **Finding:**  
 Noelle's burst can proc the heal from Breastplate.
@@ -188,20 +188,20 @@ Noelle's burst can proc the heal from Breastplate.
 [YouTube](https://youtu.be/U7jmLCUeTqw)
 
 **Significance:**  
-Popping shield before burst guarantees two heal instances while invulnerable.  
+Popping shield before burst guarantees two heal instances while invulnerable.
 
 ### Noelle’s Skill Hit Activates Healing
 
 **By:** castiel\#0415  
 **Added:** 2022-08-21  
-[Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)
 
 **Finding:**  
-The initial hit of Noelle's skill can trigger her healing.  
-  
+The initial hit of Noelle's skill can trigger her healing.
+
 **Evidence:**  
-[YouTube](https://youtu.be/_Ma8ai-yFYs)  
-  
+[YouTube](https://youtu.be/_Ma8ai-yFYs)
+
 **Significance:**  
 Clarification on in-game skill description—Breastplate's description says that Normal and Charged Attacks can activate healing, but the initial skill hit can as well.
 
@@ -268,10 +268,10 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 **Noelle stats:**
 
-* Level 90  
-* 191 base atk, 510 weapon atk, 490 arti atk  
-* C6, lv10 AA \(100% mv on spin\)  
-* SS r2 5 stacks \(+35%\)  
+* Level 90
+* 191 base atk, 510 weapon atk, 490 arti atk
+* C6, lv10 AA \(100% mv on spin\)
+* SS r2 5 stacks \(+35%\)
 * 83.4% CD, 100% CR = crit multiplier of 1.834
 
 **Enemy stats:**
@@ -328,15 +328,15 @@ What I had found is that the hitstun of the shield breaking \(Noelle c4\) can al
 
 **By:** jamberry#7142  
 **Added:** 2021-08-07  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
-Noelle’s C4 damage instance is considered skill damage. 
+Noelle’s C4 damage instance is considered skill damage.
 
 **Evidence:**  
 Testing done by DeFault#1802 and Isu#6867  
 Damage procs Sacrificial Greatsword passive - [Video](https://www.youtube.com/watch?v=YoJ5HMRWUSU)  
-Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=IYlyft2Nmj0)  
+Damage increases with 2gambler bonus - [Video](https://www.youtube.com/watch?v=IYlyft2Nmj0)
 
 **Significance:**  
 Damage calculations for Noelle.
@@ -380,6 +380,3 @@ Noelle can maximize her burst duration without getting a kill, reducing her batt
 * [https://youtu.be/Pq8qZ7mC-JU](https://youtu.be/Pq8qZ7mC-JU) - Noelle w/o NO
 
 **Result:** The only swing affected by NO is the one initiated by the ult. Interestingly, the activation of the ult creates a "shockwave" which does damage \(1st damage number in attached vids\). This damage is also affected by NO. Enhanced basic attacks are not affected by NO.
-
-
-

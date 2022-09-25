@@ -9,9 +9,10 @@ search: false
 <Card item={require('../../../characters/pyro/bennett.md')} />
 
 ## Skill Mechanics
+
 ### Bennett Hold E Counts as Self Damage
 
-**By:** Sir\_pick\_the\_prick\#2209  
+**By:** Sir_pick_the_prick\#2209  
 **Added:** 2021-05-25  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844058207151325224_846702340642701323_transcript-bennetts-hold-e-counts-as-self-damage.html)
 
@@ -21,7 +22,8 @@ search: false
 
 **Significance:** Dont hold E for its full duration under Xingqiu's rainsword, or you'll lose a rainsword instance.
 
-## Burst Mechanics 
+## Burst Mechanics
+
 ### Inspiration Field Buff Duration
 
 **By:** Comfy Seaweed\#3841  
@@ -96,23 +98,25 @@ Better understanding of Bennett Burst mechanics
 ### Inspiration Field Tick Rate
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-02-12  
+**Added:** 2021-02-12
 
 **Finding:**  
-Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.  
+Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.
 
 **Evidence:**  
 [Burst ticks](https://youtu.be/Psxr86Qov4M)  
-In this example pause the video at 14.0 and 13.0 CD. You’ll see that on these EXACT seconds, I got healed, and I also got the buffs indicated by arrows simultaneously with the first tick. Indicating the pattern.  
+In this example pause the video at 14.0 and 13.0 CD. You’ll see that on these EXACT seconds, I got healed, and I also got the buffs indicated by arrows simultaneously with the first tick. Indicating the pattern.
 
 [Dodging Burst ticks](https://youtu.be/xrhWmvv4wbY)  
-In this example I avoided standing in the circle for all XX.0 values. I received no pyro aura or buffs/arrows whatsoever. ALL of Bennett Q benefits tick at the same time, and if you are never on the circle during the tick, you will never receive the benefits.  
+In this example I avoided standing in the circle for all XX.0 values. I received no pyro aura or buffs/arrows whatsoever. ALL of Bennett Q benefits tick at the same time, and if you are never on the circle during the tick, you will never receive the benefits.
 
 **Significance:**  
-If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Bennett, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the burst, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks.  Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.  
+If you re-enter a buff field or swap to a new character immediately after this XX.0 has already passed, that character will be stranded with no buff until the next XX.0. So, when optimizing your rotations involving Bennett, you can only apply the benefits of a field buff in intervals of exactly one second. If you swap to a new character on XX.1 seconds remaining CD of the burst, they will get the buff on the next tenth of a second, while if you swap to a new character when XX.9 seconds remains, they will be stranded without the buffs for almost a full second, potentially introducing some inconsistency/uninfused normal attacks. Rotations that rely heavily on field buffs should time their swaps out so that they receive the necessary buffs in a timely manner.
 
 ## Constellation Mechanics
+
 ### C4: Unexpected Odyssey
+
 #### Bennett C4 Gauge
 
 **By:** Bobrokrot\#0111  
@@ -124,6 +128,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 **Evidence:** [YouTube](https://www.youtube.com/watch?v=wKNDpnU_ZGg)
 
 ### C6: Fire Ventures with Me
+
 #### Gauge Units of C6 Infusion
 
 **By:** Sayline\#5959
@@ -160,20 +165,20 @@ C6 Bennett pyro infusion time when you step out of it is roughly 2 seconds.
 **Significance:**  
 Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusion effect of roughly 2 seconds. Meaning that even if you are outside of it, you have that window to chase after an enemy and still have your weapon infused.
 
-#### C6 Bennett pyro dmg bonus in coop  
+#### C6 Bennett pyro dmg bonus in coop
 
 **By:** Neptunya\#8291  
 **Added:** 2021-07-10  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)
 
 **Finding:**  
-The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.  
+The 15% pyro dmg bonus from Bennett C6 doesn't stack in coop when inside multiple Bennett fields.
 
 **Evidence:**  
-[Video](https://youtu.be/VOUNrvU_1ak)  
+[Video](https://youtu.be/VOUNrvU_1ak)
 
 **Conclusion:**  
-Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.  
+Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shattered as soon as they were born. Just like Turbo died on 4/20, so will the 420th PR for the TCL be a tragedy.
 
 #### C6 Bennett Pyro Damage Bonus affects Catalyst and Bow-wielders
 
@@ -187,12 +192,13 @@ Bennett C6 Pyro Damage Bonus affects Catalyst and Bow-wielders
 **Evidence:**  
 [Video](https://youtu.be/nSqAESuEegY)  
 [Video](https://youtu.be/UnX4IGZ2Ihw)  
-Both Amber and Lisa stat details display 15% Pyro DMG Bonus after entering the field of Passion Overload, and display 0% after exiting. 
+Both Amber and Lisa stat details display 15% Pyro DMG Bonus after entering the field of Passion Overload, and display 0% after exiting.
 
 **Significance:**  
 Bennett's 6th Constellation would appear to be a mistranslation, or otherwise not work as stated, and increases not only Sword, Claymore, and Polearm-wielding characters' Pyro DMG Bonus by 15%, but Catalyst and Bow-wielding characters' as well.
 
 ## Interactions/Synergies
+
 ### Knockback Protection Interaction
 
 **By:** sacstanxiang\#7439 and Novaa\#1006  
@@ -202,9 +208,9 @@ Bennett's 6th Constellation would appear to be a mistranslation, or otherwise no
 
 **Evidence:**
 
-Xingqiu’s Swords: [YouTube](https://youtu.be/D05lPMvjd38) \(sacstanxiang\#7439\)  
+Xingqiu’s Swords: [YouTube](https://youtu.be/D05lPMvjd38) \(sacstanxiang\#7439\)
 
-Active Shield: [YouTube](https://youtu.be/KvEAmbKxoD4) \(Novaa\#1006\)  
+Active Shield: [YouTube](https://youtu.be/KvEAmbKxoD4) \(Novaa\#1006\)
 
 **Significance:**
 

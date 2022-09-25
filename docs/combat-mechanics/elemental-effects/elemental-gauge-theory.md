@@ -26,24 +26,24 @@ Gauge Units are used to calculate the remaining aura for elemental reactions. Th
 The decay notation number indicates the original system of elemental units that are applied \(1U, 2U, or 4U\), while the letter notation \(A, B, or C\) notes the decay rate of the aura.
 
 | Original Notation | Reaction Notation | Decay Notation | Decay Rate Conversion |
-| :--- | :--- | :--- | :--- |
-| 1U | 1GU | 1A | 11.875s per A |
-| 2U | 2GU | 2B | 7.5s per B |
-| 4U | 4GU | 4C | 5.3125s per C |
+| :---------------- | :---------------- | :------------- | :-------------------- |
+| 1U                | 1GU               | 1A             | 11.875s per A         |
+| 2U                | 2GU               | 2B             | 7.5s per B            |
+| 4U                | 4GU               | 4C             | 5.3125s per C         |
 
 ## Aura Application
 
 Aura application has a 0.8x modifier. This is also referred to as **Aura Tax**.
 
 | Elemental Gauge of Source | After Unit Modifier |
-| :--- | :--- |
-| 1GU | 0.8GU |
-| 2GU | 1.6GU |
-| 4GU | 3.2GU |
+| :------------------------ | :------------------ |
+| 1GU                       | 0.8GU               |
+| 2GU                       | 1.6GU               |
+| 4GU                       | 3.2GU               |
 
 **Example of Aura Application:**
 
-> Kaeya’s E applies 2B * 0.8 = 1.6B Cryo aura and the decay rate is 7.5s per B.
+> Kaeya’s E applies 2B \* 0.8 = 1.6B Cryo aura and the decay rate is 7.5s per B.
 
 In addition, neither Anemo nor Geo may be applied as an aura.  
 Hereinafter, all aura applications will be referred to with this unit modifier already applied.
@@ -118,18 +118,18 @@ More details on the frozen aura, including duration, coexisting cryo/hydro, and 
 Weak amping elemental triggers have a 0.5x modifier.
 
 | Elemental Gauge of Source | After Unit Modifier |
-| :--- | :--- |
-| 1GU | 0.5GU |
-| 2GU | 1GU |
+| :------------------------ | :------------------ |
+| 1GU                       | 0.5GU               |
+| 2GU                       | 1GU                 |
 
 > An enemy affected by Amber’s Charged Shot has 1.6B Pyro. Using Kaeya’s E \(2B Cryo\) only removes 1GU Pyro because weak melt occurs when the trigger is Cryo.
 
 Strong amping elemental triggers have a 2x modifier.
 
 | Elemental Gauge of Source | After Unit Modifier |
-| :--- | :--- |
-| 1GU | 2GU |
-| 2GU | 4GU |
+| :------------------------ | :------------------ |
+| 1GU                       | 2GU                 |
+| 2GU                       | 4GU                 |
 
 > An enemy affected by Kaeya’s E has 1.6B Cryo. Using Diluc’s E \(1A\) removes 2GU worth of Cyro aura because strong melt occurs when the trigger is Pyro. This leaves us with 0GU Cryo as gauges cannot go below zero.
 
@@ -138,10 +138,10 @@ Strong amping elemental triggers have a 2x modifier.
 Geo and Anemo can only be used as the trigger for crystallize and swirl reactions respectively. All Geo/Anemo triggers have a 0.5x modifier. Because Geo and Anemo cannot be applied as auras, they do not have an associated decay rate, so Geo and Anemo sources will only be refered to in GU.
 
 | Elemental Gauge of Source | After Unit Modifier |
-| :--- | :--- |
-| 1GU | 0.5GU |
-| 2GU | 1GU |
-| 4GU | 2GU |
+| :------------------------ | :------------------ |
+| 1GU                       | 0.5GU               |
+| 2GU                       | 1GU                 |
+| 4GU                       | 2GU                 |
 
 > Using a 1GU Geo trigger on a 0.8A Electro aura will result in Crystallize, subtracting 0.5GU and leaving 0.3A of Electro aura.
 
@@ -154,12 +154,11 @@ Swirl application occurs when an elemental source is applied to an enemy through
 
 The gauge amount and decay rate of the swirl application depend on both the aura of the entity on which swirl triggered as well as the gauge of the anemo trigger. The specifics are beyond the scope of this document and may be found in the advanced guide. A few basic examples may be seen in the table here:
 
-
 | Elemental Gauge of Aura | Anemo Gauge | Gauge of Swirl | Aura Applied After Tax | Decay Rate Conversion |
-| :--- | :--- | :--- | :--- | :--- |
-| 0.8GU | 1GU | 2.2GU | 1.76GU | ~7.10227s per GU |
-| 0.8GU | 2GU | 1.95GU | 1.56GU | ~7.61218s per GU |
-| 1.6GU | 2GU | 3.45GU | 2.76GU | ~5.66123s per GU |
+| :---------------------- | :---------- | :------------- | :--------------------- | :-------------------- |
+| 0.8GU                   | 1GU         | 2.2GU          | 1.76GU                 | ~7.10227s per GU      |
+| 0.8GU                   | 2GU         | 1.95GU         | 1.56GU                 | ~7.61218s per GU      |
+| 1.6GU                   | 2GU         | 3.45GU         | 2.76GU                 | ~5.66123s per GU      |
 
 We have dropped the usage of unique letter notation to represent the decay rate of auras applied by swirl, due to their non-standard gauge (and thus decay) values.
 
@@ -205,7 +204,7 @@ These all have the ability to react with a slightly different ruleset from stand
 * Monochrom9\#8058
 * Some Proselytizer\#8340
 * Aetherpon\#5730
-* srl\#2712  
+* srl\#2712
 * sigurd\#3854
 * Isu\#6867
 * Kourinn\#6001

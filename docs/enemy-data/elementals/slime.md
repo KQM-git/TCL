@@ -13,38 +13,39 @@ No weakspot.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 60% HP | 1 particle |  Own element |
-| Death | 1 particle | Own element |
+| HP Threshold | Type       | Element     |
+| :----------- | :--------- | :---------- |
+| 60% HP       | 1 particle | Own element |
+| Death        | 1 particle | Own element |
 
 ## Resistance Table
+
 All slimes are immune to their respective element.
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 6705 |
-| 65 | 7986 |
-| 70 | 10442 |
-| 75 | 11937 |
-| 80 | 14853 |
-| 85 | 16339 |
-| 90 | 19483 |
-| 95 | 22199 |
-| 100 | 29412 |
+| Level | HP    |
+| :---- | :---- |
+| 60    | 6705  |
+| 65    | 7986  |
+| 70    | 10442 |
+| 75    | 11937 |
+| 80    | 14853 |
+| 85    | 16339 |
+| 90    | 19483 |
+| 95    | 22199 |
+| 100   | 29412 |
 
 ## Slimes
 
@@ -148,8 +149,8 @@ Its intelligence is very basic, but its uses are just as broad — well, for hil
 ## Attacks
 
 * Upon entering combat, they will first ignite themselves, then distance themselves from their target. After reaching a "safe distance", they will move closer to hit their target by pouncing at it. After successfully completing the attack, they will retreat again.
-If defeated while ignited, it will explode after a short delay, dealing AoE Pyro damage.  
-When extinguished, a Pyro Slime may attempt to move away from its target to reignite, if given an opportunity during combat or after the battle ends.  
+  If defeated while ignited, it will explode after a short delay, dealing AoE Pyro damage.  
+  When extinguished, a Pyro Slime may attempt to move away from its target to reignite, if given an opportunity during combat or after the battle ends.
 
 </TabItem>
 </Tabs>

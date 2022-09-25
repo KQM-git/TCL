@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: A beast with monstrous blood that is capable of eroding the boundaries of the world. They were created by "Gold". 
+description: A beast with monstrous blood that is capable of eroding the boundaries of the world. They were created by "Gold".
 ---
 
 # Rifthound
@@ -9,42 +9,42 @@ description: A beast with monstrous blood that is capable of eroding the boundar
 
 None.
 
-## Energy drops  
+## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 particle | Own element |
-| 33% HP | 1 particle | Own element |
-| Death | 1 particle | Own element |
+| HP Threshold | Type       | Element     |
+| :----------- | :--------- | :---------- |
+| 66% HP       | 1 particle | Own element |
+| 33% HP       | 1 particle | Own element |
+| Death        | 1 particle | Own element |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 25% |
-| Pyro | 25% |
-| Dendro | 25% |
-| Hydro | 25% |
-| Electro | 25% |
-| Anemo | 25% |
-| Cryo | 25% |
-| Geo | 25% |
+| :---------- | :--------- |
+| Physical    | 25%        |
+| Pyro        | 25%        |
+| Dendro      | 25%        |
+| Hydro       | 25%        |
+| Electro     | 25%        |
+| Anemo       | 25%        |
+| Cryo        | 25%        |
+| Geo         | 25%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 62013 |
-| 65 | 81528 |
-| 70 | 102565 |
-| 75 | 128338 |
-| 80 | 165456 |
-| 85 | 211387 |
-| 90 | 259702 |
-| 95 | 318001 |
-| 100 | 388220 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 62013  |
+| 65    | 81528  |
+| 70    | 102565 |
+| 75    | 128338 |
+| 80    | 165456 |
+| 85    | 211387 |
+| 90    | 259702 |
+| 95    | 318001 |
+| 100   | 388220 |
 
-## Rifthounds  
+## Rifthounds
 
 <Tabs>
 <TabItem value="geo" label="Geo">
@@ -55,7 +55,7 @@ They do display certain biological behaviors similar to those of real wolves. Pe
 
 ## Attacks
 
-* Corrosion: When their attacks hit a character, that character and other characters in the party will be afflicted by the Corrosion status, losing HP every second. 
+* Corrosion: When their attacks hit a character, that character and other characters in the party will be afflicted by the Corrosion status, losing HP every second.
   * Shielded characters will not be immune to corrosion.
 * The Rifthound swipes at the player with their claws.
 * The Rifthound temporarily turns invisible to attack the player from another direction.
@@ -73,7 +73,7 @@ Once upon a time, they ran riot across the continent, but they went extinct for 
 
 ## Attacks
 
-* Corrosion: When their attacks hit a character, that character and other characters in the party will be afflicted by the Corrosion status, losing HP every second. 
+* Corrosion: When their attacks hit a character, that character and other characters in the party will be afflicted by the Corrosion status, losing HP every second.
   * Shielded characters will not be immune to corrosion.
 * The Rifthound swipes at the player with their claws.
 * The Rifthound temporarily turns invisible to attack the player from another direction.
@@ -84,10 +84,11 @@ Once upon a time, they ran riot across the continent, but they went extinct for 
 </TabItem>
 </Tabs>
 
-## Interactions 
-* Some attacks (listed below) can knock Rifthounds prone.  
-  * Jean CA  
-  * Jean Hold E  
-  * Klee CA  
-  * Bennett Skill (Hold level 2)  
-  * Diluc Burst (Final Hit)  
+## Interactions
+
+* Some attacks (listed below) can knock Rifthounds prone.
+  * Jean CA
+  * Jean Hold E
+  * Klee CA
+  * Bennett Skill (Hold level 2)
+  * Diluc Burst (Final Hit)

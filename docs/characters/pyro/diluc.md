@@ -33,31 +33,31 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 164.79% | 24 | 411.98%/s | 108.1 | 3 |
-| 2-Hit | 161% | 77 | 253.86%/s | 105.57 | 3 |
-| 3-Hit | 181.54% | 115 | 264.69%/s | 119.03 | 3 |
-| 4-Hit | 246.16% | 181 | 249.78%/s | 161.46 | 6 |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 164.79%   | 24     | 411.98%/s | 108.1        | 3            |
+| 2-Hit  | 161%      | 77     | 253.86%/s | 105.57       | 3            |
+| 3-Hit  | 181.54%   | 115    | 264.69%/s | 119.03       | 3            |
+| 4-Hit  | 246.16%   | 181    | 249.78%/s | 161.46       | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Slash | 126.4% | 30 | 252.8%/s | 60 | 3 |
-| Final Slash | 229.1% | 29 | 474%/s | 120 | 6 |
+| String      | Talent 9% | Frames | MV/s     | Poise Damage | Impulse Type |
+| :---------- | :-------- | :----- | :------- | :----------- | :----------- |
+| Slash       | 126.4%    | 30     | 252.8%/s | 60           | 3            |
+| Final Slash | 229.1%    | 29     | 474%/s   | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 164.44% | 35 | 2 |
-| Low Plunge DMG | 328.81% | 150 | 4 |
-| High Plunge DMG | 410.7% | 200 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 164.44%   | 35           | 2            |
+| Low Plunge DMG  | 328.81%   | 150          | 4            |
+| High Plunge DMG | 410.7%    | 200          | 7            |
 
 </div>
 </TabItem>
@@ -67,24 +67,25 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' sectionFilter=''/>
 
-| Attribute | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
-| :--- | :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 160.48% | 165.92% | 218.96% |
-| MV/s \(T9%\) | 213.97%/s | 191.45%/s | 162.19%/s | 
-| Particles | 1~2 \(3:1\) | 1~2 \(3:1\) | 1~2 \(3:1\) | 
-| Frames | 45 | 52 | 81 |
-| GU | 1A | 1A | 1A |
-| ICD | None | None | None | 
-| Snapshot | Dynamic | Dynamic | Dynamic |
-| Damage Element | Pyro | Pyro | Pyro |
-| Damage Type | Skill | Skill | Skill | 
-| Cooldown | 10s | - | - |
-| Poise Damage | 120 | 120 | 120 |
-| Impulse Type | 4 | 5 | 6 |
+| Attribute         | Skill (1-Hit) | Skill (2-Hit) | Skill (3-Hit) |
+| :---------------- | :------------ | :------------ | :------------ |
+| Skill DMG \(T9%\) | 160.48%       | 165.92%       | 218.96%       |
+| MV/s \(T9%\)      | 213.97%/s     | 191.45%/s     | 162.19%/s     |
+| Particles         | 1~2 \(3:1\)   | 1~2 \(3:1\)   | 1~2 \(3:1\)   |
+| Frames            | 45            | 52            | 81            |
+| GU                | 1A            | 1A            | 1A            |
+| ICD               | None          | None          | None          |
+| Snapshot          | Dynamic       | Dynamic       | Dynamic       |
+| Damage Element    | Pyro          | Pyro          | Pyro          |
+| Damage Type       | Skill         | Skill         | Skill         |
+| Cooldown          | 10s           | -             | -             |
+| Poise Damage      | 120           | 120           | 120           |
+| Impulse Type      | 4             | 5             | 6             |
 
 </div>
 
 **Notes**
+
 * The cooldown starts after the first cast.
 * Each cast adds a stack to the 4pc Crimson Witch of Flames artifact set.
 * When Searing Onslaught hits a frozen target, it will shatter before reacting with any underlying auras.
@@ -99,32 +100,33 @@ import Skill from '@site/src/components/char/Skill'
 <div>
 
 | Attribute | Field |
-| :--- | :--- |
-| Infuse GU | 1A |
-| Duration | 8s | 
+| :-------- | :---- |
+| Infuse GU | 1A    |
+| Duration  | 8s    |
 
-| Attribute | Slashing DMG | DoT DMG | Explosion DMG |
-| :--- | :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 346.8% | 102% | 346.8% |
-| MV/s | 413.63%/s | - | - |
-| Cast Frames | 145 | - | - |
-| Energy Frame | 24 | - | - |
-| CD Frame | 16 | - | - |
-| GU | 2B | 1A | ? |
-| ICD | 5 hits/5s* | 5 hits/5s* | 5 hits/5s* |
-| Snapshot | Dynamic | Snapshot | Snapshot |
-| Damage Element | Pyro | Pyro | Pyro | 
-| Damage Type | Burst | Burst | Burst |
-| Energy Cost | 40 | - | - |
-| Duration | 12s | - | - |
-| CD | 12s | - | - | 
-| Poise Damage | Cast: 400 <br/> 1st Part: 100 <br/> 2nd Part: 100 | 100 | 100 |
-| Impulse Type | Cast: 3 <br/> 1st Part: 4 <br/> 2nd Part: 5 | Heavy, 900, 0 | 8 |
+| Attribute         | Slashing DMG                                      | DoT DMG       | Explosion DMG |
+| :---------------- | :------------------------------------------------ | :------------ | :------------ |
+| Skill DMG \(T9%\) | 346.8%                                            | 102%          | 346.8%        |
+| MV/s              | 413.63%/s                                         | -             | -             |
+| Cast Frames       | 145                                               | -             | -             |
+| Energy Frame      | 24                                                | -             | -             |
+| CD Frame          | 16                                                | -             | -             |
+| GU                | 2B                                                | 1A            | ?             |
+| ICD               | 5 hits/5s\*                                       | 5 hits/5s\*   | 5 hits/5s\*   |
+| Snapshot          | Dynamic                                           | Snapshot      | Snapshot      |
+| Damage Element    | Pyro                                              | Pyro          | Pyro          |
+| Damage Type       | Burst                                             | Burst         | Burst         |
+| Energy Cost       | 40                                                | -             | -             |
+| Duration          | 12s                                               | -             | -             |
+| CD                | 12s                                               | -             | -             |
+| Poise Damage      | Cast: 400 <br/> 1st Part: 100 <br/> 2nd Part: 100 | 100           | 100           |
+| Impulse Type      | Cast: 3 <br/> 1st Part: 4 <br/> 2nd Part: 5       | Heavy, 900, 0 | 8             |
 
 </div>
 </div>
 
 **Notes**
+
 * The ICD for **Dawn** is shared between Slashing DMG, DoT DMG, and Explosions DMG.
 
 </TabItem>
@@ -146,7 +148,8 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value='a4' label='Ascension 4'>
 <Passive char={char} passive={1} />
 
-**Note**
+**Notes**
+
 * The Pyro DMG Bonus is also applied to **Dawn**'s Slashing, DoT, and Explosion DMG.
 
 </TabItem>
@@ -167,4 +170,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/pyro/diluc.md')} />
-

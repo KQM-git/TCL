@@ -11,7 +11,6 @@ import { getSkillName } from '@site/src/utils/skill'
 
 <blockquote>{frontMatter.description}</blockquote>
 
-
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'
@@ -28,33 +27,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 132.72% | 23 | 346.23%/s | 80.5 | 3 |
-| 2-Hit | 131.14% | 70 | 226.17%/s | 79.35 | 3 |
-| 3-Hit | 79.79% x 2 | 97 + 109 | 233.09%/s | 48.3 x2 | 3 + \(Heavy, 500, 0\) |
-| 4-Hit | 180.28% | 187 | 193.71%/s | 109.71 | 5 |
-| Recovery | ~ | 227 | 159.57%/s | - | - |
+| String   | Talent 9%  | Frames   | MV/s      | Poise Damage | Impulse Type          |
+| :------- | :--------- | :------- | :-------- | :----------- | :-------------------- |
+| 1-Hit    | 132.72%    | 23       | 346.23%/s | 80.5         | 3                     |
+| 2-Hit    | 131.14%    | 70       | 226.17%/s | 79.35        | 3                     |
+| 3-Hit    | 79.79% x 2 | 97 + 109 | 233.09%/s | 48.3 x2      | 3 + \(Heavy, 500, 0\) |
+| 4-Hit    | 180.28%    | 187      | 193.71%/s | 109.71       | 5                     |
+| Recovery | ~          | 227      | 159.57%/s | -            | -                     |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Spin | 114.91% x 9 | 307 | 202.12%/s | 60 | 3 |
-| Final Hit | 207.77% | 358 | 208.15%/s | 120 | 6 |
-| Recovery | ~ | 439 | 169.74%/s | - | - |
+| String    | Talent 9%   | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :---------- | :----- | :-------- | :----------- | :----------- |
+| Spin      | 114.91% x 9 | 307    | 202.12%/s | 60           | 3            |
+| Final Hit | 207.77%     | 358    | 208.15%/s | 120          | 6            |
+| Recovery  | ~           | 439    | 169.74%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 137.03% | 35 | 2 |
-| Low Plunge DMG | 274.01% | 150 | 4 |
-| High Plunge DMG | 342.25% | 200 | 7 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 137.03%   | 35           | 2            |
+| Low Plunge DMG  | 274.01%   | 150          | 4            |
+| High Plunge DMG | 342.25%   | 200          | 7            |
 
 </div>
 </TabItem>
@@ -64,32 +63,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Fuufuu Windwheel DMG \(T9%\) | 61.2% | 61.2% x 19 |
-| Fuufuu Windwheel Absorption DMG \(T9%\)  | ~ | 28.56% x 19 |
-| Fuufuu Whirlwind Kick DMG \(T9%\)  | 269.28% | 369.92% |
-| Fuufuu Whirlwind Kick Absorption DMG \(T9%\)  | ~ | 129.47% |
-| Particles | 2 | 2 + 1~4 |
-| Frames | 35 | 35~675 |
-| GU | 1U | - |
-| GU Absorption | - | 1A |
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo | - |
-| Damage Absorption | - | Absorbed Element |
-| Damage Type | Skill | Skill |
-| Max Duration | - | 10s |
-| CD | 6s | 6s~11s |
-| Poise Damage | 120 | Windwheel: 25 <br/> Whirlwind Kick: 200 |
-| Impulse Type | 3 | Windwheel: 2 <br/> Whirlwind Kick: 3 |
+| Attribute                                    | Tap          | Hold                                    |
+| :------------------------------------------- | :----------- | :-------------------------------------- |
+| Fuufuu Windwheel DMG \(T9%\)                 | 61.2%        | 61.2% x 19                              |
+| Fuufuu Windwheel Absorption DMG \(T9%\)      | ~            | 28.56% x 19                             |
+| Fuufuu Whirlwind Kick DMG \(T9%\)            | 269.28%      | 369.92%                                 |
+| Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~            | 129.47%                                 |
+| Particles                                    | 2            | 2 + 1~4                                 |
+| Frames                                       | 35           | 35~675                                  |
+| GU                                           | 1U           | -                                       |
+| GU Absorption                                | -            | 1A                                      |
+| ICD                                          | 3 hit / 2.5s | 3 hit / 2.5s                            |
+| Snapshot                                     | Snapshot     |
+| Damage Element                               | Anemo        | -                                       |
+| Damage Absorption                            | -            | Absorbed Element                        |
+| Damage Type                                  | Skill        | Skill                                   |
+| Max Duration                                 | -            | 10s                                     |
+| CD                                           | 6s           | 6s~11s                                  |
+| Poise Damage                                 | 120          | Windwheel: 25 <br/> Whirlwind Kick: 200 |
+| Impulse Type                                 | 3            | Windwheel: 2 <br/> Whirlwind Kick: 3    |
 
 </div>
 
 **Notes**
+
 * **Windwheel Roll** and **Whirlwind Kick Damage** aren't blunt and thus won't shatter.
-* **Windwheel Roll** and **Whirlwind Kick Damage** snapshot.  
-* The energy generated by **Windwheel Roll** only works on the hold version, tap version is disabled; energy generated by the kick is unchanged.  
+* **Windwheel Roll** and **Whirlwind Kick Damage** snapshot.
+* The energy generated by **Windwheel Roll** only works on the hold version, tap version is disabled; energy generated by the kick is unchanged.
 * **Windwheel Roll** has a 3s ICD for energy generation.
 * **Windwheel Roll**'s Absorption Priority: Pyro > Hydro > Electro > Cryo.
 * **Whirlwind Kick** and **Windwheel Roll** have separate ICDs.
@@ -106,39 +106,40 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill Activation DMG \(T9%\) | 198.56% |
+| Attribute                        | Burst         |
+| :------------------------------- | :------------ |
+| Skill Activation DMG \(T9%\)     | 198.56%       |
 | Skill Activation Healing \(T9%\) | 156.67% +1174 |
-| Cast Frames | 65 |
-| Energy Frame | 11 |
-| CD Frame | 1 |
-| GU | 1U |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo |
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| CD | 20s |
-| Poise Damage | 200 |
-| Impulse Type | 3 |
+| Cast Frames                      | 65            |
+| Energy Frame                     | 11            |
+| CD Frame                         | 1             |
+| GU                               | 1U            |
+| ICD                              | 3 hit / 2.5s  |
+| Snapshot                         | Snapshot      |
+| Damage Element                   | Anemo         |
+| Damage Type                      | Burst         |
+| Energy Cost                      | 80            |
+| CD                               | 20s           |
+| Poise Damage                     | 200           |
+| Impulse Type                     | 3             |
 
 </div>
 
-| Attribute | Daruma |
-| :--- | :--- |
-| Muji-Muji Daruma DMG \(T9%\) | 88.4% x 0~7 |
+| Attribute                        | Daruma                     |
+| :------------------------------- | :------------------------- |
+| Muji-Muji Daruma DMG \(T9%\)     | 88.4% x 0~7                |
 | Muji-Muji Daruma Healing \(T9%\) | (135.78% ATK + 1017) x 0~7 |
-| GU | 1U |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Anemo |
-| Damage Type | Elemental Burst |
-| Duration | 12s |
-| Poise Damage | 50 |
-| Impulse Type | 3 |
+| GU                               | 1U                         |
+| ICD                              | 3 hit / 2.5s               |
+| Snapshot                         | Snapshot                   |
+| Damage Element                   | Anemo                      |
+| Damage Type                      | Elemental Burst            |
+| Duration                         | 12s                        |
+| Poise Damage                     | 50                         |
+| Impulse Type                     | 3                          |
 
 **Notes**
+
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
 * **Yoohoo Art: Mujina Flurry** snapshots
 * **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and the **Daruma** Damage ticks.
@@ -155,6 +156,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={2} />
 
 **Notes**
+
 * Passive works even if Sayu is off-field.
 * If entities are connected (like crystalflies), then picking them up will always scare the others.
 * If entities do not care about the state of other beings, then picking it up next to another one won't startle them.
@@ -184,6 +186,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
+
 * The DMG increase of **Fuufuu Whirlwind Kick** from **Egress Prep** increases both **Fuufuu Whirlwind Kick Hold DMG** and **Fuufuu Whirlwind Kick Elemental DMG**.
 
 </TabItem>

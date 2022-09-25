@@ -13,18 +13,20 @@ search: false
 ### Retry and Exit Menu Issues
 
 **By:** Asaki\#9139  
-**Added:** 2022-01-27  
+**Added:** 2022-01-27
 
-**Finding:**  
-1. Time in the Spiral Abyss does not stop when you use the Exit button on the top left.  
+**Finding:**
 
-2. Attempting to retry the chamber just as the last enemy dies results in the following:  
-*  An error message will be displayed.  
-*  The chamber will end in 0 stars, even if the time remaining is above any of the star requirements.  
-*  The chamber will be considered as completed.  
+1. Time in the Spiral Abyss does not stop when you use the Exit button on the top left.
+
+2. Attempting to retry the chamber just as the last enemy dies results in the following:
+
+* An error message will be displayed.
+* The chamber will end in 0 stars, even if the time remaining is above any of the star requirements.
+* The chamber will be considered as completed.
 
 **Evidence:**  
-[Imgur](https://imgur.com/a/o4GmO5w)  
+[Imgur](https://imgur.com/a/o4GmO5w)
 
 **Significance:**  
 Better understanding of Abyss bugs/issues for cleaner runs.
@@ -36,7 +38,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **Bug/Exploit:** You're able to use your overworld team \(regardless of character overlap with first half team\) for the second half of Spiral Abyss by selecting retry at the same time as killing the last mob.
 
-**Evidence:** [https://youtu.be/XW\_TDsyFkPA](https://youtu.be/XW_TDsyFkPA)
+**Evidence:** [https://youtu.be/XW_TDsyFkPA](https://youtu.be/XW_TDsyFkPA)
 
 **Significance:** After you clear the second half it doesn't complete, it's unsure whether it would be possible to trick it to complete somehow. It could be useful for speedrun showcases or character highlights in abyss.
 
@@ -83,19 +85,18 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 ## Domains
 
-### Resetting or Exiting a Domain does not Reset Elemental Skill Cooldowns  
+### Resetting or Exiting a Domain does not Reset Elemental Skill Cooldowns
 
-**By:** Puffin\#9920   
-**Added:** 2022-02-26   
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)  
+**By:** Puffin\#9920  
+**Added:** 2022-02-26  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
 
 **Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
 
-**Evidence:** 
-1. [Youtube](https://www.youtube.com/watch?v=J9vlL5l5MYw)  
-2. [Youtube](https://www.youtube.com/watch?v=H27u5YRshiE)  
+**Evidence:**
 
-
+1. [Youtube](https://www.youtube.com/watch?v=J9vlL5l5MYw)
+2. [Youtube](https://www.youtube.com/watch?v=H27u5YRshiE)
 
 **Significance:** This behavior is not unique to Spiral Abyss and applies to all domains.
 
@@ -111,11 +112,11 @@ A domain’s door can be kept opened after exiting the domain.
 **Evidence:**  
 The following steps need to be followed to cause this:
 
-1) Be in the domain choosing screen.
-2) Achieve the high ping by deactivating your signal/wifi.
-3) Open the domain again.
-4) Turn on the signal/wifi when the loading icon appears. This has to appear while the door is opening.
-5) Now exit the domain screen. It should be still opened.
+1. Be in the domain choosing screen.
+2. Achieve the high ping by deactivating your signal/wifi.
+3. Open the domain again.
+4. Turn on the signal/wifi when the loading icon appears. This has to appear while the door is opening.
+5. Now exit the domain screen. It should be still opened.
 
 The door resets if you teleport to another map or far enough away, but does not if you teleport nearby. It also resets if you interact with the domain again.
 
@@ -131,11 +132,11 @@ Looks cool
 [Discussion](https://tickets.deeznuts.moe/transcripts/ding-domain-ditch)
 
 **Finding:**  
-In a high ping scenario, you can run out of the domain arena before the walls appear, leaving your co-op teammates to complete it by themselves  
-  
+In a high ping scenario, you can run out of the domain arena before the walls appear, leaving your co-op teammates to complete it by themselves
+
 **Evidence:**  
-[YouTube](https://youtu.be/K5bIioosMN8)  
-  
+[YouTube](https://youtu.be/K5bIioosMN8)
+
 **Significance:**  
 Less effort required to farm domains, also chaos
 
@@ -145,12 +146,13 @@ Less effort required to farm domains, also chaos
 
 **By:** Beast Boy\#2560  
 **Added:** 2022-04-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)
 
 **Bug:**  
-The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.  
+The fishing prompt can stay with the character far beyond the normal area under certain conditions. How long and how far it sticks are very inconsistent. The bug persists through: walking, running, sprinting, jumping, gliding, Normal Attacking, Charge Attacking, Plunge Attacking, using an Elemental Skill, using an Elemental Burst, and opening menus. The bug does not persist through a character dying. The fishing prompt can also be extended beyond its normal area by repeatedly entering and exiting the menu.
 
-**Evidence:**  
+**Evidence:**
+
 * Normal Fishing Prompt Interaction \(for reference\): [video](https://imgur.com/a/Um9dkKI)
 * Persists through many actions: [video](https://youtu.be/Up6DK2fehS0)
 * Persists through menu opening: [video](https://imgur.com/a/D91qwc7)
@@ -200,42 +202,46 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Nass008\#8577  
 **Added:** 2021-12-23  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921775232707100692_923676486106509382_transcript-cooking-pot-super-jump.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921775232707100692_923676486106509382_transcript-cooking-pot-super-jump.html)
 
 **Finding:**  
-You can yeet yourself high by cooking mid air.  
+You can yeet yourself high by cooking mid air.
+
 1. Perform actions that accelerate your player character near the cooking pot \(both overworld one and mobile cooking pot works\).
 2. Press “Cook” button right when you gain momentum to enter cooking menu.
 3. Choose any recipe, and the game will briefly unpause and move your character.
 4. By repeatedly choosing and canceling cooking, you can propel yourself to the extent that normally impossible.
 
-**Evidence:**  
+**Evidence:**
+
 * Pot can enable higher jumps than usual. This also works with Xiao’s enhanced jump during Q and Kazuha E:
   * [Jump](https://youtu.be/DyHXLhdSWco)
   * [Kazuha E](https://youtu.be/Zx6ow-LTQQI)
   * [Xiao’s jump during Q](https://youtu.be/6cCxxtD0GTI) - courtesy of Yukie\#7916
   * [Yoimiya Q cast animation](https://youtu.be/IkVe9U38ZjA) - courtesy of Yukie\#7916
 * By using this trick with Anemo Ring, Electrograna, or Bennett hold E level 2 charge, you can jump/fly exceedingly long distances:
-  * [Anemo Ring](https://youtu.be/KtipLnICoJo)  
-  * [Electrograna](https://youtu.be/e2z-_uxxPvc)  
-  * [Bennett hold E level 2 charge](https://youtu.be/f7zBLu69CuM)  
+  * [Anemo Ring](https://youtu.be/KtipLnICoJo)
+  * [Electrograna](https://youtu.be/e2z-_uxxPvc)
+  * [Bennett hold E level 2 charge](https://youtu.be/f7zBLu69CuM)
 * This trick does not work with wind current alone (including one from Venti Hold E). You stop rising at a certain height like you normally do, and it does not appear to be higher than usual:
-  * [Wind current](https://youtu.be/m9Bjm3T3drY)  
-  * [Venti hold E](https://youtu.be/5rcLFKCO69I)  
+  * [Wind current](https://youtu.be/m9Bjm3T3drY)
+  * [Venti hold E](https://youtu.be/5rcLFKCO69I)
 
 **Significance:**  
-Can be used to reach places normally inaccessible, especially by utilizing Bennett and the portable cooking stove.  
+Can be used to reach places normally inaccessible, especially by utilizing Bennett and the portable cooking stove.
 
 ### Leg Break Bridge
+
 **By:** Lilith of the night#5024  
 **Added:** 2022-01-21  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930076186787336243_934021559629254676_transcript-leg-break-bridge.html)
 
-**Finding:**   
+**Finding:**  
 You take damage when you plunge on this spot at Dainichi island bridge, this happens with any type of weapon.  
 The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected.
 
-**Evidence:** 
+**Evidence:**
+
 * [Hu Tao, Xingqiu, Ningguang](https://youtu.be/mF3NDwDAWGA)
 * [Qiqi](https://youtu.be/b8pFpm1q_Wg)
 * [Albedo](https://youtu.be/edtRH90SC-U)
@@ -251,16 +257,16 @@ The damage is likely counted as from plunge, as it is close to the max plunge dm
 [Discussion](https://tickets.deeznuts.moe/transcripts/horizon-tech-2-electric-boogaloo)
 
 **Finding:**  
-By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a horizontal position (as long as they are in an animation or partially clipped into a surface)  
-  
-Also, by climbing into a firework precisely placed on geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)  
-  
-Credit to the original [Horizon Tech](./bugs#horizon-tech)  
-  
+By crawling into a horizontal position, interacting with a character in teapot, and executing a plunge attack, it is possible to get your character to stand in a horizontal position (as long as they are in an animation or partially clipped into a surface)
+
+Also, by climbing into a firework precisely placed on geo traveler's rock, it is possible to force the character into a 45 degree angle and plunge off, to the same effects as horizon tech, but at 45 degrees. (Currently only tested to be possible with the teen female character model)
+
+Credit to the original [Horizon Tech](./bugs#horizon-tech)
+
 **Evidence:**  
 Build Guide in Teapot, more info in description: [YouTube](https://youtu.be/ewTmmKYjbMM)  
-45 degree guide: [YouTube](https://youtu.be/BZAASaAgI5Q) (45 degree guide)  
-  
+45 degree guide: [YouTube](https://youtu.be/BZAASaAgI5Q) (45 degree guide)
+
 **Significance:**  
 Looks kinda cool.
 
@@ -271,11 +277,11 @@ Looks kinda cool.
 [Discussion](https://tickets.deeznuts.moe/transcripts/dying-animation-pause-shenenigans)
 
 **Finding:**  
-Going into the time adjustment menu pauses the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... *interesting* footage, including bodies flopping over, half-disappeared bodies flopping over, bodies flopping over in comedic ways while I lose my last braincell. Standing on a slope while dying of sheer cold doesn't work, drowning neither. Interestingly enough, gravity does stop when you are in the time adjustment menu while falling.  
-  
+Going into the time adjustment menu pauses the dying animation. However, gravity still continues working if your character is collapsed on a slope. This can result in some... _interesting_ footage, including bodies flopping over, half-disappeared bodies flopping over, bodies flopping over in comedic ways while I lose my last braincell. Standing on a slope while dying of sheer cold doesn't work, drowning neither. Interestingly enough, gravity does stop when you are in the time adjustment menu while falling.
+
 **Evidence:**  
-[YouTube](https://www.youtube.com/watch?v=zaJMWDta4Lo)  
-  
+[YouTube](https://www.youtube.com/watch?v=zaJMWDta4Lo)
+
 **Significance:**  
 Better understanding of how the bodies are modelled, fluff,... and suffering.
 
@@ -290,7 +296,7 @@ Diluc is hiring part time, so Diona applies, but little does he know that he has
 Take damage when you plunge behind the counter in Diluc's Tavern, the Angel's Share, any weapon type works
 The damage is likely counted as from plunge, as it is close to the max plunge dmg, and Xiao is unaffected. Works the same way as [The Leg Break Bridge](#leg-break-bridge).
 
-**Evidence:**  
+**Evidence:**
 
 Xiao no plunge damage: [YouTube](https://youtu.be/FfQqfbp7ZeE)
 
@@ -305,7 +311,7 @@ Another strange place other than Leg Break Bridge where you can kill yourself wi
 
 **By:** Ayzel\#7399  
 **Added:** 2021-06-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838967062184984636_854582115995877397_transcript-high-ping-multiple-orbital-application.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838967062184984636_854582115995877397_transcript-high-ping-multiple-orbital-application.html)
 
 **Finding:**  
 Xingqiu's orbital rain swords can apply hydro multiple times in a short duration with high ping. The higher the ping, the more times the orbitals will apply hydro.
@@ -363,10 +369,10 @@ Looks kinda cool.
 [Discussion](https://tickets.deeznuts.moe/transcripts/aether-can-fist)
 
 **Theory:**  
-In a high ping environment, it is possible to lose Traveler's sword and go weaponless. Being a gigachad that he is, Aether can abandon the dull blade at will and fist everybody on his way.  
-  
+In a high ping environment, it is possible to lose Traveler's sword and go weaponless. Being a gigachad that he is, Aether can abandon the dull blade at will and fist everybody on his way.
+
 **Significance:**  
-It is very possible that other characters can lose their weapons. At the very least, Anemo Aether *can* lose it. And he can fist you.
+It is very possible that other characters can lose their weapons. At the very least, Anemo Aether _can_ lose it. And he can fist you.
 
 ### Childe Fist
 
@@ -375,48 +381,49 @@ It is very possible that other characters can lose their weapons. At the very le
 [Discussion](https://tickets.deeznuts.moe/transcripts/childe-fist-n1)
 
 **Finding:**  
-An addendum to this [Library Entry](../characters/hydro/tartaglia#elemental-skill-and-attack-or-burst-on-the-same-frame)  
-  
-By doing a ranged N1 and switching to melee stance on the same frame, Childe will do rN1 without holding his bow, summoning an arrow his fist. If you continue to press Attack without moving, Childe will keep doing this until you stop pressing or melee stance runs out.  
-  
-Inputs:  
-1. Dash, then immediately hold Attack. Childe is one of the few characters that can do an N1 on Attack release (aka negative edge), which is what this will set up.  
-2. After dash ends, while holding a movement direction, press Skill and release Attack on the same frame. Childe will do a bowless rN1.  
-3. Let go of movement, and keep spamming Attack.  
-  
-This can be also done without the negative edge N1, but requires a 1 frame M1 click and release, so the negative edge method is easier to do.  
-  
+An addendum to this [Library Entry](../characters/hydro/tartaglia#elemental-skill-and-attack-or-burst-on-the-same-frame)
+
+By doing a ranged N1 and switching to melee stance on the same frame, Childe will do rN1 without holding his bow, summoning an arrow his fist. If you continue to press Attack without moving, Childe will keep doing this until you stop pressing or melee stance runs out.
+
+Inputs:
+
+1. Dash, then immediately hold Attack. Childe is one of the few characters that can do an N1 on Attack release (aka negative edge), which is what this will set up.
+2. After dash ends, while holding a movement direction, press Skill and release Attack on the same frame. Childe will do a bowless rN1.
+3. Let go of movement, and keep spamming Attack.
+
+This can be also done without the negative edge N1, but requires a 1 frame M1 click and release, so the negative edge method is easier to do.
+
 **Evidence:**  
-[YouTube](https://youtu.be/CqWkho98JEc)  
-  
+[YouTube](https://youtu.be/CqWkho98JEc)
+
 **Significance:**  
 The Archer class really is made up of archers!
 
-## Enemies 
+## Enemies
 
 ### Disappearing Fatui When They Shouldn't
 
 **By:** Asaki\#9139  
 **Added:** 2022-08-24  
-[Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)
 
 **Bug:**  
-*Occasionally*, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.  
-  
-**Evidence:**  
-This is not simply a visual bug, but rather they physically stay in the air, while acting as if they’re grounded: Their collision box would be grounded \(as evidenced by Raiden’s inability to dash out of that spot due to hitbox collision\) while their hitbox would be in air \(as evidenced by Xingqiu’s tracking\).  
-  
-30FPS – [YouTube](https://youtu.be/9ymcQuMMF1k)  
-60FPS – [YouTube](https://youtu.be/cWvyfqh48XI)  
-  
-If you slow it frame by frame on the 60FPS video, you’ll see some numbers left in the air right before the Cryogunner re-materialises.  
-  
-Similarly, the collision of the Crackling Axe Mitachurl is grounded while it is performing the jump attack.  
+_Occasionally_, Cryogunner Legionnaires will not fully land on the ground after their jump attack pattern while also producing janky hit & collision boxes.
 
-Credits to makeway4pK\#3901 – [YouTube](https://youtu.be/UtVt4Z8Hbfs)  
-  
+**Evidence:**  
+This is not simply a visual bug, but rather they physically stay in the air, while acting as if they’re grounded: Their collision box would be grounded \(as evidenced by Raiden’s inability to dash out of that spot due to hitbox collision\) while their hitbox would be in air \(as evidenced by Xingqiu’s tracking\).
+
+30FPS – [YouTube](https://youtu.be/9ymcQuMMF1k)  
+60FPS – [YouTube](https://youtu.be/cWvyfqh48XI)
+
+If you slow it frame by frame on the 60FPS video, you’ll see some numbers left in the air right before the Cryogunner re-materialises.
+
+Similarly, the collision of the Crackling Axe Mitachurl is grounded while it is performing the jump attack.
+
+Credits to makeway4pK\#3901 – [YouTube](https://youtu.be/UtVt4Z8Hbfs)
+
 **Significance:**  
-Just another one amongst annoying Fatui *mechanics*.  
+Just another one amongst annoying Fatui _mechanics_.
 
 ## Miscellaneous
 
@@ -559,31 +566,31 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 
 **By:** Sincronic\#3171  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958520792939900958_transcript-infinitorch.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958520792939900958_transcript-infinitorch.html)
 
 **Bug:**  
-Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.  
+Torches \(and maybe campfires\) sometimes become unextinguishable by Overloads. Sometimes they extinguish after a long time of using Overloads. Cause unknown.
 
 **Evidence:**  
-[Video](https://youtu.be/qI1wiQH2lw4): No matter the amout, type, or Gauge of the Overload, the torch could not be extinguished.  
+[Video](https://youtu.be/qI1wiQH2lw4): No matter the amout, type, or Gauge of the Overload, the torch could not be extinguished.
 
 **Significance:**  
-Understanding of overworld mechanics.  
+Understanding of overworld mechanics.
 
 ### Lightning Struck Tree Breaks When Swapping Characters
 
 **By:** Sincronic\#3171  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962022405419704400_transcript-lightning-struck-tree-breaks-when-swapping-characters.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962022405419704400_transcript-lightning-struck-tree-breaks-when-swapping-characters.html)
 
 **Bug:**  
-Lightning Struck Trees have a high chance of breaking if you swap characters near them as it keeps applying Electro on you. It is possible to fix it by relogging or drowning to force reload.  
+Lightning Struck Trees have a high chance of breaking if you swap characters near them as it keeps applying Electro on you. It is possible to fix it by relogging or drowning to force reload.
 
 **Evidence:**  
-[YouTube video](https://youtu.be/uqLVV94zVBU)  
+[YouTube video](https://youtu.be/uqLVV94zVBU)
 
 **Significance:**  
- Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.  
+ Understanding overworld mechanics. May inhibit exploration of tatarasuna for new players.
 
 ### Characters Steal Burst From Each Others
 
@@ -593,12 +600,12 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 
 **Finding:**  
 If you swap fast enough, the character you swap to can "steal" another characters ult  
-animation  
-  
+animation
+
 **Evidence:**  
 [YouTube](https://youtu.be/s1L-Cy3Pa_E)  
-This works for characters that "summons" objects such as childe, raiden, hutao, etc  
-  
+This works for characters that "summons" objects such as childe, raiden, hutao, etc
+
 **Significance:**  
 You can make anyone the Geo Archon now.
 
@@ -609,22 +616,22 @@ You can make anyone the Geo Archon now.
 [Discussion](https://tickets.deeznuts.moe/transcripts/fishing-is-kinda-boring)
 
 **Finding:**  
-You can attack with fishing rod if you exit fishing while ping is turbo or you are DCed  
-  
+You can attack with fishing rod if you exit fishing while ping is turbo or you are DCed
+
 **Evidence:**  
-[Imgur](https://imgur.com/a/YkJilx7)  
-  
+[Imgur](https://imgur.com/a/YkJilx7)
+
 **Significance:**  
-They should make fishing more engaging imo.  
+They should make fishing more engaging imo.
 
 ### Aimed Abilities Not Going Where Aimed
 
 **By:** Rathalos\#2875 and Casdela\#5121  
 **Added:** 2022-07-28  
-[Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)
 
 **Finding:**  
-It is possible for the aimed versions of certain abilities to spawn their respective objects in a different location from initially intended. This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.  
+It is possible for the aimed versions of certain abilities to spawn their respective objects in a different location from initially intended. This is done by rapidly panning/moving the camera after releasing it. It can vary depending on the execution, going so far as to appearing directly behind certain characters.
 
 This mechanic applies to the following:
 
@@ -634,7 +641,8 @@ This mechanic applies to the following:
 * Fischl's E, Nightrider
 * Keqing's E, Stellar Restoration
 
-**Evidence:**  
+**Evidence:**
+
 * [Albedo](https://youtu.be/K94bKHVg7U8)
 * [Gorou, Arataki Itto, Fischl](https://youtu.be/FRACwPMYlR4)
 * [Keqing](https://youtu.be/ZrYrZ2hTHng)
@@ -642,4 +650,4 @@ This mechanic applies to the following:
 * [GMC](https://youtu.be/WlN9nLtQ7SU)
 
 **Significance:**  
-Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of skill expression, despite how benign it is.  
+Better understanding of these characters and aimed abilities. Possible tech for some players looking for some level of skill expression, despite how benign it is.

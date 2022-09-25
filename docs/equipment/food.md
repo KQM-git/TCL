@@ -5,4 +5,3 @@
 ## Evidence Vault
 
 <Card item={require('../evidence/equipment/food.md')} />
-

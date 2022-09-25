@@ -31,4 +31,3 @@ import Video from "@site/src/components/common/Video"
 ## Evidence Vault
 
 <Card item={require('../../evidence/combat-mechanics/tech/zoom-cancel.md')} />
-

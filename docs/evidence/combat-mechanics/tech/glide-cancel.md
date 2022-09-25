@@ -4,7 +4,7 @@ search: false
 
 # Glide Cancel
 
-**Main Page:**  
+**Main Page:**
 
 <Card item={require('../../../combat-mechanics/tech/glide-cancel.md')} />
 
@@ -31,10 +31,10 @@ Somewhat doable at 30fps, insanely difficult at 60fps (though not humanly imposs
 Standing glide cancel: [Imgur](https://imgur.com/OggEdpG)  
 60fps glide cancel: [Imgur](https://imgur.com/ripNFSg)  
 glide canceling various animations: [Imgur](https://imgur.com/NvWDcSu)  
-Example raiden burst combo with glide cancel: [Imgur](https://imgur.com/AjzO2zO)  
+Example raiden burst combo with glide cancel: [Imgur](https://imgur.com/AjzO2zO)
 
 More examples: [Imgur](https://imgur.com/VnM0Rdm)
-Amber examples as an amber main: [Imgur](https://imgur.com/6XJeJzU)  
+Amber examples as an amber main: [Imgur](https://imgur.com/6XJeJzU)
 
 **Significance:**  
 Could be used in teams with Venti to do extremely fast cancels without using stamina. Possibly consistent at 30 fps, but usability at 60fps is very questionable.
@@ -46,13 +46,17 @@ Could be used in teams with Venti to do extremely fast cancels without using sta
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890716522190880828_896135115158192168_transcript-geo-construct-wavedash.html)
 
 **Theory/Finding:**  
-With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and geo constructs (Geo MC, Albedo, and Zhongli skill). 
+With certain attacks, notably ones that move the character forwards or backwards, it's possible to instant glide cancel/wavedash off of edges, such as buildings and geo constructs (Geo MC, Albedo, and Zhongli skill).
 
-There are two ways to do this, the method used depends on the attack and the construct used.  
-1. After attack, hold the direction toward the construct, and press jump twice very quickly (like a normal wavedash).  
-- Examples: Xiangling CA with Zhongli pillar, Keqing CA with Albedo flower  
-2. After attack, press jump with no movement, then hold the direction toward the construct and press jump again while holding direction.  
-- Examples: Xiangling CA with Albedo flower, Keqing N1 on building edge.
+There are two ways to do this, the method used depends on the attack and the construct used.
+
+1. After attack, hold the direction toward the construct, and press jump twice very quickly (like a normal wavedash).
+
+* Examples: Xiangling CA with Zhongli pillar, Keqing CA with Albedo flower
+
+2. After attack, press jump with no movement, then hold the direction toward the construct and press jump again while holding direction.
+
+* Examples: Xiangling CA with Albedo flower, Keqing N1 on building edge.
 
 **Evidence:**  
 No attack wavedash: [Imgur](https://imgur.com/YUxsqct)  

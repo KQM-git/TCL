@@ -10,7 +10,6 @@ These situations include overworld objects, certain enemies, and some Geo constr
 
 The number of frames saved by canceling depends on the character, positioning, and the move used.
 
-
 ## Media
 
 import Video from "@site/src/components/common/Video"

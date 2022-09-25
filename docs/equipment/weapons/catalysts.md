@@ -13,10 +13,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Kagura's Verity" weapons={catalysts}>
 
-* Stacks refresh on stack gain and act as one.  
-* Stacks are gained upon initial input, not on hit.  
-* Stacks are dynamic and can't be snapshotted.  
-* The Elemental Skill that triggers a stack is also affected by it.  
+* Stacks refresh on stack gain and act as one.
+* Stacks are gained upon initial input, not on hit.
+* Stacks are dynamic and can't be snapshotted.
+* The Elemental Skill that triggers a stack is also affected by it.
 * Klee can gain 2 stacks by casting 1 E with a double tap and no other actions are performed within ~81 frames afterwards.
 
 </Weapon>
@@ -35,8 +35,8 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 <Weapon weapon="Memory of Dust" weapons={catalysts}>
 
 * Xingqiu's Rain Swords do not count as a shield for Memory of Dust - [＃＃\#0123](../../evidence/equipment/weapons.md#analysis-of-whether-xingqiu-e-q-counts-as-a-shield-for-memory-of-dust-and-bolide)
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
-* MoD can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* MoD can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -54,7 +54,7 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 <Weapon weapon="Blackcliff Agate" weapons={catalysts}>
 
-import BlackcliffSeries from './_common/blackcliff_series.md';
+import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <BlackcliffSeries/>
 
@@ -72,7 +72,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Favonius Codex" weapons={catalysts}>
 
-import FavSeries from './_common/fav_series.md';
+import FavSeries from './\_common/fav_series.md';
 
 <FavSeries/>
 
@@ -90,10 +90,10 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Hakushin Ring" weapons={catalysts}>
 
-* Buff applies to the holder - [jas\#8888](../../evidence/equipment/weapons.md\#hakushin-ring-can-buff-the-holder)
-* Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
-* Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md\#gaining-a-new-buff-does-not-refresh-duration)
-* Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md\#hakushin-ring-doesnt-trigger-off-field)
+* Buff applies to the holder - [jas\#8888](../../evidence/equipment/weapons.md#hakushin-ring-can-buff-the-holder)
+* Crytallize, Swirl and Swirl chain reactions work for the effect - [ProfHugo\#6478](../../evidence/equipment/weapons.md#crystalize-swirl-and-swirl-chain-reactions-work-for-the-effect)
+* Buff does not get refreshed - [ProfHugo\#6478](../../evidence/equipment/weapons.md#gaining-a-new-buff-does-not-refresh-duration)
+* Buff does not trigger when the character equipped with **Hakushin Ring** is off-field - [Greyhound\#7836 and Terrapin\#8603](../../evidence/equipment/weapons.md#hakushin-ring-doesnt-trigger-off-field)
 
 </Weapon>
 
@@ -125,7 +125,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Royal Grimoire" weapons={catalysts}>
 
-import RoyalSeries from './_common/royal_series.md';
+import RoyalSeries from './\_common/royal_series.md';
 
 <RoyalSeries/>
 
@@ -135,7 +135,7 @@ import RoyalSeries from './_common/royal_series.md';
 
 <Weapon weapon="Sacrificial Fragments" weapons={catalysts}>
 
-import SacSeries from './_common/sac_series.md';
+import SacSeries from './\_common/sac_series.md';
 
 <SacSeries/>
 
@@ -168,7 +168,7 @@ import SacSeries from './_common/sac_series.md';
 
 <Weapon weapon="Magic Guide" weapons={catalysts}>
 
-import BaneSeries from './_common/bane_series.md';
+import BaneSeries from './\_common/bane_series.md';
 
 <BaneSeries/>
 
@@ -186,7 +186,7 @@ import BaneSeries from './_common/bane_series.md';
 
 <Weapon weapon="Thrilling Tales of Dragon Slayers" weapons={catalysts}>
 
-* The Passive remains active even when the character is swapped out.  
+* The Passive remains active even when the character is swapped out.
 
 </Weapon>
 
@@ -223,4 +223,3 @@ import BaneSeries from './_common/bane_series.md';
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

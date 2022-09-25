@@ -8,38 +8,38 @@ Core inside the head. For unknown reasons this core counts as a weakspot but wil
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 particle | Common | 
-| 33% HP | 1 particle | Common |
-| Death | 1 particle | Common |
+| HP Threshold | Type       | Element |
+| :----------- | :--------- | :------ |
+| 66% HP       | 1 particle | Common  |
+| 33% HP       | 1 particle | Common  |
+| Death        | 1 particle | Common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 30% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 30%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 33525 |
-| 65 | 39932 |
-| 70 | 52208 |
-| 75 | 59683 |
-| 80 | 74263 |
-| 85 | 81697 |
-| 90 | 97416 |
-| 95 | 110995 |
-| 100 | 147060 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 33525  |
+| 65    | 39932  |
+| 70    | 52208  |
+| 75    | 59683  |
+| 80    | 74263  |
+| 85    | 81697  |
+| 90    | 97416  |
+| 95    | 110995 |
+| 100   | 147060 |
 
 ## Attacks
 

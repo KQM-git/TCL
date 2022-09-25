@@ -5,4 +5,3 @@ Fall damage occurs when an enemy hits the ground or a wall with a certain veloci
 ## Evidence Vault
 
 <Card item={require('../../../evidence/combat-mechanics/damage/other/fall-damage.md')} />
-

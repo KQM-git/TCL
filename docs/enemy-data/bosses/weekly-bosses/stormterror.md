@@ -18,36 +18,36 @@ None.
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 75431 |
-| 65 | 89846 |
-| 70 | 117468 |
-| 75 | 134287 |
-| 80 | 167092 |
-| 85 | 183819 |
-| 90 | 219187 |
-| 95 | 249740 |
-| 100 | 330886 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 75431  |
+| 65    | 89846  |
+| 70    | 117468 |
+| 75    | 134287 |
+| 80    | 167092 |
+| 85    | 183819 |
+| 90    | 219187 |
+| 95    | 249740 |
+| 100   | 330886 |
 
 ## Attacks
 
 * Starts airborne with a unique health shield that has to be broken. Once the shield is broken, Dvalin will fall on the same platform as the player, and the camera angle will change. During this time the player can climb on Dvalin's back and strike the crystal on the back of his head to deal damage until Dvalin gets back up.
   * The crystal is self infused with electro that can't be overriden or electro-charged.
 * Disappears from view, then swoops through the center of the platform, dealing heavy damage.
-* Lands on the player's side of the platform and unleashes a powerful breath onto a part of the platform. 
+* Lands on the player's side of the platform and unleashes a powerful breath onto a part of the platform.
 * Swipes his head towards the area the player is standing on.
 * Shoots two pairs of Pulse Bomb towards the player, exploding upon impact.
 * Unleashes a rain of Pulse Bombs to attack the platform you are standing on and adjacent platforms. The affected platforms, become cracked platforms, deal continuous damage to the character standing on them. The longer the character stands on the platform, the higher the damage received.
@@ -58,7 +58,7 @@ None.
 * Periodically, there will be circular indicators on the ground showing where the energy pulse will strike. He swirls around in the air for a period of time and causes a permanent condition on every part of the arena.
   * Dvalin uses this attack if the player takes too long to kill him. This attack persists for the rest of the fight.
 
-## Interactions  
+## Interactions
 
 * The damage from cracked platforms is normal Anemo damage and is not based on the active character's HP.
 * As of Version 3.0, you can now apply a Hydro aura to Dvalin, which was previously not possible.

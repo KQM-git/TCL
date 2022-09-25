@@ -12,40 +12,40 @@ Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 2 particles | electro    
-| 33% HP | 2 particles | electro   
-| Death | 2 particles | electro  
+| HP Threshold | Type        | Element |
+| :----------- | :---------- | :------ |
+| 66% HP       | 2 particles | electro |
+| 33% HP       | 2 particles | electro |
+| Death        | 2 particles | electro |
 
 ## Resistance Table
 
 All resistances +100% additive increase while armored.
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | -20% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | -20%       |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 33525 |
-| 65 | 39932 |
-| 70 | 52208 |
-| 75 | 59683 |
-| 80 | 74263 |
-| 85 | 81697 |
-| 90 | 97416 |
-| 95 | 110995 |
-| 100 | 147060 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 33525  |
+| 65    | 39932  |
+| 70    | 52208  |
+| 75    | 59683  |
+| 80    | 74263  |
+| 85    | 81697  |
+| 90    | 97416  |
+| 95    | 110995 |
+| 100   | 147060 |
 
 ## Attacks
 

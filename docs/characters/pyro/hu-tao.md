@@ -33,43 +33,44 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 78.85% | 13 | 363.92%/s | 35.76 | 3 |
-| 2-Hit | 81.15% | 29 | 331.03%/s | 36.88 | 3 |
-| 3-Hit | 102.68% | 54 | 291.87%/s | 46.64 | 3 |
-| 4-Hit | 110.4% | 90 | 248.72%/s | 50.08 | 3 |
-| 5-Hit | 55.96% + 59.2% | 120+134 | 218.61%/s | 26.2 x2 | 1 + 4 |
-| 6-Hit | 144.57% | 173 | 219.47%/s | 26.2 | 6 |
-| Recovery | N/A | 238 | 159.53%/s | - | - |
+| String   | Talent 9%      | Frames  | MV/s      | Poise Damage | Impulse Type |
+| :------- | :------------- | :------ | :-------- | :----------- | :----------- |
+| 1-Hit    | 78.85%         | 13      | 363.92%/s | 35.76        | 3            |
+| 2-Hit    | 81.15%         | 29      | 331.03%/s | 36.88        | 3            |
+| 3-Hit    | 102.68%        | 54      | 291.87%/s | 46.64        | 3            |
+| 4-Hit    | 110.4%         | 90      | 248.72%/s | 50.08        | 3            |
+| 5-Hit    | 55.96% + 59.2% | 120+134 | 218.61%/s | 26.2 x2      | 1 + 4        |
+| 6-Hit    | 144.57%        | 173     | 219.47%/s | 26.2         | 6            |
+| Recovery | N/A            | 238     | 159.53%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| CA | 228.66% | - | - | 120 | 2 |
-| N1C | 307.51% | 65 | 283.86% | - | - |
-| N2C | 388.66% | 85 | 274.35% | - | - |
-| N3C | 491.34% | 92 | 320.44% | - | - |
-| N4C | 601.74% |  |  | - | - |
-| N5C | 716.90% |  |  | - | - |
-| N6C | 861.47% |  |  | - | - |
+| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :------ | :----------- | :----------- |
+| CA     | 228.66%   | -      | -       | 120          | 2            |
+| N1C    | 307.51%   | 65     | 283.86% | -            | -            |
+| N2C    | 388.66%   | 85     | 274.35% | -            | -            |
+| N3C    | 491.34%   | 92     | 320.44% | -            | -            |
+| N4C    | 601.74%   |        |         | -            | -            |
+| N5C    | 716.90%   |        |         | -            | -            |
+| N6C    | 861.47%   |        |         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 110.02% | 25 | 2 |
-| Low Plunge DMG | 220% | 100 | 4 |
-| High Plunge DMG | 274.79% | 150 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 110.02%   | 25           | 2            |
+| Low Plunge DMG  | 220%      | 100          | 4            |
+| High Plunge DMG | 274.79%   | 150          | 7            |
 
 </div>
 
 **Notes**
+
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
 * Hu Tao's [Vape MV/s](/assets/hutaovapemvs.jpg)
@@ -86,37 +87,38 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 <Skill char={char} skill='e' sectionFilter='Paramita Papilio' />
 </div>
 
-| Attribute | Paramita Papilio |
-| :--- | :--- |
-| ATK Increase \(T9%\) | 5.96% Max HP |
-| Activation Cost | 30% Current HP |
-| Particles | 2~3 \(3:2\) |
-| Frames | 42 |
-| Infusion Element | Pyro |
-| Duration | 9s |
-| Cooldown | 16s |
-| Casting Poise Damage | 120 |
-| Casting Impulse Type | 3 |
+| Attribute            | Paramita Papilio |
+| :------------------- | :--------------- |
+| ATK Increase \(T9%\) | 5.96% Max HP     |
+| Activation Cost      | 30% Current HP   |
+| Particles            | 2~3 \(3:2\)      |
+| Frames               | 42               |
+| Infusion Element     | Pyro             |
+| Duration             | 9s               |
+| Cooldown             | 16s              |
+| Casting Poise Damage | 120              |
+| Casting Impulse Type | 3                |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='e' sectionFilter='Blood Blossom' />
 
-| Attribute | Blood Blossom |
-| :--- | :--- |
-| Blood Blossom DMG \(T9%\) | 108.8% |
-| GU | 1A |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Dynamic |
-| Damage Element | Pyro |
-| Damage Type | Skill |
-| Duration | 8s |
-| Poise Damage | 0 |
-| Impulse Type | 1 |
+| Attribute                 | Blood Blossom |
+| :------------------------ | :------------ |
+| Blood Blossom DMG \(T9%\) | 108.8%        |
+| GU                        | 1A            |
+| ICD                       | 3 hit / 2.5s  |
+| Snapshot                  | Dynamic       |
+| Damage Element            | Pyro          |
+| Damage Type               | Skill         |
+| Duration                  | 8s            |
+| Poise Damage              | 0             |
+| Impulse Type              | 1             |
 
 </div>
 
 **Notes**
+
 * The **Paramita Papilio** state does not affect Poise Damage or Impulse Type of the Normal, Charged, or Plunging Attacks.
 * Blood Blossom tick rate is effected by hitlag. \(+1s\)
 * Elemental Particles are generated by Pyro-infused Normal and Charged Attacks during **Paramita Papilio**.
@@ -133,28 +135,29 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 <div class='talent-columns'>
 <Skill char={char} skill='q' sectionFilter=''/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill DMG (T9%) | 470.34% |
-| Low HP Skill DMG (T9%) | 587.93% |
-| Skill HP Regeneration (T9%) | 9.71% Max HP |
+| Attribute                       | Burst         |
+| :------------------------------ | :------------ |
+| Skill DMG (T9%)                 | 470.34%       |
+| Low HP Skill DMG (T9%)          | 587.93%       |
+| Skill HP Regeneration (T9%)     | 9.71% Max HP  |
 | Low HP Skill Regeneration (T9%) | 12.95% Max HP |
-| Cast Frames | 130 |
-| Energy Frame | 73 |
-| CD Frame | 64 |
-| GU | 2B |
-| ICD | None |
-| Snapshot | On Cast |
-| Damage Element | Pyro |
-| Damage Type | Burst |
-| Energy Cost | 60 |
-| Cooldown | 15s |
-| Poise Damage | 250 |
-| Impulse Type | 3 |
+| Cast Frames                     | 130           |
+| Energy Frame                    | 73            |
+| CD Frame                        | 64            |
+| GU                              | 2B            |
+| ICD                             | None          |
+| Snapshot                        | On Cast       |
+| Damage Element                  | Pyro          |
+| Damage Type                     | Burst         |
+| Energy Cost                     | 60            |
+| Cooldown                        | 15s           |
+| Poise Damage                    | 250           |
+| Impulse Type                    | 3             |
 
 </div>
 
 **Notes**
+
 * Spirit Soother is snapshot on cast, and will even extend Paramita Papilio to do so.
 
 </TabItem>
@@ -183,7 +186,7 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 <Tabs>
 <TabItem value='ani' label='Animation Cancels'>
 
-* [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)  
+* [C1 N1C Dash Cancel](https://i.imgur.com/MrtQfVD.mp4)
 * [N2C Jump Cancel](https://i.imgur.com/z7kGCGB.mp4)
 
 </TabItem>
@@ -192,4 +195,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/pyro/hu-tao.md')} />
-

@@ -65,14 +65,15 @@ Even moves that deal 0 damage (therefore no scaling with stats) can still trigge
 
 This behavior is different compared to Albedo E and Raiden E (both of them have similarly worded conditions for in-game tooltips)
 
-**Evidence:**  
-1. Mona/Ayaka alternate sprints: [Imgur](https://imgur.com/WuUAXcA)  
-2. Xingqiu/Barbara E hydro application: [Imgur](https://imgur.com/NWOh0qL)  
-3. Jean Q self hydro swirls: [Imgur](https://imgur.com/vS8ueTt)  
-4. Mona Q cast: [Imgur](https://imgur.com/3Qzy2My)  
-5. Xingqiu Q activation: [Imgur](https://imgur.com/6FlHxOk)  
-6. Hutao E activation: [Youtube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)  
-7. Yoimiya E activation: [Youtube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029) 
+**Evidence:**
+
+1. Mona/Ayaka alternate sprints: [Imgur](https://imgur.com/WuUAXcA)
+2. Xingqiu/Barbara E hydro application: [Imgur](https://imgur.com/NWOh0qL)
+3. Jean Q self hydro swirls: [Imgur](https://imgur.com/vS8ueTt)
+4. Mona Q cast: [Imgur](https://imgur.com/3Qzy2My)
+5. Xingqiu Q activation: [Imgur](https://imgur.com/6FlHxOk)
+6. Hutao E activation: [Youtube](https://youtu.be/NHXlZiXdHhg) (credit to ItzSomebody#0029)
+7. Yoimiya E activation: [Youtube](https://youtu.be/O23CJGQtlCU) (credit to ItzSomebody#0029)
 
 **Significance:**
 Additional insight on how game consider to be "taking damage" (which is not consistent between characters)
@@ -81,7 +82,7 @@ Additional insight on how game consider to be "taking damage" (which is not cons
 
 **By:** Nass008\#8577, NZPIEFACE\#8439  
 **Added:** 2021-10-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895389894145355836_899122969400475648_transcript-qiqi-talisman-healing-icd.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895389894145355836_899122969400475648_transcript-qiqi-talisman-healing-icd.html)
 
 **Finding:**  
 Healing from Fortune-Preserving Talisman (Qiqi Q) has cooldown (approximately 1 second).
@@ -91,15 +92,15 @@ The healing from talisman only occurs every ~1 seconds and healing ticks will no
 
 To add to this, the healing cooldown appears to be shared across the team.
 
-**Evidence:**  
+**Evidence:**
 
 [Single target](https://youtu.be/ryLga9DRUD0)
 
 [Single target frame count](https://imgur.com/grbH8Qz)
 
-[Multi target](https://youtu.be/X4P8ay0Cv14) 
+[Multi target](https://youtu.be/X4P8ay0Cv14)
 
-[Multi target frame count](https://imgur.com/FrqMFZe) 
+[Multi target frame count](https://imgur.com/FrqMFZe)
 
 [Across team members](https://www.youtube.com/watch?v=OWTu6zEjH5A)
 
@@ -114,27 +115,36 @@ Clarification on Qiqi's healing mechanics
 **Added:** 2021-09-06  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864092495369338900_884489611034890280_transcript-qiqi-copium-overdrive.html)
 
-**Finding:**  
+**Finding:**
 
-**Qiqi's Frame counting as a driver:**  
+**Qiqi's Frame counting as a driver:**
+
 1. N1CW, N1CD, N2CD: [Speadsheet](https://docs.google.com/spreadsheets/d/1BLBhxU8wgHlHV5yTkFsyHvUUNdbwNgd0NtAZFk77sxE/edit?usp=sharing)
 2. N1CJ, N2CW, N2CJ, N2J: [Speadsheet](https://docs.google.com/spreadsheets/d/1AHKoAHc7gbEKBoaTZh9UZNdjWtnaQc0SgGPNJpkWsFA/edit?usp=sharing)
 
-**Off-field-trigger counts:**  
-1. Fischl:  
-- N1CJ: [Video](https://youtu.be/oDO1BaxHajE)  
-- N2CJ: [Video](https://youtu.be/Ptz-4CnnT3g)  
-- N2J: [Video](https://youtu.be/9RmLIAAu7Ks)  
-2. Xingqiu:  
-- N1CJ: [Video](https://youtu.be/LWIb66HLUOE)  
-- N2CJ: [Video](https://youtu.be/JW-urnXz4FE)  
-- N2J: [Video](https://youtu.be/UJ03pHyxvOo)  
-3. Beidou:  
-- N1CJ: [Video](https://youtu.be/Dm6HUn_KOiM)  
-- N2CJ: [Video](https://youtu.be/w9j5O2HYPGw)  
-- N2J: [Video](https://youtu.be/Jd-lAz7zlSQ)  
-4. Albedo:  
-- N2CJ: [Video](https://youtu.be/G2_yr8ObBhY)
+**Off-field-trigger counts:**
+
+1. Fischl:
+
+* N1CJ: [Video](https://youtu.be/oDO1BaxHajE)
+* N2CJ: [Video](https://youtu.be/Ptz-4CnnT3g)
+* N2J: [Video](https://youtu.be/9RmLIAAu7Ks)
+
+2. Xingqiu:
+
+* N1CJ: [Video](https://youtu.be/LWIb66HLUOE)
+* N2CJ: [Video](https://youtu.be/JW-urnXz4FE)
+* N2J: [Video](https://youtu.be/UJ03pHyxvOo)
+
+3. Beidou:
+
+* N1CJ: [Video](https://youtu.be/Dm6HUn_KOiM)
+* N2CJ: [Video](https://youtu.be/w9j5O2HYPGw)
+* N2J: [Video](https://youtu.be/Jd-lAz7zlSQ)
+
+4. Albedo:
+
+* N2CJ: [Video](https://youtu.be/G2_yr8ObBhY)
 
 **Significance:**  
 For future Qiqi guide.

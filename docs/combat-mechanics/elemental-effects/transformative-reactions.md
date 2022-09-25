@@ -1,11 +1,11 @@
 ---
-description: 'Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Crystallize.'
+description: "Overload, Superconduct, Electro-Charged, Shatter, Swirl, and Crystallize."
 sidebar_position: 2002
 ---
 
 # Transformative Reactions
 
-import TransformativeReaction from '../_formulas/transformative.md'
+import TransformativeReaction from '../\_formulas/transformative.md'
 
 <TransformativeReaction />
 
@@ -16,17 +16,17 @@ import LevelMultiplier from '@site/src/components/common/LevelMultiplier'
 Player level multiplier at <LevelMultiplier curve={player} />  
 Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />
 
-| Reaction | Type | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Burning | AoE \(1 meter\) | 30 | 0 |
-| Electro-Charged | Direct Damage \(Main Target\) | 130 | 2 |
-| Electro-Charged | Direct Damage \(Secondary Ticks) | 130 | 2 |
-| Frozen | Duration Ends | 30 | 2 |
-| Overloaded | AoE \(5 meters\) | 90 | 5 |
-| Superconduct | AoE \(5 meters\) | 30 | Heavy, 240, 300 |
-| Shattered | Direct Damage | 30 | 3 |
-| Swirl | Direct Damage | 130 | 1 |
-| Swirl | AoE \(6 meters\) | 30 | 1 |
+| Reaction        | Type                             | Poise Damage | Impulse Type    |
+| :-------------- | :------------------------------- | :----------- | :-------------- |
+| Burning         | AoE \(1 meter\)                  | 30           | 0               |
+| Electro-Charged | Direct Damage \(Main Target\)    | 130          | 2               |
+| Electro-Charged | Direct Damage \(Secondary Ticks) | 130          | 2               |
+| Frozen          | Duration Ends                    | 30           | 2               |
+| Overloaded      | AoE \(5 meters\)                 | 90           | 5               |
+| Superconduct    | AoE \(5 meters\)                 | 30           | Heavy, 240, 300 |
+| Shattered       | Direct Damage                    | 30           | 3               |
+| Swirl           | Direct Damage                    | 130          | 1               |
+| Swirl           | AoE \(6 meters\)                 | 30           | 1               |
 
 Transformative Reactions cannot crit and scale only on Elemental Mastery and character level. They are effected by Elemental Resistance to the type of damage the Reaction deals.
 
@@ -52,7 +52,7 @@ Electro-Charged is a special Transformative reaction that deals Electro damage a
   * With an excessive amount of Hydro application and a lot of hitlag, 4 Electro-Charged procs are possible with only one application of Electro.
 * Electro-Charged ticks, however, are not affected by hitlag, and happen exactly every 60 frames.
 * Electro-Charged can spread to nearby targets if they have a Hydro aura, however, the chain lightning will trigger Electro-Charged damage without applying an elemental aura.
-  * Electro-Charged ticks that spread to other enemies affect by Electro-Charged will take over Electro-Charged ownership on those enemies. 
+  * Electro-Charged ticks that spread to other enemies affect by Electro-Charged will take over Electro-Charged ownership on those enemies.
 * Electro-Charged, in combination with Heavy Hits, can stun a ruin guard similar to using an aimed shot on their weakpoint.
   * This is because both Electro-Charged and Heavy Hits deal a substantial amount of poise damage
   * For more details on poise, we have a [page dedicated to it](../poise.md)
@@ -74,9 +74,10 @@ Blunt attacks \(such as Claymores, Geo, Klee's bombs, etc\) will apply Shatter o
 Attacks that apply Shatter have different GU values, refer to the [Evidence Vault](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#various-gu-values-of-shatter-based-on-different-types-of-attacks) for extended reading on Shatter GU by Bobrokrot\#0111.
 
 In some situations, Shattering a Frozen enemy removes less than the normal 8GU. This allows multiple Shatters to occur on a single Frozen, or Shatter + Melt at the same time.
+
 * This appears to be a bug and not a consistent reaction.
 
-Shatter does not trigger weapon, artifact, or character Passives.  
+Shatter does not trigger weapon, artifact, or character Passives.
 
 ## Frozen
 
@@ -88,16 +89,16 @@ Additionally, for some reactions, only one reaction can occur at a time. For exa
 
 * The order of elements applied and the gauge strength determines if a second reaction occurs and what reaction it is, whenever a blunt elemental attack is used against a frozen target.
 
-| Reaction | Freeze Aura | Underlying Cryo | Underlying Hydro |
-| :--- | :---: | :---: | :---: |
-| Melt | ✔️ | ✔️ | ❌ |
-| Superconduct | ✔️ | ✔️ | ❌ |
-| Shatter | ✔️ | ❌ | ❌ |
-| Swirl | ✔️ | ✔️ | ✔️ |
-| Crystallize | Shatter | ✔️ | ✔️ |
+| Reaction     | Freeze Aura | Underlying Cryo | Underlying Hydro |
+| :----------- | :---------: | :-------------: | :--------------: |
+| Melt         |     ✔️      |       ✔️        |        ❌        |
+| Superconduct |     ✔️      |       ✔️        |        ❌        |
+| Shatter      |     ✔️      |       ❌        |        ❌        |
+| Swirl        |     ✔️      |       ✔️        |        ✔️        |
+| Crystallize  |   Shatter   |       ✔️        |        ✔️        |
 
 The duration of Freeze is as shown in the following formulas:  
-\(for details on how the formulas work with enemies that have an innate aura, see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#frozen-formula-does-work-with-innate-auras)\)  
+\(for details on how the formulas work with enemies that have an innate aura, see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md#frozen-formula-does-work-with-innate-auras)\)
 
 $$
 \begin{align*}
@@ -110,6 +111,7 @@ $$
 $$
 
 Multiple consecutive freezes have reduced duration. They follow the following kinematic rules:
+
 * Freeze aura decay starts off at a rate of 0.4 GU/s
 * It accelerates at a rate of 0.1 GU/s^2
 * When unfrozen, it accelerates at a rate of -0.2 GU/s^2 back down to the minimum rate of 0.4 GU/s
@@ -123,7 +125,6 @@ $$
 &\text{Freeze Duration}=\sqrt{20*\text{Frozen aura gauge}+(\text{Decay Time Modifier} + 4)^2}-\text{Decay Time Modifier}-4\\\\
 \end{align*}
 $$
-
 
 ## Swirl
 
@@ -151,15 +152,15 @@ Crystallize is an elemental reaction triggered by applying Geo on a target affli
 * Picking up multiple crystals refreshes the duration of the shield and its element type.
 * Crystals will always spawn in front of the enemy when possible.
 
-Crystallize has a global reaction specific ICD of 1.0 second, where any specific enemy Crystallized by any character is then immune to Crystallize by any character for 1.0 second. This cooldown prevents further crystals to appear and any gauge consumption that would otherwise occur. 
+Crystallize has a global reaction specific ICD of 1.0 second, where any specific enemy Crystallized by any character is then immune to Crystallize by any character for 1.0 second. This cooldown prevents further crystals to appear and any gauge consumption that would otherwise occur.
 
 ## Burning
 
-Burning is an elemental reaction triggered by applying Dendro on a target already afflicted by a Pyro aura or vice versa. Burning deals Pyro damage every 0.25s. This damage does not stagger. 
+Burning is an elemental reaction triggered by applying Dendro on a target already afflicted by a Pyro aura or vice versa. Burning deals Pyro damage every 0.25s. This damage does not stagger.
 
-The Burning damage will apply 2U Pyro in a small AoE around the Burning object or person. The small AoE of the Burning reaction can apply Pyro to nearby objects or characters afflicted with Dendro, spreading the Burning reaction. Unlike Swirl, the AoE Pyro application of Burning also includes the object or person being Burnt, and refreshes the Pyro aura on them. This effectively means that Burning is self sustaining as long as enough Dendro aura is supplied. 
+The Burning damage will apply 2U Pyro in a small AoE around the Burning object or person. The small AoE of the Burning reaction can apply Pyro to nearby objects or characters afflicted with Dendro, spreading the Burning reaction. Unlike Swirl, the AoE Pyro application of Burning also includes the object or person being Burnt, and refreshes the Pyro aura on them. This effectively means that Burning is self sustaining as long as enough Dendro aura is supplied.
 
-Additionally, the decay rate of the Dendro aura while Burning is the sum of the natural decay rate of the Pyro aura and Dendro aura. 
+Additionally, the decay rate of the Dendro aura while Burning is the sum of the natural decay rate of the Pyro aura and Dendro aura.
 
 ## Evidence Vault
 

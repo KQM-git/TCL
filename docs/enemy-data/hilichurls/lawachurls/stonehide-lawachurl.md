@@ -8,47 +8,47 @@ This huge hilichurl is referred to as a "lawa" by its brethren. The abundant Geo
 
 ## Weakspot Details
 
-Head&Shoulders.  
+Head&Shoulders.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 75% HP | 3 particle+1orb | common   
-| 50% HP | 3 particle+1orb | common   
-| 25% HP | 3 particle+1orb | common  
-| Death | 3 particle+1orb | common  
+| HP Threshold | Type            | Element |
+| :----------- | :-------------- | :------ |
+| 75% HP       | 3 particle+1orb | common  |
+| 50% HP       | 3 particle+1orb | common  |
+| 25% HP       | 3 particle+1orb | common  |
+| Death        | 3 particle+1orb | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 50% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 70% |
+| :---------- | :--------- |
+| Physical    | 50%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 70%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 75431 |
-| 65 | 89846 |
-| 70 | 117468 |
-| 75 | 134287 |
-| 80 | 167092 |
-| 85 | 183819 |
-| 90 | 219187 |
-| 95 | 249740 |
-| 100 | 330886 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 75431  |
+| 65    | 89846  |
+| 70    | 117468 |
+| 75    | 134287 |
+| 80    | 167092 |
+| 85    | 183819 |
+| 90    | 219187 |
+| 95    | 249740 |
+| 100   | 330886 |
 
 ## Attacks
 
-* Punches its' chest and gives a battle cry before infusing itself with a geo armor. This attack will always be the first one attempted at the start of the fight, and can be done again after the armor is broken. 
+* Punches its' chest and gives a battle cry before infusing itself with a geo armor. This attack will always be the first one attempted at the start of the fight, and can be done again after the armor is broken.
   * While protected by the armor, certain attacks will be upgraded.
 * Takes a wide right swing at the player.
 * Takes a left swing followed up by a right punch into the ground.

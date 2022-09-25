@@ -27,32 +27,32 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| 1-Hit | 89.59% | - | - |
-| 2-Hit | 81.84% | - | - |
-| 3-Hit | 109.02% | - | - |
-| 4-Hit | 139.83% | - | - |
-| Recovery | - | - | - |
+| String   | Talent 9% | Frames | MV/s |
+| :------- | :-------- | :----- | :--- |
+| 1-Hit    | 89.59%    | -      | -    |
+| 2-Hit    | 81.84%    | -      | -    |
+| 3-Hit    | 109.02%   | -      | -    |
+| 4-Hit    | 139.83%   | -      | -    |
+| Recovery | -         | -      | -    |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s |
-| :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 102.21% + 122.66% | - | - |
-| Recovery | - | - | - |
+| String             | Talent 9%         | Frames | MV/s |
+| :----------------- | :---------------- | :----- | :--- |
+| Charged Attack DMG | 102.21% + 122.66% | -      | -    |
+| Recovery           | -                 | -      | -    |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% |
-| :--- | :--- |
-| Plunge DMG | 117.46% |
-| Low Plunge DMG | 234.86% |
-| High Plunge DMG | 293.36% |
+| Damage Type     | Talent 9% |
+| :-------------- | :-------- |
+| Plunge DMG      | 117.46%   |
+| Low Plunge DMG  | 234.86%   |
+| High Plunge DMG | 293.36%   |
 
 </div>
 </TabItem>
@@ -62,30 +62,30 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 128.71% |
-| Grass Ring of Sanctification Healing \(T9%\)| 5.1% Max HP + 587 |
-| Grass Ring of Sanctification DMG \(T9%\) | 42.91% |
-| Tick Rate | 1.5s |
-| Activation Cost | 30% Current HP |
-| Particles | 0~1 \(55\:45\) |
-| Frames | - |
-| GU | 1A |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Dynamic |
-| Damage Element | Electro |
-| Damage Type | Skill |
-| Duration | 12s |
-| CD | 15s |
+| Attribute                                    | Skill             |
+| :------------------------------------------- | :---------------- |
+| Skill DMG \(T9%\)                            | 128.71%           |
+| Grass Ring of Sanctification Healing \(T9%\) | 5.1% Max HP + 587 |
+| Grass Ring of Sanctification DMG \(T9%\)     | 42.91%            |
+| Tick Rate                                    | 1.5s              |
+| Activation Cost                              | 30% Current HP    |
+| Particles                                    | 0~1 \(55\:45\)    |
+| Frames                                       | -                 |
+| GU                                           | 1A                |
+| ICD                                          | 3 hit / 2.5s      |
+| Snapshot                                     | Dynamic           |
+| Damage Element                               | Electro           |
+| Damage Type                                  | Skill             |
+| Duration                                     | 12s               |
+| CD                                           | 15s               |
 
 </div>
 
 **Notes**
+
 * 45% chance to generate 1 particle on hit.
 * Hitbox extends slightly above the visual effect.
 * Initial cast and tick damage share the same ICD
-
 
 </TabItem>
 
@@ -94,25 +94,26 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Single Instance DMG \(T9%\) | 6.13% Max HP |
-| Total DMG \(T9%\) | 42.9% / 73.54% Max HP | 
-| Cast Frames | - |
-| Energy Frame | - |
-| CD Frame | - |
-| GU | 1A |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshots |
-| Damage Element | Electro |
-| Damage Type | Burst |
-| Energy Cost | 60 |
-| Duration | 2s / 3.5s |
-| CD | 15s |
+| Attribute                   | Burst                 |
+| :-------------------------- | :-------------------- |
+| Single Instance DMG \(T9%\) | 6.13% Max HP          |
+| Total DMG \(T9%\)           | 42.9% / 73.54% Max HP |
+| Cast Frames                 | -                     |
+| Energy Frame                | -                     |
+| CD Frame                    | -                     |
+| GU                          | 1A                    |
+| ICD                         | 3 hit / 2.5s          |
+| Snapshot                    | Snapshots             |
+| Damage Element              | Electro               |
+| Damage Type                 | Burst                 |
+| Energy Cost                 | 60                    |
+| Duration                    | 2s / 3.5s             |
+| CD                          | 15s                   |
 
 </div>
 
 **Notes**
+
 * Hits 7 times when above 50% HP and 11-13 times when below 50% HP.
 * Number of hits depend on FPS but not on ping.
 
@@ -135,7 +136,8 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
 
-**Notes:**
+**Notes**
+
 * The healing increase is additive to normal healing.
 * The healing is affected by Healing Bonus.
 
@@ -162,7 +164,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
 
-**Notes:**
+**Notes**
+
 * Skill and C4 have differnet ICD.
 * C4 damage scales with Elemental Skill Damage \%.
 * C4 can generate particles.

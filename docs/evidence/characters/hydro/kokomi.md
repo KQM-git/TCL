@@ -8,7 +8,7 @@ search: false
 
 <Card item={require('../../../characters/hydro/kokomi.md')} />
 
-## Basic Mechanics  
+## Basic Mechanics
 
 ### Attack Attributes
 
@@ -23,24 +23,24 @@ search: false
 * Range
   * NA: 6 tiles - [deRykcihC#0621](https://youtu.be/77a8573xzag)
   * E Radius: 2.5 tiles - [deRykcihC#0621](https://youtu.be/04pVUvJJm4A)
-* Frames: 
+* Frames:
 
 ## Normal Attack Mechanics
 
 * Kokomi's normal attacks hit in a small AoE. - [Doug#8888](https://youtu.be/JV7CBavvYQ4)
 
-### Kokomi N2 Delay Bug  
+### Kokomi N2 Delay Bug
 
 **By:** Some Proselytizer#8340  
 **Added:** 2021-10-24  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890763855679082536_902020447338643456_transcript-kokomi-n2-delay-bug.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890763855679082536_902020447338643456_transcript-kokomi-n2-delay-bug.html)
 
 **Finding:**  
-Kokomi N2 sometimes gets a delay when doing N2 walk cancels.  
+Kokomi N2 sometimes gets a delay when doing N2 walk cancels.
 
 **Evidence:**  
 [Youtube](https://youtu.be/CBZYh9Grsl4)  
-Frame counts: [Google Doc](https://docs.google.com/spreadsheets/d/1JLYelWNm7y7rjnzbsNdQ-NaGG7mbZ9qWEocMGaiSqI4/edit#gid=0)  
+Frame counts: [Google Doc](https://docs.google.com/spreadsheets/d/1JLYelWNm7y7rjnzbsNdQ-NaGG7mbZ9qWEocMGaiSqI4/edit#gid=0)
 
 **Significance:**  
 Could be detrimental to her role as a Beidou driver and make her lose procs. Dash cancels and jump cancels seem to mitigate this problem. There is no consistent pattern on when this delay will happen, it is essentially random.
@@ -65,6 +65,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 * Bake-Kurage alone cannot cause infusion or be swirled off of. - [Mcpie#8672](https://imgur.com/2swgDRw)
 
 ### Infinite Jellyfish Extension
+
 **By:** Steno#0119  
 **Added:** 2022-01-27  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934084290352930969_936219344843718656_transcript-infinite-jellyfish-extension.html)
@@ -80,23 +81,26 @@ Who doesn't love some obscure Kokomi tech.
 
 ### Kokomi Skill triggers artifact effects even when interrupted
 
-**By:** Tibo#4309    
+**By:** Tibo#4309  
 **Added:** 2021-10-26  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890281986105696266_902798398757928970_transcript-kokomis-jellyfish-is-uninterruptible.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890281986105696266_902798398757928970_transcript-kokomis-jellyfish-is-uninterruptible.html)
 
 **Finding:**  
 Kokomi can trigger artifact effects, such as 4pc Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames, when getting interrupted during casting of E, even when the Bake-Kagure doesn't spawn and E doesn't go on cooldown.
 
 **Evidence:**  
-4pc Heart of Depth  
-* Unbuffed N1 damage is 1120: [Imgur](https://imgur.com/tBed7gZ)  
-* After casting E and getting interrupted, buff arrows appear, and N1 does 1297: [Imgur](https://imgur.com/3cZWdQQ)  
+4pc Heart of Depth
 
-4pc Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)  
-* Unbuffed N1 damage is 243.  
-* After casting E and getting interrupted, buff arrows appear, energy is consumed, and N1 does 312. 
+* Unbuffed N1 damage is 1120: [Imgur](https://imgur.com/tBed7gZ)
+* After casting E and getting interrupted, buff arrows appear, and N1 does 1297: [Imgur](https://imgur.com/3cZWdQQ)
+
+4pc Shimenawa's Reminiscence: [Imgur](https://imgur.com/KHHgd7s)
+
+* Unbuffed N1 damage is 243.
+* After casting E and getting interrupted, buff arrows appear, energy is consumed, and N1 does 312.
 
 4pc Crimson Witch of Flames: [Imgur](https://imgur.com/IJW2aBQ)
+
 * Kokomi has 15% Pyro DMG Bonus before cast.
 * After casting E and getting interrupted, Kokomi has 22.5% Pyro DMG Bonus.
 
@@ -112,7 +116,7 @@ Can have higher Artifact set effect uptime and stacks, but at the cost of gettin
 
 **By:** awe778#1618  
 **Added:** 2021-10-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891097097078730823_899138392359583824_transcript-kokomi-q-snapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891097097078730823_899138392359583824_transcript-kokomi-q-snapshot.html)
 
 **Finding:**  
 Bake-Kurage can snapshot the DMG Bonus from Kokomi's Burst if Kokomi switches immediately after casting Kurage's Oath.
@@ -122,23 +126,23 @@ Kokomi Burst -> Kokomi Skill -> immediate switch (snapshot successful): [Imgur](
 Kokomi Burst -> Kokomi Skill -> N1 into switch (snapshot successful): [Imgur](https://imgur.com/LJ6SZHY)  
 Kokomi Burst -> Kokomi Skill -> delayed switch (snapshot failed): [Imgur](https://imgur.com/M9zs1Yg)  
 Kokomi Skill at end of Burst mode vs. multiple enemies (snapshot successful): [Imgur](https://imgur.com/z8IHQIB)  
-Kokomi Skill at end of Burst mode vs. a single enemy (snapshot successful): [Imgur](https://imgur.com/OwBlUnT)  
+Kokomi Skill at end of Burst mode vs. a single enemy (snapshot successful): [Imgur](https://imgur.com/OwBlUnT)
 
 **Significance:**  
-This can potentially change Kokomi's Burst rotations due to the ability to snapshot and keep the Bake-Kurage DMG Bonus even after her Burst duration ends.  
+This can potentially change Kokomi's Burst rotations due to the ability to snapshot and keep the Bake-Kurage DMG Bonus even after her Burst duration ends.
 
 ### Kokomi Q Does Not Resnapshot
 
 **By:** Kurt\#5846  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962109619050786918_transcript-kokomi-q-does-not-resnapshot.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962109619050786918_transcript-kokomi-q-does-not-resnapshot.html)
 
 **Finding:**  
-The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot upon Q cast, but does gain additional damage from her Q.  
+The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot upon Q cast, but does gain additional damage from her Q.
 
 **Evidence:**  
 [Video 1](https://www.youtube.com/watch?v=srSxesh8yWg) by Hessey\#9122  
-[Video 2](https://www.youtube.com/watch?v=vmdj37M2Dxw) by Shizuka\#7791  
+[Video 2](https://www.youtube.com/watch?v=vmdj37M2Dxw) by Shizuka\#7791
 
 **Significance:**  
  Understanding game mechanics and keeping the TCL accurate.
@@ -161,23 +165,23 @@ Kokomi's burst animation lasts 75 frames, which is around 1.25 seconds (at 60 FP
 **Significance:**  
 Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the [burst snapshot](#snapshot-burst-dmg-bonus-onto-bake-kurage-by-switching) technique than what was previously thought.
 
-### Evidence for Dynamic Kokomi's Burst & A4  
-  
+### Evidence for Dynamic Kokomi's Burst & A4
+
 **By:** Lament\#2512  
 **Added:** 2022-07-14  
 [Discussion](https://tickets.deeznuts.moe/transcripts/koko-burst-snapshot)
-  
+
 **Finding:**  
 Kokomi's Burst and A4 Passive are dynamic.
-  
+
 **Evidence:**  
 Using Heal Bonus food: [Imgur](https://imgur.com/a/zP6a6HS)  
 Using HP% Food: [Imgur](https://imgur.com/a/EdCXOgt)  
 Methodology for Testing used was Q - CA - consume HP or HB food - CA
-  
+
 **Significance:**  
 Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/or HB in a delayed fashion.
-  
+
 ## Passive Mechanics
 
 ### A1: Tamanooya's Casket
@@ -192,7 +196,7 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 
 ### C1: At Water's Edge
 
-* Kokomi's C1 has no ICD and isn't shared with her Normal Attacks - [Carrier5by5#8394](https://youtu.be/E9e3pPEuI1Q) and [Aetherpon#5730](https://www.youtube.com/watch?v=mHwAE58CZc8)  
+* Kokomi's C1 has no ICD and isn't shared with her Normal Attacks - [Carrier5by5#8394](https://youtu.be/E9e3pPEuI1Q) and [Aetherpon#5730](https://www.youtube.com/watch?v=mHwAE58CZc8)
 
 ### C2: The Clouds Like Waves Rippling
 
@@ -205,7 +209,8 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 **Finding:**  
 Kokomi C2 is applied as flat healing, similar to Yunjin and Shenhe with damage. It is not applied to the heal bonus part of calculations, as the description makes it sound like.
 
-**Evidence:**  
+**Evidence:**
+
 * [Video](https://www.youtube.com/watch?v=WbsWiYr73TY)
 * [Calcs](https://docs.google.com/spreadsheets/d/1q8bL2OqdsPS8SHEHQiIkWSeY8ZIsQi6w/edit?usp=sharing&ouid=115436751943236950734&rtpof=true&sd=true)
 

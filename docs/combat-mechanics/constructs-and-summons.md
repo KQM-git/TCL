@@ -20,29 +20,28 @@ All temporary buffs are snapshotted when cast and will affect the construct for 
 
 ## List of Constructs and Characteristics
 
-| Character | Talent | Defensive Stats | Notes |
-| :--- | :--- | :--- | :--- |
-| Albedo | Skill | 1:1 | Geo |
-| Amber | Skill | Scaling | Taunt, Light |
-| Ganyu | Skill | Scaling | Taunt |
-| Gorou | Skill | Invulnerable | - | 
-| Itto | Skill | Scaling | Geo, Taunt | 
-| Kokomi | Skill | Invulnerable | - | 
-| Klee | Skill | Invulnerable | Light |
-| Ningguang | Skill | Scaling | Geo |
-| Mona | Skill | Invulnerable | Taunt |
-| Sayu | Burst | Invulnerable | Light | 
-| Traveler \(Geo\) | Skill | 1:1 | Geo, Climbable |
-| Traveler \(Geo\) | Burst | 1:1 | Geo |
-| Xiangling | Skill | Invulnerable | Light |
-| Zhongli | Skill | 1:1 | Geo, Climbable |
+| Character        | Talent | Defensive Stats | Notes          |
+| :--------------- | :----- | :-------------- | :------------- |
+| Albedo           | Skill  | 1:1             | Geo            |
+| Amber            | Skill  | Scaling         | Taunt, Light   |
+| Ganyu            | Skill  | Scaling         | Taunt          |
+| Gorou            | Skill  | Invulnerable    | -              |
+| Itto             | Skill  | Scaling         | Geo, Taunt     |
+| Kokomi           | Skill  | Invulnerable    | -              |
+| Klee             | Skill  | Invulnerable    | Light          |
+| Ningguang        | Skill  | Scaling         | Geo            |
+| Mona             | Skill  | Invulnerable    | Taunt          |
+| Sayu             | Burst  | Invulnerable    | Light          |
+| Traveler \(Geo\) | Skill  | 1:1             | Geo, Climbable |
+| Traveler \(Geo\) | Burst  | 1:1             | Geo            |
+| Xiangling        | Skill  | Invulnerable    | Light          |
+| Zhongli          | Skill  | 1:1             | Geo, Climbable |
 
-* **Geo:** Construct  towards Geo construct limit. See [Geo Constructs](#geo-constructs).  
-* **Taunt:** Construct continuously taunts nearby enemies into attacking it.  
-* **Light:** Construct can be lifted by vacuums \(such as Jean's skill\)  
+* **Geo:** Construct towards Geo construct limit. See [Geo Constructs](#geo-constructs).
+* **Taunt:** Construct continuously taunts nearby enemies into attacking it.
+* **Light:** Construct can be lifted by vacuums \(such as Jean's skill\)
 * **Climbable:** Construct can be climbed by character.
 
 ## Evidence Vault
 
 <Card item={require('../evidence/combat-mechanics/constructs-and-summons.md')} />
-

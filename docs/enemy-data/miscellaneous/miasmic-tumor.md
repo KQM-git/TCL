@@ -24,21 +24,20 @@ Unknown. Appears at lvl 88
 
 ## Attacks
 
-  * Performs a laser attack at 75%, 50%, and 25% health thresholds.  
-  
-  * Summons a Kairagi at 100%, 66%, and 33% health thresholds.  
-  
-  * After summoning the first Kairagi it will shoot a series of orbs at the player ever 6-7 seconds. These orbs do very little damage, but do inflict poise damage, staggering the player after 2 waves of being hit.
+* Performs a laser attack at 75%, 50%, and 25% health thresholds.
 
-## Interactions  
+* Summons a Kairagi at 100%, 66%, and 33% health thresholds.
 
-  * Disappears in multiplayer.
+* After summoning the first Kairagi it will shoot a series of orbs at the player ever 6-7 seconds. These orbs do very little damage, but do inflict poise damage, staggering the player after 2 waves of being hit.
 
-   * Cant hold marks or statuses.
+## Interactions
 
-  * can only have a cryo and frozen aura. reactions with those work as normal.
+* Disappears in multiplayer.
 
-  * Resistances can not be lowered.
+* Cant hold marks or statuses.
 
-  * can switch party near it, even when being hit by orbs.
+* can only have a cryo and frozen aura. reactions with those work as normal.
 
+* Resistances can not be lowered.
+
+* can switch party near it, even when being hit by orbs.

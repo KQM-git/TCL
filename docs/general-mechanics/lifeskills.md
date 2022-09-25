@@ -3,10 +3,12 @@
 ## Misc. Tips
 
 ### Statue of the Seven Healing
+
 If you place a character in a party that is not at full HP or fainted and swap to a different party, you can heal and revive them without consuming Statue of the Seven HP.
 
-### Item Pickup Speed  
-Picking up items from the bottom of the list is about 85% faster than from the top of the list.  
+### Item Pickup Speed
+
+Picking up items from the bottom of the list is about 85% faster than from the top of the list.
 
 ### Ice Bridge
 
@@ -14,13 +16,17 @@ Picking up items from the bottom of the list is about 85% faster than from the t
   * Ayaka can infinitely sprint across large bodies of water using her Dash and infused Normal Attacks to freeze the water for herself. She has time for about four basic attacks before you should dash again to avoid falling into the water.
 
 ### Always wait for Mora before Teleporting
+
 In overworld, you need to wait for flying mora to be absorbed by your character's body, if teleporting before it, the mora in mid-air will be lost **forever**.
 
 ### Auto Walking
+
 It's possible to perform auto walk if you have dead character in party. Simply click on dead character while walking so that it will bring up the revival interface for your character to continue walking forward.
+
 * You, however, cannot sprint with this method.
 
 ### Anti-Fall Mechanic
+
 Several actions in the game such as aiming down sights with Bow characters have anti-fall mechanics built in to prevent players from falling. You can take advantage of them when traversing terrains with poor foothold.
 
 ## Fishing
@@ -39,20 +45,23 @@ You can switch fishing baits when the bobber is in mid-air.
 
 ### Co-Op Trolling
 
-There are several ways to grief other people trying to fish in co-op:  
+There are several ways to grief other people trying to fish in co-op:
+
 * Use collision to move others far enough from their original fishing position to cancel their fishing.
 * Use Albedo's Elemental Skill to raise others off the ground and cancel their fishing.
 * Draw enemy aggro to other players and use enemy collision to move them away from their original fishing position and cancel their fishing.
 * Scare off fish by moving into the water or attacking the fish.
 
-### Fish Respawn  
-* All of the fishes respawn after 48-72 hours, even if the Fishing Points weren't cleared.  
+### Fish Respawn
+
+* All of the fishes respawn after 48-72 hours, even if the Fishing Points weren't cleared.
 
 ### You Cannot Fish Without The Traveler
-Fishing checks whether or not the player's Traveler is dead or alive.  
+
+Fishing checks whether or not the player's Traveler is dead or alive.
+
 * If the Traveler is alive: The active character is replaced by Traveler, a camera zoom happens, and the fishing menu pop us. Any action from the active character is immediately cancelled via swap.
 * If the Traveler is dead: Only the camera zoom happens. This can result to character close ups that overtake regular camera zooms from character Bursts.
-
 
 ## Waverider
 
@@ -60,13 +69,11 @@ Fishing checks whether or not the player's Traveler is dead or alive.
 
 Stamina restoration food doesn't restore stamina for the Waverider.
 
-### Buff Effects on Waverider  
+### Buff Effects on Waverider
 
-* The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction.  
-* Buffs and debuffs that affect enemies and not the Waverider itself, such as RES shred, DEF shred, and Mona's Omen, do work on the Waverider's attacks.  
-
+* The Waverider is unaffected by any buffs that directly affect it, such as ATK buffs, movement speed, and stamina reduction.
+* Buffs and debuffs that affect enemies and not the Waverider itself, such as RES shred, DEF shred, and Mona's Omen, do work on the Waverider's attacks.
 
 ## Evidence Vault
 
 <Card item={require('../evidence/general-mechanics/lifeskills.md')} />
-

@@ -14,22 +14,23 @@ search: false
 
 **Finding:** The shield C2 Xinyan creates on burst can proc Sac GS's passive.
 
-**Evidence:** [https://youtu.be/Q\_5qqGYf8DI](https://youtu.be/Q_5qqGYf8DI)
+**Evidence:** [https://youtu.be/Q_5qqGYf8DI](https://youtu.be/Q_5qqGYf8DI)
 
-**Significance:** More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop skill when sac GS is on CD or if the passive doesn't proc at all, because burst can also proc sac GS if your Xinyan is C2.  
+**Significance:** More chances for sacrificial procs never hurts. Also, there's less worry if you want to pop skill when sac GS is on CD or if the passive doesn't proc at all, because burst can also proc sac GS if your Xinyan is C2.
 
-## Xinyan C6 affects her Skill and Burst  
+## Xinyan C6 affects her Skill and Burst
 
 **By:** Nass008\#8577  
 **Added:** 2021-10-31  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-burst.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903997513890136085_904063136171167795_transcript-xinyan-c6-affects-skill-and-burst.html)
 
 **Finding:**  
-Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental skill and burst are dynamic, C6 buff can increase their damage.  
+Xinyan C6 affects her Skill and Burst. The un-game description for Xinyan's C6 states that “Xinyan's Charged Attacks gain an ATK bonus equal to 50% of her DEF.” However, the buff is simply added to the stats page as flat attack. Since Xinyan’s elemental skill and burst are dynamic, C6 buff can increase their damage.
 
-**Evidence:**  
-* [Xinyan stats + C6 buff added to stats page](https://imgur.com/wvvDxey)  
-* [C6 dynamically buffing Burst DoT ticks and C2 Shield DoT ticks](https://youtu.be/5oh5md4EofY)  
+**Evidence:**
+
+* [Xinyan stats + C6 buff added to stats page](https://imgur.com/wvvDxey)
+* [C6 dynamically buffing Burst DoT ticks and C2 Shield DoT ticks](https://youtu.be/5oh5md4EofY)
 
 **Significance:**  
 In-game description is pepega and on-field C6 Xinyan will do a tiny bit more damage than expected.
@@ -40,7 +41,7 @@ In-game description is pepega and on-field C6 Xinyan will do a tiny bit more dam
 **Added:** 2021-10-31  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895344911824605274_904424443059789875_transcript-xinyan-c2-shield-formation-pulses.html)
 
-**Finding:** Xinyan's C2 will cause her new shield to pulse a varying amount of times extra, depending on the player's device and settings (most notably their FPS), before continuing with the usual 6 pulses of a normal level 3 shield. This occurs regardless of already having a shield active prior to using her Burst. 
+**Finding:** Xinyan's C2 will cause her new shield to pulse a varying amount of times extra, depending on the player's device and settings (most notably their FPS), before continuing with the usual 6 pulses of a normal level 3 shield. This occurs regardless of already having a shield active prior to using her Burst.
 
 The most common amount of additional pulses is 2, between 30 and 60 FPS. Lower frame rates can result in only one pulse, while a stable 60 FPS will usually result in 3 pulses. Higher FPS (with iOS's 120 FPS option) may potentially result in more pulses.
 
@@ -55,4 +56,4 @@ Further evidence showing FPS is not the only deciding factor (15 FPS, usually pu
 Further evidence showing one pulse causing one cryo shield melt at 30fps: [YouTube](https://www.youtube.com/watch?v=dUnJg6940ws)  
 Further evidence showing three pulses causing three cryo shield melts at 60fps: [YouTube](https://www.youtube.com/watch?v=cYc0MLsZh-Y)
 
-**Significance:** This causes Xinyan's Q to deal a tiny bit more damage than expected at C2, and thanks to her shield pulses not having an ICD, may allow players that are able to play at a higher frame-rate to overtake other elemental auras more easily. For calculations, 2 pulses should be assumed as that is the most common. Additionally, this shows that differences in frame rate can have an effect on individual skills, which may warrant further investigation. 
+**Significance:** This causes Xinyan's Q to deal a tiny bit more damage than expected at C2, and thanks to her shield pulses not having an ICD, may allow players that are able to play at a higher frame-rate to overtake other elemental auras more easily. For calculations, 2 pulses should be assumed as that is the most common. Additionally, this shows that differences in frame rate can have an effect on individual skills, which may warrant further investigation.

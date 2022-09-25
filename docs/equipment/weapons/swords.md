@@ -18,7 +18,7 @@ import swords from '@site/src/data/weapons/Sword.json'
 
 <Weapon weapon="Freedom-Sworn" weapons={swords}>
 
-import MillennialMovementSeries from './_common/millennial_movement.md';
+import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <MillennialMovementSeries/>
 
@@ -56,8 +56,8 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 
 <Weapon weapon="Summit Shaper" weapons={swords}>
 
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
-* Summit Shaper can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* Summit Shaper can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -75,7 +75,7 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 
 <Weapon weapon="Blackcliff Longsword" weapons={swords}>
 
-import BlackcliffSeries from './_common/blackcliff_series.md';
+import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <BlackcliffSeries/>
 
@@ -93,7 +93,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Favonius Sword" weapons={swords}>
 
-import FavSeries from './_common/fav_series.md';
+import FavSeries from './\_common/fav_series.md';
 
 <FavSeries/>
 
@@ -119,7 +119,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Lion's Roar" weapons={swords}>
 
-import BaneSeries from './_common/bane_series.md';
+import BaneSeries from './\_common/bane_series.md';
 
 <BaneSeries/>
 
@@ -133,7 +133,7 @@ import BaneSeries from './_common/bane_series.md';
 
 <Weapon weapon="Royal Longsword" weapons={swords}>
 
-import RoyalSeries from './_common/royal_series.md';
+import RoyalSeries from './\_common/royal_series.md';
 
 <RoyalSeries/>
 
@@ -143,7 +143,7 @@ import RoyalSeries from './_common/royal_series.md';
 
 <Weapon weapon="Sacrificial Sword" weapons={swords}>
 
-import SacSeries from './_common/sac_series.md';
+import SacSeries from './\_common/sac_series.md';
 
 <SacSeries/>
 
@@ -199,7 +199,7 @@ import SacSeries from './_common/sac_series.md';
 
 <Weapon weapon="Fillet Blade" weapons={swords}>
 
-* The passive cannot be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
+* The passive cannot be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -238,4 +238,3 @@ import SacSeries from './_common/sac_series.md';
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

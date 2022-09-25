@@ -17,8 +17,8 @@ Many characters have a primary camera that normally tracks them and a secondary 
 **Evidence:**
 
 * [https://imgur.com/qH0k5sG](https://imgur.com/qH0k5sG)
-* [https://imgur.com/aAT0UX8](https://imgur.com/aAT0UX8) 
-* [https://imgur.com/iEpCC5E](https://imgur.com/iEpCC5E) 
+* [https://imgur.com/aAT0UX8](https://imgur.com/aAT0UX8)
+* [https://imgur.com/iEpCC5E](https://imgur.com/iEpCC5E)
 * [https://www.youtube.com/watch?v=4u0c-Pmfn5s](https://www.youtube.com/watch?v=4u0c-Pmfn5s)
 * [https://www.youtube.com/watch?v=LYxdAABh9F4](https://www.youtube.com/watch?v=LYxdAABh9F4)
 * [Details on Raycasting](https://docs.unity3d.com/ScriptReference/Physics.Raycast.html)
@@ -37,10 +37,10 @@ Many characters have a primary camera that normally tracks them and a secondary 
 
 * Walls
 * Rock features
-* Geo Constructs: 
+* Geo Constructs:
   * Wake of Earth
   * Starfell Sword
-  * Stone Stele 
+  * Stone Stele
 * Geo Samachurl pillars
 * Cryo Samachurl pillar
 * Geo Hypostasis pillar
@@ -79,4 +79,3 @@ The other more likely explanation of why mobs don't proc zoom cancels is that mo
 Zoom cancel in water can't be completely explained by raycasting, but it makes sense to detect if a character is standing in water while doing their elemental burst in order to prevent clipping. Most raycasting programs ignore water because water usually doesn't have a defined hitbox. Detecting if a character is standing in water is much easier than raycasting as well. Standing in water in order to cancel the zoom seems to be a recent development. There seems to be an exception with Mona's ability to zoom cancel in water, because her elemental burst includes water.
 
 **Does it increase DPS?** The answer is that hitlag adjusted frame counts are the same with or without zoom cancel. Mobile players can still use touch controls if they zoom cancel. There is no difference for PC or controller players.
-

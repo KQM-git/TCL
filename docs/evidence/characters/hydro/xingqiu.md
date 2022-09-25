@@ -8,7 +8,7 @@ search: false
 
 <Card item={require('../../../characters/hydro/xingqiu.md')} />
 
-## Skill Mechanics  
+## Skill Mechanics
 
 ### Xingqiu E Double Vaporize
 
@@ -37,7 +37,7 @@ Xingqiu Rain Sword DMG reduction does not take the Hydro DMG bonus gained from K
 
 **Evidence:**  
 [Rain Swords Unbuffed](https://youtu.be/bb0ftQK8nzg)  
-[Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)  
+[Rain Swords Buffed by Kazuha A4](https://youtu.be/zC7hKgO6A2c)
 
 **Significance:**  
 A team consists of Kazuha and Xingqiu may have marginally less survivability than they would, because damage reduction did not count as a conferrable attribute.
@@ -77,7 +77,8 @@ While Xingqiu's burst Hydro Swords are dynamic, the damage reduction from the Ra
 
 Verified. Also, a similar instance occurs when using Streaming Essential Oil \(25% Hydro DMG% increase potion\), so we know it's not limited to just Barbara.
 
-### Xingqiu Damage Reduction is Affected By Omni Damage Bonus 
+### Xingqiu Damage Reduction is Affected By Omni Damage Bonus
+
 **By:** Balakin1\#7545  
 **Added:** 2022-05-05  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971892805431595069_transcript-xingqiu-dr-omni-damage-bonus.html)
@@ -85,22 +86,23 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 **Finding:**  
 Xingqiu's damage reduction is affected by omni-damage bonus effects such as the one from Mistsplitter's passive.
 
-**Evidence:**  
-* [No E](https://youtu.be/ivtT4KXG0uY)  
-* [Sac](https://youtu.be/a6Uxi_Fo4sk)  
-* [MSR 0 stacks](https://youtu.be/jm9nkfvgHy4)  
-* [MSR 2 stacks](https://youtu.be/DV35YuvwLao)  
+**Evidence:**
+
+* [No E](https://youtu.be/ivtT4KXG0uY)
+* [Sac](https://youtu.be/a6Uxi_Fo4sk)
+* [MSR 0 stacks](https://youtu.be/jm9nkfvgHy4)
+* [MSR 2 stacks](https://youtu.be/DV35YuvwLao)
 
 **Explanation/Math:**  
-For the "DR in theory" values, it was 26% + .2 * (81.6% + x), with x being 12% and (12 + 16)% being added for MSR0 and MSR2 respectively, otherwise 0  
+For the "DR in theory" values, it was 26% + .2 \* (81.6% + x), with x being 12% and (12 + 16)% being added for MSR0 and MSR2 respectively, otherwise 0  
 For the "DR in practice" values, it was 1-(largest number)/(No E's largest number)  
 Note: there are 3 damage numbers because I finished gathering clips vs a lawachurl before someone suggested using an electro crystal  
-TL7, 81.6% Damage bonus w/o weapon  
+TL7, 81.6% Damage bonus w/o weapon
 
 No E: 771, 1543, 3086 (0% DR)  
-Sac : 445,  890, 1780 (42.32% DR in theory, 42.320% DR in practice)  
-MSR0: 426,  853, 1706 (44.72% DR in theory, 44.718% DR in practice)  
-MSR2: 414,  828, 1656 (47.92% DR in theory, 46.338% DR in practice)
+Sac : 445, 890, 1780 (42.32% DR in theory, 42.320% DR in practice)  
+MSR0: 426, 853, 1706 (44.72% DR in theory, 44.718% DR in practice)  
+MSR2: 414, 828, 1656 (47.92% DR in theory, 46.338% DR in practice)
 
 **Significance:**  
 Better understanding of Xingqiu's Damage Reduction and how it interacts with different sources of Elemental DMG Bonus.
@@ -139,7 +141,7 @@ Xingqiu Orbital ICD is 2.25 Seconds
 **Significance:**  
 Better knowledge for teambuilding and rotations.
 
-## Burst Mechanics 
+## Burst Mechanics
 
 ### Xingqiu's Q Damage Calculation is Dynamic
 
@@ -237,6 +239,7 @@ It is possible to trigger Xingqiu Burst Sword Rain multiple times on a single No
 
 **Evidence:**  
 All Testing was done on 2.6 at 60 fps. Did on both high ping and low ping and seems that its not ping dependant. Looks like if the animation is longer than 1 second, it can proc 2 sets of waves. Although some animations take a long time they don't trigger it like Keqing's one.
+
 * Yae Low Ping - [Imgur](https://imgur.com/w26BRRB)
 * Yae High Ping - [YouTube](https://youtu.be/wZYb8-j8iMY)
 * Shenhe N3 and N5 - [Youtube](https://youtu.be/3e3_tKOwsg0)
@@ -252,18 +255,19 @@ Documenting how on-normal-animation effects can actually trigger multiple times 
 
 **By:** lucianekat\#7757  
 **Added:** 2022-07-28  
-[Discussion](https://tickets.deeznuts.moe/transcripts/each-wave-of-xingqius-burst-snapshots-when-summoned)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/each-wave-of-xingqius-burst-snapshots-when-summoned)
 
 **Finding:**  
-Each wave of sword rain attacks from Xingqiu's burst snapshots buffs when summoned.  
+Each wave of sword rain attacks from Xingqiu's burst snapshots buffs when summoned.
 
-**Evidence:**  
+**Evidence:**
+
 * Without TTDS, Xingqiu's ATK was 1181 and one hit from his burst did 432 damage on a crit: [YouTube](https://youtu.be/JuMcWCxYwow)
 * With TTDS, Xingqiu's ATK was 1485 and one hit from his burst did 544 damage on a crit: [YouTube](https://youtu.be/kbSCkUKflSE)
 * In [this video](https://youtu.be/8Pd2IY0f4wQ), I applied the TTDS buff to Xingqiu (ATK became 1485) and then summoned a wave of Xingqiu's sword rain attacks just before the TTDS buff ran out. The result was that the sword rain attacks did 544 damage on a crit (the damage of a hit buffed by TTDS). We know TTDS expired before the enemy was hit since Xingqiu's ATK was 1181 on the character screen just before the attack hit.
 
 **Significance:**  
-Better understanding of Xingqiu's burst and snapshotting. Although in practice, Xingqiu's burst uses buffs dynamically, once a wave of sword rain attacks is summoned, that wave has snapshotted Xingqiu's stats and is NOT dynamic anymore.  
+Better understanding of Xingqiu's burst and snapshotting. Although in practice, Xingqiu's burst uses buffs dynamically, once a wave of sword rain attacks is summoned, that wave has snapshotted Xingqiu's stats and is NOT dynamic anymore.
 
 ## Constellation Mechanics
 
@@ -286,22 +290,23 @@ Better understanding of Xingqiu's burst and snapshotting. Although in practice, 
 
 **By:** Steno\#0119  
 **Added:** 2022-03-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953826281793933312_transcript-xq-eqe-vs-qee.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953826281793933312_transcript-xq-eqe-vs-qee.html)
 
 **Finding:**  
-Xingqiu EQE leads to about a 0.5 \- 1s longer rotation time on average compared to QEE or EEQ in teams where Xingqiu E CD gates the rotation time.  
+Xingqiu EQE leads to about a 0.5 \- 1s longer rotation time on average compared to QEE or EEQ in teams where Xingqiu E CD gates the rotation time.
 
-This is because when performing EQE, his E CD is not ticking down during Q cast, whereas with QEE, this problem is avoided.  
+This is because when performing EQE, his E CD is not ticking down during Q cast, whereas with QEE, this problem is avoided.
 
 Additional notes:
+
 * QEE has the highest damage from C4.
 * EEQ has the highest energy potential for Xingqiu due to him catching particles from both Es.
-* EQE is the easiest combo to perform since it does not require dash cancels. In terms of animation time, the three combos are close enough that human error renders the differences minimal.  
+* EQE is the easiest combo to perform since it does not require dash cancels. In terms of animation time, the three combos are close enough that human error renders the differences minimal.
 
 **Evidence:**  
-[Video 1](https://youtu.be/A1DF98OHyIo): This clip compares EQE (left) and QEE (right) side by side with E CDs shown in the bottom right corners. The frame counter starts at the beginning of the first E press on both clips, and right clip starts to pull ahead by a larger margin for every rotation.  
+[Video 1](https://youtu.be/A1DF98OHyIo): This clip compares EQE (left) and QEE (right) side by side with E CDs shown in the bottom right corners. The frame counter starts at the beginning of the first E press on both clips, and right clip starts to pull ahead by a larger margin for every rotation.
 
-[Video 2](https://youtu.be/N_E4wFXDis0) \(evidence for additional notes\): Very rough comparison between the three combos, NOT FRAME PERFECT, this is meant to show how fast an average player would perform these combos.  
+[Video 2](https://youtu.be/N_E4wFXDis0) \(evidence for additional notes\): Very rough comparison between the three combos, NOT FRAME PERFECT, this is meant to show how fast an average player would perform these combos.
 
 **Significance:**  
 Optimizing rotation times on teams with Xingqiu.

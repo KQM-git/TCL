@@ -31,7 +31,7 @@ On our own characters, the Element does not fade out, but immediately disappears
 
 Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
-[https://youtu.be/cUWXy\_PNO\_E](https://youtu.be/cUWXy_PNO_E)
+[https://youtu.be/cUWXy_PNO_E](https://youtu.be/cUWXy_PNO_E)
 
 Enemy skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
@@ -46,24 +46,25 @@ This allows us to more precisely measure frames on reactions due to the way frie
 
 **By:** Mr. Pillow\#0065, ShampooBrain\#9583  
 **Added:** 2022-08-24  
-[Discussion](https://tickets.deeznuts.moe/transcripts/geo-aura-investigation)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/geo-aura-investigation)
 
 **Finding:**  
-Geo "aura" investigation.  
-  
+Geo "aura" investigation.
+
 **Evidence:**  
-There exists a Geo aura in some enemies \(Geo Hypostasis, Shielded Large Geo Slime, Armored Stonehide Lawachurl and Armoed Fatui Skirmisher - Geochanter Bracer\) and in the Petrified status from Zhongli's Elemental Burst. This aura possesses some interesting properties:  
-  
+There exists a Geo aura in some enemies \(Geo Hypostasis, Shielded Large Geo Slime, Armored Stonehide Lawachurl and Armoed Fatui Skirmisher - Geochanter Bracer\) and in the Petrified status from Zhongli's Elemental Burst. This aura possesses some interesting properties:
+
 * Opponents who have this aura have a Geo symbol above them, which can also appear above special boss-like health-bars, and they also have the Geo color when looked at with the Elemental Sight. [YouTube](https://www.youtube.com/watch?v=A5Ro0vl4aY0.)
 * The aura is completely inert; not even Crystallize can be triggered. Geo aura can co-exist with other Elements. [YouTube](https://www.youtube.com/watch?v=p2Ko4uSVujo.)
-* Geo attacks don't apply the Geo aura. [YouTube](https://www.youtube.com/watch?v=5GlX5SjeyFs)  
-* You can still cause a Crystallize reaction on an opponent with the Geo aura if you apply an Element and then hit with a Geo attack. [YouTube](https://youtu.be/5kOcGatrkMo)  
-* Zhongli Hold E doesn't deplete the Geo aura from Petrification. [YouTube](https://www.youtube.com/watch?v=pTOkctw_wNk)  
-  
-Other remarks:  
+* Geo attacks don't apply the Geo aura. [YouTube](https://www.youtube.com/watch?v=5GlX5SjeyFs)
+* You can still cause a Crystallize reaction on an opponent with the Geo aura if you apply an Element and then hit with a Geo attack. [YouTube](https://youtu.be/5kOcGatrkMo)
+* Zhongli Hold E doesn't deplete the Geo aura from Petrification. [YouTube](https://www.youtube.com/watch?v=pTOkctw_wNk)
+
+Other remarks:
+
 * Geo aura doesn't have natural decay. It lasts until a status is removed \(e.g. Petrification duration ends, or the Geo Shield/Armor is broken\)
-* Depletion of "GU" from Geo shields/armors should probably be attributed to the shield/armor mechanics, and not the Geo aura itself.  
-  
+* Depletion of "GU" from Geo shields/armors should probably be attributed to the shield/armor mechanics, and not the Geo aura itself.
+
 **Significance:**  
 Better understanding of the Elements.
 
@@ -71,13 +72,13 @@ Better understanding of the Elements.
 
 **By:** vinsette\#0293  
 **Added:** 2022-08-24  
-[Discussion](https://tickets.deeznuts.moe/transcripts/elemental-node-infusion-has-icd)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/elemental-node-infusion-has-icd)
 
 **Finding:**  
-Elemental Nodes and Infusion Stones have a 3-Hit ICD per target.  
+Elemental Nodes and Infusion Stones have a 3-Hit ICD per target.
 
 **Evidence:**  
 [YouTube](https://m.youtube.com/watch?v=nMFPDOb3z24) \(credit to Kaleamaranth\#6687\)
 
 **Significance:**  
-Adding this mechanic into the TCL from the wiki. Prolonged fights with Elemental Nodes and Infusion Stones won't require you to repeatedly purge off their infusion if you can clear it.  
+Adding this mechanic into the TCL from the wiki. Prolonged fights with Elemental Nodes and Infusion Stones won't require you to repeatedly purge off their infusion if you can clear it.

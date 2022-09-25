@@ -14,51 +14,54 @@ Eye.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 75% HP | 1 orb | electro 
-| 50% HP | 1 orb | electro 
-| 25% HP | 1 orb | electro
-| Death | 1 particle | electro
+| HP Threshold | Type       | Element |
+| :----------- | :--------- | :------ |
+| 75% HP       | 1 orb      | electro |
+| 50% HP       | 1 orb      | electro |
+| 25% HP       | 1 orb      | electro |
+| Death        | 1 particle | electro |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | Immune |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | Immune     |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 124025 |
-| 65 | 163056 |
-| 70 | 205129 |
-| 75 | 256676 |
-| 80 | 330913 |
-| 85 | 422774 |
-| 90 | 519404 |
-| 95 | 636001 |
-| 100 | 776440 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 124025 |
+| 65    | 163056 |
+| 70    | 205129 |
+| 75    | 256676 |
+| 80    | 330913 |
+| 85    | 422774 |
+| 90    | 519404 |
+| 95    | 636001 |
+| 100   | 776440 |
 
 ## Attacks
 
-Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its' fury if the player is caught in them.  
+Like Specters, the Thunder Manifestation has a "Fury" bar which is initially empty. In its passive state, the Thunder Manifestation only unleashes strike probes and occasional shockwaves that increase its' fury if the player is caught in them.
 
 ### While not Enraged:
+
 * Flies into the air and releases several Electro probes around the arena that pulse intermittently.
   * Upon entering the range of these sigils while it is pulsing, the Thunder Manifestation gains 25% Rage.
-* Performs several lightning strikes randomly around the arena.  
+* Performs several lightning strikes randomly around the arena.
 
-After reaching ~75% HP, if not enraged, unleashes a full Electro shockwave that deals Electro DMG and automatically enraging the Manifestation.  
+After reaching ~75% HP, if not enraged, unleashes a full Electro shockwave that deals Electro DMG and automatically enraging the Manifestation.
+
 ### While Enraged:
+
 * Teleports to any point of the arena instantly.
 * Curls up and rotates its wings, quickly slicing forward.
 * Flies into the air and roars, sending out Electro shockwaves in a huge AoE.

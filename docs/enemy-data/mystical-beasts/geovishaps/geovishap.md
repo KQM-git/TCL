@@ -13,40 +13,40 @@ Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 particle | infused element 
-| 33% HP | 1 particle | infused element
-| Death | 1 orb | infused element
+| HP Threshold | Type       | Element         |
+| :----------- | :--------- | :-------------- |
+| 66% HP       | 1 particle | infused element |
+| 33% HP       | 1 particle | infused element |
+| Death        | 1 orb      | infused element |
 
 ## Resistance Table
 
 All geovishaps have +20% (30% total) resistance to the element they infuse with upon transformation.
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 30% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 50% |
+| :---------- | :--------- |
+| Physical    | 30%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 50%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 67050 |
-| 65 | 79863 |
-| 70 | 104416 |
-| 75 | 119367 |
-| 80 | 148526 |
-| 85 | 163395 |
-| 90 | 194833 |
-| 95 | 221991 |
-| 100 | 294121 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 67050  |
+| 65    | 79863  |
+| 70    | 104416 |
+| 75    | 119367 |
+| 80    | 148526 |
+| 85    | 163395 |
+| 90    | 194833 |
+| 95    | 221991 |
+| 100   | 294121 |
 
 ## Attacks
 

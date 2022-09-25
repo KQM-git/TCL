@@ -32,38 +32,39 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-hit | 66.36% | 15 | 265.44% | 12.9 | 1 |
-| 2-Hit | 66.36% | 33 | 241.31% | 13.2 | 1 |
-| 3-Hit | 85.32% | 72 | 181.70% | 15 | 1 |
-| 4-Hit | 86.9% | 113 | 161.92% | 14.4 | 1 |
-| 5-Hit | 109.02% | 144 | 172.48% | 16.5 | 1 |
+| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :------ | :----------- | :----------- |
+| 1-hit  | 66.36%    | 15     | 265.44% | 12.9         | 1            |
+| 2-Hit  | 66.36%    | 33     | 241.31% | 13.2         | 1            |
+| 3-Hit  | 85.32%    | 72     | 181.70% | 15           | 1            |
+| 4-Hit  | 86.9%     | 113    | 161.92% | 14.4         | 1            |
+| 5-Hit  | 109.02%   | 144    | 172.48% | 16.5         | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
-| With Recovery | - | 25 | 193.392%/s | - |  - | - |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 2B | 20 \(Headshot: 60\) | 5 |
-| With Recovery | - | 96 | 131.75%/s | - | - | - |
+| Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
+| :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
+| Aimed Shot    | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2            |
+| With Recovery | -         | 25     | 193.392%/s | -   | -                   | -            |
+| Fully Charged | 210.8%    | 86     | 147.07%/s  | 2B  | 20 \(Headshot: 60\) | 5            |
+| With Recovery | -         | 96     | 131.75%/s  | -   | -                   | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 10 | 2 |
-| Low Plunge DMG | 208.77% | 50 | 2 |
-| High Plunge DMG | 260.76% | 100 | 3 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 104.41%   | 10           | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 2            |
+| High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
 
 **Notes**
+
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
 </TabItem>
@@ -73,30 +74,31 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Effect | Skill |
-| :--- | :--- |
-| Explosion DMG \(T9%\) | 209.44% |
-| Inherited HP \(T9%\) | 70.31% |
-| Particles | 4 \(-\) |
-| Frames | 35 |
-| GU | 2B |
-| ICD | None |
-| Snapshot | Snapshots |
-| Damage Element | Pyro |
-| Damage Type | Skill | 
-| Duration | 8s |
-| Cooldown | 15s |
-| Explosion Poise Damage | 260 |
-| Explosion Impulse Type | 5 |
+| Effect                 | Skill     |
+| :--------------------- | :-------- |
+| Explosion DMG \(T9%\)  | 209.44%   |
+| Inherited HP \(T9%\)   | 70.31%    |
+| Particles              | 4 \(-\)   |
+| Frames                 | 35        |
+| GU                     | 2B        |
+| ICD                    | None      |
+| Snapshot               | Snapshots |
+| Damage Element         | Pyro      |
+| Damage Type            | Skill     |
+| Duration               | 8s        |
+| Cooldown               | 15s       |
+| Explosion Poise Damage | 260       |
+| Explosion Impulse Type | 5         |
 
 </div>
 
 **Notes**
+
 * The explosion has the blunt attribute that lets it damage shields and shatter frozen enemies like claymores.
 * **Baron Bunny** can be picked up by Anemo units like Jean and Sucrose when they use their elemental skills.
 * The explosion radius is smaller than the animation so take care when aiming it.
-* Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen. 
-  * Only environmental effects may apply the hydro aura. 
+* Baron Bunny is allowed to have a hydro or cryo aura, as well as be frozen.
+  * Only environmental effects may apply the hydro aura.
   * Most reactions function properly on this aura, notably: crystalize, swirl, superconduct, and shatter.
 * Multiple Baron Bunnies can be spawned without C4 when utilizing cooldown reduction effects.
 * **Baron Bunny**'s duration starts when it lands, not when the Skill is casted.
@@ -111,33 +113,34 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Effect | Burst |
-| :--- | :--- |
-| Wave DMG \(T9%\) | 47.74% |
-| Total DMG \(T9%\) | 859.25% \(18 Waves\) |
-| Cast Frames | 135 |
-| Energy Frame | 64 |
-| CD Frame | 58 |
-| GU | 1A |
-| ICD | 3 hits / 2.5s |
-| Snapshot | Snapshots |
-| Damage Element | Pyro |
-| Damage Type | Burst |
-| Energy Cost | 40 |
-| Duration | 2s |
-| CD | 12s |
-| Poise Damage | Main Arrows: 7.22 x5 <br/> Sub Arrows: 7.22 x13 |
-| Impulse Type | Main Arrows: 2 x5 <br/> Sub Arrows: 0 x13 |
+| Effect            | Burst                                           |
+| :---------------- | :---------------------------------------------- |
+| Wave DMG \(T9%\)  | 47.74%                                          |
+| Total DMG \(T9%\) | 859.25% \(18 Waves\)                            |
+| Cast Frames       | 135                                             |
+| Energy Frame      | 64                                              |
+| CD Frame          | 58                                              |
+| GU                | 1A                                              |
+| ICD               | 3 hits / 2.5s                                   |
+| Snapshot          | Snapshots                                       |
+| Damage Element    | Pyro                                            |
+| Damage Type       | Burst                                           |
+| Energy Cost       | 40                                              |
+| Duration          | 2s                                              |
+| CD                | 12s                                             |
+| Poise Damage      | Main Arrows: 7.22 x5 <br/> Sub Arrows: 7.22 x13 |
+| Impulse Type      | Main Arrows: 2 x5 <br/> Sub Arrows: 0 x13       |
 
 </div>
 
 **Notes**
+
 * Applies 1A worth of pyro 6 times, following normal ICD rules.
 * Does 18 waves total over 2 seconds in the center of the AoE.
 * 8 of the waves cover approximately the outer half the size of the marker.
-* 10 waves cover the inner half of the marker.  
+* 10 waves cover the inner half of the marker.
 * Anything in the outer half is expected to get hit a random number of times, with closer to the edge being lower in the number of hits.
-* The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent. 
+* The random arrow distribution in Amber's burst makes the reaction potential of her burst as the trigger very inconsistent.
 
 </TabItem>
 </Tabs>
@@ -156,12 +159,13 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 
-| Extra Arrow | Poise Damage | Impulse Type |
-|:--- | :--- | :--- |
-| Aime Shot | 2 \(Headshot: 6\) | 2 \(Headshot: 5\) |
+| Extra Arrow   | Poise Damage       | Impulse Type      |
+| :------------ | :----------------- | :---------------- |
+| Aime Shot     | 2 \(Headshot: 6\)  | 2 \(Headshot: 5\) |
 | Fully Charged | 4 \(Headshot: 12\) | 2 \(Headshot: 5\) |
 
 **Notes**
+
 * The second arrow is fired 10 degrees vertically below actual aiming, has separate critical, and also makes the primary shot travel further before it starts dropping down.
 * C1 damage instance is considered CA damage.
 * Shared ICD with Charged Attack.
@@ -172,9 +176,10 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
-* Explosion via manual detonation deals 200% additional DMG.  
-* C2 damage instance is considered skill damage.  
-* Baron Bunny snapshots.  
+
+* Explosion via manual detonation deals 200% additional DMG.
+* C2 damage instance is considered skill damage.
+* Baron Bunny snapshots.
 * In CO-OP, teammates can manually detonate each other's Baron Bunnies, but the damage bonus will only apply if both players have C2.
 
 </TabItem>
@@ -205,4 +210,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/pyro/amber.md')} />
-

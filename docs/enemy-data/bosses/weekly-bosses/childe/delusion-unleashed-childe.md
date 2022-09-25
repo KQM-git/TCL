@@ -21,35 +21,35 @@ None.
 All res -50% while stunned.
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 0% |
-| Pyro | 0% |
-| Dendro | 0% |
-| Hydro | 0% |
-| Electro | 50% |
-| Anemo | 0% |
-| Cryo | 0% |
-| Geo | 0% |
+| :---------- | :--------- |
+| Physical    | 0%         |
+| Pyro        | 0%         |
+| Dendro      | 0%         |
+| Hydro       | 0%         |
+| Electro     | 50%        |
+| Anemo       | 0%         |
+| Cryo        | 0%         |
+| Geo         | 0%         |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 50288 |
-| 65 | 59897 |
-| 70 | 78312 |
-| 75 | 89525 |
-| 80 | 111394 |
-| 85 | 122546 |
-| 90 | 146125 |
-| 95 | 166493 |
-| 100 | 220591 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 50288  |
+| 65    | 59897  |
+| 70    | 78312  |
+| 75    | 89525  |
+| 80    | 111394 |
+| 85    | 122546 |
+| 90    | 146125 |
+| 95    | 166493 |
+| 100   | 220591 |
 
 ## Attacks
 
-Upon transitioning to this phase, Childe will dash to the center of the arena, causing a large Hydro AoE knock-back at the center of the arena that does not deal damage.  
+Upon transitioning to this phase, Childe will dash to the center of the arena, causing a large Hydro AoE knock-back at the center of the arena that does not deal damage.
 
-* Any attack that hits the player will leave a Riptide mark.  
+* Any attack that hits the player will leave a Riptide mark.
 * Attacks that hit characters already marked by Riptide will deal additional AoE Electro DMG.
   * The mark can be removed by touching the arena's barrier to trigger an Overloaded reaction. This reaction does not deal damage to the character but may cause the character to be knocked back.
   * The mark can also be removed with characters that apply certain elements to themselves or other characters
@@ -62,9 +62,9 @@ Upon transitioning to this phase, Childe will dash to the center of the arena, c
 * Unleashes energy deep within, creating a domain of Electro energy that deals a moderate amount of Electro DMG around him.
 * Performs 2 consecutive attacks forward.
 * Slides quickly to any point of the arena, dealing Electro DMG in his wake, and performs a cross slash at the destination point.
-* Slides quickly to any point of the arena, dealing Electro DMG in his wake, and performs 5 consecutive strike at the destination point (slash, slash, slash, thrust, spinning slash). 
+* Slides quickly to any point of the arena, dealing Electro DMG in his wake, and performs 5 consecutive strike at the destination point (slash, slash, slash, thrust, spinning slash).
   * The fourth attack has further attack range.
-* Performs a five attack combo (slash, slash, dual slash, lance throw, spinning slash). 
+* Performs a five attack combo (slash, slash, dual slash, lance throw, spinning slash).
   * The lance throw and spinning slash are AoEs.
 * Performs a slash with a large AoE, dealing a moderate amount of Electro DMG in a 180° arc towards the player.
 * Childe performs 2 to 5 consecutive dash attacks, dealing Electro DMG in his wake.

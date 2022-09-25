@@ -12,6 +12,7 @@ import { getSkillName } from '@site/src/utils/skill'
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
+
 * [6 Minute Guide to Thoma](https://youtu.be/hWj-Ps6QzwE)
 
 ## Base Stats
@@ -30,32 +31,31 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 81.56% | 11 | 444.87% | 41.3 | 3 |
-| 2-Hit DMG | 80.15% | 49 | 198% | 40.58 | 3 |
-| 3-Hit DMG | 49.22% ×2 | \(76 + 89\) | 175.38% | 24.95 x2 | 2 + 3 |
-| 4-Hit DMG | 123.75% | 114 | 202.05% | 62.66 | 6 |
-| Recovery | - | 155 | - | - | - |
+| String    | Talent 9% | Frames      | MV/s    | Poise Damage | Impulse Type |
+| :-------- | :-------- | :---------- | :------ | :----------- | :----------- |
+| 1-Hit DMG | 81.56%    | 11          | 444.87% | 41.3         | 3            |
+| 2-Hit DMG | 80.15%    | 49          | 198%    | 40.58        | 3            |
+| 3-Hit DMG | 49.22% ×2 | \(76 + 89\) | 175.38% | 24.95 x2     | 2 + 3        |
+| 4-Hit DMG | 123.75%   | 114         | 202.05% | 62.66        | 6            |
+| Recovery  | -         | 155         | -       | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 207.14% | \(14+56\) | - | 120 | 5 |
+| String             | Talent 9% | Frames    | MV/s | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :-------- | :--- | :----------- | :----------- |
+| Charged Attack DMG | 207.14%   | \(14+56\) | -    | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| String | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 117.46% | 25 | 2 |
-| Low Plunge DMG | 234.86% | 100 | 4 |
-| High Plunge DMG | 293.36% | 150 | 7 | 
+| String          | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
 </TabItem>
@@ -65,32 +65,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 248.88% |
-| Particles | 3~4 \(3:2\) |
-| Frames | 44 | 
-| GU | 1A | 
-| ICD | - |
-| Snapshot | - | 
-| Damage Element | Pyro |
-| Damage Type | Skill |
-| CD | 15s |
-| Poise Damage | 150 |
-| Impulse Type | 3 |
+| Attribute         | Skill       |
+| :---------------- | :---------- |
+| Skill DMG \(T9%\) | 248.88%     |
+| Particles         | 3~4 \(3:2\) |
+| Frames            | 44          |
+| GU                | 1A          |
+| ICD               | -           |
+| Snapshot          | -           |
+| Damage Element    | Pyro        |
+| Damage Type       | Skill       |
+| CD                | 15s         |
+| Poise Damage      | 150         |
+| Impulse Type      | 3           |
 
-| Attribute | Shield |
-| :--- | :--- |
-| Shield DMG Absorption \(T9%\) | 12.24% Max HP + 1410 |
+| Attribute                         | Shield               |
+| :-------------------------------- | :------------------- |
+| Shield DMG Absorption \(T9%\)     | 12.24% Max HP + 1410 |
 | Max Shield DMG Absorption \(T9%\) | 33.32% Max HP + 3838 |
-| Shield Element | Pyro | 
-| Shield Duration | 8 s |
-| CD | 15s |
+| Shield Element                    | Pyro                 |
+| Shield Duration                   | 8 s                  |
+| CD                                | 15s                  |
 
 </div>
 
 **Notes**
-* Thoma's E refreshing the shield for Burst does not make it lose Shield Strength. 
+
+* Thoma's E refreshing the shield for Burst does not make it lose Shield Strength.
 * Losing the shield will reset its stacks.
 
 </TabItem>
@@ -100,33 +101,34 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Skill | Fiery Collapse |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 149.6% | 98.6% |
-| Cast Frames | 56 | - |
-| Energy Frame | 9 |
-| CD Frame | 1 |
-| GU | 2B | 1A |
-| ICD | 3 hits / 2.5s | 3 hits / 2.5s |
-| Snapshot | Dynamic | Dynamic |
-| Damage Element | Pyro | Pyro |
-| Damage Type | Burst | Burst |
-| Energy Cost | 80 | - | 
-| Duration | - | 15s |
-| CD | 20s | - | 
-| Poise Damage | 200 | 35 |
-| Impulse Type | 3 | 2 |
+| Attribute         | Skill         | Fiery Collapse |
+| :---------------- | :------------ | :------------- |
+| Skill DMG \(T9%\) | 149.6%        | 98.6%          |
+| Cast Frames       | 56            | -              |
+| Energy Frame      | 9             |
+| CD Frame          | 1             |
+| GU                | 2B            | 1A             |
+| ICD               | 3 hits / 2.5s | 3 hits / 2.5s  |
+| Snapshot          | Dynamic       | Dynamic        |
+| Damage Element    | Pyro          | Pyro           |
+| Damage Type       | Burst         | Burst          |
+| Energy Cost       | 80            | -              |
+| Duration          | -             | 15s            |
+| CD                | 20s           | -              |
+| Poise Damage      | 200           | 35             |
+| Impulse Type      | 3             | 2              |
 
 </div>
 
-| Attribute | Scorching Ooyoroi |
-| :--- | :--- |
+| Attribute                     | Scorching Ooyoroi  |
+| :---------------------------- | :----------------- |
 | Shield DMG Absorption \(T9%\) | 1.94% Max HP + 224 |
-| Shield Duration | 8 s |
-| Scorching Ooyoroi Duration | 15 s |
-| CD | 20 s |
+| Shield Duration               | 8 s                |
+| Scorching Ooyoroi Duration    | 15 s               |
+| CD                            | 20 s               |
 
 **Notes**
+
 * The initial hit of **Crimson Ooyoroi** and **Fiery Collapse** damage has separate ICDs.
 * The **Blazing Barrier** from Crimson Ooyoroi will stack with an existing shield created by **Blazing Blessing**, retaining the HP from the previous **Blazing Barrier**.
 
@@ -146,8 +148,9 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={0} />
 
 **Notes**
+
 * Thoma's Shield Strength gain from **Imbricated Armor** doesn't persist on swap.
-* **Blazing Barrier**s obtained from both Thoma's Elemental Skill and Elemental Burst counts towards **Imbricated Armor's** condition to stack Shield Strength. 
+* **Blazing Barrier**s obtained from both Thoma's Elemental Skill and Elemental Burst counts towards **Imbricated Armor's** condition to stack Shield Strength.
 
 </TabItem>
 
@@ -185,7 +188,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 **Notes**
-* Every time Thoma's shield gets refreshed during Burst, the timer on  **Burning Heart**'s buff is refreshed.
+
+* Every time Thoma's shield gets refreshed during Burst, the timer on **Burning Heart**'s buff is refreshed.
 
 </TabItem>
 </Tabs>

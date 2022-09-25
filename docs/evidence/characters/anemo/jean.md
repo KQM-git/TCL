@@ -11,18 +11,20 @@ search: false
 ## Attack Mechanics
 
 ### Jean CA Visual Effect
+
 **By:** ASnowOwI\#7234  
-**Added:** 2021-12-30  
+**Added:** 2021-12-30
 
 **Finding:** Jean's CA visual and audio effect will appear on more than just enemies, as well as even appearing on enemies that don't get lifted at all.
 
-**Evidence:** 
+**Evidence:**
+
 * Torch: [Youtube](https://youtu.be/URAVSQvPUCs)
 * Ruin Guard: [Youtube](https://youtu.be/ZzQ-FhWjO3w)
 * Haybales and Cooking Pot: [Youtube](https://youtu.be/KHEDUlbdGvQ)
-* Parametric Transformer (activated and not activated):  
-  * [Youtube](https://youtu.be/nK5wto4WbVA)  
-  * [Youtube](https://youtu.be/pknsfrRqW_o)  
+* Parametric Transformer (activated and not activated):
+  * [Youtube](https://youtu.be/nK5wto4WbVA)
+  * [Youtube](https://youtu.be/pknsfrRqW_o)
 
 **Significance:** Fluff.
 
@@ -54,7 +56,7 @@ The damage caused by Jean's Elemental Skill, Gale Blade, from falling is a perce
 **Evidence:**  
 For the two below clips, we are comparing the damages dealt for simply pulling them to the ground after Jean's Charged Attack, and for when they are flung high up in the air with Jean's Elemental Skill.
 
-* [Lvl 69 Hilichurl](https://youtu.be/fG90rk8K6-U) 
+* [Lvl 69 Hilichurl](https://youtu.be/fG90rk8K6-U)
   * Damage of 2.2k, for pulling the target to the ground after Jean's Charged Attack
   * Damage of 2.1k, for flinging the target high up in the air with Gale Blade
 * [Lvl 70 Fatui Cicin Mage](https://youtu.be/EYO5-SCBH7Q) 13.4k, 12.5k
@@ -70,7 +72,7 @@ In the clip below, the second time Gale Blade is used, the target flew and was t
 I believe that the large gap in damage is sufficient evidence to claim that the slam/fall damage is a percentage based on the target's maximum health. Damage isn't boosted by Superconduct.
 
 * [Evidence that its based on max hp](https://youtu.be/B1a3mCpDGkc)
-  * Damage of 57k in the beginning when target had full hp 
+  * Damage of 57k in the beginning when target had full hp
   * Damage of 53k at the end when target had only a sliver of health
 
 **Significance:**
@@ -107,12 +109,12 @@ Further proves that fall damage is based on velocity, not height \(however great
 
 ### Fall Damage Is Influenced By Poise
 
-**By:** ColaSenami\#5312    
+**By:** ColaSenami\#5312  
 **Added:** 2021-06-20  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_850586648760549377_856383288956813342_transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
-The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%. 
+The velocity from fall dmg can be influenced by interrupt resist or poise, and can increase fall dmg to 160%.
 
 **Evidence:**  
 Original clip is from xf3, then made to edit to make it side by side. In the video below it shows an abyss mage with 0 poise (stunned/staggered) vs an abyss mage with 2.25 poise. mage at 0 poise was launched at higher velocity than the mage who is dancing. This is easily reproducible.  
@@ -154,9 +156,9 @@ Anemo can be the aura for swirl during Bennett-Jean Sunfire under very specific 
 **Evidence:**  
 [YouTube](https://youtu.be/ZEQdmWjMBNM?t=16)
 
-At 0:16-0:17, Bennett's Q applied pyro shortly after Jean Q applied anemo on the active character (Kaeya). This caused Bennett to become the trigger for swirl, causing a sunfire pulse which was vaporized for 2244 pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger. 
+At 0:16-0:17, Bennett's Q applied pyro shortly after Jean Q applied anemo on the active character (Kaeya). This caused Bennett to become the trigger for swirl, causing a sunfire pulse which was vaporized for 2244 pyro damage, even though Jean has 0 EM (Bennett had 141 EM in this run). A subsequent vaporized Surefire pulse at 0:21 dealt 872 damage, which was the expected amount if Jean is the trigger.
 
-Though there isn't currently a known method for reliably reproducing this phenomenon, it is near certain that the conditions required to replicate this involves swapping characters while under both Bennett Q and Jean Q such that Jean's Q applies anemo right before Bennett's Q applies pyro on the active character. 
+Though there isn't currently a known method for reliably reproducing this phenomenon, it is near certain that the conditions required to replicate this involves swapping characters while under both Bennett Q and Jean Q such that Jean's Q applies anemo right before Bennett's Q applies pyro on the active character.
 
 **Significance:**  
 This is the second known scenario where anemo is not the trigger of a swirl reaction, but rather is the aura of one (the first being the Anemo Hypostasis). For sunfire specifically, this could substantially reduce the damage of a chain reacted sunfire pulse. This also implies that certain sources of anemo can cause a unit other than the Anemo Hypostasis to have a reactable amount of anemo aura
@@ -172,7 +174,8 @@ Lastly, it debunks the common belief that anemo cannot be the aura for a swirl r
 **Finding:**  
 Jean’s Elemental Burst, **Dandelion Breeze**, deals Border DMG to enemies within its AOE on initial cast and when the duration of the dandelion field ends. If an enemy enters the field after initial cast or leaves the field before the duration ends \(voluntarily or involuntarily\), an instance of Border DMG is dealt to said enemy. With enough aura on enemies or well-timed elemental application, the initial burst cast can cause 2 swirl instances \(1 from initial Burst DMG, 1 from Border DMG\).
 
-**Evidence:**  
+**Evidence:**
+
 * [Border DMG on initial cast and end + Border DMG upon late entry](https://youtu.be/dPsG4YhLqIQ)
 * [Border DMG upon premature exit](https://youtu.be/7SoQ6IHyM70)
 * [2 swirls on initial cast](https://youtu.be/du8J0Rj2GRQ)
@@ -189,13 +192,13 @@ Finding is somewhat significant for team damage calculations. This gives Jean sl
 
 **Finding:**  
 Finding 1: For Jean Q -> Bennett Q, the approximate timing for ensuring that Bennett becomes the trigger of Sunfire self swirl at 80ms ping is from ~2.035s to ~2.065s from pressing Q on Jean to pressing Q on Bennett.  
-Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self swirl  
-  
+Finding 2: Bennett can trigger VV if he's the trigger of Sunfire self swirl
+
 **Evidence:**  
 Example clip: [YouTube](https://youtu.be/EZ1gvuLaYCw)  
 Macro for testing: [Imgur](https://imgur.com/xEK5hta)  
 Bennett statpage (Iron Sting): [Imgur](https://imgur.com/gbvpMOO), [Imgur](https://imgur.com/3obY33q)  
-Jean statpage (Festering Desire): [Imgur](https://imgur.com/maXHeli), [Imgur](https://imgur.com/2RbmA4s)  
+Jean statpage (Festering Desire): [Imgur](https://imgur.com/maXHeli), [Imgur](https://imgur.com/2RbmA4s)
 
 **Significance:**  
 4VV Bennett viable yahooooooooooooooooooooooooo
@@ -224,46 +227,51 @@ The reach of Dandelion Breeze's damage component has a vertical limit but the ef
 
 **By:** Vye\#9195  
 **Added:** 2022-01-28  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933279462974427176_936416305064595496_transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933279462974427176_936416305064595496_transcript-interaction-between-jean-sunfire-and-freedom-sworn.html)
 
 **Finding:**  
-"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura).  
+"Sunfire" is the interaction between Jean Q and Bennett Q. In this scenario Jean selfswirls the pyro applied to her by Bennett Q to damage the enemy. The damage is affected by EM which makes it a viable strategy to build EM/EM/EM on Jean in a comp using "Sunfire". Please note that under specific circumstances "Sunfire" can also have anemo aura as explained in this [TCL entry](#anemo-aura).
 
-This entry will explain the interaction between Sunfire and the weapon Freedom\-Sworn for Jean. The self swirl interaction of "Sunfire" does not count as a reaction for Freedom\-Sworn Passive stacks. This is the same problem that 4pc Instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters).  
+This entry will explain the interaction between Sunfire and the weapon Freedom\-Sworn for Jean. The self swirl interaction of "Sunfire" does not count as a reaction for Freedom\-Sworn Passive stacks. This is the same problem that 4pc Instructor set has, explored in this [TCL entry](../../equipment/artifacts.md#instructor-ignores-environmental-target-and-your-characters).
 
-**Evidence:**   
+**Evidence:**
+
 * [Sunfire on-field no FS](https://www.youtube.com/watch?v=SiDWp14tLHs)
 * [Sunfire off-field no FS](https://www.youtube.com/watch?v=g3c3bO98bIw)
 * [Sunfire 2+ targets](https://www.youtube.com/watch?v=FzsSGLi_ToU)
 
 **Significance:**  
-This limits the use of Freedom\-Sworn on Jean significantly in certain comps. A prominent example would be Raiden Hyper (Raiden | buffer | Jean | Bennett) among others. Sunfire itself cannot be used to proc the passive. Players need to do EQ or QE and both abilities need to proc a reaction of an enemy directly for Freedom Sworn to activate. 
+This limits the use of Freedom\-Sworn on Jean significantly in certain comps. A prominent example would be Raiden Hyper (Raiden | buffer | Jean | Bennett) among others. Sunfire itself cannot be used to proc the passive. Players need to do EQ or QE and both abilities need to proc a reaction of an enemy directly for Freedom Sworn to activate.
 
-The number of targets does not matter because only the initial hit and the ending hit of Jeans Q count for the Freedom\-Sworn Passive. Due to the cooldown in gaining stacks which is 0.5s across all refines for the weapon you cannot gain 2 stacks from the reaction of the initial Jean Q hit. 
+The number of targets does not matter because only the initial hit and the ending hit of Jeans Q count for the Freedom\-Sworn Passive. Due to the cooldown in gaining stacks which is 0.5s across all refines for the weapon you cannot gain 2 stacks from the reaction of the initial Jean Q hit.
 
 ### Sunfire Jean OL Triggering Freedom\-Sworn
 
 **By:** MeiMay\#3039  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958491081933221908_transcript-sunfire-jean-ol-triggering-fs.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958491081933221908_transcript-sunfire-jean-ol-triggering-fs.html)
 
 **Finding:**  
-Sunfire Jean triggering off-field Overloads during her Burst can trigger the Freedom-Sworn \(FS\) Passive. This is primarily relevant in Raiden Hyper teams.  
+Sunfire Jean triggering off-field Overloads during her Burst can trigger the Freedom-Sworn \(FS\) Passive. This is primarily relevant in Raiden Hyper teams.
 
 **Evidence:**  
-Here is the Passive being activated with Jean EQ, as already established:  
+Here is the Passive being activated with Jean EQ, as already established:
+
 * [Video](https://i.imgur.com/BzPnp5R.mp4)
 
 Below are two instances of off-field FS activation via OL occuring in Abyss 12\-2 against two Ruin Graders:
+
 * [Video 1](https://i.imgur.com/U6BCcIO.mp4)
 * [Video 2](https://i.imgur.com/OMqYjXr.mp4)
 
-Here is a recording of the run from the beginning to confirm testing integrity:  
+Here is a recording of the run from the beginning to confirm testing integrity:
+
 * [Video](https://i.imgur.com/7N7SBlS.mp4)
 
 However, the OLs from Sunfire Jean \(and hence the activation of the FS Passive\) seem to be inconsistent in Raiden Hyper. In the two below videos, the FS Passive did not trigger because Jean did not trigger a single Overload throughout her Q:
+
 * [Video 1](https://i.imgur.com/LO8OvXI.mp4)
 * [Video 2](https://i.imgur.com/Lt8Bkn8.mp4)
 
 **Significance:**  
-It's not always the end of the world if you forget to EQ with Jean to activate Freedom-Sworn in Raiden teams; the Passive may still activate during the rest of her Burst. Also somewhat relevant if the enemies are knocked back by OL and your E misses.  
+It's not always the end of the world if you forget to EQ with Jean to activate Freedom-Sworn in Raiden teams; the Passive may still activate during the rest of her Burst. Also somewhat relevant if the enemies are knocked back by OL and your E misses.

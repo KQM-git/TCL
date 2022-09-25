@@ -19,19 +19,20 @@ For long-distance you will do the same, dash chaining with maximum dash uptime o
 **Note:** This does not account for special dashes such as Mona.
 
 When not using dashes, or while regenerating stamina, it is faster to spam jump constantly instead of walking.  
-Let JW be Jump Walking and Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps.  
+Let JW be Jump Walking and Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps.
 
-The ranking from fastest to slowest is:  
-1. JW Adult Female  
-2. JW Teen Male  
-3. JW Adult Male  
-4. CW Adult Male  
-5. CW Adult Female  
-6. JW Teen Female  
-7. CW Teen Male  
-8. CW Teen Female  
-9. JW Child Female  
-10. CW Child Female  
+The ranking from fastest to slowest is:
+
+1. JW Adult Female
+2. JW Teen Male
+3. JW Adult Male
+4. CW Adult Male
+5. CW Adult Female
+6. JW Teen Female
+7. CW Teen Male
+8. CW Teen Female
+9. JW Child Female
+10. CW Child Female
 
 Note that picking a taller character of the same skeleton model will not increase the velocity or distance covered.
 
@@ -75,17 +76,17 @@ Character hitboxes extend beyond their model until the weapon floating behind th
 
 Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift.
 
-## Infinite Dashing  
+## Infinite Dashing
 
-Double dashing with a pause inbetween to regain stamina can allow for a faster way to move continously.  
+Double dashing with a pause inbetween to regain stamina can allow for a faster way to move continously.
 
-## Cliff Dashing  
+## Cliff Dashing
 
-Dashing off of cliffs can speed up fall speed.  
+Dashing off of cliffs can speed up fall speed.
 
-## Jump Extension  
+## Jump Extension
 
-Getting hit while jumping adds extra velocity if not staggered.  
+Getting hit while jumping adds extra velocity if not staggered.
 
 ## Elevators
 
@@ -93,11 +94,8 @@ When riding an elevator up and jumping just at the right moment before it stops,
 
 ## Items
 
-Items are not affected by gravity and will float in mid-air if the surface they were on is lowered.  
+Items are not affected by gravity and will float in mid-air if the surface they were on is lowered.
 
 ## Evidence Vault
 
 <Card item={require('../evidence/general-mechanics/movement-and-physics.md')} />
-
-
-

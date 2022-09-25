@@ -7,15 +7,15 @@ See [Evidence Vault](../../evidence/combat-mechanics/enemy-mechanics/enemy-attri
 
 These are the damaging effects that are tied to specific enemies within domains/abyss. As of patch 2.2, there are 7 of these effects, tied to one or multiple elements in the game. Below is a table from the [Genshin Wiki](https://genshin-impact.fandom.com/wiki/Auras) that details the effects:
 
-| Name | Element | Effect | Base Multiplier | Cooldown |
-| :--- | :---: | :--- | :--- | :--- |
-| Pursuing Fireball | <img src="/assets/elements/pyro.png" width="48"/> | A fireball will chase the on-field character and deal Pyro damage in a small AoE per second. | 150% | 20s |
-| Mist Bubble | <img src="/assets/elements/hydro.png" width="48"/> | 8 bubbles appear and deal Hydro dmg on contact. | 300% | 12.5s |
-| Lightning Stake | <img src="/assets/elements/electro.png" width="48"/> | A lightning V will appear and deal Electro damage on contact every 0.25s. | 60% | 12.5s |
-| Ice Cage | <img src="/assets/elements/cryo.png" width="48"/> | An ice cage will appear from the ground and deals Cryo damage on contact. | 400% | 12.5s |
-| Vacuum Vortex | <img src="/assets/elements/anemo.png" width="48"/> | A wind core will appear, dealing Anemo damage per second in a small AoE. Then, the core will explode and deal Anemo damage. | 100%\(DoT\) 300%\(explosion\) | unknown \(can't test for now\) |
-| Rumbling Stone | <img src="/assets/elements/geo.png" width="48"/> | 2 rock waves will cross the ground and deal Geo damage on contact. | 200% | 15s |
-| Discharge | <img src="/assets/aura_discharge.png" width="48"/> | Applies the enemy's element to the player as shockwaves, dealing elemental DMG. | 400% | 15s |
+| Name              |                       Element                        | Effect                                                                                                                      | Base Multiplier               | Cooldown                       |
+| :---------------- | :--------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------- | :---------------------------- | :----------------------------- |
+| Pursuing Fireball |  <img src="/assets/elements/pyro.png" width="48"/>   | A fireball will chase the on-field character and deal Pyro damage in a small AoE per second.                                | 150%                          | 20s                            |
+| Mist Bubble       |  <img src="/assets/elements/hydro.png" width="48"/>  | 8 bubbles appear and deal Hydro dmg on contact.                                                                             | 300%                          | 12.5s                          |
+| Lightning Stake   | <img src="/assets/elements/electro.png" width="48"/> | A lightning V will appear and deal Electro damage on contact every 0.25s.                                                   | 60%                           | 12.5s                          |
+| Ice Cage          |  <img src="/assets/elements/cryo.png" width="48"/>   | An ice cage will appear from the ground and deals Cryo damage on contact.                                                   | 400%                          | 12.5s                          |
+| Vacuum Vortex     |  <img src="/assets/elements/anemo.png" width="48"/>  | A wind core will appear, dealing Anemo damage per second in a small AoE. Then, the core will explode and deal Anemo damage. | 100%\(DoT\) 300%\(explosion\) | unknown \(can't test for now\) |
+| Rumbling Stone    |   <img src="/assets/elements/geo.png" width="48"/>   | 2 rock waves will cross the ground and deal Geo damage on contact.                                                          | 200%                          | 15s                            |
+| Discharge         |  <img src="/assets/aura_discharge.png" width="48"/>  | Applies the enemy's element to the player as shockwaves, dealing elemental DMG.                                             | 400%                          | 15s                            |
 
 Monster skill effects deal flat damage. The amount of damage dealt scales similarly to transformative reactions, it's based purely off a base multiplier corresponding to each skill effect \(for example, **Ice Cage** and **Discharge** deals twice as much damage as **Rumbling Stone**\). Also, the damage is unaffected by your character level or defense; it will always deal the same amount of damage regardless.
 
@@ -29,7 +29,7 @@ Monster skill effects can be taunted. In general, these skill effects target the
 
 ## Mist Bubble
 
-* The bubbles from Hydro Abyss Mages spawned can be effectively i-framed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble iFrame](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#mist-bubble-iframe)  
+* The bubbles from Hydro Abyss Mages spawned can be effectively i-framed by swapping characters at the precise moment. However, the hydro bubble will persist on the character that was initially hit for approximately 5 seconds. For more details see: [Mist Bubble iFrame](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#mist-bubble-iframe)
 * When a bubble traps a player in CO-OP, other players cannot pierce through or interact with it. For more details see: [CO-OP Hydro Abyss Mage Bubble](../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md#co-op-hydro-abyss-mage-bubble)
 
 ## Targeting Ignores Enemy Hitbox Location
@@ -39,4 +39,3 @@ The targeting point for targeted skills is not the center of the enemy hitbox. I
 ## Evidence Vault
 
 <Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-attributes.md')} />
-

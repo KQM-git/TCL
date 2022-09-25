@@ -34,11 +34,11 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 [Discussion](https://tickets.deeznuts.moe/transcripts/xiao-e-plunge)
 
 **Bug:**  
-Xiao's skill can allow him to plunge, even below jump level  
-  
+Xiao's skill can allow him to plunge, even below jump level
+
 **Evidence:**  
-[YouTube](https://youtu.be/Dc6WEuvp4JE)  
-  
+[YouTube](https://youtu.be/Dc6WEuvp4JE)
+
 **Significance:**  
 Plungy Boi :)
 
@@ -48,24 +48,25 @@ Plungy Boi :)
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-29  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958512661308510268_transcript-xiao-keeps-his-mask.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958512661308510268_transcript-xiao-keeps-his-mask.html)
 
 **Finding:**  
-Xiao can keep his mask in the overworld for an indefinite amount of time through the use of Burst cancels.  
+Xiao can keep his mask in the overworld for an indefinite amount of time through the use of Burst cancels.
 
-The mask can be removed if:  
+The mask can be removed if:
+
 * Xiao uses his Burst and lets it expire naturally
 * Xiao is swapped out from the party via party changer
-* Xiao enters a domain 
+* Xiao enters a domain
 * Xiao enters an instanced location \(like restaurants\)
 * Xiao dies
 
 **Evidence:**  
 [Obtaining the mask](https://imgur.com/13jOBuT)  
-[Removing the mask](https://youtu.be/lYotuxXkdcg)  
+[Removing the mask](https://youtu.be/lYotuxXkdcg)
 
 **Significance:**  
-Allows Xiao to keep his mask. Good for picture-taking events and other aesthetic purposes.  
+Allows Xiao to keep his mask. Good for picture-taking events and other aesthetic purposes.
 
 ## Synergies/Interactions
 

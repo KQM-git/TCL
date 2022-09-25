@@ -13,8 +13,8 @@ import { getSkillName } from '@site/src/utils/skill'
 
 ## Resources
 
-* [Full Diona Guide](https://keqingmains.com/diona/)  
-* [4 Minute Quick Guide to Diona](https://youtu.be/IWoSkeAFY4o)  
+* [Full Diona Guide](https://keqingmains.com/diona/)
+* [4 Minute Quick Guide to Diona](https://youtu.be/IWoSkeAFY4o)
 * [Icy Paws Deep Dive](https://docs.google.com/document/d/1GZrscI-X_-CgzavXUbCeELrSumbAqlLqVkkJN1vWKwk/edit?usp=sharing)
 * [Icy Paws Sacrifical Bow vs Favonius Bow - Energy Gen & Field Time Efficiency](https://docs.google.com/spreadsheets/d/1rMyjElZHS0PDU4uyJ55bKGsmUVW82ga4xPcDUJSE760/edit#gid=1389539947)
 
@@ -34,41 +34,42 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-hit | 66.36% | 16 | 248.85%/s | 12.6 | 1 |
-| 2-Hit | 61.62% | 37 | 207.54%/s | 11.7 | 1 |
-| 3-Hit | 83.74% | 67 | 189.6%/s | 15.9 | 1 |
-| 4-Hit | 79% | 101 | 172.7%/s | 15 | 1 |
-| 5-Hit | 98.75% | 152 | 153.74%/s | 18.75 | 1 |
-| With Recovery | 389.47% | 190 | 122.99%/s | - | - |
+| String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-hit         | 66.36%    | 16     | 248.85%/s | 12.6         | 1            |
+| 2-Hit         | 61.62%    | 37     | 207.54%/s | 11.7         | 1            |
+| 3-Hit         | 83.74%    | 67     | 189.6%/s  | 15.9         | 1            |
+| 4-Hit         | 79%       | 101    | 172.7%/s  | 15           | 1            |
+| 5-Hit         | 98.75%    | 152    | 153.74%/s | 18.75        | 1            |
+| With Recovery | 389.47%   | 190    | 122.99%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
-| With Recovery | - | 23 | 210.21%/s | - | - | - |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
-| With Recovery | - | 94 | 134.55%/s | - | - | - |
-| C4 Fully Charged | 210.8% | 50 | 252.96%/s | 1A | <!--- not on the sheet--> | <!--- not on the sheet--> |
-| With Recovery | - | 58 | 218.07%/s | - | - | - |
+| Type             | Talent 9% | Frames | MV/s      | GU  | Poise Damage              | Impulse Type              |
+| :--------------- | :-------- | :----- | :-------- | :-- | :------------------------ | :------------------------ |
+| Aimed Shot       | 80.58%    | 15     | 322.32%/s | -   | 10 \(Headshot: 30\)       | 2                         |
+| With Recovery    | -         | 23     | 210.21%/s | -   | -                         | -                         |
+| Fully Charged    | 210.8%    | 86     | 147.07%/s | 1A  | 20 \(Headshot: 60\)       | 5                         |
+| With Recovery    | -         | 94     | 134.55%/s | -   | -                         | -                         |
+| C4 Fully Charged | 210.8%    | 50     | 252.96%/s | 1A  | <!--- not on the sheet--> | <!--- not on the sheet--> |
+| With Recovery    | -         | 58     | 218.07%/s | -   | -                         | -                         |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 10 | 2 |
-| Low Plunge DMG | 208.77% | 50 | 2 |
-| High Plunge DMG | 260.76% | 100 | 3 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 104.41%   | 10           | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 2            |
+| High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
 
 **Notes**
+
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
 * Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
@@ -80,29 +81,30 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 71.26% x 2 | 71.26% x 5 |
-| Particles | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
-| Frames | 15 | 24 |
-| GU | 1A | 1A x 2 | 
-| ICD | 3 hit / 2.5s | 3 hit / 2.5s |
-| Snapshot | Snapshot | Snapshot |
-| Damage Element | Cryo | Cryo | 
-| Damage Type | Skill | Skill |
-| CD | 6s | 15s |
-| Poise Damage | 30 | 30 |
-| Impulse Type | 2 | 2 |
+| Attribute         | Tap                       | Hold                      |
+| :---------------- | :------------------------ | :------------------------ |
+| Skill DMG \(T9%\) | 71.26% x 2                | 71.26% x 5                |
+| Particles         | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
+| Frames            | 15                        | 24                        |
+| GU                | 1A                        | 1A x 2                    |
+| ICD               | 3 hit / 2.5s              | 3 hit / 2.5s              |
+| Snapshot          | Snapshot                  | Snapshot                  |
+| Damage Element    | Cryo                      | Cryo                      |
+| Damage Type       | Skill                     | Skill                     |
+| CD                | 6s                        | 15s                       |
+| Poise Damage      | 30                        | 30                        |
+| Impulse Type      | 2                         | 2                         |
 
 </div>
 
-| Attribute | Shield | 
-|:--- | :--- |
-| Base Scaling | 12.24% Max HP + 1409 | 
-| Elemental Type | Cryo | 
-| Duration | 2.4s per paw |
+| Attribute      | Shield               |
+| :------------- | :------------------- |
+| Base Scaling   | 12.24% Max HP + 1409 |
+| Elemental Type | Cryo                 |
+| Duration       | 2.4s per paw         |
 
 **Notes**
+
 * Applies a 1A Cryo Aura for a short duration upon formation and upon swap to a different active character.
 * In specific circumstances, Diona's shield will apply 2U of Cryo on swap.
   * For more details see the [full entry](../../evidence/characters/cryo/diona.md#bug-dionas-shield-is-2u-under-specific-circumstances-that-are-guaranteed-on-swap) in Diona's Evidence Vault.
@@ -118,33 +120,34 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 136% |
-| Cast Frames | 49 |
-| Energy Frame | 49 |
-| CD Frame | 43 |
-| GU | 1A |
-| CD | 20s |
-| Energy Cost | 80 |
-| Poise Damage | 50 |
-| Impulse Type | 2 |
+| Attribute         | Burst |
+| :---------------- | :---- |
+| Skill DMG \(T9%\) | 136%  |
+| Cast Frames       | 49    |
+| Energy Frame      | 49    |
+| CD Frame          | 43    |
+| GU                | 1A    |
+| CD                | 20s   |
+| Energy Cost       | 80    |
+| Poise Damage      | 50    |
+| Impulse Type      | 2     |
 
 </div>
 
-| Attribute | Field |
-| :--- |:---|
-| Field DMG (T9%) | 89.49% |
-| GU | 1A |
-| ICD | 3 hits / 2.5s |
-| HP Regen | 9.07% Max HP + 1044 |
-| Duration | 12s |
-| Tick Rate| 2s | 
-| C6 Buff Duration | 2s |
-| Poise Damage | 50 |
-| Impulse Type | 1 |
+| Attribute        | Field               |
+| :--------------- | :------------------ |
+| Field DMG (T9%)  | 89.49%              |
+| GU               | 1A                  |
+| ICD              | 3 hits / 2.5s       |
+| HP Regen         | 9.07% Max HP + 1044 |
+| Duration         | 12s                 |
+| Tick Rate        | 2s                  |
+| C6 Buff Duration | 2s                  |
+| Poise Damage     | 50                  |
+| Impulse Type     | 1                   |
 
 **Notes**
+
 * C6 buff applies on swap.
 * Her field shares an ICD with the initial hit.
 * **Drunken Mist** AoE has a finite vertical range. Characters above or below this vertical range will not receive healing.
@@ -167,7 +170,8 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={0} />
 
 **Notes**
-* Ths can stack with other forms of stamina reduction as long as they are not the exact same.  
+
+* Ths can stack with other forms of stamina reduction as long as they are not the exact same.
 
 </TabItem>
 
@@ -185,6 +189,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={1} />
 
 **Notes**
+
 * There is no range limit as long as Diona is on the same map.
 
 </TabItem>
@@ -193,6 +198,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
+
 * This DMG increase is **Additive**.
 
 </TabItem>
@@ -213,6 +219,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 **Notes**
+
 * The Elemental Mastery bonus will apply immediately on swap and linger for 2 seconds.
 
 </TabItem>
@@ -227,4 +234,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/cryo/diona.md')} />
-

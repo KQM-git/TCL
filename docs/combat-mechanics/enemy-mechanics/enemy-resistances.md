@@ -10,7 +10,7 @@ There's two mitigating factors for damage dealt to enemies, Resistances and Defe
 
 ## Resistance
 
-import EnemyRes from '../_formulas/enemyres.md'
+import EnemyRes from '../\_formulas/enemyres.md'
 
 <EnemyRes />
 
@@ -27,12 +27,13 @@ Players can shred monster resistances via means such as:
 
 ## Defense
 
-import EnemyDef from '../_formulas/enemydef.md'
+import EnemyDef from '../\_formulas/enemydef.md'
 
 <EnemyDef />
 
 Enemies have an innate level of defense scaling. This defense calculation is vastly different from player defense, which scales off of artifacts and such. Instead, enemy defense is dependent solely on the attacking character's level and the enemy's level. This is another layer of mitigation and is separate from resistance.
-* Defense reduction has a hard cap of 90%.  
+
+* Defense reduction has a hard cap of 90%.
 
 There are only currently 4 sources of defense shred in the game:
 

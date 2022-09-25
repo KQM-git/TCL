@@ -33,4 +33,3 @@ search: false
 [Conversely, in this video, you can see that walking up to the key, starting the domain, and then sprinting is more efficient in terms of proc'ing the card buff.](https://youtu.be/_vbTUm1xvKs)
 
 **Significance:** With how the current abyss and upcoming 1.5 abyss are known to be massive DPS checks, it's crucial that you take full advantage of the abyss card buffs. +20% damage is generally worth more than a 4 noblesse effect buff, and it shouldn't be wasted if you want to 3\* a chamber. Moreover, this card can appear under the 'Effective this floor" category meaning it will help you throughout the entire floor.
-

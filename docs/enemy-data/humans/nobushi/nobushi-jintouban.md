@@ -13,37 +13,37 @@ Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 60% HP | 1 particle | common  
-| Death | 1 particle | common
+| HP Threshold | Type       | Element |
+| :----------- | :--------- | :------ |
+| 60% HP       | 1 particle | common  |
+| Death        | 1 particle | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | -20% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | -20%       |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 17718 |
-| 65 | 23294 |
-| 70 | 29304 |
-| 75 | 36668 |
-| 80 | 47273 |
-| 85 | 60396 |
-| 90 | 74201 |
-| 95 | 90857 |
-| 100 | 110920 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 17718  |
+| 65    | 23294  |
+| 70    | 29304  |
+| 75    | 36668  |
+| 80    | 47273  |
+| 85    | 60396  |
+| 90    | 74201  |
+| 95    | 90857  |
+| 100   | 110920 |
 
 ## Attacks
 

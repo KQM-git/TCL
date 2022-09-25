@@ -36,10 +36,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 * The 4p set bonus does not apply if a co-op teammate, or an off-field character takes the kill.
 * The 4p set bonus is not lost when character is swapped out.
-* The 4p set bonus is not granted if the set holder gets a kill while off-field. 
+* The 4p set bonus is not granted if the set holder gets a kill while off-field.
 * You still require the minimum amount of stamina to perform a Charged Attack, your stamina just won't be reduced on execution.
 * Stamina regen will continue even while performing Charge Attacks provided the buff is active allowing you to save stamina for dashing.
-* The 4p set bonus can be refreshed. 
+* The 4p set bonus can be refreshed.
 
 </Artifact>
 
@@ -47,7 +47,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Crimson Witch of Flames">
 
-* Bonus Reaction damage is still applied even if the set holder is off-field. However, the set holder does need to trigger the Reaction. 
+* Bonus Reaction damage is still applied even if the set holder is off-field. However, the set holder does need to trigger the Reaction.
 * Gaining a stack refreshes the duration of previous stacks.
 * Stacks are maintained after swapping characters.
 * A stack is still gained even if the player is interrupted during Elemental Skill cast.
@@ -66,7 +66,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Emblem of Severed Fate">
 
-* The base 100% ER and character ascension ER is counted towards the bonus.  
+* The base 100% ER and character ascension ER is counted towards the bonus.
 
 </Artifact>
 
@@ -123,7 +123,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Ocean-Hued Clam">
 
-* The 4p set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).  
+* The 4p set bonus Bubble Damage is considered Physical Damage and can be boosted by Physical Resistance Reduction (eg: Superconduct).
 * The 4p set bonus Bubble Damage is not a blunt hit and does not shatter frozen enemies.
 * The 4p set bonus Bubble Damage is independent of enemy defense.
 * All healing from the 4p set holder gets calculated for the Bubble Damage including overflow heals.
@@ -162,10 +162,10 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Shimenawa's Reminiscence">
 
-* The effect cannot be refreshed.  
-* Energy will not be drained by using elemental skill while the effect is active.  
-* The Energy drain effect has a 7-frame delay from when Elemental Skill is cast to when you actually lose energy.  
-* The effect, including the Energy drain, will still trigger even if the player is interrupted during Elemental Skill cast.  
+* The effect cannot be refreshed.
+* Energy will not be drained by using elemental skill while the effect is active.
+* The Energy drain effect has a 7-frame delay from when Elemental Skill is cast to when you actually lose energy.
+* The effect, including the Energy drain, will still trigger even if the player is interrupted during Elemental Skill cast.
 
 </Artifact>
 
@@ -173,7 +173,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Tenacity of the Millelith">
 
-* The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.  
+* The 4 piece effect of Tenacity of the Millelith activates with elemental skills hitting shielded enemies and dealing no damage.
 * The 4 piece effect does not stack but its duration can be reset if there are multiple 4ToM wielders
 
 </Artifact>
@@ -183,9 +183,9 @@ import Artifact from '@site/src/components/artifact/Artifact'
 <Artifact artifact="Thundering Fury">
 
 * Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
-* 40% additional damage to electro-related reactions is only applied if the set holder triggers the reaction. However, the set holder doesn't have to be active on-field. 
+* 40% additional damage to electro-related reactions is only applied if the set holder triggers the reaction. However, the set holder doesn't have to be active on-field.
 * The 4p set holder has to be active on-field to benefit from the cooldown reduction effect.
-* Regarding how Electro-charged works with 4TF, If the 4p set bonus is not on cooldown \(0.8s\),  then the set bonus is not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
+* Regarding how Electro-charged works with 4TF, If the 4p set bonus is not on cooldown \(0.8s\), then the set bonus is not hampered by EC’s 1 second ICD. As long as you can keep constant hydro aura on the enemy you can switch between different elemental sources \(E1, E2, electro-imbued autoattacks, and Q\) to obtain E CDR.
 * 4p set effect of cooldown reduction can be triggered by non-damaging elemental applications.
 
 </Artifact>
@@ -194,7 +194,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Thundersoother">
 
-* The 4p set holder does not have to be on-field to receive the 35% damage bonus. 
+* The 4p set holder does not have to be on-field to receive the 35% damage bonus.
 
 </Artifact>
 
@@ -210,7 +210,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * A single anemo application on an enemy with electro-charged will reduce both hydro and electro resistances.
 * 4 piece Viridescent Venerer only shreds if the wearer is onfield during a swirl that they trigger.
 * 4 piece Viridescent Venerer’s RES shred passive only buffs Swirl DMG against an enemy with a pre-existing aura.
-* 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE. 
+* 4 piece Viridescent Venerer’s RES shred passive also works on surrounding enemies after being affected by Swirl’s AoE.
 * The 4 piece set effect's duration can be extended by hitlag.
 * The attack that triggered the Swirl does not benefit from 4 piece Viridescent Venerer's RES shred passive.
 * Single target 4 piece Viridescent Venerer’s RES shred applies instantly and is unaffected by ping. AoE RES shred applies on damage, which is ping dependent.
@@ -239,7 +239,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Gambler">
 
-* The 15s CD of the 4 Piece Set Bonus will start upon any DMG output from an Elemental Skill, even if the Elemental Skill is not on cooldown. 
+* The 15s CD of the 4 Piece Set Bonus will start upon any DMG output from an Elemental Skill, even if the Elemental Skill is not on cooldown.
 
 </Artifact>
 
@@ -328,7 +328,6 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 <Artifact artifact="Traveling Doctor"/>
 
-
 ## Other Findings
 
 * For transformative reactions, +80 EM is better than the reaction damage bonus from 4TF/CW at <=490 EM (before set bonus), while +160 EM is better than the reaction damage bonus from 4TF/CW at <=1498 EM (before set bonus).
@@ -337,4 +336,3 @@ import Artifact from '@site/src/components/artifact/Artifact'
 ## Evidence Vault
 
 <Card item={require('../evidence/equipment/artifacts.md')} />
-

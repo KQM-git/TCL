@@ -21,41 +21,41 @@ None.
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 0% |
-| Pyro | 0% |
-| Dendro | 0% |
-| Hydro | 70% |
-| Electro | 70% |
-| Anemo | 0% |
-| Cryo | 0% |
-| Geo | 0% |
+| :---------- | :--------- |
+| Physical    | 0%         |
+| Pyro        | 0%         |
+| Dendro      | 0%         |
+| Hydro       | 70%        |
+| Electro     | 70%        |
+| Anemo       | 0%         |
+| Cryo        | 0%         |
+| Geo         | 0%         |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 83813 |
-| 65 | 99829 |
-| 70 | 130520 |
-| 75 | 149208 |
-| 80 | 185657 |
-| 85 | 204244 |
-| 90 | 243541 |
-| 95 | 277488 |
-| 100 | 367651 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 83813  |
+| 65    | 99829  |
+| 70    | 130520 |
+| 75    | 149208 |
+| 80    | 185657 |
+| 85    | 204244 |
+| 90    | 243541 |
+| 95    | 277488 |
+| 100   | 367651 |
 
 ## Attacks
 
 * Unless otherwise noted, any attack that hits the player will leave a Riptide mark(Hydro or Electro).
-* Attacks that hit characters already marked by Riptide will deal additional AoE Hydro and AoE Electro DMG. 
+* Attacks that hit characters already marked by Riptide will deal additional AoE Hydro and AoE Electro DMG.
   * This will also trigger the Electro-Charged elemental reaction.
   * The mark can be removed by touching the arena's barrier to trigger a Vaporize or Overloaded reaction. This reaction does not deal damage to the character.
   * The mark will persist even if you switch characters.
 * Childe teleports instantly to any point of the arena.
   * This move is performed if the player is too far away.
 * Performs up to 4 consecutive charged shots with a bow, dealing Hydro DMG.
-* Vortex of Turmoil: Gathers Hydro energy on his Glaive and launches it forwards, spearing anything in its path. 
+* Vortex of Turmoil: Gathers Hydro energy on his Glaive and launches it forwards, spearing anything in its path.
   * Deals Hydro damage. May be used up to 3 times consecutively.
 * Releases hydrospouts in a straight line, dealing Hydro DMG and launching the player upwards.
 * Unleashes two flying crescent slashes, dealing Hydro DMG.

@@ -9,37 +9,38 @@ search: false
 <Card item={require('../../../characters/hydro/yelan.md')} />
 
 ## Basic Mechanics
-[Discussion](https://tickets.deeznuts.moe/transcripts/yelan-basic-mechanics)  
+
+[Discussion](https://tickets.deeznuts.moe/transcripts/yelan-basic-mechanics)
 
 * Gauges - [Video](https://youtu.be/kVB-pt8txps) - CC\#5588
-    * Breakthrough Barb: 1A
-    * E: 1A
-    * Q Initial: 2B
-    * Exquisite Throws: 1A
+  * Breakthrough Barb: 1A
+  * E: 1A
+  * Q Initial: 2B
+  * Exquisite Throws: 1A
 * ICDs:
-    * E, Q Initial, and Exquisite Throws have separate ICDs. - [Video](https://youtu.be/guf_AFoAApc) - CC\#5588
-    * Exquisite Throws: ~2s/3-hit. - [Video](https://youtu.be/7JunyuLUQLo) - CC\#5588
+  * E, Q Initial, and Exquisite Throws have separate ICDs. - [Video](https://youtu.be/guf_AFoAApc) - CC\#5588
+  * Exquisite Throws: ~2s/3-hit. - [Video](https://youtu.be/7JunyuLUQLo) - CC\#5588
 * Snapshotting:
-    * Q: dynamic - [Video](https://imgur.com/qp5sTlL) - Nass008\#8577
+  * Q: dynamic - [Video](https://imgur.com/qp5sTlL) - Nass008\#8577
 * Frames:
-    * NA - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
-      * N1: 14
-      * N2: 29
-      * N3: 54
-      * N4-1: 88
-      * N4-2: 102
-      * With recovery: 142
-    * CA - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
-      * Physical CA: 15 \(25 with recovery\)
-      * Elemental CA: 86 \(96 with recovery\)
-      * Breakthrough Barb: 32 \(42 with recovery\)
-    * E [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
-      * Press E: 40
-      * Hold E: 42-257
-    * Q - [Google Sheets](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ/edit?usp=sharing) - Jxdx\#0732
-      * Q Cast: 91
-      * Q Energy: 10 \(at 64~67ms ping\)
-      * Q CD: 1
+  * NA - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
+    * N1: 14
+    * N2: 29
+    * N3: 54
+    * N4-1: 88
+    * N4-2: 102
+    * With recovery: 142
+  * CA - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+    * Physical CA: 15 \(25 with recovery\)
+    * Elemental CA: 86 \(96 with recovery\)
+    * Breakthrough Barb: 32 \(42 with recovery\)
+  * E [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
+    * Press E: 40
+    * Hold E: 42-257
+  * Q - [Google Sheets](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ/edit?usp=sharing) - Jxdx\#0732
+    * Q Cast: 91
+    * Q Energy: 10 \(at 64~67ms ping\)
+    * Q CD: 1
 
 ## Attack Mechanics
 
@@ -65,6 +66,7 @@ search: false
 * E can be used to escape Mirror Maiden prisons. - [Video](https://imgur.com/a/BFQP766) - Shaft_HeadTilt\#2079
 
 ## Burst Mechanics
+
 * Coordinated attacks have variable time intervals between each hit. - [Video](https://youtu.be/qZ5KTeeHfsU) - mina\#4448
 * Coordinated attacks can be buffered like Xingqiu. - [Video](https://youtu.be/Am5RvDTToN4) - Beast Boy\#2560
 * When a wave from Exquisite Throw is procced just as Yelan's Burst duration ends, it may be cut off and not shoot the entire wave. - [Video](https://imgur.com/oSuO58A) - SirDerpyHerp\#7903
@@ -90,15 +92,15 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/transcripts/yelan-burst-wave-microsnapshot)
 
 **Theory:**  
-Based on the [Xingqiu wave snapshot ticket](../../../evidence/characters/hydro/xingqiu.md#each-burst-wave-snapshots-when-summoned), Yelan’s Burst was investigated. Unlike Xingqiu, it seems the check for buffs is done per projectile, not per wave. Each Burst projectile snapshots after being generated.  
-  
+Based on the [Xingqiu wave snapshot ticket](../../../evidence/characters/hydro/xingqiu.md#each-burst-wave-snapshots-when-summoned), Yelan’s Burst was investigated. Unlike Xingqiu, it seems the check for buffs is done per projectile, not per wave. Each Burst projectile snapshots after being generated.
+
 **Evidence:**  
 [Video 1](https://youtu.be/XhkY52fzI8g)  
 [Video 2](https://youtu.be/TkpCRAk354A)  
-[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between pyro and hydro potion in this video\)  
-  
+[Video 3](https://youtu.be/qPW0Tbi1yLI) \(switched between pyro and hydro potion in this video\)
+
 **Significance:**  
-Better understanding of how buffs interact with Yelan’s Burst, specifically noting that each of Yelan’s projectiles in a given wave can do different damage.  
+Better understanding of how buffs interact with Yelan’s Burst, specifically noting that each of Yelan’s projectiles in a given wave can do different damage.
 
 ## Constellation Mechanics
 
@@ -115,5 +117,5 @@ Better understanding of how buffs interact with Yelan’s Burst, specifically no
 
 * C6 benefits from CA DMG Bonus buffs. - [Image](https://i.imgur.com/p83cOwp.jpg) - Alarar\#6877
 * C6 does not proc Mitternachts Waltz passive. - [Image](https://i.imgur.com/O4oXhL5.jpg) - Alarar\#6877
-    * Whether or not it procs other NA effects is unknown.
+  * Whether or not it procs other NA effects is unknown.
 * C6 attacks can proc Beidou's Burst. - [Video](https://youtu.be/upPA9i6Jth8) - Alarar\#6877

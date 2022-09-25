@@ -13,7 +13,7 @@ import bows from '@site/src/data/weapons/Bow.json'
 
 <Weapon weapon="Aqua Simulacra" weapons={bows}>
 
-* The Cleansing Form does not seem to have a vertical range limit.  
+* The Cleansing Form does not seem to have a vertical range limit.
 
 </Weapon>
 
@@ -21,11 +21,11 @@ import bows from '@site/src/data/weapons/Bow.json'
 
 <Weapon weapon="Elegy for the End" weapons={bows}>
 
-import MillennialMovementSeries from './_common/millennial_movement.md';
+import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <MillennialMovementSeries/>
 
-* Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies) 
+* Stacking is inconsistent depending on ping, FPS, and the specific character. - [Wüolf\#3334](../../evidence/equipment/weapons.md#elegy-stack-inconsistencies)
 
 </Weapon>
 
@@ -59,7 +59,7 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 
 <Weapon weapon="Blackcliff Warbow" weapons={bows}>
 
-import BlackcliffSeries from './_common/blackcliff_series.md';
+import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <BlackcliffSeries/>
 
@@ -85,7 +85,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Favonius Warbow" weapons={bows}>
 
-import FavSeries from './_common/fav_series.md';
+import FavSeries from './\_common/fav_series.md';
 
 <FavSeries/>
 
@@ -119,7 +119,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Royal Bow" weapons={bows}>
 
-import RoyalSeries from './_common/royal_series.md';
+import RoyalSeries from './\_common/royal_series.md';
 
 <RoyalSeries/>
 
@@ -137,7 +137,7 @@ import RoyalSeries from './_common/royal_series.md';
 
 <Weapon weapon="Sacrificial Bow" weapons={bows}>
 
-import SacSeries from './_common/sac_series.md';
+import SacSeries from './\_common/sac_series.md';
 
 <SacSeries/>
 
@@ -165,7 +165,7 @@ import SacSeries from './_common/sac_series.md';
 
 <Weapon weapon="Raven Bow" weapons={bows}>
 
-import BaneSeries from './_common/bane_series.md';
+import BaneSeries from './\_common/bane_series.md';
 
 <BaneSeries/>
 
@@ -187,7 +187,7 @@ import BaneSeries from './_common/bane_series.md';
 
 <Weapon weapon="Slingshot" weapons={bows}>
 
-* There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md\#slingshot-passive-mechanics)
+* There is a medium zone where neither buff nor debuff applies. The buff applies until roughly the same distance as it takes for **Amos' Bow** to move from 3 stack to 4 stack passive for charged shots. - [jamberry\#7142, ItzSomebody\#0029](../../evidence/equipment/weapons.md#slingshot-passive-mechanics)
 
 </Weapon>
 
@@ -212,7 +212,7 @@ import BaneSeries from './_common/bane_series.md';
 There is a cap range for an arrow - damage just falls off after a certain range.
 
 * [Amos Test](https://streamable.com/pnfumf)
-* Sacrificial Bow Test: *Streamable link lost to the sands of time*
+* Sacrificial Bow Test: _Streamable link lost to the sands of time_
 
 ## External Links
 
@@ -221,4 +221,3 @@ There is a cap range for an arrow - damage just falls off after a certain range.
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

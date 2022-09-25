@@ -40,11 +40,11 @@ When executing N3 or further, Mona's 3rd AA will either jump backwards or jump f
 
 The exact distance threshold is about the size of Abyss' outer circle's diameter. In the case the distance is smaller than this diameter, then Mona's 3rd AA will cause Mona to jump backwards away from her target. Vice versa, if the distance is greater or equal to this diameter, then Mona's 3rd AA will cause her to jump forward towards her target.
 
-**Evidence:** [Imgur](https://imgur.com/a/cdjpoqP)  
+**Evidence:** [Imgur](https://imgur.com/a/cdjpoqP)
 
-As part of the Evidence, I've included a timer in the case that this affected Mona's MV calculations, but the differences seem insignificant. 
+As part of the Evidence, I've included a timer in the case that this affected Mona's MV calculations, but the differences seem insignificant.
 
-* [Mona Forward AA3](https://imgur.com/a/Jf0Rtny)  
+* [Mona Forward AA3](https://imgur.com/a/Jf0Rtny)
 * [Mona Backward AA3](https://imgur.com/a/lkOYrRx)
 
 **Odd No-Target Behavior:**  
@@ -88,7 +88,7 @@ Mona hold E has iframes.
 **Evidence:**  
 [Imgur](https://i.imgur.com/3oln5zw.mp4)
 
-***Extra findings by BowTae#0141:***  
+**_Extra findings by BowTae#0141:_**  
 Oddly enough, dodging with mona hold E will still have auras applied to her: [Imgur](https://imgur.com/QZ9laRu)  
 Also strangely, you can sometimes take knockback but no damage: [Imgur](https://imgur.com/pIFiaBt)
 
@@ -106,7 +106,7 @@ Utilizing for dodging.
 Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
 
 **Evidence:**  
-[https://www.youtube.com/watch?v=KikCv6\_ooSI](https://www.youtube.com/watch?v=KikCv6_ooSI)  
+[https://www.youtube.com/watch?v=KikCv6_ooSI](https://www.youtube.com/watch?v=KikCv6_ooSI)
 
 **Significance:**
 
@@ -167,7 +167,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 **Added:** 2021-08-09  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863845897770237953_874171057685274624_transcript-new-mona-q-cannot-pop-on-super-armor.html)
 
-**Finding:**  
+**Finding:**
 
 * It's impossible to pop Mona's Q bubble on enemies that are completely stagger resistant (aka gained hyper armor).
 
@@ -178,7 +178,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 * Stagger immunity spreadsheet by Myuwi#0001 from Mona Mains:  
   [Google Sheet](https://docs.google.com/spreadsheets/d/1AENU1fu_pChwc8b0nDPmsCo2qvfi4MXycme4JqjmstA)
 
-**Evidence:**  
+**Evidence:**
 
 * Electro Cicin Mage is summoning cicins. Benny's Q does not trigger the bubble because summoning animation was not finished.  
   Mona level 70 vs. Electro Cicin Mage level 91 (21 levels different).  
@@ -209,11 +209,11 @@ Better understanding and utilizing of Mona burst.
 Mona's Omen damage bonus can be extended due to a certain enemy's state(s). These states are divided into three categories. Stagger/poise resistant, Elemental shields and Elemental/Hyper armor. These enemy states are what influence Mona's omen extension outside of freeze.
 
 **Stagger resistant** - During a certain enemy's animation(s) state, the enemy is completely immune to stagger/poise damage. (Object shield enemies have a block animation state which is associated with stagger resistance.)  
-For example, a Crackling axe Mitachurl has a stagger resistance animation window that extends for about 4 seconds. During this window, Mona's Illusory bubble will not pop. Once the animation ends, the enemy returns into an idle state, this then allows the enemy to take poise damage. Resulting in Mona's Illusory bubble also open to taking poise damage.  
+For example, a Crackling axe Mitachurl has a stagger resistance animation window that extends for about 4 seconds. During this window, Mona's Illusory bubble will not pop. Once the animation ends, the enemy returns into an idle state, this then allows the enemy to take poise damage. Resulting in Mona's Illusory bubble also open to taking poise damage.
 
 **Elemental shields** - Enemies that apply an elemental shield, for example, Abyss Mages. Mona's Illusory bubble will not pop while an enemy is in this state. Mona's Omen damage bonus on a shielded enemy can provide a small benefit for all party members shield damage.
 
-**Elemental/hyper armor** - An enemy's ability that infuses itself with an elemental/hyper armor. Enemies within this state can take damage and Mona's Illusory bubble will not pop on-demand, it will only time out. 
+**Elemental/hyper armor** - An enemy's ability that infuses itself with an elemental/hyper armor. Enemies within this state can take damage and Mona's Illusory bubble will not pop on-demand, it will only time out.
 
 Some enemies can possess more than one state. For example. Abyss Lector and Herald have one stagger resistant state and a Elemental shield state.
 
@@ -222,7 +222,7 @@ Some enemies can possess more than one state. For example. Abyss Lector and Hera
 
 [Youtube](https://youtu.be/QhRptxHANm8): Video from LACola. Explains the enemy categories that influence Omen Extension
 
-[Doc](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4) Shield Damage in Genshin Impact by vibechecker#5502 
+[Doc](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4) Shield Damage in Genshin Impact by vibechecker#5502
 
 **Significance:**  
 An Estimated 29% of all enemies in 2.0 have at least one of these states. The majority of these enemies are either Elite enemies or bosses. Understanding these states can help players to utilize the Omen extension more effectively.
@@ -235,12 +235,12 @@ An Estimated 29% of all enemies in 2.0 have at least one of these states. The ma
 
 **Finding:**  
 Petrify cannot extend the duration of omen by preventing the bubble from popping by itself, contrary to some other observations.  
-The confusion comes from the fact that you *can* use petrify to lock an enemy into a state where they have stagger resistance to begin with, extending the duration of *that* state and therefore the omen.  
-Petrify *by itself* cannot extend - petrify on a resistant target *can*.
+The confusion comes from the fact that you _can_ use petrify to lock an enemy into a state where they have stagger resistance to begin with, extending the duration of _that_ state and therefore the omen.  
+Petrify _by itself_ cannot extend - petrify on a resistant target _can_.
 
 **Evidence:**  
 The first video demonstrates a petrify during the Fatui agents attack that gives them stagger resistance and does not pop in response to XQ's attacks.  
-While in the second video the petrify occurs with the hoarder in a state where they *do not* have stagger resistance and the extension fails.
+While in the second video the petrify occurs with the hoarder in a state where they _do not_ have stagger resistance and the extension fails.
 
 * [Success](https://youtu.be/WhDH0G3XUgY)
 * [Pop](https://youtu.be/oBKtbQUt_1w)
@@ -278,7 +278,7 @@ It's actually a smaller buff than one would think, but there is a slight differe
 **Finding:**  
 If you cast Mona's skill, but then hit the dash key before Mona's taunt is out, Mona will dash instead of finishing her skill cast. This differs from other characters, who cannot start sprinting until their skill has finished casting.
 
-**Evidence:** 
+**Evidence:**
 
 [https://youtu.be/gDEZhioyCxs](https://youtu.be/gDEZhioyCxs)
 
@@ -294,7 +294,7 @@ Mona shouldn't dash until her skill is finished casting. This skill cancellation
 **Finding:**  
 Alternative dash and typical dash have very similar if not exact same i-frame mechanics
 
-**Evidence:**  
+**Evidence:**
 
 * [Youtube](https://www.youtube.com/watch?v=mDLhUM-ACGE)
 * See 0:00 to 0:09 of this [Youtube Video](https://youtu.be/DeBpnKDYUQo) for the methodology.
@@ -314,7 +314,7 @@ Alt and typical sprint i-frame mechanics are extremely similar, many people like
 **Finding:**  
 Mona’s A1 Talent, “Come n’ Get Me Hag” is capable of proccing the 4 piece set bonus of Tenacity of the Millelith, thus is considered elemental skill damage.
 
-**Evidence:** 
+**Evidence:**
 
 [https://youtu.be/8ArWy-739TQ](https://youtu.be/8ArWy-739TQ)
 
@@ -353,21 +353,25 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 **Evidence:**
 
 Vape Evidence: (Xiangling Ult)
+
 * [Video](https://youtu.be/zJPZ2ZnuFQA?t=37) - Stats at start of video.
 * Still doing 1509 non crit vapes at end of ult (at 58.1s, C1 animation ended at around 55.8s).
 * [Calc](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1r0202aenemyLevel295dvaporize_dmg_21566801K0018TheCatchsJ0) -
-For reference, later in video tested without mona ult - 1333 vapes which matches calcs.
+  For reference, later in video tested without mona ult - 1333 vapes which matches calcs.
 
 Swirl Evidence: (Kazuha Slash)
+
 * [Video 1](https://youtu.be/bfC4LfiMSeQ) - Swapping with Kazuha
 * While Kazuha is onfield, swirl deals 1176 - while he's offield 1088.
 * Swapping back causes it to deal 1176 again, swapping back, again 1088.
 
 Staying on Kazuha
+
 * [Video 2](https://youtu.be/A3V0Vp3Jt08) - Doesn't snapshot, damage buff disappears (at 25s).
 * [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1y00231a1t142115hydro51c1y5sheet6talent1q2115hydro1aswirl_dmg_2157880aM001gSacrificialSwordzO0)
 
 EC Evidence: (Fischl's Oz)
+
 * [Video](https://youtu.be/WvJBUaJzBKg)
 * Summon Oz at 11s, does 1338 EC damage, Mona C1 disappears at 17s. Does 1163 EC at 20s.
 * Repeated test with Q Oz - same 1338 during C1/1163 after.
@@ -375,10 +379,12 @@ EC Evidence: (Fischl's Oz)
 * [Calc/stats](https://frzyc.github.io/genshin-optimizer/#/flex?v=3&d=1810006960aQ001eFavoniusWarbow9Ra)
 
 Frozen
+
 * Mona's C1 passive does not seem to work for freeze reactions. - [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=762498999&range=B111:S112)
 * All videos are linked in the sheet. An overview of the results is in another sheet tab here: [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=747486603&range=B10:S33)
 
-**Significance:** 
+**Significance:**
+
 * Mona C1's "Vaporize DMG Bonus" gets snapshotted on Xiangling's ult
 * Kazuha and Oz don't snapshot hydroswirl/EC, also requires to be onfield
 * Frozen doesn't seem to even work
@@ -427,12 +433,12 @@ Proper understanding of how Omen and C1 affect damage and reactions
 **Finding:**  
 Mona's C1 buff only applies to your own party members in coop, and not other players.
 
-**Evidence:** 
+**Evidence:**
 
 [Coop Video](https://www.youtube.com/watch?v=ZkGeYka5EUc)  
 As shown in the video, Sucrose's Hydro Swirl is not changed from 3512 damage when a c1 Mona applies Omen. Fischl's 1230 Electro-charged damage is not changed, but Mona's 1172 Electro-charged damage increases to 1326.
 
-[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY)   
+[Singleplayer Video](https://www.youtube.com/watch?v=LTBhTcl5TkY)  
 Venti's Hydro Swirl does 1157 damage without the buff, and 1255 with it.
 
 **Significance:**  
@@ -478,17 +484,18 @@ Xiangling Q applies too much pyro for Mona to successfully be the aura most of t
 
 **By:** Mcpie\#8672  
 **Added:** 2022-02-02  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937755412520919070_938446649758457886_transcript-c4-mona-does-not-show-up-in-stat-page.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937755412520919070_938446649758457886_transcript-c4-mona-does-not-show-up-in-stat-page.html)
 
 **Finding:**  
-C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.  
+C4 Mona bonus (+15% CRIT Rate) applies only to targets affected by the Omen.
 
 **Evidence:**  
-[YouTube Video](https://youtu.be/9v-cdz5Rq9E)  
-1. Showcase, 87.8% CRIT Rate Mona, display of activated C4.  
-2. Picked a Spiral Abyss floor with seperated enemies.  
-3. Start the chamber, apply Q to one enemy and hit it in order to activate the Omen and hit it once again to "activate" the C4 bonus.  
-4. Start hitting the unaffected enemy with Normal Attacks until a non-critical hit (1092) appears while the Omen is still visible on the first enemy.  
+[YouTube Video](https://youtu.be/9v-cdz5Rq9E)
+
+1. Showcase, 87.8% CRIT Rate Mona, display of activated C4.
+2. Picked a Spiral Abyss floor with seperated enemies.
+3. Start the chamber, apply Q to one enemy and hit it in order to activate the Omen and hit it once again to "activate" the C4 bonus.
+4. Start hitting the unaffected enemy with Normal Attacks until a non-critical hit (1092) appears while the Omen is still visible on the first enemy.
 
 **Significance:**  
-This information is not displayed in the C4 or the Q description in-game.  
+This information is not displayed in the C4 or the Q description in-game.

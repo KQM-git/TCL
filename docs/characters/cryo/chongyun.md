@@ -32,36 +32,37 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 128.61% | 24 | 321.52%/s | 105 | 3 |
-| 2-Hit | 115.97% | 62 | 236.69%/s | 95 | 3 |
-| 3-Hit | 147.57% | 124 | 189.75%/s | 121 | 3 |
-| 4-Hit | 185.97% | 204 | 170.04%/s | 152 | 6 |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 128.61%   | 24     | 321.52%/s | 105          | 3            |
+| 2-Hit  | 115.97%   | 62     | 236.69%/s | 95           | 3            |
+| 3-Hit  | 147.57%   | 124    | 189.75%/s | 121          | 3            |
+| 4-Hit  | 185.97%   | 204    | 170.04%/s | 152          | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Spinning DMG | 103.41% | 30 | 206.82%/s | 60 | 3 |
-| Final DMG | 186.99% | 29 | 386.88%/s | 120 | 6 |
-| Stamina Cost | 40/s | - | - | - | - |
+| Type         | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Spinning DMG | 103.41%   | 30     | 206.82%/s | 60           | 3            |
+| Final DMG    | 186.99%   | 29     | 386.88%/s | 120          | 6            |
+| Stamina Cost | 40/s      | -      | -         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 137.03% | 35 | 2 |
-| Low Plunge DMG | 274.01% | 150 | 4 |
-| High Plunge DMG | 342.25% | 200 | 7 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 137.03%   | 35           | 2            |
+| Low Plunge DMG  | 274.01%   | 150          | 4            |
+| High Plunge DMG | 342.25%   | 200          | 7            |
 
 </div>
 
 **Notes**
+
 * Normal Attack ICD is 3 hits / 2.5s, shared with Charged Attacks.
 * All frame counts are done against Ruin Guards.
 * Charged Attack ICD is 3 hits / 2.5s, shared with Normal Attacks.
@@ -73,28 +74,29 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 292.47% |
-| MV/s \(T9%\) | 307.86%/s |
-| Cast GU | 2B |
-| Infused Attack GU | 1A |
-| Particles | 4 \(-\) |
-| Frames | 57 |
-| ICD | None |
-| Snapshot | Snapshot |
-| Damage Element | Cryo |
-| Damage Type | Skill |
-| Infusion Duration | 2.8s |
-| Field Duration | 10s |
-| CD | 15s |
-| Poise Damage | 150 |
-| Impulse Type | Air, 0, 600 |
+| Attribute         | Skill       |
+| :---------------- | :---------- |
+| Skill DMG \(T9%\) | 292.47%     |
+| MV/s \(T9%\)      | 307.86%/s   |
+| Cast GU           | 2B          |
+| Infused Attack GU | 1A          |
+| Particles         | 4 \(-\)     |
+| Frames            | 57          |
+| ICD               | None        |
+| Snapshot          | Snapshot    |
+| Damage Element    | Cryo        |
+| Damage Type       | Skill       |
+| Infusion Duration | 2.8s        |
+| Field Duration    | 10s         |
+| CD                | 15s         |
+| Poise Damage      | 150         |
+| Impulse Type      | Air, 0, 600 |
 
 </div>
 
 **Notes**
-* The field works as a cylinder with a large height.  
+
+* The field works as a cylinder with a large height.
 
 </TabItem>
 
@@ -103,26 +105,27 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
+| Attribute         | Burst        |
+| :---------------- | :----------- |
 | Skill DMG \(T9%\) | 242.08% \* 3 |
-| MV/s \(T9%\) | 322.77%/s |
-| GU | 1A per hit |
-| Cast Frames | 135 |
-| Energy Frame | 10 |
-| CD Frame | 3 |
-| ICD | None |
-| Snapshot | Dynamic |
-| Damage Element | Cryo |
-| Damage Type | Burst |
-| Energy Cost | 40 |
-| CD | 12s |
-| Poise Damage | 100 |
-| Impulse Type | Air, 0, 600 |
+| MV/s \(T9%\)      | 322.77%/s    |
+| GU                | 1A per hit   |
+| Cast Frames       | 135          |
+| Energy Frame      | 10           |
+| CD Frame          | 3            |
+| ICD               | None         |
+| Snapshot          | Dynamic      |
+| Damage Element    | Cryo         |
+| Damage Type       | Burst        |
+| Energy Cost       | 40           |
+| CD                | 12s          |
+| Poise Damage      | 100          |
+| Impulse Type      | Air, 0, 600  |
 
 </div>
 
 **Notes**
+
 * The maximum casting range for **Spirit Blade: Cloud-Parting Star** is 17.85m \(7 Abyss tiles\). If it's casted any further it will not target the enemy.
 
 </TabItem>
@@ -145,12 +148,13 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={1} />
 
 | Poise Damage | Impulse Type |
-| :--- | :--- |
-| 100 | Air, 0, 600 |
+| :----------- | :----------- |
+| 100          | Air, 0, 600  |
 
 **Notes**
-* The **Spirit Blade** is considered Elemental Skill damage.  
-* The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.  
+
+* The **Spirit Blade** is considered Elemental Skill damage.
+* The **Spirit Blade** snapshots any buffs received upon **Chonghua’s Layered Frost** use.
 * No ICD on elemental application
 
 </TabItem>
@@ -169,7 +173,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
-* Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters. 
+
+* Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters.
 * When used with any cooldown reduction \(CDR\) from the active character, Chongyun’s C2 reduces your cooldown after the reduction from the active character and Slowing Waters.
   * For example: Bennett CDRs from his Ascension 1 and Ascension 4 talents apply before Chongyun's C2 CDR.
 
@@ -191,10 +196,11 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 | Poise Damage | Impulse Type |
-| :--- | :--- |
-| 100 | Air, 0, 600 |
+| :----------- | :----------- |
+| 100          | Air, 0, 600  |
 
 **Notes**
+
 * This DMG Bonus is **Additive**.
 * See: [Damage Formula](../../combat-mechanics/damage/damage-formula.md#base-damage)
 
@@ -210,4 +216,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/cryo/chongyun.md')} />
-

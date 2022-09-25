@@ -35,22 +35,25 @@ Video links and Geo MC/Zhongli/Albedo invisible number math fully compiled into 
 
 **By:** mando.\#1646  
 **Added:** 2022-04-24  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967813434605437018_transcript-geo-constructs-cant-handle-long-distance-relationship.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967813434605437018_transcript-geo-constructs-cant-handle-long-distance-relationship.html)
 
-**Findings:**  
+**Findings:**
+
 * Geo Constructs don't persist after teleporting to a certain distance.
 * This specific quality is exclusive to Geo Constructs and does not apply to Summons, as seen with Fischl's Oz and Xiangling's Guoba.
 
 **Evidence:**  
-Geo Constructs:  
+Geo Constructs:
+
 * Zhongli's Stone Stele: [video 1](https://youtu.be/NarGeWgMkt0), [video 2](https://youtu.be/NX2vEWomhzg)
 * Albedo's Solar Isotoma: [video](https://youtu.be/IHc9nuiZdOs)
-* GMC's meteorite: [video](https://youtu.be/JnDDv-Sj1VI) 
+* GMC's meteorite: [video](https://youtu.be/JnDDv-Sj1VI)
 * Ningguang's Jade Screen: [video](https://youtu.be/Ext43kane6w)
 
-Summons:  
+Summons:
+
 * Xiangling's Guoba: [video](https://youtu.be/m3zzeY9nzzg)
 * Fischl's Oz: [video 1](https://youtu.be/bcJN2CIPLPs), [video 2](https://youtu.be/LSYvgN_cDY8)
 
 **Significance:**  
-Expansion in the understanding of Geo Construct mechanics.  
+Expansion in the understanding of Geo Construct mechanics.

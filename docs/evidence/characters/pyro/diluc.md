@@ -9,6 +9,7 @@ search: false
 <Card item={require('../../../characters/pyro/diluc.md')} />
 
 ## Skill Mechanics
+
 ### Searing Onslaught Extension via Freeze
 
 **By:** xf3\#3123  
@@ -18,7 +19,7 @@ search: false
 Getting frozen mid Searing Onslaught 2 will allow you to extend the skill. This allows you to use the skill multiple times for one rotation.
 
 **Evidence:**  
-[https://youtu.be/mjb41Yp2V\_Y](https://youtu.be/mjb41Yp2V_Y)
+[https://youtu.be/mjb41Yp2V_Y](https://youtu.be/mjb41Yp2V_Y)
 
 Diluc is frozen mid Searing Onslaught 2 and the skill is changed to Searing Onslaught 3. However, he is still able to recast Searing Onslaught 2 multiple times after getting out of the freeze. I could not get this to replicate for Searing Onslaught 1 and 3.
 
@@ -30,6 +31,7 @@ When running Barbara or Xingqiu, self freeze can be an upside in certain situati
 <Card item={require('../../../characters/pyro/diluc.md')} />
 
 ## Burst Mechanics
+
 ### Diluc Burst ICD
 
 **By:** Isu\#6867  
@@ -62,10 +64,10 @@ Initial hit applies 2U
 
 Q > N1 > E not working  
 [Imgur](https://imgur.com/Su0TaYR)  
-[Imgur](https://imgur.com/hZPz7Cd)  
+[Imgur](https://imgur.com/hZPz7Cd)
 
 Q > N2 > E instead - working  
-[Imgur](https://imgur.com/Zxat4TI)  
+[Imgur](https://imgur.com/Zxat4TI)
 
 Footage from March recorded by DilucMains also shows that the Q burst removed hydro completely aswell, so it always has been 2U and not a recent change.  
 Q > N1 (cancel hit) > E > N2 > E...  
@@ -83,16 +85,17 @@ Better Diluc rotation.
 
 **By:** jamberry\#7142  
 **Added:** 2021-12-12  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917975114987999382_919073580216643584_transcript-diluc-burst-benefits-from-a4.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917975114987999382_919073580216643584_transcript-diluc-burst-benefits-from-a4.html)
 
 **Finding:**  
-Diluc's Burst damage will benefit from his A4 talent, Blessing of the Phoenix, which grants Pyro DMG% for the duration of the Pyro infusion granted by his Burst.  
+Diluc's Burst damage will benefit from his A4 talent, Blessing of the Phoenix, which grants Pyro DMG% for the duration of the Pyro infusion granted by his Burst.
 
 **Evidence:**  
 [YouTube](https://youtu.be/kgvoO5fdECw)
+
 * Diluc has 443 Attack, Level 8 Dawn has 326.40% Slashing Damage
 * `326.40 * 443 * (1 + .5) * (1 + .2) * .9 * (81 + 100)/(85 + 100 + 81 + 100) = 1158`
 * Damage in game = 1159, which is within rounding error.
 
 **Significance:**  
-More damage for Diloog.  
+More damage for Diloog.

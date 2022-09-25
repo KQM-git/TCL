@@ -36,26 +36,26 @@ The following is a table consisting of different types of **Elemental Shields** 
 <TabItem value="pyro" label="Pyro Abyss Mage">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | Null |
-| Hydro | 6GU |
-| Electro | 12GU |
-| Cryo | 24GU |
-| Anemo | 24GU |
-| Geo | 24GU |
+| :--------------- | :------------------- |
+| Pyro             | Null                 |
+| Hydro            | 6GU                  |
+| Electro          | 12GU                 |
+| Cryo             | 24GU                 |
+| Anemo            | 24GU                 |
+| Geo              | 24GU                 |
 
 </TabItem>
 
 <TabItem value="cryo" label="Cryo Abyss Mage">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Cryo | Null |
-| Hydro | Null |
-| Pyro | 6GU |
-| Electro | 12GU |
-| Anemo | 24GU |
-| Geo | 24GU |
+| :--------------- | :------------------- |
+| Cryo             | Null                 |
+| Hydro            | Null                 |
+| Pyro             | 6GU                  |
+| Electro          | 12GU                 |
+| Anemo            | 24GU                 |
+| Geo              | 24GU                 |
 
 **Note: Cryo Elemental Shields** are the only shields that can be damaged with Heavy attacks such as Claymore hits. It takes ~24 Claymore hits to break a **Cryo Elemental Shield.**
 
@@ -64,52 +64,52 @@ The following is a table consisting of different types of **Elemental Shields** 
 <TabItem value="hydro" label="Hydro Abyss Mage">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Hydro | Null |
-| Cryo | 12GU |
-| Electro | 15GU |
-| Pyro | 24GU |
-| Anemo | 24GU |
-| Geo | 24GU |
+| :--------------- | :------------------- |
+| Hydro            | Null                 |
+| Cryo             | 12GU                 |
+| Electro          | 15GU                 |
+| Pyro             | 24GU                 |
+| Anemo            | 24GU                 |
+| Geo              | 24GU                 |
 
 </TabItem>
 
 <TabItem value="electro" label="Electro Abyss Mage">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Electro | Null |
-| Cryo | 8GU |
-| Hydro | 8GU |
-| Pyro | 8GU |
-| Anemo | 16GU |
-| Geo | 16GU |
+| :--------------- | :------------------- |
+| Electro          | Null                 |
+| Cryo             | 8GU                  |
+| Hydro            | 8GU                  |
+| Pyro             | 8GU                  |
+| Anemo            | 16GU                 |
+| Geo              | 16GU                 |
 
 </TabItem>
 
 <TabItem value="herald" label="Abyss Herald">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Hydro | Null |
-| Cryo | 36GU |
-| Electro | 45GU |
-| Pyro | 72GU |
-| Anemo | 72GU |
-| Geo | 72GU |
+| :--------------- | :------------------- |
+| Hydro            | Null                 |
+| Cryo             | 36GU                 |
+| Electro          | 45GU                 |
+| Pyro             | 72GU                 |
+| Anemo            | 72GU                 |
+| Geo              | 72GU                 |
 
 </TabItem>
 
 <TabItem value="lector" label="Abyss Lector">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Electro | Null |
-| Cryo | 36GU |
-| Pyro | 36GU |
-| Hydro | 45GU |
-| Anemo | 72GU |
-| Geo | 72GU |
+| :--------------- | :------------------- |
+| Electro          | Null                 |
+| Cryo             | 36GU                 |
+| Pyro             | 36GU                 |
+| Hydro            | 45GU                 |
+| Anemo            | 72GU                 |
+| Geo              | 72GU                 |
 
 </TabItem>
 </Tabs>
@@ -120,22 +120,22 @@ The following is a table consisting of different types of **Elemental Shields** 
 <TabItem value="cryo" label="Cryo Slime">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | 4GU |
-| Electro | 8GU |
-| Anemo | 16GU |
-| Geo | 16GU |
-| Claymore N1 | 14 Hits |
+| :--------------- | :------------------- |
+| Pyro             | 4GU                  |
+| Electro          | 8GU                  |
+| Anemo            | 16GU                 |
+| Geo              | 16GU                 |
+| Claymore N1      | 14 Hits              |
 
 </TabItem>
 
 <TabItem value="geo" label="Geo Slime">
 
 | Damage Source | Hits Required |
-| :--- | :--- |
-| Claymore N1 | 6 |
-| Ningguang N1 | 6~7 |
-| Overload | 6~7 |
+| :------------ | :------------ |
+| Claymore N1   | 6             |
+| Ningguang N1  | 6~7           |
+| Overload      | 6~7           |
 
 **Important: Geo Slimes** can lose their **Shield** through **Crystallize Reaction.** Claymore attacks vary in strength from character to other but the difference should be 1 Normal.
 
@@ -151,11 +151,11 @@ Before we get into how to take down a **Cryo Cicin Mage's Elemental Shield,** fi
 C = Numbers of Cicin alive.**
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | 2GU × C |
-| Electro | 4GU × C |
-| Anemo | 8GU × C |
-| Geo | 8GU × C |
+| :--------------- | :------------------- |
+| Pyro             | 2GU × C              |
+| Electro          | 4GU × C              |
+| Anemo            | 8GU × C              |
+| Geo              | 8GU × C              |
 
 </TabItem>
 </Tabs>
@@ -179,14 +179,14 @@ The following are tables consisting of different types of **Elemental Armor** as
 <Tabs>
 <TabItem value="fatui" label="Fatui Skirmishers">
 
-| Fatui Skirmisher Type | Element + Gauge Units |
-| :--- | :--- |
-| Cryo Fatui | 4GU Pyro |
-| Electro Fatui | 4GU Cryo |
-| Hydro Fatui | 5GU Electro |
-| Anemo Fatui | 1GU Cryo\Hydro\Pyro\Electro |
-| Pyro Gunslinger | 4GU Hydro |
-| Geochanter | 5~7 Heavy Attacks OR Crystallize Reaction |
+| Fatui Skirmisher Type | Element + Gauge Units                     |
+| :-------------------- | :---------------------------------------- |
+| Cryo Fatui            | 4GU Pyro                                  |
+| Electro Fatui         | 4GU Cryo                                  |
+| Hydro Fatui           | 5GU Electro                               |
+| Anemo Fatui           | 1GU Cryo\Hydro\Pyro\Electro               |
+| Pyro Gunslinger       | 4GU Hydro                                 |
+| Geochanter            | 5~7 Heavy Attacks OR Crystallize Reaction |
 
 * Foreign auras can exist on these armor and there are some interesting interactions when trying to break said armor. See this [Vault Entry](../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/#fatui-armor-and-aura-interactions) for more information.
 
@@ -199,27 +199,27 @@ The following are tables consisting of different types of **Elemental Armor** as
 <TabItem value="cryo" label="Cryo Whopperflower">
 
 | Cryo Whopperflower | Gauge Units Required |
-| :--- | :--- |
-| Cryo | Null |
-| Hydro | Null |
-| Pyro | 1GU |
-| Electro | 2GU |
-| Anemo | 4GU |
-| Geo | 4GU |
-| Claymore N1 | 4 Hits |
+| :----------------- | :------------------- |
+| Cryo               | Null                 |
+| Hydro              | Null                 |
+| Pyro               | 1GU                  |
+| Electro            | 2GU                  |
+| Anemo              | 4GU                  |
+| Geo                | 4GU                  |
+| Claymore N1        | 4 Hits               |
 
 </TabItem>
 
 <TabItem value="pyro" label="Pyro Whopperflower">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | Null |
-| Hydro | 1GU |
-| Electro | 2GU |
-| Cryo | 4GU |
-| Anemo | 4GU |
-| Geo | 4GU |
+| :--------------- | :------------------- |
+| Pyro             | Null                 |
+| Hydro            | 1GU                  |
+| Electro          | 2GU                  |
+| Cryo             | 4GU                  |
+| Anemo            | 4GU                  |
+| Geo              | 4GU                  |
 
 </TabItem>
 </Tabs>
@@ -231,34 +231,34 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 <Tabs>
 <TabItem value="geo" label="Stonehide Lawachurl">
 
-| Damage Source | Hits Required |
-| :--- | :--- |
-| Claymore N1 over 24 Seconds | 11 |
-| Overload over 45 Seconds | ~9 |
-| 5 Ningguang N1 | 5 |
+| Damage Source               | Hits Required |
+| :-------------------------- | :------------ |
+| Claymore N1 over 24 Seconds | 11            |
+| Overload over 45 Seconds    | ~9            |
+| 5 Ningguang N1              | 5             |
 
 </TabItem>
 
 <TabItem value="cryo" label="Frostarm Lawachurl">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | 15GU |
-| Electro | 30GU |
-| Anemo | 60GU |
-| Geo | 60GU |
+| :--------------- | :------------------- |
+| Pyro             | 15GU                 |
+| Electro          | 30GU                 |
+| Anemo            | 60GU                 |
+| Geo              | 60GU                 |
 
 </TabItem>
 
 <TabItem value="electro" label="Thunderhelm Lawachurl">
 
 | Elemental Source | Gauge Units Required |
-| :-- | :-- |
-| Hydro | 16GU |
-| Pyro | 16GU |
-| Cryo | 16GU |
-| Anemo | 32GU |
-| Geo | 32GU |
+| :--------------- | :------------------- |
+| Hydro            | 16GU                 |
+| Pyro             | 16GU                 |
+| Cryo             | 16GU                 |
+| Anemo            | 32GU                 |
+| Geo              | 32GU                 |
 
 </TabItem>
 
@@ -272,24 +272,24 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 <TabItem value="pyro" label="Pyro Regisvine">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Hydro | 6GU |
-| Electro | 12GU |
-| Cryo | 24GU |
-| Anemo | 24GU |
-| Geo | 24GU |
+| :--------------- | :------------------- |
+| Hydro            | 6GU                  |
+| Electro          | 12GU                 |
+| Cryo             | 24GU                 |
+| Anemo            | 24GU                 |
+| Geo              | 24GU                 |
 
 </TabItem>
 
 <TabItem value="cryo" label="Cryo Regisvine">
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Pyro | 6GU |
-| Electro | 12GU |
-| Anemo | 24GU |
-| Geo | 24GU |
-| Claymore N1 | ~24 |
+| :--------------- | :------------------- |
+| Pyro             | 6GU                  |
+| Electro          | 12GU                 |
+| Anemo            | 24GU                 |
+| Geo              | 24GU                 |
+| Claymore N1      | ~24                  |
 
 </TabItem>
 </Tabs>
@@ -303,7 +303,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 **Wooden Mitachurl's** shields can be taken down by applying **Pyro Aura**. However, when you apply **Pyro** to the **Wooden Mitachurl's** Shield, he will attempt to extinguish it. There are two ways to deal with that:
 
-* Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard.  
+* Keep attacking him while the **Pyro Aura** is burning his shield so he is forced to guard.
 * Apply another **Pyro Aura** as soon as he extinguishes the first one and the shield will burn.
 
 </TabItem>
@@ -313,9 +313,9 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 **Rockshield Mitachurl's** shield is considered a **Geo Shield**. Therefore, you will need **Heavy attacks, Geo Attacks, or Overload.**
 
 * ~18 Claymore N1
-* ~15 Overload reactions 
+* ~15 Overload reactions
 * 16 Ningguang N1
-* Applying **Cryo** **Aura** then causing **Crystallize** with **Geo Element** is very effective in taking down the **Rockshield Mitachurl's** shield. 
+* Applying **Cryo** **Aura** then causing **Crystallize** with **Geo Element** is very effective in taking down the **Rockshield Mitachurl's** shield.
 
 </TabItem>
 
@@ -323,7 +323,7 @@ Note that both **Stonehide Lawachurl**, **Thunderhelm Lawachurl**, and **Frostar
 
 * 6GU Pyro
 * ~3 Overload Reactions
-* While **Claymore Attacks** can damage the **Iceshield Mitachurl's Shield,** the shield has a regenerate mechanic which makes it hard for **Claymore Attacks** to outpace the **Shield Regeneration.** Therefore, its best to take down the shield using **Pyro Aura.** 
+* While **Claymore Attacks** can damage the **Iceshield Mitachurl's Shield,** the shield has a regenerate mechanic which makes it hard for **Claymore Attacks** to outpace the **Shield Regeneration.** Therefore, its best to take down the shield using **Pyro Aura.**
 
 </TabItem>
 </Tabs>
@@ -343,13 +343,14 @@ Total Shield Damage = Reaction Cost + Damage Cost + Poise Cost
 For an in-depth analysis on shield damage as of 2021-06-05, vibe checker\#5502 has written [An Extensive Look Into Shield Damage in Genshin Impact](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing)
 
 Additional notes on shield damage:
+
 * Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
 
 ## Credits
 
 ### Writers
 
-* 3b00d\_09\#2235
+* 3b00d_09\#2235
 
 ### Theorycrafters
 
@@ -363,11 +364,10 @@ Additional notes on shield damage:
 
 ## External Links
 
-* [Bobrokrot's Shield Infographic](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit#gid=0) 
-* [GU Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=0) 
+* [Bobrokrot's Shield Infographic](https://docs.google.com/spreadsheets/d/1GZHd0eLAv8364QKnwtUpraqWmKipXeWQ7S-lsgi69hw/edit#gid=0)
+* [GU Database](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit#gid=0)
 * [An Extensive Look Into Shield Damage in Genshin Impact](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) by vibe checker\#5502
 
 **Evidence Vault:**
 
 <Card item={require('../../evidence/combat-mechanics/enemy-mechanics/enemy-shields.md')} />
-

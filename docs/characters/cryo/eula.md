@@ -33,35 +33,35 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 164.86% | 30 | 329.72%/s | 101.2 | 105.8 |
-| 2-Hit | 171.87% | 58 | 348.34%/s | 105.8 | 3 |
-| 3-Hit | 104.35% x2 | 126 | 259.73%s | 65.55 x2 | 3 |
-| 4-Hit | 206.95% | 161 | 280.39% | 129.95 | 3 |
-| 5-Hit | 131.97% x2 | 250 | 243.92% | 69.21 x2 | 6 |
-| With Recovery | - | 305 | 199.93% | - | - |
+| String        | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------ | :--------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit         | 164.86%    | 30     | 329.72%/s | 101.2        | 105.8        |
+| 2-Hit         | 171.87%    | 58     | 348.34%/s | 105.8        | 3            |
+| 3-Hit         | 104.35% x2 | 126    | 259.73%s  | 65.55 x2     | 3            |
+| 4-Hit         | 206.95%    | 161    | 280.39%   | 129.95       | 3            |
+| 5-Hit         | 131.97% x2 | 250    | 243.92%   | 69.21 x2     | 6            |
+| With Recovery | -          | 305    | 199.93%   | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Spinning DMG | 126.4% | 60 | 3 |
-| Final DMG | 228.55% | 120 | 6 |
-| Stamina Cost | 40/s | - | - |
-| Max Duration | 5s | - | - |
+| Type         | Talent 9% | Poise Damage | Impulse Type |
+| :----------- | :-------- | :----------- | :----------- |
+| Spinning DMG | 126.4%    | 60           | 3            |
+| Final DMG    | 228.55%   | 120          | 6            |
+| Stamina Cost | 40/s      | -            | -            |
+| Max Duration | 5s        | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 137.03% | 35 | 2 |
-| Low Plunge DMG | 274.01% | 150 | 4 |
-| High Plunge DMG | 342.25% | 200 | 7 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 137.03%   | 35           | 2            |
+| Low Plunge DMG  | 274.01%   | 150          | 4            |
+| High Plunge DMG | 342.25%   | 200          | 7            |
 
 </div>
 
@@ -72,31 +72,32 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Press | Hold | Icewhirl Brand | 
-| :--- | :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 248.88% | 417.52% | 163.2% | 
-| Particles | 1~2 \(1:1\) | 2~3 \(1:1\) | - |
-| Frames | 65 | 89 | - |
-| GU | 1A | 1A | 1A | 
-| ICD | None | None | 3 hits / 2.5s |
-| Snapshot | - | - | - | 
-| Damage Element | Cryo | Cryo | Cryo | 
-| Damage Type | Skill | Skill | Skill | 
-| CD | 4s | 10s | - |
-| Poise Damage | 120 | 150 | 50 |
-| Impulse Type | 3 | 5 | 1 |
+| Attribute         | Press       | Hold        | Icewhirl Brand |
+| :---------------- | :---------- | :---------- | :------------- |
+| Skill DMG \(T9%\) | 248.88%     | 417.52%     | 163.2%         |
+| Particles         | 1~2 \(1:1\) | 2~3 \(1:1\) | -              |
+| Frames            | 65          | 89          | -              |
+| GU                | 1A          | 1A          | 1A             |
+| ICD               | None        | None        | 3 hits / 2.5s  |
+| Snapshot          | -           | -           | -              |
+| Damage Element    | Cryo        | Cryo        | Cryo           |
+| Damage Type       | Skill       | Skill       | Skill          |
+| CD                | 4s          | 10s         | -              |
+| Poise Damage      | 120         | 150         | 50             |
+| Impulse Type      | 3           | 5           | 1              |
 
 </div>
 
-| Attribute | Value |
-| :--- | :--- |
-| DEF Bonus | 30% per stack |
-| Phys RES Decrease \(T9%\) | 24% |
-| Cryo Res Decrease \(T9%\) | 24% | 
-| RES Decrease Duration | 7s per stack |
-| Grimheart Duration | 18s |
+| Attribute                 | Value         |
+| :------------------------ | :------------ |
+| DEF Bonus                 | 30% per stack |
+| Phys RES Decrease \(T9%\) | 24%           |
+| Cryo Res Decrease \(T9%\) | 24%           |
+| RES Decrease Duration     | 7s per stack  |
+| Grimheart Duration        | 18s           |
 
 **Notes**
+
 * Both variants of E are considered blunt attacks, but **Icewhirl Brands** are not.
 * **Grimheart** stacks persist on switch.
 
@@ -107,37 +108,38 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Skill | Lightfall Sword |
-| :--- | :--- | :--- | 
-| Skill DMG \(T9%\) | 417.52% | - |
-| Lightfall Sword Base DMG \(T9%\) | - | 674.34% |
-| DMG Per Stack \(T9%\) | - | 137.78% |
-| Cast Frames | 125 | - |
-| Energy Frame | 107 | - |
-| CD Frame | 98 | - |
-| GU | 2B | None |
-| ICD | None | None |
-| Snapshot | Dynamic | Dynamic |
-| Damage Element | Cryo | Physical | 
-| Damage Type | Burst | Burst |
-| Energy Cost | 80 | - | 
-| Duration | - | 7s | 
-| CD | 20s | - | 
-| Poise Damage | 0\* | 400 |
-| Impulse Type | Air, 0, 800\* | Air, 0, 800 |
+| Attribute                        | Skill         | Lightfall Sword |
+| :------------------------------- | :------------ | :-------------- |
+| Skill DMG \(T9%\)                | 417.52%       | -               |
+| Lightfall Sword Base DMG \(T9%\) | -             | 674.34%         |
+| DMG Per Stack \(T9%\)            | -             | 137.78%         |
+| Cast Frames                      | 125           | -               |
+| Energy Frame                     | 107           | -               |
+| CD Frame                         | 98            | -               |
+| GU                               | 2B            | None            |
+| ICD                              | None          | None            |
+| Snapshot                         | Dynamic       | Dynamic         |
+| Damage Element                   | Cryo          | Physical        |
+| Damage Type                      | Burst         | Burst           |
+| Energy Cost                      | 80            | -               |
+| Duration                         | -             | 7s              |
+| CD                               | 20s           | -               |
+| Poise Damage                     | 0\*           | 400             |
+| Impulse Type                     | Air, 0, 800\* | Air, 0, 800     |
 
 </div>
 
-\* Beginning of the animation affect does 400  Poise Damage and has Impulse Type 3.
+\* Beginning of the animation affect does 400 Poise Damage and has Impulse Type 3.
 
 **Notes**
+
 * **Glacial Illumination** does not snapshot.
   * **Lightfall Sword** is still updating live stats when it lights up and is about to explode.
   * Lightfall stacks cannot be gained once **Lightfall Sword** lights up right before exploding.
-  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage. 
+  * **Lightfall Sword** does not snapshot even after Eula is swapped off-field, allowing for a 23 frame window to apply team buffs and increase her burst's damage.
     * Buffs that work for **Lightfall Sword** under her Alt-Swap + LFS timer include Rosaria A4, Bennett Burst, 4NO, Lisa A4, Shenhe A4, TTDS, and Zhongli shred.
-  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's burst when immediately activated before Eula's burst. 
-* **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast. 
+  * Rosaria's [**Shadow Samaritan**](rosaria.md#ascension-passives) \(A4\), does not consistently last to the end of Eula's burst when immediately activated before Eula's burst.
+* **Glacial Illumination**'s cooldown and energy is reset at hitmark, not cast.
 * **Glacial Illumination** cast and **Lightfall Sword** are both considered blunt attacks
 * The duration of **Glacial Illumination** cannot be increased by hitlag.
 * **Lightfall stacks** are independent of enemies hit, meaning hitting multiple enemies will not net more stacks compared to hitting one enemy.
@@ -147,7 +149,7 @@ import Skill from '@site/src/components/char/Skill'
 * Ranges \(1 abyss tile is ~2.55m\)
   * **Glacial Illumination**'s cast range: ~8 meters
   * **Lightfall Sword** explosion range: ~7 meters
-* By holding down a directional key during the animation of **Glacial Illumination**, you are actionable ~4 frames earlier compared to not holding it down.  
+* By holding down a directional key during the animation of **Glacial Illumination**, you are actionable ~4 frames earlier compared to not holding it down.
 
 </TabItem>
 </Tabs>
@@ -165,10 +167,11 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={0} />
 
 | Poise Damage | Impulse Type |
-| :--- | :--- |
-| 180 | 3 |
+| :----------- | :----------- |
+| 180          | 3            |
 
 **Notes**
+
 * The damage dealt by **Shattered Lightfall Sword** scales with **Glacial Illumination**'s talent level.
 * This damage is considered Elemental Burst damage and is buffed by the effects of 2NO.
 
@@ -188,6 +191,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={1} />
 
 **Notes**
+
 * Whenever you consume a Grimheart stack, no matter the amount of stacks consumed, the duration of C1 will last a base of 6 seconds + 6 per Grimheart stack.
   * So one stack is 12s and two is 18s
 
@@ -205,6 +209,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={4} />
 
 **Notes**
+
 * This effect is additive and applies to both her Lightfall Sword from **Glacial Illumination** \(Burst\) and the Lightfall Remnants from **Roiling Rime** \(A1\).
 
 </TabItem>
@@ -227,4 +232,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/cryo/eula.md')} />
-

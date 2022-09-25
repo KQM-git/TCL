@@ -10,7 +10,7 @@ search: false
 
 ## Skill Mechanics
 
-Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111  
+Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 ### Venti autoattack after elemental skill faster switching
 
@@ -22,7 +22,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **Evidence:** [Video](https://tcl-backup.s3.filebase.com/evidence/characters/anemo/venti.md/discord/attachments_834085780611137607_842113118805295134_Venti-E-N-Swap.mp4)
 
-**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.  
+**Significance:** Allows you to save a second of animation time when switching character after using Venti's elemental skill.
 
 ### Venti 10 Frame Elemental Skill
 
@@ -33,35 +33,37 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 **Finding:** Venti Elemental Skill can consistently be cancelled at 10 frames.
 
 **Evidence:** [YouTube](https://youtu.be/PWJ7Z-Gb-KE)  
-The inputs are: Hold E for 9 frames. Release E. Press Q.  
+The inputs are: Hold E for 9 frames. Release E. Press Q.
 
-**Significance:** Saves around 10 frames on E-Q combo (20 frames E -> 10 frames E).  
+**Significance:** Saves around 10 frames on E-Q combo (20 frames E -> 10 frames E).
 
 ### Venti CA Skill Cancel
 
 **By:** BowTae\#0141  
 **Added:** 2022-04-16  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964968100883726397_transcript-venti-ca-e-cancel.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964968100883726397_transcript-venti-ca-e-cancel.html)
 
 **Finding:**  
-Using Venti Tap Elemental Skill immediately after shooting a non-ARCC Charged Attack will reduce essentially all of his Skill's animation frames.  
+Using Venti Tap Elemental Skill immediately after shooting a non-ARCC Charged Attack will reduce essentially all of his Skill's animation frames.
 
 **Evidence:**  
-[Original discovery by Turtlemaster3000 V.2](https://youtu.be/O587rUzfJao)  
-* You do not need to mash Skill to do this, you just need to tap Skill once immediately after Venti exits Aim mode.  
+[Original discovery by Turtlemaster3000 V.2](https://youtu.be/O587rUzfJao)
 
-This can be done with both hold M1 shots and Aim toggle shots.  
+* You do not need to mash Skill to do this, you just need to tap Skill once immediately after Venti exits Aim mode.
+
+This can be done with both hold M1 shots and Aim toggle shots.
+
 * I couldn't get it to work with ARCC, probably because ARCC removes the shooting animation which is likely what allows this to happen.
-* With Aim toggle, it is possible to do this so that Venti does not need to stop walking: [YouTube](https://youtu.be/Pk8-6Mzg9cQ)  
-* With hold M1, Venti will stop walking to cast his Skill, but this can be canceled immediately with an action, such as dash, Skill, Burst, Attack, or Aim: [YouTube](https://youtu.be/IoL8v-aABos)  
-  * This is therefore just as good as the Aim toggle version, while also needing less time to shoot the CA.  
-  * The hold M1 version seems to rarely if ever work at 30fps, while it is consistent at 60fps.  
-* Proof that this shortened E does damage: [YouTube](https://youtu.be/rxja0bljcuk)  
+* With Aim toggle, it is possible to do this so that Venti does not need to stop walking: [YouTube](https://youtu.be/Pk8-6Mzg9cQ)
+* With hold M1, Venti will stop walking to cast his Skill, but this can be canceled immediately with an action, such as dash, Skill, Burst, Attack, or Aim: [YouTube](https://youtu.be/IoL8v-aABos)
+  * This is therefore just as good as the Aim toggle version, while also needing less time to shoot the CA.
+  * The hold M1 version seems to rarely if ever work at 30fps, while it is consistent at 60fps.
+* Proof that this shortened E does damage: [YouTube](https://youtu.be/rxja0bljcuk)
 
 **Significance:**  
 Crescent Venti stonks. Allows Phys Venti to cast Skill without interrupting the CAs: [YouTube](https://youtu.be/UK556Tz22PA)  
 Can also let Venti do 4pc Shimenawa tax evasion at low ping.  
-In more serious terms, this has little practical use for the majority of Venti usage since it requires a CA.  
+In more serious terms, this has little practical use for the majority of Venti usage since it requires a CA.
 
 ## Burst Mechanics
 
@@ -130,29 +132,35 @@ Thus each application is 1U.
 Venti ult anemo gauge is 1U.
 
 ### Venti Elemental Absorption Proc Count Correction
+
 **By:** CC#5588  
 **Added:** 2022-01-21  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931544431885160499_933946366424670218_transcript-venti-elemental-absorption-proc-count-correction.html)
 
 **Finding:** The Additional Elemental DMG from Venti's Burst Procs 13-15 Times.
 
-**Evidence:**   
+**Evidence:**  
 15 ticks | 60 fps
+
 * CC#5588 - [Youtube](https://youtu.be/q2HtOuYvDUM)
-* Sabrenn#8965 -  [Youtube](https://youtu.be/Cd6IiIBUYuI)
+* Sabrenn#8965 - [Youtube](https://youtu.be/Cd6IiIBUYuI)
 * CrazyWeke123#9720 - [Youtube](https://youtu.be/vTQXvxLGn_0)
 
 14 ticks | 60 fps
+
 * Sabrenn#8965 - [Youtube](https://youtu.be/AipBkL-HXUA)
 * CrazyWeke123#9720 - [Youtube](https://youtu.be/QhQYU3_tcA0)
 
 14 ticks | 120 fps
+
 * Asaki#9139 - [Youtube](https://youtu.be/pVmPlsXPylc)(1) | [Youtube](https://youtu.be/FDpUR3uzf6o)(2)
 
 14 ticks | 30 fps
+
 * CC#5588 - [Youtube](https://youtu.be/T_JDrnxGFh0)
 
 13 ticks | 30 fps mode
+
 * Puffin#9920 - [Youtube](https://youtu.be/v4PM5NY-fYA)
 * CC#5588 - [Youtube](https://youtu.be/eRl7PuVLPiU)
 
@@ -166,7 +174,7 @@ Venti ult anemo gauge is 1U.
 
 **By:** jamberry#7142  
 **Added:** 2021-08-07  
- [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)  
+ [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
 Venti’s C1 damage instance is considered CA damage.
@@ -233,9 +241,8 @@ Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com
 
 **Evidence:** [https://www.youtube.com/watch?v=veVNQh7wtKs](https://www.youtube.com/watch?v=veVNQh7wtKs)
 
-1. Stand 3 square tiles from your desired Venti firing location.  
-2. Place Zhongli's pillar, it should be 4 tiles away from the Venti firing location.  
-3. Walk to desired Venti firing location and fire Vortex, it should land ontop of it.  
+1. Stand 3 square tiles from your desired Venti firing location.
+2. Place Zhongli's pillar, it should be 4 tiles away from the Venti firing location.
+3. Walk to desired Venti firing location and fire Vortex, it should land ontop of it.
 
 **Significance:** This allows for Venti to pull in targets whilst keeping them just low enough for melee units to hit such as Childe, despite being within the 20 levels to pull them in. However due to unknown reasons, the enemies will float \(perhaps due to poise, further investigation is needed\) after some time.
-

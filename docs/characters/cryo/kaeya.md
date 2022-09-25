@@ -31,41 +31,42 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 98.75% | 14 | 423.21%/s | 27.3 | 3 |
-| 2-Hit | 94.96% | 41 | 283.47%/s | 23.4 | 3 |
-| 3-Hit | 119.92% | 72 | 261.36%/s | 44.1 | 3 |
-| 4-Hit | 130.19% | 128 | 208.04%/s | 56.7 | 3 |
-| 5-Hit | 162.11% | 176 | 206.57%/s | 110.6 | 6 |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 98.75%    | 14     | 423.21%/s | 27.3         | 3            |
+| 2-Hit  | 94.96%    | 41     | 283.47%/s | 23.4         | 3            |
+| 3-Hit  | 119.92%   | 72     | 261.36%/s | 44.1         | 3            |
+| 4-Hit  | 130.19%   | 128    | 208.04%/s | 56.7         | 3            |
+| 5-Hit  | 162.11%   | 176    | 206.57%/s | 110.6        | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 <div>
 
-| String | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Charged Attack | 101.12% + 134.3% | 45 x2 | 2 + 6 |
+| String         | Talent 9%        | Poise Damage | Impulse Type |
+| :------------- | :--------------- | :----------- | :----------- |
+| Charged Attack | 101.12% + 134.3% | 45 x2        | 2 + 6        |
 
 | Combo | Frames | MV/s (Talent 9%) |
-| :--- | :--- | :--- |
-| N1C | 87 | 230.46%/s |
+| :---- | :----- | :--------------- |
+| N1C   | 87     | 230.46%/s        |
 
 </div>
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 117.46% | 25 | 2 |
-| Low Plunge DMG | 234.86% | 100 | 4 |
-| High Plunge DMG | 293.36% | 150 | 7 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
 
 **Notes**
+
 * All frame counts are done against Ruin Guards.
 
 </TabItem>
@@ -75,23 +76,24 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 325.04% |
-| Particles | 2~3 \(1:2\) |
-| Frames | 58 |
-| GU | 2B |
-| ICD | None |
-| Snapshot | Snapshot |
-| Damage Element | Cryo |
-| Damage Type | Skill |
-| Cooldown | 6s |
-| Poise Damage | 140 |
-| Impulse Type | 4 |
+| Attribute         | Skill       |
+| :---------------- | :---------- |
+| Skill DMG \(T9%\) | 325.04%     |
+| Particles         | 2~3 \(1:2\) |
+| Frames            | 58          |
+| GU                | 2B          |
+| ICD               | None        |
+| Snapshot          | Snapshot    |
+| Damage Element    | Cryo        |
+| Damage Type       | Skill       |
+| Cooldown          | 6s          |
+| Poise Damage      | 140         |
+| Impulse Type      | 4           |
 
 </div>
 
 **Notes**
+
 * **Frostgnaw** does not have any hitlag.
 * While casting **Frostgnaw**, Kaeya can start dashing on frame 29, and start casting **Glacial Waltz** on frame 52.
 * The cooldown of **Frostgnaw** starts on frame 28.
@@ -103,28 +105,29 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 131.92% |
-| Cast Frames | 78 |
-| Energy Frame | 55 |
-| CD Frame | 49 |
-| GU | 1A |
-| ICD | 3 hit / 2.5s |
-| Snapshot | Snapshot |
-| Damage Element | Cryo |
-| Damage Type | Burst |
-| Energy Cost | 60 |
-| Duration | 8s |
-| Cooldown | 15s |
-| Cast Poise Damage | 400 |
-| Cast Impulse Type | 4 |
-| Icicle Poise Damage | 25 |
-| Icicle Impulse Type | 2 |
+| Attribute           | Burst        |
+| :------------------ | :----------- |
+| Skill DMG \(T9%\)   | 131.92%      |
+| Cast Frames         | 78           |
+| Energy Frame        | 55           |
+| CD Frame            | 49           |
+| GU                  | 1A           |
+| ICD                 | 3 hit / 2.5s |
+| Snapshot            | Snapshot     |
+| Damage Element      | Cryo         |
+| Damage Type         | Burst        |
+| Energy Cost         | 60           |
+| Duration            | 8s           |
+| Cooldown            | 15s          |
+| Cast Poise Damage   | 400          |
+| Cast Impulse Type   | 4            |
+| Icicle Poise Damage | 25           |
+| Icicle Impulse Type | 2            |
 
 </div>
 
 **Notes**
+
 * **Glacial Waltz** does not have any hitlag.
 * **Glacial Waltz** hits around 13 times while standing stationary.
 * The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
@@ -150,6 +153,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={1} />
 
 **Notes**
+
 * This applies even if the target is already frozen
 * The amount of additional particles generated by Kaeya's A4 depends on the number of enemies hit. Hitting 1 enemy generates 1 additional particle and hitting 2 (or more) enemies generates 2 additional particles.
 * This Ascension Passive will not work on Boss and Trounce Domain enemies, but will work on cryo abyss mages.
@@ -170,6 +174,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
+
 * The condition can be triggered by anyone in the party. Opponents do not need to be defeated by **Glacial Waltz** specifically to for **Never-Ending Performance** to trigger.
 
 </TabItem>
@@ -200,4 +205,3 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 ## Evidence Vault
 
 <Card item={require('../../evidence/characters/cryo/kaeya.md')} />
-

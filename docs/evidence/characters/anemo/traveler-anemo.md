@@ -14,21 +14,22 @@ search: false
 
 **By:** Neptunya\#8291, phaZ\#6461, and Bobrokrot\#0111  
 **Added:** 2021-11-05  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883277582366277652_906334012480561162_transcript-amc-e-additional-elemental-dmg.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883277582366277652_906334012480561162_transcript-amc-e-additional-elemental-dmg.html)
 
 **Finding:**  
 Anemo MC's skill is missing talent values for the additional elemental damage that happens when elemental absorption occurs.  
-The additional elemental damage dealt is 0.25x that of the anemo damage dealt.  
+The additional elemental damage dealt is 0.25x that of the anemo damage dealt.
 
 **Evidence:**  
 [Google Doc showing the additional elemental damage dealt](https://docs.google.com/spreadsheets/d/1uTBPUMtR4bQ_T7QeQc6_JRXQvcYxz1muZXiiSEF-Ze8/edit#gid=0)
 
 **Significance:**  
-There will always be those who dare to brave Anemo MC's blender of numbers. 
+There will always be those who dare to brave Anemo MC's blender of numbers.
 
 ### AMC Hold E Ticks
+
 **By:** pai#3602  
-**Added:** 2022-01-27   
+**Added:** 2022-01-27  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713629835481118_936064084728762378_transcript-amc-hold-e-ticks.html)
 
 **Finding:**  
@@ -40,40 +41,43 @@ The Additional Elemental DMG on AMC Hold E ticks between 5 and 6 times, while th
 **Significance:**  
 The Additional Elemental DMG seems to randomly start with the second Initial Cutting DMG or with the first Max Cutting DMG.
 
-### AMC Snapshot 
+### AMC Snapshot
+
 **By:** pai#3602  
-**Added:** 2022-01-27   
+**Added:** 2022-01-27  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934098477913374820_936199910582272070_transcript-amc-snapshot-evidence.html)
 
 **Finding:**  
 AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Elemental DMG.
 
-**Evidence:**  
+**Evidence:**
+
 * Hold E: [Youtube](https://youtu.be/XbZFc77QXQE)  
-Unbuffed Max Cutting DMG (0 stacks, no crit): 171 Anemo, 42 Electro  
-Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
+  Unbuffed Max Cutting DMG (0 stacks, no crit): 171 Anemo, 42 Electro  
+  Buffed Max Cutting DMG (2 stacks, no crit): 199 Anemo, 49 Electro
 
 * Q: [Youtube](https://youtu.be/lnia3ynnn0Y)  
-Tornado DMG (no C6): 824 Anemo, 253 Electro  
-Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
+  Tornado DMG (no C6): 824 Anemo, 253 Electro  
+  Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
-### AMC E Frames Update  
+### AMC E Frames Update
+
 **By:** pai#3602  
 **Added:** 2022-02-02  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932722588076081232_938503721296482354_transcript-amc-e-frames-update.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932722588076081232_938503721296482354_transcript-amc-e-frames-update.html)
 
 **Finding:** AMC E frame counts were previously incorrect.  
 Currently in the TCL:  
 Press: 27  
-Hold: 27~61  
+Hold: 27~61
 
 Updated:  
 Press: 60  
-Hold: 60~145  
+Hold: 60~145
 
 **Evidence:**  
 [Press](https://youtu.be/yGNDt7mTQA8)  
-[Hold](https://youtu.be/OzwVqS84Rd8)  
+[Hold](https://youtu.be/OzwVqS84Rd8)
 
 **Significance:** More accurate frame counts with evidence.
 
@@ -81,22 +85,23 @@ Hold: 60~145
 
 **By:** Hoshbomb\#6327  
 **Added:** 2022-03-22  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955984471470010428_transcript-frozen-amc-with-e-active.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955984471470010428_transcript-frozen-amc-with-e-active.html)
 
 **Finding:**  
-When AMC is frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:  
+When AMC is frozen right before their E starts doing damage, Palm Vortex will still activate. It has different properties from the typical Palm Vortex, differences are as follow:
+
 * There is no Initial Storm Damage after 2 hits, nor is there Max Storm Damage to end the sequence of Anemo DMG.
 * It won't generate Anemo Particles for party members to collect.
 * The duration of Palm Vortex is now directly tied to how long AMC is frozen for.
 * AMC's Elemental Absorption Priority is Cryo \> Pyro \> Hydro \> Electro, which means AMC's Palm Vortex will always self-absorb Cryo.
 
-It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 3 hits/2.5 seconds.  
+It will deal Anemo DMG, and Anemo application still occurs with a normal ICD of 3 hits/2.5 seconds.
 
 **Evidence:**  
-[YouTube video](https://youtu.be/KFxZpb2PEEQ)  
+[YouTube video](https://youtu.be/KFxZpb2PEEQ)
 
 **Significance:**  
-Fluff.  
+Fluff.
 
 ## Burst Mechanics
 
@@ -110,13 +115,15 @@ Fluff.
 
 **Finding:** Anemo MC's Burst is 1U Anemo, but the absorption is 2B.
 
-**Evidence:** 
+**Evidence:**
+
 * With delayed absorption, the last absorption element application matches expected aura duration for 2B absorption with 1U anemo:
   * [2B Absorption](https://youtu.be/yh4dH0WbA6A)
-* With 1A type decay transfer and immediate absorption, the last absorption element application matches expected aura duration for 2U absorption: 
+* With 1A type decay transfer and immediate absorption, the last absorption element application matches expected aura duration for 2U absorption:
   * [2B Absorption with 1A Decay](https://youtu.be/2MtlaOVx904)
 
 **Significance:** The increased absorption gauge may be useful for:
+
 * Shield breaking when able to absorb a counter element.
 * Increased freeze duration otherwise unavailable due to the rarity of 2B hydro applicators (only Tartaglia and Kokomi as of patch 2.3)
 
@@ -136,12 +143,13 @@ Note that level 71 is sufficient to pick up the enemies on Spiral Abyss floor 11
 **Significance:** Anemo MC needs to be of a sufficiently high level relative to the enemy in order to be at all useful in combat at high enough levels.
 
 ### AMC Burst AOE
+
 **By:** pai#3602  
 **Added:** 2022-01-27  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932713520880037960_936073712623583232_transcript-amc-burst-aoe.html)
 
 **Finding:**  
-The Additional Elemental DMG has less AoE than the Tornado DMG. 
+The Additional Elemental DMG has less AoE than the Tornado DMG.
 
 **Evidence:**  
 [Youtube](https://youtu.be/JZfWZiAeMsc) - In the video there were all 9 instances of Tornado DMG but only 1 instance of Additional Elemental DMG because the Ruin Guard wasn't right next to the pillar and the Tornado was stuck on the pillar.
@@ -187,16 +195,17 @@ Although a minor damage source, Anemo Traveler's A1 Passive damage is increased 
 
 **By:** Rathalos\#2875  
 **Added:** 2022-03-22  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)
 
 **Theory:**  
-The elemental proc \(Slitting Wind\) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his N5 attack string occurs.  
+The elemental proc \(Slitting Wind\) from the last string of the Traveler's basic attack behaves differently between Aether and Lumine. Specifically, Lumine's elemental proc happens some time after the last frame of her N5 attack string, while Aether's elemental proc happens before his N5 attack string occurs.
 
-The possible explanations for this is that the elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's n5.  
+The possible explanations for this is that the elemental proc occurs during a specific frame that is shared between both twins, and it just so happens to occur after Lumine's n5 but before Aether's n5.
 
-Lumine's entire N5 sequence takes ~148 frames while Aether's n5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.  
+Lumine's entire N5 sequence takes ~148 frames while Aether's n5 sequence takes ~163, so it is definitely a possibility. However, my device doesn't allow me to framecount very well so I'll leave it as a possible explanation.
 
-**Evidence:**  
+**Evidence:**
+
 * [Aether](https://imgur.com/uh7Oov6)
 * [Lumine](https://imgur.com/FWYE82c)
 * [Lumine's N5 Combo](https://imgur.com/7yVrQVW) which shows that the elemental proc is delayed from the damage number
@@ -204,9 +213,9 @@ Lumine's entire N5 sequence takes ~148 frames while Aether's n5 sequence takes ~
 * [Another clip](https://imgur.com/guq8g4f) showcases a hilichurl being killed by the Anemo DMG number before the 5th hit.
 
 **Significance:**  
-This means that it is possible for Aether to hit the elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her elemental proc if she cancels her N5 too fast.  
+This means that it is possible for Aether to hit the elemental proc without/before connecting his fifth attack, while it is possible for Lumine to miss her elemental proc if she cancels her N5 too fast.
 
-Another possible significance is that this might be a clue to how the Travelers are coded. They might share the same timings for other similar things that manifest at different moments just because of animation difference. As of writing this, no other application comes to mind.  
+Another possible significance is that this might be a clue to how the Travelers are coded. They might share the same timings for other similar things that manifest at different moments just because of animation difference. As of writing this, no other application comes to mind.
 
 ## Constellation Mechanics
 
@@ -217,11 +226,10 @@ Another possible significance is that this might be a clue to how the Travelers 
 **By:** Orodalf\#9570  
 **Added:** 2021-02-12
 
-**Finding:** Anemo Traveller C6 lasts 10 seconds.
+**Finding:** Anemo Traveler C6 lasts 10 seconds.
 
 **Evidence:** [https://i.imgur.com/H7zQc6Y](https://imgur.com/H7zQc6Y)
 
-Final hit of Traveller Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
+Final hit of Traveler Q at 3 seconds, Venti's Q stops doing extra damage at 13 seconds:
 
 **Significance:** I didn't see this written down anywhere else, so.
-

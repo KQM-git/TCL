@@ -28,7 +28,7 @@ Damage reduction applies before shields are calculated.
 
 **Evidence:**
 
-[**https://docs.google.com/document/d/1xO\_VR9Jg14qj\_RY0Wx58wgSNJT7VUUEX1\_ul\_rkqTV0/edit?usp=sharing**](https://docs.google.com/document/d/1xO_VR9Jg14qj_RY0Wx58wgSNJT7VUUEX1_ul_rkqTV0/edit?usp=sharing)
+[**https://docs.google.com/document/d/1xO_VR9Jg14qj_RY0Wx58wgSNJT7VUUEX1_ul_rkqTV0/edit?usp=sharing**](https://docs.google.com/document/d/1xO_VR9Jg14qj_RY0Wx58wgSNJT7VUUEX1_ul_rkqTV0/edit?usp=sharing)
 
 **Significance:**
 
@@ -51,4 +51,3 @@ My original math is in the description of the video. [https://www.youtube.com/wa
 **Significance:**
 
 Other shield effectiveness is not accounted for, but it stands to reason that they work the same way. We can both say that a shield has 2.5x of its current value, or the damage is reduced by 2.5x, against it's effective element.
-

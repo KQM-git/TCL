@@ -8,7 +8,7 @@ description: An explanation as to how outgoing damage is calculated.
 
 $$
 \text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \\
-\times (1 + \text{DamageBonus} - \text{DamageReduction}) \\ 
+\times (1 + \text{DamageBonus} - \text{DamageReduction}) \\
 \times \text{Crit}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
 + \text{TransformativeReaction} + \text{Proc}
 $$
@@ -18,10 +18,10 @@ See the sections below for the breakdown of each individual part of the formula.
 ## Base Damage
 
 $$
-\text{BaseDamage} = 
-\begin{cases} 
+\text{BaseDamage} =
+\begin{cases}
   \text{Talent \%} \times \text{ATK} & \text{if, talent scales with Attack} \\
-  \text{Talent \%} \times \text{DEF} & \text{if, talent scales with Defense} \\ 
+  \text{Talent \%} \times \text{DEF} & \text{if, talent scales with Defense} \\
   \text{Talent \%} \times \text{Max HP} & \text{if, talent scales with Max HP}
 \end{cases}
 $$
@@ -72,9 +72,9 @@ $$
 ## Critical Hits
 
 $$
-\text{Crit} = \begin{cases} 
+\text{Crit} = \begin{cases}
   1 + \text{CritDamage} & \text{if, crit} \\
-  1 & \text{otherwise } 
+  1 & \text{otherwise }
 \end{cases}
 $$
 
@@ -89,7 +89,7 @@ $$
 
 ## Enemy Defense
 
-import EnemyDef from '../_formulas/enemydef.md'
+import EnemyDef from '../\_formulas/enemydef.md'
 
 <EnemyDef />
 
@@ -111,7 +111,7 @@ import EnemyDef from '../_formulas/enemydef.md'
 
 ## Enemy Resistance
 
-import EnemyRes from '../_formulas/enemyres.md'
+import EnemyRes from '../\_formulas/enemyres.md'
 
 <EnemyRes />
 
@@ -122,7 +122,7 @@ import EnemyRes from '../_formulas/enemyres.md'
 
 ## Amplifying Reaction Bonus
 
-import AmplifyingReaction from '../_formulas/amplifying.md'
+import AmplifyingReaction from '../\_formulas/amplifying.md'
 
 <AmplifyingReaction />
 
@@ -136,10 +136,10 @@ import AmplifyingReaction from '../_formulas/amplifying.md'
 Unlike other bonuses, these are directly multiplicative with base talent scaling. They can be considered a multiplier of the talent motion value.
 
 $$
-\text{SpecialMultiplier} = \begin{cases} 
-  1.5 & \text{if, Evilsoother triggered} \\ 
-  \text{Talent \%} & \text{if, Niwabi Fire-Dance activated} \\ 
-  1 & \text{otherwise} 
+\text{SpecialMultiplier} = \begin{cases}
+  1.5 & \text{if, Evilsoother triggered} \\
+  \text{Talent \%} & \text{if, Niwabi Fire-Dance activated} \\
+  1 & \text{otherwise}
 \end{cases}
 $$
 
@@ -150,7 +150,7 @@ $$
 
 ## Transformative Reaction Bonus
 
-import TransformativeReaction from '../_formulas/transformative.md'
+import TransformativeReaction from '../\_formulas/transformative.md'
 
 <TransformativeReaction />
 

@@ -12,38 +12,38 @@ None.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 orb | common  
-| 33% HP | 1 orb | common   
-| Death | 1 orb | common
+| HP Threshold | Type  | Element |
+| :----------- | :---- | :------ |
+| 66% HP       | 1 orb | common  |
+| 33% HP       | 1 orb | common  |
+| Death        | 1 orb | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 70% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 70%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 141743 |
-| 65 | 186350 |
-| 70 | 234434 |
-| 75 | 293344 |
-| 80 | 378186 |
-| 85 | 483170 |
-| 90 | 593605 |
-| 95 | 726859 |
-| 100 | 887360 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 141743 |
+| 65    | 186350 |
+| 70    | 234434 |
+| 75    | 293344 |
+| 80    | 378186 |
+| 85    | 483170 |
+| 90    | 593605 |
+| 95    | 726859 |
+| 100   | 887360 |
 
 ## Attacks
 
@@ -57,4 +57,4 @@ None.
 
 ## Interactions
 
-* Defeating PMA minions won't proc any kill-based effects, similar to Specters.  
+* Defeating PMA minions won't proc any kill-based effects, similar to Specters.

@@ -46,13 +46,13 @@ Another evidence that the Serenitea Pot behaves similarly to Domains in game.
 **Finding:**  
 Although Hypostases and Perpetual Mechanical Array don’t have obvious distinction between front and back in terms of visual, Rosaria can still activate her A1 passive (12% crit rate buff) by hitting them from certain angles.
 
-**Evidence:**  
+**Evidence:**
 
 * [Video](https://youtu.be/dig5i2_D3K0)  
-  In this clip I cast Rosaria E twice against Cryo Hypostasis in the same DPS window. The first E failed to activate A1 while the second E cast from opposite direction was able to activate it. 
+  In this clip I cast Rosaria E twice against Cryo Hypostasis in the same DPS window. The first E failed to activate A1 while the second E cast from opposite direction was able to activate it.
 
 * [Video](https://youtu.be/zOOQLVVu7D4)  
-  This clip contains two separate attempts of hitting Cryo Hypostasis after they performed the rolling attacks. In the first attempt, I hit them from “behind” and successfully activated the passive. In the second attempt I hit them from opposite direction and couldn’t get the buff. 
+  This clip contains two separate attempts of hitting Cryo Hypostasis after they performed the rolling attacks. In the first attempt, I hit them from “behind” and successfully activated the passive. In the second attempt I hit them from opposite direction and couldn’t get the buff.
 
 * Clips of Rosaria getting A1 buff against other bosses:  
   Anemo Hypostasis - [Video](https://youtu.be/BWp5TEI-orQ)  
@@ -123,4 +123,3 @@ Also hitlag on Mitachurl shields [wooden](https://www.youtube.com/watch?v=8Jd4QW
 **Significance:** This makes 4 piece Pale Flame stacks somewhat difficult to maintain for carry Rosaria with, since her skill CD is 6s and Pale Flame stacks last for 7s.
 
 * https://imgur.com/Ye5ro0C
-

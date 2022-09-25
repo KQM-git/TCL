@@ -27,35 +27,35 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 64.42% | 22 | 175.69% | 7.436 | 1 |
-| 2-Hit | 65.48% | 46 | 163.70% | 7.222 | 1 |
-| 3-Hit | 96.71% | 90 | 131.88% | 10.667 | 1 |
-| Recovery | - | 127 | - | - | - |
-
+| String   | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
+| :------- | :-------- | :----- | :------ | :----------- | :----------- |
+| 1-Hit    | 64.42%    | 22     | 175.69% | 7.436        | 1            |
+| 2-Hit    | 65.48%    | 46     | 163.70% | 7.222        | 1            |
+| 3-Hit    | 96.71%    | 90     | 131.88% | 10.667       | 1            |
+| Recovery | -         | 127    | -       | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| CHarged Attack DMG | 242.92% | 87 | 167.53% | 80 | 2 |
+| String             | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :----- | :------ | :----------- | :----------- |
+| CHarged Attack DMG | 242.92%   | 87     | 167.53% | 80           | 2            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 5 | 2 |
-| Low Plunge DMG | 208.77% | 50 | 3 |
-| High Plunge DMG | 260.76% | 100 | 4 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 104.41%   | 5            | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 3            |
+| High Plunge DMG | 260.76%   | 100          | 4            |
 
 </div>
 
 **Notes**
+
 * Normal Attacks have a 3 hit/2.5s ICD.
 * Charged Attacks have no ICD.
 * Charged Attacks can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
@@ -65,29 +65,30 @@ import Skill from '@site/src/components/char/Skill'
 <TabItem value='e' label='Skill'>
 <h3>{getSkillName(char, 'e')}</h3>
 <div class='talent-columns'>
-<Skill char={char} skill='e' /> 
+<Skill char={char} skill='e' />
 
-| Attribute | Sesshou Sakura | 
-| :--- | :--- |
-| Skill DMG Level 1 \(T9%\) | 103.14% |
-| Skill DMG Level 2 \(T9%\) | 128.93% |
-| Skill DMG Level 3 \(T9%\) | 161.16% |
-| Skill DMG Level 4 \(T9%\) | 201.45% |
-| Particles | 1 \(-\) | 
-| Frames | 34 |
-| GU | 1A |
-| ICD | 3 hit / 2.5s | 
-| Snapshot | Dynamic | 
-| Damage Element | Electro | 
-| Damage Type | Skill |
-| Duration | 14 |
-| CD | 4 | 
-| Poise Damage | 25 |
-| Impulse Type | 2 |
+| Attribute                 | Sesshou Sakura |
+| :------------------------ | :------------- |
+| Skill DMG Level 1 \(T9%\) | 103.14%        |
+| Skill DMG Level 2 \(T9%\) | 128.93%        |
+| Skill DMG Level 3 \(T9%\) | 161.16%        |
+| Skill DMG Level 4 \(T9%\) | 201.45%        |
+| Particles                 | 1 \(-\)        |
+| Frames                    | 34             |
+| GU                        | 1A             |
+| ICD                       | 3 hit / 2.5s   |
+| Snapshot                  | Dynamic        |
+| Damage Element            | Electro        |
+| Damage Type               | Skill          |
+| Duration                  | 14             |
+| CD                        | 4              |
+| Poise Damage              | 25             |
+| Impulse Type              | 2              |
 
 </div>
 
 **Notes**
+
 * Each Sesshou Sakura hits up to 5 times, generating 1 particle on each hit and none on cast.
 * When casting E three times in a straight line only the one in the middle will be level 3.
 * It has a small AoE.
@@ -101,26 +102,27 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst | 
-| :--- | :--- |
-| Skill DMG \(T9%\) | 442% |
-| Tenko Thunderbolt DMG \(T9%\) | 567.49% |
-| Cast Frames | 111 |
-| Energy Frame | 7 |
-| CD Frame | 1 |
-| GU | 1A |
-| ICD | None | 
-| Snapshot | Dynamic | 
-| Damage Element | Electro | 
-| Damage Type | Burst |
-| Energy Cost | 90 |
-| CD | 22 | 
-| Poise Damage | 75 |
-| Impulse Type | Burst: 3 <br/> Tenko Thunderbolt: 2 |
+| Attribute                     | Burst                               |
+| :---------------------------- | :---------------------------------- |
+| Skill DMG \(T9%\)             | 442%                                |
+| Tenko Thunderbolt DMG \(T9%\) | 567.49%                             |
+| Cast Frames                   | 111                                 |
+| Energy Frame                  | 7                                   |
+| CD Frame                      | 1                                   |
+| GU                            | 1A                                  |
+| ICD                           | None                                |
+| Snapshot                      | Dynamic                             |
+| Damage Element                | Electro                             |
+| Damage Type                   | Burst                               |
+| Energy Cost                   | 90                                  |
+| CD                            | 22                                  |
+| Poise Damage                  | 75                                  |
+| Impulse Type                  | Burst: 3 <br/> Tenko Thunderbolt: 2 |
 
 </div>
 
 **Notes**
+
 * It is completely stationary and targets the enemies at the end of the animation, regardless of where the Sesshou Sakuras are.
 * Elemental Particles and Orbs can be pre-funneled.
 * The Sesshou Sakuras are unsealed instantly when casting the Burst.
@@ -144,7 +146,8 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
 
-**Notes:**
+**Notes**
+
 * Elemental Mastery from other characters such as Kazuha C2, Sucrose A4, or Diona C6 increases the DMG of Sesshou Sakura.
 
 </TabItem>
@@ -158,7 +161,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c1' label='C1'>
 <Constellation char={char} constellation={1} />
 
-**Notes:**  
+**Notes**
+
 * The Burst does not need to hit an enemy in order for the Energy to be restored.
 
 </TabItem>

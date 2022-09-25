@@ -22,7 +22,7 @@ import claymores from '@site/src/data/weapons/Claymore.json'
 
 <Weapon weapon="Song of Broken Pines" weapons={claymores}>
 
-import MillennialMovementSeries from './_common/millennial_movement.md';
+import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <MillennialMovementSeries/>
 
@@ -32,8 +32,8 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 
 <Weapon weapon="The Unforged" weapons={claymores}>
 
-* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
-* The Unforged can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)
+* Hits that can gain stacks include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* The Unforged can gain stacks on zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -42,9 +42,9 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 <Weapon weapon="Wolf's Gravestone" weapons={claymores}>
 
 * WGS procs do not stack, the most recent proc overwrites the existing proc, even if the existing buff hasn't ended yet - [JonahFarc\#7056](../../evidence/equipment/weapons.md#wolfs-gravestone-procs-dont-stack)
-* Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)  
-* The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff. - [Goden\#2155](../../evidence/equipment/weapons.md#wolfs-gravestone-passive-does-not-affect-the-attack-that-procs-it)  
-* WGS passive can be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md\#weapon-stacks-and-zero-damage-attacks)  
+* Hits that can trigger WGS passive include Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst hits. - [CQLQRS#7853 and Dunia#2481](../../evidence/equipment/weapons.md#weapon-stacks-on-hit)
+* The hit that procs Wolf's Gravestone's passive does not get the buff bonus applied to itself. Only subsequent hits are affected by the buff. - [Goden\#2155](../../evidence/equipment/weapons.md#wolfs-gravestone-passive-does-not-affect-the-attack-that-procs-it)
+* WGS passive can be triggered by zero-damage attacks. - [Kolibri\#7675, Xreejan\#1180, Phana\#0420](../../evidence/equipment/weapons.md#weapon-stacks-and-zero-damage-attacks)
 
 </Weapon>
 
@@ -58,7 +58,7 @@ import MillennialMovementSeries from './_common/millennial_movement.md';
 
 <Weapon weapon="Blackcliff Slasher" weapons={claymores}>
 
-import BlackcliffSeries from './_common/blackcliff_series.md';
+import BlackcliffSeries from './\_common/blackcliff_series.md';
 
 <BlackcliffSeries/>
 
@@ -68,7 +68,7 @@ import BlackcliffSeries from './_common/blackcliff_series.md';
 
 <Weapon weapon="Favonius Greatsword" weapons={claymores}>
 
-import FavSeries from './_common/fav_series.md';
+import FavSeries from './\_common/fav_series.md';
 
 <FavSeries/>
 
@@ -82,7 +82,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Katsuragikiri Nagamasa" weapons={claymores}>
 
-* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy. 
+* Samurai Conduct has a 22 to 24-frame delay from when your Elemental Skill hits an enemy to when you actually lose Energy.
 
 </Weapon>
 
@@ -106,7 +106,7 @@ import FavSeries from './_common/fav_series.md';
 
 <Weapon weapon="Rainslasher" weapons={claymores}>
 
-import BaneSeries from './_common/bane_series.md';
+import BaneSeries from './\_common/bane_series.md';
 
 <BaneSeries/>
 
@@ -116,7 +116,7 @@ import BaneSeries from './_common/bane_series.md';
 
 <Weapon weapon="Royal Greatsword" weapons={claymores}>
 
-import RoyalSeries from './_common/royal_series.md';
+import RoyalSeries from './\_common/royal_series.md';
 
 <RoyalSeries/>
 
@@ -126,7 +126,7 @@ import RoyalSeries from './_common/royal_series.md';
 
 <Weapon weapon="Sacrificial Greatsword" weapons={claymores}>
 
-import SacSeries from './_common/sac_series.md';
+import SacSeries from './\_common/sac_series.md';
 
 <SacSeries/>
 
@@ -143,7 +143,7 @@ import SacSeries from './_common/sac_series.md';
   * 2-1: 1.17-1.18s
 * Serpent Spine's damage taken increase affects shields.
 * The buff timer starts ticking and continues ticking whether the holder is on the field or not. However the character only gains a stack every 4 seconds if that character is on field.
-* The buff timer resets when you take damage that would cause you to lose a stack. 
+* The buff timer resets when you take damage that would cause you to lose a stack.
 
 </Weapon>
 
@@ -217,4 +217,3 @@ As of patch 2.5, Charged Attack speed buffs do not dynamically increase claymore
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

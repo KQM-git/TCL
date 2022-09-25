@@ -21,7 +21,7 @@ Reducing Barbara E animation for optimizing the "first heal"
 
 **Evidence:**
 
-* Just Switch: [https://youtu.be/8d4SAxy2yrM](https://youtu.be/8d4SAxy2yrM)  
+* Just Switch: [https://youtu.be/8d4SAxy2yrM](https://youtu.be/8d4SAxy2yrM)
 * Just Switch and Beyond: [https://youtu.be/yBNpbQNPVgg](https://youtu.be/yBNpbQNPVgg)
 
 **Significance**
@@ -37,20 +37,22 @@ Steps to Reproduce
 
 **By:** Poro\#4695  
 **Added:** 2022-02-02  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4pc-sets.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4pc-sets.html)
 
 **Finding:**  
-Barbara has a small time window during her initial Elemental Skill cast that allows her to dash and cancel the Elemental Skill, while avoiding the cooldown and triggering 4-Piece set bonuses from artifacts.  
+Barbara has a small time window during her initial Elemental Skill cast that allows her to dash and cancel the Elemental Skill, while avoiding the cooldown and triggering 4-Piece set bonuses from artifacts.
 
 **Evidence:**  
 [YouTube Video](https://youtu.be/HgPYkUIzl6A)  
-4-Piece Shimenawa's Reminiscence:  
-* Unbuffed: 93 DMG  
-* Buffed: 140 DMG  
+4-Piece Shimenawa's Reminiscence:
 
-4-Piece Heart of Depth:  
-* Unbuffed: 98 DMG  
-* Buffed: 109 DMG  
+* Unbuffed: 93 DMG
+* Buffed: 140 DMG
+
+4-Piece Heart of Depth:
+
+* Unbuffed: 98 DMG
+* Buffed: 109 DMG
 
 **Significance:**  
 Potential improvement for Main DPS Barbara as you can now avoid her long Elemental Skill cooldown.
@@ -63,10 +65,10 @@ Potential improvement for Main DPS Barbara as you can now avoid her long Element
 
 **By:** yolitme0\#0579  
 **Added:** 2021-10-31  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904016162382311484_904534494319607848_transcript-barbara-c6-revive-can-be-canceled-by-swapping.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904016162382311484_904534494319607848_transcript-barbara-c6-revive-can-be-canceled-by-swapping.html)
 
 **Finding:**  
-If a character dies at the same time the player switches characters, the death animation for the dead character will not activate, and neither will the revive from Barbara C6.  
+If a character dies at the same time the player switches characters, the death animation for the dead character will not activate, and neither will the revive from Barbara C6.
 
 **Evidence:**  
 [YouTube](https://youtu.be/2BZSTCRNuJo)  

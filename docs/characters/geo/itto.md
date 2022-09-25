@@ -31,43 +31,44 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s |  Poise Damage\* | Impulse Type\* |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 145.57% | 23 | 379.75%/s | 82.9 | 3 |
-| 2-Hit | 140.3% | 67 | 256%/s | 77.9 | 3 |
-| 3-Hit | 168.36% | 101 | 269.84%/s | 98.3 | Heavy, 500, 0 |
-| 4-Hit | 215.37% | 181 | 221.97%/s | 124.5 | 5 |
-| Recovery | 669.6% | 202 | 198.89%/s | - | - |
+| String   | Talent 9% | Frames | MV/s      | Poise Damage\* | Impulse Type\* |
+| :------- | :-------- | :----- | :-------- | :------------- | :------------- |
+| 1-Hit    | 145.57%   | 23     | 379.75%/s | 82.9           | 3              |
+| 2-Hit    | 140.3%    | 67     | 256%/s    | 77.9           | 3              |
+| 3-Hit    | 168.36%   | 101    | 269.84%/s | 98.3           | Heavy, 500, 0  |
+| 4-Hit    | 215.37%   | 181    | 221.97%/s | 124.5          | 5              |
+| Recovery | 669.6%    | 202    | 198.89%/s | -              | -              |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage* | Impulse Type* |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Arataki Kesagiri Combo Slash DMG | 167.48% | - | - | 1 stack: 143.4 <br/> 2-5 stacks: 81.7 | Heavy, 250, 0 |
-| Arataki Kesagiri Final Slash DMG | 350.76% | - | - | 143.4 | Air, 100, 800 |
-| Saichimonji Slash DMG | 131.5% | - | - | 120 | 5 |
-| 5CA | 807.5% | 180 | 340.23%/s | - | - |
-| 5CA w/Recovery | - | 207 | 295.85%/s | - | - |
-| SCAF | 350.76% | 74 | 284.4%/s | - | - |
-| SCAF w/Recovery | - | 102 | 206.33%/s | - | - |
+| String                           | Talent 9% | Frames | MV/s      | Poise Damage\*                        | Impulse Type\* |
+| :------------------------------- | :-------- | :----- | :-------- | :------------------------------------ | :------------- |
+| Arataki Kesagiri Combo Slash DMG | 167.48%   | -      | -         | 1 stack: 143.4 <br/> 2-5 stacks: 81.7 | Heavy, 250, 0  |
+| Arataki Kesagiri Final Slash DMG | 350.76%   | -      | -         | 143.4                                 | Air, 100, 800  |
+| Saichimonji Slash DMG            | 131.5%    | -      | -         | 120                                   | 5              |
+| 5CA                              | 807.5%    | 180    | 340.23%/s | -                                     | -              |
+| 5CA w/Recovery                   | -         | 207    | 295.85%/s | -                                     | -              |
+| SCAF                             | 350.76%   | 74     | 284.4%/s  | -                                     | -              |
+| SCAF w/Recovery                  | -         | 102    | 206.33%/s | -                                     | -              |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 150.35% | 35 | 2 |
-| Low Plunge DMG | 300.63% | 150 | 4 |
-| High Plunge DMG | 375.5% | 200 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 150.35%   | 35           | 2            |
+| Low Plunge DMG  | 300.63%   | 150          | 4            |
+| High Plunge DMG | 375.5%    | 200          | 7            |
 
 </div>
 
 \* Poise Damage and Impulse Type are the same for regular attacks and converted attacks during **Royal Descent: Behold, Itto the Evil!**.
 
 **Notes**
+
 * Itto can gain **Superlative Superstrength** stacks while off field.
 * Itto's **Superlative Superstrength** stacks persist through character swap.
 * **Arataki Kesagiri Combo Slash** and **Final Slash**'s hitbox can hit enemies located behind Itto.
@@ -81,25 +82,26 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Ushi | 
-| :--- | :--- |
-| Skill DMG \(T9%\) | 522.24% |
-| Inherited HP | 100% |
-| Particles | 3~4 \(1:1\) | 
-| Frames | 26 |
-| GU | 1U |
-| ICD | 1s | 
-| Snapshot | - | 
-| Damage Element | Geo | 
-| Damage Type | Skill |
-| Duration | 6s |
-| CD | 10s | 
-| Poise Damage | 250 |
-| Impulse Type | Air, 100, 600 |
+| Attribute         | Ushi          |
+| :---------------- | :------------ |
+| Skill DMG \(T9%\) | 522.24%       |
+| Inherited HP      | 100%          |
+| Particles         | 3~4 \(1:1\)   |
+| Frames            | 26            |
+| GU                | 1U            |
+| ICD               | 1s            |
+| Snapshot          | -             |
+| Damage Element    | Geo           |
+| Damage Type       | Skill         |
+| Duration          | 6s            |
+| CD                | 10s           |
+| Poise Damage      | 250           |
+| Impulse Type      | Air, 100, 600 |
 
 </div>
 
 **Notes**
+
 * Ushi counts towards the Geo construct limit.
 * Ushi's duration starts at land, not on cast.
 * Hold E has a maximum 10s timer.
@@ -115,24 +117,25 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
+| Attribute         | Burst      |
+| :---------------- | :--------- |
 | ATK Bonus \(T9%\) | 97.92% DEF |
-| ATK SPD Bonus | 10% |
-| Energy Cost | 70 |
-| Cast Frames | 92 |
-| Energy Frame | 6 |
-| CD Frame | 1 |
-| Duration | 11s |
-| CD | 18s |
+| ATK SPD Bonus     | 10%        |
+| Energy Cost       | 70         |
+| Cast Frames       | 92         |
+| Energy Frame      | 6          |
+| CD Frame          | 1          |
+| Duration          | 11s        |
+| CD                | 18s        |
 
 </div>
 
 **Notes**
+
 * Converted Normal, Charged, and Plunging Attacks have the same Poise Damage and Impulse Type as the Physical counterparts.
 * **Royal Descent: Behold, Itto the Evil!** snapshots DEF but does not shapshot Geo DMG or ATK.
   * Right after Gorou uses his Elemental Burst, if Itto is swapped in either with Alt + Num or manually he will consistently snapshot the buffs. This only happens when the ping is below 75ms, otherwise it's inconsistent, with a 53% success rate at 200\~350ms.
-* Itto's converted attacks apply 1U Geo. 
+* Itto's converted attacks apply 1U Geo.
   * Itto's converted Normal and Charged Attacks have standard 3 hit / 2.5s ICD.
 * **Royal Descent: Behold, Itto the Evil!**'s duration can be extended through hitlag.
 * **Royal Descent: Behold, Itto the Evil!** can expire in the middle of a CA string.
@@ -151,6 +154,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={2} />
 
 **Notes**
+
 * The extra wood obtained does not count towards daily 2000 tree cap.
 
 </TabItem>
@@ -173,6 +177,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={1} />
 
 **Notes**
+
 * The second part of **Stay a While and Listen Up** begins around 50 frames later than according to its description.
 
 </TabItem>
@@ -181,6 +186,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
+
 * Itto counts himself as a Geo party member.
 
 </TabItem>
@@ -201,6 +207,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 **Notes**
+
 * At C6, Itto can do an **Arataki Kesagiri Combo Slash** at 1 **Superlative Superstrength** stack as the C6 check is performed before the stack is consumed. C6 Itto cannot do an E>SCA Finisher combo.
 
 </TabItem>

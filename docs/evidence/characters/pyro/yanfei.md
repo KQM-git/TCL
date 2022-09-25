@@ -20,7 +20,6 @@ search: false
 * Yanfei's A1 applies the pyro bonus before charged attack damage is calculated. - [Bobrokrot\#0111](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836874610191499264_2021-04-28_10-50-56.mp4)
   * [Calculations](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836874595118219293_unknown.png)
 
-
 ## Ascension Mechanics
 
 ### A4: Blazing Eye
@@ -29,17 +28,17 @@ search: false
 
 **By:** BowTae\#0141  
 **Added:** 2022-08-16  
-[Discussion](https://tickets.deeznuts.moe/transcripts/yanfei-a4-dragonstrike)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/yanfei-a4-dragonstrike)
 
 **Finding:**  
-Yanfei A4 has hitlag, allowing you to dragonstrike off of it.  
-  
+Yanfei A4 has hitlag, allowing you to dragonstrike off of it.
+
 **Evidence:**  
 Can be done with 0 seals: [Imgur](https://imgur.com/ZR1K1vO)  
-Combo example: [Imgur](https://imgur.com/8ntm5vB)  
-  
+Combo example: [Imgur](https://imgur.com/8ntm5vB)
+
 **Significance:**  
-Stylish Yanfei combos.  
+Stylish Yanfei combos.
 
 ## Constellation Mechanics
 
@@ -58,4 +57,3 @@ Yanfei's Charged Attack Stamina consumption is reduced by 15% per seal. Yanfei's
 
 **Significance:**  
 With a play style heavily centered around charge attacks, Yanfei's C6 allowing her to have 0 Stamina cost per Charged Attack makes her C6 very useful.
-

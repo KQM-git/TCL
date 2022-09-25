@@ -46,8 +46,8 @@ Lets use this example: Diona has a Shield with **1605** Shield Absorption. Equip
 The Shield generated through Crystallize always matches the Elemental Aura of the Crystallize Reaction. These Shield last for 15 seconds and their BA is based off of the Level of the Geo Character that caused Crystallize. Below is a table of different Levels and their Crystallize Shield BA.
 
 | Lv1 | Lv10 | Lv20 | Lv30 | Lv40 | Lv50 | Lv60 | Lv70 | Lv80 | Lv90 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 91 | 159 | 304 | 438 | 557 | 715 | 896 | 1095 | 1277 | 1424 |
+| :-- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 91  | 159  | 304  | 438  | 557  | 715  | 896  | 1095 | 1277 | 1424 |
 
 The **Geo** Character's Elemental Mastery increases **Crystallize Shield's Strength** by a multiplier. The higher the Elemental Mastery, the stronger the Shield gets.
 
@@ -122,7 +122,7 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 
 ### Writers:
 
-* 3b00d\_09\#2235
+* 3b00d_09\#2235
 
 ### Theorycrafters:
 
@@ -138,4 +138,3 @@ Beidou's Elemental Burst, Stormbreaker, grants Beidou a **26%** Damage Reduction
 **Evidence Vault**:
 
 <Card item={require('../../evidence/combat-mechanics/damage/shields.md')} />
-

@@ -12,7 +12,7 @@ search: false
 Source: [https://bbs.mihoyo.com/ys/article/2204156](https://bbs.mihoyo.com/ys/article/2204156) \(Dated Oct 14, 2020\)  
 Translated by: @KluEvo, @sacstanxiang & @Azri K.
 
-Link: [https://docs.google.com/document/d/1\_iXKQk-w91gt3Og1\_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing](https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing)
+Link: [https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing](https://docs.google.com/document/d/1_iXKQk-w91gt3Og1_r3NntHWXACiF6aPk-bI0irhySo/edit?usp=sharing)
 
 ## Bobrokrot’s Shield and Armor Guide
 
@@ -31,7 +31,7 @@ Fatui armor breaks mostly off elemental reactions and armor breaking effectivene
 
 **Evidence**
 
-* [Fischl E vs hydro armor:](https://youtu.be/WF6gwtgneVw) We can see fatui armor breaking from electro-charged procs, not Oz attacks. 
+* [Fischl E vs hydro armor:](https://youtu.be/WF6gwtgneVw) We can see fatui armor breaking from electro-charged procs, not Oz attacks.
 * [Lisa E hold vs hydro shield:](https://youtu.be/m1_TGfRPfCY) Lisa E hold has a strong electro aura application. It seems that strong electro applications triggers electro-charged twice for a total of 4 damage procs.
 * [Beidou E vs hydro armor:](https://youtu.be/KfwM6vByBbI) Beidou E also has strong electro application and it procs electro-charged twice. Note that it takes a total of 10 electro-charged damage procs to take down the armor.
 * [Fischl charged attack vs hydro armor:](https://youtu.be/X_9wisV4ZcY) Fischl's charged attacks have weak aura application and it took a total of 5 shots \(10 electro-charged damage procs\) to take down the armor.
@@ -51,51 +51,60 @@ Fatui armor breaks mostly off elemental reactions and armor breaking effectivene
 
 **By:** Rainfury\#8343  
 **Added:** 2022-03-01  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_948225177748131840_transcript-fatui-shields-and-aura-interaction.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_948225177748131840_transcript-fatui-shields-and-aura-interaction.html)
 
 **Finding:**  
 Some foreign auras can exist on certain Fatui when their armor is up. These auras can have funny interactions when trying to shieldbreak. Also doing some slightly more detailed testing with some armor.
 
 **Evidence:**  
-[YouTube video](https://youtu.be/1WlakadhKXg)  
+[YouTube video](https://youtu.be/1WlakadhKXg)
+
 * Hydro on a cryo fatui armor.
 * Your pyro attacks will need to go through the hydro aura in order to damage the cryo armor.
 
-[YouTube video](https://youtu.be/OlUeCx5moqU)  
+[YouTube video](https://youtu.be/OlUeCx5moqU)
+
 * Proving not only river water can apply hydro on cryo fatui armor.
 * Melting a frozen hydro fatui armor doesn't seem to do any noticeable damage even when using 2U pyro 1U electro gets eaten up super quickly by the hydro fatui armor.
 * Pyro attacks seem to ignore the electro aura of an EC'd hydro fatui.
 
-[YouTube video](https://youtu.be/zP5ibMlvqys)  
+[YouTube video](https://youtu.be/zP5ibMlvqys)
+
 * More testing done for the above, proving that gauges matter.
 * 1U pyro onto 2U hydro seem to notbe able to damage the fatui armor at all.
 * 2U pyro on 1U hydro break more armor than 2U on 2U.
 
-[YouTube video](https://youtu.be/mP6Qy1BAuFQ)  
+[YouTube video](https://youtu.be/mP6Qy1BAuFQ)
+
 * Trying to EC cryo armor.
 * Electro seem to just ignore the hydro aura when breaking the cryo armor.
 
-[YouTube video](https://youtu.be/gkAciCrS7_0)  
+[YouTube video](https://youtu.be/gkAciCrS7_0)
+
 * Trying to do testing with EC'd electro fatui armor (namely, pyro onto EC), but failed because the hydro seem to be eaten up instantly.
 * Finding out crystalize breaks geo fatui armor. Also a random test to show that geo fatui can no doubt be frozen when his armor is up.
 
-[YouTube video](https://youtu.be/kHlMVro_s-c)  
+[YouTube video](https://youtu.be/kHlMVro_s-c)
+
 * More testing with geo armor, however geo gauges were not tested.
 * 1U, 2U, and 4U of gauge when crystalized breaks different amount of geo fatui's armor.
 
-[YouTube video](https://youtu.be/6g5mCPkf7dQ)  
+[YouTube video](https://youtu.be/6g5mCPkf7dQ)
+
 * Geo gauge don't matter when using crystalize to break geo fatui armor?
 
-[YouTube video](https://youtu.be/EIxKGzu825Y) (clip by makeway4pK\#3901)  
+[YouTube video](https://youtu.be/EIxKGzu825Y) (clip by makeway4pK\#3901)
+
 * Geo gauge without poise doesn't deal damage to geo armor.
 
-[YouTube video](https://youtu.be/p-jKlFXSn4w)  
+[YouTube video](https://youtu.be/p-jKlFXSn4w)
+
 * Pillar pulse and gorou charged attacks don't do damage to the armor.
 * Crystalize damages the armor even if the attack is poiseless.
 * The gauge of the element on the enemy decays overtime, and after waiting for a while, the aura decays and becomes weaker, which affects the amount of damage the shield takes as well.
 
 **Significance:**  
-Better understanding of Fatui armor. Most of the findings are about Fatui armor being harder to break in certain situations, that certain situations don't affect shieldbreaking, while one just shows how weak and puny the geo armor actually is when faced with **ROCK**.  
+Better understanding of Fatui armor. Most of the findings are about Fatui armor being harder to break in certain situations, that certain situations don't affect shieldbreaking, while one just shows how weak and puny the geo armor actually is when faced with **ROCK**.
 
 ## Geo Armor Breaking Efficiency’s Relation to "Stagger Strength" of the Attack
 
@@ -105,9 +114,9 @@ Better understanding of Fatui armor. Most of the findings are about Fatui armor 
 **Evidence:**  
 Aside from geo damage, there is also a number of attacks that break Geo Armor. As far as I can tell, all of these attacks have one thing in common — they push or stagger the enemy.
 
-* [https://youtu.be/L89uAN4E\_xE](https://youtu.be/L89uAN4E_xE)
+* [https://youtu.be/L89uAN4E_xE](https://youtu.be/L89uAN4E_xE)
 * [https://youtu.be/RPL32qPYhGM](https://youtu.be/RPL32qPYhGM)
-* [https://youtu.be/k70\_Ni1p3SU](https://youtu.be/k70_Ni1p3SU)
+* [https://youtu.be/k70_Ni1p3SU](https://youtu.be/k70_Ni1p3SU)
 * [https://youtu.be/FzMEho-V3rs](https://youtu.be/FzMEho-V3rs)
 
 Here are some clips Jean breaking Geo Armor of Geo Fatui with charged attacks and her E, and also a clip of her breaking a crystal with her E \(her E and charged attacks also one-shot white iron ores\). The last clip features Amber E almost one-shoting the crystal and Anemo MC last tick of E dealing significant damage to the crystal.
@@ -153,9 +162,9 @@ We now might be able to measure stagger values precisely. Please contact me if y
 \(all of tests below were conducted with lvl1 weapons and only an upgraded flower among artifacts\)
 
 * [12 Jean Es to break the shield on grass](https://youtu.be/ZTe-TOMrDVk)
-* [Jean E dealing 0 damage to the shield on water](https://youtu.be/dmG5xi4S1WI) 
-* [12 Ningguang basic attacks to break the shield on grass](https://youtu.be/jcTpDb2HNjg) 
-* [23 Ningguang basic attacks to break the shield on water](https://youtu.be/C402uvyeP_A) 
+* [Jean E dealing 0 damage to the shield on water](https://youtu.be/dmG5xi4S1WI)
+* [12 Ningguang basic attacks to break the shield on grass](https://youtu.be/jcTpDb2HNjg)
+* [23 Ningguang basic attacks to break the shield on water](https://youtu.be/C402uvyeP_A)
 
 **Note 1:** Geo also Shatter Cryo Abyss mage shield thus Geo is able to break the shield above water.
 
@@ -175,7 +184,7 @@ Don't use Geo or Anemo to break Cryo Abyss mage shields on water.
 Each Electro-charged tick consumes 0.4U. Abyss mage shields have 12GU HP \(regardless of the reactions\), Fatui armor has 4U HP.
 
 **Evidence:**  
-The detailed explanation with calculations can be found here: [https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs\_sZuaRDmgUgjL\_U/edit?usp=sharing](https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing)
+The detailed explanation with calculations can be found here: [https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing](https://docs.google.com/document/d/1WvF5MTMMdCCmfb90uJ2EXzTNfjGs_sZuaRDmgUgjL_U/edit?usp=sharing)
 
 ## Breaking Childe's Shield with Stagger
 
@@ -186,7 +195,7 @@ The detailed explanation with calculations can be found here: [https://docs.goog
 
 **Evidence:** Childe has a separate poise value when shielded and unshielded. The hit that breaks his shield has no hitlag. The number of hits it takes to break his shield is unaffected by damage.
 
-* [https://youtu.be/n44JOFCmldY](https://youtu.be/n44JOFCmldY) 
+* [https://youtu.be/n44JOFCmldY](https://youtu.be/n44JOFCmldY)
 * [https://youtu.be/-sit2hVKgCs](https://youtu.be/-sit2hVKgCs)
 * [https://youtu.be/M3fjfHBTOy4](https://youtu.be/M3fjfHBTOy4)
 
@@ -227,8 +236,7 @@ Damage to enemy shields is affected by three main formulas, which are summed for
 **Evidence:**  
 There are pages on the wiki that already detail this information, however I created a [google document](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing) which aims to compile it all into one source which is easy to digest. All references are included in the document.
 
-
-## Critial-hit triggered abilities interactions with shields 
+## Critial-hit triggered abilities interactions with shields
 
 **By:** Silvershine2#5439  
 **Added:** 2021-06-14  
@@ -239,7 +247,7 @@ Attacks blocked by enemy shields are still counted at scoring a critical hit and
 
 **Evidence:**
 
-Xinayn C1 Attack Speed increase 
+Xinayn C1 Attack Speed increase
 
 * [vs Elemental Shields](https://youtu.be/4Y17gQ7awUw)
 * [vs Stone Shields](https://youtu.be/SZLRK5i9UfM)
@@ -267,7 +275,7 @@ Favonius Sword
 * [vs Stone Shield](https://youtu.be/o_8OeT1iGkY)
 
 **Significance:**  
-Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring critical hits vs shields
+Despite all of the tested talents/abilities/passives stating a CRIT Hit as the condition for activation, it still worked even if the attack was blocked entirely or even immunized. However this does only apply to character abilities. The Favonius sword did not activate on scoring critical hits vs shields
 
 **Yanfei:** Getting A4 procs is highly useful especially vs elemental shields to apply more U pyro, which makes quicker work of these shields. Abyss Lectors are the most important, but also double pyro application and the charged attack being heavy can become useful for dealing with stone shields and proccing overload more often
 
@@ -291,7 +299,7 @@ Despite all of the tested talents/abilities/passives stating a CRIT  Hit as the 
 Transformative damage is also applied in the damage cost of shield damage, and is affected by elemental mastery.
 
 **Evidence:**  
-A borderline geo slime shield destruction was observed on a 0 EM 70/70 fischl's overloads onto a large geo slime's shield, with the shield almost being destroyed after 6 overloads. Increasing fischl's EM to 688 resulted in the shield not only breaking after 6 overloads, but almost breaking after 5. Relevant calculations and related videos  show that these numbers make sense.  
+A borderline geo slime shield destruction was observed on a 0 EM 70/70 fischl's overloads onto a large geo slime's shield, with the shield almost being destroyed after 6 overloads. Increasing fischl's EM to 688 resulted in the shield not only breaking after 6 overloads, but almost breaking after 5. Relevant calculations and related videos show that these numbers make sense.
 
 Fischl with 0EM, 1378 overloads, leaving the shield at minimal health after 6 hits: [Video Download](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/discord/attachments_853125058965012500_855729083510161418_Genshin_Impact_2021-06-19_16-39-21.mp4)  
 Fischl with 688 EM, 7019 overloads, leaving the shield at minimal health after 5 hits: [Video Download](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/enemy-mechanics/enemy-shields.md/discord/attachments_853125058965012500_855733343954010122_fischl_overload_EM.mp4)
@@ -302,11 +310,11 @@ Large Geo Slimes have 10% RES across the board excluding their element (immune),
 
 For 0EM:  
 `[(0.2 * (1378 * 0.9) * 8) / 49864] + 1.26` = damage per shot against geo slime = 1.2998 GU per shot  
-1.2998 * 6 = 7.799 GU total damage
+1.2998 \* 6 = 7.799 GU total damage
 
 For 688EM:  
 `[(0.2 * (7019 * 0.9) * 8) / 49864] + 1.26` = damage per shot against geo slime = 1.4627 GU per shot  
-1.4627 * 5 = 7.3135 GU total damage
+1.4627 \* 5 = 7.3135 GU total damage
 
 Note: Character damage was not a factor in the shield breaking as the overloads were procced from burning grass. There may have been fluctuations based on weird mechanics with character or grass being the overload's trigger, but destruction of the geo shield at 6 and 7 shots respectively was always consistent.
 

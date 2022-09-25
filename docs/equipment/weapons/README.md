@@ -25,4 +25,3 @@ import DocCardList from '@theme/DocCardList';
 ## Evidence Vault
 
 <Card item={require('../../evidence/equipment/weapons.md')} />
-

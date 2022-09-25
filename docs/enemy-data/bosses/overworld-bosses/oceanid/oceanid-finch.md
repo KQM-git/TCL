@@ -4,8 +4,6 @@ description: A life-form created from condensed Hydro elements of incredible pur
 
 # Oceanid Finch
 
-
-
 ## Weakspot Details
 
 None.
@@ -17,32 +15,32 @@ Unknown.
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 0% |
-| Pyro | 15% |
-| Dendro | 15% |
-| Hydro | Immune |
-| Electro | 15% |
-| Anemo | 15% |
-| Cryo | 15% |
-| Geo | -40% |
+| :---------- | :--------- |
+| Physical    | 0%         |
+| Pyro        | 15%        |
+| Dendro      | 15%        |
+| Hydro       | Immune     |
+| Electro     | 15%        |
+| Anemo       | 15%        |
+| Cryo        | 15%        |
+| Geo         | -40%       |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 25144 |
-| 65 | 29949 |
-| 70 | 39156 |
-| 75 | 44762 |
-| 80 | 55697 |
-| 85 | 61273 |
-| 90 | 73062 |
-| 95 | 83247 |
-| 100 | 110295 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 25144  |
+| 65    | 29949  |
+| 70    | 39156  |
+| 75    | 44762  |
+| 80    | 55697  |
+| 85    | 61273  |
+| 90    | 73062  |
+| 95    | 83247  |
+| 100   | 110295 |
 
 ## Attacks
 
 * Pounce from close range.
-* Can do small leaps or big leaps that deal heavy splash damage on hit. 
+* Can do small leaps or big leaps that deal heavy splash damage on hit.
 * Upon death, the finch creates a water bomb that explodes in a massive AoE on its' height level.

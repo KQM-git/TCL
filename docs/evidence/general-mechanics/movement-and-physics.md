@@ -154,8 +154,8 @@ Results depending on position:
 
 **Finding:** Two possible findings:
 
-* Teleporting to a waypoint does not always teleport you to the same coordinates   
-* Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch. 
+* Teleporting to a waypoint does not always teleport you to the same coordinates
+* Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch.
 
 **Evidence:** Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
 
@@ -197,61 +197,95 @@ Raw video evidence \(no timestamps\): [YouTube](https://www.youtube.com/watch?v=
 
 **By:** Mcpie#8672  
 **Added:** 2021-11-01  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902943515452010516_904567719486169099_transcript-mvmnt-speed-stacks-additively.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902943515452010516_904567719486169099_transcript-mvmnt-speed-stacks-additively.html)
 
 **Finding:**  
-Movement speed stacks additively.  
+Movement speed stacks additively.
 
 **Evidence:**  
-Code contains coordinate points at the bridge in Stormterror's Lair. Videos are listed below.  
+Code contains coordinate points at the bridge in Stormterror's Lair. Videos are listed below.
 
-Methodology:  
-1. Teleport to a portable waypoint.  
-2. Sayu hold E once you get the speed boosts.  
-3. Note the coordinates at the end.  
-4. Calculate the difference between start and finish.  
+Methodology:
 
-Code to get the results  
+1. Teleport to a portable waypoint.
+2. Sayu hold E once you get the speed boosts.
+3. Note the coordinates at the end.
+4. Calculate the difference between start and finish.
+
+Code to get the results
+
 ```js
-f = (a,b) => Math.sqrt((a.x - b.x)**2 + (a.z - b.z)**2)
+f = (a, b) => Math.sqrt((a.x - b.x) ** 2 + (a.z - b.z) ** 2);
 
-sp = { x: 2556.41943359375, y: 226.09994506835938, z: 99.05547332763672 }
+sp = { x: 2556.41943359375, y: 226.09994506835938, z: 99.05547332763672 };
 // no bonus end
-ap = { x: 2447.570068359375, y: 226.08108520507812, z: 59.62977981567383 }
+ap = { x: 2447.570068359375, y: 226.08108520507812, z: 59.62977981567383 };
 // anemo end
-bp = { x: 2438.5205078125, y: 226.08163452148438, z: 56.352020263671875 }
+bp = { x: 2438.5205078125, y: 226.08163452148438, z: 56.352020263671875 };
 // c6 amber
-cp = { x: 2433.970947265625, y: 226.0803680419922, z: 54.70412063598633 }
+cp = { x: 2433.970947265625, y: 226.0803680419922, z: 54.70412063598633 };
 // anemo + c2 jean
-dp = { x: 2422.114013671875, y: 226.08883666992188, z: 50.40952682495117 }
+dp = { x: 2422.114013671875, y: 226.08883666992188, z: 50.40952682495117 };
 // anemo + rosaria + c2 jean
-ep = { x: 2411.67822265625, y: 226.0984649658203, z: 46.56678771972656 }
+ep = { x: 2411.67822265625, y: 226.0984649658203, z: 46.56678771972656 };
 // anemo + rosaria + c6 amber
-fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 }
+fp = { x: 2413.02001953125, y: 226.0989227294922, z: 47.11567687988281 };
 // anemo + rosaria + c2 jean + c6 amber - ~1s downtime due to c6 amber
-gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 }
+gp = { x: 2407.254638671875, y: 226.0986328125, z: 45.02743911743164 };
 // anemo + rosaria
-hp = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 }
+hp = { x: 2427.69140625, y: 226.08416748046875, z: 52.35829162597656 };
 
-qd = f(sp,ap)
-wd = f(sp,bp)
-ed = f(sp,cp)
-rd = f(sp,dp)
-td = f(sp,ep)
-yd = f(sp,fp)
-ud = f(sp,gp)
-id = f(sp,hp)
+qd = f(sp, ap);
+wd = f(sp, bp);
+ed = f(sp, cp);
+rd = f(sp, dp);
+td = f(sp, ep);
+yd = f(sp, fp);
+ud = f(sp, gp);
+id = f(sp, hp);
 
-console.log(wd/qd, `Expected 1.10 - error: ${(1.1  - wd/qd).toFixed(4)} - Anemo resonance`)
-console.log(ed/qd, `Expected 1.15 - error: ${(1.15 - ed/qd).toFixed(4)} - C6 Amber`)
-console.log(id/qd, `Expected 1.20 - error: ${(1.20 - id/qd).toFixed(4)} - Anemo resonance + Rosaria`)
-console.log(rd/qd, `Expected 1.25 - error: ${(1.25 - rd/qd).toFixed(4)} - Anemo resonance + C2 Jean`)
-console.log(td/qd, `Expected 1.35 - error: ${(1.35 - td/qd).toFixed(4)} - Anemo resonance + C2 Jean + Rosaria`)
-console.log(yd/qd, `Expected 1.35 - error: ${(1.35 - yd/qd).toFixed(4)} - Anemo resonance + C6 Amber + Rosaria`)
-console.log(ud/qd, `Expected 1.50 - error: ${(1.5  - ud/qd).toFixed(4)} - Anemo resonance + C2 Jean + Rosaria + C6 Amber`)
+console.log(
+  wd / qd,
+  `Expected 1.10 - error: ${(1.1 - wd / qd).toFixed(4)} - Anemo resonance`
+);
+console.log(
+  ed / qd,
+  `Expected 1.15 - error: ${(1.15 - ed / qd).toFixed(4)} - C6 Amber`
+);
+console.log(
+  id / qd,
+  `Expected 1.20 - error: ${(1.2 - id / qd).toFixed(
+    4
+  )} - Anemo resonance + Rosaria`
+);
+console.log(
+  rd / qd,
+  `Expected 1.25 - error: ${(1.25 - rd / qd).toFixed(
+    4
+  )} - Anemo resonance + C2 Jean`
+);
+console.log(
+  td / qd,
+  `Expected 1.35 - error: ${(1.35 - td / qd).toFixed(
+    4
+  )} - Anemo resonance + C2 Jean + Rosaria`
+);
+console.log(
+  yd / qd,
+  `Expected 1.35 - error: ${(1.35 - yd / qd).toFixed(
+    4
+  )} - Anemo resonance + C6 Amber + Rosaria`
+);
+console.log(
+  ud / qd,
+  `Expected 1.50 - error: ${(1.5 - ud / qd).toFixed(
+    4
+  )} - Anemo resonance + C2 Jean + Rosaria + C6 Amber`
+);
 ```
 
-Output:  
+Output:
+
 ```
 1.0831383008038595 Expected 1.10 - error: 0.0169 - Anemo resonance
 1.124935238192009  Expected 1.15 - error: 0.0251 - C6 Amber
@@ -260,9 +294,10 @@ Output:
 1.3299235580294233 Expected 1.35 - error: 0.0201 - Anemo resonance + C2 Jean + Rosaria
 1.3174113764030009 Expected 1.35 - error: 0.0326 - Anemo resonance + C6 Amber + Rosaria
 1.3703779558697553 Expected 1.50 - error: 0.1296 - Anemo resonance + C2 Jean + Rosaria + C6 Amber
-```  
+```
 
-Videos:  
+Videos:
+
 1. Sayu roll without bonuses: [Imgur](https://i.imgur.com/t77NGtg.mp4)
 2. Sayu roll with Anemo resonance: [Imgur](https://i.imgur.com/JUCriOO.mp4)
 3. Sayu roll with C6 Amber: [Imgur](https://i.imgur.com/YkvmsR5.mp4)
@@ -270,14 +305,14 @@ Videos:
 5. Sayu roll with Anemo Resonance + Rosaria + C6 Amber: [Imgur](https://i.imgur.com/xV4ZfwC.mp4)
 6. Sayu roll with Anemo Resonance + Rosaria + C6 Amber + C2 Jean: [Imgur](https://i.imgur.com/MlRFUM0.mp4)
 
-Unfortunately missing videos for other sections with C2 Jean and C6 amber  
+Unfortunately missing videos for other sections with C2 Jean and C6 amber
 
 Explanation on higher errors when using C6 Amber:  
 Sayu E roll lasts 10 seconds, while the bonus from C6 Amber lasts 10s. This requires precise timing and because of it, the error increases.  
 The error for just C6 Amber is `0.0251` which is rather acceptable.  
 The error for Anemo Resonance + Rosaria + C6 Amber is `0.0326`, which is once again, rather acceptable due to mistiming.  
 However getting `Anemo Resonance + Rosaria + C6 Amber + C2 Jean` to work takes a lot of effort - incorrect timing have caused a huge error (`0.1296`!), but I'm submitting this anyway.  
-Other tests yielded an error of `<~0.02`, which is acceptable due to start/end velocities change on Sayu roll + uneven terrain.  
+Other tests yielded an error of `<~0.02`, which is acceptable due to start/end velocities change on Sayu roll + uneven terrain.
 
 ## Character Hitboxes
 
@@ -311,13 +346,13 @@ Tapping shift while swimming has a stamina cost that is only a little higher tha
 **Significance:**  
 Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
 
-## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks  
+## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks
 
 **By:** Risuke\#6743  
-**Added:** 2020-12-14  
+**Added:** 2020-12-14
 
 **Evidence:**  
-[Video 1](https://youtu.be/OB6QP67zjNg) [Video 2](https://youtu.be/hfRYtOJB42w)  
+[Video 1](https://youtu.be/OB6QP67zjNg) [Video 2](https://youtu.be/hfRYtOJB42w)
 
 **Significance:**  
 Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
@@ -325,10 +360,10 @@ Having increased movespeed is now potentially practical. It allows an additional
 ## Infinite Dashing and Catapulting off cliffs(Translation)
 
 **By:** KluEvo\#8507  
-**Added:** 2020-11-20  
+**Added:** 2020-11-20
 
 **Finding:**  
-Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.  
+Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.
 
 **Evidence:**  
 [Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
@@ -336,21 +371,21 @@ Double dashing with pauses can allow for infinite running. Dashing off of cliffs
 **Significance:**  
 Faster Travel.
 
-## Extra velocity gained when hit  
+## Extra velocity gained when hit
 
 **By:** Hatsuharufag\#4291  
-**Added:** 2021-01-18  
+**Added:** 2021-01-18
 
 **Finding:**  
-You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.  
+You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.
 
 **Evidence:**  
-[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks.  [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)  
+[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks. [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)
 
 **Significance:**  
 Yet another way to initiate plunge attacks on even ground.
 
-## Max enemy mvsp decrease 
+## Max enemy mvsp decrease
 
 **By:** Recovent#9620  
 **Added:** 2021-08-31  
@@ -361,7 +396,7 @@ There is a limit to how much movement speed decreases one can do onto a mob. The
 
 * Adding up the different movement speeds, you would get a decrease of 150% speed with the usage of the Charity tower, Glacial bloom, and Banishment tower. However, this is not the case here. It seems that after a certain point the mob will not have their speed decreased. (This note was assuming additive decrease)
 
-* Although the enemy's movement animations are slowed, and can be seen as though they are going through a slowed time; their knock back effects and being attacked animation's speeds are not changed (can be seen in the first two video links) 
+* Although the enemy's movement animations are slowed, and can be seen as though they are going through a slowed time; their knock back effects and being attacked animation's speeds are not changed (can be seen in the first two video links)
 
 * Descriptions of speed decrease don't always match what they actually do
 
@@ -369,11 +404,11 @@ There is a limit to how much movement speed decreases one can do onto a mob. The
 
 * The slowness follows a log curve when following the highest movement speed stacking as a base, however, follows (loosely) an exponential decrease when simply following descriptive movement speed decrease.
 
-* The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff. 
+* The maximum seems to cave towards 80~85% (82% being closer towards the max.) So unless there is a much much higher movement speed decrease skill, getting anywhere close to 80% movement speed decrease is nigh impossible without at least another movement speed decrease debuff.
 
 * Speed increasing skills stack alongside these, although this is outside of the scope of this TC, it can be seen with the samuchurl in the first stage being sped up while being in a slow down tower.
 
-* Frame = .033ms for my video editor, thus the frames counted may be within +-.17ms off (unless otherwise stated) 
+* Frame = .033ms for my video editor, thus the frames counted may be within +-.17ms off (unless otherwise stated)
 
 **Evidence:**  
 The first 5 are mainly visuals with numbers made through previous attempts to make a formula:  
@@ -389,30 +424,33 @@ The first 5 are mainly visuals with numbers made through previous attempts to ma
 **Significance:**  
 If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
 
-## Speed Comparsion Between Walk Jump And Continuous Walk  
+## Speed Comparsion Between Walk Jump And Continuous Walk
+
 **By:** Mcpie#8672  
 **Added:** 2022-01-10  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185303288217600_930052462809849876_transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
 
 **Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
 
-The ranking from fastest to slowest is:  
-1. JW Adult Female  
-2. JW Teen Male  
-3. JW Adult Male   
-4. CW Adult Male   
-5. CW Adult Female  
-6. JW Teen Female  
-7. CW Teen Male  
-8. CW Teen Female  
-9. JW Child Female  
-10. CW Child Female  
+The ranking from fastest to slowest is:
+
+1. JW Adult Female
+2. JW Teen Male
+3. JW Adult Male
+4. CW Adult Male
+5. CW Adult Female
+6. JW Teen Female
+7. CW Teen Male
+8. CW Teen Female
+9. JW Child Female
+10. CW Child Female
 
 **Evidence:** Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
 
 **Significance:** Allows players to pick up best way to move while regenerating stamina.
 
-## Size Does Not Matter 
+## Size Does Not Matter
+
 **By:** Mcpie#8672  
 **Added:** 2022-01-28  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_935300027952295957_936412064098955295_transcript-size-does-not-matter.html)
@@ -425,18 +463,19 @@ Currently tested for adult male model.
 [Youtube](https://youtu.be/jdHZWQ5Pbd8)
 
 **Significance:**  
-Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa. 
+Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa.
 
 ## Elevator Affects Movement Speed
 
 **By:** Pablos\#1142  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962133283083280384_transcript-elevator-affects-movement-speed.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962133283083280384_transcript-elevator-affects-movement-speed.html)
 
 **Finding:**  
-When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.  
+When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.
 
-**Evidence:**  
+**Evidence:**
+
 * [Wind glider jump](https://imgur.com/a/YRVCmHX)
 * [Normal jump](https://imgur.com/a/mM9GuOg)
 * [Diminished jump](https://imgur.com/a/TvnGQgD)
@@ -448,14 +487,14 @@ Fluff and documenting overworld mechanics.
 
 **By:** Ultimate Noob\#2955  
 **Added:** 2022-08-25  
-[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
 
 **Finding:**  
-Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.  
-  
+Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.
+
 **Evidence:**  
 [Imgur](https://imgur.com/a/5Xhdn5Y)  
-[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)  
-  
+[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)
+
 **Significance:**  
 Fluff, Genshin makes 0 sense.

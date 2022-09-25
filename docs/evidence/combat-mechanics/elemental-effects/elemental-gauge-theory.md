@@ -69,11 +69,11 @@ Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They f
 
 I tested the number of frames that elements last on my character, upon being hit by attacks from these enemies:
 
-* Electro Cicin: 12s Electro \(2 units\) 
-* Electro Hilichurl Shooter: 12s Electro \(2 units\) 
-* Pyro Hilichurl Shooter: 12s Pyro \(2 units\) 
-* Cryo Hilichurl Shooter: 12s Cryo \(2 units\) 
-* Hilichurl Berserker \(Pyro Club\): Single hit applied 12s \(2 units\), multi-hit dash applies 9.5s each hit \(1 unit\) 
+* Electro Cicin: 12s Electro \(2 units\)
+* Electro Hilichurl Shooter: 12s Electro \(2 units\)
+* Pyro Hilichurl Shooter: 12s Pyro \(2 units\)
+* Cryo Hilichurl Shooter: 12s Cryo \(2 units\)
+* Hilichurl Berserker \(Pyro Club\): Single hit applied 12s \(2 units\), multi-hit dash applies 9.5s each hit \(1 unit\)
 
 Unlike when testing on an enemy, these are exact frame values. There seems to be a slight delay on when elements appear over an enemy's head. For example, if you cause a reaction on an enemy, the reaction text will appear one or two frames before the element appears over their head. Also, at the end of an element's duration, it slowly pulses and fades out, making it difficult to find the exact frame at which it disappears.
 
@@ -81,7 +81,7 @@ On our own characters, the element does not fade out, but immediately disappears
 
 Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
-[https://youtu.be/cUWXy\_PNO\_E](https://youtu.be/cUWXy_PNO_E)
+[https://youtu.be/cUWXy_PNO_E](https://youtu.be/cUWXy_PNO_E)
 
 Enemy skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
@@ -111,21 +111,21 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
     * 1U has the lowest duration, but also lowest unit decay rate.
   * 2U: 12.0s duration, decays at 1 unit per 6.0s \(12/2\)
   * 4U: 16.8s duration, decays at 1 unit per 4.2s \(16.8/4\)
-    * 4U has the highest duration, but also highest unit decay rate. 
+    * 4U has the highest duration, but also highest unit decay rate.
 
 ### Transformative Reactions \(excluding Electro-charged, Crystallise, and Swirl\)
 
 * When you apply an elemental trigger, it subtracts the corresponding number of elemental units from the enemy’s existing gauge.
-* For example, Kaeya E \(2U\) is casted onto a hilichurl. Then, it is hit by a Fischl Charged Shot \(1U\). 
+* For example, Kaeya E \(2U\) is casted onto a hilichurl. Then, it is hit by a Fischl Charged Shot \(1U\).
   * Fischl’s Charged Shot is a 1U electro skill so it will subtract 1 unit from the existing cryo gauge. 1 unit of cryo will remain.
-* Triggers will remove a certain number of units from the existing gauge. If the amount being subtracted is greater than the original amount, THE REACTION WILL STILL OCCUR. Afterwards, the status bar is cleared after the reaction. 
+* Triggers will remove a certain number of units from the existing gauge. If the amount being subtracted is greater than the original amount, THE REACTION WILL STILL OCCUR. Afterwards, the status bar is cleared after the reaction.
 * Please note that triggers will not add any aura/gauge of their own \(electro-charged is an exception\). Triggers will only remove units from existing gauges.
 * Remember that gauges also have a natural decay rate
 
 ### Why is decay rate significant?
 
-* Since character swaps and skill animations take time, it is possible to lose out on the maximum number of reactions possible. 
-  * For example, Beidou’s Q applies 4 units worth of electro gauge. Theoretically, you can use 1U cryo skills to trigger 4 consecutive superconducts. However, you must apply the 4th 1U cryo skill before 4.2s have elapsed or you lose 1 unit of electro from time decay. 
+* Since character swaps and skill animations take time, it is possible to lose out on the maximum number of reactions possible.
+  * For example, Beidou’s Q applies 4 units worth of electro gauge. Theoretically, you can use 1U cryo skills to trigger 4 consecutive superconducts. However, you must apply the 4th 1U cryo skill before 4.2s have elapsed or you lose 1 unit of electro from time decay.
     * 4U gauges will decay at a rate of 1 unit/4.2s, so after 4.2s have passed, you only have 3 units left to use for reactions.
 * However, it is possible to apply 2U or 4U gauges that have a 1U decay rate. In other words, you can apply a bigger gauge with a slower decay rate.
   * For example, 2 units at the 1U decay rate are equivalent to 2\*9.5s = 19s.
@@ -136,7 +136,7 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
   * Significance: More time to trigger multiple reactions
     * Referring back to the example for triggering 4 consecutive superconducts, using only a 4U electro aura means you have to trigger the 4th superconduct before 4.2s have elapsed.
     * If you apply 1U electro aura, then 4U electro, you have to trigger the 4th superconduct before 9.5s have elapsed \(increased window period of 5.3s\)
-* The opposite is also true: It is possible to apply lower U gauges with a higher U’s decay rate. 
+* The opposite is also true: It is possible to apply lower U gauges with a higher U’s decay rate.
   * For example, applying a 2U gauge, then applying a 1U gauge of the same element causes the 1U gauge to have a 2U decay rate \(loses 1 unit in 6.0s instead of 9.5s\).
   * This is not optimal because you will have less time to perform your reactions.
 * To summarise the above points, the decay rate of the first gauge applied will be followed by any subsequent gauges \(of the same element\) until no gauges remain on the enemy.
@@ -156,7 +156,7 @@ Please refer to the [Gauge Unit Database](https://docs.google.com/spreadsheets/d
 * Weak elemental triggers have a 0.5x unit modifier \(this is not a dmg multiplier\)
   * Weak elemental triggers rated 1U/2U are downgraded to 0.5U/1U
   * For example, an enemy affected by Amber’s Charged Shot has 2 units worth of pyro. Normally, we would expect Kaeya’s E \(2U\) to remove 2 units, but since cryo is a weak elemental trigger for Melt, it only removes 1 unit instead.
-  * It is possible to trigger 4 consecutive Melts by using a 2U pyro aura and 1U cryo trigger because the 1U cryo becomes 0.5U and 2/0.5 = 4.  
+  * It is possible to trigger 4 consecutive Melts by using a 2U pyro aura and 1U cryo trigger because the 1U cryo becomes 0.5U and 2/0.5 = 4.
 * Strong elemental triggers have a 2.0x unit modifier
   * Strong elemental triggers rated 1U/2U are upgraded to 2U/4U
   * For example, an enemy affected by Kaeya’s E \(2U\) has 2 units of cryo. Normally, we would expect Diluc’s E \(1U\) to remove 1 unit from the cryo gauge, but since pyro is a strong elemental trigger for Melt, it removes 2 units instead
@@ -312,7 +312,7 @@ In the above section, we stated that different U auras have different decay rate
   * If you apply a 4U electro aura, then apply a 2U electro aura, the 4U decay rate is observed.
 * Any additional auras applied will apply their own respective gauges, but follow the decay rate of the original aura.
 * If the remaining original gauge is greater than the maximum gauge of the added aura, then nothing will appear to happen because the added gauge completely decays before the original gauge does.
-* If the remaining original gauge is less than the maximum gauge of the added aura,  then the aura persists until the added gauge completely decays.
+* If the remaining original gauge is less than the maximum gauge of the added aura, then the aura persists until the added gauge completely decays.
 
 ![](https://lh6.googleusercontent.com/kzX2RUZRBGQNPxVUMp_aMeboGpdR3o83PYl3btgjJjyWGvFugbl7iRNlpDM5ZMoTmajZWzi1NVWNpMQjgbDvktRI6eW1rqvQgUNmfEIkCw_8KxUp02dDOWXSutV6_XJ1Cv3Eexe0)
 
@@ -442,7 +442,7 @@ Source: [https://www.bilibili.com/video/BV1aK4y177Rd](https://www.bilibili.com/v
 
 Translation link [here](https://docs.google.com/document/d/e/2PACX-1vQ_ayc9bVtUZz9zlF7h6L5EsKE1tUIujtXYkicp0nmxG5CXzRSA91Eh4qKQTadh-KOg8im5gRN_iD-R/pub)
 
-Translated by: iDreamz梦
+Translated by: iDreamz 梦
 
 Reviewed/Edited by: IonFox, Doug
 
@@ -454,7 +454,7 @@ Reviewed/Edited by: IonFox, Doug
 
 **Theory:** Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U value greater than the remaining aura.
 
-**Evidence:** [https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK\_6cZqvb](https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb)
+**Evidence:** [https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb](https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb)
 
 **Significance:** Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies and this works regardless of where the aura came from. In the future, larger self applying gauges could allow for other builds such as @HailCorporate\#2970's self-overloading Razor that takes advantage of aura oscillation with repeated self gauge application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
 

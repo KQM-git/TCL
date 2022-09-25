@@ -32,38 +32,39 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 82.63% | 14 | 354.12%/s | 47.7 | 3 |
-| 2-Hit DMG | 83.11% | 34 | 292.48%/s | 47.34 | 3 |
-| 3-Hit DMG | 47.4% + 56.88% | 60 + 70 | 231.45%/s | 29.7 x2 | 3 x2 |
-| 4-Hit DMG | 111.55% | 97 | 236.02%/s | 63.54 | 3 |
-| 5-Hit DMG | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s | 26.55 x3 | 2 + 2 + 5 |
-| Recovery (Total MV) | -- | 200 | 156.42%/s | - | - |
+| String              | Talent 9%           | Frames          | MV/s      | Poise Damage | Impulse Type |
+| :------------------ | :------------------ | :-------------- | :-------- | :----------- | :----------- |
+| 1-Hit DMG           | 82.63%              | 14              | 354.12%/s | 47.7         | 3            |
+| 2-Hit DMG           | 83.11%              | 34              | 292.48%/s | 47.34        | 3            |
+| 3-Hit DMG           | 47.4% + 56.88%      | 60 + 70         | 231.45%/s | 29.7 x2      | 3 x2         |
+| 4-Hit DMG           | 111.55%             | 97              | 236.02%/s | 63.54        | 3            |
+| 5-Hit DMG           | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s | 26.55 x3     | 2 + 2 + 5    |
+| Recovery (Total MV) | --                  | 200             | 156.42%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 79% + 137.14% | 14 + 44 | - | 60 x2 | 2 + 6 |
-| N1C | 82.63% + 79% + 137.14% | 58 | 309.07%/s | - | - |
-| N1C w/Recovery | 79% + 137.14% | 78 | 229.82%/s | - | - |
+| String             | Talent 9%              | Frames  | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :--------------------- | :------ | :-------- | :----------- | :----------- |
+| Charged Attack DMG | 79% + 137.14%          | 14 + 44 | -         | 60 x2        | 2 + 6        |
+| N1C                | 82.63% + 79% + 137.14% | 58      | 309.07%/s | -            | -            |
+| N1C w/Recovery     | 79% + 137.14%          | 78      | 229.82%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| String | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 150.35% | 25 | 2 |
-| Low Plunge DMG | 300.63% | 100 | 4 |
-| High Plunge DMG | 375.50% | 150 | 7 |
+| String          | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 150.35%   | 25           | 2            |
+| Low Plunge DMG  | 300.63%   | 100          | 4            |
+| High Plunge DMG | 375.50%   | 150          | 7            |
 
 </div>
 
 **Notes**
+
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
 * Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kazuha.md#dragonstrike-of-n5)
 
@@ -78,45 +79,46 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='e' sectionFilter='Hold' />
 </div>
 
-| Attribute | Tap | Hold |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 326.4% | 443.36% |
-| Particles | 3 | 4 |
-| Frames | 36 | 69 |
-| GU | 1U | 2U |
-| ICD | None | None |
-| Damage Element | Anemo | Anemo |
-| Damage Type | Skill | Skill | 
-| CD | 6s | 9s | 
-| Poise Damage | 150 | 300 |
-| Impulse Type | Air, 100, 800 | Air, 0, 800 |
+| Attribute         | Tap           | Hold        |
+| :---------------- | :------------ | :---------- |
+| Skill DMG \(T9%\) | 326.4%        | 443.36%     |
+| Particles         | 3             | 4           |
+| Frames            | 36            | 69          |
+| GU                | 1U            | 2U          |
+| ICD               | None          | None        |
+| Damage Element    | Anemo         | Anemo       |
+| Damage Type       | Skill         | Skill       |
+| CD                | 6s            | 9s          |
+| Poise Damage      | 150           | 300         |
+| Impulse Type      | Air, 100, 800 | Air, 0, 800 |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='e' sectionFilter='Plunging Attack: Midare Ranzan' />
 
-| Attribute | Midare Ranzan |
-| :--- | :--- |
-| Plunge Collision DMG \(T9%\) | 150.35% |
-| Low/High Plunge DMG \(T9%\) | 300.63% / 375.50% |
-| Frames | 55 / 63 |
-| GU | 1U |
-| ICD | None |
-| Damage Element | Anemo |
-| Damage Type | Plunge |
-| Plunge Poise Damage | 25 |
-| Plunge Impulse Type | 1 |
-| Low/High Plunge Poise Damage | 100 / 150 |
-| Low/High Impulse Type | 7 |
+| Attribute                    | Midare Ranzan     |
+| :--------------------------- | :---------------- |
+| Plunge Collision DMG \(T9%\) | 150.35%           |
+| Low/High Plunge DMG \(T9%\)  | 300.63% / 375.50% |
+| Frames                       | 55 / 63           |
+| GU                           | 1U                |
+| ICD                          | None              |
+| Damage Element               | Anemo             |
+| Damage Type                  | Plunge            |
+| Plunge Poise Damage          | 25                |
+| Plunge Impulse Type          | 1                 |
+| Low/High Plunge Poise Damage | 100 / 150         |
+| Low/High Impulse Type        | 7                 |
 
 </div>
 
 **Notes**
+
 * Kazuha's **Chihayaburu** (Hold) can cause certain enemies to take Fall DMG.
 * By double tapping your glider as soon as you've tapped your skill on Kazuha, you can shorten the air time thereby landing on the ground a little bit faster if you don't intend to plunge (for example if you want to reapply VV shred to some frozen enemies but you don't want to shatter them).
 * Some forms of interruption after casting **Chihayaburu** may cause the ability to cast **Midare Ranzan** to persist up to 10s without remaining airborne.
 * Plunging immediately after a tap E guarantees a high plunge while waiting might give low plunge damage.
-* Absorption priority: Pyro > Hydro > Electro > Cryo  
+* Absorption priority: Pyro > Hydro > Electro > Cryo
 * Kazuha E will, under certain conditions, fail to absorb self auras
 * **Midare Ranzan** does not have a minimum height limit, meaning Kazuha can start the Plunging Attack a lot lower than a regular Plunging Attack.
 * **Midare Ranzan** can be considered as an Anemo Infusion which cannot be overridden by other Infusions.
@@ -128,27 +130,28 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Effect | Slash | DoT | Elemental DMG |
-| :--- | :--- | ---- | :--- |
-| Skill DMG \(T9%\) | 446.08% | 204% | 61.2% | 
-| Cast Frames | 93 | - | - |
-| Energy Frame | 7 | - | - |
-| CD Frame | 1 | - | - |
-| GU | 2U | 1U | 1A |
-| ICD | None | None | None |
-| Snapshot | Snapshot | Snapshot | Snapshot |
-| Damage Element | Anemo | Anemo | Absorbed Element |
-| Damage Type | Burst | Burst | Burst |
-| Energy Cost | 60 | - | - |
-| Duration | 8s | - | - |
-| CD | 15s | - | - |
-| Poise Damage | 75 | 25 | - |
-| Impulse Type | Light, 0, 100 | Light, 0, 100 | - |
+| Effect            | Slash         | DoT           | Elemental DMG    |
+| :---------------- | :------------ | ------------- | :--------------- |
+| Skill DMG \(T9%\) | 446.08%       | 204%          | 61.2%            |
+| Cast Frames       | 93            | -             | -                |
+| Energy Frame      | 7             | -             | -                |
+| CD Frame          | 1             | -             | -                |
+| GU                | 2U            | 1U            | 1A               |
+| ICD               | None          | None          | None             |
+| Snapshot          | Snapshot      | Snapshot      | Snapshot         |
+| Damage Element    | Anemo         | Anemo         | Absorbed Element |
+| Damage Type       | Burst         | Burst         | Burst            |
+| Energy Cost       | 60            | -             | -                |
+| Duration          | 8s            | -             | -                |
+| CD                | 15s           | -             | -                |
+| Poise Damage      | 75            | 25            | -                |
+| Impulse Type      | Light, 0, 100 | Light, 0, 100 | -                |
 
 </div>
 
 **Notes**
-* Absorption priority: Pyro > Hydro > Electro > Cryo  
+
+* Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
 </Tabs>
@@ -165,16 +168,17 @@ import Passive from '@site/src/components/char/Passive'
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
 
-| Type | Soumon Swordsmanship |
-| :--- | :--- |
-| Skill DMG | 200% |
-| GU | 1A |
-| Damage Element | Absorbed Element |
-| Damage Type | Plunge |
+| Type           | Soumon Swordsmanship |
+| :------------- | :------------------- |
+| Skill DMG      | 200%                 |
+| GU             | 1A                   |
+| Damage Element | Absorbed Element     |
+| Damage Type    | Plunge               |
 
 **Notes**
-* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl. 
-* Absorption priority: Pyro > Hydro > Electro > Cryo   
+
+* The elemental damage is applied before Midare Ranzan, allowing it to swirl without a pre-existing aura on enemies, additionally this also means that the applied aura can react with pre-existing aura, potentially resulting in no swirl.
+* Absorption priority: Pyro > Hydro > Electro > Cryo
 
 </TabItem>
 
@@ -182,6 +186,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={1} />
 
 **Notes**
+
 * Kazuha's 4th ascension passive works off-field and only gives bonus damage on swirled elements.
 * Kazuha's 4th ascension passive will reflect his Elemental Mastery from the time of the Swirl, even if his Elemental Mastery later changes during its duration.
 * Kazuha's 4th ascension passive overrides previous instances on every swirl of the same element, using his current Elemental Mastery.
@@ -202,7 +207,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={2} />
 
 **Notes**
-* Sucrose's A4 shares 20% of EM from this Constellation. 
+
+* Sucrose's A4 shares 20% of EM from this Constellation.
 
 </TabItem>
 
@@ -214,7 +220,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={4} />
 
 **Notes**
-* The energy gained while gliding is not affected by energy recharge.  
+
+* The energy gained while gliding is not affected by energy recharge.
 
 </TabItem>
 
@@ -226,6 +233,7 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 **Notes**
+
 * The Anemo infusion can be overridden by other infusion effects such as Bennett's C6 Inspiration Field.
 
 </TabItem>

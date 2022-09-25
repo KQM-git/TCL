@@ -31,38 +31,39 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s | 7.65 x2 | 1 x2 |
-| 2-Hit DMG | 72.52% | 48 | 185%/s | 14.7 | 1 |
-| 3-Hit DMG | 88.8% | 85 | 167.15%/s | 18 | 1 |
-| 4-Hit DMG | 110.41% | 128 | 162.75%/s | 22.38 | 1 |
-| Recovery | - | - | - | - | - |
+| String    | Talent 9%       | Frames  | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :-------------- | :------ | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s | 7.65 x2      | 1 x2         |
+| 2-Hit DMG | 72.52%          | 48      | 185%/s    | 14.7         | 1            |
+| 3-Hit DMG | 88.8%           | 85      | 167.15%/s | 18           | 1            |
+| 4-Hit DMG | 110.41%         | 128     | 162.75%/s | 22.38        | 1            |
+| Recovery  | -               | -       | -         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 80.58% | 15 | 322.32%/s | - | 10 \(Headshot: 30\) | 2 |
-| With Recovery | - | 25 | 193.392%/s | - | - | - |
-| Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
-| With Recovery | - | 96 | 131.75%/s | - | - | - |
+| Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
+| :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
+| Aimed Shot    | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2            |
+| With Recovery | -         | 25     | 193.392%/s | -   | -                   | -            |
+| Fully Charged | 210.8%    | 86     | 147.07%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
+| With Recovery | -         | 96     | 131.75%/s  | -   | -                   | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 104.41% | 10 | 2 |
-| Low Plunge DMG | 208.77% | 50 | 2 |
-| High Plunge DMG | 260.76% | 100 | 3 |
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 104.41%   | 10           | 2            |
+| Low Plunge DMG  | 208.77%   | 50           | 2            |
+| High Plunge DMG | 260.76%   | 100          | 3            |
 
 </div>
 
 **Notes**
+
 * Both Poise Damage and Impulse Type are the same for regular Normal Attacks and Normal Attacks during **Rushing Ice** state.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
@@ -73,32 +74,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Freeze Bomb | Chillwater Bomblets |
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 301.92% | 68% |
-| Particles | 5 \(-\) | - | 
-| Frames | 67 | - |
-| GU | 1A | 1A |
-| ICD | - | 3 hits / 2.5s |
-| Snapshot | Snapshot | Snapshot |
-| Damage Element | Cryo | Cryo |
-| Damage Type | Skill | Skill |
-| CD | 20s | - | 
-| Poise Damage | 120 | 30 |
-| Impulse Type | 2 | 3 |
+| Attribute         | Freeze Bomb | Chillwater Bomblets |
+| :---------------- | :---------- | :------------------ |
+| Skill DMG \(T9%\) | 301.92%     | 68%                 |
+| Particles         | 5 \(-\)     | -                   |
+| Frames            | 67          | -                   |
+| GU                | 1A          | 1A                  |
+| ICD               | -           | 3 hits / 2.5s       |
+| Snapshot          | Snapshot    | Snapshot            |
+| Damage Element    | Cryo        | Cryo                |
+| Damage Type       | Skill       | Skill               |
+| CD                | 20s         | -                   |
+| Poise Damage      | 120         | 30                  |
+| Impulse Type      | 2           | 3                   |
 
 </div>
 
-| Attribute                           | Talent 9 Data        |
-| ----------------------------------- | -------------------- |
-| ATK Decrease                        | 14%                  |
-| ATK Decrease Duration               | 6s                   |
+| Attribute                           | Talent 9 Data          |
+| ----------------------------------- | ---------------------- |
+| ATK Decrease                        | 14%                    |
+| ATK Decrease Duration               | 6s                     |
 | Coil Normal Attack DMG Bonus        | 9.07% / 18.13% / 27.2% |
-| Rushing Ice Normal Attack DMG Bonus | 45.33%                |
-| Rushing Ice Duration                | 10s                  |
-| CD                                  | 20s                  |
+| Rushing Ice Normal Attack DMG Bonus | 45.33%                 |
+| Rushing Ice Duration                | 10s                    |
+| CD                                  | 20s                    |
 
 **Notes**
+
 * Aloy's attacks while in the **Rushing Ice** state follow standard ICD (3 hits/2.5s)
 * **Chillwater Bomblets** share ICD and follow standard ICD.
 * Aloy can gain **Coil Stacks** while off-field.
@@ -112,21 +114,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst |
-| :--- | :--- |
-| Skill DMG \(T9%\) | 610.64% |
-| Cast Frames | 118 |
-| Energy Frame | 8 |
-| CD Frame | 2 |
-| GU | 2B |
-| ICD | - |
-| Snapshot | Snapshot |
-| Damage Element | Cryo |
-| Damage Type | Burst |
-| Energy Cost | 40 |
-| CD | 12s |
-| Poise Damage | 200 |
-| Impulse Type | 3 |
+| Attribute         | Burst    |
+| :---------------- | :------- |
+| Skill DMG \(T9%\) | 610.64%  |
+| Cast Frames       | 118      |
+| Energy Frame      | 8        |
+| CD Frame          | 2        |
+| GU                | 2B       |
+| ICD               | -        |
+| Snapshot          | Snapshot |
+| Damage Element    | Cryo     |
+| Damage Type       | Burst    |
+| Energy Cost       | 40       |
+| CD                | 12s      |
+| Poise Damage      | 200      |
+| Impulse Type      | 3        |
 
 </div>
 </TabItem>
@@ -141,6 +143,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={2} />
 
 **Notes**
+
 * Animals still get startled if you get too close to them.
 * Animals still get startled if you kill one of them in a group.
 

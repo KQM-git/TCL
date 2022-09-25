@@ -8,6 +8,7 @@ Charts for targeting Attributes seen in the game which explore alternative attri
 These Charts will help Travelers identify what Attributes to maximize when collecting Artifacts with less than ideal substats, or to fully embrace Artifacts with main stats for alternative builds to take advantage of nuanced skills unlocked from your characters through Ascension passives or Constellations.
 
 ### Characters without alternate scaling
+
 * Lisa
 * Razor
 * Diluc
@@ -18,4 +19,3 @@ These Charts will help Travelers identify what Attributes to maximize when colle
 ## Evidence Vault:
 
 <Card item={require('../../evidence/general-mechanics/attributes/scaling.md')} />
-

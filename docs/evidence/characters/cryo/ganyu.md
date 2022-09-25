@@ -106,7 +106,7 @@ This finding means that set bonuses that improve charge attacks such as Wanderer
 
 ### Ganyu Cannot Perform the ARCC Tech That All Other Bow Users Can Perform With Her Frostflake Arrow \(with the exception of C6\)
 
-**By:** SavageCabbage\#1445   
+**By:** SavageCabbage\#1445  
 **Added:** 2021-01-24
 
 **Finding:**
@@ -125,7 +125,7 @@ With this knowledge we now know that there is no potential frame advantage from 
 
 ### Frostflake Bloom Hitbox Range
 
-**By:** Kidz\#8667 SavageCabbage\#1445 Pinupski\#9999   
+**By:** Kidz\#8667 SavageCabbage\#1445 Pinupski\#9999  
 **Added:** 2021-01-14
 
 **Finding:**
@@ -185,8 +185,8 @@ Special thanks to SavageCabbage\#1445 for founding this theory and discussing it
 ### C0 Ganyu: 2 Simultaneous Ice Lotuses
 
 **By:** Exuma\#1917 and JenjenJL\#6582  
-**Added:** 2021-06-17   
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846678238796316683_854985101988593694_transcript-c0-amber-2-simultaneous-baron-bunnies.html) 
+**Added:** 2021-06-17  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846678238796316683_854985101988593694_transcript-c0-amber-2-simultaneous-baron-bunnies.html)
 
 **Finding:**  
 Two Ice Lotuses can exist simultaneously on C0 Ganyu.
@@ -199,8 +199,8 @@ It is possible to spawn multiple Ice Lotuses without C2 Ganyu.
 ### Ganyu Elemental Skill has no ICD
 
 **By:** TWICE\#9958  
-**Added:** 2022-01-10   
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929894901469032499_930085706393600060_transcript-ganyu-e-icd.html) 
+**Added:** 2022-01-10  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929894901469032499_930085706393600060_transcript-ganyu-e-icd.html)
 
 **Finding:**  
 Ganyu E does not have ICD.
@@ -234,18 +234,19 @@ As Ganyu’s Trail of Qilin is capable of properly taunting just about every sin
 
 **By:** Empyress\#9451  
 **Added:** 2022-04-08  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)
 
 **Finding:**  
-Ganyu's Ice Lotus placement seems to have a specific height difference past which it will be placed mid-air.  
+Ganyu's Ice Lotus placement seems to have a specific height difference past which it will be placed mid-air.
 
-**Evidence:**  
+**Evidence:**
+
 * [Video demonstration](https://www.youtube.com/watch?v=jha55PFx5iQ)
 * [Testing location](https://imgur.com/OkrAhHn)
 * [Height reference](https://imgur.com/RvbWdsJ)
 
 **Significance:**  
-Knowing more about construct spawn conditions at different heights.  
+Knowing more about construct spawn conditions at different heights.
 
 ## Burst Mechanics
 
@@ -395,8 +396,6 @@ User SavageCabbage tested out using Ganyu’s elemental burst on a group of enem
 
 These findings are important for Ganyu players to know as their elemental bursts will deal less damage then they might assume on paper due to the common misconception that Ganyu’s ultimate is not snapcast in nature. Along with this due to the fact that the 20% bonus cryo damage will apply if you burst off of cooldown further incentivises players to do so.
 
-
-
 ### Ganyu elemental burst and charge shots snapshot
 
 **By:** Karzak\#7126 Nello\#1928 Neptunya\#8291  
@@ -454,10 +453,10 @@ Hilichurl 13/11/16/11/16/14 hits: [Video](https://www.youtube.com/watch?v=Q9o8kJ
 Humanoid 11/12/10/13/10 hits: [Video](https://www.youtube.com/watch?v=OsArJAXUBsI)  
 Fat fatui 14/12/12/11/15/14 hits: [Video](https://www.youtube.com/watch?v=sCqHL1BjkBU)  
 Geo Vishap 20/19/23/25/22/18 hits: [Video](https://www.youtube.com/watch?v=TOjnzXt-Thg)  
-Primo Vishap 25/24/23/24/19/26/22/23/21 hits: [Video](https://www.youtube.com/watch?v=CLAbZ-wppuE)    
+Primo Vishap 25/24/23/24/19/26/22/23/21 hits: [Video](https://www.youtube.com/watch?v=CLAbZ-wppuE)  
 Geo Lawachurl 14(ran outside)/17/18/16/17 hits: [Video](https://www.youtube.com/watch?v=k6aLvC-MKKM)  
 Mitachurl 12(ran outside)/18/17/14/15/19 hits: [Video](https://www.youtube.com/watch?v=GvOIpAR70wE)  
-Ruin guard 18/19/21/21/23/28 hits: [Video](https://youtu.be/SLCT8oQaDX4)  
+Ruin guard 18/19/21/21/23/28 hits: [Video](https://youtu.be/SLCT8oQaDX4)
 
 **Significance:**  
 Ganyu's ult is better than expected
@@ -592,14 +591,14 @@ The culmination of all Ganyu macro-related testing and iteration since release. 
 
 **Finding:** Most optimal/reliable timings for Ganyu rotations tested and verified via macro.
 
-* Example tech macros for C6 E FFA Instacast, Quickshot and Aimcast variants. 
+* Example tech macros for C6 E FFA Instacast, Quickshot and Aimcast variants.
 * Example tech for standalone Quickshot.
 
 **Significance:**  
-Mostly so close in timings that there's not a huge difference for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable.  
+Mostly so close in timings that there's not a huge difference for normal players to use one over the other, preference should be given to whatever's most reliable/comfortable.
 
 **Significance:**  
-QoL and DPS increase to fluidly execute all as one motion.  
+QoL and DPS increase to fluidly execute all as one motion.
 
 ### Sacrificial Passive With Multiple E Stacks \(Ganyu C2\)
 
@@ -611,8 +610,8 @@ QoL and DPS increase to fluidly execute all as one motion.
 When C1 Sucrose has both stacks of E down, a sacrificial fragments proc will reset the cooldown showed by the timer on E.
 
 **Evidence:**  
-*Streamable Video lost to the sands of time*  
-I cast one Sucrose E, waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to anemo resonance in video). So,  whatever timer is currently showing is the one which will be reset. 
+_Streamable Video lost to the sands of time_  
+I cast one Sucrose E, waited until the first cooldown was down to 5s, and cast the second E. A reset occurred, and the time of the second cooldown was ~15s (minus 10% due to anemo resonance in video). So, whatever timer is currently showing is the one which will be reset.
 
 **Significance:**  
-Unlike Sacrificial-type-weapon users with single-cast skills, any serial-cooldown, multi-cast skill user may waste cooldown resets by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset (not the longer, still waiting cooldowns), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward.  To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible. 
+Unlike Sacrificial-type-weapon users with single-cast skills, any serial-cooldown, multi-cast skill user may waste cooldown resets by causing a reset when their first cooldown is near 0s. Since the timer on stacked skills begins with the first skill cast out of the stack, and that skill is the one which is reset (not the longer, still waiting cooldowns), resets can be completely wasted on characters with multiple stacks. For example, with Sucrose it is possible to reset a skill with 0.1s of cooldown remaining, then have a stack of 15s go onto cooldown afterward. To get the most out of the cooldown benefit of sacrificial weapons, characters with multiple stacks might consider using stacks as quickly as possible.

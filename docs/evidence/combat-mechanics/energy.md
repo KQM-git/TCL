@@ -83,14 +83,14 @@ Elemental particle production sheet here: [https://docs.google.com/spreadsheets/
 * Anemo MC Hold E: 2~4 \(1:9:1\) -&gt; 3~4 \(2:1\)
 * Geo MC: 2~4 \(1:2:1\) -&gt; 3~4 \(2:1\)
 * Chongyun: 3~4 \(1:1\) -&gt; 4 \(-\)
-* Diona: 1 per paw -&gt; 0~1 \(1:4\) check per paw \(5 -&gt; 4 particle average per hold, 2 -&gt; 1.6 particle average per tap\) 
+* Diona: 1 per paw -&gt; 0~1 \(1:4\) check per paw \(5 -&gt; 4 particle average per hold, 2 -&gt; 1.6 particle average per tap\)
 * Jean: 2~3 \(1:1\) -&gt; 2~3 \(1:2\)
 * Kaeya: 2~3 \(1:1\)/4~5 \(1:1\) -&gt; 2~3 \(1:2\)/4~5 \(1:2\)
 * Keqing: 2~3 \(9:1\) -&gt; 2~3 \(1:1\), included extra note "Produce particle on leap connect or Thunderclap Slash connect. Both produce same amount of particle."
 * Klee: 3~4 \(1:9\) -&gt; 4 \(-\)
 * Lisa: 3~5 \(1:1:1\) -&gt; 5 \(-\)
 * Mona: 3~4 \(1:1\) -&gt; 3~4 \(2:1\), included extra note "only produce particle when final explosion connects"
-* Ningguang: 3~4 \(1:9\) -&gt; 3~4 \(3:2\) 
+* Ningguang: 3~4 \(1:9\) -&gt; 3~4 \(3:2\)
 * Razor Tap E: 2~3 \(1:9\) -&gt; 3 \(-\)
 * Razor Hold E: 3~4 \(1:9\) -&gt; 4 \(-\)
 * Sucrose: 3~4 \(1:1\) -&gt; 4 \(-\)
@@ -99,4 +99,3 @@ Elemental particle production sheet here: [https://docs.google.com/spreadsheets/
 * Xingqiu: 4~5 \(1:1\) -&gt; 5 \(-\)
 * Xinyan: 3~4 \(1:9\) -&gt; 4 \(-\)
 * Xiao: 2~3 \(1:9\) -&gt; 3 \(-\)
-

@@ -20,4 +20,3 @@ The average of the fall damage taken by the hilichurl shaman remained the same b
 Methodology for collecting evidence: In the contending tides event, the "Shock Me, I Dare You!" Extreme Difficulty always spawns one geo hilichurl shaman. To collect data, I defeated all other enemies in the difficulty except for the shaman, and used Jean to repeatedly launch the shaman into the air. I kept the angle at which Jean launched the shaman the same by always using the maximum possible upward angle, and the distance fallen remained the same because the contending tides arena is flat. I recorded all fall damage numbers in the spreadsheet. Half of the data was collected without superconduct applied to the shaman or a phys damage cup equipped on Jean, and half of the data was collected with both.
 
 **Significance:** There's no point in using superconduct or a phys damage cup if you're using a fall-damage based strategy to defeat enemies.
-

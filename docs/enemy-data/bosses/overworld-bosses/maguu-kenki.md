@@ -6,7 +6,7 @@ description: An disciplined mechanical swordsman.
 
 Doesn't seem to have the ability nor will to speak, but instead only seeks to communicate with crossed swords.
 It is said that this machine was made using the memories of the first-generation master of a certain sword school. However, it malfunctioned, lost control, and was ultimately discarded.
-Some sing that the machine's spirit still lingers in the place where its fate was ended. They also say that the vicious mask that serves as its guard was inspired by a famous oni from that era.  
+Some sing that the machine's spirit still lingers in the place where its fate was ended. They also say that the vicious mask that serves as its guard was inspired by a famous oni from that era.
 
 ## Weakspot Details
 
@@ -14,39 +14,39 @@ Face.
 
 ## Energy Drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 75% HP | 1 orb | common  
-| 50% HP | 1 orb | common  
-| 25% HP | 1 orb | common   
-| Death | 1 orb + 1 particle | common
+| HP Threshold | Type               | Element |
+| :----------- | :----------------- | :------ |
+| 75% HP       | 1 orb              | common  |
+| 50% HP       | 1 orb              | common  |
+| 25% HP       | 1 orb              | common  |
+| Death        | 1 orb + 1 particle | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 167620 |
-| 65 | 199660 |
-| 70 | 261040 |
-| 75 | 298420 |
-| 80 | 371320 |
-| 85 | 408480 |
-| 90 | 487080 |
-| 95 | 554980 |
-| 100 | 735300 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 167620 |
+| 65    | 199660 |
+| 70    | 261040 |
+| 75    | 298420 |
+| 80    | 371320 |
+| 85    | 408480 |
+| 90    | 487080 |
+| 95    | 554980 |
+| 100   | 735300 |
 
 ## Attacks
 
@@ -59,8 +59,8 @@ Face.
 * Enters a stance and rushes toward the player while drawing its sword.
 * Enters Iai stance and charges for a while before quickly slashing around itself once.
 * Slashes three times, following the player's current location.
-* The Maguu Kenki will clench and raise its' fist to taunt its opponent if they are far away from it after an attack. 
-  * It is vulnerable to attacks while in this state. 
+* The Maguu Kenki will clench and raise its' fist to taunt its opponent if they are far away from it after an attack.
+  * It is vulnerable to attacks while in this state.
 * At 71% HP, it will become invincible, summon an additional sword, charging up before slamming the ground for a wide AoE, createing crystalline spikes around it, dealing Anemo and Cryo damage.
   * While in this animation, it will be invulnerable.
   * Its' Health cannot be reduced under 70% without executing this attack, if an attack would deal more than 30% of his health at once before this, all overkill damage will be lost.

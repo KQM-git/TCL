@@ -27,34 +27,34 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 82.60% | 13 | 381.23%/s | 47.053 | 3 |
-| 2-Hit | 86.64% | 43 | 173.28%/s | 49.351 | 3 |
-| 3-Hit | 107.68% | 73 | 215.36%/s | 61.339 | 3 |
-| 4-Hit | 54.10% x2 | 111 | 170.84%/s | 30.819 x2 | 3 x2 |
-| 5-Hit | 138.90% | 159 | 173.63%/s | 79.121 | 6 |
-| Recovery | - | 191 | - | - | - |
+| String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit    | 82.60%    | 13     | 381.23%/s | 47.053       | 3            |
+| 2-Hit    | 86.64%    | 43     | 173.28%/s | 49.351       | 3            |
+| 3-Hit    | 107.68%   | 73     | 215.36%/s | 61.339       | 3            |
+| 4-Hit    | 54.10% x2 | 111    | 170.84%/s | 30.819 x2    | 3 x2         |
+| 5-Hit    | 138.90%   | 159    | 173.63%/s | 79.121       | 6            |
+| Recovery | -         | 191    | -         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack | 327.97% | - | - | 120 | 7 |
-| N1C | 320.57% | 13 + 54 | 356.19%/s | - | - |
-| Recovery | - | 84 | - | - | - |
+| String         | Talent 9% | Frames  | MV/s      | Poise Damage | Impulse Type |
+| :------------- | :-------- | :------ | :-------- | :----------- | :----------- |
+| Charged Attack | 327.97%   | -       | -         | 120          | 7            |
+| N1C            | 320.57%   | 13 + 54 | 356.19%/s | -            | -            |
+| Recovery       | -         | 84      | -         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 117.46% | 25 | 2 |
-| Low Plunge DMG | 234.86% | 100 | 4 |
-| High Plunge DMG | 293.36% | 150 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
 
@@ -65,33 +65,34 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Skill | 
-| :--- | :--- |
-| Namisen DMG Bonus \(T9%\) | 1.03% Max HP/Stack |
-| Water Illusion DMG \(T9%\) | 186.44% | 
-| Particles | 1-2 \(1:1\) | 
-| Frames | 20 |
-| GU | 1A |
-| ICD | 3-hit / 2.5s | 
-| Snapshot | Snapshot | 
-| Damage Element | Hydro | 
-| Damage Type | Skill |
-| Duration | 6s |
-| CD | 12s | 
-| Water Illusion Poise Damage | 100 |
-| Water Illusion Impulse Type | 3 |
+| Attribute                   | Skill              |
+| :-------------------------- | :----------------- |
+| Namisen DMG Bonus \(T9%\)   | 1.03% Max HP/Stack |
+| Water Illusion DMG \(T9%\)  | 186.44%            |
+| Particles                   | 1-2 \(1:1\)        |
+| Frames                      | 20                 |
+| GU                          | 1A                 |
+| ICD                         | 3-hit / 2.5s       |
+| Snapshot                    | Snapshot           |
+| Damage Element              | Hydro              |
+| Damage Type                 | Skill              |
+| Duration                    | 6s                 |
+| CD                          | 12s                |
+| Water Illusion Poise Damage | 100                |
+| Water Illusion Impulse Type | 3                  |
 
 </div>
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Shunsuiken 1-Hit | 97.17% | - | - | 50 | 3 |
-| Shunsuiken 2-Hit | 108.23% | - | - | 50 | 3 |
-| Shunsuiken 3-Hit | 119.29% | - | - | 50 | 3 |
-| Recovery | - | - | - | - | - |
-| GU | 1A | - | - |  - | - |
+| String           | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
+| :--------------- | :-------- | :----- | :--- | :----------- | :----------- |
+| Shunsuiken 1-Hit | 97.17%    | -      | -    | 50           | 3            |
+| Shunsuiken 2-Hit | 108.23%   | -      | -    | 50           | 3            |
+| Shunsuiken 3-Hit | 119.29%   | -      | -    | 50           | 3            |
+| Recovery         | -         | -      | -    | -            | -            |
+| GU               | 1A        | -      | -    | -            | -            |
 
-**Notes:**  
+**Notes**
+
 * Shunsuiken Attacks can hit enemies inside of Venti's [Wind's Grand Ode](../anemo/venti.md#attacks).
 * Shunsuiken Attacks do not snapshot.
 
@@ -102,27 +103,28 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Burst | 
-| :--- | :--- |
-| Bloomwater Blade DMG \(T9%\) | 112.98% |
-| Normal Attack DMG Bonus \(T9%\) | 19% | 
-| Cast Frames | 122 |
-| Energy Frame | 10 |
-| CD Frame | 1 |
-| GU | 1A |
-| ICD | - | 
-| Snapshot | Snapshot | 
-| Damage Element | Hydro | 
-| Damage Type | Burst |
-| Energy Cost | 80 |
-| Duration | 18 |
-| CD | 20 | 
-| Poise Damage | 50 |
-| Impulse Type | 2 |
+| Attribute                       | Burst    |
+| :------------------------------ | :------- |
+| Bloomwater Blade DMG \(T9%\)    | 112.98%  |
+| Normal Attack DMG Bonus \(T9%\) | 19%      |
+| Cast Frames                     | 122      |
+| Energy Frame                    | 10       |
+| CD Frame                        | 1        |
+| GU                              | 1A       |
+| ICD                             | -        |
+| Snapshot                        | Snapshot |
+| Damage Element                  | Hydro    |
+| Damage Type                     | Burst    |
+| Energy Cost                     | 80       |
+| Duration                        | 18       |
+| CD                              | 20       |
+| Poise Damage                    | 50       |
+| Impulse Type                    | 2        |
 
 </div>
 
-**Notes:**
+**Notes**
+
 * **Kamisato Art: Suiyuu** is similar to Ganyu's [Celestial Shower](../cryo/ganyu.md#attacks) \(tracking and mechanic-wise with one less, so hit\-miss\-miss\-miss against one enemy\) but slower.
 * **Bloomwater Blades** drop once every 30 frames, with a theoretical maximum of 36 drops per Q cast.
 
@@ -164,8 +166,8 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={6} />
 
 | Poise Damage | Impulse Type |
-| :--- | :--- |
-| 50 | 2 |
+| :----------- | :----------- |
+| 50           | 2            |
 
 **Notes**
 

@@ -8,55 +8,56 @@ These are the evangelists and the scholars of the Abyss. Their violent lightning
 
 ## Weakspot Details
 
-Head. 
+Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 orb | Electro |  
-| 33% HP | 1 orb | Electro |
-| Death | 1 particle | Electro |  
+| HP Threshold | Type       | Element |
+| :----------- | :--------- | :------ |
+| 66% HP       | 1 orb      | Electro |
+| 33% HP       | 1 orb      | Electro |
+| Death        | 1 particle | Electro |
 
 ## Shield
 
 | Elemental Source | Gauge Units Required |
-| :--- | :--- |
-| Electro | Immune |
-| Cryo | 36GU |
-| Pyro | 36GU |
-| Hydro | 45GU |
-| Anemo | 72GU |
-| Geo | 72GU |
+| :--------------- | :------------------- |
+| Electro          | Immune               |
+| Cryo             | 36GU                 |
+| Pyro             | 36GU                 |
+| Hydro            | 45GU                 |
+| Anemo            | 72GU                 |
+| Geo              | 72GU                 |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 10% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 10%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 67050 |
-| 65 | 79863 |
-| 70 | 104416 |
-| 75 | 119367 |
-| 80 | 148526 |
-| 85 | 163395 |
-| 90 | 194833 |
-| 95 | 221991 |
-| 100 | 294121 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 67050  |
+| 65    | 79863  |
+| 70    | 104416 |
+| 75    | 119367 |
+| 80    | 148526 |
+| 85    | 163395 |
+| 90    | 194833 |
+| 95    | 221991 |
+| 100   | 294121 |
 
-## Attacks  
+## Attacks
+
 * Summons a falling bolt of Electro energy to strike its' foe. When below 50% HP it will summon 2 bolts consecutively. When its' shield is active it will summon 3 bolts consecutively. The visual indicator for this attack will appear at the active character's feet.
 
 * Conjures a wave of lightning bolts striking down in a line towards the player. When its' shield is active, it will unleash two waves of lightning at once, usually from different directions but sometimes in a straight line.

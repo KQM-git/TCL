@@ -12,48 +12,48 @@ Head.
 
 ## Energy drops
 
-| HP Threshold | Type | Element |
-| :--- | :--- | :--- |
-| 66% HP | 1 orb | common  
-| 33% HP | 1 orb | common   
-| Death | 1 orb | common
+| HP Threshold | Type  | Element |
+| :----------- | :---- | :------ |
+| 66% HP       | 1 orb | common  |
+| 33% HP       | 1 orb | common  |
+| Death        | 1 orb | common  |
 
 ## Resistance Table
 
 | Damage Type | Resistance |
-| :--- | :--- |
-| Physical | 10% |
-| Pyro | 10% |
-| Dendro | 10% |
-| Hydro | 50% |
-| Electro | 10% |
-| Anemo | 10% |
-| Cryo | 10% |
-| Geo | 10% |
+| :---------- | :--------- |
+| Physical    | 10%        |
+| Pyro        | 10%        |
+| Dendro      | 10%        |
+| Hydro       | 50%        |
+| Electro     | 10%        |
+| Anemo       | 10%        |
+| Cryo        | 10%        |
+| Geo         | 10%        |
 
 ## Stat Block
 
-| Level | HP |
-| :--- | :--- |
-| 60 | 58669 |
-| 65 | 69880 |
-| 70 | 91364 |
-| 75 | 104446 |
-| 80 | 129960 |
-| 85 | 142971 |
-| 90 | 170479 |
-| 95 | 194242 |
-| 100 | 257356 |
+| Level | HP     |
+| :---- | :----- |
+| 60    | 58669  |
+| 65    | 69880  |
+| 70    | 91364  |
+| 75    | 104446 |
+| 80    | 129960 |
+| 85    | 142971 |
+| 90    | 170479 |
+| 95    | 194242 |
+| 100   | 257356 |
 
 ## Attacks
 
 * When Mirror Maiden uses her teleport move, she will randomly teleport in front of the active character or behind him. There are no set patterns, it's pure random. This applies for both "weak" state as well as Polarization.
 
 * Can summon a mirror behind them that closes up around them causing them to disappear, then another mirror appears that the Mirror Maiden emerges from.
-* Mirror Maidens can summon 3 lines of water to drop from the skies creating mirror shards on the ground that form spinning flowers with water around them that then burst out.     * This attack applies the Refraction status onto the player.
+* Mirror Maidens can summon 3 lines of water to drop from the skies creating mirror shards on the ground that form spinning flowers with water around them that then burst out. \* This attack applies the Refraction status onto the player.
   * The attack seems to no longer occur after the Mirror Maiden is in Polarization state.
-* Mirror Maidens can summon an Explosive Splash around themselves if the player attacks in melee range. 
-  * This attack applies the Refraction status onto the player. 
+* Mirror Maidens can summon an Explosive Splash around themselves if the player attacks in melee range.
+  * This attack applies the Refraction status onto the player.
   * The attack seems to no longer occur after the Mirror Maiden is in Polarization state.
 * Mirror Maidens can shoot a Hydro Bullet at the player.
   * In Polarization state, 3 homing bullets will be shot at once instead.

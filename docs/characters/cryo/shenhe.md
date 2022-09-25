@@ -31,33 +31,33 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit | 79.47% | 13 | 366.78% | 46.08 | 3 |
-| 2-Hit | 73.94% | 44 | 209.20% | 43.44 | 3 |
-| 3-Hit | 97.96% | 68 | 221.80% | 56.32 | 3 |
-| 4-Hit | 48.35% + 48.35% | 97 + 103 | 202.76% | 27.88 x2 | 2 + 4 |
-| 5-Hit | 120.55% | 135 | 208.28% | 73.6 | 6 |
-| Recovery | - | 167 | - | - | - |
+| String   | Talent 9%       | Frames   | MV/s    | Poise Damage | Impulse Type |
+| :------- | :-------------- | :------- | :------ | :----------- | :----------- |
+| 1-Hit    | 79.47%          | 13       | 366.78% | 46.08        | 3            |
+| 2-Hit    | 73.94%          | 44       | 209.20% | 43.44        | 3            |
+| 3-Hit    | 97.96%          | 68       | 221.80% | 56.32        | 3            |
+| 4-Hit    | 48.35% + 48.35% | 97 + 103 | 202.76% | 27.88 x2     | 2 + 4        |
+| 5-Hit    | 120.55%         | 135      | 208.28% | 73.6         | 6            |
+| Recovery | -               | 167      | -       | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| CA | 203.33% | - | - | 120 | 5 |
-| N1C | 282.80% | 20 + 54 | 314.22% | - | - |
+| String | Talent 9% | Frames  | MV/s    | Poise Damage | Impulse Type |
+| :----- | :-------- | :------ | :------ | :----------- | :----------- |
+| CA     | 203.33%   | -       | -       | 120          | 5            |
+| N1C    | 282.80%   | 20 + 54 | 314.22% | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
-| Damage Type | Talent 9% | Poise Damage | Impulse Type |
-| :--- | :--- | :--- | :--- |
-| Plunge DMG | 117.46% | 25 | 2 |
-| Low Plunge DMG | 234.86% | 100 | 4 |
-| High Plunge DMG | 293.36% | 150 | 7 |
+| Damage Type     | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
 </TabItem>
@@ -67,26 +67,27 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute | Press | Hold | 
-| :--- | :--- | :--- |
-| Skill DMG \(T9%\) | 236.64% | 320.96% |
-| DMG Bonus | 77.62% ATK | 77.62% ATK |
-| Trigger Quota | 5 | 7 |
-| Particles | 3 \(-\) | 4 \(-\) |
-| Frames | 29 | 44 |
-| GU | 1U | 2U |
-| ICD | None | None |
-| Snapshot | - | - | 
-| Damage Element | Cryo | Cryo | 
-| Damage Type | Skill | Skill |
-| Duration | 10s | 15s |
-| CD | 10s | 15s |
-| Poise Damage | 100 | 200 |
-| Impulse Type | 3 | 2 |
+| Attribute         | Press      | Hold       |
+| :---------------- | :--------- | :--------- |
+| Skill DMG \(T9%\) | 236.64%    | 320.96%    |
+| DMG Bonus         | 77.62% ATK | 77.62% ATK |
+| Trigger Quota     | 5          | 7          |
+| Particles         | 3 \(-\)    | 4 \(-\)    |
+| Frames            | 29         | 44         |
+| GU                | 1U         | 2U         |
+| ICD               | None       | None       |
+| Snapshot          | -          | -          |
+| Damage Element    | Cryo       | Cryo       |
+| Damage Type       | Skill      | Skill      |
+| Duration          | 10s        | 15s        |
+| CD                | 10s        | 15s        |
+| Poise Damage      | 100        | 200        |
+| Impulse Type      | 3          | 2          |
 
 </div>
 
 **Notes**
+
 * **Icy Quill** damage increase is calculated as additive flat damage.
 * Initial damage on Press factors in **Spirit Communion Seal** \(A4\).
 * **Spring Spirit Summoning** itself consumes an **Icy Quill** stack
@@ -110,28 +111,29 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 
-| Attribute | Initial Hit | DoT | 
-| :--- | :--- | :--- | 
-| Skill DMG \(T9%\) | 171.36% | 56.3% * 12 |
-| RES Decrease \(T9%\) | 14% | - |
-| Tick Rate | - | 2s |
-| Cast Frames | 75 | - |
-| Energy Frame | 11 | - |
-| CD Frame | 1 | - |
-| GU | 1U | 1U |
-| ICD | - | Standard |
-| Snapshot | Dynamic | Snapshot |
-| Damage Element | Cryo | Cryo |
-| Damage Type | Burst | Burst |
-| Energy Cost | 80 | - |
-| Duration | 12s | - | 
-| CD | 20s | - |
-| Poise Damage | 250 | 50 |
-| Impulse Type | 3 | 2 |
+| Attribute            | Initial Hit | DoT         |
+| :------------------- | :---------- | :---------- |
+| Skill DMG \(T9%\)    | 171.36%     | 56.3% \* 12 |
+| RES Decrease \(T9%\) | 14%         | -           |
+| Tick Rate            | -           | 2s          |
+| Cast Frames          | 75          | -           |
+| Energy Frame         | 11          | -           |
+| CD Frame             | 1           | -           |
+| GU                   | 1U          | 1U          |
+| ICD                  | -           | Standard    |
+| Snapshot             | Dynamic     | Snapshot    |
+| Damage Element       | Cryo        | Cryo        |
+| Damage Type          | Burst       | Burst       |
+| Energy Cost          | 80          | -           |
+| Duration             | 12s         | -           |
+| CD                   | 20s         | -           |
+| Poise Damage         | 250         | 50          |
+| Impulse Type         | 3           | 2           |
 
 </div>
 
 **Notes**
+
 * Damage ticks twice every 2 seconds
 * Cooldown Starts on press.
 * Duration timer starts after the animation.
@@ -156,6 +158,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={0} />
 
 **Notes**
+
 * **Deific Embrace** is dynamic and changes as the character enters and exits the **Divine Maiden's Deliverance** field.
 
 </TabItem>
@@ -164,6 +167,7 @@ import Passive from '@site/src/components/char/Passive'
 <Passive char={char} passive={1} />
 
 **Notes**
+
 * Buff durations for **Spring Spirit Summoning** \(Press\) and **Spring Spirit Summoning** \(Hold\) are independent.
 
 </TabItem>
@@ -178,14 +182,16 @@ import Constellation from '@site/src/components/char/Constellation'
 <Constellation char={char} constellation={1} />
 
 **Notes**
-* The charges refreshes **Icy Quill** stacks based on the latest type of **Spring Spirit Summoning** cast \(Press/Hold\). 
+
+* The charges refreshes **Icy Quill** stacks based on the latest type of **Spring Spirit Summoning** cast \(Press/Hold\).
 
 </TabItem>
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
 
-**Note**
+**Notes**
+
 * The CRIT DMG buff shortly lingers after **Divine Maiden's Deliverance** ends.
 
 </TabItem>
@@ -197,8 +203,9 @@ import Constellation from '@site/src/components/char/Constellation'
 <TabItem value='c4' label='C4'>
 <Constellation char={char} constellation={4} />
 
-**Note**
-* Stacks are gained after the damage has been dealt .  
+**Notes**
+
+* Stacks are gained after the damage has been dealt .
 
 </TabItem>
 

@@ -30,23 +30,23 @@ search: false
 
 ### Skill Mechanics
 
-* Sayu's roll is affected by movement speed buffs. - [Hikaru#8338](https://youtu.be/zlPtLamzvVg)  
-* Sayu's roll snapshots [1](https://youtu.be/fM_7247lDqk) [2](https://youtu.be/XrN4D5es3-g) - chae#0720  
+* Sayu's roll is affected by movement speed buffs. - [Hikaru#8338](https://youtu.be/zlPtLamzvVg)
+* Sayu's roll snapshots [1](https://youtu.be/fM_7247lDqk) [2](https://youtu.be/XrN4D5es3-g) - chae#0720
 * Sacrificial does not proc on hold E Windwheel hits, it can only proc on Fuufuu Whirlwind Kick - [Steph#3614](https://www.youtube.com/watch?v=A_QoytoKyZw)
 * Sayu's Elemental Skill can be used at 0 stamina, and does not consume nor gain any stamina during the roll. - [EdisonsMathsClub#6469](https://www.youtube.com/watch?v=EboCmsXMfIo&feature=youtu.be)
 * Absorption Priority is: Pyro > Hydro > Electro > Cryo - [채z#0007](https://youtu.be/E8hTyByWYF0)
 * If Sayu gets frozen while rolling, she will still deal Windwheel damage - [Mcpie#8672](https://youtu.be/HawcofVHV6I)
-* Sayu is capable of ice bridging if her roll is infused with cryo. - [Dunkingson#9351](https://imgur.com/a/gUFyt8Y) 
+* Sayu is capable of ice bridging if her roll is infused with cryo. - [Dunkingson#9351](https://imgur.com/a/gUFyt8Y)
 * Sayu's Hold E follows standard ICD (3-hit/2.5s) - [sigurd#3854](https://youtu.be/ko1xQoItN30)
 * Sayu has separate ICD on anemo application for her Windwheel Roll and Whirlwind Kick. - [DeFault#1802](https://youtu.be/ssYgLkdNzq8)
 * Sayu Hold E can be cancelled out of by...
   * Dash Cancelling - [RazorClaws#4343](https://www.youtube.com/watch?v=vwKnua1AOCI)
   * Jump Cancelling - [RazorClaws#4343](https://www.youtube.com/watch?v=NWDobcF8vpg)
-  * Swapping Characters - [Mcpie#8672](https://i.imgur.com/SUEmTnj.mp4)  
-* Sayu's E roll keeps on rolling if you want to answer or write a message. Finally a way to perform "autowalk". Works in coop as well. - [Mcpie#8672](https://i.imgur.com/bbliYsk.mp4)  
-* Sayu's roll E kick performs autotarget during unroll. - [Mcpie#8672](https://i.imgur.com/AmJdNSP.mp4)  
-* Sayu's roll continues during cinematics. - [Mcpie#8672](https://i.imgur.com/GH6nirt.mp4)  
-* Sayu's kick onto a crystal ore will make it require only 3 more hits rather than 4. - [Mcpie#8672](https://i.imgur.com/1OqLOWP.mp4)  
+  * Swapping Characters - [Mcpie#8672](https://i.imgur.com/SUEmTnj.mp4)
+* Sayu's E roll keeps on rolling if you want to answer or write a message. Finally a way to perform "autowalk". Works in coop as well. - [Mcpie#8672](https://i.imgur.com/bbliYsk.mp4)
+* Sayu's roll E kick performs autotarget during unroll. - [Mcpie#8672](https://i.imgur.com/AmJdNSP.mp4)
+* Sayu's roll continues during cinematics. - [Mcpie#8672](https://i.imgur.com/GH6nirt.mp4)
+* Sayu's kick onto a crystal ore will make it require only 3 more hits rather than 4. - [Mcpie#8672](https://i.imgur.com/1OqLOWP.mp4)
 
 ### Burst Mechanics
 
@@ -92,11 +92,11 @@ Rough napkin maths:
 base anemo hold kick dmg: 716  
 base absorbed element kick dmg: 251
 
-2 roll ticks anemo hold kick dmg: 716 * (1 + 2 * 0.033) = 763  
-2 roll ticks abs elem kick dmg: 251 * (1 + 2 * 0.033) = 267
+2 roll ticks anemo hold kick dmg: 716 _ (1 + 2 _ 0.033) = 763  
+2 roll ticks abs elem kick dmg: 251 _ (1 + 2 _ 0.033) = 267
 
-20 roll ticks anemo hold kick dmg: 716 * (1 + 20 * 0.033) = 1188  
-20 roll ticks abs elem kick dmg: 251 * (1 + 20 * 0.033) = 416
+20 roll ticks anemo hold kick dmg: 716 _ (1 + 20 _ 0.033) = 1188  
+20 roll ticks abs elem kick dmg: 251 _ (1 + 20 _ 0.033) = 416
 
 [Video](https://www.youtube.com/watch?v=EeB9czD78KQ)  
 [Video](https://www.youtube.com/watch?v=-nyGLWR1pA0)

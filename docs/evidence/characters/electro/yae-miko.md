@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949044550100484136_transcript-yae-miko-basic-mechanics.html)  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949044550100484136_transcript-yae-miko-basic-mechanics.html)
 
 * ICDs:
   * NA: 3-hit/2.5s - [Video](https://youtu.be/zPJ2trNFn3M) - pai\#3602

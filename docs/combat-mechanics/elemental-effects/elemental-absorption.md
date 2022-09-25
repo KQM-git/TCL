@@ -4,11 +4,11 @@ sidebar_position: 3001
 
 # Elemental Absorption
 
-Elemental Absorption is the capability of certain Anemo abilities to be infused with either Hydro, Pyro, Cyro, or Electro. Such abilities can only be infused once with a single element per use, and will deal damage of that type periodically throughout the ability's duration. 
+Elemental Absorption is the capability of certain Anemo abilities to be infused with either Hydro, Pyro, Cyro, or Electro. Such abilities can only be infused once with a single element per use, and will deal damage of that type periodically throughout the ability's duration.
 
 ## Absorption Triggers
 
-Absorption is not yet fully understood, and some of its details specifically around its inconsistency in triggering are still being investigated. A full list of sources which can act as triggers for Absorption has yet to be created. 
+Absorption is not yet fully understood, and some of its details specifically around its inconsistency in triggering are still being investigated. A full list of sources which can act as triggers for Absorption has yet to be created.
 
 So far it is understood that Anemo abilities with Absorption will always absorb from direct contact with:
 
@@ -34,10 +34,11 @@ When there are multiple elements in range of the Anemo ability it will absorb ac
 
 ## Aura Checks
 
-Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.  
-* Aura-checks have different verticalities to their original attack, have set frequencies which differ per skill/burst, and can trigger some passive talents that activate on hit.   
+Aura-checks are zero-damage attacks produced by Anemo Absorption attacks to check for Auras.
+
+* Aura-checks have different verticalities to their original attack, have set frequencies which differ per skill/burst, and can trigger some passive talents that activate on hit.
 * Aura-checks can hit cats.
-* For more information about their properties, see the [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md\#aura-check-properties).  
+* For more information about their properties, see the [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-absorption.md#aura-check-properties).
 
 ## Evidence Vault
 
