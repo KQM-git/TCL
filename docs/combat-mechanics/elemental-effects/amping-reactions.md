@@ -5,18 +5,9 @@ sidebar_position: 2001
 
 # Amping Reactions
 
-$$
-AmplifyingReaction =
-\begin{cases}
-2 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\
-& Vaporize\ with\ Hydro\ or\\
-& Melt\ with\ Pyro\\
-1.5 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\
-&Vaporize\ with\ Pyro\ or\\
-& Melt\ with\ Cryo\\
-1 & \text{otherwise}
-\end{cases}
-$$
+import AmplifyingReaction from '../_formulas/amplifying.md'
+
+<AmplifyingReaction />
 
 Amping reactions scale on EM, reaction bonuses, and the damage of the attack triggering the reaction. Since they scale off of base damage, Amping reactions can make use of Crit/ATK stats of a character as opposed to just their EM and level. There are also reaction bonuses to further amplify this, which currently only exist in the form of the 4 Crimson Witch set and Mona's C1.
 

@@ -10,15 +10,9 @@ There's two mitigating factors for damage dealt to enemies, Resistances and Defe
 
 ## Resistance
 
-$$
-Resistance = BaseResistance + BonusResistance - ResistanceDebuffs \\
-ResistanceMultiplier = 
-\begin{cases}
-1 - \frac{Resistance}{2} & \text{if, } Resistance \lt 0 \\
-1 - Resistance & \text{if, } 0 \le Resistance \lt 0.75 \\
-\frac{1}{4 \times Resistance + 1} & \text{if, } Resistance \ge 0.75
-\end{cases}
-$$
+import EnemyRes from '../_formulas/enemyres.md'
+
+<EnemyRes />
 
 All enemies have some innate base level of resistance. Resistance is elemental based and reduces damage from a certain type of element. Each enemy has individual resistances against each different type of element. The most common base amount of resistance is 10%. A list of enemy base resistances can be found [here](https://genshin-impact.fandom.com/wiki/Damage#Base_Enemy_Resistances).
 
@@ -33,9 +27,9 @@ Players can shred monster resistances via means such as:
 
 ## Defense
 
-$$
-EnemyDefenseMultiplier = \frac{LvlCharacter + 100}{(LvlCharacter + 100) + (LvlEnemy + 100) \times (1-DefReduction)}
-$$
+import EnemyDef from '../_formulas/enemydef.md'
+
+<EnemyDef />
 
 Enemies have an innate level of defense scaling. This defense calculation is vastly different from player defense, which scales off of artifacts and such. Instead, enemy defense is dependent solely on the attacking character's level and the enemy's level. This is another layer of mitigation and is separate from resistance.
 * Defense reduction has a hard cap of 90%.  

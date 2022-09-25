@@ -7,7 +7,10 @@ description: An explanation as to how outgoing damage is calculated.
 ## General Formula for Damage
 
 $$
-\text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \times (1 + \text{DamageBonus} - \text{DamageReduction}) \times \text{Crit}\\ \times \text{EnemyDefMult}\times \text{EnemyResMult}\\ \times \text{AmplifyingReaction} + \text{TransformativeReaction} + \text{Proc}
+\text{Damage} = ((\text{BaseDamage} \times \text{SpecialMultiplier}) + \text{FlatDamage}) \\
+\times (1 + \text{DamageBonus} - \text{DamageReduction}) \\ 
+\times \text{Crit}  \times \text{EnemyDefMult} \times \text{EnemyResMult} \times \text{AmplifyingReaction} \\
++ \text{TransformativeReaction} + \text{Proc}
 $$
 
 See the sections below for the breakdown of each individual part of the formula.
@@ -15,19 +18,24 @@ See the sections below for the breakdown of each individual part of the formula.
 ## Base Damage
 
 $$
-BaseDamage = \begin{cases} Talent\ \% \times ATK & \text{if, } talent\ scales\ with\ Attack\\ Talent\ \% \times DEF & \text{if, } talent\ scales\ with\ Defense\\ Talent\ \% \times Max\ HP & \text{if, } talent\ scales\ with\ Max HP \end{cases}
+\text{BaseDamage} = 
+\begin{cases} 
+  \text{Talent \%} \times \text{ATK} & \text{if, talent scales with Attack} \\
+  \text{Talent \%} \times \text{DEF} & \text{if, talent scales with Defense} \\ 
+  \text{Talent \%} \times \text{Max HP} & \text{if, talent scales with Max HP}
+\end{cases}
 $$
 
 $$
-ATK = (AttackCharacter + AttackWeapon) \times (1 + AttackBonus) + FlatAttack
+\text{ATK} = (\text{AttackCharacter} + \text{AttackWeapon}) \times (1 + \text{AttackBonus}) + \text{FlatAttack}
 $$
 
 $$
-DEF = DefenseCharacter \times (1 + DefenseBonus) + FlatDefense
+\text{DEF} = \text{DefenseCharacter} \times (1 + \text{DefenseBonus}) + \text{FlatDefense}
 $$
 
 $$
-Max\ HP = HealthCharacter \times (1 + HealthBonus) + FlatHealth
+\text{Max HP} = \text{HealthCharacter} \times (1 + \text{HealthBonus}) + \text{FlatHealth}
 $$
 
 | Formula Variable      | Explanation                                                                                                                                                                                  |
@@ -64,11 +72,14 @@ $$
 ## Critical Hits
 
 $$
-Crit= \begin{cases} 1 + CritDamage & \text{with } min\{100\%,CritRate\}\ probability\\ 1 & \text{otherwise } \end{cases}
+\text{Crit} = \begin{cases} 
+  1 + \text{CritDamage} & \text{if, crit} \\
+  1 & \text{otherwise } 
+\end{cases}
 $$
 
 $$
-AverageCrit = 1 + min\{CritRate,100\%\} \times CritDamage
+\text{AverageCrit} = 1 + \min\{\text{CritRate}, 100\% \} \times \text{CritDamage}
 $$
 
 | Formula Variable | Explanation                                                                                |
@@ -78,9 +89,9 @@ $$
 
 ## Enemy Defense
 
-$$
-EnemyDefMult = \frac{Level_{Character} + 100}{(Level_{Character} + 100) + (Level_{Enemy} + 100) \times (1-DefReduction) \times (1-DefIgnore)}
-$$
+import EnemyDef from '../_formulas/enemydef.md'
+
+<EnemyDef />
 
 | Formula Variable   | Explanation                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -100,13 +111,9 @@ $$
 
 ## Enemy Resistance
 
-$$
-EnemyResMult = \begin{cases} 1 - \frac{Resistance}{2} & \text{if, } Resistance \lt 0\\ 1 - Resistance & \text{if, } 0 \le Resistance \lt 0.75\\ \frac{1}{4 \times Resistance + 1} & \text{if, } Resistance \ge 0.75 \end{cases}
-$$
+import EnemyRes from '../_formulas/enemyres.md'
 
-$$
-Resistance = BaseResistance - ResistanceReduction
-$$
+<EnemyRes />
 
 | Formula Variable        | Explanation                                                                                                                                                                                        |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -115,9 +122,9 @@ $$
 
 ## Amplifying Reaction Bonus
 
-$$
-AmplifyingReaction = \begin{cases} 2 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\ & Vaporize\ with\ Hydro\ or\\ & Melt\ with\ Pyro\\ 1.5 \times (1 + \frac{2.78 \times EM}{1400 + EM} + ReactionBonus) & \text{if, } triggering\\ &Vaporize\ with\ Pyro\ or\\ & Melt\ with\ Cryo\\ 1 & \text{otherwise} \end{cases}
-$$
+import AmplifyingReaction from '../_formulas/amplifying.md'
+
+<AmplifyingReaction />
 
 | Formula Variable  | Explanation                                                                                   |
 | ----------------- | --------------------------------------------------------------------------------------------- |
@@ -129,7 +136,11 @@ $$
 Unlike other bonuses, these are directly multiplicative with base talent scaling. They can be considered a multiplier of the talent motion value.
 
 $$
-SpecialMultiplier = \begin{cases} 1.5 & \text{if, } Evilsoother\ triggered\\ 1.3791 - 1.7060 & \text{if, } Niwabi\ Fire\text{-}Dance\ activated\\ 1 & \text{otherwise} \end{cases}
+\text{SpecialMultiplier} = \begin{cases} 
+  1.5 & \text{if, Evilsoother triggered} \\ 
+  \text{Talent \%} & \text{if, Niwabi Fire-Dance activated} \\ 
+  1 & \text{otherwise} 
+\end{cases}
 $$
 
 | Formula Variable                                                  | Explanation                                                                  |
@@ -139,24 +150,9 @@ $$
 
 ## Transformative Reaction Bonus
 
-$$
-\text{TransformativeReactions} = 
-  \text{BaseMultiplier} \times \biggl(1 + \frac{16 \times \text{EM}}{2000 + \text{EM}} + \text{ReactionBonus} \biggr)\\
-  \times \text{LevelMultiplier} \times \text{EnemyResistanceMultiplier}
-$$
+import TransformativeReaction from '../_formulas/transformative.md'
 
-$$
-\text{BaseMultiplier} = \begin{cases} 
-  3    & \text{for Burgeon and Hyperbloom}\\
-  2    & \text{for Overloaded and Bloom}\\
-  1.5  & \text{for Shatter}\\
-  1.2  \times \text{ECTriggers} & \text{for Electro-Charged}\\
-  0.6  & \text{for Swirl}\\
-  0.5  & \text{for Superconduct}\\
-  0.25 & \text{for Burning}\\
-  0    & \text{otherwise}
-\end{cases}
-$$
+<TransformativeReaction />
 
 import player from '@site/src/data/elemental_curves/player.json'
 import enemy from '@site/src/data/elemental_curves/element.json'

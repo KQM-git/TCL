@@ -5,34 +5,16 @@ sidebar_position: 2002
 
 # Transformative Reactions
 
-$$
-\begin{align}
-TransformativeReaction = &
-\begin{cases}
-4 & \text{if, } triggering\ Overloaded\\
-3 & \text{if, } triggering\ Shatter\\
-2.4 \times ECTriggers & \text{if, } triggering\ ElectroCharged\\
-1.2 & \text{if, } triggering\ Swirl\\
-1 & \text{if, } triggering\ Superconduct\\
-0 & \text{otherwise}
-\end{cases}
-\\
-& \times \biggl( 1 + \frac{16 \times EM}{2000 + EM} + ReactionBonus \biggr)\\
-& \times LevelMultiplier \times EnemyResistanceMultiplier
-\end{align}
-$$
+import TransformativeReaction from '../_formulas/transformative.md'
 
-$$
-\begin{align}
-LevelMultiplier \approx &
-\begin{cases}
-0.0002325 &\times CharLvl^{3} + 0.05547 \times CharLvl^{2} & \\
-&- 0.2523 \times CharLvl + 14.47  & \text{if, } CharLvl < 60 \\
-0.00194 &\times CharLvl^{3} - 0.319 \times CharLvl^{2} & \\
-&+ 30.7 \times CharLvl - 868 & \text{if, } CharLvl \geq 60\\
-\end{cases}
-\end{align}
-$$
+<TransformativeReaction />
+
+import player from '@site/src/data/elemental_curves/player.json'
+import enemy from '@site/src/data/elemental_curves/element.json'
+import LevelMultiplier from '@site/src/components/common/LevelMultiplier'
+
+Player level multiplier at <LevelMultiplier curve={player} />  
+Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />
 
 | Reaction | Type | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -120,7 +102,7 @@ The duration of Freeze is as shown in the following formulas:
 $$
 \begin{align*}
 &\text{Origin Aura Gauge when frozen}=(0.8*\text{Origin Element Gauge}) * \left(1-\frac{\text{Time between Origin and Trigger Element application}}{2.5*\text{Origin Element Gauge}+7}\right)\\\\
-&\text{Frozen Aura Gauge}=2 * Min\text{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
+&\text{Frozen Aura Gauge}=2 * \min\text{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
 &\text{Freeze Duration}=2 * \sqrt{5 * \text{Frozen Aura Gauge}+4}-4\\\\
 &\text{Time is in seconds}\\\\
 &\text{Gauge has to be 1A, 2B, or 4C}

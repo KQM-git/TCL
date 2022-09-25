@@ -786,11 +786,11 @@ This improves our knowledge of Freeze and how to sequence reactions.
 
 $$
 \begin{align*}
-&\mbox{Origin Aura Gauge when frozen}=(0.8*\mbox{Origin Element Gauge})\*\left(1-\frac{\mbox{Time between Origin and Trigger Element application}}{2.5*\mbox{Origin Element Gauge}+7}\right)\\\\
-&\mbox{Frozen Aura Gauge}=2\*Min\mbox{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
-&\mbox{Freeze Duration}=2\*\sqrt{5\*\mbox{Frozen Aura Gauge}+4}-4\\\\
-&\mbox{Time is in seconds}\\\\
-&\mbox{Gauge has to be 1A, 2B, or 4C}
+&\text{Origin Aura Gauge when frozen}=(0.8*\text{Origin Element Gauge}) * \left(1-\frac{\text{Time between Origin and Trigger Element application}}{2.5*\text{Origin Element Gauge}+7}\right)\\\\
+&\text{Frozen Aura Gauge}=2 * \min\text{(Origin Aura Gauge when frozen, Trigger Element Gauge)}\\\\
+&\text{Freeze Duration}=2 * \sqrt{5 * \text{Frozen Aura Gauge}+4}-4\\\\
+&\text{Time is in seconds}\\\\
+&\text{Gauge has to be 1A, 2B, or 4C}
 \end{align*}
 $$
 

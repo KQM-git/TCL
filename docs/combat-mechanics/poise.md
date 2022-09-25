@@ -23,7 +23,7 @@ If you come across any unknown terms, there is a section in the [glossary](../th
 All units have a hidden poise bar which decreases when receiving attacks that deal **poise damage**. When the poise bar is depleted to 0, the unit becomes **vulnerable**. This can be found in each character's attack tables.
 
 $$
-Actual Poise Damage = Poise Damage * Vulnerability
+\text{Actual Poise Damage} = \text{Poise Damage} * \text{Vulnerability}
 $$
 
 ### Factors that affect Poise
