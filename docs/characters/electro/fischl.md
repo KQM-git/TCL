@@ -2,6 +2,9 @@
 description: A mysterious girl who calls herself "Prinzessin der Verurteilung" and travels with a night raven named Oz.
 ---
 
+import char from '@site/src/data/characters/Fischl.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Fischl
 
 ![](/assets/characters/gacha/Fischl.png)
@@ -16,23 +19,19 @@ description: A mysterious girl who calls herself "Prinzessin der Verurteilung" a
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | ATK% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6054 | 161 | 391 | 12% |
-| 60+ | 6463 | 172 | 418 | 12% |
-| 70 | 7099 | 189 | 459 | 12% |
-| 70+ | 7508 | 200 | 485 | 18% |
-| 80 | 8144 | 216 | 526 | 18% |
-| 80+ | 8553 | 227 | 553 | 24% |
-| 90 | 9189 | 244 | 594 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Bolts of Downfall">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Perform up to 5 consecutive shots with a bow.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -43,11 +42,9 @@ Perform up to 5 consecutive shots with a bow.
 | 5-Hit | 132.4% | 131 | 234.61%/s | 19.71 | 1 |
 | With Recovery | 512.23% | 182 | 168.87%/s | - | - |
 
-* Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
-
-**Charged Attack**  
-Perform a more precise Aimed Shot with increased DMG.  
-While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | Type | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -55,10 +52,10 @@ While aiming, the dark lightning spirits of Immernachtreich shall heed the call 
 | With Recovery | - | 25 | 193.392%/s | - | - | - |
 | Fully Charged | 210.8% | 86 | 147.07%/s | 1A | 20 \(Headshot: 60\) | 5 |
 | With Recovery | - | 96 | 131.75%/s | - | - | - |
-* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 
-**Plunge**  
-Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -66,14 +63,18 @@ Fires off a shower of arrows in mid-air before falling and striking the ground, 
 | Low Plunge DMG | 208.77% | 50 | 2 |
 | High Plunge DMG | 260.76% | 100 | 3 |
 
+</div>
+
+**Notes**
+* Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
+* Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+
 </TabItem>
 
-<TabItem value="e" label="Nightrider">
-Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.  
-For the ability's duration, Oz will continuously attack nearby opponents with Freikugel.
-
-Hold to adjust the location Oz will be summoned to.  
-Press again any time during the ability's duration to once again summon him to Fischl's side.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Skill |
 | :--- | :--- |
@@ -88,6 +89,8 @@ Press again any time during the ability's duration to once again summon him to F
 | Reposition CD | 1s |
 | Poise Damage | 80 |
 | Impulse Type | 2 |
+
+</div>
 
 **Notes**
 * When **Oz** is already on the field, this ability repositions him next to Fischl instead, without modifying his remaining duration.
@@ -117,12 +120,10 @@ Press again any time during the ability's duration to once again summon him to F
 
 </TabItem>
 
-<TabItem value="q" label="Midnight Phantasmagoria">
-Summons Oz to spread his twin wings of twilight and defend Fischl.  
-Has the following properties during the ability's duration:  
-* Fischl takes on Oz's form, greatly increasing her Movement Speed.
-* Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes into contact with. Each opponent can only be struck once.
-* Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -141,6 +142,8 @@ Has the following properties during the ability's duration:
 | Poise Damage | 150 |
 | Impulse Type | 3 |
 
+</div>
+
 **Notes**
 * Fischl may not attack, cast, or dash during the duration of this ability. 
 * Summons **Oz** when the effect ends. 
@@ -155,20 +158,15 @@ Has the following properties during the ability's duration:
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Mein Hausgarten
-
-When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### Stellar Predator
-
-When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing **AoE Electro DMG** equal to 152.7% of the arrow's DMG.
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 
 | Attribute | Thundering Retribution |
 | :--- | :--- |
@@ -180,17 +178,14 @@ When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering R
 | Poise Damage | 40 |
 | Impulse Type | 1 |
 
+**Notes**
 * This can be used to activate the passive on Prototype Crescent when the bolt hits a humanoid, as the top of their heads are their weakpoint hitbox.  
 * The AoE Electro DMG is calculated as a raw multiplier to Fischl's Aimed Shot Base DMG, not as a normal DMG Bonus.  
 
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Undone Be Thy Sinful Hex
-*\(previously known as **Lightning Smite**\)*  
-
-If your current active character triggers an **Electro-related Elemental Reaction** when **Oz** is on the field, the opponent shall be stricken with **Thundering Retribution**, dealing **Electro DMG** equal to 80% of Fischl's ATK.
+<Passive char={char} passive={1} />
 
 | Attribute | A4 |
 | :--- | :--- |
@@ -213,12 +208,11 @@ If your current active character triggers an **Electro-related Elemental Reactio
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Gaze of the Deep
-
-Even when **Oz** is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, **Oz** fires a joint attack, dealing DMG equal to 22% of Fischl's ATK.
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
 | Effect | C1 |
 | :--- | :--- |
@@ -228,36 +222,26 @@ Even when **Oz** is not present in combat, he can still watch over Fischl throug
 | Poise Damage | 30 |
 | Impulse Type | 0 |
 
+**Notes**
 * This is an echo effect.
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 
-### Devourer of All Sins
-
-When **Nightrider** is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.
-
+**Notes**
 * C2 is calculated as additional MV added to **Nightrider**'s Summoning MV. Example:  At T9, Nightrider's Summoning MV becomes 396.25% when factoring in C2.
 * C2 does not affect Oz's turret attack damage.
 
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Wings of Nightmare
-
-Increases the Level of **Nightrider** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Her Pilgrimage of Bleak
-
-When **Midnight Phantasmagoria** is used, it deals 222% of ATK as **Electro DMG** to surrounding opponents.  
-When the skill duration ends, Fischl regenerates 20% of her HP.
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -268,26 +252,19 @@ When the skill duration ends, Fischl regenerates 20% of her HP.
 | Poise Damage | 500 |
 | Impulse Type | 2 |
 
+**Notes**
 * C4 can crit and has separate crit rolls from Q.
 * C4 damage occurs before Q (higher priority)
 * C4 is not a blunt attack and will not shatter frozen enemies.
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Against the Fleeing Light
-
-Increases the Level of **Midnight Phantasmagoria** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Evernight Raven
-
-Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz** performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as **Electro DMG**.
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
 | Attribute | C6 |
 | :--- | :--- |
@@ -314,60 +291,9 @@ Extends the duration of **Oz**'s presence on the field by 2s. Additionally, **Oz
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Bolts of Downfall">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 44.12% | 47.71% | 51.30% | 56.43% | 60.02% | 64.13% | 69.77% | 75.41% | 81.05% | 87.21% | 93.37% |
-| 2-Hit DMG | 46.78% | 50.59% | 54.40% | 59.84% | 63.65% | 68.00% | 73.98% | 79.97% | 85.95% | 92.48% | 99.01% |
-| 3-Hit DMG | 58.14% | 62.87% | 67.60% | 74.36% | 79.09% | 84.50% | 91.94% | 99.37% | 106.81% | 114.92% | 123.03% |
-| 4-Hit DMG | 57.71% | 62.40% | 67.10% | 73.81% | 78.51% | 83.88% | 91.26% | 98.64% | 106.02% | 114.07% | 122.12% |
-| 5-Hit DMG | 72.07% | 77.93% | 83.80% | 92.18% | 98.05% | 104.75% | 113.97% | 123.19% | 132.40% | 142.46% | 152.52% |
-
-### Aimed Shot
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Aimed Shot | 43.86% | 47.43% | 51.00% | 56.10% | 59.67% | 63.75% | 69.36% | 74.97% | 80.58% | 86.70% | 92.82% |
-| Fully-Charged Aimed Shot | 124.00% | 133.30% | 142.60% | 155.00% | 164.30% | 173.60% | 186.00% | 198.40% | 210.80% | 223.20% | 235.60% |
-
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Nightrider">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Oz's ATK DMG | 88.80% | 95.46% | 102.12% | 111.00% | 117.66% | 124.32% | 133.20% | 142.08% | 150.96% | 159.84% | 168.72% | 177.60% | 188.70% |
-| Summoning DMG | 115.44% | 124.10% | 132.76% | 144.30% | 152.96% | 161.62% | 173.16% | 184.70% | 196.25% | 207.79% | 219.34% | 230.88% | 245.31% |
-
-**Oz's Duration**: 10s  
-**Cooldown**: 25s
-
-</TabItem>
-
-<TabItem value="q" label="Midnight Phantasmagoria">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Falling Thunder DMG | 208.00% | 223.60% | 239.20% | 260.00% | 275.60% | 291.20% | 312.00% | 332.80% | 353.60% | 374.40% | 395.20% | 416.00% | 442.00% |
-
-**Cooldown**: 15s  
-**Energy Cost**: 60
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

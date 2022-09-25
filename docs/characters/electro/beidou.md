@@ -2,6 +2,9 @@
 description: Captain of her crew, The Crux. She's quite an unbound and forthright woman.
 ---
 
+import char from '@site/src/data/characters/Beidou.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Beidou
 
 ![](/assets/characters/gacha/Beidou.png)
@@ -16,23 +19,19 @@ description: Captain of her crew, The Crux. She's quite an unbound and forthrigh
 
 ## Base Stats
 
-| Lv | Base HP | Base ATK | Base DEF | Electro DMG% |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 8597 | 148 | 427 | 12% |
-| 60+ | 9178 | 158 | 456 | 12% |
-| 70 | 10081 | 174 | 501 | 12% |
-| 70+ | 10662 | 184 | 530 | 18% |
-| 80 | 11565 | 200 | 575 | 18% |
-| 80+ | 12146 | 210 | 603 | 24% |
-| 90 | 13050 | 225 | 648 | 24% |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Oceanborne">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Beidou performs up to 5 consecutive attacks.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -42,27 +41,18 @@ Beidou performs up to 5 consecutive attacks.
 | 4-Hit | 158.95% | 178 | 196.21%/s | 104.19 | 3 |
 | 5-Hit | 206.03% | 246 | 192.22%/s | 135.12 | 6 |
 
-**Notes**  
-Normal attacks without **Lightning Storm** \(A4 passive\) active lose about 30% damage output.
-
-* C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
-* Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
-
-**Charged Attack**  
-Beidou consumes 40 stamina a second to perform continuous slashes.  
-At the end of the 5 seconds, perform a more powerful slash.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Spinning DMG | 103.33% | 35 | 177.14%/s | 60 | 3 |
 | Final DMG | 187.07% | 32 | 350.76/s | 120 | 6 |
 
-**Notes**
-* Charged Attack wind up is 71 frames long.
-* All frame counts are done against a Ruin Guard
-
-**Plunge**  
-Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -70,21 +60,20 @@ Plunges from mid-air to strike the ground, damaging opponents along the path and
 | Low Plunge DMG | 274.01% | 150 | 4 |
 | High Plunge DMG | 342.25% | 200 | 7 |
 
+</div>
+
+**Notes**
+* C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
+* Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
+* Charged Attack wind up is 71 frames long.
+* All frame counts are done against a Ruin Guard
+
 </TabItem>
 
-<TabItem value="e" label="Tidecaller">
-Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.
-
-**Press**  
-Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.
-
-**Hold**  
-Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.  
-Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.
-
-The shield possesses the following properties:  
-* Has 250% Electro DMG Absorption Efficiency.
-* Applies the Electro element to Beidou upon activation.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Tap | Hold |
 | :--- | :--- | :--- |
@@ -101,6 +90,8 @@ The shield possesses the following properties:
 | CD | 7.5s | 7.5s |
 | Poise Damage | 100 | 1 stack: 200 <br/> 2 stacks: 300 |
 | Impulse Type | 4 | 1 stack: 4 <br/> 2 stacks: 6 |
+
+</div>
 
 | Attribute | Shield \(Talent 9%\) |
 | :--- | :--- |
@@ -122,13 +113,10 @@ The shield possesses the following properties:
 
 </TabItem>
 
-<TabItem value="q" label="Stormbreaker">
-Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a **Thunderbeast's Targe** around herself, dealing Electro DMG to nearby opponents.
-
-**Thunderbeast's Targe**  
-* When Normal and Charged Attacks hit, they create a **lightning discharge** that can jump between opponents, dealing Electro DMG.  
-*  Increases active character’s resistance to interruption and decreases DMG taken.  
-A maximum of 1 **lightning discharge** can be triggered per second.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst | Lightning Discharge |
 | :--- | :--- | :--- |
@@ -149,6 +137,8 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 | Poise Damage | 400 | 50 |
 | Impulse Type | 4 | 1 |
 
+</div>
+
 **Notes**
 * Beidou's **lightning discharges** have 3 damage instances with 2 targets or more.
 * **Stormbreaker**'s additional arc lightning can jump back to the initial target.
@@ -166,70 +156,29 @@ A maximum of 1 **lightning discharge** can be triggered per second.
 
 ## Ascension Passives
 
-<Tabs>
-<TabItem value="passive" label="Passive">
+import PassivesFull from '@site/src/components/char/PassivesFull'
 
-### Conqueror of Tides
-
-Decreases swimming Stamina consumption for your own party members by 20%.
-Not stackable with Passive Talents that provide the exact same effects.
-
-</TabItem>
-
-<TabItem value="a1" label="Ascension 1">
-
-### Retribution
-
-Counterattacking with **Tidecaller** at the precise moment when the character is hit grants the maximum DMG Bonus.
-
-</TabItem>
-
-<TabItem value="a4" label="Ascension 4">
-
-### Lightning Storm
-
-Gain the following effects for 10s after unleashing **Tidecaller** with its maximum DMG Bonus: 
-* DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.
-* Greatly reduced delay before unleashing Charged Attacks.
-
-</TabItem>
-</Tabs>
+<PassivesFull char={char} />
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Sea Beast's Scourge
-
-When **Stormbreaker** is used:  
-Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.  
-This shield absorbs **Electro DMG** 250% more effectively.
-
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Upon the Turbulent Sea, the Thunder Arises
-
-**Stormbreaker**'s arc lightning can jump to 2 additional targets.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Summoner of Storm
-
-Increases the Level of **Tidecaller** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Stunning Revenge
-
-Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s.
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
 | Attribute | Stunning Revenge |
 | --- | --- |
@@ -249,20 +198,12 @@ Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% 
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Crimson Tidewalker
-
-Increases the Level of **Stormbreaker** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Bane of Evil
-
-During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
 **Notes**
 * The range of this effect is extremely short at just over 1 abyss tile of range.
@@ -274,66 +215,9 @@ During the duration of **Stormbreaker**, the **Electro RES** of surrounding oppo
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Oceanborne">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 71.12% | 76.91% | 82.70% | 90.97% | 96.76% | 103.38% | 112.47% | 121.57% | 130.67% | 140.59% | 151.96% |
-| 2-Hit DMG | 70.86% | 76.63% | 82.40% | 90.64% | 96.41% | 103.00% | 112.06% | 121.13% | 130.19% | 140.08% | 151.41% |
-| 3-Hit DMG | 88.32% | 95.51% | 102.70% | 112.97% | 120.16% | 128.38% | 139.67% | 150.97% | 162.27% | 174.59% | 188.71% |
-| 4-Hit DMG | 86.52% | 93.56% | 100.60% | 110.66% | 117.70% | 125.75% | 136.82% | 147.88% | 158.95% | 171.02% | 184.85% |
-| 5-Hit DMG | 112.14% | 121.27% | 130.40% | 143.44% | 152.57% | 163.00% | 177.34% | 191.69% | 206.03% | 221.68% | 239.61% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack Spinning DMG | 56.24% | 60.82% | 65.40% | 71.94% | 76.52% | 81.75% | 88.94% | 96.14% | 103.33% | 111.18% | 120.17% |
-| Charged Attack Final DMG | 101.82% | 110.11% | 118.40% | 130.24% | 138.53% | 148.00% | 161.02% | 174.05% | 187.07% | 201.28% | 217.56% |
-
-**Stamina Cost**: 40/s  
-**Max Duration**: 5s
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 74.59% | 80.66% | 86.73% | 95.40% | 101.47% | 108.41% | 117.95% | 127.49% | 137.03% | 147.44% | 157.85% |
-| Low Plunge DMG | 149.14% | 161.28% | 173.42% | 190.77% | 202.91% | 216.78% | 235.86% | 254.93% | 274.01% | 294.82% | 315.63% |
-| High Plunge DMG | 186.29% | 201.45% | 216.62% | 238.28% | 253.44% | 270.77% | 294.60% | 318.42% | 342.25% | 368.25% | 394.24% |
-
-</TabItem>
-
-<TabItem value="e" label="Tidecaller">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Shield DMG Absorption Scaling | 14.40% | 15.48% | 16.56% | 18.00% | 19.08% | 20.16% | 21.60% | 23.04% | 24.48% | 25.92% | 27.36% | 28.80% | 30.60% |
-| Shield DMG Absorption Additive | 1386 | 1525 | 1675 | 1837 | 2010 | 2195 | 2392 | 2600 | 2819 | 3050 | 3293 | 3547 | 3813 |
-| Base DMG | 121.60% | 130.72% | 139.84% | 152.00% | 161.12% | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
-| DMG Bonus on Hit Taken | 160% | 172% | 184% | 200% | 212% | 224% | 240% | 256% | 272% | 288% | 304% | 320% | 340% |
-
-**Cooldown**: 7.5s
-
-</TabItem>
-
-<TabItem value="q" label="Stormbreaker">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 121.60% | 130.72% | 139.84% | 152.00% | 161.12% | 170.24% | 182.40% | 194.56% | 206.72% | 218.88% | 231.04% | 243.20% | 258.40% |
-| Lightning DMG | 96.00% | 103.20% | 110.40% | 120.00% | 127.20% | 134.40% | 144.00% | 153.60% | 163.20% | 172.80% | 182.40% | 192.00% | 204.00% |
-| DMG Reduction | 20% | 21% | 22% | 24% | 25% | 26% | 28% | 30% | 32% | 34% | 35% | 36% | 37% |
-
-**Duration**: 15s  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

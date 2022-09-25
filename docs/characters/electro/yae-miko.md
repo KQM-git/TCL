@@ -2,32 +2,30 @@
 description: Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.
 ---
 
+import char from '@site/src/data/characters/Yae_Miko.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Yae Miko
 
 ![](/assets/characters/gacha/Yae_Miko.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
-
 ## Base Stats
 
-| Lv  | Base HP | Base ATK | Base DEF | CRIT Rate |
-|-----|---------|----------|----------|-----------|
-| 60  | 6729    | 220      | 369      | 14.60%    |
-| 60+ | 7220    | 236      | 396      | 14.60%    |
-| 70  | 7936    | 260      | 435      | 14.60%    |
-| 70+ | 8428    | 276      | 462      | 19.40%    |
-| 80  | 9151    | 300      | 502      | 19.40%    |
-| 80+ | 9643    | 316      | 529      | 24.20%    |
-| 90  | 10372   | 340      | 569      | 24.20%    |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Normal Attack: Spiritfox Sin-Eater">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attacks**  
-Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Electro DMG.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -36,20 +34,18 @@ Summons forth kitsune spirits, initiating a maximum of 3 attacks that deal Elect
 | 3-Hit | 96.71% | 90 | 131.88% | 10.667 | 1 |
 | Recovery | - | 127 | - | - | - |
 
-* 3 hit/2.5s ICD.
 
-**Charged Attack**  
- Consumes 50 Stamina to deal AoE Electro DMG after a short casting time.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | CHarged Attack DMG | 242.92% | 87 | 167.53% | 80 | 2 |
 
-* No ICD.
-* Can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
-
-**Plunge**  
-Plunges towards the ground from mid-air, damaging all opponents in her path with thunderous might. Deals AoE Electro DMG upon impact with the ground.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Damage Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -57,19 +53,19 @@ Plunges towards the ground from mid-air, damaging all opponents in her path with
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
 
+</div>
+
+**Notes**
+* Normal Attacks have a 3 hit/2.5s ICD.
+* Charged Attacks have no ICD.
+* Charged Attacks can hit the same enemy twice if the hitbox is large enough. e.g. Azhdaha.
+
 </TabItem>
 
-<TabItem value="e" label="Yakan Evocation: Sesshou Sakura">
-To Yae, such dull tasks as can be accomplished by driving spirits out need not be done personally.  
-Moves swiftly, leaving a **Sesshou Sakura** behind.
-
-**Sesshou Sakura**  
-Has the following properties:  
-* Periodically strikes one nearby opponent with lightning, dealing Electro DMG  
-* When there are other **Sesshou Sakura** nearby, their level will increase, boosting the DMG dealt by these lightning strikes.
-
-This skill has three charges.  
-A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of each **Sesshou Sakura** is 1, and the initial highest level each sakura can reach is 3. If a new **Sesshou Sakura** is created too close to an existing one, the existing one will be destroyed.  
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' /> 
 
 | Attribute | Sesshou Sakura | 
 | :--- | :--- |
@@ -89,6 +85,9 @@ A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of
 | Poise Damage | 25 |
 | Impulse Type | 2 |
 
+</div>
+
+**Notes**
 * Each Sesshou Sakura hits up to 5 times, generating 1 particle on each hit and none on cast.
 * When casting E three times in a straight line only the one in the middle will be level 3.
 * It has a small AoE.
@@ -97,10 +96,10 @@ A maximum of 3 **Sesshou Sakura** can exist simultaneously. The initial level of
 
 </TabItem>
 
-<TabItem value="q" label="Great Secret Art: Tenko Kenshin">
-Legends of "kitsunetsuki," or the manifestation of a kitsune's might, are common in Inazuma's folktales. One that particularly captures the imagination is that of the Sky Kitsune, said to cause lightning to fall down upon the foes of the Grand Narukami Shrine. Summons a lightning strike, dealing AoE Electro DMG.  
-
-When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destroying their outer forms and transforming them into Tenko Thunderbolts that descend from the skies, dealing AoE Electro DMG. Each **Sesshou Sakura** destroyed in this way will create one Tenko Thunderbolt.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst | 
 | :--- | :--- |
@@ -119,6 +118,9 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 | Poise Damage | 75 |
 | Impulse Type | Burst: 3 <br/> Tenko Thunderbolt: 2 |
 
+</div>
+
+**Notes**
 * It is completely stationary and targets the enemies at the end of the animation, regardless of where the Sesshou Sakuras are.
 * Elemental Particles and Orbs can be pre-funneled.
 * The Sesshou Sakuras are unsealed instantly when casting the Burst.
@@ -128,28 +130,19 @@ When she uses this skill, Yae Miko will unseal nearby **Sesshou Sakura**, destro
 
 ## Ascension Passives
 
+import Passive from '@site/src/components/char/Passive'
+
 <Tabs>
-<TabItem value="passive" label="Passive">
-
-### Meditations of a Yako
-
-Has a 25% chance to get 1 regional Character Talent Material (base material excluded) when crafting. The rarity is that of the base material.
-
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
 </TabItem>
 
-<TabItem value="a1" label="Ascension 1">
-
-### The Shrine's Sacred Shade
-
-When casting **Great Secret Art: Tenko Kenshin**, each **Sesshou Sakura** destroyed resets the cooldown for 1 charge of **Yakan Evocation: Sesshou Sakura**.
-
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
-
-### Enlightened Blessing
-
-Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Sakura** DMG by 0.15%.
+<Passive char={char} passive={1} />
 
 **Notes:**
 * Elemental Mastery from other characters such as Kazuha C2, Sucrose A4, or Diona C6 increases the DMG of Sesshou Sakura.
@@ -159,118 +152,43 @@ Every point of Elemental Mastery Yae Miko possesses will increase **Sesshou Saku
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
-
-### Yakan Offering
-
-Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
 **Notes:**  
 * The Burst does not need to hit an enemy in order for the Energy to be restored.
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Fox's Mooncall
-
-**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### The Seven Glamours
-
-Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
-
-### Sakura Channeling
-
-When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s.
-
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Mischievous Teasing
-
-Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
-
-### Forbidden Art: Daisesshou
-
-**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF.
-
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 </TabItem>
 </Tabs>
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Spiritfox Sin-Eater">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 39.66% | 42.63% | 45.61% | 49.57% | 52.55% | 55.52% | 59.49% | 63.45% | 67.42% | 71.39% | 75.35% |
-| 2-Hit DMG | 38.52% | 41.41% | 44.30% | 48.15% | 51.04% | 53.93% | 57.78% | 61.63% | 65.48% | 69.33% | 73.19% |
-| 3-Hit DMG | 56.89% | 61.16% | 65.42% | 71.11% | 75.38% | 79.64% | 85.33% | 91.02% | 96.71% | 102.40% | 108.09% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 142.89% | 153.61% | 164.33% | 178.62% | 189.34% | 200.05% | 214.34% | 228.63% | 242.92% | 257.21% | 271.50% |
-
-**Stamina Cost**: 50
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Yakan Evocation: Sesshou Sakura">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sesshou Sakura DMG: Level 1 | 60.67% | 65.22% | 69.77% | 75.84% | 80.39% | 84.94% | 91.01% | 97.08% | 103.14% | 109.21% | 115.28% | 121.34% | 128.93% |
-| Sesshou Sakura DMG: Level 2 | 75.84% | 81.53% | 87.22% | 94.80% | 100.49% | 106.18% | 113.76% | 121.34% | 128.93% | 136.51% | 144.10% | 151.68% | 161.16% |
-| Sesshou Sakura DMG: Level 3 | 94.80% | 101.91% | 109.02% | 118.50% | 125.61% | 132.72% | 142.20% | 151.68% | 161.16% | 170.64% | 180.12% | 189.60% | 201.45% |
-| Sesshou Sakura DMG: Level 4 | 118.50% | 127.39% | 136.28% | 148.13% | 157.01% | 165.90% | 177.75% | 189.60% | 201.45% | 213.30% | 225.15% | 237.00% | 251.81% |
-
-**Duration**: 14s  
-**Cooldown**: 4s
-
-</TabItem>
-
-<TabItem value="q" label="Great Secret Art: Tenko Kenshin">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Skill DMG | 260.0% | 279.5% | 299.0% | 325.0% | 344.5% | 364.0% | 390.0% | 416.0% | 442.0% | 468.0% | 494.0% | 520.0% | 552.5% |
-| Tenko Thunderbolt DMG | 333.82% | 358.85% | 383.89% | 417.27% | 442.31% | 467.34% | 500.72% | 534.11% | 567.49% | 600.87% | 634.25% | 667.63% | 709.36% |
-
-**Cooldown**: 22s  
-**Energy Cost**: 90
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 

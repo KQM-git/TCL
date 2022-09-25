@@ -2,6 +2,9 @@
 description: The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.
 ---
 
+import char from '@site/src/data/characters/Lisa.json'
+import { getSkillName } from '@site/src/utils/skill'
+
 # Lisa
 
 ![](/assets/characters/gacha/Lisa.png)
@@ -15,23 +18,19 @@ description: The languid but knowledgeable Librarian of the Knights of Favonius,
 
 ## Base Stats
 
-| Lvl | Base HP | Base ATK | Base DEF | EM |
-| :--- | :--- | :--- | :--- | :--- |
-| 60 | 6305 | 153 | 378 | 48 |
-| 60+ | 6731 | 163 | 403 | 48 |
-| 70 | 7393 | 179 | 443 | 48 |
-| 70+ | 7818 | 189 | 468 | 72 |
-| 80 | 8481 | 205 | 508 | 72 |
-| 80+ | 8907 | 215 | 534 | 96 |
-| 90 | 9570 | 232 | 573 | 96 |
+import CharStatsTable from '@site/src/components/char/CharStatsTable'
+
+<CharStatsTable char={char} />
 
 ## Attacks
 
-<Tabs>
-<TabItem value="na" label="Lightning Touch">
+import Skill from '@site/src/components/char/Skill'
 
-**Normal Attack**  
-Perform up to 4 lightning attacks dealing Electro DMG.
+<Tabs>
+<TabItem value='na' label='Normal Attacks'>
+<h3>{getSkillName(char, 'na')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -41,18 +40,17 @@ Perform up to 4 lightning attacks dealing Electro DMG.
 | 4-Hit | 93.43% | 114 | 155.04%/s | 1A | 8.7 | 1 |
 | With Recovery | 294.57% | 143 | 123.6%/s | 1A | - | - |
 
-* Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
-* 3 hits / 2.5s ICD, shared with tap elemental skill.
-
-**Charged Attack**  
-Consume 50 Stamina to deal AoE Electro DMG after a short casting time.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
 | String | Talent 9% | Frames | MV/s | GU | ICD | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Charged Attack | 301.1% | 95 | 190.17%/s | 1A | 0.5s | 15 | 3 |
 
-**Plunge Attack**  
-Gathering the might of Electro, Lisa plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Electro DMG upon impact with the ground.
+</div>
+<div class='talent-columns'>
+<Skill char={char} skill='na' sectionFilter='Plunging Attack' />
 
 | Type | Talent 9% | Poise Damage | Impulse Type |
 | :--- | :--- | :--- | :--- |
@@ -60,18 +58,18 @@ Gathering the might of Electro, Lisa plunges towards the ground from mid-air, da
 | Low Plunge DMG | 208.77% | 50 | 3 |
 | High Plunge DMG | 260.76% | 100 | 4 |
 
+</div>
+
+**Notes**
+* Lisa's 3rd Normal Attack recovery has 2 different animations. She will either teleport backwards or forward depending on the position of her target.
+* 3 hits / 2.5s ICD, shared with tap elemental skill.
+
 </TabItem>
 
-<TabItem value="e" label="Violet Arc">
-Channels the power of lightning to sweep bothersome matters away.
-
-**Press**  
-Releases a homing **Lightning Orb**.  
-On hit, it deals Electro DMG, and applies a stack of the **Conductive** status (max 3 stacks) to opponents in a small AoE.
-
-**Hold**  
-After an extended casting time, calls down lightning from the heavens, dealing massive Electro DMG to all nearby opponents.  
-Deals great amounts of extra damage to opponents based on the number of **Conductive** stacks applied to them, and clears their **Conductive** status.
+<TabItem value='e' label='Skill'>
+<h3>{getSkillName(char, 'e')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='e' />
 
 | Attribute | Tap | Hold \(0 / 1 / 2 / 3 stacks\) |
 | :--- | :--- | :--- |
@@ -86,6 +84,8 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
 | CD | 1s | 16s |
 | Poise Damage | 18 | 150 / 195 / 240 / 300 |
 | Impulse Type | 2 | 2 / 2 / 2 / 2 |
+
+</div>
 
 **Notes**
 * The **Lightning Orb** bounces to nearby targets with the small AoE spreading **Conductive** stacks each bounce
@@ -103,9 +103,10 @@ Deals great amounts of extra damage to opponents based on the number of **Conduc
 
 </TabItem>
 
-<TabItem value="q" label="Lightning Rose">
-Summons a **Lightning Rose** that unleashes powerful lightning bolts, launching surrounding opponents and dealing Electro DMG.  
-The **Lightning Rose** will continuously emit lightning to knock back opponents and deal Electro DMG throughout the duration.
+<TabItem value='q' label='Burst'>
+<h3>{getSkillName(char, 'q')}</h3>
+<div class='talent-columns'>
+<Skill char={char} skill='q'/>
 
 | Attribute | Burst |
 | :--- | :--- |
@@ -125,6 +126,8 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 | CD | 20s |
 | Poise Damage | 10 |
 | Impulse Type | Summon: 4 <br/> Discharge: 2 |
+
+</div>
 
 **Notes**
 * **Lightning Rose** has an unlisted instance of damage on initial summon
@@ -148,94 +151,51 @@ The **Lightning Rose** will continuously emit lightning to knock back opponents 
 
 ## Ascension Passives
 
-<Tabs>
-<TabItem value="passive" label="Passive">
 
-### General Pharmaceutics
+import PassivesFull from '@site/src/components/char/PassivesFull'
 
-When Lisa crafts a potion, she has a 20% chance to refund a portion of the crafting materials used.
-
-</TabItem>
-
-<TabItem value="a1" label="Ascension 1">
-
-### Induced Aftershock
-
-Hits by Charged Attacks apply **Violet Arc**'s **Conductive** status to opponents.
-
-</TabItem>
-
-<TabItem value="a4" label="Ascension 4">
-
-### Static Electricity Field
-
-Opponents hit by **Lightning Rose** have their DEF decreased by 15% for 10s.
-
-</TabItem>
-</Tabs>
+<PassivesFull char={char} />
 
 ## Constellations
 
+import Constellation from '@site/src/components/char/Constellation'
+
 <Tabs>
-<TabItem value="c1" label="C1">
+<TabItem value='c1' label='C1'>
+<Constellation char={char} constellation={1} />
 
-### Infinite Circuit
-
-Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.  
-A maximum of 10 Energy can be regenerated in this manner at any one time.
-
+**Notes**
 * This only applies to the Hold E variant.
 * This summons a single special particle that only provides energy if Lisa is on field. 
 
 </TabItem>
 
-<TabItem value="c2" label="C2">
-
-### Electromagnetic Field
-
-Holding **Violet Arc** has the following effects:
-* Increases DEF by 25%.
-* Increases Lisa's resistance to interruption.
-
+<TabItem value='c2' label='C2'>
+<Constellation char={char} constellation={2} />
 </TabItem>
 
-<TabItem value="c3" label="C3">
-
-### Resonant Thunder
-
-Increases the Level of **Lightning Rose** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c3' label='C3'>
+<Constellation char={char} constellation={3} />
 </TabItem>
 
-<TabItem value="c4" label="C4">
+<TabItem value='c4' label='C4'>
+<Constellation char={char} constellation={4} />
 
-### Plasma Eruption
-
-Increases the number of lightning bolts released by **Lightning Rose** by 1-3.
-
+**Notes**
 * The description is misleading. **Plasma Eruption** changes the number of lightning bolts to 1-3, not 2-4 as implied by the wording.  
   * For more details, see the [full entry](../../evidence/characters/electro/lisa.md\#c4-description-and-actual-effects-are-miscommunicated) in Lisa's Evidence Vault.  
 * In tight enemy groups, **Plasma Eruption** can quadratically increase the damage of **Lightning Rose** due to the AoE of each lightning bolt released.
 
 </TabItem>
 
-<TabItem value="c5" label="C5">
-
-### Electrocute
-
-Increases the Level of **Violet Arc** by 3.
-Maximum upgrade level is 15.
-
+<TabItem value='c5' label='C5'>
+<Constellation char={char} constellation={5} />
 </TabItem>
 
-<TabItem value="c6" label="C6">
+<TabItem value='c6' label='C6'>
+<Constellation char={char} constellation={6} />
 
-### Pulsating Witch
-
-When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s **Conductive** status onto nearby opponents.
-This effect can only occur once every 5s.
-
+**Notes**
 * The pulse visual effect and cooldown are not initiated when not in combat, but will still apply **Conductive** stacks nearby.
 * The radius of this effect is 5m and its height is seemingly infinite, regardless of whether or not Lisa is in combat.
 
@@ -244,63 +204,9 @@ This effect can only occur once every 5s.
 
 ## Full Talent Values
 
-<Tabs>
-<TabItem value="na" label="Lightning Touch">
+import TalentsFull from '@site/src/components/char/TalentsFull'
 
-### Normal Attacks
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1-Hit DMG | 39.60% | 42.57% | 45.54% | 49.50% | 52.47% | 55.44% | 59.40% | 63.36% | 67.32% | 71.28% | 75.40% |
-| 2-Hit DMG | 35.92% | 38.61% | 41.31% | 44.90% | 47.59% | 50.29% | 53.88% | 57.47% | 61.06% | 64.66% | 68.39% |
-| 3-Hit DMG | 42.80% | 46.01% | 49.22% | 53.50% | 56.71% | 59.92% | 64.20% | 68.48% | 72.76% | 77.04% | 81.49% |
-| 4-Hit DMG | 54.96% | 59.08% | 63.20% | 68.70% | 72.82% | 76.94% | 82.44% | 87.94% | 93.43% | 98.93% | 104.64% |
-
-### Charged Attack
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Charged Attack DMG | 177.12% | 190.40% | 203.69% | 221.40% | 234.68% | 247.97% | 265.68% | 283.39% | 301.10% | 318.82% | 337.24% |
-
-**Stamina Cost**: 50
-
-### Plunge
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Plunge DMG | 56.83% | 61.45% | 66.08% | 72.69% | 77.31% | 82.60% | 89.87% | 97.14% | 104.41% | 112.34% | 120.27% |
-| Low Plunge DMG | 113.63% | 122.88% | 132.13% | 145.35% | 154.59% | 165.16% | 179.70% | 194.23% | 208.77% | 224.62% | 240.48% |
-| High Plunge DMG | 141.93% | 153.49% | 165.04% | 181.54% | 193.10% | 206.30% | 224.45% | 242.61% | 260.76% | 280.57% | 300.37% |
-
-</TabItem>
-
-<TabItem value="e" label="Violet Arc">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Press DMG | 80% | 86% | 92% | 100% | 106% | 112% | 120% | 128% | 136% | 144% | 152% | 160% | 170% |
-| Non-Conductive Hold DMG | 320% | 344% | 368% | 400% | 424% | 448% | 480% | 512% | 544% | 576% | 608% | 640% | 680% |
-| Stack 1 Conductive Hold DMG | 368.0% | 395.6% | 423.2% | 460.0% | 487.6% | 515.2% | 552.0% | 588.8% | 625.6% | 662.4% | 699.2% | 736.0% | 782.0% |
-| Stack 2 Conductive Hold DMG | 424.0% | 455.8% | 487.6% | 530.0% | 561.8% | 593.6% | 636.0% | 678.4% | 720.8% | 763.2% | 805.6% | 848.0% | 901.0% |
-| Stack 3 Conductive Hold DMG | 487.20% | 523.74% | 560.28% | 609.00% | 645.54% | 682.08% | 730.80% | 779.52% | 828.24% | 876.96% | 925.68% | 974.40% | 1035.30% |
-
-**Press Cooldown**: 1s  
-**Holding Cooldown**: 16s
-
-</TabItem>
-
-<TabItem value="q" label="Lightning Rose">
-
-|  | Lv1 | Lv2 | Lv3 | Lv4 | Lv5 | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Discharge DMG | 36.56% | 39.30% | 42.04% | 45.70% | 48.44% | 51.18% | 54.84% | 58.50% | 62.15% | 65.81% | 69.46% | 73.12% | 77.69% |
-
-**Duration**: 15s  
-**Cooldown**: 20s  
-**Energy Cost**: 80
-
-</TabItem>
-</Tabs>
+<TalentsFull char={char}/>
 
 ## Evidence Vault
 
