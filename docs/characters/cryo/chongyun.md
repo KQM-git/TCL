@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Chongyun
 
-![](/img/characters/gacha/Chongyun.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Chongyun.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

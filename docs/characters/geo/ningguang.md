@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Ningguang
 
-![](/img/characters/gacha/Ningguang.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Ningguang.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

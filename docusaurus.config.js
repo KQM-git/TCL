@@ -56,6 +56,15 @@ const config = {
         ]
       }),
     ],
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 960,
+        min: 640,
+        steps: 2,
+      },
+    ],
   ],
   presets: [
     [

@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yelan
 
-![](/img/characters/gacha/Yelan.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Yelan.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

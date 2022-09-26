@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kaedehara Kazuha
 
-![](/img/characters/gacha/Kaedehara_Kazuha.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Kaedehara_Kazuha.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

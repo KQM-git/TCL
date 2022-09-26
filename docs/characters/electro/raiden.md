@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Raiden Shogun
 
-![](/img/characters/gacha/Raiden_Shogun.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Raiden_Shogun.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

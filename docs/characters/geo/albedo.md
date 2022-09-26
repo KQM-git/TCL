@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Albedo
 
-![](/img/characters/gacha/Albedo.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Albedo.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

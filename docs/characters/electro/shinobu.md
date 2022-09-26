@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kuki Shinobu
 
-![](/img/characters/gacha/Kuki_Shinobu.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Kuki_Shinobu.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

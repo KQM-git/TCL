@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yae Miko
 
-![](/img/characters/gacha/Yae_Miko.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Yae_Miko.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

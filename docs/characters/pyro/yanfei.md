@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yanfei
 
-![](/img/characters/gacha/Yanfei.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Yanfei.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

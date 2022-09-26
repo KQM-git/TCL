@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yoimiya
 
-![](/img/characters/gacha/Yoimiya.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Yoimiya.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

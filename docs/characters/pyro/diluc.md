@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diluc
 
-![](/img/characters/gacha/Diluc.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Diluc.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

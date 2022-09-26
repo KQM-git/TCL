@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yun Jin
 
-![](/img/characters/gacha/Yun_Jin.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Yun_Jin.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

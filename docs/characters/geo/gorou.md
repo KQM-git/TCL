@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Gorou
 
-![](/img/characters/gacha/Gorou.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Gorou.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

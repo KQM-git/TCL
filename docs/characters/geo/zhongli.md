@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Zhongli
 
-![](/img/characters/gacha/Zhongli.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Zhongli.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Xinyan
 
-![](/img/characters/gacha/Xinyan.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Xinyan.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

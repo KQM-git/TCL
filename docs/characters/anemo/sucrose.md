@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Sucrose
 
-![](/img/characters/gacha/Sucrose.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Sucrose.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

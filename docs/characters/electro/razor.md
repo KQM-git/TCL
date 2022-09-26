@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Razor
 
-![](/img/characters/gacha/Razor.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Razor.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

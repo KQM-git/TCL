@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kujou Sara
 
-![](/img/characters/gacha/Kujou_Sara.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Kujou_Sara.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

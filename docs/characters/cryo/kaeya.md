@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kaeya
 
-![](/img/characters/gacha/Kaeya.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Kaeya.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Ganyu
 
-![](/img/characters/gacha/Ganyu.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Ganyu.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

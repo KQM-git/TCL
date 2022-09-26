@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diona
 
-![](/img/characters/gacha/Diona.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Diona.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

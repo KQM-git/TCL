@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Beidou
 
-![](/img/characters/gacha/Beidou.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Beidou.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Lisa
 
-![](/img/characters/gacha/Lisa.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Lisa.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

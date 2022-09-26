@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Keqing
 
-![](/img/characters/gacha/Keqing.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Keqing.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

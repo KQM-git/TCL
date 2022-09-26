@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kamisato Ayaka
 
-![](/img/characters/gacha/Kamisato_Ayaka.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Kamisato_Ayaka.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

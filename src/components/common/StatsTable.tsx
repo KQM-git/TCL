@@ -64,7 +64,7 @@ export default function StatsTable({
           </tr>)}
 
         {!expanded && <tr>
-          <td align='center' colSpan={Object.keys(max).length + 2}><a>Click to expand...</a></td>
+          <td align='center' colSpan={Object.keys(max).length + 2}><a href='#' onClick={e => e.preventDefault()}>Click to expand...</a></td>
         </tr>}
 
         {expanded && <tr>

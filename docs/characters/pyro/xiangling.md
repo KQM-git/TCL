@@ -7,8 +7,9 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Xiangling
 
-![](/img/characters/gacha/Xiangling.png)
+import Image from '@theme/IdealImage'
 
+<Image img={require('/img/characters/gacha/Xiangling.png')} />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
