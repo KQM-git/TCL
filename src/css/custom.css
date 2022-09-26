@@ -46,11 +46,11 @@
 
 /* Tab background */
 .tabs-container {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: rgba(45, 40, 47, 0.05);
   border-radius: var(--ifm-global-radius);
 }
 [data-theme='dark'] .tabs-container {
-  background-color: rgb(0, 0, 0, 0.1);
+  background-color: rgba(225, 200, 235, 0.06);
 }
 div[role="tabpanel"] {
   padding: 0px 10px 10px;
