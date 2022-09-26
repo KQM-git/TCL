@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diluc
 
-![](/assets/characters/gacha/Diluc.png)
+![](/img/characters/gacha/Diluc.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

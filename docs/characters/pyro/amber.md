@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Amber
 
-![](/assets/characters/gacha/Amber.png)
+![](/img/characters/gacha/Amber.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

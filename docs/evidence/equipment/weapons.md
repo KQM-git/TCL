@@ -310,9 +310,9 @@ This is the tool I used to run simulations for Royal weapon line crits.
 * Averaged the results from 10 trials and came up with the average effective crit rate.
 * The same was done for refinement rank 1, 3 and 5.
 
-![](/assets/data.png)
+[Data](https://i.imgur.com/youmor6.png)
 
-![](/assets/result.png)
+[Result](https://i.imgur.com/IrnyuQ9.png)
 
 **Significance**
 
@@ -448,7 +448,7 @@ It was found that the crit rate that the weapons’ passive had decreased the hi
 **Finding:** Average ER gain from Sacrificial Weapons has decreasing returns when increasing refinement.
 
 **Evidence:**  
-[Math and Explanation](/assets/Average_ER_gain_from_Sac_weapon_1.pdf)  
+[Math and Explanation](/entries/averag-er-sac/Average_ER_gain_from_Sac_weapon_1.pdf)  
 [Graph 1](https://www.desmos.com/calculator/9bjjvxkq7q)  
 [Graph 2](https://www.desmos.com/calculator/ireq7whftb)
 

@@ -5,7 +5,7 @@ sidebar_position: 4
 
 # Eye of the Storm
 
-![](/assets/enemy/elemental/enemy_eye_of_the_storm.webp)
+![](/img/enemy/elemental/enemy_eye_of_the_storm.webp)
 
 The formation of an Eye of the Storm indicates that the elemental ley lines of a region are blocked, which has led to siltation. Its reckless, heedless wielding of storms that all but sweeps people off their feet may be due to its nature as a symbol of the world stricken by malaise.
 

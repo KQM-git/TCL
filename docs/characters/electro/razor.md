@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Razor
 
-![](/assets/characters/gacha/Razor.png)
+![](/img/characters/gacha/Razor.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yae Miko
 
-![](/assets/characters/gacha/Yae_Miko.png)
+![](/img/characters/gacha/Yae_Miko.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

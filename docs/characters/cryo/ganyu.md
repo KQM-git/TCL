@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Ganyu
 
-![](/assets/characters/gacha/Ganyu.png)
+![](/img/characters/gacha/Ganyu.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

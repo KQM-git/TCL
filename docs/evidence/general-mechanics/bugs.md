@@ -448,7 +448,7 @@ Just another one amongst annoying Fatui _mechanics_.
 
 **Bug:** Xiangling's burst can stack in the Contending Tides event.
 
-![](/assets/xlburststack.png)
+[Imgur](https://i.imgur.com/pHOzDAr.png)
 
 **Significance:** Very fast clears on contending tides, and potentially similar events in the future. This can also be abused in overworld, as Contending Tides is only required for the set up, not the execution.
 

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kamisato Ayaka
 
-![](/assets/characters/gacha/Kamisato_Ayaka.png)
+![](/img/characters/gacha/Kamisato_Ayaka.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

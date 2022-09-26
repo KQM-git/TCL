@@ -53,7 +53,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Stretchy Anemo Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Stretchy_Anemo_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Stretchy_Anemo_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -61,7 +61,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Whirling Cryo Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Whirling_Cryo_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Whirling_Cryo_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -69,7 +69,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Floating Dendro Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Floating_Dendro_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Floating_Dendro_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -77,7 +77,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Whirling Electro Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Whirling_Electro_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Whirling_Electro_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -85,7 +85,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Stretchy Geo Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Stretchy_Geo_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Stretchy_Geo_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -93,7 +93,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Floating Hydro Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Floating_Hydro_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Floating_Hydro_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 
@@ -101,7 +101,7 @@ The Dendro Fungus has 5% more Dendro RES than the other variants, with a total o
 
 ## Stretchy Pyro Fungus
 
-<img src="/assets/enemy/mystical/Enemy_Stretchy_Pyro_Fungus_Icon.webp" width="200" height="200" />
+<img src="/img/enemy/mystical/Enemy_Stretchy_Pyro_Fungus_Icon.webp" width="200" height="200" />
 
 </TabItem>
 

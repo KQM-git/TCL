@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Diona
 
-![](/assets/characters/gacha/Diona.png)
+![](/img/characters/gacha/Diona.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

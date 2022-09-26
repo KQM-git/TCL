@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yanfei
 
-![](/assets/characters/gacha/Yanfei.png)
+![](/img/characters/gacha/Yanfei.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

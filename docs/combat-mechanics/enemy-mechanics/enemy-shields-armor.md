@@ -16,7 +16,7 @@ Currently, there are two main types of shields that players should be aware of, 
 
 **Elemental Shields** are shields that **NEED** to be taken down in order to deal direct damage to the enemy HP bar.
 
-![](/assets/zhongli_vs_mage.png)
+![](/img/enemy-shields-armor/zhongli_vs_mage.png)
 
 To deal with Elemental Shields, you'll need to apply a different **Elemental Aura**. For example, The fastest way to take down a **Cryo Shield** is by applying a total of **6U** **Pyro Aura**. However, **Pyro Aura** is not the only **Aura** that can take down a **Cryo Shield.**
 
@@ -168,7 +168,7 @@ C = Numbers of Cicin alive.**
 
 One thing to remember is that unlike **Elemental Shields**, it is possible to deal direct damage to enemies protected by **Elemental Armor**. However, the enemy gains +100% RES to Elemental attacks and Physical attacks while armored, which comes out to a total of 110% Elemental RES and 80% Physical RES.
 
-![](/assets/zhongli_vs_fatui.png)
+![](/img/enemy-shields-armor/zhongli_vs_fatui.png)
 
 The **Elemental Armor** surrounding specifically **Fatui Agents** works in a unique way. Unlike other shield types, they are only damaged by the **Specific Element** that counters them. For instance, an **Electro Fatui's Elemental Armor** will only take damage if inflicted by **Cryo Element.** Other elements deal extremely insignificant damage that it is practically negligible.
 
@@ -338,7 +338,7 @@ Genshin Impact does not use a generic single-variable HP system for enemy shield
 
 Total Shield Damage = Reaction Cost + Damage Cost + Poise Cost
 
-![](/assets/ShieldDamageFormulas.png)
+![](/img/ShieldDamageFormulas.png)
 
 For an in-depth analysis on shield damage as of 2021-06-05, vibe checker\#5502 has written [An Extensive Look Into Shield Damage in Genshin Impact](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit?usp=sharing)
 

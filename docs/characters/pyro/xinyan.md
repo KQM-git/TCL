@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Xinyan
 
-![](/assets/characters/gacha/Xinyan.png)
+![](/img/characters/gacha/Xinyan.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

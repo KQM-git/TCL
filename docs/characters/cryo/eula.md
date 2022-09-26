@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Eula
 
-![](/assets/characters/gacha/Eula.png)
+![](/img/characters/gacha/Eula.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

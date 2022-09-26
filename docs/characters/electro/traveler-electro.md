@@ -8,7 +8,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Traveler (Electro)
 
-![](/assets/electro-traveler.png)
+![](/img/traveler/electro-traveler.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

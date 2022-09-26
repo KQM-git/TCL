@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yoimiya
 
-![](/assets/characters/gacha/Yoimiya.png)
+![](/img/characters/gacha/Yoimiya.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

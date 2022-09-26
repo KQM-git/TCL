@@ -8,7 +8,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Traveler (Geo)
 
-![](/assets/geo-traveler.png)
+![](/img/traveler/geo-traveler.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

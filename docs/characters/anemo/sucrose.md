@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Sucrose
 
-![](/assets/characters/gacha/Sucrose.png)
+![](/img/characters/gacha/Sucrose.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kujou Sara
 
-![](/assets/characters/gacha/Kujou_Sara.png)
+![](/img/characters/gacha/Kujou_Sara.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

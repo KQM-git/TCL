@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Albedo
 
-![](/assets/characters/gacha/Albedo.png)
+![](/img/characters/gacha/Albedo.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

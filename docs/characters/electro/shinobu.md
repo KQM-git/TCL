@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Kuki Shinobu
 
-![](/assets/characters/gacha/Kuki_Shinobu.png)
+![](/img/characters/gacha/Kuki_Shinobu.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Shikanoin Heizou
 
-![](/assets/characters/gacha/Shikanoin_Heizou.png)
+![](/img/characters/gacha/Shikanoin_Heizou.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

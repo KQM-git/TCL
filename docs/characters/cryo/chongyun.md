@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Chongyun
 
-![](/assets/characters/gacha/Chongyun.png)
+![](/img/characters/gacha/Chongyun.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

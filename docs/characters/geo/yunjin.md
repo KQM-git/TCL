@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Yun Jin
 
-![](/assets/characters/gacha/Yun_Jin.png)
+![](/img/characters/gacha/Yun_Jin.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

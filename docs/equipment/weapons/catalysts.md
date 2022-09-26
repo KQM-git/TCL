@@ -210,7 +210,7 @@ import BaneSeries from './\_common/bane_series.md';
 
 **By:** [Maygi\#4987](../../evidence/equipment/weapons.md#catalyst-effective-attack-comparisons)
 
-![](/assets/maygi_catalyst_comparison.png)
+[Imgur](https://imgur.com/a/TpQsJqS)
 
 * Low Stat = 10 substat lines
 * Med Stat = 20 substat lines

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Hu Tao
 
-![](/assets/characters/gacha/Hu_Tao.png)
+![](/img/characters/gacha/Hu_Tao.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
@@ -73,7 +73,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Hu Tao's [Charged Attacks strings can be cancelled as soon as she blinks](./hu-tao#animation-cancels).
 * Hu Tao's Charged Attacks ghost through small enemies.
-* Hu Tao's [Vape MV/s](/assets/hutaovapemvs.jpg)
+* Hu Tao's [Vape MV/s](/img/hutaovapemvs.jpg)
 
 From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwNi_TPojdocCIci3v6nhd87kNwsmFpOjxJS3NKMKs/edit#gid=1353671486)
 

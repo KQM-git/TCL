@@ -767,13 +767,9 @@ If a character can cast their elemental skill and then burst in about less than 
 
 **Question:** Is the 4 set thundering fury effect additive or multiplicative to the bonus from elemental mastery?
 
-**Data:**
+[Data](https://i.imgur.com/youmor6.png)
 
-![](/assets/data.png)
-
-**Result:**
-
-![](/assets/result.png)
+[Result](https://i.imgur.com/IrnyuQ9.png)
 
 **Conclusion:** Damage boosts regarding reactions are additive with the multiplier from Elemental Mastery.
 

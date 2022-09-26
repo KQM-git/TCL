@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Beidou
 
-![](/assets/characters/gacha/Beidou.png)
+![](/img/characters/gacha/Beidou.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

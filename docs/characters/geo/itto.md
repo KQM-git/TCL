@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Arataki Itto
 
-![](/assets/characters/gacha/Arataki_Itto.png)
+![](/img/characters/gacha/Arataki_Itto.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

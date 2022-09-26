@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Sangonomiya Kokomi
 
-![](/assets/characters/gacha/Sangonomiya_Kokomi.png)
+![](/img/characters/gacha/Sangonomiya_Kokomi.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

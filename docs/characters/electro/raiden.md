@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Raiden Shogun
 
-![](/assets/characters/gacha/Raiden_Shogun.png)
+![](/img/characters/gacha/Raiden_Shogun.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

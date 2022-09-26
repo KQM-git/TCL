@@ -50,7 +50,7 @@ Energy that goes straight into a character's Burst meter, this Energy is **not a
 
 ### Particles vs Orbs
 
-![](/assets/geoparticle.png) Geo Elemental Energy Particle **VS** ![](/assets/geoorb.png) Geo Elemental Energy Orb
+![](/img/energy/geoparticle.png) Geo Elemental Energy Particle **VS** ![](/img/energy/geoorb.png) Geo Elemental Energy Orb
 
 Energy Particles can be gained from Elemental Skills or hitting certain enemy HP thresholds. Elemental Orbs are only dropped from reaching specific enemy HP thresholds.
 
@@ -58,7 +58,7 @@ Orbs give **three times** the amount of Energy that Particles give. At base, 1 P
 
 ### Elemental vs Clear
 
-![](/assets/anemoorb.png) Anemo Elemental Energy Orb **VS** ![](/assets/clearorb.png) Clear Energy Orb
+![](/img/energy/anemoorb.png) Anemo Elemental Energy Orb **VS** ![](/img/energy/clearorb.png) Clear Energy Orb
 
 Both Elemental Particles and Orbs have Elemental variants for all available Elements in the game and a Clear variant. While Elemental Particles/Orbs are gained through both Elemental Skills and HP thresholds, Clear Particles/Orbs can't be gained from Elemental Skills because each character has a vision of a specific Element and can only generate Elemental Particles of said Element.
 
@@ -76,7 +76,16 @@ Energy Recharge \(ER%\) is the multiplier that modifies how much Energy is gaine
 
 ## Table of Energy
 
-![Table by Steph#3614 ](/assets/energytable.png)
+| Field     | Party members | Type              | Elemental Particle | Elemental Orb | Clear Particle | Clear Orb |
+| --------- | ------------- | ----------------- | ------------------ | ------------- | -------------- | --------- |
+| On-field  | /             | Same element      | 3.0                | 9.0           | 2.0            | 6.0       |
+| Off-field | 4 man party   | Same element      | 1.8                | 5.4           | 1.2            | 3.6       |
+| Off-field | 3 man party   | Same element      | 2.1                | 6.3           | 1.4            | 4.2       |
+| Off-field | 2 man party   | Same element      | 2.4                | 7.2           | 1.6            | 4.8       |
+| On-field  | /             | Different element | 1.0                | 3.0           | 2.0            | 6.0       |
+| Off-field | 4 man party   | Different element | 0.6                | 1.8           | 1.2            | 3.6       |
+| Off-field | 3 man party   | Different element | 0.7                | 2.1           | 1.4            | 4.2       |
+| Off-field | 2 man party   | Different element | 0.8                | 2.4           | 1.6            | 4.8       |
 
 ## Credits
 

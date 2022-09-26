@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Klee
 
-![](/assets/characters/gacha/Klee.png)
+![](/img/characters/gacha/Klee.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 

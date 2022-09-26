@@ -18,39 +18,39 @@ export interface PortraitIcon {
 
 const elements = [{
   name: "Anemo",
-  path: "/assets/elements/anemo.png",
+  path: "/img/elements/anemo.png",
 }, {
   name: "Cryo",
-  path: "/assets/elements/cryo.png",
+  path: "/img/elements/cryo.png",
 }, {
   name: "Dendro",
-  path: "/assets/elements/dendro.png",
+  path: "/img/elements/dendro.png",
 }, {
   name: "Electro",
-  path: "/assets/elements/electro.png",
+  path: "/img/elements/electro.png",
 }, {
   name: "Geo",
-  path: "/assets/elements/geo.png",
+  path: "/img/elements/geo.png",
 }, {
   name: "Hydro",
-  path: "/assets/elements/hydro.png",
+  path: "/img/elements/hydro.png",
 }, {
   name: "Pyro",
-  path: "/assets/elements/pyro.png"
+  path: "/img/elements/pyro.png"
 }]
 
 const travelers = [{
   name: "Aether",
-  path: "/assets/characters/icon/Aether.png",
+  path: "/img/characters/icon/Aether.png",
 }, {
   name: "Lumine",
-  path: "/assets/characters/icon/Lumine.png",
+  path: "/img/characters/icon/Lumine.png",
 }]
 
 export default function PortraitGenerator({ charIcons }: { charIcons: Record<string, string[]> }) {
   const [active, setActive] = useState([{
     name: "Keqing",
-    path: `/assets/characters/icon/Keqing.png`
+    path: `/img/characters/icon/Keqing.png`
   }] as PortraitIcon[])
 
   function add(icon: PortraitIcon, multi: boolean) {
@@ -83,7 +83,7 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
           <CharSelector
             icons={icons.sort().map(name => ({
               name,
-              path: `/assets/characters/icon/${name.replace(/ /g, "_")}.png`
+              path: `/img/characters/icon/${name.replace(/ /g, "_")}.png`
             }))}
             onClick={add}
           />
@@ -106,7 +106,7 @@ export default function PortraitGenerator({ charIcons }: { charIcons: Record<str
       icons={[
         {
           name: "Fill slot",
-          path: "/assets/characters/abstract-user-flat-3-colored.svg",
+          path: "/img/characters/abstract-user-flat-3-colored.svg",
         },
         ...travelers
       ]}

@@ -7,7 +7,7 @@ import { getSkillName } from '@site/src/utils/skill'
 
 # Gorou
 
-![](/assets/characters/gacha/Gorou.png)
+![](/img/characters/gacha/Gorou.png)
 
 <blockquote>{frontMatter.description}</blockquote>
 
