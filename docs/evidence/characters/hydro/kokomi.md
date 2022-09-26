@@ -32,7 +32,7 @@ search: false
 ### Kokomi N2 Delay Bug
 
 **By:** Some Proselytizer#8340  
-**Added:** 2021-10-24  
+**Added:** <Version date="2021-10-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890763855679082536_902020447338643456_transcript-kokomi-n2-delay-bug.html)
 
 **Finding:**  
@@ -67,7 +67,7 @@ Could be detrimental to her role as a Beidou driver and make her lose procs. Das
 ### Infinite Jellyfish Extension
 
 **By:** Steno#0119  
-**Added:** 2022-01-27  
+**Added:** <Version date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934084290352930969_936219344843718656_transcript-infinite-jellyfish-extension.html)
 
 **Finding:**  
@@ -82,7 +82,7 @@ Who doesn't love some obscure Kokomi tech.
 ### Kokomi Skill triggers artifact effects even when interrupted
 
 **By:** Tibo#4309  
-**Added:** 2021-10-26  
+**Added:** <Version date="2021-10-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890281986105696266_902798398757928970_transcript-kokomis-jellyfish-is-uninterruptible.html)
 
 **Finding:**  
@@ -115,7 +115,7 @@ Can have higher Artifact set effect uptime and stacks, but at the cost of gettin
 ### Snapshot Burst DMG Bonus onto Bake-Kurage by switching
 
 **By:** awe778#1618  
-**Added:** 2021-10-16  
+**Added:** <Version date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891097097078730823_899138392359583824_transcript-kokomi-q-snapshot.html)
 
 **Finding:**  
@@ -134,7 +134,7 @@ This can potentially change Kokomi's Burst rotations due to the ability to snaps
 ### Kokomi Q Does Not Resnapshot
 
 **By:** Kurt\#5846  
-**Added:** 2022-04-08  
+**Added:** <Version date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962109619050786918_transcript-kokomi-q-does-not-resnapshot.html)
 
 **Finding:**  
@@ -150,7 +150,7 @@ The previous wording in Basic Mechanics is wrong, Kokomi's E does not resnapshot
 ### Kokomi A1 Description is Misleading
 
 **By:** Ieah.\#2212  
-**Added:** 2022-05-22  
+**Added:** <Version date="2022-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977696445069131776_transcript-kokomi-a1-description-is-misleading.html)
 
 **Finding:**  
@@ -168,7 +168,7 @@ Affects Kokomi jellyfish rotations that retain 100% uptime, especially with the 
 ### Evidence for Dynamic Kokomi's Burst & A4
 
 **By:** Lament\#2512  
-**Added:** 2022-07-14  
+**Added:** <Version date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/koko-burst-snapshot)
 
 **Finding:**  
@@ -203,7 +203,7 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 #### Kokomi C2 Clarification
 
 **By:** bobo\#8267  
-**Added:** 2022-06-16  
+**Added:** <Version date="2022-06-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_987115125821554758_transcript-kokomi-c2-clarification.html)
 
 **Finding:**  

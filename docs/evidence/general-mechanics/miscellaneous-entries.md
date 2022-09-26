@@ -12,7 +12,7 @@ description: For entries that have little practical use.
 ## Vertical Range of Certain Abilities
 
 **By:** mando.\#1646  
-**Added:** 2022-05-05  
+**Added:** <Version date="2022-05-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971888182016766062_transcript-certain-vertical-mechanics-testing.html)
 
 **Finding:**  
@@ -54,7 +54,7 @@ Better understanding of vertical range mechanics for certain characters.
 ## Statue Healing Works In Pause Menus
 
 **By:** anmol43\#6762  
-**Added:** 2022-02-20  
+**Added:** <Version date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_939595810998460446_945078289515552858_transcript-statue-healing-works-during-pause-menus.html)
 
 **Finding:**
@@ -85,7 +85,7 @@ Combining the above findings, a player can save some clicks and time when healin
 ## Item Suck Limits
 
 **By:** clrE\#6290  
-**Added:** 2022-02-08  
+**Added:** <Version date="2022-02-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938044007425146890_940718525121716254_transcript-suck-limit.html)
 
 **Finding:** Every ability / taunt that can pull mob has a limit. These limits differ from each other, ranging from 13-15.  
@@ -124,7 +124,7 @@ Some can also be affected by In-game fps.
 ## Ded Bird
 
 **By:** Aluminum\#5462, Mcpie\#8672, mol\#3280, JenjenJL\#6582, Kgbeast\#6738, wiremash\#0433  
-**Added:** 2021-06-08  
+**Added:** <Version date="2021-06-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846170693783912448_851728679427244042_transcript-ded-bird.html)
 
 **Finding:**  
@@ -143,7 +143,7 @@ Free fowl. Also whoever is coding the animals is probably trolling.
 ## Chair Canceling
 
 **By:** Ayzel\#7399  
-**Added:** 2021-05-21  
+**Added:** <Version date="2021-05-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)
 
 **Finding:**  
@@ -158,7 +158,7 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 ## Door Load Border Shenanigans
 
 **By:** CrazyWeke123\#9720  
-**Added:** 2022-02-20  
+**Added:** <Version date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945108293628604436_transcript-door-load-border-shenigans.html)
 
 **Finding:**  
@@ -234,7 +234,7 @@ _VERY_ fluff, unless miHoYo decides to put Jeans Office in abyss this serves lit
 ## Electro Tanking
 
 **By:** Aevean Leeow\#1362  
-**Added:** 2021-04-27  
+**Added:** <Version date="2021-04-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_805911524051779615_837034685497606194_transcript-razorbeidouelectrotank.html)
 
 **Theory:** In patch 1.2, Razor and Beidou are the two of the best choices for tanking Electro DMG from an enemy of ANY level, without damage reduction like the reduction provided by Xingqiu's Elemental Skill, with unlimited resources. However, Hu Tao beats them both.
@@ -266,7 +266,7 @@ Nevertheless, everyone in the game gets _absolutely smacked_ by C6 Hu Tao's 200%
 ## Spawn Aura Tanking
 
 **By:** Aevean Leeow\#1362  
-**Added:** 2021-05-01  
+**Added:** <Version date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804174551801921536_839374739973210122_transcript-spawn-aura-tanking.html)
 
 **Theory:** To tank one hit from an enemy of ∞ level in overworld, without damage reduction eg XQ, certain comps/etc will excel for each damage type.
@@ -294,7 +294,7 @@ If MHY told you to pick an damage type to tank the most damage from a level ∞ 
 ## Climbing the Frostbearing Tree
 
 **By:** Aevean Leeow\#1362  
-**Added:** 2021-03-23
+**Added:** <Version date="2021-03-23" />
 
 **Theory:** Without using any elemental skills/bursts, the glider, or characters/weapons not freely available to every account, is it possible to climb to the peak of the fully grown Frostbearing Tree? The answer is yes.
 
@@ -321,7 +321,7 @@ Also, you can perform a plunging attack off of the tree.
 Note: This is a merge of 2 tickets
 
 **By:** Ayzel\#7399, sexyeboy69\#4338, Aluminum\#5462  
-**Added:** 2021-06-23  
+**Added:** <Version date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840459159656202250_845509708693635072_transcript-chair-cancelling.html)  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842094899204587580_857414437437964348_transcript-all-the-cancelling.html)
 
@@ -339,7 +339,7 @@ New theoretical highest DPS ceiling for some units who aren't able to typically 
 ## Harpastum Cancel
 
 **By:** Episodde#8962  
-**Added:** 2021-06-26  
+**Added:** <Version date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_853961397059059722_858414283258855464_transcript-harpastum-cancel.html)
 
 **Finding:**  
@@ -356,7 +356,7 @@ Because you can use the gadget in combat, holding the skill button while having 
 ## Hilichurls sleep
 
 **By:** HailCorporate\#2970  
-**Added:** 2021-01-18
+**Added:** <Version date="2021-01-18" />
 
 **Finding:**  
 Hilichurls sleep.
@@ -372,7 +372,7 @@ Even the Hilichurls are taking it easy, don't forget to take a break from the ga
 ## 4pc Gambler and Sacrificial Weapons Wildlife Interaction
 
 **By:** Mcpie#8672  
-**Added:** 2021-08-17  
+**Added:** <Version date="2021-08-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876373145655869460_877095617246167050_transcript-4p-gambler-and-sac-weapon-animals-interaction.html)
 
 **Finding:**  
@@ -399,7 +399,7 @@ Wildlife that act as an interactable item pick-up (material sources) behave diff
 ## Use any expressions you want in Photo Mode
 
 **By:** ZyronX#2720  
-**Added:** 2021-09-25  
+**Added:** <Version date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888535890190811136_891152940641951785_transcript-use-different-expressions-in-photo-mode.html)
 
 **Finding:**  
@@ -414,7 +414,7 @@ Smiling Ei UwU
 ## Narukami Shrine Fortune Slip Probabilities
 
 **By:** mmjacobs\#9588  
-**Added:** 2021-11-11  
+**Added:** <Version date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896487806543724604_908520683506630697_transcript-narukami-shrine-fortune-slip-probabilities.html)
 
 **Finding:**  
@@ -446,7 +446,7 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 
 **By:** vinsette\#0293
 
-**Added:** 2021-12-13
+**Added:** <Version date="2021-12-13" />
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918035789865156618_919908365172363385_transcript-fruit-changes-on-hitting-ground.html)
 
@@ -459,7 +459,7 @@ Getting the "Paimon's Lucky Day!" achievement is significantly easier than the "
 ## Enemy level vs. average party level
 
 **By:** r.rei\#2844  
-**Added:** 2021-12-19  
+**Added:** <Version date="2021-12-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920224953935216670_921938746549608480_transcript-enemy-level-vs-average-party-level.html)
 
 **Findings:**
@@ -479,7 +479,7 @@ First recording Thoma E damage aligns with 2nd damage calculation, proves that e
 ## All Models Can Roll In Place
 
 **By:** Mcpie\#8672  
-**Added:** 2022-01-10  
+**Added:** <Version date="2022-01-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185933952159755_930084965645967420_transcript-all-models-can-roll-in-place.html)
 
 **Finding:**  
@@ -509,7 +509,7 @@ Fluff, but might somehow help out with model differences in the future.
 ## Kamera Gadget Knockback Cancel
 
 **By:** JoJoCheck\#4450  
-**Added:** 2022-01-10  
+**Added:** <Version date="2022-01-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_925335438003150848_930089635097497650_transcript-kamera-gadget-knockback-cancel.html)
 
 **Finding:**  
@@ -529,7 +529,7 @@ Knockback cancel/Fluff/investigating the influence pausing the game has on certa
 ## Traveler Has Hidden Friendship Meter
 
 **By:** mmjacobs\#9588  
-**Added:** 2022-01-23  
+**Added:** <Version date="2022-01-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931045505801256971_934607873152012388_transcript-traveler-has-hidden-friendship-meter.html)
 
 **Theory:**  
@@ -545,7 +545,7 @@ Traveler does not accumulate friendship points, but does sort higher than other 
 ## A Study In Potions - Retry Button Mechanics
 
 **By:** Vye#9195  
-**Added:** 2022-01-28  
+**Added:** <Version date="2022-01-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929809364825550901_936413828575559700_transcript-a-study-in-potions--retry-button-mechanics.html)
 
 **Finding:**  
@@ -561,7 +561,7 @@ miHoYo apparently can implement a full reset button for a small event but cannot
 ## Portable Waypoint Bug
 
 **By:** Sherbs\#2029  
-**Added:** 2022-01-27  
+**Added:** <Version date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934702460117856309_936406179373002782_transcript-portable-waypoint-interactions.html)
 
 **Bug:**  
@@ -582,7 +582,7 @@ For travelers who would like to have specific lighting on The Crux for photo con
 ## Hidden wall clip spot in Liyue Merchant Stall
 
 **By:** Artellio\#4479  
-**Added:** 2022-02-08  
+**Added:** <Version date="2022-02-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934639679863676978_940718218228682762_transcript-liyue-merchants-stall-wall-clip-hidden-spot.html)
 
 **Finding:** A hidden spot in Liyue allows you to clip into the walls, and enter a hidden boxed area. Once you enter the area, you’ll be able to see outside the box, but others cannot see in. This spot also features an infinite fall/plunge area easy accessed by inch-walking towards the crevice.
@@ -598,7 +598,7 @@ Fluff.
 ## Daily Elite Cap and Common Mob Cap
 
 **By:** DoombringerEX\#8888  
-**Added:** 2022-02-10
+**Added:** <Version date="2022-02-10" />
 
 **Finding:**  
 The daily cap is 400 for elites and 2000 for common mobs, after receiving drops from these amounts of enemies they will stop dropping Ascension Materials and Mora.
@@ -615,7 +615,7 @@ The elite cap is 400 and the common mob cap is at least 1999, likely to be 2000.
 ## Plunge Attack Max Fall DMG Cap
 
 **By:** TheFirstRapher\#9207  
-**Added:** 2022-02-10  
+**Added:** <Version date="2022-02-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938676862769565726_941446808155074581_transcript-plunge-attack-max-fall-dmg-cap.html)
 
 **Finding:**  
@@ -635,7 +635,7 @@ Plunging provides a speedier way of getting down from a high place without dying
 ## Bokuso Box Crit Rate and Damage Scale off of Character Stats
 
 **By:** melon\#9323  
-**Added:** 2022-03-03  
+**Added:** <Version date="2022-03-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)
 
 **Finding:**  
@@ -650,7 +650,7 @@ Affects Favonius passive procs and if you want to kill enemies with the box.
 ## Stoves of Babel
 
 **By:** Aevean Leeow\#1362  
-**Added:** 2022-03-16  
+**Added:** <Version date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953817891340435487_transcript-stoves-of-babel.html)
 
 **Finding:**  
@@ -716,7 +716,7 @@ Singleplayer:
 ## Passive Activation Distance
 
 **By:** EdisonsMathsClub\#6469, ItzSomebody\#0029, Rito\#9691, Madrigal\#7486, milk tea romance\#9022, Peekays\#2722  
-**Added:** 2022-03-16  
+**Added:** <Version date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953782289911918623_transcript-passive-activation-distance-limit.html)
 
 **Finding:**  
@@ -742,7 +742,7 @@ Something to keep in mind when doing long range activities.
 ## Certain Actions Reset Walking Mode
 
 **By:** Madrigal\#7486  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958524651376631877_transcript-certain-actions-reset-walking-mode.html)
 
 **Finding:**  
@@ -765,7 +765,7 @@ Crucial knowledge for people doing walking only challenges, ruining any remainin
 ## Not All Doors Are Equal
 
 **By:** Puffin\#9920  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958514754920525914_transcript-not-all-doors-are-equal.html)
 
 **Finding:**  
@@ -792,7 +792,7 @@ The Knights of Favonius are special.
 ## Self-Freeze Can Be Canceled by Swapping
 
 **By:** yolitme0\#0579  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958510689549447250_transcript-self-freeze-can-be-canceled-by-swapping.html)
 
 **Finding:**  
@@ -807,7 +807,7 @@ If you get really lucky you can avoid being Frozen.
 ## Bokuso Box Can Proc Stuff
 
 **By:** Ieah.\#2212  
-**Added:** 2022-04-08  
+**Added:** <Version date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962131649536090122_transcript-bokuso-box-can-proc-stuff.html)
 
 **Finding:**  
@@ -825,7 +825,7 @@ Bokuso Box can proc damage-related abilities.
 ## Portable Waypoints Don't Stop Sheer Cold
 
 **By:** Puffin\#9920  
-**Added:** 2022-04-08  
+**Added:** <Version date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962023997183234068_transcript-portable-waypoints-dont-stop-sheer-cold.html)
 
 **Finding:**  
@@ -840,7 +840,7 @@ Better understanding of Portable Waypoints.
 ## Specialty Dish Rates
 
 **By:** Creonalia\#2818  
-**Added:** 2022-04-16  
+**Added:** <Version date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964960022134153286_transcript-specialty-dish-rates.html)
 
 **Finding:**  
@@ -863,7 +863,7 @@ It's good to know.
 ## Slimes in Barrels Blink
 
 **By:** Magnus Artifex\#8719  
-**Added:** 2022-04-24  
+**Added:** <Version date="2022-04-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967843702821228544_transcript-slimes-in-barrels-blink.html)
 
 **Finding:**  
@@ -879,7 +879,7 @@ Knowledge about the world, and it’s freaking cute uwu
 ## Elemental Bursts Reset Directional Pad on Mobile
 
 **By:** Madrigal\#7486  
-**Added:** 2022-04-24  
+**Added:** <Version date="2022-04-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967818246889824296_transcript-elemental-bursts-reset-directional-pad-on-mobile.html)
 
 **Finding:**  
@@ -936,7 +936,7 @@ A \(well\-known\) annoyance for mobile users, now documented. Sometimes, it's th
 ## Chasm Glitchy Bird
 
 **By:** SquareRootOf-1\#0898  
-**Added:** 2022-05-21  
+**Added:** <Version date="2022-05-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977690562201260042_transcript-chasm-glitchy-bird.html)
 
 **Finding:**  
@@ -975,7 +975,7 @@ Fluff
 ## Animals Can Be Debuffed
 
 **By:** Valler™\#3603  
-**Added:** 2022-06-14  
+**Added:** <Version date="2022-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986295200286666812_transcript-animals-can-be-debuffed.html)
 
 **Finding:**  
@@ -994,7 +994,7 @@ Fluff
 ## Portable Waypoint Resets Mobs
 
 **By:** Rathalos\#2875  
-**Added:** 2022-06-30  
+**Added:** <Version date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/portable-waypoint-resets-mobs)
 
 **Finding:**  
@@ -1011,7 +1011,7 @@ This effectively allows continuous resets without needing to jump to multiple wa
 ## Passive Actviation On Ducks
 
 **By:** MeiMay\#3039  
-**Added:** 2022-07-15  
+**Added:** <Version date="2022-07-15" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/passive-actviation-on-ducks)
 
 **Finding:**  
@@ -1029,7 +1029,7 @@ Better understanding of character/weapon interaction with the wildlife of Teyvat
 ## Does The Loading Screen Detect Time
 
 **By:** ShampooBrain\#9583  
-**Added:** 2022-07-21  
+**Added:** <Version date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/does-the-loading-screen-detect-time)
 
 **Finding:**  
@@ -1054,7 +1054,7 @@ Fluff.
 ## Kuki Shinobu's Melons
 
 **By:** Aevean Leeow\#1362  
-**Added:** 2022-07-28  
+**Added:** <Version date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/kuki-shinobus-melons)
 
 **Finding:**  
@@ -1103,7 +1103,7 @@ Furthermore, her unwillingness to assist in fighting off the evil spirits while 
 ## Anemo and Cryo Skills and Bursts Proc Grana
 
 **By:** Lit\#1924, ????????????????????????????????\#3255  
-**Added:** 2022-08-20  
+**Added:** <Version date="2022-08-20" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/anemo-and-cryo-skills-and-bursts-proc-grana)
 
 **Finding:**  

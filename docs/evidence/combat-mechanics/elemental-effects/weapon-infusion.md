@@ -10,7 +10,7 @@ sidebar_position: 6001
 ## Weapon Gauges
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-06-17  
+**Added:** <Version date="2021-06-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842230647569514516_855295698118901840_transcript-weapon-gauge-theory.html)
 
 **Finding:**  
@@ -35,7 +35,7 @@ from other types of elemental application, and similar to Self-auras, can oscill
 ## Arrows are self applied aura entities
 
 **By:** OAKUM\#0832  
-**Added:** 2021-07-08  
+**Added:** <Version date="2021-07-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_860818239135547413_862658895611953162_transcript-arrows-are-self-applied-aura-entities.html)
 
 **Finding:** Arrows are self-applied aura entities.

@@ -11,7 +11,7 @@ search: false
 ## Wavedashing
 
 **By:** BowTae#0141  
-**Added:** 2021-09-14  
+**Added:** <Version date="2021-09-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885694208613158963_887107234243420200_transcript-wavedashing.html)
 
 **Theory/Finding:**  
@@ -42,7 +42,7 @@ Could be used in teams with Venti to do extremely fast cancels without using sta
 ## Geo construct Wavedashing
 
 **By:** BowTae#0141  
-**Added:** 2021-10-09  
+**Added:** <Version date="2021-10-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890716522190880828_896135115158192168_transcript-geo-construct-wavedash.html)
 
 **Theory/Finding:**  

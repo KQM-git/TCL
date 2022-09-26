@@ -30,7 +30,7 @@ Xiao's vertical displacement is super quick. If you want to do the jet combo, yo
 ### Xiao E Plunge
 
 **By:** mementomori\#0001  
-**Added:** 2022-07-15  
+**Added:** <Version date="2022-07-15" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/xiao-e-plunge)
 
 **Bug:**  
@@ -47,7 +47,7 @@ Plungy Boi :)
 ### Xiao Keeps His Mask
 
 **By:** Rathalos\#2875  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958512661308510268_transcript-xiao-keeps-his-mask.html)
 
 **Finding:**  

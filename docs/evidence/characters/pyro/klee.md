@@ -13,7 +13,7 @@ search: false
 ### Klee Mine ICD
 
 **By:** Sakuno\#7950 and Steph\#3614  
-**Added:** 2021-03-16
+**Added:** <Version date="2021-03-16" />
 
 **Theory:**  
 This is an independent verification of @Steph's findings, that Klee's mines that normally have separate ICD's have trouble applying their pyro application \(for the purpose of breaking elemental shields\) if they detonate on an enemy too quickly i.e. on the same frame.
@@ -38,7 +38,7 @@ Klee can break hydro abyss shields faster by abusing the fact that her mines are
 ### Klee Mines ICD Update
 
 **By:** Steph\#3614  
-**Added:** 2021-06-07  
+**Added:** <Version date="2021-06-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843884968681668648_851377033031581726_transcript-klee-mines-icd-update.html)
 
 **Editor's Note:** The findings below expands on the findings above, this finding does not invalidate the above entry, but rather investigates a similarly related mechanic.
@@ -75,7 +75,7 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 ### Klee Skill Gauge
 
 **By:** jamie\#9248, Scavenger\#6510  
-**Added:** 2021-10-19  
+**Added:** <Version date="2021-10-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895409296140013619_900158764689272842_transcript-klee-e-gauge.html)
 
 **Finding:** Tcl entry for klee's jumpty dumpty might have the wrong bounce gu entry, which is currently in at 2b. Bounces are not all the same.  
@@ -92,7 +92,7 @@ Klee's jumpty dumpty's split mine might steal some reactions away from Klee's no
 ### Klee Interaction with Skill Related Passives When Doing Skill Burst Cancel
 
 **By:** Poisonite\#0195  
-**Added:** 2022-06-06  
+**Added:** <Version date="2022-06-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_983454660314673274_transcript-klee-interaction-with-skill-related-passives-when-doing-eq-cancel.html)
 
 **Finding:**  
@@ -113,7 +113,7 @@ This tech will be useful for anybody that uses klee, since E wont go into cooldo
 ### Klee’s Q is snapshotted on Cast
 
 **By:** stellar\#7066  
-**Added:** 2020-12-07
+**Added:** <Version date="2020-12-07" />
 
 **Finding:**  
 Klee's burst \(Q\) is snapshotted.
@@ -127,7 +127,7 @@ You can leave Bennett Q after using Klee burst and you also keep other atk% buff
 ### Klee Burst Waves Mechanics
 
 **By:** Ayzel\#7399  
-**Added:** 2021-06-11  
+**Added:** <Version date="2021-06-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851923227819114496_852776649149513748_transcript-klee-burst-mechanics.html)
 
 **Finding:** Klee's burst has 6 waves, and on each wave, there is a 35% chance for 3 hits to occur, 50% chance for 4 hits to occur, and 15% chance for 5 hits to occur.
@@ -145,7 +145,7 @@ some data collected that about matches the expected distribution of 35%, 50%, 15
 ### Failure to proc Klee's talent 'Pounding Surprise' \(Explosive Spark\), if she is swapped out immediately after attacking.
 
 **By:** fid\#6253  
-**Added:** 2020-12-22  
+**Added:** <Version date="2020-12-22" />  
 Updated: 2020-12-28
 
 **Theory:**  
@@ -170,7 +170,7 @@ Should the reverse be true, two grounded walk-cancel AA1s from Klee would allow 
 ### Klee A1 Bug
 
 **By:** Tsuki\#8993  
-**Added:** 2022-04-24
+**Added:** <Version date="2022-04-24" />
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967842007131246712_transcript-klee-a1-bug.html)
 
 **Bug:**  
@@ -185,7 +185,7 @@ When doing Klee's N1C, you might not benefit from the Stamina reduction passive 
 ### Ascension 1 Mechanics
 
 **By:** pai\#3602 and daibangden2460\#8410  
-**Added:** 2022-02-20  
+**Added:** <Version date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934968623401955358_945091321016774676_transcript-klee-a1-mechanics.html)
 
 **Findings:**  
@@ -215,7 +215,7 @@ Klee is good at destroying stuff without consuming stamina.
 ### Klee C4 damage
 
 **By:** jamberry#7142  
-**Added:** 2021-08-07  
+**Added:** <Version date="2021-08-07" />  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -232,7 +232,7 @@ Damage calculations for Klee.
 ### Klee C6 mechanics
 
 **By:** solo#3333  
-**Added:** 2021-09-25  
+**Added:** <Version date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887165577691529226_891209626396266516_transcript-klee-c6-mechanics.html)
 
 **Finding:**
@@ -259,7 +259,7 @@ No value in chain casting burst shenanigans, and Klee C6 does apply to her own b
 ### Klee C1 mechanics
 
 **By:** solo\#3333  
-**Added:** 2021-10-23  
+**Added:** <Version date="2021-10-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887125796379050076_901561241552695326_transcript-klee-c1-mechanics.html)
 
 **Finding:**
@@ -287,7 +287,7 @@ Better understanding of Klee's C1.
 ### How does 2 set Noblesse Oblige interact with C1 Klee?
 
 **By:** fin\#1623  
-**Added:** 2020-12-06
+**Added:** <Version date="2020-12-06" />
 
 **Theory:**  
 Does Noblesse affect Klee's c1 procs.
@@ -304,7 +304,7 @@ Yes they do.
 ### Klee 4CW 3 stacks
 
 **By:** solo#3333  
-**Added:** 2021-09-17  
+**Added:** <Version date="2021-09-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887521548049715200_888239532028354630_transcript-klee-4cw-3-stacks.html)
 
 **Finding:**  
@@ -319,7 +319,7 @@ Spam pressing Klee's E button will trigger 2 stacks of Crimson Witch with one ch
 ### Klee Stacking Bug Has Been Fixed
 
 **By:** pai\#3602  
-**Added:** 2022-04-24  
+**Added:** <Version date="2022-04-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967824209369776198_transcript-klee-stacking-bug-has-been-fixed.html)
 
 **Finding:**  

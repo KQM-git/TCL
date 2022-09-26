@@ -13,7 +13,7 @@ search: false
 ### Blood Blossom \(BB\) Duration on Charged Attack Reapplication
 
 **By:** itskhoi\#0013  
-**Added:** 2021-05-29  
+**Added:** <Version date="2021-05-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839858127825403904_848324677281251348_transcript-hutao-blood-blossom-duration-on-charge-atk-reapplication.html)
 
 **Findings:**
@@ -43,7 +43,7 @@ Also, if you reset BB right before your PP duration end, you can have a maximum 
 ## Longer PP with one simple trick
 
 **By:** Aluminum\#5462 & Isu\#6867  
-**Added:** 2021-08-01  
+**Added:** <Version date="2021-08-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870511694156267581_871411510004559902_transcript-longer-pp-with-one-simple-trick.html)
 
 **Finding:**  
@@ -58,7 +58,7 @@ When ending Hu Tao combos with a burst, it may be advisable to not cancel the fi
 ### Plunging Attacks in PP don't Generate Particles
 
 **By:** Ieah.\#2212  
-**Added:** 2022-02-24  
+**Added:** <Version date="2022-02-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967849977265139732_transcript-plunge-attacks-in-pp-dont-generate-particles.html)
 
 **Finding:**  
@@ -75,7 +75,7 @@ If doing meme plunge comps with Hu Tao, less Energy will be gained and fewer Bur
 ### Hu Tao Vape Melt Consistency
 
 **By:** jamie\#9248  
-**Added:** 2021-05-25  
+**Added:** <Version date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835296118795534388_846695458117124096_transcript-hu-tao-vape-melt-consistency.html)
 
 **Finding:** Tested out the freeze underlying aura and how it pertains to how hu tao + dragon's bane. Ran the standard freeze team hu tao/xingqiu/diona/kaeya and tested different combos \(n1c, n1cd, n1cj, n2cj\), in order to see if there's a difference which would keep a hydro aura under the enemy as much as possible in order to proc dragon's bane on melt as much as possible. Both n1cd and n1cj were found to produce more than 2x the amount of procs.
@@ -111,7 +111,7 @@ Also melt comps might have an even higher ceiling than expected, as afaik melt% 
 ### Mona Q bubble pops with Hu tao E
 
 **By:** Tryhardosaurus\#0007  
-**Added:** 2021-05-25  
+**Added:** <Version date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_841629546008018955_846705904598777886_transcript-mona-q-bubble-pops-with-hutao-e-cast.html)
 
 **Finding:** Mona Q can be popped by Hutao E cast animation even if this doesn’t deal any damage
@@ -125,7 +125,7 @@ This also might disapprove Mona Q description that says when an opponent affecte
 ### Hu Tao and Xiangling Vape
 
 **By:** Ayzel#7399 & friends  
-**Added:** 2021-06-26  
+**Added:** <Version date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845723930978418758_858187557295620126_transcript-hu-tao-xiangling-vape.html)
 
 **Finding:**  

@@ -12,7 +12,7 @@ search: false
 
 ### Dimensions of Albedo’s Elemental Skill AoE
 
-**Added:** 2020-12-28  
+**Added:** <Version date="2020-12-28" />  
 **By:** HailCorporate\#2970
 
 **Finding:**  
@@ -34,7 +34,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 ### Albedo's Elemental Skill Snapshots
 
 **By:** Steno\#6940  
-**Added:** 2021-04-21  
+**Added:** <Version date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834274373493456976_834662830120239115_transcript-albedo-e-snapshot.html)
 
 **Finding:** Albedo's elemental skill snapshots, meaning that damage for its entire duration is calculated when the skill is cast, so any buffs gained/lost after the skill is cast will not affect the skill's damage.
@@ -48,7 +48,7 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 ### Albedo's Elemental Skill Triggering is Pepega
 
 **By:** NZPIEFACE\#8439, Kolibri\#7675  
-**Added:** 2022-06-14  
+**Added:** <Version date="2022-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986267083748835339_transcript-albedo-e-is-pepega.html)
 
 **Finding:**  
@@ -65,7 +65,7 @@ Albedo's on-damage effect appears to trigger client-side and from all sources of
 ### Albedo's Fatal Blossoms Snapshots when his E is cast, not his Q
 
 **By:** gtrain#9987  
-**Added:** 2021-08-13  
+**Added:** <Version date="2021-08-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875475337687990272_875585791869468722_transcript-albedo-fatal-blossom-snapshot.html)
 
 **Finding:**  
@@ -92,7 +92,7 @@ To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise th
 #### Albedo A4 Triggers During Q Animation
 
 **By:** Poisonite\#0195  
-**Added:** 2022-04-08  
+**Added:** <Version date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962008806097838120_transcript-albedo-a4-triggers-during-q-animation.html)
 
 **Finding:**  
@@ -114,7 +114,7 @@ This info can help in rotation crafting, where people would need to know how lon
 ### Albedo Cinnabar Spindle Buffs Both Hits of E N1 Combo
 
 **By:** Markoda\#5294  
-**Added:** 2022-08-21  
+**Added:** <Version date="2022-08-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/albedo-cinnabar-spindle-buffs-both-hits-of-e-n1-combo)
 
 **Finding:**  

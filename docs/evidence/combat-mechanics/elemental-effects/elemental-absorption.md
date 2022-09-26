@@ -10,7 +10,7 @@ sidebar_position: 3001
 ## Charged Arrow Absorption Mechanics
 
 **By:** EggsD\#9603, Ntagama\#8306, Aluminum\#5462, Terrapin\#8603, Kgbeast\#6738, and Zebin\#1678  
-**Added:** 2021-06-28  
+**Added:** <Version date="2021-06-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839140280560255106_850180845259063296_transcript-sucrose-burst-absorption.html)
 
 **Finding:** Charged arrows can cause elemental absorption by hitting the 'core' of applicable anemo abilities. This works for Pyro, Electro, Hydro, but not Cryo.
@@ -36,7 +36,7 @@ This finding
 ## Absorption Priority Correction
 
 **By:** Faranight\#0001  
-**Added:** 2021-07-06  
+**Added:** <Version date="2021-07-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854304358921404448_862102016271712256_transcript-absorption-priority-correction.html)
 
 **Theory:** Anemo Absorption priority is dependent only on the type of element. Abilities with absorption fit into two priority orders:
@@ -93,7 +93,7 @@ Understanding how elemental infusion operates allows for more extensive use of t
 ## Absorption Aura Check Inflicts Self Damage
 
 **By:** Nass008\#8577, CQLQRS\#7853, Sayline\#5959  
-**Added:** 2021-10-28  
+**Added:** <Version date="2021-10-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902503398396538891_903470600062902332_transcript-absorption-aura-check-count-as-self-dmg.html)
 
 **Finding:** When anemo abilities with elemental absorption check self aura on the active characters, it inflicts 0 damage to them. This can trigger some passive talents that activate on hit. However, they will stop hitting allies after absorbing any element.
@@ -116,7 +116,7 @@ This may be used to further investigate the properties of elemental absorption (
 ## Aura Check Properties
 
 **By:** vinsette\#0293, Goden\#2155, D.....K\#9002, frzyc\#3029, xf3\#3123, and BowTae\#0141  
-**Added:** 2021-12-16  
+**Added:** <Version date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902956060493623306_920148578146590790_transcript-aura-check-zero-dmg-properties.html)
 
 **Finding:**  
@@ -184,7 +184,7 @@ Further insight into the mechanics of Elemental Absorption via Aura-checks, how 
 ## Aura-Checks Can Hit Cats
 
 **By:** vinsette\#0293  
-**Added:** 2021-12-16  
+**Added:** <Version date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918033771759026176_921245481756143626_transcript-aura-checks-and-cats-interaction.html)
 
 **Finding:**  

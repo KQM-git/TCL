@@ -19,7 +19,7 @@ search: false
 ### Construct Resonance Mechanics
 
 **By:** TunaPotato\#9114  
-**Added:** 2021-09-24  
+**Added:** <Version date="2021-09-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891048091225038888_891127648288383026_transcript-zhongli-pillar-mechanics.html)
 
 **Finding 1:**  
@@ -45,7 +45,7 @@ In other words having two pillars from c1 will double the damage from resonance.
 ### Zhongli RES Shred Lingers
 
 **By:** clrE\#6290  
-**Added:** 2022-01-14  
+**Added:** <Version date="2022-01-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928609238002053131_931322938953728050_transcript-zhongli-shred-linger.html)
 
 **Finding:**  
@@ -60,7 +60,7 @@ Zhongli's shred can last for more hits of Xingqiu's rainswords/Beidou procs/Fisc
 ### Zhongli RES Shred Range
 
 **By:** Xreejan\#1180  
-**Added:** 2022-03-09  
+**Added:** <Version date="2022-03-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951176607496806440_transcript-zhongli-res-shred-range.html)
 
 **Finding:**  
@@ -75,7 +75,7 @@ Can help players prevent DPS loss when playing ranged units.
 ### Zhongli Pillar Snapshot
 
 **By:** Xreejan\#1180 and Latiwings\#3308  
-**Added:** 2022-03-22  
+**Added:** <Version date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955608390418186290_transcript-zhongli-pillar-snapshot.html)
 
 **Finding:**  
@@ -96,7 +96,7 @@ Further understanding of Stone Steles.
 ### Zhongli E and Tenacity Snapshot Shenanigans
 
 **By:** Latiwings\#3308, Potade\#9775, and Xreejan\#1180  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958519117839757373_transcript-zhonglis-e-and-tenacity-snapshot-shenanigans.html)
 
 **Finding:**  
@@ -128,7 +128,7 @@ Understand how Zhongli E and Tenacity interact, which affects the calculation fo
 ### Geo Construct Test
 
 **By:** Rathalos\#2875  
-**Added:** 2022-03-29  
+**Added:** <Version date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958503937697275984_transcript-geo-construct-test.html)
 
 **Finding:**  
@@ -149,7 +149,7 @@ Rock Pillars refer to the pillars Geo Samachurls use to gain higher ground and c
 ### Zhongli Construct Height Placement Shenanigans
 
 **By:** Empyress\#9451  
-**Added:** 2022-04-08  
+**Added:** <Version date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962026867236417586_transcript-zl-and-ganyu-construct-height-placement-shenanigans.html)
 
 **Finding:**  
@@ -171,7 +171,7 @@ Knowing more about Geo Construct spawn conditions at different heights.
 #### Zhongli's Ascension 1 broken down
 
 **By:** 3b00d_09\#2235  
-**Added:** 2021-04-28  
+**Added:** <Version date="2021-04-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837172595202719794_837181219086401536_transcript-zhongli-a1-exploration.html)
 
 Credits to JonahFarc\#7056 for helping me figure out how this works.
@@ -213,7 +213,7 @@ This allows for more accurate Zhongli shield calculations, as well as any future
 #### Zhongli A1 Has No/Negligible ICD
 
 **By:** JonahFarc\#7056  
-**Added:** 2021-04-26  
+**Added:** <Version date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836279063760732201_836642776217026620_transcript-zhongli-a1-no-icd.html)
 
 **Finding:** Zhongli's A1 passive has either no ICD or an extremely negligible one
@@ -227,7 +227,7 @@ Zhongli's shield is ridiculously effective against DoT as it stacks immediately 
 #### Zhongli A1 Persists on Swap
 
 **By:** Latiwings\#3308  
-**Added:** 2021-10-16  
+**Added:** <Version date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893176410301141012_899029975208964147_transcript-zhongli-shield-tech.html)
 
 **Finding:**  
@@ -255,7 +255,7 @@ Shield management.
 #### Zhongli C2 Mechanics
 
 **By:** Midori\#2173  
-**Added:** 2021-04-21  
+**Added:** <Version date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834400006948782090_834658055391150150_transcript-zhongli-c2-mechanics.html)
 
 **Finding:** Zhongli c2 affects his own burst when casting as do the 15% DMG bonus from Geo resonance but not the Geo resistance down unless it is applied first.
@@ -278,7 +278,7 @@ For the highest damage apply the Geo res down before pressing Burst.
 ### Fischl C6 does not always Proc on Zhongli's first Normal Attack
 
 **By:** muakasan\#2792  
-**Added:** 2021-01-07
+**Added:** <Version date="2021-01-07" />
 
 **Bug/Finding:**  
 Fischl C6 does not always proc on Zhongli's first normal attack. When chaining multiple Zhongli attack sequences together, after the first sequence, the c6 does not proc on the first normal of the subsequent sequences.
@@ -294,7 +294,7 @@ Allows for more accurate DPS calculations when using Zhongli and c6 fischl toget
 ### 4 TOM Passive on Zhongli Procs With Other Geo Constructs
 
 **By:** Lowy\#7647  
-**Added:** 2021-05-06  
+**Added:** <Version date="2021-05-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839089619743539230_840068304864280586_transcript-4pc-tom-zhongli-interaction.html)
 
 **Finding:**  

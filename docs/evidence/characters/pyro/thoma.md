@@ -39,7 +39,7 @@ search: false
 ### Thoma Shield Mechanics
 
 **By:** Latiwings#3308  
-**Added:** 2021-12-30  
+**Added:** <Version date="2021-12-30" />  
 [Dicussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922638877028671508_925694499739545660_transcript-thoma-shield-mechanics.html)
 
 **Finding #1:**  

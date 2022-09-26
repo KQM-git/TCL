@@ -49,7 +49,7 @@ search: false
 ### Frost Field Tick Rate
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-02-12
+**Added:** <Version date="2021-02-12" />
 
 **Finding:**  
 Chongyun's E applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the skill such that it ticks on EXACTLY XX.0 for every second of the field duration.
@@ -70,7 +70,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 ### Chongyun E and A4 interactions
 
 **By:** DeFault\#1802  
-**Added:** 2021-06-26  
+**Added:** <Version date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856905392633151528_858349517241450536_transcript-chongyun-e-and-a4-interactions.html)
 
 **Findings:**  
@@ -97,7 +97,7 @@ The various interactions between Chongyun’s A4 and E have been looked at and t
 ### Chongyun Burst Maximum Range
 
 **By:** mando.\#1646  
-**Added:** 2022-04-16  
+**Added:** <Version date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964970527120834560_transcript-chongyuns-burst-maximum-range.html)
 
 **Finding:**  
@@ -119,7 +119,7 @@ Expansion in understanding of Chongyun's kit.
 #### Chongyun C1 damage
 
 **By:** jamberry#7142  
-**Added:** 2021-08-07  
+**Added:** <Version date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Findings:**  
@@ -139,7 +139,7 @@ Damage calculations for Chongyun
 #### C2 CDR Based on Original Cooldown
 
 **By:** Sparko53557\#7010 and LazyGeniusMan\#6252  
-**Added:** 2021-04-13
+**Added:** <Version date="2021-04-13" />
 
 **Finding:** Chongyun C2 reduces your cooldown based on your original cooldown instead of the increased cooldown while affected by Slowing Waters.
 

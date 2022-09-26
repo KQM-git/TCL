@@ -10,7 +10,7 @@ sidebar_position: 1000
 ## Soft Pity on Banners
 
 **By:** vibe checker\#5502  
-**Added:** 2021-06-03  
+**Added:** <Version date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843094700441206844_849939262229315644_transcript-char-and-weapon-banner-pities.html)
 
 **Finding:** Soft pity is 74 on the featured character/standard banner, and 63 on the weapon banner.
@@ -24,7 +24,7 @@ The second link shows that the probability of rolling a 5 star massively increas
 ## Estimated 5 star pulls for weapons/characters
 
 **By:** KBphan\#0001  
-**Added:** 2021-04-19
+**Added:** <Version date="2021-04-19" />
 
 **Finding:** It takes approximately 12.5 5 star pulls to R5 a specific weapon
 
@@ -48,7 +48,7 @@ Average 5 stars pulled for rate up 5 star character
 ## Resin Efficiency of Acquaint Fates from Character Levelling
 
 **By:** Moonrobin\#2608  
-**Added:** 2020-12-19
+**Added:** <Version date="2020-12-19" />
 
 **Finding:**  
 Level all characters to 20/40 for the Fate.  
@@ -68,7 +68,7 @@ Note that this is for WL7 drop rates, and only includes permanent sources of mat
 ## Weapon banner Gacha Rates with Epitomized Path
 
 **By:** Tim\#5259, Mcpie\#8672  
-**Added:** 2021-11-11  
+**Added:** <Version date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884585841270329415_908323794622492742_transcript-weapon-banner-gacha-rates-with-epitomized-path.html)
 
 **Finding:**  
@@ -93,7 +93,7 @@ r5, no epi path, pity: 12.25
 ## Number of Wishes on Weapon Banner to Fully Level a 5 Star Weapon
 
 **By:** hanpw\#5824  
-**Added:** 2021-12-16  
+**Added:** <Version date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906138978208604210_919065570257813514_transcript-weapon-as-fodder-wish-count.html)
 
 **Finding:**  
@@ -113,7 +113,7 @@ Average number of wishes needed on weapon banner to level a 5 star weapon to 90 
 ## Gacha Calculator
 
 **By:** Tibo\#4809  
-**Added:** 2022-02-19  
+**Added:** <Version date="2022-02-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_935286904679710741_944727977445445632_transcript-gacha-rate-calculator.html)
 
 **Finding 1:**

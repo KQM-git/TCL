@@ -54,7 +54,7 @@ search: false
 ### Sara Skill Patch 2.2 Update
 
 **By:** NZPIEFACE#8439 and Dooners#6709  
-**Added:** 2021-10-28  
+**Added:** <Version date="2021-10-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897677391546163210_903468029562732565_transcript-sara-e.html)
 
 **Finding:**  
@@ -108,7 +108,7 @@ We can actually predict what pressing E will do now.
 ### Crow feather interactions
 
 **By:** George#0766  
-**Added:** 2021-09-25  
+**Added:** <Version date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884708643151446026_891204580174610442_transcript-sara-feather-interaction-with-on-damage-effects.html)
 
 **Finding:**  
@@ -149,7 +149,7 @@ Insights into feather application mechanics (maybe first 0 damage and friendly f
 ### Sara Burst Mechanics Update
 
 **By:** Steno\#0119  
-**Added:** 2022-05-12  
+**Added:** <Version date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974455619203526656_transcript-sara-burst-mechanics-update.html)
 
 **Finding:**  
@@ -204,7 +204,7 @@ Specific mechanics of Sara C6 that can be useful for her personal damage.
 ### Decorum Energy Regen
 
 **By:** Laurent#2608  
-**Added:** 2021-10-16  
+**Added:** <Version date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894240156104659045_899148824566722580_transcript-sara-a4-passive-energy-gen.html)
 
 **Finding:**  
@@ -246,7 +246,7 @@ Decorum's wording implies that you need to hit 100% ER increments to restore mor
 #### Double Buff with Sara C2
 
 **By:** NZPIEFACE#8439 and BowTae#0141
-**Added:** 2021-09-07  
+**Added:** <Version date="2021-09-07" />  
 Discussion in Basic Mechanics
 
 **Finding:**  
@@ -279,7 +279,7 @@ This is possible to perform without cancels but the timing is extremely difficul
 ### Double Snapshot with Sara's Burst
 
 **By:** Wishiwashi#2548  
-**Added:** 2021-09-07  
+**Added:** <Version date="2021-09-07" />  
 Discussion in Basic Mechanics
 
 **Finding:**  
@@ -295,7 +295,7 @@ It may be easier to pull off double snapshots with C2, or at C0/C1 with a rotati
 ### Exact Crowfeather Buff Timing
 
 **By:** NZPIEFACE\#8439  
-**Added:** 2021-10-16  
+**Added:** <Version date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893285828858630164_899026156769124392_transcript-sara-e-buff-targetting.html)
 
 **Finding:**  
@@ -309,7 +309,7 @@ Exact timing of the Crowfeather buff.
 ### Pre-A4 EMC Skill ER Buff with Sara A4
 
 **By:** WellWell#2868 and Nass008#8577  
-**Added:** 2021-11-01  
+**Added:** <Version date="2021-11-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903958677164294204_904776894841507850_transcript-emc-er-buff-interaction-with-saras-a4.html)
 
 **Finding:**  

@@ -29,7 +29,7 @@ For one-shot \(or two-shot\) compilations, although I’m not sure if this team 
 ### Xingqiu Rain Sword DMG Reduction is a conferrable attribute
 
 **By:** jamberry#7142  
-**Added:** 2021-07-18  
+**Added:** <Version date="2021-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864699490606514196_866103775408422962_transcript-xq-dr-is-a-conferrable-attribute.html)
 
 **Finding:**  
@@ -45,7 +45,7 @@ A team consists of Kazuha and Xingqiu may have marginally less survivability tha
 ### XQ rain sword shattering cooldown
 
 **By:** Lee Roy Leoncio#3769  
-**Added:** 2021-09-06  
+**Added:** <Version date="2021-09-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881769328247177246_884456576075825162_transcript-xq-rain-sword-shattering-cooldown.html)
 
 **Finding:**  
@@ -80,7 +80,7 @@ Verified. Also, a similar instance occurs when using Streaming Essential Oil \(2
 ### Xingqiu Damage Reduction is Affected By Omni Damage Bonus
 
 **By:** Balakin1\#7545  
-**Added:** 2022-05-05  
+**Added:** <Version date="2022-05-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_971892805431595069_transcript-xingqiu-dr-omni-damage-bonus.html)
 
 **Finding:**  
@@ -110,7 +110,7 @@ Better understanding of Xingqiu's Damage Reduction and how it interacts with dif
 ### Xingqiu E Dash Cancel Animation
 
 **By:** Charliex3000\#9403  
-**Added:** 2021-03-18
+**Added:** <Version date="2021-03-18" />
 
 **Finding:**
 
@@ -129,7 +129,7 @@ Dash to swap is faster since it takes longer without a cancel to swap.
 ### Xingqiu actual Rain Sword ICD
 
 **By:** Tsym#2586  
-**Added:** 2021-09-22  
+**Added:** <Version date="2021-09-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885155355020120134_890115391370698782_transcript-xingqiu-orbital-icd.html)
 
 **Finding:**  
@@ -167,7 +167,7 @@ XQ ult is dynamic and not a snapshot, buffs/value changes received after casting
 ### Xingqiu Sword Rain "Buffering"
 
 **By:** Charliex3000\#9403  
-**Added:** 2021-03-21
+**Added:** <Version date="2021-03-21" />
 
 **Theory/Finding/Bug:**
 
@@ -187,7 +187,7 @@ Clears up how exactly "XQ buffers." Additionally pending some extra tests about 
 ### Xingqiu Hydro Aura Persistence
 
 **By:** Sayline\#5959  
-**Added:** 2021-04-05
+**Added:** <Version date="2021-04-05" />
 
 **Finding:**  
 After Xingqiu's burst ends, there is a period where you can still imbue a hydro aura even if the orbitals visually disappeared. Upon further investigation, XQ's orbitals don't disappear completely, rather, they degenerate into particles of hydro that still appear around XQ for a set duration of time \(about 47 frames from the moment the swords blink before exploding until the last bits of hydro particles disappear\).
@@ -205,7 +205,7 @@ Limit testing of XQ.
 ### Xingqiu Q's Rain Sword Damage Reduction Overrides E's
 
 **By:** Charliex3000#9403  
-**Added:** 2021-10-17  
+**Added:** <Version date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890793989232529439_899126244615028867_transcript-xq-qe-dmg-reduction-interactions.html)
 
 **Finding:**  
@@ -231,7 +231,7 @@ We understand more about how XQ's damage reduction works. Additionally, this mea
 ### Xingqiu Burst and Long Normal Attack Animation Interaction
 
 **By:** Kaya\#5005, Xandellicia\#4609, Dooners\#6709  
-**Added:** 2022-04-10  
+**Added:** <Version date="2022-04-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962750243403874374_transcript-xingqiu-q-and-long-na-animation-interaction.html)
 
 **Finding:**  
@@ -254,7 +254,7 @@ Documenting how on-normal-animation effects can actually trigger multiple times 
 ### Each Burst Wave Snapshots When Summoned
 
 **By:** lucianekat\#7757  
-**Added:** 2022-07-28  
+**Added:** <Version date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/each-wave-of-xingqius-burst-snapshots-when-summoned)
 
 **Finding:**  
@@ -276,7 +276,7 @@ Better understanding of Xingqiu's burst and snapshotting. Although in practice, 
 #### Xingqiu C6 3rd Wave Applies Hydro Twice
 
 **By:** gacha4life\#2525  
-**Added:** 2021-03-17
+**Added:** <Version date="2021-03-17" />
 
 **Evidence:**
 
@@ -289,7 +289,7 @@ Better understanding of Xingqiu's burst and snapshotting. Although in practice, 
 ### Xingqiu EQE vs QEE
 
 **By:** Steno\#0119  
-**Added:** 2022-03-16  
+**Added:** <Version date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953826281793933312_transcript-xq-eqe-vs-qee.html)
 
 **Finding:**  

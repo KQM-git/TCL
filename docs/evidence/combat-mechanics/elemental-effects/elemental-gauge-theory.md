@@ -10,7 +10,7 @@ sidebar_position: 1001
 ## Concept of Elemental Sources, Auras, Triggers, Cooldowns and Reductions
 
 **By:** Doug\#8888  
-**Added:** 2020-11-12  
+**Added:** <Version date="2020-11-12" />  
 **Edited:** 2021-01-09
 
 Using elements to cause reactions are a key cornerstone of Genshin Impact. To optimise your damage and teambuilding, you must understand the precise mechanics behind how elements are applied, react together, and persist. Let’s first define some key terms.
@@ -59,7 +59,7 @@ Using elements to cause reactions are a key cornerstone of Genshin Impact. To op
 ## Elemental Aura Application and Gauge Values of Enemies
 
 **By:** BowlSoldier\#3528  
-**Added:** 2021-02-04
+**Added:** <Version date="2021-02-04" />
 
 ### Finding
 
@@ -436,7 +436,7 @@ Link [here](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNe
 
 ## The Truth Behind Elemental Reaction/Application Cooldowns \(Translation\)
 
-**Added:** 2020-11-09
+**Added:** <Version date="2020-11-09" />
 
 Source: [https://www.bilibili.com/video/BV1aK4y177Rd](https://www.bilibili.com/video/BV1aK4y177Rd) \(Dated Oct 29, 2020\)
 
@@ -449,7 +449,7 @@ Reviewed/Edited by: IonFox, Doug
 ## Self Gauge Theory
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-04-19  
+**Added:** <Version date="2021-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804110170833158174_834201279973556234_transcript-self-gauges-and-leylines.html)
 
 **Theory:** Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U value greater than the remaining aura.
@@ -461,7 +461,7 @@ Reviewed/Edited by: IonFox, Doug
 ## Self Aura Infusion
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-04-19  
+**Added:** <Version date="2021-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804550581800271873_834201539702423592_transcript-leyline-self-aura-infusions.html)
 
 **Finding:** It has been known that you can use self auras to infuse anemo ults \(Venti/Sucrose\) with elements instead of enemy auras. This happens to include the aura applied by leylines so it allows for elements not present AT ALL otherwise to be practically included in a team.

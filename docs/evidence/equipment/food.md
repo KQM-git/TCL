@@ -7,7 +7,7 @@ search: false
 ## Hitlag has no effect on food buff durations
 
 **By:** Ultimate Noob\#2955  
-**Added:** 2021-12-21  
+**Added:** <Version date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920877683158679603_922717970306854922_transcript-does-hitlag-extend-food-buff-duration.html)
 
 **Finding:**  

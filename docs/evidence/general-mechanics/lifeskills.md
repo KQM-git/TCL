@@ -9,7 +9,7 @@ search: false
 ## Statue of Seven Healing
 
 **By:** Asaki\#9139  
-**Added:** 2021-06-03  
+**Added:** <Version date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847359141626118154_849897436956590110_transcript-statue-of-seven-inactive-member-healing.html)
 
 **Finding:** A Statue of Seven will heal \(and revive to full if dead\) without any restraint, provided that the character/party that you want to heal is not in the active \(on-field\) party.
@@ -21,7 +21,7 @@ search: false
 ## Item Pickup Speed
 
 **By:** Chaos_Filler\#0746  
-**Added:** 2021-01-31
+**Added:** <Version date="2021-01-31" />
 
 **Finding:**  
 Picking up items from the bottom of the list is about 85% faster than from the top of the list.
@@ -37,7 +37,7 @@ Spend less time on gathering loot and more time killing things.
 ### Ayaka infinite ice bridge
 
 **By:** Serenity#3372  
-**Added:** 2021-09-06  
+**Added:** <Version date="2021-09-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880089241252667452_884462363280035900_transcript-ayaka-na-infinite-ice-bridge.html)
 
 **Theory:**  
@@ -51,8 +51,8 @@ Exploration.
 
 ## Wait for mora before TP
 
-**By** ZyronX#0001  
-**Added:** 2021-09-11  
+**By:** ZyronX#0001  
+**Added:** <Version date="2021-09-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885894005987115060_886300876791218216_transcript-wait-for-mora-before-tp.html)
 
 **Finding:**  
@@ -69,8 +69,8 @@ When you're speedrunning artifact route or elite route, you should wait for the 
 
 ### Bait & Switch
 
-**By** wiremash#0433  
-**Added:** 2021-09-14  
+**By:** wiremash#0433  
+**Added:** <Version date="2021-09-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_884979127260680212_887102831771922482_transcript-bait-and-switch.html)
 
 **Finding:**  
@@ -86,8 +86,8 @@ Unnecessarily advanced fishing technique for those trying to catch multiple spec
 
 ### Fishing Rods Comparison
 
-**By** OCM#0619  
-**Added:** 2021-10-17  
+**By:** OCM#0619  
+**Added:** <Version date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887968373005230100_899175829236482048_transcript-fishing-rod-comparison.html)
 
 **Finding:**  
@@ -143,8 +143,8 @@ short- regional: [Video](https://mega.nz/file/dtkQ0Q7A#uRe92paehuV07LkLElnCcRvqJ
 
 ### Co-Op Fish Trolling
 
-**By** Aevean Leeow\#1362 and Scavenger\#6510  
-**Added:** 2021-10-28  
+**By:** Aevean Leeow\#1362 and Scavenger\#6510  
+**Added:** <Version date="2021-10-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883181763143286884_903518750903504926_transcript-fish-trolling.html)
 
 **Finding:**  
@@ -179,7 +179,7 @@ I hate fishing, and if you hate fishing too, you should commit acts of terrorism
 ### Fish Replacement
 
 **By:** Kenneth (Ellaevans)\#6329  
-**Added:** 2021-10-31  
+**Added:** <Version date="2021-10-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889051986312458290_904212306135748659_transcript-fishing-replacement-confirmed.html)
 
 **Findings:**  
@@ -199,7 +199,7 @@ You do not need to fish until the spot is empty to respawn the fish that you req
 ### Kill Traveler For The Camera
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-14  
+**Added:** <Version date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/kill-traveler-for-the-camera)
 
 **Finding:**  
@@ -213,8 +213,8 @@ Mostly fluff. Could be something worth nothing for future interactions.
 
 ## The Walking Dead Impact
 
-**By** Mcpie#8672  
-**Added:** 2021-09-17  
+**By:** Mcpie#8672  
+**Added:** <Version date="2021-09-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887034163725746226_888244472746487818_transcript-autowalk-with-dead-chars.html)
 
 **Finding:**  
@@ -232,8 +232,8 @@ You can go to the toilet while traversing through Teyvat using your new autowalk
 
 ### Boat Stamina And Food
 
-**By** Ayzel#7399  
-**Added:** 2021-10-17  
+**By:** Ayzel#7399  
+**Added:** <Version date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897673998811398194_899171326827331624_transcript-boat-stamina-and-food.html)
 
 **Finding:**  
@@ -247,8 +247,8 @@ Don't waste food
 
 ### Waverider Buff Effects
 
-**By** Goden#2155  
-**Added:** 2021-10-29  
+**By:** Goden#2155  
+**Added:** <Version date="2021-10-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902597789102518323_903669906694864936_transcript-boat-buff-effects.html)
 
 **Finding:**  
@@ -283,7 +283,7 @@ The Waverider however does benefit from debuffs to enemies, as they don't affect
 ## Anti-Fall Mechanic
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-14  
+**Added:** <Version date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/falling-is-cringe)
 
 **Finding:**  

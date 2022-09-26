@@ -30,7 +30,7 @@ Unfortunately this means a lot of our frame counts of elemental durations will b
 ### Normal Attack Hitlag can Extend Skill/Burst Duration
 
 **By:** Kourinn\#6001  
-**Added:** 2021-05-09  
+**Added:** <Version date="2021-05-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)
 
 **Finding:**  
@@ -49,7 +49,7 @@ Hitlag extension should be taken into account when simulating skills/bursts such
 ### Hitlag Extension Caveats
 
 **By:** Kourinn\#6001  
-**Added:** 2021-05-09  
+**Added:** <Version date="2021-05-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)
 
 **Findings:**
@@ -132,7 +132,7 @@ Hitlag extension should be ignored when theorycrafting deployables' and Bennett'
 ### Preliminary Analysis of How Invincibility Frames Work
 
 **By:** MemeMastodon69/#2165  
-**Added:** 2020-10-29
+**Added:** <Version date="2020-10-29" />
 
 **Finding:**  
 Raw footage at end of post. All footage taken at 60fps. Halve figures for 30fps. Assumptions - Hit is registered on the frame before knockback animation starts playing.  
@@ -158,7 +158,7 @@ TL;DR - 3 startup frames, 20 active frames give or take 1 frame from each.
 ### Aim Mode Frame Counts
 
 **By:** BowTae\#0141 and xSil3nt\#0961  
-**Added:** 2022-04-15  
+**Added:** <Version date="2022-04-15" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964626530254856322_transcript-aim-frames.html)
 
 **Finding:**  
@@ -175,7 +175,7 @@ More accurate counts for the TCL.
 ## Burst Idle iFrames
 
 **By:** Aeonim\#3811, Chompy\#6384, Fiery\#9872, soran\#0001, Kolibri\#7675  
-**Added:** 2022-07-28  
+**Added:** <Version date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/burst-idle-i-frames)
 
 **Finding:**  
@@ -202,7 +202,7 @@ These additional iFrames may prove useful in dodging/iFraming incoming attacks w
 ## Catalyst N1 Buffer
 
 **By:** Steno\#0119 and pai\#3602  
-**Added:** 2022-07-28  
+**Added:** <Version date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/catalyst-n1-buffer)
 
 **Finding:**  

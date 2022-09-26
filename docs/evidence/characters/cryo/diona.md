@@ -13,7 +13,7 @@ search: false
 ### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves
 
 **By:** EternalDream\#5503  
-**Added:** 2020-11-19
+**Added:** <Version date="2020-11-19" />
 
 **Evidence:**
 
@@ -26,7 +26,7 @@ For Diona, who's charged shot ICD is higher than the time it takes to fire a sec
 ### Diona Dash Aim Cancel
 
 **By:** BowTae#0141  
-**Added:** 2021-10-17
+**Added:** <Version date="2021-10-17" />
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895937565956378625_899199225462657064_transcript-diona-dash-aim-cancel.html)
 
 **Finding:**  
@@ -61,7 +61,7 @@ Very fast way to shoot CAs with Diona while still retaining the ability to aim (
 ### Diona Elemental Skill ICD analysis
 
 **By:** Tractor\#9418  
-**Added:** 2020-11-18
+**Added:** <Version date="2020-11-18" />
 
 **Finding:**
 
@@ -113,7 +113,7 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 ### Diona's Shield Deep-Dive
 
 **By:** EggsD\#9603  
-**Added:** 2021-04-05
+**Added:** <Version date="2021-04-05" />
 
 **Finding:** Detailed description and rundown of Diona's Icy Paws Shield. Which includes...
 
@@ -141,7 +141,7 @@ Note: Diona cleansing Pyro aura is inconsistent and can be 1U, 1.5U or 2U depend
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898145871026348062_898800608826490900_transcript-dionas-skill-icy-paws-may-not-form-a-shield.html)
 
 **By:** D.....K#9002  
-**Added:** 2021-10-15
+**Added:** <Version date="2021-10-15" />
 
 **Finding:** Diona's Skill Icy Paws do not form a shield if all Icy Paws despawn before hitting something.
 
@@ -159,7 +159,7 @@ At least 1 Icy Paw must hit something for a shield to form. Situations where Icy
 ### Diona’s Paws Home on Entities That Are Not Enemies
 
 **By:** Ultimate Noob\#2955 and Junolau#4337  
-**Added:** 2022-05-07  
+**Added:** <Version date="2022-05-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_972570999696531457_transcript-dionas-paws-home-on-entities-that-are-not-enemies.html)
 
 **Finding:**  
@@ -174,7 +174,7 @@ Who needs to snipe birds when you have heat-seeking missiles?
 ### Diona's Paws Don't Work Next to a Wall
 
 **By:** Ultimate Noob\#2955  
-**Added:** 2022-05-22  
+**Added:** <Version date="2022-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977693874942275594_transcript-dionas-paws-dont-work-next-to-a-wall.html)
 
 **Finding:**  
@@ -191,7 +191,7 @@ Don't fire Diona's paws when there is a wall behind you.
 ### Diona Field Characteristics
 
 **By:** Monochrom9\#8058  
-**Added:** 2021-06-02
+**Added:** <Version date="2021-06-02" />
 
 **Finding:**  
 The Elemental Mastery bonus from Diona C6 will apply immediately on swap and linger for 2 seconds.
@@ -205,7 +205,7 @@ The healing pulse is separate from the buffs granted by Diona Burst.
 ### Diona Has Finite Vertical Range for Burst Healing
 
 **By:** Mehhh-yowww\#8236, Kourinn\#6001  
-**Added:** 2021-10-30  
+**Added:** <Version date="2021-10-30" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903967252397834272_904154341714309141_transcript-diona-finite-vertical-range-for-burst-healing.html)
 
 **Finding:**  
@@ -226,7 +226,7 @@ This has implications against Xiao (or for Xiao with Staff of Homa) because the 
 ### Diona's Burst Position Snapshot
 
 **By:** Ultimate Noob\#2955  
-**Added:** 2022-02-24  
+**Added:** <Version date="2022-02-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967852523027312751_transcript-dionas-burst-position-snapshot.html)
 
 **Finding:**  
@@ -245,7 +245,7 @@ If you cast her Burst on a moving enemy you will miss, it could be good for long
 #### Diona's Stamina Reduction Stacks With Other Sources
 
 **By:** Ultimate Noob\#2955  
-**Added:** 2022-03-04  
+**Added:** <Version date="2022-03-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949479240284401744_transcript-bokuso-box-crit-scales-off-character.html)
 
 **Finding:**  
@@ -268,7 +268,7 @@ Previously, such effects didn't stack, but around patch 2.0 miHoYo changed it so
 #### Diona C1 Range and Q Duration
 
 **By:** Yume\#2875  
-**Added:** 2022-05-12  
+**Added:** <Version date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974466651477127248_transcript-diano-c1-range-and-q-duration.html)
 
 **Finding:**  
@@ -295,7 +295,7 @@ More understanding of Diona's kit.
 ### Diona Sacrifial Proc Inconsistency
 
 **By:** Homura\#9806  
-**Added:** 2022-02-14  
+**Added:** <Version date="2022-02-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936983999581159454_942896166872440872_transcript-sac-procs-on-diona.html)
 
 **Finding:**  

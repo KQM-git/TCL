@@ -6,7 +6,7 @@ Main Page
 ## Bokuso Box Can Crit
 
 **By:** melon\#9323  
-**Added:** 2022-02-20  
+**Added:** <Version date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945129398321950720_transcript-bokuso-box-can-crit-and-proc-fav.html)
 
 **Finding:**  

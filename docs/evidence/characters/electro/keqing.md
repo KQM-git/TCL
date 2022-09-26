@@ -13,7 +13,7 @@ search: false
 ### Keqing N4 has no iframe
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -33,7 +33,7 @@ Clearing an old misconception. Explaining the N4 behavior.
 ### Keqing Dragonstrike after E
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -48,7 +48,7 @@ Not particularly significant, but it is an interesting tech that can lead to sat
 ### Hurling the Stiletto does not generate particles
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -70,7 +70,7 @@ Her particle generation is locked behind the second parts of her Skill. Either a
 ### Aiming and releasing E too fast can transform it into a Press E effect
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -87,7 +87,7 @@ This is relevant in situations where inputs are usually fast-paced, like in comb
 ### Stellar Restoration duration
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -104,7 +104,7 @@ This matters because it can be possible to start with Keqing E in a rotation, ha
 ### Stellar Restoration Snapshot Mechanics
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -161,7 +161,7 @@ This matters for rotation crafting. Better understanding of Keqing's kit.
 ### Electro infusion can expire while plunging
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -176,7 +176,7 @@ Not particularly significant in combat, but it is worth noting that this _can_ h
 ### Keqing 360 no scope
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -195,7 +195,7 @@ Some technical stuff. Kinda poggers.
 ### Starward Sword can be burst-cancelled
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -216,7 +216,7 @@ Very poggers. Free Burst!
 #### A4 Crit Rate and ER Buff Duration
 
 **By:** r.rei\#2844  
-**Added:** 2021-11-10  
+**Added:** <Version date="2021-11-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-crit-buff-duration.html)
 
 **Finding:**  
@@ -256,7 +256,7 @@ In perfect conditions, C1 essentially adds 100% damage to her E2, which can be b
 ### Keqing C1 damage
 
 **By:** jamberry#7142  
-**Added:** 2021-08-07  
+**Added:** <Version date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -272,7 +272,7 @@ Damage calculations for Keqing.
 ### Keqing C1 proc order
 
 **By:** Rathalos\#2875  
-**Added:** 2022-07-18  
+**Added:** <Version date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -290,7 +290,7 @@ This means that it is possible for Keqing to hit up to 3 times before hitting E2
 ### Keqing C2 Procs Inconsistently
 
 **By:** Sayline#5959  
-**Added:** 2021-10-24  
+**Added:** <Version date="2021-10-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880450784465129492_902064461525975080_transcript-c2-keqing-proc-consistency.html)
 
 **Finding:**  
@@ -313,7 +313,7 @@ Calculating Keqing energy needs with C2 in mind is hard to do with its inconsist
 ### Keqing Pale Flame Set Bonus
 
 **By:** Ayzel\#7399  
-**Added:** 2021-05-01  
+**Added:** <Version date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836981654962569267_838582070044655616_transcript-keqing-pale-flame-set-bonus.html)
 
 **Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.

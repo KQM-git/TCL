@@ -11,7 +11,7 @@ search: false
 ## Grass Fires in Friends' Teapots
 
 **By:** Ayzel\#7399  
-**Added:** 2021-05-03  
+**Added:** <Version date="2021-05-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837081734783828070_838663326417289246_transcript-grass-in-friends-teapots.html)
 
 **Finding:** Lighting grass on fire will sometimes only take 1 unit of pyro in a friend's teapot.

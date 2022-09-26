@@ -9,7 +9,7 @@ search: false
 ## Ley Line Aura Duration
 
 **By:** Monochrom9\#8058, Carrier5by5\#8394, Zeitraffer\#1074, muakasan\#2792, Asaki\#9139, Pitty Pat\#0286, Kimaen\#3382  
-**Added:** 2021-06-03  
+**Added:** <Version date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804180847497314334_850175158378561556_transcript-leyline-auraduration.html)
 
 **Findings:**  

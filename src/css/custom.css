@@ -68,3 +68,11 @@ div[role="tabpanel"] {
     grid-template-columns: 1fr;
   }
 }
+
+/* Version highlight */
+.version-hl-error {
+  color: var(--ifm-color-danger-dark);
+}
+.version-hl-warning {
+  color: var(--ifm-color-warning-dark);
+}

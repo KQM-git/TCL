@@ -13,7 +13,7 @@ search: false
 ### Maidstrike vs N3D \(Dragonstrike\)
 
 **By:** sakuno\#7950  
-**Added:** 2021-03-22
+**Added:** <Version date="2021-03-22" />
 
 **Theory:**
 
@@ -193,7 +193,7 @@ Popping shield before burst guarantees two heal instances while invulnerable.
 ### Noelle’s Skill Hit Activates Healing
 
 **By:** castiel\#0415  
-**Added:** 2022-08-21  
+**Added:** <Version date="2022-08-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)
 
 **Finding:**  
@@ -228,7 +228,7 @@ This means that users of whiteblind needs to keep the stack at max or stack it b
 
 #### Noelle's Spin Damage on C2 is Additive
 
-**By**: pikachusurprised \#6934  
+**By:** pikachusurprised \#6934  
 **Added:**: 2021-04-16
 
 **Finding:** The 15% spin damage bonus on C2 behaves like most other dmg% sources, meaning it is additive and goes into the formula as \(1 + dmg%\).
@@ -306,7 +306,7 @@ This confirms what was already common knowledge: only use spin if you need to he
 ### Noelle C4 DS
 
 **By:** Tarcc\#7510  
-**Added:** 2021-05-01  
+**Added:** <Version date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837604511203721256_838347194591215656_transcript-noelle-c4-ds.html)
 
 **Finding:**  
@@ -327,7 +327,7 @@ What I had found is that the hitstun of the shield breaking \(Noelle c4\) can al
 ### Noelle's C4 damage
 
 **By:** jamberry#7142  
-**Added:** 2021-08-07  
+**Added:** <Version date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -344,7 +344,7 @@ Damage calculations for Noelle.
 ### Noelle C6 Burst Extension
 
 **By:** JonahFarc\#7056  
-**Added:** 2021-10-18  
+**Added:** <Version date="2021-10-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895691894825312256_899778880544587776_transcript-noelle-burst-extension.html)
 
 **Finding:**  
@@ -372,7 +372,7 @@ Noelle can maximize her burst duration without getting a kill, reducing her batt
 ### How does 2NO interact with Noelle Q?
 
 **By:** Kibouo\#1698  
-**Added:** 2020-12-18
+**Added:** <Version date="2020-12-18" />
 
 **Evidence:**
 

@@ -9,7 +9,7 @@ search: false
 ## Properties of 0 Damage Attacks
 
 **By:** NZPIEFACE\#8439 and kol\#1593  
-**Added:** 2021-12-13  
+**Added:** <Version date="2021-12-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896841983648206859_919060551433347102_transcript-properties-of-0-damage-attacks.html)
 
 **Finding:**  

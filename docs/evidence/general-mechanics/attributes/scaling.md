@@ -11,7 +11,7 @@ search: false
 ## Separate Scaling Characters
 
 **By:** Mateng\#4507  
-**Added:** 2021-07-07  
+**Added:** <Version date="2021-07-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847605896133738536_858800978111627274_transcript-separate-scaling-characters.html)
 
 [Link to Document](https://docs.google.com/spreadsheets/d/1y4O_AAd0bvBm40E9TFeAhxF72AHiT0O9wsm8omJ7ASE/edit?usp=sharing)

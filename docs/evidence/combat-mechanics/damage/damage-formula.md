@@ -11,7 +11,7 @@ search: false
 ## Outcoming and incoming healing bonuses are additive
 
 **By:** ItzSomebody\#0029  
-**Added:** 2021-08-09  
+**Added:** <Version date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874018516842475600_874090458991706122_transcript-outcoming-incoming-healing-additive.html)
 
 **Finding:**  
@@ -26,7 +26,7 @@ The two are additive.
 ## Defense shred is hard capped at 90%
 
 **By:** Phana\#0420, Mcpie\#8672, jamberry\#7142  
-**Added:** 2021-08-09  
+**Added:** <Version date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_873886801348153384_874084646370045952_transcript-defense-shred-caps-at-90.html)
 
 **Finding:**
@@ -48,7 +48,7 @@ Can't go past 100% damage increase.
 ## Damage Reduction Mechanics
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
-**Added:** 2022-07-22  
+**Added:** <Version date="2022-07-22" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/damage-reduction-mechanics)
 
 **Finding:**  
