@@ -119,9 +119,9 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='q'/>
 
 | Attribute                | Burst                                    |
-| :----------------------- | :--------------------------------------- | --- |
-| Titanbreaker DMG \(T9%\) | 696.32%                                  | 1A  |
-| Stormcluster DMG \(T9%\) | 58% (each)                               | 1A  |
+| :----------------------- | :--------------------------------------- |
+| Titanbreaker DMG \(T9%\) | 696.32%                                  |
+| Stormcluster DMG \(T9%\) | 58% (each)                               |
 | Cast Frames              | 80 (60 with swap)                        |
 | Energy Frame             | 54                                       |
 | CD Frame                 | 48                                       |

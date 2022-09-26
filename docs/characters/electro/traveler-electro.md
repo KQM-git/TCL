@@ -153,10 +153,10 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='q'/>
 
 | Attribute                   | Burst                               |
-| :-------------------------- | :---------------------------------- | --- |
+| :-------------------------- | :---------------------------------- |
 | Skill DMG \(T9%\)           | 194.48%                             |
 | Falling Thunder DMG \(T9%\) | 55.76%                              |
-| Energy Regeneration         | 1                                   | --  |
+| Energy Regeneration         | 1                                   |
 | Cast Frames                 | 60                                  |
 | Energy Frame                | 42                                  |
 | CD Frame                    | 36                                  |
