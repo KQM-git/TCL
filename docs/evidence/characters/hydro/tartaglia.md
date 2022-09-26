@@ -51,6 +51,7 @@ Potential interference in niche party combo situations.
 
 **By:** Poro\#4695  
 **Added:** <Version date="2022-01-29" />  
+**Last tested:** <VersionHl date="2022-01-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930377454068064266_936802993200848906_transcript-childe-ranged-to-melee-na-combo.html)
 
 **Finding:**  
@@ -70,6 +71,7 @@ Better understanding of how melee combos work.
 
 **By:** yourmom\#9901  
 **Added:** <Version date="2021-08-01" />  
+**Last tested:** <VersionHl date="2021-08-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870347001961799680_871413502487691354_transcript-childe-e-cooldown-resets-upon-death.html)
 
 **Finding:**  
@@ -84,7 +86,8 @@ Better understanding of how melee combos work.
 ### Elemental Skill and Attack or Burst on the Same Frame
 
 **By:** BowTae\#0141  
-**Added:** <Version date="2022-01-31" />
+**Added:** <Version date="2022-01-31" />  
+**Last tested:** <VersionHl date="2022-01-31" />
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934193183104049242_937185816462110740_transcript-childe-stance-change-shenanigans.html)
 
 **Finding:**  
@@ -130,6 +133,7 @@ Skill and Burst on the Same Frame \(I will call this \[EQ\]\):
 
 **By:** yolitme0\#0579 and BowTae\#0141  
 **Added:** <Version date="2022-05-23" />  
+**Last tested:** <VersionHl date="2022-05-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_978312827905396806_transcript-childe-e-cooldown-is-6-seconds-when-immediately-swapping.html)
 
 **Finding:**  
@@ -168,7 +172,8 @@ Childe can provide additional damage even without C4 when he's off-field.
 ### Riptide Slash Particle Gen ICD
 
 **By:** Zeitraffer\#1074  
-**Added:** <Version date="2021-03-19" />
+**Added:** <Version date="2021-03-19" />  
+**Last tested:** <VersionHl date="2021-03-19" />
 
 **Finding:**  
 As multiple players had pointed out, Childe seems to have a fixed 3-second ICD on his particle generation on Riptide Slash. This disproved my previous claim of it generating a particle every proc.
@@ -185,6 +190,7 @@ Just a clarification on how his particle generation works.
 
 **By:** Daybreak#0584  
 **Added:** <Version date="2021-07-10" />  
+**Last tested:** <VersionHl date="2021-07-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_862748539826339860_863314591437029416_transcript-riptide-does-not-snapshot.html)
 
 **Finding:**  
@@ -213,6 +219,7 @@ Many of Childe’s comps revolve around using Bennet as a healer. Being aware of
 
 **By:** MidnightMax.Thai\#7849, GottaGoFast\#7876, and BowTae\#0141  
 **Added:** <Version date="2021-12-13" />  
+**Last tested:** <VersionHl date="2021-12-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_916458832723574835_920135102216958032_transcript-childe-phys-shot-riptide-mark.html)
 
 **Finding:**  
@@ -238,7 +245,8 @@ Can be used to apply Riptide and Hydro onto to ranged enemies very quickly, whic
 ### Chongyun C2 E field affects Childe’s melee stance cooldown
 
 **By:** ibvfteh\#6658  
-**Added:** <Version date="2020-12-19" />
+**Added:** <Version date="2020-12-19" />  
+**Last tested:** <VersionHl date="2020-12-19" />
 
 **Finding:**
 
@@ -257,6 +265,7 @@ No matter where Childe is entering his Melee Stance, if he's staying inside of C
 
 **By:** Daybreak#0584  
 **Added:** <Version date="2021-09-04" />  
+**Last tested:** <VersionHl date="2021-09-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883202269938610226_883489841524924456_transcript-beidou-q-on-childe-riptides.html)
 
 **Finding:**  
@@ -294,6 +303,7 @@ Refrain from attacking slimes in your melee form. An obvious fact, but not obvio
 
 **By:** SaosKreator\#2700  
 **Added:** <Version date="2021-05-29" />  
+**Last tested:** <VersionHl date="2021-05-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847145221426642985_848318293931589662_transcript-childe-melee-proc-prototype-crescent.html)
 
 **Finding:**  
@@ -311,6 +321,7 @@ Hopefully, by knowing this, people can start twiddling around this and find much
 
 **By:** tenten#1010  
 **Added:** <Version date="2021-06-20" />  
+**Last tested:** <VersionHl date="2021-06-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846872744032469012_856371265799716864_transcript-childe-4pf.html)
 
 **Finding:**  
@@ -326,6 +337,7 @@ Childe can stack the 4-piece Pale Flame passive in his melee form with riptides.
 
 **By:** EdisonsMathsClub\#6469  
 **Added:** <Version date="2021-05-10" />  
+**Last tested:** <VersionHl date="2021-05-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840462878556684308_841458714170884116_transcript-childe-melee-attack-missing-ruin-guard.html)
 
 **Finding:**  
@@ -348,6 +360,7 @@ When using Childe's melee CA against stunned ruin guards, go to the side to reli
 
 **By:** Rainfury#8343  
 **Added:** <Version date="2021-06-21" />  
+**Last tested:** <VersionHl date="2021-06-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845700747176837171_856663221296168960_transcript-childe-aa-vape.html)
 
 **Finding:**  
@@ -369,6 +382,7 @@ Just a fun little finding. Can be made into meme builds for a full atk% childe (
 
 **By:** Daybreak\#0584  
 **Added:** <Version date="2021-07-07" />  
+**Last tested:** <VersionHl date="2021-07-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_859464550046367764_862447773059252224_transcript-childe-double-forward-vape.html)
 
 **Finding:**  

@@ -14,6 +14,7 @@ description: For entries related to resources or resource efficiency
 
 **By:** CQLQRS#7853  
 **Added:** <Version date="2021-10-18" />  
+**Last tested:** <VersionHl date="2021-10-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896356040747122698_899839089124179968_transcript-maximum-original-resin.html)
 
 **Finding:**  
@@ -31,7 +32,8 @@ Better understanding of the Resin system.
 ### Resin to Stardust Exchange Comparison
 
 **By:** Mateng\#4507  
-**Added:** <Version date="2021-04-14" />
+**Added:** <Version date="2021-04-14" />  
+**Last tested:** <VersionHl date="2021-04-14" />
 
 **Findings**: Blue \(XP\) leylines are more stardust-efficient than Gold \(Mora\) leylines. They are 65.33 Stardust/Resin, while Gold leylines and Magic Crystal Ore conversion from the Blacksmiths are both 60 Stardust/Resin.
 
@@ -47,6 +49,7 @@ I used simple exchange rate math to relate XP materials, Magic Crystal Ores, and
 
 **By:** ceeeleste#3568  
 **Added:** <Version date="2021-06-28" />  
+**Last tested:** <VersionHl date="2021-06-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856083274458857493_858443928244322334_transcript-2-star-artifact-value.html)
 
 **Finding:**  
@@ -80,6 +83,7 @@ Vendor is 70.99% more worth your resin on average, and 25.26% more worth for a b
 
 **By:** K\឵឵#4000  
 **Added:** <Version date="2021-07-07" />  
+**Last tested:** <VersionHl date="2021-07-07" />  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855808417447804938_858443909838929940_transcript-the-two-star-artifacts-you-buy-from-the-npc-shops-is-actually-still-worth-it.html)
 
 **Finding:**  
@@ -100,6 +104,7 @@ The mora cost of buying out the NPC shop is equal to 360 realm currency.
 
 **By:** tooflesswulf\#8456  
 **Added:** <Version date="2022-05-12" />  
+**Last tested:** <VersionHl date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974477543161872455_transcript-artifact-probability-thesis.html)
 
 **Theory:**  
@@ -126,6 +131,7 @@ Significance:
 
 **By:** Mateng\#4507  
 **Added:** <Version date="2021-06-06" />  
+**Last tested:** <VersionHl date="2021-06-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832668930580807750_851210889818669097_transcript-realm-currency-exchange-rate-analysis.html)
 
 **Theory**  
@@ -195,6 +201,7 @@ For Travelers who wish to maximize Stardust and minimize RC: target MEOs -&gt; E
 
 **By:** chowr\#0522  
 **Added:** <Version date="2022-03-16" />  
+**Last tested:** <VersionHl date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953734255110918204_transcript-realm-currency-extended-analysis.html)
 
 **Abstract:**  
@@ -246,6 +253,7 @@ Technically, it is true that, by following this method, it is more efficient to 
 
 **By:** jdeeyu\#9927  
 **Added:** <Version date="2021-05-22" />  
+**Last tested:** <VersionHl date="2021-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844202218369712199_845490580011352105_transcript-new-albedo-eula-crafting-passive-efficiency-vs-mona-xingqiu.html)
 
 **Finding:** Albedo's crafting passive isn't just straight 20% better than Mona's crafting passive \(as stated in KQM guide\) due to the fact that Mona's passive also allows for more subsequent crafting to be done, therefore more trials, therefore more chances of success.
@@ -266,6 +274,7 @@ Buy the BP if you have the money.
 
 **By:** Bobrokrot#0111  
 **Added:** <Version date="2021-07-13" />  
+**Last tested:** <VersionHl date="2021-07-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851577795868098600_864446326178447370_transcript-overworld-farming-statistics.html)
 
 **Finding:**
@@ -288,7 +297,8 @@ There are two types of artifact spots:
 ### Crabs Respawn
 
 **By:** Mcpie#8672  
-**Added:** <Version date="2021-07-17" />
+**Added:** <Version date="2021-07-17" />  
+**Last tested:** <VersionHl date="2021-07-17" />
 
 **Finding:**  
 Crabs that you approach and fail to pick up will respawn after leaving their render distances and coming back.
@@ -304,6 +314,7 @@ Crabs that you approach and fail to pick up will respawn after leaving their ren
 
 **By:** derek\#9488  
 **Added:** <Version date="2021-12-22" />  
+**Last tested:** <VersionHl date="2021-12-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922577467930202173_923407105925468190_transcript-random-event-cap.html)
 
 **Finding:**  
@@ -320,6 +331,7 @@ You can do 10 random events for mora, companionship exp, and enhancement ores ev
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-08-08" />  
+**Last tested:** <VersionHl date="2021-08-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868107312617889803_874106706328690778_transcript-inazuma-bake-danuki-respawn.html)
 
 **Finding:**  
@@ -338,7 +350,8 @@ Some of them respawn artifacts so it might be a reliable way of getting more art
 ### Bush Droprates
 
 **By:** gideleon1\#2188  
-**Added:** <Version date="2021-04-11" />
+**Added:** <Version date="2021-04-11" />  
+**Last tested:** <VersionHl date="2021-04-11" />
 
 **Finding:** There is an 8% chance to get something from a broken bush.
 
@@ -362,6 +375,7 @@ I didn't assume anyone would want a two hour video of me just breaking bushes, s
 
 **By:** Anmol43\#1917  
 **Added:** <Version date="2021-04-20" />  
+**Last tested:** <VersionHl date="2021-04-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_833731587279028254_834272842425171978_transcript-all-food-cost-calcs.html)
 
 **Finding:** Documenting the cost, in mora, of all food items in Genshin Impact.
@@ -384,7 +398,8 @@ As other effects such as ATK buffs and Crit Rate buffs cannot be stacked, it is 
 ### Duplicate Special Dish
 
 **By:** denmax#9293  
-**Added:** <Version date="2021-07-11" />
+**Added:** <Version date="2021-07-11" />  
+**Last tested:** <VersionHl date="2021-07-11" />
 
 **Finding:**  
 Characters with extra dish cooking bonus can double their special dishes.
@@ -399,6 +414,7 @@ Just something to keep in mind.
 
 **By:** It3mUs3r#4778 and Creonalia#2818  
 **Added:** <Version date="2021-10-24" />  
+**Last tested:** <VersionHl date="2021-10-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_899016596054495253_902068304749944852_transcript-crafted-food-item-limit.html)
 
 **Finding:**  
@@ -419,6 +435,7 @@ Food is not infinite.
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-08-14" />  
+**Last tested:** <VersionHl date="2021-08-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868135553764311051_876092967356629032_transcript-investigation-daily-limit.html)
 
 **Theory:**  
@@ -440,6 +457,7 @@ Additionally, because it's possible to go beyond 100 by not leaving the zone on 
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-08-14" />  
+**Last tested:** <VersionHl date="2021-08-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_869052058752385034_876092976483418132_transcript-daily-investigation-limit-resets-at-daily-reset.html)
 
 **Theory:**  
@@ -456,6 +474,7 @@ Allows for early artifact route run if you still have uninvestigated spots.
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-08-14" />  
+**Last tested:** <VersionHl date="2021-08-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875747620621004800_876093025124761600_transcript-investigation-spots-post-daily-cap.html)
 
 **Theory:**  
@@ -476,6 +495,7 @@ The above video displays that investigation spots are stored in your memory, and
 
 **By:** makeway4pK\#3901  
 **Added:** <Version date="2022-03-16" />  
+**Last tested:** <VersionHl date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953810490323255406_transcript-multiple-arti-clusters-after-100.html)
 
 **Findings:**
@@ -510,6 +530,7 @@ Allows collecting artifacts from more than \(the previous max of\) [129 spots](h
 
 **By:** mol\#3280  
 **Added:** <Version date="2021-06-06" />  
+**Last tested:** <VersionHl date="2021-06-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838678429137633311_851309968694837268_transcript-tree-chopping-memory.html)
 
 **Finding:**  
@@ -525,6 +546,7 @@ There is no quick method to reset tree resources beyond hitting an 11th tree and
 
 **By:** mol\#3280, wiremash\#0433, Aluminum\#5462  
 **Added:** <Version date="2021-06-06" />  
+**Last tested:** <VersionHl date="2021-06-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839914390328573963_851314539345215509_transcript-marking-non-enemies-for-skill-hits.html)
 
 **Findings:**  
@@ -545,6 +567,7 @@ Attacks are not equal in terms player-environment interaction. Most skills can n
 
 **By:** Aluminum\#5462  
 **Added:** <Version date="2021-12-12" />  
+**Last tested:** <VersionHl date="2021-12-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903482500876210186_919141033718202388_transcript-trees-are-pepega.html)
 
 **Finding:**  
@@ -564,6 +587,7 @@ I am the Lorax. I speak for the trees.
 
 **Contributors:** Aluminum\#5462, Green sabre\#0540, Kourinn\#6001, mol\#3280, Steph\#3614, JenjenJL\#6582, Greyhound\#7836  
 **Added:** <Version date="2021-06-06" />  
+**Last tested:** <VersionHl date="2021-06-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836973979108769822_851323163400208404_transcript-lumberjack-tier-list.html)
 
 [Link to Tierlist](https://docs.google.com/spreadsheets/d/1Q4HKzkaw7YFNZyIJSjRINZJonFe1kiDwz1dEbpcZiNk/edit#gid=937070148)
@@ -579,6 +603,7 @@ Summary of Results, most efficient units for tree chopping:
 
 **By:** Creonalia\#2818  
 **Added:** <Version date="2021-05-21" />  
+**Last tested:** <VersionHl date="2021-05-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842601710391787551_845506814519148574_transcript-2k-wood-daily-cap.html)
 
 **Finding:** You can only collect 2,000 of any specific wood per day. This limit resets at server reset and cannot be reset by relogging/teleporting.
@@ -599,6 +624,7 @@ Note that although I did need to teleport to get wood after reset, teleporting a
 
 **By:** Homura\#9806 and mol\#3280  
 **Added:** <Version date="2022-02-20" />  
+**Last tested:** <VersionHl date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945134145506517052_transcript-capped-wood-types-register-in-chopping-memory.html)
 
 **Finding:**  
@@ -619,6 +645,7 @@ Since capped trees do register in memory, this allows for hybrid routes (such as
 
 **By:** Peekays\#2722  
 **Added:** <Version date="2021-09-14" />  
+**Last tested:** <VersionHl date="2021-09-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882273258806849627_885691065707925514_transcript-battle-pass-value-for-resin.html)
 
 **Finding:**  
@@ -638,6 +665,7 @@ Also average talent domain rewards sheet (credit to carrier/Data Gathering): [Sp
 
 **By:** lapidibus#8146 and δανιελ#6040  
 **Added:** <Version date="2022-05-07" />  
+**Last tested:** <VersionHl date="2022-05-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_972595731611398154_transcript-elemental-infusion-hampers-wood-cutting.html)
 
 **Finding:**  
@@ -654,6 +682,7 @@ Characters that involuntarily infuse elements (e.g. Ayaka) are sub-par at choppi
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2022-01-10" />  
+**Last tested:** <VersionHl date="2022-01-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928504588498272296_930045464001257522_transcript-weekly-bp-cap-during-launch-week.html)
 
 **Finding:** Reaching BP Weekly EXP limit during launch week requires sacrifices.  
@@ -679,7 +708,8 @@ Note that **500,000 Mora** and **Purchase 2 item from the Teapot Traveling Sales
 ### Destroy Function Mechanics
 
 **By:** xf3\#3123  
-**Added:** <Version date="2021-04-08" />
+**Added:** <Version date="2021-04-08" />  
+**Last tested:** <VersionHl date="2021-04-08" />
 
 **Finding:**
 
@@ -706,6 +736,7 @@ Destroying weapons is not efficient and causes you to lose weapon XP. Destroying
 
 **By:** Kgbeast#6738  
 **Added:** <Version date="2021-10-09" />  
+**Last tested:** <VersionHl date="2021-10-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893668250263633980_896141552135569438_transcript-capped-enhancement-ore.html)
 
 **Findings/Evidence:**  
@@ -733,6 +764,7 @@ This will never happen to you though.
 
 **By:** Cypher130n\#6831  
 **Added:** <Version date="2022-03-29" />  
+**Last tested:** <VersionHl date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958495995744894976_transcript-crystal-chunk-inventory-cap.html)
 
 **Findings:**
@@ -751,6 +783,7 @@ Don't become an Ore Archon like me.
 
 **By:** makeway4pK\#3901  
 **Added:** <Version date="2022-03-22" />  
+**Last tested:** <VersionHl date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955999927236984862_transcript-berry-max.html)
 
 **Finding:**  

@@ -13,6 +13,7 @@ search: false
 ### Dimensions of Albedo’s Elemental Skill AoE
 
 **Added:** <Version date="2020-12-28" />  
+**Last tested:** <VersionHl date="2020-12-28" />  
 **By:** HailCorporate\#2970
 
 **Finding:**  
@@ -35,6 +36,7 @@ I've experienced placing Albedo's flower on top of Electro Hypostasis' summons d
 
 **By:** Steno\#6940  
 **Added:** <Version date="2021-04-21" />  
+**Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834274373493456976_834662830120239115_transcript-albedo-e-snapshot.html)
 
 **Finding:** Albedo's elemental skill snapshots, meaning that damage for its entire duration is calculated when the skill is cast, so any buffs gained/lost after the skill is cast will not affect the skill's damage.
@@ -49,6 +51,7 @@ Albedo's skill does not get affected by Ningguang's Jade Screen buff, since Albe
 
 **By:** NZPIEFACE\#8439, Kolibri\#7675  
 **Added:** <Version date="2022-06-14" />  
+**Last tested:** <VersionHl date="2022-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986267083748835339_transcript-albedo-e-is-pepega.html)
 
 **Finding:**  
@@ -66,6 +69,7 @@ Albedo's on-damage effect appears to trigger client-side and from all sources of
 
 **By:** gtrain#9987  
 **Added:** <Version date="2021-08-13" />  
+**Last tested:** <VersionHl date="2021-08-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_875475337687990272_875585791869468722_transcript-albedo-fatal-blossom-snapshot.html)
 
 **Finding:**  
@@ -93,6 +97,7 @@ To maximize Albedo Q damage, E should snapshot any attack buffs, as otherwise th
 
 **By:** Poisonite\#0195  
 **Added:** <Version date="2022-04-08" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962008806097838120_transcript-albedo-a4-triggers-during-q-animation.html)
 
 **Finding:**  
@@ -115,6 +120,7 @@ This info can help in rotation crafting, where people would need to know how lon
 
 **By:** Markoda\#5294  
 **Added:** <Version date="2022-08-21" />  
+**Last tested:** <VersionHl date="2022-08-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/albedo-cinnabar-spindle-buffs-both-hits-of-e-n1-combo)
 
 **Finding:**  

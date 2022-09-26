@@ -35,6 +35,7 @@ search: false
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-30" />  
+**Last tested:** <VersionHl date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-kazuha-plunge-mechanics)
 
 **Finding:**  
@@ -66,6 +67,7 @@ Potential for some interesting combos. Cool stuff. Very fun.
 
 **By:** CQLQRS#7853  
 **Added:** <Version date="2021-09-25" />  
+**Last tested:** <VersionHl date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885544421637120030_891166004669984848_transcript-kazuha-e-causes-fall-damage.html)
 
 **Finding:**  
@@ -91,6 +93,7 @@ This feature is most likely unintended, but not a bug due to the janky nature of
 
 **By:** Quark#7392  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933053726711754882_934052086797172777_transcript-kazuha-tap-e-air-time-can-be-shortened.html)
 
 **Finding:**  
@@ -107,6 +110,7 @@ This tech is useful if you only want to tap E with Kazuha without initiating a p
 
 **By:** BowTae\#0141  
 **Added:** <Version date="2022-03-29" />  
+**Last tested:** <VersionHl date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958505561622720512_transcript-kazuha-land-cancel.html)
 
 **Finding:**  
@@ -129,6 +133,7 @@ Kazuha Swag.
 
 **By:** Charisma\#5567  
 **Added:** <Version date="2022-05-14" />  
+**Last tested:** <VersionHl date="2022-05-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_975073739207225414_transcript-kazuha-e-absorption-bug.html)
 
 **Finding:**  
@@ -166,6 +171,7 @@ As for an explanation to why this bug occurs, it's probably due to funky aura ch
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-14" />  
+**Last tested:** <VersionHl date="2022-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_986310266688012378_transcript-kazuha-keeps-midare-ranzan.html)
 
 **Finding:**  
@@ -183,6 +189,7 @@ More understanding about how his Elemental Skill works. Probably fluff, but cool
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-30" />  
+**Last tested:** <VersionHl date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-kazuha-plunge-mechanics)
 
 **Finding:**  
@@ -200,6 +207,7 @@ Understanding how Kazuha normally works. Plunging immediately after a tap E guar
 
 **By:** Rimuru\#8163  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/can-kazuha-infuse-element-during-plunge-from-benny-c6-and-chongers)
 
 **Finding:**  
@@ -226,6 +234,7 @@ Kazuha's E > plunge can be considered as an anemo infusion which cannot be overr
 
 **By:** HowLxxxx\#4676  
 **Added:** <Version date="2022-07-25" />  
+**Last tested:** <VersionHl date="2022-07-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-burst-absorption-timing-or-mechanics)
 
 **Finding:**  
@@ -256,6 +265,7 @@ Timing Burst on certain cases.
 
 **By:** Falafel\#5123  
 **Added:** <Version date="2022-04-09" />  
+**Last tested:** <VersionHl date="2022-04-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962496151704182834_transcript-kazuhas-dynamically-changing-buff.html)
 
 **Finding:**  
@@ -291,6 +301,7 @@ This finding can potentially impact rotation planning. When using teams involvin
 
 **By:** Zakharov\#5645, Rainfury\#8343  
 **Added:** <Version date="2022-08-08" />  
+**Last tested:** <VersionHl date="2022-08-08" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/kazuha-and-sucrose-interaction)
 
 **Finding:**  

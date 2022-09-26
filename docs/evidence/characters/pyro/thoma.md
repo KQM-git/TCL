@@ -40,6 +40,7 @@ search: false
 
 **By:** Latiwings#3308  
 **Added:** <Version date="2021-12-30" />  
+**Last tested:** <VersionHl date="2021-12-30" />  
 [Dicussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922638877028671508_925694499739545660_transcript-thoma-shield-mechanics.html)
 
 **Finding #1:**  

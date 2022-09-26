@@ -23,6 +23,7 @@ The [Genshin Impact Fandom Wiki](https://genshin-impact.fandom.com/wiki/Interrup
 
 **By:** Hu taoist#2140  
 **Added:** <Version date="2021-06-14" />  
+**Last tested:** <VersionHl date="2021-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845919037967171604_854009128891973692_transcript-character-poise-is-based-on-weapon.html)
 
 **Finding:**  
@@ -55,6 +56,7 @@ For melee units: using Beidou, XQ and XL vs a basic hilli mob
 
 **By:** ColaSenami#5312  
 **Added:** <Version date="2021-06-20" />  
+**Last tested:** <VersionHl date="2021-06-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_850586648760549377_856383288956813342_transcript-jean-fall-dmg-60-pct-better-stagger.html)
 
 **Finding:**  
@@ -71,6 +73,7 @@ Before launching an opponent with Jean E, reduce its poise to 0 and stagger them
 
 **By:** cucunter#5971  
 **Added:** <Version date="2021-10-03" />  
+**Last tested:** <VersionHl date="2021-10-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893523719295750194_894208146581618688_transcript-interrupt-resistance-stacking.html)
 
 **Finding:**  

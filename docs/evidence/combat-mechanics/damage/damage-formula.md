@@ -12,6 +12,7 @@ search: false
 
 **By:** ItzSomebody\#0029  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874018516842475600_874090458991706122_transcript-outcoming-incoming-healing-additive.html)
 
 **Finding:**  
@@ -27,6 +28,7 @@ The two are additive.
 
 **By:** Phana\#0420, Mcpie\#8672, jamberry\#7142  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_873886801348153384_874084646370045952_transcript-defense-shred-caps-at-90.html)
 
 **Finding:**
@@ -49,6 +51,7 @@ Can't go past 100% damage increase.
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-07-22" />  
+**Last tested:** <VersionHl date="2022-07-22" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/damage-reduction-mechanics)
 
 **Finding:**  

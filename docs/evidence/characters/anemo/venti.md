@@ -16,6 +16,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **By:** sexyeboy69\#3215  
 **Added:** <Version date="2021-05-23" />  
+**Last tested:** <VersionHl date="2021-05-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834085780611137607_845831330662187028_transcript-venti-autoattack-after-skill-faster-switching.html)
 
 **Finding:** Doing an auto attack as soon as possible after using Venti's e allows the user to swap to a different character faster.
@@ -28,6 +29,7 @@ Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111
 
 **By:** Charliex3000#9403  
 **Added:** <Version date="2021-10-18" />  
+**Last tested:** <VersionHl date="2021-10-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894423798416310304_899832505866289192_transcript-10-frame-venti-e.html)
 
 **Finding:** Venti Elemental Skill can consistently be cancelled at 10 frames.
@@ -41,6 +43,7 @@ The inputs are: Hold E for 9 frames. Release E. Press Q.
 
 **By:** BowTae\#0141  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964968100883726397_transcript-venti-ca-e-cancel.html)
 
 **Finding:**  
@@ -70,7 +73,8 @@ In more serious terms, this has little practical use for the majority of Venti u
 ### Venti Q Absorbed Element ICD
 
 **By:** Charliex3000\#9403  
-**Added:** <Version date="2021-04-05" />
+**Added:** <Version date="2021-04-05" />  
+**Last tested:** <VersionHl date="2021-04-05" />
 
 **Finding:** Venti's Burst elemental infusion application follows the standard ICD rules of elemental application every 3rd hit.
 
@@ -82,6 +86,7 @@ In more serious terms, this has little practical use for the majority of Venti u
 
 **By:** soup420\#1634  
 **Added:** <Version date="2021-04-23" />  
+**Last tested:** <VersionHl date="2021-04-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
@@ -101,6 +106,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-05-02" />  
+**Last tested:** <VersionHl date="2021-05-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837853360023011378_838536559040790608_transcript-venti-burst-1u-infusion.html)
 
 **Finding:** Venti's infusion elemental damage on his burst applies 1U of the element it absorbs.
@@ -115,6 +121,7 @@ The last tick of the hydro damage caused by Venti's burst elemental infusion is 
 
 **By:** Charliex3000#9403  
 **Added:** <Version date="2021-09-17" />  
+**Last tested:** <VersionHl date="2021-09-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_887526029508354099_888246550936043610_transcript-venti-ult-anemo-gauge.html)
 
 **Finding:**  
@@ -135,6 +142,7 @@ Venti ult anemo gauge is 1U.
 
 **By:** CC#5588  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931544431885160499_933946366424670218_transcript-venti-elemental-absorption-proc-count-correction.html)
 
 **Finding:** The Additional Elemental DMG from Venti's Burst Procs 13-15 Times.
@@ -174,6 +182,7 @@ Venti ult anemo gauge is 1U.
 
 **By:** jamberry#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -192,6 +201,7 @@ Damage calculations for Venti.
 
 **By:** Hishammm ♡\#0001  
 **Added:** <Version date="2021-05-01" />  
+**Last tested:** <VersionHl date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837587957828419594_838584790323298355_transcript-c6-venti-res-down-duration.html)
 
 **Finding:**  
@@ -235,7 +245,8 @@ Venti's late infusion bug still exists in 1.5: [Youtube](https://www.youtube.com
 ### Venti Burst On Top of Zhongli Pillar
 
 **By:** EdisonsMathsClub\#6469  
-**Added:** <Version date="2021-06-03" />
+**Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />
 
 **Finding:** Venti's Vortex can be fired on top of Zhongli's Pillar
 

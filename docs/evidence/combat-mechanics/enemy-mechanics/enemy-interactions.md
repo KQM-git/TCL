@@ -14,6 +14,7 @@ search: false
 
 **By:** Iron IV\#3832  
 **Added:** <Version date="2021-06-14" />  
+**Last tested:** <VersionHl date="2021-06-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_849182058525229056_854018708397752332_transcript-interrupting-enemies-causes-phantom-attacks.html)
 
 **Bug:**  
@@ -31,6 +32,7 @@ Watch out for enemy attacks if they were interrupted.
 
 **By:** Asaki\#9139, ShampooBrain\#9583, and MeCrush14\#2271  
 **Added:** <Version date="2021-12-21" />  
+**Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920541455452340284_923102157065056346_transcript-enemies-actually-burrow.html)
 
 **Finding:**  
@@ -125,6 +127,7 @@ Characters’ marks \(Riptide, Talisman, Blood Blossom, etc.\) show that some en
 
 **By:** Asaki#9139  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930683788307087360_936213305717035038_transcript-marks-and-statuses.html)
 
 **Finding:**  
@@ -142,6 +145,7 @@ Further testing should be done on the Implode status (Xiangling C2) but that req
 
 **By:** ep1k\#3678  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927244617441751060_936434058165121114_transcript-de-aggro-distances-vary-among-enemies.html)
 
 **Theory:**  
@@ -166,6 +170,7 @@ Insight into the behavior and mechanics of enemies in the Overworld.
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-05-12" />  
+**Last tested:** <VersionHl date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974471796734705694_transcript-elemental-reactions-effects-on-buried-dendro-slime.html)
 
 **Finding:**  
@@ -185,6 +190,7 @@ Significance: Documentation of enemy mechanics.
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2022-05-12" />  
+**Last tested:** <VersionHl date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974425599466668032_transcript-some-enemy-cc-is-level-dependent.html)
 
 **Finding:**  
@@ -216,6 +222,7 @@ Even more Ws for when you're absolutely carrying your low AR friends. Maybe help
 
 **By:** Yukarix\#6534  
 **Added:** <Version date="2021-05-11" />  
+**Last tested:** <VersionHl date="2021-05-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840784074842046504_841877418103799808_transcript-freeze-interaction-on-boss-entities.html)
 
 **Finding:**  
@@ -232,6 +239,7 @@ Freeze teams and melt/vape teams that function off the freeze aura will perform 
 
 **By:** yolitme0\#0579 and BowTae\#0141  
 **Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905296096794902578_920219066747203654_transcript-boss-animations-can-be-cancelled-by-swapping.html)
 
 **Finding:**  
@@ -268,7 +276,8 @@ This may assist in shortening the time required to kill weekly bosses, as well a
 #### How to skip Phase 2 transformation
 
 **By:** Baezal\#0868  
-**Added:** <Version date="2020-12-22" />
+**Added:** <Version date="2020-12-22" />  
+**Last tested:** <VersionHl date="2020-12-22" />
 
 **Finding:**  
 Andrius wolf boss Phase 2 HP cut-off is at 60% - HOWEVER, Andrius will keep staying in Phase 1 if you manage to burst him down below 30%.
@@ -287,6 +296,7 @@ If you dread Andrius phase 2 and you have the ability to skip it, now you can do
 
 **By:** ArchedNosi\#1484  
 **Added:** <Version date="2021-10-09" />  
+**Last tested:** <VersionHl date="2021-10-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891904835862020127_896133877683351662_transcript-azhdaha-has-two-independent-hitboxes.html)
 
 **Finding:**  
@@ -303,6 +313,7 @@ Abilities that have large verticality and the property of being able to tag mult
 
 **By:** xSil3nt\#0961  
 **Added:** <Version date="2022-01-13" />  
+**Last tested:** <VersionHl date="2022-01-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_924709157163122729_931057558175748157_transcript-azhdaha-elements-same-for-all-regions.html)
 
 **Finding:**  
@@ -322,6 +333,7 @@ Co-op cannot be used to have a more favorable/easier elemental matchup against a
 
 **By:** Puffin\#9920  
 **Added:** <Version date="2022-04-04" />  
+**Last tested:** <VersionHl date="2022-04-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_960711833520570378_transcript-you-cant-melt-signora-from-off-field.html)
 
 **Finding:**  
@@ -339,6 +351,7 @@ Better understanding of La Signora's Crimson Lotus Moth mechanic.
 
 **By:** Latiwings\#3308  
 **Added:** <Version date="2022-07-25" />  
+**Last tested:** <VersionHl date="2022-07-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/details-on-signora-dmg-cap)
 
 **Finding:**  
@@ -370,6 +383,7 @@ We now know what is the exact percentage for the cap.
 
 **By:** ᗪᗩᖇᛕ ᕼᗴᖇᗩᒪᗪ\#0209  
 **Added:** <Version date="2021-11-05" />  
+**Last tested:** <VersionHl date="2021-11-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904754824304787466_906425965872291860_transcript-the-dmg-increase-dvalins-dot-does-will-eventually-stop-increasing.html)
 
 **Finding:**  
@@ -401,6 +415,7 @@ Better understanding of Dvalin's DoT attack and how it calculates damage.
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-08-30" />  
+**Last tested:** <VersionHl date="2022-08-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/you-can-apply-hydro-dvalin)
 
 **Finding:**  
@@ -418,6 +433,7 @@ Previously unable to apply Hydro, now able. Fluff.
 
 **By:** Luno\#1337, Trosalio\#0420, and addicted2reading\#7262  
 **Added:** <Version date="2022-05-22" />  
+**Last tested:** <VersionHl date="2022-05-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_978118765076156416_transcript-raiden-boss-oneshot-mechanics.html)
 
 **Finding &amp; Evidence:**  
@@ -451,6 +467,7 @@ Other evidence suggests that dash invincibility frames either do not work at all
 
 **By:** Beast Boy\#2560 and Eduardo\#3671  
 **Added:** <Version date="2022-06-29" />  
+**Last tested:** <VersionHl date="2022-06-29" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/magatsu-mitake-narukami-no-mikoto-attack-pushes-characters-upward)
 
 **Finding:**  
@@ -473,6 +490,7 @@ Cool way to dodge the attack.
 
 **By:** CrazyWeke123\#9720  
 **Added:** <Version date="2021-12-21" />  
+**Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921660671836438558_922624867973619802_transcript-anemo-cube-self-swirl-in-rain.html)
 
 **Finding:** Adequately getting rid of overworld Hydro on the Anemo Hypostasis results in it continuously Swirling itself, this damages the cube and applies Hydro to nearby characters. This can be easily done with 2U Cryo application, as seen in the evidence. Non-sufficent Cryo application does not result in this occcuring.
@@ -498,6 +516,7 @@ Cool way to dodge the attack.
 
 **By:** CQLQRS\#7853  
 **Added:** <Version date="2021-10-30" />  
+**Last tested:** <VersionHl date="2021-10-30" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902502466942287892_903460815556984862_transcript-xl-cryo-regisvine-pepega.html)
 
 **Finding:**  
@@ -523,6 +542,7 @@ Genshin spaghetti at its finest.
 
 **By:** TarZ\#6365  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897646550963093554_898812202541281320_transcript-geo-mc-boulder-can-break-pillar-and-cause-hammer-attack-to-occur-with-geo-hypostasis.html)
 
 **Finding:**  
@@ -540,6 +560,7 @@ This speeds up the fight by making the Geo Hypostasis vulnerable, without having
 
 **By:** EtoPashka\#0690  
 **Added:** <Version date="2022-01-13" />  
+**Last tested:** <VersionHl date="2022-01-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_908382648710348840_931069122559766528_transcript-resistances-and-elem-obj-durability-table.html)
 
 **Finding:**  
@@ -557,6 +578,7 @@ For those that enjoy suffering.
 
 **By:** Santoryu\#4495  
 **Added:** <Version date="2021-12-14" />  
+**Last tested:** <VersionHl date="2021-12-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904928198888939550_920204559543042058_transcript-kenkis-attacks-are-affected-by-hitlag.html)
 
 **Finding:**  
@@ -572,6 +594,7 @@ This makes it way harder to dodge because the Audio Cue is now early, tricking t
 
 **By:** Mr. Pillow\#0065  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964937426567061554_transcript-mango-kenki-phase-change-hp-treshold-update.html)
 
 **Finding:**  
@@ -588,6 +611,7 @@ Updating the boss info.
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-07-05" />  
+**Last tested:** <VersionHl date="2022-07-05" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/maguu-kenki-phase-2-trigger-correction)
 
 **Finding:**  
@@ -612,6 +636,7 @@ Getting to Maguu Kenki's phase 2 is actually harder than you think.
 
 **By:** CQLQRS\#7853 and Akarin\#8270  
 **Added:** <Version date="2021-10-31" />  
+**Last tested:** <VersionHl date="2021-10-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897314204451762206_903464868055756850_transcript-perpetual-polearm-ca-hitbox.html)
 
 **Finding:**  
@@ -631,6 +656,7 @@ If your main DPS relies on Charged Attacks for damage and has the bullet-like an
 
 **By:** Rainfury\#8343  
 **Added:** <Version date="2022-08-22" />  
+**Last tested:** <VersionHl date="2022-08-22" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/pma-minions-and-kill-trigger-interactions)
 
 **Finding:**  
@@ -661,6 +687,7 @@ Helpful for peeps to stop coping with Blackcliff when trying to do PMA nukes �
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-25" />  
+**Last tested:** <VersionHl date="2021-06-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846126762165272666_858192389344854067_transcript-shield-reflection-damage.html)
 
 **Finding:**  
@@ -730,6 +757,7 @@ Might play a major role if at any point we'll have Primo Geovishaps inside the a
 
 **By:** yolitme0\#0579  
 **Added:** <Version date="2022-02-10" />  
+**Last tested:** <VersionHl date="2022-02-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_939977342724477008_941440886649270332_transcript-reflecting-primo-geovishap-shower-can-be-swap-cancelled.html)
 
 **Finding:**  
@@ -749,6 +777,7 @@ Better understanding of the Primordial Shower.
 
 **By:** Monado\#9922  
 **Added:** <Version date="2021-06-04" />  
+**Last tested:** <VersionHl date="2021-06-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836294244434968646_850588687544614992_transcript-abyss-herald-cooldown-mechanic.html)
 
 **Finding:**  
@@ -792,6 +821,7 @@ Better understanding of Abyss Herald mechanics, and which attacks in particular 
 
 **By:** snorting salt\#3888  
 **Added:** <Version date="2021-07-17" />  
+**Last tested:** <VersionHl date="2021-07-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
@@ -813,6 +843,7 @@ Dash iframes do not always work against the bubbles, especially for the abyss ma
 
 **By:** Charisma\#5567  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_931703610918731796_936429690812522496_transcript-rifthound-knockdown-ways.html)
 
 **Theory:**
@@ -848,6 +879,7 @@ Better understanding of enemy interactions.
 
 **By:** Dooners\#6709  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898253461924249600_899178914545532958_transcript-corrosion-damage-mechanics.html)
 
 **Finding:**  
@@ -906,6 +938,7 @@ These values are total loss per stack, for damage per tick simply divide each nu
 
 **By:** Dooners\#6709  
 **Added:** <Version date="2021-11-01" />  
+**Last tested:** <VersionHl date="2021-11-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904216944394256414_904866160300933151_transcript-corrosion-update.html)
 
 **Finding:**  
@@ -928,6 +961,7 @@ Better understanding of Corrosion status.
 
 **By:** Hatsuharufag\#4291  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872854146838061086_874259494719324210_transcript-mirror-maiden-mechanics.html)
 
 **Finding:**  
@@ -959,6 +993,7 @@ Don't be an ape. Don't get hit by attacks with clear visual indication and clear
 
 **By:** gengar\#8426  
 **Added:** <Version date="2021-10-09" />  
+**Last tested:** <VersionHl date="2021-10-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888324080648982558_896137220493299802_transcript-escape-mirror-maiden-trap.html)
 
 **Finding:**  
@@ -995,7 +1030,8 @@ Helpful for Spiral Abyss floor 12.
 #### Standing on Geo MC E skill Restricts Mitachurls to Slime-Throwing Attacks Only
 
 **By:** maxtrouble\#3719  
-**Added:** <Version date="2020-12-19" />
+**Added:** <Version date="2020-12-19" />  
+**Last tested:** <VersionHl date="2020-12-19" />
 
 **Finding:**  
 Standing on top of a construct restricts Mitachurls to slime throwing attack only.
@@ -1012,6 +1048,7 @@ Ai manipulation.
 
 **By:** CQLQRS\#7853 and HowLxxxx\#4676  
 **Added:** <Version date="2022-01-01" />  
+**Last tested:** <VersionHl date="2022-01-01" />  
 [Discussion 1](https://tickets.deeznuts.moe/ticket-archive/attachments_922442421604843542_926773041697013830_transcript-melee-can-stun-ruin-guards.html)  
 **Updated:** 2022-03-16  
 [Discussion 2](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953769086163230870_transcript-ruin-guard-melee-stun-ft-geomc-skill.html)
@@ -1063,6 +1100,7 @@ Limited practical usage, mostly fluff.
 
 **By:** itskhoi\#0013  
 **Added:** <Version date="2021-05-07" />  
+**Last tested:** <VersionHl date="2021-05-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839754434870509598_840070100143964170_transcript-polearm-ca-doesnt-register-on-stunned-ruin-guard.html)
 
 **Finding:**  
@@ -1085,6 +1123,7 @@ If you stun a Ruin Guard and your main carry is a spear user, you might want to 
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-05-09" />  
+**Last tested:** <VersionHl date="2021-05-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840424651569758218_840817827254501386_transcript-blocking-ruin-guard-jump.html)
 
 **Finding:**  
@@ -1100,6 +1139,7 @@ Better knowledge of Ruin Guard combat through enemy movement manipulation with G
 
 **By:** Kourinn\#6001  
 **Added:** <Version date="2022-02-21" />  
+**Last tested:** <VersionHl date="2022-02-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945492158708871219_transcript-swap-dodge-confused-missiles.html)
 
 **Finding:**  
@@ -1123,7 +1163,8 @@ The other cases have minimal real-world usage due to very tight timing while aff
 #### Ruin Hunter Weakspot&Artillery mode Analysis
 
 **By:** RoaringMeow\#2437  
-**Added:** <Version date="2020-12-07" />
+**Added:** <Version date="2020-12-07" />  
+**Last tested:** <VersionHl date="2020-12-07" />
 
 **Finding:** Ruin Hunter's Weak spots; How to trigger Ruin Hunter's artillery mode.  
 Context: The Ruin Hunter does not reveal a weak spot until it enters artillery mode.
@@ -1142,6 +1183,7 @@ God forbid, a ruin hunter in the abyss but with this mechanic learned he's the e
 
 **By:** deRykcihC\#0621  
 **Added:** <Version date="2021-08-28" />  
+**Last tested:** <VersionHl date="2021-08-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_878715141431115796_880934050624327800_transcript-abyss-map-time-delay-bug.html)
 
 **Finding:**  
@@ -1158,7 +1200,8 @@ Might be useful for people who can't follow up Ruin Hunter agile attack pattern 
 #### Dendro Slime Plucking
 
 **By:** Way\#0001  
-**Added:** <Version date="2020-11-19" />
+**Added:** <Version date="2020-11-19" />  
+**Last tested:** <VersionHl date="2020-11-19" />
 
 **Finding:**  
 Some Anemo Units can Suck Mini-Dendro Slimes even if they are Hidden.
@@ -1178,6 +1221,7 @@ Provides an alternative method for eliminating annoying mini-dendro slimes.
 
 **By:** Daybreak\#0584  
 **Added:** <Version date="2021-07-24" />  
+**Last tested:** <VersionHl date="2021-07-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_867117609450340392_868287985743970314_transcript-anemo-slime-one-shot-in-air.html)
 
 **Finding:**  
@@ -1195,6 +1239,7 @@ If anemo slimes are ever introduced to the abyss, this information could be usef
 
 **By:** Rainfury\#8343  
 **Added:** <Version date="2021-10-25" />  
+**Last tested:** <VersionHl date="2021-10-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883264842931257425_902081518808203324_transcript-hydro-slimes-apply-wet-to-surrounding-in-certain-situations.html)
 
 **Finding:**  
@@ -1215,6 +1260,7 @@ Better understanding of enemy and character aura management in combat with hydro
 
 **By:** ariose\#3891  
 **Added:** <Version date="2021-08-31" />  
+**Last tested:** <VersionHl date="2021-08-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881262532914974720_882077997841133618_transcript-slime-balloon-mechanics.html)
 
 **Finding:**  
@@ -1237,6 +1283,7 @@ With this knowledge you can finish your commissions 2 seconds faster.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2021-11-05" />  
+**Last tested:** <VersionHl date="2021-11-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905809922913079327_906340038013493248_transcript-specter-defeat-interactions.html)
 
 **Finding:**  

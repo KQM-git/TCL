@@ -8,6 +8,7 @@ search: false
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-09" />  
+**Last tested:** <VersionHl date="2021-10-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_891494658901938176_894254618190700575_transcript-collision-jump.html)
 
 **Finding:**  

@@ -61,6 +61,7 @@
 
 **By:** Aftermath\#7658  
 **Added:** <Version date="2022-08-21" />  
+**Last tested:** <VersionHl date="2022-08-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/itto-buffering-mechanics)
 
 **Finding:**
@@ -96,6 +97,7 @@ The most consistent way to buffer Itto’s combos is to click once during or a b
 
 **By:** Homura\#9806  
 **Added:** <Version date="2022-03-29" />  
+**Last tested:** <VersionHl date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958523437255643187_transcript-ushi-max-air-time.html)
 
 **Finding:**  
@@ -125,6 +127,7 @@ Further understanding of Ushi as a Geo Construct.
 
 **By:** Aftermath\#7658  
 **Added:** <Version date="2022-01-13" />  
+**Last tested:** <VersionHl date="2022-01-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929507146335408128_931064442861543434_transcript-itto-n1-burst-cancel-ss-stack.html)
 
 **Finding:**  
@@ -143,6 +146,7 @@ There are several combo variants for Itto, a main category being first rotation 
 
 **By:** Mr. Pillow\#0065  
 **Added:** <Version date="2022-01-29" />  
+**Last tested:** <VersionHl date="2022-01-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934236008533360691_937034728031281162_transcript-successful-itto-def-conversion-w-gorou.html)
 
 **Finding:**  
@@ -176,7 +180,8 @@ The findings firstly disprove that Gorou’s paw symbol must fully appear before
 #### C1 Stack Timing
 
 **By:** Mr. Pillow\#0065 and AluMantis\#7870  
-**Added:** <Version date="2022-08-03" />
+**Added:** <Version date="2022-08-03" />  
+**Last tested:** <VersionHl date="2022-08-03" />
 [Discussion](https://tickets.deeznuts.moe/transcripts/itto-c1-mechanics)
 
 **Finding:**  

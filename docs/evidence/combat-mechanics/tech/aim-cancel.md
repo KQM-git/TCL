@@ -12,6 +12,7 @@ search: false
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-02" />  
+**Last tested:** <VersionHl date="2021-10-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890849433317683240_894209658531753984_transcript-arcc-writeup.html)
 
 **Theory/Finding:**  
@@ -45,6 +46,7 @@ ARCC is the fastest known method for shooting a charged shot. When done rapidly,
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-09-06" />  
+**Last tested:** <VersionHl date="2021-09-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883799215891972156_884452500617461820_transcript-arcc-autotarget.html)
 
 **Theory/Finding:**  
@@ -64,6 +66,7 @@ When within autoattacking range of an enemy, where you aim does not matter for A
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_892681715745710100_899116235403460638_transcript-hold-m1-double-shot.html)
 
 **Theory/Finding:**  
@@ -97,6 +100,7 @@ Straight DPS increase for bow attack strings that use hold M1 CAs (assuming it i
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-07-09" />  
+**Last tested:** <VersionHl date="2022-07-09" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/aimed-dashjump-cancel-charged-shot)
 
 **Finding:**  

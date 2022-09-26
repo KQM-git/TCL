@@ -11,7 +11,8 @@ search: false
 ## Elemental Aura Application and Gauge Values of Enemies
 
 **By:** BowlSoldier\#3528  
-**Added:** <Version date="2021-02-04" />
+**Added:** <Version date="2021-02-04" />  
+**Last tested:** <VersionHl date="2021-02-04" />
 
 **Finding:**  
 Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.
@@ -46,6 +47,7 @@ This allows us to more precisely measure frames on reactions due to the way frie
 
 **By:** Mr. Pillow\#0065, ShampooBrain\#9583  
 **Added:** <Version date="2022-08-24" />  
+**Last tested:** <VersionHl date="2022-08-24" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/geo-aura-investigation)
 
 **Finding:**  
@@ -72,6 +74,7 @@ Better understanding of the Elements.
 
 **By:** vinsette\#0293  
 **Added:** <Version date="2022-08-24" />  
+**Last tested:** <VersionHl date="2022-08-24" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/elemental-node-infusion-has-icd)
 
 **Finding:**  

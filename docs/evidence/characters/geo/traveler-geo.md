@@ -13,7 +13,8 @@ search: false
 ### Twins CA MVs Comparison
 
 **By:** Fluffy\#5580  
-**Added:** <Version date="2021-04-10" />
+**Added:** <Version date="2021-04-10" />  
+**Last tested:** <VersionHl date="2021-04-10" />
 
 **Theory:** Lumine is better than Aether because her CA 2nd hit multiplier is higher.
 
@@ -27,6 +28,7 @@ search: false
 
 **By:** Sorry#6046  
 **Added:** <Version date="2021-08-18" />  
+**Last tested:** <VersionHl date="2021-08-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876140744275005540_877470462693756928_transcript-geo-mc-boulder-can-be-manually-exploded.html)
 
 **Finding:**  
@@ -45,6 +47,7 @@ Geo supremacy.
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-05-06" />  
+**Last tested:** <VersionHl date="2021-05-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839244723133612072_840066389728821268_transcript-wake-of-earth-blocks-geovishap-jump.html)
 
 **Finding:**  
@@ -64,6 +67,7 @@ Enemy movement manipulation when using Geo Traveler in a team comp.
 
 **By:** Blank#4561  
 **Added:** <Version date="2021-09-10" />  
+**Last tested:** <VersionHl date="2021-09-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864157638828490762_864440105296592906_transcript-traveler-ascension-skills.html)
 
 **Finding:**  
@@ -81,6 +85,7 @@ Although a minor damage source, Geo Traveler's A4 Passive damage is increased by
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-03-22" />  
+**Last tested:** <VersionHl date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955996204477612072_transcript-mc-elemental-proc-diff.html)
 
 **Theory:**  
@@ -109,6 +114,7 @@ Another possible significance is that this might be a clue to how the Travelers 
 
 **By:** Vherax\#5321  
 **Added:** <Version date="2021-06-20" />  
+**Last tested:** <VersionHl date="2021-06-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845028522325573702_856407372993527828_transcript-geo-mc-c1-does-not-apply-to-burst.html)
 
 **Finding:**
@@ -130,6 +136,7 @@ If the crit bonus applied to burst damage, it would be impossible to not crit.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-03-22" />  
+**Last tested:** <VersionHl date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_955987323579957338_transcript-gmc-wake-of-earth-interactions.html)
 
 **Theory:**  
@@ -294,6 +301,7 @@ Rockstep and other combos that bring a character on top of the meteorite does no
 
 **By:** jamberry#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -322,6 +330,7 @@ Damage calculations for Geo Traveler
 
 **By:** amaryillis#4774  
 **Added:** <Version date="2021-09-10" />  
+**Last tested:** <VersionHl date="2021-09-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881703224262938685_884467343575633980_transcript-anemo-traveler-mistsplitter-stacks.html)
 
 **Finding:**  
@@ -336,6 +345,7 @@ Geo Traveler can trigger Mistsplitter NA Stack with Frenzied Rockslide (A4).
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-03-22" />  
+**Last tested:** <VersionHl date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956012252463517756_transcript-rockstep-tech.html)
 
 **Finding:**  
@@ -372,6 +382,7 @@ This is a GMC\-specific tech that can be used by other characters. There's poten
 
 **By:** Liunel\#2555  
 **Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_820951727720497162_850178239632900111_transcript-aether-weapons-and-builds.html)
 
 Analysis on the best weapons/builds for Main DPS Aether and Burst Support Aether.

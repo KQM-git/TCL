@@ -8,6 +8,7 @@ search: false
 
 **By:** randomspades \#0956  
 **Added:** <Version date="2021-04-18" />  
+**Last tested:** <VersionHl date="2021-04-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_815411615322341406_833576716701138984_transcript-elemental-burst-zoom-cancel.html)
 
 **Theory/Finding:** Zoom in for a 5 star elemental burst and similar elemental bursts will not occur when there is potential clipping due to interference with another object.

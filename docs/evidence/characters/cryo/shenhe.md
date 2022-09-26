@@ -60,6 +60,7 @@
 
 **By:** daibangden2460\#8410  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932469355374059590_933905482916200468_transcript-shenhe-e-has-no-icd.html)
 
 **Finding:**  
@@ -71,6 +72,7 @@ Shenhe does not have ICD.
 
 **By:** Sincronic\#3171  
 **Added:** <Version date="2022-03-09" />  
+**Last tested:** <VersionHl date="2022-03-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951189874780827719_transcript-quills-dont-work-on-balloons.html)
 
 **Finding:**  
@@ -121,6 +123,7 @@ Understanding of quill mechanics.
 
 **By:** Zamo\#6399  
 **Added:** <Version date="2022-02-21" />  
+**Last tested:** <VersionHl date="2022-02-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945502154737717259_transcript-shenhe-c4-mechanics.html)
 
 **Finding:**  
@@ -144,6 +147,7 @@ Better understanding of Shenhe's C4 mechanics.
 
 **By:** CC\#5588  
 **Added:** <Version date="2022-01-04" />  
+**Last tested:** <VersionHl date="2022-01-04" />  
 [Basic Mechanics Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
 **Finding:**  

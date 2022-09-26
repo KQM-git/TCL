@@ -89,6 +89,7 @@ search: false
 
 **By:** Rare Possum\#0511, VanIna\#2859, RazorClaws\#4343  
 **Added:** <Version date="2022-08-05" />  
+**Last tested:** <VersionHl date="2022-08-05" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/yelan-burst-wave-microsnapshot)
 
 **Theory:**  

@@ -11,7 +11,8 @@ search: false
 ## Dash-Jump-Plunge
 
 **By:** Hatsuharufag#4291  
-**Added:** <Version date="2021-02-04" />
+**Added:** <Version date="2021-02-04" />  
+**Last tested:** <VersionHl date="2021-02-04" />
 
 **Finding:**  
 If you dash into enemy and jump at the same time, you can perform a plunging attack. This doesn't work against all enemies. Not all body types of player characters can do it.
@@ -27,6 +28,7 @@ since plunges do damage to it. Hard staggering an Abyss mage might be another us
 
 **By:** BowTae#0141 and GottaGoFast#7876  
 **Added:** <Version date="2021-10-25" />  
+**Last tested:** <VersionHl date="2021-10-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896163835248001034_902207648726908938_transcript-no-dash-dragonstrike.html)
 
 **Finding:**  
@@ -62,6 +64,7 @@ You are able to do the equivalent of Dragonstrike without needing to spend stami
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-26" />  
+**Last tested:** <VersionHl date="2021-10-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_886080851354480651_896124791394820106_transcript-standing-plunge.html)
 
 **Finding:**  
@@ -97,6 +100,7 @@ Theoretical way to get a plunge attack with zero setup required, but most likely
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-26" />  
+**Last tested:** <VersionHl date="2021-10-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_886679130878390322_896124748726149130_transcript-switch-plunge.html)
 
 **Finding:**  

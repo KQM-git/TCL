@@ -28,6 +28,7 @@ search: false
 
 **By:** BowTae\#0141  
 **Added:** <Version date="2022-08-16" />  
+**Last tested:** <VersionHl date="2022-08-16" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/yanfei-a4-dragonstrike)
 
 **Finding:**  
@@ -48,6 +49,7 @@ Stylish Yanfei combos.
 
 **By:** bbwalrus\#8456  
 **Added:** <Version date="2021-05-06" />  
+**Last tested:** <VersionHl date="2021-05-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839654617628540988_840063885612548107_transcript-c6-yanfei-stamina-consumption-reduction.html)
 
 **Finding:**  

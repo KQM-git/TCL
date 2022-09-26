@@ -12,6 +12,7 @@ search: false
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-02-20" />  
+**Last tested:** <VersionHl date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938864913525395456_945069975708762132_transcript-weird-blue-rocks.html)
 
 **Finding:**  
@@ -58,6 +59,7 @@ _Glitches:_
 
 **By:** Aevean Leeow\#1362, Mcpie\#8672, BowTae\#0141, KQM Stream Meme Team, and KQM Friends  
 **Added:** <Version date="2021-12-24" />  
+**Last tested:** <VersionHl date="2021-12-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905507145762631690_924148014212333608_transcript-the-rock.html)
 
 **Finding:**
@@ -123,6 +125,7 @@ The Rock (Igneous Pebblus) is a federally endangered species which is currently 
 
 **By:** Asaki\#9139  
 **Added:** <Version date="2021-12-23" />  
+**Last tested:** <VersionHl date="2021-12-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923064128225026118_923456084302241872_transcript-teapot-dog-abuse.html)
 
 **Finding:**  
@@ -140,6 +143,7 @@ The Rock (Igneous Pebblus) is a federally endangered species which is currently 
 
 **By:** Asaki#9139  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930676749782634586_934050479892234280_transcript-teapot-dog-abuse-2.html)
 
 **Finding:**  
@@ -174,6 +178,7 @@ Kageroumaru can hold non-elemental statuses, but not marks.
 
 **By:** Rainfury#8343  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/animal-abooz-has-no-icd-viewers-discretion-advised)
 
 **Finding:**  
@@ -189,6 +194,7 @@ Poor Kageroumaru does not deserve this. He is just a cute dog. Well, THIS IS WHA
 
 **By:** kxmndz\#4700  
 **Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_903329501226860666_921012856277848114_transcript-explosive-barrel-properties.html)
 
 **Finding:**
@@ -285,6 +291,7 @@ Enemies in the northern orange zone are between 82 and 90, and calculations with
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_868098829361229834_920808595594043402_transcript-inazuma-artifact-spots.html)
 
 **Finding:** There are currently 214 (+1 or +2) respawnable investigation spots that drop artifacts.
@@ -330,6 +337,7 @@ Unfortunately we're unable to tell if we managed to cover all of the spots, but 
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-04-23" />  
+**Last tested:** <VersionHl date="2021-04-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832412514858958878_835397401812533268_transcript-electro-crystals-have-levels.html)
 
 **Finding:**  
@@ -363,6 +371,7 @@ Ruining kid's trust in miHoYo's consistancy, fluff, learning how the world is ma
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-25" />  
+**Last tested:** <VersionHl date="2021-06-25" />  
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854439111430635560_858186241102446602_transcript-cursed-terrain-electrified-environment-reaction.html)
 
 **Theory:**  
@@ -378,6 +387,7 @@ There might be more reactions unknown to the player coded into the game's files 
 
 **By:** RazorClaws\#4343  
 **Added:** <Version date="2021-06-27" />  
+**Last tested:** <VersionHl date="2021-06-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858433829143445615_858455416635392040_transcript-electrified-water-properties.html)
 
 **Finding:**  
@@ -394,6 +404,7 @@ Learning more about how environmental reactions are programmed/calculated. Also,
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854436805537169488_857347792947380294_transcript-cursed-terrain-invisible-water-layer.html)
 
 **Theory:**  
@@ -413,6 +424,7 @@ Understanding the cursed overworld of Teyvat
 
 **By:** BowlSoldier\#3528 and p.pineapple\#1129  
 **Added:** <Version date="2021-11-05" />  
+**Last tested:** <VersionHl date="2021-11-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879642528046002176_903470522577326110_transcript-overworld-hydro-gauge-and-icd.html)
 
 **Finding:**  
@@ -454,6 +466,7 @@ Better understanding of how overworld hydro works for aura and reaction testing.
 
 **By:** Sayline\#5959  
 **Added:** <Version date="2021-11-10" />  
+**Last tested:** <VersionHl date="2021-11-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906575280053837904_907925042443194428_transcript-fountaine-water-isnt-water.html)
 
 **Finding:**  
@@ -473,6 +486,7 @@ Overworld spaghetti. Overworld bodies of water are not all the same.
 
 **By:** Sayline\#5959  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921714701438685184_936363288537747528_transcript-not-all-falls-water-is-false-water.html)
 
 **Finding:**  
@@ -501,6 +515,7 @@ Falls water.
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-03-09" />  
+**Last tested:** <VersionHl date="2022-03-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_951292350569799731_transcript-not-all-falls-water-is-false-water-enkanomiya-addendum.html)
 
 **Finding:**
@@ -523,6 +538,7 @@ Update to the map of all waterfalls. Update to the original findings in the libr
 
 **By:** Sayline\#5959  
 **Added:** <Version date="2022-06-30" />  
+**Last tested:** <VersionHl date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/falls-water-chasm)
 
 **Finding:**  
@@ -539,6 +555,7 @@ Falls water.
 
 **By:** Aevean Leeow\#1362  
 **Added:** <Version date="2022-08-23" />  
+**Last tested:** <VersionHl date="2022-08-23" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/frozen-water-sans-water-is-unfreezable-unmeltable-etc)
 
 **Finding:**  
@@ -584,6 +601,7 @@ One option is to make things "logical," for frozen water to simply disappear whe
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-21" />  
+**Last tested:** <VersionHl date="2021-06-21" />  
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_854441186256355348_856763759632449536_transcript-cursed-terrain-electro-crystal-range.html)
 
 **Finding:** Electro crystals' pulse range works in a rectangle range, with the crystal being not centered, but rather between the center and the side
@@ -596,6 +614,7 @@ One option is to make things "logical," for frozen water to simply disappear whe
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-01-14" />  
+**Last tested:** <VersionHl date="2022-01-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922988435889856562_931419824964374588_transcript-parametric-crystal-electric-bungaloo.html)
 
 **Findings:**
@@ -622,6 +641,7 @@ Rain Hydro isn’t the same as other Hydro sources. Electro crystals don’t hav
 
 **By:** Greyhound\#7836, mol\#3280, deaf\#0246  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 **Updated:** 2021-08-07  
 [Discussion 1](https://tickets.deeznuts.moe/ticket-archive/attachments_851603340403933194_857345614483554334_transcript-cursed-terrain-world-levels.html)  
 [Discussion 2](https://tickets.deeznuts.moe/ticket-archive/attachments_873033114723696660_873532969355210752_transcript-overworld-entity-levels-revisited.html)
@@ -640,6 +660,7 @@ Almost cracking the code for overworld. Now getting a bit closer.
 
 **By:** mol\#3280, Greyhound\#7836, IshnuKal\#3728  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851944273712644116_857341175685054504_transcript-genshin-has-2d-water.html)
 
 **Finding:**  
@@ -658,6 +679,7 @@ Electro is awful for the overworld because you can electrocharge water which res
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_852322096528228372_857338163654557716_transcript-environment-reaction-base.html)
 
 **Theory:**  
@@ -674,6 +696,7 @@ We're getting ever so closer to figuring out the cursed world of teyvat's code
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-05-12" />  
+**Last tested:** <VersionHl date="2022-05-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_974469687045914704_transcript-some-pillars-in-enka-you-dont-take-fall-damage-on.html)
 
 **Finding:**  
@@ -689,6 +712,7 @@ Fall damage evasion.
 
 **By:** RazorClaws#4343  
 **Added:** <Version date="2021-07-15" />  
+**Last tested:** <VersionHl date="2021-07-15" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864369706249355324_865083435184947200_transcript-campfires-act-like-1u-of-pyro-aura.html)
 
 **Finding:**  
@@ -715,6 +739,7 @@ Putting out campfires with utmost efficiency
 
 **By:** deaf\#0246  
 **Added:** <Version date="2021-08-26" />  
+**Last tested:** <VersionHl date="2021-08-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_872856833835036723_878915593116454932_transcript-zone-levels.html)
 
 _Zone levels have been updated as of 2021-12-22 with more precise maps. See below._
@@ -735,6 +760,7 @@ I have nothing but regrets.
 
 **By:** Vladone ツ\#9281  
 **Added:** <Version date="2021-11-11" />  
+**Last tested:** <VersionHl date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905965525027414056_908513612430184458_transcript-zone-levels-liyue.html)
 
 _Zone levels have been updated as of 2021-12-22 with more precise maps. See below._
@@ -756,6 +782,7 @@ Fluff and overworld documentation.
 
 **By:** deaf\#0246  
 **Added:** <Version date="2021-11-11" />  
+**Last tested:** <VersionHl date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_905984755986726972_908513380455809084_transcript-zone-levels-inazuma.html)
 
 _Zone levels have been updated as of 2021-12-22 with more precise maps. See below._
@@ -775,6 +802,7 @@ Fluff, and overworld documentation I guess.
 
 **By:** deaf\#0246 & Vladone ツ\#9281  
 **Added:** <Version date="2021-12-22" />  
+**Last tested:** <VersionHl date="2021-12-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918005225162432543_923133715008352266_transcript-zone-levels.html)
 
 1. **Mondstadt**  
@@ -800,6 +828,7 @@ Fluff, and overworld documentation I guess.
 
 **By:** Vladone ツ#9281, Mcpie#8672  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_928178373304406016_934047513944666133_transcript-enkanomiya-zone-levels.html)
 
 **Finding:**  
@@ -815,6 +844,7 @@ Fluff and overworld documentation.
 
 **By:** Vladone ツ\#9281  
 **Added:** <Version date="2022-04-08" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962112897239093259_transcript-chasm-zone-levels.html)
 
 **Finding:**  
@@ -835,6 +865,7 @@ Fluff and overworld documentation.
 
 **By:** Vladone ツ\#9281  
 **Added:** <Version date="2022-07-28" />  
+**Last tested:** <VersionHl date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/golden-apple-archipelago-zone-levels)
 
 **Finding:**  
@@ -850,6 +881,7 @@ Fluff and overworld documentation.
 
 **By:** Vladone ツ#9281  
 **Added:** <Version date="2022-02-20" />  
+**Last tested:** <VersionHl date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_938725868832972800_945085214860922880_transcript-constructs-take-zone-levels-damage.html)  
 **Finding:**  
 Some constructs take damage according to zone level.
@@ -874,6 +906,7 @@ Fluff and overworld documentation.
 
 **By:** NZPIEFACE\#8439  
 **Added:** <Version date="2022-03-13" />  
+**Last tested:** <VersionHl date="2022-03-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_952644713566064710_transcript-zone-levels-are-in-relation-to-players.html)
 
 **Finding:**  
@@ -890,6 +923,7 @@ Zone levels are "global" in a sense.
 
 **By:** deaf\#0246  
 **Added:** <Version date="2021-09-06" />  
+**Last tested:** <VersionHl date="2021-09-06" />  
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880603421873418362_884484706299686942_transcript-elemental-interactions-with-bushes.html)
 
 **Theory:**  
@@ -911,6 +945,7 @@ Optimizing your bush harvesting game.
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-06-11" />  
+**Last tested:** <VersionHl date="2021-06-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851228691656736798_852776633731645470_transcript-bushes-take-1u-of-pyro-to-light.html)
 
 **Finding:** Bushes take one unit of pyro elemental application to light on fire.
@@ -923,6 +958,7 @@ Optimizing your bush harvesting game.
 
 **By:** anonpuffs\#2537  
 **Added:** <Version date="2021-10-09" />  
+**Last tested:** <VersionHl date="2021-10-09" />  
 [Disscussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885127802570039336_896138078912135228_transcript-structures-are-not-enemies.html)
 
 **Finding:**  
@@ -945,6 +981,7 @@ Overworld is hard.
 
 **By:** Aluminum\#5462  
 **Added:** <Version date="2021-06-22" />  
+**Last tested:** <VersionHl date="2021-06-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845422859467489390_856750287548710912_transcript-4tf-environmental-damage.html)
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
@@ -957,6 +994,7 @@ Overworld is hard.
 
 **By:** Creonalia\#2818  
 **Added:** <Version date="2021-06-29" />  
+**Last tested:** <VersionHl date="2021-06-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_803833656182702099_859538316431720478_transcript-location-remembered-between-map-tabs.html)
 
 **Theory:** Genshin remembers your location and world state(such as bosses) in different map tabs separately.
@@ -971,6 +1009,7 @@ Overworld is hard.
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-07-21" />  
+**Last tested:** <VersionHl date="2021-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345502047764490_867159298671640616_transcript-coordinates-translation-methods.html)
 
 **Theory:** Coordinates translation methods from in-game coordinates into official teyvat map and vice versa.  
@@ -1084,6 +1123,7 @@ due to IEEE 754, the result will be off at epsilon level.
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345650060689480_874179525771165706_transcript-coordinates-units-descriptions.html)
 
 **Finding:**  
@@ -1222,6 +1262,7 @@ Estimating distance between points is now easier due to known values in differen
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913559231102996_874183553099903016_transcript-extracting-coords-while-in-game.html)
 
 **Theory:**  
@@ -1258,6 +1299,7 @@ This provides an easy way to calculate the distance between two points in game.
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345828439719966_874184378148855809_transcript-coordinates-axises-descriptions.html)
 
 **Theory:**  
@@ -1292,6 +1334,7 @@ If someone is going to rely on in-game coordinates from feedback url, they might
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913032152842250_874185169110704198_transcript-coordinates-change-when-idle.html)
 
 **Finding:**  
@@ -1332,6 +1375,7 @@ Fluff. This could also explain the fact that when you switch from child to adult
 
 **By:** Greyhound\#7836  
 **Added:** <Version date="2021-08-20" />  
+**Last tested:** <VersionHl date="2021-08-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877914693396758528_878182609329463306_transcript-burning-grass-icd.html)
 
 **Theory:**  
@@ -1349,6 +1393,7 @@ Vault update.
 
 **By:** kxmndz\#4700  
 **Added:** <Version date="2021-10-16" />  
+**Last tested:** <VersionHl date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893415165796712468_898820933857456168_transcript-health-and-revive-mechanics.html)
 
 **Findings:**  
@@ -1396,6 +1441,7 @@ Documentation and better understanding of how the game handles health and death.
 
 **By:** Nass008\#8577  
 **Added:** <Version date="2021-10-16" />  
+**Last tested:** <VersionHl date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898420442753277962_899020738458177608_transcript-2u-pyro-on-grass.html)
 
 **Finding:**  
@@ -1417,6 +1463,7 @@ Applying pyro on grass is not a foolproof method for testing elemental gauge sin
 
 **By:** Tibo\#4309  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_894036451740766218_899191434735943730_transcript-treasure-compass-range-chest-rendering.html)
 
 **Finding:**
@@ -1490,6 +1537,7 @@ Using the Treasure Compass to play ChestColle
 
 **By:** kxmndz\#4700  
 **Added:** <Version date="2021-11-11" />  
+**Last tested:** <VersionHl date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904069344764526692_908536409021906954_transcript-torches-take-0-gauge-to-light.html)
 
 **Finding:**  
@@ -1522,6 +1570,7 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-05-21" />  
+**Last tested:** <VersionHl date="2021-05-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840649811383418960_845511822404616212_transcript-cant-rain-in-mondstadt.html)
 
 **Finding:** If it's raining and you approach Mondstadt, the rain will stop, even though the rain will continue outside Mondstadt.
@@ -1534,6 +1583,7 @@ Documenting the overworld spaghetti, and a better understanding of 0 gauge stuff
 
 **By:** pai\#3602  
 **Added:** <Version date="2022-01-04" />  
+**Last tested:** <VersionHl date="2022-01-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_922637382807846942_927770423368749116_transcript-electro-fog.html)
 
 **Finding:**  
@@ -1558,6 +1608,7 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 
 **By:** ElliMiku\#5071  
 **Added:** <Version date="2022-01-14" />  
+**Last tested:** <VersionHl date="2022-01-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921392473757069312_931429201175793674_transcript-boat-mechanics-addendum.html)
 
 **Findings:**  
@@ -1625,6 +1676,7 @@ Fluff, exploration, overworld survivability.
 
 **By:** Raven#9205  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_918031384122114048_934045834268532736_transcript-stuff-can-infuse-cryo.html)
 
 **Finding:**  
@@ -1641,6 +1693,7 @@ Largely fluff. However, the application of cryo does mean that some elemental re
 
 **By:** EatYourVeggies#7493  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_933751514776891482_936079772323295282_transcript-electro-seelie-electro-application-vertical-range.html)
 
 **Finding:**  
@@ -1658,6 +1711,7 @@ More knowledge on Electro Seelie mechanics
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-03-16" />  
+**Last tested:** <VersionHl date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953743159119212594_transcript-phantom-phase-gates.html)
 
 **Finding:**  
@@ -1679,6 +1733,7 @@ Better understanding of Teyvat laws. Commissions don't remove Phase Gate interac
 
 **By:** Kurt\#5846  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964972311923011584_transcript-flying-anemo-slimes-have-hitboxes.html)
 
 **Finding:**  
@@ -1695,6 +1750,7 @@ Mostly fluff.
 
 **By:** Magnus Artifex\#8719  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964969467669008434_transcript-paimon-hates-climbing.html)
 
 **Finding:**  
@@ -1712,6 +1768,7 @@ Knowledge about the world and maps of the game.
 
 **By:** Beast Boy\#2560  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)
 
 **Finding:**  
@@ -1730,6 +1787,7 @@ Knowledge of game mechanics.
 
 **By:** makeway4pK\#3901  
  **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
  [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964949380354412594_transcript-hanrocks.html)
 
 **Finding:**  
@@ -1760,6 +1818,7 @@ Relax and enjoy the ride, it's often safer and faster than plunging if you want 
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-04-24" />  
+**Last tested:** <VersionHl date="2022-04-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967840437182296104_transcript-properties-of-eagles.html)
 
 **Finding:**  
@@ -1776,6 +1835,7 @@ Fluff and documenting overworld mechanics.
 
 **By:** Beast Boy\#2560  
 **Added:** <Version date="2022-05-21" />  
+**Last tested:** <VersionHl date="2022-05-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_977687335443529768_transcript-highest-places-in-teyvat.html)
 
 **Finding:**  
@@ -1811,6 +1871,7 @@ Teyvat has some very high places.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-25" />  
+**Last tested:** <VersionHl date="2022-06-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/trees-pick-up-fruits)
 
 **Finding:**  
@@ -1832,6 +1893,7 @@ The trees can pick up their fruits. Also, very useful for checking some attacks 
 
 **By:** Magnus Artifex\#8719  
 **Added:** <Version date="2022-07-14" />  
+**Last tested:** <VersionHl date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/companions-disappear-when-characters-disappear)
 
 **Finding:**  
@@ -1876,6 +1938,7 @@ Nice to know.
 
 **By:** Aevean Leeow\#1362, Ultimate Noob\#2955, sexyeboy69\#2687  
 **Added:** <Version date="2022-08-16" />  
+**Last tested:** <VersionHl date="2022-08-16" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/melodic-blooms-notes-reflect-off-of-construct)
 
 **Finding:**  
@@ -1895,6 +1958,7 @@ Some things reflects, mostly fluff. Genshin is wonk game.
 
 **By:** Magnus Artifex\#8719  
 **Added:** <Version date="2022-08-25" />  
+**Last tested:** <VersionHl date="2022-08-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/chasm-geo-active-pillars-mechanics)
 
 **Finding:**  

@@ -43,6 +43,7 @@ search: false
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-11-11" />  
+**Last tested:** <VersionHl date="2021-11-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_908499139703214080_908507642199150652_transcript-yoi-kindling-arrows-and-amos.html)
 
 **Findings:**  
@@ -58,6 +59,7 @@ Increases Amos' Bow value with a CA-oriented Yoimiya playstyle.
 
 **By:** DisgustingPractice\#6486  
 **Added:** <Version date="2022-08-12" />  
+**Last tested:** <VersionHl date="2022-08-12" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/yoimiya-kindling-arrows-weakspot-interaction)
 
 **Finding:**  
@@ -89,6 +91,7 @@ Easier activation of the Prototype Crescent passive on Yoimiya and a possible bu
 
 **By:** lucianekat\#7757  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/yoimiyas-arrows-snapshot-her-skill-bonus)
 
 **Finding:**  

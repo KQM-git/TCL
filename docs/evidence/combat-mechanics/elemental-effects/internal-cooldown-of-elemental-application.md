@@ -18,6 +18,7 @@ Submitted: 2021-02-26
 
 **By:** Isu\#6867  
 **Added:** <Version date="2021-05-29" />  
+**Last tested:** <VersionHl date="2021-05-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845447638719266826_848323323459928085_transcript-diluc-burst-icd.html)
 
 **Finding:**  

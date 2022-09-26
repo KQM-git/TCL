@@ -8,6 +8,7 @@ search: false
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2021-12-21" />  
+**Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920877683158679603_922717970306854922_transcript-does-hitlag-extend-food-buff-duration.html)
 
 **Finding:**  

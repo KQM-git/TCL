@@ -8,6 +8,7 @@ search: false
 
 **By:** euphorysm\#9060  
 **Added:** <Version date="2021-04-19" />  
+**Last tested:** <VersionHl date="2021-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832952764317171712_834316884245479464_transcript-floor-12-stairs-plunge-spam.html)
 
 **Finding:**  

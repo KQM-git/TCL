@@ -13,7 +13,8 @@ search: false
 ### Maidstrike vs N3D \(Dragonstrike\)
 
 **By:** sakuno\#7950  
-**Added:** <Version date="2021-03-22" />
+**Added:** <Version date="2021-03-22" />  
+**Last tested:** <VersionHl date="2021-03-22" />
 
 **Theory:**
 
@@ -194,6 +195,7 @@ Popping shield before burst guarantees two heal instances while invulnerable.
 
 **By:** castiel\#0415  
 **Added:** <Version date="2022-08-21" />  
+**Last tested:** <VersionHl date="2022-08-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/noelle’s-skill-hit-activates-healing)
 
 **Finding:**  
@@ -307,6 +309,7 @@ This confirms what was already common knowledge: only use spin if you need to he
 
 **By:** Tarcc\#7510  
 **Added:** <Version date="2021-05-01" />  
+**Last tested:** <VersionHl date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_837604511203721256_838347194591215656_transcript-noelle-c4-ds.html)
 
 **Finding:**  
@@ -328,6 +331,7 @@ What I had found is that the hitstun of the shield breaking \(Noelle c4\) can al
 
 **By:** jamberry#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -345,6 +349,7 @@ Damage calculations for Noelle.
 
 **By:** JonahFarc\#7056  
 **Added:** <Version date="2021-10-18" />  
+**Last tested:** <VersionHl date="2021-10-18" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895691894825312256_899778880544587776_transcript-noelle-burst-extension.html)
 
 **Finding:**  
@@ -372,7 +377,8 @@ Noelle can maximize her burst duration without getting a kill, reducing her batt
 ### How does 2NO interact with Noelle Q?
 
 **By:** Kibouo\#1698  
-**Added:** <Version date="2020-12-18" />
+**Added:** <Version date="2020-12-18" />  
+**Last tested:** <VersionHl date="2020-12-18" />
 
 **Evidence:**
 

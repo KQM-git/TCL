@@ -11,7 +11,8 @@ search: false
 ## Climbing without Climbing
 
 **By:** Nitley\#3485  
-**Added:** <Version date="2021-04-05" />
+**Added:** <Version date="2021-04-05" />  
+**Last tested:** <VersionHl date="2021-04-05" />
 
 **Finding:** After familiarizing myself with the technique of b-hopping in the first week of Genshin's official release for the purpose of re-roll AR7 speedruns, this would quickly become my exclusive means of travel. This led me to discover an alternative faster method of scaling near-vertical walls \(without climbing or consuming stamina at all\).
 
@@ -25,7 +26,8 @@ search: false
 ## Movement Techniques and Player Model Comparisons
 
 **By:** Nitley\#3485 and Kourinn\#6001  
-**Added:** <Version date="2021-04-10" />
+**Added:** <Version date="2021-04-10" />  
+**Last tested:** <VersionHl date="2021-04-10" />
 
 **Theory:** What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
 
@@ -95,6 +97,7 @@ B-Hopping should be 3.5% faster than dash-chaining, waiting for full stamina, an
 
 **By:** Saltyfart\#8946  
 **Added:** <Version date="2021-05-23" />  
+**Last tested:** <VersionHl date="2021-05-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843282047161729034_845886074508804096_transcript-push-pull-effects.html)
 
 **Finding:** push/pull effects are dynamic across team members
@@ -119,6 +122,7 @@ We can also see here that the boreas wolf push also applies multiple instances o
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_831242042801389568_849905930174595072_transcript-dashing-off-a-cliff-speed-comparison.html)
 
 **Methodology/Evidence:**
@@ -150,6 +154,7 @@ Results depending on position:
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846494202334412901_849908480075628574_transcript-waypoint-teleportation-inconsistency.html)
 
 **Finding:** Two possible findings:
@@ -173,6 +178,7 @@ Additional video showing 4 adult male models, landing location very rarely diffe
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-08" />  
+**Last tested:** <VersionHl date="2021-06-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846504230898237480_851744572958310401_transcript-movement-speed-affects-dashing-horizontal-velocity.html)
 
 **Finding:**  
@@ -197,6 +203,7 @@ Raw video evidence \(no timestamps\): [YouTube](https://www.youtube.com/watch?v=
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-11-01" />  
+**Last tested:** <VersionHl date="2021-11-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902943515452010516_904567719486169099_transcript-mvmnt-speed-stacks-additively.html)
 
 **Finding:**  
@@ -318,6 +325,7 @@ Other tests yielded an error of `<~0.02`, which is acceptable due to start/end v
 
 **By:** HK\#0001  
 **Added:** <Version date="2021-06-08" />  
+**Last tested:** <VersionHl date="2021-06-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848227425379942411_851738303363547146_transcript-character-hitboxes.html)
 
 **Finding:**  
@@ -335,6 +343,7 @@ By knowing this, hopefully we can have a better understanding about how far the 
 
 **By:** Fuzzy#5432  
 **Added:** <Version date="2021-06-24" />  
+**Last tested:** <VersionHl date="2021-06-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856824799057018880_857668248568332319_transcript-swimming-methods.html)
 
 **Finding:**  
@@ -349,7 +358,8 @@ Get around Teyvat faster! Though not holding shift while swimming is the most st
 ## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks
 
 **By:** Risuke\#6743  
-**Added:** <Version date="2020-12-14" />
+**Added:** <Version date="2020-12-14" />  
+**Last tested:** <VersionHl date="2020-12-14" />
 
 **Evidence:**  
 [Video 1](https://youtu.be/OB6QP67zjNg) [Video 2](https://youtu.be/hfRYtOJB42w)
@@ -360,7 +370,8 @@ Having increased movespeed is now potentially practical. It allows an additional
 ## Infinite Dashing and Catapulting off cliffs(Translation)
 
 **By:** KluEvo\#8507  
-**Added:** <Version date="2020-11-20" />
+**Added:** <Version date="2020-11-20" />  
+**Last tested:** <VersionHl date="2020-11-20" />
 
 **Finding:**  
 Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.
@@ -374,7 +385,8 @@ Faster Travel.
 ## Extra velocity gained when hit
 
 **By:** Hatsuharufag\#4291  
-**Added:** <Version date="2021-01-18" />
+**Added:** <Version date="2021-01-18" />  
+**Last tested:** <VersionHl date="2021-01-18" />
 
 **Finding:**  
 You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.
@@ -389,6 +401,7 @@ Yet another way to initiate plunge attacks on even ground.
 
 **By:** Recovent#9620  
 **Added:** <Version date="2021-08-31" />  
+**Last tested:** <VersionHl date="2021-08-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876024675489169438_882072456154722304_transcript-max-enemy-mvsp-decrease.html)
 
 **Finding:**  
@@ -428,6 +441,7 @@ If there were ever characters that were able to decrease mob speed (and almost l
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2022-01-10" />  
+**Last tested:** <VersionHl date="2022-01-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185303288217600_930052462809849876_transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
 
 **Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
@@ -453,6 +467,7 @@ The ranking from fastest to slowest is:
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2022-01-28" />  
+**Last tested:** <VersionHl date="2022-01-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_935300027952295957_936412064098955295_transcript-size-does-not-matter.html)
 
 **Finding:**  
@@ -469,6 +484,7 @@ Picking a taller character of the same skeleton model will not increase the velo
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-04-08" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962133283083280384_transcript-elevator-affects-movement-speed.html)
 
 **Finding:**  
@@ -487,6 +503,7 @@ Fluff and documenting overworld mechanics.
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-08-25" />  
+**Last tested:** <VersionHl date="2022-08-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
 
 **Finding:**  

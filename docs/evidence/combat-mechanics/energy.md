@@ -9,7 +9,8 @@ sidebar_position: 3000
 
 ## Elemental Skill Particle Production Database
 
-**Added:** <Version date="2020-12-06" />
+**Added:** <Version date="2020-12-06" />  
+**Last tested:** <VersionHl date="2020-12-06" />
 
 [Full Database](https://docs.google.com/spreadsheets/d/1G05DxDSjtBzj4PZtVjGRA4ATq76HPZa6e4kHVWS6mrA/edit#gid=0) maintained by Steph\#3614
 
@@ -17,6 +18,7 @@ sidebar_position: 3000
 
 **By:** c2authoritarian\#5277 and Pinupski\#9999  
 **Added:** <Version date="2020-12-07" />  
+**Last tested:** <VersionHl date="2020-12-07" />  
 **Updated:** 2021-04-03
 
 **Finding:** Energy recharge gained through auto attacking only applies to the character on field
@@ -32,7 +34,8 @@ sidebar_position: 3000
 ## Energy Recharge Does NOT Have a Softcap \(at least up to 300 ER\)
 
 **By:** muakasan\#2792  
-**Added:** <Version date="2021-04-04" />
+**Added:** <Version date="2021-04-04" />  
+**Last tested:** <VersionHl date="2021-04-04" />
 
 **Evidence:**
 
@@ -50,6 +53,7 @@ sidebar_position: 3000
 
 **By:** xf3\#3123 and Zeitraffer\#1074  
 **Added:** <Version date="2021-05-06" />  
+**Last tested:** <VersionHl date="2021-05-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_839361536900595732_840061797561139211_transcript-auto-attack-energy-mechanics.html)
 
 **Finding:**  
@@ -65,6 +69,7 @@ Attacking enemies with normal/charged attacks can give extra energy. Although in
 
 **By:** Steph\#3614, wiremash\#0433, Zebin\#1678, Greyhound\#7836, mol\#3280  
 **Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845560562221056001_850107809877196870_transcript-energy-gen-numbers.html)
 
 **Finding:** Several particle production number/ratio were wrong on the elemental particle production sheet.

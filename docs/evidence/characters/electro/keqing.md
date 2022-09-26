@@ -14,6 +14,7 @@ search: false
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -34,6 +35,7 @@ Clearing an old misconception. Explaining the N4 behavior.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -49,6 +51,7 @@ Not particularly significant, but it is an interesting tech that can lead to sat
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -71,6 +74,7 @@ Her particle generation is locked behind the second parts of her Skill. Either a
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -88,6 +92,7 @@ This is relevant in situations where inputs are usually fast-paced, like in comb
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -105,6 +110,7 @@ This matters because it can be possible to start with Keqing E in a rotation, ha
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -162,6 +168,7 @@ This matters for rotation crafting. Better understanding of Keqing's kit.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -177,6 +184,7 @@ Not particularly significant in combat, but it is worth noting that this _can_ h
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -196,6 +204,7 @@ Some technical stuff. Kinda poggers.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -217,6 +226,7 @@ Very poggers. Free Burst!
 
 **By:** r.rei\#2844  
 **Added:** <Version date="2021-11-10" />  
+**Last tested:** <VersionHl date="2021-11-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_907135831649685504_907902798795014194_transcript-keqing-crit-buff-duration.html)
 
 **Finding:**  
@@ -257,6 +267,7 @@ In perfect conditions, C1 essentially adds 100% damage to her E2, which can be b
 
 **By:** jamberry#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -273,6 +284,7 @@ Damage calculations for Keqing.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-18" />  
+**Last tested:** <VersionHl date="2022-07-18" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/some-keqing-mechanics)
 
 **Finding:**  
@@ -291,6 +303,7 @@ This means that it is possible for Keqing to hit up to 3 times before hitting E2
 
 **By:** Sayline#5959  
 **Added:** <Version date="2021-10-24" />  
+**Last tested:** <VersionHl date="2021-10-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880450784465129492_902064461525975080_transcript-c2-keqing-proc-consistency.html)
 
 **Finding:**  
@@ -314,6 +327,7 @@ Calculating Keqing energy needs with C2 in mind is hard to do with its inconsist
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-05-01" />  
+**Last tested:** <VersionHl date="2021-05-01" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836981654962569267_838582070044655616_transcript-keqing-pale-flame-set-bonus.html)
 
 **Finding:** Keqing triggering the second hit of her E with a charged attack will add a stack for Pale Flame's set bonus.

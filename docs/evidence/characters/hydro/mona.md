@@ -13,7 +13,8 @@ search: false
 ### What Attack String Combo Outputs the Highest DPS for Mona?
 
 **By:** Baezal\#0868  
-**Added:** <Version date="2020-12-27" />
+**Added:** <Version date="2020-12-27" />  
+**Last tested:** <VersionHl date="2020-12-27" />
 
 **Finding:**
 
@@ -31,6 +32,7 @@ Even without jump cancelling, 2AA + Charged provides similar DPS to Charged JC. 
 
 **By:** Ravantier#4984  
 **Added:** <Version date="2021-08-20" />  
+**Last tested:** <VersionHl date="2021-08-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_876768975940370472_878186098935861258_transcript-mona-3rd-aa-has-two-different-animations.html)
 
 **Finding:**  
@@ -62,7 +64,8 @@ Not much as DPS Mona's optimal Attack string combo is 2AA + CA + JC. However, in
 ### How many Elemental Particles does Mona’s Elemental Skill Generate?
 
 **By:** Curiously\#2324  
-**Added:** <Version date="2020-12-05" />
+**Added:** <Version date="2020-12-05" />  
+**Last tested:** <VersionHl date="2020-12-05" />
 
 **Finding:**
 
@@ -80,6 +83,7 @@ The fact that Mona's particle gen is seemingly random means there's an RNG aspec
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-09-25" />  
+**Last tested:** <VersionHl date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890797348635156531_891163963356758086_transcript-mona-hold-e-iframe.html)
 
 **Finding:**  
@@ -100,7 +104,8 @@ Utilizing for dodging.
 ### Is Mona’s Elemental Burst DMG determined at the time of Initial cast or at the time of ‘Bubble Burst’?
 
 **By:** Chidoge\#3163  
-**Added:** <Version date="2020-12-05" />
+**Added:** <Version date="2020-12-05" />  
+**Last tested:** <VersionHl date="2020-12-05" />
 
 **Finding:**  
 Mona’s Bubble burst damage is determined at the time the bubble is actually triggered, rather than ‘snapshotting’ on the immediate cast.
@@ -120,7 +125,8 @@ However, if you switch out for too long, Mona will lose the ATK buff and the bub
 ### Is the Omen Damage Buff included in Mona’s Elemental Q Burst DMG?
 
 **By:** Gibbigobo\#9750  
-**Added:** <Version date="2021-02-23" />
+**Added:** <Version date="2021-02-23" />  
+**Last tested:** <VersionHl date="2021-02-23" />
 
 **Finding:**
 
@@ -146,6 +152,7 @@ In the second screenshot below, If I were add back the Omen damage bonus to the 
 
 **By:** Aetherpon\#5730  
 **Added:** <Version date="2021-06-07" />  
+**Last tested:** <VersionHl date="2021-06-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840973333771059241_851387589285511198_transcript-omen-extension-on-certain-enemies-in-certain-states.html)
 
 **Finding:**  
@@ -165,6 +172,7 @@ Allows for longer use of Omen's buff to said enemies in team comps outside of fr
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863845897770237953_874171057685274624_transcript-new-mona-q-cannot-pop-on-super-armor.html)
 
 **Finding:**
@@ -203,6 +211,7 @@ Better understanding and utilizing of Mona burst.
 
 **By:** Gibbigobo#9750  
 **Added:** <Version date="2021-09-04" />  
+**Last tested:** <VersionHl date="2021-09-04" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880972206451064842_883492803945041920_transcript-omen-extension-mechanics-video.html)
 
 **Finding:**  
@@ -231,6 +240,7 @@ An Estimated 29% of all enemies in 2.0 have at least one of these states. The ma
 
 **By:** Monochrom9\#8058  
 **Added:** <Version date="2021-10-24" />  
+**Last tested:** <VersionHl date="2021-10-24" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_898482560210980905_901965314378584084_transcript-petrify-omen-extension.html)
 
 **Finding:**  
@@ -253,7 +263,8 @@ ZL's ability to extend omen with petrify is more conditional than previously tho
 ### Rosaria's Passive Affects Mona's Alternate Sprint
 
 **By:** Aetherpon\#5730  
-**Added:** <Version date="2021-04-09" />
+**Added:** <Version date="2021-04-09" />  
+**Last tested:** <VersionHl date="2021-04-09" />
 
 **Finding:**  
 Rosaria's Passive affects Mona's alternate sprint and stacks on top of anemo resonance.
@@ -273,6 +284,7 @@ It's actually a smaller buff than one would think, but there is a slight differe
 
 **By:** Keqing\#1111  
 **Added:** <Version date="2021-04-21" />  
+**Last tested:** <VersionHl date="2021-04-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832524741473599519_834659643292254238_transcript-mona-elemental-skill-cancel.html)
 
 **Finding:**  
@@ -289,6 +301,7 @@ Mona shouldn't dash until her skill is finished casting. This skill cancellation
 
 **By:** aui#3690  
 **Added:** <Version date="2021-09-17" />  
+**Last tested:** <VersionHl date="2021-09-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)
 
 **Finding:**  
@@ -327,6 +340,7 @@ While I sincerely doubt that 4 ToM Mona will become a viable build path for her,
 
 **By:** 2ri#0945  
 **Added:** <Version date="2021-08-31" />  
+**Last tested:** <VersionHl date="2021-08-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_880394893699211274_882076120403574784_transcript-mona-a4-passive-only-shows-when-shes-active.html)
 
 **Finding:**  
@@ -346,6 +360,7 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 
 **By.** Tibo\#4309  
 **Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897587228799287327_912236506880557076_transcript-mona-c1-snapshot.html)
 
 **Finding:** Mona C1's snapshotting vape/swirl/EC (Theoryhunt).
@@ -392,7 +407,8 @@ Frozen
 #### Does Mona’s 15% C1 Boost to Vaporize DMG apply to Mona’s Q Burst itself?
 
 **By:** Curiously\#2324  
-**Added:** <Version date="2021-02-02" />
+**Added:** <Version date="2021-02-02" />  
+**Last tested:** <VersionHl date="2021-02-02" />
 
 **Finding:**
 
@@ -410,6 +426,7 @@ This has been confirmed due to math being done to break down how Mona's Q Burst 
 
 **By:** Kgbeast\#6738  
 **Added:** <Version date="2021-05-11" />  
+**Last tested:** <VersionHl date="2021-05-11" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_840003957183086662_841870834430902352_transcript-mona-omen-and-c1-mechanics.html)
 
 **Finding:**  
@@ -449,7 +466,8 @@ Mona's C1 does not work party-wide in co-op.
 #### Can Mona’s 2nd Constellation allow you to trigger Vaporize on a pyro inflicted target twice?
 
 **By:** Kimmu\#0007  
-**Added:** <Version date="2020-12-05" />
+**Added:** <Version date="2020-12-05" />  
+**Last tested:** <VersionHl date="2020-12-05" />
 
 **Finding:**
 
@@ -467,6 +485,7 @@ C2 is not as good as it could be, because the automatic Charged ATK cannot benef
 
 **By:** Raf\#7220  
 **Added:** <Version date="2021-06-07" />  
+**Last tested:** <VersionHl date="2021-06-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844650193613094912_851360892595732510_transcript-mona-c2-aura-for-xl.html)
 
 **Finding:**  
@@ -484,6 +503,7 @@ Xiangling Q applies too much pyro for Mona to successfully be the aura most of t
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2022-02-02" />  
+**Last tested:** <VersionHl date="2022-02-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_937755412520919070_938446649758457886_transcript-c4-mona-does-not-show-up-in-stat-page.html)
 
 **Finding:**  

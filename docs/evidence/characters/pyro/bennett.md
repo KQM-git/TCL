@@ -14,6 +14,7 @@ search: false
 
 **By:** Sir_pick_the_prick\#2209  
 **Added:** <Version date="2021-05-25" />  
+**Last tested:** <VersionHl date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844058207151325224_846702340642701323_transcript-bennetts-hold-e-counts-as-self-damage.html)
 
 **Finding:** Despite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
@@ -27,7 +28,8 @@ search: false
 ### Inspiration Field Buff Duration
 
 **By:** Comfy Seaweed\#3841  
-**Added:** <Version date="2020-11-22" />
+**Added:** <Version date="2020-11-22" />  
+**Last tested:** <VersionHl date="2020-11-22" />
 
 **Theory:** Bennett's Ult \(ATK buff\) refreshes every tick \(estimate around 1 second\). This means that the ATK buff may persist for awhile after swapping the character out, but will not stay throughout the duration.
 
@@ -47,7 +49,8 @@ Although probably not too significant, you may want to use Bennett's Ult before 
 ### Bennett Q and C6 Buff Self Application
 
 **By:** Zeitraffer\#1074 and Charliex3000\#9403  
-**Added:** <Version date="2021-02-19" />
+**Added:** <Version date="2021-02-19" />  
+**Last tested:** <VersionHl date="2021-02-19" />
 
 **Finding:** Bennett Q buff and C6 Pyro DMG Bonus applies on its own damage calculation
 
@@ -69,7 +72,8 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 ### Bennett Burst Coop Mechanics
 
 **By:** Crow \| WL8 \#1761  
-**Added:** <Version date="2021-04-15" />
+**Added:** <Version date="2021-04-15" />  
+**Last tested:** <VersionHl date="2021-04-15" />
 
 **Finding:** Bennett's attack buff prioritizes the burst that applied the attack buff first. This means that even when two Bennett bursts overlap, the attack buff that was applied first will remain.
 
@@ -81,6 +85,7 @@ For Bennett Main DPS, Bennett himself will buff his own Q.
 
 **By:** Asaki\#9139  
 **Added:** <Version date="2021-06-07" />  
+**Last tested:** <VersionHl date="2021-06-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_844783206262636545_851385838486945812_transcript-benny-field-linger.html)
 
 **Finding:**  
@@ -98,7 +103,8 @@ Better understanding of Bennett Burst mechanics
 ### Inspiration Field Tick Rate
 
 **By:** Monochrom9\#8058  
-**Added:** <Version date="2021-02-12" />
+**Added:** <Version date="2021-02-12" />  
+**Last tested:** <VersionHl date="2021-02-12" />
 
 **Finding:**  
 Bennett's Q applies its effects on eligible units once EVERY second, and that second is perfectly aligned with the CD of the burst such that it ticks on EXACTLY XX.0 for every second of the field duration.
@@ -121,6 +127,7 @@ If you re-enter a buff field or swap to a new character immediately after this X
 
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2021-06-02" />  
+**Last tested:** <VersionHl date="2021-06-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_849314783475662879_849873440848609290_transcript-bennett-c4-gauge.html)
 
 **Finding:** Bennet's C4 applies 1A of Pyro.
@@ -169,6 +176,7 @@ Stepping out of a C6 Bennett Fantastic Voyage field has a left over pyro infusio
 
 **By:** Neptunya\#8291  
 **Added:** <Version date="2021-07-10" />  
+**Last tested:** <VersionHl date="2021-07-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_863515307363532850_863517152987185162_transcript-c6-bennett-pyro-dmg-bonus-in-coop.html)
 
 **Finding:**  
@@ -184,6 +192,7 @@ Neptunya's coop dreams of 4 C6 Bennetts rolling through overworld have been shat
 
 **By:** bloodreign616#4766  
 **Added:** <Version date="2021-08-19" />  
+**Last tested:** <VersionHl date="2021-08-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_877622028209889291_877811754002968576_transcript-bennett-c6-affects-ranged.html)
 
 **Finding:**  
@@ -202,7 +211,8 @@ Bennett's 6th Constellation would appear to be a mistranslation, or otherwise no
 ### Knockback Protection Interaction
 
 **By:** sacstanxiang\#7439 and Novaa\#1006  
-**Added:** <Version date="2020-12-01" />
+**Added:** <Version date="2020-12-01" />  
+**Last tested:** <VersionHl date="2020-12-01" />
 
 **Theory:** Active shields and Xingqiu’s Orbital Swords prevent Bennett Charged E knockback.
 

@@ -13,7 +13,8 @@ search: false
 ### Guoba CDR Interaction
 
 **By:** miliana\#9407  
-**Added:** <Version date="2021-04-18" />
+**Added:** <Version date="2021-04-18" />  
+**Last tested:** <VersionHl date="2021-04-18" />
 
 **Finding:**  
 4TF Xiangling and C2 Chongyun can result in 2 Guobas being deployed at the same time.  
@@ -29,6 +30,7 @@ It's possible to get 100%+ guoba uptime on Xiangling using 4TF. This also shows 
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-06-25" />  
+**Last tested:** <VersionHl date="2021-06-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857660346865418271_858142156248973312_transcript-guoba-self-apply-pyro.html)
 
 **Finding:**  
@@ -45,7 +47,8 @@ More information about how Guoba mechanics work, and a more precise explanation 
 ### Xiangling Burst Movement Interaction
 
 **By:** ganjo\#1859  
-**Added:** <Version date="2021-04-19" />
+**Added:** <Version date="2021-04-19" />  
+**Last tested:** <VersionHl date="2021-04-19" />
 
 **Finding:**  
 The hitbox of Xiangling's ultimate can hit more than once per rotation by manipulating self and enemy positioning.
@@ -64,6 +67,7 @@ It is possible to significantly boost the total damage of Xiangling's ultimate \
 
 **By:** Visc\#5095, Raf\#7220, CQLQRS\#7853, and phaZ\#6461  
 **Added:** <Version date="2022-01-05" />  
+**Last tested:** <VersionHl date="2022-01-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_906802193846398977_923113252932710420_transcript-pyronado-and-glacial-waltz-frame-count-vs-cryo-regisvine.html)
 
 **Finding:**  
@@ -89,6 +93,7 @@ These data sheds light onto Pyronado mechanics and how to maximize their burst d
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -107,6 +112,7 @@ Damage calculations for Xiangling.
 
 **By:** yeow\#5090  
 **Added:** <Version date="2021-09-03" />  
+**Last tested:** <VersionHl date="2021-09-03" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_881815299911991327_883372595184037918_transcript-xiangling-c2-no-snapshot.html)
 
 **Finding:**  
@@ -124,6 +130,7 @@ DMG calculation.
 
 **By:** Sayline\#5959  
 **Added:** <Version date="2021-08-28" />  
+**Last tested:** <VersionHl date="2021-08-28" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_879354525109092393_880924273764618240_transcript-xl-no-c6-buff.html)
 
 **Finding:**  
@@ -145,6 +152,7 @@ Guoba > Pyronado
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-21" />  
+**Last tested:** <VersionHl date="2021-06-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_855560609491320843_856671767506190356_transcript-pyronado-is-unable-to-destroy-cryo-regisvine-shield-with-a-single-cast.html)
 
 **Finding:**  
@@ -160,6 +168,7 @@ Don't rely on pyronado alone to destroy Cryo Regisvine's shield
 
 **By:** Ayzel\#7399 & friends  
 **Added:** <Version date="2021-06-26" />  
+**Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845723930978418758_858187557295620126_transcript-hu-tao-xiangling-vape.html)
 
 **Finding:**  
@@ -176,6 +185,7 @@ Can be used to calculate Hu Tao/Xiangling dual pyro teams and their efficacy com
 
 **By:** yeow\#5090  
 **Added:** <Version date="2021-09-06" />  
+**Last tested:** <VersionHl date="2021-09-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_882129372109234196_884479728491298876_transcript-gooba-gets-his-own-4cw.html)
 
 **Theory:**  
@@ -191,6 +201,7 @@ DMG calculation.
 
 **By:** euphorysm\#6156  
 **Added:** <Version date="2021-12-12" />  
+**Last tested:** <VersionHl date="2021-12-12" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_902775337618927616_919076320946827305_transcript-pyronado-direction-mechanic.html)
 
 **Finding:**  

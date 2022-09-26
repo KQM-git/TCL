@@ -25,6 +25,7 @@ search: false
 
 **By:** phaZZi\#6461  
 **Added:** <Version date="2022-02-21" />  
+**Last tested:** <VersionHl date="2022-02-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945484288009314304_transcript-razor-reverse-scam.html)
 
 **Finding:**  
@@ -71,6 +72,7 @@ You can essentially have 100% ult uptime if it were not for no particles during 
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2022-06-30" />  
+**Last tested:** <VersionHl date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/razor-echo-damage-type)
 
 **Finding:**  
@@ -94,6 +96,7 @@ Damage type in Razor's table in the TCL is currently correct, this is just to ge
 
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-02-21" />  
+**Last tested:** <VersionHl date="2022-02-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945485734670893077_transcript-razor-scam.html)
 
 **Finding:**  
@@ -119,6 +122,7 @@ Razor's E into Q is not as efficient as one could hope due to the fact that his 
 
 **By:** jamberry\#7142  
 **Added:** <Version date="2021-08-07" />  
+**Last tested:** <VersionHl date="2021-08-07" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_866108653634846780_873536676675338280_transcript-tcl-damage-type-completion.html)
 
 **Finding:**  
@@ -241,6 +245,7 @@ The animation is different and slightly slower during burst. It is not affected 
 
 **By:** SwiftySwoo\#0930  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845553745148116992_857386232937578506_transcript-razor-ds-combo.html)
 
 **Finding:**  

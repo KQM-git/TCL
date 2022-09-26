@@ -14,6 +14,7 @@ search: false
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-04-23" />  
+**Last tested:** <VersionHl date="2021-04-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_832474168297259028_835378635598594058_transcript-qiqi-talisman-healing-conditions.html)
 
 **Finding:**
@@ -38,6 +39,7 @@ Shows how Qiqi's talisman interacts with sources of damage.
 
 **By:** Dooners#6709  
 **Added:** <Version date="2021-09-22" />  
+**Last tested:** <VersionHl date="2021-09-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_889381442432409630_890102971847815228_transcript-qiqi-talisman-healing-doesnt-snapshot.html)
 
 **Finding:**  
@@ -58,6 +60,7 @@ The timing of applying the talisman does not matter at all, all that matters is 
 
 **By:** Nass008#8577  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895729399729623060_899174324060192798_transcript-qiqi-talisman-0-damage-healing.html)
 
 **Finding:**  
@@ -82,6 +85,7 @@ Additional insight on how game consider to be "taking damage" (which is not cons
 
 **By:** Nass008\#8577, NZPIEFACE\#8439  
 **Added:** <Version date="2021-10-16" />  
+**Last tested:** <VersionHl date="2021-10-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_895389894145355836_899122969400475648_transcript-qiqi-talisman-healing-icd.html)
 
 **Finding:**  
@@ -113,6 +117,7 @@ Clarification on Qiqi's healing mechanics
 
 **By:** Sir_pick_the_prick#2209, Nass008#8577, denmax#9293, Creepah#9480  
 **Added:** <Version date="2021-09-06" />  
+**Last tested:** <VersionHl date="2021-09-06" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_864092495369338900_884489611034890280_transcript-qiqi-copium-overdrive.html)
 
 **Finding:**

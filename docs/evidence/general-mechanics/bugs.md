@@ -13,7 +13,8 @@ search: false
 ### Retry and Exit Menu Issues
 
 **By:** Asaki\#9139  
-**Added:** <Version date="2022-01-27" />
+**Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />
 
 **Finding:**
 
@@ -34,7 +35,8 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Using the Same Team for Both Abyss Halves
 
 **By:** Nitley\#3485  
-**Added:** <Version date="2021-03-25" />
+**Added:** <Version date="2021-03-25" />  
+**Last tested:** <VersionHl date="2021-03-25" />
 
 **Bug/Exploit:** You're able to use your overworld team \(regardless of character overlap with first half team\) for the second half of Spiral Abyss by selecting retry at the same time as killing the last mob.
 
@@ -45,7 +47,8 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 ### Elemental Skills and Bursts Don't Reset When Using Retry in Abyss
 
 **By:** Emear\#2956  
-**Added:** <Version date="2021-04-10" />
+**Added:** <Version date="2021-04-10" />  
+**Last tested:** <VersionHl date="2021-04-10" />
 
 **Bug:** Elemental Skills' and Bursts' CDs do not get reset upon retrying an Abyss floor
 
@@ -61,6 +64,7 @@ Better understanding of Abyss bugs/issues for cleaner runs.
 
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2021-04-26" />  
+**Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_821732346290110474_836418290745999410_transcript-4no-bug.html)
 
 **Bug:**  
@@ -89,6 +93,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 **By:** Puffin\#9920  
 **Added:** <Version date="2022-02-26" />  
+**Last tested:** <VersionHl date="2022-02-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_947163566954393671_transcript-restarting-or-leaving-domain-doesnt-reset-skill-cd.html)
 
 **Bug:** Resetting or exiting a domain does not reset elemental skill cooldowns.
@@ -104,6 +109,7 @@ Until patched, Ganyu and Beidou should not hold 4NO buffs as they cannot utilize
 
 **By:** Magnus Artifex\#8719  
 **Added:** <Version date="2022-05-14" />  
+**Last tested:** <VersionHl date="2022-05-14" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_975064228476125224_transcript-keeping-domain-doors-open.html)
 
 **Bug:**  
@@ -129,6 +135,7 @@ Looks cool
 
 **By:** Maka Caves\#0420  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/ding-domain-ditch)
 
 **Finding:**  
@@ -146,6 +153,7 @@ Less effort required to farm domains, also chaos
 
 **By:** Beast Boy\#2560  
 **Added:** <Version date="2022-04-16" />  
+**Last tested:** <VersionHl date="2022-04-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964955562846609530_transcript-fishing-spot-prompt.html)
 
 **Bug:**  
@@ -166,7 +174,8 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 ### Infinite Bushes
 
 **By:** xHelloEveryonex\#1401  
-**Added:** <Version date="2021-04-05" />
+**Added:** <Version date="2021-04-05" />  
+**Last tested:** <VersionHl date="2021-04-05" />
 
 **Bug:** Unlimited respawning bushes when using Hu Tao infused with Pyro sets them on fire and then they respawn.
 
@@ -178,6 +187,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Iron IV#3832  
 **Added:** <Version date="2021-06-20" />  
+**Last tested:** <VersionHl date="2021-06-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
 **Bug:** Throwing a harpastum while entering aim mode can force your camera into third person while aiming
@@ -190,6 +200,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Aluminum#5462  
 **Added:** <Version date="2021-06-22" />  
+**Last tested:** <VersionHl date="2021-06-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845422859467489390_856750287548710912_transcript-4tf-environmental-damage.html)
 
 **Bug:** Sometimes set bonuses do not work properly if triggered on unconventional sources
@@ -202,6 +213,7 @@ Mostly fluff \(could have been used in Rally Inazuma round 6 if bugs were allowe
 
 **By:** Nass008\#8577  
 **Added:** <Version date="2021-12-23" />  
+**Last tested:** <VersionHl date="2021-12-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_921775232707100692_923676486106509382_transcript-cooking-pot-super-jump.html)
 
 **Finding:**  
@@ -234,6 +246,7 @@ Can be used to reach places normally inaccessible, especially by utilizing Benne
 
 **By:** Lilith of the night#5024  
 **Added:** <Version date="2022-01-21" />  
+**Last tested:** <VersionHl date="2022-01-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_930076186787336243_934021559629254676_transcript-leg-break-bridge.html)
 
 **Finding:**  
@@ -254,6 +267,7 @@ The damage is likely counted as from plunge, as it is close to the max plunge dm
 
 **By:** Beast Boy\#2560  
 **Added:** <Version date="2022-07-14" />  
+**Last tested:** <VersionHl date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/horizon-tech-2-electric-boogaloo)
 
 **Finding:**  
@@ -274,6 +288,7 @@ Looks kinda cool.
 
 **By:** ElliMiku\#5071  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/dying-animation-pause-shenenigans)
 
 **Finding:**  
@@ -289,6 +304,7 @@ Better understanding of how the bodies are modelled, fluff,... and suffering.
 
 **By:** NZPIEFACE\#8439  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/the-angels-share-is-short-staffed-so-diona-gets-an-idea-to-shut-it-down-once-and-for-all)
 
 **Finding:**  
@@ -311,6 +327,7 @@ Another strange place other than Leg Break Bridge where you can kill yourself wi
 
 **By:** Ayzel\#7399  
 **Added:** <Version date="2021-06-16" />  
+**Last tested:** <VersionHl date="2021-06-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_838967062184984636_854582115995877397_transcript-high-ping-multiple-orbital-application.html)
 
 **Finding:**  
@@ -327,6 +344,7 @@ Fast shield-breaking tech, can apply hydro very fast to allow more vapes in Xing
 
 **By:** Soup420\#1634  
 **Added:** <Version date="2021-04-19" />  
+**Last tested:** <VersionHl date="2021-04-19" />  
 _\*\*_[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_826181971545292880_834198195352764446_transcript-lag-and-snapshot-interactions.html)
 
 **Finding:** Skills that snapshot character stats like attack and hp are probably snapshotted client side and sent to server to be confirmed. The same applies to skills that actually apply the buff, like Bennett buff and Hutao buff which both apply their buffs without the need for server connection. However, HP can't be changed without server connection so it results in weird interactions with Hutao or Bennett buffs.
@@ -344,6 +362,7 @@ Skills that are dependent on enemy HP values like Diluc c1 or Albedo A2 are appl
 
 **By:** Originally discovered by zajef77#2838 and many KQM members contributed  
 **Added:** <Version date="2021-06-23" />  
+**Last tested:** <VersionHl date="2021-06-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_847367901518626846_857350049892925480_transcript-spaghetti-impact-horizon-tech.html)
 
 **Bug:**  
@@ -366,6 +385,7 @@ Looks kinda cool.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/aether-can-fist)
 
 **Theory:**  
@@ -378,6 +398,7 @@ It is very possible that other characters can lose their weapons. At the very le
 
 **By:** BowTae\#0141  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/childe-fist-n1)
 
 **Finding:**  
@@ -405,6 +426,7 @@ The Archer class really is made up of archers!
 
 **By:** Asaki\#9139  
 **Added:** <Version date="2022-08-24" />  
+**Last tested:** <VersionHl date="2022-08-24" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/disappearing-fatuis-when-they-shouldnt)
 
 **Bug:**  
@@ -430,7 +452,8 @@ Just another one amongst annoying Fatui _mechanics_.
 ### Particles Move While Game is Paused
 
 **By:** Anmol43\#1917 and paimonbukeyi\#4732  
-**Added:** <Version date="2021-04-05" />
+**Added:** <Version date="2021-04-05" />  
+**Last tested:** <VersionHl date="2021-04-05" />
 
 **Finding:** Energy Particles don't stop moving even when you open a pause menu. You can absorb particles while in a pause menu. Works in every menu most notably adventure book and wish menu allowing it to be used in abyss.
 
@@ -444,7 +467,8 @@ Just another one amongst annoying Fatui _mechanics_.
 ### Xiangling's Burst can Stack in Contending Tides Event
 
 **By:** Ayzel\#7399  
-**Added:** <Version date="2021-04-09" />
+**Added:** <Version date="2021-04-09" />  
+**Last tested:** <VersionHl date="2021-04-09" />
 
 **Bug:** Xiangling's burst can stack in the Contending Tides event.
 
@@ -477,6 +501,7 @@ Just another one amongst annoying Fatui _mechanics_.
 
 **By:** George#0766  
 **Added:** <Version date="2021-09-25" />  
+**Last tested:** <VersionHl date="2021-09-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890023724240216064_891163055684223016_transcript-artifact-inventory-size.html)
 
 **Finding:**  
@@ -492,6 +517,7 @@ This check already exists if you try to collect artifacts with a near full inven
 
 **By:** BowTae#0141  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_893769893525200908_899132398682402936_transcript-drain-stamina-while-standing.html)
 
 **Finding:**  
@@ -515,6 +541,7 @@ Fluff, annoying bug when you do it by accident.
 
 **By:** soup420\#1634  
 **Added:** <Version date="2021-04-23" />  
+**Last tested:** <VersionHl date="2021-04-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_829479729299193877_835390049503543336_transcript-venti-burst-absorption-bug.html)
 
 **Finding:**  
@@ -534,6 +561,7 @@ When elemental absorption happens late into a Venti Q, the damage from elemental
 
 **By:** Santoryu\#4495  
 **Added:** <Version date="2021-05-23" />  
+**Last tested:** <VersionHl date="2021-05-23" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_841955537322246174_845828367931670579_transcript-venti-e-hold-visual-error.html)
 
 **Bug:** Venti's Hold Elemental Skill will always lift you vertically up
@@ -552,6 +580,7 @@ This may be considered a bug due to the visual indication being tilted, but the 
 
 **By:** Childe C6 is overrated-Toro\#1035  
 **Added:** <Version date="2021-05-25" />  
+**Last tested:** <VersionHl date="2021-05-25" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_842575899408203846_846689845517877268_transcript-mona-e-bug.html)
 
 **Bug:** There is a small chance that when you use Mona's Press E, the explosion damage and particle generation also happens during cast
@@ -566,6 +595,7 @@ It can happen against any enemy, and it seems to be a random occurrence. It does
 
 **By:** Sincronic\#3171  
 **Added:** <Version date="2022-03-29" />  
+**Last tested:** <VersionHl date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958520792939900958_transcript-infinitorch.html)
 
 **Bug:**  
@@ -581,6 +611,7 @@ Understanding of overworld mechanics.
 
 **By:** Sincronic\#3171  
 **Added:** <Version date="2022-04-08" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962022405419704400_transcript-lightning-struck-tree-breaks-when-swapping-characters.html)
 
 **Bug:**  
@@ -596,6 +627,7 @@ Lightning Struck Trees have a high chance of breaking if you swap characters nea
 
 **By:** yourmom\#3033  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/characters-can-steal-ults-from-each-other-and-do-dumb-stuff-with-it)
 
 **Finding:**  
@@ -613,6 +645,7 @@ You can make anyone the Geo Archon now.
 
 **By:** Aevean Leeow\#1362  
 **Added:** <Version date="2022-07-21" />  
+**Last tested:** <VersionHl date="2022-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/fishing-is-kinda-boring)
 
 **Finding:**  
@@ -628,6 +661,7 @@ They should make fishing more engaging imo.
 
 **By:** Rathalos\#2875 and Casdela\#5121  
 **Added:** <Version date="2022-07-28" />  
+**Last tested:** <VersionHl date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/somewhat-360-no-scope)
 
 **Finding:**  

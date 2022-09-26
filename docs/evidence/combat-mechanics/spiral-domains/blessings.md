@@ -10,6 +10,7 @@ search: false
 
 **By:** jamberry\#7142 and NZPIEFACE\#8439  
 **Added:** <Version date="2021-12-16" />  
+**Last tested:** <VersionHl date="2021-12-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917961567235080222_920914525635637298_transcript-splendiferous-moon-abyss-blessing-mechanics.html)
 
 **Finding:**  

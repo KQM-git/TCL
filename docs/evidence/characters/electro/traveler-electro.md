@@ -31,6 +31,7 @@ search: false
 
 **By:** pai#3602  
 **Added:** <Version date="2021-12-26" />  
+**Last tested:** <VersionHl date="2021-12-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_923279142970085396_924645809935507487_transcript-emc-emulet-delay.html)
 
 **Finding:** The Amulets created from EMC E can't be picked up right away but can be picked up before they are fully formed on the ground. Counting from the frame E is pressed, it takes an average of 1.79 seconds for a character to be able to pick one up. Amulets can't be picked up simultaneously but if they are close enough, all 3 can be picked up within 5 frames at 60 FPS.
@@ -46,6 +47,7 @@ search: false
 
 **By:** D.....K#9002  
 **Added:** <Version date="2022-01-08" />  
+**Last tested:** <VersionHl date="2022-01-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927939323976888361_929309417965494323_transcript-er-increase-from-emc-amulets-doesnt-affect-passives.html)
 
 **Finding:** The ER increase from EMC's Amulets isn't factored in for Raiden or Mona A4, meaning they don't get the corresponding Elemental DMG bonus.
@@ -61,6 +63,7 @@ search: false
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-06-30" />  
+**Last tested:** <VersionHl date="2022-06-30" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/emc-engulfing-non-interaction)
 
 **Finding:**  
@@ -97,7 +100,8 @@ More reasons to not use EMC with Raiden. May affect calcs that incorrectly assum
 
 **By:** pai\#3602
 
-**Added:** <Version date="2021-12-13" />
+**Added:** <Version date="2021-12-13" />  
+**Last tested:** <VersionHl date="2021-12-13" />
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_917962903783612428_919799543904751666_transcript-emc-c4.html)
 

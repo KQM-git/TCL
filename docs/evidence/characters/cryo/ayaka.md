@@ -27,6 +27,7 @@ search: false
 
 **By:** Knospmoht\#9211 , Mcpie\#8672, LittleFox\#0906, Greyhound\#7836  
 **Added:** <Version date="2021-08-09" />  
+**Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_870326929893515314_874088594778771476_transcript-ayaka-hitscan-ca.html)
 
 **Theory:** Ayaka's CA have a unique hitscan mechanic and is not technically an AOE attack. If an enemy is visible within range on the single first frame of ayaka's CA, she will create a gadget on said enemy. This gadget has various properties:
@@ -55,6 +56,7 @@ For example, the gadget is smaller than Geovishap's large collision box which me
 
 **By:** wiremash#0433  
 **Added:** <Version date="2021-09-05" />  
+**Last tested:** <VersionHl date="2021-09-05" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_883962129919655976_884148507999604746_transcript-ayaka-ca.html)
 
 **Finding:**  
@@ -87,6 +89,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 **By:** Asaki\#9139  
 **Added:** <Version date="2021-12-21" />  
+**Last tested:** <VersionHl date="2021-12-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_920526901016150056_922629903579508797_transcript-ayaka-ca-below-feet.html)
 
 **Finding:** Apart from being able to reach enemies above Ayaka’s ground level (due to Venti’s lift, or Jean’s CA, etc.), Ayaka’s CA can also reach enemies below her ground level, thanks to the mechanics of her subsequent hitscans from the intial one.
@@ -131,6 +134,7 @@ In addition, because enemies can exit the hitscan area early, using her charged 
 
 **By:** Tsym#2586  
 **Added:** <Version date="2021-10-17" />  
+**Last tested:** <VersionHl date="2021-10-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_890817514794266664_899133874968354866_transcript-ayaka-q-pushing-away-enemies-of-different-weights.html)
 
 **Finding:**  
@@ -164,6 +168,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 
 **By:** aui#3690  
 **Added:** <Version date="2021-09-17" />  
+**Last tested:** <VersionHl date="2021-09-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_885753886823055421_888239660407599134_transcript-alt-vs-dash-iframe.html)
 
 **Finding:**  

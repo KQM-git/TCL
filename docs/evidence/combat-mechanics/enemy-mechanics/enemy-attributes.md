@@ -74,6 +74,7 @@ Overall useful information for people looking to clear abyss/domains
 
 **By:** snorting salt#3888  
 **Added:** <Version date="2021-07-17" />  
+**Last tested:** <VersionHl date="2021-07-17" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865014289025466392_865729755093008415_transcript-bubble-persists-on-swap.html)
 
 **Finding:**  
@@ -92,6 +93,7 @@ Dash iframes do not always work against the bubbles, especially for the abyss ma
 
 **By:** Prototype\#1337  
 **Added:** <Version date="2022-01-27" />  
+**Last tested:** <VersionHl date="2022-01-27" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_934205594070548490_936445344600956988_transcript-co-op-hydro-abyss-mage-bubble.html)
 
 **Finding:**  
@@ -113,6 +115,7 @@ Based on the evidence provided, it is clearly shown that other players (includin
 
 **By:** Yurina Maekawa#6585  
 **Added:** <Version date="2021-08-20" />  
+**Last tested:** <VersionHl date="2021-08-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874182515840155648_878190059038335056_transcript-black-aura-data.html)
 
 **Findings:**  
@@ -148,6 +151,7 @@ Early understanding about this strange **Black Aura**, now known officially as "
 
 **By:** #Kourinn\#6001  
 **Added:** <Version date="2021-10-31" />  
+**Last tested:** <VersionHl date="2021-10-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897826161055379466_904520062487126027_transcript-targeting-ignores-hitbox.html)
 
 **Finding/Theory:**  
@@ -167,6 +171,7 @@ Some Elemental Bursts, Skills, Catalyst/Bow Normal Attacks, and special Charge A
 
 **By:** NZPIEFACE\#8439  
 **Added:** <Version date="2022-02-20" />  
+**Last tested:** <VersionHl date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929743744322912316_945093554731102290_transcript-miasmic-tumour.html)
 
 **Finding:**  
@@ -233,6 +238,7 @@ Documentation of this bosses attacks and interactions.
 
 **By:** Bobrokrot\#0111  
 **Added:** <Version date="2022-02-21" />  
+**Last tested:** <VersionHl date="2022-02-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_945473947456131152_transcript-raiden-boss-resistances.html)
 
 **Finding:**  
@@ -250,6 +256,7 @@ This knowledge will allow us to concoct strategies on how to defeat Magatsu Mita
 
 **By:** Wesu\#8719  
 **Added:** <Version date="2022-03-16" />  
+**Last tested:** <VersionHl date="2022-03-16" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_953726835890487376_transcript-coral-defender-orb-mechanics.html)
 
 **Findings:**  
@@ -271,6 +278,7 @@ It was previously assumed that the damage is based on how much HP a character ha
 
 **By:** makeway4pK\#3901  
 **Added:** <Version date="2022-04-08" />  
+**Last tested:** <VersionHl date="2022-04-08" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_962129991452225576_transcript-coral-defenders-can-double-spike-in-abyss.html)
 
 **Finding:**  
@@ -290,6 +298,7 @@ Disambiguation of the Abyss-specific spike field overlap behavior on the enemy p
 
 **By:** pai\#3602  
 **Added:** <Version date="2022-03-22" />  
+**Last tested:** <VersionHl date="2022-03-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_956016166516703252_transcript-golden-wolflord-mechanics.html)
 
 **Findings:**
@@ -351,6 +360,7 @@ Credits to HowLxxxx\#4676, Mr. Pillow\#0065, borderline\#3100, Silvershine2\#543
 
 **By:** Zakharov\#5645  
 **Added:** <Version date="2022-07-29" />  
+**Last tested:** <VersionHl date="2022-07-29" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/ruin-serpent-hp-particle-counts)
 
 **Finding:**  

@@ -31,6 +31,7 @@ Unfortunately this means a lot of our frame counts of elemental durations will b
 
 **By:** Kourinn\#6001  
 **Added:** <Version date="2021-05-09" />  
+**Last tested:** <VersionHl date="2021-05-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)
 
 **Finding:**  
@@ -50,6 +51,7 @@ Hitlag extension should be taken into account when simulating skills/bursts such
 
 **By:** Kourinn\#6001  
 **Added:** <Version date="2021-05-09" />  
+**Last tested:** <VersionHl date="2021-05-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_835912799343476766_840072673961967646_transcript-hitlag-extension-testing.html)
 
 **Findings:**
@@ -132,7 +134,8 @@ Hitlag extension should be ignored when theorycrafting deployables' and Bennett'
 ### Preliminary Analysis of How Invincibility Frames Work
 
 **By:** MemeMastodon69/#2165  
-**Added:** <Version date="2020-10-29" />
+**Added:** <Version date="2020-10-29" />  
+**Last tested:** <VersionHl date="2020-10-29" />
 
 **Finding:**  
 Raw footage at end of post. All footage taken at 60fps. Halve figures for 30fps. Assumptions - Hit is registered on the frame before knockback animation starts playing.  
@@ -159,6 +162,7 @@ TL;DR - 3 startup frames, 20 active frames give or take 1 frame from each.
 
 **By:** BowTae\#0141 and xSil3nt\#0961  
 **Added:** <Version date="2022-04-15" />  
+**Last tested:** <VersionHl date="2022-04-15" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_964626530254856322_transcript-aim-frames.html)
 
 **Finding:**  
@@ -176,6 +180,7 @@ More accurate counts for the TCL.
 
 **By:** Aeonim\#3811, Chompy\#6384, Fiery\#9872, soran\#0001, Kolibri\#7675  
 **Added:** <Version date="2022-07-28" />  
+**Last tested:** <VersionHl date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/burst-idle-i-frames)
 
 **Finding:**  
@@ -203,6 +208,7 @@ These additional iFrames may prove useful in dodging/iFraming incoming attacks w
 
 **By:** Steno\#0119 and pai\#3602  
 **Added:** <Version date="2022-07-28" />  
+**Last tested:** <VersionHl date="2022-07-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/catalyst-n1-buffer)
 
 **Finding:**  

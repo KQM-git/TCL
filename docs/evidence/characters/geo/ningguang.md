@@ -14,6 +14,7 @@ search: false
 
 **By:** Asaki\#9139  
 **Added:** <Version date="2022-02-20" />  
+**Last tested:** <VersionHl date="2022-02-20" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_940671732979757087_945067939927826443_transcript-star-jades-have-ca-tag.html)
 
 **Finding:**  
@@ -32,6 +33,7 @@ Star Jades benefit from Charged Attack DMG Bonuses.
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-14" />  
+**Last tested:** <VersionHl date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/ningguangs-can-manipulate-star-jades-direction)
 
 **Finding:**  
@@ -53,6 +55,7 @@ Ningguang's star jades constitute a relevant portion of her damage. Knowing how 
 
 **By:** Goden\#2155  
 **Added:** <Version date="2022-01-13" />  
+**Last tested:** <VersionHl date="2022-01-13" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929477312284618822_931062924217315359_transcript-jade-screen-icd.html)
 
 **Finding:**  
@@ -72,6 +75,7 @@ Combining the demonstrations of both of these tests, it can be concluded that Ni
 
 **By:** jamberry\#7142, Isu\#6867, Ai\#7362, Bobrokrot\#0111  
 **Added:** <Version date="2021-06-26" />  
+**Last tested:** <VersionHl date="2021-06-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_857491520109543444_858198283566186516_transcript-ningguang-e-q-snapshot.html)
 
 **Finding:**  
@@ -100,6 +104,7 @@ Better rotation and team building for Ningguang surrounding setting up buffs for
 
 **By:** borderline\#3100  
 **Added:** <Version date="2022-03-29" />  
+**Last tested:** <VersionHl date="2022-03-29" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_958507759026982932_transcript-ning-burst-wall-destroy-range.html)
 
 **Finding:**  
@@ -115,6 +120,7 @@ Where there's a wall, there's a way \(to destroy it\).
 
 **By:** Rathalos\#2875  
 **Added:** <Version date="2022-07-14" />  
+**Last tested:** <VersionHl date="2022-07-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/ningguang-pays-taxes-to-the-ground)
 
 **Finding:**  
@@ -135,6 +141,7 @@ Sharshatter is the most significant part of Ningguang's kit, so learning more ab
 
 **By:** Terrapin\#8603  
 **Added:** <Version date="2021-04-26" />  
+**Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836144484189732905_836630945624752189_transcript-ningguang-e-reset-c2-sacrificial-weapon.html)
 
 **Finding:**  

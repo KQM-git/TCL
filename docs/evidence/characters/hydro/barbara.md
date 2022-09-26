@@ -13,7 +13,8 @@ search: false
 ### Barbara E Animation Cancel
 
 **By:** RoaringMeow\#2437  
-**Added:** <Version date="2020-12-19" />
+**Added:** <Version date="2020-12-19" />  
+**Last tested:** <VersionHl date="2020-12-19" />
 
 **Finding:**
 
@@ -37,6 +38,7 @@ Steps to Reproduce
 
 **By:** Poro\#4695  
 **Added:** <Version date="2022-02-02" />  
+**Last tested:** <VersionHl date="2022-02-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_936984762726363136_938452706647998495_transcript-barbara-e-cancel-can-procstack-4pc-sets.html)
 
 **Finding:**  
@@ -65,6 +67,7 @@ Potential improvement for Main DPS Barbara as you can now avoid her long Element
 
 **By:** yolitme0\#0579  
 **Added:** <Version date="2021-10-31" />  
+**Last tested:** <VersionHl date="2021-10-31" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_904016162382311484_904534494319607848_transcript-barbara-c6-revive-can-be-canceled-by-swapping.html)
 
 **Finding:**  
