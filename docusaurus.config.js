@@ -14,6 +14,7 @@ const config = {
   url: 'https://library.keqingmains.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
+  trailingSlash: false,
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
