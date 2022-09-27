@@ -2,11 +2,11 @@
 search: false
 ---
 
-# Heizou
+# Shikanoin Heizou
 
 **Main Page:**
 
-<Card item={require('../../../characters/anemo/heizou.md')} />
+<Card item={require('../../../characters/anemo/shikanoin-heizou.md')} />
 
 ## Basic Mechanics
 

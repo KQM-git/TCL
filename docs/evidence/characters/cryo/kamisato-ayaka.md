@@ -2,11 +2,11 @@
 search: false
 ---
 
-# Ayaka
+# Kamisato Ayaka
 
 **Main Page:**
 
-<Card item={require('../../../characters/cryo/ayaka.md')} />
+<Card item={require('../../../characters/cryo/kamisato-ayaka.md')} />
 
 ## Basic Mechanics
 
@@ -160,7 +160,7 @@ Better understanding of Ayaka Q's mechanics to land more hits from her burst.
 
 ### C6: Dance of Suigetsu
 
-* C6 is additive - [ClawofBeta#4125](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/ayaka.md/discord/attachments_866109693101211648_867518314337927239_unknown.png)
+* C6 is additive - [ClawofBeta#4125](https://tcl-backup.s3.filebase.com/evidence/characters/cryo/kamisato-ayaka.md/discord/attachments_866109693101211648_867518314337927239_unknown.png)
 
 ## Dash Mechanics
 

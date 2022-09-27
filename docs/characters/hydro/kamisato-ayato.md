@@ -186,4 +186,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/hydro/ayato.md')} />
+<Card item={require('../../evidence/characters/hydro/kamisato-ayato.md')} />

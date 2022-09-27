@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/hydro/kokomi.md')} />
+<Card item={require('../../../characters/hydro/sangonomiya-kokomi.md')} />
 
 ## Basic Mechanics
 

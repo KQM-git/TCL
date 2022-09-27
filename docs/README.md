@@ -10,7 +10,7 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 ## Quick Links
 
-**Most Recent Characters:** [Yelan](/characters/hydro/yelan.md) | [Kuki Shinobu](/characters/electro/shinobu.md) | [Shikanoin Heizou](/characters/anemo/heizou.md)
+**Most Recent Characters:** [Yelan](/characters/hydro/yelan.md) | [Kuki Shinobu](/characters/electro/kuki-shinobu.md) | [Shikanoin Heizou](/characters/anemo/shikanoin-heizou.md)
 
 **Elemental Gauge Theory:** [Page](https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory)
 

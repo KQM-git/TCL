@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/hydro/ayato.md')} />
+<Card item={require('../../../characters/hydro/kamisato-ayato.md')} />
 
 ## Basic Mechanics
 

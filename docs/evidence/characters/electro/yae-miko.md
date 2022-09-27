@@ -78,7 +78,7 @@ search: false
 
 ### A4: Enlightened Blessing
 
-* Yae Miko's A4 is affected by [Kazuha's C2](../../characters/anemo/kazuha#constellations), but only when she is standing within the Autumn Whilrwind field. - [Video](https://imgur.com/a/govSe76) - XenoVX\#6150
+* Yae Miko's A4 is affected by [Kazuha's C2](../../characters/anemo/kaedehara-kazuha#constellations), but only when she is standing within the Autumn Whilrwind field. - [Video](https://imgur.com/a/govSe76) - XenoVX\#6150
 * Yae Miko's A4 is affected by [Sucrose's A4](../../characters/anemo/sucrose#ascension-passives). - [Video](https://youtu.be/Hi0vdJ-dB0U) - borderline\#3100
 * Yae Miko's A4 is affected by [Diona's C6](../../characters/cryo/diona#constellations) - [Video](https://youtu.be/oKLGW9PjUuo) - Trosalio\#0420
 * The DMG Bonus% is additive with other DMG Bonuses%. - [Video](https://youtu.be/cUW6WK56Q5Y) / [Calc](https://docs.google.com/spreadsheets/d/1WIgrj6pR20NWy-tX3O1UWvNxS_BRTs8yGuK6NC8_Bb0/edit?usp=sharing) - chowr\#0522

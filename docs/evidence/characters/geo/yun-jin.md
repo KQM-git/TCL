@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-<Card item={require('../../../characters/geo/yunjin.md')} />
+<Card item={require('../../../characters/geo/yun-jin.md')} />
 
 ## Basic Mechanics
 

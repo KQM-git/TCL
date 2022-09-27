@@ -1415,7 +1415,7 @@ Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames were teste
 
 **Evidence:**
 
-* [Kokomi with 4p HoD/SR/CW](../characters/hydro/kokomi.md#kokomi-skill-triggers-artifact-effects-even-when-interrupted)
+* [Kokomi with 4p HoD/SR/CW](../characters/hydro/sangonomiya-kokomi.md#kokomi-skill-triggers-artifact-effects-even-when-interrupted)
 * [4p CW set + Guoba](https://imgur.com/kZ8LXW5)
   * Getting interrupted while casting Guoba still increases Pyro dmg%. Casting it for without getting interrupted later causes another stack of CW.
 * [4p CW + Hu Tao](https://imgur.com/T7NUI4U)
@@ -1425,4 +1425,4 @@ Heart of Depth, Shimenawa's Reminiscence, and Crimson Witch of Flames were teste
 
 **Significance:**  
 It is possible during combat to gain multiple Crimson Witch stacks on characters that usually can't get more than 1 stack.
-This is an update to [this entry](../characters/hydro/kokomi.md#kokomi-skill-triggers-artifact-effects-even-when-interrupted) to show that this is not unique to Kokomi.
+This is an update to [this entry](../characters/hydro/sangonomiya-kokomi.md#kokomi-skill-triggers-artifact-effects-even-when-interrupted) to show that this is not unique to Kokomi.

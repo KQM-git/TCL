@@ -222,4 +222,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/geo/itto.md')} />
+<Card item={require('../../evidence/characters/geo/arataki-itto.md')} />

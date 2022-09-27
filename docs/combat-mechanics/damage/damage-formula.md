@@ -60,9 +60,9 @@ $$
 <summary>Expand</summary>
 
 * Zhongli's [**Dominance of Earth**](../../characters/geo/zhongli.md#ascension-passives) (A4)
-* Kokomi's [**Nereid's Ascension**](../../characters/hydro/kokomi.md#attacks) (Elemental Burst)
+* Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) (Elemental Burst)
 * Shenhe's [**Spring Spirit Summoning**](../../characters/cryo/shenhe.md#attacks) (Elemental Skill) Icy Quills
-* Yunjin's [**Cliffbreaker's Banner**](../../characters/geo/yunjin.md#attacks) (Elemental Burst)
+* Yunjin's [**Cliffbreaker's Banner**](../../characters/geo/yun-jin.md#attacks) (Elemental Burst)
 * [**Cinnabar Spindle**](../../equipment/weapons/swords.md#cinnabar-spinder)'s Spotless Heart Passive
 * [**Everlasting Moonglow**](../../equipment/weapons/catalysts.md#everlasting-moonglow)'s Byakuya Kougetsu
 * [**Redhorn Stonethresher**](../../equipment/weapons/claymores.md#redhorn-stonethresher)'s Gokadaiou Otogibanashi Passive
@@ -106,7 +106,7 @@ import EnemyDef from '../\_formulas/enemydef.md'
 
 * Razor's [**Bite**](../../characters/electro/razor.md#constellations) (C4): 15%
 * Lisa's [**Static Electricity Field**](../../characters/electro/lisa.md#ascension-passives) (A4): 15%
-* Ayaka's [**Ebb and Flow**](../../characters/cryo/ayaka.md#constellations) (C4): 30%
+* Ayaka's [**Ebb and Flow**](../../characters/cryo/kamisato-ayaka.md#constellations) (C4): 30%
 * Klee's [**Explosive Frags**](../../characters/pyro/klee.md#constellations) (C2): 23%
 
 ## Enemy Resistance

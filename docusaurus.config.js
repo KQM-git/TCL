@@ -53,6 +53,37 @@ const config = {
           { from: '/damage', to: '/combat-mechanics/damage/damage-formula' },
           { from: '/egt', to: '/combat-mechanics/elemental-effects/elemental-gauge-theory' },
           { from: '/srp', to: '/combat-mechanics/elemental-effects/simultaneous-reaction-priority' },
+
+          // Extra character page redirects
+          { from: ['/heizou', '/characters/anemo/heizou'], to: '/characters/anemo/shikanoin-heizou' },
+          { from: '/evidence/characters/anemo/heizou', to: '/evidence/characters/anemo/shikanoin-heizou' },
+
+          { from: ['/kazuha', '/characters/anemo/kazuha'], to: '/characters/anemo/kaedehara-kazuha' },
+          { from: '/evidence/characters/anemo/kazuha', to: '/evidence/characters/anemo/kaedehara-kazuha' },
+
+          { from: ['/ayaka', '/characters/cryo/ayaka'], to: '/characters/cryo/kamisato-ayaka' },
+          { from: '/evidence/characters/cryo/ayaka', to: '/evidence/characters/cryo/kamisato-ayaka' },
+
+          { from: ['/raiden', '/characters/electro/raiden'], to: '/characters/electro/raiden-shogun' },
+          { from: '/evidence/characters/electro/raiden', to: '/evidence/characters/electro/raiden-shogun' },
+
+          { from: ['/sara', '/characters/electro/sara'], to: '/characters/electro/kujou-sara' },
+          { from: '/evidence/characters/electro/sara', to: '/evidence/characters/electro/kujou-sara' },
+
+          { from: ['/shinobu', '/characters/electro/shinobu'], to: '/characters/electro/kuki-shinobu' },
+          { from: '/evidence/characters/electro/shinobu', to: '/evidence/characters/electro/kuki-shinobu' },
+
+          { from: ['/itto', '/characters/geo/itto'], to: '/characters/geo/arataki-itto' },
+          { from: '/evidence/characters/geo/itto', to: '/evidence/characters/geo/arataki-itto' },
+
+          { from: ['/yunjin', '/characters/geo/yunjin'], to: '/characters/geo/yun-jin' },
+          { from: '/evidence/characters/geo/yunjin', to: '/evidence/characters/geo/yun-jin' },
+
+          { from: ['/ayato', '/characters/hydro/ayato'], to: '/characters/hydro/kamisato-ayato' },
+          { from: '/evidence/characters/hydro/ayato', to: '/evidence/characters/hydro/kamisato-ayato' },
+
+          { from: ['/kokomi', '/characters/hydro/kokomi'], to: '/characters/hydro/sangonomiya-kokomi' },
+          { from: '/evidence/characters/hydro/kokomi', to: '/evidence/characters/hydro/sangonomiya-kokomi' },
         ]
       }),
     ],

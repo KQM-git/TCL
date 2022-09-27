@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/electro/shinobu.md')} />
+<Card item={require('../../../characters/electro/kuki-shinobu.md')} />
 
 ## Basic Mechanics
 

@@ -67,7 +67,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Kazuha cannot strike enemies that are lifted by Venti's Elemental Burst.
-* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kazuha.md#dragonstrike-of-n5)
+* Kazuha's N5 attack can be used to [dragonstrike](../../evidence/characters/anemo/kaedehara-kazuha.md#dragonstrike-of-n5)
 
 </TabItem>
 
@@ -248,4 +248,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/anemo/kazuha.md')} />
+<Card item={require('../../evidence/characters/anemo/kaedehara-kazuha.md')} />

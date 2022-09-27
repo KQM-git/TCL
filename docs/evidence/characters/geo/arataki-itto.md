@@ -2,7 +2,7 @@
 
 **Main Page:**
 
-<Card item={require('../../../characters/geo/itto.md')} />
+<Card item={require('../../../characters/geo/arataki-itto.md')} />
 
 ## Basic Mechanics
 

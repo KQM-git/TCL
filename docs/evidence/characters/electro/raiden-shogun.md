@@ -2,11 +2,11 @@
 search: false
 ---
 
-# Raiden
+# Raiden Shogun
 
 **Main Page:**
 
-<Card item={require('../../../characters/electro/raiden.md')} />
+<Card item={require('../../../characters/electro/raiden-shogun.md')} />
 
 ## Basic Mechanics
 

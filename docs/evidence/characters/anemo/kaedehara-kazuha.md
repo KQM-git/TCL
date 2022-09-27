@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/anemo/kazuha.md')} />
+<Card item={require('../../../characters/anemo/kaedehara-kazuha.md')} />
 
 ## Basic Mechanics
 
