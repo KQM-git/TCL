@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Supplicant's Bowmanship",
-        "desc": "**Normal Attack**\nPerform up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, Dendro energy will accumulate on the arrowhead. A fully charged arrow will deal **Dendro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -162,6 +163,7 @@
       {
         "name": "Floral Brush",
         "desc": "Throws out a Floral Ring that deals 1 instance of **Dendro DMG** to targets it comes into contact with.\nThe Floral Ring will return after a set time, dealing **Dendro DMG** once again.\n\n**This is Collei's go-to gadget for dealing with unruly wild beasts. A few good thwacks from this tool will generally improve their behavior. This same principle works just as well on evildoers.**",
+        "img": "Collei/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -191,6 +193,7 @@
     "ult": {
       "name": "Trump-Card Kitty",
       "desc": "Trusty Cuilein-Anbar comes to save the day!\nThrows the doll named Cuilein-Anbar, causing an explosion that deals **AoE Dendro DMG**, creating a Cuilein-Anbar Zone. Cuilein-Anbar will bounce around within this zone, dealing **AoE Dendro DMG**.\n\n**\"Pretty impressive, huh? ... Eh? You want to know how I came up with the name Cuilein-Anbar? Uh, well, I...\"**",
+      "img": "Collei/ult",
       "talentTable": [
         {
           "name": "Explosion DMG",
@@ -247,16 +250,19 @@
       {
         "name": "Floral Sidewinder",
         "desc": "If one of your party members has triggered Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions before the **Floral Ring** returns, it will grant the character the Sprout effect upon return, which will continuously deal **Dendro DMG** equivalent to 40% of Collei's ATK to nearby opponents for 3s.\nIf another Sprout effect is triggered during its initial duration, the initial effect will be removed. DMG dealt by Sprout is considered Elemental Skill DMG.",
+        "img": "Collei/passive_0",
         "minAscension": 1
       },
       {
         "name": "The Languid Wood",
         "desc": "When a character within the **Cuilein-Anbar Zone** triggers Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon reactions, the Zone's duration will be increased by 1s.\nA single **Trump-Card Kitty** can be extended by up to 3s.",
+        "img": "Collei/passive_1",
         "minAscension": 4
       },
       {
         "name": "Gliding Champion of Sumeru",
         "desc": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Gliding_Stamina",
         "minAscension": 0
       }
     ],

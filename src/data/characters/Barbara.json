@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Whisper of Water",
-        "desc": "**Normal Attack**\nPerform up to 4 water splash attacks that deal **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Hydro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
+        "desc": "**Normal Attack**\nPerforms up to 4 water splash attacks that deal **Hydro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to deal **AoE Hydro DMG** after a short casting time.\n\n**Plunging Attack**\nGathering the might of Hydro, Barbara plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Hydro DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -150,6 +151,7 @@
       {
         "name": "Let the Show Begin♪",
         "desc": "Summons water droplets resembling musical notes that form a Melody Loop, dealing **Hydro DMG** to surrounding opponents and applying the **Wet** status to them.\n\n**Melody Loop**\n·On hit, Barbara's Normal Attacks heal your own party members and nearby teammates for a certain amount of HP, which scales with Barbara's Max HP.\n·On hit, Barbara's Charged Attack generates 4 times the amount of healing.\n·Periodically regenerates your own active character's HP.\n·Applies the **Wet** status to the character and to opponents who come in contact with them.\n\n**Barbara's music is the magic that heals her companions.**",
+        "img": "Barbara/skill_1",
         "talentTable": [
           {
             "name": "HP Regeneration Per Hit",
@@ -219,6 +221,7 @@
     "ult": {
       "name": "Shining Miracle♪",
       "desc": "Heals your own party members and nearby teammates for a large amount of HP that scales with Barbara's Max HP.\n\n**Barbara's desire to heal strengthens her will to fight and sing.**",
+      "img": "Barbara/ult",
       "talentTable": [
         {
           "name": "Regeneration",
@@ -253,16 +256,19 @@
       {
         "name": "Glorious Season",
         "desc": "The Stamina Consumption of characters within **Let the Show Begin♪**'s Melody Loop is reduced by 12%.",
+        "img": "Barbara/passive_0",
         "minAscension": 1
       },
       {
         "name": "Encore",
         "desc": "When your active character gains an Elemental Orb/Particle, the duration of the Melody Loop of **Let the Show Begin♪** is extended by 1s.\nThe maximum extension is 5s.",
+        "img": "Barbara/passive_1",
         "minAscension": 4
       },
       {
         "name": "With My Whole Heart♪",
         "desc": "When a Perfect Cooking is achieved on a dish with restorative effects, there is a 12% chance to obtain double the product.",
+        "img": "Common/Perfect_Cooking_Healing",
         "minAscension": 0
       }
     ],

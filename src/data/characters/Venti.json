@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Divine Marksmanship",
-        "desc": "**Normal Attack**\nPerform up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal **Anemo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal **Anemo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -194,6 +195,7 @@
       {
         "name": "Skyward Sonnet",
         "desc": "O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\n\n**Press**\nSummons a Wind Domain at the opponent's location, dealing **AoE Anemo DMG** and launching opponents into the air.\n\n**Hold**\nSummons an even larger Wind Domain with Venti as the epicenter, dealing **AoE Anemo DMG** and launching affected opponents into the air.\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\n\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\n\n**In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.**",
+        "img": "Venti/skill_1",
         "talentTable": [
           {
             "name": "Press DMG",
@@ -245,6 +247,7 @@
     "ult": {
       "name": "Wind's Grand Ode",
       "desc": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous **Anemo DMG**.\n\n**Elemental Absorption**\nIf the Stormeye comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**Many hymns written in praise of the Anemo Archon have been lost to time. This one sings of his mastery over the wind.**",
+      "img": "Venti/ult",
       "talentTable": [
         {
           "name": "DoT",
@@ -301,16 +304,19 @@
       {
         "name": "Embrace of Winds",
         "desc": "Holding **Skyward Sonnet** creates an upcurrent that lasts for 20s.",
+        "img": "Venti/passive_0",
         "minAscension": 1
       },
       {
         "name": "Stormeye",
         "desc": "Regenerates 15 Energy for Venti after the effects of **Wind's Grand Ode** end.\nIf an Elemental Absorption occurred, this also restores 15 Energy to all characters of that corresponding element in the party.",
+        "img": "Venti/passive_1",
         "minAscension": 4
       },
       {
         "name": "Windrider",
         "desc": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Gliding_Stamina",
         "minAscension": 0
       }
     ],

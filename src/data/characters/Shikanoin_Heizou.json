@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Fudou Style Martial Arts",
         "desc": "**Normal Attack**\nPerforms up to 5 fisticuffs empowered by a mighty wind, dealing **Anemo DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and performs a sweeping kick that deals **Anemo DMG**.\n\n**Plunging Attack**\nCalling upon the surging wind, Heizou plunges towards the ground from mid-air, damaging all opponents in his path. Deals **AoE Anemo DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Heartstopper Strike",
         "desc": "**Tap**\nWields the swift winds to launch a Heartstopper Strike that deals **Anemo DMG**.\n\n**Hold**\nCharges energy to unleash an even stronger blow. He will obtain the Declension effect while charging, which will increase the power of the Heartstopper Strike. When the skill button is released or the skill finishes charging, he will strike forward, dealing **Anemo DMG**.\n\n**Declension**\nIncreases the power of the next Heartstopper Strike. Max 4 stacks.\nWhen you possess 4 Declension stacks, the Conviction effect will be produced, which will cause the next Heartstopper Strike to be even stronger and have a larger AoE.\n\n**This seemingly ordinary strike contains Heizou's desire for criminals to honestly confess and repent.**",
+        "img": "Shikanoin_Heizou/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -235,6 +237,7 @@
     "ult": {
       "name": "Windmuster Kick",
       "desc": "Leaps into the air and uses the Fudou Style Vacuum Slugger and kicks his opponent. The Vacuum Slugger will explode upon hit and create an Arresting Windtunnel that pulls in nearby objects and opponents, dealing **AoE Anemo DMG**.\nWhen Vacuum Slugger hits opponents affected by **Hydro**/**Pyro**/**Cryo**/**Electro**, these opponents will be afflicted with Windmuster Iris. This Windmuster Iris will explode after a moment and dissipate, dealing AoE DMG of the corresponding aforementioned elemental type.\nVacuum Slugger can afflict a maximum of 4 opponents with the Windmuster Iris. A single opponent cannot be under the effect of Windmuster Irises of different elements at the same time.\n\n**A unique technique that gathers Anemo in one place before unleashing it all in one kick. Is always there in a pinch to land on some criminal's fleeing back.**",
+      "img": "Shikanoin_Heizou/ult",
       "talentTable": [
         {
           "name": "Fudou Style Vacuum Slugger DMG",
@@ -287,16 +290,19 @@
       {
         "name": "Paradoxical Practice",
         "desc": "When Shikanoin Heizou activates a Swirl reaction while on the field, he will gain 1 Declension stack for **Heartstopper Strike**. This effect can be triggered once every 0.1s.",
+        "img": "Shikanoin_Heizou/passive_0",
         "minAscension": 1
       },
       {
         "name": "Penetrative Reasoning",
         "desc": "After Shikanoin Heizou's **Heartstopper Strike** hits an opponent, increases all party members' (excluding Shikanoin Heizou) Elemental Mastery by 80 for 10s.",
+        "img": "Shikanoin_Heizou/passive_1",
         "minAscension": 4
       },
       {
         "name": "Pre-Existing Guilt",
         "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Sprinting_Stamina",
         "minAscension": 0
       }
     ],

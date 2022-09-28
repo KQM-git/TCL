@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Dough-Fu",
         "desc": "**Normal Attack**\nPerforms up to five consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Guoba Attack",
         "desc": "Summons Guoba, who will continuously breathe fire at opponents, dealing **AoE Pyro DMG**.\n\n**Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.**",
+        "img": "Xiangling/skill_1",
         "talentTable": [
           {
             "name": "Flame DMG",
@@ -195,6 +197,7 @@
     "ult": {
       "name": "Pyronado",
       "desc": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\nThe Pyronado will move with your character for the ability's duration, dealing **Pyro DMG** to all opponents in its path.\n\n**There will never be enough heat. Never.**",
+      "img": "Xiangling/ult",
       "talentTable": [
         {
           "name": "1-Hit Swing DMG",
@@ -287,16 +290,19 @@
       {
         "name": "Crossfire",
         "desc": "Increases the flame range of Guoba by 20%.",
+        "img": "Xiangling/passive_0",
         "minAscension": 1
       },
       {
         "name": "Beware, It's Super Hot!",
         "desc": "When **Guoba Attack**'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
+        "img": "Xiangling/passive_1",
         "minAscension": 4
       },
       {
         "name": "Chef de Cuisine",
         "desc": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
+        "img": "Common/Perfect_Cooking_Attack",
         "minAscension": 0
       }
     ],

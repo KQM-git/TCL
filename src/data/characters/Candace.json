@@ -1,0 +1,488 @@
+{
+  "name": "Candace",
+  "star": 4,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 911.791,
+    "attackBase": 17.808,
+    "defenseBase": 57.225,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 4*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 4*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 4*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Gleaming Spear - Guardian Stance",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "60.8%",
+              "65.8%",
+              "70.7%",
+              "77.8%",
+              "82.7%",
+              "88.4%",
+              "96.2%",
+              "103.9%",
+              "111.7%",
+              "120.2%",
+              "128.7%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "61.1%",
+              "66.1%",
+              "71.1%",
+              "78.2%",
+              "83.2%",
+              "88.9%",
+              "96.7%",
+              "104.5%",
+              "112.3%",
+              "120.9%",
+              "129.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "35.5%+43.4%",
+              "38.4%+46.9%",
+              "41.3%+50.4%",
+              "45.4%+55.5%",
+              "48.3%+59.0%",
+              "51.6%+63.0%",
+              "56.1%+68.6%",
+              "60.7%+74.1%",
+              "65.2%+79.7%",
+              "70.2%+85.7%",
+              "75.1%+91.8%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "94.9%",
+              "102.7%",
+              "110.4%",
+              "121.4%",
+              "129.2%",
+              "138.0%",
+              "150.1%",
+              "162.3%",
+              "174.4%",
+              "187.7%",
+              "200.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "124.2%",
+              "134.3%",
+              "144.4%",
+              "158.8%",
+              "168.9%",
+              "180.5%",
+              "196.4%",
+              "212.3%",
+              "228.2%",
+              "245.5%",
+              "262.8%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sacred Rite: Heron's Sanctum",
+        "desc": "Candace's fighting style is capable of warding off an entire tide of foes.\n\n**Tap**\nRushes forward with her shield, dealing **Hydro DMG** to opponents in front of her.\n\n**Hold**\nRaises her shield to block incoming attacks from nearby opponents, forming a barrier that absorbs DMG based on her Max HP and absorbs **Hydro DMG** 250% more effectively. This barrier lasts until the Elemental Skill is unleashed.\nAfter holding for a certain period of time, Candace will finish charging, and when the skill button is released, the skill duration expires, or when the barrier is broken, she will perform a leaping strike that deals **Hydro DMG** to opponents in front of her.\n\n**The oath of the guardians is more stalwart yet than the shields they inherit.**",
+        "img": "Candace/skill_1",
+        "talentTable": [
+          {
+            "name": "Shield DMG Absorption",
+            "values": [
+              "12.0% Max HP+1156",
+              "12.9% Max HP+1271",
+              "13.8% Max HP+1396",
+              "15.0% Max HP+1531",
+              "15.9% Max HP+1676",
+              "16.8% Max HP+1830",
+              "18.0% Max HP+1993",
+              "19.2% Max HP+2167",
+              "20.4% Max HP+2350",
+              "21.6% Max HP+2542",
+              "22.8% Max HP+2745",
+              "24.0% Max HP+2957",
+              "25.5% Max HP+3178"
+            ]
+          },
+          {
+            "name": "Basic DMG",
+            "values": [
+              "12.0% Max HP",
+              "12.9% Max HP",
+              "13.8% Max HP",
+              "15.0% Max HP",
+              "15.9% Max HP",
+              "16.8% Max HP",
+              "18.0% Max HP",
+              "19.2% Max HP",
+              "20.4% Max HP",
+              "21.6% Max HP",
+              "22.8% Max HP",
+              "24.0% Max HP",
+              "25.5% Max HP"
+            ]
+          },
+          {
+            "name": "Charged Up DMG",
+            "values": [
+              "19.0% Max HP",
+              "20.5% Max HP",
+              "21.9% Max HP",
+              "23.8% Max HP",
+              "25.2% Max HP",
+              "26.7% Max HP",
+              "28.6% Max HP",
+              "30.5% Max HP",
+              "32.4% Max HP",
+              "34.3% Max HP",
+              "36.2% Max HP",
+              "38.1% Max HP",
+              "40.5% Max HP"
+            ]
+          },
+          {
+            "name": "Press CD",
+            "value": "6.0s"
+          },
+          {
+            "name": "Holding CD",
+            "value": "9.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Sacred Rite: Wagtail's Tide",
+      "desc": "Raising her weapon on high, Candace calls upon a divine blessing that deals **AoE Hydro DMG** based on her Max HP and continuously confers the Prayer of the Crimson Crown on your active character.\n\n**Prayer of the Crimson Crown**\nThis effect has the following properties:\n·Characters deal increased Elemental DMG with their Normal Attacks.\n·Whenever a character takes the field, they will unleash a rippling wave of water that deals **Hydro DMG** to nearby opponents. There is a limited number of waves that can be triggered in the duration of this skill.\n·Sword, Claymore, and Polearm-wielding characters under this effect will obtain a **Hydro Infusion**.\n\n**This secret rite has been passed down through Candace's clan from generation to generation. Though the old faiths have become lost over the years, the sands still protect the heirs of the ancient realm.**",
+      "img": "Candace/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "6.6% Max HP",
+            "7.1% Max HP",
+            "7.6% Max HP",
+            "8.3% Max HP",
+            "8.8% Max HP",
+            "9.3% Max HP",
+            "9.9% Max HP",
+            "10.6% Max HP",
+            "11.2% Max HP",
+            "11.9% Max HP",
+            "12.6% Max HP",
+            "13.2% Max HP",
+            "14.0% Max HP"
+          ]
+        },
+        {
+          "name": "Duration",
+          "value": "9.0s"
+        },
+        {
+          "name": "DMG Bonus",
+          "value": "20.0%"
+        },
+        {
+          "name": "Wave Impact DMG",
+          "values": [
+            "6.6% Max HP",
+            "7.1% Max HP",
+            "7.6% Max HP",
+            "8.3% Max HP",
+            "8.8% Max HP",
+            "9.3% Max HP",
+            "9.9% Max HP",
+            "10.6% Max HP",
+            "11.2% Max HP",
+            "11.9% Max HP",
+            "12.6% Max HP",
+            "13.2% Max HP",
+            "14.0% Max HP"
+          ]
+        },
+        {
+          "name": "Wave Instances",
+          "value": "3"
+        },
+        {
+          "name": "CD",
+          "value": "15.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "60"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Aegis of Crossed Arrows",
+        "desc": "If Candace is hit by an attack in the Hold duration of **Sacred Rite: Heron's Sanctum**, that skill will finish charging instantly.",
+        "img": "Candace/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Celestial Dome of Sand",
+        "desc": "Characters affected by the Prayer of the Crimson Crown caused by **Sacred Rite: Wagtail's Tide** will deal 0.5% increased DMG to opponents for every 1,000 points of Candace's Max HP when they deal Elemental DMG with their Normal Attacks.",
+        "img": "Candace/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "To Dawn's First Light",
+        "desc": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Climbing_Stamina",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Returning Heiress of the Scarlet Sands",
+        "desc": "The duration of Prayer of the Crimson Crown effect triggered by **Sacred Rite: Wagtail's Tide** is increased by 3s."
+      },
+      {
+        "name": "Moon-Piercing Brilliance",
+        "desc": "When **Sacred Rite: Heron's Sanctum** hits opponents, Candace's Max HP will be increased by 20% for 15s."
+      },
+      {
+        "name": "Hunter's Supplication",
+        "desc": "Increases the Level of **Sacred Rite: Wagtail's Tide** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Sentinel Oath",
+        "desc": "Shortens the Hold CD of **Sacred Rite: Heron's Sanctum** to be the same as that of the Tapping CD."
+      },
+      {
+        "name": "Heterochromatic Gaze",
+        "desc": "Increases the Level of **Sacred Rite: Heron's Sanctum** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "The Overflow",
+        "desc": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by **Sacred Rite: Wagtail's Tide** deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals **AoE Hydro DMG** equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 681.154541015625
+        },
+        {
+          "stat": "Base DEF",
+          "value": 42.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 13.3038
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1165.1328
+        },
+        {
+          "stat": "Base DEF",
+          "value": 73.125
+        },
+        {
+          "stat": "Base ATK",
+          "value": 22.7565
+        },
+        {
+          "stat": "HP%",
+          "value": 0.06
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1810.4371
+        },
+        {
+          "stat": "Base DEF",
+          "value": 113.625
+        },
+        {
+          "stat": "Base ATK",
+          "value": 35.3601
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2294.415283203125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 44.8128
+        },
+        {
+          "stat": "HP%",
+          "value": 0.12
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2778.3935546875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 174.375
+        },
+        {
+          "stat": "Base ATK",
+          "value": 54.2655
+        },
+        {
+          "stat": "HP%",
+          "value": 0.18
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3262.371826171875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 204.75
+        },
+        {
+          "stat": "Base ATK",
+          "value": 63.7182
+        },
+        {
+          "stat": "HP%",
+          "value": 0.24
+        }
+      ]
+    }
+  ]
+}

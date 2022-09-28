@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Kamisato Art - Kabuki",
         "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash a flurry of sword ki.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging enemies along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Kamisato Art: Hyouka",
         "desc": "Summons blooming ice to launch nearby opponents, dealing **AoE Cryo DMG**.\n\n**\"Clouds shroud the moonlit night. Longing descends like a fog, filling the one detained with wanderlust.\"**",
+        "img": "Kamisato_Ayaka/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -194,6 +196,7 @@
       {
         "name": "Kamisato Art: Senho",
         "desc": "**Alternate Sprint**\nAyaka consumes Stamina and cloaks herself in a frozen fog that moves with her.\n\nIn Senho form, she moves swiftly upon water.\nWhen she reappears, the following effects occur:\n·Ayaka unleashes frigid energy to apply **Cryo** on nearby opponents.\n·Coldness condenses around Ayaka's blade, infusing her attacks with **Cryo** for a brief period.\n\n**\"Feathers fleeting wet / the white heron treads water / a sight without flaw\"**",
+        "img": "Kamisato_Ayaka/skill_2",
         "talentTable": [
           {
             "name": "Activation Stamina Consumption",
@@ -213,6 +216,7 @@
     "ult": {
       "name": "Kamisato Art: Soumetsu",
       "desc": "Summons forth a snowstorm with flawless poise, unleashing a Frostflake Seki no To that moves forward continuously.\n\n**Frostflake Seki no To**\n·A storm of whirling icy winds that slashes repeatedly at every enemy it touches, dealing **Cryo DMG**.\n·The snowstorm explodes after its duration ends, dealing **AoE Cryo DMG**.\n\n**\"The blizzard veils the heron's thoughts, pity heavy in its heart.\"**",
+      "img": "Kamisato_Ayaka/ult",
       "talentTable": [
         {
           "name": "Cutting DMG",
@@ -269,16 +273,19 @@
       {
         "name": "Amatsumi Kunitsumi Sanctification",
         "desc": "After using **Kamisato Art: Hyouka**, Kamisato Ayaka's Normal and Charged Attacks deal 30% increased DMG for 6s.",
+        "img": "Kamisato_Ayaka/passive_0",
         "minAscension": 1
       },
       {
         "name": "Kanten Senmyou Blessing",
         "desc": "When the Cryo application at the end of **Kamisato Art: Senho** hits an opponent, Kamisato Ayaka gains the following effects:\n·Restores 10 Stamina\n·Gains 18% **Cryo DMG Bonus** for 10s.",
+        "img": "Kamisato_Ayaka/passive_1",
         "minAscension": 4
       },
       {
         "name": "Fruits of Shinsa",
         "desc": "When Ayaka crafts Weapon Ascension Materials, she has a 10% chance to receive double the product.",
+        "img": "Common/Double_Weapon_Ascension_Materials",
         "minAscension": 0
       }
     ],

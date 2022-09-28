@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Shinobu's Shadowsword",
-        "desc": "**Normal Attack**\nPerform up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 4 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -150,6 +151,7 @@
       {
         "name": "Sanctifying Ring",
         "desc": "Creates a Grass Ring of Sanctification at the cost of part of her HP, dealing **Electro DMG** to nearby opponents.\n\n**Grass Ring of Sanctification**\nFollows your current active character around. Deals **Electro DMG** to nearby opponents every 1.5s and restores HP for active character(s) within the ring's AoE based on Kuki Shinobu's Max HP.\n\nThe HP consumption from using this skill can only bring her to 20% HP.\n\n\"**Band the Naku Weed into a loop about your waist, and it shall exorcise evil.**\"",
+        "img": "Kuki_Shinobu/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -223,6 +225,7 @@
     "ult": {
       "name": "Gyoei Narukami Kariyama Rite",
       "desc": "Stabs an evil-excoriating blade into the ground, creating a field that cleanses the area of all that is foul, dealing continuous **Electro DMG** to opponents within its AoE based on Shinobu's Max HP.\nIf Shinobu's HP is less than or equal to 50% when this skill is used, the field will last longer.\n\n**This was originally a technique used in weeding and in ritual prayers for the yearly harvest, but Shinobu has not forgotten it, though her life as a shrine maiden may have ended.**",
+      "img": "Kuki_Shinobu/ult",
       "talentTable": [
         {
           "name": "Single Instance DMG",
@@ -279,16 +282,19 @@
       {
         "name": "Breaking Free",
         "desc": "When Shinobu's HP is not higher than 50%, her Healing Bonus is increased by 15%.",
+        "img": "Kuki_Shinobu/passive_0",
         "minAscension": 1
       },
       {
         "name": "Heart's Repose",
         "desc": "**Sanctifying Ring**'s abilities will be boosted based on Shinobu's Elemental Mastery:\n·Healing amount will be increased by 75% of Elemental Mastery.\n·DMG dealt is increased by 25% of Elemental Mastery.",
+        "img": "Kuki_Shinobu/passive_1",
         "minAscension": 4
       },
       {
         "name": "Protracted Prayers",
         "desc": "Gains 25% more rewards when dispatched on an Inazuma Expedition for 20 hours.",
+        "img": "Kuki_Shinobu/passive_2",
         "minAscension": 0
       }
     ],

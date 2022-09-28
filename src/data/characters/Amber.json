@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Sharpshooter",
-        "desc": "**Normal Attack**\nPerform up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal **Pyro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal **Pyro DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -178,6 +179,7 @@
       {
         "name": "Explosive Puppet",
         "desc": "The ever-reliable Baron Bunny takes the stage.\n\n**Baron Bunny**\n·Continuously taunts the enemy, drawing their fire.\n·Baron Bunny's HP scales with Amber's Max HP.\n·When destroyed or when its timer expires, Baron Bunny explodes, dealing **AoE Pyro DMG**.\n\n**Hold**\nAdjusts the throwing direction of Baron Bunny.\nThe longer the button is held, the further the throw.\n\n**Baron Bunny hails from a storied lineage, but Amber has stopped keeping count since Baron Bunny the 893rd.**",
+        "img": "Amber/skill_1",
         "talentTable": [
           {
             "name": "Inherited HP",
@@ -225,6 +227,7 @@
     "ult": {
       "name": "Fiery Rain",
       "desc": "Fires off a shower of arrows, dealing continuous **AoE Pyro DMG**.\n\n**Amber's passion truly burns hot.**",
+      "img": "Amber/ult",
       "talentTable": [
         {
           "name": "Fiery Rain DMG Per Wave",
@@ -281,16 +284,19 @@
       {
         "name": "Every Arrow Finds Its Target",
         "desc": "Increases the CRIT Rate of **Fiery Rain** by 10% and widens its AoE by 30%.",
+        "img": "Amber/passive_0",
         "minAscension": 1
       },
       {
         "name": "Precise Shot",
         "desc": "Aimed Shot hits on weak points increase ATK by 15% for 10s.",
+        "img": "Amber/passive_1",
         "minAscension": 4
       },
       {
         "name": "Gliding Champion",
         "desc": "Decreases gliding Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Gliding_Stamina",
         "minAscension": 0
       }
     ],

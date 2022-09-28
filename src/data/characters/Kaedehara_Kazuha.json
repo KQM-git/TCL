@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Garyuu Bladework",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG** and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG** and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Chihayaburu",
         "desc": "Unleashes a secret technique as fierce as the rushing wind that pulls objects and opponents towards Kazuha's current position before launching opponents within the AoE, dealing **Anemo DMG** and lifting Kazuha into the air on a rushing gust of wind.\nWithin 10s of remaining airborne after casting Chihayaburu, Kazuha can unleash a powerful Plunging Attack known as Midare Ranzan.\n\n**Press**\nCan be used in mid-air.\n\n**Hold**\nCharges up before unleashing greater **Anemo DMG** over a larger AoE than Press Mode.\n\n**Plunging Attack: Midare Ranzan**\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to **Anemo DMG**. On landing, Kazuha creates a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.\nMidare Ranzan's DMG is considered Plunging Attack DMG.\n\n**\"Wind in branches grieves\nBygone ages, gods of old\nWithered autumn leaves\"**",
+        "img": "Kaedehara_Kazuha/skill_1",
         "talentTable": [
           {
             "name": "Press Skill DMG",
@@ -217,6 +219,7 @@
     "ult": {
       "name": "Kazuha Slash",
       "desc": "The signature technique of Kazuha's self-styled bladework — a single slash that strikes with the force of the first winds of autumn, dealing **AoE Anemo DMG**.\nThe blade's passage will leave behind a field named \"Autumn Whirlwind\" that periodically deals **AoE Anemo DMG** to opponents within its range.\n\n**Elemental Absorption**\nIf Autumn Whirlwind comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**\"I see eternity go by in an instant, the autumns of many years from a single leaf. Thus I shall slice this maple in a flash, and ask a question of the ages.\"**",
+      "img": "Kaedehara_Kazuha/ult",
       "talentTable": [
         {
           "name": "Slashing DMG",
@@ -291,16 +294,19 @@
       {
         "name": "Soumon Swordsmanship",
         "desc": "If **Chihayaburu** comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro** when cast, this **Chihayaburu** will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.\nElemental Absorption may only occur once per use of **Chihayaburu**.",
+        "img": "Kaedehara_Kazuha/passive_0",
         "minAscension": 1
       },
       {
         "name": "Poetics of Fuubutsu",
         "desc": "Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.",
+        "img": "Kaedehara_Kazuha/passive_1",
         "minAscension": 4
       },
       {
         "name": "Cloud Strider",
         "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Sprinting_Stamina",
         "minAscension": 0
       }
     ],

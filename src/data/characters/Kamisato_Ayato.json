@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Kamisato Art - Marobashi",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to dash forward and perform an iai.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to dash forward and performs an iai.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Kamisato Art: Kyouka",
         "desc": "Kamisato Ayato shifts positions and enters the Takimeguri Kanka state.\nAfter this shift, he will leave a watery illusion at his original location. After it is formed, the watery illusion will explode if opponents are nearby or after its duration ends, dealing **AoE Hydro DMG**.\n\n**Takimeguri Kanka**\nIn this state, Kamisato Ayato uses his Shunsuiken to engage in blindingly fast attacks, causing DMG from his Normal Attacks to be converted into **AoE Hydro DMG**. This cannot be overridden.\nIt also has the following properties:\n·After a Shunsuiken attack hits an opponent, it will grant Ayato the Namisen effect, increasing the DMG dealt by Shunsuiken based on Ayato's current Max HP. The initial maximum number of Namisen stacks is 4, and 1 stack can be gained through Shunsuiken every 0.1s. This effect will be dispelled when Takimeguri Kanka ends.\n·Kamisato Ayato's resistance to interruption is increased.\n·Unable to use Charged or Plunging Attacks.\n\nTakimeguri Kanka will be cleared when Ayato leaves the field. Using Kamisato Art: Kyouka again while in the Takimeguri Kanka state will reset and replace the pre-existing state.\n\n**\"When, I wonder, did you come under the illusion that you were winning?\"**\n**— Ayato is like this in both matter of martial prowess and political intrigue, but to preserve the dignity of his fellow Commissioners, he does not say such things to them. As such, only Thoma, Itto, and Ayaka have ever heard this line.**",
+        "img": "Kamisato_Ayato/skill_1",
         "talentTable": [
           {
             "name": "Shunsuiken 1-Hit DMG",
@@ -275,6 +277,7 @@
     "ult": {
       "name": "Kamisato Art: Suiyuu",
       "desc": "Unveils a garden of purity that silences the cacophony within.\nWhile this space exists, Bloomwater Blades will constantly rain down and attack opponents within its AoE, dealing **Hydro DMG** and increasing the Normal Attack DMG of characters within.\n\n**\"I can see them, you know. The ripples of your beating heart within this realm of still waters.\"**",
+      "img": "Kamisato_Ayato/ult",
       "talentTable": [
         {
           "name": "Bloomwater Blade DMG",
@@ -331,16 +334,19 @@
       {
         "name": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
         "desc": "**Kamisato Art: Kyouka** has the following properties:\n·After it is used, Kamisato Ayato will gain 2 Namisen stacks.\n·When the water illusion explodes, Ayato will gain a Namisen effect equal to the maximum number of stacks possible.",
+        "img": "Kamisato_Ayato/passive_0",
         "minAscension": 1
       },
       {
         "name": "Kamisato Art: Michiyuku Hagetsu",
         "desc": "If Kamisato Ayato is not on the field and his Energy is less than 40, he will regenerate 2 Energy for himself every second.",
+        "img": "Kamisato_Ayato/passive_1",
         "minAscension": 4
       },
       {
         "name": "Kamisato Art: Daily Cooking",
         "desc": "When Ayato cooks a dish perfectly, he has a 18% chance to receive an additional \"Suspicious\" dish of the same type.",
+        "img": "Kamisato_Ayato/passive_2",
         "minAscension": 0
       }
     ],

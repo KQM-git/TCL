@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Foreign Rockblade",
         "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Starfell Sword",
         "desc": "You disgorge a meteorite from the depths of the earth, dealing **AoE Geo DMG**.\nThe meteorite is considered a **Geo Construct**, and can be climbed or used to block attacks.\n\n**Hold**\nThis skill's positioning may be adjusted.\n\n**You spoke with Paimon about the final destination of falling stars.**",
+        "img": "Traveler/6/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -199,6 +201,7 @@
     "ult": {
       "name": "Wake of Earth",
       "desc": "Energizing the Geo deep underground, you set off expanding shockwaves.\nLaunches surrounding opponents back and deals **AoE Geo DMG**.\nA stone wall is erected at the edges of the shockwave.\nThe stone wall is considered a **Geo Construct**, and may be used to block attacks.\n\n**You and Paimon studied the pulse of the mountains.**",
+      "img": "Traveler/6/ult",
       "talentTable": [
         {
           "name": "DMG Per Shockwave",
@@ -237,11 +240,13 @@
       {
         "name": "Shattered Darkrock",
         "desc": "Reduces **Starfell Sword**'s CD by 2s.",
+        "img": "Traveler/6/passive_0",
         "minAscension": 1
       },
       {
         "name": "Frenzied Rockslide",
         "desc": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as **AoE Geo DMG**.",
+        "img": "Traveler/6/passive_1",
         "minAscension": 4
       }
     ],

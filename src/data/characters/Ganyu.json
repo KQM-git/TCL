@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Liutian Archery",
-        "desc": "**Normal Attack**\nPerform up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n·Charge Level 1: Fires off an icy arrow that deals **Cryo DMG**.\n·Charge Level 2: Fires off a Frostflake Arrow that deals **Cryo DMG**. The Frostflake Arrow blooms after hitting its target, dealing **AoE Cryo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 6 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\n·Charge Level 1: Fires off an icy arrow that deals **Cryo DMG**.\n·Charge Level 2: Fires off a Frostflake Arrow that deals **Cryo DMG**. The Frostflake Arrow blooms after hitting its target, dealing **AoE Cryo DMG**.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -226,6 +227,7 @@
       {
         "name": "Trail of the Qilin",
         "desc": "Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing **AoE Cryo DMG**.\n\n**Ice Lotus**\n·Continuously taunts surrounding opponents, attracting them to attack it.\n·Endurance scales based on Ganyu's Max HP.\n·Blooms profusely when destroyed or once its duration ends, dealing **AoE Cryo DMG**.\n\n**\"You saw me, you say? You must be mistaken. I was working overtime then.\"**",
+        "img": "Ganyu/skill_1",
         "talentTable": [
           {
             "name": "Inherited HP",
@@ -277,6 +279,7 @@
     "ult": {
       "name": "Celestial Shower",
       "desc": "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.\nDuring its ability duration, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing **Cryo DMG**.\n\n**Ganyu can bring down sweet rains as a matter of course. But against demons and heretics, they become bitter, freezing snow.**",
+      "img": "Ganyu/ult",
       "talentTable": [
         {
           "name": "Ice Shard DMG",
@@ -315,16 +318,19 @@
       {
         "name": "Undivided Heart",
         "desc": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.",
+        "img": "Ganyu/passive_0",
         "minAscension": 1
       },
       {
         "name": "Harmony Between Heaven and Earth",
         "desc": "**Celestial Shower** grants a 20% **Cryo DMG Bonus** to active party members in the AoE.",
+        "img": "Ganyu/passive_1",
         "minAscension": 4
       },
       {
         "name": "Preserved for the Hunt",
         "desc": "Refunds 15% of the ore used when crafting Bow-type weapons.",
+        "img": "Ganyu/passive_2",
         "minAscension": 0
       }
     ],

@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Foreign Thundershock",
         "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Lightning Blade",
         "desc": "Unleashes three swift thunder shadows that deal **Electro DMG** to opponents and leave an Abundance Amulet behind after hitting an opponent.\n2 Abundance Amulets can be created initially. Using this skill will reset any Abundance Amulets that were generated.\n\n**Abundance Amulets**\nWhen a character is near an Abundance Amulet, they will absorb it and obtain the following effects:\n·Restores Elemental Energy\n·Increases Energy Recharge during the Abundance Amulet's duration.\n\n**You and Paimon discuss the paths by which electricity might flow.**",
+        "img": "Traveler/7/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -225,6 +227,7 @@
     "ult": {
       "name": "Bellowing Thunder",
       "desc": "You call upon the protection of lightning, knocking nearby opponents back and dealing **Electro DMG** to them.\n\n**Lightning Shroud**\nWhen your active character's Normal or Charged Attacks hit opponents, they will call Falling Thunder forth, dealing **Electro DMG.**\nWhen Falling Thunder hits opponents, it will regenerate Energy for that character.\nOne instance of Falling Thunder can be generated every 0.5s.\n\n**You and Paimon studied the light that flashes through the clouds.**",
+      "img": "Traveler/7/ult",
       "talentTable": [
         {
           "name": "Skill DMG",
@@ -299,11 +302,13 @@
       {
         "name": "Thunderflash",
         "desc": "When another nearby character in the party obtains an Abundance Amulet created by **Lightning Blade**, **Lightning Blade's** CD is decreased by 1.5s.",
+        "img": "Traveler/7/passive_0",
         "minAscension": 1
       },
       {
         "name": "Resounding Roar",
         "desc": "Increases the Energy Recharge effect granted by **Lightning Blade**'s Abundance Amulet by 10% of the Traveler's Energy Recharge.",
+        "img": "Traveler/7/passive_1",
         "minAscension": 4
       }
     ],

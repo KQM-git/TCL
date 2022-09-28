@@ -1,0 +1,582 @@
+{
+  "name": "Cyno",
+  "star": 5,
+  "weaponType": "Polearm",
+  "baseStats": {
+    "hpBase": 972.3864,
+    "attackBase": 24.7646,
+    "defenseBase": 66.88994,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Invoker's Spear",
+        "desc": "**Normal Attack**\nPerforms up to 4 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Polearm",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "49.3%",
+              "53.3%",
+              "57.3%",
+              "63.0%",
+              "67.0%",
+              "71.6%",
+              "77.9%",
+              "84.2%",
+              "90.5%",
+              "97.4%",
+              "104.2%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "47.9%",
+              "51.8%",
+              "55.7%",
+              "61.3%",
+              "65.2%",
+              "69.7%",
+              "75.8%",
+              "81.9%",
+              "88.0%",
+              "94.7%",
+              "101.4%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "29.3%+29.3%",
+              "31.7%+31.7%",
+              "34.1%+34.1%",
+              "37.5%+37.5%",
+              "39.9%+39.9%",
+              "42.6%+42.6%",
+              "46.3%+46.3%",
+              "50.1%+50.1%",
+              "53.8%+53.8%",
+              "57.9%+57.9%",
+              "62.0%+62.0%"
+            ]
+          },
+          {
+            "name": "4-Hit DMG",
+            "values": [
+              "75.9%",
+              "82.1%",
+              "88.2%",
+              "97.1%",
+              "103.2%",
+              "110.3%",
+              "120.0%",
+              "129.7%",
+              "139.4%",
+              "150.0%",
+              "160.6%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "122.4%",
+              "132.3%",
+              "142.3%",
+              "156.5%",
+              "166.5%",
+              "177.9%",
+              "193.5%",
+              "209.2%",
+              "224.8%",
+              "241.9%",
+              "259.0%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "25.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Secret Rite: Chasmic Soulfarer",
+        "desc": "Performs a swift thrust, dealing **Electro DMG** to opponents along the path.\n\nWhen Cyno is under the Pactsworn Pathclearer state triggered by Sacred Rite: Wolf's Swiftness, he will instead unleash a **Mortuary Rite** that deals thunderous **AoE Electro DMG** and extends the duration of Pactsworn Pathclearer.\n\n**\"This judgment brooks no choice. There is no rejection or acceptance here... We have both long been bound up in this conviction.\"**",
+        "img": "Cyno/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "130.4%",
+              "140.2%",
+              "150.0%",
+              "163.0%",
+              "172.8%",
+              "182.6%",
+              "195.6%",
+              "208.6%",
+              "221.7%",
+              "234.7%",
+              "247.8%",
+              "260.8%",
+              "277.1%"
+            ]
+          },
+          {
+            "name": "Mortuary Rite DMG",
+            "values": [
+              "156.8%",
+              "168.6%",
+              "180.3%",
+              "196.0%",
+              "207.8%",
+              "219.5%",
+              "235.2%",
+              "250.9%",
+              "266.6%",
+              "282.2%",
+              "297.9%",
+              "313.6%",
+              "333.2%"
+            ]
+          },
+          {
+            "name": "Pactsworn Pathclearer Duration Bonus",
+            "value": "4.0s"
+          },
+          {
+            "name": "CD",
+            "value": "7.5s"
+          },
+          {
+            "name": "Mortuary Rite CD",
+            "value": "3.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Sacred Rite: Wolf's Swiftness",
+      "desc": "Calls upon a divine spirit to indwell him, morphing into the Pactsworn Pathclearer.\n\n**Pactsworn Pathclearer**\nCyno's Normal, Charged, and Plunging Attacks will be converted to **Electro DMG** that cannot be overridden.\n·Cyno's Elemental Mastery and resistance to interruption will increase, and he gains immunity to Electro-Charged DMG.\n\nThis effect will be canceled when Cyno leaves the field and lasts a maximum of 18s.\n\n**The secret rituals passed down within the ancient nation are as a final judgment to the General Mahamatra.**\n**Whether now or in the past, whether great storm or serpent, none shall shake the majesty of the law.**",
+      "img": "Cyno/ult",
+      "talentTable": [
+        {
+          "name": "1-Hit DMG",
+          "values": [
+            "78.3%",
+            "84.7%",
+            "91.0%",
+            "100.1%",
+            "106.5%",
+            "113.8%",
+            "123.8%",
+            "133.8%",
+            "143.8%",
+            "154.7%",
+            "165.7%",
+            "176.6%",
+            "187.5%"
+          ]
+        },
+        {
+          "name": "2-Hit DMG",
+          "values": [
+            "82.5%",
+            "89.2%",
+            "95.9%",
+            "105.5%",
+            "112.2%",
+            "119.9%",
+            "130.4%",
+            "141.0%",
+            "151.5%",
+            "163.0%",
+            "174.5%",
+            "186.0%",
+            "197.5%"
+          ]
+        },
+        {
+          "name": "3-Hit DMG",
+          "values": [
+            "104.6%",
+            "113.2%",
+            "121.7%",
+            "133.8%",
+            "142.4%",
+            "152.1%",
+            "165.5%",
+            "178.9%",
+            "192.2%",
+            "206.8%",
+            "221.4%",
+            "236.0%",
+            "250.6%"
+          ]
+        },
+        {
+          "name": "4-Hit DMG",
+          "values": [
+            "51.7%+51.7%",
+            "55.9%+55.9%",
+            "60.1%+60.1%",
+            "66.1%+66.1%",
+            "70.3%+70.3%",
+            "75.1%+75.1%",
+            "81.7%+81.7%",
+            "88.4%+88.4%",
+            "95.0%+95.0%",
+            "102.2%+102.2%",
+            "109.4%+109.4%",
+            "116.6%+116.6%",
+            "123.8%+123.8%"
+          ]
+        },
+        {
+          "name": "5-Hit DMG",
+          "values": [
+            "130.8%",
+            "141.5%",
+            "152.1%",
+            "167.4%",
+            "178.0%",
+            "190.2%",
+            "206.9%",
+            "223.7%",
+            "240.4%",
+            "258.6%",
+            "276.9%",
+            "295.2%",
+            "313.4%"
+          ]
+        },
+        {
+          "name": "Charged Attack DMG",
+          "values": [
+            "101.0%",
+            "109.3%",
+            "117.5%",
+            "129.3%",
+            "137.5%",
+            "146.9%",
+            "159.8%",
+            "172.7%",
+            "185.7%",
+            "199.7%",
+            "213.8%",
+            "228.0%",
+            "242.1%"
+          ]
+        },
+        {
+          "name": "Charged Attack Stamina Cost",
+          "value": "25.0"
+        },
+        {
+          "name": "Plunge DMG",
+          "values": [
+            "63.9%",
+            "69.1%",
+            "74.3%",
+            "81.8%",
+            "87.0%",
+            "92.9%",
+            "101.1%",
+            "109.3%",
+            "117.5%",
+            "126.4%",
+            "135.3%",
+            "144.2%",
+            "153.1%"
+          ]
+        },
+        {
+          "name": "Low/High Plunge DMG",
+          "values": [
+            "128%/160%",
+            "138%/173%",
+            "149%/186%",
+            "164%/204%",
+            "174%/217%",
+            "186%/232%",
+            "202%/253%",
+            "219%/273%",
+            "235%/293%",
+            "253%/316%",
+            "271%/338%",
+            "288%/360%",
+            "306%/382%"
+          ]
+        },
+        {
+          "name": "Elemental Mastery Bonus",
+          "value": "100"
+        },
+        {
+          "name": "Basic Duration",
+          "value": "10.0s"
+        },
+        {
+          "name": "CD",
+          "value": "20.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "80"
+        }
+      ],
+      "type": "Electro"
+    },
+    "passive": [
+      {
+        "name": "Featherfall Judgment",
+        "desc": "When Cyno is in the Pactsworn Pathclearer state activated by **Sacred Rite: Wolf's Swiftness**, Cyno will enter the Endseer stance at intervals. If he activates **Secret Rite: Chasmic Soulfarer** while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as **Electro DMG.**\nDuststalker Bolt DMG is considered Elemental Skill DMG.",
+        "img": "Cyno/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Authority Over the Nine Bows",
+        "desc": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:\n·Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.\n·Duststalker Bolt DMG from his Passive Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.",
+        "img": "Cyno/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "The Gift of Silence",
+        "desc": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
+        "img": "Cyno/passive_2",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Ordinance: Unceasing Vigil",
+        "desc": "After using **Sacred Rite: Wolf's Swiftness**, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Passive Talent Featherfall Judgment is triggered during **Secret Rite: Chasmic Soulfarer**, the duration of this increase will be refreshed.\nYou need to unlock the Passive Talent \"Featherfall Judgment.\""
+      },
+      {
+        "name": "Ceremony: Homecoming of Spirits",
+        "desc": "When Cyno's Normal Attacks hit opponents, his **Electro DMG Bonus** will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks."
+      },
+      {
+        "name": "Precept: Lawful Enforcer",
+        "desc": "Increases the Level of **Sacred Rite: Wolf's Swiftness** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Austerity: Forbidding Guard",
+        "desc": "When Cyno is in the Pactsworn Pathclearer state triggered by **Sacred Rite: Wolf's Swiftness**, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\nThis effect can occur 5 times within one use of **Sacred Rite: Wolf's Swiftness**."
+      },
+      {
+        "name": "Funerary Rite: The Passing of Starlight",
+        "desc": "Increases the Level of **Secret Rite: Chasmic Soulfarer** by 3.\nMaximum upgrade level is 15."
+      },
+      {
+        "name": "Raiment: Just Scales",
+        "desc": "After using **Sacred Rite: Wolf's Swiftness** or triggering the Judication effect of the Passive Talent \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one Duststalker Bolt.\n\"Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends.\nA maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.\nYou must first unlock the Passive Talent \"Featherfall Judgment.\""
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 833.7334
+        },
+        {
+          "stat": "Base DEF",
+          "value": 57.3534
+        },
+        {
+          "stat": "Base ATK",
+          "value": 21.231853485107422
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1426.1229
+        },
+        {
+          "stat": "Base DEF",
+          "value": 98.1045
+        },
+        {
+          "stat": "Base ATK",
+          "value": 36.31764602661133
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.096
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2215.9755859375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 152.4393
+        },
+        {
+          "stat": "Base ATK",
+          "value": 56.43203353881836
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2808.365234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 193.1904
+        },
+        {
+          "stat": "Base ATK",
+          "value": 71.51782
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.192
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3400.754638671875
+        },
+        {
+          "stat": "Base DEF",
+          "value": 233.9415
+        },
+        {
+          "stat": "Base ATK",
+          "value": 86.6036148071289
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.288
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3993.144287109375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 274.6926
+        },
+        {
+          "stat": "Base ATK",
+          "value": 101.68941
+        },
+        {
+          "stat": "CRIT DMG",
+          "value": 0.384
+        }
+      ]
+    }
+  ]
+}

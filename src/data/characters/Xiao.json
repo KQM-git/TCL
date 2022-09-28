@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Whirlwind Thrust",
         "desc": "**Normal Attack**\nPerforms up to 6 consecutive spear strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to perform an upward thrust.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\nXiao does not take DMG from performing Plunging Attacks.",
+        "img": "Common/Polearm",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -182,6 +183,7 @@
       {
         "name": "Lemniscatic Wind Cycling",
         "desc": "Xiao lunges forward, dealing **Anemo DMG** to opponents in his path.\nCan be used in mid-air.\nStarts with 2 charges.\n\n**According to the legends of another land, the world will someday be crushed by two great wind wheels. Xiao's mastery over polearms is transcendent, ripping his foes apart like those legendary wind wheels.**",
+        "img": "Xiao/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -211,6 +213,7 @@
     "ult": {
       "name": "Bane of All Evil",
       "desc": "Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.\n\n**Yaksha's Mask**\n·Greatly increases Xiao's jumping ability.\n·Increases his attack AoE and attack DMG.\n·Converts attack DMG into **Anemo DMG**, which cannot be overridden by any other elemental infusion.\n\nIn this state, Xiao will continuously lose HP.\nThe effects of this skill end when Xiao leaves the field.\n\n**Donning the Mask of the Yaksha, Xiao takes the terrifying, demon-conquering form of the Vigilant Yaksha. But this great power has also brought him great suffering. Some call him \"The Bane of All Evil.\"**",
+      "img": "Xiao/ult",
       "talentTable": [
         {
           "name": "Normal/Charged/Plunging Attack DMG Bonus",
@@ -267,16 +270,19 @@
       {
         "name": "Conqueror of Evil: Tamer of Demons",
         "desc": "While under the effects of **Bane of All Evil**, all DMG dealt by Xiao increases by 5%. DMG increases by a further 5% for every 3s the ability persists.\nThe maximum DMG Bonus is 25%.",
+        "img": "Xiao/passive_0",
         "minAscension": 1
       },
       {
         "name": "Dissolution Eon: Heaven Fall",
         "desc": "Using **Lemniscatic Wind Cycling** increases the DMG of subsequent uses of Lemniscatic Wind Cycling by 15%.\nThis effect lasts for 7s, and has a maximum of 3 stacks. Gaining a new stack refreshes the effect's duration.",
+        "img": "Xiao/passive_1",
         "minAscension": 4
       },
       {
         "name": "Transcension: Gravity Defier",
         "desc": "Decreases climbing Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Climbing_Stamina",
         "minAscension": 0
       }
     ],

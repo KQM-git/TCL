@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Ancient Sword Art",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Adeptus Art: Herald of Frost",
         "desc": "Using the Icevein Talisman, Qiqi brings forth the Herald of Frost, dealing **Cryo DMG** to surrounding opponents.\n\n**Herald of Frost**\n·On hit, Qiqi's Normal and Charged Attacks regenerate HP for your own party members and nearby teammates. Healing scales based on Qiqi's ATK.\n·Periodically regenerates your active character's HP.\n·Follows the character around, dealing **Cryo DMG** to opponents in their path.\n\n**I use this to prevent warming and rot... of Dr. Bai's precious ingredients. Yes.**",
+        "img": "Qiqi/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -253,6 +255,7 @@
     "ult": {
       "name": "Adeptus Art: Preserver of Fortune",
       "desc": "Qiqi releases the adeptus power sealed within her body, marking nearby opponents with a Fortune-Preserving Talisman that deals **Cryo DMG**.\n\n**Fortune-Preserving Talisman**\nWhen opponents affected by this Talisman take DMG, the character that dealt this DMG regenerates HP.\n\n**\"I am the Fortune Preserver, the Maiden of Resurrection.\"**\n**— Qiqi does not remember these words.**",
+      "img": "Qiqi/ult",
       "talentTable": [
         {
           "name": "Skill DMG",
@@ -309,16 +312,19 @@
       {
         "name": "Life-Prolonging Methods",
         "desc": "When a character under the effects of **Adeptus Art: Herald of Frost** triggers an Elemental Reaction, their Incoming Healing Bonus is increased by 20% for 8s.",
+        "img": "Qiqi/passive_0",
         "minAscension": 1
       },
       {
         "name": "A Glimpse Into Arcanum",
         "desc": "When Qiqi hits opponents with her Normal and Charged Attacks, she has a 50% chance to apply a Fortune-Preserving Talisman to them for 6s. This effect can only occur once every 30s.",
+        "img": "Qiqi/passive_1",
         "minAscension": 4
       },
       {
         "name": "Former Life Memories",
         "desc": "Displays the location of nearby **resources unique to Liyue** on the mini-map.",
+        "img": "Common/Specialties_Liyue",
         "minAscension": 0
       }
     ],

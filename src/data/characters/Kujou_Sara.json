@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Tengu Bowmanship",
-        "desc": "**Normal Attack**\nPerform up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerform a more precise **Aimed Shot** with increased DMG.\nWhile aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal **Electro DMG**.\nWhen in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 consecutive shots with a bow.\n\n**Charged Attack**\nPerforms a more precise **Aimed Shot** with increased DMG.\nWhile aiming, crackling lightning will accumulate on the arrowhead. An arrow fully charged with the storm's might will deal **Electro DMG**.\nWhen in the Crowfeather Cover state, a fully-charged arrow will leave a Crowfeather behind after it hits.\n\n**Plunging Attack**\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
+        "img": "Common/Bow",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -178,6 +179,7 @@
       {
         "name": "Tengu Stormcall",
         "desc": "Retreats rapidly with the speed of a tengu, summoning the protection of the Crowfeather.\nGains Crowfeather Cover for 18s, and when Kujou Sara fires a fully-charged Aimed Shot, Crowfeather Cover will be consumed, and will leave a Crowfeather at the target location.\nCrowfeathers will trigger Tengu Juurai: Ambush after a short time, dealing **Electro DMG** and granting the active character within its AoE an ATK Bonus based on Kujou Sara's Base ATK.\n\nThe ATK Bonuses from different Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n**The tengu race have never lacked for exceptional talents who have received an Electro Vision. It's just that they often habitually chant praises to the Electro Archon while manipulating Electro. The chants go something like this**\n**\"Show forth your might, O praiseworthy Narukami, and grant this supplicant your thunderous might! Sowaka!\"**",
+        "img": "Kujou_Sara/skill_1",
         "talentTable": [
           {
             "name": "Tengu Juurai: Ambush DMG",
@@ -229,6 +231,7 @@
     "ult": {
       "name": "Subjugation: Koukou Sendou",
       "desc": "Casts down Tengu Juurai: Titanbreaker, dealing **AoE Electro DMG**. Afterwards, Tengu Juurai: Titanbreaker spreads out into 4 consecutive bouts of Tengu Juurai: Stormcluster, dealing **AoE Electro DMG**.\nTengu Juurai: Titanbreaker and Tengu Juurai: Stormcluster can provide the active character within their AoE with the same ATK Bonus as given by the Elemental Skill, Tengu Stormcall.\n\nThe ATK Bonus provided by various kinds of Tengu Juurai will not stack, and their effects and duration will be determined by the last Tengu Juurai to take effect.\n\n**Sara departed from her people, the tengu, and also temporarily lost her faith in the Tenryou Commission. But once the clouds over her heart cleared, she found her own lightning anew.**",
+      "img": "Kujou_Sara/ult",
       "talentTable": [
         {
           "name": "Tengu Juurai: Titanbreaker DMG",
@@ -281,16 +284,19 @@
       {
         "name": "Immovable Will",
         "desc": "While in the Crowfeather Cover state provided by **Tengu Stormcall**, Aimed Shot charge times are decreased by 60%.",
+        "img": "Kujou_Sara/passive_0",
         "minAscension": 1
       },
       {
         "name": "Decorum",
         "desc": "When Tengu Juurai: Ambush hits opponents, Kujou Sara will restore 1.2 Energy to all party members for every 100% Energy Recharge she has. This effect can be triggered once every 3s.",
+        "img": "Kujou_Sara/passive_1",
         "minAscension": 4
       },
       {
         "name": "Land Survey",
         "desc": "When dispatched on an expedition in Inazuma, time consumed is reduced by 25%.",
+        "img": "Common/Expedition_Inazuma",
         "minAscension": 0
       }
     ],

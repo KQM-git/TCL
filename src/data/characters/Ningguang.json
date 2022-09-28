@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Sparkling Scatter",
         "desc": "**Normal Attack**\nShoots gems that deal **Geo DMG**.\nUpon hit, this grants Ningguang 1 Star Jade.\n\n**Charged Attack**\nConsumes a certain amount of stamina to fire off a giant gem that deals **Geo DMG**.\nIf Ningguang has any Star Jades, unleashing a Charged Attack will cause the Star Jades to be fired at the enemy as well, dealing additional DMG.\n\n**Plunging Attack**\nGathering the might of Geo, Ningguang plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Geo DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
         "talentTable": [
           {
             "name": "Normal Attack DMG",
@@ -118,6 +119,7 @@
       {
         "name": "Jade Screen",
         "desc": "Ningguang creates a Jade Screen out of gold, obsidian and her great opulence, dealing **AoE Geo DMG**.\n\n**Jade Screen**\n·Blocks opponents' projectiles.\n·Endurance scales based on Ningguang's Max HP.\n\nJade Screen is considered a **Geo Construct** and can be used to block certain attacks, but cannot be climbed. Only one Jade Screen may exist at any one time.\n\n**The canvas of stars is written upon this jade screen.**",
+        "img": "Ningguang/skill_1",
         "talentTable": [
           {
             "name": "Inherited HP",
@@ -165,6 +167,7 @@
     "ult": {
       "name": "Starshatter",
       "desc": "Gathering a great number of gems, Ningguang scatters them all at once, sending homing projectiles at her opponents that deal massive **Geo DMG**.\nIf Starshatter is cast when a Jade Screen is nearby, the Jade Screen will fire additional gem projectiles at the same time.\n\n**Stars shatter. Silence falls.**",
+      "img": "Ningguang/ult",
       "talentTable": [
         {
           "name": "DMG Per Gem",
@@ -199,16 +202,19 @@
       {
         "name": "Backup Plan",
         "desc": "When Ningguang is in possession of Star Jades, her Charged Attack does not consume Stamina.",
+        "img": "Ningguang/passive_0",
         "minAscension": 1
       },
       {
         "name": "Strategic Reserve",
         "desc": "A character that passes through the **Jade Screen** will gain a 12% **Geo DMG Bonus** for 10s.",
+        "img": "Ningguang/passive_1",
         "minAscension": 4
       },
       {
         "name": "Trove of Marvelous Treasures",
         "desc": "Displays the location of nearby **ore veins used in forging** on the mini-map.",
+        "img": "Ningguang/passive_2",
         "minAscension": 0
       }
     ],

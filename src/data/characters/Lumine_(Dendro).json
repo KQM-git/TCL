@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Foreign Fieldcleaver",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Razorgrass Blade",
         "desc": "With a flourish of your blade, you unleash a spray of razor-sharp leaves that go before you and deal **Dendro DMG**.\n\n**You and Paimon observed the flowing edges of grass and leaf.**",
+        "img": "Traveler/8/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -194,7 +196,8 @@
     ],
     "ult": {
       "name": "Surgent Manifestation",
-      "desc": "Calling upon the might of the flora all around you, you create a Lea Lotus Lamp. This Lamp will deal continuous **Dendro DMG** to opponents within its AoE.\n\n**Lotuslight Transfiguration**\nThe Lea Lotus Lamp will undergo the following changes after it comes into contact with **Hydro**/**Electro**/**Pyro**:\n·**Hydro**: the Lamp's AoE and the AoE of its attacks are increased.\n·**Electro**: the Lamp's ATK SPD is increased.\n·**Pyro**: the Lamp will explode after a short delay and then disappear, dealing **AoE Dendro DMG**.\nThe Lea Lotus Lamp can only undergo one Lotuslight Transfiguration in its duration.\n\nOnly one Lamp created by the Traveler can exist at any one time.\n\n**You and Paimon studied the sounds of plants that sprout after the rain.**",
+      "desc": "Calling upon the might of the flora all around you, you create a Lea Lotus Lamp.\nThis Lamp will deal continuous **Dendro DMG** to opponents within its AoE.\n\n**Lotuslight Transfiguration**\nThe Lea Lotus Lamp will undergo the following changes after it comes into contact with **Hydro**/**Electro**/**Pyro**:\n·**Hydro**: the Lamp's AoE and the AoE of its attacks are increased.\n·**Electro**: the Lamp's ATK SPD is increased.\n·**Pyro**: the Lamp will explode after a short delay and then disappear, dealing **AoE Dendro DMG**.\nThe Lea Lotus Lamp can only undergo one Lotuslight Transfiguration in its duration.\n\nOnly one Lamp created by the Traveler can exist at any one time.\n\n**You and Paimon studied the sounds of plants that sprout after the rain.**",
+      "img": "Traveler/8/ult",
       "talentTable": [
         {
           "name": "Lea Lotus Lamp Attack DMG",
@@ -251,11 +254,13 @@
       {
         "name": "Verdant Overgrowth",
         "desc": "**Lea Lotus Lamp** will obtain one level of Overflowing Lotuslight every second it is on the field, increasing the Elemental Mastery of active character(s) within its AoE by 6. Overflowing Lotuslight has a maximum of 10 stacks.",
+        "img": "Traveler/8/passive_0",
         "minAscension": 1
       },
       {
         "name": "Verdant Luxury",
         "desc": "Every point of Elemental Mastery the Traveler possesses increases the DMG dealt by **Razorgrass Blade** by 0.15% and the DMG dealt by **Surgent Manifestation** by 0.1%.",
+        "img": "Traveler/8/passive_1",
         "minAscension": 4
       }
     ],

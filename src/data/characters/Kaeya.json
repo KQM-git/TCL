@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Ceremonial Bladework",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Frostgnaw",
         "desc": "Unleashes a frigid blast, dealing **Cryo DMG** to opponents in front of Kaeya.\n\n**Kaeya seems affable, but his nature is that of unyielding ice.**",
+        "img": "Kaeya/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -195,6 +197,7 @@
     "ult": {
       "name": "Glacial Waltz",
       "desc": "Coalescing the frost in the air, Kaeya summons 3 icicles that revolve around him.\nThese icicles will follow the character around and deal **Cryo DMG** to opponents in their path for the ability's duration.\n\n**A winsome smile, genial words, and the merciless hoarfrost that lies beneath... These are all Kaeya's weapons.**",
+      "img": "Kaeya/ult",
       "talentTable": [
         {
           "name": "Skill DMG",
@@ -233,16 +236,19 @@
       {
         "name": "Cold-Blooded Strike",
         "desc": "Every hit with **Frostgnaw** regenerates HP for Kaeya equal to 15% of his ATK.",
+        "img": "Kaeya/passive_0",
         "minAscension": 1
       },
       {
         "name": "Glacial Heart",
         "desc": "Opponents **Frozen** by **Frostgnaw** will drop additional Elemental Particles.\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
+        "img": "Kaeya/passive_1",
         "minAscension": 4
       },
       {
         "name": "Hidden Strength",
         "desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\nNot stackable with Passive Talents that provide the exact same effects.",
+        "img": "Common/Decrease_Sprinting_Stamina",
         "minAscension": 0
       }
     ],

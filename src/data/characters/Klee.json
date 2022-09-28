@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Kaboom!",
-        "desc": "**Normal Attack**\nThrows things that go boom when they hit things! Perform up to 3 explosive attacks, dealing **AoE Pyro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and deals **AoE Pyro DMG** to opponents after a short casting time.\n\n**Plunging Attack**\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Pyro DMG** upon impact with the ground.",
+        "desc": "**Normal Attack**\nThrows things that go boom when they hit things! Performs up to 3 explosive attacks, dealing **AoE Pyro DMG**.\n\n**Charged Attack**\nConsumes a certain amount of Stamina and deals **AoE Pyro DMG** to opponents after a short casting time.\n\n**Plunging Attack**\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals **AoE Pyro DMG** upon impact with the ground.",
+        "img": "Common/Catalyst",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -134,6 +135,7 @@
       {
         "name": "Jumpy Dumpty",
         "desc": "Jumpy Dumpty is tons of boom-bang-fun! \nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing **AoE Pyro DMG** with every bounce.\n\nOn the third bounce, the bomb splits into many mines.\nThe mines will explode upon contact with opponents, or after a short period of time, dealing **AoE Pyro DMG**.\n\nStarts with 2 charges.\n\n**Jumpy Dumpty is Klee's good friend! She can't help but introduce him to everyone.**",
+        "img": "Klee/skill_1",
         "talentTable": [
           {
             "name": "Jumpy Dumpty DMG",
@@ -185,6 +187,7 @@
     "ult": {
       "name": "Sparks 'n' Splash",
       "desc": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing **AoE Pyro DMG**.\n\n**The knights all believe that Klee must have a lucky star watching over her to have never been hurt by any of her own bombs...**",
+      "img": "Klee/ult",
       "talentTable": [
         {
           "name": "Sparks 'n' Splash DMG",
@@ -223,16 +226,19 @@
       {
         "name": "Pounding Surprise",
         "desc": "When **Jumpy Dumpty** and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark.\nThis Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG.",
+        "img": "Klee/passive_0",
         "minAscension": 1
       },
       {
         "name": "Sparkling Burst",
         "desc": "When Klee's Charged Attack results in a CRIT Hit, all party members gain 2 Elemental Energy.",
+        "img": "Klee/passive_1",
         "minAscension": 4
       },
       {
         "name": "All Of My Treasures!",
         "desc": "Displays the location of nearby **resources unique to Mondstadt** on the mini-map.",
+        "img": "Common/Specialties_Mondstadt",
         "minAscension": 0
       }
     ],

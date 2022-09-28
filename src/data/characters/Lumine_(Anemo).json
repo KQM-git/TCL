@@ -28,6 +28,7 @@
       {
         "name": "Normal Attack: Foreign Ironwind",
         "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Palm Vortex",
         "desc": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous **Anemo DMG** to opponents in front of you.\nThe vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\n\n**Hold**\nDMG and AoE will gradually increase.\n\n**Elemental Absorption**\nIf the vortex comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**You discussed the way to grasp the formless wind with Paimon.**",
+        "img": "Traveler/4/skill_1",
         "talentTable": [
           {
             "name": "Initial Cutting DMG",
@@ -253,6 +255,7 @@
     "ult": {
       "name": "Gust Surge",
       "desc": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous **Anemo DMG**.\n\n**Elemental Absorption**\nIf the tornado comes into contact with **Hydro**/**Pyro**/**Cryo**/**Electro**, it will deal additional elemental DMG of that type.\nElemental Absorption may only occur once per use.\n\n**You and Paimon studied the flapping of a butterfly's wings.**",
+      "img": "Traveler/4/ult",
       "talentTable": [
         {
           "name": "Tornado DMG",
@@ -309,11 +312,13 @@
       {
         "name": "Slitting Wind",
         "desc": "The last hit of a Normal Attack combo unleashes a wind blade, dealing 60% of ATK as **Anemo DMG** to all opponents in its path.",
+        "img": "Traveler/4/passive_0",
         "minAscension": 1
       },
       {
         "name": "Second Wind",
-        "desc": "**Palm Vortex** kills regenerate 2% HP for 5s. This effect can only occur once every 5s.",
+        "desc": "**Palm Vortex** kills regenerate 2% HP for 5s.\nThis effect can only occur once every 5s.",
+        "img": "Traveler/4/passive_1",
         "minAscension": 4
       }
     ],

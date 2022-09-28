@@ -27,7 +27,8 @@
     "talents": [
       {
         "name": "Normal Attack: Guhua Style",
-        "desc": "**Normal Attack**\nPerform up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "desc": "**Normal Attack**\nPerforms up to 5 rapid strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
         "talentTable": [
           {
             "name": "1-Hit DMG",
@@ -166,6 +167,7 @@
       {
         "name": "Guhua Sword: Fatal Rainscreen",
         "desc": "Xingqiu performs twin strikes with his sword, dealing **Hydro DMG**. At the same time, this ability creates the maximum number of Rain Swords, which will orbit your active character.\nThe Rain Swords have the following properties:\n·When a character takes DMG, the Rain Sword will shatter, reducing the amount of DMG taken.\n·Increases the character's resistance to interruption.\n20% of Xingqiu's **Hydro DMG Bonus** will be converted to additional DMG Reduction for the Rain Swords.\n\nThe maximum amount of additional DMG Reduction that can be gained this way is 24%.\nThe initial maximum number of Rain Swords is 3.\nUsing this ability applies the **Wet** status onto the character.\n\n**\"Easier to slay a rain dragon than to sever the rain.\"**",
+        "img": "Xingqiu/skill_1",
         "talentTable": [
           {
             "name": "Skill DMG",
@@ -217,6 +219,7 @@
     "ult": {
       "name": "Guhua Sword: Raincutter",
       "desc": "Initiate Rainbow Bladework and fight using an illusory sword rain, while creating the maximum number of Rain Swords.\n\n**Rainbow Bladework**\n·Your active character's Normal Attacks will trigger consecutive sword rain attacks, dealing **Hydro DMG**.\n·Rain Swords will remain at the maximum number throughout the ability's duration.\n\n**The \"Way of the Rain Cutter\" is one of the esoteric secret techniques of the Guhua Sect.**",
+      "img": "Xingqiu/ult",
       "talentTable": [
         {
           "name": "Sword Rain DMG",
@@ -255,16 +258,19 @@
       {
         "name": "Hydropathic",
         "desc": "When a Rain Sword is shattered or when its duration expires, it regenerates the current character's HP based on 6% of Xingqiu's Max HP.",
+        "img": "Xingqiu/passive_0",
         "minAscension": 1
       },
       {
         "name": "Blades Amidst Raindrops",
         "desc": "Xingqiu gains a 20% **Hydro DMG Bonus**.",
+        "img": "Xingqiu/passive_1",
         "minAscension": 4
       },
       {
         "name": "Flash of Genius",
         "desc": "When Xingqiu crafts Character Talent Materials, he has a 25% chance to refund a portion of the crafting materials used.",
+        "img": "Xingqiu/passive_2",
         "minAscension": 0
       }
     ],
