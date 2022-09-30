@@ -44,7 +44,7 @@ export default function StatsTable({
   }, [level])
 
   return (
-    <table onClick={() => setExpanded(true)} style={({
+    <table onClick={() => !expanded && setExpanded(true)} style={({
       cursor: expanded ? "" : "pointer"
     })}>
       <thead>
@@ -60,12 +60,8 @@ export default function StatsTable({
           .map(({ a, lv }) => <tr key={a + "," + lv}>
             <td align='left'>A{a}</td>
             <td align='left'>{lv}</td>
-            {Object.entries(getStatsAt(lv, a)).map(([name, {explain, value}]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
+            {Object.entries(getStatsAt(lv, a)).map(([name, { explain, value }]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
           </tr>)}
-
-        {!expanded && <tr>
-          <td align='center' colSpan={Object.keys(max).length + 2}><a href='#' onClick={e => e.preventDefault()}>Click to expand...</a></td>
-        </tr>}
 
         {expanded && <tr>
           <td align='left'>
@@ -84,7 +80,18 @@ export default function StatsTable({
               style={({ maxWidth: 64 })}
             />
           </td>
-          {Object.entries(getStatsAt(level, asc)).map(([name, {explain, value}]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
+          {Object.entries(getStatsAt(level, asc)).map(([name, { explain, value }]) => <td align='left' key={name} title={explain}>{stat(name, value)}</td>)}
+        </tr>}
+
+        {!expanded && <tr>
+          <td align='center' colSpan={Object.keys(max).length + 2}><a href='#' onClick={e => e.preventDefault()}>Click to expand...</a></td>
+        </tr>}
+        {expanded && <tr>
+          <td align='center' colSpan={Object.keys(max).length + 2} onClick={() => expanded && setExpanded(false)} style={({
+            cursor: "pointer"
+          })}>
+            <a href='#' onClick={e => e.preventDefault()}>Click to collapse...</a>
+          </td>
         </tr>}
       </tbody>
     </table>
