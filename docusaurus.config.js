@@ -145,8 +145,8 @@ const config = {
         logo: {
           alt: 'KeqingMains Logo',
           src: 'img/logo.webp',
-          width: 180,
-          height: 143
+          width: 40,
+          height: 32
         },
         items: [
           {
