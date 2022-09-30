@@ -277,27 +277,33 @@
     "constellations": [
       {
         "name": "Ice Unleashed",
-        "desc": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as **Cryo DMG** to all opponents in its path."
+        "desc": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as **Cryo DMG** to all opponents in its path.",
+        "img": "Chongyun/const_0"
       },
       {
         "name": "Atmospheric Revolution",
-        "desc": "Elemental Skills and Elemental Bursts cast within the Frost Field created by **Spirit Blade: Chonghua's Layered Frost** have their CD time decreased by 15%."
+        "desc": "Elemental Skills and Elemental Bursts cast within the Frost Field created by **Spirit Blade: Chonghua's Layered Frost** have their CD time decreased by 15%.",
+        "img": "Chongyun/const_1"
       },
       {
         "name": "Cloudburst",
-        "desc": "Increases the Level of **Spirit Blade: Cloud-Parting Star** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Spirit Blade: Cloud-Parting Star** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chongyun/const_2"
       },
       {
         "name": "Frozen Skies",
-        "desc": "Chongyun regenerates 1 Energy every time he hits an opponent affected by **Cryo**.\nThis effect can only occur once every 2s."
+        "desc": "Chongyun regenerates 1 Energy every time he hits an opponent affected by **Cryo**.\nThis effect can only occur once every 2s.",
+        "img": "Chongyun/const_3"
       },
       {
         "name": "The True Path",
-        "desc": "Increases the Level of **Spirit Blade: Chonghua's Layered Frost** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Spirit Blade: Chonghua's Layered Frost** by 3.\nMaximum upgrade level is 15.",
+        "img": "Chongyun/const_4"
       },
       {
         "name": "Rally of Four Blades",
-        "desc": "**Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade."
+        "desc": "**Spirit Blade: Cloud-Parting Star** deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\nThis skill will also summon 1 additional spirit blade.",
+        "img": "Chongyun/const_5"
       }
     ]
   },

@@ -305,27 +305,33 @@
     "constellations": [
       {
         "name": "Returning Heiress of the Scarlet Sands",
-        "desc": "The duration of Prayer of the Crimson Crown effect triggered by **Sacred Rite: Wagtail's Tide** is increased by 3s."
+        "desc": "The duration of Prayer of the Crimson Crown effect triggered by **Sacred Rite: Wagtail's Tide** is increased by 3s.",
+        "img": "Candace/const_0"
       },
       {
         "name": "Moon-Piercing Brilliance",
-        "desc": "When **Sacred Rite: Heron's Sanctum** hits opponents, Candace's Max HP will be increased by 20% for 15s."
+        "desc": "When **Sacred Rite: Heron's Sanctum** hits opponents, Candace's Max HP will be increased by 20% for 15s.",
+        "img": "Candace/const_1"
       },
       {
         "name": "Hunter's Supplication",
-        "desc": "Increases the Level of **Sacred Rite: Wagtail's Tide** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Sacred Rite: Wagtail's Tide** by 3.\nMaximum upgrade level is 15.",
+        "img": "Candace/const_2"
       },
       {
         "name": "Sentinel Oath",
-        "desc": "Shortens the Hold CD of **Sacred Rite: Heron's Sanctum** to be the same as that of the Tapping CD."
+        "desc": "Shortens the Hold CD of **Sacred Rite: Heron's Sanctum** to be the same as that of the Tapping CD.",
+        "img": "Candace/const_3"
       },
       {
         "name": "Heterochromatic Gaze",
-        "desc": "Increases the Level of **Sacred Rite: Heron's Sanctum** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Sacred Rite: Heron's Sanctum** by 3.\nMaximum upgrade level is 15.",
+        "img": "Candace/const_4"
       },
       {
         "name": "The Overflow",
-        "desc": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by **Sacred Rite: Wagtail's Tide** deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals **AoE Hydro DMG** equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG."
+        "desc": "When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by **Sacred Rite: Wagtail's Tide** deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals **AoE Hydro DMG** equal to 15% of Candace's Max HP.\nThis effect can trigger once every 2.3s and is considered Elemental Burst DMG.",
+        "img": "Candace/const_5"
       }
     ]
   },

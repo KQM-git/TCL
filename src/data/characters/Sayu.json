@@ -389,27 +389,33 @@
     "constellations": [
       {
         "name": "Multi-Task no Jutsu",
-        "desc": "The Muji-Muji Daruma created by **Yoohoo Art: Mujina Flurry** will ignore HP limits and can simultaneously attack nearby opponents and heal characters."
+        "desc": "The Muji-Muji Daruma created by **Yoohoo Art: Mujina Flurry** will ignore HP limits and can simultaneously attack nearby opponents and heal characters.",
+        "img": "Sayu/const_0"
       },
       {
         "name": "Egress Prep",
-        "desc": "**Yoohoo Art: Fuuin Dash** gains the following effects:\n·DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%.\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%."
+        "desc": "**Yoohoo Art: Fuuin Dash** gains the following effects:\n·DMG of Fuufuu Whirlwind Kick in Press Mode increased by 3.3%.\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
+        "img": "Sayu/const_1"
       },
       {
         "name": "Eh, the Bunshin Can Handle It",
-        "desc": "Increases the Level of **Yoohoo Art: Mujina Flurry** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Yoohoo Art: Mujina Flurry** by 3.\nMaximum upgrade level is 15.",
+        "img": "Sayu/const_2"
       },
       {
         "name": "Skiving: New and Improved",
-        "desc": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s."
+        "desc": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\nThis effect occurs once every 2s.",
+        "img": "Sayu/const_3"
       },
       {
         "name": "Speed Comes First",
-        "desc": "Increases the Level of **Yoohoo Art: Fuuin Dash** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Yoohoo Art: Fuuin Dash** by 3.\nMaximum upgrade level is 15.",
+        "img": "Sayu/const_4"
       },
       {
         "name": "Sleep O'Clock",
-        "desc": "The Muji-Muji Daruma created by Sayu's **Yoohoo Art: Mujina Flurry** will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\n·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.\n·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner."
+        "desc": "The Muji-Muji Daruma created by Sayu's **Yoohoo Art: Mujina Flurry** will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\n·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum of 400% ATK can be gained via this method.\n·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.",
+        "img": "Sayu/const_5"
       }
     ]
   },

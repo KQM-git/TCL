@@ -245,27 +245,33 @@
     "constellations": [
       {
         "name": "Chained Reactions",
-        "desc": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG."
+        "desc": "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of **Sparks 'n' Splash**'s DMG.",
+        "img": "Klee/const_0"
       },
       {
         "name": "Explosive Frags",
-        "desc": "Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s."
+        "desc": "Being hit by **Jumpy Dumpty**'s mines decreases opponents' DEF by 23% for 10s.",
+        "img": "Klee/const_1"
       },
       {
         "name": "Exquisite Compound",
-        "desc": "Increases the Level of **Jumpy Dumpty** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Jumpy Dumpty** by 3.\nMaximum upgrade level is 15.",
+        "img": "Klee/const_2"
       },
       {
         "name": "Sparkly Explosion",
-        "desc": "If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**."
+        "desc": "If Klee leaves the field during the duration of **Sparks 'n' Splash**, her departure triggers an explosion that deals 555% of her ATK as **AoE Pyro DMG**.",
+        "img": "Klee/const_3"
       },
       {
         "name": "Nova Burst",
-        "desc": "Increases the Level of **Sparks 'n' Splash** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Sparks 'n' Splash** by 3.\nMaximum upgrade level is 15.",
+        "img": "Klee/const_4"
       },
       {
         "name": "Blazing Delight",
-        "desc": "While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.\nWhen **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG Bonus** for 25s."
+        "desc": "While under the effects of **Sparks 'n' Splash**, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.\nWhen **Sparks 'n' Splash** is used, all party members will gain a 10% **Pyro DMG Bonus** for 25s.",
+        "img": "Klee/const_5"
       }
     ]
   },

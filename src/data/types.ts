@@ -42,12 +42,14 @@ export interface Skills {
 export interface Passive {
     name: string
     desc: string
+    img: string
     minAscension?: number
 }
 
 export interface Skill {
     name: string
     desc: string
+    img: string
     talentTable: (TalentTable | TalentValue)[]
     type?: string
 }
@@ -64,6 +66,7 @@ export interface TalentValue {
 export interface Constellation {
     name: string
     desc: string
+    img: string
 }
 
 export interface CharacterAscension {

@@ -323,27 +323,33 @@
     "constellations": [
       {
         "name": "Splitting Gales",
-        "desc": "Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG."
+        "desc": "Fires 2 additional arrows per **Aimed Shot**, each dealing 33% of the original arrow's DMG.",
+        "img": "Venti/const_0"
       },
       {
         "name": "Breeze of Reminiscence",
-        "desc": "**Skyward Sonnet** decreases opponents' **Anemo RES** and Physical RES by 12% for 10s.\nOpponents launched by **Skyward Sonnet** suffer an additional 12% **Anemo RES** and Physical RES decrease while airborne."
+        "desc": "**Skyward Sonnet** decreases opponents' **Anemo RES** and Physical RES by 12% for 10s.\nOpponents launched by **Skyward Sonnet** suffer an additional 12% **Anemo RES** and Physical RES decrease while airborne.",
+        "img": "Venti/const_1"
       },
       {
         "name": "Ode to Thousand Winds",
-        "desc": "Increases the Level of **Wind's Grand Ode** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Wind's Grand Ode** by 3.\nMaximum upgrade level is 15.",
+        "img": "Venti/const_2"
       },
       {
         "name": "Hurricane of Freedom",
-        "desc": "When Venti picks up an Elemental Orb or Particle, he receives a 25% **Anemo DMG Bonus** for 10s."
+        "desc": "When Venti picks up an Elemental Orb or Particle, he receives a 25% **Anemo DMG Bonus** for 10s.",
+        "img": "Venti/const_3"
       },
       {
         "name": "Concerto dal Cielo",
-        "desc": "Increases the Level of **Skyward Sonnet** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Skyward Sonnet** by 3.\nMaximum upgrade level is 15.",
+        "img": "Venti/const_4"
       },
       {
         "name": "Storm of Defiance",
-        "desc": "Targets who take DMG from **Wind's Grand Ode** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+        "desc": "Targets who take DMG from **Wind's Grand Ode** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+        "img": "Venti/const_5"
       }
     ]
   },

@@ -303,27 +303,33 @@
     "constellations": [
       {
         "name": "One Arrow to Rule Them All",
-        "desc": "Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG."
+        "desc": "Fires 2 arrows per **Aimed Shot**. The second arrow deals 20% of the first arrow's DMG.",
+        "img": "Amber/const_0"
       },
       {
         "name": "Bunny Triggered",
-        "desc": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG."
+        "desc": "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.\nExplosion via manual detonation deals 200% additional DMG.",
+        "img": "Amber/const_1"
       },
       {
         "name": "It Burns!",
-        "desc": "Increases the Level of **Fiery Rain** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Fiery Rain** by 3.\nMaximum upgrade level is 15.",
+        "img": "Amber/const_2"
       },
       {
         "name": "It's Not Just Any Doll...",
-        "desc": "Decreases **Explosive Puppet**'s CD by 20%. Adds 1 additional charge."
+        "desc": "Decreases **Explosive Puppet**'s CD by 20%. Adds 1 additional charge.",
+        "img": "Amber/const_3"
       },
       {
         "name": "It's Baron Bunny!",
-        "desc": "Increases the Level of **Explosive Puppet** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Explosive Puppet** by 3.\nMaximum upgrade level is 15.",
+        "img": "Amber/const_4"
       },
       {
         "name": "Wildfire",
-        "desc": "**Fiery Rain** increases all party members' Movement SPD by 15% and ATK by 15% for 10s."
+        "desc": "**Fiery Rain** increases all party members' Movement SPD by 15% and ATK by 15% for 10s.",
+        "img": "Amber/const_5"
       }
     ]
   },

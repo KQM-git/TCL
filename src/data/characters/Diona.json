@@ -343,27 +343,33 @@
     "constellations": [
       {
         "name": "A Lingering Flavor",
-        "desc": "Regenerates 15 Energy for Diona after the effects of **Signature Mix** end."
+        "desc": "Regenerates 15 Energy for Diona after the effects of **Signature Mix** end.",
+        "img": "Diona/const_0"
       },
       {
         "name": "Shaken, Not Purred",
-        "desc": "Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.\nAdditionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s."
+        "desc": "Increases **Icy Paws**' DMG by 15%, and increases its shield's DMG Absorption by 15%.\nAdditionally, when paws hit their targets, creates a shield for other nearby characters on the field with 50% of the **Icy Paws** shield's DMG Absorption for 5s.",
+        "img": "Diona/const_1"
       },
       {
         "name": "A—Another Round?",
-        "desc": "Increases the Level of **Signature Mix** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Signature Mix** by 3.\nMaximum upgrade level is 15.",
+        "img": "Diona/const_2"
       },
       {
         "name": "Wine Industry Slayer",
-        "desc": "Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%"
+        "desc": "Within the radius of **Signature Mix**, Diona's charge time for aimed shots is reduced by 60%",
+        "img": "Diona/const_3"
       },
       {
         "name": "Double Shot, on the Rocks",
-        "desc": "Increases the Level of **Icy Paws** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Icy Paws** by 3.\nMaximum upgrade level is 15.",
+        "img": "Diona/const_4"
       },
       {
         "name": "Cat's Tail Closing Time",
-        "desc": "Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%."
+        "desc": "Characters within **Signature Mix**'s radius will gain the following effects based on their HP amounts:\n·Increases Incoming Healing Bonus by 30% when HP falls below or is equal to 50%.\n·Elemental Mastery increased by 200 when HP is above 50%.",
+        "img": "Diona/const_5"
       }
     ]
   },

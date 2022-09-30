@@ -5,6 +5,7 @@ description: A traveler from another world who had their only kin taken away, fo
 import char from '@site/src/data/characters/Aether_(Geo).json'
 import lumine from '@site/src/data/characters/Lumine_(Geo).json'
 import { getSkillName } from '@site/src/utils/skill'
+import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Traveler (Geo)
 
@@ -28,7 +29,7 @@ import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
 <TabItem value='na' label='Lumine Normal Attacks'>
-<h3>{getSkillName(lumine, 'na')}</h3>
+<SkillIcon char={lumine} skill='na' />
 <div class='talent-columns'>
 <Skill char={lumine} skill='na' sectionFilter='Normal Attack' />
 
@@ -71,7 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 
 <TabItem value='na-aether' label='Aether Normal Attacks'>
-<h3>{getSkillName(char, 'na')}</h3>
+<SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
@@ -114,7 +115,7 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 
 <TabItem value='e' label='Skill'>
-<h3>{getSkillName(char, 'e')}</h3>
+<SkillIcon char={char} skill='e' />
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
@@ -145,7 +146,7 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 
 <TabItem value='q' label='Burst'>
-<h3>{getSkillName(char, 'q')}</h3>
+<SkillIcon char={char} skill='q' />
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 

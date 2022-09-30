@@ -273,27 +273,33 @@
     "constellations": [
       {
         "name": "Unholy Revelation",
-        "desc": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s."
+        "desc": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.",
+        "img": "Rosaria/const_0"
       },
       {
         "name": "Land Without Promise",
-        "desc": "The duration of the Ice Lance created by **Rites of Termination** is increased by 4s."
+        "desc": "The duration of the Ice Lance created by **Rites of Termination** is increased by 4s.",
+        "img": "Rosaria/const_1"
       },
       {
         "name": "The Wages of Sin",
-        "desc": "Increases the Level of **Ravaging Confession** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Ravaging Confession** by 3.\nMaximum upgrade level is 15.",
+        "img": "Rosaria/const_2"
       },
       {
         "name": "Painful Grace",
-        "desc": "**Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast."
+        "desc": "**Ravaging Confession**'s CRIT Hits regenerate 5 Energy for Rosaria.\nCan only be triggered once each time Ravaging Confession is cast.",
+        "img": "Rosaria/const_3"
       },
       {
         "name": "Last Rites",
-        "desc": "Increases the Level of **Rites of Termination** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Rites of Termination** by 3.\nMaximum upgrade level is 15.",
+        "img": "Rosaria/const_4"
       },
       {
         "name": "Divine Retribution",
-        "desc": "**Rites of Termination**'s attack decreases opponents' Physical RES by 20% for 10s."
+        "desc": "**Rites of Termination**'s attack decreases opponents' Physical RES by 20% for 10s.",
+        "img": "Rosaria/const_5"
       }
     ]
   },

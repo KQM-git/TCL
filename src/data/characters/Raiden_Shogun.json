@@ -497,27 +497,33 @@
     "constellations": [
       {
         "name": "Ominous Inscription",
-        "desc": "**Chakra Desiderata** will gather Resolve even faster. When **Electro** characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%."
+        "desc": "**Chakra Desiderata** will gather Resolve even faster. When **Electro** characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.",
+        "img": "Raiden_Shogun/const_0"
       },
       {
         "name": "Steelbreaker",
-        "desc": "While using Musou no Hitotachi and in the Musou Isshin state applied by **Secret Art: Musou Shinsetsu**, the Raiden Shogun's attacks ignore 60% of opponents' DEF."
+        "desc": "While using Musou no Hitotachi and in the Musou Isshin state applied by **Secret Art: Musou Shinsetsu**, the Raiden Shogun's attacks ignore 60% of opponents' DEF.",
+        "img": "Raiden_Shogun/const_1"
       },
       {
         "name": "Shinkage Bygones",
-        "desc": "Increases the Level of **Secret Art: Musou Shinsetsu** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Secret Art: Musou Shinsetsu** by 3.\nMaximum upgrade level is 15.",
+        "img": "Raiden_Shogun/const_2"
       },
       {
         "name": "Pledge of Propriety",
-        "desc": "When the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu** expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s."
+        "desc": "When the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu** expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.",
+        "img": "Raiden_Shogun/const_3"
       },
       {
         "name": "Shogun's Descent",
-        "desc": "Increases the Level of **Transcendence: Baleful Omen** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Transcendence: Baleful Omen** by 3.\nMaximum upgrade level is 15.",
+        "img": "Raiden_Shogun/const_4"
       },
       {
         "name": "Wishbearer",
-        "desc": "While in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration."
+        "desc": "While in the **Musou Isshin** state applied by **Secret Art: Musou Shinsetsu**, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.",
+        "img": "Raiden_Shogun/const_5"
       }
     ]
   },

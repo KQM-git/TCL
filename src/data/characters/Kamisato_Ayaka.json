@@ -292,27 +292,33 @@
     "constellations": [
       {
         "name": "Snowswept Sakura",
-        "desc": "When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s."
+        "desc": "When Kamisato Ayaka's Normal or Charged Attacks deal **Cryo DMG** to opponents, it has a 50% chance of decreasing the CD of **Kamisato Art: Hyouka** by 0.3s. This effect can occur once every 0.1s.",
+        "img": "Kamisato_Ayaka/const_0"
       },
       {
         "name": "Blizzard Blade Seki no To",
-        "desc": "When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG."
+        "desc": "When casting **Kamisato Art: Soumetsu**, unleashes 2 smaller additional Frostflake Seki no To, each dealing 20% of the original storm's DMG.",
+        "img": "Kamisato_Ayaka/const_1"
       },
       {
         "name": "Frostbloom Kamifubuki",
-        "desc": "Increases the Level of **Kamisato Art: Soumetsu** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Kamisato Art: Soumetsu** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kamisato_Ayaka/const_2"
       },
       {
         "name": "Ebb and Flow",
-        "desc": "Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s."
+        "desc": "Opponents damaged by **Kamisato Art: Soumetsu**'s Frostflake Seki no To will have their DEF decreased by 30% for 6s.",
+        "img": "Kamisato_Ayaka/const_3"
       },
       {
         "name": "Blossom Cloud Irutsuki",
-        "desc": "Increases the Level of **Kamisato Art: Hyouka** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Kamisato Art: Hyouka** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kamisato_Ayaka/const_4"
       },
       {
         "name": "Dance of Suigetsu",
-        "desc": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart."
+        "desc": "Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG by 298%. This buff will be cleared 0.5s after Ayaka's Charged ATK hits an opponent, after which the timer for this ability will restart.",
+        "img": "Kamisato_Ayaka/const_5"
       }
     ]
   },

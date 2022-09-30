@@ -267,27 +267,33 @@
     "constellations": [
       {
         "name": "Symbiotic Creeper",
-        "desc": "After **Razorgrass Blade** hits an opponent, it will regenerate 3.5 Energy for the Traveler."
+        "desc": "After **Razorgrass Blade** hits an opponent, it will regenerate 3.5 Energy for the Traveler.",
+        "img": "Traveler/8/const_0"
       },
       {
         "name": "Green Resilience",
-        "desc": "**Lea Lotus Lamp**'s duration is increased by 3s."
+        "desc": "**Lea Lotus Lamp**'s duration is increased by 3s.",
+        "img": "Traveler/8/const_1"
       },
       {
         "name": "Whirling Weeds",
-        "desc": "Increases the Level of **Razorgrass Blade** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Razorgrass Blade** by 3.\nMaximum upgrade level is 15.",
+        "img": "Traveler/8/const_2"
       },
       {
         "name": "Treacle Grass",
-        "desc": "After the **Lea Lotus Lamp** triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent \"Verdant Overgrowth.\"\nYou must have unlocked this Passive Talent first."
+        "desc": "After the **Lea Lotus Lamp** triggers a Lotuslight Transfiguration, it will obtain 5 stacks of the Overflowing Lotuslight effect from the Passive Talent \"Verdant Overgrowth.\"\nYou must have unlocked this Passive Talent first.",
+        "img": "Traveler/8/const_3"
       },
       {
         "name": "Viridian Transience",
-        "desc": "Increases the Level of **Surgent Manifestation** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Surgent Manifestation** by 3.\nMaximum upgrade level is 15.",
+        "img": "Traveler/8/const_4"
       },
       {
         "name": "Withering Aggregation",
-        "desc": "The **Dendro DMG Bonus** of the character under the effect of Overflowing Lotuslight as created by the **Lea Lotus Lamp** is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element."
+        "desc": "The **Dendro DMG Bonus** of the character under the effect of Overflowing Lotuslight as created by the **Lea Lotus Lamp** is increased by 12%. If the Lamp has experienced a Lotuslight Transfiguration previously, the character will also gain 12% DMG Bonus for the corresponding element.",
+        "img": "Traveler/8/const_5"
       }
     ]
   },

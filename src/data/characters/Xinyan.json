@@ -353,27 +353,33 @@
     "constellations": [
       {
         "name": "Fatal Acceleration",
-        "desc": "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s."
+        "desc": "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.\nCan only occur once every 5s.",
+        "img": "Xinyan/const_0"
       },
       {
         "name": "Impromptu Opening",
-        "desc": "**Riff Revolution**'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast."
+        "desc": "**Riff Revolution**'s Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast.",
+        "img": "Xinyan/const_1"
       },
       {
         "name": "Double-Stop",
-        "desc": "Increases the Level of **Sweeping Fervor** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Sweeping Fervor** by 3.\nMaximum upgrade level is 15.",
+        "img": "Xinyan/const_2"
       },
       {
         "name": "Wildfire Rhythm",
-        "desc": "**Sweeping Fervor**'s swing DMG decreases opponent's Physical RES by 15% for 12s."
+        "desc": "**Sweeping Fervor**'s swing DMG decreases opponent's Physical RES by 15% for 12s.",
+        "img": "Xinyan/const_3"
       },
       {
         "name": "Screamin' for an Encore",
-        "desc": "Increases the Level of **Riff Revolution** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Riff Revolution** by 3.\nMaximum upgrade level is 15.",
+        "img": "Xinyan/const_4"
       },
       {
         "name": "Rockin' in a Flaming World",
-        "desc": "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF."
+        "desc": "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF.",
+        "img": "Xinyan/const_5"
       }
     ]
   },

@@ -347,27 +347,33 @@
     "constellations": [
       {
         "name": "Sea Beast's Scourge",
-        "desc": "When **Stormbreaker** is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs **Electro DMG** 250% more effectively."
+        "desc": "When **Stormbreaker** is used:\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\nThis shield absorbs **Electro DMG** 250% more effectively.",
+        "img": "Beidou/const_0"
       },
       {
         "name": "Upon the Turbulent Sea, the Thunder Arises",
-        "desc": "**Stormbreaker**'s arc lightning can jump to 2 additional targets."
+        "desc": "**Stormbreaker**'s arc lightning can jump to 2 additional targets.",
+        "img": "Beidou/const_1"
       },
       {
         "name": "Summoner of Storm",
-        "desc": "Increases the Level of **Tidecaller** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Tidecaller** by 3.\nMaximum upgrade level is 15.",
+        "img": "Beidou/const_2"
       },
       {
         "name": "Stunning Revenge",
-        "desc": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s."
+        "desc": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% **Electro DMG** for 10s.",
+        "img": "Beidou/const_3"
       },
       {
         "name": "Crimson Tidewalker",
-        "desc": "Increases the Level of **Stormbreaker** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Stormbreaker** by 3.\nMaximum upgrade level is 15.",
+        "img": "Beidou/const_4"
       },
       {
         "name": "Bane of Evil",
-        "desc": "During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%."
+        "desc": "During the duration of **Stormbreaker**, the **Electro RES** of surrounding opponents is decreased by 15%.",
+        "img": "Beidou/const_5"
       }
     ]
   },

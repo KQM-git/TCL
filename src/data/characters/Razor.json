@@ -333,27 +333,33 @@
     "constellations": [
       {
         "name": "Wolf's Instinct",
-        "desc": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+        "desc": "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s.",
+        "img": "Razor/const_0"
       },
       {
         "name": "Suppression",
-        "desc": "Increases CRIT Rate against opponents with less than 30% HP by 10%."
+        "desc": "Increases CRIT Rate against opponents with less than 30% HP by 10%.",
+        "img": "Razor/const_1"
       },
       {
         "name": "Soul Companion",
-        "desc": "Increases the Level of **Lightning Fang** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Lightning Fang** by 3.\nMaximum upgrade level is 15.",
+        "img": "Razor/const_2"
       },
       {
         "name": "Bite",
-        "desc": "When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s."
+        "desc": "When casting **Claw and Thunder** (Press), opponents hit will have their DEF decreased by 15% for 7s.",
+        "img": "Razor/const_3"
       },
       {
         "name": "Sharpened Claws",
-        "desc": "Increases the Level of **Claw and Thunder** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Claw and Thunder** by 3.\nMaximum upgrade level is 15.",
+        "img": "Razor/const_4"
       },
       {
         "name": "Lupus Fulguris",
-        "desc": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.\nWhen Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an Electro Sigil for **Claw and Thunder**."
+        "desc": "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as **Electro DMG**.\nWhen Razor is not using **Lightning Fang**, a lightning strike on an opponent will grant Razor an Electro Sigil for **Claw and Thunder**.",
+        "img": "Razor/const_5"
       }
     ]
   },

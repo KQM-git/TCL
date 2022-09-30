@@ -295,27 +295,33 @@
     "constellations": [
       {
         "name": "Rushing Hound: Swift as the Wind",
-        "desc": "When characters (other than Gorou) within the AoE of Gorou's **General's War Banner** or **General's Glory** deal Geo DMG to opponents, the CD of Gorou's **Inuzaka All-Round Defense** is decreased by 2s.\nThis effect can occur once every 10s."
+        "desc": "When characters (other than Gorou) within the AoE of Gorou's **General's War Banner** or **General's Glory** deal Geo DMG to opponents, the CD of Gorou's **Inuzaka All-Round Defense** is decreased by 2s.\nThis effect can occur once every 10s.",
+        "img": "Gorou/const_0"
       },
       {
         "name": "Sitting Hound: Steady as a Clock",
-        "desc": "While **General's Glory** is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s."
+        "desc": "While **General's Glory** is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \nThis effect can occur once every 0.1s. Max extension is 3s.",
+        "img": "Gorou/const_1"
       },
       {
         "name": "Mauling Hound: Fierce as Fire",
-        "desc": "Increases the Level of **Inuzaka All-Round Defense** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Inuzaka All-Round Defense** by 3.\nMaximum upgrade level is 15.",
+        "img": "Gorou/const_2"
       },
       {
         "name": "Lapping Hound: Warm as Water",
-        "desc": "When **General's Glory** is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s."
+        "desc": "When **General's Glory** is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.",
+        "img": "Gorou/const_3"
       },
       {
         "name": "Striking Hound: Thunderous Force",
-        "desc": "Increases the Level of **Juuga: Forward Unto Victory** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Juuga: Forward Unto Victory** by 3.\nMaximum upgrade level is 15.",
+        "img": "Gorou/const_4"
       },
       {
         "name": "Valiant Hound: Mountainous Fealty",
-        "desc": "For 12s after using **Inuzaka All-Round Defense** or **Juuga: Forward Unto Victory**, increases the CRIT DMG of all nearby party members' **Geo DMG** based on the buff level of the skill's field at the time of use:\n· \"Standing Firm\": +10%\n· \"Impregnable\": +20%\n· \"Crunch\": +40%\n\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered."
+        "desc": "For 12s after using **Inuzaka All-Round Defense** or **Juuga: Forward Unto Victory**, increases the CRIT DMG of all nearby party members' **Geo DMG** based on the buff level of the skill's field at the time of use:\n· \"Standing Firm\": +10%\n· \"Impregnable\": +20%\n· \"Crunch\": +40%\n\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered.",
+        "img": "Gorou/const_5"
       }
     ]
   },

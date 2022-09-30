@@ -295,27 +295,33 @@
     "constellations": [
       {
         "name": "Yakan Offering",
-        "desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself."
+        "desc": "Each time **Great Secret Art: Tenko Kenshin** activates a Tenko Thunderbolt, Yae Miko will restore 8 Elemental Energy for herself.",
+        "img": "Yae_Miko/const_0"
       },
       {
         "name": "Fox's Mooncall",
-        "desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%."
+        "desc": "**Sesshou Sakura** start at Level 2 when created, their max level is increased to 4, and their attack range is increased by 60%.",
+        "img": "Yae_Miko/const_1"
       },
       {
         "name": "The Seven Glamours",
-        "desc": "Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Yakan Evocation: Sesshou Sakura** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yae_Miko/const_2"
       },
       {
         "name": "Sakura Channeling",
-        "desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s."
+        "desc": "When **Sesshou Sakura** lightning hits opponents, the **Electro DMG Bonus** of all nearby party members is increased by 20% for 5s.",
+        "img": "Yae_Miko/const_3"
       },
       {
         "name": "Mischievous Teasing",
-        "desc": "Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Great Secret Art: Tenko Kenshin** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yae_Miko/const_4"
       },
       {
         "name": "Forbidden Art: Daisesshou",
-        "desc": "**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF."
+        "desc": "**The Sesshou Sakura's** attacks will ignore 60% of the opponents' DEF.",
+        "img": "Yae_Miko/const_5"
       }
     ]
   },

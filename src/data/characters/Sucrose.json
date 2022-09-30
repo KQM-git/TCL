@@ -257,27 +257,33 @@
     "constellations": [
       {
         "name": "Clustered Vacuum Field",
-        "desc": "**Astable Anemohypostasis Creation - 6308** gains 1 additional charge."
+        "desc": "**Astable Anemohypostasis Creation - 6308** gains 1 additional charge.",
+        "img": "Sucrose/const_0"
       },
       {
         "name": "Beth: Unbound Form",
-        "desc": "The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s."
+        "desc": "The duration of **Forbidden Creation - Isomer 75 / Type II** is increased by 2s.",
+        "img": "Sucrose/const_1"
       },
       {
         "name": "Flawless Alchemistress",
-        "desc": "Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Astable Anemohypostasis Creation - 6308** by 3.\nMaximum upgrade level is 15.",
+        "img": "Sucrose/const_2"
       },
       {
         "name": "Alchemania",
-        "desc": "Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.\nOne hit may be counted every 0.1s."
+        "desc": "Sucrose will reduce the CD of **Astable Anemohypostasis Creation - 6308** by 1-7s for every 7 Normal or Charged Attack hits she scores against opponents.\nOne hit may be counted every 0.1s.",
+        "img": "Sucrose/const_3"
       },
       {
         "name": "Caution: Standard Flask",
-        "desc": "Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Forbidden Creation - Isomer 75 / Type II** by 3.\nMaximum upgrade level is 15.",
+        "img": "Sucrose/const_4"
       },
       {
         "name": "Chaotic Entropy",
-        "desc": "If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration."
+        "desc": "If **Forbidden Creation - Isomer 75 / Type II** triggers an Elemental Absorption, all party members gain a 20% Elemental DMG Bonus for the corresponding absorbed element during its duration.",
+        "img": "Sucrose/const_5"
       }
     ]
   },

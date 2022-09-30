@@ -353,27 +353,33 @@
     "constellations": [
       {
         "name": "I Got Your Back",
-        "desc": "While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate's healing effects activating is increased to 100%."
+        "desc": "While **Sweeping Time** and **Breastplate** are both in effect, the chance of Breastplate's healing effects activating is increased to 100%.",
+        "img": "Noelle/const_0"
       },
       {
         "name": "Combat Maid",
-        "desc": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%."
+        "desc": "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%.",
+        "img": "Noelle/const_1"
       },
       {
         "name": "Invulnerable Maid",
-        "desc": "Increases the Level of **Breastplate** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Breastplate** by 3.\nMaximum upgrade level is 15.",
+        "img": "Noelle/const_2"
       },
       {
         "name": "To Be Cleaned",
-        "desc": "When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 400% ATK of **Geo DMG** to surrounding opponents."
+        "desc": "When **Breastplate**'s duration expires or it is destroyed by DMG, it will deal 400% ATK of **Geo DMG** to surrounding opponents.",
+        "img": "Noelle/const_3"
       },
       {
         "name": "Favonius Sweeper Master",
-        "desc": "Increases the Level of **Sweeping Time** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Sweeping Time** by 3.\nMaximum upgrade level is 15.",
+        "img": "Noelle/const_4"
       },
       {
         "name": "Must Be Spotless",
-        "desc": "**Sweeping Time** increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s."
+        "desc": "**Sweeping Time** increases Noelle's ATK by an additional 50% of her DEF.\nAdditionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s.",
+        "img": "Noelle/const_5"
       }
     ]
   },

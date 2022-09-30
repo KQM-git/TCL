@@ -275,27 +275,33 @@
     "constellations": [
       {
         "name": "Gleeful Songs",
-        "desc": "Barbara regenerates 1 Energy every 10s."
+        "desc": "Barbara regenerates 1 Energy every 10s.",
+        "img": "Barbara/const_0"
       },
       {
         "name": "Vitality Burst",
-        "desc": "Decreases the CD of **Let the Show Begin♪** by 15%.\nDuring the ability's duration, your active character gains a 15% **Hydro DMG Bonus**."
+        "desc": "Decreases the CD of **Let the Show Begin♪** by 15%.\nDuring the ability's duration, your active character gains a 15% **Hydro DMG Bonus**.",
+        "img": "Barbara/const_1"
       },
       {
         "name": "Star of Tomorrow",
-        "desc": "Increases the Level of **Shining Miracle♪** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Shining Miracle♪** by 3.\nMaximum upgrade level is 15.",
+        "img": "Barbara/const_2"
       },
       {
         "name": "Attentiveness be My Power",
-        "desc": "Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.\nA maximum of 5 energy can be regenerated in this manner with any one Charged Attack."
+        "desc": "Every opponent Barbara hits with her Charged Attack regenerates 1 Energy for her.\nA maximum of 5 energy can be regenerated in this manner with any one Charged Attack.",
+        "img": "Barbara/const_3"
       },
       {
         "name": "The Purest Companionship",
-        "desc": "Increases the Level of **Let the Show Begin♪** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Let the Show Begin♪** by 3.\nMaximum upgrade level is 15.",
+        "img": "Barbara/const_4"
       },
       {
         "name": "Dedicating Everything to You",
-        "desc": "When Barbara is in the party but not on the field, and one of your own party members falls:\n·Automatically revives the fallen character.\n·Fully restores the revived character's HP to 100%.\nThis effect can only occur once every 15 mins."
+        "desc": "When Barbara is in the party but not on the field, and one of your own party members falls:\n·Automatically revives the fallen character.\n·Fully restores the revived character's HP to 100%.\nThis effect can only occur once every 15 mins.",
+        "img": "Barbara/const_5"
       }
     ]
   },

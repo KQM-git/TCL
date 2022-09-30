@@ -331,27 +331,33 @@
     "constellations": [
       {
         "name": "Conviction",
-        "desc": "Diluc deals 15% more DMG to opponents whose HP is above 50%."
+        "desc": "Diluc deals 15% more DMG to opponents whose HP is above 50%.",
+        "img": "Diluc/const_0"
       },
       {
         "name": "Searing Ember",
-        "desc": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s."
+        "desc": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+        "img": "Diluc/const_1"
       },
       {
         "name": "Fire and Steel",
-        "desc": "Increases the Level of **Searing Onslaught** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Searing Onslaught** by 3.\nMaximum upgrade level is 15.",
+        "img": "Diluc/const_2"
       },
       {
         "name": "Flowing Flame",
-        "desc": "Casting **Searing Onslaught** in rhythm greatly increases damage dealt.\n2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s."
+        "desc": "Casting **Searing Onslaught** in rhythm greatly increases damage dealt.\n2s after casting **Searing Onslaught**, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s.",
+        "img": "Diluc/const_3"
       },
       {
         "name": "Phoenix, Harbinger of Dawn",
-        "desc": "Increases the Level of **Dawn** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Dawn** by 3.\nMaximum upgrade level is 15.",
+        "img": "Diluc/const_4"
       },
       {
         "name": "Flaming Sword, Nemesis of the Dark",
-        "desc": "After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo."
+        "desc": "After casting **Searing Onslaught**, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+        "img": "Diluc/const_5"
       }
     ]
   },

@@ -221,27 +221,33 @@
     "constellations": [
       {
         "name": "Piercing Fragments",
-        "desc": "When a Normal Attack hits, it deals AoE DMG."
+        "desc": "When a Normal Attack hits, it deals AoE DMG.",
+        "img": "Ningguang/const_0"
       },
       {
         "name": "Shock Effect",
-        "desc": "When **Jade Screen** is shattered, its CD will reset.\nCan occur once every 6s."
+        "desc": "When **Jade Screen** is shattered, its CD will reset.\nCan occur once every 6s.",
+        "img": "Ningguang/const_1"
       },
       {
         "name": "Majesty Be the Array of Stars",
-        "desc": "Increases the Level of **Starshatter** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Starshatter** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ningguang/const_2"
       },
       {
         "name": "Exquisite be the Jade, Outshining All Beneath",
-        "desc": "**Jade Screen** increases nearby characters' Elemental RES by 10%."
+        "desc": "**Jade Screen** increases nearby characters' Elemental RES by 10%.",
+        "img": "Ningguang/const_3"
       },
       {
         "name": "Invincible Be the Jade Screen",
-        "desc": "Increases the Level of **Jade Screen** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Jade Screen** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ningguang/const_4"
       },
       {
         "name": "Grandeur Be the Seven Stars",
-        "desc": "When **Starshatter** is used, Ningguang gains 7 Star Jades."
+        "desc": "When **Starshatter** is used, Ningguang gains 7 Star Jades.",
+        "img": "Ningguang/const_5"
       }
     ]
   },

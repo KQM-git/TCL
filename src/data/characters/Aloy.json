@@ -309,27 +309,33 @@
     "constellations": [
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       },
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       },
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       },
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       },
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       },
       {
         "name": "Star of Another World",
-        "desc": "The time has not yet come for this person's corner of the night sky to light up."
+        "desc": "The time has not yet come for this person's corner of the night sky to light up.",
+        "img": "Common/Locked_Constellation"
       }
     ]
   },

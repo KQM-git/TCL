@@ -315,27 +315,33 @@
     "constellations": [
       {
         "name": "Infinite Circuit",
-        "desc": "Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.\nA maximum of 10 Energy can be regenerated in this manner at any one time."
+        "desc": "Lisa regenerates 2 Energy for every opponent hit while holding **Violet Arc**.\nA maximum of 10 Energy can be regenerated in this manner at any one time.",
+        "img": "Lisa/const_0"
       },
       {
         "name": "Electromagnetic Field",
-        "desc": "Holding **Violet Arc** has the following effects:\n·Increases DEF by 25%.\n·Increases Lisa's resistance to interruption."
+        "desc": "Holding **Violet Arc** has the following effects:\n·Increases DEF by 25%.\n·Increases Lisa's resistance to interruption.",
+        "img": "Lisa/const_1"
       },
       {
         "name": "Resonant Thunder",
-        "desc": "Increases the Level of **Lightning Rose** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Lightning Rose** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lisa/const_2"
       },
       {
         "name": "Plasma Eruption",
-        "desc": "Increases the number of lightning bolts released by **Lightning Rose** by 1-3."
+        "desc": "Increases the number of lightning bolts released by **Lightning Rose** by 1-3.",
+        "img": "Lisa/const_3"
       },
       {
         "name": "Electrocute",
-        "desc": "Increases the Level of **Violet Arc** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Violet Arc** by 3.\nMaximum upgrade level is 15.",
+        "img": "Lisa/const_4"
       },
       {
         "name": "Pulsating Witch",
-        "desc": "When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s Conductive status onto nearby opponents.\nThis effect can only occur once every 5s."
+        "desc": "When Lisa takes the field, she applies 3 stacks of **Violet Arc**'s Conductive status onto nearby opponents.\nThis effect can only occur once every 5s.",
+        "img": "Lisa/const_5"
       }
     ]
   },

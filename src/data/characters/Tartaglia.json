@@ -511,27 +511,33 @@
     "constellations": [
       {
         "name": "Foul Legacy: Tide Withholder",
-        "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%"
+        "desc": "Decreases the CD of **Foul Legacy: Raging Tide** by 20%",
+        "img": "Tartaglia/const_0"
       },
       {
         "name": "Foul Legacy: Understream",
-        "desc": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
+        "desc": "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy.",
+        "img": "Tartaglia/const_1"
       },
       {
         "name": "Abyssal Mayhem: Vortex of Turmoil",
-        "desc": "Increases the Level of **Foul Legacy: Raging Tide** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Foul Legacy: Raging Tide** by 3.\nMaximum upgrade level is 15.",
+        "img": "Tartaglia/const_2"
       },
       {
         "name": "Abyssal Mayhem: Hydrospout",
-        "desc": "If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
+        "desc": "If Tartaglia is in **Foul Legacy: Raging Tide**'s Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.\nRiptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals.",
+        "img": "Tartaglia/const_3"
       },
       {
         "name": "Havoc: Formless Blade",
-        "desc": "Increases the Level of **Havoc: Obliteration** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Havoc: Obliteration** by 3.\nMaximum upgrade level is 15.",
+        "img": "Tartaglia/const_4"
       },
       {
         "name": "Havoc: Annihilation",
-        "desc": "When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance."
+        "desc": "When **Havoc: Obliteration** is cast in Melee Stance, the CD of **Foul Legacy: Raging Tide** is reset.\nThis effect will only take place once Tartaglia returns to his Ranged Stance.",
+        "img": "Tartaglia/const_5"
       }
     ]
   },

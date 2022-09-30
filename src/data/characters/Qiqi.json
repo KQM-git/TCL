@@ -331,27 +331,33 @@
     "constellations": [
       {
         "name": "Ascetics of Frost",
-        "desc": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy."
+        "desc": "When the Herald of Frost hits an opponent marked by a Fortune-Preserving Talisman, Qiqi regenerates 2 Energy.",
+        "img": "Qiqi/const_0"
       },
       {
         "name": "Frozen to the Bone",
-        "desc": "Qiqi's Normal and Charge Attack DMG against opponents affected by **Cryo** is increased by 15%."
+        "desc": "Qiqi's Normal and Charge Attack DMG against opponents affected by **Cryo** is increased by 15%.",
+        "img": "Qiqi/const_1"
       },
       {
         "name": "Ascendant Praise",
-        "desc": "Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Adeptus Art: Preserver of Fortune** by 3.\nMaximum upgrade level is 15.",
+        "img": "Qiqi/const_2"
       },
       {
         "name": "Divine Suppression",
-        "desc": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%."
+        "desc": "Targets marked by the Fortune-Preserving Talisman have their ATK decreased by 20%.",
+        "img": "Qiqi/const_3"
       },
       {
         "name": "Crimson Lotus Bloom",
-        "desc": "Increases the Level of **Adeptus Art: Herald of Frost** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Adeptus Art: Herald of Frost** by 3.\nMaximum upgrade level is 15.",
+        "img": "Qiqi/const_4"
       },
       {
         "name": "Rite of Resurrection",
-        "desc": "Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins."
+        "desc": "Using **Adeptus Art: Preserver of Fortune** revives all fallen party members nearby and regenerates 50% of their HP.\nThis effect can only occur once every 15 mins.",
+        "img": "Qiqi/const_5"
       }
     ]
   },

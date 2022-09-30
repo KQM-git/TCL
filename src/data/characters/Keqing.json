@@ -323,27 +323,33 @@
     "constellations": [
       {
         "name": "Thundering Might",
-        "desc": "Recasting **Stellar Restoration** while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink."
+        "desc": "Recasting **Stellar Restoration** while a Lightning Stiletto is present causes Keqing to deal 50% of her ATK as **AoE Electro DMG** at the start point and terminus of her Blink.",
+        "img": "Keqing/const_0"
       },
       {
         "name": "Keen Extraction",
-        "desc": "When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.\nThis effect can only occur once every 5s."
+        "desc": "When Keqing's Normal and Charged Attacks hit opponents affected by **Electro**, they have a 50% chance of producing an Elemental Particle.\nThis effect can only occur once every 5s.",
+        "img": "Keqing/const_1"
       },
       {
         "name": "Foreseen Reformation",
-        "desc": "Increases the Level of **Starward Sword** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Starward Sword** by 3.\nMaximum upgrade level is 15.",
+        "img": "Keqing/const_2"
       },
       {
         "name": "Attunement",
-        "desc": "For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%."
+        "desc": "For 10s after Keqing triggers an **Electro-related Elemental Reaction**, her ATK is increased by 25%.",
+        "img": "Keqing/const_3"
       },
       {
         "name": "Beckoning Stars",
-        "desc": "Increases the Level of **Stellar Restoration** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Stellar Restoration** by 3.\nMaximum upgrade level is 15.",
+        "img": "Keqing/const_4"
       },
       {
         "name": "Tenacious Star",
-        "desc": "When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.\nEffects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities."
+        "desc": "When initiating a Normal Attack, a Charged Attack, Elemental Skill or Elemental Burst, Keqing gains a 6% **Electro DMG Bonus** for 8s.\nEffects triggered by Normal Attacks, Charged Attacks, Elemental Skills and Elemental Bursts are considered independent entities.",
+        "img": "Keqing/const_5"
       }
     ]
   },

@@ -399,27 +399,33 @@
     "constellations": [
       {
         "name": "Tidal Illusion",
-        "desc": "Every time **Icetide Vortex**'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
+        "desc": "Every time **Icetide Vortex**'s Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s.\nEach stack consumed will increase the duration of this effect by 6s up to a maximum of 18s.",
+        "img": "Eula/const_0"
       },
       {
         "name": "Lady of Seafoam",
-        "desc": "Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD."
+        "desc": "Decreases the CD of **Icetide Vortex**'s Holding Mode, rendering it identical to Press CD.",
+        "img": "Eula/const_1"
       },
       {
         "name": "Lawrence Pedigree",
-        "desc": "Increases the Level of **Glacial Illumination** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Glacial Illumination** by 3.\nMaximum upgrade level is 15.",
+        "img": "Eula/const_2"
       },
       {
         "name": "The Obstinacy of One's Inferiors",
-        "desc": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
+        "desc": "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP.",
+        "img": "Eula/const_3"
       },
       {
         "name": "Chivalric Quality",
-        "desc": "Increases the Level of **Icetide Vortex** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Icetide Vortex** by 3.\nMaximum upgrade level is 15.",
+        "img": "Eula/const_4"
       },
       {
         "name": "Noble Obligation",
-        "desc": "Lightfall Swords created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy."
+        "desc": "Lightfall Swords created by **Glacial Illumination** start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightfall Sword an additional stack of energy.",
+        "img": "Eula/const_5"
       }
     ]
   },

@@ -308,27 +308,33 @@
     "constellations": [
       {
         "name": "Prophecy of Submersion",
-        "desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%."
+        "desc": "When any of your own party members hits an opponent affected by an Omen, the effects of **Hydro-related Elemental Reactions** are enhanced for 8s:\n·Electro-Charged DMG increases by 15%.\n·Vaporize DMG increases by 15%.\n·Hydro Swirl DMG increases by 15%.\n·Frozen duration is extended by 15%.",
+        "img": "Mona/const_0"
       },
       {
         "name": "Lunar Chain",
-        "desc": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s."
+        "desc": "When a Normal Attack hits, there is a 20% chance that it will be automatically followed by a Charged Attack.\nThis effect can only occur once every 5s.",
+        "img": "Mona/const_1"
       },
       {
         "name": "Restless Revolution",
-        "desc": "Increases the Level of **Stellaris Phantasm** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Stellaris Phantasm** by 3.\nMaximum upgrade level is 15.",
+        "img": "Mona/const_2"
       },
       {
         "name": "Prophecy of Oblivion",
-        "desc": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%."
+        "desc": "When any party member attacks an opponent affected by an Omen, their CRIT Rate is increased by 15%.",
+        "img": "Mona/const_3"
       },
       {
         "name": "Mockery of Fortuna",
-        "desc": "Increases the Level of **Mirror Reflection of Doom** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Mirror Reflection of Doom** by 3.\nMaximum upgrade level is 15.",
+        "img": "Mona/const_4"
       },
       {
         "name": "Rhetorics of Calamitas",
-        "desc": "Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s."
+        "desc": "Upon entering **Illusory Torrent**, Mona gains a 60% increase to the DMG of her next Charged Attack per second of movement.\nA maximum DMG Bonus of 180% can be achieved in this manner. The effect lasts for no more than 8s.",
+        "img": "Mona/const_5"
       }
     ]
   },

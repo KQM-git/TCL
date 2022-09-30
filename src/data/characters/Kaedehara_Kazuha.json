@@ -313,27 +313,33 @@
     "constellations": [
       {
         "name": "Scarlet Hills",
-        "desc": "Decreases **Chihayaburu**'s CD by 10%.\nUsing **Kazuha Slash** resets the CD of **Chihayaburu**."
+        "desc": "Decreases **Chihayaburu**'s CD by 10%.\nUsing **Kazuha Slash** resets the CD of **Chihayaburu**.",
+        "img": "Kaedehara_Kazuha/const_0"
       },
       {
         "name": "Yamaarashi Tailwind",
-        "desc": "The Autumn Whirlwind field created by **Kazuha Slash** has the following effects:\n· Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.\n· Increases the Elemental Mastery of characters within the field by 200.\n\nThe Elemental Mastery-increasing effects of this Constellation do not stack."
+        "desc": "The Autumn Whirlwind field created by **Kazuha Slash** has the following effects:\n· Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.\n· Increases the Elemental Mastery of characters within the field by 200.\n\nThe Elemental Mastery-increasing effects of this Constellation do not stack.",
+        "img": "Kaedehara_Kazuha/const_1"
       },
       {
         "name": "Maple Monogatari",
-        "desc": "Increases the Level of **Chihayaburu** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Chihayaburu** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kaedehara_Kazuha/const_2"
       },
       {
         "name": "Oozora Genpou",
-        "desc": "When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n·Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second."
+        "desc": "When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\n·Pressing or Holding **Chihayaburu** regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second.",
+        "img": "Kaedehara_Kazuha/const_3"
       },
       {
         "name": "Wisdom of Bansei",
-        "desc": "Increases the Level of **Kazuha Slash** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Kazuha Slash** by 3.\nMaximum upgrade level is 15.",
+        "img": "Kaedehara_Kazuha/const_4"
       },
       {
         "name": "Crimson Momiji",
-        "desc": "After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%."
+        "desc": "After using **Chihayaburu** or **Kazuha Slash**, Kaedehara Kazuha gains an **Anemo Infusion** for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%.",
+        "img": "Kaedehara_Kazuha/const_5"
       }
     ]
   },

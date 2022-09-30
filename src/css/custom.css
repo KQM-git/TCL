@@ -53,20 +53,41 @@
   background-color: rgba(225, 200, 235, 0.06);
 }
 div[role="tabpanel"] {
-  padding: 0px 10px 10px;
+  padding: 0px 15px 15px;
 }
 
 /* Side by side char pages */
 .talent-columns {
   display: grid;
   grid-template-columns: 4fr 6fr;
-  gap: 10px;
+  gap: 15px;
 }
 
 @media screen and (max-width: 1500px) {
   .talent-columns {
     grid-template-columns: 1fr;
   }
+}
+
+/* Char skills title + icon */
+.char-skill-name {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.char-skill-icon {
+  border-radius: 9999px;
+  width: 3rem;
+  height: 3rem;
+  margin-right: .5rem;
+  background-color: #1a171ab8;
+}
+[data-theme='dark'] .char-skill-icon {
+  background-color: #1a171a69;
+}
+.char-skill-text {
+  font-size: 1.25rem;
+  font-weight: 700;
 }
 
 /* Version highlight */

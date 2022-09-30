@@ -337,27 +337,33 @@
     "constellations": [
       {
         "name": "Dew-Drinker",
-        "desc": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' **Cryo RES** by 15% for 6s upon hit.\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target."
+        "desc": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' **Cryo RES** by 15% for 6s upon hit.\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.",
+        "img": "Ganyu/const_0"
       },
       {
         "name": "The Auspicious",
-        "desc": "**Trail of the Qilin** gains 1 additional charge."
+        "desc": "**Trail of the Qilin** gains 1 additional charge.",
+        "img": "Ganyu/const_1"
       },
       {
         "name": "Cloud-Strider",
-        "desc": "Increases the Level of **Celestial Shower** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Celestial Shower** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ganyu/const_2"
       },
       {
         "name": "Westward Sojourn",
-        "desc": "Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE."
+        "desc": "Opponents standing within the AoE of **Celestial Shower** take increased DMG. This effect strengthens over time.\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\nThe effect lingers for 3s after the opponent leaves the AoE.",
+        "img": "Ganyu/const_3"
       },
       {
         "name": "The Merciful",
-        "desc": "Increases the Level of **Trail of the Qilin** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Trail of the Qilin** by 3.\nMaximum upgrade level is 15.",
+        "img": "Ganyu/const_4"
       },
       {
         "name": "The Clement",
-        "desc": "Using **Trail of the Qilin** causes the next Frostflake Arrow shot within 30s to not require charging."
+        "desc": "Using **Trail of the Qilin** causes the next Frostflake Arrow shot within 30s to not require charging.",
+        "img": "Ganyu/const_5"
       }
     ]
   },

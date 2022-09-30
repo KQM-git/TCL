@@ -325,27 +325,33 @@
     "constellations": [
       {
         "name": "Raging Vortex",
-        "desc": "**Palm Vortex** pulls in opponents and objects within a 5m radius."
+        "desc": "**Palm Vortex** pulls in opponents and objects within a 5m radius.",
+        "img": "Traveler/4/const_0"
       },
       {
         "name": "Uprising Whirlwind",
-        "desc": "Increases Energy Recharge by 16%."
+        "desc": "Increases Energy Recharge by 16%.",
+        "img": "Traveler/4/const_1"
       },
       {
         "name": "Sweeping Gust",
-        "desc": "Increases the Level of **Gust Surge** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Gust Surge** by 3.\nMaximum upgrade level is 15.",
+        "img": "Traveler/4/const_2"
       },
       {
         "name": "Cherishing Breezes",
-        "desc": "Reduces DMG taken while casting **Palm Vortex** by 10%."
+        "desc": "Reduces DMG taken while casting **Palm Vortex** by 10%.",
+        "img": "Traveler/4/const_3"
       },
       {
         "name": "Vortex Stellaris",
-        "desc": "Increases the Level of **Palm Vortex** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Palm Vortex** by 3.\nMaximum upgrade level is 15.",
+        "img": "Traveler/4/const_4"
       },
       {
         "name": "Intertwined Winds",
-        "desc": "Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%."
+        "desc": "Targets who take DMG from **Gust Surge** have their **Anemo RES** decreased by 20%.\nIf an Elemental Absorption occurred, then their RES towards the corresponding Element is also decreased by 20%.",
+        "img": "Traveler/4/const_5"
       }
     ]
   },

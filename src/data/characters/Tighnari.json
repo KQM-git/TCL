@@ -305,27 +305,33 @@
     "constellations": [
       {
         "name": "Beginnings Determined at the Roots",
-        "desc": "Tighnari's Charged Attack CRIT Rate is increased by 15%."
+        "desc": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
+        "img": "Tighnari/const_0"
       },
       {
         "name": "Origins Known From the Stem",
-        "desc": "When there are opponents within the Vijnana-Khanda Field created by **Vijnana-Phala Mine**, Tighnari gains 20% **Dendro DMG Bonus**.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it."
+        "desc": "When there are opponents within the Vijnana-Khanda Field created by **Vijnana-Phala Mine**, Tighnari gains 20% **Dendro DMG Bonus**.\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.",
+        "img": "Tighnari/const_1"
       },
       {
         "name": "Fortunes Read Amongst the Branches",
-        "desc": "Increases the Level of **Fashioner's Tanglevine Shaft** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Fashioner's Tanglevine Shaft** by 3.\nMaximum upgrade level is 15.",
+        "img": "Tighnari/const_2"
       },
       {
         "name": "Withering Glimpsed in the Leaves",
-        "desc": "When **Fashioner's Tanglevine Shaft** is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration."
+        "desc": "When **Fashioner's Tanglevine Shaft** is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
+        "img": "Tighnari/const_3"
       },
       {
         "name": "Comprehension Amidst the Flowers",
-        "desc": "Increases the Level of **Vijnana-Phala Mine** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Vijnana-Phala Mine** by 3.\nMaximum upgrade level is 15.",
+        "img": "Tighnari/const_4"
       },
       {
         "name": "Karma Adjudged From the Leaden Fruit",
-        "desc": "**Wreath Arrow**'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG."
+        "desc": "**Wreath Arrow**'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
+        "img": "Tighnari/const_5"
       }
     ]
   },

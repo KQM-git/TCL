@@ -3,7 +3,7 @@ description: One of the many bards of Mondstadt, who freely wanders the city's s
 ---
 
 import char from '@site/src/data/characters/Venti.json'
-import { getSkillName } from '@site/src/utils/skill'
+import SkillIcon from '@site/src/components/char/SkillIcon'
 
 # Venti
 
@@ -29,7 +29,7 @@ import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
 <TabItem value='na' label='Normal Attacks'>
-<h3>{getSkillName(char, 'na')}</h3>
+<SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
@@ -72,7 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 
 <TabItem value='e' label='Skill'>
-<h3>{getSkillName(char, 'e')}</h3>
+<SkillIcon char={char} skill='e' />
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
@@ -101,7 +101,7 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 
 <TabItem value='q' label='Burst'>
-<h3>{getSkillName(char, 'q')}</h3>
+<SkillIcon char={char} skill='q' />
 <div class='talent-columns'>
 <Skill char={char} skill='q'/>
 

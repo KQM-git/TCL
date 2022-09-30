@@ -305,27 +305,33 @@
     "constellations": [
       {
         "name": "Agate Ryuukin",
-        "desc": "The Aurous Blaze created by **Ryuukin Saxifrage** lasts for an extra 4s.\nAdditionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s."
+        "desc": "The Aurous Blaze created by **Ryuukin Saxifrage** lasts for an extra 4s.\nAdditionally, when an opponent affected by Aurous Blaze is defeated within its duration, Yoimiya's ATK is increased by 20% for 20s.",
+        "img": "Yoimiya/const_0"
       },
       {
         "name": "A Procession of Bonfires",
-        "desc": "When Yoimiya's **Pyro DMG** scores a CRIT Hit, Yoimiya will gain a 25% **Pyro DMG Bonus** for 6s.\nThis effect can be triggered even when Yoimiya is not the active character."
+        "desc": "When Yoimiya's **Pyro DMG** scores a CRIT Hit, Yoimiya will gain a 25% **Pyro DMG Bonus** for 6s.\nThis effect can be triggered even when Yoimiya is not the active character.",
+        "img": "Yoimiya/const_1"
       },
       {
         "name": "Trickster's Flare",
-        "desc": "Increases the Level of **Niwabi Fire-Dance** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Niwabi Fire-Dance** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yoimiya/const_2"
       },
       {
         "name": "Pyrotechnic Professional",
-        "desc": "When Yoimiya's own Aurous Blaze triggers an explosion, **Niwabi Fire-Dance**'s CD is decreased by 1.2s."
+        "desc": "When Yoimiya's own Aurous Blaze triggers an explosion, **Niwabi Fire-Dance**'s CD is decreased by 1.2s.",
+        "img": "Yoimiya/const_3"
       },
       {
         "name": "A Summer Festival's Eve",
-        "desc": "Increases the Level of **Ryuukin Saxifrage** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Ryuukin Saxifrage** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yoimiya/const_4"
       },
       {
         "name": "Naganohara Meteor Swarm",
-        "desc": "During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG."
+        "desc": "During **Niwabi Fire-Dance**, Yoimiya's Normal Attacks have a 50% chance of firing an extra Blazing Arrow that deals 60% of its original DMG. This DMG is considered Normal Attack DMG.",
+        "img": "Yoimiya/const_5"
       }
     ]
   },

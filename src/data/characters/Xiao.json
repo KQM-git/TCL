@@ -289,27 +289,33 @@
     "constellations": [
       {
         "name": "Dissolution Eon: Destroyer of Worlds",
-        "desc": "Increases **Lemniscatic Wind Cycling**'s charges by 1."
+        "desc": "Increases **Lemniscatic Wind Cycling**'s charges by 1.",
+        "img": "Xiao/const_0"
       },
       {
         "name": "Annihilation Eon: Blossom of Kaleidos",
-        "desc": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%."
+        "desc": "When in the party and not on the field, Xiao's Energy Recharge is increased by 25%.",
+        "img": "Xiao/const_1"
       },
       {
         "name": "Conqueror of Evil: Wrath Deity",
-        "desc": "Increases the Level of **Lemniscatic Wind Cycling** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Lemniscatic Wind Cycling** by 3.\nMaximum upgrade level is 15.",
+        "img": "Xiao/const_2"
       },
       {
         "name": "Transcension: Extinction of Suffering",
-        "desc": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus."
+        "desc": "When Xiao's HP falls below 50%, he gains a 100% DEF Bonus.",
+        "img": "Xiao/const_3"
       },
       {
         "name": "Evolution Eon: Origin of Ignorance",
-        "desc": "Increases the Level of **Bane of All Evil** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Bane of All Evil** by 3.\nMaximum upgrade level is 15.",
+        "img": "Xiao/const_4"
       },
       {
         "name": "Conqueror of Evil: Guardian Yaksha",
-        "desc": "While under the effects of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD."
+        "desc": "While under the effects of **Bane of All Evil**, hitting at least 2 opponents with Xiao's Plunging Attack will immediately grant him 1 charge of **Lemniscatic Wind Cycling**, and for the next 1s, he may use Lemniscatic Wind Cycling while ignoring its CD.",
+        "img": "Xiao/const_5"
       }
     ]
   },

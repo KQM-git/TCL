@@ -289,27 +289,33 @@
     "constellations": [
       {
         "name": "Enter the Plotters",
-        "desc": "**Lingering Lifeline** gains 1 additional charge."
+        "desc": "**Lingering Lifeline** gains 1 additional charge.",
+        "img": "Yelan/const_0"
       },
       {
         "name": "Taking All Comers",
-        "desc": "When **Exquisite Throw** conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.\nThis effect can trigger once every 1.8s."
+        "desc": "When **Exquisite Throw** conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG.\nThis effect can trigger once every 1.8s.",
+        "img": "Yelan/const_1"
       },
       {
         "name": "Beware the Trickster's Dice",
-        "desc": "Increases the Level of **Depth-Clarion Dice** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Depth-Clarion Dice** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yelan/const_2"
       },
       {
         "name": "Bait-and-Switch",
-        "desc": "Increases all party members' Max HP by 10% for 25s for every opponent marked by **Lifeline** when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner."
+        "desc": "Increases all party members' Max HP by 10% for 25s for every opponent marked by **Lifeline** when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.",
+        "img": "Yelan/const_3"
       },
       {
         "name": "Dealer's Sleight",
-        "desc": "Increases the Level of **Lingering Lifeline** by 3.\nMaximum upgrade level is 15."
+        "desc": "Increases the Level of **Lingering Lifeline** by 3.\nMaximum upgrade level is 15.",
+        "img": "Yelan/const_4"
       },
       {
         "name": "Winner Takes All",
-        "desc": "After using **Depth-Clarion Dice**, Yelan will enter the Mastermind state.\nIn this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n\nThe Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows."
+        "desc": "After using **Depth-Clarion Dice**, Yelan will enter the Mastermind state.\nIn this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG.\n\nThe Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.",
+        "img": "Yelan/const_5"
       }
     ]
   },

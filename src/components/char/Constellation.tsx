@@ -5,6 +5,7 @@ import MDXContent from '@theme/MDXContent'
 
 import { Character } from '@site/src/data/types'
 import { cleanup } from '@site/src/utils/skill'
+import SkillIconTitle from './SkillIconTitle'
 
 export default function Constellation({ char, constellation }: {
   char: Character
@@ -15,7 +16,7 @@ export default function Constellation({ char, constellation }: {
   const desc = cleanup(entry.desc)
 
   return <MDXContent>
-    <h3>{entry.name}</h3>
+    <SkillIconTitle skill={entry} />
     <ReactMarkdown>{desc}</ReactMarkdown>
   </MDXContent>
 }
