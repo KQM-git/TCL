@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kujou_Sara.png')} />
+<Image img={require('/img/characters/gacha/Kujou_Sara.png')} alt="Kujou Sara's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

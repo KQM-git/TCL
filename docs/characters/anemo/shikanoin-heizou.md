@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Shikanoin_Heizou.png')} />
+<Image img={require('/img/characters/gacha/Shikanoin_Heizou.png')} alt="Shikanoin Heizou's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

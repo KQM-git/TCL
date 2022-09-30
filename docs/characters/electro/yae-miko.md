@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Yae_Miko.png')} />
+<Image img={require('/img/characters/gacha/Yae_Miko.png')} alt="Yae Miko's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

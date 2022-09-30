@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Yun_Jin.png')} />
+<Image img={require('/img/characters/gacha/Yun_Jin.png')} alt="Yun Jin's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

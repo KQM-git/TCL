@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Hu_Tao.png')} />
+<Image img={require('/img/characters/gacha/Hu_Tao.png')} alt="Hu Tao's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

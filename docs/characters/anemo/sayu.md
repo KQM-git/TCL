@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Sayu.png')} />
+<Image img={require('/img/characters/gacha/Sayu.png')} alt="Sayu's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

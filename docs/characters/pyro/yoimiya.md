@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Yoimiya.png')} />
+<Image img={require('/img/characters/gacha/Yoimiya.png')} alt="Yoimiya's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

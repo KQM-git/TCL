@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kaedehara_Kazuha.png')} />
+<Image img={require('/img/characters/gacha/Kaedehara_Kazuha.png')} alt="Kaedehara Kazuha's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

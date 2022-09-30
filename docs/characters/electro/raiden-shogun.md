@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Raiden_Shogun.png')} />
+<Image img={require('/img/characters/gacha/Raiden_Shogun.png')} alt="Raiden Shogun's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kuki_Shinobu.png')} />
+<Image img={require('/img/characters/gacha/Kuki_Shinobu.png')} alt="Kuki Shinobu's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Base Stats

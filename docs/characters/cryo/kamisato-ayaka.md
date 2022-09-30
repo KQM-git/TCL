@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Kamisato_Ayaka.png')} />
+<Image img={require('/img/characters/gacha/Kamisato_Ayaka.png')} alt="Kamisato Ayaka's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

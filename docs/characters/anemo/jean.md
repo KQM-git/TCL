@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Jean.png')} />
+<Image img={require('/img/characters/gacha/Jean.png')} alt="Jean's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

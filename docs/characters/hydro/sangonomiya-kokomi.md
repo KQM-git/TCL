@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Sangonomiya_Kokomi.png')} />
+<Image img={require('/img/characters/gacha/Sangonomiya_Kokomi.png')} alt="Sangonomiya Kokomi's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources

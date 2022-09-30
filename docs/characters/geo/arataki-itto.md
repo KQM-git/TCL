@@ -9,7 +9,7 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 import Image from '@theme/IdealImage'
 
-<Image img={require('/img/characters/gacha/Arataki_Itto.png')} />
+<Image img={require('/img/characters/gacha/Arataki_Itto.png')} alt="Arataki Itto's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
 ## Resources
