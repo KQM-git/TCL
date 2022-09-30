@@ -7,7 +7,7 @@ export default function SkillIconTitle({ skill }: {
   }
 }) {
   return <div className='char-skill-name'>
-    <img src={`/img/characters/icons/${skill.img}.png`} className='char-skill-icon' width={48} height={48} alt={`${skill.name} Icon`} />
+    <img src={`/img/characters/icons/${skill.img}.png`} className='char-skill-icon' width={48} height={48} alt={`${skill.name} Icon`} loading="lazy" />
     <div className='char-skill-text'>{skill.name}</div>
   </div>
 }
