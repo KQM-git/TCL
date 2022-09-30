@@ -1015,6 +1015,10 @@ Overworld is hard.
 **Theory:** Coordinates translation methods from in-game coordinates into official teyvat map and vice versa.  
 [Official Teyvat Interactive Map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)
 
+:::danger
+As of 3.0, coordinates are no longer available in the feedback url.
+:::
+
 Translation snippet:  
 If you open feedback url and paste the snippet below into the console, it will give you your current coordinates as you would see them on center parameter url in interactive map.
 
@@ -1134,6 +1138,10 @@ In-game (x,y,z) and Official Teyvat Map (x,y) coordinates system description:
 [Official map](https://webstatic-sea.mihoyo.com/app/ys-map-sea/index.html)
 
 **Evidence:**
+
+:::danger
+As of 3.0, coordinates are no longer available in the feedback url.
+:::
 
 1. 1 unit represents 1 meter in-game  
    Three coordinates, extracted through feedback url.
@@ -1265,6 +1273,10 @@ Estimating distance between points is now easier due to known values in differen
 **Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_861913559231102996_874183553099903016_transcript-extracting-coords-while-in-game.html)
 
+:::danger
+As of 3.0, coordinates are no longer available in the feedback url.
+:::
+
 **Theory:**  
 It's possible to extract your current coordinates through feedback url.
 
@@ -1301,6 +1313,10 @@ This provides an easy way to calculate the distance between two points in game.
 **Added:** <Version date="2021-08-09" />  
 **Last tested:** <VersionHl date="2021-08-09" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_865345828439719966_874184378148855809_transcript-coordinates-axises-descriptions.html)
+
+:::danger
+As of 3.0, coordinates are no longer available in the feedback url.
+:::
 
 **Theory:**  
 Description of each coordinate in in-game coordinate system and interactive teyvat map coordinates system.  

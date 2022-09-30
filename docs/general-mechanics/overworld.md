@@ -77,7 +77,7 @@ Pre 2.0:
 * Liyue (pre 2.0) - 48 spots.
 * Dragonspine - 7 spots.
 
-  2.0:
+2.0:
 
 * Liyue (added in 2.0) - 6 spots.
 * Inazuma non-Tatarasuna - 24 spots.
@@ -193,6 +193,10 @@ For example: Bennett's tap E, which applies 2U of Pyro, still creates a campfire
 Structures do not count as "opponents" for the purposes of triggering abilities like Albedo's Elemental Skill.
 
 ## Coordinates
+
+:::danger
+As of 3.0, coordinates are no longer available in the feedback url.
+:::
 
 * Coordinates from in-game could be translated into the Official Teyvat Interactive Map and vice versa for easier navigation.
 * Character coordinates change whenever the game state is not frozen (unpaused single player).
