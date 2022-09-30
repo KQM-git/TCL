@@ -2,3 +2,8 @@
   Access-Control-Allow-Origin: *
   Cache-Control: public, max-age=604800, immutable
   X-Robots-Tag: nosnippet
+
+/img/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=28800, stale-while-revalidate=86400, immutable
+  X-Robots-Tag: nosnippet
