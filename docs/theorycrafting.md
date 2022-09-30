@@ -19,7 +19,7 @@ The Genshin Impact content sphere is filled misguided advice based on flawed tes
 
 ## How To Start
 
-The Theorycrafting Library is an excellent resource for you to begin reading the intracacies of different units and the game's mechanics. The best way to really get started is to find something that you are particularly interested in and begin exploring. You can find help inside our [Discord](https://discord.gg/keqing) with plenty of people that are interested in Genshin Theorycrafting.
+The Theorycrafting Library is an excellent resource for you to begin reading the intricacies of different units and the game's mechanics. The best way to really get started is to find something that you are particularly interested in and begin exploring. You can find help inside our [Discord](https://discord.gg/keqing) with plenty of people that are interested in Genshin Theorycrafting.
 
 You can find our Glossary below, to help you navigate the terms that we commonly use.
 
@@ -236,7 +236,7 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 **Permafreeze** = A team centered around permanently freezing enemies to capitalize on the 4-pc. Blizzard Strayer bonus.
 
-**PP \(Pure Pyro\)** = A team centered around maximizing pyro uptime on enemies to capitalize on the 4-pc. Lavawalker's bonus.
+**PP \(Pure Pyro\)** = A team centered around maximizing Pyro uptime on enemies to capitalize on the 4-pc. Lavawalker's bonus.
 
 **Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. These teams deal damage through the use of swapping between characters to use lower cooldown elemental skills and bursts.
 
@@ -246,9 +246,9 @@ Many attacks in Genshin Impact can be cancelled by inputting a movement command,
 
 **Support** = Characters whose value to the team isn’t to deal damage, but to provide utility.
 
-* **Cleanser** = A character that has a skill/burst that applies an element onto themselves to clease off leyline disorders.
+* **Cleanser** = A character that has a skill/burst that applies an element onto themselves to cleanse off leyline disorders.
 * **Healers/Shielders** = As the name states, characters that increase the survivability of your other characters by providing healing or shields
-* **VV** = An anemo character with 4 set Viridescent Venerer on to reduce the elemental res of the enemy
+* **VV** = An Anemo character with 4 set Viridescent Venerer on to reduce the elemental res of the enemy
 
 ## Reaction Terms
 
@@ -285,7 +285,7 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 **Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
 
-**Transformative** = A category for reactions, which Overload, Electrocharged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
+**Transformative** = A category for reactions, which Overload, Electro-Charged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
 
 * Transformative reactions deal damage based on the trigger character level and their EM, for more details go to General Reaction Mechanics
 
