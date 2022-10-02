@@ -1,11 +1,11 @@
 ---
 search: false
-sidebar_position: 4001
+sidebar_position: 2001
 ---
 
-# Internal Cooldown of Elemental Application
+# Internal Cooldown
 
-<Card item={require('../../../combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application.md')} />
+<Card item={require('../../combat-mechanics/internal-cooldown.md')} />
 
 ## Frame Data of Strings for ICD
 
