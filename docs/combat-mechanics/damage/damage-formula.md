@@ -62,7 +62,7 @@ $$
 * Zhongli's [**Dominance of Earth**](../../characters/geo/zhongli.md#ascension-passives) (A4)
 * Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) (Elemental Burst)
 * Shenhe's [**Spring Spirit Summoning**](../../characters/cryo/shenhe.md#attacks) (Elemental Skill) Icy Quills
-* Yunjin's [**Cliffbreaker's Banner**](../../characters/geo/yun-jin.md#attacks) (Elemental Burst)
+* Yun Jin's [**Cliffbreaker's Banner**](../../characters/geo/yun-jin.md#attacks) (Elemental Burst)
 * [**Cinnabar Spindle**](../../equipment/weapons/swords.md#cinnabar-spinder)'s Spotless Heart Passive
 * [**Everlasting Moonglow**](../../equipment/weapons/catalysts.md#everlasting-moonglow)'s Byakuya Kougetsu
 * [**Redhorn Stonethresher**](../../equipment/weapons/claymores.md#redhorn-stonethresher)'s Gokadaiou Otogibanashi Passive
@@ -74,12 +74,12 @@ $$
 $$
 \text{Crit} = \begin{cases}
   1 + \text{CritDamage} & \text{if, crit} \\
-  1 & \text{otherwise }
+  1 & \text{otherwise}
 \end{cases}
 $$
 
 $$
-\text{AverageCrit} = 1 + \min\{\text{CritRate}, 100\% \} \times \text{CritDamage}
+\text{AverageCrit} = 1 + \text{clamp}\{0\%, \text{CritRate}, 100\% \} \times \text{CritDamage}
 $$
 
 | Formula Variable | Explanation                                                                                |
@@ -164,7 +164,7 @@ import LevelMultiplier from '@site/src/components/common/LevelMultiplier'
 | **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
 | **ReactionBonus**             | Includes reaction damage bonuses from the Thundering Fury and Viridescent Venerer 4-piece sets and from Mona's Constellation 1.                                                                                                                                               |
 | **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
-| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the element of the transformative reaction (pyro for overloaded, physical for shattered, electro for electro-charged, cryo for superconduct, and the element being swirled for swirl). |
+| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the element of the transformative reaction (Pyro for Overloaded, Physical for Shattered, Electro for Electro-Charged, Cryo for Superconduct, and the element being swirled for Swirl). |
 
 ## Proc
 
