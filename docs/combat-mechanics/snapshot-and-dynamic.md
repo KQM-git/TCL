@@ -84,7 +84,7 @@ In general, stats that are **not** in a Character's "Details" page **do not snap
 
 * Shenhe
   * Elemental Skill: Spring Spirit Summoning - Damage Bonus of Cryo Attacks
-* Yunjin
+* Yun Jin
   * Elemental Burst: Cliffbreaker's Banner - Damage Bonus of Normal Attacks
 
 </details>

@@ -215,7 +215,7 @@ Coop with c4 yelan maybe? Perhaps when we get future characters who buff HP and/
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_987115125821554758_transcript-kokomi-c2-clarification.html)
 
 **Finding:**  
-Kokomi C2 is applied as flat healing, similar to Yunjin and Shenhe with damage. It is not applied to the heal bonus part of calculations, as the description makes it sound like.
+Kokomi C2 is applied as flat healing, similar to Yun Jin and Shenhe with damage. It is not applied to the heal bonus part of calculations, as the description makes it sound like.
 
 **Evidence:**
 

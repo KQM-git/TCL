@@ -785,10 +785,10 @@ The Atk or Atk/Def bonus of the Deathmatch snapshots the last effect when the ho
 
 When first equipping the Deathmatch, it will have the Atk boost passive active. Going to a group of enemies and swapping in will activate the split Atk/Def bonus for 2+ enemies. If you then swap her back off-field and teleport away, the stat screen will show the Def bonus is still active.
 
-Opening the menu as Yunjin swaps on-field still displays the Def bonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yunjin off-field, the passive still has the effect for 0-1 enemies.
+Opening the menu as Yun Jin swaps on-field still displays the Def bonus at first, so there seems to be some sort of tickrate for the passive. Going back to the group of enemies with Yun Jin off-field, the passive still has the effect for 0-1 enemies.
 
 **Significance:**  
-When you can run Yunjin on deathmatch, the passive snapshot can sometimes maintain her buff stats even when enemies start to die or spawn.
+When you can run Yun Jin on deathmatch, the passive snapshot can sometimes maintain her buff stats even when enemies start to die or spawn.
 
 ---
 
