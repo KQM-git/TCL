@@ -88,8 +88,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* The coordinated attack can only occur on a damaging strike, against enemies, that is capable of inflicting AOE damage.
-* The Eye's elemental burst dmg bonus does affect the Raiden Shogun.
+* The coordinated attack only occurs when the active character triggers a Transformative Reaction that deal AoE damage against enemies.
+* The Eye's Elemental Burst DMG Bonus does affect the Raiden Shogun.
 * Raiden's E coordinated attack CD starts with the triggering move's damage, not with the coordinated attack's.
 
 </TabItem>
