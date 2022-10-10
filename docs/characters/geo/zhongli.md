@@ -151,6 +151,7 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * **Planet Befall**'s ICD is shared with **Stone Stele**'s damage.
+* Zhongli's Burst has 190 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.2s\).
 
 </TabItem>
 </Tabs>
