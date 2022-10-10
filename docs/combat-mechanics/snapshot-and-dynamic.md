@@ -12,7 +12,9 @@ sidebar_position: 1300
 
 Healing effects also snapshot based on the user's stats at the time of activation.
 
-In general, stats that are **not** in a Character's "Details" page **do not snapshot**.
+In general, stats that are **not** in a character's "Details" page **do not snapshot**. However, the exception is that "Increases All DMG" effects do snapshot, except for the exceptions to this exception: Alley Hunter, Fading Twilight, and Geo Resonance don't snapshot their "Increases All DMG".
+
+Another exception is that Ganyu's A1 "snapshots", because the Frostflake Arrow generated when A1 is active is a completely different internal object than the Frostflake Arrow generated when A1 is inactive. (Additionally, it's not just CA Crit Rate, because her uncharged CAs don't get the 20% CR buff).
 
 ## Buffs
 
