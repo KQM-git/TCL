@@ -6,7 +6,7 @@ search: false
 
 **Main Page:**
 
-<Card item={require('../../../characters/dendro/Collei.md')} />
+<Card item={require('../../../characters/dendro/collei.md')} />
 
 ## Basic Mechanics
 

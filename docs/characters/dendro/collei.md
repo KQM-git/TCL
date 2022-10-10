@@ -154,4 +154,4 @@ import TalentsFull from '@site/src/components/char/TalentsFull'
 
 ## Evidence Vault
 
-<Card item={require('../../evidence/characters/dendro/Collei.md')} />
+<Card item={require('../../evidence/characters/dendro/collei.md')} />
