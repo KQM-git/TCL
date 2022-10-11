@@ -142,8 +142,9 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
-* **Yoohoo Art: Mujina Flurry** snapshots
-* **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and the **Daruma** Damage ticks.
+* **Yoohoo Art: Mujina Flurry** snapshots.
+* **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and **Muji-Muji Daruma** Damage ticks.
+* **Yoohoo Art: Mujina Flurry**'s initial tick heals all party members, but **Muji-Muji Daruma** ticks do not.
 
 </TabItem>
 </Tabs>
