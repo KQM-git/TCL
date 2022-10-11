@@ -19,6 +19,10 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 <CharStatsTable char={char} />
 
+import TravelerStats from '../\_common/traveler_stats.md'
+
+<TravelerStats />
+
 ## Attacks
 
 import Skill from '@site/src/components/char/Skill'

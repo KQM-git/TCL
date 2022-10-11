@@ -13,11 +13,19 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Full Electro Traveler Written Guide](https://keqingmains.com/electro-traveler/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 <CharStatsTable char={char} />
+
+import TravelerStats from '../\_common/traveler_stats.md'
+
+<TravelerStats />
 
 ## Attacks
 
