@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Fully Charged Charged Attack has no ICD.
+* N1 will come out even if canceled early. Cancels include jump, dash, skill, and most notably, aim mode.
 
 </TabItem>
 
