@@ -62,6 +62,25 @@ search: false
   * The Daruma Damage ticks follow standard ICD
   * This means Sayu can swirl 5 times during her burst (1 from cast + 4 from Daruma)\
 
+### Sayu Partywide Initial Q Tick
+
+**By:** naivety | pkach\#6934  
+**Added:** <Version date="2022-09-05" />  
+**Last tested:** <Version date="2022-09-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/sayu-partywide-initial-q-tick)
+
+**Finding:**  
+Sayu's initial Q tick heals all party members.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/Rr2PrRWWbs0)
+  
+Note Q doesn't have anything to Swirl in the video, meaning this isn't A1 activating \(which is known to be party-wide\).  
+Also note the other Q ticks aren't party-wide, only the initial one is.  
+  
+**Significance:**  
+Better understanding of Sayu's healing.  
+
 ### Passive Mechanics
 
 #### Passive: Yoohoo Art: Silencer's Secret
