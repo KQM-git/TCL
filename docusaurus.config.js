@@ -70,8 +70,11 @@ const config = {
           { from: ['/sara', '/characters/electro/sara'], to: '/characters/electro/kujou-sara' },
           { from: '/evidence/characters/electro/sara', to: '/evidence/characters/electro/kujou-sara' },
 
-          { from: ['/shinobu', '/characters/electro/shinobu'], to: '/characters/electro/kuki-shinobu' },
-          { from: '/evidence/characters/electro/shinobu', to: '/evidence/characters/electro/kuki-shinobu' },
+          { from: ['/yae', '/characters/electro/yae'], to: '/characters/electro/yae-miko' },
+          { from: '/evidence/characters/electro/yae', to: '/characters/electro/yae-miko' },
+
+          { from: ['/shinobu', '/characters/electro/shinobu', '/kuki', '/characters/electro/kuki'], to: '/characters/electro/kuki-shinobu' },
+          { from: ['/evidence/characters/electro/shinobu', '/evidence/characters/electro/kuki'], to: '/evidence/characters/electro/kuki-shinobu' },
 
           { from: ['/itto', '/characters/geo/itto'], to: '/characters/geo/arataki-itto' },
           { from: '/evidence/characters/geo/itto', to: '/evidence/characters/geo/arataki-itto' },
@@ -84,6 +87,21 @@ const config = {
 
           { from: ['/kokomi', '/characters/hydro/kokomi'], to: '/characters/hydro/sangonomiya-kokomi' },
           { from: '/evidence/characters/hydro/kokomi', to: '/evidence/characters/hydro/sangonomiya-kokomi' },
+
+          { from: ['/hutao', '/characters/pyro/hutao'], to: '/characters/pyro/hu-tao' },
+          { from: '/evidence/characters/pyro/hutao', to: '/evidence/characters/pyro/hu-tao' },
+
+          { from: ['/amc', '/characters/anemo/amc', '/anemo-traveler', '/characters/anemo/traveler'], to: '/characters/anemo/traveler-anemo' },
+          { from: ['/evidence/characters/anemo/amc', '/evidence/characters/anemo/traveler'], to: '/evidence/characters/anemo/traveler-anemo' },
+
+          { from: ['/gmc', '/characters/geo/gmc', '/geo-traveler', '/characters/geo/traveler'], to: '/characters/geo/traveler-geo' },
+          { from: ['/evidence/characters/geo/gmc', '/evidence/characters/geo/traveler'], to: '/evidence/characters/geo/traveler-geo' },
+
+          { from: ['/emc', '/characters/electro/emc', '/electro-traveler', '/characters/electro/traveler'], to: '/characters/electro/traveler-electro' },
+          { from: ['/evidence/characters/electro/emc', '/evidence/characters/electro/traveler'], to: '/evidence/characters/electro/traveler-electro' },
+
+          { from: ['/dmc', '/characters/dendro/dmc', '/dendro-traveler', '/characters/dendro/traveler'], to: '/characters/dendro/traveler-dendro' },
+          { from: ['/evidence/characters/dendro/dmc', '/evidence/characters/dendro/traveler'], to: '/evidence/characters/dendro/traveler-dendro' },
         ]
       }),
     ],
