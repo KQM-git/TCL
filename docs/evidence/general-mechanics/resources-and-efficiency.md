@@ -369,6 +369,34 @@ I didn't assume anyone would want a two hour video of me just breaking bushes, s
 
 **Significance:** Was curious about the drop rates, and I couldn't find anything about them in the TCL, online, or in the data gathering server, so I figured I'd just do it myself. I wanted exact percentages just for the sake of thoroughness.
 
+### Chasm Special Ore
+
+**By:** sexyeboy69\#2687, Raismin\#5493  
+**Added:** <Version date="2022-09-05" />  
+**Last tested:** <Version date="2022-09-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/chasm-special-ore)  
+
+**Finding:**  
+The Chasm offers some special ores that can be easily identified by a blue aura around them. These ores drop extra chunks when broken.  
+  
+**Evidence:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/1vmhWAFqoitySjO2PaGZmHAo4SRzdBOUesUpY7H7mA1I/edit#gid=581408919)  
+
+* On 3 mining trips (unfortunately, some footage is missing—only trips that had footage were recorded in the sheet), I mined 164 Chasm Crystal Ores (CrystalB on the sheet) and 33 normal ores (just crystals).
+* Of these, 128, 35, and 1 dropped 2, 3, and 4 chunks respectively. This evidence means that these special ores are dropping more chunks than what normal ones should. It seems that the drop rates are 0% for 1 chunk (normally 81%), 78% for 2 chunks (normally 18%), 21% for 3 chunks (normally 1%), and 1% for 4 chunks (normally impossible).
+* When these drop rates are shifted by 1 drop then compared to normal drop rates, they are 78%-21%-1% compared to 81%-18%-1%.
+* There are 3 theories that explain this behavior—but only one is actually possible.  
+  1. "The drops are normal—I just got really lucky"  
+  This is impossible because 4 chunks can't drop from a single ore. Hence, the drop table must have been modified for the special Chasm ore.
+  2. "Each special ore drops one extra chunk, but each ore can only drop 3 chunks maximum"
+  This is impossible because 4 chunks *can* drop from a single ore.
+  3. "Each special ore drops one extra chunk"
+  This is the most likely theory, but more data should be recorded to be sure.
+* Note that there is not enough data to draw any conclusions about special Noctilucous Jade ore.  
+  
+**Significance:**  
+Special ores from The Chasm don't just look different, they also have different drop rates. This means that interactive Genshin maps and mining routes need to be revisited after taking this in consideration (and the wiki also needs to add this).  
+
 ## Food
 
 ### Food Costs
