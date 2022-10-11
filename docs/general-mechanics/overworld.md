@@ -38,6 +38,10 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 * Every other Anemo ability works on its own.
 * The attacks from Anemo Slimes don't work, some examples of things that Sucrose can't target (and can't disperse the fog with) are the Portable Waypoint, Serenitea Pot, and Windblume Festival Commemorative Balloon.
 
+### Little Meng's Little Bottle
+
+* During the commission “Ahoy! A Pirate's Growth for Ye!” Little Meng throws a bottle into Bishui River. If you approach the middle of the river, you can find and read the bottle, and you can also climb and stand atop of it. 
+
 ## Waverider Mechanics
 
 ### General

@@ -221,6 +221,22 @@ Interactions with the Thunder Fog in The Thundering Wilds daily commission.
 
 **Significance:** Fluff.
 
+### You Can Stand On Little Meng's Little Bottle
+
+**By:** Magnus Artifex\#8719  
+**Added:** <Version date="2022-10-02" />  
+**Last tested:** <Version date="2022-10-02" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/you-can-stand-on-little-mengs-little-bottle)
+
+**Finding:**  
+During the commission “Ahoy! A Pirate's Growth for Ye!” Little Meng throws a bottle into Bishui River. If you approach the middle of the river, you can find and read the bottle, and you can also climb and stand atop of it.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/h2npaM0)  
+  
+**Significance:**  
+knowledge about open-world mechanics.
+
 ## Waveriders
 
 ### Boat Mechanics Addendum
