@@ -95,7 +95,7 @@ import Skill from '@site/src/components/char/Skill'
 | ICD               | 3 hit / 2.5s    |
 | Snapshot          | Dynamic         |
 | Damage Element    | Electro         |
-| Damage Type       | Burst           |
+| Damage Type       |                 |
 | Energy Cost       | 80              |
 | Duration          | 10s             |
 | Cooldown          | 20s             |
