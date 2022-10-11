@@ -59,6 +59,27 @@ Barbara has a small time window during her initial Elemental Skill cast that all
 **Significance:**  
 Potential improvement for Main DPS Barbara as you can now avoid her long Elemental Skill cooldown.
 
+### Funny Barbloom
+
+**By:** Drak\#0343, Kolibri\#7675, daibangden\#8410, Zasshu.\#4509  
+**Added:** <Version date="2022-09-20" />  
+**Last tested:** <Version date="2022-09-20" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/funny-barbloom)
+
+> Note: this was found in 3.0 and HoYoverse said that 3.1 "Fixes an issue whereby the Dendro Cores created by Bloom reactions can cause the effects of certain characters' Skills to be triggered abnormally", but it still works for now. \[[Official Post](https://www.hoyolab.com/article/9396655)\]  
+
+**Bug:**  
+Barbara's water ring triggers on entities.  
+  
+**Evidence:**  
+Barbara skill ring is spawning ridiculous numbers of blooms due to an interaction around the classification of Dendro Cores as entities and her ring triggering damage on entering her AoE. This causes her ring to pulsate Hydro every time a Dendro Core enters, meaning that enemies nearby continuously are attempted to have Hydro applied to them, and in 3+ enemy scenarios, this causes the 3-hit condition for ICD to be met near instantaneously, applying Hydro again, making more seeds and creating an infinite loop for as long as there is a Dendro aura.  
+  
+[YouTube](https://youtu.be/i31AYi5apIE)  
+[YouTube](https://youtu.be/tAKXkuK_03A)  
+  
+**Significance:**  
+Barbara Skill can lead to extremely high Bloom counts very easily reaching the cap.
+
 ## Constellation Mechanics
 
 ### C6: Dedicating Everything to You

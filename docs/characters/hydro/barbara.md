@@ -90,6 +90,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Cast time can be reduced by performing a swap cancel.
 * When dashing to animation cancel, it will not be casted but it will trigger artifact 4-Piece set bonuses as well as avoid the cooldown.
+* As of 3.1, **Melody Loop** can trigger Bloom on entities, allowing Barbara to create a lot more Dendro Cores than what would otherwise be possible.
 
 </TabItem>
 
