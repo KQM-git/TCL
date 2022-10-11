@@ -48,7 +48,7 @@ search: false
 **By:** BowTae\#0141, ItzSomebody\#0029  
 **Added:** <Version date="2022-09-14" />  
 **Last tested:** <Version date="2022-09-14" />  
-[Discussion](tickets.deeznuts.moe/transcripts/gorou-machine-gun)  
+[Discussion](https://tickets.deeznuts.moe/transcripts/gorou-machine-gun)  
 
 **Finding:**  
 Gorou N1 will come out even if canceled early. Cancels include jump, dash, skill, and most notably, aim mode. This allows controller players to abuse Gorou N1RR to high speeds, without requiring frame perfect inputs, as is the case with ARCC. To do this, press and release Attack, then enter and exit Aim mode. Repeat. Make sure you have released attack before pressing Aim.   
