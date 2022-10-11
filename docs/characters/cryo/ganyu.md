@@ -145,6 +145,7 @@ import Skill from '@site/src/components/char/Skill'
 * Ganyu's icicles follow standard ICD (3-hit/2.5s).
 * Ganyu's icicles are more likely to hit targets that are larger in size.
 * If **Celestial Shower** is cast before the previous one ends through the use of cooldown reduction, the existing field will end prematurely.
+* Ganyu's Burst has 141 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(2.4s\).
 
 </TabItem>
 </Tabs>

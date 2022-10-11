@@ -92,6 +92,30 @@ And here's an album of successful 1 frame parry attempts with 0f input delay, wi
 **Significance:**  
 The parry timing is a little easier than previously thought.
 
+### Beidou’s E Electro Self Application Gauge
+
+**By:** Magnus Artifex\#8719  
+**Added:** <Version date="2022-09-07" />  
+**Last tested:** <Version date="2022-09-07" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/beidou’s-e-electro-self-application-gauge)
+
+**Finding:**  
+Beidou applies 1U of Electro to herself for 2 seconds when she uses her Elemental Skill, Tidecaller. After that the Electro aura will decay.  
+  
+**Evidence:**  
+* [Imgur 1](https://imgur.com/a/0giZkGC)
+  * The Electro aura clears Bennett’s Pyro \(1U\) after a couple of frames and leaving Electro residue behind. Decay happened on Pyro, so it didn’t remove the Electro.
+* [Imgur 2](https://imgur.com/a/CItUqeC)
+  * Shows the contrary, where Electro is applied first and cleared with Pyro remaining.
+* [Imgur 3](https://imgur.com/a/7t5cl4t)
+  * Grass applies 2B Pyro, so the total aura duration after a 1U Electro consumption should be `(2x0.8-1)x7.5=4.5s`
+in the video, the start till end of the pyro aura lasted exactly 4 seconds 30 frames (60fps), proving that beidou self aura is indeed 1U.
+* [Imgur 4](https://i.imgur.com/uOkkszh.mp4)
+  * Jean's Dandelion Field (1U) halves Beidou's self-application. We can see that the Electro aura persists for 1 second in total, so the total duration of Beidou's self application is 2 seconds.
+
+**Significance:**  
+knowledge about Beidou’s kit and Elemental Gauge decay rates of self-application.  
+
 ## Burst Mechanics
 
 ### Beidou Lightning Proc ICD

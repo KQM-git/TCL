@@ -107,6 +107,7 @@ import Skill from '@site/src/components/char/Skill'
 * Beidou can perfect counter shots from the Inazuma Kamuijima Cannons.
 * The counter has 0/1 startup frames, depending on whether your input is registered immediately or with a 1 frame delay. [Vault Entry](../../evidence/characters/electro/beidou.md#beidou-counter-startup)
 * **Tidecaller** counter scaling information is tabulated in the table below.
+* Beidou applies 1U of Electro to herself for 2 seconds when she uses **Tidecaller**. After that the Electro aura will decay.
 
 | Tidecaller DMG Bonus     | Talent 9% | Particles |
 | :----------------------- | :-------- | :-------- |

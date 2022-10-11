@@ -99,6 +99,7 @@ import Skill from '@site/src/components/char/Skill'
 * Sayu is capable of ice bridging if her **Windwheel Roll** is infused with cryo.
 * **Windwheel Roll** is affected by movement speed buffs.
 * Hold E **Windwheel Roll** can be used at 0 stamina, and does not consume nor gain any stamina during the roll.
+* Ending a continuous **Fuufuu Windwheel state** by tapping E is considered "Using an Elemental Skill" for the sake of 4pc Crimson Witch Pyro DMG Bonus. Letting the **Fuufuu Windwheel state** end naturally does not.  
 
 </TabItem>
 
@@ -142,8 +143,9 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * The summoned **Daruma** can be pushed around by characters or enemies, also moving its healing/attack range.
-* **Yoohoo Art: Mujina Flurry** snapshots
-* **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and the **Daruma** Damage ticks.
+* **Yoohoo Art: Mujina Flurry** snapshots.
+* **Yoohoo Art: Mujina Flurry** has separate ICD on the initial hit on cast and **Muji-Muji Daruma** Damage ticks.
+* **Yoohoo Art: Mujina Flurry**'s initial tick heals all party members, but **Muji-Muji Daruma** ticks do not.
 
 </TabItem>
 </Tabs>

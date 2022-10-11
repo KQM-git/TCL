@@ -63,6 +63,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Fully Charged Charged Attack has no ICD.
+* N1 will come out even if canceled early. Cancels include jump, dash, skill, and most notably, aim mode.
 
 </TabItem>
 
@@ -127,6 +128,8 @@ import Skill from '@site/src/components/char/Skill'
 
 * The initial hit of **Juuga: Forward Unto Victory** does not benefit from its own buff.
 * The initial hit of **Juuga: Forward Unto Victory** benefits from A1: **Heedless of the Wind and Weather**.
+* **General's Glory** has a tickrate of 0.3s \(17-18f\).
+* A1/C6 activate on hitmark \(frame 30\).
 
 </TabItem>
 </Tabs>

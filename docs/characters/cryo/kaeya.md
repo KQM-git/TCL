@@ -133,6 +133,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Glacial Waltz** hits around 13 times while standing stationary.
 * The cooldown of **Glacial Waltz** starts on frame 49. The duration also starts counting from this frame.
 * Each **Icicle** has a ~75 frame [lockout](https://imgur.com/a/CJYe04R) from dealing damage after hitting an enemy.
+* Kaeya's Burst has 110 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(1.8s\).
 
 </TabItem>
 </Tabs>
