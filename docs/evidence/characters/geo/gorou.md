@@ -81,6 +81,35 @@ This tech is superior to ARCC in almost every way, as it doesn't require frame p
 * Q initial hit (and A4 on initial hit) benefits from A1, but not Q buff, while Q collapse (and A4 on collapse) can benefit from A1 and Q buff. - [MeCrush14\#2271](https://youtu.be/lHvJM0ZFG4k) ([Stats](https://imgur.com/gZjNPRF))
 * Gorou's Q buff lingers for 2 extra seconds. - [Vess\#7650](https://youtu.be/rsSJH9yUrOg)
 
+### Gorou Buff Activation And Tickrate
+
+**By:** Kolibri\#7675, Aftermath\#7658  
+**Added:** <Version date="2022-09-08" \>  
+**Last tested:** <Version date="2022-09-08" \>  
+[Discussion](https://tickets.deeznuts.moe/transcripts/gorou-buff-activation-and-tickrate)
+
+**Finding:**  
+Through a mix of in-game testing and datamine info, Gorou's timing for his buffs when using Q are as follows:  
+* Gorou's A1/C6 activate on hitmark \(frame 30\).
+* Gorou's field tickrate applies every 0.3s \(17-18f\) thereafter.
+  
+**Evidence:**  
+Recordings were tested with macros to get consistent frame counts. Timing was done using the start of Gorou's animation as frame 1 to eliminate input delay discrepancies. Timing stopped on the frame the game paused when going into the menu.  
+  
+* [A1 timing](https://www.youtube.com/watch?v=wiwcqT7zfLM)
+  * 2 trials showing that frame 29 has no A1 and frame 30 does. Small sample size, but aligns with recordings/documentation I've done previously.
+  * This lines up with the hitmark of Gorou's Q. C6 is assumed to activate here as well, since it reads similarly to the A1.
+* [Field tickrate](https://www.youtube.com/watch?v=AQi_6y37_q8)
+  * First application on Gorou on frame 48.
+  * 3 trials testing which frame the flat DEF is applied to Gorou. Frame 47 has only the A1 buff, while frame 48 has both parts.
+* [Second application \(on character swap\)](https://www.youtube.com/watch?v=i5rgPsyXV0E)
+  * 4 trials of casting Q, then swapping immediately to another character to see when the Flat DEF is applied next. It seems consistent on frame 65/66, but the character needs to be on field for at least 1 frame before the buff is applied \(may need to test using a different buffering method in a low ping environment\).
+  * After finding these frames and talking to kolibri, he said that the game data has the tickrate as 0.3s. This timing lines up well with the videos above, but shows that there is a small delay from when the Q hitmark is applied and when the field timer begins.
+* [Image](https://i.imgur.com/xNMj3I3.png) of a table of the trials I recorded for the session. Some of the swap testing was done at low ping.
+  
+**Significance:**  
+Better understanding of Gorou's buff application to snapshot the full DEF bonus for characters that can snapshot it.  
+
 ## Ascension Mechanics
 
 ### A1: Heedless of the Wind and Weather
