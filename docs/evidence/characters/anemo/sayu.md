@@ -48,6 +48,24 @@ search: false
 * Sayu's roll continues during cinematics. - [Mcpie#8672](https://i.imgur.com/GH6nirt.mp4)
 * Sayu's kick onto a crystal ore will make it require only 3 more hits rather than 4. - [Mcpie#8672](https://i.imgur.com/1OqLOWP.mp4)
 
+### Sayu Release Of Hold Skill Counts As Using Elemental Skill
+
+**By:** \_Maxi\#1776  
+**Added:** <Version date="2022-09-05" />  
+**Last tested:** <Version date="2022-09-05" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/sayu-release-of-hold-skill-counts-as-using-elemental-skill)
+
+**Finding:**  
+Ending a continuous Hold Skill (Sayu or Yelan hE as examples) by tapping E is considered "Using an Elemental Skill" for the sake of 4pc Crimson Witch Pyro damage bonus. Letting the Skill end naturally does not.  
+
+**Evidence:**  
+* [Sayu Hold Skill (release)](https://youtu.be/pmm2wgmug5M)
+* [Yelan Hold Skill (release)](https://youtu.be/ZJPxex4qw9U)
+* [Sayu Hold Skill (full duration)](https://youtu.be/LJhHfJHWt4k)  
+
+**Significance:**  
+Continuous Hold Skills have higher potential synergy with effects which stack based on "using an Elemental Skill" as they can stack it twice.  
+
 ### Burst Mechanics
 
 * Sayu can absorb pre-fed particles during her elemental burst animation - [Nass008#8577](https://youtu.be/bdHedirf9VA)

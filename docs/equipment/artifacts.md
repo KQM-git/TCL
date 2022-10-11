@@ -51,6 +51,7 @@ import Artifact from '@site/src/components/artifact/Artifact'
 * Gaining a stack refreshes the duration of previous stacks.
 * Stacks are maintained after swapping characters.
 * A stack is still gained even if the player is interrupted during Elemental Skill cast.
+* Ending a continuous Hold Skill \([Sayu or Yelan hE](/docs/evidence/characters/anemo/sayu.md#sayu-release-of-hold-skill-counts-as-using-elemental-skill) as examples\) by tapping E is considered "Using an Elemental Skill" for the sake of the 4pc set bonus. Letting the Skill end naturally does not.  
 
 </Artifact>
 
