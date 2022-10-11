@@ -63,10 +63,12 @@ Potential improvement for Main DPS Barbara as you can now avoid her long Element
 
 **By:** Drak\#0343, Kolibri\#7675, daibangden\#8410, Zasshu.\#4509  
 **Added:** <Version date="2022-09-20" />  
-**Last tested:** <Version date="2022-09-20" />  
+**Last tested:** <Version date="2022-09-28" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/funny-barbloom)
 
-> Note: this was found in 3.0 and HoYoverse said that 3.1 "Fixes an issue whereby the Dendro Cores created by Bloom reactions can cause the effects of certain characters' Skills to be triggered abnormally", but it still works for now. \[[Official Post](https://www.hoyolab.com/article/9396655)\]  
+:::note
+This was found in v. 3.0 and HoYoverse said that v. 3.1 "Fixes an issue whereby the Dendro Cores created by Bloom reactions can cause the effects of certain characters' Skills to be triggered abnormally", but it still works \(for now\). \[[Official Post](https://www.hoyolab.com/article/9396655)\]  
+:::
 
 **Bug:**  
 Barbara's water ring triggers on entities.  
