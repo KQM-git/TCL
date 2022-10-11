@@ -499,7 +499,7 @@ When riding an elevator up and jumping just at the right moment before it stops,
 **Significance:**  
 Fluff and documenting overworld mechanics.
 
-### Items Hate Physics
+## Items Hate Physics
 
 **By:** Ultimate Noob\#2955  
 **Added:** <Version date="2022-08-25" />  
@@ -515,3 +515,21 @@ Items don't care about physics, when they have dropped on the ground they will n
 
 **Significance:**  
 Fluff, Genshin makes 0 sense.
+
+## Optimal Swimming
+
+**By:** Goden\#2155  
+**Added:** <Version date="2022-09-27" />
+**Last tested:** <Version date="2022-09-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/optimal-swimming)
+
+**Bug:**  
+Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
+  
+**Evidence:**  
+Found that if you mash A and D to rapidly move side to side it drains your stamina very quickly, so consequently turning must use up extra stamina in comparison to moving in a straight line when swimming \(the drain is actually extremely fast and could be even faster if you macro'd the little wiggle I did in the water, real wild\).  
+* Stamina drain while swimming in a straight line [YouTube](https://youtu.be/Nf_TkhpBSR8)  
+* Stamina drain while rapidly moving side to side [YouTube](https://youtu.be/rqcAJtCP0x0)  
+  
+**Significance:**  
+Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).

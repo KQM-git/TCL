@@ -76,6 +76,8 @@ Character hitboxes extend beyond their model until the weapon floating behind th
 
 Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift.
 
+Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
+
 ## Infinite Dashing
 
 Double dashing with a pause inbetween to regain stamina can allow for a faster way to move continously.
