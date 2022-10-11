@@ -106,7 +106,6 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/KQM-git/TCL/blob/master/',
-          showLastUpdateTime: true,
           remarkPlugins: [math],
           rehypePlugins: [katex],
         },
