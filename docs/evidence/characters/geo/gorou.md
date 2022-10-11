@@ -43,6 +43,30 @@ search: false
   * Hold M1 Double CA: [Youtube](https://youtu.be/c2cWS7KNOeI)
 * Unlike most characters, Gorou does not keep one eye closed after ARCC (Yoimiya also does not). - [BowTae\#0141](https://youtu.be/_yuZ4lKpdKY)
 
+### Gorou Instant N1  
+
+**By:** BowTae\#0141, ItzSomebody\#0029  
+**Added:** <Version date="2022-09-14" />  
+**Last tested:** <Version date="2022-09-14" />  
+[Discussion](tickets.deeznuts.moe/transcripts/gorou-machine-gun)  
+
+**Finding:**  
+Gorou N1 will come out even if canceled early. Cancels include jump, dash, skill, and most notably, aim mode. This allows controller players to abuse Gorou N1RR to high speeds, without requiring frame perfect inputs, as is the case with ARCC. To do this, press and release Attack, then enter and exit Aim mode. Repeat. Make sure you have released attack before pressing Aim.   
+
+Unlike ARCC, these shots are Normal Attacks. In ARCC, the character shoots Charged Attacks.  
+
+An early video dating back to Dec 2021 that I found from SaltyPotato: [YouTube](https://youtu.be/B8urJsvnZag)  
+Other sources include this video from SystksjSonic: [Twitter](https://twitter.com/SystksjSonic/status/1562011142645751809)  
+
+**Evidence:**  
+* [Jump](https://imgur.com/nkDzMFV)
+* [Dash](https://imgur.com/wMG0q1l)
+* [Skill](https://imgur.com/5S200Ky)
+* [Aim](https://youtu.be/ZeI8K-hnWw8)
+
+**Significance:**  
+This tech is superior to ARCC in almost every way, as it doesn't require frame perfect inputs, can be done very fast without macros, and will also trigger abilities such as Fischl C6 and Yelan Burst. This tech makes Gorou potentially the strongest physical bow character. The downside is that it only works on Gorou.  
+
 ## Skill Mechanics
 
 * Gorou himself count for E buff condition. [Nass008\#8577](https://youtu.be/xQGDyQXzcxc)
