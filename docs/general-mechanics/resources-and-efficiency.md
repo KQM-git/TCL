@@ -127,6 +127,7 @@ Certain material items can be destroyed, but they don't give anything when destr
 * There is a random event daily limit of 10. After that, you receive no reward when completing random events that day.
 * The inventory cap for Crystal Chunks is 9999, but players can overcap and reach 10006 by claiming Crystal Chunks as an Expedition reward, with 9998 already in their inventory.
 * The inventory cap for berries is also 9999, it's very likely that all resources cap at 9999.
+* The Chasm offers some special ores that can be easily identified by a blue aura around them. These ores drop extra chunks when broken.  
 
 ### Artifact Drop Spots
 
