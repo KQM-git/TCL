@@ -13,11 +13,17 @@ import SkillIcon from '@site/src/components/char/SkillIcon'
 
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Full Electro Traveler Written Guide](https://keqingmains.com/electro-traveler/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 <CharStatsTable char={char} />
+
+After Chapter III: Act I of the Archon Quest, the Traveler obtains 3 Base ATK regardless of their level. This buff persists on every Element and is permanent.  
 
 ## Attacks
 

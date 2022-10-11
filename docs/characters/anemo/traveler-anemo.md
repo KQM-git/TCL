@@ -24,6 +24,8 @@ import CharStatsTable from '@site/src/components/char/CharStatsTable'
 
 <CharStatsTable char={char} />
 
+After Chapter III: Act I of the Archon Quest, the Traveler obtains 3 Base ATK regardless of their level. This buff persists on every Element and is permanent.  
+
 ## Attacks
 
 import Skill from '@site/src/components/char/Skill'
