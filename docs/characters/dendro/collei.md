@@ -112,9 +112,21 @@ import Skill from '@site/src/components/char/Skill'
 
 ## Ascension Passives
 
-import PassivesFull from '@site/src/components/char/PassivesFull'
+import Passive from '@site/src/components/char/Passive'
 
-<PassivesFull char={char} />
+<Tabs>
+<TabItem value='passive' label='Passive'>
+<Passive char={char} passive={2} />
+</TabItem>
+
+<TabItem value='a1' label='Ascension 1'>
+<Passive char={char} passive={0} />
+</TabItem>
+
+<TabItem value="a4" label="Ascension 4">
+<Passive char={char} passive={1} />
+</TabItem>
+</Tabs>
 
 ## Constellations
 
