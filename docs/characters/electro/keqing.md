@@ -147,6 +147,7 @@ import Skill from '@site/src/components/char/Skill'
   * Doing so can still trigger the Burst's effects, such as her Ascension 4 Passive that gives Crit Rate and ER.
   * Burst cancelling like this does not actually use up her Energy, or put the Burst on cooldown, nor does it deal damage.
   * However, it can potentially lock Keqing in place momentarily, where attempted movement can result in rapid spinning.
+* Keqing's Burst has 222 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(3.7s\).
 
 </TabItem>
 </Tabs>

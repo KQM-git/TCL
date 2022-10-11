@@ -122,7 +122,7 @@ import Skill from '@site/src/components/char/Skill'
 | Energy Frame      | 64                                              |
 | CD Frame          | 58                                              |
 | GU                | 1A                                              |
-| ICD               | 3 hits / 2.5s                                   |
+| ICD               | 3 hits / 1s                                     |
 | Snapshot          | Snapshots                                       |
 | Damage Element    | Pyro                                            |
 | Damage Type       | Burst                                           |

@@ -149,6 +149,7 @@ import Skill from '@site/src/components/char/Skill'
   * Some normal attack animations, which persist longer than 1 second, can trigger multiple **Sword Rain** waves.
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * **Guhua Sword: Raincutter** does not snapshot buffs on cast. However, each wave of sword rain attacks from **Guhua Sword: Raincutter** will snapshots buffs when they are summoned.
+* Xingqiu's Burst has 106 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(1.8s\).
 
 </TabItem>
 </Tabs>
