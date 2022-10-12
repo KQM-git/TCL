@@ -60,7 +60,7 @@ $$
 <summary>Talents and Constellations</summary>
 
 * Arataki Itto's [**Bloodline of the Crimson Oni**](../../characters/geo/arataki-itto.md#ascension-passives) \(A4\)
-* Cyno's **Authority Over the Nine Bows** \(A4\)
+* Cyno's [**Authority Over the Nine Bows**](../../characters/electro/cyno.md#ascension-passives) \(A4\)
 * Gorou's [**A Favor Repaid**](../../characters/geo/gorou.md#ascension-passives) \(A4\)
 * Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) \(Elemental Burst\)
 * Kokomi's [**Song of Pearls**](../../characters/hydro/sangonomiya-kokomi.md#ascension-passives) \(A4\)
@@ -205,7 +205,7 @@ import AdditiveReaction from '../\_formulas/additive.md'
 | **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
 | **ReactionBonus**             | Includes reaction damage bonus from 4-Piece set bonus of Thundering Fury.                                                                                                                                               |
 | **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
-| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for the element of the transformative reaction (Pyro for Overloaded, Physical for Shattered, Electro for Electro-Charged, Cryo for Superconduct, and the element being swirled for Swirl). |
+| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for Dendro. |
 
 ## Proc
 
