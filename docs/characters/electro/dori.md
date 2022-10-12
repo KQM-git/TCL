@@ -1,5 +1,5 @@
 ---
-description: Dori is a merchant in Sumeru who has a fondness for glittering Mora.
+description: An elusive merchant who has a fondness for glittering Mora.
 ---
 
 import char from '@site/src/data/characters/Dori.json'

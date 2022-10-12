@@ -1,5 +1,5 @@
 ---
-description: An Avidya Forest Watcher and botanical scholar who graduated from Amurta. He leads a fruitful life of patrolling the rainforest, protecting the ecology, and lecturing fools every day.
+description: A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.
 ---
 
 import char from '@site/src/data/characters/Tighnari.json'

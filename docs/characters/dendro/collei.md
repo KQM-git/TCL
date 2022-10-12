@@ -1,5 +1,5 @@
 ---
-description: A Trainee Forest Ranger who is under the tutelage of Tighnari. She started her academic career a little later than her peers, so she is currently working hard to catch up.
+description: A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.
 ---
 
 import char from '@site/src/data/characters/Collei.json'

@@ -1,5 +1,5 @@
 ---
-description: The General Mahamatra of the Akademiya, leader of all the Matras. He has a unique sense of humor that never fails to leave a deep impression.
+description: The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the "Great Vayuvyastra" made by the Kshahrewar.
 ---
 
 import char from '@site/src/data/characters/Cyno.json'

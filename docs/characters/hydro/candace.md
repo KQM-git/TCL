@@ -1,5 +1,5 @@
 ---
-description: I once gave Candace some jewelry and told her to learn to enjoy life and find happiness outside of work. She replied that seeing the village in peace was enough to make her happy... Well, this guardian really has a unique way of enjoying life...
+description: A descendant of King Deshret with an amber left eye. The defender of Aaru Village.
 ---
 
 import char from '@site/src/data/characters/Candace.json'
