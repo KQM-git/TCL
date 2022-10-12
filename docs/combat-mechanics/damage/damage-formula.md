@@ -77,10 +77,6 @@ $$
 
 <summary>Weapons</summary>
 
-* Zhongli's [**Dominance of Earth**](../../characters/geo/zhongli.md#ascension-passives) (A4)
-* Kokomi's [**Nereid's Ascension**](../../characters/hydro/sangonomiya-kokomi.md#attacks) (Elemental Burst)
-* Shenhe's [**Spring Spirit Summoning**](../../characters/cryo/shenhe.md#attacks) (Elemental Skill) Icy Quills
-* Yun Jin's [**Cliffbreaker's Banner**](../../characters/geo/yun-jin.md#attacks) (Elemental Burst)
 * [**Cinnabar Spindle**](../../equipment/weapons/swords.md#cinnabar-spinder)'s Spotless Heart Passive
 * [**Everlasting Moonglow**](../../equipment/weapons/catalysts.md#everlasting-moonglow)'s Byakuya Kougetsu
 * [**Redhorn Stonethresher**](../../equipment/weapons/claymores.md#redhorn-stonethresher)'s Gokadaiou Otogibanashi Passive
