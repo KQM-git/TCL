@@ -38,6 +38,10 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Staff of Homa" weapons={polearms} />
 
+### Staff of the Scarlet Sands
+
+<Weapon weapon="Staff of the Scarlet Sands" weapons={polearms} />
+
 ### Vortex Vanquisher
 
 <Weapon weapon="Vortex Vanquisher" weapons={polearms}>
@@ -98,6 +102,10 @@ import FavSeries from './\_common/fav_series.md';
 <FavSeries/>
 
 </Weapon>
+
+### Missive Windspear
+
+<Weapon weapon="Missive Windspear" weapons={polearms} />
 
 ### Moonpiercer
 
