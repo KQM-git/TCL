@@ -150,7 +150,7 @@ Unlike other bonuses, these are directly multiplicative with base Talent scaling
 $$
 \text{SpecialMultiplier} = \begin{cases}
   1.5 & \text{if, Evilsoother triggered} \\
-  \text{Talent \%} & \text{if, Niwabi Fire-Dance activated} \\
+  \text{Talent \%} & \text{if, Coil or Niwabi Enshou active} \\
   1 & \text{otherwise}
 \end{cases}
 $$
