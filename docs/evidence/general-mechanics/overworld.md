@@ -2,9 +2,9 @@
 search: false
 ---
 
-<!-- organized by categories (h2) when there's more than 1 entry about a topic, then ordered by date (h3); regions are an exception and have their own h2 even if there's only 1 entry, h3s ordered by release date -->
-
 # Overworld
+
+<!-- organized by categories (h2) when there's more than 1 entry about a topic, then ordered by date (h3); regions are an exception and have their own h2 even if there's only 1 entry, h3s ordered by release date -->
 
 **Main Page:**
 
