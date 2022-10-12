@@ -37,14 +37,27 @@ const config = {
       /** @type {import('@docusaurus/plugin-client-redirects').Options} */
       ({
         createRedirects(routePath) {
-          const match = routePath.match(/^\/characters\/[a-z]+\/(.+)$/);
+          const charMatch = routePath.match(/^(\/characters\/[a-z]+\/)(.+)$/);
 
-          if (match) {
-            const char = match[1];
+          if (charMatch) {
+            const char = charMatch[2];
             // console.log(`Adding alias from ${char} to ${routePath}`);
-            if (char.startsWith('traveler-'))
-              return [`/${char}`, `/${char.replace('traveler-', '')[0]}mc`];
-            return [`/${char}`];
+            if (char.startsWith('traveler-')) {
+              const elemental = `${char.replace('traveler-', '')[0]}mc`
+              return [`/${char}`, `/characters/${char}`, `/${elemental}`, `/characters/${elemental}`, `${charMatch[1]}/traveler`];
+            }
+            return [`/${char}`, `/characters/${char}`];
+          }
+
+          const evidenceMatch = routePath.match(/^(\/evidence\/characters\/[a-z]+\/)(.+)$/);
+          if (evidenceMatch) {
+            const char = evidenceMatch[2];
+            // console.log(`Adding evidence alias from ${char} to ${routePath}`);
+            if (char.startsWith('traveler-')) {
+              const elemental = `${char.replace('traveler-', '')[0]}mc`
+              return [`/evidence/characters/${elemental}`, `/evidence/characters/${char}`, `${evidenceMatch[1]}/${elemental}`, `${evidenceMatch[1]}/traveler`];
+            }
+            return [`/evidence/characters/${char}`];
           }
 
           return [];
