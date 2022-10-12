@@ -215,20 +215,20 @@ To calculate this damage, substitute the proc percentage (e.g. 240% for Prototyp
 
 <summary>Characters</summary>
 
-* Anemo Traveler's **Slitting Wind** \(A1\)
-* Chongyun's **Ice Unleashed** \(C1\)
-* Collei's **Through Hill and Copse** \(C2\)
-* Collei's **Forest of Falling Arrows** \(C6\)
-* Fischl's **Stellar Predator** \(A1\)
-* Fischl's **Undone Be Thy Sinful Hex** \(A4\)
-* Fischl's **Gaze of the Deep** \(C1\)
-* Fischl's **Her Pilgrimage of Bleak** \(C4\)
-* Fischl's **Evernight Raven** \(C6\)
-* Geo Traveler's **Frenzied Rockslide** \(A4\)
-* Kamisato Ayato's **Boundless Origin** \(C6\)
-* Razor's **Lupus Fulguris** \(C6\)
-* Tighnari's **Karma Adjudged From the Leaden Fruit** \(C6\)
-* Xiangling's **Oil Meets Fire** \(C2\)
+* Anemo Traveler's [**Slitting Wind**](../../characters/anemo/traveler-anemo.md#ascension-passives) \(A1\)
+* Chongyun's [**Ice Unleashed**](../../characters/cryo/chongyun.md#constellations) \(C1\)
+* Collei's [**Through Hill and Copse**](../../characters/dendro/collei.md#constellations) \(C2\)
+* Collei's [**Forest of Falling Arrows**](../../characters/dendro/collei.md#constellations) \(C6\)
+* Fischl's [**Stellar Predator**](../../characters/electro/fischl.md#ascension-passives) \(A1\)
+* Fischl's [**Undone Be Thy Sinful Hex**](../../characters/electro/fischl.md#ascension-passives) \(A4\)
+* Fischl's [**Gaze of the Deep**](../../characters/electro/fischl.md#constellations) \(C1\)
+* Fischl's [**Her Pilgrimage of Bleak**](../../characters/electro/fischl.md#constellations) \(C4\)
+* Fischl's [**Evernight Raven**](../../characters/electro/fischl.md#constellations) \(C6\)
+* Geo Traveler's [**Frenzied Rockslide**](../../characters/geo/traveler-geo.md#ascension-passives) \(A4\)
+* Kamisato Ayato's [**Boundless Origin**](../../characters/hydro/kamisato-ayato.md#constellations) \(C6\)
+* Razor's [**Lupus Fulguris**](../../characters/electro/razor.md#constellations) \(C6\)
+* Tighnari's [**Karma Adjudged From the Leaden Fruit**](../../characters/dendro/tighnari.md#constellations) \(C6\)
+* Xiangling's [**Oil Meets Fire**](../../characters/pyro/xiangling.md#constellations) \(C2\)
 
 </details>
 
@@ -237,38 +237,38 @@ To calculate this damage, substitute the proc percentage (e.g. 240% for Prototyp
 <summary>Weapons</summary>
 
 * Bows
-  * Skyward Harp
-  * The Viridescent Hunt
+  * [**Skyward Harp**](../../equipment/weapons/bows.md#skyward-harp)
+  * [**The Viridescent Hunt**](../../equipment/weapons/bows.md#the-viridescent-hunt)
 
 <!---->
 
 * Catalysts
-  * Eye of Perception
-  * Frostbearer
+  * [**Eye of Perception**](../../equipment/weapons/catalysts.md#eye-of-perception)
+  * [**Frostbearer**](../../equipment/weapons/catalysts.md#frostbearer)
 
 <!---->
 
 * Claymores
-  * Debate Club
-  * Luxurious Sea-Lord
-  * Prototype Archaic
-  * Skyward Pride
-  * Snow-Tombed Starsilver
+  * [**Debate Club**](../../equipment/weapons/claymores.md#debate-club)
+  * [**Luxurious Sea-Lord**](../../equipment/weapons/claymores.md#luxurious-sea-lord)
+  * [**Prototype Archaic**](../../equipment/weapons/claymores.md#prototype-archaic)
+  * [**Skyward Pride**](../../equipment/weapons/claymores.md#skyward-pride)
+  * [**Snow-Tombed Starsilver**](../../equipment/weapons/claymores.md#snow-tombed-starsilver)
 
 <!---->
 
 * Swords
-  * Aquila Favonia
-  * Skyward Blade
-  * The Flute
+  * [**Aquila Favonia**](../../equipment/weapons/swords.md#aquila-favonia)
+  * [**Skyward Blade**](../../equipment/weapons/swords.md#skyward-blade)
+  * [**The Flute**](../../equipment/weapons/swords.md#the-flute)
 
 <!---->
 
 * Polearms
-  * Crescent Pike
-  * Dragonspine Spear
-  * Halberd
-  * Skyward Spine
+  * [**Crescent Pike**](../../equipment/weapons/polearms.md#crescent-pike)
+  * [**Dragonspine Spear**](../../equipment/weapons/polearms.md#dragonspine-spear)
+  * [**Halberd**](../../equipment/weapons/polearms.md#halberd)
+  * [**Skyward Spine**](../../equipment/weapons/polearms.md#skyward-spine)
 
 </details>
 
