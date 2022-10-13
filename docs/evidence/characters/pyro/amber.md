@@ -221,3 +221,20 @@ A crit on the automatic detonation at 50% crit damage would land 72 on the hilic
 
 **Significance:**  
  Optimizing niche coop damage scenarios and possible applications on future characters with similar effects.
+
+### Amber C2 Reaction Trigger
+
+**By:** Rathalos\#2875  
+**Added:** <Version date="2022-10-13">
+**Last tested:** <VersionHl date="2022-10-13">  
+[Discussion](https://tickets.deeznuts.moe/transcripts/amber-c2-reaction-trigger)
+
+**Finding:**  
+Amber's C2, *Bunny Triggered*, can be triggered using Transformative Reactions via Amber's Charged Attacks.  
+  
+**Evidence:**  
+* Pyro Swirl: [Imgur](https://imgur.com/DigwpIL)
+* Overload & Burgeon: [YouTube](https://youtu.be/iin-SJNTxcY)
+  
+**Significance:**  
+More understanding on Amber's kit. Fun techs, can be use for dank set ups.
