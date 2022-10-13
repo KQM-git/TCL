@@ -225,8 +225,8 @@ A crit on the automatic detonation at 50% crit damage would land 72 on the hilic
 ### Amber C2 Reaction Trigger
 
 **By:** Rathalos\#2875  
-**Added:** <Version date="2022-10-13">
-**Last tested:** <VersionHl date="2022-10-13">  
+**Added:** <Version date="2022-10-13" />
+**Last tested:** <VersionHl date="2022-10-13" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/amber-c2-reaction-trigger)
 
 **Finding:**  
