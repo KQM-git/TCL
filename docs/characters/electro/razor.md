@@ -98,6 +98,7 @@ import Skill from '@site/src/components/char/Skill'
   * This energy is not affected by ER.
 * **Claw and Thunder** (Hold) causes a small self-knockback when used.
 * The **Electro Sigils** are not immediately consumed when dashing after Hold E.
+* With the tap version Razor can generate particles by hitting animals, both in overworld and teapot.
 
 </TabItem>
 

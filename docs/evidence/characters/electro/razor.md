@@ -38,6 +38,23 @@ In this clip Razor with 3 Sigils uses Hold E. Right after using the Hold E he im
 **Significance:**  
 This allows Razor to gain more energy by consuming the same sigils multiple times without losing the stack count.
 
+### Razor Is The Best Battery
+
+**By:** leah.\#2212  
+**Added:** <Version date="2022-10-13" />
+**Last tested:** <Version date="2022-10-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/razor-is-the-best-battery)
+
+**Finding:**  
+Razor can generate Particles by hitting animals with his Tap E, both in overworld and teapot.  
+Killable enemies are still being tested.  
+
+**Evidence:**  
+[YouTube](https://youtube.com/playlist?list=PLDnBgF8WH4xvVTZCvQ2n91jzXTfruAqoE)  
+
+**Significance:**  
+Free energy go brr  
+
 ## Burst Mechanics
 
 ### Does Razor retain his Electro aura from his Q after swapping off and back on?
