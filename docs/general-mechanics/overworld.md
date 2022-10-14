@@ -277,6 +277,7 @@ Maps:
 * Eagles can get stuck on terrain. Unlike other animals they do not have collision with players. They can be hit by melee attacks and at short range they attract auto\-aim.
 * Some places in Teyvat are [high](../evidence/general-mechanics/overworld.md#highest-places-in-teyvat). Such as the hidden library in Enkanomiya having the highest Y-coordinate, followed up by the Dragonspine Skyfrost.
 * When characters use abilities that make them vanish, companions (Mini Seelies, Endora, Shiki Kousho, etc…) will disappear as well.
+* Enemy deaths caused by the environment \(fall damage, drowning, burning grass, electrified water\) do not proc weapon passives with on kill requirements.  
 
 ## Evidence Vault
 

@@ -2051,3 +2051,26 @@ When characters use abilities that make them vanish, companions (Mini Seelies, E
 
 **Significance:**  
 Nice to know.
+
+### Enviromental Damage Interaction With On Kill Effects
+
+**By:** lactose .\#9097  
+**Added:** <Version date="2022-10-13" />
+**Last tested:** <VersionHl date="2022-10-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/enviromental-damage-interaction-with-on-kill-effects)
+
+**Finding:**  
+Enemy deaths caused by the environment \(fall damage, drowning, burning grass, electrified water\) do not proc weapon passives with on kill requirements.  
+  
+**Evidence:**  
+The passives of White Iron Greatsword and Recurve Bow read:  
+> Defeating an opponent restores 16% HP.  
+  
+Therefore if fall damage and drowning counts as "defeating an opponent", the wielder should restore some HP. Testing shows that no HP is restored.  
+  
+* Fall damage and drowning \(White Iron Greatsword\): [YouTube](https://youtu.be/PmVZXl6ORZ4)
+* Burning \(White Iron Greatsword\): [YouTube](https://youtu.be/GGMIRwSVtAo)  
+* Electrified water \(Recurve Bow\): [YouTube](https://youtu.be/IONdx774YfE)  
+  
+**Significance:**  
+Deaths by the environment are inevitable in the overworld and can be taken advantage of by characters like Jean. However, those "kills" will not count towards on kill effects and could lead to lower passive uptime.
