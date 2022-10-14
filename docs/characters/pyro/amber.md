@@ -182,6 +182,7 @@ import Constellation from '@site/src/components/char/Constellation'
 * C2 damage instance is considered skill damage.
 * Baron Bunny snapshots.
 * In CO-OP, teammates can manually detonate each other's Baron Bunnies, but the damage bonus will only apply if both players have C2.
+* It can be triggered using Transformative Reactions via Amber's Charged Attacks.  
 
 </TabItem>
 
