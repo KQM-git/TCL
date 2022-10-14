@@ -418,6 +418,27 @@ Vaporize and Melt reduce their gauge by 0.5x or 2x \(presumed, no way to test, c
 
 Anemo and Geo skills we currently have marked in the Database as 6s are actually 0.5GU reductions. Those marked as 9.5s are actually 1GU reductions.
 
+### Hoyo Changed Pyro Why
+
+**By:** Bobrokrot\#0111  
+**Added:** <Version date="2022-10-13" />
+**Last tested:** <VersionHl date="2022-08-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hoyo-changed-pyro-why-1012654762715516988)
+
+**Finding:**  
+As of 3.0, decay rate of Pyro aura updates differently than other auras. Every time Pyro is applied, the decay rate either:  
+1. Stays the same if the trigger didn't change the amount of aura on the target.  
+2. Updates to the trigger decay rate if the aura did change.  
+  
+**Evidence:**  
+* [1U (0.8A) into 2U (1.6B)](https://youtu.be/ZNJWv1_v5Dg) results in 12 seconds duration from the last Pyro application, meaning it's 1.6B.
+* [2U (1.6B) into 1U (0.8A)]((https://youtu.be/AfDjlwvHWyY)) results in 12 second duration from the first Pyro application meaning that the decay rate didn't change.
+* [2U (1.6B) into 1U (0.8A)](https://youtu.be/AX8BejlyvFk) but this time the trigger applied at a time when the original aura has almost decayed. The duration is 9.5s counting from the 2nd application meaining that the decay rate changed to A.
+* [Electro hasn't been changed](https://youtu.be/Rm7LdJLszJs)
+  
+**Significance:**  
+Likely to be a bug.  
+
 ## All Characters Internal Cooldown Database
 
 Link [here](https://docs.google.com/spreadsheets/d/1O9SeEyS2uOnjYLEJ0d5E6TUxabp7fgyc6MGlSMJBsw0/edit)

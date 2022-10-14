@@ -78,6 +78,10 @@ Also see a much better graph by Kourinn\#6001 [Google Sheet](https://docs.google
 
 Something to note is that without extending auras, the total duration of an aura applied to the enemy is equivalent to 2.5 times the gauge of the elemental source in GU plus 7 seconds. This alongside the post-tax gauge may be used to calculate the decay rate. The letter notation makes it easier to refer to a few standard decay rates.
 
+As of 3.0, decay rate of Pyro aura updates differently than other auras. Every time Pyro is applied, the decay rate either:  
+1. Stays the same if the trigger didn't change the amount of aura on the target.  
+2. Updates to the trigger decay rate if the aura did change.  
+
 ## Overload and Superconduct
 
 These transformative reactions have a 1x modifier (effectively no modifier).
