@@ -75,6 +75,7 @@ import Skill from '@site/src/components/char/Skill'
 * **Frostflake Bloom** will damage enemies within a cylinder regardless of distance from the **Frostflake Arrow** on the same frame.
 * Ganyu's Charged Attacks snapshot on release, including the bloom.
 * Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
+* Fully Charged Frostflake Arrows have an Airspeed Velocity of approximately 55 m/s.  
 
 </TabItem>
 

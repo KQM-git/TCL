@@ -187,6 +187,26 @@ For moving targets, as they move toward you, the target is closer to the charact
 
 Special thanks to SavageCabbage\#1445 for founding this theory and discussing its significance.
 
+### Airspeed Velocity Of An Unladen Frostflake Arrow
+
+**By:** Rare Possum\#0511  
+**Added:** <Version date="2022-10-13" />
+**Last tested:** <VersionHl date="2022-10-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/airspeed-velocity-of-an-unladen-frostflake-arrow)
+
+**Finding:**  
+Ganyu's Fully Charged Frostflake Arrow has an Airspeed Velocity of approximately 55 m/s.  
+  
+**Evidence:**  
+* 8 Abyss Tiles: [YouTube](https://youtu.be/m4BdPoaS4GY)  
+* 2 Abyss Tiles: [YouTube](https://youtu.be/M8qYk9R8w30)  
+* 4 Abyss Tiles: [YouTube](https://youtu.be/NeVAvHzL7b8)  
+* 6 Abyss Tiles: [YouTube](https://youtu.be/ap3Oeqf9NFw)  
+* Calculations: [Google Sheets](https://docs.google.com/spreadsheets/d/1FDx-Uj01_d9QgpnnQA0ktn_G953yhvS7hddkPU6nZ_Y/edit?usp=sharing)  
+  
+**Significance:**  
+Amos Stacks.  
+
 ## Skill Mechanics
 
 ### C0 Ganyu: 2 Simultaneous Ice Lotuses
