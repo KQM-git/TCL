@@ -432,7 +432,7 @@ As of 3.0, decay rate of Pyro aura updates differently than other auras. Every t
   
 **Evidence:**  
 * [1U (0.8A) into 2U (1.6B)](https://youtu.be/ZNJWv1_v5Dg) results in 12 seconds duration from the last Pyro application, meaning it's 1.6B.
-* [2U (1.6B) into 1U (0.8A)]((https://youtu.be/AfDjlwvHWyY)) results in 12 second duration from the first Pyro application meaning that the decay rate didn't change.
+* [2U (1.6B) into 1U (0.8A)](https://youtu.be/AfDjlwvHWyY) results in 12 second duration from the first Pyro application meaning that the decay rate didn't change.
 * [2U (1.6B) into 1U (0.8A)](https://youtu.be/AX8BejlyvFk) but this time the trigger applied at a time when the original aura has almost decayed. The duration is 9.5s counting from the 2nd application meaining that the decay rate changed to A.
 * [Electro hasn't been changed](https://youtu.be/Rm7LdJLszJs)
   
