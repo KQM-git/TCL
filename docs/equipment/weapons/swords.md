@@ -31,6 +31,10 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 <Weapon weapon="Haran Geppaku Futsu" weapons={swords} />
 
+### Key of Khaj-Nisut
+
+<Weapon weapon="Key of Khaj-Nisut" weapons={swords} />
+
 ### Mistsplitter Reforged
 
 <Weapon weapon="Mistsplitter Reforged" weapons={swords}>
@@ -176,6 +180,10 @@ import SacSeries from './\_common/sac_series.md';
 * Flute's AOE can crit - [Crome\#2644](../../evidence/equipment/weapons.md#the-flute)
 
 </Weapon>
+
+### Xiphos' Moonlight
+
+<Weapon weapon="Xiphos' Moonlight" weapons={swords} />
 
 ## 3 Stars
 

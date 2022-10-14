@@ -324,7 +324,7 @@
       {
         "name": "Light Nourishment",
         "desc": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.",
-        "img": "Yun_Jin/passive_2",
+        "img": "Common/Perfect_Cooking_Adventure",
         "minAscension": 0
       }
     ],

@@ -154,6 +154,10 @@ import SacSeries from './\_common/sac_series.md';
 
 </Weapon>
 
+### Wandering Evenstar
+
+<Weapon weapon="Wandering Evenstar" weapons={catalysts} />
+
 ### Wine and Song
 
 <Weapon weapon="Wine and Song" weapons={catalysts} />

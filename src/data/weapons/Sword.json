@@ -1965,6 +1965,94 @@
       "desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character **60**/**75**/**90**/**105**/**120** Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack."
     }
   },
+  "Xiphos' Moonlight": {
+    "name": "Xiphos' Moonlight",
+    "weaponType": "Sword",
+    "stars": 4,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 42.401,
+        "curve": "ATK 2.1"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 36,
+        "curve": "C2"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 25.9
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 51.9
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 77.8
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 103.7
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 129.7
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Jinni's Whisper",
+      "desc": "The following effect will trigger every 10s: The equipping character will gain **0.036%**/**0.045%**/**0.054%**/**0.063%**/**0.072%** Energy Recharge for each point of Elemental Mastery they possess for 12s, with nearby party members gaining 30% of this buff for the same duration. Multiple instances of this weapon can allow this buff to stack. This effect will still trigger even if the character is not on the field."
+    }
+  },
   "Aquila Favonia": {
     "name": "Aquila Favonia",
     "weaponType": "Sword",
@@ -2579,6 +2667,94 @@
     "refinements": {
       "name": "Honed Flow",
       "desc": "Obtain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by **20%**/**25%**/**30%**/**35%**/**40%** for 8s."
+    }
+  },
+  "Key of Khaj-Nisut": {
+    "name": "Key of Khaj-Nisut",
+    "weaponType": "Sword",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "HP%",
+        "init": 0.144,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "Sunken Song of the Sands",
+      "desc": "HP increased by **20%**/**25%**/**30%**/**35%**/**40%**. When an Elemental Skill hits opponents, you gain the Grand Hymn effect for 20s. This effect increases the equipping character's Elemental Mastery by **0.12%**/**0.15%**/**0.18%**/**0.21%**/**0.24%** of their Max HP. This effect can trigger once every 0.3s. Max 3 stacks. When this effect gains 3 stacks, or when the third stack's duration is refreshed, the Elemental Mastery of all nearby party members will be increased by **0.2%**/**0.25%**/**0.3%**/**0.35%**/**0.4%** of the equipping character's max HP for 20s."
     }
   },
   "Dark Iron Sword": {

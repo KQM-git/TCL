@@ -1,0 +1,492 @@
+{
+  "name": "Nilou",
+  "star": 5,
+  "weaponType": "Sword",
+  "baseStats": {
+    "hpBase": 1182.1168,
+    "attackBase": 17.8752,
+    "defenseBase": 56.71884,
+    "criticalBase": 0.05,
+    "criticalDmgBase": 0.5
+  },
+  "curves": [
+    {
+      "name": "Base HP",
+      "curve": "Regular HP/DEF 5*"
+    },
+    {
+      "name": "Base ATK",
+      "curve": "Regular ATK 5*"
+    },
+    {
+      "name": "Base DEF",
+      "curve": "Regular HP/DEF 5*"
+    }
+  ],
+  "skill": {
+    "talents": [
+      {
+        "name": "Normal Attack: Dance of Samser",
+        "desc": "**Normal Attack**\nPerforms up to 3 consecutive sword strikes.\n\n**Charged Attack**\nConsumes a certain amount of Stamina to perform a twirling slash.\n\n**Plunging Attack**\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+        "img": "Common/Sword",
+        "talentTable": [
+          {
+            "name": "1-Hit DMG",
+            "values": [
+              "50.3%",
+              "54.4%",
+              "58.5%",
+              "64.3%",
+              "68.4%",
+              "73.1%",
+              "79.6%",
+              "86.0%",
+              "92.4%",
+              "99.4%",
+              "106.5%"
+            ]
+          },
+          {
+            "name": "2-Hit DMG",
+            "values": [
+              "45.4%",
+              "49.1%",
+              "52.8%",
+              "58.1%",
+              "61.8%",
+              "66.0%",
+              "71.9%",
+              "77.7%",
+              "83.5%",
+              "89.8%",
+              "96.2%"
+            ]
+          },
+          {
+            "name": "3-Hit DMG",
+            "values": [
+              "70.4%",
+              "76.1%",
+              "81.8%",
+              "90.0%",
+              "95.7%",
+              "102.3%",
+              "111.3%",
+              "120.3%",
+              "129.3%",
+              "139.1%",
+              "148.9%"
+            ]
+          },
+          {
+            "name": "Charged Attack DMG",
+            "values": [
+              "50.2%+54.4%",
+              "54.3%+58.9%",
+              "58.4%+63.3%",
+              "64.2%+69.6%",
+              "68.3%+74.1%",
+              "73.0%+79.1%",
+              "79.4%+86.1%",
+              "85.8%+93.1%",
+              "92.3%+100.0%",
+              "99.3%+107.6%",
+              "106.3%+115.2%"
+            ]
+          },
+          {
+            "name": "Charged Attack Stamina Cost",
+            "value": "20.0"
+          },
+          {
+            "name": "Plunge DMG",
+            "values": [
+              "63.9%",
+              "69.1%",
+              "74.3%",
+              "81.8%",
+              "87.0%",
+              "92.9%",
+              "101.1%",
+              "109.3%",
+              "117.5%",
+              "126.4%",
+              "135.3%"
+            ]
+          },
+          {
+            "name": "Low/High Plunge DMG",
+            "values": [
+              "128%/160%",
+              "138%/173%",
+              "149%/186%",
+              "164%/204%",
+              "174%/217%",
+              "186%/232%",
+              "202%/253%",
+              "219%/273%",
+              "235%/293%",
+              "253%/316%",
+              "271%/338%"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Dance of Haftkarsvar",
+        "desc": "Enters the Pirouette state, dealing **Hydro DMG** to nearby opponents based on Nilou's Max HP.\nWhile she is in the Pirouette state, Nilou's Normal Attacks and Elemental Skill will cause her to enter the Sword Dance and Whirling Steps stances respectively, causing DMG she deals to be converted to **Hydro DMG** that cannot be overridden and that is considered Elemental Skill DMG.\n\nIn these stances, Nilou's third dance step will end Pirouette, and has the following effects based on the type of said dance step:\n·Sword Dance: unleashes a Luminous Illusion that deals **Hydro DMG** to opponents it touches and grants Nilou the Lunar Prayer effect. This effect converts Nilou's Normal Attacks into Sword Dance techniques, and her final hit will unleash a Luminous Illusion.\n·Whirling Steps: Nilou unleashes a Whirling Water Wheel that deals **AoE Hydro DMG** and creates a Tranquility Aura that follows your active character around and applies **Wet** to opponents within its AoE.\n\nNilou is unable to perform Charged Attacks when under the effect of Pirouette or Lunar Prayer. These effects will be removed once she leaves the field.\n\n**\"Daintily her toes touch the water's face, and the light that ripples forth equals even the seven heavens.\"**",
+        "img": "Nilou/skill_1",
+        "talentTable": [
+          {
+            "name": "Skill DMG",
+            "values": [
+              "3.34% Max HP",
+              "3.59% Max HP",
+              "3.84% Max HP",
+              "4.17% Max HP",
+              "4.42% Max HP",
+              "4.67% Max HP",
+              "5.01% Max HP",
+              "5.34% Max HP",
+              "5.68% Max HP",
+              "6.01% Max HP",
+              "6.34% Max HP",
+              "6.68% Max HP",
+              "7.10% Max HP"
+            ]
+          },
+          {
+            "name": "Sword Dance/Whirling Steps 1-Hit DMG",
+            "values": [
+              "4.55%/3.26% Max HP",
+              "4.89%/3.51% Max HP",
+              "5.24%/3.75% Max HP",
+              "5.69%/4.08% Max HP",
+              "6.03%/4.32% Max HP",
+              "6.37%/4.57% Max HP",
+              "6.83%/4.89% Max HP",
+              "7.28%/5.22% Max HP",
+              "7.74%/5.55% Max HP",
+              "8.19%/5.87% Max HP",
+              "8.65%/6.20% Max HP",
+              "9.10%/6.52% Max HP",
+              "9.67%/6.93% Max HP"
+            ]
+          },
+          {
+            "name": "Sword Dance/Whirling Steps 2-Hit DMG",
+            "values": [
+              "5.14%/3.96% Max HP",
+              "5.53%/4.26% Max HP",
+              "5.92%/4.55% Max HP",
+              "6.43%/4.95% Max HP",
+              "6.82%/5.25% Max HP",
+              "7.20%/5.54% Max HP",
+              "7.72%/5.94% Max HP",
+              "8.23%/6.34% Max HP",
+              "8.75%/6.73% Max HP",
+              "9.26%/7.13% Max HP",
+              "9.77%/7.52% Max HP",
+              "10.29%/7.92% Max HP",
+              "10.93%/8.42% Max HP"
+            ]
+          },
+          {
+            "name": "Luminous Illusion/Water Wheel DMG",
+            "values": [
+              "7.17%/5.06% Max HP",
+              "7.71%/5.44% Max HP",
+              "8.24%/5.82% Max HP",
+              "8.96%/6.33% Max HP",
+              "9.50%/6.71% Max HP",
+              "10.04%/7.09% Max HP",
+              "10.75%/7.59% Max HP",
+              "11.47%/8.10% Max HP",
+              "12.19%/8.60% Max HP",
+              "12.90%/9.11% Max HP",
+              "13.62%/9.62% Max HP",
+              "14.34%/10.12% Max HP",
+              "15.23%/10.76% Max HP"
+            ]
+          },
+          {
+            "name": "Pirouette Duration",
+            "value": "10.0s"
+          },
+          {
+            "name": "Lunar Prayer Duration",
+            "value": "8.0s"
+          },
+          {
+            "name": "Tranquility Aura Duration",
+            "value": "12.0s"
+          },
+          {
+            "name": "CD",
+            "value": "18.0s"
+          }
+        ]
+      }
+    ],
+    "ult": {
+      "name": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+      "desc": "Begins the dance of faraway dreams and springs that hear, causing a Lotus of Distant Waters to bloom, dealing **AoE Hydro DMG** based on Nilou's Max HP and applying the Lingering Aeon effect to all opponents hit.\nAfter an interval, opponents affected by Lingering Aeon will take **Hydro DMG**.\n\n**\"We have never witnessed that distant dream, but this dance can bring it to life.\"**",
+      "img": "Nilou/ult",
+      "talentTable": [
+        {
+          "name": "Skill DMG",
+          "values": [
+            "18.4% Max HP",
+            "19.8% Max HP",
+            "21.2% Max HP",
+            "23.0% Max HP",
+            "24.4% Max HP",
+            "25.8% Max HP",
+            "27.6% Max HP",
+            "29.5% Max HP",
+            "31.3% Max HP",
+            "33.2% Max HP",
+            "35.0% Max HP",
+            "36.9% Max HP",
+            "39.2% Max HP"
+          ]
+        },
+        {
+          "name": "Lingering Aeon DMG",
+          "values": [
+            "22.5% Max HP",
+            "24.2% Max HP",
+            "25.9% Max HP",
+            "28.2% Max HP",
+            "29.8% Max HP",
+            "31.5% Max HP",
+            "33.8% Max HP",
+            "36.0% Max HP",
+            "38.3% Max HP",
+            "40.6% Max HP",
+            "42.8% Max HP",
+            "45.1% Max HP",
+            "47.9% Max HP"
+          ]
+        },
+        {
+          "name": "CD",
+          "value": "18.0s"
+        },
+        {
+          "name": "Energy Cost",
+          "value": "70"
+        }
+      ],
+      "type": "Hydro"
+    },
+    "passive": [
+      {
+        "name": "Court of Dancing Petals",
+        "desc": "When all characters in the party are all **Dendro** or **Hydro**, and there are at least one Dendro character and one Hydro character:\nThe completion of the third dance step of Nilou's **Dance of Haftkarsvar** will grant all nearby characters the Golden Chalice's Bounty for 30s upon its completion.\nCharacters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by **Dendro attacks**. Also, triggering the Bloom reaction will create Bountiful Cores instead of Dendro Cores.\nSuch Cores will burst very quickly after being created, and they have larger AoEs.\nBountiful Cores cannot trigger Hyperbloom or Burgeon, and they share an upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.\nShould the party not meet the conditions for this Passive Talent, any existing Golden Chalice's Bounty effects will be canceled.",
+        "img": "Nilou/passive_0",
+        "minAscension": 1
+      },
+      {
+        "name": "Dreamy Dance of Aeons",
+        "desc": "Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.\nThe maximum increase in Bountiful Core DMG that can be achieved this way is 400%.",
+        "img": "Nilou/passive_1",
+        "minAscension": 4
+      },
+      {
+        "name": "White Jade Lotus",
+        "desc": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.",
+        "img": "Common/Perfect_Cooking_Adventure",
+        "minAscension": 0
+      }
+    ],
+    "constellations": [
+      {
+        "name": "Dance of the Waning Moon",
+        "desc": "**Dance of Haftkarsvar** will be enhanced as follows:\n·Luminous Illusion DMG is increased by 65%.\n·The Tranquility Aura's duration is extended by 6s.",
+        "img": "Nilou/const_0"
+      },
+      {
+        "name": "The Starry Skies Their Flowers Rain",
+        "desc": "After characters affected by the Golden Chalice's Bounty deal **Hydro DMG** to an opponent, that opponent's **Hydro RES** will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their **Dendro RES** will be decreased by 35% for 10s.\nYou need to have unlocked the \"Court of Dancing Petals\" Talent.",
+        "img": "Nilou/const_1"
+      },
+      {
+        "name": "Beguiling Shadowstep",
+        "desc": "Increases the Level of **Dance of Abzendegi: Distant Dreams, Listening Spring** by 3.\nMaximum upgrade level is 15.",
+        "img": "Nilou/const_2"
+      },
+      {
+        "name": "Fricative Pulse",
+        "desc": "After the third dance step of **Dance of Haftkarsvar**'s Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her **Dance of Abzendegi: Distant Dreams, Listening Spring** will be increased by 50% for 8s.",
+        "img": "Nilou/const_3"
+      },
+      {
+        "name": "Twirling Light",
+        "desc": "Increases the Level of **Dance of Haftkarsvar** by 3.\nMaximum upgrade level is 15.",
+        "img": "Nilou/const_4"
+      },
+      {
+        "name": "Frostbreaker's Melody",
+        "desc": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.\nThe maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.",
+        "img": "Nilou/const_5"
+      }
+    ]
+  },
+  "ascensions": [
+    {
+      "level": 0,
+      "maxLevel": 20,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 0
+        },
+        {
+          "stat": "Base DEF",
+          "value": 0
+        },
+        {
+          "stat": "Base ATK",
+          "value": 0
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 1,
+      "maxLevel": 40,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1013.5583
+        },
+        {
+          "stat": "Base DEF",
+          "value": 48.6324
+        },
+        {
+          "stat": "Base ATK",
+          "value": 15.325248
+        },
+        {
+          "stat": "HP%",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "maxLevel": 50,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 1733.7181396484375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 83.187
+        },
+        {
+          "stat": "Base ATK",
+          "value": 26.21424
+        },
+        {
+          "stat": "HP%",
+          "value": 0.072
+        }
+      ]
+    },
+    {
+      "level": 3,
+      "maxLevel": 60,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 2693.93115234375
+        },
+        {
+          "stat": "Base DEF",
+          "value": 129.2598
+        },
+        {
+          "stat": "Base ATK",
+          "value": 40.73289489746094
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 4,
+      "maxLevel": 70,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 3414.091
+        },
+        {
+          "stat": "Base DEF",
+          "value": 163.8144
+        },
+        {
+          "stat": "Base ATK",
+          "value": 51.62188720703125
+        },
+        {
+          "stat": "HP%",
+          "value": 0.144
+        }
+      ]
+    },
+    {
+      "level": 5,
+      "maxLevel": 80,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4134.251
+        },
+        {
+          "stat": "Base DEF",
+          "value": 198.369
+        },
+        {
+          "stat": "Base ATK",
+          "value": 62.51088
+        },
+        {
+          "stat": "HP%",
+          "value": 0.216
+        }
+      ]
+    },
+    {
+      "level": 6,
+      "maxLevel": 90,
+      "statsUp": [
+        {
+          "stat": "Base HP",
+          "value": 4854.41064453125
+        },
+        {
+          "stat": "Base DEF",
+          "value": 232.9236
+        },
+        {
+          "stat": "Base ATK",
+          "value": 73.39987
+        },
+        {
+          "stat": "HP%",
+          "value": 0.288
+        }
+      ]
+    }
+  ]
+}
