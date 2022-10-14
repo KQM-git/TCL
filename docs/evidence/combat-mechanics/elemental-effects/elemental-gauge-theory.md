@@ -63,12 +63,10 @@ Using elements to cause reactions are a key cornerstone of Genshin Impact. To op
 **Added:** <Version date="2021-02-04" />  
 **Last tested:** <VersionHl date="2021-02-04" />
 
-### Finding
-
+**Finding:**  
 Enemies apply the same 1 unit, 2 unit system to us that we apply to them. They follow exactly the same elemental system we do.
 
-### Evidence
-
+**Evidence:**  
 I tested the number of frames that elements last on my character, upon being hit by attacks from these enemies:
 
 * Electro Cicin: 12s Electro \(2 units\)
@@ -83,15 +81,15 @@ On our own characters, the element does not fade out, but immediately disappears
 
 Enemy skills also "fix" the decay rate the same as our skills. In this example, I am hit by a 2 unit Pyro, then 11 seconds later I am hit by a 1 unit Pyro. The Pyro aura lasts precisely 6 seconds from the point I am hit with the 1 unit Pyro. This matches the behaviour we see ourselves when going 2u -&gt; 1u; we have 1 unit still decaying at the 2 unit rate of 6s and 12s.[ ](https://youtu.be/cUWXy_PNO_E)
 
-[https://youtu.be/cUWXy_PNO_E](https://youtu.be/cUWXy_PNO_E)
+[YouTube](https://youtu.be/cUWXy_PNO_E)
 
 Enemy skills follow the same reaction reductions we do. In this example, I use Hillichurl Shooters to perform a Reverse Melt on myself. The Pyro Shooter applies 2 Pyro to me, then the Cryo Shooter applies 2 Cryo. Since this is a Reverse Melt, the reduction is 0.5x2 so 1 unit reduced. The Pyro lasts a total of 4.5 seconds from initial application to falling off, so the Melt reaction reduced the timer by 7.5 seconds. This matches the behaviour for a 1 unit reduction.
 
-[https://youtu.be/qjTTqPpujiM](https://youtu.be/qjTTqPpujiM)
+[YouTube](https://youtu.be/qjTTqPpujiM)
 
 In addition, the reduction of 7.5s is a precise frame count. This is the "taxless" value, compared to the "taxed" value of 6s. This allows us to calculate the exact value of the so-called "Aura Tax": 6/7.5 = 0.8. This confirms our theory that the Tax is roughly 80%, that is exactly correct.
 
-### Significance
+**Significance:**  
 
 This allows us to more precisely measure frames on reactions due to the way friendly auras appear clearer than enemy auras. Since enemies can have 1 or 2 unit attacks, it's possible some enemies have 4 unit attacks for elements we have previously not been able to test with 4 units. There may even be 3-unit enemies. This opens up more possible reactions we can test.
 
@@ -355,37 +353,35 @@ In the above section, we stated that different U auras have different decay rate
 
 **By:** BowlSoldier\#3528, Zephan\#9493, Bobrokrot\#0111, HailCorporate\#2970, Doug\#8888
 
-### Theory
-
+**Theory:**  
 The Weak/Strong 9.5/12s theory of auras is incorrect. There is also no Very Weak or Very Strong upgrade/downgrade system. Elemental applications instead apply 1, 2 or 4 Gauge Units \(GU\). The amount of time a GU persists for can vary, and depends on how many GU were applied by the first ability to hit that enemy. The "stronger" the ability was that started the aura/the more GU it applied, the faster the aura decays.
 
-### Evidence
-
-Robin provided me with info from CN, which allowed me to make this graph: [https://www.desmos.com/calculator/zjmzbsyqql](https://www.desmos.com/calculator/zjmzbsyqql)
+**Evidence:**  
+Robin provided me with info from CN, which allowed me to make this graph: [Desmos](https://www.desmos.com/calculator/zjmzbsyqql)
 
 This graph accurately predicts all the downgrade/upgrade, Vaporize, Melt oddities that we have so far struggled to account for. It does so by separating the elemental gauge amount from the length of time that elemental aura stays on the enemy: they are related, but separate properties.
 
 Consider the known "Weak" application of 9.5s \(applies 1 GU, green line on the graph\) and "Strong" application of 12s \(applies 2GU, red line on the graph\). On the graph, the y-axis is the GU in the gauge, the x-axis is duration.
 
-[https://imgur.com/bnTvgvh](https://imgur.com/bnTvgvh)
+[Imgur](https://imgur.com/bnTvgvh)
 
 I apply Strong Pyro then Overload with Weak Electro. That is an aura of 2GU, then a reduction of 1GU from the Weak Electro, leaving 1GU left on the Pyro aura. If 2GU is 12s, then a reduction of 1GU would be a reduction of 6s, correct?
 
-[https://youtu.be/lfSTKJoRliY](https://youtu.be/lfSTKJoRliY)
+[YouTube](https://youtu.be/lfSTKJoRliY)
 
 In this video we see that the Pyro only lasted 4.55s, so the Electro reduced the timer by about 7.45s, not 6s as expected.
 
 This can be explained by the graph: the rate of decay is non-linear \(otherwise known as the Aura Tax\). ~~You lose 20% of the gauge in the first 5% of its duration. So with 2 GU and a 12s duration, after 0.6s have passed you only have 1.6 GU remaining. After this point, we can find the point of the graph where 1GU is remaining, and see how many seconds that represents by moving from the line down to the x-axis and seeing how long is left on the timer. We get a result of 7.125s. So if you start with a 2GU application and apply a 1GU reduction, that is a time reduction of 7.125s.~~ This has been debunked by Aluminum#5462, check [Tax Evasion](../../combat-mechanics/elemental-effects/elemental-gauge-theory.md#tax-evasion) for more.
 
-[https://imgur.com/UFttRz4](https://imgur.com/UFttRz4)
+[Imgur](https://imgur.com/UFttRz4)
 
 The weak element in Vaporize or Melt reduces the gauge by half the GU it normally would. So a 2GU reduction becomes a 1GU reduction, and a 1GU reduction becomes a 0.5GU reduction. In the Strong-Strong section of this video, we apply 2GU of Pyro then 2GU of Cryo. This causes a 7.28s reduction, roughly equivalent to the 1GU reduction in the previous example. The Weak-Weak example matches a 0.5GU reduction calculated on the lower, green line of the graph.
 
-[https://youtu.be/1mDwx2igois](https://youtu.be/1mDwx2igois)
+[YouTube](https://youtu.be/1mDwx2igois)
 
 The rate of decay of GU is determined based on the strength of the first aura application on an enemy, until all auras fall off that enemy. If you apply a 1GU aura, which decays slowly, then use a 2GU move of the same element, you now have 2 GU of that element on the enemy, which is still decaying at that slower rate. This is most obvious when done with initial hit of Beidou's Burst, which is the only known 4GU move currently in the game.
 
-[https://youtu.be/mNu2heDKA4Q](https://youtu.be/mNu2heDKA4Q)
+[YouTube](https://youtu.be/mNu2heDKA4Q)
 
 Beidou's Burst normally lasts 16.8 seconds. It applies 4GU, but decays very rapidly. If we first apply 1GU Electro, it retains the slow decay and lasts 38 seconds instead.
 
@@ -409,12 +405,11 @@ Decay rate after 2GU = Red
 
 Decay rate after 4GU = Purple
 
-[https://imgur.com/jAzK9S0](https://imgur.com/jAzK9S0)
+[Imgur](https://imgur.com/jAzK9S0)
 
 For a given decay rate, you can predict the time deduction caused by a 1GU deduction using the slope formula from the graph: \(0.95 x T\)/0.8, where T is the seconds a Weak aura application lasts for at that decay rate: 9.5, 6, or 4.2
 
-### Significance
-
+**Significance**  
 If possible, starting your element applications with a Weak aura will make it slightly easier to chain reactions, as the decay rate of any further applications will be lower. This is a small difference as you are usually limited on reactions by GU, not time.
 
 Referring to elements by their 9.5s and 12s durations is a mistake, as a Weak application can be 4.2, 6, or 9.5 seconds. It is better to refer to moves by their GU. I would suggest moving from Weak/Strong moves, to 0.5GU, 1GU, 2GU, and 4GU.
@@ -441,7 +436,7 @@ Link [here](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNe
 **Added:** <Version date="2020-11-09" />  
 **Last tested:** <VersionHl date="2020-11-09" />
 
-Source: [https://www.bilibili.com/video/BV1aK4y177Rd](https://www.bilibili.com/video/BV1aK4y177Rd) \(Dated Oct 29, 2020\)
+Source: [Bilibili](https://www.bilibili.com/video/BV1aK4y177Rd) \(Dated Oct 29, 2020\)
 
 Translation link [here](https://docs.google.com/document/d/e/2PACX-1vQ_ayc9bVtUZz9zlF7h6L5EsKE1tUIujtXYkicp0nmxG5CXzRSA91Eh4qKQTadh-KOg8im5gRN_iD-R/pub)
 
@@ -456,11 +451,14 @@ Reviewed/Edited by: IonFox, Doug
 **Last tested:** <VersionHl date="2021-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804110170833158174_834201279973556234_transcript-self-gauges-and-leylines.html)
 
-**Theory:** Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U value greater than the remaining aura.
+**Theory:**  
+Self Gauges and Leylines of all types do not clear the aura if they trigger a reaction and subtract a U value greater than the remaining aura.
 
-**Evidence:** [https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb](https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb)
+**Evidence:**  
+[YouTube](https://youtube.com/playlist?list=PLuS0r7YoEgG8FAzsAFmiF-orOK_6cZqvb)
 
-**Significance:** Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies and this works regardless of where the aura came from. In the future, larger self applying gauges could allow for other builds such as @HailCorporate\#2970's self-overloading Razor that takes advantage of aura oscillation with repeated self gauge application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
+**Significance:**  
+Self gauges and Leylines seem to follow a different rule set compared to triggers that happen on enemies and this works regardless of where the aura came from. In the future, larger self applying gauges could allow for other builds such as @HailCorporate\#2970's self-overloading Razor that takes advantage of aura oscillation with repeated self gauge application. It is also important to note that over-cleansing is possible where applying a gauge that is bigger than an aura you want to overwrite could result in unwanted reactions if something else triggers the new aura.
 
 ## Self Aura Infusion
 
@@ -469,37 +467,48 @@ Reviewed/Edited by: IonFox, Doug
 **Last tested:** <VersionHl date="2021-04-19" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_804550581800271873_834201539702423592_transcript-leyline-self-aura-infusions.html)
 
-**Finding:** It has been known that you can use self auras to infuse anemo ults \(Venti/Sucrose\) with elements instead of enemy auras. This happens to include the aura applied by leylines so it allows for elements not present AT ALL otherwise to be practically included in a team.
+**Finding:**  
+It has been known that you can use self auras to infuse anemo ults \(Venti/Sucrose\) with elements instead of enemy auras. This happens to include the aura applied by leylines so it allows for elements not present AT ALL otherwise to be practically included in a team.
 
 **Evidence:**
+* [Imgur](https://imgur.com/a/cTN4R7K)
+* [Imgur](https://imgur.com/a/qgT2usb)
 
-* [https://imgur.com/a/cTN4R7K](https://imgur.com/a/cTN4R7K)
-* [https://imgur.com/a/qgT2usb](https://imgur.com/a/qgT2usb)
-
-**Significance:** With this technique you can infuse elements that are otherwise not present AT ALL within your team or the enemies, allowing for compositions to cheat the matching element into their team at little cost. A current powerful application of this is using this to deal with Hydro Fatui gunner's shield in lieu of bringing an actual electro unit, decreasing the number of constraints on floor 11 team construction if you can't simply kill the Fatui before they put up the shield.
+**Significance:**  
+With this technique you can infuse elements that are otherwise not present AT ALL within your team or the enemies, allowing for compositions to cheat the matching element into their team at little cost. A current powerful application of this is using this to deal with Hydro Fatui gunner's shield in lieu of bringing an actual electro unit, decreasing the number of constraints on floor 11 team construction if you can't simply kill the Fatui before they put up the shield.
 
 ## Reapplying Hydro on Freeze
 
 **By:** Some Proselytizer\#8340 and Aetherpon\#5730  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_845683620832084008_855002512116416512_transcript-freeze-test-hunt.html)
 
-**Finding:** Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
+**Finding:**  
+Reapplying Hydro on a Freeze Aura will not Extend the Duration of Freeze.
 
-**Evidence:** [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing), [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing), [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing), [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing), [Frame Counts in Excel Sheet](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md/discord/attachments_845683620832084008_845690939275739207_FreezeCounts.xlsx)
+**Evidence:**  
+* [Videos](https://drive.google.com/drive/folders/1DQiXL58iRaqxqsoDTaxtL-8F-IuenmfH?usp=sharing)
+* [Frame Calcs in 30 FPS](https://docs.google.com/spreadsheets/d/1zaa3-c0BeGPkx9vjPxb850AtR_MjQbqUbWvQ89JZPoM/edit?usp=sharing)
+* [Videos of Base Duration Freeze](https://drive.google.com/drive/folders/15T-e8to2kC_x7rAzONGRbYMRHiFu5qKE?usp=sharing)
+* [Videos of Freeze with 1U Hydro App](https://drive.google.com/drive/folders/1mHgex-m2raRvzSFS99-0v0jujkrNfARZ?usp=sharing)
+* [Frame Counts in Excel Sheet](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md/discord/attachments_845683620832084008_845690939275739207_FreezeCounts.xlsx)
 
-**Significance:** Better understanding of Freeze.
+**Significance:**  
+Better understanding of Freeze.
 
 ## Tax Evasion
 
 **By:** Aluminum#5462  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851683689174925352_861402567899873320_transcript-tax-evasion.html)
 
-**Finding:** Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
+**Finding:**  
+Contrary to what is stated in the evidence linked on the [Gauge Unit Theory](../../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#gauge-unit-theory-testing-and-evidence), taxation does not cause you to lose 20% of the gauge in the first 5% of the duration (hereinafter Hypothesis 1), but is applied instantly (hereinafter Hypothesis 2). Both hypothesis use the same total aura duration when no reactions occur.
 
-**Evidence:** Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
+**Evidence:**  
+Duration testing was done on a 4A aura with 3U subtracted: [https://youtu.be/0hHF4GHo7uw](https://www.youtube.com/watch?v=0hHF4GHo7uw)
 
 According to Hypothesis 1, the aura should last `4 * 9.5 * 0.05 + 0.2 / 3.2 * 4 * 9.5 * 0.95 = 4.15625s` after initial application
 whereas according to Hypothesis 2, the aura should last only `0.2 / 3.2 * 38 = 2.375s` after initial application.
 Taking into account hitlag extension for elemental auras, the aura duration observed in the video matches Hypothesis 2, not Hypothesis 1.
 
-**Significance:** Sadly for the setup I wanted to test when I started this ticket, tax cannot be evaded since the aura starts at the taxed gauge. For the front page of Elemental gauge theory, this doesn't mean much since it explains things using tax on reaction, which is consistent with Hypothesis 2. However, since the original evidence is linked on the front page, it should be mentioned somewhere that Hypothesis 1 is inaccurate.
+**Significance:**  
+Sadly for the setup I wanted to test when I started this ticket, tax cannot be evaded since the aura starts at the taxed gauge. For the front page of Elemental gauge theory, this doesn't mean much since it explains things using tax on reaction, which is consistent with Hypothesis 2. However, since the original evidence is linked on the front page, it should be mentioned somewhere that Hypothesis 1 is inaccurate.
