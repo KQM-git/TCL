@@ -421,7 +421,7 @@ Anemo and Geo skills we currently have marked in the Database as 6s are actually
 ### Hoyo Changed Pyro Why
 
 **By:** Bobrokrot\#0111  
-**Added:** <Version date="2022-10-13" />
+**Added:** <Version date="2022-10-13" />  
 **Last tested:** <VersionHl date="2022-08-27" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/hoyo-changed-pyro-why-1012654762715516988)
 
