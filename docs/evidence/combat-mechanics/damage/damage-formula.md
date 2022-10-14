@@ -8,22 +8,6 @@ search: false
 
 <Card item={require('../../../combat-mechanics/damage/damage-formula.md')} />
 
-## Outcoming and incoming healing bonuses are additive
-
-**By:** ItzSomebody\#0029  
-**Added:** <Version date="2021-08-09" />  
-**Last tested:** <VersionHl date="2021-08-09" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_874018516842475600_874090458991706122_transcript-outcoming-incoming-healing-additive.html)
-
-**Finding:**  
-Outcoming and incoming healing bonuses are additive.
-
-**Evidence:**  
-[Video](https://youtu.be/yJMPaWKCCbA) Barbara with 9419 health, level 7 skill, 4pc maidens, and hydro resonance. Assuming outcome and income are additive, Barbara would heal for `((9419 * 0.06) + 664) * (1 + 0.15 + 0.20 + 0.30) = 2028.081` which video confirms.
-
-**Significance:**  
-The two are additive.
-
 ## Defense shred is hard capped at 90%
 
 **By:** Phana\#0420, Mcpie\#8672, jamberry\#7142  

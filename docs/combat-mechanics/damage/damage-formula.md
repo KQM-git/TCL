@@ -150,7 +150,7 @@ Unlike other bonuses, these are directly multiplicative with base Talent scaling
 $$
 \text{SpecialMultiplier} = \begin{cases}
   1.5 & \text{if, Evilsoother triggered} \\
-  \text{Talent \%} & \text{if, Coil or Niwabi Enshou active} \\
+  \text{Talent \%} & \text{if, Frozen Wilds or Niwabi Fire-Dance triggered} \\
   1 & \text{otherwise}
 \end{cases}
 $$
@@ -201,7 +201,6 @@ import AdditiveReaction from '../\_formulas/additive.md'
 | **EM**                        | The character's total Elemental Mastery.                                                                                                                                                                                                                                      |
 | **ReactionBonus**             | Includes reaction damage bonus from 4-Piece set bonus of Thundering Fury.                                                                                                                                               |
 | **LevelMultiplier**           | Player level multiplier at <LevelMultiplier curve={player} /> <br/> Enemy/environment level multiplier at <LevelMultiplier curve={enemy} />                                                                                                                                   |
-| **EnemyResistanceMultiplier** | Uses the [Enemy Resistance](damage-formula.md#enemy-resistance) formula above, but for Dendro. |
 
 ## Proc
 
@@ -276,7 +275,7 @@ To calculate this damage, substitute the proc percentage (e.g. 240% for Prototyp
 
 Any effect that scales off of a certain stat will not count any buffs that also scale themselves off of someone else's stat in their calculation.
 
-> "In order to avoid infinite stacking of in-game bonuses, when an effect confers one attribute as a certain percentage of another attribute, this effect will not then factor into calculations of other similar percentage-based effects." - [miHoYo](https://www.hoyolab.com/article/503042)
+> "In order to avoid infinite stacking of in-game bonuses, when an effect confers one attribute as a certain percentage of another attribute, this effect will not then factor into calculations of other similar percentage-based effects." - [HoYoverse](https://www.hoyolab.com/article/503042)
 
 Examples of such buffs:
 
