@@ -892,6 +892,25 @@ Bad uptime.
 
 ---
 
+### Hunter's Path
+
+#### Hunters Passive Benefits From Percentage Based EM Buffs
+
+**By:** Mr. Pillow\#0065  
+**Added:** 2022-10-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/hunters-passive-and-tighnari-a4-benefit-from-percentage-based-em-buffs)
+
+**Finding:**  
+Hunter's passive and Tighnari A4 benefit from percentage-based EM buffs.  
+  
+**Evidence:**  
+In the first video (link: [YouTube](https://youtu.be/8B1b_RBUpt0)) and the second video (link: [YouTube](https://youtu.be/B5Tk_QpyO_Y),) Tighnari hits twice with his Level 1 Aimed Shot and twice with his Elemental Burst, respectively, once before and once after Sucrose has triggered her A4. The attached calculations show that the passive of Hunter's Path and Tighnari A4 (both the CA DMG% and Burst DMG% part) benefit from Sucrose A4.  
+  
+**Significance:**  
+Confirmation that the bugfix introduced with the 3.1 update "Fixes an issue whereby effects gained based on a character's attribute were incorrectly increased" (link: [genshin.hoyoverse.com](https://genshin.hoyoverse.com/en/news/detail/2428)) is actually true. Better knowledge of how percentage-based effects work.
+
+---
+
 ### Kagotsurube Isshin
 
 #### Cursed Blade Reduction Mechanic
