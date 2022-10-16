@@ -13,9 +13,13 @@ export default function ArtifactSetBonus({ artifact }: { artifact: string }) {
       Missing artifact data for {artifact}
     </Admonition>
 
-  return <ul>
-    {arti.bonuses.map((b) => <li key={b.count}>
-      {b.count}-Piece Set Bonus: {b.desc}
-    </li>)}
-  </ul>
+  return <div>
+    <img className="artifact-set-box" src={`/img/artifacts/icon/${artifact.replace(/ /g, "_")}.png`} width={256} height={256} />
+    <ul>
+      {arti.bonuses.map((b) => <li key={b.count}>
+        {b.count}-Piece Set Bonus: {b.desc}
+      </li>)}
+    </ul>
+    <div className="clear" />
+  </div>
 }

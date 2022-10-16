@@ -97,3 +97,13 @@ div[role="tabpanel"] {
 .version-hl-warning {
   color: var(--ifm-color-warning-dark);
 }
+
+/* Artifact icon stuff */
+.artifact-set-box {
+  float: right;
+  width: 8rem;
+  height: 8rem;
+}
+.clear {
+  clear: both;
+}
