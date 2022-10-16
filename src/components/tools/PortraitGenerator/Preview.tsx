@@ -8,24 +8,25 @@ const framePad = 36 // Padding around portrait frame
 const portraitPad = 12 // Padding around image
 const spacing = 29 // Spacing between portrait frames
 const portraitSize = 256
-const elementalSize = 64
+const elementalSizeMultiplier = 1 / 4
 const lineOffset = 3
 
-const totalHeight = 2 * framePad + 2 * portraitPad + portraitSize // 146 or 
-const frameSize = portraitSize + 2 * portraitPad
 
-export default function Preview({ active, remove }: { active: PortraitIcon[], remove: (i: number) => void }) {
+export default function Preview({ active, remove, background }: { active: PortraitIcon[], remove: (i: number) => void, background: boolean }) {
   const canvasRef = useRef(null as HTMLCanvasElement)
   const [hovering, setHovering] = useState(false)
 
-  const totalWidth = framePad * 2 + frameSize * active.length + spacing * (active.length - 1)
+  const effectiveFramePad = background ? framePad : 0
+  const frameSize = portraitSize + 2 * portraitPad
+  const totalWidth = effectiveFramePad * 2 + frameSize * active.length + spacing * (active.length - 1)
+  const totalHeight = 2 * effectiveFramePad + 2 * portraitPad + portraitSize
 
   function getName(x: PortraitIcon) {
-    return `${x.name}${x.elementalIcon ? ` (${x.elementalIcon.name})` : ""}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
+    return `${x.name}${x.others ? "+" + x.others.map(x => getName(x)).join("+") : ""}`
   }
   const list = active.map(x => getName(x)).join(" - ")
 
-  useEffect(() => {
+  useEffect(() => void (async () => {
     const canvas = canvasRef.current
     const ctx = canvas.getContext('2d')
     canvas.width = totalWidth
@@ -34,125 +35,40 @@ export default function Preview({ active, remove }: { active: PortraitIcon[], re
     ctx.imageSmoothingEnabled = true
     ctx.imageSmoothingQuality = "high"
 
-    // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
-    ctx.fillStyle = "#02041C"
-    ctx.strokeStyle = "#000000"
+    if (background) {
+      ctx.fillStyle = "#02041C"
+      ctx.strokeStyle = "#000000"
+    } else {
+      ctx.fillStyle = "transparent"
+      ctx.strokeStyle = "transparent"
+    }
     roundRect(ctx, 0, 0, totalWidth, totalHeight, 19)
 
     for (let i = 0; i < active.length; i++) {
-      const leftBorder = framePad + i * (frameSize + spacing)
+      const leftBorder = effectiveFramePad + i * (frameSize + spacing)
       ctx.fillStyle = "#0B0923"
       ctx.strokeStyle = "#000000"
-      roundRect(ctx, leftBorder, framePad, frameSize, portraitSize + 2 * portraitPad, 10)
+      if (background)
+        roundRect(ctx, leftBorder, effectiveFramePad, frameSize, portraitSize + 2 * portraitPad, 10)
 
       const icon = active[i]
 
-      const baseImage = new Image()
-      baseImage.src = icon.path
-      baseImage.onload = () => {
-        const x = leftBorder + portraitPad
-        const y = framePad + portraitPad
-
-        if (icon.others) {
-          const half = portraitSize / 2
-          if (icon.others.length == 1) {
-            // 2 images
-            ctx.drawImage(baseImage, x, y, half, half)
-
-            const second = new Image()
-            second.src = icon.others[0].path
-            second.onload = () => {
-              ctx.drawImage(second, x + half, y + half, half, half)
-              drawDiagonal(ctx, x, y)
-            }
-          } else {
-            const smaller = half * .8
-            // 3/4 images
-            ctx.save()
-            ctx.beginPath()
-            ctx.moveTo(x, y)
-            ctx.lineTo(x + portraitSize, y)
-            ctx.lineTo(x + half, y + half)
-            ctx.lineTo(x, y)
-            ctx.clip()
-            ctx.drawImage(baseImage, x + half - smaller / 2, y, smaller, smaller)
-            ctx.restore()
-
-            const second = new Image()
-            second.src = icon.others[0].path
-            second.onload = () => {
-              ctx.save()
-              ctx.beginPath()
-              ctx.moveTo(x, y)
-              ctx.lineTo(x, y + portraitSize)
-              ctx.lineTo(x + half, y + half)
-              ctx.lineTo(x, y)
-              ctx.clip()
-              ctx.drawImage(second, x, y + half - smaller / 2, smaller, smaller)
-              ctx.restore()
-
-              const third = new Image()
-              third.src = icon.others[1].path
-              third.onload = () => {
-                if (icon.others.length == 2) {
-                  // 3 images
-                  ctx.drawImage(third, x + half, y + half, half, half)
-                  drawDiagonal(ctx, x, y)
-                  drawTLHalfDiagonal(ctx, x, y)
-                } else {
-                  // 4 images
-                  ctx.save()
-                  ctx.beginPath()
-                  ctx.moveTo(x + portraitSize, y)
-                  ctx.lineTo(x + portraitSize, y + portraitSize)
-                  ctx.lineTo(x + half, y + half)
-                  ctx.lineTo(x + portraitSize, y)
-                  ctx.clip()
-                  ctx.drawImage(third, x + portraitSize - smaller, y + half - smaller / 2, smaller, smaller)
-                  ctx.restore()
-
-                  const fourth = new Image()
-                  fourth.src = icon.others[2].path
-                  fourth.onload = () => {
-                    ctx.save()
-                    ctx.beginPath()
-                    ctx.moveTo(x, y + portraitSize)
-                    ctx.lineTo(x + portraitSize, y + portraitSize)
-                    ctx.lineTo(x + half, y + half)
-                    ctx.lineTo(x, y + portraitSize)
-                    ctx.clip()
-                    ctx.drawImage(fourth, x + half - smaller / 2, y + portraitSize - smaller, smaller, smaller)
-                    ctx.restore()
-                    drawDiagonal(ctx, x, y)
-                    drawTLDiagonal(ctx, x, y)
-                  }
-                }
-              }
-            }
-          }
-        } else {
-          ctx.drawImage(baseImage, x, y, portraitSize, portraitSize)
-          if (icon.elementalIcon) {
-            const elementalImage = new Image()
-            elementalImage.src = icon.elementalIcon.path
-            elementalImage.onload = () => {
-              ctx.drawImage(elementalImage, x, y, elementalSize, elementalSize)
-            }
-          }
-        }
-      }
+      // https://stackoverflow.com/questions/6011378/how-to-add-image-to-canvas
+      const x = leftBorder + portraitPad
+      const y = effectiveFramePad + portraitPad
+      await drawIcon(ctx, icon, x, y, portraitSize)
     }
-  }, [active])
+  })(), [active, background])
 
   return <div>
     <canvas
       ref={canvasRef}
       onClick={(e) => {
-        const i = getIndex(e)
+        const i = getIndex(effectiveFramePad, frameSize, e)
         if (i >= 0 && i < active.length) remove(i)
       }}
       onMouseMove={(e) => {
-        const i = getIndex(e)
+        const i = getIndex(effectiveFramePad, frameSize, e)
         const shouldHover = i >= 0 && i < active.length
         if (shouldHover !== hovering) setHovering(shouldHover)
       }}
@@ -171,41 +87,208 @@ export default function Preview({ active, remove }: { active: PortraitIcon[], re
   </div>
 }
 
-function drawDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number) {
+function loadImage(path: string): Promise<HTMLImageElement> {
+  return new Promise((resolve) => {
+    const img = new Image()
+    img.src = path
+    img.onload = () => resolve(img)
+  })
+}
+
+async function drawIcon(ctx: CanvasRenderingContext2D, icon: PortraitIcon, x: number, y: number, size: number) {
+  const baseImage = await loadImage(icon.path)
+  if (icon.others) {
+    if (icon.others.length == 1) {
+      // 2 images
+      await drawTopHalf(ctx, icon, baseImage, x, y, size)
+
+      const secondIcon = icon.others[0]
+      const second = await loadImage(secondIcon.path)
+      await drawBottomHalf(ctx, secondIcon, second, x, y, size)
+
+      drawDiagonal(ctx, x, y, size)
+    } else {
+      // 3/4 images
+      await drawTopCenter(ctx, icon, baseImage, x, y, size)
+
+      const secondIcon = icon.others[0]
+      const second = await loadImage(secondIcon.path)
+      await drawLeftCenter(ctx, secondIcon, second, x, y, size)
+
+      const thirdIcon = icon.others[1]
+      const third = await loadImage(thirdIcon.path)
+      if (icon.others.length == 2) {
+        // 3 images
+        await drawBottomHalf(ctx, thirdIcon, third, x, y, size)
+
+        drawDiagonal(ctx, x, y, size)
+        drawTLHalfDiagonal(ctx, x, y, size)
+      } else {
+        // 4 images
+        await drawRightCenter(ctx, thirdIcon, third, x, y, size)
+
+        const fourthIcon = icon.others[2]
+        const fourth = await loadImage(fourthIcon.path)
+
+        await drawBottomCenter(ctx, fourthIcon, fourth, x, y, size)
+
+        drawDiagonal(ctx, x, y, size)
+        drawTLDiagonal(ctx, x, y, size)
+      }
+    }
+
+  } else {
+    // Draw singular
+    drawImg(ctx, icon, baseImage, x, y, size)
+  }
+}
+
+async function drawImg(ctx: CanvasRenderingContext2D, icon: PortraitIcon, baseImage: HTMLImageElement, x: number, y: number, size: number) {
+  ctx.drawImage(baseImage, x, y, size, size)
+  if (icon.elementalIcon) {
+    const elementalImage = await loadImage(icon.elementalIcon.path)
+    ctx.drawImage(elementalImage, x, y, size * elementalSizeMultiplier, size * elementalSizeMultiplier)
+  }
+}
+
+async function drawBottomHalf(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x + size, y)
+  ctx.lineTo(x + size, y + size)
+  ctx.lineTo(x, y + size)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + half, y + half, half)
+  }
+  ctx.restore()
+}
+
+async function drawTopHalf(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y)
+  ctx.lineTo(x + size, y)
+  ctx.lineTo(x, y + size)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x, y, half)
+  }
+  ctx.restore()
+}
+
+async function drawTopCenter(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y)
+  ctx.lineTo(x + size, y)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x, y)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + half - smaller / 2, y, smaller)
+  }
+  ctx.restore()
+}
+
+async function drawLeftCenter(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y)
+  ctx.lineTo(x, y + size)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x, y)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x, y + half - smaller / 2, smaller)
+  }
+  ctx.restore()
+}
+
+async function drawRightCenter(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x + size, y)
+  ctx.lineTo(x + size, y + size)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x + size, y)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + size - smaller, y + half - smaller / 2, smaller)
+  }
+  ctx.restore()
+}
+
+async function drawBottomCenter(ctx: CanvasRenderingContext2D, icon: PortraitIcon, img: HTMLImageElement, x: number, y: number, size: number) {
+  const half = size / 2
+  const smaller = half * .8
+  ctx.save()
+  ctx.beginPath()
+  ctx.moveTo(x, y + size)
+  ctx.lineTo(x + size, y + size)
+  ctx.lineTo(x + half, y + half)
+  ctx.lineTo(x, y + size)
+  ctx.clip()
+  if (icon.full) {
+    await drawImg(ctx, icon, img, x, y, size)
+  } else {
+    await drawImg(ctx, icon, img, x + half - smaller / 2, y + size - smaller, smaller)
+  }
+  ctx.restore()
+}
+function drawDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
   ctx.strokeStyle = "#FFFFFF"
   ctx.lineWidth = 2
   ctx.beginPath()
-  ctx.moveTo(x + lineOffset, y + portraitSize - lineOffset)
-  ctx.lineTo(x + portraitSize - lineOffset, y + lineOffset)
+  ctx.moveTo(x + lineOffset, y + size - lineOffset)
+  ctx.lineTo(x + size - lineOffset, y + lineOffset)
   ctx.stroke()
 }
-function drawTLHalfDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number) {
+function drawTLHalfDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
   ctx.strokeStyle = "#FFFFFF"
   ctx.lineWidth = 2
   ctx.beginPath()
   ctx.moveTo(x + lineOffset, y + lineOffset)
-  ctx.lineTo(x + portraitSize / 2, y + portraitSize / 2)
+  ctx.lineTo(x + size / 2, y + size / 2)
   ctx.stroke()
 }
-function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number) {
+function drawTLDiagonal(ctx: CanvasRenderingContext2D, x: number, y: number, size: number) {
   ctx.strokeStyle = "#FFFFFF"
   ctx.lineWidth = 2
   ctx.beginPath()
   ctx.moveTo(x + lineOffset, y + lineOffset)
-  ctx.lineTo(x + portraitSize - lineOffset, y + portraitSize - lineOffset)
+  ctx.lineTo(x + size - lineOffset, y + size - lineOffset)
   ctx.stroke()
 }
 
-function getIndex(e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
+function getIndex(effectiveFramePad: number, frameSize: number, e: React.MouseEvent<HTMLCanvasElement, MouseEvent>) {
   const rect = e.currentTarget.getBoundingClientRect()
   const x = e.clientX - rect.left
   const y = e.clientY - rect.top
 
-  if (y < framePad || y > framePad + frameSize) return -1
+  if (y < effectiveFramePad || y > effectiveFramePad + frameSize) return -1
 
   // See above for coordinates
-  const i = Math.floor((x - framePad) / (frameSize + spacing))
-  const leftBorder = framePad + i * (frameSize + spacing)
+  const i = Math.floor((x - effectiveFramePad) / (frameSize + spacing))
+  const leftBorder = effectiveFramePad + i * (frameSize + spacing)
 
   const xMin = leftBorder
   const xMax = xMin + portraitSize + portraitPad * 2

@@ -21,8 +21,9 @@ Recommended to use a Chromium based browser due to [imageSmoothingQuality](https
 
 import PortraitGenerator from '@site/src/components/tools/PortraitGenerator'
 import charIcons from '@site/src/data/character_icons.json'
+import artiIcons from '@site/src/data/artifact_icons.json'
 
-<PortraitGenerator charIcons={charIcons} />
+<PortraitGenerator charIcons={charIcons} artiIcons={artiIcons} />
 
 ## Credits
 
