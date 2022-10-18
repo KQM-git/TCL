@@ -190,7 +190,7 @@ Damage shown in video is 2521
 
 ### C2: Steelbreaker
 
-### Raiden C2 Applies To Physical Damage
+#### Raiden C2 Applies To Physical Damage
 
 **By:** Snipe\#1234  
 **Added:** 2022-10-15  
