@@ -2052,10 +2052,10 @@ When characters use abilities that make them vanish, companions (Mini Seelies, E
 **Significance:**  
 Nice to know.
 
-### Enviromental Damage Interaction With On Kill Effects
+### Environmental Damage Interaction With On Kill Effects
 
 **By:** lactose .\#9097  
-**Added:** <Version date="2022-10-13" />
+**Added:** <Version date="2022-10-13" />  
 **Last tested:** <VersionHl date="2022-10-13" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/enviromental-damage-interaction-with-on-kill-effects)
 
