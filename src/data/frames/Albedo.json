@@ -1,0 +1,80 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "next_na": 14,
+        "ca": 23
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 11,
+        "hitlag": 0.03,
+        "next_na": 22,
+        "ca": 21
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": 0.06,
+        "next_na": 32,
+        "ca": 41
+    },
+    {
+        "name": "N4",
+        "hitmark": 17,
+        "hitlag": 0.09,
+        "next_na": 34,
+        "ca": 36
+    },
+    {
+        "name": "N5",
+        "hitmark": 27,
+        "hitlag": 0.12,
+        "next_na": 62,
+        "ca": "-"
+    }],
+    "CA": [{
+        "name":"CA-1",
+        "hitmark": 20,
+        "hitlag": 0,
+        "na": 56,
+        "skill": 34,
+        "burst": 34,
+        "dash": 21,
+        "jump": 21,
+        "swap": 33
+    },
+    {
+        "name": "CA-2",
+        "hitmark": 0,
+        "hitlag": 0,
+        "na": 56,
+        "dash": 21,
+        "jump": 21,
+        "swap": 33
+    }],
+    "Skill": {
+        "hitmark": 25,
+        "cd": 23,
+        "n1": 32,
+        "burst": 33,
+        "dash": 28,
+        "jump": 28,
+        "swap": 31
+    },
+    "Burst": {
+        "hitmark_primary": 75,
+        "hitmark_secondary": 145,
+        "cd": 74,
+        "energy": 77,
+        "skill": 95,
+        "dash": 94,
+        "jump": 95,
+        "swap": 93
+    },
+    "Other": {
+        "dash": 21,
+        "jump": 31
+    }
+}
