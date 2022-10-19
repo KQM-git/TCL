@@ -148,6 +148,35 @@ Better knowledge for teambuilding and rotations.
 
 ## Burst Mechanics
 
+### Introverted Rainswords
+
+**By:** Isetfire\#0428  
+**Added:** 2022-10-14  
+[Discussion](https://tickets.deeznuts.moe/transcripts/introverted-rainswords)
+
+**Finding:**  
+Burst Cancelling by using a special interaction on Xingqiu creates 2 **bugs:**  
+1) Xingqiu's Burst Rainswords will not proc when you use his burst and activate a special interaction at the same time, but the Burst Orbitals will remain.  
+2) Xingqiu's Skill will no longer create Skill Rainsword Orbitals after burst cancel until the next normal burst.  
+  
+**Evidence:**  
+
+1. No Rainsword procs:
+  * [YouTube](https://youtu.be/ycsfatemdWs)  
+  * [YouTube](https://youtu.be/_AgD13GmXbo)  
+  * [YouTube](https://youtu.be/vcSgHJ9f52s)  
+  * [YouTube](https://youtu.be/CzIgwQz0m_k)  
+  * [YouTube](https://youtu.be/tt8r2K7s8XE)
+2. No Orbital generation on Elemental Skill:
+  * [YouTube](https://youtu.be/hp7kWDpvj5M)  
+  * [YouTube](https://youtu.be/xzRZgPsW330)  
+  
+Some details were already found by Rathalos#2875. Refer to the Burst Cancelling Sheet for more detail.  
+[Google Docs Link](https://docs.google.com/spreadsheets/d/1EqCgXiIh2vnIlNQGxfeRuEf6WUB2qzeY8r2zQcyIvQs/edit?usp=drivesdk)  
+
+**Significance:**  
+Mostly Fluff, but may happen during quests and commissions.
+
 ### Xingqiu's Q Damage Calculation is Dynamic
 
 **By:** IonFox\#8887
