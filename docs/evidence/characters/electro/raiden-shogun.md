@@ -190,6 +190,28 @@ Damage shown in video is 2521
 
 ### C2: Steelbreaker
 
+#### Raiden C2 Applies To Physical Damage
+
+**By:** Snipe\#1234  
+**Added:** 2022-10-15  
+[Discussion](https://tickets.deeznuts.moe/transcripts/raiden-c2-applies-to-physical-damage)
+
+**Finding:**  
+Raiden's C2 applies to physical damage.  
+
+**Evidence:**  
+
+* [YouTube](https://youtu.be/x6jCqOm-NTs) 
+* [YouTube](https://youtu.be/tWVGjXyRFP8) 
+* [YouTube](https://youtu.be/IAOLuuLMN_U)  
+
+Tested using a Dragonspine Spear, bursting right after a normal attack so that the icicle falls during the burst window. As can be seen through the videos, a non burst icicle crit hits for 448, whereas a bursted icicle crit lands for 644 damage.
+This makes sense mathematically as per the defence formula `190/(190+195x(0.4)) = 0.709` and `190 / (190+195) = 0.4935`.
+Finding the ratio between these two, we reach a 43.66% dmg increase, and `448 x 1.4366 = 644`, rounded up.  
+
+**Significance:**  
+It proves without a doubt that any and all damage during Raiden's burst with C2 will ignore DEF by 60%. Including physical damage. Outside of this one interaction there is no way to do normal/charged/weapon proc attacks on Raiden during her burst, so this will serve as confirmation in the future if this becomes possible, that all damage done by Raiden herself during her burst will undergo the defence ignore, and not just skills/burst/electro damage.
+
 #### C2 defense ignore is multiplicative
 
 **By:** Javier#1000  
