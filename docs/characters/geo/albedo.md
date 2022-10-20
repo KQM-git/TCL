@@ -127,6 +127,13 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 </Tabs>
 
+## Frames
+
+import charFrames from '@site/src/data/frames/Albedo.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
+
 ## Ascension Passives
 
 import Passive from '@site/src/components/char/Passive'

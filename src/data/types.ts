@@ -80,6 +80,29 @@ export interface StatsUp {
     value: number
 }
 
+// Character Pages
+export interface Frames {
+    [tab: string]: FrameTab | FrameTab[]
+}
+
+export type FrameInfo = number | string | (number | string)[];
+export interface FrameTab {
+    name?: string;
+    hitmark?: FrameInfo;
+    hitlag?: FrameInfo;
+    na: FrameInfo;
+    cd?: FrameInfo;
+    energy?: FrameInfo;
+    skill?: FrameInfo;
+    dash?: FrameInfo;
+    jump?: FrameInfo;
+    swap?: FrameInfo;
+    burst?: FrameInfo;
+    next_na?: FrameInfo;
+    ca?: FrameInfo;
+    n1?: FrameInfo;
+}
+
 // Weapon
 export interface Weapon {
     name: string

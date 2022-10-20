@@ -64,8 +64,7 @@
         "swap": 31
     },
     "Burst": {
-        "hitmark_primary": 75,
-        "hitmark_secondary": 145,
+        "hitmark": [75, 145],
         "cd": 74,
         "energy": 77,
         "skill": 95,
