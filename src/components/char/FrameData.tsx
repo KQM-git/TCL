@@ -7,7 +7,6 @@ const nameMap: Record<keyof FrameTab, string> = {
   hitlag: "Hitlag",
   hitmark: "Hitmark",
   n1: "N1",
-  na: "NA",
   next_na: "Next NA",
   ca: "CA",
   cd: "CD",

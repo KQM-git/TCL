@@ -38,7 +38,7 @@
         "name":"CA-1",
         "hitmark": 20,
         "hitlag": 0,
-        "na": 56,
+        "n1": 56,
         "skill": 34,
         "burst": 34,
         "dash": 21,
@@ -49,7 +49,7 @@
         "name": "CA-2",
         "hitmark": 0,
         "hitlag": 0,
-        "na": 56,
+        "n1": 56,
         "dash": 21,
         "jump": 21,
         "swap": 33
