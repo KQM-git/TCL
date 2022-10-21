@@ -32,29 +32,21 @@
         "hitmark": 27,
         "hitlag": 0.12,
         "next_na": 62,
-        "ca": "-"
+        "ca": "N/A"
     }],
     "CA": [{
-        "name":"CA-1",
-        "hitmark": 20,
-        "hitlag": 0,
+        "name":"CA",
+        "hitmark": [20, 20],
+        "hitlag": [0, 0],
         "n1": 56,
         "skill": 34,
         "burst": 34,
         "dash": 21,
         "jump": 21,
         "swap": 33
-    },
-    {
-        "name": "CA-2",
-        "hitmark": 0,
-        "hitlag": 0,
-        "n1": 56,
-        "dash": 21,
-        "jump": 21,
-        "swap": 33
     }],
     "Skill": {
+        "name": "Cast",
         "hitmark": 25,
         "cd": 23,
         "n1": 32,
@@ -64,16 +56,22 @@
         "swap": 31
     },
     "Burst": {
+        "name": "Cast",
         "hitmark": [75, 145],
         "cd": 74,
-        "energy": 77,
+        "n1": 94,
         "skill": 95,
         "dash": 94,
         "jump": 95,
-        "swap": 93
+        "swap": 93,
+        "energy": 77
     },
-    "Other": {
-        "dash": 21,
-        "jump": 31
-    }
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
 }
