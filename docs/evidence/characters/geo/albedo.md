@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/geo/albedo.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1WIejtwUZpZ2lqTNlK2_6cJPoDe0PUmCL6QKB05m_AQQ/edit?usp=sharing) - Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Dimensions of Albedo’s Elemental Skill AoE
