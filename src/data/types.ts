@@ -90,17 +90,16 @@ export interface FrameTab {
     name?: string;
     hitmark?: FrameInfo;
     hitlag?: FrameInfo;
-    na: FrameInfo;
-    cd?: FrameInfo;
-    energy?: FrameInfo;
+    default?: FrameInfo;
+    n1?: FrameInfo;
+    ca?: FrameInfo;
     skill?: FrameInfo;
+    burst?: FrameInfo;
     dash?: FrameInfo;
     jump?: FrameInfo;
     swap?: FrameInfo;
-    burst?: FrameInfo;
-    next_na?: FrameInfo;
-    ca?: FrameInfo;
-    n1?: FrameInfo;
+    cd?: FrameInfo;
+    energy?: FrameInfo;
 }
 
 // Weapon
