@@ -87,19 +87,20 @@ export interface Frames {
 
 export type FrameInfo = number | string | (number | string)[];
 export interface FrameTab {
-    name?: string;
-    hitmark?: FrameInfo;
-    hitlag?: FrameInfo;
-    default?: FrameInfo;
-    n1?: FrameInfo;
-    ca?: FrameInfo;
-    skill?: FrameInfo;
-    burst?: FrameInfo;
-    dash?: FrameInfo;
-    jump?: FrameInfo;
-    swap?: FrameInfo;
-    cd?: FrameInfo;
-    energy?: FrameInfo;
+    name?: string
+    hitmark?: FrameInfo
+    hitlag?: FrameInfo
+    default?: FrameInfo
+    n1?: FrameInfo
+    ca?: FrameInfo
+    skill?: FrameInfo
+    burst?: FrameInfo
+    dash?: FrameInfo
+    jump?: FrameInfo
+    swap?: FrameInfo
+    cd?: FrameInfo
+    energy?: FrameInfo
+    notes?: string | string[]
 }
 
 // Weapon
