@@ -64,7 +64,8 @@
         "jump": 95,
         "swap": 93,
         "cd": 74,
-        "energy": 77
+        "energy": 77,
+        "notes": ["Hitmark 1: initial hit", "Hitmark 2: Fatal Blossom"]
     },
     "Other": [{
         "name": "Dash",
