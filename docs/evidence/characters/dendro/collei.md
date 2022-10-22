@@ -38,6 +38,7 @@ search: false
   * Ground - [Video](https://youtu.be/HaW7FLxIrVE)
   * Walls - [Video](https://youtu.be/JM_9pkUIjYE)
   * Getting Stuck - [Video](https://youtu.be/vX8XOteOg7k)
+* Skill generates 3 particles 100% of the time. - [Video](https://youtu.be/USQbzm0qxbI) - Tibo\#4309
 
 
 ## Burst Mechanics
