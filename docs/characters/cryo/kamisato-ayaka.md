@@ -33,25 +33,25 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9%           | Frames       | MV/s      | Poise Damage | Impulse Type |
-| :-------- | :------------------ | :----------- | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 84.01%              | 8            | 630.08%/s | 42.5         | 3            |
-| 2-Hit DMG | 89.44%              | 28           | 371.68%/s | 44.1         | 3            |
-| 3-Hit DMG | 115.05%             | 56           | 309.11%/s | 55.2         | 3            |
-| 4-Hit DMG | 41.61% ×3 (124.83%) | 84 + 91 + 98 | 253.06%/s | 19.68 x3     | 2 x3         |
-| 5-Hit DMG | 143.64%             | 136          | 245.72%/s | 74.1         | 7            |
+| String    | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :------------------ | :----- |:--------- | :----------- | :----------- |
+| 1-Hit DMG | 84.01%              | 15     | 336.04%/s | 42.5         | 3            |
+| 2-Hit DMG | 89.44%              | 25     | 214.66%/s | 44.1         | 3            |
+| 3-Hit DMG | 115.05%             | 39     | 177.00%/s | 55.2         | 3            |
+| 4-Hit DMG | 41.61% ×3 (124.83%) | 28     | 267.49%/s | 19.68 x3     | 2 x3         |
+| 5-Hit DMG | 143.64%             | 70     | 123.12%/s | 74.1         | 7            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9%                     | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----------------- | :---------------------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack DMG | 101.28%×3 (303.84%)           | -      | -         | 40 x3        | 2 x2 + 3     |
-| N1C                | 84.01% + 101.28%×3 (387.85%)  | 96     | 242.41%/s | -            | -            |
-| N2C                | 173.45% + 101.28%×3 (477.29%) | 115    | 249.02%/s | -            | -            |
-| N3C                | 288.5% + 101.28%×3 (592.34%)  | 140    | 253.86%/s | -            | -            |
-| N4C                | 413.33% + 101.28%×3 (717.17%) | 171    | 251.64%/s | -            | -            |
+| String             | Talent 9%                      | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :----------------------------- | :----- |:--------- | :----------- | :----------- |
+| Charged Attack DMG | 101.28% ×3 (303.84%)           | 71     | 256.77%/s | 40 x3        | 2 x2 + 3     |
+| N1C                | 84.01% + 101.28% ×3 (387.85%)  | 99     | 235.06%/s | -            | -            |
+| N2C                | 173.45% + 101.28% ×3 (477.29%) | 112    | 255.69%/s | -            | -            |
+| N3C                | 288.5% + 101.28% ×3 (592.34%)  | 150    | 236.94%/s | -            | -            |
+| N4C                | 413.33% + 101.28% ×3 (717.17%) | 179    | 240.39%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -86,7 +86,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------- |
 | Skill DMG \(T9%\) | 406.64%   |
 | Particles         | 4~5 (1:1) |
-| Frames            | 56        |
 | GU                | 2B        |
 | ICD (hits/timer)  | None      |
 | Snapshot          | -         |
@@ -131,9 +130,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------- | :------------ |
 | Cutting DMG \(T9%\)  | 190.91% \* 19 |
 | Bloom DMG \(T9%\)    | 286.36%       |
-| Cast Frames          | 95            |
-| Energy Frame         | 13            |
-| CD Frame             | 2             |
 | GU                   | 1A            |
 | ICD                  | 3 hits / 2.5s |
 | Snapshot             | Snapshot      |
@@ -158,6 +154,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Kamisato_Ayaka.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

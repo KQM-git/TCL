@@ -1,0 +1,84 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 11,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 38
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 16,
+        "hitlag": 0.03,
+        "default": 39,
+        "ca": 39
+    },
+    {
+        "name": "N3",
+        "hitmark": [16, 39],
+        "hitlag": [0, 0.03],
+        "default": 54,
+        "ca": 43
+    },
+    {
+        "name": "N4",
+        "hitmark": 43,
+        "hitlag": 0.04,
+        "default": 76,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": 25,
+        "hitlag": 0,
+        "n1": 76,
+        "skill": 56,
+        "burst": 56,
+        "dash": 33,
+        "jump": 32,
+        "swap": 55
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 16,
+        "hitlag": 0.05,
+        "n1": 33,
+        "burst": 32,
+        "dash": 33,
+        "jump": 33,
+        "swap": 32,
+        "cd": 14
+    },
+    {
+        "name": "Hold",
+        "hitmark": 91,
+        "hitlag": 0.05,
+        "n1": 119,
+        "burst": 119,
+        "dash": 120,
+        "jump": 118,
+        "swap": 117,
+        "cd": 89,
+        "notes": "A1: subtract 55f from Hold E hitmark"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 33,
+        "n1": 54,
+        "skill": 55,
+        "dash": 54,
+        "jump": 54,
+        "swap": 53,
+        "cd": 0,
+        "energy": 4,
+        "notes": "Wave Impact: 1f after swap"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

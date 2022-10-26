@@ -1,0 +1,92 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 10,
+        "hitlag": 0.03,
+        "default": 21,
+        "ca": 27
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 10,
+        "hitlag": 0.03,
+        "default": 22,
+        "ca": 30
+    },
+    {
+        "name": "N3",
+        "hitmark": 14,
+        "hitlag": 0.06,
+        "default": 35,
+        "ca": 44
+    },
+    {
+        "name": "N4",
+        "hitmark": [11, 22],
+        "hitlag": [0, 0.03],
+        "default": 37,
+        "ca": 64
+    },
+    {
+        "name": "N5",
+        "hitmark": 22,
+        "hitlag": 0,
+        "default": 66,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [21, 24],
+        "hitlag": [0, 0],
+        "n1": 36,
+        "skill": 35,
+        "burst": 35,
+        "dash": 24,
+        "jump": 24,
+        "swap": 24
+    }],
+    "Skill": [{
+        "name": "Cast",
+        "hitmark": 25,
+        "n1": 36,
+        "skill": 35,
+        "burst": 37,
+        "dash": 21,
+        "jump": 21,
+        "swap": 28
+    },
+    {
+        "name": "Reast",
+        "hitmark": 26,
+        "n1": 42,
+        "burst": 43,
+        "dash": 14,
+        "jump": 16,
+        "swap": 42
+    },
+    {
+        "name": "Thunderclap Slash",
+        "hitmark": 24,
+        "hitlag": 0.09
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 56,
+        "n1": 123,
+        "skill": "124/123",
+        "dash": 122,
+        "jump": 124,
+        "swap": 123,
+        "cd": 52,
+        "energy": 54,
+        "notes": "E cast cancel is 124f, E recast cancel is 123f"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

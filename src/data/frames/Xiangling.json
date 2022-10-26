@@ -1,0 +1,83 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 25
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 8,
+        "hitlag": 0.03,
+        "default": 22,
+        "ca": 23
+    },
+    {
+        "name": "N3",
+        "hitmark": [11, 18],
+        "hitlag": [0.03, 0],
+        "default": 37,
+        "ca": 33
+    },
+    {
+        "name": "N4",
+        "hitmark": [5, 15, 24, 29],
+        "hitlag": [0, 0, 0.03, 0],
+        "default": 54,
+        "ca": 51
+    },
+    {
+        "name": "N5",
+        "hitmark": 21,
+        "hitlag": 0.09,
+        "default": 80,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 24,
+        "hitlag": 0,
+        "n1": 71,
+        "skill": 73,
+        "burst": 71,
+        "swap": 70
+    },
+    "Skill": {
+        "name": "Cast",
+        "n1": 39,
+        "burst": 39,
+        "dash": 14,
+        "jump": 14,
+        "swap": 38,
+        "cd": 13,
+        "notes": [
+            "Tick 1 hitmark: 126", 
+            "DoT interval: 100f"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [18, 33, 56],
+        "hitlag": [0.03, 0.03, 0.03],
+        "n1": 97,
+        "skill": 97,
+        "dash": 97,
+        "jump": 97,
+        "swap": 96,
+        "cd": 18,
+        "energy": 24,
+        "notes": [
+            "Swing hitmarks: see above",
+            "Pyronado hitmarks (first 3): 56, 125, 201"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

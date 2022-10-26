@@ -1,0 +1,74 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 14,
+        "hitlag": 0,
+        "default": 16,
+        "ca": 28
+    }, 
+    {
+        "name": "N2",
+        "release": 22,
+        "hitlag": 0,
+        "default": 36,
+        "ca": 40
+    },
+    {
+        "name": "N3",
+        "release": 33,
+        "hitlag": 0,
+        "default": 79,
+        "ca": 74
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 90,
+        "hitlag": 0,
+        "n1": 96,
+        "ca": 96,
+        "skill": 96,
+        "burst": 96,
+        "dash": 46,
+        "jump": 47,
+        "swap": 94
+    },
+    "Skill": {
+        "name": "Cast",
+        "n1": 37,
+        "ca": 36,
+        "skill": 37,
+        "burst": 36,
+        "dash": 20,
+        "jump": 20,
+        "swap": 22,
+        "cd": 16,
+        "notes": [
+            "Tick 1 hitmark: 122f",
+            "DoT interval: 2.5s"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 99,
+        "n1": 111,
+        "ca": 113,
+        "skill": 113,
+        "dash": 96,
+        "jump": 96,
+        "swap": 94,
+        "cd": 0,
+        "energy": 2,
+        "notes": [
+            "First Tenko Thunderbolt hitmark: 154f",
+            "DoT interval: 0.4s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

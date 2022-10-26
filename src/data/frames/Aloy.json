@@ -1,0 +1,69 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": [11, 24],
+        "hitlag": [0, 0],
+        "default": 31
+    }, 
+    {
+        "name": "N2",
+        "release": 16,
+        "hitlag": 0,
+        "default": 28
+    },
+    {
+        "name": "N3",
+        "release": 23,
+        "hitlag": 0,
+        "default": 38
+    },
+    {
+        "name": "N4",
+        "release": 30,
+        "hitlag": 0,
+        "default": 61
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 96,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": {
+        "name": "Cast",
+        "release": 20,
+        "n1": 51,
+        "burst": 52,
+        "dash": 53,
+        "jump": 51,
+        "swap": 70,
+        "cd": 19,
+        "notes": "Freeze Bomb hitmark: 24"
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 100,
+        "n1": 103,
+        "skill": 102,
+        "dash": 101,
+        "jump": 101,
+        "swap": 117,
+        "cd": 0,
+        "energy": 2
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

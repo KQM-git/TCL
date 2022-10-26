@@ -36,11 +36,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 130.67%   | 23     | 340.88%/s | 85.67        | 3            |
-| 2-Hit  | 130.19%   | 66     | 237.15%/s | 85.33        | 3            |
-| 3-Hit  | 162.27%   | 134    | 189.46%/s | 106.37       | 3            |
-| 4-Hit  | 158.95%   | 178    | 196.21%/s | 104.19       | 3            |
-| 5-Hit  | 206.03%   | 246    | 192.22%/s | 135.12       | 6            |
+| 1-Hit  | 130.67%   | 41     | 191.22%/s | 85.67        | 3            |
+| 2-Hit  | 130.19%   | 47     | 166.20%/s | 85.33        | 3            |
+| 3-Hit  | 162.27%   | 64     | 152.13%/s | 106.37       | 3            |
+| 4-Hit  | 158.95%   | 46     | 207.33%/s | 104.19       | 3            |
+| 5-Hit  | 206.03%   | 108    | 114.46%/s | 135.12       | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -48,8 +48,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String       | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG | 103.33%   | 35     | 177.14%/s | 60           | 3            |
-| Final DMG    | 187.07%   | 32     | 350.76/s  | 120          | 6            |
+| Spinning DMG | 103.33%   | ?      | ?         | 60           | 3            |
+| Final DMG    | 187.07%   | ?      | ?         | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -67,8 +67,6 @@ import Skill from '@site/src/components/char/Skill'
 
 * C0-C3 Beidou's should use N4 cancels or N5 dash cancels.
 * Beidou's normal attack string concludes with a kick to the sword with her foot. Whether her model makes contact with the claymore depends on the model size of the claymore. We can conclude that it is intended to be a kick to the claymore because a sound will play no matter what model size the claymore.
-* Charged Attack wind up is 71 frames long.
-* All frame counts are done against a Ruin Guard
 
 </TabItem>
 
@@ -82,7 +80,6 @@ import Skill from '@site/src/components/char/Skill'
 | Base DMG \(T9%\)               | 206.72% | 206.72%                          |
 | DMG Bonus on Hit Taken \(T9%\) | -       | 272% \(scaling\)                 |
 | Particles                      | 2       | 2 ~ 4 \(see note\)               |
-| Frames                         | 41      | -                                |
 | GU                             | 2B      | 2B                               |
 | ICD                            | None    | None                             |
 | Snapshot                       | Dynamic | Dynamic                          |
@@ -127,9 +124,6 @@ import Skill from '@site/src/components/char/Skill'
 | Burst DMG \(T9%\) | 206.72%         | 163.2%              |
 | Lightning Bounces | -               | 2                   |
 | DMG Reduction     | 32% \(scaling\) | -                   |
-| Cast Frames       | 45              | -                   |
-| Energy Frame      | 11              | -                   |
-| CD Frame          | 2               | -                   |
 | GU                | 4C              | 1A                  |
 | ICD               | -               | 3 hit / 2.5s        |
 | Snapshot          | Snapshot        | Snapshot            |
@@ -158,6 +152,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Beidou.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

@@ -35,11 +35,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 88.80%    | 14     | 380.57%/s | 37.8         | 3            |
-| 2-Hit  | 83.74%    | 37     | 279.79%/s | 35.1         | 3            |
-| 3-Hit  | 110.76%   | 66     | 257.55%/s | 48.6         | 3            |
-| 4-Hit  | 121.03%   | 124    | 195.64%/s | 54           | 3            |
-| 5-Hit  | 145.52%   | 159    | 207.49%/s | 60.3         | 6            |
+| 1-Hit  | 88.80%    | 28     | 190.29%/s | 37.8         | 3            |
+| 2-Hit  | 83.74%    | 20     | 251.22%/s | 35.1         | 3            |
+| 3-Hit  | 110.76%   | 36     | 184.60%/s | 48.6         | 3            |
+| 4-Hit  | 121.03%   | 52     | 139.65%/s | 54           | 3            |
+| 5-Hit  | 145.52%   | 80     | 109.14%/s | 60.3         | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -47,7 +47,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 297.67%   | 73     | 244.66%/s | 200          | Air, 0, 1050 |
+| CA     | 297.67%   | 56     | 318.93%/s | 200          | Air, 0, 1050 |
 
 </div>
 <div class='talent-columns'>
@@ -76,7 +76,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 496.40%     |
 | Particles         | 2~3 \(1:2\) |
-| Frames            | 46          |
 | GU                | 2U          |
 | ICD               | None        |
 | Snapshot          | Dynamic     |
@@ -112,9 +111,6 @@ import Skill from '@site/src/components/char/Skill'
 | Field Enter/Exit DMG \(T9%\)  | 133.28%            |
 | Burst Healing \(T9%\)         | 427.04% ATK + 3132 |
 | Continuous Healing \(T9%\)    | 42.7% ATK + 313    |
-| Cast Frames                   | 88                 |
-| Energy Frame                  | 46                 |
-| CD Frame                      | 40                 |
 | GU                            | 2U                 |
 | ICD                           | None               |
 | Snapshot                      | Snapshots          |
@@ -144,6 +140,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Jean.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

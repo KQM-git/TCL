@@ -35,10 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 128.61%   | 24     | 321.52%/s | 105          | 3            |
-| 2-Hit  | 115.97%   | 62     | 236.69%/s | 95           | 3            |
-| 3-Hit  | 147.57%   | 124    | 189.75%/s | 121          | 3            |
-| 4-Hit  | 185.97%   | 204    | 170.04%/s | 152          | 6            |
+| 1-Hit  | 128.61%   | 40     | 192.92%/s | 105          | 3            |
+| 2-Hit  | 115.97%   | 46     | 151.27%/s | 95           | 3            |
+| 3-Hit  | 147.57%   | 69     | 128.32%/s | 121          | 3            |
+| 4-Hit  | 185.97%   | 113    | 98.75%/s  | 152          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -46,8 +46,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type         | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG | 103.41%   | 30     | 206.82%/s | 60           | 3            |
-| Final DMG    | 186.99%   | 29     | 386.88%/s | 120          | 6            |
+| Spinning DMG | 103.41%   | ?      | ?         | 60           | 3            |
+| Final DMG    | 186.99%   | ?      | ?         | 120          | 6            |
 | Stamina Cost | 40/s      | -      | -         | -            | -            |
 
 </div>
@@ -65,7 +65,6 @@ import Skill from '@site/src/components/char/Skill'
 **Notes**
 
 * Normal Attack ICD is 3 hits / 2.5s, shared with Charged Attacks.
-* All frame counts are done against Ruin Guards.
 * Charged Attack ICD is 3 hits / 2.5s, shared with Normal Attacks.
 
 </TabItem>
@@ -82,7 +81,6 @@ import Skill from '@site/src/components/char/Skill'
 | Cast GU           | 2B          |
 | Infused Attack GU | 1A          |
 | Particles         | 4 \(-\)     |
-| Frames            | 57          |
 | ICD               | None        |
 | Snapshot          | Snapshot    |
 | Damage Element    | Cryo        |
@@ -111,9 +109,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 242.08% \* 3 |
 | MV/s \(T9%\)      | 322.77%/s    |
 | GU                | 1A per hit   |
-| Cast Frames       | 135          |
-| Energy Frame      | 10           |
-| CD Frame          | 3            |
 | ICD               | None         |
 | Snapshot          | Dynamic      |
 | Damage Element    | Cryo         |
@@ -131,6 +126,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Chongyun.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

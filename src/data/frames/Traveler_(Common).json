@@ -1,0 +1,106 @@
+{
+    "Aether NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 23,
+        "ca": 34
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 32,
+        "ca": 34
+    },
+    {
+        "name": "N3",
+        "hitmark": 16,
+        "hitlag": 0.06,
+        "default": 40,
+        "ca": 44
+    },
+    {
+        "name": "N4",
+        "hitmark": 30,
+        "hitlag": 0.09,
+        "default": 49,
+        "ca": 55
+    },
+    {
+        "name": "N5",
+        "hitmark": 25,
+        "hitlag": 0.12,
+        "default": 81,
+        "ca": "N/A"
+    }],
+    "Lumine NA": [{
+        "name": "N1",
+        "hitmark": 15,
+        "hitlag": 0.03,
+        "default": 30,
+        "ca": 38
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 10,
+        "hitlag": 0.03,
+        "default": 27,
+        "ca": 29
+    },
+    {
+        "name": "N3",
+        "hitmark": 19,
+        "hitlag": 0.09,
+        "default": 35,
+        "ca": 47
+    },
+    {
+        "name": "N4",
+        "hitmark": 23,
+        "hitlag": 0.06,
+        "default": 46,
+        "ca": 53
+    },
+    {
+        "name": "N5",
+        "hitmark": 14,
+        "hitlag": 0.10,
+        "default": 74,
+        "ca": "N/A"
+    }],
+    "Aether CA": [{
+        "name": "CA",
+        "hitmark": [10, 21],
+        "hitlag": [0, 0],
+        "n1": 55,
+        "skill": 37,
+        "burst": 36,
+        "swap": 44
+    }],
+    "Lumine CA": [{
+        "name": "CA",
+        "hitmark": [14, 25],
+        "hitlag": [0, 0],
+        "n1": 58,
+        "skill": 34,
+        "burst": 35,
+        "swap": 21
+    }],
+    "Aether (Other)": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }],
+    "Lumine (Other)": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

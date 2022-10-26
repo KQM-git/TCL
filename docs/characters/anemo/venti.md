@@ -33,14 +33,14 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9%  | Frames    | MV\s      | Poise Damage | Impulse Type |
-| :-------- | :--------- | :-------- | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 37.45% x 2 | 11 + 21   | 214%/s    | 6 x2         | 1 x2         |
-| 2-Hit DMG | 81.53%     | 44        | 213.31%/s | 13.8         | 1            |
-| 3-Hit DMG | 96.22%     | 90        | 168.43%/s | 15.6         | 1            |
-| 4-Hit DMG | 47.87% x 2 | 111 + 123 | 169.95%/s | 7.68 x2      | 1 x2         |
-| 5-Hit DMG | 93.06%     | 140       | 189.19%/s | 15           | 1            |
-| 6-Hit DMG | 130.35%    | 191       | 179.62%/s | 20.4         | 1            |
+| String    | Talent 9%  | Frames | MV\s      | Poise Damage | Impulse Type |
+| :-------- | :--------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 37.45% x 2 | 30     | 149.80%/s | 6 x2         | 1 x2         |
+| 2-Hit DMG | 81.53%     | 38     | 128.73%/s | 13.8         | 1            |
+| 3-Hit DMG | 96.22%     | 33     | 174.95%/s | 15.6         | 1            |
+| 4-Hit DMG | 47.87% x 2 | 31     | 185.30%/s | 7.68 x2      | 1 x2         |
+| 5-Hit DMG | 93.06%     | 22     | 253.80%/s | 15           | 1            |
+| 6-Hit DMG | 130.35%    | 98     | 79.81%/s  | 20.4         | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -48,10 +48,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
-| Aimed Shot    | 80.58%    | 15     | 322.32%/s | -   | 10           | 2 \(Headshot: 5\) |
-| With Recovery | -         | 23     | 210.21%/s | -   | -            | -                 |
-| Fully Charged | 210.8%    | 86     | 147.07%/s | 1A  | 20           | 2 \(Headshot: 5\) |
-| With Recovery | -         | 94     | 134.55%/s | -   | -            | -                 |
+| Aimed Shot    | 80.58%    | 23     | 210.21%/s | -   | 10           | 2 \(Headshot: 5\) |
+| Fully Charged | 210.8%    | 94     | 134.55%/s | 1A  | 20           | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +78,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :------ | :----------- |
 | Skill DMG (T9%) | 469.20% | 646%         |
 | Particles       | 3 \(-\) | 4 \(-\)      |
-| Frames          | 20      | 70           |
 | GU              | 2U      | 2U           |
 | ICD             | None    | 3 hit / 2.5s |
 | Snapshot        | -       | -            |
@@ -108,9 +105,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute       | Burst DoT    | Burst Additional Elemental DMG |
 | :-------------- | :----------- | :----------------------------- |
 | Skill DMG (T9%) | 63.92% \* 20 | 31.96% \* 15\*                 |
-| Cast Frames     | 94           | -                              |
-| Energy Frame    | 90           | -                              |
-| CD Frame        | 83           | -                              |
 | GU              | 1U           | 1A                             |
 | ICD             | 3 hits       | 3 hits                         |
 | Duration        | 8s           | 6.0s                           |
@@ -139,6 +133,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Venti.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

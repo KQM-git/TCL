@@ -1,0 +1,44 @@
+{
+    "Aether Skill": {
+        "name": "Cast",
+        "release": 21,
+        "n1": 57,
+        "burst": 56,
+        "dash": 42,
+        "jump": 42,
+        "swap": 56,
+        "cd": 20
+    },
+    "Lumine Skill": {
+        "name": "Cast",
+        "release": 21,
+        "n1": 57,
+        "burst": 57,
+        "dash": 42,
+        "jump": 42,
+        "swap": 55,
+        "cd": 20
+    },
+    "Aether Burst": {
+        "name": "Cast",
+        "hitmark": 37,
+        "n1": 62,
+        "skill": 63,
+        "dash": 62,
+        "jump": 61,
+        "swap": 60,
+        "cd": 34,
+        "energy": 37
+    },
+    "Lumine Burst": {
+        "name": "Cast",
+        "hitmark": 37,
+        "n1": 61,
+        "skill": 62,
+        "dash": 62,
+        "jump": 61,
+        "swap": 60,
+        "cd": 35,
+        "energy": 36
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": [4, 13],
+        "hitlag": [0, 0.01],
+        "default": 25,
+        "ca": 26
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 14,
+        "hitlag": 0.01,
+        "default": 27,
+        "ca": 32
+    },
+    {
+        "name": "N3",
+        "hitmark": 14,
+        "hitlag": 0.01,
+        "default": 31,
+        "ca": 43
+    },
+    {
+        "name": "N4",
+        "hitmark": [13, 17],
+        "hitlag": [0.02, 0.02],
+        "default": 45,
+        "ca": 48
+    },
+    {
+        "name": "N5",
+        "hitmark": 15,
+        "hitlag": 0.02,
+        "default": 29,
+        "ca": 36
+    },
+    {
+        "name": "N6",
+        "hitmark": 38,
+        "hitlag": 0.04,
+        "default": 86,
+        "ca": "N/A",
+        "notes": "NA in Q have the same frames and hitlag"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 16,
+        "hitlag": 0.02,
+        "n1": 49,
+        "skill": 42,
+        "burst": 40,
+        "dash": 21,
+        "jump": 21,
+        "swap": 47,
+        "notes": [
+            "CA in Q have the same frames",
+            "CA hitlag in Q: 0.04s"
+        ]
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 4,
+        "n1": 24,
+        "burst": 24,
+        "dash": 24,
+        "jump": 35,
+        "swap": 37,
+        "cd": 0
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 81,
+        "skill": 81,
+        "dash": 57,
+        "jump": 58,
+        "swap": 66,
+        "cd": 29,
+        "energy": 35
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    },
+    {
+        "name": "Jump (in Q)",
+        "default": 58
+    },
+    {
+        "name": "Low Plunge (in Q)",
+        "default": 43,
+        "na": 60,
+        "skill": 59
+    },
+    {
+        "name": "High Plunge (in Q)",
+        "default": 46,
+        "na": 61,
+        "skill": 66,
+        "notes": [
+            "After jumping in Q: Low Plunge cancel is 5f, High Plunge cancel is 6f",
+            "Collision hitmark: 38f (for both High and Low Plunge)"
+        ]
+    }]
+}

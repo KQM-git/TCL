@@ -1,0 +1,101 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 39
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 9,
+        "hitlag": 0.03,
+        "default": 23,
+        "ca": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": 13,
+        "hitlag": 0.06,
+        "default": 45,
+        "ca": 54
+    },
+    {
+        "name": "N4",
+        "hitmark": 25,
+        "hitlag": 0.09,
+        "default": 54,
+        "ca": 58
+    },
+    {
+        "name": "N5",
+        "hitmark": 24,
+        "hitlag": 0.12,
+        "default": 72,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [10, 21],
+        "hitlag": [0, 0],
+        "n1": 54,
+        "skill": 40, 
+        "burst": 41,
+        "swap": 44
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 16,
+        "hitlag": 0.09,
+        "n1": 51,
+        "burst": 51,
+        "dash": 31,
+        "jump": 32,
+        "swap": 50,
+        "cd": 14
+    },
+    {
+        "name": "Hold Lv. 1",
+        "hitmark": [45, 57],
+        "hitlag": [0.09, 0.09],
+        "n1": 116,
+        "burst": 97,
+        "dash": 31,
+        "jump": 32,
+        "swap": 95,
+        "cd": 43
+    },
+    {
+        "name": "Hold Lv. 1 (C4)",
+        "hitmark": 94,
+        "hitlag": 0.12,
+        "n1": 119,
+        "burst": 119,
+        "dash": 106,
+        "jump": 107,
+        "swap": 118,
+        "cd": 43
+    },
+    {
+        "name": "Hold Lv. 2",
+        "hitmark": [112, 121, 166],
+        "hitlag": [0.09, 0.09, 0],
+        "n1": 364,
+        "burst": 338,
+        "dash": 230,
+        "jump": 240,
+        "swap": 337,
+        "cd": 110
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 37,
+        "n1": 53,
+        "skill": 52,
+        "dash": 49,
+        "jump": 49,
+        "swap": 51,
+        "cd": 34,
+        "energy": 36
+    }
+}

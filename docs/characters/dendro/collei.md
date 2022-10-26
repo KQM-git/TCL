@@ -30,10 +30,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  |  80.11%   |        |           |  15.21       |  1           |
-| 2-Hit  |  78.37%   |        |           |  14.88       |  1           |
-| 3-Hit  |  99.38%   |        |           |  18.87       |  1           |
-| 4-Hit  |  124.98%  |        |           |  23.73       |  1           |
+| 1-Hit  |  80.11%   | 24     | 200.28%/s |  15.21       |  1           |
+| 2-Hit  |  78.37%   | 25     | 188.09%/s |  14.88       |  1           |
+| 3-Hit  |  99.38%   | 43     | 138.67%/s |  18.87       |  1           |
+| 4-Hit  |  124.98%  | 65     | 115.37%/s |  23.73       |  1           |
 
 </div>
 <div class='talent-columns'>
@@ -41,10 +41,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
 | :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
-| Aimed Shot       |  80.58%   |        |            | -   | 10 \(Headshot: 40\) | 2 \(Headshot: 5\) |
-| With Recovery    | -         |        |            | -   | -                   | -                 |
-| Fully Charged    |  210.8%   |        |            | 1A  | 20 \(Headshot: 80\) | 2 \(Headshot: 5\) |
-| With Recovery    | -         |        |            | -   | -                   | -                 |
+| Aimed Shot       |  80.58%   | ?      | ?          | -   | 10 \(Headshot: 40\) | 2 \(Headshot: 5\) |
+| Fully Charged    |  210.8%   | ?      | ?          | 1A  | 20 \(Headshot: 80\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -69,7 +67,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :------ |
 | DMG \(T9%\)               | 257.04% |
 | Particles                 | 3 \(-\) |
-| Frames                    |         |
 | GU                        | 1A      |
 | ICD                       | None    |
 | Snapshot                  |         |
@@ -96,9 +93,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Explosion       | Leap            |
 | :---------------- | :-------------- | :-------------- |
 | DMG \(T9%\)       | 343.1%          | 73.52%          |
-| Cast Frames       | 69              | -               |
-| Energy Frame      | 8               | -               |
-| CD Frame          | 1               | -               |
 | GU                | 1A              | 1A              |
 | ICD               | 3s              | 3s              |
 | Snapshot          | Snapshot        | Snapshot        |
@@ -118,6 +112,13 @@ import Skill from '@site/src/components/char/Skill'
   
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Collei.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

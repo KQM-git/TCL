@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/hu-tao.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1KR_FMtupIbLEhWRGww2N2UKEJG3hy5mWJIez8S6EZ2w/edit?usp=sharing) - Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Blood Blossom \(BB\) Duration on Charged Attack Reapplication

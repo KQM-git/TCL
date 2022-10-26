@@ -1,0 +1,86 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": [17, 27],
+        "hitlag": 0,
+        "default": 30
+    }, 
+    {
+        "name": "N2",
+        "release": 19,
+        "hitlag": 0,
+        "default": 38
+    },
+    {
+        "name": "N3",
+        "release": 28,
+        "hitlag": 0,
+        "default": 33
+    },
+    {
+        "name": "N4",
+        "release": [15, 28],
+        "hitlag": 0,
+        "default": 31
+    },
+    {
+        "name": "N5",
+        "release": 17,
+        "hitlag": 0,
+        "default": 22
+    },
+    {
+        "name": "N6",
+        "release": 49,
+        "hitlag": 0,
+        "default": 98
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 23
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 94,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 51,
+        "n1": 22,
+        "burst": 22,
+        "dash": 22,
+        "jump": 22,
+        "swap": 98,
+        "cd": 21
+    },
+    {
+        "name": "Hold",
+        "hitmark": 75,
+        "n1": "N/A",
+        "burst": "N/A",
+        "dash": "N/A",
+        "jump": "N/A",
+        "swap": "N/A",
+        "cd": 34,
+        "notes": [
+            "High Plunge cancel from Hold E: 116f",
+            "High Plunge hitmark from Hold E: 174f"
+        ]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 108,
+        "n1": 95,
+        "skill": 96,
+        "dash": 95,
+        "jump": 95,
+        "swap": 94,
+        "cd": 81,
+        "energy": 84
+    }
+}

@@ -34,21 +34,21 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 99.18%    | 13     | 457.75%/s | 10.94        | 2            |
-| 2-Hit  | 88.61%    | 41     | 274.81%/s | 9.77         | 2            |
-| 3-Hit  | 129.22%   | 90     | 211.34%/s | 14.25        | 2            |
+| 1-Hit  | 99.18%    | 26     | 228.88%/s | 10.94        | 2            |
+| 2-Hit  | 88.61%    | 28     | 189.88%/s | 9.77         | 2            |
+| 3-Hit  | 129.22%   | 72     | 107.68%/s | 14.25        | 2            |
 | GU     | 1A        | ~      | ~         | -            | -            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String         | Talent 9%             | Frames | MV/s                             | GU  | Poise Damage | Impulse Type |
-| :------------- | :-------------------- | :----- | :------------------------------- | :-- | :----------- | :----------- |
-| Charged Attack | 152.34% + 26.89%/Seal | 72     | 126.95%/s + 22.41%/s/Seal        | 1A  | 120          | 3            |
-| N1C            | 251.52% + 26.89%/Seal | 98     | 153.99%/s + 16.46%/s \(1 Seal\)  | 1A  | 120          | 3            |
-| N2C            | 340.13% + 26.89%/Seal | 107    | 190.73%/s + 30.16%/s \(2 Seals\) | 1A  | 120          | 4            |
-| N3C            | 469.35% + 26.89%/Seal | 168    | 167.63%/s + 28.81%/s \(3 Seals\) | 1A  | 120          | 5            |
+| String         | Talent 9%             | Frames | MV/s                  | GU  | Poise Damage | Impulse Type |
+| :------------- | :-------------------- | :----- | :-------------------- | :-- | :----------- | :----------- |
+| Charged Attack | 152.34% + 26.89%/Seal | 79     | 115.70%/s             | 1A  | 120          | 3            |
+| N1C            | 251.52% + 26.89%/Seal | 100    | 164.36%/s \(1 Seal\)  | 1A  | 120          | 3            |
+| N2C            | 340.13% + 26.89%/Seal | 95     | 180.49%/s \(2 Seals\) | 1A  | 120          | 4            |
+| N3C            | 469.35% + 26.89%/Seal | 121    | 172.95%/s \(3 Seals\) | 1A  | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +79,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 288.32%  |
 | Particles         | 3 \(-\)  |
-| Frames            | 46       |
 | GU                | 1A       |
 | ICD               | None     |
 | Snapshot          | Snapshot |
@@ -107,9 +106,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)           | 310.08%      |
 | Charged Attack DMG Bonus    | 51.8%        |
 | Scarlet Seal Grant Interval | 1s           |
-| Cast Frames                 | 65           |
-| Energy Frame                | 8            |
-| CD Frame                    | 2            |
 | GU                          | 2B           |
 | ICD                         | 3 hit / 2.5s |
 | Snapshot                    | Snapshot     |
@@ -124,6 +120,13 @@ import Skill from '@site/src/components/char/Skill'
 </div>
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Yanfei.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

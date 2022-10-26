@@ -1,0 +1,101 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 15,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 31
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 28,
+        "ca": 35
+    },
+    {
+        "name": "N3",
+        "hitmark": [8, 23],
+        "hitlag": [0, 0.03],
+        "default": 37,
+        "ca": 38
+    },
+    {
+        "name": "N4",
+        "hitmark": [11, 23],
+        "hitlag": [0, 0.03],
+        "default": 47,
+        "ca": 48
+    },
+    {
+        "name": "N5",
+        "hitmark": 15,
+        "hitlag": 0.04,
+        "default": 74,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 25,
+        "hitlag": 0,
+        "n1": 62,
+        "skill": 62,
+        "burst": 62,
+        "dash": 33,
+        "jump": 33,
+        "swap": 61
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 13,
+        "hitlag": 0.06,
+        "n1": 21,
+        "burst": 70,
+        "dash": 57,
+        "jump": 56,
+        "swap": 57,
+        "cd": 11
+    },
+    {
+        "name": "Hold Lv. 1",
+        "hitmark": 50,
+        "hitlag": 0.09,
+        "n1": 106,
+        "burst": 107,
+        "dash": 95,
+        "jump": 95,
+        "swap": 105,
+        "cd": 48
+    },
+    {
+        "name": "Hold Lv. 2",
+        "hitmark": 92,
+        "hitlag": 0.12,
+        "n1": 152,
+        "burst": 153,
+        "dash": 141,
+        "jump": 141,
+        "swap": 150,
+        "cd": 90
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 35,
+        "n1": 57,
+        "skill": 57,
+        "dash": 42,
+        "jump": 41,
+        "swap": 55,
+        "cd": 0,
+        "energy": 4,
+        "notes": "E cancel is the same for all variants"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

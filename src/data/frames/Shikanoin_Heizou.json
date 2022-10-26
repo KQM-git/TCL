@@ -1,0 +1,135 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 27
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 23,
+        "ca": 27
+    },
+    {
+        "name": "N3",
+        "hitmark": 21,
+        "hitlag": 0.06,
+        "default": 53,
+        "ca": 54
+    },
+    {
+        "name": "N4",
+        "hitmark": [13, 19, 27],
+        "hitlag": [0, 0, 0.09],
+        "default": 45,
+        "ca": 47
+    },
+    {
+        "name": "N5",
+        "hitmark": 31,
+        "hitlag": 0.12,
+        "default": 78,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 24,
+        "hitlag": 0.09,
+        "n1": 48,
+        "skill": 48,
+        "burst": 48,
+        "swap": 56
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 21,
+        "hitlag": 0.09,
+        "n1": 43,
+        "burst": 43,
+        "dash": 37,
+        "jump": 38,
+        "swap": 36,
+        "cd": 19
+    },
+    {
+        "name": "Hold (0 -> 4 stacks)",
+        "hitmark": 198,
+        "hitlag": 0.12,
+        "n1": 227,
+        "burst": 226,
+        "dash": 220,
+        "jump": 220,
+        "swap": 218,
+        "cd": 196
+    },
+    {
+        "name": "Hold (1 -> 4 stacks)",
+        "hitmark": 152,
+        "hitlag": 0.12,
+        "n1": 180,
+        "burst": 180,
+        "dash": 175,
+        "jump": 175,
+        "swap": 173,
+        "cd": 151
+    },
+    {
+        "name": "Hold (2 -> 4 stacks)",
+        "hitmark": 108,
+        "hitlag": 0.12,
+        "n1": 136,
+        "burst": 135,
+        "dash": 130,
+        "jump": 131,
+        "swap": 129,
+        "cd": 106
+    }
+    ,{
+        "name": "Hold (3 -> 4 stacks)",
+        "hitmark": 65,
+        "hitlag": 0.12,
+        "n1": 92,
+        "burst": 93,
+        "dash": 86,
+        "jump": 86,
+        "swap": 85,
+        "cd": 63
+    },
+    {
+        "name": "Hold (4 -> 4 stacks)",
+        "hitmark": 37,
+        "hitlag": 0.12,
+        "n1": 65,
+        "burst": 65,
+        "dash": 61,
+        "jump": 61,
+        "swap": 59,
+        "cd": 35
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [34, 40],
+        "n1": 71,
+        "skill": 71,
+        "dash": 72,
+        "jump": 70,
+        "swap": 69,
+        "cd": 0,
+        "energy": 3,
+        "notes": [
+            "Hitmark 1: Fudou Style Vacuum Slugger",
+            "Hitmark 2: Windmuster Iris"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

@@ -32,21 +32,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9% | Frames      | MV/s    | Poise Damage | Impulse Type |
-| :-------- | :-------- | :---------- | :------ | :----------- | :----------- |
-| 1-Hit DMG | 81.56%    | 11          | 444.87% | 41.3         | 3            |
-| 2-Hit DMG | 80.15%    | 49          | 198%    | 40.58        | 3            |
-| 3-Hit DMG | 49.22% ×2 | \(76 + 89\) | 175.38% | 24.95 x2     | 2 + 3        |
-| 4-Hit DMG | 123.75%   | 114         | 202.05% | 62.66        | 6            |
-| Recovery  | -         | 155         | -       | -            | -            |
+| String    | Talent 9% | Frames      | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :-------- | :---------- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 81.56%    | 28          | 174.77%/s | 41.3         | 3            |
+| 2-Hit DMG | 80.15%    | 37          | 129.97%/s | 40.58        | 3            |
+| 3-Hit DMG | 49.22% ×2 | 31          | 190.53%/s | 24.95 x2     | 2 + 3        |
+| 4-Hit DMG | 123.75%   | 58          | 128.02%/s | 62.66        | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9% | Frames    | MV/s | Poise Damage | Impulse Type |
-| :----------------- | :-------- | :-------- | :--- | :----------- | :----------- |
-| Charged Attack DMG | 207.14%   | \(14+56\) | -    | 120          | 5            |
+| String             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Charged Attack DMG | 207.14%   | 68     | 182.77%/s | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -70,7 +69,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 248.88%     |
 | Particles         | 3~4 \(3:2\) |
-| Frames            | 44          |
 | GU                | 1A          |
 | ICD               | -           |
 | Snapshot          | -           |
@@ -105,9 +103,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Skill         | Fiery Collapse |
 | :---------------- | :------------ | :------------- |
 | Skill DMG \(T9%\) | 149.6%        | 98.6%          |
-| Cast Frames       | 56            | -              |
-| Energy Frame      | 9             |
-| CD Frame          | 1             |
 | GU                | 2B            | 1A             |
 | ICD               | 3 hits / 2.5s | 3 hits / 2.5s  |
 | Snapshot          | Dynamic       | Dynamic        |
@@ -135,6 +130,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Thoma.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

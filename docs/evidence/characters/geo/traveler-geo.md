@@ -10,6 +10,11 @@ search: false
 
 ## Basic Mechanics
 
+* Aether frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/186FpS4ckDENVY4U60xxgevJZj_vdyYWZroIa7P_yDr4/edit?usp=sharing) - Kolibri\#7675
+* Aether frame data \(element\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1I81WBTsNgyBG8Z9eYjHBSVAn-dGk-dkBIoib5Yp4e4M/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1S7cJszsMoQF6ShCvA7hMjiXMuOCoDRwgW1rseP0uC8k/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(element\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1IQWPPH4rVSe9fvy2hpvufS1xi7Ni_jfZ7SL4aSudPuM/edit?usp=sharing) - Kolibri\#7675
+
 ### MC Base ATK Buff
 
 **By:** Clear_Storm\#9388, Khezu\#4363  
@@ -29,7 +34,7 @@ For updated stats and calculation purposes.
 
 ## Attack Mechanics
 
-### Twins CA MVs Comparison
+### \[Deprecated\] Twins CA MVs Comparison
 
 **By:** Fluffy\#5580  
 **Added:** <Version date="2021-04-10" />  

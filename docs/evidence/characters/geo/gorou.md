@@ -12,6 +12,13 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_912910214699819028_923272036728573982_transcript-gorou-basic-mechanics.html)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/15eKpg9ii86ufny24TEZgzWT0xQbzmIfMUCA2fktuaB4/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Deprecated frame data - pai\#3602
+  * NA - [YouTube](https://youtu.be/LX0cAoBaqEM)
+  * CA (Physical) - [YouTube](https://youtu.be/GhIAYWSY-a8)
+  * CA (Elemental) - [YouTube](https://youtu.be/xo5rOjbZ4Cs)
+  * Skill - [Youtube](https://youtu.be/XihbafGI-Ak)
 * Gauges
   * Elemental Skill: [1GU](https://youtu.be/DJ3uSEKgkW4) - Cryo aura 8.25s. Kaeya E applies 1.6B cryo; Gorou E removes 0.5 GU, leaving 1.1B Cryo 1.1B Cryo lasts 8.25s (edited) - Neptunya\#8291
   * Elemental Burst: Initial Hit [1GU](https://youtu.be/qkBwZtagqKo), Crystal Collapse 1GU
@@ -21,19 +28,6 @@ search: false
   * Burst: 1. initial hit and crystal collapse have separate ICD. Crystal Collapse follows normal ICD (2.5s) - [Nass008\#8577](https://youtu.be/oOMcBCHDC-Q)
 * Particles
   * Elemental Skill: Gorou produces 2 geo particles on Elemental Skill cast. (I hope 7 tests is enough, ping pong me if it isn't and/or you get something other than 2 particles. - [Neptunya\#8291](https://youtu.be/QHq1Y_-asIw)
-* Frames - pai#3602
-  * NA - [Youtube](https://youtu.be/LX0cAoBaqEM)
-    * N1: 18
-    * N2: 37
-    * N3: 85
-    * N4: 132
-      \*W ith Recovery: 162
-    * N3 and N4 from the second consecutive attack string can go up to 10-30 frames earlier than the first
-  * Aimed Shot: 23 - [20 tests](https://youtu.be/GhIAYWSY-a8)
-  * Fully Charged Aimed Shot: 86 - [6 tests](https://youtu.be/xo5rOjbZ4Cs)
-  * E - [Youtube](https://youtu.be/XihbafGI-Ak)
-    * Press (5 tests): 46
-    * Hold: (9 total tests): 62-649
 * Unlike most characters, Gorou does not keep one eye closed after ARCC. - [BowTae\#0141](https://youtu.be/_yuZ4lKpdKY)
 
 ## Normal Attack Mechanics

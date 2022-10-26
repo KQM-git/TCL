@@ -1,0 +1,78 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 13,
+        "hitlag": 0,
+        "default": 19
+    }, 
+    {
+        "name": "N2",
+        "release": 14,
+        "hitlag": 0,
+        "default": 27
+    },
+    {
+        "name": "N3",
+        "release": 20,
+        "hitlag": 0,
+        "default": 38
+    },
+    {
+        "name": "N4",
+        "release": 26,
+        "hitlag": 0,
+        "default": 37
+    },
+    {
+        "name": "N5",
+        "release": 21,
+        "hitlag": 0,
+        "default": 28
+    },
+    {
+        "name": "N6",
+        "release": 22,
+        "hitlag": 0,
+        "default": 59
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA Lv. 1",
+        "release": 74,
+        "hitlag": 0,
+        "default": 85
+    },
+    {
+        "name": "CA Lv. 2",
+        "release": 103,
+        "hitlag": 0,
+        "default": 113,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 13,
+        "n1": 28,
+        "burst": 28,
+        "dash": 28,
+        "jump": 28,
+        "swap": 27,
+        "cd": 10
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 148,
+        "n1": 124,
+        "skill": 124,
+        "dash": 124,
+        "jump": 124,
+        "swap": 122,
+        "cd": 0,
+        "energy": 3
+    }
+}

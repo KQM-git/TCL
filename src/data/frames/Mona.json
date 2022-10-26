@@ -1,0 +1,99 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 11,
+        "hitlag": 0,
+        "default": 18,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 14,
+        "hitlag": 0,
+        "default": 23,
+        "ca": 30
+    },
+    {
+        "name": "N3",
+        "hitmark": 26,
+        "hitlag": 0,
+        "default": 39,
+        "ca": 54
+    },
+    {
+        "name": "N4",
+        "hitmark": 27,
+        "hitlag": 0,
+        "default": 67,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 66,
+        "hitlag": 0,
+        "n1": 113,
+        "ca": 105,
+        "skill": 92,
+        "burst": 68,
+        "dash": 72,
+        "jump": 64,
+        "swap": 54,
+        "notes": "Subtract 14f from the hitmark if there's no action prior"
+    },
+    "Skill": [{
+        "name": "Press",
+        "n1": 50,
+        "ca": 46,
+        "burst": 28,
+        "dash": 36,
+        "jump": 27,
+        "swap": 43,
+        "cd": 24
+    },
+    {
+        "name": "Hold",
+        "n1": 80,
+        "ca": 76,
+        "burst": 58,
+        "dash": 66,
+        "jump": 59,
+        "swap": 73,
+        "cd": 24,
+        "notes": [
+            "DoT interval: 1s",
+            "Press E tick 1 hitmark: 85f",
+            "Hold E tick 1 hitmark: 101f"
+        ]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 109,
+        "n1": 121,
+        "ca": 116,
+        "skill": 115,
+        "dash": 115,
+        "jump": 104,
+        "swap": 127,
+        "cd": 0,
+        "energy": 4,
+        "notes": "Bubble start: 114f"
+    },
+    "Other": [{
+        "name": "Alternate Dash",
+        "default": 20,
+        "na": 42,
+        "ca": 36,
+        "skill": 35,
+        "dash": 30,
+        "swap": 24
+    },
+    {
+        "name": "A1",
+        "default": 124,
+        "notes": "A1 phantom spawn: 116f"
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

@@ -1,0 +1,164 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 17,
+        "hitlag": 0,
+        "default": 26
+    }, 
+    {
+        "name": "N2",
+        "release": 8,
+        "hitlag": 0,
+        "default": 27
+    },
+    {
+        "name": "N3",
+        "release": 15,
+        "hitlag": 0,
+        "default": 33
+    },
+    {
+        "name": "N4",
+        "release": 19,
+        "hitlag": 0,
+        "default": 32
+    },
+    {
+        "name": "N5",
+        "release": 11,
+        "hitlag": 0,
+        "default": 33
+    },
+    {
+        "name": "N6",
+        "release": 14,
+        "hitlag": 0,
+        "default": 66
+    }],
+    "NA (in E)": [{
+        "name": "N1 (in E)",
+        "hitmark": 8,
+        "hitlag": 0.03,
+        "default": 16,
+        "ca": 29
+    }, 
+    {
+        "name": "N2 (in E)",
+        "hitmark": 6,
+        "hitlag": 0.03,
+        "default": 17,
+        "ca": 29
+    },
+    {
+        "name": "N3 (in E)",
+        "hitmark": 16,
+        "hitlag": 0.06,
+        "default": 40,
+        "ca": 45
+    },
+    {
+        "name": "N4 (in E)",
+        "hitmark": 7,
+        "hitlag": 0.06,
+        "default": 41,
+        "ca": 45
+    },
+    {
+        "name": "N5 (in E)",
+        "hitmark": 7,
+        "hitlag": 0.06,
+        "default": 30,
+        "ca": 31
+    },
+    {
+        "name": "N6 (in E)",
+        "hitmark": [4, 16],
+        "hitlag": [0.03, 0.12],
+        "default": 82,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 94,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "CA (in E)": {
+        "name": "CA (in E)",
+        "hitmark": [14, 27],
+        "hitlag": [0, 0],
+        "default": 55,
+        "skill": 29,
+        "burst": 29,
+        "dash": 14,
+        "jump": 15,
+        "swap": 52
+    },
+    "Skill": [{
+        "name": "Default",
+        "hitmark": 16,
+        "n1": 19,
+        "burst": 19,
+        "dash": 19,
+        "jump": 21,
+        "swap": 39,
+        "cd": 13
+    },
+    {
+        "name": "After Walk",
+        "hitmark": 3,
+        "n1": 5,
+        "burst": 4,
+        "dash": 5,
+        "jump": "?",
+        "swap": 24,
+        "cd": 0
+    },
+    {
+        "name": "After Dash",
+        "hitmark": 3,
+        "n1": 17,
+        "burst": 17,
+        "dash": 22,
+        "jump": "?",
+        "swap": 24,
+        "cd": 0
+    }],
+    "Burst": [{
+        "name": "Default",
+        "hitmark": 71,
+        "n1": 53,
+        "skill": 55,
+        "dash": 54,
+        "jump": 54,
+        "swap": 52,
+        "cd": 0,
+        "energy": 3
+    },
+    {
+        "name": "In E",
+        "hitmark": 69,
+        "n1": 101,
+        "skill": 102,
+        "dash": 102,
+        "jump": 102,
+        "swap": 100,
+        "cd": 66,
+        "energy": 71
+    }],
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 28
+    }]
+}

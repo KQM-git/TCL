@@ -1,0 +1,92 @@
+{
+    "Aether Skill": [{
+        "name": "Press",
+        "hitmark": 32,
+        "n1": 74,
+        "burst": 76,
+        "dash": 30,
+        "jump": 31,
+        "swap": 66,
+        "cd": 27
+    },
+    {
+        "name": "Hold (3 ticks)",
+        "hitmark": "?",
+        "n1": 98,
+        "burst": 98,
+        "dash": 54,
+        "jump": 54,
+        "swap": 89,
+        "cd": 50
+    },
+    {
+        "name": "Hold (7 ticks)",
+        "hitmark": "?",
+        "n1": 156,
+        "burst": 157,
+        "dash": 112,
+        "jump": 113,
+        "swap": 147,
+        "cd": 109
+    }],
+    "Lumine Skill": [{
+        "name": "Press",
+        "hitmark": 32,
+        "n1": 61,
+        "burst": 62,
+        "dash": 31,
+        "jump": 31,
+        "swap": 60,
+        "cd": 27
+    },
+    {
+        "name": "Hold (3 ticks)",
+        "hitmark": "?",
+        "n1": 83,
+        "burst": 84,
+        "dash": 54,
+        "jump": 55,
+        "swap": 83,
+        "cd": 50
+    },
+    {
+        "name": "Hold (7 ticks)",
+        "hitmark": "?",
+        "n1": 142,
+        "burst": 142,
+        "dash": 113,
+        "jump": 113,
+        "swap": 142,
+        "cd": 109
+    }],
+    "Aether Burst": {
+        "name": "Cast",
+        "n1": 110,
+        "skill": 109,
+        "dash": 96,
+        "jump": 96,
+        "swap": 101,
+        "cd": 0,
+        "energy": 3,
+        "notes": ["Tick 1: 96f", "Total ticks: 9", "DoT interval: 30f"]
+    },
+    "Lumine Burst": {
+        "name": "Cast",
+        "n1": 105,
+        "skill": 104,
+        "dash": 90,
+        "jump": 90,
+        "swap": 95,
+        "cd": 0,
+        "energy": 3,
+        "notes": ["Tick 1: 96f", "Total ticks: 9", "DoT interval: 30f"]
+    },
+    "Aether (Other)": {
+        "name": "A1",
+        "hitmark": 19
+    },
+    "Lumine (Other)": {
+        "name": "A1",
+        "hitmark": 22
+    }
+}

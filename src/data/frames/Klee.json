@@ -1,0 +1,95 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 16,
+        "hitlag": 0,
+        "default": 31,
+        "ca": 23,
+        "skill": 7,
+        "burst": 6,
+        "walk": 34,
+        "dash": 7,
+        "jump": 7,
+        "swap": 17
+    }, 
+    {
+        "name": "N2",
+        "release": 23,
+        "hitlag": 0,
+        "default": 38,
+        "ca": 32,
+        "skill": 2,
+        "burst": 2,
+        "walk": 41,
+        "dash": 2,
+        "jump": 2,
+        "swap": 23
+    },
+    {
+        "name": "N3",
+        "release": 37,
+        "hitlag": 0,
+        "default": 77,
+        "ca": 49,
+        "skill": 38,
+        "burst": 38,
+        "walk": 72,
+        "dash": 38,
+        "jump": 38,
+        "swap": 38
+    }],
+    "CA": {
+        "name": "CA",
+        "release": 76,
+        "hitlag": 0,
+        "n1": 58,
+        "ca": 59,
+        "skill": 59,
+        "burst": 59,
+        "walk": 113,
+        "dash": 37,
+        "jump": 35,
+        "swap": 30
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": [71, 111, 145],
+        "n1": 66,
+        "ca": 69,
+        "skill": 68,
+        "burst": 34,
+        "walk": 75,
+        "dash": 37,
+        "jump": 35,
+        "swap": 74,
+        "cd": 33,
+        "notes": [
+            "Burst cancel at 5f prevents the bomb from releasing but works for stacking",
+            "Mine explosion hitmark: 240f"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 143,
+        "ca": 143,
+        "skill": 143,
+        "dash": 107,
+        "jump": 106,
+        "swap": 104,
+        "cd": 7,
+        "energy": 12,
+        "notes": [
+            "Hitmark 1 of each wave: 186, 294, 401, 503, 610, 718",
+            "Hitmarks 2 & 3 of each wave: 12f after hitmark 1",
+            "Hitmarks 4 & 5 of each wave: 12f after hitmarks 2 & 3"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 29
+    }]
+}

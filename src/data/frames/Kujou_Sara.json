@@ -1,0 +1,88 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 14,
+        "hitlag": 0,
+        "default": 25
+    }, 
+    {
+        "name": "N2",
+        "release": 13,
+        "hitlag": 0,
+        "default": 28
+    },
+    {
+        "name": "N3",
+        "release": 19,
+        "hitlag": 0,
+        "default": 37
+    },
+    {
+        "name": "N4",
+        "release": 19,
+        "hitlag": 0,
+        "default": 38
+    },
+    {
+        "name": "N5",
+        "release": 32,
+        "hitlag": 0,
+        "default": 45
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 96,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": [{
+        "name": "Cast",
+        "hitmark": 149,
+        "n1": 28,
+        "ca": 30,
+        "burst": 32,
+        "dash": 52,
+        "jump": 51,
+        "swap": 50,
+        "cd": 7
+    },
+    {
+        "name": "CA (in E)",
+        "release": 50,
+        "hitlag": 0,
+        "n1": 60,
+        "burst": 32,
+        "dash": 52,
+        "jump": 51,
+        "swap": 50,
+        "notes": ["C2 hitmark: 149f"]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 51,
+        "n1": 78,
+        "ca": 80,
+        "skill": 57,
+        "dash": 58,
+        "jump": 58,
+        "swap": 56,
+        "cd": 47,
+        "energy": 50,
+        "notes": "Stormcluster tick 1: 100f"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

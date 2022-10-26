@@ -10,9 +10,10 @@ search: false
 
 ## Basic Mechanics
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1WPxQ7vf0_dp5g96aqGF0_JZSqjtYHOJC0b89zRS_WrA/edit?usp=sharing) - Kurt\#5846, Kisa\#1111 & Kolibri\#7675 
+* Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Q72fXo7XAF2dhMphwTDmsT2Kag8aVPOYhWwXo8I0l9w/edit?usp=sharing) - Sitri#9504
 * Gauges
   * E (2B), Dash (1A), Infused Normals (1A) - [sexyeboy69#6969](https://youtu.be/LxqjepdKwAU)
-* Ayaka Frames - [Sitri#9504](https://docs.google.com/spreadsheets/d/1Q72fXo7XAF2dhMphwTDmsT2Kag8aVPOYhWwXo8I0l9w/edit?usp=sharing)
 * Ayaka's CA does not share ICD with her NA. - [Steph#3614](https://imgur.com/0sNof3m)
 * Ranges - Greyhound#7836
   * E: [3.5m radius circle](https://www.youtube.com/watch?v=KijBkD0w00I)

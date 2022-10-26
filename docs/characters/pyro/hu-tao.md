@@ -36,27 +36,25 @@ import Skill from '@site/src/components/char/Skill'
 
 | String   | Talent 9%      | Frames  | MV/s      | Poise Damage | Impulse Type |
 | :------- | :------------- | :------ | :-------- | :----------- | :----------- |
-| 1-Hit    | 78.85%         | 13      | 363.92%/s | 35.76        | 3            |
-| 2-Hit    | 81.15%         | 29      | 331.03%/s | 36.88        | 3            |
-| 3-Hit    | 102.68%        | 54      | 291.87%/s | 46.64        | 3            |
-| 4-Hit    | 110.4%         | 90      | 248.72%/s | 50.08        | 3            |
-| 5-Hit    | 55.96% + 59.2% | 120+134 | 218.61%/s | 26.2 x2      | 1 + 4        |
-| 6-Hit    | 144.57%        | 173     | 219.47%/s | 26.2         | 6            |
-| Recovery | N/A            | 238     | 159.53%/s | -            | -            |
+| 1-Hit    | 78.85%         | 19      | 249.00%/s | 35.76        | 3            |
+| 2-Hit    | 81.15%         | 17      | 286.41%/s | 36.88        | 3            |
+| 3-Hit    | 102.68%        | 31      | 198.74%/s | 46.64        | 3            |
+| 4-Hit    | 110.4%         | 35      | 189.26%/s | 50.08        | 3            |
+| 5-Hit    | 55.96% + 59.2% | 42      | 160.69%/s | 26.2 x2      | 1 + 4        |
+| 6-Hit    | 144.57%        | 79      | 109.80%/s | 26.2         | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :------ | :----------- | :----------- |
-| CA     | 228.66%   | -      | -       | 120          | 2            |
-| N1C    | 307.51%   | 65     | 283.86% | -            | -            |
-| N2C    | 388.66%   | 85     | 274.35% | -            | -            |
-| N3C    | 491.34%   | 92     | 320.44% | -            | -            |
-| N4C    | 601.74%   |        |         | -            | -            |
-| N5C    | 716.90%   |        |         | -            | -            |
-| N6C    | 861.47%   |        |         | -            | -            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA     | 228.66%   | 61     | 224.91%/s | 120          | 2            |
+| N1C    | 307.51%   | 86     | 214.54%/s | -            | -            |
+| N2C    | 388.66%   | 82     | 226.69%/s | -            | -            |
+| N3C    | 491.34%   | 89     | 223.38%/s | -            | -            |
+| N4C    | 601.74%   | 98     | 207.59%/s | -            | -            |
+| N5C    | 716.90%   | 115    | 179.38%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -93,7 +91,6 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | ATK Increase \(T9%\) | 5.96% Max HP     |
 | Activation Cost      | 30% Current HP   |
 | Particles            | 2~3 \(3:2\)      |
-| Frames               | 42               |
 | Infusion Element     | Pyro             |
 | Duration             | 9s               |
 | Cooldown             | 16s              |
@@ -142,9 +139,6 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 | Low HP Skill DMG (T9%)          | 587.93%       |
 | Skill HP Regeneration (T9%)     | 9.71% Max HP  |
 | Low HP Skill Regeneration (T9%) | 12.95% Max HP |
-| Cast Frames                     | 130           |
-| Energy Frame                    | 73            |
-| CD Frame                        | 64            |
 | GU                              | 2B            |
 | ICD                             | None          |
 | Snapshot                        | On Cast       |
@@ -163,6 +157,13 @@ From [JinJinx's Master Mess Sheet.](https://docs.google.com/spreadsheets/d/1tXwN
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Hu_Tao.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

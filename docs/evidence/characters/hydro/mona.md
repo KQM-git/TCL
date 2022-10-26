@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/hydro/mona.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1fCdmkNZ6vXmqiOmk6s0Q8AQFzOQt_UjltspbMyDrx4A/edit?usp=sharing) - Kolibri\#7675
+
 ## Attack Mechanics
 
 ### What Attack String Combo Outputs the Highest DPS for Mona?

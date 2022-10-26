@@ -1,0 +1,91 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 26,
+        "hitlag": 0,
+        "default": 30,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 18,
+        "hitlag": 0,
+        "default": 20,
+        "ca": 24
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": 0,
+        "default": 34,
+        "ca": 40
+    },
+    {
+        "name": "N4",
+        "hitmark": 31,
+        "hitlag": 0,
+        "default": 57,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 71,
+        "hitlag": 0,
+        "n1": 91,
+        "ca": 103,
+        "skill": 94,
+        "burst": 93,
+        "dash": 70,
+        "jump": 70,
+        "swap": 89,
+        "notes": "If there is no prior action subtract 14 frames from the hitmark"
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 22,
+        "n1": 38,
+        "ca": 38,
+        "skill": "?",
+        "burst": 39,
+        "dash": 35,
+        "jump": 20,
+        "swap": 20,
+        "cd": 17
+    },
+    {
+        "name": "Hold",
+        "hitmark": 117,
+        "n1": 141,
+        "ca": 139,
+        "skill": 138,
+        "burst": 138,
+        "dash": 116,
+        "jump": 117,
+        "swap": 117,
+        "cd": 114
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 56,
+        "n1": 85,
+        "ca": 87,
+        "skill": 87,
+        "dash": 88,
+        "jump": 57,
+        "swap": 56,
+        "cd": 53,
+        "energy": 62,
+        "notes": [
+            "Energy drain is with ~80ms ping",
+            "Tick 1 hitmark: 119f"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 33
+    }]
+}

@@ -32,23 +32,22 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%       | Frames   | MV/s    | Poise Damage | Impulse Type |
-| :------- | :-------------- | :------- | :------ | :----------- | :----------- |
-| 1-Hit    | 79.47%          | 13       | 366.78% | 46.08        | 3            |
-| 2-Hit    | 73.94%          | 44       | 209.20% | 43.44        | 3            |
-| 3-Hit    | 97.96%          | 68       | 221.80% | 56.32        | 3            |
-| 4-Hit    | 48.35% + 48.35% | 97 + 103 | 202.76% | 27.88 x2     | 2 + 4        |
-| 5-Hit    | 120.55%         | 135      | 208.28% | 73.6         | 6            |
-| Recovery | -               | 167      | -       | -            | -            |
+| String   | Talent 9%       | Frames   | MV/s      | Poise Damage | Impulse Type |
+| :------- | :-------------- | :------- | :-------- | :----------- | :----------- |
+| 1-Hit    | 79.47%          | 29       | 164.42%/s | 46.08        | 3            |
+| 2-Hit    | 73.94%          | 23       | 192.89%/s | 43.44        | 3            |
+| 3-Hit    | 97.96%          | 38       | 154.67%/s | 56.32        | 3            |
+| 4-Hit    | 48.35% + 48.35% | 30       | 193.40%/s | 27.88 x2     | 2 + 4        |
+| 5-Hit    | 120.55%         | 59       | 122.59%/s | 73.6         | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9% | Frames  | MV/s    | Poise Damage | Impulse Type |
-| :----- | :-------- | :------ | :------ | :----------- | :----------- |
-| CA     | 203.33%   | -       | -       | 120          | 5            |
-| N1C    | 282.80%   | 20 + 54 | 314.22% | -            | -            |
+| String | Talent 9% | Frames  | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :------ | :-------- | :----------- | :----------- |
+| CA     | 203.33%   | 52      | 234.61%/s | 120          | 5            |
+| N1C    | 282.80%   | 80      | 212.10%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -74,7 +73,6 @@ import Skill from '@site/src/components/char/Skill'
 | DMG Bonus         | 77.62% ATK | 77.62% ATK |
 | Trigger Quota     | 5          | 7          |
 | Particles         | 3 \(-\)    | 4 \(-\)    |
-| Frames            | 29         | 44         |
 | GU                | 1U         | 2U         |
 | ICD               | None       | None       |
 | Snapshot          | -          | -          |
@@ -117,9 +115,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)    | 171.36%     | 56.3% \* 12 |
 | RES Decrease \(T9%\) | 14%         | -           |
 | Tick Rate            | -           | 2s          |
-| Cast Frames          | 75          | -           |
-| Energy Frame         | 11          | -           |
-| CD Frame             | 1           | -           |
 | GU                   | 1U          | 1U          |
 | ICD                  | -           | Standard    |
 | Snapshot             | Dynamic     | Snapshot    |
@@ -145,6 +140,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Shenhe.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

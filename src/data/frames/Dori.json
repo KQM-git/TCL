@@ -1,0 +1,59 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 27,
+        "hitlag": 0.1,
+        "default": 54
+    }, 
+    {
+        "name": "N2",
+        "hitmark": [19, 33],
+        "hitlag": [0, 0],
+        "default": 46
+    },
+    {
+        "name": "N3",
+        "hitmark": 60,
+        "hitlag": 0.08,
+        "default": 117
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": [26, 72, 82],
+        "n1": 44,
+        "burst": 44,
+        "dash": 43,
+        "jump": 44,
+        "swap": 43,
+        "cd": 16,
+        "notes": [
+            "Hitmark 1: Troubleshooter Shot",
+            "Hitmarks 2 & 3: After-Sales Service Round"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 57,
+        "skill": 57,
+        "dash": 58,
+        "jump": 57,
+        "swap": 56,
+        "cd": 1,
+        "energy": 4,
+        "notes": [
+            "Jinni start: 11f",
+            "Jinni duration: 12.5s",
+            "Tick 1 hitmark: 28f",
+            "DoT interval: 0.4s",
+            "Healing/Energy interval: 2s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 29
+    }]
+}

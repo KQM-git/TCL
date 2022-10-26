@@ -33,18 +33,18 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
-| :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| Normal Attack | 47.6% x 2 | 25     | 228.48%/s | 1U  | 45           | 2            |
+| String        | Talent 9% | GU  | Poise Damage | Impulse Type |
+| :------------ | :-------- | :-- | :----------- | :----------- |
+| Normal Attack | 47.6% x 2 | 1U  | 45           | 2            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
-| :----------------- | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| Charged Attack DMG | 295.94%   | 50     | 355.13%/s | 1U  | 45           | 2            |
-| Star Jade DMG      | 84.32%    | 50     | 101.18%/s | 1U  | 45           | 2            |
+| String             | Talent 9% | GU  | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :-- | :----------- | :----------- |
+| Charged Attack DMG | 295.94%   | 1U  | 45           | 2            |
+| Star Jade DMG      | 84.32%    | 1U  | 45           | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -81,7 +81,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- |
 | Skill DMG \(T9%\) | 391.68%     |
 | Particles         | 3~4 \(3:2\) |
-| Frames            | 34          |
 | GU                | 1U          |
 | ICD               | None        |
 | Snapshot          | Snapshot    |
@@ -113,9 +112,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute           | Burst        |
 | :------------------ | :----------- |
 | DMG per Gem \(T9%\) | 147.83%      |
-| Cast Frames         | 101          |
-| Energy Frame        | 8            |
-| CD Frame            | 2            |
 | GU                  | 1U           |
 | ICD                 | 3 hit / 2.5s |
 | Snapshot            | Snapshot     |
@@ -136,6 +132,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Ningguang.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

@@ -8,12 +8,14 @@ search: false
 
 <Card item={require('../../../characters/pyro/yoimiya.md')} />
 
-## Basic Yoimiya Mechanics
+## Basic Mechanics
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_867272710715736064_878384023569825852_transcript-yoimiya-basic-mechanics.html)
 
 ## Attack Attributes
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1DYYiGSNeFekVt3eQQC_MujkLCd_8rgPIIlpPNvwHKTA/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 * Gauges - [xf3#3123](https://imgur.com/a/cmgaCZm)
   * Level 1 Charged Shot: 1A
   * Level 2 Charged Shot: 1A

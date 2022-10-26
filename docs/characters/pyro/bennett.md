@@ -35,20 +35,19 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 81.84%    | 12     | 409.20%/s | 38.7         | 3            |
-| 2-Hit  | 78.53%    | 32     | 300.69%/s | 37.8         | 3            |
-| 3-Hit  | 100.33%   | 63     | 248.29%/s | 47.7         | 3            |
-| 4-Hit  | 109.65%   | 118    | 188.31%/s | 52.2         | 3            |
-| 5-Hit  | 132.09%   | 167    | 180.52%/s | 62.1         | 6            |
+| 1-Hit  | 81.84%    | 26     | 188.86%/s | 38.7         | 3            |
+| 2-Hit  | 78.53%    | 23     | 204.86%/s | 37.8         | 3            |
+| 3-Hit  | 100.33%   | 45     | 133.77%/s | 47.7         | 3            |
+| 4-Hit  | 109.65%   | 54     | 121.83%/s | 52.2         | 3            |
+| 5-Hit  | 132.09%   | 72     | 110.08%/s | 62.1         | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 102.7% + 111.55% | -      | -         | 2 + 6        |
-| N1C    | 296.09%          | 100    | 177.65%/s | -            | -            |
+| String | Talent 9%        | Frames | MV/s       | Poise Damage | Impulse Type |
+| :----- | :--------------- | :----- | :--------- | :----------- | :----------- |
+| CA     | 102.7% + 111.55% | 54     | 238.06%/s  | 45 x2        | 2 + 6        |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +78,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 233.92%     | 142.8% + 156.4%        | 149.6% + 163.2% + 224.4%                                      |
 | MV/s \(T9%\)      | 269.91%/s   | 160.29%/s              | 163.61%/s                                                     |
 | Particles         | 2~3 \(3:1\) | 3 \(-\)                | 3 \(-\)                                                       |
-| Frames            | 52          | 112                    | 197                                                           |
 | GU                | 2B          | 2x 1A                  | 3x 1A                                                         |
 | ICD               | None        | None                   | None                                                          |
 | Snapshot          | Dynamic     | Dynamic                | Dynamic                                                       |
@@ -108,9 +106,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 395.76%  |
-| Cast Frames       | 51       |
-| Energy Frame      | 42       |
-| CD Frame          | 36       |
 | GU                | 2B       |
 | ICD               | None     |
 | Snapshot          | Snapshot |
@@ -145,6 +140,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Bennett.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

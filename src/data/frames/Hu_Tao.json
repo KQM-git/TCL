@@ -1,0 +1,104 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.01,
+        "default": 19,
+        "ca": 28
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 9,
+        "hitlag": 0.01,
+        "default": 17,
+        "ca": 21
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": 0.01,
+        "default": 31,
+        "ca": 28
+    },
+    {
+        "name": "N4",
+        "hitmark": 22,
+        "hitlag": 0.02,
+        "default": 35,
+        "ca": 37
+    },
+    {
+        "name": "N5",
+        "hitmark": [16, 28],
+        "hitlag": [0.02, 0.02],
+        "default": 43,
+        "ca": 54
+    },
+    {
+        "name": "N6",
+        "hitmark": 23,
+        "hitlag": 0.04,
+        "default": 79,
+        "ca": "N/A",
+        "notes": "NA in E have the same frames and hitlag"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": 23,
+        "hitlag": 0,
+        "n1": 61,
+        "skill": 57,
+        "burst": 58,
+        "dash": 30,
+        "jump": 28,
+        "swap": 66
+    },
+    {
+        "name": "CA (in E)",
+        "hitmark": 3,
+        "hitlag": 0,
+        "n1": 46,
+        "skill": "?",
+        "burst": 37,
+        "dash": "See notes",
+        "jump": "See notes",
+        "swap": 46,
+        "notes": [
+            "Dash and jump cancels in E are as follow:",
+                "N1C -> Dash: 1f; N1C -> Jump: 2f",
+                "N2C -> Dash: 4f; N2C -> Jump: 5f",
+                "N3C -> Dash: 2f; N3C -> Jump: 2f",
+                "N4C -> Dash: 3f; N4C -> Jump: 3f",
+                "N5C -> Dash: 3f; N5C -> Jump: 3f"
+        ]
+    }],
+    "Skill": {
+        "name": "Cast",
+        "n1": 28,
+        "burst": 28,
+        "dash": 38,
+        "jump": 39,
+        "swap": 52,
+        "cd": 14
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 66,
+        "n1": 96,
+        "skill": 97,
+        "dash": 96,
+        "jump": 97,
+        "swap": 95,
+        "cd": 62,
+        "energy": 66,
+        "notes": "N1 cancel is the same for default and in E"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

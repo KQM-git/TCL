@@ -1,0 +1,71 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 12,
+        "hitlag": 0,
+        "default": 26,
+        "ca": 21
+    }, 
+    {
+        "name": "N2",
+        "release": 16,
+        "hitlag": 0,
+        "default": 28,
+        "ca": 16
+    },
+    {
+        "name": "N3",
+        "release": 37,
+        "hitlag": 0,
+        "default": 72,
+        "ca": 42
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 63,
+        "hitlag": 0,
+        "n1": 79,
+        "ca": 78,
+        "skill": 63,
+        "burst": 63,
+        "dash": 51,
+        "jump": 49,
+        "swap": 59
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 32,
+        "n1": 46,
+        "burst": 35,
+        "dash": 29,
+        "jump": 34,
+        "swap": 44,
+        "cd": 28
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 24,
+        "n1": 62,
+        "ca": 51,
+        "skill": 59,
+        "dash": 37,
+        "jump": 37,
+        "swap": 50,
+        "cd": 0,
+        "energy": 5,
+        "notes": "Q has 0s hitlag but is poise-extendable"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    },
+    {
+        "name": "A4",
+        "hitmark": 76,
+        "notes": "A4 has 0s hitlag but is poise-extendable"
+    }]
+}

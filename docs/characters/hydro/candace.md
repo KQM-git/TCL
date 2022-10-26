@@ -30,10 +30,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 111.71%         |        |           | 60.08        | 3            |
-| 2-Hit  | 112.34%         |        |           | 59.76        | 3            |
-| 3-Hit  | 65.2% \+ 79.69% |        |           | 38.08 ×2     | 2 \+ 3       |
-| 4-Hit  | 174.43%         |        |           | 94.80        | 5            |
+| 1-Hit  | 111.71%         | 26     | 257.79%/s | 60.08        | 3            |
+| 2-Hit  | 112.34%         | 39     | 172.83%/s | 59.76        | 3            |
+| 3-Hit  | 65.2% \+ 79.69% | 54     | 160.99%/s | 38.08 ×2     | 2 \+ 3       |
+| 4-Hit  | 174.43%         | 76     | 137.71%/s | 94.80        | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -41,7 +41,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 228.15%          |        |           | 120          | 5            |
+| CA     | 228.15%          | 57     | 240.16%/s | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -67,7 +67,6 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)               | 20.4% Max HP         | 32.37% Max HP        |
 | Shield DMG Absorption     | 20.4% \+ 2349 Max HP | 20.4% \+ 2349 Max HP |
 | Particles                 | 2 \(-\)              | 3 \(-\)              |
-| Frames                    |                      |                      |
 | GU                        | 1A                   | 1A                   |
 | ICD                       | None                 | None                 |
 | Snapshot                  | Dynamic              | Dynamic              |
@@ -91,9 +90,6 @@ import Skill from '@site/src/components/char/Skill'
 | DMG \(T9%\)       | 11.24% Max HP | 11.24% Max HP |
 | DMG Bonus         | 20%           | -             |
 | Instances         | -             | 3             |
-| Cast Frames       | 50            | -             |
-| Energy Frame      | 7             | -             |
-| CD Frame          | 1             | -             |
 | GU                | 1A            | 1A            |
 | ICD               | None          | None          |
 | Snapshot          | Dynamic       | Dynamic       |
@@ -109,6 +105,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Candace.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

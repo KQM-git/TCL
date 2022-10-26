@@ -12,6 +12,10 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/yelan-basic-mechanics)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1k4f8EkgneV_588EpJlDavx_0zyFi5ZiWd0HdUV6wx38/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Deprecated frame data:
+  * NA, E - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
 * Gauges - [Video](https://youtu.be/kVB-pt8txps) - CC\#5588
   * Breakthrough Barb: 1A
   * E: 1A
@@ -22,25 +26,6 @@ search: false
   * Exquisite Throws: ~2s/3-hit. - [Video](https://youtu.be/7JunyuLUQLo) - CC\#5588
 * Snapshotting:
   * Q: dynamic - [Video](https://imgur.com/qp5sTlL) - Nass008\#8577
-* Frames:
-  * NA - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
-    * N1: 14
-    * N2: 29
-    * N3: 54
-    * N4-1: 88
-    * N4-2: 102
-    * With recovery: 142
-  * CA - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
-    * Physical CA: 15 \(25 with recovery\)
-    * Elemental CA: 86 \(96 with recovery\)
-    * Breakthrough Barb: 32 \(42 with recovery\)
-  * E [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
-    * Press E: 40
-    * Hold E: 42-257
-  * Q - [Google Sheets](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ/edit?usp=sharing) - Jxdx\#0732
-    * Q Cast: 91
-    * Q Energy: 10 \(at 64~67ms ping\)
-    * Q CD: 1
 
 ## Attack Mechanics
 

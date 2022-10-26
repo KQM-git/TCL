@@ -30,9 +30,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 165.74%         |        |           | 95.22        | 3            |
-| 2-Hit  | 75.46 \+ 79.22% |        |           | 46.5175 ×2   | 3 ×2         |
-| 3-Hit  | 235.89%         |        |           | 127.42       | 5            |
+| 1-Hit  | 165.74%         | 54     | 184.16%/s | 95.22        | 3            |
+| 2-Hit  | 75.46 \+ 79.22% | 46     | 201.76%/s | 46.5175 ×2   | 3 ×2         |
+| 3-Hit  | 235.89%         | 117    | 120.97%/s | 127.42       | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -40,8 +40,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String       | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG | 114.91%   |        |           | 60           | 2            |
-| Final DMG    | 207.77%   |        |           | 120          | 5            |
+| Spinning DMG | 114.91%   | ?      | ?         | 60           | 2            |
+| Final DMG    | 207.77%   | ?      | ?         | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -66,7 +66,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :----------- | :------------------------ |
 | DMG \(T9%\)               | 250.38%      | 53.65                     |
 | Particles                 | 2 \(-\)      | -                         |
-| Frames                    |              | -                         |
 | GU                        | 1A           | 1A                        |
 | ICD                       | 3 hit / 2.5s | 3 hit / 2.5s              |
 | Snapshot                  |              |                           |
@@ -89,9 +88,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------------- | :------------------- |
 | Connector DMG \(T9%\) | 27%                  |
 | Healing \(T9%\)       | 11.34% Max HP + 1305 |
-| Cast Frames           | 62                   |
-| Energy Frame          | 6                    |
-| CD Frame              | 2                    |
 | Connector GU          | 1A                   |
 | Self GU               | 1A                   |
 | ICD                   | 3s                   |
@@ -108,6 +104,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Dori.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

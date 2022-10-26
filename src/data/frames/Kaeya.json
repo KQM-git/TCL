@@ -1,0 +1,77 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 14,
+        "hitlag": 0.03,
+        "default": 27,
+        "ca": 36
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 9,
+        "hitlag": 0.03,
+        "default": 27,
+        "ca": 31
+    },
+    {
+        "name": "N3",
+        "hitmark": 14,
+        "hitlag": 0.06,
+        "default": 47,
+        "ca": 55
+    },
+    {
+        "name": "N4",
+        "hitmark": 23,
+        "hitlag": 0.06,
+        "default": 46,
+        "ca": 54
+    },
+    {
+        "name": "N5",
+        "hitmark": 30,
+        "hitlag": 0.10,
+        "default": 74,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [16, 16],
+        "hitlag": [0, 0],
+        "n1": 55,
+        "skill": 37,
+        "burst": 36,
+        "dash": 25,
+        "jump": 24,
+        "swap": 34
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 28,
+        "n1": 53,
+        "burst": 52,
+        "dash": 25,
+        "jump": 26,
+        "swap": 49,
+        "cd": 25
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 53,
+        "n1": 77,
+        "skill": 78,
+        "dash": 62,
+        "jump": 61,
+        "swap": 77,
+        "cd": 48,
+        "energy": 51
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

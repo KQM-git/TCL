@@ -32,13 +32,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%             | Frames                | MV/s      | Poise Damage   | Impulse Type |
-| :----- | :-------------------- | :-------------------- | :-------- | :------------- | :----------- |
-| 1-Hit  | 77.26%                | 12                    | 386.30%/s | 16             | 3            |
-| 2-Hit  | 77.42%                | 38                    | 244.23%/s | 19.2           | 3            |
-| 3-Hit  | 47.87% x2 \(95.74%\)  | 60 + 72               | 208.68%/s | 19.2 + 20      | 2 + 3        |
-| 4-Hit  | 25.91% x4 \(103.64%\) | 106 + 118 + 129 + 141 | 150.66%/s | 19.2 x3 + 12.8 | 2 x2 + 3 x2  |
-| 5-Hit  | 130.51%               | 167                   | 174.10%/s | 71.2           | 6            |
+| String | Talent 9%             | Frames | MV/s      | Poise Damage   | Impulse Type |
+| :----- | :-------------------- | :----- | :-------- | :------------- | :----------- |
+| 1-Hit  | 77.26%                | 26     | 178.29%/s | 16             | 3            |
+| 2-Hit  | 77.42%                | 22     | 211.15%/s | 19.2           | 3            |
+| 3-Hit  | 47.87% x2 \(95.74%\)  | 37     | 155.25%/s | 19.2 + 20      | 2 + 3        |
+| 4-Hit  | 25.91% x4 \(103.64%\) | 54     | 115.16%/s | 19.2 x3 + 12.8 | 2 x2 + 3 x2  |
+| 5-Hit  | 130.51%               | 80     | 97.88%/s  | 71.2           | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -46,8 +46,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 223.57%   | -      | -         | 120          | 5            |
-| N1C    | 300.83%   | 90     | 200.55%/s | -            | -            |
+| CA     | 223.57%   | 71     | 188.93%/s | 120          | 5            |
+| N1C    | 300.83%   | 96     | 188.02%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -61,10 +61,6 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-**Notes**
-
-* All frame counts are done against Ruin Guards.
-
 </TabItem>
 
 <TabItem value='e' label='Skill'>
@@ -76,7 +72,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------- |
 | Skill DMG \(T9%\) | 189.18%   |
 | Particles         | 1 per hit |
-| Frames            | 18        |
 | GU                | 1A        |
 | ICD               | None      |
 | Snapshot          | Snapshot  |
@@ -105,9 +100,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | 1-Hit Swing  | 2-Hit Swing  | 3-Hit Swing  | Pyronado |
 | :---------------- | :----------- | :----------- | :----------- | :------- |
 | Skill DMG \(T9%\) | 122.4%       | 149.6%       | 186.32%      | 190.4%   |
-| Cast Frames       | 99           | -            | -            | -        |
-| Energy Frame      | 29           | -            | -            | -        |
-| CD Frame          | 20           | -            | -            | -        |
 | GU                | 1A           | 1A           | 1A           | 1A       |
 | ICD               | 3 hit / 2.5s | 3 hit / 2.5s | 3 hit / 2.5s | None     |
 | Snapshot          | Dynamic      | Dynamic      | Snapshot     | Snapshot |
@@ -128,6 +120,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Xiangling.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

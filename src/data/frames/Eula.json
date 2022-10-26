@@ -1,0 +1,70 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 30,
+        "hitlag": 0.09,
+        "default": 44
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 19,
+        "hitlag": 0.12,
+        "default": 48 
+    },
+    {
+        "name": "N3",
+        "hitmark": [25, 42],
+        "hitlag": [0, 0.09],
+        "default": 65
+    },
+    {
+        "name": "N4",
+        "hitmark": 17,
+        "hitlag": 0.09,
+        "default": 54
+    },
+    {
+        "name": "N5",
+        "hitmark": [29, 56],
+        "hitlag": [0, 0.12],
+        "default": 116
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 20,
+        "hitlag": 0.09,
+        "n1": 41,
+        "burst": 41,
+        "walk": 58,
+        "dash": 39,
+        "jump": 40,
+        "swap": 39,
+        "cd": 16
+    },
+    {
+        "name": "Hold",
+        "hitmark": 49,
+        "hitlag": 0.12,
+        "n1": 77,
+        "burst": 77,
+        "walk": 37,
+        "dash": 75,
+        "jump": 76,
+        "swap": 100,
+        "cd": 46,
+        "notes": ["Icewhirl Brand hitmarks: 49, 79", "A1 hitmark: 107f", "Swap is with ~120ms ping"]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 100,
+        "n1": 122,
+        "skill": 123,
+        "walk": 117,
+        "dash": 122,
+        "jump": 122,
+        "swap": 121,
+        "cd": 97,
+        "energy": 107,
+        "notes": "Energy drain and swap are with ~120ms ping"
+    }
+}

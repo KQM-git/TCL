@@ -12,6 +12,7 @@ search: false
 
 ### Basic Attributes
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1ayeS2Yp32dbdVR-xqSyIeSk7CUDuIFSO6A8XrRCRNgY/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * The Raiden Shogun is unable to cook. - [2ri#0945](https://imgur.com/a/OSfIIXH)
 * Raiden's A4 passive bonuses only show on stat page if she's in an active party. -[2ri#0945](https://imgur.com/a/iVYesXI)
 * Raiden can dragonstrike without movement speed buffs on her single hit attacks, both in normal and burst state, though this might be dependent on the hitlag: - BowTae#0141

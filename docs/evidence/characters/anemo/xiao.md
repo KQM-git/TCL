@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/anemo/xiao.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1WHJy9UjCQY0AO32yluJMhX_ecGO1KGb6SjbOZt9VJDg/edit?usp=sharing) - Kolibri\#7675
+
 ## Attack Mechanics
 
 ### N1JCP Low/High Plunge Threshold

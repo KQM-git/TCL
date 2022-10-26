@@ -14,6 +14,7 @@ search: false
 
 ### Attack Attributes
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1vLH6ZiAhb7G-f5ecYy-sPLoCdouA5krMixtgh9ITX2Q/edit?usp=sharing) - Kolibri\#7675
 * Gauges
   * Windwheel roll: 1GU Anemo
 * Energy Generation
@@ -21,7 +22,7 @@ search: false
   * Windwheel Roll generates 1 particle per proc with a 3s ICD for particle generation. - Nass008#8577
     * [Part 1](https://youtu.be/QF9skUTnJmY)
     * [Part 2](https://youtu.be/vrk5D-6fCME)
-    * [Frame Counts](https://imgur.com/PKGxrTT)
+    * [Deprecated frame data](https://imgur.com/PKGxrTT)
   * Sayu can do a hold E into an instant kick for 3 particles - [DeFault#1802](https://youtu.be/rlztgVXikw4)
   * Sayu's particle generation timer on roll does not reset after E is finished. - [DeFault#1802](https://youtu.be/H15YvXdoPB4)
 * Blunt?

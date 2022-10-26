@@ -1,0 +1,80 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 14,
+        "hitlag": 0,
+        "default": 26
+    }, 
+    {
+        "name": "N2",
+        "release": 10,
+        "hitlag": 0,
+        "default": 22
+    },
+    {
+        "name": "N3",
+        "release": 27,
+        "hitlag": 0,
+        "default": 37
+    },
+    {
+        "name": "N4",
+        "release": 26,
+        "hitlag": 0,
+        "default": 34
+    },
+    {
+        "name": "N5",
+        "release": 26,
+        "hitlag": 0,
+        "default": 60
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 96,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": {
+        "name": "Press",
+        "hitmark": 484,
+        "n1": 32,
+        "skill": 33,
+        "burst": 32,
+        "dash": 8,
+        "jump": 8,
+        "swap": 23,
+        "cd": 5,
+        "notes": "Baron Bunny landing: 46f"
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 111,
+        "skill": 111,
+        "walk": 62,
+        "dash": 57,
+        "jump": 58,
+        "swap": 60,
+        "cd": 56,
+        "energy": 59,
+        "notes": [
+            "Tick 1: 72f",
+            "DoT interval: 0.4s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

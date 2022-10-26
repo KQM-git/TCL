@@ -37,12 +37,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-hit         | 66.36%    | 16     | 248.85%/s | 12.6         | 1            |
-| 2-Hit         | 61.62%    | 37     | 207.54%/s | 11.7         | 1            |
-| 3-Hit         | 83.74%    | 67     | 189.6%/s  | 15.9         | 1            |
-| 4-Hit         | 79%       | 101    | 172.7%/s  | 15           | 1            |
-| 5-Hit         | 98.75%    | 152    | 153.74%/s | 18.75        | 1            |
-| With Recovery | 389.47%   | 190    | 122.99%/s | -            | -            |
+| 1-hit         | 66.36%    | 30     | 132.72%/s | 12.6         | 1            |
+| 2-Hit         | 61.62%    | 21     | 176.06%/s | 11.7         | 1            |
+| 3-Hit         | 83.74%    | 44     | 114.19%/s | 15.9         | 1            |
+| 4-Hit         | 79%       | 21     | 225.71%/s | 15           | 1            |
+| 5-Hit         | 98.75%    | 73     | 81.16%/s  | 18.75        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -50,12 +49,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type             | Talent 9% | Frames | MV/s      | GU  | Poise Damage              | Impulse Type              |
 | :--------------- | :-------- | :----- | :-------- | :-- | :------------------------ | :------------------------ |
-| Aimed Shot       | 80.58%    | 15     | 322.32%/s | -   | 10 \(Headshot: 30\)       | 2                         |
-| With Recovery    | -         | 23     | 210.21%/s | -   | -                         | -                         |
-| Fully Charged    | 210.8%    | 86     | 147.07%/s | 1A  | 20 \(Headshot: 60\)       | 5                         |
-| With Recovery    | -         | 94     | 134.55%/s | -   | -                         | -                         |
-| C4 Fully Charged | 210.8%    | 50     | 252.96%/s | 1A  | <!--- not on the sheet--> | <!--- not on the sheet--> |
-| With Recovery    | -         | 58     | 218.07%/s | -   | -                         | -                         |
+| Aimed Shot       | 80.58%    | 23     | 210.21%/s | -   | 10 \(Headshot: 30\)       | 2                         |
+| Fully Charged    | 210.8%    | 94     | 134.55%/s | 1A  | 20 \(Headshot: 60\)       | 5                         |
+| C4 Fully Charged | 210.8%    | 58     | 218.07%/s | 1A  | <!--- not on the sheet--> | <!--- not on the sheet--> |
 
 </div>
 <div class='talent-columns'>
@@ -86,7 +82,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------ | :------------------------ |
 | Skill DMG \(T9%\) | 71.26% x 2                | 71.26% x 5                |
 | Particles         | 0~1 \(1:4\) check per paw | 0~1 \(1:4\) check per paw |
-| Frames            | 15                        | 24                        |
 | GU                | 1A                        | 1A x 2                    |
 | ICD               | 3 hit / 2.5s              | 3 hit / 2.5s              |
 | Snapshot          | Snapshot                  | Snapshot                  |
@@ -124,9 +119,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst |
 | :---------------- | :---- |
 | Skill DMG \(T9%\) | 136%  |
-| Cast Frames       | 49    |
-| Energy Frame      | 49    |
-| CD Frame          | 43    |
 | GU                | 1A    |
 | CD                | 20s   |
 | Energy Cost       | 80    |
@@ -157,6 +149,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Diona.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

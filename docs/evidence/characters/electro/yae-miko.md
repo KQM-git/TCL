@@ -12,6 +12,8 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949044550100484136_transcript-yae-miko-basic-mechanics.html)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1G8_pp_NFtM1wteo_xRZaG-lTcS3NZ1vADVmjFFp_SOk/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1829DWWTF7atMB_QM5eaYWyXK4OHvaxkD9TKvrnNA298/edit?usp=sharing) - pai\#3602
 * ICDs:
   * NA: 3-hit/2.5s - [Video](https://youtu.be/zPJ2trNFn3M) - pai\#3602
   * CA: None - [Video](https://imgur.com/a/8gVu8uf) - Ieah.\#2212
@@ -22,21 +24,6 @@ search: false
 * Snapshotting:
   * E: Dynamic - [Video](https://youtu.be/mCj_j_VGHIs) - Luno\#1337
   * Q: Dynamic - [Video](https://clips.twitch.tv/SplendidScrumptiousQueleaPeanutButterJellyTime-NbpgSpv-oqOBIgIa) - Neptunya\#8291
-* Frames - [Google Sheets](https://docs.google.com/spreadsheets/d/1829DWWTF7atMB_QM5eaYWyXK4OHvaxkD9TKvrnNA298/edit?usp=sharing) - pai\#3602
-  * NA
-    * N1: 22
-    * N2: 46
-    * N3: 90
-    * With recovery: 127
-  * CA
-    * CA: 87
-    * With recovery: 106
-  * E
-    * Swap: 21
-    * Action: 34
-  * Q
-    * Swap: 94
-    * Action: 111
 
 ## Attack Mechanics
 

@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/xinyan.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Wz7gtnavp5pzNjSFidi0EFluZ4E8CoaogvzOXSEF3-E/edit?usp=sharing) - Kolibri\#7675
+
 ## Xinyan's Burst Procs Sac GS with C2
 
 **By:** Neptunya\#8291

@@ -34,11 +34,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String    | Talent 9%       | Frames  | MV/s      | Poise Damage | Impulse Type |
 | :-------- | :-------------- | :------ | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 35.52% + 39.96% | 18 + 30 | 150.96%/s | 7.65 x2      | 1 x2         |
-| 2-Hit DMG | 72.52%          | 48      | 185%/s    | 14.7         | 1            |
-| 3-Hit DMG | 88.8%           | 85      | 167.15%/s | 18           | 1            |
-| 4-Hit DMG | 110.41%         | 128     | 162.75%/s | 22.38        | 1            |
-| Recovery  | -               | -       | -         | -            | -            |
+| 1-Hit DMG | 35.52% + 39.96% | 31      | 146.09%/s | 7.65 x2      | 1 x2         |
+| 2-Hit DMG | 72.52%          | 28      | 155.40%/s | 14.7         | 1            |
+| 3-Hit DMG | 88.8%           | 38      | 140.21%/s | 18           | 1            |
+| 4-Hit DMG | 110.41%         | 61      | 108.60%/s | 22.38        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -46,10 +45,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
-| Aimed Shot    | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| With Recovery | -         | 25     | 193.392%/s | -   | -                   | -            |
-| Fully Charged | 210.8%    | 86     | 147.07%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
-| With Recovery | -         | 96     | 131.75%/s  | -   | -                   | -            |
+| Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -118,9 +115,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst    |
 | :---------------- | :------- |
 | Skill DMG \(T9%\) | 610.64%  |
-| Cast Frames       | 118      |
-| Energy Frame      | 8        |
-| CD Frame          | 2        |
 | GU                | 2B       |
 | ICD               | -        |
 | Snapshot          | Snapshot |
@@ -138,6 +132,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Aloy.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

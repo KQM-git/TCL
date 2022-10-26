@@ -8,8 +8,9 @@ search: false
 
 <Card item={require('../../../characters/cryo/rosaria.md')} />
 
-## Day 1 Findings
+## Basic Mechanics
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1buBVBvlgfNcRA09XA3BLm-oA7hpCVRYkGt_7kPBYJu0/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Rosaria's E is 1A cryo on both hits and has [no ICD](https://imgur.com/vpy8JVR)
 * Rosaria's Q applies 1A cryo on every damage tick with [no ICD](https://imgur.com/jwQ4MTn)
 * Rosaria's crit bonus from her A1 is included in her [A4 crit sharing](https://imgur.com/Gvmc6pN)

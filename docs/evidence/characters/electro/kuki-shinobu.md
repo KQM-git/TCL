@@ -12,6 +12,7 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/shinobu-basic-mechanics)
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1cXejpod69F6HReq6jztxEvlpVzSGKssz5NNHIzqY4QY/edit?usp=sharing) - Kolibri\#7675
 * ICDs:
   * E and Q: 3-hit/2.5s - [Video](https://www.youtube.com/watch?v=ztZgTo3ugUw) - Akane\#0926
 * Gauges:

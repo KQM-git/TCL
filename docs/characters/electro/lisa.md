@@ -35,11 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 67.32%    | 25     | 161.57%/s | 1A  | 6.75         | 1            |
-| 2-Hit         | 61.06%    | 46     | 167.45%/s | 1A  | 6            | 1            |
-| 3-Hit         | 72.76%    | 70     | 172.41%/s | 1A  | 7.35         | 1            |
-| 4-Hit         | 93.43%    | 114    | 155.04%/s | 1A  | 8.7          | 1            |
-| With Recovery | 294.57%   | 143    | 123.6%/s  | 1A  | -            | -            |
+| 1-Hit         | 67.32%    | 30     | 134.64%/s | 1A  | 6.75         | 1            |
+| 2-Hit         | 61.06%    | 20     | 183.18%/s | 1A  | 6            | 1            |
+| 3-Hit         | 72.76%    | 34     | 128.40%/s | 1A  | 7.35         | 1            |
+| 4-Hit         | 93.43%    | 57     | 98.35%/s  | 1A  | 8.7          | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -47,7 +46,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | ICD  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :--- | :----------- | :----------- |
-| Charged Attack | 301.1%    | 95     | 190.17%/s | 1A  | 0.5s | 15           | 3            |
+| Charged Attack | 301.1%    | 91     | 198.53%/s | 1A  | 0.5s | 15           | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -76,7 +75,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Tap                                    | Hold \(0 / 1 / 2 / 3 stacks\)                |
 | :---------------- | :------------------------------------- | :------------------------------------------- |
 | Skill DMG \(T9%\) | 136%                                   | 544% / 625.6% / 720.8% / 828.24%             |
-| Frames            | 21                                     | 116                                          |
 | MV/s \(T9%\)      | 388.57%/s                              | 281.38%/s / 323.59%/s / 372.83%/s / 428.4%/s |
 | GU                | 1A                                     | 2B                                           |
 | ICD               | 3 hits / 2.5s <br/> \(Shared with NA\) | None                                         |
@@ -116,9 +114,6 @@ import Skill from '@site/src/components/char/Skill'
 | Summon DMG            | 10%                          |
 | Discharge DMG \(T9%\) | 62.15% \* 29                 |
 | Tick Rate             | 0.5s                         |
-| Cast Frames           | 57                           |
-| Energy Frame          | 64                           |
-| CD Frame              | 55                           |
 | MV/s                  | 102.4%/s                     |
 | GU                    | 1A                           |
 | ICD                   | 3 hits / 2.5s                |
@@ -152,6 +147,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Lisa.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

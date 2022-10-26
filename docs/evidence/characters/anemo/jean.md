@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/anemo/jean.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1KQB8VOEyaCsRa3QulF-gAq3a1CxsqiauTNYuK2_paMY/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Attack Mechanics
 
 ### Jean CA Visual Effect

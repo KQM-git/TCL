@@ -1,0 +1,78 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "default": 20,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 11,
+        "hitlag": 0.03,
+        "default": 28,
+        "ca": 27
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": 0.06,
+        "default": 40,
+        "ca": 49
+    },
+    {
+        "name": "N4",
+        "hitmark": 17,
+        "hitlag": 0.09,
+        "default": 44,
+        "ca": 46
+    },
+    {
+        "name": "N5",
+        "hitmark": 27,
+        "hitlag": 0.12,
+        "default": 74,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name":"CA",
+        "hitmark": [20, 20],
+        "hitlag": [0, 0],
+        "n1": 56,
+        "skill": 34,
+        "burst": 34,
+        "dash": 21,
+        "jump": 20,
+        "swap": 33
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 25,
+        "n1": 32,
+        "burst": 33,
+        "dash": 28,
+        "jump": 28,
+        "swap": 31,
+        "cd": 23
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [75, 145],
+        "n1": 94,
+        "skill": 95,
+        "dash": 94,
+        "jump": 95,
+        "swap": 93,
+        "cd": 74,
+        "energy": 77,
+        "notes": ["Hitmark 1: initial hit", "Hitmark 2: Fatal Blossom"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

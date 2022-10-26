@@ -1,0 +1,74 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 17,
+        "hitlag": 0,
+        "default": 21
+    }, 
+    {
+        "name": "N2",
+        "release": 12,
+        "hitlag": 0,
+        "default": 26
+    },
+    {
+        "name": "N3",
+        "release": 27,
+        "hitlag": 0,
+        "default": 43
+    },
+    {
+        "name": "N4",
+        "release": 31,
+        "hitlag": 0,
+        "default": 55
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 94,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 34,
+        "n1": 47,
+        "burst": 47,
+        "dash": 33,
+        "jump": 33,
+        "swap": 46,
+        "cd": 21
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 31,
+        "n1": 53,
+        "skill": 56,
+        "dash": 42,
+        "jump": 43,
+        "swap": 55,
+        "cd": 0,
+        "energy": 7,
+        "notes": [
+            "Tick 1: 119f",
+            "Buff tick 1: 0.3s after damage tick 1",
+            "A1 and C6 activation: 31f",
+            "A1 and C6 duration: 9.1s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

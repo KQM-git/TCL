@@ -10,6 +10,9 @@ search: false
 
 ## Attack Mechanics
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1TDAItxWT_p76Z84EMpk2oIAN2etTWR0DiubllnWBnbc/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ### Aimed Shot weak-point spam MV/s
 
 **By:** Zenkai\#9872

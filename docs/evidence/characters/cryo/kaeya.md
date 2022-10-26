@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/cryo/kaeya.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/11f_FxKhXFpL4EHSfFHPPjhXJvVOTi-FP_R6cqaZ9dwo/edit?usp=sharing) - Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Kaeya E Energy Trials

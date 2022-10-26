@@ -30,9 +30,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :--------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 92.4%      |        |           | ?            | ?            |
-| 2-Hit  | 83.5%      |        |           | ?            | ?            |
-| 3-Hit  | 129.3%     |        |           | ?            | ?            |
+| 1-Hit  | 92.4%      | 26     | 213.3%/s  | 52.64        | 3            |
+| 2-Hit  | 83.5%      | 33     | 151.78%/s | 47.55        | 3            |
+| 3-Hit  | 129.3%     | 66     | 117.51%/s | 73.60        | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -40,7 +40,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 92.3% + 100.0%   |        |           | ?            | ?            |
+| CA     | 92.3% + 100.0%   | 42     | 274.69%/s | 60 ×2        | 2 + 6        |
 
 </div>
 <div class='talent-columns'>
@@ -48,9 +48,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | Damage Type     | Talent 9% | Poise Damage | Impulse Type |
 | :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      | 117.46%   | ?            | ?            |
-| Low Plunge DMG  | 234.86%   | ?            | ?            |
-| High Plunge DMG | 293.36%   | ?            | ?            |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
 
 </div>
 
@@ -74,9 +74,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------ | :------------- |
 | DMG \(T9%\)       | 18.4% Max HP  | 22.5% Max HP   |
 | Instances         | -             | ?              |
-| Cast Frames       | ?             | -              |
-| Energy Frame      | ?             | -              |
-| CD Frame          | ?             | -              |
 | GU                | ?             | ?              |
 | ICD               | ?             | ?              |
 | Snapshot          | ?             | ?              |
@@ -92,6 +89,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Nilou.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

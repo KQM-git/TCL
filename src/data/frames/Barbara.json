@@ -1,0 +1,85 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 6,
+        "hitlag": 0,
+        "default": 15,
+        "ca": 18,
+        "walk": 23,
+        "notes": "Subtract 14f from N1 hitmark if N4 is prior"
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 11,
+        "hitlag": 0,
+        "default": 21,
+        "ca": 24,
+        "walk": 28
+    },
+    {
+        "name": "N3",
+        "hitmark": 12,
+        "hitlag": 0,
+        "default": 22,
+        "ca": 28,
+        "walk": 30
+    },
+    {
+        "name": "N4",
+        "hitmark": 32,
+        "hitlag": 0,
+        "default": 60,
+        "ca": "N/A",
+        "walk": 57
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 55,
+        "hitlag": 0,
+        "n1": 89,
+        "skill": 88,
+        "burst": 87,
+        "dash": 56,
+        "jump": 56,
+        "swap": 58
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 42,
+        "n1": 54,
+        "ca": 54,
+        "burst": 55,
+        "walk": 54,
+        "dash": 4,
+        "jump": 5,
+        "swap": 57,
+        "cd": 3,
+        "notes": [
+            "Self-wet: 3f",
+            "Healing: 6f",
+            "Tick 1 hitmark: 36f",
+            "DoT interval: 1.5s",
+            "DoT hitlag: 0.05s"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 142,
+        "ca": 139,
+        "skill": 140,
+        "dash": 161,
+        "jump": 162,
+        "swap": 198,
+        "cd": 1,
+        "energy": 6,
+        "notes": "Healing: 77f"
+    },
+    "Other": {
+        "name": "Dash",
+        "default": 23,
+        "na": 21,
+        "ca": 20,
+        "skill": 2,
+        "burst": 1
+    }
+}

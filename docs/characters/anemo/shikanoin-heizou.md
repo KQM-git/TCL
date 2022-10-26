@@ -28,23 +28,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%                | Frames | MV/s | Poise Damage          | Impulse Type |
-| :------- | :----------------------- | :----- | :--- | :-------------------- | :----------- |
-| 1-Hit    | 63.71%                   | -      | -    | 42.16                 | 3            |
-| 2-Hit    | 62.65%                   | -      | -    | 41.46                 | 3            |
-| 3-Hit    | 86.8%                    | -      | -    | 57.44                 | 3            |
-| 4-Hit    | 25.13% + 27.64% + 32.67% | -      | -    | 16.63 + 18.29 + 21.62 | 3            |
-| 5-Hit    | 104.46%                  | -      | -    | 69.13                 | 5            |
-| Recovery | -                        | -      | -    | -                     | -            |
+| String   | Talent 9%                | Frames | MV/s      | Poise Damage          | Impulse Type |
+| :------- | :----------------------- | :----- | :-------- | :-------------------- | :----------- |
+| 1-Hit    | 63.71%                   | 26     | 147.02%/s | 42.16                 | 3            |
+| 2-Hit    | 62.65%                   | 23     | 163.43%/s | 41.46                 | 3            |
+| 3-Hit    | 86.8%                    | 53     | 98.26%/s  | 57.44                 | 3            |
+| 4-Hit    | 25.13% + 27.64% + 32.67% | 45     | 113.92%/s | 16.63 + 18.29 + 21.62 | 3            |
+| 5-Hit    | 104.46%                  | 78     | 80.35%/s  | 69.13                 | 5            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String   | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :------- | :-------- | :----- | :--- | :----------- | :----------- |
-| N1C      | 124.1%    | -      | -    | 120          | 5            |
-| Recovery | -         | -      | -    | -            | -            |
+| String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CA       | 124.1%    | 48     | 155.13%/s | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -76,7 +74,6 @@ import Skill from '@site/src/components/char/Skill'
 | Declension DMG Bonus \(T9%\) | 96.7%/stack                                                                                  |
 | Conviction DMG Bonus         | 193.39%                                                                                      |
 | Particles                    | 0-1 Stack: 2 \(-\) <br/> 2-3 Stacks: 2~3 \(1:1\) <br/> 4 Stacks: 3 \(-\)                     |
-| Frames                       | -                                                                                            |
 | GU                           | 2U                                                                                           |
 | ICD                          | None                                                                                         |
 | Snapshot                     | -                                                                                            |
@@ -104,9 +101,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Fudou Style Vacuum Slugger | Windmuster Iris  |
 | :------------- | :------------------------- | :--------------- |
 | DMG \(T9%\)    | 534.97%                    | 36.48%           |
-| Cast Frames    | 76                         | -                |
-| Energy Frame   | 8                          | -                |
-| CD Frame       | 1                          | -                |
 | GU             | 1U                         | 1A               |
 | ICD            | None                       | None             |
 | Snapshot       | Snapshot                   | Snapshot         |
@@ -126,6 +120,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Shikanoin_Heizou.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

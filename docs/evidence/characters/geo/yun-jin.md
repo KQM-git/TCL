@@ -8,6 +8,15 @@
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459453580759110_930768121306963968_transcript-yunjin-basic-mechanics.html)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1rDQZ8TJd6JAzD3C6pg_JZrgkYr-LIp36mmXE8XVMj4s/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data - pai\#3602
+  * NA - [Video](https://youtu.be/YMw3rq7lclQ)
+  * CA - [Video](https://youtu.be/MWKSj_VSfGY)
+  * Skill -
+    * Press - [Video](https://youtu.be/UaDlo3OSj6U)
+    * Charge Level 1- [Video](https://youtu.be/FGVpilxpIvc)
+    * Charge Level 2 - [Video](https://www.youtube.com/watch?v=oEEVdUYkirA) - Steno\#0119
+  * Burst - [Video](https://youtu.be/CpZPt3S3tPU)
 * Gauges
   * Tap E: 2U - [Video](https://youtu.be/L4mzYn4ucRI) - Maes\#6425
   * Charge Level 1: 2U - [Video](https://youtu.be/O-12CGs2loY) - Maes\#6425
@@ -15,22 +24,6 @@
   * Burst: 2U - [Video](https://youtu.be/f_FVqV4lekY) - Maes\#6425
 * ICDs
   * NA: Standard - [Bobrokrot\#0111](https://youtu.be/vA1n8zIiNDE)
-* Frames - pai\#3602
-  * NA - [Video](https://youtu.be/YMw3rq7lclQ)
-    * N1: 15
-    * N2: 38
-    * N3: 61 + 75
-    * N4: 101 + 113
-    * N5: 157
-    * With recovery: 214
-  * CA - [Video](https://youtu.be/MWKSj_VSfGY)
-    * N1C: 13 + 57
-    * With recovery: 89
-  * Skill -
-    * Press: 59 - [Video](https://youtu.be/UaDlo3OSj6U)
-    * Charge Level 1: 109 - [Video](https://youtu.be/FGVpilxpIvc)
-    * Charge Level 2: 147 - [Video](https://www.youtube.com/watch?v=oEEVdUYkirA) - Steno\#0119
-  * Burst: 55 - [Video](https://youtu.be/CpZPt3S3tPU)
 
 ## Normal Attack Mechanics
 

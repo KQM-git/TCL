@@ -34,12 +34,12 @@ import Skill from '@site/src/components/char/Skill'
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 67.5%     | 12     | 337.5%/s  | 38.43        | 3            |
-| 2-Hit  | 67.5%     | 30     | 270%/s    | 38.43        | 3            |
-| 3-Hit  | 87.18%    | 59     | 225.95%/s | 49.68        | 3            |
-| 4-Hit  | 91.4%     | 98     | 191.99%/s | 52.11        | 3            |
-| 5-Hit  | 114.04%   | 152    | 168.8%/s  | 64.98        | 6            |
+| :----- | :-------- | :----- |:--------- | :----------- | :----------- |
+| 1-Hit  | 67.5%     | 20     | 202.50%/s | 38.43        | 3            |
+| 2-Hit  | 67.5%     | 28     | 144.64%/s | 38.43        | 3            |
+| 3-Hit  | 87.18%    | 40     | 130.77%/s | 49.68        | 3            |
+| 4-Hit  | 91.4%     | 44     | 124.64%/s | 52.11        | 3            |
+| 5-Hit  | 114.04%   | 74     | 92.46%/s  | 64.98        | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -47,8 +47,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------- | :------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack | 86.9% + 110.6% | -      | -         | 60 x2        | 2 + 6        |
-| N1C            | 265%           | 54     | 294.44%/s | -            | -            |
+| Charged Attack | 86.9% + 110.6% | 56     | 211.61%/s | 60 x2        | 2 + 6        |
 
 </div>
 <div class='talent-columns'>
@@ -73,7 +72,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------- | :------------ | :---------------- |
 | Talent \(T9%\) | 221.68%       | 227.12% DEF       |
 | Particles      | 0             | 0~1 \(1:2\)       |
-| Frames         | 32            | -                 |
 | GU             | 1U            | 1U                |
 | ICD            | None          | 3 hit / 2.5s      |
 | Snapshot       | Snapshot      | Snapshot          |
@@ -103,9 +101,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Burst Cast                            | Fatal Blossom      |
 | :------------- | :------------------------------------ | :----------------- |
 | Talent \(T9%\) | 624.24%                               | 122.4% per Blossom |
-| Cast Frames    | 96                                    | -                  |
-| Energy Frame   | 80                                    | -                  |
-| CD Frame       | 75                                    | -                  |
 | GU             | 1U                                    | 1U                 |
 | ICD            | None                                  | 3 hit / 2.5s       |
 | Snapshot       | Snapshot                              | Snapshot           |
@@ -126,6 +121,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Albedo.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

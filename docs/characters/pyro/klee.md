@@ -35,9 +35,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :----------- | :----------- |
-| 1-Hit  | 122.67%   | 32     | 230.00%/s    | 1A  | 65           | 3            |
-| 2-Hit  | 106.08%   | 76     | 180.59%/s    | 1A  | 65           | 3            |
-| 3-Hit  | 152.86%   | 151    | 151.63%/s    | 1A  | 130          | 5            |
+| 1-Hit  | 122.67%   | 31     | 237.43%/s    | 1A  | 65           | 3            |
+| 2-Hit  | 106.08%   | 38     | 167.49%/s    | 1A  | 65           | 3            |
+| 3-Hit  | 152.86%   | 77     | 119.11%/s    | 1A  | 130          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -45,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | Motion Value | GU  | ICD  | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :----------- | :-- | :--- | :----------- | :----------- |
-| CA     | 267.51%   | 50     | 321.01%/s    | 1A  | 0.5s | 180          | 8            |
+| CA     | 267.51%   | 58     | 276.73%/s    | 1A  | 0.5s | 180          | 8            |
 
 </div>
 <div class='talent-columns'>
@@ -76,7 +76,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------------------------- | :-------- |
 | Skill DMG \(T9%\) | 161.84%                          | 55.76%    |
 | Particles         | 4 \(-\)                          | -         |
-| Frames            | 67                               | -         |
 | GU                | 1A \(1st & 2nd\)<br />2B \(3rd\) | 1A        |
 | ICD               | 3 hits / 2.5s                    | Note      |
 | Snapshot          | Snapshots                        | Snapshots |
@@ -108,9 +107,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 72.49%         |
 | Hits              | 22.8 (average) |
-| Cast Frames       | 100            |
-| Energy Frame      | 15             |
-| CD Frame          | 10             |
 | GU                | 1A             |
 | ICD               | 3 hits / 2.5s  |
 | Snapshot          | Snapshots      |
@@ -133,6 +129,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Klee.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

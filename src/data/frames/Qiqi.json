@@ -1,0 +1,79 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 11,
+        "hitlag": 0.03,
+        "default": 20,
+        "ca": 27
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 10,
+        "hitlag": 0.03,
+        "default": 27,
+        "ca": 28
+    },
+    {
+        "name": "N3",
+        "hitmark": [9, 20],
+        "hitlag": [0.03, 0.03],
+        "default": 44,
+        "ca": 44
+    },
+    {
+        "name": "N4",
+        "hitmark": [8, 18],
+        "hitlag": [0.03, 0.03],
+        "default": 39,
+        "ca": 37
+    },
+    {
+        "name": "N5",
+        "hitmark": 16,
+        "hitlag": 0.12,
+        "default": 65,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [15, 29],
+        "hitlag": [0, 0],
+        "n1": 76,
+        "skill": 67,
+        "burst": 67,
+        "dash": 31,
+        "jump": 30,
+        "swap": 26
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 32,
+        "hitlag": 0.05,
+        "n1": 57,
+        "burst": 58,
+        "dash": 6,
+        "jump": 5,
+        "swap": 57,
+        "cd": 3,
+        "notes": ["Tick 1 hitmark: 57f", "Tick 1 hitlag: 0.05s"]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 82,
+        "n1": 111,
+        "skill": 112,
+        "dash": 112,
+        "jump": 112,
+        "swap": 110,
+        "cd": 0,
+        "energy": 6
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

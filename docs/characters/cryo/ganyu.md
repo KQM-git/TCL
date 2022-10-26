@@ -32,28 +32,24 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :------ | :----------- | :----------- |
-| 1-hit  | 58.3%     | 18     | 194.33% | 11.07        | 1            |
-| 2-Hit  | 65.41%    | 43     | 172.62% | 12.42        | 1            |
-| 3-Hit  | 83.58%    | 73     | 170.38% | 15.87        | 1            |
-| 4-Hit  | 83.58%    | 117    | 149.16% | 15.87        | 1            |
-| 5-Hit  | 88.64%    | 153    | 148.83% | 16.83        | 1            |
-| 6-Hit  | 105.86%   | 190    | 153.27% | 20.1         | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-hit  | 58.3%     | 19     | 184.11%/s | 11.07        | 1            |
+| 2-Hit  | 65.41%    | 27     | 145.36%/s | 12.42        | 1            |
+| 3-Hit  | 83.58%    | 38     | 131.97%/s | 15.87        | 1            |
+| 4-Hit  | 83.58%    | 37     | 135.54%/s | 15.87        | 1            |
+| 5-Hit  | 88.64%    | 28     | 189.94%/s | 16.83        | 1            |
+| 6-Hit  | 105.86%   | 59     | 107.65%/s | 20.1         | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
-| :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
-| Aimed Shot       | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2                 |
-| With Recovery    | -         | 25     | 193.392%/s | -   | -                   | -                 |
-| Charge Level 1   | 210.8%    | 74     | 170.92%    | 1A  | 20 \(Headshot: 60\) | 5                 |
-| With Recovery    | -         | 85     | 148.8%/s   | -   | -                   |
-| Frostflake Arrow | 217.6%    | 103    | 126.76%    | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| Frostflake Bloom | 369.92%   | 103    | 215.49%    | 1A  | 40                  | 1                 |
-| With Recovery    | -         | 113    | 311.96%/s  | -   | -                   |
+| Type                     | Talent 9% | Frames | MV/s      | GU  | Poise Damage             | Impulse Type          |
+| :----------------------- | :-------- | :----- | :-------- | :-- | :----------------------- | :-------------------- |
+| Aimed Shot               | 80.58%    | 25     | 193.39%/s | -   | 10 \(Headshot: 30\)      | 2                     |
+| Charge Level 1           | 210.8%    | 85     | 148.80%/s | 1A  | 20 \(Headshot: 60\)      | 5                     |
+| Frostflake Arrow + Bloom | 217.6%    | 113    | 311.96%/s | 1A  | 20 \(Headshot: 60\) + 40 | 2 \(Headshot: 5\) + 1 |
 
 </div>
 <div class='talent-columns'>
@@ -90,7 +86,6 @@ import Skill from '@site/src/components/char/Skill'
 | Inherited HP                   | 204% max HP                |
 | Cast Particles                 | 2                          |
 | Expiration/Destroyed Particles | 2                          |
-| Frames                         | 34                         |
 | GU                             | 1A                         |
 | ICD                            | None                       |
 | Snapshot                       | Snapshot                   |
@@ -120,9 +115,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute              | Ice Shard       |
 | :--------------------- | :-------------- |
 | Skill DMG \(T9%\)      | 119.46% \* 50   |
-| Cast Frames            | 102             |
-| Energy Frame           | 8               |
-| CD Frame               | 1               |
 | GU                     | 1A              |
 | ICD                    | 3 hit / 2.5s    |
 | Snapshot               | Snapshot        |
@@ -150,6 +142,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Ganyu.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

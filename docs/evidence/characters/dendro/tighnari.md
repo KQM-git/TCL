@@ -14,6 +14,10 @@ search: false
 
 ### Attack Attributes
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1rECAO_yOwB4sDJ70z75pJr6fQsQjx5kgsOWtylcAGLk/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data:
+  * E-reduced CA level 2 - 30 \(38 with recovery\) - BowTae#0141(count), [flamescion#9370](https://www.youtube.com/watch?v=sG-hT06nSG0)
+  * Q - 116 - [Zakharov#5645](https://youtu.be/jZNdJEjbJUQ)
 * Gauges
   * CA Lv.1, CA Lv. 2 Wreath Arrow, CA Lv. 2 Clusterbloom Arrow, E and Q : 1U - [Kolibri#7675](https://www.youtube.com/watch?v=RhUVsQKUGis)
 * ICD
@@ -24,10 +28,6 @@ search: false
   * Tighnari's E snapshots on activation. [Video](https://youtu.be/NILZic2btMk)
   * Tighnari's Q Tanglevine Shaft snapshots when arrows are fired but the Q secondary Tanglevine Shaft is either dynamic or snapshots at individual times when they are created. [Video](https://youtu.be/3ofPtiemJqk)
   * Tighnari's Wreath Arrow snapshots and Clustebloom arrows are either dynamic or snapshots at individual times when they are created. [Video](https://youtu.be/ZMowzpLubVc)
-* Frames
-  * CA
-    * E-reduced CA level 2 - 30 \(38 with recovery\) - BowTae#0141(count), [flamescion#9370](https://www.youtube.com/watch?v=sG-hT06nSG0)
-  * Q - 116 - [Zakharov#5645](https://youtu.be/jZNdJEjbJUQ)
 
 ## Attack Mechanics
 

@@ -30,22 +30,20 @@ import Skill from '@site/src/components/char/Skill'
 
 | String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit    | 82.60%    | 13     | 381.23%/s | 47.053       | 3            |
-| 2-Hit    | 86.64%    | 43     | 173.28%/s | 49.351       | 3            |
-| 3-Hit    | 107.68%   | 73     | 215.36%/s | 61.339       | 3            |
-| 4-Hit    | 54.10% x2 | 111    | 170.84%/s | 30.819 x2    | 3 x2         |
-| 5-Hit    | 138.90%   | 159    | 173.63%/s | 79.121       | 6            |
-| Recovery | -         | 191    | -         | -            | -            |
+| 1-Hit    | 82.60%    | 21     | 236.00%/s | 47.053       | 3            |
+| 2-Hit    | 86.64%    | 33     | 157.53%/s | 49.351       | 3            |
+| 3-Hit    | 107.68%   | 38     | 170.02%/s | 61.339       | 3            |
+| 4-Hit    | 54.10% x2 | 27     | 240.44%/s | 30.819 x2    | 3 x2         |
+| 5-Hit    | 138.90%   | 72     | 115.75%/s | 79.121       | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String         | Talent 9% | Frames  | MV/s      | Poise Damage | Impulse Type |
-| :------------- | :-------- | :------ | :-------- | :----------- | :----------- |
-| Charged Attack | 327.97%   | -       | -         | 120          | 7            |
-| N1C            | 320.57%   | 13 + 54 | 356.19%/s | -            | -            |
-| Recovery       | -         | 84      | -         | -            | -            |
+| String         | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Charged Attack | 327.97%   | 55     | 259.60%/s | 120          | 7            |
+| N1C            | 320.57%   | 85     | 226.28%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -71,7 +69,6 @@ import Skill from '@site/src/components/char/Skill'
 | Namisen DMG Bonus \(T9%\)   | 1.03% Max HP/Stack |
 | Water Illusion DMG \(T9%\)  | 186.44%            |
 | Particles                   | 1-2 \(1:1\)        |
-| Frames                      | 20                 |
 | GU                          | 1A                 |
 | ICD                         | 3-hit / 2.5s       |
 | Snapshot                    | Snapshot           |
@@ -84,13 +81,12 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
-| String           | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :--------------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Shunsuiken 1-Hit | 97.17%    | -      | -    | 50           | 3            |
-| Shunsuiken 2-Hit | 108.23%   | -      | -    | 50           | 3            |
-| Shunsuiken 3-Hit | 119.29%   | -      | -    | 50           | 3            |
-| Recovery         | -         | -      | -    | -            | -            |
-| GU               | 1A        | -      | -    | -            | -            |
+| String           | Talent 9% | MV/s      | Poise Damage | Impulse Type |
+| :--------------- | :-------- | :-------- | :----------- | :----------- |
+| Shunsuiken 1-Hit | 97.17%    | 201.04%/s | 50           | 3            |
+| Shunsuiken 2-Hit | 108.23%   | 223.92%/s | 50           | 3            |
+| Shunsuiken 3-Hit | 119.29%   | 230.88%/s | 50           | 3            |
+| GU               | 1A        | -         | -            | -            |
 
 **Notes**
 
@@ -108,9 +104,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------------------ | :------- |
 | Bloomwater Blade DMG \(T9%\)    | 112.98%  |
 | Normal Attack DMG Bonus \(T9%\) | 19%      |
-| Cast Frames                     | 122      |
-| Energy Frame                    | 10       |
-| CD Frame                        | 1        |
 | GU                              | 1A       |
 | ICD                             | -        |
 | Snapshot                        | Snapshot |
@@ -131,6 +124,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Kamisato_Ayato.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

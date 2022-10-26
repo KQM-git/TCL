@@ -28,22 +28,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9% | Frames | MV/s |
-| :------- | :-------- | :----- | :--- |
-| 1-Hit    | 89.59%    | -      | -    |
-| 2-Hit    | 81.84%    | -      | -    |
-| 3-Hit    | 109.02%   | -      | -    |
-| 4-Hit    | 139.83%   | -      | -    |
-| Recovery | -         | -      | -    |
+| String   | Talent 9% | Frames | MV/s      |
+| :------- | :-------- | :----- | :-------- |
+| 1-Hit    | 89.59%    | 25     | 379.2%/s  |
+| 2-Hit    | 81.84%    | 23     | 213.5%/s  |
+| 3-Hit    | 109.02%   | 50     | 130.82%/s |
+| 4-Hit    | 139.83%   | 67     | 125.22%/s |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9%         | Frames | MV/s |
-| :----------------- | :---------------- | :----- | :--- |
-| Charged Attack DMG | 102.21% + 122.66% | -      | -    |
-| Recovery           | -                 | -      | -    |
+| String             | Talent 9%         | Frames | MV/s      |
+| :----------------- | :---------------- | :----- | :-------- |
+| Charged Attack DMG | 102.21% + 122.66% | 45     | 299.83%/s |
 
 </div>
 <div class='talent-columns'>
@@ -71,7 +69,6 @@ import Skill from '@site/src/components/char/Skill'
 | Tick Rate                                    | 1.5s              |
 | Activation Cost                              | 30% Current HP    |
 | Particles                                    | 0~1 \(55\:45\)    |
-| Frames                                       | -                 |
 | GU                                           | 1A                |
 | ICD                                          | 3 hit / 2.5s      |
 | Snapshot                                     | Dynamic           |
@@ -99,9 +96,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------------------- | :-------------------- |
 | Single Instance DMG \(T9%\) | 6.13% Max HP          |
 | Total DMG \(T9%\)           | 42.9% / 73.54% Max HP |
-| Cast Frames                 | -                     |
-| Energy Frame                | -                     |
-| CD Frame                    | -                     |
 | GU                          | 1A                    |
 | ICD                         | 3 hit / 2.5s          |
 | Snapshot                    | Snapshots             |
@@ -120,6 +114,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Kuki_Shinobu.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

@@ -1,0 +1,52 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 28,
+        "hitlag": 0.10,
+        "default": 48
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 25,
+        "hitlag": 0.10,
+        "default": 56
+    },
+    {
+        "name": "N3",
+        "hitmark": 20,
+        "hitlag": 0.09,
+        "default": 41
+    },
+    {
+        "name": "N4",
+        "hitmark": 42,
+        "hitlag": 0.15,
+        "default": 120
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 15,
+        "n1": 12,
+        "burst": 14,
+        "walk": 43,
+        "dash": 12,
+        "jump": 11,
+        "swap": 78,
+        "cd": 6,
+        "notes": ["Hitlag: 0f by default, 0.15s in Q or with C4", "Swap is with ~120ms ping"]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [24, 64],
+        "hitlag": [0.15, 0.15],
+        "n1": 24,
+        "skill": 82,
+        "walk": 89,
+        "dash": 82,
+        "jump": 81,
+        "swap": 121,
+        "cd": 0,
+        "energy": 9,
+        "notes": "Energy and swap are with ~120ms ping"
+    }
+}

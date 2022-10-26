@@ -1,0 +1,63 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 25,
+        "hitlag": 0.10,
+        "default": 43
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 27,
+        "hitlag": 0.10,
+        "default": 49
+    },
+    {
+        "name": "N3",
+        "hitmark": 47,
+        "hitlag": 0.12,
+        "default": 76
+    },
+    {
+        "name": "N4",
+        "hitmark": 35,
+        "hitlag": 0.12,
+        "default": 106
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 15,
+        "hitlag": 0.09,
+        "n1": 62,
+        "burst": 63,
+        "dash": 64,
+        "jump": 63,
+        "swap": 72,
+        "cd": 13,
+        "notes": "Shield start: 28f"
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 22,
+        "hitlag": 0,
+        "n1": 90,
+        "skill": 91,
+        "dash": 91,
+        "jump": 91,
+        "swap": 90,
+        "cd": 0,
+        "energy": 5,
+        "notes": [
+            "C4 shield start: 43f",
+            "Tick 1: 57f",
+            "None of the ticks have hitlag but tick 1 is poise-extendable"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 31
+    }]
+}

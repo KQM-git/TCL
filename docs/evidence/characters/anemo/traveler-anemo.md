@@ -10,6 +10,11 @@ search: false
 
 ## Basic Mechanics
 
+* Aether frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/186FpS4ckDENVY4U60xxgevJZj_vdyYWZroIa7P_yDr4/edit?usp=sharing) - Kolibri\#7675
+* Aether frame data \(Anemo\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1y_KoAchtrWwPDradqLvkKuPbLUonsP9G4aFuuxtxAgg/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1S7cJszsMoQF6ShCvA7hMjiXMuOCoDRwgW1rseP0uC8k/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(Anemo\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1QCtYnC_qdrCYwN5qDJLYYGuvx81z9fTGNzPdZ8H4nrU/edit?usp=sharing) - Kolibri\#7675
+
 ### Mc Base ATK Buff
 
 **By:** Clear_Storm\#9388, Khezu\#4363  
@@ -82,14 +87,15 @@ AMC Hold E is dynamic and Q snapshots, for both the Anemo and the Additional Ele
   Tornado DMG (no C6): 824 Anemo, 253 Electro  
   Tornado DMG (C6 RES shred): 962 Anemo, 295 Electro
 
-### AMC E Frames Update
+### \[Deprecated\] AMC E Frames Update
 
 **By:** pai#3602  
 **Added:** <Version date="2022-02-02" />  
 **Last tested:** <VersionHl date="2022-02-02" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_932722588076081232_938503721296482354_transcript-amc-e-frames-update.html)
 
-**Finding:** AMC E frame counts were previously incorrect.  
+**Finding:**  
+AMC E frame counts were previously incorrect.  
 Currently in the TCL:  
 Press: 27  
 Hold: 27~61

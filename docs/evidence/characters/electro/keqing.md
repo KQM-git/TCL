@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/electro/keqing.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1GAeBzMr0XX89azZhpbjEqPfehgruwI3__GlfEgQ1VvA/edit?usp=sharing) - Kolibri\#7675
+
 ## Attack Mechanics
 
 ### Keqing N4 has no iframe

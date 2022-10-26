@@ -14,6 +14,8 @@ search: false
 
 ## Attack Attributes
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1B29Zceb_pl8FYfHtIrZeMttZtovmwE8tHEZud_kkbmo/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 * Gauges
   * [Charged Attack](https://imgur.com/eOG8f1B), [Skill, C2](https://imgur.com/IIFR5vv), [Burst](https://imgur.com/CxpW3dC): 1A - Nass008#8577
 * ICD - Nass008#8577

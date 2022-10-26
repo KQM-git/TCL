@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/electro/lisa.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1KRt6I_c5qeUQVXcHv7ZOZKdqjn4Z_VN1OyVFvhDumOc/edit?usp=sharing) - Kolibri\#7675 & ArchedNosi\#1484
+
 ## Attack Mechanics
 
 ### Lisa final AA has two different animations

@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/cryo/ganyu.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1PDHCZKh-7eWpbE1b0OyQUCzSPHcViYZ22EDEItjiU7Y/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ## Weapon Mechanics
 
 ### Bloom’s Innate Travel Time for Amos’ Bow

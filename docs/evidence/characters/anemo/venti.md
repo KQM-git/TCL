@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/anemo/venti.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1wjNpI530VwWX8PtmAA7ZZex5FurVpItfu6jmRQsMcaw/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ## Skill Mechanics
 
 Tap E ICD: None - [Video](https://youtu.be/IiD4gj7NZZQ) - Bobrokrot\#0111

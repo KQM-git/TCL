@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/hydro/barbara.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_OywCjjSW8PeYPPniBLVnoTZ8uQ2L_GLKYmQvFTHV0/edit?usp=sharing) - phaZZi\#6461 & Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Barbara E Animation Cancel

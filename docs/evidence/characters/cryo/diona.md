@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/cryo/diona.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/178Y92g19FlBIb1hIPHKvjByk_NztZ7854pjkkt4fEV4/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ## Attack Mechanics
 
 ### Non-charged Aimed Shots share elemental application ICD with Charged Aimed Shots, despite not having an element themselves

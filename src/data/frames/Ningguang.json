@@ -1,0 +1,110 @@
+{
+    "NA": [{
+        "name": "N1 Left",
+        "release": 29,
+        "hitlag": 0,
+        "default": 61,
+        "ca": 43,
+        "walk": 44
+    },
+    {
+        "name": "N1 Right",
+        "release": 19,
+        "hitlag": 0,
+        "default": 56,
+        "ca": 40,
+        "walk": 41
+    },
+    {
+        "name": "N1 Twirl",
+        "release": 29,
+        "hitlag": 0,
+        "default": 66,
+        "ca": 40,
+        "walk": 42
+    }],
+    "CA": [{
+        "name": "CA Left",
+        "release": [35, 45],
+        "hitlag": [0, 0],
+        "n1": 46,
+        "ca": 47,
+        "skill": 48,
+        "burst": 47,
+        "walk": 52,
+        "dash": 32,
+        "jump": 32,
+        "swap": 46
+    },
+    {
+        "name": "CA Right",
+        "release": [58, 66],
+        "hitlag": [0, 0],
+        "n1": 68,
+        "ca": 70,
+        "skill": 72,
+        "burst": 69,
+        "walk": 74,
+        "dash": 64,
+        "jump": 64,
+        "swap": 67
+    },
+    {
+        "name": "CA Twirl",
+        "release": [66, 74],
+        "hitlag": [0, 0],
+        "n1": 76,
+        "ca": 77,
+        "skill": 77,
+        "burst": 77,
+        "walk": 82,
+        "dash": 61,
+        "jump": 62,
+        "swap": 76,
+        "notes": [
+            "Hitmark 1: CA",
+            "Hitmark 2: Star Jade",
+            "Star Jades are poise-extendable, Charged Attacks are not",
+            "C6 left release: 40f",
+            "C6 right release: 58f",
+            "C6 twirl release: 67f"
+        ]
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 17,
+        "hitlag": 0.05,
+        "n1": 69,
+        "ca": 69,
+        "burst": 69,
+        "walk": 60,
+        "dash": 35,
+        "jump": 36,
+        "swap": 67,
+        "cd": 0
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 131,
+        "ca": 131,
+        "skill": 131,
+        "walk": 103,
+        "dash": 103,
+        "jump": 104,
+        "swap": 103,
+        "cd": 0,
+        "energy": 3,
+        "notes": [
+            "Hitmarks of the first 6 gems: 62, 97, 106, 110, 116, 124",
+            "Gems have 0s hitlag but are poise-extendable"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

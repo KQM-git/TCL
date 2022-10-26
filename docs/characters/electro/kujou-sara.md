@@ -34,12 +34,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String    | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :-------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit DMG | 67.78%    | 19     | 214.04%/s | 12.17        | 1            |
-| 2-Hit DMG | 71.1%     | 44     | 189.38%/s | 13.5         | 1            |
-| 3-Hit DMG | 89.11%    | 82     | 166.82%/s | 16.92        | 1            |
-| 4-Hit DMG | 92.59%    | 123    | 156.38%/s | 17.58        | 1            |
-| 5-Hit DMG | 106.65%   | 181    | 141.62%/s | 20.25        | 1            |
-| Recovery  | -         | 195    | 131.46%/s | -            | -            |
+| 1-Hit DMG | 67.78%    | 25     | 162.67%/s | 12.17        | 1            |
+| 2-Hit DMG | 71.1%     | 28     | 152.36%/s | 13.5         | 1            |
+| 3-Hit DMG | 89.11%    | 37     | 144.50%/s | 16.92        | 1            |
+| 4-Hit DMG | 92.59%    | 38     | 146.19%/s | 17.58        | 1            |
+| 5-Hit DMG | 106.65%   | 45     | 142.20%/s | 20.25        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -47,12 +46,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type             | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
 | :--------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
-| Aimed Shot       | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| With Recovery    | -         | 25     | 193.392%/s | -   | -                   | -                 |
-| Fully Charged    | 210.8%    | 86     | 147.07%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| With Recovery    | -         | 96     | 131.75%/s  | -   | -                   | -                 |
-| A1 Fully Charged | 210.8%    | 50     | 252.96%    | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| With Recovery    | -         | 60     | 210.8%/s   | -   | -                   | -                 |
+| Aimed Shot       | 80.58%    | 55     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| Fully Charged    | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
+| A1 Fully Charged | 210.8%    | 60     | 210.80%/s  | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -83,7 +79,6 @@ import Skill from '@site/src/components/char/Skill'
 | ATK Bonus Ratio \(T9%\) | 73.03%   |
 | ATK Bonus Duration      | 6s       |
 | Particles               | 3        |
-| Frames                  | 50       |
 | GU                      | 1A       |
 | ICD (hits/timer)        | None     |
 | Snapshot                | Snapshot |
@@ -123,9 +118,6 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------------- | :--------------------------------------- |
 | Titanbreaker DMG \(T9%\) | 696.32%                                  |
 | Stormcluster DMG \(T9%\) | 58% (each)                               |
-| Cast Frames              | 80 (60 with swap)                        |
-| Energy Frame             | 54                                       |
-| CD Frame                 | 48                                       |
 | GU                       | 1A                                       |
 | ICD (hits/timer)         | 3 hit/2.5s                               |
 | Snapshot                 | Snapshot                                 |
@@ -150,6 +142,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Kujou_Sara.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

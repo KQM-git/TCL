@@ -1,0 +1,46 @@
+{
+    "Aether Skill": {
+        "name": "Cast",
+        "hitmark": 28,
+        "n1": 37,
+        "skill": 37,
+        "burst": 37,
+        "dash": 29,
+        "jump": 29,
+        "swap": 36,
+        "cd": 25
+    },
+    "Lumine Skill": {
+        "name": "Cast",
+        "hitmark": 28,
+        "n1": 37,
+        "skill": 37,
+        "burst": 37,
+        "dash": 28,
+        "jump": 28,
+        "swap": 35,
+        "cd": 25
+    },
+    "Aether Burst": {
+        "name": "Cast",
+        "n1": 58,
+        "skill": 58,
+        "dash": 58,
+        "jump": 58,
+        "swap": 57,
+        "cd": 0,
+        "energy": 7,
+        "notes": ["Tick 1 hitmark: 97f", "Default (C2): 11 total ticks, 1.5s DoT interval", "Electro Transfiguration (C2): 17 total ticks, 0.9s DoT interval", "Pyro Transfiguration hitmark: 60f"]
+    },
+    "Lumine Burst": {
+        "name": "Cast",
+        "n1": 58,
+        "skill": 58,
+        "dash": 58,
+        "jump": 58,
+        "swap": 57,
+        "cd": 0,
+        "energy": 6,
+        "notes": ["Tick 1 hitmark: 93f", "Default (C2): 11 total ticks, 1.5s DoT interval", "Electro Transfiguration (C2): 17 total ticks, 0.9s DoT interval", "Pyro Transfiguration hitmark: 61f"]
+    }
+}

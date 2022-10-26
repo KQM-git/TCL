@@ -36,12 +36,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit         | 81.05%    | 10     | 486.3%/s  | 12           | 1            |
-| 2-Hit         | 85.95%    | 28     | 357.86%/s | 12.9         | 1            |
-| 3-Hit         | 106.81%   | 61     | 269.32%/s | 15.9         | 1            |
-| 4-Hit         | 106.02%   | 102    | 223.43%/s | 15.6         | 1            |
-| 5-Hit         | 132.4%    | 131    | 234.61%/s | 19.71        | 1            |
-| With Recovery | 512.23%   | 182    | 168.87%/s | -            | -            |
+| 1-Hit         | 81.05%    | 25     | 194.52%/s | 12           | 1            |
+| 2-Hit         | 85.95%    | 23     | 224.22%/s | 12.9         | 1            |
+| 3-Hit         | 106.81%   | 38     | 168.65%/s | 15.9         | 1            |
+| 4-Hit         | 106.02%   | 32     | 198.79%/s | 15.6         | 1            |
+| 5-Hit         | 132.4%    | 37     | 214.70%/s | 19.71        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -49,10 +48,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
-| Aimed Shot    | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| With Recovery | -         | 25     | 193.392%/s | -   | -                   | -            |
-| Fully Charged | 210.8%    | 86     | 147.07%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
-| With Recovery | -         | 96     | 131.75%/s  | -   | -                   | -            |
+| Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 1A  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -82,7 +79,6 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------- | :------ |
 | Cast DMG \(T9%\) | 196.25% |
 | Particles        | 0       |
-| Frames           | 18      |
 | GU               | 1A      |
 | ICD              | None    |
 | Damage Element   | Electro |
@@ -132,9 +128,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst          |
 | :---------------- | :------------- |
 | Skill DMG \(T9%\) | 353.6%         |
-| Cast Frames       | 20             |
-| Energy Frame      | 11             |
-| CD Frame          | 2              |
 | GU                | 1A             |
 | ICD               | Shared With C4 |
 | Snapshot          | Snapshot       |
@@ -160,6 +153,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Fischl.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

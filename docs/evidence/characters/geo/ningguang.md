@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/geo/ningguang.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/12y2e2JkN55UOpbMeTpx1EmqqN9zdfPf3jLLpo9YKxnE/edit?usp=sharing) - Kolibri\#7675
+
 ## Charged Attack Mechanics
 
 ### Star Jades Have The Charged Attack Tag
