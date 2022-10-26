@@ -78,6 +78,11 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+
+* Collei's Skill persists off-field.
+* Collei's Floral Ring will track players wherever they go. If it is unable to return back to the player, it stops moving after about 8 seconds, then disappears from the field about 2 seconds later.
+  
 </TabItem>
 
 <TabItem value='q' label='Burst'>
@@ -101,6 +106,10 @@ import Skill from '@site/src/components/char/Skill'
 
 </div>
 
+**Notes**
+  
+* Collei's Q has 12 instances of leap damage(without a4).
+  
 </TabItem>
 </Tabs>
 
@@ -122,6 +131,13 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value='a1' label='Ascension 1'>
 <Passive char={char} passive={0} />
+  
+**Notes**
+  
+* A1 does 2 instances of damage, only the first applies dendro.
+* Collei's E can trigger her own A1 if it triggers a reaction.
+* Triggering A1 again resets the previous A1.
+
 </TabItem>
 
 <TabItem value="a4" label="Ascension 4">
@@ -140,6 +156,11 @@ import Constellation from '@site/src/components/char/Constellation'
 
 <TabItem value='c2' label='C2'>
 <Constellation char={char} constellation={2} />
+
+**Notes**
+  
+* C2 doesn't proc if it is unable to return to the player, regardless of whether it reacts.
+  
 </TabItem>
 
 <TabItem value='c3' label='C3'>
