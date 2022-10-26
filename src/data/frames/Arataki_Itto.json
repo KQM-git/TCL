@@ -1,0 +1,113 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 23,
+        "hitlag": 0.08,
+        "default": 42,
+        "ca": [50, 23]
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 25,
+        "hitlag": 0.08,
+        "default": 45,
+        "ca": [60, 27]
+    },
+    {
+        "name": "N3",
+        "hitmark": 16,
+        "hitlag": 0.10,
+        "default": 53,
+        "ca": [67, 21]
+    },
+    {
+        "name": "N4",
+        "hitmark": 48,
+        "hitlag": 0.10,
+        "default": 93,
+        "ca": ["N/A", 51, 52],
+        "notes": ["1st CA cancel: 0 stacks", "2nd CA cancel: 1 stack/final (same for every NA except N4)"]
+    }],
+    "CA": [{
+        "name": "CA (0 stacks)",
+        "hitmark": 89,
+        "hitlag": 0.10,
+        "n1": 141,
+        "skill": 141,
+        "burst": 141,
+        "dash": 99,
+        "jump": 99,
+        "swap": 140,
+        "notes": "CA (0 stacks) hitmark is 14/21/21/14/14f shorter if there's N1/N2/N3/CAF/E prior"
+    },
+    {
+        "name": "CA (1 stack)",
+        "hitmark": 51,
+        "hitlag": 0.07,
+        "n1": 113,
+        "skill": 60,
+        "burst": 60,
+        "dash": 61,
+        "jump": 61,
+        "swap": 57,
+        "notes": "CA (1 stack) hitmark is 10f shorter if there's NA prior, 28f if it's CA (2 stacks), 17f if it's E"
+    },
+    {
+        "name": "CA (2 stacks)",
+        "hitmark": 24,
+        "hitlag": 0.05,
+        "n1": 84,
+        "skill": 31,
+        "burst": 32,
+        "dash": 32,
+        "jump": 33,
+        "swap": 30
+    },
+    {
+        "name": "CA (final)",
+        "hitmark": 71,
+        "hitlag": 0.10,
+        "n1": 119,
+        "skill": 86,
+        "burst": 86,
+        "dash": 81,
+        "jump": 81,
+        "swap": 86,
+        "notes": "CA (final): Default CA (0 stacks) cancel is 120f; hitmark is 10f shorter if there's NA prior, 25f if CA (1 stack), 17f if CA (2 stacks) or E"
+    }],
+    "Skill": {
+        "name": "Press",
+        "hitmark": 71,
+        "hitlag": 0.02,
+        "n1": 44,
+        "ca": 46,
+        "burst": 44,
+        "dash": 30,
+        "jump": 30,
+        "swap": 43,
+        "cd": 14,
+        "notes": [
+            "Superlative Superstrength stack gain: 370f",
+            "Arataki Kesagiri Combo Slash (1 stack) and Final Slash cancel: 28f"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 92,
+        "skill": 91,
+        "dash": 86,
+        "jump": 84,
+        "swap": 90,
+        "cd": 0,
+        "energy": 2,
+        "notes": ["Arataki Kesagiri Combo Slash (1 stack) and Final Slash cancel: 92f"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 28
+    }]
+}

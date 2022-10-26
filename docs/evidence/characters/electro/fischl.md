@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/electro/fischl.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Pbp9BY1HZIs_iPJdkR3B7WjLMO9iIjWP8tM7NNnp0bU/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ## Skill Mechanics
 
 ### Fischl E ICD

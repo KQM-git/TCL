@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/cryo/chongyun.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/13TsDRmuHCrXBKlka-huhKt1xtjNHhLEZIuJJzj1OQvg/edit?usp=sharing) - Kolibri\#7675
+
 ## Attack Mechanics
 
 ### 3 Attack Rotation Time and Frames + Max Amounts of Shattered Procs with Chongyun Alone \(E is not shattered\)

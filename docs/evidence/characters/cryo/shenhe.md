@@ -8,6 +8,9 @@
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1CeCbNYTXozBDeeRerGJFLWwsKrKz3K3-PydNSBATx8E/edit?usp=sharing) - Kurt\#5846, Kolibri\#7675 & Xreejan\#1180
+* Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1imqcBjbwt0aXxgNk4aA62KoCIyvRP57I2cHGTzhxo4M/edit?usp=sharing) - TWICE\#9958
+  * Q: 75 - [Video](https://youtu.be/4mFOlxCVYL0) - CC\#5588
 * Gauges - [Video](https://youtu.be/fM5RY6uoA28) - CC\#5588
   * Tap E: 1U
   * Hold E: 2U
@@ -16,22 +19,6 @@
 * ICDs -
   * NA: Standard. - [Video](https://youtu.be/DojuAq47sDE) - Bobrokrot\#0111
   * Q: Intiial Hit and DoT have separate ICDs. DoT is standard ICD - [Video](https://youtu.be/yjIbjkhLXGE) - CC\#5588
-* Frames
-  * [Full Frame Count Sheet](https://docs.google.com/spreadsheets/d/1imqcBjbwt0aXxgNk4aA62KoCIyvRP57I2cHGTzhxo4M/edit?usp=sharing) - TWICE\#9958
-  * NA
-    * N1: 13
-    * N2: 44
-    * N3: 68
-    * N4: 97 + 103
-    * N5: 135
-    * Recovery: 167
-  * CA
-    * N1C: 20 + 54
-    * Recovery: 75
-  * E
-    * Press: 29
-    * Hold: 44
-  * Q: 75 - [Video](https://youtu.be/4mFOlxCVYL0) - CC\#5588
 
 ## Skill Mechanics
 

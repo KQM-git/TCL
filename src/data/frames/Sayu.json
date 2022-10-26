@@ -1,0 +1,88 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 23,
+        "hitlag": 0.10,
+        "default": 46
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 29,
+        "hitlag": 0.10,
+        "default": 58
+    },
+    {
+        "name": "N3",
+        "hitmark": [14, 26],
+        "hitlag": [0, 0.08],
+        "default": 61
+    },
+    {
+        "name": "N4",
+        "hitmark": 35,
+        "hitlag": 0.08,
+        "default": 80
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": [7, 25],
+        "hitlag": [0, 0.02],
+        "n1": 46,
+        "burst": 45,
+        "dash": 46,
+        "jump": 47,
+        "swap": 44,
+        "cd": 14
+    },
+    {
+        "name": "Hold (1 tick)",
+        "hitmark": [19, 48],
+        "hitlag": [0.01, 0.02],
+        "n1": 91,
+        "burst": 91,
+        "dash": 91,
+        "jump": 91,
+        "swap": 89,
+        "cd": 30
+    },
+    {
+        "name": "Hold (18 ticks)",
+        "hitmark": [20, 667],
+        "hitlag": [0.01, 0.02],
+        "n1": 721,
+        "burst": 721,
+        "dash": 720,
+        "jump": 720,
+        "swap": 718,
+        "cd": 648,
+        "notes": [
+            "Hitmark 1: Fuufuu Windwheel (first one for full duration hold)",
+            "Hitmark 2: Fuufuu Whirlwind Kick",
+            "DoT interval: 0.5s"
+        ]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 12,
+        "hitlag": 0.02,
+        "n1": 67,
+        "skill": 67,
+        "dash": 66,
+        "jump": 67,
+        "swap": 66,
+        "cd": 0,
+        "energy": 7,
+        "notes": [
+            "Tick 1: 114f",
+            "DoT interval: 1.5s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 29
+    }]
+}

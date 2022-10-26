@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/bennett.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1xjUpc3yUcpqaioep250lfxlpK-feDbdrBmD0TuvBcoA/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Bennett Hold E Counts as Self Damage

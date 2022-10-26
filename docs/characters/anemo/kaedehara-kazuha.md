@@ -33,24 +33,21 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String              | Talent 9%           | Frames          | MV/s      | Poise Damage | Impulse Type |
-| :------------------ | :------------------ | :-------------- | :-------- | :----------- | :----------- |
-| 1-Hit DMG           | 82.63%              | 14              | 354.12%/s | 47.7         | 3            |
-| 2-Hit DMG           | 83.11%              | 34              | 292.48%/s | 47.34        | 3            |
-| 3-Hit DMG           | 47.4% + 56.88%      | 60 + 70         | 231.45%/s | 29.7 x2      | 3 x2         |
-| 4-Hit DMG           | 111.55%             | 97              | 236.02%/s | 63.54        | 3            |
-| 5-Hit DMG           | 46.61% x3 (139.83%) | 126 + 138 + 140 | 223.46%/s | 26.55 x3     | 2 + 2 + 5    |
-| Recovery (Total MV) | --                  | 200             | 156.42%/s | -            | -            |
+| String              | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------------ | :------------------ | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG           | 82.63%              | 22     | 225.35%/s | 47.7         | 3            |
+| 2-Hit DMG           | 83.11%              | 26     | 191.79%/s | 47.34        | 3            |
+| 3-Hit DMG           | 47.4% + 56.88%      | 41     | 152.60%/s | 29.7 x2      | 3 x2         |
+| 4-Hit DMG           | 111.55%             | 46     | 145.50%/s | 63.54        | 3            |
+| 5-Hit DMG           | 46.61% x3 (139.83%) | 80     | 104.87%/s | 26.55 x3     | 2 + 2 + 5    |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9%              | Frames  | MV/s      | Poise Damage | Impulse Type |
-| :----------------- | :--------------------- | :------ | :-------- | :----------- | :----------- |
-| Charged Attack DMG | 79% + 137.14%          | 14 + 44 | -         | 60 x2        | 2 + 6        |
-| N1C                | 82.63% + 79% + 137.14% | 58      | 309.07%/s | -            | -            |
-| N1C w/Recovery     | 79% + 137.14%          | 78      | 229.82%/s | -            | -            |
+| String             | Talent 9%     | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :------------ | :----- | :-------- | :----------- | :----------- |
+| Charged Attack DMG | 79% + 137.14% | 55     | 135.79%/s | 60 x2        | 2 + 6        |
 
 </div>
 <div class='talent-columns'>
@@ -84,7 +81,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------ | :---------- |
 | Skill DMG \(T9%\) | 326.4%        | 443.36%     |
 | Particles         | 3             | 4           |
-| Frames            | 36            | 69          |
 | GU                | 1U            | 2U          |
 | ICD               | None          | None        |
 | Damage Element    | Anemo         | Anemo       |
@@ -101,7 +97,6 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------------- | :---------------- |
 | Plunge Collision DMG \(T9%\) | 150.35%           |
 | Low/High Plunge DMG \(T9%\)  | 300.63% / 375.50% |
-| Frames                       | 55 / 63           |
 | GU                           | 1U                |
 | ICD                          | None              |
 | Damage Element               | Anemo             |
@@ -134,9 +129,6 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Slash         | DoT           | Elemental DMG    |
 | :---------------- | :------------ | ------------- | :--------------- |
 | Skill DMG \(T9%\) | 446.08%       | 204%          | 61.2%            |
-| Cast Frames       | 93            | -             | -                |
-| Energy Frame      | 7             | -             | -                |
-| CD Frame          | 1             | -             | -                |
 | GU                | 2U            | 1U            | 1A               |
 | ICD               | None          | None          | None             |
 | Snapshot          | Snapshot      | Snapshot      | Snapshot         |
@@ -156,6 +148,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Kaedehara_Kazuha.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

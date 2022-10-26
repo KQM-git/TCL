@@ -34,10 +34,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 140.62%   | 25     | 337.49%/s | 96.6         | 3            |
-| 2-Hit  | 135.88%   | 69     | 240.43%/s | 93.15        | 3            |
-| 3-Hit  | 175.38%   | 139    | 195.06%/s | 121.9        | 3            |
-| 4-Hit  | 212.83%   | 204    | 195.50%/s | 146.63       | 6            |
+| 1-Hit  | 140.62%   | 43     | 196.21%/s | 96.6         | 3            |
+| 2-Hit  | 135.88%   | 49     | 166.38%/s | 93.15        | 3            |
+| 3-Hit  | 175.38%   | 76     | 138.46%/s | 121.9        | 3            |
+| 4-Hit  | 212.83%   | 106    | 120.47%/s | 146.63       | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -45,8 +45,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type      | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :-------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spin      | 114.91%   | 30     | 229.82%/s | 60           | 3            |
-| Final Hit | 207.77%   | 29     | 429.87%/s | 120          | 6            |
+| Spin      | 114.91%   | ?      | ?         | 60           | 3            |
+| Final Hit | 207.77%   | ?      | ?         | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 288.32% | 57.12% \* 6 |
 | Tick Rate         | -       | 2s          |
 | Particles         | 4       | -           |
-| Frames            | 65      | -           |
 | GU                | 1A      | 1A          |
 | ICD               | None    | None        |
 | Snapshot          | Dynamic | Dynamic     |
@@ -112,9 +111,6 @@ import Skill from '@site/src/components/char/Skill'
 | Effect            | Burst    | DoT                            |
 | :---------------- | :------- | :----------------------------- |
 | Skill DMG \(T9%\) | 579.36%  | 68% x 7                        |
-| Cast Frames       | 98       | -                              |
-| Energy Frame      | 11       | -                              |
-| CD Frame          | 3        | -                              |
 | GU                | -        | 1A                             |
 | ICD               | -        | 3 hit / 2.5s                   |
 | Damage Type       | Burst    | Burst                          |
@@ -130,6 +126,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Xinyan.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

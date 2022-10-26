@@ -28,13 +28,12 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String    | Talent 9% | Frames   | MV/s              | Poise Damage | Impulse Type |
-| :-------- | :-------- | :------- | :---------------- | :----------- | :----------- |
-| 1-Hit DMG | 74.73%    | 14       | 320.27%           | 14.19        | 1            |
-| 2-Hit DMG | 71.73%    | 29       | 286.92%           | 13.62        | 1            |
-| 3-Hit DMG | 94.8%     | 54       | 227.52%           | 18           | 1            |
-| 4-Hit DMG | 59.72% x2 | 88 + 102 | 105.38% + 255.94% | 7.56 ×2      | 1            |
-| Recovery  | -         | 142      | -                 | -            | -            |
+| String    | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :-------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit DMG | 74.73%    | 15     | 298.92%/s | 14.19        | 1            |
+| 2-Hit DMG | 71.73%    | 21     | 204.94%/s | 13.62        | 1            |
+| 3-Hit DMG | 94.8%     | 38     | 149.68%/s | 18           | 1            |
+| 4-Hit DMG | 59.72% x2 | 67     | 106.96%/s | 7.56 ×2      | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -42,10 +41,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String                   | Talent 9% | Frames | MV/s    | Poise Damage        | Impulse Type |
 | :----------------------- | :-------- | :----- | :------ | :------------------ | :----------- |
-| Aimed Shot               | 80.58%    | 15     | 322.32% | 10 \(Headshot: 30\) | 2            |
-| With Recovery            | -         | 25     | 193.39% | -                   | -            |
-| Fully-Charged Aimed Shot | 210.8%    | 86     | 147.07% | 20 \(Headshot: 60\) | 5            |
-| With Recovery            | -         | 96     | 131.75% | -                   | -            |
+| Aimed Shot               | 80.58%    | 25     | 193.39% | 10 \(Headshot: 30\) | 2            |
+| Fully-Charged Aimed Shot | 210.8%    | 96     | 131.75% | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -53,8 +50,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String                | Talent 9%     | Frames | MV/s          | Poise Damage | Impulse Type |
 | :-------------------- | :------------ | :----- | :------------ | :----------- | :----------- |
-| Breakthrough Barb DMG | 19.68% Max HP | 32     | 36.90% Max HP | 100          | 3            |
-| With Recovery         | -             | 42     | 28.13% Max HP | -            | -            |
+| Breakthrough Barb DMG | 19.68% Max HP | 42     | 28.13% Max HP | 100          | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -88,7 +84,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :------------------------- |
 | DMG \(T9%\)         | 38.44% Max HP              |
 | Particles           | 4 \(-\)                    |
-| Frames              | Tap: 40 <br/> Hold: 42-257 |
 | GU                  | 1A                         |
 | ICD                 | Standard                   |
 | Snapshot            | -                          |
@@ -121,9 +116,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute      | Skill         | Exquisite Throw |
 | :------------- | :------------ | :-------------- |
 | DMG \(T9%\)    | 12.42% Max HP | 8.28% Max HP ×3 |
-| Cast Frames    | 91            | -               |
-| Energy Frame   | 10            | -               |
-| CD Frame       | 1             | -               |
 | GU             | 2B            | 1A              |
 | ICD            | 3-hit / 2.5s  | 3-hit / 2s      |
 | Snapshot       | -             | Dynamic         |
@@ -153,6 +145,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Yelan.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

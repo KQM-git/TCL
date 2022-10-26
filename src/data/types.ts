@@ -88,13 +88,16 @@ export interface Frames {
 export type FrameInfo = number | string | (number | string)[];
 export interface FrameTab {
     name?: string
+    release?: FrameInfo
     hitmark?: FrameInfo
     hitlag?: FrameInfo
     default?: FrameInfo
     n1?: FrameInfo
+    plunge: FrameInfo
     ca?: FrameInfo
     skill?: FrameInfo
     burst?: FrameInfo
+    walk?: FrameInfo
     dash?: FrameInfo
     jump?: FrameInfo
     swap?: FrameInfo

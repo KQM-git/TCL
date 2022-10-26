@@ -30,11 +30,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String   | Talent 9%  | Frames   | MV/s      | Poise Damage | Impulse Type          |
 | :------- | :--------- | :------- | :-------- | :----------- | :-------------------- |
-| 1-Hit    | 132.72%    | 23       | 346.23%/s | 80.5         | 3                     |
-| 2-Hit    | 131.14%    | 70       | 226.17%/s | 79.35        | 3                     |
-| 3-Hit    | 79.79% x 2 | 97 + 109 | 233.09%/s | 48.3 x2      | 3 + \(Heavy, 500, 0\) |
-| 4-Hit    | 180.28%    | 187      | 193.71%/s | 109.71       | 5                     |
-| Recovery | ~          | 227      | 159.57%/s | -            | -                     |
+| 1-Hit    | 132.72%    | 46       | 173.11%/s | 80.5         | 3                     |
+| 2-Hit    | 131.14%    | 58       | 135.66%/s | 79.35        | 3                     |
+| 3-Hit    | 79.79% x 2 | 61       | 156.96%/s | 48.3 x2      | 3 + \(Heavy, 500, 0\) |
+| 4-Hit    | 180.28%    | 80       | 135.21%/s | 109.71       | 5                     |
 
 </div>
 <div class='talent-columns'>
@@ -42,9 +41,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String    | Talent 9%   | Frames | MV/s      | Poise Damage | Impulse Type |
 | :-------- | :---------- | :----- | :-------- | :----------- | :----------- |
-| Spin      | 114.91% x 9 | 307    | 202.12%/s | 60           | 3            |
-| Final Hit | 207.77%     | 358    | 208.15%/s | 120          | 6            |
-| Recovery  | ~           | 439    | 169.74%/s | -            | -            |
+| Spin      | 114.91% x 9 | ?      | ?         | 60           | 3            |
+| Final Hit | 207.77%     | ?      | ?         | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -71,11 +69,10 @@ import Skill from '@site/src/components/char/Skill'
 | Fuufuu Whirlwind Kick DMG \(T9%\)            | 269.28%      | 369.92%                                 |
 | Fuufuu Whirlwind Kick Absorption DMG \(T9%\) | ~            | 129.47%                                 |
 | Particles                                    | 2            | 2 + 1~4                                 |
-| Frames                                       | 35           | 35~675                                  |
 | GU                                           | 1U           | -                                       |
 | GU Absorption                                | -            | 1A                                      |
 | ICD                                          | 3 hit / 2.5s | 3 hit / 2.5s                            |
-| Snapshot                                     | Snapshot     |
+| Snapshot                                     | Snapshot     |                                         |
 | Damage Element                               | Anemo        | -                                       |
 | Damage Absorption                            | -            | Absorbed Element                        |
 | Damage Type                                  | Skill        | Skill                                   |
@@ -112,9 +109,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------------------- | :------------ |
 | Skill Activation DMG \(T9%\)     | 198.56%       |
 | Skill Activation Healing \(T9%\) | 156.67% +1174 |
-| Cast Frames                      | 65            |
-| Energy Frame                     | 11            |
-| CD Frame                         | 1             |
 | GU                               | 1U            |
 | ICD                              | 3 hit / 2.5s  |
 | Snapshot                         | Snapshot      |
@@ -149,6 +143,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Sayu.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

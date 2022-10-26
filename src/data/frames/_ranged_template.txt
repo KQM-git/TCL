@@ -1,0 +1,87 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    }, 
+    {
+        "name": "N2",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    },
+    {
+        "name": "N3",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    },
+    {
+        "name": "N4",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    },
+    {
+        "name": "N5",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    },
+    {
+        "name": "N6",
+        "release": ,
+        "hitlag": 0,
+        "default": ,
+        "ca": 
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": ,
+        "hitlag": 0,
+        "n1": ,
+        "ca": ,
+        "skill": ,
+        "burst": ,
+        "dash": ,
+        "jump": ,
+        "swap": 
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": ,
+        "n1": ,
+        "ca": ,
+        "burst": ,
+        "dash": ,
+        "jump": ,
+        "swap": ,
+        "cd": 
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": ,
+        "n1": ,
+        "ca": ,
+        "skill": ,
+        "dash": ,
+        "jump": ,
+        "swap": ,
+        "cd": ,
+        "energy": 
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 
+    },
+    {
+        "name": "Jump",
+        "default": 
+    }]
+}

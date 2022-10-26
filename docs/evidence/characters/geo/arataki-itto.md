@@ -8,44 +8,20 @@
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_919451034575847464_924496285996830730_transcript-itto-basic-mechanics.html)
 
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/13ad3uH2DazxotwjQE6qvWRfcQJpmhkxN4nsbc3vUx78/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data:
+  * [NA](https://youtu.be/L0IcjCtR6Jo) - pai\#3602
+  * [NA (in Q)](https://youtu.be/X3wVOo6_FhE) - pai\#3602
+  * [CA](https://youtu.be/OwxCqxwrczo) - pai\#3602
+  * [Stacked CA](https://youtu.be/1IT8e_2HiAg) - pai\#3602
+  * [CA (in Q)](https://youtu.be/iVAZiHstzu4) - pai\#3602
+  * E: 26 - Zakharov\#5645
+  * Q: 90 - Zakharov\#5645
 * Gauges - [CC\#5588](https://youtu.be/Rl6elJJcmj4)
   * Itto Skill, Normal Attacks, Combo Slash, and Final Slash all apply 1U Geo
 * ICDs
   * Normal Attacks follow the standard ICD and has a separate ICD counter from his Skill. - [CC\#5588](https://youtu.be/OJSMfjGhiGA)
   * Elemental Skill has a 1s ICD. - [EE less than 1s apart](https://youtu.be/hAALkzc5VPs) / [EE more than 1s apart](https://youtu.be/8f1A22DHqnU) - Bobrokrot\#0111
-* Frames -
-  * NA - [pai\#3602](https://youtu.be/L0IcjCtR6Jo)
-    * N1: 23
-    * N2: 67
-    * N3: 101
-    * N4: 181
-    * Recovery: 202
-  * NA during Burst - [pai\#3602](https://youtu.be/X3wVOo6_FhE)
-    * N1: 22
-    * N2: 73
-    * N3: 94
-    * N4: 167
-    * Recovery: 203
-  * CA: - [pai\#3602](https://youtu.be/OwxCqxwrczo)
-    * CA: 90
-    * Recovery: 161
-    * N1C: N1 = 24 | CA = 122 | Recovery = 189
-  * Stacked CA - [pai\#3602](https://youtu.be/1IT8e_2HiAg)
-    * CA1: 52
-    * CA2: 85
-    * CA3: 112
-    * CA4: 137
-    * CA5: 181
-    * Recovery: 209
-  * CA during Burst - [pai\#360](https://youtu.be/iVAZiHstzu4)
-    * CA1: 51
-    * CA2: 84
-    * CA3: 111
-    * CA4: 137
-    * CA5: 180
-    * Recovery: 207
-  * E: 26 - Zakharov\#5645
-  * Q: 90 - Zakharov\#5645
 * Range
   * E Hold: 6 abyss tiles - [deRykcihC\#0551](https://youtu.be/o-3xh0CWjvw)
 

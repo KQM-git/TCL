@@ -35,18 +35,17 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 116.24%   | 10     | 697.44%/s | 1A  | 12.82        | 1 / 3\*      |
-| 2-Hit         | 104.62%   | 36     | 368.1%/s  | 1A  | 11.53        | 1 / 3\*      |
-| 3-Hit         | 160.32%   | 82     | 278.65%/s | 1A  | 17.68        | 1 / 3\*      |
-| With Recovery | -         | 122    | 141.8%/s  | -   | -            | -            |
+| 1-Hit         | 116.24%   | 14     | 498.17%/s | 1A  | 12.82        | 1 / 3\*      |
+| 2-Hit         | 104.62%   | 30     | 209.24%/s | 1A  | 11.53        | 1 / 3\*      |
+| 3-Hit         | 160.32%   | 65     | 147.99%/s | 1A  | 17.68        | 1 / 3\*      |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9% | Frames | MV/s    | GU  | Poise Damage | Impulse Type      |
-| :----------------- | :-------- | :----- | :------ | :-- | :----------- | :---------------- |
-| Charged Attack DMG | 252.14%   | 45     | 336.19% | 1A  | 100          | 1 / Air, 0, 600\* |
+| String             | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type      |
+| :----------------- | :-------- | :----- | :-------- | :-- | :----------- | :---------------- |
+| Charged Attack DMG | 252.14%   | 61     | 248.01%/s | 1A  | 100          | 1 / Air, 0, 600\* |
 
 </div>
 <div class='talent-columns'>
@@ -83,7 +82,6 @@ import Skill from '@site/src/components/char/Skill'
 | :----------------- | :----------------------- |
 | Ripple DMG \(T9%\) | 185.62%                  |
 | Particles          | 0~1 (1:2)                |
-| Frames             | 66 (51 with Dash Cancel) |
 | GU                 | 1A                       |
 | ICD                | None                     |
 | Snapshot           | Snapshot                 |
@@ -121,9 +119,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst         |
 | :---------------- | :------------ |
 | Skill DMG \(T9%\) | 17.71% Max HP |
-| Cast Frames       | 75            |
-| Energy Frame      | 57            |
-| CD Frame          | 48            |
 | GU                | 2B            |
 | ICD               | None          |
 | Snapshot          | Dynamic       |
@@ -153,6 +148,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Sangonomiya_Kokomi.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

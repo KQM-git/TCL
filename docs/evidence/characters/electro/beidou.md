@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/electro/beidou.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1r8fwU2wMBbZsy5fqqSSf8aLvX8aFvJCvaDD8P3Lr2sI/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Attack Mechanics
 
 ### Analysing Beidou’s Normal Attack Rotations Including Hitlag

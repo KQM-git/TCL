@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/hydro/xingqiu.md')} />
 
+
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1eJDOj2mI3tFSM7ii6hn3E9GLtS6ah5GwCISDyb2i304/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Xingqiu E Double Vaporize
@@ -110,7 +115,7 @@ MSR2: 414, 828, 1656 (47.92% DR in theory, 46.338% DR in practice)
 **Significance:**  
 Better understanding of Xingqiu's Damage Reduction and how it interacts with different sources of Elemental DMG Bonus.
 
-### Xingqiu E Dash Cancel Animation
+### \[Deprecated\] Xingqiu E Dash Cancel Animation
 
 **By:** Charliex3000\#9403  
 **Added:** <Version date="2021-03-18" />  

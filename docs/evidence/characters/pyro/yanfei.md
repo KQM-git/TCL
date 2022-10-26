@@ -10,6 +10,7 @@ search: false
 
 ## Basic Mechanics
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1NslqbafUoW4rhl1D2oVeSsn0SXfvAwnxAlIlwvKY_5Q/edit?usp=sharing) - Kolibri\#7675
 * Stamina consumption decrease from seals affects all actions - [Aluminum\#5462](https://youtu.be/0EqhvYyKA64)
 * Yanfei's E has 1A pyro application - [Ayzel\#7399](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836803250611159070_yanfei_E_gauge.mp4)
 * Yanfei's Q has 2B pyro application - [xf3\#3123](https://tcl-backup.s3.filebase.com/evidence/characters/pyro/yanfei.md/discord/attachments_835739595387699200_836865777721933824_2021-04-28_03-24-33_Trim.mp4)

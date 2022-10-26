@@ -35,10 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage \(no Q/with Q\) | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :--------------------------- | :----------- |
-| 1-Hit  | 145.36%   | 28     | 311.49%/s | 105.8 / 132.25               | 3            |
-| 2-Hit  | 134.77%   | 70     | 240.11%/s | 98.1 / 122.82                | 3            |
-| 3-Hit  | 158.47%   | 116    | 226.86%/s | 115.34 / 144.87              | 3            |
-| 4-Hit  | 208.4%    | 174    | 223.1%/s  | 151.68 / 189.75              | 6            |
+| 1-Hit  | 145.36%   | 48     | 181.70%/s | 105.8 / 132.25               | 3            |
+| 2-Hit  | 134.77%   | 56     | 144.40%/s | 98.1 / 122.82                | 3            |
+| 3-Hit  | 158.47%   | 41     | 231.91%/s | 115.34 / 144.87              | 3            |
+| 4-Hit  | 208.4%    | 120    | 104.20%/s | 151.68 / 189.75              | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -46,8 +46,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String           | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :--------------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG     | 93.22%    | 311    | 179.85%/s | 60           | 3            |
-| Final Attack DMG | 166.22%   | 40     | 187.76%/s | 120          | 6            |
+| Spinning DMG     | 93.22%    | ?      | ?         | 60           | 3            |
+| Final Attack DMG | 166.22%   | ?      | ?         | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 204% DEF     |
 | Particles         | 0 \(-\)      |
-| Frames            | -            |
 | GU                | 2U           |
 | ICD               | 3 hit / 2.5s |
 | Snapshot          | Dynamic      |
@@ -117,9 +116,6 @@ import Skill from '@site/src/components/char/Skill'
 | Burst DMG (T9%) | 114.24%      |
 | Skill DMG (T9%) | 157.76%      |
 | ATK Bonus (T9%) | 68% DEF      |
-| Cast Frames     | 111          |
-| Energy Frame    | 8            |
-| CD Frame        | 2            |
 | GU              | 1U           |
 | ICD             | 3 hit / 2.5s |
 | Snapshot        | Dynamic      |
@@ -140,6 +136,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Noelle.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

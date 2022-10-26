@@ -36,13 +36,12 @@ import Skill from '@site/src/components/char/Skill'
 
 | String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit    | 75.84%    | 17     | 267.67%/s | 14.4         | 1            |
-| 2-Hit    | 85%       | 30     | 321.68%/s | 16.14        | 1            |
-| 3-Hit    | 101.75%   | 64     | 246.18%/s | 19.32        | 1            |
-| 4-Hit    | 104.75%   | 101    | 218.22%/s | 19.89        | 1            |
-| 5-Hit    | 111.86%   | 123    | 233.76%/s | 21.24        | 1            |
-| 6-Hit    | 133.67%   | 162    | 226.99%/s | 25.38        | 1            |
-| Recovery | -         | 215    | 171.03%/s | -            | -            |
+| 1-Hit    | 75.84%    | 26     | 175.02%/s | 14.4         | 1            |
+| 2-Hit    | 85%       | 27     | 188.89%/s | 16.14        | 1            |
+| 3-Hit    | 101.75%   | 33     | 185.00%/s | 19.32        | 1            |
+| 4-Hit    | 104.75%   | 32     | 196.41%/s | 19.89        | 1            |
+| 5-Hit    | 111.86%   | 33     | 203.38%/s | 21.24        | 1            |
+| 6-Hit    | 133.67%   | 66     | 121.52%/s | 25.38        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -53,10 +52,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9%   | Frames | MV/s      | GU  | Poise Damage        | Impulse Type |
 | :------------ | :---------- | :----- | :-------- | :-- | :------------------ | :----------- |
-| Aimed Shot    | 80.58%      | 15     | 322.32%/s | -   | 10 \(Headshot: 30\) | 2            |
-| With Recovery | -           | 23     | 210.21%/s | -   | -                   | -            |
-| Fully Charged | 210.8%      | 86     | 147.07%/s | 1A  | 20 \(Headshot: 60\) | 5            |
-| With Recovery | -           | 94     | 134.55%/s | -   | -                   | -            |
+| Aimed Shot    | 80.58%      | 25     | 193.39%/s | -   | 10 \(Headshot: 30\) | 2            |
+| Fully Charged | 210.8%      | 94     | 134.55%/s | 1A  | 20 \(Headshot: 60\) | 5            |
 | Riptide Flash | 21.08% \* 3 | -      | -         | 1A  | -                   | -            |
 | Riptide Burst | 105.4%      | -      | -         | 2B  | -                   | -            |
 
@@ -89,7 +86,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute                 | Skill    |
 | :------------------------ | :------- |
 | Stance Change DMG \(T9%\) | 122.4%   |
-| Frames                    | 28       |
 | GU                        | 2B       |
 | ICD                       | None     |
 | Damage Element            | Hydro    |
@@ -104,15 +100,15 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' sectionFilter='Normal Attack' />
 
-| String | Talent 9%     | Frames    | MV/s      | Poise Damage  | Impulse Type |
-| :----- | :------------ | :-------- | :-------- | :------------ | :----------- |
-| 1-Hit  | 71.42%        | 7         | 612.17%/s | 40.68         | 3            |
-| 2-Hit  | 76.47%        | 20        | 443.67%/s | 43.56         | 3            |
-| 3-Hit  | 103.49%       | 48        | 314.23%/s | 58.95         | 3            |
-| 4-Hit  | 110.13%       | 80        | 271.13%/s | 62.73         | 3            |
-| 5-Hit  | 101.59%       | 116       | 239.53%/s | 57.87         | 3            |
-| 6-Hit  | 65.1% + 69.2% | 143 + 165 | 217.24%/s | 37.08 + 39.42 | 6 x2         |
-| GU     | 1A            | -         | -         | -             | -            |
+| String | Talent 9%     | Frames | MV/s      | Poise Damage  | Impulse Type |
+| :----- | :------------ | :----- | :-------- | :------------ | :----------- |
+| 1-Hit  | 71.42%        | 16     | 267.83%/s | 40.68         | 3            |
+| 2-Hit  | 76.47%        | 17     | 269.89%/s | 43.56         | 3            |
+| 3-Hit  | 103.49%       | 40     | 155.24%/s | 58.95         | 3            |
+| 4-Hit  | 110.13%       | 41     | 161.17%/s | 62.73         | 3            |
+| 5-Hit  | 101.59%       | 30     | 203.18%/s | 57.87         | 3            |
+| 6-Hit  | 65.1% + 69.2% | 82     | 98.27%/s  | 37.08 + 39.42 | 6 x2         |
+| GU     | 1A            | -      | -         | -             | -            |
 
 </div> 
 <div class='talent-columns'>
@@ -120,10 +116,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%       | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------- | :-------------- | :----- | :-------- | :-- | :----------- | :----------- |
-| Charged Attack | 110.6% + 132.25 | -      | -         | 1A  | 63 + 75.33   | 2 + 6        |
-| N1C            | 314.27%         | 80     | 235.7%/s  | 1A  | -            | -            |
-| N2C            | 390.74%         | 93     | 252.09%/s | 1A  | -            | -            |
-| N3C            | 494.23%         | 125    | 237.23%/s | 1A  | -            | -            |
+| Charged Attack | 110.6% + 132.25 | 55     | 264.93%/s | 1A  | 63 + 75.33   | 2 + 6        |
+| N1C            | 314.27%         | 84     | 224.48%/s | 1A  | -            | -            |
+| N2C            | 390.74%         | 100    | 234.44%/s | 1A  | -            | -            |
+| N3C            | 494.23%         | 133    | 222.96%/s | 1A  | -            | -            |
 
 </div> 
 <div class='talent-columns'>
@@ -165,9 +161,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Ranged Burst |
 | :---------------- | :----------- |
 | Skill DMG \(T9%\) | 643.28%      |
-| Cast Frames       | 52           |
-| Energy Frame      | 8            |
-| CD Frame          | 2            |
 | GU                | 2B           |
 | ICD               | None         |
 | Damage Element    | Hydro        |
@@ -189,9 +182,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Melee Burst | Riptide Blast |
 | :---------------- | :---------- | :------------ |
 | Skill DMG \(T9%\) | 788.8%      | 204%          |
-| Cast Frames       | 97          | --            |
-| Energy Frame      | 75          | --            |
-| CD Frame          | 68          | --            |
 | GU                | 2B          | 2B            |
 | ICD               | None        | None          |
 | Damage Element    | Hydro       | Hydro         |
@@ -232,6 +222,13 @@ A chart of Tartgalia's different Riptide effects
 </TabItem>
 
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Tartaglia.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

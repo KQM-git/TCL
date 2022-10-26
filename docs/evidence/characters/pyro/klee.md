@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/klee.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1cRHRn2iR8knyzcioUGGoMFNZgaNJQdlpkUqjeIPowCM/edit?usp=sharing) - Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Klee Mine ICD

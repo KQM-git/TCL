@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/anemo/sucrose.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1qHFGd5xt2MNBCIw7WK78lwv2Az98vLz8CRILU8piugo/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Attack Mechanics
 
 ### Sucrose's N1 Attack can, in some Situations, Cease to Exist

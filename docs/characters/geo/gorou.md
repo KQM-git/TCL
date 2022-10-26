@@ -30,11 +30,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit         | 69.36%    | 18     | 231.2%/s  | 13.17        | 1            |
-| 2-Hit         | 68.26%    | 37     | 223.17%/s | 12.96        | 1            |
-| 3-Hit         | 90.85%    | 85     | 161.27%/s | 17.25        | 1            |
-| 4-Hit         | 108.39%   | 132    | 153.12%/s | 20.58        | 1            |
-| With Recovery | ~         | 162    | 124.76%/s | -            | -            |
+| 1-Hit         | 69.36%    | 21     | 198.17%/s | 13.17        | 1            |
+| 2-Hit         | 68.26%    | 26     | 157.52%/s | 12.96        | 1            |
+| 3-Hit         | 90.85%    | 43     | 126.77%/s | 17.25        | 1            |
+| 4-Hit         | 108.39%   | 55     | 118.24%/s | 20.58        | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -42,10 +41,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9% | Frames | MV/s      | GU  | Poise Damage        | Impulse Type      |
 | :------------ | :-------- | :----- | :-------- | :-- | :------------------ | :---------------- |
-| Aimed Shot    | 80.58%    | 15     | 322.32%/s | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| With Recovery | -         | 23     | 210.21%/s | -   | -                   | -                 |
-| Fully Charged | 210.8%    | 86     | 147.07%/s | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| With Recovery | -         | 94     | 134.55%/s | -   | -                   | -                 |
+| Aimed Shot    | 80.58%    | 23     | 193.39%/s | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
+| Fully Charged | 210.8%    | 94     | 134.55%/s | 1U  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
 
 </div>
 <div class='talent-columns'>
@@ -78,7 +75,6 @@ import Skill from '@site/src/components/char/Skill'
 | DEF Increase \(T9%\) | 350                               |
 | Geo DMG Bonus        | 15%                               |
 | Particles            | 2 \(-\)                           |
-| Frames               | 46 \(Press\)<br />62-649 \(Hold\) |
 | GU                   | 1U                                |
 | ICD                  | 1s                                |
 | Snapshot             | -                                 |
@@ -108,9 +104,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Burst       | Crystal Collapse |
 | :---------------- | :---------- | :--------------- |
 | Skill DMG \(T9%\) | 166.97% DEF | 104.21% DEF      |
-| Cast Frames       | 56          | -                |
-| Energy Frame      | 8           | -                |
-| CD Frame          | 1           | -                |
 | GU                | 1U          | 1U               |
 | ICD               | -           | 3 hit / 2.5s     |
 | Snapshot          | -           | Dynamic          |
@@ -134,7 +127,12 @@ import Skill from '@site/src/components/char/Skill'
 </TabItem>
 </Tabs>
 
-## Ascension Passives
+## Frames
+
+import charFrames from '@site/src/data/frames/Gorou.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

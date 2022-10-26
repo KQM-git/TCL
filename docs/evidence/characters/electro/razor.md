@@ -10,12 +10,8 @@ search: false
 
 ## Basic Mechanics
 
-### Razor frame data
-
-[Google Sheets](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
-
-### ICDs
-
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Rceie6ATwNDSbnmIIKgZa1cVtXlBZE6earpJb42SHAM/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1mKV6mZknfmBx04iUzfBYfWggWNbZACPyTnTMpWlWSHc/edit#gid=0)
 * Press E: None - [Video](https://youtu.be/gvGZoIDlTyo) - Bobrokrot\#0111
 * Hold E: None - [Video](https://youtu.be/imxmvhZHj-w) - Bobrokrot\#0111
 

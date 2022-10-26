@@ -28,20 +28,19 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
-| :------- | :-------- | :----- | :------ | :----------- | :----------- |
-| 1-Hit    | 64.42%    | 22     | 175.69% | 7.436        | 1            |
-| 2-Hit    | 65.48%    | 46     | 163.70% | 7.222        | 1            |
-| 3-Hit    | 96.71%    | 90     | 131.88% | 10.667       | 1            |
-| Recovery | -         | 127    | -       | -            | -            |
+| String   | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit    | 64.42%    | 16     | 252.83%/s | 7.436        | 1            |
+| 2-Hit    | 65.48%    | 36     | 109.13%/s | 7.222        | 1            |
+| 3-Hit    | 96.71%    | 79     | 73.45%/s  | 10.667       | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String             | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
-| :----------------- | :-------- | :----- | :------ | :----------- | :----------- |
-| CHarged Attack DMG | 242.92%   | 87     | 167.53% | 80           | 2            |
+| String             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| CHarged Attack DMG | 242.92%   | 96     | 151.83%/s | 80           | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -75,7 +74,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG Level 3 \(T9%\) | 161.16%        |
 | Skill DMG Level 4 \(T9%\) | 201.45%        |
 | Particles                 | 1 \(-\)        |
-| Frames                    | 34             |
 | GU                        | 1A             |
 | ICD                       | 3 hit / 2.5s   |
 | Snapshot                  | Dynamic        |
@@ -107,9 +105,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------------------- | :---------------------------------- |
 | Skill DMG \(T9%\)             | 442%                                |
 | Tenko Thunderbolt DMG \(T9%\) | 567.49%                             |
-| Cast Frames                   | 111                                 |
-| Energy Frame                  | 7                                   |
-| CD Frame                      | 1                                   |
 | GU                            | 1A                                  |
 | ICD                           | None                                |
 | Snapshot                      | Dynamic                             |
@@ -130,6 +125,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Yae_Miko.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

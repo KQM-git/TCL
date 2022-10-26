@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/geo/noelle.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1fpJmJ7SylDkrb0-ghuAnUc977Lf6yH-uWpOmyvazFNM/edit?usp=sharing) - Shizuka\#7791
+
 ## Attack Mechanics
 
 ### Maidstrike vs N3D \(Dragonstrike\)

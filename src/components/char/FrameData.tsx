@@ -4,13 +4,16 @@ import { FrameInfo, FrameTab } from '@site/src/data/types'
 
 const nameMap: Record<keyof FrameTab, string> = {
   name: "Name",
+  release: "Release",
   hitmark: "Hitmark",
   hitlag: "Hitlag",
   default: "Default",
   n1: "N1",
+  plunge: "Plunge",
   ca: "CA",
   skill: "Skill",
   burst: "Burst",
+  walk: "Walk",
   dash: "Dash",
   jump: "Jump",
   swap: "Swap",

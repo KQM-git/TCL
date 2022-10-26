@@ -1,0 +1,143 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 14,
+        "hitlag": 0.01,
+        "default": 16,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 17,
+        "hitlag": 0.06,
+        "default": 30,
+        "ca": 31
+    },
+    {
+        "name": "N3",
+        "hitmark": [13, 22],
+        "hitlag": [0, 0.02],
+        "default": 32,
+        "ca": 26
+    },
+    {
+        "name": "N4",
+        "hitmark": 27,
+        "hitlag": 0.04,
+        "default": 65,
+        "ca": "N/A"
+    }],
+    "NA (in Q)": [{
+        "name": "N1 (in Q)",
+        "hitmark": 12,
+        "hitlag": 0.01,
+        "default": 17,
+        "ca": 29
+    },
+    {
+        "name": "N2 (in Q)",
+        "hitmark": 14,
+        "hitlag": 0.01,
+        "default": 32,
+        "ca": 36
+    },
+    {
+        "name": "N3 (in Q)",
+        "hitmark": 18,
+        "hitlag": 0.03,
+        "default": 43,
+        "ca": 41
+    },
+    {
+        "name": "N4 (in Q)",
+        "hitmark": [5, 14],
+        "hitlag": [0.01, 0.03],
+        "default": 30,
+        "ca": 39
+    },
+    {
+        "name": "N5 (in Q)",
+        "hitmark": 40,
+        "hitlag": 0.05,
+        "default": 69,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 24,
+        "hitlag": 0,
+        "n1": 67,
+        "skill": 66,
+        "burst": 66,
+        "dash": 26,
+        "jump": 27,
+        "swap": 65
+    },
+    "CA (in Q)": {
+        "name": "CA (in Q)",
+        "hitmark": 27,
+        "hitlag": 0,
+        "n1": 69,
+        "skill": 67,
+        "dash": 29,
+        "jump": 30,
+        "swap": 67
+    },
+    "Skill": [{
+        "name": "Default",
+        "hitmark": 21,
+        "hitlag": 0,
+        "n1": 43,
+        "burst": 43,
+        "dash": 31,
+        "jump": 32,
+        "swap": 42,
+        "cd": 17
+    },
+    {
+        "name": "In Q",
+        "hitmark": 28,
+        "hitlag": 0.03,
+        "n1": 36,
+        "burst": "N/A",
+        "dash": 32,
+        "jump": 33,
+        "swap": 35,
+        "cd": 26
+    },
+    {
+        "name": "In Q, with A1",
+        "hitmark": 28,
+        "hitlag": 0.03,
+        "n1": 84,
+        "burst": "N/A",
+        "dash": 32,
+        "jump": 33,
+        "swap": 35,
+        "cd": "?"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [328, 562],
+        "n1": 84,
+        "skill": 84,
+        "dash": 84,
+        "jump": 86,
+        "swap": 83,
+        "cd": 0,
+        "energy": 3,
+        "notes": [
+            "Hitmarks: first 2 Duststalker Bolts (A1)",
+            "Burst duration: 711f/11.85s",
+            "A1 ticks once every 4s"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

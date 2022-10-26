@@ -1,0 +1,74 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 8,
+        "hitlag": 0.03,
+        "default": 15,
+        "ca": 28
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 10,
+        "hitlag": 0.03,
+        "default": 25,
+        "ca": 26
+    },
+    {
+        "name": "N3",
+        "hitmark": 16,
+        "hitlag": 0.06,
+        "default": 39,
+        "ca": 39
+    },
+    {
+        "name": "N4",
+        "hitmark": [8, 15, 22],
+        "hitlag": [0, 0, 0.03],
+        "default": 28,
+        "ca": 29
+    },
+    {
+        "name": "N5",
+        "hitmark": 27,
+        "hitlag": 0,
+        "default": 70,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [27, 33, 39],
+        "hitlag": [0, 0, 0],
+        "n1": 71,
+        "skill": 62,
+        "burst": 63
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 33,
+        "n1": 49,
+        "burst": 48,
+        "dash": 30,
+        "jump": 32,
+        "swap": 48,
+        "cd": 0
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 104,
+        "n1": 124,
+        "skill": 125,
+        "dash": 124,
+        "jump": 114,
+        "swap": 123,
+        "cd": 0,
+        "energy": 8
+    },
+    "Other": {
+        "name": "Alternate Dash",
+        "hitmark": 20,
+        "n1": 35,
+        "skill": 35,
+        "burst": 35,
+        "swap": 34
+    }
+}

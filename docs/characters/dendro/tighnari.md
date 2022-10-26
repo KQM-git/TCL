@@ -30,24 +30,21 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 82%       |        |           | 16.5         | 1            |
-| 2-Hit  | 77.1%     |        |           | 15.9         | 1            |
-| 3-Hit  | 48.59% ×2 |        |           | 9.75 ×2      | 1            |
-| 4-Hit  | 126.08%   |        |           | 25.5         | 1            |
+| 1-Hit  | 82%       | 26     | 189.23%/s | 16.5         | 1            |
+| 2-Hit  | 77.1%     | 23     | 201.13%/s | 15.9         | 1            |
+| 3-Hit  | 48.59% ×2 | 37     | 157.59%/s | 9.75 ×2      | 1            |
+| 4-Hit  | 126.08%   | 68     | 111.25%/s | 25.5         | 1            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| Type               | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type      |
-| :----------------- | :-------- | :----- | :--------- | :-- | :------------------ | :---------------- |
-| Aimed Shot         | 80.58%    |        |            | -   | 10 \(Headshot: 30\) | 2 \(Headshot: 5\) |
-| With Recovery      | -         |        |            | -   | -                   | -                 |
-| Charge Level 1     | 210.8%    |        |            | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| With Recovery      | -         |        |            | -   | -                   | -                 |
-| Wreath Arrow       | 148.24%   |        |            | 1A  | 20 \(Headshot: 60\) | 2 \(Headshot: 5\) |
-| Clusterbloom Arrow | 65.62%    |        |            | 1A  | 20                  | 3                 |
-| With Recovery      | -         |        |            | -   | -                   | -                 |
+| Type                                     | Talent 9%        | Frames | MV/s       | GU  | Poise Damage             | Impulse Type          |
+| :--------------------------------------- | :--------------- | :----- | :--------- | :-- | :----------------------- | :-------------------- |
+| Aimed Shot                               | 80.58%           | ?      | ?          | -   | 10 \(Headshot: 30\)      | 2 \(Headshot: 5\)     |
+| Charge Level 1                           | 210.8%           | 94     | 134.55%/s  | 1A  | 20 \(Headshot: 60\)      | 2 \(Headshot: 5\)     |
+| Wreath Arrow + Clusterbloom Arrow        | 148.24% + 65.62% | 183    | 70.12%/s   | 1A  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
+| Wreath Arrow + Clusterbloom Arrow (in E) | 148.24% + 65.62% | 41     | 312.97%/s  | 1A  | 20 \(Headshot: 60\) + 20 | 2 \(Headshot: 5\) + 3 |
 
 </div>
 <div class='talent-columns'>
@@ -72,7 +69,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :-------------------------- |
 | DMG \(T9%\)               | 254.32%                     |
 | Particles                 | 3~4 \(1:1\)                 |
-| Frames                    |                             |
 | GU                        | 1A                          |
 | ICD                       | None                        | 
 | Snapshot                  | Snapshot                    |
@@ -95,9 +91,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute         | Primary         | Secondary       |
 | :---------------- | :-------------- | :-------------- |
 | DMG \(T9%\)       | 94.55%          | 115.57%         |
-| Cast Frames       | 12              | -               |
-| Energy Frame      | 7               | -               |
-| CD Frame          | 1               | -               |
 | GU                | 1A              | 1A              |
 | ICD               | 3 hits / 2.5s   | 3 hits / 2.5s   |
 | Snapshot          | Snapshot        | Dynamic         |
@@ -112,6 +105,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Tighnari.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

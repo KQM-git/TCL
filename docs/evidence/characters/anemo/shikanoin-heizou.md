@@ -12,6 +12,7 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/heizou-basic-mechanics)
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1SsXniQztelJOBWMYPT-w6wygSFkduWhu2OAVC9IUbbA/edit?usp=sharing) - Kolibri\#7675
 * Gauges:
   * NA: 1U. - [Video](https://youtu.be/6qH0JVJY-O0) - emmaus\#9072
   * E \(any amount of stacks\): 2U. - [Video](https://youtu.be/yJ5xzR4NtnU) - milk tea romance\#9022
@@ -20,11 +21,6 @@ search: false
   * Tap E: None. - [Video](https://youtu.be/DcwONCuqSOs) - Puffin\#9920
 * Snapshotting:
   * Q: Both parts snapshot. - [Video](https://imgur.com/a/Nk0w5Yv) - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
-* Frames:
-  * Q: - [Google Sheets](https://docs.google.com/spreadsheets/d/1iLUT8Tafwih3RZbNlA59w6-x5NQdgPvsMc86b7W92DQ/edit?usp=sharing) - Jxdx\#0732
-    * Cast: 76
-    * Energy: 8
-    * CD: 1
 * Heizou’s Normal Attack, Charged Attack, Elemental Skill, and Elemental Burst do not shatter. - [Video](https://imgur.com/a/MPhTuwO) - Magnus Artifex\#8719
 * Heizou's Normal Attack, Charged Attack, and Elemental Skill can damage ores and Geo Constructs of enemies. His Elemental Burst can't. - [Video 1](https://youtu.be/PQlwFx2fIiY) - [Video 2](https://youtu.be/kf1ma37An1o) - [Video 3](https://youtu.be/Vo3qLF0n8m8) - emmaus\#9072
 * Heizou's N1C can dragon strike. - [Video](https://youtu.be/nYXj3RFvG6g) - Ramos\#7141

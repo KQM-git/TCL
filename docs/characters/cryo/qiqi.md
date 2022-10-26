@@ -32,13 +32,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%       | Frames   | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------------- | :------- | :-------- | :----------- | :----------- |
-| 1-Hit  | 69.36%          | 11       | 378.33%/s | 25.2         | 3            |
-| 2-Hit  | 71.42%          | 29       | 291.27%/s | 27.9         | 3            |
-| 3-Hit  | 44.4% + 44.4%   | 55 + 71  | 194.01%/s | 35.1 + 12.6  |
-| 4-Hit  | 45.35% + 45.35% | 94 + 111 | 173.12%/s | 12.6 x2      | 3 x2         |
-| 5-Hit  | 115.81%         | 140      | 186.90%/s | 68.6         | 6            |
+| String | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 69.36%          | 20     | 208.08%/s | 25.2         | 3            |
+| 2-Hit  | 71.42%          | 27     | 158.71%/s | 27.9         | 3            |
+| 3-Hit  | 44.4% + 44.4%   | 44     | 121.09%/s | 35.1 + 12.6  |
+| 4-Hit  | 45.35% + 45.35% | 39     | 139.54%/s | 12.6 x2      | 3 x2         |
+| 5-Hit  | 115.81%         | 65     | 106.90%/s | 68.6         | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -46,8 +46,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%         | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------- | :---------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack | 118.18% + 118.18% | -      | -         | 63 x2        | 6            |
-| N1C            | 305.72%           | 100    | 183.43%/s | -            | -            |
+| Charged Attack | 118.18% + 118.18% | 76     | 186.60%/s | 63 x2        | 6            |
+| N1C            | 305.72%           | 103    | 178.09%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +79,6 @@ import Skill from '@site/src/components/char/Skill'
 | Continuous Regeneration \(T9%\) | 118.32% ATK + 916 |
 | Herald of Frost DMG \(T9%\)     | 61.2%             |
 | Particles                       | 0 \(-\)           |
-| Frames                          | 57                |
 | GU                              | 1A                |
 | ICD                             | 3 hit / 2.5s      |
 | Snapshot                        | Snapshots         |
@@ -104,9 +103,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :-------------- |
 | Skill DMG \(T9%\) | 484.16%         |
 | Healing \(T9%\)   | 153% ATK + 1174 |
-| Cast Frames       | 112             |
-| Energy Frame      | 10              |
-| CD Frame          | 2               |
 | GU                | 2B              |
 | ICD               | None            |
 | Snapshot          | Dynamic         |
@@ -129,6 +125,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Qiqi.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

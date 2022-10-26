@@ -1,0 +1,80 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 14,
+        "hitlag": 0,
+        "default": 26
+    }, 
+    {
+        "name": "N2",
+        "release": 12,
+        "hitlag": 0,
+        "default": 23
+    },
+    {
+        "name": "N3",
+        "release": [13, 25],
+        "hitlag": [0, 0],
+        "default": 37
+    },
+    {
+        "name": "N4",
+        "release": 28,
+        "hitlag": 0,
+        "default": 68
+    }],
+    "CA": [{
+        "name": "CA Lv. 1",
+        "release": 86,
+        "hitlag": 0,
+        "default": 94
+    },
+    {
+        "name": "CA Lv. 2",
+        "release": 175,
+        "hitlag": 0,
+        "default": 183
+    },
+    {
+        "name": "CA Lv. 2 (in E)",
+        "release": 33,
+        "hitlag": 0,
+        "default": 41,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": {
+        "name": "Cast",
+        "release": 15,
+        "hitmark": 20,
+        "n1": 20,
+        "skill": 30,
+        "burst": 22,
+        "dash": 23,
+        "jump": 23,
+        "swap": 21,
+        "cd": 13
+    },
+    "Burst": {
+        "name": "Cast",
+        "release": 77,
+        "n1": 90,
+        "skill": 92,
+        "dash": 92,
+        "jump": 92,
+        "swap": 90,
+        "cd": 0,
+        "energy": 7,
+        "notes": [
+            "Tanglevine Shaft hitmarks: 112, 117, 120, 121, 126, 128",
+            "Secondary Tanglevine Shaft hitmarks: 147, 153, 160, 161, 171, 175"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

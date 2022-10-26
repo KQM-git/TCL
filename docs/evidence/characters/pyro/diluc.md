@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/diluc.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1p0blrnuM7JvwU2QMdZdLayYqP3-7OMDgYC6GDQNn_QU/edit?usp=sharing) - Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Searing Onslaught Extension via Freeze

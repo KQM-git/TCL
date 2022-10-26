@@ -1,0 +1,112 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 14,
+        "hitlag": 0.02,
+        "default": 24,
+        "ca": 30
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 9,
+        "hitlag": 0.02,
+        "default": 19,
+        "ca": 32
+    },
+    {
+        "name": "N3",
+        "hitmark": 14,
+        "hitlag": 0.02,
+        "default": 32,
+        "ca": 42
+    },
+    {
+        "name": "N4",
+        "hitmark": [14, 27],
+        "hitlag": [0, 0],
+        "default": 41,
+        "ca": 57
+    },
+    {
+        "name": "N5",
+        "hitmark": 34,
+        "hitlag": 0.02,
+        "default": 56,
+        "ca": "N/A"
+    }],
+    "NA (in Q)": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.02,
+        "default": 25,
+        "ca": 30
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.02,
+        "default": 22,
+        "ca": 32
+    },
+    {
+        "name": "N3",
+        "hitmark": 11,
+        "hitlag": 0.02,
+        "default": 22,
+        "ca": 40
+    },
+    {
+        "name": "N4",
+        "hitmark": [22, 33],
+        "hitlag": [0, 0],
+        "default": 44,
+        "ca": 67
+    },
+    {
+        "name": "N5",
+        "hitmark": 33,
+        "hitlag": 0.02,
+        "default": 65,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 22,
+        "hitlag": 0,
+        "n1": 41,
+        "skill": 41,
+        "burst": 41,
+        "swap": 40
+    },
+    "CA (in Q)": {
+        "name": "CA (in Q)",
+        "hitmark": [24, 32],
+        "hitlag": [0, 0.06],
+        "n1": 64,
+        "dash": 64,
+        "jump": 64,
+        "swap": 64
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 51,
+        "n1": 51,
+        "burst": 37,
+        "dash": 17,
+        "jump": 17,
+        "swap": 36,
+        "cd": 6,
+        "notes": "N1 cancel is the same for default and in Q"
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 98,
+        "n1": 110,
+        "skill": 111,
+        "dash": 110,
+        "jump": 112,
+        "swap": 110,
+        "cd": 0,
+        "energy": 2
+    }
+}

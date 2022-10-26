@@ -34,11 +34,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9% | Frames | MV/s      | GU  | Poise Damage | Impulse Type |
 | :------------ | :-------- | :----- | :-------- | :-- | :----------- | :----------- |
-| 1-Hit         | 64.33%    | 7      | 551.4%/s  | 1A  | 7.35         | 1            |
-| 2-Hit         | 60.38%    | 25     | 299.3%/s  | 1A  | 7.5          | 1            |
-| 3-Hit         | 69.77%    | 45     | 259.31%/s | 1A  | 7.5          | 1            |
-| 4-Hit         | 93.84%    | 92     | 188.03%/s | 1A  | 9.45         | 2            |
-| With Recovery | 288.32%   | 123    | 140.64%/s | 1A  | -            | -            |
+| 1-Hit         | 64.33%    | 15     | 257.32%/s | 1A  | 7.35         | 1            |
+| 2-Hit         | 60.38%    | 21     | 172.51%/s | 1A  | 7.5          | 1            |
+| 3-Hit         | 69.77%    | 22     | 190.28%/s | 1A  | 7.5          | 1            |
+| 4-Hit         | 93.84%    | 60     | 93.84%/s  | 1A  | 9.45         | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -46,7 +45,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9% | Frames | MV/s      | GU  | ICD  | Poise Damage | Impulse Type |
 | :------------- | :-------- | :----- | :-------- | :-- | :--- | :----------- | :----------- |
-| Charged Attack | 282.61%   | 90     | 188.41%/s | 1A  | 0.5s | 30           | 3            |
+| Charged Attack | 282.61%   | 89     | 190.52%/s | 1A  | 0.5s | 30           | 3            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +76,6 @@ import Skill from '@site/src/components/char/Skill'
 | Continuous Regen \(T9%\) | 6.8% Max HP + 783               |
 | Droplet DMG \(T9%\)      | 99.28%                          |
 | Particles                | 0                               |
-| Frames                   | 52                              |
 | GU                       | 1A                              |
 | Duration                 | 15s                             |
 | Cooldown                 | 32s                             |
@@ -102,15 +100,19 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute        | Burst                |
 | :--------------- | :------------------- |
 | HP Regen \(T9%\) | 29.92% Max HP + 3445 |
-| Cast Frames      | 110                  |
-| Energy Frame     | 9                    |
-| CD Frame         | 2                    |
 | Energy Cost      | 80                   |
 | Cooldown         | 20s                  |
 
 </div>
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Barbara.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

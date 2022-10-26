@@ -36,12 +36,11 @@ import Skill from '@site/src/components/char/Skill'
 
 | String        | Talent 9%  | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------ | :--------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit         | 164.86%    | 30     | 329.72%/s | 101.2        | 105.8        |
-| 2-Hit         | 171.87%    | 58     | 348.34%/s | 105.8        | 3            |
-| 3-Hit         | 104.35% x2 | 126    | 259.73%s  | 65.55 x2     | 3            |
-| 4-Hit         | 206.95%    | 161    | 280.39%   | 129.95       | 3            |
-| 5-Hit         | 131.97% x2 | 250    | 243.92%   | 69.21 x2     | 6            |
-| With Recovery | -          | 305    | 199.93%   | -            | -            |
+| 1-Hit         | 164.86%    | 44     | 224.81%/s | 101.2        | 105.8        |
+| 2-Hit         | 171.87%    | 48     | 214.84%/s | 105.8        | 3            |
+| 3-Hit         | 104.35% x2 | 65     | 192.65%/s | 65.55 x2     | 3            |
+| 4-Hit         | 206.95%    | 54     | 229.94%/s | 129.95       | 3            |
+| 5-Hit         | 131.97% x2 | 116    | 136.52%/s | 69.21 x2     | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +76,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :---------- | :------------- |
 | Skill DMG \(T9%\) | 248.88%     | 417.52%     | 163.2%         |
 | Particles         | 1~2 \(1:1\) | 2~3 \(1:1\) | -              |
-| Frames            | 65          | 89          | -              |
 | GU                | 1A          | 1A          | 1A             |
 | ICD               | None        | None        | 3 hits / 2.5s  |
 | Snapshot          | -           | -           | -              |
@@ -114,9 +112,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)                | 417.52%       | -               |
 | Lightfall Sword Base DMG \(T9%\) | -             | 674.34%         |
 | DMG Per Stack \(T9%\)            | -             | 137.78%         |
-| Cast Frames                      | 125           | -               |
-| Energy Frame                     | 107           | -               |
-| CD Frame                         | 98            | -               |
 | GU                               | 2B            | None            |
 | ICD                              | None          | None            |
 | Snapshot                         | Dynamic       | Dynamic         |
@@ -154,6 +149,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Eula.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

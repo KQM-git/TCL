@@ -8,6 +8,10 @@ search: false
 
 <Card item={require('../../../characters/pyro/xiangling.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1tWMpn1M34w0rCutUQ5cem28fIVoFVp7YjOXtIm2Rvow/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+
 ## Skill Mechanics
 
 ### Guoba CDR Interaction

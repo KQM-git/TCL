@@ -33,14 +33,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String        | Talent 9%           | Frames    | MV/s      | Poise Damage | Impulse Type \(no E/with E\) |
-| :------------ | :------------------ | :-------- | :-------- | :----------- | :--------------------------- |
-| 1-Hit DMG     | 59.94% ×2 (119.88%) | 16 + 24   | 299.70%/s | 8.16         | 1 / 2                        |
-| 2-Hit DMG     | 115%                | 50        | 281.86%/s | 15.65        | 1 / 2                        |
-| 3-Hit DMG     | 149.49%             | 81        | 284.72%/s | 19.98        | 1 / 2                        |
-| 4-Hit DMG     | 78.07% ×2 (156.14%) | 106 + 121 | 268.02%/s | 10.66        | 1 / 2                        |
-| 5-Hit DMG     | 178.04%             | 154       | 279.95%/s | 23.84        | 1 / 2                        |
-| With Recovery | -                   | 186       | 231.79%/s | -            | -                            |
+| String        | Talent 9%           | Frames | MV/s      | Poise Damage | Impulse Type \(no E/with E\) |
+| :------------ | :------------------ | :----- | :-------- | :----------- | :--------------------------- |
+| 1-Hit DMG     | 59.94% ×2 (119.88%) | 35     | 205.51%/s | 8.16         | 1 / 2                        |
+| 2-Hit DMG     | 115%                | 26     | 265.38%/s | 15.65        | 1 / 2                        |
+| 3-Hit DMG     | 149.49%             | 39     | 229.98%/s | 19.98        | 1 / 2                        |
+| 4-Hit DMG     | 78.07% ×2 (156.14%) | 44     | 212.92%/s | 10.66        | 1 / 2                        |
+| 5-Hit DMG     | 178.04%             | 51     | 209.46%/s | 23.84        | 1 / 2                        |
 
 </div>
 <div class='talent-columns'>
@@ -48,12 +47,9 @@ import Skill from '@site/src/components/char/Skill'
 
 | String                    | Talent 9% | Frames        | MV/s                            | GU  | Poise Damage        | Impulse Type |
 | :------------------------ | :-------- | :------------ | :------------------------------ | :-- | :------------------ | :----------- |
-| Aimed Shot                | 80.58%    | 15            | 322.32%/s                       | -   | 10 \(Headshot: 30\) | 2            |
-| With Recovery             | -         | 26            | 185.95%/s                       | -   | -                   | -            |
-| Charge Level 1            | 210.8%    | 86            | 147.07%/s                       | 1A  | 20 \(Headshot: 60\) | 5            |
-| With Recovery             | -         | 97            | 130.39%/s                       | -   | -                   | -            |
-| Kindling Arrows (1, 2, 3) | 27.88%    | 103, 121, 139 | 139.03%/s, 132.18%/s, 127.10%/s | 1A  | 20                  | 2            |
-| With Recovery             | -         | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | -   |
+| Aimed Shot                | 80.58%    | 26            | 185.95%/s                       | -   | 10 \(Headshot: 30\) | 2            |
+| Charge Level 1            | 210.8%    | 97            | 130.39%/s                       | 1A  | 20 \(Headshot: 60\) | 5            |
+| Kindling Arrows (1, 2, 3) | 27.88%    | 114, 132, 150 | 125.62%/s, 121.16%/s, 117.78%/s | 1A  | 20                  | 2            |
 
 </div>
 <div class='talent-columns'>
@@ -88,7 +84,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------------ | :------------------------ |
 | Blazing Arrow DMG \(T9%\) | 158.79% Normal Attack DMG |
 | Particles                 | 1 (-) per proc            |
-| Frames                    | 23                        |
 | GU                        | 1A                        |
 | ICD                       | 3 hit / 2.5s              |
 | Damage Element            | Pyro                      |
@@ -123,9 +118,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute       | Burst         | Aurous Blaze Explosion |
 | :-------------- | :------------ | ---------------------- |
 | Skill DMG (T9%) | 216.24%       | 207.4%                 |
-| Cast Frames     | 115           | -                      |
-| Energy Frame    | 5             | -                      |
-| CD Frame        | 1             | -                      |
 | GU              | 2B            | 1A                     |
 | ICD             | None          | 3 hit / 2.5s           |
 | Snapshot?       | Dynamic       | Dynamic                |
@@ -141,6 +133,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Yoimiya.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

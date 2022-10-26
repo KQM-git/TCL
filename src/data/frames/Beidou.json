@@ -1,0 +1,55 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 23,
+        "hitlag": 0.09,
+        "default": 41
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 22,
+        "hitlag": 0.12,
+        "default": 47
+    },
+    {
+        "name": "N3",
+        "hitmark": 46,
+        "hitlag": 0.09,
+        "default": 64
+    },
+    {
+        "name": "N4",
+        "hitmark": 25,
+        "hitlag": 0.09,
+        "default": 46
+    },
+    {
+        "name": "N5",
+        "hitmark": 43,
+        "hitlag": 0.12,
+        "default": 108
+    }],
+    "Skill": {
+        "name": "Press",
+        "hitmark": 23,
+        "hitlag": 0.09,
+        "n1": 54,
+        "burst": 55,
+        "dash": 34,
+        "jump": 34,
+        "swap": 54,
+        "cd": 4
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 28,
+        "hitlag": 0.10,
+        "n1": 61,
+        "skill": 64,
+        "dash": 53,
+        "jump": 53,
+        "swap": 52,
+        "cd": 0,
+        "energy": 6
+    }
+}

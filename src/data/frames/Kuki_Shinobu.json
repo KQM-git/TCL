@@ -1,0 +1,71 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "default": 25,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 23,
+        "ca": 33
+    },
+    {
+        "name": "N3",
+        "hitmark": 13,
+        "hitlag": 0.10,
+        "default": 50,
+        "ca": 58
+    },
+    {
+        "name": "N4",
+        "hitmark": 23,
+        "hitlag": 0.10,
+        "default": 67,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [14, 25],
+        "hitlag": [0, 0.10],
+        "n1": 45,
+        "skill": 45,
+        "burst": 45,
+        "dash": 41,
+        "jump": 41,
+        "swap": 39
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 11,
+        "n1": 50,
+        "burst": 52,
+        "dash": 12,
+        "jump": 11,
+        "swap": 50,
+        "cd": 7,
+        "notes": ["Tick 1: 129f", "DoT interval: 1.5s", "C0: 8 ticks, 12s duration", "C2: 10 ticks, 15s duration"]
+    },
+    "Burst": {
+        "name": "Cast",
+        "n1": 62,
+        "skill": 62,
+        "dash": 63,
+        "jump": 63,
+        "swap": 62,
+        "cd": 0,
+        "energy": 3,
+        "notes": ["Tick 1: 50f", "DoT interval: 0.3s", ">50% HP: 7 ticks, 2s duration", "<50% HP: 13 ticks, 3.6s duration"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

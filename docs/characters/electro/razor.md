@@ -35,10 +35,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9% | Frames | MV/s      | Poise Damage \(no Q/with Q\) | Impulse Type |
 | :----- | :-------- | :----- | :-------- | :--------------------------- | :----------- |
-| 1-Hit  | 161.32%   | 25     | 387.17%/s | 112.93 / 88.23               | 3            |
-| 2-Hit  | 138.97%   | 71     | 253.77%/s | 97.29 / 76.12                | 3            |
-| 3-Hit  | 173.75%   | 109    | 260.94%/s | 121.67 / 95.15               | 3            |
-| 4-Hit  | 228.81%   | 192    | 219.64%/s | 160.19 / 124.26              | 6            |
+| 1-Hit  | 161.32%   | 54     | 179.24%/s | 112.93 / 88.23               | 3            |
+| 2-Hit  | 138.97%   | 43     | 193.91%/s | 97.29 / 76.12                | 3            |
+| 3-Hit  | 173.75%   | 57     | 182.89%/s | 121.67 / 95.15               | 3            |
+| 4-Hit  | 228.81%   | 129    | 106.42%/s | 160.19 / 124.26              | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -46,8 +46,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String           | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :--------------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| Spinning DMG     | 114.9%    | 30     | 229.8%/s  | 60           | 3            |
-| Final Attack DMG | 207.77%   | 29     | 429.87%/s | 120          | 6            |
+| Spinning DMG     | 114.9%    | ?      | ?         | 60           | 3            |
+| Final Attack DMG | 207.77%   | ?      | ?         | 120          | 6            |
 
 </div>
 <div class='talent-columns'>
@@ -77,7 +77,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------- | :-------------------------- |
 | Skill DMG \(T9%\) | 338.64%     | 501.84%                     |
 | Particles         | 3 \(-\)     | 4 \(-\)                     |
-| Frames            | 74          | 92                          |
 | GU                | 2B          | 2B                          |
 | ICD               | None        | None                        |
 | Snapshot          | Dynamic     | Dynamic                     |
@@ -112,8 +111,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\)    | 272%    | 40.8%       |
 | Attack Speed \(T9%\) | 39%     | -           |
 | Electro RES Bonus    | 80%     |
-| Cast Frames          | 62      | -           |
-| Energy Frame         | 11      | -           |
 | CD Frame             | 2       | -           |
 | GU                   | 2B      | 1A          |
 | ICD                  | -       | 3 hits/2.5s |
@@ -140,6 +137,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Razor.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

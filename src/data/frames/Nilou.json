@@ -1,0 +1,129 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 12,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 30
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 9,
+        "hitlag": 0.03,
+        "default": 33,
+        "ca": 27
+    },
+    {
+        "name": "N3",
+        "hitmark": 17,
+        "hitlag": 0.06,
+        "default": 66,
+        "ca": "N/A"
+    }],
+    "NA (in E)": [
+    {
+        "name": "N1 (in E)",
+        "hitmark": 14,
+        "default": 18,
+        "skill": 20,
+        "burst": 13,
+        "dash": 14,
+        "jump": 14,
+        "swap": 14
+    },
+    {
+        "name": "N2 (in E)",
+        "hitmark": 12,
+        "default": 23,
+        "skill": 23,
+        "burst": 11,
+        "dash": 11,
+        "jump": 12,
+        "swap": 12
+    },
+    {
+        "name": "N3 (in E)",
+        "hitmark": 35,
+        "default": 55,
+        "skill": 60,
+        "burst": 60,
+        "dash": 35,
+        "jump": 35,
+        "swap": 36
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [26, 27],
+        "hitlag": [0, 0],
+        "n1": 42,
+        "skill": 43,
+        "burst": 42,
+        "dash": 28,
+        "jump": 27,
+        "swap": 27
+    }],
+    "Skill": [{
+        "name": "Cast",
+        "hitmark": 16,
+        "n1": 19,
+        "skill": 19,
+        "burst": 22,
+        "dash": 17,
+        "jump": 17,
+        "swap": 21,
+        "cd": "N/A"
+    },
+    {
+        "name": "Whirling Steps 1-Hit",
+        "hitmark": 21,
+        "n1": 27,
+        "skill": 27,
+        "burst": 33,
+        "dash": 26,
+        "jump": 27,
+        "swap": 31,
+        "cd": "N/A"
+    },
+    {
+        "name": "Whirling Steps 2-Hit",
+        "hitmark": 29,
+        "n1": 40,
+        "skill": 32,
+        "burst": 40,
+        "dash": 36,
+        "jump": 37,
+        "swap": 62,
+        "cd": "N/A"
+    },
+    {
+        "name": "Whirling Steps 3-Hit",
+        "hitmark": 43,
+        "n1": 63,
+        "skill": 63,
+        "burst": 63,
+        "dash": 57,
+        "jump": 57,
+        "swap": 61,
+        "cd": 40
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [91, 121],
+        "n1": 108,
+        "skill": 108,
+        "dash": 110,
+        "jump": 109,
+        "swap": 107,
+        "cd": 0,
+        "energy": 4,
+        "notes": ["Hitmark 1: initial hit", "Hitmark 2: Lingering Aeon"]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 20
+    },
+    {
+        "name": "Jump",
+        "default": 30
+    }]
+}

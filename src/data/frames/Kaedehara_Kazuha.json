@@ -1,0 +1,106 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.03,
+        "default": 22,
+        "ca": 27
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 11,
+        "hitlag": 0.03,
+        "default": 26,
+        "ca": 26
+    },
+    {
+        "name": "N3",
+        "hitmark": [16, 26],
+        "hitlag": [0.01, 0.05],
+        "default": 41,
+        "ca": 39
+    },
+    {
+        "name": "N4",
+        "hitmark": 16,
+        "hitlag": 0.06,
+        "default": 46,
+        "ca": 43
+    },
+    {
+        "name": "N5",
+        "hitmark": [15, 19, 28],
+        "hitlag": [0, 0, 0],
+        "default": 80,
+        "ca": "N/A"
+    }],
+    "CA": [{
+        "name": "CA",
+        "hitmark": [20, 20],
+        "hitlag": [0, 0],
+        "n1": 55,
+        "skill": 30,
+        "burst": 30,
+        "dash": 21,
+        "jump": 19,
+        "swap": 28
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 10,
+        "n1": 79,
+        "plunge": 24,
+        "burst": 77,
+        "dash": 76,
+        "jump": 77,
+        "swap": 77,
+        "cd": 8
+    },
+    {
+        "name": "Hold",
+        "hitmark": 33,
+        "n1": 174,
+        "plunge": 58,
+        "burst": 176,
+        "dash": 177,
+        "jump": 175,
+        "swap": 173,
+        "cd": 31,
+        "notes": "Plunge cancel assumes High Plunge"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 82,
+        "n1": 92,
+        "skill": 92,
+        "dash": 92,
+        "jump": 92,
+        "swap": 91,
+        "cd": 0,
+        "energy": 4
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    },
+    {
+        "name": "A1 (After Press E)",
+        "default": 36
+    },
+    {
+        "name": "High Plunge (After Press E)",
+        "default": 37
+    },
+    {
+        "name": "A1 (After Hold E)",
+        "default": 40
+    },
+    {
+        "name": "High Plunge (After Hold E)",
+        "default": 41
+    }]
+}

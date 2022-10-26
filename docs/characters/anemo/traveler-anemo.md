@@ -33,73 +33,22 @@ import TravelerStats from '../\_common/traveler_stats.md'
 import Skill from '@site/src/components/char/Skill'
 
 <Tabs>
-<TabItem value='na' label='Lumine Normal Attacks'>
-<SkillIcon char={lumine} skill='na' />
-<div class='talent-columns'>
-<Skill char={lumine} skill='na' sectionFilter='Normal Attack' />
-
-| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 81.69%    | 14     | 350.1%/s  | 40.5         | 3            |
-| 2-Hit  | 79.79%    | 43     | 225.32%/s | 39.6         | 3            |
-| 3-Hit  | 97.33%    | 80     | 194.11%/s | 48.6         | 3            |
-| 4-Hit  | 107.12%   | 116    | 189.27%/s | 54.0         | 3            |
-| 5-hit  | 130.03%   | 148    | 201.06%/s | 64.8         | 6            |
-
-</div>
-<div class='talent-columns'>
-<Skill char={lumine} skill='na' sectionFilter='Charged Attack' />
-
-| String         | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------- | :------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack | 102.7%+132.72% | -      | -         | 50.6 x2      | 2 + 6        |
-| N1C            | 317.11%        | 62     | 306.89%/s | -            | -            |
-| N2C            | 396.90%        | 84     | 283.5%/s  | -            | -            |
-| N3C            | 494.23%        | 115    | 260.12%/s | -            | -            |
-| N4C            | 601.35%        | 160    | 225.51%/s | -            | -            |
-
-</div>
-<div class='talent-columns'>
-<Skill char={lumine} skill='na' sectionFilter='Plunging Attack' />
-
-| Type            | Talent 9% | Poise Damage | Impulse Type |
-| :-------------- | :-------- | :----------- | :----------- |
-| Plunge DMG      | 117.46%   | 25           | 2            |
-| Low Plunge DMG  | 234.86%   | 100          | 4            |
-| High Plunge DMG | 293.36%   | 150          | 7            |
-
-</div>
-
-**Notes**
-
-* Lumine is the female traveler.
-
-</TabItem>
-
 <TabItem value='na-aether' label='Aether Normal Attacks'>
 <SkillIcon char={char} skill='na' />
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
-| 1-Hit  | 81.69%    | 13     | 377.03%/s | 41.4         | 3            |
-| 2-Hit  | 79.79%    | 38     | 254.97%/s | 43.2         | 3            |
-| 3-Hit  | 97.33%    | 71     | 218.71%/s | 53.1         | 3            |
-| 4-Hit  | 107.12%   | 123    | 178.5%/s  | 57.6         | 3            |
-| 5-hit  | 130.03%   | 163    | 182.56%/s | 70.2         | 6            |
+import AetherNA from '../_common/aether_na.md'
+
+<AetherNA />
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String         | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------- | :------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack | 102.7%+111.55% | -      | -         | 50.6 x2      | 2 + 6        |
-| N1C            | 295.94%        | 54     | 328.82%/s | -            | -            |
-| N2C            | 297.26%        | 90     | 250.49%/s | -            | -            |
-| N3C            | 374.26%        | 115    | 246.81%/s | -            | -            |
-| N4C            | 459.01%        | 160    | 217.57%/s | -            | -            |
+import AetherCA from '../_common/aether_ca.md'
+
+<AetherCA />
 
 </div>
 <div class='talent-columns'>
@@ -119,6 +68,41 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 
+<TabItem value='na' label='Lumine Normal Attacks'>
+<SkillIcon char={lumine} skill='na' />
+<div class='talent-columns'>
+<Skill char={lumine} skill='na' sectionFilter='Normal Attack' />
+
+import LumineNA from '../_common/lumine_na.md'
+
+<LumineNA />
+
+</div>
+<div class='talent-columns'>
+<Skill char={lumine} skill='na' sectionFilter='Charged Attack' />
+
+import LumineCA from '../_common/lumine_ca.md'
+
+<LumineCA />
+
+</div>
+<div class='talent-columns'>
+<Skill char={lumine} skill='na' sectionFilter='Plunging Attack' />
+
+| Type            | Talent 9% | Poise Damage | Impulse Type |
+| :-------------- | :-------- | :----------- | :----------- |
+| Plunge DMG      | 117.46%   | 25           | 2            |
+| Low Plunge DMG  | 234.86%   | 100          | 4            |
+| High Plunge DMG | 293.36%   | 150          | 7            |
+
+</div>
+
+**Notes**
+
+* Lumine is the female traveler.
+
+</TabItem>
+
 <TabItem value='e' label='Skill'>
 <SkillIcon char={char} skill='e' />
 <div class='talent-columns'>
@@ -129,7 +113,6 @@ import Skill from '@site/src/components/char/Skill'
 | Cutting DMG \(T9%\)           | -            | 20.4% x 2 + 28.56% x 4 | 5.1% x 1 + 7.14% x 4     |
 | Initial/Max Storm DMG \(T9%\) | 299.2%       | 299.2% / 326.4%        | 74.80% / 81.60%          |
 | Particles                     | 2            | 2 / 3~4 (2:1)          | -                        |
-| Frames                        | 60           | 60~145                 | -                        |
 | GU                            | 1U           | 1U                     | 1A                       |
 | ICD                           | 3 hit / 2.5s | 3 hit / 2.5s           | 3 hit / 2.5s             |
 | Snapshot                      | -            | Dynamic                | Dynamic                  |
@@ -161,9 +144,6 @@ import Skill from '@site/src/components/char/Skill'
 | :------------------ | :----------- | :----------------------- |
 | Tornado DMG \(T9%\) | 137.36% \* 9 | 42.16% \* 9              |
 | Tick Rate           | 0.5s         | 0.5s                     |
-| Cast Frames         | 41           | -                        |
-| Energy Frame        | 8            | -                        |
-| CD Frame            | 2            | -                        |
 | GU                  | 1U           | 2B                       |
 | ICD                 | 3 hit / 2.5s | 3 hit / 2.5s             |
 | Snapshot            | Snapshot     | Snapshot                 |
@@ -185,6 +165,22 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import Frames from '@site/src/components/char/Frames'
+
+### Common
+
+import commonFrames from '@site/src/data/frames/Traveler_(Common).json'
+
+<Frames data={commonFrames} />
+
+### Anemo
+
+import anemoFrames from '@site/src/data/frames/Traveler_(Anemo).json'
+
+<Frames data={anemoFrames} />
 
 ## Ascension Passives
 

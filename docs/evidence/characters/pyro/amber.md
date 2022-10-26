@@ -8,6 +8,11 @@ search: false
 
 <Card item={require('../../../characters/pyro/amber.md')} />
 
+## Basic Mechanics
+
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1XDS-RP7G7-htZ4PP9A5SXPbg7Gy-Laksp4oXwObNgf8/edit?usp=sharing) - Kolibri\#7675
+* Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+
 ## Skill Mechanics
 
 ### Baron Bunny's aura

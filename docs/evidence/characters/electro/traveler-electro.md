@@ -10,6 +10,11 @@ search: false
 
 ## Basic Mechanics
 
+* Aether frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/186FpS4ckDENVY4U60xxgevJZj_vdyYWZroIa7P_yDr4/edit?usp=sharing) - Kolibri\#7675
+* Aether frame data \(element\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1QNQwbrySIw6pY3rvmj-SB5dIEgUHWNz1q5zDbQrnwBo/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(common\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1S7cJszsMoQF6ShCvA7hMjiXMuOCoDRwgW1rseP0uC8k/edit?usp=sharing) - Kolibri\#7675
+* Lumine frame data \(element\) - [Google Sheets](https://docs.google.com/spreadsheets/d/1FRagiZK5WkPiqF6aMea8A1YL0XSxbtGOi-oF8MaG7U4/edit?usp=sharing) - Kolibri\#7675
+
 ### Basic Attributes
 
 * Gauges: E (1A), Q (1A), Falling Thunder (1A) - [Artesians#0002](https://imgur.com/DBw7Z8K)

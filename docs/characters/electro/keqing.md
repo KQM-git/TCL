@@ -34,27 +34,26 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%      | Frames  | MV/s      | Poise Damage | Impulse Type |
-| :----- | :------------- | :------ | :-------- | :----------- | :----------- |
-| 1-Hit  | 75.37%         | 11      | 411.11%/s | 38.7         | 3            |
-| 2-Hit  | 75.37%         | 33      | 274.08%/s | 38.7         | 3            |
-| 3-Hit  | 100.01%        | 60      | 250.75%/s | 51.3         | 3            |
-| 4-Hit  | 57.83% + 63.2% | 87 / 97 | 229.97%/s | 31.05 x2     | 3 x2         |
-| 5-Hit  | 123.08%        | 133     | 223.25%/s | 64.8         | 7            |
+| String | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 75.37%         | 21     | 215.34%/s | 38.7         | 3            |
+| 2-Hit  | 75.37%         | 22     | 205.55%/s | 38.7         | 3            |
+| 3-Hit  | 100.01%        | 35     | 171.45%/s | 51.3         | 3            |
+| 4-Hit  | 57.83% + 63.2% | 37     | 196.26%/s | 31.05 x2     | 3 x2         |
+| 5-Hit  | 123.08%        | 66     | 111.89%/s | 64.8         | 7            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 <div>
 
-| String         | Talent 9%      | Poise Damage | Impulse Type |
-| :------------- | :------------- | :----------- | :----------- |
-| Charged Attack | 141.09% + 158% | 47.3 x2      | 2 + 6        |
-
-| String | Frames | MV/s (Talent 9%) |
-| :----- | :----- | :--------------- |
-| N1C    | 63     | 356.63%/s        |
-| N4C    | 150    | 268.35%/s        |
+| String         | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------- | :------------- | :----- |:--------- | :----------- | :----------- |
+| Charged Attack | 141.09% + 158% | 36     | 498.48%/s | 47.3 x2      | 2 + 6        |
+| N1C            | 374.46%        | 63     | 356.63%/s | -            | -            |
+| N2C            | 449.83%        | 87     | 310.23%/s | -            | -            |
+| N3C            | 549.84%        | 123    | 268.21%/s | -            | -            |
+| N4C            | 670.87%        | 178    | 226.14%/s | -            | -            |
 
 </div>
 
@@ -88,8 +87,6 @@ import Skill from '@site/src/components/char/Skill'
 | Lightning Stiletto \(T9%\)      | 85.68%                                            | -                 |
 | Stiletto Mark Secondary \(T9%\) | 285.6%                                            | 142.8% x 2        |
 | Particles                       | 2~3 \(1:1\)                                       | -                 |
-| Frames                          | 34                                                | -                 |
-| Frames Secondary                | 84                                                | 90                |
 | GU                              | 2B                                                | -                 |
 | ICD                             | None                                              | -                 |
 | ICD Secondary                   | 3 hit / 2.5s                                      | -                 |
@@ -125,9 +122,6 @@ import Skill from '@site/src/components/char/Skill'
 | Cast DMG \(T9%\)              | 149.6%                                                                                       |
 | Consecutive Slash DMG \(T9%\) | 40.8% x 8                                                                                    |
 | Last Attack DMG \(T9%\)       | 320.96%                                                                                      |
-| Cast Frames                   | 125                                                                                          |
-| Energy Frame                  | 60                                                                                           |
-| CD Frame                      | 54                                                                                           |
 | GU                            | 1U                                                                                           |
 | ICD                           | 3 hit / 2.5s                                                                                 |
 | Snapshot                      | Dynamic                                                                                      |
@@ -151,6 +145,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Keqing.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

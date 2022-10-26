@@ -34,25 +34,20 @@ import Skill from '@site/src/components/char/Skill'
 
 | String   | Talent 9% | Frames | MV/s      | Poise Damage\* | Impulse Type\* |
 | :------- | :-------- | :----- | :-------- | :------------- | :------------- |
-| 1-Hit    | 145.57%   | 23     | 379.75%/s | 82.9           | 3              |
-| 2-Hit    | 140.3%    | 67     | 256%/s    | 77.9           | 3              |
-| 3-Hit    | 168.36%   | 101    | 269.84%/s | 98.3           | Heavy, 500, 0  |
-| 4-Hit    | 215.37%   | 181    | 221.97%/s | 124.5          | 5              |
-| Recovery | 669.6%    | 202    | 198.89%/s | -              | -              |
+| 1-Hit    | 145.57%   | 42     | 207.96%/s | 82.9           | 3              |
+| 2-Hit    | 140.3%    | 45     | 187.07%/s | 77.9           | 3              |
+| 3-Hit    | 168.36%   | 53     | 190.60%/s | 98.3           | Heavy, 500, 0  |
+| 4-Hit    | 215.37%   | 93     | 138.95%/s | 124.5          | 5              |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String                           | Talent 9% | Frames | MV/s      | Poise Damage\*                        | Impulse Type\* |
-| :------------------------------- | :-------- | :----- | :-------- | :------------------------------------ | :------------- |
-| Arataki Kesagiri Combo Slash DMG | 167.48%   | -      | -         | 1 stack: 143.4 <br/> 2-5 stacks: 81.7 | Heavy, 250, 0  |
-| Arataki Kesagiri Final Slash DMG | 350.76%   | -      | -         | 143.4                                 | Air, 100, 800  |
-| Saichimonji Slash DMG            | 131.5%    | -      | -         | 120                                   | 5              |
-| 5CA                              | 807.5%    | 180    | 340.23%/s | -                                     | -              |
-| 5CA w/Recovery                   | -         | 207    | 295.85%/s | -                                     | -              |
-| SCAF                             | 350.76%   | 74     | 284.4%/s  | -                                     | -              |
-| SCAF w/Recovery                  | -         | 102    | 206.33%/s | -                                     | -              |
+| String                           | Talent 9% | Frames          | MV/s      | Poise Damage\*                        | Impulse Type\* |
+| :------------------------------- | :-------- | :-------------- | :-------- | :------------------------------------ | :------------- |
+| Arataki Kesagiri Combo Slash DMG | 167.48%   | 113 \(1 stack\) | 88.93%/s  | 1 stack: 143.4 <br/> 2-5 stacks: 81.7 | Heavy, 250, 0  |
+| Arataki Kesagiri Final Slash DMG | 350.76%   | 119             | 176.85%/s | 143.4                                 | Air, 100, 800  |
+| Saichimonji Slash DMG            | 131.50%   | 141             | 70.73%/s  | 120                                   | 5              |
 
 </div>
 <div class='talent-columns'>
@@ -88,7 +83,6 @@ import Skill from '@site/src/components/char/Skill'
 | Skill DMG \(T9%\) | 522.24%       |
 | Inherited HP      | 100%          |
 | Particles         | 3~4 \(1:1\)   |
-| Frames            | 26            |
 | GU                | 1U            |
 | ICD               | 1s            |
 | Snapshot          | -             |
@@ -123,9 +117,6 @@ import Skill from '@site/src/components/char/Skill'
 | ATK Bonus \(T9%\) | 97.92% DEF |
 | ATK SPD Bonus     | 10%        |
 | Energy Cost       | 70         |
-| Cast Frames       | 92         |
-| Energy Frame      | 6          |
-| CD Frame          | 1          |
 | Duration          | 11s        |
 | CD                | 18s        |
 
@@ -145,6 +136,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Arataki_Itto.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

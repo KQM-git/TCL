@@ -30,10 +30,10 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type  |
 | :----- | :--------------- | :----- | :-------- | :----------- | :------------ |
-| 1-Hit  | 90.5%            |        |           | 45.82        | 3             |
-| 2-Hit  | 88.04%           |        |           | 44.58        | 3             |
-| 3-Hit  | 53.84% \+ 53.84% |        |           | 27.26 ×2     | 2 \+ 3        |
-| 4-Hit  | 139.43%          |        |           | 70.60        | 3             |
+| 1-Hit  | 90.5%            | 16     | 339.38%/s | 45.82        | 3             |
+| 2-Hit  | 88.04%           | 30     | 176.08%/s | 44.58        | 3             |
+| 3-Hit  | 53.84% \+ 53.84% | 32     | 201.90%/s | 27.26 ×2     | 2 \+ 3        |
+| 4-Hit  | 139.43%          | 65     | 128.70%/s | 70.60        | 3             |
 
 </div>
 <div class='talent-columns'>
@@ -41,7 +41,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 224.83%          |        |           | 120          | 5            |
+| CA     | 224.83%          | 24     | 201.34%/s | 120          | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -66,7 +66,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-----------------------  | :---------- | :------------ |
 | DMG \(T9%\)               | 221.68%     | 266.56%       |
 | Particles                 | 2~3 \(1:1\) | 1~2 \(1:2\)   |
-| Frames                    |             |               |
 | GU                        | 1A          | 1A            |
 | ICD                       | 0.2s        | None          |
 | Snapshot                  |             |               |
@@ -88,9 +87,6 @@ import Skill from '@site/src/components/char/Skill'
 
 | Attribute         | Burst           |
 | :---------------- | :-------------- |
-| Cast Frames       | 85              |
-| Energy Frame      | 6               |
-| CD Frame          | 2               |
 | GU                | 1A              |
 | ICD               | 3 hit / 2.5s    |
 | Snapshot          | Dynamic         |
@@ -107,15 +103,15 @@ import Skill from '@site/src/components/char/Skill'
 
 | String     | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type  |
 | :--------- | :-------- | :----- | :-------- | :----------- | :------------ |
-| 1-Hit      | 143.82%   |        |           | 46.98        | 3             |
-| 2-Hit      | 151.51%   |        |           | 49.91        | 3             |
-| 3-Hit      | 178.85%   |        |           | 64.02        | Heavy, 550, 0 |
-| 4-Hit      | 94.97% x2 |        |           | 32.50 x2     | 2 \+ 3        |
-| 5-Hit      | 240.39%   |        |           | 77.70        | 5             |
+| 1-Hit      | 143.82%   | 17     | 507.6%/s  | 46.98        | 3             |
+| 2-Hit      | 151.51%   | 32     | 284.08%/s | 49.91        | 3             |
+| 3-Hit      | 178.85%   | 43     | 268.23%/s | 64.02        | Heavy, 550, 0 |
+| 4-Hit      | 94.97% x2 | 30     | 379.88%/s | 32.50 x2     | 2 \+ 3        |
+| 5-Hit      | 240.39%   | 69     | 240.39%/s | 77.70        | 5             |
 
 | String | Talent 9%        | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----- | :--------------- | :----- | :-------- | :----------- | :----------- |
-| CA     | 185.65%          |        |           | 120          | 6            |
+| CA     | 185.65%          | 69     | 161.43%/s | 120          | 6            |
 
 | Damage Type     | Talent 9% |
 | :-------------- | :-------- |
@@ -125,6 +121,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Cyno.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

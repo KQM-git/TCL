@@ -1,0 +1,87 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 19,
+        "hitlag": 0,
+        "default": 30
+    }, 
+    {
+        "name": "N2",
+        "release": 11,
+        "hitlag": 0,
+        "default": 21
+    },
+    {
+        "name": "N3",
+        "release": 21,
+        "hitlag": 0,
+        "default": 44
+    },
+    {
+        "name": "N4",
+        "release": 10,
+        "hitlag": 0,
+        "default": 21
+    },
+    {
+        "name": "N5",
+        "release": 38,
+        "hitlag": 0,
+        "default": 73
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 23
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 94,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 11,
+        "n1": 33,
+        "skill": 34,
+        "burst": 33,
+        "dash": 11,
+        "jump": 11,
+        "swap": 15,
+        "cd": 5
+    },
+    {
+        "name": "Hold",
+        "hitmark": 41,
+        "n1": 36,
+        "skill": 49,
+        "burst": 67,
+        "dash": 32,
+        "jump": 31,
+        "swap": 23,
+        "cd": 29
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 58,
+        "n1": 64,
+        "skill": 64,
+        "dash": 63,
+        "jump": 44,
+        "swap": 41,
+        "cd": 41,
+        "energy": 43,
+        "notes": "Tick 1: 175f"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 29
+    }]
+}

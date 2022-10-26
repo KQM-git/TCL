@@ -12,6 +12,7 @@ search: false
 
 ### Attack Attributes
 
+* Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1j3Hzo25qSqo-ZbQBiBqcejR1aa91igSVTxH1xoKYrfc/edit?usp=sharing) - Shizuka\#7791
 * Gauges
   * Normals, Charged Attack, Bake-Kurage ticks: 1U - [CC#5588](https://youtu.be/ptkH5hwPGzg)
   * Burst Cast: 2U - [Faranight#0001](https://www.youtube.com/watch?v=Au9DbQOI1us)
@@ -23,7 +24,6 @@ search: false
 * Range
   * NA: 6 tiles - [deRykcihC#0621](https://youtu.be/77a8573xzag)
   * E Radius: 2.5 tiles - [deRykcihC#0621](https://youtu.be/04pVUvJJm4A)
-* Frames:
 
 ## Normal Attack Mechanics
 

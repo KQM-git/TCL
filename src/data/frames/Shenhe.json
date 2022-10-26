@@ -1,0 +1,94 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 14,
+        "hitlag": 0.02,
+        "default": 29,
+        "ca": 28
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 17,
+        "hitlag": 0.02,
+        "default": 23,
+        "ca": 35
+    },
+    {
+        "name": "N3",
+        "hitmark": 19,
+        "hitlag": 0.02,
+        "default": 38,
+        "ca": 39
+    },
+    {
+        "name": "N4",
+        "hitmark": [14, 18],
+        "hitlag": [0, 0.02],
+        "default": 30,
+        "ca": 32
+    },
+    {
+        "name": "N5",
+        "hitmark": 26,
+        "hitlag": 0.10,
+        "default": 59,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 25,
+        "hitlag": 0,
+        "n1": 52,
+        "skill": 53,
+        "burst": 54,
+        "walk": 85,
+        "dash": 29,
+        "jump": 29,
+        "swap": 50
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 4,
+        "n1": 45,
+        "skill": 32,
+        "burst": 31,
+        "walk": 42,
+        "dash": 25,
+        "jump": 25,
+        "swap": 31,
+        "cd": 2
+    },
+    {
+        "name": "Hold",
+        "hitmark": 33,
+        "n1": 45,
+        "skill": "See notes",
+        "burst": 45,
+        "walk": 78,
+        "dash": 38,
+        "jump": 39,
+        "swap": 44,
+        "cd": 31,
+        "notes": [
+            "Hold E -> Press E cancel: 45f",
+            "Hold E -> Hold E cancel: 52f"
+        ]
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 79,
+        "n1": 100,
+        "skill": 100,
+        "walk": 78,
+        "dash": 38,
+        "jump": 39,
+        "swap": 97,
+        "cd": 0,
+        "energy": 5,
+        "notes": [
+            "Tick 1: 129f",
+            "DoT interval: 32f between ticks 1 and 2, 86f between ticks 3 and 4, repeat",
+            "A1 start: 47f"
+        ]
+    }
+}

@@ -12,25 +12,18 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897812961303863386_917960336223666197_transcript-thoma-basic-mechanics.html)
 
-* Gauges - by Nass008\#8577
-  * E: 1U - [https://imgur.com/etqEtrf](https://imgur.com/etqEtrf)
-  * Q Initial Hit: 2U - [https://youtu.be/Od_n0SFK6x8](https://youtu.be/Od_n0SFK6x8)
-  * Q Coordinated Atk: 1U - [https://imgur.com/uM78uT9](https://imgur.com/uM78uT9)
+* New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1QtllZ_QKQIJNGnD4FILZCB307aA8YtDfpG6pcYndl5E/edit?usp=sharing) - Kolibri\#7675
+* Deprecated frame data - [YouTube](https://youtu.be/k09by2ciPQM) - pai\#3602
+* Gauges - Nass008\#8577
+  * E: 1U - [Imgur](https://imgur.com/etqEtrf)
+  * Q Initial Hit: 2U - [Imgur](https://youtu.be/Od_n0SFK6x8)
+  * Q Coordinated Atk: 1U - [Imgur](https://imgur.com/uM78uT9)
 * ICD
-  * NA follows standard ICD - [Bobrokrot\#0111](https://youtu.be/GkWJO_tWn50)
-  * Thoma Q follows standard ICD - [YouTube](https://youtu.be/L2y1hf-RqO4) / [Frames](https://imgur.com/MDSh99X) - by Nass008\#8577
-  * Q initial hit and coordinated attack do not share ICD - [Nass008\#8577](https://youtu.be/RaaBR5VlX3w)
+  * NA follows standard ICD - [YouTube](https://youtu.be/GkWJO_tWn50) - Bobrokrot\#0111
+  * Thoma Q follows standard ICD - [YouTube](https://youtu.be/L2y1hf-RqO4) / Deprecated frame data - [Imgur](https://imgur.com/MDSh99X) - Nass008\#8577
+  * Q initial hit and coordinated attack do not share ICD - [YouTube](https://youtu.be/RaaBR5VlX3w) - Nass008\#8577
 * Snapshotting
-  * Q is dynamic - [Nass008\#8577](https://imgur.com/rZR9Xeh)
-* Frames - by [pai\#3602](https://youtu.be/k09by2ciPQM)
-  * NA 1-Hit: 11
-  * NA 2-Hit: 49
-  * NA 3-Hit: 76+89
-  * NA 4-Hit: 114
-  * With Recovery: 155
-  * CA: 14+56
-  * E: 44
-  * Q: 56
+  * Q is dynamic - [Imgur](https://imgur.com/rZR9Xeh) - Nass008\#8577
 
 ## Skill Mechanics
 

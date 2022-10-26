@@ -1,0 +1,88 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 13,
+        "hitlag": 0,
+        "default": 15
+    }, 
+    {
+        "name": "N2",
+        "release": 13,
+        "hitlag": 0,
+        "default": 21
+    },
+    {
+        "name": "N3",
+        "release": 18,
+        "hitlag": 0,
+        "default": 38
+    },
+    {
+        "name": "N4",
+        "release": [15, 29],
+        "hitlag": [0, 0],
+        "default": 67
+    }],
+    "CA": [{
+        "name": "CA (Physical)",
+        "release": 15,
+        "hitlag": 0,
+        "default": 25
+    },
+    {
+        "name": "CA (Elemental)",
+        "release": 86,
+        "hitlag": 0,
+        "default": 96,
+        "notes": "Hitlag is 0.12s if it hits a weakspot"
+    },
+    {
+        "name": "CA (Breakthrough Barb)",
+        "release": 32,
+        "hitlag": 0,
+        "default": 42
+    }],
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 35,
+        "n1": 41,
+        "burst": 41,
+        "dash": 41,
+        "jump": 41,
+        "swap": 40,
+        "cd": 33,
+        "notes": "Press E: wires appear on 2f; earliest Exquisite Throw procs 25f, 30f, and 35f "
+    },
+    {
+        "name": "Hold",
+        "hitmark": 256,
+        "n1": 259,
+        "burst": 261,
+        "dash": 263,
+        "jump": 263,
+        "swap": 269,
+        "cd": 254,
+        "notes": "Hold E: wires appear on 3f; earliest Exquisite Throw procs 20f, 21f, and 28f "
+    }],
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 76,
+        "hitlag": 0.05,
+        "n1": 94,
+        "skill": 95,
+        "dash": 96,
+        "jump": 94,
+        "swap": 93,
+        "cd": 0,
+        "energy": 5,
+        "notes": "Earliest Exquisite Throw procs: 23f, 30f, 35f"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 22
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

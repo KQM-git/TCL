@@ -1,0 +1,72 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 13,
+        "hitlag": 0.06,
+        "default": 28,
+        "ca": 29
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 18,
+        "hitlag": 0.09,
+        "default": 37,
+        "ca": 35
+    },
+    {
+        "name": "N3",
+        "hitmark": [10, 23],
+        "hitlag": [0, 0],
+        "default": 31,
+        "ca": 32
+    },
+    {
+        "name": "N4",
+        "hitmark": 20,
+        "hitlag": 0,
+        "default": 58,
+        "ca": "N/A"
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 28,
+        "hitlag": 0,
+        "n1": 68,
+        "skill": 68,
+        "burst": 68,
+        "dash": 38,
+        "jump": 38,
+        "swap": 67
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 11,
+        "hitlag": 0.06,
+        "n1": 54,
+        "burst": 54,
+        "dash": 40,
+        "jump": 40,
+        "swap": 52,
+        "cd": 9
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 40,
+        "n1": 57,
+        "skill": 56,
+        "dash": 57,
+        "jump": 58,
+        "swap": 56,
+        "cd": 0,
+        "energy": 7,
+        "notes": "Fiery Collapse hitmark: 11f after an N1 animation starts"
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 19
+    },
+    {
+        "name": "Jump",
+        "default": 28
+    }]
+}

@@ -35,13 +35,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9%     | Frames    | MV/s      | Poise Damage | Impulse Type |
-| :----- | :------------ | :-------- | :-------- | :----------- | :----------- |
-| 1-Hit  | 85.64%        | 9         | 570.93%/s | 47.7         | 3            |
-| 2-Hit  | 87.53%        | 34        | 305.59%/s | 49.5         | 3            |
-| 3-Hit  | 52.46% \(x2\) | 59 / 78   | 213.92%/s | 29.3 x2      | 3 x2         |
-| 4-Hit  | 102.86%       | 116       | 197.04%/s | 57.6         | 3            |
-| 5-Hit  | 65.89% \(x2\) | 160 / 195 | 157.76%/s | 36.81 x2     | 6 x2         |
+| String | Talent 9%     | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :------------ | :----- | :-------- | :----------- | :----------- |
+| 1-Hit  | 85.64%        | 24     | 214.10%/s | 47.7         | 3            |
+| 2-Hit  | 87.53%        | 30     | 175.06%/s | 49.5         | 3            |
+| 3-Hit  | 52.46% \(x2\) | 41     | 153.54%/s | 29.3 x2      | 3 x2         |
+| 4-Hit  | 102.86%       | 36     | 171.43%/s | 57.6         | 3            |
+| 5-Hit  | 65.89% \(x2\) | 86     | 91.94%/s  | 36.81 x2     | 6 x2         |
 
 </div>
 <div class='talent-columns'>
@@ -49,8 +49,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | String         | Talent 9%       | Frames | MV/s      | Poise Damage | Impulse Type |
 | :------------- | :-------------- | :----- | :-------- | :----------- | :----------- |
-| Charged Attack | 86.9% + 103.17% | -      | -         | 50.3 x2      | 2 + 6        |
-| N1C            | 218.13%         | 63     | 262.58%/s | -            | -            |
+| Charged Attack | 86.9% + 103.17% | 58     | 196.62%/s | 50.3 x2      | 2 + 6        |
+| N1C            | 275.71%         | 99     | 167.10%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -79,7 +79,6 @@ import Skill from '@site/src/components/char/Skill'
 | :-------------- | :--------------- |
 | Skill DMG (T9%) | 285.6% + 325.04% |
 | Particles       | 5 \(-\)          |
-| Frames          | 82               |
 | GU              | 1A \(x2\)        |
 | ICD             | None             |
 | Damage Element  | Hydro            |
@@ -105,7 +104,6 @@ import Skill from '@site/src/components/char/Skill'
 * After the **Rain Swords** pop, there is a small window of time where Xingqiu can apply hydro to enemies, even if the rain swords aren't visible
   * This occurs with the orbitals created by both Xingqiu's Skill and Burst
 * Only one **Rain Sword** can be shattered at a time, and the shattering has a cooldown of 1.5s.
-* While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 36 and start casting **Guhua Sword: Raincutter** on frame 58.
 * Using **Guhua Sword: Fatal Rainscreen** applies a very brief 1U Hydro aura onto the character.
 * EQE is about 0.5 \- 1s slower on average compared to QEE or EEQ in teams where Xingqiu's E CD gates the rotation time. See more in this [Vault Entry](../../evidence/characters/hydro/xingqiu.md#xingqiu-eqe-vs-qee).
 * The DMG Reduction is affected by Mistsplitter's passive.
@@ -120,9 +118,6 @@ import Skill from '@site/src/components/char/Skill'
 | Attribute            | Burst                             |
 | :------------------- | :-------------------------------- |
 | Sword Rain DMG (T9%) | 92.26%                            |
-| Cast Frames          | 29                                |
-| Energy Frame         | 7                                 |
-| CD Frame             | 1                                 |
 | GU                   | 1A                                |
 | ICD                  | 3 hit / 2.5s                      |
 | Snapshot             | Dynamic                           |
@@ -153,6 +148,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Xingqiu.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

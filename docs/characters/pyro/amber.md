@@ -33,13 +33,13 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String | Talent 9% | Frames | MV/s    | Poise Damage | Impulse Type |
-| :----- | :-------- | :----- | :------ | :----------- | :----------- |
-| 1-hit  | 66.36%    | 15     | 265.44% | 12.9         | 1            |
-| 2-Hit  | 66.36%    | 33     | 241.31% | 13.2         | 1            |
-| 3-Hit  | 85.32%    | 72     | 181.70% | 15           | 1            |
-| 4-Hit  | 86.9%     | 113    | 161.92% | 14.4         | 1            |
-| 5-Hit  | 109.02%   | 144    | 172.48% | 16.5         | 1            |
+| String | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :----- | :-------- | :----- | :-------- | :----------- | :----------- |
+| 1-hit  | 66.36%    | 26     | 153.14%/s | 12.9         | 1            |
+| 2-Hit  | 66.36%    | 22     | 180.98%/s | 13.2         | 1            |
+| 3-Hit  | 85.32%    | 37     | 138.36%/s | 15           | 1            |
+| 4-Hit  | 86.9%     | 34     | 153.35%/s | 14.4         | 1            |
+| 5-Hit  | 109.02%   | 60     | 109.02%/s | 16.5         | 1            |
 
 </div>
 <div class='talent-columns'>
@@ -47,10 +47,8 @@ import Skill from '@site/src/components/char/Skill'
 
 | Type          | Talent 9% | Frames | MV/s       | GU  | Poise Damage        | Impulse Type |
 | :------------ | :-------- | :----- | :--------- | :-- | :------------------ | :----------- |
-| Aimed Shot    | 80.58%    | 15     | 322.32%/s  | -   | 10 \(Headshot: 30\) | 2            |
-| With Recovery | -         | 25     | 193.392%/s | -   | -                   | -            |
-| Fully Charged | 210.8%    | 86     | 147.07%/s  | 2B  | 20 \(Headshot: 60\) | 5            |
-| With Recovery | -         | 96     | 131.75%/s  | -   | -                   | -            |
+| Aimed Shot    | 80.58%    | 25     | 193.39%/s  | -   | 10 \(Headshot: 30\) | 2            |
+| Fully Charged | 210.8%    | 96     | 131.75%/s  | 2B  | 20 \(Headshot: 60\) | 5            |
 
 </div>
 <div class='talent-columns'>
@@ -80,7 +78,6 @@ import Skill from '@site/src/components/char/Skill'
 | Explosion DMG \(T9%\)  | 209.44%   |
 | Inherited HP \(T9%\)   | 70.31%    |
 | Particles              | 4 \(-\)   |
-| Frames                 | 35        |
 | GU                     | 2B        |
 | ICD                    | None      |
 | Snapshot               | Snapshots |
@@ -118,9 +115,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :---------------------------------------------- |
 | Wave DMG \(T9%\)  | 47.74%                                          |
 | Total DMG \(T9%\) | 859.25% \(18 Waves\)                            |
-| Cast Frames       | 135                                             |
-| Energy Frame      | 64                                              |
-| CD Frame          | 58                                              |
 | GU                | 1A                                              |
 | ICD               | 3 hits / 1s                                     |
 | Snapshot          | Snapshots                                       |
@@ -145,6 +139,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Amber.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

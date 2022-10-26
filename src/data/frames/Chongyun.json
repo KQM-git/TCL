@@ -1,0 +1,57 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 26,
+        "hitlag": 0.10,
+        "default": 40
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 24,
+        "hitlag": 0.09,
+        "default": 40
+    },
+    {
+        "name": "N3",
+        "hitmark": 41,
+        "hitlag": 0.12,
+        "default": 69
+    },
+    {
+        "name": "N4",
+        "hitmark": 53,
+        "hitlag": 0.12,
+        "default": 113
+    }],
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 36,
+        "hitlag": 0.09,
+        "n1": 58,
+        "burst": 57,
+        "dash": 41,
+        "jump": 41,
+        "swap": 55,
+        "cd": 34,
+        "notes": "A4 hitmark: 665f"
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": [50, 59, 67],
+        "n1": 64,
+        "skill": 64,
+        "dash": 64,
+        "jump": 66,
+        "swap": 79,
+        "cd": 0,
+        "energy": 6
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 32
+    }]
+}

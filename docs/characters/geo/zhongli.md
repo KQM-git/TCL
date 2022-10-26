@@ -33,24 +33,23 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Normal Attack' />
 
-| String   | Talent 9%          | Frames              | MV/s      | Poise Damage | Impulse Type |
-| :------- | :----------------- | :------------------ | :-------- | :----------- | :----------- |
-| 1-Hit    | 56.53%             | 8                   | 423.98%/s | 33.76        | 3 / 4\*      |
-| 2-Hit    | 57.23%             | 29                  | 235.37%/s | 34.32        | 3            |
-| 3-Hit    | 70.87%             | 45                  | 246.17%/s | 42           | 3            |
-| 4-Hit    | 78.89%             | 71                  | 222.69%/s | 45.92        | 4            |
-| 5-Hit    | 19.75% x 4 \(79%\) | 91 + 97 + 103 + 109 | 188.54%/s | 11.52 x4     | 2 x4         |
-| 6-Hit    | 100.12%            | 153                 | 173.58%/s | 61.52        | 6            |
-| Recovery | -                  | 200                 | 132.79%/s | -            | -            |
+| String   | Talent 9%          | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------- | :----------------- | :----- | :-------- | :----------- | :----------- |
+| 1-Hit    | 56.53%             | 24     | 141.33%/s | 33.76        | 3 / 4\*      |
+| 2-Hit    | 57.23%             | 19     | 180.73%/s | 34.32        | 3            |
+| 3-Hit    | 70.87%             | 25     | 170.09%/s | 42           | 3            |
+| 4-Hit    | 78.89%             | 40     | 118.34%/s | 45.92        | 4            |
+| 5-Hit    | 19.75% x 4 \(79%\) | 31     | 152.90%/s | 11.52 x4     | 2 x4         |
+| 6-Hit    | 100.12%            | 60     | 100.12%/s | 61.52        | 6            |
 
 </div>
 <div class='talent-columns'>
 <Skill char={char} skill='na' sectionFilter='Charged Attack' />
 
-| String         | Talent 9% | Frames | MV/s | Poise Damage | Impulse Type |
-| :------------- | :-------- | :----- | :--- | :----------- | :----------- |
-| Charged Attack | 203.98%   | -      | -    | 103.28       | Air, 0, 450  |
-| N1C            | 260.51%   | -      | -    | -            | -            |
+| String         | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
+| :------------- | :-------- | :----- | :-------- | :----------- | :----------- |
+| Charged Attack | 203.98%   | 55     | 222.52%/s | 103.28       | Air, 0, 450  |
+| N1C            | 260.51%   | 91     | 171.76%/s | -            | -            |
 
 </div>
 <div class='talent-columns'>
@@ -86,7 +85,6 @@ import Skill from '@site/src/components/char/Skill'
 | :---------------- | :------------ | :------------ | :------------ |
 | Skill DMG \(T9%\) | 27.2%         | 54.4%         | 136%          |
 | Particles         | -             | 0~1 \(1:1\)   | -             |
-| Frames            | 39            | -             | 97            |
 | GU                | 2U            | 1U            | 1U            |
 | ICD               | 3 hits / 2.5s | 3 hits / 2.5s | 3 hits / 2.5s |
 | Snapshot          | Snapshot      | Snapshot      | Snapshot      |
@@ -133,9 +131,6 @@ import Skill from '@site/src/components/char/Skill'
 | :--------------------- | :---------------------------------- |
 | Skill DMG \(T9%\)      | 834.68%                             |
 | Petrification Duration | 3.9s                                |
-| Cast Frames            | 140                                 |
-| Energy Frame           | 6                                   |
-| CD Frame               | 2                                   |
 | GU                     | 4U                                  |
 | ICD                    | 3 hits / 2.5s                       |
 | Snapshot               | Dynamic                             |
@@ -155,6 +150,13 @@ import Skill from '@site/src/components/char/Skill'
 
 </TabItem>
 </Tabs>
+
+## Frames
+
+import charFrames from '@site/src/data/frames/Zhongli.json'
+import Frames from '@site/src/components/char/Frames'
+
+<Frames data={charFrames} />
 
 ## Ascension Passives
 

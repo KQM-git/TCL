@@ -1,0 +1,68 @@
+{
+    "NA": [{
+        "name": "N1",
+        "release": 4,
+        "hitlag": 0,
+        "default": 14,
+        "ca": 19,
+        "walk": 30
+    }, 
+    {
+        "name": "N2",
+        "release": 12,
+        "hitlag": 0,
+        "default": 30,
+        "ca": 34,
+        "walk": 35
+    },
+    {
+        "name": "N3",
+        "release": 12,
+        "hitlag": 0,
+        "default": 65,
+        "ca": 59,
+        "walk": 61
+    }],
+    "CA": {
+        "name": "CA",
+        "release": 48,
+        "hitlag": 0,
+        "n1": 61,
+        "ca": 62,
+        "skill": 62,
+        "burst": 62,
+        "walk": 76,
+        "swap": 60
+    },
+    "Skill": {
+        "name": "Cast",
+        "hitmark": 24,
+        "n1": 60,
+        "ca": 64,
+        "burst": 62,
+        "walk": 62,
+        "dash": 29,
+        "jump": 29,
+        "swap": 60,
+        "cd": 24,
+        "notes": [
+            "Tick 1 hitmark: 24f",
+            "Tick 2 hitmark: 150f",
+            "DoT interval: 2s"
+        ]
+    },
+    "Burst": {
+        "name": "Cast",
+        "hitmark": 49,
+        "n1": 77,
+        "ca": 78,
+        "skill": 76,
+        "walk": 76,
+        "dash": 76,
+        "jump": 76,
+        "swap": 76,
+        "cd": 46,
+        "energy": 57,
+        "notes": "Energy is with ~120ms ping"
+    }
+}
