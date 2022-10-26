@@ -168,8 +168,8 @@ import Constellation from '@site/src/components/char/Constellation'
 
 **Notes**
 
-* Skill and C4 have differnet ICD.
-* C4 damage scales with Elemental Skill Damage \%.
+* Skill and C4 have different ICD.
+* C4 damage scales with Elemental Skill Damage %.
 * C4 can generate particles.
 * No cooldown for particle generation between Skill and C4.
 
