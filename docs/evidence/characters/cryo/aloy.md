@@ -16,6 +16,7 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/11uyES6x6UFGm2bqcsY4dPSqLgsELrdkPv145NmMwTmc/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges
   * Charged Shot: 1A - [BowlSoldier#3528](https://youtu.be/pjKp7L8XtOo)
   * Infused Normal Attacks: 1A - [Nass008#8577](https://imgur.com/NTokDRL)

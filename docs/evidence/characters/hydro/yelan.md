@@ -14,6 +14,7 @@ search: false
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1k4f8EkgneV_588EpJlDavx_0zyFi5ZiWd0HdUV6wx38/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data:
   * NA, E - [Google Sheets](https://docs.google.com/spreadsheets/d/1AFuUjLFCVGQeX49v6_RomOMUzSjn_lrImYj2Pkp_Bho/edit?usp=sharing) - pai\#3602
 * Gauges - [Video](https://youtu.be/kVB-pt8txps) - CC\#5588

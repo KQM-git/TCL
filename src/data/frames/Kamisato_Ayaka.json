@@ -56,9 +56,9 @@
         "name": "Cast",
         "hitmark": 104,
         "n1": 124,
-        "skill": 125,
-        "dash": 124,
-        "jump": 114,
+        "skill": 124,
+        "dash": 125,
+        "jump": 113,
         "swap": 123,
         "cd": 0,
         "energy": 8

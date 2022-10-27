@@ -73,9 +73,10 @@
         "n1": 143,
         "ca": 143,
         "skill": 143,
+        "walk": 106,
         "dash": 107,
-        "jump": 106,
-        "swap": 104,
+        "jump": 108,
+        "swap": 105,
         "cd": 7,
         "energy": 12,
         "notes": [

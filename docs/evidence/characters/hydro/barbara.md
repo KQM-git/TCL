@@ -11,6 +11,7 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_OywCjjSW8PeYPPniBLVnoTZ8uQ2L_GLKYmQvFTHV0/edit?usp=sharing) - phaZZi\#6461 & Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 
 ## Skill Mechanics
 

@@ -15,6 +15,7 @@ search: false
 ### Attack Attributes
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1rECAO_yOwB4sDJ70z75pJr6fQsQjx5kgsOWtylcAGLk/edit?usp=sharing) - Kolibri\#7675
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data:
   * E-reduced CA level 2 - 30 \(38 with recovery\) - BowTae#0141(count), [flamescion#9370](https://www.youtube.com/watch?v=sG-hT06nSG0)
   * Q - 116 - [Zakharov#5645](https://youtu.be/jZNdJEjbJUQ)

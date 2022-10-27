@@ -9,6 +9,7 @@
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_927459391739924490_930781121459945472_transcript-shenhe-basic-mechanics.html)
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1CeCbNYTXozBDeeRerGJFLWwsKrKz3K3-PydNSBATx8E/edit?usp=sharing) - Kurt\#5846, Kolibri\#7675 & Xreejan\#1180
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1imqcBjbwt0aXxgNk4aA62KoCIyvRP57I2cHGTzhxo4M/edit?usp=sharing) - TWICE\#9958
   * Q: 75 - [Video](https://youtu.be/4mFOlxCVYL0) - CC\#5588
 * Gauges - [Video](https://youtu.be/fM5RY6uoA28) - CC\#5588

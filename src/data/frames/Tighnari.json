@@ -57,11 +57,11 @@
     "Burst": {
         "name": "Cast",
         "release": 77,
-        "n1": 90,
-        "skill": 92,
-        "dash": 92,
-        "jump": 92,
-        "swap": 90,
+        "n1": 114,
+        "skill": 117,
+        "dash": 117,
+        "jump": 118,
+        "swap": 115,
         "cd": 0,
         "energy": 7,
         "notes": [

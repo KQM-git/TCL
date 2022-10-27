@@ -13,6 +13,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_949044550100484136_transcript-yae-miko-basic-mechanics.html)
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1G8_pp_NFtM1wteo_xRZaG-lTcS3NZ1vADVmjFFp_SOk/edit?usp=sharing) - Kolibri\#7675
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1829DWWTF7atMB_QM5eaYWyXK4OHvaxkD9TKvrnNA298/edit?usp=sharing) - pai\#3602
 * ICDs:
   * NA: 3-hit/2.5s - [Video](https://youtu.be/zPJ2trNFn3M) - pai\#3602
