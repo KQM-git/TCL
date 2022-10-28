@@ -1634,6 +1634,24 @@ Knowledge of open world mechanics and that I hate this tc thing I’m never doin
 
 Additional credits to Aevean Leeow\#1362 and f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
 
+### Blooming Light Stamina Regeneration
+
+**By:** sexyeboy69\#2687  
+**Added:** <Version date="2022-10-25" />  
+**Last tested:** <VersionHl date="2022-10-25" />
+[Discussion](https://tickets.deeznuts.moe/transcripts/blooming-light-stamina-regeneration)  
+
+**Finding:**  
+Lumenstone Adjuvant restores 10 Stamina every time it is used \(at level 9 and above\).  
+  
+**Evidence:**  
+In [this video](https://youtu.be/t4rjtB6m15U), we see that Blooming Light is used 41 times \(beginning dash and first use will not be counted, as Stamina will overcap and dash uses extra Stamina\). Zhongli is sprinting from 0:09 to 1:39, which is 90 seconds. Sprinting costs 18 Stamina per second, but we have 15% \(Anemo Resonance\) \+ 20% \(Razor Passive\) \+ 25% \(Food\) = 60% Stamina reduction. Each second of sprinting costs 18 \* 0.4 = 7.2 Stamina per second. Since we are sprinting for 90 seconds, we use 648 Stamina. Subtract 240 Stamina base and we get 408 Stamina / 41 uses = ~10 Stamina per Blooming Light.  
+  
+In [this video](https://youtu.be/eNNRYab8sEg), we get down to almost 0 Stamina with Ayaka, and then use Blooming light 24 times to reach Max Stamina. ~240 Stamina / 24 uses = ~10 Stamina per Blooming Light.  
+  
+**Significance:**  
+Fluff. This passive sucks.  
+
 ## Inazuma
 
 ### Inazuma Artifact Spots
