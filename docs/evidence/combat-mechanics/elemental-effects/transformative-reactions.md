@@ -139,7 +139,7 @@ In the first clip Ayaka triggers and deals Superconduct DMG with both her Dash a
 **Significance:**  
 Better understanding of Superconduct reaction.
 
-## Electrocharged
+## Electro-Charged
 
 **By:** Doug\#8888, Zephan\#9493, HailCorporate\#2970, and ayynish\#5408
 
@@ -1659,3 +1659,27 @@ Notice the hilichurl takes no burning dmg but still burns any grass it stepped o
 
 **Significance:**  
 Better understanding for the mechanics of burning. Dendro shields are be burnt down faster by 2B Pyro and 1A Pyro.
+
+## Bloom
+
+### Chemistry 101 What Are Reactions
+
+**By:** daibangden\#8410  
+**Added:** <Version date="2022-10-14" />  
+**Last tested:** <VersionHl date="2022-10-14" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/chemistry-101-what-are-reactions-1002292162697904138-1665754940462)  
+
+:::note
+An addition to old finding, which is still correct in most cases.  
+:::
+
+**Finding:**  
+On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
+
+**Evidence:**  
+* [YouTube](https://youtu.be/qVHVaO231sU): Fischl A4, Qiqi A1, Dark Iron Sword, 4P TF, 4P GD, Electro Resonance on Dendro Cores
+* [YouTube](https://youtu.be/73Ey0M5jr7g): Hakushin Ring, Mappa Mare, 4P Instructor, Dendro Resonance on Dendro Cores
+* [YouTube](https://youtu.be/99SasHI7fMU): Mappa Mare and 4P Gilded Dreams with Burgeon, Klee A1
+  
+**Significance:**  
+Better understanding of on reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.
