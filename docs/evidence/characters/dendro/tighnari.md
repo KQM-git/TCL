@@ -12,8 +12,6 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/tighnari-basic-mechanics)
 
-### Attack Attributes
-
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1rECAO_yOwB4sDJ70z75pJr6fQsQjx5kgsOWtylcAGLk/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data:
   * E-reduced CA level 2 - 30 \(38 with recovery\) - BowTae#0141(count), [flamescion#9370](https://www.youtube.com/watch?v=sG-hT06nSG0)
@@ -35,6 +33,12 @@ search: false
 * Tighnari’s Clusterblooms have a max range before they disappear. - [Video](https://youtu.be/nXZ0qsLbfco) - Wüolf#3334
 * If there is no target in range, clusterbloom arrows target where the wreath arrow hit. If there is a target in range, it prioritizes enemies over objects, even if the wreath arrow hits the object. If there are multiple targets, it only targets one of them. - [Video](https://youtu.be/WsiBn6Wzk78) - flamescion#9370
 * Clusterbloom arrows move in an upward and backward trajectory before homing towards the target. This can make them hit other objects like walls etc. - [Video](https://youtu.be/6rJq2vqFJHo) - flamescion#9370
+
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
 
 ## Skill Mechanics
 

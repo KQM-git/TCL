@@ -68,6 +68,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * N4 appears behind Yelan and will not go through if she is standing with her back to a wall.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * **Breakthrough Barb** does not reset after spending 5s off-field and in combat.
 * Yelan can gain **Breakthrough Barb** while charging a Fully-Charged Aimed Shot.
 * **Breakthrough Barb** has a 0 damage hit on top of Breakthrough Barb DMG.

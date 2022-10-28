@@ -70,6 +70,7 @@ import Skill from '@site/src/components/char/Skill'
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Diona's Fully Charged shots follow a 3 hit/2.5s ICD.
 * Diona can cancel her dash early with Aim Toggle. Thus allows her to do quick Charged Attack while still retaining the ability to aim, unlike ARCC which cannot be aimed.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
 

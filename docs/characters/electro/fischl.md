@@ -67,6 +67,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Fischl's max damage ceiling is 245.81% MV/s for a N2-LMB combo, but reaching this level is not realistic for humans.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
 

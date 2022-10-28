@@ -32,6 +32,12 @@ search: false
  
 ## Attack Mechanics
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 * Collei's Skill persists off-field. - [Video](https://youtu.be/eMgUOwJeGh8) - Latiwings\#3308

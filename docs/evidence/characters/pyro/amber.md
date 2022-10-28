@@ -13,6 +13,12 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1XDS-RP7G7-htZ4PP9A5SXPbg7Gy-Laksp4oXwObNgf8/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 ### Baron Bunny's aura

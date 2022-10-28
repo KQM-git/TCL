@@ -67,6 +67,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * The auto-aim range for her normals is around 6 abyss tiles (~15.3 meters)
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Regular Charge Level 2 arrows have Impulse Type 2 and headshots have 5, Poise Damage is the same as Charge Level 1.
 * **Kindling Arrows** last around 2.5 seconds, don't drop off like regular arrows, and have auto lock aiming at a semi wide range.
 * Yoimiya can have all three **Kindling Arrows** up after **Niwabi Fire Dance** ends, so long as the required charging time is met.

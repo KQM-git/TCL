@@ -36,6 +36,12 @@ Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at leas
 
 **Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, Aimed shot will also lose out with grouping effects like VH/Venti.
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 ### Childe Stance Switch From Ranged to Melee

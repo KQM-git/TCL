@@ -61,6 +61,7 @@ import Skill from '@site/src/components/char/Skill'
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
 * Fully Charged Charged Attack has no ICD.
 * N1 will come out even if canceled early. Cancels include jump, dash, skill, and most notably, aim mode.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
 

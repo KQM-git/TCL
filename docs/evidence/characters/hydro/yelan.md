@@ -35,6 +35,12 @@ search: false
 * Yelan can plunge from standing. - [Video](https://imgur.com/a/DG3JMjy) - Beast Boy\#2560
 * Breakthrough Barb has a 0 damage hit on the arrow itself, on top of the actual Breakthrough Barb damage. - [Video](https://youtu.be/TyNucHcGuyI) - Rathalos\#2875
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 * E generates 4 Particles. - [Video](https://youtu.be/DOQQVa0IukM) - CC\#5588

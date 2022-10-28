@@ -63,6 +63,12 @@ Diona can then dash aim cancel all of her dashes, until she switches out, does T
 **Significance:**  
 Very fast way to shoot CAs with Diona while still retaining the ability to aim (since ARCC cannot be aimed)
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 ### Diona Elemental Skill ICD analysis

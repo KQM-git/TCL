@@ -30,7 +30,7 @@ search: false
   * Elemental Skill: Gorou produces 2 geo particles on Elemental Skill cast. (I hope 7 tests is enough, ping pong me if it isn't and/or you get something other than 2 particles. - [Neptunya\#8291](https://youtu.be/QHq1Y_-asIw)
 * Unlike most characters, Gorou does not keep one eye closed after ARCC. - [BowTae\#0141](https://youtu.be/_yuZ4lKpdKY)
 
-## Normal Attack Mechanics
+## Attack Mechanics
 
 * Gorou can do the following aim tech - BowTae\#0141
   * Instant RR (enter and exit aim mode in 1 frame): [Youtube](https://youtu.be/mXEXYo7BGUA)
@@ -60,6 +60,12 @@ Other sources include this video from SystksjSonic: [Twitter](https://twitter.co
 
 **Significance:**  
 This tech is superior to ARCC in almost every way, as it doesn't require frame perfect inputs, can be done very fast without macros, and will also trigger abilities such as Fischl C6 and Yelan Burst. This tech makes Gorou potentially the strongest physical bow character. The downside is that it only works on Gorou.  
+
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
 
 ## Skill Mechanics
 
