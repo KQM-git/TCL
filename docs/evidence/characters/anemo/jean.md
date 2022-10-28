@@ -290,3 +290,59 @@ However, the OLs from Sunfire Jean \(and hence the activation of the FS Passive\
 
 **Significance:**  
 It's not always the end of the world if you forget to EQ with Jean to activate Freedom-Sworn in Raiden teams; the Passive may still activate during the rest of her Burst. Also somewhat relevant if the enemies are knocked back by OL and your E misses.
+
+### Jean Burst Exit Damage Charges Shield During The Final Calamity
+
+**By:** SolidBrain\#1914, AlmostSerious\#5533  
+**Added:** <Version date="2022-10-23" />
+**Last tested:** <VersionHl date="2022-10-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/jean-burst-exit-damage-charges-shield-during-the-final-calamity)  
+  
+**Finding:**  
+If Jean casts her Burst right before the Final Calamity begins during the Raiden Shogun weekly boss fight, the Dandelion Breeze field exit damage at end of Burst duration will proc Electro Swirl off of invisible Raiden Shogun's shield.  
+  
+**Evidence:**  
+Jean's Burst exit damage proc can Swirl invisible Raiden: [YouTube](https://youtu.be/bd_2UBFSon0)  
+2nd clip that shows Burst does not hit the orb but still Swirls invisible Raiden: [YouTube](https://youtu.be/pCs8fqeoJuY)  
+  
+Other Jean attacks that do not Swirl invisible Raiden:  
+* Tap Skill: [YouTube](https://youtu.be/1-xkqEKoAiQ) \(no Swirl\)  
+* Hold Skill: [YouTube](https://youtu.be/sa3sf3XIAyY) \(no Swirl\)  
+* Burst \(on enter\): untested; requires an absurd amount of ER to charge Burst after Energy drain.  
+  
+These characters cannot Swirl Electro Raiden:  
+* Venti  
+    * Tap Skill: [YouTube](https://youtu.be/qPObJIBonag) \(no Swirl; auto-targets the orb\)
+    * Hold Skill: [YouTube](https://youtu.be/HXhcTbEb2-0) \(no Swirl\)
+    * Burst: [YouTube](https://youtu.be/ueezGMbZEP0) \(no Swirl; Electro Absorption from before Raiden disappears\)
+* Xiao: Skill and Burst [YouTube](https://youtu.be/KljjxRbw2fE)
+* Sucrose  
+    * NA: [YouTube](https://youtu.be/SdQ5-luG-w8) \(no Swirl\)
+    * CA: [YouTube](https://youtu.be/_6tHdXVejQk) \(no Swirl\)
+    * P: [YouTube](https://youtu.be/4vMdAUfrtZg) \(no Swirl\)
+    * Skill: [YouTube](https://youtu.be/tR5ZcXRL2lo) \(no Swirl\)
+    * Burst: [YouTube](https://youtu.be/1n-6xTWrOpk) \(no Swirl\)
+* Kazuha  
+    * Tap Skill: [YouTube](https://youtu.be/Z_h5-EG9rVQ) \(no Swirl\)
+    * Hold Skill: [YouTube](https://youtu.be/uP4UUhJLYi8) \(no Swirl\)
+    * Burst: [YouTube](https://youtu.be/ILT_vC9P1JM) \(no Swirl; Electro Absorption from before Raiden disappears\)
+* Sayu  
+    * Tap Skill: [YouTube](https://youtu.be/UWX_TjUOgTo) \(no Swirl\)
+    * Hold Skill: [YouTube](https://youtu.be/xim9h1XUJ24) \(no Swirl; Electro Absorption from before Raiden disappears\)  
+    * Burst: [YouTube](https://youtu.be/IkeaJHblucc) \(no Swirl\)
+* Heizou  
+    * NA: [YouTube](https://youtu.be/84M52476LEI) \(no Swirl\)
+    * CA: [YouTube](https://youtu.be/gBc-Xep-ByM) \(no Swirl\)
+    * P: [YouTube](https://youtu.be/XjYqreTH5Wk) \(no Swirl\)
+    * Tap Skill: [YouTube](https://youtu.be/3WyvlYQQi_Q) \(no Swirl\)
+    * Hold Skill: [YouTube](https://youtu.be/aCEeNJlkKS4) \(no Swirl\)
+    * Burst: untested; requires an absurd amount of ER to charge Burst after Energy drain.  
+* Anemo MC  
+    * A1: [YouTube](https://youtu.be/3k991GbT7q8) \(no Swirl\)
+    * Tap Skill: [YouTube](https://youtu.be/WlACTM-MqUY) \(no Swirl\)  
+    * Hold Skill: [YouTube](https://youtu.be/iu452PV2VLY) \(no Swirl\)
+    * Burst: untested; too difficult to time/position.  
+
+**Significance:**  
+It is possible to hit invisible Raiden Shogun's shield, but only Jean's Burst field exit damage has been found to exhibit this behavior so far.  
+This Electro Swirl fully charges the Flowers of Remembrance \(orb\) Shield, which makes it far easier for Jean to avoid Raiden Shogun's Eye of Stormy Judgement instant kill mechanic when fighting Raiden Shogun solo Jean.  
