@@ -2,9 +2,7 @@
 description: After many years, the awesomely powerful Primo Geovishaps grow accustomed to changes in their elemental environment.Folktales hold that after the great "draconic calamity" that led to the ruination of Tianqiu Valley, the overlord of the Geovishaps and Primo Geovishaps was imprisoned deep beneath the earth, and so too did they burrow into deep and unseen places, awaiting their chance to rise once more...
 ---
 
-# Overworld Bosses
-
-## Primo Geovishap
+# Primo Geovishap
 
 ## Weakspot Details
 
