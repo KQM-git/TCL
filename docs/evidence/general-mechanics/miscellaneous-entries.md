@@ -1163,7 +1163,7 @@ May assist early game exploration within Teyvat and makes specific puzzles easie
 ## How To Keep Your Weapon Half A Second More
 
 **By:** Magnus Artifex\#8719  
-**Added:** <Version date="2022-10-27" />
+**Added:** <Version date="2022-10-27" />  
 **Last tested:** <VersionHl date="2022-10-27" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/how-to-keep-your-weapon-half-a-second-more)  
 
