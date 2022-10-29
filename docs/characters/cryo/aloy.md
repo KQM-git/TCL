@@ -64,6 +64,7 @@ import Skill from '@site/src/components/char/Skill'
 
 * Both Poise Damage and Impulse Type are the same for regular Normal Attacks and Normal Attacks during **Rushing Ice** state.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
 

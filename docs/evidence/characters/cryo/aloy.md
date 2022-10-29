@@ -33,6 +33,12 @@ search: false
 
 * When doing ARCC, Aloy will get an uncharged aim shot, regardless of charge level - [BowTae#0141](https://imgur.com/pfAnGJk)
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ### Skill Mechanics
 
 * Aloy can gain Coil Stacks while off-field - [anonpuffs#2537](https://youtu.be/3Cfa3apPBgM)

@@ -75,6 +75,12 @@ The 3 Kindling Arrows didn't crit when hitting the weakspot but clearly activate
 **Significance:**  
 Easier activation of the Prototype Crescent passive on Yoimiya and a possible bug where the Kindling Arrow hit doesn't activate the 100% crit on weakspots.
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 * Her infused arrows follow standard ICD - [Artesians#0002](https://imgur.com/lebjy1p)
