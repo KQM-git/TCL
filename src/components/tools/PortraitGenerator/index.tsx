@@ -1,12 +1,12 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 
 import CharSelector from './CharSelector'
 import Preview from './Preview'
 
+import { findFuzzyBestCandidates } from '@site/src/utils/fuzzy'
 import TabItem from '@theme/TabItem'
 import Tabs from '@theme/Tabs'
 import { CheckboxInput } from '../../common/input/CheckboxInput'
-import { findFuzzyBestCandidates } from '@site/src/utils/fuzzy'
 
 export interface PortraitIcon {
   name: string
@@ -55,8 +55,22 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
     name: "Keqing",
     path: `/img/characters/icon/Keqing.png`
   }] as PortraitIcon[])
+  const [custom, setCustom] = useState([] as PortraitIcon[])
   const [background, setBackground] = useState(true)
   const [search, setSearch] = useState("")
+
+  // Loading of custom icons
+  useEffect(() => {
+    try {
+      setCustom(JSON.parse(localStorage.getItem("portrait-generator-custom-icons")))
+    } catch (error) {}
+  }, [])
+
+  // Saving of custom icons
+  useEffect(() => {
+    if (custom)
+      localStorage.setItem("portrait-generator-custom-icons", JSON.stringify(custom))
+  }, [custom])
 
   const iconsMisc = [
     {
@@ -92,7 +106,8 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
     ...iconsChar.flatMap(x => [...x.chars, ...x.travelerIcons]),
     ...elements,
     ...iconsArti.flatMap(x => x.icons),
-    ...iconsMisc
+    ...iconsMisc,
+    ...custom
   ]
 
   const matches = findFuzzyBestCandidates(allIcons.map(x => x.name), search, 8)
@@ -185,14 +200,29 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
     </Tabs>
 
     <h2>Misc</h2>
-    <CharSelector
-      icons={iconsMisc}
-      onClick={add}
-    />
+    <CharSelector icons={iconsMisc} onClick={add} />
+
+    {custom.length > 0 && <>
+      <h2>Custom</h2>
+      <CharSelector icons={custom} onClick={add} onCtrlClick={icon => {
+        if (!confirm(`Are you sure you want to delete ${icon.name}`))
+          return
+        setCustom(custom.filter(x => x != icon))
+      }} />
+    </>}
 
     <h2>Settings</h2>
     <label>
       Use background: <CheckboxInput set={setBackground} value={background} />
-    </label>
+    </label> <br/>
+    <a href='#' onClick={e => {
+      e.preventDefault()
+      const name = prompt("Name", `Custom Icon`)
+      const url = prompt("URL (make sure the link has proper CORS headers or it'll be blocked by the browser)")
+      setCustom([...custom, {
+        name,
+        path: url,
+      }])
+    }}>Add custom image</a>
   </div>
 }

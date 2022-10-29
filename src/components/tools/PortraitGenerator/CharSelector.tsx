@@ -2,7 +2,7 @@ import React from "react"
 
 import { PortraitIcon } from '.'
 
-export default function CharSelector({ icons, onClick }: { icons: PortraitIcon[], onClick: (icon: PortraitIcon, multi: boolean) => void }) {
+export default function CharSelector({ icons, onClick, onCtrlClick }: { icons: PortraitIcon[], onClick: (icon: PortraitIcon, multi: boolean) => void, onCtrlClick?: (icon: PortraitIcon) => void }) {
   return <div>
     {icons.map(icon => {
       const { name, path, elementalIcon } = icon
@@ -17,7 +17,7 @@ export default function CharSelector({ icons, onClick }: { icons: PortraitIcon[]
           style={({
             cursor: "pointer"
           })}
-          onClick={(e) => onClick(icon, e.shiftKey)}
+          onClick={(e) => e.ctrlKey && onCtrlClick ? onCtrlClick(icon) : onClick(icon, e.shiftKey)}
         />
         {elementalIcon && <img 
           src={elementalIcon.path}
