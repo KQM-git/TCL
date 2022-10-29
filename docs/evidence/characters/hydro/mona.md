@@ -360,14 +360,14 @@ Don't freak out if checking out Mona's stats when she isn't in your party
 
 ### C1: Prophecy of Submersion
 
-#### Mona C1 Snapshot for Vape
+#### Mona C1 Snapshot
 
 **By.** Tibo\#4309  
 **Added:** <Version date="2021-12-16" />  
-**Last tested:** <VersionHl date="2021-12-16" />  
+**Last tested:** <VersionHl date="2022-10-22" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_897587228799287327_912236506880557076_transcript-mona-c1-snapshot.html)
 
-**Finding:** Mona C1's snapshotting vape/swirl/EC (Theoryhunt).
+**Finding:** Mona C1's Vaporize is snapshottable but not Swirl/EC while Frozen doesn't seem to work.
 
 **Evidence:**
 
@@ -401,6 +401,7 @@ Frozen
 
 * Mona's C1 passive does not seem to work for freeze reactions. - [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=762498999&range=B111:S112)
 * All videos are linked in the sheet. An overview of the results is in another sheet tab here: [Google Sheet](https://docs.google.com/spreadsheets/d/10SMEo9XGQQvhNQ2QsTeggynewt8unRYxCGOaJF_qWr4/edit#gid=747486603&range=B10:S33)
+* Still broken as of 3.1 - [YouTube retest](https://youtu.be/zGOJHnhN9Ts)
 
 **Significance:**
 
