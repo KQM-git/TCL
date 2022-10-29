@@ -12,6 +12,7 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1wjNpI530VwWX8PtmAA7ZZex5FurVpItfu6jmRQsMcaw/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 
 ## Skill Mechanics
 

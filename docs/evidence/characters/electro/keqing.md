@@ -11,6 +11,7 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1GAeBzMr0XX89azZhpbjEqPfehgruwI3__GlfEgQ1VvA/edit?usp=sharing) - Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 
 ## Attack Mechanics
 

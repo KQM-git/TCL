@@ -11,6 +11,7 @@ search: false
 ## Basic Mechanics
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1WPxQ7vf0_dp5g96aqGF0_JZSqjtYHOJC0b89zRS_WrA/edit?usp=sharing) - Kurt\#5846, Kisa\#1111 & Kolibri\#7675 
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1Q72fXo7XAF2dhMphwTDmsT2Kag8aVPOYhWwXo8I0l9w/edit?usp=sharing) - Sitri#9504
 * Gauges
   * E (2B), Dash (1A), Infused Normals (1A) - [sexyeboy69#6969](https://youtu.be/LxqjepdKwAU)

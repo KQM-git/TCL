@@ -72,12 +72,16 @@
         "name": "Cast",
         "hitmark": 82,
         "n1": 92,
-        "skill": 92,
+        "skill": [92, 93],
         "dash": 92,
-        "jump": 92,
-        "swap": 91,
+        "jump": 93,
+        "swap": 90,
         "cd": 0,
-        "energy": 4
+        "energy": 4,
+        "notes": [
+            "Press E cancel: 92f",
+            "Hold E cancel: 93f"
+        ]
     },
     "Other": [{
         "name": "Dash",

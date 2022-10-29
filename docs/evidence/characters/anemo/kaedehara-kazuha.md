@@ -13,6 +13,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_858232806450397196_863915215232958474_transcript-kazuha-basic-mechanics-findings.html)
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1uEbP13O548-w_nGxFPGsf5jqj1qGD3pqFZ_AiV4w3ww/edit?usp=sharing) - Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges - Faranight\#0001
   * E Tap: [1GU](https://youtu.be/SoCI_E1eDXE), Tap E Aura duration is 12s.
   * E Hold: [2GU](https://www.youtube.com/watch?v=7j8-P-dLrt4), Held E Aura duration is 15s.
