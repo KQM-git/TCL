@@ -206,6 +206,7 @@ As of 3.0, coordinates are no longer available in the feedback url.
     * They damage enemies with 27.419 true damage and have a 1U gauge.
     * They don’t have vertical height.
     * They deal inconsistent damage if the enemy isn’t engaged in combat.
+  * Lumenstone Adjuvant restores 10 Stamina every time it is used \(at level 9 and above\).  
 
 ## Inazuma
 
