@@ -162,6 +162,10 @@ The Burning damage will apply 2U Pyro in a small AoE around the Burning object o
 
 Additionally, the decay rate of the Dendro aura while Burning is the sum of the natural decay rate of the Pyro aura and Dendro aura.
 
+## Bloom
+
+On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
+
 ## Evidence Vault
 
 <Card item={require('../../evidence/combat-mechanics/elemental-effects/transformative-reactions.md')} />
