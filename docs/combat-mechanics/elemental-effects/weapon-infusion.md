@@ -17,6 +17,7 @@ Infusions apply a 1WU (Weapon Gauge Unit) every refresh timing if overrideable. 
 | [Bennett](../../characters/pyro/bennett.md)          | Elemental Burst \(With C6\)         | Pyro    | Field \(Melee\)              | Yes                | 1s               |
 | [Candace](../../characters/hydro/candace.md)         | Elemental Burst                     | Hydro   | On-Field Character \(Melee\) | Yes                | N/A              |
 | [Chongyun](../../characters/cryo/chongyun.md)        | Elemental Skill                     | Cryo    | Field \(Melee\)              | Yes                | 1s               |
+| [Cyno](../../characters/electro/cyno.md)             | Elemental Burst                     | Electro | Self                         | No                 | N/A
 | [Diluc](../../characters/pyro/diluc.md)              | Elemental Burst                     | Pyro    | Self                         | Yes                | 0.5s if not Pyro |
 | [Hu Tao](../../characters/pyro/hu-tao.md)            | Elemental Skill                     | Pyro    | Self                         | No                 | N/A              |
 | [Itto](../../characters/geo/arataki-itto.md)         | Elemental Burst                     | Geo     | Self                         | No                 | N/A              |
