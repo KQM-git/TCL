@@ -1638,7 +1638,7 @@ Additional credits to Aevean Leeow\#1362 and f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀
 
 **By:** sexyeboy69\#2687  
 **Added:** <Version date="2022-10-25" />  
-**Last tested:** <VersionHl date="2022-10-25" />
+**Last tested:** <VersionHl date="2022-10-25" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/blooming-light-stamina-regeneration)  
 
 **Finding:**  
