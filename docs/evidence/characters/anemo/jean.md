@@ -294,7 +294,7 @@ It's not always the end of the world if you forget to EQ with Jean to activate F
 ### Jean Burst Exit Damage Charges Shield During The Final Calamity
 
 **By:** SolidBrain\#1914, AlmostSerious\#5533  
-**Added:** <Version date="2022-10-23" />
+**Added:** <Version date="2022-10-23" />  
 **Last tested:** <VersionHl date="2022-10-23" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/jean-burst-exit-damage-charges-shield-during-the-final-calamity)  
   
