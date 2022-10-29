@@ -56,6 +56,7 @@ description: For entries that have little practical use.
   * Both the Kamera gadget as well as the Special Kamera gadget can be used to "cancel" knockback (instead of flying through the air, the character slides backwards). It can also be used to cancel a dash off of a ledge or the bounce of Bennetts charge level 2 (which seems to behave identical to receiving knockback).
   * To do this, you have to take a picture at the moment where you get hit/leap off a ledge. The method used is to take photos in rapid succession, by pressing "esc" and "y" quickly after one another. This makes timing the photo easier.
 * By swapping characters at the right time when you are about to be Frozen, it's possible to cancel it. See this [Vault Entry](../evidence/general-mechanics/miscellaneous-entries.md#self-freeze-can-be-canceled-by-swapping) for a video demonstration.
+* Some characters can keep their weapons if you change them mid sheathing animation, but only when the golden particles start appearing.
 
 ## Tanking
 
