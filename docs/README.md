@@ -12,11 +12,11 @@ The TCL is organized so that each page has a corresponding Evidence Vault. The E
 
 **Most Recent Characters:** [Nilou](/characters/hydro/nilou.md) | [Cyno](/characters/electro/cyno.md) | [Candace](/characters/hydro/candace.md)
 
-**Elemental Gauge Theory:** [Page](https://library.keqingmains.com/combat-mechanics/elemental-effects/elemental-gauge-theory)
+**Elemental Gauge Theory:** [Page](/combat-mechanics/elemental-effects/elemental-gauge-theory)
 
-**Damage Formula:** [Page](https://library.keqingmains.com/combat-mechanics/damage/damage-formula)
+**Damage Formula:** [Page](/combat-mechanics/damage/damage-formula)
 
-**Newsletter:** The [newsletter](https://library.keqingmains.com/newsletter) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
+**Newsletter:** The [newsletter](/newsletter) is a way to catch up on the latest submissions to the Theorycrafting Library at a glance. They will be updated after every Character Event Wish ends and archived in a section underneath.
 
 ## Submissions
 

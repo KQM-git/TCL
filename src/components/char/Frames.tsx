@@ -14,6 +14,6 @@ export default function FramesElement({ data }: { data: Frames }) {
         <FrameData data={value} />
       </TabItem>)}
     </Tabs>
-    For more information, read the <Link to={"https://library.keqingmains.com/combat-mechanics/frames"}>frames</Link> page or check out the <Link to={"https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing"}>database</Link>.
+    For more information, read the <Link to={"/combat-mechanics/frames"}>frames</Link> page or check out the <Link to={"https://docs.google.com/spreadsheets/d/1l5DOZ6RgYYMIxMtJtd7oQNL9WWVNXcQL0nwan7q7QGc/edit?usp=sharing"}>database</Link>.
   </>
 }
