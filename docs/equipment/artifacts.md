@@ -60,9 +60,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Deepwood Memories
 
-<Artifact artifact="Deepwood Memories" />
+<Artifact artifact="Deepwood Memories">
 
 * The active bonus timer will remain even when any piece is removed or the character equipping the set is swapped out of the team.
+
+</Artifact>
 
 ### Echoes of an Offering
 
@@ -214,9 +216,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Vermillion Hereafter
 
-<Artifact artifact="Vermillion Hereafter" />
+<Artifact artifact="Vermillion Hereafter">
 
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
+
+</Artifact>
 
 ### Viridescent Venerer
 
@@ -322,9 +326,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### The Exile
 
-<Artifact artifact="The Exile" />
+<Artifact artifact="The Exile">
 
 * The active bonus timer will end instantly when any piece is removed or when the holder leaves the party.
+
+</Artifact>
 
 ### Tiny Miracle
 
