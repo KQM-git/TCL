@@ -49,6 +49,7 @@ const travelers = [{
   name: "Lumine",
   path: "/img/characters/icon/Lumine.png",
 }]
+const localStorageKey = "portrait-generator-custom-icons"
 
 export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons: Record<string, string[]>, artiIcons: Record<string, string[]> }) {
   const [active, setActive] = useState([{
@@ -62,14 +63,16 @@ export default function PortraitGenerator({ charIcons, artiIcons }: { charIcons:
   // Loading of custom icons
   useEffect(() => {
     try {
-      setCustom(JSON.parse(localStorage.getItem("portrait-generator-custom-icons")))
+      const parsed = JSON.parse(localStorage.getItem(localStorageKey))
+      if (parsed)
+        setCustom(parsed)
     } catch (error) {}
   }, [])
 
   // Saving of custom icons
   useEffect(() => {
     if (custom)
-      localStorage.setItem("portrait-generator-custom-icons", JSON.stringify(custom))
+      localStorage.setItem(localStorageKey, JSON.stringify(custom))
   }, [custom])
 
   const iconsMisc = [
