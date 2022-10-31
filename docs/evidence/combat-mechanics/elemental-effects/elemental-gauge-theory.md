@@ -533,3 +533,28 @@ Taking into account hitlag extension for elemental auras, the aura duration obse
 
 **Significance:**  
 Sadly for the setup I wanted to test when I started this ticket, tax cannot be evaded since the aura starts at the taxed gauge. For the front page of Elemental gauge theory, this doesn't mean much since it explains things using tax on reaction, which is consistent with Hypothesis 2. However, since the original evidence is linked on the front page, it should be mentioned somewhere that Hypothesis 1 is inaccurate.
+
+## 8GU Auras
+
+**By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
+**Added:** <Version date="2022-10-14" />  
+**Last tested:** <VersionHl date="2022-10-24" />    
+[Discussion](https://tickets.deeznuts.moe/transcripts/8gu-auras-1018842875259265047)
+
+**Finding:**  
+Day 5 Fayz Trials enhanced skill applies 8 Gauge Units of Cryo/Hydro/Pyro.  
+
+1. 8D aura lasts for 26.5s in the video, roughly lines up with the formula which gives `2.5*8+7=27s`.
+2. The freeze triggered should last for `2sqrt(5x2x0.8x8x(1-0.5/(2.5x8+7))+4)-4=12.348s`.
+   * In the video, it lasted for 12.067s, roughly lines up.
+3. Applying 8U onto an existing A aura results in an 8A aura that lasts for 75.43s, which also roughly lines up with `8x0.8x(95/8)=76s` \(95/8 is A aura decay rate\).
+4. The ~12.56gu freeze aura can survive the 8gu freeze consumption from shatter.
+
+**Evidence:**  
+1. [Imgur](https://imgur.com/hXKgYQ0)  
+2. [Imgur](https://imgur.com/6PPnsrp)  
+3. [YouTube](https://youtu.be/AMtSrnh35b8)  
+4. [Imgur](https://imgur.com/a/sJ4g2s8)  
+
+**Significance:**  
+Documents a new-ish type of aura that previously lacked video evidences.  

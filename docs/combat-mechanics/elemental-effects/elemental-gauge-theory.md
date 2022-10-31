@@ -31,6 +31,8 @@ The decay notation number indicates the original system of elemental units that 
 | 2U                | 2GU               | 2B             | 7.5s per B            |
 | 4U                | 4GU               | 4C             | 5.3125s per C         |
 
+Day 5 Fayz Trials enhanced skill applies 8 Gauge Units of Cryo/Hydro/Pyro, for more details see this [Vault Entry](../../evidence/combat-mechanics/elemental-effects/elemental-gauge-theory.md#8gu-auras).  
+
 ## Aura Application
 
 Aura application has a 0.8x modifier. This is also referred to as **Aura Tax**.
