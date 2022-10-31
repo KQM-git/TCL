@@ -145,6 +145,7 @@ import Skill from '@site/src/components/char/Skill'
 * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
 * **Guhua Sword: Raincutter** does not snapshot buffs on cast. However, each wave of sword rain attacks from **Guhua Sword: Raincutter** will snapshots buffs when they are summoned.
 * Xingqiu's Burst has 106 [idle i-frames](../../combat-mechanics/frames.md#burst-idle-iframes) \(1.8s\).
+* Burst Cancelling by using a special interaction on Xingqiu causes his Burst Sword Rain to not proc and his Skill to not create Rain Sword Orbitals.
 
 </TabItem>
 </Tabs>

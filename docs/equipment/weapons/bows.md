@@ -31,7 +31,11 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 ### Hunter's Path
 
-<Weapon weapon="Hunter's Path" weapons={bows} />
+<Weapon weapon="Hunter's Path" weapons={bows}>
+
+* **Hunter's Path** passive benefits from percentage-based EM buffs.  
+
+</Weapon>
 
 ### Polar Star
 
