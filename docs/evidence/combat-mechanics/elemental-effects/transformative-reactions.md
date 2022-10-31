@@ -56,7 +56,7 @@ Overload, and so far overload alone, seems to have a reaction specific icd of 0.
 
 **Evidence:**
 
-* [clip 1:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840520178403901450_OL_gauge_comparison.mp4) after gaining 2u electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
+* [clip 1:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840520178403901450_OL_gauge_comparison.mp4) after gaining 2u Electro from beidou tap e, klee n1c, but only produces damage of 1 overload. Enemy is cleansed, therefore the reaction did occur but no damage is dealt after overload 1.
 * [clip 2:](https://tcl-backup.s3.filebase.com/evidence/combat-mechanics/elemental-effects/transformative-reactions.md/discord/attachments_840502239248252928_840529070801682432_OverloadLimit7.mp4) the second treasure hoarder hit is hit by 2 overloads, 1 originating from himself and the other from an ally hit by overload. However, despite being in a cluster of 3 enemies hit in the second overload as evidenced by hit double knockback, only 2 numbers appear, showing his invulnerability to the overload the second time.
 * [clip 3 and 4:](https://youtu.be/wqxnXhkMuNg) in both cases, the enemy is first hit by 4u from beidou.
   * Then, in clip 3, guoba is summoned, who then attacks within 3 frames of klee who autoattacks. 2 overload numbers appear.
@@ -72,7 +72,7 @@ Overload, and so far overload alone, seems to have a reaction specific icd of 0.
 * [clip 10:](https://youtu.be/uuj8-ITWzmw) extra vid proving lisa is on the edge of the ICD.
 
 **Significance:**  
-Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more pyro off-field enablers.
+Not much, since gauge applications are already quite slow, so there isn't much detriment to a low damage reaction having an ICD between uses that is so short its usually out by the time the next application comes by. Might become more significant with a few more Pyro off-field enablers.
 
 ### Overload on Electrocuted Water Bodies
 
@@ -143,34 +143,34 @@ Better understanding of Superconduct reaction.
 
 **By:** Doug\#8888, Zephan\#9493, HailCorporate\#2970, and ayynish\#5408
 
-In EC, **both hydro and electro auras may coexist and persist together**.
+In EC, **both Hydro and Electro auras may coexist and persist together**.
 
 * This means that when you use a Hydro/Electro trigger on a Electro/Hydro aura, you are simultaneously adding a second elemental gauge and reducing the first elemental gauge.
-* The elemental trigger normally disappears after any reaction. In electro-charged, it can persist as an aura.
-* Electro-charged can also spread to adjacent targets if the following conditions are fulfilled
-  * Trigger electro-charged on an enemy with Electro
+* The elemental trigger normally disappears after any reaction. In Electro-charged, it can persist as an aura.
+* Electro-Charged can also spread to adjacent targets if the following conditions are fulfilled
+  * Trigger Electro-Charged on an enemy with Electro
   * Surrounding enemies have a Hydro aura
   * NOTE: The chain lightning simply applies the Electro damage. It will not apply auras.
 * The **strength** \(~9 or ~12s\) of the aura **matters when calculating how long electrocharged will last.**
 * Why is this significant?
-  * Easy maintenance of electro aura on an enemy for 4TS, Lion’s roar effect.
-  * Easier to trigger reactions if the triggering element persists as an aura instead of disappearing \(as it would normally in all other Transformative reactions\)
+  * Easy maintenance of Electro aura on an enemy for 4TS, Lion’s roar effect.
+  * Easier to trigger reactions if the triggering Element persists as an aura instead of disappearing \(as it would normally in all other Transformative reactions\)
 
-Consider the following Electro-charged concepts:
+Consider the following Electro-Charged concepts:
 
-* Electro-charged damage ticks once per second starting from the initial reaction. In other words, EC has a **CD of 1 second** and can **only damage an enemy once per second.** Multiple ECs on one enemy cannot exist.
+* Electro-Charged damage ticks once per second starting from the initial reaction. In other words, EC has a **CD of 1 second** and can **only damage an enemy once per second.** Multiple ECs on one enemy cannot exist.
   * Refer to this [video](https://www.youtube.com/watch?v=HGF484QYHpQ). Each tick of EC \(777 damage\) appears 60 frames apart.
   * There is 1 exception to the 1 tick/second rule which is covered below.
-* When electro-charged occurs, **it removes a certain duration from both hydro and electro auras.** Every second thereafter, it will continue to tick **as long as there is at least 0.5s of electro and hydro aura remaining.** The duration removed from each aura depends on the strength of the original elemental aura
+* When Electro-Charged occurs, **it removes a certain duration from both Hydro and Electro auras.** Every second thereafter, it will continue to tick **as long as there is at least 0.5s of Electro and Hydro aura remaining.** The duration removed from each aura depends on the strength of the original elemental aura
   * Please refer to [Zephan’s post](https://docs.google.com/document/d/1FaLYqA7MBow0DNBPUc2b9t_dEBhvRT-vs-l03PW0Wu8/edit#heading=h.53c0yy4z9ews) for evidence
-* If an EC reaction occurs such that the remaining hydro or electro aura is 1s&gt;x&gt;0.5s, there will be **an early “second” tick** of EC before the 1 second interval.
-* If an EC reaction occurs such that the remaining hydro or electro aura is &lt;0.5s, there will NOT be an early “second” tick of EC.
+* If an EC reaction occurs such that the remaining Hydro or Electro aura is 1s&gt;x&gt;0.5s, there will be **an early “second” tick** of EC before the 1 second interval.
+* If an EC reaction occurs such that the remaining Hydro or Electro aura is &lt;0.5s, there will NOT be an early “second” tick of EC.
 * Please read below for explanations and video evidence.
 
-### What determines how much duration is removed from an existing electro/hydro aura?
+### What determines how much duration is removed from an existing Electro/Hydro aura?
 
-* If a strong electro or hydro aura is applied, each tick of electro-charged removes ~3s of duration.
-* If a weak electro or hydro aura is applied, each tick of electro-charged removes ~5s of duration
+* If a strong Electro or Hydro aura is applied, each tick of Electro-Charged removes ~3s of duration.
+* If a weak Electro or Hydro aura is applied, each tick of Electro-Charged removes ~5s of duration
 * [Example](https://youtu.be/JWeK6qtL26U) of Strong Electro trigger into Strong Hydro aura
 * [Example](https://youtu.be/v1xuYfczulQ) of Weak Electro trigger into Strong Hydro aura
 * [Example](https://youtu.be/IOtFJQAbDf4) of Strong Hydro trigger into Strong Electro aura
@@ -189,22 +189,22 @@ Consider the following Electro-charged concepts:
   * 1.00s: Electrocharged ticks
     * Weak Hydro aura = complete reduction and removed from enemy
     * Weak Electro aura = ~6s left \(reaction consumes 5s and time decay consumes another 1s for total consumption of 6s\)
-* Please note that in the above scenario, if more hydro aura is added before 5.00s, there may be enough for Hydro aura to persist on the enemy after the reaction.
+* Please note that in the above scenario, if more Hydro aura is added before 5.00s, there may be enough for Hydro aura to persist on the enemy after the reaction.
 
 ### What if you refill a strong aura with a weak aura or vice versa? Does the amount of duration reduction from the next EC tick change?
 
 * The reduction is based on the strength of the aura last applied to the enemy.
-* For example, if you refill a strong hydro aura with a weak hydro aura, the next EC tick will consume 5s.
-* For example, if you refill a weak electro aura with a strong electro aura, the next EC tick will consume 3s
+* For example, if you refill a strong Hydro aura with a weak Hydro aura, the next EC tick will consume 5s.
+* For example, if you refill a weak Electro aura with a strong Electro aura, the next EC tick will consume 3s
 * [Video](https://youtu.be/tGVjO0gwzU0) evidence
 
-### What if there is insufficient electro or hydro aura left to make it to the next tick?
+### What if there is insufficient Electro or Hydro aura left to make it to the next tick?
 
 * For example,
   * 0.0s: Electrocharged is triggered.
     * Hydro aura = 0.8s left
     * Electro aura = 7s left
-* Following this scenario, after 0.8s, we would run out of hydro aura so what happens? There will be **an exception to the 1 tick/second rule** and the next tick will occur WHEN the Hydro aura runs out
+* Following this scenario, after 0.8s, we would run out of Hydro aura so what happens? There will be **an exception to the 1 tick/second rule** and the next tick will occur WHEN the Hydro aura runs out
   * 0.8s: Electrocharged ticks
     * Hydro aura = complete reduction and removed from enemy
     * Electro aura = ~1.2s left \(reaction consumes 5s and time decay consumes 0.8s for a total of 5.8s reduction\)
@@ -222,24 +222,24 @@ Consider the following Electro-charged concepts:
   * 0.4s: No damage instance
     * Hydro aura = complete reduction and is removed from enemy
     * Electro aura = ~6.6s left
-* [Video evidence](https://www.youtube.com/watch?v=elF0K_dw_aQ) - note how after Barbara triggers EC, there is NO SECOND HIT of EC. We theorise that this is due to the fact that &lt;0.5s remains for the electro aura after the initial EC trigger.
+* [Video evidence](https://www.youtube.com/watch?v=elF0K_dw_aQ) - note how after Barbara triggers EC, there is NO SECOND HIT of EC. We theorise that this is due to the fact that &lt;0.5s remains for the Electro aura after the initial EC trigger.
 
-### What determines whether electrocharged damage is calculated using the electro or hydro user?
+### What determines whether electrocharged damage is calculated using the Electro or Hydro user?
 
 * The first EC damage tick is determined by the trigger character.
-* For example, if Keqing applies an electro source to an enemy with a hydro aura, there will be a Keqing EC tick.
+* For example, if Keqing applies an Electro source to an enemy with a Hydro aura, there will be a Keqing EC tick.
 * Subsequent EC damage ticks are determined by the last character to apply an elemental source before the next EC tick.
   * For example, Keqing has triggered the first EC at 0 seconds with double cast E.
-    * At 0.5 seconds, she applies another electro source via an electro-imbued autoattack
-    * At 0.9 seconds, a XingQiu Q sword applies hydro source
+    * At 0.5 seconds, she applies another Electro source via an Electro-imbued autoattack
+    * At 0.9 seconds, a XingQiu Q sword applies Hydro source
     * At 1.0 seconds, a XingQiu EC tick will occur because the last elemental source applied was via XQ sword.
   * Alternatively, considering the same scenario listed above
-    * At 0.9 seconds, XingQiu Q sword applies hydro source
-    * At 0.95 seconds, Keqing applies an electro source via an electro-imbued autoattack
-    * At 1.0 seconds, a Keqing EC tick will occur because the last elemental source applied was via Keqing electro-imbued autoattack
+    * At 0.9 seconds, XingQiu Q sword applies Hydro source
+    * At 0.95 seconds, Keqing applies an Electro source via an Electro-imbued autoattack
+    * At 1.0 seconds, a Keqing EC tick will occur because the last elemental source applied was via Keqing Electro-imbued autoattack
 * [Video evidence](https://www.youtube.com/watch?v=vHQI2LaQN4M) - note how the first EC ticks for 1713 \(KQ EC\) and the second EC ticks for 777 \(XQ EC\). This is because prior to the 2nd tick, the last elemental source applied was XQ orbital swords.
 
-### Frame testing values of EC triggered by Keqing electro-imbued autoattack
+### Frame testing values of EC triggered by Keqing Electro-imbued autoattack
 
 * 0f: EC triggered \(but damage hasn’t gone through yet\)
 * 4f: appearance of auto attack damage
@@ -295,7 +295,7 @@ The case for 2U aura at 1U decay rate \(with EC ticks starting at t = 59/60 sec 
 
 The green graph indicate the usual 2U at 1U decay with the initial 20% gauge drop \(aura tax\). It predicts that after 4EC ticks
 
-EDIT: there is no gauge left at all and no electro aura persists.
+EDIT: there is no gauge left at all and no Electro aura persists.
 
 The red graph does not contain aura tax \(which implies that it happened when the 1U Electro aura applied and that the second slower decay rate persists after the aura was refreshed with the 2U Electro\). As we can see, after 4EC ticks there is 0.53 seconds of Electro aura left which is exactly what happens in the clip.
 
@@ -309,22 +309,22 @@ One step closer to understanding EC I guess.
 **Added:** <Version date="2021-04-05" />  
 **Last tested:** <VersionHl date="2021-04-05" />
 
-**Finding:** Electro-charged + heavy hit instances can stagger lock.
+**Finding:** Electro-Charged + heavy hit instances can stagger lock.
 
 **Evidence:** _Youtube video lost to the sands of time_
 
-1. Apply electro-charged and deal heavy hits to target
+1. Apply Electro-Charged and deal heavy hits to target
 2. Stagger resistance will be reduced
-3. A threshold will be met and allows electro-charged heavy hits to stun lock ruin guard
+3. A threshold will be met and allows Electro-Charged heavy hits to stun lock ruin guard
 
-Applying electro-charged \(EC\) and dealing heavy hits \(HH\) on ruin guards appears to reduce the ruin guard's stun resistance. This will eventually allow the ruin guard to be stun locked without weak point hits. Stun will continue until EC and HH application expires.
+Applying Electro-Charged \(EC\) and dealing heavy hits \(HH\) on ruin guards appears to reduce the ruin guard's stun resistance. This will eventually allow the ruin guard to be stun locked without weak point hits. Stun will continue until EC and HH application expires.
 
 First clip 0:00-0:40  
 Evidence that this is practicable in the overworld
 
-1. Xingqiu's Q + Beidou's Q = electro-charged normal attacks
+1. Xingqiu's Q + Beidou's Q = Electro-Charged normal attacks
 2. Xiao's Q empowers normal attacks and plunges to be HH capable
-3. Using electro-charged N1CJP for a duration will put the ruin guard into a pseudo stun state
+3. Using Electro-Charged N1CJP for a duration will put the ruin guard into a pseudo stun state
 4. EC application expires
 5. Xiao's Q expires and loses HH potential
 6. Ruin guard is no longer stun locked and resumes attacking
@@ -356,7 +356,7 @@ Evidence that this is practicable in the abyss. Timestamps are of heavy hit inst
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_851661909840494622_874167434276405248_transcript-quadruple-electro-charged-with-1-electro-and-multiple-hydro.html)
 
 **Finding:**  
-With an excessive amount of hydro application and a lot of hitlag, 4 electro charged procs is possible with only one application of electro.
+With an excessive amount of Hydro application and a lot of hitlag, 4 Electro charged procs is possible with only one application of Electro.
 
 **Evidence:**  
 [Video](https://youtu.be/1BV1AljxWqQ)  
@@ -418,12 +418,12 @@ However keep in mind the limiting factor for EC is usually the reduction per-tic
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_896132765072900146_899187533542481971_transcript-ec-snapshots-em-until-re-apply.html)
 
 **Abstract:**  
-Electro-charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying electro and hydro with changing elemental mastery.
+Electro-charged is one of the most popular reactions, and due to its nature of dealing damage over time, its interactions with changes in elemental mastery deserve investigation. This ticket will demonstrate possible interactions of characters applying Electro and Hydro with changing elemental mastery.
 
 **Summary:**  
 Electro-charge deals damage over time and its snapshot interactions with changing elemental mastery hasn't been noted in the library.
-This method used was C2 Sara with 4-piece Instructors to apply Electro twice alongside Barbara hydro reactions to the Ruin Guard at Yaoguang Shoal.
-The electro-charge reaction snapshots the elemental mastery value at the time of reaction, but the value is updated when aura is re-applied by any character to that of the applying character's.
+This method used was C2 Sara with 4-piece Instructors to apply Electro twice alongside Barbara Hydro reactions to the Ruin Guard at Yaoguang Shoal.
+The Electro-charge reaction snapshots the elemental mastery value at the time of reaction, but the value is updated when aura is re-applied by any character to that of the applying character's.
 
 **Introduction:**  
 Electro-charged (EC) is one of the most popular reactions, being a key component behind many teams, such as the teams in the taser archetype. As it is a transformative reaction, its damage mainly scales with the elemental mastery (EM) stat. While it's known to some that the reaction snapshots the EM stat of whoever reacted, it's not listed anywhere in the library (specifically the Transformative Reactions page, the Elemental Gauge Theory page, and the egt-rewrite draft). This ticket aims to remedy that and investigate its interactions deeper.
@@ -436,15 +436,15 @@ To investigate this there are four tests that need to be completed.
 
 1. EC damage when EM changes. No re-applying from characters.
 2. EC damage when EM changes. Same source re-applying.
-3. EC damage when a different source re-applies an element.
+3. EC damage when a different source re-applies an Element.
 4. EC damage when a source re-applies then changes EM without re-applying.
 
-While the above tests don't specify an element, and they should be done with both elements for both reaction and re-applying, that would quadruple the number of tests. The current elements are used for brevity and ease of testing (written in the format of reacting and re-application):
+While the above tests don't specify an Element, and they should be done with both elements for both reaction and re-applying, that would quadruple the number of tests. The current elements are used for brevity and ease of testing (written in the format of reacting and re-application):
 
 1. Electro.
-2. Electro, electro.
-3. Electro, hydro.
-4. Electro, hydro.
+2. Electro, Electro.
+3. Electro, Hydro.
+4. Electro, Hydro.
 
 A fifth test was also considered:  
 5) EC damage when a source re-applies then changes EM then re-applies.  
@@ -452,15 +452,15 @@ This is a follow-on from 4 by adding 2.
 
 For test 4, the original character causing the reaction doesn't need have their EM change, so the Instructor set on Sara can be removed to reduce any changes. This is not a concern for test 3, where changing EM values for the second applier is not an issue. While this test should logically follow that the EM value of the second applier will be snapshotted, this is a game from miHoYo and we cannot be sure of anything.
 
-The enemy chosen to do these tests on is the ruin guard at Yaoguang Shaol, as it is usually already wet from the water around it. This water is not a concern as it only acts as a source of hydro to get the reaction started, and cannot cause the electro-charged reaction itself.
+The enemy chosen to do these tests on is the ruin guard at Yaoguang Shaol, as it is usually already wet from the water around it. This water is not a concern as it only acts as a source of Hydro to get the reaction started, and cannot cause the Electro-Charged reaction itself.
 
-Sara was chosen to apply electro, as she has an easy source of two electro applications with her E at C2 and her CA. The explosion of the feather from her CA will be a third application of electro, but that doesn't factor.
+Sara was chosen to apply Electro, as she has an easy source of two Electro applications with her E at C2 and her CA. The explosion of the feather from her CA will be a third application of Electro, but that doesn't factor.
 
-Barbara was chosen to re-apply hydro. This is because she can apply it off-field consistently, and she can also use Widsith to increase her own EM simply by switching in.
+Barbara was chosen to re-apply Hydro. This is because she can apply it off-field consistently, and she can also use Widsith to increase her own EM simply by switching in.
 
 What causes EM changes will be 4-piece Instructors and Widsith. Instructors triggers on a reaction allowing for easy testing, and Widsith triggers on switching in (a third of the time).
 
-If test 5 is to be done, Razor will be applying electro with his E as Sara's electro application is only 1A for all her attacks.
+If test 5 is to be done, Razor will be applying Electro with his E as Sara's Electro application is only 1A for all her attacks.
 
 **Result:**
 
@@ -472,34 +472,34 @@ If test 5 is to be done, Razor will be applying electro with his E as Sara's ele
 
 From 1, we can see that the damage was constant despite the EM of Sara being increased from 4-pc In.
 
-Comparing 2 to 1, we see that re-applying the element from the same source increases the damage as EM increased.
+Comparing 2 to 1, we see that re-applying the Element from the same source increases the damage as EM increased.
 
-From 3, we see that the damage increased when a difference source applied an aura, even if the words "electro-charged" didn't appear.
+From 3, we see that the damage increased when a difference source applied an aura, even if the words "Electro-charged" didn't appear.
 
 While the stat screen of 4 isn't shown, the damage doesn't change even after Barbara gets an increase in EM from Widsith. Even though that may not seem clear at a first viewing, going through the video frame-by-frame will show that the first 3352 EC ticks appears when Beidou is on the field.
 
-Test 5 aligns with the results of 4 and 2. When Barbara re-applies hydro, it updates to the new (and higher) EM value that she has.
+Test 5 aligns with the results of 4 and 2. When Barbara re-applies Hydro, it updates to the new (and higher) EM value that she has.
 
 **Interpretation:**  
-The current interpretation is that the electro-charged reaction snapshots the elemental mastery value of whoever last applied an element to the enemy when they applied it.
+The current interpretation is that the Electro-Charged reaction snapshots the elemental mastery value of whoever last applied an Element to the enemy when they applied it.
 
 **Conclusion:**  
-This ticket has thoroughly explored how electro-charged interacts with changing EM values, for both on- and off-field characters. The main finding is that it snapshots the EM of whoever last applied an element for the reaction. This information can be used to more effectively build and play team comps that revolve around electro-charged, and this can be added to the library.
+This ticket has thoroughly explored how Electro-Charged interacts with changing EM values, for both on- and off-field characters. The main finding is that it snapshots the EM of whoever last applied an Element for the reaction. This information can be used to more effectively build and play team comps that revolve around Electro-charged, and this can be added to the library.
 
 **Limitations:**  
-A major concern would be that the water messes with reactions. While water cannot cause the electro-charged reaction, it still applies hydro to the Ruin Guard. This can be fixed by testing on different enemies.
+A major concern would be that the water messes with reactions. While water cannot cause the Electro-Charged reaction, it still applies Hydro to the Ruin Guard. This can be fixed by testing on different enemies.
 
-An example would be the ruin guard by the teleport marker at Luhua Pool. However, this runs into the issue of keeping hydro gauge filled consistently with few applications is difficult. Childe or Mona would be ideal, as Childe can apply 2B from entering his melee stance and Mona applies 2B on the pop of her Q's bubble.
+An example would be the ruin guard by the teleport marker at Luhua Pool. However, this runs into the issue of keeping Hydro gauge filled consistently with few applications is difficult. Childe or Mona would be ideal, as Childe can apply 2B from entering his melee stance and Mona applies 2B on the pop of her Q's bubble.
 
-A hydro slime can be used for purposes of always having hydro, but that encounters similar issues as using water.
+A Hydro slime can be used for purposes of always having Hydro, but that encounters similar issues as using water.
 
 **Further Investigations:**  
 Swirls:  
-What happens if we have a hydro slime with electro-charged on it, with a ruin guard with hydro a bit away from it, then use Sucrose to swirl the hydro onto the electro-charged slime.
-Does that re-apply hydro and update the EM values? Before this is even tested, I'll say it's probably "yes".
+What happens if we have a Hydro slime with Electro-Charged on it, with a ruin guard with Hydro a bit away from it, then use Sucrose to swirl the Hydro onto the Electro-Charged slime.
+Does that re-apply Hydro and update the EM values? Before this is even tested, I'll say it's probably "yes".
 
 **Other Findings (by Dooners#6709):**  
-Barbara (and likely other characters with similar abilities) can apply hydro to hydro slimes, even if they're immune to hydro damage. The relevancy here is that characters can up-date the EM snapshot of EC as long as they apply the element.  
+Barbara (and likely other characters with similar abilities) can apply Hydro to Hydro slimes, even if they're immune to Hydro damage. The relevancy here is that characters can up-date the EM snapshot of EC as long as they apply the Element.  
 Evidence: [Imgur](https://imgur.com/ZNKpRnt)
 
 ### Electro-Charged ICD
@@ -634,8 +634,8 @@ Electro when used to trigger EC cannot persist as Electro aura after the EC tick
 1. [1U Hydro into 2U Electro](https://youtu.be/r8PpZ7417pQ): No Electro after EC \(bugged since Electro should persist\).
 2. [1U Hydro into 4U Electro](https://youtu.be/HPGMxkiHMZA): No Electro after EC \(bugged since Electro should persist, no idea why Hydro aura persists for some time\).
 3. [1U Electro into 2U Hydro](https://youtu.be/sae2MdlOaNI): Hydro persists as aura after EC \(not bugged\).
-4. [1U Hydro into 1U Electro](https://youtu.be/6p3_MjqYTUw): No Electro \(bugged, electro should persist, no idea why the Hydro aura persists\).
-5. [4U Electro 1U hydro](https://youtu.be/03H2z-xu2Xw): Electro persists \(not bugged\).
+4. [1U Hydro into 1U Electro](https://youtu.be/6p3_MjqYTUw): No Electro \(bugged, Electro should persist, no idea why the Hydro aura persists\).
+5. [4U Electro 1U Hydro](https://youtu.be/03H2z-xu2Xw): Electro persists \(not bugged\).
 6. [2U Hydro into 2U Electro and 2U Hydro into 1U Electro](https://youtu.be/XwQQ3_FnoqM): Hydro persists \(not bugged\).
 7. [1U Electro into 1U Hydro](https://youtu.be/moRP2zL1SZ4): No Electro or Hydro after EC \(not bugged\).
 
@@ -685,7 +685,7 @@ Applying Electro-Charged on enemies already affected by Electro-Charged will sti
 
 **Evidence:**
 
-* Electro Resonance: You can see the electro orb being produced by attacks that would otherwise have no business producing an electro orb.  
+* Electro Resonance: You can see the Electro orb being produced by attacks that would otherwise have no business producing an Electro orb.  
   NOTE: More precise testing may be necessary for the Electro trigger \(it's difficult to get the enemy's gauge on screen to make sure they are still affected by EC when EC is triggered again while also being in a position to see the Electro particle from Electro Resonance\)
   * [Electro Resonance proccing when Electro triggers EC over an enemy already afflicted by EC](https://youtu.be/JjBCypQbxlU)
   * [Electro Resonance proccing when Hydro triggers EC over an enemy already afflicted by EC](https://youtu.be/VJLB59oQK2c)
@@ -710,10 +710,10 @@ Better understanding of the EC spaghetti code.
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843689180998402048_852779789747355688_transcript-simultaneous-hydro-on-freeze.html)
 
 **Finding:**  
-Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
+Applying a 2U Hydro -> 1U Cryo aura will cause the enemy to be affected by both frozen and Hydro. However, applying a 1U Cryo -> 2U Hydro will only cause the enemy to be affected by frozen.
 
 **Evidence:**  
-In [this video](https://youtu.be/wTNjwEvPrEk), in the first situation I apply 1U Cryo with Ganyu, then 2U Hydro with Childe, and the enemy is only affected by Frozen, as displayed by Diluc only shattering when hitting the enemy with a heavy pyro attack. However, in the second situation, I apply 2U Hydro with Childe, then 1U Cryo with Ganyu, and the enemy is affected by Frozen and Hydro, as displayed by Diluc vaporizing with a heavy pyro attack.
+In [this video](https://youtu.be/wTNjwEvPrEk), in the first situation I apply 1U Cryo with Ganyu, then 2U Hydro with Childe, and the enemy is only affected by Frozen, as displayed by Diluc only shattering when hitting the enemy with a heavy Pyro attack. However, in the second situation, I apply 2U Hydro with Childe, then 1U Cryo with Ganyu, and the enemy is affected by Frozen and Hydro, as displayed by Diluc vaporizing with a heavy Pyro attack.
 
 **Significance:**  
 More knowledge about how frozen interacts with underlying auras, possibly better rotations
@@ -762,13 +762,13 @@ Heavy attacks \(such as claymores, Geo, Klee's bombs, etc\) will apply Shatter o
 
 After applying Frozen status to a Hydro-affected enemy, such as Hydro Slimes, attack them with any heavy elemental attack.
 
-If an enemy has a natural aura or something like Xingqiu's Rain swords apply a new aura as the enemy is Shattered, the attack will react with the relevant Aura element, showing that the Elemental damage is "delayed" until after an enemy is already shattered.
+If an enemy has a natural aura or something like Xingqiu's Rain swords apply a new aura as the enemy is Shattered, the attack will react with the relevant Aura Element, showing that the Elemental damage is "delayed" until after an enemy is already shattered.
 
 **Significance:**
 
 This is especially relevant for Razor, who cannot Superconduct Frozen targets with his Hold E, forcing the usage of Tap E. Additionally, Klee cannot Melt frozen targets, and you cannot create Cryo Crystallize shields off of frozen targets with Geo attacks.
 
-This also allows Chongyun to chain Shatter back to back every ICD of his cryo-converted normal attacks, as long as Hydro element is re-applied immediately after Shatter.
+This also allows Chongyun to chain Shatter back to back every ICD of his Cryo-converted normal attacks, as long as Hydro Element is re-applied immediately after Shatter.
 
 ### Freeze Aura Mechanics
 
@@ -777,7 +777,7 @@ This also allows Chongyun to chain Shatter back to back every ICD of his cryo-co
 **Last tested:** <VersionHl date="2020-12-22" />
 
 **Finding:**  
-Freeze reduces the aura element by the trigger element, the same as any normal reaction. The original aura still exists invisibly underneath this new "Freeze” aura which behaves similar to normal cryo aura.
+Freeze reduces the aura Element by the trigger Element, the same as any normal reaction. The original aura still exists invisibly underneath this new "Freeze” aura which behaves similar to normal Cryo aura.
 
 **Evidence:**
 
@@ -789,7 +789,7 @@ In the following video:
 
 I apply 1U Cryo to an extended, 19s 2U Hydro. We can see that the 19s Hydro source lasted just over 7 seconds, which fits the estimated 11.875s reduction of 1U. A normal, 12s 2U aura is reduced by 7.5s, again, a 1U reduction.
 
-In one half of the video, I Shatter the Cryo. We can see that the underlying Hydro was unaffected by the Shatter, and lasted the same amount of time \(minus the hitlag from Noelle's attack\). If the Aura element was not completely reduced by the Freeze reaction, it still exists invisibly "underneath" the Frozen aura. It can be seen again by Shattering or otherwise reacting with the Freeze aura.
+In one half of the video, I Shatter the Cryo. We can see that the underlying Hydro was unaffected by the Shatter, and lasted the same amount of time \(minus the hitlag from Noelle's attack\). If the Aura Element was not completely reduced by the Freeze reaction, it still exists invisibly "underneath" the Frozen aura. It can be seen again by Shattering or otherwise reacting with the Freeze aura.
 
 A Frozen Cryo aura has a different icon:
 
@@ -807,7 +807,7 @@ Shatter only affects the Freeze aura, as a normal Cryo aura cannot Shatter.
 
 Swirl affects all elements, so it is the only reaction that can affect all 3 types of aura.
 
-Geo immediately Shatters with the Freeze aura before Crystallize can happen, then reacts with the underlying element.
+Geo immediately Shatters with the Freeze aura before Crystallize can happen, then reacts with the underlying Element.
 
 **Edit:** Not accurate, as Razor's tap E will reduce the Hydro aura. Requires further testing.
 
@@ -838,7 +838,7 @@ $$
 [Sheet](https://docs.google.com/spreadsheets/d/1N-4XyoVhiX0h2s07Ylrh1jBjAx3dhl7qPbyGDU2IOmQ/edit?usp=sharing) & [Videos](https://drive.google.com/drive/folders/1613wQOEuqRVqg6BFS8ExO_SJjE-ZhZE9?usp=sharing)
 
 **Significance:**
-The formula to find freeze duration is accurate to 0.1s or 6 frames in 60 fps for both cryo/hydro and both swirled auras. However it seems freeze duration is also affected by hitlag. Additionally ,It is unknown how Mona's c1 affects freeze duration for now.
+The formula to find freeze duration is accurate to 0.1s or 6 frames in 60 fps for both Cryo/Hydro and both swirled auras. However it seems freeze duration is also affected by hitlag. Additionally ,It is unknown how Mona's c1 affects freeze duration for now.
 
 ### Various GU Values of Shatter based on Different Types of Attacks
 
@@ -904,7 +904,7 @@ Preliminary findings on Shatter GU values of claymore attacks.
 bonus clips for Noelle N4: [https://youtu.be/uk17iITal8Y](https://youtu.be/uk17iITal8Y) [https://youtu.be/xZRQhEZaO1A](https://youtu.be/xZRQhEZaO1A)
 
 **Significance:**  
-It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and geo armor breaking \(although not all attacks that break geo armor shatter. Maybe threshold of 0.5U or smth?\)
+It might help us figure out how to optimize shield breaking as claymore users. Also possible connection to stagger values and Geo armor breaking \(although not all attacks that break Geo armor shatter. Maybe threshold of 0.5U or smth?\)
 
 ### Reactions On Frozen Targets With Dual Aura
 
@@ -941,8 +941,8 @@ Electro Examples:
 2U Cryo - 1U Hydro - 2U Electro: Superconduct
 
 Essentially, in order for two reactions to occur when using a heavy elemental hit, either:  
-a] the first aura applied to the enemy in the freeze reaction must be stronger than the second; the heavy hit will then cause whatever reaction should occur if the enemy were to only have the first aura applied and shatter (i.e. if you apply 2U Hydro, 1U Cryo, then 1U Pyro Heavy, then Vaporize will occur, since attacking a 2U Hydro enemy with pyro would normally cause vaporize).  
-b] an additional aura is applied on top of the enemy after frozen occurs. For example, normally, using a pyro heavy hit against an enemy who had been attacked with 2U Cryo, then 2U Hydro, would only cause shatter. However, if 1U Cryo is applied to that same enemy after being frozen, cryo reactions (such as melt or superconduct) can occur.
+a] the first aura applied to the enemy in the freeze reaction must be stronger than the second; the heavy hit will then cause whatever reaction should occur if the enemy were to only have the first aura applied and shatter (i.e. if you apply 2U Hydro, 1U Cryo, then 1U Pyro Heavy, then Vaporize will occur, since attacking a 2U Hydro enemy with Pyro would normally cause vaporize).  
+b] an additional aura is applied on top of the enemy after frozen occurs. For example, normally, using a Pyro heavy hit against an enemy who had been attacked with 2U Cryo, then 2U Hydro, would only cause shatter. However, if 1U Cryo is applied to that same enemy after being frozen, Cryo reactions (such as melt or superconduct) can occur.
 
 **Evidence:**
 
@@ -965,10 +965,10 @@ Better understanding about getting specific reactions against frozen enemies
 **Last tested:** <VersionHl date="2021-07-21" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856734863130099722_867166763661656084_transcript-ec-frozen-double-reactions.html)
 
-**Theory:** EC and Frozen with hidden hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the element priority list. The exceptions are Geo Crystallize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden hydro as it has to overcome the hydro aura rather than the (higher priority) frozen:  
+**Theory:** EC and Frozen with hidden Hydro do not always allow for double reactions with a subsequent trigger. Instead it is necessary to overcome the aura higher in the Element priority list. The exceptions are Geo Crystallize triggers which will only ever produce one crystal, and Anemo Swirl triggers, which seems to ignore the priority list in the case of hidden Hydro as it has to overcome the Hydro aura rather than the (higher priority) frozen:  
 [Double swirls](./transformative-reactions.md#how-to-get-double-swirls)
 
-Experimental element priority order:  
+Experimental Element priority order:  
 Electro > Pyro > Cryo > Freeze > Hydro
 
 **Evidence:**  
@@ -977,19 +977,19 @@ Overload but no Vape: [Video](https://www.youtube.com/watch?v=idsHY8NW5VE)
 OL and Vape: [Video](https://www.youtube.com/watch?v=NAmOAB1S3wc)  
 SC but no Freeze: [Video](https://youtu.be/u-OVAtdpwDk)  
 SC and Freeze: [Video](https://youtu.be/k-O51oX3JpI)  
-Electro Crystallize but no hydro: [Video](https://youtu.be/Z9zOXsy_qUY)  
-[Cannot produce two crystals with one geo trigger](./transformative-reactions.md#crystallize-on-an-electro-charged-enemy)
+Electro Crystallize but no Hydro: [Video](https://youtu.be/Z9zOXsy_qUY)  
+[Cannot produce two crystals with one Geo trigger](./transformative-reactions.md#crystallize-on-an-electro-charged-enemy)
 
 _For Frozen with Hidden Hydro:_  
 SC but no EC: [Video](https://youtu.be/PPjaMA9svmg)  
 SC and EC: No documented cases likely due to frozen aura being very high gauge and short duration  
 Melt but no Vape: [Video](https://youtu.be/Jtof5kfq8XI)  
 Melt and Vape: No documented cases likely due to frozen aura being very high gauge and short duration  
-Crystallize cannot be tested on hidden hydro due to shattering.
+Crystallize cannot be tested on hidden Hydro due to shattering.
 
 Element priority order:  
 Electro > Pyro > Anemo > Cryo > Freeze > Hydro > Dendro > Geo  
-Evidence for Anemo triggers defying this array is already provided in the ticket linked in the theory section. Additional testing is required on hidden hydro due to its strange behavior and the relatively unstudied gauge strength of frozen.
+Evidence for Anemo triggers defying this array is already provided in the ticket linked in the theory section. Additional testing is required on hidden Hydro due to its strange behavior and the relatively unstudied gauge strength of frozen.
 
 **Significance:** Allows for better (but still incomplete) understanding of when double reactions can be utilized and how to set them up. Additionally, both the previous [freeze table](./transformative-reactions.md#freeze-aura-mechanics) and the [EC interactions with other elements ticket](./transformative-reactions.md#interaction-of-other-elements-with-electrocharged-targets) are found to be inaccurate.
 
@@ -1039,7 +1039,7 @@ t_frozen_(i+1) =
 
 The variable t_decay is just needed for the calculations. If t_decay would be negative it “reset” to zero.
 
-The freeze duration in seconds is equal to the second formula. The value d_frozen is in elemental durability and is equal to twice the minimum of the cryo or hydro gauge when freeze is triggered.
+The freeze duration in seconds is equal to the second formula. The value d_frozen is in elemental durability and is equal to twice the minimum of the Cryo or Hydro gauge when freeze is triggered.
 This is derived form the "kinematic approach":
 
 ```
@@ -1165,23 +1165,23 @@ The only part of the formula that doesn't work here is the "Cryo gauge/origin au
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834597054301863965_839387910255280128_transcript-how-to-get-double-swirls.html)
 
 **Finding:**  
-On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
+On both Electro-Charged targets and Frozen targets with a simultaneous Hydro aura \(where both the Frozen icon and a Hydro icon show up above the target's head\), it is possible to get a "double swirl," where both elements \(Electro and Hydro in the EC case, or Cryo and Hydro in the Frozen case\) are both swirled. This can debuff the enemy's resistance to both elements. In order for a double swirl to occur, the gauge reduction from the Anemo hit must be greater than the Electro gauge \(in the case of EC\) or the Hydro gauge \(in Frozen/Hydro\). If two gauges are on the target, and Anemo is not stronger than one of the two, the Anemo attack will swirl Electro \(for EC\) or Hydro \(for Freeze/Hydro\).
 
 **Evidence:**  
-_Gauge reduction caused by Anemo must be greater than the hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of electro-charged\) in for a double swirl to occur_
+_Gauge reduction caused by Anemo must be greater than the Hydro gauge \(in the case where there is both a Hydro and Freeze aura present\) or the Electro aura \(in the case of Electro-charged\) in for a double swirl to occur_
 
 * [2U Hydro, 2U Cryo, 1U Hydro, 2U Anemo](https://www.youtube.com/watch?v=taCemVj_O5U) \(double swirl\)
 * [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(single swirl\)
 * [1U Hydro, 2U Electro, 1U Anemo](https://www.youtube.com/watch?v=sICRFyBBI0E&ab_channel=Ayzel) \(single swirl\)
-* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) \(double swirl; the EC reaction reduces the electro gauge low enough for the double swirl to occur\)
+* [1U Hydro, 2U Electro, 2U Anemo](https://www.youtube.com/watch?v=sSxmc6zIQH4&feature=youtu.be&ab_channel=Ayzel) \(double swirl; the EC reaction reduces the Electro gauge low enough for the double swirl to occur\)
 * [1U Hydro, 4U Electro, 2U Anemo](https://www.youtube.com/watch?v=GSfwME7zZ2o) \(single swirl\)
 
-A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the anemo reduction must be greater than the hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
+A future test of 1U Freeze, 2U Hydro, 2U Anemo is technically necessary to say for certain that the Anemo reduction must be greater than the Hydro aura in Freeze/Hydro, rather than any one of the gauges present. However, EC works this way and there is no known current method to test the above, so the behavior is currently believed to extend to Freeze/Hydro.
 
-_If the anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hydro\(Freeze\)_
+_If the Anemo gauge reduction isn't greater, the swirl will be Electro\(EC\)/Hydro\(Freeze\)_
 
-* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(hydro swirl\)
-* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) \(electro swirl\)
+* [2U Hydro, 2U Cryo, 1U Hydro, 1U Anemo](https://youtu.be/YPq9SXFVDYY) \(Hydro swirl\)
+* [2U Electro, 2U Hydro, 1U Anemo](https://youtu.be/vNOgRVMTLWg) \(Electro swirl\)
 
 **Significance:**  
 More knowledge about how swirl works, better rotations and team-building
@@ -1211,7 +1211,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 **Last tested:** <VersionHl date="2021-04-30" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_834419900104835122_837844958001758218_transcript-swirl-guide.html)
 
-**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled element. For example, if there are four targets who are all infused with electro, and an AOE anemo skill is used, only two instances of electro damage will be dealt to the four targets.
+**Finding:** Swirl has an AOE limit, where only two instances of AoE damage can happen for any swirled Element. For example, if there are four targets who are all infused with Electro, and an AOE Anemo skill is used, only two instances of Electro damage will be dealt to the four targets.
 
 **Evidence:** \(from Terrapin's Swirl Guide [here](https://docs.google.com/document/d/1Tk-nSE8mnwrPadFVtpBcV3iAeiI6LFwBSwRwpOArOn8/edit)\): [https://imgur.com/a/sFnA4YH](https://imgur.com/a/sFnA4YH)
 
@@ -1224,7 +1224,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 **Last tested:** <VersionHl date="2021-04-26" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_836234307764092988_836771613537206322_transcript-swirl-chain-reactions.html)
 
-**Finding:** When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
+**Finding:** When a Swirl reaction occurs and the AOE effect of the swirl reaction meets another enemy with an aura, the swirled Element will cause a reaction with that aura. This reaction will use the Anemo user's Character Level and Elemental Mastery to determine damage \(if applicable\). The subsequent reactions work in the same way that normal reactions do.
 
 **Evidence:**
 
@@ -1273,7 +1273,7 @@ Better understanding of the mechanics behind Freeze to better set up rotations i
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856103483316633610_856665866779623444_transcript-amped-swirl-snapshot.html)
 
 **Finding:**  
-Amplifying reactions derived from a swirl from pyro/cryo/hydro are not dynamic and WILL snapshot.
+Amplifying reactions derived from a swirl from Pyro/Cryo/Hydro are not dynamic and WILL snapshot.
 
 **Evidence:**
 
@@ -1355,7 +1355,7 @@ The first test in the video shows Noelle picking up a Cryo Crystallize shield an
 The second test in the video shows Noelle picking up a Cryo Crystallize shield, and taking many hits of Cryo damage where the shield does not break. If the shields stacked, in the original test the Cryo Crystallize shield should have persisted after the Pyro Crystallize shield was broken.
 
 **Significance:**  
-The player should only pick up correct-element crystallize crystals when fighting enemies dealing specific elemental damage.
+The player should only pick up correct-Element crystallize crystals when fighting enemies dealing specific elemental damage.
 
 ### Crystallize on an Electro-Charged Enemy
 
@@ -1367,7 +1367,7 @@ The player should only pick up correct-element crystallize crystals when fightin
 
 **Evidence:** [https://youtu.be/Z9zOXsy_qUY](https://youtu.be/Z9zOXsy_qUY)
 
-I electro charged in different orders with different application strengths. The result was always an Electro crystal.
+I Electro charged in different orders with different application strengths. The result was always an Electro crystal.
 
 **Significance:** Don't expect a Hydro crystal for petra buff on Electro-Charged opponents.
 
@@ -1445,11 +1445,13 @@ Nice to know that in EC Geo doesn't reduce Hydro gauge regardless of how strong 
 
 ## Burning
 
+### Initial Findings
+
 **By:** Scavenger\#6510
 
 **Added:** <Version date="2021-11-04" />  
-**Last tested:** <VersionHl date="2021-11-04" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888639666788655174_905948128526598184_transcript-current-dendro-mechanics-and-interactions.html)
+**Last tested:** <VersionHl date="2022-07-04" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_888639666788655174_905948128526598184_transcript-current-Dendro-mechanics-and-interactions.html)
 
 **Finding:**  
 Current Burning Mechanics: Applies 2U Pyro in a small AoE, which replenish the Pyro for Burning. Decay rate of Dendro in Burning is the sum of natural decay rate of the Pyro aura and the natural decay rate of the Dendro aura.
@@ -1486,9 +1488,9 @@ _Burning deals damage every 0.25 sec. Burning does not stun._
 
 ---
 
-_Burning is contagious. Applies Pyro in AOE around burning person/object_
+_Burning is contagious. Applies Pyro in AOE around Burning person/object_
 
-Can light the fire of a dendro state subject if lay it near dendro burning subject ( Perfect for trolling… and more)
+Can light the fire of a Dendro state subject if lay it near Dendro Burning subject (perfect for trolling… and more)
 
 [Evidence](https://youtu.be/3lRUAASRuTY)
 
@@ -1502,33 +1504,33 @@ This makes the task of maintaining burning-state full-time so much easier.
 
 ---
 
-_Dendro state object coated with hydro can be used as a medium for electro-charge/mist freeze because dendro hydro and electro can all exist at the same time, the same with dendro hydro cryo._
+_Dendro state object coated with Hydro can be used as a medium for Electro-Charge/Mist Freeze because Dendro, Hydro, and Electro can all exist at the same time, same with Dendro, Hydro, and Cryo._
 
 [Evidence](https://youtu.be/56ahHrt0rX8)
 
-You can see in this video that the super-conduct appears after we apply both cryo and electro.
+You can see in this video that the Superconduct appears after we apply both Cryo and Electro.
 
-At the end of this video, there's something about the layer of reaction. When 3 elements exist at the same time( In this case Electro/Dendro/Hydro) interact with Pyro, we can only see Evaporate and Overload, no burning reaction was sighted.
+At the end of this video, there's something about the layer of reaction. When 3 Elements exist at the same time (in this case Electro/Dendro/Hydro) interact with Pyro, we can only see Vaporize and Overload, no Burning reaction was sighted.
 
 [Evidence](https://www.youtube.com/watch?v=gzKLXN9RIrw)
 
-Notice the moment when the pyro flower trap activated when the vine is infused with cryo mist, it causes some reaction looks just like shatter, or melt.
+Notice the moment when the Pyro flower trap activated when the vine is infused with Cryo mist, it causes some reaction looks just like shatter, or melt.
 
 ---
 
-* Constant Hydro apply to prolong the duration of dendro (double the duration)\*
+* Constant Hydro apply to prolong the duration of Dendro (double the duration)\*
 
-Normal dendro duration: [Evidence](https://youtu.be/IUUGKHKzIBo)
+Normal Dendro duration: [Evidence](https://youtu.be/IUUGKHKzIBo)
 
-Hydro dendro duration: [Evidence](https://youtu.be/uyvo_tj4hKE)
+Hydro Dendro duration: [Evidence](https://youtu.be/uyvo_tj4hKE)
 
 Comparison: [Evidence](https://youtu.be/flraVyag7Rw)
 
 ```
 Normal 543 out                  1286 => duration 743
 Raining heavily 476 out         1846 => duration 1370
-Raining heavily   504 out       1988 => duration 1484
-Raining heavily   367 out       1854 => duration 1487
+Raining heavily 504 out         1988 => duration 1484
+Raining heavily 367 out         1854 => duration 1487
 ```
 
 Comparison: [Evidence](https://youtu.be/0JLT9C-UAdc)
@@ -1536,18 +1538,18 @@ Comparison: [Evidence](https://youtu.be/0JLT9C-UAdc)
 ```
 Dendro applied: 456
 662 wet
-2111 dendro end
+2111 Dendro end
 Dendro duration: 13.79s
-3446 dendro applied
+3446 Dendro applied
 3659 wet
-4803 hydro and dendro end
+4803 Hydro and Dendro end
 Hydro duration: 1144~ 9.5s
 Dendro duration: 1357 ~ 11.3s
 ```
 
 ```
-6157 dendro applied
-7026 dendro end
+6157 Dendro applied
+7026 Dendro end
 Duration : 869 ~ 7.2 s
 ```
 
@@ -1560,24 +1562,24 @@ _Gauge of Pyro after burning_
     [Evidence](https://youtu.be/VoGbzR3AdjE)
 
     ```
-    702 pyro only
-    2981 pyro end
-    2279 pyro duration   >> 19 sec
+    702 Pyro only
+    2981 Pyro end
+    2279 Pyro duration   >> 19 sec
     ```
 
     [Evidence](https://youtu.be/T_nI2hIzM_c)
 
     ```
-    413 pyro only
-    2742 pyro end >> 19,408 sec ( this video bring up the subject that even though Klee apply 2U pyro at the last hit, the change is insignificant.
-    The duration of pyro after burning doesn’t depend on the unit gauge apply)
+    413 Pyro only
+    2742 Pyro end >> 19,408 sec (this video bring up the subject that even though Klee apply 2U Pyro at the last hit, the change is insignificant.
+    The duration of Pyro after burning doesn’t depend on the unit gauge apply)
     ```
 
     [Evidence](https://youtu.be/eOJ2tc4KNwU)
 
     ```
-    692 pyro only
-    2981 pyro end
+    692 Pyro only
+    2981 Pyro end
     2289 duration >> 19.075s
     ```
 
@@ -1586,31 +1588,31 @@ _Gauge of Pyro after burning_
 
     ```
     First part 2B test
-    2B pyro apply
-    440 pyro only
-    1931 pyro end
+    2B Pyro apply
+    440 Pyro only
+    1931 Pyro end
     1491 duration >> 12.425s
 
     Second part 2B test
-    2B pyro apply
-    4953 pyro only
-    6416 pyro end
+    2B Pyro apply
+    4953 Pyro only
+    6416 Pyro end
     1463 duration >> 12.2 s
 
     Third part 2B test
-    This test is testing with 2B pyro with dendro applied twice
-    10720 pyro only
-    12145 pyro end
+    This test is testing with 2B Pyro with Dendro applied twice
+    10720 Pyro only
+    12145 Pyro end
     1425 duration >> 11.875s >> the change is insignificant >>
-    the pyro unit gauge was somehow maintained even if there’s an interruption of dendro supply in the middle,
-    and the duration won’t change even if we apply pyro first
+    the Pyro unit gauge was somehow maintained even if there’s an interruption of Dendro supply in the middle,
+    and the duration won’t change even if we apply Pyro first
     ```
 
     These times are consistent with 1.6A and 1.6B decay times. So Burning "boosts" the aura strength to 1.6U
 
 ---
 
-_Decay rate of dendro while burning is the sum of the natural decay rates of Dendro and Pyro auras_
+_Decay rate of Dendro while burning is the sum of the natural decay rates of Dendro and Pyro auras_
 
 Through the first part, we have more clues to try to solve this, the data below using the same videos.
 
@@ -1628,37 +1630,79 @@ Section B: Apply 2B
 Avg duration: 343.67~ 2.864s
 
 Some calculations:
-Dx = decay rate number of/in case of x ( U/frame, frame count in 120fps)
-0: of dendro
+Dx = decay rate number of/in case of x (U/frame, frame count in 120fps)
+0: of Dendro
 1: A        11.875 * 120= 1425 frame
 2: B         7.5 * 120 =900 frame
-D0= U /869 ( using new frame data)
+D0= U /869 (using new frame data)
 D1= U/437.67
 D2=U/343,67
 
-Hypothesis: Every 0.2 seconds, the dendro will reapply the pyro unit that has gone to its original state at 1.6U using its own unit gauge.
-That is the same as saying that only the dendro unit gauge will decline, the pyro unit gauge will be maintained at 1.6U the whole duration of the reaction.
+Hypothesis: Every 0.2 seconds, the Dendro will reapply the Pyro unit that has gone to its original state at 1.6U using its own unit gauge.
+That is the same as saying that only the Dendro unit gauge will decline, the Pyro unit gauge will be maintained at 1.6U the whole duration of the reaction.
 Dx= D0 + 1/ either the frame of A or B
 
 Proof:
 >> D1 = D0 + 1/ 1425;    D2= D0+ 1/900
 >> U/437.67= U /869 + 1/ 1425 and U/343,67= U /869+ 1/900
->>U~ 0.62 and U ~0.63 ( We don’t care about actual Unit gauge of dendro samachurl yet because we need more accurate numbers, but it is close enough)
+>>U~ 0.62 and U ~0.63 (We don’t care about actual Unit gauge of Dendro samachurl yet because we need more accurate numbers, but it is close enough)
 The result is close enough (0.62 and 0.63) to be deemed insignificant. Proved.
 ```
 
 ---
 
-_All the pyro hilichurls are immune to dendro burning_
-
-[Evidence](https://www.youtube.com/watch?v=7_9180fqy7s)
+All the Pyro Hilichurls \(including Pyro Axe Mitachurls\) are immune to heating DMG: [evidence 1](https://www.youtube.com/watch?v=7_9180fqy7s), [evidence 2](https://youtu.be/UpBdYWyXpKo)
 
 Notice the hilichurl takes no burning dmg but still burns any grass it stepped on. The icon on his head is a burning aura (very much like a freezing aura of freeze reaction). (This video is my experiment about the impact of EM on burning dmg, but it unexpected turn out like that). Only this kind of hilichurl have this odd ability was sighted so far.
 
 ---
 
+**Edit (2022-10-30):**  
+Dendro spread is deleted: [evidence 1](https://youtu.be/ve4noERYgi8), [evidence 2](https://youtu.be/FwCsLEBa5yY)  
+
 **Significance:**  
 Better understanding for the mechanics of burning. Dendro shields are be burnt down faster by 2B Pyro and 1A Pyro.
+
+### Dendro Burning Ownership DMG
+
+**By:** Scavenger\#6510  
+**Added:** <Version date="2022-10-13" />  
+**Last tested:** <VersionHl date="2022-07-04" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/Dendro-burning-ownership-dmg)  
+
+**Findings:**  
+1. Dendro Burning ownership belongs to the one who last applies the Element for the reaction to happen.  
+2. Burning can be changed ownership in the middle, either by directly reapplying Dendro or Pyro, or by spreading the Pyro with Swirled/absorbed Pyro, nothing else. Ownership belongs to the character/enemy that makes the change.
+3. Character level and EM affect Burning DMG, the damage formula is shared with other Transformative Reactions, with the reaction constant/base multiplier being 0.5.
+4. There is a difference between the heat source and heating DMG.
+   * Heating DMG = Dendro Burning's Pyro DMG.
+   * Heat source = An object has heating DMG.
+   * It looks like burning grass/torch/etc. at first glance, but Burning in the environment depends solely on Zone Level, aka, the damage zone the character is standing in, not affected by level and EM like heating DMG.
+   * When the Dendro Burning reaction happens, the burning entity should be considered as a heat source: dealing heating DMG to anyone who comes close in hug-range, can apply Pyro, but can't cause a reaction.
+5. If applying Dendro/Pyro On existing Dendro Burning with different ownership right when the reaction ticks again, the ownership of the reaction won't change even if the Element is reapplied again. This is a potential bug.
+
+**Evidence:**  
+1. [YouTube](https://youtu.be/eg2jii5nQOM)
+   * Notice the damage difference when Bennet triggers the Burning reaction and when Dendro Samachurl triggers the Burning reaction
+2. Ownership
+   * Pyro application taking ownership: [YouTube](https://youtu.be/UbnR5MF78Ck)
+   * Proof that it is the latest application, not the highest damage: [YouTube](https://youtu.be/ZkP_DwLYIlU)
+   * Direct Pyro Swirl not taking ownership: [YouTube](https://youtu.be/H97iiAzWhKs)
+   * Dendro and self-applied Pyro giving ownership: [YouTube 1](https://youtu.be/JGOpFqoo2R0), [YouTube 2](https://youtu.be/RCqKoUVKFjM)
+   * Absorbed Pyro: [YouTube](https://youtu.be/j1NyUsX8GUE)
+   * Swirling Pyro: [YouTube](https://youtu.be/a-R7WsEKegA)
+3. [YouTube](https://youtu.be/j1NyUsX8GUE)
+   * The ratio of absorbed Swirl DMG and Burning DMG is exactly 2.4 if the base multiplier is 0.5.
+4. Heating DMG
+   * From character to enemy: [YouTube](https://youtu.be/lWsO4g8bKSM)
+   * From enemy to character: [YouTube](https://youtu.be/bh6jkNcccFo)
+     * Notice how the burning tick rate's twice as fast \(come from both the character's own Burning and the heating DMG of the hilichurl\) when coming closer to the hilichurl compared to stand afar.
+5. [YouTube](https://youtu.be/4dx9kHtpeR8)
+
+Credits to Aevean Leeow\#1362 and pai\#3602 for testing, and BlueBery\#9054 for additional footage.  
+
+**Significance:**  
+Better understanding of how Burning works by digging into whose ownership is it.  
 
 ## Bloom
 
