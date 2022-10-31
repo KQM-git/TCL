@@ -134,22 +134,22 @@
     "Burst": [{
         "name": "Default",
         "hitmark": 71,
-        "n1": 53,
+        "n1": 54,
         "skill": 55,
         "dash": 54,
         "jump": 54,
-        "swap": 52,
+        "swap": 53,
         "cd": 0,
         "energy": 3
     },
     {
         "name": "In E",
         "hitmark": 69,
-        "n1": 101,
+        "n1": 102,
         "skill": 102,
-        "dash": 102,
+        "dash": 103,
         "jump": 102,
-        "swap": 100,
+        "swap": 101,
         "cd": 66,
         "energy": 71
     }],

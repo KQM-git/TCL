@@ -12,6 +12,7 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1TDAItxWT_p76Z84EMpk2oIAN2etTWR0DiubllnWBnbc/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 
 ### Aimed Shot weak-point spam MV/s
 
@@ -35,6 +36,12 @@ For calculations, bow charge time averaged at 100 frames to accommodate for huma
 Aimed shot gap-fill for C0 players is somewhat viable during E downtime, at least for single-target DPS.
 
 **Editor’s note \(JimminyJon\#5698\):** Disparity between the aimed shot and melee will grow with higher crit rate, as the relative increase to average crit bonus becomes smaller between weak-spot hits and melee normals. Also, weapons like Rust will suffer from -CA DMG. Due to being single target, Aimed shot will also lose out with grouping effects like VH/Venti.
+
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
 
 ## Skill Mechanics
 

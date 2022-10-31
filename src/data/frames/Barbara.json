@@ -64,12 +64,12 @@
     },
     "Burst": {
         "name": "Cast",
-        "n1": 142,
-        "ca": 139,
+        "n1": 141,
+        "ca": 140,
         "skill": 140,
-        "dash": 161,
-        "jump": 162,
-        "swap": 198,
+        "dash": 160,
+        "jump": 160,
+        "swap": 195,
         "cd": 1,
         "energy": 6,
         "notes": "Healing: 77f"

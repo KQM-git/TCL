@@ -12,6 +12,13 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1PDHCZKh-7eWpbE1b0OyQUCzSPHcViYZ22EDEItjiU7Y/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
+
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
 
 ## Weapon Mechanics
 

@@ -22,6 +22,12 @@ search: false
   * [E and C2](https://imgur.com/HQwwq5N): No ICD
   * [Burst](https://imgur.com/WRO5A6k): Titanbreaker and Stormcluster have separate ICDs for electro application
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 * Tengu Juurai: Ambush DMG can proc Sacrificial Bow's passive. - [Wishiwashi#2548](https://imgur.com/a/lGH7qcD)

@@ -72,6 +72,7 @@ import Skill from '@site/src/components/char/Skill'
 * Ganyu's Charged Attacks snapshot on release, including the bloom.
 * Ganyu cannot perform the "ARCC" aimed shot animation cancel without Constellation 6.
 * Fully Charged Frostflake Arrows have an Airspeed Velocity of approximately 55 m/s.  
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 
 </TabItem>
 

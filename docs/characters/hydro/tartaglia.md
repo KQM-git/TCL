@@ -71,9 +71,8 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* Recovery of 6th Hit is 53 Frames.
-* MV/s stated is without recovery and assumes a standing combat-neutral startup.
 * Charged Attack frame counts are done using by holding and releasing the Normal Attack button.
+* After the first 0.7s, Aimed Shot damage and Gauge Unit will drop off 10% for every 0.05s the arrow travels in air \(up to a total of 90%\).
 * Both **Riptide Flash** and **Riptide Burst** do not snapshot.
 
 </TabItem>
@@ -141,7 +140,6 @@ import Skill from '@site/src/components/char/Skill'
 
 **Notes**
 
-* All frame counts are done against a Ruin Guard.
 * Gives 1 Hydro Particle upon proc. However, this particle generation has an ICD of 3 seconds.
 * **Riptide** and **Riptide Slash** can be applied and triggered by Aimed Shot, both Physical and Hydro, by switching to melee stance before the arrow hits an enemy.
 * Using this skill in quick succession after a partial **Bow Stance** attack string allows Childe to continue the attack string in **Melee Stance**.

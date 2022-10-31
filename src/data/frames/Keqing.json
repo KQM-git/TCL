@@ -73,13 +73,12 @@
         "name": "Cast",
         "hitmark": 56,
         "n1": 123,
-        "skill": "124/123",
-        "dash": 122,
+        "skill": 123,
+        "dash": 124,
         "jump": 124,
-        "swap": 123,
+        "swap": 122,
         "cd": 52,
-        "energy": 54,
-        "notes": "E cast cancel is 124f, E recast cancel is 123f"
+        "energy": 54
     },
     "Other": [{
         "name": "Dash",

@@ -137,6 +137,7 @@ import Skill from '@site/src/components/char/Skill'
   * This self-swirl interaction does not count as a reaction for Freedom\-Sworn Passive stacks and 4pc Instructor set effect.
   * In Sunfire \(when Jean's Burst and Bennett's Burst overlap\), if Jean triggers Overload the Freedom\-Sworn Passive will be activated.
   * In Sunfire, Bennett can trigger the 4pc VV effect set himself if he's the triggerer of Sunfire self-swirl.
+* If Jean casts her Burst right before the Final Calamity begins during the Raiden Shogun weekly boss fight, the Dandelion Breeze field exit damage at end of Burst duration will proc Electro Swirl off of invisible Raiden Shogun's shield.
 
 </TabItem>
 </Tabs>

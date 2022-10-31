@@ -77,12 +77,12 @@
     "Burst": {
         "name": "Cast",
         "hitmark": 79,
-        "n1": 100,
+        "n1": 99,
         "skill": 100,
-        "walk": 78,
-        "dash": 38,
-        "jump": 39,
-        "swap": 97,
+        "walk": 98,
+        "dash": 78,
+        "jump": 79,
+        "swap": 98,
         "cd": 0,
         "energy": 5,
         "notes": [

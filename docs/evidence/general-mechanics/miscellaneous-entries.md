@@ -1159,3 +1159,19 @@ Anemograna are procced on Skill cast and do not have to be on solid ground to pr
 
 **Significance:**  
 May assist early game exploration within Teyvat and makes specific puzzles easier.
+
+## How To Keep Your Weapon Half A Second More
+
+**By:** Magnus Artifex\#8719  
+**Added:** <Version date="2022-10-27" />  
+**Last tested:** <VersionHl date="2022-10-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/how-to-keep-your-weapon-half-a-second-more)  
+
+**Finding:**  
+Some characters can keep their weapons if you change them mid sheathing animation, but only when the golden particles start appearing.  
+  
+**Evidence:**  
+[Imgur](https://imgur.com/a/7cIJwkY)  
+  
+**Significance:**  
+weapons have are in a constant state of seizure pain or pleasure.

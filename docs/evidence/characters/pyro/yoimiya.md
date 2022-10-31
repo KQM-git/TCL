@@ -16,6 +16,7 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1DYYiGSNeFekVt3eQQC_MujkLCd_8rgPIIlpPNvwHKTA/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges - [xf3#3123](https://imgur.com/a/cmgaCZm)
   * Level 1 Charged Shot: 1A
   * Level 2 Charged Shot: 1A
@@ -73,6 +74,12 @@ The 3 Kindling Arrows didn't crit when hitting the weakspot but clearly activate
 
 **Significance:**  
 Easier activation of the Prototype Crescent passive on Yoimiya and a possible bug where the Kindling Arrow hit doesn't activate the 100% crit on weakspots.
+
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
 
 ## Skill Mechanics
 

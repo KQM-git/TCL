@@ -11,6 +11,7 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1NPOothWseChb-OzOHQqunBdi-M3udmQPqPop0kf7H-w/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Elemental Skill gauges:
   * [Press E](https://imgur.com/a/eTkLPB9): 2U
   * [Hold E](https://imgur.com/a/8QO4f8V): 1U

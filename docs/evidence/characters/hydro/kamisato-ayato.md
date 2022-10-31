@@ -13,6 +13,7 @@ search: false
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_945097851195777054_967855065442439219_transcript-ayato-basic-mechanics.html)
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1VL6nQvehIj8wTFC6ACC88p3i8lGUZnZV8Lx0G1dZp88/edit?usp=sharing) - Kurt\#5846 & Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Gauges:
   * E converted NA: 1A - [Video](https://youtu.be/CvKRbzzdiIc) - Sayline\#5959
   * E explosion: 1A - [Video](https://youtu.be/8h5MWkg7aYg) - Sayline\#5959

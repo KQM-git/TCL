@@ -1681,7 +1681,7 @@ On-reaction effects can only be activated when reactions are triggered on enemie
 * [Video 6](https://youtu.be/meJgi42NZ5k)
 * [Video 7](https://youtu.be/MnEtiI7HjO8)
 
-Freedom-Sworn and C4 Keqing behave the same, reactions on burning grass and electrified water won't work (Source: I don't have them but dudes trust me).
+Freedom-Sworn and C4 Keqing behave the same, reactions on burning grass and electrified water won't work (Source: I don't have them but dudes trust me).  
 
 **Significance:**  
 Better understanding of reactions and what count as reactions to trigger effects with character Talents, weapons or artifacts \(plus in the future people won't have to make separate ticket every single time for similar cases unless they behave differently with the upcoming Dendro reactions\).  
@@ -1697,4 +1697,4 @@ On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Co
 * [YouTube](https://youtu.be/99SasHI7fMU): Mappa Mare and 4P Gilded Dreams with Burgeon, Klee A1
   
 **Significance:**  
-Better understanding of on-reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.
+Better understanding of on-reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.  

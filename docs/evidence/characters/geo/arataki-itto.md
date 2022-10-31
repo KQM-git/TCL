@@ -9,6 +9,7 @@
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_919451034575847464_924496285996830730_transcript-itto-basic-mechanics.html)
 
 * New frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/13ad3uH2DazxotwjQE6qvWRfcQJpmhkxN4nsbc3vUx78/edit?usp=sharing) - Kolibri\#7675
+* New Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 * Deprecated frame data:
   * [NA](https://youtu.be/L0IcjCtR6Jo) - pai\#3602
   * [NA (in Q)](https://youtu.be/X3wVOo6_FhE) - pai\#3602

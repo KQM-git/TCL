@@ -13,6 +13,12 @@ search: false
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1XDS-RP7G7-htZ4PP9A5SXPbg7Gy-Laksp4oXwObNgf8/edit?usp=sharing) - Kolibri\#7675
 * Aim mode frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/187T-SngEZUUordjY_K_tF_DdvHjQju9CoBJdp2eJOis/edit?usp=sharing) - BowTae\#0141
 
+### Aimed Shot Damage Dropoff
+
+import ASdropoff from '../../../characters/_common/aimed_shot_dropoff.md'
+
+<ASdropoff />
+
 ## Skill Mechanics
 
 ### Baron Bunny's aura
@@ -105,6 +111,24 @@ Baron Bunny has a hitbox that players can hit with normal attacks. Some characte
 **Significance:**  
 Increases the potential Dragonstrikes Per Second of VV Vape Hu Tao.  
 Fluff.
+
+### Baron Bunny Canceling
+
+**By:** BowTae\#0141, ItPainSoHurt\#5018  
+**Added:** <Version date="2022-10-25" />  
+**Last tested:** <VersionHl date="2022-10-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/baron-bunny-canceling)
+
+**Finding:**  
+Baron Bunny can be dash canceled or jump canceled \(while stationary\) to activate artifact/domain/Spiral Abyss effect requirements.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/235Y4bFz7rQ)  
+[YouTube](https://youtu.be/4LHEL7JnYro)  
+[YouTube](https://youtu.be/cgx6rTTyF1Q)  
+  
+**Significance:**  
+Amber can activate effect bonuses that require activating her skill \(Crimson Witch set, Windblume Ode, etc.\) without dealing with her Skill's long cooldown at any Constellation, allowing constant uptime of the bonuses.  
 
 ## Burst Mechanics
 

@@ -11,6 +11,7 @@ search: false
 ## Basic Mechanics
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1R_OywCjjSW8PeYPPniBLVnoTZ8uQ2L_GLKYmQvFTHV0/edit?usp=sharing) - phaZZi\#6461 & Kolibri\#7675
+* Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
 
 ## Skill Mechanics
 
@@ -85,6 +86,23 @@ Barbara skill ring is spawning ridiculous numbers of blooms due to an interactio
   
 **Significance:**  
 Barbara Skill can lead to extremely high Bloom counts very easily reaching the cap.
+
+### Barbara E Ring Applies Hydro Cleanse To Co-Op Members In Contact Too
+
+**By:** aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\#3860  
+**Added:** <Version date="2022-10-23" />  
+**Last tested:** <VersionHl date="2022-10-23" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/barbara-e-ring-applies-hydro-cleanse-to-co-op-members-in-contact-too)  
+
+**Finding:**  
+When Barbara E ring cleanses your own character, it cleanses Co-Op members in contact with it too \(initial cast included\).  
+
+**Evidence:**  
+[YouTube](https://youtu.be/S_WsQDhdbX8)  
+You can see wet status applied to me \(Barbara\) and Co-Op members that the Barbara E ring is in contact with, with the wet status in Mandarin text appearing above me and those in contact with it.  
+
+**Significance:**  
+Found out that Barbara can cleanse Co-Op members too, and make other players wet.  
 
 ## Constellation Mechanics
 
