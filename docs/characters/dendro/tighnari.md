@@ -131,6 +131,11 @@ import Passive from '@site/src/components/char/Passive'
 
 <TabItem value="a4" label="Ascension 4">
 <Passive char={char} passive={1} />
+
+**Notes**  
+
+* Tighnari A4 benefits from percentage-based EM buffs.
+
 </TabItem>
 </Tabs>
 
