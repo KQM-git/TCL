@@ -1669,9 +1669,24 @@ Better understanding for the mechanics of burning. Dendro shields are be burnt d
 **Last tested:** <VersionHl date="2022-10-14" />  
 [Discussion](https://tickets.deeznuts.moe/transcripts/chemistry-101-what-are-reactions-1002292162697904138-1665754940462)  
 
-:::note
-An addition to old finding, which is still correct in most cases.  
-:::
+**Finding:**  
+On-reaction effects can only be activated when reactions are triggered on enemies or animals \(cat, dog, kitsune, and types that give raw meat or fowl as only they can hold aura\).
+
+**Evidence:**  
+* [Video 1](https://youtu.be/sSygOsWvXA8)
+* [Video 2](https://youtu.be/zZ9o13VtJ_M)
+* [Video 3](https://youtu.be/c6AncR9Q9YY)
+* [Video 4](https://youtu.be/ryDkkfGMY6E)
+* [Video 5](https://youtu.be/lsS0eKe1AaM)
+* [Video 6](https://youtu.be/meJgi42NZ5k)
+* [Video 7](https://youtu.be/MnEtiI7HjO8)
+
+Freedom-Sworn and C4 Keqing behave the same, reactions on burning grass and electrified water won't work (Source: I don't have them but dudes trust me).
+
+**Significance:**  
+Better understanding of reactions and what count as reactions to trigger effects with character Talents, weapons or artifacts \(plus in the future people won't have to make separate ticket every single time for similar cases unless they behave differently with the upcoming Dendro reactions\).  
+
+Below is an addition to the old finding, which is still correct in most cases.  
 
 **Finding:**  
 On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
@@ -1682,4 +1697,4 @@ On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Co
 * [YouTube](https://youtu.be/99SasHI7fMU): Mappa Mare and 4P Gilded Dreams with Burgeon, Klee A1
   
 **Significance:**  
-Better understanding of on reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.
+Better understanding of on-reaction effects triggering requirements with the Dendro installment of the Elemental Reaction System. This changes everything.

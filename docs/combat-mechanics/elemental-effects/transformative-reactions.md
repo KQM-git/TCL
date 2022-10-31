@@ -164,7 +164,7 @@ Additionally, the decay rate of the Dendro aura while Burning is the sum of the 
 
 ## Bloom
 
-On-reaction effects can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
+On-reaction effects can only be activated when reactions are triggered on enemies or animals \(cat, dog, kitsune, and types that give raw meat or fowl as only they can hold aura\). They can be activated through Hyperbloom and Burgeon on Dendro Cores with or without any other target nearby. Such reactions are counted as Dendro-related reactions.  
 
 ## Evidence Vault
 
