@@ -2404,5 +2404,93 @@
       "name": "Kagura Dance of the Sacred Sakura",
       "desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by **12%**/**15%**/**18%**/**21%**/**24%** for 16s. Max 3 stacks. This character will gain **12%**/**15%**/**18%**/**21%**/**24%** All Elemental DMG Bonus when they possess 3 stacks."
     }
+  },
+  "A Thousand Floating Dreams": {
+    "name": "A Thousand Floating Dreams",
+    "weaponType": "Catalyst",
+    "stars": 5,
+    "weaponCurve": [
+      {
+        "stat": "Base ATK",
+        "init": 44.3358,
+        "curve": "ATK 3.4"
+      },
+      {
+        "stat": "Elemental Mastery",
+        "init": 57.6,
+        "curve": "C3"
+      }
+    ],
+    "ascensions": [
+      {
+        "level": 0,
+        "maxLevel": 20,
+        "statsUp": []
+      },
+      {
+        "level": 1,
+        "maxLevel": 40,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 31.1
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "maxLevel": 50,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 62.2
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "maxLevel": 60,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 93.4
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "maxLevel": 70,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 124.5
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "maxLevel": 80,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 155.6
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "maxLevel": 90,
+        "statsUp": [
+          {
+            "stat": "Base ATK",
+            "value": 186.7
+          }
+        ]
+      }
+    ],
+    "refinements": {
+      "name": "A Thousand Nights' Dawnsong",
+      "desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by **32**/**40**/**48**/**56**/**64**. If not, increase the equipping character's DMG Bonus from their Elemental Type by **10%**/**14%**/**18%**/**22%**/**26%**. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by **40**/**42**/**44**/**46**/**48**. Multiple such effects from multiple such weapons can stack."
+    }
   }
 }

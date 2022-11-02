@@ -5,6 +5,10 @@ import catalysts from '@site/src/data/weapons/Catalyst.json'
 
 ## 5 Stars
 
+### A Thousand Floating Dreams
+
+<Weapon weapon="A Thousand Floating Dreams" weapons={catalysts} />
+
 ### Everlasting Moonglow
 
 <Weapon weapon="Everlasting Moonglow" weapons={catalysts} />
