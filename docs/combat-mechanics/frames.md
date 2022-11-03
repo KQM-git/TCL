@@ -35,7 +35,7 @@ Normal Attack animations consist of:
 * Hitmark, which either happens before or during hitlag if the attack has hitlag.
 * Recovery, which varies depending on the following action. By default this is the following Normal Attack in the string \(and N1 if it's the character's last Normal Attack\).
  
-Unlike other weapon types, the animation of Bow Normal Attacks starts when the attack button is released, not when it's pressed down.  
+For Sword, Claymore, Polearm, and Catalyst users, the N1 animation starts when the attack button is pressed down; the rest of the Normal Attack animations start when the button is lifted up, and if it's held down for a certain amount of time a Charged Attack animation will start instead of the following Normal Attack animation. As for Bow users, all Normal and Charged Attack animations start when the attack button is lifted up.  
 
 Most Normal Attacks can be animation cancelled at any time with Skill, Burst, dash, jump, and swap before the attack goes through; so not only do these actions cancel recovery, they can also cancel the attack itself. These cancels are not listed on character pages unless a Normal Attack **can't** be animation cancelled, because in most cases they can and we can just use the same frame as the hitmark for the earliest animation cancel, assuming frame-perfect inputs. This does not occur with most other attacks as the input for these actions are either buffered or ignored, meaning for the most part only Normal Attacks can be cancelled completely while with other attacks only recovery can be cancelled.  
 
