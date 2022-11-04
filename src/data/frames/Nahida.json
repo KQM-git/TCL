@@ -1,0 +1,119 @@
+{
+    "NA": [{
+        "name": "N1",
+        "hitmark": 23,
+        "hitlag": 0,
+        "default": 30,
+        "ca": 26,
+        "skill": 21,
+        "burst": 21,
+        "walk": 35,
+        "dash": 21,
+        "jump": 23,
+        "swap": 21
+    }, 
+    {
+        "name": "N2",
+        "hitmark": 15,
+        "hitlag": 0,
+        "default": 22,
+        "ca": 23 ,
+        "skill": 13,
+        "burst": 13,
+        "walk": 31,
+        "dash": 13,
+        "jump": 13,
+        "swap": 13
+    },
+    {
+        "name": "N3",
+        "hitmark": 26,
+        "hitlag": 0,
+        "default": 38,
+        "ca": 37,
+        "skill": 24,
+        "burst": 24,
+        "walk": 45,
+        "dash": 26,
+        "jump": 25,
+        "swap": 24
+    },
+    {
+        "name": "N4",
+        "hitmark": 40,
+        "hitlag": 0,
+        "default": 71,
+        "ca": 69,
+        "skill": 40,
+        "burst": 40,
+        "walk": 68,
+        "dash": 39,
+        "jump": 39,
+        "swap": 39
+    }],
+    "CA": {
+        "name": "CA",
+        "hitmark": 65,
+        "hitlag": 0,
+        "n1": 65,
+        "ca": 65,
+        "skill": 65,
+        "burst": 64,
+        "walk": 69,
+        "dash": 21,
+        "jump": 21,
+        "swap": 21
+    },
+    "Skill": [{
+        "name": "Press",
+        "hitmark": 13,
+        "n1": 28,
+        "ca": 28,
+        "skill": 32,
+        "burst": 32,
+        "walk": 32,
+        "dash": 27,
+        "jump": 26,
+        "swap": 25,
+        "cd": 11,
+        "notes": "Tri-Karma Purification procs 4f after a reaction"
+    },
+    {
+        "name": "Hold",
+        "hitmark": 33,
+        "n1": 57,
+        "ca": 58,
+        "skill": 62,
+        "burst": 62,
+        "walk": 63,
+        "dash": 59,
+        "jump": 62,
+        "swap": 57,
+        "cd": 30,
+        "notes": "Max duration for Hold E: 330f"
+    }],
+    "Burst": {
+        "name": "Cast",
+        "n1": 112,
+        "ca": 112,
+        "skill": 112,
+        "walk": 112,
+        "dash": 112,
+        "jump": 112,
+        "swap": 112,
+        "cd": 0,
+        "energy": 6,
+        "notes": [
+            "Field start: 66f",
+            "Field duration: 920f (counting from when the field starts)"
+        ]
+    },
+    "Other": [{
+        "name": "Dash",
+        "default": 21
+    },
+    {
+        "name": "Jump",
+        "default": 29
+    }]
+}
