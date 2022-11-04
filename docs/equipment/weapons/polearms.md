@@ -42,6 +42,8 @@ import polearms from '@site/src/data/weapons/Polearm.json'
 
 <Weapon weapon="Staff of the Scarlet Sands" weapons={polearms} />
 
+* Staff of the Scarlet Sands cannot gain stacks while off-field, but still retains stacks while off-field. - [\_Maxi#1776](../../evidence/equipment/weapons.md#staff-of-the-scarlet-sands)
+
 ### Vortex Vanquisher
 
 <Weapon weapon="Vortex Vanquisher" weapons={polearms}>
