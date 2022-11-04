@@ -16,6 +16,7 @@ import Image from '@theme/IdealImage'
 
 * [Sucrose Mains Discord](https://discord.gg/SRgmCt4)
 * [Full Sucrose Written Guide](https://keqingmains.com/sucrose/)
+* [Sucrose Quick Guide](https://keqingmains.com/q/sucrose-quickguide/)
 * [8 Minute Video Guide to Sucrose](https://youtu.be/paUqUTmcf-Y)
 
 ## Base Stats

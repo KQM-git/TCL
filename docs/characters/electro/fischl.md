@@ -15,6 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Fischl Mains Discord](https://discord.gg/JSN9Rk2sWe)
+* [Fischl Quick Guide](https://keqingmains.com/q/fischl-quickguide/)
 * [5 Minute Video Guide to Fischl](https://youtu.be/_9PPaCczgTo)
 * [Fischl Support Weapon Rankings](https://docs.google.com/spreadsheets/d/1cyxc8ZCIi8f9FqYDFZS0j3Jjd6nnWJ8l0LLnkCZUAOQ/edit?usp=sharing) _by itsjaeYOU\#2868_
 

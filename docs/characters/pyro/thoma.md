@@ -14,6 +14,7 @@ import Image from '@theme/IdealImage'
 
 ## Resources
 
+* [Thoma Quick Guide](https://keqingmains.com/q/thoma-quickguide/)
 * [6 Minute Guide to Thoma](https://youtu.be/hWj-Ps6QzwE)
 
 ## Base Stats
