@@ -1044,6 +1044,28 @@ Klee can get 2 stacks of Kagura's Verity from only 1 cast of her Jumpy Dumpty by
 **Significance:**  
 Potentially affects the viability of this weapon for Klee. The caveat of waiting for ~81 frames has dubious impact on a real rotation since most Klee usage involves animation cancels. See [this doc](https://docs.google.com/spreadsheets/d/1-jb7WVxtqFbeLKIyIVvqTQJdsBFYuUnUzRrvStiGqH8/edit?usp=sharing) for stack counts on every part of a standard Klee rotation vs their delayed version.
 
+---
+
+### Key of Khaj-Nisut
+
+#### Key of Khaj-Nisut does not affect Kazuha's A4
+
+**By:** CrystalOfSugar\#8624
+**Added:** <Version date="2022-11-04" />
+**Last Tested:** <VersionHl date="2022-11-04" />
+
+**Finding:**  
+Key of Khaj-Nisut + Kazuha A4 interaction  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/GDwtNhAiL8U)  
+241 EM should provide 9.6% Electro DMG, not 4.6% Electro DMG, like in this case. (4.6% Electro DMG are provided by 115.2 basic Kazuha's EM from ascensions)  
+  
+**Significance:**  
+Elemental Mastery provided by Key of Khaj-Nisut (self-buff and party-buff both) is not used in abilities which use Elemental Mastery for providing other stats, like Kazuha A4.  
+
+---
+
 ### Kitain Cross Spear
 
 #### Kitain Spear energy drain delay
