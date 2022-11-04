@@ -15,7 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Ayaka Written Guide](https://keqingmains.com/ayaka/)
-* [7 Minute Quick Guide to Ayaka](https://youtu.be/G_gQ0P9s6BU)
+* [7 Minute Video Guide to Ayaka](https://youtu.be/G_gQ0P9s6BU)
 
 ## Base Stats
 

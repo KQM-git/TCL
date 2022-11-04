@@ -15,7 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Childe Mains Discord](https://discord.gg/Childe)
-* [7 Minute Quick Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
+* [7 Minute Video Guide to Tartaglia](https://youtu.be/QERML_Jy1DE)
 * [Childe Guide](https://keqingmains.com/tartaglia/)
 
 ## Base Stats

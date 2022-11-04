@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage'
 
 * [Hu Tao Mains Discord](https://discord.gg/hutaoscorner)
 * [Hu Tao Guide](https://keqingmains.com/hu-tao/)
-* [Hu Tao Quick Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
+* [Hu Tao Video Guide](https://www.youtube.com/watch?v=l6YJTXkgXdM)
 
 ## Base Stats
 

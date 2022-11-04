@@ -15,7 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Sangonomiya Kokomi: Pearl of Wisdom](https://keqingmains.com/kokomi/)
-* [Kokomi Quick Guide](https://youtu.be/FAI39xYCMgo)
+* [Kokomi Video Guide](https://youtu.be/FAI39xYCMgo)
 
 ## Base Stats
 

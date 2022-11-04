@@ -14,7 +14,7 @@ import Image from '@theme/IdealImage'
 
 ## Resources
 
-* [6 Minute Yoimiya Quick Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
+* [6 Minute Yoimiya Video Guide](https://www.youtube.com/watch?v=FjDsbxPbk50)
 * [Yoimiya Full Guide](https://keqingmains.com/yoimiya/)
 
 ## Base Stats

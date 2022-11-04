@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage'
 
 * [Beidou Mains Discord](https://discord.gg/rgS2f9dBxb)
 * [Full Beidou Written Guide: Tales from the Sea](https://keqingmains.com/beidou/)
-* [6 Minute Quick Guide to Beidou](https://youtu.be/AWlLidtFiDw)
+* [6 Minute Video Guide to Beidou](https://youtu.be/AWlLidtFiDw)
 
 ## Base Stats
 

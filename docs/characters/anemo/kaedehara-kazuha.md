@@ -15,7 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Kazuha Written Guide: Scarlet Leaves Pursue Wild Waves](https://keqingmains.com/kazuha/)
-* [6 Minute Quick Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
+* [6 Minute Video Guide to Kazuha](https://youtu.be/QpaxtAxTJuA)
 
 ## Base Stats
 
