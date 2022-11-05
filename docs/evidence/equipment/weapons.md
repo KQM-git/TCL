@@ -1509,8 +1509,8 @@ Definitely just Yoimiya things.
 
 #### Staff of the Scarlet Sands does not stack off-field
 
-**By:** \_Maxi\#1776
-**Added:** <Version date="2022-11-04" />
+**By:** \_Maxi\#1776  
+**Added:** <Version date="2022-11-04" />  
 **Last tested:** <VersionHl date="2022-11-04" />
 
 **Finding:**  
