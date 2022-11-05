@@ -84,7 +84,11 @@ import Artifact from '@site/src/components/artifact/Artifact'
 
 ### Gilded Dreams
 
-<Artifact artifact="Gilded Dreams" />
+<Artifact artifact="Gilded Dreams">
+
+* Gilded Dreams' 4-piece effect does not apply to the hit that triggered it or the reactions triggered by that hit. - [Rare Possum\#0511](../evidence/equipment/artifacts.md#gilded-dreams)
+
+</Artifact>
 
 ### Heart of Depth
 

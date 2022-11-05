@@ -389,6 +389,24 @@ Killing 2 foxes [Imgur](https://i.imgur.com/bxSVtzA.mp4)
 **Significance:**  
 Knowledge.
 
+## Gilded Dreams
+
+### Gilded Dreams' 4-piece Passive does not apply to the hit that triggered its effect
+
+**By:** Rare Possum\#0511  
+**Added:** <Version date="2022-11-04" />  
+**Last tested:** <VersionHl date="2022-11-04" />
+
+**Finding:**
+Gilded Dreams' 4-piece Passive does not apply to the hit that triggered it or the reactions triggered by that hit.  
+  
+**Evidence:**  
+[YouTube](https://youtu.be/nEgzEdU7HkA)  
+[YouTube](https://youtu.be/s-eZaGOLpdg)  
+  
+**Sigificance**  
+Better understand of GD for artifact recommendations and calculations.
+
 ## Husk of Opulent Dreams
 
 ### Basic Mechanics
