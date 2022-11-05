@@ -1626,8 +1626,8 @@ Setup your WGS buff before a big nuke or you lose out on potential damage.
 
 #### Xiphos and Raiden A4 Interactions
 
-**By:** Casdela\#5121
-**Added:** <Version date="2022-11-4" />
+**By:** Casdela\#5121  
+**Added:** <Version date="2022-11-4" />  
 **Last tested:** <VersionHl date="2022-11-4" />
 
 **Finding:**  
