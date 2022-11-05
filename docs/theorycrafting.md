@@ -275,7 +275,7 @@ For a more in-depth look at reactions, there is a whole [section](./combat-mecha
 
 **Elemental Source** = An element-imbued attack or skill that will apply an element on the enemy. All elemental sources should have the decay and GU appended.
 
-**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](combat-mechanics/elemental-effects/internal-cooldown-of-elemental-application).
+**Internal Cooldown \(ICD\)** = A hidden timer that occurs when an elemental source applies an aura or trigger to an enemy. For more details, see our page on [ICDs](combat-mechanics/internal-cooldown).
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
