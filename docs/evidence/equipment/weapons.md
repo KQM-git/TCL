@@ -1505,6 +1505,25 @@ Definitely just Yoimiya things.
 
 ---
 
+### Staff of the Scarlet Sands
+
+#### Staff of the Scarlet Sands does not stack off-field
+
+**By:** \_Maxi\#1776  
+**Added:** <Version date="2022-11-04" />  
+**Last tested:** <VersionHl date="2022-11-04" />
+
+**Finding:**  
+Stacks for Staff of the Scarlet Sands cannot be gained from off field but are retained while off-field.
+
+**Evidence:**  
+[YouTube](https://youtu.be/H_WKnD7GUJY)  
+
+**Significance:**  
+Characters need more field time to get optimal use of the weapon. Characters that do not snapshot can still make use of stacks while off field.  
+
+---
+
 ### The Bell
 
 #### Bell’s %Increased Damage Passive Works With Any Shield
