@@ -12,6 +12,10 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Yae_Miko.png')} alt="Yae Miko's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Full Yae Miko Written Guide](https://keqingmains.com/yae/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'

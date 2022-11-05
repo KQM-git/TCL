@@ -12,6 +12,10 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Yun_Jin.png')} alt="Yun Jin's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Full Yun Jin Written Guide](https://keqingmains.com/yunjin/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'

@@ -12,6 +12,10 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Cyno.png')} alt="Cyno's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Cyno Quick Guide](https://keqingmains.com/q/cyno-quickguide/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'

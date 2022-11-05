@@ -12,6 +12,10 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Nilou.png')} alt="Nilou's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Nilou Quick Guide](https://keqingmains.com/q/nilou-quickguide/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'

@@ -12,6 +12,10 @@ import Image from '@theme/IdealImage'
 <Image img={require('/img/characters/gacha/Tighnari.png')} alt="Tighnari's gacha art" />
 <blockquote>{frontMatter.description}</blockquote>
 
+## Resources
+
+* [Full Tighnari Written Guide](https://keqingmains.com/tighnari/)
+
 ## Base Stats
 
 import CharStatsTable from '@site/src/components/char/CharStatsTable'

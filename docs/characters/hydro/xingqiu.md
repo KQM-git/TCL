@@ -17,7 +17,7 @@ import Image from '@theme/IdealImage'
 * [Xingqiu Mains Discord](https://discord.gg/5MKsJyhkQv)
 * [A Revised Xingqiu Handbook](https://keqingmains.com/xingqiu-short/)
 * [Extended Xingqiu Guide: Prospector of Precipitation](https://keqingmains.com/xingqiu-extended/)
-* [5 Minute Quick Guide to Xingqiu](https://youtu.be/EiOP60N4p58)
+* [5 Minute Video Guide to Xingqiu](https://youtu.be/EiOP60N4p58)
 
 ## Base Stats
 

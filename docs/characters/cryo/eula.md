@@ -16,7 +16,7 @@ import Image from '@theme/IdealImage'
 
 * [Eula Mains Discord](https://discord.gg/EulaMains)
 * [Basic Eula Guide](https://keqingmains.com/eula/)
-* [7 Minute Quick Guide to Eula](https://youtu.be/4pm1CQ7ftws)
+* [7 Minute Video Guide to Eula](https://youtu.be/4pm1CQ7ftws)
 
 ## Base Stats
 

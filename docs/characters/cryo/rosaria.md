@@ -15,7 +15,7 @@ import Image from '@theme/IdealImage'
 ## Resources
 
 * [Full Written Rosaria Guide](https://keqingmains.com/rosaria/)
-* [7 Minute Quick Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
+* [7 Minute Video Guide to Rosaria](https://youtu.be/JQ01_OKxdbs)
 
 ## Base Stats
 
