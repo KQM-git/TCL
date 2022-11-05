@@ -1050,8 +1050,8 @@ Potentially affects the viability of this weapon for Klee. The caveat of waiting
 
 #### Key of Khaj-Nisut does not affect Kazuha's A4
 
-**By:** CrystalOfSugar\#8624
-**Added:** <Version date="2022-11-04" />
+**By:** CrystalOfSugar\#8624  
+**Added:** <Version date="2022-11-04" />  
 **Last Tested:** <VersionHl date="2022-11-04" />
 
 **Finding:**  
