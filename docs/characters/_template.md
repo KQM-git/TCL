@@ -1,5 +1,5 @@
 ---
-description: take the first quote from https://genshin-impact.fandom.com/wiki/CharacterName/Lore
+description: take the first quote from https://genshin-impact.fandom.com/wiki/CharacterName/Lore or re-run data script after creating page
 ---
 
 <!-- replace every instance of "CharacterName" with the character's full in-game name (underscores for spaces in links), for the evidence vault card on the bottom keep both the characterelement and charactername lowercase (hyphens for spaces here, not underscores). also to delete everything commented out like this when done with the page -->
