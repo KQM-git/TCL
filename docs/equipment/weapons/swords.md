@@ -33,10 +33,11 @@ import MillennialMovementSeries from './\_common/millennial_movement.md';
 
 ### Key of Khaj-Nisut
 
-<Weapon weapon="Key of Khaj-Nisut" weapons={swords} />
+<Weapon weapon="Key of Khaj-Nisut" weapons={swords}>
 
-* Key of Khaj-Nisut's EM buff does not affect Kazuha's A4 buff. [CrystalOfSugar\#8624
-](../../evidence/equipment/weapons.md#key-of-khaj-nisut)
+* Key of Khaj-Nisut's EM buff does not affect Kazuha's A4 buff. [CrystalOfSugar\#8624](../../evidence/equipment/weapons.md#key-of-khaj-nisut)
+
+</Weapon>
 
 ### Mistsplitter Reforged
 
