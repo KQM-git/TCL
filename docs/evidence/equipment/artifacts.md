@@ -393,9 +393,9 @@ Knowledge.
 
 ### Gilded Dreams' 4-piece Passive does not apply to the hit that triggered its effect
 
-**By:** Rare Possum\#0511
+**By:** Rare Possum\#0511  
 **Added:** <Version date="2022-11-04" />  
-**Last tested:** <VersionHl date="2022-11-04" />  
+**Last tested:** <VersionHl date="2022-11-04" />
 
 **Finding:**
 Gilded Dreams' 4-piece Passive does not apply to the hit that triggered it or the reactions triggered by that hit.  
