@@ -1644,6 +1644,28 @@ Beidou's N1 is shown to crit prior to the buff for 1859. On the hit that procs W
 **Significance:**  
 Setup your WGS buff before a big nuke or you lose out on potential damage.
 
+### Xiphos' Moonlight
+
+#### Xiphos and Raiden A4 Interactions
+
+**By:** Casdela\#5121  
+**Added:** <Version date="2022-11-4" />  
+**Last tested:** <VersionHl date="2022-11-4" />
+
+**Finding:**  
+Xiphos does not affect both parts of Raiden's Ascension 4 passive and does not affect Emblem's Burst DMG% Bonus, which is based on Energy Recharge%. 
+  
+**Evidence:**  
+[YouTube](https://youtu.be/c-WT0ObAiEg)  
+[YouTube](https://youtu.be/kkMY4eLv8bI)  
+  
+With Xiphos, Raiden has 196.7% ER, without it Raiden has 188.3% ER. Both videos have Raiden's Electro bonus at 35.3% and Keqing's Burst is filled to exactly the same point, meaning Raiden's Ascension 4 Passive isn't affected by Xiphos ER bonus.  
+
+The final hit of Raiden's 5-hit string is 2240 in both videos, meaning Emblem's Burst DMG% Bonus isn't affected by Xiphos ER bonus.  
+  
+**Significance:**  
+Expected results.
+
 ---
 
 ## General Mechanics
@@ -1677,7 +1699,7 @@ Prevents accidental foddering of once in a lifetime event weapons.
 
 **Finding**: Certain weapon passives do not apply their effect on character stat pages for out-of-party characters. This only applies to weapons that either: 1) have a conditional stat buff or 2) provide one stat in relation to another.
 
-**Evidence**:
+**Evidence**: 
 
 * [Deathmatch (conditional ATK%)](https://imgur.com/gOIr6g4)
 * [Harbinger of Dawn (conditional crit rate)](https://imgur.com/CfL8jtd)

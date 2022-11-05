@@ -187,8 +187,11 @@ import SacSeries from './\_common/sac_series.md';
 
 ### Xiphos' Moonlight
 
-<Weapon weapon="Xiphos' Moonlight" weapons={swords} />
+<Weapon weapon="Xiphos' Moonlight" weapons={swords}>
 
+* Xiphos does not affect Raiden's Ascension 4 Passive, nor does it affect Emblem of Severed Fate's Burst DMG% Bonus. [Casdela\#5121](../../evidence/equipment/weapons.md#xiphos-moonlight)
+
+</Weapon>
 ## 3 Stars
 
 ### Cool Steel
