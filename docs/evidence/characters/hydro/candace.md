@@ -68,7 +68,7 @@ When using elemental sight, her weapon looks like electro infused. - [Video](htt
 * Candace n4 string is able to get 12 procs of Beidou's Q pretty easily. Her Q and E timings allow for multiple variations. These combos do require a small amount of timing after the N4, since mashing LMB or dashing into an N1 will make you hit slightly too fast. - [Video](https://youtu.be/sGAyBp8IA5k)
   * First combo: n1Q n3 E n4w n4 E n4
 The start of this should work well for Candace's setup if swapping to another character. The E should be done slightly before the n3-2 connects to space out for the following n1.
-  * Second Combo 2: n4 e n4w n4 e n4
+  * Second Combo: N4 E N4W N4 E N4
 Potential basic combo after quickswapping in. The E animation is under 1s, so it can be weaved in anywhere after a Beidou proc.
   * Third Combo: 4N4W
 Initial proof of concept. Main takeaway is that Candace would be able to drive well when quickswapped into.
