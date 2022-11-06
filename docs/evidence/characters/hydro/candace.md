@@ -59,7 +59,7 @@ search: false
 * Candace's infusion overrides C6 Bennett. - [Video](https://www.youtube.com/watch?v=xXE9ZbcmfIo) - Sew\#2409
 * Candace can't overwrite Chongyuns infusion. - [Video](https://www.youtube.com/watch?v=QjD49OckiVc) - Sew\#2409
 * Candace + Chongyun infusion = frozen weapon (that does Cryo dmg) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
-  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger freeze on the weapon, which depletes both elements and leaves a frozen aura. This frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead into questions of dumb shit like can a weapon do Cryo and hydro dmg if there is enough hydro on it (like how swirl can swirl Cryo and hydro on a frozen enemy).
+  * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger freeze on the weapon, which depletes both elements and leaves a frozen aura. This frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead to questions like can a weapon do Cryo and Hydro dmg if there is enough Hydro on it (like how swirl can swirl Cryo and Hydro on a frozen enemy).
 * Interaction between Candace and Keqing infusion results in weapon being Electrocharged but deals=ing hydro dmg. - Nass008\#8577
   * After keqing cast her skill, her weapon gains purple aura as usual but she still has visual effect of Candace burst.
 When using elemental sight, her weapon looks like electro infused. - [Video](https://imgur.com/W0LdtNj)
