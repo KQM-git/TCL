@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickets.deeznuts.moe/transcripts/dori-basic-mechanics)
+[Discussion](https://tickets.deeznuts.moe/transcripts/dori-basic-mechanics)  
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1F7mZ269IdPtu0JogHnnUdewG11g2rq3-2KWj5m2BbBY/edit?usp=sharing) - Kolibri\#7675
 
@@ -20,9 +20,9 @@ search: false
 
 ### Skill ICD
 
-**By:**
+**By:**: mina\#4448  
 **Added:** <Version date="2022-09-24" />  
-**Last Tested:**  <Version date="2022-09-24" />
+**Last Tested:**  <VersionHl date="2022-09-24" />
 
 **Findings:**
 - Dori's E Troubleshooter Shot and the After-Sales Service Rounds (including the additional round from C1) share ICD.
@@ -37,7 +37,7 @@ search: false
 ### Burst ICD
 
 **Added:** <Version date="2022-09-09" />  
-**Last Tested:**  <Version date="2022-09-09" />
+**Last Tested:**  <VersionHl date="2022-09-09" />
 
 **Findings:**
 - Dori's self electro application has a 3 seconds ICD - f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920
@@ -50,7 +50,7 @@ search: false
 ### Burst Gauge
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-09-09" />  
-**Last Tested:**  <Version date="2022-09-09" />
+**Last Tested:**  <VersionHl date="2022-09-09" />
 
 **Finding:**  
 Dori's self electro application gauge is 1A
@@ -59,13 +59,13 @@ Dori's self electro application gauge is 1A
 https://youtu.be/unCIWxypvno
 
 **Significance:**  
-Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that dont have aura tax and have a set duration, but dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the electro aura visual effect around the character which doesnt happen with other self auras.
+Dori's self application is unlike any other we've had before. Other characters' self applications have always been self auras that don't have aura tax and have a set duration, but Dori's is a legit elemental attack, which means it has aura tax and uses standard decay rate. It also applies the electro aura visual effect around the character which doesn't happen with other self auras.
 
 ### Burst Snapshot
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-09-11" />  
-**Last Tested:**  <Version date="2022-09-11" />
+**Last Tested:**  <VersionHl date="2022-09-11" />
 
 **Finding:**  
 Dori Q snapshots.
@@ -78,7 +78,7 @@ https://imgur.com/a/FN0PV8C
 
 **By:** Lefthandtaco\#6453  
 **Added:** <Version date="2022-10-13" />  
-**Last Tested:**  <Version date="2022-10-13" />
+**Last Tested:**  <VersionHl date="2022-10-13" />
 
 **Finding:**  
 Dori's burst tether connects to and applies to all nearby players in multiplayer
@@ -92,10 +92,10 @@ https://youtu.be/unCIWxypvno
 
 **By:** milk tea romance\#9022  
 **Added:** <Version date="2022-09-10" />  
-**Last Tested:** <Version date="2022-09-10" />
+**Last Tested:** <VersionHl date="2022-09-10" />
 
 **Finding:**  
-Dori's A4 counts every %, not just 100% increments
+Dori's A4 counts every point of Energy Recharge, not just increments of 100%.
 
 **Evidence:**
 - [Gallery](https://imgur.com/a/6MD1ZYr)
@@ -110,7 +110,7 @@ Dori's A4 counts every %, not just 100% increments
 
 **By:** BlueBery\#9054
 **Added:** <Version date="2022-10-09" />  
-**Last Tested:**  <Version date="2022-10-09" />
+**Last Tested:**  <VersionHl date="2022-10-09" />
 
 **Finding:**  
 Dori's C2 ICD is every 2 heal ticks. This will add 3 more reactions to a burst duration, potentially more when there are multiple enemies. Doesn't share ICD with burst.
@@ -123,10 +123,10 @@ https://imgur.com/ox13neD
 
 **By:** Padilla\#0310  
 **Added:** <Version date="2022-09-11" />  
-**Last Tested:**  <Version date="2022-09-11" />
+**Last Tested:**  <VersionHl date="2022-09-11" />
 
 **Finding:**  
-Dori c2 is not burst dmg
+Dori's C2 is not burst damage.
 
 **Evidence:**
 - [Video with Raiden](https://youtu.be/quFw_jShu1I)
@@ -138,10 +138,10 @@ Dori c2 is not burst dmg
 
 **By:** f̸̒͂ỏ̶̂o̵͌̚s̶͊̏h̷̤̀ḯ̴̊\#9920  
 **Added:** <Version date="2022-09-18" />  
-**Last Tested:**  <Version date="2022-09-18" />
+**Last Tested:**  <VersionHl date="2022-09-18" />
 
 **Finding:**  
-Dori's Q self electro application can proc thoma C1, diluc C2 and beido C4. This is once again due to her self application being special.
+Dori's Q self electro application can proc Thoma C1, Diluc C2 and Beidou C4. This is once again due to her self application being special.
 
 **Evidence:**  
 https://imgur.com/a/7QZQmp6  
