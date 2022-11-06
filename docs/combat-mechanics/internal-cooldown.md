@@ -79,13 +79,13 @@ Damage and poise damage ICD are defined in the same way with minor terminology d
 * Poise damage ICD corresponds to *poise damage sequences* and *poise damage attenuation factors*.
 
 ### Example: C2 Ayaka Burst Application
-Suppose we investigate a C2 Ayaka. Since each hit of her Elemental Burst (including the C2 hits) shares ICD and is gated by default ICD with gauge sequence
+Suppose we investigate a C2 Ayaka. Each hit of her Elemental Burst (including the C2 hits) shares ICD and is gated by default ICD with gauge sequence
 $$
 \begin{aligned}
     (g_n) = 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0
 \end{aligned}
 $$
-and $t_{\text{reset}} = 2.5$ seconds. Since each hit of Ayaka's Burst is encoded to apply 1U Cryo (assuming it's not on ICD) and C2 Ayaka's Burst hits $30$ times over $2.5$ seconds, we can define her sequence of elemental applications as
+and $t_{\text{reset}} = 2.5$ seconds. Since each hit of Ayaka's Burst is encoded to apply 1U Cryo (assuming it's not on ICD) and C2 Ayaka's Burst hits $30$ times over $2.5$ seconds (out of $60$ hits total over the entire duration of her Burst), we can define her sequence of elemental applications as
 $$
 \begin{aligned}
     1\text{U} \times \varphi_g(1) &= 1\text{U} \times 1, \\
@@ -101,7 +101,7 @@ $$
     \underbrace{1\text{U}, 0\text{U}, 0\text{U}, 1\text{U}, 0\text{U}, 0\text{U}}_\text{1st to 6th hits}, \ldots, \underbrace{0\text{U}, 0\text{U}, 0\text{U}, 0\text{U}, 0\text{U}, 0\text{U}}_{\text{25th to 30th hits}}.
 \end{aligned}
 $$
-Thus, C2 Ayaka's Burst will only apply 1U Cryo $8$ times over $2.5$ seconds.
+Thus, C2 Ayaka's Burst will only apply 1U Cryo $8$ times over $2.5$ seconds. Working out the rest of her Burst hits in a similar way, we see that she applies 1U Cryo $16$ times over the entire duration of her Burst (assuming all attacks actually hit).
 
 ### Example: Swirl Damage
 Suppose a single enemy is hit by four Pyro Swirl damage instances in less than $0.5$ seconds triggered by Kazuha's Elemental Skill Anemo application. Swirl has damage ICD with damage sequence
