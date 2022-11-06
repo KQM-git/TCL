@@ -12,7 +12,7 @@ search: false
 
 [Discussion](https://tickets.deeznuts.moe/transcripts/candace-basic-mechanics)
 
-* Guages - Puffin\#9920
+* Gauges - Puffin\#9920
   * E (tap and hold): 1A - [Video](https://www.youtube.com/watch?v=hvcrj4nT-s0)
   * Q: 1A
   * Q (after swapping): 1A - [Video](https://www.youtube.com/watch?v=pfCoUt4Glto)
