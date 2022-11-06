@@ -56,7 +56,7 @@ search: false
 
 ## Synergies/Interactions
 
-* Candace's infusion overrides c6 Bennett. - [Video](https://www.youtube.com/watch?v=xXE9ZbcmfIo) - Sew\#2409
+* Candace's infusion overrides C6 Bennett. - [Video](https://www.youtube.com/watch?v=xXE9ZbcmfIo) - Sew\#2409
 * Candace can't overwrite Chongyuns infusion. - [Video](https://www.youtube.com/watch?v=QjD49OckiVc) - Sew\#2409
 * Candace + Chongyun infusion = frozen weapon (that does Cryo dmg) - [Video](https://youtu.be/N-ThOhYi6X8) - Mystathi#9705
   * Significance: Chongyun doesn’t quite override Candace. What may happen is that the weapon infusions trigger freeze on the weapon, which depletes both elements and leaves a frozen aura. This frozen aura is what deals Cryo dmg. This is more information on weapon infusions and can lead into questions of dumb shit like can a weapon do Cryo and hydro dmg if there is enough hydro on it (like how swirl can swirl Cryo and hydro on a frozen enemy).
