@@ -65,7 +65,7 @@ search: false
 When using elemental sight, her weapon visually appears as Electro-infused. - [Video](https://imgur.com/W0LdtNj)
   * Even though her weapon has appearance of electro infusion, Keqing normal attacks under Candace burst deals hydro dmg. - [Video](https://imgur.com/WTnZFQY)
   * When applying infusions in order of “Candace burst -> Keqing skill -> Chongyun skill”. Super conduct is triggered. Indicating electro gauge is physically present (not just as a visual effect) even though it does not seem to affect damage type of attacks. - [Video](https://imgur.com/hjHzlpY)
-* Candace n4 string is able to get 12 procs of Beidou's Q pretty easily. Her Q and E timings allow for multiple variations. These combos do require a small amount of timing after the N4, since mashing LMB or dashing into an N1 will make you hit slightly too fast. - [Video](https://youtu.be/sGAyBp8IA5k)
+* Candace N4 string is able to get 12 procs of Beidou's Q pretty easily. Her Q and E timings allow for multiple variations. These combos do require a small amount of timing after the N4, since mashing LMB or dashing into an N1 will make you hit slightly too fast. - [Video](https://youtu.be/sGAyBp8IA5k)
   * First combo: n1Q n3 E n4w n4 E n4
 The start of this should work well for Candace's setup if swapping to another character. The E should be done slightly before the n3-2 connects to space out for the following n1.
   * Second Combo: N4 E N4W N4 E N4
