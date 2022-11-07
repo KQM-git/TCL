@@ -44,7 +44,7 @@ import Skill from '@site/src/components/char/Skill'
 
 | String             | Talent 9% | Frames | MV/s      | Poise Damage | Impulse Type |
 | :----------------- | :-------- | :----- | :-------- | :----------- | :----------- |
-| CHarged Attack DMG | 242.92%   | 96     | 151.83%/s | 80           | 2            |
+| Charged Attack DMG | 242.92%   | 96     | 151.83%/s | 80           | 2            |
 
 </div>
 <div class='talent-columns'>
