@@ -533,3 +533,107 @@ Found that if you mash A and D to rapidly move side to side it drains your stami
   
 **Significance:**  
 Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).
+
+## Tick Tock
+
+**By:** Tibo\#4309  
+**Added:** <Version date="2022-11-02" />  
+**Last tested:** <VersionHl date="2022-07-13" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/tick-tock-966812234334474371)
+
+**Theory 1:**  
+There's a maximum of around ~98ms of time being ticked per frame.  
+  
+**Evidence 1:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit?usp=sharing)  
+
+**Significance 1:**  
+Understanding how the game works at extremely low frame rates or during lagspikes.  
+  
+**Theory 2:**  
+Timers can only start at 0 on ticks; does not carry over lateness.  
+  
+**Evidence 2:**  
+[Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=630579272)  
+
+Using Zhongli pillar at different frame rates, looking at resonance ticks.  
+
+Expected to last 30 seconds and resonate every 2 seconds, starting after ~2.1 seconds after CD text starts.  
+
+Actual resonances happen slightly faster at 60 FPS for some reason. Lower frame rates resonate the frame after 2 second mark \(except for frame rates that reach frame time cap\).  
+After a tick, the timer resets to 0, without taking the lateness of the frame of the tick into account for the next tick  
+  
+**Significance 2:**  
+A theory for the common "60 vs 30" FPS difference that's common; despawn timers gets out of sync with the DoT timers, causing the amount of times that it triggers to be less at lower FPS.  
+  
+**Theory 3:**  
+There are different \(at least 4\) ways the game keeps track of time.  
+
+1. Real time:  
+    * Follows real time without looking at FPS/lag/pausing/the game being open.  
+    * Example: Gadget cooldowns.  
+    * The 6d22h cooldown of the Parametric Transformer would be a huge pain otherwise.  
+2. Cursed time:  
+    * Almost follows real time \(disregarding max time per frame cap\), but does pause while game is paused/in menu and can run while you are logging in into the game.  
+    * Example: healing food, food cooldowns.  
+    * Food cooldown timers start ticking around when you have a connection with the server, this is around when the UID shows up in UI \(if you just logged in; or updates if you changed server; generally slightly after clicking on the door\) and between the 7 Elements start showing up; so the time reduction depends on your system. These times would be classified as "cursed time" since it doesn't care about FPS, which can be seen in the second vid where game freezes and still having 87s being passed \(not taking max time per frame into account\). 
+3. Game time:  
+    * The time that passes in-universe, does get paused by menus when not in Co-Op, does have a max time that can get processed per frame. But it also does not get affected by hitlag. This can alternatively be explained as *Entity Time* on an entity that doesn't get hitlagged.  
+    * Example: Skill cooldowns 
+4. Entity time:  
+    * The time that passes for an entity/the player, gets paused by menus when not in Co-Op, does have a max time that can get processed per frame, and it also gets affected by hitlag that gets applied to said entity. \(Not global, unique per enemy/the player\)  
+    * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), elemental auras
+
+**Evidence 3:**  
+1. 
+   * Red Feather Fan: [YouTube](https://youtu.be/fCtMDH7AFfI)
+   * Food and gadgets \(includes Kamera pausing in Co-Op before 2.8\): [YouTube](https://youtu.be/xUbUWGzmVKo)  
+2. Does pause while game is paused: [YouTube](https://www.youtube.com/watch?v=Su7Itye024A)  
+   * But not in Co-Op w/Kamera pause before 2.8: [YouTube](https://youtu.be/xUbUWGzmVKo)  
+   * Does not follow max frame time: [YouTube](https://youtu.be/1ZJnPUpj9iQ), [Google Sheets](https://docs.google.com/spreadsheets/d/1OOoZ2Z1jX583HLZv-TSeg0CFJsWfcv1lFVKCpxKDb7E/edit#gid=0)  
+   * Runs while logging in into the game  
+    * Initial food usage + relog on PC (119s -> 109s): [YouTube](https://youtu.be/jBlSF0CLaTI)  
+    * Laptop login (109 -> 22): [YouTube](https://youtu.be/q7h_Erv-jro)  
+    * Logging back in on desktop (22 -> 15): [YouTube](https://youtu.be/tDAmjw-Bp5E)  
+    * The exact moment can better be described as when you "take over the world", indicated by the "Account has logged in on another device"; which is shown in last video  
+3. 
+   * Max time per frame: [YouTube](https://youtu.be/P10o7Sc09zw), [Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=0) 
+   * Does not follow hitlag: [YouTube](https://youtu.be/apChAKi-mvA) \(CD number is visible from 5.967s and goes invisible at 15.95s \(9.983s\)\)  
+   * Hitlag extension caveats: [TCL page](../combat-mechanics/frames.md#hitlag-extension-caveats)  
+4. 
+   * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillburst-duration)  
+   * Hitlag is per entity: [YouTube](https://youtu.be/3E3R_VEL2UA)  
+
+**Significance 3:**  
+This split could potentially be abused even further in the future.  
+  
+**Theory 4:**  
+Game time and cursed time can get out of sync when pause spamming.  
+  
+**Evidence 4:**  
+Spamming pause \(by opening a menu\) and closes it again while under the effect of Holy Water healing causes the healing timer to tick more than normally possible.  
+
+Videos:  
+* 170 HP Holy Water: [YouTube](https://youtu.be/Nk7nN2lJhG0)  
+* 1 HP -> 56.6k HP using a single Delicious Invigorating Kitty Meal: [YouTube](https://youtu.be/1gB9PBp-Emk) / \(sped up: [YouTube](https://youtu.be/eBgNo9Q18pg)\)  
+* 60 FPS: [YouTube](https://youtu.be/N6QnWMfnze4) by Puffin\#9920  
+  
+Possible explanation: these two types of timers have a different "is game paused" check that starts/stops at different points \(*maybe* at different moments within the same frame?\).  
+  
+**Significance 4:**  
+Adding another thing to the pile of "pause game spam" bugs + possible explanation.  
+  
+**Theory 5:**  
+Entities have a "ticking" player bound to them in Co-Op.  
+  
+**Evidence 5:**  
+[YouTube](https://youtu.be/xtc8QIKx7TU)  
+
+* Test 1: P1 loads enemy and uses Kamera to pause game while P2 joins and applies Element - enemy aura gets extended past intended duration, only stops after continuing game \(46 seconds in video\) \(note: Kamera bug is fixed in 2.8\).  
+* Test 2: P1 loads enemy and limits FPS while P2 applies Element - enemy aura gets extended past intended duration, will most likely stop after a while since game still runs, just at a slower speed \(48s in video\).  
+* Test 3: P1 loads enemy while P2 limits FPS and applies Element - enemy aura stops after ~9.9s \(expected 9.5s\).  
+* Test 4: P2 loads enemy, limits FPS and applies Element - enemy aura gets extended past intended duration, \(19s in video while expected 9.5s\).  
+  
+**Significance 5:**  
+Entity time depends on the player who is ticking said enemy, which might not always be the same player as the world host.  
+Allows easier abuse of stacking debuffs on enemy since duration doesn't expire.
