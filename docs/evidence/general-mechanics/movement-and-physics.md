@@ -8,13 +8,65 @@ search: false
 
 <Card item={require('../../general-mechanics/movement-and-physics.md')} />
 
-## Climbing without Climbing
+## Dashing
+
+### Infinite Dashing and Catapulting off cliffs (Translation)
+
+**By:** KluEvo\#8507  
+**Added:** <Version date="2020-11-20" />  
+**Last tested:** <VersionHl date="2020-11-20" />
+
+**Finding:**  
+Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.
+
+**Evidence:**  
+[Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
+
+**Significance:**  
+Faster Travel.
+
+### Cliff Dash Displacement
+
+**By:** Mcpie\#8672  
+**Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_831242042801389568_849905930174595072_transcript-dashing-off-a-cliff-speed-comparison.html)
+
+**Methodology/Evidence:**
+
+Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.
+
+Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)  
+Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)  
+Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)  
+Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)
+
+Results depending on position:
+
+```text
+1: Diluc -> Bennett -> Ningguang -> Qiqi -> Sucrose
+2: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
+3: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
+4: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+5: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+6: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
+7: Diluc -> Bennett -> Ningguang | Qiqi -> Sucrose
+8: Diluc -> Qiqi -> Ningguang -> Bennett -> Sucrose
+9: Diluc -> Ningguang -> Sucrose -> Bennett -> Qiqi
+```
+
+**Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can.
+
+## Climbing
+
+### Climbing without Climbing
 
 **By:** Nitley\#3485  
 **Added:** <Version date="2021-04-05" />  
 **Last tested:** <VersionHl date="2021-04-05" />
 
-**Finding:** After familiarizing myself with the technique of b-hopping in the first week of Genshin's official release for the purpose of re-roll AR7 speedruns, this would quickly become my exclusive means of travel. This led me to discover an alternative faster method of scaling near-vertical walls \(without climbing or consuming stamina at all\).
+**Finding:**  
+After familiarizing myself with the technique of b-hopping in the first week of Genshin's official release for the purpose of re-roll AR7 speedruns, this would quickly become my exclusive means of travel. This led me to discover an alternative faster method of scaling near-vertical walls \(without climbing or consuming stamina at all\).
 
 **Evidence:**
 
@@ -23,32 +75,73 @@ search: false
 
 **Significance:** Can make virtually any travel quicker, whether you're mob farming around your world, crystal farming, or getting character ascension mats etc etc..
 
-## Movement Techniques and Player Model Comparisons
+
+## Swimming
+
+### Swimming Methods
+
+**By:** Fuzzy#5432  
+**Added:** <Version date="2021-06-24" />  
+**Last tested:** <VersionHl date="2021-06-24" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856824799057018880_857668248568332319_transcript-swimming-methods.html)
+
+**Finding:**  
+Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift. (Project inspired by u/lightmgl on Reddit)
+
+**Evidence:**  
+[Video](https://www.youtube.com/watch?v=wOdFDxYUcJA&ab_channel=Fuzzy)
+
+**Significance:**  
+Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
+
+### Optimal Swimming
+
+**By:** Goden\#2155  
+**Added:** <Version date="2022-09-27" />
+**Last tested:** <Version date="2022-09-27" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/optimal-swimming)
+
+**Bug:**  
+Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
+  
+**Evidence:**  
+Found that if you mash A and D to rapidly move side to side it drains your stamina very quickly, so consequently turning must use up extra stamina in comparison to moving in a straight line when swimming \(the drain is actually extremely fast and could be even faster if you macro'd the little wiggle I did in the water, real wild\).  
+* Stamina drain while swimming in a straight line [YouTube](https://youtu.be/Nf_TkhpBSR8)  
+* Stamina drain while rapidly moving side to side [YouTube](https://youtu.be/rqcAJtCP0x0)  
+  
+**Significance:**  
+Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).
+
+## Movement Speed
+
+### Movement Techniques and Player Model Comparisons
 
 **By:** Nitley\#3485 and Kourinn\#6001  
 **Added:** <Version date="2021-04-10" />  
 **Last tested:** <VersionHl date="2021-04-10" />
 
-**Theory:** What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
+**Theory:**  
+What is the fastest movement technique for both short distances and long distances? Do movement speed buffs produce non-linear scaling for different character model sizes?
 
 * Short Distance = The distance you're able to sprint with 1 full bar of stamina \(assuming 240 max\).
 * Long Distance = The distance traveled by sprinting with a full bar of stamina and continued travel until complete stamina regen.
 
-**Evidence:** TIme stamps available in spreadsheet + video descriptions
+**Evidence:**  
+Time stamps available in spreadsheet + video descriptions
 
 * [Google spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRmNrVjMuBzcJGQeKzMhUKglJjJocONdBhOeL83McT9Kfrn8_XlN6DUqPmfI1RmJFa7pluM--IqT-Wd/pubhtml) of recorded times
 * [Short Distance](https://youtu.be/oJH8cS1SnRY)
 * [Long Distance](https://youtu.be/ySDRLkYP8sk)
 
 **Significance:**
-
 The fastest movement technique for a short distance is to chain dashes together with equal spacing between them with an adult male as they have the biggest strides. This will ensure your dash has more uptime than simply dash spamming. For long-distance you will do the same, dash chaining with maximum dash uptime on an adult male then switching to a teen male for the last dash of your stamina charge and chaining b-hops from thereon.
 
 Demonstration: [Youtube](https://youtu.be/H950uTOSTQs)
 
 A 10% movement speed buff does not cause b-hopping with other model types to be faster than a teen male with the same buff. However, I am still yet to test 20%/20% effects although not expected to change either.
 
-**The Math:** Comes to the same conclusions as the empirical tests above.
+**The Math:**  
+Comes to the same conclusions as the empirical tests above.
 
 ```python
 Stamina Cost Reduction
@@ -93,88 +186,8 @@ distance = velocity * time
 
 B-Hopping should be 3.5% faster than dash-chaining, waiting for full stamina, and repeating.
 
-## Push Pull effects
 
-**By:** Saltyfart\#8946  
-**Added:** <Version date="2021-05-23" />  
-**Last tested:** <VersionHl date="2021-05-23" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843282047161729034_845886074508804096_transcript-push-pull-effects.html)
-
-**Finding:** push/pull effects are dynamic across team members
-
-**Evidence:**
-
-* [Delayed Swap](https://imgur.com/a/vGKRUwy)
-* [Instant Swap](https://imgur.com/a/YUJMRtO)
-* [Running -&gt; Swap](https://imgur.com/a/t5jKYrh)
-
-Across these 3 videos, there is a consistent interaction of a push effect being generated on Venti, which is then completely nullified when Venti is switched off-field. The timing of the character switch is varied between the clips, but the result is the same.
-
-Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the anemo samachurls and Boreas during his 2nd phase cutscene.
-
-In this [clip](https://imgur.com/a/1q4unpo), character swap ended up making the pull effect reapply for each character swapped in rather then nullifying it. Character swapping inside the little whirlwind made the pull stronger rather than weaker lmao.
-
-We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
-
-**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
-
-## Cliff Dash Displacement
-
-**By:** Mcpie\#8672  
-**Added:** <Version date="2021-06-03" />  
-**Last tested:** <VersionHl date="2021-06-03" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_831242042801389568_849905930174595072_transcript-dashing-off-a-cliff-speed-comparison.html)
-
-**Methodology/Evidence:**
-
-Test consists of 9 different positions next to a "launchable" cliff, each of them separate by two single 'taps' forward using Diona \(except for the last \#9 which is a single tap due to not enough space\). After marking both the starting and landing position of each character, it is clear that `dash-off` velocity is not linear and could reflect your character's velocity at the moment it loses it's ground.
-
-Comparison from top \(screenshots\) for each position - [https://imgur.com/a/Sr311lx](https://imgur.com/a/Sr311lx)  
-Comparison by position - [https://imgur.com/a/9kHirR3](https://imgur.com/a/9kHirR3)  
-Comparison by character - [https://imgur.com/a/XZu1Qni](https://imgur.com/a/XZu1Qni)  
-Raw video \(timestamps in description\) - [https://www.youtube.com/watch?v=D2km0PDWnVA](https://www.youtube.com/watch?v=D2km0PDWnVA)
-
-Results depending on position:
-
-```text
-1: Diluc -> Bennett -> Ningguang -> Qiqi -> Sucrose
-2: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
-3: Diluc -> Bennett -> Ningguang -> Sucrose -> Qiqi
-4: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
-5: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
-6: Diluc -> Bennett -> Qiqi -> Ningguang -> Sucrose
-7: Diluc -> Bennett -> Ningguang | Qiqi -> Sucrose
-8: Diluc -> Qiqi -> Ningguang -> Bennett -> Sucrose
-9: Diluc -> Ningguang -> Sucrose -> Bennett -> Qiqi
-```
-
-**Significance:** Might help when deciding in overworld traveling which character would be best to dash off a cliff with depending on your position from the cliff. This explains why, despite visually having similar character heights, teen female models can't initiate dash-jump-plunge on flat surface against vast majority of enemies while teen male models can.
-
-## Waypoint Teleport Variance
-
-**By:** Mcpie\#8672  
-**Added:** <Version date="2021-06-03" />  
-**Last tested:** <VersionHl date="2021-06-03" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846494202334412901_849908480075628574_transcript-waypoint-teleportation-inconsistency.html)
-
-**Finding:** Two possible findings:
-
-* Teleporting to a waypoint does not always teleport you to the same coordinates
-* Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch.
-
-**Evidence:** Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
-
-Image 1: [Consistent landing location](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495239493779466_2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg) \(&gt;20 attempts, almost always in this spot\)
-
-Image 2: [Location that is a bit further than the landing spot from image 1](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495391162695690_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
-
-[Video proof for images](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495546289291304_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
-
-Additional video showing 4 adult male models, landing location very rarely differs: [YouTube](https://youtu.be/QPR38O5yM7M)
-
-**Significance:** Might skew the results from Cliff Dash Displacement.
-
-## Movement Speed affects Dashing Horizontal Velocity
+### Movement Speed affects Dashing Horizontal Velocity
 
 **By:** Mcpie\#8672  
 **Added:** <Version date="2021-06-08" />  
@@ -199,7 +212,7 @@ Tested movements speeds: 1. [0%](https://tcl-backup.s3.filebase.com/evidence/gen
 
 Raw video evidence \(no timestamps\): [YouTube](https://www.youtube.com/watch?v=C69T4AwkJGE)
 
-## Movement Speed Stacks Additively
+### Movement Speed Stacks Additively
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2021-11-01" />  
@@ -321,41 +334,7 @@ The error for Anemo Resonance + Rosaria + C6 Amber is `0.0326`, which is once ag
 However getting `Anemo Resonance + Rosaria + C6 Amber + C2 Jean` to work takes a lot of effort - incorrect timing have caused a huge error (`0.1296`!), but I'm submitting this anyway.  
 Other tests yielded an error of `<~0.02`, which is acceptable due to start/end velocities change on Sayu roll + uneven terrain.
 
-## Character Hitboxes
-
-**By:** HK\#0001  
-**Added:** <Version date="2021-06-08" />  
-**Last tested:** <VersionHl date="2021-06-08" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848227425379942411_851738303363547146_transcript-character-hitboxes.html)
-
-**Finding:**  
-Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
-
-**Evidence:**  
-Shots from ranged enemies seem to register beyond the character model until the floating weapon behind the unit’s back. For example, when the Pyroslinger shoots at the gap between Ganyu’s back and her floating bow, [it apparently hits](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848227761155735552_Genshin_Impact_2021-05-29_22-12-11.mp4). Secondary test [with a ranged hilichurl](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848228285397598248_Genshin_Impact_2021-05-29_21-52-45.mp4).
-
-[Hitbox comparison with Zhongli Shield.](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_849296459312660491_2021-06-01_22-35-23.mp4)
-
-**Significance:**  
-By knowing this, hopefully we can have a better understanding about how far the hitbox of our character model reaches. While this is certainly niche, this can possibly give some people that wants to do a meme run with their character such as a no damage run, an advantage with this findings.
-
-## Swimming Methods
-
-**By:** Fuzzy#5432  
-**Added:** <Version date="2021-06-24" />  
-**Last tested:** <VersionHl date="2021-06-24" />  
-[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_856824799057018880_857668248568332319_transcript-swimming-methods.html)
-
-**Finding:**  
-Tapping shift while swimming has a stamina cost that is only a little higher than not holding shift, but the swimming speed is almost as fast as holding shift. (Project inspired by u/lightmgl on Reddit)
-
-**Evidence:**  
-[Video](https://www.youtube.com/watch?v=wOdFDxYUcJA&ab_channel=Fuzzy)
-
-**Significance:**  
-Get around Teyvat faster! Though not holding shift while swimming is the most stamina efficient and holding shift while swimming is the fastest, tapping shift at even intervals will offer the best of both methods: a relatively fast, stamina-efficient way of swimming
-
-## Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks
+### Move Speed Increases Jump Height and Double Anemo Allows for Plunge Attacks
 
 **By:** Risuke\#6743  
 **Added:** <Version date="2020-12-14" />  
@@ -367,37 +346,7 @@ Get around Teyvat faster! Though not holding shift while swimming is the most st
 **Significance:**  
 Having increased movespeed is now potentially practical. It allows an additional action to be performed alongside NA and CA. This may allow characters with weaker NAs to perform better.
 
-## Infinite Dashing and Catapulting off cliffs(Translation)
-
-**By:** KluEvo\#8507  
-**Added:** <Version date="2020-11-20" />  
-**Last tested:** <VersionHl date="2020-11-20" />
-
-**Finding:**  
-Double dashing with pauses can allow for infinite running. Dashing off of cliffs can allow for faster fall.
-
-**Evidence:**  
-[Google Doc](https://docs.google.com/document/d/1LWCaPASur30ei7OQKC89EujL0TZloXk7sp_Hnxruvjw/view)
-
-**Significance:**  
-Faster Travel.
-
-## Extra velocity gained when hit
-
-**By:** Hatsuharufag\#4291  
-**Added:** <Version date="2021-01-18" />  
-**Last tested:** <VersionHl date="2021-01-18" />
-
-**Finding:**  
-You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.
-
-**Evidence:**  
-[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks. [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)
-
-**Significance:**  
-Yet another way to initiate plunge attacks on even ground.
-
-## Max enemy mvsp decrease
+### Max enemy mvsp decrease
 
 **By:** Recovent#9620  
 **Added:** <Version date="2021-08-31" />  
@@ -437,14 +386,15 @@ The first 5 are mainly visuals with numbers made through previous attempts to ma
 **Significance:**  
 If there were ever characters that were able to decrease mob speed (and almost likewise, character speed from mobs) then without a bind, a freeze status, or similar, mobs will only be slowed and never not be able to ‘stay put’ or be unable to physically move.
 
-## Speed Comparsion Between Walk Jump And Continuous Walk
+### Speed Comparsion Between Walk Jump And Continuous Walk
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2022-01-10" />  
 **Last tested:** <VersionHl date="2022-01-10" />  
 [Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_929185303288217600_930052462809849876_transcript-speed-comparison-walk-jump-vs-continuous-walk.html)
 
-**Finding:** Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
+**Finding:**  
+Let JW be Jump Walking and CW be Continuous Walking. JW means spamming jump while continuously walking forward while CW means the same, but without any jumps. All models are faster while performing JW.
 
 The ranking from fastest to slowest is:
 
@@ -459,11 +409,13 @@ The ranking from fastest to slowest is:
 9. JW Child Female
 10. CW Child Female
 
-**Evidence:** Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
+**Evidence:**  
+Video displaying side by side comparison of all body types: [Youtube](https://youtu.be/Z8ROXAgikn8)
 
-**Significance:** Allows players to pick up best way to move while regenerating stamina.
+**Significance:**  
+Allows players to pick up best way to move while regenerating stamina.
 
-## Size Does Not Matter
+### Size Does Not Matter
 
 **By:** Mcpie#8672  
 **Added:** <Version date="2022-01-28" />  
@@ -480,7 +432,7 @@ Currently tested for adult male model.
 **Significance:**  
 Picking a taller character of the same skeleton model will not increase the velocity or distance covered. Be aware that height DOES matter in walk to swim transition and vice versa.
 
-## Elevator Affects Movement Speed
+### Elevator Affects Movement Speed
 
 **By:** Pablos\#1142  
 **Added:** <Version date="2022-04-08" />  
@@ -491,7 +443,6 @@ Picking a taller character of the same skeleton model will not increase the velo
 When riding an elevator up and jumping just at the right moment before it stops, we can build up enough upwards momentum to momentarily jump higher than usual and reach sufficient height to open a wind glider. Conversely the same principle applies when riding an elevator on the way down, going down builds enough downwards momentum to visibly diminish the height of jump. This technique works for all character models.
 
 **Evidence:**
-
 * [Wind glider jump](https://imgur.com/a/YRVCmHX)
 * [Normal jump](https://imgur.com/a/mM9GuOg)
 * [Diminished jump](https://imgur.com/a/TvnGQgD)
@@ -499,42 +450,29 @@ When riding an elevator up and jumping just at the right moment before it stops,
 **Significance:**  
 Fluff and documenting overworld mechanics.
 
-## Items Hate Physics
+## Hitboxes
 
-**By:** Ultimate Noob\#2955  
-**Added:** <Version date="2022-08-25" />  
-**Last tested:** <VersionHl date="2022-08-25" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
+### Character Hitboxes
+
+**By:** HK\#0001  
+**Added:** <Version date="2021-06-08" />  
+**Last tested:** <VersionHl date="2021-06-08" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_848227425379942411_851738303363547146_transcript-character-hitboxes.html)
 
 **Finding:**  
-Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.
+Character hitboxes extend beyond their model until the weapon floating behind their back. Their front hitbox is of roughly equal size to their back hitbox, the exact bounds are just a bit larger at a similar dimension to Zhongli's Shield radius.
 
 **Evidence:**  
-[Imgur](https://imgur.com/a/5Xhdn5Y)  
-[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)
+Shots from ranged enemies seem to register beyond the character model until the floating weapon behind the unit’s back. For example, when the Pyroslinger shoots at the gap between Ganyu’s back and her floating bow, [it apparently hits](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848227761155735552_Genshin_Impact_2021-05-29_22-12-11.mp4). Secondary test [with a ranged hilichurl](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_848228285397598248_Genshin_Impact_2021-05-29_21-52-45.mp4).
+
+[Hitbox comparison with Zhongli Shield.](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_848227425379942411_849296459312660491_2021-06-01_22-35-23.mp4)
 
 **Significance:**  
-Fluff, Genshin makes 0 sense.
+By knowing this, hopefully we can have a better understanding about how far the hitbox of our character model reaches. While this is certainly niche, this can possibly give some people that wants to do a meme run with their character such as a no damage run, an advantage with this findings.
 
-## Optimal Swimming
+## Time
 
-**By:** Goden\#2155  
-**Added:** <Version date="2022-09-27" />
-**Last tested:** <Version date="2022-09-27" />  
-[Discussion](https://tickets.deeznuts.moe/transcripts/optimal-swimming)
-
-**Bug:**  
-Turning while swimming drains extra Stamina, so swimming in straight lines should be done whenever possible.  
-  
-**Evidence:**  
-Found that if you mash A and D to rapidly move side to side it drains your stamina very quickly, so consequently turning must use up extra stamina in comparison to moving in a straight line when swimming \(the drain is actually extremely fast and could be even faster if you macro'd the little wiggle I did in the water, real wild\).  
-* Stamina drain while swimming in a straight line [YouTube](https://youtu.be/Nf_TkhpBSR8)  
-* Stamina drain while rapidly moving side to side [YouTube](https://youtu.be/rqcAJtCP0x0)  
-  
-**Significance:**  
-Swim in straight lines for maximum distance \(or speedrun drowning if that's your goal\).
-
-## Tick Tock
+### Tick Tock
 
 **By:** Tibo\#4309  
 **Added:** <Version date="2022-11-02" />  
@@ -637,3 +575,91 @@ Entities have a "ticking" player bound to them in Co-Op.
 **Significance 5:**  
 Entity time depends on the player who is ticking said enemy, which might not always be the same player as the world host.  
 Allows easier abuse of stacking debuffs on enemy since duration doesn't expire.
+
+## Velocity
+
+### Extra velocity gained when hit
+
+**By:** Hatsuharufag\#4291  
+**Added:** <Version date="2021-01-18" />  
+**Last tested:** <VersionHl date="2021-01-18" />
+
+**Finding:**  
+You gain extra velocity from enemy hits when you jump. This velocity can be used to initiate jump attacks even when normally they should be impossible.
+
+**Evidence:**  
+[Video 1](https://www.youtube.com/watch?v=JXbHUYFzuig) I'm using the worst character model for plunge attacks, female(teen). Female(adult) and both male models get more air time and so have easier time executing plunge attacks. [Video 2](https://www.youtube.com/watch?v=hwNx4m_E4cs)
+
+**Significance:**  
+Yet another way to initiate plunge attacks on even ground.
+
+## Other
+
+### Push Pull effects
+
+**By:** Saltyfart\#8946  
+**Added:** <Version date="2021-05-23" />  
+**Last tested:** <VersionHl date="2021-05-23" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_843282047161729034_845886074508804096_transcript-push-pull-effects.html)
+
+**Finding:**  
+Push/pull effects are dynamic across team members
+
+**Evidence:**
+
+* [Delayed Swap](https://imgur.com/a/vGKRUwy)
+* [Instant Swap](https://imgur.com/a/YUJMRtO)
+* [Running -&gt; Swap](https://imgur.com/a/t5jKYrh)
+
+Across these 3 videos, there is a consistent interaction of a push effect being generated on Venti, which is then completely nullified when Venti is switched off-field. The timing of the character switch is varied between the clips, but the result is the same.
+
+Practicality of this? Ehhhhhh, there are only two enemies I can think of that generate a force while not knocking the player to the floor- which are the anemo samachurls and Boreas during his 2nd phase cutscene.
+
+In this [clip](https://imgur.com/a/1q4unpo), character swap ended up making the pull effect reapply for each character swapped in rather then nullifying it. Character swapping inside the little whirlwind made the pull stronger rather than weaker lmao.
+
+We can also see here that the boreas wolf push also applies multiple instances of pushes rather than a single big push, making the character swap ineffective here too. At this point, I realized that the devs probably knew players would probably find a method to negate push effects, so push effects were coded in a way to prevent negating them.
+
+**Significance:** Maybe when miHoYo adds an enemy that does a single instance of a push vs the player \(which would probably never happen\)- this information could be helpful. But outside of that, the only significant thing here to learn is don’t switch characters while you are in an anemo samachurl pull /or against any other enemy that spams a push effect in the future I guess.
+
+### Waypoint Teleport Variance
+
+**By:** Mcpie\#8672  
+**Added:** <Version date="2021-06-03" />  
+**Last tested:** <VersionHl date="2021-06-03" />  
+[Discussion](https://tickets.deeznuts.moe/ticket-archive/attachments_846494202334412901_849908480075628574_transcript-waypoint-teleportation-inconsistency.html)
+
+**Findings:**  
+Two possible findings:
+
+* Teleporting to a waypoint does not always teleport you to the same coordinates
+* Dashing off a cliff horizontal velocity might be dependant on current character action, like idle animation, idle jump or a character switch.
+
+**Evidence:**  
+Two videos of Zhongli \(a lot of takes\) dashing from the top of Qingyun Peak \(waypoint\) without prior movement resulted with landing in locations separated by &lt; 1m.
+
+Image 1: [Consistent landing location](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495239493779466_2021-05-24_22-42-44-06.41.533-06.59.817-audio.webm_snapshot_00_00_15_2021.05.24.jpg) \(&gt;20 attempts, almost always in this spot\)
+
+Image 2: [Location that is a bit further than the landing spot from image 1](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495391162695690_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm_snapshot_00_00_13_2021.05.24.jpg)
+
+[Video proof for images](https://tcl-backup.s3.filebase.com/evidence/general-mechanics/movement-and-physics.md/discord/attachments_846494202334412901_846495546289291304_2021-05-24_22-42-44-04.22.333-04.37.900-audio.webm)
+
+Additional video showing 4 adult male models, landing location very rarely differs: [YouTube](https://youtu.be/QPR38O5yM7M)
+
+**Significance:** Might skew the results from Cliff Dash Displacement.
+
+### Items Hate Physics
+
+**By:** Ultimate Noob\#2955  
+**Added:** <Version date="2022-08-25" />  
+**Last tested:** <VersionHl date="2022-08-25" />  
+[Discussion](https://tickets.deeznuts.moe/transcripts/items-hate-physics)
+
+**Finding:**  
+Items don't care about physics, when they have dropped on the ground they will no longer be updated (things like Swirl exist but won't update if not interacted with). This can be seen by dropping water levels with items on it, such as killing a flying enemy. When the water level drops the item remains at the original position, being unaffected by gravity.
+
+**Evidence:**  
+[Imgur](https://imgur.com/a/5Xhdn5Y)  
+[Imgur](https://imgur.com/fO8PPnx) \(credit to Aevean Leeow\#1362\)
+
+**Significance:**  
+Fluff, Genshin makes 0 sense.
