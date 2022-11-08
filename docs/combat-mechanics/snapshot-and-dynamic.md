@@ -155,7 +155,6 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 | <CharIconLink char='Venti' element='anemo' />              | Elemental Burst: Wind's Grand Ode                         | Damage over Time and Additional Elemental DMG        |
 | <CharIconLink char='Xiangling' element='pyro' />           | Elemental Skill: Guoba Attack                             | DMG                                                  |
 |                                                            | Elemental Burst: Pyronado                                 | Pyronade DMG                                         |
-| <CharIconLink char='Yae Miko' element='haracters' />       | Elemental Burst: Great Secret Art: Tenko Kenshin          | Tenko Thunderbolt DMG                                |
 | <CharIconLink char='Zhongli' element='geo' />              | Elemental Skill: Dominus Lapidis                          | Stone Stele Resonance DMG                            |
 
 ### Dynamic Talents
@@ -164,14 +163,14 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 | ------------------------------------------------------- | -------------------------------------------------- | --------------------------------------- |
 | <CharIconLink char='Eula' element='cryo' />             | Elemental Burst: Glacial Illumination              | Lightfall Sword Base DMG and Stack DMG  |
 | <CharIconLink char='Fischl' element='electro' />        | Elemental Burst: Midnight Phantasmagoria           | Falling Thunder DMG                     |
-| <CharIconLink char='Hu_Tao' element='haracters' />      | Elemental Skill: Guide to Afterlife                | Blood Blossom DMG                       |
+| <CharIconLink char='Hu Tao' element='pyro' />           | Elemental Skill: Guide to Afterlife                | Blood Blossom DMG                       |
 | <CharIconLink char='Keqing' element='electro' />        | Elemental Burst: Starward Sword                    | Burst DMG                               |
 | <CharIconLink char='Mona' element='hydro' />            | Elemental Burst: Stellaris Phantasm                | Burst DMG                               |
 | <CharIconLink char='Qiqi' element='cryo' />             | Elemental Burst: Adeptus Art: Preserver of Fortune | Healing                                 |
-| <CharIconLink char='Raiden_Shogun' element='electro' /> | Elemental Burst: Secret art: Musou Shinsetsu       | Burst DMG                               |
+| <CharIconLink char='Raiden Shogun' element='electro' /> | Elemental Burst: Secret art: Musou Shinsetsu       | Burst DMG                               |
 |                                                         | Elemental Skill: Transcendence: Baleful Omen       | Coordinated DMG                         |
 | <CharIconLink char='Razor' element='electro' />         | Elemental Burst: Lightning Fang                    | Soul Companion DMG                      |
-| <CharIconLink char='Kuki_Shinobu' element='electro' />  | Elemental Skill: Sanctifying Ring                  | Grass Ring of Sanctification DMG        |
+| <CharIconLink char='Kuki Shinobu' element='electro' />  | Elemental Skill: Sanctifying Ring                  | Grass Ring of Sanctification DMG        |
 | <CharIconLink char='Tartaglia' element='hydro' />       | Normal Attack Skill: Cutting Torrent               | Riptide Flash DMG and Riptide Burst DMG |
 |                                                         | Elemental Skill: Foul Legacy: Raging Tide          | Riptide Slash DMG                       |
 |                                                         | Elemental Burst: Havoc: Obliteration               | Riptide Blast DMG                       |
@@ -180,7 +179,8 @@ import CharIconLink from '@site/src/components/char/CharIconLink'
 | <CharIconLink char='Xingqiu' element='hydro' />         | Elemental Burst: Guhua Sword: Raincutter           | Rain Sword DMG                          |
 | <CharIconLink char='Xinyan' element='pyro' />           | Elemental Skill: Sweeping Fervor                   | Shield's DoT                            |
 |                                                         | Elemental Burst: Riff Revolution                   | Pyro DoT                                |
-| <CharIconLink char='Yae_Miko' element='haracters' />    | Elemental Skill: Yakan Evocation: Sesshou Sakura   | Sesshou Sakura DMG                      |
+| <CharIconLink char='Yae Miko' element='electro' />      | Elemental Skill: Yakan Evocation: Sesshou Sakura   | Sesshou Sakura DMG                      |
+|                                                         | Elemental Burst: Great Secret Art: Tenko Kenshin   | Tenko Thunderbolt DMG                   |
 | <CharIconLink char='Yelan' element='hydro' />           | Elemental Burst: Depth-Clarion Dice                | Exquisite Throw DMG                     |
 | <CharIconLink char='Yoimiya' element='pyro' />          | Elemental Burst: Ryuukin Saxifrage                 | Aurous Blaze Explosion DMG              |
 
