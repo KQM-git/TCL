@@ -10,7 +10,7 @@ search: false
 
 ## Basic Mechanics
 
-[Discussion](https://tickets.deeznuts.moe/transcripts/candace-basic-mechanics)
+[Discussion](https://tickets.deeznuts.moe/transcripts/candace-basic-mechanics-1024513911459946547)
 
 * Gauges - Puffin\#9920
   * E (tap and hold): 1A - [Video](https://www.youtube.com/watch?v=hvcrj4nT-s0)
@@ -20,7 +20,8 @@ search: false
   * E - Bobrokrot\#0111
     * Tap: No ICD - [Video](https://youtu.be/aAAwH6Cu25U)
     * Hold: No ICD - [Video](https://youtu.be/jAHvEvGzy9M)
-  * Q (after swapping): No ICD - [Imgur](https://imgur.com/a/FFJ95Mr) - Aftermath\#7658
+  * Q (after swapping) - No ICD - [Imgur](https://imgur.com/a/FFJ95Mr) - Aftermath\#7658
+  * C6 Procs - No ICD - [Video](https://youtu.be/EZYZeAwipvQ) - username\#5125
 * Snapshotting:
   * E and Q: Dynamic - [Video](https://youtu.be/st6K4RWTdWo) - Bobrokrot\#0111
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1ZzXEM18EpmZcffzbVZNghpR7xrA39ypWwO1BTtiAQzc/edit?usp=sharing) - Kolibri\#7675
@@ -53,6 +54,10 @@ search: false
   * [Imgur](https://imgur.com/IILpMea)
 
 ## Constellation Mechanics
+
+### C6: The Overflow
+
+* Candace C6 has no ICD. - [Video](https://youtu.be/EZYZeAwipvQ) - username\#5125
 
 ## Synergies/Interactions
 
