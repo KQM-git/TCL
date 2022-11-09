@@ -523,24 +523,25 @@ There are different \(at least 4\) ways the game keeps track of time.
     * Example: Skills which duration get extended by hitlag \(e.g.: not deployables\), elemental auras
 
 **Evidence 3:**  
-1. 
-   * Red Feather Fan: [YouTube](https://youtu.be/fCtMDH7AFfI)
-   * Food and gadgets \(includes Kamera pausing in Co-Op before 2.8\): [YouTube](https://youtu.be/xUbUWGzmVKo)  
-2. Does pause while game is paused: [YouTube](https://www.youtube.com/watch?v=Su7Itye024A)  
-   * But not in Co-Op w/Kamera pause before 2.8: [YouTube](https://youtu.be/xUbUWGzmVKo)  
-   * Does not follow max frame time: [YouTube](https://youtu.be/1ZJnPUpj9iQ), [Google Sheets](https://docs.google.com/spreadsheets/d/1OOoZ2Z1jX583HLZv-TSeg0CFJsWfcv1lFVKCpxKDb7E/edit#gid=0)  
-   * Runs while logging in into the game  
+1. Real time:
+    * Red Feather Fan: [YouTube](https://youtu.be/fCtMDH7AFfI)
+    * Food and gadgets \(includes Kamera pausing in Co-Op before 2.8\): [YouTube](https://youtu.be/xUbUWGzmVKo)  
+2. Cursed time:
+    * Does pause while game is paused: [YouTube](https://www.youtube.com/watch?v=Su7Itye024A)  
+    * But not in Co-Op w/Kamera pause before 2.8: [YouTube](https://youtu.be/xUbUWGzmVKo)  
+    * Does not follow max frame time: [YouTube](https://youtu.be/1ZJnPUpj9iQ), [Google Sheets](https://docs.google.com/spreadsheets/d/1OOoZ2Z1jX583HLZv-TSeg0CFJsWfcv1lFVKCpxKDb7E/edit#gid=0)  
+    * Runs while logging in into the game  
     * Initial food usage + relog on PC (119s -> 109s): [YouTube](https://youtu.be/jBlSF0CLaTI)  
     * Laptop login (109 -> 22): [YouTube](https://youtu.be/q7h_Erv-jro)  
     * Logging back in on desktop (22 -> 15): [YouTube](https://youtu.be/tDAmjw-Bp5E)  
     * The exact moment can better be described as when you "take over the world", indicated by the "Account has logged in on another device"; which is shown in last video  
-3. 
-   * Max time per frame: [YouTube](https://youtu.be/P10o7Sc09zw), [Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=0) 
-   * Does not follow hitlag: [YouTube](https://youtu.be/apChAKi-mvA) \(CD number is visible from 5.967s and goes invisible at 15.95s \(9.983s\)\)  
-   * Hitlag extension caveats: [TCL page](../combat-mechanics/frames.md#hitlag-extension-caveats)  
+3. Game time:
+    * Max time per frame: [YouTube](https://youtu.be/P10o7Sc09zw), [Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=0) 
+    * Does not follow hitlag: [YouTube](https://youtu.be/apChAKi-mvA) \(CD number is visible from 5.967s and goes invisible at 15.95s \(9.983s\)\)  
+    * Hitlag extension caveats: [TCL page](../combat-mechanics/frames.md#hitlag-extension-caveats)  
 4. 
-   * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillburst-duration)  
-   * Hitlag is per entity: [YouTube](https://youtu.be/3E3R_VEL2UA)  
+    * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillburst-duration)  
+    * Hitlag is per entity: [YouTube](https://youtu.be/3E3R_VEL2UA)  
 
 **Significance 3:**  
 This split could potentially be abused even further in the future.  
