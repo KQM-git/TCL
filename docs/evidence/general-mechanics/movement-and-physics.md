@@ -539,7 +539,7 @@ There are different \(at least 4\) ways the game keeps track of time.
     * Max time per frame: [YouTube](https://youtu.be/P10o7Sc09zw), [Google Sheets](https://docs.google.com/spreadsheets/d/182KPzD5g2ThH1vIB9VNTYBt7UmY6T_kW23Z6YZhqZMk/edit#gid=0) 
     * Does not follow hitlag: [YouTube](https://youtu.be/apChAKi-mvA) \(CD number is visible from 5.967s and goes invisible at 15.95s \(9.983s\)\)  
     * Hitlag extension caveats: [TCL page](../combat-mechanics/frames.md#hitlag-extension-caveats)  
-4. 
+4. Entity time:
     * Normal Attack hitlag can extend Skill/Burst duration: [TCL page](/docs/evidence/combat-mechanics/frames.md#normal-attack-hitlag-can-extend-skillburst-duration)  
     * Hitlag is per entity: [YouTube](https://youtu.be/3E3R_VEL2UA)  
 
