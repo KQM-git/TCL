@@ -12,6 +12,9 @@ search: false
 
 * Frame data - [Google Sheets](https://docs.google.com/spreadsheets/d/1GAeBzMr0XX89azZhpbjEqPfehgruwI3__GlfEgQ1VvA/edit?usp=sharing) - Kolibri\#7675
 * Burst frame data [Google Sheets](https://docs.google.com/spreadsheets/d/1zCwdd6_KYFqMD4OQ_llGLdDshoZTu_1pmAMysxGDQvs/edit?usp=sharing) - Kolibri\#7675
+* Gauges - Silvershine2\#5439
+  * E cast: 1A - [YouTube](https://www.youtube.com/watch?v=x8GJdemQFZ0)
+  * E recast: 2B - [YouTube](https://www.youtube.com/watch?v=LbetLHzuKHs)
 
 ## Attack Mechanics
 

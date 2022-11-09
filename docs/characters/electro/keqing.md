@@ -48,7 +48,7 @@ import Skill from '@site/src/components/char/Skill'
 <div>
 
 | String         | Talent 9%      | Frames | MV/s      | Poise Damage | Impulse Type |
-| :------------- | :------------- | :----- |:--------- | :----------- | :----------- |
+| :------------- | :------------- | :----- | :-------- | :----------- | :----------- |
 | Charged Attack | 141.09% + 158% | 36     | 498.48%/s | 47.3 x2      | 2 + 6        |
 | N1C            | 374.46%        | 63     | 356.63%/s | -            | -            |
 | N2C            | 449.83%        | 87     | 310.23%/s | -            | -            |
@@ -82,20 +82,20 @@ import Skill from '@site/src/components/char/Skill'
 <div class='talent-columns'>
 <Skill char={char} skill='e' />
 
-| Attribute                       | Lightning Stiletto                                | Thunderclap Slash |
-| :------------------------------ | :------------------------------------------------ | :---------------- |
-| Lightning Stiletto \(T9%\)      | 85.68%                                            | -                 |
-| Stiletto Mark Secondary \(T9%\) | 285.6%                                            | 142.8% x 2        |
-| Particles                       | 2~3 \(1:1\)                                       | -                 |
-| GU                              | 2B                                                | -                 |
-| ICD                             | None                                              | -                 |
-| ICD Secondary                   | 3 hit / 2.5s                                      | -                 |
-| Snapshot                        | Snapshot                                          | -                 |
-| Damage Element                  | Electro                                           | -                 |
-| Damage Type                     | Skill                                             | -                 |
-| CD                              | 7.5s                                              | -                 |
-| Poise Damage                    | Lightning Stiletto: 50 <br/> Slashing: 100        | 50 x2             |
-| Impulse Type                    | Lightning Stiletto: 3 <br/> Slashing: Air, 0, 600 | 2 x2              |
+| Attribute                       | Lightning Stiletto                              | Thunderclap Slash |
+| :------------------------------ | :---------------------------------------------- | :---------------- |
+| Lightning Stiletto \(T9%\)      | 85.68%                                          | -                 |
+| Stiletto Mark Secondary \(T9%\) | 285.6%                                          | 142.8% x 2        |
+| Particles                       | 2~3 \(1:1\)                                     | -                 |
+| GU                              | Lightning Stiletto: 1A<br />Slashing: 2B        | 2B                |
+| ICD                             | None                                            | -                 |
+| ICD Secondary                   | 3 hit / 2.5s                                    | -                 |
+| Snapshot                        | Snapshot                                        | -                 |
+| Damage Element                  | Electro                                         | -                 |
+| Damage Type                     | Skill                                           | -                 |
+| CD                              | 7.5s                                            | -                 |
+| Poise Damage                    | Lightning Stiletto: 50<br/>Slashing: 100        | 50 x2             |
+| Impulse Type                    | Lightning Stiletto: 3<br/>Slashing: Air, 0, 600 | 2 x2              |
 
 </div>
 
